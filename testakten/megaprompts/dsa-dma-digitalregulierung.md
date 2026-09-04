@@ -9,18 +9,18 @@ Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `dsa-dma-digitalreg
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in DSA DMA Digitalregulierung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; v…
 2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
 3. **digitalregulierung-erstpruefung-und-mandatsziel** — Für Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Erg…
-4. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
-5. **digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb** — Für Schnittstellen — DSA, DMA, DSGVO, P2B-VO und Paragraf 19a GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: …
-6. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
-7. **mandantenkommunikation-redteam-qualitygate** — Für Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristen…
-8. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
-9. **workflow-redteam-qualitygate** — Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristench…
-10. **workflow-chronologie-und-belegmatrix** — Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix…
-11. **klagewege-mandantenkommunikation-entscheidungsvorlage** — Für Klagewege: Mandantenkommunikation und Entscheidungsvorlage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebni…
-12. **output-waehlen** — Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fac…
-13. **workflow-unterlagen-lueckenliste** — Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fac…
-14. **account-internationaler-bezug-und-schnittstellen** — Für Account: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstell…
-15. **forschungsdatenzugang-mehrparteienkonflikt** — Für Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebni…
+4. **klage-gegen-vlop-einordnung-art-263-aeuv** — Bereitet die Nichtigkeitsklage eines adressierten Unternehmens gegen eine VLOP- oder Gatekeeper-Benennung vor. Prüft Kla…
+5. **account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa** — Prüft Kontosperre, Inhaltsentfernung, Reichweiten- oder Monetarisierungsbeschränkung nach DSA Artikel 14 sowie 17 und 20…
+6. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+7. **digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb** — Für Schnittstellen — DSA, DMA, DSGVO, P2B-VO und Paragraf 19a GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: …
+8. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+9. **mandantenkommunikation-redteam-qualitygate** — Für Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristen…
+10. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+11. **workflow-redteam-qualitygate** — Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristench…
+12. **workflow-chronologie-und-belegmatrix** — Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix…
+13. **klagewege-mandantenkommunikation-entscheidungsvorlage** — Für Klagewege: Mandantenkommunikation und Entscheidungsvorlage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebni…
+14. **output-waehlen** — Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fac…
+15. **workflow-unterlagen-lueckenliste** — Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fac…
 
 ---
 
@@ -242,6 +242,366 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 DSA-Pflichten gestaffelt — Kleinst-/Kleinunternehmen profitieren von Erleichterungen Art. 19, 24, 29 DSA. Aber: Wenn die Plattform schnell wächst, ist die VLOP-Schwelle (45 Mio.) oft schnell erreicht; dann gilt Art. 34 (Risikobewertung), Art. 37 (Audit), Art. 41 (Compliance-Officer). Frühzeitig planen, nicht erst nach Benennung.
+
+---
+
+## Skill: `klage-gegen-vlop-einordnung-art-263-aeuv`
+
+_Bereitet die Nichtigkeitsklage eines adressierten Unternehmens gegen eine VLOP- oder Gatekeeper-Benennung vor. Prüft Klagefrist, anfechtbaren Akt, Klagegründe, Beweisakte, Vertraulichkeit und Eilrechtsschutz und erstellt eine einreichungsfähige Klageschrift nach AEUV Artikel 263 sowie Verfahrensordnung des Gerichts._
+
+# Klage gegen Designations-Beschluss — Art. 263 AEUV
+
+## Arbeitsbereich
+
+Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA (VLOP-Designation), Art. 3 DMA (Gatekeeper-Designation), Art. 278-279 AEUV (Eilrechtsschutz). Prüfraster: Klagebefugnis (Adressat, individuell betroffen), Klagegründe (Unzuständigkeit, Formfehler, Vertragsverletzung, Ermessensmissbrauch), Frist 2 Monate. Output Klageschrift-Geruest EuG, Eilrechtsschutz-Antrag. Abgrenzung: VLOP-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper-Schwellen siehe dma-gatekeeper-schwellen-und-kernplattformdienste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Direktauftrag
+
+Lies Designationsbeschluss, Zustellnachweis und Verwaltungsakte zuerst. Bestimme den exakt angefochtenen Akt, sichere die Klagefrist nach AEUV Artikel 263 Absatz 6 und ordne jeden Klagegrund einer bestimmten Passage des Beschlusses, einem Beleg und der stärksten Verteidigung der Kommission zu. Prüfe Eilrechtsschutz nach AEUV Artikel 278 und 279 getrennt.
+
+- Start: Unmittelbar mit Fristenblatt, Klagegrund-Beleg-Matrix und Klageanträgen beginnen; nur entscheidungserhebliche Lücken nachfragen.
+- Tatbestand und Beweis: Nutzerzahlen, Dienstfunktion, Konzernzurechnung, Kommissionsmethode, Anhörung, Begründung und wirtschaftliche Folgen jeweils durch konkrete Aktenfundstellen belegen.
+- Kernnormen: DSA Artikel 3 bis Artikel 6: Rollen, Vermittlungsdienste und Haftungsprivilegien nach Dienstetyp. DSA Artikel 34, Artikel 35 und Artikel 40: systemische Risikobewertung, Risikominderung und Datenzugang bei sehr großen Diensten.
+- Rechtsprechung: Kein Urteil nur zur Dekoration einsetzen. Rechtsprechung erst verwenden, wenn Gericht, Datum, Aktenzeichen, tragender Satz und Übertragungsgrenze in einer amtlichen oder frei zugänglichen Volltextquelle geprüft sind.
+- Einsatzgrenze: Normfassung und tragende Aussage am amtlichen Volltext prüfen; eine Entscheidung nicht auf andere Tatbestands-, Beweis- oder Verfahrensstufen übertragen.
+- Abschluss: Das Ergebnis muss `Klage gegen Designations-Beschluss — Art. 263 AEUV` konkret beantworten, die stärkste Gegenposition verarbeiten und den nächsten verwendbaren Text, Antrag, Rechenweg oder Vollzugsschritt liefern.
+
+## Zuständigkeit
+
+- **Erstinstanz: Gericht der Europäischen Union (EuG, Luxemburg)** für natürliche und juristische Personen
+- **Rechtsmittel zum EuGH** auf Rechtsfragen (Art. 256 Abs. 1 AEUV)
+
+## Klagebefugnis (Art. 263 Abs. 4 AEUV)
+
+Natürliche oder juristische Personen können klagen:
+
+1. gegen **an sie gerichtete** Handlungen — Designations-Beschluss ist klassischer Fall
+2. gegen Handlungen, die sie **unmittelbar und individuell** betreffen
+3. gegen **Rechtsakte mit Verordnungscharakter**, die sie unmittelbar betreffen und keine Durchführungsmaßnahme erfordern
+
+Bei DSA-Designation und DMA-Gatekeeper-Benennung ist das Unternehmen **Adressat des Beschlusses** — Variante 1, Klagebefugnis unproblematisch.
+
+## Frist (Art. 263 Abs. 6 AEUV)
+
+- **Zwei Monate** ab:
+ - Bekanntgabe an den Adressaten **oder**
+ - Bekanntmachung im Amtsblatt **oder**
+ - Kenntnis (subsidiär)
+- **+ zehn Tage** Entfernungsfrist (Art. 60 § 1 VerfO EuG)
+- Frist ist materiell — Versäumung führt zur Unzulässigkeit
+
+## Klagegründe (Art. 263 Abs. 2 AEUV)
+
+1. **Unzuständigkeit** der Kommission
+2. **Verletzung wesentlicher Formvorschriften** — Begründungsmangel (Art. 296 AEUV), Anhörung
+3. **Verletzung der Verträge oder einer bei ihrer Durchführung anzuwendenden Rechtsnorm** — falsche Auslegung der Schwellen, Verhältnismäßigkeitsverstoß, Grundrechtsverletzung (Art. 16 GRCh unternehmerische Freiheit)
+4. **Ermessensmissbrauch**
+
+## Typische Argumentationslinien (Stand 2026, Spruchpraxis EuG)
+
+### Bei DSA-VLOP-Designation
+
+- **Nutzerzählung methodisch falsch** — Doppelzählung, Bots, Gastnutzer
+- **45-Mio.-Schwelle nicht dauerhaft erreicht** — Saisonalität, einmaliger Peak
+- **Verhältnismäßigkeit der Pflichten** — Mittelstandsplattform mit Spezialfunktion
+- **Begründungsmangel** der Designation
+- **Grundrechtseingriff** in Berufsfreiheit, Eigentum (Aufsichtsgebühr Art. 43 DSA)
+
+### Bei DMA-Gatekeeper-Designation
+
+- **Quantitative Schwellen** nicht erreicht oder falsch berechnet
+- **Widerlegung der Vermutung** nach Art. 3 Abs. 5 DMA: Plattform legt Beweise für fehlende Marktmacht oder fehlende Zugangstor-Funktion vor
+- **Falsche Marktabgrenzung** für einen Kernplattformdienst
+- **Konzernzurechnung** unzutreffend
+- **Konfliktmanagement** mit Pflichten aus anderen Rechtsakten unzureichend gewürdigt
+
+## Eilrechtsschutz (Art. 278, 279 AEUV)
+
+- Klage hat **keine aufschiebende Wirkung** (Art. 278 S. 1 AEUV)
+- Eilantrag auf **Aussetzung des Vollzugs** möglich (Art. 278 S. 2)
+- Voraussetzungen: fumus boni iuris, Dringlichkeit, Interessenabwägung
+- **EuG hat in Eilverfahren zu DSA und DMA bislang restriktiv entschieden** — Aussetzung selten gewährt, weil öffentliches Interesse an rascher Anwendung hoch
+
+## Verfahrensablauf EuG
+
+1. **Klageschrift** in einer EU-Amtssprache (idR Sprache des Adressatenstaats) mit allen Anlagen
+2. Klageschrift muss **klar abgegrenzte Klagegründe** und **Klageanträge** enthalten
+3. **Klageerwiderung** der Kommission (idR zwei Monate)
+4. **Erwiderung** und **Gegenerwiderung** möglich
+5. Mündliche Verhandlung
+6. Urteil — durchschnittliche Verfahrensdauer 18 bis 24 Monate
+
+## Streitwert und Kosten
+
+- Verfahren ist **gebührenfrei**
+- Vertretungsanforderungen nach Artikel 19 der Satzung des Gerichtshofs der Europäischen Union und Verfahrensordnung des Gerichts; Unabhängigkeit und Vertretungsbefugnis des Rechtsanwalts prüfen
+- Eigene Kosten und ggf. Kosten der Kommission bei Unterliegen
+
+## Strategie
+
+- **Parallel zur Klage Kommunikation mit der Kommission** offen halten — Pflichten greifen 4 Monate (DSA) bzw. 6 Monate (DMA) nach Designation, in dieser Zeit Compliance vorantreiben
+- **Außergerichtliche Schritte**: Antrag auf Aussetzung bei der Kommission, Anpassungsdialog
+- **PR und Investor Relations**: Designation hat Marktbewertungs-Effekte
+- Bei **Erfolg vor EuG**: Rückwirkung der Nichtigkeit; bereits gezahlte Aufsichtsgebühren rückforderbar
+- Bei **Misserfolg**: Rechtsmittel zum EuGH binnen zwei Monaten, nur Rechtsfragen
+
+## Fallstricke
+
+- Sprache der Klage: Klage muss in einer EU-Amtssprache und in der **Verfahrenssprache** abgefasst werden
+- Vertretungsnachweis und Angaben zum vertretungsberechtigten Rechtsanwalt nach Verfahrensordnung und den aktuellen Praktischen Durchführungsbestimmungen; keine pauschale Originalvollmacht oder Ausweiskopie verlangen
+- Anlagenverzeichnis, Fundstellen, Verfahrenssprache und erforderliche Übersetzungen
+- Für vertrauliche Informationen einen begründeten Antrag auf vertrauliche Behandlung und eine nicht vertrauliche Fassung nach den Verfahrensregeln vorbereiten; keine deutsche Schutzschriftterminologie verwenden
+
+## Aktuelle Rechtsprechung
+
+- Gericht, Urteil vom 03.09.2025 - T-348/23, Zalando gegen Kommission: erste gerichtliche Prüfung einer VLOP-Benennung; Plattformbegriff, aktive Nutzer, Rechtssicherheit, Gleichbehandlung, Verhältnismäßigkeit und Begründung wurden im konkreten Benennungsfall geprüft. Das Rechtsmittel C-724/25 P ist bei Verwendung des Urteils als Präjudiz kenntlich zu machen.
+- Gericht, Urteil vom 08.07.2026 - verbundene Rechtssachen T-1079/23, T-1080/23 und T-214/24, Apple gegen Kommission: Die Klagen zur Gatekeeper-Benennung von App Store und iOS blieben ohne Erfolg; die Angriffe im Zusammenhang mit iMessage waren teilweise unzulässig. Den jeweiligen Klagegegenstand und die konkrete Zulässigkeitsbegründung nicht verallgemeinern.
+- Vor Ausgabe Verfahrensstand, Rechtsmittel und amtlichen Volltext über CURIA prüfen.
+
+## Zentrale Normen (Paragrafenkette)
+
+- Art. 263 Abs. 4 AEUV — Nichtigkeitsklage; 2-Monatsfrist
+- Art. 278/279 AEUV — Eilrechtsschutz (Aussetzung und einstweilige Maßnahmen)
+- Art. 256 AEUV — Zuständigkeit EuG in erster Instanz
+- Art. 33 DSA — VLOP-Designation durch Kommission
+- Art. 3 DMA — Gatekeeper-Designation durch Kommission
+
+## Triage zu Beginn
+
+1. Ist der Mandant Adressat des Kommissionsbeschlusses (VLOP/Gatekeeper)?
+2. Wann wurde der Beschluss bekanntgegeben? Frist 2 Monate nach Art. 263 Abs. 6 AEUV berechnen.
+3. Welche Klagegründe kommen in Betracht? (Formfehler / Schwellenwert-Fehler / Verhältnismäßigkeit / Ermessensmissbrauch)
+4. Ist Eilrechtsschutz nach Art. 278 AEUV erforderlich (Durchsetzungsaufsetzung)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Nichtigkeitsklage gegen DSA/DMA-Beschluss vorbereiten | Grundgeruest-Template unten |
+| Variante A — Klagebefugnis zweifelhaft | Klagebefugnis Art. 263 Abs. 4 AEUV zuerst prüfen; ggf. Vorabentscheidung |
+| Variante B — nur Eilrechtsschutz noetig (keine Hauptsache) | Art. 278-279 AEUV; separater Eilantrag |
+| Variante C — Beschwerde an Kommission effektiver | Informelles Verfahren vor Klageerhebung erwaegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Output-Template — Nichtigkeitsklage EuG (Grundgerüst)
+
+**Adressat:** EuG — Tonfall: sachlich-juristisch
+
+```
+Nichtigkeitsklage nach Art. 263 Abs. 4 AEUV
+[DATUM]
+
+Klaeger: [NAME, ANSCHRIFT, VERTRETER]
+Beklagte: Europaeische Kommission
+
+Anfechtungsgegenstand: Beschluss der Kommission vom [DATUM] Az. [AZ]
+(Designation als VLOP nach Art. 33 DSA / Gatekeeper nach Art. 3 DMA)
+
+Klagebefugnis (Art. 263 Abs. 4 AEUV):
+Adressat des Beschlusses — klagebefugt.
+
+Klaggründe:
+1. [VERLETZUNG WESENTLICHER FORMVORSCHRIFTEN: z.B. unzureichende Begruendung Art. 296 AEUV]
+2. [VERLETZUNG DES VERTRAGS: z.B. falsche Schwellenwertberechnung Art. 3 Abs. 2 DMA]
+3. [ERMESSENSMISSBRAUCH: z.B. sachfremde Erwägungen]
+
+Hilfsanträge (Art. 278/279 AEUV): [AUSSETZUNG DER DURCHSETZUNG BIS URTEIL]
+
+Antrag:
+1. Beschluss vom [DATUM] für nichtig zu erklären.
+2. Kosten der Beklagten aufzuerlegen.
+```
+
+--- vor Versand klären ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa`
+
+_Prüft Kontosperre, Inhaltsentfernung, Reichweiten- oder Monetarisierungsbeschränkung nach DSA Artikel 14 sowie 17 und 20 bis 23 sowie Vertragsrecht. Erstellt Beweissicherung, interne Beschwerde, Antrag zur Streitbeilegung und bei Eilbedarf einen gerichtlichen Freischaltungs- oder Unterlassungsantrag._
+
+# Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA
+
+## Direktauftrag
+
+Bearbeite Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA entlang der Digitale Plattformregulierung-Prüflinie: Vorgang: Meldung, Sperre, Ranking, Werbung, Empfehlungssystem, Händlernachverfolgung, Beschwerde oder behördliche Maßnahme erfassen. Arbeite die für diesen Gegenstand entscheidende Fachstation aus: Vorgang: Meldung, Sperre, Ranking, Werbung, Empfehlungssystem, Händlernachverfolgung, Beschwerde oder behördliche Maßnahme erfassen Maßgebliche Kontrollfrage: Welche konkrete technische und wirtschaftliche Funktion übt der Dienst aus.
+
+- Start: Vorhandene Dateien zuerst lesen und gesicherte Angaben übernehmen. Im Arbeitsmodus `Fallbearbeitung` unmittelbar mit dem Arbeitsprodukt beginnen: Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA-Prüfvermerk mit Ergebnis, Gegenposition, Beleglücken und nächstem Schritt.
+- Tatbestand und Beweis: Ordne jedem entscheidungserheblichen Merkmal einen Aktenfund oder eine ausdrücklich bezeichnete Lücke zu; bloße Plausibilität ersetzt weder Vortrag noch Beweis.
+- Kernnormen: DSA Artikel 3 bis Artikel 6: Rollen, Vermittlungsdienste und Haftungsprivilegien nach Dienstetyp. DSA Artikel 20 bis Artikel 23: internes Beschwerdesystem, außergerichtliche Streitbeilegung, vertrauenswürdige Hinweisgeber und Missbrauchsschutz.
+- Rechtsprechung: EuGH, Urteil vom 12.07.2011 - C-324/09: L'Oréal gegen eBay betrifft die frühere unionsrechtliche Haftungs- und Unterlassungsordnung für Online-Marktplätze; die Aussage ist bei heutigen Fällen mit dem DSA abzugleichen.
+- Einsatzgrenze: Normfassung und tragende Aussage am amtlichen Volltext prüfen; eine Entscheidung nicht auf andere Tatbestands-, Beweis- oder Verfahrensstufen übertragen.
+- Abschluss: Das Ergebnis muss `Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA` konkret beantworten, die stärkste Gegenposition verarbeiten und den nächsten verwendbaren Text, Antrag, Rechenweg oder Vollzugsschritt liefern.
+
+## Ausgangslage
+
+Nutzer wird auf einer Online-Plattform gesperrt (Account-Sperre, Schattensperre, Inhaltsentfernung, Demonetarisierung, Reichweitenbeschränkung). Plattform sitzt regelmäßig im Ausland; deutsche Niederlassung oder Vertreter nach Art. 13 DSA vorhanden.
+
+## Pflicht-Stufen der Plattform
+
+### Stufe 1 — Begründung (Art. 17 DSA)
+
+- **Klare und spezifische Begründung** der Beschränkung, in präziser, leicht verständlicher Sprache
+- Inhalt der Begründung Art. 17 Abs. 3:
+ - Art der Beschränkung (Sichtbarkeit, Geldwert, Bezahlung, Hosting, Account-Sperre)
+ - Sachverhalt und Umstände
+ - **Rechtliche oder vertragliche Grundlage** und Erklärung warum sie passt
+ - Information über **Beschwerdemöglichkeiten** (Art. 20, 21)
+- Versand in **DSA Transparency Database** (öffentlich)
+- Eine fehlende oder unzureichende Begründung ist ein eigenständiger Verfahrensverstoß. Ob auch die Sperre aufzuheben ist, wird gesondert nach Vertrag, anwendbarem Recht und materieller Berechtigung geprüft.
+
+### Stufe 2 — Internes Beschwerdesystem (Art. 20 DSA)
+
+- Plattform muss ein wirksames, leicht zugängliches und kostenfreies elektronisches Beschwerdesystem anbieten. Die Beschwerdemöglichkeit besteht mindestens sechs Monate ab Mitteilung der Entscheidung.
+- Die Entscheidung darf nicht ausschließlich automatisiert getroffen werden und muss unter Aufsicht angemessen qualifizierten Personals erfolgen.
+- Über Beschwerden ist zeitnah, sorgfältig, nicht willkürlich und objektiv zu entscheiden. Der DSA setzt keine feste Bearbeitungsfrist von wenigen Wochen.
+- Entscheidung wieder begründet und mit Hinweis auf Art. 21
+
+### Stufe 3 — Außergerichtliche Streitbeilegung (Art. 21 DSA)
+
+- **Zertifizierte ADR-Stellen** vom DSC
+- Plattform muss sich beteiligen; Entscheidung jedoch **nicht bindend**
+- Kosten: für Nutzer bei Obsiegen erstattungsfähig; Plattform trägt Kosten der ADR-Stelle
+- Stand 2026: in Deutschland mehrere zertifizierte Stellen; Bundesnetzagentur als DSC führt Liste
+
+### Stufe 4 — Gerichtlicher Weg
+
+#### Hauptsache
+
+- **Anspruchsgrundlage:** Wiederherstellung des Accounts / Freischaltung des Beitrags aus dem **Nutzungsvertrag** (positive Vertragsverletzung, § 280 BGB; Erfüllungsanspruch)
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Die BGH-Linie ist mit dem DSA kompatibel und wird ergänzt — Art. 14 Abs. 4 DSA verlangt **sorgfältige, objektive und verhältnismäßige Anwendung** der AGB unter Berücksichtigung der Grundrechte
+
+#### Eilrechtsschutz
+
+- **§§ 935, 940 ZPO** — einstweilige Verfügung auf Wiederherstellung des Zugangs / Reichweitenfreigabe
+- Verfügungsgrund regelmäßig zu bejahen, insbesondere bei:
+ - Wirtschaftlicher Abhängigkeit (Creator, Händler)
+ - Wahlnähe und politischer Kommunikation
+ - Drohender irreversibler Reichweitenverlust
+- Streitwert orientiert sich an wirtschaftlicher Bedeutung, oft 5 000 bis 25 000 EUR
+
+#### Internationale Zuständigkeit
+
+- **Verbrauchersache:** Art. 17 ff. Brüssel-Ia-VO — Klage am Wohnsitz des Verbrauchers
+- **Gewerbliche Sache:** Erfüllungsort, Art. 7 Nr. 1 Brüssel-Ia
+- Wenn die Plattform keine Niederlassung in der Union hat: Zustellungsrecht und internationale Zuständigkeit eigenständig prüfen. Der Vertreter nach DSA Artikel 13 ist nicht automatisch Zustellungsbevollmächtigter für eine Zivilklage und begründet keine Niederlassung.
+
+## Anspruchspaket
+
+1. **Wiederherstellung** des Accounts oder des Inhalts
+2. **Unterlassung** zukünftiger gleichartiger Sperre
+3. **Auskunft** über Sperrgrund und beteiligte automatische Systeme (DSGVO Art. 15, ggf. Art. 22)
+4. **Löschung** unrichtiger interner Daten (DSGVO Art. 16, 17)
+5. **Schadensersatz** bei nachweisbarem Vermögensschaden (entgangene Einnahmen, Folgeschäden); Geldentschädigung wegen Persönlichkeitsrechtsverletzung möglich, aber Hürden hoch
+6. **Erstattung** außergerichtlicher Rechtsanwaltskosten
+
+## Praktischer Mandantenfahrplan
+
+1. **Beweissicherung**: Screenshots, E-Mails, Sperrmitteilung, betroffene Beiträge archiviert (Wayback / lokale Speicherung)
+2. **Begründung anfordern** (falls nicht ausreichend nach Art. 17)
+3. **Interne Beschwerde** einlegen (Art. 20) — Frist und Inhalt dokumentieren
+4. **Parallele DSGVO-Auskunft** Art. 15 zu Sperrgrund und Profiling
+5. Bei Eilbedürftigkeit: **Eilantrag** vorbereiten; ADR-Schritt darf nicht vorausgesetzt werden, weil DSA Eilrechtsschutz nicht ausschließt
+6. ADR-Verfahren oder Klage je nach Aussicht und wirtschaftlichem Volumen
+
+## Sonderfälle
+
+- **Sperre durch VLOP**: schärfere Pflichten (z. B. Risikobewertung, Transparenz). Gerichtsentscheidungen heben oft auf Inkonsistenz zwischen AGB und gelebter Moderation ab
+- **Schattensperre** (Reichweitenreduktion): von Art. 17 Abs. 1 lit. a) erfasst — Pflicht zur Begründung trotzdem
+- **Algorithmische Entscheidung ohne menschliche Überprüfung**: Art. 22 DSGVO und Art. 20 Abs. 6 DSA — Anspruch auf menschliche Überprüfung
+- **Politische Werbung**: zusätzliche Pflichten nach VO (EU) 2024/900
+- **Bot-Verdacht**: Plattform behauptet Bot — Mandant muss Echtheit nachweisen; trotzdem Begründungs- und Beschwerdesystem-Pflicht
+
+## Schnittstelle Strafrecht
+
+Bei Sperrgrund "rechtswidriger Inhalt" die konkret behauptete zivil-, straf- oder öffentlich-rechtliche Verbotsnorm prüfen. Äußerungsdelikte können insbesondere StGB Paragrafen 86, 86a, 130 und 185 ff. betreffen. BDSG Paragraf 33 ist keine Strafnorm. Eine Stellungnahme darf keine unnötigen neuen Tatsachen einräumen.
+
+## Zentrale Normen (Paragrafenkette)
+
+- DSA Artikel 17, 20, 21 und 23 - Begründungspflicht, internes Beschwerdesystem, außergerichtliche Streitbeilegung und Maßnahmen gegen missbräuchliche Nutzung; Transparenzberichte folgen insbesondere aus DSA Artikel 15 und 24.
+- §§ 307, 241 Abs. 2 BGB — AGB-Kontrolle und Rücksichtnahmepflichten
+- §§ 935, 940 ZPO — Einstweilige Verfügung
+- Art. 11 GRCh — Meinungsfreiheit
+
+## Faktische Updates (Stand 05/2026)
+
+- DSA - anwendbar seit dem 17.02.2024: DSA Artikel 20 bis 23 gelten für Online-Plattformen, vorbehaltlich der Ausnahme für Kleinst- und Kleinunternehmen nach DSA Artikel 19; für sehr große Online-Plattformen greift diese Ausnahme nicht. Ein bloßer Hostingdienst ist nicht allein deshalb Online-Plattform.
+- **DDG (Digitale-Dienste-Gesetz):** Das deutsche DDG ist 14.05.2024 in Kraft getreten (BGBl 2024 I Nr. 149); enthaelt nationale Durchfuehrungsbestimmungen, Bestimmung der BNetzA als DSC, Sanktionsregime, Klagebefugnisse, Verbraucher- und Datenschutz-Schnittstellen. Quelle: bgbl.de, bundesnetzagentur.de.
+- **ADR-Stellen Art. 21 DSA:** Liste der von der BNetzA zertifizierten Streitbeilegungsstellen live über bundesnetzagentur.de prüfen.
+- **BGH-Linie zu Account-Sperren:** Aktuelle Rechtsprechung zur AGB-Kontrolle der Sperr-Klauseln (BGH III. ZS) live über dejure.org prüfen. DSA ergaenzt die BGH-Linie (insb. zu Verfahrenspflichten, Begruendungstiefe, Art. 14 Abs. 4 DSA).
+- **Schnittstelle MStV / TDDDG:** Bei medienrechtlich relevanten Plattformen zusaetzlich § 18, § 19 MStV (Medien­staats­vertrag) beachten.
+
+## Triage zu Beginn
+
+1. Art der Maßnahme: Account-Sperrung / Inhaltsdeaktivierung / Einschränkung?
+2. Plattform VLOP/VLOSE (Art. 33 DSA) → erweiterte Pflichten Art. 20, 21, 22 DSA?
+3. Begründung durch Plattform erhalten (Art. 17 DSA)?
+4. Frist für internes Beschwerdeverfahren noch offen (Art. 20 DSA: 6 Monate ab Maßnahme)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Account-Sperre anfechten (Art. 20-23 DSA) | Stufenweiser Rechtsbehelfs-Fahrplan unten |
+| Variante A — interne Beschwerde ausreichend | Stufe 2 DSA-Beschwerde ohne gerichtlichen Weg |
+| Variante B — Eilsache (Existenzgefaehrdung durch Sperre) | Direkt Eilrechtsschutz; eAVV beim LG Berlin o.ae. |
+| Variante C — Sperre wegen rechtswidriger Nutzerbedingung | DSA-Beschwerdestelle einschalten; Normwidrigkeitspruefung Art. 14 DSA |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Output-Template — Account-Sperre-Mandat
+
+**Adressat:** Gericht / Plattform — Tonfall: sachlich-juristisch
+
+```
+Verfügungsantrag / Klage wegen Account-Sperre [DATUM]
+Antragsteller/Klaeger: [NAME MANDANT, ANSCHRIFT]
+Antragsgegnerin/Beklagte: [PLATTFORM, EU-VERTRETER]
+Az.: [AKTENZEICHEN]
+
+Sachverhalt:
+[KURZBESCHREIBUNG SPERRE, DATUM, BEGRUENDUNG PLATTFORM]
+
+DSA-Beschwerdeverfahren:
+Interne Beschwerde eingereicht am: [DATUM] / nicht moeglich
+Ergebnis: [BESCHREIBUNG] / ausstehend
+
+Rechtliche Wuerdigung:
+1. AGB-Kontrolle § 307 BGB: [ARGUMENT]
+2. Begründungspflicht Art. 17 DSA: [ARGUMENT]
+3. Verhältnismäßigkeit / Art. 11 GRCh: [ARGUMENT]
+
+Antrag: Wiederherstellung des Accounts / Inhalts unverzüglich
+Streitwert: [BETRAG EUR]
+```
+
+--- vor Versand klären ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -788,90 +1148,6 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
-
----
-
-## Skill: `account-internationaler-bezug-und-schnittstellen`
-
-_Für Account: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
-
-# Account: Internationaler Bezug und Schnittstellen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSA Art. 16 Notice-and-Action unverzügliche Reaktion, Art. 24 jährlicher Transparenzbericht, Art. 34 Risikoassessment jährlich/bei Bedarf, DMA Art. 11 Compliance-Bericht 6 Monate nach Benennung.
-- Tragende Normen verifizieren: Digital Services Act (VO 2022/2065) Art. 4-15 (Haftung), 16-22 (Meldung), 24-32 (mittelgroße/VLOP), 33-43 (sehr große), 50-66 (Aufsicht), Digital Markets Act (VO 2022/1925) Art. 3 (Gatekeeper), 5-7 (Pflichten), DDG, TMG (außer Kraft), NetzDG (auslaufend) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: AGB nach Art. 14 DSA, Transparenzbericht, Risikoassessment, Compliance-Officer-Konzept, Streitbeilegung Art. 21 DSA, DSC-Meldung, DMA-Compliance-Bericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Account: Internationaler Bezug und Schnittstellen
-- **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Account-Sperre internationaler Bezug** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Internationaler Bezug bei Account-Sperre (DSA)
-- **Räumlicher Anwendungsbereich DSA Art. 2 Abs. 1:** Anbieter von Vermittlungsdiensten mit angebotenen Diensten in der EU — unabhängig vom Sitz.
-- **Drittlandsanbieter Art. 13 DSA:** schriftlich bestellter Rechtsvertreter in EU; ohne Rechtsvertreter keine wirksame Zustellung möglich.
-- **Plattformbedingungen in mehreren Sprachen:** Art. 14 Abs. 1 DSA verlangt klare und unzweideutige Sprache, oft Übersetzungen in Landessprachen.
-- **Grenzüberschreitende Account-Sperre:** Wenn US-Plattform deutsche Nutzer sperrt: DSA gilt; nationale Beschwerde via BNetzA (DSC), Klage zum ZG in DE (§§ 12, 29 ZPO; bei Verbrauchern § 29c ZPO).
-- **Schnittstellen zu nationalem Recht:**
- - **TKG / DDG:** für Telekommunikationsdienste teils ergänzend.
- - **DSGVO:** Account-Datenlöschung; Auskunftsanspruch Art. 15.
- - **UWG:** bei Mitbewerberklage über unzulässige Plattformpraktiken.
-- **US-Konflikt:** Section 230 Communications Decency Act schützt US-Plattformen vor US-Haftung — Spannung zum DSA-Notice-and-Action-Regime.
-
-## Praxis-Tipp
-Bei grenzüberschreitender Account-Sperre durch US-Plattform: zuerst nach DSA Art. 17 ein Statement of Reasons fordern (zwingend), dann Art. 20 internes Beschwerdeverfahren nutzen, parallel BNetzA-Beschwerde. Klage zum deutschen ZG ist möglich, aber häufig schwierig wegen Gerichtsstandsklauseln in AGB — diese müssen § 38 ZPO i.V.m. EuGVVO standhalten.
-
----
-
-## Skill: `forschungsdatenzugang-mehrparteienkonflikt`
-
-_Für Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
-
-# Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSA Art. 16 Notice-and-Action unverzügliche Reaktion, Art. 24 jährlicher Transparenzbericht, Art. 34 Risikoassessment jährlich/bei Bedarf, DMA Art. 11 Compliance-Bericht 6 Monate nach Benennung.
-- Tragende Normen verifizieren: Digital Services Act (VO 2022/2065) Art. 4-15 (Haftung), 16-22 (Meldung), 24-32 (mittelgroße/VLOP), 33-43 (sehr große), 50-66 (Aufsicht), Digital Markets Act (VO 2022/1925) Art. 3 (Gatekeeper), 5-7 (Pflichten), DDG, TMG (außer Kraft), NetzDG (auslaufend) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: AGB nach Art. 14 DSA, Transparenzbericht, Risikoassessment, Compliance-Officer-Konzept, Streitbeilegung Art. 21 DSA, DSC-Meldung, DMA-Compliance-Bericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix
-- **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Forschungsdatenzugang** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

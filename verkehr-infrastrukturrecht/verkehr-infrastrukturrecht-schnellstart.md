@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorhaben und Verfahre
 | Materielle Prüfung | Schutzgüter, Artenschutz, Immissionen, Denkmalschutzbelange, Fachbeiträge und Abwägung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Rechtsschutz | Klagebefugnis, Verbandsklage, Eilverfahren und Fehlerfolgen (Heilung, Planergänzung) bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Einwendung, Klagebegründung, Erwiderung, Nebenbestimmungsvorschlag oder Behördenvermerk ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Parkraumbewirtschaftung | Bearbeite Parkraumbewirtschaftung: Genehmigung, Planfeststellung, Erlaubnis oder Anzeige mit zuständiger Behörde. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,6 +59,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorhaben und Verfahre
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 12.05.2011 - C-115/09: Anerkannte Umweltvereinigungen müssen sich im Anwendungsbereich des Umweltrechtsbehelfsgesetzes auf unionsrechtlich geprägte Umweltschutzvorschriften berufen können.
+- EuGH, Urteil vom 15.10.2015 - C-137/14: Der gerichtliche Rechtsschutz in Umweltangelegenheiten darf nicht generell auf Einwendungen beschränkt werden, die bereits im Verwaltungsverfahren erhoben wurden.
 
 ## 7. Antwortform
 

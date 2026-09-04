@@ -33,8 +33,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Nutzerstrecke aufnehm
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 312 ff. und EGBGB Artikel 246a; BGB Paragraf 312j und Paragraf 312k; BGB Paragraf 327 ff. sowie Paragraf 433, Paragraf 434, Paragraf 475b |
-| Rechtsprechung | EuGH C-186/16 (Andriciuc) und C-26/13 (Kasler) |
-| Tatbestand | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Tatbestand | Gerät, URL, Land, Sprache, Nutzerrolle, Produkt, Warenkorb, Checkout, Bestätigung, Konto und Kündigung mit Screenshots sichern |
 | Beweislast | Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen |
 | Rechtsfolge | Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,10 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Nutzerstrecke aufnehm
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Nutzerstrecke aufnehmen | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertragsschluss | Angebot, Pflichtinformationen, Schaltfläche, Preis, Zusatzleistung, Zahlung, Bestätigung und AGB-Einbeziehung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Nutzerstrecke aufnehmen | Gerät, URL, Land, Sprache, Nutzerrolle, Produkt, Warenkorb, Checkout, Bestätigung, Konto und Kündigung mit Screenshots sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragsschluss | Angebot, Pflichtinformationen, Schaltfläche, Preis, Zusatzleistung, Zahlung, Bestätigung und AGB-Einbeziehung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Leistungsregime | Ware, digitale Leistung, Ware mit digitalem Element, Abo, Marktplatzrolle, Aktualisierung und Mangelrechte zuordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Durchsetzung und Beweis | Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

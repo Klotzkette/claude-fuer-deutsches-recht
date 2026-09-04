@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Vertriebs
 | Klausel- und Pflichtenprüfung | Einbeziehung, Transparenz, Leitbildabweichung und Informationspflichten getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Durchsetzungsweg | Individualanspruch, Musterfeststellung, Verbandsabmahnung oder Unterlassungsklage wählen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Online Shop Beschwerde Schreiben | Bearbeite Online Shop Beschwerde Schreiben: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

@@ -56,7 +56,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Luftfahrtobjekt und R
 - LuftSiG: Schutz vor Angriffen auf die Sicherheit des Luftverkehrs mit getrennten Pflichten von Flughafen, Unternehmen und Behörde.
 - InsO Paragrafen 15a 17-19 47 50: Insolvenzantragspflicht Gläubigerrechte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwGO Paragrafen 68 74 80: Widerspruch Klage aufschiebende Wirkung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- InsO Paragrafen 15a 17-19 47 EU-VO 1008/2008 Art. 9 EU-DVO 2015/1998 – die einschlägigen Normen werden je nach Sachverhaltsebene (nationaler Betrieb EU-Recht internationales Recht); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- InsO Paragrafen 15a 17-19 47 EU-VO 1008/2008 Art. 9 EU-DVO 2015/1998 – die einschlägigen Normen werden je nach Sachverhaltsebene (nationaler Betrieb EU-Recht internationales Recht) herangezogen und zu jedem Normzitat kurz erläutert; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - InsO Paragraf 15a: Antragspflicht innerhalb von 3 Wochen nach Eintritt der Zahlungsunfähigkeit; persönliche Haftung des Geschäftsführers; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform

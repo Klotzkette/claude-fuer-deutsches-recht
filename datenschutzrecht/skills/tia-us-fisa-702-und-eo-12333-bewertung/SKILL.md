@@ -17,7 +17,7 @@ description: "Für US-Überwachungsgrundlagen FISA 702 und EO 12333 für das TIA
 
 ### FISA Section 702
 
-- 50 U.S.C. § 1881a, neu autorisiert durch verschiedene Reauthorization Acts; aktuelle Reauthorization 2024.
+- 50 U.S.C. Section 1881a, neu autorisiert durch verschiedene Reauthorization Acts; aktuelle Reauthorization 2024.
 - Erlaubt zielgerichtete Erfassung der Kommunikation von Non-US-Personen, die sich vermutlich ausserhalb der USA befinden, mit dem Ziel der Auslandsaufklaerung.
 - Zuverfuegung-Pflicht: betrifft electronic communication service provider (ECSP) im weiten Sinn (Cloud, SaaS, IaaS, Telco, Messaging, E-Mail).
 - Keine individuelle gerichtliche Prüfung der einzelnen Selektoren; jaehrliche Programm-Zertifizierung durch FISA Court (FISC).
@@ -44,11 +44,11 @@ description: "Für US-Überwachungsgrundlagen FISA 702 und EO 12333 für das TIA
 
 - Verbesserung des Rechtsschutzes durch DPRC, aber Diskussion über Unabhaengigkeit dauert an.
 - Standards "necessary" und "proportionate" als US-interne Selbstbindung.
-- DPF ist gueltig; eigenstaendige Klage Schrems III anhaengig (NOYB).
+- Der Durchführungsbeschluss (EU) 2023/1795 ist in Kraft. Das Gericht der Europäischen Union wies die Nichtigkeitsklage Latombe gegen Kommission, T-553/23, am 3. September 2025 ab; das Rechtsmittel C-703/25 P ist anhängig. Das Verfahren stammt nicht von NOYB und ist nicht amtlich als „Schrems III“ bezeichnet.
 
 ## Ablauf / Checkliste
 
-1. **ECSP-Status:** Ist der Importeur ECSP iSd 50 U.S.C. § 1881(b)(4)? Faustregel: Cloud, SaaS, IaaS, E-Mail, Messaging, Telco -> Ja; reine On-Premises-Lizenz -> regelmaessig nein.
+1. **ECSP-Status:** Ist der Importeur ECSP im Sinne von 50 U.S.C. Section 1881(b)(4)? Faustregel: Cloud, SaaS, IaaS, E-Mail, Messaging, Telco -> Ja; reine On-Premises-Lizenz -> regelmäßig nein.
 2. **EO 12333-Exposition:** Daten in Transit über US-Carrier? Glasfaserkabel? Mitbenutzung von Backbone-Infrastruktur?
 3. **Transparenzbericht:** Veroeffentlicht der Importeur Zahlen zu FISA-/NSL-Anfragen?
 4. **Reaktionsmoeglichkeit:** Hat der Importeur die Befugnis und Praxis, FISA-Anfragen anzufechten?
@@ -61,7 +61,7 @@ description: "Für US-Überwachungsgrundlagen FISA 702 und EO 12333 für das TIA
 
 Baustein TIA-Schritt 3 (US):
 
-> Der Importeur ist als "electronic communication service provider" im Sinne des 50 U.S.C. § 1881(b)(4) qualifiziert (Cloud-/SaaS-Anbieter). Damit greift FISA Section 702 grundsätzlich auf seine Verarbeitungstaetigkeiten zu. Daneben besteht die Moeglichkeit der Erfassung von Daten in Transit nach Executive Order 12333.
+> Der Importeur ist als "electronic communication service provider" im Sinne von 50 U.S.C. Section 1881(b)(4) qualifiziert (Cloud-/SaaS-Anbieter). Damit greift FISA Section 702 grundsätzlich auf seine Verarbeitungstätigkeiten zu. Daneben besteht die Möglichkeit der Erfassung von Daten in Transit nach Executive Order 12333.
 >
 > Mit Executive Order 14086 vom 07.10.2022 wurden Verhältnismäßigkeitsmassstaebe ("necessary" und "proportionate") sowie der zweistufige Rechtsschutzmechanismus (CLPO/DPRC) eingefuehrt. Der EU-US Data Privacy Framework gemäß Durchfuehrungsbeschluss (EU) 2023/1795 stuetzt sich auf diese Reformen.
 >
@@ -84,13 +84,15 @@ Baustein TIA-Schritt 3 (US):
 - Quellenangaben aus Modellwissen statt Verifikation an offiziellen Texten.
 - Annahme, Schrems II sei "ueberholt" durch DPF – TIA für SCC-Faelle bleibt zwingend.
 
-## Quellen Stand 06/2026
+## Quellen Stand 09/2026
 
 - EuGH C-311/18 vom 16.07.2020 (Schrems II), insb. Rn. 168 ff.
-- 50 U.S.C. § 1881a (FISA Section 702); FISA Reauthorization Act 2024.
+- 50 U.S.C. Section 1881a (FISA Section 702); FISA Reauthorization Act 2024.
 - Executive Order 12333 vom 04.12.1981.
 - Executive Order 14086 vom 07.10.2022.
 - Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023 (EU-US DPF).
 - EDPB Empfehlung 02/2020 vom 10.11.2020 (EEG).
 - EDPB Information Note 1/2024 on EU-US DPF redress mechanism (Verifikation am Originaldokument).
 - PCLOB-Berichte (Privacy and Civil Liberties Oversight Board) zu Section 702.
+- Gericht der Europäischen Union, Urteil vom 3. September 2025, Latombe gegen Kommission, T-553/23, ECLI:EU:T:2025:831.
+- Gerichtshof der Europäischen Union, anhängiges Rechtsmittel vom 31. Oktober 2025, Latombe gegen Kommission, C-703/25 P.

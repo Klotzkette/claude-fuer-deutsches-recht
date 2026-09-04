@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Vertriebs
 | Klausel- und Pflichtenprüfung | Einbeziehung, Transparenz, Leitbildabweichung und Informationspflichten getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Durchsetzungsweg | Individualanspruch, Musterfeststellung, Verbandsabmahnung oder Unterlassungsklage wählen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Agb Anwaltsvertrag und Allg Mandatsbedingungen | Klauselproblem (Agb Anwaltsvertrag Und Allg Mandatsbedingungen): AGB im Anwaltsvertrag und Allgemeine. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,6 +59,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Vertriebs
 - BRAO Paragrafen 43, 49b zur Honorarvereinbarung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 52 BRAO: in vorformulierten Mandatsbedingungen ist eine Haftungsbeschränkung nur für einfache Fahrlässigkeit und nur bis zur vierfachen Mindestversicherungssumme zulässig; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 25, 39 BGB Vereinsrecht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 29.07.2021 - III ZR 192/20: Die Inhaltskontrolle nach BGB Paragraf 307 Absatz 1 Satz 1 verlangt eine umfassende Abwägung der wechselseitigen Interessen unter Berücksichtigung von Gegenstand, Zweck und Eigenart des Vertrags.
+- BGH, Urteil vom 07.04.2022 - I ZR 212/20: Im Unterlassungsverfahren nach UKlaG sind Klauseln getrennt nach Regelungsgehalt zu prüfen; der Senat beanstandete unter anderem Kosten-, Schadensersatz- und Haftungsausschlüsse in Paketbeförderungsbedingungen.
 
 ## 7. Antwortform
 

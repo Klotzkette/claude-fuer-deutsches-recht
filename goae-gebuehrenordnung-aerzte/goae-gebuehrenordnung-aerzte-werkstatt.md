@@ -188,7 +188,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. GOÄ Paragraf 1 Anwendungsbereich berufliche Leistungen
 
 Bearbeitungsauftrag: GOÄ Paragraf 1 Anwendungsbereich berufliche Leistungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Paragraf 1 GOÄ definiert den Anwendungsbereich der Gebührenordnung für Ärzte: Berufliche Leistungen approbierter Ärzte gegenüber Privatpatienten und Selbstzahlern. GKV-Leistungen sind nicht von der GOÄ erfasst (EBM, Paragraf 87 SGB V).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: GOÄ Paragraf 1 Anwendungsbereich berufliche Leistungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
+Normbezug aus dem Fachmaterial: GOÄ Paragraf 1 Anwendungsbereich berufliche Leistungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
 Lieferstück: Fachvotum zu GOÄ Paragraf 1 Anwendungsbereich berufliche Leistungen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. GOÄ Paragraf 10 Ersatz von Auslagen
@@ -199,7 +199,7 @@ Lieferstück: Fachvotum zu GOÄ Paragraf 10 Ersatz von Auslagen mit Tatbestandsm
 ### 16.3. GOÄ Paragraf 12 Fälligkeit und Rechnungspflicht
 
 Bearbeitungsauftrag: GOÄ Paragraf 12 Fälligkeit und Rechnungspflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Prüfe Leistungsinhalt, Ziffer, Steigerungsfaktor, Begründung, Auslagen, Wahlleistung, Schuldner, Erstattungsfähigkeit und Einwendungsfrist. Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: GOÄ Paragraf 12 Fälligkeit und Rechnungspflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
+Normbezug aus dem Fachmaterial: GOÄ Paragraf 12 Fälligkeit und Rechnungspflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
 Lieferstück: Fachvotum zu GOÄ Paragraf 12 Fälligkeit und Rechnungspflicht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. GOÄ Paragraf 5b Standardtarif PKV
@@ -220,31 +220,31 @@ Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Va
 ### 16.7. GOÄ Paragraf 14 Zahlung durch öffentliche Leistungsträger
 
 Bearbeitungsauftrag: GOÄ Paragraf 14 Zahlung durch öffentliche Leistungsträger: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Prüfe Leistungsinhalt, Ziffer, Steigerungsfaktor, Begründung, Auslagen, Wahlleistung, Schuldner, Erstattungsfähigkeit und Einwendungsfrist. Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: GOÄ Paragraf 14 Zahlung durch öffentliche Leistungsträger: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
+Normbezug aus dem Fachmaterial: GOÄ Paragraf 14 Zahlung durch öffentliche Leistungsträger: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
 Lieferstück: Fachvotum zu GOÄ Paragraf 14 Zahlung durch öffentliche Leistungsträger mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.8. GOÄ Paragraf 2 abweichende Vereinbarung Honorarvereinbarung
 
 Bearbeitungsauftrag: GOÄ Paragraf 2 abweichende Vereinbarung Honorarvereinbarung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Paragraf 2 GOÄ erlaubt eine abweichende Gebührenhöhe. Die Schwellenwerte nach Paragraf 5 GOÄ liegen bei 2.3, 1.8 und 1.15.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: GOÄ Paragraf 2 abweichende Vereinbarung Honorarvereinbarung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
+Normbezug aus dem Fachmaterial: GOÄ Paragraf 2 abweichende Vereinbarung Honorarvereinbarung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
 ### 16.9. GOÄ Paragraf 4 selbständige ärztliche Leistung Zielleistungsprinzip
 
 Bearbeitungsauftrag: GOÄ Paragraf 4 selbständige ärztliche Leistung Zielleistungsprinzip: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Prüfe Leistungsinhalt, Ziffer, Steigerungsfaktor, Begründung, Auslagen, Wahlleistung, Schuldner, Erstattungsfähigkeit und Einwendungsfrist. Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: GOÄ Paragraf 4 selbständige ärztliche Leistung Zielleistungsprinzip: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
+Normbezug aus dem Fachmaterial: GOÄ Paragraf 4 selbständige ärztliche Leistung Zielleistungsprinzip: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
 Lieferstück: Fachvotum zu GOÄ Paragraf 4 selbständige ärztliche Leistung Zielleistungsprinzip mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.10. GOÄ Paragraf 5 Bemessung Gebührenrahmen 2.3 1.8 1.15 Schwelle
 
 Bearbeitungsauftrag: GOÄ Paragraf 5 Bemessung Gebührenrahmen 2 und 3 1 und 8 1 und 15 Schwelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Prüfe Leistungsinhalt, Ziffer, Steigerungsfaktor, Begründung, Auslagen, Wahlleistung, Schuldner, Erstattungsfähigkeit und Einwendungsfrist. Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: GOÄ Paragraf 5 Bemessung Gebührenrahmen 2 und 3 1 und 8 1 und 15 Schwelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
+Normbezug aus dem Fachmaterial: GOÄ Paragraf 5 Bemessung Gebührenrahmen 2 und 3 1 und 8 1 und 15 Schwelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
 Lieferstück: Fachvotum zu GOÄ Paragraf 5 Bemessung Gebührenrahmen 2.3 1.8 1.15 Schwelle mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.11. GOÄ Paragraf 6a stationäre Minderung 25 Prozent 15 Prozent
 
 Bearbeitungsauftrag: GOÄ Paragraf 6a stationäre Minderung 25 Prozent 15 Prozent: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Prüfe Leistungsinhalt, Ziffer, Steigerungsfaktor, Begründung, Auslagen, Wahlleistung, Schuldner, Erstattungsfähigkeit und Einwendungsfrist. Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: GOÄ Paragraf 6a stationäre Minderung 25 Prozent 15 Prozent: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
+Normbezug aus dem Fachmaterial: GOÄ Paragraf 6a stationäre Minderung 25 Prozent 15 Prozent: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
 Lieferstück: Fachvotum zu GOÄ Paragraf 6a stationäre Minderung 25 Prozent 15 Prozent mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.12. GOÄ Paragraf 7 Entschädigungen

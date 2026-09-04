@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: englische oder bilinguale Klage, Erwiderung, CMC-Bu
 | --- | --- | --- | --- |
 | Fallkern | Commercial-Court-Versandmappe endfertigen | GVG Paragraf 119b | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | GVG Paragraf 184a | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Exhibits und Übersetzung | GVG Paragraf 184a | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Confidentiality and Trade Secrets | GVG Paragraf 184a | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | englische oder bilinguale Klage, Erwiderung, CMC-Bundle, Schutzantrag, Hearing Note oder Revisionsbriefing erstellen | Nachweisachse Parteiwille: Gerichtsstands- und Sprachvereinbarung, Klageantrag, Zustimmung, rügelose Einlassung oder Verweisungstatbestand dokumentieren | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -169,14 +169,14 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Commercial-Court-Versandmappe endfertigen | Bestimme Commercial Chamber, Commercial Court oder regulären Spruchkörper. Vertrauliche Preise, Quelltexte, Kundenlisten und Transaktionsdaten erhalten offene und geschützte Fassung sowie einen konkreten Antrag. | Fachvotum zu Commercial-Court-Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Exhibits und Übersetzung | Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. | Fachvotum zu Exhibits und Übersetzung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Verfahrenssprache Englisch | Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Soll der Output auf Deutsch, Englisch oder zweisprachig sein? | Fachvotum zu Verfahrenssprache Englisch mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Appeal and Revision | Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet | Fachvotum zu Appeal and Revision mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Forumcheck | Bundesland, Landesverordnung, sachlicher Katalog, Streitwert, Ausschluss, örtlicher Bezug und internationale Zuständigkeit prüfen | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Parteiwille | Gerichtsstands- und Sprachvereinbarung, Klageantrag, Zustimmung, rügelose Einlassung oder Verweisungstatbestand dokumentieren | Fachvotum zu Parteiwille mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Pleading und Case Management | Claim, defence, counterclaim, Zeitplan, Themenliste, Beweis, Übersetzung und Organisationstermin vorbereiten | Fachvotum zu Pleading und Case Management mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Geheimnisse und Beweis | Schutzantrag, Zugangsgruppe, exhibits, document production, witnesses, experts und Transcript steuern | Beweismatrix zu Geheimnisse und Beweis mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
-| Statement of Claim | Bearbeite Statement of Claim: claim, defence, counterclaim, Zeitplan, Themenliste, Beweis, Übersetzung und Organisationstermin vorbereiten | Fachvotum zu Statement of Claim mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Confidentiality and Trade Secrets | Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? | Fachvotum zu Confidentiality and Trade Secrets mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Exhibits und Übersetzung | Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? | Fachvotum zu Exhibits und Übersetzung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Interim Relief | Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? | Fachvotum zu Interim Relief mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Third Party Notice | Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? | Fachvotum zu Third Party Notice mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Verfahrenssprache Englisch | Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? | Fachvotum zu Verfahrenssprache Englisch mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Case Management Conference | Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? | Fachvotum zu Case Management Conference mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Evidence Map ZPO/Common Law | Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? | Fachvotum zu Evidence Map ZPO/Common Law mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Finance Disputes | Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? | Fachvotum zu Finance Disputes mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -188,57 +188,57 @@ Bearbeitungsauftrag: Bestimme Commercial Chamber, Commercial Court oder regulär
 Prüfschritte: Lies Klage oder Erwiderung, Gerichtsstands- und Sprachvereinbarung, landesrechtliche Zuständigkeitsregel, gerichtliche Verfügung und Vertragsdokumente zuerst; Dokumentiere, ob das Verfahren vollständig auf Englisch, vollständig auf Deutsch oder nur mit fremdsprachigem Vortrag geführt wird; Ordne Vertrag, Anhänge, Änderungen, Board- oder Gesellschafterbeschlüsse, Closing-Unterlagen, Leistungs- und Schadensbelege nach Beweistatsache.
 Lieferstück: Fachvotum zu Commercial-Court-Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. Exhibits und Übersetzung
+### 16.2. Confidentiality and Trade Secrets
 
-Bearbeitungsauftrag: Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings? Besondere Anker: Paragraf 184a GVG und Paragrafen 606 ff.
+Bearbeitungsauftrag: Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? Besondere Anker: Paragraf 273a ZPO, GeschGehG und gerichtliche Geheimhaltungsanordnungen.
+Lieferstück: Fachvotum zu Confidentiality and Trade Secrets mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.3. Exhibits und Übersetzung
+
+Bearbeitungsauftrag: Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? Besondere Anker: Paragraf 184a GVG und Paragrafen 606 ff.
 Lieferstück: Fachvotum zu Exhibits und Übersetzung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Verfahrenssprache Englisch
+### 16.4. Interim Relief
 
-Bearbeitungsauftrag: Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Soll der Output auf Deutsch, Englisch oder zweisprachig sein? Besondere Anker: Paragraf 184a GVG, Paragrafen 606 ff.
+Bearbeitungsauftrag: Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? Sicherheitsleistung Paragraf 921 ZPO: Bei eV regelmäßig Sicherheitsleistung verlangt.
+Lieferstück: Fachvotum zu Interim Relief mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.5. Third Party Notice
+
+Bearbeitungsauftrag: Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? Besondere Anker: Paragraf 607 ZPO zur Einbeziehung Dritter in englischsprachigen Verfahren.
+Lieferstück: Fachvotum zu Third Party Notice mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.6. Verfahrenssprache Englisch
+
+Bearbeitungsauftrag: Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? Besondere Anker: Paragraf 184a GVG, Paragrafen 606 ff.
 Lieferstück: Fachvotum zu Verfahrenssprache Englisch mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Appeal and Revision
+### 16.7. Case Management Conference
 
-Bearbeitungsauftrag: Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet.
-Lieferstück: Fachvotum zu Appeal and Revision mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? Besondere Anker: Paragraf 612 ZPO Organisationstermin.
+Lieferstück: Fachvotum zu Case Management Conference mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Forumcheck
+### 16.8. Evidence Map ZPO/Common Law
 
-Bearbeitungsauftrag: Bundesland, Landesverordnung, sachlicher Katalog, Streitwert, Ausschluss, örtlicher Bezug und internationale Zuständigkeit prüfen.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+Bearbeitungsauftrag: Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? Mehrwert ZPO: kostengünstiger, schneller, Geheimhaltung höher (kein US-Style-Public-Filing).
+Lieferstück: Fachvotum zu Evidence Map ZPO/Common Law mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Parteiwille
+### 16.9. Finance Disputes
 
-Bearbeitungsauftrag: Gerichtsstands- und Sprachvereinbarung, Klageantrag, Zustimmung, rügelose Einlassung oder Verweisungstatbestand dokumentieren.
-Lieferstück: Fachvotum zu Parteiwille mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? Documents of Title: Wechsel, Schuldscheine, Hypothekenbriefe — physische Sicherung kritisch.
+Lieferstück: Fachvotum zu Finance Disputes mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Pleading und Case Management
+### 16.10. Post-M&A Warranty Claims
 
-Bearbeitungsauftrag: Claim, defence, counterclaim, Zeitplan, Themenliste, Beweis, Übersetzung und Organisationstermin vorbereiten.
-Lieferstück: Fachvotum zu Pleading und Case Management mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.8. Geheimnisse und Beweis
-
-Bearbeitungsauftrag: Schutzantrag, Zugangsgruppe, exhibits, document production, witnesses, experts und Transcript steuern.
-Lieferstück: Beweismatrix zu Geheimnisse und Beweis mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
-
-### 16.9. Statement of Claim
-
-Bearbeitungsauftrag: Bearbeite Statement of Claim: claim, defence, counterclaim, Zeitplan, Themenliste, Beweis, Übersetzung und Organisationstermin vorbereiten.
-Lieferstück: Fachvotum zu Statement of Claim mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.10. Arbitration Clause Conflict
-
-Bearbeitungsauftrag: Bearbeite Arbitration Clause Conflict: Bundesland, Landesverordnung, sachlicher Katalog, Streitwert, Ausschluss, örtlicher Bezug und internationale Zuständigkeit prüfen.
-Lieferstück: Fachvotum zu Arbitration Clause Conflict mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? Vorzeitiges Settlement: spart Kosten und Reputation; aber kostet auch Recht auf weitere Claims.
+Lieferstück: Fachvotum zu Post-M&A Warranty Claims mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.11. Bea Erv English Pleadings
 
-Bearbeitungsauftrag: Bearbeite Bea Erv English Pleadings: Bundesland, Landesverordnung, sachlicher Katalog, Streitwert, Ausschluss, örtlicher Bezug und internationale Zuständigkeit prüfen.
+Bearbeitungsauftrag: Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor? PDF/A-Konformität: zwingend für viele Gerichte.
 Lieferstück: Fachvotum zu Bea Erv English Pleadings mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. BGH in English
+### 16.12. Appeal and Revision
 
-Bearbeitungsauftrag: Bearbeite BGH in English: Bundesland, Landesverordnung, sachlicher Katalog, Streitwert, Ausschluss, örtlicher Bezug und internationale Zuständigkeit prüfen.
-Lieferstück: Fachvotum zu BGH in English mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
+Lieferstück: Fachvotum zu Appeal and Revision mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

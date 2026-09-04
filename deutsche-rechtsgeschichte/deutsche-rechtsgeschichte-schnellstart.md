@@ -44,11 +44,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Quellenkritik, Norm u
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Quellenkritik | Textzeuge, Ausgabe, Fassung, Sprache, Übersetzung, Datum und Rechtsraum vor jeder Aussage sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Norm und Anwendungspraxis | historischen Tatbestand, Rechtsfolge, Institution und tatsächliche Durchsetzung aus getrennten Quellen rekonstruieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Norm und Anwendungspraxis | Historischen Tatbestand, Rechtsfolge, Institution und tatsächliche Durchsetzung aus getrennten Quellen rekonstruieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Privatrechtsgeschichte | Eigentum, Vertrag, Delikt, Familie und Erbe entlang der maßgeblichen Kodifikations- und Rezeptionsstufen vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Verfassungs- und Verwaltungsgeschichte | Institution, Kompetenz, Herrschaftspraxis, Rechtsbruch und Kontinuität ohne heutige Rückprojektion untersuchen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Rechtsüberleitung | Fortgeltung, Aufhebung, intertemporales Recht und Überleitungsnorm mit Verkündung und Stichtag belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Historische Fallanalyse | zeitgenössischen Maßstab, Gegenquelle, damalige Rechtsfolge und heutige Anschlussfrage sichtbar trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Historische Fallanalyse | Zeitgenössischen Maßstab, Gegenquelle, damalige Rechtsfolge und heutige Anschlussfrage sichtbar trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

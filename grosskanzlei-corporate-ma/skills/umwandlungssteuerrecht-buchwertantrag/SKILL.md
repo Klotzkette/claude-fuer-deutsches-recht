@@ -1,6 +1,6 @@
 ---
 name: umwandlungssteuerrecht-buchwertantrag
-description: "Für Umwandlungssteuerrecht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
+description: "Plant und prüft Buch- und Zwischenwertanträge bei Verschmelzung, Spaltung und Einbringung, sichert Antrags- und Achtmonatsfristen und erstellt eine steuerliche Struktur- und Vollzugsmatrix."
 ---
 
 # Umwandlungssteuerrecht
@@ -109,21 +109,21 @@ Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3
 ## Triage — klaere mit Steuerteam vor Strukturentscheidung
 
 1. Soll die Umwandlung zu Buchwerten erfolgen — Paragraf 11, 13 UmwStG (Verschmelzung), Paragraf 15, 20 UmwStG (Spaltung/Einbringung)? Antrag erforderlich?
-2. Ist die steuerliche Rueckwirkungsfrist einzuhalten — Paragraf 2 Abs. 1 UmwStG: maximal 12 Monate vor Anmeldung beim HR?
+2. Welche Rückwirkungsfrist gilt — bei Verschmelzungen höchstens acht Monate zwischen Schlussbilanzstichtag und Registeranmeldung nach Paragraf 17 Absatz 2 UmwG in Verbindung mit Paragraf 2 Absatz 1 UmwStG, bei Sacheinlagen höchstens acht Monate nach Paragraf 20 Absatz 6 UmwStG?
 3. Gibt es steuerliche Verlustvortraege — Paragraf 8c KStG Verlustuntergang bei mehr als 50 % Anteilserwerb in 5 Jahren; Sanierungsklausel Paragraf 8c Abs. 1a KStG anwendbar?
-4. Ist der Grunderwerbsteuer-Ergaenzungstatbestand ausgeloct — Paragraf 1 Abs. 2a, 2b GrEStG: 90 % Anteilsuebergang an grundbesitzender Gesellschaft = GrESt-Pflicht?
+4. Ist ein Grunderwerbsteuer-Ergänzungstatbestand ausgelöst — insbesondere nach Paragraf 1 Absatz 2a oder 2b GrEStG durch einen Übergang von mindestens 90 Prozent der Anteile an einer grundbesitzenden Gesellschaft?
 5. Welche Sperrfristen sind zu beachten — Paragraf 22 UmwStG: 7 Jahre nach Einbringung kein schaedlicher Anteilsverkauf (sonst rueckwirkende Entstrickung)?
 6. Gibt es Organschaft (Paragraf 14-19 KStG) — koennte Umwandlung Organschaft beenden?
 
 ## Zentrale Rechtsgrundlagen
 
-- Paragraf 11-13 UmwStG — Verschmelzung: Ansatz Buchwert/Zwischenwert/gemeiner Wert; Antrag für Buchwert beim Finanzamt; spaetestens mit Einreichung Steuererklarung
+- Paragrafen 11 bis 13 UmwStG — Verschmelzung: Der Antrag der übertragenden Körperschaft auf Buch- oder Zwischenwertansatz ist über Paragraf 11 Absatz 3 und Paragraf 3 Absatz 2 Satz 2 UmwStG spätestens mit der erstmaligen Abgabe der steuerlichen Schlussbilanz zu stellen; der gesonderte Anteilseignerantrag nach Paragraf 13 Absatz 2 UmwStG spätestens mit der ersten Steuererklärung, die den Übertragungsstichtag erfasst
 - Paragraf 15, 16 UmwStG — Spaltung: Teilbetriebsvoraussetzung für Buchwertansatz; Ausschlussfrist
-- Paragraf 20-24 UmwStG — Einbringung: Einzeluebertragung oder Ausgliederung gegen Anteile; Buchwert nur wenn qualifizierter Teilbetrieb; Sperrfrist 7 Jahre
+- Paragrafen 20 bis 24 UmwStG — Einbringung eines Betriebs, Teilbetriebs oder Mitunternehmeranteils gegen neue Anteile; Buch- oder Zwischenwert nur auf fristgerechten Antrag und bei sämtlichen Voraussetzungen des Paragrafen 20 Absatz 2 UmwStG; Sperrfolgen nach Paragraf 22 UmwStG
 - Paragraf 22 UmwStG — Sperrfrist-Verletzung: rueckwirkende Entstrickung; Einbringungsgewinn I/II
 - Paragraf 8c KStG — Verlustuntergang: mehr als 50 % Anteilsuebergang (schaedlicher Beteiligungserwerb) in 5 Jahren fuehrt zum vollstaendigen Verlustuntergang; Ausnahmen: Konzernklausel, stille-Reserven-Klausel, Sanierungsklausel
-- Paragraf 1 Abs. 2a, 2b GrEStG — Grunderwerbsteuer-Ergaenzungstatbestand: 90 % Anteilsuebergang an grundbesitzender Gesellschaft loest GrESt aus; Steuersatz je nach Bundesland 3,5-6,5 %
-- Paragraf 3a EStG — steuerfreier Sanierungsertrag bei Forderungsverzicht im Sanierungsplan; Voraussetzungen: Sanierungsabsicht, Sanierungseignung, Sanierungsbeitraege aller Gläubiger
+- Paragraf 1 Absatz 2a und 2b GrEStG — Ergänzungstatbestände bei Übergang von mindestens 90 Prozent der Anteile an einer grundbesitzenden Gesellschaft; Rechtsvorgang, Beteiligungszeitraum und Steuersatz gesondert feststellen
+- Paragraf 3a EStG — steuerfreier Sanierungsertrag bei betrieblich begründetem Schuldenerlass; nachzuweisen sind zum Erlasszeitpunkt Sanierungsbedürftigkeit und Sanierungsfähigkeit des Unternehmens, Sanierungseignung des Erlasses und Sanierungsabsicht der Gläubiger
 
 ## Aktuelle Rechtsprechung
 
@@ -133,9 +133,9 @@ Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3
 
 1. **Zielstruktur mit Corporate-Team abstimmen:** welche Umwandlungsform (Verschmelzung, Ausgliederung, Formwechsel) ist beabsichtigt?
 2. **Verlustvortraege kartieren:** Paragraf 8c KStG-Prüfung — bisherige Anteilsuebertragungen der letzten 5 Jahre; Schwellenwerte berechnen; Sanierungsklausel prüfen
-3. **Buchwert-Antrag planen:** Antrag beim zuständigen Finanzamt; Frist (Paragraf 11 Abs. 1, 20 Abs. 2 UmwStG); ohne Antrag: gemeiner Wert = stille Reserven werden aufgedeckt
-4. **Rueckwirkungsfristen einhalten:** steuerlicher Abschlussstichtag bestimmen; maximal 12 Monate rueckwirkend (Paragraf 2 Abs. 1 UmwStG); HR-Anmeldung als Fristbeginn
-5. **Grunderwerbsteuer prüfen:** grundbesitzende Gesellschaft? Paragraf 1 Abs. 2a, 2b GrEStG Schwelle 90 %? Steuersatz; Steuerbefreiung Konzernklausel Paragraf 6a GrEStG?
+3. **Buchwert-Anträge planen:** Antragsteller, zuständiges Finanzamt und fristauslösende Einreichung je Tatbestand trennen; bei Paragraf 11 und Paragraf 20 Absatz 2 Satz 3 UmwStG ist die erste steuerliche Schlussbilanz, bei Paragraf 13 Absatz 2 UmwStG die erste einschlägige Steuererklärung maßgeblich; ohne wirksamen Antrag bleibt es grundsätzlich beim gemeinen Wert
+4. **Rückwirkungsfristen einhalten:** Schlussbilanzstichtag, Registeranmeldung, Einbringungsvertrag und Übergang des wirtschaftlichen Eigentums getrennt erfassen; die reguläre Achtmonatsgrenze nach Paragraf 17 Absatz 2 UmwG und Paragraf 20 Absatz 6 UmwStG für den konkreten Vorgang berechnen
+5. **Grunderwerbsteuer prüfen:** grundbesitzende Gesellschaft, konkreter Ergänzungstatbestand und 90-Prozent-Schwelle feststellen; Paragraf 6a GrEStG nur als enge Konzernklausel mit begünstigtem Rechtsvorgang, Beteiligungsstruktur und grundsätzlich fünfjähriger Vor- und Nachbehaltensfrist prüfen
 6. **Sperrfrist-Management:** nach Einbringung nach Paragraf 20 UmwStG keine schaedliche Veraeusserung für 7 Jahre; Paragraf 22 UmwStG Monitoring einrichten
 7. **Organschaft-Auswirkungen:** Umwandlung koennte Organschaft beenden; Verlustausgleich und Ergebnisabfuehrungsvertrag prüfen
 8. **Steuer-Rueckstellung und Haftungsrisiken im SPA adressieren:** Tax Warranties, Tax Indemnity, Steuer-Freistellungsklausel
@@ -143,7 +143,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3
 ## Entscheidungsbaum
 
 - Verlustvortraege vorhanden + mehr als 50 % Anteilserwerb → Paragraf 8c KStG → Verlustuntergang → Sanierungsklausel prufen?
-- Einbringung ohne Teilbetrieb → Paragraf 20 UmwStG Buchwert nicht möglich → stille Reserven aufzudecken → Steuerbelastung
+- Eingebrachte Sachgesamtheit ist weder Betrieb noch Teilbetrieb noch Mitunternehmeranteil → Tatbestand des Paragrafen 20 Absatz 1 UmwStG nicht erfüllt → Buchwertansatz nach dieser Vorschrift scheidet aus
 - GrEStG Paragraf 1 Abs. 2a/2b → 90 % Schwelle → GrESt-Pflicht → Konzernklausel Paragraf 6a GrEStG greifen?
 - Sperrfrist-Verletzung → Einbringungsgewinn I oder II → rueckwirkende Steuer bis zu 7 Jahre
 

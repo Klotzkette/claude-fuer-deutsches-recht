@@ -184,7 +184,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Markenübertragung und Chain of Title | MarkenG Paragrafen 27, 28 für Übertragung, Rechtsübergang und Registervermutung. MarkenG Paragraf 30 für Lizenzen; bestehende Lizenzrechte können den wirtschaftlichen Wert und die Durchsetzung prägen. | Fachvotum zu Markenübertragung und Chain of Title mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Marketplace Notice-and-Action | MarkenG Paragrafen 14, 15, 18, 19 für Verletzung, Entfernung/Rückruf und Auskunft. | Fachvotum zu Marketplace Notice-and-Action mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Wortmarken-Anmeldung beim DPMA | DPMA-Anmeldung einer Wortmarke: Mandant will Markennamen in Deutschland schützen. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
-| Beweissicherung, Testkauf und Screenshot | Für Augenschein, Urkunden und Vorlagefragen; ZPO Paragrafen 935, 940 bei Eilbezug. MarkenG Paragrafen 14, 18, 19 für Verletzung, Annexansprüche und Auskunft; Zoll-/Produktpiraterierecht gesondert prüfen. | Beweismatrix zu Beweissicherung, Testkauf und Screenshot mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
+| EUIPO-Widerspruchsverfahren | EUIPO-Widerspruchsverfahren nach Artikel 8 UMV führen: ältere Marke kollidiert mit jüngerer Unionsmarken-Anmeldung. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -194,7 +194,6 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Bearbeite TTAB — Trademark Trial and Appeal Board: zeichen, Priorität, Waren oder Dienstleistungen, Kennzeichnungskraft, Ähnlichkeit, Benutzung, Verwechslungsgefahr und Verfahrensziel verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: TTAB-Opposition und Cancellation in den USA führen: ältere Marke kollidiert mit US-Anmeldung oder eingetragener Marke; Paragraf 2.101 und folgende (Opposition), Paragraf 2.111 und folgende (Cancellation), 15 U.S.C; Paragraf 1125(c) (Dilution), In re Bose 580 F.3d 1240 (Fraud); Prüfraster: Standing, Likelihood of Confusion DuPont-Factors, Dilution-Schutz berühmter Marken, Discovery und Trial Period; Output TTAB-Opposition oder Cancellation Petition, Begründungs-Entwurf, Timeline.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: TTAB-Opposition und Cancellation in den USA führen: ältere Marke kollidiert mit US-Anmeldung oder eingetragener Marke; Paragraf 2.101 und folgende (Opposition), Paragraf 2.111 und folgende (Cancellation), 15 U.S.C; Paragraf 1125(c) (Dilution), In re Bose 580 F.3d 1240 (Fraud).
 Lieferstück: Fachvotum zu TTAB — Trademark Trial and Appeal Board mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. Einstweilige Verfügung im Markenrecht
@@ -209,7 +208,7 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 
 ### 16.4. Schadensersatz, Auskunft und Rechnungslegung
 
-Bearbeitungsauftrag: Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen. MarkenG Paragrafen 14, 15 für Verletzung und Unterlassung; MarkenG Paragraf 19 für Auskunft, Paragraf 18 für Vernichtung/Rückruf/Entfernung, Paragraf 14 Absatz 6 für Schadensersatz. ZPO Paragraf 254 für Stufenklage, wenn Auskunft/Rechnungslegung vor Bezifferung nötig ist.
+Bearbeitungsauftrag: Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen. MarkenG Paragrafen 14, 15 für Verletzung und Unterlassung; MarkenG Paragraf 19 für Auskunft, Paragraf 18 für Vernichtung/Rückruf/Entfernung, Paragraf 14 Absatz 6 für Schadensersatz.
 Lieferstück: Fachvotum zu Schadensersatz, Auskunft und Rechnungslegung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.5. Erschöpfung, Parallelimport und Graumarkt
@@ -232,22 +231,22 @@ Lieferstück: Fachvotum zu Marketplace Notice-and-Action mit Tatbestandsmerkmale
 Bearbeitungsauftrag: DPMA-Anmeldung einer Wortmarke: Mandant will Markennamen in Deutschland schützen. MarkenG (Anmeldung), Paragraf 8 MarkenG (absolute Schutzhindernisse: fehlende Unterscheidungskraft, Freihaltebedürftigkeit, beschreibende Angaben). Abgrenzung: EU-weite Marke siehe unionsmarken-anmeldung-euipo; Bildmarke siehe bildmarke-und-wort-bild.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
-### 16.9. Beweissicherung, Testkauf und Screenshot
-
-Bearbeitungsauftrag: Für Augenschein, Urkunden und Vorlagefragen; ZPO Paragrafen 935, 940 bei Eilbezug. MarkenG Paragrafen 14, 18, 19 für Verletzung, Annexansprüche und Auskunft; Zoll-/Produktpiraterierecht gesondert prüfen. Datenschutz-Grundverordnung/KUG/Strafrecht beachten, wenn Personen, private Räume, heimliche Aufnahmen oder Kommunikationsinhalte dokumentiert werden.
-Lieferstück: Beweismatrix zu Beweissicherung, Testkauf und Screenshot mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
-
-### 16.10. EUIPO-Widerspruchsverfahren
+### 16.9. EUIPO-Widerspruchsverfahren
 
 Bearbeitungsauftrag: EUIPO-Widerspruchsverfahren nach Artikel 8 UMV führen: ältere Marke kollidiert mit jüngerer Unionsmarken-Anmeldung. Prüfraster: Widerspruchsfristen (3 Monate ab Veröffentlichung), Gebühren, Benutzungsnachweis Artikel 47 UMV, Verwechslungsgefahr-Kriterien EUIPO-Praxis. Output Widerspruchsschrift EUIPO, Benutzungsnachweis-Zusammenstellung.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.11. Markenbewertung, Asset Deal und Insolvenz
+### 16.10. Markenbewertung, Asset Deal und Insolvenz
 
 Bearbeitungsauftrag: MarkenG Paragrafen 27, 28 für Übertragung, Rechtsübergang und Registervermutung; MarkenG Paragrafen 30 und folgende für Verfall/Nichtigkeit; Nichtbenutzung und absolute/relative Schutzhindernisse als Bewertungsabschlag. für Verwaltungs-/Verfügungsbefugnis und gegenseitige Verträge; Lizenzfortbestand insolvenzfest nur fallbezogen prüfen.
 Lieferstück: Fachvotum zu Markenbewertung, Asset Deal und Insolvenz mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. US Counterfeit Enforcement und CBP Recordation
+### 16.11. US Counterfeit Enforcement und CBP Recordation
 
 Bearbeitungsauftrag: US-Counterfeit-Enforcement und CBP-Recordation: Luxusmarke will gefälschte Ware in den USA stoppen. Paragraf 133 (CBP Recordation), Lanham Act Paragraf 34 (Injunctive Relief), Paragraf 35 (Statutory/Treble Damages). Output CBP-Recordation-Unterlagen, Enforcement-Strategie-Memo, Schadensersatz-Berechnungs-Template.
 Lieferstück: Fachvotum zu US Counterfeit Enforcement und CBP Recordation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Anmeldestrategie & Markenportfolio für Luxus-Modehäuser
+
+Bearbeitungsauftrag: Als Partnerin bei einer der führenden deutschen Markenboutiquen betreue ich das gesamte IP-Portfolio der klôtzzkètté SA, Paris/Mailand. Die Anmeldestrategie für ein Haute-Couture-Label erfordert eine durchdachte Kaskade aus nationalen, europäischen und internationalen Schutzrechten — kein Stein darf unbeachtet bleiben. Das Portfolio von klôtzzkètté umfasst Wortmarken, Bild- und Wort-Bild-Marken, Slogan-, Sound-, Positions- und 3D-Marken sowie neue Kennzeichenformate für die Post-System-Ära.
+Lieferstück: Fachvotum zu Anmeldestrategie & Markenportfolio für Luxus-Modehäuser mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

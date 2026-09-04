@@ -15,7 +15,7 @@ description: "Für Anwalts-Dashboard Fachanwalt Arbeitsrecht: routet Rolle, Fris
 | --- | --- | --- |
 | Rolle | Wen vertrete ich? (Mandant · Gegenseite · Mehrere) | Mandantenmail, Vertretungsbestellung |
 | Verfahrensstand | Vorprozessual · außergerichtlich · Klage · Rechtsmittel · Vollstreckung | Vorhandene Schriftsätze, Eingangsstempel |
-| Eilfrist | **Paragraf 4 KSchG: 3 Wochen** ab Zugang Kündigung. Daneben Paragraf 626 II BGB (außerordentlich, 2 Wochen ab Kenntnis), Paragraf 15 IV AGG (2 Monate Geltendmachung), Paragraf 17 KSchG (Massenentlassungsanzeige), Paragraf 9 MuSchG, Paragraf 613a VI BGB (1 Monat Widerspruch). | Frist aus Zugangs-/Kenntnisdatum berechnen |
+| Eilfrist | **Paragraf 4 KSchG: drei Wochen** ab Zugang der Kündigung. Daneben: Erklärungsfrist nach Paragraf 626 Absatz 2 BGB, Geltendmachungsfrist nach Paragraf 15 Absatz 4 AGG, Anzeige vor Massenentlassungen nach Paragraf 17 KSchG, Kündigungsverbot und behördliche Zulässigerklärung nach Paragraf 17 MuSchG sowie einmonatige Widerspruchsfrist nach Paragraf 613a Absatz 6 BGB. | Auslöser, Zugang, Beginn und Ende für jede Frist getrennt berechnen |
 | Hauptanspruch | Kündigungsschutz Paragrafen 1, 4, 7 KSchG · Lohn Paragrafen 611a, 614, 615 BGB (Annahmeverzug) · Schadensersatz Paragrafen 280 I, 823 BGB · AGG-Entschädigung Paragrafen 7, 15 AGG · Betriebsübergang Paragraf 613a BGB. | Sachverhaltsabgleich mit Tatbestandsmerkmalen |
 | Zuständigkeit | Arbeitsgericht am Arbeitsort (Paragraf 48 ArbGG, Paragraf 17 ZPO). Streitwert KSchG-Klage: 1/4 Bruttojahresgehalt (Paragraf 42 II GKG). | Gesetz, Vertrag, Gerichtsstandsklausel |
 

@@ -1,44 +1,49 @@
 ---
 name: gleichheit-existenzminimum-triage-asylblg
-description: "Für Gleichheit, Existenzminimum und Schutzpflicht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Gleichheits-, Existenzminimum- und Schutzpflichtfragen, trennt Gesetzgebungskompetenz von materiellen Grundrechten und ordnet Triage- sowie Asylbewerberleistungsfälle den tragenden Entscheidungen des Bundesverfassungsgerichts zu."
 ---
 
 # Gleichheit, Existenzminimum und Schutzpflicht
 
-## Zweck des Skills
+## 1. Zweck und Anwendungsfall
 
-Dieser Skill prüft Fälle, in denen der Gesetzgeber verteilt, differenziert oder schützen muss: existenzsichernde Leistungen, Benachteiligung wegen Behinderung, Triage-Regelungen, Sozialleistungen für Asylsuchende und Schutzpflichten für besonders verletzliche Gruppen.
+Der Skill prüft gesetzliche Verteilungsentscheidungen, existenzsichernde Leistungen, Benachteiligungen wegen Behinderung, Triage-Regelungen und Leistungen nach dem Asylbewerberleistungsgesetz. Er hält formelle Verfassungsmäßigkeit, materiellen Grundrechtsmaßstab und Rechtsfolge strikt auseinander.
 
-## Normenanker
+## 2. Normenanker
 
-- Art. 1 Abs. 1 GG für Menschenwürde.
-- Art. 2 Abs. 2 Satz 1 GG für Leben und körperliche Unversehrtheit.
-- Art. 3 Abs. 1 GG für allgemeinen Gleichheitssatz.
-- Art. 3 Abs. 3 Satz 2 GG für das Benachteiligungsverbot wegen Behinderung.
-- Art. 20 Abs. 1 GG für Sozialstaatsprinzip.
-- Art. 20 Abs. 3 GG für Gesetzesbindung und Begründungsanforderungen.
-- § 1 AsylbLG, § 3 AsylbLG und § 3a AsylbLG als einfachrechtliche Schnittstellen.
+- Artikel 1 Absatz 1 in Verbindung mit Artikel 20 Absatz 1 GG für das menschenwürdige Existenzminimum;
+- Artikel 2 Absatz 2 Satz 1 GG für Leben und körperliche Unversehrtheit;
+- Artikel 3 Absatz 1 GG für den allgemeinen Gleichheitssatz;
+- Artikel 3 Absatz 3 Satz 2 GG für Benachteiligungsverbot und Schutzauftrag wegen Behinderung;
+- Artikel 12 Absatz 1 GG für die ärztliche Berufsausübungsfreiheit;
+- Artikel 70 und Artikel 74 GG für die Gesetzgebungskompetenz;
+- Paragrafen 1, 2, 3 und 3a AsylbLG als fallbezogen zu prüfende einfachrechtliche Schnittstellen.
 
-## Entscheidungslinie
+## 3. Entscheidungslinien und Reichweite
 
-- BVerfG, Beschluss vom 16.12.2021, 1 BvR 1541/20: Der Gesetzgeber muss Vorkehrungen treffen, damit Menschen mit Behinderung bei pandemiebedingter Triage nicht benachteiligt werden. Vor Zitierung Randnummern auf bundesverfassungsgericht.de oder frei zugänglicher Quelle prüfen.
-- BVerfG, Beschluss vom 23.09.2025, 1 BvR 2284/23, Triage II: Triage-Regelungen des Infektionsschutzgesetzes wurden für mit dem Grundgesetz unvereinbar und nichtig erklärt; amtliche Fundstelle: <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250923_1bvr228423.html>.
-- BVerfG, Beschluss vom 15.04.2026, 1 BvL 5/21: Grundleistungen nach dem Asylbewerberleistungsgesetz im Prüfzeitraum waren an den Anforderungen des menschenwürdigen Existenzminimums zu messen; amtliche Fundstelle: <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/04/ls20260415_1bvl000521.html>.
+1. BVerfG, Beschluss vom 16. Dezember 2021 - 1 BvR 1541/20 -: Artikel 3 Absatz 3 Satz 2 GG begründet einen Schutzauftrag gegen behinderungsbezogene Benachteiligung. In der konkreten Triage-Konstellation verdichtete er sich wegen der Gefahr für Leben und struktureller Ungleichheit zu einer Schutzpflicht. Dieser Beschluss trägt den materiellen Schutzpflichtmaßstab.
+2. BVerfG, Beschluss vom 23. September 2025 - 1 BvR 2284/23 und 1 BvR 2285/23 - Triage II: Das Gericht erklärte Paragraf 5c Absätze 1 bis 3 IfSG für nichtig, weil dem Bund die Gesetzgebungskompetenz fehlte. Die Entscheidung prüfte den Eingriff in Artikel 12 Absatz 1 GG und beendete die Rechtfertigungsprüfung bei der formellen Verfassungswidrigkeit. Sie enthält keine abschließende materielle Billigung oder Verwerfung der gesetzlichen Zuteilungskriterien und darf nicht als solche zitiert werden.
+3. BVerfG, Beschluss vom 15. April 2026 - 1 BvL 5/21 -: Für die im Ausgangsverfahren maßgeblichen Zeiträume vom 1. September 2018 bis zum 20. August 2019 erklärte das Gericht Teile der damaligen Bemessung der Grundleistungen nach dem Asylbewerberleistungsgesetz für unvereinbar mit Artikel 1 Absatz 1 in Verbindung mit Artikel 20 Absatz 1 GG, ordnete aber ihre weitere Anwendbarkeit für diesen Zeitraum an. Tragend sind eine realitätsgerechte und aktuelle Bedarfsermittlung sowie ein engerer Gestaltungsspielraum beim physischen Existenzminimum.
 
-## Prüfraster
+## 4. Prüfraster
 
-1. Bestimme, ob es um Abwehrrecht, Leistungsrecht oder Schutzpflicht geht.
-2. Kläre die Vergleichsgruppen: Wer wird besser oder schlechter behandelt, und an welches Merkmal knüpft die Differenzierung an?
-3. Bestimme die Prüfungsdichte: einfache Willkürkontrolle, strenge Verhältnismäßigkeitsprüfung, gesteigerte Begründungslast bei personenbezogenen Merkmalen oder existenzieller Betroffenheit.
-4. Prüfe das Ermittlungssystem des Gesetzgebers: Datenbasis, Aktualität, realitätsgerechte Bemessung, Transparenz und Nachvollziehbarkeit.
-5. Prüfe Schutzpflichten: Hat der Gesetzgeber eine erkennbare Gefahrenlage verfassungsrechtlich ernst genommen und wirksame Vorkehrungen getroffen?
+1. Bestimme Rolle und Angriffsziel: Wird gesetzgeberisches Unterlassen, eine konkrete Regelung, ein Einzelakt oder eine gerichtliche Entscheidung angegriffen?
+2. Prüfe Zulässigkeit und formelle Verfassungsmäßigkeit vor der materiellen Prüfung. Bei Kompetenzmängeln darf aus der Rechtsfolge nicht auf die materielle Bewertung der Regelung geschlossen werden.
+3. Bestimme, ob Abwehrrecht, Leistungsrecht oder Schutzpflicht betroffen ist. Ordne jedem Prüfungsstrang sein Grundrecht und seine eigene Rechtsfolge zu.
+4. Bilde die Vergleichsgruppen präzise und benenne Differenzierungsmerkmal, Differenzierungsziel und Prüfungsdichte. Artikel 3 Absatz 1 GG ist keine freie Gerechtigkeitskontrolle.
+5. Prüfe bei Artikel 3 Absatz 3 Satz 2 GG unmittelbare und mittelbare Benachteiligung sowie die mögliche Verdichtung des Schutzauftrags bei besonderer Verletzlichkeit, hochrangigen Rechtsgütern oder struktureller Ungleichheit.
+6. Prüfe beim Existenzminimum Datenbasis, Bezugszeitraum, ausgeschlossene Bedarfspositionen, Fortschreibung und tatsächliche Bedarfsdeckung. Die politische Einschätzungsprärogative ersetzt keine nachvollziehbare, zeit- und realitätsgerechte Bemessung.
+7. Trenne bei Triage die materielle Schutzpflicht aus 1 BvR 1541/20 von der Kompetenzentscheidung in 1 BvR 2284/23 und 1 BvR 2285/23. Landesrechtliche, berufsrechtliche oder klinische Regeln sind jeweils eigenständig zu prüfen.
+8. Weise jeder rechtlichen Aussage eine tragende Randnummer oder kennzeichne sie als noch zu verifizieren. Ein Entscheidungsergebnis darf nicht auf einen anderen Beschwerdegegenstand oder eine andere Prüfungsstufe übertragen werden.
 
-## Fehlerbremse
+## 5. Arbeitsprodukt
 
-- Art. 3 Abs. 1 GG nicht als reine "Gerechtigkeitsformel" behandeln; Vergleichsgruppe und Differenzierungsziel müssen sauber stehen.
-- Existenzminimum nicht politisch frei abwägen; die Menschenwürde setzt eine untere Grenze.
-- Bei Triage nie allein medizinische Erfolgsaussicht referieren; Art. 3 Abs. 3 Satz 2 GG verlangt Schutz gegen behinderungsbezogene Benachteiligung.
+Erzeuge zunächst eine Matrix mit Angriffsziel, formeller Kompetenzgrundlage, betroffenem Grundrecht, Prüfungsmaßstab, Tatsachengrundlage, Entscheidungslinie und Reichweitengrenze. Danach folgt ein vollständig ausformulierter Prüfvermerk, der formelle und materielle Prüfung sowie Rechtsfolgen getrennt darstellt und die stärkste Gegenposition verarbeitet.
 
-## Output
+Das Endprodukt verwendet, soweit technisch möglich, Times New Roman in 11 Punkt und ausschließlich dezimale Gliederung.
 
-Erzeuge eine Tabelle mit Vergleichsgruppen, Differenzierungsmerkmal, Rechtfertigungsmaßstab, Tatsachengrundlage und BVerfG-Anker. Danach folgt ein ausformulierter Abschnitt zur verfassungsrechtlichen Tragfähigkeit der Regelung.
+## 6. Amtliche Quellen
+
+- [BVerfG, Beschluss vom 16. Dezember 2021 - 1 BvR 1541/20 -](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/12/rs20211216_1bvr154120.html)
+- [BVerfG, Beschluss vom 23. September 2025 - 1 BvR 2284/23 und 1 BvR 2285/23 -](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250923_1bvr228423.html)
+- [BVerfG, Beschluss vom 15. April 2026 - 1 BvL 5/21 -](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/04/ls20260415_1bvl000521.html)

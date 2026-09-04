@@ -96,13 +96,7 @@ Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragung
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Risikozuweisung
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Registergerichtliche Prüfung bleibt auf eintragungsrelevante Tatsachen beschränkt und ersetzt keine umfassende zivilrechtliche Streitentscheidung |
-| BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure und BGH-Zitierung in II ZB 11/24 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ausländische Notare können registerrechtlich relevante GmbH-Unterlagen nur bei Gleichwertigkeit der Beurkundung einreichen |
-| BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Die Gesellschafterliste wirkt registerrechtlich legitimierend, ohne die materielle Anteilsinhaberschaft endgültig zu klären |
-| BGH, Beschluss vom 16.05.2017 - II ZB 7/16, frei nachweisbar über dejure | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Der Betrieb mehrerer Kindertagesstätten schließt die Einordnung als Idealverein nicht schon wegen wirtschaftlicher Betätigung aus, wenn der ideelle Zweck prägend bleibt |
-| BGH, Beschluss vom 16.05.2017 - II ZB 6/16, frei nachweisbar über dejure | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Für Paragraf 21 BGB kommt es auf den prägenden Vereinszweck und die Zuordnung wirtschaftlicher Tätigkeiten zum ideellen Hauptzweck an |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -121,11 +115,7 @@ Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragung
 
 ## 8. Leitentscheidungen
 
-- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure: Registergerichtliche Prüfung bleibt auf eintragungsrelevante Tatsachen beschränkt und ersetzt keine umfassende zivilrechtliche Streitentscheidung.
-- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure und BGH-Zitierung in II ZB 11/24: Ausländische Notare können registerrechtlich relevante GmbH-Unterlagen nur bei Gleichwertigkeit der Beurkundung einreichen.
-- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure: Die Gesellschafterliste wirkt registerrechtlich legitimierend, ohne die materielle Anteilsinhaberschaft endgültig zu klären.
-- BGH, Beschluss vom 16.05.2017 - II ZB 7/16, frei nachweisbar über dejure: Der Betrieb mehrerer Kindertagesstätten schließt die Einordnung als Idealverein nicht schon wegen wirtschaftlicher Betätigung aus, wenn der ideelle Zweck prägend bleibt.
-- BGH, Beschluss vom 16.05.2017 - II ZB 6/16, frei nachweisbar über dejure: Für Paragraf 21 BGB kommt es auf den prägenden Vereinszweck und die Zuordnung wirtschaftlicher Tätigkeiten zum ideellen Hauptzweck an.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -147,7 +137,7 @@ Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragung
 10.6. Gegenposition: Formuliere die stärkste Verhandlungsposition der anderen Seite; sie setzt typischerweise bei Ladungs- und Beschlussmängeln sowie der Vertretungsmacht an.
 10.7. Rückfallposition: Antworte mit konkreter Alternativfassung, Preis- oder Vollzugsausgleich und zeige die Auswirkung auf Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
 10.8. Entwurf und Vollzug: Schließe mit Ausgabe entlang der Kernfelder Kapitalerhöhung und Kapitalherabsetzung, Umwandlung Eintragen, Vertretungsmacht und Prokura, Finale Entscheidung als Volltext (Beschluss Handelsregister): Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt; Verantwortlicher, Termin, Bedingung und Erfüllungsnachweis sind ausformuliert.
-10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar; BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar.
+10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 

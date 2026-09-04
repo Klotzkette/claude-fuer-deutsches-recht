@@ -202,25 +202,25 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. Einstellung des Strafbefehlsverfahrens
 
 Bearbeitungsauftrag: Einstellung im Strafbefehlsverfahren: Paragraf 153 StPO (Geringfügigkeit ohne Auflage) Paragraf 153a StPO (mit Auflage) Paragraf 170 Absatz 2 StPO (Einstellung mangels hinreichenden Tatverdachts). — Paragraf 153 StPO nur bei geringer Schuld und fehlendem öffentlichen Interesse; Paragraf 153a StPO bei schwereren Fällen mit Auflagen. — Paragraf 153 StPO bei fehlendem öffentlichen Interesse; Paragraf 153a bei Vorstrafe nur ausnahmsweise.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Einstellung im Strafbefehlsverfahren: Paragraf 153 StPO (Geringfügigkeit ohne Auflage) Paragraf 153a StPO (mit Auflage) Paragraf 170 Absatz 2 StPO (Einstellung mangels hinreichenden Tatverdachts); BZR-Eintrag bei Paragraf 153a.
+Normbezug aus dem Fachmaterial: Einstellung im Strafbefehlsverfahren: Paragraf 153 StPO (Geringfügigkeit ohne Auflage) Paragraf 153a StPO (mit Auflage) Paragraf 170 Absatz 2 StPO (Einstellung mangels hinreichenden Tatverdachts); BZR-Eintrag bei Paragraf 153a.
 Lieferstück: Fachvotum zu Einstellung des Strafbefehlsverfahrens mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. Strafbefehl nach Polizeifilmerei
 
 Bearbeitungsauftrag: Strafbefehl wegen Filmens oder Fotografierens von Polizeieinsätzen, Versammlungen oder Kontrollen: prüft Paragraf 201 StGB, Paragraf 201a StGB, KunstUrhG/KUG Paragrafen 22 bis 23 sowie Paragraf 33, Beweissicherung, Tonspur, Veröffentlichung, Beschlagnahme des Smartphones, Einspruch, Einlassung und Verteidigungsstrategie. Die Arbeit beginnt nicht mit Empörung, sondern mit einer kühlen Sortierung: Was wurde aufgenommen?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Strafbefehl wegen Filmens oder Fotografierens von Polizeieinsätzen, Versammlungen oder Kontrollen: prüft Paragraf 201 StGB, Paragraf 201a StGB, KunstUrhG/KUG Paragrafen 22 bis 23 sowie Paragraf 33, Beweissicherung, Tonspur, Veröffentlichung, Beschlagnahme des Smartphones.
+Normbezug aus dem Fachmaterial: Strafbefehl wegen Filmens oder Fotografierens von Polizeieinsätzen, Versammlungen oder Kontrollen: prüft Paragraf 201 StGB, Paragraf 201a StGB, KunstUrhG/KUG Paragrafen 22 bis 23 sowie Paragraf 33, Beweissicherung, Tonspur, Veröffentlichung, Beschlagnahme des Smartphones.
 Lieferstück: Fachvotum zu Strafbefehl nach Polizeifilmerei mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. Zeugen-Befragungsstrategie in der Hauptverhandlung
 
 Bearbeitungsauftrag: Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschüttern oder Entlastungszeugen fördern. Prüfraster Glaubwürdigkeitsanalyse Aussage-Konstanz Vorhalt frühere Aussage Fragerecht Paragraf 240 StPO. Normen Paragraf 68 StPO Zeugenpflichten Paragraf 52 StPO Zeugnisverweigerungsrecht Paragraf 244 StPO Beweisanträge.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfraster Glaubwürdigkeitsanalyse Aussage-Konstanz Vorhalt frühere Aussage Fragerecht Paragraf 240 StPO.
+Normbezug aus dem Fachmaterial: Prüfraster Glaubwürdigkeitsanalyse Aussage-Konstanz Vorhalt frühere Aussage Fragerecht Paragraf 240 StPO.
 Lieferstück: Beweismatrix zu Zeugen-Befragungsstrategie in der Hauptverhandlung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
 
 ### 16.4. Nebenfolgen Fahrerlaubnis im Strafbefehl
 
 Bearbeitungsauftrag: Fahrerlaubnisentzug Paragraf 69 StGB und Fahrverbot Paragraf 44 StGB im Strafbefehl. Abgrenzung Paragraf 25 StVG (OWi-Fahrverbot). Fahrverbot (Paragraf 44 StGB) oder Fahrerlaubnisentzug (Paragraf 69 StGB)?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Fahrerlaubnisentzug Paragraf 69 StGB und Fahrverbot Paragraf 44 StGB im Strafbefehl; Regelentziehung Paragraf 69 Absatz 2 StGB bei Paragrafen 315c 316 142 StGB; Sperrfrist Paragraf 69a StGB.
+Normbezug aus dem Fachmaterial: Fahrerlaubnisentzug Paragraf 69 StGB und Fahrverbot Paragraf 44 StGB im Strafbefehl; Regelentziehung Paragraf 69 Absatz 2 StGB bei Paragrafen 315c 316 142 StGB; Sperrfrist Paragraf 69a StGB.
 Lieferstück: Fachvotum zu Nebenfolgen Fahrerlaubnis im Strafbefehl mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.5. StBV: Einspruch Strafbefehl
@@ -231,14 +231,14 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 ### 16.6. Rechtsmittel nach Urteil im Strafbefehlsverfahren
 
 Bearbeitungsauftrag: Berufung Paragraf 312 StPO (Frist 1 Woche schriftlich). Revision Paragraf 333 StPO (Frist 1 Woche Rechtsfehler). Revisionsbegründung Paragraf 345 StPO 1 Monat.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Berufung Paragraf 312 StPO (Frist 1 Woche schriftlich); Revision Paragraf 333 StPO (Frist 1 Woche Rechtsfehler); Revisionsbegründung Paragraf 345 StPO 1 Monat.
+Normbezug aus dem Fachmaterial: Berufung Paragraf 312 StPO (Frist 1 Woche schriftlich); Revision Paragraf 333 StPO (Frist 1 Woche Rechtsfehler); Revisionsbegründung Paragraf 345 StPO 1 Monat.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.7. Wiedereinsetzung nach versäumter Einspruchsfrist — Paragraf 44 StPO
 
 Bearbeitungsauftrag: Bei Einwurf-Einschreiben (Paragraf 180 ZPO) gilt Zustellung als bewirkt; Mandant kann spätere Kenntnisnahme nachweisen. Paragraf 85 ZPO analoge Anwendung; aber: bei Verschulden des Gerichts (fehlerhafte Belehrung) kein Verschulden. Gleichzeitiger Einspruch: Wiedereinsetzungsantrag immer mit gleichzeitigem Einspruch verbinden (Paragraf 45 Absatz 2 Satz 2 StPO).
 Prüfschritte: Kein Verschulden erforderlich (Paragraf 44 Satz 1 StPO): kein schuldhaftes Versäumnis des Mandanten oder seines Verteidigers.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Kein Verschulden erforderlich (Paragraf 44 Satz 1 StPO): kein schuldhaftes Versäumnis des Mandanten oder seines Verteidigers.
+Normbezug aus dem Fachmaterial: Kein Verschulden erforderlich (Paragraf 44 Satz 1 StPO): kein schuldhaftes Versäumnis des Mandanten oder seines Verteidigers.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.8. StBV: Strafbefehl Ausländer
@@ -250,13 +250,13 @@ Lieferstück: Fachvotum zu StBV: Strafbefehl Ausländer mit Tatbestandsmerkmalen
 
 Bearbeitungsauftrag: Zulässigkeit des Strafbefehls nach Paragraf 407 StPO. — Strafbefehl ist nur bei Vergehen zulässig (Paragraf 407 Absatz 1 Satz 1 StPO); Verbrechen (Paragraf 12 Absatz 1 StGB, Mindeststrafe 1 Jahr) schließen Strafbefehl aus. Überschreitet die vorgeschlagene Sanktion den Rahmen des Paragraf 407 Absatz 2 StPO?
 Prüfschritte: Sanktionskatalog Paragraf 407 Absatz 2 StPO; Sachliche Zuständigkeit Amtsgericht; Keine Beweisprobleme die Hauptverhandlung erfordern; Ablehnung durch Richter Paragraf 408 Absatz 3 StPO; Nichtigkeit bei Zulässigkeitsmängeln.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Zulässigkeit des Strafbefehls nach Paragraf 407 StPO; Sanktionskatalog Paragraf 407 Absatz 2 StPO; Ablehnung durch Richter Paragraf 408 Absatz 3 StPO.
+Normbezug aus dem Fachmaterial: Zulässigkeit des Strafbefehls nach Paragraf 407 StPO; Sanktionskatalog Paragraf 407 Absatz 2 StPO; Ablehnung durch Richter Paragraf 408 Absatz 3 StPO.
 Lieferstück: Fachvotum zu Zulässigkeit des Strafbefehls — Paragraf 407 StPO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.10. Hauptverhandlung nach Einspruch — Paragraf 411 StPO
 
 Bearbeitungsauftrag: Hauptverhandlung nach Paragraf 411 StPO bei Einspruch. Erscheinungspflicht klären: Mandant erscheinungspflichtig (Paragraf 411 Absatz 2 StPO); Antrag auf Entbindung möglich wenn Sachverhalt unstreitig und nur Rechtsfolgen streitig. — Jeder Beweisantrag braucht konkretes Beweisthema und bestimmtes Beweismittel (Paragraf 244 Absatz 3 StPO).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Hauptverhandlung nach Paragraf 411 StPO bei Einspruch; Beweisanträge Paragraf 244 StPO; Strafzumessung Paragraf 46 StGB.
+Normbezug aus dem Fachmaterial: Hauptverhandlung nach Paragraf 411 StPO bei Einspruch; Beweisanträge Paragraf 244 StPO; Strafzumessung Paragraf 46 StGB.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.11. StBV: Strafbefehl-Prüfung
@@ -264,8 +264,8 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 Bearbeitungsauftrag: Bearbeite StBV: Strafbefehl-Prüfung: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.12. Pflichtverteidiger im Strafbefehlsverfahren
+### 16.12. Strafbefehlsinhalt prüfen — Paragraf 409 StPO
 
-Bearbeitungsauftrag: Pflichtverteidigerbestellung im Strafbefehlsverfahren nach Paragraf 140 StPO. Auswechslung des Pflichtverteidigers Paragraf 143a StPO. — Beiordnung ist unabhängig von Mittellosigkeit (Paragraf 140 StPO), aber bei Eigenantrag nach Paragraf 140 Absatz 2 StPO sollte Beduerfftigkeit ergänzend dargelegt werden.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Pflichtverteidigerbestellung im Strafbefehlsverfahren nach Paragraf 140 StPO; Antrag auf Beiordnung Paragraf 141 StPO; Auswechslung des Pflichtverteidigers Paragraf 143a StPO.
-Lieferstück: Fachvotum zu Pflichtverteidiger im Strafbefehlsverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Prüfe Strafbefehl auf Pflichtinhalt nach Paragraf 409 StPO (7 Mindestangaben) und identifiziert Nichtigkeitsgründe. — Paragraf 409 Absatz 1 Nummer 3 StPO verlangt Angabe der gesetzlichen Merkmale und des angewandten Strafgesetzes. — Bestimmtheitsgrundsatz Artikel 103 Absatz 2 GG; eine pauschale Datumsangabe ("in 2022 mehrfach") kann die Tat unzureichend individualisieren.
+Normbezug aus dem Fachmaterial: Prüfe Strafbefehl auf Pflichtinhalt nach Paragraf 409 StPO (7 Mindestangaben) und identifiziert Nichtigkeitsgründe; Tatbeschreibung Bestimmtheitsgrundsatz Artikel 103 Absatz 2 GG.
+Lieferstück: Fachvotum zu Strafbefehlsinhalt prüfen — Paragraf 409 StPO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

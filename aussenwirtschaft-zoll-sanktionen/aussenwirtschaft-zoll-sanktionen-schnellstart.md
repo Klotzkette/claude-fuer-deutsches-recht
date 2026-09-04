@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Transport- und Vertra
 | Schaden und Fristen | Schadensfeststellung, Vorbehalte, Reklamations- und Verjährungsfristen kalendarisch sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Haftung | Haftungsgrund, Höchstbeträge, Durchbrechung bei qualifiziertem Verschulden und Regresskette ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Haftbarhaltung, Reklamation, Regressschreiben, Klage oder Exportkontrollvermerk ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| ATLAS-Einfuhr-Abgabenbescheid: Prüfen und anfechten | Importeur erhält Nachzollbescheid über abweichenden Zollwert (Lizenzgebühren nicht einbezogen). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

@@ -193,7 +193,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. Grundstückskaufvertrag
 
 Bearbeitungsauftrag: Grundstückskaufvertrag prüfen: Paragraf 311b BGB notarielle Beurkundung, Auflassung Paragraf 925 BGB, Eintragung Auflassungsvormerkung Paragraf 883 BGB, Kaufpreiszahlung, Vollzugspflichten, Sicherheiten. Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung. Format: Wie ausführlich, für wen, in welcher Tonalität?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Grundstückskaufvertrag prüfen: Paragraf 311b BGB notarielle Beurkundung, Auflassung Paragraf 925 BGB, Eintragung Auflassungsvormerkung Paragraf 883 BGB, Kaufpreiszahlung, Vollzugspflichten, Sicherheiten.
+Normbezug aus dem Fachmaterial: Grundstückskaufvertrag prüfen: Paragraf 311b BGB notarielle Beurkundung, Auflassung Paragraf 925 BGB, Eintragung Auflassungsvormerkung Paragraf 883 BGB, Kaufpreiszahlung, Vollzugspflichten, Sicherheiten.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.2. Datenpaket WEG-Abrechnung zu Mietern

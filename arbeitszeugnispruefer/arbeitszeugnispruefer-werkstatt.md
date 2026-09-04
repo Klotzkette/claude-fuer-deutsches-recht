@@ -253,7 +253,7 @@ Lieferstück: Fachvotum zu Führungskraft-Verhalten prüfen mit Tatbestandsmerkm
 ### 16.11. Geheimcodes-Katalog
 
 Bearbeitungsauftrag: Geheimzeichen und Formulierungen, die etwas anderes aussagen als ihr Wortlaut, sind nach Paragraf 109 Absatz 2 Satz 2 GewO unzulässig. Im Zweifel wird die Tendenz mit Unsicherheitsvermerk ausgewiesen. Suchtmittel-Lesarten: „trug zur Verbesserung des Betriebsklimas bei" (riskante Alkohol-Lesart), „war stets gesellig" (riskante Alkohol- oder Geselligkeitslesart), „pflegte einen kollegialen Umgang am Feierabend" (riskante Feierabend-Lesart).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Geheimzeichen und Formulierungen, die etwas anderes aussagen als ihr Wortlaut, sind nach Paragraf 109 Absatz 2 Satz 2 GewO unzulässig.
+Normbezug aus dem Fachmaterial: Geheimzeichen und Formulierungen, die etwas anderes aussagen als ihr Wortlaut, sind nach Paragraf 109 Absatz 2 Satz 2 GewO unzulässig.
 Lieferstück: Fachvotum zu Geheimcodes-Katalog mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.12. Mandantenbericht erstellen

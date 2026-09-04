@@ -1,9 +1,9 @@
 ---
 name: adhaesionsverfahren
-description: "Für Adhäsionsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Adhäsionsverfahren: Prüft Anspruch aus der Straftat, Verletztenstellung, Antrag, Bezifferung oder Feststellung, Forderungsübergang, Beweise, Absehen, Vergleich, Kosten und Vollstreckung; erstellt einreichungsfähige Anträge."
 ---
 
-# Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten: Anwendungsfall Opfer will im Strafverfahren gleichzeitig Schmerzensgeld oder Schadensersatz geltend machen ohne separaten Zivilprozess
+# Adhäsionsverfahren Paragraf 403 StPO im Strafverfahren vorbereiten: Anwendungsfall Opfer will im Strafverfahren gleichzeitig Schmerzensgeld oder Schadensersatz geltend machen ohne separaten Zivilprozess
 
 
 ## Arbeitsweg
@@ -47,7 +47,7 @@ Das Adhäsionsverfahren verbindet Strafprozess und Zivilrecht. Es spart der verl
 | § 406a StPO | Rechtsmittel gegen Adhäsionsentscheidung; eingeschränkte Berufungsmöglichkeit |
 | § 406b StPO | Vorläufige Vollstreckbarkeit des Adhäsionsurteils |
 | § 406c StPO | Vollstreckbarerklärung des Vergleichs |
-| § 472a StPO | Kosten des Adhäsionsverfahrens für Verletzte: grundsätzlich kostenfrei |
+| § 472a StPO | Besondere Kosten- und Auslagenentscheidung im Adhäsionsverfahren; Ausgang, Teilobsiegen, Absehen und Vergleich getrennt berücksichtigen |
 | § 46a StGB | Täter-Opfer-Ausgleich und Schadenswiedergutmachung als Strafmilderungsgrund |
 | § 46 Abs. 2 StGB | Strafzumessung: Schadenswiedergutmachung berücksichtigungsfähig |
 | § 253 Abs. 2 BGB | Schmerzensgeld bei Körper-, Gesundheits-, Freiheitsverletzung oder sexueller Selbstbestimmung |
@@ -62,8 +62,7 @@ Das Adhäsionsverfahren verbindet Strafprozess und Zivilrecht. Es spart der verl
 
 | Aktenzeichen | Gericht / Datum | Tragende Aussage | Offene Fundstelle |
 |---|---|---|---|
-| 3 StR 340/24 | BGH (3. Strafsenat), Beschluss 09.01.2025 | Adhäsionsentscheidung im Strafverfahren — Begründungsanforderungen an Schmerzensgeldzumessung; Strafgericht muss die maßgeblichen Zumessungsgesichtspunkte (Verletzungsbild, Dauer, Folgen) erkennbar machen | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.01.2025&Aktenzeichen=3+StR+340/24 |
-| 4 StR 232/25 | BGH (4. Strafsenat), Urteil 20.11.2025 | Zusammenspiel TOA / Schadenswiedergutmachung (§ 46a StGB) und Adhäsionsforderung — Strafmilderung setzt kommunikativen Aussöhnungsprozess voraus, nicht nur Zahlung | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25 |
+| 4 StR 232/25 | BGH (4. Strafsenat), Urteil vom 20.11.2025 | Nur für die gesonderte Strafzumessungsfrage nach Paragraf 46a Nummer 1 StGB heranziehen: Ein Täter-Opfer-Ausgleich verlangt einen kommunikativen, auf Ausgleich gerichteten Prozess. Die Entscheidung belegt weder Anspruchsgrund noch Höhe einer Adhäsionsforderung. | Amtlichen Volltext vor Verwendung beim Bundesgerichtshof prüfen. |
 
 Weitere Entscheidungen vor Verwendung live in dejure.org/openjur.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren.
 

@@ -46,9 +46,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Beschwerdegegenstand,
 | Beschwerdegegenstand, Hoheitsakt | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Zulässigkeit | Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Schutzbereich, Eingriff | Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten | Bearbeite Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten entlang der Verfassungsrecht-Prüflinie: Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten | Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Äußerungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage | Bearbeite Äußerungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Beschwerdegegenstand, Hoheitsakt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,6 +59,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Beschwerdegegenstand,
 - Art. 11 GRCh ersetzt Art. 5 GG nicht, sondern wirkt im Anwendungsbereich des Unionsrechts; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 10 EMRK schützt Freiheit der Meinungsäußerung; Einschränkungen müssen gesetzlich vorgesehen, legitim und in einer demokratischen Gesellschaft notwendig sein; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 188 StGB Fassung 22.09.2021: Strafrahmen Freiheitsstrafe bis 5 Jahre oder Geldstrafe; bei Paragraf 188 II StGB qualifiziert; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
 
 ## 7. Antwortform
 

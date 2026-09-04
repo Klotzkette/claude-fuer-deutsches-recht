@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Unionsbezug, Normwirk
 | --- | --- |
 | Normenanker | EUV Artikel 4 Absatz 3 und Artikel 5; EUV Artikel 19 und AEUV Artikel 267; AEUV Artikel 18, Artikel 34 bis Artikel 36, Artikel 45, Artikel 49 |
 | Rechtsprechung | EuGH, Urteil vom 05.02.1963 - 26/62; EuGH, Urteil vom 15.07.1964 - 6/64 |
-| Tatbestand | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen |
+| Tatbestand | Beteiligte, Maßnahme, Mitgliedstaat, Organ, Rechtsakt, Binnenmarktbezug und zeitlicher Anwendungsbereich feststellen |
 | Beweislast | Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit |
 | Rechtsfolge | Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,9 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Unionsbezug, Normwirk
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Unionsbezug | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Normwirkung | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Materielle Prüfung | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Unionsbezug | Beteiligte, Maßnahme, Mitgliedstaat, Organ, Rechtsakt, Binnenmarktbezug und zeitlicher Anwendungsbereich feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Normwirkung | Primärrecht, Verordnung, Richtlinie, Beschluss, unmittelbare Wirkung, richtlinienkonforme Auslegung und Anwendungsvorrang trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Materielle Prüfung | Grundfreiheit, Diskriminierung, Beschränkung, Rechtfertigung, Verhältnismäßigkeit, Wettbewerb oder Beihilfe aufbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker

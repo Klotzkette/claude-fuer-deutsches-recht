@@ -33,8 +33,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorgang und Frist, St
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 611a; BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106; KSchG Paragraf 1, Paragraf 4 und Paragraf 7 |
-| Rechtsprechung | BAG, Urteil vom 30.01.2025 - 2 AZR 68/24; BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14 |
-| Tatbestand | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen |
+| Rechtsprechung | BAG, Urteil vom 30.01.2025 - 2 AZR 68/24; BAG, Urteil vom 07.05.2026 - 2 AZR 130/25 |
+| Tatbestand | Einstellung, Vertragsänderung, Vergütung, Fehlzeit, Beschwerde, Abmahnung, Kündigung oder Befristungsende kalendarisch sichern |
 | Beweislast | Wer sich auf den Zugang einer Erklärung beruft, beweist ihn; bei einer Arbeitgeberkündigung daher regelmäßig der Arbeitgeber. Der Arbeitgeber trägt außerdem Kündigungsgrund, ordnungsgemäße Betriebsratsanhörung und Erfüllung; der Arbeitnehmer Arbeitsleistung, eigene Anspruchsvoraussetzungen, rechtzeitige Klageerhebung und Gegenbelege |
 | Rechtsfolge | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,9 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorgang und Frist, St
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Vorgang und Frist | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Status und Regelwerk | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Laufendes Arbeitsverhältnis | Meldung, Schutzpflicht, Anhörung, Vertraulichkeit, Beleg, Maßnahme und Benachteiligungsrisiko in einer Fallakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vorgang und Frist | Einstellung, Vertragsänderung, Vergütung, Fehlzeit, Beschwerde, Abmahnung, Kündigung oder Befristungsende kalendarisch sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Status und Regelwerk | Arbeitnehmerstellung, Vertrag, Nachweis, Tarifbindung, Betriebsvereinbarung, Betriebsrat und Vertretungsmacht klären. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Laufendes Arbeitsverhältnis | Arbeitszeit, Vergütung, Urlaub, Krankheit, Weisung, Gleichbehandlung, Arbeitsschutz und Dokumentation getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker
@@ -53,11 +53,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorgang und Frist, St
 - BGB Paragraf 611a: Arbeitsvertrag und Weisungsgebundenheit.
 - BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106: Rücksichtnahme, Maßregelungsverbot und Weisungsrecht.
 - KSchG Paragraf 1, Paragraf 4 und Paragraf 7: soziale Rechtfertigung, Dreiwochenfrist und Wirksamkeitsfiktion.
-- BGB Paragraf 623 und Paragraf 626: Schriftform, wichtiger Grund und Erklärungsfrist.
+- BGB Paragraf 623 und Paragraf 626: Schriftform, wichtiger Grund und Erklärungsfrist; elektronische Gerichtsschriftsätze gesondert nach ArbGG Paragraf 46h prüfen.
 - Paragrafen 1, 4 und 7 KSchG: Kündigungsgrund, Dreiwochenfrist und Wirksamkeitsfiktion sind strikt zu trennen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 102 BetrVG: Betriebsratsanhörung ist eigener Wirksamkeitsbaustein und nicht bloße Prozessformalie; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 611a, 612 und 614 BGB: Vergütung, Höhe und Fälligkeit des Arbeitsentgelts müssen aus Vertrag, Tarif, Übung oder Gesetz hergeleitet werden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 286 BGB: Verzugszinsen und Verzugsschaden setzen Fälligkeit, Nichtleistung und gegebenenfalls Mahnung voraus; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 138 ZPO: Erfüllung, Abrechnung, Arbeitszeit und Einwendungen gegen Entgelt sind nach Darlegungslast getrennt zu würdigen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

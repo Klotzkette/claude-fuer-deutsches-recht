@@ -184,7 +184,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Esports Vereinsrecht Dosb Anerkennung | ESports-Sparte (Counter-Strike, League of Legends, FIFA, Dota etc.). Bisherige Finanzamt-Korrespondenz (Gemeinnützigkeits-Anerkennung). | Fachvotum zu Esports Vereinsrecht Dosb Anerkennung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Fachanwalt Sportrecht Vereinsstrafrecht | Welche verbandsinternen Rechtsmittelinstanzen sieht die Satzung vor (Verbandsgericht, Berufungsausschuss, DIS-Sportschiedsgericht, CAS)? | Fachvotum zu Fachanwalt Sportrecht Vereinsstrafrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Fan erhält bundesweites Stadion-Hausverbot und will dieses anfechten | Bearbeite Fan erhält bundesweites Stadion-Hausverbot und will dieses anfechten: regelwerkfassung, Entscheidung, Zustellung, interne Instanz, Schieds- oder Gerichtsweg, Eilbedarf und Wettkampfbeleg sichern. | Fachvotum zu Fan erhält bundesweites Stadion-Hausverbot und will dieses anfechten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
-| Sportverfahren-Versandmappe endfertigen | Trenne Verbandsrechtsbehelf, DIS-Sportverfahren, CAS-Berufung und staatlichen Eil- oder Hauptsacheprozess. | Fachvotum zu Sportverfahren-Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Bauleiter Athletenvertrag | Bearbeite Bauleiter Athletenvertrag: regelwerkfassung, Entscheidung, Zustellung, interne Instanz, Schieds- oder Gerichtsweg, Eilbedarf und Wettkampfbeleg sichern. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -224,7 +224,7 @@ Lieferstück: Fachvotum zu Doping Verfahren mit Tatbestandsmerkmalen, Aktenfunds
 
 Bearbeitungsauftrag: ESports-Sparte (Counter-Strike, League of Legends, FIFA, Dota etc.). Bisherige Finanzamt-Korrespondenz (Gemeinnützigkeits-Anerkennung). Paragraf 52 Absatz 2 Nummer 21 AO — "Förderung des Sports (Schach gilt als Sport)" — eSports umstritten.
 Prüfschritte: Bestehende Vereinsstruktur (Neugründung / bestehender Sportverein); Geplante Aktivität (Liga-Teilnahme, Trainings-Bootcamps, Turniere); Mitgliederstruktur (Hobby, semi-professionell); Paragrafen 21 und folgende BGB — Verein; Paragraf 51 und folgende AO — Steuerbegünstigte Zwecke.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Bestehende Vereinsstruktur (Neugründung / bestehender Sportverein); Geplante Aktivität (Liga-Teilnahme, Trainings-Bootcamps, Turniere); Mitgliederstruktur (Hobby, semi-professionell); Paragrafen 21 und folgende BGB — Verein; Paragraf 51 und folgende AO — Steuerbegünstigte Zwecke.
+Normbezug aus dem Fachmaterial: Bestehende Vereinsstruktur (Neugründung / bestehender Sportverein); Geplante Aktivität (Liga-Teilnahme, Trainings-Bootcamps, Turniere); Mitgliederstruktur (Hobby, semi-professionell); Paragrafen 21 und folgende BGB — Verein; Paragraf 51 und folgende AO — Steuerbegünstigte Zwecke.
 Lieferstück: Fachvotum zu Esports Vereinsrecht Dosb Anerkennung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.7. Fachanwalt Sportrecht Vereinsstrafrecht
@@ -237,24 +237,24 @@ Lieferstück: Fachvotum zu Fachanwalt Sportrecht Vereinsstrafrecht mit Tatbestan
 
 Bearbeitungsauftrag: Bearbeite Fan erhält bundesweites Stadion-Hausverbot und will dieses anfechten: regelwerkfassung, Entscheidung, Zustellung, interne Instanz, Schieds- oder Gerichtsweg, Eilbedarf und Wettkampfbeleg sichern. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Materielle Prüfung: Vertrag, Spielberechtigung, Transfer, Dopingvorwurf, Verbandsstrafe, Auswahlentscheidung oder Hausverbot tatbestandlich zerlegen.
 Prüfschritte: Datei "Gewalttäter Sport" beim BKA; Pauschal-Verbote ohne Einzel-Prüfung; Sippenhaft-Effekt (Verein-Zugehörigkeit); Anfechtungs-Klage AG bei Verein-Sitz; BKA "Gewalttäter Sport" Löschungs-Antrag.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 858 BGB analog; Vereinsrecht im Stadion; Bei Profi-Liga: Vereine über DFL Statuten; DFL-Richtlinien; Datei "Gewalttäter Sport" beim BKA; Eintragung 1-5 Jahre; Sachgrund.
+Normbezug aus dem Fachmaterial: Paragraf 858 BGB analog; Vereinsrecht im Stadion; Bei Profi-Liga: Vereine über DFL Statuten; DFL-Richtlinien; Datei "Gewalttäter Sport" beim BKA; Eintragung 1-5 Jahre; Sachgrund.
 Lieferstück: Fachvotum zu Fan erhält bundesweites Stadion-Hausverbot und will dieses anfechten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Sportverfahren-Versandmappe endfertigen
-
-Bearbeitungsauftrag: Trenne Verbandsrechtsbehelf, DIS-Sportverfahren, CAS-Berufung und staatlichen Eil- oder Hauptsacheprozess. Ordne Entscheidung, Satzung, Regelwerk, Meldelisten, Ergebnis- und Matchdaten, medizinische Ausnahmegenehmigung, Laborunterlagen, Video- oder Trackingnachweise und Kommunikation. Die Verbands- oder Schiedsordnung bestimmt Portal, Dateigrenze, Sprache und Empfang.
-Prüfschritte: Lies angegriffene Entscheidung, Zustellnachweis, Satzung, Verfahrensordnung, Schiedsvereinbarung, Nominierungs- oder Wettkampfkalender und Entwurf zuerst; beA gilt nicht für ein Verbandsportal oder den CAS; Gesundheits- und Standortdaten nur im erforderlichen Umfang offenlegen.
-Lieferstück: Fachvotum zu Sportverfahren-Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.10. Bauleiter Athletenvertrag
+### 16.9. Bauleiter Athletenvertrag
 
 Bearbeitungsauftrag: Bearbeite Bauleiter Athletenvertrag: regelwerkfassung, Entscheidung, Zustellung, interne Instanz, Schieds- oder Gerichtsweg, Eilbedarf und Wettkampfbeleg sichern. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.11. Schiedsklausel Csport
+### 16.10. Schiedsklausel Csport
 
 Bearbeitungsauftrag: Bearbeite Schiedsklausel Csport: regelwerkfassung, Entscheidung, Zustellung, interne Instanz, Schieds- oder Gerichtsweg, Eilbedarf und Wettkampfbeleg sichern. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.11. Sportverfahren-Versandmappe endfertigen
+
+Bearbeitungsauftrag: Trenne Verbandsrechtsbehelf, DIS-Sportverfahren, CAS-Berufung und staatlichen Eil- oder Hauptsacheprozess. Ordne Entscheidung, Satzung, Regelwerk, Meldelisten, Ergebnis- und Matchdaten, medizinische Ausnahmegenehmigung, Laborunterlagen, Video- oder Trackingnachweise und Kommunikation. Die Verbands- oder Schiedsordnung bestimmt Portal, Dateigrenze, Sprache und Empfang.
+Prüfschritte: Lies angegriffene Entscheidung, Zustellnachweis, Satzung, Verfahrensordnung, Schiedsvereinbarung, Nominierungs- oder Wettkampfkalender und Entwurf zuerst; beA gilt nicht für ein Verbandsportal oder den CAS.
+Lieferstück: Fachvotum zu Sportverfahren-Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.12. Fußballtransfer und Vertragsbeendigung
 

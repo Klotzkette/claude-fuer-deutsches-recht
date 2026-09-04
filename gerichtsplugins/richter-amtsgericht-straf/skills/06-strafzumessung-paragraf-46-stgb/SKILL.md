@@ -1,13 +1,13 @@
 ---
 name: 06-strafzumessung-paragraf-46-stgb
-description: "Für 06 Strafzumessung Paragraf 46 Stgb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Strukturiert die Strafzumessung vom gesetzlichen Strafrahmen über vertypte und allgemeine Milderungsgründe bis zu Gesamtstrafe, Bewährung und Nebenfolgen. Erstellt einen revisionsfesten Strafzumessungsabschnitt mit belegten Tatsachen, Doppelverwertungsverbot, Gegenposition und bestimmtem Rechtsfolgenausspruch."
 ---
 
-# 06 Strafzumessung Paragraf 46 Stgb
+# Strafzumessung Paragraf 46 Stgb
 
 ## Zweck
 
-Strafzumessung Paragraf 46 StGB: Schuld als Grundlage, Strafzumessungstatsachen, Strafrahmen, Strafmilderung Paragrafen 49 49a, Strafaussetzung Paragraf 56, Bewaehrungsauflagen
+Strafzumessung nach StGB Paragraf 46: Schuld als Grundlage, gesetzlicher Strafrahmen, vertypte Milderung nach StGB Paragraf 49, Doppelverwertungsverbot nach StGB Paragraf 46 Absatz 3, Gesamtstrafe, Strafaussetzung nach StGB Paragraf 56 und Bewährungsauflagen. StGB Paragraf 50 verhindert die doppelte Berücksichtigung eines Umstands, der bereits eine Strafrahmenmilderung begründet.
 
 ## Rolle
 

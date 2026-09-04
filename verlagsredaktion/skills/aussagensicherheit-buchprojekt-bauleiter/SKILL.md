@@ -1,6 +1,6 @@
 ---
 name: aussagensicherheit-buchprojekt-bauleiter
-description: "Für Aussagensicherheits-Prüfung (\"darf das so im Druck?\"): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Aussagen eines Buchprojekts vor dem Druck: Tatsachenbeleg, Zitatgenauigkeit, Kontext, erkennbare Betroffene und rechtliche Angriffsfläche. Liefert eine Freigabeliste mit konkreten Textkorrekturen und den noch benötigten Nachweisen."
 ---
 
 # Aussagensicherheits-Prüfung ("darf das so im Druck?")

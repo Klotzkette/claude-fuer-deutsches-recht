@@ -1,6 +1,6 @@
 ---
 name: euipo-widerspruchsverfahren
-description: "Für EUIPO-Widerspruchsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
+description: "Führt ein EUIPO-Widerspruchsverfahren von Veröffentlichung und Dreimonatsfrist über Widerspruchsgrund, Warenvergleich, Zeichenvergleich, Kennzeichnungskraft und Benutzungsnachweis bis zur Entscheidung. Erstellt Widerspruchsschrift, Belegverzeichnis, Vergleichskorridor und Beschwerdeakte für die Beschwerdekammer."
 ---
 
 # EUIPO-Widerspruchsverfahren
@@ -9,13 +9,16 @@ description: "Für EUIPO-Widerspruchsverfahren: ordnet Norm, Beweislast und Gege
 
 EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Widerspruch) und Art. 66 bis 71 UMV (Beschwerdekammern). Prüfraster: Widerspruchsfristen (3 Monate ab Veröffentlichung), Gebühren, Benutzungsnachweis Art. 47 UMV, Verwechslungsgefahr-Kriterien EUIPO-Praxis. Output Widerspruchsschrift EUIPO, Benutzungsnachweis-Zusammenstellung. Abgrenzung: DPMA-Widerspruch siehe dpma-widerspruch-und-löschung; TTAB siehe ttab-opposition-und-cancellation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
-## Arbeitsweg
+## Direktauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre, § 25 Benutzungsschonfrist 5 Jahre, Widerspruch DPMA 3 Monate, Nichtigkeitsantrag § 50 (10 Jahre Bösgläubigkeit).
-- Tragende Normen verifizieren: MarkenG §§ 4, 8, 9, 14, 15, 24 (Erschöpfung), UMV (VO 2017/1001), MMA, GemmuVO, UrhG §§ 2, 69, UWG §§ 3, 4 Nr. 3, 6, EU-Geoblocking-VO, ZollVO 608/2013 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung, Lizenzvertrag, Selektiv-Vertriebsvertrag, Abmahnung, Zollbeschlagnahme-Antrag, Verletzungsklage, Lookbook, EUIPO-Widerspruch — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Bearbeite EUIPO-Widerspruchsverfahren: zeichen, Priorität, Waren oder Dienstleistungen, Kennzeichnungskraft, Ähnlichkeit, Benutzung, Verwechslungsgefahr und Verfahrensziel verbinden. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg. Arbeite die für diesen Gegenstand entscheidende Fachstation aus: Zeichen und Schutzweg: Wort, Bild, Form, Klang oder sonstige Markenform, Inhaber, Waren und Dienstleistungen sowie DPMA- oder EUIPO-Weg bestimmen Maßgebliche Kontrollfrage: Welches Zeichen beansprucht für welche Waren und Dienstleistungen welchen Zeitrang.
+
+- Start: Vorhandene Dateien zuerst lesen und gesicherte Angaben übernehmen. Im Arbeitsmodus `Fallbearbeitung` unmittelbar mit dem Arbeitsprodukt beginnen: EUIPO-Widerspruchsverfahren-Prüfvermerk mit Ergebnis, Gegenposition, Beleglücken und nächstem Schritt.
+- Tatbestand und Beweis: Ordne jedem entscheidungserheblichen Merkmal einen Aktenfund oder eine ausdrücklich bezeichnete Lücke zu; bloße Plausibilität ersetzt weder Vortrag noch Beweis.
+- Kernnormen: Unionsmarkenverordnung Artikel 8, 18, 46, 47, 58 und 60: relative Hindernisse, Benutzung, Widerspruch, Verfall und Nichtigkeit vor dem EUIPO. MarkenG Paragraf 42 und Paragraf 43: Widerspruch, Benutzungsschonfrist und Benutzungsnachweis.
+- Rechtsprechung: Kein Urteil nur zur Dekoration einsetzen. Rechtsprechung erst verwenden, wenn Gericht, Datum, Aktenzeichen, tragender Satz und Übertragungsgrenze in einer amtlichen oder frei zugänglichen Volltextquelle geprüft sind.
+- Einsatzgrenze: Normfassung und tragende Aussage am amtlichen Volltext prüfen; eine Entscheidung nicht auf andere Tatbestands-, Beweis- oder Verfahrensstufen übertragen.
+- Abschluss: Das Ergebnis muss `EUIPO-Widerspruchsverfahren` konkret beantworten, die stärkste Gegenposition verarbeiten und den nächsten verwendbaren Text, Antrag, Rechenweg oder Vollzugsschritt liefern.
 
 ## Fachkern: EUIPO-Widerspruchsverfahren
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
@@ -36,7 +39,8 @@ Die Widerspruchsabteilung des EUIPO prüft präzise und sachlich; die Beschwerde
 - **Art. 8 IV UMV:** Ältere nicht eingetragene Rechte (Benutzungsmarke, Firmenname)
 - **Art. 47 III UMV:** Benutzungsnachweis-Einrede — ältere Marke muss bei ernstlicher Benutzung belegt werden (5-Jahres-Frist)
 - **Art. 67-71 UMV:** Beschwerdekammer (BoA)
-- **Art. 72/73 UMV:** Klage beim EuG; Rechtsmittel zum EuGH
+- UMV Artikel 72: Klage gegen Entscheidungen der Beschwerdekammern beim Gericht der Europäischen Union
+- Artikel 58a der Satzung des Gerichtshofs und Artikel 170a ff. der Verfahrensordnung des Gerichtshofs: Zulassung eines weiteren Rechtsmittels in den gesetzlich erfassten EUIPO-Sachen
 - **Widerspruchsgebühr:** EUR 320 (Art. 2 I Nr. 7 GebührenVO)
 
 ## Prüfungsschritte
@@ -82,8 +86,15 @@ Verwechslungsgefahr-Prüfung nach ständiger EUIPO/EuGH-Formel:
 
 ### Schritt 6: Beschwerde (BoA)
 - Frist: 2 Monate ab Entscheidung
-- Gebühr: EUR 720 (EUR 1.200 für beschleunigte Beschwerde)
+- Begründung: gesonderte Viermonatsfrist ab Zustellung der Entscheidung nach UMV Artikel 68 Absatz 1
+- Gebühr: EUR 720; eine zusätzliche Gebühr für eine "beschleunigte Beschwerde" nicht ansetzen
 - Schriftliches Beschwerdeverfahren; mündliche Verhandlung auf Antrag möglich
+
+### Schritt 7: Gerichtlicher Rechtsschutz
+
+- Klage zum Gericht nach UMV Artikel 72 binnen zwei Monaten nach Zustellung der Entscheidung der Beschwerdekammer; Entfernungsfrist und Verfahrensordnung gesondert prüfen.
+- Klagegründe, Anträge und angegriffene Teile der Entscheidung exakt bezeichnen; das Gericht ersetzt keine versäumte Tatsachen- oder Beweisführung aus dem Amtsverfahren.
+- Ein weiteres Rechtsmittel zum Gerichtshof betrifft Rechtsfragen und bedarf in den erfassten EUIPO-Sachen der vorherigen Zulassung nach Artikel 58a der Satzung sowie Artikel 170a ff. der Verfahrensordnung.
 
 ## Falltypische Konstellationen
 
@@ -101,6 +112,7 @@ klôtzzkètté legt Widerspruch gegen Anmeldung "KLOTZ-KT" für Klasse 9 (Techno
 - Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
 - Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
+- EuGH, Urteil vom 30.05.2024 - C-337/22 P, Nowhere gegen EUIPO: Für die zeitliche und territoriale Wirkung eines älteren nationalen Rechts ist der maßgebliche Verfahrenszeitpunkt präzise zu bestimmen; den Brexit-Sachverhalt nicht als allgemeine Regel zu Benutzung oder Verwechslungsgefahr verwenden.
 
 ## Templates
 

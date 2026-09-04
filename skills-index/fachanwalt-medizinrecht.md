@@ -1,6 +1,6 @@
 # fachanwalt-medizinrecht
 
-**160 Skills** · Stand `v441.0.0`
+**160 Skills** · Stand `v442.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-medizinrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

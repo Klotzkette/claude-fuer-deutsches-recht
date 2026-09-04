@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Produkt und Rolle, Ve
 | --- | --- |
 | Normenanker | KWG Paragraf 32; KWG Paragraf 25a; WpHG Paragraf 63 |
 | Rechtsprechung | BGH, Urteil vom 19.12.2006 - XI ZR 56/05; BGH, Urteil vom 27.04.2021 - XI ZR 26/20 |
-| Tatbestand | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen |
+| Tatbestand | Bank, Kunde, Anleger, Emittent, Zahlungsdienstleister, Vermittler oder Aufsicht als Arbeitsrolle festlegen |
 | Beweislast | Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht |
 | Rechtsfolge | Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,9 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Produkt und Rolle, Ve
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Produkt und Rolle | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertragskern | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichten und Aufsicht | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Produkt und Rolle | Bank, Kunde, Anleger, Emittent, Zahlungsdienstleister, Vermittler oder Aufsicht als Arbeitsrolle festlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragskern | Kredit, Zahlungsdienst, Bürgschaft, Garantie, Wertpapierdienstleistung, Verwahrung oder Tokenprodukt abgrenzen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Pflichten und Aufsicht | Erlaubnis, Organisation, Aufklärung, Dokumentation, Geeignetheit, Autorisierung und Meldepflichten prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker
@@ -54,7 +54,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Produkt und Rolle, Ve
 - KWG Paragraf 25a: ordnungsgemäße Geschäftsorganisation und Risikomanagement.
 - WpHG Paragraf 63: Wohlverhaltenspflichten im Wertpapierdienstleistungsgeschäft.
 - BGB Paragraf 675f: Zahlungsdiensterahmenvertrag und Zahlungsdienstepflichten.
-- Paragraf 24 Abs. 1 KWG – laufende Anzeigepflichten: Nr. 1 Organpersonen (sofort), Nr. 11 qualifizierte Beteiligung (vor Vollzug), Nr. 12 Unterschreiten 10 % (unverzüglich), Nr. 14 enge; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 24 Abs. 1 KWG – laufende Anzeigepflichten: Nr. 1 Organpersonen (sofort), Nr. 11 qualifizierte Beteiligung (vor Vollzug), Nr. 12 Unterschreiten 10 % (unverzüglich), Nr. 14 enge Verbindungen, Nr. 16 Beteiligungen an Unternehmen, Nr. 19 wesentliche IT-Auslagerungen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 24 Abs. 1a KWG – Geschäftsführer-Änderungen bei Finanzholdings; Abs. 3a Finanzkonglomerate; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 25h KWG – interne Sicherungsmaßnahmen von Instituten; die Verdachtsmeldepflicht folgt aus Paragraf 43 GwG, das weitere Meldeverfahren aus Paragrafen 43 bis 48 GwG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 2c KWG – Inhaberkontrolle: Anzeige Erwerb (60-Werktage-Frist), Veräußerung, Überschreiten jeder Schwelle (10/20/30/50 %); InhKontrollV-Formulare; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.

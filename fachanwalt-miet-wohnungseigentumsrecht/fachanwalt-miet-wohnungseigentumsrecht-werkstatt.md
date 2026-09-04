@@ -130,11 +130,6 @@ Arbeitsgriff WEG-Beschluss und Verwaltung: Beschluss, Einladungsfehler, Beschlus
 - BGH, Urteil vom 20.09.2006 - VIII ZR 103/06: Die formularmäßige Umlage der Aufzugskosten kann auch einen Erdgeschossmieter treffen, dessen Wohnung durch den Aufzug erschlossen wird.
 - BGH, Urteil vom 23.09.2015 - VIII ZR 297/14: Eigenbedarf erfordert einen ernsthaft verfolgten, hinreichend bestimmten Nutzungswunsch auf vernünftiger und nachvollziehbarer Grundlage; eine vage Vorratsabsicht genügt nicht.
 - BGH, Urteil vom 10.10.2012 - VIII ZR 107/12: Eine ordentliche Kündigung wegen Zahlungsverzugs kann unterhalb der Schwelle des Paragraf 543 Absatz 2 Nummer 3 BGB tragen; ein Rückstand bis zu einer Monatsmiete bei weniger als einem Monat Verzug ist noch nicht erheblich.
-- BGH, Beschl. v. 07.11.2024 – V ZB 6/24 — Bei verspäteter Klagezustellung durch das Gericht trifft den Anfechtungskläger eine Erkundigungsobliegenheit; im Regelfall innerhalb eines Jahres nach Ablauf der Monatsfrist Paragraf 45 Satz 1 WEG.
-- BGH, Urt. v. 14.02.2025 – V ZR 236/23 — Erstmalige Belastung der bislang nicht beteiligten Wohnungseigentümer mit Erhaltungskosten eines nur einem Teil der Eigentümer dienenden Gebäudeteils widerspricht idR ordnungsmäßiger Verwaltung.
-- BGH, Urt. v. 14.02.2025 – V ZR 86/24 — Vorbefassungsobliegenheit bei Beschlussersetzungsklage Paragraf 44 Abs. 1 Satz 2 WEG (Wärmepumpe): es genügt, in der Versammlung einen Beschluss erbeten zu haben.
-- BGH, Urteil vom 18.12.2024 - VIII ZR 16/23: Die seit April 2020 geltenden Vorschriften zur Mietpreisbremse sind verfassungsgemäß; die Zweite Berliner Mietenbegrenzungsverordnung vom 19. Mai 2020 ist wirksam.
-- BGH, Urteil vom 29.11.2023 - VIII ZR 75/23: Bei Berufung auf die Vormiete genügte nach der dort anwendbaren alten Fassung die Mitteilung der vertraglich vereinbarten Vormiete; der Vermieter musste nicht zusätzlich deren rechtliche Zulässigkeit berechnen.
 
 ## 9. Prüfraster
 
@@ -214,7 +209,7 @@ Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streit
 
 Bearbeitungsauftrag: Wohnraum oder Gewerberaum beziehungsweise Grundstück? Für Gewerberaum und Grundstücke gilt Paragraf 550 BGB über Paragraf 578 Absatz 1 BGB mit der Maßgabe der Textform. Artikel 229 Paragraf 70 Absatz 1 EGBGB regelte die inzwischen abgelaufene Übergangsphase für ältere Vertragsverhältnisse.
 Prüfschritte: Untersuche Hauptvertrag, Anlagen, Nachträge, Sideletter und E-Mail-Korrespondenz als einheitliche Vertragskette; Arbeite mit vorhandenen Dokumenten sofort; frage nur nach dem Entstehungsdatum, einer nicht belegten Änderung oder dem konkreten Ziel, wenn dies nicht aus der Akte hervorgeht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe die aktuelle Textform langfristiger Gewerberaummietverträge nach Paragraf 578 und 550 BGB, ordnet Altverträge nach Artikel 229 Paragraf 70 EGBGB ein und liefert Vertragskettenmatrix, Kündigungsrisiko und Nachtragsbedarf.
+Normbezug aus dem Fachmaterial: Prüfe die aktuelle Textform langfristiger Gewerberaummietverträge nach Paragraf 578 und 550 BGB, ordnet Altverträge nach Artikel 229 Paragraf 70 EGBGB ein und liefert Vertragskettenmatrix, Kündigungsrisiko und Nachtragsbedarf.
 Lieferstück: Fristenblatt zu Gewerberaum: Formaudit langfristiger Mietverträge mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
 ### 16.3. AGG bei Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht
@@ -231,7 +226,7 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 
 Bearbeitungsauftrag: BvR 1460/99: Zivilgerichte müssen beim Treppenlift das Eigentumsinteresse des Vermieters mit dem geschützten Zugangs- und Nutzungsinteresse des Mieters abwägen. Die Entscheidung erging vor Einführung der heutigen gesetzlichen Anspruchsgrundlage. Sie ist als verfassungsrechtlicher Abwägungsanker, nicht als Ersatz für den Tatbestand des Paragraf 554 BGB zu verwenden.
 Prüfschritte: Ein Mieter benötigt eine Rampe, einen Treppenlift, breitere Türen, entfernte Schwellen, Haltegriffe oder eine andere bauliche Änderung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe und gestaltet den Anspruch des Wohnraummieters auf Barrierereduzierung nach Paragraf 554 BGB.
+Normbezug aus dem Fachmaterial: Prüfe und gestaltet den Anspruch des Wohnraummieters auf Barrierereduzierung nach Paragraf 554 BGB.
 Lieferstück: Fachvotum zu Barrierereduzierung in der Mietwohnung durchsetzen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.6. CO2-Kostenaufteilung in Miet- und WEG-Abrechnungen

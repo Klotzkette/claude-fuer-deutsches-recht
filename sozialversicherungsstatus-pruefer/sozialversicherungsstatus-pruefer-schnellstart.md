@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Auftrag und Zeitraum,
 | --- | --- |
 | Normenanker | SGB IV Paragraf 7; SGB IV Paragraf 7a; SGB IV Paragraf 28p |
 | Rechtsprechung | BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R; BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R |
-| Tatbestand | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten |
+| Tatbestand | Tätigkeit, Vertrag, Abrechnung, Einsatzort, Kunde, Gesellschaft und Prüfzeitraum feststellen |
 | Beweislast | Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko |
 | Rechtsfolge | Statusfeststellungsantrag, Anhörungserwiderung, Beitragsabwehr, Nachzahlungsplan, Widerspruch oder Klage |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Auftrag und Zeitraum,
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Auftrag und Zeitraum | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Gesamtbild | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sonderrollen | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahren | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beitragsnachforderung und Haftung | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auftrag und Zeitraum | Tätigkeit, Vertrag, Abrechnung, Einsatzort, Kunde, Gesellschaft und Prüfzeitraum feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Gesamtbild | Weisungen, Eingliederung, Unternehmerrisiko, eigene Betriebsmittel, Vergütung und Außenauftritt gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Sonderrollen | Geschäftsführer, Familienangehöriger, Lehrkraft, Plattformarbeiter, Freiberufler und arbeitnehmerähnlicher Selbständiger getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verfahren | Statusantrag, Anhörung, Betriebsprüfung, Säumniszuschläge, Beitragsbescheid, Widerspruch und Eilverfahren abbilden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Statusmatrix, Anhörungserwiderung, Beitragsrisikorechnung, Widerspruch oder Klageentwurf erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

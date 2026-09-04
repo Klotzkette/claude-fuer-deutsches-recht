@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Dienst und Rolle, Vor
 | --- | --- |
 | Normenanker | DSA Artikel 3 bis Artikel 6; DSA Artikel 11 bis Artikel 17; DSA Artikel 20 bis Artikel 23 |
 | Rechtsprechung | EuGH, Urteil vom 12.07.2011 - C-324/09; EuGH, Urteil vom 03.10.2019 - C-18/18 |
-| Tatbestand | Vermittlung, Hosting, Plattform, Marktplatz, Suchmaschine, sehr großer Dienst oder Gatekeeper anhand |
+| Tatbestand | Vermittlung, Hosting, Plattform, Marktplatz, Suchmaschine, sehr großer Dienst oder Gatekeeper anhand der tatsächlichen Funktion einordnen |
 | Beweislast | Darlegungs- und Nachweisfrage für Digitale Plattformregulierung: Welche Handlung, Unterlassung oder Entscheidung löst welche Pflicht aus |
 | Rechtsfolge | Notice, Begründung, Beschwerde, Risikobericht, Datenzugangsantrag, Behördenantwort oder Compliance-Roadmap erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Dienst und Rolle, Vor
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Dienst und Rolle | Vermittlung, Hosting, Plattform, Marktplatz, Suchmaschine, sehr großer Dienst oder Gatekeeper anhand. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vorgang | Meldung, Sperre, Ranking, Werbung, Empfehlungssystem, Händlernachverfolgung, Beschwerde oder behördliche Maßnahme. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dienst und Rolle | Vermittlung, Hosting, Plattform, Marktplatz, Suchmaschine, sehr großer Dienst oder Gatekeeper anhand der tatsächlichen Funktion einordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vorgang | Meldung, Sperre, Ranking, Werbung, Empfehlungssystem, Händlernachverfolgung, Beschwerde oder behördliche Maßnahme erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Pflichtmatrix | Adressat, Schwellenwert, Tatbestand, Frist, Begründung, Transparenz, Datenbeleg und Aufsicht zuordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Grundrechte und Verfahren | Nutzerposition, Unternehmerfreiheit, Meinungsfreiheit, Gehör, Beschwerdeweg und gerichtlichen Rechtsschutz trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Notice, Begründung, Beschwerde, Risikobericht, Datenzugangsantrag, Behördenantwort oder Compliance-Roadmap. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| DSA: Dark Patterns Audit | Bearbeite DSA: Dark Patterns Audit: Vermittlung, Hosting, Plattform, Marktplatz, Suchmaschine, sehr großer Dienst. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Notice, Begründung, Beschwerde, Risikobericht, Datenzugangsantrag, Behördenantwort oder Compliance-Roadmap erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

@@ -632,7 +632,7 @@ _Für Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik: ordnet Norm, Bewei
 
 ## Worum geht es
 
-Der Debt-Equity-Swap (DES) ist die zentrale Sanierungsstrukturmaßnahme, in der ein Gläubiger seine Forderung gegen die Schuldnerin als Sacheinlage in die Schuldnerin einbringt und im Gegenzug Anteile erhält. Die Forderung erlischt durch Konfusion mit der Aufnahme in das Vermögen der Schuldnerin. Steuerlich entsteht bei der Schuldnerin ein Ertrag in Höhe der Differenz zwischen Nennwert der Forderung und Werthaltigkeitsanteil; das ist der **klassische Sanierungsertrag**, der Paragraf 3a EStG eröffnet. Auf Gläubigerseite stellt sich die Frage der Werthaltigkeit der eingebrachten Forderung und der gesellschaftsrechtlichen Differenzhaftung nach Paragraf 9 GmbHG / Paragraf 27 AktG.
+Der Debt-Equity-Swap (DES) ist eine Sanierungsstrukturmaßnahme, bei der ein Gläubiger seine Forderung gegen die Schuldnerin als offene Sacheinlage einbringt und im Gegenzug neue Anteile erhält. Davon ist ein außerhalb oder neben der Kapitalerhöhung liegender, durch das Gesellschaftsverhältnis veranlasster Forderungsverzicht als mögliche verdeckte Einlage zu unterscheiden. Ob und in welcher Höhe auf Schuldnerseite ein steuerlicher Ertrag entsteht, folgt nicht allein aus der Formel Nennwert minus Werthaltigkeit. Gesellschaftsrechtliche Einlagebewertung, handels- und steuerbilanzielle Ausbuchung, eine mögliche verdeckte Einlage nach Paragraf 8 Absatz 3 Satz 3 KStG und die Voraussetzungen eines betrieblich begründeten Schuldenerlasses nach Paragraf 3a EStG sind getrennt zu prüfen. Paragraf 8 Absatz 3 Satz 2 KStG betrifft dagegen verdeckte Gewinnausschüttungen. Auf Gläubigerseite stellen sich insbesondere Bewertungs-, Abschreibungs- und Differenzhaftungsfragen nach Paragraf 9 GmbHG oder dem Aktienrecht.
 
 Verzahne gesellschaftsrechtliche Umsetzung, steuerliche Sanierungsgewinnlogik und SPA-Mechanik in einem prüfbaren Transaktionspfad.
 
@@ -649,7 +649,9 @@ Nicht dieser Skill ist primär, wenn der DES nur theoretisch erwogen wird, aber 
 
 - **Paragraf 3a EStG** – Sanierungsertrag auf Schuldnerseite.
 - **Paragraf 3a Abs. 3 EStG** – zwingende Verrechnungsreihenfolge.
-- **Paragraf 8 Abs. 3 Satz 2 KStG** – verdeckte Einlage.
+- **Offene Sacheinlage:** Einbringung der Forderung gegen Gewährung neuer Anteile nach den gesellschaftsrechtlichen Kapitalerhöhungsregeln; steuerliche Einlagefolgen und das steuerliche Einlagekonto gesondert prüfen.
+- **Paragraf 8 Absatz 3 Satz 3 KStG:** Verdeckte Einlagen erhöhen das Einkommen nicht; nur für einen gesellschafterlich veranlassten Einlagevorgang außerhalb der offenen Sacheinlage heranziehen.
+- **Paragraf 8 Absatz 3 Satz 2 KStG:** Betrifft verdeckte Gewinnausschüttungen und ist kein Anker für die Forderungseinlage.
 - **Paragraf 5 Abs. 1 EStG** – Bilanzierung Verbindlichkeiten.
 - **Paragraf 55 ff. GmbHG** – Kapitalerhöhung; Sacheinlage; Werthaltigkeitsprüfung.
 - **Paragraf 9 GmbHG** – Differenzhaftung des Einlegers.
@@ -661,40 +663,40 @@ Nicht dieser Skill ist primär, wenn der DES nur theoretisch erwogen wird, aber 
 ## Workflow / Schritt für Schritt
 
 1. **Forderungs-Inventur.** Welche Forderungen sollen eingebracht werden? Nennwert, Werthaltigkeit, Sicherheiten, Rangverhältnis.
-2. **Werthaltigkeitsprüfung.** Gutachterliche Bewertung der Forderung. Der werthaltige Teil ist die Sacheinlage; der nicht werthaltige Teil ist Sanierungsertrag.
+2. **Werthaltigkeitsprüfung.** Forderungsbestand, Einreden, Rang, Sicherheiten, Durchsetzbarkeit und Wert am Einbringungsstichtag dokumentieren. Die Bewertung steuert Einlageleistung und Unterdeckungsrisiko. Steuerlich zuerst offene Sacheinlage und mögliche verdeckte Einlage trennen; nur für Letztere ist Paragraf 8 Absatz 3 Satz 3 KStG der Einlageanker. Einen verbleibenden Schuldenerlass anschließend eigenständig an Paragraf 3a EStG prüfen.
 3. **Gesellschaftsrechtliche Struktur.** Klassisch: Kapitalherabsetzung auf null mit Bezugsrechtsausschluss, dann Kapitalerhöhung mit DES. Im StaRUG/Insolvenzplan: Erleichterungen nach Paragraf 225a InsO / Paragraf 7 Abs. 4 StaRUG.
-4. **Bewertungsverfahren.** Werthaltigkeitsbestätigung durch Wirtschaftsprüfer. Sachgründungsprüfung (Paragraf 33 GmbHG / Paragraf 33 AktG).
-5. **Steuermodell Schuldnerseite.** Sanierungsertrag in Höhe Nennwert minus werthaltiger Teil. Verbrauch der Verlustvorträge nach Paragraf 3a Abs. 3 EStG. Anwendung Paragraf 3a Abs. 1 EStG.
+4. **Bewertungsverfahren.** Bei der GmbH Kapitalerhöhungsbeschluss, Übernahmeerklärung, Sacheinlagefestsetzung, Einbringungsvertrag, freie Verfügung und Registeranmeldung nach den Paragrafen 55 bis 57 GmbHG sowie Unterdeckungsrisiko nach Paragraf 9 in Verbindung mit Paragraf 56 Absatz 2 GmbHG prüfen. Paragraf 33 GmbHG betrifft den Erwerb eigener Geschäftsanteile und ist keine Sachgründungsprüfungsnorm. Bei der AG gelten insbesondere die Paragrafen 182 und 183 AktG; die dort angeordneten Verweisungen auf Gründungsprüfungsvorschriften gesondert nachziehen. Eine unabhängige Bewertung nur als pauschale gesetzliche Pflicht bezeichnen, wenn Rechtsform, Registerverfahren oder Transaktionsdokumente sie tatsächlich verlangen.
+5. **Steuermodell Schuldnerseite.** Handels- und steuerbilanzielle Ausbuchung der Verbindlichkeit, gesellschaftsrechtliche Veranlassung und möglichen Schuldenerlass getrennt modellieren. Nur wenn ein Sanierungsertrag nach Paragraf 3a Absatz 1 und 2 EStG vorliegt, die zwingende Minderungsreihenfolge des Absatzes 3 vollständig durchrechnen.
 6. **Steuermodell Gläubigerseite.** Forderungsabschreibung beim Gläubiger; Beteiligung mit Buchwert bzw. gemeinem Wert. Paragraf 17 EStG / Paragraf 8b KStG je nach Rechtsform.
-7. **Paragraf 8c KStG-Test.** DES führt häufig zum Anteilseignerwechsel über 50 %; Verlustvortrag im Grundsatz weg.
-8. **Paragraf 8d KStG-Antrag.** Vor Wirksamwerden des DES Antrag stellen und Fortführungsbindung dokumentieren.
+7. **Paragraf 8c KStG-Test.** Prüfen, ob die Kapitalerhöhung die Beteiligungsquoten verändert und dadurch ein schädlicher Beteiligungserwerb von mehr als 50 Prozent vorliegt. Konzernklausel, stille Reserven und Sanierungsklausel nach Paragraf 8c Absatz 1a KStG sowie Paragraf 8d KStG nicht überspringen.
+8. **Paragraf 8d KStG-Antrag.** Materielle Voraussetzungen und fortführungsgebundene Risiken vor Signing und Closing prüfen und dokumentieren. Der Antrag selbst ist nach Paragraf 8d Absatz 1 Satz 5 KStG in der Steuererklärung für den Veranlagungszeitraum zu stellen, in den der schädliche Beteiligungserwerb fällt.
 9. **SPA-Strukturierung.** Investment Agreement, Restructuring Support Agreement, Forderungseinbringungsvertrag, Kapitalerhöhungsbeschluss, Anmeldung Handelsregister.
-10. **Verbindliche Auskunft.** Antrag zu Paragraf 3a EStG und ggf. Paragraf 8d KStG; Vorlauf einplanen.
+10. **Verbindliche Auskunft.** Für offene Anwendungsfragen zu Paragraf 3a EStG sowie den Paragrafen 8c und 8d KStG eine verbindliche Auskunft erwägen und Vorlauf einplanen. Der gesetzliche Antrag nach Paragraf 8d KStG bleibt davon getrennt und gehört in die maßgebliche Steuererklärung.
 
 ## Trade-off-Matrix
 
 | Frage | Außerhalb von Insolvenz | StaRUG | Insolvenzplan |
 |---|---|---|---|
 | Erleichterungen DES | keine | Paragraf 7 Abs. 4 StaRUG | Paragraf 225a InsO |
-| Werthaltigkeitsprüfung | streng | erleichtert | erleichtert |
-| Anfechtungsrisiko Gläubiger | hoch (Paragraf 133 InsO) | reduziert | reduziert |
+| Werthaltigkeitsprüfung | Kapitalaufbringungsregeln und Registeranforderungen | Gesellschaftsrecht und Planwirkungen konkret prüfen | Paragraf 254 Absatz 4 InsO für Ansprüche des Schuldners wegen Überbewertung beachten |
+| Anfechtungsrisiko Gläubiger | tatbestandsbezogen prüfen | Wirkungen der Restrukturierung und spätere Insolvenzrisiken getrennt prüfen | bestätigten Plan und seine Wirkungen prüfen |
 | Steuerliche Behandlung | Paragraf 3a EStG | Paragraf 3a EStG | Paragraf 3a EStG |
-| Paragraf 8c KStG | wirkt voll | wirkt voll | wirkt voll |
-| Zustimmungserfordernisse | alle Gesellschafter | Mehrheit im Plan | Mehrheit im Plan |
+| Paragraf 8c KStG | Tatbestand, Ausnahmen und Paragraf 8d prüfen | Tatbestand, Ausnahmen und Paragraf 8d prüfen | Tatbestand, Ausnahmen und Paragraf 8d prüfen |
+| Zustimmungserfordernisse | gesetzliche und satzungsmäßige Mehrheit, Bezugsrecht und notarielle Form prüfen | Planmehrheiten, gruppenbezogene Abstimmung und gesellschaftsrechtliche Durchführung prüfen | Planmehrheiten, gruppenbezogene Abstimmung und gerichtliche Bestätigung prüfen |
 
 ## Praxistipps der alten Hasen
 
 Der DES ist die eleganteste Sanierungsstruktur, aber auch die juristisch heikelste. Drei Beobachtungen aus der Praxis:
 
-- **„Werthaltigkeit ist kein Selbstläufer."** Die Differenzhaftung nach Paragraf 9 GmbHG ist die häufigste Stolperfalle für Investoren, die ohne tragfähige Werthaltigkeitsprüfung in den DES gehen. Die Werthaltigkeit muss durch unabhängigen Wirtschaftsprüfer auf den Tag der Einbringung bestätigt sein.
-- **„Paragraf 8c KStG ist der stille Killer."** Der DES schafft einen Anteilseignerwechsel, und Paragraf 8c KStG vernichtet den Verlustvortrag, den die Schuldnerin gerade noch hatte. Ohne Paragraf 8d KStG-Antrag ist die Verlustnutzung weg, und der Sanierungsertrag nach Paragraf 3a Abs. 3 EStG verbraucht dann nichts mehr – Sanierungsertrag also voll besteuert. Diese Wechselwirkung muss vor Plan-Beschluss durchgerechnet werden.
+- **„Werthaltigkeit ist kein Selbstläufer."** Eine Unterdeckung kann bei der GmbH die Differenzhaftung nach Paragraf 9 in Verbindung mit Paragraf 56 Absatz 2 GmbHG auslösen. Bewertungsstichtag, Bewertungsmethode und Tatsachengrundlage müssen register- und haftungsfest dokumentiert sein; ob ein unabhängiger Gutachter erforderlich oder zweckmäßig ist, hängt von Rechtsform, Verfahren und Risikoprofil ab.
+- **„Paragraf 8c KStG ist kein Automatismus ohne Ausnahmen."** Ein DES kann einen schädlichen Beteiligungserwerb auslösen. Vor einer Verlustkürzung sind aber Konzernklausel, stille Reserven, Sanierungsklausel und ein möglicher Antrag nach Paragraf 8d KStG zu prüfen. Paragraf 3a EStG stellt einen Sanierungsertrag nur bei nachgewiesener Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung und Sanierungsabsicht steuerfrei und ordnet anschließend die Verlustminderung nach Absatz 3 an.
 - **„Vorratsbeschluss und Bezugsrechtsausschluss."** Die operative Umsetzung über Vorratsbeschluss und Bezugsrechtsausschluss erspart eine zweite Gesellschafterversammlung und beschleunigt die Umsetzung erheblich.
 
 ## SPA-/Plan-Klausel Mustertexte
 
 **Investment Agreement DES (Auszug):**
 
-> Debt-Equity-Swap: Mit Eintritt der Bedingungen gemäß Ziffer X verpflichtet sich der Investor, seine in Anlage Y bezeichnete Forderung gegen die Gesellschaft in Höhe von [Betrag] (Nennwert) im Wege der Sacheinlage in die Gesellschaft einzubringen. Im Gegenzug erhält der Investor [Anzahl] neue Geschäftsanteile mit einem Nennbetrag von [Betrag] je Anteil. Die Parteien gehen auf Basis des Werthaltigkeitsgutachtens vom [Datum] davon aus, dass der werthaltige Teil der Forderung [Betrag] beträgt. In Höhe der Differenz zum Nennwert entsteht bei der Gesellschaft ein nach den Voraussetzungen des Paragraf 3a EStG steuerfreier Sanierungsertrag.
+> Debt-Equity-Swap: Mit Eintritt der Bedingungen gemäß Ziffer X verpflichtet sich der Investor, seine in Anlage Y bezeichnete Forderung gegen die Gesellschaft in Höhe von [Betrag] (Nennwert) im Wege der Sacheinlage in die Gesellschaft einzubringen. Im Gegenzug erhält der Investor [Anzahl] neue Geschäftsanteile mit einem Nennbetrag von [Betrag] je Anteil. Die Parteien legen der gesellschaftsrechtlichen Einlagebewertung das Wertgutachten vom [Datum] mit einem Wert von [Betrag] zugrunde. Diese Wertvereinbarung entscheidet nicht über die steuerbilanzielle Behandlung. Ob ein Sanierungsertrag nach Paragraf 3a EStG vorliegt und steuerfrei ist, bestimmt sich ausschließlich nach den gesetzlichen Voraussetzungen und den tatsächlichen Verhältnissen am maßgeblichen Stichtag.
 
 **Plan-Klausel im Insolvenzplan (Auszug):**
 
@@ -706,11 +708,11 @@ Der DES ist die eleganteste Sanierungsstruktur, aber auch die juristisch heikels
 
 ## Typische Fehler in komplexer Transaktion
 
-- Werthaltigkeitsgutachten wird nach Einbringung erstellt; Differenzhaftung greift.
-- Paragraf 8c KStG-Effekt wird übersehen; nach DES sind die Verlustvorträge weg, und der Sanierungsertrag wird voll besteuert.
-- Paragraf 8d KStG-Antrag wird vergessen oder verspätet gestellt.
-- Sanierungsabsicht der Gläubiger fehlt im Einbringungsvertrag; die Finanzverwaltung verweigert Paragraf 3a EStG.
-- Kapitalherabsetzung auf null wird übersprungen; Altgesellschafter behalten Anteile, die gesellschaftsrechtlich nicht mehr werthaltig sind.
+- Werthaltigkeit wird erst nach der Einbringung dokumentiert; dadurch entstehen erhebliche Register-, Beweis- und Unterdeckungsrisiken bis hin zur Differenzhaftung.
+- Paragraf 8c KStG-Effekt wird ohne Prüfung der gesetzlichen Ausnahmen und des Paragrafen 8d KStG als vollständiger Verlustuntergang behandelt.
+- Paragraf 8d KStG wird erst nach Ablauf der Erklärungsfrist bedacht oder der Antrag wird entgegen Absatz 1 Satz 5 außerhalb der Steuererklärung verortet.
+- Der Einbringungsvertrag behauptet nur eine Sanierungsabsicht, ohne Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung und Gläubigerabsicht nach Paragraf 3a Absatz 2 EStG tatsächlich zu belegen.
+- Kapitalstruktur, Bezugsrechtsausschluss, Verwässerung und Registerreihenfolge sind nicht konsistent modelliert; der DES kann dann gesellschaftsrechtlich oder vollzugstechnisch scheitern.
 
 ## Querverweise
 
@@ -723,14 +725,14 @@ Der DES ist die eleganteste Sanierungsstruktur, aber auch die juristisch heikels
   - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
   - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
 
-## Quellen Stand 06/2026
+## Quellen Stand 09/2026
 
-- Paragraf 3a EStG; Paragraf 3a Abs. 3 EStG; Paragraf 8 Abs. 3 KStG; Paragraf 8c KStG; Paragraf 8d KStG; Paragraf 7b GewStG – prüfbar über gesetze-im-internet.de.
-- Paragraf 55 ff. GmbHG; Paragraf 9 GmbHG; Paragraf 27, 33, 182 ff. AktG – gesetze-im-internet.de.
-- Paragraf 225a InsO; Paragraf 254 Abs. 4 InsO; Paragraf 7 Abs. 4 StaRUG – gesetze-im-internet.de.
-- BMF-Schreiben vom 27.04.2017 – Verifizierung im Bundessteuerblatt Stand 06/2026.
-- BGH zur Werthaltigkeit bei Sacheinlage – ständige Rspr.; Verifizierung über dejure.org und bundesgerichtshof.de.
-- BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
+- [Paragraf 3a EStG](https://www.gesetze-im-internet.de/estg/__3a.html) zu Sanierungsertrag, Nachweisanforderungen und Verlustminderungsreihenfolge.
+- [Paragraf 8 Absatz 3 KStG](https://www.gesetze-im-internet.de/kstg_1977/__8.html) zur Abgrenzung: Satz 2 betrifft verdeckte Gewinnausschüttungen, Satz 3 verdeckte Einlagen.
+- [Paragraf 8c KStG](https://www.gesetze-im-internet.de/kstg_1977/__8c.html) zu schädlichem Beteiligungserwerb, Kapitalerhöhung und Ausnahmen.
+- [Paragraf 8d KStG](https://www.gesetze-im-internet.de/kstg_1977/__8d.html) zum fortführungsgebundenen Verlustvortrag und Antrag in der Steuererklärung.
+- [Paragraf 33 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__33.html) zum Erwerb eigener Geschäftsanteile sowie [Paragrafen 55 bis 57 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__55.html) zur Kapitalerhöhung und Sacheinlage.
+- [Paragraf 225a InsO](https://www.gesetze-im-internet.de/inso/__225a.html), [Paragraf 254 Absatz 4 InsO](https://www.gesetze-im-internet.de/inso/__254.html) und [Paragraf 7 Absatz 4 StaRUG](https://www.gesetze-im-internet.de/starug/__7.html) zu Planmechanik und Überbewertung.
 
 <!-- gk-ma-v61-agentic-boost -->
 

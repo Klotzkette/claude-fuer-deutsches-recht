@@ -44,7 +44,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Mandat und Anerkennun
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Mandat und Anerkennung | Vereinigung, räumlicher und satzungsmäßiger Tätigkeitsbereich, Anerkennungsbescheid und Vertretung sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Entscheidungstyp | Genehmigung, Planfeststellung, Vorprüfung, Unterlassen, Verbindlicherklärung oder Überwachungsmaßnahme dem UmwRG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entscheidungstyp | Genehmigung, Planfeststellung, Vorprüfung, Unterlassen, Verbindlicherklärung oder Überwachungsmaßnahme dem UmwRG zuordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beteiligungschronologie | Auslegung, Bekanntmachung, Einwendung, Stellungnahme, Erörterung, Bescheid, Zustellung und Vollzugsbeginn belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 

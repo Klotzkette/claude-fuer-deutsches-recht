@@ -9,13 +9,13 @@ Diese Vollprüfung enthält top-10 von 69 Skills des Plugins `verfassungsrecht`.
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Verfassungsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet k…
 2. **verfassungsbeschwerde-versandmappe-endfertigen** — Endfertigt Verfassungsbeschwerde und Eilantrag für das Bundesverfassungsgericht: liest angegriffene Entscheidungen und Z…
 3. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
-4. **verfassungsbeschwerde-mandantenentscheidung** — Für Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; E…
-5. **rechtsprechungsgetrieben-rechtsweg-bverfg** — Für Rechtsprechungsgetrieben: Behörden-, Gerichts- oder Registerweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Erg…
-6. **verfassungsmaessigkeit-formular-portal-und-einreichung** — Für Verfassungsmäßigkeit: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: E…
-7. **art-5-meinung-presse-mehrdeutigkeit** — Für Art. 5 GG: Meinung, Presse und Mehrdeutigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenka…
-8. **gesetzgebungskompetenz-pruefen** — Für Gesetzgebungskompetenz prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächs…
-9. **bverfg-verfahrenssicht-und-annahmerisiko** — Für BVerfG-Verfahrenssicht, Annahmerisiko und Tenorierungsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prü…
-10. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+4. **verfassungsbeschwerde-mandantenentscheidung** — Übersetzt die Prüfung einer Verfassungsbeschwerde in eine verständliche Mandantenentscheidung: Beschwerdegegenstand, Bes…
+5. **gleichheit-existenzminimum-triage-asylblg** — Prüft Gleichheits-, Existenzminimum- und Schutzpflichtfragen, trennt Gesetzgebungskompetenz von materiellen Grundrechten…
+6. **rechtsprechungsgetrieben-rechtsweg-bverfg** — Für Rechtsprechungsgetrieben: Behörden-, Gerichts- oder Registerweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Erg…
+7. **verfassungsmaessigkeit-formular-portal-und-einreichung** — Für Verfassungsmäßigkeit: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: E…
+8. **art-5-meinung-presse-mehrdeutigkeit** — Für Art. 5 GG: Meinung, Presse und Mehrdeutigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenka…
+9. **gesetzgebungskompetenz-pruefen** — Für Gesetzgebungskompetenz prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächs…
+10. **bverfg-verfahrenssicht-und-annahmerisiko** — Für BVerfG-Verfahrenssicht, Annahmerisiko und Tenorierungsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prü…
 
 ---
 
@@ -217,7 +217,7 @@ Dieser Einstieg routet **Verfassungsrecht** vom ersten Sachverhalt zu Rollen, Fr
 
 ## Skill: `verfassungsbeschwerde-mandantenentscheidung`
 
-_Für Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+_Übersetzt die Prüfung einer Verfassungsbeschwerde in eine verständliche Mandantenentscheidung: Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Frist, Annahmerisiko und Ziel. Erstellt Entscheidungsvorlage, Fristenblatt und eine belastbare Empfehlung ohne Erfolgsgarantie._
 
 # Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -225,18 +225,15 @@ _Für Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage: or
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
-- `§ 1360 BGB` — Familienunterhalt.
-- `§ 1565 Abs. 1 BGB` — Scheidung.
-- `§ 1570 BGB` — Betreuungsunterhalt.
-- `§ 1601 BGB` — Verwandtenunterhalt.
-- `§ 1626 Abs. 1 BGB` — elterliche Sorge.
-- `§ 1671 BGB` — Sorgerechtsuebertragung.
-- `§ 1684 BGB` — Umgangsrecht.
-- `§ 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
-- `§ 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
+- GG Artikel 93 Absatz 1 Nummer 4a: verfassungsrechtliche Zuständigkeit für Verfassungsbeschwerden.
+- BVerfGG Paragrafen 13 Nummer 8a und 90: Statthaftigkeit, Beschwerdegegenstand, Beschwerdebefugnis und Rechtswegerschöpfung.
+- BVerfGG Paragraf 23 Absatz 1 und Paragraf 92: Form, Begründung und Bezeichnung des verletzten Rechts sowie des beanstandeten Handelns oder Unterlassens.
+- BVerfGG Paragraf 93: Monatsfrist gegen Entscheidungen und Jahresfrist gegen Gesetze oder sonstige Hoheitsakte; Fristauslöser und vollständige Begründung gesondert sichern.
+- BVerfGG Paragraf 93a: Annahme zur Entscheidung; grundsätzliche Bedeutung oder Durchsetzung der in BVerfGG Paragraf 90 Absatz 1 genannten Rechte.
+- BVerfGG Paragraf 32: einstweilige Anordnung mit eigenständiger Zulässigkeits- und Folgenabwägung.
+- BVerfGG Paragraf 34 Absatz 2: Missbrauchsgebühr als gesondert zu erläuterndes Kostenrisiko.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen, tragender Satz und amtlicher Volltext geprüft sind. Fachgerichtliche Fehler genügen nicht; der spezifische Verfassungsverstoß und die Auseinandersetzung mit tragenden Gründen der angegriffenen Entscheidung müssen substantiiert werden.
 
 ## Arbeitsweg
 
@@ -265,6 +262,57 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `gleichheit-existenzminimum-triage-asylblg`
+
+_Prüft Gleichheits-, Existenzminimum- und Schutzpflichtfragen, trennt Gesetzgebungskompetenz von materiellen Grundrechten und ordnet Triage- sowie Asylbewerberleistungsfälle den tragenden Entscheidungen des Bundesverfassungsgerichts zu._
+
+# Gleichheit, Existenzminimum und Schutzpflicht
+
+## 1. Zweck und Anwendungsfall
+
+Der Skill prüft gesetzliche Verteilungsentscheidungen, existenzsichernde Leistungen, Benachteiligungen wegen Behinderung, Triage-Regelungen und Leistungen nach dem Asylbewerberleistungsgesetz. Er hält formelle Verfassungsmäßigkeit, materiellen Grundrechtsmaßstab und Rechtsfolge strikt auseinander.
+
+## 2. Normenanker
+
+- Artikel 1 Absatz 1 in Verbindung mit Artikel 20 Absatz 1 GG für das menschenwürdige Existenzminimum;
+- Artikel 2 Absatz 2 Satz 1 GG für Leben und körperliche Unversehrtheit;
+- Artikel 3 Absatz 1 GG für den allgemeinen Gleichheitssatz;
+- Artikel 3 Absatz 3 Satz 2 GG für Benachteiligungsverbot und Schutzauftrag wegen Behinderung;
+- Artikel 12 Absatz 1 GG für die ärztliche Berufsausübungsfreiheit;
+- Artikel 70 und Artikel 74 GG für die Gesetzgebungskompetenz;
+- Paragrafen 1, 2, 3 und 3a AsylbLG als fallbezogen zu prüfende einfachrechtliche Schnittstellen.
+
+## 3. Entscheidungslinien und Reichweite
+
+1. BVerfG, Beschluss vom 16. Dezember 2021 - 1 BvR 1541/20 -: Artikel 3 Absatz 3 Satz 2 GG begründet einen Schutzauftrag gegen behinderungsbezogene Benachteiligung. In der konkreten Triage-Konstellation verdichtete er sich wegen der Gefahr für Leben und struktureller Ungleichheit zu einer Schutzpflicht. Dieser Beschluss trägt den materiellen Schutzpflichtmaßstab.
+2. BVerfG, Beschluss vom 23. September 2025 - 1 BvR 2284/23 und 1 BvR 2285/23 - Triage II: Das Gericht erklärte Paragraf 5c Absätze 1 bis 3 IfSG für nichtig, weil dem Bund die Gesetzgebungskompetenz fehlte. Die Entscheidung prüfte den Eingriff in Artikel 12 Absatz 1 GG und beendete die Rechtfertigungsprüfung bei der formellen Verfassungswidrigkeit. Sie enthält keine abschließende materielle Billigung oder Verwerfung der gesetzlichen Zuteilungskriterien und darf nicht als solche zitiert werden.
+3. BVerfG, Beschluss vom 15. April 2026 - 1 BvL 5/21 -: Für die im Ausgangsverfahren maßgeblichen Zeiträume vom 1. September 2018 bis zum 20. August 2019 erklärte das Gericht Teile der damaligen Bemessung der Grundleistungen nach dem Asylbewerberleistungsgesetz für unvereinbar mit Artikel 1 Absatz 1 in Verbindung mit Artikel 20 Absatz 1 GG, ordnete aber ihre weitere Anwendbarkeit für diesen Zeitraum an. Tragend sind eine realitätsgerechte und aktuelle Bedarfsermittlung sowie ein engerer Gestaltungsspielraum beim physischen Existenzminimum.
+
+## 4. Prüfraster
+
+1. Bestimme Rolle und Angriffsziel: Wird gesetzgeberisches Unterlassen, eine konkrete Regelung, ein Einzelakt oder eine gerichtliche Entscheidung angegriffen?
+2. Prüfe Zulässigkeit und formelle Verfassungsmäßigkeit vor der materiellen Prüfung. Bei Kompetenzmängeln darf aus der Rechtsfolge nicht auf die materielle Bewertung der Regelung geschlossen werden.
+3. Bestimme, ob Abwehrrecht, Leistungsrecht oder Schutzpflicht betroffen ist. Ordne jedem Prüfungsstrang sein Grundrecht und seine eigene Rechtsfolge zu.
+4. Bilde die Vergleichsgruppen präzise und benenne Differenzierungsmerkmal, Differenzierungsziel und Prüfungsdichte. Artikel 3 Absatz 1 GG ist keine freie Gerechtigkeitskontrolle.
+5. Prüfe bei Artikel 3 Absatz 3 Satz 2 GG unmittelbare und mittelbare Benachteiligung sowie die mögliche Verdichtung des Schutzauftrags bei besonderer Verletzlichkeit, hochrangigen Rechtsgütern oder struktureller Ungleichheit.
+6. Prüfe beim Existenzminimum Datenbasis, Bezugszeitraum, ausgeschlossene Bedarfspositionen, Fortschreibung und tatsächliche Bedarfsdeckung. Die politische Einschätzungsprärogative ersetzt keine nachvollziehbare, zeit- und realitätsgerechte Bemessung.
+7. Trenne bei Triage die materielle Schutzpflicht aus 1 BvR 1541/20 von der Kompetenzentscheidung in 1 BvR 2284/23 und 1 BvR 2285/23. Landesrechtliche, berufsrechtliche oder klinische Regeln sind jeweils eigenständig zu prüfen.
+8. Weise jeder rechtlichen Aussage eine tragende Randnummer oder kennzeichne sie als noch zu verifizieren. Ein Entscheidungsergebnis darf nicht auf einen anderen Beschwerdegegenstand oder eine andere Prüfungsstufe übertragen werden.
+
+## 5. Arbeitsprodukt
+
+Erzeuge zunächst eine Matrix mit Angriffsziel, formeller Kompetenzgrundlage, betroffenem Grundrecht, Prüfungsmaßstab, Tatsachengrundlage, Entscheidungslinie und Reichweitengrenze. Danach folgt ein vollständig ausformulierter Prüfvermerk, der formelle und materielle Prüfung sowie Rechtsfolgen getrennt darstellt und die stärkste Gegenposition verarbeitet.
+
+Das Endprodukt verwendet, soweit technisch möglich, Times New Roman in 11 Punkt und ausschließlich dezimale Gliederung.
+
+## 6. Amtliche Quellen
+
+- [BVerfG, Beschluss vom 16. Dezember 2021 - 1 BvR 1541/20 -](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/12/rs20211216_1bvr154120.html)
+- [BVerfG, Beschluss vom 23. September 2025 - 1 BvR 2284/23 und 1 BvR 2285/23 -](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250923_1bvr228423.html)
+- [BVerfG, Beschluss vom 15. April 2026 - 1 BvL 5/21 -](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/04/ls20260415_1bvl000521.html)
 
 ---
 
@@ -612,53 +660,6 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 3. **Materielle Weichen:** Die Kernfragen zu **BVerfG-Verfahrenssicht, Annahmerisiko und Tenorierungsziel** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `workflow-kaltstart-und-routing`
-
-_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: verfassungsrecht._
-
-# Kaltstart und Routing
-
-## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
-
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Verfahrensweichen BVerfG (Routing-Hilfe)
-
-- **Verfassungsbeschwerde (Art. 93 Abs. 1 Nr. 4a GG, §§ 13 Nr. 8a, 90 ff. BVerfGG):** Einzelperson gegen Akt öffentlicher Gewalt; 1-Monats-Frist (§ 93 Abs. 1); Rechtswegerschöpfung; Substantiierung.
-- **Abstrakte Normenkontrolle (Art. 93 Abs. 1 Nr. 2 GG, §§ 13 Nr. 6, 76 ff. BVerfGG):** Bundes-/Landesregierung oder ein Viertel der BT-Mitglieder; Vereinbarkeit von Bundes-/Landesrecht mit GG.
-- **Konkrete Normenkontrolle (Art. 100 Abs. 1 GG, § 13 Nr. 11 BVerfGG):** Fachgericht legt vor, wenn es ein Gesetz für verfassungswidrig hält.
-- **Organstreit (Art. 93 Abs. 1 Nr. 1 GG, §§ 13 Nr. 5, 63 ff. BVerfGG):** Streit zwischen obersten Bundesorganen/Beteiligten über verfassungsrechtliche Rechte und Pflichten; 6-Monats-Frist (§ 64 Abs. 3).
-- **Bund-Länder-Streit (Art. 93 Abs. 1 Nr. 3 GG, §§ 13 Nr. 7, 68 ff. BVerfGG).**
-- **Einstweilige Anordnung (§ 32 BVerfGG):** Parallel möglich; Doppelhypothese-Folgenabwägung.
-- **Parteiverbot (Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG):** Antragsbefugte sind BT, BR, BReg.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ---
 

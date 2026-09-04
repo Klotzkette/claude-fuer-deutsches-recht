@@ -178,12 +178,12 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Gehorsam, Befehl und rechtswidriger Befehl | Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen. | Fachvotum zu Gehorsam, Befehl und rechtswidriger Befehl mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Heilfürsorge, truppenärztliche Versorgung und PKV | Heilfürsorge, truppenärztliche Versorgung, PKV: prüft Paragraf 70 BBesG, Leistungsumfang, PKV-Übergang und SVG-Heilbehandlung. Aktive Soldaten haben Anspruch auf unentgeltliche Heilfürsorge (Paragraf 70 BBesG). | Fachvotum zu Heilfürsorge, truppenärztliche Versorgung und PKV mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | KDV und Besoldungsfolgen bei Statuswechsel | KDV und Besoldungsfolgen Statuswechsel: prüft Artikel 4 Absatz 3 GG, KDVG, Entlassungsrecht und Ausbildungskostenrückforderung. | Fachvotum zu KDV und Besoldungsfolgen bei Statuswechsel mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht | Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Ärztliche Begutachtung und Dienstfähigkeit | Die ärztliche Begutachtung entscheidet über Tauglichkeit und Verwendungsfähigkeit (T1 = voll tauglich bis T5 = dauerhaft dienstunfähig). | Fachvotum zu Ärztliche Begutachtung und Dienstfähigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Arbeitsrecht für zivile Bundeswehrbeschäftigte | Deren Arbeitsverhältnisse richten sich nach TVöD Bund und allgemeinem Arbeitsrecht; Mitbestimmung durch Personalrat (BPersVG, nicht BetrVG). | Fachvotum zu Arbeitsrecht für zivile Bundeswehrbeschäftigte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit | Befehlsverweigerung, Gewissensnot, Rechtswidrigkeit: prüft Paragrafen 10–12 SG, Paragraf 22 WStG, Artikel 4 GG, Strafbarkeit und disziplinarische Folgen. | Fachvotum zu Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Besoldung Reservist: Wehrübung und Arbeitgeberausgleich | Reservisten haben während Wehrübung Anspruch auf Wehrsold (WSG) und Unterhaltssicherung (UhSiG). Ihr Arbeitgeber ist zur Freistellung verpflichtet (ArbPlSchG) und darf nicht kündigen (Paragraf 4 ArbPlSchG). | Fachvotum zu Besoldung Reservist: Wehrübung und Arbeitgeberausgleich mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Dienstunfähigkeit – Entlassung und Zurruhesetzung | Verliert der Soldat seine Dienstfähigkeit, führt dies zu unterschiedlichen Folgen je nach Statusgruppe: Soldat auf Zeit – Entlassung; Berufssoldat – Zurruhesetzung mit Ruhegehalt nach BeamtVG/SVG. | Fachvotum zu Dienstunfähigkeit – Entlassung und Zurruhesetzung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Einsatzunfall und Wehrdienstbeschädigung | Der Einsatzunfall ist eine besonders qualifizierte Form der Wehrdienstbeschädigung: Schädigung während eines besonderen Auslandseinsatzes oder einer gleichgestellten Verwendung (Paragraf 81a SVG). | Fachvotum zu Einsatzunfall und Wehrdienstbeschädigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -204,47 +204,47 @@ Lieferstück: Fachvotum zu Heilfürsorge, truppenärztliche Versorgung und PKV m
 Bearbeitungsauftrag: KDV und Besoldungsfolgen Statuswechsel: prüft Artikel 4 Absatz 3 GG, KDVG, Entlassungsrecht und Ausbildungskostenrückforderung. KDV nach Artikel 4 Absatz 3 GG ist für Wehrpflichtige im Spannungs-/Verteidigungsfall relevant. Für aktive Berufssoldaten ist der Weg zur Entlassung wegen Gewissenskonflikts (Artikel 4 Absatz 1 GG) enger.
 Lieferstück: Fachvotum zu KDV und Besoldungsfolgen bei Statuswechsel mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht
-
-Bearbeitungsauftrag: Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Die weitere Beschwerde (Paragraf 16 WBO) und der Antrag auf gerichtliche Entscheidung (Paragraf 17 WBO) sind die Rechtsmittel, wenn die erste Beschwerde erfolglos war. Das Truppendienstgericht (TDG) entscheidet über WBO-Anträge.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.5. Ärztliche Begutachtung und Dienstfähigkeit
+### 16.4. Ärztliche Begutachtung und Dienstfähigkeit
 
 Bearbeitungsauftrag: Die ärztliche Begutachtung entscheidet über Tauglichkeit und Verwendungsfähigkeit (T1 = voll tauglich bis T5 = dauerhaft dienstunfähig). Dauerhafte Dienstunfähigkeit löst bei Berufssoldaten die Zurruhesetzung (Paragraf 45 SG) und bei Soldaten auf Zeit die Entlassung (Paragraf 55 Absatz 2 SG) aus. Die Einstufung hat unmittelbare Versorgungsrelevanz nach SVG (Ruhegehalt, Übergangsgebührnisse, WDB-Ausgleich).
 Lieferstück: Fachvotum zu Ärztliche Begutachtung und Dienstfähigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Arbeitsrecht für zivile Bundeswehrbeschäftigte
+### 16.5. Arbeitsrecht für zivile Bundeswehrbeschäftigte
 
 Bearbeitungsauftrag: Deren Arbeitsverhältnisse richten sich nach TVöD Bund und allgemeinem Arbeitsrecht; Mitbestimmung durch Personalrat (BPersVG, nicht BetrVG). Besonderheiten entstehen durch militärische Organisationsstruktur, häufige Versetzungen, Sicherheitsüberprüfungen (SÜG) als Beschäftigungsvoraussetzung und ggf. Geht es um Kündigung, Versetzung, Abmahnung, Eingruppierung oder Sicherheitsüberprüfung?
 Lieferstück: Fachvotum zu Arbeitsrecht für zivile Bundeswehrbeschäftigte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit
+### 16.6. Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit
 
-Bearbeitungsauftrag: Befehlsverweigerung, Gewissensnot, Rechtswidrigkeit: prüft Paragrafen 10–12 SG, Paragraf 22 WStG, Artikel 4 GG, Strafbarkeit und disziplinarische Folgen. Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Das Befehlsrecht ist Kern militärischer Organisation.
+Bearbeitungsauftrag: Befehlsverweigerung, Gewissensnot, Rechtswidrigkeit: prüft Paragrafen 10–12 SG, Paragraf 22 WStG, Artikel 4 GG, Strafbarkeit und disziplinarische Folgen. Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen. Das Befehlsrecht ist Kern militärischer Organisation.
 Lieferstück: Fachvotum zu Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Besoldung Reservist: Wehrübung und Arbeitgeberausgleich
+### 16.7. Besoldung Reservist: Wehrübung und Arbeitgeberausgleich
 
 Bearbeitungsauftrag: Reservisten haben während Wehrübung Anspruch auf Wehrsold (WSG) und Unterhaltssicherung (UhSiG). Ihr Arbeitgeber ist zur Freistellung verpflichtet (ArbPlSchG) und darf nicht kündigen (Paragraf 4 ArbPlSchG). Freiwillige Wehrübung, Bündnisfall oder Spannungsfall-Heranziehung?
 Lieferstück: Fachvotum zu Besoldung Reservist: Wehrübung und Arbeitgeberausgleich mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Dienstunfähigkeit – Entlassung und Zurruhesetzung
+### 16.8. Dienstunfähigkeit – Entlassung und Zurruhesetzung
 
 Bearbeitungsauftrag: Verliert der Soldat seine Dienstfähigkeit, führt dies zu unterschiedlichen Folgen je nach Statusgruppe: Soldat auf Zeit – Entlassung; Berufssoldat – Zurruhesetzung mit Ruhegehalt nach BeamtVG/SVG. Maßstab ist die Wehrdienstfähigkeit (Tauglichkeitsgrade T1–T5) und die spezifische Verwendungsfähigkeit. Der Skill ordnet medizinische Begutachtung, Verfahren der Statusentscheidung, Versorgung und Rechtsbehelfe.
 Lieferstück: Fachvotum zu Dienstunfähigkeit – Entlassung und Zurruhesetzung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Einsatzunfall und Wehrdienstbeschädigung
+### 16.9. Einsatzunfall und Wehrdienstbeschädigung
 
 Bearbeitungsauftrag: Der Einsatzunfall ist eine besonders qualifizierte Form der Wehrdienstbeschädigung: Schädigung während eines besonderen Auslandseinsatzes oder einer gleichgestellten Verwendung (Paragraf 81a SVG). Folge sind höhere Leistungen, insbesondere eine einmalige Entschädigung nach Einsatzversorgungs-Verbesserungsgesetz und besondere Berufsförderungsansprüche. Der Skill ordnet die Voraussetzungen, dokumentiert die Tatfeststellung und führt durch das Verwaltungsverfahren.
 Lieferstück: Fachvotum zu Einsatzunfall und Wehrdienstbeschädigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Schadensersatz, Regress, Dienstunfall und Materialschäden
+### 16.10. Politische Betätigung – Mäßigungsgebot und Neutralität
 
-Bearbeitungsauftrag: Schadensersatz, Regress, Dienstunfall, Materialschäden: prüft SVG, BHO Paragraf 59, Regress gegen Soldaten und Haftungsrecht. Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen. Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-Lieferstück: Fachvotum zu Schadensersatz, Regress, Dienstunfall und Materialschäden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen. Während des Dienstes ist jede Werbung für oder gegen politische Richtungen untersagt; außerhalb des Dienstes hat sich der Soldat so zu mäßigen, dass das Vertrauen in seine Pflichterfüllung und die Achtung in seiner dienstlichen Stellung nicht ernsthaft beeinträchtigt werden. Der Skill ordnet die Grenze zwischen Meinungsfreiheit (Artikel 5 GG) und Paragraf 15 SG, insbesondere im Social-Media-Zeitalter.
+Lieferstück: Fachvotum zu Politische Betätigung – Mäßigungsgebot und Neutralität mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Sexuelle Belästigung, Beschwerde und Schutzpflicht
+### 16.11. Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht
 
-Bearbeitungsauftrag: Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen. Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Sexuelle Belästigung ist eine besonders schwere Form der Diskriminierung nach SoldGG und AGG.
+Bearbeitungsauftrag: Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen. Die weitere Beschwerde (Paragraf 16 WBO) und der Antrag auf gerichtliche Entscheidung (Paragraf 17 WBO) sind die Rechtsmittel, wenn die erste Beschwerde erfolglos war. Das Truppendienstgericht (TDG) entscheidet über WBO-Anträge.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+
+### 16.12. Ausbildung, Studium und Rückforderung von Ausbildungskosten
+
+Bearbeitungsauftrag: Rückforderung Ausbildungskosten Bundeswehr: prüft Paragraf 56 SG, Zeitstaffelung, Verhältnismäßigkeit und Billigkeitserlass. Wer als Soldat auf Bundeswehrkosten studiert oder eine teure Ausbildung absolviert (Offizier, Pilot, Sanitätsoffizier, UniBw), geht eine Dienstzeitverpflichtung ein. Vorzeitige Entlassung löst Rückforderungsanspruch aus (Paragraf 56 SG).
+Lieferstück: Fachvotum zu Ausbildung, Studium und Rückforderung von Ausbildungskosten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

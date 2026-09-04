@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Technische Lehre, Rec
 | --- | --- |
 | Normenanker | PatG Paragraf 1 bis Paragraf 5; PatG Paragraf 9 und Paragraf 10; PatG Paragraf 14 und EPÜ Artikel 69 mit Auslegungsprotokoll |
 | Rechtsprechung | BGH, Urteil vom 12.03.2002 - X ZR 168/00; EuGH, Urteil vom 16.07.2015 - C-170/13 |
-| Tatbestand | Anspruchsmerkmale, Priorität, Stand der Technik, Rechtsbestand, angegriffene Ausführung, Schutzbereich und Verfahrensschritt ordnen |
+| Tatbestand | Aufgabe, Lösung, Merkmale, Ausführungsbeispiele, Priorität und Erfinderbeitrag belastbar erfassen |
 | Beweislast | Patentinhaber für Rechtsinhaberschaft und Verletzung; Angreifer für neuheitsschädlichen Stand der Technik, Nichtigkeitsgrund oder FRAND-Einwand |
 | Rechtsfolge | Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Aussetzung, Unterlassung, Auskunft, Schadensersatz, FTO oder Lizenz |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,10 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Technische Lehre, Rec
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Technische Lehre | Anspruchsmerkmale, Priorität, Stand der Technik, Rechtsbestand, angegriffene Ausführung, Schutzbereich und Verfahrensschritt ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsbestand | Anspruchsmerkmale, Priorität, Stand der Technik, Rechtsbestand, angegriffene Ausführung, Schutzbereich und Verfahrensschritt ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schutzbereich und FTO | Anspruchsmerkmale, Priorität, Stand der Technik, Rechtsbestand, angegriffene Ausführung, Schutzbereich und Verfahrensschritt ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Technische Lehre | Aufgabe, Lösung, Merkmale, Ausführungsbeispiele, Priorität und Erfinderbeitrag belastbar erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsbestand | Stand der Technik, Neuheit, erfinderische Tätigkeit, Offenbarung, Erweiterung und Priorität in einer Merkmalsmatrix prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schutzbereich und FTO | Anspruch auslegen, Produkt zuordnen, wortsinngemäße und äquivalente Benutzung sowie Drittpatente getrennt bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verfahren | DPMA- oder EPA-Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Verletzung und Aussetzung zeitlich koordinieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Recherchebericht, Anspruchssatz, Bescheidserwiderung, Verletzungsmatrix, FTO-Memo, Lizenz oder FRAND-Schritt erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

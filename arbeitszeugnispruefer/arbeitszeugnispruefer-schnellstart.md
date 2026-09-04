@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Zeugnisart und Anspru
 | --- | --- |
 | Normenanker | GewO Paragraf 109; BGB Paragraf 630; BGB Paragraf 241 Absatz 2 |
 | Rechtsprechung | BAG, Urteil vom 18.11.2014 - 9 AZR 584/13; BAG, Urteil vom 15.11.2011 - 9 AZR 386/10 |
-| Tatbestand | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden |
+| Tatbestand | Einfach, qualifiziert, Zwischen-, End- oder Ausbildungszeugnis, Fälligkeit, Titel und Vergleichslage bestimmen |
 | Beweislast | Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung |
 | Rechtsfolge | Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Zeugnisart und Anspru
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Zeugnisart und Anspruch | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Tätigkeitsbild | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leistung und Verhalten | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klarheit, Wahrheit und Wohlwollen | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klagestrategie und Vollstreckung | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zeugnisart und Anspruch | Einfach, qualifiziert, Zwischen-, End- oder Ausbildungszeugnis, Fälligkeit, Titel und Vergleichslage bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Tätigkeitsbild | Funktion, Aufgaben, Führung, Projekte, Verantwortung, Sonderzweck und Karriereanschluss präzise erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Leistung und Verhalten | Einzelleistungen, Gesamtformel, Sozialverhalten, Führungsverhalten, Schlussnote und Widersprüche abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klarheit, Wahrheit und Wohlwollen | Geheimcode-Verdacht, Auslassungen, doppeldeutige Formulierungen, Schlussformel und äußere Form prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Zeugnisentwurf, Änderungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsbaustein erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

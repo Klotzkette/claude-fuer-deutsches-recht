@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Designgegenstand, Rec
 | --- | --- |
 | Normenanker | DesignG Paragraf 1 und Paragraf 2; DesignG Paragraf 5 und Paragraf 6; DesignG Paragraf 33 |
 | Rechtsprechung | EuGH, Urteil vom 20.10.2011 - C-281/10 P; EuGH, Urteil vom 19.06.2014 - C-345/13 |
-| Tatbestand | Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen |
+| Tatbestand | Erzeugnis, Teilbereich, Ansichten, Linien, Konturen, Farben, Material und beanspruchte Merkmale exakt bestimmen |
 | Beweislast | Designinhaber für Rechtsinhaberschaft, Priorität und übereinstimmenden Gesamteindruck; Gegner für Vorbekanntheit, technische Bedingtheit, Nichtigkeit und Erschöpfung |
 | Rechtsfolge | Anmeldung, Nichtigkeitsantrag, Unterlassung, Auskunft, Schadensersatz, Rückruf, Vergleich oder Lizenz |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Designgegenstand, Rec
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Designgegenstand | Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsbestand | Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schutzumfang | Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verletzung und Einreden | Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bestimmung Informierter Benutzer | Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Designgegenstand | Erzeugnis, Teilbereich, Ansichten, Linien, Konturen, Farben, Material und beanspruchte Merkmale exakt bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsbestand | Anmelde- oder Offenbarungstag, Formenschatz, Neuheit, Eigenart, Gestaltungsfreiheit und technische Bedingtheit prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schutzumfang | Informierten Benutzer, Gesamteindruck, Musterdichte, Unterschiede und nicht geschützte Merkmale in einer Bildmatrix vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verletzung und Einreden | Benutzungshandlung, Gebiet, Priorität, Vorbenutzung, Erschöpfung, Nichtigkeit und Verjährung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Anmeldung, Designvergleich, Nichtigkeitsantrag, Abmahnung, Klage, Erwiderung oder Lizenzklausel ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

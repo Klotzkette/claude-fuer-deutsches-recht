@@ -171,7 +171,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | TR3D: Bestreitensgründe | Bearbeite TR3D: Bestreitensgründe: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. | geprüftes Übergabepaket zu TR3D: Bestreitensgründe mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | TR3D: Prüfkategorien Bauleiter | Bearbeite TR3D: Prüfkategorien Bauleiter: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. | geprüftes Übergabepaket zu TR3D: Prüfkategorien Bauleiter mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | Inventur und Version | Bearbeite Inventur und Version: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. | geprüftes Übergabepaket zu Inventur und Version mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
-| Fundstellenlinie | jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen | geprüftes Übergabepaket zu Fundstellenlinie mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
+| Fundstellenlinie | Jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen | geprüftes Übergabepaket zu Fundstellenlinie mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | Vergleich und Redline | Einfügung, Streichung, Widerspruch, fehlende Anlage, Rechenabweichung und materielle Auswirkung markieren | Verhandlungsblatt zu Vergleich und Redline mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug |
 
 ## 16. Fachspezifische Praxisrouten
@@ -215,7 +215,7 @@ Lieferstück: geprüftes Übergabepaket zu Inventur und Version mit Eingangsstan
 
 ### 16.8. Fundstellenlinie
 
-Bearbeitungsauftrag: jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen.
+Bearbeitungsauftrag: Jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen.
 Lieferstück: geprüftes Übergabepaket zu Fundstellenlinie mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
 ### 16.9. Vergleich und Redline

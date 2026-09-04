@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Bescheidlage, Leistun
 | --- | --- |
 | Normenanker | SGB I Paragraf 38 und Paragraf 40; SGB X Paragraf 20; SGB X Paragraf 24 |
 | Rechtsprechung | BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 |
-| Tatbestand | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen |
+| Tatbestand | Verwaltungsakt, Widerspruch, Klagefrist, Leistungsträger und Leistungsart erfassen |
 | Beweislast | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege |
 | Rechtsfolge | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,12 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Bescheidlage, Leistun
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Bescheidlage | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leistungsrecht | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Medizin | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Krankenversicherung | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflege und Teilhabe | Pflegeantrag, Alltagsschilderung, Befunde, MD-Gutachten und Bescheid nach den sechs Modulen und gewichteten Punkten abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eilrechtsschutz | Bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bescheidlage | Verwaltungsakt, Widerspruch, Klagefrist, Leistungsträger und Leistungsart erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Leistungsrecht | Bedarf, Anspruchsgrundlage, Wirtschaftlichkeit, Leistungsausschluss und Zuständigkeit trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Medizin | Diagnose, Leitlinie, Nutzenbeleg, MD-Stellungnahme, behandelnde Ärzte und Gegengutachten ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Krankenversicherung | Hilfsmittel, Arzneimittel, Orphan Drug, Off-Label-Lage, Krankenhaus- oder Vertragsarztpfad prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Pflege und Teilhabe | Pflegegrad, Modulbewertung, Wohnumfeld, Barrierefreiheit und Kostenträgerabgrenzung klären. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Eilrechtsschutz | Anordnungsanspruch, Anordnungsgrund, Folgenabwägung und Existenzsicherung darstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,6 +60,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Bescheidlage, Leistun
 - Paragraf 165 SGB III; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 32 SGB II in der seit 1. Juli 2026 geltenden Fassung: wiederholtes Meldeversäumnis, 30 Prozent des maßgebenden Regelbedarfs und einmonatiger Minderungszeitraum; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 31a Absatz 2 bis 5 und 31b Absatz 1 und 4 SGB II: Anhörung, außergewöhnliche Härte, Kappungsgrenze, Beginn und Aufhebung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
+- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismäßigkeitskontrolle.
 
 ## 7. Antwortform
 

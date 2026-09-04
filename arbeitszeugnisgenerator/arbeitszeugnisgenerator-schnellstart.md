@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Zeugnisart und Anspru
 | --- | --- |
 | Normenanker | GewO Paragraf 109; BGB Paragraf 630; BGB Paragraf 241 Absatz 2 |
 | Rechtsprechung | BAG, Urteil vom 18.11.2014 - 9 AZR 584/13; BAG, Urteil vom 15.11.2011 - 9 AZR 386/10 |
-| Tatbestand | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden |
+| Tatbestand | Einfach, qualifiziert, Zwischen-, End- oder Ausbildungszeugnis, Fälligkeit, Titel und Vergleichslage bestimmen |
 | Beweislast | Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung |
 | Rechtsfolge | Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,10 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Zeugnisart und Anspru
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Zeugnisart und Anspruch | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Tätigkeitsbild | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leistung und Verhalten | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Zeugnisart und Anspruch | Einfach, qualifiziert, Zwischen-, End- oder Ausbildungszeugnis, Fälligkeit, Titel und Vergleichslage bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Tätigkeitsbild | Funktion, Aufgaben, Führung, Projekte, Verantwortung, Sonderzweck und Karriereanschluss präzise erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Leistung und Verhalten | Einzelleistungen, Gesamtformel, Sozialverhalten, Führungsverhalten, Schlussnote und Widersprüche abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klarheit, Wahrheit und Wohlwollen | Geheimcode-Verdacht, Auslassungen, doppeldeutige Formulierungen, Schlussformel und äußere Form prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Zeugnisentwurf, Änderungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsbaustein erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -56,8 +57,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Zeugnisart und Anspru
 - BGB Paragraf 242: Treu und Glauben bei Schlussformel, Auslassungen, Berichtigung und widersprüchlichem Verhalten.
 - BAG, Urteil vom 18.11.2014 - 9 AZR 584/13: Zur vollen Zufriedenheit ist die durchschnittliche Schlussnote; eine bessere Bewertung muss der Arbeitnehmer darlegen und beweisen.
 - BAG, Urteil vom 15.11.2011 - 9 AZR 386/10: Zeugnisklarheit wird nach objektivem Empfängerhorizont beurteilt; einzelne Wendungen sind nicht losgelöst als Geheimcode zu behandeln.
-- BAG, Urteil vom 12.08.2008 - 9 AZR 632/07, Rn. 18 bis 21: Wortwahl und Auslassung sind aus Sicht des objektiven Zeugnislesers zu beurteilen; eine erwartbare positive Hervorhebung darf nicht so fehlen, dass ein falscher Eindruck entsteht.
-- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20 und 27: Das Zeugnis muss prägende Merkmale gewichten und als einheitliches Ganzes gelesen werden.
 
 ## 7. Antwortform
 

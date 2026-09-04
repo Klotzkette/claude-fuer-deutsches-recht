@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Recherchebericht, Anspruchssatz, Bescheidserwiderun
 | --- | --- | --- | --- |
 | Fallkern | rechtsstand-prüfen | PatG Paragraf 1 bis Paragraf 5 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | PatG Paragraf 9 und Paragraf 10 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | patentfamilien-analyse | PatG Paragraf 9 und Paragraf 10 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | prüfungsbescheid-vorbereiten | PatG Paragraf 9 und Paragraf 10 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Aussetzung, Unterlassung, Auskunft, Schadensersatz, FTO oder Lizenz | Patentinhaber für Rechtsinhaberschaft und Verletzung; Angreifer für neuheitsschädlichen Stand der Technik, Nichtigkeitsgrund oder FRAND-Einwand | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -135,7 +135,7 @@ Arbeitsgriff Arbeitsprodukt: Recherchebericht, Anspruchssatz, Bescheidserwiderun
 10.5. Beweislast: Patentinhaber für Rechtsinhaberschaft und Verletzung; Angreifer für neuheitsschädlichen Stand der Technik, Nichtigkeitsgrund oder FRAND-Einwand. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welches Dokument offenbart welches Merkmal unmittelbar und eindeutig zu welchem Prioritätszeitpunkt an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Aussetzung, Unterlassung, Auskunft, Schadensersatz, FTO oder Lizenz; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder rechtsstand-prüfen, patentfamilien-analyse, prüfungsbescheid-vorbereiten, neuheit-prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder rechtsstand-prüfen, prüfungsbescheid-vorbereiten, patentfamilien-analyse, neuheit-prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 12.03.2002 - X ZR 168/00; EuGH, Urteil vom 16.07.2015 - C-170/13.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -171,8 +171,8 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | rechtsstand-prüfen | Prioritätstag (priority date) — Datum einer früheren Erstanmeldung; maßgeblich für Stand der Technik (Paragraf 4 PatG, Artikel 89 EPÜ). | Fachvotum zu rechtsstand-prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| patentfamilien-analyse | Monate nach Prioritätstag (15.09.2019): Veröffentlichung der Anmeldungen. Alle gehören zur INPADOC patent family mit Stamm-Prioritätstag 15.03.2018. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | prüfungsbescheid-vorbereiten | Bereitet Antwort auf Prüfungsbescheid des DPMA nach Paragraf 45 PatG oder des EPA nach Artikel 94 EPÜ systematisch vor. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| patentfamilien-analyse | Monate nach Prioritätstag (15.09.2019): Veröffentlichung der Anmeldungen. Alle gehören zur INPADOC patent family mit Stamm-Prioritätstag 15.03.2018. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | neuheit-prüfen | Die Entgegenhaltung kann aber für die erfinderische Tätigkeit (Paragraf 4 PatG) relevant bleiben. Implizite Offenbarung kennzeichnen — kritisch bewerten (Beweislast hoch). | Fachvotum zu neuheit-prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | stand-der-technik-recherche | Recherche Stand der Technik vor eigener Patentanmeldung. Berücksichtigt Paragraf 3 Absatz 1 PatG Artikel 54 Absatz 2 EPÜ (Stand der Technik weltweit jede Sprache) und Paragraf 3 Absatz 2 PatG Artikel 54 Absatz 3 EPÜ. | Fachvotum zu stand-der-technik-recherche mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | recherchebericht-erstellen | Sprache der Recherche (DE, EN, FR; Maschinenübersetzungen für JP, CN, KR). Welche Bezahl-Datenbanken nicht mit eingeschlossen wurden. | Fachvotum zu recherchebericht-erstellen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
@@ -188,20 +188,20 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Prioritätstag (priority date) — Datum einer früheren Erstanmeldung; maßgeblich für Stand der Technik (Paragraf 4 PatG, Artikel 89 EPÜ). Veröffentlichungstag (publication date) — regelmäßig 18 Monate nach Anmelde- oder Prioritätstag; für deutsche Anmeldungen Paragraf 32 Absatz 2 PatG, für europäische Anmeldungen Artikel 93 EPÜ im Einzelfall prüfen. Schutzdauer-Ende — Anmeldetag + 20 Jahre (Paragraf 16 PatG, Artikel 63 EPÜ).
 Prüfschritte: Anmeldetag (filing date) — Datum der Einreichung, Schutzdauer-Beginn; Erteilungstag (grant date) — Veröffentlichung der Erteilung; Anhängig / pending — Anmeldung läuft noch; Erteilt / granted / in force — Patent ist erteilt und in Kraft; Zurückgenommen / withdrawn — Anmelder hat zurückgezogen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Anmeldetag (filing date) — Datum der Einreichung, Schutzdauer-Beginn; Prioritätstag (priority date) — Datum einer früheren Erstanmeldung; maßgeblich für Stand der Technik (Paragraf 4 PatG, Artikel 89 EPÜ).
+Normbezug aus dem Fachmaterial: Anmeldetag (filing date) — Datum der Einreichung, Schutzdauer-Beginn; Prioritätstag (priority date) — Datum einer früheren Erstanmeldung; maßgeblich für Stand der Technik (Paragraf 4 PatG, Artikel 89 EPÜ).
 Lieferstück: Fachvotum zu rechtsstand-prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. patentfamilien-analyse
+### 16.2. prüfungsbescheid-vorbereiten
+
+Bearbeitungsauftrag: Bereitet Antwort auf Prüfungsbescheid des DPMA nach Paragraf 45 PatG oder des EPA nach Artikel 94 EPÜ systematisch vor. Berücksichtigt EPA-Schemata Problem-Solution-Approach und EPA-Hinweise auf clarity (Artikel 84 EPÜ) added subject-matter (Artikel 123(2) EPÜ) und unity (Artikel 82 EPÜ).
+Prüfschritte: Liest den Bescheid und die zitierten Entgegenhaltungen ein; Strukturiert pro Beanstandung: Beanstandung wortlautgetreu zitiert betroffener Anspruch zitierte Entgegenhaltung mit Pinpoint Argumentationsvorschlag (Neuheit-Argument erfinderische Tätigkeit Argument Anspruchsanpassung); Liefere Entwurf der Eingabe mit Argumentationsstruktur und Anspruchssatz-Vorschlägen.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+
+### 16.3. patentfamilien-analyse
 
 Bearbeitungsauftrag: Monate nach Prioritätstag (15.09.2019): Veröffentlichung der Anmeldungen. Alle gehören zur INPADOC patent family mit Stamm-Prioritätstag 15.03.2018. Continuation-in-Part, Teilanmeldung (Paragraf 39 PatG / Artikel 76 EPÜ), Zusatzanmeldung.
 Prüfschritte: Alle Anmeldungen weltweit, die direkt oder indirekt auf dieselbe Erstanmeldung priorisieren (Pariser Verbandsübereinkunft, Artikel 4 PVÜ — 12 Monate Prioritätsfrist); Eine Erstanmeldung in DE am 15.03.2018; Innerhalb 12 Monaten Nachanmeldungen in EP, US, JP, CN, KR mit Priorität DE 15.03.2018; 18 Monate nach Prioritätstag (15.09.2019): Veröffentlichung der Anmeldungen; INPADOC wird vom EPA gepflegt und ist über Espacenet und EPO Open Data zugänglich.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Alle Anmeldungen weltweit, die direkt oder indirekt auf dieselbe Erstanmeldung priorisieren (Pariser Verbandsübereinkunft, Artikel 4 PVÜ — 12 Monate Prioritätsfrist); Eine Erstanmeldung in DE am 15.03.2018.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.3. prüfungsbescheid-vorbereiten
-
-Bearbeitungsauftrag: Bereitet Antwort auf Prüfungsbescheid des DPMA nach Paragraf 45 PatG oder des EPA nach Artikel 94 EPÜ systematisch vor. Berücksichtigt EPA-Schemata Problem-Solution-Approach und EPA-Hinweise auf clarity (Artikel 84 EPÜ) added subject-matter (Artikel 123(2) EPÜ) und unity (Artikel 82 EPÜ). Disclaimer Eingabe muss durch Patentanwältin gegengelesen und verantwortet werden.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Bereitet Antwort auf Prüfungsbescheid des DPMA nach Paragraf 45 PatG oder des EPA nach Artikel 94 EPÜ systematisch vor.
+Normbezug aus dem Fachmaterial: Alle Anmeldungen weltweit, die direkt oder indirekt auf dieselbe Erstanmeldung priorisieren (Pariser Verbandsübereinkunft, Artikel 4 PVÜ — 12 Monate Prioritätsfrist); Eine Erstanmeldung in DE am 15.03.2018.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.4. neuheit-prüfen

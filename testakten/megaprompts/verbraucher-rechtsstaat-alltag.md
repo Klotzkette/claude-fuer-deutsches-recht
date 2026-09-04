@@ -12,10 +12,10 @@ Diese Vollprüfung enthält top-10 von 67 Skills des Plugins `verbraucher-rechts
 4. **bankentgelte-zustimmungsfiktion** — Prüft und beziffert Rückforderungen nach unwirksamer Zustimmungsfiktion bei Bankentgelten: rekonstruiert Preisverzeichni…
 5. **abo-kuendigung-fitness-streaming** — Bearbeitet Kündigung und Zahlungsstreit bei Fitnessstudio- und Streaming-Abos: trennt Nutzungsausfall, Probephase, Laufz…
 6. **abo-falle-kuendigung** — Prüft eine behauptete Abo-Falle vom Bestellbutton bis zur Kündigung: liest Bestätigung, Preis-, Laufzeit- und Widerrufsi…
-7. **schriftsatz-vermerk-und-mustertext** — Für Schriftsatz, Vermerk und Mustertext: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begr…
-8. **kaltstart-routing** — Für Allgemeiner Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko…
-9. **sitzungs-terminvorbereitung-strom-gas-telefon** — Für Sitzungs- und Terminvorbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nä…
-10. **protokoll-nachbereitung-rechnung** — Für Protokoll und Nachbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+7. **kindergeld-kinderzuschlag-bescheid** — Prüft Bescheide zu steuerlichem Kindergeld, sozialrechtlichem Kindergeld und Kinderzuschlag, trennt Einspruch und Widers…
+8. **schriftsatz-vermerk-und-mustertext** — Für Schriftsatz, Vermerk und Mustertext: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begr…
+9. **kaltstart-routing** — Für Allgemeiner Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko…
+10. **sitzungs-terminvorbereitung-strom-gas-telefon** — Für Sitzungs- und Terminvorbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nä…
 
 ---
 
@@ -326,6 +326,67 @@ Liefere Ergebnisampel, Fristenblatt, Belegliste, ausformulierte Kündigung oder 
 
 ---
 
+## Skill: `kindergeld-kinderzuschlag-bescheid`
+
+_Prüft Bescheide zu steuerlichem Kindergeld, sozialrechtlichem Kindergeld und Kinderzuschlag, trennt Einspruch und Widerspruch und erstellt fristwahrende Rechtsbehelfe, Nachweislisten oder Bescheidentwürfe._
+
+# Kindergeld- und Kinderzuschlagsbescheide
+
+## 1. Zweck und Anwendungsfall
+
+Dieser Skill prüft Ablehnungs-, Aufhebungs-, Änderungs- und Erstattungsbescheide der Familienkasse. Er bestimmt vor jeder Sachprüfung, ob steuerrechtliches Kindergeld nach dem Einkommensteuergesetz, sozialrechtliches Kindergeld nach dem Bundeskindergeldgesetz oder Kinderzuschlag nach dem Bundeskindergeldgesetz betroffen ist. Diese Weiche entscheidet über Anspruchsgrundlage, Verfahren, Rechtsbehelf und Rechtsweg.
+
+Vorhandene Bescheide, Anträge, Nachweise und Zahlungsübersichten sind zuerst vollständig auszulesen. Nur wenn danach eine entscheidende Angabe fehlt, ist höchstens eine gebündelte Rückfrage zu stellen.
+
+## 2. Verfahrensweiche
+
+1. Steuerrechtliches Kindergeld beruht auf den Paragrafen 62 bis 78 EStG. Gegen den Verwaltungsakt ist grundsätzlich der Einspruch nach Paragraf 347 AO statthaft. Die regelmäßige Einspruchsfrist beträgt nach Paragraf 355 AO einen Monat nach Bekanntgabe; Form und Einlegungsstelle richten sich nach Paragraf 357 AO. Nach der Einspruchsentscheidung führt der Rechtsweg zu den Finanzgerichten.
+2. Sozialrechtliches Kindergeld beruht insbesondere auf Paragraf 1 BKGG. Kinderzuschlag beruht auf Paragraf 6a BKGG. Das Bundeskindergeldgesetz verweist ergänzend auf das Sozialgesetzbuch und eröffnet in Paragraf 15 BKGG den Sozialrechtsweg. Der Widerspruch ist grundsätzlich binnen eines Monats nach Bekanntgabe nach Paragraf 84 SGG einzulegen.
+3. Die Bezeichnung „Familienkasse“ entscheidet die Route nicht. Maßgeblich sind die im Bescheid genannte Anspruchsgrundlage, der Verfügungssatz und die Rechtsbehelfsbelehrung.
+4. Einspruch und Widerspruch sind nicht austauschbar. Eine unrichtige Rechtsbehelfsbelehrung ist gesondert auf ihre Fristwirkung zu prüfen; die zutreffende Rechtsbehelfsart ist dennoch ausdrücklich zu bestimmen.
+
+## 3. Eingaben
+
+- vollständiger Bescheid einschließlich Berechnungsbogen und Rechtsbehelfsbelehrung;
+- Datum und Art der Bekanntgabe sowie Briefumschlag, Zustellnachweis oder Portalnachricht;
+- Antrag und bisheriger Schriftwechsel mit der Familienkasse;
+- Daten zu Berechtigtem, Kind, Haushalt, Wohnsitz und gewöhnlichem Aufenthalt;
+- bei volljährigen Kindern Ausbildungs-, Studien-, Dienst-, Übergangs- und Erwerbsnachweise;
+- bei grenzüberschreitenden Fällen Erwerbsstaaten, Wohnsitze und ausländische Familienleistungen;
+- beim Kinderzuschlag Bedarfs-, Einkommens-, Vermögens-, Miet- und Heizkostennachweise für den maßgeblichen Bewilligungszeitraum;
+- Zahlungsübersicht, Aufrechnung, Erstattungsforderung und bereits geleistete Zahlungen.
+
+## 4. Prüfablauf
+
+1. Erfasse jeden Verfügungssatz getrennt: Festsetzung, Ablehnung, Aufhebung, Änderung, Erstattung, Aufrechnung, vorläufige Zahlungseinstellung oder laufende Auszahlung.
+2. Bilde für jeden Verfügungssatz eine eigene Fristzeile mit Bekanntgabedatum, Fristbeginn, regulärem Fristende, Belehrungsfehler und sicherstem Einreichungsweg.
+3. Ordne den Fall der steuerrechtlichen oder sozialrechtlichen Route zu. Bei gemischten Schreiben behandle jeden Regelungsgegenstand getrennt.
+4. Prüfe beim Kindergeld nach EStG insbesondere Anspruchsberechtigung nach Paragraf 62 EStG, berücksichtigungsfähiges Kind nach Paragraf 63 in Verbindung mit Paragraf 32 EStG, Anspruchskonkurrenz nach Paragraf 64 EStG, andere Leistungen nach Paragraf 65 EStG, Zahlungszeitraum nach Paragraf 66 EStG, Antrag nach Paragraf 67 EStG und Festsetzung oder Änderung nach Paragraf 70 EStG.
+5. Prüfe beim Kindergeld nach BKGG insbesondere den persönlichen Anwendungsbereich des Paragrafen 1 BKGG, konkurrierende Leistungen nach Paragraf 4 BKGG, den Bescheid nach Paragraf 14 BKGG und den Sozialrechtsweg nach Paragraf 15 BKGG.
+6. Prüfe beim Kinderzuschlag jedes Merkmal des Paragrafen 6a BKGG getrennt: Haushaltszugehörigkeit und Alter des Kindes, Kindergeldbezug, Mindesteinkommensgrenze, Vermeidung der Hilfebedürftigkeit, Bedarf der Eltern, Einkommen und Vermögen von Eltern und Kindern sowie den maßgeblichen Bewilligungszeitraum. Werte und Berechnungsparameter sind am aktuellen Normtext zu verifizieren.
+7. Erstelle eine Tatsachen- und Belegmatrix. Weise jedem Tatbestandsmerkmal einen Aktenfund, ein Beweismittel oder eine konkret bezeichnete Lücke zu. Haushaltsaufnahme, Ausbildung, Übergangszeiten, Behinderung, Einkommen und Zuflusszeitpunkt dürfen nicht aus bloßer Plausibilität abgeleitet werden.
+8. Trenne Rückforderung und laufenden Anspruch sowie jeden betroffenen Monat. Eine rechtliche oder tatsächliche Änderung kann nur einen Teilzeitraum erfassen.
+9. Prüfe die stärkste Gegenposition der Familienkasse und benenne genau, welche Norm, Berechnung oder Unterlage sie trägt oder widerlegt.
+10. Bei drohender Einziehung oder Aufrechnung prüfe den vorläufigen Rechtsschutz gesondert. Ein Einspruch hemmt die Vollziehung nicht automatisch; für die steuerrechtliche Route ist insbesondere Paragraf 361 AO zu prüfen. In der sozialrechtlichen Route sind die Wirkungen des Widerspruchs und ein Eilantrag nach den Paragrafen 86a und 86b SGG fallbezogen zu bestimmen.
+
+## 5. Arbeitsprodukte
+
+Je nach Rolle und Verfahrensstand entsteht unmittelbar eines der folgenden Produkte:
+
+1. ein fristwahrender Einspruch nach der AO oder Widerspruch nach dem SGG mit eindeutigem Antrag, Bescheidbezug und vorbehaltener Begründung;
+2. eine ausformulierte Begründung mit Monatsmatrix, Tatbestandsmerkmalen, Belegen und Gegenargumenten;
+3. eine Nachweis- und Lückenliste, die nur entscheidungserhebliche Unterlagen anfordert;
+4. ein Antrag auf Aussetzung der Vollziehung oder sozialgerichtlichen Eilrechtsschutz, sofern Einziehung, Aufrechnung oder existenzielle Nachteile konkret drohen;
+5. aus Behördensicht ein Bescheid- oder Abhilfeentwurf mit bestimmtem Verfügungssatz, festgestelltem Sachverhalt, nachvollziehbarer Berechnung, tragender Begründung und zutreffender Rechtsbehelfsbelehrung.
+
+Das Endprodukt ist vollständig ausformuliert. Ein formatiertes Dokument verwendet, soweit technisch möglich, Times New Roman in 11 Punkt und ausschließlich dezimale Gliederung.
+
+## 6. Quellenpflicht
+
+Normen und Fristen sind vor Verwendung am aktuellen amtlichen Text zu prüfen. Maßgebliche Einstiege sind die [Paragrafen 62 bis 78 EStG](https://www.gesetze-im-internet.de/estg/), [Paragrafen 1 und 6a sowie 13 bis 18 BKGG](https://www.gesetze-im-internet.de/bkgg_1996/), [Paragraf 347 AO](https://www.gesetze-im-internet.de/ao_1977/__347.html), [Paragraf 355 AO](https://www.gesetze-im-internet.de/ao_1977/__355.html) und [Paragraf 84 SGG](https://www.gesetze-im-internet.de/sgg/__84.html). Rechtsprechung wird nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Randnummer und amtlicher oder frei zugänglicher Volltextquelle verwendet.
+
+---
+
 ## Skill: `schriftsatz-vermerk-und-mustertext`
 
 _Für Schriftsatz, Vermerk und Mustertext: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Verbraucher im Rechtsstaat Alltag._
@@ -477,60 +538,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachkern: Sitzungs- und Terminvorbereitung
-- **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
-- **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Kaltstart in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** BGB Kauf- und Werkvertragsrecht, Verbraucherrecht, VSBG, ZPO-Mahnverfahren, PAngV, DDG und einschlägige EU-Regeln live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
----
-
-## Skill: `protokoll-nachbereitung-rechnung`
-
-_Für Protokoll und Nachbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucher im Rechtsstaat Alltag._
-
-# Protokoll und Nachbereitung
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Protokoll und Nachbereitung
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.

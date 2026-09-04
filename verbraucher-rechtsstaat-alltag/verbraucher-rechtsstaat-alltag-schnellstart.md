@@ -33,7 +33,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Vertriebs
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 312 ff; BGB Paragraf 355 ff; BGB Paragraf 305 bis Paragraf 310 |
-| Rechtsprechung | EuGH, Urteil vom 7. April 2022, C-249/21; EuGH, Urteil vom 5. Oktober 2023, C-565/22 |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen |
 | Beweislast | Darlegungs- und Nachweisfrage für Verbraucherrecht und Verbandsdurchsetzung: Welche Frist läuft ab wann und wodurch wurde sie ausgelöst oder gehemmt |
 | Rechtsfolge | Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren |
@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Vertriebs
 | Klausel- und Pflichtenprüfung | Einbeziehung, Transparenz, Leitbildabweichung und Informationspflichten getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Durchsetzungsweg | Individualanspruch, Musterfeststellung, Verbandsabmahnung oder Unterlassungsklage wählen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Behördenformular verstehen | Bearbeite Behördenformular verstehen: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,9 +59,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Vertriebs
 - Paragraf 14 BGB — Unternehmerbegriff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 312c BGB — Fernabsatzvertrag; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 312d BGB — Informationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 7. April 2022, C-249/21: Maßgeblich ist die Beschriftung der auslösenden Schaltfläche selbst.
-- EuGH, Urteil vom 5. Oktober 2023, C-565/22: Beim Probeabo hängt ein weiteres Widerrufsrecht davon ab, ob über den späteren Preis bei Abschluss klar informiert wurde.
-- BGH, Urteil vom 4. Mai 2022, XII ZR 64/21: Nur für Fitnessstudio-Schließungsbeiträge und die damalige Laufzeitverlängerung heranziehen, nicht für jedes Abo.
 
 ## 7. Antwortform
 

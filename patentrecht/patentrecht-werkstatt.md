@@ -135,7 +135,7 @@ Arbeitsgriff Arbeitsprodukt: Recherchebericht, Anspruchssatz, Bescheidserwiderun
 10.5. Beweislast: Patentinhaber für Rechtsinhaberschaft und Verletzung; Angreifer für neuheitsschädlichen Stand der Technik, Nichtigkeitsgrund oder FRAND-Einwand. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welches Dokument offenbart welches Merkmal unmittelbar und eindeutig zu welchem Prioritätszeitpunkt an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Aussetzung, Unterlassung, Auskunft, Schadensersatz, FTO oder Lizenz; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Erfindungsmeldung aufnehmen, Prüfungsbescheid DPMA/EPA, Claim Chart, Patentlizenzvertrag prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Erfindungsmeldung aufnehmen, Prüfungsbescheid DPMA/EPA, Claim Chart, Rechtsstand, Register und Fristen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 12.03.2002 - X ZR 168/00; EuGH, Urteil vom 16.07.2015 - C-170/13.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -173,9 +173,9 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Erfindungsmeldung aufnehmen | Gibt es Fotos, Skizzen, CAD, Stücklisten, Quellcode, Laborbuch, Prototypen oder E-Mails? | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
 | Prüfungsbescheid DPMA/EPA | Bearbeite Prüfungsbescheid DPMA/EPA: anspruchsmerkmale, Priorität, Stand der Technik, Rechtsbestand, angegriffene Ausführung, Schutzbereich und Verfahrensschritt ordnen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Claim Chart | Beweisqualität: Mandantenangabe, Foto, Test, reverse engineering, Zeuge, Sachverständiger. Geheimhaltungs-/GeschG-Risiko bei technischen Unterlagen beachten. | Fachvotum zu Claim Chart mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Patentlizenzvertrag prüfen | Bearbeite Patentlizenzvertrag prüfen: anspruchsmerkmale, Priorität, Stand der Technik, Rechtsbestand, angegriffene Ausführung, Schutzbereich und Verfahrensschritt ordnen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Rechtsstand, Register und Fristen | Immer Rechtsstand, Territory und geltende Anspruchsfassung prüfen. Prioritätsjahr Artikel 87 EPÜ / Paragraf 41 PatG: 12 Monate ab erster Hinterlegung; PCT-Frist ebenfalls 12 Monate. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
 | Vorbenutzungsrecht Paragraf 12 PatG | Baue eine Chronologie: Vorbenutzungsrecht ist kein allgemeiner Freibrief. Es schützt nicht automatisch spätere Weiterentwicklungen, andere Konzernunternehmen oder neue Produktgenerationen. | Fachvotum zu Vorbenutzungsrecht Paragraf 12 PatG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Patentlizenzvertrag prüfen | Bearbeite Patentlizenzvertrag prüfen: anspruchsmerkmale, Priorität, Stand der Technik, Rechtsbestand, angegriffene Ausführung, Schutzbereich und Verfahrensschritt ordnen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | PatR2: Patentverletzungsklage | Bearbeite PatR2: Patentverletzungsklage: anspruchsmerkmale, Priorität, Stand der Technik, Rechtsbestand, angegriffene Ausführung, Schutzbereich und Verfahrensschritt ordnen. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Internationaler Patent- und Ländercheck | Pro Land trennen: Schutzfähigkeit, Rechtsstand, Verletzung, Rechtsbestand, Durchsetzung, Kosten. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Rechtsabteilung: Employee Invention im Konzernprojekt | Bearbeite Rechtsabteilung: Employee Invention im Konzernprojekt: anspruchsmerkmale, Priorität, Stand der Technik, Rechtsbestand, angegriffene Ausführung, Schutzbereich und Verfahrensschritt ordnen. | Fachvotum zu Rechtsabteilung: Employee Invention im Konzernprojekt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
@@ -194,7 +194,7 @@ Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkei
 
 Bearbeitungsauftrag: Bearbeite Prüfungsbescheid DPMA/EPA: anspruchsmerkmale, Priorität, Stand der Technik, Rechtsbestand, angegriffene Ausführung, Schutzbereich und Verfahrensschritt ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Verfahren: DPMA- oder EPA-Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Verletzung und Aussetzung zeitlich koordinieren.
 Prüfschritte: Keine Anspruchsänderung vorschlagen, wenn Stütze in ursprünglicher Anmeldung unklar ist; Keine Entgegenhaltung nur aus dem Abstract bewerten; Paragraf 44 PatG Prüfungsantrag: Beim DPMA Prüfungsantrag binnen 7 Jahren ab Anmeldung; sonst gilt Anmeldung als zurückgenommen; EPA: Prüfungsantrag binnen 6 Monaten nach Veröffentlichung des europäischen Recherchenberichts (Artikel 94 EPÜ).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Keine Entgegenhaltung nur aus dem Abstract bewerten; Paragraf 44 PatG Prüfungsantrag: Beim DPMA Prüfungsantrag binnen 7 Jahren ab Anmeldung; sonst gilt Anmeldung als zurückgenommen; Keine Anspruchsänderung vorschlagen, wenn Stütze in ursprünglicher Anmeldung unklar ist; Keine Entgegenhaltung nur aus dem Abstract bewerten.
+Normbezug aus dem Fachmaterial: Keine Entgegenhaltung nur aus dem Abstract bewerten; Paragraf 44 PatG Prüfungsantrag: Beim DPMA Prüfungsantrag binnen 7 Jahren ab Anmeldung; sonst gilt Anmeldung als zurückgenommen.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.3. Claim Chart
@@ -203,23 +203,21 @@ Bearbeitungsauftrag: Beweisqualität: Mandantenangabe, Foto, Test, reverse engin
 Prüfschritte: Produktdaten, Fotos, Handbuch, CAD, Stückliste, Prüfbericht, Quellcode, Prozessbeschreibung; Ziel: Angriff, Verteidigung, FTO oder Vergleich; Bewertung: erfüllt, nicht erfüllt, unklar, nur äquivalent denkbar, Beleg fehlt; Anspruchsauslegung: Begriffe aus Beschreibung/Figuren verstehen; Äquivalenz: gleiche Wirkung, Auffindbarkeit, Gleichwertigkeit.
 Lieferstück: Fachvotum zu Claim Chart mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Patentlizenzvertrag prüfen
-
-Bearbeitungsauftrag: Bearbeite Patentlizenzvertrag prüfen: anspruchsmerkmale, Priorität, Stand der Technik, Rechtsbestand, angegriffene Ausführung, Schutzbereich und Verfahrensschritt ordnen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
-Prüfschritte: Territory und validierte Länder widersprechen sich; Exklusivität kollidiert mit eigener Nutzung oder bestehenden Lizenzen; "Patent" meint Anmeldung, aber Vertrag behandelt es wie erteiltes Schutzrecht; Erfinderpersönlichkeitsrechte werden wie übertragbare Vermögensrechte formuliert; Royalty Base passt nicht zu Produktbündeln, Ersatzteilen oder Dienstleistungen.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.5. Rechtsstand, Register und Fristen
+### 16.4. Rechtsstand, Register und Fristen
 
 Bearbeitungsauftrag: Immer Rechtsstand, Territory und geltende Anspruchsfassung prüfen. Prioritätsjahr Artikel 87 EPÜ / Paragraf 41 PatG: 12 Monate ab erster Hinterlegung; PCT-Frist ebenfalls 12 Monate. DPMA-Prüfungsantrag (Paragraf 44 PatG): binnen 7 Jahren nach Anmeldetag.
-Prüfschritte: Nie allein aus einer Patentnummer schließen, dass ein Patent in Kraft ist; PCT-Nationalisierung: regelmäßig 30 oder 31 Monate ab Prioritätstag.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Immer Rechtsstand, Territory und geltende Anspruchsfassung prüfen; Prioritätsjahr Artikel 87 EPÜ / Paragraf 41 PatG: 12 Monate ab erster Hinterlegung; PCT-Frist ebenfalls 12 Monate.
+Normbezug aus dem Fachmaterial: Immer Rechtsstand, Territory und geltende Anspruchsfassung prüfen; Prioritätsjahr Artikel 87 EPÜ / Paragraf 41 PatG: 12 Monate ab erster Hinterlegung; PCT-Frist ebenfalls 12 Monate.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
-### 16.6. Vorbenutzungsrecht Paragraf 12 PatG
+### 16.5. Vorbenutzungsrecht Paragraf 12 PatG
 
 Bearbeitungsauftrag: Baue eine Chronologie: Vorbenutzungsrecht ist kein allgemeiner Freibrief. Es schützt nicht automatisch spätere Weiterentwicklungen, andere Konzernunternehmen oder neue Produktgenerationen. Paragraf 12 Absatz 1 PatG: Die Patentwirkung tritt gegen denjenigen nicht ein, der die Erfindung bei Anmeldung bereits im Inland benutzte oder die erforderlichen Veranstaltungen getroffen hatte.
 Lieferstück: Fachvotum zu Vorbenutzungsrecht Paragraf 12 PatG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.6. Patentlizenzvertrag prüfen
+
+Bearbeitungsauftrag: Bearbeite Patentlizenzvertrag prüfen: anspruchsmerkmale, Priorität, Stand der Technik, Rechtsbestand, angegriffene Ausführung, Schutzbereich und Verfahrensschritt ordnen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.7. PatR2: Patentverletzungsklage
 
@@ -243,13 +241,12 @@ Bearbeitungsauftrag: EPA-Einspruch: nach Erteilung innerhalb der EPÜ-Frist; zen
 Prüfschritte: Parallelität: Verletzungsverfahren, UPC, BPatG, EPA und Vergleichsverhandlungen koordinieren.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.11. EPÜ: Einspruch, Beschwerde und Beschränkung
-
-Bearbeitungsauftrag: Mündliche Verhandlung und technische Argumentationslinie vorbereiten. Auswirkungen auf UPC/nationale Verfahren abgleichen. internationaler-patentrechts-und-ländercheck, wenn weitere Länder oder Patentfamilien betroffen sind.
-Prüfschritte: Welche Rolle hat der Nutzer: Anmelder, Patentinhaber, Angreifer, Beklagter, Investor, Vertrieb, Lizenznehmer oder Local Counsel?
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.12. Freedom-to-Operate und Schutzbereich
+### 16.11. Freedom-to-Operate und Schutzbereich
 
 Bearbeitungsauftrag: Einwendungen: Nichtigkeit, Vorbenutzung, Erschöpfung, Lizenz, Verwirkung, experimentelle Nutzung. Design-around: technische Alternativen und Restgefahren. Das Ergebnis ist eine risikogewichtete Recherche und Prüfung auf Grundlage der konkret geprüften Schutzrechte und Datenbanken.
 Lieferstück: Fachvotum zu Freedom-to-Operate und Schutzbereich mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Gebrauchsmuster oder Patent
+
+Bearbeitungsauftrag: Gebrauchsmuster: schneller Registerschutz, aber ungeprüft und nicht für jede Technik passend. Geheimhaltung: wenn Reverse Engineering schwer und Offenbarung schädlich wäre. Defensive Veröffentlichung: wenn Schutz nicht gesucht wird, aber Dritten Patentierung erschwert werden soll.
+Lieferstück: Fachvotum zu Gebrauchsmuster oder Patent mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

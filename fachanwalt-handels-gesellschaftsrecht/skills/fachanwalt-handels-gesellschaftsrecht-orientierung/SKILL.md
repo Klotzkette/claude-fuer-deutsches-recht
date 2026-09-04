@@ -11,14 +11,15 @@ description: "Für Orientierung Handels- und Gesellschaftsrecht: ordnet Norm, Be
 2. Mandantenrolle: Gesellschafter, Geschäftsführer, Vorstand, Aufsichtsrat, Gesellschaft, Aktionär, Anteilskäufer?
 3. Worum geht es: Gründung, Strukturmaßnahme (Umwandlung, M&A), Streit unter Gesellschaftern, Haftung Organperson, Handelsrecht (Handelsvertreter, Kaufmannsgeschäfte)?
 4. Bestehen Satzung, Gesellschaftsvertrag, Geschäftsordnung Vorstand/Aufsichtsrat, Anstellungsverträge?
-5. Liegt aktuelle Frist (Anfechtungsklage AktG vier Wochen § 246; GmbH analog regelmäßig einen Monat, Einzelfall)?
+5. Läuft eine Beschlussmängelfrist? Bei der AG muss die Anfechtungsklage nach Paragraf 246 Absatz 1 AktG innerhalb eines Monats nach der Beschlussfassung erhoben werden. Bei der GmbH gilt die Monatsfrist als grundsätzlicher Maßstab für die mit aller zumutbaren Beschleunigung zu erhebende Klage; eng begrenzte Ausnahmen sind gesondert zu begründen.
 6. Krisensituation: drohende Zahlungsunfähigkeit § 18 InsO, Antragspflicht § 15a InsO?
 
-## FAO § 14i — Voraussetzungen
+## FAO Paragraf 14i — Voraussetzungen
 
-- **Theoretischer Lehrgang:** 120 Zeitstunden Handels- und Gesellschaftsrecht (FAO § 4).
-- **Praktischer Nachweis:** 80 Fälle in den letzten drei Jahren, davon mindestens 40 rechtsförmlich; verteilt auf die Bereiche Handelsrecht, Kapitalgesellschaftsrecht, Personengesellschaftsrecht, Umwandlungsrecht und Konzernrecht (§ 5 Abs. 1 lit. j FAO).
-- **Bereiche § 14i FAO:** HGB Handelsstand, Handelsgeschäfte, Handelskauf; Kapitalgesellschaftsrecht (GmbHG, AktG); Personengesellschaftsrecht (OHG, KG, GbR/MoPeG); Konzernrecht; Umwandlungsrecht (UmwG); kapitalmarktrechtliche Bezüge.
+- **Theoretischer Lehrgang:** Mindestens 120 Zeitstunden ohne Leistungskontrollen nach Paragraf 4 Absatz 1 FAO; hinzu kommen mindestens drei schriftliche Leistungskontrollen nach Paragraf 4a FAO.
+- **Praktischer Nachweis:** Innerhalb der letzten fünf Jahre 80 persönlich und weisungsfrei bearbeitete Fälle aus mindestens drei verschiedenen Gebieten der Bereiche nach Paragraf 14i Nummern 1 und 2 FAO. Mindestens 40 Fälle müssen gerichtliche Streitverfahren, Schieds- oder Mediationsverfahren und/oder die Gestaltung von Gesellschaftsverträgen oder die Gründung oder Umwandlung von Gesellschaften betreffen. Von diesen 40 Fällen müssen mindestens zehn gerichtliche Streit-, Schieds- oder Mediationsverfahren und mindestens zehn Gestaltungen, Gründungen oder Umwandlungen sein. Rechtsgrundlage ist Paragraf 5 Absatz 1 Buchstabe p FAO.
+- **Bereiche nach Paragraf 14i FAO:** Materielles Handelsrecht einschließlich internationalen Kaufrechts; materielles Gesellschaftsrecht einschließlich Personen- und Kapitalgesellschaftsrecht, internationalem Gesellschaftsrecht, Konzern- und Umwandlungsrecht sowie Grundzügen des Bilanz-, Steuer-, Dienstvertrags- und Mitbestimmungsrechts; fachgebietsbezogene Schnittstellen und Besonderheiten der Verfahrens- und Prozessführung.
+- **Amtliche Fassung:** FAO, Stand 1. Dezember 2025: https://www.brak.de/fileadmin/02_fuer_anwaelte/berufsrecht/028-FAO_Stand_01.12.2025.pdf
 
 ## Maßgebliche Normen
 

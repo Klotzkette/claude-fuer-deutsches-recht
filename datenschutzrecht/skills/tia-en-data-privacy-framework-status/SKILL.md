@@ -1,6 +1,6 @@
 ---
 name: tia-en-data-privacy-framework-status
-description: "Für EU-US Data Privacy Framework – Current Status (English): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Assesses whether an EU-US transfer can rely on an active Data Privacy Framework certification, records its scope and onward transfers, and tracks Latombe v Commission and the pending appeal without conflating them with Schrems litigation."
 ---
 
 # EU-US Data Privacy Framework – Current Status (English)
@@ -15,7 +15,7 @@ This skill provides an English-language assessment of the EU-US Data Privacy Fra
 - Documenting DPF listing in the RoPA / TIA.
 - Strategic choice between DPF and SCCs.
 - HR data transfers to a US parent; checking HR coverage.
-- Preparing for potential CJEU invalidation (Schrems III).
+- Monitoring the pending appeal in Latombe v Commission and preparing a lawful fallback if the adequacy decision later ceases to apply.
 
 ## Legal framework
 
@@ -44,14 +44,15 @@ This skill provides an English-language assessment of the EU-US Data Privacy Fra
 ### Residual risk
 
 - FISA 702 and EO 12333 remain in effect; EO 14086 narrows but does not abolish them.
-- The Schrems III action (NOYB) is pending; key issue: independence of the DPRC.
-- If the decision is invalidated, DPF reliance ends; SCCs + TIA must take over (a return to the pure Schrems II landscape).
+- On 3 September 2025, the General Court dismissed the annulment action in Latombe v Commission, T-553/23, ECLI:EU:T:2025:831. On the pleas examined, it rejected the challenges concerning the DPRC's independence and bulk collection.
+- The appeal filed on 31 October 2025, C-703/25 P, is pending before the Court of Justice. This is the Latombe litigation, not an action brought by NOYB and not an official proceeding named "Schrems III".
+- Decision (EU) 2023/1795 remains in force while the appeal is pending. If DPF reliance later becomes unavailable, a transfer may continue only after a separately valid Chapter V mechanism and its factual prerequisites have been put in place; a contractual label does not itself complete that assessment.
 
 ### EU review
 
-- The Commission periodically reviews the effectiveness of the DPF; the **first review in summer 2024** confirmed the decision; further reviews are scheduled approximately every four years, with ad hoc reviews possible.
+- The Commission published its first periodic review report on **9 October 2024**. Record that report as a monitoring source rather than describing it as a judicial confirmation of the adequacy decision.
 
-## / Checklist
+## Checklist
 
 1. **Verify the exact name** of the US entity in the DPF list.
 2. **Check status** "Active"; if "Inactive" -> no DPF reliance.
@@ -60,8 +61,8 @@ This skill provides an English-language assessment of the EU-US Data Privacy Fra
 5. Check **product / service coverage** against DPF declaration and privacy notice.
 6. Review **onward transfer clauses** in the DPA (sub-processors outside the USA or outside the listing).
 7. Add **DPRC notice** to data subject communications.
-8. Add a **residual-risk memo** noting FISA 702 / EO 12333 and ongoing Schrems III observation.
-9. Include a **fallback clause** in the contract: on revocation of the adequacy decision, automatic switch to SCCs + TIA.
+8. Add a **residual-risk memo** noting FISA 702 / EO 12333 and the current status of T-553/23 and C-703/25 P.
+9. Include and operationalise a **fallback clause** before it is needed. Do not state that SCCs and a TIA become valid automatically merely because the contract names them.
 
 ## Template
 
@@ -89,7 +90,7 @@ Fallback clause: [reference]
 
 > The transfer relies on Article 45 GDPR in conjunction with Commission Implementing Decision (EU) 2023/1795. The importer is actively listed under the EU-US Data Privacy Framework as "..." with certification date [...] (see Annex DPF Check Note). The listing covers [HR / Non-HR] data and the services contractually rendered under this engagement.
 >
-> Residual risk arising from FISA Section 702 and Executive Order 12333 remains. The Schrems III proceedings at the General Court of the European Union are pending; in the event of invalidation, the contractual fallback clause activates the Standard Contractual Clauses under Decision (EU) 2021/914 with corresponding TIA (see Annex Fallback Transfer Tool).
+> Residual risk arising from FISA Section 702 and Executive Order 12333 remains. The General Court dismissed the annulment action in T-553/23 on 3 September 2025; the appeal C-703/25 P is pending before the Court of Justice. Decision (EU) 2023/1795 remains the current transfer basis for an importer whose active certification covers this transfer. The SCC fallback under Decision (EU) 2021/914 may be used only after the correct module, annexes, transfer assessment and any necessary supplementary measures have been completed (see Annex Fallback Transfer Tool).
 
 ## Common mistakes
 
@@ -98,7 +99,7 @@ Fallback clause: [reference]
 - The entity is on the list but the privacy policy refers to data categories not included in the declaration.
 - Re-certification date has passed – listing is inactive but transfer continues.
 - Onward transfer to a further third country is missed.
-- No fallback clause; on Schrems III invalidation the transfer has no basis.
+- Treating a named fallback clause as self-executing even though the correct SCC module, annexes and transfer assessment have not been completed.
 - Confusing Swiss-US DPF with EU-US DPF.
 
 ## Cross-references
@@ -109,12 +110,13 @@ Fallback clause: [reference]
 - `tia-en-template-full` for the full English TIA template.
 - `us-transfer-tia-dokumentation` for the German output package skill.
 
-## Sources as of 06/2026
+## Sources as of 09/2026
 
-- Commission Implementing Decision (EU) 2023/1795 of 10 July 2023.
+- [Commission Implementing Decision (EU) 2023/1795 of 10 July 2023](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023D1795).
 - US Executive Order 14086 of 7 October 2022.
 - US Department of Commerce: DPF Principles and Supplemental Principles.
 - CJEU C-311/18 of 16 July 2020 (Schrems II).
-- European Commission, First Review of the EU-US DPF (Summer 2024) – verify against the official report.
-- Schrems III proceedings (NOYB) at the General Court of the EU – check current case status.
-- DPF list: dataprivacyframework.gov.
+- [European Commission, report on the first periodic review of the EU-US DPF, 9 October 2024, COM(2024) 451 final](https://commission.europa.eu/document/download/25695177-8073-4ce3-bf81-eb816dc6b468_en?filename=Report+on+the+first+periodic+review+of+the+functioning+of+the+adequacy+decision+on+the+EU-US+Data+Privacy+Framework.pdf).
+- [General Court, judgment of 3 September 2025, Latombe v Commission, T-553/23, ECLI:EU:T:2025:831](https://curia.europa.eu/juris/liste.jsf?num=T-553/23).
+- [Court of Justice, pending appeal filed on 31 October 2025, Latombe v Commission, C-703/25 P](https://curia.europa.eu/juris/liste.jsf?num=C-703/25%20P).
+- [Official DPF list](https://www.dataprivacyframework.gov/list).

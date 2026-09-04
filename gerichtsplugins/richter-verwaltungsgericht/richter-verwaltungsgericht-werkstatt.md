@@ -88,7 +88,7 @@ Entscheidungsgriff Arbeitsprodukt: Eingangsverfügung, Hinweis, Aufklärungsverf
 | --- | --- | --- | --- |
 | Streit- und Verfahrenskern | Finale Entscheidung als Volltext (Urteil Verwaltungsgericht) | VwGO Paragraf 40, Paragraf 42 und Paragraf 43 | richterlicher Arbeitsvermerk mit nächster Verfügung |
 | Zulässigkeit und Gehör | Antrag, Zuständigkeit, Parteistellung, Frist und Anhörung | VwGO Paragraf 47 und Paragraf 52 | Hinweis-, Auflagen- oder Zwischenentscheidungsentwurf |
-| Beweis und Würdigung | Amtsermittlung und Sachverhaltsfeststellung | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Beweisplan oder Beweisbeschluss mit Entscheidungsreife |
+| Beweis und Würdigung | Eilrechtsschutz nach Paragraf 80 Absatz 5 VwGO | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Beweisplan oder Beweisbeschluss mit Entscheidungsreife |
 | Tenor und Anschluss | Eingangsverfügung, Hinweis, Aufklärungsverfügung, Beschluss, Gerichtsbescheid, Urteil oder Vergleichsvorschlag ausformulieren | BVerwG, Urteil vom 17.02.1984 - 7 C 8.82 | Tenor, Gründe, Kosten, Vollstreckbarkeit und Rechtsmittelbelehrung |
 
 ## 5. Rechtsanker, Entscheidungsmerkmale, Beweislast und Tenorfolge
@@ -110,8 +110,6 @@ Entscheidungsgriff Arbeitsprodukt: Eingangsverfügung, Hinweis, Aufklärungsverf
 | BVerwG, Urteil vom 17.02.1984 - 7 C 8.82 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ob eine Regelung Inhaltsbestimmung oder selbständig anfechtbare Nebenbestimmung ist, richtet sich nach ihrem objektiven Erklärungsgehalt |
 | BVerwG, Urteil vom 21.11.1986 - 8 C 127.84 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei fehlender wirksamer Bekanntgabe kann die negative Feststellungsklage den Nichteintritt der Wirksamkeit klären |
 | BVerwG, Urteil vom 09.12.2015 - 6 C 37.14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine Nebenbestimmung darf fehlende Erlassvoraussetzungen überbrücken, nicht bloß deren zukünftigen Fortbestand absichern |
-| BVerfG, Beschluss vom 12.05.2005 - 1 BvR 569/05, frei nachweisbar über bundesverfassungsgericht.de/dejure | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Effektiver Eilrechtsschutz verlangt eine Folgenabwägung, wenn die Hauptsache nicht rechtzeitig geklärt werden kann |
-| BVerwG, Beschluss vom 13.09.2011 - 1 VR 1.11, frei nachweisbar über Rechtsprechung-im-Internet/dejure | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eilrechtsschutz muss summarische Rechtmäßigkeitsprüfung und Interessenabwägung nachvollziehbar verbinden |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Eingangsverfügung, Hinweis, Aufklärungsverfügung, Beschluss, Gerichtsbescheid, Urteil oder Vergleichsvorschlag ausformulieren
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -127,7 +125,6 @@ Entscheidungsgriff Arbeitsprodukt: Eingangsverfügung, Hinweis, Aufklärungsverf
 - VwGO Paragraf 124 und Paragraf 124a: Berufungszulassung und Darlegung nach dem konkreten Verfahrensausgang.
 - Paragrafen 113, 114 VwGO; Paragrafen 117, 118 VwGO für Urteilsaufbau; Paragraf 154 VwGO für Kosten; Paragraf 167 VwGO i.V.m; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 86 VwGO, Paragraf 80 und Paragraf 123 VwGO: Amtsermittlung, Eilrechtsschutz und Beweiswürdigung als Grundgerüst; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Artikel 103 Absatz 1 GG: entscheidungserheblicher Vortrag muss zur Kenntnis genommen und erwogen werden; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 65 VwGO, Paragraf 60 FGO oder Paragraf 75 SGG: notwendige Beiladung als frühes Stoppschild prüfen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 86 Absatz 3 VwGO als Leitbild: richterliche Hinweise verhindern Überraschungen und klären Anträge; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - VwGO Paragrafen 40, 42, 68, 80, 80a, 86, 113 und 123; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -137,9 +134,6 @@ Entscheidungsgriff Arbeitsprodukt: Eingangsverfügung, Hinweis, Aufklärungsverf
 - BVerwG, Urteil vom 17.02.1984 - 7 C 8.82: Ob eine Regelung Inhaltsbestimmung oder selbständig anfechtbare Nebenbestimmung ist, richtet sich nach ihrem objektiven Erklärungsgehalt.
 - BVerwG, Urteil vom 21.11.1986 - 8 C 127.84: Bei fehlender wirksamer Bekanntgabe kann die negative Feststellungsklage den Nichteintritt der Wirksamkeit klären.
 - BVerwG, Urteil vom 09.12.2015 - 6 C 37.14: Eine Nebenbestimmung darf fehlende Erlassvoraussetzungen überbrücken, nicht bloß deren zukünftigen Fortbestand absichern.
-- BVerfG, Beschluss vom 12.05.2005 - 1 BvR 569/05, frei nachweisbar über bundesverfassungsgericht.de/dejure: Effektiver Eilrechtsschutz verlangt eine Folgenabwägung, wenn die Hauptsache nicht rechtzeitig geklärt werden kann.
-- BVerwG, Beschluss vom 13.09.2011 - 1 VR 1.11, frei nachweisbar über Rechtsprechung-im-Internet/dejure: Eilrechtsschutz muss summarische Rechtmäßigkeitsprüfung und Interessenabwägung nachvollziehbar verbinden.
-- BVerfG, 19.05.1992 - 1 BvR 986/91: keine unerwartete Entscheidungswendung ohne Gehör.
 
 ## 9. Prüfraster
 
@@ -197,9 +191,9 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Finale Entscheidung als Volltext (Urteil Verwaltungsgericht) | Formuliere ein vollständiges Verwaltungsgerichtsurteil mit korrektem Rubrum, bestimmten Haupt- und Nebenentscheidungen, geschlossenem Sachverhalt, nachvollziehbarer Beweiswürdigung, tragender Subsumtion. | vollständiger richterlicher Entscheidungsentwurf mit Rubrum, Tenor, Streitstoff, Beweiswürdigung, Subsumtion, Kosten, Vollstreckbarkeit und Rechtsmittelbelehrung |
+| Eilrechtsschutz nach Paragraf 80 Absatz 5 VwGO | Einschlägiges Fachgesetz sowie spezialgesetzliche Regeln zur aufschiebenden Wirkung;. Bestimme das Rechtsschutzziel nach Paragraf 88 VwGO und identifiziere jeden angegriffenen Regelungsteil | vollständiger Eilbeschluss mit bestimmtem Antrag und Tenor, Glaubhaftmachung, Interessen- oder Folgenabwägung, Kosten, Streitwert und Anschlussverfügung |
 | Amtsermittlung und Sachverhaltsfeststellung | Lege entscheidungserhebliche Tatsachen, vorhandene Behördenakten, bestrittene Behauptungen und erreichbare Beweismittel offen. | richterlicher Arbeitsvermerk mit Streitgegenstand, Zulässigkeit, entscheidungserheblichen Tatsachen, Aufklärungsbedarf, Rechtsmaßstab, Tenoroption und nächster Verfügung |
 | Begründetheit Anfechtungsklage | Prüfe Ermächtigungsgrundlage, formelle und materielle Rechtmäßigkeit des Verwaltungsakts, maßgeblichen Entscheidungszeitpunkt, Rechtsverletzung und Tenor nach Paragraf 113 Absatz 1 VwGO. | richterlicher Arbeitsvermerk mit Streitgegenstand, Zulässigkeit, entscheidungserheblichen Tatsachen, Aufklärungsbedarf, Rechtsmaßstab, Tenoroption und nächster Verfügung |
-| Eilrechtsschutz Paragraf 80 Abs 5 | Bestimme Ausgangslage der aufschiebenden Wirkung, Anordnung der sofortigen Vollziehung, statthaften Antrag, Begründung nach Paragraf 80 Absatz 3 VwGO, Erfolgsaussichten, Interessenabwägung, Vollzugsfolgen. | vollständiger Eilbeschluss mit bestimmtem Antrag und Tenor, Glaubhaftmachung, Interessen- oder Folgenabwägung, Kosten, Streitwert und Anschlussverfügung |
 | Praxisraster Verwaltungsgericht | Führe für jeden Verfahrensabschnitt Zuständigkeit, Beteiligte, Antrag, Frist, Zustellung, Aktenzugang, Aufklärung, Termin, Tenor, Kosten, Vollstreckbarkeit und Rechtsmittel in einer richterlichen Kontrollliste. | richterlicher Arbeitsvermerk mit Streitgegenstand, Zulässigkeit, entscheidungserheblichen Tatsachen, Aufklärungsbedarf, Rechtsmaßstab, Tenoroption und nächster Verfügung |
 | Prozessuale Kniffe und Rechtsprechungsanker | Prüfe Klageänderung, objektive Klagehäufung, Beiladung, Fortsetzungsfeststellung, Erledigung, Ruhen, Aussetzung, Gerichtsbescheid, Entscheidung ohne mündliche Verhandlung, Präklusion und richterlichen Hinweis nur soweit. | richterlicher Arbeitsvermerk mit Streitgegenstand, Zulässigkeit, entscheidungserheblichen Tatsachen, Aufklärungsbedarf, Rechtsmaßstab, Tenoroption und nächster Verfügung |
 | Urteilsentwurf Paragraf 117 VwGO | Erstelle Rubrum, Tenor, Tatbestand oder zulässige Bezugnahmen, Entscheidungsgründe, Kosten, vorläufige Vollstreckbarkeit und Rechtsmittelzulassung nach Paragrafen 113, 117, 124 und 167 VwGO mit widerspruchsfreier. | vollständiger richterlicher Entscheidungsentwurf mit Rubrum, Tenor, Streitstoff, Beweiswürdigung, Subsumtion, Kosten, Vollstreckbarkeit und Rechtsmittelbelehrung |
@@ -214,23 +208,25 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Formuliere ein vollständiges Verwaltungsgerichtsurteil mit korrektem Rubrum, bestimmten Haupt- und Nebenentscheidungen, geschlossenem Sachverhalt, nachvollziehbarer Beweiswürdigung, tragender Subsumtion, Kostenentscheidung und Rechtsmittelbelehrung.
 Prüfschritte: Paragrafen 117, 118 VwGO für Urteilsaufbau; Paragraf 167 VwGO in Verbindung mit ZPO für Vollstreckbarkeit; Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein; Rubrum mit allen Parteien, Vertretern und Aktenzeichen; vollständig erfasster Sachverhalt und Streitstand.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragrafen 113, 114 VwGO; Paragrafen 117, 118 VwGO für Urteilsaufbau; Paragraf 154 VwGO für Kosten; Paragraf 167 VwGO in Verbindung mit ZPO für Vollstreckbarkeit; Paragrafen 117, 118 VwGO für Urteilsaufbau; Paragraf 167 VwGO in Verbindung mit ZPO für Vollstreckbarkeit.
+Normbezug aus dem Fachmaterial: Paragrafen 113, 114 VwGO; Paragrafen 117, 118 VwGO für Urteilsaufbau; Paragraf 154 VwGO für Kosten; Paragraf 167 VwGO in Verbindung mit ZPO für Vollstreckbarkeit.
 Lieferstück: vollständiger richterlicher Entscheidungsentwurf mit Rubrum, Tenor, Streitstoff, Beweiswürdigung, Subsumtion, Kosten, Vollstreckbarkeit und Rechtsmittelbelehrung.
 
-### 16.2. Amtsermittlung und Sachverhaltsfeststellung
+### 16.2. Eilrechtsschutz nach Paragraf 80 Absatz 5 VwGO
+
+Bearbeitungsauftrag: Einschlägiges Fachgesetz sowie spezialgesetzliche Regeln zur aufschiebenden Wirkung;. Bestimme das Rechtsschutzziel nach Paragraf 88 VwGO und identifiziere jeden angegriffenen Regelungsteil.
+Prüfschritte: Angegriffener Verwaltungsakt mit Zustell- oder Bekanntgabenachweis; Widerspruch, Anfechtungsklage und Eingangsbestätigungen; Anordnung der sofortigen Vollziehung und deren Begründung; vollständige Verwaltungsvorgänge einschließlich Anhörung und Fachstellungnahmen; Angaben zu bereits begonnenem Vollzug, drohenden Folgen und möglichen Sicherungsauflagen.
+Normbezug aus dem Fachmaterial: Prüfe Anträge nach Paragraf 80 Absatz 5 VwGO aus richterlicher Perspektive, trennt Anordnung und Wiederherstellung der aufschiebenden Wirkung und erstellt einen begründeten Eilbeschluss mit Tenor, Kosten und Streitwert.
+Lieferstück: vollständiger Eilbeschluss mit bestimmtem Antrag und Tenor, Glaubhaftmachung, Interessen- oder Folgenabwägung, Kosten, Streitwert und Anschlussverfügung.
+
+### 16.3. Amtsermittlung und Sachverhaltsfeststellung
 
 Bearbeitungsauftrag: Lege entscheidungserhebliche Tatsachen, vorhandene Behördenakten, bestrittene Behauptungen und erreichbare Beweismittel offen; steuere Aktenbeiziehung, Aufklärungsverfügung, Erörterung, Beweisbeschluss und Grenzen der Amtsermittlung nach Paragraf 86 VwGO.
 Lieferstück: richterlicher Arbeitsvermerk mit Streitgegenstand, Zulässigkeit, entscheidungserheblichen Tatsachen, Aufklärungsbedarf, Rechtsmaßstab, Tenoroption und nächster Verfügung.
 
-### 16.3. Begründetheit Anfechtungsklage
+### 16.4. Begründetheit Anfechtungsklage
 
 Bearbeitungsauftrag: Prüfe Ermächtigungsgrundlage, formelle und materielle Rechtmäßigkeit des Verwaltungsakts, maßgeblichen Entscheidungszeitpunkt, Rechtsverletzung und Tenor nach Paragraf 113 Absatz 1 VwGO; behandle Teilaufhebung und Ermessensfehler gesondert.
 Lieferstück: richterlicher Arbeitsvermerk mit Streitgegenstand, Zulässigkeit, entscheidungserheblichen Tatsachen, Aufklärungsbedarf, Rechtsmaßstab, Tenoroption und nächster Verfügung.
-
-### 16.4. Eilrechtsschutz Paragraf 80 Abs 5
-
-Bearbeitungsauftrag: Bestimme Ausgangslage der aufschiebenden Wirkung, Anordnung der sofortigen Vollziehung, statthaften Antrag, Begründung nach Paragraf 80 Absatz 3 VwGO, Erfolgsaussichten, Interessenabwägung, Vollzugsfolgen und tenorierbare Wiederherstellung oder Anordnung.
-Lieferstück: vollständiger Eilbeschluss mit bestimmtem Antrag und Tenor, Glaubhaftmachung, Interessen- oder Folgenabwägung, Kosten, Streitwert und Anschlussverfügung.
 
 ### 16.5. Praxisraster Verwaltungsgericht
 

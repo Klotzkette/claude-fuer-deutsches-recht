@@ -92,7 +92,7 @@ Entscheidungsgriff Arbeitsprodukt: Anklagesatz, Eröffnungsbeschluss, Verfügung
 | StPO Paragraf 261 und Paragraf 267 | freie Beweiswürdigung und Urteilsgründe | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Anklagesatz, Eröffnungsbeschluss, Verfügung, Urteilsgründe oder Strafzumessungsteil ausformulieren |
 | StGB Paragraf 46 | Grundsätze der Strafzumessung | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Anklagesatz, Eröffnungsbeschluss, Verfügung, Urteilsgründe oder Strafzumessungsteil ausformulieren |
 | StPO Paragraf 407 ff | Strafbefehlsverfahren | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Anklagesatz, Eröffnungsbeschluss, Verfügung, Urteilsgründe oder Strafzumessungsteil ausformulieren |
-| Paragraf 55-StGB-Disziplin | Bei Vorverurteilungen immer Tatzeiten, Entscheidungsdaten, Rechtskraft, Vollstreckungsstand, erledigte/nicht erledigte Strafen und Zäsurwirkung als Tabelle | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Anklagesatz, Eröffnungsbeschluss, Verfügung, Urteilsgründe oder Strafzumessungsteil ausformulieren |
+| Paragraf 55-StGB-Disziplin | Bei Vorverurteilungen immer Tatzeiten, Entscheidungsdaten, Rechtskraft, Vollstreckungsstand, erledigte/nicht erledigte Strafen und Zäsurwirkung als Tabelle verlangen | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Anklagesatz, Eröffnungsbeschluss, Verfügung, Urteilsgründe oder Strafzumessungsteil ausformulieren |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Entscheidungswirkung
 
@@ -114,8 +114,8 @@ Entscheidungsgriff Arbeitsprodukt: Anklagesatz, Eröffnungsbeschluss, Verfügung
 - StPO Paragraf 261 und Paragraf 267: freie Beweiswürdigung und Urteilsgründe.
 - StGB Paragraf 46: Grundsätze der Strafzumessung.
 - StPO Paragraf 407 ff.: Strafbefehlsverfahren.
-- Paragraf 55-StGB-Disziplin: Bei Vorverurteilungen immer Tatzeiten, Entscheidungsdaten, Rechtskraft, Vollstreckungsstand, erledigte/nicht erledigte Strafen und Zäsurwirkung als Tabelle; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 153a StPO erlaubt die Einstellung des Verfahrens gegen Auflagen oder Weisungen, wenn das öffentliche Interesse an der Strafverfolgung beseitigt werden kann und die Schwere; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 55-StGB-Disziplin: Bei Vorverurteilungen immer Tatzeiten, Entscheidungsdaten, Rechtskraft, Vollstreckungsstand, erledigte/nicht erledigte Strafen und Zäsurwirkung als Tabelle verlangen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 153a StPO erlaubt die Einstellung des Verfahrens gegen Auflagen oder Weisungen, wenn das öffentliche Interesse an der Strafverfolgung beseitigt werden kann und die Schwere der Schuld nicht entgegensteht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 153a Abs. 1 StPO — Vorläufige Einstellung mit Auflagen durch die Staatsanwaltschaft (mit Zustimmung des Gerichts, ab dem Zwischenverfahren bereits Gerichts-Zustimmung); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 153a Abs. 2 StPO — Einstellung durch das Gericht in jedem Stadium; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 153a Abs. 3 StPO — Auflagenkatalog; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -209,13 +209,13 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 
 Bearbeitungsauftrag: Nachträgliche Gesamtstrafenbildung nach Paragraf 55 StGB. Paragraf 55 StGB ermöglicht eine nachträgliche Bildung einer Gesamtstrafe, wenn ein bereits rechtskräftig Verurteilter wegen einer anderen Tat verurteilt wird, die er vor der früheren Verurteilung begangen hat. Es findet eine rückwirkende Gesamtbetrachtung statt — so, als wären beide Taten in einem Verfahren entschieden worden.
 Prüfschritte: Voraussetzung: spätere Tat wurde vor einer früheren Verurteilung begangen (Zäsurwirkung); Beschluss-Verfahren Paragraf 460 StPO; Einbeziehung rechtskräftiger Strafen; Härteausgleich, wenn die Einbeziehung nicht möglich ist (Bewährung bereits erledigt, Strafvollstreckung beendet); Verteidigung im Vollstreckungsstadium.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Nachträgliche Gesamtstrafenbildung nach Paragraf 55 StGB; Beschluss-Verfahren Paragraf 460 StPO; Voraussetzung: spätere Tat wurde vor einer früheren Verurteilung begangen (Zäsurwirkung); Beschluss-Verfahren Paragraf 460 StPO; Einbeziehung rechtskräftiger Strafen.
+Normbezug aus dem Fachmaterial: Nachträgliche Gesamtstrafenbildung nach Paragraf 55 StGB; Beschluss-Verfahren Paragraf 460 StPO.
 Lieferstück: Entscheidungsbaustein zu Nachträgliche Gesamtstrafenbildung — Paragraf 55 StGB mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.3. Strafmilderung — Paragraf 49 StGB
 
 Bearbeitungsauftrag: Anwendungsfälle Versuch Paragraf 23 Absatz 2, Beihilfe Paragraf 27 Absatz 2, persönliche Merkmale Paragraf 28 Absatz 1, verminderte Schuldfähigkeit Paragraf 21, Verbotsirrtum Paragraf 17, TOA Paragraf 46a. Paragraf 49 StGB enthält die technische Anleitung, wie der Strafrahmen verschoben wird, wenn das Gesetz auf die Milderung verweist. Absatz 1 ist eine zwingende Milderung mit konkret bestimmten Bezugsgrößen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Strafmilderung nach Paragraf 49 StGB.
+Normbezug aus dem Fachmaterial: Strafmilderung nach Paragraf 49 StGB.
 Lieferstück: Entscheidungsbaustein zu Strafmilderung — Paragraf 49 StGB mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.4. Strafzumessung vom Strafbefehl bis zur großen Strafkammer
@@ -227,32 +227,32 @@ Lieferstück: Entscheidungsbaustein zu Strafzumessung vom Strafbefehl bis zur gr
 
 Bearbeitungsauftrag: Begründungsanforderungen an die Strafzumessung im Strafurteil Paragraf 267 Absatz 3 StPO. Das Strafurteil muss die bestimmenden Strafzumessungsgründe in seinen Gründen mitteilen (Paragraf 267 Absatz 3 Satz 1 StPO). Bei Versagung der Bewährung sind die Gründe ausdrücklich darzulegen (Paragraf 267 Absatz 3 Satz 4 StPO).
 Prüfschritte: Pflicht zur Mitteilung der bestimmenden Strafzumessungsgründe; Strafrahmen, Schuldrahmen, Strafzumessungstatsachen Paragraf 46 Absatz 2 StGB; Bewährungs- und Strafaussetzungsbegründung; Strafzumessungsrüge im Revisionsverfahren; Typische Aufhebungsgründe: Pauschalbegründung Doppelverwertung Schweigen Prävention vor Schuld.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Begründungsanforderungen an die Strafzumessung im Strafurteil Paragraf 267 Absatz 3 StPO; Strafrahmen, Schuldrahmen, Strafzumessungstatsachen Paragraf 46 Absatz 2 StGB; Pflicht zur Mitteilung der bestimmenden Strafzumessungsgründe; Strafrahmen, Schuldrahmen, Strafzumessungstatsachen Paragraf 46 Absatz 2 StGB; Bewährungs- und Strafaussetzungsbegründung.
+Normbezug aus dem Fachmaterial: Begründungsanforderungen an die Strafzumessung im Strafurteil Paragraf 267 Absatz 3 StPO; Strafrahmen, Schuldrahmen, Strafzumessungstatsachen Paragraf 46 Absatz 2 StGB.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
 ### 16.6. Freiheitsstrafe ohne Bewährung — Vollstreckung
 
 Bearbeitungsauftrag: Anrechnung Untersuchungshaft und Auslieferungshaft Paragraf 51 StGB. Vollstreckungsplanung Reststrafenaussetzung Paragraf 57 StGB Halbstrafe Drittel. Wichtige Stellschrauben sind die Anrechnung der U-Haft (Paragraf 51 StGB), die Reststrafenaussetzung (Paragrafen 57, 57a StGB), Strafaufschub (Paragraf 456 StPO), Strafunterbrechung (Paragraf 455 StPO) und Paragraf 35 BtMG.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Anrechnung Untersuchungshaft und Auslieferungshaft Paragraf 51 StGB; Vollstreckungsplanung Reststrafenaussetzung Paragraf 57 StGB Halbstrafe Drittel; Lebenslang Paragraf 57a StGB.
+Normbezug aus dem Fachmaterial: Anrechnung Untersuchungshaft und Auslieferungshaft Paragraf 51 StGB; Vollstreckungsplanung Reststrafenaussetzung Paragraf 57 StGB Halbstrafe Drittel; Lebenslang Paragraf 57a StGB.
 Lieferstück: Entscheidungsbaustein zu Freiheitsstrafe ohne Bewährung — Vollstreckung mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.7. Härteausgleich bei nachträglicher Gesamtstrafenbildung
 
 Bearbeitungsauftrag: Wenn eine nachträgliche Gesamtstrafenbildung nach Paragraf 55 StGB nicht möglich ist — typischerweise weil die frühere Strafe bereits vollstreckt, verjährt oder erlassen ist (auch nach abgelaufener Bewährung) —, kann der Härteausgleich als nicht-kodifiziertes, von der ständigen Rechtsprechung entwickeltes Instrument zum Tragen kommen. Auslandsstrafen liegen vor und können nicht einbezogen werden. Paragraf 55 StGB — Nachträgliche Gesamtstrafenbildung; vgl.
 Prüfschritte: Er gleicht die zufälligen Nachteile aus, die durch die getrennte Aburteilung entstehen; Mandant ist bereits einmal verurteilt; Eine weitere Tat des Mandanten, die er vor der früheren Verurteilung begangen hat, wird nun abgeurteilt; Sie prüfen ein Urteil, das die Sondersituation übersehen hat.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Wenn eine nachträgliche Gesamtstrafenbildung nach Paragraf 55 StGB nicht möglich ist — typischerweise weil die frühere Strafe bereits vollstreckt, verjährt oder erlassen ist (auch nach abgelaufener Bewährung) —, kann der Härteausgleich als nicht-kodifiziertes.
+Normbezug aus dem Fachmaterial: Wenn eine nachträgliche Gesamtstrafenbildung nach Paragraf 55 StGB nicht möglich ist — typischerweise weil die frühere Strafe bereits vollstreckt, verjährt oder erlassen ist (auch nach abgelaufener Bewährung) —, kann der Härteausgleich als nicht-kodifiziertes.
 Lieferstück: Entscheidungsbaustein zu Härteausgleich bei nachträglicher Gesamtstrafenbildung mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.8. Strafzumessung im Jugendstrafrecht
 
 Bearbeitungsauftrag: Maßnahmen-Trio: Erziehungsmassregeln Paragrafen 9-12 JGG, Zuchtmittel Paragrafen 13-16 JGG, Jugendstrafe Paragrafen 17-18 JGG. Das Jugendgerichtsgesetz (JGG) gilt für Jugendliche (14 bis unter 18 Jahre) und unter bestimmten Voraussetzungen für Heranwachsende (18 bis unter 21 Jahre, Paragraf 105 JGG). Tragend ist der Erziehungsgedanke (Paragraf 2 JGG).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Erziehungsgedanke Paragraf 2 JGG.
+Normbezug aus dem Fachmaterial: Erziehungsgedanke Paragraf 2 JGG.
 Lieferstück: Entscheidungsbaustein zu Strafzumessung im Jugendstrafrecht mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.9. Täter-Opfer-Ausgleich und Schadenswiedergutmachung — Paragraf 46a StGB
 
 Bearbeitungsauftrag: Täter-Opfer-Ausgleich Paragraf 46a StGB und Schadenswiedergutmachung als Strafmilderung oder Absehen von Strafe. Rechtsfolge Paragraf 49 Absatz 1 StGB oder Absehen bei Strafe nicht über 1 Jahr. Paragraf 46a StGB ermöglicht eine Strafmilderung nach Paragraf 49 Absatz 1 StGB oder bei Strafe nicht über 1 Jahr Freiheitsstrafe oder Geldstrafe bis 360 Tagessätzen sogar das Absehen von Strafe.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Täter-Opfer-Ausgleich Paragraf 46a StGB und Schadenswiedergutmachung als Strafmilderung oder Absehen von Strafe; Nummer 1 Wiedergutmachung gegenüber dem Verletzten erfordert friedensstiftenden kommunikativen Prozess (BGH 4 StR 232/25 vom 20.11.2025).
+Normbezug aus dem Fachmaterial: Täter-Opfer-Ausgleich Paragraf 46a StGB und Schadenswiedergutmachung als Strafmilderung oder Absehen von Strafe.
 Lieferstück: Entscheidungsbaustein zu Täter-Opfer-Ausgleich und Schadenswiedergutmachung — Paragraf 46a StGB mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.10. Minder schwerer Fall und besonders schwerer Fall
@@ -269,5 +269,5 @@ Lieferstück: Entscheidungsbaustein zu Strafrahmen und Strafzumessungsstufen mit
 ### 16.12. Auflagen und Weisungen — Paragrafen 56b, 56c StGB
 
 Bearbeitungsauftrag: Auflagen Paragraf 56b StGB und Weisungen Paragraf 56c StGB im Bewährungsbeschluss. Bei Aussetzung zur Bewährung kann das Gericht Auflagen (Paragraf 56b StGB) und Weisungen (Paragraf 56c StGB) erteilen. Weisungen dienen der Lebensführung und Resozialisierung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Auflagen Paragraf 56b StGB und Weisungen Paragraf 56c StGB im Bewährungsbeschluss.
+Normbezug aus dem Fachmaterial: Auflagen Paragraf 56b StGB und Weisungen Paragraf 56c StGB im Bewährungsbeschluss.
 Lieferstück: Entscheidungsbaustein zu Auflagen und Weisungen — Paragrafen 56b, 56c StGB mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.

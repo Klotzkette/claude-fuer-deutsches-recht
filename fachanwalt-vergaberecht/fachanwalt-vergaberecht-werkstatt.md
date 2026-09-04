@@ -130,10 +130,6 @@ Arbeitsgriff Arbeitsprodukt: Rügeschreiben, Nachprüfungsantrag, Auftraggeberve
 - EuGH, Urteil vom 19.06.2008 - C-454/06: Pressetext grenzt wesentliche Vertragsänderungen nach Zuschlag ab.
 - EuGH, Urteil vom 10.09.2009 - C-206/08: Eurawasser ordnet Dienstleistungskonzessionen anhand des Betriebsrisikos ein.
 - BGH, Beschluss vom 08.02.2011 - X ZB 4/10: Gemeinwirtschaftliche Eisenbahnleistungen fallen nicht generell aus dem GWB-Vergaberecht; eine Dienstleistungskonzession setzt nach einer Gesamtbetrachtung die Übernahme zumindest eines wesentlichen Teils des Betriebsrisikos voraus.
-- EuGH 11.06.2009, C-300/07 (Hans & Christophorus Oymanns): Begriff des öffentlichen Auftraggebers nach RL 2004/18; Krankenkassen als Einrichtungen öffentlichen Rechts. Quelle: curia.europa.eu (CELEX 62007CJ0300).
-- EuGH 19.12.2018, C-216/17 (Coopservice): Ausschreibungspflicht Rahmenvereinbarungen; Volumenbegrenzungen zwingend. Quelle: curia.europa.eu.
-- EuGH 28.10.2020, C-521/18 (Pegaso): Vergabe ohne wettbewerbliches Verfahren — De-facto-Vergabe ist nichtig nach Art. 2d RL 89/665 / Paragraf 135 GWB, wenn EU-weite Bekanntmachung pflichtwidrig unterblieben ist. Quelle: curia.europa.eu.
-- EuGH 27.11.2019, C-402/18 (Tedeschi): Direktvergabe — Inhouse-Voraussetzungen Paragraf 108 GWB / Art. 12 RL 2014/24 strikt: Kontrolle wie eigene Stelle, über 80% Tätigkeit für kontrollierende Behörde, keine private Kapitalbeteiligung. Quelle: curia.europa.eu.
 
 ## 9. Prüfraster
 
@@ -195,9 +191,9 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Schriftsatzkern Substantiierung | Klassischer Antrag-Block; je nach Verfahrenstyp:. Leistungsantrag (zu zahlen, zu unterlassen, zu beseitigen, herauszugeben). Feststellungsantrag (Feststellungsinteresse darlegen) | Beweismatrix zu Schriftsatzkern Substantiierung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
 | Vergabesperre und Selbstreinigung | Bearbeite Vergabesperre und Selbstreinigung: rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Verhandlungsblatt zu Vergabesperre und Selbstreinigung mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug |
 | IT-Sicherheits-Vergabe für KRITIS-Betreiber und Bundesbehörden | Ist der Auftraggeber KRITIS-Betreiber nach Paragraf 2 Absatz 10 BSIG oder fällt er unter NIS2 (besonders wichtige Einrichtung / wichtige Einrichtung nach NIS2UmsuCG)? | Fachvotum zu IT-Sicherheits-Vergabe für KRITIS-Betreiber und Bundesbehörden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
-| Angebot, Formfehler, Preisblatt und Ausschlussrisiken prüfen | Verfahrensstand klären: Markterkundung, Bekanntmachung, Angebotsphase, Wertung, Paragraph 134 GWB, Zuschlag, Vertrag, Nachprüfung, Beschwerde oder Schadensersatz. | Fachvotum zu Angebot, Formfehler, Preisblatt und Ausschlussrisiken prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | Aufklärung, Nachforderung und Angebotsaufklärung steuern | Verfahrensstand klären: Markterkundung, Bekanntmachung, Angebotsphase, Wertung, Paragraph 134 GWB, Zuschlag, Vertrag, Nachprüfung, Beschwerde oder Schadensersatz. | Fachvotum zu Aufklärung, Nachforderung und Angebotsaufklärung steuern mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Leitfaden Eignungsprüfung Paragraf 122 GWB | Eignungsanforderungen festlegen Paragraf 122 II GWB, Paragrafen 42-46 VgV (oberschwellig) bzw. Befähigung und Erlaubnis zur Berufsausübung (Paragraf 44 VgV). | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| Freiberufliche Leistungen HOAI | Freiberufliche Leistungen sind regelmäßig nicht eindeutig und erschöpfend beschreibbar, daher Verhandlungsverfahren mit TW zulässig. Anonymisiertes Wettbewerbsverfahren mit Jury (RPW 2013). | Fachvotum zu Freiberufliche Leistungen HOAI mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -219,59 +215,58 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 
 Bearbeitungsauftrag: Schadensersatz nach abgeschlossenem Vergabeverfahren geltend machen oder abwehren. Anspruchsgrundlage je nach Konstellation Paragraf 181 GWB, Paragrafen 280, 311 BGB i. Verjährung im Blick (Paragraf 195 BGB drei Jahre, Kenntnis erforderlich)?
 Prüfschritte: Anspruchsgrundlage je nach Konstellation Paragraf 181 GWB, Paragrafen 280, 311 BGB in Verbindung mit Paragraf 241 Absatz 2 BGB, ggf.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Anspruchsgrundlage je nach Konstellation Paragraf 181 GWB, Paragrafen 280, 311 BGB in Verbindung mit Paragraf 241 Absatz 2 BGB, ggf; Paragraf 826 BGB bei Vorsatz.
+Normbezug aus dem Fachmaterial: Anspruchsgrundlage je nach Konstellation Paragraf 181 GWB, Paragrafen 280, 311 BGB in Verbindung mit Paragraf 241 Absatz 2 BGB, ggf; Paragraf 826 BGB bei Vorsatz.
 Lieferstück: Fachvotum zu Schadensersatz 181 GWB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Schriftsatzkern Substantiierung
 
 Bearbeitungsauftrag: Klassischer Antrag-Block; je nach Verfahrenstyp:. Leistungsantrag (zu zahlen, zu unterlassen, zu beseitigen, herauszugeben). Feststellungsantrag (Feststellungsinteresse darlegen).
 Prüfschritte: Es soll ein vollwertiger Schriftsatz im Bereich Vergaberecht (Oberschwellen- und Unterschwellenvergabe) erstellt werden, typischerweise: Nachprüfungsantrag VK, Sofortige Beschwerde OLG, Schadensersatzklage Paragraf 181 GWB; Vergleichsverhandlung sind abgeschlossen oder gescheitert; Klage-, Widerspruchs-, Einspruchs-, Rechtsmittel-Frist ist bekannt und im Kalender eingetragen; Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!); Zustellungsanschrift Bevollmächtigte.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Es soll ein vollwertiger Schriftsatz im Bereich Vergaberecht (Oberschwellen- und Unterschwellenvergabe) erstellt werden, typischerweise: Nachprüfungsantrag VK, Sofortige Beschwerde OLG, Schadensersatzklage Paragraf 181 GWB; Die Mandatsannahme und ggf.
+Normbezug aus dem Fachmaterial: Es soll ein vollwertiger Schriftsatz im Bereich Vergaberecht (Oberschwellen- und Unterschwellenvergabe) erstellt werden, typischerweise: Nachprüfungsantrag VK, Sofortige Beschwerde OLG, Schadensersatzklage Paragraf 181 GWB; Die Mandatsannahme und ggf.
 Lieferstück: Beweismatrix zu Schriftsatzkern Substantiierung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
 
 ### 16.5. Vergabesperre und Selbstreinigung
 
 Bearbeitungsauftrag: Bearbeite Vergabesperre und Selbstreinigung: rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Vergabesperre verhindern, aufheben oder durchsetzen; Paragraf 125 GWB-Selbstreinigung ist der zentrale Ausweg; Wettbewerbsregister Paragraf 8 WRegG ist die zentrale Eintragungsstelle.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 125 GWB-Selbstreinigung ist der zentrale Ausweg; Wettbewerbsregister Paragraf 8 WRegG ist die zentrale Eintragungsstelle; Vergabesperre verhindern, aufheben oder durchsetzen; Paragraf 125 GWB-Selbstreinigung ist der zentrale Ausweg; Wettbewerbsregister Paragraf 8 WRegG ist die zentrale Eintragungsstelle.
+Normbezug aus dem Fachmaterial: Paragraf 125 GWB-Selbstreinigung ist der zentrale Ausweg; Wettbewerbsregister Paragraf 8 WRegG ist die zentrale Eintragungsstelle; Vergabesperre verhindern, aufheben oder durchsetzen; Paragraf 125 GWB-Selbstreinigung ist der zentrale Ausweg; Wettbewerbsregister Paragraf 8 WRegG ist die zentrale Eintragungsstelle.
 Lieferstück: Verhandlungsblatt zu Vergabesperre und Selbstreinigung mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
 
 ### 16.6. IT-Sicherheits-Vergabe für KRITIS-Betreiber und Bundesbehörden
 
 Bearbeitungsauftrag: Ist der Auftraggeber KRITIS-Betreiber nach Paragraf 2 Absatz 10 BSIG oder fällt er unter NIS2 (besonders wichtige Einrichtung / wichtige Einrichtung nach NIS2UmsuCG)? Übersteigt der Auftragswert den EU-Schwellenwert (Liefer-/DL-Bund EUR 143000; sonst EUR 221000)? Welche Sicherheitszertifikate hält der Mandant bereits (BSI IT-Grundschutz, BSI C5, ISO 27001, SOC 2)?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Ist der Auftraggeber KRITIS-Betreiber nach Paragraf 2 Absatz 10 BSIG oder fällt er unter NIS2 (besonders wichtige Einrichtung / wichtige Einrichtung nach NIS2UmsuCG)?
+Normbezug aus dem Fachmaterial: Ist der Auftraggeber KRITIS-Betreiber nach Paragraf 2 Absatz 10 BSIG oder fällt er unter NIS2 (besonders wichtige Einrichtung / wichtige Einrichtung nach NIS2UmsuCG)?
 Lieferstück: Fachvotum zu IT-Sicherheits-Vergabe für KRITIS-Betreiber und Bundesbehörden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Angebot, Formfehler, Preisblatt und Ausschlussrisiken prüfen
-
-Bearbeitungsauftrag: Verfahrensstand klären: Markterkundung, Bekanntmachung, Angebotsphase, Wertung, Paragraph 134 GWB, Zuschlag, Vertrag, Nachprüfung, Beschwerde oder Schadensersatz. Schwellenwert und Rechtsweg prüfen: Oberschwelle, Unterschwelle, Sektoren, Konzession, Verteidigung/Sicherheit, Fördermittel oder Sonderregime. Fristen sichern: Ruge, Angebotsfrist, Stillhaltefrist, 15-Tage-Frist nach Nichtabhilfe, Beschwerdefrist, Paragraph 135 GWB-Fristen.
-Prüfschritte: Rolle klären: Auftraggeber, Bieter, Beigeladener, Fördermittelempfänger, Projektsteuerer oder Kanzlei.
-Lieferstück: Fachvotum zu Angebot, Formfehler, Preisblatt und Ausschlussrisiken prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.8. Aufklärung, Nachforderung und Angebotsaufklärung steuern
+### 16.7. Aufklärung, Nachforderung und Angebotsaufklärung steuern
 
 Bearbeitungsauftrag: Verfahrensstand klären: Markterkundung, Bekanntmachung, Angebotsphase, Wertung, Paragraph 134 GWB, Zuschlag, Vertrag, Nachprüfung, Beschwerde oder Schadensersatz. Fristen sichern: Ruge, Angebotsfrist, Stillhaltefrist, 15-Tage-Frist nach Nichtabhilfe, Beschwerdefrist, Paragraph 135 GWB-Fristen. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
 Prüfschritte: Rolle klären: Auftraggeber, Bieter, Beigeladener, Fördermittelempfänger, Projektsteuerer oder Kanzlei.
 Lieferstück: Fachvotum zu Aufklärung, Nachforderung und Angebotsaufklärung steuern mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Leitfaden Eignungsprüfung Paragraf 122 GWB
+### 16.8. Leitfaden Eignungsprüfung Paragraf 122 GWB
 
 Bearbeitungsauftrag: Eignungsanforderungen festlegen Paragraf 122 II GWB, Paragrafen 42-46 VgV (oberschwellig) bzw. Befähigung und Erlaubnis zur Berufsausübung (Paragraf 44 VgV). Technische und berufliche Leistungsfähigkeit (Paragraf 46 VgV: Referenzen, Qualifikation, Ausrüstung).
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.10. Freiberufliche Leistungen HOAI
+### 16.9. Freiberufliche Leistungen HOAI
 
 Bearbeitungsauftrag: Freiberufliche Leistungen sind regelmäßig nicht eindeutig und erschöpfend beschreibbar, daher Verhandlungsverfahren mit TW zulässig. Anonymisiertes Wettbewerbsverfahren mit Jury (RPW 2013). Anschluss-Vergabe an Sieger über Verhandlungsverfahren ohne TW (Paragraf 14 Absatz 4 Nummer 8 VgV) zulässig.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: S. Paragraf 18 EStG?
+Normbezug aus dem Fachmaterial: S. Paragraf 18 EStG?
 Lieferstück: Fachvotum zu Freiberufliche Leistungen HOAI mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Inhouse-Geschäft und interkommunale Zusammenarbeit vergaberechtlich prüfen
+### 16.10. Inhouse-Geschäft und interkommunale Zusammenarbeit vergaberechtlich prüfen
 
 Bearbeitungsauftrag: Wesentlichkeit: Mindestens 80 Prozent Tätigkeit für kontrollierende öffentliche Hand? Auch durch gemeinsame Kontrolle mehrerer öffentlicher Auftraggeber möglich (Paragraf 108 Absatz 4 GWB). Mindestens 80 Prozent der Tätigkeit des kontrollierten Auftragnehmers für die kontrollierende öffentliche Hand.
 Prüfschritte: Wer ist Auftraggeber, wer ist Auftragnehmer (gleicher öffentlicher Auftraggeber, Tochter, Schwester-Kommune)?
 Lieferstück: Fachvotum zu Inhouse-Geschäft und interkommunale Zusammenarbeit vergaberechtlich prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Interaktives Vergabe-Padlet als Canvas erstellen
+### 16.11. Interaktives Vergabe-Padlet als Canvas erstellen
 
 Bearbeitungsauftrag: Bearbeite Interaktives Vergabe-Padlet als Canvas erstellen: rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Lieferstück: Fachvotum zu Interaktives Vergabe-Padlet als Canvas erstellen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Vergabekammerverfahren operativ führen
+
+Bearbeitungsauftrag: Antrag oder Stellungnahme an die Vergabekammer. Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie [Name der Mandantin] werden klar markiert, der umgebende Text bleibt vollständig.
+Lieferstück: Fachvotum zu Vergabekammerverfahren operativ führen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

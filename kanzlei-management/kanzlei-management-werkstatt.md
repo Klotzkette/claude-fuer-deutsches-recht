@@ -79,7 +79,7 @@ Produktionsgriff Mandat abschließen: Ergebnis, offene Vollstreckung, Rechnung, 
 | --- | --- | --- | --- |
 | Eingang | RVG und Honorarvereinbarung | BRAO Paragraf 43a Absatz 2 und Absatz 4 | Dokumentenregister mit maßgeblicher Fassung |
 | Form und Technik | Dateityp, Lesbarkeit, Benennung, Signatur und Ausgabeweg | BRAO Paragraf 43e | Prüfprotokoll mit konkreter Korrektur |
-| Vollständigkeit | Mandatsannahme Risk Committee | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Anlagen- und Fehlteilliste mit Verantwortlichem |
+| Vollständigkeit | Qualitätsmanagement Kanzlei | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Anlagen- und Fehlteilliste mit Verantwortlichem |
 | Freigabe und Übergabe | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt | Öffnungsprobe, Freigabe und Übergabenachweis | fertiges Exportpaket oder Übergabevermerk |
 
 ## 5. Anforderungen, Qualitätsmerkmale, Nachweis und Ausgabe
@@ -167,7 +167,6 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | RVG und Honorarvereinbarung | Managementproblem (RVG und Honorarvereinbarung): Prüft Pricing gegen RVG, Paragraf 3a RVG, Paragraf 49b BRAO und Dokumentation. | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
-| Mandatsannahme Risk Committee | Managementproblem (Mandatsannahme Risk Committee): Richtet Verfahren für heikle Mandate mit GwG, Sanktionen und Reputation ein. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Qualitätsmanagement Kanzlei | Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter. | geprüftes Übergabepaket zu Qualitätsmanagement Kanzlei mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | 13-Wochen-Cashflow | Managementproblem (13-Wochen-Cashflow): Erstellt rollierende Liquiditätsvorschau mit Gehältern, Miete, Steuern und Entnahmen. | geprüftes Übergabepaket zu 13-Wochen-Cashflow mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | Compliance-Kalender Kanzlei | Managementproblem (Compliance-Kalender Kanzlei): Versicherung, Kammer, Datenschutz, Arbeitsschutz, Steuern, IT. | Kontrollvermerk zu Compliance-Kalender Kanzlei mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
@@ -175,6 +174,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Equity-Partner-Modell | Managementproblem (Equity-Partner-Modell): Analysiert Equity, Fixed Share, Salary Partner, Counsel, Eintritt und Austritt. | geprüftes Übergabepaket zu Equity-Partner-Modell mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | algorithmische Systeme und Legal Ops in der Kanzlei | Managementproblem (algorithmische Systeme und Legal Ops in der Kanzlei): Plant System-Einsatz mit Datenklassen, Freigaben, Human Review und Wirtschaftlichkeit. | geprüftes Übergabepaket zu algorithmische Systeme und Legal Ops in der Kanzlei mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | Partner Performance Review | Managementproblem (Partner Performance Review): Führt Partnergespräche nach Zahlen, Beitrag, Kultur und Talententwicklung. | geprüftes Übergabepaket zu Partner Performance Review mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
+| beA und ERV Risiko | Managementproblem (beA und ERV Risiko): Prüft beA-/ERV-Prozesse, Zustellungsmonitoring und technische Ausfälle. | geprüftes Übergabepaket zu beA und ERV Risiko mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -183,60 +183,60 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. RVG und Honorarvereinbarung
 
 Bearbeitungsauftrag: Managementproblem (RVG und Honorarvereinbarung): Prüft Pricing gegen RVG, Paragraf 3a RVG, Paragraf 49b BRAO und Dokumentation. Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum. Prüfe Pricing gegen RVG, Paragraf 3a RVG, Paragraf 49b BRAO und Dokumentation.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Managementproblem (RVG und Honorarvereinbarung): Prüft Pricing gegen RVG, Paragraf 3a RVG, Paragraf 49b BRAO und Dokumentation.
+Normbezug aus dem Fachmaterial: Managementproblem (RVG und Honorarvereinbarung): Prüft Pricing gegen RVG, Paragraf 3a RVG, Paragraf 49b BRAO und Dokumentation.
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
-### 16.2. Mandatsannahme Risk Committee
-
-Bearbeitungsauftrag: Managementproblem (Mandatsannahme Risk Committee): Richtet Verfahren für heikle Mandate mit GwG, Sanktionen und Reputation ein. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Richtet Verfahren für heikle Mandate mit GwG, Sanktionen und Reputation ein.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.3. Qualitätsmanagement Kanzlei
+### 16.2. Qualitätsmanagement Kanzlei
 
 Bearbeitungsauftrag: Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter Liquiditätslogik. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR? Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
 Lieferstück: geprüftes Übergabepaket zu Qualitätsmanagement Kanzlei mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.4. 13-Wochen-Cashflow
+### 16.3. 13-Wochen-Cashflow
 
 Bearbeitungsauftrag: Managementproblem (13-Wochen-Cashflow): Erstellt rollierende Liquiditätsvorschau mit Gehältern, Miete, Steuern und Entnahmen. Governance-Weiche: Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage. Erstelle rollierende Liquiditätsvorschau mit Gehältern, Miete, Steuern und Entnahmen.
 Lieferstück: geprüftes Übergabepaket zu 13-Wochen-Cashflow mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.5. Compliance-Kalender Kanzlei
+### 16.4. Compliance-Kalender Kanzlei
 
 Bearbeitungsauftrag: Managementproblem (Compliance-Kalender Kanzlei): Versicherung, Kammer, Datenschutz, Arbeitsschutz, Steuern, IT. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Sammelt wiederkehrende Pflichten: Versicherung, Kammer, Datenschutz, Arbeitsschutz, Steuern, IT.
 Lieferstück: Kontrollvermerk zu Compliance-Kalender Kanzlei mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
 
-### 16.6. Datenpanne Kanzlei
+### 16.5. Datenpanne Kanzlei
 
 Bearbeitungsauftrag: Managementproblem (Datenpanne Kanzlei): Organisiert Reaktion auf Datenpanne mit IT, Datenschutz, Mandanten und Versicherer. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Organisiert Reaktion auf Datenpanne mit IT, Datenschutz, Mandanten und Versicherer.
 Lieferstück: geprüftes Übergabepaket zu Datenpanne Kanzlei mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.7. Equity-Partner-Modell
+### 16.6. Equity-Partner-Modell
 
 Bearbeitungsauftrag: Managementproblem (Equity-Partner-Modell): Analysiert Equity, Fixed Share, Salary Partner, Counsel, Eintritt und Austritt. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Analysiere Equity, Fixed Share, Salary Partner, Counsel, Eintritt und Austritt.
 Lieferstück: geprüftes Übergabepaket zu Equity-Partner-Modell mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.8. algorithmische Systeme und Legal Ops in der Kanzlei
+### 16.7. algorithmische Systeme und Legal Ops in der Kanzlei
 
 Bearbeitungsauftrag: Managementproblem (algorithmische Systeme und Legal Ops in der Kanzlei): Plant System-Einsatz mit Datenklassen, Freigaben, Human Review und Wirtschaftlichkeit. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Plant System-Einsatz mit Datenklassen, Freigaben, Human Review und Wirtschaftlichkeit.
 Lieferstück: geprüftes Übergabepaket zu algorithmische Systeme und Legal Ops in der Kanzlei mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.9. Partner Performance Review
+### 16.8. Partner Performance Review
 
 Bearbeitungsauftrag: Managementproblem (Partner Performance Review): Führt Partnergespräche nach Zahlen, Beitrag, Kultur und Talententwicklung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
 Lieferstück: geprüftes Übergabepaket zu Partner Performance Review mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.10. beA und ERV Risiko
+### 16.9. beA und ERV Risiko
 
 Bearbeitungsauftrag: Managementproblem (beA und ERV Risiko): Prüft beA-/ERV-Prozesse, Zustellungsmonitoring und technische Ausfälle. Governance-Weiche: Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage. Prüfe beA-/ERV-Prozesse, Zustellungsmonitoring und technische Ausfälle.
 Lieferstück: geprüftes Übergabepaket zu beA und ERV Risiko mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.11. DMS und E-Akten Governance
+### 16.10. DMS und E-Akten Governance
 
 Bearbeitungsauftrag: Managementproblem (DMS und E-Akten Governance): Regelt Aktenstruktur, Versionen, Zugriffe, Archiv und Exportfähigkeit. Governance-Weiche: Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage. Regelt Aktenstruktur, Versionen, Zugriffe, Archiv und Exportfähigkeit.
 Lieferstück: Akten- und Belegmatrix zu DMS und E-Akten Governance mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
-### 16.12. ESG und Kanzleibetrieb
+### 16.11. ESG und Kanzleibetrieb
 
 Bearbeitungsauftrag: Governance-Weiche: Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage. Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum. Bewertet Nachhaltigkeit, Diversity, Reiseverhalten, Einkauf und glaubwürdige Kommunikation.
 Lieferstück: geprüftes Übergabepaket zu ESG und Kanzleibetrieb mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+
+### 16.12. Fristenaufsicht Management
+
+Bearbeitungsauftrag: Managementproblem (Fristenaufsicht Management): Steuert Fristenorganisation auf Managementebene mit Rollen und Kontrollen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Steuert Fristenorganisation auf Managementebene mit Rollen und Kontrollen.
+Lieferstück: Fristenblatt zu Fristenaufsicht Management mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.

@@ -96,13 +96,7 @@ Arbeitsgriff Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung ode
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BVerwG 6 C 1.25, Urteil vom 02.12.2025 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Überwachungsmaßnahmen bei terroristischen Straftaten und die vom BVerfG aufgestellten Anforderungen an die Eingriffsschwellen für Maßnahmen der Gefahrenabwehr — Verifikation bverwg.de |
-| BVerfG, Beschluss vom 14.11.2024 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | 1 BvL 3/22 (PolG NRW Observation) — Eingriffsschwellen-Anforderungen, Übergangsfortgeltung bis 31.12.2025 — relevant für Polizei-Anfechtungsklagen |
-| BVerwG, Urteil vom 09.04.2014 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | 3 C 5.13 — Die Einleitung einer kostenpflichtigen Abschleppmaßnahme wegen eines verbotswidrig an einem Taxenstand abgestellten Fahrzeugs ist regelmäßig auch ohne Einhaltung einer bestimmten Wartezeit |
-| BVerfG, Beschluss vom 24.03.2021 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | 1 BvR 2656/18 u. a. (Klimaschutzbeschluss) — bundesverfassungsgericht.de |
-| BVerwG, Urteil vom 25. Januar 2021 - 9 C 8.19 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine Belehrung musste im entschiedenen Altfall nicht zusätzlich auf die elektronische Übermittlung hinweisen; diese war keine eigenständige Form neben der Schriftform |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -119,17 +113,13 @@ Arbeitsgriff Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung ode
 - Paragraf 80 Abs. 5 VwGO; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 113 Abs. 1 und 5 VwGO; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 68 Abs. 1 Satz 1 VwGO — Vor Erhebung der Anfechtungsklage sind Rechtmäßigkeit und Zweckmäßigkeit des Verwaltungsakts in einem Vorverfahren nachzuprüfen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 73 Abs. 1 Satz 2 Nr. 1 VwGO — Den Widerspruchsbescheid erlässt die nächsthöhere Behörde, soweit nicht durch Gesetz eine andere höhere Behörde bestimmt ist; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 73 Abs. 1 Satz 2 Nr. 1 VwGO — Den Widerspruchsbescheid erlässt die nächsthöhere Behörde, soweit nicht durch Gesetz eine andere höhere Behörde bestimmt ist; bei Selbstverwaltungsangelegenheiten gilt Paragraf 73 Abs. 1 Satz 2 Nr. 3 VwGO — die Selbstverwaltungskörperschaft (hier: die AöR selbst) erlässt den Widerspruchsbescheid durch ihre dafür zuständige Stelle; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 80 Abs. 2 Satz 1 Nr. 1 VwGO — Die aufschiebende Wirkung entfällt bei der Anforderung von öffentlichen Abgaben und Kosten; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 28, 39 VwVfG — Anhörung vor belastendem Verwaltungsakt und Begründungspflicht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BVerwG 6 C 1.25, Urteil vom 02.12.2025 — Überwachungsmaßnahmen bei terroristischen Straftaten und die vom BVerfG aufgestellten Anforderungen an die Eingriffsschwellen für Maßnahmen der Gefahrenabwehr — Verifikation bverwg.de.
-- BVerfG, Beschluss vom 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Eingriffsschwellen-Anforderungen, Übergangsfortgeltung bis 31.12.2025 — relevant für Polizei-Anfechtungsklagen.
-- BVerwG, Urteil vom 09.04.2014 — 3 C 5.13 — Die Einleitung einer kostenpflichtigen Abschleppmaßnahme wegen eines verbotswidrig an einem Taxenstand abgestellten Fahrzeugs ist regelmäßig auch ohne Einhaltung einer bestimmten Wartezeit.
-- BVerfG, Beschluss vom 24.03.2021 — 1 BvR 2656/18 u. a. (Klimaschutzbeschluss) — bundesverfassungsgericht.de.
-- BVerwG, Urteil vom 25. Januar 2021 - 9 C 8.19: Eine Belehrung musste im entschiedenen Altfall nicht zusätzlich auf die elektronische Übermittlung hinweisen; diese war keine eigenständige Form neben der Schriftform.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -151,7 +141,7 @@ Arbeitsgriff Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung ode
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei Zuständigkeit, Anhörung, Ermessensausübung und Verhältnismäßigkeit an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Vergleichsverhandlungs-Strategie für Verwaltungsrechtsstreitigkeiten, Anfechtungsklage, Rechtsschutz gegen Planfeststellungsbeschluss für Strom- und Gastrassen klagen, Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerwG 6 C 1.25, Urteil vom 02.12.2025; BVerfG, Beschluss vom 14.11.2024.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -236,7 +226,7 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 
 Bearbeitungsauftrag: Bestimme Klageart, Vorverfahren, Gericht, Frist und Eilrechtsschutz. Bei VwGO Paragraf 80 Absatz 5 Vollziehbarkeit, Anordnung oder Entfallen der aufschiebenden Wirkung und Interessenabwägung trennen. Bei VwGO Paragraf 123 Anordnungsanspruch, Anordnungsgrund und Vorwegnahme der Hauptsache gesondert belegen.
 Prüfschritte: Lies Bescheid, Rechtsbehelfsbelehrung, Zustellnachweis, Widerspruch und Widerspruchsbescheid, Verwaltungsvorgang, Schriftsatzentwurf und gerichtliche Hinweise.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Endfertige Anfechtungs-, Verpflichtungs-, Feststellungs- und Leistungsklage sowie Anträge nach VwGO Paragraf 80 Absatz 5 oder Paragraf 123: liest Bescheid, Widerspruchsbescheid und Behördenakte zuerst, prüft Klageart, Antrag, Zuständigkeit, Zustellung.
+Normbezug aus dem Fachmaterial: Endfertige Anfechtungs-, Verpflichtungs-, Feststellungs- und Leistungsklage sowie Anträge nach VwGO Paragraf 80 Absatz 5 oder Paragraf 123: liest Bescheid, Widerspruchsbescheid und Behördenakte zuerst, prüft Klageart, Antrag, Zuständigkeit, Zustellung.
 Lieferstück: Fachvotum zu Verwaltungsgerichtliche Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.8. Substantiierten Schriftsatzkern für verwaltungsrechtliche Klagen und Anträge erstellen
@@ -253,7 +243,7 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 
 Bearbeitungsauftrag: Genehmigungs-Voraussetzungen Paragraf 6 BImSchG. Allgemeine UVP / Standortbezogene UVP / Vor-UVP.
 Prüfschritte: BImSchG Paragraf 5 schützt Nachbarn; Immissions-Schutz Paragraf 5 BImSchG; Widerspruchs-Verfahren (Landes-AusfG).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BImSchG Paragraf 5 schützt Nachbarn; Immissions-Schutz Paragraf 5 BImSchG; Widerspruchs-Verfahren (Landes-AusfG).
+Normbezug aus dem Fachmaterial: BImSchG Paragraf 5 schützt Nachbarn; Immissions-Schutz Paragraf 5 BImSchG; Widerspruchs-Verfahren (Landes-AusfG).
 Lieferstück: Fachvotum zu Drittanfechtung Umwelt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.11. Spezialfall Planfeststellung Grossvorhaben: Paragrafen 72 ff
@@ -261,7 +251,7 @@ Lieferstück: Fachvotum zu Drittanfechtung Umwelt mit Tatbestandsmerkmalen, Akte
 Bearbeitungsauftrag: Bearbeite Spezialfall Planfeststellung Grossvorhaben: Paragrafen 72 ff: verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Lieferstück: Fachvotum zu Spezialfall Planfeststellung Grossvorhaben: Paragrafen 72 ff mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Energieanlagen Bimschg Genehmigung Verfahren
+### 16.12. Fachanwalt Verwaltungsrecht Klimaklage Bundesländer Ksg BVerfG
 
-Bearbeitungsauftrag: Energieanlagen (Wind, Biogas, Wasserstoff, größere Solarthermie, KWK, Geothermie) bedürfen in der Regel einer BImSchG-Genehmigung nach Paragrafen 4 und folgende BImSchG, wenn sie eine bestimmte Schwelle nach der.
-Lieferstück: Fachvotum zu Energieanlagen Bimschg Genehmigung Verfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Konkrete Versäumnisse (Wärmewende, Verkehrswende, Industrie-Reduktion). Mandanten-Betroffenheit (Land-Mandanten: Eigentum-Schaden durch Klimawandel). Vorhandene Stellungnahme der Landesregierung.
+Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.

@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Meldeinventar, Datenl
 | --- | --- |
 | Normenanker | Die jeweilige Spezialnorm bestimmt Meldeanlass, Adressat, Schwelle; BStatG und Fachstatistikgesetze; AWV und Bundesbank-Meldevorschriften |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Rechtsträger, Standort, Tätigkeit, Behörde, Portal, Meldeanlass, Schwelle, Zeitraum, Frist und verantwortliche |
+| Tatbestand | Rechtsträger, Standort, Tätigkeit, Behörde, Portal, Meldeanlass, Schwelle, Zeitraum, Frist und verantwortliche Stelle erfassen |
 | Beweislast | Jede Änderung bleibt auf Eingangsdatei, maßgebliche Fassung, Fundstelle, Freigabe und Übergabenachweis zurückführbar |
 | Rechtsfolge | Meldekalender, Feldmapping, ausgefüllte Meldung, Abweichungsvermerk, Behördenantwort oder Heilungsplan erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,8 +43,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Meldeinventar, Datenl
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Meldeinventar | Rechtsträger, Standort, Tätigkeit, Behörde, Portal, Meldeanlass, Schwelle, Zeitraum, Frist und verantwortliche. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenlinie | Jedes Feld auf Quellsystem, Kontenlogik, Messung, Personal- oder Produktdatensatz, Stichtag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Meldeinventar | Rechtsträger, Standort, Tätigkeit, Behörde, Portal, Meldeanlass, Schwelle, Zeitraum, Frist und verantwortliche Stelle erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Datenlinie | Jedes Feld auf Quellsystem, Kontenlogik, Messung, Personal- oder Produktdatensatz, Stichtag und Datenverantwortlichen zurückführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Plausibilisierung | Vorperiode, Summen, Einheiten, Währungen, Nullmeldung, Schätzung, Abweichung und Mehrfachmeldung kontrollieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
@@ -54,10 +54,10 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Meldeinventar, Datenl
 - BStatG und Fachstatistikgesetze: Auskunftspflicht, Hilfsmerkmale, Geheimhaltung und Übermittlungsweg für amtliche Statistiken.
 - AWV und Bundesbank-Meldevorschriften: grenzüberschreitende Zahlungen, Bestände, Schwellen und Berichtsperioden nur nach aktuellem Merkblatt prüfen.
 - AO und spezialgesetzliche Aufzeichnungsregeln: Aufbewahrung, Mitwirkung, Berichtigung und steuerliche Datenspur.
-- HGB Paragrafen 238, 257 und AO Paragrafen 146, 147 als Grundlogik für Bücher, Aufzeichnungen und Aufbewahrung, soweit die Meldung buchführungs-/steuerrelevant ist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Datenschutz-Grundverordnung Art. 5 Abs. 2, Art. 24, Art. 30, Art. 32 für Rechenschaft, Rollen, TOM und Verarbeitungsverzeichnis, wenn personenbezogene Daten im Bericht stecken; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwVfG Paragrafen 24, 25, 26, 28, 31, 32, 37, 39 für Amtsermittlung, Beratung, Anhörung, Frist, Wiedereinsetzung und Bescheidlogik; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Datenschutz-Grundverordnung Art. 5, 6, 32; GeschGehG; BStatG Geheimhaltung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- HGB Paragrafen 325 ff.; EHUG/Unternehmensregister; Ordnungsgeldverfahren; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

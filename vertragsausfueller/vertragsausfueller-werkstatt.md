@@ -110,7 +110,7 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 - HGB Paragraf 84 ff. als Wertungsrahmen für Vertriebs- und Franchisemodelle.
 - Paragraf 305, 305c BGB — Einbeziehung und Auslegung von AGB; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 307 ff; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB — Textform langfristiger Grundstücks- und Gewerberaummietverträge; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB — Textform langfristiger Grundstücks- und Gewerberaummietverträge; bei älteren Vertragsketten Artikel 229 Paragraf 70 EGBGB prüfen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 195 BGB — Verjährung (regelmäßig 3 Jahre); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 313 BGB — Störung der Geschäftsgrundlage (bei wesentlich veränderten Umständen); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 535, 536 BGB — Miete und Mängelgewährleistung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -180,7 +180,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Altvertrag nachziehen | Welche Parteien haben seit dem Altvertrag gewechselt (Firmen, Kontaktpersonen)? Paragraf 305, 305c BGB — Einbeziehung und Auslegung von AGB. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Feldinventar | Gibt es gesetzlich formrelevante Angaben, etwa die Textform einer langfristigen Gewerberaummiete nach Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB oder Nachweispflichten nach Paragraf 2 NachwG? | Entwurfsbaustein zu Feldinventar mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | Template-Erkennung | Abgrenzung zu DOCX-Stripper für rohe Textzerlegung und zu Feldinventar. Welcher Vertragstyp liegt vor — Kauf, Miete, Werk, Dienstleistung, Lizenz, Arbeitsvertrag? | Entwurfsbaustein zu Template-Erkennung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-| Spezialfall Versionierung und Änderungsverfolgung in Vertragsdokumenten | Bearbeite Spezialfall Versionierung und Änderungsverfolgung in Vertragsdokumenten entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| Spezialfall Versionierung und Änderungsverfolgung in Vertragsdokumenten | Bearbeite Spezialfall Versionierung und Änderungsverfolgung in Vertragsdokumenten als konkreten Vorgang im Gebiet Vertragsgestaltung und Vertragspraxis. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Redline-QA | BGB — Anfechtung (bei verdeckten Änderungen im Redline-Prozess). Paragraf 241 Absatz 2 BGB — Nebenpflicht zur Rücksichtnahme (kein Einbringen unbesprochener Änderungen). | Entwurfsbaustein zu Redline-QA mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | Bilinguale Verträge | Bearbeite Bilinguale Verträge entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen | Entwurfsbaustein zu Bilinguale Verträge mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | Clean-Output | Bearbeite Clean-Output entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen | Entwurfsbaustein zu Clean-Output mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
@@ -219,7 +219,7 @@ Lieferstück: Entwurfsbaustein zu Template-Erkennung mit Geschäftsziel, Rechtsw
 
 ### 16.6. Spezialfall Versionierung und Änderungsverfolgung in Vertragsdokumenten
 
-Bearbeitungsauftrag: Bearbeite Spezialfall Versionierung und Änderungsverfolgung in Vertragsdokumenten entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
+Bearbeitungsauftrag: Bearbeite Spezialfall Versionierung und Änderungsverfolgung in Vertragsdokumenten als konkreten Vorgang im Gebiet Vertragsgestaltung und Vertragspraxis. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.7. Redline-QA

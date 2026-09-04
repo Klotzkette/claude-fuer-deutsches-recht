@@ -33,7 +33,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Mandat und Governance
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | AktG Paragraf 93 und GmbHG Paragraf 43; BetrVG Paragraf 87, Paragraf 99 und Paragraf 102 sowie Arbeitsrecht; Datenschutz-Grundverordnung Artikel 5, Artikel 6, Artikel 9 |
-| Rechtsprechung | BAG, Urt. v. 23.10.2008 – 2 AZR 483/07 |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Auftraggeber, Entscheidungsgremium, Scope, Ziele, Ausschlüsse, Berichtslinie, Konflikte und Freigaben festlegen |
 | Beweislast | Nachweisachse Preservation und Datenplan: Systeme, Geräte, Accounts, Zeitraum, Custodians, Legal Hold, Zugriff, Filter, Forensik und Löschstopp dokumentieren |
 | Rechtsfolge | Scope Memo, Legal Hold, Interviewplan, Findings Report, Board Paper, Behördenbrief oder Remediation Matrix erstellen |

@@ -242,5 +242,5 @@ Lieferstück: Fachvotum zu Anbieterwechsel und Rufnummernmitnahme mit Tatbestand
 
 ### 16.12. Campusnetze und private 5G-Netze
 
-Bearbeitungsauftrag: BNetzA-Nebenbestimmungen nicht in SLA, Betriebshandbuch und Lieferantenverträge gespiegelt. Standort-/Mitarbeiterdaten werden für HR- oder Leistungszwecke mitgenutzt, ohne Rechtsgrundlage und Betriebsratslogik. Starte wieder mit tk-allgemeiner-kaltstart, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
+Bearbeitungsauftrag: BNetzA-Nebenbestimmungen nicht in SLA, Betriebshandbuch und Lieferantenverträge gespiegelt. Standort-/Mitarbeiterdaten werden für HR- oder Leistungszwecke mitgenutzt, ohne Rechtsgrundlage und Betriebsratslogik.
 Lieferstück: Fachvotum zu Campusnetze und private 5G-Netze mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

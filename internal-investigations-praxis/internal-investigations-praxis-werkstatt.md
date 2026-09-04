@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Scope Memo, Legal Hold, Interviewplan, Findings Rep
 | --- | --- | --- | --- |
 | Fallkern | Datenschutz in Internal Investigations | AktG Paragraf 93 und GmbHG Paragraf 43 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BetrVG Paragraf 87, Paragraf 99 und Paragraf 102 sowie Arbeitsrecht | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Cyber-Incident-Response und forensische Untersuchung | BetrVG Paragraf 87, Paragraf 99 und Paragraf 102 sowie Arbeitsrecht | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Kartell-Dawn-Raid und Leniency | BetrVG Paragraf 87, Paragraf 99 und Paragraf 102 sowie Arbeitsrecht | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Scope Memo, Legal Hold, Interviewplan, Findings Report, Board Paper, Behördenbrief oder Remediation Matrix erstellen | Nachweisachse Preservation und Datenplan: Systeme, Geräte, Accounts, Zeitraum, Custodians, Legal Hold, Zugriff, Filter, Forensik und Löschstopp dokumentieren | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -96,9 +96,7 @@ Arbeitsgriff Arbeitsprodukt: Scope Memo, Legal Hold, Interviewplan, Findings Rep
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BAG, Urt. v. 23.10.2008 – 2 AZR 483/07 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Kündigung wegen Aussageverweigerung kann unverhältnismäßig sein, wenn berechtigte Selbstbelastungsgefahr besteht |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Scope Memo, Legal Hold, Interviewplan, Findings Report, Board Paper, Behördenbrief oder Remediation Matrix erstellen
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -121,7 +119,7 @@ Arbeitsgriff Arbeitsprodukt: Scope Memo, Legal Hold, Interviewplan, Findings Rep
 
 ## 8. Leitentscheidungen
 
-- BAG, Urt. v. 23.10.2008 – 2 AZR 483/07: Kündigung wegen Aussageverweigerung kann unverhältnismäßig sein, wenn berechtigte Selbstbelastungsgefahr besteht.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -143,7 +141,7 @@ Arbeitsgriff Arbeitsprodukt: Scope Memo, Legal Hold, Interviewplan, Findings Rep
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Datenquelle belegt oder widerlegt welche konkrete Hypothese an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Scope Memo, Legal Hold, Interviewplan, Findings Report, Board Paper, Behördenbrief oder Remediation Matrix erstellen; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Scope Memo: Auftraggeber, Anlass, Fragen, Zeitraum, Einheiten, Datenquellen, Ausschlüsse, Governance, Rechtsgrenzen und Deliverables; Findings-Matrix: Hypothese, Tatbestandsmerkmal, Beleg, Gegenbeleg, Interview, Quellenqualität, Feststellung, Sicherheit und Folge.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BAG, Urt. v. 23.10.2008 – 2 AZR 483/07.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -178,11 +176,11 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Datenschutz in Internal Investigations | F Datenschutz-Grundverordnung: Berechtigtes Interesse des Unternehmens – Dreistufentest (Interesse, Notwendigkeit, Abwägung mit Betroffeneninteressen). Betriebsvereinbarung als Erlaubnisgrundlage nach Paragraf 26 Absatz 4 BDSG. | Fachvotum zu Datenschutz in Internal Investigations mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Kartell-Dawn-Raid und Leniency | Dieser Arbeitsgang stellt das korrekte Verhalten bei Kartell-Nachprüfungen sicher, schützt Privilege-Rechte und analysiert die Kronzeugen-Option zeitkritisch. | Fachvotum zu Kartell-Dawn-Raid und Leniency mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Cyber-Incident-Response und forensische Untersuchung | Cyber-Incidents lösen eine Vielzahl von Rechtspflichten aus: Datenschutz-Grundverordnung Artikel 33 (Meldung binnen 72 Stunden bei Datenpanne, eur-lex.europa.eu), NIS2-Richtlinie. | Fachvotum zu Cyber-Incident-Response und forensische Untersuchung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Kostenerstattung und Schadensersatz gegen Mitarbeiter | Strukturiert Schadensersatzansprüche gegen Mitarbeiter und Organmitglieder und stellt sicher, dass Forderungen rechtzeitig geltend gemacht werden. | Fachvotum zu Kostenerstattung und Schadensersatz gegen Mitarbeiter mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Arbeitsrechtliche Mitwirkungspflichten | Bearbeite Arbeitsrechtliche Mitwirkungspflichten entlang der Unternehmensinterne Untersuchungen-Prüflinie: Mandat und Governance: Auftraggeber, Entscheidungsgremium, Scope, Ziele, Ausschlüsse, Berichtslinie, Konflikte. | Fachvotum zu Arbeitsrechtliche Mitwirkungspflichten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Board Special Committee und Sonderuntersuchungsausschuss | Dieser Arbeitsgang stellt sicher, dass das Special Committee ordnungsgemäß eingerichtet wird, die richtigen Personen besetzt, ein klares Mandat hat und seine Ergebnisse verwertbar sind. | Fachvotum zu Board Special Committee und Sonderuntersuchungsausschuss mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| Dawn Raid Playbook | Liefere ein sofort einsetzbares Playbook für den Fall eines Dawn Raids: Verhalten der Mitarbeiter, Eskalationspfade, Rechte des Unternehmens und Nachsorge. | Fachvotum zu Dawn Raid Playbook mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Healthcare-Compliance-Verstöße und Untersuchung | Dieser Arbeitsgang untersucht Healthcare-spezifische Korruptionsszenarien, klärt die einschlägigen Normen und leitet Untersuchungsmaßnahmen ab. | Kontrollvermerk zu Healthcare-Compliance-Verstöße und Untersuchung mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
 | BaFin-Prüfungsfeststellungen und Bankregulatorik | Strukturiert die Reaktion auf BaFin-Prüfungsfeststellungen: Internal Investigation als Reaktionsmechanismus, Maßnahmenplanung und behördliche Kommunikation. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Geschäftsgeheimnisse und NDA | Dieser Arbeitsgang führt nicht schematisch durch Geschäftsgeheimnisse und NDA, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
@@ -197,37 +195,36 @@ Bearbeitungsauftrag: F Datenschutz-Grundverordnung: Berechtigtes Interesse des U
 Prüfschritte: Dieser Arbeitsgang stellt für jede Untersuchungsmaßnahme eine Datenschutz-Grundverordnung-konforme Rechtsgrundlage sicher, dokumentiert die Interessenabwägung und verhindert, dass Datenschutzverstöße das Ermittlungsergebnis oder den Bericht kompromittieren; c Datenschutz-Grundverordnung: Rechtliche Verpflichtung (z; BaFin-Anforderungen, HinSchG-Pflichten); Zulässigkeit: Paragraf 26 BDSG bei konkretem Straftatverdacht; reine Verhaltensüberwachung ohne Verdacht regelmäßig unzulässig.
 Lieferstück: Fachvotum zu Datenschutz in Internal Investigations mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. Cyber-Incident-Response und forensische Untersuchung
+### 16.2. Kartell-Dawn-Raid und Leniency
+
+Bearbeitungsauftrag: Dieser Arbeitsgang stellt das korrekte Verhalten bei Kartell-Nachprüfungen sicher, schützt Privilege-Rechte und analysiert die Kronzeugen-Option zeitkritisch. Zeuge hinzuziehen (Paragraf 106 StPO analog / Paragraf 60 GWB). Anwaltszugang: Unternehmen hat Recht auf sofortigen Zugang zum Anwalt, aber Nachprüfung wird nicht aufgehalten.
+Prüfschritte: Nachprüfungsberechtigte feststellen: EU-Kommission (Inspektoren) oder Bundeskartellamt (Beamte); Prüfungsmandat verlangen (Artikel 20 VO 1/2003 oder Paragraf 59 GWB); Mitarbeiter anweisen: keine Aussagen zur Sache; keine Dokumente verschieben oder löschen; Artikel 20 VO 1/2003: Kommissionsbeamte können Büroräume betreten, Bücher und Unterlagen prüfen, kopieren, versiegeln.
+Lieferstück: Fachvotum zu Kartell-Dawn-Raid und Leniency mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.3. Cyber-Incident-Response und forensische Untersuchung
 
 Bearbeitungsauftrag: Cyber-Incidents lösen eine Vielzahl von Rechtspflichten aus: Datenschutz-Grundverordnung Artikel 33 (Meldung binnen 72 Stunden bei Datenpanne, eur-lex.europa.eu), NIS2-Richtlinie (Meldepflicht für kritische Infrastrukturen und wichtige Einrichtungen, RL (EU) 2022/2555), BSI-Gesetz (Paragrafen 8a, 8b BSIG) und ggf. sektorspezifische Pflichten (Paragraf 25a KWG für Banken, bafin.de). Strukturiert die unmittelbare Incident-Response, die forensische Beweissicherung und alle Meldepflichten bei einem Cyber-Incident.
 Prüfschritte: Strafbarkeit der Täter nach Paragrafen 202a und folgende StGB; Ansprüche des Unternehmens aus Paragrafen 823, 826 BGB; Ransomware: Verschlüsselung von Systemen; oft mit Datenexfiltration kombiniert; APT (Advanced Persistent Threat): staatlich gesponserter Angreifer.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Cyber-Incidents lösen eine Vielzahl von Rechtspflichten aus: Datenschutz-Grundverordnung Artikel 33 (Meldung binnen 72 Stunden bei Datenpanne, eur-lex.europa.eu), NIS2-Richtlinie (Meldepflicht für kritische Infrastrukturen und wichtige Einrichtungen, RL (EU) 2022/2555), BSI-Gesetz.
+Normbezug aus dem Fachmaterial: Cyber-Incidents lösen eine Vielzahl von Rechtspflichten aus: Datenschutz-Grundverordnung Artikel 33 (Meldung binnen 72 Stunden bei Datenpanne, eur-lex.europa.eu), NIS2-Richtlinie (Meldepflicht für kritische Infrastrukturen und wichtige Einrichtungen, RL (EU) 2022/2555), BSI-Gesetz.
 Lieferstück: Fachvotum zu Cyber-Incident-Response und forensische Untersuchung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Kostenerstattung und Schadensersatz gegen Mitarbeiter
+### 16.4. Kostenerstattung und Schadensersatz gegen Mitarbeiter
 
 Bearbeitungsauftrag: Strukturiert Schadensersatzansprüche gegen Mitarbeiter und Organmitglieder und stellt sicher, dass Forderungen rechtzeitig geltend gemacht werden. Entgangener Gewinn: Verträge, die wegen der Untersuchung nicht abgeschlossen werden konnten. Paragraf 93 Absatz 2 AktG: Vorstandsmitglied haftet, wenn es die ihm obliegende Sorgfalt verletzt hat; Beweislastumkehr: Vorstandsmitglied muss beweisen, dass es pflichtgemäß gehandelt hat.
 Prüfschritte: Direkter Schaden: durch den Verstoß unmittelbar verursachter wirtschaftlicher Schaden (z; überzahlter Kickback-Betrag, durch Betrug entzogene Mittel); Folgeschäden: Untersuchungskosten (Anwalt, Forensik, Wirtschaftsprüfer), Bußgelder (soweit auf individuellem Verhalten basierend), Reputationsschäden; Hinweis: Bußgelder nach OWiG können nicht auf Mitarbeiter abgewälzt werden, wenn sie den Charakter einer Strafe haben (BGH Linie).
 Lieferstück: Fachvotum zu Kostenerstattung und Schadensersatz gegen Mitarbeiter mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Arbeitsrechtliche Mitwirkungspflichten
+### 16.5. Arbeitsrechtliche Mitwirkungspflichten
 
 Bearbeitungsauftrag: Bearbeite Arbeitsrechtliche Mitwirkungspflichten entlang der Unternehmensinterne Untersuchungen-Prüflinie: Mandat und Governance: Auftraggeber, Entscheidungsgremium, Scope, Ziele, Ausschlüsse, Berichtslinie, Konflikte und Freigaben festlegen.
 Prüfschritte: Kläre, welche Mitwirkungspflichten Mitarbeiter haben, wie weit diese reichen und wo sie enden – insbesondere bei drohender Selbstbelastung, Zeugnisverweigerungsrechten und der Kollision mit strafprozessualen Rechten; Paragraf 242 BGB: allgemeine Treuepflicht aus dem Arbeitsverhältnis; Paragraf 666 BGB: Auskunftspflicht für Tätigkeiten, die der Mitarbeiter für den Arbeitgeber ausgeführt hat; Paragraf 611a BGB in Verbindung mit Arbeitsvertrag: Pflicht zur Unterstützung bei betriebsinternen Untersuchungen, soweit dies zumutbar ist; Grenzen: Verhältnismäßigkeit, Zumutbarkeit, Selbstbelastungsfreiheit.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Kläre, welche Mitwirkungspflichten Mitarbeiter haben, wie weit diese reichen und wo sie enden – insbesondere bei drohender Selbstbelastung, Zeugnisverweigerungsrechten und der Kollision mit strafprozessualen Rechten; Paragraf 242 BGB: allgemeine Treuepflicht aus dem Arbeitsverhältnis.
 Lieferstück: Fachvotum zu Arbeitsrechtliche Mitwirkungspflichten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Board Special Committee und Sonderuntersuchungsausschuss
+### 16.6. Board Special Committee und Sonderuntersuchungsausschuss
 
 Bearbeitungsauftrag: Dieser Arbeitsgang stellt sicher, dass das Special Committee ordnungsgemäß eingerichtet wird, die richtigen Personen besetzt, ein klares Mandat hat und seine Ergebnisse verwertbar sind. US-Börsennotierung: SEC-Anforderungen und Delaware Corporate Law verlangen häufig Independent Committee für Derivative Actions. Aufsichtsrat: Beschluss nach Paragraf 107 Absatz 3 AktG mit klarem Mandat (Untersuchungsgegenstand, Befugnisse, Berichtspflicht, Zeitrahmen).
 Prüfschritte: Vorstandsmitglieder sind selbst in den Untersuchungsgegenstand involviert (Interessenkonflikt); Betrag des potenziellen Schadens ist materiell (erhebliche D&O-Haftungsrisiken); DOJ/SEC erwarten unabhängige Untersuchung als Teil einer Kooperationsstrategie; Vorstand: nur wenn kein Aufsichtsratsmitglied involviert; anderenfalls liegt die Initiative beim Aufsichtsrat.
 Lieferstück: Fachvotum zu Board Special Committee und Sonderuntersuchungsausschuss mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.6. Dawn Raid Playbook
-
-Bearbeitungsauftrag: Liefere ein sofort einsetzbares Playbook für den Fall eines Dawn Raids: Verhalten der Mitarbeiter, Eskalationspfade, Rechte des Unternehmens und Nachsorge. Durchsuchungsbeschluss verlangen: Gibt es einen richterlichen Beschluss (Paragraf 105 StPO) oder wird „Gefahr im Verzug" behauptet? Kein Löschen, Verschieben, Verändern von Dokumenten oder Daten – Strafbarkeit nach Paragraf 274 StGB.
-Prüfschritte: Durchsuchungsberechtigte feststellen: Wer sind die Beamten (Ausweis verlangen); Anwalt sofort anrufen: Unternehmensanwalt (intern und extern) benachrichtigen; Krisentelefonnummer muss vorab bekannt sein; Beamte in Empfangsbereich führen: Eigenständiges Durchstreifen verhindern, bis Anwalt eintrifft; Keine Aussagen: Mitarbeiter dürfen keine Auskünfte zur Sache geben, bis der Anwalt anwesend ist.
-Lieferstück: Fachvotum zu Dawn Raid Playbook mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.7. Healthcare-Compliance-Verstöße und Untersuchung
 
@@ -247,21 +244,21 @@ Bearbeitungsauftrag: Dieser Arbeitsgang führt nicht schematisch durch Geschäft
 Prüfschritte: Geheimnisstatus und Schutzmaßnahmen erfassen; Ist der Untersuchungsauftrag eng genug, oder wird ein unnötiger Beweisordner für Behörde, Gegner oder US-Discovery gebaut; Wer ist Mandant, wer Berichtsadressat, wer potenziell betroffen, und kollidiert das mit Privilege, Berufsrecht oder Organpflichten; Welche Daten müssen gesichert werden, welche dürfen gerade nicht breit kopiert werden, und wo greift Datenminimierung.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.10. Parallele Datenschutz-Grundverordnung-Bußgeldverfahren
-
-Bearbeitungsauftrag: EUR oder 4 % des weltweiten Jahresumsatzes auslösen (Artikel 83 Datenschutz-Grundverordnung, eur-lex.europa.eu). Der Konflikt zwischen kooperativer Behördenstrategie und Selbstbelastungsschutz ist besonders scharf, weil die Datenschutz-Grundverordnung einerseits Kooperation honoriert (Artikel 83 Absatz 2 Datenschutz-Grundverordnung), aber keine formelle Kronzeugenregel kennt. Dieser Skill koordiniert die parallele Führung von Internal Investigation und Datenschutz-Grundverordnung-Aufsichtsverfahren und minimiert das Risiko, dass die Untersuchungsergebnisse das behördliche Verfahren unkontrolliert beeinflussen.
-Prüfschritte: Datenschutz-Grundverordnung-Verstöße können Bußgelder bis 20 Mio; BayLDA, HmbBfDI, BfDI führen eigene Verfahren und können parallel zu einer Internal Investigation Untersuchungen einleiten; Liegt bereits eine Beschwerde bei der Datenschutzbehörde vor; Hat die Behörde von Amts wegen Ermittlungen eingeleitet.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: EUR oder 4 % des weltweiten Jahresumsatzes auslösen (Artikel 83 Datenschutz-Grundverordnung, eur-lex.europa.eu).
-Lieferstück: Fachvotum zu Parallele Datenschutz-Grundverordnung-Bußgeldverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.11. Sicherer Data Room für Counsel und Behörden
-
-Bearbeitungsauftrag: Der virtuelle Data Room (VDR) ist das zentrale Instrument für die kontrollierte Weitergabe von Untersuchungsdokumenten an externe Anwälte, Behörden, US-Counsel oder DOJ/SEC. Die Datenschutz-Grundverordnung verlangt für den Datentransfer in Drittstaaten nach Artikel 46 eine geeignete Garantie (SCC, eur-lex.europa.eu). Beschlagnahme von VDR-Inhalten ist möglich (Paragraf 94 StPO), wenn der Anbieter oder seine Server in Deutschland oder der EU ansässig sind.
-Prüfschritte: Dieser Arbeitsgang stellt den technisch und rechtlich korrekten Aufbau und Betrieb eines VDR für Internal Investigations sicher; EU-basierter Anbieter bevorzugen (kein US-CLOUD-Act-Risiko bei EU-only-Hosting); Zertifizierungen: ISO 27001, SOC 2 Type II.
-Lieferstück: Fachvotum zu Sicherer Data Room für Counsel und Behörden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Behördenstrategie und Self-Reporting
+### 16.10. Behördenstrategie und Self-Reporting
 
 Bearbeitungsauftrag: Entwickle eine maßgeschneiderte Behördenstrategie, die Kooperationsanreize nutzt, ohne unkontrolliert Zugeständnisse zu machen oder Privilegeschutz zu opfern. BaFin: zuständig für Marktmissbrauch (MAR), Geldwäsche (GwG), Kapitalmarktrecht. Paragraf 24 KWG: Anzeigepflichten der Banken.
 Prüfschritte: Staatsanwaltschaft: Strafverfolgung nach StGB, insb; Paragrafen 266 (Untreue), 263 (Betrug), 299 (Bestechung), 332 (Bestechlichkeit im Amt); DOJ/SEC (USA): FCPA-Verstöße, Sanktionsverstöße (OFAC), Wertpapierbetrug; Bundeskartellamt: Kartellverstöße (Paragrafen 1, 19 GWB); Zollkriminalamt/BAFA: Exportkontrolle.
 Lieferstück: Fachvotum zu Behördenstrategie und Self-Reporting mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.11. Parallele Datenschutz-Grundverordnung-Bußgeldverfahren
+
+Bearbeitungsauftrag: EUR oder 4 % des weltweiten Jahresumsatzes auslösen (Artikel 83 Datenschutz-Grundverordnung, eur-lex.europa.eu). Der Konflikt zwischen kooperativer Behördenstrategie und Selbstbelastungsschutz ist besonders scharf, weil die Datenschutz-Grundverordnung einerseits Kooperation honoriert (Artikel 83 Absatz 2 Datenschutz-Grundverordnung), aber keine formelle Kronzeugenregel kennt. Dieser Skill koordiniert die parallele Führung von Internal Investigation und Datenschutz-Grundverordnung-Aufsichtsverfahren und minimiert das Risiko, dass die Untersuchungsergebnisse das behördliche Verfahren unkontrolliert beeinflussen.
+Prüfschritte: Datenschutz-Grundverordnung-Verstöße können Bußgelder bis 20 Mio; BayLDA, HmbBfDI, BfDI führen eigene Verfahren und können parallel zu einer Internal Investigation Untersuchungen einleiten.
+Normbezug aus dem Fachmaterial: EUR oder 4 % des weltweiten Jahresumsatzes auslösen (Artikel 83 Datenschutz-Grundverordnung, eur-lex.europa.eu).
+Lieferstück: Fachvotum zu Parallele Datenschutz-Grundverordnung-Bußgeldverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Sicherer Data Room für Counsel und Behörden
+
+Bearbeitungsauftrag: Der virtuelle Data Room (VDR) ist das zentrale Instrument für die kontrollierte Weitergabe von Untersuchungsdokumenten an externe Anwälte, Behörden, US-Counsel oder DOJ/SEC. Die Datenschutz-Grundverordnung verlangt für den Datentransfer in Drittstaaten nach Artikel 46 eine geeignete Garantie (SCC, eur-lex.europa.eu).
+Prüfschritte: Beschlagnahme von VDR-Inhalten ist möglich (Paragraf 94 StPO), wenn der Anbieter oder seine Server in Deutschland oder der EU ansässig sind; Dieser Skill stellt den technisch und rechtlich korrekten Aufbau und Betrieb eines VDR für Internal Investigations sicher; EU-basierter Anbieter bevorzugen (kein US-CLOUD-Act-Risiko bei EU-only-Hosting); Zertifizierungen: ISO 27001, SOC 2 Type II.
+Lieferstück: Fachvotum zu Sicherer Data Room für Counsel und Behörden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

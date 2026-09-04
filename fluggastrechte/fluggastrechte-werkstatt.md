@@ -106,7 +106,6 @@ Arbeitsgriff Arbeitsprodukt: Forderungsschreiben, Belegmatrix, Erwiderung auf St
 | EuGH, Urteil vom 19.11.2009 - C-402/07 und C-432/07 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Sturgeon stellt eine Ankunftsverspätung von mindestens drei Stunden für die Ausgleichsleistung grundsätzlich einer Annullierung gleich |
 | EuGH, Urteil vom 31.05.2018 - C-537/17 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei einheitlicher Buchung kann ein Flug mit Umstieg und Flugzeugwechsel außerhalb der Union ein einheitlicher Anschlussflug im Anwendungsbereich der Verordnung sein |
 | EuGH, Urteil vom 23.03.2021 - C-28/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ein rechtmäßig organisierter Streik des eigenen Personals zur Durchsetzung von Arbeitsbedingungen ist grundsätzlich kein außergewöhnlicher Umstand |
-| EuGH C-204/08 (Rehder) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | EuGH C-204/08 (Rehder) |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Forderungsschreiben, Belegmatrix, Erwiderung auf Standardausrede, Mahnung, Klage oder Vergleich erstellen
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -133,9 +132,6 @@ Arbeitsgriff Arbeitsprodukt: Forderungsschreiben, Belegmatrix, Erwiderung auf St
 - EuGH, Urteil vom 19.11.2009 - C-402/07 und C-432/07: Sturgeon stellt eine Ankunftsverspätung von mindestens drei Stunden für die Ausgleichsleistung grundsätzlich einer Annullierung gleich.
 - EuGH, Urteil vom 31.05.2018 - C-537/17: Bei einheitlicher Buchung kann ein Flug mit Umstieg und Flugzeugwechsel außerhalb der Union ein einheitlicher Anschlussflug im Anwendungsbereich der Verordnung sein.
 - EuGH, Urteil vom 23.03.2021 - C-28/20: Ein rechtmäßig organisierter Streik des eigenen Personals zur Durchsetzung von Arbeitsbedingungen ist grundsätzlich kein außergewöhnlicher Umstand.
-- EuGH C-204/08 (Rehder).
-- EuGH, Urt. v. 26.2.2013, C-11/11 (Folkerts) — Endziel-Verspätung Anschlussflüge.
-- EuGH, Urt. v. 9.1.2025, C-394/23 — Vorverlegung als Annullierung.
 
 ## 9. Prüfraster
 
@@ -195,12 +191,12 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Fluggastrechte — Anlagen bauen | JPG / PNG (Boardingpass-Foto, Anzeigetafel-Foto, Quittungs-Foto). Bundle-Option (--bundle): zusätzlich ein einziges PDF SchriftsatzmitAnlagen.pdf mit dem Schriftsatz vorne und allen Anlagen dahinter. | Fachvotum zu Fluggastrechte — Anlagen bauen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Erstes Forderungsschreiben bei Fluggastrechten | Ordne den Vorgang als Nichtbeförderung, Annullierung, große Ankunftsverspätung oder Herabstufung ein. Prüfe räumlichen Anwendungsbereich und Ausnahmen der Verordnung (EG) Nummer 261/2004. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
 | Klage Amtsgericht Fluggast | Vor Klage bei kleineren Ansprüchen Schlichtungsstelle Luftverkehr (SOEP) versuchen — kostenfrei und meist erfolgreich. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Flug: Massenklage RDG | Bearbeite Flug: Massenklage RDG entlang der Fluggastrechte-Prüflinie: Buchung und Reichweite: Fluggast, Buchungscode, ausführendes Unternehmen, Abflug, Ziel, einheitliche Buchung und Anwendungsbereich sichern. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Anschlussflug und Reiseplan | Bei einer einheitlichen Buchung mit Anschlussflug ist maßgeblich die Verspätung am Endziel — nicht am Anschlussflughafen. | Fachvotum zu Anschlussflug und Reiseplan mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Distanz und Ausgleichszahlung berechnen | Nicht-innergemeinschaftlich mindestens ein Flughafen außerhalb der EU. Sondergebiete Kanaren Madeira Azoren EU-Außengebiete EU-Recht gilt (innergemeinschaftlich). | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
-| Ticket- und Fluginformationen erfassen | Bei Foto-Belegen OCR; bei Konfidenz unter 90 Prozent Prüfer-Flag für manuelle Bestätigung. IATA-Codes (LH BA AF AZ) und Flughafen-Codes (FRA MUC CDG MAD) gegen Standardlisten validieren. | Fachvotum zu Ticket- und Fluginformationen erfassen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Airline-Standardausreden — Katalog und Gegenargumente | Pauschale Behauptungen ohne Belege reichen nicht. Airline-Argument: technischer Defekt sei außergewöhnlich. Volltext auf curia.europa.eu vor Versand aufrufen und Randnummer (typisch Rn. 24 und folgende ) einsetzen | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| Annullierung Verspätung oder Nichtbeförderung einordnen | Kein Flug mit der konkreten Flugnummer und Datum ist abgehoben. Passagiere werden auf einen anderen Flug umgebucht oder bekommen die Erstattung. | Fachvotum zu Annullierung Verspätung oder Nichtbeförderung einordnen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004) | Beweislast liegt bei der Airline (Wortlaut "nachweisen kann"). Die Definition (1) nicht Teil der normalen Tätigkeit des Luftfahrtunternehmens und (2) tatsächlich nicht beherrschbar — st. | Fachvotum zu Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
-| Airline-Bonität und Vollstreckung | Bearbeite Airline-Bonität und Vollstreckung entlang der Fluggastrechte-Prüflinie: Buchung und Reichweite: Fluggast, Buchungscode, ausführendes Unternehmen, Abflug, Ziel, einheitliche Buchung und Anwendungsbereich sichern | Fachvotum zu Airline-Bonität und Vollstreckung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Flug: Massenklage RDG | Bearbeite Flug: Massenklage RDG entlang der Fluggastrechte-Prüflinie: Buchung und Reichweite: Fluggast, Buchungscode, ausführendes Unternehmen, Abflug, Ziel, einheitliche Buchung und Anwendungsbereich sichern. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Distanz und Ausgleichszahlung berechnen | Nicht-innergemeinschaftlich mindestens ein Flughafen außerhalb der EU. Sondergebiete Kanaren Madeira Azoren EU-Außengebiete EU-Recht gilt (innergemeinschaftlich). | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -222,49 +218,52 @@ Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgru
 
 Bearbeitungsauftrag: Vor Klage bei kleineren Ansprüchen Schlichtungsstelle Luftverkehr (SOEP) versuchen — kostenfrei und meist erfolgreich. Bei Erfolg keine Verjährungshemmung allein durch SOEP-Verfahren — Verjährungsprüfung beachten (drei Jahre Paragraf 195 BGB). Artikel 5 Absatz 3 VO (EG) Nummer 261/2004 — Befreiung nur bei außergewöhnlichen Umständen (Beweislast Airline).
 Prüfschritte: Artikel 7 VO (EG) Nummer 261/2004 — Ausgleichszahlung 250/400/600 EUR je nach Distanzklasse; c VO (EG) Nummer 261/2004 — Annullierung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Vor Klage bei kleineren Ansprüchen Schlichtungsstelle Luftverkehr (SOEP) versuchen — kostenfrei und meist erfolgreich; Bei Erfolg keine Verjährungshemmung allein durch SOEP-Verfahren — Verjährungsprüfung beachten (drei Jahre Paragraf 195 BGB); Artikel 7 VO (EG) Nummer 261/2004 — Ausgleichszahlung 250/400/600 EUR je nach Distanzklasse.
+Normbezug aus dem Fachmaterial: Vor Klage bei kleineren Ansprüchen Schlichtungsstelle Luftverkehr (SOEP) versuchen — kostenfrei und meist erfolgreich; Bei Erfolg keine Verjährungshemmung allein durch SOEP-Verfahren — Verjährungsprüfung beachten (drei Jahre Paragraf 195 BGB); Artikel 7 VO (EG) Nummer 261/2004 — Ausgleichszahlung 250/400/600 EUR je nach Distanzklasse.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.4. Flug: Massenklage RDG
+### 16.4. Anschlussflug und Reiseplan
+
+Bearbeitungsauftrag: Bei einer einheitlichen Buchung mit Anschlussflug ist maßgeblich die Verspätung am Endziel — nicht am Anschlussflughafen. Anspruch besteht auch wenn der erste Flug pünktlich war aber der Anschlussflug ausfällt und das Endziel mehr als drei Stunden verspätet erreicht wird. Eine Buchung (ein PNR mit allen Strecken) → Reise als ein Vorgang.
+Prüfschritte: 26.2.2013, C-11/11 (Folkerts) — bei einheitlicher Buchung mit Anschlussflug ist die Verspätung am Endziel maßgeblich; 31.5.2018, C-537/17 (Wegener) — auch bei Anschlussflügen mit teilweisem Abflug außerhalb der EU; 11.7.2019, C-502/18 (CS Flug) — bestätigend; Umgekehrt: erster Flug verspätet aber kurz vor der Drei-Stunden-Schwelle aber Anschluss noch erreicht — kein Anspruch.
+Lieferstück: Fachvotum zu Anschlussflug und Reiseplan mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.5. Airline-Standardausreden — Katalog und Gegenargumente
+
+Bearbeitungsauftrag: Pauschale Behauptungen ohne Belege reichen nicht. Airline-Argument: technischer Defekt sei außergewöhnlich. Volltext auf curia.europa.eu vor Versand aufrufen und Randnummer (typisch Rn. 24 und folgende ) einsetzen.
+Prüfschritte: Generell: Beweislast für außergewöhnliche Umstände und für die Ergreifung aller zumutbaren Maßnahmen liegt bei der Airline (Artikel 5 Absatz 3 VO 261/2004 — Wortlaut "nachweisen kann"); 22.12.2008, C-549/07 (Wallentin-Hermann) — technische Defekte sind grundsätzlich Teil der normalen Tätigkeit eines Luftfahrtunternehmens und kein außergewöhnlicher Umstand; Ausnahme: versteckter Konstruktionsfehler des Herstellers — EuGH, Urt. v; 13.6.2025, C-411/23 (curia.europa.eu) — kann ausnahmsweise außergewöhnlich sein, auch wenn die Airline Monate vor dem Flug informiert war.
+Normbezug aus dem Fachmaterial: Generell: Beweislast für außergewöhnliche Umstände und für die Ergreifung aller zumutbaren Maßnahmen liegt bei der Airline (Artikel 5 Absatz 3 VO 261/2004 — Wortlaut "nachweisen kann").
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.6. Annullierung Verspätung oder Nichtbeförderung einordnen
+
+Bearbeitungsauftrag: Kein Flug mit der konkreten Flugnummer und Datum ist abgehoben. Passagiere werden auf einen anderen Flug umgebucht oder bekommen die Erstattung. Auch Annullierung auch wenn der Flug am nächsten Tag mit gleicher Flugnummer stattfindet.
+Prüfschritte: Mitteilung der Airline "Flug annulliert / cancelled"; 13.10.2011, C-83/10 (Sousa Rodríguez) — eine Umkehr nach Start ohne Erreichen des Zielflughafens ist Annullierung (curia.europa.eu); 9.1.2025, C-394/23 — Vorverlegung um mehr als eine Stunde ist Annullierung (curia.europa.eu); Mehr als zwei Stunden Verspätung bei kurzen Strecken oder mehr als drei Stunden bei langen Strecken bei Abflug = Betreuungsleistungen Artikel 9 VO 261/2004 (Verpflegung Telefon Hotel etc.).
+Lieferstück: Fachvotum zu Annullierung Verspätung oder Nichtbeförderung einordnen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.7. Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004)
+
+Bearbeitungsauftrag: Beweislast liegt bei der Airline (Wortlaut "nachweisen kann"). Die Definition (1) nicht Teil der normalen Tätigkeit des Luftfahrtunternehmens und (2) tatsächlich nicht beherrschbar — st. Vor Versand jeden konkreten Sachverhalt mit einer offenen Quelle aus curia.europa.eu belegen.
+Prüfschritte: Artikel 5 Absatz 3 VO 261/2004: Ein ausführendes Luftfahrtunternehmen ist nicht verpflichtet Ausgleichszahlungen zu leisten wenn es nachweisen kann dass die Annullierung auf außergewöhnliche Umstände zurückgeht die sich auch dann nicht hätten vermeiden lassen wenn alle zumutbaren Maßnahmen ergriffen worden wären.
+Normbezug aus dem Fachmaterial: Artikel 5 Absatz 3 VO 261/2004: Ein ausführendes Luftfahrtunternehmen ist nicht verpflichtet Ausgleichszahlungen zu leisten wenn es nachweisen kann dass die Annullierung auf außergewöhnliche Umstände zurückgeht die sich auch dann nicht hätten vermeiden lassen wenn alle zumutbaren.
+Lieferstück: Fachvotum zu Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.8. Flug: Massenklage RDG
 
 Bearbeitungsauftrag: Bearbeite Flug: Massenklage RDG entlang der Fluggastrechte-Prüflinie: Buchung und Reichweite: Fluggast, Buchungscode, ausführendes Unternehmen, Abflug, Ziel, einheitliche Buchung und Anwendungsbereich sichern. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.5. Anschlussflug und Reiseplan
-
-Bearbeitungsauftrag: Bei einer einheitlichen Buchung mit Anschlussflug ist maßgeblich die Verspätung am Endziel — nicht am Anschlussflughafen. Anspruch besteht auch wenn der erste Flug pünktlich war aber der Anschlussflug ausfällt und das Endziel mehr als drei Stunden verspätet erreicht wird. Eine Buchung (ein PNR mit allen Strecken) → Reise als ein Vorgang.
-Prüfschritte: Umgekehrt: erster Flug verspätet aber kurz vor der Drei-Stunden-Schwelle aber Anschluss noch erreicht — kein Anspruch.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: 26.2.2013, C-11/11 (Folkerts) — bei einheitlicher Buchung mit Anschlussflug ist die Verspätung am Endziel maßgeblich; EuGH, Urt. v.
-Lieferstück: Fachvotum zu Anschlussflug und Reiseplan mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.6. Distanz und Ausgleichszahlung berechnen
+### 16.9. Distanz und Ausgleichszahlung berechnen
 
 Bearbeitungsauftrag: Nicht-innergemeinschaftlich mindestens ein Flughafen außerhalb der EU. Sondergebiete Kanaren Madeira Azoren EU-Außengebiete EU-Recht gilt (innergemeinschaftlich). Norwegen Schweiz Island Liechtenstein mehrere bilaterale Abkommen — beachten ob VO 261/2004 anwendbar.
-Prüfschritte: Großkreisrechnung (Great Circle Distance) zwischen Abflug- und Zielflughafen; IATA-Standardkoordinaten der Flughäfen; Anschlussflug über Drittstaat als Umweg zählt nicht (Direktverbindungs-Maßstab); Innergemeinschaftlich Flug zwischen zwei Flughäfen die in der EU liegen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 7 VO 261/2004 — Ausgleichsanspruch in drei Stufen:; Großkreisrechnung (Great Circle Distance) zwischen Abflug- und Zielflughafen; IATA-Standardkoordinaten der Flughäfen; Anschlussflug über Drittstaat als Umweg zählt nicht (Direktverbindungs-Maßstab).
+Prüfschritte: Artikel 7 VO 261/2004 — Ausgleichsanspruch in drei Stufen:; Großkreisrechnung (Great Circle Distance) zwischen Abflug- und Zielflughafen; IATA-Standardkoordinaten der Flughäfen; Anschlussflug über Drittstaat als Umweg zählt nicht (Direktverbindungs-Maßstab); Innergemeinschaftlich Flug zwischen zwei Flughäfen die in der EU liegen.
+Normbezug aus dem Fachmaterial: Artikel 7 VO 261/2004 — Ausgleichsanspruch in drei Stufen:; Großkreisrechnung (Great Circle Distance) zwischen Abflug- und Zielflughafen; IATA-Standardkoordinaten der Flughäfen; Anschlussflug über Drittstaat als Umweg zählt nicht (Direktverbindungs-Maßstab).
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
-### 16.7. Ticket- und Fluginformationen erfassen
+### 16.10. Ticket- und Fluginformationen erfassen
 
 Bearbeitungsauftrag: Bei Foto-Belegen OCR; bei Konfidenz unter 90 Prozent Prüfer-Flag für manuelle Bestätigung. IATA-Codes (LH BA AF AZ) und Flughafen-Codes (FRA MUC CDG MAD) gegen Standardlisten validieren. Pro Flug wird ein Anspruchsfall mit mehreren Passagieren erfasst.
 Prüfschritte: Buchungsbestätigung als PDF / E-Mail; E-Ticket mit IATA-Standard-Konfiguration; Störungsbenachrichtigung von der Airline; Korrespondenz mit der Airline (E-Mail-Verlauf); Pauschalreiseunterlagen falls Buchung über Reiseveranstalter.
 Lieferstück: Fachvotum zu Ticket- und Fluginformationen erfassen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.8. Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004)
-
-Bearbeitungsauftrag: Beweislast liegt bei der Airline (Wortlaut "nachweisen kann"). Die Definition (1) nicht Teil der normalen Tätigkeit des Luftfahrtunternehmens und (2) tatsächlich nicht beherrschbar — st. Vor Versand jeden konkreten Sachverhalt mit einer offenen Quelle aus curia.europa.eu belegen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 5 Absatz 3 VO 261/2004: Ein ausführendes Luftfahrtunternehmen ist nicht verpflichtet Ausgleichszahlungen zu leisten wenn es nachweisen kann dass die Annullierung auf außergewöhnliche Umstände zurückgeht die sich auch dann nicht hätten vermeiden lassen wenn alle zumutbaren.
-Lieferstück: Fachvotum zu Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. Airline-Bonität und Vollstreckung
-
-Bearbeitungsauftrag: Bearbeite Airline-Bonität und Vollstreckung entlang der Fluggastrechte-Prüflinie: Buchung und Reichweite: Fluggast, Buchungscode, ausführendes Unternehmen, Abflug, Ziel, einheitliche Buchung und Anwendungsbereich sichern.
-Lieferstück: Fachvotum zu Airline-Bonität und Vollstreckung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.10. Annullierung Verspätung oder Nichtbeförderung einordnen
-
-Bearbeitungsauftrag: Kein Flug mit der konkreten Flugnummer und Datum ist abgehoben. Passagiere werden auf einen anderen Flug umgebucht oder bekommen die Erstattung. Auch Annullierung auch wenn der Flug am nächsten Tag mit gleicher Flugnummer stattfindet.
-Lieferstück: Fachvotum zu Annullierung Verspätung oder Nichtbeförderung einordnen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.11. Fluggastrechte VO 261: Einführung
 
@@ -275,5 +274,5 @@ Lieferstück: Fachvotum zu Fluggastrechte VO 261: Einführung mit Tatbestandsmer
 
 Bearbeitungsauftrag: Datenschutz beachten — keine unnötige Weiterleitung. vollmacht-[name]-[datum].docx pro Mitreisendem. Vollmacht-Versandliste mit Status (versendet / unterschrieben / vorliegt).
 Prüfschritte: Originale (oder Scans hoher Qualität) sind Pflichtanlagen jedes Schriftverkehrs; Aufbewahrung bis Anspruchsabwicklung plus drei Jahre (Verjährung).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Bei minderjährigen Mitreisenden ist die Vollmacht durch die erziehungsberechtigten Personen zu erteilen (regelmäßig beide Elternteile gemeinsam, sofern beide sorgeberechtigt — Paragraf 1626 BGB): Bei der Verarbeitung der personenbezogenen Daten der Mitreisenden ist Hinweis.
+Normbezug aus dem Fachmaterial: Bei minderjährigen Mitreisenden ist die Vollmacht durch die erziehungsberechtigten Personen zu erteilen (regelmäßig beide Elternteile gemeinsam, sofern beide sorgeberechtigt — Paragraf 1626 BGB): Bei der Verarbeitung der personenbezogenen Daten der Mitreisenden ist Hinweis.
 Lieferstück: Fachvotum zu Vollmacht für Familienmitglieder und Mitreisende mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

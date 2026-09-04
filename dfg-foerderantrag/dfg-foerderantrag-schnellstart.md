@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Programmfit, Erkenntn
 | --- | --- |
 | Normenanker | Die aktuelle Ausschreibung, das Merkblatt und die Programminformation; DFG-Verfahrensordnung und Grundsätze guter wissenschaftlicher Praxis; Landeshochschul-, Haushalts- und Zuwendungsrecht |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Förderlinie, Antragsteller, Karrierephase, Thema, Laufzeit, Volumen, Einreichweg und formale Ausschlüsse |
+| Tatbestand | Förderlinie, Antragsteller, Karrierephase, Thema, Laufzeit, Volumen, Einreichweg und formale Ausschlüsse feststellen |
 | Beweislast | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe |
 | Rechtsfolge | Projektbeschreibung, Finanzplan, Zeitplan, Reviewer-Matrix, Einreichcheck oder Wiedereinreichungsantwort erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,9 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Programmfit, Erkenntn
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Programmfit | Förderlinie, Antragsteller, Karrierephase, Thema, Laufzeit, Volumen, Einreichweg und formale Ausschlüsse. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Erkenntnislogik | Forschungslücke, präzise Frage, Hypothese, Stand der Forschung, eigene Vorarbeiten und erwarteter Erkenntnisgewinn. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprogramm | Arbeitspakete, Methoden, Stichprobe oder Material, Meilensteine, Abhängigkeiten, Risiken und Alternativen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Programmfit | Förderlinie, Antragsteller, Karrierephase, Thema, Laufzeit, Volumen, Einreichweg und formale Ausschlüsse feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Erkenntnislogik | Forschungslücke, präzise Frage, Hypothese, Stand der Forschung, eigene Vorarbeiten und erwarteter Erkenntnisgewinn verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprogramm | Arbeitspakete, Methoden, Stichprobe oder Material, Meilensteine, Abhängigkeiten, Risiken und Alternativen konkretisieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker

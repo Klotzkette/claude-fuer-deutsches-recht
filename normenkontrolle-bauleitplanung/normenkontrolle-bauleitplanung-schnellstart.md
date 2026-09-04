@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Planangriff und Verfa
 | --- | --- |
 | Normenanker | BauGB Paragraf 1 Absatz 3; BauGB Paragraf 1 Absatz 7; BauGB Paragraf 2 Absatz 3 |
 | Rechtsprechung | BVerwG, Urteil vom 25.11.2005 - 4 C 15.04; BVerwG, Urteil vom 29.01.2009 - 4 C 15.07 |
-| Tatbestand | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen |
+| Tatbestand | Satzungsbeschluss, Bekanntmachung, Rügefrist, Antragsteller und Rechtsschutzbedürfnis feststellen |
 | Beweislast | Planer für Leistungsstand, Koordination und Honorargrund; Auftraggeber für Anordnung, Mitwirkung, Abnahme und Einwand |
 | Rechtsfolge | Planervermerk, LPH-Nachweis, Honorar, Nachtrag, Mängelverfolgung oder Bauüberwachungsanweisung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,12 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Planangriff und Verfa
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Planangriff und Verfahrensstand | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Festsetzungen | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Städtebauliche Verträge | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vorhabenbezogener Plan | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Erschließung und Kosten | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Innenentwicklung und Verfahren | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Planangriff und Verfahrensstand | Satzungsbeschluss, Bekanntmachung, Rügefrist, Antragsteller und Rechtsschutzbedürfnis feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Festsetzungen | BauGB Paragraf 9, BauNVO, Planzeichnung, textliche Festsetzungen, Bestimmtheit und Rechtsgrundlage prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Städtebauliche Verträge | BauGB Paragraf 11, Folgekosten, Angemessenheit, Kausalität, Schriftform und Rückabwicklung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vorhabenbezogener Plan | BauGB Paragraf 12, Vorhaben- und Erschließungsplan, Durchführungsvertrag, Frist und Kosten abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Erschließung und Kosten | Vertrag nach BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1, heutige Erschließungspflicht nach Paragraf 124, Erschließungsbeiträge, Anlagenliste und Umgehungsrisiko ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Innenentwicklung und Verfahren | BauGB Paragraf 13, 13a und Übergangsfragen zu 13b, Umweltprüfung und Beteiligung kontrollieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

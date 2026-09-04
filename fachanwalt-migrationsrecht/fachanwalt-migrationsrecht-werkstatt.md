@@ -96,9 +96,7 @@ Arbeitsgriff Arbeitsprodukt: Antragspaket, Anhörungsvorbereitung, Widerspruch, 
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| EuGH, Urteil vom 19.03.2019, C-163/17, Jawo | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Für Dublin-III-Fälle erläutert die Entscheidung Überstellungsfrist, Flüchtigsein und die hohe Schwelle des Artikels 4 GRCh bei drohender extremer materieller Not |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Antragspaket, Anhörungsvorbereitung, Widerspruch, Klage, Eilantrag, Duldungs- oder Einbürgerungsunterlage erstellen
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -121,7 +119,7 @@ Arbeitsgriff Arbeitsprodukt: Antragspaket, Anhörungsvorbereitung, Widerspruch, 
 
 ## 8. Leitentscheidungen
 
-- EuGH, Urteil vom 19.03.2019, C-163/17, Jawo: Für Dublin-III-Fälle erläutert die Entscheidung Überstellungsfrist, Flüchtigsein und die hohe Schwelle des Artikels 4 GRCh bei drohender extremer materieller Not.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -143,7 +141,7 @@ Arbeitsgriff Arbeitsprodukt: Antragspaket, Anhörungsvorbereitung, Widerspruch, 
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Anspruchsvoraussetzung, Ausnahme oder Ermessensnorm ist für das konkrete Ziel entscheidend an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Antragspaket, Anhörungsvorbereitung, Widerspruch, Klage, Eilantrag, Duldungs- oder Einbürgerungsunterlage erstellen; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Statuschronologie: Einreise, Antrag, Titel, Verlängerung, Bescheid, Rechtsbehelf, Vollzug und Nachweis; Antragspaket: Ziel, Anspruch, Person, Urkunden, Lebensunterhalt, Wohnraum, Sprache, Ausnahme, Termin und Anlagen.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 19.03.2019, C-163/17, Jawo.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -184,7 +182,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Ausweisung Widerspruch | Schwer wiegend Paragraf 54 II AufenthG (Verurteilung 1-2 Jahre, oder besonders schwere Fälle). Schwerwiegend Paragraf 55 I AufenthG (langer Aufenthalt + Niederlassungserlaubnis). | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Bamf Anhörung Strategie | AufenthG Paragrafen 5, 7, 25 — Aufenthaltstitel. VwVfG Paragrafen 24, 25 — Untersuchungsgrundsatz. Paragraf 14 VwVfG — Verfahrensbeteiligten-Anwalt-Bestellung | Fachvotum zu Bamf Anhörung Strategie mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Zuständigkeit und Überstellungsfrist im europäischen Asylsystem prüfen | Bestimme zuerst das Registrierungsdatum des Asylantrags. Vor dem 12.06.2026 registrierte Anträge: Zuständigkeit weiterhin nach Verordnung (EU) Nummer 604/2013, Dublin III, gemäß Artikel 84 Absatz 2 der Verordnung (EU). | Fristenblatt zu Zuständigkeit und Überstellungsfrist im europäischen Asylsystem prüfen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
-| Asylantrag Folgeverfahren Paragraf 71 AsylG | Bearbeite Asylantrag Folgeverfahren Paragraf 71 AsylG entlang der Migrations-, Asyl-, Freizügigkeits- und Staatsangehörigkeitsrecht-Prüflinie: Person und Status: Staatsangehörigkeit, Familienstand, Einreise, aktueller. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Geas Reform Grenzverfahren 2024 | Datum des Schutzgesuchs — ist die 7-Tage-Rechtsbehelfsfrist noch offen oder bereits abgelaufen? Wurde die Anhörung ordnungsgemäß durchgeführt (ausreichende Dauer, qualifizierter Dolmetscher, Dialekt korrekt)? | Fachvotum zu Geas Reform Grenzverfahren 2024 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | EU-Freizügigkeit, Aufenthalt und Krankenversicherung prüfen | Ordne den Aufenthaltsgrund für jeden Zeitraum getrennt zu. Arbeitnehmer-, Selbständigen-, Arbeitssuchenden-, Ausbildungs- oder Nichterwerbstätigenstatus zuordnen. | Fachvotum zu EU-Freizügigkeit, Aufenthalt und Krankenversicherung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 
 ## 16. Fachspezifische Praxisrouten
@@ -195,7 +193,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Wird der Lebensunterhalt ohne öffentliche Mittel gesichert (Paragraf 2 Absatz 3 AufenthG — konkreter Einkommensnachweis vorhanden)? Bestehen Vorstrafen, laufende Ermittlungsverfahren oder Ausweisungsinteressen Paragraf 54 AufenthG? Liegt ein gültiger Reisepass vor (Paragraf 3 AufenthG), und ist die Identität im Sinne von Paragraf 5 Absatz 1 Nummer 1a AufenthG geklärt?
 Prüfschritte: Welcher Aufenthaltszweck liegt vor — Erwerbstätigkeit (Paragrafen 18 und folgende ), Studium (Paragraf 16b), Familiennachzug (Paragrafen 27 und folgende ), humanitärer Aufenthalt (Paragrafen 22–26), Niederlassungserlaubnis (Paragraf 9)?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Welcher Aufenthaltszweck liegt vor — Erwerbstätigkeit (Paragrafen 18 und folgende ), Studium (Paragraf 16b), Familiennachzug (Paragrafen 27 und folgende ), humanitärer Aufenthalt (Paragrafen 22–26), Niederlassungserlaubnis (Paragraf 9)?
+Normbezug aus dem Fachmaterial: Welcher Aufenthaltszweck liegt vor — Erwerbstätigkeit (Paragrafen 18 und folgende ), Studium (Paragraf 16b), Familiennachzug (Paragrafen 27 und folgende ), humanitärer Aufenthalt (Paragrafen 22–26), Niederlassungserlaubnis (Paragraf 9)?
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.2. Abschiebungsabwehr
@@ -208,7 +206,7 @@ Lieferstück: Fachvotum zu Abschiebungsabwehr mit Tatbestandsmerkmalen, Aktenfun
 
 Bearbeitungsauftrag: Prüfe nicht vorschnell nur die Blaue Karte EU, sondern vergleiche mindestens Paragraf 18b und Paragraf 18g AufenthG. Paragraf 18g AufenthG regelt die Blaue Karte EU. Prüfe Paragraf 18a, Paragraf 19c, Anerkennungsmaßnahmen und Chancenkarte nur, wenn Qualifikation oder Beschäftigung die akademische Fachkraftspur nicht tragen.
 Prüfschritte: Lies Pass, Abschluss und Anerkennungsnachweis, Arbeitsvertrag, Tätigkeitsbeschreibung, Gehalt, Wochenstunden, Berufserlaubnis, Voraufenthalte und Behördenkorrespondenz.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Routet akademische Fachkräfte zwischen Aufenthaltserlaubnis nach Paragraf 18b AufenthG und Blauer Karte EU nach Paragraf 18g.
+Normbezug aus dem Fachmaterial: Routet akademische Fachkräfte zwischen Aufenthaltserlaubnis nach Paragraf 18b AufenthG und Blauer Karte EU nach Paragraf 18g.
 Lieferstück: Fachvotum zu Akademische Fachkraft und Blaue Karte EU mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Kindernachzug nach Paragraf 32 AufenthG prüfen
@@ -233,10 +231,12 @@ Bearbeitungsauftrag: Bestimme zuerst das Registrierungsdatum des Asylantrags. Vo
 Prüfschritte: Ohne diese Weiche lässt sich weder das anwendbare Regelwerk noch die richtige Artikelkette zuverlässig bestimmen; Nach dem 12.06.2026 registrierte Anträge: Verordnung (EU) 2024/1351 über Asyl- und Migrationsmanagement, AMMR.
 Lieferstück: Fristenblatt zu Zuständigkeit und Überstellungsfrist im europäischen Asylsystem prüfen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.8. Asylantrag Folgeverfahren Paragraf 71 AsylG
+### 16.8. Geas Reform Grenzverfahren 2024
 
-Bearbeitungsauftrag: Bearbeite Asylantrag Folgeverfahren Paragraf 71 AsylG entlang der Migrations-, Asyl-, Freizügigkeits- und Staatsangehörigkeitsrecht-Prüflinie: Person und Status: Staatsangehörigkeit, Familienstand, Einreise, aktueller Titel, Antrag, Fiktionswirkung.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+Bearbeitungsauftrag: Datum des Schutzgesuchs — ist die 7-Tage-Rechtsbehelfsfrist noch offen oder bereits abgelaufen? Wurde die Anhörung ordnungsgemäß durchgeführt (ausreichende Dauer, qualifizierter Dolmetscher, Dialekt korrekt)? Wurden Verfahrensgarantien beachtet (Rechtsbelehrung in verstandener Sprache, Recht auf Anwalt, Dolmetscher)?
+Prüfschritte: Aus welchem Herkunftsland stammt der Mandant — liegt die Anerkennungsquote der letzten fünf Jahre unter 20 % (Grenzverfahren-Pflicht nach Artikel 42 GVO 2024/1349)?
+Normbezug aus dem Fachmaterial: Aus welchem Herkunftsland stammt der Mandant — liegt die Anerkennungsquote der letzten fünf Jahre unter 20 % (Grenzverfahren-Pflicht nach Artikel 42 GVO 2024/1349)?
+Lieferstück: Fachvotum zu Geas Reform Grenzverfahren 2024 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.9. EU-Freizügigkeit, Aufenthalt und Krankenversicherung prüfen
 
@@ -244,19 +244,20 @@ Bearbeitungsauftrag: Ordne den Aufenthaltsgrund für jeden Zeitraum getrennt zu.
 Prüfschritte: Arbeitslosigkeit beseitigt ein Aufenthaltsrecht nicht automatisch; entscheidend sind vorheriger Erwerbsstatus, Dauer, unfreiwillige Arbeitslosigkeit und weitere Tatbestände; für Zeiträume nach Erwerb des Daueraufenthaltsrechts gilt dieses Erfordernis nicht fort.
 Lieferstück: Fachvotum zu EU-Freizügigkeit, Aufenthalt und Krankenversicherung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Staatsangehörigkeit Paragraf 10 StAG
+### 16.10. Subsidiären Schutz nach Paragraf 4 AsylG prüfen
 
-Bearbeitungsauftrag: Bearbeite Staatsangehörigkeit Paragraf 10 StAG entlang der Migrations-, Asyl-, Freizügigkeits- und Staatsangehörigkeitsrecht-Prüflinie: Person und Status: Staatsangehörigkeit, Familienstand, Einreise, aktueller Titel, Antrag, Fiktionswirkung.
-Lieferstück: Fachvotum zu Staatsangehörigkeit Paragraf 10 StAG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Trenne Flüchtlingseigenschaft, subsidiären Schutz und nationale Abschiebungsverbote. behaupteten ernsthaften Schaden einer Alternative des Paragrafen 4 Absatz 1 AsylG zuordnen. Schutzakteure und zumutbaren, sicheren und erreichbaren internen Schutz prüfen.
+Prüfschritte: Subsidiärer Schutz ist nicht lediglich eine abgeschwächte Form politischer Verfolgung; individuelle Exposition, Rückkehrort, Reiseweg und persönliche gefahrerhöhende Umstände feststellen.
+Normbezug aus dem Fachmaterial: Prüfe subsidiären Schutz nach Paragraf 4 AsylG anhand ernsthaften Schadens, individueller Gefahr, innerstaatlichem Schutz und Ausschlussgründen und erstellt eine herkunftslandbezogene Beweis- und Klagestrategie.
+Lieferstück: Fachvotum zu Subsidiären Schutz nach Paragraf 4 AsylG prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.11. Abschiebungshaft: Fachmodul im Migrationsrecht
 
 Bearbeitungsauftrag: Tatbestand: Normmerkmale, Ausnahmen, Ermessen, Versagungsgründe und Gegenargumente. EU/EMRK/GFK: Unionsrechtliche oder menschenrechtliche Ebene prüfen, wenn sie den Fall tragen kann. Staatenbezug: Herkunfts-, Transit- und Zielstaat nur mit aktuellen Quellen bewerten; keine statischen Sicherheitsannahmen.
 Lieferstück: Fachvotum zu Abschiebungshaft: Fachmodul im Migrationsrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Antrag auf Einbürgerung nach StAG
+### 16.12. Asyl Anhörung Vorbereiten
 
-Bearbeitungsauftrag: Begründung: Fünfjahresfrist Paragraf 10 StAG. Vorstrafen — Bundeszentralregisterauszug angefordert? Soll die bisherige Staatsangehörigkeit beibehalten werden.
-Prüfschritte: Wie lange hält sich der Mandant rechtmäßig in Deutschland auf — genaues Datum des ersten rechtmäßigen Aufenthaltstitels?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Begründung: Fünfjahresfrist Paragraf 10 StAG.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+Bearbeitungsauftrag: Ist der Mandant minderjährig oder unbegleitet? Falls ja: Verfahrensbeistand nach Paragraf 12a AsylG bestellt? Welche Beweismittel (Fotos, Atteste, Anzeigencopies, Zeugen) können zur Anhörung mitgebracht werden?
+Prüfschritte: Wann ist der Anhörungs-Termin (Datum, Uhrzeit, BAMF-Außenstelle) — und wie viel Zeit bleibt zur Vorbereitung?
+Lieferstück: Fachvotum zu Asyl Anhörung Vorbereiten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

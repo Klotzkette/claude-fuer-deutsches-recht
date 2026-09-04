@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Objekt, Z
 | --- | --- |
 | Normenanker | BGB Paragraf 535; BGB Paragraf 536; BGB Paragraf 543 und Paragraf 569 |
 | Rechtsprechung | BGH, Urteil vom 18.03.2015 - VIII ZR 185/14; BGH, Urteil vom 18.03.2015 - VIII ZR 242/13 |
-| Tatbestand | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren |
+| Tatbestand | Wohnraum, Gewerberaum oder WEG-Bezug, Parteien, Mietbeginn, Miethöhe und Klauseln erfassen |
 | Beweislast | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen |
 | Rechtsfolge | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Objekt, Z
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Vertrag und Objekt | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zahlung und Abrechnung | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Mangel und Nutzung | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kündigung und Räumung | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| WEG-Beschluss und Verwaltung | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertrag und Objekt | Wohnraum, Gewerberaum oder WEG-Bezug, Parteien, Mietbeginn, Miethöhe und Klauseln erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zahlung und Abrechnung | Rückstände, Betriebskosten, Vorauszahlungen, Kaution und Verjährung rechnerisch prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mangel und Nutzung | Anzeige, Beweis, Minderungsquote, Zurückbehaltung und Instandsetzung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kündigung und Räumung | Kündigungsgrund, Fristen, Schutzvorschriften, Amtsgerichtszuständigkeit und Vollstreckung abbilden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| WEG-Beschluss und Verwaltung | Beschluss, Einladungsfehler, Beschlusskompetenz, ordnungsmäßige Verwaltung und Klagefrist prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,6 +59,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Objekt, Z
 - Paragraf 259 BGB: geordnete Rechnungslegung und Belegvorlage; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 535 Abs. 1 und 2 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 536 Abs. 1 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: Eine formularmäßige Schönheitsreparaturklausel für unrenoviert oder renovierungsbedürftig überlassenen Wohnraum ist ohne angemessenen Ausgleich unwirksam; den Anfangszustand beweist der Mieter, den Ausgleich der Vermieter.
+- BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Formularmäßige Quotenabgeltungsklauseln sind wegen der mehrfach hypothetischen und nicht sicher einschätzbaren Kostenbelastung unwirksam.
 
 ## 7. Antwortform
 

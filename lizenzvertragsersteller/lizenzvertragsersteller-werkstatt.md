@@ -79,7 +79,7 @@ Entwurfsgriff Arbeitsprodukt: Term Sheet, IP Schedule, Lizenzvertrag, Clause Mar
 | --- | --- | --- | --- |
 | Geschäfts- und Regelungskern | Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG) | BGB-Vertragsrecht und AGB-Kontrolle | Entwurfsvermerk mit Ziel- und Rückfallposition |
 | Mechanik und Fassung | Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf | UrhG Paragraf 31 ff., PatG Paragraf 15, MarkenG Paragraf 30 | Klausel oder Redline mit Varianten |
-| Nachweis und Freigabe | Klausel Rechtswahl, Gerichtsstand, Schiedsklausel | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | Gremien-, Bedingungs- und Dokumentenmatrix |
+| Nachweis und Freigabe | Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | Gremien-, Bedingungs- und Dokumentenmatrix |
 | Vollzug | Term Sheet, IP Schedule, Lizenzvertrag, Clause Mark-up, TTBER-Matrix, Royalty-Modell oder Closing Checklist erstellen | Verantwortlicher, Termin und Erfüllungsnachweis | Signing-, Closing- oder Registerliste |
 
 ## 5. Rechtsanker, Regelungsmechanik, Nachweis und Vollzug
@@ -96,10 +96,7 @@ Entwurfsgriff Arbeitsprodukt: Term Sheet, IP Schedule, Lizenzvertrag, Clause Mar
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Risikozuweisung
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| EuGH, Urteil vom 04.10.2024 - C-621/22 (KNLTB) - vor Zitierung im Volltext auf curia.europa.eu verifizieren | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | EuGH, Urteil vom 04.10.2024 - C-621/22 (KNLTB) - vor Zitierung im Volltext auf curia.europa.eu verifizieren; die Entscheidung ersetzt weder Erforderlichkeits- noch Abwägungsprüfung |
-| BGH IX ZR 162/04 und I ZR 173/14 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | https://juris.bundesgerichtshof.de/ |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Term Sheet, IP Schedule, Lizenzvertrag, Clause Mark-up, TTBER-Matrix, Royalty-Modell oder Closing Checklist erstellen
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -122,8 +119,7 @@ Entwurfsgriff Arbeitsprodukt: Term Sheet, IP Schedule, Lizenzvertrag, Clause Mar
 
 ## 8. Leitentscheidungen
 
-- EuGH, Urteil vom 04.10.2024 - C-621/22 (KNLTB) - vor Zitierung im Volltext auf curia.europa.eu verifizieren; die Entscheidung ersetzt weder Erforderlichkeits- noch Abwägungsprüfung.
-- BGH IX ZR 162/04 und I ZR 173/14: https://juris.bundesgerichtshof.de/.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -145,7 +141,7 @@ Entwurfsgriff Arbeitsprodukt: Term Sheet, IP Schedule, Lizenzvertrag, Clause Mar
 10.6. Gegenposition: Formuliere die stärkste Verhandlungsposition der anderen Seite; sie setzt typischerweise bei Grant, Definitionen, Anlagen und technische Realität vollständig deckungsgleich an.
 10.7. Rückfallposition: Antworte mit konkreter Alternativfassung, Preis- oder Vollzugsausgleich und zeige die Auswirkung auf Term Sheet, IP Schedule, Lizenzvertrag, Clause Mark-up, TTBER-Matrix, Royalty-Modell oder Closing Checklist erstellen.
 10.8. Entwurf und Vollzug: Schließe mit IP Schedule: Asset, Register, Inhaber, Nachweis, Belastung, Drittkomponente, Lizenzrecht, Gebiet und Lücke; Grant-Klausel: Schutzgegenstand, Recht, Umfang, Gebiet, Feld, Dauer, Exklusivität, Unterlizenz, Übertragung und Vorbehalt; Verantwortlicher, Termin, Bedingung und Erfüllungsnachweis sind ausformuliert.
-10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind EuGH, Urteil vom 04.10.2024 - C-621/22 (KNLTB) - vor Zitierung; BGH IX ZR 162/04 und I ZR 173/14.
+10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -180,14 +176,14 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG) | Zweckübertragungstheorie (Paragraf 31 Absatz 5 UrhG): Im Zweifel nur die Rechte, die für den Vertragszweck erforderlich sind. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag | Lizenzgeber liefert Software/SaaS; Lizenznehmer ist Verantwortlicher; Lizenzgeber Auftragsverarbeiter. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Klausel Rechtswahl, Gerichtsstand, Schiedsklausel | Standard Deutsches Recht / DIS-Schiedsgericht: "Paragraf 15 Rechtswahl und Streitbeilegung. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Sicherungslizenz und Pfandrecht an Immaterialgütern | Im Insolvenzfall: Sicherheitennehmer ist Eigentümer, kein Paragraf 103 InsO. Die Bedingung tritt mit Eintritt des Sicherungsfalls im Sinne von Absatz 3 ein. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Exportkontrolle — Dual-Use und Lizenz | Kategorie 9: Luft- und Raumfahrt → Software/Quellcode mit Krypto-Funktionen, System-Modelle mit dual-use-Anwendung, Datenanalyse-Tools für Überwachung: regelmäßig erfasst. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Steuern und Quellensteuer — Lizenz | B2B Lizenz innerhalb EU: Reverse-Charge (Paragraf 13b UStG). Außergewöhnliche Geschäftsveräußerung im Ganzen: Paragraf 1 Ia UStG. Quellensteuer-Klausel (Groß-up): "Paragraf 19 Steuern | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag | Lizenzgeber liefert Software/SaaS; Lizenznehmer ist Verantwortlicher; Lizenzgeber Auftragsverarbeiter. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Parteienrollen klären | (Patentgemeinschaft Paragraf 6 PatG, Paragraf 8 UrhG). Aktualisierungspflicht: wie oft wird das Repository hinterlegt? Kosten und Streitfall: wer trägt die Escrow-Kosten? | Entwurfsbaustein zu Parteienrollen klären mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | IP-Identifikation und Bestandsaufnahme | Arbeitnehmererfindergesetz Paragraf 9 ArbnErfG; Vergütung an Erfinder schon abgelöst? Open-Source-Komponenten erfasst, Lizenzkompatibilität Paragraf 69c UrhG? Paragraf 69a UrhG schützt Computerprogramme als Werke | Entwurfsbaustein zu IP-Identifikation und Bestandsaufnahme mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-| Kartellrechtliche Prüfung nach der TTBER 2026 | Verdächtige Klauseln nach Artikel 4 oder Artikel 5 TTBER. konkrete Redline oder Prüfauftrag für Artikel 101 Absatz 3 AEUV. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| Lizenzvertrag und Insolvenz | Lies Lizenzvertrag, Nachträge, Zahlungsstand, Rechtekette, Kündigungen, Escrow-Vereinbarung und Insolvenzdaten. Bestimme für jede offene Pflicht, ob sie im Gegenseitigkeitsverhältnis steht. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| Escrow / Quellcode-Verwahrer-Vereinbarung | Bei Ausfall des Lizenzgebers (Insolvenz, Geschäftsaufgabe) braucht der Lizenznehmer Zugriff auf Source Code, um den Betrieb fortzuführen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -197,27 +193,27 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Zweckübertragungstheorie (Paragraf 31 Absatz 5 UrhG): Im Zweifel nur die Rechte, die für den Vertragszweck erforderlich sind. Angemessenheits-Korrektur (Paragraf 32 UrhG): Urheber hat Anspruch auf nachträgliche Anpassung der Vergütung; nicht abdingbar (zwingend). Weitere Beteiligung (Paragraf 32a UrhG): Bei auffälligem Missverhältnis besteht ein zwingender Anspruch auf Vertragsanpassung.
 Prüfschritte: → Im Vertrag konkrete Nutzungsarten aufzählen; Hat der ursprüngliche Vertragspartner das Nutzungsrecht übertragen oder weitere Nutzungsrechte eingeräumt und ergibt sich das Missverhältnis aus Erträgen oder Vorteilen eines Dritten, richtet sich der Anspruch nach Absatz 2 unmittelbar gegen diesen Dritten; Rechtekette, Erlösstufe und Anspruchsgegner deshalb getrennt feststellen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Zweckübertragungstheorie (Paragraf 31 Absatz 5 UrhG): Im Zweifel nur die Rechte, die für den Vertragszweck erforderlich sind.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.2. Klausel Rechtswahl, Gerichtsstand, Schiedsklausel
+### 16.2. Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag
+
+Bearbeitungsauftrag: Lizenzgeber liefert Software/SaaS; Lizenznehmer ist Verantwortlicher; Lizenzgeber Auftragsverarbeiter. Überträgt eine Lizenzgestaltung Daten vom Lizenzgeber an den Lizenznehmer, ist die Verantwortlichkeit beider Seiten getrennt zu bestimmen. Artikel 6 Absatz 1 Buchstabe f Datenschutz-Grundverordnung verlangt ein rechtmäßiges Interesse, Erforderlichkeit einschließlich Datenminimierung und eine konkrete Interessenabwägung; Artikel 14 Datenschutz-Grundverordnung ist gesondert zu prüfen.
+Prüfschritte: → Pflicht-AVV nach Artikel 28 III Datenschutz-Grundverordnung; C-621/22 (KNLTB) dient nur als Anker dafür, dass ein kommerzielles Interesse grundsätzlich berechtigt sein kann.
+Normbezug aus dem Fachmaterial: → Pflicht-AVV nach Artikel 28 III Datenschutz-Grundverordnung; → Pflicht-AVV nach Artikel 28 III Datenschutz-Grundverordnung; C-621/22 (KNLTB) dient nur als Anker dafür, dass ein kommerzielles Interesse grundsätzlich berechtigt sein kann.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.3. Klausel Rechtswahl, Gerichtsstand, Schiedsklausel
 
 Bearbeitungsauftrag: Standard Deutsches Recht / DIS-Schiedsgericht: "Paragraf 15 Rechtswahl und Streitbeilegung. (1) Dieser Vertrag unterliegt dem Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts (CISG) sowie der IPR-Vorschriften. Mediation-Vorschaltung: "(3) Vor Anrufung des Schiedsgerichts verpflichten sich die Parteien zur Durchführung eines Mediationsverfahrens nach der Mediationsordnung der DIS.
 Prüfschritte: (2) Alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag werden nach der Schiedsgerichtsordnung der Deutschen Institution für Schiedsgerichtsbarkeit (DIS) unter Ausschluss des ordentlichen Rechtsweges endgültig entschieden; Schiedsort ist [Frankfurt am Main / Berlin / München]; Verfahrenssprache ist [Deutsch / Englisch].
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Standard Deutsches Recht / DIS-Schiedsgericht: "Paragraf 15 Rechtswahl und Streitbeilegung.
+Normbezug aus dem Fachmaterial: Standard Deutsches Recht / DIS-Schiedsgericht: "Paragraf 15 Rechtswahl und Streitbeilegung.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.3. Sicherungslizenz und Pfandrecht an Immaterialgütern
+### 16.4. Sicherungslizenz und Pfandrecht an Immaterialgütern
 
 Bearbeitungsauftrag: Im Insolvenzfall: Sicherheitennehmer ist Eigentümer, kein Paragraf 103 InsO. Die Bedingung tritt mit Eintritt des Sicherungsfalls im Sinne von Absatz 3 ein. (2) Der Sicherheitengeber ist berechtigt, das Sicherheitspatent während des Bestehens der gesicherten Forderung weiterhin in eigenem Namen zu nutzen, zu pflegen, Verlängerungsgebühren zu entrichten und Lizenzen an Dritte zu vergeben.
 Prüfschritte: Voll-Übertragung des IP an den Sicherheitennehmer; aufschiebend bedingt durch Tilgung des gesicherten Kredits; tritt bei Eintritt des Sicherungsfalls automatisch in Kraft; (1) Zur Sicherung der Forderungen des Sicherheitennehmers aus dem Darlehensvertrag vom [Datum] tritt der Sicherheitengeber das Patent [Reg.-Nummer ] ("Sicherheitspatent") aufschiebend bedingt an den Sicherheitennehmer ab.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Im Insolvenzfall: Sicherheitennehmer ist Eigentümer, kein Paragraf 103 InsO.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.4. Exportkontrolle — Dual-Use und Lizenz
-
-Bearbeitungsauftrag: Kategorie 9: Luft- und Raumfahrt → Software/Quellcode mit Krypto-Funktionen, System-Modelle mit dual-use-Anwendung, Datenanalyse-Tools für Überwachung: regelmäßig erfasst. Export-Compliance allgemein: "Paragraf 17 Exportkontrolle. (1) Die Parteien beachten sämtliche anwendbaren exportkontrollrechtlichen Vorschriften, insbesondere die VO (EU) 2021/821 (Dual-Use), das AWG/AWV, die jeweiligen EU-Sanktionsverordnungen sowie.
-Prüfschritte: Kategorie 1: Werkstoffe, Chemikalien, biologische Mittel; Kategorie 5 Teil 1: Telekommunikation; Kategorie 5 Teil 2: Informationssicherheit (Kryptografie!).
+Normbezug aus dem Fachmaterial: Im Insolvenzfall: Sicherheitennehmer ist Eigentümer, kein Paragraf 103 InsO.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.5. Steuern und Quellensteuer — Lizenz
@@ -226,42 +222,40 @@ Bearbeitungsauftrag: B2B Lizenz innerhalb EU: Reverse-Charge (Paragraf 13b UStG)
 Prüfschritte: Doppelbesteuerungsabkommen reduzieren regelmäßig die Quellensteuer: → Vor Vertragsschluss: DBA prüfen, Freistellungsbescheinigung beantragen; B2C Lizenz: USt-Pflicht im Empfängerland; (1) Lizenzgebühren sind ohne Abzug von Steuern, Gebühren oder anderen Abgaben zu zahlen.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.6. Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag
-
-Bearbeitungsauftrag: Lizenzgeber liefert Software/SaaS; Lizenznehmer ist Verantwortlicher; Lizenzgeber Auftragsverarbeiter. Überträgt eine Lizenzgestaltung Daten vom Lizenzgeber an den Lizenznehmer, ist die Verantwortlichkeit beider Seiten getrennt zu bestimmen. Artikel 6 Absatz 1 Buchstabe f Datenschutz-Grundverordnung verlangt ein rechtmäßiges Interesse, Erforderlichkeit einschließlich Datenminimierung und eine konkrete Interessenabwägung; Artikel 14 Datenschutz-Grundverordnung ist gesondert zu prüfen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: → Pflicht-AVV nach Artikel 28 III Datenschutz-Grundverordnung.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.7. Parteienrollen klären
+### 16.6. Parteienrollen klären
 
 Bearbeitungsauftrag: (Patentgemeinschaft Paragraf 6 PatG, Paragraf 8 UrhG). Aktualisierungspflicht: wie oft wird das Repository hinterlegt? Kosten und Streitfall: wer trägt die Escrow-Kosten?
 Prüfschritte: (Schutzrechtsregister, Originaltitel); Konzernrechtlich: Tochtergesellschaft als Inhaber (typisch bei IP-Holding); Soll Konzernunternehmen als Lizenznehmer mitgelten; (Quellensteuer-Geheimnis, AGB-Schwäche); Sicherungslizenz: aufschiebend bedingt + Verwertungsrecht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: (Patentgemeinschaft Paragraf 6 PatG, Paragraf 8 UrhG); Vorbelastungen?
+Normbezug aus dem Fachmaterial: (Patentgemeinschaft Paragraf 6 PatG, Paragraf 8 UrhG); Vorbelastungen?
 Lieferstück: Entwurfsbaustein zu Parteienrollen klären mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.8. IP-Identifikation und Bestandsaufnahme
+### 16.7. IP-Identifikation und Bestandsaufnahme
 
 Bearbeitungsauftrag: Arbeitnehmererfindergesetz Paragraf 9 ArbnErfG; Vergütung an Erfinder schon abgelöst? Open-Source-Komponenten erfasst, Lizenzkompatibilität Paragraf 69c UrhG? Paragraf 69a UrhG schützt Computerprogramme als Werke.
 Prüfschritte: Belastungen = Lizenzen Dritter, Pfandrechte, Sicherungsabtretungen, Veröffentlichungen die Patentschutz gefährden.
 Lieferstück: Entwurfsbaustein zu IP-Identifikation und Bestandsaufnahme mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.9. Kartellrechtliche Prüfung nach der TTBER 2026
-
-Bearbeitungsauftrag: Verdächtige Klauseln nach Artikel 4 oder Artikel 5 TTBER. konkrete Redline oder Prüfauftrag für Artikel 101 Absatz 3 AEUV. Die TTBER erfasst Vereinbarungen zwischen zwei Unternehmen, durch die Technologierechte zur Produktion von Vertragsprodukten lizenziert oder übertragen werden.
-Prüfschritte: Lies Vertrag, IP-Anlage, Parteien- und Produktbeschreibung zuerst; Liefere dann eine TTBER-Kurzkarte mit.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.10. Lizenzvertrag und Insolvenz
+### 16.8. Lizenzvertrag und Insolvenz
 
 Bearbeitungsauftrag: Lies Lizenzvertrag, Nachträge, Zahlungsstand, Rechtekette, Kündigungen, Escrow-Vereinbarung und Insolvenzdaten. Bestimme für jede offene Pflicht, ob sie im Gegenseitigkeitsverhältnis steht. Laufende Vergütung, fortdauernde Gebrauchsüberlassung, Updates, Wartung, Schutzrechtsverteidigung und Abrechnung können unterschiedlich einzuordnen sein.
 Prüfschritte: Liefere eine Leistungsmatrix zum Eröffnungszeitpunkt: bereits eingeräumtes Recht, noch offene Hauptpflicht jeder Seite, bloße Nebenpflicht, aufschiebende Bedingung, Kündigungsrecht und technisch notwendige Fortführungsleistung.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.11. Escrow / Quellcode-Verwahrer-Vereinbarung
+### 16.9. Escrow / Quellcode-Verwahrer-Vereinbarung
 
 Bearbeitungsauftrag: Bei Ausfall des Lizenzgebers (Insolvenz, Geschäftsaufgabe) braucht der Lizenznehmer Zugriff auf Source Code, um den Betrieb fortzuführen. Deutscher Anwalts-/Notarverwahrer (kleine Vertragsvolumina) "Der Lizenzgeber hinterlegt einen aktualisierten Source Code mindestens vierteljährlich.
 Prüfschritte: Lizenznehmer macht sich von der Software des Lizenzgebers abhängig; Lösung: Drei-Parteien-Escrow-Vertrag; Iron Mountain (Marktführer, USA + Europa); NCC Group (UK, mit Verification-Services).
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.10. Exportkontrolle — Dual-Use und Lizenz
+
+Bearbeitungsauftrag: Kategorie 9: Luft- und Raumfahrt → Software/Quellcode mit Krypto-Funktionen, System-Modelle mit dual-use-Anwendung, Datenanalyse-Tools für Überwachung: regelmäßig erfasst. Export-Compliance allgemein: "Paragraf 17 Exportkontrolle.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.11. Kartellrechtliche Prüfung nach der TTBER 2026
+
+Bearbeitungsauftrag: Verdächtige Klauseln nach Artikel 4 oder Artikel 5 TTBER. konkrete Redline oder Prüfauftrag für Artikel 101 Absatz 3 AEUV.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.12. Transaktionsstruktur visualisieren — ASCII
 

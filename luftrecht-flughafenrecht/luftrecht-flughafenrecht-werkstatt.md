@@ -111,10 +111,10 @@ Arbeitsgriff Arbeitsprodukt: Genehmigungs- oder Planvermerk, Lärmmatrix, Aufsic
 - ZPO, InsO und internationales Sachenrecht: Zugriff auf Luftfahrzeuge, Sicherheiten und Insolvenzfolgen nur nach Register- und Anknüpfungsprüfung.
 - InsO Paragrafen 15a 17-19 47 50: Insolvenzantragspflicht Gläubigerrechte; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - VwGO Paragrafen 68 74 80: Widerspruch Klage aufschiebende Wirkung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- InsO Paragrafen 15a 17-19 47 EU-VO 1008/2008 Art. 9 EU-DVO 2015/1998 – die einschlägigen Normen werden je nach Sachverhaltsebene (nationaler Betrieb EU-Recht internationales Recht); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- InsO Paragrafen 15a 17-19 47 EU-VO 1008/2008 Art. 9 EU-DVO 2015/1998 – die einschlägigen Normen werden je nach Sachverhaltsebene (nationaler Betrieb EU-Recht internationales Recht) herangezogen und zu jedem Normzitat kurz erläutert; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - InsO Paragraf 15a: Antragspflicht innerhalb von 3 Wochen nach Eintritt der Zahlungsunfähigkeit; persönliche Haftung des Geschäftsführers; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - InsO Paragraf 47: Aussonderungsrecht des Eigentümers (Leasinggeber); Priorität gegenüber Insolvenzgläubigern; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- ZPO Paragrafen 864-871 LuftFzgG Cape Town Convention Art. 8-10 InsO Paragraf 89 EU-DVO 2015/1998 – die einschlägigen Normen werden je nach Sachverhaltsebene; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- ZPO Paragrafen 864-871 LuftFzgG Cape Town Convention Art. 8-10 InsO Paragraf 89 EU-DVO 2015/1998 – die einschlägigen Normen werden je nach Sachverhaltsebene (nationaler Betrieb EU-Recht internationales Recht) herangezogen und zu jedem Normzitat kurz erläutert; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -197,13 +197,13 @@ Lieferstück: Fachvotum zu Fluglärm und Anwohner – Lärmschutzbereiche und Sc
 ### 16.2. Flugzeugleasing und Kapstadt-Bezüge
 
 Bearbeitungsauftrag: Bei einem rein deutschen Sachverhalt gelten daher vorrangig LuftFzgG, nationale Register-, Sachen-, Insolvenz- und Vollstreckungsregeln. Artikel 2 des Übereinkommens beschreibt das internationale Sicherungsrecht; die formellen Voraussetzungen stehen insbesondere in Artikel 7. Artikel 16 errichtet das Internationale Registrierungssystem.
-Prüfschritte: Beginne mit Leasingvertrag, Parteien, Sitz und COMI des Schuldners, Luftfahrzeug- und Triebwerksdaten, Registrierungsstaat, Registerauszügen und Closing-Unterlagen; Eine Rechtswahl oder die Verwendung eines internationalen Vertragsmusters macht das Kapstadt-Regime nicht automatisch anwendbar; Deutschland hat Übereinkommen und Luftfahrzeugprotokoll am.
+Prüfschritte: Beginne mit Leasingvertrag, Parteien, Sitz und COMI des Schuldners, Luftfahrzeug- und Triebwerksdaten, Registrierungsstaat, Registerauszügen und Closing-Unterlagen; Eine Rechtswahl oder die Verwendung eines internationalen Vertragsmusters macht das Kapstadt-Regime nicht automatisch anwendbar.
 Lieferstück: Fachvotum zu Flugzeugleasing und Kapstadt-Bezüge mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. Airline – Pfändung planen
 
 Bearbeitungsauftrag: Prüfe ZPO Paragrafen 864-871 LuftFzgG Paragrafen 22-28 Zwangsversteigerung Arrestantrag ZPO Paragraf 917 Cape-Town-Remedies Artikel 8 und InsO Paragraf 89 Vollstreckungssperre und liefert Pfändungsplan oder Abwehrstrategie. Großgläubiger ohne Pfandrecht will Arrest beantragen bevor Airline Flugzeuge ins Ausland verbringt. Airline erhält Pfändungs-Beschluss; Mandant will prüfen ob Vollstreckung abgewendet werden kann.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe ZPO Paragrafen 864-871 LuftFzgG Paragrafen 22-28 Zwangsversteigerung Arrestantrag ZPO Paragraf 917 Cape-Town-Remedies Artikel 8 und InsO Paragraf 89 Vollstreckungssperre.
+Normbezug aus dem Fachmaterial: Prüfe ZPO Paragrafen 864-871 LuftFzgG Paragrafen 22-28 Zwangsversteigerung Arrestantrag ZPO Paragraf 917 Cape-Town-Remedies Artikel 8 und InsO Paragraf 89 Vollstreckungssperre.
 Lieferstück: Fachvotum zu Airline – Pfändung planen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Flughafen-Planfeststellung – Genehmigung, UVP und Rechtsschutz
@@ -254,8 +254,8 @@ Bearbeitungsauftrag: Beginne mit einer Beteiligten- und Flugzeugmatrix, statt de
 Prüfschritte: Lies Insolvenzantrag, gerichtliche Anordnungen, Leasing- und Lieferverträge, Luftfahrzeugrolle, Pfandrechtsregister, Flugplan, Ticketbedingungen, Betriebsgenehmigung und Behördenkorrespondenz.
 Lieferstück: Fachvotum zu Insolvenz einer Fluggesellschaft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. LBA-Zuständigkeit prüfen – Behörde korrekt adressieren
+### 16.12. Luftfahrzeugrolle und Register – Registerabfrage und Eintragsänderung
 
-Bearbeitungsauftrag: Halter eines Ultraleichtflugzeugs streitet über Eintrag in Luftsportgeräteverzeichnis; Behörde hat falsche Stelle angeschrieben. Sachgebiets-Mapping nach LuftVG Paragrafen 29-31: LBA für Betriebsgenehmigung Luftfahrzeugrolle AOC-Kern Musterzulassung; Länder für Flugplätze Lizenzen Luftsportgeräte. EU-Recht-Ebene prüfen: EASA für Musterzulassung Pilotenlizenz.
-Prüfschritte: Airline erhält Widerrufsbescheid der Betriebsgenehmigung vom LBA; Mandant fragt ob Widerspruch ans LBA oder an ein Landesministerium zu richten ist; Kleines Charterunternehmen möchte AOC beantragen und ist unsicher ob LBA oder Landesluftfahrtbehörde Sachsen-Anhalt zuständig ist.
-Lieferstück: Fachvotum zu LBA-Zuständigkeit prüfen – Behörde korrekt adressieren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Halter erhält Steuerbescheid für vermeintlich sein Fahrzeug; Luftfahrzeugrolle zeigt noch alten Eigentümer nach Veräußerung. Luftfahrzeugrolle beim LBA abrufen: schriftlicher Antrag oder Online-Auskunft; Auszug enthält Eigentümer Halter Hersteller Seriennummer Kennzeichen. Abweichungen zwischen den drei Registern feststellen und Handlungsbedarf benennen.
+Prüfschritte: Kreditinstitut finanziert Flugzeugkauf und will sicherstellen dass Pfandrecht korrekt in Luftfahrzeugrolle und Pfandrechtsregister AG Braunschweig eingetragen ist; Leasingnehmer möchte prüfen ob auf dem geleasten Flugzeug Cape-Town-Eintragungen im International Registry bestehen.
+Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.

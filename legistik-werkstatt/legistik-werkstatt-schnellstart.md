@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Normvorhaben oder Vor
 | Folgenabschätzung | Erfüllungsaufwand, Berichtspflichten, Evaluierung und Bürokratiekosten beziffern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Verfahren | Ressortabstimmung, Beteiligungen, Kabinett, Gremien oder Rat mit Fristen ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Normtext mit Begründung, Prüfvermerk, Haushaltsvermerk oder Entlastungsvorschlag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Völkerrecht und Vertragsgesetzgebung (AA) | Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Völkerrecht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

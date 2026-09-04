@@ -33,8 +33,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Krise feststellen, Pf
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | InsO Paragraf 17; InsO Paragraf 18; InsO Paragraf 19 |
-| Rechtsprechung | BGH, Urteil vom 24.05.2005 - IX ZR 123/04; BGH, Urteil vom 19.12.2017 - II ZR 88/16 |
-| Tatbestand | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen |
+| Rechtsprechung | BGH, Urteil vom 23.01.2025 - IX ZR 229/22; BGH, Urteil vom 24.05.2005 - IX ZR 123/04 |
+| Tatbestand | Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen |
 | Beweislast | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation |
 | Rechtsfolge | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Krise feststellen, Pf
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Krise feststellen | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichten zuordnen | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antrag und Sicherung | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Forderung und Tabelle | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtung und Plan | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| D&O-Versicherung bei Manager-Haftung | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Krise feststellen | Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Pflichten zuordnen | Geschäftsleitung, Gläubiger, Berater, Insolvenzgericht und Verwalterrolle klären. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Antrag und Sicherung | Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Forderung und Tabelle | Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfechtung und Plan | Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -58,7 +57,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Krise feststellen, Pf
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
 - Paragraf 28 VVG bei Obliegenheits-Verletzung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 13 InsO Eigenantrag: schriftlich beim Insolvenzgericht (Amtsgericht), Vermögensverzeichnis, Gläubigerverzeichnis, Lohnliste, Bilanz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 17 Abs. 2 S. 2 InsO Vermutung: Zahlungsunfähigkeit wird in der Regel angenommen bei Zahlungseinstellung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 17 Abs. 2 S. 2 InsO Vermutung: Zahlungsunfähigkeit wird in der Regel angenommen bei Zahlungseinstellung (objektives Verhalten — Nichtzahlung an mehrere Gläubiger, Lohn, Steuer, Sozialversicherung); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
 
 ## 7. Antwortform

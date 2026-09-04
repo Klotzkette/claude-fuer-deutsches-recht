@@ -180,9 +180,9 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Subsumtion im Klausurton neu schreiben | Begründung folgt deduktiv: "Denn A hat gegen B einen Anspruch aus Paragraf 433 Absatz 2 BGB, weil .". Kein Konjunktiv im Einstieg Vor: "Paragraf 433 Absatz 2 BGB: Der Kaufpreis ist zu zahlen. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
 | Unbestimmte Rechtsbegriffe prüfen | Welcher konkrete unbestimmte Rechtsbegriff ist in welchem Normkontext einschlägig? Kontext: Paragraf 323 Absatz 5 S. 2 BGB (nicht unerhebliche Pflichtverletzung beim Rücktritt); Paragraf 536 BGB (erheblicher Mangel). | Teilbefund zu Unbestimmte Rechtsbegriffe prüfen mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Grundrechte prüfen — GG und GRCh | Bearbeite Grundrechte prüfen — GG und GRCh entlang der Juristische Ausbildung und Falllösung-Prüflinie: Fallfrage: Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen | Teilbefund zu Grundrechte prüfen — GG und GRCh mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
-| Mandatsabbruch-Empfehlung: Weiterleitung an Fachanwalt | Ist das gesamte Ergebnis von einer Generalklausel (Paragraf 242, Paragraf 138 BGB) abhängig? Paragraf 43 BRAO — Pflicht des Rechtsanwalts zur gewissenhaften Berufsausübung; Mandant darf nicht schlechtergestellt werden. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Darlegungs- und Beweislast verteilen | Anfechtung Paragraf 142 BGB und rechtshemmende. Paragraf 286 ZPO (Regelfall): Volle richterliche Überzeugung; kein mathematischer Beweis, aber ein für das praktische Leben brauchbarer Grad an Gewissheit. | Beweismatrix zu Darlegungs- und Beweislast verteilen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
 | Kandidatenlösung auf Subsumtion prüfen | Prüfe abgegebene Klausur- oder Kandidatenlösungen auf methodische Sauberkeit der Subsumtion. ("A könnte gegen B einen Anspruch auf X aus Paragraf Y haben."). | Teilbefund zu Kandidatenlösung auf Subsumtion prüfen mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
+| Konkurrenzen und Anspruchsgrundlagen | Bearbeite Konkurrenzen und Anspruchsgrundlagen entlang der Juristische Ausbildung und Falllösung-Prüflinie: Aufbau: Anspruchsgrundlagen in sinnvoller Reihenfolge, Hilfsgutachten und Schwerpunktsetzung anlegen. | Teilbefund zu Konkurrenzen und Anspruchsgrundlagen mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -192,7 +192,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Wann: Zivilrechtliche Streitigkeiten (Paragraf 13 GVG); Vertragsrecht, Deliktsrecht, Erbrecht, Familienrecht, Handelsrecht. Wann: Öffentlich-rechtliche Streitigkeiten nicht verfassungsrechtlicher Art (Paragraf 40 VwGO); Anfechtung von Verwaltungsakten, Verpflichtungsklagen, Normenkontrolle. VwGO vor Klageerhebung; Frist: 1 Monat ab Bekanntgabe des VA (Paragraf 70 VwGO); Klagefrist: 1 Monat ab Zustellung Widerspruchsbescheid (Paragraf 74 VwGO).
 Prüfschritte: Örtliche Zuständigkeit: Paragrafen 12 und folgende ZPO; allgemeiner Gerichtsstand: Wohnsitz des Beklagten (Paragraf 13 ZPO); Vorverfahren: Widerspruch (Paragrafen 68 und folgende VwGO) vor Klageerhebung; Sondergerichte: Finanzgericht (Paragraf 33 FGO, Steuersachen); Sozialgericht (Paragraf 51 SGG, Sozialversicherung).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Wann: Zivilrechtliche Streitigkeiten (Paragraf 13 GVG); Vertragsrecht, Deliktsrecht, Erbrecht, Familienrecht, Handelsrecht; Örtliche Zuständigkeit: Paragrafen 12 und folgende ZPO; allgemeiner Gerichtsstand: Wohnsitz des Beklagten (Paragraf 13 ZPO); Örtliche Zuständigkeit: Paragrafen 12 und folgende ZPO.
+Normbezug aus dem Fachmaterial: Wann: Zivilrechtliche Streitigkeiten (Paragraf 13 GVG); Vertragsrecht, Deliktsrecht, Erbrecht, Familienrecht, Handelsrecht; Örtliche Zuständigkeit: Paragrafen 12 und folgende ZPO; allgemeiner Gerichtsstand: Wohnsitz des Beklagten (Paragraf 13 ZPO).
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
 ### 16.2. Rechtsprechung, Recherche und Europarechtsbezug wählen
@@ -221,37 +221,38 @@ Lieferstück: Teilbefund zu Unbestimmte Rechtsbegriffe prüfen mit Leitfrage, Ma
 
 Bearbeitungsauftrag: Bearbeite Grundrechte prüfen — GG und GRCh entlang der Juristische Ausbildung und Falllösung-Prüflinie: Fallfrage: Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen.
 Prüfschritte: Sachlicher Schutzbereich: Welches Verhalten, welche Rechtspositionen schützt das Grundrecht; Artikel 5 Absatz 1 GG: Meinungsfreiheit — Werturteile; Artikel 12 Absatz 1 GG: Berufsfreiheit — Wahl und Ausübung von Beruf und Arbeit; Artikel 14 Absatz 1 GG: Eigentum — vermögenswerte Rechtspositionen; Artikel 2 Absatz 1 GG: Allgemeine Handlungsfreiheit — Auffanggrundrecht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Sachlicher Schutzbereich: Welches Verhalten, welche Rechtspositionen schützt das Grundrecht; Artikel 5 Absatz 1 GG: Meinungsfreiheit — Werturteile; keine Tatsachenbehauptungen (str.); Sachlicher Schutzbereich: Welches Verhalten, welche Rechtspositionen schützt das Grundrecht; Artikel 5 Absatz 1 GG: Meinungsfreiheit — Werturteile.
+Normbezug aus dem Fachmaterial: Sachlicher Schutzbereich: Welches Verhalten, welche Rechtspositionen schützt das Grundrecht; Artikel 5 Absatz 1 GG: Meinungsfreiheit — Werturteile; keine Tatsachenbehauptungen (str.).
 Lieferstück: Teilbefund zu Grundrechte prüfen — GG und GRCh mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.7. Mandatsabbruch-Empfehlung: Weiterleitung an Fachanwalt
-
-Bearbeitungsauftrag: Ist das gesamte Ergebnis von einer Generalklausel (Paragraf 242, Paragraf 138 BGB) abhängig? Paragraf 43 BRAO — Pflicht des Rechtsanwalts zur gewissenhaften Berufsausübung; Mandant darf nicht schlechtergestellt werden. Paragraf 3 Absatz 3 RDG — Erlaubnisfreie Rechtsdienstleistung endet, wo Rechtsberatung erforderlich wird.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.8. Darlegungs- und Beweislast verteilen
+### 16.7. Darlegungs- und Beweislast verteilen
 
 Bearbeitungsauftrag: Anfechtung Paragraf 142 BGB und rechtshemmende. Paragraf 286 ZPO (Regelfall): Volle richterliche Überzeugung; kein mathematischer Beweis, aber ein für das praktische Leben brauchbarer Grad an Gewissheit. Paragraf 287 ZPO (Schadenshöhe, haftungsausfüllende Kausalität): Überwiegende Wahrscheinlichkeit genügt; richterliches Schätzungsermessen.
 Prüfschritte: Grundsatz: Jede Partei trägt die Beweislast für die Tatsachen, aus denen sie für sich günstige Rechtsfolgen ableitet.
 Lieferstück: Beweismatrix zu Darlegungs- und Beweislast verteilen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
 
-### 16.9. Kandidatenlösung auf Subsumtion prüfen
+### 16.8. Kandidatenlösung auf Subsumtion prüfen
 
 Bearbeitungsauftrag: Prüfe abgegebene Klausur- oder Kandidatenlösungen auf methodische Sauberkeit der Subsumtion. ("A könnte gegen B einen Anspruch auf X aus Paragraf Y haben."). Falsche Anspruchsgrundlage im Obersatz → gesamte Prüfung verfehlt Was prüfen.
 Prüfschritte: Ist der Obersatz als Frage (Konjunktiv) formuliert; Sind Parteien, Anspruchsrichtung und Rechtsfolge klar benannt; Wird der Obersatz mit "weil" oder "da" begonnen; (Fehler: Urteilsstil statt Gutachtenstil in der Einleitung) Häufige Fehler:; "A hat einen Anspruch auf X." → Indikativ im Obersatz (Urteilsstil-Fehler).
 Lieferstück: Teilbefund zu Kandidatenlösung auf Subsumtion prüfen mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.10. Konkurrenzen und Anspruchsgrundlagen
+### 16.9. Konkurrenzen und Anspruchsgrundlagen
 
 Bearbeitungsauftrag: Bearbeite Konkurrenzen und Anspruchsgrundlagen entlang der Juristische Ausbildung und Falllösung-Prüflinie: Aufbau: Anspruchsgrundlagen in sinnvoller Reihenfolge, Hilfsgutachten und Schwerpunktsetzung anlegen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
 Lieferstück: Teilbefund zu Konkurrenzen und Anspruchsgrundlagen mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.11. Beweisbedarf und Belege erfassen
+### 16.10. Beweisbedarf und Belege erfassen
 
 Bearbeitungsauftrag: Liegt bereits ein Beweisbeschluss (Paragraf 359 ZPO) vor? Paragraf 286 ZPO — Freie Beweiswürdigung; volle richterliche Überzeugung erforderlich. Paragraf 287 ZPO — Schadensschätzung bei Ausschluss anderer Beweismittel.
 Lieferstück: Beweismatrix zu Beweisbedarf und Belege erfassen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
 
-### 16.12. EU-Vorabentscheidung prüfen (Art. 267 AEUV)
+### 16.11. EU-Vorabentscheidung prüfen (Art. 267 AEUV)
 
 Bearbeitungsauftrag: Ist das vorlegende Gericht ein "Gericht eines Mitgliedstaats" iSd Artikel 267 AEUV? Der Begriff ist unionsrechtlich autonom auszulegen; er setzt voraus:. Anwendung von Rechtsnormen In Deutschland: alle ordentlichen Gerichte, Verwaltungsgerichte, Finanzgerichte, Sozialgerichte, Arbeitsgerichte.
 Lieferstück: Teilbefund zu EU-Vorabentscheidung prüfen (Art. 267 AEUV) mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+
+### 16.12. Verjährung und Fristen prüfen
+
+Bearbeitungsauftrag: Prüfe Verjährungsfristen: Regelfrist 3 Jahre (Paragrafen 195/199 BGB), kenntnisabhängige Fristen, absolute 10- und 30-Jahresfristen, Hemmung. BGB, Neubeginn (Paragraf 212 BGB), prozessuale Notfristen und EU-Verjährungsregeln. Gilt eine Sonderverjährung (Kaufmängel 2 Jahre, Ausschlussfristen Tarif/Vertrag)?
+Normbezug aus dem Fachmaterial: Prüfe Verjährungsfristen: Regelfrist 3 Jahre (Paragrafen 195/199 BGB), kenntnisabhängige Fristen, absolute 10- und 30-Jahresfristen, Hemmung (Paragrafen 203 und folgende BGB), Neubeginn (Paragraf 212 BGB), prozessuale Notfristen und EU-Verjährungsregeln.
+Lieferstück: Fristenblatt zu Verjährung und Fristen prüfen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.

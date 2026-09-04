@@ -3,7 +3,7 @@ name: fremdrentengesetz-und-spaetaussiedler
 description: "Für fremdrentengesetz-und-spaetaussiedler: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# fremdrentengesetz-und-spaetaussiedler
+# Fremdrentengesetz und Spätaussiedler
 
 ## Normenanker
 

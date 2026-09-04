@@ -130,7 +130,6 @@ Arbeitsgriff Prüfstation: Datenpanne, Aufsichtsverfahren, Schadensersatz und L�
 - EuGH, Urteil vom 05.12.2023 - C-683/21: Verantwortlichkeit setzt Einfluss auf Zwecke und Mittel der Verarbeitung voraus.
 - EuGH, Urteil vom 07.12.2023 - C-634/21: automatisiertes Scoring kann an Artikel 22 Datenschutz-Grundverordnung scheitern.
 - BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: informationelle Selbstbestimmung als verfassungsrechtlicher Leitanker.
-- EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
 
 ## 9. Prüfraster
 
@@ -189,7 +188,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Beschwerde eines Betroffenen als Auslöser | Bearbeite Beschwerde eines Betroffenen als Auslöser: rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen | Bearbeite Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen: rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
 | Profiling und automatisierte Entscheidungen | Bearbeite Profiling und automatisierte Entscheidungen: rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Fachvotum zu Profiling und automatisierte Entscheidungen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Beschäftigtendaten und Betriebsrat | Bearbeite Beschäftigtendaten und Betriebsrat: zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| Beschäftigtendaten und Betriebsrat | Bearbeite Beschäftigtendaten und Betriebsrat: rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | GRCh-Verfahrensgrundrechte | Bearbeite GRCh-Verfahrensgrundrechte: rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Fachvotum zu GRCh-Verfahrensgrundrechte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Organisationsverschulden ersteinschätzen | Bearbeite Organisationsverschulden ersteinschätzen: rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Fachvotum zu Organisationsverschulden ersteinschätzen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Öffentliche Stellen und Bußgeldfähigkeit | Bearbeite Öffentliche Stellen und Bußgeldfähigkeit: rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Fachvotum zu Öffentliche Stellen und Bußgeldfähigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
@@ -217,7 +216,7 @@ Lieferstück: Fachvotum zu Profiling und automatisierte Entscheidungen mit Tatbe
 
 ### 16.4. Beschäftigtendaten und Betriebsrat
 
-Bearbeitungsauftrag: Bearbeite Beschäftigtendaten und Betriebsrat: zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Bearbeitungsauftrag: Bearbeite Beschäftigtendaten und Betriebsrat: rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.5. GRCh-Verfahrensgrundrechte

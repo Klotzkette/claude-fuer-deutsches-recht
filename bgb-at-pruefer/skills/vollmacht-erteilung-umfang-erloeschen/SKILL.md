@@ -1,79 +1,78 @@
 ---
 name: vollmacht-erteilung-umfang-erloeschen
-description: "Für Vollmacht — Erteilung, Umfang und Erlöschen Paragrafen 167 bis 176 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Erteilung, Form, Umfang, Widerruf und Erlöschen einer Vollmacht sowie den Schutz des Geschäftsgegners nach den Paragrafen 167 bis 176 BGB; liefert eine fallbezogene Wirksamkeitsprüfung mit Belegen und Rechtsfolge."
 ---
 
-# Vollmacht — Erteilung, Umfang und Erlöschen §§ 167 bis 176 BGB
+# Vollmacht: Erteilung, Umfang und Erlöschen
 
-## Mandantenfall
+## 1. Direktauftrag
 
-- Vollmacht per Brief erteilt, Brief aber verlorengegangen — Innenvollmacht trotzdem wirksam?
-- Vollmacht widerrufen, Dritter wusste nichts davon — Außenvollmacht nach § 170 BGB noch wirksam?
-- Klausurkonstellation: Prokura als Sonderform der Vollmacht — Umfang und gesetzliche Beschränkungen.
+Lies zuerst Vollmacht, Grundgeschäft, Widerruf, Mitteilungen an den Geschäftsgegner und eine etwaige Vollmachtsurkunde. Bestimme danach getrennt, ob ursprünglich Vertretungsmacht bestand, welchen Umfang sie hatte, ob sie im Innenverhältnis erlosch und ob sie im Außenverhältnis nach den Paragrafen 170 bis 172 BGB fortwirkte. Frage nur nach Tatsachen, die für eine dieser Weichen fehlen.
 
-## Erste Schritte
+## 2. Benötigte Tatsachen und Belege
 
-1. Vollmachtserteilung nach § 167 BGB: Innenvollmacht (gegenüber dem Vertreter) oder Außenvollmacht (gegenüber dem Dritten).
-2. Vollmachtsform: Grundsätzlich formfrei, aber bei formbedürftigen Grundgeschäften Formpflicht beachten.
-3. Umfang der Vollmacht: Spezialvollmacht (einzelnes Geschäft), Generalvollmacht oder gesetzliche Grenzen.
-4. Erlöschen nach § 168 BGB: Widerruf durch Vollmachtgeber, Beendigung des Grundverhältnisses.
-5. Rechtsscheinwirkung nach §§ 170 bis 172 BGB: Erlöschende Vollmacht wirkt gegenüber gutgläubigem Dritten fort.
-6. Vollmachtsurkunde nach § 172 BGB: Vorlage begründet Rechtsschein der Vollmacht.
+| Prüfpunkt | Tatsachen | Typische Belege |
+| --- | --- | --- |
+| Erteilung | Erklärung, Adressat, Zugang, Zeitpunkt | Vollmacht, E-Mail, Brief, Empfangsnachweis |
+| Umfang | Geschäftstyp, Betrag, Befristung, Untervollmacht | Wortlaut, Begleitschreiben, Grundverhältnis |
+| Erlöschen | Widerruf, Zeitablauf, Zweckerreichung | Kündigung, Widerruf, Zustellnachweis |
+| Rechtsschein | Außenerklärung, Kundgabe, Urkunde | Mitteilung an Dritten, Bekanntmachung, Originalurkunde |
+| Kenntnis | Kenntnis oder fahrlässige Unkenntnis des Dritten | Korrespondenz, Gesprächsvermerk, Warnhinweise |
 
-## Rechtsrahmen
+## 3. Prüfraster
 
-- § 167 BGB: Vollmachtserteilung — Innen- und Außenvollmacht, Formfreiheit.
-- § 168 BGB: Erlöschen der Vollmacht — Widerruf und Beendigung des Grundverhältnisses.
-- §§ 170 bis 172 BGB: Fortbestehen der Vollmacht bei Erlöschen gegenüber gutgläubigem Dritten.
-- § 173 BGB: Kein Rechtsschutz bei Kenntnis des Erlöschens oder grob fahrlässiger Unkenntnis.
-- § 181 BGB: Insichgeschäft — Vollmacht kann es ausdrücklich erlauben.
+### 3.1 Erteilung und Zugang
 
-## Prüfraster
+1. Nach Paragraf 167 Absatz 1 BGB wird die Vollmacht gegenüber dem Bevollmächtigten oder gegenüber dem Geschäftsgegner erteilt.
+2. Ist die Erklärung empfangsbedürftig, müssen Abgabe und Zugang belegt werden. Ein auf dem Postweg verlorener Brief begründet allein noch keine zugegangene Innenvollmacht.
+3. Innenvollmacht, Außenvollmacht und bloße interne Weisung sind auseinanderzuhalten.
 
-1. Vollmachtserteilung nach § 167 BGB: Innen- oder Außenvollmacht — Adressat der Erteilungserklärung?
-2. Form gewahrt: Grundsätzlich formfrei; bei formbedürftigem Grundgeschäft Ausnahmen?
-3. Umfang: Welche Geschäfte umfasst die Vollmacht — konkrete Auslegung nach §§ 133 und 157 BGB?
-4. Erlöschensgrund: Widerruf, Zeitablauf, Zweckerreichung oder Beendigung des Grundverhältnisses?
-5. Rechtsscheinwirkung: §§ 170 bis 172 BGB — gutgläubiger Dritter ohne Kenntnis des Erlöschens?
-6. § 173 BGB: Kannte oder musste der Dritte das Erlöschen kennen — kein Rechtsschutz?
-7. Vollmachtsurkunde: Vorlage und Herausgabepflicht nach § 175 BGB?
+### 3.2 Form
 
-## Typische Fallstricke
+1. Nach Paragraf 167 Absatz 2 BGB bedarf die Vollmacht grundsätzlich nicht der Form des Rechtsgeschäfts, auf das sie sich bezieht.
+2. Aus der Formbedürftigkeit des Hauptgeschäfts darf deshalb nicht automatisch auf eine gleichartige Form der Vollmacht geschlossen werden.
+3. Gesondert zu prüfen sind besondere gesetzliche Formvorgaben, der Schutzzweck der einschlägigen Formnorm und der Nachweis der Vollmacht, insbesondere bei einseitigen Rechtsgeschäften nach Paragraf 174 BGB.
 
-- Innenvollmacht erlischt mit Widerruf sofort; Außenvollmacht erst nach Mitteilung an Dritten (§§ 170 bis 172 BGB).
-- § 173 BGB: Grob fahrlässige Unkenntnis des Dritten schließt Rechtsschutz aus — häufig übersehen.
-- Vollmachtsurkunde begründet Rechtsschein — Aushändigung an gutgläubigen Dritten bindet Vollmachtgeber.
-- Generalvollmacht mit gesetzlichem Umfang nicht grenzenlos — § 181 BGB und Missbrauchsschranken gelten.
+### 3.3 Umfang
 
-## Quellen
+1. Den Vollmachtswortlaut nach den Paragrafen 133 und 157 BGB auslegen.
+2. Geschäftstyp, Höchstbetrag, zeitliche Grenze, Untervollmacht und Befreiung von Paragraf 181 BGB ausdrücklich zuordnen.
+3. Bei Prokura oder Handlungsvollmacht auf die Spezialregeln der Paragrafen 48 bis 58 HGB verzweigen.
+4. Eine Überschreitung interner Weisungen ist nicht ohne Weiteres eine Überschreitung der Vertretungsmacht; beide Ebenen getrennt bewerten.
 
-- [§ 167 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__167.html)
-- [§ 168 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__168.html)
-- [§ 172 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__172.html)
-- [dejure.org § 167 BGB](https://dejure.org/gesetze/BGB/167.html)
-- [dejure.org § 168 BGB](https://dejure.org/gesetze/BGB/168.html)
+### 3.4 Erlöschen und Schutz des Geschäftsgegners
 
-## Vertiefung
+1. Das Erlöschen richtet sich nach Paragraf 168 BGB zunächst nach dem zugrunde liegenden Rechtsverhältnis; Widerruf, Befristung und Zweckerreichung gesondert feststellen.
+2. Eine gegenüber dem Geschäftsgegner erklärte Vollmacht kann nach Paragraf 170 BGB bis zur Mitteilung ihres Erlöschens fortgelten.
+3. Bei öffentlicher Kundgabe und Vollmachtsurkunde die besonderen Voraussetzungen der Paragrafen 171 Absatz 2 und 172 Absatz 2 BGB prüfen.
+4. Der Rechtsscheinschutz entfällt nach Paragraf 173 BGB, wenn der Dritte das Erlöschen kennt oder kennen muss. Erforderlich ist keine grobe Fahrlässigkeit; nach der gesetzlichen Begriffsbestimmung in Paragraf 122 Absatz 2 BGB genügt fahrlässige Unkenntnis.
+5. Herausgabe und Kraftloserklärung der Urkunde nach den Paragrafen 175 und 176 BGB als Sicherungsmaßnahmen ausgeben.
 
-### Innen- vs. Außenvollmacht
+### 3.5 Einseitiges Rechtsgeschäft
 
-Innenvollmacht (§ 167 Abs. 1 Alt. 1 BGB): Vollmacht wird dem Vertreter erteilt. Relevant für
-das Innenverhältnis. Erlöschen durch Widerruf gegenüber dem Vertreter.
+Bei Kündigung, Rücktritt oder sonstigem einseitigen Rechtsgeschäft gesondert prüfen, ob eine Vollmachtsurkunde im Original vorgelegt wurde, ob der Vollmachtgeber den Empfänger bereits von der Bevollmächtigung in Kenntnis gesetzt hatte und ob eine Zurückweisung nach Paragraf 174 BGB unverzüglich erfolgte.
 
-Außenvollmacht (§ 167 Abs. 1 Alt. 2 BGB): Vollmacht wird dem Dritten gegenüber erklärt.
-Erlöschensschutz nach § 170 BGB: Dritten gegenüber bleibt Vollmacht wirksam, bis Widerruf
-dem Dritten mitgeteilt wird.
+## 4. Entscheidungs- und Beweismatrix
 
-### Prokura als Sonderform
+| Frage | Ergebnis | Beleg | Rechtsfolge |
+| --- | --- | --- | --- |
+| Vollmacht wirksam erteilt? | ja / nein / offen | Zugangsnachweis | Vertretungsmacht oder Paragraf 177 BGB |
+| Geschäft vom Umfang gedeckt? | ja / nein / offen | Vollmachtswortlaut | Bindung oder Genehmigungsbedarf |
+| Vollmacht intern erloschen? | Datum | Widerruf oder Grundverhältnis | Prüfung des Rechtsscheins |
+| Rechtsschein noch wirksam? | Paragraf 170, 171 oder 172 BGB | Kundgabe oder Urkunde | Schutz des Dritten |
+| Ausschluss nach Paragraf 173 BGB? | Kenntnis / fahrlässige Unkenntnis / nein | konkrete Warnsignale | kein Rechtsscheinschutz |
 
-§§ 48 ff. HGB regeln die Prokura als umfassendste kaufmännische Vollmacht. Reichweite ist gesetzlich
-bestimmt (§ 49 HGB). Einschränkungen durch Innenverhältnis sind dem Dritten nicht entgegensetzbar
-(§ 50 HGB). Prokura erlischt nicht durch Tod des Inhabers (§ 52 Abs. 1 HGB).
+## 5. Arbeitsprodukt
 
-### Klausur-Checkliste Vollmacht
+Liefere eine chronologische Wirksamkeitsprüfung, eine knappe Beweismatrix und den passenden nächsten Schritt: Genehmigung einholen, Erklärung zurückweisen, Widerruf zustellen, Urkunde herausverlangen oder Anspruch aus dem wirksamen Geschäft verfolgen. Formuliere die tragende Rechtsfolge vollständig und nenne offene Tatsachen nur dort, wo sie das Ergebnis tatsächlich ändern.
 
-- Erteilungsform: Innen- oder Außenvollmacht — Adressat der Erteilung?
-- Vollmachtsumfang: Spezial-, General- oder gesetzlich geregelter Umfang (Prokura)?
-- Erlöschen: Widerruf oder Beendigung des Grundverhältnisses?
-- Rechtsschein nach §§ 170 bis 172 BGB: Gutgläubiger Dritte geschützt?
-- § 173 BGB: Kannte oder musste Dritte das Erlöschen kennen?
+## 6. Amtliche Quellen
+
+- [Paragraf 167 BGB](https://www.gesetze-im-internet.de/bgb/__167.html)
+- [Paragraf 168 BGB](https://www.gesetze-im-internet.de/bgb/__168.html)
+- [Paragraf 170 BGB](https://www.gesetze-im-internet.de/bgb/__170.html)
+- [Paragraf 171 BGB](https://www.gesetze-im-internet.de/bgb/__171.html)
+- [Paragraf 172 BGB](https://www.gesetze-im-internet.de/bgb/__172.html)
+- [Paragraf 173 BGB](https://www.gesetze-im-internet.de/bgb/__173.html)
+- [Paragraf 174 BGB](https://www.gesetze-im-internet.de/bgb/__174.html)
+- [Paragraf 122 BGB](https://www.gesetze-im-internet.de/bgb/__122.html)

@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Straßenraum und Maß
 | --- | --- |
 | Normenanker | StVO Paragraf 39 bis Paragraf 43; StVO Paragraf 45; StVO Paragraf 46 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Genauer Ort, Verkehrszeichen, Markierung, zeitliche Geltung, betroffene Verkehrsarten und Vollzugszustand |
+| Tatbestand | Genauer Ort, Verkehrszeichen, Markierung, zeitliche Geltung, betroffene Verkehrsarten und Vollzugszustand feststellen |
 | Beweislast | Nachweisachse Anordnung und Zuständigkeit: Aktenzeichen, Verkehrsbehörde, Straßenbaulastträger, Anhörungen, Rechtsgrund und Bekanntgabe sichern |
 | Rechtsfolge | Anordnungsvermerk, Beschilderungsplanprüfung, Ausnahmegenehmigung, Widerspruch, Eilantrag oder Vollzugscheck ausformulieren |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Straßenraum und Maß
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Straßenraum und Maßnahme | Genauer Ort, Verkehrszeichen, Markierung, zeitliche Geltung, betroffene Verkehrsarten und Vollzugszustand. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Straßenraum und Maßnahme | Genauer Ort, Verkehrszeichen, Markierung, zeitliche Geltung, betroffene Verkehrsarten und Vollzugszustand feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anordnung und Zuständigkeit | Aktenzeichen, Verkehrsbehörde, Straßenbaulastträger, Anhörungen, Rechtsgrund und Bekanntgabe sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Tatsachengrundlage | Unfall-, Geschwindigkeits-, Park-, Schulweg-, ÖPNV- oder Baustellendaten mit Zeitraum und Quelle prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtmäßigkeit und Alternative | Tatbestand, besondere Gefahrenlage, Ermessen, Verhältnismäßigkeit, Sichtbarkeit und mildere Verkehrsführung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Anordnungsvermerk, Beschilderungsplanprüfung, Ausnahmegenehmigung, Widerspruch, Eilantrag oder Vollzugscheck. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bewohnerparken Beweis Sichern | Bearbeite Bewohnerparken Beweis Sichern: Aktenzeichen, Verkehrsbehörde, Straßenbaulastträger, Anhörungen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtmäßigkeit und Alternative | Tatbestand, besondere Gefahrenlage, Ermessen, Verhältnismäßigkeit, Sichtbarkeit und mildere Verkehrsführung bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Anordnungsvermerk, Beschilderungsplanprüfung, Ausnahmegenehmigung, Widerspruch, Eilantrag oder Vollzugscheck ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

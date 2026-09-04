@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorhaben schneiden, B
 | --- | --- |
 | Normenanker | FZulG Paragraf 1 und Paragraf 2; FZulG Paragraf 3 und Paragraf 4; FZulG Paragraf 5 und Paragraf 6 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Technisches oder wissenschaftliches Ziel, Ausgangslage, Unsicherheit, systematisches Vorgehen, Arbeitspakete |
+| Tatbestand | Technisches oder wissenschaftliches Ziel, Ausgangslage, Unsicherheit, systematisches Vorgehen, Arbeitspakete und Abgrenzung zur Marktreife erfassen |
 | Beweislast | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe |
 | Rechtsfolge | BSFZ-Projekttext, Arbeitspaketmatrix, Berechnung, Nachweisordner, Einspruch oder Mehrjahresfahrplan erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,9 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorhaben schneiden, B
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Vorhaben schneiden | Technisches oder wissenschaftliches Ziel, Ausgangslage, Unsicherheit, systematisches Vorgehen, Arbeitspakete. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vorhaben schneiden | Technisches oder wissenschaftliches Ziel, Ausgangslage, Unsicherheit, systematisches Vorgehen, Arbeitspakete und Abgrenzung zur Marktreife erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bescheinigungsverfahren | Antragsteller, Projektzeitraum, Eigen-, Auftrags- oder Kooperationsforschung, BSFZ-Texte und Belege vorbereiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bemessungsgrundlage | Förderfähige Löhne, Eigenleistung, Auftragsforschung, Wirtschaftsjahr, Höchstgrenze und Kumulierung positionsweise. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bemessungsgrundlage | Förderfähige Löhne, Eigenleistung, Auftragsforschung, Wirtschaftsjahr, Höchstgrenze und Kumulierung positionsweise rechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker

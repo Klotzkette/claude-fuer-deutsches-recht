@@ -96,12 +96,7 @@ Arbeitsgriff Arbeitsprodukt: Autorenvertrag, Rechte-Schedule, Honorarabrechnung,
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH, Urt. v. 29.05.2018 – I ZR 171/16 (Buchhandelsvertrag) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | https://www.bgh.de |
-| BGH, Urt. v. 28.10.2020 – VIII ZR 141/19 (Wegfall Geschäftsgrundlage Liefervertrag) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | https://www.bgh.de |
-| BGH „Fachzeitschrift" I ZR 44/10 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | https://www.bgh.de |
-| BSG, Urt. v. 14.03.2018 – B 12 R 3/17 R (Scheinselbständigkeit Journalist) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | https://www.bundessozialgericht.de |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Autorenvertrag, Rechte-Schedule, Honorarabrechnung, Preisfreigabevermerk, Abmahnantwort oder Rückruf- und Exitplan erstellen
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -119,10 +114,7 @@ Arbeitsgriff Arbeitsprodukt: Autorenvertrag, Rechte-Schedule, Honorarabrechnung,
 
 ## 8. Leitentscheidungen
 
-- BGH, Urt. v. 29.05.2018 – I ZR 171/16 (Buchhandelsvertrag): https://www.bgh.de.
-- BGH, Urt. v. 28.10.2020 – VIII ZR 141/19 (Wegfall Geschäftsgrundlage Liefervertrag): https://www.bgh.de.
-- BGH „Fachzeitschrift" I ZR 44/10: https://www.bgh.de.
-- BSG, Urt. v. 14.03.2018 – B 12 R 3/17 R (Scheinselbständigkeit Journalist): https://www.bundessozialgericht.de.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -144,7 +136,7 @@ Arbeitsgriff Arbeitsprodukt: Autorenvertrag, Rechte-Schedule, Honorarabrechnung,
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Person hat welches Recht wann, wo und für welche Nutzungsart eingeräumt an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Autorenvertrag, Rechte-Schedule, Honorarabrechnung, Preisfreigabevermerk, Abmahnantwort oder Rückruf- und Exitplan erstellen; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Rechte-Schedule: Werkteil, Rechtsinhaber, Nutzungsart, Gebiet, Sprache, Dauer, Exklusivität, Instrument, Vergütung und Lücke; Honorarabrechnung: Format, Zeitraum, Stückzahl, Erlösbasis, Abzug, Satz, Vorschussverrechnung, Zahlbetrag und Beleg.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urt. v. 29.05.2018 – I ZR 171/16 (Buchhandelsvertrag); BGH, Urt. v. 28.10.2020 – VIII ZR 141/19.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -181,12 +173,12 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung | Erschöpfung des Verbreitungsrechts nach Paragraf 17 Absatz 2 UrhG bei Erstverkauf; Bibliotheksausleihe, Antiquariatshandel zulässig. | Fachvotum zu E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | Open Access, Creative Commons und Verlagspolitik | Finanzierung: Artikel Processing Charge (APC) oder Book Processing Charge (BPC) vom Autor, Institution oder Förderer. | Fachvotum zu Open Access, Creative Commons und Verlagspolitik mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Rezensionsexemplare, Influencer und Steuer | BuchPrG gilt für entgeltliche Abgabe; unentgeltliche Abgabe → kein Buchpreisbindungsverstoß. | Fachvotum zu Rezensionsexemplare, Influencer und Steuer mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Hörbuch, Sprechervertrag und Leistungsschutzrechte | Darbietung: Der Sprecher ist regelmäßig ausübender Künstler nach UrhG Paragraf 73. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Marketplace-Händler, Amazon und Preisdisziplin | Gebrauchtexemplare: Gebrauchte Bücher unterliegen grundsätzlich nicht mehr der Preisbindung (Erschöpfung, Paragraf 17 Absatz 2 UrhG); ausnahme gilt nur für nicht erschöpfte Neubücher. | Fachvotum zu Marketplace-Händler, Amazon und Preisdisziplin mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Podcast und Verlag: Content-Recycling | Benötigtes Recht: Vortragslizenz (Paragraf 19 UrhG) + öffentliche Zugänglichmachung (Paragraf 19a UrhG) für den Podcast. → Im Zweifel: Nein (Zweckübertragungsregel, Paragraf 31 Absatz 5 UrhG). | Fachvotum zu Podcast und Verlag: Content-Recycling mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Preisbindungsstreit: Unterlassung und Auskunft | Allgemeiner Gerichtsstand: Am Sitz des Beklagten (Paragraf 17 ZPO). Besonderer Gerichtsstand für unerlaubte Handlungen (Paragraf 32 ZPO): Auch am Ort des Verstoßes (Lieferort, Serverstandort bei Online-Verstoß). | Fachvotum zu Preisbindungsstreit: Unterlassung und Auskunft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Bibliothekslizenz, E-Lending und Zugriff | E-Books sind keine körperlichen Gegenstände; das Erschöpfungsprinzip (Paragraf 17 UrhG) gilt nicht für digitale Inhalte. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Nachlassverwaltung und Autorenerbe | Mehrere Erben: Urheberrecht gehört zur Erbengemeinschaft; alle Erben müssen gemeinsam über das Urheberrecht verfügen (Paragraf 2038 BGB). | Fachvotum zu Nachlassverwaltung und Autorenerbe mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Rückruf vergriffenes Werk und Neuauflage | Rückruf bei Vergriffenheit eines Werkes nach VerlG Paragraf 17 und UrhG Paragraf 41: Voraussetzungen, Verfahren, Preisaufhebung nach BuchPrG Paragraf 7 und Neuauflage bei anderem Verlag. | Fachvotum zu Rückruf vergriffenes Werk und Neuauflage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Fachbuch, Aktualisierung, Loseblatt und Online-Datenbank | Loseblattwerk als Ganzes: Sammelwerkschutz (Paragraf 4 UrhG) beim Herausgeber. | Fachvotum zu Fachbuch, Aktualisierung, Loseblatt und Online-Datenbank mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -196,7 +188,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Erschöpfung des Verbreitungsrechts nach Paragraf 17 Absatz 2 UrhG bei Erstverkauf; Bibliotheksausleihe, Antiquariatshandel zulässig. DRM-Nutzung (Digital Rights Management): Verlag darf technische Schutzmaßnahmen einsetzen (Paragraf 95a UrhG). Preisbindung: BuchPrG Paragraf 2 Absatz 1 Nummer 3 — E-Books unterliegen der Buchpreisbindung, wenn deutschsprachig und für den deutschen Markt bestimmt.
 Prüfschritte: Vervielfältigung und Verbreitung von gedruckten Exemplaren (Paragrafen 16, 17 UrhG); Einschließt: Hardcover, Paperback, Taschenbuch, Sonderausgabe, Großdruck, Lizenzausgabe (Buchgemeinschaft); Vervielfältigung + öffentliche Zugänglichmachung (Paragraf 19a UrhG); Formate: EPUB, EPUB3, PDF, MOBI, AZW (Kindle); jedes Format ist eine eigenständige Verwertungshandlung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Vervielfältigung und Verbreitung von gedruckten Exemplaren (Paragrafen 16, 17 UrhG); Erschöpfung des Verbreitungsrechts nach Paragraf 17 Absatz 2 UrhG bei Erstverkauf; Bibliotheksausleihe, Antiquariatshandel zulässig; Vervielfältigung und Verbreitung von gedruckten Exemplaren (Paragrafen 16, 17 UrhG).
+Normbezug aus dem Fachmaterial: Vervielfältigung und Verbreitung von gedruckten Exemplaren (Paragrafen 16, 17 UrhG); Erschöpfung des Verbreitungsrechts nach Paragraf 17 Absatz 2 UrhG bei Erstverkauf; Bibliotheksausleihe, Antiquariatshandel zulässig.
 Lieferstück: Fachvotum zu E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. Open Access, Creative Commons und Verlagspolitik
@@ -211,61 +203,61 @@ Bearbeitungsauftrag: BuchPrG gilt für entgeltliche Abgabe; unentgeltliche Abgab
 Prüfschritte: Rezensionsexemplare werden unentgeltlich an Rezensenten (Presse, Blogger) abgegeben; Aber: Wenn Verlag Buch formell kostenlos gibt, aber faktisch eine Gegenleistung erwartet (bezahlte Rezension) → kommerzielles Arrangement → andere steuerliche und wettbewerbsrechtliche Behandlung; Echtes Rezensionsexemplar: Kein Preis; keine vertraglich vereinbarte Pflicht zur Rezension; Verlag akzeptiert auch negative Kritik.
 Lieferstück: Fachvotum zu Rezensionsexemplare, Influencer und Steuer mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Hörbuch, Sprechervertrag und Leistungsschutzrechte
-
-Bearbeitungsauftrag: Darbietung: Der Sprecher ist regelmäßig ausübender Künstler nach UrhG Paragraf 73. Aufnahme, Vervielfältigung, Verbreitung, öffentliche Zugänglichmachung und weitere Nutzungen sind entlang UrhG Paragrafen 77 bis 79 zu regeln. Tonträger: Herstellerrechte nach UrhG Paragrafen 85 und 86 stehen neben Text- und Darbietungsrechten.
-Prüfschritte: Lies Verlagsvertrag, Rechtekette des Textes, Sprechervertrag, Produktionsvertrag, Musikliste, Masterdatei, Plattformbedingungen und Abrechnungen; Liefere zuerst eine Rechteampel je Auswertungsweg: physischer Tonträger, Download, Stream, Bibliotheksausleihe, Ausschnittwerbung und internationale Fassung; Text: Der Verlag benötigt die für Aufnahme und jeweilige Auswertung erforderlichen Nutzungsrechte des Urhebers oder Rechtsnachfolgers; Print- und E-Book-Rechte schließen das Hörbuchrecht nicht automatisch ein.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.5. Marketplace-Händler, Amazon und Preisdisziplin
+### 16.4. Marketplace-Händler, Amazon und Preisdisziplin
 
 Bearbeitungsauftrag: Gebrauchtexemplare: Gebrauchte Bücher unterliegen grundsätzlich nicht mehr der Preisbindung (Erschöpfung, Paragraf 17 Absatz 2 UrhG); ausnahme gilt nur für nicht erschöpfte Neubücher. Importeur muss nach Paragraf 3 Absatz 1 BuchPrG eigenständigen Ladenpreis für Deutschland festsetzen. Amazon kann als Ersthändler (nicht Marketplace) Preise senken; „Absorb"-Praxis: Amazon senkt Endkundenpreis, trägt Differenz selbst.
 Prüfschritte: Händler bietet gebrauchtes oder neues Buch unter dem gebundenen Preis an; Neubücher als Gebraucht deklariert: Häufiger Betrugsversuch; wenn Buch tatsächlich neu, gilt Preisbindung; Verlage setzen für ausländische Märkte niedrigere Preise; Importeur bringt diese Exemplare zurück nach Deutschland.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Händler bietet gebrauchtes oder neues Buch unter dem gebundenen Preis an; Gebrauchtexemplare: Gebrauchte Bücher unterliegen grundsätzlich nicht mehr der Preisbindung (Erschöpfung, Paragraf 17 Absatz 2 UrhG); ausnahme gilt nur für nicht erschöpfte Neubücher.
+Normbezug aus dem Fachmaterial: Händler bietet gebrauchtes oder neues Buch unter dem gebundenen Preis an; Gebrauchtexemplare: Gebrauchte Bücher unterliegen grundsätzlich nicht mehr der Preisbindung (Erschöpfung, Paragraf 17 Absatz 2 UrhG); ausnahme gilt nur für nicht erschöpfte Neubücher.
 Lieferstück: Fachvotum zu Marketplace-Händler, Amazon und Preisdisziplin mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Podcast und Verlag: Content-Recycling
+### 16.5. Podcast und Verlag: Content-Recycling
 
 Bearbeitungsauftrag: Benötigtes Recht: Vortragslizenz (Paragraf 19 UrhG) + öffentliche Zugänglichmachung (Paragraf 19a UrhG) für den Podcast. → Im Zweifel: Nein (Zweckübertragungsregel, Paragraf 31 Absatz 5 UrhG). Lösung: Explizite Podcast-/Audio-Nutzungsklausel im Verlagsvertrag oder separate Autorenvereinbarung.
 Prüfschritte: Ist diese Lizenz im Verlagsvertrag enthalten; Paraphrase des Buchinhalts: Keine wörtliche Übernahme → kein Urheberrechtsproblem für den Inhalt; Aber: Stimmliche Darbietung des Paraphrase-Textes durch einen Sprecher → Leistungsschutzrecht des Sprechers entsteht; Interview-Aufnahme: Sprecher des Interviews (Autor, Interviewer) haben Leistungsschutzrechte; Schriftlich fixiertes Interview: Urheberrecht am Interviewtext beim Interviewer (Schöpfung der Fragen) und ggf.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Benötigtes Recht: Vortragslizenz (Paragraf 19 UrhG) + öffentliche Zugänglichmachung (Paragraf 19a UrhG) für den Podcast; Ist diese Lizenz im Verlagsvertrag enthalten?; → Im Zweifel: Nein (Zweckübertragungsregel, Paragraf 31 Absatz 5 UrhG).
+Normbezug aus dem Fachmaterial: Benötigtes Recht: Vortragslizenz (Paragraf 19 UrhG) + öffentliche Zugänglichmachung (Paragraf 19a UrhG) für den Podcast; Ist diese Lizenz im Verlagsvertrag enthalten?; → Im Zweifel: Nein (Zweckübertragungsregel, Paragraf 31 Absatz 5 UrhG).
 Lieferstück: Fachvotum zu Podcast und Verlag: Content-Recycling mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Preisbindungsstreit: Unterlassung und Auskunft
+### 16.6. Preisbindungsstreit: Unterlassung und Auskunft
 
 Bearbeitungsauftrag: Allgemeiner Gerichtsstand: Am Sitz des Beklagten (Paragraf 17 ZPO). Besonderer Gerichtsstand für unerlaubte Handlungen (Paragraf 32 ZPO): Auch am Ort des Verstoßes (Lieferort, Serverstandort bei Online-Verstoß). Dringlichkeit aus; 1-Monat-Frist ab Kenntnis (Dringlichkeitsvermutung erschüttert bei längerem Zuwarten).
 Prüfschritte: Preisbindungssachen: Landgericht (LG) als erstinstanzliches Gericht (Paragraf 13 GVG in Verbindung mit BuchPrG); Vorzugsgerichte für Buchpreisbindung: LG Frankfurt am Main, LG Hamburg, LG München I — erfahrene Kammern für Preisbindungssachen; Verfügungsanspruch: Glaubhaftmachung des Preisbindungsverstoßes; Verfügungsgrund (Dringlichkeit): Online-Verstoß löst i.d.R.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Preisbindungssachen: Landgericht (LG) als erstinstanzliches Gericht (Paragraf 13 GVG in Verbindung mit BuchPrG); Keine Amtsgerichts-Zuständigkeit; Allgemeiner Gerichtsstand: Am Sitz des Beklagten (Paragraf 17 ZPO); Preisbindungssachen: Landgericht (LG) als erstinstanzliches Gericht (Paragraf 13 GVG in Verbindung mit BuchPrG).
+Normbezug aus dem Fachmaterial: Preisbindungssachen: Landgericht (LG) als erstinstanzliches Gericht (Paragraf 13 GVG in Verbindung mit BuchPrG); Keine Amtsgerichts-Zuständigkeit; Allgemeiner Gerichtsstand: Am Sitz des Beklagten (Paragraf 17 ZPO).
 Lieferstück: Fachvotum zu Preisbindungsstreit: Unterlassung und Auskunft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Bibliothekslizenz, E-Lending und Zugriff
+### 16.7. Bibliothekslizenz, E-Lending und Zugriff
 
 Bearbeitungsauftrag: E-Books sind keine körperlichen Gegenstände; das Erschöpfungsprinzip (Paragraf 17 UrhG) gilt nicht für digitale Inhalte. Keine gesetzliche „Bibliotheksschranke" für digitale Ausleihe vergleichbar der körperlichen Ausleihe (Paragraf 27 UrhG). Größte E-Lending-Plattform in Deutschland; Konsortium öffentlicher Bibliotheken.
 Prüfschritte: Bibliothek darf E-Books nur ausleihen, wenn sie eine Lizenz vom Verlag hat; EuGH hat 2016 entschieden: Mitgliedstaaten können die digitale Ausleihe von E-Books durch Bibliotheken unter bestimmten Bedingungen dem Verleihrecht analog regeln; Voraussetzungen: Bibliothek hat rechtmäßige Kopie; nach Ausleihe kein Verbleib beim Nutzer; Deutschland: Hat diese Regelung bisher nicht vollständig umgesetzt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: E-Books sind keine körperlichen Gegenstände; das Erschöpfungsprinzip (Paragraf 17 UrhG) gilt nicht für digitale Inhalte; Bibliothek darf E-Books nur ausleihen, wenn sie eine Lizenz vom Verlag hat.
+Normbezug aus dem Fachmaterial: E-Books sind keine körperlichen Gegenstände; das Erschöpfungsprinzip (Paragraf 17 UrhG) gilt nicht für digitale Inhalte; Bibliothek darf E-Books nur ausleihen, wenn sie eine Lizenz vom Verlag hat.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.9. Nachlassverwaltung und Autorenerbe
-
-Bearbeitungsauftrag: Mehrere Erben: Urheberrecht gehört zur Erbengemeinschaft; alle Erben müssen gemeinsam über das Urheberrecht verfügen (Paragraf 2038 BGB). Bei Miturhebern (Paragraf 65 UrhG): Schutzfrist richtet sich nach dem Tod des zuletzt verstorbenen Miturhebers. Anonyme/pseudonyme Werke: Abweichende Berechnung (Paragraf 66 UrhG).
-Prüfschritte: Es geht als Teil des Nachlasses auf die Erben über; Testamentarische Regelung: Autor kann im Testament einzelnen Erben das Urheberrecht zuweisen oder Testamentsvollstrecker einsetzen; Schutzfrist: 70 Jahre post mortem auctoris (p.m.a.) = 70 Jahre nach dem.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Das Urheberrecht ist vererblich; es geht als Teil des Nachlasses auf die Erben über; Mehrere Erben: Urheberrecht gehört zur Erbengemeinschaft; alle Erben müssen gemeinsam über das Urheberrecht verfügen (Paragraf 2038 BGB).
-Lieferstück: Fachvotum zu Nachlassverwaltung und Autorenerbe mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.10. Rückruf vergriffenes Werk und Neuauflage
+### 16.8. Rückruf vergriffenes Werk und Neuauflage
 
 Bearbeitungsauftrag: Rückruf bei Vergriffenheit eines Werkes nach VerlG Paragraf 17 und UrhG Paragraf 41: Voraussetzungen, Verfahren, Preisaufhebung nach BuchPrG Paragraf 7 und Neuauflage bei anderem Verlag. VerlG Paragraf 17 spricht von Vergriffenheit, wenn der Verlag den Titel nicht mehr auf Lager hat und keine Neuauflage innerhalb angemessener Frist plant. Ein weiterhin lieferbares E-Book verhindert grundsätzlich nicht den Rückruf der Print-Nutzungsrechte, wenn der Verlagsvertrag Druck- und Digitalrechte getrennt einräumt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Rückruf bei Vergriffenheit eines Werkes nach VerlG Paragraf 17 und UrhG Paragraf 41: Voraussetzungen, Verfahren, Preisaufhebung nach BuchPrG Paragraf 7 und Neuauflage bei anderem Verlag.
+Normbezug aus dem Fachmaterial: Rückruf bei Vergriffenheit eines Werkes nach VerlG Paragraf 17 und UrhG Paragraf 41: Voraussetzungen, Verfahren, Preisaufhebung nach BuchPrG Paragraf 7 und Neuauflage bei anderem Verlag.
 Lieferstück: Fachvotum zu Rückruf vergriffenes Werk und Neuauflage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Übersetzungsrechte, Auslandslizenz und Co-Edition
-
-Bearbeitungsauftrag: Eine Übersetzung ist nach Paragraf 3 UrhG nur dann selbst geschützt, wenn die persönliche geistige Schöpfung die Schutzschwelle erreicht. Die Veröffentlichung oder Verwertung einer Übersetzung greift regelmäßig in das Bearbeitungsrecht am Ausgangswerk nach Paragraf 23 Absatz 1 UrhG ein. Ein gewöhnlicher Verlagsvertrag überträgt das Übersetzungsrecht nicht automatisch.
-Prüfschritte: Lies zuerst Originalvertrag, Nachträge, frühere Lizenzen, Übersetzervertrag, Term Sheet und Korrespondenz; Erstelle ohne vorgeschaltetes Standardinterview eine Rechte-Matrix; Frage nur nach Tatsachen, die sich aus den Unterlagen nicht verlässlich ergeben und für den nächsten Arbeitsschritt entscheidend sind.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.12. Fachbuch, Aktualisierung, Loseblatt und Online-Datenbank
+### 16.9. Fachbuch, Aktualisierung, Loseblatt und Online-Datenbank
 
 Bearbeitungsauftrag: Loseblattwerk als Ganzes: Sammelwerkschutz (Paragraf 4 UrhG) beim Herausgeber. Datenbank-Sui-generis-Schutz (Paragraf 87a UrhG): Wenn systematische Sammlung mit erheblicher Investition → Datenbankersteller hat Ausschließlichkeitsrecht. Keine gesetzliche Pflicht zur Aktualisierung; abhängig von Vertrags- und AGB-Gestaltung.
 Prüfschritte: Juristische Kommentare, Steuerhandbücher erscheinen in Mappen mit austauschbaren Seiten; Aktualisierungslieferungen: Periodische Lieferungen ersetzen veraltete Seiten; Jede Lieferung ist ein eigenständiges Erscheinen; eigene ISBN oder EAN für Abonnements; Einzelbeiträge: Urheberrecht der Beitragsautoren bleibt.
 Lieferstück: Fachvotum zu Fachbuch, Aktualisierung, Loseblatt und Online-Datenbank mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.10. Plagiat, Manuskript und Quellenprüfung
+
+Bearbeitungsauftrag: Plagiat im urheberrechtlichen Sinne: Übernahme urheberrechtlich geschützter Werkteile ohne Genehmigung und ohne Quellenangabe. Nicht jede Übernahme ist eine Urheberrechtsverletzung: Das Zitatrecht (Paragraf 51 UrhG) erlaubt begrenzte Übernahmen. Auch paraphrasierte Übernahmen ohne Quellenangabe können Plagiat sein (geistiger Diebstahl ohne exaktes Kopieren).
+Prüfschritte: Selbstplagiat: Autor übernimmt eigene frühere Texte ohne Kennzeichnung → urheberrechtlich unproblematisch (Rechteinhaber ist derselbe), aber wissenschaftlich / verlegerisch problematisch; Ideendiebstahl: Übernahme von Ideen und Konzepten ohne Zitat → Ideen sind nicht schutzfähig; kein Urheberrechtsproblem, aber ggf; akademische Redlichkeitsanforderung verletzt; Ghostwriting: Ghostwriter schreibt unter fremdem Namen.
+Normbezug aus dem Fachmaterial: Plagiat im urheberrechtlichen Sinne: Übernahme urheberrechtlich geschützter Werkteile ohne Genehmigung und ohne Quellenangabe; Nicht jede Übernahme ist eine Urheberrechtsverletzung: Das Zitatrecht (Paragraf 51 UrhG) erlaubt begrenzte Übernahmen.
+Lieferstück: quellenkritische Darstellung mit Textzeuge, Fassung, Übersetzung, zeitgenössischer Funktion und heutiger Anschlussfrage.
+
+### 16.11. Übersetzungsrechte, Auslandslizenz und Co-Edition
+
+Bearbeitungsauftrag: Eine Übersetzung ist nach Paragraf 3 UrhG nur dann selbst geschützt, wenn die persönliche geistige Schöpfung die Schutzschwelle erreicht. Die Veröffentlichung oder Verwertung einer Übersetzung greift regelmäßig in das Bearbeitungsrecht am Ausgangswerk nach Paragraf 23 Absatz 1 UrhG ein. Ein gewöhnlicher Verlagsvertrag überträgt das Übersetzungsrecht nicht automatisch.
+Prüfschritte: Lies zuerst Originalvertrag, Nachträge, frühere Lizenzen, Übersetzervertrag, Term Sheet und Korrespondenz; Erstelle ohne vorgeschaltetes Standardinterview eine Rechte-Matrix.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.12. Abmahnung Buchpreisbindung
+
+Bearbeitungsauftrag: (Paragraf 10 BuchPrG): Besonderes Klagerecht; kann unabhängig von eigenem Schaden vorgehen. Verstoßbeschreibung: Konkreter Titel (ISBN), festgesetzter Ladenpreis, angebotener Preis, Datum und URL des Angebots. Verstoßgrundlage: BuchPrG Paragrafen 3, 5; Verletzungstatbestand klar benennen.
+Prüfschritte: Verleger: Direkter Anspruch gegen jeden Händler, der Bücher unter dem festgesetzten Preis verkauft; Buchhandel: Mitbewerber, der durch den Verstoß benachteiligt wird; Börsenverein des Deutschen Buchhandels e.V; Buchhandlungen, Online-Händler, Amazon-Marketplace-Händler; Verlage (wenn sie selbst Preisbindung nicht korrekt festsetzen).
+Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.

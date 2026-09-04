@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Rechtsverhältnis und
 | Bewertung | Bewertungsspielraum, Verfahrensfehler, Antwortspielraum und Sachverhaltsfehler trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Folgen | Wiederholung, Neubewertung, Nachteilsausgleich, Ordnungsmaßnahme oder Fördermittelrückforderung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Widerspruch, Eilantrag, Klagebegründung, Gremienvorlage oder Förderantrag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abgabe Frist Upload | Bearbeite Abgabe Frist Upload: Schul-, Studien-, Prüfungs- oder Förderverhältnis mit maßgeblicher Ordnung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,6 +59,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Rechtsverhältnis und
 - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 70 Abs. 1 VwGO — Widerspruchsfrist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Urteil vom 18.07.1972 - 1 BvL 32/70 und 25/71: Zulassungsbeschränkungen greifen in Artikel 12 ein und verlangen erschöpfende Kapazitätsnutzung.
+- BVerfG, Beschluss vom 17.04.1991 - 1 BvR 419/81 und 213/83: prüfungsspezifische Wertungen sind gerichtlich nur begrenzt überprüfbar, fachliche Antworten dürfen nicht als falsch bewertet werden, wenn sie vertretbar sind.
 
 ## 7. Antwortform
 

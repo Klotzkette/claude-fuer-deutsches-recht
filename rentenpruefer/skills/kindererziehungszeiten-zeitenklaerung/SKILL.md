@@ -3,7 +3,7 @@ name: kindererziehungszeiten-zeitenklaerung
 description: "Für kindererziehungszeiten-und-beruecksichtigungszeiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# kindererziehungszeiten-und-beruecksichtigungszeiten
+# Kindererziehungszeiten und Berücksichtigungszeiten
 
 ## Normenanker
 

@@ -1,17 +1,20 @@
 ---
 name: schwerbehinderte-bewerber-schwerbehinderung
-description: "Für Schwerbehinderte Bewerber im öffentlichen Dienst — Paragraf 165 SGB IX: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Beamtenrecht. Route: schwerbehinderte-bewerber-schwerbehinderung."
+description: "Prüft die Bewerbung eines schwerbehinderten oder gleichgestellten Menschen beim öffentlichen Arbeitgeber: Kenntnis, Einladung, offensichtliches Fehlen fachlicher Eignung, Beteiligung der Schwerbehindertenvertretung und AGG-Indizien. Erstellt Pflichtmatrix, Auskunfts- und Entschädigungsschreiben sowie Konkurrenteneilantrag."
 ---
 
-# Schwerbehinderte Bewerber im öffentlichen Dienst — § 165 SGB IX
+# Schwerbehinderte Bewerber im öffentlichen Dienst — Paragraf 165 SGB IX
 
-## Arbeitsweg
+## Direktauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Widerspruch 1 Monat (VwGO § 70), Disziplinarverfahren nach BDG, Beihilfeantrag i.d.R. 1 Jahr, Beförderung-Auswahlentscheidung Bewährungsfristen.
-- Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Rekonstruiere Bewerbung, erkennbare Schwerbehinderung oder Gleichstellung, Anforderungsprofil, Einladung oder Absage, Beteiligung der Schwerbehindertenvertretung und Auswahlentscheidung. Prüfe die Einladungspflicht nach SGB IX Paragraf 165 Satz 3 und die enge Ausnahme des offensichtlich fehlenden fachlichen Eignung nach Satz 4 getrennt von beamtenrechtlicher Bestenauslese und gesundheitlicher Eignung.
+
+- Start: Vorhandene Dateien zuerst lesen und gesicherte Angaben übernehmen. Im Arbeitsmodus `Fallbearbeitung` unmittelbar mit dem Arbeitsprodukt beginnen: Schwerbehinderte Bewerber im öffentlichen Dienst — Paragraf 165 SGB IX-Prüfvermerk mit Ergebnis, Gegenposition, Beleglücken und nächstem Schritt.
+- Tatbestand und Beweis: Ordne jedem entscheidungserheblichen Merkmal einen Aktenfund oder eine ausdrücklich bezeichnete Lücke zu; bloße Plausibilität ersetzt weder Vortrag noch Beweis.
+- Kernnormen: SGB IX Paragrafen 151, 165 und 178, AGG Paragrafen 1, 7, 15 und 22 sowie bei Ämtervergabe GG Artikel 33 Absatz 2.
+- Rechtsprechung: BAG, Urteil vom 23.11.2023 - 8 AZR 164/22: Bei rechtzeitig mitgeteiltem gewichtigen Verhinderungsgrund kann die Einladungspflicht einen zumutbaren Ersatztermin verlangen. BAG, Urteil vom 25.04.2024 - 8 AZR 143/23: Die Einladungspflicht kann auch bei internen Stellenausschreibungen bestehen.
+- Einsatzgrenze: Normfassung und tragende Aussage am amtlichen Volltext prüfen; eine Entscheidung nicht auf andere Tatbestands-, Beweis- oder Verfahrensstufen übertragen.
+- Abschluss: Das Ergebnis muss `Schwerbehinderte Bewerber im öffentlichen Dienst — Paragraf 165 SGB IX` konkret beantworten, die stärkste Gegenposition verarbeiten und den nächsten verwendbaren Text, Antrag, Rechenweg oder Vollzugsschritt liefern.
 
 ## 1. Zweck und Anwendungsfall
 

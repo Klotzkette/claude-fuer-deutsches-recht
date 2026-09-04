@@ -42,6 +42,9 @@ jobs:
       - name: YAML-Frontmatter validieren
         run: python3 scripts/validate-yaml-frontmatter.py
 
+      - name: Marketplace-Import validieren
+        run: node scripts/validate-marketplace-import.mjs
+
       - name: Laufzeitbudgets der Plugins validieren
         run: python3 scripts/validate-runtime-performance.py
 
@@ -89,6 +92,7 @@ jobs:
           # weder in die Skill-Logik noch in die installierbaren Plugin-ZIPs.
           python3 scripts/generate-werkstatt-und-schnellstart-prompts.py
           python3 scripts/test-prompt-generator-excerpts.py
+          python3 scripts/test-prompt-routing-scope.py
           python3 scripts/refine-speed-and-elegance.py
           python3 scripts/inject-streitstoff-beitrag-gerichtsplugins.py
           python3 scripts/generate-megaprompt.py

@@ -121,9 +121,6 @@ Arbeitsgriff Arbeitsprodukt: Zeugnisentwurf, Änderungsmatrix, Aufforderungsschr
 - BAG, Urteil vom 27.04.2021 - 9 AZR 262/20: Ein qualifiziertes Zeugnis verlangt eine zusammenhängende Leistungs- und Verhaltensbeurteilung; bloße tabellarische Schulnoten genügen regelmäßig nicht.
 - BAG, Teilurteil vom 18.06.2025 - 2 AZR 96/24 (B): Auf ein qualifiziertes Zeugnis kann vor Beendigung des Arbeitsverhältnisses nicht wirksam für die Zukunft verzichtet werden.
 - BAG, Beschluss vom 07.05.2026 - 8 AZB 25/25: Eine Zeugnisregelung mit Arbeitnehmerentwurf und Abweichung nur aus wichtigem Grund kann vollstreckbar sein.
-- BAG, Urteil vom 12.08.2008 - 9 AZR 632/07, Rn. 18 bis 21: Wortwahl und Auslassung sind aus Sicht des objektiven Zeugnislesers zu beurteilen; eine erwartbare positive Hervorhebung darf nicht so fehlen, dass ein falscher Eindruck entsteht.
-- BAG, Urteil vom 14.06.2016 - 9 AZR 8/15, Rn. 12 bis 16: Auch Zeit- und Datumsangaben unterliegen der Zeugniswahrheit; ein gewünschtes Rückdatum wird nicht automatisch geschuldet.
-- BAG, Urteil vom 25.01.2022 - 9 AZR 146/21, Rn. 12 bis 24: Freiwillige persönliche Wertungen am Schluss gehören nicht zum gesetzlichen Mindestinhalt. Beendigungsgrund und Schlussformel deshalb getrennt prüfen.
 
 ## 9. Prüfraster
 
@@ -181,11 +178,11 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | --- | --- | --- |
 | Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG | Bearbeite Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG: zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Fachvotum zu Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Zeugnisklarheit — objektiver Empfängerhorizont (BAG 9 AZR 352/04; 9 AZR 386/10) | Bearbeite Zeugnisklarheit — objektiver Empfängerhorizont (BAG 9 AZR 352/04; 9 AZR 386/10): zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix. | Fachvotum zu Zeugnisklarheit — objektiver Empfängerhorizont. |
+| Geheimcodes vermeiden | Bearbeite Geheimcodes vermeiden: zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Fachvotum zu Geheimcodes vermeiden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Kopfdaten und äußere Form | Auffällige Gestaltungen werden nur beanstandet, wenn sie aus Sicht eines objektiven Lesers Distanzierung oder mangelnde Ernstlichkeit vermitteln. | Fachvotum zu Kopfdaten und äußere Form mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Note 3 — Formeln Leistung | Standardformel Note 3: Alle ihr/ihm übertragenen Aufgaben erledigte sie/er zu unserer vollen Zufriedenheit. | Fachvotum zu Note 3 — Formeln Leistung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Schlussformel-Baukasten | Eine freiwillige, wahrheitsgemäße Schlussformel entwerfen, die nicht im Widerspruch zum Zeugnis und zum Beendigungsgrund steht. | Fachvotum zu Schlussformel-Baukasten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Belastbarkeit-Formeln | Es löst eine Kontextprüfung aus, wenn Belastungssituationen die Tätigkeit nachweislich prägten und der Gesamttext hierzu sonst kein aussagekräftiges Bild vermittelt. | Fachvotum zu Belastbarkeit-Formeln mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Geheimcodes vermeiden | Bearbeite Geheimcodes vermeiden: zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Fachvotum zu Geheimcodes vermeiden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Mehrere Positionen im Zeugnis | Zeugnisse für Personen korrekt generieren, die während ihrer Beschäftigung die Position gewechselt, befördert wurden oder mehrere Funktionen innehatten. | Fachvotum zu Mehrere Positionen im Zeugnis mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Rollen und Harness-Wahl | Handelt es sich um ein Ausbildungsverhältnis nach BBiG? Zwischenzeugnis: Präsens verwenden, kein Vergangenheitstempus; keine Beendigungsaussage. | Fachvotum zu Rollen und Harness-Wahl mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
@@ -197,45 +194,44 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Bearbeite Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG: zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Zeugnisart und Anspruch: einfach, qualifiziert, Zwischen-, End- oder Ausbildungszeugnis, Fälligkeit, Titel und Vergleichslage bestimmen.
 Prüfschritte: Ein vollständiges Ausbildungszeugnis nach BBiG generieren, das die Besonderheiten des Ausbildungsverhältnisses berücksichtigt; Paragraf 16 Absatz 1 BBiG: Anspruch auf einfaches Zeugnis bei Beendigung des Berufsausbildungsverhältnisses; Paragraf 16 Absatz 2 BBiG: Qualifiziertes Zeugnis mit Angaben zu Verhalten und Leistung nur auf Verlangen; Elektronische Form nur mit Einwilligung der Auszubildenden; für die elektronische Form gilt Paragraf 126a BGB.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Erstelle Ausbildungszeugnisse nach Paragraf 16 BBiG mit Art, Dauer, Ziel sowie erworbenen Fertigkeiten, Kenntnissen und Fähigkeiten; Leistung und Verhalten nur auf Verlangen; Ein vollständiges Ausbildungszeugnis nach BBiG generieren, das die Besonderheiten des Ausbildungsverhältnisses berücksichtigt.
+Normbezug aus dem Fachmaterial: Erstelle Ausbildungszeugnisse nach Paragraf 16 BBiG mit Art, Dauer, Ziel sowie erworbenen Fertigkeiten, Kenntnissen und Fähigkeiten; Leistung und Verhalten nur auf Verlangen.
 Lieferstück: Fachvotum zu Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. Zeugnisklarheit — objektiver Empfängerhorizont (BAG 9 AZR 352/04; 9 AZR 386/10)
 
 Bearbeitungsauftrag: Bearbeite Zeugnisklarheit — objektiver Empfängerhorizont (BAG 9 AZR 352/04; 9 AZR 386/10): zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Formulierungen generieren, die klar und eindeutig sind — weder als versteckte Negativcodes noch als ironische Überhöhungen gelesen werden können; Paragraf 109 Absatz 2 GewO: Das Zeugnis muss klar und verständlich formuliert sein; Zeugnisse dürfen keine Geheimzeichen oder Formulierungen enthalten, die etwas anderes besagen, als aus dem Wortlaut ersichtlich ist; Maßgeblich ist der objektive Empfängerhorizont, nicht die Absicht des Ausstellers; Was ein kundiger Leser aus der Formulierung herausliest, entscheidet — nicht was der Aussteller gemeint hat.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Formulierungen generieren, die klar und eindeutig sind — weder als versteckte Negativcodes noch als ironische Überhöhungen gelesen werden können; Paragraf 109 Absatz 2 GewO: Das Zeugnis muss klar und verständlich formuliert sein.
 Lieferstück: Fachvotum zu Zeugnisklarheit — objektiver Empfängerhorizont (BAG 9 AZR 352/04; 9 AZR 386/10) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Kopfdaten und äußere Form
+### 16.3. Geheimcodes vermeiden
+
+Bearbeitungsauftrag: Bearbeite Geheimcodes vermeiden: zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Prüfschritte: Sicherstellen, dass der Entwurf klar und wahr ist und sich nicht durch Wortwahl, Reihenfolge oder äußere Form vom offen erklärten Inhalt distanziert; Vermeintliche Codewörter werden nicht isoliert übersetzt, sondern im Gesamtzeugnis geprüft; Paragraf 109 Absatz 2 S. 2 GewO verbietet Formulierungen, die etwas anderes aussagen, als aus dem Wortlaut ersichtlich ist; Stattdessen ist eine klare, tatsachengestützte und rechtlich zulässige Formulierung anzubieten; 9 AZR 386/10, Rn. 15 bis 21: Maßgeblich ist der objektive Empfängerhorizont.
+Lieferstück: Fachvotum zu Geheimcodes vermeiden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.4. Kopfdaten und äußere Form
 
 Bearbeitungsauftrag: Auffällige Gestaltungen werden nur beanstandet, wenn sie aus Sicht eines objektiven Lesers Distanzierung oder mangelnde Ernstlichkeit vermitteln. Ein qualifiziertes Zeugnis in Tabellenform oder als Ankreuzschema erfüllt den Anspruch aus Paragraf 109 GewO regelmäßig nicht. Seit dem Vierten Bürokratieentlastungsgesetz (in Kraft 1.1.2025) erlaubt Paragraf 109 Absatz 3 GewO die elektronische Form mit Einwilligung des Arbeitnehmers.
 Prüfschritte: Maschinenschriftlicher Name, Funktion und tatsächliche Unterschrift werden auf Übereinstimmung geprüft; Eine bloße Paraphe genügt der Schriftform nicht.
 Lieferstück: Fachvotum zu Kopfdaten und äußere Form mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Note 3 — Formeln Leistung
+### 16.5. Note 3 — Formeln Leistung
 
 Bearbeitungsauftrag: Standardformel Note 3: Alle ihr/ihm übertragenen Aufgaben erledigte sie/er zu unserer vollen Zufriedenheit. Schwächere Note-3-Variante (Note 3 bis 4, Vorsicht): Sie/Er erledigte die ihr/ihm übertragenen Aufgaben stets zu unserer Zufriedenheit. Das Adverb „stets" hebt nicht auf Note 2, wenn das Objekt nur „Zufriedenheit" (ohne „volle") ist — es erzeugt eine Zwischenstufe.
 Prüfschritte: Formulierungen für Note 3 generieren, die als durchschnittlich, aber nicht abwertend gelesen werden; Note 3 ist keine Niederlage — es ist die Mitte der Skala und der Ausgangspunkt nach BAG-Rechtsprechung; Frau/Herr [Name] verfügt über gute Fachkenntnisse für ihren/seinen Aufgabenbereich; Ihr/Sein Fachwissen entsprach den Anforderungen der Position; Ihre/Seine Arbeitsweise war sorgfältig und zuverlässig.
 Lieferstück: Fachvotum zu Note 3 — Formeln Leistung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Schlussformel-Baukasten
+### 16.6. Schlussformel-Baukasten
 
 Bearbeitungsauftrag: Eine freiwillige, wahrheitsgemäße Schlussformel entwerfen, die nicht im Widerspruch zum Zeugnis und zum Beendigungsgrund steht. Für ihren/seinen weiteren beruflichen und persönlichen Weg wünschen wir ihr/ihm nur das Allerbeste und weiterhin großen Erfolg. Wir danken Frau/Herrn [Name] herzlich für ihre/seine sehr guten Leistungen und ihren/seinen engagierten Einsatz.
 Prüfschritte: Gesetzlicher Anspruch, bereits erteilte Fassung und bloßer Gestaltungswunsch werden getrennt ausgewiesen; Für eine warme Schlussgestaltung können bis zu fünf Bausteine kombiniert werden; Diese Bausteine bilden keine gesetzliche Notenskala: Frau/Herr [Name] scheidet auf eigenen Wunsch aus unserem Unternehmen aus; Wir bedauern dies außerordentlich und danken ihr/ihm herzlich für ihre/seine hervorragenden Leistungen, ihren/seinen unermüdlichen Einsatz und ihren/seinen wertvollen Beitrag zum Erfolg unseres Unternehmens.
 Lieferstück: Fachvotum zu Schlussformel-Baukasten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Belastbarkeit-Formeln
+### 16.7. Belastbarkeit-Formeln
 
 Bearbeitungsauftrag: Es löst eine Kontextprüfung aus, wenn Belastungssituationen die Tätigkeit nachweislich prägten und der Gesamttext hierzu sonst kein aussagekräftiges Bild vermittelt. Frau/Herr [Name] bewies auch in Phasen hoher Arbeitsbelastung stets Überblick, Ruhe und Entschlossenheit. Auch unter schwierigen Bedingungen war sie/er stets belastbar und lieferte konstant hervorragende Ergebnisse.
 Prüfschritte: Belastbarkeitsaussagen mit der richtigen Notenstufe generieren und riskante Formulierungen vermeiden, die auf Krankheit oder Fehlzeiten hindeuten; Eine besondere Belastbarkeitsaussage kann sinnvoll sein bei:; Positionen mit regelmäßigen Deadlines oder Hochphasen; Schichtarbeit oder unregelmäßigen Arbeitszeiten; Krisenrelevanten Positionen (Notaufnahme, IT-Support, Produktion) Das Fehlen ist kein automatischer Rechtsmangel.
 Lieferstück: Fachvotum zu Belastbarkeit-Formeln mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.7. Geheimcodes vermeiden
-
-Bearbeitungsauftrag: Bearbeite Geheimcodes vermeiden: zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Prüfschritte: Sicherstellen, dass der Entwurf klar und wahr ist und sich nicht durch Wortwahl, Reihenfolge oder äußere Form vom offen erklärten Inhalt distanziert; Vermeintliche Codewörter werden nicht isoliert übersetzt, sondern im Gesamtzeugnis geprüft; Paragraf 109 Absatz 2 S. 2 GewO verbietet Formulierungen, die etwas anderes aussagen, als aus dem Wortlaut ersichtlich ist; Stattdessen ist eine klare, tatsachengestützte und rechtlich zulässige Formulierung anzubieten.
-Lieferstück: Fachvotum zu Geheimcodes vermeiden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.8. Mehrere Positionen im Zeugnis
 
@@ -246,7 +242,7 @@ Lieferstück: Fachvotum zu Mehrere Positionen im Zeugnis mit Tatbestandsmerkmale
 ### 16.9. Rollen und Harness-Wahl
 
 Bearbeitungsauftrag: Handelt es sich um ein Ausbildungsverhältnis nach BBiG? Zwischenzeugnis: Präsens verwenden, kein Vergangenheitstempus; keine Beendigungsaussage. Ausbildungszeugnis: Art, Dauer, Ziel sowie erworbene Fertigkeiten, Kenntnisse und Fähigkeiten vollständig erfassen; Berufsschulnoten nur aus verifizierter Unterlage und auf Wunsch.
-Prüfschritte: Den passenden Arbeitsmodus wählen, damit Rechtsgrundlage, Pflichtinhalt, Tempus und Bewertungsachsen zur Zeugnisart passen; Liegt eine Beendigung des Arbeitsverhältnisses vor oder läuft es noch; Hat der Arbeitnehmer ausdrücklich ein qualifiziertes Zeugnis verlangt oder genügt ein einfaches; Handelt es sich um ein Pflichtpraktikum, ein freiwilliges Arbeitsverhältnis oder nur um einen Tätigkeitsnachweis; Qualifiziertes Zeugnis: immer Fließtext, nie Ankreuzschema.
+Prüfschritte: Den passenden Arbeitsmodus wählen, damit Rechtsgrundlage, Pflichtinhalt, Tempus und Bewertungsachsen zur Zeugnisart passen; Liegt eine Beendigung des Arbeitsverhältnisses vor oder läuft es noch; Hat der Arbeitnehmer ausdrücklich ein qualifiziertes Zeugnis verlangt oder genügt ein einfaches; Handelt es sich um ein Pflichtpraktikum, ein freiwilliges Arbeitsverhältnis oder nur um einen Tätigkeitsnachweis.
 Lieferstück: Fachvotum zu Rollen und Harness-Wahl mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.10. Teilzeit und Elternzeit im Zeugnis
@@ -255,14 +251,14 @@ Bearbeitungsauftrag: Zeugnisse für Teilzeitbeschäftigte und Personen mit Elter
 Prüfschritte: Teilzeitarbeit darf nicht als Grund für eine ungünstigere Bewertung dienen; Ob der Umfang genannt wird, richtet sich nach Wahrheit, Zeugniszweck, Relevanz und einem erkennbaren Wunsch des Arbeitnehmers; In der Regel nicht, wenn der Umfang für Tätigkeitsbild und zeitliche Einordnung ohne Bedeutung ist; Ja, wenn der Umfang für Verantwortung, Schichtmodell oder Zeitraum sachlich relevant ist oder der Arbeitnehmer seine Aufnahme wünscht.
 Lieferstück: Fachvotum zu Teilzeit und Elternzeit im Zeugnis mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Frequenzadverbien-Katalog
+### 16.11. Auslassungen vermeiden
 
-Bearbeitungsauftrag: Frequenzadverbien von Qualitätsaussagen unterscheiden und ihre Wirkung im konkreten Satz prüfen. Frequenzadverbien beschreiben, wie oft etwas geschieht, nicht wie gut es geschieht. In Einzelsätzen Frequenz nur nennen, wenn gerade die Kontinuität eine belegte und relevante Aussage ist.
-Prüfschritte: Nur die etablierte Zufriedenheitsformel lässt eine vergleichsweise belastbare Noteneinordnung zu; andere Wörter werden nicht mechanisch übersetzt; In der Zeugnissprache werden sie trotzdem als Qualitätssignale gelesen, weil sie die Erwartung von Kontinuität (impliziert durch „stets") unterschreiten; Echter Steigerer drückt Ausnahmslosigkeit aus; Frequenzadverb drückt Häufigkeit aus — das ist ein entscheidender Unterschied in der Zeugnisbewertung.
-Lieferstück: Fachvotum zu Frequenzadverbien-Katalog mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Der Arbeitgeber entscheidet grundsätzlich, welche Leistungen und Eigenschaften er hervorhebt. Maßgeblich ist der objektive Empfängerhorizont, nicht eine starre Liste vermeintlicher Codewörter. AZR 632/07, Rn. 18 bis 21: Wortwahl und Auslassung sind aus Sicht des objektiven Zeugnislesers zu beurteilen.
+Prüfschritte: Sicherstellen, dass das Zeugnis die für die konkrete Tätigkeit prägenden Aufgaben, Leistungen und Verhaltensaspekte erkennen lässt; Eine Auslassung wird nicht schematisch als Geheimcode behandelt, sondern anhand der Funktion, der Branchenüblichkeit, des Gesamttexts und der belegbaren Tatsachen geprüft; 9 AZR 632/07, Rn. 18 bis 21: Wortwahl und Auslassung sind aus Sicht des objektiven Zeugnislesers zu beurteilen.
+Lieferstück: Fachvotum zu Auslassungen vermeiden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Langzeit-Arbeitsverhältnis
+### 16.12. Steigerungsadverbien-Katalog
 
-Bearbeitungsauftrag: Ein zehnjähriges Arbeitsverhältnis hat besondere Merkmale:. Der Umfang folgt Tätigkeitsvielfalt und Zeugniszweck, nicht einer festen Seitenzahl. Während ihrer/seiner zehnjährigen Betriebszugehörigkeit hat Frau/Herr [Name] das Unternehmen maßgeblich mitgestaltet und durch herausragende Leistungen zur Unternehmensentwicklung beigetragen.
-Prüfschritte: Zeugnisse für langjährig Beschäftigte so verdichten, dass Rollenentwicklung, prägende Aufgaben und belastbare Leistungen sichtbar bleiben; Loyalität und Verlässlichkeit werden nur hervorgehoben, wenn die Tatsachen sie tragen; Prägende Positionsentwicklung und Karriereschritte müssen für ein zutreffendes Tätigkeitsbild erfasst werden.
-Lieferstück: Fachvotum zu Langzeit-Arbeitsverhältnis mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: „zur vollen Zufriedenheit" ohne „stets" = Note 3 (nicht Note 2). „zur Zufriedenheit" ohne jedes Adverb = Note 4 Fehlt ein Steigerer an einer einzelnen Stelle, ist dies ein Prüfhinweis, aber noch kein Beweis für eine gezielte Abwertung. „grundsätzlich" als positive Verstärkung einsetzen — es ist ein Abschwächer.
+Prüfschritte: Steigerungs- und Abschwächungswörter im konkreten Satz und Gesamtzeugnis prüfen; Außerhalb der etablierten Zufriedenheitsformel drücken einzelne Adverbien keine exakte Schulnote aus; Diese Wörter beschreiben Häufigkeit oder Regelmäßigkeit, nicht ohne Weiteres Qualität; Abschwächer signalisieren Einschränkungen und senken die Note; Nie in einer positiven Formulierung verwenden.
+Lieferstück: Fachvotum zu Steigerungsadverbien-Katalog mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

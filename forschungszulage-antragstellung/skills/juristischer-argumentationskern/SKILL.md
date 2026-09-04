@@ -7,17 +7,17 @@ description: "Schaltet sich ein, wenn in Forschungszulage Antragstellung ein jur
 
 ## 1. Direktstart
 
-Arbeite als Steuerrechtlicher Bearbeiter für Veranlagung, Einspruch, Betriebsprüfung, internationale Besteuerung und Gestaltungsrisiken.
+Begründe die Förderfähigkeit eines konkreten Forschungs- und Entwicklungsvorhabens und dessen berücksichtigungsfähige Aufwendungen. Trenne die fachliche Bescheinigung der BSFZ von der wirtschaftsjahrbezogenen Festsetzung beim Finanzamt.
 
 Pluginauftrag: Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Insolvenzlage, Dokumentation, Beihilfen, Einspruch und Mehrjahresroadmap.
 
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.1. Sichte zuerst Projektbeschreibung, Arbeitspakete, Versuchsnachweise, Bescheinigung, Kostenbelege und erkennbare Fristen. Öffne zusätzliche Unterlagen gezielt für die jeweils ungeklärte Fördervoraussetzung.
 1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
 ## 2. Die tragende These
 
-Formuliere das Ergebnis für Forschungszulage Antragstellung in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage.
+Formuliere, welches Vorhaben in welchem Zeitraum bescheinigt oder welche Aufwendung in welchem Wirtschaftsjahr berücksichtigt werden soll. Benenne als Engpass etwa die wissenschaftlich-technische Unsicherheit, die Abgrenzung zur Routineentwicklung, einen nicht belegten Personalaufwand oder die Antragstellung innerhalb der maßgeblichen Frist.
 
 Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
@@ -34,11 +34,12 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 | Prüfpunkt | Konkrete Arbeitsfrage |
 | --- | --- |
-| Steuerart, Zeitraum | Steuerart, Zeitraum, Bescheidlage und Frist bestimmen |
-| Nationalen Tatbestand, persönliche Steuerpflicht und Einkunfts- oder Umsatzlogik | Nationalen Tatbestand, persönliche Steuerpflicht und Einkunfts- oder Umsatzlogik prüfen |
-| Verfahrensrecht | Einspruch, Aussetzung, Änderungsnorm und Festsetzungsfrist bearbeiten |
-| Belege, Buchführung | Belege, Buchführung, Rechnung, DBA und unionsrechtliche Sperren trennen |
-| Arbeitsprodukt | Einspruch, Klage, Stellungnahme, Risikomatrix oder Berechnung erstellen |
+| Anspruchsberechtigung | Unternehmen, Steuerpflicht, Wirtschaftsjahr und Beginn des Vorhabens bestimmen |
+| Forschungsvorhaben | Neuheit, Unsicherheit, planmäßiges Vorgehen, Arbeitspakete und Erkenntnisziel anhand zeitnaher Projektunterlagen belegen |
+| Aufwendungen | Personal, Eigenleistung, Auftragsforschung und weitere zulässige Kostenarten nach zeitlich geltender Fassung getrennt berechnen |
+| Zwei Verfahrensstufen | Bescheinigungsgegenstand der BSFZ und Festsetzungsgegenstand des Finanzamts auseinanderhalten; jeweiligen Bescheid und Rechtsbehelf bestimmen |
+| Beihilfen und Obergrenzen | Verbund, Doppelförderung, Kumulation und Höchstbetrag mit anderen Förderungen abstimmen |
+| Arbeitsprodukt | BSFZ-Projekttext, Kostenüberleitung, Festsetzungsantrag, Nachreichung oder bescheidbezogenen Rechtsbehelf erstellen |
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
@@ -51,28 +52,28 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 
 ## 4. Normenanker
 
-4.1. AO Paragraf 85: Legalität und Gleichmäßigkeit der Besteuerung.
-4.2. AO Paragraf 88: Amtsermittlung.
-4.3. AO Paragraf 173: Aufhebung oder Änderung wegen neuer Tatsachen.
-4.4. EStG Paragraf 2: Einkunftsarten und Einkommensermittlung.
-4.5. EStG Paragraf 49: beschränkte Steuerpflicht.
-4.6. FGO Paragraf 76: Sachaufklärung im Finanzgerichtsverfahren.
+4.1. FZulG Paragraf 1: Anspruchsberechtigung.
+4.2. FZulG Paragraf 2: begünstigte Forschungs- und Entwicklungsvorhaben.
+4.3. FZulG Paragrafen 3 und 4: förderfähige Aufwendungen, Bemessungsgrundlage und Höhe nach dem maßgeblichen Zeitraum.
+4.4. FZulG Paragrafen 5 und 6: Antrag beim Finanzamt und gesonderte Bescheinigung der Begünstigungsfähigkeit.
+4.5. FZulG Paragraf 7: Festsetzung und Anrechnung; Paragraf 12: Anwendung der AO.
+4.6. AO Paragrafen 88, 90, 169 ff. und 347 ff.: Amtsermittlung, Mitwirkung, Festsetzungsfrist und Einspruch auf der steuerlichen Verfahrensstufe. Für den BSFZ-Bescheid Rechtsweg und Rechtsbehelfsbelehrung gesondert prüfen.
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
 ## 5. Rechtsprechung und Quellenstatus
 
-5.1. BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
-5.2. BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
-5.3. BFH, Urteil vom 21.06.2012 - V R 20/11: Vorsteuerabzug verlangt ordnungsgemäße Rechnung und Leistungsbezug.
-5.4. EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04: Kittel-Rechtsprechung zum Vorsteuerabzug bei Kenntnis von Umsatzsteuerbetrug.
+5.1. Ausgangspunkt ist das [geltende FZulG](https://www.gesetze-im-internet.de/fzulg/), bei älteren Aufwendungen ergänzt um die zeitlich maßgebliche Fassung. Der Höchstbetrag der Bemessungsgrundlage beträgt für ab 2026 entstandene förderfähige Aufwendungen 12 Millionen Euro; die Anwendung bei abweichendem Wirtschaftsjahr und verbundenen Unternehmen ist gesondert zu prüfen.
+5.2. Die [BMF-Verfahrensübersicht](https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerliche_Themengebiete/Forschungszulage/forschungszulage.html) erläutert die zwei Antragsstufen. Eine Bescheinigung ersetzt den Antrag auf Festsetzung nicht.
+5.3. Beim Fristproblem für Altjahre sind die konkret veröffentlichten Übergangsregelungen und deren Voraussetzungen zu prüfen. Ein Referentenentwurf ist keine geltende Fristverlängerung.
+5.4. Eine Entscheidung wird nur aufgenommen, wenn sie die konkrete Streitfrage der Forschungszulage oder des einschlägigen Verfahrensrechts trägt. Vorsteuer-, DBA- und Umsatzsteuerbetrugsentscheidungen sind keine Belege für die Begünstigung des Forschungsvorhabens.
 
 5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
 5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
 ## 6. Beweislast und Gegenangriff
 
-Ausgangspunkt für dieses Plugin: Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise.
+Der Antragsteller muss die Begünstigung und die geltend gemachten Aufwendungen nachvollziehbar belegen. Amtsermittlung entbindet nicht von der Mitwirkung. Prüfe gesondert, was durch die Bescheinigung gebunden ist und welche Kostentatsache das Finanzamt noch festzustellen hat.
 
 6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
 6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
@@ -81,11 +82,11 @@ Ausgangspunkt für dieses Plugin: Finanzbehörde für steuerbegründende Tatsach
 
 ## 7. Prüffolge
 
-7.1. Welche Steuerart und welcher Zeitraum sind betroffen.
-7.2. Welche nationale Norm begründet die Steuerpflicht.
-7.3. Welche Korrektur- oder Rechtsbehelfsfrist läuft.
-7.4. Welche Belege tragen die Besteuerungsgrundlage.
-7.5. Welche DBA- oder Unionsrechtsfrage begrenzt die Besteuerung.
+7.1. Vorhaben, Antragsteller, Projektbeginn und Wirtschaftsjahr abgrenzen.
+7.2. Forschungsmerkmale aus Arbeitspaketen, Entwicklungsrisiken und Versuchsnachweisen ableiten.
+7.3. Kosten aus Lohnkonto, Zeitaufzeichnung, Auftrag und Rechnung zum Vorhaben überleiten.
+7.4. Bescheinigung, Festsetzungsantrag, Bindungsumfang und getrennte Fristen kontrollieren.
+7.5. Höchstbetrag, Verbund, Kumulation, Anrechnung und beantragte Rechtsfolge abstimmen.
 
 ## 8. Juristisches Schreiben
 
@@ -93,7 +94,7 @@ Ausgangspunkt für dieses Plugin: Finanzbehörde für steuerbegründende Tatsach
 8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
 8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
 8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Steuerart, Zeitraum, Nationalen Tatbestand, persönliche Steuerpflicht und Einkunfts- oder Umsatzlogik, Verfahrensrecht, Belege, Buchführung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+8.5. Liefere einen vollständig ausformulierten Projekttext mit Erkenntnisziel, Unsicherheit, Methode und Arbeitspaketen, eine belegte Kostenüberleitung oder einen auf den jeweiligen Bescheid zugeschnittenen Rechtsbehelf. Formatierte Texte verwenden Times New Roman 11 pt und dezimale Gliederung.
 
 ## 9. Ausgabemodi
 
@@ -113,4 +114,4 @@ Ausgangspunkt für dieses Plugin: Finanzbehörde für steuerbegründende Tatsach
 10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
 10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
 10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-10.7. Ist das Ergebnis unmittelbar als Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage verwendbar?
+10.7. Ist das Ergebnis unmittelbar für die konkrete Bescheinigungs- oder Festsetzungsstufe verwendbar, und trägt jeder geltend gemachte Betrag einen Beleg?

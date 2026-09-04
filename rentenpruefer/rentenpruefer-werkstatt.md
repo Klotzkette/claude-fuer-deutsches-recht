@@ -83,7 +83,7 @@ Arbeitsgriff Rechtsweg: Bescheidfehler, Widerspruch, Klage, Beweisnot, Auskunfts
 | --- | --- | --- | --- |
 | Fallkern | altersrente-langjährig-besonders-langjährig | SGB VI Paragraf 35 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | SGB VI Paragraf 36 und Paragraf 38 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | anwälte-versorgungswerk-spezial | SGB VI Paragraf 36 und Paragraf 38 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Anwälte im Versorgungswerk | SGB VI Paragraf 36 und Paragraf 38 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage | Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -154,7 +154,7 @@ Arbeitsgriff Rechtsweg: Bescheidfehler, Widerspruch, Klage, Beweisnot, Auskunfts
 10.5. Beweislast: Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Monate tragen Wartezeit oder Entgeltpunkte und welche Monate sind nur behauptet an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder altersrente-langjährig-besonders-langjährig, anwälte-versorgungswerk-spezial, arbeitslosigkeit-bürgergeld-und-rente, Betriebsrente Zusage Unverfallbarkeit: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder altersrente-langjährig-besonders-langjährig, Anwälte im Versorgungswerk, arbeitslosigkeit-bürgergeld-und-rente, Betriebsrente Zusage Unverfallbarkeit: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R; BSG, Urteil vom 21.03.2018 - B 13 R 19/14 R.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -190,14 +190,14 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | altersrente-langjährig-besonders-langjährig | Systemroute klären: gesetzliche Rente, Versorgungswerk, Ausland, Nachversicherung oder Rechtsbehelf trennen. | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
-| anwälte-versorgungswerk-spezial | Welches Rentensystem oder welcher Träger ist betroffen: DRV, Knappschaft, Versorgungswerk, Zusatzversorgung, ausländischer Träger oder Mischfall? | Fachvotum zu anwälte-versorgungswerk-spezial mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Anwälte im Versorgungswerk | Welches Rentensystem oder welcher Träger ist betroffen: DRV, Knappschaft, Versorgungswerk, Zusatzversorgung, ausländischer Träger oder Mischfall? | Fachvotum zu Anwälte im Versorgungswerk mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | arbeitslosigkeit-bürgergeld-und-rente | ALG-Zeiten, Bürgergeld, Sperrzeit, Meldungen, Bescheide, Versicherungsverlauf. Systemroute klären: gesetzliche Rente, Versorgungswerk, Ausland, Nachversicherung oder Rechtsbehelf trennen. | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
 | Betriebsrente Zusage Unverfallbarkeit | BetrAVG Paragraf 1: Zusage der betrieblichen Altersversorgung. BetrAVG Paragraf 2 und 2a: Unverfallbarkeit und Höhe. | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
-| Erwerbsminderung Reha Gutachtenstrategie | SGB VI Paragraf 9 und 10: Leistungen zur Rehabilitation. SGB X Paragraf 20 und 21: Amtsermittlung und Beweis. SGG Paragraf 103: gerichtliche Sachaufklärung | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | kontenklärung-drv | Versicherungsverlauf, fehlende Monate, Arbeitgeber, Ausland, Kindererziehung, Pflege, Ausbildung, Selbständigkeit. | Fachvotum zu kontenklärung-drv mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | renteninformation-rentenauskunft-verstehen | Gibt es einen Bescheid, eine Renteninformation, eine Rentenauskunft, einen Versicherungsverlauf oder nur Einzelunterlagen? | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
 | Rentenprozess-Versandmappe endfertigen | Baue eine Zeitachse mit Versicherungszeit, streitiger Bewertung, Beleg und Bescheidfundstelle. Trenne Kontenklärung, Altersrente, Erwerbsminderung, Hinterbliebenenrente, Nachversicherung und Beitragserstattung. | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
 | russland-sibirien-zeiten-und-frg | Geburtsort, Status, Zuzug, Staatsangehörigkeit, FRG-Bezug, Arbeitsbuch, Archivnachweise, Übersetzungen. Systemroute klären: gesetzliche Rente, Versorgungswerk, Ausland, Nachversicherung oder Rechtsbehelf trennen. | Fachvotum zu russland-sibirien-zeiten-und-frg mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| auslandszeiten-ohne-abkommen-beweisstrategie | Land, Zeitraum, Rechtsstatus, Beitragsnachweise, ausländischer Träger, Übersetzung, Staatsangehörigkeit. Systemroute klären: gesetzliche Rente, Versorgungswerk, Ausland, Nachversicherung oder Rechtsbehelf trennen. | Beweismatrix zu auslandszeiten-ohne-abkommen-beweisstrategie mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -209,11 +209,11 @@ Bearbeitungsauftrag: Systemroute klären: gesetzliche Rente, Versorgungswerk, Au
 Prüfschritte: Welches Rentensystem oder welcher Träger ist betroffen: DRV, Knappschaft, Versorgungswerk, Zusatzversorgung, ausländischer Träger oder Mischfall; Gibt es einen Bescheid, eine Renteninformation, eine Rentenauskunft, einen Versicherungsverlauf oder nur Einzelunterlagen; Welche Frist, welches Datum, welcher Zeitraum und welches konkrete Ziel sind entscheidend; Welche Unterlagen liegen bereits vor und welche Nachweise fehlen noch; Versicherungsverlauf, Arbeitslosigkeit, Minijobs, Kinder, Pflege, Ausbildung, freiwillige Beiträge.
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
-### 16.2. anwälte-versorgungswerk-spezial
+### 16.2. Anwälte im Versorgungswerk
 
 Bearbeitungsauftrag: Welches Rentensystem oder welcher Träger ist betroffen: DRV, Knappschaft, Versorgungswerk, Zusatzversorgung, ausländischer Träger oder Mischfall? Systemroute klären: gesetzliche Rente, Versorgungswerk, Ausland, Nachversicherung oder Rechtsbehelf trennen. Beweiswert bewerten: Original, beglaubigte Kopie, ausländische Urkunde, Arbeitsbuch, Zeuge, Arbeitgeberarchiv, Behördenauskunft.
 Prüfschritte: Gibt es einen Bescheid, eine Renteninformation, eine Rentenauskunft, einen Versicherungsverlauf oder nur Einzelunterlagen; Welche Frist, welches Datum, welcher Zeitraum und welches konkrete Ziel sind entscheidend; Welche Unterlagen liegen bereits vor und welche Nachweise fehlen noch; Zulassung, Kammer, Beschäftigung, Syndikusbescheid, Befreiungsbescheide, DRV-Verlauf.
-Lieferstück: Fachvotum zu anwälte-versorgungswerk-spezial mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Lieferstück: Fachvotum zu Anwälte im Versorgungswerk mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. arbeitslosigkeit-bürgergeld-und-rente
 
@@ -225,51 +225,51 @@ Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Va
 
 Bearbeitungsauftrag: BetrAVG Paragraf 1: Zusage der betrieblichen Altersversorgung. BetrAVG Paragraf 2 und 2a: Unverfallbarkeit und Höhe. Formuliere ein Anspruchsschreiben an Arbeitgeber oder Versorgungsträger mit Belegliste, fehlenden Auskünften und Frist zur nachvollziehbaren Berechnung.
 Prüfschritte: Ohne Zusageart keine saubere Betriebsrentenprüfung; BetrAVG Paragraf 1a: Entgeltumwandlung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Ohne Zusageart keine saubere Betriebsrentenprüfung; BetrAVG Paragraf 1: Zusage der betrieblichen Altersversorgung; BetrAVG Paragraf 1a: Entgeltumwandlung; BetrAVG Paragraf 2 und 2a: Unverfallbarkeit und Höhe; Ohne Zusageart keine saubere Betriebsrentenprüfung; BetrAVG Paragraf 1a: Entgeltumwandlung.
+Normbezug aus dem Fachmaterial: Ohne Zusageart keine saubere Betriebsrentenprüfung; BetrAVG Paragraf 1: Zusage der betrieblichen Altersversorgung; BetrAVG Paragraf 1a: Entgeltumwandlung; BetrAVG Paragraf 2 und 2a: Unverfallbarkeit und Höhe; Ohne Zusageart keine saubere Betriebsrentenprüfung; BetrAVG Paragraf 1a: Entgeltumwandlung.
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
-### 16.5. Erwerbsminderung Reha Gutachtenstrategie
-
-Bearbeitungsauftrag: SGB VI Paragraf 9 und 10: Leistungen zur Rehabilitation. SGB X Paragraf 20 und 21: Amtsermittlung und Beweis. SGG Paragraf 103: gerichtliche Sachaufklärung.
-Prüfschritte: Gib zuerst eine Leistungsfähigkeitsmatrix aus; SGB VI Paragraf 43: Erwerbsminderungsrente; Baue Widerspruch oder Klage mit medizinischem Kern: Leistungsvermögen, Wegefähigkeit, Gutachtenmängel, Beweisanträge und konkrete Arztberichte; Fordere keine irrelevanten Diagnosen nach.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Diagnosen allein reichen nicht; SGB VI Paragraf 43: Erwerbsminderungsrente; SGB VI Paragraf 9 und 10: Leistungen zur Rehabilitation; SGB X Paragraf 20 und 21: Amtsermittlung und Beweis; Gib zuerst eine Leistungsfähigkeitsmatrix aus; SGB VI Paragraf 43: Erwerbsminderungsrente.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.6. kontenklärung-drv
+### 16.5. kontenklärung-drv
 
 Bearbeitungsauftrag: Versicherungsverlauf, fehlende Monate, Arbeitgeber, Ausland, Kindererziehung, Pflege, Ausbildung, Selbständigkeit. Systemroute klären: gesetzliche Rente, Versorgungswerk, Ausland, Nachversicherung oder Rechtsbehelf trennen. Tatsachen sichern: Zeiträume monatsgenau, Träger, Bescheide, Nachweise, Übersetzungen und Zustellungen erfassen.
 Prüfschritte: Welches Rentensystem oder welcher Träger ist betroffen: DRV, Knappschaft, Versorgungswerk, Zusatzversorgung, ausländischer Träger oder Mischfall; Gibt es einen Bescheid, eine Renteninformation, eine Rentenauskunft, einen Versicherungsverlauf oder nur Einzelunterlagen; Welche Frist, welches Datum, welcher Zeitraum und welches konkrete Ziel sind entscheidend; Welche Unterlagen liegen bereits vor und welche Nachweise fehlen noch?
 Lieferstück: Fachvotum zu kontenklärung-drv mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. renteninformation-rentenauskunft-verstehen
+### 16.6. renteninformation-rentenauskunft-verstehen
 
 Bearbeitungsauftrag: Gibt es einen Bescheid, eine Renteninformation, eine Rentenauskunft, einen Versicherungsverlauf oder nur Einzelunterlagen? Systemroute klären: gesetzliche Rente, Versorgungswerk, Ausland, Nachversicherung oder Rechtsbehelf trennen. Tatsachen sichern: Zeiträume monatsgenau, Träger, Bescheide, Nachweise, Übersetzungen und Zustellungen erfassen.
 Prüfschritte: Welches Rentensystem oder welcher Träger ist betroffen: DRV, Knappschaft, Versorgungswerk, Zusatzversorgung, ausländischer Träger oder Mischfall; Welche Frist, welches Datum, welcher Zeitraum und welches konkrete Ziel sind entscheidend; Welche Unterlagen liegen bereits vor und welche Nachweise fehlen noch; Datum der Auskunft, Versicherungsverlauf, prognostizierte Rente, Lücken, Wartezeiten, Steuer/KV-Hinweise.
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
-### 16.8. Rentenprozess-Versandmappe endfertigen
+### 16.7. Rentenprozess-Versandmappe endfertigen
 
 Bearbeitungsauftrag: Baue eine Zeitachse mit Versicherungszeit, streitiger Bewertung, Beleg und Bescheidfundstelle. Trenne Kontenklärung, Altersrente, Erwerbsminderung, Hinterbliebenenrente, Nachversicherung und Beitragserstattung. Gesundheitsdaten und frühere Arbeitgeber nicht in Dateinamen ausbreiten.
 Prüfschritte: Lies Versicherungsverlauf, Kontenklärungsunterlagen, Rentenauskunft, Ausgangs- und Änderungsbescheide, Widerspruch, Widerspruchsbescheid, medizinische Gutachten, Arbeitgebernachweise und Schriftsatz; Medizinische Unterlagen werden nach Leistungsvermögen und Funktion, nicht nur Diagnose, geordnet; Versicherungszeiten werden zeitraumgenau belegt; Führe K-/B- oder neutralen Anlagenkreis fort und stemple jede Seite; Bescheide, Versicherungsverlauf, Arbeitsnachweise, Übersetzungen und Gutachten bleiben getrennte PDFs.
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
-### 16.9. russland-sibirien-zeiten-und-frg
+### 16.8. russland-sibirien-zeiten-und-frg
 
 Bearbeitungsauftrag: Geburtsort, Status, Zuzug, Staatsangehörigkeit, FRG-Bezug, Arbeitsbuch, Archivnachweise, Übersetzungen. Systemroute klären: gesetzliche Rente, Versorgungswerk, Ausland, Nachversicherung oder Rechtsbehelf trennen. Tatsachen sichern: Zeiträume monatsgenau, Träger, Bescheide, Nachweise, Übersetzungen und Zustellungen erfassen.
 Prüfschritte: Welches Rentensystem oder welcher Träger ist betroffen: DRV, Knappschaft, Versorgungswerk, Zusatzversorgung, ausländischer Träger oder Mischfall; Gibt es einen Bescheid, eine Renteninformation, eine Rentenauskunft, einen Versicherungsverlauf oder nur Einzelunterlagen; Welche Frist, welches Datum, welcher Zeitraum und welches konkrete Ziel sind entscheidend; Welche Unterlagen liegen bereits vor und welche Nachweise fehlen noch?
 Lieferstück: Fachvotum zu russland-sibirien-zeiten-und-frg mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. auslandszeiten-ohne-abkommen-beweisstrategie
+### 16.9. auslandszeiten-ohne-abkommen-beweisstrategie
 
 Bearbeitungsauftrag: Land, Zeitraum, Rechtsstatus, Beitragsnachweise, ausländischer Träger, Übersetzung, Staatsangehörigkeit. Systemroute klären: gesetzliche Rente, Versorgungswerk, Ausland, Nachversicherung oder Rechtsbehelf trennen. Tatsachen sichern: Zeiträume monatsgenau, Träger, Bescheide, Nachweise, Übersetzungen und Zustellungen erfassen.
 Prüfschritte: Welches Rentensystem oder welcher Träger ist betroffen: DRV, Knappschaft, Versorgungswerk, Zusatzversorgung, ausländischer Träger oder Mischfall; Gibt es einen Bescheid, eine Renteninformation, eine Rentenauskunft, einen Versicherungsverlauf oder nur Einzelunterlagen; Welche Frist, welches Datum, welcher Zeitraum und welches konkrete Ziel sind entscheidend; Welche Unterlagen liegen bereits vor und welche Nachweise fehlen noch?
 Lieferstück: Beweismatrix zu auslandszeiten-ohne-abkommen-beweisstrategie mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
 
-### 16.11. beweisnot-eidesstattliche-erklärung-zeugen
+### 16.10. beweisnot-eidesstattliche-erklärung-zeugen
 
 Bearbeitungsauftrag: Zeitraum, Ort, Arbeitgeber, Zeugen, Ersatzdokumente, Behördenantworten. Tatsachen sichern: Zeiträume monatsgenau, Träger, Bescheide, Nachweise, Übersetzungen und Zustellungen erfassen. Beweiswert bewerten: Original, beglaubigte Kopie, ausländische Urkunde, Arbeitsbuch, Zeuge, Arbeitgeberarchiv, Behördenauskunft.
 Prüfschritte: Welches Rentensystem oder welcher Träger ist betroffen: DRV, Knappschaft, Versorgungswerk, Zusatzversorgung, ausländischer Träger oder Mischfall; Gibt es einen Bescheid, eine Renteninformation, eine Rentenauskunft, einen Versicherungsverlauf oder nur Einzelunterlagen; Welche Frist, welches Datum, welcher Zeitraum und welches konkrete Ziel sind entscheidend; Welche Unterlagen liegen bereits vor und welche Nachweise fehlen noch?
 Lieferstück: Beweismatrix zu beweisnot-eidesstattliche-erklärung-zeugen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
+
+### 16.11. Erwerbsminderung Reha Gutachtenstrategie
+
+Bearbeitungsauftrag: SGB VI Paragraf 9 und 10: Leistungen zur Rehabilitation. SGB X Paragraf 20 und 21: Amtsermittlung und Beweis. SGG Paragraf 103: gerichtliche Sachaufklärung.
+Prüfschritte: Gib zuerst eine Leistungsfähigkeitsmatrix aus; SGB VI Paragraf 43: Erwerbsminderungsrente; Baue Widerspruch oder Klage mit medizinischem Kern: Leistungsvermögen, Wegefähigkeit, Gutachtenmängel, Beweisanträge und konkrete Arztberichte.
+Normbezug aus dem Fachmaterial: Diagnosen allein reichen nicht; SGB VI Paragraf 43: Erwerbsminderungsrente; SGB VI Paragraf 9 und 10: Leistungen zur Rehabilitation; SGB X Paragraf 20 und 21: Amtsermittlung und Beweis; Gib zuerst eine Leistungsfähigkeitsmatrix aus; SGB VI Paragraf 43: Erwerbsminderungsrente.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.12. erwerbsminderungsrente-medizinische-unterlagen
 

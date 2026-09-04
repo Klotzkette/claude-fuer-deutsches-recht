@@ -1,6 +1,6 @@
 ---
 name: digital-services-melde-und-abhilfeverfahren-notice-and-action
-description: "Für Melde- und Abhilfeverfahren (\"Notice and Action\") nach Art. 16 DSA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Digital Services Melde und Abhilfeverfahren Notice And Action: Arbeite die für diesen Gegenstand entscheidende Fachstation. Erstellt Melde- und Abhilfeverfahren (\"Notice and Action\")."
 ---
 
 # Melde- und Abhilfeverfahren ("Notice and Action") nach Art. 16 DSA

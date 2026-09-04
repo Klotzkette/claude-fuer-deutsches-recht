@@ -185,12 +185,12 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Hilfe holen: Betreuungsverein, Behörde, Gericht | Bearbeite Hilfe holen: Betreuungsverein, Behörde, Gericht: angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Fachvotum zu Hilfe holen: Betreuungsverein, Behörde, Gericht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Betreuer als Erbe und Beschenkter | Immer dann, wenn die Frage steht, ob ein Berufsbetreuer im Sinne des Paragraf 19 Absatz 2 BtOG durch den Betreuten oder dessen Angehörige durch Verfügung von Todes wegen (Erbe, Vermächtnis, Auflage) oder durch. | Fachvotum zu Betreuer als Erbe und Beschenkter mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Genehmigungspflicht-Prüfung (Paragrafen 1848 ff. BGB) | BGB — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflösung, freiheitsentziehende Maßnahmen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Kontodaten- und Vertragsverdacht-Prüfung | Der Skill ist forensisch, aber nicht voreilig: Er trennt Tatsachen, Verdachtsmomente, offene Beweise und rechtliche Erstmaßnahmen. Besteht Einwilligungsvorbehalt (Paragraf 1825 BGB) oder wurde er beim Gericht angeregt? | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Betreuungsgericht-Kommunikation für Angehörige | Wünsche der betreuten Person nennen: Was will sie, wie wurde das ermittelt? Bei Eilbedürftigkeit zuerst telefonische Kontaktaufnahme mit Gericht/Geschäftsstelle erwägen und danach Aktenvermerk erstellen. | Fachvotum zu Betreuungsgericht-Kommunikation für Angehörige mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Btr: Bevollmächtigter gegen Betreuer | Bearbeite Btr: Bevollmächtigter gegen Betreuer: angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Fachvotum zu Btr: Bevollmächtigter gegen Betreuer mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Familienbetreuer-Alltagscockpit | Arbeitsfokus: Familienbetreuer-Alltagscockpit. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:. | Fachvotum zu Familienbetreuer-Alltagscockpit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Familienkonflikt, Grenzen und Rollen | Arbeitsfokus: Familienkonflikt, Grenzen und Rollen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:. | Fachvotum zu Familienkonflikt, Grenzen und Rollen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Kalender, Reminder und Fristenmanagement | Arbeitsfokus: Kalender, Reminder und Fristenmanagement. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:. | Fristenblatt zu Kalender, Reminder und Fristenmanagement mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| Dokumentenscan, Aktenablage und Belegmappe | Passenden Ordner und Belegnummer vorschlagen. Lücken nennen: fehlende Seiten, unleserliche Stellen, fehlende Anlagen. | Akten- und Belegmatrix zu Dokumentenscan, Aktenablage und Belegmappe mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -200,14 +200,14 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Bearbeite Hilfe holen: Betreuungsverein, Behörde, Gericht: angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Paragraf 15 BtOG: Anerkannte Betreuungsvereine informieren, gewinnen, führen ein, bilden fort, beraten und unterstützen ehrenamtliche Betreuer; Paragraf 22 BtOG: Ehrenamtliche Betreuer können eine Vereinbarung über Begleitung und Unterstützung schließen; ohne familiäre oder persönliche Bindung soll dies vor der ersten Bestellung erfolgen; Paragraf 21 BtOG: Persönliche Eignung und Zuverlässigkeit; Führungszeugnis und Schuldnerverzeichnis-Auskunft bei erstmaliger Bestellung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 15 BtOG: Anerkannte Betreuungsvereine informieren, gewinnen, führen ein, bilden fort, beraten und unterstützen ehrenamtliche Betreuer; Paragraf 22 BtOG: Ehrenamtliche Betreuer können eine Vereinbarung über Begleitung und Unterstützung schließen.
+Normbezug aus dem Fachmaterial: Paragraf 15 BtOG: Anerkannte Betreuungsvereine informieren, gewinnen, führen ein, bilden fort, beraten und unterstützen ehrenamtliche Betreuer; Paragraf 22 BtOG: Ehrenamtliche Betreuer können eine Vereinbarung über Begleitung und Unterstützung schließen.
 Lieferstück: Fachvotum zu Hilfe holen: Betreuungsverein, Behörde, Gericht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. Betreuer als Erbe und Beschenkter
 
 Bearbeitungsauftrag: Immer dann, wenn die Frage steht, ob ein Berufsbetreuer im Sinne des Paragraf 19 Absatz 2 BtOG durch den Betreuten oder dessen Angehörige durch Verfügung von Todes wegen (Erbe, Vermächtnis, Auflage) oder durch lebzeitige Zuwendung bedacht werden darf, und welche zivil- und berufsrechtlichen Folgen sich daraus ergeben. Der Skill greift nicht, wenn der Bedachte ehrenamtlicher Betreuer im Sinne der Paragrafen 21, 22 BtOG ist — für diese gilt Paragraf 30 BtOG nicht. Hierzu .
-Prüfschritte: Auch wenn die Frage nur dem Anschein nach erbrechtlich ist (Erbschein, Pflichtteil), aber der Erbe gerade der Berufsbetreuer des Erblassers ist.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Immer dann, wenn die Frage steht, ob ein Berufsbetreuer im Sinne des Paragraf 19 Absatz 2 BtOG durch den Betreuten oder dessen Angehörige durch Verfügung von Todes wegen (Erbe, Vermächtnis, Auflage) oder durch lebzeitige Zuwendung bedacht werden darf, und welche zivil.
+Prüfschritte: Auch wenn die Frage nur dem Anschein nach erbrechtlich ist (Erbschein, Pflichtteil), aber der Erbe gerade der Berufsbetreuer des Erblassers ist; IV ZR 93/24: Strukturanaloge Bestätigung der Trennung von Berufsrecht und Erbrecht.
+Normbezug aus dem Fachmaterial: Immer dann, wenn die Frage steht, ob ein Berufsbetreuer im Sinne des Paragraf 19 Absatz 2 BtOG durch den Betreuten oder dessen Angehörige durch Verfügung von Todes wegen (Erbe, Vermächtnis, Auflage) oder durch lebzeitige Zuwendung bedacht werden darf, und welche zivil.
 Lieferstück: Fachvotum zu Betreuer als Erbe und Beschenkter mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. Genehmigungspflicht-Prüfung (Paragrafen 1848 ff. BGB)
@@ -215,46 +215,45 @@ Lieferstück: Fachvotum zu Betreuer als Erbe und Beschenkter mit Tatbestandsmerk
 Bearbeitungsauftrag: BGB — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflösung, freiheitsentziehende Maßnahmen. Lädt, wenn Schlagwörter wie "Genehmigung Betreuungsgericht", "Paragraf 1848 BGB", "Paragraf 1850 BGB", "Paragraf 1851 BGB", "freiheitsentziehende Maßnahme" oder "Heimvertrag" auftreten. Aufgabenkreise des Betreuers (Bestellungsurkunde).
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.4. Kontodaten- und Vertragsverdacht-Prüfung
-
-Bearbeitungsauftrag: Der Skill ist forensisch, aber nicht voreilig: Er trennt Tatsachen, Verdachtsmomente, offene Beweise und rechtliche Erstmaßnahmen. Besteht Einwilligungsvorbehalt (Paragraf 1825 BGB) oder wurde er beim Gericht angeregt? Liegt akuter Missbrauchs-Verdacht vor — dann sofort Gericht informieren, ggf.
-Prüfschritte: Anwendungsfall in der Betreuung: kontoauszüge, Vertragsunterlagen, Rechnungen oder Belege darauf geprüft werden sollen, ob Geldabflüsse, Dauerverträge, Anlagegeschäfte oder sonstige Rechtsgeschäfte für die betreute Person auffällig, schädlich oder betreuungsgerichtlich relevant sind; Er entscheidet nicht selbst über Geschäftsfähigkeit, Einwilligungsvorbehalt, Anfechtung, Genehmigung oder Strafbarkeit, sondern bereitet diese Prüfungen sauber vor.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.5. Betreuungsgericht-Kommunikation für Angehörige
+### 16.4. Betreuungsgericht-Kommunikation für Angehörige
 
 Bearbeitungsauftrag: Wünsche der betreuten Person nennen: Was will sie, wie wurde das ermittelt? Bei Eilbedürftigkeit zuerst telefonische Kontaktaufnahme mit Gericht/Geschäftsstelle erwägen und danach Aktenvermerk erstellen. kalender-reminder-und-fristenmanagement Arbeitsfokus: Betreuungsgericht-Kommunikation für Angehörige.
 Prüfschritte: Ohne medizinische Details, die für die konkrete Frage nicht nötig sind,; mit klarer Bitte: Auskunft, Genehmigung, Fristverlängerung, Bestätigung, Hinweis; Vor belastenden Angaben gegen sich selbst oder Familienangehörige kurz innehalten und ggf; Genehmigungspflicht nicht selbst “wegschreiben”.
 Lieferstück: Fachvotum zu Betreuungsgericht-Kommunikation für Angehörige mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Btr: Bevollmächtigter gegen Betreuer
+### 16.5. Btr: Bevollmächtigter gegen Betreuer
 
 Bearbeitungsauftrag: Bearbeite Btr: Bevollmächtigter gegen Betreuer: angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Person und Verfahren: Betroffener, Betreuer, Vollmacht, Verfahrensstand, Anhörung, Gutachten und Eilbedarf erfassen.
 Lieferstück: Fachvotum zu Btr: Bevollmächtigter gegen Betreuer mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Familienbetreuer-Alltagscockpit
+### 16.6. Familienbetreuer-Alltagscockpit
 
 Bearbeitungsauftrag: Arbeitsfokus: Familienbetreuer-Alltagscockpit. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:. Paragraf 1814 Absatz 1 BGB — Erforderlichkeit der Betreuung.
 Prüfschritte: Wenn Dokumente hochgeladen werden, erstelle ohne lange Rückfragen:; eine Rückfragenliste an Gericht, Pflegeheim, Bank, Arzt oder Behörde; Heute dringend / diese Woche / beobachten; Mini-Jahresbericht-Zwischenspeicher; Keine medizinische Beratung ersetzen.
 Lieferstück: Fachvotum zu Familienbetreuer-Alltagscockpit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Familienkonflikt, Grenzen und Rollen
+### 16.7. Familienkonflikt, Grenzen und Rollen
 
 Bearbeitungsauftrag: Arbeitsfokus: Familienkonflikt, Grenzen und Rollen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:. Paragraf 1814 Absatz 1 BGB — Erforderlichkeit der Betreuung.
 Prüfschritte: Geschwister werfen dem Betreuer Geldmissbrauch vor; Heim will schnelle Unterschrift oder Wohnungsauflösung; Angehörige wollen Kontoauszüge sehen, obwohl Datenschutz/Wunschlage dagegen spricht; Betreute Person will Kontakt, Familie hält ihn für schädlich; Betreuer ist zugleich Erbe, Miteigentümer, Mieter, Schuldner oder Gläubiger.
 Lieferstück: Fachvotum zu Familienkonflikt, Grenzen und Rollen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Kalender, Reminder und Fristenmanagement
+### 16.8. Kalender, Reminder und Fristenmanagement
 
 Bearbeitungsauftrag: Arbeitsfokus: Kalender, Reminder und Fristenmanagement. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:. Paragraf 1814 Absatz 1 BGB — Betreuungsvoraussetzungen.
 Prüfschritte: Monatlich: Kontakt zur betreuten Person dokumentieren; Monatlich bei Vermögenssorge: Kontoauszüge prüfen und Belege sichern; Quartalsweise: Wohn-/Pflege-/Gesundheitslage prüfen; Halbjährlich: Aufgabenkreise noch erforderlich; Jährlich: Jahresbericht vorbereiten.
 Lieferstück: Fristenblatt zu Kalender, Reminder und Fristenmanagement mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.10. Dokumentenscan, Aktenablage und Belegmappe
+### 16.9. Dokumentenscan, Aktenablage und Belegmappe
 
 Bearbeitungsauftrag: Passenden Ordner und Belegnummer vorschlagen. Lücken nennen: fehlende Seiten, unleserliche Stellen, fehlende Anlagen. Nächsten Skill routen: Jahresbericht, Vermögensverzeichnis, Genehmigung, Kontoanalyse oder Gerichtskommunikation.
 Prüfschritte: Empfohlene Struktur: Nutze sprechende Belegnummern:; Jede Seite vollständig, gerade, lesbar, mit Datum; Umschläge nur scannen, wenn Zustellung/Frist wichtig sein kann; Bescheide immer mit Rechtsbehelfsbelehrung erfassen; Kontoauszüge vollständig, nicht nur auffällige Buchungen.
 Lieferstück: Akten- und Belegmatrix zu Dokumentenscan, Aktenablage und Belegmappe mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
+
+### 16.10. Kontodaten- und Vertragsverdacht-Prüfung
+
+Bearbeitungsauftrag: Der Skill ist forensisch, aber nicht voreilig: Er trennt Tatsachen, Verdachtsmomente, offene Beweise und rechtliche Erstmaßnahmen. Besteht Einwilligungsvorbehalt (Paragraf 1825 BGB) oder wurde er beim Gericht angeregt? Liegt akuter Missbrauchs-Verdacht vor — dann sofort Gericht informieren, ggf.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.11. Aufgabenkreise festlegen
 

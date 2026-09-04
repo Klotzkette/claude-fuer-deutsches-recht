@@ -33,7 +33,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Aktenaufnahme, Relati
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | ZPO Paragraf 139; ZPO Paragraf 253 und Paragraf 138; ZPO Paragraf 286 |
-| Rechtsprechung | BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Parteien, Anträge, Verfahrensstand, Fristen und Zuständigkeit sichern |
 | Beweislast | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle |
 | Rechtsfolge | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren |
@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Aktenaufnahme, Relati
 | Prozessleitung | Hinweise, Auflagen, Terminsvorbereitung und Vergleichsoptionen ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beweis | Beweisbedürftige Tatsachen, Beweismittel, Beweislast und Beschlussfassung strukturieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klage Antrag Auslegen | BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -56,9 +55,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Aktenaufnahme, Relati
 - ZPO Paragraf 253 und Paragraf 138: Klageanforderungen und Erklärungslast der Parteien.
 - ZPO Paragraf 286: freie Beweiswürdigung.
 - ZPO Paragraf 300 ff. und Paragraf 313: Endurteil und Urteilsinhalt.
-- Paragraf 138 ZPO für Vortrag, Paragraf 286 ZPO für Überzeugungsbildung, Paragraf 287 ZPO für Schadensschätzung, Paragraf 296 ZPO für Verspätung und Paragraf 313 ZPO für Urteilsaufbau; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 253, 256, 263, 264, 269, 286, 287, 296, 313 ZPO bilden den Pflichtstamm für Antrag, Feststellung, Klageänderung, Rücknahme, Beweiswürdigung, Schätzung, Präklusion; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird. 1.
+- Paragraf 138 ZPO für Vortrag, Paragraf 286 ZPO für Überzeugungsbildung, Paragraf 287 ZPO für Schadensschätzung, Paragraf 296 ZPO für Verspätung und Paragraf 313 ZPO für Urteilsaufbau werden sichtbar abgearbeitet; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 253, 256, 263, 264, 269, 286, 287, 296, 313 ZPO bilden den Pflichtstamm für Antrag, Feststellung, Klageänderung, Rücknahme, Beweiswürdigung, Schätzung, Präklusion und Urteilsaufbau; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

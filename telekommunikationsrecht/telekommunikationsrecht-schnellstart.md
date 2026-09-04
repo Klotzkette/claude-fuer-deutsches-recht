@@ -44,11 +44,10 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Rolle und Leistung, V
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Rolle und Leistung | Betreiber, Anbieter, Vermittler, Anschluss, Dienst, Netz, Nummer oder Frequenz konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertrag und Störung | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertrag und Störung | Zusammenfassung, Laufzeit, Änderung, Kündigung, Minderleistung, Ausfall, Wechsel und Umzug kalendarisch erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Regulierung | Markt, Adressat, Verfügung, Entgelt, Zugang, Zusammenschaltung, Frequenz oder Nummer und Rechtsbehelf trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beweis | Messprotokoll, Produktinformationsblatt, Vertrag, Störungsticket, Portierungsdaten, Bescheid und Zustellung sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Anbieterforderung, Minderungsrechnung, Schlichtungsantrag, Regulierungsstellungnahme, Widerspruch oder Eilantrag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BNetzA-Beschwerde-Dashboard | Beschwerden ohne Kategorie; keine Ticketnummern; Fristen nicht verfolgt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Anbieterforderung, Minderungsrechnung, Schlichtungsantrag, Regulierungsstellungnahme, Widerspruch oder Eilantrag erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

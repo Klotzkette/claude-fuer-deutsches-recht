@@ -33,8 +33,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Auslands-Zergliederun
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Brüssel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4; Rom-II-VO Artikel 4 |
-| Rechtsprechung | EuGH, Urteil vom 19.03.2015, C-286/13 P, Dole Food und Dole Fresh |
-| Tatbestand | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Tatbestand | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente und Fristen als Raster erfassen |
 | Beweislast | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden |
 | Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,9 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Auslands-Zergliederun
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Auslands-Zergliederung | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Forum | Internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwendbares Recht | Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslands-Zergliederung | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente und Fristen als Raster erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Forum | Internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung); Torpedo- und Parallelverfahrensrisiken benennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwendbares Recht | Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker

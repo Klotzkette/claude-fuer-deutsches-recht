@@ -1889,6 +1889,36 @@ SENTINEL_HINTS = (
     ("notarielle beglaubigung",),
 )
 
+SENTINELS += (
+    Sentinel(
+        "nicht existente Strafmilderungsnorm 49a StGB",
+        re.compile(r"(?:Paragraf|§)\s*49a\s+StGB", re.IGNORECASE),
+    ),
+    Sentinel(
+        "nicht existente Kollektivlizenznorm 51c UrhG",
+        re.compile(r"(?:Paragraf|§)\s*51c\s+UrhG", re.IGNORECASE),
+    ),
+    Sentinel(
+        "unbelegte pauschale Strafminderungsquote",
+        re.compile(r"Geständnis[- ]Rabatt\s+25\s*[-–]\s*33\s*%", re.IGNORECASE),
+    ),
+    Sentinel(
+        "unbelegte Schadensquote für Einstellungsauflage",
+        re.compile(r"153a[- ]Auflage\s+orientiert\s+sich\s+an\s+30\s*%", re.IGNORECASE),
+    ),
+    Sentinel(
+        "falsch zugeordneter Vorsteueranker V R 20/11",
+        re.compile(r"V\s+R\s+20/11.{0,100}Vorsteuerabzug\s+verlangt", re.IGNORECASE),
+    ),
+)
+SENTINEL_HINTS += (
+    ("49a",),
+    ("51c",),
+    ("rabatt",),
+    ("153a",),
+    ("v r 20/11",),
+)
+
 if len(SENTINEL_HINTS) != len(SENTINELS):
     raise RuntimeError("SENTINEL_HINTS und SENTINELS sind nicht synchron")
 

@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Behörde und Verfahre
 | Verfahrensrechte | Anhörung, Akteneinsicht, Geheimnisschutz und Fristverlängerung sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Antwortstrategie | Umfang der Auskunft, Schwärzungen, Teillieferung und Schutzschriften abwägen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband | Rolle des Mandanten: Verbraucher, Unternehmen, Verband. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

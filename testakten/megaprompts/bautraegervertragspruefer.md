@@ -7,14 +7,14 @@ Diese Vollprüfung enthält top-15 von 31 Skills des Plugins `bautraegervertrags
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Bauträgervertragsprüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
-2. **notarbelehrung-paragraf-14-bnoto-17-beurkg** — Für Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnit…
-3. **paragraf-309-nr-12-bgb-tatsachenbestaetigung** — Für Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast: ordnet Norm, Beweislast und Gegenargument; Ergebni…
-4. **fertigstellungssicherheit-650m-pruefen** — Für Fertigstellungssicherheit Paragraf 650m Absatz 2 BGB prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
-5. **paragraf-308-nr-4-bgb-leistungsaenderung** — Für Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpro…
-6. **hoai-bauueberwachung-private-bauueberwachung** — Für HOAI, Bauüberwachung und private Bauüberwachung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mi…
-7. **aufforderungsschreiben-bautraeger-und-notar** — Für Aufforderungsschreiben an Bauträger und Notar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit …
-8. **teilungserklaerung-gemeinschaftsordnung** — Für Teilungserklärung und Gemeinschaftsordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ris…
-9. **verjaehrung-634a-bgb-hemmung** — Für Verjährung Paragraf 634a BGB und Hemmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risik…
+2. **verjaehrung-634a-bgb-hemmung** — Berechnet die Verjährung von Bauträger- und Bauwerksmängelansprüchen nach Paragraf 634a BGB und prüft Abnahme, Arglist, …
+3. **notarbelehrung-paragraf-14-bnoto-17-beurkg** — Für Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnit…
+4. **paragraf-309-nr-12-bgb-tatsachenbestaetigung** — Für Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast: ordnet Norm, Beweislast und Gegenargument; Ergebni…
+5. **fertigstellungssicherheit-650m-pruefen** — Für Fertigstellungssicherheit Paragraf 650m Absatz 2 BGB prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
+6. **paragraf-308-nr-4-bgb-leistungsaenderung** — Für Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpro…
+7. **hoai-bauueberwachung-private-bauueberwachung** — Für HOAI, Bauüberwachung und private Bauüberwachung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mi…
+8. **aufforderungsschreiben-bautraeger-und-notar** — Für Aufforderungsschreiben an Bauträger und Notar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit …
+9. **teilungserklaerung-gemeinschaftsordnung** — Für Teilungserklärung und Gemeinschaftsordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ris…
 10. **abnahme-sondereigentum-paragraf-640** — Für Abnahme Sondereigentum Paragraf 640 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko…
 11. **gemeinschaft-zieht-maengelrechte-an-sich** — Für Gemeinschaft zieht Mängelrechte an sich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko…
 12. **maengelrechte-633-634-bgb** — Für Mängelrechte Paragrafen 633 und 634 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko…
@@ -140,6 +140,86 @@ Ausgangspunkt für dieses Plugin: Auftragnehmer für Leistung, Nachtrag und Behi
 10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
 10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
 10.7. Ist das Ergebnis unmittelbar als Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung verwendbar?
+
+---
+
+## Skill: `verjaehrung-634a-bgb-hemmung`
+
+_Berechnet die Verjährung von Bauträger- und Bauwerksmängelansprüchen nach Paragraf 634a BGB und prüft Abnahme, Arglist, Verhandlungen sowie Rechtsverfolgung; erstellt einen belegten Fristenkalender ohne Scheinsicherheit durch interne Beschlüsse._
+
+# Verjährung nach Paragraf 634a BGB und Hemmung
+
+## 1. Direktauftrag
+
+Lies Bauträgervertrag, Abnahmeunterlagen, Mängelanzeigen, Antwortschreiben, Nachbesserungsprotokolle, Gerichtsunterlagen und Beschlüsse der Gemeinschaft der Wohnungseigentümer. Baue je Mangel, Anspruch und betroffenem Eigentumsbereich eine eigene Zeitachse. Frage nur nach einem fehlenden Datum oder Beleg, wenn davon Fristbeginn, Hemmung oder Anspruchsberechtigung abhängt.
+
+## 2. Grundprüfung
+
+### 2.1 Anspruch und Verjährungsnorm
+
+1. Zuerst den konkreten Anspruch bestimmen. Paragraf 634a BGB erfasst die dort bezeichneten Mängelansprüche; andere Ansprüche können anderen Fristen folgen.
+2. Für Mängel an einem Bauwerk und einschlägige Planungs- oder Überwachungsleistungen beträgt die Frist nach Paragraf 634a Absatz 1 Nummer 2 BGB fünf Jahre.
+3. Die Frist beginnt nach Paragraf 634a Absatz 2 BGB grundsätzlich mit der Abnahme.
+4. Sondereigentum, Gemeinschaftseigentum, Teilabnahmen und verschiedene Leistungsbereiche getrennt behandeln.
+
+### 2.2 Abnahme
+
+1. Vertragliche Abnahmeregel, Abnahmeprotokoll, schlüssiges Verhalten und Abnahmefiktion jeweils gesondert prüfen.
+2. Eine unwirksame formularmäßige Abnahmeklausel ersetzt keine wirksame Abnahme. Es ist aber zusätzlich zu prüfen, ob später eine tatsächliche, konkludente oder gesetzlich fingierte Abnahme erfolgte.
+3. BGH, Urteil vom 9. November 2023, VII ZR 241/22: Eine Klausel, die die Abnahme des Gemeinschaftseigentums durch eine vom Bauträger bestimmte, wirtschaftlich verbundene Erstverwaltergesellschaft ermöglicht, ist unwirksam. Die Entscheidung enthält außerdem eine fallbezogene Begrenzung des Einwands fehlender Abnahme nach Treu und Glauben; ihre Rechtsfolge darf nicht ohne Prüfung der konkreten Vertrags- und Prozesslage verallgemeinert werden.
+
+### 2.3 Arglist nach Paragraf 634a Absatz 3 BGB
+
+1. Bei arglistigem Verschweigen gilt abweichend die regelmäßige Verjährungsfrist nach den Paragrafen 195 und 199 BGB.
+2. Bei Bauwerken tritt Verjährung dennoch nicht vor Ablauf der fünfjährigen Frist aus Paragraf 634a Absatz 1 Nummer 2 BGB ein.
+3. Arglist begründet keine pauschale zehn- oder 30-jährige Verjährungsfrist. Vorsatzwissen, offenbarungspflichtiger Mangel, Verschweigen und Zurechnung müssen konkret belegt werden.
+4. Kenntnis oder grob fahrlässige Unkenntnis für Paragraf 199 Absatz 1 BGB anhand eines bestimmten Informationsstands und Datums feststellen.
+
+## 3. Hemmung und Neubeginn
+
+### 3.1 Verhandlungen nach Paragraf 203 BGB
+
+1. Erforderlich sind Verhandlungen zwischen Gläubiger und Schuldner über den Anspruch oder die anspruchsbegründenden Umstände.
+2. Mängelanzeige, Prüfbitte oder internes Bearbeiten genügt nicht automatisch. Reaktion, Prüfbereitschaft, Ortstermin, Nachbesserungsversuch und spätere Ablehnung chronologisch würdigen.
+3. Die Hemmung endet mit der Verweigerung weiterer Verhandlungen; Verjährung tritt frühestens drei Monate nach dem Ende der Hemmung ein.
+4. Beginn und Ende mit konkreter Korrespondenz belegen.
+
+### 3.2 Rechtsverfolgung nach Paragraf 204 BGB
+
+1. Den passenden Tatbestand aus Paragraf 204 Absatz 1 BGB bestimmen, etwa Klagezustellung, Mahnbescheid oder Zustellung des Antrags auf Durchführung eines selbständigen Beweisverfahrens.
+2. Beim selbständigen Beweisverfahren genügt nicht dessen bloße Vorbereitung. Zustellung, erfasste Mängel und Gegnerbezeichnung prüfen.
+3. Die Nachlauffrist von sechs Monaten folgt aus Paragraf 204 Absatz 2 BGB und knüpft an rechtskräftige Entscheidung oder anderweitige Beendigung des eingeleiteten Verfahrens an.
+4. Stillstand des Verfahrens durch Nichtbetreiben kann den Beginn der Nachlauffrist vorverlagern; Verfahrensakte prüfen.
+
+### 3.3 Beschluss der Gemeinschaft der Wohnungseigentümer
+
+Ein interner Beschluss der Gemeinschaft der Wohnungseigentümer ist für sich weder Verhandlung mit dem Anspruchsgegner nach Paragraf 203 BGB noch ein Rechtsverfolgungstatbestand nach Paragraf 204 BGB. Er hemmt die Verjährung deshalb nicht. Anspruchsinhaberschaft, Ausübungsbefugnis und Prozessführung sind gesondert zu prüfen; für die Fristwahrung muss rechtzeitig ein gesetzlicher Hemmungstatbestand gegenüber dem richtigen Gegner verwirklicht werden.
+
+### 3.4 Weitere Fristwirkungen
+
+Anerkenntnis, Abschlagszahlung oder andere Handlungen nur nach Prüfung des Paragrafen 212 BGB als Neubeginn behandeln. Hemmung, Ablaufhemmung und Neubeginn nicht miteinander vermischen.
+
+## 4. Fristenkalender
+
+| Anspruch und Mangel | Abnahme | Grundfrist | Hemmung von / bis | Nachlauf | Fristende | Beleg |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+
+Jede Unsicherheit als Alternativberechnung ausweisen. Keine Frist als sicher bezeichnen, solange Abnahme, Zustellung oder Ende der Verhandlungen nicht belegt sind.
+
+## 5. Arbeitsprodukt
+
+Liefere erstens einen taggenauen Fristenkalender je Anspruch, zweitens eine Belegliste für Abnahme und Hemmung, drittens eine knappe Risikobewertung und viertens die sofort erforderliche Maßnahme. Ein Gemeinschaftsbeschluss darf niemals als fristwahrende Handlung ausgegeben werden.
+
+## 6. Amtliche Quellen
+
+- [Paragraf 195 BGB](https://www.gesetze-im-internet.de/bgb/__195.html)
+- [Paragraf 199 BGB](https://www.gesetze-im-internet.de/bgb/__199.html)
+- [Paragraf 203 BGB](https://www.gesetze-im-internet.de/bgb/__203.html)
+- [Paragraf 204 BGB](https://www.gesetze-im-internet.de/bgb/__204.html)
+- [Paragraf 212 BGB](https://www.gesetze-im-internet.de/bgb/__212.html)
+- [Paragraf 634a BGB](https://www.gesetze-im-internet.de/bgb/__634a.html)
+- [BGH, Urteil vom 9. November 2023, VII ZR 241/22](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-11&Gericht=bgh&Seite=8&Sort=3&anz=317&nr=135795&pos=249)
 
 ---
 
@@ -520,60 +600,6 @@ Befund: Die Klausel erlaubt Änderungen ohne konkret benannte triftige Gründe. 
 
 Gewünschte Fassung:
 "Änderungen der Teilungserklärung oder Gemeinschaftsordnung nach Vertragsschluss bedürfen der Zustimmung des Erwerbers. Eine Zustimmung kann nur verlangt werden, wenn ein im Vertrag einzeln benannter triftiger Grund vorliegt, die Änderung Inhalt, Umfang, Wert, Nutzbarkeit, Kostenlast, Stimmrechte, Sondernutzungsrechte und Gemeinschaftsflächen des Erwerbers nicht nachteilig berührt und dem Erwerber die Änderung in Textform mit Begründung nachgewiesen wird."
-```
-
----
-
-## Skill: `verjaehrung-634a-bgb-hemmung`
-
-_Für Verjährung Paragraf 634a BGB und Hemmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
-
-# Verjährung Paragraf 634a BGB und Hemmung
-
-## Wann dieser Skill greift
-
-Sobald Mängelansprüche geltend gemacht werden, die Abnahme länger als ein Jahr zurückliegt, der Bauträger Verjährung einwendet oder der Vertrag eine kürzere Verjährungsfrist als fünf Jahre vorsieht. Auch bei unwirksamer Abnahmeklausel und der Frage, wann die Frist dann zu laufen begann.
-
-## Pflichtnormen
-
-- Paragraf 634a Absatz 1 Nummer 2 BGB: Verjährungsfrist für Mängelansprüche bei Bauwerken fünf Jahre ab Abnahme.
-- Paragraf 634a Absatz 2 BGB: Regelverjährung von drei Jahren nach Paragrafen 195, 199 BGB gilt bei arglistigem Verschweigen.
-- Paragraf 203 BGB: Hemmung der Verjährung während laufender Verhandlungen über den Anspruch oder die Umstände, die ihn begründen.
-- Paragraf 204 Absatz 1 Nummer 7 BGB: Hemmung durch Einleitung eines selbständigen Beweisverfahrens; Hemmung endet sechs Monate nach Beendigung des Verfahrens.
-- Paragraf 307 BGB: formularmäßige Verkürzung der fünfjährigen Verjährung unter das gesetzliche Minimum ist unwirksam.
-
-## Pruefraster
-
-1. **Abnahmedatum**: Wann erfolgte die Abnahme des Sondereigentums oder — bei unwirksamer Klausel — wann begann die Verjährung tatsächlich?
-2. **Unwirksame Abnahmeklausel**: Wenn die Abnahmeklausel unwirksam ist, hat der Bauträger keine wirksame Abnahme herbeigeführt; die Verjährungsfrist beginnt nicht zu laufen; Erwerber ist beweisbelastet für konkrete Abnahme oder Fiktionseintritt.
-3. **Fünfjahres-Grundregel**: Für Mängelansprüche am Bauwerk beträgt die Frist fünf Jahre; Klauseln, die sie verkürzen, sind nach Paragraf 307 BGB unwirksam.
-4. **Hemmung durch Verhandlungen (Paragraf 203 BGB)**: Jeder Austausch, bei dem der Bauträger Mängelrügen nicht sofort abweist, sondern prüft oder beseitigt, kann als Verhandlung gelten; Beginn und Ende dokumentieren.
-5. **Selbständiges Beweisverfahren**: Einleitung hemmt die Verjährung; Hemmung endet sechs Monate nach Verfahrensabschluss; vor Einleitung prüfen, ob alle relevanten Mängel im Antrag erfasst sind.
-6. **Arglist**: Bei arglistigem Verschweigen von Mängeln läuft die Regelverjährung von drei Jahren nach Paragraf 634a Absatz 2 BGB; Kenntnis des Erwerbers ab dem Jahr des Bekanntwerdens.
-7. **Gemeinschaft der Wohnungseigentümer**: Vergemeinschaftungsbeschluss ist für gemeinschaftliche Mängelrechte erforderlich; Mängelrügen hemmen die Verjährung erst ab Beschlussfassung, nicht rückwirkend.
-
-## Leitentscheidungen
-
-BGH, Urteile vom 26.03.2026 - VII ZR 68/24 und VII ZR 108/24 (amtliche PDFs jeweils auf bundesgerichtshof.de): Bei unwirksamer Abnahmeklausel läuft die Mängelverjährung nicht; für Kostenvorschussansprüche gilt eine 30-Jahres-Obergrenze, nicht pauschal auf alle Ansprüche übertragen.
-
-## Arbeitsprodukt
-
-Verjährungskalender für alle Mängelansprüche mit Abnahmedatum, Fristablauf, Hemmungszeiträumen, offenen Fristen und Handlungsempfehlung.
-
-## Musterbaustein
-
-```text
-Verjährungskalender Mängelansprüche
-
-Abnahme Sondereigentum:     [Datum]
-Ablauf fünfjährige Frist:   [Datum + 5 Jahre]
-Hemmung durch Verhandlung:  [von: Datum bis: Datum, Belege: Korrespondenz]
-Hemmung selbst. Beweisverf.: [Einleitung: Datum; Ende: Datum; Hemmungsende: Datum + 6 Monate]
-Verbleibende Frist:         [Tage / Monate]
-Handlungsempfehlung:        [Klage einreichen / SBV einleiten / Frist beachten]
-
-Bei unwirksamer Abnahmeklausel:
-Die Abnahmeklausel [Paragraf/Absatz] ist nach der BGH-Linie (VII ZR 68/24, VII ZR 241/22) unwirksam. Auf ihrer Grundlage ist keine wirksame Abnahme erfolgt. Die fünfjährige Mängelverjährung hat nicht begonnen zu laufen. Der Bauträger kann sich auf die fehlende Abnahme nicht zu seinem Vorteil berufen.
 ```
 
 ---

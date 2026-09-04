@@ -46,9 +46,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Beschwerdegegenstand,
 | Beschwerdegegenstand, Hoheitsakt | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Zulässigkeit | Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Schutzbereich, Eingriff | Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten | Bearbeite Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten entlang der Verfassungsrecht-Prüflinie: Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten | Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eilrechtsschutz: Folgenabwägung nach Paragraf 32 BVerfGG | Bearbeite Eilrechtsschutz: Folgenabwägung nach Paragraf 32 BVerfGG entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -62,7 +61,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Beschwerdegegenstand,
 - Art. 93 Abs. 1 Nr. 4a GG: Verfassungsbeschwerde; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
 - BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
-- BVerfG, Beschluss vom 21.01.2025, 2 BvQ 2/25, und Beschluss vom 06.06.2025, 2 BvQ 39/25: aktuelle Kammerformel zu Paragraf 32 Abs. 1 BVerfGG mit Folgenabwägung bei offenem Hauptsacheausgang.
 
 ## 7. Antwortform
 

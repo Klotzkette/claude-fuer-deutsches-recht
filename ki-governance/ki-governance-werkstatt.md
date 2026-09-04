@@ -84,7 +84,7 @@ Arbeitsgriff Arbeitsprodukt: Einordnungsmemo, Roadmap, Vorstandsvorlage, Behörd
 | --- | --- | --- | --- |
 | Fallkern | System-Anbieterprüfung | VO (EU) 2024/1689 Art. 2 und Art. 3 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VO (EU) 2024/1689 Art. 5 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Systemrichtlinien-Starter | VO (EU) 2024/1689 Art. 5 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Regulierungsrahmen Pflichtenpyramide | VO (EU) 2024/1689 Art. 5 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen | Nachweisachse Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -184,9 +184,9 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | System-Anbieterprüfung | Unterscheidet Anbieter/Betreiber-Rolle nach Artikel 3 Regulierungsrahmen; Prüfe Vertragspflichten nach Artikel 25 Regulierungsrahmen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Systemrichtlinien-Starter | Regulierungsrahmen Artikel 4 Regulierungsrahmen: System-Kompetenzverpflichtung — Anbieter und Betreiber müssen hinreichende System-Kompetenz ihres Personals sicherstellen; Richtlinie muss Schulungspflicht abbilden. | Fachvotum zu Systemrichtlinien-Starter mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Regulierungsrahmen Pflichtenpyramide | Pflichtenpyramide Regulierungsrahmen einführend: verbotene algorithmische Systeme Artikel 5, Hochrisiko-Systeme Artikel 6 in Verbindung mit Anhang III, GPAI (General Purpose algorithmische Systeme) Artikel 51 und folgende , begrenztes Risiko mit Transparenzpflichten. | Fachvotum zu Regulierungsrahmen Pflichtenpyramide mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | System-Regulierungs-Lückenanalyse | Regulierungs-Name oder Regelungstext (Regulierungsrahmen Hochrisiko, Datenschutz-Grundverordnung Artikel 22, DSA, DMA, RL 2024/2853, BSIG, Sektoren). € oder 7 % weltweiter Jahresumsatz bei Artikel 5-Verstößen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| Systemrichtlinien-Monitor | Für Betreiber: Artikel 29 Absatz 1–4 Regulierungsrahmen (Überwachungs- und Meldepflichten). Datenschutz-Grundverordnung Artikel 5 Absatz 2 (Rechenschaftspflicht): Verantwortliche müssen Einhaltung der Grundsätze nachweisen. | Fachvotum zu Systemrichtlinien-Monitor mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | KIG: GPAI Anbieterpflichten | Bearbeite KIG: GPAI Anbieterpflichten: eigenname, Eigenmarke, wesentliche Änderung, Zweckänderung, Produktintegration und Pflichtenwechsel nach Art. 25 trennen. | Fachvotum zu KIG: GPAI Anbieterpflichten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | GPAI: Systemic-Risk-Modelle | Bearbeite GPAI: Systemic-Risk-Modelle: zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Fachvotum zu GPAI: Systemic-Risk-Modelle mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | System-Anwendungsfall-Triage | Bearbeite System-Anwendungsfall-Triage: zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Fachvotum zu System-Anwendungsfall-Triage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
@@ -200,24 +200,24 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. System-Anbieterprüfung
 
 Bearbeitungsauftrag: Unterscheidet Anbieter/Betreiber-Rolle nach Artikel 3 Regulierungsrahmen; Prüfe Vertragspflichten nach Artikel 25 Regulierungsrahmen. Lädt, wenn der Nutzer "System-Vertrag prüfen", "Anbietervertrag algorithmische Systeme", "Regulierungsrahmen Artikel 25 Vertragspflichten" oder "System-AGB prüfen" sagt. Regulierungsrahmen Artikel 3 Nummer 3/4 Regulierungsrahmen: Definitionen Anbieter/Betreiber; maßgeblich für Pflichtenzuordnung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Unterscheidet Anbieter/Betreiber-Rolle nach Artikel 3 Regulierungsrahmen; Prüfe Vertragspflichten nach Artikel 25 Regulierungsrahmen.
+Normbezug aus dem Fachmaterial: Unterscheidet Anbieter/Betreiber-Rolle nach Artikel 3 Regulierungsrahmen; Prüfe Vertragspflichten nach Artikel 25 Regulierungsrahmen.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.2. Systemrichtlinien-Starter
-
-Bearbeitungsauftrag: Regulierungsrahmen Artikel 4 Regulierungsrahmen: System-Kompetenzverpflichtung — Anbieter und Betreiber müssen hinreichende System-Kompetenz ihres Personals sicherstellen; Richtlinie muss Schulungspflicht abbilden. Regulierungsrahmen Artikel 9 Regulierungsrahmen: Risikomanagementsystem für Hochrisiko-Systeme; interne Richtlinien müssen Risikoidentifikations- und Mitigationsverfahren beschreiben. Regulierungsrahmen Artikel 26/29 Regulierungsrahmen: Betreiberpflichten — menschliche Aufsicht, Protokollierung, Meldeobliegenheiten; müssen in der Richtlinie operationalisiert werden.
-Lieferstück: Fachvotum zu Systemrichtlinien-Starter mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.3. Regulierungsrahmen Pflichtenpyramide
+### 16.2. Regulierungsrahmen Pflichtenpyramide
 
 Bearbeitungsauftrag: Pflichtenpyramide Regulierungsrahmen einführend: verbotene algorithmische Systeme Artikel 5, Hochrisiko-Systeme Artikel 6 in Verbindung mit Anhang III, GPAI (General Purpose algorithmische Systeme) Artikel 51 und folgende , begrenztes Risiko mit Transparenzpflichten Artikel 50, minimales Risiko. Fristen: Gibt es Termine, Fristen, eilbedürftige Schritte? Format: Wie ausführlich, für wen, in welcher Tonalität?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Pflichtenpyramide Regulierungsrahmen einführend: verbotene algorithmische Systeme Artikel 5, Hochrisiko-Systeme Artikel 6 in Verbindung mit Anhang III, GPAI (General Purpose algorithmische Systeme) Artikel 51 und folgende , begrenztes Risiko mit Transparenzpflichten Artikel 50, minimales Risiko.
+Normbezug aus dem Fachmaterial: Pflichtenpyramide Regulierungsrahmen einführend: verbotene algorithmische Systeme Artikel 5, Hochrisiko-Systeme Artikel 6 in Verbindung mit Anhang III, GPAI (General Purpose algorithmische Systeme) Artikel 51 und folgende , begrenztes Risiko mit Transparenzpflichten Artikel 50, minimales Risiko.
 Lieferstück: Fachvotum zu Regulierungsrahmen Pflichtenpyramide mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. System-Regulierungs-Lückenanalyse
+### 16.3. System-Regulierungs-Lückenanalyse
 
 Bearbeitungsauftrag: Regulierungs-Name oder Regelungstext (Regulierungsrahmen Hochrisiko, Datenschutz-Grundverordnung Artikel 22, DSA, DMA, RL 2024/2853, BSIG, Sektoren). € oder 7 % weltweiter Jahresumsatz bei Artikel 5-Verstößen. DSA Artikel 27, 38 (VO (EU) 2022/2065): Transparenz für Empfehlungs- systeme sehr großer Plattformen.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+
+### 16.4. Systemrichtlinien-Monitor
+
+Bearbeitungsauftrag: Für Betreiber: Artikel 29 Absatz 1–4 Regulierungsrahmen (Überwachungs- und Meldepflichten). Datenschutz-Grundverordnung Artikel 5 Absatz 2 (Rechenschaftspflicht): Verantwortliche müssen Einhaltung der Grundsätze nachweisen; Richtlinie und gelebte Praxis müssen übereinstimmen. Artikel 13/14: Betroffene müssen über automatisierte Entscheidungen informiert werden; Richtlinie muss Offenlegungspflichten widerspiegeln.
+Lieferstück: Fachvotum zu Systemrichtlinien-Monitor mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.5. KIG: GPAI Anbieterpflichten
 
@@ -249,10 +249,10 @@ Lieferstück: Kontrollvermerk zu System-Governance Rollen-Modell mit Pflicht, Is
 Bearbeitungsauftrag: Bearbeite Use-Case-Risikoklassifizierung nach Regulierungsrahmen und Datenschutz-Grundverordnung: zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Lieferstück: Fachvotum zu Use-Case-Risikoklassifizierung nach Regulierungsrahmen und Datenschutz-Grundverordnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Systemrichtlinien-Monitor
+### 16.11. Systemrichtlinien-Starter
 
-Bearbeitungsauftrag: Für Betreiber: Artikel 29 Absatz 1–4 Regulierungsrahmen (Überwachungs- und Meldepflichten). Datenschutz-Grundverordnung Artikel 5 Absatz 2 (Rechenschaftspflicht): Verantwortliche müssen Einhaltung der Grundsätze nachweisen; Richtlinie und gelebte Praxis müssen übereinstimmen. Artikel 13/14: Betroffene müssen über automatisierte Entscheidungen informiert werden; Richtlinie muss Offenlegungspflichten widerspiegeln.
-Lieferstück: Fachvotum zu Systemrichtlinien-Monitor mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Regulierungsrahmen Artikel 4 Regulierungsrahmen: System-Kompetenzverpflichtung — Anbieter und Betreiber müssen hinreichende System-Kompetenz ihres Personals sicherstellen; Richtlinie muss Schulungspflicht abbilden. Regulierungsrahmen Artikel 9 Regulierungsrahmen: Risikomanagementsystem für Hochrisiko-Systeme; interne Richtlinien müssen Risikoidentifikations- und Mitigationsverfahren beschreiben.
+Lieferstück: Fachvotum zu Systemrichtlinien-Starter mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.12. Hochrisiko-Systeme Anhang III
 

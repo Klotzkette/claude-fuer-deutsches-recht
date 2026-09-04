@@ -3,7 +3,7 @@ name: beitraege-luecken-und-nachzahlung
 description: "Für beitraege-luecken-und-nachzahlung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# beitraege-luecken-und-nachzahlung
+# Beiträge, Versicherungslücken und Nachzahlung
 
 ## Normenanker
 

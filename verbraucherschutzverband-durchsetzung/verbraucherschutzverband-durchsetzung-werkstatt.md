@@ -96,12 +96,7 @@ Arbeitsgriff Arbeitsprodukt: Widerrufserklärung, Anspruchsschreiben, Abmahnung,
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| EuGH, Urteil vom 7. April 2022, C-249/21 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Die Eindeutigkeit der Zahlungsverpflichtung folgt aus der Beschriftung der auslösenden Schaltfläche |
-| EuGH, Urteil vom 5. Oktober 2023, C-565/22 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei Probeabo und automatischer Verlängerung Preisaufklärung und Zeitpunkt des Widerrufsrechts präzise vortragen |
-| BGH, Urteil vom 4. Mai 2022, XII ZR 64/21 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Nur bei Fitnessstudio-Schließungsgruppen für Unmöglichkeit, Rückzahlung und unzulässige Laufzeitverlängerung verwenden |
-| EuGH, Urteil vom 21. März 2023, C-100/21, und BGH, Urteile vom 26. Juni 2023, VIa ZR 335/21, VIa ZR 533/21 und VIa ZR 1031/22 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei Diesel-Fallgruppen unionsrechtlichen Schutzbereich und Differenzschaden anspruchsbezogen prüfen |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -124,10 +119,7 @@ Arbeitsgriff Arbeitsprodukt: Widerrufserklärung, Anspruchsschreiben, Abmahnung,
 
 ## 8. Leitentscheidungen
 
-- EuGH, Urteil vom 7. April 2022, C-249/21: Die Eindeutigkeit der Zahlungsverpflichtung folgt aus der Beschriftung der auslösenden Schaltfläche.
-- EuGH, Urteil vom 5. Oktober 2023, C-565/22: Bei Probeabo und automatischer Verlängerung Preisaufklärung und Zeitpunkt des Widerrufsrechts präzise vortragen.
-- BGH, Urteil vom 4. Mai 2022, XII ZR 64/21: Nur bei Fitnessstudio-Schließungsgruppen für Unmöglichkeit, Rückzahlung und unzulässige Laufzeitverlängerung verwenden.
-- EuGH, Urteil vom 21. März 2023, C-100/21, und BGH, Urteile vom 26. Juni 2023, VIa ZR 335/21, VIa ZR 533/21 und VIa ZR 1031/22: Bei Diesel-Fallgruppen unionsrechtlichen Schutzbereich und Differenzschaden anspruchsbezogen prüfen.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -149,7 +141,7 @@ Arbeitsgriff Arbeitsprodukt: Widerrufserklärung, Anspruchsschreiben, Abmahnung,
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Klausel weicht vom gesetzlichen Leitbild ab und hält sie der Inhaltskontrolle stand an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Klauselprüfung: Klauseltext, Einbeziehung, Transparenz, Leitbildabweichung, Ergebnis, Ersatzformulierung; Anspruchsschreiben: Sachverhalt, Anspruch, Frist, Zahlungs- oder Abhilfeverlangen, Konsequenzankündigung.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 7. April 2022, C-249/21; EuGH, Urteil vom 5. Oktober 2023, C-565/22.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -213,13 +205,13 @@ Lieferstück: Fachvotum zu Anspruchsgruppen bei Plattform-Sperren bilden mit Tat
 
 Bearbeitungsauftrag: Fahrlässigkeit kann den Differenzschaden tragen, ersetzt aber nicht die besonderen Voraussetzungen von BGB Paragraf 826. Typgenehmigung, KBA-Bescheid, Rückruf, Update und Zeitpunkt öffentlicher Information. Kilometer bei Kauf, Klage und gegebenenfalls Verkauf; Verkaufspreis und Restwert.
 Prüfschritte: Lies Kaufvertrag, Zulassungsbescheinigung, Fahrzeugdaten, KBA-Unterlagen, Softwarestand, Rückruf- oder Updatekorrespondenz und Verkaufsbeleg; Frage nur nach einem fehlenden Merkmal, das Anspruchsgrund oder Schadenshöhe verändert; Vermische die Voraussetzungen nicht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe Diesel-Differenzschäden als individualisierbaren Serienfall nach EuGH und BGH: trennt großen Schadensersatz von BGB Paragraf 823 Absatz 2, ordnet Abschalteinrichtung, Typgenehmigung, Verschulden, Erwerbszeitpunkt und Verhaltensänderung zu, berechnet.
+Normbezug aus dem Fachmaterial: Prüfe Diesel-Differenzschäden als individualisierbaren Serienfall nach EuGH und BGH: trennt großen Schadensersatz von BGB Paragraf 823 Absatz 2, ordnet Abschalteinrichtung, Typgenehmigung, Verschulden, Erwerbszeitpunkt und Verhaltensänderung zu, berechnet.
 Lieferstück: Fachvotum zu Diesel-Differenzschaden im Serienfall mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Kommunikation bei Abo-Verfahren steuern
 
 Bearbeitungsauftrag: Mache deutlich, ob der Verband nur Informationen sammelt, außergerichtlich handelt oder bereits ein gerichtliches Verfahren führt. Gleiche Zahlen, Anbieterbezeichnung, Vertragsfassung, Buttonwortlaut und Verfahrensstand mit der Fallgruppenmatrix ab. Rechtlich streitige Wertungen werden als solche bezeichnet.
-Prüfschritte: Nenne Entscheidung, Datum, Aktenzeichen und den tatsächlich einschlägigen Arbeitssatz; Stelle weder eine Vorlageentscheidung noch einen Einzelfall als automatischen Erfolg jeder Verbrauchergruppe dar; Fordere nur die Belege an, die das Cluster entscheiden: Bestätigung, Bestellstrecke, Vertragsfassung, Kündigungsversuch, Abbuchung und Erstattung; Erkläre Frist und nächsten Schritt in klaren Sätzen.
+Prüfschritte: C-249/21 erklärt die Buttonbeschriftung; C-565/22 erklärt das Widerrufsrecht bei Probeabo und Verlängerung; Nenne Entscheidung, Datum, Aktenzeichen und den tatsächlich einschlägigen Arbeitssatz; Stelle weder eine Vorlageentscheidung noch einen Einzelfall als automatischen Erfolg jeder Verbrauchergruppe dar; Fordere nur die Belege an, die das Cluster entscheiden: Bestätigung, Bestellstrecke, Vertragsfassung, Kündigungsversuch, Abbuchung und Erstattung.
 Lieferstück: Fachvotum zu Kommunikation bei Abo-Verfahren steuern mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.5. Abhilfeklage oder Musterfeststellung W

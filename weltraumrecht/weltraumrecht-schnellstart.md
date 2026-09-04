@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Mission und Rollen, G
 | --- | --- |
 | Normenanker | Weltraumvertrag Artikel I und Artikel II; Weltraumvertrag Artikel VI; Weltraumvertrag Artikel VII und Artikel VIII |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden |
+| Tatbestand | Betreiber, Eigentümer, Hersteller, Startdienstleister, Startstaat, Registerstaat, Nutzlast, Orbit und Bodenstation erfassen |
 | Beweislast | Anspruchsteller oder Staat für Gegenstand, Ereignis, Schaden und Kausalität; Betreiber und Startstaaten für Genehmigung, Aufsicht, Registrierung und Entlastung |
 | Rechtsfolge | Missionsrechtsmatrix, Genehmigungsfahrplan, Registermeldung, Haftungsmemo, Startvertragsklausel oder Frequenzvermerk |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,10 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Mission und Rollen, G
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Mission und Rollen | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Genehmigung und Aufsicht | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Registrierung und Kontrolle | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Mission und Rollen | Betreiber, Eigentümer, Hersteller, Startdienstleister, Startstaat, Registerstaat, Nutzlast, Orbit und Bodenstation erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Genehmigung und Aufsicht | Nationale Zuständigkeit, private Tätigkeit, Sicherheitsprüfung, Erdfernerkundung, Frequenz und Exportkontrolle trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Registrierung und Kontrolle | Weltraumgegenstand, Startdaten, Registereintrag, Hoheitsgewalt, Eigentumswechsel und Rückgabeanspruch dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Haftung und Störung | Schadensort, Startstaaten, Gefährdungs- oder Verschuldensmaßstab, Kausalität, Weltraummüll, Kollisionswarnung und Konsultation prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Missionsrechtsmatrix, Genehmigungsfahrplan, Registermeldung, Haftungsmemo, Startvertrag, Frequenzvermerk oder Behördenanfrage erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

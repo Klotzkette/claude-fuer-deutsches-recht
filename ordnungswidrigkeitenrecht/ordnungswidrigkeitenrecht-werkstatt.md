@@ -84,7 +84,7 @@ Arbeitsgriff Arbeitsprodukt: Akteneinsicht, Einlassungsvermerk, Einspruch, Entbi
 | --- | --- | --- | --- |
 | Fallkern | Außenwirtschaftliche Rechtsbeschwerde im Bußgeldverfahren | OWiG Paragraf 1, Paragraf 10 und Paragraf 12 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | OWiG Paragraf 17 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Beschlussverfahren 72 OWiG | OWiG Paragraf 17 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Akteneinsicht Beantragen | OWiG Paragraf 17 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Akteneinsicht, Einlassungsvermerk, Einspruch, Entbindungsantrag, Beweisantrag, Einstellungsanregung oder Rechtsbeschwerdebaustein erstellen | Nachweisachse Beweiszugang: Akte, Messreihe, Rohdaten, Bedienungsanleitung, Schulung, Urkunde, Zeuge, Einlassung und entlastende Fremddaten gezielt anfordern | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -178,15 +178,15 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Außenwirtschaftliche Rechtsbeschwerde im Bußgeldverfahren | Bearbeite Außenwirtschaftliche Rechtsbeschwerde im Bußgeldverfahren entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Tatkarte: Spezialnorm, Tattag, Tatort, Handlung. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Beschlussverfahren 72 OWiG | Bearbeite Beschlussverfahren 72 OWiG entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Tatkarte: Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
-| Amtsgericht Hauptverhandlung | Bearbeite Amtsgericht Hauptverhandlung entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Tatkarte: Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener. | Verhandlungsblatt zu Amtsgericht Hauptverhandlung mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug |
-| Baurecht Beweis Rügen | Bearbeite Baurecht Beweis Rügen entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Tatkarte: Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener, Vertreter. | Beweismatrix zu Baurecht Beweis Rügen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
-| Datenschutzbußgeld Einspruch Begründ | Bearbeite Datenschutzbußgeld Einspruch Begründ: rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Einspruch Fristgerecht Einlegen | Bearbeite Einspruch Fristgerecht Einlegen entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Verfahrenschronologie: Kenntnis, Anhörung, Ermittlungsmaßnahme, Unterbrechung. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Gewerberecht Einspruch Begründen | Bearbeite Gewerberecht Einspruch Begründen entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Verfahrenschronologie: Kenntnis, Anhörung, Ermittlungsmaßnahme, Unterbrechung. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Kostenentscheidung Angreifen | Bearbeite Kostenentscheidung Angreifen entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Tatkarte: Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener. | Fachvotum zu Kostenentscheidung Angreifen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Lebensmittelrecht Frist prüfen | Bearbeite Lebensmittelrecht Frist prüfen entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Vorwerfbarkeit: objektives Merkmal, Wissensstand, Vorsatz, Fahrlässigkeit. | Fristenblatt zu Lebensmittelrecht Frist prüfen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| Außenwirtschaftliche Rechtsbeschwerde im Bußgeldverfahren | Bearbeite Außenwirtschaftliche Rechtsbeschwerde im Bußgeldverfahren als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Akteneinsicht Beantragen | Bearbeite Akteneinsicht Beantragen als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Baurecht Akteneinsicht Schreiben | Bearbeite Baurecht Akteneinsicht Schreiben als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
+| Datenschutzbußgeld Beweis Rügen | Bearbeite Datenschutzbußgeld Beweis Rügen als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. | Beweismatrix zu Datenschutzbußgeld Beweis Rügen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
+| Einspruch Fristgerecht Einlegen | Bearbeite Einspruch Fristgerecht Einlegen als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Gewerberecht Einspruch Begründen | Bearbeite Gewerberecht Einspruch Begründen als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Kostenentscheidung Angreifen | Bearbeite Kostenentscheidung Angreifen als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. | Fachvotum zu Kostenentscheidung Angreifen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Lebensmittelrecht Frist prüfen | Bearbeite Lebensmittelrecht Frist prüfen als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. | Fristenblatt zu Lebensmittelrecht Frist prüfen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| Strassenverkehr Frist prüfen | Bearbeite Strassenverkehr Frist prüfen als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. | Fristenblatt zu Strassenverkehr Frist prüfen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -194,61 +194,61 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 ### 16.1. Außenwirtschaftliche Rechtsbeschwerde im Bußgeldverfahren
 
-Bearbeitungsauftrag: Bearbeite Außenwirtschaftliche Rechtsbeschwerde im Bußgeldverfahren entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Tatkarte: Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
+Bearbeitungsauftrag: Bearbeite Außenwirtschaftliche Rechtsbeschwerde im Bußgeldverfahren als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
 Prüfschritte: Lies Bußgeldbescheid, Einspruch, Sitzungsprotokoll, Urteil, Zustellungsnachweis, Genehmigungs- und Ausfuhrunterlagen zuerst; Liefere unmittelbar ein Rechtsmittelblatt mit Statthaftigkeit, Einlegungsfrist, Begründungsfrist, Beschwerdeziel, tragender Sach- oder Verfahrensrüge und fehlendem Aktenbeleg; Paragraf 79 OWiG: Statthaftigkeit und Verweisung auf das Rechtsbeschwerderecht der Strafprozessordnung prüfen; Paragraf 80 OWiG: Ist die Rechtsbeschwerde nicht schon kraft Gesetzes statthaft, Zulassungsvoraussetzungen und Darlegung gesondert bearbeiten; Einlegung und Begründung strikt trennen.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.2. Beschlussverfahren 72 OWiG
+### 16.2. Akteneinsicht Beantragen
 
-Bearbeitungsauftrag: Bearbeite Beschlussverfahren 72 OWiG entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Tatkarte: Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener, Vertreter, Unternehmen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
-Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
-
-### 16.3. Amtsgericht Hauptverhandlung
-
-Bearbeitungsauftrag: Bearbeite Amtsgericht Hauptverhandlung entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Tatkarte: Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener, Vertreter, Unternehmen. Fixiere gesicherten Streitstand, Interessen, Mindestziel und objektive Kriterien, rechne Kosten- und Vollstreckungsrisiko und formuliere Vergleichskorridor, Rückfallposition, Regelungspunkte, Vollmacht und belastbaren Vollzug.
-Lieferstück: Verhandlungsblatt zu Amtsgericht Hauptverhandlung mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
-
-### 16.4. Baurecht Beweis Rügen
-
-Bearbeitungsauftrag: Bearbeite Baurecht Beweis Rügen entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Tatkarte: Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener, Vertreter, Unternehmen und Nebenbeteiligte. Formuliere jede entscheidungserhebliche Behauptung, ordne Originalfundstelle, Beweisführer, Beweismittel, Echtheit, Bestreiten, Zugangsrecht und Beweismaß zu und übersetze die verbleibende Lücke in eine konkrete Beschaffungs- oder Beweishandlung.
-Lieferstück: Beweismatrix zu Baurecht Beweis Rügen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
-
-### 16.5. Datenschutzbußgeld Einspruch Begründ
-
-Bearbeitungsauftrag: Bearbeite Datenschutzbußgeld Einspruch Begründ: rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
+Bearbeitungsauftrag: Bearbeite Akteneinsicht Beantragen als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. Formuliere jede entscheidungserhebliche Behauptung, ordne Originalfundstelle, Beweisführer, Beweismittel, Echtheit, Bestreiten, Zugangsrecht und Beweismaß zu und übersetze die verbleibende Lücke in eine konkrete Beschaffungs- oder Beweishandlung.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.6. Einspruch Fristgerecht Einlegen
+### 16.3. Baurecht Akteneinsicht Schreiben
 
-Bearbeitungsauftrag: Bearbeite Einspruch Fristgerecht Einlegen entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Verfahrenschronologie: Kenntnis, Anhörung, Ermittlungsmaßnahme, Unterbrechung, Bescheiderlass, Zustellung. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
+Bearbeitungsauftrag: Bearbeite Baurecht Akteneinsicht Schreiben als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. Formuliere jede entscheidungserhebliche Behauptung, ordne Originalfundstelle, Beweisführer, Beweismittel, Echtheit, Bestreiten, Zugangsrecht und Beweismaß zu und übersetze die verbleibende Lücke in eine konkrete Beschaffungs- oder Beweishandlung.
+Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
+
+### 16.4. Datenschutzbußgeld Beweis Rügen
+
+Bearbeitungsauftrag: Bearbeite Datenschutzbußgeld Beweis Rügen als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. Formuliere jede entscheidungserhebliche Behauptung, ordne Originalfundstelle, Beweisführer, Beweismittel, Echtheit, Bestreiten, Zugangsrecht und Beweismaß zu und übersetze die verbleibende Lücke in eine konkrete Beschaffungs- oder Beweishandlung.
+Lieferstück: Beweismatrix zu Datenschutzbußgeld Beweis Rügen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
+
+### 16.5. Einspruch Fristgerecht Einlegen
+
+Bearbeitungsauftrag: Bearbeite Einspruch Fristgerecht Einlegen als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht. Fachstation: Verfahrenschronologie: Kenntnis, Anhörung, Ermittlungsmaßnahme, Unterbrechung, Bescheiderlass, Zustellung, Einspruch und gerichtliche Vorlage erfassen.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.7. Gewerberecht Einspruch Begründen
+### 16.6. Gewerberecht Einspruch Begründen
 
-Bearbeitungsauftrag: Bearbeite Gewerberecht Einspruch Begründen entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Verfahrenschronologie: Kenntnis, Anhörung, Ermittlungsmaßnahme, Unterbrechung, Bescheiderlass, Zustellung. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
+Bearbeitungsauftrag: Bearbeite Gewerberecht Einspruch Begründen als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.8. Kostenentscheidung Angreifen
+### 16.7. Kostenentscheidung Angreifen
 
-Bearbeitungsauftrag: Bearbeite Kostenentscheidung Angreifen entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Tatkarte: Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener, Vertreter, Unternehmen. Rechne ausschließlich aus belegten Eingabewerten mit Stichtag, Einheit, Zwischenstufen, Rundung und Gegenprobe; führe zu jeder Zahl Quelle, Rechtsgrund, Beweislast, offene Annahme und Auswirkung einer belastbaren Alternativrechnung.
+Bearbeitungsauftrag: Bearbeite Kostenentscheidung Angreifen als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. Rechne ausschließlich aus belegten Eingabewerten mit Stichtag, Einheit, Zwischenstufen, Rundung und Gegenprobe; führe zu jeder Zahl Quelle, Rechtsgrund, Beweislast, offene Annahme und Auswirkung einer belastbaren Alternativrechnung.
 Lieferstück: Fachvotum zu Kostenentscheidung Angreifen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Lebensmittelrecht Frist prüfen
+### 16.8. Lebensmittelrecht Frist prüfen
 
-Bearbeitungsauftrag: Bearbeite Lebensmittelrecht Frist prüfen entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Vorwerfbarkeit: objektives Merkmal, Wissensstand, Vorsatz, Fahrlässigkeit, Verbotsirrtum, Zumutbarkeit. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
+Bearbeitungsauftrag: Bearbeite Lebensmittelrecht Frist prüfen als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
 Lieferstück: Fristenblatt zu Lebensmittelrecht Frist prüfen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.10. Strassenverkehr Frist prüfen
+### 16.9. Strassenverkehr Frist prüfen
 
-Bearbeitungsauftrag: Bearbeite Strassenverkehr Frist prüfen entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Vorwerfbarkeit: objektives Merkmal, Wissensstand, Vorsatz, Fahrlässigkeit, Verbotsirrtum, Zumutbarkeit. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
+Bearbeitungsauftrag: Bearbeite Strassenverkehr Frist prüfen als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
 Lieferstück: Fristenblatt zu Strassenverkehr Frist prüfen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.11. Aufsichtspflichtverletzung 130 OWiG
+### 16.10. Aufsichtspflichtverletzung 130 OWiG
 
-Bearbeitungsauftrag: Bearbeite Aufsichtspflichtverletzung 130 OWiG entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Tatkarte: Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener, Vertreter, Unternehmen.
+Bearbeitungsauftrag: Bearbeite Aufsichtspflichtverletzung 130 OWiG als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung.
 Lieferstück: Kontrollvermerk zu Aufsichtspflichtverletzung 130 OWiG mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
 
-### 16.12. Abgabe An Staatsanwaltschaft
+### 16.11. Abgabe An Staatsanwaltschaft
 
-Bearbeitungsauftrag: Bearbeite Abgabe An Staatsanwaltschaft entlang der Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung-Prüflinie: Tatkarte: Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener, Vertreter, Unternehmen.
+Bearbeitungsauftrag: Bearbeite Abgabe An Staatsanwaltschaft als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung.
 Lieferstück: Fachvotum zu Abgabe An Staatsanwaltschaft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Anhörung Richtig Behandeln
+
+Bearbeitungsauftrag: Bearbeite Anhörung Richtig Behandeln als konkreten Vorgang im Gebiet Ordnungswidrigkeitenrecht, Bußgeldverteidigung und Behördenentscheidung.
+Lieferstück: Fachvotum zu Anhörung Richtig Behandeln mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

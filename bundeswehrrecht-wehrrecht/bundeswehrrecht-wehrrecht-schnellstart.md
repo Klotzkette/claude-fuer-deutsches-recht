@@ -44,11 +44,10 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Person und Status, Re
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Person und Status | Dienstgrad, Wehrdienstverhältnis, Einheit, Verwendung, Vorgesetzter, Befehl, Maßnahme und Zugang feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsweg und Frist | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsweg und Frist | WBO, WDO, allgemeine Verwaltung, Zivilgericht oder Sozialgericht nach Streitgegenstand zuordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Dienstliche Tatsachen | Befehl, Meldung, Beurteilung, Auswahl, Einsatz, Gesundheitsakte, Zeugen und Dokumentationskette sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtmäßigkeit und Schutz | Zuständigkeit, Gehorsamspflicht, Unverbindlichkeit, Fürsorge, Gleichbehandlung, Verhältnismäßigkeit und Eilbedarf. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Beschwerde, Antrag an das Truppendienstgericht, Einlassung, Beurteilungseinwand, Versorgungsantrag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschwerde gegen Beurteilung und Laufbahnentscheidung | Bearbeite Beschwerde gegen Beurteilung und Laufbahnentscheidung: Befehl, Meldung, Beurteilung, Auswahl, Einsatz. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtmäßigkeit und Schutz | Zuständigkeit, Gehorsamspflicht, Unverbindlichkeit, Fürsorge, Gleichbehandlung, Verhältnismäßigkeit und Eilbedarf prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Beschwerde, Antrag an das Truppendienstgericht, Einlassung, Beurteilungseinwand, Versorgungsantrag oder Behördenbrief erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

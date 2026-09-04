@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Struktur und Beteilig
 | --- | --- |
 | Normenanker | BGB Paragraf 433 und Paragraf 453; GmbHG Paragraf 15; BGB Paragraf 311 Absatz 2 und Paragraf 280 |
 | Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 21.04.1997 - II ZR 175/95 |
-| Tatbestand | Transaktionsstruktur, Datenraumfund, Wertwirkung, Vertragsabbildung, Gremienfreigabe, Closing-Bedingung, Owner und Termin zu einer belastbaren Deal-Entscheidung verbinden |
+| Tatbestand | Share oder Asset Deal, Erwerbsvehikel, Kapitalstruktur und Gremienvorbehalte feststellen |
 | Beweislast | Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen; der Bearbeiter führt DD-Fund, Q&A, Disclosure, Freigabe, Zahlung und Registervollzug lückenlos auf den Vertragsmechanismus zurück |
 | Rechtsfolge | Term Sheet, Bid Grid, Due-Diligence-Bericht, SPA- oder Beteiligungsklausel, Gremienvorlage, Signing- und Closing-Set oder Post-Closing-Plan |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,10 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Struktur und Beteilig
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Struktur und Beteiligte | Transaktionsstruktur, Datenraumfund, Wertwirkung, Vertragsabbildung, Gremienfreigabe, Closing-Bedingung, Owner und Termin zu einer belastbaren Deal-Entscheidung verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Due Diligence | Transaktionsstruktur, Datenraumfund, Wertwirkung, Vertragsabbildung, Gremienfreigabe, Closing-Bedingung, Owner und Termin zu einer belastbaren Deal-Entscheidung verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertragsarchitektur | Transaktionsstruktur, Datenraumfund, Wertwirkung, Vertragsabbildung, Gremienfreigabe, Closing-Bedingung, Owner und Termin zu einer belastbaren Deal-Entscheidung verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Struktur und Beteiligte | Share oder Asset Deal, Erwerbsvehikel, Kapitalstruktur und Gremienvorbehalte feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Due Diligence | Befunde nach Deal-Breaker, Garantiethema, Freistellungsthema und Kaufpreisfaktor ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragsarchitektur | Kaufgegenstand, Kaufpreisformel, Garantien, Freistellungen, Covenants und Haftungsgrenzen anlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vollzug | Bedingungen, Freigaben, Finanzierungssicherheit und Closing-Mechanik mit Zeitplan sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Term Sheet, SPA-Klauseln, DD-Report-Kapitel, Gremienvorlage oder Wandeldarlehensvertrag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

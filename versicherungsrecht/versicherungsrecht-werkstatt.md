@@ -207,7 +207,7 @@ Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gege
 ### 16.2. PKV: Beitragsanpassung und Treuhänder
 
 Bearbeitungsauftrag: Tarifwechsel nach Paragraf 204 VVG vergessen. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis. Paragraf 19 VVG — vorvertragliche Anzeigepflicht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Nur Presseartikel statt Vertragsunterlagen; Treuhänderfrage isoliert überschätzt; Verjährung nicht gerechnet; Tarifwechsel nach Paragraf 204 VVG vergessen; pkv-kostenerstattung-medizinische-notwendigkeit; vag-bafin-aufsicht-beschwerde-missstand; Zuständige Stelle.
+Normbezug aus dem Fachmaterial: Nur Presseartikel statt Vertragsunterlagen; Treuhänderfrage isoliert überschätzt; Verjährung nicht gerechnet; Tarifwechsel nach Paragraf 204 VVG vergessen; pkv-kostenerstattung-medizinische-notwendigkeit; vag-bafin-aufsicht-beschwerde-missstand; Zuständige Stelle.
 Lieferstück: Fachvotum zu PKV: Beitragsanpassung und Treuhänder mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. Arglistanfechtung des Versicherers

@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Geschäftsmodell, Ver
 | --- | --- |
 | Normenanker | GewO Paragraf 14 und Paragraf 35; GewO und gewerbespezifische Erlaubnistatbestände; HwO |
 | Rechtsprechung | BVerwG, Beschluss vom 15.09.2023 - 8 B 6.23 |
-| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Tatbestand | Rechtsträger, Inhaber, Leitung, Standort, konkrete Tätigkeiten, Kundengruppe, Plattform und grenzüberschreitenden Bezug erfassen |
 | Beweislast | Nachweisachse Zuverlässigkeit und Eignung: Tatsachen, Zeitraum, Verantwortungsbereich, Abgaben, Straftaten, Abhilfe, Personal und Zukunftsprognose belegen |
 | Rechtsfolge | Erlaubnisantrag, Nachweisplan, Anhörungsantwort, Abhilfekonzept, Widerspruch, Eilantrag oder Behördenvergleich erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,12 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Geschäftsmodell, Ver
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Geschäftsmodell | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verwaltungszugang | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zuverlässigkeit und Eignung | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahrensrechte | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Unions- und Förderdimension | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Geschäftsmodell | Rechtsträger, Inhaber, Leitung, Standort, konkrete Tätigkeiten, Kundengruppe, Plattform und grenzüberschreitenden Bezug erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verwaltungszugang | Anzeige, Erlaubnis, Eintragung, Genehmigungsfiktion, Anerkennung oder laufende Aufsicht mit zuständiger Stelle bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zuverlässigkeit und Eignung | Tatsachen, Zeitraum, Verantwortungsbereich, Abgaben, Straftaten, Abhilfe, Personal und Zukunftsprognose belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verfahrensrechte | Akteneinsicht, Anhörung, Geheimnisschutz, Nebenbestimmung, Sofortvollzug, Zwangsgeld und Fristverlängerung sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Unions- und Förderdimension | Marktzugang, Gleichbehandlung, Dienstleistungsfreiheit, Beihilfe und Rückforderung nur bei konkretem Bezug prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Erlaubnisantrag, Nachweisplan, Anhörungsantwort, Abhilfekonzept, Widerspruch, Eilantrag oder Behördenvergleich erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

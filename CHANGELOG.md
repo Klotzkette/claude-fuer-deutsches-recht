@@ -1,3 +1,18 @@
+# v442.0.0 - Fachkorrekturen und quellengebundene Prompt-Auswahl
+
+- Gezielte Fachkorrekturen in Arbeits-, Zivil-, Gesellschafts-, Insolvenz-, Steuer-, Straf-, Verwaltungs- und Unionsrecht: unpassende Normen und Entscheidungen entfernt oder ihrem tatsächlichen Anwendungsfall zugeordnet; Tatbestand, Beweisfrage, Frist und Rechtsfolge deutlicher getrennt.
+- Kündigungsform und Vertretung unterscheiden jetzt Originalurkunde, Vollmachtsnachweis, tatsächliche Vertretungsmacht und Klagefrist. BAG 2 AZR 130/25 vom 7. Mai 2026 ist mit seinem begrenzten Aussagegehalt eingeordnet; die Formfiktion nach Paragraf 46h ArbGG und die aktuelle Textform-Sonderregel für Regelaltersgrenzenvereinbarungen sind berücksichtigt.
+- Steuerliche Arbeitswege für Anteilstausch, Sanierungsgewinn, Abschreibung, Forschungszulage und grenzüberschreitenden Onlinehandel wurden anhand amtlicher Normen, Verwaltungsanweisungen und einschlägiger Entscheidungen nachgeschärft. Der unpassende Vorsteueranker V R 20/11 wurde aus den betroffenen Argumentationskernen und der Prompt-Quelle entfernt.
+- Unternehmens- und Insolvenzmodule trennen Beschlusskompetenz, Registervollzug, Wissenszurechnung bei W&I-Versicherungen, Antragspflicht, Forderungsanmeldung, Vorsatzanfechtung und Sanierungsgewinn. Höchstfristen sind keine voraussetzungslosen Wartefristen; streitige Forderungen werden nicht nach Prozesswahrscheinlichkeit gewichtet.
+- Strafrechtliche Bausteine enthalten keine festen Geständnisrabatte oder pauschalen Schadensquoten für eine Einstellung mehr. Ermittlungs- und Abschlussverfügungen verwenden die jeweils tragenden Befugnis-, Schutz- und Verfahrensnormen statt dekorativer Fallzitate.
+- Internationale Datentransfers, Triage, Text- und Data-Mining, Plattformbeschwerden und unionsgerichtliche Verfahren berücksichtigen den geprüften Verfahrensstand und unterscheiden Urteil, Pressemitteilung, anhängiges Rechtsmittel und historische Gesetzesfassung.
+- Die Prompt-Auswahl erfasst die Titel und Beschreibungen sämtlicher Skills eines Plugins, liest vertiefte Ausgangstexte aber weiterhin nur begrenzt. Fachprofile werden nicht mehr durch mehrdeutige Einzelwörter wie Kündigung, Wohnung oder Rente verdrängt. Geprüfte Themenfelder und vollständige Formulierungen bleiben erhalten.
+- Rechtsprechung gelangt nur noch aus ausdrücklich gepflegten Themenprofilen und Plugin-Zuordnungen in automatisch erzeugte Prompt-Anker. Ein bloßes Vorkommen in einem Skilltext genügt nicht. Regressionstests sichern Fachgebietsgrenzen, vollständige Auszüge, Quellenwahl und die Sichtbarkeit später einsortierter Skills.
+- Marketplace-Importprüfung und zusätzliche Prompt-Regressionsprüfungen sind Bestandteil des Release-Ablaufs. Plugin-Versionen, Prompt-Downloads und Navigationsverzeichnisse wurden synchronisiert; der Testaktenbestand bleibt unverändert.
+- Prüfungsumfang: technische Bestandsprüfungen gelten repo-weit. Die juristische Einzelprüfung betrifft die konkret geänderten Fachbausteine und zugehörigen Quellen; dieser Release behauptet keine vollständige juristische Neuprüfung aller 22729 Skills.
+
+---
+
 # v441.0.0 - Auswahlkontext und Fachrouter weiter beschleunigt
 
 - Der installierbare Bestand wurde von 23821 auf 22729 direkte Skills verdichtet. 1092 überlappende Auswahlrouten entfallen; sämtliche fachlichen Vertiefungen bleiben in bedarfsgeladenen Referenzen erhalten.

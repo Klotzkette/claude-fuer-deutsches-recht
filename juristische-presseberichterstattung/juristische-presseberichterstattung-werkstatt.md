@@ -183,8 +183,8 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Anonymisierung und Identifizierbarkeit | Region, Beruf, Alter und Familienrolle auf Identifizierbarkeit prüfen. Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. | geprüftes Übergabepaket zu Anonymisierung und Identifizierbarkeit mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | Diskrete Berichterstattung Familienrecht und Erbrecht | Gerichtsöffentlichkeit nicht mit Veröffentlichungsfreiheit verwechseln. Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. | geprüftes Übergabepaket zu Diskrete Berichterstattung Familienrecht und Erbrecht mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe. |
 | Gerichtstermin Sitzungsbericht | Nächsten Termin, Beweisaufnahme und Einordnung trennen. Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. | Fristenblatt zu Gerichtstermin Sitzungsbericht mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
-| Entscheidungsmeldung | Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und belastbare Fundstelle in eine veröffentlichungsfähige Meldung überführen | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
-| Verdachtsberichterstattung | Beweistatsachen, Stellungnahmeanfrage, Statussprache, öffentliches Interesse und Identifizierbarkeit vor Veröffentlichung abgleichen | geprüftes Übergabepaket zu Verdachtsberichterstattung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
+| Faktencheck Quellenmatrix | Bearbeite Faktencheck Quellenmatrix: aussagetyp, Beweistatsachen, Stellungnahme, Identifizierbarkeit, Bildrecht, Verfahrensstatus und veröffentlichungsfähige Fassung abgleichen. | quellenkritische Darstellung mit Textzeuge, Fassung, Übersetzung, zeitgenössischer Funktion und heutiger Anschlussfrage |
+| FAQ und Explainer Rechtsfrage | Bearbeite FAQ und Explainer Rechtsfrage: aussagetyp, Beweistatsachen, Stellungnahme, Identifizierbarkeit, Bildrecht, Verfahrensstatus und veröffentlichungsfähige Fassung abgleichen. | geprüftes Übergabepaket zu FAQ und Explainer Rechtsfrage mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -225,27 +225,27 @@ Lieferstück: geprüftes Übergabepaket zu Diskrete Berichterstattung Familienre
 Bearbeitungsauftrag: Nächsten Termin, Beweisaufnahme und Einordnung trennen. Wenn Quelle, Stellungnahme oder Status nicht tragen, liefere eine vorsichtige Fassung und eine präzise Nachforderung. Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt.
 Lieferstück: Fristenblatt zu Gerichtstermin Sitzungsbericht mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.8. Entscheidungsmeldung
+### 16.8. Faktencheck Quellenmatrix
 
-Bearbeitungsauftrag: Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und belastbare Fundstelle in eine veröffentlichungsfähige Meldung überführen.
-Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
+Bearbeitungsauftrag: Bearbeite Faktencheck Quellenmatrix: aussagetyp, Beweistatsachen, Stellungnahme, Identifizierbarkeit, Bildrecht, Verfahrensstatus und veröffentlichungsfähige Fassung abgleichen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Quellenmatrix: jede Tatsachenbehauptung, ihren Aktenfund, Quellenstatus, Gegenquelle und offene Lücke zeilenweise sichern.
+Lieferstück: quellenkritische Darstellung mit Textzeuge, Fassung, Übersetzung, zeitgenössischer Funktion und heutiger Anschlussfrage.
 
-### 16.9. Verdachtsberichterstattung
+### 16.9. FAQ und Explainer Rechtsfrage
 
-Bearbeitungsauftrag: Beweistatsachen, Stellungnahmeanfrage, Statussprache, öffentliches Interesse und Identifizierbarkeit vor Veröffentlichung abgleichen.
-Lieferstück: geprüftes Übergabepaket zu Verdachtsberichterstattung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+Bearbeitungsauftrag: Bearbeite FAQ und Explainer Rechtsfrage: aussagetyp, Beweistatsachen, Stellungnahme, Identifizierbarkeit, Bildrecht, Verfahrensstatus und veröffentlichungsfähige Fassung abgleichen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: geprüftes Übergabepaket zu FAQ und Explainer Rechtsfrage mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.10. Gerichts- und Sitzungsbericht
+### 16.10. Headline und Vorspann
 
-Bearbeitungsauftrag: Anträge, Beweisaufnahme, Zitate, vorläufige Einschätzungen und nächsten Termin ohne Schuldvorwegnahme einordnen.
-Lieferstück: geprüftes Übergabepaket zu Gerichts- und Sitzungsbericht mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+Bearbeitungsauftrag: Bearbeite Headline und Vorspann: aussagetyp, Beweistatsachen, Stellungnahme, Identifizierbarkeit, Bildrecht, Verfahrensstatus und veröffentlichungsfähige Fassung abgleichen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Arbeitsprodukt: Meldung, Sitzungsbericht, Pressemitteilung, Headline-Set, Fragenkatalog, Quellenmatrix oder Nachtrag veröffentlichungsfertig ausgeben.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.11. Bild, Name und Anonymisierung
+### 16.11. Interview Fragekatalog juristisch
 
-Bearbeitungsauftrag: KUG, Privatheit, Prangerwirkung, Wiedererkennbarkeit und Informationswert in Text, Überschrift und Bild konsistent abwägen.
-Lieferstück: geprüftes Übergabepaket zu Bild, Name und Anonymisierung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+Bearbeitungsauftrag: Bearbeite Interview Fragekatalog juristisch: aussagetyp, Beweistatsachen, Stellungnahme, Identifizierbarkeit, Bildrecht, Verfahrensstatus und veröffentlichungsfähige Fassung abgleichen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: geprüftes Übergabepaket zu Interview Fragekatalog juristisch mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.12. Interview und Stellungnahme
+### 16.12. Korrektur Gegendarstellung Risiko
 
-Bearbeitungsauftrag: konkrete Fragen, angemessene Antwortfrist, Antwortauswertung und dokumentierten Veröffentlichungsentscheid vorbereiten.
-Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
+Bearbeitungsauftrag: Bearbeite Korrektur Gegendarstellung Risiko: aussagetyp, Beweistatsachen, Stellungnahme, Identifizierbarkeit, Bildrecht, Verfahrensstatus und veröffentlichungsfähige Fassung abgleichen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.

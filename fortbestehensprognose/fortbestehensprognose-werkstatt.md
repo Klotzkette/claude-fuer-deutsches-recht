@@ -77,9 +77,9 @@ Arbeitsgriff Arbeitsprodukt: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläu
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Wenn Prognose Negativ Nächste Schritte | StaRUG Paragraf 1 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Bilanzieller Status aufnehmen | StaRUG Paragraf 1 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | InsO Paragraf 15a und Paragraf 15b | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Bilanzieller Status aufnehmen | InsO Paragraf 15a und Paragraf 15b | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Comfortletter (weich) | InsO Paragraf 15a und Paragraf 15b | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren | Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -98,11 +98,11 @@ Arbeitsgriff Arbeitsprodukt: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläu
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
+| BGH, Urteil vom 23.01.2025 - IX ZR 229/22 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko |
 | BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus |
 | BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten |
 | BGH, Urteil vom 06.05.2021 - IX ZR 72/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können |
 | BGH, Urteil vom 10.02.2022 - IX ZR 148/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag |
-| BGH, Urteil vom 12.02.2015 - IX ZR 180/12 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz schwächen; erweiterter Eigentumsvorbehalt oder erkannte verlustreiche Fortführung sprechen dagegen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -125,11 +125,11 @@ Arbeitsgriff Arbeitsprodukt: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläu
 
 ## 8. Leitentscheidungen
 
+- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag.
-- BGH, Urteil vom 12.02.2015 - IX ZR 180/12: Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz schwächen; erweiterter Eigentumsvorbehalt oder erkannte verlustreiche Fortführung sprechen dagegen.
 
 ## 9. Prüfraster
 
@@ -145,13 +145,13 @@ Arbeitsgriff Arbeitsprodukt: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläu
 
 10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren.
 10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind StaRUG Paragraf 1; InsO Paragraf 15a und Paragraf 15b.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Wenn Prognose Negativ Nächste Schritte.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Bilanzieller Status aufnehmen.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Sanierung, StaRUG und Krisenfrüherkennung tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei tragen Planungsrechnung und Prämissen die Fortbestehensprognose an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Prognosevermerk: Stichtag, Planungshorizont, Prämissen, Liquiditätsverlauf, Ergebnis, Dokumentation; Planbaustein: Gruppe, Eingriff, Begründung, Vergleichsrechnung, Abstimmungsergebnis.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 24.05.2005 - IX ZR 123/04; BGH, Urteil vom 19.12.2017 - II ZR 88/16.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 23.01.2025 - IX ZR 229/22; BGH, Urteil vom 24.05.2005 - IX ZR 123/04.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -185,89 +185,86 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Wenn Prognose Negativ Nächste Schritte | Wenn die Fortbestehensprognose negativ ausfällt liegt insolvenzrechtliche Überschuldung nach Paragraf 19 InsO vor. | Fachvotum zu Wenn Prognose Negativ Nächste Schritte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Bilanzieller Status aufnehmen | Forderungen mit qualifiziertem Rangrücktritt (Paragraf 19 Absatz 2 S. 2 InsO) werden im Überschuldungsstatus nicht passiviert. | Fachvotum zu Bilanzieller Status aufnehmen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Comfortletter (weich) | Der Comfortletter ist eine moralische Unterstützungserklärung ohne rechtliche Bindung. Wer den Comfortletter mit einer harten Patronatserklärung verwechselt, schiebt eine Selbsttäuschung in den Status hinein. | Fachvotum zu Comfortletter (weich) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Auslösendes Ereignis erfassen | Bearbeite Auslösendes Ereignis erfassen entlang der Sanierung, StaRUG und Krisenfrüherkennung-Prüflinie: Krisenstadium: Liquiditätsstatus, Prognosehorizont, Insolvenzreife und Antragspflichten feststellen | Fachvotum zu Auslösendes Ereignis erfassen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Forderungsverzicht mit Besserungsschein | Mit Besserungsschein: Wenn die Schuldnerin später wieder zahlungsfähig wird lebt die Forderung wieder auf. Lieferant verzichtet auf Forderung mit Besserungsschein als Sanierungsbeitrag. | Fachvotum zu Forderungsverzicht mit Besserungsschein mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Fortbestehensprognose zusammenführen | Bearbeite Fortbestehensprognose zusammenführen: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Fachvotum zu Fortbestehensprognose zusammenführen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Wenn Prognose Negativ Nächste Schritte | Wenn die Fortbestehensprognose negativ ausfällt liegt insolvenzrechtliche Überschuldung nach Paragraf 19 InsO vor. | Fachvotum zu Wenn Prognose Negativ Nächste Schritte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Harte Patronatserklärung prüfen und erzeugen | Die externe harte Patronatserklärung ist eine rechtsverbindliche Zusicherung des Patrons gegenüber dem Begünstigten (typisch der Gesellschaft selbst oder ihren Gläubigern) finanzielle Mittel zur Verfügung zu stellen damit. | Beweismatrix zu Harte Patronatserklärung prüfen und erzeugen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
-| FP: Dokumentation-Gerichtsfähigkeit | Bearbeite FP: Dokumentation-Gerichtsfähigkeit entlang der Sanierung, StaRUG und Krisenfrüherkennung-Prüflinie: Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen. | Akten- und Belegmatrix zu FP: Dokumentation-Gerichtsfähigkeit mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
-| Fortbestehensprognose zusammenführen | Bearbeite Fortbestehensprognose zusammenführen entlang der Sanierung, StaRUG und Krisenfrüherkennung-Prüflinie: Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen | Fachvotum zu Fortbestehensprognose zusammenführen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| FP: Dokumentation-Gerichtsfähigkeit | Bearbeite FP: Dokumentation-Gerichtsfähigkeit: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Akten- und Belegmatrix zu FP: Dokumentation-Gerichtsfähigkeit mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
 | Gesellschafterdarlehen — qualifizierter Rangrücktritt | Rangrücktritt ist kein einseitiger Höflichkeitssatz, sondern Schuldänderungsvertrag zwischen Gläubiger und Schuldner. Der qualifizierte Rangrücktritt muss vor und nach Verfahrenseröffnung wirken. | Fachvotum zu Gesellschafterdarlehen — qualifizierter Rangrücktritt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Sanierungsbausteine vorschlagen | Nicht ausreichend für die Fortbestehensprognose-Bilanzentlastung. Kann aber Liquiditätsunterstützung signalisieren. Bestehendes Gesellschafterdarlehen wird mit qualifiziertem Rangrücktritt versehen | Fachvotum zu Sanierungsbausteine vorschlagen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Zwölf-Monats-Liquidität | Drei Szenarien aus annahmen-belastbarkeit-plausibilisieren werden in der Liquidität durchgerechnet:. Stress-Szenario — Top-Kunde weg Bei jedem Szenario die monatlichen Salden über die zwölf Monate. | Fachvotum zu Zwölf-Monats-Liquidität mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Wenn Prognose Negativ Nächste Schritte
-
-Bearbeitungsauftrag: Wenn die Fortbestehensprognose negativ ausfällt liegt insolvenzrechtliche Überschuldung nach Paragraf 19 InsO vor. Jede Tagesverzögerung kann zur strafrechtlichen Haftung nach Paragraf 15a Absatz 4 InsO und zur zivilrechtlichen Haftung nach Paragraf 15b InsO führen. Vorlage: vollständige Prognosedokumentation aus Skill prognose-dokumentation-stichtag.
-Prüfschritte: Ohne Insolvenzanwalt sollte ab diesem Punkt nicht weitergearbeitet werden; Insolvenzanwalt aus dem Profil (Skill fortbestehensprognose-kaltstart-interview); Termin innerhalb der nächsten 48 Stunden; Mit Eintritt der Insolvenzreife dürfen keine Zahlungen mehr geleistet werden die nicht mit der Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters vereinbar sind; Ausnahmen (Paragraf 15b Absatz 1 InsO).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Wenn die Fortbestehensprognose negativ ausfällt liegt insolvenzrechtliche Überschuldung nach Paragraf 19 InsO vor.
-Lieferstück: Fachvotum zu Wenn Prognose Negativ Nächste Schritte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.2. Bilanzieller Status aufnehmen
+### 16.1. Bilanzieller Status aufnehmen
 
 Bearbeitungsauftrag: Forderungen mit qualifiziertem Rangrücktritt (Paragraf 19 Absatz 2 S. 2 InsO) werden im Überschuldungsstatus nicht passiviert. Ergebnis: trotz bilanzieller Überschuldung von 82.000 EUR ist die insolvenzrechtliche Bilanzbasis positiv weil stille Reserven und Rangrücktritt dies neutralisieren. KG mit ausschließlich Komplementär-GmbH gilt Paragraf 19 InsO entsprechend.
 Prüfschritte: Vermögenswerte deren Buchwert geringer ist als der Verkehrswert; Im Status zu addieren (heben die bilanzielle Überschuldung); Verpflichtungen die in der Handelsbilanz nicht oder zu niedrig passiviert sind; Im Status zu addieren (verschärfen die bilanzielle Überschuldung); Reine Vermögensbilanz ist nicht ausreichend — die Fortbestehensprognose ist zusätzlich erforderlich (Skill annahmen-sammeln-fortführung).
 Lieferstück: Fachvotum zu Bilanzieller Status aufnehmen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Comfortletter (weich)
+### 16.2. Comfortletter (weich)
 
 Bearbeitungsauftrag: Der Comfortletter ist eine moralische Unterstützungserklärung ohne rechtliche Bindung. Wer den Comfortletter mit einer harten Patronatserklärung verwechselt, schiebt eine Selbsttäuschung in den Status hinein. Bei späterer Insolvenz wird das aufgedeckt; Haftungsrisiko des Geschäftsleiters nach Paragraf 15b InsO und Paragraf 43 GmbHG.
 Prüfschritte: Er wirkt im Geschäftsverkehr (Bank Lieferant Investor) als Reputations-Signal; Wirkung im Status der Gesellschaft:; Keine Berücksichtigung als Aktivposten; Keine eigenständige Tragwirkung für die Fortbestehensprognose; Reine Unterstützungsabsichtserklärung.
 Lieferstück: Fachvotum zu Comfortletter (weich) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Auslösendes Ereignis erfassen
+### 16.3. Fortbestehensprognose zusammenführen
 
-Bearbeitungsauftrag: Bearbeite Auslösendes Ereignis erfassen entlang der Sanierung, StaRUG und Krisenfrüherkennung-Prüflinie: Krisenstadium: Liquiditätsstatus, Prognosehorizont, Insolvenzreife und Antragspflichten feststellen.
-Prüfschritte: Paragraf 102 StaRUG verpflichtet einen dort genannten Berufsträger bei der Erstellung eines Jahresabschlusses zum Hinweis auf einen möglichen Insolvenzgrund und die daran anknüpfenden Organpflichten, wenn die Anhaltspunkte offenkundig sind und er annehmen muss, dass dem Mandanten die mögliche Insolvenzreife nicht bewusst ist; Eine BWA, laufende Buchführung oder sonstige Beratung löst die Norm für sich allein nicht aus; Datum des Hinweises (schriftlich / mündlich / im Gespräch); Konkrete Anhaltspunkte die der StB genannt hat.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 102 StaRUG verpflichtet einen dort genannten Berufsträger bei der Erstellung eines Jahresabschlusses zum Hinweis auf einen möglichen Insolvenzgrund und die daran anknüpfenden Organpflichten, wenn die Anhaltspunkte offenkundig sind und er annehmen muss, dass.
-Lieferstück: Fachvotum zu Auslösendes Ereignis erfassen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Fortbestehensprognose zusammenführen: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen.
+Prüfschritte: Paragraf 19 Absatz 2 InsO seit SanInsFoG 2021: "Die Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich" — Prognosezeitraum zwölf Monate; Überwiegend wahrscheinlich bedeutet mehr als 50 Prozent Wahrscheinlichkeit.
+Normbezug aus dem Fachmaterial: Paragraf 19 Absatz 2 InsO seit SanInsFoG 2021: "Die Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich" — Prognosezeitraum zwölf Monate; Paragraf 19 Absatz 2 InsO seit SanInsFoG 2021: "Die Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich" — Prognosezeitraum zwölf Monate.
+Lieferstück: Fachvotum zu Fortbestehensprognose zusammenführen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Forderungsverzicht mit Besserungsschein
+### 16.4. Wenn Prognose Negativ Nächste Schritte
 
-Bearbeitungsauftrag: Mit Besserungsschein: Wenn die Schuldnerin später wieder zahlungsfähig wird lebt die Forderung wieder auf. Lieferant verzichtet auf Forderung mit Besserungsschein als Sanierungsbeitrag. Sanierungsgewinn Paragraf 3a EStG kann steuerbefreit sein wenn die Voraussetzungen (Sanierungsabsicht Sanierungsfähigkeit Sanierungseignung Gläubigergleichbehandlung) erfüllt sind.
-Prüfschritte: Gläubiger verzichtet auf eine Forderung; Im Status: Forderung entfällt aus den Passiva; Liquidität: keine direkte Liquiditätszuflussverbesserung (die Forderung war ggf ohnehin nicht in den nächsten 12 Monaten zur Zahlung fällig); Bank verzichtet auf Teil-Tilgung eines Darlehens; Hauptgesellschafter verzichtet auf Forderung (statt Rangrücktritt).
-Lieferstück: Fachvotum zu Forderungsverzicht mit Besserungsschein mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Wenn die Fortbestehensprognose negativ ausfällt liegt insolvenzrechtliche Überschuldung nach Paragraf 19 InsO vor. Jede Tagesverzögerung kann zur strafrechtlichen Haftung nach Paragraf 15a Absatz 4 InsO und zur zivilrechtlichen Haftung nach Paragraf 15b InsO führen. Vorlage: vollständige Prognosedokumentation aus Skill prognose-dokumentation-stichtag.
+Prüfschritte: Ohne Insolvenzanwalt sollte ab diesem Punkt nicht weitergearbeitet werden; Insolvenzanwalt aus dem Profil (Skill fortbestehensprognose-kaltstart-interview); Termin innerhalb der nächsten 48 Stunden.
+Lieferstück: Fachvotum zu Wenn Prognose Negativ Nächste Schritte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Harte Patronatserklärung prüfen und erzeugen
+### 16.5. Harte Patronatserklärung prüfen und erzeugen
 
 Bearbeitungsauftrag: Die externe harte Patronatserklärung ist eine rechtsverbindliche Zusicherung des Patrons gegenüber dem Begünstigten (typisch der Gesellschaft selbst oder ihren Gläubigern) finanzielle Mittel zur Verfügung zu stellen damit die Begünstigten ihren Verpflichtungen nachkommen kann. Im Gegensatz zur internen und zur weichen Patronatserklärung ist sie:. Bonität des Patrons (er muss leistungsfähig sein — Bonitätsnachweis erforderlich).
 Prüfschritte: Mit konkretem Inhalt (Höhe Bedingungen Laufzeit); Direkt durchsetzbar durch die Gesellschaft (oder ihre Gläubiger als Drittberechtigte wenn vereinbart); Insolvenzfest — die Verpflichtung des Patrons bleibt auch im Insolvenzfall der Gesellschaft bestehen; Höhe des Verpflichtungsumfangs konkret beziffert.
 Lieferstück: Beweismatrix zu Harte Patronatserklärung prüfen und erzeugen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
 
-### 16.7. FP: Dokumentation-Gerichtsfähigkeit
+### 16.6. FP: Dokumentation-Gerichtsfähigkeit
 
-Bearbeitungsauftrag: Bearbeite FP: Dokumentation-Gerichtsfähigkeit entlang der Sanierung, StaRUG und Krisenfrüherkennung-Prüflinie: Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen. Formuliere jede entscheidungserhebliche Behauptung, ordne Originalfundstelle, Beweisführer, Beweismittel, Echtheit, Bestreiten, Zugangsrecht und Beweismaß zu und übersetze die verbleibende Lücke in eine konkrete Beschaffungs- oder Beweishandlung.
+Bearbeitungsauftrag: Bearbeite FP: Dokumentation-Gerichtsfähigkeit: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Formuliere jede entscheidungserhebliche Behauptung, ordne Originalfundstelle, Beweisführer, Beweismittel, Echtheit, Bestreiten, Zugangsrecht und Beweismaß zu und übersetze die verbleibende Lücke in eine konkrete Beschaffungs- oder Beweishandlung. Fachstation: Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen.
 Lieferstück: Akten- und Belegmatrix zu FP: Dokumentation-Gerichtsfähigkeit mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
-### 16.8. Fortbestehensprognose zusammenführen
-
-Bearbeitungsauftrag: Bearbeite Fortbestehensprognose zusammenführen entlang der Sanierung, StaRUG und Krisenfrüherkennung-Prüflinie: Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen.
-Prüfschritte: Paragraf 19 Absatz 2 InsO seit SanInsFoG 2021: "Die Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich" — Prognosezeitraum zwölf Monate; Überwiegend wahrscheinlich bedeutet mehr als 50 Prozent Wahrscheinlichkeit.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 19 Absatz 2 InsO seit SanInsFoG 2021: "Die Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich" — Prognosezeitraum zwölf Monate; Paragraf 19 Absatz 2 InsO seit SanInsFoG 2021: "Die Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich" — Prognosezeitraum zwölf Monate.
-Lieferstück: Fachvotum zu Fortbestehensprognose zusammenführen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. Gesellschafterdarlehen — qualifizierter Rangrücktritt
+### 16.7. Gesellschafterdarlehen — qualifizierter Rangrücktritt
 
 Bearbeitungsauftrag: Rangrücktritt ist kein einseitiger Höflichkeitssatz, sondern Schuldänderungsvertrag zwischen Gläubiger und Schuldner. Der qualifizierte Rangrücktritt muss vor und nach Verfahrenseröffnung wirken. Die Forderung darf im Insolvenzfall nur nachrangig nach Maßgabe des Paragraf 39 InsO bedient werden; Zinsen, Nebenforderungen und Sicherheitenfolgen sind ausdrücklich einzubeziehen.
 Lieferstück: Fachvotum zu Gesellschafterdarlehen — qualifizierter Rangrücktritt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Sanierungsbausteine vorschlagen
+### 16.8. Sanierungsbausteine vorschlagen
 
 Bearbeitungsauftrag: Nicht ausreichend für die Fortbestehensprognose-Bilanzentlastung. Kann aber Liquiditätsunterstützung signalisieren. Bestehendes Gesellschafterdarlehen wird mit qualifiziertem Rangrücktritt versehen.
 Prüfschritte: Aus der Zusammenführung (Skill fortbestehensprognose-zusammenführen) ergibt sich die Lücke zwischen aktueller Liquidität / Bilanzbasis und der Schwelle zur positiven Fortbestehensprognose; Patron muss bonitaer sein und sich gegenüber dem Begünstigten direkt verpflichten; Patronatserklärung schriftlich mit klarem Verzicht auf Insolvenzanforderung im Insolvenzfall; Mehrwert: Forderung des Patrons gegen sich selbst (im Insolvenzfall) entlastet den Status; Skill patronatserklärung-extern-hart-erzeugen mit Mustervorlage.
 Lieferstück: Fachvotum zu Sanierungsbausteine vorschlagen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Stundungsanfrage Gläubiger
-
-Bearbeitungsauftrag: Empfehlung: schriftliche Stundungsanfrage mit konkretem Verzugsplan und ggf. Bei bestehenden Darlehen Tilgungspause oder Verlängerung. Bank verlangt regelmäßig Sanierungskonzept (IDW S 6) oder zumindest die Fortbestehensprognose.
-Prüfschritte: Eine Stundung verschiebt die Fälligkeit eines Liquiditätsabflusses nach hinten oder verteilt ihn in Raten; Verbessert die Liquidität im Stundungszeitraum; Verschlechtert die Liquidität im Folgezeitraum (es sei denn umgekehrt durch operativ erwirtschaftete Mittel kompensiert); Nur schriftlich im Liquiditätsplan ansetzen; Eine mündlich erbetene und nicht schriftlich zugestandene Stundung darf nicht in den Liquiditätsplan eingebaut werden.
-Lieferstück: Fachvotum zu Stundungsanfrage Gläubiger mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Zwölf-Monats-Liquidität
+### 16.9. Zwölf-Monats-Liquidität
 
 Bearbeitungsauftrag: Drei Szenarien aus annahmen-belastbarkeit-plausibilisieren werden in der Liquidität durchgerechnet:. Stress-Szenario — Top-Kunde weg Bei jedem Szenario die monatlichen Salden über die zwölf Monate. Steigender Trend oder Stabilisierung der Liquidität.
 Prüfschritte: Aus den Annahmen aus annahmen-sammeln-fortführung plus Plausibilisierung: Bei kritischen Phasen (Monaten mit knapp positivem Saldo oder negativem Endbestand) muss die Wochenplanung herangezogen werden:; Plugin liquiditätsplanung enthält die wochenbasierten Vorlagen; Negativ-Szenario — ambitionierte Annahmen reduziert; Monatsendbestand mindestens null (besser kein voll ausgenutzter Kontokorrent); Wesentliche Risikoposten identifiziert.
 Lieferstück: Fachvotum zu Zwölf-Monats-Liquidität mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.10. Auslösendes Ereignis erfassen
+
+Bearbeitungsauftrag: Bearbeite Auslösendes Ereignis erfassen: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Normbezug aus dem Fachmaterial: Paragraf 102 StaRUG verpflichtet einen dort genannten Berufsträger bei der Erstellung eines Jahresabschlusses zum Hinweis auf einen möglichen Insolvenzgrund und die daran anknüpfenden Organpflichten, wenn die Anhaltspunkte offenkundig sind und er annehmen muss, dass.
+Lieferstück: Fachvotum zu Auslösendes Ereignis erfassen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.11. FBP: Bankenkommunikation Waiver
+
+Bearbeitungsauftrag: Bearbeite FBP: Bankenkommunikation Waiver: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: Fachvotum zu FBP: Bankenkommunikation Waiver mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Annahmen plausibilisieren
+
+Bearbeitungsauftrag: Personalkosten steigen, aber Personalstand sinkt? Begründung erforderlich (Tariferhöhung + Reduzierung gleichzeitig). Sanierungsmaßnahmen mit Effekt — ist der Effekt belegt (Vergleichswerte historisch Kostenrechnung)?
+Prüfschritte: Stimmt die Annahme mit den letzten drei Jahren der BWA / SuSa / Jahresabschluss überein; ifo Geschäftsklimaindex DESTATIS Branchenkennzahlen; Auftragsbestand der Branche rückschau; Makro-Indikatoren Konjunktur Zinsen Energiepreise; Umsatz steigt, aber Materialkosten bleiben gleich?
+Lieferstück: Fachvotum zu Annahmen plausibilisieren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

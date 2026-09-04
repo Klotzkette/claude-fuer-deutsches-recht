@@ -37,7 +37,7 @@ description: "Für Schrems II – Grundlagen für Transfer Impact Assessment: or
 
 - **SCC neu** (Durchfuehrungsbeschluss (EU) **2021/914** vom **04.06.2021**) – ersetzen alte SCC; Modulstruktur 1-4.
 - **EU-US Data Privacy Framework (DPF)**: Durchfuehrungsbeschluss (EU) **2023/1795** vom **10.07.2023** – Angemessenheitsbeschluss als Folgeschritt; loest US-Defizite nicht vollstaendig auf, sondern stuetzt sich auf Executive Order 14086 und Schaffung des Data Protection Review Court.
-- Wiederholte Klage **Schrems III** kann zu DPF-Folgeentscheidung fuehren – Rechtsentwicklung beobachten.
+- Das Gericht der Europäischen Union wies die Nichtigkeitsklage Latombe gegen Kommission, T-553/23, am 3. September 2025 ab. Das Rechtsmittel C-703/25 P ist anhängig. Dieses Verfahren ist von Schrems I und Schrems II zu unterscheiden und wird nicht als amtlich benanntes „Schrems III“-Verfahren behandelt.
 
 ## Ablauf / Checkliste
 
@@ -46,7 +46,7 @@ description: "Für Schrems II – Grundlagen für Transfer Impact Assessment: or
 3. Beziehe die EDPB-Empfehlung 01/2020 in die Prüfung ein.
 4. Vermeide Verkuerzung "USA = unzulaessig" – differenziere nach DPF-Listing, Datenart, Schutzmassnahmen.
 5. Dokumentiere die Prüfung – ohne TIA-Dokument keine Schrems-II-konforme Compliance.
-6. Beobachte Folgeentwicklungen (Schrems III, DPR-Court-Entscheidungen, neue Adequacy Decisions).
+6. Beobachte Folgeentwicklungen, insbesondere C-703/25 P, Änderungen der US-Rechtsgrundlagen, DPRC-Entwicklungen und neue Angemessenheitsbeschlüsse.
 
 ## Mustertext / Template
 
@@ -63,7 +63,7 @@ Kurzvermerk-Baustein für das TIA:
 - TIA-Dokument als Einmal-Prüfung; keine Wiedervorlage.
 - "Essentially equivalent" mit "identisch" gleichgesetzt – nicht zutreffend, ein "im Wesentlichen gleichwertiger" Schutz genuegt.
 
-## Quellen Stand 06/2026
+## Quellen Stand 09/2026
 
 - EuGH, Urteil der Großen Kammer vom 16.07.2020, C-311/18, ECLI:EU:C:2020:559 (Schrems II).
 - EuGH, Urteil vom 06.10.2015, C-362/14, ECLI:EU:C:2015:650 (Schrems I, Safe Harbor).
@@ -72,3 +72,5 @@ Kurzvermerk-Baustein für das TIA:
 - Durchfuehrungsbeschluss (EU) 2021/914 der Kommission vom 04.06.2021 (SCC).
 - Durchfuehrungsbeschluss (EU) 2023/1795 der Kommission vom 10.07.2023 (EU-US DPF).
 - US Executive Order 14086 vom 07.10.2022.
+- Gericht der Europäischen Union, Urteil vom 3. September 2025, Latombe gegen Kommission, T-553/23, ECLI:EU:T:2025:831.
+- Gerichtshof der Europäischen Union, anhängiges Rechtsmittel vom 31. Oktober 2025, Latombe gegen Kommission, C-703/25 P.

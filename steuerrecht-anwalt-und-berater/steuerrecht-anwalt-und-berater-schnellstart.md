@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Steuerart, Zeitraum, 
 | --- | --- |
 | Normenanker | AO Paragraf 85; AO Paragraf 88; AO Paragraf 173 |
 | Rechtsprechung | BFH, Urteil vom 04.11.2021 - VI R 22/19; BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17 |
-| Tatbestand | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen |
+| Tatbestand | Steuerart, Zeitraum, Bescheidlage und Frist bestimmen |
 | Beweislast | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise |
 | Rechtsfolge | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Steuerart, Zeitraum, 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Steuerart, Zeitraum | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Nationalen Tatbestand, persönliche Steuerpflicht und Einkunfts- oder Umsatzlogik prüfen | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahrensrecht | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Belege, Buchführung | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Methodenartikel: Anrechnung vs. Freistellung (Art. 23 OECD-MA, Paragraf 34c EStG) | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Steuerart, Zeitraum | Steuerart, Zeitraum, Bescheidlage und Frist bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Nationalen Tatbestand, persönliche Steuerpflicht und Einkunfts- oder Umsatzlogik prüfen | Nationalen Tatbestand, persönliche Steuerpflicht und Einkunfts- oder Umsatzlogik prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verfahrensrecht | Einspruch, Aussetzung, Änderungsnorm und Festsetzungsfrist bearbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Belege, Buchführung | Belege, Buchführung, Rechnung, DBA und unionsrechtliche Sperren trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Einspruch, Klage, Stellungnahme, Risikomatrix oder Berechnung erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

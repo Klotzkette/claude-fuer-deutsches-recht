@@ -180,11 +180,11 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Fahrgastrechte — Anlagen bauen | Liest den Schriftsatz und identifiziert alle erwähnten Anlagen anhand der Bezeichnung Anlage K 1, Anlage K 2, . Jeden Rohbeleg in PDF konvertieren (HEIC / JPG / PNG / DOCX / XLSX → PDF). | Fachvotum zu Fahrgastrechte — Anlagen bauen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Entschädigung berechnen | Bearbeite Entschädigung berechnen entlang der Fahrgastrechte im Eisenbahnverkehr-Prüflinie: Geldanspruch: Entschädigung, Zeitfahrkarte, Mindestbetrag, Betreuungskosten und sonstigen Schaden ohne Doppelansatz berechnen | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
 | Klage zum Amtsgericht (Fahrgastrechte) | Schriftform des Klageantrags (Paragraf 253 ZPO). Klagepartei ist der Anspruchsteller (jeder Reisende eigener Anspruch — Streitgenossenschaft möglich nach Paragraf 60 ZPO). Über 10 000 EUR: Landgericht (Paragraf 71 GVG) | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn | NWB-Strecke via bahn.de gebucht: NWB als Operating EVU passivlegitimiert, DB nur als Vermittler. Verspätung (Nummer 17): Zeitdifferenz zwischen planmäßiger und tatsächlicher / erwarteter Ankunft am Zielbahnhof. | Fachvotum zu Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Forderungsschreiben — Erste Stufe | DB Dialog GmbH — Servicecenter Fahrgastrechte, 60647 Frankfurt am Main (Postanschrift; korrekter Postweg auch bei Online-Antrag, wenn schriftliche Spur gewünscht). | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
+| Katalog der DB-Ablehnungsgründe und Gegenargumente | Beweislast für Ankunftszeit: Im Bestreitensfall liegt die sekundäre Darlegungslast bei der DB — sie verfügt über die internen Betriebsdaten (Leidis-NK / DiRail). | Fachvotum zu Katalog der DB-Ablehnungsgründe und Gegenargumente mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Vollmacht für Mitreisende | Bei minderjährigen Mitreisenden ist die Vollmacht durch die erziehungsberechtigten Personen zu erteilen (regelmäßig beide Elternteile gemeinsam, sofern beide sorgeberechtigt — Paragraf 1626 BGB): Bei Reisegruppen —. | Fachvotum zu Vollmacht für Mitreisende mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO) | Tatbestand: Wenn dem Fahrgast die verfügbaren Optionen für Weiterreise mit geänderter Streckenführung nicht binnen 100 Minuten nach planmäßiger Abfahrtszeit des verspäteten oder ausgefallenen Verkehrsdienstes. | Fachvotum zu Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
-| Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn | NWB-Strecke via bahn.de gebucht: NWB als Operating EVU passivlegitimiert, DB nur als Vermittler. Verspätung (Nummer 17): Zeitdifferenz zwischen planmäßiger und tatsächlicher / erwarteter Ankunft am Zielbahnhof. | Fachvotum zu Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| Katalog der DB-Ablehnungsgründe und Gegenargumente | Beweislast für Ankunftszeit: Im Bestreitensfall liegt die sekundäre Darlegungslast bei der DB — sie verfügt über die internen Betriebsdaten (Leidis-NK / DiRail). | Fachvotum zu Katalog der DB-Ablehnungsgründe und Gegenargumente mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -194,7 +194,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: SPNV (RE, RB, S-Bahn im SPNV-Sinn) → Artikel 19 VO ungeschmälert PLUS Paragraf 11 EVO Zusatzrechte (20-Min-Schwelle für Alternativzug; 120-EUR-Limit Ersatzbeförderung bei Nachtfahrt). Achtung: Auch wenn ein Etappenzug 120 Min Verspätung hatte, der Fahrgast aber durch günstigen Anschlusszug nur 30 Min am Endziel verspätet war: kein Anspruch (Artikel 19 Absatz 9 VO). Einheitliche PNR: alle Etappen sind Durchgangsfahrkarte → Anspruch bezieht sich auf Endziel-Verspätung (Artikel 12 Absatz 3 VO).
 Prüfschritte: Fernverkehr (ICE, IC, EC, FlixTrain, ÖBB) → Artikel 19 VO ungeschmälert (60/120 Min); Stadt-/Vorortverkehr (S-Bahn-Tarifgebiete, U-Bahn) — Deutschland hat ausgenommen; Ansprüche nach Tarifbedingungen und nationalen Sonderregeln; Hin- mit Sparpreis, Anschlussfahrt mit anderem Ticket: jede Strecke einzeln zu bewerten.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Fernverkehr (ICE, IC, EC, FlixTrain, ÖBB) → Artikel 19 VO ungeschmälert (60/120 Min); SPNV (RE, RB, S-Bahn im SPNV-Sinn) → Artikel 19 VO ungeschmälert PLUS Paragraf 11 EVO Zusatzrechte (20-Min-Schwelle für Alternativzug; 120-EUR-Limit Ersatzbeförderung bei Nachtfahrt); Fernverkehr (ICE, IC, EC, FlixTrain, ÖBB) → Artikel 19 VO ungeschmälert (60/120 Min).
+Normbezug aus dem Fachmaterial: Fernverkehr (ICE, IC, EC, FlixTrain, ÖBB) → Artikel 19 VO ungeschmälert (60/120 Min); SPNV (RE, RB, S-Bahn im SPNV-Sinn) → Artikel 19 VO ungeschmälert PLUS Paragraf 11 EVO Zusatzrechte (20-Min-Schwelle für Alternativzug; 120-EUR-Limit Ersatzbeförderung bei Nachtfahrt).
 Lieferstück: Fachvotum zu Verspätung, Zugausfall oder Anschlussverlust einordnen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. Fahrgastrechte — Anlagen bauen
@@ -207,7 +207,7 @@ Lieferstück: Fachvotum zu Fahrgastrechte — Anlagen bauen mit Tatbestandsmerkm
 
 Bearbeitungsauftrag: Bearbeite Entschädigung berechnen entlang der Fahrgastrechte im Eisenbahnverkehr-Prüflinie: Geldanspruch: Entschädigung, Zeitfahrkarte, Mindestbetrag, Betreuungskosten und sonstigen Schaden ohne Doppelansatz berechnen.
 Prüfschritte: Artikel 19 VO (EU) 2021/782 — Entschädigung in zwei Stufen: Mindestauszahlung: 4 EUR pro Fahrkarte (Artikel 19 Absatz 8); EVU darf Beträge darunter ablehnen; Bezugsgröße: Tatsächlich entrichteter Fahrpreis; Maßgeblich: tatsächliche Ankunftszeit (Türöffnung, Artikel 3 Nummer 18 VO) minus planmäßige Ankunftszeit am gebuchten Endziel; ≥ 120 Min → 50 % Artikel 19 VO ist persönlich.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 19 VO (EU) 2021/782 — Entschädigung in zwei Stufen: Mindestauszahlung: 4 EUR pro Fahrkarte (Artikel 19 Absatz 8); Artikel 19 VO (EU) 2021/782 — Entschädigung in zwei Stufen: Mindestauszahlung: 4 EUR pro Fahrkarte (Artikel 19 Absatz 8); EVU darf Beträge darunter ablehnen; Bezugsgröße: Tatsächlich entrichteter Fahrpreis.
+Normbezug aus dem Fachmaterial: Artikel 19 VO (EU) 2021/782 — Entschädigung in zwei Stufen: Mindestauszahlung: 4 EUR pro Fahrkarte (Artikel 19 Absatz 8).
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
 ### 16.4. Klage zum Amtsgericht (Fahrgastrechte)
@@ -216,38 +216,37 @@ Bearbeitungsauftrag: Schriftform des Klageantrags (Paragraf 253 ZPO). Klageparte
 Prüfschritte: Eine Klage ist ein Rechtsschriftsatz mit Konsequenzen (Gerichtskosten, Streitwert-Risiko, Auslagen); Vor Einreichung Beweislage prüfen — auf konkrete Vorhalt-Antworten der DB reagieren können; Vorgerichtliches Verfahren abgeschlossen (Forderung an DB → Widerspruch → Schlichtung) oder begründet nicht durchgeführt; Beklagte das ausführende Eisenbahnverkehrsunternehmen; Streitwert Summe der Ansprüche aller Reisenden.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.5. Forderungsschreiben — Erste Stufe
+### 16.5. Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn
+
+Bearbeitungsauftrag: NWB-Strecke via bahn.de gebucht: NWB als Operating EVU passivlegitimiert, DB nur als Vermittler. Verspätung (Nummer 17): Zeitdifferenz zwischen planmäßiger und tatsächlicher / erwarteter Ankunft am Zielbahnhof. Ankunft (Nummer 18): Türöffnung am Bahnsteig — nicht Halt des Zuges.
+Prüfschritte: Anspruchsgegner ist das ausführende Eisenbahnverkehrsunternehmen (EVU) — Artikel 19 Absatz 1 VO 2021/782; DB Fernverkehr AG (ICE, IC, EC) — Stephensonstraße 1, 60326 Frankfurt am Main; DB Regio AG (RE, RB im Auftrag der Bundesländer) — Stephensonstraße 1, 60326 Frankfurt am Main; Konkurrenzanbieter mit eigener PNR: ÖBB-Personenverkehr AG (Wien), FlixTrain GmbH (München), NWB Nordwestbahn, Vlexx, Abellio, Transdev, Go-Ahead etc.
+Normbezug aus dem Fachmaterial: Anspruchsgegner ist das ausführende Eisenbahnverkehrsunternehmen (EVU) — Artikel 19 Absatz 1 VO 2021/782.
+Lieferstück: Fachvotum zu Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.6. Forderungsschreiben — Erste Stufe
 
 Bearbeitungsauftrag: DB Dialog GmbH — Servicecenter Fahrgastrechte, 60647 Frankfurt am Main (Postanschrift; korrekter Postweg auch bei Online-Antrag, wenn schriftliche Spur gewünscht). Konkurrenz-EVU: dort übliches Reklamationsformular nutzen; postalisch parallel an Niederlassungs-Adresse. Verzug spätestens mit Fristablauf (Paragraf 286 Absatz 1 BGB).
 Prüfschritte: Alternativ: Online-Formular auf bahn.de/fahrgastrechte oder über die DB Navigator-App; Empfehlung: parallel postalisch UND online für Beweisspur; Postversand per Einschreiben mit Rückschein — beste Beweisform; Parallel Online-Antrag über bahn.de oder DB Navigator — schnellere Bearbeitung.
 Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
 
-### 16.6. Vollmacht für Mitreisende
+### 16.7. Katalog der DB-Ablehnungsgründe und Gegenargumente
+
+Bearbeitungsauftrag: Beweislast für Ankunftszeit: Im Bestreitensfall liegt die sekundäre Darlegungslast bei der DB — sie verfügt über die internen Betriebsdaten (Leidis-NK / DiRail). Der Fahrgast trägt die Anfangsdarlegungslast, kann diese aber durch DB-Verspätungsbestätigung / DB-Navigator-Screenshot / Foto Anzeigetafel / Zeugen erfüllen.
+Prüfschritte: Generell: Beweislast für außergewöhnliche Umstände und die Ergreifung zumutbarer Maßnahmen liegt beim Eisenbahnverkehrsunternehmen (Artikel 19 Absatz 10 VO 2021/782 — Wortlaut "nachweisen kann"); Pauschale Behauptungen ohne Belege reichen nicht; Typische DB-Formulierung: "Leider können wir Ihrem Antrag nicht entsprechen, da die von Ihnen angegebene Verbindung nicht mit der gebuchten Verbindung übereinstimmt." Bei meinem Ticket handelt es sich um ein Flexpreis-Ticket.
+Normbezug aus dem Fachmaterial: Generell: Beweislast für außergewöhnliche Umstände und die Ergreifung zumutbarer Maßnahmen liegt beim Eisenbahnverkehrsunternehmen (Artikel 19 Absatz 10 VO 2021/782 — Wortlaut "nachweisen kann").
+Lieferstück: Fachvotum zu Katalog der DB-Ablehnungsgründe und Gegenargumente mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.8. Vollmacht für Mitreisende
 
 Bearbeitungsauftrag: Bei minderjährigen Mitreisenden ist die Vollmacht durch die erziehungsberechtigten Personen zu erteilen (regelmäßig beide Elternteile gemeinsam, sofern beide sorgeberechtigt — Paragraf 1626 BGB): Bei Reisegruppen — Freundeskreis, Kollegen, Vereinsfahrt — gleiches Schema wie bei Erwachsenen-Vollmacht, individuell je Person. Zweck: Geltendmachung Anspruch nach VO (EU) 2021/782 / EVO. Empfänger: EVU (DB / FlixTrain / etc.); Schlichtungsstelle Reise & Verkehr; ggf.
 Prüfschritte: Empfehlung: Excel-/CSV-Liste der Vollmachtgebenden mit Zuordnung zu eigenen Tickets im Anlagenkonvolut; Verantwortlicher: Hauptansprechpartner (Name, Adresse, Kontakt).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Bei minderjährigen Mitreisenden ist die Vollmacht durch die erziehungsberechtigten Personen zu erteilen (regelmäßig beide Elternteile gemeinsam, sofern beide sorgeberechtigt — Paragraf 1626 BGB): Bei Reisegruppen — Freundeskreis, Kollegen, Vereinsfahrt — gleiches Schema wie.
+Normbezug aus dem Fachmaterial: Bei minderjährigen Mitreisenden ist die Vollmacht durch die erziehungsberechtigten Personen zu erteilen (regelmäßig beide Elternteile gemeinsam, sofern beide sorgeberechtigt — Paragraf 1626 BGB): Bei Reisegruppen — Freundeskreis, Kollegen, Vereinsfahrt — gleiches Schema wie.
 Lieferstück: Fachvotum zu Vollmacht für Mitreisende mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO)
+### 16.9. Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO)
 
 Bearbeitungsauftrag: Tatbestand: Wenn dem Fahrgast die verfügbaren Optionen für Weiterreise mit geänderter Streckenführung nicht binnen 100 Minuten nach planmäßiger Abfahrtszeit des verspäteten oder ausgefallenen Verkehrsdienstes oder des verpassten Anschlusses mitgeteilt werden, ist der Fahrgast berechtigt, Verträge mit anderen Anbietern öffentlicher Verkehrsdienste zu schließen (Eisenbahn, Reisebus, Bus). Privat-PKW-Erstattung über üblichen Tagessatz hinaus. Verlust verfallener Anschluss-Tickets, wenn diese separat (eigene PNR) gebucht waren.
-Prüfschritte: Rechtsfolge: Das EVU erstattet die notwendigen, angemessenen und zumutbaren Kosten; Praxisprüfung: Was NICHT erstattungsfähig ist.
 Lieferstück: Fachvotum zu Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.8. Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn
-
-Bearbeitungsauftrag: NWB-Strecke via bahn.de gebucht: NWB als Operating EVU passivlegitimiert, DB nur als Vermittler. Verspätung (Nummer 17): Zeitdifferenz zwischen planmäßiger und tatsächlicher / erwarteter Ankunft am Zielbahnhof. Ankunft (Nummer 18): Türöffnung am Bahnsteig — nicht Halt des Zuges.
-Prüfschritte: DB Fernverkehr AG (ICE, IC, EC) — Stephensonstraße 1, 60326 Frankfurt am Main; DB Regio AG (RE, RB im Auftrag der Bundesländer) — Stephensonstraße 1, 60326 Frankfurt am Main; Konkurrenzanbieter mit eigener PNR: ÖBB-Personenverkehr AG (Wien), FlixTrain GmbH (München), NWB Nordwestbahn, Vlexx, Abellio, Transdev, Go-Ahead etc.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Anspruchsgegner ist das ausführende Eisenbahnverkehrsunternehmen (EVU) — Artikel 19 Absatz 1 VO 2021/782.
-Lieferstück: Fachvotum zu Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. Katalog der DB-Ablehnungsgründe und Gegenargumente
-
-Bearbeitungsauftrag: Beweislast für Ankunftszeit: Im Bestreitensfall liegt die sekundäre Darlegungslast bei der DB — sie verfügt über die internen Betriebsdaten (Leidis-NK / DiRail). Der Fahrgast trägt die Anfangsdarlegungslast, kann diese aber durch DB-Verspätungsbestätigung / DB-Navigator-Screenshot / Foto Anzeigetafel / Zeugen erfüllen.
-Prüfschritte: Pauschale Behauptungen ohne Belege reichen nicht; Typische DB-Formulierung: "Leider können wir Ihrem Antrag nicht entsprechen, da die von Ihnen angegebene Verbindung nicht mit der gebuchten Verbindung übereinstimmt." Bei meinem Ticket handelt es sich um ein Flexpreis-Ticket.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Generell: Beweislast für außergewöhnliche Umstände und die Ergreifung zumutbarer Maßnahmen liegt beim Eisenbahnverkehrsunternehmen (Artikel 19 Absatz 10 VO 2021/782 — Wortlaut "nachweisen kann").
-Lieferstück: Fachvotum zu Katalog der DB-Ablehnungsgründe und Gegenargumente mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.10. Ticket- und Reisedaten erfassen
 

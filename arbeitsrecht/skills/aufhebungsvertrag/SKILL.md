@@ -1,6 +1,6 @@
 ---
 name: aufhebungsvertrag
-description: "Für Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Aufhebungsvertrag: Prüft Schriftform, Beendigungsdatum, Abfindung, Freistellung, Urlaub, Zeugnis, Ausgleich, Sperrzeit, Ruhen und faire Verhandlung; erstellt Redline, Risikomatrix und Abschlusscheck."
 ---
 
 # Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags
@@ -26,7 +26,7 @@ description: "Für Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsv
 
 ## Zweck
 
-Dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: Auflösungsvertrag) zur einvernehmlichen Beendigung eines Arbeitsverhältnisses. Er ist einschlägig, wenn Arbeitgeber und Arbeitnehmer das Arbeitsverhältnis ohne Kündigung zu einem bestimmten Termin beenden wollen. Kernthemen sind die Schriftform nach Paragraf 623 BGB, die sozialrechtlichen Konsequenzen (Sperrzeit Paragraf 159 SGB III), die Abfindungsgestaltung (Paragraf 1a KSchG, Fünftelregelung Paragraf 34 EStG), die Ausgleichsklausel sowie mögliche Anfechtungs- und Widerrufsrechte. Der Skill berücksichtigt sowohl die Arbeitgeber- als auch die Arbeitnehmerperspektive.
+Dient der Prüfung und dem Entwurf eines Aufhebungsvertrags zur einvernehmlichen Beendigung eines Arbeitsverhältnisses. Kernthemen sind Schriftform, Beendigungszeitpunkt, Sperrzeit und Ruhen des Arbeitslosengeldanspruchs, Abfindung, Steuerfolgen, Freistellung, Urlaub, Zeugnis und Ausgleichsklausel. Ein gesetzliches Widerrufsrecht besteht regelmäßig nicht; gesondert zu prüfen sind Willensmängel und das Gebot fairen Verhandelns.
 
 ## Eingaben
 
@@ -50,21 +50,17 @@ Dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: Auflösungsve
 - Paragraf 123 BGB: Anfechtung wegen arglistiger Täuschung oder widerrechtlicher Drohung
 - Paragraf 142 Abs. 1 BGB: Nichtigkeit bei erfolgreicher Anfechtung ex tunc
 - Paragraf 159 SGB III: Sperrzeit beim Arbeitslosengeld (i. d. R. 12 Wochen bei Selbstverschulden der Arbeitslosigkeit; verkürzte Sperrzeit bei wichtigem Grund)
-- Paragrafen 153 Abs. 1, 147 SGB III: Minderung der Anspruchsdauer bei Aufhebungsvertrag (Ruhen des Anspruchs auf ALG I bei Abfindung)
+- Paragraf 158 SGB III: Ruhen des Arbeitslosengeldanspruchs bei Entlassungsentschädigung, wenn die ordentliche Kündigungsfrist nicht eingehalten ist; eine Minderung der Anspruchsdauer nach Paragraf 148 SGB III ist davon getrennt zu prüfen.
 - Paragraf 1a KSchG: Abfindungsanspruch bei betriebsbedingter Kündigung (Halber Monatsverdienst pro Beschäftigungsjahr); als Orientierung auch für Aufhebungsverträge
 - Paragraf 34 Abs. 1, Abs. 2 EStG: Fünftelregelung für Entlassungsentschädigungen (außerordentliche Einkünfte; Tarifermäßigung)
 - Paragraf 24 Nr. 1 lit. a EStG: Entlassungsentschädigungen als steuerpflichtige Einkünfte
 - Paragraf 266a StGB: Vorenthalten und Veruntreuen von Arbeitsentgelt (relevant bei Sozialversicherungsabführung auf Abfindung, grds. keine SV-Pflicht bei echten Entlassungsentschädigungen)
 
-### Leitentscheidungen (BGH-Stil)
+### Leitentscheidungen
 
-- **Widerruf des Aufhebungsvertrags / Überrumpelung:**
-
-- **Sperrzeit bei arbeitgeberseitig veranlasstem Aufhebungsvertrag:**
-
-- **Anfechtung wegen widerrechtlicher Drohung:**
-
-- **Fünftelregelung / Zusammenballung:**
+- BAG, Urteil vom 07.02.2019 - 6 AZR 75/18: Ein arbeitsrechtlicher Aufhebungsvertrag ist nicht nach den Regeln über außerhalb von Geschäftsräumen geschlossene Verträge widerruflich. Das Gebot fairen Verhandelns kann verletzt sein, wenn eine psychische Drucksituation geschaffen oder ausgenutzt wird, welche die freie Entscheidung erheblich erschwert.
+- BAG, Urteil vom 24.02.2022 - 6 AZR 333/21: Die Forderung nach sofortiger Annahme verletzt das Gebot fairen Verhandelns für sich genommen nicht; entscheidend ist die konkrete Verhandlungssituation, nicht eine allgemeine Bedenkzeit.
+- BAG, Urteil vom 12.03.2015 - 6 AZR 82/14: Ein formularmäßiger Klageverzicht kann bei einer mit einer außerordentlichen Kündigung verbundenen Drohung der Inhaltskontrolle unterliegen; Tragfähigkeit der Kündigungsdrohung und Gegenleistung sind konkret zu prüfen.
 
 ### Quellenregel
 
@@ -76,8 +72,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 1. **Initiator**: Geht der Impuls vom Arbeitgeber aus → Sperrzeit-Risiko erhöht; Abfindung als Gegenleistung besonders wichtig.
 2. **Alternativen vergleichen**: Kündigung vs. Aufhebungsvertrag (Kündigungsschutzrisiko, Kosten, Zeit, Image).
-3. **Betriebsrat informieren** (keine Zustimmung erforderlich, aber Information empfehlenswert, Paragraf 80 BetrVG).
-4. **Verhandlungsstrategie**: Abfindungshöhe, Freistellung, Zeugnis-Formulierung (mind. "zur vollsten Zufriedenheit"), Outplacement, Betriebliche Altersversorgung (unverfallbare Anwartschaften Paragraf 1b BetrAVG).
+3. **Beteiligungsrechte trennen**: Der einzelne Aufhebungsvertrag löst grundsätzlich weder eine Anhörung nach Paragraf 102 BetrVG noch ein Zustimmungsrecht des Betriebsrats aus. Informations- und Beratungsrechte bei Personalplanung, Betriebsänderung oder Massenentlassung sind gesondert zu prüfen.
+4. **Verhandlungsstrategie**: Abfindungshöhe, Freistellung, gewünschte Zeugnisnote und Schlussformel, Outplacement und betriebliche Altersversorgung einschließlich unverfallbarer Anwartschaften nach Paragraf 1b BetrAVG festlegen.
 
 ### Schritt 2 – Schriftform und Vertragsabschluss (Paragraf 623 BGB)
 
@@ -90,7 +86,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Situation | Sperrzeit-Risiko |
 |---|---|
 | Arbeitnehmerseitige Initiative ohne wichtigen Grund | Hohe Sperrzeit (12 Wochen) |
-| Abfindung ≥ 0,25 Monatsgehalt pro Beschäftigungsjahr | Indiz für wichtigen Grund |
+| Arbeitgeber kündigt andernfalls mit Bestimmtheit betriebsbedingt; Beendigungszeitpunkt und Abfindung entsprechen den aktuellen fachlichen Weisungen | Wichtiger Grund möglich; Voraussetzungen und jeweils geltende Verwaltungspraxis vollständig prüfen |
 | Abfindung schließt ALG-Ruhen aus (Paragraf 158 SGB III) | Ruhenszeitraum prüfen |
 
 - Mandant über Sperrzeit und ALG-Ruhen **aufklären** und Aufklärung dokumentieren.
@@ -101,7 +97,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Berechnung nach Paragraf 1a KSchG** (als Orientierung): 0,5 Monatsverdienste pro Beschäftigungsjahr; häufig verhandlungsrelevanter Ausgangspunkt.
 - **Monatsverdienst**: Bruttomonatsgehalt inkl. regelmäßiger Zulagen, anteiliger Sonderzahlungen.
 - **Fälligkeit**: Im Aufhebungsvertrag ausdrücklich regeln (i. d. R. bei Beendigung oder Monatsletztem danach).
-- **Sozialversicherungspflicht**: Echte Entlassungsentschädigung ist grds. sozialversicherungsfrei (Paragraf 1 Abs. 1 Satz 1 Nr. 1 SvEV); bei Anrechnung auf ALG-Ruhen beachten.
+- **Sozialversicherung**: Eine echte Entlassungsentschädigung ist mangels Zuordnung zur Beschäftigungszeit regelmäßig kein Arbeitsentgelt im Sinne des Paragraf 14 SGB IV. Entgelt-, Bonus-, Urlaubs- oder Freistellungskomponenten bleiben dagegen nach ihrem wirklichen Rechtsgrund zu prüfen und dürfen nicht nur als Abfindung bezeichnet werden.
 
 ### Schritt 5 – Ausgleichsklausel
 
@@ -110,7 +106,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
  - Ansprüche aus betrieblicher Altersversorgung (Paragrafen 1b, 7 BetrAVG)
  - Laufende Entgeltansprüche bis Beendigung
  - Ansprüche aus deliktischen Handlungen
- - Betriebsrat-Widerspruchsrecht
 - Einbeziehung von Ausgleichsklausel in Verhandlung: Arbeitnehmer muss wissen, auf welche Ansprüche er verzichtet.
 
 ### Schritt 6 – Weitere Regelungspunkte
@@ -132,33 +127,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Fehler | Konsequenz | Abhilfe |
 |---|---|---|
 | Verstoß gegen Schriftform (Paragraf 623 BGB) | Aufhebungsvertrag nichtig (Paragraf 125 BGB) | Eigenhändige Unterschrift auf derselben Urkunde |
-| Keine Überlegungsfrist eingeräumt | Anfechtbarkeit wegen Überrumpelung / widerrechtlicher Drohung | Angemessene Bedenkzeit gewähren, dokumentieren |
+| Sofortige Annahme wird automatisch als Unwirksamkeitsgrund behandelt | Falsche Bewertung; eine allgemeine Bedenkzeit verlangt die Rechtsprechung nicht | Konkrete Verhandlungssituation auf Überrumpelung, erkennbare Schwäche, Drohung und Ausweichmöglichkeit prüfen |
 | Sperrzeit nicht aufgeklärt | Mandantenhaftung, Beratungspflichtverletzung | Schriftliche Aufklärung über Sperrzeit-Risiko |
 | Abfindung in zwei VZ aufgeteilt | Verlust Fünftelregelung Paragraf 34 EStG | Einmalzahlung; Steuerberatung |
 | Fehlende Ausnahmeregelung in Ausgleichsklausel | Verlust von BV-Anwartschaften, deliktischen Ansprüchen | Ausnahmen ausdrücklich benennen |
 | Unwiderrufliche Freistellung ohne SV-Prüfung | SV-Fehler, Nachzahlungspflichten | SV-Beratung bei langer Freistellungsphase |
-| Paragraf 203 StGB / Datenschutz | Strafbarkeit bei unbefugter Datenweitergabe | Mandantendaten nur in zulässigen Systemen |
-| Keine Prüfung Sonderkündigungsschutz | Aufhebungsvertrag ggf. unwirksam (z. B. Paragraf 9 MuSchG) | Sonderschutz vorab abklären |
-
-## DSGVO-Auskunftsersuchen als Verhandlungshebel bei Aufhebungsverträgen
-
-**Typische Konstellation:** Während laufender Aufhebungsvertragsverhandlungen stellen Arbeitnehmer oder deren Bevollmächtigte ein Auskunftsersuchen nach Art. 15 DSGVO, um internen Druck auf den Arbeitgeber aufzubauen und die Abfindungshöhe zu treiben. Das Auskunftsersuchen dient dabei weniger dem Schutz personenbezogener Daten als vielmehr der Verhandlungsführung.
-
-Ein Auskunftsersuchen kann nach Art. 12 Abs. 5 S. 2 DSGVO als exzessiv abgelehnt werden, wenn der Arbeitgeber zwei Elemente kumulativ nachweist:
-
-1. **Objektives Element:** Äußere Umstände, die auf missbräuchliche Zweckverfolgung hindeuten — insbesondere der zeitliche Zusammenhang zwischen Aufhebungsverhandlung und Auskunftsantrag, massenhaftes Legal-Tech-Vorgehen oder fehlende inhaltliche Anbindung des Auskunftsersuchens an Datenschutzinteressen.
-2. **Subjektives Element:** Missbräuchliche Absicht — das Ersuchen dient vorrangig dazu, Schadensersatz nach Art. 82 DSGVO zu generieren oder Verhandlungsdruck auszuüben.
-
-Die Hürden sind **hoch**: Das Auskunftsrecht nach Art. 15 DSGVO ist ein Grundrecht; ein einzelner Antrag genügt nicht, um Missbrauch anzunehmen. Die Generalanwältin (GA Szpunar, Schlussanträge v. 12.09.2025 – C-526/24) betonte, dass nur außerordentliche Umstände die Ausnahmewirkung rechtfertigen.
-
-**BAG-Linie zum immateriellen Schaden nach Art. 82 DSGVO:**
-
-**Praxishinweise:**
-- **Nicht ignorieren:** Auch ein im Verdacht der Missbräuchlichkeit stehendes Auskunftsersuchen muss fristgerecht beantwortet oder zumindest beschieden werden (Art. 12 Abs. 3 DSGVO: einen Monat). Eine unberechtigte Ablehnung löst eigenständige Schadensersatzansprüche nach Art. 82 DSGVO aus.
-- **Dokumentation anlegen:** Datum der Aufhebungsverhandlung, Datum des Auskunftsersuchens, verwendete Legal-Tech-Vollmacht, Muster bei anderen Mitarbeitern — diese Dokumente bilden die Grundlage für einen späteren Missbrauchseinwand.
-- **Ausgleichsklausel:** Beim Aufhebungsvertrag prüfen, ob laufende oder angekündigte DSGVO-Auskunftsverfahren sowie etwaige Art.-82-DSGVO-Schadensersatzansprüche in die Ausgleichsklausel einbezogen werden sollen; andernfalls sind sie nach Vertragsschluss weiter verfügbar.
-
-Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGVO-Auskunftsersuchen als Druckmittel).
+| Sonderkündigungsschutz wird mit einem Verbot des Aufhebungsvertrags gleichgesetzt | Verhandlungsmacht, Behördenzustimmung für eine Kündigung und Sozialleistungsfolgen werden verkannt | Schutzstatus und eine nur alternativ erwogene Kündigung getrennt prüfen; Paragraf 17 MuSchG betrifft die Kündigung, nicht den freiwilligen Vertragsschluss |
 
 ## Quellenpflicht
 

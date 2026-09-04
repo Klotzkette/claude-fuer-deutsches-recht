@@ -50,7 +50,7 @@ Bevor losgelegt wird, klaere:
 - **Art. 288 Abs. 3 AEUV** — Richtlinie: verbindliches Ziel; Form und Mittel den MS ueberlassen
 - **Art. 4 Abs. 3 EUV** — Umsetzungspflicht; Loyalitaetsgebot
 - **Art. 267 AEUV** — Vorabentscheidungsverfahren bei Auslegungsfragen
-- **§ 4a TMG / § 29b UStG etc.** — nationale Umsetzungsgesetze (Bsp. DSGVO-Ergaenzungsgesetze)
+- Nationales Umsetzungsrecht immer anhand der konkreten Richtlinie und der amtlichen Umsetzungshinweise bestimmen. Das frühere TMG wurde durch das Digitale-Dienste-Gesetz abgelöst; Verordnungen wie die DSGVO gelten unmittelbar und werden nicht als Richtlinie umgesetzt. Unbestimmte Sammelverweise und fachfremde UStG-Normen nicht verwenden.
 
 ## Output-Template: Umsetzungspruefung Richtlinie
 

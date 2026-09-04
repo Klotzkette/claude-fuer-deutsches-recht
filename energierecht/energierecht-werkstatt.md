@@ -178,12 +178,12 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | EEG, KWKG und Erzeugung erneuerbarer Energien | Förder-Bezug (EEG-Vergütung, KWKG-Zuschlag, BImSchG-Genehmigung, Investitions-Förderung). Vermarktung über Direktvermarkter; EEG zahlt Marktprämie als Differenz zwischen anzulegendem Wert und Marktpreis. | Fachvotum zu EEG, KWKG und Erzeugung erneuerbarer Energien mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Energie-Transaktionen und Due Diligence | Genehmigungen über Paragraf 16 BImSchG Wechsel-Anzeige. Aber: Steuerliche und haftungsrechtliche Erbschaft. Steuerliche Optimierung (Anschaffungs-Kosten, Abschreibungen) | Fachvotum zu Energie-Transaktionen und Due Diligence mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Fusion: Sicherheitsnachweis und Störfalllogik | Der Skill trennt Fusionsrisiken von Spaltungsrisiken und verlangt trotzdem belastbare Nachweise. AtG/StrlSchG/BImSchG, Katastrophenschutzrecht, EU-Sicherheitsrecht, Gutachten. | Fachvotum zu Fusion: Sicherheitsnachweis und Störfalllogik mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Ladeinfrastruktur-Vertragskette | Bearbeite Ladeinfrastruktur-Vertragskette entlang der Energie-, Netz-, Wärme- und Projektregulierung-Prüflinie: Marktrolle und Anlage: Betreiber, Lieferant, Anschlussnehmer, Bilanzkreis, Messstelle, Netzebene, Standort. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Netz- und Speicher-Zugang | Anschluss-Pflicht Verteilnetzbetreiber für EE-Anlagen vorrangig Paragraf 8 EEG. Sonstige Anlagen Paragraf 17 EnWG, Verhältnismäßigkeits-Prüfung. Pflichtbestätigung mit Kosten-Schätzung binnen 8 Wochen | Fristenblatt zu Netz- und Speicher-Zugang mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Vertrieb und Marktrollen | Grundversorgungs-Verordnung (StromGVV / GasGVV) als AGB. Veröffentlichungs-Pflicht im Internet und im Versorgungsgebiet. Schriftliche Mitteilung an Kunden mit 6 Wochen Vorlauf Paragraf 5 Absatz 2 StromGVV / GasGVV | Fachvotum zu Vertrieb und Marktrollen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Behördenstrategie und Bürgerkommunikation | VwVfG, BauGB-Beteiligung, BImSchG-Verfahren, Informationsfreiheits-/Umweltinformationsrecht. Genehmigungs-, Netz-, Sicherheits-, Markt- und Vertragsfragen in getrennte Spuren legen. | Fachvotum zu Behördenstrategie und Bürgerkommunikation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Infrastrukturprojekte und Planfeststellung | Vorhabentyp (Stromtrasse / Gas-Pipeline / LNG-Terminal / Offshore-Wind / H2-Pipeline). Verfahrens-Stand (Bundesfachplanung / Planfeststellung / Bau / Betrieb). Planfeststellung durch zuständige Landesbehörden | Fachvotum zu Infrastrukturprojekte und Planfeststellung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Kommunale Stadtwerke, Vergabe und Beihilfe | Standort, Technik, Netzebene, Leistung, Kapazität, Betriebsmodell und Dokumentenstand erfassen. Genehmigungs-, Netz-, Sicherheits-, Markt- und Vertragsfragen in getrennte Spuren legen. | Fachvotum zu Kommunale Stadtwerke, Vergabe und Beihilfe mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Ladeinfrastruktur-Vertragskette | Bearbeite Ladeinfrastruktur-Vertragskette als konkreten Vorgang im Gebiet Energie-, Netz-, Wärme- und Projektregulierung. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -206,38 +206,38 @@ Lieferstück: Fachvotum zu Energie-Transaktionen und Due Diligence mit Tatbestan
 Bearbeitungsauftrag: Der Skill trennt Fusionsrisiken von Spaltungsrisiken und verlangt trotzdem belastbare Nachweise. AtG/StrlSchG/BImSchG, Katastrophenschutzrecht, EU-Sicherheitsrecht, Gutachten. Konkrete Nachforderungen an Vorhabenträger und Behördenstrategie ausgeben.
 Lieferstück: Fachvotum zu Fusion: Sicherheitsnachweis und Störfalllogik mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Ladeinfrastruktur-Vertragskette
-
-Bearbeitungsauftrag: Bearbeite Ladeinfrastruktur-Vertragskette entlang der Energie-, Netz-, Wärme- und Projektregulierung-Prüflinie: Marktrolle und Anlage: Betreiber, Lieferant, Anschlussnehmer, Bilanzkreis, Messstelle, Netzebene, Standort, Leistung und Inbetriebnahme. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.5. Netz- und Speicher-Zugang
+### 16.4. Netz- und Speicher-Zugang
 
 Bearbeitungsauftrag: Anschluss-Pflicht Verteilnetzbetreiber für EE-Anlagen vorrangig Paragraf 8 EEG. Sonstige Anlagen Paragraf 17 EnWG, Verhältnismäßigkeits-Prüfung. Pflichtbestätigung mit Kosten-Schätzung binnen 8 Wochen.
 Lieferstück: Fristenblatt zu Netz- und Speicher-Zugang mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.6. Vertrieb und Marktrollen
+### 16.5. Vertrieb und Marktrollen
 
 Bearbeitungsauftrag: Grundversorgungs-Verordnung (StromGVV / GasGVV) als AGB. Veröffentlichungs-Pflicht im Internet und im Versorgungsgebiet. Schriftliche Mitteilung an Kunden mit 6 Wochen Vorlauf Paragraf 5 Absatz 2 StromGVV / GasGVV.
 Prüfschritte: Mandant (Versorger / Endkunde / Direktvermarkter / Bilanzkreis-Verantwortlicher); Vertragsart (Grundversorgung / Sondervertrag / Industrie-Sondervertrag / PPA); Streit-Anlass (Preiserhöhung, Vertragsende, Wechsel-Verzögerung, AGB-Klausel); Jeder zugelassene Energieversorger mit größtem Marktanteil im Netzgebiet Niederspannung / Gas-Niederdruck; Versorgungs-Pflicht für jeden Haushaltskunden, der sich nicht aktiv für einen anderen Vertrag entschieden hat.
 Lieferstück: Fachvotum zu Vertrieb und Marktrollen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Behördenstrategie und Bürgerkommunikation
+### 16.6. Behördenstrategie und Bürgerkommunikation
 
 Bearbeitungsauftrag: VwVfG, BauGB-Beteiligung, BImSchG-Verfahren, Informationsfreiheits-/Umweltinformationsrecht. Genehmigungs-, Netz-, Sicherheits-, Markt- und Vertragsfragen in getrennte Spuren legen. Rote Punkte mit Belegen, zuständiger Stelle, Frist und konkretem nächsten Dokument ausgeben.
 Lieferstück: Fachvotum zu Behördenstrategie und Bürgerkommunikation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Infrastrukturprojekte und Planfeststellung
+### 16.7. Infrastrukturprojekte und Planfeststellung
 
 Bearbeitungsauftrag: Vorhabentyp (Stromtrasse / Gas-Pipeline / LNG-Terminal / Offshore-Wind / H2-Pipeline). Verfahrens-Stand (Bundesfachplanung / Planfeststellung / Bau / Betrieb). Planfeststellung durch zuständige Landesbehörden.
 Prüfschritte: Mandant (Vorhabenträger / Anlieger / Umweltverband / Behörde); Behördliche Zuständigkeit (BNetzA / BSH / Land); 24 wesentliche Übertragungs-Stromleitungen Bundeskompetenz; Bestand seit 2009, Aktualisierung über Bundesbedarfsplan; Verkürzte Klage-Fristen (1 Monat statt 1 Jahr).
 Lieferstück: Fachvotum zu Infrastrukturprojekte und Planfeststellung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Kommunale Stadtwerke, Vergabe und Beihilfe
+### 16.8. Kommunale Stadtwerke, Vergabe und Beihilfe
 
 Bearbeitungsauftrag: Standort, Technik, Netzebene, Leistung, Kapazität, Betriebsmodell und Dokumentenstand erfassen. Genehmigungs-, Netz-, Sicherheits-, Markt- und Vertragsfragen in getrennte Spuren legen. Rote Punkte mit Belegen, zuständiger Stelle, Frist und konkretem nächsten Dokument ausgeben.
 Prüfschritte: Fokus auf Partnerauswahl, EPC, O&M, Speichervermarktung und Fördermittel; GWB/VgV/SektVO, EU-Beihilferecht, Kommunalrecht, Konzernrecht.
 Lieferstück: Fachvotum zu Kommunale Stadtwerke, Vergabe und Beihilfe mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.9. Ladeinfrastruktur-Vertragskette
+
+Bearbeitungsauftrag: Bearbeite Ladeinfrastruktur-Vertragskette als konkreten Vorgang im Gebiet Energie-, Netz-, Wärme- und Projektregulierung. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.10. Wärme, Quartier und Fernwärme
 

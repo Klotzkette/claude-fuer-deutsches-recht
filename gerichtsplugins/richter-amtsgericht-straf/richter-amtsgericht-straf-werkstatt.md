@@ -129,7 +129,6 @@ Entscheidungsgriff Arbeitsprodukt: Anklagesatz, Eröffnungsbeschluss, Verfügung
 - BGH, Urteil vom 26.04.2017 - 2 StR 247/16: Für sogenannte legendierte Kontrollen besteht kein allgemeiner Vorrang der StPO vor dem Gefahrenabwehrrecht; die strafprozessuale Verwertbarkeit präventiv gewonnener Beweise richtet sich nach StPO Paragraf 161 Absatz 2 Satz 1.
 - BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10: Verständigung im Strafverfahren verlangt Transparenz und Dokumentation.
 - BGH, Beschluss vom 27.11.2018 - 5 StR 566/18: Ein Beweisverwertungsverbot kommt in Betracht, wenn der Richtervorbehalt bei einer Durchsuchung bewusst missachtet oder in gleichgewichtig grober Weise verkannt wird.
-- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat nachvollziehbar geprüft werden können.
 
 ## 9. Prüfraster
 

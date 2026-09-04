@@ -1,309 +1,76 @@
 ---
 name: fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out
-description: "Für TDM Paragraf 44b UrhG – digitale Werkzeuge-Training und Opt-out: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Ansprüche wegen Text und Data Mining für Modelltraining. Trennt Rechtekette, konkrete Vervielfältigung, Rechtevorbehalt, Forschungsschranke und spätere Nutzung, entwickelt eine Beweisstrategie und erstellt Abmahnung, bestimmte Klageanträge, Erwiderung oder Lizenzvorschlag."
 ---
 
-# TDM § 44b UrhG – KI-Training und Opt-out
+# Anspruchsdurchsetzung bei Text und Data Mining
 
-## Kernsachverhalt & Mandantenfragen
+## 1. Zweck und Direktstart
 
-Das Training großer KI-Modelle (LLMs, Bildgeneratoren, Musikgeneratoren) erfordert riesige Datenmengen. Diese werden aus dem öffentlichen Internet geerntet – oft ohne Einwilligung der Rechteinhaber. § 44b UrhG erlaubt Text- und Data-Mining grundsätzlich als Schranke, aber nur wenn der Rechteinhaber kein maschinenlesbares Opt-out gesetzt hat. Diese neue Rechtslage schafft erheblichen Beratungsbedarf für Verlage, Fotografen, Musiker, Datenbankbetreiber und Plattformbetreiber.
+Lies die Akte und beginne mit einer Anspruchs- und Beweismatrix. Frage nur nach, wenn Anspruchsgegner, Rechteinhaberschaft, konkrete Nutzungshandlung oder Eilbedürftigkeit nicht bestimmbar sind. Erstelle anschließend das gewünschte Arbeitsprodukt: Erstbewertung, Abmahnung, Klage, Erwiderung, Eilantrag oder Lizenzvorschlag.
 
-**8 Kaltstart-Rückfragen:**
+## 2. Eingaben
 
-1. Was ist die Art des Werks (Text, Bild, Musik, Datenbank) und wo ist es online verfügbar?
-2. Wurde ein maschinenlesbares Opt-out gesetzt (Robots.txt, Meta-Tag, TDM-Reservation-Notice)?
-3. Falls kein Opt-out vorhanden: Was war der Zeitpunkt der Erstellung des Werks und wann wurde es online gestellt?
-4. Gibt es Anhaltspunkte, dass ein spezifisches KI-Modell mit dem Werk trainiert wurde (Output-Test, Datensatz-Listen)?
-5. Wer ist der KI-Anbieter und hat er einen EU-Sitz oder Auftragsverarbeiter in der EU?
-6. Hat der KI-Anbieter im Rahmen der KI-Verordnung (VO (EU) 2024/1689) Transparenzpflichten zu erfüllen?
-7. Besteht Interesse an einer nachträglichen Lizenzverhandlung oder primär an Unterlassungs- und Schadensersatzansprüchen?
-8. Ist der Mandant Einzelurheber oder Mitglied einer Verwertungsgesellschaft (VG Wort, GEMA, VG Bild-Kunst)?
+Benötigt werden Originalwerk, Rechtekette, behauptete Nutzungsnachweise, Veröffentlichungs- und Vorbehaltsfassungen, technische Protokolle, Korrespondenz und Angaben zum Anspruchsgegner. Stelle vorhandene Tatsachen, Fremdauskünfte und technische Schlussfolgerungen getrennt dar.
 
----
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+## 3. Anspruchsprüfung
 
-## Rechtsgrundlagen
+### 3.1. Aktivlegitimation und Handlung
 
-| Norm | Inhalt |
-|---|---|
-| § 44b UrhG | Text- und Data-Mining-Ausnahme: erlaubt Vervielfältigung für TDM wenn kein Opt-out; in Kraft seit 07.06.2021 |
-| § 44b Abs. 3 UrhG | Opt-out-Möglichkeit des Rechteinhabers: maschinenlesbar; Wirkung nur für zukünftige TDM-Vorgänge |
-| § 60d UrhG | TDM für wissenschaftliche Forschung: weitreichendere Erlaubnis; kommerzieller KI-Anbieter greift hier nicht |
-| § 87a ff. UrhG | Datenbankschutz: Datenbankwerk und einfache Datenbank; TDM-Ausnahme gilt auch für § 87b UrhG (§ 87c Abs. 1 Nr. 3 UrhG) |
-| § 97 UrhG | Unterlassungsanspruch bei Verletzung |
-| § 97a UrhG | Abmahnung und Abmahnkosten |
-| § 101 UrhG | Auskunftsanspruch gegen KI-Anbieter über Umfang der Werknutzung |
-| Art. 4 DSM-RL (EU) 2019/790 | Vorlage für § 44b UrhG; maschinenlesbares Opt-out als Option für Rechteinhaber |
-| Art. 53 KI-VO (VO (EU) 2024/1689) | Transparenzpflichten für Anbieter allgemeiner KI-Modelle (General-Purpose AI); Veröffentlichung von Zusammenfassung der Trainingsdaten |
-| DSGVO Art. 5, 6 | Wenn TDM personenbezogene Daten enthält: Rechtsgrundlage für Verarbeitung notwendig |
+Prüfe Urheberschaft, ausschließliche Nutzungsrechte, Rechtegebiet, Laufzeit und Prozessführungsbefugnis für jeden Schutzgegenstand. Unterscheide Werk, Lichtbild, Datenbankwerk und Datenbankherstellerrecht.
 
----
+Zerlege den Ablauf in Abruf, Vervielfältigung, Aufbereitung, Analyse, Datensatzbildung, Vorhalten, Weitergabe, Training und Ausgabe. Ordne jeder Handlung einen Akteur, Zeitpunkt, Ort, Beleg und Erlaubnistatbestand zu. Ein allgemeiner Vorwurf zum Modelltraining ersetzt keinen konkreten Verletzungsvortrag.
 
-## Leitentscheidungen
+### 3.2. Schranken
 
-| Aktenzeichen | Gericht / Datum | Leitsatz |
-|---|---|---|
-| US District Court NY (Reuters vs. Ross) | US District Court, 11.02.2025 | Fair Use abgelehnt: Training eines KI-Recherchetools mit Rechtsartikeln ist keine transformative Nutzung; kommerzieller Zweck schadet |
+| Station | Norm | Tatsachenfrage |
+| --- | --- | --- |
+| Allgemeines Text und Data Mining | Paragraf 44b Absätze 1 und 2 UrhG | automatisierte Analyse, rechtmäßiger Zugang, erforderliche Kopie und Löschung |
+| Rechtevorbehalt | Paragraf 44b Absatz 3 UrhG | Berechtigung, Werkbezug, Zeitpunkt und Maschinenlesbarkeit bei Onlinewerken |
+| Wissenschaftliche Forschung | Paragraf 60d UrhG | Forschungszweck, privilegierte Organisation, Unternehmenseinfluss und bevorzugter Zugang |
+| Datenbankherstellerrecht | Paragrafen 87a bis 87c UrhG | wesentlicher Teil oder wiederholte systematische Entnahme; Nummer 4 für Paragraf 44b, Nummer 5 für Paragraf 60d |
+| Unionsrechtlicher Rahmen | Artikel 4 Richtlinie EU 2019/790 | unionsrechtskonforme Auslegung des Vorbehalts und der allgemeinen Schranke |
 
----
+Ein fehlender Vorbehalt entscheidet nur über einen Teil der Prüfung. Ein wirksamer Vorbehalt beseitigt die Erlaubnis nach Paragraf 44b Absatz 2, belegt aber weder die Verletzungshandlung noch Verschulden und Schaden. Paragraf 60d ist eigenständig zu prüfen.
 
-## Prüfschema TDM / Opt-out
+### 3.3. Beweis und Darlegung
 
-| Schritt | Inhalt | Grundlage |
-|---|---|---|
-| 1 | Werkschutz prüfen: Urheberrechtlich geschütztes Werk (§ 2 UrhG) oder Datenbankschutz (§ 87a UrhG)? | § 2, § 87a UrhG |
-| 2 | TDM-Handlung identifizieren: Welche KI-Anbieter haben das Werk erfasst? Common-Data-Index, LAION, Books3, Pile-Datensätze? | § 44b Abs. 1 UrhG |
-| 3 | Opt-out-Status zum Trainings-Zeitpunkt: War ein maschinenlesbares Opt-out vorhanden (Robots.txt, Meta-Tag, TDM-Notice)? | § 44b Abs. 3 UrhG |
-| 4 | Wissenschaftliche vs. kommerzielle Nutzung: § 60d UrhG (Forschung) oder § 44b UrhG (allgemein)? Kommerzieller Anbieter = § 44b einschlägig | § 60d, § 44b UrhG |
-| 5 | Nachweis der Nutzung: Output-Test des KI-Modells; Datensatz-Audits (LAION-Explorer, HuggingFace-Datensets); Wasserzeichenanalyse | § 101 UrhG |
-| 6 | KI-VO Transparenzpflicht Art. 53: Hat Anbieter Trainingsdaten-Zusammenfassung veröffentlicht? Anhaltspunkte für Werk im Datenset? | Art. 53 KI-VO |
-| 7 | Auskunftsanspruch § 101 UrhG: Anspruch gegen KI-Anbieter auf Auskunft über Verwendung des Werks | § 101 UrhG |
-| 8 | Abmahnung formulieren § 97a UrhG: Verletzungshandlung benennen; Opt-out und dessen Umgehung konkret | § 97a UrhG |
-| 9 | Opt-out sofort nachrüsten: Robots.txt alle relevanten Bots; Meta-Tags auf allen Seiten; TDM-Notice | § 44b Abs. 3 UrhG |
-| 10 | Lizenzverhandlung: Rückwirkende Lizenz; Media-Manager-Programme der KI-Anbieter nutzen | § 44b UrhG |
-| 11 | Kollektivwahrnehmung: VG Wort, GEMA, VG Bild-Kunst – Pflichtmitgliedschaft prüfen; kollektive Lizenzierung | § 51c UrhG |
-| 12 | Schadensersatz berechnen: Lizenzanalogie; fehlender Opt-out → kein Anspruch; Opt-out vorhanden → voller Schadensersatz | § 97 Abs. 2 UrhG |
+Der Anspruchsteller muss Schutzgegenstand, Rechteinhaberschaft und konkrete Verletzung substantiiert darlegen. Der auf eine Schranke gestützte Einwand ist anhand ihrer Voraussetzungen zu prüfen. Bestimme die Darlegungs- und Beweislast für jedes streitige Merkmal; begründe jede behauptete sekundäre Darlegungslast gesondert.
 
----
+Erstelle eine Tabelle mit Behauptung, Konkretisierung, Beleg, Gegenposition, Beweismittel und verbleibendem Risiko. Eine Systemausgabe oder allgemeine Datensatzbeschreibung begründet keine automatische Beweisvermutung für jede behauptete Trainingshandlung.
 
-## Strategische Optionen (vor dem Template entscheiden)
+### 3.4. Rechtsfolgen
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+[Paragraf 97 Absatz 1 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html): Prüfe Wiederholungs- oder Erstbegehungsgefahr. Begrenze den Unterlassungsantrag auf die bestimmte Verletzungsform. Werk, Nutzung und Reichweite müssen vollstreckbar bezeichnet sein.
 
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — TDM § 44b UrhG KI-Training Opt-Out | Opt-Out-Erklaerung; Template unten |
-| Variante A — Mandant will KI-Training erlauben | Lizenzvertrag statt Opt-Out; gesonderte Verguetung |
-| Variante B — Bereits laufendes KI-Training | Opt-Out fuer Zukunft; Schadensersatz fuer Vergangenheit pruefen |
-| Variante C — EU-DSA / Digital-Markets-Act beruehrt | Plattform-spezifische Opt-Out-Mechanismen zusaetzlich |
+Paragraf 97 Absatz 2 UrhG: Prüfe Verschulden und wähle konkrete Schadensberechnung, Verletzergewinn oder Lizenzanalogie anhand der Tatsachen. Ein Lizenzwert ist zu begründen; keine pauschalen Beträge oder Multiplikatoren erfinden.
 
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+[Paragraf 101 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html): Prüfe Verletzungslage, Anspruchsgegner, Gewerbsmäßigkeit, konkrete Information und Verhältnismäßigkeit. Die Norm ist kein allgemeiner Anspruch auf Offenlegung sämtlicher Trainingsdaten. Auskunft über Herkunft und Vertriebswege, Rechnungslegung und prozessuale Vorlage sind nach ihrer jeweiligen Grundlage zu unterscheiden.
 
+Paragraf 98 UrhG: Vernichtung und Rückruf an den konkreten Gegenstand und die Verhältnismäßigkeit binden. Paragraf 102 UrhG: Verjährung mit Entstehung, Kenntnis, Höchstfrist und Hemmung nach dem BGB berechnen.
 
-## Schriftsatzbausteine
+### 3.5. Abmahnung und Prozess
 
-### Baustein 1 – TDM Reservation Notice (maschinenlesbar)
+Eine Abmahnung nach Paragraf 97a UrhG benennt Werk, Rechtekette, Handlung, Beleg und Forderung. Unterlassung, Auskunft, Beseitigung, Kosten und Schadensersatz werden getrennt begründet. Die Frist folgt Dringlichkeit und zumutbarer Reaktionsmöglichkeit.
 
-```html
-<!-- Einbinden in <head> jeder HTML-Seite -->
-<meta name="robots" content="noai, noimageai">
+Im Eilverfahren Verfügungsanspruch, Verfügungsgrund, Bestimmtheit, Glaubhaftmachung und konkrete Dringlichkeitspraxis prüfen. In der Hauptsache jeden Antrag mit seinem Tatsachenblock und den Anlagen verbinden. Sachverständigenfragen betreffen technische Tatsachen; die Rechtsanwendung bleibt beim Gericht.
 
-<!-- Für alle bekannten KI-Abrufwerkzeuge: Robots.txt -->
-User-agent: GPTBot
-Disallow: /
+## 4. Rechtsprechung und Quellenpflicht
 
-User-agent: ChatGPT-User
-Disallow: /
+LG Hamburg, Urteil vom 27. September 2024, 310 O 227/23, betrifft den Download einer Fotografie für einen Bild-Text-Datensatz im konkreten Forschungszusammenhang. Nutze die Entscheidung für Paragraf 60d und die dort erörterte Vorbehaltslage, ohne sie auf sämtliche Modellnutzungen auszudehnen. Die [amtliche Pressemitteilung](https://justiz.hamburg.de/gerichte/oberlandesgericht/gerichtspressestelle/ki-und-urheberrecht-landgericht-hamburg-weist-klage-ab-1157660) ist ein Rechercheeinstieg, kein Volltextzitat.
 
-User-agent: Google-Extended
-Disallow: /
+OLG Hamburg, Urteil vom 10. Dezember 2025, 5 U 104/24: Die [amtliche Mitteilung](https://justiz.hamburg.de/gerichte/oberlandesgericht/gerichtspressestelle/ki-und-urheberrecht-hanseatisches-oberlandesgericht-weist-berufung-zurueck-1126528) nennt zusätzlich Paragraf 44b als tragende Grundlage, weil der konkrete Vorbehalt nicht maschinenlesbar war, und bestätigt die Forschungsschranke. Revision zugelassen. Beide Begründungswege sind bei einer Abgrenzung zu behandeln.
 
-User-agent: CCBot
-Disallow: /
+Vor dem Schriftsatz dem amtlichen Volltext und aktuellen Folgeentscheidungen nachgehen. Erfasse genaue Fundstelle, tragenden Satz, Sachverhaltsabweichung und Verfahrensstand. Ausländische Fair-Use-Entscheidungen ersetzen die deutsche und unionsrechtliche Schrankenprüfung nicht. Zitierweise nach `references/zitierweise.md`.
 
-User-agent: anthropic-ai
-Disallow: /
+## 5. Ausgabeformat
 
-User-agent: Claude-Web
-Disallow: /
+Liefere eine begründete Chancen-Risiken-Entscheidung, Anspruchs- und Beweismatrix und den konkret beauftragten Entwurf. Endprodukte bestehen aus vollständigen Sätzen; keine bloßen Klauselskelette oder Stichwortausgaben. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung.
 
-User-agent: cohere-ai
-Disallow: /
+Die stärkste Gegenposition wird ausdrücklich verarbeitet: fehlende Rechte, nicht nachgewiesene Handlung, rechtmäßiger Zugang, verspäteter Vorbehalt, Forschungsschranke, unerhebliche Datenbankentnahme, fehlendes Verschulden, unbelegter Schaden, Unbestimmtheit oder Verjährung.
 
-User-agent: Omgilibot
-Disallow: /
+## 6. Anwendungsvarianten
 
-User-agent: FacebookBot
-Disallow: /
+Bei einer belegten Kopie trotz rechtzeitigem Vorbehalt stehen Handlung und Schranken im Vordergrund. Bei einem bloß ähnlichen Output beginnt die Arbeit mit einer belastbaren Nutzungshypothese und Beweissicherung. Bei einem Forschungsdatensatz sind Organisation und Zweck entscheidend. Bei gewünschter Lizenzierung werden Nutzungsumfang, Bestand, Dauer, Vergütung und Nachweisrechte ausgehandelt; kollektive Lizenzen richten sich gegebenenfalls nach Paragrafen 51 ff. VGG.
 
-# Generelle TDM-Reservation gemäß § 44b Abs. 3 UrhG /
-# Art. 4 Abs. 3 DSM-RL / Art. 53 KI-VO
-# Text and Data Mining for AI Training: PROHIBITED
-# TDM Reservation Notice: no AI training on this content
-# Stand: [Datum]
-```
-
-```
-<!-- EXIF/Metadaten für Bilder -->
-Copyright: [Name] [Jahr]
-Rights: TDM Reservation § 44b Abs. 3 UrhG.
-        AI Training PROHIBITED.
-        Contact: [E-Mail] for licensing.
-```
-
-### Baustein 2 – Abmahnung KI-Anbieter (§ 97a UrhG)
-
-```
-An [KI-Anbieter, Rechtsabteilung]
-[Anschrift; ggf. EU-Repräsentant]
-
-Per Einschreiben mit Rückschein
-
-Abmahnung gemäß § 97a UrhG
-wegen Verletzung des Text- und Data-Mining-Vorbehalts
-§ 44b Abs. 3 UrhG
-
-Sehr geehrte Damen und Herren,
-
-wir zeigen die anwaltliche Vertretung von [Rechteinhaber] an.
-
-I. SACHVERHALT
-
-Unsere Mandantschaft ist Inhaberin der urheberrechtlichen
-Nutzungsrechte an folgenden Werken:
-[Liste der Werke / URL / Beschreibung]
-
-Auf unserer Website [URL] war zum Zeitpunkt der
-Datenerhebung durch Ihren Abrufwerkzeuge [Bot-Name] am [Datum
-gem. Wayback Machine / Server-Log] ein maschinenlesbarer
-TDM-Vorbehalt in der Datei robots.txt gesetzt:
-
-User-agent: [Bot-Name]
-Disallow: /
-
-Dieser Vorbehalt ist maschinenlesbar i.S.d. § 44b Abs. 3
-UrhG und Art. 4 Abs. 3 DSM-RL.
-
-Durch die Überwindung dieses Vorbehalts und die Verwendung
-der Werke für das Training Ihres KI-Modells [Modellname]
-haben Sie das ausschließliche Vervielfältigungsrecht
-§ 16 UrhG verletzt.
-
-II. FORDERUNGEN
-
-Wir fordern Sie auf binnen [14 Tagen]:
-
-1. Abgabe einer strafbewehrten Unterlassungserklärung
-   bzgl. jeglicher Verwendung der genannten Werke für
-   KI-Trainingszwecke ohne ausdrückliche Einwilligung.
-
-2. Erteilung von Auskunft gemäß § 101 UrhG über:
-   – Welche Werke wurden in welchem Datenset verwendet?
-   – Welche KI-Modelle wurden damit trainiert?
-   – Wann und in welchem Umfang erfolgte die Erhebung?
-
-3. Zahlung von Schadensersatz (§ 97 Abs. 2 UrhG,
-   Lizenzanalogie). Unser vorläufiger Ansatz beträgt
-   EUR [X].
-
-[Ort, Datum, Unterschrift Kanzlei]
-```
-
-### Baustein 3 – Opt-out-Dokumentation (Nachweis für Rechtsstreit)
-
-```
-
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-OPT-OUT-DOKUMENTATIONSPROTOKOLL
-
-Rechteinhaber: [Name]
-Website: [URL]
-Erstellungsdatum robots.txt: [Datum]
-TDM-Vorbehalt enthalten seit: [Datum]
-
-Gesperrte Bots zum [Datum]:
-- GPTBot (OpenAI) seit [Datum]
-- CCBot (Common-Data-Index) seit [Datum]
-- Claude-Web (Anthropic) seit [Datum]
-- Google-Extended (Google) seit [Datum]
-- [weitere]
-
-Nachweise:
-- robots.txt Volltext-Archiv: [Wayback Machine URL]
-- Server-Log-Auswertung: [Anlage 1]
-- Zeitstempel-zertifizierte Kopie: [notarielle Bestätigung]
-- EXIF-Daten der Bilder: [Anlage 2]
-
-prospektiv; für Trainingsdaten erhoben vor Opt-out-Setzung
-gelten Ansprüche nach § 44b Abs. 3 UrhG nicht.
-Rückwirkungsklage erfordert anderen Anspruchsweg (§ 97 UrhG
-direkt wenn § 44b Abs. 1 UrhG nicht greift).
-```
-
----
-
-## Beweislast
-
-| Konstellation | Beweislast |
-|---|---|
-| Werkschutz | Rechteinhaber; bei bekannten Werktypen vermutet |
-| Opt-out vorhanden zum Trainings-Zeitpunkt | Rechteinhaber; Nachweis durch Wayback Machine, Server-Logs, zeitgestempelte Zertifizierung |
-| TDM-Handlung des KI-Anbieters | Rechteinhaber muss Verwendung im Datenset nachweisen (LAION-Explorer, Output-Test, Datensatz-Audit); § 101 UrhG-Auskunftsanspruch hilft |
-| KI-VO Art. 53 Transparenzpflicht | KI-Anbieter muss Trainingsdaten-Zusammenfassung veröffentlichen; Verletzung davon kann Beweisvermutung begründen |
-
----
-
-## Fristen und Verjährung
-
-| Frist | Inhalt | Norm |
-|---|---|---|
-| Sofort | Opt-out nachrüsten wenn noch nicht vorhanden | § 44b Abs. 3 UrhG |
-| Abmahnfrist (gesetzt) | Typisch 14 Tage; EV bei KI-Anbietern selten sofort durchsetzbar | § 97a UrhG |
-| 3 Jahre | Verjährung Schadensersatz ab Kenntnis von Verletzung und KI-Anbieter | § 102 UrhG, § 195 BGB |
-| Ab Inkrafttreten KI-VO (2025) | Transparenzpflicht Art. 53 KI-VO gilt für Anbieter allgemeiner KI-Modelle | Art. 113 KI-VO |
-
----
-
-## Typische Gegenargumente
-
-| Gegenargument | Erwiderung |
-|---|---|
-| "Wir sind in den USA und US-Recht gilt" | EU-Niederlassung oder Auftragsverarbeiter in EU begründet EU-Gerichtsstand; zudem: EU-Nutzer sind betroffen → Marktortprinzip |
-
----
-
-## Streitwert / Kosten
-
-| Position | Berechnung |
-|---|---|
-| Streitwert Unterlassung | Hoch: EUR 50.000–500.000 je nach Werk und Verbreitung des KI-Modells |
-| Schadensersatz Lizenzanalogie | Fehlendes Opt-out → § 44b UrhG greift → kein Anspruch; bei wirksamem Opt-out: voller Lizenzbetrag |
-| Lizenzverhandlung (rückwirkend) | 0.5–5 % des KI-Anbieter-Umsatzes im Bereich des Schöpferkreises (grober Anhaltspunkt) |
-| VG-Kollektivlizenz | VG Wort, GEMA, VG Bild-Kunst verhandeln mit Plattformen; individuelle Ansprüche ggf. durch VG geltend zu machen |
-| Gerichtskosten | LG Hamburg zuständig für viele KI-Urheberrechtsklagen; hohe Streitwerte → erhebliche Gerichtskosten |
-
----
-
-## Strategische Empfehlung
-
-| Situation | Empfehlung |
-|---|---|
-| Kein Opt-out vorhanden | Opt-out sofort nachrüsten für künftige Verbotenheit; Schaden aus Vergangenheit nur angreifbar wenn § 44b Abs. 1 UrhG selbst nicht greift (z.B. kein rechtmäßiger Zugang) |
-| Opt-out vorhanden zum Trainings-Zeitpunkt | Starke Anspruchsposition; Abmahnung + Klage; Auskunft § 101 UrhG erzwingen |
-| VG-Mitglied | VG koordiniert oft Sammelklage; individuell prüfen ob zusätzliche direkte Ansprüche möglich |
-| Rückwirkende Lizenzierung angestrebt | Direkte Verhandlung mit OpenAI, Google, Anthropic usw.; Media-Manager-Programme nutzen |
-| US-Anbieter ohne EU-Sitz | KI-VO Marktortprinzip; EU-Vertreter nach Art. 22 KI-VO benennen lassen; ggf. Blockade des Modells in EU beantragen |
-
----
-
-## Anschluss-Skills
-
-- `urheber-abmahnung-pruefen` – allgemeine Abmahnprüfung
-- `fachanwalt-urheber-medienrecht-abmahnung-pruefen` – vertiefte Abmahnanalyse
-- `fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung` – KI-Verordnung Compliance
-- `fachanwalt-urheber-medienrecht-mod-erklaerung` – Unterlassungserklärung im TDM-Kontext
-
----
-
-## Triage-Fragen bei TDM/KI-Training-Opt-out-Mandat
-
-Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
-1. War das urheberrechtlich geschuetzte Werk oeffentlich zugaenglich (§ 44b I UrhG — Erlaubnis nur bei rechtmaessigem Zugang)?
-2. Wurde ein Opt-out vor dem Trainings-Zeitpunkt erklaert (maschinenlesbar: robots.txt, TDM Reserved Right)?
-3. Liegen Nachweise dafuer vor, dass ein KI-Anbieter das Werk tatsaechlich verwendet hat (Modellergebnis, Trainingsdaten-Erklaerung)?
-4. Ist § 60d UrhG (Wissenschaftliches TDM) als Privilegierungstatbestand einschlaegig?
-
-## Faktische Updates (Stand 05/2026)
-
-- **§ 44b UrhG / Art. 4 Abs. 3 DSM-RL:** TDM-Opt-out muss "maschinenlesbar" sein. Welche Form (robots.txt, ai.txt, TDM Reservation Protocol, REP-Erweiterungen, EXIF/IPTC, Sidecar-Files, NoAI-Meta-Tag) ausreichend ist, ist hoechstrichterlich nicht abschliessend geklaert. Konkrete EuGH- und BGH-Verfahren live ueber curia.europa.eu / dejure.org verifizieren (Stichworte: TDM, Art. 4 DSM-RL).
-- **KI-VO Art. 53 Abs. 1 lit. c und d:** Seit 02.08.2025 muessen GPAI-Anbieter eine Urheberrechts-Compliance-Strategie implementieren und eine Trainingsdaten-Zusammenfassung im EU-AI-Office-Template veroeffentlichen. Quelle: VO (EU) 2024/1689 — eur-lex.europa.eu/eli/reg/2024/1689/oj. Stand des Templates und Veroeffentlichungs-Status der einzelnen Modelle live pruefen.
-- **GPAI Code of Practice — Saeule Urheberrecht:** Der EU-AI-Office-Code enthaelt eine Urheberrechts-Saeule (TDM-Vorbehalt-Detektion, Lizenz-Trail, Take-down-Verfahren); bei Anschluss Anbieter-Vermutung der Compliance. Aktuelle Fassung live ueber digital-strategy.ec.europa.eu pruefen.
-- **Auskunftsanspruch § 101 UrhG bei KI-Trainingsdaten:** Linie der Instanzgerichte (LG / OLG) sowie BGH-Linie zu TDM und Auskunft / Schadensersatz live ueber dejure.org und openjur.de verifizieren.
-- **CDPA, KI-Office, Verlegerklagen:** Mehrere Verlegerklagen gegen GPAI-Anbieter sind in EU-Mitgliedstaaten anhaengig. Konkrete Aktenzeichen und Verfahrensstand live ueber nationale Gerichtsdatenbanken und curia.europa.eu pruefen.
-- **DSA + Empfehlungssysteme:** Falls KI-generierte Inhalte ueber VLOPs verbreitet werden, parallele DSA-Pflichten beachten (Art. 28 Abs. 2 DSA — Minderjaehrigenschutz, Art. 34 DSA — Risikobewertung).
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Die Schlusskontrolle verbindet Antrag, Tatsachen, Norm, Beweis, Gegenposition und nächsten Verfahrensschritt. Kein Anspruch wird allein aus einem Rechtevorbehalt abgeleitet.

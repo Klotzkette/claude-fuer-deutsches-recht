@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Schutzgegenstand, Rec
 | --- | --- |
 | Normenanker | UrhG Paragraf 2; UrhG Paragraf 15; UrhG Paragraf 31 |
 | Rechtsprechung | EuGH, Urteil vom 16.07.2009 - C-5/08; EuGH, Urteil vom 13.02.2014 - C-466/12 |
-| Tatbestand | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten |
+| Tatbestand | Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen |
 | Beweislast | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung |
 | Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Schutzgegenstand, Rec
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Schutzgegenstand | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtekette | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Nutzung | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schranken | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bearbeitung und Umgestaltung | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schutzgegenstand | Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtekette | Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Nutzung | Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schranken | Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -62,7 +61,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Schutzgegenstand, Rec
 - Paragraf 97 UrhG (Unterlassung, Schadensersatz); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
-- BGH I ZR 121/08 (Sommer unseres Lebens).
 
 ## 7. Antwortform
 

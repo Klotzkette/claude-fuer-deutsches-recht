@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Rechtsverhältnis und
 | Bewertung | Bewertungsspielraum, Verfahrensfehler, Antwortspielraum und Sachverhaltsfehler trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Folgen | Wiederholung, Neubewertung, Nachteilsausgleich, Ordnungsmaßnahme oder Fördermittelrückforderung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Widerspruch, Eilantrag, Klagebegründung, Gremienvorlage oder Förderantrag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschwerde gegen Lehrkraft | Bearbeite Beschwerde gegen Lehrkraft: Schul-, Studien-, Prüfungs- oder Förderverhältnis mit maßgeblicher Ordnung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

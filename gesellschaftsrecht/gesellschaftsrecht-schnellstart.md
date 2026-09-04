@@ -33,8 +33,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Gesellschaftsform, Re
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
-| Rechtsprechung | BFH Urt. v. 27.05.2009; BFH Urt. v. 03.05.2023 |
-| Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Tatbestand | Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen |
 | Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
 | Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Gesellschaftsform, Re
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Gesellschaftsform, Registerlage | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Satzung, Gesellschaftervereinbarung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Organpflichten, Treuepflichten | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Transaktionsschritte, Notarform | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Agio und Kapitalrücklage in der GmbH | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Gesellschaftsform, Registerlage | Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Satzung, Gesellschaftervereinbarung | Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Organpflichten, Treuepflichten | Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -56,10 +53,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Gesellschaftsform, Re
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- Normenradar: GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 3 Absatz 2 GmbHG (besondere Bestimmungen und Nebenleistungspflichten) — Paragraf 5 Absatz 1 GmbHG (Stammkapital mindestens 25.000 EUR) — Paragraf 5 Absatz 4 GmbHG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Normenradar: GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 3 Absatz 2 GmbHG (besondere Bestimmungen und Nebenleistungspflichten) — Paragraf 5 Absatz 1 GmbHG (Stammkapital mindestens 25.000 EUR) — Paragraf 5 Absatz 4 GmbHG (Festsetzungen bei Sacheinlagen) — Paragraf 53 Absatz 2 und 3 GmbHG (Dreiviertelmehrheit und notarielle Beurkundung der Satzungsänderung) — Paragraf 55 GmbHG (Kapitalerhöhung gegen Einlagen) — Paragraf 56 GmbHG (Kapitalerhöhung mit Sacheinlagen) — Paragraf 272 Absatz 2 Nummer 1 HGB (Kapitalrücklage bei Ausgabe über Nennbetrag) — Paragraf 272 Absatz 2 Nummer 4 HGB (andere Zuzahlungen) — Paragraf 27 KStG (steuerliches Einlagekonto) — Paragraf 21 UmwStG (qualifizierter Anteilstausch) — Paragraf 30 GmbHG (Kapitalerhaltung) — Paragrafen 58 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 3 Abs. 2 GmbHG gilt sachlich nicht nur bei Gründung sondern dauerhaft (Strukturnorm); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43 GmbHG (Haftung des Geschäftsführers) — Paragraf 43 Absatz 4 GmbHG (fünfjährige Verjährung) — Paragraf 93 Absatz 1 Satz 2 AktG als Vergleich für unternehmerische; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

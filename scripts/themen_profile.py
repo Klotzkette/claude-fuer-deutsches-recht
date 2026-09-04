@@ -36,14 +36,15 @@ PROFILE: tuple[ThemenProfil, ...] = (
             "BGB Paragraf 611a: Arbeitsvertrag und Weisungsgebundenheit.",
             "BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106: Rücksichtnahme, Maßregelungsverbot und Weisungsrecht.",
             "KSchG Paragraf 1, Paragraf 4 und Paragraf 7: soziale Rechtfertigung, Dreiwochenfrist und Wirksamkeitsfiktion.",
-            "BGB Paragraf 623 und Paragraf 626: Schriftform, wichtiger Grund und Erklärungsfrist.",
-            "TzBfG Paragraf 14 bis Paragraf 17: Befristung, Schriftform, Rechtsfolge und Befristungskontrollklage.",
+            "BGB Paragraf 623 und Paragraf 626: Schriftform, wichtiger Grund und Erklärungsfrist; elektronische Gerichtsschriftsätze gesondert nach ArbGG Paragraf 46h prüfen.",
+            "TzBfG Paragraf 14 bis Paragraf 17: Befristung, Form, Rechtsfolge und Befristungskontrollklage; Textform für die Regelaltersgrenzenvereinbarung nach SGB VI Paragraf 41 Absatz 3 abgrenzen.",
             "BetrVG Paragraf 87 und Paragraf 102: Mitbestimmung und Anhörung des Betriebsrats vor Kündigung.",
             "AGG Paragraf 7, Paragraf 12 und Paragraf 15: Benachteiligungsverbot, Schutzpflichten und Entschädigung.",
             "ArbZG, BUrlG und EntgFG: Arbeitszeit, Erholungsurlaub und Entgeltfortzahlung im laufenden Arbeitsverhältnis.",
         ),
         entscheidungen=(
             "BAG, Urteil vom 30.01.2025 - 2 AZR 68/24: Der Arbeitgeber trägt die Darlegungs- und Beweislast für den Zugang seines Kündigungsschreibens; Einlieferungsbeleg und Sendungsverlauf des Einwurf-Einschreibens begründen für sich allein keinen Anscheinsbeweis.",
+            "BAG, Urteil vom 07.05.2026 - 2 AZR 130/25: Bei einzelnen Mitgliedern eines gesamtvertretungsbefugten GmbH-Aufsichtsrats ist der Ermächtigungsnachweis gesondert zu prüfen; Paragraf 174 BGB kann entsprechend gelten. Die elektronische Kündigung des Falls lag vor Einführung des Paragraf 46h ArbGG.",
             "BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14: Vorbeschaeftigungsverbot des TzBfG bleibt verfassungskonform, verlangt aber verfassungskonforme Begrenzung in atypischen Faellen.",
             "BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84: allgemeiner Weiterbeschäftigungsanspruch nach obsiegendem erstinstanzlichem Kündigungsschutzurteil.",
             "BAG, Urteil vom 24.08.2023 - 2 AZR 17/23: Bei beleidigenden Äußerungen in einer Chatgruppe hängt die Vertraulichkeitserwartung von Größe, Zusammensetzung, Beteiligung und Medium ab; der Arbeitnehmer muss ihre Berechtigung darlegen.",
@@ -69,7 +70,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
         stop=(
             "Frist laeuft binnen drei Arbeitstagen ab und Unterlagen fehlen.",
             "Betriebsratsanhoerung, Massenentlassung, Schwangerschaft, Schwerbehinderung oder Compliance-Verdacht ist ungeklaert.",
-            "Befristung wurde nicht in Papieroriginal oder echter qualifizierter elektronischer Signatur geschlossen.",
+            "Befristungsform ist zweifelhaft: Schriftform oder qualifizierte elektronische Signatur und einschlägige Sonderregel, insbesondere SGB VI Paragraf 41 Absatz 3, prüfen.",
         ),
         skelette=(
             "Klageantrag: Es wird festgestellt, dass das Arbeitsverhaeltnis der Parteien durch die Kuendigung vom [Datum] nicht aufgeloest worden ist.",
@@ -392,6 +393,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
             "StaRUG Paragraf 1: Krisenfrueherkennungspflichten.",
         ),
         entscheidungen=(
+            "BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko.",
             "BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.",
             "BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.",
             "BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können.",
@@ -434,7 +436,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
         entscheidungen=(
             "BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begruenden grundsaetzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.",
             "BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.",
-            "BFH, Urteil vom 21.06.2012 - V R 20/11: Vorsteuerabzug verlangt ordnungsgemaesse Rechnung und Leistungsbezug.",
+            "BFH, Urteil vom 25.06.2025 - XI R 17/22: Der erstmalige Umsatzsteuerausweis in einer berichtigten Eingangsrechnung ermöglicht keinen rückwirkenden Vorsteuerabzug; von der Berichtigung einer bereits rückwirkungsfähigen Rechnung unterscheiden.",
             "EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04: Kittel-Rechtsprechung zum Vorsteuerabzug bei Kenntnis von Umsatzsteuerbetrug.",
             "EuGH, Urteil vom 21.06.2012 - C-80/11 und C-142/11: Mahageben und David begrenzen ueberzogene Nachweispflichten beim Vorsteuerabzug.",
         ),
@@ -5051,9 +5053,12 @@ SPECIALTY_PROFILE: tuple[ThemenProfil, ...] = (
             "Bundes- oder Landeslaufbahnrecht: Zugang, Befähigung, Probezeit, Beförderung und Verwendungsanforderungen.",
             "Bundes- oder Landesbesoldungs- und Versorgungsrecht: Amt, Stufe, Zuschlag, Ruhegehalt, Anrechnung und Stichtag.",
             "Bundes- oder Landesdisziplinargesetz: Einleitung, Ermittlungen, Maßnahmen, Bemessung und Rechtsschutz.",
-            "VwGO Paragraf 80 Absatz 5 und Paragraf 123: Eilrechtsschutz insbesondere vor Ernennung eines Konkurrenten oder Vollzug einer Maßnahme.",
+            "VwGO Paragraf 80 Absatz 5 und Paragraf 123: Anfechtungs- und Verpflichtungssituation unterscheiden; Konkurrentenschutz vor Ernennung regelmäßig nach Paragraf 123 sichern.",
         ),
-        entscheidungen=(),
+        entscheidungen=(
+            "BVerwG, Beschluss vom 03.03.2025 - 2 VR 4.24: Fiktive Beurteilungsfortschreibung benötigt eine hinreichende gesetzliche Grundlage; übergangsweise Verwaltungspraxis und ernsthafte Auswahlchance bleiben gesondert zu prüfen.",
+            "BVerwG, Beschluss vom 13.05.2025 - 2 VR 5.24: Ungeklärte Zweifel an der gesundheitlichen Eignung des ausgewählten Bewerbers können den Bewerbungsverfahrensanspruch verletzen; aussagekräftige ältere Beurteilungen sind einzubeziehen.",
+        ),
         stationen=(
             "Status und Dienstherr: Ernennung, Statusamt, Funktion, Laufbahn, Dienststelle, anwendbares Bundes- oder Landesrecht und Stichtag feststellen.",
             "Personalentscheidung: Anforderungsprofil, Bewerberkreis, Beurteilungen, Auswahlvermerk, Beteiligungen und Ernennungsstand prüfen.",

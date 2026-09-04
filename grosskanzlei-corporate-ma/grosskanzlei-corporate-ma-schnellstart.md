@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Struktur und Beteilig
 | --- | --- |
 | Normenanker | BGB Paragraf 433 und Paragraf 453; GmbHG Paragraf 15; BGB Paragraf 311 Absatz 2 und Paragraf 280 |
 | Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 21.04.1997 - II ZR 175/95 |
-| Tatbestand | Transaktionsstruktur, Datenraumfund, Wertwirkung, Vertragsabbildung, Gremienfreigabe, Closing-Bedingung, Owner und Termin zu einer belastbaren Deal-Entscheidung verbinden |
+| Tatbestand | Share oder Asset Deal, Erwerbsvehikel, Kapitalstruktur und Gremienvorbehalte feststellen |
 | Beweislast | Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen; der Bearbeiter führt DD-Fund, Q&A, Disclosure, Freigabe, Zahlung und Registervollzug lückenlos auf den Vertragsmechanismus zurück |
 | Rechtsfolge | Term Sheet, Bid Grid, Due-Diligence-Bericht, SPA- oder Beteiligungsklausel, Gremienvorlage, Signing- und Closing-Set oder Post-Closing-Plan |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,10 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Struktur und Beteilig
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Struktur und Beteiligte | Transaktionsstruktur, Datenraumfund, Wertwirkung, Vertragsabbildung, Gremienfreigabe, Closing-Bedingung, Owner und Termin zu einer belastbaren Deal-Entscheidung verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Due Diligence | Transaktionsstruktur, Datenraumfund, Wertwirkung, Vertragsabbildung, Gremienfreigabe, Closing-Bedingung, Owner und Termin zu einer belastbaren Deal-Entscheidung verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertragsarchitektur | Transaktionsstruktur, Datenraumfund, Wertwirkung, Vertragsabbildung, Gremienfreigabe, Closing-Bedingung, Owner und Termin zu einer belastbaren Deal-Entscheidung verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Struktur und Beteiligte | Share oder Asset Deal, Erwerbsvehikel, Kapitalstruktur und Gremienvorbehalte feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Due Diligence | Befunde nach Deal-Breaker, Garantiethema, Freistellungsthema und Kaufpreisfaktor ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragsarchitektur | Kaufgegenstand, Kaufpreisformel, Garantien, Freistellungen, Covenants und Haftungsgrenzen anlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vollzug | Bedingungen, Freigaben, Finanzierungssicherheit und Closing-Mechanik mit Zeitplan sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Term Sheet, SPA-Klauseln, DD-Report-Kapitel, Gremienvorlage oder Wandeldarlehensvertrag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -54,7 +55,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Struktur und Beteilig
 - GmbHG Paragraf 15: Form der Abtretung von Geschäftsanteilen.
 - BGB Paragraf 311 Absatz 2 und Paragraf 280: vorvertragliche Pflichten und Haftung im Verhandlungsstadium.
 - AktG Paragraf 93 und GmbHG Paragraf 43: Organpflichten bei Transaktionsentscheidungen.
-- Normenradar: GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Normenradar: GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 89 Abs. 2 AO – verbindliche Auskunft; Anspruch auf Erteilung im Rahmen pflichtgemäßen Ermessens; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 89 Abs. 3 AO – Gebühr für die Auskunft; Berechnung nach Gegenstandswert; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 3a EStG – Sanierungsertrag; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.

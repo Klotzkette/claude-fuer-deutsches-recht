@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Forumcheck, Parteiwil
 | --- | --- |
 | Normenanker | GVG Paragraf 119b; GVG Paragraf 184a; ZPO Paragraf 610 und Paragraf 611 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Bundesland, Landesverordnung, sachlicher Katalog, Streitwert, Ausschluss, örtlicher Bezug und internationale |
+| Tatbestand | Bundesland, Landesverordnung, sachlicher Katalog, Streitwert, Ausschluss, örtlicher Bezug und internationale Zuständigkeit prüfen |
 | Beweislast | Nachweisachse Parteiwille: Gerichtsstands- und Sprachvereinbarung, Klageantrag, Zustimmung, rügelose Einlassung oder Verweisungstatbestand dokumentieren |
 | Rechtsfolge | englische oder bilinguale Klage, Erwiderung, CMC-Bundle, Schutzantrag, Hearing Note oder Revisionsbriefing erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Forumcheck, Parteiwil
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Forumcheck | Bundesland, Landesverordnung, sachlicher Katalog, Streitwert, Ausschluss, örtlicher Bezug und internationale. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Parteiwille | Gerichtsstands- und Sprachvereinbarung, Klageantrag, Zustimmung, rügelose Einlassung oder Verweisungstatbestand. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Forumcheck | Bundesland, Landesverordnung, sachlicher Katalog, Streitwert, Ausschluss, örtlicher Bezug und internationale Zuständigkeit prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Parteiwille | Gerichtsstands- und Sprachvereinbarung, Klageantrag, Zustimmung, rügelose Einlassung oder Verweisungstatbestand dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Pleading und Case Management | Claim, defence, counterclaim, Zeitplan, Themenliste, Beweis, Übersetzung und Organisationstermin vorbereiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Geheimnisse und Beweis | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Englische oder bilinguale Klage, Erwiderung, CMC-Bundle, Schutzantrag, Hearing Note oder Revisionsbriefing. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Statement of Claim | Bearbeite Statement of Claim: claim, defence, counterclaim, Zeitplan, Themenliste, Beweis, Übersetzung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Geheimnisse und Beweis | Schutzantrag, Zugangsgruppe, exhibits, document production, witnesses, experts und Transcript steuern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Englische oder bilinguale Klage, Erwiderung, CMC-Bundle, Schutzantrag, Hearing Note oder Revisionsbriefing erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

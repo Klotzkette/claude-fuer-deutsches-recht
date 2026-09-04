@@ -111,7 +111,7 @@ Arbeitsgriff Arbeitsprodukt: Registermatrix, Aktualisierungstext, Fristenblatt, 
 - LobbyRG Paragraf 5: Verhaltenskodex.
 - LobbyRG Paragraf 7: Ordnungswidrigkeiten und Sanktionen.
 - Paragraf 2 Abs. 2 LobbyRG — Tätigkeitsbezogene Ausnahmen: u; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 2 Abs. 3 LobbyRG — Persönliche/strukturelle Ausnahmen: Hauptkommunal/-länderebenen, Religionsgemeinschaften des öffentlichen Rechts, politische Parteien, einzelne; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 2 Abs. 3 LobbyRG — Persönliche/strukturelle Ausnahmen: Hauptkommunal/-länderebenen, Religionsgemeinschaften des öffentlichen Rechts, politische Parteien, einzelne Bürgeranfragen, Wissenschaftsbetrieb auf Forschungsbasis; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -245,14 +245,14 @@ Bearbeitungsauftrag: Offizielle Quelle und Rechtsstand nennen: LobbyRG, Lobbyreg
 Prüfschritte: Sachverhalt in einem Satz zusammenfassen: Wer will mit wem worüber sprechen oder hat bereits gehandelt?
 Lieferstück: Fachvotum zu Datenschutz und nicht öffentliche Angaben mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Drehtür-Angaben
-
-Bearbeitungsauftrag: Offizielle Quelle und Rechtsstand nennen: LobbyRG, Lobbyregister-FAQ, Handbuch oder Verhaltenskodex. Die folgenden Leitfragen nacheinander stellen und fehlende Angaben als offene Punkte markieren. aktuelles Amt als Bundesminister oder Parlamentarischer Staatssekretär oder Staatsminister,.
-Prüfschritte: Sachverhalt in einem Satz zusammenfassen: Wer will mit wem worüber sprechen oder hat bereits gehandelt?
-Lieferstück: Fachvotum zu Drehtür-Angaben mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Nicht-aktualisiert Risiko
+### 16.11. Nicht-aktualisiert Risiko
 
 Bearbeitungsauftrag: Offizielle Quelle und Rechtsstand nennen: LobbyRG, Lobbyregister-FAQ, Handbuch oder Verhaltenskodex. Ergebnis nicht als Rechtsrat ausgeben, sondern als prüffähige Arbeitsunterlage mit Annahmen, Belegen und nächster Portalaktion. Unsichere Rechts- oder Tatsachenfragen werden nicht geglättet, sondern sichtbar markiert.
 Prüfschritte: Sachverhalt in einem Satz zusammenfassen: Wer will mit wem worüber sprechen oder hat bereits gehandelt?
 Lieferstück: Fachvotum zu Nicht-aktualisiert Risiko mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Personen- und Organisationstyp
+
+Bearbeitungsauftrag: Offizielle Quelle und Rechtsstand nennen: LobbyRG, Lobbyregister-FAQ, Handbuch oder Verhaltenskodex. Bei einer unselbstständigen Zweigniederlassung ist zuerst der Rechtsträger zu bestimmen. Die Handelsregistereintragung der Zweigniederlassung macht sie nicht automatisch zu einer eigenen juristischen Person.
+Prüfschritte: Sachverhalt in einem Satz zusammenfassen: Wer will mit wem worüber sprechen oder hat bereits gehandelt?
+Lieferstück: Fachvotum zu Personen- und Organisationstyp mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

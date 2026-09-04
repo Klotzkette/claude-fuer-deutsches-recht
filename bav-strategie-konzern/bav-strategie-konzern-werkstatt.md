@@ -120,7 +120,7 @@ Entwurfsgriff Arbeitsprodukt: Versorgungssystem-Matrix, Besitzstandsrechnung, Ve
 - HGB Paragraf 246 Absatz 2 und Paragraf 253: Saldierung von Deckungsvermögen sowie Bewertung von Pensionsrückstellungen.
 - BetrVG Paragraf 87 Absatz 1 Nummer 8 und Nummer 10 sowie Paragraf 50 und Paragraf 58: Mitbestimmung und Zuständigkeit bei betrieblichen Sozialeinrichtungen, Entlohnungsgrundsätzen und konzernweiten Regelungen.
 - Paragraf 1b BetrAVG: Unverfallbarkeit; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 16 BetrAVG: Anpassungsprüfungspflicht alle drei Jahre; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 16 BetrAVG: Anpassungsprüfungspflicht alle drei Jahre (Trade-off: vermeidbar nur durch Festschreibungsklausel mit garantiertem 1 %-Pfad nach Paragraf 16 Abs. 3 Nr. 1 BetrAVG; sonst Bindung an Verbraucherpreisindex); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 7-15 BetrAVG: PSV-Insolvenzschutz; jährliche Beitragspflicht zum 31.03; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 4 BetrAVG: Übertragung bei Arbeitgeberwechsel binnen eines Jahres; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 30f, 30g BetrAVG: Übergangsvorschriften alte Zusagen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -231,7 +231,7 @@ Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründu
 ### 16.6. Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung
 
 Bearbeitungsauftrag: Abgrenzung: nicht steuerliche Behandlung Paragraf 6a EStG. Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen. bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Abgrenzung: nicht steuerliche Behandlung Paragraf 6a EStG.
+Normbezug aus dem Fachmaterial: Abgrenzung: nicht steuerliche Behandlung Paragraf 6a EStG.
 Lieferstück: Entwurfsbaustein zu Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
 ### 16.7. Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen

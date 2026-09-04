@@ -55,7 +55,7 @@ Paragraf 93 Absatz 1 Satz 2 AktG (Business Judgment Rule; angemessene Informatio
 3. **Informationsgrundlage zusammenstellen:** DD-Ergebnisse, Fairness Opinion (falls vorhanden), externe Gutachten, Bankbewertung, Branchenreports.
 4. **Alternativen darstellen:** Mindestens zwei echte Alternativen zur Entscheidung beschreiben und bewerten (inkl. "Keine Maßnahme").
 5. **Risiken und Restrisiken:** Welche Risiken verbleiben nach der Entscheidung? Quantifizierbar? Mitigationsmoeglichkeiten?
-6. **Interessenkonflikte prüfen:** Alle Organmitglieder auf Eigeninteresse prüfen; Enthaltung protokollieren (Paragraf 93 Abs. 1 Satz 3 AktG).
+6. **Interessenkonflikte prüfen:** Eigeninteressen sämtlicher Organmitglieder offenlegen und die Mitwirkungsfolge aus Gesetz, Satzung, Geschäftsordnung und dem konkreten Konflikt ableiten. Paragraf 93 Absatz 1 Satz 3 AktG regelt die Verschwiegenheit und ist keine allgemeine Enthaltungsnorm.
 7. **BJR-Prüfkarte ausfuellen:** Voraussetzungen gemäß obiger Tabelle abarbeiten.
 8. **Legalitaetspflicht prüfen:** Kartellrecht, FDI, MAR, Mitbestimmung, Insolvenzrecht — keine Entscheidung gegen zwingendes Recht.
 9. **Board Paper erstellen** und Entscheidungsvorlage zur Unterzeichnung vorlegen.
@@ -126,8 +126,8 @@ Abstimmung: _________________________ Datum: _____________
 ## Rote Schwellen
 
 - **Entscheidungsvorlage ohne Informationsgrundlage** — BJR-Schutz entfaellt; Organmitglied haftet persoenlich nach Paragraf 93 AktG / Paragraf 43 GmbHG; Vorlage zurueckhalten bis Gutachten vorliegen.
-- **Interessenkonflikt nicht offen gelegt** — Paragraf 93 Abs. 1 Satz 3 AktG: Verletzung der Offenlegungspflicht ist eigenstaendige Pflichtverletzung; betroffenes Mitglied muss sich enthalten.
-- **Freigabevorbehalt uebersehen** — Entscheidung ohne AR-Zustimmung (Paragraf 111 Abs. 4 AktG) oder HV-Beschluss (Paragraf 179a AktG) ist schwebend unwirksam; Gegenseite kann Ruecktritt erklaeren.
+- **Interessenkonflikt nicht offengelegt** — Konfliktlage, Zuständigkeit und konkrete Mitwirkungsfolge anhand der einschlägigen gesetzlichen und statutarischen Regeln dokumentieren; Paragraf 93 Absatz 1 Satz 3 AktG nicht als allgemeine Offenlegungs- oder Enthaltungsnorm verwenden.
+- **Freigabevorbehalt übersehen** — Einen Zustimmungsvorbehalt des Aufsichtsrats nach Paragraf 111 Absatz 4 AktG von einem Hauptversammlungsbeschluss nach Paragraf 179a AktG und von einer vertraglichen Vollzugsbedingung trennen. Der Zustimmungsvorbehalt bindet den Vorstand im Innenverhältnis; seine Missachtung macht das Rechtsgeschäft wegen Paragraf 82 Absatz 1 AktG aber nicht automatisch schwebend unwirksam. Außenwirkung, Pflichtverletzung, Vollzugsbedingung und einen möglichen Missbrauch der Vertretungsmacht gesondert prüfen; kein pauschales Rücktrittsrecht behaupten.
 - **Keine echten Alternativen** — Board Paper ohne ernsthaften Alternativenvergleich ist nach h.M. nicht BJR-geschuetzt (vgl. Hueffer/Koch, AktG, 16. Aufl. 2024, Paragraf 93 Rn. 30 ff.); mindestens Option "Status quo" und eine echte Alternative stets darlegen.
 - **KI-Analyse ohne Plausibilisierung** — Organmitglied kann sich nicht auf automatisierte Ausgabe berufen ohne eigene Verifizierung; Plausibilisierungspflicht ist Teil der Informationspflicht.
 

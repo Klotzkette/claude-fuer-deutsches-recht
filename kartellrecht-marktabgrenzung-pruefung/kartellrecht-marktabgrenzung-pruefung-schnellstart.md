@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Markt und Beteiligte,
 | --- | --- |
 | Normenanker | GWB Paragraf 1; GWB Paragraf 18 bis Paragraf 20; GWB Paragraf 33a |
 | Rechtsprechung | EuGH, Urteil vom 04.06.2009 - C-8/08; EuGH, Urteil vom 30.01.2020 - C-307/18 |
-| Tatbestand | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen |
+| Tatbestand | Sachlichen, räumlichen und zeitlichen Markt sowie Unternehmensrollen bestimmen |
 | Beweislast | Anspruchsteller oder Behörde für Markt, Abstimmung, Marktmacht und Schaden; Unternehmen für Effizienz, Rechtfertigung, Compliance und Einwendungen |
 | Rechtsfolge | Kartellschadensmatrix, Abstellungszusage, Bußgeldverteidigung, Compliance-Maßnahme, Klage oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Markt und Beteiligte,
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Markt und Beteiligte | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verhalten | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtfertigung und Ausnahme | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schaden und Bußgeld | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Markt und Beteiligte | Sachlichen, räumlichen und zeitlichen Markt sowie Unternehmensrollen bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verhalten | Abstimmung, Austausch, Ausschließlichkeitsbindung, Plattformregel, Preissetzung oder Zugangssperre einordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtfertigung und Ausnahme | Effizienz, Freistellung, Bagatelle, Compliance und objektive Notwendigkeit prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schaden und Bußgeld | Betroffenheit, Overcharge, Passing-on, Verjährung, Kronzeuge und Dokumente aufbereiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Risikomemo, Abstellungszusage, Schadensmatrix, Klageentwurf oder Verteidigungslinie erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,6 +59,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Markt und Beteiligte,
 - Paragraf 1 GWB Kartellverbot nationale Prüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 19a GWB überragende marktübergreifende Bedeutung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 04.06.2009 - C-8/08: T-Mobile Netherlands behandelt den Wettbewerbszweck abgestimmter Verhaltensweisen.
+- EuGH, Urteil vom 30.01.2020 - C-307/18: Generics grenzt potenziellen Wettbewerb und bezweckte Wettbewerbsbeschränkung bei Vergleichsvereinbarungen ab.
 
 ## 7. Antwortform
 

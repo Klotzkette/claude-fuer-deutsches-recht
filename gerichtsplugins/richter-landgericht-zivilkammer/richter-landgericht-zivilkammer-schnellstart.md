@@ -33,7 +33,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Aktenaufnahme, Relati
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | ZPO Paragraf 139; ZPO Paragraf 253 und Paragraf 138; ZPO Paragraf 286 |
-| Rechtsprechung | BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395; BGH, Beschluss vom 24.07.2018 - VI ZR 599/16 |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Parteien, Anträge, Verfahrensstand, Fristen und Zuständigkeit sichern |
 | Beweislast | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle |
 | Rechtsfolge | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren |
@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Aktenaufnahme, Relati
 | Prozessleitung | Hinweise, Auflagen, Terminsvorbereitung und Vergleichsoptionen ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beweis | Beweisbedürftige Tatsachen, Beweismittel, Beweislast und Beschlussfassung strukturieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Frühe Erste Verfügung Paragraf 139 | BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -59,10 +58,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Aktenaufnahme, Relati
 - Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 313, 313a ZPO; Paragrafen 91 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 139 ZPO: Hinweise früh, konkret und aktenkundig; keine Überraschungsentscheidung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Artikel 103 Absatz 1 GG: entscheidungserheblicher Vortrag muss zur Kenntnis genommen und erwogen werden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
-- BGH, Beschluss vom 24.07.2018 - VI ZR 599/16: Geänderten, präzisierten oder berichtigten Parteivortrag nicht allein wegen des Widerspruchs zum früheren Vortrag ausblenden.
-- BGH, Urteil vom 01.10.2019 - VI ZR 164/18: Auch bei einer Häufung von Indizien bleibt das Beweismaß des Paragraf 286 ZPO bestehen; Beweisfrage und spätere Würdigung dürfen nicht auf eine bloße Wahrscheinlichkeitsprüfung verkürzt werden.
+- Paragraf 286 ZPO: freie Beweiswürdigung mit Gesamtwürdigung aller erheblichen Indizien; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

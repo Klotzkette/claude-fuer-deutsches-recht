@@ -174,7 +174,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Mandantenakte anlegen | Legt eine Mandantenakte nach Kanzleikonvention an. Erfasst Stammdaten Bevollmächtigte Mandatsumfang Konfliktprüfung (Paragraf 43a Absatz 4 BRAO Paragraf 3 BORA) Datenschutzhinweis (Artikel 13 Datenschutz-Grundverordnung). | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Rechnungserstellung Honorar (RVG oder Vereinbarung) | Welche Gebührentatbestände sind angefallen: Geschäftsgebühr (Nummer 2300 VV RVG), Verfahrensgebühr (Nummer 3100 VV RVG), Terminsgebühr (Nummer 3104 VV RVG)? | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
 | Rechnungsvorbereitung und Abschluss | Normen Paragraf 10 RVG Pflichtangaben Paragraf 14 UStG Umsatzsteuerausweis GoBD Aufbewahrung Paragraf 3a RVG Honorarvereinbarung. | geprüftes Übergabepaket zu Rechnungsvorbereitung und Abschluss mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
-| Akte, Konfliktcheck und Mandatsanlage | Normen Paragraf 43a Absatz 4 BRAO Konfliktcheck Paragraf 3 BORA Artikel 13 Datenschutz-Grundverordnung Datenschutzhinweis Paragrafen 10 11 GwG Identifizierung. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| beA-Versand prüfen | Sozialgericht: SGG Paragraf 65a und Paragraf 65d. Finanzgericht: FGO Paragraf 52a und Paragraf 52d. Strafverfahren: StPO Paragraf 32a und Paragraf 32d | geprüftes Übergabepaket zu beA-Versand prüfen mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -201,7 +201,7 @@ Lieferstück: Fristenblatt zu Zentrales Fristenbuch der Kanzlei mit Auslöser, B
 
 Bearbeitungsauftrag: Normen Paragraf 51 BRAO Organisationspflicht Paragraf 253 Absatz 2 Nummer 1 ZPO Paragraf 130a ZPO. Liegt ein eigenes Kanzlei-Aktenzeichen, ein gerichtliches Aktenzeichen oder ein behördliches Zeichen vor? Gibt es Kollisionsgefahr bei ähnlichen Aktenzeichen-Varianten in derselben Akte?
 Prüfschritte: Erkennung Normalisierung und Verknüpfung von Aktenzeichen in der Kanzlei; Anwendungsfall beA-Nachricht oder Brief enthält Aktenzeichen das einer Akte zugeordnet werden muss; Prüfraster Typen (eigenes gerichtliches behördliches gegnerisches) Normalisierung Varianten Kollisionen Kontext; Output Verknüpfungstabelle mit Sicherheitsgrad Kollisionswarnungen Rückfragen bei Unsicherheit; Abgrenzung zu kanzlei-allgemein-akte und kanzlei-allgemein-intake.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Normen Paragraf 51 BRAO Organisationspflicht Paragraf 253 Absatz 2 Nummer 1 ZPO Paragraf 130a ZPO.
+Normbezug aus dem Fachmaterial: Normen Paragraf 51 BRAO Organisationspflicht Paragraf 253 Absatz 2 Nummer 1 ZPO Paragraf 130a ZPO.
 Lieferstück: Akten- und Belegmatrix zu Aktenzeichen und Verknüpfungen mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
 ### 16.5. Mahnwesen für Kanzleihonorar
@@ -212,7 +212,7 @@ Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Va
 ### 16.6. Mandantenakte anlegen
 
 Bearbeitungsauftrag: Legt eine Mandantenakte nach Kanzleikonvention an. Erfasst Stammdaten Bevollmächtigte Mandatsumfang Konfliktprüfung (Paragraf 43a Absatz 4 BRAO Paragraf 3 BORA) Datenschutzhinweis (Artikel 13 Datenschutz-Grundverordnung) Geldwäsche-Identifizierung (Paragrafen 10 11 GwG) Honorarvereinbarung oder RVG-Hinweis. Prüfung ob Mandatsannahme gegen Paragraf 3 BORA (widerstreitende Interessen) verstößt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Erfasst Stammdaten Bevollmächtigte Mandatsumfang Konfliktprüfung (Paragraf 43a Absatz 4 BRAO Paragraf 3 BORA) Datenschutzhinweis (Artikel 13 Datenschutz-Grundverordnung) Geldwäsche-Identifizierung (Paragrafen 10 11 GwG) Honorarvereinbarung.
+Normbezug aus dem Fachmaterial: Erfasst Stammdaten Bevollmächtigte Mandatsumfang Konfliktprüfung (Paragraf 43a Absatz 4 BRAO Paragraf 3 BORA) Datenschutzhinweis (Artikel 13 Datenschutz-Grundverordnung) Geldwäsche-Identifizierung (Paragrafen 10 11 GwG) Honorarvereinbarung.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.7. Rechnungserstellung Honorar (RVG oder Vereinbarung)
@@ -225,25 +225,25 @@ Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Va
 Bearbeitungsauftrag: Normen Paragraf 10 RVG Pflichtangaben Paragraf 14 UStG Umsatzsteuerausweis GoBD Aufbewahrung Paragraf 3a RVG Honorarvereinbarung. Abgrenzung zu rechnungserstellung-rvg (ausführliches RVG-Abrechnungswerk) und kanzlei-allgemein-ustva-buchhaltung. Wird nach RVG (Gegenstandswert + Gebührentabelle) oder nach Stundenhonorarat (Paragraf 3a RVG) abgerechnet?
 Lieferstück: geprüftes Übergabepaket zu Rechnungsvorbereitung und Abschluss mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.9. Akte, Konfliktcheck und Mandatsanlage
-
-Bearbeitungsauftrag: Normen Paragraf 43a Absatz 4 BRAO Konfliktcheck Paragraf 3 BORA Artikel 13 Datenschutz-Grundverordnung Datenschutzhinweis Paragrafen 10 11 GwG Identifizierung. Prüfraster Mandatsart Beteiligte Konfliktcheck Mandatsumfang GwG-Anwendbarkeit Honorar Vollmacht. Output Mandatsblatt Konfliktcheck-Vermerk GwG-Vermerk Aktenstruktur Übergabeliste Fristen.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.10. beA-Versand prüfen
+### 16.9. beA-Versand prüfen
 
 Bearbeitungsauftrag: Sozialgericht: SGG Paragraf 65a und Paragraf 65d. Finanzgericht: FGO Paragraf 52a und Paragraf 52d. Strafverfahren: StPO Paragraf 32a und Paragraf 32d.
 Prüfschritte: Lies zuerst Schriftsatz, Versandmappe, Fristnotiz und vorhandene beA-Protokolle; Wenn der Versand noch bevorsteht, liefere eine Stop-Liste; Wenn er bereits erfolgt ist, beginne mit der gerichtlichen Eingangsbestätigung und gleiche Empfänger, Aktenzeichen und Anhänge ab; Zivilverfahren: ZPO Paragraf 130a und Paragraf 130d; Arbeitsgericht: ArbGG Paragraf 46c und Paragraf 46g.
 Lieferstück: geprüftes Übergabepaket zu beA-Versand prüfen mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.11. Mandantenbrief-Vorlagen
+### 16.10. Mandantenbrief-Vorlagen
 
 Bearbeitungsauftrag: Ist der Mandant Verbraucher (Paragraf 13 BGB) oder Unternehmer (Paragraf 14 BGB) — wegen Sprache und Belehrungspflichten? Paragraf 43a Absatz 2 BRAO — Verschwiegenheit: gilt auch für Inhalte im Mandantenbrief. Paragraf 2 BORA — Gewissenhaftigkeit: verständliche und klare Kommunikation mit dem Mandanten.
 Prüfschritte: Welcher Brieftyp wird benötigt: Mandatseröffnung, Zwischenbericht, Beratungsergebnis, Abschlussbericht oder Schlussrechnung?
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.12. Posteingang und Postausgang
+### 16.11. Posteingang und Postausgang
 
 Bearbeitungsauftrag: Posteingang erfasst Empfangstag (relevant für Fristbeginn nach BRAO Berufsregeln und Paragraf 188 ZPO Paragraf 122 AO Paragraf 37 SGB X) Absender Inhalt Akte Aktion (zur Akte / Antwort durch / Frist ans Fristenbuch). Postausgang erfasst Versandtag Empfänger Inhalt Versandweg (Post beA EGVP E-Mail) Versandnummer Quittung. Gibt es ein fristwahrendes Dokument (Urteil, Klageschrift, Bescheid) mit sofortigem Fristen-Handlungsbedarf?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Posteingang erfasst Empfangstag (relevant für Fristbeginn nach BRAO Berufsregeln und Paragraf 188 ZPO Paragraf 122 AO Paragraf 37 SGB X) Absender Inhalt Akte Aktion (zur Akte / Antwort durch / Frist ans Fristenbuch).
+Normbezug aus dem Fachmaterial: Posteingang erfasst Empfangstag (relevant für Fristbeginn nach BRAO Berufsregeln und Paragraf 188 ZPO Paragraf 122 AO Paragraf 37 SGB X) Absender Inhalt Akte Aktion (zur Akte / Antwort durch / Frist ans Fristenbuch).
 Lieferstück: geprüftes Übergabepaket zu Posteingang und Postausgang mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+
+### 16.12. Umgang mit dem System-Vorwurf bei Sachverständigengutachten
+
+Bearbeitungsauftrag: Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (Paragraf 407a Absatz 1 ZPO), keine generelle System-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen Paragraf 8a Absatz 2, für die vier zentralen Fragen, Schriftsatzbausteine und taktische Hinweise. Liegt ein konkreter Anhaltspunkt für den Vorwurf vor (auffällige Formulierungen, fehlende Quellenbelege)?
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.

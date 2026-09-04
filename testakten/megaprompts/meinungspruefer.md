@@ -10,17 +10,17 @@ Diese Vollprüfung enthält top-15 von 54 Skills des Plugins `meinungspruefer`.
 2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
 3. **kaltstart-triage** — Für Meinungsprüfer - Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nä…
 4. **meinungspruefer-erstpruefung-und-mandatsziel** — Für Meinungsprüfer: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebni…
-5. **beleidigung-meinungspruefer** — Für Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebni…
-6. **chronologie-fristen** — Für Chronologie und Belegmatrix: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Wi…
-7. **soziale-medien-aeusserungsrecht** — Für Soziale Medien: X, LinkedIn, Bewertungsportale: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenk…
-8. **kommunalrecht-buergermeister-machtkritik** — Für Kommunalrechtlicher Grenzfall: Bürgermeister und Bauprojekt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
-9. **meinung-strafantrag-verfahren** — Für Meinung: Fristen, Form, Zuständigkeit und Rechtsweg: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schr…
-10. **ueble-verleumdung** — Für Üble: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkart…
-11. **wahrnehmung-berechtigter-zitat** — Für Paragraf 193 StGB - Wahrnehmung berechtigter Interessen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpr…
-12. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
-13. **europarecht-emrk-gegendarstellung** — Für Europarecht: EMRK und Grundrechtecharta: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mi…
-14. **schmaehkritik-formalbeleidigung-schnelltriage** — Für Schmähkritik, Formalbeleidigung, Menschenwürde: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodu…
-15. **personen-politisches-presserecht-plattformen** — Für Paragraf 188 StGB - Personen des politischen Lebens: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfproduk…
+5. **schimpfwort-lackaffe-und-spott** — Prüft Spottbegriffe wie Lackaffe anhand Wortlaut, Anlass, Kontext, Adressat und Reichweite. Trennt Tatsachenkern, Wertur…
+6. **beleidigung-meinungspruefer** — Für Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebni…
+7. **chronologie-fristen** — Für Chronologie und Belegmatrix: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Wi…
+8. **soziale-medien-aeusserungsrecht** — Für Soziale Medien: X, LinkedIn, Bewertungsportale: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenk…
+9. **kommunalrecht-buergermeister-machtkritik** — Für Kommunalrechtlicher Grenzfall: Bürgermeister und Bauprojekt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
+10. **meinung-strafantrag-verfahren** — Für Meinung: Fristen, Form, Zuständigkeit und Rechtsweg: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schr…
+11. **ueble-verleumdung** — Für Üble: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkart…
+12. **wahrnehmung-berechtigter-zitat** — Für Paragraf 193 StGB - Wahrnehmung berechtigter Interessen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpr…
+13. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+14. **europarecht-emrk-gegendarstellung** — Für Europarecht: EMRK und Grundrechtecharta: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mi…
+15. **schmaehkritik-formalbeleidigung-schnelltriage** — Für Schmähkritik, Formalbeleidigung, Menschenwürde: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodu…
 
 ---
 
@@ -338,6 +338,46 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `schimpfwort-lackaffe-und-spott`
+
+_Prüft Spottbegriffe wie Lackaffe anhand Wortlaut, Anlass, Kontext, Adressat und Reichweite. Trennt Tatsachenkern, Werturteil, persönliche Herabsetzung und ernsthafte Gegenposition und liefert eine begründete Einschätzung der konkreten Äußerung._
+
+# "Lackaffe" und ähnliche Spottbegriffe
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Ausgangspunkt
+
+"Lackaffe" ist ein abwertender Spottbegriff. Ob daraus eine strafbare Beleidigung oder eine zulässige, wenn auch unfreundliche Meinungsäußerung wird, hängt stark vom Kontext ab.
+
+## Prüffaktoren
+
+- **Sachbezug:** Wird Auftreten, Kommunikation oder Amtsführung im Zusammenhang mit einer Sachfrage kritisiert?
+- **Betroffene Person:** Privatperson, Vorgesetzter, Bürgermeister, Dienstleister?
+- **Situation:** spontane hitzige Äußerung oder vorbereitete Kampagne?
+- **Medium:** Gespräch, Kantine, Bürgerversammlung, X, Plakat.
+- **Reichweite:** kleiner Kreis oder öffentliche Prangerwirkung?
+- **Zusatzvorwürfe:** Kommt ein unbelegter Tatsachenkern hinzu?
+
+## Bewertungslogik
+
+Ein einzelner Spottbegriff mit erkennbarem Sachanlass ist nicht automatisch Formalbeleidigung oder Schmähkritik. Je mehr die Äußerung nur noch auf persönliche Lächerlichmachung zielt und je öffentlicher sie verbreitet wird, desto höher das Risiko.
+
+## Schneller Arbeitsmodus
+
+- Starte mit Wortlaut, Medium, Adressat, Anlass, Vor- und Nachgeschichte, Reichweite, Betroffenem und vorhandenen Belegen.
+- Trenne strikt: Tatsachenbehauptung, Werturteil, gemischte Aeusserung, Satire/Spott, Schmähungs- oder Prangerkontext.
+- Gewichte meinungsfreiheitsfreundlich, aber nicht blind: Sachbezug, Machtkritik, Beleglage, Formalbeleidigung, Privatbereich und Eskalationsrisiko getrennt ausweisen.
+- Keine erfundene Rechtsprechung. Entscheidungen nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle nennen; sonst Recherchebedarf markieren.
 
 ---
 
@@ -775,53 +815,6 @@ Das ist die engste und schwerste Kategorie: Der Person wird der Würdekern abges
 - **Echo (Persönlichkeit, Recht am eigenen Bild, allgemeines Persönlichkeitsrecht):** Art. 2 I iVm Art. 1 I GG; abzuwägen gegen Art. 5 I GG.
 - **§ 188 StGB (Personen des politischen Lebens):** ab 22.09.2021 verschärft; Strafrahmen bis 5 Jahre Freiheitsstrafe.
 - Falle: "Schmähkritik" wird vorgerichtlich oder im Schriftsatz als Kürzel verwendet, BVerfG fordert aber detaillierte Subsumtion. Bei Verstoß: Aufhebung durch BVerfG (Verfassungsbeschwerde lohnt regelmäßig).
-
----
-
-## Skill: `personen-politisches-presserecht-plattformen`
-
-_Für Paragraf 188 StGB - Personen des politischen Lebens: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
-
-# § 188 StGB - Personen des politischen Lebens
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Leitfrage
-
-Nicht jede scharfe Kritik an einem Bürgermeister, Ratsmitglied oder Ministerialbeamten ist § 188 StGB. Die Norm verlangt zusätzliche Voraussetzungen und bleibt an Art. 5 GG gebunden.
-
-## Prüfprogramm
-
-1. **Person des politischen Lebens:** Mandat, Amt, Kandidatur, herausgehobene politische Funktion oder vergleichbare öffentliche Rolle.
-2. **Äußerungsdelikt:** Beleidigung, üble Nachrede oder Verleumdung.
-3. **Öffentlichkeit:** öffentlich, in Versammlung oder durch Verbreiten eines Inhalts.
-4. **Motivzusammenhang:** Beweggründe hängen mit der Stellung im öffentlichen Leben zusammen.
-5. **Eignung:** öffentliches Wirken erheblich zu erschweren.
-6. **Art. 5 GG:** Machtkritik und öffentliche Debatte besonders gewichten.
-
-## Abgrenzung
-
-- Kritik an Amtsführung, Bauprojekt, Verwaltungspraxis oder Ratsentscheidung spricht für Sachbezug.
-- Reine Privatbeleidigung ohne Debattenbezug spricht gegen Schutz.
-- Drohungen, gezielte Kampagnen und Prangerwirkung erhöhen Risiko.
-- Kleine kommunale Öffentlichkeit kann trotzdem Öffentlichkeit sein.
-
-## Norm-Stand und Praxisprobleme
-
-- **§ 188 StGB Fassung 22.09.2021:** Strafrahmen Freiheitsstrafe bis 5 Jahre oder Geldstrafe; bei § 188 II StGB qualifiziert.
-- **Anwendungsbereich erweitert:** seit 22.09.2021 nicht nur "Personen des politischen Lebens des Volkes", sondern auch des Landes oder einer Kommune einschließlich Ratsmitgliedern und kommunalen Mandatsträgern.
-- **Basisdelikt:** Beleidigung § 185 StGB, üble Nachrede § 186 StGB, Verleumdung § 187 StGB. § 188 setzt eines dieser Grunddelikte voraus.
-- **Eignung zur Erschwerung öffentlichen Wirkens:** objektiver Maßstab; persönliche Verletztheit des Mandatsträgers reicht nicht.
-- **Strafantragserfordernis § 194 III StGB:** auch Vorgesetzte / Behörde können Strafantrag stellen; Privatklage möglich (§ 374 I Nr. 2 StPO).
-- **Verhältnis Art. 5 GG:** BVerfG ständige Rspr. — Machtkritik im politischen Diskurs hat erhöhten Schutz; pauschale Anwendung § 188 StGB ohne Abwägung verstößt regelmäßig gegen Art. 5 I GG.
-- **Strafverteidigung:** Sachbezug herausarbeiten; bei kommunaler Politik Auseinandersetzung mit der Amtsführung dokumentieren; bei Soziale-Medien-Posts Kontext (Thread, Kommentarstrang) sichern.
-- Falle: Frühe Annahme § 188 ohne Subsumtion der Eignungs-Voraussetzung führt regelmäßig zu Aufhebung. Sorgfältig prüfen: Wäre der Mandatsträger ohne diese Äußerung weiterhin in seinem Wirken nennenswert beeinträchtigt?
 
 ---
 

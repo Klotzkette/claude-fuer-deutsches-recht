@@ -178,9 +178,9 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt | Diese Pflicht bezieht sich auf alles, was ihm in Ausübung seines Berufes bekanntgeworden ist." Die Verschwiegenheitspflicht ist eine berufsrechtliche Kernpflicht. | Teilbefund zu Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad. |
 | Konfliktcheck-Vorab | Bearbeite Konfliktcheck-Vorab: rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Mandatsverhältnis-Hinweis | Formuliere den rechtlich erforderlichen Hinweis, dass mit der Beantwortung einer Erstanfrage noch kein Mandatsverhältnis begründet wird und die Antwort keine Rechtsberatung darstellt. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Telefon-Konfiguration | Sind alle Pflicht-Felder in kanzlei.json bereits konfiguriert (Kanzleiname, Telefon, E-Mail, Unterzeichnende-RA)? Paragraf 5 TMG — Impressumspflicht: vollständige Kanzlei-Kontaktdaten für elektronische Kommunikation. | Teilbefund zu Telefon-Konfiguration mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Transkriptionsdienst-Erklärung | Ist ein Auftragsverarbeitungsvertrag nach Artikel 28 Datenschutz-Grundverordnung mit dem Transkriptions-Dienstleister vorhanden? Enthält die Sprachaufnahme potenziell besondere Datenkategorien (Gesundheit, Strafrecht — Artikel 9 Datenschutz-Grundverordnung)? | Teilbefund zu Transkriptionsdienst-Erklärung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Muster-Erstantwort | Die Erstantwort besteht aus einem sofort versandfähigen Musterschreiben für das Kanzlei-Sekretariat: Sie bestätigt den Eingang, vermeidet eine versehentliche Mandatsannahme, weist auf den noch fehlenden Beratungsvertrag. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
+| Telefon-Konfiguration | Sind alle Pflicht-Felder in kanzlei.json bereits konfiguriert (Kanzleiname, Telefon, E-Mail, Unterzeichnende-RA)? Paragraf 5 TMG — Impressumspflicht: vollständige Kanzlei-Kontaktdaten für elektronische Kommunikation. | Teilbefund zu Telefon-Konfiguration mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Anrede-Übernehmen | Dieser Arbeitsgang übernimmt die exakte Anrede aus der eingehenden E-Mail und wandelt sie — wo nötig — in eine formelle Anredezeile für das Antwortschreiben um. | Teilbefund zu Anrede-Übernehmen mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Dringlichkeitsmarker | Welches Rechtsgebiet ist betroffen — welche typischen Fristen gelten (KSchG 3 Wochen, Paragraf 517 ZPO 1 Monat Berufung)? Gibt es Anzeichen für Zwangsvollstreckung, Insolvenzantrag oder strafrechtliche Eile? | Teilbefund zu Dringlichkeitsmarker mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Mehrsprachige-Antwort | Welche Sprache wurde in der Anfrage verwendet und welche Sprache soll für die Antwort verwendet werden? Artikel 13 Datenschutz-Grundverordnung — Informationspflicht in verständlicher Sprache: gilt bei Fremdsprachler uneingeschränkt. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
@@ -199,7 +199,7 @@ Lieferstück: Teilbefund zu Sekretariat muss wissen ab wann die Anwaltsschwiegep
 
 Bearbeitungsauftrag: Bearbeite Konfliktcheck-Vorab: rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Sekretariat soll vor Terminvergabe Interessenkonflikt prüfen; Paragraf 43a Absatz 4 BRAO Paragraf 3 BORA Interessenkonflikt-Check; Prüfraster: Gegenseite und Beteiligte erfragen Datenbankabgleich bestehende Mandate; Output: Konfliktcheck-Anweisung und Abfragemuster; Abgrenzung zu mandatsverhältnis-hinweis (nach Mandatsannahme) und vertraulichkeit-erinnerung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 43a Absatz 4 BRAO Paragraf 3 BORA Interessenkonflikt-Check; Sekretariat soll vor Terminvergabe Interessenkonflikt prüfen; Paragraf 43a Absatz 4 BRAO Paragraf 3 BORA Interessenkonflikt-Check; Prüfraster: Gegenseite und Beteiligte erfragen Datenbankabgleich bestehende Mandate; Output: Konfliktcheck-Anweisung und Abfragemuster.
+Normbezug aus dem Fachmaterial: Paragraf 43a Absatz 4 BRAO Paragraf 3 BORA Interessenkonflikt-Check.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.3. Mandatsverhältnis-Hinweis
@@ -207,23 +207,22 @@ Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gege
 Bearbeitungsauftrag: Formuliere den rechtlich erforderlichen Hinweis, dass mit der Beantwortung einer Erstanfrage noch kein Mandatsverhältnis begründet wird und die Antwort keine Rechtsberatung darstellt. Ist der Mandant Verbraucher (Paragraf 13 BGB) — dann auch Widerrufsrecht und Fernkommunikationspflichten beachten? Muss zusätzlich auf die Kostenpflicht hingewiesen werden (Paragraf 49b Absatz 5 BRAO)?
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.4. Telefon-Konfiguration
-
-Bearbeitungsauftrag: Sind alle Pflicht-Felder in kanzlei.json bereits konfiguriert (Kanzleiname, Telefon, E-Mail, Unterzeichnende-RA)? Paragraf 5 TMG — Impressumspflicht: vollständige Kanzlei-Kontaktdaten für elektronische Kommunikation. Artikel 4 Nummer 7 Datenschutz-Grundverordnung — Verantwortlicher: muss mit aktuellen Kontaktdaten erreichbar sein.
-Prüfschritte: Dieser Arbeitsgang verwaltet die Kanzlei-spezifischen Kontaktdaten — insbesondere Telefonnummern — und stellt sicher, dass alle Antwort-Templates mit den aktuellen Daten befüllt werden.
-Lieferstück: Teilbefund zu Telefon-Konfiguration mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
-
-### 16.5. Transkriptionsdienst-Erklärung
+### 16.4. Transkriptionsdienst-Erklärung
 
 Bearbeitungsauftrag: Ist ein Auftragsverarbeitungsvertrag nach Artikel 28 Datenschutz-Grundverordnung mit dem Transkriptions-Dienstleister vorhanden? Enthält die Sprachaufnahme potenziell besondere Datenkategorien (Gesundheit, Strafrecht — Artikel 9 Datenschutz-Grundverordnung)? Wird die Einwilligung per automatisierter Ansage (Tastendruck) oder schriftlich eingeholt?
 Prüfschritte: Formuliere den vollständigen Abschnitt in der Erstantwort-Mail, in dem der automatisierte Transkriptionsservice beschrieben wird; Er kommt zum Einsatz, wenn die anfragende Person signalisiert, dass sie ihren Sachverhalt nicht schriftlich schildern kann oder möchte.
 Lieferstück: Teilbefund zu Transkriptionsdienst-Erklärung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.6. Muster-Erstantwort
+### 16.5. Muster-Erstantwort
 
 Bearbeitungsauftrag: Die Erstantwort besteht aus einem sofort versandfähigen Musterschreiben für das Kanzlei-Sekretariat: Sie bestätigt den Eingang, vermeidet eine versehentliche Mandatsannahme, weist auf den noch fehlenden Beratungsvertrag hin und führt die anfragende Person geordnet zu Terminvereinbarung, Sachverhaltsschilderung, Interessenkonfliktprüfung und Kostenhinweis. Sind alle Platzhalter (Kanzleiname, Sekretariats-Telefon, Unterzeichnende-RA) in kanzlei.json konfiguriert?
 Prüfschritte: Alle Platzhalter in eckigen Klammern [.] werden durch den Skill telefon-konfiguration und anrede-übernehmen automatisch befüllt oder sind manuell zu ersetzen.
 Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
+
+### 16.6. Telefon-Konfiguration
+
+Bearbeitungsauftrag: Sind alle Pflicht-Felder in kanzlei.json bereits konfiguriert (Kanzleiname, Telefon, E-Mail, Unterzeichnende-RA)? Paragraf 5 TMG — Impressumspflicht: vollständige Kanzlei-Kontaktdaten für elektronische Kommunikation. Artikel 4 Nummer 7 Datenschutz-Grundverordnung — Verantwortlicher: muss mit aktuellen Kontaktdaten erreichbar sein.
+Lieferstück: Teilbefund zu Telefon-Konfiguration mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
 ### 16.7. Anrede-Übernehmen
 

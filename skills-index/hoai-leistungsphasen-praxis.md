@@ -1,6 +1,6 @@
 # hoai-leistungsphasen-praxis
 
-**151 Skills** · Stand `v441.0.0`
+**151 Skills** · Stand `v442.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../hoai-leistungsphasen-praxis/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Regelwerk, Zuständig
 | Mitglied oder Bewerber | Status, Stimmrecht, Wählbarkeit, Chancengleichheit, Gehör, Befangenheit und Dokumentation sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Finanzierung und Rechenschaft | Zuwendung, Spende, Sponsoring, Veröffentlichung, Annahmeverbot, Rechenschaft und Sanktion trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Einladung, Wahlleitfaden, Beschluss, Protokoll, Schiedsantrag, Wahlvorschlag oder Rechenschaftsvermerk erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristkalender Partei | Bearbeite Fristkalender Partei: aktuelle Bundessatzung, Gliederungssatzung, Wahlordnung, Schiedsordnung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,6 +59,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Regelwerk, Zuständig
 - Art. 38 I 2 GG (freies Mandat, Indemnität, Stimmgleichheit), Art. 46-48 GG (Indemnität, Immunität, Behinderungsverbot); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 137 I GG ermöglicht Inkompatibilitätsregelungen (Beamte, Soldaten); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 108e StGB Abgeordnetenbestechung: subjektiver Tatbestand erfordert "Auftrag" (Stimme/Handeln) als Gegenleistung; bloß Wahlkampfspende reicht nicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Urteil vom 17.01.2017 - 2 BvB 1/13: Verfassungsfeindliche Ziele allein genügen für ein Parteiverbot nicht; erforderlich sind planvolles Handeln und konkrete Anhaltspunkte von Gewicht, die einen Erfolg zumindest möglich erscheinen lassen.
 
 ## 7. Antwortform
 

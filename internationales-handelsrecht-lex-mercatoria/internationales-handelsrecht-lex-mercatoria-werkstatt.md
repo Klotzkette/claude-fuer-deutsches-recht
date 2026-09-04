@@ -181,8 +181,8 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Digitale Produkte im internationalen Handel | Digitale Produkte (Software, Datenbanken, System-Modelle) stellen besondere Herausforderungen für das internationale Handelrecht dar: CISG-Anwendbarkeit auf Software ist umstritten (Körperlichkeit?). | Fachvotum zu Digitale Produkte im internationalen Handel mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | ESG, LkSG und CSDDD in der Lieferkette | Doppelte Wesentlichkeit (CSRD): Inside-Out (Auswirkungen auf Umwelt/Gesellschaft) + Outside-In (ESG-Risiken auf Unternehmen). Paris-Alignment (CSDDD): Unternehmen müssen Klimaübergangsplan mit 1.5°C-Ziel aufstellen. | Fachvotum zu ESG, LkSG und CSDDD in der Lieferkette mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Vertraulichkeit und Geschäftsgeheimnisse | Das Gesetz zum Schutz von Geschäftsgeheimnissen (HGeschGehG, 2019) setzt die EU-Richtlinie 2016/943 um. Reverse Engineering: erlaubt wenn aus öffentlich verfügbarem Produkt (Paragraf 3 Absatz 1 Nummer 2 HGeschGehG). | Fachvotum zu Vertraulichkeit und Geschäftsgeheimnisse mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Gerichtsstand: Brüssel Ia und Haager Übereinkommen | Das Haager Übereinkommen über Gerichtsstandsvereinbarungen (2005) erweitert dieses System auf wichtige Drittstaaten (Mexiko, Montenegro, Singapore, UK nach Brexit, EU). | Fachvotum zu Gerichtsstand: Brüssel Ia und Haager Übereinkommen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Claim-Letter unter CISG | Anforderungen an das Rügeschreiben (Artikel 39 CISG), Aufhebungserklärung (Artikel 26 CISG), Schadensersatzberechnung (Artikel 74-76 CISG) und Musterkorrespondenz. | Fachvotum zu Claim-Letter unter CISG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Grenzüberschreitender B2B-E-Commerce | Die E-Commerce-RL 2000/31/EG (Herkunftslandprinzip) regelt den EU-Rahmen. Click-Through-Agreement: Online-AGB-Einbeziehung bei B2B — CISG-Fragen. | Fachvotum zu Grenzüberschreitender B2B-E-Commerce mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -192,28 +192,27 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Battle of Forms entsteht wenn Käufer und Verkäufer widersprüchliche AGB einbeziehen. Knock-Out-Theorie: Widersprüchliche AGB-Klauseln neutralisieren sich; CISG/lex contractus füllt Lücke. Silence = Acceptance: Handelsbrauch kann Schweigen als Annahme bewerten (Artikel 9 CISG).
 Prüfschritte: CISG Artikel 19 regelt die modifizierte Annahme: wesentliche Abweichungen begründen Gegenangebot, unwesentliche werden Vertragsinhalt; In der Schiedsgerichtspraxis setzt sich die Knock-Out-Doktrin durch: Klauseln die sich widersprechen werden neutralisiert; gemeinsame Klauseln und dispositives Recht füllen die Lücke; Last-Shot-Doktrin: Letzte AGB gewinnt — traditionelles Common Law, vom CISG nicht übernommen; Mirror-Image-Rule: Common-Law-Prinzip (jede Abweichung = Ablehnung und Gegenangebot).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: CISG Artikel 19 regelt die modifizierte Annahme: wesentliche Abweichungen begründen Gegenangebot, unwesentliche werden Vertragsinhalt; CISG Artikel 19 regelt die modifizierte Annahme: wesentliche Abweichungen begründen Gegenangebot, unwesentliche werden Vertragsinhalt.
+Normbezug aus dem Fachmaterial: CISG Artikel 19 regelt die modifizierte Annahme: wesentliche Abweichungen begründen Gegenangebot, unwesentliche werden Vertragsinhalt.
 Lieferstück: Fachvotum zu Battle of Forms International mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. CMR: Straßengütertransport international
 
 Bearbeitungsauftrag: Das CMR-Übereinkommen (Convention relative au contrat de transport international de marchandises par route, Genf 1956, revidiert Protokoll 1978) gilt für internationalen Straßengütertransport und ist in 55 Staaten in Kraft. e-CMR: Protokoll 2008 — elektronischer CMR-Frachtbrief, ratifiziert von ca. Diebstahl LKW auf Rastplatz: Haftung des Frachtführers und Exkulpation Artikel 17 Absatz 2?
 Prüfschritte: Es regelt Haftung des Frachtführers, zwingende Haftungsgrenzen und den CMR-Frachtbrief als Beweisurkunde; CMR-Frachtbrief (CMR waybill): kein Wertpapier; Gefahrenbereich-Haftung: CMR Artikel 17 Absatz 4 — spezielle Gefahren (offene Fahrzeuge, Lebendtiere); Haftungsausschluss bei Verschulden: Artikel 29 CMR — vorsätzliches/grob fahrlässiges Handeln; Aufeinanderfolgende Frachtführer: Artikel 34-40 CMR — Gesamtschuldnerschaft.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Es regelt Haftung des Frachtführers, zwingende Haftungsgrenzen und den CMR-Frachtbrief als Beweisurkunde; CMR-Frachtbrief (CMR waybill): kein Wertpapier; Gefahrenbereich-Haftung: CMR Artikel 17 Absatz 4 — spezielle Gefahren (offene Fahrzeuge, Lebendtiere).
 Lieferstück: Fachvotum zu CMR: Straßengütertransport international mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. EU-Handelsvertreterrecht
 
 Bearbeitungsauftrag: Der Ausgleichsanspruch ist zwingendes Recht und kann nicht vertraglich abbedungen werden (Paragraf 89b Absatz 4 HGB). Ausgleich Paragraf 89b: (1) Unternehmer profitiert weiter von Kundschaft, (2) Provision entfällt, (3) angemessen, (4) kein Kündigungsgrund des HV, (5) kein Eigenkündigung. Kollisionsrecht: Paragraf 92c HGB — Rechtswahl muss zu EU-Recht gleichwertigem Schutz führen.
 Prüfschritte: In Deutschland umgesetzt durch HGB Paragrafen 84-92c; Kernrechte: Provisionsanspruch, Ausgleich nach Kündigung (Paragraf 89b HGB) und Wettbewerbsverbots-Entschädigung; Kundschutzliste: nach Beendigung dem HV zu überlassende Liste seiner Kunden; Delkredereprovision: HV übernimmt Haftung für Zahlungsfähigkeit des Kunden (Paragraf 86b HGB); Inkassovollmacht: Berechtigung zur Entgegennahme von Zahlungen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Kernrechte: Provisionsanspruch, Ausgleich nach Kündigung (Paragraf 89b HGB) und Wettbewerbsverbots-Entschädigung; In Deutschland umgesetzt durch HGB Paragrafen 84-92c; Kernrechte: Provisionsanspruch, Ausgleich nach Kündigung (Paragraf 89b HGB) und Wettbewerbsverbots-Entschädigung; Kundschutzliste: nach Beendigung dem HV zu überlassende Liste seiner Kunden.
+Normbezug aus dem Fachmaterial: Kernrechte: Provisionsanspruch, Ausgleich nach Kündigung (Paragraf 89b HGB) und Wettbewerbsverbots-Entschädigung.
 Lieferstück: Fachvotum zu EU-Handelsvertreterrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Contract Playbook für Importeure
 
 Bearbeitungsauftrag: Importeure verfolgen eine andere Verhandlungsstrategie als Exporteure: Qualitätssicherung (PSI, Audits), günstige Zahlungsbedingungen (Open Account oder Akkreditiv), Eigentumsvorbehalt des Lieferanten beschränken und CISG-Rechtsbehelfe (Artikel 38-39 Rüge, Artikel 50 Minderung) als Druckmittel nutzen. LkSG-Lieferantenklausel: Verpflichtung des Lieferanten zu Menschenrechts-Compliance. Qualitätsrüge: Importeur verlangt 100% Nachlieferung, Verkäufer bietet Minderung — Kompromiss?
 Prüfschritte: Inspection Right: Recht des Importeurs auf Pre-Shipment Inspection; Qualitätszertifikat-Klausel: Verlangen von ISO/IEC 17025 akkreditiertem Testlabor; Nacherfüllungspflicht: Klausel die Verkäufer zu Nachbesserung oder Ersatz verpflichtet; Open Account mit Forderungsversicherung: Euler Hermes/Allianz Trade als Kreditabsicherung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Importeure verfolgen eine andere Verhandlungsstrategie als Exporteure: Qualitätssicherung (PSI, Audits), günstige Zahlungsbedingungen (Open Account oder Akkreditiv), Eigentumsvorbehalt des Lieferanten beschränken und CISG-Rechtsbehelfe (Artikel 38-39 Rüge, Artikel 50 Minderung).
+Normbezug aus dem Fachmaterial: Importeure verfolgen eine andere Verhandlungsstrategie als Exporteure: Qualitätssicherung (PSI, Audits), günstige Zahlungsbedingungen (Open Account oder Akkreditiv), Eigentumsvorbehalt des Lieferanten beschränken und CISG-Rechtsbehelfe (Artikel 38-39 Rüge, Artikel 50 Minderung).
 Lieferstück: Fachvotum zu Contract Playbook für Importeure mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.5. Digitale Produkte im internationalen Handel
@@ -234,36 +233,35 @@ Bearbeitungsauftrag: Das Gesetz zum Schutz von Geschäftsgeheimnissen (HGeschGeh
 Prüfschritte: Es schützt Informationen nur wenn angemessene Geheimhaltungsmaßnahmen ergriffen wurden; Ein wirksames NDA allein reicht nicht — organisatorische und technische Maßnahmen sind erforderlich; International gilt lex loci delicti für unerlaubte Handlungen; Angemessene Schutzmaßnahmen: NDA, Zugangskontrollen, Wasserzeichen, Need-to-Know-Prinzip; Grenzüberschreitend: lex loci delicti für Rechtsverletzung.
 Lieferstück: Fachvotum zu Vertraulichkeit und Geschäftsgeheimnisse mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Gerichtsstand: Brüssel Ia und Haager Übereinkommen
-
-Bearbeitungsauftrag: Das Haager Übereinkommen über Gerichtsstandsvereinbarungen (2005) erweitert dieses System auf wichtige Drittstaaten (Mexiko, Montenegro, Singapore, UK nach Brexit, EU). Haager Übereinkommen: Nur ausschließliche Vereinbarungen; gemischte Klauseln problematisch. Welcher Erfüllungsort gilt bei CIF-Lieferung für Artikel 7 Nummer 1 Brüssel Ia?
-Prüfschritte: Artikel 25 erlaubt Gerichtsstandsvereinbarungen zugunsten eines EU-Gerichts; nicht ausschließlicher Gerichtsstand (Artikel 25 Absatz 1); b: Lieferort für Warenkauf, Erbringungsort für Dienstleistungen; Lis pendens: Torpedo-Klagen und reformiertes Prioritätsprinzip (Artikel 31 Absatz 2); Brexit: UK trat Haager GStÜ 2005 bei.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 25 erlaubt Gerichtsstandsvereinbarungen zugunsten eines EU-Gerichts; Artikel 25 erlaubt Gerichtsstandsvereinbarungen zugunsten eines EU-Gerichts; nicht ausschließlicher Gerichtsstand (Artikel 25 Absatz 1); b: Lieferort für Warenkauf, Erbringungsort für Dienstleistungen.
-Lieferstück: Fachvotum zu Gerichtsstand: Brüssel Ia und Haager Übereinkommen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. Claim-Letter unter CISG
+### 16.8. Claim-Letter unter CISG
 
 Bearbeitungsauftrag: Anforderungen an das Rügeschreiben (Artikel 39 CISG), Aufhebungserklärung (Artikel 26 CISG), Schadensersatzberechnung (Artikel 74-76 CISG) und Musterkorrespondenz. Eine unspezifizierte Rüge verliert Mangelrechte (Artikel 39 CISG). Das Claim-Letter muss Mangelart, Datum der Entdeckung, verlangte Rechtsbehelfe und Schadensberechnung klar benennen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Anforderungen an das Rügeschreiben (Artikel 39 CISG), Aufhebungserklärung (Artikel 26 CISG), Schadensersatzberechnung (Artikel 74-76 CISG) und Musterkorrespondenz.
+Normbezug aus dem Fachmaterial: Anforderungen an das Rügeschreiben (Artikel 39 CISG), Aufhebungserklärung (Artikel 26 CISG), Schadensersatzberechnung (Artikel 74-76 CISG) und Musterkorrespondenz.
 Lieferstück: Fachvotum zu Claim-Letter unter CISG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Grenzüberschreitender B2B-E-Commerce
+### 16.9. Grenzüberschreitender B2B-E-Commerce
 
 Bearbeitungsauftrag: Die E-Commerce-RL 2000/31/EG (Herkunftslandprinzip) regelt den EU-Rahmen. Click-Through-Agreement: Online-AGB-Einbeziehung bei B2B — CISG-Fragen. Online-Bestellung via Marketplace: CISG-Angebot wenn "Buy Now"-Button geklickt wird?
 Prüfschritte: Digitale Beschaffung und Vertrieb über Online-Plattformen werfen spezifische Rechts- und Zuständigkeitsfragen auf; Vertragsschluss via Online-Bestellung ist nach CISG Artikel 14-24 möglich; eIDAS-VO regelt rechtswirksame elektronische Signaturen; Herkunftslandprinzip: Anbieter muss nur Recht seines Niederlassungslandes einhalten; eIDAS-Signatur: Qualifizierte elektronische Signatur = handschriftliche Unterschrift EU-weit.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Vertragsschluss via Online-Bestellung ist nach CISG Artikel 14-24 möglich; Digitale Beschaffung und Vertrieb über Online-Plattformen werfen spezifische Rechts- und Zuständigkeitsfragen auf; Vertragsschluss via Online-Bestellung ist nach CISG Artikel 14-24 möglich; eIDAS-VO regelt rechtswirksame elektronische Signaturen.
+Normbezug aus dem Fachmaterial: Vertragsschluss via Online-Bestellung ist nach CISG Artikel 14-24 möglich.
 Lieferstück: Fachvotum zu Grenzüberschreitender B2B-E-Commerce mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Ware, Dokumente und Digitalisierung (CISG Art. 34-35)
+### 16.10. Ware, Dokumente und Digitalisierung (CISG Art. 34-35)
 
 Bearbeitungsauftrag: Digitalisierung berührt CISG: elektronische Frachtdokumente, elektronische Konnossemente und E-Akkreditive erfordern Anpassung. eUCP 2.0 (ICC 2019): elektronische Dokumente im Akkreditivrecht.
 Prüfschritte: Artikel 35 CISG bestimmt die Vertragsmäßigkeit der Ware in subjektiver (Artikel 35 Absatz 1) und objektiver (Absatz 2) Hinsicht; Subjektiver Standard (Artikel 35 Absatz 1) vs; Besonderer Zweck: Käufer muss Zweck mitgeteilt haben; Verkäufer durfte nicht auf Inkompetenz vertrauen; Haltbarkeit: Ware muss auch bei Ankunft nach gewöhnlicher Transportzeit noch gebrauchsfähig sein.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 35 CISG bestimmt die Vertragsmäßigkeit der Ware in subjektiver (Artikel 35 Absatz 1) und objektiver (Absatz 2) Hinsicht; Artikel 35 CISG bestimmt die Vertragsmäßigkeit der Ware in subjektiver (Artikel 35 Absatz 1) und objektiver (Absatz 2) Hinsicht; Subjektiver Standard (Artikel 35 Absatz 1) vs; Besonderer Zweck: Käufer muss Zweck mitgeteilt haben.
+Normbezug aus dem Fachmaterial: Artikel 35 CISG bestimmt die Vertragsmäßigkeit der Ware in subjektiver (Artikel 35 Absatz 1) und objektiver (Absatz 2) Hinsicht.
 Lieferstück: Akten- und Belegmatrix zu Ware, Dokumente und Digitalisierung (CISG Art. 34-35) mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
-### 16.12. Audit-Rechte gegenüber Lieferanten
+### 16.11. Audit-Rechte gegenüber Lieferanten
 
 Bearbeitungsauftrag: Audit-Rechte in Lieferverträgen ermöglichen dem Auftraggeber die Überprüfung von Qualität, Compliance (Umwelt, Menschenrechte, Exportkontrolle) und finanzieller Lage des Lieferanten. Vertragliche Audit-Klausel: Mindestankündigung (usually 2-4 Wochen), Umfang, Kosten. Shared Audit: mehrere Auftraggeber teilen Auditkosten bei gleichem Lieferanten.
 Prüfschritte: Nach LkSG Paragraf 4 sind Risikoanalysen und ggf; direkte Audits für direkte Zulieferer erforderlich; Vertragliche Klauseln müssen Umfang, Vorankündigung und Datenschutz regeln; Third-Party-Audit: Beauftragung von SGS, Bureau Veritas als Prüfer (Effizienz und Objektivität); Supplier Self-Assessment: Fragebogen als Vorstufe zum physischen Audit.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Nach LkSG Paragraf 4 sind Risikoanalysen und ggf; Nach LkSG Paragraf 4 sind Risikoanalysen und ggf; direkte Audits für direkte Zulieferer erforderlich; Vertragliche Klauseln müssen Umfang, Vorankündigung und Datenschutz regeln; Third-Party-Audit: Beauftragung von SGS, Bureau Veritas als Prüfer (Effizienz und Objektivität).
+Normbezug aus dem Fachmaterial: Nach LkSG Paragraf 4 sind Risikoanalysen und ggf.
 Lieferstück: Kontrollvermerk zu Audit-Rechte gegenüber Lieferanten mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
+
+### 16.12. Bankgarantien nach URDG 758
+
+Bearbeitungsauftrag: URDG 758 (Uniform Rules for Demand Guarantees, ICC 2010) ist das wichtigste Regelwerk für Nachfrage-Bankgarantien weltweit. URDG 758 bietet Gleichgewicht zwischen Begünstigten-Schutz und Missbrauchsprävention. Extend-or-Pay: Begünstigter verlangt Verlängerung statt Sofortabruf.
+Prüfschritte: Eine Demand Guarantee verpflichtet die Garantiebank zur Zahlung auf erste Anforderung und Vorlage einer Erklärung über Vertragsverletzung; Bietungsgarantie (Bid Bond): sichert Seriosität des Angebots (2-5% Angebotssumme); Erfüllungsgarantie (Performance Bond): sichert Vertragserfüllung (5-10%); Anzahlungsgarantie (Advance Payment Bond): sichert Rückzahlung von Vorauszahlungen; Gegengarantie (Counter-Guarantee): Instruktionsbank garantiert gegenüber Garantiebank.
+Lieferstück: Fachvotum zu Bankgarantien nach URDG 758 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

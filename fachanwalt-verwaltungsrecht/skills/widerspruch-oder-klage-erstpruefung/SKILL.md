@@ -1,22 +1,21 @@
 ---
 name: widerspruch-oder-klage-erstpruefung
-description: "Für Entscheidung Widerspruch vs: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
+description: "Entscheidet anhand Verwaltungsakt, Rechtsschutzziel, Landesrecht, Bekanntgabe und Eilbedarf zwischen Widerspruch, unmittelbarer Klage, Untätigkeitsklage und vorläufigem Rechtsschutz. Erstellt ein Fristenblatt, eine Zulässigkeitsmatrix und den passenden fristwahrenden Rechtsbehelf."
 ---
 
-# Entscheidung Widerspruch vs
+# Widerspruch oder Klage: verwaltungsrechtliche Erstprüfung
 
 
-## Arbeitsweg
+## Direktauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Bescheid, Zustell- oder Bekanntgabenachweis und Rechtsbehelfsbelehrung zuerst. Bestimme Rechtsschutzziel und Klageart, prüfe anhand des einschlägigen Bundes- oder Landesrechts, ob ein Vorverfahren erforderlich, ausgeschlossen oder fakultativ ist, und sichere Hauptsache sowie Eilrechtsschutz in getrennten Anträgen.
 
-**Fokus:** Entscheidung Widerspruch vs. direkte Klage treffen: Mandant fragt was als naechstes zu tun ist nach Erhalt eines Bescheids. Normen: § 68 VwGO (Vorverfahren statthaft?), § 42 VwGO (Anfechtungs-/Verpflichtungsklage), § 74 VwGO (Klagefrist), §§ 80 und 80a und 123 VwGO (vorläufiger Rechtsschutz). Prüfraster: Vorverfahrenspflicht (Bundesland), Statthaftigkeit, Klagebefugnis, Frist, vorläufiger Rechtsschutz-Bedarf. Output Vorabbewertung Erfolgsaussicht, Streitwert § 52 GKG, Routing. Abgrenzung: Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift; Eilantrag siehe eilantrag-80-abs-5-vwgo.
-
-### Widerspruch oder Klage — Erstprüfung
+- Start: Mit einem Fristenblatt und einer Zulässigkeitsmatrix beginnen; danach den statthaften Rechtsbehelf mit bestimmtem Antrag, Tatsachenvortrag, Rechtsgründen, Beweisangeboten und Anlagenbezug entwerfen.
+- Tatbestand und Beweis: Ordne jedem entscheidungserheblichen Merkmal einen Aktenfund oder eine ausdrücklich bezeichnete Lücke zu; bloße Plausibilität ersetzt weder Vortrag noch Beweis.
+- Kernnormen: VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform. VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+- Rechtsprechung: Kein Urteil nur zur Dekoration einsetzen. Rechtsprechung erst verwenden, wenn Gericht, Datum, Aktenzeichen, tragender Satz und Übertragungsgrenze in einer amtlichen oder frei zugänglichen Volltextquelle geprüft sind.
+- Einsatzgrenze: Normfassung und tragende Aussage am amtlichen Volltext prüfen; eine Entscheidung nicht auf andere Tatbestands-, Beweis- oder Verfahrensstufen übertragen.
+- Abschluss: Das Ergebnis benennt eindeutig Widerspruch oder Klage, die richtige Eilspur, die fristwahrende Handlung und den noch fehlenden Aktenfund.
 
 ## Eingaben
 

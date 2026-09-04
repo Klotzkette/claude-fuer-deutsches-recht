@@ -77,7 +77,7 @@ Arbeitsgriff Arbeitsprodukt: Widerrufserklärung, Anspruchsschreiben, Abmahnung,
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Agb Arbeitnehmerüberlassung AÜG | BGB Paragraf 312 ff | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Agb im Arbeitsvertrag 310 Abs 4 Vertieft | BGB Paragraf 312 ff | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 355 ff | Fristenblatt oder Prozess-/Verfahrensroute |
 | Begründetheit | Ergänzende Vertragsauslegung bei Agb Lücken | BGB Paragraf 355 ff | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren | Darlegungs- und Nachweisfrage für Verbraucherrecht und Verbandsdurchsetzung: Welche Frist läuft ab wann und wodurch wurde sie ausgelöst oder gehemmt | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
@@ -118,7 +118,7 @@ Arbeitsgriff Arbeitsprodukt: Widerrufserklärung, Anspruchsschreiben, Abmahnung,
 - Paragrafen 25, 39 BGB Vereinsrecht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 305-310 BGB AGB-Recht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 31 BGB: Verein haftet für Vorstand; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 309 Nummer 7 Buchstaben a und b BGB: Die Klauselverbote erfassen Haftungsbeschränkungen bei Verletzung von Leben, Körper oder Gesundheit sowie bei grobem Verschulden; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 309 Nummer 7 Buchstaben a und b BGB: Die Klauselverbote erfassen Haftungsbeschränkungen bei Verletzung von Leben, Körper oder Gesundheit sowie bei grobem Verschulden; Vorsatz ist zusätzlich nach Paragraf 276 Absatz 3 BGB nicht im Voraus erlassbar; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 310 Abs. 4 Satz 1 BGB: Tarifverträge, Betriebsvereinbarungen und Dienstvereinbarungen unterliegen nicht der AGB-Kontrolle; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
@@ -141,7 +141,7 @@ Arbeitsgriff Arbeitsprodukt: Widerrufserklärung, Anspruchsschreiben, Abmahnung,
 
 10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren.
 10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BGB Paragraf 312 ff; BGB Paragraf 355 ff.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Agb Arbeitnehmerüberlassung AÜG.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Agb im Arbeitsvertrag 310 Abs 4 Vertieft.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Verbraucherrecht und Verbandsdurchsetzung tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Darlegungs- und Nachweisfrage für Verbraucherrecht und Verbandsdurchsetzung: Welche Frist läuft ab wann und wodurch wurde sie ausgelöst oder gehemmt. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Klausel weicht vom gesetzlichen Leitbild ab und hält sie der Inhaltskontrolle stand an.
@@ -181,7 +181,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Agb Arbeitnehmerüberlassung AÜG | Klauselproblem (Agb Arbeitnehmerüberlassung AÜG): AGB bei Arbeitnehmerüberlassung (AÜG). Aktualisierungen AÜG 2017 und Folgejudikatur. | Fachvotum zu Agb Arbeitnehmerüberlassung AÜG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Agb im Arbeitsvertrag 310 Abs 4 Vertieft | Bearbeite Agb im Arbeitsvertrag 310 Abs 4 Vertieft entlang der Verbraucherrecht und Verbandsdurchsetzung-Prüflinie: Vertrag und Vertriebsweg: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Ergänzende Vertragsauslegung bei Agb Lücken | Klauselproblem (Ergänzende Vertragsauslegung Bei Agb Lücken): Ergänzende Vertragsauslegung bei AGB-Lücken. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Händlervertrag AGB | AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Absatz 1 S. 2 BGB), Inhaltskontrolle (Paragrafen 307-309 BGB), Rechtsfolge (Paragraf 306 BGB). | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | MSA Rahmenvertrag | Klauselproblem (MSA Rahmenvertrag): prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
@@ -195,11 +195,12 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Agb Arbeitnehmerüberlassung AÜG
+### 16.1. Agb im Arbeitsvertrag 310 Abs 4 Vertieft
 
-Bearbeitungsauftrag: Klauselproblem (Agb Arbeitnehmerüberlassung AÜG): AGB bei Arbeitnehmerüberlassung (AÜG). Aktualisierungen AÜG 2017 und Folgejudikatur. AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Absatz 1 S. 2 BGB), Inhaltskontrolle (Paragrafen 307-309 BGB), Rechtsfolge (Paragraf 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-Prüfschritte: Skill klärt die AGB-rechtliche Prüfung der Standardverträge zwischen Verleiher Entleiher und Leiharbeitnehmer Equal-Pay-Klauseln Branchenzuschläge Verleihbarkeitsausschluss Vertragsstrafe bei Abwerbung; Beleglogik: Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-Lieferstück: Fachvotum zu Agb Arbeitnehmerüberlassung AÜG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Agb im Arbeitsvertrag 310 Abs 4 Vertieft entlang der Verbraucherrecht und Verbandsdurchsetzung-Prüflinie: Vertrag und Vertriebsweg: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
+Prüfschritte: Paragraf 310 Absatz 4 Satz 1 BGB: Tarifverträge, Betriebsvereinbarungen und Dienstvereinbarungen unterliegen nicht der AGB-Kontrolle; Paragraf 310 Absatz 4 Satz 2 BGB: bei Arbeitsverträgen ist auf die Besonderheiten des Arbeitsrechts angemessen Rücksicht zu nehmen; Klausel "Der Arbeitgeber kann den Arbeitnehmer an einen anderen Arbeitsort versetzen" ist im Regelfall transparenzbedürftig; 10 AZR 275/09: Entspricht der Versetzungsvorbehalt erkennbar dem Weisungsrecht aus Paragraf 106 Satz 1 GewO, findet keine Angemessenheitskontrolle nach Paragraf 307 Absatz 1 Satz 1 BGB statt; Unklarheit und Transparenz bleiben zu prüfen.
+Normbezug aus dem Fachmaterial: Paragraf 310 Absatz 4 Satz 1 BGB: Tarifverträge, Betriebsvereinbarungen und Dienstvereinbarungen unterliegen nicht der AGB-Kontrolle; Paragraf 310 Absatz 4 Satz 2 BGB: bei Arbeitsverträgen ist auf die Besonderheiten des Arbeitsrechts angemessen Rücksicht zu nehmen.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.2. Ergänzende Vertragsauslegung bei Agb Lücken
 

@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Vollzugscockpit, Urkundenentwurf, Registeranmeldung
 | --- | --- | --- | --- |
 | Fallkern | Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte, Aufteilungsplan | BeurkG Paragraf 10 bis Paragraf 13 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BeurkG Paragraf 16 und Paragraf 16a | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Gesellschafterliste nach Veränderung | BeurkG Paragraf 16 und Paragraf 16a | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Verlorener Grundschuldbrief und Aufgebotsverfahren | BeurkG Paragraf 16 und Paragraf 16a | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Vollzugscockpit, Urkundenentwurf, Registeranmeldung, Grundbuchantrag, Kostenrechnung oder Mandantenmail erstellen | Nachweisachse Entwurf und Belehrung: Regelungswille, Vorbefassung, Sprache, Anlagen, Risiken, Genehmigungen, Steuerhinweis und Belehrungsdokumentation ordnen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -170,11 +170,11 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte, Aufteilungsplan | Gemeinschaftsordnung (Paragraf 10 WEG): Verwaltung, Beschlussfassung, Kostentragung Vor der Grundbucheintragung muss die Baubehörde die Abgeschlossenheit der einzelnen Einheiten bescheinigen (Paragraf 7 Absatz 4 WEG). | Fachvotum zu Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte, Aufteilungsplan mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition. |
-| Gesellschafterliste nach Veränderung | GmbHG Paragraf 16 Absatz 1 regelt die Legitimation gegenüber der Gesellschaft. GmbHG Paragraf 16 Absatz 3 betrifft den rechtsgeschäftlichen Erwerb vom Nichtberechtigten. | Fachvotum zu Gesellschafterliste nach Veränderung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Identitätsprüfung in Präsenz und mittels Videokommunikation | BeurkG Paragraf 10 verlangt, dass sich der Notar Gewissheit über die Person der Beteiligten verschafft. Prüfe Ausweisdokument, Lichtbild, Gültigkeit, Namensführung und erkennbare Abweichungen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Verlorener Grundschuldbrief und Aufgebotsverfahren | Frage nur nach Tatsachen, die für Identität der Urkunde, Verlust, Antragsberechtigung oder Sicherung eines laufenden Kaufvertrags fehlen. | Fachvotum zu Verlorener Grundschuldbrief und Aufgebotsverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Vollmacht, Vertreter ohne Vertretungsmacht und Genehmigung | Liefere eine Vertretungsmatrix je Erklärung: Vertretener, Vertreter, Rechtsgrund, Umfang, Untervollmacht, Befreiung von BGB Paragraf 181, Fortbestand, materiell erforderliche Form und Nachweisform für den Vollzug. | Fachvotum zu Vollmacht, Vertreter ohne Vertretungsmacht und Genehmigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Gesellschafterliste nach Veränderung | GmbHG Paragraf 16 Absatz 1 regelt die Legitimation gegenüber der Gesellschaft. GmbHG Paragraf 16 Absatz 3 betrifft den rechtsgeschäftlichen Erwerb vom Nichtberechtigten | Fachvotum zu Gesellschafterliste nach Veränderung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Digitale Vorbereitung und zulässige Online-Urkundstätigkeit | Lies den gewünschten Vorgang und entscheide zuerst, welche Schritte nur Vorbereitung sind und welche eine notarielle Urkundstätigkeit darstellen. | Fachvotum zu Digitale Vorbereitung und zulässige Online-Urkundstätigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
+| Identitätsprüfung in Präsenz und mittels Videokommunikation | BeurkG Paragraf 10 verlangt, dass sich der Notar Gewissheit über die Person der Beteiligten verschafft. Prüfe Ausweisdokument, Lichtbild, Gültigkeit, Namensführung und erkennbare Abweichungen | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Sprachunkundige Beteiligte und Dolmetscher | Stelle dann für jeden Beteiligten gesondert fest: Sprache der Niederschrift, tatsächliche Sprachkenntnis, gewünschte schriftliche Übersetzung, geeigneter Dolmetscher, Ausschlussgrund, Vereidigungsstatus. | Fachvotum zu Sprachunkundige Beteiligte und Dolmetscher mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Notariat im Alltag: Kapitalerhöhung, Sacheinlage und Bezugsrecht | Beschlusskompetenz und Beschlussgegenstand nach den Paragrafen 53 und 55 GmbHG. Dreiviertelmehrheit der abgegebenen Stimmen nach Paragraf 53 Absatz 2 GmbHG sowie strengere Satzungsvorgaben und Stimmverbote. | Fachvotum zu Notariat im Alltag: Kapitalerhöhung, Sacheinlage und Bezugsrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | Notariat im Alltag: Stiftung, Verein, Genossenschaft – notarielle Schnittstellen | Stiftungsgeschäft (Paragraf 81 BGB): Errichtungsurkunde, keine gesetzliche Beurkundungspflicht, aber Beurkundung empfohlen (Beweissicherheit, Anerkennung durch Stiftungsbehörde). | Fachvotum zu Notariat im Alltag: Stiftung, Verein, Genossenschaft – notarielle Schnittstellen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition. |
@@ -187,59 +187,57 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Gemeinschaftsordnung (Paragraf 10 WEG): Verwaltung, Beschlussfassung, Kostentragung Vor der Grundbucheintragung muss die Baubehörde die Abgeschlossenheit der einzelnen Einheiten bescheinigen (Paragraf 7 Absatz 4 WEG). Sondernutzungsrechte sind dingliche Rechte, die einem Wohnungseigentümer die alleinige Nutzung von Gemeinschaftseigentum. Begründung: In der Teilungserklärung oder durch Vereinbarung aller Eigentümer; muss ins Grundbuch eingetragen werden (Paragraf 10 Absatz 3 WEG).
 Prüfschritte: Aufteilung in Sondereigentum und Gemeinschaftseigentum; Bezugnahme auf Aufteilungsplan (Anlage); Sie bestätigt, dass jede Einheit baulich vollständig abgegrenzt ist; Diese Bescheinigung ist dem Grundbuchamt vorzulegen; Stellplatz, Gartenanteil, Kellerraum einräumen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Genaue Bezeichnung des Grundstücks; Aufteilung in Sondereigentum und Gemeinschaftseigentum; Miteigentumsanteile in Bruchteilen; Bezugnahme auf Aufteilungsplan (Anlage); Gemeinschaftsordnung (Paragraf 10 WEG): Verwaltung, Beschlussfassung, Kostentragung.
+Normbezug aus dem Fachmaterial: Genaue Bezeichnung des Grundstücks; Aufteilung in Sondereigentum und Gemeinschaftseigentum; Miteigentumsanteile in Bruchteilen; Bezugnahme auf Aufteilungsplan (Anlage); Gemeinschaftsordnung (Paragraf 10 WEG): Verwaltung, Beschlussfassung, Kostentragung.
 Lieferstück: Fachvotum zu Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte, Aufteilungsplan mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. Gesellschafterliste nach Veränderung
-
-Bearbeitungsauftrag: GmbHG Paragraf 16 Absatz 1 regelt die Legitimation gegenüber der Gesellschaft. GmbHG Paragraf 16 Absatz 3 betrifft den rechtsgeschäftlichen Erwerb vom Nichtberechtigten. Ist die Liste weniger als drei Jahre unrichtig, scheidet Gutglaubenserwerb nur dann nicht schon deshalb aus, wenn die Unrichtigkeit dem Berechtigten zuzurechnen ist.
-Prüfschritte: Lies Satzung, letzte im Handelsregister aufgenommene Liste, Veränderungsurkunde, Wirksamkeitsbedingungen, Gesellschafterbeschlüsse und Registerstand; Erstelle zuerst eine Vorher-nachher-Kontrolle aller Geschäftsanteile und erst danach die neue Liste; Im Verhältnis zur Gesellschaft gilt grundsätzlich nur der in der aufgenommenen Liste Eingetragene als Inhaber; Ausgangspunkt ist die Eintragung des Veräußerers in der aufgenommenen Liste.
-Lieferstück: Fachvotum zu Gesellschafterliste nach Veränderung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.3. Identitätsprüfung in Präsenz und mittels Videokommunikation
-
-Bearbeitungsauftrag: BeurkG Paragraf 10 verlangt, dass sich der Notar Gewissheit über die Person der Beteiligten verschafft. Prüfe Ausweisdokument, Lichtbild, Gültigkeit, Namensführung und erkennbare Abweichungen. Geldwäscherechtliche Sorgfaltspflichten ergeben sich insbesondere aus GwG Paragrafen 10 bis.
-Prüfschritte: Bestimme zuerst die konkrete Urkundstätigkeit und ihre gesetzliche Zulassungsnorm; Liefere danach eine Entscheidung in drei Sätzen: Präsenzverfahren, zulässiges Online-Verfahren oder keine notarielle Fernhandlung; Erst anschließend werden Identitätsmittel, Vertretungsnachweise und technische Voraussetzungen geprüft; Wie diese Gewissheit im Einzelfall gewonnen wurde und ob Zweifel verblieben, ist aktenfest zu dokumentieren; Identität und Vertretungsmacht sind verschiedene Prüfpunkte.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe Identität und Zulässigkeit notarieller Präsenz- oder Online-Verfahren; verbindet BeurkG Paragraf 10, BeurkG Paragrafen 16a bis 16e und 40a sowie das Videokommunikationssystem der Bundesnotarkammer.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.4. Verlorener Grundschuldbrief und Aufgebotsverfahren
+### 16.2. Verlorener Grundschuldbrief und Aufgebotsverfahren
 
 Bearbeitungsauftrag: Frage nur nach Tatsachen, die für Identität der Urkunde, Verlust, Antragsberechtigung oder Sicherung eines laufenden Kaufvertrags fehlen. Behaupte nie, eine eidesstattliche Versicherung könne den Ausschließungsbeschluss ersetzen. Zuständigkeit: Bei einer Urkunde über ein im Grundbuch eingetragenes Recht ist nach FamFG Paragraf 466 Absatz 2 ausschließlich das Gericht der belegenen Sache örtlich zuständig.
 Prüfschritte: Lies zuerst Grundbuchauszug, Bestellungsurkunde, Abtretungsunterlagen, Löschungsbewilligung, Verwahrungsnachweise und die Korrespondenz aller bisherigen Gläubiger; Liefere danach sofort eine Vollzugsampel: betroffene Briefgrundschuld, letzter sicherer Besitz, antragsberechtigte Person, zuständiges Amtsgericht, noch fehlende Glaubhaftmachung und blockierter Grundbuchvollzug.
 Lieferstück: Fachvotum zu Verlorener Grundschuldbrief und Aufgebotsverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Vollmacht, Vertreter ohne Vertretungsmacht und Genehmigung
+### 16.3. Vollmacht, Vertreter ohne Vertretungsmacht und Genehmigung
 
 Bearbeitungsauftrag: Liefere eine Vertretungsmatrix je Erklärung: Vertretener, Vertreter, Rechtsgrund, Umfang, Untervollmacht, Befreiung von BGB Paragraf 181, Fortbestand, materiell erforderliche Form und Nachweisform für den Vollzug. Nach BGB Paragraf 167 Absatz 2 bedarf die Vollmacht grundsätzlich nicht der Form des Rechtsgeschäfts, auf das sie sich bezieht. BeurkG Paragraf 12 begründet keine allgemeine Pflicht zur öffentlichen Beglaubigung.
 Prüfschritte: Lies Urkundenentwurf, Vollmachtsurkunde, Registerauszug, Satzung, Widerrufserklärungen und Vollzugsauftrag; Besondere Fallgruppen, insbesondere unwiderrufliche oder bereits rechtlich bindende Erwerbsvollmachten, sind gesondert zu prüfen.
 Lieferstück: Fachvotum zu Vollmacht, Vertreter ohne Vertretungsmacht und Genehmigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Digitale Vorbereitung und zulässige Online-Urkundstätigkeit
+### 16.4. Gesellschafterliste nach Veränderung
+
+Bearbeitungsauftrag: GmbHG Paragraf 16 Absatz 1 regelt die Legitimation gegenüber der Gesellschaft. GmbHG Paragraf 16 Absatz 3 betrifft den rechtsgeschäftlichen Erwerb vom Nichtberechtigten.
+Prüfschritte: Lies Satzung, letzte im Handelsregister aufgenommene Liste, Veränderungsurkunde, Wirksamkeitsbedingungen, Gesellschafterbeschlüsse und Registerstand; Erstelle zuerst eine Vorher-nachher-Kontrolle aller Geschäftsanteile und erst danach die neue Liste; Im Verhältnis zur Gesellschaft gilt grundsätzlich nur der in der aufgenommenen Liste Eingetragene als Inhaber; Ausgangspunkt ist die Eintragung des Veräußerers in der aufgenommenen Liste.
+Lieferstück: Fachvotum zu Gesellschafterliste nach Veränderung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.5. Digitale Vorbereitung und zulässige Online-Urkundstätigkeit
 
 Bearbeitungsauftrag: Lies den gewünschten Vorgang und entscheide zuerst, welche Schritte nur Vorbereitung sind und welche eine notarielle Urkundstätigkeit darstellen. Erstelle dann eine Ablaufspur mit Entwurf, Beteiligtenprüfung, gesetzlicher Online-Zulassung oder Präsenztermin, Belehrung, Unterzeichnung, Vollzug und Wiedervorlage. Die regelmäßige Zweiwochenfrist des BeurkG Paragraf 17 Absatz 2a betrifft bestimmte Verbraucherverträge und ist kein allgemeiner Wartezeitraum für jede notarielle Urkunde.
-Prüfschritte: Sachverhalt, Beteiligte, wirtschaftliches Ziel und Entwurfswünsche dürfen telefonisch oder mittels sicherer Videokommunikation aufgenommen werden; Entwürfe, Registerunterlagen, Vollmachten und Identitätsangaben können vorab angefordert und geprüft werden.
 Lieferstück: Fachvotum zu Digitale Vorbereitung und zulässige Online-Urkundstätigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.6. Identitätsprüfung in Präsenz und mittels Videokommunikation
+
+Bearbeitungsauftrag: BeurkG Paragraf 10 verlangt, dass sich der Notar Gewissheit über die Person der Beteiligten verschafft. Prüfe Ausweisdokument, Lichtbild, Gültigkeit, Namensführung und erkennbare Abweichungen.
+Prüfschritte: Bestimme zuerst die konkrete Urkundstätigkeit und ihre gesetzliche Zulassungsnorm; Liefere danach eine Entscheidung in drei Sätzen: Präsenzverfahren, zulässiges Online-Verfahren oder keine notarielle Fernhandlung; Erst anschließend werden Identitätsmittel, Vertretungsnachweise und technische Voraussetzungen geprüft; Wie diese Gewissheit im Einzelfall gewonnen wurde und ob Zweifel verblieben, ist aktenfest zu dokumentieren; Identität und Vertretungsmacht sind verschiedene Prüfpunkte.
+Normbezug aus dem Fachmaterial: Prüfe Identität und Zulässigkeit notarieller Präsenz- oder Online-Verfahren; verbindet BeurkG Paragraf 10, BeurkG Paragrafen 16a bis 16e und 40a sowie das Videokommunikationssystem der Bundesnotarkammer.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.7. Sprachunkundige Beteiligte und Dolmetscher
 
-Bearbeitungsauftrag: Stelle dann für jeden Beteiligten gesondert fest: Sprache der Niederschrift, tatsächliche Sprachkenntnis, gewünschte schriftliche Übersetzung, geeigneter Dolmetscher, Ausschlussgrund, Vereidigungsstatus und erforderlicher Urkundenvermerk. Die bloße Fähigkeit zu Alltagsgesprächen genügt nicht, wenn der Beteiligte Tragweite, Belehrung und Rechtsfolgen der konkreten Urkunde nicht sicher versteht. Absatz 2: Die Niederschrift muss dem Beteiligten anstelle des Vorlesens übersetzt werden.
+Bearbeitungsauftrag: Stelle dann für jeden Beteiligten gesondert fest: Sprache der Niederschrift, tatsächliche Sprachkenntnis, gewünschte schriftliche Übersetzung, geeigneter Dolmetscher, Ausschlussgrund, Vereidigungsstatus und erforderlicher Urkundenvermerk. Die bloße Fähigkeit zu Alltagsgesprächen genügt nicht, wenn der Beteiligte Tragweite, Belehrung und Rechtsfolgen der konkreten Urkunde nicht sicher versteht.
 Prüfschritte: Lies Entwurf, Beteiligtenbogen, Sprachangaben, Vollmachten und vorhandene Übersetzungen; Frage nicht nach einer Wunschlösung, sondern kläre Verständnissicherheit am konkreten Geschäft.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Steuert Beurkundungen mit sprachunkundigen Beteiligten nach Paragraf 16 BeurkG; Trenne Sprachfeststellung, mündliche und schriftliche Übersetzung, Dolmetscherauswahl, Vereidigung, Niederschriftsvermerk und Unterschrift.
+Normbezug aus dem Fachmaterial: Steuert Beurkundungen mit sprachunkundigen Beteiligten nach Paragraf 16 BeurkG; Trenne Sprachfeststellung, mündliche und schriftliche Übersetzung, Dolmetscherauswahl, Vereidigung, Niederschriftsvermerk und Unterschrift.
 Lieferstück: Fachvotum zu Sprachunkundige Beteiligte und Dolmetscher mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.8. Notariat im Alltag: Kapitalerhöhung, Sacheinlage und Bezugsrecht
 
 Bearbeitungsauftrag: Beschlusskompetenz und Beschlussgegenstand nach den Paragrafen 53 und 55 GmbHG. Dreiviertelmehrheit der abgegebenen Stimmen nach Paragraf 53 Absatz 2 GmbHG sowie strengere Satzungsvorgaben und Stimmverbote. Notarielle Beurkundung des Beschlusses nach Paragraf 53 Absatz 3 GmbHG.
 Prüfschritte: Lies zuerst Satzung, aktuellen Registerauszug, Gesellschafterliste oder Aktionärsstruktur, Finanzierungsvereinbarung, Bewertungsunterlagen und Entwürfe; Ermittle Rechtsform, Erhöhungsart, Ausgangs- und Zielkapital, neue Nennbeträge, Übernehmer, Gegenleistung, Bezugsrechtslage und gewünschten Vollzugstermin; Frage nur nach einer Angabe, die Beschluss, Form oder Anmeldung tatsächlich verändert; Eine Erhöhung des Stammkapitals ändert den Gesellschaftsvertrag.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Steuert Barkapital- und Sachkapitalerhöhungen bei GmbH und AG vom Beschluss über Übernahme oder Zeichnung und Einlage bis zur Registereintragung.
 Lieferstück: Fachvotum zu Notariat im Alltag: Kapitalerhöhung, Sacheinlage und Bezugsrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.9. Notariat im Alltag: Stiftung, Verein, Genossenschaft – notarielle Schnittstellen
 
 Bearbeitungsauftrag: Stiftungsgeschäft (Paragraf 81 BGB): Errichtungsurkunde, keine gesetzliche Beurkundungspflicht, aber Beurkundung empfohlen (Beweissicherheit, Anerkennung durch Stiftungsbehörde). Testamentarische Stiftung (Paragraf 83 BGB): Wirkung mit Erbfall, Beurkundung als Testament (Paragraf 2231 Nummer 1 BGB). Zuwendungen an Stiftung: Schenkung mit Formpflicht (Paragraf 518 BGB), wenn Grundstücke: Paragraf 311b BGB Stiftungsrecht 2023: Seit 1.7.2023 gilt das neue Stiftungsrecht (Paragrafen 80–88 BGB n.F.).
 Prüfschritte: Satzung: keine Beurkundungspflicht, aber Beglaubigung nötig für Anerkennungsantrag bei Behörde; Stiftungsregister (Paragraf 82a BGB n.F.) ist neu eingeführt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Notarielle Mitwirkung:; Stiftungsgeschäft (Paragraf 81 BGB): Errichtungsurkunde, keine gesetzliche Beurkundungspflicht, aber Beurkundung empfohlen (Beweissicherheit, Anerkennung durch Stiftungsbehörde); Testamentarische Stiftung (Paragraf 83 BGB): Wirkung mit Erbfall.
+Normbezug aus dem Fachmaterial: Notarielle Mitwirkung:; Stiftungsgeschäft (Paragraf 81 BGB): Errichtungsurkunde, keine gesetzliche Beurkundungspflicht, aber Beurkundung empfohlen (Beweissicherheit, Anerkennung durch Stiftungsbehörde); Testamentarische Stiftung (Paragraf 83 BGB): Wirkung mit Erbfall.
 Lieferstück: Fachvotum zu Notariat im Alltag: Stiftung, Verein, Genossenschaft – notarielle Schnittstellen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.10. Notariat im Alltag: Auslandsbeteiligte – steuerliche Hinweise und Grenzen
@@ -252,12 +250,12 @@ Lieferstück: Fachvotum zu Notariat im Alltag: Auslandsbeteiligte – steuerlich
 
 Bearbeitungsauftrag: GmbH: Satzungsänderung (Paragraf 53 Absatz 2 GmbHG), Kapitalerhöhung/-herabsetzung. AG: Satzungsänderung, Kapitalmaßnahmen (Paragrafen 179, 182 AktG), Verschmelzungsbeschluss (Paragraf 13 UmwG). Er kann auf formelle Mängel hinweisen (fehlende Beschlussfähigkeit, Einberufungsfehler), aber er verhindert nicht den Beschluss.
 Prüfschritte: Bestimmte Gesellschafterbeschlüsse bedürfen der notariellen Beurkundung:; Beschlussprotokolle: Paragraf 130 AktG für alle HV-Beschlüsse der AG Der Notar protokolliert nur das, was tatsächlich beschlossen wird; Er gibt keine Bewertung über die Zweckmäßigkeit von Beschlüssen ab.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Bestimmte Gesellschafterbeschlüsse bedürfen der notariellen Beurkundung:; GmbH: Satzungsänderung (Paragraf 53 Absatz 2 GmbHG), Kapitalerhöhung/-herabsetzung; AG: Satzungsänderung, Kapitalmaßnahmen (Paragrafen 179, 182 AktG), Verschmelzungsbeschluss (Paragraf 13 UmwG); Bestimmte Gesellschafterbeschlüsse bedürfen der notariellen Beurkundung:.
+Normbezug aus dem Fachmaterial: Bestimmte Gesellschafterbeschlüsse bedürfen der notariellen Beurkundung:; GmbH: Satzungsänderung (Paragraf 53 Absatz 2 GmbHG), Kapitalerhöhung/-herabsetzung; AG: Satzungsänderung, Kapitalmaßnahmen (Paragrafen 179, 182 AktG), Verschmelzungsbeschluss (Paragraf 13 UmwG); Bestimmte Gesellschafterbeschlüsse bedürfen der notariellen Beurkundung:.
 Lieferstück: Fristenblatt zu Notariat im Alltag: Gesellschafterstreit im Notartermin – Neutralität, Protokoll mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
 ### 16.12. Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan, Abnahmefallen
 
 Bearbeitungsauftrag: Zahlungsplan nach MaBV (Paragraf 3 Absatz 2 MaBV). Mängelgewährleistung nach Paragraf 634 BGB Ratenzahlungen sind nur nach tatsächlichem Baufortschritt zulässig: Erste Rate: erst nach Auflassungsvormerkung und Freistellungserklärung der Finanzierungsbank (Paragraf 3 Absatz 1 MaBV). Fertigstellungsbürgschaft: Bürgschaft einer Bank für Fertigstellung.
 Prüfschritte: Genaue Beschreibung des Grundstücks und des zu errichtenden Bauwerks (Baubeschreibung); Kaufpreis (Gesamtpreis für Grundstück und Bauwerk); Fertigstellungstermin oder Fertigstellungsfrist; Sicherungsabrede: Bürgschaft oder Fertigstellungssicherheit; Vor der ersten Ratenzahlung muss der Bauträger entweder.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Genaue Beschreibung des Grundstücks und des zu errichtenden Bauwerks (Baubeschreibung); Kaufpreis (Gesamtpreis für Grundstück und Bauwerk); Fertigstellungstermin oder Fertigstellungsfrist; Zahlungsplan nach MaBV (Paragraf 3 Absatz 2 MaBV); Sicherungsabrede: Bürgschaft.
+Normbezug aus dem Fachmaterial: Genaue Beschreibung des Grundstücks und des zu errichtenden Bauwerks (Baubeschreibung); Kaufpreis (Gesamtpreis für Grundstück und Bauwerk); Fertigstellungstermin oder Fertigstellungsfrist; Zahlungsplan nach MaBV (Paragraf 3 Absatz 2 MaBV); Sicherungsabrede: Bürgschaft.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.

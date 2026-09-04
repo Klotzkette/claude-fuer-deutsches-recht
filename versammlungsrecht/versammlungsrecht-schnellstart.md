@@ -33,7 +33,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Versammlung und Zeit,
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | GG Artikel 8; Versammlungsgesetz des zuständigen Landes; Polizei- und Ordnungsrecht des Landes |
-| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 1 BvR 233/81 und 1 BvR 341/81; BVerfG, Beschluss vom 24.07.2015 - 1 BvR 2501/13 |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 1 BvR 233/81 und 1 BvR 341/81 |
 | Tatbestand | Veranstalter, Leitung, Thema, Ort, Route, Beginn, Ende, Teilnehmerzahl und Gegenversammlung feststellen |
 | Beweislast | Nachweisachse Gefahrenprognose: konkrete Tatsachen, Quellen, Störer, Gewaltbezug, Verkehrs- und Schutzbelange sowie Trennkonzept prüfen |
 | Rechtsfolge | Anzeige, Kooperationsprotokoll, Auflagenantwort, Schutzkonzept, Eilantrag oder Einsatznachbereitung erstellen |
@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Versammlung und Zeit,
 | Gefahrenprognose | Konkrete Tatsachen, Quellen, Störer, Gewaltbezug, Verkehrs- und Schutzbelange sowie Trennkonzept prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Maßnahme und Rechtsschutz | Auflage, Verbot, Auflösung, Sofortvollzug, Termin und statthaften Eilantrag ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Anzeige, Kooperationsprotokoll, Auflagenantwort, Schutzkonzept, Eilantrag oder Einsatznachbereitung erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Erst Bescheidtyp verstehen | Extrahiere Tenor, Begründung, Rechtsgrundlage, Sofortvollzug, Frist, Rechtsbehelfsbelehrung, Tatsachenbasis. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -59,7 +58,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Versammlung und Zeit,
 - Paragraf 23 KunstUrhG kann Veröffentlichungen rechtfertigen, insbesondere bei Zeitgeschehen und Versammlungen; Paragraf 23 Abs. 2 KunstUrhG verlangt aber weiter eine Interessenabwägung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 201 StGB betrifft nichtöffentlich gesprochene Worte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Beschluss vom 14.05.1985 - 1 BvR 233/81 und 1 BvR 341/81: Versammlungsfreiheit verlangt ein versammlungsfreundliches Verfahren; Kooperation und mildere Mittel haben Vorrang vor Verboten.
-- BVerfG, Beschluss vom 24.07.2015 - 1 BvR 2501/13.
 
 ## 7. Antwortform
 

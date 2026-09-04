@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Geschäftsmodell und 
 | Risikoallokation | Haftung, Freistellung, Gewährleistung, Vertragsstrafe und Sicherheiten austarieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Kontrolle | AGB-Festigkeit, Transparenz, Kollision mit zwingendem Recht und Wechselwirkungen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausgabe: Mandantenkommunikation und Entscheidungsvorlage | Bearbeite Ausgabe: Mandantenkommunikation und Entscheidungsvorlage: Leistung, Gegenleistung, Rollen, Konzernbezug. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

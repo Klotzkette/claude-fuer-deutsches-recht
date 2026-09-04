@@ -240,12 +240,12 @@ Lieferstück: Fachvotum zu Apothekenbetriebsordnung Grundpflichten mit Tatbestan
 Bearbeitungsauftrag: Geregelt sind: Verschreibungspflicht, formale Anforderungen an die ärztliche Verordnung (Papierrezept, Muster-16, E-Rezept), Identitätsprüfung, Plausibilitätsprüfung, Aushändigung, Beratung, Dokumentation. Abgrenzung zur OTC-Abgabe (apothekenpflichtig, nicht verschreibungspflichtig) und zur BtM-Abgabe (gesondertes Regime). Konflikt um eine zu Unrecht oder zu Recht durchgeführte Abgabe.
 Lieferstück: Fachvotum zu Arzneimittelabgabe Verschreibungspflicht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Import Einzelimport Paragraf 73 AMG
-
-Bearbeitungsauftrag: Einzelimport von Arzneimitteln aus dem Ausland gemäss Paragraf 73 Absatz 3 AMG. Reimport (Paragraf 129 SGB V, Bonusregelung) ist abzugrenzen. Patient hat seltenes Arzneimittel, das in D nicht zugelassen, im Ausland aber verfügbar ist.
-Lieferstück: Fachvotum zu Import Einzelimport Paragraf 73 AMG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Pharmazeutische Dienstleistungen Vergütung
+### 16.11. Pharmazeutische Dienstleistungen Vergütung
 
 Bearbeitungsauftrag: Seit der ApothekenstärkungsG-Reform 2020 und nachfolgenden Vereinbarungen können Apotheken zusätzliche pharmazeutische Dienstleistungen (pDL) erbringen und gegenüber GKV abrechnen. Beispiele: erweiterte Medikationsberatung, Blutdruckmessung im Rahmen der Polymedikationsanalyse, Inhalator-Training, Beratung von Patienten mit Krebsmedikation. Die Vergütung erfolgt aus einem festen Topf (Apothekenhonorar) und ist an strikte Voraussetzungen geknüpft.
 Lieferstück: Fachvotum zu Pharmazeutische Dienstleistungen Vergütung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Rezeptur Plausibilitätsprüfung Herstellungsanweisung
+
+Bearbeitungsauftrag: Pflicht ist eine Plausibilitätsprüfung (Paragraf 7 ApBetrO) und eine schriftliche Herstellungsanweisung mit Dokumentation. Bei Fehlern droht Patientenschaden, Anhörung, Haftung (Paragrafen 280, 823, 84 AMG-analog) und Aufsichtsmaßnahmen. Individualrezeptur erstmals geplant, Schritt-für-Schritt-zu prüfen.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.

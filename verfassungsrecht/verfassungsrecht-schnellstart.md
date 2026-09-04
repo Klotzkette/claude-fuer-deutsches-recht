@@ -46,9 +46,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Beschwerdegegenstand,
 | Beschwerdegegenstand, Hoheitsakt | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Zulässigkeit | Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Schutzbereich, Eingriff | Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten | Bearbeite Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten entlang der Verfassungsrecht-Prüflinie: Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten | Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BVerfG-Eilantrag nach Paragraf 32 BVerfGG | Prüfe zuerst, ob die Hauptsache überhaupt in die Zuständigkeit des Bundesverfassungsgerichts fallen kann. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -62,8 +61,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Beschwerdegegenstand,
 - Paragraf 23 Abs. 1 BVerfGG für Form und Begründung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
 - BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
-- BVerfG, Beschluss vom 27.01.2026, 2 BvE 14/25, amtliche Fundstelle: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/es20260127_2bve001425.html].
-- BVerfG, Urteil vom 23.09.2025, 1 BvR 1796/23, Altersgrenze Anwaltsnotare: gesetzliche Altersgrenze für Anwaltsnotarinnen und Anwaltsnotare verletzt Art. 12 Abs. 1 GG, wenn der gesetzgeberische Zweck unter den tatsächlichen Marktbedingungen nicht mehr trägt.
 
 ## 7. Antwortform
 

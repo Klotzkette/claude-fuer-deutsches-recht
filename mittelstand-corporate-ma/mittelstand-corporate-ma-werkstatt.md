@@ -116,11 +116,11 @@ Entwurfsgriff Arbeitsprodukt: Term Sheet, SPA-Klauseln, DD-Report-Kapitel, Gremi
 - GmbHG Paragraf 45 Abs. 1: Satzungsautonomie als Grundlage für Beiratsordnung und Vergütungsregime; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - GmbHG Paragraf 46 Nr. 5 und Nr. 6: Gesellschafterzuständigkeit für Organ-/Überwachungsfragen und Kontrollmaßnahmen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - GmbHG Paragraf 52 Abs. 1: Verweisungslogik bei fakultativem Aufsichtsrat; AktG-Vorschriften nicht schematisch, sondern nur bei entsprechender Ausgestaltung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- GmbHG Paragraf 43 Abs. 1 und 2: Geschäftsführerhaftung, wenn Zahlungen ohne Grundlage oder außerhalb des Gesellschaftsinteresses veranlasst werden; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - GmbHG Paragrafen 30, 31: Kapitalerhaltung bei Gesellschafter-/Nahestehenden-Zahlungen im Grenzbereich; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BGB Paragrafen 611, 612, 675: dienstvertragliche Einordnung von Beiratsleistungen und Vergütungserwartung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BGB Paragrafen 134, 138, 181, 242: Gesetzesverstoß, Sittenwidrigkeit, Insichgeschäft, Treuepflicht und Missbrauchskontrolle; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - AktG Paragrafen 113, 114 nur als Vergleichs- und Vorsichtsanker, wenn der Beirat aufsichtsratsähnlich arbeitet; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BRAO Paragraf 43a, BORA Paragraf 3 und BRAO Paragraf 49b für Verschwiegenheit, Konflikt und Honorar; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -206,7 +206,7 @@ Lieferstück: Entwurfsbaustein zu Beirat: Vergütung, Auslagen, D&O und Interess
 ### 16.2. Freistehender Insolvenzreife- und StaRUG-Schwellencheck (Mittelstand)
 
 Bearbeitungsauftrag: Unternehmen in M&A-Situation oder Krise und Anwalt prüft ob Insolvenzantragspflicht besteht: Zahlungsunfähigkeit drohende Zahlungsunfähigkeit Überschuldung StaRUG-Schwelle. Normen Paragrafen 17-19 InsO Paragraf 15a InsO Paragrafen 1-4 StaRUG. Abgrenzung zu restructuring-starug-insolvenzplan (Plangestaltung) und liquiditätsvorschau (Cash-Modell).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Normen Paragrafen 17-19 InsO Paragraf 15a InsO Paragrafen 1-4 StaRUG.
+Normbezug aus dem Fachmaterial: Normen Paragrafen 17-19 InsO Paragraf 15a InsO Paragrafen 1-4 StaRUG.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.3. Corporate-Rechtsprechungsrecherche

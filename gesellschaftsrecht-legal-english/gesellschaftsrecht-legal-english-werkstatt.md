@@ -96,11 +96,7 @@ Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragung
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Risikozuweisung
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH, Urteil vom 14.04.1986 - II ZR 155/85 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Sind GmbH- und Kommanditanteil nach Parteiwillen untrennbar, erfasst der Formzwang das einheitliche Geschäft |
-| BGH, Urteil vom 27.06.2001 - VIII ZR 329/99 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Der notarielle Vollzugsvertrag kann den Formmangel auch bei anderen Erwerbern und geänderten Bedingungen heilen |
-| BGH, Urteil vom 22.10.2015 - VII ZR 58/14 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Aushandeln verlangt mehr als Verhandeln; der Verwender muss den Kern der Klausel ernsthaft zur Disposition stellen und reale Einflussnahme ermöglichen. Das gilt auch zwischen Unternehmern |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -115,16 +111,13 @@ Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragung
 - BGB Paragrafen 21 ff., 705 ff.; HGB; GmbHG; AktG; UmwG; FamFG/Registerrecht; PartG/Vereinsrecht je nach Organisation; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BGB Paragraf 315 ist keine automatische Reparatur jeder unbestimmten Formel; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BGB Paragraf 123 bei behaupteter arglistiger Täuschung sowie Kausalität und Anfechtungsfrist; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- BGB Paragraf 444 nur, wenn kaufrechtliche Haftungsausschlüsse und die dortigen Voraussetzungen einschlägig sind; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BGB Paragrafen 280, 281 und 311a nach Pflichtart, Vertretenmüssen, Fristsetzung und Schadensbild; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 184 GVG: Gerichtssprache ist deutsch; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 184a und 184b GVG: englische Verfahrensführung kann unter gesetzlichen Voraussetzungen bei Commercial Courts/Commercial Chambers und BGH-Zivilsenaten vorgesehen sein; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BGH, Urteil vom 14.04.1986 - II ZR 155/85: Sind GmbH- und Kommanditanteil nach Parteiwillen untrennbar, erfasst der Formzwang das einheitliche Geschäft.
-- BGH, Urteil vom 27.06.2001 - VIII ZR 329/99: Der notarielle Vollzugsvertrag kann den Formmangel auch bei anderen Erwerbern und geänderten Bedingungen heilen.
-- BGH, Urteil vom 22.10.2015 - VII ZR 58/14: Aushandeln verlangt mehr als Verhandeln; der Verwender muss den Kern der Klausel ernsthaft zur Disposition stellen und reale Einflussnahme ermöglichen. Das gilt auch zwischen Unternehmern.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -146,7 +139,7 @@ Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragung
 10.6. Gegenposition: Formuliere die stärkste Verhandlungsposition der anderen Seite; sie setzt typischerweise bei Ladungs- und Beschlussmängeln sowie der Vertretungsmacht an.
 10.7. Rückfallposition: Antworte mit konkreter Alternativfassung, Preis- oder Vollzugsausgleich und zeige die Auswirkung auf Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
 10.8. Entwurf und Vollzug: Schließe mit Ausgabe entlang der Kernfelder Cap Table statt Gesellschafterliste, Deutsches Recht, englische Vertragssprache, Verdeckte Sacheinlage und Hin-und-Her-Zahlung, Client Explainer: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt; Verantwortlicher, Termin, Bedingung und Erfüllungsnachweis sind ausformuliert.
-10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind BGH, Urteil vom 14.04.1986 - II ZR 155/85; BGH, Urteil vom 27.06.2001 - VIII ZR 329/99.
+10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -207,7 +200,7 @@ Lieferstück: zweisprachiges Corporate-Memo mit Begriffsklärung, deutscher Rech
 ### 16.3. Verdeckte Sacheinlage und Hin-und-Her-Zahlung
 
 Bearbeitungsauftrag: Bearbeite Verdeckte Sacheinlage und Hin-und-Her-Zahlung: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Erkennt und prüft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach Paragraf 19 Absatz 4 und Absatz 5 GmbHG, einschließlich Anrechnungslösung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen.
+Normbezug aus dem Fachmaterial: Erkennt und prüft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach Paragraf 19 Absatz 4 und Absatz 5 GmbHG, einschließlich Anrechnungslösung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen.
 Lieferstück: zweisprachiges Corporate-Memo mit Begriffsklärung, deutscher Rechtswirkung, Aktenfund, Rechen- oder Vollzugsschritt und entscheidungsreifer Empfehlung.
 
 ### 16.4. Client Explainer

@@ -96,11 +96,7 @@ Arbeitsgriff Arbeitsprodukt: Auskunftsantwort, Stellungnahme, Rechtsbehelf oder 
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| EuGH, Urt. v. 13.02.2025 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | C-383/23 (ILVA) — Datenschutz-Grundverordnung-Bußgelder können auf gesamten Konzernumsatz bezogen werden; "Unternehmen" im wettbewerbsrechtlichen Sinne — relevant für Monitoring nationaler Bußgeldpraxis |
-| EuGH, Urt. v. 02.12.2025 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | C-492/23 (Russmedia) — Datenschutz-Grundverordnung geht DSA vor; kein Provider-Privileg bei Datenschutz-Grundverordnung-Verstößen — relevant für Plattform-Compliance-Monitoring |
-| EuGH, Urt. v. 19.03.2026 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | C-526/24 (Brillen Rottler) — Erstmaliger Datenschutz-Grundverordnung-Auskunftsantrag kann rechtsmissbräuchlich sein |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -123,9 +119,7 @@ Arbeitsgriff Arbeitsprodukt: Auskunftsantwort, Stellungnahme, Rechtsbehelf oder 
 
 ## 8. Leitentscheidungen
 
-- EuGH, Urt. v. 13.02.2025 — C-383/23 (ILVA) — Datenschutz-Grundverordnung-Bußgelder können auf gesamten Konzernumsatz bezogen werden; "Unternehmen" im wettbewerbsrechtlichen Sinne — relevant für Monitoring nationaler Bußgeldpraxis.
-- EuGH, Urt. v. 02.12.2025 — C-492/23 (Russmedia) — Datenschutz-Grundverordnung geht DSA vor; kein Provider-Privileg bei Datenschutz-Grundverordnung-Verstößen — relevant für Plattform-Compliance-Monitoring.
-- EuGH, Urt. v. 19.03.2026 — C-526/24 (Brillen Rottler) — Erstmaliger Datenschutz-Grundverordnung-Auskunftsantrag kann rechtsmissbräuchlich sein.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -147,7 +141,7 @@ Arbeitsgriff Arbeitsprodukt: Auskunftsantwort, Stellungnahme, Rechtsbehelf oder 
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Geschäftsgeheimnisse sind betroffen und wie werden sie geschützt an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Auskunftsantwort: Verlangen, Rechtsgrundlagenprüfung, gelieferte Daten, Schwärzungen mit Begründung, Vorbehalte; Stellungnahme: Sachverhalt, Eingriffsgrundlage, Verhältnismäßigkeit, Zusagenangebot, Anträge.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urt. v. 13.02.2025; EuGH, Urt. v. 02.12.2025.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -205,14 +199,14 @@ Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkei
 
 Bearbeitungsauftrag: Prüfe die Abgrenzung zwischen WpIG-Erlaubnis, ZAG-Erlaubnis und KWG-Erlaubnis für Geschäftsmodelle an der Schnittstelle von Wertpapierdienstleistung und Zahlungsdienst. WpIG Paragraf 2 Absatz 1 – abschließende Liste der Wertpapierdienstleistungen: Anlagevermittlung, Anlageberatung, Portfolioverwaltung, Eigenhandel, Abschluss- und Emissionsgeschäft; Abgrenzung zu Paragraf 1 Absatz 1a KWG Finanzdienstleistungen.
 Prüfschritte: Überschneidungen mit ZAG (Zahlungsauslösung, Verwahrstellen) und MiCAR (CASP) werden systematsich erfasst; WpIG Paragraf 15 – Erlaubnispflicht für Wertpapierinstitute: Antrag bei BaFin, Geschäftsplan, Angaben zu Inhabern, Geschäftsleitern.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Überschneidungen mit ZAG (Zahlungsauslösung, Verwahrstellen) und MiCAR (CASP) werden systematsich erfasst; WpIG Paragraf 15 – Erlaubnispflicht für Wertpapierinstitute: Antrag bei BaFin, Geschäftsplan, Angaben zu Inhabern, Geschäftsleitern.
+Normbezug aus dem Fachmaterial: Überschneidungen mit ZAG (Zahlungsauslösung, Verwahrstellen) und MiCAR (CASP) werden systematsich erfasst; WpIG Paragraf 15 – Erlaubnispflicht für Wertpapierinstitute: Antrag bei BaFin, Geschäftsplan, Angaben zu Inhabern, Geschäftsleitern.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.3. Inkassodienstleistungen (RDG)
 
 Bearbeitungsauftrag: Art des Akteurs: Registriertes Inkassounternehmen (Paragraf 10 RDG) oder Rechtsanwalt (Paragraf 43d BRAO)? Registrierungsstatus: RDG-Registrierung vorhanden (Paragraf 13 RDG)? Schuldner: Verbraucher (Paragraf 13 BGB) oder Unternehmer?
 Prüfschritte: Forderungsart: Mietforderung, Kaufpreisforderung, Schadenersatz, Verbraucherrechte-Ansprüche; Geschäftsmodell: Klassisches Inkasso (Abtretung oder Einzugsermächtigung) oder Legal-Tech-Modell (Schuldner zahlt Erfolgsprovision); Vergütungsstruktur: Wie wird die Vergütung berechnet; Auf Basis RVG, RDGEG oder abweichend; Datenlage: Welche Schuldnerdaten werden verarbeitet?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Das Modell benötigt:; Art des Akteurs: Registriertes Inkassounternehmen (Paragraf 10 RDG) oder Rechtsanwalt (Paragraf 43d BRAO); Registrierungsstatus: RDG-Registrierung vorhanden (Paragraf 13 RDG)?
+Normbezug aus dem Fachmaterial: Das Modell benötigt:; Art des Akteurs: Registriertes Inkassounternehmen (Paragraf 10 RDG) oder Rechtsanwalt (Paragraf 43d BRAO); Registrierungsstatus: RDG-Registrierung vorhanden (Paragraf 13 RDG)?
 Lieferstück: Fachvotum zu Inkassodienstleistungen (RDG) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. DORA-IKT-Vertragsprüfung

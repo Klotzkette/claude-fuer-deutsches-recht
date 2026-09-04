@@ -33,7 +33,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Werk und Beteiligte, 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Verlagsgesetz; UrhG Paragraf 31 ff; BuchPrG Paragraf 3 bis Paragraf 7 |
-| Rechtsprechung | BGH, Urt. v. 29.05.2018 – I ZR 171/16 (Buchhandelsvertrag); BGH, Urt. v. 28.10.2020 – VIII ZR 141/19 |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Manuskript, Ausgabe, Autor, Herausgeber, Übersetzer, Bildgeber, Sprecher, Nachlass und Vorrechte feststellen |
 | Beweislast | Nachweisachse Vertrieb und Preis: Ausgabeform, Ladenpreis, Rabatt, Remission, Mängelexemplar, Plattform, Ausland und Dokumentation abgleichen |
 | Rechtsfolge | Autorenvertrag, Rechte-Schedule, Honorarabrechnung, Preisfreigabevermerk, Abmahnantwort oder Rückruf- und Exitplan erstellen |
@@ -46,7 +46,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Werk und Beteiligte, 
 | Werk und Beteiligte | Manuskript, Ausgabe, Autor, Herausgeber, Übersetzer, Bildgeber, Sprecher, Nachlass und Vorrechte feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Rechtekette | Nutzungsart, Sprache, Gebiet, Dauer, Exklusivität, Bearbeitung, Unterlizenz, Rückfall und Drittmaterial ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Produktion und Vergütung | Ablieferung, Lektorat, Freigabe, Auflage, Vorschuss, Absatzhonorar, Nebenrechte und Abrechnung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Vertrieb und Preis | Ausgabeform, Ladenpreis, Rabatt, Remission, Mängelexemplar, Plattform, Ausland und Dokumentation abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Autorenvertrag, Rechte-Schedule, Honorarabrechnung, Preisfreigabevermerk, Abmahnantwort oder Rückruf- und Exitplan erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -57,7 +58,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Werk und Beteiligte, 
 - Paragraf 32 UrhG: Unangemessene Unentgeltlichkeit ist nicht automatisch unwirksam; bei entsprechendem Branchenbrauch kann Unentgeltlichkeit angemessen sein; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 38 Abs. 4 UrhG: Unabdingbares Zweitveröffentlichungsrecht für wissenschaftliche Autoren nach 12 Monaten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 32a UrhG bei Bestseller: Freier Übersetzer fordert Nachvergütung für Bestseller-Übersetzung; Verlag hat keine Öffnungsklausel im Vertrag; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urt. v. 29.05.2018 – I ZR 171/16 (Buchhandelsvertrag): https://www.bgh.de.
 
 ## 7. Antwortform
 

@@ -77,9 +77,9 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Geschäfts- und Regelungskern | Insolvenz des Leasingnehmers: Aussonderung und Fortführung | BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157 | Entwurfsvermerk mit Ziel- und Rückfallposition |
+| Geschäfts- und Regelungskern | Immobilienleasing: Erbbaurecht und Grundbuch | BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157 | Entwurfsvermerk mit Ziel- und Rückfallposition |
 | Mechanik und Fassung | Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf | BGB Paragraf 305 bis Paragraf 310 | Klausel oder Redline mit Varianten |
-| Nachweis und Freigabe | Immobilienleasing: Erbbaurecht und Grundbuch | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | Gremien-, Bedingungs- und Dokumentenmatrix |
+| Nachweis und Freigabe | Insolvenz des Leasingnehmers: Aussonderung und Fortführung | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | Gremien-, Bedingungs- und Dokumentenmatrix |
 | Vollzug | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren | Verantwortlicher, Termin und Erfüllungsnachweis | Signing-, Closing- oder Registerliste |
 
 ## 5. Rechtsanker, Regelungsmechanik, Nachweis und Vollzug
@@ -96,10 +96,7 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Risikozuweisung
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH VIII ZR 172/05 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Minderwertklausel muss klar unterscheiden zwischen normaler Abnutzung und übermäßigem Verschleiß |
-| BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 (Restwertgarantie) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | https://www.bgh.de |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -118,12 +115,11 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 - Paragrafen 305–310 BGB: AGB-Kontrolle; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 39 AO: Wirtschaftliches Eigentum; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 108, 109 InsO: Leasingvertrag in Insolvenz; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 305 BGB: Einbeziehungsvoraussetzungen - Paragraf 305c BGB: Überraschende und mehrdeutige Klauseln - Paragraf 307 BGB: Generalklausel (unangemessene Benachteiligung); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 305 BGB: Einbeziehungsvoraussetzungen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BGH VIII ZR 172/05: Minderwertklausel muss klar unterscheiden zwischen normaler Abnutzung und übermäßigem Verschleiß.
-- BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 (Restwertgarantie): https://www.bgh.de.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -139,13 +135,13 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 
 10.1. Regelungsziel: Benenne Parteien, Geschäftsziel, gewünschte Rechtswirkung und Vollzugszustand: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
 10.2. Rechtsrahmen: Stelle zwingende Grenze und dispositiven Gestaltungsspielraum voran; erste Anker sind BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157; BGB Paragraf 305 bis Paragraf 310.
-10.3. Mechanik: Arbeite zuerst Insolvenz des Leasingnehmers: Aussonderung und Fortführung; Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf müssen ineinandergreifen.
+10.3. Mechanik: Arbeite zuerst Immobilienleasing: Erbbaurecht und Grundbuch; Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf müssen ineinandergreifen.
 10.4. Dokumentstand: Nenne Fassung, Datum, Klausel, Datenraumfund, Beschluss oder Q&A-Antwort; im Bereich Vertragsgestaltung und Vertragspraxis tragen regelmäßig die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen den Nachweis.
 10.5. Nachweis und Freigabe: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar. Zeige die Folge eines offenen Parameters oder fehlenden Beschlusses.
 10.6. Gegenposition: Formuliere die stärkste Verhandlungsposition der anderen Seite; sie setzt typischerweise bei welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest an.
 10.7. Rückfallposition: Antworte mit konkreter Alternativfassung, Preis- oder Vollzugsausgleich und zeige die Auswirkung auf vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
 10.8. Entwurf und Vollzug: Schließe mit Vertragsgerüst: Präambel, Definitionen, Leistung, Vergütung, Laufzeit, Haftung, Geheimhaltung, Schlussbestimmungen; NDA-Kern: Vertrauliche Information, erlaubte Nutzung, Empfängerkreis, Dauer, Rückgabe, Sanktion; Verantwortlicher, Termin, Bedingung und Erfüllungsnachweis sind ausformuliert.
-10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind BGH VIII ZR 172/05; BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13.
+10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -179,46 +175,46 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Insolvenz des Leasingnehmers: Aussonderung und Fortführung | Bearbeite Insolvenz des Leasingnehmers: Aussonderung und Fortführung: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Entwurfsbaustein zu Insolvenz des Leasingnehmers: Aussonderung und Fortführung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | Immobilienleasing: Erbbaurecht und Grundbuch | ErbbauRG: Erbbaurecht als Alternative zu vollem Eigentum. Paragraf 108 InsO: Leasingvertrag über unbewegliche Sachen läuft in Insolvenz fort. | Entwurfsbaustein zu Immobilienleasing: Erbbaurecht und Grundbuch mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
+| Insolvenz des Leasingnehmers: Aussonderung und Fortführung | Bearbeite Insolvenz des Leasingnehmers: Aussonderung und Fortführung entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug. | Entwurfsbaustein zu Insolvenz des Leasingnehmers: Aussonderung und Fortführung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | Konzerninternes Leasing: Transfer Pricing und Verrechnungspreise | Bearbeite Konzerninternes Leasing: Transfer Pricing und Verrechnungspreise entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug. | Entwurfsbaustein zu Konzerninternes Leasing: Transfer Pricing und Verrechnungspreise mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe. |
 | Flottenleasing: Schadenmanagement und Minderwertabrechnung | Flottenleasing ist zivilrechtlich eine Mehrzahl von Einzelleasingverträgen, oft verbunden durch einen Rahmenvertrag (Master Lease Agreement). BGB: AGB-Kontrolle gilt für Flottenvertrag. | Entwurfsbaustein zu Flottenleasing: Schadenmanagement und Minderwertabrechnung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | Gerichtliche Durchsetzung von Leasingraten | Besonderer Gerichtsstand: Erfüllungsort (Paragraf 29 ZPO) → typischerweise Sitz des LG. Gerichtsstandsklausel im Leasingvertrag: Im B2B zulässig; im B2C nur eingeschränkt (Paragraf 38 ZPO). | Entwurfsbaustein zu Gerichtliche Durchsetzung von Leasingraten mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
+| Leasingvertrag-Redline: Leasingnehmerperspektive | Ob eine fehlende Mehrerlösbeteiligung die konkrete Klausel angreifbar macht, ist gesondert anhand Paragraf 307 BGB, Vertragsmodell, Transparenz und Abrechnungspraxis zu prüfen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Datenschutz und Telematik im Fahrzeugleasing | Telematik: Verarbeitung nach Artikel 6 Datenschutz-Grundverordnung erlaubnispflichtig. Artikel 6 I f Datenschutz-Grundverordnung: Berechtigte Interessen (Diebstahlschutz, Wartungsplanung). | Entwurfsbaustein zu Datenschutz und Telematik im Fahrzeugleasing mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | ESG und Green Lease: Taxonomie und Nachhaltigkeit | Die Taxonomie-VO definiert, welche wirtschaftlichen Aktivitäten als ökologisch nachhaltig gelten:. Leasinggesellschaften: Sofern Finanzdienstleistungsinstitut (KWG) → SFDR-Scope prüfen. | Entwurfsbaustein zu ESG und Green Lease: Taxonomie und Nachhaltigkeit mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-| Leasingvertrag-Redline: Leasingnehmerperspektive | Ob eine fehlende Mehrerlösbeteiligung die konkrete Klausel angreifbar macht, ist gesondert anhand Paragraf 307 BGB, Vertragsmodell, Transparenz und Abrechnungspraxis zu prüfen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Asset Tracking und Eigentumskennzeichnung im Leasing | Eigentumskennzeichnung (Schild, Prägung, Aufkleber) begrenzt gutgläubigen Erwerb Dritter (Paragraf 932 BGB). Praxis: Metallschild „Eigentum der XY Leasing GmbH – Herausgabe an Dritte untersagt". | Entwurfsbaustein zu Asset Tracking und Eigentumskennzeichnung im Leasing mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 
 ## 16. Fachspezifische Praxisrouten
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Insolvenz des Leasingnehmers: Aussonderung und Fortführung
-
-Bearbeitungsauftrag: Bearbeite Insolvenz des Leasingnehmers: Aussonderung und Fortführung: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Prüfschritte: Paragraf 47 InsO: Aussonderung (LG als Eigentümer); Paragraf 108 InsO: Fortbestand bestimmter Verträge (Miet-/Leasingverträge); Paragraf 109 InsO: Wahlrecht des Insolvenzverwalters bei Verträgen; Paragrafen 38, 55 InsO: Insolvenzforderung vs; Paragraf 21 II Nummer 5 InsO: Vorläufige Insolvenzverwaltung, Anordnung des Aussonderungsverbots Leasingverträge über unbewegliche Sachen (Immobilien) laufen gemäß Paragraf 108 I InsO grundsätzlich mit Wirkung für die Masse fort.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 47 InsO: Aussonderung (LG als Eigentümer); Paragraf 108 InsO: Fortbestand bestimmter Verträge (Miet-/Leasingverträge); Paragraf 109 InsO: Wahlrecht des Insolvenzverwalters bei Verträgen; Paragrafen 38, 55 InsO: Insolvenzforderung vs.
-Lieferstück: Entwurfsbaustein zu Insolvenz des Leasingnehmers: Aussonderung und Fortführung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.2. Immobilienleasing: Erbbaurecht und Grundbuch
+### 16.1. Immobilienleasing: Erbbaurecht und Grundbuch
 
 Bearbeitungsauftrag: ErbbauRG: Erbbaurecht als Alternative zu vollem Eigentum. Paragraf 108 InsO: Leasingvertrag über unbewegliche Sachen läuft in Insolvenz fort. Eigentumsübergang: Auflassung (Paragraf 925 BGB) + Grundbucheintragung (Paragraf 873 BGB).
 Prüfschritte: Paragrafen 535 und folgende BGB: Leasingvertrag als atypischer Mietvertrag; Paragraf 94 BGB: Gebäude als wesentlicher Bestandteil des Grundstücks; Paragrafen 873, 925 BGB: Eigentumsübergang Grundstücke (Auflassung + Grundbucheintragung); BMF-Leasingerlasse (1971/1972): Gelten für Immobilienleasing mit Anpassungen; IFRS 16: Aktivierungspflicht auch für Immobilien.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragrafen 535 und folgende BGB: Leasingvertrag als atypischer Mietvertrag; Paragraf 94 BGB: Gebäude als wesentlicher Bestandteil des Grundstücks; Paragrafen 873, 925 BGB: Eigentumsübergang Grundstücke (Auflassung + Grundbucheintragung); ErbbauRG: Erbbaurecht als Alternative; Paragrafen 535 und folgende BGB: Leasingvertrag als atypischer Mietvertrag.
+Normbezug aus dem Fachmaterial: Paragrafen 535 und folgende BGB: Leasingvertrag als atypischer Mietvertrag; Paragraf 94 BGB: Gebäude als wesentlicher Bestandteil des Grundstücks; Paragrafen 873, 925 BGB: Eigentumsübergang Grundstücke (Auflassung + Grundbucheintragung); ErbbauRG: Erbbaurecht als Alternative.
 Lieferstück: Entwurfsbaustein zu Immobilienleasing: Erbbaurecht und Grundbuch mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
+
+### 16.2. Insolvenz des Leasingnehmers: Aussonderung und Fortführung
+
+Bearbeitungsauftrag: Bearbeite Insolvenz des Leasingnehmers: Aussonderung und Fortführung entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen.
+Prüfschritte: Paragraf 47 InsO: Aussonderung (LG als Eigentümer); Paragraf 108 InsO: Fortbestand bestimmter Verträge (Miet-/Leasingverträge); Paragraf 109 InsO: Wahlrecht des Insolvenzverwalters bei Verträgen; Paragrafen 38, 55 InsO: Insolvenzforderung vs; Paragraf 21 II Nummer 5 InsO: Vorläufige Insolvenzverwaltung, Anordnung des Aussonderungsverbots Leasingverträge über unbewegliche Sachen (Immobilien) laufen gemäß Paragraf 108 I InsO grundsätzlich mit Wirkung für die Masse fort.
+Normbezug aus dem Fachmaterial: Paragraf 47 InsO: Aussonderung (LG als Eigentümer); Paragraf 108 InsO: Fortbestand bestimmter Verträge (Miet-/Leasingverträge); Paragraf 109 InsO: Wahlrecht des Insolvenzverwalters bei Verträgen; Paragrafen 38, 55 InsO: Insolvenzforderung vs.
+Lieferstück: Entwurfsbaustein zu Insolvenz des Leasingnehmers: Aussonderung und Fortführung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
 ### 16.3. Konzerninternes Leasing: Transfer Pricing und Verrechnungspreise
 
 Bearbeitungsauftrag: Bearbeite Konzerninternes Leasing: Transfer Pricing und Verrechnungspreise entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen.
 Prüfschritte: Paragraf 1 AStG (Einkünftekorrektur bei nahestehenden Personen): Fremdvergleich; Paragrafen 1a–1e AStG: Dokumentationspflichten, Angemessenheitsnachweis; Paragraf 90 III AO, GAufzV: Aufzeichnungspflichten für Verrechnungspreise; Artikel 9 OECD-Musterabkommen: Verbundene Unternehmen; BEPS-Aktionspläne 8–10 (OECD 2015): Gewinnkorrektur bei immateriellen Gütern und Dienstleistungen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 1 AStG (Einkünftekorrektur bei nahestehenden Personen): Fremdvergleich; Paragrafen 1a–1e AStG: Dokumentationspflichten, Angemessenheitsnachweis; Paragraf 90 III AO, GAufzV: Aufzeichnungspflichten für Verrechnungspreise; Artikel 9 OECD-Musterabkommen: Verbundene; Paragraf 1 AStG (Einkünftekorrektur bei nahestehenden Personen): Fremdvergleich.
+Normbezug aus dem Fachmaterial: Paragraf 1 AStG (Einkünftekorrektur bei nahestehenden Personen): Fremdvergleich; Paragrafen 1a–1e AStG: Dokumentationspflichten, Angemessenheitsnachweis; Paragraf 90 III AO, GAufzV: Aufzeichnungspflichten für Verrechnungspreise; Artikel 9 OECD-Musterabkommen: Verbundene.
 Lieferstück: Entwurfsbaustein zu Konzerninternes Leasing: Transfer Pricing und Verrechnungspreise mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
 ### 16.4. Flottenleasing: Schadenmanagement und Minderwertabrechnung
 
 Bearbeitungsauftrag: Flottenleasing ist zivilrechtlich eine Mehrzahl von Einzelleasingverträgen, oft verbunden durch einen Rahmenvertrag (Master Lease Agreement). BGB: AGB-Kontrolle gilt für Flottenvertrag; bei Unternehmern (Paragraf 310 I BGB) erleichtert. bei gewerblichem Flottenleasing (handelsrechtliche Grundsätze).
 Prüfschritte: Paragrafen 535 und folgende BGB (Mietrecht analog) für jeden Einzelvertrag; Paragraf 305 und folgende BGB: AGB-Kontrolle gilt für Flottenvertrag; Paragrafen 398, 433 BGB: Dreiecksstruktur Lieferant/LG/Flottenleasingnehmer; Schadensrecht: Paragrafen 249 und folgende BGB, Paragrafen 7 und folgende StVG (Kfz-Haftpflicht); HGB Paragrafen 343 und folgende bei gewerblichem Flottenleasing (handelsrechtliche Grundsätze).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Rechtliche Besonderheiten:; Paragrafen 535 und folgende BGB (Mietrecht analog) für jeden Einzelvertrag; Paragraf 305 und folgende; Paragrafen 535 und folgende BGB (Mietrecht analog) für jeden Einzelvertrag; Paragraf 305 und folgende BGB: AGB-Kontrolle gilt für Flottenvertrag; Paragrafen 398, 433 BGB: Dreiecksstruktur Lieferant/LG/Flottenleasingnehmer.
+Normbezug aus dem Fachmaterial: Rechtliche Besonderheiten:; Paragrafen 535 und folgende BGB (Mietrecht analog) für jeden Einzelvertrag; Paragraf 305 und folgende.
 Lieferstück: Entwurfsbaustein zu Flottenleasing: Schadenmanagement und Minderwertabrechnung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
 ### 16.5. Gerichtliche Durchsetzung von Leasingraten
@@ -227,46 +223,46 @@ Bearbeitungsauftrag: Besonderer Gerichtsstand: Erfüllungsort (Paragraf 29 ZPO) 
 Prüfschritte: Leasingvertrag (Original oder beglaubigte Kopie); Abnahmeprotokoll (Beweismittel für Übergabe und Zustand); Rechnungen (fällige Raten, lückenlos); Mahnkorrespondenz (Nachweis Verzug und Abmahnung); Bonitätsnachweis Schuldner (für Vollstreckbarkeit).
 Lieferstück: Entwurfsbaustein zu Gerichtliche Durchsetzung von Leasingraten mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.6. Datenschutz und Telematik im Fahrzeugleasing
+### 16.6. Leasingvertrag-Redline: Leasingnehmerperspektive
+
+Bearbeitungsauftrag: Ob eine fehlende Mehrerlösbeteiligung die konkrete Klausel angreifbar macht, ist gesondert anhand Paragraf 307 BGB, Vertragsmodell, Transparenz und Abrechnungspraxis zu prüfen. Forderung des LN: Ergänzung: „Übersteigt der Verwertungserlös den kalkulierten Restwert, erhält der LN mindestens 75 % des Mehrerlöses." Problem: LN trägt das Risiko auch bei unverschuldetem Untergang; keine GAP-Versicherung.
+Prüfschritte: Problem: Restwertgarantie des LN ohne Beteiligung am Mehrerlös bei Verwertung über Restwert; VIII ZR 179/13 und VIII ZR 241/13 betreffen die Wirksamkeit von Restwertgarantien im Verbraucherleasing; Risiko: Totalschaden → LN zahlt Differenz zwischen Versicherung und offener Restschuld; Forderung des LN: „Im Fall des Totalschadens oder Diebstahls deckt die gemäß Vertrag abzuschließende GAP-Versicherung die verbleibende Forderung des LG.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.7. Datenschutz und Telematik im Fahrzeugleasing
 
 Bearbeitungsauftrag: Telematik: Verarbeitung nach Artikel 6 Datenschutz-Grundverordnung erlaubnispflichtig. Artikel 6 I f Datenschutz-Grundverordnung: Berechtigte Interessen (Diebstahlschutz, Wartungsplanung). Artikel 6 I a Datenschutz-Grundverordnung: Einwilligung (für weitergehende Auswertung) Berechtigtes Interesse vs.
 Prüfschritte: GPS-Position + Uhrzeit + Fahrzeug-ID = personenbezogene Daten (identifizierbar über Fahrer); Fahrstildaten (Beschleunigung, Bremsung, Tempo): Personenbezug bei fester Fahrerzuordnung; Artikel 6 I b Datenschutz-Grundverordnung: Vertragserfüllung (Flottenmanagement, Versicherungskalkulation); Grundrechte des Betroffenen (Fahrer):; Flottenmanagement: Berechtigtes Interesse bejaht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: GPS-Position + Uhrzeit + Fahrzeug-ID = personenbezogene Daten (identifizierbar über Fahrer); Fahrstildaten (Beschleunigung, Bremsung, Tempo): Personenbezug bei fester Fahrerzuordnung; Telematik: Verarbeitung nach Artikel 6 Datenschutz-Grundverordnung erlaubnispflichtig; Artikel 6 I b Datenschutz-Grundverordnung.
+Normbezug aus dem Fachmaterial: GPS-Position + Uhrzeit + Fahrzeug-ID = personenbezogene Daten (identifizierbar über Fahrer); Fahrstildaten (Beschleunigung, Bremsung, Tempo): Personenbezug bei fester Fahrerzuordnung; Telematik: Verarbeitung nach Artikel 6 Datenschutz-Grundverordnung erlaubnispflichtig; Artikel 6 I b Datenschutz-Grundverordnung.
 Lieferstück: Entwurfsbaustein zu Datenschutz und Telematik im Fahrzeugleasing mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.7. ESG und Green Lease: Taxonomie und Nachhaltigkeit
+### 16.8. ESG und Green Lease: Taxonomie und Nachhaltigkeit
 
 Bearbeitungsauftrag: Die Taxonomie-VO definiert, welche wirtschaftlichen Aktivitäten als ökologisch nachhaltig gelten:. Leasinggesellschaften: Sofern Finanzdienstleistungsinstitut (KWG) → SFDR-Scope prüfen. Artikel 3 SFDR: Grundlegende ESG-Informationen auf Webseite.
 Prüfschritte: Sechs Umweltziele (Klimaschutz, Klimaanpassung, Wasser, Kreislaufwirtschaft, Biodiversität, Schadstoffvermeidung); „Do No Significant Harm" (DNSH): Keine erhebliche Beeinträchtigung anderer Ziele; Mindest-Sozialstandards (OECD, UN-Leitprinzipien); Wenn LG Finanzprodukte anbietet oder investiert: Offenlegungspflicht (SFDR); Leasingobjekte können taxonomiefähig sein: PV-Anlagen, E-Fahrzeuge, effiziente Gebäude.
 Lieferstück: Entwurfsbaustein zu ESG und Green Lease: Taxonomie und Nachhaltigkeit mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.8. Leasingvertrag-Redline: Leasingnehmerperspektive
-
-Bearbeitungsauftrag: Ob eine fehlende Mehrerlösbeteiligung die konkrete Klausel angreifbar macht, ist gesondert anhand Paragraf 307 BGB, Vertragsmodell, Transparenz und Abrechnungspraxis zu prüfen. Forderung des LN: Ergänzung: „Übersteigt der Verwertungserlös den kalkulierten Restwert, erhält der LN mindestens 75 % des Mehrerlöses." Problem: LN trägt das Risiko auch bei unverschuldetem Untergang; keine GAP-Versicherung.
-Prüfschritte: Problem: Restwertgarantie des LN ohne Beteiligung am Mehrerlös bei Verwertung über Restwert; Risiko: Totalschaden → LN zahlt Differenz zwischen Versicherung und offener Restschuld; Forderung des LN: „Im Fall des Totalschadens oder Diebstahls deckt die gemäß Vertrag abzuschließende GAP-Versicherung die verbleibende Forderung des LG.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BGH-Anker: Die Entscheidungen vom 28.05.2014; VIII ZR 179/13 und VIII ZR 241/13 betreffen die Wirksamkeit von Restwertgarantien im Verbraucherleasing.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
 ### 16.9. Asset Tracking und Eigentumskennzeichnung im Leasing
 
 Bearbeitungsauftrag: Eigentumskennzeichnung (Schild, Prägung, Aufkleber) begrenzt gutgläubigen Erwerb Dritter (Paragraf 932 BGB). Praxis: Metallschild „Eigentum der XY Leasing GmbH – Herausgabe an Dritte untersagt". Datenschutz: Datenschutz-Grundverordnung-Anforderungen (Artikel 6 Datenschutz-Grundverordnung) für Standortdaten.
 Prüfschritte: BGH: Erkennbares Eigentum Dritter schließt guten Glauben beim Erwerber aus; Pfändung durch LN-Gläubiger: Gerichtsvollzieher darf LG-Eigentum nicht pfänden; Drittwiderspruchsklage (Paragraf 771 ZPO): LG kann Pfändung anfechten; Beweissicherung: Eigentumsschild erleichtert Glaubhaftmachung; Anwendung: Kfz, Baumaschinen, Container.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Eigentumskennzeichnung (Schild, Prägung, Aufkleber) begrenzt gutgläubigen Erwerb Dritter (Paragraf 932 BGB); BGH: Erkennbares Eigentum Dritter schließt guten Glauben beim Erwerber aus; Praxis: Metallschild „Eigentum der XY Leasing GmbH – Herausgabe an Dritte untersagt"; BGH: Erkennbares Eigentum Dritter schließt guten Glauben beim Erwerber aus.
+Normbezug aus dem Fachmaterial: Eigentumskennzeichnung (Schild, Prägung, Aufkleber) begrenzt gutgläubigen Erwerb Dritter (Paragraf 932 BGB); BGH: Erkennbares Eigentum Dritter schließt guten Glauben beim Erwerber aus; Praxis: Metallschild „Eigentum der XY Leasing GmbH – Herausgabe an Dritte untersagt".
 Lieferstück: Entwurfsbaustein zu Asset Tracking und Eigentumskennzeichnung im Leasing mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.10. Kommunalleasing: Vergaberecht und Haushaltsrecht
-
-Bearbeitungsauftrag: Bearbeite Kommunalleasing: Vergaberecht und Haushaltsrecht: rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Prüfschritte: Gemeindeordnungen der Länder (GO NRW, GemO BW, GO BayGO etc.): Haushaltsgrundsätze; Paragrafen 97 und folgende GWB: Vergaberecht; Paragrafen 7, 34 BHO / entsprechende LHO: Wirtschaftlichkeit und Sparsamkeit; KommWirtschaftlichkeitsnachweis-Erlasse der Bundesländer Kommunen müssen nachweisen, dass Leasing wirtschaftlicher ist als Kauf:; Kapitalwertvergleich: Gesamtkosten Leasing (Raten + NK) vs.
-Lieferstück: Entwurfsbaustein zu Kommunalleasing: Vergaberecht und Haushaltsrecht mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.11. Leasing beweglicher Sachen Router
+### 16.10. Leasing beweglicher Sachen Router
 
 Bearbeitungsauftrag: Dieser Arbeitsgang führt nicht schematisch durch Leasing beweglicher Sachen Router, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt. Wo droht eine falsche Reihenfolge: erst BGB AT, dann BT, erst Vertrag, dann Delikt, erst Primäranspruch, dann Sekundäranspruch? Erzeuge Gutachten, Memo, Klausurlösung, Red-Team und Rückfragenliste.
 Prüfschritte: Objekt, Seriennummer, Zubehör und Standort erfassen; Finanzierungsleasing, Operating Lease und Mietkauf abgrenzen; Rückgabezustand, Wartung, Minderwert und Verwertung planen; Welche Anspruchsgrundlage oder Norm ist verführerisch, aber falsch; Welche Tatsache wird im Sachverhalt nur behauptet, aber nicht belegt.
 Lieferstück: Entwurfsbaustein zu Leasing beweglicher Sachen Router mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.12. Franchise-Leasing: Ausstattung und Eigentumsrechte
+### 16.11. Grenzüberschreitendes Leasing: UNIDROIT und Rechtswahl
 
-Bearbeitungsauftrag: Faktische Abhängigkeit: Ausstattung nicht ohne Franchise sinnvoll nutzbar. Frage: Sind beide Verträge als verbundene Verträge (Paragraf 358 BGB) zu behandeln? Paragraf 358 BGB (Verbundene Verträge): Bei Verbrauchern: Wenn Leasingvertrag und Franchisevertrag eine wirtschaftliche Einheit bilden → Einwendungen aus Franchisevertrag können gegen Leasingvertrag geltend gemacht werden.
-Lieferstück: Entwurfsbaustein zu Franchise-Leasing: Ausstattung und Eigentumsrechte mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
+Bearbeitungsauftrag: Bearbeite Grenzüberschreitendes Leasing: UNIDROIT und Rechtswahl entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen.
+Prüfschritte: UNIDROIT-Übereinkommen: Gilt für Finanzierungsleasing, wenn LG und LN in verschiedenen Vertragsstaaten ansässig sind; Deutschland ist kein Vertragsstaat → gilt nur, wenn Parteien Recht eines Vertragsstaats gewählt haben (z.B; England bis Brexit, Frankreich, USA/einzelne Staaten); Regelt: Rechte und Pflichten aus Leasingdreieck (Lieferant, LG, LN); Artikel 8: LN kann Ansprüche gegen Lieferant direkt geltend machen (wie Paragraf398 BGB).
+Lieferstück: Entwurfsbaustein zu Grenzüberschreitendes Leasing: UNIDROIT und Rechtswahl mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
+
+### 16.12. IT-Leasing: Hardware, Software und Cloud-Bundle
+
+Bearbeitungsauftrag: Software ist kein körperlicher Gegenstand (Paragraf 90 BGB: nur körperliche Sachen). Daher: Software-Leasing = Nutzungsüberlassung von Lizenzen (Paragraf 453 BGB: Rechtskauf/Lizenz analog). Wenn Hardware + Cloud gebearbeitet: Gemischter Vertrag.
+Prüfschritte: Klassisches Finanzierungsleasing: Server, Workstations, Drucker, Netzwerktechnik; Paragrafen 535 und folgende BGB (atypischer Mietvertrag); BMF-Erlass: wirtschaftliches Eigentum beim LG (Regelfall); Subscription: Leasing passt besser zu perpetual licenses; SaaS, PaaS, IaaS: Keine Leasingstruktur.
+Lieferstück: Entwurfsbaustein zu IT-Leasing: Hardware, Software und Cloud-Bundle mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.

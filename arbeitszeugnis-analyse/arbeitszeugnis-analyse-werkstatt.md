@@ -203,7 +203,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Bearbeite Schlussformel Bewertung: zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Klarheit, Wahrheit und Wohlwollen: Geheimcode-Verdacht, Auslassungen, doppeldeutige Formulierungen, Schlussformel und äußere Form prüfen.
 Prüfschritte: Paragraf 109 GewO — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Paragraf 109 Absatz 2 GewO — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben; Beispiel 2 – Orange (fehlendes Bedauern): "Wir danken Herrn Klein für seine Arbeit und wünschen ihm für die Zukunft alles Gute." — Kein Bedauern; im Bewerbungsverkehr kühl, rechtlich aber nicht automatisch angreifbar.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 109 GewO — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Paragraf 109 Absatz 2 GewO — Klarheits- und Wahrheitspflicht.
+Normbezug aus dem Fachmaterial: Paragraf 109 GewO — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Paragraf 109 Absatz 2 GewO — Klarheits- und Wahrheitspflicht.
 Lieferstück: Fachvotum zu Schlussformel Bewertung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. Chronologie und Belegmatrix Arbeitszeugnis
@@ -247,17 +247,17 @@ Lieferstück: Fachvotum zu Widersprüchliche Bewertungen erkennen und kommentier
 Bearbeitungsauftrag: Beispiel 1 – Korrekte Zeugnisart-Erkennung: "Wir stellen dieses Zeugnis auf eigenen Wunsch aus" + kein Enddatum → Zwischenzeugnis auf Wunsch des Arbeitnehmers. Beispiel 2 – Einfaches Zeugnis korrekt interpretiert: Zeugnis ohne jede Leistungsbeurteilung und ohne Verhaltensabschnitt, aber mit explizitem Hinweis "einfaches Zeugnis" oder keine Bewertungsformulierungen — nicht als Abwertung zu lesen.
 Lieferstück: Fachvotum zu Zeugnisart-Erkennung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Aufforderungsschreiben an den Arbeitgeber
-
-Bearbeitungsauftrag: Das Aufforderungsschreiben hat drei Funktionen. Es gibt dem Arbeitgeber eine faire Gelegenheit zur Korrektur, schärft die Streitpunkte für eine mögliche Klage und schafft eine saubere Grundlage für Fristsetzung, Verzug und Kostenargumente. Es sollte fast immer vor einer Klage stehen, aber nicht als starre Zulässigkeitsformel behauptet werden.
-Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
-
-### 16.11. Branchenspezifische Formulierungen
+### 16.10. Branchenspezifische Formulierungen
 
 Bearbeitungsauftrag: Beispiel 1 – Vertrieb (Grün): "Herr Kurz übertraf seine Vertriebsziele im Beobachtungszeitraum durchgehend und war maßgeblich an der Neukundengewinnung beteiligt." Beispiel 2 – IT (Orange): "Frau Kramer hat an mehreren Softwareprojekten mitgewirkt und dabei ihre technischen Fähigkeiten eingesetzt." — Passiv, keine Erfolgsaussagen, keine Verantwortungsaussage.
 Lieferstück: Fachvotum zu Branchenspezifische Formulierungen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Grünen-Flaggen-Katalog
+### 16.11. Grünen-Flaggen-Katalog
 
 Bearbeitungsauftrag: Beispiel 1 – Note 1 (maximale Formel): "Frau Dr. Wagner erfüllte alle ihr übertragenen Aufgaben stets zu unserer vollsten Zufriedenheit. Ihre hervorragenden Fachkenntnisse und ihr außerordentliches Engagement haben unser Unternehmen maßgeblich vorangebracht." Beispiel 2 – Note 2 (starke Formel): "Herr Richter erledigte seine Aufgaben stets zur vollen Zufriedenheit.
 Lieferstück: Fachvotum zu Grünen-Flaggen-Katalog mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Notenrelevante Sätze identifizieren
+
+Bearbeitungsauftrag: Beispiel 1 – Rein deskriptiv (nicht notenrelevant): "Frau Weber war in unserem Haus als Projektmanagerin tätig und verantwortete die Koordination externer Dienstleister." — Keine Qualitätsaussage. Beispiel 2 – Leistungsbeurteilung (notenrelevant): "Sie erledigte alle ihr übertragenen Aufgaben stets zu unserer vollsten Zufriedenheit." — Kernbeurteilungssatz, Note 1, Grün.
+Lieferstück: Fachvotum zu Notenrelevante Sätze identifizieren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

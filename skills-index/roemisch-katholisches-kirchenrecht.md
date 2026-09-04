@@ -1,6 +1,6 @@
 # roemisch-katholisches-kirchenrecht
 
-**127 Skills** · Stand `v441.0.0`
+**127 Skills** · Stand `v442.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../roemisch-katholisches-kirchenrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

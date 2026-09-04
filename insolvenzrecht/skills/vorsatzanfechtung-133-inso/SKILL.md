@@ -259,13 +259,13 @@ BGH-Linie (vor Ausgabe konkrete Entscheidung über offene Quelle prüfen):
 ### Anfechtungs-Klage Insolvenz-Verwalter
 
 - Gegen Anfechtungs-Gegner
-- Klage am Insolvenz-Gericht oder AG/LG je Streitwert
-- Forderungs-Inhalt: Rückgewähr Bereicherungs-Recht
+- Klage vor dem sachlich und örtlich zuständigen Prozessgericht nach GVG und ZPO; das Insolvenzgericht ist nicht allein wegen des eröffneten Verfahrens Prozessgericht.
+- Streitgegenstand ist der Rückgewähranspruch nach Paragraf 143 InsO. Das Bereicherungsrecht wird für die Rechtsfolgen nur entsprechend herangezogen und ist nicht die eigenständige Anspruchsgrundlage.
 
 ### Verjährung Anfechtungs-Anspruch
 
-- Drei Jahre seit Insolvenz-Eröffnung § 146 InsO
-- Beweis-Sicherung wichtig
+- Paragraf 146 Absatz 1 InsO verweist auf die regelmäßige Verjährung des BGB. Die regelmäßige Frist beträgt nach Paragraf 195 BGB drei Jahre; ihr Beginn richtet sich nach Paragraf 199 Absatz 1 BGB insbesondere nach Anspruchsentstehung, Kenntnis oder grob fahrlässiger Unkenntnis und dem Schluss des betreffenden Jahres, nicht pauschal nach dem Tag der Verfahrenseröffnung.
+- Höchstfristen, Hemmung und Neubeginn gesondert prüfen; Beweise für Anspruchsentstehung und Kenntnisstand sichern.
 
 ### Vergleich
 
@@ -372,7 +372,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 - Sachverständigen-Auftrag
 - Vergleichs-Strategie
 - Klage-/Antwort-Schriftsatz
-- Frist im Fristenbuch (Verjährung drei Jahre)
+- Frist im Fristenbuch mit Berechnung nach Paragraf 146 InsO sowie den Paragrafen 195 und 199 BGB
 
 ## Quellen
 
@@ -381,8 +381,8 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
 - BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten. Die Entscheidung ist ein Darlegungsanker zu Paragraf 17 InsO, kein pauschaler Beleg für geringere Anfechtungsrisiken.
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
-- **BGH IX ZR 229/22 vom 23.01.2025** — objektive Zahlungsunfähigkeit und enger Irrtumstatbestand bei Forderungsbestand/Fälligkeit.
- <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
+- **BGH, Urteil vom 23. Januar 2025, IX ZR 229/22, ECLI:DE:BGH:2025:230125UIXZR229.22.0**: Für Bestand und Fälligkeit einer streitigen Forderung ist die objektive Rechtslage maßgeblich; Aussagen zu einem Rechtsirrtum betreffen getrennt davon die subjektiven Voraussetzungen der Vorsatzanfechtung.
+ <https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=1152&nr=140413&pos=16>
 - Ältere Linie (BGH IX ZR 72/20 vom 06.05.2021 — Grundsatzentscheidung Neuausrichtung) und § 138-Konstellationen vor Ausgabe über dejure.org/openjur.de verifizieren.
 - IDW S 6 (Sanierungskonzept)
 - Literatur und Kommentarstellen nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -416,9 +416,11 @@ Die Schuldnerin war zum Zeitpunkt der Zahlungen zahlungsunfaehig. Dies ergibt si
 Begruendung Kenntnis des Anfechtungsgegners:
 [Indizien: Stundungsanfragen, Mahnstufen, Kenntnis ZU-Anzeichen]
 
-Ich fordere Sie auf, den Gesamtbetrag von EUR [BETRAG] zzgl. Zinsen
-(§ 143 Abs. 1 i.V.m. § 819 BGB) bis zum [DATUM, 14 Tage] auf das
-Massekonto [IBAN] zurueckzuueberweisen.
+Ich fordere Sie auf, den Gesamtbetrag von EUR [BETRAG] bis zum
+[DATUM, 14 Tage] auf das Massekonto [IBAN] zurückzuüberweisen.
+Ab Eintritt des Verzugs werden Zinsen nach Paragraf 143 Absatz 1 Satz 3 InsO
+in Verbindung mit den Paragrafen 286 und 288 BGB verlangt; ab Rechtshängigkeit
+gilt Paragraf 291 BGB.
 
 Nach fruchtlosem Ablauf dieser Frist werde ich Klage erheben.
 

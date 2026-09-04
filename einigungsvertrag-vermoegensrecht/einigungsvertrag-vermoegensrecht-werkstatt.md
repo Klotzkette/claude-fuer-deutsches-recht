@@ -167,14 +167,14 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Vermögenszuordnung nach Artikel 21 und 22 Einigungsvertrag | Einigungsvertrag und Vermögensrecht: Artikel 21 und Artikel 22 Vermögen trennen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Ausschlussfristen und Bestandskraft | Bearbeite Ausschlussfristen und Bestandskraft entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Verfahren und Einwand: Zuständigkeit, Antrag, Ausschlussfrist, Bestandskraft. | Fristenblatt zu Ausschlussfristen und Bestandskraft mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
-| Bodenreformland Anspruchspfad prüfen | Bearbeite Bodenreformland Anspruchspfad prüfen entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Anspruchspfad: Zuordnung, Restitution, Entschädigung, Sachenrechtsbereinigung, Berichtigung. | Fachvotum zu Bodenreformland Anspruchspfad prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Grundbuchberichtigung prüfen | Bearbeite Grundbuchberichtigung prüfen entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Verfahren und Einwand: Zuständigkeit, Antrag, Ausschlussfrist, Bestandskraft, Rechtsnachfolge. | Fachvotum zu Grundbuchberichtigung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Kommunalvermögen Fristproblem Markier | Bearbeite Kommunalvermögen Fristproblem Markier entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Objekt und Zeitachse: Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel. | Fristenblatt zu Kommunalvermögen Fristproblem Markier mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
-| Landwirtschaftliche Fläche Anspruchsp | Bearbeite Landwirtschaftliche Fläche Anspruchsp entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Objekt und Zeitachse: Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel. | Fachvotum zu Landwirtschaftliche Fläche Anspruchsp mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Mauergrundstück Fristproblem Markiere | Bearbeite Mauergrundstück Fristproblem Markiere entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Objekt und Zeitachse: Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel. | Fristenblatt zu Mauergrundstück Fristproblem Markiere mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
-| Parteivermögen Fristproblem Markieren | Bearbeite Parteivermögen Fristproblem Markieren entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Objekt und Zeitachse: Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel. | Fristenblatt zu Parteivermögen Fristproblem Markieren mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
-| Treuhandprivatisierung Fristproblem Ma | Bearbeite Treuhandprivatisierung Fristproblem Ma entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Objekt und Zeitachse: Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel. | Fristenblatt zu Treuhandprivatisierung Fristproblem Ma mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| Ausschlussfristen und Bestandskraft | Bearbeite Ausschlussfristen und Bestandskraft als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. | Fristenblatt zu Ausschlussfristen und Bestandskraft mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| Bodenreformland Anspruchspfad prüfen | Bearbeite Bodenreformland Anspruchspfad prüfen als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. | Fachvotum zu Bodenreformland Anspruchspfad prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Klage skizzieren | Bearbeite Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Klage skizzieren als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Kommunalvermögen Fristproblem Markier | Bearbeite Kommunalvermögen Fristproblem Markier als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. | Fristenblatt zu Kommunalvermögen Fristproblem Markier mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| Landwirtschaftliche Fläche Anspruchsp | Bearbeite Landwirtschaftliche Fläche Anspruchsp als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. | Fachvotum zu Landwirtschaftliche Fläche Anspruchsp mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Mauergrundstück Fristproblem Markiere | Bearbeite Mauergrundstück Fristproblem Markiere als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. | Fristenblatt zu Mauergrundstück Fristproblem Markiere mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| Parteivermögen Fristproblem Markieren | Bearbeite Parteivermögen Fristproblem Markieren als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. | Fristenblatt zu Parteivermögen Fristproblem Markieren mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| Treuhandprivatisierung Fristproblem Ma | Bearbeite Treuhandprivatisierung Fristproblem Ma als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. | Fristenblatt zu Treuhandprivatisierung Fristproblem Ma mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -183,60 +183,60 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. Vermögenszuordnung nach Artikel 21 und 22 Einigungsvertrag
 
 Bearbeitungsauftrag: Einigungsvertrag und Vermögensrecht: Artikel 21 und Artikel 22 Vermögen trennen. Artikel 21 und Artikel 22 Vermögen trennen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. Tatbestand: Die relevanten Merkmale einzeln mit Belegen füllen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Einigungsvertrag und Vermögensrecht: Artikel 21 und Artikel 22 Vermögen trennen; Artikel 21 und Artikel 22 Vermögen trennen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+Normbezug aus dem Fachmaterial: Einigungsvertrag und Vermögensrecht: Artikel 21 und Artikel 22 Vermögen trennen; Artikel 21 und Artikel 22 Vermögen trennen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.2. Ausschlussfristen und Bestandskraft
 
-Bearbeitungsauftrag: Bearbeite Ausschlussfristen und Bestandskraft entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Verfahren und Einwand: Zuständigkeit, Antrag, Ausschlussfrist, Bestandskraft, Rechtsnachfolge, redlicher Erwerb. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
+Bearbeitungsauftrag: Bearbeite Ausschlussfristen und Bestandskraft als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht. Fachstation: Verfahren und Einwand: Zuständigkeit, Antrag, Ausschlussfrist, Bestandskraft, Rechtsnachfolge, redlicher Erwerb und Beweislast prüfen.
 Lieferstück: Fristenblatt zu Ausschlussfristen und Bestandskraft mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
 ### 16.3. Bodenreformland Anspruchspfad prüfen
 
-Bearbeitungsauftrag: Bearbeite Bodenreformland Anspruchspfad prüfen entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Anspruchspfad: Zuordnung, Restitution, Entschädigung, Sachenrechtsbereinigung, Berichtigung oder Sondergesetz strikt. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
+Bearbeitungsauftrag: Bearbeite Bodenreformland Anspruchspfad prüfen als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu. Fachstation: Anspruchspfad: Zuordnung, Restitution, Entschädigung, Sachenrechtsbereinigung, Berichtigung oder Sondergesetz strikt trennen.
 Lieferstück: Fachvotum zu Bodenreformland Anspruchspfad prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Grundbuchberichtigung prüfen
+### 16.4. Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Klage skizzieren
 
-Bearbeitungsauftrag: Bearbeite Grundbuchberichtigung prüfen entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Verfahren und Einwand: Zuständigkeit, Antrag, Ausschlussfrist, Bestandskraft, Rechtsnachfolge, redlicher Erwerb und Beweislast. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
-Lieferstück: Fachvotum zu Grundbuchberichtigung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Klage skizzieren als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
+Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.5. Kommunalvermögen Fristproblem Markier
 
-Bearbeitungsauftrag: Bearbeite Kommunalvermögen Fristproblem Markier entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Objekt und Zeitachse: Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel von Vorkriegszeit über DDR. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
+Bearbeitungsauftrag: Bearbeite Kommunalvermögen Fristproblem Markier als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
 Lieferstück: Fristenblatt zu Kommunalvermögen Fristproblem Markier mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
 ### 16.6. Landwirtschaftliche Fläche Anspruchsp
 
-Bearbeitungsauftrag: Bearbeite Landwirtschaftliche Fläche Anspruchsp entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Objekt und Zeitachse: Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel von Vorkriegszeit über DDR. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
+Bearbeitungsauftrag: Bearbeite Landwirtschaftliche Fläche Anspruchsp als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
 Lieferstück: Fachvotum zu Landwirtschaftliche Fläche Anspruchsp mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.7. Mauergrundstück Fristproblem Markiere
 
-Bearbeitungsauftrag: Bearbeite Mauergrundstück Fristproblem Markiere entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Objekt und Zeitachse: Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel von Vorkriegszeit über DDR. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
+Bearbeitungsauftrag: Bearbeite Mauergrundstück Fristproblem Markiere als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
 Lieferstück: Fristenblatt zu Mauergrundstück Fristproblem Markiere mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
 ### 16.8. Parteivermögen Fristproblem Markieren
 
-Bearbeitungsauftrag: Bearbeite Parteivermögen Fristproblem Markieren entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Objekt und Zeitachse: Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel von Vorkriegszeit über DDR. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
+Bearbeitungsauftrag: Bearbeite Parteivermögen Fristproblem Markieren als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
 Lieferstück: Fristenblatt zu Parteivermögen Fristproblem Markieren mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
 ### 16.9. Treuhandprivatisierung Fristproblem Ma
 
-Bearbeitungsauftrag: Bearbeite Treuhandprivatisierung Fristproblem Ma entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Objekt und Zeitachse: Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel von Vorkriegszeit über DDR. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
+Bearbeitungsauftrag: Bearbeite Treuhandprivatisierung Fristproblem Ma als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
 Lieferstück: Fristenblatt zu Treuhandprivatisierung Fristproblem Ma mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
 ### 16.10. Volkseigener Betrieb Fristproblem Mark
 
-Bearbeitungsauftrag: Bearbeite Volkseigener Betrieb Fristproblem Mark entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Objekt und Zeitachse: Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel von Vorkriegszeit über DDR. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
+Bearbeitungsauftrag: Bearbeite Volkseigener Betrieb Fristproblem Mark als konkreten Vorgang im Gebiet Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
 Lieferstück: Fristenblatt zu Volkseigener Betrieb Fristproblem Mark mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.11. Wohnhaus Ddr Enteignung Fristproblem M
+### 16.11. Behörde und Archiv Finden
 
-Bearbeitungsauftrag: Bearbeite Wohnhaus Ddr Enteignung Fristproblem M entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Objekt und Zeitachse: Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel von Vorkriegszeit über DDR. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
-Lieferstück: Fristenblatt zu Wohnhaus Ddr Enteignung Fristproblem M mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
+Bearbeitungsauftrag: Bearbeite Behörde und Archiv Finden entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Objekt und Zeitachse: Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel von Vorkriegszeit über DDR bis heute belegen.
+Lieferstück: Fachvotum zu Behörde und Archiv Finden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Alte Ddr Unterlagen Auswerten
+### 16.12. Restitution oder Entschädigung
 
-Bearbeitungsauftrag: Bearbeite Alte Ddr Unterlagen Auswerten entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Objekt und Zeitachse: Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel von Vorkriegszeit über DDR bis heute.
-Lieferstück: Akten- und Belegmatrix zu Alte Ddr Unterlagen Auswerten mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
+Bearbeitungsauftrag: Bearbeite Restitution oder Entschädigung entlang der Einigungsvertrags-, Restitutions- und DDR-Vermögensrecht-Prüflinie: Anspruchspfad: Zuordnung, Restitution, Entschädigung, Sachenrechtsbereinigung, Berichtigung oder Sondergesetz strikt trennen.
+Lieferstück: Fachvotum zu Restitution oder Entschädigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

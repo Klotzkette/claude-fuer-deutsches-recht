@@ -99,9 +99,6 @@ Arbeitsgriff Arbeitsprodukt: Anzeige, Kooperationsprotokoll, Auflagenantwort, Sc
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
 | BVerfG, Beschluss vom 14.05.1985 - 1 BvR 233/81 und 1 BvR 341/81 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Versammlungsfreiheit verlangt ein versammlungsfreundliches Verfahren; Kooperation und mildere Mittel haben Vorrang vor Verboten |
-| BVerfG, Beschluss vom 24.07.2015 - 1 BvR 2501/13 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerfG, Beschluss vom 24.07.2015 - 1 BvR 2501/13 |
-| BVerwG, Urteil vom 28.03.2012 - 6 C 12.11 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerwG, Urteil vom 28.03.2012 - 6 C 12.11 |
-| OLG Zweibrücken, Beschluss vom 30.06.2022 - 1 OLG 2 Ss 62/21 nur als kontextgebundenes Tonaufnahme-Risiko prüfen | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Die Entscheidung ist kein pauschales Verbot, Polizeieinsätze oder Versammlungen zu filmen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Anzeige, Kooperationsprotokoll, Auflagenantwort, Schutzkonzept, Eilantrag oder Einsatznachbereitung erstellen
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -118,9 +115,6 @@ Arbeitsgriff Arbeitsprodukt: Anzeige, Kooperationsprotokoll, Auflagenantwort, Sc
 ## 8. Leitentscheidungen
 
 - BVerfG, Beschluss vom 14.05.1985 - 1 BvR 233/81 und 1 BvR 341/81: Versammlungsfreiheit verlangt ein versammlungsfreundliches Verfahren; Kooperation und mildere Mittel haben Vorrang vor Verboten.
-- BVerfG, Beschluss vom 24.07.2015 - 1 BvR 2501/13.
-- BVerwG, Urteil vom 28.03.2012 - 6 C 12.11.
-- OLG Zweibrücken, Beschluss vom 30.06.2022 - 1 OLG 2 Ss 62/21 nur als kontextgebundenes Tonaufnahme-Risiko prüfen: Die Entscheidung ist kein pauschales Verbot, Polizeieinsätze oder Versammlungen zu filmen.
 
 ## 9. Prüfraster
 
@@ -142,7 +136,7 @@ Arbeitsgriff Arbeitsprodukt: Anzeige, Kooperationsprotokoll, Auflagenantwort, Sc
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche konkrete Gefahr ist durch welche aktuelle Tatsache belegt an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Anzeige, Kooperationsprotokoll, Auflagenantwort, Schutzkonzept, Eilantrag oder Einsatznachbereitung erstellen; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Versammlungsblatt: Veranstalter, Leitung, Thema, Route, Zeiten, Teilnehmer, Gegenlage, Kommunikation und Frist; Auflagenprüfung: Verfügungssatz, Gefahr, Beleg, Eignung, Erforderlichkeit, Auswirkung, Alternative und Antrag.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerfG, Beschluss vom 14.05.1985 - 1 BvR 233/81 und 1 BvR 341/81; BVerfG, Beschluss vom 24.07.2015 - 1 BvR 2501/13.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerfG, Beschluss vom 14.05.1985 - 1 BvR 233/81 und 1 BvR 341/81.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -193,19 +187,19 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. Friedlichkeit sorgfältig prüfen
 
 Bearbeitungsauftrag: Nicht jede Behinderung nimmt Artikel 8 GG heraus, aber Gewalt, Zwangslagen, Rettungswegblockaden und Nötigungsrisiken können Versammlungs- und Strafrecht verschärfen. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern? Ausgangspunkt ist Artikel 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Nicht jede Behinderung nimmt Artikel 8 GG heraus, aber Gewalt, Zwangslagen, Rettungswegblockaden und Nötigungsrisiken können Versammlungs- und Strafrecht verschärfen.
+Normbezug aus dem Fachmaterial: Nicht jede Behinderung nimmt Artikel 8 GG heraus, aber Gewalt, Zwangslagen, Rettungswegblockaden und Nötigungsrisiken können Versammlungs- und Strafrecht verschärfen.
 Lieferstück: Fachvotum zu Friedlichkeit sorgfältig prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. Gerichtsfähig unter Zeitdruck
 
 Bearbeitungsauftrag: Strukturiere Antrag, Beteiligte, Antragsgegner, angegriffene Verfügung, Dringlichkeit, Artikel 8 GG, Rechtsgrundlage, Gefahrenprognose, Verhältnismäßigkeit, Folgenabwägung und Anlagen. Geht es um eine öffentliche Versammlung unter freiem Himmel, einen Aufzug, eine Innenversammlung, eine private Zusammenkunft oder eine Mischform? Ausgangspunkt ist Artikel 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Strukturiere Antrag, Beteiligte, Antragsgegner, angegriffene Verfügung, Dringlichkeit, Artikel 8 GG, Rechtsgrundlage, Gefahrenprognose, Verhältnismäßigkeit, Folgenabwägung und Anlagen.
+Normbezug aus dem Fachmaterial: Strukturiere Antrag, Beteiligte, Antragsgegner, angegriffene Verfügung, Dringlichkeit, Artikel 8 GG, Rechtsgrundlage, Gefahrenprognose, Verhältnismäßigkeit, Folgenabwägung und Anlagen.
 Lieferstück: Fachvotum zu Gerichtsfähig unter Zeitdruck mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. Innenraum ist nicht automatisch behördenfrei
 
 Bearbeitungsauftrag: Kläre, ob Artikel 8 GG einschlägig ist, ob das Treffen öffentlich ist und ob Sonderrecht wie Hausrecht, Brandschutz, Gaststättenrecht, Schulrecht, Hochschulrecht oder Waffenverbot mitläuft. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern? Ausgangspunkt ist Artikel 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Kläre, ob Artikel 8 GG einschlägig ist, ob das Treffen öffentlich ist und ob Sonderrecht wie Hausrecht, Brandschutz, Gaststättenrecht, Schulrecht, Hochschulrecht oder Waffenverbot mitläuft.
+Normbezug aus dem Fachmaterial: Kläre, ob Artikel 8 GG einschlägig ist, ob das Treffen öffentlich ist und ob Sonderrecht wie Hausrecht, Brandschutz, Gaststättenrecht, Schulrecht, Hochschulrecht oder Waffenverbot mitläuft.
 Lieferstück: Fachvotum zu Innenraum ist nicht automatisch behördenfrei mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Sichtbarkeit und Datenschutz zusammen denken
@@ -248,7 +242,7 @@ Lieferstück: Fachvotum zu Öffentlichkeit gehört dazu mit Tatbestandsmerkmalen
 ### 16.11. Anzeige, nicht Erlaubnis
 
 Bearbeitungsauftrag: Behandle die Anmeldung als Anzeige- und Kooperationsinstrument, nicht als Bitte um Erlaubnis. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern? Ausgangspunkt ist Artikel 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 8 GG startet mit der Freiheitsvermutung.
+Normbezug aus dem Fachmaterial: Artikel 8 GG startet mit der Freiheitsvermutung.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
 ### 16.12. Auflagen brauchen mehr als Bauchgefühl

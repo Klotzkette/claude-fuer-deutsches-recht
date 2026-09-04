@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-strafrecht-verstaendigung-257c-toa-46a
-description: "Für Verständigung Paragraf 257c StPO / TOA Paragraf 46a StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Kontrolliert geplante strafprozessuale Erledigungen vor der Mandantenentscheidung: zulässiger Verständigungsgegenstand, Belehrung, Protokoll, Bindungswegfall, Auflagen, Täter-Opfer-Ausgleich und Nebenfolgen. Liefert einen begründeten Entscheidungsvermerk und eine dokumentierte Gesprächsvollmacht."
 ---
 
-# Verständigung § 257c StPO / TOA § 46a StGB
+# Verständigung Paragraf 257c StPO / TOA Paragraf 46a StGB
 
 ## Zweck
 
-Strafrechtliche Erledigungs-Formen jenseits der Hauptverhandlung: **Verständigung § 257c StPO** (Strafrahmen gegen Geständnis), **Täter-Opfer-Ausgleich § 46a StGB** (Strafmilderung), **§ 153a StPO Einstellung gegen Auflage**, **Adhäsionsverfahren § 403 StPO** (Schmerzensgeld im Strafverfahren).
+Prüfe eine konkret erwogene Verständigung nach Paragraf 257c StPO, Einstellung nach Paragraf 153a StPO oder einen Täter-Opfer-Ausgleich nach Paragraf 46a StGB vor der Mandantenentscheidung. Lies Akte und bisherige Gesprächsvermerke zuerst und beginne mit dem belegten Nutzen, dem tatsächlichen Preis und den Bindungsrisiken jeder eröffneten Option. Verständigungen finden im gesetzlichen Hauptverhandlungsverfahren statt. Das Adhäsionsverfahren ist die gesonderte Durchsetzung zivilrechtlicher Ansprüche.
 
 ## Eingaben
 
@@ -29,31 +29,29 @@ Strafrechtliche Erledigungs-Formen jenseits der Hauptverhandlung: **Verständigu
 ### Leitentscheidungen (Stand Mai 2026)
 
 - BGH, Urteil vom 20.11.2025 — 4 StR 232/25 (4. Strafsenat): TOA bei sexuellem Missbrauch — § 46a Nr. 1 StGB setzt friedensstiftenden kommunikativen Prozess voraus, der eine Verantwortungsübernahme des Täters erkennen lässt; bloße Schadenswiedergutmachung ohne kommunikatives Element genügt nicht. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25
-- BGH, Beschluss des Großen Senats für Strafsachen vom 03.02.2025 — GSSt 1/24: Cannabisbesitz neben Handeltreiben nach KCanG — bei Vorrätighalten teils zum gewinnbringenden Absatz, teils zum Eigenkonsum tritt der Besitz nach Konkurrenzgrundsätzen zurück, sofern die Eigenkonsummenge die straffreien Grenzen des § 3 KCanG nicht überschreitet; sanktionsfreie Mengen sind aus der Einziehung herauszunehmen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
-- BGH, Beschluss vom 15.07.2025 — 2 StR 644/24 (2. Strafsenat): KCanG-Strafzumessung — die in § 1 Nr. 8 ff. KCanG gezogene gesetzliche Wertung ist als bestimmender Strafzumessungsgrund zu berücksichtigen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
-- Hinweis zu § 257c StPO: Es gibt keine vom Modell verifizierte BGH-Leitentscheidung 2025/2026, die § 257c StPO neu fasst; weitere Entscheidungen vor Verwendung live in dejure.org / openjur.de prüfen.
+- BVerfG, Urteil vom 19.03.2013, 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11: Informelle Absprachen außerhalb des gesetzlichen Verständigungsregimes sind unzulässig. Wahrheitserforschung, Schuldprinzip, Belehrung, Transparenz und Protokollierung bleiben zwingend. Die Aktualität weiterer Rechtsprechung ist am amtlichen Volltext zu prüfen.
 
 ## ADR-Pfade im Strafrecht
 
 ### Pfad 1 — § 153a StPO Einstellung gegen Auflage
 
-- Geringe Schuld
+- Vergehen; die Schwere der Schuld darf nicht entgegenstehen und Auflagen oder Weisungen müssen das öffentliche Verfolgungsinteresse beseitigen können
 - Geldauflage (typisch an gemeinnützige Einrichtung)
 - Kein Eintrag ins BZR
 - StA / Gericht-Zustimmung
 
 ### Pfad 2 — Verständigung § 257c StPO
 
-- Geständnis gegen Strafrahmen-Limit
+- zulässige Rechtsfolgen, Prozessverhalten und verfahrensbezogene Maßnahmen; Schuldspruch und Maßregeln bleiben ausgenommen
 - Belehrungs-Pflicht zwingend
-- Geständnis-Rabatt 25-33 %
-- Hauptverhandlung verkürzt
+- keine feste Strafminderungsquote; das Geständnis muss inhaltlich überprüft werden
+- Mitteilung nach Paragraf 243 Absatz 4 StPO und Dokumentation nach Paragraf 273 Absatz 1a StPO; Bindungswegfall und Verwertungsverbot nach Paragraf 257c Absatz 4 StPO sowie Verbot des Rechtsmittelverzichts nach Paragraf 302 Absatz 1 Satz 2 StPO erläutern
 
 ### Pfad 3 — TOA § 46a StGB
 
 - Aussöhnung mit Opfer
 - Schadenswiedergutmachung
-- Strafmilderung § 49 StGB (analog) bis Strafrahmen-Verschiebung
+- Bei erfülltem Paragraf 46a StGB fakultative Milderung unmittelbar nach Paragraf 49 Absatz 1 StGB oder Absehen von Strafe innerhalb der Grenzen des Paragrafen 46a StGB
 - Bewertung durch Konfliktstellen / Schlichtungsstellen
 
 ### Pfad 4 — Adhäsionsverfahren § 403 StPO
@@ -65,7 +63,7 @@ Strafrechtliche Erledigungs-Formen jenseits der Hauptverhandlung: **Verständigu
 ### Pfad 5 — Strafbefehl § 407 StPO
 
 - Schriftliches Verfahren
-- Bis 360 Tagessätze Geldstrafe oder 1 Jahr zur Bewährung
+- Zulässige Rechtsfolgen nach Paragraf 407 Absatz 2 StPO einzeln prüfen; Freiheitsstrafe bis zu einem Jahr auf Bewährung nur bei verteidigtem Angeklagten. Gesamtgeldstrafe und Einzelstrafe unterscheiden.
 - Einspruch 2 Wochen
 
 ## Workflow
@@ -107,7 +105,7 @@ Strafrechtliche Erledigungs-Formen jenseits der Hauptverhandlung: **Verständigu
 - **Geständnis nach Akteneinsicht**: nie vorab; Beweislage muss geprüft sein
 - **TOA-Strategie**: Schadenswiedergutmachung sichtbar machen (Zahlungsplan)
 - **Vorstrafen**: bei nicht-Geständigem Verteidigungs-Pfad häufig vorteilhaft
-- **Bei Wirtschaftsstraftaten**: § 153a-Auflage orientiert sich an 30 % des Schadens
+- Bei Wirtschaftsstraftaten: Eine Geldauflage nach Paragraf 153a StPO wird anhand Schuldgewicht, öffentlichem Interesse, Leistungsfähigkeit und Verhältnismäßigkeit begründet. Es gibt keine feste Schadensquote.
 
 ## Querverweise
 
@@ -120,7 +118,9 @@ Strafrechtliche Erledigungs-Formen jenseits der Hauptverhandlung: **Verständigu
 ## Quellen und Updates (Stand Mai 2026)
 
 - BGH 20.11.2025 — 4 StR 232/25 (TOA § 46a Nr. 1 StGB, sexueller Missbrauch): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25
-- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG, Cannabisbesitz vs. Handeltreiben, sanktionsfreie Mengen): https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
-- BGH 15.07.2025 — 2 StR 644/24 (KCanG-Strafzumessung): https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
-- KCanG (Konsumcannabisgesetz) in Kraft seit 01.04.2024 (BGBl. I 2024 Nr. 109): https://dejure.org/BGBl/2024/BGBl._I_Nr._109
+- [Paragraf 257c StPO](https://www.gesetze-im-internet.de/stpo/__257c.html), [Paragraf 153a StPO](https://www.gesetze-im-internet.de/stpo/__153a.html) und [Paragraf 46a StGB](https://www.gesetze-im-internet.de/stgb/__46a.html) sind getrennte Prüfungsgrundlagen.
+
+## Ausgabe
+
+Liefere einen vollständig ausformulierten Entscheidungsvermerk: Aktenlage, realistische Optionen, rechtliche Voraussetzungen, erforderliche Zustimmungen, persönliche und wirtschaftliche Folgen, Gesprächsrahmen, Abbruchkriterien und nächster Schritt. Die Gesprächsvollmacht bezeichnet genau die freigegebenen Zugeständnisse. Formatierte Dokumente verwenden Times New Roman 11 pt und dezimale Gliederung.
 - Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Aktenzeichen und Volltext vor Verwendung in dejure.org bzw. openjur.de verifizieren.

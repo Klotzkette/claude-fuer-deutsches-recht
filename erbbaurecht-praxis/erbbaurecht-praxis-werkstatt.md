@@ -176,8 +176,8 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Grundbuchstreit im Erbbaurecht | Bearbeite Grundbuchstreit im Erbbaurecht: objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Fachvotum zu Grundbuchstreit im Erbbaurecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Kommunale Beschlussvorlage | Bearbeite Kommunale Beschlussvorlage: objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
 | Sicherheiten für Erbbauzins und Rückbau | Erzeuge Vergleichsoptionen, die wirtschaftlich Druck nehmen und trotzdem den Eigentümer absichern. Arbeitsprodukt liefern: Matrix, Nachreichung, Mandantenbrief, Amtsantwort, Beschwerdegerüst oder Vertragsklausel. | Fachvotum zu Sicherheiten für Erbbauzins und Rückbau mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Verjährung, Verwirkung und Duldung | Der Skill trennt laufende Leistung, Einmalverstoß, Dauerzustand, Mahnung und stillschweigende Vertragsänderung. | Fachvotum zu Verjährung, Verwirkung und Duldung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Verkaufsklauseln | Bearbeite Verkaufsklauseln: objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| Zustimmung zur Veräußerung/Belastung | Bearbeite Zustimmung zur Veräußerung/Belastung: objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Fachvotum zu Zustimmung zur Veräußerung/Belastung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -224,31 +224,30 @@ Bearbeitungsauftrag: Erzeuge Vergleichsoptionen, die wirtschaftlich Druck nehmen
 Prüfschritte: Prüfe Bürgschaft, Kaution, Rückbausicherheit, Lastschrift, Patronat, Step-in-Recht und Berichtspflichten als mildere Mittel zum Heimfall.
 Lieferstück: Fachvotum zu Sicherheiten für Erbbauzins und Rückbau mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Verjährung, Verwirkung und Duldung
-
-Bearbeitungsauftrag: Der Skill trennt laufende Leistung, Einmalverstoß, Dauerzustand, Mahnung und stillschweigende Vertragsänderung. Arbeitsprodukt liefern: Matrix, Nachreichung, Mandantenbrief, Amtsantwort, Beschwerdegerüst oder Vertragsklausel. Belegdisziplin: Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst als zu verifizieren kennzeichnen.
-Prüfschritte: Prüfe, ob lange geduldete Nutzungen, verspätete Zinsforderungen oder alte Pflichtverletzungen noch durchsetzbar sind und welche Beweislage gebraucht wird.
-Lieferstück: Fachvotum zu Verjährung, Verwirkung und Duldung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. Verkaufsklauseln
+### 16.8. Verkaufsklauseln
 
 Bearbeitungsauftrag: Bearbeite Verkaufsklauseln: objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Prüfschritte: Entwirft SPA-Klauseln zu Zustimmung, Zinsrückstand, Heimfallrisiko, Belastungen, Garantien und Closing.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.10. Zustimmung zur Veräußerung/Belastung
+### 16.9. Zustimmung zur Veräußerung/Belastung
 
 Bearbeitungsauftrag: Bearbeite Zustimmung zur Veräußerung/Belastung: objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Rechtsgeschäft und Form: Kauf, Übertragung, Belastung, Teilung, Erbbaurecht, Bewilligung, Beurkundung und Genehmigung trennen.
 Prüfschritte: Prüfe Zustimmungserfordernis, Versagungsgründe, Frist, Ersatz durch Gericht und Bankfähigkeit.
 Lieferstück: Fachvotum zu Zustimmung zur Veräußerung/Belastung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Change of Control beim Erbbauberechtigten
+### 16.10. Change of Control beim Erbbauberechtigten
 
 Bearbeitungsauftrag: Prüfe, ob Anteilsübertragung, Verschmelzung, Formwechsel oder Kontrollwechsel beim Erbbauberechtigten Zustimmungspflichten oder Heimfallrechte auslösen. Arbeitsprodukt liefern: Matrix, Nachreichung, Mandantenbrief, Amtsantwort, Beschwerdegerüst oder Vertragsklausel. Belegdisziplin: Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
 Lieferstück: Fachvotum zu Change of Control beim Erbbauberechtigten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Gemeinde/Kirche/Stiftung als Grundstückseigentümer
+### 16.11. Gemeinde/Kirche/Stiftung als Grundstückseigentümer
 
 Bearbeitungsauftrag: Bearbeite Gemeinde/Kirche/Stiftung als Grundstückseigentümer: objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Prüfe Beschluss, Genehmigung, Gemeinwohlbindung, Vergabe-/Beihilfefragen und Zustimmungspraxis.
 Lieferstück: Fachvotum zu Gemeinde/Kirche/Stiftung als Grundstückseigentümer mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Instandhaltung, Versicherung und Betriebspflichten
+
+Bearbeitungsauftrag: Prüfe Gebäudeunterhaltung, Verkehrssicherung, Versicherung, Nachweispflichten, Brandschutz, Betreiberpflichten und Sanktionen bei Pflichtverstößen. Der Skill baut ein Betreiberpflichten-Dashboard mit Fristen, Nachweisen und Eskalationsschwellen. Belegdisziplin: Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst als zu verifizieren kennzeichnen.
+Lieferstück: Fachvotum zu Instandhaltung, Versicherung und Betriebspflichten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

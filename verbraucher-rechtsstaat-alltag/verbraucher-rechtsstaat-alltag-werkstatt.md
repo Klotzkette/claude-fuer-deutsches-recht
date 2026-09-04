@@ -77,9 +77,9 @@ Arbeitsgriff Arbeitsprodukt: Widerrufserklärung, Anspruchsschreiben, Abmahnung,
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abo-Falle und Kündigung | BGB Paragraf 312 ff | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Kindergeld- und Kinderzuschlagsbescheide | BGB Paragraf 312 ff | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 355 ff | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Behördenformular verstehen | BGB Paragraf 355 ff | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Abo-Falle und Kündigung | BGB Paragraf 355 ff | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren | Darlegungs- und Nachweisfrage für Verbraucherrecht und Verbandsdurchsetzung: Welche Frist läuft ab wann und wodurch wurde sie ausgelöst oder gehemmt | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -96,11 +96,7 @@ Arbeitsgriff Arbeitsprodukt: Widerrufserklärung, Anspruchsschreiben, Abmahnung,
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| EuGH, Urteil vom 7. April 2022, C-249/21 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Maßgeblich ist die Beschriftung der auslösenden Schaltfläche selbst |
-| EuGH, Urteil vom 5. Oktober 2023, C-565/22 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Beim Probeabo hängt ein weiteres Widerrufsrecht davon ab, ob über den späteren Preis bei Abschluss klar informiert wurde |
-| BGH, Urteil vom 4. Mai 2022, XII ZR 64/21 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Nur für Fitnessstudio-Schließungsbeiträge und die damalige Laufzeitverlängerung heranziehen, nicht für jedes Abo |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -123,9 +119,7 @@ Arbeitsgriff Arbeitsprodukt: Widerrufserklärung, Anspruchsschreiben, Abmahnung,
 
 ## 8. Leitentscheidungen
 
-- EuGH, Urteil vom 7. April 2022, C-249/21: Maßgeblich ist die Beschriftung der auslösenden Schaltfläche selbst.
-- EuGH, Urteil vom 5. Oktober 2023, C-565/22: Beim Probeabo hängt ein weiteres Widerrufsrecht davon ab, ob über den späteren Preis bei Abschluss klar informiert wurde.
-- BGH, Urteil vom 4. Mai 2022, XII ZR 64/21: Nur für Fitnessstudio-Schließungsbeiträge und die damalige Laufzeitverlängerung heranziehen, nicht für jedes Abo.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -141,13 +135,13 @@ Arbeitsgriff Arbeitsprodukt: Widerrufserklärung, Anspruchsschreiben, Abmahnung,
 
 10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren.
 10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BGB Paragraf 312 ff; BGB Paragraf 355 ff.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Abo-Falle und Kündigung.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Kindergeld- und Kinderzuschlagsbescheide.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Verbraucherrecht und Verbandsdurchsetzung tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Darlegungs- und Nachweisfrage für Verbraucherrecht und Verbandsdurchsetzung: Welche Frist läuft ab wann und wodurch wurde sie ausgelöst oder gehemmt. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Klausel weicht vom gesetzlichen Leitbild ab und hält sie der Inhaltskontrolle stand an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Klauselprüfung: Klauseltext, Einbeziehung, Transparenz, Leitbildabweichung, Ergebnis, Ersatzformulierung; Anspruchsschreiben: Sachverhalt, Anspruch, Frist, Zahlungs- oder Abhilfeverlangen, Konsequenzankündigung.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 7. April 2022, C-249/21; EuGH, Urteil vom 5. Oktober 2023, C-565/22.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -181,13 +175,13 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
+| Kindergeld- und Kinderzuschlagsbescheide | Sozialrechtliches Kindergeld beruht insbesondere auf Paragraf 1 BKGG. Das Bundeskindergeldgesetz verweist ergänzend auf das Sozialgesetzbuch und eröffnet in Paragraf 15 BKGG den Sozialrechtsweg. | Fachvotum zu Kindergeld- und Kinderzuschlagsbescheide mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Abo-Falle und Kündigung | Lies Bestellbestätigung, Bildschirmbilder, Vertrags- und Preisangaben, Widerrufsinformation, Abbuchungen, Kündigungsversuch und Anbieterantwort. Liefere zuerst eine kurze Einordnung und einen fristwahrenden Entwurf. | Fachvotum zu Abo-Falle und Kündigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Behördenformular verstehen | Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt. | Fachvotum zu Behördenformular verstehen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Entscheidungsvorlage | Bearbeite Entscheidungsvorlage entlang der Verbraucherrecht und Verbandsdurchsetzung-Prüflinie: Vertrag und Vertriebsweg: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen. | Fachvotum zu Entscheidungsvorlage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Fristkalender für Laien | Bearbeite Fristkalender für Laien entlang der Verbraucherrecht und Verbandsdurchsetzung-Prüflinie: Vertrag und Vertriebsweg: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen. | Fristenblatt zu Fristkalender für Laien mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Kleinanzeige Betrug | Bearbeite Kleinanzeige Betrug entlang der Verbraucherrecht und Verbandsdurchsetzung-Prüflinie: Vertrag und Vertriebsweg: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
 | Nebenkostenabrechnung Verbraucher | Bearbeite Nebenkostenabrechnung Verbraucher entlang der Verbraucherrecht und Verbandsdurchsetzung-Prüflinie: Vertrag und Vertriebsweg: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage. | Fachvotum zu Nebenkostenabrechnung Verbraucher mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Probeabo Widerruf Kündigung | Bearbeite Probeabo Widerruf Kündigung: zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Fachvotum zu Probeabo Widerruf Kündigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Schulbehörde Ordnungsmaßnahme | Bearbeite Schulbehörde Ordnungsmaßnahme entlang der Verbraucherrecht und Verbandsdurchsetzung-Prüflinie: Vertrag und Vertriebsweg: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen. | Fachvotum zu Schulbehörde Ordnungsmaßnahme mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Vergleichsangebot prüfen | Bearbeite Vergleichsangebot prüfen entlang der Verbraucherrecht und Verbandsdurchsetzung-Prüflinie: Klausel- und Pflichtenprüfung: Einbeziehung, Transparenz, Leitbildabweichung und Informationspflichten getrennt prüfen. | Verhandlungsblatt zu Vergleichsangebot prüfen mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug |
 
@@ -195,41 +189,42 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Abo-Falle und Kündigung
+### 16.1. Kindergeld- und Kinderzuschlagsbescheide
+
+Bearbeitungsauftrag: Sozialrechtliches Kindergeld beruht insbesondere auf Paragraf 1 BKGG. Das Bundeskindergeldgesetz verweist ergänzend auf das Sozialgesetzbuch und eröffnet in Paragraf 15 BKGG den Sozialrechtsweg. Der Widerspruch ist grundsätzlich binnen eines Monats nach Bekanntgabe nach Paragraf 84 SGG einzulegen.
+Prüfschritte: Steuerrechtliches Kindergeld beruht auf den Paragrafen 62 bis 78 EStG; Gegen den Verwaltungsakt ist grundsätzlich der Einspruch nach Paragraf 347 AO statthaft; Form und Einlegungsstelle richten sich nach Paragraf 357 AO; Nach der Einspruchsentscheidung führt der Rechtsweg zu den Finanzgerichten.
+Normbezug aus dem Fachmaterial: Steuerrechtliches Kindergeld beruht auf den Paragrafen 62 bis 78 EStG; Gegen den Verwaltungsakt ist grundsätzlich der Einspruch nach Paragraf 347 AO statthaft; Form und Einlegungsstelle richten sich nach Paragraf 357 AO; Nach der Einspruchsentscheidung führt der Rechtsweg zu den Finanzgerichten.
+Lieferstück: Fachvotum zu Kindergeld- und Kinderzuschlagsbescheide mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.2. Abo-Falle und Kündigung
 
 Bearbeitungsauftrag: Lies Bestellbestätigung, Bildschirmbilder, Vertrags- und Preisangaben, Widerrufsinformation, Abbuchungen, Kündigungsversuch und Anbieterantwort. Liefere zuerst eine kurze Einordnung und einen fristwahrenden Entwurf; frage nur nach dem fehlenden Dokument, das Vertragsschluss oder Beendigung entscheidet. Prüfe BGB Paragrafen 312c, 312d, 312j, 355, 356 und 357 sowie bei Dauerschuldverhältnissen BGB Paragrafen 309 Nummer 9 und 312k in der für den Vertrag geltenden Fassung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe eine behauptete Abo-Falle vom Bestellbutton bis zur Kündigung: liest Bestätigung, Preis-, Laufzeit- und Widerrufsinformation, trennt fehlenden Vertragsschluss, Widerruf, Kündigung und Rückzahlung, verarbeitet EuGH C-249/21 und C-565/22 fallgenau.
 Lieferstück: Fachvotum zu Abo-Falle und Kündigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. Behördenformular verstehen
+### 16.3. Behördenformular verstehen
 
 Bearbeitungsauftrag: Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt. Zahlungen, Anerkenntnisse, Aussagen gegenüber Polizei/Behörde/Kammer und irreversible Handlungen als rote Zone markieren. Fehlende Belege konkret nachfordern: Vertrag, Rechnung, AGB, Screenshot, Sendungsnummer, Bescheid, Protokoll, Vollmacht, Zustellnachweis.
 Lieferstück: Fachvotum zu Behördenformular verstehen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Entscheidungsvorlage
+### 16.4. Entscheidungsvorlage
 
 Bearbeitungsauftrag: Bearbeite Entscheidungsvorlage entlang der Verbraucherrecht und Verbandsdurchsetzung-Prüflinie: Vertrag und Vertriebsweg: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
 Lieferstück: Fachvotum zu Entscheidungsvorlage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Fristkalender für Laien
+### 16.5. Fristkalender für Laien
 
 Bearbeitungsauftrag: Bearbeite Fristkalender für Laien entlang der Verbraucherrecht und Verbandsdurchsetzung-Prüflinie: Vertrag und Vertriebsweg: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
 Lieferstück: Fristenblatt zu Fristkalender für Laien mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.5. Kleinanzeige Betrug
+### 16.6. Kleinanzeige Betrug
 
 Bearbeitungsauftrag: Bearbeite Kleinanzeige Betrug entlang der Verbraucherrecht und Verbandsdurchsetzung-Prüflinie: Vertrag und Vertriebsweg: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
-### 16.6. Nebenkostenabrechnung Verbraucher
+### 16.7. Nebenkostenabrechnung Verbraucher
 
 Bearbeitungsauftrag: Bearbeite Nebenkostenabrechnung Verbraucher entlang der Verbraucherrecht und Verbandsdurchsetzung-Prüflinie: Vertrag und Vertriebsweg: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen. Rechne ausschließlich aus belegten Eingabewerten mit Stichtag, Einheit, Zwischenstufen, Rundung und Gegenprobe; führe zu jeder Zahl Quelle, Rechtsgrund, Beweislast, offene Annahme und Auswirkung einer belastbaren Alternativrechnung.
 Lieferstück: Fachvotum zu Nebenkostenabrechnung Verbraucher mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.7. Probeabo Widerruf Kündigung
-
-Bearbeitungsauftrag: Bearbeite Probeabo Widerruf Kündigung: zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Fristen: Widerruf, Gewährleistung, Verjährung und Abmahnfristen kalendarisch sichern.
-Lieferstück: Fachvotum zu Probeabo Widerruf Kündigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.8. Schulbehörde Ordnungsmaßnahme
 

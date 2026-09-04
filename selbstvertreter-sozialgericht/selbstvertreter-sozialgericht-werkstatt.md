@@ -142,8 +142,6 @@ Arbeitsgriff Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Befundanforderung od
 - BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98: lebensbedrohliche oder regelmäßig tödliche Erkrankungen können Leistungsansprüche der Krankenversicherung verfassungsrechtlich verdichten.
 - BSG, Urteil vom 30.01.2019 - B 14 AS 24/18 R: Vergleichsraum und schlüssiges Konzept für abstrakt angemessene Unterkunftskosten sind gerichtlich voll überprüfbar, dürfen aber nicht durch ein gerichtliches Ersatzkonzept ersetzt werden.
 - BSG, Urteil vom 08.08.2019 - B 3 KR 21/18 R: Beim Elektrorollstuhl sind Behinderungsausgleich und gegebenenfalls die umfassende Zuständigkeit des zuerst angegangenen Rehabilitationsträgers zu prüfen; die Genehmigungsfiktion trägt den Teilhabeanspruch nicht ohne Weiteres.
-- BSG, Urteil vom 07.05.2020 - B 3 KR 7/19 R: Das Grundbedürfnis nach Mobilität im Nahbereich ist beim Behinderungsausgleich nicht auf eine Minimalversorgung zu verengen; maßgeblich ist die zumutbare und angemessene Erschließung im Einzelfall.
-- BSG, Urteil vom 18.04.2024 - B 3 KR 14/23 R: Ein motorunterstütztes Rollstuhlzuggerät kann ohne Eigenanteil geschuldet sein, wenn es die selbstbestimmte Erschließung des konkreten Nahbereichs unter Einsatz eigener Körperkraft ermöglicht.
 
 ## 9. Prüfraster
 
@@ -165,7 +163,7 @@ Arbeitsgriff Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Befundanforderung od
 10.5. Beweislast: Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei der medizinischen Bewertung, dem Zugangszeitpunkt und der Mitwirkungsobliegenheit an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Kindergeld Familienkasse Einspruch, Erstattung zu Unrecht 50 SGB X, Leistungsminderung im SGB II prüfen, Akteneinsicht 25 SGB X: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Kindergeld Familienkasse Einspruch, Erstattung zu Unrecht 50 SGB X, Akteneinsicht 25 SGB X, Berufskrankheit BK Meldung Bkv: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -202,9 +200,9 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | --- | --- | --- |
 | Kindergeld Familienkasse Einspruch | Kindergeld nach EStG wird über die Familienkasse im Einspruchsverfahren nach der AO angegriffen; der gerichtliche Weg führt regelmäßig zum Finanzgericht, nicht zum Sozialgericht. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Erstattung zu Unrecht 50 SGB X | Verwaltungsakt wurde aufgehoben (zumeist nach Paragraf 45 oder Paragraf 48 SGB X). Vertrauensschutz: Paragraf 45 SGB X — Vertrauensschutz schließt Aufhebung aus, dann auch keine Erstattung. | Fachvotum zu Erstattung zu Unrecht 50 SGB X mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Leistungsminderung im SGB II prüfen | Bearbeite Leistungsminderung im SGB II prüfen: bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Fachvotum zu Leistungsminderung im SGB II prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Akteneinsicht 25 SGB X | Bearbeite Akteneinsicht 25 SGB X: bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Akten- und Belegmatrix zu Akteneinsicht 25 SGB X mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
 | Berufskrankheit BK Meldung Bkv | Bearbeite Berufskrankheit BK Meldung Bkv: bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
+| Bürgergeld Kosten Der Unterkunft 22 SGB II | Bearbeite Bürgergeld Kosten Der Unterkunft 22 SGB II: bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | Fachvotum zu Bürgergeld Kosten Der Unterkunft 22 SGB II mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Datenschutz-Grundverordnung Art 15 Auskunft Sozialakte | Bearbeite Datenschutz-Grundverordnung Art 15 Auskunft Sozialakte: bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel. | Akten- und Belegmatrix zu Datenschutz-Grundverordnung Art 15 Auskunft Sozialakte mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
 | Eilrechtsschutz beim Sozialgericht — Paragraf 86b SGG | Lege Bescheid, Widerspruch und akute Notlage vor und formuliere in klarer Alltagssprache, welche Leistung bis wann benötigt wird. | Fachvotum zu Eilrechtsschutz beim Sozialgericht — Paragraf 86b SGG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Klage und Schriftsatz per Post beim SG einreichen | Bearbeite Klage und Schriftsatz per Post beim SG einreichen: bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
@@ -224,22 +222,20 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 Bearbeitungsauftrag: Verwaltungsakt wurde aufgehoben (zumeist nach Paragraf 45 oder Paragraf 48 SGB X). Vertrauensschutz: Paragraf 45 SGB X — Vertrauensschutz schließt Aufhebung aus, dann auch keine Erstattung. Verjährung: Paragraf 50 Absatz 4 SGB X — 4 Jahre nach Ablauf des Kalenderjahrs der Bekanntgabe.
 Lieferstück: Fachvotum zu Erstattung zu Unrecht 50 SGB X mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Leistungsminderung im SGB II prüfen
-
-Bearbeitungsauftrag: Bearbeite Leistungsminderung im SGB II prüfen: bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Prüfschritte: Frage nur nach Datum der Pflichtverletzung, Zugang der Belehrung, wichtigem Grund und akutem Zahlungsbedarf, soweit die Akte das nicht beantwortet; Paragraf 31 SGB II: Pflichtverletzung und wichtiger Grund.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Frage nur nach Datum der Pflichtverletzung, Zugang der Belehrung, wichtigem Grund und akutem Zahlungsbedarf, soweit die Akte das nicht beantwortet; Paragraf 31 SGB II: Pflichtverletzung und wichtiger Grund.
-Lieferstück: Fachvotum zu Leistungsminderung im SGB II prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.4. Akteneinsicht 25 SGB X
+### 16.3. Akteneinsicht 25 SGB X
 
 Bearbeitungsauftrag: Bearbeite Akteneinsicht 25 SGB X: bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. Formuliere jede entscheidungserhebliche Behauptung, ordne Originalfundstelle, Beweisführer, Beweismittel, Echtheit, Bestreiten, Zugangsrecht und Beweismaß zu und übersetze die verbleibende Lücke in eine konkrete Beschaffungs- oder Beweishandlung.
 Lieferstück: Akten- und Belegmatrix zu Akteneinsicht 25 SGB X mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
-### 16.5. Berufskrankheit BK Meldung Bkv
+### 16.4. Berufskrankheit BK Meldung Bkv
 
 Bearbeitungsauftrag: Bearbeite Berufskrankheit BK Meldung Bkv: bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
+
+### 16.5. Bürgergeld Kosten Der Unterkunft 22 SGB II
+
+Bearbeitungsauftrag: Bearbeite Bürgergeld Kosten Der Unterkunft 22 SGB II: bescheid, Bekanntgabe, Leistungsträger, medizinische oder wirtschaftliche Anspruchsmerkmale, Belege, SGG-Frist und passendes Leistungsziel zusammenführen. Rechne ausschließlich aus belegten Eingabewerten mit Stichtag, Einheit, Zwischenstufen, Rundung und Gegenprobe; führe zu jeder Zahl Quelle, Rechtsgrund, Beweislast, offene Annahme und Auswirkung einer belastbaren Alternativrechnung.
+Lieferstück: Fachvotum zu Bürgergeld Kosten Der Unterkunft 22 SGB II mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.6. Datenschutz-Grundverordnung Art 15 Auskunft Sozialakte
 
@@ -264,7 +260,7 @@ Lieferstück: Fachvotum zu Krankenkassen Arzneimittel 31 SGB V mit Tatbestandsme
 ### 16.10. Anlagen zur Klage richtig bezeichnen sortieren und nummerieren
 
 Bearbeitungsauftrag: Ordne Ausgangsbescheid, Widerspruch, Widerspruchsbescheid, Zugangsnachweise, Befunde und sonstige Belege nach der ersten Erwähnung in der Klage. Vergib neutrale Anlagenzeichen, erhalte jedes mehrseitige Dokument als Einheit, schwärze unnötige Fremddaten nicht im Original und gleiche Dateiname, Anlagenverzeichnis, Textverweis, Lesbarkeit und Seitenfolge vor der Einreichung vollständig ab.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Akteneinsicht SGB Amtsermittlungsgrundsatz ordnet den Fall über die tragenden Prüfungslinien: Akteneinsicht in die Sozialakte nach Paragraf 25 SGB X, Das Gericht ermittelt für Sie Paragraf 103 SGG, Die Anfechtungsklage nach Paragraf 54 Absatz Arbeite zuerst die tragende.
+Normbezug aus dem Fachmaterial: Akteneinsicht SGB Amtsermittlungsgrundsatz ordnet den Fall über die tragenden Prüfungslinien: Akteneinsicht in die Sozialakte nach Paragraf 25 SGB X, Das Gericht ermittelt für Sie Paragraf 103 SGG, Die Anfechtungsklage nach Paragraf 54 Absatz Arbeite zuerst die tragende.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.11. Aufrechnung Laufende Leistungen 51 SGB I

@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Verfahrensstand, Ankl
 | --- | --- |
 | Normenanker | StPO Paragraf 170; StPO Paragraf 200; StPO Paragraf 244 |
 | Rechtsprechung | BGH, Urteil vom 30.07.1999 - 1 StR 618/98; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 |
-| Tatbestand | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen |
+| Tatbestand | Ermittlungsabschluss, Anklagereife, Eröffnung, Hauptverhandlung oder Rechtsmittel feststellen |
 | Beweislast | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle |
 | Rechtsfolge | Anklagesatz, Eröffnungsbeschluss, Verfügung, Urteilsgründe oder Strafzumessungsteil ausformulieren |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Verfahrensstand, Ankl
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Verfahrensstand | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anklage- oder Entscheidungsprüfung | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweisprogramm | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsfolgen | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweisanträge und Ablehnung | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verfahrensstand | Ermittlungsabschluss, Anklagereife, Eröffnung, Hauptverhandlung oder Rechtsmittel feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anklage- oder Entscheidungsprüfung | Tatkonkretisierung, Beweismittelliste und rechtliche Würdigung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweisprogramm | Zeugen, Sachverständige, Urkunden und Selbstleseverfahren mit Ladungsplan sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsfolgen | Strafrahmen, Zumessungstatsachen, Bewährungsfragen und Nebenfolgen strukturieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Anklagesatz, Eröffnungsbeschluss, Verfügung, Urteilsgründe oder Strafzumessungsteil ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,6 +59,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Verfahrensstand, Ankl
 - Paragraf 244 StPO: Aufklärungspflicht und Beweisantragsrecht sauber trennen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 261 StPO: Überzeugungsbildung nur aus dem Inbegriff der Hauptverhandlung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 265 StPO: rechtlicher Hinweis bei veränderter rechtlicher oder tatsächlicher Bewertung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Hat das Gericht ausnahmsweise ein Glaubhaftigkeitsgutachten eingeholt, müssen Hypothesenbildung, wissenschaftlicher Methodenstand, Transparenz und alternative Entstehungserklärungen nachvollziehbar geprüft werden; die Entscheidung ist kein allgemeiner Aussage-gegen-Aussage-Anker.
+- BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Ist der einzige Belastungszeuge in Teilen seiner Aussage widerlegt, darf das Gericht dem verbleibenden Aussagekern nur bei gewichtigen, außerhalb der Aussage liegenden Gründen folgen und muss diese in den Urteilsgründen darlegen.
 
 ## 7. Antwortform
 

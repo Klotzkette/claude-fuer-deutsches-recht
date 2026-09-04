@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Blitz-Zergliederung, 
 | --- | --- |
 | Normenanker | StPO Paragraf 152 Absatz 2; StPO Paragraf 160; StPO Paragraf 170 |
 | Rechtsprechung | BGH, Urteil vom 30.07.1999 - 1 StR 618/98; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 |
-| Tatbestand | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen |
+| Tatbestand | Jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen |
 | Beweislast | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff |
 | Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Blitz-Zergliederung, 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Blitz-Zergliederung | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweise und Einlassung | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Tatbestand | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Prozessuales | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsfolge | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Reaktion auf Anklageerhebung nach Paragraf 199 StPO und Eröffnungsverfahren | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Blitz-Zergliederung | Jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweise und Einlassung | Zeugen, Urkunden, Sachverständige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Tatbestand | Objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Prozessuales | Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsfolge | Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -56,7 +55,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Blitz-Zergliederung, 
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- GG: Art. 1 (Menschenwürde), 2 (Persönlichkeitsrecht), 5 (Meinungsfreiheit), 12 (Berufsfreiheit), 13 (Wohnung), 14 (Eigentum), 19 IV (Rechtsweg), 20 III (Rechtsstaat), 103 II; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- GG: Art. 1 (Menschenwürde), 2 (Persönlichkeitsrecht), 5 (Meinungsfreiheit), 12 (Berufsfreiheit), 13 (Wohnung), 14 (Eigentum), 19 IV (Rechtsweg), 20 III (Rechtsstaat), 103 II (nulla poena), 104 (Freiheitsentziehung); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EMRK: Art. 5 (Freiheit), 6 (faires Verfahren, Aussage- und Verteidigungsrechte), 7 (nulla poena), 8 (Privatsphäre); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 395 Abs. 1 Nr. 3, 396 Abs. 1 StPO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 406e Abs. 4 StPO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.

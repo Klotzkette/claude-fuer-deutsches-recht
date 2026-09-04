@@ -434,7 +434,7 @@ Zielland, Staatsangehörigkeit, Rentenbestandteile, Konto, Krankenversicherung, 
 
 _Für kindererziehungszeiten-und-beruecksichtigungszeiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# kindererziehungszeiten-und-beruecksichtigungszeiten
+# Kindererziehungszeiten und Berücksichtigungszeiten
 
 ## Normenanker
 

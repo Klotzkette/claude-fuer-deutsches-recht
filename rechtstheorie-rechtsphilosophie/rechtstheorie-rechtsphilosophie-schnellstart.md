@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Fallfrage, Aufbau, Su
 | Subsumtion | Obersatz, Definition, Subsumtion, Ergebnis je Merkmal in ganzen Sätzen durchführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Streitstand | Meinungen mit Argumenten darstellen, entscheiden und nur entscheidungserheblich vertiefen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fallnarrativ, Tatsachen, Beweis | Bearbeite Fallnarrativ, Tatsachen, Beweis: Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

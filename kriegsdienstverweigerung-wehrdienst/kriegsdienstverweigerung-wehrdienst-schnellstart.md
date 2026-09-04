@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Status und Rechtsverh
 | Ermessens- und Verhältnismäßigkeitskontrolle | Mildere Mittel, Prognosegrundlagen und Gefahrenbelege prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Eilbedürftigkeit | Vollzugstermin, Versammlungstermin, Abschiebungstermin oder Dienstantritt kalendarisch sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Widerspruch, Eilantrag, Klage, Stellungnahme oder behördlicher Bescheidentwurf ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ablehnungsbescheid analysieren | Bearbeite Ablehnungsbescheid analysieren: Beamter, Soldat, Versammlungsleiter oder Ausländer mit maßgeblichem. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

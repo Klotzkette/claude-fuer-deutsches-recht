@@ -96,9 +96,7 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Risikozuweisung
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei digitalen B2C-Vertragsschlüssen die Beschriftung der auslösenden Schaltfläche isoliert prüfen; nur deren Worte entscheiden, ob die Zahlungspflicht eindeutig erkennbar ist |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -121,7 +119,7 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 
 ## 8. Leitentscheidungen
 
-- EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2 — Bei digitalen B2C-Vertragsschlüssen die Beschriftung der auslösenden Schaltfläche isoliert prüfen; nur deren Worte entscheiden, ob die Zahlungspflicht eindeutig erkennbar ist.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -143,7 +141,7 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 10.6. Gegenposition: Formuliere die stärkste Verhandlungsposition der anderen Seite; sie setzt typischerweise bei welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest an.
 10.7. Rückfallposition: Antworte mit konkreter Alternativfassung, Preis- oder Vollzugsausgleich und zeige die Auswirkung auf vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
 10.8. Entwurf und Vollzug: Schließe mit Vertragsgerüst: Präambel, Definitionen, Leistung, Vergütung, Laufzeit, Haftung, Geheimhaltung, Schlussbestimmungen; NDA-Kern: Vertrauliche Information, erlaubte Nutzung, Empfängerkreis, Dauer, Rückgabe, Sanktion; Verantwortlicher, Termin, Bedingung und Erfüllungsnachweis sind ausformuliert.
-10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2.
+10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -180,12 +178,12 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Mandantenzusammenfassung Vertragsrecht | Das fertige Prüfungsmemo (aus /vertragsrecht:vertragsprüfung). Paragraf 280 Absatz 1 BGB — Pflichtverletzung durch fehlerhafte Beratung. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Mandatsworkspace, Kontexttrennung und Fristensteuerung Vertragsrecht | Bearbeite Mandatsworkspace, Kontexttrennung und Fristensteuerung Vertragsrecht entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse | NDA der Gegenseite (Prüfling, .docx/PDF/Klartext). Mandantenkontext: Rolle (Discloser / Recipient / beidseitig), Branchen-Sensitivität, geplante Folgetransaktion (M&A-Anbahnung, Lieferantenbewertung, Co-Development). | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Playbook-Vorschläge prüfen und genehmigen | (Haftungsbeschränkung in AGB; Grenze der zulässigen Absenkung; Paragraf 309 Nummer 7 BGB) (Transparenzgebot; Änderungsklauseln müssen klar und verständlich sein). b BGB. | Entwurfsbaustein zu Playbook-Vorschläge prüfen und genehmigen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | Vertragsanalyse und Klauselkontrolle | Optional: Aktives Mandat (Kürzel), wenn Mandatsarbeitsbereiche aktiviert sind. Paragraf 280 Absatz 1 BGB — Schadensersatz wegen Pflichtverletzung (Grundnorm). Paragraf 281 BGB — Schadensersatz statt der Leistung | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Nachtragsverwaltung | Gibt es Widersprüche zwischen Nachträgen die auf Auslegung nach Paragraf 157 BGB (lex posterior) hinweisen? Paragraf 311 BGB — Vertragsänderungen und Ergänzungsvereinbarungen. | Entwurfsbaustein zu Nachtragsverwaltung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | SaaS-/MSA-Prüfung | Prüfung von SaaS-Abonnement- und Rahmenverträgen (MSA) mit Schwerpunkt auf AGB-Kontrolle (Paragrafen 305–310 BGB), automatischer Verlängerung, Preiseskalation, Datenschutz (Artikel 28 Datenschutz-Grundverordnung), Haftungsbegrenzung. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Verlängerungstracker | Gibt es Verträge deren Verlängerungsklausel nach Paragraf 309 Nummer 9 BGB (B2C) oder Paragraf 307 BGB (B2B) unwirksam sein könnte? Paragraf 307 BGB — Inhaltskontrolle B2B: unangemessen lange Bindungen. | Entwurfsbaustein zu Verlängerungstracker mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | Vert: Rahmenvertrag Einzelabrufe | Bearbeite Vert: Rahmenvertrag Einzelabrufe entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| Vertragsrecht: BGB-Typen | Bearbeite Vertragsrecht: BGB-Typen entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -207,55 +205,54 @@ Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründu
 
 Bearbeitungsauftrag: NDA der Gegenseite (Prüfling, .docx/PDF/Klartext). Mandantenkontext: Rolle (Discloser / Recipient / beidseitig), Branchen-Sensitivität, geplante Folgetransaktion (M&A-Anbahnung, Lieferantenbewertung, Co-Development), bisherige Geschäftsbeziehung. Optional: Verhandlungsspielraum je Mindeststandard (zwingend / hoch / mittel / wünschenswert) Falls Referenzvorlage oder Checkliste fehlen, fragt der Skill zunächst nach — ohne Hausstandard keine belastbare Bewertung.
 Prüfschritte: Eigene Referenzvorlage (Hausstandard / Vorlage Mandant); Checkliste / Mindeststandards mit roten Linien (z; deutscher Gerichtsstand, deutsches Recht, Definitionsumfang Confidential Information, Laufzeit, verbundene Unternehmen i; Paragraf 15 AktG, kein Lizenzübergang).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Eigene Referenzvorlage (Hausstandard / Vorlage Mandant); Checkliste / Mindeststandards mit roten Linien (z; deutscher Gerichtsstand, deutsches Recht, Definitionsumfang Confidential Information, Laufzeit, verbundene Unternehmen i; Paragraf 15 AktG, kein Lizenzübergang).
+Normbezug aus dem Fachmaterial: Eigene Referenzvorlage (Hausstandard / Vorlage Mandant); Checkliste / Mindeststandards mit roten Linien (z; deutscher Gerichtsstand, deutsches Recht, Definitionsumfang Confidential Information, Laufzeit, verbundene Unternehmen i; Paragraf 15 AktG, kein Lizenzübergang).
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.4. Playbook-Vorschläge prüfen und genehmigen
-
-Bearbeitungsauftrag: (Haftungsbeschränkung in AGB; Grenze der zulässigen Absenkung; Paragraf 309 Nummer 7 BGB) (Transparenzgebot; Änderungsklauseln müssen klar und verständlich sein). b BGB; kein Verhandlungsspielraum für das Playbook (Klauselkontrolle Gewährleistungsverkürzung; Paragraf 309 Nummer 8 BGB; Grenzen für Mängelrechtsausschluss in AGB) (AGB-Einbeziehung im unternehmerischen Verkehr; Paragraf 305 Absatz 2 BGB) Lade den Playbook-Monitor-Agenten und führe Schritt 5 (Prüf- und Genehmigungsablauf) aus.
-Prüfschritte: Keine Argumente erforderlich — die Skill arbeitet aus der ausstehenden Vorschlags-Datei; Änderungsklauseln müssen klar und verständlich sein.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: (Haftungsbeschränkung in AGB; Grenze der zulässigen Absenkung; Paragraf 309 Nummer 7 BGB).
-Lieferstück: Entwurfsbaustein zu Playbook-Vorschläge prüfen und genehmigen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.5. Vertragsanalyse und Klauselkontrolle
+### 16.4. Vertragsanalyse und Klauselkontrolle
 
 Bearbeitungsauftrag: Optional: Aktives Mandat (Kürzel), wenn Mandatsarbeitsbereiche aktiviert sind. Paragraf 280 Absatz 1 BGB — Schadensersatz wegen Pflichtverletzung (Grundnorm). Paragraf 281 BGB — Schadensersatz statt der Leistung.
 Prüfschritte: Den zu prüfenden Vertrag: Dateipfad, SharePoint-Link, Datenbankkennung oder direkt eingefügter Text; Optional: Hinweis auf die Mandatsseite (Verwender/Vertragspartner-Seite), wenn nicht aus dem Vertrag erkennbar; Paragraf 280 Absatz 3 in Verbindung mit Paragraf 281 BGB — Schadensersatz statt der Leistung; Paragraf 280 Absatz 2 in Verbindung mit Paragraf 286 BGB — Verzugsschadensersatz.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.6. Nachtragsverwaltung
+### 16.5. Nachtragsverwaltung
 
 Bearbeitungsauftrag: Gibt es Widersprüche zwischen Nachträgen die auf Auslegung nach Paragraf 157 BGB (lex posterior) hinweisen? Paragraf 311 BGB — Vertragsänderungen und Ergänzungsvereinbarungen. Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB — Textform bei langfristiger Grundstücks- und Gewerberaummiete.
 Lieferstück: Entwurfsbaustein zu Nachtragsverwaltung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.7. SaaS-/MSA-Prüfung
+### 16.6. SaaS-/MSA-Prüfung
 
 Bearbeitungsauftrag: Prüfung von SaaS-Abonnement- und Rahmenverträgen (MSA) mit Schwerpunkt auf AGB-Kontrolle (Paragrafen 305–310 BGB), automatischer Verlängerung, Preiseskalation, Datenschutz (Artikel 28 Datenschutz-Grundverordnung), Haftungsbegrenzung und Vertragsstrafe (Paragraf 339 BGB). Wird von /vertragsrecht:vertragsprüfung geladen, wenn ein SaaS- oder Abonnementvertrag erkannt wird. SaaS-/MSA-Vertrag (Datei-Upload oder Direkteingabe).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfung von SaaS-Abonnement- und Rahmenverträgen (MSA) mit Schwerpunkt auf AGB-Kontrolle (Paragrafen 305–310 BGB), automatischer Verlängerung, Preiseskalation, Datenschutz (Artikel 28 Datenschutz-Grundverordnung), Haftungsbegrenzung und Vertragsstrafe (Paragraf 339 BGB).
+Normbezug aus dem Fachmaterial: Prüfung von SaaS-Abonnement- und Rahmenverträgen (MSA) mit Schwerpunkt auf AGB-Kontrolle (Paragrafen 305–310 BGB), automatischer Verlängerung, Preiseskalation, Datenschutz (Artikel 28 Datenschutz-Grundverordnung), Haftungsbegrenzung und Vertragsstrafe (Paragraf 339 BGB).
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.8. Verlängerungstracker
+### 16.7. Verlängerungstracker
 
 Bearbeitungsauftrag: Gibt es Verträge deren Verlängerungsklausel nach Paragraf 309 Nummer 9 BGB (B2C) oder Paragraf 307 BGB (B2B) unwirksam sein könnte? Paragraf 307 BGB — Inhaltskontrolle B2B: unangemessen lange Bindungen. Paragraf 130 BGB — Zugang von Willenserklärungen (Fristbeginn für Kündigung).
 Prüfschritte: Ist das Fristen-Register vollständig (alle aktiven Verträge mit Laufzeitende und Kündigungsfrist)?
 Lieferstück: Entwurfsbaustein zu Verlängerungstracker mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.9. Vert: Rahmenvertrag Einzelabrufe
+### 16.8. Vert: Rahmenvertrag Einzelabrufe
 
 Bearbeitungsauftrag: Bearbeite Vert: Rahmenvertrag Einzelabrufe entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.10. Vertragsrecht: BGB-Typen
+### 16.9. Vertragsrecht: BGB-Typen
 
 Bearbeitungsauftrag: Bearbeite Vertragsrecht: BGB-Typen entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.11. Widerruf im Fernabsatz- und Außergeschäftsraumvertrag
+### 16.10. Widerruf im Fernabsatz- und Außergeschäftsraumvertrag
 
 Bearbeitungsauftrag: Bearbeite Widerruf im Fernabsatz- und Außergeschäftsraumvertrag entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.12. Eskalationsregeln
+### 16.11. Eskalationsregeln
 
 Bearbeitungsauftrag: Welcher Eskalationsauslöser liegt vor — Betrags-Schwelle, Klausel-Abweichung oder automatischer Auslöser? Auf welcher Seite steht das Unternehmen (Käufer oder Verkäufer) — welches Playbook gilt? Bis wann muss eine Entscheidung vorliegen (Verhandlungsdeadline)?
 Lieferstück: Entwurfsbaustein zu Eskalationsregeln mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
+
+### 16.12. Playbook-Vorschläge prüfen und genehmigen
+
+Bearbeitungsauftrag: (Haftungsbeschränkung in AGB; Grenze der zulässigen Absenkung; Paragraf 309 Nummer 7 BGB) (Transparenzgebot; Änderungsklauseln müssen klar und verständlich sein).
+Normbezug aus dem Fachmaterial: (Haftungsbeschränkung in AGB; Grenze der zulässigen Absenkung; Paragraf 309 Nummer 7 BGB).
+Lieferstück: Entwurfsbaustein zu Playbook-Vorschläge prüfen und genehmigen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.

@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Pachtprüfung, Hofnachfolgematrix, Förderwiderspru
 | --- | --- | --- | --- |
 | Fallkern | Landpacht und Pachtzins prüfen | HöfeO Paragraf 1 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | HöfeO Paragraf 12 Absatz 2 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Streitigen Landpachtvertrag bearbeiten | HöfeO Paragraf 12 Absatz 2 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Fachanwaltliche Prüfung der Hofübergabe | HöfeO Paragraf 12 Absatz 2 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Pachtprüfung, Hofnachfolgematrix, Förderwiderspruch, Genehmigungsantrag, Behördenstellungnahme oder Vertragsentwurf | Antragsteller oder Bewirtschafter für Fläche, Hofstatus, Fördervoraussetzung und Beleg; Behörde oder Vertragspartner für Beanstandung, Kürzung, Einwendung und Zustellung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -175,13 +175,13 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Landpacht und Pachtzins prüfen | BLw 2/15: Eine Verpachtung kann eine ungesunde Verteilung der Bodennutzung darstellen. | Fachvotum zu Landpacht und Pachtzins prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Streitigen Landpachtvertrag bearbeiten | Prüfe nicht vorschnell nur den Dokumenttitel. Januar 2025 verlangt BGB Paragraf 585a für Verträge von mehr als zwei Jahren Textform. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Fachanwaltliche Prüfung der Hofübergabe | Anwendbarkeit: Lage in Hamburg, Niedersachsen, Nordrhein-Westfalen oder Schleswig-Holstein; geeignete Hofstelle, zulässige Eigentumsform, Hofvermerk und Grundsteuerwert. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Abfindung und Pflichtteil beim Hof | Hofeigenschaft am maßgeblichen Stichtag nach HöfeO Paragraf 1 und bei Übergangsfällen nach HöfeO Paragraf 19 Absatz 3 prüfen. Allgemeine Erbquote, höferechtliche Abfindungsquote und Pflichtteilsquote nicht vermischen. | Fachvotum zu Abfindung und Pflichtteil beim Hof mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Agrarprozess-Versandmappe endfertigen | Ordne das Verfahren dem Landwirtschaftsgericht, ordentlichen Zivilgericht, Verwaltungsgericht oder einer Behörde zu. | Fachvotum zu Agrarprozess-Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg | Für Paragraf 45 Absatz 7 BNatSchG grundsätzlich erforderlich; beim Schnellabschuss Paragraf 45a BNatSchG entbehrlich, aber DNA-Versuch obligatorisch. — GPS-Koordinaten für 1000-Meter-Radius nach Paragraf 45a BNatSchG. | Fachvotum zu Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Nachabfindung nach HöfeO Paragraf 13 | Bei Übergabe an einen hoferbenberechtigten Abkömmling HöfeO Paragraf 17 Absatz 2 beachten. Zwanzigjahresfenster vom maßgeblichen Ereignis bis zur Veräußerung oder Verwertung taggenau prüfen. | Fachvotum zu Nachabfindung nach HöfeO Paragraf 13 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Genehmigung Tierhaltungsanlagen nach Paragraf 4 BImSchG ab Schwellenwerten | Im Außenbereich nur privilegiertes Vorhaben nach Paragraf 35 Absatz 1 BauGB; Massentierhaltung ohne Futterbasis oft nicht privilegiert. — Paragraf 34 BNatSchG Verträglichkeitsprüfung. | Fachvotum zu Genehmigung Tierhaltungsanlagen nach Paragraf 4 BImSchG ab Schwellenwerten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
+| Streitigen Landpachtvertrag bearbeiten | Prüfe nicht vorschnell nur den Dokumenttitel. Januar 2025 verlangt BGB Paragraf 585a für Verträge von mehr als zwei Jahren Textform. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Tierhaltungsverbot rechtlich und tatsächlich prüfen | Der schwere Eingriff darf nicht auf die Generalklausel gestützt werden, wenn die besonderen Voraussetzungen des Haltungsverbots fehlen. B 16.24: Für ein Haltungsverbot gelten hohe tatbestandliche Hürden. | Fachvotum zu Tierhaltungsverbot rechtlich und tatsächlich prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 
 ## 16. Fachspezifische Praxisrouten
@@ -191,51 +191,50 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. Landpacht und Pachtzins prüfen
 
 Bearbeitungsauftrag: BLw 2/15: Eine Verpachtung kann eine ungesunde Verteilung der Bodennutzung darstellen; im Beanstandungsverfahren entscheidet das Landwirtschaftsgericht nach Paragraf 8 LPachtVG und kann den Vertrag auch bei anderweitig angenommener Unwirksamkeit aufheben. Die zu Paragraf 9 GrdstVG entwickelten Kaufpreisgrenzen sind nicht ohne Weiteres eine starre Pachtzinsgrenze. Für die Beanstandung gilt der eigenständige Tatbestand des Paragrafen 4 LPachtVG.
-Prüfschritte: Ein Landpachtvertrag weist einen ungewöhnlich hohen Pachtzins auf oder wird von der Behörde beanstandet; behördliche Agrarstrukturkontrolle und vertragliche Anpassung haben verschiedene Voraussetzungen.
+Prüfschritte: Ein Landpachtvertrag weist einen ungewöhnlich hohen Pachtzins auf oder wird von der Behörde beanstandet.
 Lieferstück: Fachvotum zu Landpacht und Pachtzins prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. Streitigen Landpachtvertrag bearbeiten
-
-Bearbeitungsauftrag: Prüfe nicht vorschnell nur den Dokumenttitel. Januar 2025 verlangt BGB Paragraf 585a für Verträge von mehr als zwei Jahren Textform. Bei vor diesem Tag entstandenen Verträgen ist das Übergangsrecht in EGBGB Artikel 229 Paragraf 70 Absatz 2 nach dem Datum des streitigen Vorgangs zu prüfen: Die frühere Schriftform galt grundsätzlich bis einschließlich.
-Prüfschritte: Lies zuerst alle vorhandenen Verträge, Nachträge, Flurstückslisten, Anzeigen, Bescheide, Kündigungen, Zustellnachweise, Zahlungsbelege, Bewirtschaftungsnachweise und Korrespondenzen; Frage nur nach Tatsachen, ohne die der nächste belastbare Arbeitsschritt nicht möglich ist; eine Chronologie mit Pachtjahren und Zugangsdaten, 2; ein Fristenblatt mit Rechtsfolge und Sicherungsmaßnahme, 3; eine Anspruchs- und Einwendungsmatrix,.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.3. Fachanwaltliche Prüfung der Hofübergabe
+### 16.2. Fachanwaltliche Prüfung der Hofübergabe
 
 Bearbeitungsauftrag: Anwendbarkeit: Lage in Hamburg, Niedersachsen, Nordrhein-Westfalen oder Schleswig-Holstein; geeignete Hofstelle, zulässige Eigentumsform, Hofvermerk und Grundsteuerwert. Übergangsrecht: Abweichung zwischen alter und neuer Hofeigenschaft nach HöfeO Paragraf 19 Absatz 3 bis längstens 31.12.2026 markieren. Person: Hoferbenberechtigung, Wirtschaftsfähigkeit, Ehe- und Familienlage, Minderjährige, Betreuung und Interessenkollision prüfen.
 Prüfschritte: Beginne mit den vorhandenen Dokumenten; Lege Vertragsentwurf, Grundbuch, Grundsteuerwertbescheid, Familienübersicht, Bilanz, Darlehen, Pachtverträge, Zuwendungen und Bewirtschaftungskonzept nebeneinander; Gib zuerst eine Redline-Liste mit den fünf größten rechtlichen oder wirtschaftlichen Risiken aus; stelle erst danach höchstens drei entscheidungserhebliche Rückfragen.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.4. Abfindung und Pflichtteil beim Hof
+### 16.3. Abfindung und Pflichtteil beim Hof
 
 Bearbeitungsauftrag: Hofeigenschaft am maßgeblichen Stichtag nach HöfeO Paragraf 1 und bei Übergangsfällen nach HöfeO Paragraf 19 Absatz 3 prüfen. Allgemeine Erbquote, höferechtliche Abfindungsquote und Pflichtteilsquote nicht vermischen. Ergänzungsansprüche wegen lebzeitiger Zuwendungen nach allgemeinem Pflichtteilsrecht gesondert von Abfindung und Nachabfindung behandeln.
 Prüfschritte: Lies zuerst Erbschein oder Verfügung von Todes wegen, Grundbuch, Hofvermerk, Grundsteuerwertbescheid, Nachlassverzeichnis, Darlehen, Familienstandsurkunden, frühere Zuwendungen und einen etwaigen Übergabevertrag; Erstelle unmittelbar ein Stichtags- und Rechenblatt; frage nur nach fehlenden Werten, die das Ergebnis ändern.
 Lieferstück: Fachvotum zu Abfindung und Pflichtteil beim Hof mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Agrarprozess-Versandmappe endfertigen
+### 16.4. Agrarprozess-Versandmappe endfertigen
 
 Bearbeitungsauftrag: Ordne das Verfahren dem Landwirtschaftsgericht, ordentlichen Zivilgericht, Verwaltungsgericht oder einer Behörde zu. Ordne Grundbuch- und Hofvermerke, Pachtverträge, Luftbilder, Feldblockkarten, Schlagkartei, Sammelanträge, Kontrollberichte, Tierbestands- und Düngeunterlagen sowie Bescheide nach ihrer Beweisfunktion. Geschäfts- und Gesundheitsdaten werden nur eingereicht, soweit sie den Streitstoff tragen.
 Prüfschritte: Lies den fertigen Schriftsatz, Vertrag oder Bescheid, Rechtsbehelfsbelehrung, Zustellungen und vorhandenen Ordner zuerst; Nutze beA nur für einen eröffneten gerichtlichen Übermittlungsweg; ein Förderportal oder behördliches Fachverfahren bleibt ein eigener Kanal; Karten bleiben lesbar, maßstäblich und mit Legende; Tabellen werden nicht als unlesbarer Gesamtscan angehängt.
 Lieferstück: Fachvotum zu Agrarprozess-Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg
+### 16.5. Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg
 
 Bearbeitungsauftrag: Für Paragraf 45 Absatz 7 BNatSchG grundsätzlich erforderlich; beim Schnellabschuss Paragraf 45a BNatSchG entbehrlich, aber DNA-Versuch obligatorisch. — GPS-Koordinaten für 1000-Meter-Radius nach Paragraf 45a BNatSchG; Zeitpunkt für 21-Tage-Fenster. Wurden Fördergelder für Schutzmaßnahmen genutzt?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Für Paragraf 45 Absatz 7 BNatSchG grundsätzlich erforderlich; beim Schnellabschuss Paragraf 45a BNatSchG entbehrlich, aber DNA-Versuch obligatorisch.
+Normbezug aus dem Fachmaterial: Für Paragraf 45 Absatz 7 BNatSchG grundsätzlich erforderlich; beim Schnellabschuss Paragraf 45a BNatSchG entbehrlich, aber DNA-Versuch obligatorisch.
 Lieferstück: Fachvotum zu Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Nachabfindung nach HöfeO Paragraf 13
+### 16.6. Nachabfindung nach HöfeO Paragraf 13
 
 Bearbeitungsauftrag: Bei Übergabe an einen hoferbenberechtigten Abkömmling HöfeO Paragraf 17 Absatz 2 beachten. Zwanzigjahresfenster vom maßgeblichen Ereignis bis zur Veräußerung oder Verwertung taggenau prüfen. Anspruchsauslöser zuordnen: Gesamtverkauf, Teilverkauf über der gesetzlichen Schwelle, Gesellschaftseinbringung, Zubehörverwertung, dauerhafte landwirtschaftsfremde Nutzung mit erheblichem Gewinn, Zwangsversteigerung oder Enteignung.
 Prüfschritte: Lies zuerst Erbfall- oder Übergabeunterlagen, Grundbuch, Hofvermerk, Veräußerungs- oder Nutzungsvertrag, Zahlungsbelege, Grundsteuerwertbescheid, frühere Abfindungen, Ersatzbeschaffung und Familienübersicht; Erstelle sofort eine Ereignis- und Erlösmatrix; Frage nur nach einem fehlenden Dokument, wenn ohne dieses die Anspruchsroute nicht bestimmt werden kann.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe Nachabfindungsansprüche nach HöfeO Paragraf 13 bei Veräußerung, Teilverkauf, Gesellschaftseinbringung, Zwangsversteigerung, Enteignung oder gewinnbringender Nutzungsänderung innerhalb von zwanzig Jahren.
+Normbezug aus dem Fachmaterial: Prüfe Nachabfindungsansprüche nach HöfeO Paragraf 13 bei Veräußerung, Teilverkauf, Gesellschaftseinbringung, Zwangsversteigerung, Enteignung oder gewinnbringender Nutzungsänderung innerhalb von zwanzig Jahren.
 Lieferstück: Fachvotum zu Nachabfindung nach HöfeO Paragraf 13 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Genehmigung Tierhaltungsanlagen nach Paragraf 4 BImSchG ab Schwellenwerten
+### 16.7. Genehmigung Tierhaltungsanlagen nach Paragraf 4 BImSchG ab Schwellenwerten
 
 Bearbeitungsauftrag: Im Außenbereich nur privilegiertes Vorhaben nach Paragraf 35 Absatz 1 BauGB; Massentierhaltung ohne Futterbasis oft nicht privilegiert. — Paragraf 34 BNatSchG Verträglichkeitsprüfung; erhöhte Anforderungen bei Schutzgebiet in 1–5 km-Radius. — Im förmlichen Verfahren zwingend Öffentlichkeitsbeteiligung; im vereinfachten Verfahren nicht.
 Prüfschritte: Welche Tierart und wie viele Tierplätze; BImSchV Anhang für immissionsschutzrechtliches oder Bau-Genehmigungsverfahren.
 Lieferstück: Fachvotum zu Genehmigung Tierhaltungsanlagen nach Paragraf 4 BImSchG ab Schwellenwerten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.8. Streitigen Landpachtvertrag bearbeiten
+
+Bearbeitungsauftrag: Prüfe nicht vorschnell nur den Dokumenttitel. Januar 2025 verlangt BGB Paragraf 585a für Verträge von mehr als zwei Jahren Textform. Bei vor diesem Tag entstandenen Verträgen ist das Übergangsrecht in EGBGB Artikel 229 Paragraf 70 Absatz 2 nach dem Datum des streitigen Vorgangs zu prüfen: Die frühere Schriftform galt grundsätzlich bis einschließlich.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.9. Tierhaltungsverbot rechtlich und tatsächlich prüfen
 

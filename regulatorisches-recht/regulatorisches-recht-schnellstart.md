@@ -33,7 +33,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Behörde und Verfahre
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | EnWG; TKG; GewO Paragraf 35 |
-| Rechtsprechung | EuGH, Urt. v. 13.02.2025; EuGH, Urt. v. 02.12.2025 |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen |
 | Beweislast | Nachweisachse Behörde und Verfahren: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen |
 | Rechtsfolge | Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren |
@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Behörde und Verfahre
 | Verfahrensrechte | Anhörung, Akteneinsicht, Geheimnisschutz und Fristverlängerung sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Antwortstrategie | Umfang der Auskunft, Schwärzungen, Teillieferung und Schutzschriften abwägen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| DORA-IKT-Vertragsprüfung | Bearbeite DORA-IKT-Vertragsprüfung: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,9 +59,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Behörde und Verfahre
 - Art. 28 DORA – allgemeine Grundsätze für Vertragsvereinbarungen mit IKT-Drittdienstleistern; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 29 DORA – Vorabbewertung des IKT-Konzentrationsrisikos; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 30 DORA – Pflichtinhalte des IKT-Drittdienstleistervertrags; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urt. v. 13.02.2025 — C-383/23 (ILVA) — Datenschutz-Grundverordnung-Bußgelder können auf gesamten Konzernumsatz bezogen werden; "Unternehmen" im wettbewerbsrechtlichen Sinne — relevant für Monitoring nationaler Bußgeldpraxis.
-- EuGH, Urt. v. 02.12.2025 — C-492/23 (Russmedia) — Datenschutz-Grundverordnung geht DSA vor; kein Provider-Privileg bei Datenschutz-Grundverordnung-Verstößen — relevant für Plattform-Compliance-Monitoring.
-- EuGH, Urt. v. 19.03.2026 — C-526/24 (Brillen Rottler) — Erstmaliger Datenschutz-Grundverordnung-Auskunftsantrag kann rechtsmissbräuchlich sein.
 
 ## 7. Antwortform
 

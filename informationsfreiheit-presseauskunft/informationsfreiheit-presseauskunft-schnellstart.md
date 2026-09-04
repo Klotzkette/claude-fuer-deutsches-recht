@@ -45,8 +45,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Zugangsziel, Anspruch
 | --- | --- | --- |
 | Zugangsziel | Begehrte Information, Zeitraum, Format, Behörde, Aktenbestand und Verwendungszweck so konkret wie nötig bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anspruchsregime | IFG, UIG, VIG, Presseauskunft, Archivrecht oder Landesrecht nach Information und Stelle auswählen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausnahmen und Dritte | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Ausnahmen und Dritte | Öffentlichen Belang, Entscheidungsprozess, personenbezogene Daten, Geheimnis, Urheberrecht, Drittanhörung und Teilzugang getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verfahren und Kosten | Antrag, Eingangsdatum, Monatsfrist, Präzisierung, Gebührenankündigung, Bescheid, Widerspruch und Eilbedarf steuern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Zugangsantrag, Präzisierung, Drittstellungnahme, Schwärzungsmatrix, Ablehnungsbescheid, Widerspruch oder Eilantrag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

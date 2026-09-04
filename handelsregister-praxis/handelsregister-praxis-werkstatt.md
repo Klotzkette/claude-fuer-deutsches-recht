@@ -247,13 +247,14 @@ Bearbeitungsauftrag: Bearbeite Auslandsurkunden registerfest machen: satzung, Be
 Prüfschritte: Prüfe Apostille, Legalisation, beglaubigte Übersetzung, Existenznachweis und Vertretungsnachweis.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
-### 16.11. Beschlussmängel im Registervollzug
-
-Bearbeitungsauftrag: Prüfe, ob das Registergericht bei Kapitalmaßnahme, Geschäftsführerbestellung oder Satzungsänderung Beschlussmängel beachten muss, wie weit die formelle Prüfung reicht und wann der materielle Streit auf Zivilprozess/Eilrechtsschutz verlagert wird. Besonders wichtig bei Gesellschafterstreit: nicht jedes behauptete Beschlussdefizit stoppt automatisch den Registervollzug, aber offensichtliche Nichtigkeits- und Legitimationsprobleme müssen sauber adressiert werden.
-Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
-
-### 16.12. Eilrechtsschutz bei Registerstillstand
+### 16.11. Eilrechtsschutz bei Registerstillstand
 
 Bearbeitungsauftrag: Bearbeite Eilrechtsschutz bei Registerstillstand: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
 Prüfschritte: Plant Schutz gegen drohende Eintragung, Verzögerung, Registersperre, Gesellschafterlistenstreit und Vollzugsschäden.
+Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
+
+### 16.12. Formwechsel Registercheck
+
+Bearbeitungsauftrag: Bearbeite Formwechsel Registercheck: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
+Prüfschritte: Prüfe Formwechselbericht, Beschlüsse, Satzung, neue Firma, Registerwechsel und Identitätskontinuität.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.

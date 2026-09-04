@@ -96,10 +96,7 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Risikozuweisung
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH, Urteil vom 13.12.2005 - KZR 12/04 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei einer Standort- oder Wirtschaftlichkeitsberechnung sind selbständiger Beratungsvertrag, persönliche Dritthaftung und Garantieübernahme nach den konkreten Umständen getrennt zu prüfen |
-| BGH, Urteil vom 19.07.2011 - VI ZR 367/09 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Im Franchise-Sachverhalt mit behaupteten falschen Businessplan-Daten präzisiert der BGH Beweislast und Vermögensschaden beim deliktischen Eingehungsbetrug |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -112,18 +109,17 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 - UrhG Paragraf 31 ff.: Einräumung von Nutzungsrechten und Zweckübertragungsgedanke.
 - HGB Paragraf 84 ff. als Wertungsrahmen für Vertriebs- und Franchisemodelle.
 - BGB Paragrafen 314, 323, 241 Abs. 2, 242, 280, 305 ff.: Dauerschuldverhältnis, Pflichtverletzung, Abmahnung, AGB-Kontrolle; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- HGB Paragraf 90a nur als Orientierung für nachvertragliche Wettbewerbsverbote, wenn Schutzbedürfnis, Dauer, Raum und Entschädigung tatsächlich vergleichbar sind; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 101 AEUV, GWB und Vertikal-GVO (EU) 2022/720 für Wettbewerbsverbote, Bezugsbindungen und Gebietsschutz; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - ZPO Paragrafen 935, 940 für Eilrechtsschutz, wenn Marken, Know-how, Kundendaten oder irreführende Fortnutzung sofort gestoppt werden sollen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BGB Paragrafen 305 ff., besonders Paragrafen 307 bis 309: Transparenz, unangemessene Benachteiligung, überraschende Klauseln, einseitige Leistungsänderung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BGB Paragrafen 138, 242, 311 Abs. 2, 280: Übervorteilung, Treu und Glauben, vorvertragliche Aufklärung, Schadensersatz bei unrealistischen Rentabilitätsangaben; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 101 AEUV, GWB und Vertikal-GVO (EU) 2022/720 bei Preisbindung, Bezugsbindung, Gebietsschutz, Onlinevertrieb und Wettbewerbsverboten; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 311 Abs. 2 BGB iVm Paragraf 241 Abs. 2 BGB Schuldverhältnis mit Schutzpflichten; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 305 ff; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BGH, Urteil vom 13.12.2005 - KZR 12/04: Bei einer Standort- oder Wirtschaftlichkeitsberechnung sind selbständiger Beratungsvertrag, persönliche Dritthaftung und Garantieübernahme nach den konkreten Umständen getrennt zu prüfen.
-- BGH, Urteil vom 19.07.2011 - VI ZR 367/09: Im Franchise-Sachverhalt mit behaupteten falschen Businessplan-Daten präzisiert der BGH Beweislast und Vermögensschaden beim deliktischen Eingehungsbetrug.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -145,7 +141,7 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 10.6. Gegenposition: Formuliere die stärkste Verhandlungsposition der anderen Seite; sie setzt typischerweise bei welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest an.
 10.7. Rückfallposition: Antworte mit konkreter Alternativfassung, Preis- oder Vollzugsausgleich und zeige die Auswirkung auf vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
 10.8. Entwurf und Vollzug: Schließe mit Vertragsgerüst: Präambel, Definitionen, Leistung, Vergütung, Laufzeit, Haftung, Geheimhaltung, Schlussbestimmungen; NDA-Kern: Vertrauliche Information, erlaubte Nutzung, Empfängerkreis, Dauer, Rückgabe, Sanktion; Verantwortlicher, Termin, Bedingung und Erfüllungsnachweis sind ausformuliert.
-10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind BGH, Urteil vom 13.12.2005 - KZR 12/04; BGH, Urteil vom 19.07.2011 - VI ZR 367/09.
+10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -202,7 +198,7 @@ Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründu
 ### 16.2. Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten
 
 Bearbeitungsauftrag: Franchiseproblem: Franchisenehmer-Ausgleich analog Paragraf 89b HGB wird nicht als Automat behandelt, sondern über Kundenstamm, Überlassungspflicht, Datennutzung und anonymes Massengeschäft aufgebaut. Rechtsrahmen: Franchise als typengemischtes Dauerschuldverhältnis prüfen: Paragrafen 241 Absatz 2, 280, 311, 314, 305 und folgende BGB; Paragraf 89b HGB analog nur fallbezogen; MarkenG/GeschGehG; Artikel 101 AEUV, GWB und Vertikal-GVO 2022/720 bei Systembindungen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Franchiseproblem: Franchisenehmer-Ausgleich analog Paragraf 89b HGB wird nicht als Automat behandelt, sondern über Kundenstamm, Überlassungspflicht, Datennutzung und anonymes Massengeschäft aufgebaut.
+Normbezug aus dem Fachmaterial: Franchiseproblem: Franchisenehmer-Ausgleich analog Paragraf 89b HGB wird nicht als Automat behandelt, sondern über Kundenstamm, Überlassungspflicht, Datennutzung und anonymes Massengeschäft aufgebaut.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.3. Franchiserecht: Datenschutz, CRM, Kundendaten und gemeinsame Verantwortlichkeit

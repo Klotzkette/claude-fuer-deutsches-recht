@@ -44,9 +44,10 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Grundstücke und Bete
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Grundstücke und Beteiligte | Grundbuch, Flurstück, Eigentümer, Besitzer, Grenze, Dienstbarkeit, Baulast und Zuständigkeit sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ortsbefund | Maße, Höhen, Abstände, Richtung, Dauer, Witterung, Geräusch, Geruch, Wasser, Pflanzen oder Bauwerk mit Fotos. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruch und Duldung | Konkrete Störung, Verantwortlicher, Wesentlichkeit, Ortsüblichkeit, Selbsthilfe, Frist, Verjährung und Landesrecht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Ortsbefund | Maße, Höhen, Abstände, Richtung, Dauer, Witterung, Geräusch, Geruch, Wasser, Pflanzen oder Bauwerk mit Fotos und Plan dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruch und Duldung | Konkrete Störung, Verantwortlicher, Wesentlichkeit, Ortsüblichkeit, Selbsthilfe, Frist, Verjährung und Landesrecht prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweis und Lösung | Vermessung, Zeugen, Messung, Gutachten, Ortstermin, technische Abhilfe, Zugang und Kosten ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Aufforderung, Duldungsvereinbarung, Schlichtungsantrag, Beweissicherungsantrag, Klage oder Vergleichsskizze erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

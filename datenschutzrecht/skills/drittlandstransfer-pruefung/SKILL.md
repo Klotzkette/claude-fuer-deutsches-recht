@@ -59,7 +59,7 @@ description: "Für Drittlandstransfer-Prüfung (Art. 44 ff. DSGVO): ordnet Norm,
 Prüfen, ob überhaupt ein Transfer i.S.d. Kapitel V DSGVO vorliegt:
 - Findet eine Übermittlung an einen Empfänger außerhalb EU/EWR statt?
 - Genügt ein "Zugriff" (z.B. Remote-Support, Administrationszugang) aus einem Drittland – nach EDSA-Leitlinien 05/2021 ja, wenn personenbezogene Daten im Zugriffsmittelpunkt stehen
-- Art. 3 Abs. 2 DSGVO (extraterritoriale Anwendung): Liegt der Empfänger zwar im Drittland, faellt aber schon unter den raeumlichen Anwendungsbereich der DSGVO? Dann kein Kapitel-V-Transfer, aber Compliance-Prüfung nach Leitlinien 05/2021
+- Artikel 3 Absatz 2 DSGVO (extraterritoriale Anwendung): Unterliegt ein rechtlich selbständiger Empfänger im Drittland für die betreffende Verarbeitung bereits der DSGVO, schließt das einen Transfer nach Kapitel V nicht aus. Nach den EDSA-Leitlinien 05/2021 bleibt entscheidend, ob ein der DSGVO unterliegender Exporteur Daten an einen anderen Verantwortlichen oder Auftragsverarbeiter in einem Drittland offenlegt.
 
 ### 2. Prüfung Angemessenheitsbeschluss (Art. 45 DSGVO)
 
@@ -147,7 +147,7 @@ Bei unzureichendem Schutzniveau im Empfängerland können ergänzende Maßnahmen
 |---|---|---|---|
 | US-Cloud ohne DPF-Zertifizierung und ohne SCC | x | | |
 | US-Cloud mit SCC, ohne TIA | | x | |
-| US-Cloud mit DPF-zertifiziertem Anbieter | | | x (zzgl. SCC und TIA empfohlen als Doppelabsicherung) |
+| US-Cloud mit aktiv DPF-zertifiziertem Anbieter; konkrete juristische Person, Datenkategorie und Dienst erfasst | | | x (Artikel 45 DSGVO; SCC und TIA nicht zusätzlich erforderlich, ein vollständig vorbereitetes Ausweichinstrument kann betrieblich sinnvoll sein) |
 | US-Cloud mit SCC und positivem TIA (Verschlüsselung, Schlüssel EU) | | | x |
 | UK (Angemessenheitsbeschluss 2021 gültig) | | | x (Monitoring erforderlich) |
 | Schweiz nach nDSG (Angemessenheitsbeschluss bestätigt) | | | x |
@@ -229,13 +229,15 @@ Stand: 05/2026. Aktualität bei folgenden Ereignissen prüfen und Skill aktualis
 
 Nächste geplante Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
 
-## Faktische Updates (Stand 05/2026)
+## Faktische Updates (Stand 09/2026)
 
-- **EU-US Data Privacy Framework (DPF):** Der Angemessenheitsbeschluss vom 10.07.2023 (C(2023) 4745 final) ist weiterhin in Kraft. Erstmalige periodische Überprüfung durch die Kommission war für 07/2024 vorgesehen; weitere Reviews alle vier Jahre. **Achtung:** politische Risiken (Schrems-III-Vorlage, US-Executive-Order-Modifikationen) machen Monitoring zwingend. Quelle: eur-lex.europa.eu, commission.europa.eu/law/law-topic/data-protection.
+- **EU-US Data Privacy Framework (DPF):** Der Angemessenheitsbeschluss vom 10. Juli 2023 (C(2023) 4745 final) ist weiterhin in Kraft. Die Kommission veröffentlichte ihren ersten periodischen Überprüfungsbericht am 9. Oktober 2024. Das Gericht der Europäischen Union wies die Nichtigkeitsklage T-553/23 am 3. September 2025 ab; das Rechtsmittel C-703/25 P ist anhängig. Dieses Verfahren ist nicht als „Schrems III“ oder als NOYB-Verfahren zu bezeichnen. Änderungen der US-Rechtsgrundlagen und der Ausgang des Rechtsmittels sind anhand amtlicher Quellen zu überwachen.
 - **DPF-Listing:** Empfaenger-Status muss vor jeder Uebermittlung über dataprivacyframework.gov (offizielle US-Website) verifiziert werden; Selbst-Zertifizierungs-Status kann jederzeit verloren gehen.
 - **UK-Angemessenheitsbeschluss (2021/1772):** Gilt nach urspruenglichen vier Jahren Befristung; Verlaengerung war erforderlich — aktuellen Status der Verlaengerung / Überprüfung live prüfen.
 - **EDSA-Guidelines:** Empfehlungen 01/2020 (Sechs-Stufen-TIA), Guidelines 05/2021 (Wechselwirkung Art. 3 und Kapitel V) sowie aktuelle EDSA-Stellungnahmen 2025 zu Drittlandtransfer-Risiken (insb. China PIPL, US-Executive-Orders) live über edpb.europa.eu prüfen.
-- **NIS-2 + Drittlandtransfer:** Auftraggeber wichtiger / besonders wichtiger Einrichtungen müssen Cyber-Risiken in der Lieferkette (Art. 21 NIS-2-RL i.V.m. § 30 BSIG n.F.) bei Drittland-Cloud-Diensten zusaetzlich beruecksichtigen; Schnittstelle zu TIA dokumentieren.
+- **NIS-2 + Drittlandtransfer:** Auftraggeber wichtiger oder besonders wichtiger Einrichtungen müssen Cyberrisiken in der Lieferkette nach Artikel 21 NIS-2-Richtlinie in Verbindung mit Paragraf 30 BSIG in der geltenden Fassung bei Drittland-Cloud-Diensten zusätzlich berücksichtigen; die Schnittstelle zum TIA ist zu dokumentieren.
+
+Amtliche Fundstellen: [EDSA-Leitlinien 05/2021, Version 2.0](https://www.edpb.europa.eu/system/files/2023-02/edpb_guidelines_05-2021_interplay_between_the_application_of_art3-chapter_v_of_the_gdpr_v2_en_0.pdf), [Durchführungsbeschluss (EU) 2023/1795](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023D1795), [Urteil T-553/23](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62023TJ0553) und [anhängiges Rechtsmittel C-703/25 P](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62025CN0703).
 
 ## Triage zu Beginn (Entscheidungsbaum)
 

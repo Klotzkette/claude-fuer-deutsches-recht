@@ -193,7 +193,6 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Die Trennung zwischen "Formularerstellung" und "Schriftsatzerstellung" war in der Praxis studentischer Rechtsberatungsstellen künstlich: Ein Beratungshilfe-Antrag (BerH 1) ist juristisch kein anderes Arbeitsergebnis als ein Widerspruchsschreiben — beide erfordern Sachverhaltsaufnahme, Normprüfung und Supervisoren-Freigabe nach Paragraf 6 Absatz 2 RDG. Paragraf 117 ZPO — PKH-Antrag: Einreichung mit Klage oder gesondertem Schriftsatz.
 Prüfschritte: Diese Skill akzeptiert keine Eingaben; Für alle Formular- und Schriftstückaufgaben: /entwurf [Schriftstücktyp]; Paragraf 1 BerHG — Voraussetzungen der Beratungshilfe: BerH 1-Antrag ist vor Leistungserbringung beim Amtsgericht einzureichen; Studenten müssen die Voraussetzungen (Bedürftigkeit, keine anderweitige Beratungsmöglichkeit) prüfen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Diese Skill akzeptiert keine Eingaben; Für alle Formular- und Schriftstückaufgaben: /entwurf [Schriftstücktyp]; Paragraf 1 BerHG — Voraussetzungen der Beratungshilfe: BerH 1-Antrag ist vor Leistungserbringung beim Amtsgericht einzureichen.
 Lieferstück: Teilbefund zu [VERALTET] Formularerstellung → siehe /entwurf mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
 ### 16.2. Schriftsatzentwurf: Erstentwurf-Erstellung
@@ -218,7 +217,7 @@ Lieferstück: Teilbefund zu Fallstatus: Zielgruppengerechte Fallzusammenfassung 
 
 Bearbeitungsauftrag: Bearbeite Supervisoren-Prüfwarteschlange (Optional): rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Keine bei Standardaufruf (zeigt, was wartet); --freigeben [id] — Eintrag freigeben; --zurück [id] "Hinweis" — Eintrag mit Kommentar zurückschicken; --bearbeiten [id] — Eintrag inline bearbeiten, dann freigeben; Paragraf 6 Absatz 2 RDG — Aufsichtspflicht des begleitenden Rechtsanwalts/der begleitenden Rechtsanwältin: Die Aufsicht muss inhaltlich effektiv sein.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Keine bei Standardaufruf (zeigt, was wartet); --freigeben [id] — Eintrag freigeben; --zurück [id] "Hinweis" — Eintrag mit Kommentar zurückschicken; --bearbeiten [id] — Eintrag inline bearbeiten, dann freigeben; Paragraf 6 Absatz 2 RDG — Aufsichtspflicht des begleitenden.
+Normbezug aus dem Fachmaterial: Keine bei Standardaufruf (zeigt, was wartet); --freigeben [id] — Eintrag freigeben; --zurück [id] "Hinweis" — Eintrag mit Kommentar zurückschicken; --bearbeiten [id] — Eintrag inline bearbeiten, dann freigeben; Paragraf 6 Absatz 2 RDG — Aufsichtspflicht des begleitenden.
 Lieferstück: Teilbefund zu Supervisoren-Prüfwarteschlange (Optional) mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
 ### 16.6. Erstberatung mit RDG-Grenzen und Triage

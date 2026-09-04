@@ -100,9 +100,6 @@ Arbeitsgriff Arbeitsprodukt: Einwendung, Klagebegründung, Erwiderung, Nebenbest
 | --- | --- | --- |
 | EuGH, Urteil vom 12.05.2011 - C-115/09 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Anerkannte Umweltvereinigungen müssen sich im Anwendungsbereich des Umweltrechtsbehelfsgesetzes auf unionsrechtlich geprägte Umweltschutzvorschriften berufen können |
 | EuGH, Urteil vom 15.10.2015 - C-137/14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Der gerichtliche Rechtsschutz in Umweltangelegenheiten darf nicht generell auf Einwendungen beschränkt werden, die bereits im Verwaltungsverfahren erhoben wurden |
-| BVerwG 30.11.2023, 8 C 7.22 (Klage DUH/BUND auf Klimaschutz-Sofortprogramm Paragraf 8 KSG 2021) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Aktivlegitimation und Klagebefugnis der nach Paragraf 3 UmwRG anerkannten Umweltvereinigungen für den Klimaschutzprogramm-Anspruch nach KSG |
-| EuGH 08.11.2016, C-243/15 (Lesoochranárske) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Aarhus-Konvention Art. 9 Abs. 3 verlangt effektiven Rechtsschutz für Umweltverbände; nationales Recht muss unionsrechtskonform ausgelegt werden. Quelle: curia.europa.eu |
-| EuGH 20.12.2017, C-664/15 (Protect) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Umweltverband muss zumindest objektive Rechtsverletzungen rügen können; Aarhus Art. 9 Abs. 3 ist unmittelbar anwendbar. Quelle: curia.europa.eu |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Einwendung, Klagebegründung, Erwiderung, Nebenbestimmungsvorschlag oder Behördenvermerk ausformulieren
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -127,11 +124,6 @@ Arbeitsgriff Arbeitsprodukt: Einwendung, Klagebegründung, Erwiderung, Nebenbest
 
 - EuGH, Urteil vom 12.05.2011 - C-115/09: Anerkannte Umweltvereinigungen müssen sich im Anwendungsbereich des Umweltrechtsbehelfsgesetzes auf unionsrechtlich geprägte Umweltschutzvorschriften berufen können.
 - EuGH, Urteil vom 15.10.2015 - C-137/14: Der gerichtliche Rechtsschutz in Umweltangelegenheiten darf nicht generell auf Einwendungen beschränkt werden, die bereits im Verwaltungsverfahren erhoben wurden.
-- BVerwG 30.11.2023, 8 C 7.22 (Klage DUH/BUND auf Klimaschutz-Sofortprogramm Paragraf 8 KSG 2021): Aktivlegitimation und Klagebefugnis der nach Paragraf 3 UmwRG anerkannten Umweltvereinigungen für den Klimaschutzprogramm-Anspruch nach KSG.
-- EuGH 08.11.2016, C-243/15 (Lesoochranárske): Aarhus-Konvention Art. 9 Abs. 3 verlangt effektiven Rechtsschutz für Umweltverbände; nationales Recht muss unionsrechtskonform ausgelegt werden. Quelle: curia.europa.eu.
-- EuGH 20.12.2017, C-664/15 (Protect): Umweltverband muss zumindest objektive Rechtsverletzungen rügen können; Aarhus Art. 9 Abs. 3 ist unmittelbar anwendbar. Quelle: curia.europa.eu.
-- BVerwG 17.12.2020, 4 C 5.19: Umweltverband muss substanziiert darlegen, dass das Vorhaben gegen umweltbezogene Vorschriften verstößt; bloss formale Beanstandungen genügen nicht. Quelle: bverwg.de.
-- BVerwG 18.07.2019, 7 C 26.17: Anforderungen an UVP-Pflichtigkeit und Nachholbarkeit von Verfahrensfehlern; Aufhebung nur bei kausalen Verfahrensmängeln. Quelle: bverwg.de.
 
 ## 9. Prüfraster
 
@@ -204,13 +196,13 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. Bußgeld, Sanktionen und Anhörung im Umweltrecht
 
 Bearbeitungsauftrag: Normen OWiG Paragrafen 55 67 68 BImSchG Paragrafen 62 64 KrWG Paragrafen 69 70 WHG Paragraf 103 BNatSchG Paragrafen 69 71a Bußgeld bis 100000 EUR. Welches Umweltgesetz ist Grundlage (BImSchG Paragraf 62, KrWG Paragraf 69, WHG Paragraf 103, BNatSchG Paragraf 69)? Welcher Vorwurf genau — vorsätzlich oder fahrlassig (OWiG Paragraf 10)?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Normen OWiG Paragrafen 55 67 68 BImSchG Paragrafen 62 64 KrWG Paragrafen 69 70 WHG Paragraf 103 BNatSchG Paragrafen 69 71a Bußgeld bis 100000 EUR.
+Normbezug aus dem Fachmaterial: Normen OWiG Paragrafen 55 67 68 BImSchG Paragrafen 62 64 KrWG Paragrafen 69 70 WHG Paragraf 103 BNatSchG Paragrafen 69 71a Bußgeld bis 100000 EUR.
 Lieferstück: Fachvotum zu Bußgeld, Sanktionen und Anhörung im Umweltrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. Abfallrecht und Circular Economy
 
 Bearbeitungsauftrag: Ist der Stoff Abfall (Paragraf 3 Absatz 1 KrWG) oder liegt ein Nebenprodukt (Paragraf 4 KrWG) oder Ende der Abfalleigenschaft (Paragraf 5 KrWG) vor? Liegt gewerbliche Sammlung (Paragraf 17 Absatz 2 Nummer 4 KrWG) vor? Besteht Überlassungspflicht an öffentlich-rechtliche Entsorgungsträger (Paragraf 17 Absatz 1 KrWG)?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Ist der Stoff Abfall (Paragraf 3 Absatz 1 KrWG) oder liegt ein Nebenprodukt (Paragraf 4 KrWG) oder Ende der Abfalleigenschaft (Paragraf 5 KrWG) vor?
+Normbezug aus dem Fachmaterial: Ist der Stoff Abfall (Paragraf 3 Absatz 1 KrWG) oder liegt ein Nebenprodukt (Paragraf 4 KrWG) oder Ende der Abfalleigenschaft (Paragraf 5 KrWG) vor?
 Lieferstück: Fachvotum zu Abfallrecht und Circular Economy mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. Immissionsschutz und BImSchG
@@ -221,7 +213,7 @@ Lieferstück: Fachvotum zu Immissionsschutz und BImSchG mit Tatbestandsmerkmalen
 ### 16.4. Umweltinformation nach UIG und IFG
 
 Bearbeitungsauftrag: Liegt Umweltinformation (Paragraf 2 Absatz 3 UIG) vor oder allgemeine Behördeninformation (IFG)? Welche Behörde/Stelle — Behörde des Bundes (IFG/UIG Bund), Behörde des Landes (LIFG/LUIG)? Paragraf 3 Absatz 1 UIG — Anspruch auf Umweltinformationen (jedermann, keine Begründung).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Liegt Umweltinformation (Paragraf 2 Absatz 3 UIG) vor oder allgemeine Behördeninformation (IFG)?
+Normbezug aus dem Fachmaterial: Liegt Umweltinformation (Paragraf 2 Absatz 3 UIG) vor oder allgemeine Behördeninformation (IFG)?
 Lieferstück: Fachvotum zu Umweltinformation nach UIG und IFG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.5. ESG, CSRD und Greenwashing-Verteidigung
@@ -244,7 +236,7 @@ Lieferstück: Fachvotum zu Leitfaden wasserrechtliche Erlaubnis WHG mit Tatbesta
 ### 16.8. Naturschutz und Artenschutz
 
 Bearbeitungsauftrag: Liegt ein Eingriff in Natur und Landschaft vor (Paragraf 14 BNatSchG)? Können besonders/streng geschützte Arten betroffen sein (Paragraf 44 BNatSchG)? Liegt bestandskräftige Genehmigung vor oder läuft Verfahren?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Liegt ein Eingriff in Natur und Landschaft vor (Paragraf 14 BNatSchG)?
+Normbezug aus dem Fachmaterial: Liegt ein Eingriff in Natur und Landschaft vor (Paragraf 14 BNatSchG)?
 Lieferstück: Fachvotum zu Naturschutz und Artenschutz mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.9. Stoerfall, Anlagenbetrieb und Betreiberpflichten
@@ -258,14 +250,14 @@ Bearbeitungsauftrag: Argumentation: intertemporale Freiheits-Sicherung — heuti
 Prüfschritte: Klage-Konstellation (Verband Bürger Konzern als Beklagter); Streitgegenstand (Behörden-Maßnahme Bauleitplanung Genehmigung Klimaziel); Beteiligung im Verwaltungsverfahren (vorbringende Stellungnahme); Anerkannte Umwelt-Verbände-Mitgliedschaft.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.11. Compliance, Beauftragte und Schulung im Umweltrecht
-
-Bearbeitungsauftrag: Normen BImSchG Paragrafen 53-58 KrWG Paragrafen 59 60 WHG Paragrafen.
-Prüfschritte: Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Pläne erstellen für Immissionsschutzbeauftragte Abfallverantwortliche.
-Lieferstück: Kontrollvermerk zu Compliance, Beauftragte und Schulung im Umweltrecht mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
-
-### 16.12. LkSG und CSDDD — Lieferkettensorgfalt
+### 16.11. LkSG und CSDDD — Lieferkettensorgfalt
 
 Bearbeitungsauftrag: Umsetzungsfrist der Mitgliedstaaten: 26.7.2026. Hochrisiko-Sektoren mit reduzierten Schwellen (Textil Mineralien Forstwirtschaft Bau). EU-Niederlassungs-Bezug auch Drittstaaten-Unternehmen mit EU-Umsatz.
 Prüfschritte: Unternehmens-Größe (Beschäftigten-Zahl Umsatz); Sitz Deutschland / andere EU-Staaten; Konzern-Betrachtung Mutter-Tochter aggregiert; Auch ausländische Mütter mit deutscher Niederlassung über Schwelle; Rechtsnatur: Richtlinie (nicht Verordnung) — nationale Umsetzung erforderlich.
 Lieferstück: Fachvotum zu LkSG und CSDDD — Lieferkettensorgfalt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Umweltrechtliche Transaktions-Due-Diligence
+
+Bearbeitungsauftrag: Bearbeite Umweltrechtliche Transaktions-Due-Diligence entlang der Umwelt-, Planungs- und Infrastrukturrecht-Prüflinie: Vorhaben und Verfahrensart: Genehmigung, Planfeststellung, Erlaubnis oder Anzeige mit zuständiger Behörde bestimmen.
+Prüfschritte: (Share Deal: Haftung folgt Gesellschaft; Asset Deal: Einzelvermögensübertragung, Haftungsrückstand bleibt bei Verkäufer in Grenzen).
+Lieferstück: Fachvotum zu Umweltrechtliche Transaktions-Due-Diligence mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

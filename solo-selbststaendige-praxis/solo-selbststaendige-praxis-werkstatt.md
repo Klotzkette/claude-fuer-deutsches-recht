@@ -77,9 +77,9 @@ Arbeitsgriff Arbeitsprodukt: Angebot, Auftrag, Rechnung, Mahnung, Behördenantwo
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Steuern und Buchhaltung: Ordnet laptop | BGB Paragraf 611a und Paragraf 631 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Marketing E-Commerce und Plattformen | BGB Paragraf 611a und Paragraf 631 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | HGB Paragraf 84 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Wachstum Zusammenarbeit und Rechtsform: Prüft leadagentur | HGB Paragraf 84 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Steuern und Buchhaltung: Ordnet laptop | HGB Paragraf 84 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Angebot, Auftrag, Rechnung, Mahnung, Statusmatrix, Behördenantwort oder Monatscheck | Selbstständiger für Leistung, Rechnung, Belege und Abgaben; Auftraggeber oder Behörde für Einwendung, Statusbewertung und belastende Feststellung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -128,7 +128,7 @@ Arbeitsgriff Arbeitsprodukt: Angebot, Auftrag, Rechnung, Mahnung, Behördenantwo
 
 10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Angebot, Auftrag, Rechnung, Mahnung, Statusmatrix, Behördenantwort oder Monatscheck.
 10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BGB Paragraf 611a und Paragraf 631; HGB Paragraf 84.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Steuern und Buchhaltung: Ordnet laptop.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Marketing E-Commerce und Plattformen.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Solo-Selbstständigkeit tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Selbstständiger für Leistung, Rechnung, Belege und Abgaben; Auftraggeber oder Behörde für Einwendung, Statusbewertung und belastende Feststellung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Leistung, Abnahme, Vergütung und Mitwirkung sind vereinbart und belegt an.
@@ -168,10 +168,10 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
+| Marketing E-Commerce und Plattformen | Zuerst Anspruchsrichtung trennen: Lauterkeitsrecht nach den Paragrafen 3, 5, 5a, 8 und 13 UWG, Urheberrecht nach Paragraf 97a UrhG, Kennzeichenrecht nach den Paragrafen 14 und 15 MarkenG sowie Datenschutzrecht. | Fachvotum zu Marketing E-Commerce und Plattformen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Steuern und Buchhaltung: Ordnet laptop | Anschaffung, Einlage, Miete, Leasing und private Mitbenutzung unterscheiden; Anschaffungs- und Herstellungskosten nach Paragraf 6 EStG und Absetzung für Abnutzung nach Paragraf 7 EStG prüfen. | Fachvotum zu Steuern und Buchhaltung: Ordnet laptop mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Wachstum Zusammenarbeit und Rechtsform: Prüft leadagentur | Rollen tatsächlich statt nur vertraglich bestimmen: eigener Vertrag des Auftraggebers mit dem Endkunden, Unterbeauftragung, Handelsvertreterstellung nach Paragraf 84 HGB oder Eingliederung und Weisungsbindung. | Fachvotum zu Wachstum Zusammenarbeit und Rechtsform: Prüft leadagentur mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Dokumente und Kommunikation: Plant aufbewahrung | Handelsrechtliche Aufbewahrung nach Paragraf 257 HGB, steuerliche Aufbewahrung nach Paragraf 147 AO und datenschutzrechtliche Speicherbegrenzung nach Artikel 5 Absatz 1 Buchstabe e Datenschutz-Grundverordnung je Dokumentenklasse getrennt. | Akten- und Belegmatrix zu Dokumente und Kommunikation: Plant aufbewahrung mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
-| Marketing E-Commerce und Plattformen | Zuerst Anspruchsrichtung trennen: Lauterkeitsrecht nach den Paragrafen 3, 5, 5a, 8 und 13 UWG, Urheberrecht nach Paragraf 97a UrhG, Kennzeichenrecht nach den Paragrafen 14 und 15 MarkenG sowie Datenschutzrecht. | Fachvotum zu Marketing E-Commerce und Plattformen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Verträge und AGB: Erstellt schlanke agb ohne unwirksame überdehnung | AGB-Eigenschaft und Einbeziehung nach den Paragrafen 305 und 305a BGB vor der Inhaltskontrolle prüfen; Individualabrede nach Paragraf 305b BGB und überraschende Klausel nach Paragraf 305c BGB gesondert behandeln. | Fachvotum zu Verträge und AGB: Erstellt schlanke agb ohne unwirksame überdehnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | Internationales und Auslandskunden: Prüft reisekosten | Leistungsort und Umsatzsteuer nach Paragraf 3a UStG, Reisekosten und betriebliche Veranlassung nach EStG, anwendbares Vertragsrecht nach Rom-I-VO und internationale Zuständigkeit nach Brüssel-Ia-VO getrennt bestimmen. | Fachvotum zu Internationales und Auslandskunden: Prüft reisekosten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Krise Schulden und Neustart: Prüft faire beendigung ohne folgeschaden | Vertragstyp und Kündigungsregime zuerst bestimmen: Dauerschuldverhältnis nach Paragraf 314 BGB, Dienstvertrag nach den Paragrafen 620 bis 627 BGB oder Werkvertrag nach den Paragrafen 648 und 648a BGB. | Fachvotum zu Krise Schulden und Neustart: Prüft faire beendigung ohne folgeschaden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
@@ -182,55 +182,55 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Steuern und Buchhaltung: Ordnet laptop
+### 16.1. Marketing E-Commerce und Plattformen
+
+Bearbeitungsauftrag: Zuerst Anspruchsrichtung trennen: Lauterkeitsrecht nach den Paragrafen 3, 5, 5a, 8 und 13 UWG, Urheberrecht nach Paragraf 97a UrhG, Kennzeichenrecht nach den Paragrafen 14 und 15 MarkenG sowie Datenschutzrecht nach Artikel 82 Datenschutz-Grundverordnung folgen unterschiedlichen Anspruchsinhabern, Kostenregeln und Verteidigungslinien. Keine Unterlassungserklärung ungeprüft unterschreiben: Aktivlegitimation, konkrete Verletzungsform, Wiederholungsgefahr, Reichweite, Vertragsstrafe, Gegenstandswert und Kostendeckel getrennt prüfen.
+Prüfschritte: To-do-Liste mit Fristen und Belegen; konkreter Textbaustein oder Dokumentenplan; I ZR 7/16, Planet49, nur bei Einwilligungs- und Cookie-Fragen verwenden; I ZR 186/17, App-Zentrum III, nur für die Verbandsklagebefugnis bei bestimmten Datenschutzverstößen.
+Normbezug aus dem Fachmaterial: Kurzdiagnose in normalem Deutsch; To-do-Liste mit Fristen und Belegen; Risiko-/Geldfolge-Ampel; konkreter Textbaustein oder Dokumentenplan; Zuerst Anspruchsrichtung trennen: Lauterkeitsrecht nach den Paragrafen 3, 5, 5a, 8 und 13 UWG, Urheberrecht nach Paragraf 97a UrhG.
+Lieferstück: Fachvotum zu Marketing E-Commerce und Plattformen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.2. Steuern und Buchhaltung: Ordnet laptop
 
 Bearbeitungsauftrag: Anschaffung, Einlage, Miete, Leasing und private Mitbenutzung unterscheiden; Anschaffungs- und Herstellungskosten nach Paragraf 6 EStG und Absetzung für Abnutzung nach Paragraf 7 EStG prüfen. Nutzungsdauer aus der einschlägigen amtlichen AfA-Tabelle ableiten und Abweichungen belegen. Vorsteuerabzug nach Paragraf 15 UStG, Zuordnung zum Unternehmen und private Nutzungsanteile gesondert berechnen; Buchungsvorschlag, Belegliste und Abschreibungsplan ausgeben.
 Prüfschritte: To-do-Liste mit Fristen und Belegen; konkreter Textbaustein oder Dokumentenplan; Sofortabzug, geringwertiges Wirtschaftsgut, Sammelposten und reguläre Abschreibung nicht vermischen.
 Lieferstück: Fachvotum zu Steuern und Buchhaltung: Ordnet laptop mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. Wachstum Zusammenarbeit und Rechtsform: Prüft leadagentur
+### 16.3. Wachstum Zusammenarbeit und Rechtsform: Prüft leadagentur
 
 Bearbeitungsauftrag: Rollen tatsächlich statt nur vertraglich bestimmen: eigener Vertrag des Auftraggebers mit dem Endkunden, Unterbeauftragung, Handelsvertreterstellung nach Paragraf 84 HGB oder Eingliederung und Weisungsbindung nach Paragraf 7 SGB IV beziehungsweise Paragraf 611a BGB. Statusfeststellung nach Paragraf 7a SGB IV, Künstlersozialabgabe, Umsatzsteuer, Haftung für Unterauftragnehmer und Rechtekette an Arbeitsergebnissen getrennt prüfen.
 Prüfschritte: To-do-Liste mit Fristen und Belegen; konkreter Textbaustein oder Dokumentenplan; Ergebnis als Dreiecks-Matrix „Vertragspartner / Leistung / Geldfluss / Weisung / Haftung / Nutzungsrecht / Beleg“ ausgeben; eine bloße Bezeichnung als Agentur oder Freelancer entscheidet den Status nicht.
 Lieferstück: Fachvotum zu Wachstum Zusammenarbeit und Rechtsform: Prüft leadagentur mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Dokumente und Kommunikation: Plant aufbewahrung
+### 16.4. Dokumente und Kommunikation: Plant aufbewahrung
 
 Bearbeitungsauftrag: Handelsrechtliche Aufbewahrung nach Paragraf 257 HGB, steuerliche Aufbewahrung nach Paragraf 147 AO und datenschutzrechtliche Speicherbegrenzung nach Artikel 5 Absatz 1 Buchstabe e Datenschutz-Grundverordnung je Dokumentenklasse getrennt prüfen. Löschanspruch und Ausnahmen nach Artikel 17 Absatz 1 und Absatz 3 Datenschutz-Grundverordnung nicht mit gesetzlichen Aufbewahrungspflichten vermischen; nach Fristablauf Zweckbindung und Löschlauf festlegen.
 Prüfschritte: To-do-Liste mit Fristen und Belegen; konkreter Textbaustein oder Dokumentenplan; Verfahrensdokumentation, Unveränderbarkeit, Zugriffsrechte, Sicherung, Wiederherstellung und Löschprotokoll als prüfbare Archivmatrix liefern.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Kurzdiagnose in normalem Deutsch; To-do-Liste mit Fristen und Belegen; Risiko-/Geldfolge-Ampel; konkreter Textbaustein oder Dokumentenplan; Handelsrechtliche Aufbewahrung nach Paragraf 257 HGB, steuerliche Aufbewahrung nach Paragraf 147 AO und datenschutzrechtliche.
+Normbezug aus dem Fachmaterial: Kurzdiagnose in normalem Deutsch; To-do-Liste mit Fristen und Belegen; Risiko-/Geldfolge-Ampel; konkreter Textbaustein oder Dokumentenplan; Handelsrechtliche Aufbewahrung nach Paragraf 257 HGB, steuerliche Aufbewahrung nach Paragraf 147 AO und datenschutzrechtliche.
 Lieferstück: Akten- und Belegmatrix zu Dokumente und Kommunikation: Plant aufbewahrung mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
-
-### 16.4. Marketing E-Commerce und Plattformen
-
-Bearbeitungsauftrag: Zuerst Anspruchsrichtung trennen: Lauterkeitsrecht nach den Paragrafen 3, 5, 5a, 8 und 13 UWG, Urheberrecht nach Paragraf 97a UrhG, Kennzeichenrecht nach den Paragrafen 14 und 15 MarkenG sowie Datenschutzrecht nach Artikel 82 Datenschutz-Grundverordnung folgen unterschiedlichen Anspruchsinhabern, Kostenregeln und Verteidigungslinien. Keine Unterlassungserklärung ungeprüft unterschreiben: Aktivlegitimation, konkrete Verletzungsform, Wiederholungsgefahr, Reichweite, Vertragsstrafe, Gegenstandswert und Kostendeckel getrennt prüfen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Kurzdiagnose in normalem Deutsch; To-do-Liste mit Fristen und Belegen; Risiko-/Geldfolge-Ampel; konkreter Textbaustein oder Dokumentenplan; Zuerst Anspruchsrichtung trennen: Lauterkeitsrecht nach den Paragrafen 3, 5, 5a, 8 und 13 UWG, Urheberrecht nach Paragraf 97a UrhG.
-Lieferstück: Fachvotum zu Marketing E-Commerce und Plattformen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.5. Verträge und AGB: Erstellt schlanke agb ohne unwirksame überdehnung
 
 Bearbeitungsauftrag: AGB-Eigenschaft und Einbeziehung nach den Paragrafen 305 und 305a BGB vor der Inhaltskontrolle prüfen; Individualabrede nach Paragraf 305b BGB und überraschende Klausel nach Paragraf 305c BGB gesondert behandeln. Die Paragrafen 308 und 309 BGB gelten im Unternehmerverkehr nicht unmittelbar, ihre Wertungen können über Paragraf 307 in Verbindung mit Paragraf 310 Absatz 1 BGB Bedeutung gewinnen. Teilbarkeit nur bei selbständig verständlichen Regelungen prüfen; immer eine rechtssichere Ersatzfassung liefern.
-Prüfschritte: To-do-Liste mit Fristen und Belegen; konkreter Textbaustein oder Dokumentenplan; Verbraucher- und Unternehmerverträge unterscheiden.
+Prüfschritte: To-do-Liste mit Fristen und Belegen; konkreter Textbaustein oder Dokumentenplan; Verbraucher- und Unternehmerverträge unterscheiden; XI ZR 234/20, Randnummer 51: Keine geltungserhaltende Reduktion.
 Lieferstück: Fachvotum zu Verträge und AGB: Erstellt schlanke agb ohne unwirksame überdehnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.6. Internationales und Auslandskunden: Prüft reisekosten
 
 Bearbeitungsauftrag: Leistungsort und Umsatzsteuer nach Paragraf 3a UStG, Reisekosten und betriebliche Veranlassung nach EStG, anwendbares Vertragsrecht nach Rom-I-VO und internationale Zuständigkeit nach Brüssel-Ia-VO getrennt bestimmen. Bei Zugriff auf personenbezogene Daten außerhalb des EWR Kapitel V Datenschutz-Grundverordnung, Drittland, Zugriffsbefugnisse, Standardvertragsklauseln und ergänzende Schutzmaßnahmen prüfen; bloßer Cloud-Speicherort und tatsächlicher Fernzugriff sind zu unterscheiden.
 Prüfschritte: To-do-Liste mit Fristen und Belegen; konkreter Textbaustein oder Dokumentenplan; Reisebelege, Auftrag, Leistungsort, Datenflüsse, Gerätezugriffe, Währung und Umrechnungskurs in einer Nachweismatrix zusammenführen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Kurzdiagnose in normalem Deutsch; To-do-Liste mit Fristen und Belegen; Risiko-/Geldfolge-Ampel; konkreter Textbaustein oder Dokumentenplan; Leistungsort und Umsatzsteuer nach Paragraf 3a UStG, Reisekosten und betriebliche Veranlassung nach EStG, anwendbares Vertragsrecht.
+Normbezug aus dem Fachmaterial: Kurzdiagnose in normalem Deutsch; To-do-Liste mit Fristen und Belegen; Risiko-/Geldfolge-Ampel; konkreter Textbaustein oder Dokumentenplan; Leistungsort und Umsatzsteuer nach Paragraf 3a UStG, Reisekosten und betriebliche Veranlassung nach EStG, anwendbares Vertragsrecht.
 Lieferstück: Fachvotum zu Internationales und Auslandskunden: Prüft reisekosten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.7. Krise Schulden und Neustart: Prüft faire beendigung ohne folgeschaden
 
 Bearbeitungsauftrag: Vertragstyp und Kündigungsregime zuerst bestimmen: Dauerschuldverhältnis nach Paragraf 314 BGB, Dienstvertrag nach den Paragrafen 620 bis 627 BGB oder Werkvertrag nach den Paragrafen 648 und 648a BGB. Bei freier Kündigung eines Werkvertrags die Vergütungsfolge nach Paragraf 648 Satz 2 BGB anhand vereinbarter Vergütung, ersparter Aufwendungen und anderweitigen Erwerbs rechnen; diese Abrechnung nicht auf Dienst- oder Agenturverträge übertragen. Liefere Kündigungsentwurf, Übergabeplan und Forderungsrechnung.
 Prüfschritte: To-do-Liste mit Fristen und Belegen; konkreter Textbaustein oder Dokumentenplan; Kündigungsgrund, erforderliche Abmahnung, Erklärungsfrist, Zugang, offene Vergütung, Herausgabe, Nutzungsrechte, Datenschutz und geordnete Übergabe getrennt prüfen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Kurzdiagnose in normalem Deutsch; To-do-Liste mit Fristen und Belegen; Risiko-/Geldfolge-Ampel; konkreter Textbaustein oder Dokumentenplan; Vertragstyp und Kündigungsregime zuerst bestimmen: Dauerschuldverhältnis nach Paragraf 314 BGB, Dienstvertrag nach den Paragrafen.
 Lieferstück: Fachvotum zu Krise Schulden und Neustart: Prüft faire beendigung ohne folgeschaden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.8. Datenschutz IT und Website
 
 Bearbeitungsauftrag: Für jede Datenklasse Rechtsgrundlage, Zweck, Beginn und Ende der handels- oder steuerrechtlichen Aufbewahrung nach Paragraf 257 HGB beziehungsweise Paragraf 147 AO bestimmen. Artikel 17 Absatz 3 Datenschutz-Grundverordnung begründet Ausnahmen vom Löschanspruch, aber keine unbegrenzte Vorratsspeicherung. Technische Löschung, Sperrung, Backup-Zyklus, Auftragsverarbeiter und Nachweis der Löschung in einen Verantwortungs- und Terminplan überführen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Kurzdiagnose in normalem Deutsch; To-do-Liste mit Fristen und Belegen; Risiko-/Geldfolge-Ampel; konkreter Textbaustein oder Dokumentenplan; Für jede Datenklasse Rechtsgrundlage, Zweck, Beginn und Ende der handels- oder steuerrechtlichen Aufbewahrung nach Paragraf 257 HGB.
+Normbezug aus dem Fachmaterial: Kurzdiagnose in normalem Deutsch; To-do-Liste mit Fristen und Belegen; Risiko-/Geldfolge-Ampel; konkreter Textbaustein oder Dokumentenplan; Für jede Datenklasse Rechtsgrundlage, Zweck, Beginn und Ende der handels- oder steuerrechtlichen Aufbewahrung nach Paragraf 257 HGB.
 Lieferstück: Fachvotum zu Datenschutz IT und Website mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.9. Scheinselbstständigkeit und Status: Ordnet freie mitarbeit
@@ -250,7 +250,7 @@ Bearbeitungsauftrag: Angebot und Annahme nach den Paragrafen 145 bis 151 BGB, Zu
 Prüfschritte: To-do-Liste mit Fristen und Belegen; konkreter Textbaustein oder Dokumentenplan; Vorformulierte Vertragsbedingungen an den Paragrafen 305 bis 310 BGB messen.
 Lieferstück: Fachvotum zu Verträge und AGB: Macht aus whatsapp mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Status und Anmeldung
+### 16.12. Grenzen Compliance und Selbstschutz: Plant arbeitslast
 
-Bearbeitungsauftrag: Vertragswirklichkeit, Weisung, Eingliederung, Unternehmerrisiko, Statusverfahren und erforderliche Anzeigen prüfen.
-Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
+Bearbeitungsauftrag: Bearbeite Grenzen Compliance und Selbstschutz: Plant arbeitslast: tätigkeit, Status, Vertrag, Leistung, Rechnung, Abgabe, Beleg, Zahlung und nächstes Geschäfts- oder Behördendokument ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: Kontrollvermerk zu Grenzen Compliance und Selbstschutz: Plant arbeitslast mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.

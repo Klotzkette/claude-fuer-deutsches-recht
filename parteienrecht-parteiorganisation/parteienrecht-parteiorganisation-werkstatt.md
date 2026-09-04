@@ -232,17 +232,17 @@ Lieferstück: Fachvotum zu Rechenschaftsbericht mit Tatbestandsmerkmalen, Aktenf
 Bearbeitungsauftrag: Prüfschritt: Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind. Prüfschritt: Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan. Antragsteller: Person/Gremium nach Satzung antragsberechtigt.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
-### 16.10. Mitgliederdaten Datenschutz-Grundverordnung
-
-Bearbeitungsauftrag: Bearbeite Mitgliederdaten Datenschutz-Grundverordnung: rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Lieferstück: Fachvotum zu Mitgliederdaten Datenschutz-Grundverordnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.11. Befangenheit und Sitzungsleitung
+### 16.10. Befangenheit und Sitzungsleitung
 
 Bearbeitungsauftrag: Bearbeite Befangenheit und Sitzungsleitung entlang der Parteienrecht und Parteiorganisation-Prüflinie: Mitglied oder Bewerber: Status, Stimmrecht, Wählbarkeit, Chancengleichheit, Gehör, Befangenheit und Dokumentation sichern.
 Lieferstück: Fachvotum zu Befangenheit und Sitzungsleitung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Kassenführung Gebietsverband
+### 16.11. Kassenführung Gebietsverband
 
 Bearbeitungsauftrag: Bearbeite Kassenführung Gebietsverband entlang der Parteienrecht und Parteiorganisation-Prüflinie: Zuständigkeit und Verfahren: Organ, Gebietsverband, Einladung, Frist, Antragsrecht, Tagesordnung, Delegation und Öffentlichkeit prüfen.
 Lieferstück: Fachvotum zu Kassenführung Gebietsverband mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Kooperationen und Listenverbindungen
+
+Bearbeitungsauftrag: Bearbeite Kooperationen und Listenverbindungen entlang der Parteienrecht und Parteiorganisation-Prüflinie: Regelwerk: aktuelle Bundessatzung, Gliederungssatzung, Wahlordnung, Schiedsordnung und gesetzliche Ebene feststellen.
+Lieferstück: Fachvotum zu Kooperationen und Listenverbindungen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

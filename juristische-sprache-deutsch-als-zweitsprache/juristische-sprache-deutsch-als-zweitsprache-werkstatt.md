@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenb
 | --- | --- | --- | --- |
 | Arbeitsfrage | Familienrecht Warnwörter | GG Artikel 20 Absatz 3 | Kurzbefund mit Maßstab und offener Annahme |
 | Quellen- und Datenbasis | Fundstellen, Datengrundlage, Geltungsstand und Belastbarkeit | BGB Paragraf 133 und Paragraf 157 | Evidenz- oder Rechenmatrix mit Kontrollspur |
-| Gegenhypothese | Strafrechtliche Warnwörter | BGB Paragraf 133 und Paragraf 157 | Argumentvergleich mit tragendem Unterschied |
+| Gegenhypothese | Ausländerrecht Warnwörter | BGB Paragraf 133 und Paragraf 157 | Argumentvergleich mit tragendem Unterschied |
 | Arbeitsprodukt | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | ausformuliertes Gutachten-, Lösungs-, Antrags- oder Bewertungsstück |
 
 ## 5. Maßstäbe, Kernfragen, Evidenz und Folgerung
@@ -167,10 +167,10 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Familienrecht Warnwörter | Scheidungsantrag: leitet Scheidungsverfahren ein; Trennungsjahr Pflicht (Paragraf 1565 BGB), Ausnahme Härtescheidung (Paragraf 1565 Absatz 2 BGB). | Teilbefund zu Familienrecht Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
-| Strafrechtliche Warnwörter | Anhörung Bußgeldverfahren: Paragraf 55 OWiG; Schweigen ist erlaubt. Das Gericht würdigt es nach Paragraf 261 StPO im Zusammenhang mit den übrigen Beweisen. | Teilbefund zu Strafrechtliche Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Ausländerrecht Warnwörter | Verzicht auf Anhörungsrecht im Asylverfahren: Nie verzichten -- Anhörung ist Kernstück (Paragraf 25 AsylG). Folgeantrag: nur unter engen Voraussetzungen (Paragraf 71 AsylG); Beratung nutzen. | Teilbefund zu Ausländerrecht Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Arbeitsrecht Warnwörter | Verzicht auf Annahmeverzugslohn (Paragraf 615 BGB): verzichtet auf Lohn während des Streits. "Sofort" in Bezug auf Frist: 3-Wochen-Klagefrist nach Kündigungsschutzgesetz (Paragraf 4 KSchG) ist absolut. | Teilbefund zu Arbeitsrecht Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Mietrecht Warnwörter | Mietaufhebungsvertrag: Vertrag wird einvernehmlich beendet -- keine Kündigungsschutzrechte (Paragraf 568 BGB Wohnraum, Paragraf 573 BGB Eigenbedarf entfällt). | Teilbefund zu Mietrecht Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
+| Strafrechtliche Warnwörter | Anhörung Bußgeldverfahren: Paragraf 55 OWiG; Schweigen ist erlaubt. Das Gericht würdigt es nach Paragraf 261 StPO im Zusammenhang mit den übrigen Beweisen. | Teilbefund zu Strafrechtliche Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Zivilprozess Warnwörter | Klage (Paragraf 253 ZPO): gerichtliche Anspruchsdurchsetzung; Frist zur Verteidigungsanzeige durch Gericht gesetzt; nicht Antworten = Versäumnisurteil (Paragraf 331 ZPO). Klagerücknahme: Paragraf 269 ZPO. | Teilbefund zu Zivilprozess Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Sozialrecht Warnwörter | Erstattungsbescheid (Paragraf 50 SGB X): Forderung der Behörde zurück; oft mit Frist 1 Monat. Aufhebungsbescheid (Paragraf 48 SGB X): Änderung der Verhältnisse; Anhörungspflicht (Paragraf 24 SGB X). | Teilbefund zu Sozialrecht Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Aktenzeichen und Betreff | Soll die Antwort einfach erklären, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen? Formale Fassung Gib eine kurze, höfliche und klare Formulierung aus. | Akten- und Belegmatrix zu Aktenzeichen und Betreff mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
@@ -184,49 +184,47 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Scheidungsantrag: leitet Scheidungsverfahren ein; Trennungsjahr Pflicht (Paragraf 1565 BGB), Ausnahme Härtescheidung (Paragraf 1565 Absatz 2 BGB). Bei einer Ehezeit bis zu drei Jahren findet er nach Paragraf 3 Absatz 3 VersAusglG nur statt, wenn ein Ehegatte ihn beantragt. Zugewinnausgleich: Paragraf 1378 BGB; Vermögensbilanz Anfang/Ende der Ehe; Auskunftspflicht Paragraf 1379 BGB.
 Prüfschritte: Nicht "Probetrennung" mit Versöhnung verwechseln, sonst beginnt das Trennungsjahr von vorn; Versorgungsausgleich: Ausgleich der in der Ehe erworbenen Renten- und Versorgungsanrechte nach Paragrafen 1, 3, 10 VersAusglG; Sorgeerklärung (Paragraf 1626a BGB) bei nichtehelich Geborenen: Achtung -- Sorgerecht teilen, unwiderruflich; Verzicht auf Trennungsunterhalt / nachehelichen Unterhalt: oft im Ehevertrag.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Scheidungsantrag: leitet Scheidungsverfahren ein; Trennungsjahr Pflicht (Paragraf 1565 BGB), Ausnahme Härtescheidung (Paragraf 1565 Absatz 2 BGB); Trennungsjahr: Paragraf 1567 BGB; nicht "Probetrennung" mit Versöhnung verwechseln, sonst beginnt das Trennungsjahr von vorn.
+Normbezug aus dem Fachmaterial: Scheidungsantrag: leitet Scheidungsverfahren ein; Trennungsjahr Pflicht (Paragraf 1565 BGB), Ausnahme Härtescheidung (Paragraf 1565 Absatz 2 BGB); Trennungsjahr: Paragraf 1567 BGB; nicht "Probetrennung" mit Versöhnung verwechseln, sonst beginnt das Trennungsjahr von vorn.
 Lieferstück: Teilbefund zu Familienrecht Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.2. Strafrechtliche Warnwörter
-
-Bearbeitungsauftrag: Anhörung Bußgeldverfahren: Paragraf 55 OWiG; Schweigen ist erlaubt. Das Gericht würdigt es nach Paragraf 261 StPO im Zusammenhang mit den übrigen Beweisen; ein falsches oder missverstandenes Geständnis kann erhebliche Folgen haben. Verwarnung mit Strafvorbehalt (Paragraf 59 StGB): keine Strafe sofort, aber kann nachgeholt werden.
-Prüfschritte: Beschuldigter: gegen Sie wird ermittelt; Sie haben das Recht zu schweigen (Paragraf 136 Absatz 1 StPO) und einen Anwalt hinzuzuziehen; Vernehmung als Beschuldigter: vor jeder Vernehmung muss die Belehrung nach Paragraf 136 StPO erfolgen; Geständnis: ist ein Beweismittel, aber weder für Gericht noch Staatsanwaltschaft bindend; Einlassung: jede Aussage zur Sache ist eine Einlassung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Sie haben das Recht zu schweigen (Paragraf 136 Absatz 1 StPO) und einen Anwalt hinzuzuziehen; Vernehmung als Beschuldigter: vor jeder Vernehmung muss die Belehrung nach Paragraf 136 StPO erfolgen; Beschuldigter: gegen Sie wird ermittelt; Sie haben das Recht zu schweigen (Paragraf 136 Absatz 1 StPO) und einen Anwalt hinzuzuziehen.
-Lieferstück: Teilbefund zu Strafrechtliche Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
-
-### 16.3. Ausländerrecht Warnwörter
+### 16.2. Ausländerrecht Warnwörter
 
 Bearbeitungsauftrag: Verzicht auf Anhörungsrecht im Asylverfahren: Nie verzichten -- Anhörung ist Kernstück (Paragraf 25 AsylG). Folgeantrag: nur unter engen Voraussetzungen (Paragraf 71 AsylG); Beratung nutzen. Mitwirkungspflicht (Paragraf 15 AsylG / Paragraf 82 AufenthG): aktive Mitwirkung an Identitätsklärung, Reisepass besorgen.
 Prüfschritte: Ausreiseaufforderung: Pflicht zum Verlassen Deutschlands binnen Frist; Abschiebungsandrohung (Paragraf 59 AufenthG): nach Frist droht zwangsweise Rückführung; Duldung (Paragraf 60a AufenthG): vorläufige Aussetzung der Abschiebung -- kein Aufenthaltstitel; Bestandskraft / Unanfechtbarkeit: Bescheid kann nicht mehr angefochten werden, wenn Frist versäumt; Widerruf / Rücknahme des Aufenthaltstitels (Paragrafen 51, 52 AufenthG).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Ausreiseaufforderung: Pflicht zum Verlassen Deutschlands binnen Frist; Abschiebungsandrohung (Paragraf 59 AufenthG): nach Frist droht zwangsweise Rückführung; Duldung (Paragraf 60a AufenthG): vorläufige Aussetzung der Abschiebung -- kein Aufenthaltstitel.
+Normbezug aus dem Fachmaterial: Ausreiseaufforderung: Pflicht zum Verlassen Deutschlands binnen Frist; Abschiebungsandrohung (Paragraf 59 AufenthG): nach Frist droht zwangsweise Rückführung; Duldung (Paragraf 60a AufenthG): vorläufige Aussetzung der Abschiebung -- kein Aufenthaltstitel.
 Lieferstück: Teilbefund zu Ausländerrecht Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.4. Arbeitsrecht Warnwörter
+### 16.3. Arbeitsrecht Warnwörter
 
 Bearbeitungsauftrag: Verzicht auf Annahmeverzugslohn (Paragraf 615 BGB): verzichtet auf Lohn während des Streits. "Sofort" in Bezug auf Frist: 3-Wochen-Klagefrist nach Kündigungsschutzgesetz (Paragraf 4 KSchG) ist absolut. Kann ich die 3-Wochen-Frist nach Paragraf 4 KSchG erhalten?
 Prüfschritte: Aufhebungsvertrag (Ende des Arbeitsverhältnisses einvernehmlich): kann Sperrzeit beim Arbeitslosengeld auslösen (Paragraf 159 SGB III); Eigenkündigung: ebenfalls Sperrzeit-Gefahr; Abwicklungsvertrag: regelt Folgen der Kündigung; Ausgleichsklausel / Erledigungsklausel: "Mit Erfüllung dieser Vereinbarung sind alle Ansprüche erledigt." -- erfasst auch unbekannte Ansprüche; Klageverzicht: macht Kündigungsschutzklage unmöglich.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Aufhebungsvertrag (Ende des Arbeitsverhältnisses einvernehmlich): kann Sperrzeit beim Arbeitslosengeld auslösen (Paragraf 159 SGB III); Eigenkündigung: ebenfalls Sperrzeit-Gefahr; Abwicklungsvertrag: regelt Folgen der Kündigung; oft Klageverzicht enthalten.
+Normbezug aus dem Fachmaterial: Aufhebungsvertrag (Ende des Arbeitsverhältnisses einvernehmlich): kann Sperrzeit beim Arbeitslosengeld auslösen (Paragraf 159 SGB III); Eigenkündigung: ebenfalls Sperrzeit-Gefahr; Abwicklungsvertrag: regelt Folgen der Kündigung; oft Klageverzicht enthalten.
 Lieferstück: Teilbefund zu Arbeitsrecht Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.5. Mietrecht Warnwörter
+### 16.4. Mietrecht Warnwörter
 
 Bearbeitungsauftrag: Mietaufhebungsvertrag: Vertrag wird einvernehmlich beendet -- keine Kündigungsschutzrechte (Paragraf 568 BGB Wohnraum, Paragraf 573 BGB Eigenbedarf entfällt). Verzicht auf Kündigungsschutz: kann nichtig sein, aber besser nicht unterschreiben. Mieterhöhungsverlangen "Zustimmung": Paragraf 558 BGB; Zustimmung nicht überhastet erteilen, Vergleichsmiete prüfen.
 Prüfschritte: Räumungsvereinbarung / Räumungsvergleich: Mieter verpflichtet sich zu Auszug bis Datum X; ohne Auszug Zwangsvollstreckung sofort; Anerkenntnis der Mietrückstände: erleichtert dem Vermieter Klage und Vollstreckung; Schönheitsreparaturen "renoviert übergeben": BGH hat starre Quotenklauseln und Renovierungspflichten bei unrenoviert übergebener Wohnung mehrfach für unwirksam erklärt -- vor Unterschrift prüfen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Mietaufhebungsvertrag: Vertrag wird einvernehmlich beendet -- keine Kündigungsschutzrechte (Paragraf 568 BGB Wohnraum, Paragraf 573 BGB Eigenbedarf entfällt); Räumungsvereinbarung / Räumungsvergleich: Mieter verpflichtet sich zu Auszug bis Datum X.
+Normbezug aus dem Fachmaterial: Mietaufhebungsvertrag: Vertrag wird einvernehmlich beendet -- keine Kündigungsschutzrechte (Paragraf 568 BGB Wohnraum, Paragraf 573 BGB Eigenbedarf entfällt); Räumungsvereinbarung / Räumungsvergleich: Mieter verpflichtet sich zu Auszug bis Datum X.
 Lieferstück: Teilbefund zu Mietrecht Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+
+### 16.5. Strafrechtliche Warnwörter
+
+Bearbeitungsauftrag: Anhörung Bußgeldverfahren: Paragraf 55 OWiG; Schweigen ist erlaubt. Das Gericht würdigt es nach Paragraf 261 StPO im Zusammenhang mit den übrigen Beweisen; ein falsches oder missverstandenes Geständnis kann erhebliche Folgen haben.
+Prüfschritte: Beschuldigter: gegen Sie wird ermittelt; Sie haben das Recht zu schweigen (Paragraf 136 Absatz 1 StPO) und einen Anwalt hinzuzuziehen; Vernehmung als Beschuldigter: vor jeder Vernehmung muss die Belehrung nach Paragraf 136 StPO erfolgen; Geständnis: ist ein Beweismittel, aber weder für Gericht noch Staatsanwaltschaft bindend; Einlassung: jede Aussage zur Sache ist eine Einlassung.
+Normbezug aus dem Fachmaterial: Sie haben das Recht zu schweigen (Paragraf 136 Absatz 1 StPO) und einen Anwalt hinzuzuziehen; Vernehmung als Beschuldigter: vor jeder Vernehmung muss die Belehrung nach Paragraf 136 StPO erfolgen.
+Lieferstück: Teilbefund zu Strafrechtliche Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
 ### 16.6. Zivilprozess Warnwörter
 
 Bearbeitungsauftrag: Klage (Paragraf 253 ZPO): gerichtliche Anspruchsdurchsetzung; Frist zur Verteidigungsanzeige durch Gericht gesetzt; nicht Antworten = Versäumnisurteil (Paragraf 331 ZPO). Klagerücknahme: Paragraf 269 ZPO; nicht ohne Beratung. Vergleich (Paragraf 779 BGB): vertraglich bindend; oft unwiderruflich.
 Prüfschritte: Mahnbescheid (Paragraf 692 ZPO): gerichtliche Aufforderung zur Zahlung; Widerspruch binnen 2 Wochen (Paragraf 694 ZPO) per beigefügtem Formular -- sonst Vollstreckungsbescheid; Vollstreckungsbescheid (Paragraf 699 ZPO): wirkt wie Urteil; Einspruch binnen 2 Wochen (Paragraf 700 ZPO); Versäumnisurteil: ergeht ohne Verhandlung, wenn man nicht reagiert.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Mahnbescheid (Paragraf 692 ZPO): gerichtliche Aufforderung zur Zahlung; Widerspruch binnen 2 Wochen (Paragraf 694 ZPO) per beigefügtem Formular -- sonst Vollstreckungsbescheid; Vollstreckungsbescheid (Paragraf 699 ZPO): wirkt wie Urteil; Mahnbescheid (Paragraf 692 ZPO): gerichtliche Aufforderung zur Zahlung.
+Normbezug aus dem Fachmaterial: Mahnbescheid (Paragraf 692 ZPO): gerichtliche Aufforderung zur Zahlung; Widerspruch binnen 2 Wochen (Paragraf 694 ZPO) per beigefügtem Formular -- sonst Vollstreckungsbescheid; Vollstreckungsbescheid (Paragraf 699 ZPO): wirkt wie Urteil.
 Lieferstück: Teilbefund zu Zivilprozess Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
 ### 16.7. Sozialrecht Warnwörter
 
 Bearbeitungsauftrag: Erstattungsbescheid (Paragraf 50 SGB X): Forderung der Behörde zurück; oft mit Frist 1 Monat. Aufhebungsbescheid (Paragraf 48 SGB X): Änderung der Verhältnisse; Anhörungspflicht (Paragraf 24 SGB X). Widerspruch (Paragraf 84 SGG): 1 Monat ab Bekanntgabe; bei Auslandszustellung 3 Monate.
-Prüfschritte: Mitwirkungspflicht (Paragraf 60 SGB I): bei Verletzung Leistungskürzung oder -versagung; Termine immer wahrnehmen oder absagen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Mitwirkungspflicht (Paragraf 60 SGB I): bei Verletzung Leistungskürzung oder -versagung; Termine immer wahrnehmen oder absagen.
 Lieferstück: Teilbefund zu Sozialrecht Warnwörter mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
 ### 16.8. Aktenzeichen und Betreff

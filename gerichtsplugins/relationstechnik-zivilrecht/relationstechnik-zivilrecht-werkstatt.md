@@ -80,7 +80,7 @@ Entscheidungsgriff Arbeitsprodukt: Hinweisverfügung, Beweisbeschluss, Vergleich
 | Streit- und Verfahrenskern | Aktenaufnahme und Prozesslage | ZPO Paragraf 139 | richterlicher Arbeitsvermerk mit nächster Verfügung |
 | Zulässigkeit und Gehör | Antrag, Zuständigkeit, Parteistellung, Frist und Anhörung | ZPO Paragraf 253 und Paragraf 138 | Hinweis-, Auflagen- oder Zwischenentscheidungsentwurf |
 | Beweis und Würdigung | Streitgegenstand und Anspruchsreihenfolge | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Beweisplan oder Beweisbeschluss mit Entscheidungsreife |
-| Tenor und Anschluss | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren | BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 | Tenor, Gründe, Kosten, Vollstreckbarkeit und Rechtsmittelbelehrung |
+| Tenor und Anschluss | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren | ZPO Paragraf 253 und Paragraf 138 | Tenor, Gründe, Kosten, Vollstreckbarkeit und Rechtsmittelbelehrung |
 
 ## 5. Rechtsanker, Entscheidungsmerkmale, Beweislast und Tenorfolge
 
@@ -92,14 +92,11 @@ Entscheidungsgriff Arbeitsprodukt: Hinweisverfügung, Beweisbeschluss, Vergleich
 | ZPO Paragraf 300 ff. und Paragraf 313 | Endurteil und Urteilsinhalt | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren |
 | ZPO Paragraf 278 | gütliche Streitbeilegung und Güteverhandlung | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren |
 | GVG Paragraf 21e ff | Geschäftsverteilung und gesetzlicher Richter | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren |
-| Paragraf 138 ZPO für Vortrag, Paragraf 286 ZPO für Überzeugungsbildung, Paragraf 287 ZPO | Paragraf 138 ZPO für Vortrag, Paragraf 286 ZPO für Überzeugungsbildung, Paragraf 287 ZPO für Schadensschätzung, Paragraf 296 ZPO für Verspätung und Paragraf 313 ZPO für Urteilsaufbau | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren |
+| Paragraf 138 ZPO für Vortrag, Paragraf 286 ZPO für Überzeugungsbildung, Paragraf 287 ZPO | Paragraf 138 ZPO für Vortrag, Paragraf 286 ZPO für Überzeugungsbildung, Paragraf 287 ZPO für Schadensschätzung, Paragraf 296 ZPO für Verspätung und Paragraf 313 ZPO für Urteilsaufbau werden sichtbar abgearbeitet | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Entscheidungswirkung
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird. 1 |
-| BGH, Urteil vom 1. Oktober 2019, VI ZR 164/18 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Auch bei behaupteter Unfallmanipulation bleibt eine Überzeugung nach Paragraf 286 ZPO erforderlich. Keine starre Indizienliste verwenden |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -111,13 +108,12 @@ Entscheidungsgriff Arbeitsprodukt: Hinweisverfügung, Beweisbeschluss, Vergleich
 - ZPO Paragraf 300 ff. und Paragraf 313: Endurteil und Urteilsinhalt.
 - ZPO Paragraf 278: gütliche Streitbeilegung und Güteverhandlung.
 - GVG Paragraf 21e ff.: Geschäftsverteilung und gesetzlicher Richter.
-- Paragraf 138 ZPO für Vortrag, Paragraf 286 ZPO für Überzeugungsbildung, Paragraf 287 ZPO für Schadensschätzung, Paragraf 296 ZPO für Verspätung und Paragraf 313 ZPO für Urteilsaufbau; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 253, 256, 263, 264, 269, 286, 287, 296, 313 ZPO bilden den Pflichtstamm für Antrag, Feststellung, Klageänderung, Rücknahme, Beweiswürdigung, Schätzung, Präklusion; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 138 ZPO für Vortrag, Paragraf 286 ZPO für Überzeugungsbildung, Paragraf 287 ZPO für Schadensschätzung, Paragraf 296 ZPO für Verspätung und Paragraf 313 ZPO für Urteilsaufbau werden sichtbar abgearbeitet; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 253, 256, 263, 264, 269, 286, 287, 296, 313 ZPO bilden den Pflichtstamm für Antrag, Feststellung, Klageänderung, Rücknahme, Beweiswürdigung, Schätzung, Präklusion und Urteilsaufbau; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird. 1.
-- BGH, Urteil vom 1. Oktober 2019, VI ZR 164/18: Auch bei behaupteter Unfallmanipulation bleibt eine Überzeugung nach Paragraf 286 ZPO erforderlich. Keine starre Indizienliste verwenden.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -139,7 +135,7 @@ Entscheidungsgriff Arbeitsprodukt: Hinweisverfügung, Beweisbeschluss, Vergleich
 10.6. Gegenposition: Formuliere den stärksten Gegenantrag oder die tragfähigste abweichende Würdigung; sie setzt typischerweise bei welche Tatsache ist streitig, beweisbedürftig und wem zur Last an.
 10.7. Würdigung: Antworte mit Aktenbeleg, Beweiswürdigung, Auslegung oder Beweislastregel und ziehe die Folge auf Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren.
 10.8. Förmliches Produkt: Schließe mit Relationszeile: Anspruch, Klägervortrag, Bestreiten, Beweislast, Beweismittel, Ergebnis; Beweisbeschluss: Beweisthema, Beweismittel, Auflagen, Vorschuss, Termin; Rubrum, Tenor, Gründe, Nebenentscheidungen und Anschlussverfügung müssen zusammenpassen.
-10.9. Rechtsprechungsstatus: Ordne jede Entscheidung nach Bindungswirkung und Aussagekern ein; erste Fallanker sind BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395; BGH, Urteil vom 1. Oktober 2019, VI ZR 164/18.
+10.9. Rechtsprechungsstatus: Ordne jede Entscheidung nach Bindungswirkung und Aussagekern ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 

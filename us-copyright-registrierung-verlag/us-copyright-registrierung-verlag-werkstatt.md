@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Registration Worksheet, rights-chain schedule, DMCA
 | --- | --- | --- | --- |
 | Fallkern | Best Edition und Kopienzahl | 17 U.S.C. Sections 101 bis 106A | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | 17 U.S.C. Sections 201 bis 205 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Cable und Satellite Licenses | 17 U.S.C. Sections 201 bis 205 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Notice, Deposit und Registration Chapter 4 | 17 U.S.C. Sections 201 bis 205 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Registration Worksheet, rights-chain schedule, DMCA notice, response, infringement memo, complaint outline oder deal redline erstellen | Darlegungs- und Nachweisfrage für US Copyright, Registrierung und Rechteverwertung: Welche Handlung verletzt welches ausschließliche Recht und welche Verteidigung ist tatsachenbasiert | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -167,14 +167,14 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Best Edition und Kopienzahl | Publication-Status klären: unveröffentlicht, zuerst USA, zuerst Ausland, gleichzeitig, nur online, Print plus E-Book. | Fachvotum zu Best Edition und Kopienzahl mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Cable und Satellite Licenses | Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. | Fachvotum zu Cable und Satellite Licenses mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Notice, Deposit und Registration Chapter 4 | Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen. Paragraf 411 und Paragraf 412 Risiken markieren. | Fachvotum zu Notice, Deposit und Registration Chapter 4 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | automatisiert erzeugtes Material Material Disclosure | Menschliche Urheberschaft bestimmen: Auswahl, Anordnung, Bearbeitung, konkrete Ausdrucksgestaltung und kreative Kontrolle. | Fachvotum zu automatisiert erzeugtes Material Material Disclosure mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Attorney’s Fees Paragraf 505 | Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. | Fachvotum zu Attorney’s Fees Paragraf 505 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Characters und Fictional Universe | Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. | Fachvotum zu Characters und Fictional Universe mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Attorney’s Fees Paragraf 505 | Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen. | Fachvotum zu Attorney’s Fees Paragraf 505 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Cable und Satellite Licenses | Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen. | Fachvotum zu Cable und Satellite Licenses mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Characters und Fictional Universe | Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen. | Fachvotum zu Characters und Fictional Universe mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Collective Work, Beiträge und Periodika | Werkstruktur erfassen: Herausgeberband, Zeitschrift, Jahrbuch, Newsletter, Loseblatt, Datenbankupdate, Online-Beiträge. | Fachvotum zu Collective Work, Beiträge und Periodika mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Digitaler Deposit Upload | Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen. | Fachvotum zu Digitaler Deposit Upload mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Joint Authorship und Work Made for Hire | Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. | Fachvotum zu Joint Authorship und Work Made for Hire mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Klagevoraussetzungen nach Sections 411 und 412 | Zeitpunkte: Erstveröffentlichung, US-Vertrieb, Verletzung, Antrag, Gebühr, Deposit, Registrierungsdatum. Anspruchsgegenstand: welches Werk, welche Fassung, welche Bestandteile sind beansprucht oder ausgeschlossen? | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -185,29 +185,29 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 Bearbeitungsauftrag: Publication-Status klären: unveröffentlicht, zuerst USA, zuerst Ausland, gleichzeitig, nur online, Print plus E-Book. Werktyp bestimmen: literarisches Werk, Sammelwerk, Periodikum, Datenbank, Bildanteile, Softwarebezug, Hörbuch oder Multimedia-Kit. Deposit-Regel einordnen: bei U.S.-Erstveröffentlichung regelmäßig zwei vollständige Best-Edition-Exemplare; bei first publication outside the U.S. für die Registrierung typischerweise eine vollständige Kopie der ersten ausländischen Ausgabe prüfen.
 Lieferstück: Fachvotum zu Best Edition und Kopienzahl mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. Cable und Satellite Licenses
-
-Bearbeitungsauftrag: Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:. Welche Rechteebene ist betroffen: composition, lyrics, sound recording, performance, sync, mechanical, master oder neighbouring rights?
-Lieferstück: Fachvotum zu Cable und Satellite Licenses mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.3. Notice, Deposit und Registration Chapter 4
+### 16.2. Notice, Deposit und Registration Chapter 4
 
 Bearbeitungsauftrag: Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen. Paragraf 411 und Paragraf 412 Risiken markieren. Welcher Antragstyp passt wirklich: Standard Application, Single-Option, Group Registration, Supplementary Registration oder Recordation?
 Lieferstück: Fachvotum zu Notice, Deposit und Registration Chapter 4 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. automatisiert erzeugtes Material Material Disclosure
+### 16.3. automatisiert erzeugtes Material Material Disclosure
 
 Bearbeitungsauftrag: Menschliche Urheberschaft bestimmen: Auswahl, Anordnung, Bearbeitung, konkrete Ausdrucksgestaltung und kreative Kontrolle. Nicht beanspruchte Bestandteile markieren: rein maschinell erzeugte Ausdrucksteile, fremde Inhalte, gemeinfreie Materialien. eCO-Angaben vorbereiten: Claim nicht zu breit formulieren; algorithmische Systeme-Material und ausgeschlossene Elemente transparent behandeln.
 Lieferstück: Fachvotum zu automatisiert erzeugtes Material Material Disclosure mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Attorney’s Fees Paragraf 505
+### 16.4. Attorney’s Fees Paragraf 505
 
-Bearbeitungsauftrag: Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:. Ist registration status pro Werk ausreichend für claim, remedies, statutory damages, fees und injunction strategy?
+Bearbeitungsauftrag: Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen. Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:. Ist registration status pro Werk ausreichend für claim, remedies, statutory damages, fees und injunction strategy?
 Lieferstück: Fachvotum zu Attorney’s Fees Paragraf 505 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.5. Cable und Satellite Licenses
+
+Bearbeitungsauftrag: Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen. Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:. Welche Rechteebene ist betroffen: composition, lyrics, sound recording, performance, sync, mechanical, master oder neighbouring rights?
+Lieferstück: Fachvotum zu Cable und Satellite Licenses mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.6. Characters und Fictional Universe
 
-Bearbeitungsauftrag: Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:. Welche Werkart liegt vor und welche Elemente sind Ausdruck statt Idee, Funktion, Methode, fact, style oder useful article?
+Bearbeitungsauftrag: Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen. Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:. Welche Werkart liegt vor und welche Elemente sind Ausdruck statt Idee, Funktion, Methode, fact, style oder useful article?
 Lieferstück: Fachvotum zu Characters und Fictional Universe mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.7. Collective Work, Beiträge und Periodika
@@ -220,22 +220,22 @@ Lieferstück: Fachvotum zu Collective Work, Beiträge und Periodika mit Tatbesta
 Bearbeitungsauftrag: Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen. Nicht vermischen: physisches Deposit und digitaler Upload nicht parallel „zur Sicherheit“ einreichen, wenn eCO eine eindeutige Route verlangt. Vollständigkeit: Das Deposit muss das beanspruchte Werk abbilden.
 Lieferstück: Fachvotum zu Digitaler Deposit Upload mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Joint Authorship und Work Made for Hire
-
-Bearbeitungsauftrag: Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:. Wer ist author, claimant, owner, assignee, employer, commissioned party, joint author oder secured party?
-Lieferstück: Fachvotum zu Joint Authorship und Work Made for Hire mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.10. Klagevoraussetzungen nach Sections 411 und 412
+### 16.9. Klagevoraussetzungen nach Sections 411 und 412
 
 Bearbeitungsauftrag: Zeitpunkte: Erstveröffentlichung, US-Vertrieb, Verletzung, Antrag, Gebühr, Deposit, Registrierungsdatum. Anspruchsgegenstand: welches Werk, welche Fassung, welche Bestandteile sind beansprucht oder ausgeschlossen? Beweispaket: Werkexemplar, Verträge, Rechtekette, Infringement-Screenshots, Plattformkommunikation, Registrierungsakte.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.11. Office Actions und Rückfragen
+### 16.10. Office Actions und Rückfragen
 
 Bearbeitungsauftrag: Einordnen: fehlende Werkdaten, unklarer Claimant, falscher Antragstyp, Deposit-Problem, algorithmische Systeme-Material, fremde Inhalte, Veröffentlichungsstatus oder Rechtekette. Belege zusammenstellen: Autorenvertrag, Rechteübertragung, Impressum, Publikationsnachweis, Deposit-Screenshot, Kuriertracking. Antwort entwerfen: knapp, sachlich, mit eindeutiger Korrektur oder Erläuterung.
 Lieferstück: Fachvotum zu Office Actions und Rückfragen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Physischer Deposit und Shipping Slip
+### 16.11. Physischer Deposit und Shipping Slip
 
 Bearbeitungsauftrag: Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen. Je eCO-Case den Shipping Slip nach Zahlung ausdrucken und direkt dem passenden Werk zuordnen. Nicht zusätzlich digital hochladen, wenn die gewählte Route physisch ist und eCO keine Mischroute verlangt.
 Lieferstück: Fachvotum zu Physischer Deposit und Shipping Slip mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Semiconductor Chip Protection
+
+Bearbeitungsauftrag: Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:. Welche Werkart liegt vor und welche Elemente sind Ausdruck statt Idee, Funktion, Methode, fact, style oder useful article? Welche ausgeschlossenen Bestandteile müssen im Claim abgegrenzt werden: stock assets, open source, templates, public-domain, facts, prompts?
+Lieferstück: Fachvotum zu Semiconductor Chip Protection mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Marktrolle und Anlage
 | --- | --- |
 | Normenanker | EnWG Paragraf 1; EnWG Paragraf 17 bis Paragraf 21a; EnWG Paragraf 36, Paragraf 40 und Paragraf 41 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Betreiber, Lieferant, Anschlussnehmer, Bilanzkreis, Messstelle, Netzebene, Standort, Leistung und Inbetriebnahme |
+| Tatbestand | Betreiber, Lieferant, Anschlussnehmer, Bilanzkreis, Messstelle, Netzebene, Standort, Leistung und Inbetriebnahme feststellen |
 | Beweislast | Darlegungs- und Nachweisfrage für Energie-, Netz-, Wärme- und Projektregulierung: Welche gesetzliche Pflicht, Festlegung, Genehmigung oder Vertragsklausel regelt die konkrete Leistung |
 | Rechtsfolge | Anschlussdossier, Entgeltprüfung, Regulierungsantrag, Vertragsredline, Projekt-Risikomatrix oder Behördenstellungnahme erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,7 +43,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Marktrolle und Anlage
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Marktrolle und Anlage | Betreiber, Lieferant, Anschlussnehmer, Bilanzkreis, Messstelle, Netzebene, Standort, Leistung und Inbetriebnahme. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Marktrolle und Anlage | Betreiber, Lieferant, Anschlussnehmer, Bilanzkreis, Messstelle, Netzebene, Standort, Leistung und Inbetriebnahme feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Regelungsstand | Maßgebliches Datum, EnWG- oder EEG-Fassung, Festlegung, Genehmigung, Netzbedingungen und Vertrag sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Technik und Daten | Anschlussbegehren, Kapazität, Lastgang, Einspeisung, Messung, Engpass, Netzstudie und Kosten belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 

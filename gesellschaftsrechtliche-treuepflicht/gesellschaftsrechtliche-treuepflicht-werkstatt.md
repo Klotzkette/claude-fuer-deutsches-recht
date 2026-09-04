@@ -95,9 +95,7 @@ Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragung
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Risikozuweisung
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH II ZR 91/21 nur nach freier Quelle als Anker verwenden; tragende Aussage exakt ausgeben | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH II ZR 91/21 nur nach freier Quelle als Anker verwenden; tragende Aussage exakt ausgeben |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -112,7 +110,7 @@ Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragung
 
 ## 8. Leitentscheidungen
 
-- BGH II ZR 91/21 nur nach freier Quelle als Anker verwenden; tragende Aussage exakt ausgeben.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -134,7 +132,7 @@ Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragung
 10.6. Gegenposition: Formuliere die stärkste Verhandlungsposition der anderen Seite; sie setzt typischerweise bei Ladungs- und Beschlussmängeln sowie der Vertretungsmacht an.
 10.7. Rückfallposition: Antworte mit konkreter Alternativfassung, Preis- oder Vollzugsausgleich und zeige die Auswirkung auf Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
 10.8. Entwurf und Vollzug: Schließe mit Ausgabe entlang der Kernfelder Beweis und Dokumentation, Boykott Beschlussunfähigkeit, Compliance Meldung, Gesellschaftsform und Rollen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt; Verantwortlicher, Termin, Bedingung und Erfüllungsnachweis sind ausformuliert.
-10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind BGH II ZR 91/21 nur nach freier Quelle als Anker verwenden.
+10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 

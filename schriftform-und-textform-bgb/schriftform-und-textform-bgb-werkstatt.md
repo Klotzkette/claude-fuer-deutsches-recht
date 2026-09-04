@@ -96,11 +96,7 @@ Arbeitsgriff Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktri
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Elektronische Signatur ohne qualifiziertes Zertifikat genügt Paragraf 14 Abs. 4 TzBfG nicht; Paragraf 16 TzBfG ordnet die Unbefristetheit an |
-| LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eingescannte Unterschrift genügt nicht; die formgerechte Erklärung muss dem Arbeitnehmer vor Arbeitsaufnahme vorliegen |
-| ArbG Gera, Urt. v. 07.03.2024 - 2 Ca 936/23 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Echte qES beider Parteien kann Paragraf 14 Abs. 4 TzBfG wahren; maßgeblich ist das qualifizierte Zertifikat, nicht der bloße Einsatz eines Signaturtools |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -119,14 +115,12 @@ Arbeitsgriff Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktri
 - Paragraf 126 Abs. 3 BGB i.V.m; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 125 BGB — Nichtigkeitsfolge bei Formverstoß; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 16 TzBfG — Folge formwidrig befristeter Arbeitsvertrag: gilt als unbefristet; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 46c, Paragraf 46g, Paragraf 46h ArbGG — elektronischer Rechtsverkehr und arbeitsgerichtliche Formfiktion für klare Willenserklärungen in elektronischen vorbereitenden; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 14 Abs. 4 TzBfG verlangt Schriftform; über Paragraf 126 Abs. 3 BGB kann diese Schriftform durch elektronische Form nach Paragraf 126a BGB ersetzt werden, soweit keine; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 46c, Paragraf 46g, Paragraf 46h ArbGG — elektronischer Rechtsverkehr und arbeitsgerichtliche Formfiktion für klare Willenserklärungen in elektronischen vorbereitenden Schriftsätzen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 14 Abs. 4 TzBfG verlangt Schriftform; über Paragraf 126 Abs. 3 BGB kann diese Schriftform durch elektronische Form nach Paragraf 126a BGB ersetzt werden, soweit keine Spezialnorm entgegensteht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20: Elektronische Signatur ohne qualifiziertes Zertifikat genügt Paragraf 14 Abs. 4 TzBfG nicht; Paragraf 16 TzBfG ordnet die Unbefristetheit an.
-- LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21: Eingescannte Unterschrift genügt nicht; die formgerechte Erklärung muss dem Arbeitnehmer vor Arbeitsaufnahme vorliegen.
-- ArbG Gera, Urt. v. 07.03.2024 - 2 Ca 936/23: Echte qES beider Parteien kann Paragraf 14 Abs. 4 TzBfG wahren; maßgeblich ist das qualifizierte Zertifikat, nicht der bloße Einsatz eines Signaturtools.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -148,7 +142,7 @@ Arbeitsgriff Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktri
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei Zugang, Verjährung und der Auslegung der Vereinbarung an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben; Klauselprüfung: Einbeziehung, Transparenz, Leitbildabweichung, unangemessene Benachteiligung und Ersatzfolge getrennt bewerten.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20; LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -184,10 +178,10 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | --- | --- | --- |
 | Notarielle Beurkundung und Öffentliche Beglaubigung | Prüfraster: Beurkundungspflicht Paragraf 311b BGB Grundstück Paragraf 15 GmbHG GmbH-Anteilsübertragung Paragraf 1410 BGB Ehevertrag Paragraf 2276 BGB Erbvertrag. | Fachvotum zu Notarielle Beurkundung und Öffentliche Beglaubigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Form-Checker — Vertrag oder Willenserklärung | Gesetzliches oder vertragliches Formerfordernis: Ist die Form gesetzlich vorgeschrieben oder nur vertraglich vereinbart (Paragraf 127 BGB)? | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Dokumentations- und Beweisarchitektur | Formerfordernis: Gilt Schriftform (Paragraf 126 BGB), Textform (Paragraf 126b BGB), qES (Paragraf 126a BGB) oder Formfreiheit? | Beweismatrix zu Dokumentations- und Beweisarchitektur mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
 | Maklervertrag nach Paragraf 656a BGB prüfen | Nutze diesen Skill bei einem per E-Mail, Messenger, Plattform oder PDF angebahnten Immobilienmaklervertrag, bei einem Provisionshinweis in Signatur oder Anlage, bei einer Verlagerung der Verkäuferprovision. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Amtlicher Formkern BGB/ZPO | Formerfordernis bestimmen: Paragraf 126, Paragraf 126a, Paragraf 126b, Paragraf 127, Paragraf 128 oder Paragraf 129 BGB; Spezialnorm prüfen. Zugang prüfen: Paragraf 130 BGB oder Zustellungsregime der ZPO. | Fachvotum zu Amtlicher Formkern BGB/ZPO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Befristungsabrede — qES-Rechtsprechung Stand 2026 | Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach Paragraf 14 Absatz 4 TzBfG. Paragraf 14 Absatz 4 TzBfG — Befristung des Arbeitsvertrags muss schriftlich vereinbart werden. | Fristenblatt zu Befristungsabrede — qES-Rechtsprechung Stand 2026 mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| Dokumentations- und Beweisarchitektur | Formerfordernis: Gilt Schriftform (Paragraf 126 BGB), Textform (Paragraf 126b BGB), qES (Paragraf 126a BGB) oder Formfreiheit? | Beweismatrix zu Dokumentations- und Beweisarchitektur mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
+| Amtlicher Formkern BGB/ZPO | Formerfordernis bestimmen: Paragraf 126, Paragraf 126a, Paragraf 126b, Paragraf 127, Paragraf 128 oder Paragraf 129 BGB; Spezialnorm prüfen. Zugang prüfen: Paragraf 130 BGB oder Zustellungsregime der ZPO. | Fachvotum zu Amtlicher Formkern BGB/ZPO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Prozessablauf — Papier vs. Elektronisch | Formerfordernis: Schriftform (Paragraf 126 BGB), Textform (Paragraf 126b BGB) oder elektronische Form mit qES (Paragraf 126a BGB)? | Fachvotum zu Prozessablauf — Papier vs. Elektronisch mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Verteidigungsstrategie bei Formangriff | Verteidigung Formverstoß Paragrafen 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (Paragraf 311b BGB) Nachholung der Form Paragraf 242 BGB Treuwidrigkeitseinwand. | Fachvotum zu Verteidigungsstrategie bei Formangriff mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Kündigung per Schriftsatz — Zustellung und Formfragen | Anwalt versendet oder empfängt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Output: Form- und Zugangsmatrix mit Zustellungsweg, Vollmachtsrisiko und Empfehlung | Fristenblatt zu Kündigung per Schriftsatz — Zustellung und Formfragen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
@@ -207,30 +201,30 @@ Bearbeitungsauftrag: Gesetzliches oder vertragliches Formerfordernis: Ist die Fo
 Prüfschritte: Rechtsgeschäftstyp: Welches Rechtsgeschäft soll geprüft werden (Kaufvertrag, Mietvertrag, Kündigung, Bürgschaft, Grundstückskauf)?
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.3. Dokumentations- und Beweisarchitektur
+### 16.3. Maklervertrag nach Paragraf 656a BGB prüfen
+
+Bearbeitungsauftrag: Nutze diesen Skill bei einem per E-Mail, Messenger, Plattform oder PDF angebahnten Immobilienmaklervertrag, bei einem Provisionshinweis in Signatur oder Anlage, bei einer Verlagerung der Verkäuferprovision auf den Käufer oder bei der Rückforderung gezahlter Maklerkosten. Prüfe Textform, Vertragsschluss und Provisionsverteilung getrennt; ein wirksamer Textformschluss beantwortet noch nicht die Fragen aus Paragraf 656c oder 656d BGB.
+Prüfschritte: I ZR 32/24: Begriff des Einfamilienhauses in den Paragrafen 656a folgende BGB; eine untergeordnete Einliegerwohnung oder gewerbliche Nutzung schließt die Einordnung nicht aus; Paragraf 656c BGB kann entsprechend anzuwenden sein, wenn anstelle einer Partei des Hauptvertrags ein Dritter den Maklervertrag schließt.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.4. Befristungsabrede — qES-Rechtsprechung Stand 2026
+
+Bearbeitungsauftrag: Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach Paragraf 14 Absatz 4 TzBfG. Paragraf 14 Absatz 4 TzBfG — Befristung des Arbeitsvertrags muss schriftlich vereinbart werden. Paragraf 126 BGB — Schriftform: eigenhändige Unterschrift im Original.
+Prüfschritte: Prüfe Scan, einfache E-Signatur, echte qES, ArbG-Gera-Linie, Paragraf 623 BGB, Paragraf 46h ArbGG als Sonderpfad und Mandantenhinweise für Arbeitgeber und Arbeitnehmer.
+Normbezug aus dem Fachmaterial: Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach Paragraf 14 Absatz 4 TzBfG; Prüfe Scan, einfache E-Signatur, echte qES, ArbG-Gera-Linie, Paragraf 623 BGB, Paragraf 46h ArbGG als Sonderpfad und Mandantenhinweise für Arbeitgeber und Arbeitnehmer.
+Lieferstück: Fristenblatt zu Befristungsabrede — qES-Rechtsprechung Stand 2026 mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
+
+### 16.5. Dokumentations- und Beweisarchitektur
 
 Bearbeitungsauftrag: Formerfordernis: Gilt Schriftform (Paragraf 126 BGB), Textform (Paragraf 126b BGB), qES (Paragraf 126a BGB) oder Formfreiheit? Archivierungspflicht: Wie lange müssen die Unterlagen aufbewahrt werden (steuerlich, handelsrechtlich, prozessual)? Ersatz-Scan: Soll die Originalurkunde nach TR-RESISCAN eingescannt und vernichtet werden?
 Prüfschritte: Erklärungsart: Welche Willenserklärung oder welcher Vertragsschluss soll beweissicher dokumentiert werden (Kündigung, Bürgschaft, Mietvertrag)?
 Lieferstück: Beweismatrix zu Dokumentations- und Beweisarchitektur mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
 
-### 16.4. Maklervertrag nach Paragraf 656a BGB prüfen
-
-Bearbeitungsauftrag: Nutze diesen Skill bei einem per E-Mail, Messenger, Plattform oder PDF angebahnten Immobilienmaklervertrag, bei einem Provisionshinweis in Signatur oder Anlage, bei einer Verlagerung der Verkäuferprovision auf den Käufer oder bei der Rückforderung gezahlter Maklerkosten. Prüfe Textform, Vertragsschluss und Provisionsverteilung getrennt; ein wirksamer Textformschluss beantwortet noch nicht die Fragen aus Paragraf 656c oder 656d BGB.
-Prüfschritte: Eine untergeordnete Einliegerwohnung oder gewerbliche Nutzung schließt die Einordnung nicht aus; Paragraf 656c BGB kann entsprechend anzuwenden sein, wenn anstelle einer Partei des Hauptvertrags ein Dritter den Maklervertrag schließt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Eine untergeordnete Einliegerwohnung oder gewerbliche Nutzung schließt die Einordnung nicht aus; Paragraf 656c BGB kann entsprechend anzuwenden sein, wenn anstelle einer Partei des Hauptvertrags ein Dritter den Maklervertrag schließt.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.5. Amtlicher Formkern BGB/ZPO
+### 16.6. Amtlicher Formkern BGB/ZPO
 
 Bearbeitungsauftrag: Formerfordernis bestimmen: Paragraf 126, Paragraf 126a, Paragraf 126b, Paragraf 127, Paragraf 128 oder Paragraf 129 BGB; Spezialnorm prüfen. Zugang prüfen: Paragraf 130 BGB oder Zustellungsregime der ZPO. Nutze references/amtlicher-formkern-bgb-zpo.md.
 Prüfschritte: Erklärung bestimmen: Vertrag, Kündigung, Bürgschaft, Rücktritt, Anfechtung, Schriftsatzerklärung.
 Lieferstück: Fachvotum zu Amtlicher Formkern BGB/ZPO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.6. Befristungsabrede — qES-Rechtsprechung Stand 2026
-
-Bearbeitungsauftrag: Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach Paragraf 14 Absatz 4 TzBfG. Paragraf 14 Absatz 4 TzBfG — Befristung des Arbeitsvertrags muss schriftlich vereinbart werden. Paragraf 126 BGB — Schriftform: eigenhändige Unterschrift im Original.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach Paragraf 14 Absatz 4 TzBfG; Prüfe Scan, einfache E-Signatur, echte qES, ArbG-Gera-Linie, Paragraf 623 BGB, Paragraf 46h ArbGG als Sonderpfad und Mandantenhinweise für Arbeitgeber und Arbeitnehmer.
-Lieferstück: Fristenblatt zu Befristungsabrede — qES-Rechtsprechung Stand 2026 mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
 ### 16.7. Prozessablauf — Papier vs. Elektronisch
 
@@ -246,14 +240,14 @@ Lieferstück: Fachvotum zu Verteidigungsstrategie bei Formangriff mit Tatbestand
 ### 16.9. Kündigung per Schriftsatz — Zustellung und Formfragen
 
 Bearbeitungsauftrag: Anwalt versendet oder empfängt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Output: Form- und Zugangsmatrix mit Zustellungsweg, Vollmachtsrisiko und Empfehlung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe Schriftform, beA, qES, Paragraf 130a ZPO, Paragraf 130e ZPO, Paragraf 46h ArbGG, Paragraf 173 ZPO, Paragraf 186 ZPO, Paragraf 298 Absatz 3 ZPO und Paragraf 174 BGB.
+Normbezug aus dem Fachmaterial: Prüfe Schriftform, beA, qES, Paragraf 130a ZPO, Paragraf 130e ZPO, Paragraf 46h ArbGG, Paragraf 173 ZPO, Paragraf 186 ZPO, Paragraf 298 Absatz 3 ZPO und Paragraf 174 BGB.
 Lieferstück: Fristenblatt zu Kündigung per Schriftsatz — Zustellung und Formfragen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
 ### 16.10. Gewerberaummiete: Langzeitform nach Paragraf 578 und 550 BGB
 
 Bearbeitungsauftrag: Kläre nur die Weichen, die Formstatus oder Rechtsfolge verändern.
 Prüfschritte: Lies zuerst Mietvertrag, Nachträge, Anlagen, E-Mails und Übergabeunterlagen; Frage nicht erneut nach Angaben, die aus den Dokumenten hervorgehen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe langfristige Gewerberaum- und Grundstücksmietverträge nach Paragraf 578 in Verbindung mit Paragraf 550 BGB: Textform, Vertragskette, Nachträge, Laufzeit und Kündigungsrisiko; Liefere Formstatus, Belegmatrix und belastbaren nächsten Schritt.
+Normbezug aus dem Fachmaterial: Prüfe langfristige Gewerberaum- und Grundstücksmietverträge nach Paragraf 578 in Verbindung mit Paragraf 550 BGB: Textform, Vertragskette, Nachträge, Laufzeit und Kündigungsrisiko; Liefere Formstatus, Belegmatrix und belastbaren nächsten Schritt.
 Lieferstück: Fachvotum zu Gewerberaummiete: Langzeitform nach Paragraf 578 und 550 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.11. Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB
@@ -264,5 +258,4 @@ Lieferstück: Fristenblatt zu Arbeitsrecht — Befristung und Aufhebung: Paragra
 ### 16.12. Klauselgenerator — Formvorbehalt und Änderungsvorbehalt
 
 Bearbeitungsauftrag: Bearbeite Klauselgenerator — Formvorbehalt und Änderungsvorbehalt: anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 127 BGB — Gewillkürte Form; Paragraf 305b BGB — Vorrang der Individualabrede vor AGB; Paragraf 307 BGB — Inhaltskontrolle AGB.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.

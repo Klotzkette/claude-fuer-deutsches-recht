@@ -1,73 +1,84 @@
 ---
 name: verbrauchsgueterkauf-digitales
-description: "Für Verbrauchsgüterkauf und Digitales Paragrafen 474 ff. BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Verbrauchsgüterkäufe und Waren mit digitalen Elementen nach den Paragrafen 474 bis 477 BGB; trennt Warenkauf und Digitalvertrag, Updatepflicht, Nacherfüllung, Abweichungsvereinbarung, Verjährung und Beweislast."
 ---
 
-# Verbrauchsgüterkauf und Digitales §§ 474 ff. BGB
+# Verbrauchsgüterkauf und Waren mit digitalen Elementen
 
-## Fachkern: Verbrauchsgüterkauf und Digitales §§ 474 ff. BGB
-- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
-- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+## 1. Direktauftrag
 
-## Normanker
+Lies Vertrag, Produktbeschreibung, vereinbarte Abweichungen, Übergabe- und Updateprotokolle, Mangelanzeige und Nacherfüllungskorrespondenz. Ordne zuerst Vertragstyp und Rollen zu. Erstelle anschließend eine Zeitachse von Vertragsschluss, Übergabe, Bereitstellungszeitraum, Mangelerscheinung, Mitteilung und Nacherfüllung. Frage nur nach Daten, die eine Rechtsfolge verändern.
 
-- § 474 BGB: Verbrauchsgüterkauf (Verbraucher kauft von Unternehmer)
-- § 475 BGB: Abweichende Vereinbarungen (Verbot der Benachteiligung des Verbrauchers)
-- § 475b BGB: Ware mit digitalen Elementen und Updatepflichten
-- § 475c BGB: dauerhafte Bereitstellung digitaler Elemente
-- § 476 BGB: Abweichende Vereinbarungen bei Ware mit digitalen Elementen
-- § 477 BGB: Beweislastumkehr zugunsten des Verbrauchers
-- § 478 BGB: Rückgriff des Unternehmers (Lieferkette)
-- § 438 Abs. 1 Nr. 3 BGB: zweijährige Verjährung als Regelfall
-- §§ 327 ff. BGB: Verträge über digitale Inhalte und digitale Dienstleistungen
+## 2. Eingangsweichen
 
-## Intake
+1. Verbraucher kauft von Unternehmer eine Ware: Verbrauchsgüterkauf nach Paragraf 474 BGB.
+2. Ware kann ihre Funktionen ohne digitale Bestandteile nicht erfüllen: Ware mit digitalen Elementen nach Paragraf 327a Absatz 3 sowie den Paragrafen 475b und 475c BGB.
+3. Digitaler Inhalt oder digitale Dienstleistung steht eigenständig im Vordergrund: zusätzlich oder stattdessen die Paragrafen 327 bis 327u BGB prüfen.
+4. Käufer handelt als Unternehmer: Verbraucherschutzroute verlassen und bei beiderseitigem Handelsgeschäft Paragraf 377 HGB prüfen.
 
-- Liegt ein Verbrauchsgüterkauf vor (Verbraucher kauft von Unternehmer eine bewegliche Sache)?
-- Tritt der Mangel innerhalb von 12 Monaten nach Übergabe auf (Beweislastumkehr § 477 BGB)?
-- Enthält die Kaufsache digitale Elemente (§ 475b ff. BGB anwendbar)?
-- Haben die Parteien abweichende Vereinbarungen getroffen (Zulässigkeit nach § 476 BGB prüfen)?
-- Gibt es Rückgriffsansprüche in der Lieferkette (§ 478 BGB)?
-- Hat der Verkäufer konkrete Übergabe-, Prüf-, Update- und Einweisungsdokumentation, um eine spätere nicht zurechenbare Ursache beweisen zu können?
+## 3. Prüfraster
 
-## Prüfraster
+### 3.1 Vertragsmäßigkeit
 
-1. Verbrauchsgüterkauf-Tatbestand: Verbraucher (§ 13 BGB) kauft von Unternehmer (§ 14 BGB) eine bewegliche Sache
-2. Zwingende Normen nach § 475 BGB: Vereinbarungen zum Nachteil des Verbrauchers unwirksam
-3. Beweislastumkehr nach § 477 BGB: Eine innerhalb von 12 Monaten auftretende Mangelerscheinung genügt, wenn ein dem Verkäufer zurechenbarer Umstand ernsthaft als Ursache in Betracht kommt.
-4. BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23: Andere denkbare Ursachen verhindern § 477 BGB nicht; der Verkäufer muss die Vermutung voll widerlegen.
-5. Ausnahmen: Unvereinbarkeit des Mangels mit dieser Vermutung, etwa wenn ausschließlich eine spätere, nicht zurechenbare Ursache feststeht.
-6. Ware mit digitalen Elementen: §§ 475b ff. BGB mit Updatepflichten und besonderen Mangelanforderungen
-7. Digitale Produkte (kein Kauf): §§ 327 ff. BGB anstelle von Kaufrecht
-8. Rückgriff in der Lieferkette nach § 478 BGB: Unternehmer kann Mängelrechte gegenüber Lieferanten geltend machen
-9. Verjährung: § 438 Abs. 1 Nr. 3 BGB (2 Jahre); nicht abkürzbar bei Verbrauchsgüterkauf
+1. Subjektive Anforderungen, objektive Anforderungen und Montageanforderungen nach Paragraf 434 BGB getrennt erfassen.
+2. Bei Waren mit digitalen Elementen Einbindung, Funktionsfähigkeit, Kompatibilität, Interoperabilität und Aktualisierungen nach Paragraf 475b BGB prüfen.
+3. Bei dauerhafter Bereitstellung den vereinbarten Bereitstellungszeitraum und Paragraf 475c BGB einbeziehen.
+4. Eine Abweichung von objektiven Anforderungen nur anerkennen, wenn der Verbraucher vor Vertragsschluss eigens über das bestimmte Merkmal informiert wurde und die Abweichung ausdrücklich sowie gesondert vereinbart wurde.
 
-## Fallstricke
+### 3.2 Paragraf 475 BGB richtig anwenden
 
-- Beweislastumkehr gilt nur innerhalb von 12 Monaten (nach 2022er Reform; vorher 6 Monate), ist aber inhaltlich verbraucherfreundlich: Eine ernsthaft mögliche Verkäuferursache reicht nach BGH vom 06.05.2026 für den Einstieg in § 477 BGB.
-- Gebrauchte Sachen: Gewährleistungsfrist kann auf 1 Jahr verkürzt werden (§ 476 Abs. 2 BGB).
-- Fehler bei der Abgrenzung digitales Produkt (§ 327 BGB) vs. Ware mit digitalen Elementen (§ 475b BGB).
-- Ausschluss oder Beschränkung von Mängelrechten bei Verbrauchsgüterkauf ist nur in den Grenzen von § 476 BGB möglich.
-- § 477 BGB gilt nicht im B2B-Geschäft. Wenn derselbe Shop Verbraucher und Unternehmer beliefert, muss der Output die Rollen sauber trennen und bei B2B zusätzlich § 377 HGB ansteuern.
+Paragraf 475 BGB ist nicht das allgemeine Verbot nachteiliger Abweichungen. Die Norm enthält besondere Regeln für den Verbrauchsgüterkauf, darunter:
 
-## Stoppschilder
+1. Leistungszeit nach Absatz 1.
+2. Transportgefahr nach Absatz 2.
+3. Besonderheiten bei Nutzungsersatz und einzelnen Kaufrechtsnormen nach Absatz 3.
+4. Informationspflicht vor der Nacherfüllung nach Absatz 4.
+5. Vorschuss auf vom Unternehmer zu tragende Nacherfüllungsaufwendungen nach Absatz 5.
+6. Nacherfüllung innerhalb angemessener Frist und ohne erhebliche Unannehmlichkeiten nach Absatz 6.
+7. Rücksendekosten und Rückabwicklung nach Absatz 7.
 
-- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
-- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
-- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
+### 3.3 Abweichende Vereinbarungen nach Paragraf 476 BGB
 
-## Anschluss-Skills
+1. Vor Mitteilung eines Mangels kann sich der Unternehmer auf eine zum Nachteil des Verbrauchers abweichende Vereinbarung grundsätzlich nicht berufen.
+2. Eine negative Beschaffenheitsvereinbarung muss die besonderen Informations- und Vereinbarungsvoraussetzungen des Paragrafen 476 Absatz 1 BGB erfüllen.
+3. Eine Verkürzung der Verjährung ist nur in den Grenzen des Paragrafen 476 Absatz 2 BGB möglich: mindestens zwei Jahre, bei gebrauchten Waren mindestens ein Jahr ab gesetzlichem Beginn; vorherige gesonderte Information sowie ausdrückliche und gesonderte Vereinbarung sind erforderlich.
+4. Schadensersatzbeschränkungen bleiben zusätzlich an den Paragrafen 307 bis 309 BGB zu messen.
+5. Umgehungsgestaltungen werden von Paragraf 476 Absatz 4 BGB erfasst.
 
-- kaufrecht-beweislast-verjaehrung-digitale-elemente
-- kaufrecht-ware-mit-digitalen-elementen-475b
-- kaufrecht-sachmangel-paragraph-434
-- kaufrecht-nacherfuellung-ruecktritt-minderung
+### 3.4 Beweislast und Verjährung
 
-## Quellen
+1. Zeigt sich innerhalb eines Jahres seit Gefahrübergang ein von Paragraf 477 Absatz 1 BGB erfasster mangelhafter Zustand, greift die gesetzliche Vermutung, soweit sie nicht mit Art der Ware oder des mangelhaften Zustands unvereinbar ist.
+2. Bei dauerhafter Bereitstellung gilt die besondere Vermutung des Paragrafen 477 Absatz 2 BGB für den Bereitstellungszeitraum.
+3. Verjährung nicht allein nach Paragraf 438 BGB berechnen. Bei Waren mit digitalen Elementen und Nacherfüllung sind die Ablaufhemmungen und Verlängerungen des Paragrafen 475e BGB gesondert einzutragen.
+4. Arglist führt nach Paragraf 438 Absatz 3 BGB zur regelmäßigen Verjährung; sie begründet keine pauschale 30-jährige Frist.
 
-- https://www.gesetze-im-internet.de/bgb/__474.html
-- https://www.gesetze-im-internet.de/bgb/__477.html
-- https://www.gesetze-im-internet.de/bgb/__475b.html
-- BGH, Urteile vom 06.05.2026 - VIII ZR 73/24 und VIII ZR 257/23, Pressemitteilung 077/2026: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026077.html
+### 3.5 Rechtsprechungsanker zur Vermutung
+
+BGH, Urteile vom 6. Mai 2026, VIII ZR 73/24 und VIII ZR 257/23: Für die Vermutung des Paragrafen 477 BGB ist die nachgewiesene Mangelerscheinung innerhalb des Vermutungszeitraums maßgeblich. Mögliche Alternativursachen beseitigen die Vermutung nicht schon durch bloßes Aufzeigen; der konkrete Sachverhalt und die Vereinbarkeit mit Art der Ware und des Mangels bleiben zu prüfen.
+
+## 4. Beweis- und Fristenmatrix
+
+| Punkt | Datum oder Tatsache | Beleg | Rechtsfolge |
+| --- | --- | --- | --- |
+| Vertragsschluss und Rollen |  | Bestellung, Rechnung | Verbrauchsgüterkauf |
+| Übergabe |  | Zustellung, Übergabeprotokoll | Gefahrübergang und Fristbeginn |
+| digitale Bereitstellung |  | Konto, Protokoll, Versionsdaten | Paragrafen 475b und 475c BGB |
+| Mangelerscheinung |  | Foto, Fehlerprotokoll, Zeuge | Paragraf 477 BGB |
+| Mangelmitteilung |  | E-Mail, Ticket, Zugang | Nacherfüllung und Paragraf 476 BGB |
+| Nacherfüllung |  | Reparaturbericht, Ersatzgerät | Paragrafen 439, 475 und 475e BGB |
+| vereinbarte Abweichung |  | gesonderte Erklärung | Wirksamkeit nach Paragraf 476 BGB |
+
+## 5. Arbeitsprodukt
+
+Liefere eine Anspruchsmatrix für Nacherfüllung, Rücktritt, Minderung und Schadensersatz, einen belastbaren Fristenlauf und den passenden Entwurf für Mangelanzeige, Fristsetzung oder Klagebegründung. Jede Aussage zur Abweichung, Beweislast oder Verjährung muss auf die konkrete Vertragsfassung und das belegte Datum gestützt sein.
+
+## 6. Amtliche Quellen
+
+- [Paragraf 474 BGB](https://www.gesetze-im-internet.de/bgb/__474.html)
+- [Paragraf 475 BGB](https://www.gesetze-im-internet.de/bgb/__475.html)
+- [Paragraf 475b BGB](https://www.gesetze-im-internet.de/bgb/__475b.html)
+- [Paragraf 475c BGB](https://www.gesetze-im-internet.de/bgb/__475c.html)
+- [Paragraf 475e BGB](https://www.gesetze-im-internet.de/bgb/__475e.html)
+- [Paragraf 476 BGB](https://www.gesetze-im-internet.de/bgb/__476.html)
+- [Paragraf 477 BGB](https://www.gesetze-im-internet.de/bgb/__477.html)
+- [BGH, Pressemitteilung 77/2026 zu VIII ZR 73/24 und VIII ZR 257/23](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026077.html)

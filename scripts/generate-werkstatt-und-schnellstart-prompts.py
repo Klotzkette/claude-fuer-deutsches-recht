@@ -2792,7 +2792,56 @@ def sentence_lead(text: str) -> str:
     return text[:1].upper() + text[1:] if text else text
 
 
-def route_excerpt(text: str, limit: int) -> str:
+INCOMPLETE_PHRASE_END = re.compile(
+    r"\b(?:Abs|Art|Nr|Rn|Paragraf|Paragrafen|Artikel|Absatz|Nummer|Satz|"
+    r"Buchstabe|Kollisions|Verhandlungs|Fristen|Liefere)\.?$",
+    flags=re.IGNORECASE,
+)
+
+
+def phrase_is_complete(text: str) -> bool:
+    """Erkennt sichere Satz- oder Arbeitsphrasen ohne abgeschnittenen Ausklang."""
+
+    candidate = text.strip()
+    if not candidate or candidate[-1] in ",;:-":
+        return False
+    if balance_inline_delimiters(candidate) != candidate:
+        return False
+    last_word = candidate.split()[-1].lower().strip(" ,.;:()[]")
+    if last_word in DANGLING_EXCERPT_WORDS:
+        return False
+    return not INCOMPLETE_PHRASE_END.search(candidate)
+
+
+def complete_phrase_excerpt(text: str, limit: int, fallback: str = "") -> str:
+    """Liefert nur vollständige Phrasen; andernfalls einen kuratierten Fallback."""
+
+    candidate = balance_inline_delimiters(clean(text)).strip()
+    if len(candidate) <= limit and phrase_is_complete(candidate):
+        return candidate.rstrip(" .")
+
+    best = ""
+    parts: list[str] = []
+    for part in CLAUSE_BOUNDARY_PATTERN.split(candidate):
+        part = part.strip()
+        if not part:
+            continue
+        trial = " ".join(parts + [part])
+        if len(trial) > limit:
+            break
+        parts.append(part)
+        if phrase_is_complete(trial):
+            best = trial
+    if best:
+        return best.rstrip(" .")
+
+    safe_fallback = balance_inline_delimiters(clean(fallback)).strip()
+    if phrase_is_complete(safe_fallback):
+        return safe_fallback.rstrip(" .")
+    return ""
+
+
+def route_excerpt(text: str, limit: int, fallback: str = "") -> str:
     """Kürzt Skillmaterial zu einem vollständigen, fachlichen Routensatz."""
 
     text = clean(text)
@@ -2867,7 +2916,7 @@ def route_excerpt(text: str, limit: int) -> str:
     ).rstrip(" .;:-")
     if text:
         text = text[0].upper() + text[1:]
-    return clean(text, limit).rstrip(" .;:-")
+    return complete_phrase_excerpt(text, limit, fallback)
 
 
 def byte_len(text: str) -> int:
@@ -3237,25 +3286,28 @@ def collect_skill_material(plugin_dir: Path) -> list[dict[str, str]]:
         for sd in (plugin_dir / "skills").glob("*")
         if sd.is_dir() and sd.name != "juristischer-argumentationskern"
     ]
-    # Mehr Material lesen, damit auch umfangreiche Plugins nicht nur von den
-    # alphabetisch ersten Fachthemen geprägt werden. Die spätere Auswahl
-    # begrenzt Wiederholungen und verwirft Routing- oder Schablonentexte.
-    for sd in sorted(skill_dirs, key=skill_directory_priority)[:80]:
+    # Alle Skills liefern Titel und Beschreibung für Auswahl und Routing. Nur
+    # bei den 80 fachlich höchst priorisierten Skills wird zusätzlich ein
+    # längerer Textauszug gelesen; so bleiben auch sehr große Plugins schnell,
+    # ohne dass hintere Fachgebiete aus der Prompt-Landkarte verschwinden.
+    ordered_dirs = sorted(skill_dirs, key=skill_directory_priority)
+    for position, sd in enumerate(ordered_dirs):
         slug = sd.name
         skill_file = sd / "SKILL.md"
         desc = slug.replace("-", " ")
         body = ""
+        text = ""
         if skill_file.exists():
             try:
                 chunk_lines: list[str] = []
                 with skill_file.open("r", encoding="utf-8", errors="ignore") as handle:
                     for line_no, line in enumerate(handle, 1):
                         chunk_lines.append(line)
-                        if line_no >= 180:
+                        if line_no >= (180 if position < 80 else 32):
                             break
                 text = "".join(chunk_lines)
                 desc = frontmatter_description(text) or desc
-                body = skill_body_excerpt(text)
+                body = skill_body_excerpt(text) if position < 80 else ""
                 heading = ""
                 for raw_heading in text.splitlines():
                     if raw_heading.startswith("# "):
@@ -3267,7 +3319,15 @@ def collect_skill_material(plugin_dir: Path) -> list[dict[str, str]]:
                 heading = ""
         else:
             heading = ""
-        items.append({"slug": slug, "desc": desc, "body": body, "raw": text if skill_file.exists() else "", "heading": heading})
+        items.append(
+            {
+                "slug": slug,
+                "desc": desc,
+                "body": body,
+                "raw": text if position < 80 else "",
+                "heading": heading,
+            }
+        )
     return items
 
 
@@ -3533,6 +3593,22 @@ LAW_MARKERS = (
 )
 
 
+def contains_decision_reference(text: str) -> bool:
+    """Erkennt Gerichtsentscheidungen, ohne sonstige Fachquellen auszusperren."""
+
+    has_court = any(
+        marker in text
+        for marker in COURT_MARKERS
+        if marker not in {"NJW", "NZA", "ZIP"}
+    )
+    has_decision_signal = bool(
+        re.search(r"\b(?:Urteil|Beschluss|Entscheidung)\b", text)
+        or re.search(r"\b\d{2}\.\d{2}\.\d{4}\b", text)
+        or case_id_set(text)
+    )
+    return has_court and has_decision_signal
+
+
 def relevant_lines(skill_material: list[dict[str, str]], limit: int = 450) -> list[str]:
     lines: list[str] = []
     for item in skill_material:
@@ -3545,7 +3621,10 @@ def relevant_lines(skill_material: list[dict[str, str]], limit: int = 450) -> li
                 continue
             if is_source_noise(line):
                 continue
-            line = clean(line, 260)
+            # Normsätze werden erst im fachlichen Extraktor auf eine vollständige
+            # Aussage begrenzt. Eine Zeichenkürzung an dieser Stelle würde aus
+            # vollständigen Quellenzeilen syntaktische Fragmente machen.
+            line = clean(line)
             if len(line) < 20:
                 continue
             lines.append(line)
@@ -3609,7 +3688,7 @@ def extract_norm_anchors(skill_material: list[dict[str, str]], max_items: int = 
             continue
         if not any(marker in line for marker in LAW_MARKERS):
             continue
-        if any(marker in line for marker in COURT_MARKERS) and re.search(r"\b(?:Urteil|Beschluss|Entscheidung)\b", line):
+        if contains_decision_reference(line):
             continue
         starts_like_norm = re.match(rf"^(?:Normenradar:\s*)?(?:{law_pattern})\b", line)
         starts_with_paragraph = re.match(r"^(?:Paragraf(?:en)?|Artikel|Art\.)\s+\d", line)
@@ -3629,8 +3708,8 @@ def extract_norm_anchors(skill_material: list[dict[str, str]], max_items: int = 
         )
         candidate_source = SENTENCE_BOUNDARY_PATTERN.split(masked_line, maxsplit=1)[0]
         candidate_source = candidate_source.replace("∶", ".")
-        candidate = clean(candidate_source, 185).rstrip(" .,:;")
-        if not candidate:
+        candidate = clean(candidate_source).rstrip(" .,:;")
+        if not candidate or not phrase_is_complete(candidate):
             continue
         key = re.sub(r"\W+", "", candidate.lower())
         if key in seen:
@@ -3643,35 +3722,15 @@ def extract_norm_anchors(skill_material: list[dict[str, str]], max_items: int = 
 
 
 def extract_case_anchors(skill_material: list[dict[str, str]], max_items: int = 4) -> list[str]:
-    anchors: list[str] = []
-    seen: set[str] = set()
-    for line in relevant_lines(skill_material):
-        if is_generic_anchor(line):
-            continue
-        if not any(marker in line for marker in COURT_MARKERS):
-            continue
-        if not re.match(r"^(?:BGH|BAG|BVerfG|BVerwG|BSG|BFH|EuGH|BPatG|OLG|LG|AG|LAG|ArbG|SG|LSG)\b", line):
-            continue
-        if re.match(r"^[a-z0-9-]+\s+[—-]\s+", line):
-            continue
-        has_decision_signal = (
-            re.search(r"\b(?:Urteil|Beschluss|Entscheidung)\b", line)
-            or re.search(r"\b\d{2}\.\d{2}\.\d{4}\b", line)
-            or re.search(r"\b(?:[IVX]+ ZR|IX ZR|XII ZB|C-\d+|BvR|AZR|StR|CN|C )", line)
-        )
-        if not has_decision_signal:
-            continue
-        candidate = clean(line, 280).rstrip(".")
-        if not candidate:
-            continue
-        key = re.sub(r"\W+", "", candidate.lower())
-        if key in seen:
-            continue
-        seen.add(key)
-        anchors.append(candidate)
-        if len(anchors) >= max_items:
-            break
-    return anchors
+    """Skilltext ist keine Freigabequelle für Rechtsprechungsanker.
+
+    Entscheidungen gelangen ausschließlich über das kuratierte Themenprofil oder
+    ``PLUGIN_CASE_OVERRIDES`` in einen Prompt. Normen, historische Quellen und
+    wissenschaftliche Arbeitsmaterialien bleiben davon unberührt.
+    """
+
+    _ = skill_material, max_items
+    return []
 
 
 def case_identity(anchor: str) -> str:
@@ -3740,97 +3799,42 @@ def profile_fields(
     skill_material: list[dict[str, str]],
     max_items: int = 6,
 ) -> list[tuple[str, str]]:
+    """Liefert ausschließlich stabile Felder des feststehenden Themenprofils."""
+
+    if max_items <= 0:
+        return []
+
+    # Titel und Beschreibungen aller Skills bleiben an anderer Stelle für
+    # Themenabdeckung und Praxisrouten verfügbar. Die Schnellstart-Fallkarte
+    # darf jedoch nicht durch einzelne oder fehlerhafte Skilltexte umprofiliert
+    # werden.
+    _ = skill_material
     overrides = PROFILE_FIELD_OVERRIDES.get(profile.key)
     if overrides:
-        return [(title, clean(detail, 180)) for title, detail in overrides[:max_items]]
+        source_fields = list(overrides)
+    else:
+        source_fields: list[tuple[str, str]] = []
+        for station in profile.stationen:
+            text = clean(station).rstrip(".")
+            if ":" in text:
+                title, detail = text.split(":", 1)
+            else:
+                parts = [part.strip() for part in text.split(",") if part.strip()]
+                title = ", ".join(parts[:2]) if len(parts) >= 2 else profile.label
+                detail = text
+            source_fields.append((title, detail))
+
     fields: list[tuple[str, str]] = []
     seen: set[str] = set()
-    for station in profile.stationen:
-        text = clean(station, 240).rstrip(".")
-        if ":" in text:
-            title, detail = text.split(":", 1)
-        else:
-            parts = [part.strip() for part in text.split(",") if part.strip()]
-            title = ", ".join(parts[:2]) if len(parts) >= 2 else " ".join(text.split()[:6])
-            detail = text
-        title = clean(title, 90).rstrip(" .:-")
-        detail = clean(detail, 180).rstrip(" .")
+    fallback = f"Bearbeite dieses Kernfeld entlang der kuratierten Prüflinie für {profile.label}"
+    for title, detail in source_fields:
+        title = clean(title).rstrip(" .:-")
+        detail = complete_phrase_excerpt(detail, 220, fallback)
         key = re.sub(r"\W+", "", title.lower())
-        if not key or key in seen:
+        if not title or not detail or key in seen:
             continue
         seen.add(key)
-        if detail:
-            detail = detail[0].upper() + detail[1:]
-        fields.append((title, detail))
-        if len(fields) >= max_items:
-            return fields
-
-    noise_bits = (
-        "allgemein",
-        "aktenanlage",
-        "beweislast",
-        "chronologie",
-        "deal",
-        "einstieg",
-        "fehlerkatalog",
-        "kaltstart",
-        "luecken",
-        "quality",
-        "quelle",
-        "red-team",
-        "routing",
-        "start",
-        "workflow",
-    )
-    for title, detail in skill_fields(skill_material, max_items * 3):
-        lowered = title.lower()
-        detail_lowered = detail.lower()
-        if any(bit in lowered for bit in noise_bits):
-            continue
-        if any(
-            bit in detail_lowered
-            for bit in (
-                "beginne nicht mit einem fragenkatalog",
-                "dieser arbeitsgang macht chronologie und belegmatrix",
-                "dieser arbeitsgang macht fristen- und risikoampel",
-                "dieser arbeitsgang macht mandantenkommunikation",
-                "dieser arbeitsgang ist ein konkreter fachbaustein",
-            )
-        ):
-            continue
-        if any(
-            bit in detail_lowered
-            for bit in (
-                "problemfokus dieses skills",
-                "bleibe beim konkreten titel",
-                "tatsachen, frist, norm, beweislast",
-            )
-        ):
-            detail = quick_grip(profile, title, detail)
-        if (
-            re.match(r"^\d+\.\s+", detail)
-            or detail.rstrip().endswith("?")
-            or any(bit in detail_lowered for bit in PRACTICE_ROUTE_NOISE)
-            or is_generic_route_detail(detail)
-        ):
-            title_tokens = set(re.findall(r"[a-zäöüß]{5,}", lowered))
-            station = max(
-                profile.stationen,
-                key=lambda item: len(
-                    title_tokens
-                    & set(re.findall(r"[a-zäöüß]{5,}", item.lower()))
-                ),
-                default=f"{profile.label} fachlich und aktennah bearbeiten",
-            )
-            station_detail = station.split(":", 1)[-1].strip().rstrip(".")
-            detail = clean(f"Bearbeite {title}: {station_detail}", 180)
-        key = re.sub(r"\W+", "", lowered)
-        if not key or key in seen:
-            continue
-        seen.add(key)
-        if detail:
-            detail = detail[0].upper() + detail[1:]
-        fields.append((title, detail))
+        fields.append((title, detail[0].upper() + detail[1:]))
         if len(fields) >= max_items:
             break
     return fields
@@ -3994,40 +3998,38 @@ def station_heading(station: str) -> str:
     return clean(text, 110).rstrip(" .:-")
 
 
-def detail_question(detail: str) -> str:
-    detail = clean(detail, 115).lstrip("- ").rstrip(". -")
-    for _ in range(3):
-        shortened = re.sub(r"\s+\b(?:und|oder|mit|ohne|für|fuer|von|zu|im|in|als|bei|nach|nächstem|naechstem)\b$", "", detail, flags=re.IGNORECASE).rstrip(". -")
-        if shortened == detail:
-            break
-        detail = shortened
-    repairs = {
-        "Kollisions": "Kollisionsprüfung",
-        "Verhandlungs": "Verhandlungslinie",
-        "Fehler": "Fehlerliste",
-        "Fristen": "Fristen- und Risikoampel",
-        "Paragraf": "einschlägige Paragrafen",
-        "Liefere": "konkreten Sofortgriff",
-    }
-    for suffix, replacement in repairs.items():
-        if detail.endswith(suffix):
-            detail = detail[: -len(suffix)].rstrip(" -") + " " + replacement
-            break
-    return detail.rstrip(". -")
+def detail_question(detail: str, fallback: str = "") -> str:
+    """Verdichtet nur bis zu einer vollständigen Phrase."""
+
+    return route_excerpt(detail.lstrip("- "), 115, fallback)
 
 
 def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
     hay = f"{profile.key} {field} {detail}".lower()
+    infer_topic = profile.key == "default"
+    # Nur die exakte, vom Profil selbst gelieferte Kombination ist vertrauenswürdig.
+    # Ihr Detail bleibt vollständig; fremde oder nur ähnlich benannte Felder laufen
+    # weiterhin durch die profilgebundene Begrenzung weiter unten.
+    if (field, detail) in profile_fields(profile, []):
+        return detail.rstrip(" .")
     if profile.key in PROFILE_FIELD_OVERRIDES and detail and re.sub(
         r"\W+", "", detail.lower()
     ) != re.sub(r"\W+", "", field.lower()) and not any(
         bit.lower() in detail.lower() for bit in GENERIC_FIELD_BITS
     ):
-        return clean(detail, 180).rstrip(" .")
+        return route_excerpt(
+            detail,
+            220,
+            f"Bearbeite {field} entlang der kuratierten Prüflinie für {profile.label}",
+        )
     if profile.key in {"aktg_hv", "phishing", "weg"} and detail and not any(
         bit.lower() in detail.lower() for bit in GENERIC_FIELD_BITS
     ) and re.sub(r"\W+", "", detail.lower()) != re.sub(r"\W+", "", field.lower()):
-        return clean(detail, 180).rstrip(" .")
+        return route_excerpt(
+            detail,
+            220,
+            f"Bearbeite {field} entlang der kuratierten Prüflinie für {profile.label}",
+        )
     if profile.key == "aktg_hv":
         if "abstimmung" in hay or "feststellung" in hay:
             return "Präsenz, Stimmverbote, Mehrheitsmaßstab, Abstimmungsfrage, Zählung, Feststellung, Widerspruch und Niederschrift der Hauptversammlung lückenlos abgleichen"
@@ -4194,9 +4196,9 @@ def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
         if any(bit in hay for bit in ("arbeitszeit", "urlaub", "fehlzeit", "krank", "payroll", "vergütung")):
             return "Zeitraum, Anspruch, Berechnung, Nachweis, Ausschlussfrist, Beteiligungsrecht und Buchungs- oder Antworttext verbinden"
         return "Arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen"
-    if "kündigung" in hay or "befristung" in hay or "betriebsrat" in hay or "arbeitsgericht" in hay:
+    if infer_topic and has_route_term(hay, "arbeitskündigung", "betriebsrat", "arbeitsgericht"):
         return "Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen"
-    if "insolvenz" in hay or "starug" in hay or profile.key in {"insolvenz", "liquiditaet"}:
+    if profile.key in {"insolvenz", "liquiditaet", "sanierung"} or (infer_topic and has_route_term(hay, "insolvenz", "starug")):
         if "abstimmung" in hay or "mehrheit" in hay:
             return "Gruppenbildung, Stimmrecht, Kopf- und Summenmehrheit, gruppenübergreifende Mehrheitsentscheidung, Schlechterstellungsverbot und Abstimmungsnachweis im Planvergleich prüfen"
         if "international" in hay:
@@ -4204,39 +4206,39 @@ def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
         if "restrukturierungsplan" in hay or "insolvenzplan" in hay:
             return "darstellenden und gestaltenden Teil, Gruppen, Planvergleich, Stimmrechte, Mehrheiten, Minderheitenschutz, Bestätigung und Vollzug in einer Planmatrix verbinden"
         return "Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen"
-    if "renten" in hay or "rente" in hay or "drv" in hay or profile.key == "renten":
+    if profile.key == "renten" or (infer_topic and has_route_term(hay, "renten", "rente", "drv")):
         return "Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen"
-    if profile.key == "sozial" or has_route_term(
+    if profile.key == "sozial" or (infer_topic and has_route_term(
         hay, "sozialrecht", "pflege", "pflegegrad", "hilfsmittel"
-    ):
+    )):
         return "Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen"
-    if "gesellschaft" in hay or "gmbh" in hay or "aktg" in hay or profile.key == "gesellschaft":
+    if profile.key == "gesellschaft" or (infer_topic and has_route_term(hay, "gesellschaft", "gmbh", "aktg")):
         return "Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen"
-    if "agrar" in hay or "landpacht" in hay or "gap" in hay or "höfe" in hay:
+    if infer_topic and has_route_term(hay, "agrar", "landpacht", "gap", "höfe"):
         return "Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen"
-    if "miet" in hay or "wohnung" in hay or profile.key == "miet":
+    if profile.key == "miet" or (infer_topic and has_route_term(hay, "mietrecht", "mietvertrag")):
         return "Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren"
-    if profile.key == "famil" or has_route_term(hay, "familienrecht", "unterhalt"):
+    if profile.key == "famil" or (infer_topic and has_route_term(hay, "familienrecht", "unterhalt")):
         return "Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen"
-    if "urheber" in hay or profile.key == "urheber":
+    if profile.key == "urheber" or (infer_topic and has_route_term(hay, "urheber", "urheberrecht")):
         return "Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten"
-    if profile.key in {"straf", "strafjustiz"} or has_route_term(
+    if profile.key in {"straf", "strafjustiz"} or (infer_topic and has_route_term(
         hay, "strafrecht", "strafsache", "anklage"
-    ):
+    )):
         return "Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen"
-    if profile.key in {"steuer", "finanzgericht"} or has_route_term(
+    if profile.key in {"steuer", "finanzgericht"} or (infer_topic and has_route_term(
         hay, "steuer", "steuern", "steuerrecht", "steuerliche", "besteuerung"
-    ):
+    )):
         return "Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen"
-    if "vergabe" in hay or profile.key == "vergabe":
+    if profile.key == "vergabe" or (infer_topic and has_route_term(hay, "vergabe", "vergaberecht")):
         return "Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen"
     if profile.key in {"bau", "bauplanung"}:
         return "Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen"
-    if "datenschutz" in hay or "dsgvo" in hay or profile.key == "datenschutz":
+    if profile.key == "datenschutz" or (infer_topic and has_route_term(hay, "datenschutz", "dsgvo")):
         return "Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren"
     if profile.key == "it":
         return "Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen"
-    if "verwalt" in hay or profile.key == "verwaltung":
+    if profile.key == "verwaltung" or (infer_topic and has_route_term(hay, "verwaltung", "verwaltungsrecht")):
         return "Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen"
     candidate = detail_question(detail)
     field_prefix = field.rstrip(" .:-").lower()
@@ -4263,22 +4265,23 @@ def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
                 field_tokens & set(re.findall(r"[a-zäöüß]{5,}", item.lower()))
             ),
         )
-        return clean(
+        return route_excerpt(
             f"Bearbeite {field} entlang der {profile.label}-Prüflinie: {station}",
             250,
-        ).rstrip(" .")
-    return clean(f"Bearbeite {field} als konkreten Vorgang im Gebiet {profile.label}", 220)
+            f"Bearbeite {field} als konkreten Vorgang im Gebiet {profile.label}",
+        )
+    return f"Bearbeite {field} als konkreten Vorgang im Gebiet {profile.label}"
 
 
 def quick_stations(profile: ThemenProfil, skill_material: list[dict[str, str]]) -> list[str]:
-    if profile.key != "default" or not skill_material:
-        return [clean(station, 230) for station in profile.stationen[:6]]
-    out: list[str] = []
-    for field, detail in profile_fields(profile, skill_material, 6):
-        out.append(f"{field}: {quick_grip(profile, field, detail)}.")
-    if len(out) < 4:
-        out.extend(profile.stationen)
-    return out[:6]
+    """Verwendet die kuratierte Kernroute des Profils ohne Skilltext-Rerouting."""
+
+    _ = skill_material
+    fallback = f"Bearbeite den Vorgang entlang der kuratierten Prüflinie für {profile.label}"
+    return [
+        sentence_terminal(complete_phrase_excerpt(station, 260, fallback))
+        for station in profile.stationen[:6]
+    ]
 
 
 def domain_goal(mf: dict, plugin_dir: Path, profile: ThemenProfil) -> str:
@@ -4286,6 +4289,19 @@ def domain_goal(mf: dict, plugin_dir: Path, profile: ThemenProfil) -> str:
     if not intro:
         intro = profile.rolle
     return intro.rstrip(".")
+
+
+def plugin_profile_context(
+    mf: dict,
+    plugin_dir: Path,
+    skill_material: list[dict[str, str]],
+) -> str:
+    """Baut einen Themenkontext aus allen Titeln und Beschreibungen, nie Volltext."""
+
+    parts = [mf.get("description", ""), first_readme_paragraph(plugin_dir)]
+    for item in skill_material:
+        parts.extend((item.get("heading", ""), item.get("desc", "")))
+    return " ".join(part for part in parts if part)
 
 
 def output_hint(profile: ThemenProfil, fields: list[tuple[str, str]]) -> str:
@@ -4415,6 +4431,23 @@ PRACTICE_ROUTE_NOISE = (
     "transaktionsstruktur, datenraumfund, wertwirkung",
     "auslöser, zugang, fristart, beginn",
     "arbeite zuerst die tragende rechtsfrage heraus",
+    "stelle höchstens fünf fragen",
+    "welche frist oder verfahrenshandlung steht als nächstes an",
+    "welche unterlagen sind schon da",
+    "welches gericht/forum ist vorgesehen oder vereinbart",
+    "soll der output auf deutsch, englisch oder zweisprachig sein",
+    "schlage nach jedem zwischenergebnis",
+    "tragende gesetzesstände live gegen",
+    "keine kommentar-, aufsatz- oder",
+    "zerlege den fall in tatsachen, normen",
+    "kläre rolle, ziel, gegner, frist",
+    "liefere zuerst eine kurzantwort mit risikoampel",
+    "liefere eine fallbezogene norm / tatsache / beleg",
+    "verfahrensart bestimmen: vorabentscheidung",
+    "wenn die zuständigkeit zwischen gerichtshof und gericht offen ist",
+    "lege in fünf sätzen fest: parteirolle",
+    "erzeuge eine konkrete prüf- oder entscheidungsmatrix",
+    "werk, schutzfähigkeit, rechtekette, nutzungshandlung",
     "schriftbild:",
     "konkrete normen, konkrete unterlagen, konkrete nächste handlung",
     "p092",
@@ -6163,19 +6196,10 @@ def practice_route_anchors(detail: str, body: str) -> str:
             bit in candidate.lower() for bit in PRACTICE_ROUTE_NOISE
         ):
             continue
+        if contains_decision_reference(candidate):
+            continue
         has_norm = bool(re.search(r"\b(?:Paragraf|Artikel|Art\.|can\.)\s*\d", candidate))
-        has_case = bool(
-            re.search(
-                r"\b(?:BGH|BAG|BVerfG|BVerwG|BSG|BFH|EuGH|BPatG|OLG|LG|AG|LAG|ArbG|SG|LSG)\b",
-                candidate,
-            )
-            and (
-                re.search(r"\b(?:Urteil|Beschluss|Entscheidung)\b", candidate)
-                or re.search(r"\b\d{2}\.\d{2}\.\d{4}\b", candidate)
-                or case_id_set(candidate)
-            )
-        )
-        if not (has_norm or has_case):
+        if not has_norm:
             continue
         key = re.sub(r"\W+", "", candidate.lower())
         if key in seen:
@@ -6203,18 +6227,13 @@ def distinct_route_depth(body: str, detail: str) -> str:
             continue
         if ROUTE_FRAGMENT_END.search(clause):
             continue
-        if "BVerfGE" in clause or "BAGE" in clause or "PBvU" in clause or case_id_set(clause):
+        if contains_decision_reference(clause) or "PBvU" in clause:
             continue
         if re.match(
             r"^(?:und|oder|sowie|atz|satz|absatz|nummer|des|dem|der|die|das|bei|vom)\b",
             clause,
             flags=re.IGNORECASE,
         ):
-            continue
-        if re.search(
-            r"\b(?:BGH|BAG|BVerfG|BVerwG|BSG|BFH|EuGH|BPatG|OLG|LG|LAG|ArbG|SG|LSG)\b",
-            clause,
-        ) and re.search(r"\b\d{2}\.\d{2}\.\d{4}\b", clause) and not case_id_set(clause):
             continue
         key = re.sub(r"\W+", " ", clause.lower()).strip()
         if not key or key in seen:
@@ -6400,10 +6419,8 @@ def practice_routes(
             )
         ):
             detail = practice_route_fallback(profile, title, plugin_slug)
-        if re.match(
-            r"^(?:Normen?:|Paragraf(?:en)?\b|Artikel\b|Ständige Rechtsprechung\b|"
-            r"BGH\b|BAG\b|BVerfG\b|BVerwG\b|BSG\b|BFH\b|EuGH\b|BPatG\b|"
-            r"OLG\b|LG\b|AG\b|LAG\b|ArbG\b|SG\b|LSG\b)",
+        if contains_decision_reference(detail) or re.match(
+            r"^(?:Normen?:|Paragraf(?:en)?\b|Artikel\b|Ständige Rechtsprechung\b)",
             detail,
             flags=re.IGNORECASE,
         ):
@@ -6499,7 +6516,15 @@ def practice_routes(
     for pool in (candidates, fallback_candidates):
         for _score, _family, title, detail, depth, anchors in pool:
             title_key = normalized_route_key(title)
-            content_key = normalized_route_key(detail)[:300]
+            route_detail = detail
+            content_key = normalized_route_key(route_detail)[:300]
+            if content_key in selected_content:
+                # Mehrere Skills können denselben kuratierten Profilvorspann
+                # tragen. Beim Auffüllen bleibt ihr Fachthema erhalten und der
+                # doppelte Vorspann wird durch den titelgebundenen Fachauftrag
+                # ersetzt, statt die Route vollständig zu verwerfen.
+                route_detail = practice_route_fallback(profile, title, plugin_slug)
+                content_key = normalized_route_key(route_detail)[:300]
             if (
                 not title_key
                 or title_key in selected_title_keys
@@ -6508,7 +6533,13 @@ def practice_routes(
             ):
                 continue
             selected.append(
-                (title, detail, depth, anchors, practice_route_output(profile, title, detail, plugin_slug))
+                (
+                    title,
+                    route_detail,
+                    depth,
+                    anchors,
+                    practice_route_output(profile, title, route_detail, plugin_slug),
+                )
             )
             selected_title_keys.add(title_key)
             selected_content.add(content_key)
@@ -6582,11 +6613,12 @@ def practice_routes_lines(
             "",
             f"Bearbeitungsauftrag: {sentence_terminal(detail)}",
         ]
-        if depth:
-            lines.append(f"Prüfschritte: {sentence_terminal(route_excerpt(depth, 700))}")
+        depth_excerpt = route_excerpt(depth, 700) if depth else ""
+        if depth_excerpt:
+            lines.append(f"Prüfschritte: {sentence_terminal(depth_excerpt)}")
         if anchors:
             lines.append(
-                "Norm- oder Entscheidungsbezug aus dem Fachmaterial: "
+                "Normbezug aus dem Fachmaterial: "
                 + sentence_terminal(clean(anchors, 360))
             )
         lines += [
@@ -7102,13 +7134,17 @@ def build_werkstatt(
     slug = mf.get("name") or plugin_dir.name
     if skill_material is None:
         skill_material = collect_skill_material(plugin_dir)
-    context = " ".join([mf.get("description", ""), first_readme_paragraph(plugin_dir)] + [s["desc"] for s in skill_material[:20]])
+    context = plugin_profile_context(mf, plugin_dir, skill_material)
     profile = profile_for(slug, context)
     title = title_for(slug, mf, profile)
     stations = list(profile.stationen)
     intro = clean(mf.get("description", "") or first_readme_paragraph(plugin_dir) or profile.rolle, 900)
     profile_norms = [] if profile.key == "default" else list(profile.normen)
-    profile_cases = [] if profile.key == "default" else list(profile.entscheidungen)
+    profile_cases = (
+        []
+        if profile.key == "default"
+        else list(profile.entscheidungen[:5])
+    )
     extracted_norms = extract_norm_anchors(skill_material, 8)
     extracted_cases = extract_case_anchors(skill_material, 5)
     if profile.key in CURATED_NORM_PROFILE_KEYS:
@@ -7390,7 +7426,7 @@ def build_schnellstart(
     slug = mf.get("name") or plugin_dir.name
     if skill_material is None:
         skill_material = collect_skill_material(plugin_dir)
-    context = " ".join([mf.get("description", ""), first_readme_paragraph(plugin_dir)] + [s["desc"] for s in skill_material[:20]])
+    context = plugin_profile_context(mf, plugin_dir, skill_material)
     profile = profile_for(slug, context)
     title = title_for(slug, mf, profile)
     fields = profile_fields(profile, skill_material)
@@ -7404,7 +7440,11 @@ def build_schnellstart(
     if profile.key in CURATED_CASE_PROFILE_KEYS:
         extracted_cases = []
     profile_norms = [] if profile.key == "default" else list(profile.normen[:4])
-    profile_cases = [] if profile.key == "default" else list(profile.entscheidungen[:2])
+    profile_cases = (
+        []
+        if profile.key == "default"
+        else list(profile.entscheidungen[:2])
+    )
     if profile.key in PROFILE_CASE_SKIP_KEYS:
         profile_cases = []
     if slug in CASE_RESEARCH_ONLY_SLUGS:
@@ -7436,7 +7476,7 @@ def build_schnellstart(
         "",
     ]
     for idx, station in enumerate(stations, 1):
-        lines.append(f"{idx}. {clean(station, 230)}")
+        lines.append(f"{idx}. {station}")
     lines += [
         "",
         "## 4. Fallkarte",
@@ -7795,10 +7835,7 @@ def enrich_protected_werkstatt(plugin_dir: Path) -> bool:
     text = ensure_title_first(prose_umlauts(text))
     text = renumber_h2_sections(text).rstrip()
     skill_material = collect_skill_material(plugin_dir)
-    context = " ".join(
-        [mf.get("description", ""), first_readme_paragraph(plugin_dir)]
-        + [item.get("desc", "") for item in skill_material[:20]]
-    )
+    context = plugin_profile_context(mf, plugin_dir, skill_material)
     profile = profile_for(slug, context)
     routes = practice_routes(profile, skill_material, 12, plugin_slug=slug)
     if not routes:
@@ -7832,10 +7869,7 @@ def normalize_protected_schnellstart(plugin_dir: Path) -> bool:
         count=1,
     )
     skill_material = collect_skill_material(plugin_dir)
-    context = " ".join(
-        [mf.get("description", ""), first_readme_paragraph(plugin_dir)]
-        + [item.get("desc", "") for item in skill_material[:20]]
-    )
+    context = plugin_profile_context(mf, plugin_dir, skill_material)
     profile = profile_for(slug, context)
     fields = profile_fields(profile, skill_material)
     field_names = [clean(field, 42).rstrip(".") for field, _detail in fields[:2]]

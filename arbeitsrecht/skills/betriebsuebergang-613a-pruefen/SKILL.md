@@ -48,13 +48,13 @@ Bevor losgelegt wird, kläre:
 ## Zentrale Anspruchsgrundlagen & Normen
 
 - **Paragraf 613a Abs. 1 BGB** — Eintrittswirkung des Erwerbers in Rechte und Pflichten
-- **Paragraf 613a Abs. 2 BGB** — gesamtschuldnerische Haftung Erwerber/Veräußerer (Veräußerer haftet 1 Jahr für vorher fällig gewordene Ansprüche)
+- **Paragraf 613a Absatz 2 BGB** — gesamtschuldnerische Nachhaftung des bisherigen Arbeitgebers nur für vor dem Übergang entstandene Verpflichtungen, die vor Ablauf eines Jahres nach dem Übergang fällig werden; bei späterer Fälligkeit haftet er nur zeitanteilig für den vor dem Übergang liegenden Bemessungszeitraum.
 - **Paragraf 613a Abs. 4 BGB** — Kündigungsverbot wegen Betriebsübergangs (beidseitig)
 - **Paragraf 613a Abs. 5 BGB** — Pflicht zur schriftlichen Unterrichtung der Arbeitnehmer
 - **Paragraf 613a Abs. 6 BGB** — Widerspruchsrecht; Frist: 1 Monat ab Zugang der Unterrichtung
 - **Paragrafen 111, 112, 113 BetrVG** — Unterrichtung und Beratung Betriebsrat; Interessenausgleich; Sozialplan; Nachteilsausgleich bei Verletzung
-- **Paragrafen 322 ff., 324 UmwG** — Umwandlungsrecht; Paragraf 613a entsprechend anwendbar bei Spaltung und Verschmelzung
-- **Paragraf 125 InsO** — erleichterte Kündigung im Insolvenzverfahren; Paragraf 613a BGB gilt auch in Insolvenz
+- **Paragrafen 322 ff., 324 UmwG** — Umwandlungsrechtliche Arbeitnehmerfolgen und Verhältnis zu Paragraf 613a BGB nach der konkreten Maßnahme prüfen.
+- **Paragraf 125 InsO** — Interessenausgleich mit Namensliste im Insolvenzverfahren; hiervon die Anwendbarkeit des Paragraf 613a BGB und die Rechtsprechung zur Haftungsbegrenzung bei einem Erwerb nach Verfahrenseröffnung trennen.
 
 ## Ablauf
 
@@ -120,8 +120,8 @@ Bevor losgelegt wird, kläre:
 ### Schritt 6 — Haftung Paragraf 613a Abs. 2 BGB
 
 - Erwerber haftet für alle nach Übergang fälligen Ansprüche
-- Veräußerer haftet **1 Jahr** gesamtschuldnerisch für **vor** Übergang fällig gewordene Ansprüche
-- Erwerber haftet auch für vorher fällig gewordene Ansprüche nach der Eintrittstheorie
+- Der Erwerber tritt in die bestehenden Arbeitsverhältnisse und deren Rechte und Pflichten ein.
+- Der Veräußerer haftet nach Paragraf 613a Absatz 2 BGB für vor dem Übergang entstandene Verpflichtungen nur, soweit sie vor Ablauf eines Jahres nach dem Übergang fällig werden; bei später fällig werdenden Dauerschulden ist der vor dem Übergang liegende Bemessungsanteil maßgeblich.
 
 ### Schritt 7 — Betriebsrat-Information Paragraf 111 BetrVG
 
@@ -150,7 +150,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Standard — Arbeitnehmer will Betriebsuebergang anfechten | Widerspruchserklaerung nach Paragraf 613a Abs. 6 BGB; Template unten |
 | Variante A — Arbeitnehmer will beim neuen Betriebsinhaber bleiben | Uebergang hinnehmen; nur Konditionen-Prüfung sicherstellen |
 | Variante B — Betriebsuebergang rechtlich zweifelhaft | Feststellungsklage vorbereiten; Uebergang bestreiten |
-| Variante C — Insolvenz des alten Inhabers | Paragraf 613a Abs. 1 S. 4 BGB Sonderregelung prüfen; kurzfristige Handlung empfohlen |
+| Variante C — Erwerb aus der Insolvenz | Zeitpunkt der Verfahrenseröffnung, Massezugehörigkeit, übernommene Arbeitsverhältnisse und die richterrechtliche Begrenzung der Erwerberhaftung für vor Verfahrenseröffnung entstandene Ansprüche gesondert prüfen; Paragraf 613a Absatz 1 Satz 4 BGB betrifft Tarif- und Betriebsvereinbarungsnormen, nicht die Insolvenz. |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 

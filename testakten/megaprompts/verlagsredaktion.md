@@ -10,10 +10,10 @@ Diese Vollprüfung enthält top-8 von 118 Skills (gekürzt für das Arbeitsfenst
 2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
 3. **kaltstart-triage** — Für Verlagsredaktion — Startdesk: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und …
 4. **verlagsdesk-erstpruefung-und-mandatsziel** — Für Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: …
-5. **abstimmung-lektorat-produktion-satz** — Für Abstimmung Lektorat / Redaktion (Format-Klärung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt m…
-6. **verl-abstimmung-mit-lektorat-format** — Für Abstimmung Lektorat / Redaktion (Format-Klärung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt m…
-7. **verl-social-media-rechtsfachzeitschrift** — Für Social-Media-Beitrag für Fachzeitschrift: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risik…
-8. **verl-zitierweise-pruefung-zeitschrift-jus-njw** — Für Zitierweise-Prüfung (NJW, NZA, JuS, JZ, ): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder An…
+5. **aussagensicherheit-buchprojekt-bauleiter** — Prüft Aussagen eines Buchprojekts vor dem Druck: Tatsachenbeleg, Zitatgenauigkeit, Kontext, erkennbare Betroffene und re…
+6. **verl-aussagensicherheit-pruefung** — Kontrolliert die Belegbarkeit veröffentlichungsreifer Aussagen. Ordnet Behauptung, Beleg, Gegenposition und Veröffentlic…
+7. **abstimmung-lektorat-produktion-satz** — Für Abstimmung Lektorat / Redaktion (Format-Klärung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt m…
+8. **verl-abstimmung-mit-lektorat-format** — Für Abstimmung Lektorat / Redaktion (Format-Klärung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt m…
 
 ---
 
@@ -316,6 +316,228 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `aussagensicherheit-buchprojekt-bauleiter`
+
+_Prüft Aussagen eines Buchprojekts vor dem Druck: Tatsachenbeleg, Zitatgenauigkeit, Kontext, erkennbare Betroffene und rechtliche Angriffsfläche. Liefert eine Freigabeliste mit konkreten Textkorrekturen und den noch benötigten Nachweisen._
+
+# Aussagensicherheits-Prüfung ("darf das so im Druck?")
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: VerlG § 17 Ablieferungsfrist, UrhG § 41 Rückrufsrecht wegen Nichtausübung nach 2 Jahren, VG-Wort-Meldungen jährlich, JuSchG-Indizierung sofort wirksam.
+- Tragende Normen verifizieren: UrhG §§ 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB §§ 433, 631, JuSchG, PresseG der Länder, ImpressumsR, DSGVO Art. 85 (Medienprivileg) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verlagsvertrag, Übersetzervertrag, Lizenzvertrag, Honorarrechnung, Pflichtexemplarmeldung, VG-Wort-Meldung, Impressum, AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Worum geht es konkret
+
+Eine Aussage in einem Fachaufsatz oder einer Anmerkung kann juristisch problematisch sein, selbst wenn Grammatik, Stil und Quellen stimmen: Sie kann ehrverletzend gegenueber Beteiligten sein, datenschutzrechtlich heikel, berufsrechtlich relevant (Mandantenidentifizierung!), oder einfach inhaltlich nicht hinreichend belegt. Dieser Skill ist das letzte inhaltliche Prüfraster vor Druck.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+
+Sie brauchen ihn immer bei brisanten Themen, polemischen Anmerkungen, Beitraegen mit erkennbarem Fall (Mandantenbezug), Beitraegen über konkret benannte Personen oder Institutionen. Klären Sie:
+
+1. Werden konkrete Personen / Institutionen / Mandanten genannt?
+2. Hat die Autorin ein Mandantenmandat selbst gefuehrt - dann § 43a BRAO?
+3. Wird ein Berufsstand kritisiert (Richter, BMF, BAFin)?
+4. Werden Rechtsmeinungen scharf abgelehnt - mit Belegen?
+
+## Material- bzw. Sachrahmen
+
+- Manuskript im finalen Stand.
+- Hinweise auf Mandantenbezug.
+- Vorgaengerbeitraege zum gleichen Thema (Konfliktlinien).
+- Hauseigene Justiziariats-Richtlinien.
+
+## Praxisleitfaden / Schritt für Schritt
+
+1. **Risikoflaechen identifizieren:**
+ - Mandantenbezug (Anwaltsmandat).
+ - Konkret benannte Dritte (Richter, Anwaelte, Behörden, Unternehmen).
+ - Tatsachenbehauptungen (vs. Wertungen).
+ - Anschuldigungen / Vorwuerfe.
+ - Datenschutz-relevante Angaben.
+2. **Belegtiefe prüfen.** Jede Tatsachenbehauptung mit Beleg? Wertungen als solche erkennbar?
+3. **Ehrenschutz / Persoenlichkeitsrecht** (§§ 823, 1004 BGB, Art. 1 i.V.m. Art. 2 I GG): Werden Beteiligte ungerechtfertigt herabgesetzt?
+4. **Mandantenschutz** (§ 43a Abs. 2 BRAO, § 203 StGB): Anonymisierung ausreichend? Schreibt die Autorin über einen eigenen Fall? Mandantenfreigabe?
+5. **DSGVO** (Art. 6, Art. 9): personenbezogene Daten? Rechtsgrundlage?
+6. **Berufsstandkritik.** Sachlich, mit Belegen? Oder polemisch ohne Grundlage?
+7. **Wahrheits- / Wahrhaftigkeitsbeleg.** Tatsachenbehauptung muss erweislich wahr oder hinreichend recherchiert sein.
+8. **Eskalation an Justiziariat** bei brisanten Stellen vor Druck.
+
+## Trade-off-Matrix
+
+| Pfad | A: Strenge Justiziariats-Vorpruefung | B: Verlagsroutine ohne Justiziariat | Empfehlung |
+|------|--------------------------------------|--------------------------------------|------------|
+| Risiko | gering | mittel bis hoch | A bei brisanten Themen |
+| Lieferzeit | langsamer | schneller | B bei Routine |
+| Beziehung Autor-Verlag | belastend | leichter | A wenn Risiko klar |
+
+## Praxistipps der alten Redaktion
+
+- "Schreibt die Autorin über einen eigenen Mandantenfall? Immer Mandantenfreigabe schriftlich, immer Anonymisierungspruefung."
+- Personenkritik an Richtern: nur sachlich, nur mit Beleg, niemals ad personam.
+- Anschuldigungen ("XY hat falsch entschieden") brauchen Belege, wo das Falsche liegt.
+- Bei DSGVO-Themen: Datenschutzbeauftragte / Datenschutzbeauftragten des Verlages frueh einbinden.
+- Im Zweifel an die Hausjustiziarin oder den externen Justiziar.
+
+## Mustertexte / Vorlagen
+
+**Risiko-Befundtabelle:**
+
+| Stelle | Risikoart | Befund | Maßnahme |
+|--------|-----------|--------|-----------|
+| S. 3 | Mandantenbezug | "Mein Mandant hatte ..." - Anonymisierung duenn | Mandantenfreigabe einholen, ggf. Anonymisierung verstaerken |
+| S. 7 | Ehrenschutz Richter | "Der Vorsitzende hat erkennbar parteiisch verhandelt" - Behauptung ohne Beleg | Beleg verlangen oder Wertung zurueckziehen |
+| S. 12 | DSGVO | Klarname eines Mandanten in Fussnote | streichen / anonymisieren |
+| S. 18 | Berufsstandkritik | "Die BAFin hat versagt" - Beleg fehlt | konkretisieren mit Quelle |
+
+**Anschreiben (Aussagensicherheit):**
+
+> Sehr geehrte Frau Dr. Schmidt, bei der inhaltlichen Sicherheitspruefung Ihres Aufsatzes haben wir vier Stellen markiert, die wir vor Druck mit Ihnen besprechen wollen (siehe Anlage). Insbesondere bitten wir um (1) Mandantenfreigabe schriftlich für den Fallbezug S. 3, (2) Beleg für die Aussage zur Parteilichkeit S. 7, (3) Konkretisierung des Vorwurfs gegen die BAFin S. 18 mit Quelle. Die Stelle S. 12 (Mandantenname) bitten wir, vor Druck zu anonymisieren. Rueckmeldung bitte bis 19.06.2026.
+
+**Eskalations-Notiz an Justiziariat:**
+
+```
+Manuskript: Schmidt, "[Titel]" für NJW 14/2026
+Risikostufe: hoch
+Risikoart: Personenkritik an Richter, Mandantenbezug
+Anlagen: Manuskript, anonymisierte Beteiligten-Tabelle, vorgesehene Druckfassung
+Bitte um Rueckmeldung bis 16.06.2026.
+```
+
+## Typische Fehler / Pitfalls
+
+- Mandantenname uebersehen.
+- Polemische Aussagen ohne Beleg im Druck.
+- Justiziariat zu spaet eingebunden.
+- DSGVO-Verletzung mit Klarnamen in Fussnoten.
+- Rspr.-Kritik ad personam statt zur Sache.
+
+## Quellen Stand 06/2026
+
+- BGB §§ 823, 1004 (Ehrenschutz, Unterlassung), [https://www.gesetze-im-internet.de/bgb/](https://www.gesetze-im-internet.de/bgb/).
+- StGB § 203 (Verletzung von Privatgeheimnissen), [https://www.gesetze-im-internet.de/stgb/](https://www.gesetze-im-internet.de/stgb/).
+- BRAO § 43a Abs. 2 (Verschwiegenheit), [https://www.gesetze-im-internet.de/brao/](https://www.gesetze-im-internet.de/brao/).
+- GG Art. 1 i.V.m. Art. 2 Abs. 1 (allg. Persoenlichkeitsrecht), [https://www.gesetze-im-internet.de/gg/](https://www.gesetze-im-internet.de/gg/).
+- DSGVO Art. 6, Art. 9, [https://eur-lex.europa.eu/eli/reg/2016/679/oj](https://eur-lex.europa.eu/eli/reg/2016/679/oj).
+- KUG § 22 (Bildnisschutz).
+- Pressekodex Ziff. 1, 2, 9, [https://www.presserat.de/pressekodex.html](https://www.presserat.de/pressekodex.html).
+
+---
+
+## Skill: `verl-aussagensicherheit-pruefung`
+
+_Kontrolliert die Belegbarkeit veröffentlichungsreifer Aussagen. Ordnet Behauptung, Beleg, Gegenposition und Veröffentlichungsrisiko ein und erstellt eine Aussagenmatrix mit präzisen Überarbeitungsvorschlägen für die Redaktion._
+
+# Aussagensicherheits-Pruefung ("darf das so im Druck?")
+
+## Worum geht es konkret
+
+Eine Aussage in einem Fachaufsatz oder einer Anmerkung kann juristisch problematisch sein, selbst wenn Grammatik, Stil und Quellen stimmen: Sie kann ehrverletzend gegenueber Beteiligten sein, datenschutzrechtlich heikel, berufsrechtlich relevant (Mandantenidentifizierung!), oder einfach inhaltlich nicht hinreichend belegt. Dieser Skill ist das letzte inhaltliche Pruefraster vor Druck.
+
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+
+Sie brauchen ihn immer bei brisanten Themen, polemischen Anmerkungen, Beitraegen mit erkennbarem Fall (Mandantenbezug), Beitraegen ueber konkret benannte Personen oder Institutionen. Klaeren Sie:
+
+1. Werden konkrete Personen / Institutionen / Mandanten genannt?
+2. Hat die Autorin ein Mandantenmandat selbst gefuehrt - dann § 43a BRAO?
+3. Wird ein Berufsstand kritisiert (Richter, BMF, BAFin)?
+4. Werden Rechtsmeinungen scharf abgelehnt - mit Belegen?
+
+## Material- bzw. Sachrahmen
+
+- Manuskript im finalen Stand.
+- Hinweise auf Mandantenbezug.
+- Vorgaengerbeitraege zum gleichen Thema (Konfliktlinien).
+- Hauseigene Justiziariats-Richtlinien.
+
+## Praxisleitfaden / Schritt fuer Schritt
+
+1. **Risikoflaechen identifizieren:**
+   - Mandantenbezug (Anwaltsmandat).
+   - Konkret benannte Dritte (Richter, Anwaelte, Behoerden, Unternehmen).
+   - Tatsachenbehauptungen (vs. Wertungen).
+   - Anschuldigungen / Vorwuerfe.
+   - Datenschutz-relevante Angaben.
+2. **Belegtiefe pruefen.** Jede Tatsachenbehauptung mit Beleg? Wertungen als solche erkennbar?
+3. **Ehrenschutz / Persoenlichkeitsrecht** (§§ 823, 1004 BGB, Art. 1 i.V.m. Art. 2 I GG): Werden Beteiligte ungerechtfertigt herabgesetzt?
+4. **Mandantenschutz** (§ 43a Abs. 2 BRAO, § 203 StGB): Anonymisierung ausreichend? Schreibt die Autorin ueber einen eigenen Fall? Mandantenfreigabe?
+5. **DSGVO** (Art. 6, Art. 9): personenbezogene Daten? Rechtsgrundlage?
+6. **Berufsstandkritik.** Sachlich, mit Belegen? Oder polemisch ohne Grundlage?
+7. **Wahrheits- / Wahrhaftigkeitsbeleg.** Tatsachenbehauptung muss erweislich wahr oder hinreichend recherchiert sein.
+8. **Eskalation an Justiziariat** bei brisanten Stellen vor Druck.
+
+## Trade-off-Matrix
+
+| Pfad | A: Strenge Justiziariats-Vorpruefung | B: Verlagsroutine ohne Justiziariat | Empfehlung |
+|------|--------------------------------------|--------------------------------------|------------|
+| Risiko | gering | mittel bis hoch | A bei brisanten Themen |
+| Lieferzeit | langsamer | schneller | B bei Routine |
+| Beziehung Autor-Verlag | belastend | leichter | A wenn Risiko klar |
+
+## Praxistipps der alten Redaktion
+
+- "Schreibt die Autorin ueber einen eigenen Mandantenfall? Immer Mandantenfreigabe schriftlich, immer Anonymisierungspruefung."
+- Personenkritik an Richtern: nur sachlich, nur mit Beleg, niemals ad personam.
+- Anschuldigungen ("XY hat falsch entschieden") brauchen Belege, wo das Falsche liegt.
+- Bei DSGVO-Themen: Datenschutzbeauftragte / Datenschutzbeauftragten des Verlages frueh einbinden.
+- Im Zweifel an die Hausjustiziarin oder den externen Justiziar.
+
+## Mustertexte / Vorlagen
+
+**Risiko-Befundtabelle:**
+
+| Stelle | Risikoart | Befund | Massnahme |
+|--------|-----------|--------|-----------|
+| S. 3 | Mandantenbezug | "Mein Mandant hatte ..." - Anonymisierung duenn | Mandantenfreigabe einholen, ggf. Anonymisierung verstaerken |
+| S. 7 | Ehrenschutz Richter | "Der Vorsitzende hat erkennbar parteiisch verhandelt" - Behauptung ohne Beleg | Beleg verlangen oder Wertung zurueckziehen |
+| S. 12 | DSGVO | Klarname eines Mandanten in Fussnote | streichen / anonymisieren |
+| S. 18 | Berufsstandkritik | "Die BAFin hat versagt" - Beleg fehlt | konkretisieren mit Quelle |
+
+**Anschreiben (Aussagensicherheit):**
+
+> Sehr geehrte Frau Dr. Schmidt, bei der inhaltlichen Sicherheitspruefung Ihres Aufsatzes haben wir vier Stellen markiert, die wir vor Druck mit Ihnen besprechen wollen (siehe Anlage). Insbesondere bitten wir um (1) Mandantenfreigabe schriftlich fuer den Fallbezug S. 3, (2) Beleg fuer die Aussage zur Parteilichkeit S. 7, (3) Konkretisierung des Vorwurfs gegen die BAFin S. 18 mit Quelle. Die Stelle S. 12 (Mandantenname) bitten wir, vor Druck zu anonymisieren. Rueckmeldung bitte bis 19.06.2026.
+
+**Eskalations-Notiz an Justiziariat:**
+
+```
+Manuskript: Schmidt, "[Titel]" fuer NJW 14/2026
+Risikostufe: hoch
+Risikoart: Personenkritik an Richter, Mandantenbezug
+Anlagen: Manuskript, anonymisierte Beteiligten-Tabelle, vorgesehene Druckfassung
+Bitte um Rueckmeldung bis 16.06.2026.
+```
+
+## Typische Fehler / Pitfalls
+
+- Mandantenname uebersehen.
+- Polemische Aussagen ohne Beleg im Druck.
+- Justiziariat zu spaet eingebunden.
+- DSGVO-Verletzung mit Klarnamen in Fussnoten.
+- Rspr.-Kritik ad personam statt zur Sache.
+
+## Querverweise
+
+- `rechtecheck-urhg-verlg` - Urheber- und Verlagsrecht.
+- `verl-relationslinien-pruefung-im-aufsatz` - Argumentationskritik.
+- `verl-fussnoten-quellen-konsolidierung` - Beleg-Konsolidierung.
+- `verl-stilbruch-stilcheck-fachzeitschrift` - Stilcheck.
+- `ai-einsatz-transparenz-datenschutz` - Datenschutz beim KI-Einsatz.
+
+## Quellen Stand 06/2026
+
+- BGB §§ 823, 1004 (Ehrenschutz, Unterlassung), [https://www.gesetze-im-internet.de/bgb/](https://www.gesetze-im-internet.de/bgb/).
+- StGB § 203 (Verletzung von Privatgeheimnissen), [https://www.gesetze-im-internet.de/stgb/](https://www.gesetze-im-internet.de/stgb/).
+- BRAO § 43a Abs. 2 (Verschwiegenheit), [https://www.gesetze-im-internet.de/brao/](https://www.gesetze-im-internet.de/brao/).
+- GG Art. 1 i.V.m. Art. 2 Abs. 1 (allg. Persoenlichkeitsrecht), [https://www.gesetze-im-internet.de/gg/](https://www.gesetze-im-internet.de/gg/).
+- DSGVO Art. 6, Art. 9, [https://eur-lex.europa.eu/eli/reg/2016/679/oj](https://eur-lex.europa.eu/eli/reg/2016/679/oj).
+- KUG § 22 (Bildnisschutz).
+- Pressekodex Ziff. 1, 2, 9, [https://www.presserat.de/pressekodex.html](https://www.presserat.de/pressekodex.html).
+
+---
+
 ## Skill: `abstimmung-lektorat-produktion-satz`
 
 _Für Abstimmung Lektorat / Redaktion (Format-Klärung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verlagsredaktion. Route: abstimmung-lektorat-produktion-satz._
@@ -557,241 +779,6 @@ Mueller-Plattform_v7_druck.docx          (an Produktion)
 - Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
 - Plachta, Editionswissenschaft, 4. Aufl. 2020 (zu Versionierungsdisziplin).
-
----
-
-## Skill: `verl-social-media-rechtsfachzeitschrift`
-
-_Für Social-Media-Beitrag für Fachzeitschrift: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verlagsredaktion. Route: verl-social-media-rechtsfachzeitschrift._
-
-# Social-Media-Beitrag fuer Fachzeitschrift
-
-## Worum geht es konkret
-
-Verlage juristischer Fachzeitschriften bauen Social-Media-Praesenz auf, um Aufsatzhighlights, Heftankuendigungen und Veranstaltungen zu bewerben. LinkedIn ist Hauptkanal in der Anwaltschaft; Bluesky und Mastodon wachsen in der Wissenschafts-Community; X nur noch defensiv. Der Skill liefert Konzept, Texttemplates und rechtliche Leitplanken (Werbekennzeichnung, Urheberrecht an Visuals, Impressumspflicht).
-
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
-
-1. Welcher Anlass (Heftankuendigung, Highlight-Aufsatz, Webinar, BGH-Entscheidung)?
-2. Welcher Kanal (LinkedIn primaer, Bluesky, Mastodon, Threads, X)?
-3. Mit oder ohne bezahlte Reichweite (Boost)?
-4. Wer postet (Verlagsaccount, Autor, beide)?
-5. Welches Visual (Cover, Zitat-Karte, BGH-Wappen, Foto)?
-6. Frequenz pro Heft (1, 3, 5+ Posts)?
-7. Werbekennzeichnung erforderlich?
-
-## Rechtlicher und sachlicher Rahmen
-
-- DDG § 5 - Impressumspflicht auch fuer Social-Media-Profile (Verweis ueber Bio-Link genuegt nach Verwaltungspraxis bei Plattformen mit Zeichenbeschraenkung).
-- MStV § 18 - journalistische Sorgfalt fuer Telemedien mit journalistisch-redaktioneller Praegung.
-- UWG §§ 5a Abs. 4, 6 - Werbekennzeichnungspflicht; "Werbung", "Anzeige" oder vergleichbar bei kommerzieller Kommunikation.
-- UrhG §§ 51, 51a - Zitatrecht; bei Zitat-Karten Umfang und Kontext beachten.
-- UrhG § 19a - Recht der oeffentlichen Zugaenglichmachung; Wahrung der Verwertungsrechte am Aufsatzauszug.
-- DSGVO Art. 6 - Rechtsgrundlage bei Verarbeitung von Profildaten; bei Trackingpixeln separate Einwilligung.
-- KUG §§ 22, 23 - bei Personenfotos.
-
-## Praxisleitfaden / Schritt fuer Schritt
-
-1. **Kanalstrategie.** LinkedIn fuer Anwaltschaft, Bluesky fuer Wissenschaftler, Mastodon fuer Tech-affine, X reduziert.
-2. **Posthuelle planen.** Pro Heft 3 Posts: Heftueberblick - Highlight 1 - Highlight 2 - ggf. Webinar / Veranstaltung.
-3. **Texttemplate verwenden.** Hook (erste Zeile faengt Aufmerksamkeit), Substanz (zwei bis vier Saetze), Call-to-Action (Link, Kommentar).
-4. **Werbekennzeichnung.** Bei eigenem Verlagsangebot: "Werbung" bzw. "Anzeige" oder transparenter Kontext ("In unserem aktuellen Heft ..."). Bei Influencer-Kooperationen Pflicht.
-5. **Visual erstellen.** Zitat-Karten mit Coverabbildung. Achtung: Schoepfungshoehe der Karte beachten; keine Fremdbilder ohne Lizenz.
-6. **Autor verlinken / nennen.** Tag mit ausdruecklicher Zustimmung.
-7. **Veroeffentlichung und Monitoring.** Engagement-Tracking; bei rechtswidriger Kommentierung loeschen.
-8. **Archivierung.** Posts in Verlagsdokumentation ablegen (Beweisbarkeit bei Streit).
-
-## Trade-off-Matrix
-
-| Aspekt | LinkedIn | Bluesky / Mastodon |
-|---|---|---|
-| Reichweite Anwaltschaft | Sehr hoch | Niedrig |
-| Reichweite Wissenschaft | Mittel | Hoch (wachsend) |
-| Algorithmus-Risiko | Hoch | Niedrig (chronologisch) |
-| Bezahlte Reichweite | Sinnvoll | Nicht moeglich |
-| Datenschutz | Bedenklich | Eher unproblematisch |
-
-## Praxistipps der alten Redaktion
-
-- LinkedIn: Lange Posts (1500-2500 Zeichen) funktionieren besser als kurze.
-- Hook in Zeile 1, Substanz in Zeilen 2-5.
-- Hashtags sparsam (3-5), domaenenspezifisch (#Mietrecht, #Steuerrecht, #JuS).
-- Erscheinungstermin und Erscheinungstag passend timing: Dienstag oder Donnerstag, 7-9 Uhr.
-- Bei Streitthemen Kommentare moderieren - nicht jeden Kommentar stehen lassen.
-- Bei BGH-Verriss: Quelle freischalten (Link auf Pressestelle des BGH), nicht eigene Bewertung als Fakt.
-- Werbung mit "Werbung" oder "Anzeige" explizit kennzeichnen, nicht versteckt am Ende.
-
-## Mustertexte / Vorlagen
-
-**LinkedIn-Post Heftankuendigung**
-
-```
-[Hook in Zeile 1, z. B.: "Was das BGH-Urteil zum Vermieterpfandrecht
-fuer Sie bedeutet."]
-
-Werbung in eigener Sache: Heft [n]/[Jahr] der [Zeitschrift] ist
-erschienen.
-
-Drei Aufsaetze, die fuer die Anwaltspraxis sofort relevant sind:
-
-- [Autor]: [Titel] - [eine Schlussfolgerung in einem Satz].
-- [Autor]: [Titel] - [eine Schlussfolgerung in einem Satz].
-- [Autor]: [Titel] - [eine Schlussfolgerung in einem Satz].
-
-Mehr im Heft und im Volltext unter [Link].
-
-#Mietrecht #BGB #[weitere passende Hashtags]
-```
-
-**Bluesky-Post Aufsatzhighlight (Zeichenlimit)**
-
-```
-Neuer Aufsatz von [Autor] in [Zeitschrift]: [Titel].
-Die Kernthese: [12 Worte].
-Volltext (Open Access nach Embargo): [Link].
-```
-
-**Zitat-Karte (Bildtext)**
-
-```
-"[Zitat des Autors, max. 18 Worte]"
-- [Autor], [Zeitschrift] [Heft]/[Jahr]
-
-[Verlagslogo + Cover-Thumb]
-```
-
-**Disclaimer-Boilerplate fuer Verlagsprofil-Bio**
-
-```
-[Verlagsname] - Juristischer Fachverlag seit [Jahr]
-Impressum: [Link]
-Datenschutz: [Link]
-Pressekontakt: [Link]
-```
-
-## Typische Fehler / Pitfalls
-
-- Werbekennzeichnung vergessen - UWG-Abmahnrisiko.
-- Zitat-Karten mit Coverabbildung ohne Layout-Rechte freigegeben.
-- Bei BGH-Entscheidung Az. und Datum vergessen - keine Verifizierbarkeit.
-- Hashtag-Wuestenei: 20 Hashtags wirken wie SEO-Spam.
-- Personenfoto des Autors ohne KUG-Pruefung gepostet.
-- Bei Influencer-Kooperation kein Vertrag, keine Werbekennzeichnung - Bussgeld.
-
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Einordnung Postanlass.
-- `marketing-presse-social` - Gesamtkonzept Marketing.
-- `verl-pressetext-rechtsthemen` - parallele PM-Strecke.
-- `verl-newsletter-redaktion-jur` - Newsletter als Push-Kanal.
-- `metadaten-seo-klappentext` - Konsistenz Klappentext/Post.
-- `verl-impressum-pflicht-und-pruefung` - Impressumsverlinkung im Profil.
-
-## Quellen Stand 06/2026
-
-- DDG § 5 - Impressumspflicht.
-- MStV § 18 - journalistische Sorgfalt.
-- UWG §§ 5a Abs. 4, 6 - Werbekennzeichnung.
-- UrhG §§ 19a, 51, 51a - Zugaenglichmachung, Zitat.
-- DSGVO Art. 6 - Rechtsgrundlage.
-- KUG §§ 22, 23 - Bildnisrecht.
-- Aktuelle Hinweise der Landesmedienanstalten zur Werbekennzeichnung (die-medienanstalten.de).
-
----
-
-## Skill: `verl-zitierweise-pruefung-zeitschrift-jus-njw`
-
-_Für Zitierweise-Prüfung (NJW, NZA, JuS, JZ, ): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Verlagsredaktion. Route: verl-zitierweise-pruefung-zeitschrift-jus-njw._
-
-# Zitierweise-Pruefung (NJW, NZA, JuS, JZ, ...)
-
-## Worum geht es konkret
-
-Jede juristische Fachzeitschrift hat eigene Hausnormen fuer Zitate. NJW zitiert anders als JZ, JuS anders als NJW, NZA hat eigene Kuerzel. Dieser Skill fuehrt die Pruefung systematisch durch: jede Fundstelle pro Zeitschriftenstandard, mit Korrekturvorschlag - und ohne Halluzination, weil unbelegte Pinpoints sichtbar markiert bleiben.
-
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
-
-Sie brauchen ihn nach dem Format-Check, vor der Annahme. Klaeren Sie:
-
-1. Zielzeitschrift (NJW, NZA, JuS, JZ, ZIP, BB, JuS, NJ, NVwZ ...)?
-2. Liegen die hausspezifischen Manuskriptrichtlinien vor?
-3. Werden Pinpoints mit Randnummern angegeben oder mit Seitenangaben?
-4. Welche Quellenarten (Rspr., Kommentar, Aufsatz, Festschrift, Internet, Podcast)?
-
-## Material- bzw. Sachrahmen
-
-- Manuskript mit Fussnotenapparat.
-- Manuskriptrichtlinien der Zielzeitschrift (Hausstandard).
-- Zugang zur Verlagsdatenbank fuer Live-Pruefung der Pinpoints (sofern lizenziert).
-- Verzeichnis abgekuerzter Kommentare und Zeitschriften.
-
-## Praxisleitfaden / Schritt fuer Schritt
-
-1. **Fundstelleninventar.** Jede Fundstelle in Tabelle: Fussnote, Quellenart, Zitat-Wortlaut.
-2. **Klassifikation.** Rspr. / Kommentar / Aufsatz / Internet / Sonstiges.
-3. **Hausstandard pruefen** (siehe Trade-off-Matrix unten fuer Standards).
-4. **Pinpoint-Pruefung.** Az., Rn., Seite stimmig? Bei Live-Zugriff einzeln pruefen; ohne Zugriff als `[Pinpoint pruefen]` markieren.
-5. **Reihenfolge.** Rspr. vor Lit., neueste zuerst, innerhalb Lit. alphabetisch.
-6. **Wiederholungs-Zitate.** "aaO", "fn. X" konsistent verwenden.
-7. **Befund-Tabelle** an Autorin oder Lektorat.
-
-## Trade-off-Matrix (Hausnormen Beispielauswahl)
-
-| Quellenart | NJW-Stil | JZ-Stil | JuS-Stil |
-|------------|----------|---------|----------|
-| BGH-Urteil | BGH, Urt. v. 12.05.2026 - I ZR 12/24, NJW 2026, 1234 Rn. 17 | BGH JZ 2026, 567 (568) | BGH NJW 2026, 1234 |
-| Kommentar | Bearbeiter, in: MueKo BGB, 9. Aufl. 2024, § 433 Rn. 12 | Bearbeiter MueKo BGB § 433 Rn. 12 | Bearbeiter, MueKo BGB § 433 Rn. 12 |
-| Aufsatz | Canaris, JZ 2019, 547 (549) | Canaris JZ 2019, 547, 549 | Canaris JZ 2019, 547 |
-
-Hinweis: Die exakte Hausnorm immer aus den jeweils geltenden Manuskriptrichtlinien des Verlages entnehmen - der Skill ersetzt das nicht.
-
-## Praxistipps der alten Redaktion
-
-- "Eine Fundstelle ohne Randnummer bei tragender Aussage ist ein roter Stop - immer."
-- BeckRS allein bei tragender BGH-Aussage: ungenuegend, NJW oder BGHZ verlangen.
-- Internetzitate immer mit "abrufbar unter [URL], zuletzt abgerufen am [Datum]".
-- aaO und Wiederholungen: maximal in derselben Fussnote oder unmittelbarer Folgefussnote - sonst Volltext-Zitat wiederholen.
-- Bei Autorinnen mit Hochschulhintergrund Aufsaetze gerne mit "(Rn.)" - praxisorientierte Autoren oft nur mit Seitenangabe. Klaeren statt umrechnen.
-
-## Mustertexte / Vorlagen
-
-**Befund-Tabelle (Vorlage Zitierweise):**
-
-| Fn. | Quelle | Befund | Korrekturvorschlag |
-|-----|--------|--------|--------------------|
-| 12 | BGH-Urteil | "BGH NJW 2026, 1234" (ohne Az. ohne Rn.) | "BGH, Urt. v. 12.05.2026 - I ZR 12/24, NJW 2026, 1234 Rn. 17" |
-| 19 | Aufsatz | "Canaris JZ 2019" (ohne Seite) | "Canaris, JZ 2019, 547 (549)" - Seite pruefen |
-| 27 | Internet | "https://..." (ohne Datum) | URL + "zuletzt abgerufen am [Datum]" ergaenzen |
-| 34 | Kommentar | "MueKo § 433 Rn. 12" (ohne Bearbeiter) | "Bearbeiter, in: MueKo BGB, 9. Aufl. 2024, § 433 Rn. 12" |
-
-**Anschreiben an Autorin:**
-
-> Sehr geehrte Frau Dr. Mueller, in Ihrer Fussnote 17 zitieren Sie BGH, NJW 2026, 1234 ohne Az. und ohne Rn. - die NJW verlangt vollstaendige Aufschluesselung. Bitte ergaenzen Sie Az. und Rn. bei den im Anhang markierten 8 Stellen bis 19.06.2026.
-
-## Typische Fehler / Pitfalls
-
-- Hausnorm verwechselt (NJW-Stil im JZ-Manuskript).
-- Pinpoint halluziniert ("(Rn. 17)" obwohl Entscheidung keine 17 Rn. hat).
-- BeckRS allein bei tragender Aussage - der Verlag will Hauptzeitschrift.
-- aaO an Stellen, an denen das vorherige Zitat zu weit zurueckliegt.
-- Internetzitate ohne Abrufdatum.
-
-## Querverweise
-
-- `verl-formatvorlage-check-autor-manuskript` - vorgelagerte Pruefung.
-- `verl-fussnoten-quellen-konsolidierung` - Aufbau des Apparats.
-- `quellen-zitate-fundstellencheck` - allgemeiner Quellencheck.
-- `verl-zeitschriftenartikel-leitfaden` - Zielformat.
-- `verl-aussagensicherheit-pruefung` - bei unklaren Aussagen mit fehlenden Belegen.
-
-## Quellen Stand 06/2026
-
-- Manuskriptrichtlinien der jeweiligen Zielzeitschrift (vom Verlag bezogen).
-- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
-- Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
-- Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.
-- Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
-- dejure.org, [https://dejure.org](https://dejure.org) (fuer Az.-Verifikation).
 
 ---
 
