@@ -1,6 +1,6 @@
 # rechtstheorie-rechtsphilosophie
 
-**66 Skills** · Stand `v442.0.0`
+**66 Skills** · Stand `v442.0.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../rechtstheorie-rechtsphilosophie/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -15,9 +15,9 @@
 
 ## So benutzt man einen Skill
 
-Skills sind eng abgegrenzte Markdown-Arbeitsabläufe und funktionieren in jedem geeigneten Chat-System. Werkstatt und Schnellstart sind dagegen eigenständige Ein-Datei-Prompts und nicht Teil des Plugin-ZIPs.
+Diese alphabetische Liste zeigt alle Skills im Quellbestand. Umfangreiche Spezialserien werden im installierten Paket teilweise über einen Fachrouter geöffnet und sind dann keine eigenen Menüeinträge. Werkstatt und Schnellstart sind eigenständige Ein-Datei-Prompts außerhalb des Plugin-ZIPs.
 
-English: Skills are focused Markdown workflows. Workshop and quick-start files are standalone prompts and are not included in the plugin ZIP. Every skill link below downloads the unchanged Markdown content with a unique filename.
+English: This index lists source skills, including specialist series accessed through topic routers in the installed package. Workshop and quick-start files are separate standalone prompts. A skill download provides unchanged Markdown, not an installation; additional references or tools may be required.
 
 - **Schnelltest mit einer Datei:** oben auf den Schnellstart-Markdown klicken, die `.md` als Anhang in den Chatbot ziehen.
 - **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausführlichen Arbeitsmodus verwenden.

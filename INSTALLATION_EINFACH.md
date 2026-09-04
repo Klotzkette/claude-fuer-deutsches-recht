@@ -1,5 +1,7 @@
 # Installation in einfach
 
+[Startseite und fünf Verzeichnisse](./README.md#alle-vollständigen-listen-von-a-bis-z) · [Plugin-Katalog](./README.md#was-ist-drin) · [Downloads](./ASSET_INDEX.md) · [Kurzanleitung](./QUICKSTART.md)
+
 Der robusteste Weg für einen einzelnen Nutzer ist: **ein Plugin-ZIP laden, in der Pluginverwaltung hochladen, neue Aufgabe öffnen**. Der Marketplace ist die bessere Wahl, wenn eine Organisation viele Plugins zentral verteilen und aktualisieren will.
 
 ## 1. Einzelnes Plugin installieren
@@ -66,12 +68,12 @@ Aktuelle Oberflächen- und Planvorgaben: [Plugins verwenden](https://support.cla
 
 ## 5. Ohne Installation anfangen
 
-Jede Plugin-README beginnt mit einem Abschnitt **In 30 Sekunden starten**. Dort stehen:
+Jede Plugin-README erklärt zuerst die Bestandteile und verlinkt den Abschnitt „In 30 Sekunden starten“. Im oberen Bereich findest du:
 
 1. der direkte Schnellstart-Download,
 2. der ausführliche Werkstatt-Download,
 3. ein fertiger Startsatz für den Arbeitsordner,
-4. die zum Fachgebiet gehörenden Testakten.
+4. zugeordnete Testakten oder den Verweis auf die zentrale Sammlung.
 
 Der [Plugin-Katalog](./README.md#was-ist-drin) führt zu allen 235 Startseiten. Der [Download-Index](./ASSET_INDEX.md) enthält zusätzlich sämtliche Einzeldateien.
 

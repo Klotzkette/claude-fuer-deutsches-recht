@@ -5,14 +5,14 @@
 
 Strafrichter Amtsgericht: Eröffnungsentscheidung Hauptverhandlung Beweiswürdigung Strafzumessung Urteilsbegründung Rechtsmittelbelehrung Strafbefehl beschleunigtes Verfahren mit Tenorvorschlag
 
-Dieses Plugin gehört zum Marketplace mit 235 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
+Dieses Plugin gehört zum Marketplace mit 235 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
 | Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`richter-amtsgericht-straf.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-straf.zip) |
-| Skills | Eng abgegrenzte Arbeitsabläufe für einzelne Aufgaben. Im installierten Plugin werden sie passend zum Fall ausgewählt; ohne Installation kann jeder Skill einzeln als Markdown geladen werden. | Focused workflows for individual tasks. The installed plugin selects them as needed; without installation, each skill can be downloaded as Markdown. | [Skill-Liste öffnen / Open skill list](../../skills-index/richter-amtsgericht-straf.md) |
+| Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../../skills-index/richter-amtsgericht-straf.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/richter-amtsgericht-straf/richter-amtsgericht-straf-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/richter-amtsgericht-straf/richter-amtsgericht-straf-schnellstart.md) |
 | Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index](../../testakten/README.md) |
@@ -21,6 +21,10 @@ Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navi
 
 Links labelled “MD herunterladen / Download MD” start a file download. Navigation links to README and index pages remain normal GitHub pages.
 
+Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfangreiche Spezialserien teilweise über einen Fachrouter bei Bedarf geladen und erscheinen dann nicht als eigene auswählbare Skills. Beim manuellen Einsatz eines einzelnen Skills müssen zusätzlich benötigte Referenzen oder Werkzeuge verfügbar sein.
+
+The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
+
 Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../../SKILLS.md) · [Skills dieses Plugins](../../skills-index/richter-amtsgericht-straf.md) · [Plugin-Dateien](.) · [Download-Index](../../ASSET_INDEX.md) · [Testakten](../../testakten/README.md)
 
 ## In 30 Sekunden starten
@@ -28,12 +32,12 @@ Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](.
 | Ausgangslage | Schnellster Weg |
 | --- | --- |
 | Plugin installiert | Passenden Fachskill in der [alphabetisch sortierten Skill-Liste](../../skills-index/richter-amtsgericht-straf.md) wählen und den untenstehenden Startsatz mit dem Arbeitsordner absenden. |
-| Noch keine Installation | Den Schnellstart als Markdown laden und zusammen mit den Unterlagen öffnen. |
+| Noch keine Installation | Den Schnellstart unten als Markdown herunterladen und mit den Unterlagen in einer freigegebenen Arbeitsoberfläche bereitstellen. |
 | Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
 
 Startsatz für Richter Amtsgericht Strafsachen:
 
-> Lies zuerst alle Dateien im ausgewählten Ordner. Bearbeite den Vorgang mit diesem Fachgebiet. Beginne mit folgendem Arbeitsschritt: Anklagesatz: Angeschuldigter, Tatzeit, Tatort, Tathandlung, Tatfolge, angewendete Vorschriften. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
+> Erfasse zuerst Dateinamen und Metadaten im ausgewählten Ordner. Lies zunächst die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: Anklagesatz: Angeschuldigter, Tatzeit, Tatort, Tathandlung, Tatfolge, angewendete Vorschriften. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
 
 Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
 
@@ -77,21 +81,14 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 
 ## Inhalt
 
-- **11 Skills** (siehe `skills/`; inklusive Schnellstart-Skill)
+- Skills mit ihren Referenzen: siehe vollständige Liste unten. Werkstatt und Schnellstart sind separate Markdown-Dateien, keine zusätzlichen Skills.
 - **Werkstatt-Prompt** (`richter-amtsgericht-straf-werkstatt.md`)
 - **Schnellstart-Prompt** (`richter-amtsgericht-straf-schnellstart.md`)
 - **Testakte** (`testakte/README.md`) — aus Richtersicht
 
 ## Skill-Liste
 
-- **01-akte-erstdurchsicht-strafsache** — Strukturierte Erstdurchsicht: Anklagesatz, wesentliches Ergebnis der Ermittlungen, hinreichender Tatverdacht, Beweismitt
-- **02-zuständigkeit-und-eröffnungsbeschluss** — Zuständigkeit Strafrichter oder Schöffengericht (Paragraf 25 oder 28 GVG), Eröffnung Paragrafen 199-203 StPO, Nichter
-- **03-hauptverhandlung-vorbereiten** — Terminierung, Ladung Paragraf 214 StPO, Beweisanträge, Erforderlichkeit Verteidigerbestellung Paragraf 140 StPO, Versta
-- **04-beweisaufnahme-und-beweisanträge** — Beweisaufnahme nach Paragrafen 244-256 StPO, Umgang mit Beweisanträgen, Präsenzvermutung Paragraf 244 Abs. 6, Wahrunte
-- **05-beweiswürdigung-strafrecht** — Beweiswürdigung Paragraf 261 StPO: Indizien, Aussage gegen Aussage, Glaubhaftigkeit, In-dubio-pro-reo, Sachverständige
-- **06-strafzumessung-paragraf-46-stgb** — Strafzumessung Paragraf 46 StGB: Schuld als Grundlage, Strafzumessungstatsachen, Strafrahmen, Strafmilderung Paragrafen - **07-tenor-und-rechtsmittelbelehrung-straf** — Tenor: Schuldspruch, Strafausspruch, Nebenstrafen, Bewährung, Einziehung Paragraf 73 StGB, Kostenentscheidung Paragraf - **08-urteilsbegründung-paragraf-267-stpo** — Urteilsgründe: Persönliche Verhältnisse, Feststellungen zum Tatgeschehen, Beweiswürdigung, rechtliche Würdigung, St
-- **09-strafbefehl-und-beschleunigtes-verfahren** — Strafbefehlsverfahren Paragrafen 407-412 StPO, Voraussetzungen, Inhalt, Einspruch, Hauptverhandlung nach Einspruch; besc
-- **10-entscheidungsvorschlag-strafrichter** — Strukturierter Entscheidungsvorschlag mit Schuldspruch-Skizze, Strafzumessungs-Skizze, Nebenfolgen, Risikohinweisen, aus
+Die [vollständige alphabetische Skill-Liste](../../skills-index/richter-amtsgericht-straf.md) enthält die aktuellen Namen, Beschreibungen und Markdown-Downloads. Die thematische Navigation und die automatisch gepflegte Übersicht weiter unten helfen bei der Auswahl nach Arbeitsschritt.
 
 ## Wichtiger Hinweis vor Verwendung
 

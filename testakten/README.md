@@ -2,9 +2,9 @@
 
 [Repository-Start](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Download-Index](../ASSET_INDEX.md) · [Qualitätsstandard](./QUALITAETSSTANDARD.md)
 
-Dieser Ordner enthält **Mandatsakten**, mit denen sich die Skills sofort ausprobieren lassen. Jede Akte ist bewusst so unstrukturiert wie ein echter Datenraum: PDFs mit handgemachten Briefköpfen, Excel-Tabellen, Word-Entwürfen, schiefen Dateinamen, Bildbeschreibungen, Chattranskripten und Fehlblättern, Mandantennotizen mit Tippfehlern. **Die Akten sind kein Bestandteil der Plugins und werden nicht mitinstalliert.** Wer die Skills produktiv einsetzt, lädt sich die Akten bei Bedarf separat als ZIP herunter.
+Dieser Ordner enthält künstlich erzeugte Übungsakten, keine anonymisierten Originalmandate. Sie bilden typische Eingänge einer Kanzlei mit Schriftverkehr, Tabellen, Belegen und unvollständigen Angaben ab. Die Akten gehören nicht zur Plugin-Installation: Wähle einen passenden Fall und lade nur die für deinen Übungslauf benötigte Fassung herunter.
 
-Stand v442.0.0: 323 zentrale Testakten plus 2 Hilfsmaterialsammlungen. Jede Akte steht in drei Fassungen bereit: als durchsuchbares Gesamt-PDF, als flaches Einzel-PDF-ZIP und als flaches Akten-ZIP mit den nativen Originalformaten DOCX, XLSX, PDF, JPEG, CSV, EML und weiteren Alltagsdateien. Die beiden ZIPs öffnen unmittelbar auf die Dateien; sie enthalten keine Unterordner, das Akten-ZIP außerdem kein Markdown. Schriftsätze und Gutachten sind vollständig ausgearbeitet, Tabellen behalten Rohdaten und offene Positionen, Korrespondenz enthält realistische Header und Bezüge.
+Stand v442.0.1: 323 zentrale Testakten plus 2 Hilfsmaterialsammlungen. Jede Akte steht in drei Fassungen bereit: als durchsuchbares Gesamt-PDF, als flaches Einzel-PDF-ZIP und als flaches Akten-ZIP mit den nativen Originalformaten DOCX, XLSX, PDF, JPEG, CSV, EML und weiteren Alltagsdateien. Die beiden ZIPs öffnen unmittelbar auf die Dateien; sie enthalten keine Unterordner, das Akten-ZIP außerdem kein Markdown. Schriftsätze und Gutachten sind vollständig ausgearbeitet, Tabellen behalten Rohdaten und offene Positionen, Korrespondenz enthält realistische Header und Bezüge.
 
 > **Hinweis / Notice:** Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr. This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
@@ -22,6 +22,10 @@ Der verbindliche Aktenstandard steht in [`QUALITAETSSTANDARD.md`](./QUALITAETSST
 | Prüfung der Dateiformate und Qualitätsregeln | Den [Qualitätsstandard](./QUALITAETSSTANDARD.md) öffnen. |
 
 Jede Tabellenzeile führt zuerst zur Akten-README und danach getrennt zum Gesamt-PDF, zum flachen ZIP mit Originalformaten und zum flachen ZIP mit Einzel-PDFs. Dadurch ist keine Navigation durch Unterordner im heruntergeladenen Archiv nötig.
+
+Wähle das Gesamt-PDF zur fortlaufenden Lektüre, das Einzel-PDF-ZIP für eine dokumentweise Prüfung oder das Akten-ZIP zum Arbeiten mit Tabellen, E-Mails und weiteren Originalformaten. Lade nicht alle drei Fassungen zugleich in denselben Arbeitsordner: Sie enthalten denselben Fall und würden sonst doppelt ausgewertet. Die Sammelpakete unten enthalten ihrerseits mehrere Akten-ZIPs; die flache Ablage gilt jeweils innerhalb einer einzelnen Akte.
+
+English: This is the alphabetical practice-case index. Each row links to a case guide and its three formats: combined PDF, individual-document PDF ZIP and original-format ZIP. Use one format per working folder to avoid duplicate documents. Collection downloads contain the individual case archives. Cases are experimental generated material, not real client files, and are never installed with a plugin.
 
 <p>
   <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip"><strong>Alle Testakten als ZIP herunterladen</strong></a>

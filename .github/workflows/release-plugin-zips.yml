@@ -123,6 +123,7 @@ jobs:
         run: |
           python3 scripts/validate-root-readme-overview.py
           python3 scripts/validate-readme-navigation.py
+          python3 scripts/test-readme-navigation.py
           python3 scripts/validate-markdown-structure.py
 
       - name: Pluginlokale Gesamt-PDFs der Testakten bauen

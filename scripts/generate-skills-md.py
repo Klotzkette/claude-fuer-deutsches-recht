@@ -154,21 +154,20 @@ Stand: `{version}`.
 | **Alle Plugins (installierbar)** | Alle {total_plugins} Plugin-ZIPs in einem Archiv für kompatible Plugin-Oberflächen | [`alle-plugins-megazip.zip`]({megazip}) |
 | **Komplettpaket (alles)** | Plugins + Skill-Markdowns + Testakten + Übersichten | [`alles-komplettpaket.zip`]({komplett}) |
 
-Das Markdown-Paket reicht, wenn man die vollständigen Skills in einem beliebigen Chat-System nutzen will. Werkstatt- und Schnellstart-Prompts liegen pro Plugin direkt als Markdown-Datei zum Download (oben in jeder Plugin-Detailseite und in jeder Plugin-README). Links mit **MD herunterladen** führen über die statische Downloadseite und speichern die Datei, statt nur die GitHub-Vorschau zu öffnen. Das Plugin-Paket ist für kompatible Plugin-Oberflächen. Das Komplettpaket enthält zusätzlich Testakten und alle Repo-Übersichten.
+Das Markdown-Paket enthält die Skilltexte und ihre Markdown-Referenzen, aber keine automatisch eingerichteten Werkzeuge oder Zugriffsrechte. Für den manuellen Einstieg sind Werkstatt oder Schnellstart meist einfacher. Links mit „MD herunterladen“ speichern die Datei über die Downloadseite; Übersichtslinks bleiben lesbare GitHub-Seiten. Das installierbare Plugin-ZIP ist ein anderes Paket.
 
 Wer nur **ein bestimmtes Plugin** will: weiter unten in der Plugin-Tabelle pro Plugin eigene Links (Werkstatt-Markdown, Schnellstart-Markdown, Plugin-ZIP).
 
-## Worum es hier geht: alles nur große Prompts
+## Einzelnen Skill oder eigenständigen Prompt verwenden
 
-Diese Skills sind am Ende **nichts weiter als große, sehr sorgfältig formulierte System-Prompts in Markdown**. Sie wurden für ein Plugin-System geschrieben, **funktionieren aber in jedem anderen Chat-System genauso**.
+Ein Skill beschreibt eine abgegrenzte Aufgabe und kann weitere Referenzen, Dateien oder Werkzeuge benötigen. Werkstatt und Schnellstart sind dagegen eigenständige Ein-Datei-Einstiege in das Thema eines Plugins. Ihre Reichweite ist nicht mit der gesamten Skill-Sammlung gleichzusetzen. Welche Dateiformate und Werkzeuge funktionieren, hängt von der verwendeten Arbeitsoberfläche ab.
 
-So benutzt man einen Skill außerhalb eines Plugin-Setups:
+So findest du die richtige Datei:
 
-1. Unten in der Plugin-Tabelle auf das gewünschte Plugin klicken — die Detailseite mit allen Skills öffnet sich.
-2. Auf der Detailseite oben auf **Werkstatt** oder **Schnellstart** klicken — die `.md`-Datei wird als Datei heruntergeladen.
-3. **Entweder** den kompletten Text mit `Strg+A` / `Cmd+A` kopieren und in das eigene Chat-System einfügen.
-4. **Oder** die `.md`-Datei als Anhang in den Chatbot ziehen.
-5. Danach die eigene Frage / das eigene Dokument hinterherschicken — der Chatbot übernimmt die Rolle aus dem Skill.
+1. Das Plugin in der alphabetischen Tabelle öffnen und die Beschreibungen seiner Skills lesen.
+2. Für eine bestimmte Teilaufgabe den Skillnamen oder „MD herunterladen“ in der Skill-Tabelle wählen. Für einen eigenständigen Einstieg stattdessen oben Schnellstart oder Werkstatt wählen.
+3. Die heruntergeladene Datei in der freigegebenen Arbeitsoberfläche zusammen mit den relevanten Unterlagen bereitstellen. Einen konkreten Auftrag nennen; bei einem einzelnen Skill zusätzlich benötigte Referenzen beachten.
+4. Das erste Ergebnis auf verwendete Belege, offene Fragen und Quellenstand prüfen. Ein Dateidownload allein installiert oder aktiviert keinen Skill.
 
 So bekommt man die komplette Sammlung als installierbares ZIP:
 
@@ -176,7 +175,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 - Wer kein Plugin-Setup nutzt, nimmt **Werkstatt** oder **Schnellstart** als Markdown-Direkt-Download. Beide sind je eine `.md`-Datei, die in beliebige Chatbots gezogen oder kopiert werden kann.
 - Wer die volle Skilltiefe als Markdown will, nimmt zusätzlich das Sammelpaket `alle-skills-markdown.zip`; es enthält auch die von Skills bei Bedarf geladenen Markdown-Referenzen.
 
-**Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim nächsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
+Die Listen werden aus den im Marketplace registrierten Plugin-Verzeichnissen erzeugt und gegen den Dateibestand geprüft. Sie zeigen den Quellbestand: Im installierten Paket werden manche umfangreichen Spezialserien über einen Fachrouter bei Bedarf geladen, statt als eigene Menüeinträge zu erscheinen.
 
 Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit {total_skills} Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
 
@@ -251,9 +250,9 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
         "",
         "## So benutzt man einen Skill",
         "",
-        "Skills sind eng abgegrenzte Markdown-Arbeitsabläufe und funktionieren in jedem geeigneten Chat-System. Werkstatt und Schnellstart sind dagegen eigenständige Ein-Datei-Prompts und nicht Teil des Plugin-ZIPs.",
+        "Diese alphabetische Liste zeigt alle Skills im Quellbestand. Umfangreiche Spezialserien werden im installierten Paket teilweise über einen Fachrouter geöffnet und sind dann keine eigenen Menüeinträge. Werkstatt und Schnellstart sind eigenständige Ein-Datei-Prompts außerhalb des Plugin-ZIPs.",
         "",
-        "English: Skills are focused Markdown workflows. Workshop and quick-start files are standalone prompts and are not included in the plugin ZIP. Every skill link below downloads the unchanged Markdown content with a unique filename.",
+        "English: This index lists source skills, including specialist series accessed through topic routers in the installed package. Workshop and quick-start files are separate standalone prompts. A skill download provides unchanged Markdown, not an installation; additional references or tools may be required.",
         "",
         "- **Schnelltest mit einer Datei:** oben auf den Schnellstart-Markdown klicken, die `.md` als Anhang in den Chatbot ziehen.",
         "- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausführlichen Arbeitsmodus verwenden.",
