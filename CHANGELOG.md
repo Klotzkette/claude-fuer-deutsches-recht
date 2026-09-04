@@ -1,3 +1,15 @@
+# v442.0.1 - Klarere Verzeichnisse und verlässliche Downloadwege
+
+- Hauptseite, Plugin-Einstiege und Skill-Detailseiten unterscheiden Installation, Quellbestand, Fachrouter und eigenständige Markdown-Prompts. Die fünf vollständigen Register stehen unmittelbar am Seitenanfang; deutsche und englische Erklärungen führen zum jeweils passenden Dateiformat.
+- Die kuratierte Promptliste wurde mit dem Marketplace abgeglichen: 222 Plugins in 34 Kategorien, alphabetische Einträge und 444 direkte Prompt-Downloads. Die Auswahl bleibt bewusst kleiner als das vollständige Register mit 235 Plugins.
+- Veraltete Skillzahlen und abgeschnittene Zweitlisten in 14 Gerichts-READMEs wurden durch Verweise auf die vollständigen Skill-Verzeichnisse ersetzt. Gerichts-, Insolvenz- und Fachanwaltsübersichten sind geordnet; die doppelte Insolvenzliste führt nun auf eine gemeinsame Fachübersicht.
+- Fehlende Ordner-Einstiege für Recherchematerial, manuelle Funktionstests und die veröffentlichte Fachübersicht wurden ergänzt. Die Schnittstellenanleitung unterscheidet sichtbare Konfiguration von nachgewiesenem Datenweg.
+- Akten-READMEs erklären die drei Downloadformen auch auf Englisch und unterscheiden den Repository-Stand vom veröffentlichten Release. Die Übersicht warnt vor doppelter Auswertung desselben Falls in mehreren Formaten und bezeichnet die Akten korrekt als erzeugtes Übungsmaterial.
+- Die Downloadprüfung erfasst zusätzlich die kuratierte Promptliste und Einstiegshilfen. Regressionstests sichern Kategoriegrößen, Pluginpfade, Sortierung, Aktenformatangaben und Überschriftenanker; mehrfach verlinkte Ankerdateien werden nur einmal eingelesen.
+- Skills, Werkstatt- und Schnellstart-Prompts sowie sämtliche Aktenstücke bleiben inhaltlich unverändert. Aktualisiert wurden Dokumentation, Verzeichnisprüfungen und Release-Versionsangaben.
+
+---
+
 # v442.0.0 - Fachkorrekturen und quellengebundene Prompt-Auswahl
 
 - Gezielte Fachkorrekturen in Arbeits-, Zivil-, Gesellschafts-, Insolvenz-, Steuer-, Straf-, Verwaltungs- und Unionsrecht: unpassende Normen und Entscheidungen entfernt oder ihrem tatsächlichen Anwendungsfall zugeordnet; Tatbestand, Beweisfrage, Frist und Rechtsfolge deutlicher getrennt.

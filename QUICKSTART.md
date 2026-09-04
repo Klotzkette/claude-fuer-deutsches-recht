@@ -1,5 +1,7 @@
 # Schnellstart
 
+[Startseite und fünf Verzeichnisse](./README.md#alle-vollständigen-listen-von-a-bis-z) · [Plugin-Katalog](./README.md#was-ist-drin) · [Downloads](./ASSET_INDEX.md) · [Testakten](./testakten/README.md)
+
 Diese Anleitung führt ohne Umweg zum ersten verwertbaren Arbeitsprodukt. Für einen einzelnen Vorgang genügt meistens ein Plugin oder sogar nur dessen Schnellstart-Markdown; der gesamte Marketplace ist nur sinnvoll, wenn viele Rechtsgebiete dauerhaft gebraucht werden.
 
 ## 1. Den passenden Weg wählen
@@ -100,6 +102,8 @@ Der erste Antwortblock soll bereits Ergebnisrichtung, Fundstelle, Frist oder Ris
 | Lauf mit Microsoft 365 bleibt bei der Suche lange offen | Ablageort, Zeitraum, Absender, Dateityp und Suchbegriff eingrenzen; zuerst höchstens 20 Treffer und fünf Kerndokumente öffnen |
 | Antwort wird nach mehreren Schritten langsamer | neue Aufgabe mit dem bisherigen Ergebnisstand beginnen und nur die benötigten Plugins aktiv lassen |
 | Antwort fragt vorhandene Angaben erneut ab | auf den Arbeitsordner verweisen und „Dateien zuerst, dann Erstprodukt“ ergänzen |
-| Markdown wird nur im Browser angezeigt | den HTML-Download in der Plugin-README oder den [Download-Index](./ASSET_INDEX.md) verwenden |
+| Markdown wird nur im Browser angezeigt | „MD herunterladen“ in der Plugin-README oder im [Download-Index](./ASSET_INDEX.md) wählen; die Downloadseite muss JavaScript ausführen dürfen |
+
+Die Skill-Liste zeigt den Quellbestand. Einige Spezialserien werden im installierten Paket über einen Fachrouter geladen und erscheinen nicht einzeln im Menü. Nutze in diesem Fall den zugehörigen Router oder lade für den manuellen Einsatz den Skill samt benötigten Referenzen herunter.
 
 Ausführliche Hinweise zu ZIP-Auswahl, Mac-Downloads und Organisations-Marketplaces stehen in [Installation in einfach](./INSTALLATION_EINFACH.md).

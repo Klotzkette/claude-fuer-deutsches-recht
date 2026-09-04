@@ -5,14 +5,14 @@
 
 Sozialgericht: Klagearten Anfechtungs- und Leistungsklage einstweiliger Rechtsschutz Paragraf 86b SGG Amtsermittlung sozialrechtliche Prüfungsschemata Krankenversicherung Rente Unfall Bürgergeld Schwerbehinderung Urteilsentwurf mit Tenorvorschlag
 
-Dieses Plugin gehört zum Marketplace mit 235 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
+Dieses Plugin gehört zum Marketplace mit 235 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
 | Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`richter-sozialgericht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-sozialgericht.zip) |
-| Skills | Eng abgegrenzte Arbeitsabläufe für einzelne Aufgaben. Im installierten Plugin werden sie passend zum Fall ausgewählt; ohne Installation kann jeder Skill einzeln als Markdown geladen werden. | Focused workflows for individual tasks. The installed plugin selects them as needed; without installation, each skill can be downloaded as Markdown. | [Skill-Liste öffnen / Open skill list](../../skills-index/richter-sozialgericht.md) |
+| Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../../skills-index/richter-sozialgericht.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/richter-sozialgericht/richter-sozialgericht-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/richter-sozialgericht/richter-sozialgericht-schnellstart.md) |
 | Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index](../../testakten/README.md) |
@@ -21,6 +21,10 @@ Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navi
 
 Links labelled “MD herunterladen / Download MD” start a file download. Navigation links to README and index pages remain normal GitHub pages.
 
+Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfangreiche Spezialserien teilweise über einen Fachrouter bei Bedarf geladen und erscheinen dann nicht als eigene auswählbare Skills. Beim manuellen Einsatz eines einzelnen Skills müssen zusätzlich benötigte Referenzen oder Werkzeuge verfügbar sein.
+
+The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
+
 Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../../SKILLS.md) · [Skills dieses Plugins](../../skills-index/richter-sozialgericht.md) · [Plugin-Dateien](.) · [Download-Index](../../ASSET_INDEX.md) · [Testakten](../../testakten/README.md)
 
 ## In 30 Sekunden starten
@@ -28,12 +32,12 @@ Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](.
 | Ausgangslage | Schnellster Weg |
 | --- | --- |
 | Plugin installiert | Passenden Fachskill in der [alphabetisch sortierten Skill-Liste](../../skills-index/richter-sozialgericht.md) wählen und den untenstehenden Startsatz mit dem Arbeitsordner absenden. |
-| Noch keine Installation | Den Schnellstart als Markdown laden und zusammen mit den Unterlagen öffnen. |
+| Noch keine Installation | Den Schnellstart unten als Markdown herunterladen und mit den Unterlagen in einer freigegebenen Arbeitsoberfläche bereitstellen. |
 | Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
 
 Startsatz für Sozialgericht:
 
-> Lies zuerst alle Dateien im ausgewählten Ordner. Bearbeite den Vorgang mit diesem Fachgebiet. Beginne mit folgendem Arbeitsschritt: Widerspruch, Klage, Eilantrag, Befundanforderung oder Vergleichsvorschlag ausformulieren. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
+> Erfasse zuerst Dateinamen und Metadaten im ausgewählten Ordner. Lies zunächst die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: Widerspruch, Klage, Eilantrag, Befundanforderung oder Vergleichsvorschlag ausformulieren. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
 
 Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
 
@@ -79,23 +83,14 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 
 ## Inhalt
 
-- **11 Skills** (siehe `skills/`; inklusive Schnellstart-Skill)
+- Skills mit ihren Referenzen: siehe vollständige Liste unten. Werkstatt und Schnellstart sind separate Markdown-Dateien, keine zusätzlichen Skills.
 - **Werkstatt-Prompt** (`richter-sozialgericht-werkstatt.md`)
 - **Schnellstart-Prompt** (`richter-sozialgericht-schnellstart.md`)
 - **Testakte** (`testakte/README.md`) — aus Richtersicht
 
 ## Skill-Liste
 
-- **01-zulässigkeit-sozialklage** — Zulässigkeit Paragrafen 51 ff. SGG: Rechtsweg, Klagearten (Anfechtung Leistung Untätigkeit Feststellung), Vorverfahren
-- **02-amtsermittlung-sozialgericht** — Amtsermittlungsgrundsatz Paragraf 103 SGG: Beweisaufnahme von Amts wegen, Sachverständigengutachten Paragraf 109 SGG (A
-- **03-eilrechtsschutz-paragraf-86b** — Einstweiliger Rechtsschutz Paragraf 86b SGG: Anordnung der aufschiebenden Wirkung Abs. 1, einstweilige Anordnung Abs. 2
-- **04-krankenversicherung-prüfung** — Krankenversicherung SGB V: Versicherungspflicht Paragraf 5, Leistungsanspruch Paragraf 27 (Krankenbehandlung), Hilfsmitt
-- **05-rentenversicherung-prüfung** — Gesetzliche Rentenversicherung SGB VI: Altersrente Paragrafen 35 ff., Erwerbsminderungsrente Paragraf 43, Wartezeit, Min
-- **06-unfallversicherung-prüfung** — Gesetzliche Unfallversicherung SGB VII: Arbeitsunfall Paragraf 8, Berufskrankheit Paragraf 9, Versicherte Paragraf 2, He
-- **07-bürgergeld-und-sgb-ii** — Bürgergeld SGB II: Anspruchsberechtigung Paragraf 7 SGB II, Bedarfsgemeinschaft, Regelbedarf Paragraf 20, Kosten der Un
-- **08-schwerbehinderung-und-grad** — Schwerbehindertenrecht SGB IX: Grad der Behinderung Paragraf 152, Versorgungsmedizinverordnung (VersMedV), Merkzeichen,
-- **09-urteil-sozialgericht** — Urteil Paragrafen 132 ff. SGG: Tenor (Aufhebung, Verurteilung zur Leistung, Bescheidung), Tatbestand, Entscheidungsgrün
-- **10-entscheidungsvorschlag-sozialgericht** — Strukturierter Entscheidungsvorschlag: Tenor-Skizze, sozialrechtliche Anspruchsprüfung, medizinische Beweiswürdigung,
+Die [vollständige alphabetische Skill-Liste](../../skills-index/richter-sozialgericht.md) enthält die aktuellen Namen, Beschreibungen und Markdown-Downloads. Die thematische Navigation und die automatisch gepflegte Übersicht weiter unten helfen bei der Auswahl nach Arbeitsschritt.
 
 ## Wichtiger Hinweis vor Verwendung
 

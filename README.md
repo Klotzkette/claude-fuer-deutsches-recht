@@ -1,12 +1,16 @@
 # Claude – Deutsche rechtliche Fähigkeiten / German Legal Skills
 
+[Plugins](#was-ist-drin) · [Skills](./SKILLS.md) · [Werkstatt-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) · [Mini-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) · [Testakten](./testakten/README.md) · [Installation](./INSTALLATION_EINFACH.md) · [English](#english-quick-guide)
+
 > **Experimentelles Skill-Set** für die anwaltliche Praxis im deutschen Recht – Skills, Sub-Agenten, Workflows etc. als Anregung für Kanzlei-Arbeitsabläufe. Orientiert sich an der **deutschen Rechtspraxis**, an Gesetzestexten, amtlichen Materialien und frei überprüfbarer Rechtsprechung. Enthält keinerlei Fachgutachten oder Rechtsberatung, alle Angaben ohne Gewähr – jeder Nutzer kalibriert die Skills selbst für die eigene Praxis.
 
 ## Über dieses Repository
 
 Dieses Repository ist eine **experimentelle Plugin- und Skill-Sammlung für deutsches Recht** auf Basis der offenen "claude-for-legal"-Skills von Anthropic, vollständig ins Deutsche übertragen und an typische Arbeitsabläufe in Kanzleien, Rechtsabteilungen und bei Beratern angepasst. Die Struktur, Beispiele und Workflows sind inzwischen **für die deutsche Rechtspraxis überarbeitet und im Alltagseinsatz erprobt**, sie bleiben aber bewusst als Experiment gekennzeichnet: Es handelt sich **nicht** um ein geprüftes Produkt, sondern um eine technische Spielwiese zum Ausprobieren, Anpassen und Weiterentwickeln.
 
-Ziel ist es, zu zeigen, wie sich Plugins und Skills für Arbeitsrecht, Gesellschaftsrecht, Insolvenzrecht (inklusive Liquiditätsplanung und Fortbestehensprognose), Datenschutzrecht, Prozessrecht, gewerblichen Rechtsschutz, Produkt-, Robotik- und Regulierungsrecht u. a. so strukturieren lassen, dass sie sich an der in Deutschland üblichen Methodik (Anspruchsgrundlagen, Prüfungsaufbau, Gesetzesauslegung, Rechtsprechungszitate mit Datum und Aktenzeichen) orientieren. Die Inhalte dienen ausschließlich als **Anregung für eigene Kanzlei- oder Inhouse-Plugins und -Skills**: Sie sollen zeigen, welche Prompts, Rollenbeschreibungen und Workflows in der Praxis hilfreich sein können – jeder Nutzer passt sie an die eigenen Mandate, Branchen, Tools und Compliance-Vorgaben an.
+Die Sammlung unterstützt das Prüfen von Unterlagen, die strukturierte rechtliche Argumentation und das Erstellen von Arbeitsdokumenten. Dazu verbindet sie fachbezogene Arbeitsabläufe mit Quellenkontrolle, Vorlagen und gesonderten Übungsakten. Auswahl, Anpassung und fachliche Kontrolle bleiben beim Nutzer.
+
+Für den ersten Vorgang: Rechtsgebiet öffnen, einen Einstieg wählen und die Unterlagen bereitstellen. Ein einzelnes Plugin oder dessen Schnellstart genügt meistens; der Download der gesamten Sammlung ist keine Voraussetzung. Die [Kurzanleitung](./QUICKSTART.md) erklärt den Weg zum ersten Ergebnis.
 
 ## Deutsch: Dateien und Downloads
 
@@ -19,6 +23,8 @@ Ziel ist es, zu zeigen, wie sich Plugins und Skills für Arbeitsrecht, Gesellsch
 | **Testakte** | Eine separate Dokumentensammlung zum Ausprobieren der Arbeitsabläufe; sie wird nicht mit einem Plugin installiert. | Wenn ein Workflow ohne eigenes Mandatsmaterial geprüft werden soll. | In der [Testakten-Übersicht](./testakten/README.md). |
 
 **Klickverhalten:** README-, Index- und Übersichtslinks öffnen weiterhin eine GitHub-Seite zur Navigation. Links mit **MD herunterladen** laden dagegen die unveränderte Markdown-Arbeitsdatei auf den Rechner. Bei einzelnen Skills erhält die Datei einen eindeutigen Namen aus Plugin und Skill, damit mehrere Downloads nicht alle `SKILL.md` heißen.
+
+Die Skill-Verzeichnisse zeigen den vollständigen Quellbestand. Große Spezialserien sind im installierten Paket teilweise über Fachrouter erreichbar und stehen deshalb nicht alle einzeln im Auswahlmenü. Ein einzelner Markdown-Download richtet weder Werkzeuge noch Dateizugriffe ein; benötigte Referenzen müssen beim manuellen Einsatz zusätzlich bereitstehen.
 
 [Jump to the English quick guide](#english-quick-guide)
 
@@ -56,7 +62,7 @@ Die Skills sind inzwischen deutlich verbessert und in verschiedenen Konstellatio
 
 Vor einem produktiven Einsatz sind Berufsrecht, Mandatsgeheimnis, Datenschutz, technischer Datenfluss und der fachliche Rechtsstand eigenverantwortlich zu prüfen. Die gebündelten Prüfpunkte stehen unter [Berufsrecht, Datenschutz und technischer Einsatz](#berufsrecht-datenschutz-und-technischer-einsatz).
 
-> **Testakten zum Ausprobieren:** Im Verzeichnis [`testakten/`](./testakten) liegen mehrere umfangreiche, anonymisierte Arbeitsakten mit PDFs, Tabellen, Textdokumenten, E-Mails und Bilddateien, bewusst wie ein realer Datenraum zusammengestellt. Details und Direktdownloads stehen in der [Testakten-Übersicht](./testakten/README.md).
+> Testakten zum Ausprobieren: Die [Aktenübersicht](./testakten/README.md) enthält künstlich erzeugte Übungsfälle, keine anonymisierten Originalmandate. Pro Akte stehen Gesamt-PDF, ZIP mit einzelnen PDFs und ZIP mit Originalformaten bereit. Alle Auslieferungsformen tragen den zweisprachigen Warnhinweis zur experimentellen Erzeugung und Nutzung auf eigene Verantwortung und Gefahr.
 
 ### Klotzkettes Juristische Promptliste
 
@@ -78,7 +84,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Skills (SKILL.md)** | 22729 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 323 zentral / 326 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v442.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v442.0.1` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -177,6 +183,8 @@ Unterstützt die Cowork-Oberfläche keinen eigenen Endpunkt, lassen sich die Wer
 Für den Einstieg genügt ein einzelnes Plugin und eine kleine Akte mit vollständig erfundenen PDF-Dateien. Erst wenn Dateizugriff, Quellenanzeige, Ausgabeordner und Anbieterprotokoll stimmen, werden weitere Plugins oder der vollständige Marketplace freigegeben.
 
 ### Kontrollliste vor echtem Mandatsmaterial
+
+Prüfe den tatsächlichen Datenweg mit einem harmlosen Test und dem zugehörigen Anbieterprotokoll. Eine leere oder gesetzte Umgebungsvariable in einem Terminal allein belegt nicht, welchen Endpunkt eine bereits laufende Oberfläche verwendet; gespeicherte Einstellungen und verwaltete Konfigurationen können abweichen. Zugangsschlüssel niemals zur Fehlersuche ausgeben oder in einen Bildschirmabzug aufnehmen.
 
 - Vertragliche Grundlage: AVV, TOMs, Verschwiegenheit, Unterauftragsverarbeiter, Audit-/Löschrechte.
 - Datenfluss: Region, Protokollierung, Trainings-/Retention-Regeln, Support-Zugriffe.
@@ -659,7 +667,7 @@ Aktivierung in Cowork: zuerst den Cowork-Bereich öffnen, dann `Customize → Pl
 **Schritt 1: Claude Desktop installieren**
 
 1. Gehe zu https://claude.com/download
-2. Lade die Version für dein Betriebssystem herunter (Windows / Mac / Linux)
+2. Wähle die auf der [Downloadseite](https://claude.com/download) angebotene Version und beachte deren Systemvoraussetzungen; die verfügbaren Funktionen unterscheiden sich je nach Plattform.
 3. Installiere die Anwendung und melde dich mit deinem Claude-Account an
 
 **Schritt 2: Plugin-ZIP herunterladen**
@@ -766,6 +774,8 @@ Beiträge willkommen – siehe [Beitragsleitfaden](./CONTRIBUTING.md).
 
 This repository provides a large German-law plugin and skill collection for practical legal workflows. It supports document review, structured legal analysis, drafting, deadline work, evidence mapping and source-controlled research across civil, labour, corporate, insolvency, family, inheritance, social, public, criminal and specialist business law.
 
+Start with one legal field, not the entire collection. Open its plugin README, choose either the installable plugin ZIP or one standalone prompt, and provide the relevant documents with a concrete task. The source material is mainly German; this English guide explains how to find and use it, not a separate English-language edition.
+
 ### What is what?
 
 | Component | Meaning | Best use | Location |
@@ -777,6 +787,10 @@ This repository provides a large German-law plugin and skill collection for prac
 | **Practice file** | A separate document bundle for trying a workflow without client material. It is not installed with a plugin. | Use it to test file handling and legal workflows. | In the [practice-file index](./testakten/README.md). |
 
 **Click behaviour:** README, index and overview links remain normal GitHub navigation pages. Links labelled **Download MD** save the unchanged Markdown work file instead of opening a source preview. Individual skills receive a unique plugin-and-skill filename so that multiple downloads do not overwrite one another.
+
+The skill indexes show the complete source collection. In installed packages, some specialist series are reached through topic routers rather than separate menu entries. Automatic skill selection is not guaranteed. A Markdown file does not install tools or grant file access; provide any required references when using a skill manually.
+
+For a practice case, choose one format: the combined PDF for reading, the individual-PDF ZIP for document-by-document review, or the original-format ZIP for working with spreadsheets, emails and other files. Case archives are separate from plugin installation. Their bilingual warning identifies them as generated experimental material, not real client files.
 
 All five complete indexes are alphabetically sorted and provide a short description for every plugin, skill, workshop prompt, quick-start prompt or practice file. Start with the [five A-to-Z indexes](#alle-vollständigen-listen-von-a-bis-z), the [plugin catalogue](#was-ist-drin), the [complete skill index](./SKILLS.md), the [workshop and quick-start index](./docs/werkstatt-und-schnellstart-coverage.md), the [practice-file index](./testakten/README.md), or the [latest release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest).
 

@@ -100,7 +100,9 @@ def validate_markdown_links(errors: list[str]) -> tuple[int, int]:
                 target = target / "README.md"
             if separator and target.is_file() and target.suffix.lower() == ".md":
                 checked_anchors += 1
-                anchors = anchor_cache.setdefault(target, heading_anchors(target))
+                if target not in anchor_cache:
+                    anchor_cache[target] = heading_anchors(target)
+                anchors = anchor_cache[target]
                 if unquote(fragment) not in anchors:
                     errors.append(f"{repo_relative(path)}: Überschriftenanker fehlt: {destination}")
     return checked_links, checked_anchors
@@ -129,6 +131,9 @@ def user_facing_download_docs() -> list[Path]:
         {
             REPO / "SKILLS.md",
             REPO / "ASSET_INDEX.md",
+            REPO / "PROMPTLISTE.md",
+            REPO / "QUICKSTART.md",
+            REPO / "INSTALLATION_EINFACH.md",
             REPO / "docs" / "werkstatt-und-schnellstart-coverage.md",
         }
     )

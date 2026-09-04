@@ -58,11 +58,12 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
             f"| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-{slug}.zip]({zip_url}) |"
             f"{einzel_row}"
         )
+        formats = "drei" if has_einzelpdf else "zwei"
         intro = (
-            "Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene."
+            f"Dieses Aktenpaket gibt es in {formats} Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene."
             + einzel_intro
         )
-        trailer = "Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten."
+        trailer = "Die ZIP-Links laden den zuletzt veröffentlichten Release. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein."
     else:
         rows = (
             f"| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-{slug}.zip]({zip_url}) |"
@@ -72,7 +73,13 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
             "Dieses Aktenpaket gibt es als Akten-ZIP zum Direkt-Download. Es enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs, aber kein Markdown. Sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene."
             + einzel_intro
         )
-        trailer = "Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version."
+        trailer = "Die ZIP-Links laden den zuletzt veröffentlichten Release. Der Repository-Stand kann zwischen Releases bereits neuer sein."
+    english = "English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown."
+    if pdf_rel is not None:
+        english += " Choose the combined PDF for reading; it is also included in that ZIP."
+    if has_einzelpdf:
+        english += " Choose the individual-PDF ZIP to review each document separately."
+    english += " These are practice documents, not an installable plugin. ZIP links refer to the latest published release."
     return f"""{MARKER_BEGIN}
 ## Akte komplett herunterladen
 
@@ -85,6 +92,8 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
 {rows}
 
 {trailer}
+
+{english}
 
 {MARKER_END}
 """
