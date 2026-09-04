@@ -217,6 +217,6 @@ Weitere Entscheidungen aus Modellwissen nicht zitieren; vor Ausgabe über bundes
 
 ## Anschluss
 
-- `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt` — bei verbundener Unterhalts-Frage
-- `fachanwalt-familienrecht-versorgungsausgleich` — bei Scheidungsverbund
+- `unterhalt-berechnen-und-gegenrechnen` — bei verbundener Unterhalts-Frage
+- `versorgungsausgleich-im-scheidungsverfahren-pruefen` — bei Scheidungsverbund
 - `betreuungsrecht` — bei Erwachsenen-Schutzfrage

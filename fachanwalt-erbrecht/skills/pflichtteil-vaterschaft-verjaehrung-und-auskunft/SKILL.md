@@ -1,28 +1,46 @@
 ---
 name: pflichtteil-vaterschaft-verjaehrung-und-auskunft
-description: "Für Pflichtteil Vaterschaft Verjährung und Auskunft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Trennt Entstehung, Rechtsausübungssperre und Verjährung eines Pflichtteils bei später Anerkennung oder postmortaler Vaterschaftsfeststellung und entwickelt eine fristgesicherte Auskunftsstrategie."
 ---
 
-# Führt durch Pflichtteilsfälle mit später festgestellter Vaterschaft, § 1600d Abs
+# Pflichtteil bei später geklärter Vaterschaft sichern
 
+## 1. Zweck und Anwendungsfall
 
-## Arbeitsweg
+Für Pflichtteilsfälle mit ungeklärter oder erst nach dem Tod festgestellter rechtlicher Vaterschaft. Kein eigener Ersatz für das Abstammungsverfahren.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB Paragrafen 1922 ff., 1942 ff., 1967, 2032 ff., 2197 ff. und 2303 ff.; FamFG Paragrafen 342 ff.; EuErbVO bei Auslandsbezug. ErbStG und AO nur hinzunehmen, wenn die konkrete Aufgabe eine Steuerschnittstelle hat. Fundstellen über amtliche Gesetzes- und Rechtsprechungsdatenbanken live prüfen; keine ungeprüften Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Eingaben
 
-**Fokus:** Führt durch Pflichtteilsfälle mit später festgestellter Vaterschaft, § 1600d Abs. 5 BGB, § 2317 BGB, § 199 BGB und Auskunftsansprüchen nach § 2314 BGB.
+Erbfall, Anerkennung und Zustimmungen oder Feststellungsbeschluss mit Rechtskraft, Kenntnischronologie, Erben, Verfügungen, Verjährungseinreden und bisherige Verfahren.
 
-### Pflichtteil: postmortale Vaterschaft, Verjährung, Auskunft und Stufenklage
+## 3. Ablauf und Checkliste
 
-## Verifizierter Kern
-BGH, Urteil vom 12.03.2025 - IV ZR 88/24: Für die Entstehung des Pflichtteilsanspruchs bleibt § 2317 Abs. 1 BGB maßgeblich; Kenntnis im Sinne von § 199 Abs. 1 Nr. 2 BGB kann bei nichtehelichem Kind zusätzlich Kenntnis von Anerkennung oder rechtskräftiger Feststellung der Vaterschaft verlangen.
+1. Biologische Abstammung, rechtliche Vaterschaft und deren wirksame Feststellung trennen. Rechtsausübungssperre nach BGB Paragraf 1600d Absatz 5 feststellen.
 
-## Prüfraster
-1. Erbfall, Abstammung, Anerkennung/Feststellung, Rechtsausübungssperre § 1600d Abs. 5 BGB.
-2. Entstehung Pflichtteil § 2317 BGB, Schuldner, Stufenklage, Auskunft § 2314 BGB.
-3. Verjährung § 195, § 199 BGB: Kenntnis, grob fahrlässige Unkenntnis, Hemmung, Klagezustellung.
-4. Nachlassverzeichnis: privat/notariell, Belege, Wertermittlung, Unternehmensanteile, Schenkungen § 2325 BGB.
+2. Anspruchsentstehung mit dem Erbfall nach BGB Paragraf 2317 von erfolgreicher Durchsetzbarkeit trennen.
+
+3. Kenntnis der Anerkennung oder rechtskräftigen Feststellung sowie des Schuldners erfassen. Grob fahrlässige Unkenntnis als eigene Alternative prüfen; Rechtskraft löst nicht schematisch stets erstmals die Verjährung aus.
+
+4. Jahresschluss, Höchstfrist und Hemmung je Anspruch bestimmen. Aufschub der Auskunft wegen ungeklärter Abstammung nicht als sichere Verjährungshemmung behandeln.
+
+5. Fristsicherungsweg, Abstammungsnachweis und Auskunftsstufe koordinieren; fehlende Statusunterlagen gezielt anfordern.
+
+### 3.1. Referenzen gezielt laden
+
+Bei Kenntnisstreit [Vaterschaft und Verjährung](references/vaterschaft-verjaehrung.md) laden.
+
+## 4. Quellenpflicht
+
+BGB Paragrafen 1592, 1600d Absatz 5, 2317, 2314, 195 und 199; ZPO Paragraf 254.
+
+Es gilt die [Zitierweise](../../../references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+
+## 5. Ausgabeformat
+
+Status- und Kenntniszeitachse, begründeter Verjährungsvermerk sowie bestimmtes Auskunfts- oder Stufenbegehren mit offen gekennzeichnetem Abstammungsnachweis.
+
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+
+## 6. Beispiele
+
+Der Erbfall liegt vor Rechtskraft des Feststellungsbeschlusses. Der Vermerk prüft Anspruchsentstehung schon beim Tod, Kenntnis und grobe Fahrlässigkeit aber gesondert.

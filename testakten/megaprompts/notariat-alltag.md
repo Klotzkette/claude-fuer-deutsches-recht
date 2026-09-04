@@ -142,6 +142,8 @@ Ausgangspunkt für dieses Plugin: Antragsteller für Antrag, Bewilligung, Vertre
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Notariat im Alltag._
 
+# Notariellen Vorgang und vorbereitende Unterlagen einordnen
+
 ## Direktstart: lesen, entscheiden, liefern
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:

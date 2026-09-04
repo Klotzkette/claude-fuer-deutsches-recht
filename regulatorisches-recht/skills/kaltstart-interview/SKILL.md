@@ -156,7 +156,7 @@ Einschlägige Normen dieses Skills:
 
 ## Beispiel
 
-**Eingabe:** `/regulatorisches-recht:regulatorisches-recht-kaltstart-interview`
+**Eingabe:** `/regulatorisches-recht:kaltstart-interview`
 
 **Ausgabe (Auszug):**
 ```

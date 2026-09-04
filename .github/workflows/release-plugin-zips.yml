@@ -60,7 +60,11 @@ jobs:
           python3 scripts/test-testakten-email-quality.py
 
       - name: Skill-Aktivierungssignale prüfen
-        run: python3 scripts/audit-skill-activation.py
+        run: |
+          python3 scripts/audit-skill-activation.py
+          python3 scripts/test-skill-selection.py
+          python3 scripts/test-official-plugin-validation.py
+          python3 scripts/audit-skill-selection.py
 
       - name: Gesamt-PDFs der Testakten reproduzierbar bauen und validieren
         run: |

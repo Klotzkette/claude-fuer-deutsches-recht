@@ -177,7 +177,7 @@ Klassische Stolperfalle in Familien-, Kindschafts- und Versorgungsausgleichsrech
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
+- `familienmandat-aufnehmen-und-sofortmassnahmen-planen` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

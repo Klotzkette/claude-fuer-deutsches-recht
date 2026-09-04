@@ -1,7 +1,13 @@
 ---
 name: fachanwalt-familienrecht-mediation-156-famfg-cochemer
-description: "Für Fachanwalt Familienrecht Mediation 156 FamFG Cochemer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft bei Sorge- und Umgangskonflikten die Eignung von Familienmediation, gerichtlicher Einigungsförderung und Vermittlung. Bereitet den passenden Verfahrensschritt unter Vorrang des Kindesschutzes vor."
 ---
+
+# Familienmediation und gerichtliche Einigung vorbereiten
+
+## 1. Fachlicher Einstieg
+
+Prüfe anhand vorhandener Anträge, Umgangstitel und Gefahrenbelege zuerst, ob freiwillige Mediation, gerichtliche Einigungsförderung nach Paragraf 156 FamFG oder ein eigenständiges Vermittlungsverfahren zur konkreten Lage passt. Schutzbedarf geht vor Einigungsdruck. Erstelle unmittelbar den passenden Vorschlag oder Antrag; verwende die folgenden Fragen nur für entscheidende Lücken, die die Akte nicht beantwortet.
 
 ## Mandantenfragen beim Kaltstart
 
@@ -268,7 +274,7 @@ Erhöhung auf EUR 5.000–8.000 bei komplexen Hochkonfliktfällen möglich (Para
 - `fachanwalt-familienrecht-umgangsregelung-mustervorlagen` — Konkrete Umgangsregelungen und Beschlussmuster
 - `fachanwalt-familienrecht-scheidungsantrag-stellen` — Einleitung des Scheidungsverfahrens parallel zur Umgangsregelung
 - `fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen` — Personenstandsrelevante Folgefragen
-- `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt` — Unterhaltsberechnung im Kontext des Sorge-/Umgangsverfahrens
+- `unterhalt-berechnen-und-gegenrechnen` — Unterhaltsberechnung im Kontext des Sorge-/Umgangsverfahrens
 
 ## Quellen
 

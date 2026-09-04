@@ -26,6 +26,45 @@ def require(condition: bool, message: str) -> None:
 
 
 def main() -> int:
+    text = "Pruefung [Werkstatt](agb-recht-pruefer-werkstatt.md) [Abschnitt](uebersicht.md#pruefung)"
+    normalized = G.prose_umlauts(text)
+    require(normalized.startswith("Prüfung"), "sichtbare Prosa wird nicht normalisiert")
+    require("(agb-recht-pruefer-werkstatt.md)" in normalized and "(uebersicht.md#pruefung)" in normalized, "relativer Dateiname ohne Ordner wird verändert")
+    require(G.prose_umlauts(normalized) == normalized, "Linkschutz ist nicht idempotent")
+    with TemporaryDirectory() as folder:
+        plugin = Path(folder)
+        (plugin / "skills" / "entfernter-einstieg").mkdir(parents=True)
+        live = plugin / "skills" / "vertrag-pruefen"
+        live.mkdir()
+        (live / "SKILL.md").write_text(
+            '---\nname: vertrag-pruefen\ndescription: "Prüft den Vertrag."\n---\n\n# Vertrag prüfen\n',
+            encoding="utf-8",
+        )
+        require(
+            [item["slug"] for item in G.collect_skill_material(plugin)] == ["vertrag-pruefen"],
+            "leerer Altordner wurde als vermeintlicher Skill aufgenommen",
+        )
+
+    ma = PROFILE_BY_KEY["ma_finanzierung"]
+    zeugnis = PROFILE_BY_KEY["zeugnis"]
+    output = G.practice_route_output(zeugnis, "Arbeitszeugnis erstellen", "", "arbeitszeugnisgenerator")
+    require("Zeugnisentwurf" in output and "Fachvotum" not in output, "Erstellungsauftrag verliert den Zeugnistext")
+    output = G.practice_route_output(zeugnis, "Zeugnis prüfen und berichtigen", "", "arbeitszeugnisgenerator")
+    require("Änderungsfassung" in output, "Berichtigungsauftrag verliert den Ersatztext")
+    for title in ("Bank Consents Change Control", "Finanzierungszustimmungen bei Kontrollwechsel"):
+        output = G.practice_route_output(ma, title, "")
+        require("Waiver" in output and "Gremienvorlage" not in output, "Bankzustimmung wurde zum Organbeschluss umgeleitet")
+        detail = G.practice_route_fallback(ma, title)
+        require("Kreditgeber" in detail, "Bankzustimmung verliert die Kreditgeberprüfung")
+    require(
+        "Auskunftsantrag" not in G.practice_route_output(ma, "Sanierungsgewinn und Debt-Equity-Swap", ""),
+        "Sanierungsgewinn wurde ohne Auftrag zum Auskunftsantrag",
+    )
+    require(
+        "Auskunftsantrag" in G.practice_route_output(ma, "Verbindliche Auskunft zum Sanierungsgewinn", ""),
+        "ausdrücklicher Auskunftsauftrag wird nicht erkannt",
+    )
+
     polluted_material = [
         {
             "slug": "kuendigungsbutton",

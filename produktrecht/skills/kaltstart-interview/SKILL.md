@@ -86,7 +86,7 @@ Sobald der Nutzer gewählt hat, orientieren:
 
 Nicht das persönlichen KI-Tool-Verlauf, andere Gespräche oder die Home-Verzeichnis-Konfigurationsdatei des Nutzers lesen um das Interview vorzufüllen.
 
-**Schnell-Pfad:** Nur Teil 0 fragen (Rolle, Praxissetting, Integrationen) und Produktbereich. Konfiguration mit `[STANDARD]`-Markern für alles andere schreiben. Abschließen mit: "Fertig. Sie können jetzt die Befehle nutzen. Ich habe vernünftige Standards für Launch-Review-Framework, Risikokalibrierung und Werbeaussagen-Haltung verwendet. Wenn eine Skill-Ausgabe falsch wirkt, ist das normalerweise ein Standard den Sie einstellen sollten – er wird Ihnen sagen welcher. Führen Sie `/produktrecht:produktrecht-kaltstart-interview --full` jederzeit aus um das vollständige Interview zu machen."
+**Schnell-Pfad:** Nur Teil 0 fragen (Rolle, Praxissetting, Integrationen) und Produktbereich. Konfiguration mit `[STANDARD]`-Markern für alles andere schreiben. Abschließen mit: "Fertig. Sie können jetzt die Befehle nutzen. Ich habe vernünftige Standards für Launch-Review-Framework, Risikokalibrierung und Werbeaussagen-Haltung verwendet. Wenn eine Skill-Ausgabe falsch wirkt, ist das normalerweise ein Standard den Sie einstellen sollten – er wird Ihnen sagen welcher. Führen Sie `/produktrecht:kaltstart-interview --full` jederzeit aus um das vollständige Interview zu machen."
 
 **Vollständiger Setup-Pfad:** der bestehende Interviewablauf unten.
 
@@ -370,7 +370,7 @@ Vor den strukturierten Fragen: "Haben Sie ein bestehendes Launch-Review-Framewor
 
 ---
 
-*Neu ausführen: `/produktrecht:produktrecht-kaltstart-interview --redo`*
+*Neu ausführen: `/produktrecht:kaltstart-interview --redo`*
 ```
 
 ## Nach dem Schreiben

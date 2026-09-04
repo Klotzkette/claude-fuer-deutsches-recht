@@ -1,6 +1,6 @@
 {
   "name": "anlagen-zu-schriftsaetzen",
-  "version": "442.0.1",
+  "version": "443.0.0",
   "description": "Gerichtsprozess-Dokumentenproduktion bis zur beA-fertigen Versandmappe: liest Schriftsatz und Anlagenordner, fuehrt K/B/AST/AG fort, konvertiert und stempelt jede PDF-Seite, prueft ERVV, Signatur, Dateinamen, Empfaenger und Eingang und liefert Verzeichnis, Manifest und Freigabevermerk.",
   "license": "Apache-2.0 OR MIT",
   "author": {

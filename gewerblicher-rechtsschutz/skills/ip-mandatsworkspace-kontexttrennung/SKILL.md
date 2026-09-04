@@ -44,7 +44,7 @@ Befehlsargument (erstes Token):
 
 Praxiskonfigurationsdatei lesen. Falls `Mandatsarbeitsbereiche: ✗` (Standardeinstellung für Inhouse-Teams):
 
-> Mandatsarbeitsbereiche sind deaktiviert — Sie sind als Inhouse-Praxis mit einem Mandanten konfiguriert; das Plugin arbeitet automatisch auf Praxisebene. Wenn Sie tatsächlich über mehrere externe Mandate hinweg arbeiten, führen Sie das Erstkonfigurationsgespräch erneut aus und wählen Sie die Kanzlei-Einstellung. Andernfalls benötigen Sie `/gewerblicher-rechtsschutz:gewerblicher-rechtsschutz-mandat-arbeitsbereich` nicht.
+> Mandatsarbeitsbereiche sind deaktiviert — Sie sind als Inhouse-Praxis mit einem Mandanten konfiguriert; das Plugin arbeitet automatisch auf Praxisebene. Wenn Sie tatsächlich über mehrere externe Mandate hinweg arbeiten, führen Sie das Erstkonfigurationsgespräch erneut aus und wählen Sie die Kanzlei-Einstellung. Andernfalls benötigen Sie `/gewerblicher-rechtsschutz:mandat-arbeitsbereich` nicht.
 
 Kein Fehler — der deaktivierte Zustand ist der erwartete für Inhouse-Nutzer.
 
@@ -174,7 +174,7 @@ Aufnahme abgeschlossen. Kurzzeichen: `[kurzzeichen]`. Status: aktiv.
 
 ## Beispiel
 
-**Eingabe:** `/gewerblicher-rechtsschutz:gewerblicher-rechtsschutz-mandat-arbeitsbereich neu bmw-marke-2026`
+**Eingabe:** `/gewerblicher-rechtsschutz:mandat-arbeitsbereich neu bmw-marke-2026`
 
 **Verarbeitung:**
 Kurzzeichen prüfen → Aufnahmeinterview starten → `mandat.md` erstellen → `verlauf.md` mit Eröffnungseintrag anlegen → Nutzer fragen, ob zum neuen Mandat gewechselt werden soll.

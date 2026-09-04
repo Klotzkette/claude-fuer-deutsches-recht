@@ -36,7 +36,7 @@ description: "Für Anpassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis
 `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` und `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` einlesen.
 
 Falls das Plugin noch nicht eingerichtet ist oder `[PLATZHALTER]` enthält:
-> Das Plugin wurde noch nicht eingerichtet. Führen Sie `/arbeitsrecht:arbeitsrecht-kaltstart-interview` aus.
+> Das Plugin wurde noch nicht eingerichtet. Führen Sie `/arbeitsrecht:kaltstart-interview` aus.
 
 ### 2. Gewünschte Änderung klären
 

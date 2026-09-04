@@ -178,10 +178,10 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | DPMA-Mehrparteienkonflikt und Interessen | Der Widerspruch richtet sich nach Paragraf 42 MarkenG und muss innerhalb von drei Monaten nach dem Tag der Veröffentlichung der Eintragung erhoben werden. | Fachvotum zu DPMA-Mehrparteienkonflikt und Interessen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Abmahnung | Seit der UWG-Reform 2020 muss die Abmahnung folgende Pflichtangaben enthalten: Rechtsfolge mangelhafter Abmahnung: Keine Kostentragungspflicht; ggf. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
 | Designrecht in der Praxis | Schutzausschluss Paragraf 3 DesignG: rein technisch bedingt? Neuheit und Eigenart bei Anmeldung (Paragraf 2 DesignG, Artikel 5–6 GGV): vorbekannter Formenschatz? | Fachvotum zu Designrecht in der Praxis mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Fachanwalt Gewerblicher Rechtsschutz Designverletzung | Welcher Schutztitel liegt vor — eingetragenes deutsches Design (DPMA), eingetragenes Gemeinschaftsgeschmacksmuster (EUIPO) oder nicht eingetragenes Gemeinschaftsgeschmacksmuster. | Fachvotum zu Fachanwalt Gewerblicher Rechtsschutz Designverletzung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren | Welcher Schutztitel liegt vor — eingetragenes deutsches Design (DPMA), eingetragenes Gemeinschaftsgeschmacksmuster (EUIPO) oder nicht eingetragenes Gemeinschaftsgeschmacksmuster. | Fachvotum zu Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster. |
 | Markenanmeldung: Compliance, Dokumentation und Aktenführung | Ziel: Identische oder ähnliche Zeichen im gleichen oder ähnlichen Waren-/Dienstleistungsbereich aufdecken (Paragraf 9 MarkenG, Artikel 8 UMV). | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
 | Schutzrechtsportfolio-Pflege | Benutzungspflicht: Deutsche Marke: ernsthafte Benutzung innerhalb von 5 Jahren nach Eintragung (Paragraf 26 MarkenG); Nichtbenutzung = Verfallsrisiko (Paragraf 49 MarkenG). | Fachvotum zu Schutzrechtsportfolio-Pflege mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Einstweilige Verfügung: Beweislast und Darlegungslast | Kein voller Beweis nötig (Paragraf 294 ZPO): überwiegende Wahrscheinlichkeit genügt. Faustregel nach Kammer: Hamburg ~4 Wochen; München ~4 Wochen; Düsseldorf ~4 Wochen; Köln ~6 Wochen (Einzelfälle variieren). | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
+| UWG-Einstweilige Verfügung | Wettbewerbs-Verstoß: Irreführende Werbung (Paragraf 5 UWG), vergleichende Werbung (Paragraf 6 UWG), Belästigung (Paragraf 7 UWG), Rechtsbruch (Paragraf 3a UWG), Mitbewerberschutz (Paragraf 4 UWG)? | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
 | Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen | DesignG: Schutzfähigkeit Neuheit und Eigenart Paragrafen 2 und folgende ; Schutzdauer 25 Jahre Paragraf 27 DesignG; Ansprüche Paragrafen 38 und folgende UWG: Generalklausel Paragraf 3; Tatbestände Paragrafen 3a-7. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 
 ## 16. Fachspezifische Praxisrouten
@@ -214,11 +214,11 @@ Bearbeitungsauftrag: Schutzausschluss Paragraf 3 DesignG: rein technisch bedingt
 Prüfschritte: Schritt 1 – Schutzfähigkeit des Klagedesigns; Liegt eine Anmeldung beim DPMA (nationales Design) oder EUIPO (eingetragenes GGM) vor; Nicht eingetragenes GGM: Offenbarung im EWR feststellbar, Frist 3 Jahre eingehalten; Übereinstimmender oder verwechslungsfähiger Gesamteindruck beim informierten Benutzer; Gestaltungsfreiheit des Entwerfers: enger Formenschatz = kleiner Schutzbereich.
 Lieferstück: Fachvotum zu Designrecht in der Praxis mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Fachanwalt Gewerblicher Rechtsschutz Designverletzung
+### 16.5. Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren
 
 Bearbeitungsauftrag: Welcher Schutztitel liegt vor — eingetragenes deutsches Design (DPMA), eingetragenes Gemeinschaftsgeschmacksmuster (EUIPO) oder nicht eingetragenes Gemeinschaftsgeschmacksmuster (GGV Artikel 11, 3 Jahre ab Erstoffenbarung)? Liegt eine Voroffenbarung des Klagedesigns vor (Paragraf 5 DesignG: Neuheitsschonfrist 12 Monate)? Welcher Gestaltungsfreiraum besteht im Marktsegment (Paragraf 38 Absatz 2 S. 2 DesignG) — enge technische Vorgaben oder breite Gestaltungsfreiheit?
 Normbezug aus dem Fachmaterial: Welcher Schutztitel liegt vor — eingetragenes deutsches Design (DPMA), eingetragenes Gemeinschaftsgeschmacksmuster (EUIPO) oder nicht eingetragenes Gemeinschaftsgeschmacksmuster (GGV Artikel 11, 3 Jahre ab Erstoffenbarung)?
-Lieferstück: Fachvotum zu Fachanwalt Gewerblicher Rechtsschutz Designverletzung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Lieferstück: Fachvotum zu Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.6. Markenanmeldung: Compliance, Dokumentation und Aktenführung
 
@@ -234,11 +234,9 @@ Prüfschritte: Aktive Benutzung des Schutzrechts (Marke) oder laufende Entwicklu
 Normbezug aus dem Fachmaterial: Benutzungspflicht: Deutsche Marke: ernsthafte Benutzung innerhalb von 5 Jahren nach Eintragung (Paragraf 26 MarkenG); Nichtbenutzung = Verfallsrisiko (Paragraf 49 MarkenG).
 Lieferstück: Fachvotum zu Schutzrechtsportfolio-Pflege mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Einstweilige Verfügung: Beweislast und Darlegungslast
+### 16.8. UWG-Einstweilige Verfügung
 
-Bearbeitungsauftrag: Kein voller Beweis nötig (Paragraf 294 ZPO): überwiegende Wahrscheinlichkeit genügt. Faustregel nach Kammer: Hamburg ~4 Wochen; München ~4 Wochen; Düsseldorf ~4 Wochen; Köln ~6 Wochen (Einzelfälle variieren). Bei bestimmten Sachverhalten (Verletzungsumfang, Herstellungsprozesse, Lieferkette) obliegt dem Antragsgegner eine sekundäre Darlegungslast, wenn er die Informationen exklusiv besitzt.
-Prüfschritte: Eidesstattliche Versicherung des Mandanten als zentrales Instrument; Sachverständige können auch im EV-Verfahren eingesetzt werden, aber zeitkritisch; Dringlichkeit ist widerlegt, wenn der Antragsteller zu lange zugewartet hat nach Kenntnis vom Verstoß; Tipp: Kenntniszeitpunkt genau dokumentieren; BGH-Grundsatz: Wer über Informationen allein verfügt, muss substantiiert bestreiten oder darlegen.
-Normbezug aus dem Fachmaterial: Kein voller Beweis nötig (Paragraf 294 ZPO): überwiegende Wahrscheinlichkeit genügt; Eidesstattliche Versicherung des Mandanten als zentrales Instrument; Sachverständige können auch im EV-Verfahren eingesetzt werden, aber zeitkritisch.
+Bearbeitungsauftrag: Wettbewerbs-Verstoß: Irreführende Werbung (Paragraf 5 UWG), vergleichende Werbung (Paragraf 6 UWG), Belästigung (Paragraf 7 UWG), Rechtsbruch (Paragraf 3a UWG), Mitbewerberschutz (Paragraf 4 UWG)? Aktivlegitimation gemäß Paragraf 8 Absatz 3 UWG: Mitbewerber, qualifizierter Wirtschaftsverband, Kammer? Ohne Abmahnung: Kostenrisiko bei sofortigem Verfügungsantrag (Paragraf 13 Absatz 3 UWG).
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
 ### 16.9. Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen
@@ -247,21 +245,21 @@ Bearbeitungsauftrag: DesignG: Schutzfähigkeit Neuheit und Eigenart Paragrafen 2
 Normbezug aus dem Fachmaterial: Theoretischer Lehrgang: 120 Zeitstunden gewerblicher Rechtsschutz (FAO Paragraf 4); Praktischer Nachweis: 80 Fälle in den letzten drei Jahren, davon mindestens 50 rechtsförmlich.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.10. Influencer-Marketing und UWG
+### 16.10. Geschäftsgeheimnisse im Verhältnis zu NDA, Hinweisgeber- und Urheberrecht prüfen
+
+Bearbeitungsauftrag: Ordne Information, Beteiligte, Schutzmaßnahmen und Vorgang mit Belegstellen zu. Liefere einen ausformulierten Prüfvermerk, der Geheimnisschutz, vertragliche Bindung, Hinweisgeberschutz und Urheberrecht getrennt bewertet; ergänze nur den beauftragten Klausel- oder Antragsentwurf und die hierfür entscheidenden Beleglücken. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+Prüfschritte: Lies zuerst die bezeichneten Informationen, Geheimhaltungsvereinbarungen, Zugriffsnachweise und vorhandenen Meldungs- oder Offenlegungsunterlagen; Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog; Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben; Bereits Beantwortetes nicht erneut erheben.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.11. Influencer-Marketing und UWG
 
 Bearbeitungsauftrag: Mitbewerber des werbenden Unternehmens (Paragraf 8 Absatz 3 Nummer 1 UWG). Verbraucherverbände (Paragraf 8 Absatz 3 Nummer 3 UWG), z.B. Ist der Abmahner aktivlegitimiert (Paragraf 8 Absatz 3 UWG)?
 Prüfschritte: Anforderungen BGH: Kennzeichnung muss unverzüglich erkennbar sein, also vor dem eigentlichen Inhalt oder direkt darunter; nicht erst am Ende oder in Kleindruck; Marktüberwachungsbehörden (LFÄ, Landesmedienanstalten); Häufige Streitwerte: 5.000–30.000 € je nach Reichweite des Influencers und wirtschaftlicher Bedeutung; Prüfpunkte bei eingehender Abmahnung.
 Normbezug aus dem Fachmaterial: Typische Abmahner:; Mitbewerber des werbenden Unternehmens (Paragraf 8 Absatz 3 Nummer 1 UWG).
 Lieferstück: Fachvotum zu Influencer-Marketing und UWG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren
+### 16.12. Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren
 
 Bearbeitungsauftrag: Monate ab Veröffentlichung (Paragraf 42 Absatz 1 MarkenG / Artikel 46 UMV) — bei Verjährung sofort auf Löschungsklage umstellen. Wenn Eintragungs-Datum über 5 Jahre: Benutzungsnachweis bereithalten (Paragraf 26 MarkenG). Bekanntheit der älteren Marke (Paragraf 14 Absatz 2 Nummer 3 MarkenG) als zusätzlicher Hebel?
 Prüfschritte: Mandantenrolle: Widersprechender (Inhaber älterer Marke) oder Angegriffener (Inhaber jüngerer Marke)?
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.12. Domainkonflikt bearbeiten
-
-Bearbeitungsauftrag: Prüfe bei geschäftlicher Benutzung vorrangig die Paragrafen 14 und 15 MarkenG. Prüfe Paragraf 12 BGB eigenständig, wenn eine namensmäßige Zuordnungsverwirrung oder Sperrwirkung behauptet wird. Prüfe lauterkeitsrechtliche Behinderung, Irreführung oder Rechtsmissbrauch nur anhand zusätzlicher Tatsachen.
-Prüfschritte: Lies Registerauszüge, DENIC- oder Registrar-Daten, Domainhistorie, Websitebelege, Abmahnung und Korrespondenz vollständig; Bestimme danach, ob der Mandant Nutzung, Registrierung, Weiterleitung oder bloßes Halten angreift und ob er Unterlassung, Löschung, Übertragung oder zunächst nur eine Sicherung benötigt.
-Lieferstück: Fachvotum zu Domainkonflikt bearbeiten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

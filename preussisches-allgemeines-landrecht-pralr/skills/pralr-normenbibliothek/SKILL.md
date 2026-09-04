@@ -1,34 +1,49 @@
 ---
 name: pralr-normenbibliothek
-description: "Erschließt eine konkrete Vorschrift oder einen engen Normbereich des Preußischen Allgemeinen Landrechts anhand von Textzeuge, Teil, Titel, Paragraph, OCR-Gegenprobe und historischer Systematik."
+description: "Findet eine bestimmte PrALR-Norm anhand von Teil, Titel, Paragraf oder enger Sachfrage. Lädt nur den einschlägigen Bibliotheksabschnitt und prüft dessen Systemstelle."
 ---
 
-# 1. Normen des Preußischen Allgemeinen Landrechts erschließen
+# PrALR-Norm auffinden
 
-## 1.1 Zweck und Anwendungsfall
+## 1. Zweck und Anwendungsfall
 
-Dieser Skill führt zu einer einzelnen Vorschrift oder einem engen Normbereich des Preußischen Allgemeinen Landrechts. Die umfangreichen Normblöcke liegen als unterstützende Bibliothek vor und werden nur dann gelesen, wenn Teil, Titel oder Paragraph für den konkreten Auftrag feststehen.
+Findet eine bestimmte PrALR-Norm anhand von Teil, Titel, Paragraf oder enger Sachfrage. Lädt nur den einschlägigen Bibliotheksabschnitt und prüft dessen Systemstelle.
 
-## 1.2 Eingaben
+## 2. Eingaben
 
-Benötigt werden der historische Sachverhalt oder die gesuchte Vorschrift, der verwendete Textzeuge, möglichst Teil und Titel sowie das Ziel: Normkarte, heutige Übersetzung, Quellenvergleich, historische Fallanwendung oder Fortwirkungsprüfung.
+Gesuchte Regel, Teil und Titel soweit bekannt, Suchwörter, vorgelegter Textzeuge. Vorhandenes Material zuerst lesen. Nur eine entscheidende Lücke gebündelt nachfragen; ungesicherte Angaben sichtbar offenlassen.
 
-## 1.3 Ablauf
+## 3. Ablauf
 
-1. Öffne den [Bereichsindex](references/index.md) und bestimme die kleinste passende Bereichsdatei.
-2. Suche in dieser Bereichsdatei nach dem exakten `Suchbegriff`, lies nur den einschlägigen Abschnitt bis zur nächsten Überschrift und prüfe Seitenbild, OCR und bibliografische Angabe gegeneinander.
-3. Trenne Wortlaut von editorischer Ergänzung, historischer Auslegung, späterer Rechtsentwicklung und heutiger Fortwirkung.
-4. Ordne Teil, Titel, Paragraph, Nachbarvorschriften und zeitliche Fassung präzise zu.
-5. Vermeide anachronistische Begriffe; eine Übertragung in heutige Sprache wird als Übersetzung gekennzeichnet.
+### 3.1. Fachprüfung
 
-## 1.4 Quellenpflicht
+Inhaltsverzeichnis und Seitenbild vor Dateinamen auswerten. Bandzählung nicht mit Teilzählung gleichsetzen. Bibliothekskarten sind Arbeitshilfen, keine verifizierten Gesetzestexte; die im Auftrag entscheidende Norm samt Nachbarvorschriften separat lesen.
 
-Jede Normangabe nennt Textzeuge, Ausgabe, Band oder Teil, Titel, Paragraph und Fundstelle im Digitalisat oder Scan. OCR-Text wird bei entscheidenden Wörtern am Seitenbild kontrolliert.
+### 3.2. Zeit- und Geltungsgrenze
 
-## 1.5 Ausgabeformat
+Maßstab sind Ort, Zeit und konkrete Fassung des historischen Falls. Heutiges Recht nur bei ausdrücklich verlangtem Vergleich oder einer tatsächlichen Anschlussfrage gesondert prüfen. Kein festes Gegenwartsjahr und kein allgemeiner BGB-Normenradar. Normtext, damalige Anwendungspraxis und spätere Rezeption getrennt ausweisen.
 
-Liefere eine Normkarte, Fundstellenmatrix, heutige Übersetzung, historische Fallanwendung oder einen Red-Team-Vermerk gegen Anachronismen. Beginne mit dem gesicherten Textbefund und trenne davon jede rechtshistorische Bewertung.
+### 3.3. Vertiefung bei Bedarf
 
-## 1.6 Beispiel
+Die folgenden Materialien sind bewahrte frühere Arbeitsentwürfe, keine zusätzlichen auswählbaren Skills und keine geprüften Primärquellen. Nur die zur konkreten Teilfrage passende Datei laden, nicht alle Fassungen vorsorglich. Fachfremde Normenradare wurden entfernt; verbliebene Altzitate, Fristen und Falllösungen müssen vor Verwendung verifiziert werden.
 
-Bei einer Frage zur Aufopferung werden zunächst Teil, Titel und konkrete Vorschriften bestimmt. Nur der passende Bibliotheksbereich wird geöffnet; anschließend folgen Textzeugenvergleich, historische Einordnung und eine getrennte Prüfung möglicher heutiger Fortwirkung.
+Für die vorhandenen Normkarten den [Bereichsindex](references/index.md) öffnen und ausschließlich den passenden Abschnitt der dort verlinkten Bereichsdatei lesen. Der Bestand wurde nicht vollständig fachlich verifiziert; eine dortige Fundstelle bleibt bis zur Primärtextprüfung ein Suchhinweis.
+
+- Bei Fragen zu „Navigation im Band“: [Fachmaterial](references/band-teil-titel-navigation.md).
+- Bei Fragen zu „Navigation im Band“: [ergänzende Fassung 2](references/pralr-043-band-teil-titel-navigation.md).
+- Bei Fragen zu „Systematik“: [Fachmaterial](references/pralr-006-systematik-einleitung-teile-titel.md).
+- Bei Fragen zu „Systematik“: [ergänzende Fassung 2](references/systematik-einleitung-teile-titel.md).
+- Bei Fragen zu „Normnavigator jede PrALR-Norm als Karte erschließen“: [Fachmaterial](references/pralr-neu-001-normnavigator-jede-pralr-norm-karte-erschliessen.md).
+- Bei Fragen zu „1. Normen des Preußischen Allgemeinen Landrechts erschließen“: [Fachmaterial](references/pralr-normenbibliothek.md).
+
+## 4. Quellenpflicht
+
+[Zitierweise](../../../references/zitierweise.md) und [historischer Quellenprüfvermerk](../../references/historische-quellenpruefung.md) beachten. Ausgabe, Teil, Titel, Paragraf und konkrete Fundstelle nennen. Für tragende Wörter Seitenbild und Transkription abgleichen; ohne verfügbares Seitenbild den begrenzten Textzeugenstatus offenlegen. Nur neu oder entscheidend verwendete historische Primärstellen gezielt prüfen, keine sachfremde Aktualitätsrecherche erzwingen. Literatur nur aus bereitgestelltem oder tatsächlich verifiziertem Text verwenden.
+
+## 5. Ausgabeformat
+
+Das verlangte Arbeitsprodukt in vollständigen, ausformulierten Sätzen liefern; keine Skelette, Halbsätze oder reine Stichwortausgabe. Gesicherten Textbefund, historische Bewertung, Gegenbefund und offene Quelle erkennbar trennen. Tabellen nur für echte Vergleiche oder Belege verwenden. Formatierte Dokumente: Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown als Exporthinweis nennen.
+
+## 6. Beispiel
+
+Eine Erbrechtsfrage nicht allein wegen eines alten Dateinamens Titel 17 zuordnen: Erwerbsgrund, Verfügung und gemeinschaftlicher Nachlass verlangen unterschiedliche Suchstellen.

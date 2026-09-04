@@ -15,13 +15,13 @@ description: "Für /anpassen: ordnet Norm, Beweislast und Gegenargument; Ergebni
 
 ## Wann dies ausgeführt wird
 
-Der Nutzer hat `/produktrecht:produktrecht-anpassen` eingegeben. Er möchte etwas in seinem Produktrecht-Profil ändern – eine Risikokalibrierungs-Schwelle, einen Eskalationskontakt, einen Framework-Abschnitt – ohne das gesamte Kaltstart-Interview erneut auszuführen und ohne YAML direkt zu bearbeiten.
+Der Nutzer hat `/produktrecht:anpassen` eingegeben. Er möchte etwas in seinem Produktrecht-Profil ändern – eine Risikokalibrierungs-Schwelle, einen Eskalationskontakt, einen Framework-Abschnitt – ohne das gesamte Kaltstart-Interview erneut auszuführen und ohne YAML direkt zu bearbeiten.
 
 ## Was zu tun ist
 
 1. **Konfiguration lesen.** `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` lesen (und `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` eine Ebene darüber). Wenn die Plugin-Konfiguration nicht existiert oder noch `[PLATZHALTER]`-Werte enthält, sagen:
 
- > Sie haben das Setup noch nicht ausgeführt. Führen Sie zuerst `/produktrecht:produktrecht-kaltstart-interview` aus – anpassen ist für die Anpassung eines Profils das Sie bereits haben.
+ > Sie haben das Setup noch nicht ausgeführt. Führen Sie zuerst `/produktrecht:kaltstart-interview` aus – anpassen ist für die Anpassung eines Profils das Sie bereits haben.
 
 2. **Anpassbare Karte zeigen.** Was im Profil ist, gruppiert, mit einer einzeiligen Zusammenfassung des aktuellen Werts:
 
@@ -51,7 +51,7 @@ Der Nutzer hat `/produktrecht:produktrecht-anpassen` eingegeben. Er möchte etwa
 
 6. **Abschließen.**
 
- > Fertig. Ihre nächste Ausgabe spiegelt die Änderung wider. Sonst noch etwas? Sie können `/produktrecht:produktrecht-anpassen` jederzeit ausführen.
+ > Fertig. Ihre nächste Ausgabe spiegelt die Änderung wider. Sonst noch etwas? Sie können `/produktrecht:anpassen` jederzeit ausführen.
 
 ## Leitplanken
 

@@ -1,77 +1,45 @@
-# AGB Recht Prüfer — Schnellstart
+# AGB-Recht prüfen: Schnellstart
 
-Wenn du das hier öffnest, willst du einen Verbraucherfall oder eine Klauselkontrolle sofort nach Widerruf, Informationspflichten, AGB-Kontrolle und Durchsetzungsweg ordnen.
+Bedienregel: Dateien und Ordner zuerst lesen. Konkrete Aufträge beginnen sofort mit dem verlangten Dokument. Bei bloßer Aktivierung selbst zu Vertrag und Vertriebsweg und Fristen routen. Große Ordner liefern früh einen Teilstand und nennen offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewünsche setzen ohne Neustart auf dem Stand auf; passende Fachskills laufen intern.
 
-Kernauftrag: Gigantischer AGB-Rechtsprüfer und Klausel-Entwerfer für deutsches Recht: Paragrafen 305 bis 310 BGB, UKlaG, B2C/B2B, Branchen-AGB, Redlining, Klauselrisiko und rechtssichere Entwurfsworkflows. Vorrang hat das verlangte Arbeitsprodukt.
+## 1. Auftrag und Unterlagen
 
-## 1. Sofortstart nach Eingangslage
+Lies zuerst Klausel, Vertrag, Anlagen und Änderungsschreiben. Liefere das verlangte Produkt: Klauselgutachten, Ersatzfassung, Redline oder Antwort. Ohne präzisen Auftrag erstelle einen knappen Klauselbefund. Frage nur einmal gebündelt nach entscheidenden Lücken; ungelesene Unterlagen und Annahmen ausdrücklich benennen.
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Vertrag und Vertriebsweg beginnen und das Arbeitsprodukt „Klauselprüfung“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Klauselprüfung“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Vertrag und Vertriebsweg, Fristen, Klausel- und Pflichtenprüfung routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+Erfasse Vertragstyp, Parteistatus, Verwender, Vertragsdatum, Fassung, Einbeziehung und Regelungsziel. B2B steht nicht schon durch eine Überschrift fest. Vertragsänderung, Individualabrede und erstmalige Einbeziehung unterscheiden.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Vertriebsweg, Fristen, Klausel- und Pflichtenprüfung und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+## 2. Passende Aufgabe wählen
 
-## 2. Fachlicher Direktstart
+2.1. Unverständliche Begriffe oder Verweisketten: [Klauseltransparenz prüfen](skills/klauseltransparenz-pruefen/SKILL.md).
 
-1. Leitfrage aus Akte und Auftrag festlegen: Liegt ein Verbrauchervertrag mit besonderem Vertriebsweg vor und wurde ordnungsgemäß belehrt.
-2. Kernprüfung in einem Durchgang: Welche Klausel weicht vom gesetzlichen Leitbild ab und hält sie der Inhaltskontrolle stand; Welche Frist läuft ab wann und wodurch wurde sie ausgelöst oder gehemmt.
-3. Belege und Engpass zusammenführen: Darlegungs- und Nachweisfrage für Verbraucherrecht und Verbandsdurchsetzung: Welche Frist läuft ab wann und wodurch wurde sie ausgelöst oder gehemmt; besonders kritisch ist: Widerrufs- oder Verjährungsfrist läuft in unter zwei Wochen ab.
-4. Erstes Arbeitsprodukt liefern: Klauselprüfung: Klauseltext, Einbeziehung, Transparenz, Leitbildabweichung, Ergebnis, Ersatzformulierung.
+2.2. Benachteiligung, gesetzliches Leitbild oder Klauselverbot: [Klauselinhalt und Verbote prüfen](skills/klauselinhalt-und-verbote-pruefen/SKILL.md).
 
-## 3. Kernroute
+2.3. Unwirksame Klausel, Restvertrag oder salvatorische Klausel: [Klauselausfall und Vertragslücke prüfen](skills/klauselausfall-und-vertragsluecke-pruefen/SKILL.md). Daraus folgt noch kein Rückzahlungsanspruch.
 
-1. Vertrag und Vertriebsweg: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen.
-2. Fristen: Widerruf, Gewährleistung, Verjährung und Abmahnfristen kalendarisch sichern.
-3. Klausel- und Pflichtenprüfung: Einbeziehung, Transparenz, Leitbildabweichung und Informationspflichten getrennt prüfen.
-4. Durchsetzungsweg: Individualanspruch, Musterfeststellung, Verbandsabmahnung oder Unterlassungsklage wählen.
-5. Arbeitsprodukt: Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren.
+2.4. Eine Klausel neu schreiben: [Klauselvarianten entwerfen](skills/klauselvarianten-entwerfen/SKILL.md). Risikoprofil und Kundengruppe sind Eingaben, keine gesonderten Aufgaben.
 
-## 4. Fallkarte
+2.5. Haftungsausschluss, wesentliche Pflichten oder Höchstbetrag: [Haftungsbegrenzung prüfen und formulieren](skills/haftungsbegrenzung-pruefen-und-formulieren/SKILL.md). Bei Datenverlust, Modellfehlern oder KI-Leistungen stattdessen [Haftungsdeckel für Daten- und Modelldienste prüfen](skills/haftungsdeckel-fuer-daten-und-modelldienste-pruefen/SKILL.md); dort nur benötigte allgemeine Grundlagen hinzuladen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 312 ff; BGB Paragraf 355 ff; BGB Paragraf 305 bis Paragraf 310 |
-| Rechtsprechung | BGH, Urteil vom 29.07.2021 - III ZR 192/20; BGH, Urteil vom 07.04.2022 - I ZR 212/20 |
-| Tatbestand | Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen |
-| Beweislast | Darlegungs- und Nachweisfrage für Verbraucherrecht und Verbandsdurchsetzung: Welche Frist läuft ab wann und wodurch wurde sie ausgelöst oder gehemmt |
-| Rechtsfolge | Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+2.6. Schiedsabrede: [Schiedsklausel prüfen und formulieren](skills/schiedsklausel-pruefen-und-formulieren/SKILL.md). Rechtswahl: [Rechtswahl und Vertragsstatut prüfen](skills/rechtswahl-und-vertragsstatut-pruefen/SKILL.md). Gerichtsstand und Vollstreckung bleiben getrennt.
 
-## 5. Einsatzfelder
+2.7. Schweigen auf eine Vertragsänderung: [Vertragsänderung durch Zustimmung prüfen](skills/vertragsaenderung-durch-zustimmung-pruefen/SKILL.md). Die Bankreferenz nur für Bankbedingungen oder Zahlungsdienste laden.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Vertrag und Vertriebsweg | Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristen | Widerruf, Gewährleistung, Verjährung und Abmahnfristen kalendarisch sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klausel- und Pflichtenprüfung | Einbeziehung, Transparenz, Leitbildabweichung und Informationspflichten getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Durchsetzungsweg | Individualanspruch, Musterfeststellung, Verbandsabmahnung oder Unterlassungsklage wählen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+## 3. Den konkreten Befund liefern
 
-## 6. Anker
+Klauselwortlaut und Fundstelle nennen. Einbeziehung, Auslegung, Transparenz, Inhaltskontrolle und Rechtsfolge getrennt begründen. Bei Paragrafen 307 bis 310 BGB zuerst Anwendungsbereich und Vertragsdatum bestimmen; anschließend nur einschlägige Tatbestände prüfen. Gesetzliche Ausnahme und stärkste Gegenposition einbeziehen.
 
-- BGB Paragraf 312 ff.: außerhalb von Geschäftsräumen geschlossene Verträge, Fernabsatz und Informationspflichten.
-- BGB Paragraf 355 ff.: Widerrufsrecht, Fristbeginn und Rechtsfolgen.
-- BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Überraschung, Transparenz und Inhaltskontrolle von AGB.
-- BGB Paragraf 474 ff.: Verbrauchsgüterkauf mit Beweislastumkehr.
-- Paragrafen 305-310 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BRAO Paragrafen 43, 49b zur Honorarvereinbarung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 52 BRAO: in vorformulierten Mandatsbedingungen ist eine Haftungsbeschränkung nur für einfache Fahrlässigkeit und nur bis zur vierfachen Mindestversicherungssumme zulässig; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 25, 39 BGB Vereinsrecht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 29.07.2021 - III ZR 192/20: Die Inhaltskontrolle nach BGB Paragraf 307 Absatz 1 Satz 1 verlangt eine umfassende Abwägung der wechselseitigen Interessen unter Berücksichtigung von Gegenstand, Zweck und Eigenart des Vertrags.
-- BGH, Urteil vom 07.04.2022 - I ZR 212/20: Im Unterlassungsverfahren nach UKlaG sind Klauseln getrennt nach Regelungsgehalt zu prüfen; der Senat beanstandete unter anderem Kosten-, Schadensersatz- und Haftungsausschlüsse in Paketbeförderungsbedingungen.
+Das Ergebnis enthält die tragende Norm, den entscheidenden Aktenfund, die rechtliche Bewertung und eine konkrete Empfehlung. Eine Ersatzfassung vollständig schreiben; keine bloße Anweisung „rechtskonform ergänzen“. Bei fehlender Grundlage die offene Frage und ihre Auswirkung benennen.
 
-## 7. Antwortform
+## 4. Anschlussaufträge getrennt halten
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren.
-7.2. Norm: BGB Paragraf 312 ff; BGB Paragraf 355 ff mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Vertrag und Vertriebsweg“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Darlegungs- und Nachweisfrage für Verbraucherrecht und Verbandsdurchsetzung: Welche Frist läuft ab wann und wodurch wurde sie ausgelöst oder gehemmt. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Klausel weicht vom gesetzlichen Leitbild ab und hält sie der Inhaltskontrolle stand.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Klauselprüfung“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+Rückzahlung: [Rückabwicklung](skills/rechtsfolgen-rueckabwicklung-agb/SKILL.md). Eingegangene Abmahnung: [Abmahnung beantworten](skills/abmahnung-reagieren/SKILL.md). Verbandsunterlassung: [UKlaG-Verfahren](skills/uklag-unterlassung-verbandsklage/SKILL.md). Kollektive Abhilfe: [VDuG-Schnittstelle](skills/vdug-abhilfeklage-agb-schnittstelle/SKILL.md). Diese Aufgaben nicht zusammenlegen oder ungefragt einleiten. Widerruf nur bei entsprechendem Sachverhalt prüfen.
 
-## 8. Stop
+Droht Fristablauf, zuerst konkrete Frist, Beleg und Sofortmaßnahme sichern. Eine offene Fristfrage verhindert nicht die Bearbeitung davon unabhängiger Klauseln. Nichts ohne Auftrag versenden oder einreichen.
 
-Nur bei diesem Stop-Punkt unterbrechen: Widerrufs- oder Verjährungsfrist läuft in unter zwei Wochen ab. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+## 5. Quellen und Form
+
+[Zitierweise](../references/zitierweise.md) beachten. Amtlichen Normtext in der maßgeblichen Fassung und einschlägige Rechtsprechung prüfen; Gericht, Entscheidungsform, Datum, Aktenzeichen, Randnummer und Abrufdatum nennen. Die Referenzen enthalten fallbezogene Quellen, keine universell anzuwendenden Normenlisten. Nur den tatsächlich benötigten Referenzabschnitt laden.
+
+Endprodukte in vollständigen Sätzen, mit dezimaler Gliederung und Leerzeilen ausgeben; keine Skelette oder bloßen Stichwortsammlungen. Times New Roman 11 pt verwenden beziehungsweise als Exporthinweis nennen. Für umfangreiche Vertragsprüfung die [Werkstatt](agb-recht-pruefer-werkstatt.md) nutzen.
+
+Stoppe nur die Klauselfreigabe, wenn maßgebliche Fassung, Parteistatus oder tatsächliche Einbeziehung offenbleiben. Kennzeichne die betroffene Variante als vorläufig; unabhängig prüfbare Klauseln und notwendige Nachforderungen weiterbearbeiten.

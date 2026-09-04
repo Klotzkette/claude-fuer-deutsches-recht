@@ -1,9 +1,9 @@
 ---
 name: kaltstart-interview
-description: "Für /arbeitsrecht:arbeitsrecht-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Für /arbeitsrecht:kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# /arbeitsrecht:arbeitsrecht-kaltstart-interview
+# /arbeitsrecht:kaltstart-interview
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -21,7 +21,7 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:arbeitsrecht-kaltstart-interview` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:kaltstart-interview` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -163,15 +163,15 @@ Konfiguration gespeichert: ~/.claude/plugins/config/claude-fuer-deutsches-recht/
 ## Beispiele
 
 ```
-/arbeitsrecht:arbeitsrecht-kaltstart-interview
+/arbeitsrecht:kaltstart-interview
 ```
 
 ```
-/arbeitsrecht:arbeitsrecht-kaltstart-interview --redo
+/arbeitsrecht:kaltstart-interview --redo
 ```
 
 ```
-/arbeitsrecht:arbeitsrecht-kaltstart-interview --check-integrations
+/arbeitsrecht:kaltstart-interview --check-integrations
 ```
 
 ## Risiken / typische Fehler

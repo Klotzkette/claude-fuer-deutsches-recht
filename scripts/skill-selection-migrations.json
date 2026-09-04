@@ -1,0 +1,2477 @@
+[
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "agb-kardinalpflichten-haftungsbegrenzung",
+    "new": "haftungsbegrenzung-pruefen-und-formulieren",
+    "reference": "references/schadensumfang-und-obergrenze.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "agb-rechtswahl",
+    "new": "rechtswahl-und-vertragsstatut-pruefen",
+    "reference": "references/vertragsstatut.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "agb-schiedsgericht-verbraucher-b2b",
+    "new": "schiedsklausel-pruefen-und-formulieren",
+    "reference": "references/form-und-verfahren.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "agb-schiedsklausel-opt-out-deutsches-recht",
+    "new": "schiedsklausel-pruefen-und-formulieren",
+    "reference": "references/auslandsbezug.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "agb-transparenzgebot-307-abs-1-satz-2",
+    "new": "klauseltransparenz-pruefen",
+    "reference": "references/transparenz.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "agb-und-ipr-art-6-rom-i-verbraucher",
+    "new": "rechtswahl-und-vertragsstatut-pruefen",
+    "reference": "references/verbraucher-auslandsbezug.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "b2b-harte-fassung",
+    "new": "klauselvarianten-entwerfen",
+    "reference": "references/adressaten.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "blue-pencil-und-geltungserhaltende-reduktion",
+    "new": "klauselausfall-und-vertragsluecke-pruefen",
+    "reference": "references/teilbarkeit.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "ergaenzende-vertragsauslegung-bei-agb-luecken",
+    "new": "klauselausfall-und-vertragsluecke-pruefen",
+    "reference": "references/lueckenfuellung.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "erganzende-vertragsauslegung-agb-luecke",
+    "new": "klauselausfall-und-vertragsluecke-pruefen",
+    "reference": "references/lueckenfuellung.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "fiktive-erklaerung-zustimmung-308",
+    "new": "vertragsaenderung-durch-zustimmung-pruefen",
+    "reference": "references/zustimmungsfiktion.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "gesetzliches-leitbild-abweichung-307",
+    "new": "klauselinhalt-und-verbote-pruefen",
+    "reference": "references/kontrollmassstab.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "haftung-grobe-fahrlaessigkeit-vorsatz",
+    "new": "haftungsbegrenzung-pruefen-und-formulieren",
+    "reference": "references/haftungsausnahmen.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "haftung-indirekte-schaeden",
+    "new": "haftungsbegrenzung-pruefen-und-formulieren",
+    "reference": "references/schadensumfang-und-obergrenze.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "haftung-leben-koerper-gesundheit-309",
+    "new": "haftungsbegrenzung-pruefen-und-formulieren",
+    "reference": "references/haftungsausnahmen.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "haftungscap-summe",
+    "new": "haftungsbegrenzung-pruefen-und-formulieren",
+    "reference": "references/schadensumfang-und-obergrenze.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "inhaltskontrolle-307-generalklausel",
+    "new": "klauselinhalt-und-verbote-pruefen",
+    "reference": "references/kontrollmassstab.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "kardinalpflichten",
+    "new": "haftungsbegrenzung-pruefen-und-formulieren",
+    "reference": "references/schadensumfang-und-obergrenze.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "klausel-entwerfen-aggressiv",
+    "new": "klauselvarianten-entwerfen",
+    "reference": "references/risikoprofile.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "klausel-entwerfen-balanced",
+    "new": "klauselvarianten-entwerfen",
+    "reference": "references/risikoprofile.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "klausel-entwerfen-low-risk",
+    "new": "klauselvarianten-entwerfen",
+    "reference": "references/risikoprofile.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "klausel-entwerfen-low-risk-klauselbibliothek",
+    "new": "klauselvarianten-entwerfen",
+    "reference": "references/risikoprofile.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "klauselverbote-308-systematik",
+    "new": "klauselinhalt-und-verbote-pruefen",
+    "reference": "references/klauselverbote.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "klauselverbote-309-systematik",
+    "new": "klauselinhalt-und-verbote-pruefen",
+    "reference": "references/klauselverbote.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "klauselverbote-systematik",
+    "new": "klauselinhalt-und-verbote-pruefen",
+    "reference": "references/klauselverbote.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "kollisionsrecht-ipr-agb",
+    "new": "rechtswahl-und-vertragsstatut-pruefen",
+    "reference": "references/vertragsstatut.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "rechtsabteilung-haftungsdeckel-daten-ki",
+    "new": "haftungsdeckel-fuer-daten-und-modelldienste-pruefen",
+    "reference": "references/daten-und-modellrisiken.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "rechtsabteilung-haftungsdeckel-fuer-daten-und-ki-schaeden",
+    "new": "haftungsdeckel-fuer-daten-und-modelldienste-pruefen",
+    "reference": "references/daten-und-modellrisiken.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "rechtsabteilung-zustimmungsfiktion-bank-agb",
+    "new": "vertragsaenderung-durch-zustimmung-pruefen",
+    "reference": "references/bankbedingungen.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "rechtsabteilung-zustimmungsfiktion-nach-bank-agb-urteil",
+    "new": "vertragsaenderung-durch-zustimmung-pruefen",
+    "reference": "references/bankbedingungen.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "rechtsfolge-306-kein-blue-pencil",
+    "new": "klauselausfall-und-vertragsluecke-pruefen",
+    "reference": "references/teilbarkeit.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "rechtsfolge-kein-rechtsfolgen-rueckabwicklung",
+    "new": "klauselausfall-und-vertragsluecke-pruefen",
+    "reference": "references/teilbarkeit.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "rechtswahl",
+    "new": "rechtswahl-und-vertragsstatut-pruefen",
+    "reference": "references/vertragsstatut.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "salvatorische-klausel",
+    "new": "klauselausfall-und-vertragsluecke-pruefen",
+    "reference": "references/salvatorische-klausel.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "salvatorische-klausel-grenzen-rspr",
+    "new": "klauselausfall-und-vertragsluecke-pruefen",
+    "reference": "references/salvatorische-klausel.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "schiedsgericht",
+    "new": "schiedsklausel-pruefen-und-formulieren",
+    "reference": "references/form-und-verfahren.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "transparenzgebot-307",
+    "new": "klauseltransparenz-pruefen",
+    "reference": "references/transparenz.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "verbraucherfreundliche-fassung",
+    "new": "klauselvarianten-entwerfen",
+    "reference": "references/adressaten.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "verbraucherfreundliche-fassung-verbraucherschutz",
+    "new": "klauselvarianten-entwerfen",
+    "reference": "references/adressaten.md"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "old": "wesentliche-rechte-pflichten-307",
+    "new": "klauselinhalt-und-verbote-pruefen",
+    "reference": "references/kontrollmassstab.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "auslassungen-vermeiden",
+    "new": "zeugnis-pruefen-und-berichtigen",
+    "reference": "references/auslassungen-vermeiden.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "bag-leitentscheidungen-beweislast",
+    "new": "zeugnis-pruefen-und-berichtigen",
+    "reference": "references/bag-leitentscheidungen-beweislast.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "bag-leitentscheidungen-notenstufen",
+    "new": "leistung-und-verhalten-formulieren"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "beendigungsgrund-formulieren",
+    "new": "zeugnisabschluss-und-form-gestalten",
+    "reference": "references/beendigungsgrund-formulieren.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "belastbarkeit-formeln",
+    "new": "leistung-und-verhalten-formulieren",
+    "reference": "references/belastbarkeit-formeln.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "besondere-leistungen-projekte",
+    "new": "leistung-und-verhalten-formulieren",
+    "reference": "references/besondere-leistungen-projekte.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "compliance-integritaet-formeln",
+    "new": "leistung-und-verhalten-formulieren",
+    "reference": "references/compliance-integritaet-formeln.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "drift-und-schaufenster-vermeiden",
+    "new": "zeugnis-pruefen-und-berichtigen",
+    "reference": "references/drift-und-schaufenster-vermeiden.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "einfuehrung-mandantenanliegen",
+    "new": "arbeitszeugnis-erstellen"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "engagement-motivation-formeln",
+    "new": "leistung-und-verhalten-formulieren",
+    "reference": "references/engagement-motivation-formeln.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "frequenzadverbien-katalog",
+    "new": "leistung-und-verhalten-formulieren",
+    "reference": "references/frequenzadverbien-katalog.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "fuehrungskraft-bewertung",
+    "new": "leistung-und-verhalten-formulieren",
+    "reference": "references/fuehrungskraft-bewertung.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "geheimcodes-vermeiden",
+    "new": "zeugnis-pruefen-und-berichtigen",
+    "reference": "references/geheimcodes-vermeiden.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "juristischer-argumentationskern",
+    "new": "zeugnis-pruefen-und-berichtigen"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "kopfdaten-und-aussere-form",
+    "new": "zeugnisabschluss-und-form-gestalten",
+    "reference": "references/kopfdaten-und-aussere-form.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "langzeit-arbeitsverhaeltnis",
+    "new": "arbeitszeugnis-erstellen",
+    "reference": "references/langzeit-arbeitsverhaeltnis.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "mehrere-positionen-im-zeugnis",
+    "new": "arbeitszeugnis-erstellen",
+    "reference": "references/mehrere-positionen-im-zeugnis.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "note-1-formeln-leistung",
+    "new": "leistung-und-verhalten-formulieren",
+    "reference": "references/note-1-formeln-leistung.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "note-2-formeln-leistung",
+    "new": "leistung-und-verhalten-formulieren",
+    "reference": "references/note-2-formeln-leistung.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "note-3-formeln-leistung",
+    "new": "leistung-und-verhalten-formulieren",
+    "reference": "references/note-3-formeln-leistung.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "note-4-formeln-leistung",
+    "new": "leistung-und-verhalten-formulieren",
+    "reference": "references/note-4-formeln-leistung.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "note-5-formeln-leistung",
+    "new": "leistung-und-verhalten-formulieren",
+    "reference": "references/note-5-formeln-leistung.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "notenwahl-modus",
+    "new": "leistung-und-verhalten-formulieren"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "rechtlicher-anker-109-gewo",
+    "new": "zeugnis-pruefen-und-berichtigen",
+    "reference": "references/rechtlicher-anker-109-gewo.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "revision-und-aenderungswuensche",
+    "new": "zeugnis-pruefen-und-berichtigen"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "rollen-und-harness-wahl",
+    "new": "arbeitszeugnis-erstellen"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "schlussformel-baukasten",
+    "new": "zeugnisabschluss-und-form-gestalten",
+    "reference": "references/schlussformel-baukasten.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "schlussformel-notenwirkung",
+    "new": "zeugnisabschluss-und-form-gestalten",
+    "reference": "references/schlussformel-notenwirkung.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "stammdaten-erhebung",
+    "new": "arbeitszeugnis-erstellen",
+    "reference": "references/stammdaten-erhebung.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "steigerungsadverbien-katalog",
+    "new": "leistung-und-verhalten-formulieren",
+    "reference": "references/steigerungsadverbien-katalog.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "taetigkeitsbeschreibung-erheben",
+    "new": "arbeitszeugnis-erstellen",
+    "reference": "references/taetigkeitsbeschreibung-erheben.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "teamarbeit-formeln",
+    "new": "leistung-und-verhalten-formulieren",
+    "reference": "references/teamarbeit-formeln.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "teilzeit-elternzeit-darstellung",
+    "new": "arbeitszeugnis-erstellen",
+    "reference": "references/teilzeit-elternzeit-darstellung.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "verhalten-vorgesetzte-kollegen-kunden",
+    "new": "leistung-und-verhalten-formulieren",
+    "reference": "references/verhalten-vorgesetzte-kollegen-kunden.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "wohlwollensgrundsatz-und-wahrheit",
+    "new": "zeugnis-pruefen-und-berichtigen",
+    "reference": "references/wohlwollensgrundsatz-und-wahrheit.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "zeugnisart-ausbildungszeugnis-16-bbig",
+    "new": "ausbildungs-und-praktikumszeugnis-erstellen",
+    "reference": "references/zeugnisart-ausbildungszeugnis-16-bbig.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "zeugnisart-einfach",
+    "new": "arbeitszeugnis-erstellen",
+    "reference": "references/zeugnisart-einfach.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "zeugnisart-praktikum",
+    "new": "ausbildungs-und-praktikumszeugnis-erstellen",
+    "reference": "references/zeugnisart-praktikum.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "zeugnisart-qualifiziert",
+    "new": "arbeitszeugnis-erstellen",
+    "reference": "references/zeugnisart-qualifiziert.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "zeugnisart-zwischenzeugnis",
+    "new": "arbeitszeugnis-erstellen",
+    "reference": "references/zeugnisart-zwischenzeugnis.md"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "old": "zeugnisklarheit-objektiver-empfaengerhorizont",
+    "new": "zeugnis-pruefen-und-berichtigen",
+    "reference": "references/zeugnisklarheit-objektiver-empfaengerhorizont.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "anschluss-routing",
+    "new": "erbfall-mandat-klaeren"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "belegmatrix-sonderfall-edge-case",
+    "new": "erbrecht-schriftsatz-erstellen",
+    "reference": "references/substantiierung-beweis.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "berater-mehrparteien-konflikt-und-interessen",
+    "new": "erbvergleich-mediation-verhandeln",
+    "reference": "references/verhandlung-rollen.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "bgb-fristen-form-und-zustaendigkeit",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/fristen-sofortsicherung.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "chronologie-beweislast-und-darlegungslast",
+    "new": "erbrecht-schriftsatz-erstellen",
+    "reference": "references/substantiierung-beweis.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "digitaler-nachlass-facebook-bgh-iii-zr-183-17",
+    "new": "digitalen-nachlass-erschliessen"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "dokumente-intake",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "ehegattentestament-bindungswirkung",
+    "new": "ehegattentestament-erbvertrag-bindung-pruefen"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "einstieg-routing",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "einstieg-schnelltriage-fallrouting",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erb-einfuehrung-erbfolge-system",
+    "new": "gesetzliche-erbfolge-bestimmen"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erb-erbschaftsteuer-progressionsoptimierung-spezial",
+    "new": "erbschaftsteuer-planen-erklaeren"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erb-erstgespraech-checkliste",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erb-internationales-erbrecht-spezial",
+    "new": "internationalen-erbfall-bearbeiten",
+    "reference": "references/statut-staaten.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erb-nachlassinventar-erstellung",
+    "new": "nachlassinventar-erstellen"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erb-pflichtteilsanspruch-berechnung-spezial",
+    "new": "pflichtteil-berechnen",
+    "reference": "references/quoten-werte-anrechnung.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erb-testamentsformen-grundzuege",
+    "new": "testament-erbvertrag-gestalten",
+    "reference": "references/formen-klauseln.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erb-unternehmensnachfolge-spezial",
+    "new": "unternehmensnachfolge-gestalten"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erbauseinandersetzung-textbausteine",
+    "new": "erbengemeinschaft-auseinandersetzen",
+    "reference": "references/verwaltung-teilung.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erbengemeinschaft-blockade-auseinandersetzung",
+    "new": "erbengemeinschaft-auseinandersetzen"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erbfall-intake-und-nachlassordnung",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erbrecht-tatbestand-beweis-und-belege",
+    "new": "erbrecht-schriftsatz-erstellen",
+    "reference": "references/substantiierung-beweis.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erbschaftsausschlagung",
+    "new": "erbschaft-ausschlagen-anfechten"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erbschaftsteuer-verhandlung-vergleich-und-eskalation",
+    "new": "erbschaftsteuer-bescheid-angreifen"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erbschein-antrag",
+    "new": "erbschein-beantragen"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erbschein-behoerden-gericht-und-registerweg",
+    "new": "erbschein-beantragen",
+    "reference": "references/antrag-nachweise.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erbvo-quellenkarte",
+    "new": "internationalen-erbfall-bearbeiten",
+    "reference": "references/statut-staaten.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erstgespraech-mandatsannahme",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "erstpruefung-und-mandatsziel",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "fachanwalt-erbrecht-erbschaftsausschlagung",
+    "new": "erbschaft-ausschlagen-anfechten",
+    "reference": "references/vollzug-anfechtung.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "fachanwalt-erbrecht-erbschein-antrag",
+    "new": "erbschein-beantragen",
+    "reference": "references/antrag-nachweise.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "fachanwalt-erbrecht-krypto-wallet-nachlass-multisig",
+    "new": "krypto-nachlass-sichern",
+    "reference": "references/ansprueche-uebergabe.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "fachanwalt-erbrecht-orientierung",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "fachanwalt-erbrecht-pflichtteilsberechnung",
+    "new": "pflichtteil-auskunft-durchsetzen",
+    "reference": "references/stufenantraege-vollstreckung.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "fachanwalt-erbrecht-pflichtteilsergaenzung-2325",
+    "new": "pflichtteilsergaenzung-berechnen",
+    "reference": "references/schenkungen-bewerten.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "fachanwalt-erbrecht-testamentsentwurf",
+    "new": "testament-erbvertrag-gestalten",
+    "reference": "references/formen-klauseln.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "fachanwalt-erbrecht-testamentsvollstreckung",
+    "new": "testamentsvollstreckung-fuehren",
+    "reference": "references/verwaltung-rechnung.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft",
+    "new": "erbvergleich-mediation-verhandeln",
+    "reference": "references/vergleich-vollzug.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "internationaler-erbfall-eu-erbvo",
+    "new": "internationalen-erbfall-bearbeiten"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "juristischer-argumentationskern",
+    "new": "erbrecht-schriftsatz-erstellen",
+    "reference": "references/substantiierung-beweis.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "kanzlei-internationaler-bezug-und-schnittstellen",
+    "new": "internationalen-erbfall-bearbeiten",
+    "reference": "references/statut-staaten.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "krypto-wallet-nachlass-multisig",
+    "new": "krypto-nachlass-sichern"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "livecheck-mandantenkommunikation-entscheidungsvorlage",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "mandat-einordnen-bearbeitungsroute",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "mandat-triage-erbrecht",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "nachlassinsolvenz-antragspflicht-erbenhaftung",
+    "new": "nachlassinsolvenz-erbenhaftung-begrenzen",
+    "reference": "references/insolvenzantrag-schaden.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "output-waehlen",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "pflichtteil-auskunft-wertermittlung",
+    "new": "pflichtteil-auskunft-durchsetzen"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "pflichtteil-dokumentenmatrix-und-lueckenliste",
+    "new": "pflichtteil-auskunft-durchsetzen",
+    "reference": "references/verzeichnis-ermittlungen.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "pflichtteilsberechnung",
+    "new": "pflichtteil-berechnen",
+    "reference": "references/quoten-werte-anrechnung.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "pflichtteilsergaenzung-2325",
+    "new": "pflichtteilsergaenzung-berechnen"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "pflichtteilsergaenzung-frist-naechster-schritt",
+    "new": "pflichtteilsergaenzung-berechnen",
+    "reference": "references/schenkungen-bewerten.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "pflichtteilsergaenzung-zehnjahresfrist-nutzungsrechte",
+    "new": "pflichtteilsergaenzung-berechnen",
+    "reference": "references/schenkungen-bewerten.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "progressionsoptimierung-formular-portal-und-einreichung",
+    "new": "erbschaftsteuer-planen-erklaeren",
+    "reference": "references/anzeige-erklaerung.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "quellen-livecheck",
+    "new": "erbrecht-schriftsatz-erstellen",
+    "reference": "references/quellen-fehlerkontrolle.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "rechtsquellen-fehlerkatalog",
+    "new": "erbrecht-schriftsatz-erstellen",
+    "reference": "references/quellen-fehlerkontrolle.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "schnittstellen-zahlen-schwellen-und-berechnung",
+    "new": "erbschaftsteuer-planen-erklaeren",
+    "reference": "references/steuerplanung.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "schriftsatzkern-substantiierung",
+    "new": "erbrecht-schriftsatz-erstellen"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "spezial-belegmatrix-sonderfall-und-edge-case",
+    "new": "erbrecht-schriftsatz-erstellen",
+    "reference": "references/substantiierung-beweis.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "spezial-erbvo-livequellen-und-rechtsprechungscheck",
+    "new": "internationalen-erbfall-bearbeiten",
+    "reference": "references/statut-staaten.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "spezial-rechtsquellen-red-team-und-qualitaetskontrolle",
+    "new": "erbrecht-schriftsatz-erstellen",
+    "reference": "references/quellen-fehlerkontrolle.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "steuerrecht-compliance-dokumentation-und-akte",
+    "new": "erbschaftsteuer-planen-erklaeren",
+    "reference": "references/anzeige-erklaerung.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "testament-auslegung-und-andeutung",
+    "new": "testament-auslegen-anfechten"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "testament-risikoampel-und-gegenargumente",
+    "new": "testament-auslegen-anfechten",
+    "reference": "references/auslegung-anfechtung.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "testamentsentwurf",
+    "new": "testament-erbvertrag-gestalten"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "testamentsvollstreckung",
+    "new": "testamentsvollstreckung-fuehren"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "testamentsvollstreckung-vergutung",
+    "new": "testamentsvollstrecker-verguetung-pruefen"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "unterlagen-luecken",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "vergleichsverhandlung-strategie",
+    "new": "erbvergleich-mediation-verhandeln"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "verhandlung-mediation-erbengemeinschaft",
+    "new": "erbvergleich-mediation-verhandeln",
+    "reference": "references/verhandlung-rollen.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "workflow-chronologie-und-belegmatrix",
+    "new": "erbrecht-schriftsatz-erstellen",
+    "reference": "references/substantiierung-beweis.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "workflow-fristen-und-risikoampel",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/fristen-sofortsicherung.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "workflow-kaltstart-und-routing",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "workflow-mandantenkommunikation",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "workflow-redteam-qualitygate",
+    "new": "erbrecht-schriftsatz-erstellen",
+    "reference": "references/quellen-fehlerkontrolle.md"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "old": "workflow-unterlagen-lueckenliste",
+    "new": "erbfall-mandat-klaeren",
+    "reference": "references/mandat-unterlagen-kommunikation.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "anrechte-dokumentenintake",
+    "new": "versorgungsauskuenfte-und-anrechtswerte-pruefen",
+    "reference": "references/fragebogen-und-auskunftsabgleich.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "anwartschaft-dynamisch-statisch-bewertung",
+    "new": "versorgungsauskuenfte-und-anrechtswerte-pruefen",
+    "reference": "references/anrechtsmatrix-und-bewertung.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "dokumente-intake",
+    "new": "familienakte-ordnen-und-belege-anfordern",
+    "reference": "references/belegmatrix-und-nachforderung.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "duesseldorfer-tabelle-unterhalt",
+    "new": "unterhalt-berechnen-und-gegenrechnen",
+    "reference": "references/kindesunterhalt-und-betreuung.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "ehezeit-bestimmen-3-versausglg",
+    "new": "versorgungsausgleich-im-scheidungsverfahren-pruefen",
+    "reference": "references/ehezeit-anrechte-und-fallweichen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "einstieg-routing",
+    "new": "familienmandat-aufnehmen-und-sofortmassnahmen-planen",
+    "reference": "references/fallwege-und-fristen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "erstgespraech-mandatsannahme",
+    "new": "familienmandat-aufnehmen-und-sofortmassnahmen-planen",
+    "reference": "references/mandatsannahme-vollmacht-kosten.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "erstpruefung-und-mandatsziel",
+    "new": "familienmandat-aufnehmen-und-sofortmassnahmen-planen",
+    "reference": "references/fallwege-und-fristen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "excel-pruefmatrix-anrechte",
+    "new": "versorgungsauskuenfte-und-anrechtswerte-pruefen",
+    "reference": "references/anrechtsmatrix-und-bewertung.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "externe-teilung-14-versausglg",
+    "new": "versorgungsteilung-und-zielversorgung-pruefen",
+    "reference": "references/teilungsform-kosten-und-wertvergleich.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt",
+    "new": "unterhalt-berechnen-und-gegenrechnen",
+    "reference": "references/gegenrechnung-und-kontrollen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "fachanwalt-familienrecht-orientierung",
+    "new": "familienmandat-aufnehmen-und-sofortmassnahmen-planen",
+    "reference": "references/fachanwaltsnachweise.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "fachanwalt-familienrecht-unterhaltsberechnung",
+    "new": "unterhalt-berechnen-und-gegenrechnen",
+    "reference": "references/einkommen-und-belege.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "fachanwalt-familienrecht-versorgungsausgleich",
+    "new": "versorgungsausgleich-im-scheidungsverfahren-pruefen",
+    "reference": "references/ehezeit-anrechte-und-fallweichen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "famr-einfuehrung-themen",
+    "new": "familienmandat-aufnehmen-und-sofortmassnahmen-planen",
+    "reference": "references/fallwege-und-fristen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "famr-mandantenaufnahme-spezial",
+    "new": "familienmandat-aufnehmen-und-sofortmassnahmen-planen",
+    "reference": "references/mandatsannahme-vollmacht-kosten.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "famr-versorgungsausgleich-spezial",
+    "new": "versorgungsausgleich-im-scheidungsverfahren-pruefen",
+    "reference": "references/ehezeit-anrechte-und-fallweichen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "fehlerhafte-auskunft-versorgungstraeger",
+    "new": "versorgungsauskuenfte-und-anrechtswerte-pruefen",
+    "reference": "references/fragebogen-und-auskunftsabgleich.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "fragebogen-versorgungsausgleich-ausfuellen",
+    "new": "versorgungsauskuenfte-und-anrechtswerte-pruefen",
+    "reference": "references/fragebogen-und-auskunftsabgleich.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "grundprinzip-versorgungsausgleich-halbteilung-1-versausglg",
+    "new": "versorgungsausgleich-im-scheidungsverfahren-pruefen",
+    "reference": "references/ehezeit-anrechte-und-fallweichen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "interne-teilung-10-versausglg",
+    "new": "versorgungsteilung-und-zielversorgung-pruefen",
+    "reference": "references/teilungsform-kosten-und-wertvergleich.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "kapitalwert-korrespondierender-kapitalwert-pruefen",
+    "new": "versorgungsauskuenfte-und-anrechtswerte-pruefen",
+    "reference": "references/anrechtsmatrix-und-bewertung.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "kosten-versorgungstraeger-teilungskosten",
+    "new": "versorgungsteilung-und-zielversorgung-pruefen",
+    "reference": "references/teilungsform-kosten-und-wertvergleich.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "kurze-ehezeit-3-abs-3-versausglg",
+    "new": "versorgungsausgleich-im-scheidungsverfahren-pruefen",
+    "reference": "references/ehezeit-anrechte-und-fallweichen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "mandat-triage-familienrecht",
+    "new": "familienmandat-aufnehmen-und-sofortmassnahmen-planen",
+    "reference": "references/fallwege-und-fristen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "normen-dokumentenmatrix-und-lueckenliste",
+    "new": "familienakte-ordnen-und-belege-anfordern",
+    "reference": "references/belegmatrix-und-nachforderung.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "orientierung-mandat-fachanwaltschaft",
+    "new": "familienmandat-aufnehmen-und-sofortmassnahmen-planen",
+    "reference": "references/fachanwaltsnachweise.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "unterhalt-duesseldorfer-tabelle",
+    "new": "unterhalt-berechnen-und-gegenrechnen",
+    "reference": "references/kindesunterhalt-und-betreuung.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "unterhaltsberechnung",
+    "new": "unterhalt-berechnen-und-gegenrechnen",
+    "reference": "references/auskunft-rueckstand-und-titel.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "unterhaltsberechnung-kompaktpruefung",
+    "new": "unterhalt-berechnen-und-gegenrechnen",
+    "reference": "references/gegenrechnung-und-kontrollen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "unterhaltsberechnung-vollpruefung",
+    "new": "unterhalt-berechnen-und-gegenrechnen",
+    "reference": "references/ehegattenunterhalt.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "unterlagen-luecken",
+    "new": "familienakte-ordnen-und-belege-anfordern",
+    "reference": "references/belegmatrix-und-nachforderung.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "v392-fachanwaltsblick-fachanwalt-familienrecht",
+    "new": "familienmandat-aufnehmen-und-sofortmassnahmen-planen",
+    "reference": "references/fallwege-und-fristen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "versorgungsausgleich",
+    "new": "versorgungsausgleich-im-scheidungsverfahren-pruefen",
+    "reference": "references/ehezeit-anrechte-und-fallweichen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "versorgungsausgleich-kaltstart",
+    "new": "versorgungsausgleich-im-scheidungsverfahren-pruefen",
+    "reference": "references/ehezeit-anrechte-und-fallweichen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "versorgungsausgleich-und-versorgungsausgleichskasse",
+    "new": "versorgungsteilung-und-zielversorgung-pruefen",
+    "reference": "references/zielversorgung-wahlfrist-und-tenor.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "versorgungstraeger-antwort-pruefen",
+    "new": "versorgungsauskuenfte-und-anrechtswerte-pruefen",
+    "reference": "references/fragebogen-und-auskunftsabgleich.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "workflow-anschluss-skills-router",
+    "new": "familienmandat-aufnehmen-und-sofortmassnahmen-planen",
+    "reference": "references/fallwege-und-fristen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "workflow-chronologie-und-belegmatrix",
+    "new": "familienakte-ordnen-und-belege-anfordern",
+    "reference": "references/belegmatrix-und-nachforderung.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "workflow-kaltstart-und-routing",
+    "new": "familienmandat-aufnehmen-und-sofortmassnahmen-planen",
+    "reference": "references/fallwege-und-fristen.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "workflow-unterlagen-lueckenliste",
+    "new": "familienakte-ordnen-und-belege-anfordern",
+    "reference": "references/belegmatrix-und-nachforderung.md"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "old": "zielversorgung-waehlen-externe-teilung",
+    "new": "versorgungsteilung-und-zielversorgung-pruefen",
+    "reference": "references/zielversorgung-wahlfrist-und-tenor.md"
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "old": "antitrust-gun",
+    "new": "fusionskontrolle-vollzugsverbot-clean-team"
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "old": "antitrust-gun-jumping-clean-team",
+    "new": "fusionskontrolle-vollzugsverbot-clean-team"
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "old": "authority-matrix",
+    "new": "organbeschluesse-transaktion"
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "old": "authority-matrix-approvals",
+    "new": "organbeschluesse-transaktion"
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "old": "bank-consents",
+    "new": "finanzierungszustimmungen-kontrollwechsel"
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "old": "bank-consents-change-control",
+    "new": "finanzierungszustimmungen-kontrollwechsel"
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "old": "board-consents",
+    "new": "organbeschluesse-transaktion"
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "old": "board-consents-minutes-resolutions",
+    "new": "organbeschluesse-transaktion"
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "old": "cap-table-ownership",
+    "new": "beteiligungskette-und-anteilsnachweis"
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "old": "cap-table-ownership-chain",
+    "new": "beteiligungskette-und-anteilsnachweis"
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "old": "due-diligence-02",
+    "new": "due-diligence-bericht"
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "old": "due-diligence-reporting",
+    "new": "due-diligence-bericht"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "abschlussmemo-historische",
+    "new": "historischen-fall-begutachten",
+    "reference": "references/abschlussmemo-historische.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "abschlussmemo-historische-tragfaehigkeit",
+    "new": "historischen-fall-begutachten",
+    "reference": "references/abschlussmemo-historische.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "aktenvermerk-fuer-gericht-oder-gutachten",
+    "new": "historischen-fall-begutachten",
+    "reference": "references/aktenvermerk-fuer-gericht-oder-gutachten.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "aktenvermerk-gutachten",
+    "new": "historischen-fall-begutachten",
+    "reference": "references/aktenvermerk-fuer-gericht-oder-gutachten.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "allgemein",
+    "new": "historische-anfrage-einordnen",
+    "reference": "references/allgemein.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "anderen-plugins-normnavigator-jede",
+    "new": "historische-anfrage-einordnen",
+    "reference": "references/anderen-plugins-normnavigator-jede.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "arbeitsrecht-aufopferung",
+    "new": "historische-arbeitsverhaeltnisse-unterscheiden",
+    "reference": "references/arbeitsrecht-aufopferung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "arbeitsrecht-vorgaenger-im-alr",
+    "new": "historische-arbeitsverhaeltnisse-unterscheiden",
+    "reference": "references/arbeitsrecht-aufopferung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "aufopferung-fortwirkung-bgb",
+    "new": "aufopferungsargument-heute-pruefen",
+    "reference": "references/aufopferung-fortwirkung-bgb.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "aufopferung-fortwirkung-bgb-und-polizei",
+    "new": "aufopferungsargument-heute-pruefen",
+    "reference": "references/aufopferung-fortwirkung-bgb.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "aufopferung-heutiger-schriftsatz",
+    "new": "aufopferungsargument-heute-pruefen",
+    "reference": "references/aufopferung-heutiger-schriftsatz.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "aufopferung-historische-faelle",
+    "new": "historische-aufopferung-untersuchen",
+    "reference": "references/aufopferung-historische-faelle.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "aufopferung-historische-faelle-pockenimpfung",
+    "new": "historische-aufopferung-untersuchen",
+    "reference": "references/aufopferung-historische-faelle.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "aufwendungsersatz-im-vertrag",
+    "new": "historischen-aufwendungsersatz-pruefen",
+    "reference": "references/aufwendungsersatz-im-vertrag.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "band-teil-titel-navigation",
+    "new": "pralr-normenbibliothek",
+    "reference": "references/band-teil-titel-navigation.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "band-titel-rechtsfortwirkung-praxis",
+    "new": "pralr-normenbibliothek",
+    "reference": "references/band-teil-titel-navigation.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "bereicherungsrecht-alr",
+    "new": "historische-rueckforderung-pruefen",
+    "reference": "references/bereicherungsrecht-alr.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "bereicherungsrecht-im-alr-condictiones",
+    "new": "historische-rueckforderung-pruefen",
+    "reference": "references/bereicherungsrecht-alr.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "carmer-svarez-klein-redaktion",
+    "new": "kodifikationsgeschichte-untersuchen",
+    "reference": "references/carmer-svarez-klein-redaktion.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "deliktsrecht-generalklausel",
+    "new": "historische-schadenshaftung-pruefen",
+    "reference": "references/deliktsrecht-generalklausel.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "drucke-pauli-decker-nauck",
+    "new": "textzeugen-vergleichen",
+    "reference": "references/drucke-pauli-decker-nauck.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "editionsvergleich-pdf-digitalisat",
+    "new": "textzeugen-vergleichen",
+    "reference": "references/editionsvergleich-pdf-digitalisat.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "eigentum-belasten-pfand-hypothek",
+    "new": "historische-sicherheiten-pruefen",
+    "reference": "references/eigentum-belasten-pfand-hypothek.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "eigentumserwerb",
+    "new": "historischen-sachenerwerb-pruefen",
+    "reference": "references/eigentumserwerb.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "eigentumserwerb-beweglich-traditio",
+    "new": "historischen-sachenerwerb-pruefen",
+    "reference": "references/eigentumserwerb.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "eigentumserwerb-grundstueck",
+    "new": "historischen-grundstueckserwerb-pruefen",
+    "reference": "references/eigentumserwerb-grundstueck.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "eigentumserwerb-grundstueck-grundbuch",
+    "new": "historischen-grundstueckserwerb-pruefen",
+    "reference": "references/eigentumserwerb-grundstueck.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "eigentumsschutz-vindikation",
+    "new": "historischen-besitz-und-eigentumsschutz-pruefen",
+    "reference": "references/eigentumsschutz-vindikation.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "eigentumsschutz-vindikation-besitzschutz",
+    "new": "historischen-besitz-und-eigentumsschutz-pruefen",
+    "reference": "references/eigentumsschutz-vindikation.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "erbrecht-und-testierfreiheit",
+    "new": "historische-erbfolge-pruefen",
+    "reference": "references/erbrecht-und-testierfreiheit.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "ersitzung-und-verjaehrung-eigentum",
+    "new": "historische-ersitzung-pruefen",
+    "reference": "references/ersitzung-und-verjaehrung-eigentum.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "erster-titel-eigentum-besitz",
+    "new": "historische-sachenrechte-einordnen",
+    "reference": "references/erster-titel-eigentum-besitz.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "erster-titel-erwerb-eigentum",
+    "new": "historischen-besitz-und-eigentumsschutz-pruefen",
+    "reference": "references/erster-titel-erwerb-eigentum.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "erster-titel-gesellschaft-gemeinschaft",
+    "new": "historische-darlehen-leihe-verwahrung-pruefen",
+    "reference": "references/erster-titel-gesellschaft-gemeinschaft.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "fallloesung-historischer",
+    "new": "historischen-fall-begutachten",
+    "reference": "references/fallloesung-historischer.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "fallloesung-historischer-sachverhalt",
+    "new": "historischen-fall-begutachten",
+    "reference": "references/fallloesung-historischer.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "familienrecht-ehe-und-vormundschaft",
+    "new": "historisches-familienrecht-pruefen",
+    "reference": "references/familienrecht-ehe-und-vormundschaft.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "fraktur-lesen-begriffe",
+    "new": "normtext-lesen-und-uebertragen",
+    "reference": "references/fraktur-lesen-begriffe.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "fraktur-lesen-und-begriffe-entschluesseln",
+    "new": "normtext-lesen-und-uebertragen",
+    "reference": "references/fraktur-lesen-begriffe.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "geltungsbereich-subsidiaritaet",
+    "new": "historische-geltung-bestimmen",
+    "reference": "references/geltungsbereich-subsidiaritaet.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "geltungsbereich-subsidiaritaet-lokalrecht",
+    "new": "historische-geltung-bestimmen",
+    "reference": "references/geltungsbereich-subsidiaritaet.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "gemeinderecht-und-kommunale-ordnung",
+    "new": "historische-gemeinderechte-pruefen",
+    "reference": "references/gemeinderecht-und-kommunale-ordnung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "gerichtsverfassung",
+    "new": "historische-gerichte-bestimmen",
+    "reference": "references/gerichtsverfassung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "gerichtsverfassung-patrimonialgerichte",
+    "new": "historische-gerichte-bestimmen",
+    "reference": "references/gerichtsverfassung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "gesindeordnung-1810-folgereformen",
+    "new": "gesinderechtsreformen-vergleichen",
+    "reference": "references/gesindeordnung-1810-folgereformen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "gesindeordnung-gesinderecht",
+    "new": "gesinderechtsreformen-vergleichen",
+    "reference": "references/gesindeordnung-1810-folgereformen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "gesinderecht-dienstvertraege",
+    "new": "historische-gesindepflichten-pruefen",
+    "reference": "references/gesinderecht-dienstvertraege.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "gesinderecht-dienstvertraege-zuechtigung",
+    "new": "historische-gesindepflichten-pruefen",
+    "reference": "references/gesinderecht-dienstvertraege.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "gesinderecht-knecht-magd",
+    "new": "historischen-gesindestatus-bestimmen",
+    "reference": "references/gesinderecht-knecht-magd.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "gesinderecht-knecht-magd-grundlagen",
+    "new": "historischen-gesindestatus-bestimmen",
+    "reference": "references/gesinderecht-knecht-magd.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "gesinderecht-staatshaftung",
+    "new": "historisches-gesindezeugnis-und-haftung-pruefen",
+    "reference": "references/gesinderecht-staatshaftung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "gesinderecht-zeugnis-und-haftung",
+    "new": "historisches-gesindezeugnis-und-haftung-pruefen",
+    "reference": "references/gesinderecht-staatshaftung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "gewerbe-zunft-strafrecht-zweiter-strafvollzug",
+    "new": "historische-gewerbe-und-zunftrechte-pruefen",
+    "reference": "references/gewerbe-zunft-strafrecht-zweiter-strafvollzug.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "gewerbe-zunft-wirtschaftsordnung",
+    "new": "historische-gewerbe-und-zunftrechte-pruefen",
+    "reference": "references/gewerbe-zunft-strafrecht-zweiter-strafvollzug.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "handwerkerrecht-und-zunftordnung",
+    "new": "historische-gewerbe-und-zunftrechte-pruefen",
+    "reference": "references/handwerkerrecht-und-zunftordnung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "historische-anwendung-vs-heutiges",
+    "new": "historische-geltung-bestimmen",
+    "reference": "references/historische-anwendung-vs-heutiges.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "historische-anwendung-vs-heutiges-recht",
+    "new": "historische-geltung-bestimmen",
+    "reference": "references/historische-anwendung-vs-heutiges.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "in-anderen-plugins-routen",
+    "new": "historische-anfrage-einordnen",
+    "reference": "references/anderen-plugins-normnavigator-jede.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "instanzenzug-revision-historisch",
+    "new": "historische-rechtsmittel-pruefen",
+    "reference": "references/instanzenzug-revision-historisch.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "jagdrecht-justizreform-friedrich",
+    "new": "historische-jagd-und-fischereirechte-pruefen",
+    "reference": "references/jagdrecht-justizreform-friedrich.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "jagdrecht-und-fischerei",
+    "new": "historische-jagd-und-fischereirechte-pruefen",
+    "reference": "references/jagdrecht-justizreform-friedrich.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "juristischer-argumentationskern",
+    "new": "historischen-fall-begutachten",
+    "reference": "references/juristischer-argumentationskern.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "justizreform-friedrich",
+    "new": "kodifikationsgeschichte-untersuchen",
+    "reference": "references/justizreform-friedrich.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "justizreform-friedrich-grosskanzler-svarez",
+    "new": "kodifikationsgeschichte-untersuchen",
+    "reference": "references/justizreform-friedrich.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "kaltstart-textzeuge-und-ziel",
+    "new": "historische-anfrage-einordnen",
+    "reference": "references/kaltstart-textzeuge-und-ziel.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "kaltstart-triage",
+    "new": "historische-anfrage-einordnen",
+    "reference": "references/kaltstart-triage.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "kaufrecht-miete-gefahrtragung",
+    "new": "historischen-kauf-miete-pacht-pruefen",
+    "reference": "references/kaufrecht-miete-gefahrtragung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "kaufrecht-miete-polizeirecht-wohlfahrtsstaat",
+    "new": "historischen-kauf-miete-pacht-pruefen",
+    "reference": "references/kaufrecht-miete-gefahrtragung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "kirchenrecht-und-schule",
+    "new": "historisches-kirchen-und-schulrecht-pruefen",
+    "reference": "references/kirchenrecht-und-schule.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "kodifikationstechnik-kasuistik",
+    "new": "kasuistik-und-richterbindung-untersuchen",
+    "reference": "references/kodifikationstechnik-kasuistik.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "leistungsstoerungen-unmoeglichkeit",
+    "new": "historische-leistungsstoerungen-pruefen",
+    "reference": "references/leistungsstoerungen-unmoeglichkeit.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "leistungsstoerungen-unmoeglichkeit-verzug",
+    "new": "historische-leistungsstoerungen-pruefen",
+    "reference": "references/leistungsstoerungen-unmoeglichkeit.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "methodik-keine-anachronismen",
+    "new": "historische-behauptungen-pruefen",
+    "reference": "references/methodik-keine-anachronismen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "mueller-arnold-fall-justizreform",
+    "new": "kodifikationsgeschichte-untersuchen",
+    "reference": "references/mueller-arnold-fall-justizreform.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "mueller-arnold-fall-und-justizreform",
+    "new": "kodifikationsgeschichte-untersuchen",
+    "reference": "references/mueller-arnold-fall-justizreform.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "nachbarrecht-grenzbaum-traufrecht",
+    "new": "historisches-nachbarrecht-pruefen",
+    "reference": "references/nachbarrecht-grenzbaum-traufrecht.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "nachbarrecht-grenzbaum-traufrecht-ueberbau",
+    "new": "historisches-nachbarrecht-pruefen",
+    "reference": "references/nachbarrecht-grenzbaum-traufrecht.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "nachbarrecht-heutiger-schriftsatz",
+    "new": "nachbarrechtliche-altrechte-heute-pruefen",
+    "reference": "references/nachbarrecht-heutiger-schriftsatz.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "nachbarrecht-pommern-fortwirkung",
+    "new": "nachbarrechtliche-altrechte-heute-pruefen",
+    "reference": "references/nachbarrecht-pommern-fortwirkung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "nachbarrecht-und-pommern-fortwirkung",
+    "new": "nachbarrechtliche-altrechte-heute-pruefen",
+    "reference": "references/nachbarrecht-pommern-fortwirkung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "naturrecht-und-aufklaerung",
+    "new": "naturrechtliche-kodifikation-einordnen",
+    "reference": "references/naturrecht-und-aufklaerung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "negotiorum-gestio-im-alr",
+    "new": "historische-geschaeftsfuehrung-ohne-auftrag-pruefen",
+    "reference": "references/negotiorum-gestio-im-alr.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "normkarte-altrecht-aufopferung",
+    "new": "altrechte-und-rechtsueberleitung-pruefen",
+    "reference": "references/normkarte-altrecht-aufopferung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "normtext-heutige-fraktur-lesen-fallloesung",
+    "new": "normtext-lesen-und-uebertragen",
+    "reference": "references/normtext-heutige-fraktur-lesen-fallloesung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "normtext-heutige-sprache",
+    "new": "normtext-lesen-und-uebertragen",
+    "reference": "references/normtext-heutige-fraktur-lesen-fallloesung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "personenrecht-kuriositaeten-im-alr",
+    "new": "historische-handlungs-und-schuldfaehigkeit-pruefen",
+    "reference": "references/personenrecht-kuriositaeten-im-alr.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "personenrecht-prozessrecht-ago",
+    "new": "historische-handlungs-und-schuldfaehigkeit-pruefen",
+    "reference": "references/personenrecht-kuriositaeten-im-alr.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "personenrecht-status",
+    "new": "historischen-personenstatus-pruefen",
+    "reference": "references/personenrecht-status.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "personenrecht-status-familienrecht-ehe",
+    "new": "historischen-personenstatus-pruefen",
+    "reference": "references/personenrecht-status.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "polizeirecht-und-wohlfahrtsstaat",
+    "new": "historisches-polizeirecht-untersuchen",
+    "reference": "references/polizeirecht-und-wohlfahrtsstaat.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-001-kaltstart-textzeuge-und-ziel",
+    "new": "historische-anfrage-einordnen",
+    "reference": "references/pralr-001-kaltstart-textzeuge-und-ziel.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-002-editionsvergleich-pdf-digitalisat",
+    "new": "textzeugen-vergleichen",
+    "reference": "references/pralr-002-editionsvergleich-pdf-digitalisat.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-003-quellenkritik-fraktur-ocr",
+    "new": "normtext-lesen-und-uebertragen",
+    "reference": "references/pralr-003-quellenkritik-fraktur-ocr.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-004-zitierweise-und-fundstellen",
+    "new": "historische-fundstellen-belegen",
+    "reference": "references/pralr-004-zitierweise-und-fundstellen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-005-historische-anwendung-vs-heutiges-recht",
+    "new": "historische-geltung-bestimmen",
+    "reference": "references/pralr-005-historische-anwendung-vs-heutiges-recht.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-006-systematik-einleitung-teile-titel",
+    "new": "pralr-normenbibliothek",
+    "reference": "references/pralr-006-systematik-einleitung-teile-titel.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-007-kodifikationstechnik-kasuistik",
+    "new": "kasuistik-und-richterbindung-untersuchen",
+    "reference": "references/pralr-007-kodifikationstechnik-kasuistik.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-008-naturrecht-und-aufklaerung",
+    "new": "naturrechtliche-kodifikation-einordnen",
+    "reference": "references/pralr-008-naturrecht-und-aufklaerung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-009-staendische-ordnung-und-gutsuntertaenigkeit",
+    "new": "historische-standesrechte-pruefen",
+    "reference": "references/pralr-009-staendische-ordnung-und-gutsuntertaenigkeit.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-010-personenrecht-status",
+    "new": "historischen-personenstatus-pruefen",
+    "reference": "references/pralr-010-personenrecht-status.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-011-familienrecht-ehe-und-vormundschaft",
+    "new": "historisches-familienrecht-pruefen",
+    "reference": "references/pralr-011-familienrecht-ehe-und-vormundschaft.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-012-erbrecht-und-testierfreiheit",
+    "new": "historische-erbfolge-pruefen",
+    "reference": "references/pralr-012-erbrecht-und-testierfreiheit.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-013-sachenrecht-eigentum-besitz",
+    "new": "historische-sachenrechte-einordnen",
+    "reference": "references/pralr-013-sachenrecht-eigentum-besitz.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-014-nachbarrecht-und-pommern-fortwirkung",
+    "new": "nachbarrechtliche-altrechte-heute-pruefen",
+    "reference": "references/pralr-014-nachbarrecht-und-pommern-fortwirkung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-015-schuldrecht-vertrag-und-form",
+    "new": "historischen-vertragsschluss-pruefen",
+    "reference": "references/pralr-015-schuldrecht-vertrag-und-form.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-016-kaufrecht-miete-gefahrtragung",
+    "new": "historischen-kauf-miete-pacht-pruefen",
+    "reference": "references/pralr-016-kaufrecht-miete-gefahrtragung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-017-deliktsrecht-generalklausel",
+    "new": "historische-schadenshaftung-pruefen",
+    "reference": "references/pralr-017-deliktsrecht-generalklausel.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-018-staatshaftung-aufopferung-einleitung-74-75",
+    "new": "historische-aufopferung-untersuchen",
+    "reference": "references/pralr-018-staatshaftung-aufopferung-einleitung-74-75.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-019-polizeirecht-und-wohlfahrtsstaat",
+    "new": "historisches-polizeirecht-untersuchen",
+    "reference": "references/pralr-019-polizeirecht-und-wohlfahrtsstaat.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-020-staatsrecht-monarchie-und-selbstbindung",
+    "new": "monarchische-rechtsbindung-untersuchen",
+    "reference": "references/pralr-020-staatsrecht-monarchie-und-selbstbindung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-021-kirchenrecht-und-schule",
+    "new": "historisches-kirchen-und-schulrecht-pruefen",
+    "reference": "references/pralr-021-kirchenrecht-und-schule.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-022-gemeinderecht-und-kommunale-ordnung",
+    "new": "historische-gemeinderechte-pruefen",
+    "reference": "references/pralr-022-gemeinderecht-und-kommunale-ordnung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-023-gewerbe-zunft-und-wirtschaftsordnung",
+    "new": "historische-gewerbe-und-zunftrechte-pruefen",
+    "reference": "references/pralr-023-gewerbe-zunft-und-wirtschaftsordnung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-024-strafrecht-zweiter-teil-zwanzigster-titel",
+    "new": "historische-strafbarkeit-pruefen",
+    "reference": "references/pralr-024-strafrecht-zweiter-teil-zwanzigster-titel.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-025-strafvollzug-und-strafzwecke",
+    "new": "historische-strafen-und-vollzug-untersuchen",
+    "reference": "references/pralr-025-strafvollzug-und-strafzwecke.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-026-rheinisches-recht-code-civil-abgrenzung",
+    "new": "historische-geltung-bestimmen",
+    "reference": "references/pralr-026-rheinisches-recht-code-civil-abgrenzung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-027-geltungsbereich-subsidiaritaet-lokalrecht",
+    "new": "historische-geltung-bestimmen",
+    "reference": "references/pralr-027-geltungsbereich-subsidiaritaet-lokalrecht.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-028-uebergang-zum-bgb-1900",
+    "new": "altrechte-und-rechtsueberleitung-pruefen",
+    "reference": "references/pralr-028-uebergang-zum-bgb-1900.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-029-vergleich-abgb-code-civil-bgb",
+    "new": "historische-kodifikationen-vergleichen",
+    "reference": "references/pralr-029-vergleich-abgb-code-civil-bgb.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-030-vergleich-roemisches-recht-gemeines-recht",
+    "new": "roemische-rezeption-im-pralr-pruefen",
+    "reference": "references/pralr-030-vergleich-roemisches-recht-gemeines-recht.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-031-vergleich-sachsenspiegel-landrechte",
+    "new": "aeltere-landrechte-vergleichen",
+    "reference": "references/pralr-031-vergleich-sachsenspiegel-landrechte.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-032-methodik-keine-anachronismen",
+    "new": "historische-behauptungen-pruefen",
+    "reference": "references/pralr-032-methodik-keine-anachronismen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-033-normtext-in-heutige-sprache-uebertragen",
+    "new": "normtext-lesen-und-uebertragen",
+    "reference": "references/pralr-033-normtext-in-heutige-sprache-uebertragen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-034-fraktur-lesen-und-begriffe-entschluesseln",
+    "new": "normtext-lesen-und-uebertragen",
+    "reference": "references/pralr-034-fraktur-lesen-und-begriffe-entschluesseln.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-035-fallloesung-historischer-sachverhalt",
+    "new": "historischen-fall-begutachten",
+    "reference": "references/pralr-035-fallloesung-historischer-sachverhalt.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-036-quellenmatrix-erstellen",
+    "new": "historische-fundstellen-belegen",
+    "reference": "references/pralr-036-quellenmatrix-erstellen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-037-aktenvermerk-fuer-gericht-oder-gutachten",
+    "new": "historischen-fall-begutachten",
+    "reference": "references/pralr-037-aktenvermerk-fuer-gericht-oder-gutachten.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-038-unterricht-und-seminar",
+    "new": "historische-quellenuebung-erstellen",
+    "reference": "references/pralr-038-unterricht-und-seminar.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-039-mueller-arnold-fall-und-justizreform",
+    "new": "kodifikationsgeschichte-untersuchen",
+    "reference": "references/pralr-039-mueller-arnold-fall-und-justizreform.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-040-carmer-svarez-klein-redaktion",
+    "new": "kodifikationsgeschichte-untersuchen",
+    "reference": "references/pralr-040-carmer-svarez-klein-redaktion.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-041-1792-agb-vs-1794-pralr",
+    "new": "textzeugen-vergleichen",
+    "reference": "references/pralr-041-1792-agb-vs-1794-pralr.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-042-drucke-pauli-decker-nauck",
+    "new": "textzeugen-vergleichen",
+    "reference": "references/pralr-042-drucke-pauli-decker-nauck.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-043-band-teil-titel-navigation",
+    "new": "pralr-normenbibliothek",
+    "reference": "references/pralr-043-band-teil-titel-navigation.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-044-rechtsfortwirkung-in-praxis-check",
+    "new": "altrechte-und-rechtsueberleitung-pruefen",
+    "reference": "references/pralr-044-rechtsfortwirkung-in-praxis-check.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-045-aufopferung-heutiger-schriftsatz",
+    "new": "aufopferungsargument-heute-pruefen",
+    "reference": "references/pralr-045-aufopferung-heutiger-schriftsatz.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-046-nachbarrecht-heutiger-schriftsatz",
+    "new": "nachbarrechtliche-altrechte-heute-pruefen",
+    "reference": "references/pralr-046-nachbarrecht-heutiger-schriftsatz.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-047-red-team-falsche-pralr-behauptungen",
+    "new": "historische-behauptungen-pruefen",
+    "reference": "references/pralr-047-red-team-falsche-pralr-behauptungen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-048-red-team-ocr-halluzinationen",
+    "new": "normtext-lesen-und-uebertragen",
+    "reference": "references/pralr-048-red-team-ocr-halluzinationen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-049-abschlussmemo-historische-tragfaehigkeit",
+    "new": "historischen-fall-begutachten",
+    "reference": "references/pralr-049-abschlussmemo-historische-tragfaehigkeit.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-050-pralr-in-anderen-plugins-routen",
+    "new": "historische-anfrage-einordnen",
+    "reference": "references/pralr-050-pralr-in-anderen-plugins-routen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-neu-001-normnavigator-jede-pralr-norm-karte-erschliessen",
+    "new": "pralr-normenbibliothek",
+    "reference": "references/pralr-neu-001-normnavigator-jede-pralr-norm-karte-erschliessen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-neu-002-textzeugenvergleich-1794-1804-ausgabe-und-ocr",
+    "new": "textzeugen-vergleichen",
+    "reference": "references/pralr-neu-002-textzeugenvergleich-1794-1804-ausgabe-und-ocr.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-neu-007-erster-teil-titel-4-willen-vertraege",
+    "new": "historische-willenserklaerung-pruefen",
+    "reference": "references/pralr-neu-007-erster-teil-titel-4-willen-vertraege.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-neu-008-erster-teil-titel-5-vertraege-allgemein-form",
+    "new": "historischen-vertragsschluss-pruefen",
+    "reference": "references/pralr-neu-008-erster-teil-titel-5-vertraege-allgemein-form.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-neu-009-erster-teil-titel-6-delikt-handlungen-versehen",
+    "new": "historische-schadenshaftung-pruefen",
+    "reference": "references/pralr-neu-009-erster-teil-titel-6-delikt-handlungen-versehen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-neu-010-erster-teil-titel-7-gewahrsam-besitz",
+    "new": "historischen-besitz-und-eigentumsschutz-pruefen",
+    "reference": "references/pralr-neu-010-erster-teil-titel-7-gewahrsam-besitz.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-neu-011-erster-teil-titel-8-erwerb-eigentum-bewegliche",
+    "new": "historischen-sachenerwerb-pruefen",
+    "reference": "references/pralr-neu-011-erster-teil-titel-8-erwerb-eigentum-bewegliche.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-neu-013-erster-teil-titel-10-dienstbarkeit-reallast",
+    "new": "historische-nutzungsrechte-pruefen",
+    "reference": "references/pralr-neu-013-erster-teil-titel-10-dienstbarkeit-reallast.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-neu-017-erster-teil-titel-14-gesellschaft-gemeinschaft",
+    "new": "historische-gemeinschaft-und-teilung-pruefen",
+    "reference": "references/pralr-neu-017-erster-teil-titel-14-gesellschaft-gemeinschaft.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-neu-018-erster-teil-titel-15-buergschaft-pfand",
+    "new": "historische-sicherheiten-pruefen",
+    "reference": "references/pralr-neu-018-erster-teil-titel-15-buergschaft-pfand.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-neu-020-erster-teil-titel-17-erbrecht-testamente-folge",
+    "new": "historische-erbfolge-pruefen",
+    "reference": "references/pralr-neu-020-erster-teil-titel-17-erbrecht-testamente-folge.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-neu-029-normkarte-nachbarrecht-heutiger-fortwirkungscheck",
+    "new": "nachbarrechtliche-altrechte-heute-pruefen",
+    "reference": "references/pralr-neu-029-normkarte-nachbarrecht-heutiger-fortwirkungscheck.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "pralr-spez-zwitterrecht-historisch-medizinisch-rechtsfolgen",
+    "new": "historische-geschlechtszuordnung-untersuchen",
+    "reference": "references/pralr-spez-zwitterrecht-historisch-medizinisch-rechtsfolgen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "prozessrecht-ago-1793",
+    "new": "historischen-zivilprozess-pruefen",
+    "reference": "references/prozessrecht-ago-1793.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "quellenkritik-fraktur-ocr",
+    "new": "normtext-lesen-und-uebertragen",
+    "reference": "references/quellenkritik-fraktur-ocr.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "quellenmatrix-erstellen",
+    "new": "historische-fundstellen-belegen",
+    "reference": "references/quellenmatrix-erstellen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "rechtsfortwirkung-in-praxis-check",
+    "new": "altrechte-und-rechtsueberleitung-pruefen",
+    "reference": "references/rechtsfortwirkung-in-praxis-check.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "red-team-falsche-behauptungen",
+    "new": "historische-behauptungen-pruefen",
+    "reference": "references/red-team-falsche-behauptungen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "red-team-ocr-halluzinationen",
+    "new": "normtext-lesen-und-uebertragen",
+    "reference": "references/red-team-ocr-halluzinationen.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "rheinisches-code-civil-abgrenzung",
+    "new": "historische-geltung-bestimmen",
+    "reference": "references/rheinisches-code-civil-abgrenzung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "rheinisches-recht-code-civil-abgrenzung",
+    "new": "historische-geltung-bestimmen",
+    "reference": "references/rheinisches-code-civil-abgrenzung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "roemisches-gemeines",
+    "new": "roemische-rezeption-im-pralr-pruefen",
+    "reference": "references/roemisches-gemeines.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "sachenrecht-eigentum-besitz",
+    "new": "historische-sachenrechte-einordnen",
+    "reference": "references/sachenrecht-eigentum-besitz.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "schuldrecht-vertrag-deliktsrecht",
+    "new": "historischen-vertragsschluss-pruefen",
+    "reference": "references/schuldrecht-vertrag-deliktsrecht.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "schuldrecht-vertrag-und-form",
+    "new": "historischen-vertragsschluss-pruefen",
+    "reference": "references/schuldrecht-vertrag-deliktsrecht.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "sklavenrecht-alr-ii-5-196-197",
+    "new": "historischen-sklavenstatus-pruefen",
+    "reference": "references/sklavenrecht-alr-ii-5-196-197.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "sklavenrecht-rechtsvergleich",
+    "new": "historisches-sklavereirecht-vergleichen",
+    "reference": "references/sklavenrecht-rechtsvergleich.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "sklavenrecht-rechtsvergleich-somerset-code-noir",
+    "new": "historisches-sklavereirecht-vergleichen",
+    "reference": "references/sklavenrecht-rechtsvergleich.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "sklaverei-aufhebung-edikte-1807",
+    "new": "sklaverei-und-untertaenigkeitsreformen-pruefen",
+    "reference": "references/sklaverei-aufhebung-edikte-1807.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "sklaverei-aufhebung-und-edikte-1807-1857",
+    "new": "sklaverei-und-untertaenigkeitsreformen-pruefen",
+    "reference": "references/sklaverei-aufhebung-edikte-1807.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "staatshaftung-alr-rechtsstaat",
+    "new": "historische-staatshaftung-untersuchen",
+    "reference": "references/staatshaftung-alr-rechtsstaat.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "staatshaftung-aufopferung",
+    "new": "historische-aufopferung-untersuchen",
+    "reference": "references/staatshaftung-aufopferung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "staatshaftung-im-alr-und-rechtsstaat",
+    "new": "historische-staatshaftung-untersuchen",
+    "reference": "references/staatshaftung-alr-rechtsstaat.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "staatsrecht-monarchie-selbstbindung",
+    "new": "monarchische-rechtsbindung-untersuchen",
+    "reference": "references/staatsrecht-monarchie-selbstbindung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "staatsrecht-monarchie-und-selbstbindung",
+    "new": "monarchische-rechtsbindung-untersuchen",
+    "reference": "references/staatsrecht-monarchie-selbstbindung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "staendische-ordnung",
+    "new": "historische-standesrechte-pruefen",
+    "reference": "references/staendische-ordnung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "staendische-ordnung-und-gutsuntertaenigkeit",
+    "new": "historische-standesrechte-pruefen",
+    "reference": "references/staendische-ordnung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "strafprozess-und-inquisition",
+    "new": "historischen-strafprozess-pruefen",
+    "reference": "references/strafprozess-und-inquisition.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "strafprozess-willensmaengel",
+    "new": "historischen-strafprozess-pruefen",
+    "reference": "references/strafprozess-und-inquisition.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "strafrecht-zweiter-teil-zwanzigster-titel",
+    "new": "historische-strafbarkeit-pruefen",
+    "reference": "references/strafrecht-zweiter-teil-zwanzigster-titel.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "strafrecht-zweiter-zwanzigster",
+    "new": "historische-strafbarkeit-pruefen",
+    "reference": "references/strafrecht-zweiter-teil-zwanzigster-titel.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "strafvollzug-und-strafzwecke",
+    "new": "historische-strafen-und-vollzug-untersuchen",
+    "reference": "references/strafvollzug-und-strafzwecke.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "systematik-einleitung-teile-titel",
+    "new": "pralr-normenbibliothek",
+    "reference": "references/systematik-einleitung-teile-titel.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "uebergang-bgb-abgb-code-roemisches-gemeines",
+    "new": "altrechte-und-rechtsueberleitung-pruefen",
+    "reference": "references/uebergang-bgb-abgb-code-roemisches-gemeines.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "uebergang-zum-bgb-1900",
+    "new": "altrechte-und-rechtsueberleitung-pruefen",
+    "reference": "references/uebergang-bgb-abgb-code-roemisches-gemeines.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "unterricht-seminar-mueller-arnold",
+    "new": "historische-quellenuebung-erstellen",
+    "reference": "references/unterricht-seminar-mueller-arnold.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "unterricht-und-seminar",
+    "new": "historische-quellenuebung-erstellen",
+    "reference": "references/unterricht-seminar-mueller-arnold.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "v392-lesefreude-preussisches-allgemeines-landrecht-pralr",
+    "new": "historische-quellenuebung-erstellen",
+    "reference": "references/v392-lesefreude-preussisches-allgemeines-landrecht-pralr.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "vergleich-abgb-code-civil-bgb",
+    "new": "historische-kodifikationen-vergleichen",
+    "reference": "references/vergleich-abgb-code-civil-bgb.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "vergleich-roemisches-recht-gemeines-recht",
+    "new": "roemische-rezeption-im-pralr-pruefen",
+    "reference": "references/roemisches-gemeines.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "vergleich-sachsenspiegel-landrechte",
+    "new": "aeltere-landrechte-vergleichen",
+    "reference": "references/vergleich-sachsenspiegel-landrechte.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "vertragsaufhebung-ruecktritt",
+    "new": "historische-vertragsaufhebung-pruefen",
+    "reference": "references/vertragsaufhebung-ruecktritt.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "vertragsaufhebung-ruecktritt-wandlung",
+    "new": "historische-vertragsaufhebung-pruefen",
+    "reference": "references/vertragsaufhebung-ruecktritt.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "vertragsauslegung-treu-glauben",
+    "new": "historische-vertraege-auslegen",
+    "reference": "references/vertragsauslegung-treu-glauben.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "vertragsauslegung-vertragsschluss",
+    "new": "historische-vertraege-auslegen",
+    "reference": "references/vertragsauslegung-treu-glauben.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "vertragsschluss-konsens-und-form",
+    "new": "historischen-vertragsschluss-pruefen",
+    "reference": "references/vertragsschluss-konsens-und-form.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "vertragsstrafe-konventionalstrafe",
+    "new": "historische-vertragsstrafe-pruefen",
+    "reference": "references/vertragsstrafe-konventionalstrafe.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "vertragsstrafe-und-konventionalstrafe",
+    "new": "historische-vertragsstrafe-pruefen",
+    "reference": "references/vertragsstrafe-konventionalstrafe.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "willensmaengel-arglist-irrtum",
+    "new": "historische-willensmaengel-pruefen",
+    "reference": "references/willensmaengel-arglist-irrtum.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "willensmaengel-arglist-irrtum-zwang",
+    "new": "historische-willensmaengel-pruefen",
+    "reference": "references/willensmaengel-arglist-irrtum.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "zinsobergrenze-und-wuchertatbestand",
+    "new": "historische-zinsen-und-wucher-pruefen",
+    "reference": "references/zinsobergrenze-und-wuchertatbestand.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "zinsobergrenze-wuchertatbestand",
+    "new": "historische-zinsen-und-wucher-pruefen",
+    "reference": "references/zinsobergrenze-und-wuchertatbestand.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "zitierweise-fundstellen-historische-anwendung",
+    "new": "historische-fundstellen-belegen",
+    "reference": "references/zitierweise-fundstellen-historische-anwendung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "zitierweise-und-fundstellen",
+    "new": "historische-fundstellen-belegen",
+    "reference": "references/zitierweise-fundstellen-historische-anwendung.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "zivilprozess-im-alr-formstrenge",
+    "new": "historischen-zivilprozess-pruefen",
+    "reference": "references/zivilprozess-im-alr-formstrenge.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "zweiter-staendeordnung-gemeinderecht",
+    "new": "historische-standesrechte-pruefen",
+    "reference": "references/zweiter-staendeordnung-gemeinderecht.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "zwitterrecht-alr-ii-1-19-bis-22",
+    "new": "historische-geschlechtszuordnung-untersuchen",
+    "reference": "references/zwitterrecht-alr-ii-1-19-bis-22.md"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "old": "zwitterrecht-historisch",
+    "new": "historische-geschlechtszuordnung-untersuchen",
+    "reference": "references/zwitterrecht-historisch.md"
+  }
+]

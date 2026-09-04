@@ -4,7 +4,7 @@
 
 Dieser Ordner enthält künstlich erzeugte Übungsakten, keine anonymisierten Originalmandate. Sie bilden typische Eingänge einer Kanzlei mit Schriftverkehr, Tabellen, Belegen und unvollständigen Angaben ab. Die Akten gehören nicht zur Plugin-Installation: Wähle einen passenden Fall und lade nur die für deinen Übungslauf benötigte Fassung herunter.
 
-Stand v442.0.1: 323 zentrale Testakten plus 2 Hilfsmaterialsammlungen. Jede Akte steht in drei Fassungen bereit: als durchsuchbares Gesamt-PDF, als flaches Einzel-PDF-ZIP und als flaches Akten-ZIP mit den nativen Originalformaten DOCX, XLSX, PDF, JPEG, CSV, EML und weiteren Alltagsdateien. Die beiden ZIPs öffnen unmittelbar auf die Dateien; sie enthalten keine Unterordner, das Akten-ZIP außerdem kein Markdown. Schriftsätze und Gutachten sind vollständig ausgearbeitet, Tabellen behalten Rohdaten und offene Positionen, Korrespondenz enthält realistische Header und Bezüge.
+Stand v443.0.0: 323 zentrale Testakten plus 2 Hilfsmaterialsammlungen. Jede Akte steht in drei Fassungen bereit: als durchsuchbares Gesamt-PDF, als flaches Einzel-PDF-ZIP und als flaches Akten-ZIP mit den nativen Originalformaten DOCX, XLSX, PDF, JPEG, CSV, EML und weiteren Alltagsdateien. Die beiden ZIPs öffnen unmittelbar auf die Dateien; sie enthalten keine Unterordner, das Akten-ZIP außerdem kein Markdown. Schriftsätze und Gutachten sind vollständig ausgearbeitet, Tabellen behalten Rohdaten und offene Positionen, Korrespondenz enthält realistische Header und Bezüge.
 
 > **Hinweis / Notice:** Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr. This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 

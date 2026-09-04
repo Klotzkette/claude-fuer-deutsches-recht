@@ -1,36 +1,46 @@
 ---
 name: pflegeausgleich-paragraf-2057a-bgb-pruefen
-description: "Prüft den Ausgleich besonderer Pflegeleistungen unter Abkömmlingen nach Paragraf 2057a BGB, grenzt ihn von Vergütung, Vermächtnis und Pflichtteilsergänzung ab und entwickelt eine nachvollziehbare Bewertung samt Beweisplan."
+description: "Prüft besondere Pflegeleistungen und andere Beiträge nach Paragraf 2057a BGB, grenzt Vergütung und Vermächtnis ab und berechnet den billigen Ausgleich innerhalb der Erbauseinandersetzung."
 ---
 
-# Pflegeausgleich nach Paragraf 2057a BGB prüfen
+# Pflegeausgleich unter Abkömmlingen prüfen
 
-## 1. Einsatz und Ziel
+## 1. Zweck und Anwendungsfall
 
-Bearbeite einen gesetzlichen Ausgleich unter Abkömmlingen, kein automatisch entstandenes Pflegevermächtnis und keinen starren Stundenlohnanspruch.
+Für einen Ausgleich unter begünstigten Abkömmlingen, nicht für einen automatisch entstehenden Stundenlohn oder ein Pflegevermächtnis.
 
-## 2. Normenanker
+## 2. Eingaben
 
-- Paragraf 2057a BGB: Ausgleichung besonderer Leistungen eines Abkömmlings.
-- Paragrafen 2050 bis 2052 BGB: Verhältnis zu anderen Ausgleichungstatbeständen.
-- Paragraf 2316 BGB: Auswirkung auf den Pflichtteil.
-- Paragrafen 611a, 612 und 662 BGB: gesondert prüfen, ob statt familiärer Hilfe ein Dienst- oder Auftragsverhältnis vereinbart war.
+Erbquoten und Verfügungen, Pflegechronologie, Grad und Umfang der Hilfe, sonstige Leistungen, Vergütungsabreden, Pflegegeld, Wohnvorteile und Nachlasswert.
 
-## 3. Prüfprogramm
+## 3. Ablauf und Checkliste
 
-1. Gesetzliche Erbfolge oder gewillkürte Erbfolge mit Verweisung auf gesetzliche Quoten bestimmen.
-2. Anspruchsteller als Abkömmling und Kreis der ausgleichungspflichtigen Miterben feststellen.
-3. Art, Dauer, Umfang und Bedeutung der Pflege sowie ersparte professionelle Kosten belegen.
-4. Erhaltene Gegenleistungen, Pflegegeld, Wohnvorteile, Schenkungen und vertragliche Vergütung anrechnen oder abgrenzen.
-5. Billigkeitsbetrag nach Dauer und Umfang der Leistung sowie Wert des Nachlasses begründen; keine Scheingenauigkeit durch einen frei erfundenen Stundensatz.
-6. Rechenweg nach Paragraf 2057a Absatz 4 BGB in die Erbauseinandersetzung und gegebenenfalls in den Pflichtteil übertragen.
+1. Gesetzliche Erbfolge oder entsprechende gewillkürte Beteiligung nach BGB Paragraf 2052 prüfen; Kreis der beteiligten Abkömmlinge festlegen.
 
-## 4. Beweismerker
+2. Längerfristige Pflege, Mitarbeit und erhebliche Geldleistungen von Besuchen und allgemeiner familiärer Zuwendung unterscheiden. Verzicht auf Berufseinkommen nicht als zwingende Voraussetzung verlangen.
 
-- Pflegetagebuch, Pflegegradunterlagen, Arztberichte, Kontoauszüge und Zeugenaussagen sichern.
-- Eigenleistungen und bloße Besuche trennen.
-- Behauptungs- und Beweislast für die ausgleichsbegründenden Tatsachen liegt beim Begünstigten.
+3. Vereinbartes oder gewährtes angemessenes Entgelt und Ansprüche aus anderem Rechtsgrund nach Paragraf 2057a Absatz 2 abgrenzen. Pflegegeld, Wohnvorteile und Schenkungen nicht ohne Zweckprüfung pauschal abziehen.
 
-## 5. Arbeitsergebnis
+4. Dauer, Umfang, ersparte Fremdkosten und Nachlasswert für einen begründeten Billigkeitsbetrag auswerten. Darlegungs- und Beweislast für die begünstigenden Tatsachen zuordnen.
 
-Liefere eine Pflegechronologie, drei begründete Bewertungsvarianten und eine Erbquotenberechnung vor und nach Ausgleich.
+5. Ausgleich aus der nur beteiligten Abkömmlingen zukommenden Masse vorweg abziehen, Rest quotieren und Ausgleich dem Begünstigten hinzurechnen. Auswirkungen auf Pflichtteil nach Paragraf 2316 prüfen.
+
+### 3.1. Referenzen gezielt laden
+
+Bei streitigen Leistungen oder Rechenvarianten [Pflegebeweis und Ausgleichsrechnung](references/pflege-bewertung.md) laden.
+
+## 4. Quellenpflicht
+
+BGB Paragrafen 2057a, 2050 bis 2052 und 2316; Vergütungsansprüche nach ihrem konkreten Vertragsgrund.
+
+Es gilt die [Zitierweise](../../../references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+
+## 5. Ausgabeformat
+
+Pflegechronologie, Funktions- und Belegmatrix, begründetes Wertband mit drei Varianten sowie nachvollziehbare Verteilungsrechnung und Anspruchsvermerk.
+
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+
+## 6. Beispiele
+
+Ein Abkömmling pflegte über Jahre und erhielt Wohnraum. Zuerst wird dessen Zweck geklärt, bevor aus dem Wohnvorteil ein Ausschluss oder Abzug gefolgert wird.

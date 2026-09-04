@@ -9,18 +9,18 @@ Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `fortbestehensprogn
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fortbestehensprognose ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbin…
 2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
 3. **fortbestehensprognose-erstpruefung-und-mandatsziel** — Für Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; …
-4. **kaltstart-interview** — Für /fortbestehensprognose:fortbestehensprognose-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; E…
-5. **forderungsverzicht-mandantenentscheidung** — Für Forderungsverzicht: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Erge…
-6. **plausibilisierung-schriftsatz-brief-und-memo-bausteine** — Für Plausibilisierung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebni…
-7. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
-8. **patronatserklaerung-mehrparteien-konflikt-und-interessen** — Für Patronatserklärung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: …
-9. **patronatserklaerung-extern-hart-erzeugen** — Für Harte Patronatserklärung prüfen und erzeugen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkar…
-10. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
-11. **mandantenkommunikation-redteam** — Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvo…
-12. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
-13. **workflow-redteam-qualitygate** — Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristench…
-14. **comfortletter-sonderfall-edge** — Für Comfortletter: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpr…
-15. **fortbestehensdokumentation-insolvenzrecht** — Für Fortbestehensdokumentation mit insolvenzrechtlicher Tragfähigkeit: ordnet Akte, Belege und Lücken; Ergebnis: Prüfpro…
+4. **forderungsverzicht-mandantenentscheidung** — Für Forderungsverzicht: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Erge…
+5. **plausibilisierung-schriftsatz-brief-und-memo-bausteine** — Für Plausibilisierung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebni…
+6. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+7. **patronatserklaerung-mehrparteien-konflikt-und-interessen** — Für Patronatserklärung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: …
+8. **patronatserklaerung-extern-hart-erzeugen** — Für Harte Patronatserklärung prüfen und erzeugen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkar…
+9. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+10. **mandantenkommunikation-redteam** — Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvo…
+11. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+12. **workflow-redteam-qualitygate** — Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristench…
+13. **comfortletter-sonderfall-edge** — Für Comfortletter: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpr…
+14. **fortbestehensdokumentation-insolvenzrecht** — Für Fortbestehensdokumentation mit insolvenzrechtlicher Tragfähigkeit: ordnet Akte, Belege und Lücken; Ergebnis: Prüfpro…
+15. **selbstdokumentation-dokumentenmatrix-und-lueckenliste** — Für Selbstdokumentation: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Doku…
 
 ---
 
@@ -250,115 +250,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `kaltstart-interview`
-
-_Für /fortbestehensprognose:fortbestehensprognose-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
-
-# /fortbestehensprognose:fortbestehensprognose-kaltstart-interview
-
-## Direktstart: lesen, entscheiden, liefern
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
-
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
-
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
-
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
-
-Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
-
-## Disclaimer (Schlüsselstelle)
-
-Dieses Plugin liefert eine **Selbstdokumentation** der Fortbestehensprognose nach § 19 Abs. 2 InsO. Es ersetzt **nicht** die anwaltliche Prüfung durch einen Insolvenzrechtler bei Anzeichen für Insolvenzreife. Die Antragspflicht nach § 15a InsO (drei Wochen bei Zahlungsunfähigkeit, sechs Wochen bei Überschuldung) ist persönliche Pflicht des Geschäftsleiters mit strafrechtlicher Bewehrung (§ 15a Abs. 4 InsO) und Haftungsrisiko (§ 15b InsO, frühere § 64 GmbHG). Im Zweifel **vor** Ablauf der Frist Insolvenzanwalt konsultieren.
-
-## Ablauf
-
-1. Datei `~/.claude/plugins/config/claude-fuer-deutsches-recht/fortbestehensprognose/CLAUDE.md` prüfen.
-2. Falls befüllt: bestätigen, gegebenenfalls --redo für Neu-Interview.
-3. Andernfalls Interview unten ausführen.
-
-## Interview
-
-### 1. Wer nutzt das Plugin
-
-- **Rolle:** Geschäftsführer GmbH / Vorstand AG / Geschäftsleiter Personengesellschaft / Gesellschafter mit Eigenverantwortung / Finanzleiter / sonst?
-- **Persönliche Antragspflicht** nach § 15a InsO? Wer ist Geschäftsleiter mit Antragspflicht? Bei mehreren ist jeder einzeln verpflichtet (BGH-Rspr.).
-- **Anwaltlicher Ansprechpartner** (Insolvenzanwalt) — Name, Erreichbarkeit. Bei negativer Prognose sofort eskalieren.
-- **Steuerlicher Ansprechpartner** (Steuerberater / Wirtschaftsprüfer) — Name, Erreichbarkeit.
-
-### 2. Unternehmensprofil
-
-- **Rechtsform** GmbH AG GmbH und Co. KG Aktiengesellschaft Personengesellschaft.
-- **Stammkapital** (relevant für Mantel- bzw. Anhalt-Insolvenzreife).
-- **Geschäftsjahr** und Bilanzstichtag.
-- **Branche** (relevant für Plausibilisierung).
-- **Beschäftigte** Anzahl.
-- **Umsatz** im laufenden Jahr und Vorjahr.
-
-### 3. Buchhaltung und Bilanzierung
-
-- **Buchhaltungssoftware** DATEV Lexware SAP sevDesk sonst.
-- **Bilanzierungsstandard** HGB / IFRS / Mischung.
-- **Letzter Jahresabschluss** Datum.
-- **Aktueller Stand** unterjaehrige BWA SuSa Konzernreporting verfügbar.
-
-### 4. Ausgangslage
-
-- Was hat den Anlass gegeben für diese Prüfung? (siehe Skill `ausloesendes-ereignis-erfassen`)
-- Bilanzielle Überschuldung bereits festgestellt? (Aktiva kleiner als Passiva?)
-- Stille Reserven oder Lasten vorhanden?
-- Aktuelle Liquiditätslage subjektiv: angespannt? ausreichend? bereits überschritten?
-
-### 5. Eskalationspfad
-
-- **Ab welchem Befund** wird sofort der Insolvenzanwalt eingeschaltet? Empfehlung: bei jedem 🔴-Flag im Verlauf.
-- **Drei-Wochen-Frist** § 15a InsO bei Zahlungsunfähigkeit (§ 17 InsO) ist persönliche Pflicht. **Sechs Wochen** bei Überschuldung (§ 19 InsO seit SanInsFoG 2021).
-- **Kein Aufschieben** wegen Sanierungsverhandlungen — die Frist beginnt mit Eintritt der Insolvenzreife (objektives Kriterium).
-
-### 6. Standort
-
-- **Sitz und Insolvenzgericht** (Belegenheits-AG nach § 3 InsO).
-- **Bundesland** (relevant für Justiznetzwerk).
-
-## Rechtlicher Rahmen
-
-- **InsO** § 15a (Antragspflicht), § 15b (Zahlungsverbot ab Insolvenzreife), § 17 (Zahlungsunfähigkeit), § 18 (drohende Zahlungsunfähigkeit, Prognose 24 Monate seit 2021), § 19 (Überschuldung, Fortbestehensprognose 12 Monate seit 2021).
-- **StaRUG** §§ 29 ff. (Restrukturierungsrahmen vor Insolvenzreife), § 102 (Hinweispflicht Steuerberater).
-- **IDW S 11** Beurteilung des Vorliegens von Insolvenzeröffnungsgründen.
-- **IDW S 6** Anforderungen an Sanierungskonzepte.
-- **GmbHG** § 64 a.F. — heute § 15b InsO.
-
-## Ausgabe
-
-Profil wird geschrieben. Empfohlene nächste Skills:
-
-1. `/fortbestehensprognose:ausloesendes-ereignis-erfassen` — Anlass und Vorinformation
-2. `/fortbestehensprognose:bilanzieller-status-aufnehmen` — Ausgangsfeststellung
-3. `/fortbestehensprognose:annahmen-sammeln-fortfuehrung` — Prognoseannahmen
-4. (parallel) `/liquiditaetsplanung` — für die rollierende 12-Monats-Liquidität
-
-Bei aktuten Anzeichen für Zahlungsunfähigkeit (Liquiditätslücke über 10 Prozent seit mehr als drei Wochen) **sofort** Insolvenzanwalt einschalten und mit Plugin `insolvenzrecht` arbeiten — nicht in diesem Plugin weiterarbeiten.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Paragrafenkette Kaltstart
-
-§ 19 InsO (Ueberschuldungsgrund) → § 15a InsO (Antragspflicht) → § 15b InsO (Zahlungs-/Haftungsrisiko) → § 43 GmbHG (Sorgfaltspflicht GF) → IDW S 11 (Standard Insolvenz-Beurteilung)
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1010,6 +901,56 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 3. **Materielle Weichen:** Die Kernfragen zu **Fortbestehensdokumentation mit insolvenzrechtlicher Tragfähigkeit** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `selbstdokumentation-dokumentenmatrix-und-lueckenliste`
+
+_Für Selbstdokumentation: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste._
+
+# Selbstdokumentation: Dokumentenmatrix, Lückenliste und Nachforderung
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
+- Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Selbstdokumentation: Dokumentenmatrix, Lückenliste und Nachforderung
+- **Normen-/Quellenanker:** InsO, IDW, StaRUG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Selbstdokumentation** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 name: kaltstart-interview
-description: "Für /fortbestehensprognose:fortbestehensprognose-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Für /fortbestehensprognose:kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# /fortbestehensprognose:fortbestehensprognose-kaltstart-interview
+# /fortbestehensprognose:kaltstart-interview
 
 ## Direktstart: lesen, entscheiden, liefern
 

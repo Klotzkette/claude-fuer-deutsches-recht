@@ -37,7 +37,7 @@ Typische Auslöser:
 - "Mach daraus eine Partner-/Mandantenunterlage mit Risiken, Annahmen und offenen Punkten."
 - "Welche Dokumente, Registerauszüge, Freigaben oder Fristen fehlen noch?"
 
-Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-kommandocenter` oder `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
+Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:kommandocenter` oder `/grosskanzlei-corporate-ma:deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
 
 ## Voraussetzungen und Kontext laden
 Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
@@ -94,10 +94,10 @@ Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Que
 
 ## Hand-Off zu anderen Skills
 Nach diesem Skill weiter mit:
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-gesellschaftsrecht-register` - wenn Registerstand, Gesellschafterliste, Organstellung oder Vollmachtskette geprüft werden müssen.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-transaktionsstruktur` - als fachlicher Anschluss-Skill.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-umwandlungsrecht` - wenn Verschmelzung, Spaltung, Formwechsel oder Carve-out gesellschaftsrechtlich strukturiert werden.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-board-paper-business-judgment` - wenn Organentscheidung und Business-Judgment-Dokumentation vorbereitet werden.
+- `/grosskanzlei-corporate-ma:gesellschaftsrecht-register` - wenn Registerstand, Gesellschafterliste, Organstellung oder Vollmachtskette geprüft werden müssen.
+- `/grosskanzlei-corporate-ma:transaktionsstruktur` - als fachlicher Anschluss-Skill.
+- `/grosskanzlei-corporate-ma:umwandlungsrecht` - wenn Verschmelzung, Spaltung, Formwechsel oder Carve-out gesellschaftsrechtlich strukturiert werden.
+- `/grosskanzlei-corporate-ma:board-paper-business-judgment` - wenn Organentscheidung und Business-Judgment-Dokumentation vorbereitet werden.
 
 ## Was dieser Arbeitsgang nicht macht
 - Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.

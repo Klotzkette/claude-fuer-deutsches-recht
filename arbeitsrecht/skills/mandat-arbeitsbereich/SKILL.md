@@ -16,10 +16,10 @@ description: "Für Mandat Arbeitsbereich: ordnet Norm, Beweislast und Gegenargum
 
 **Fokus:** Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen. Verhindert, dass Kontext von einem Mandat in ein anderes übergeht. Relevant für Kanzleien mit mehreren Mandanten; für Syndikusrechtsanwälte deaktiviert.
 
-### /arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich
+### /arbeitsrecht:mandat-arbeitsbereich
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:mandat-arbeitsbereich` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -39,7 +39,7 @@ Anwälte und Kanzleien arbeiten für mehrere Mandanten gleichzeitig. Eine Mandat
 `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` lesen, Abschnitt `## Mandantenakten` prüfen.
 
 Falls `Aktiviert: ✗` (Syndikus / in-house):
-> Mandantenakten sind deaktiviert – Sie sind als [Kanzlei/in-house] konfiguriert und arbeiten mit einem einzigen Mandantenkontext. Falls Sie tatsächlich mehrere Mandanten betreuen, führen Sie `/arbeitsrecht:arbeitsrecht-kaltstart-interview --redo` aus und wählen Sie Kanzleibetrieb. Andernfalls benötigen Sie `/arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich` nicht.
+> Mandantenakten sind deaktiviert – Sie sind als [Kanzlei/in-house] konfiguriert und arbeiten mit einem einzigen Mandantenkontext. Falls Sie tatsächlich mehrere Mandanten betreuen, führen Sie `/arbeitsrecht:kaltstart-interview --redo` aus und wählen Sie Kanzleibetrieb. Andernfalls benötigen Sie `/arbeitsrecht:mandat-arbeitsbereich` nicht.
 
 ### Befehle
 
@@ -80,16 +80,16 @@ Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodi
 ## Beispiele
 
 ```
-/arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich neu mueller-ksg-2024
+/arbeitsrecht:mandat-arbeitsbereich neu mueller-ksg-2024
 Kündigung wegen betriebsbedingter Restrukturierung, Sozialauswahl streitig.
 ```
 
 ```
-/arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich wechseln bayer-betriebsrat
+/arbeitsrecht:mandat-arbeitsbereich wechseln bayer-betriebsrat
 ```
 
 ```
-/arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich auflisten
+/arbeitsrecht:mandat-arbeitsbereich auflisten
 ```
 
 ## Risiken / typische Fehler

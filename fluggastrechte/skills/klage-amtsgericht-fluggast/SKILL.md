@@ -3,6 +3,12 @@ name: klage-amtsgericht-fluggast
 description: "Für Klage Amtsgericht Fluggast: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
+# Fluggastrechteklage für das Amtsgericht aus Flug- und Zahlungsbelegen entwerfen
+
+Lies zuerst Buchungsbestätigung, Flug- und Störungsnachweise, Forderungsschreiben, Antworten des Luftfahrtunternehmens und Zahlungsbelege. Ordne Passagiere, Flugsegmente, Zeitablauf und offene Beträge. Liefere einen ausformulierten Klageentwurf mit Parteien, konkreten Anträgen, Sachverhalt, fallbezogener Begründung, Beweisangeboten und Anlagenverzeichnis; Zuständigkeit, Fristen und Berechnung vor Kennzeichnung als einreichungsreif prüfen.
+
+Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Bereits Beantwortetes nicht erneut erheben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+
 beA-Konvention:
 
 - Anlagen werden im beA als separate PDFs eingereicht, jeweils mit Stempel oben rechts in Arial 12 FETT.

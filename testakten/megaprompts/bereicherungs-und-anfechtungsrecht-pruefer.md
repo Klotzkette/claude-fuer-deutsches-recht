@@ -142,6 +142,8 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Vertrag, Pflichtverletzun
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer._
 
+# Vermögensverschiebung und Rückforderungsweg bestimmen
+
 ## Direktstart: lesen, entscheiden, liefern
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:

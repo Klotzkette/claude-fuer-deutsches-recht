@@ -64,7 +64,7 @@ Biete dies als Checkliste an, die der Anleiter durcharbeiten oder als Inhaltsver
 
 Dies ist ein Anleiter-Skill. Lies `CLAUDE.md` → `Rolle`. Wenn die Rolle nicht "Anleitender Volljurist" ist:
 
-> Dieser Skill ist für Anleiter – er konfiguriert das Verhalten der studierendengerichteten Skills. Wenn Sie der Anleiter sind, stellen Sie sicher, dass Ihre Rolle in `/rechtsberatungsstelle:rechtsberatungsstelle-kaltstart-interview` auf "Anleitender Volljurist" gesetzt ist. Wenn Sie Studenten/r sind, ist dies nicht der richtige Skill für Sie – starten Sie mit `/rechtsberatungsstelle:einarbeitung`.
+> Dieser Skill ist für Anleiter – er konfiguriert das Verhalten der studierendengerichteten Skills. Wenn Sie der Anleiter sind, stellen Sie sicher, dass Ihre Rolle in `/rechtsberatungsstelle:kaltstart-interview` auf "Anleitender Volljurist" gesetzt ist. Wenn Sie Studenten/r sind, ist dies nicht der richtige Skill für Sie – starten Sie mit `/rechtsberatungsstelle:einarbeitung`.
 
 Stopp, wenn Rolle nicht Anleiter.
 

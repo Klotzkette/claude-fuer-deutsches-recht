@@ -188,6 +188,8 @@ Dieser Einstieg routet **Email Umformulierer Berufsrecht** vom ersten Sachverhal
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: E-Mail-Umformulierer._
 
+# Anwaltliche Nachricht und Überarbeitungsziel einordnen
+
 ## Direktstart: lesen, entscheiden, liefern
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:

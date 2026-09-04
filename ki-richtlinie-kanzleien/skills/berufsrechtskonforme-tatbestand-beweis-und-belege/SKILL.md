@@ -2,6 +2,12 @@
 name: berufsrechtskonforme-tatbestand-beweis-und-belege
 description: "Für Berufsrechtskonforme Tatbestand Beweis und Belege: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
+# Belegmatrix zur berufsrechtlichen Prüfung des KI-Einsatzes in der Kanzlei erstellen
+
+Lies zuerst KI-Inventar, Einsatzbeschreibungen, Verträge, Freigaben und vorhandene Schulungs- oder Vorfallnachweise. Ordne jedem konkreten Einsatz die vorhandenen Belege zu. Liefere eine Beweislast- und Substantiierungsmatrix mit Prüfpunkt, dokumentierter Tatsache, Fundstelle, Gegenbefund, entscheidender Nachweislücke und verantwortlichem nächsten Schritt. Trenne tatsächliche Dokumentation, rechtliche Bewertung und organisatorische Empfehlung.
+
+Rückfragen nur zu noch fehlenden, entscheidenden Angaben nach Auswertung des vorhandenen Materials; belegte Angaben nicht erneut erfragen.
+
 Eine KI-Nutzung in der Kanzlei ist berufsrechtskonform, wenn kumulativ erfüllt:
 - **Verschwiegenheit gewahrt** (§ 43a Abs. 2 BRAO, § 2 BORA): Mandantenbezogene Daten werden nicht an Dritte offenbart, soweit nicht durch Befreiung oder gesetzliche Pflicht gerechtfertigt.
 - **§ 43e BRAO erfüllt**: Dienstleister verpflichtet, Sorgfaltsauswahl belegt, Überwachung etabliert.

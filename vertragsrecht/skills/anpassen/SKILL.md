@@ -57,7 +57,7 @@ Lies `~/.claude/plugins/config/klotzkette/vertragsrecht/CLAUDE.md`.
 Enthält es `[PLATZHALTER]`-Werte, sage:
 
 > Sie haben die Ersteinrichtung noch nicht abgeschlossen. Führen Sie zuerst
-> `/vertragsrecht:vertragsrecht-kaltstart-interview` aus — die Anpassungsfunktion setzt
+> `/vertragsrecht:kaltstart-interview` aus — die Anpassungsfunktion setzt
 > ein vollständiges Profil voraus.
 
 ### Schritt 2 — Anpassbare Bereiche zeigen
@@ -122,7 +122,7 @@ Schreibe in das gemeinsame Profil und weise darauf hin:
 ### Schritt 6 — Abschluss
 
 > Erledigt. Ihre nächste Ausgabe spiegelt die Änderung wider. Weitere
-> Anpassungen? `/vertragsrecht:vertragsrecht-anpassen` ist jederzeit verfügbar.
+> Anpassungen? `/vertragsrecht:anpassen` ist jederzeit verfügbar.
 
 ## Beispiel
 

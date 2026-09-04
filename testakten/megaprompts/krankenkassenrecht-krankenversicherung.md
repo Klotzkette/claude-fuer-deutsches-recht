@@ -166,6 +166,8 @@ Liefere Schriftsatz, Bescheidkette, medizinische Tatbestandsmatrix, Einzelanlage
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Krankenkassenrecht und Krankenversicherung._
 
+# Versicherungsfall, Bescheid und Leistungsstreit einordnen
+
 ## Direktstart: lesen, entscheiden, liefern
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:

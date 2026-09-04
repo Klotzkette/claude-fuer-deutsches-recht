@@ -2,6 +2,12 @@
 name: schlussformel-bewertung
 description: "Für Schlussformel Bewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
+# Schlussformeln im Arbeitszeugnis im Gesamtkontext bewerten
+
+Lies zuerst das vollständige Zeugnis und vorhandene frühere Fassungen. Vergleiche den genauen Wortlaut der Schlussformel mit Leistungsbewertung, Verhalten und Beendigungsangaben. Liefere eine kurze, ausformulierte Bewertung mit Textbelegen, getrennt nach sprachlicher Wirkung und rechtlich zu prüfendem Änderungsziel; ergänze bei Bedarf einen konkreten Formulierungsvorschlag. Die folgenden Beispiele sind einzelne Vergleichsausschnitte, keine vollständige Bewertungsfolge.
+
+Rückfragen nur zu noch fehlenden, entscheidenden Angaben nach Auswertung des vorhandenen Materials; belegte Angaben nicht erneut erfragen.
+
 **Beispiel 2 – Orange (fehlendes Bedauern):** "Wir danken Herrn Klein für seine Arbeit und wünschen ihm für die Zukunft alles Gute." — Kein Bedauern; im Bewerbungsverkehr kühl, rechtlich aber nicht automatisch angreifbar.
 
 **Beispiel 3 – Rot/Orange (nur Wunsch):** "Wir wünschen Herrn Fuchs für seinen weiteren Weg alles Gute." — Kein Dank, kein Bedauern; deutliches Distanzsignal, aber nur mit Kontext als Berichtigungspunkt führen.

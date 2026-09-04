@@ -3,6 +3,12 @@ name: fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag
 description: "Für Fachanwalt Insolvenz Sanierungsrecht Gläubigerantrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
+# Gläubigerantrag auf Insolvenzeröffnung mit Glaubhaftmachungsbelegen vorbereiten
+
+Lies zuerst Forderungsunterlagen, Titel, Vollstreckungsprotokolle, Zahlungsnachweise und die Korrespondenz zur Schuldnerin. Ordne Forderung, Fälligkeit, Einwendungen und Hinweise auf einen Eröffnungsgrund mit Belegstellen zu. Liefere einen ausformulierten Gläubigerantragsentwurf mit fallbezogener Begründung und Anlagenzuordnung; reichen die Belege nicht, benenne die konkreten Glaubhaftmachungslücken und kennzeichne den Entwurf als noch nicht einreichungsreif.
+
+Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Bereits Beantwortetes nicht erneut erheben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+
 ## Mandantenfragen beim Kaltstart
 
 1. Wie hoch ist die Forderung des Mandanten gegen die Schuldnerin – liegt Fälligkeit und Vollstreckbarkeit vor?

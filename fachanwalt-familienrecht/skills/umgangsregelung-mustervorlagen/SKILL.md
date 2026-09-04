@@ -350,7 +350,7 @@ Vollstreckungstitel muss enthalten:
 ## Anschluss-Skills
 
 - `fachanwalt-familienrecht-mediation-156-famfg-cochemer` — Mediationsverfahren vor Klage
-- `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt` — Unterhaltsberechnung Wechselmodell
+- `unterhalt-berechnen-und-gegenrechnen` — Unterhaltsberechnung Wechselmodell
 - `fachanwalt-familienrecht-scheidungsantrag-stellen` — Scheidungs-Verbund mit Umgangsfrage
 
 ## Quellen

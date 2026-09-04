@@ -4,6 +4,12 @@ description: "Für Zugang Formgerechter Erklärung BGH Viii Zr 159 23: ordnet No
 ---
 
 
+# Formgerechten Zugang elektronisch signierter Erklärungen prüfen
+
+Lies zuerst die Erklärung im vorliegenden Dateiformat, Signaturprüfberichte, Übermittlungs- und Empfangsnachweise sowie gerichtliche Zustellungsunterlagen. Rekonstruiere, welche Fassung wann auf welchem Weg den Empfänger erreicht haben soll. Liefere einen ausformulierten Prüfvermerk, der Form, Zugang und Nachweis getrennt bewertet und konkrete Beleglücken benennt; ordne die nachfolgende Entscheidung erst nach Prüfung des maßgeblichen Zeitpunkts und der amtlichen Quellen ein.
+
+Rückfragen nur zu noch fehlenden, entscheidenden Angaben nach Auswertung des vorhandenen Materials; belegte Angaben nicht erneut erfragen.
+
 ## Rechtsgrundlagen
 
 - BGH, Urt. v. 27.11.2024 – Az. VIII ZR 159/23 — qES-Wohnraumkuendigung; Anforderungen an Zugang in der korrespondierenden Form; Stand der Norm vor Einfuehrung des Paragraf 130e ZPO am 17.07.2024. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.11.2024&Aktenzeichen=VIII+ZR+159/23

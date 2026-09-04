@@ -1,43 +1,46 @@
 ---
 name: erbverzicht-pflichtteilsverzicht
-description: "Für Erbverzicht Pflichtteilsverzicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft oder entwirft einen notariellen Erb- oder Pflichtteilsverzicht einschließlich persönlicher Mitwirkung, Abfindung, Abkömmlingswirkung und Grenzen einer Umdeutung."
 ---
 
-# Erbverzicht Pflichtteilsverzicht
+# Erb- oder Pflichtteilsverzicht gestalten und prüfen
 
-## Worum es geht
+## 1. Zweck und Anwendungsfall
 
-Prüfe **Erbverzicht Pflichtteilsverzicht** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Für Verzicht vor dem Erbfall oder Prüfung seiner Wirksamkeit danach. Ausschlagung nach dem Erbfall und Vergleich über einen bereits entstandenen Anspruch sind andere Rechtsgeschäfte.
 
-## Normenanker
+## 2. Eingaben
 
-- § 1922 Abs. 1 BGB
-- § 1937 BGB
-- § 1942 Abs. 1 BGB
-- § 1953 Abs. 1 BGB
-- § 1967 Abs. 1 BGB
-- § 1980 Abs. 1 BGB
-- § 2032 Abs. 1 BGB
-- § 2042 Abs. 1 BGB
-- § 2303 Abs. 1 BGB
-- § 2346 Abs. 1 BGB
+Verzichtsurkunde, Beteiligte und Vertretung, Familienstand, Abkömmlinge, Gegenleistung, frühere Verfügungen, Errichtungsdatum und behauptete Willensmängel.
 
-## Prüfpfad
+## 3. Ablauf und Checkliste
 
-1. **Rolle und Ziel klären:** Angriff, Verteidigung, Beratung, Behördenkontakt, Registervorgang oder gerichtliches Verfahren bestimmen.
-2. **Tatbestandsmerkmale zerlegen:** Jedes Merkmal mit Aktenstelle, Beleg, Beweisangebot, Gegentatsache und offener Recherchefrage verbinden.
-3. **Fristen und Zuständigkeit sichern:** Rechtsbehelfsfrist, Ausschlussfrist, Verjährung, Gerichtsstand, Behördenzuständigkeit und Verfahrensart vorab fixieren.
-4. **Beweislast und Darlegungslast trennen:** Wahrscheinliche Wahrheit genügt nicht; entscheidend ist, wer sie wann wie beweisen muss.
-5. **Risikoampel bilden:** Grün bei Norm + Tatsache + Beleg; Gelb bei Wertungsspielraum; Rot bei Frist-, Form-, Zuständigkeits- oder Beweislastbruch.
+1. Erbverzicht, bloßen Pflichtteilsverzicht und Zuwendungsverzicht unterscheiden. Gewollte Auswirkungen auf gesetzliche Quote, Pflichtteil und testamentarische Zuwendung benennen.
 
-## Entscheidungs- und Quellenhygiene
+2. Notarielle Beurkundung und persönliche Mitwirkung des Erblassers nach der zeitlich anwendbaren Fassung prüfen. Keine nachträgliche Heilung durch bloße Zustimmung unterstellen.
 
-- Rechtsprechung nur einsetzen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei prüfbare Quelle vorliegen.
-- Keine BeckRS-, juris- oder Kommentar-Fundstellen blind übernehmen. Fehlt eine verifizierte Entscheidung, ausdrücklich mit Normtext, Systematik, Beweislast und offenem Recherchepunkt arbeiten.
-- Bei divergierenden Obergerichten die regionale Zuständigkeit, den Instanzenzug und den Stand höchstrichterlicher Klärung kenntlich machen.
+3. Abfindung, Fälligkeit, Sicherheiten, Steuerfolgen, Rückabwicklung und Wirkung auf Abkömmlinge ausdrücklich regeln. Bestehende Testamente auf Anpassungsbedarf prüfen.
 
-## Arbeitsprodukt
+4. Bei Unwirksamkeit Auslegung oder Umdeutung anhand Parteien, Erklärungen und hypothetischem Willen untersuchen; keine automatische Rettung als Vertrag künftiger Erben.
 
-- Kurzvermerk mit Normenanker, Tatsachenmatrix, Fristen, Belegen und Risikoampel.
-- Mandantenfähige Handlungsempfehlung mit nächstem Schritt, benötigten Unterlagen und Eskalationsoption.
-- Optional: Schriftsatz-, Behörden-, Gegner- oder Gerichtstext im Ton des jeweiligen Verfahrens.
+5. Anfechtung nach allgemeinen Regeln mit konkretem Grund, Kausalität und Frist prüfen; BGB Paragraf 2351 betrifft die Aufhebung, nicht pauschal die Irrtumsanfechtung.
+
+### 3.1. Referenzen gezielt laden
+
+Bei Formstreit oder Entwurf [Verzicht und Formkontrolle](references/verzicht-form.md) laden.
+
+## 4. Quellenpflicht
+
+BGB Paragrafen 2346 bis 2352, 311b Absatz 5 sowie 119, 123, 121, 124, soweit einschlägig.
+
+Es gilt die [Zitierweise](../../../references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+
+## 5. Ausgabeformat
+
+Wirksamkeits- und Folgenvermerk oder vollständig ausformulierter beurkundungsbedürftiger Vertragsentwurf mit Abfindung, Leistungsstörung und Vollzugsplan.
+
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+
+## 6. Beispiele
+
+Fehlte die erforderliche persönliche Mitwirkung des Erblassers, ist eine Vereinbarung unter künftigen Erben nicht schon deshalb wirksam, weil alle späteren Erben unterschrieben haben.

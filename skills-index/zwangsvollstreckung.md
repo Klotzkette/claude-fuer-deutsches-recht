@@ -1,6 +1,6 @@
 # zwangsvollstreckung
 
-**60 Skills** · Stand `v442.0.1`
+**60 Skills** · Stand `v443.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../zwangsvollstreckung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

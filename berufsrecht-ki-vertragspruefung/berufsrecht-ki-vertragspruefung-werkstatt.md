@@ -77,9 +77,9 @@ Arbeitsgriff Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwi
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Anbietern Belehrung Sonderfall Edge | BRAO Paragraf 43a und Paragraf 43e | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Art. 50 Regulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot | BRAO Paragraf 43a und Paragraf 43e | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BRAO Paragraf 45 und Paragraf 46 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Art. 50 Regulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot | BRAO Paragraf 45 und Paragraf 46 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Rechtsunsicherheit zu Paragraf 43e BRAO dokumentieren | BRAO Paragraf 45 und Paragraf 46 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -136,7 +136,7 @@ Arbeitsgriff Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwi
 
 10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
 10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Anbietern Belehrung Sonderfall Edge.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Art. 50 Regulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Berufsrecht der rechts- und wirtschaftsberatenden Berufe tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor an.
@@ -176,7 +176,6 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Anbietern Belehrung Sonderfall Edge | Empfehlung in 3 Optionen: (1) Freigeben mit Auflagen, (2) Pilotbetrieb mit eingeschränkten Daten, (3) Sperren. | Fachvotum zu Anbietern Belehrung Sonderfall Edge mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Art. 50 Regulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot | Anders sieht es aus, wenn Nutzer mit einem Chatbot sprechen oder synthetische Inhalte veröffentlicht werden. | Fachvotum zu Art. 50 Regulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | Rechtsunsicherheit zu Paragraf 43e BRAO dokumentieren | Gesetzesbefund: Wortlaut von Paragraf 43e BRAO, Paragraf 43a Absatz 2 BRAO, Paragraf 2 BORA, Paragraf 203 StGB. Offene Auslegungsfrage: etwa Reichweite von Artikel 50 Regulierungsrahmen oder Drittstaatzugriff | Akten- und Belegmatrix zu Rechtsunsicherheit zu Paragraf 43e BRAO dokumentieren mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
 | Regulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin | Die Kanzlei ist nicht automatisch Anbieterin des zugrunde liegenden Modells. Umgekehrt macht Paragraf 43e BRAO ein Tool nicht automatisch Regulierungsrahmen-konform. | Fachvotum zu Regulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
@@ -185,71 +184,72 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Parallelnormen — alle fünf Berufe | System-/Berufsrechtsproblem (Parallelnormen — alle fünf Berufe): Norm-Adapter-Referenz für alle fünf Berufsgeheimnisträger Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar. | Fachvotum zu Parallelnormen — alle fünf Berufe mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Verschwiegenheitsklausel prüfen | System-/Berufsrechtsproblem (Verschwiegenheitsklausel prüfen): Prüfe die vertragliche Verpflichtung des Dienstleisters auf Verschwiegenheit nach Absatz drei der einschlägigen Dienstleisterregelung. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Cloud Act und Drittstaat prüfen | System-/Berufsrechtsproblem (Cloud Act und Drittstaat prüfen): Prüfe Auslandsbezug des System-Anbieters nach Absatz vier der einschlägigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). | Fachvotum zu Cloud Act und Drittstaat prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Erforderlichkeit dokumentieren | System-/Berufsrechtsproblem (Erforderlichkeit dokumentieren): Prüfe die Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenüber dem System-Dienstleister nach Absatz eins der einschlägigen Dienstleisterregelung. | Akten- und Belegmatrix zu Erforderlichkeit dokumentieren mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
 
 ## 16. Fachspezifische Praxisrouten
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Anbietern Belehrung Sonderfall Edge
-
-Bearbeitungsauftrag: Empfehlung in 3 Optionen: (1) Freigeben mit Auflagen, (2) Pilotbetrieb mit eingeschränkten Daten, (3) Sperren. Berufsrecht, Geheimnisschutz und Datenschutz getrennt prüfen: Paragraf 43a Absatz 2 und Paragraf 43e BRAO, Paragraf 2 BORA, Paragraf 203 StGB sowie Artikel 28 und 32 Datenschutz-Grundverordnung. Eine Gerichtsentscheidung nur einsetzen, wenn ihr Sachverhalt die konkrete Vertrags-, Verschwiegenheits- oder Sicherheitsfrage trägt; ein nicht erläutertes Aktenzeichen ist kein Rechtsanker.
-Prüfschritte: Jede Option mit Risikoampel und Begründung; Standardisierte Anfragen ohne Anpassung an den konkreten Use Case wirken oft anmaßend — Anbieter reagieren mit Standardantworten; Empfehlung: nach genauer Use-Case-Beschreibung zusätzlich die rechtlichen Begründungen ("weil wir berufsrechtlich Verschwiegenheitspflichtige sind") konkret benennen.
-Lieferstück: Fachvotum zu Anbietern Belehrung Sonderfall Edge mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.2. Art. 50 Regulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot
+### 16.1. Art. 50 Regulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot
 
 Bearbeitungsauftrag: Anders sieht es aus, wenn Nutzer mit einem Chatbot sprechen oder synthetische Inhalte veröffentlicht werden. Als Arbeitsstand gilt: Transparenzpflichten nach Artikel 50 Regulierungsrahmen werden für die praktische Kanzleiorganisation ab 02.08.2026 besonders relevant; Artikel 4 System-Kompetenz ist schon vorher als Governance-Thema einzuplanen. Berufsrecht, Geheimnisschutz und Datenschutz getrennt prüfen: Paragraf 43a Absatz 2 und Paragraf 43e BRAO, Paragraf 2 BORA, Paragraf 203 StGB sowie Artikel 28 und 32 Datenschutz-Grundverordnung.
 Prüfschritte: Artikel 50 Regulierungsrahmen ist für Kanzleien vor allem eine Transparenz- und Kommunikationsfrage; Nicht jeder interne System-Entwurf muss nach außen markiert werden; Ein Hinweis "System-generiert" heilt keine ungeprüfte Rechtsauskunft, kein unzulässiges Mandatsversprechen und keinen Geheimnisverstoß; Berufsrecht, Mandatsvertrag, Datenschutz und Haftung laufen parallel.
 Normbezug aus dem Fachmaterial: Artikel 50 Regulierungsrahmen ist für Kanzleien vor allem eine Transparenz- und Kommunikationsfrage.
 Lieferstück: Fachvotum zu Art. 50 Regulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Rechtsunsicherheit zu Paragraf 43e BRAO dokumentieren
+### 16.2. Rechtsunsicherheit zu Paragraf 43e BRAO dokumentieren
 
 Bearbeitungsauftrag: Gesetzesbefund: Wortlaut von Paragraf 43e BRAO, Paragraf 43a Absatz 2 BRAO, Paragraf 2 BORA, Paragraf 203 StGB. Offene Auslegungsfrage: etwa Reichweite von Artikel 50 Regulierungsrahmen oder Drittstaatzugriff.
 Prüfschritte: Wie weit reicht die Erforderlichkeit bei modernen System-Diensten; Wann ist ein Tool allgemeine Kanzleiinfrastruktur und wann unmittelbar einzelmandatsbezogen; Welche Drittstaat- und Konzernzugriffe sind noch vergleichbar geschützt; Wie streng müssen Verschlüsselung, Logging und Supportzugriffe ausgestaltet sein; Wann wird die Kanzlei Regulierungsrahmen-rechtlich Anbieterin statt nur Betreiberin.
 Lieferstück: Akten- und Belegmatrix zu Rechtsunsicherheit zu Paragraf 43e BRAO dokumentieren mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
-### 16.4. Regulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin
+### 16.3. Regulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin
 
 Bearbeitungsauftrag: Die Kanzlei ist nicht automatisch Anbieterin des zugrunde liegenden Modells. Umgekehrt macht Paragraf 43e BRAO ein Tool nicht automatisch Regulierungsrahmen-konform. Kombiniert sie Modell, RAG, Dokumentenlogik und Workflows zu einem eigenen System?
 Prüfschritte: Sie kann aber aus einer reinen Nutzerrolle herausrutschen, wenn sie ein eigenes System unter eigenem Namen bereitstellt, die Zweckbestimmung prägt oder Mandanten/Dritten eine System-Funktion als eigene Leistung anbietet; Selbst ein Regulierungsrahmen-konformes Tool kann berufsrechtlich unzulässig sein, wenn Verschwiegenheit, No-Training, Subunternehmer oder Drittstaat nicht tragen; Nutzt die Kanzlei ein fremdes Tool intern; Bietet sie Mandanten eine eigene Oberfläche an; Wird das System gegenüber Dritten unter Kanzleinamen bereitgestellt?
 Lieferstück: Fachvotum zu Regulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Strafrechtliche Belehrung prüfen
+### 16.4. Strafrechtliche Belehrung prüfen
 
 Bearbeitungsauftrag: System-/Berufsrechtsproblem (Strafrechtliche Belehrung prüfen): Prüfe die strafrechtliche Belehrung des Dienstleisters nach Absatz drei Satz zwei Nummer eins der einschlägigen Dienstleisterregelung. Pflichtinhalte Paragraf 203 Absatz eins drei vier und sechs StGB und Paragraf 204 StGB. Hinweis auf Sekundärpflicht des Dienstleisters nach Paragraf 203 Absatz vier Satz zwei Nummer eins StGB.
 Lieferstück: Fachvotum zu Strafrechtliche Belehrung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. AVV-Grenzprüfung Datenschutz
+### 16.5. AVV-Grenzprüfung Datenschutz
 
 Bearbeitungsauftrag: Normen Artikel 28 Datenschutz-Grundverordnung Paragrafen 43e BRAO 62a StBerG. System-/Berufsrechtsproblem (AVV-Grenzprüfung Datenschutz): Kanzlei nutzt System-Dienstleister und prüft ob AVV nach Artikel 28 Datenschutz-Grundverordnung die berufsrechtliche Prüfung ersetzt. Normen Artikel 28 Datenschutz-Grundverordnung Paragrafen 43e BRAO 62a StBerG.
 Normbezug aus dem Fachmaterial: Kanzlei nutzt System-Dienstleister und prüft ob AVV nach Artikel 28 Datenschutz-Grundverordnung die berufsrechtliche Prüfung ersetzt; Normen Artikel 28 Datenschutz-Grundverordnung Paragrafen 43e BRAO 62a StBerG.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.7. Parallelnormen — alle fünf Berufe
+### 16.6. Parallelnormen — alle fünf Berufe
 
 Bearbeitungsauftrag: System-/Berufsrechtsproblem (Parallelnormen — alle fünf Berufe): Norm-Adapter-Referenz für alle fünf Berufsgeheimnisträger Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar. Mapping der Dienstleisterregelungen Verschwiegenheitspflichten und Paragraf 203 StGB-Tatbestände. Sonderregeln für Berufsausübungsgesellschaften (Paragraf 59c WPO) Anwaltsnotare gemischte Sozietäten und multidisziplinäre Praxen.
 Lieferstück: Fachvotum zu Parallelnormen — alle fünf Berufe mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Verschwiegenheitsklausel prüfen
+### 16.7. Verschwiegenheitsklausel prüfen
 
 Bearbeitungsauftrag: System-/Berufsrechtsproblem (Verschwiegenheitsklausel prüfen): Prüfe die vertragliche Verpflichtung des Dienstleisters auf Verschwiegenheit nach Absatz drei der einschlägigen Dienstleisterregelung (Paragrafen 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO). Anforderungen Textform (Paragraf 126b BGB) Verpflichtung gegenüber jedermann zeitlich unbegrenzt alle Berufsgeheimnisse Subunternehmerklausel. Anbieterbehauptung, Vertragswortlaut, technische Realität, Berufsgeheimnis, Datenschutzrolle und Strafbarkeitsrisiko auseinanderziehen.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.9. Cloud Act und Drittstaat prüfen
+### 16.8. Cloud Act und Drittstaat prüfen
 
 Bearbeitungsauftrag: System-/Berufsrechtsproblem (Cloud Act und Drittstaat prüfen): Prüfe Auslandsbezug des System-Anbieters nach Absatz vier der einschlägigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). US-CLOUD Act, FISA, Supportzugriffe, EU-US-DPF, SCC und Professional Secrecy Addendum sauber trennen. Anbieter-Fragenliste, Risikomatrix, Vertragsredline und Entscheidung, ob Pilot, Stop oder Nachverhandlung.
 Lieferstück: Fachvotum zu Cloud Act und Drittstaat prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Erforderlichkeit dokumentieren
+### 16.9. Erforderlichkeit dokumentieren
 
 Bearbeitungsauftrag: System-/Berufsrechtsproblem (Erforderlichkeit dokumentieren): Prüfe die Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenüber dem System-Dienstleister nach Absatz eins der einschlägigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). Erstelle einen internen Compliance-Vermerk mit Beurteilungsspielraum und Grenzen. Anbieterbehauptung, Vertragswortlaut, technische Realität, Berufsgeheimnis, Datenschutzrolle und Strafbarkeitsrisiko auseinanderziehen.
 Lieferstück: Akten- und Belegmatrix zu Erforderlichkeit dokumentieren mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
-### 16.11. Ex-ante-Vermerk zur Erforderlichkeit
+### 16.10. Ex-ante-Vermerk zur Erforderlichkeit
 
 Bearbeitungsauftrag: Erforderlichkeit meint nicht: "Könnte man theoretisch ohne algorithmische Systeme arbeiten?" Maßgeblich ist, ob der Zugang zu Berufsgeheimnissen für die konkret beauftragte Dienstleistung in der gewählten, vertretbar organisierten Kanzleiumgebung benötigt wird. Tool und Zweck: Dokumentenanalyse, Recherche, Zusammenfassung, Übersetzung, Diktat, Fristenassistenz, Chatbot, RAG. Drittstaat: Hosting, Support, Muttergesellschaft, Zugriffsmöglichkeiten, zusätzliche Schutzmaßnahmen.
 Lieferstück: Fachvotum zu Ex-ante-Vermerk zur Erforderlichkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.11. Offene Anbieterzusagen zum System-Einsatz in einer Entscheidungsvorlage bewerten
+
+Bearbeitungsauftrag: Stelle belegte Zusagen und offene Punkte gegenüber. Erstelle daraus eine ausformulierte Entscheidungsvorlage für die Geschäftsleitung mit den unten genannten Handlungsoptionen, jeweiligem Risiko und nächstem Schritt. Empfehlung in 3 Optionen: (1) Freigeben mit Auflagen, (2) Pilotbetrieb mit eingeschränkten Daten, (3) Sperren.
+Prüfschritte: Lies zuerst die Beschreibung des konkreten System-Einsatzes, den Anbietervertrag und vorhandene Antworten auf Vertrags- oder Sicherheitsfragen; Eine ergänzende Anbieteranfrage muss die konkrete unbeantwortete Frage und die betroffene Vertragsstelle benennen; Rückfragen nur zu noch fehlenden, entscheidenden Angaben nach Auswertung des vorhandenen Materials; belegte Angaben nicht erneut erfragen; Jede Option mit Risikoampel und Begründung.
+Lieferstück: Fachvotum zu Offene Anbieterzusagen zum System-Einsatz in einer Entscheidungsvorlage bewerten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.12. TOM und Zertifizierungen prüfen
 

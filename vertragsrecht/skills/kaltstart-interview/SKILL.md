@@ -290,7 +290,7 @@ Anwaltszugang / Nichtjurist/in ohne Anwaltszugang]
 
 ### Kunden-Seite (fremdes Muster / fremde AGB)
 
-*[Falls noch nicht konfiguriert: Hinweis, dass `/vertragsrecht:vertragsrecht-kaltstart-interview --side auftraggeber` auszuführen ist.]*
+*[Falls noch nicht konfiguriert: Hinweis, dass `/vertragsrecht:kaltstart-interview --side auftraggeber` auszuführen ist.]*
 
 [Gleiche Unterstruktur, kalibriert auf Kunden-Seite: was akzeptieren wir
 von Vertragspartnern]
@@ -369,7 +369,7 @@ Zeigen Sie eine Zusammenfassung und bieten Sie an:
 - **Ersten Vertragstest:** "Möchten Sie einen Vertrag einreichen, um zu
  sehen, wie das Playbook funktioniert?"
 - **Hinweis auf Änderbarkeit:** "Das Profil ist eine Textdatei — direkt
- bearbeitbar. Einzelne Positionen ändern: `/vertragsrecht:vertragsrecht-anpassen`."
+ bearbeitbar. Einzelne Positionen ändern: `/vertragsrecht:anpassen`."
 
 ---
 

@@ -3,6 +3,8 @@ name: kaltstart-triage
 description: "Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: selbstvertreter-sozialgericht."
 ---
 
+# Eigenen Sozialgerichtsfall und Verfahrensbedarf einordnen
+
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Selbstvertreter Sozialgericht — Allgemein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.

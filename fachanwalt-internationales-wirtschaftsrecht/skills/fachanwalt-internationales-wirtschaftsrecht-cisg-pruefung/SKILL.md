@@ -3,6 +3,12 @@ name: fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung
 description: "Für Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
+# UN-Kaufrecht für grenzüberschreitende Warenkäufe prüfen
+
+Lies zuerst Vertrag und AGB, Bestell- und Lieferunterlagen, Untersuchungsberichte, Mängelrügen und Schadensbelege. Ordne Niederlassungen, Rechtswahl und den zeitlichen Ablauf mit Fundstellen zu. Liefere ein ausformuliertes CISG-Prüfmemo mit Anwendungsbereich, Anspruchs- und Einwendungsprüfung sowie einer Schnittstellenkarte zu Zuständigkeit und Nachweisen; ergänze nur das beauftragte Rüge-, Aufhebungs- oder Erwiderungsschreiben.
+
+Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Bereits Beantwortetes nicht erneut erheben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+
 ## Mandantenfragen beim Kaltstart
 
 1. Haben beide Parteien ihren Sitz in CISG-Vertragsstaaten (Art. 1 Abs. 1 lit. a CISG) oder verweist das IPR auf das Recht eines CISG-Staates (Art. 1 Abs. 1 lit. b)?

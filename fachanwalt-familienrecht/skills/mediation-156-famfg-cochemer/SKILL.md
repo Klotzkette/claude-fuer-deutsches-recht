@@ -290,7 +290,7 @@ Erhöhung auf EUR 5.000–8.000 bei komplexen Hochkonfliktfällen möglich (Para
 - `fachanwalt-familienrecht-umgangsregelung-mustervorlagen` — Konkrete Umgangsregelungen und Beschlussmuster
 - `fachanwalt-familienrecht-scheidungsantrag-stellen` — Einleitung des Scheidungsverfahrens parallel zur Umgangsregelung
 - `fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen` — Personenstandsrelevante Folgefragen
-- `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt` — Unterhaltsberechnung im Kontext des Sorge-/Umgangsverfahrens
+- `unterhalt-berechnen-und-gegenrechnen` — Unterhaltsberechnung im Kontext des Sorge-/Umgangsverfahrens
 
 ## Quellen
 

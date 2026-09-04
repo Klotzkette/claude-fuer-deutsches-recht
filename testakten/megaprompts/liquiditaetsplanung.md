@@ -185,6 +185,8 @@ Dieser Einstieg routet **Liquiditaetsplanung** vom ersten Sachverhalt zu Rollen,
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Liquiditätsplanung — Power._
 
+# Liquiditätsunterlagen und Planungshorizont einordnen
+
 ## Schnellstart-Workflow
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Liquiditaetsplanung**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.

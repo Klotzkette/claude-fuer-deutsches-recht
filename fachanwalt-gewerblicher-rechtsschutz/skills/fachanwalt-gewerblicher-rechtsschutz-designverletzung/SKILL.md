@@ -3,6 +3,12 @@ name: fachanwalt-gewerblicher-rechtsschutz-designverletzung
 description: "Für Fachanwalt Gewerblicher Rechtsschutz Designverletzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
+# Designverletzungen anhand von Schutzwiedergaben und Produktbelegen prüfen
+
+Lies zuerst die Registerunterlagen, Schutzwiedergaben, Produktabbildungen, Testkaufbelege und die bisherige Korrespondenz. Stelle die konkreten Gestaltungsmerkmale und ihre Belegstellen gegenüber. Liefere eine begründete Verletzungsbewertung mit Gegenargumenten und Beleglücken; bei entsprechendem Auftrag erstelle daraus einen ausformulierten Klage-, Eilantrags- oder Plattformmeldungsentwurf mit eindeutig bezeichnetem Produkt.
+
+Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Bereits Beantwortetes nicht erneut erheben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+
 ## Mandantenfragen beim Kaltstart
 
 1. Welcher Schutztitel liegt vor — eingetragenes deutsches Design (DPMA), eingetragenes Gemeinschaftsgeschmacksmuster (EUIPO) oder nicht eingetragenes Gemeinschaftsgeschmacksmuster (GGV Art. 11, 3 Jahre ab Erstoffenbarung)?

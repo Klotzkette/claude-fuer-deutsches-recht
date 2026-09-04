@@ -333,7 +333,7 @@ Für 2 Anrechte à EUR 16.500: EUR 1.650 × 2 = EUR 3.300 Gesamtzuschlag.
 
 ## Anschluss-Skills
 
-- `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt` — Kindes- und Ehegattenunterhalt nach der Scheidung
+- `unterhalt-berechnen-und-gegenrechnen` — Kindes- und Ehegattenunterhalt nach der Scheidung
 - `fachanwalt-familienrecht-mediation-156-famfg-cochemer` — Mediationsalternative bei Hochkonflikt-Trennungen
 - `fachanwalt-familienrecht-umgangsregelung-mustervorlagen` — Sorge- und Umgangsregelungen im Scheidungsverbund
 - `fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen` — Personenstandsänderungen im Kontext der Scheidung

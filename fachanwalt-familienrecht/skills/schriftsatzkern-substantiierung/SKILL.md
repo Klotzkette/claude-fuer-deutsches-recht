@@ -215,7 +215,7 @@ Vor Versand:
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
+- `familienmandat-aufnehmen-und-sofortmassnahmen-planen` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

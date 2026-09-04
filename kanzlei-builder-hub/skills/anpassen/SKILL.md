@@ -41,7 +41,7 @@ description: "Für /anpassen — Kanzleiprofil und Einstellungen anpassen: ordne
 
 ### Schritt 1: Aktuellen Zustand laden
 
-Konfiguration aus dem Config-Pfad lesen. Wenn die Datei nicht existiert oder noch Platzhalter enthält: den Nutzer auf `/kanzlei-builder-hub:kanzlei-builder-hub-kaltstart-interview` hinweisen.
+Konfiguration aus dem Config-Pfad lesen. Wenn die Datei nicht existiert oder noch Platzhalter enthält: den Nutzer auf `/kanzlei-builder-hub:kaltstart-interview` hinweisen.
 
 ### Schritt 2: Änderungsbereich bestimmen
 
@@ -122,7 +122,7 @@ Zitierweise nach `../references/zitierweise.md`.
 ### Beispiel 1: Neues Rechtsgebiet hinzufügen
 
 ```
-/kanzlei-builder-hub:kanzlei-builder-hub-anpassen --profil
+/kanzlei-builder-hub:anpassen --profil
 
 Aktueller Wert:
  Rechtsgebiet(e): Arbeitsrecht
@@ -140,7 +140,7 @@ Neuer Wert:
 ### Beispiel 2: TOM-Status aktualisieren
 
 ```
-/kanzlei-builder-hub:kanzlei-builder-hub-anpassen --tom
+/kanzlei-builder-hub:anpassen --tom
 
 TOM-Status aktualisieren:
 - Verarbeitungsverzeichnis (Art. 30 DSGVO): in Bearbeitung → vorhanden
@@ -160,7 +160,7 @@ TOM-Status aktualisieren:
 
 ## Was dieser Skill nicht tut
 
-- Das vollständige Interview ersetzen. Bei Ersteinrichtung `/kanzlei-builder-hub:kanzlei-builder-hub-kaltstart-interview` ausführen.
+- Das vollständige Interview ersetzen. Bei Ersteinrichtung `/kanzlei-builder-hub:kaltstart-interview` ausführen.
 - Konfigurationsänderungen ohne explizite Genehmigung vornehmen.
 - Erste Kanzlei-Grunddaten (Kanzleiname, allgemeine Rechtsgebiete) separat von `kanzlei-profil.md` verwalten — diese immer im geteilten Profil ändern.
 

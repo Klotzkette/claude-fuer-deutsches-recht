@@ -140,7 +140,7 @@ Arbeitsgriff Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem
 10.5. Beweislast: Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welches Gericht oder Schiedsgericht ist zuständig, und wo droht ein Parallelverfahren an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Leitfaden Rom I und Rom II, EU-US Data Privacy Framework — Folgen für Verträge, Vergleichsverhandlungs-Strategie für Internationales Wirtschafts- und Schiedsrecht, Antidumpingzoll nach der EU-Grundverordnung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Leitfaden Rom I und Rom II, EU-US Data Privacy Framework — Folgen für Verträge, UN-Kaufrecht für grenzüberschreitende Warenkäufe prüfen, Vergleichsverhandlungs-Strategie für Internationales Wirtschafts- und Schiedsrecht: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -177,13 +177,13 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | --- | --- | --- |
 | Leitfaden Rom I und Rom II | Leitfaden Rom I-VO (593/2008) und Rom II-VO (864/2007): Anknüpfungsregeln vertragliche und außervertragliche Schuldverhältnisse, Eingriffsnormen Artikel 9 Rom I, ordre public Artikel 21 Rom I / Artikel 26 Rom II. | Fachvotum zu Leitfaden Rom I und Rom II mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | EU-US Data Privacy Framework — Folgen für Verträge | Datenschutz-Grundverordnung Artikel 46 — Geeignete Garantien (SCC, BCR) als Fallback. EO 14086 US-Executive Order (07.10.2022) zur Begrenzung des US-Geheimdienst-Zugriffs. | Fachvotum zu EU-US Data Privacy Framework — Folgen für Verträge mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| UN-Kaufrecht für grenzüberschreitende Warenkäufe prüfen | Ordne Niederlassungen, Rechtswahl und den zeitlichen Ablauf mit Fundstellen zu. | Fachvotum zu UN-Kaufrecht für grenzüberschreitende Warenkäufe prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Vergleichsverhandlungs-Strategie für Internationales Wirtschafts- und Schiedsrecht | Sachverhalte aus dem Bereich Internationales Wirtschafts- und Schiedsrecht, in denen eine außergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint. | Verhandlungsblatt zu Vergleichsverhandlungs-Strategie für Internationales Wirtschafts- und Schiedsrecht mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug |
 | Antidumpingzoll nach der EU-Grundverordnung | Bearbeite Antidumpingzoll nach der EU-Grundverordnung als konkreten Vorgang im Gebiet Internationales Wirtschaftsrecht und grenzüberschreitende Fälle. | Fachvotum zu Antidumpingzoll nach der EU-Grundverordnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Gerichtsstand und Rechtswahl prüfen | Enthält der Vertrag eine Gerichtsstandsklausel nach Artikel 25 Brüssel Ia – ist sie schriftlich, bestimmt und wirksam vereinbart? | Fachvotum zu Gerichtsstand und Rechtswahl prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Internationale Prozess-Versandmappe endfertigen | Bestimme, ob an ein deutsches Gericht, ausländisches Gericht, institutionelles oder Ad-hoc-Schiedsgericht eingereicht wird. | Fachvotum zu Internationale Prozess-Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Fachanwalt Internationales Wirtschaftsrecht CISG Prüfung | Haben beide Parteien ihren Sitz in CISG-Vertragsstaaten. Handelt es sich um bewegliche Sachen (Warenkauf) – keine Wertpapiere, Schiffe, Luftfahrzeuge, Elektrizität (Artikel 2 CISG)? | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Sanktions-Compliance | Handelt es sich um Dual-Use-Güter (EG Nummer 428/2009), Hochtechnologie, Software, Luxusgüter oder Rüstungsgüter? | Kontrollvermerk zu Sanktions-Compliance mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
-| Investitionsschiedsverfahren mit Unionsbezug prüfen | Ein Investor beruft sich gegenüber einem Staat auf ein bilaterales Investitionsschutzabkommen, die Energiecharta, das ICSID-Übereinkommen oder eine gesonderte Schiedsvereinbarung. | Fachvotum zu Investitionsschiedsverfahren mit Unionsbezug prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -202,50 +202,50 @@ Prüfschritte: US-Dienstleister (Microsoft, AWS, Google, externer Modellanbieter
 Normbezug aus dem Fachmaterial: US-Dienstleister (Microsoft, AWS, Google, externer Modellanbieter etc.); DPF-Zertifizierungs-Status (Liste DPF-Programm-Office); Datenarten (besondere Kategorien Artikel 9 Datenschutz-Grundverordnung?); Volumen / Umfang der Übermittlung; Vorhandene SCC / BCR; Angemessenheitsbeschluss (EU) 2023/1795.
 Lieferstück: Fachvotum zu EU-US Data Privacy Framework — Folgen für Verträge mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Vergleichsverhandlungs-Strategie für Internationales Wirtschafts- und Schiedsrecht
+### 16.3. UN-Kaufrecht für grenzüberschreitende Warenkäufe prüfen
+
+Bearbeitungsauftrag: Ordne Niederlassungen, Rechtswahl und den zeitlichen Ablauf mit Fundstellen zu. Liefere ein ausformuliertes CISG-Prüfmemo mit Anwendungsbereich, Anspruchs- und Einwendungsprüfung sowie einer Schnittstellenkarte zu Zuständigkeit und Nachweisen; ergänze nur das beauftragte Rüge-, Aufhebungs- oder Erwiderungsschreiben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+Prüfschritte: Lies zuerst Vertrag und AGB, Bestell- und Lieferunterlagen, Untersuchungsberichte, Mängelrügen und Schadensbelege; Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog; Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben; Bereits Beantwortetes nicht erneut erheben.
+Lieferstück: Fachvotum zu UN-Kaufrecht für grenzüberschreitende Warenkäufe prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.4. Vergleichsverhandlungs-Strategie für Internationales Wirtschafts- und Schiedsrecht
 
 Bearbeitungsauftrag: Sachverhalte aus dem Bereich Internationales Wirtschafts- und Schiedsrecht, in denen eine außergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint. Reservation Price auf eigener Seite: untere Grenze der Akzeptanz. ZOPA (Zone of Possible Agreement): geschätzte Schnittmenge zwischen eigener Reservation und der vermuteten Reservation der Gegenseite.
 Prüfschritte: Typische Konstellationen: Cross-Border-Settlement, Mediation Schiedsverfahren; Sowohl in der außergerichtlichen Phase (vor Klage) als auch im laufenden Prozess (Güteverhandlung, Hauptverhandlung); BATNA (Best Alternative to Negotiated Agreement): Was passiert, wenn wir uns nicht einigen; Kosten- und Zeit-Prognose Prozess, Erfolgsaussichten-Quote, Vollstreckungsrisiko; WATNA (Worst Alternative): schlimmster denkbarer Verlauf bei Klage/Klageabweisung.
 Lieferstück: Verhandlungsblatt zu Vergleichsverhandlungs-Strategie für Internationales Wirtschafts- und Schiedsrecht mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
 
-### 16.4. Antidumpingzoll nach der EU-Grundverordnung
+### 16.5. Antidumpingzoll nach der EU-Grundverordnung
 
 Bearbeitungsauftrag: Bearbeite Antidumpingzoll nach der EU-Grundverordnung als konkreten Vorgang im Gebiet Internationales Wirtschaftsrecht und grenzüberschreitende Fälle. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle. Fachstation: Materielle Prüfung nach dem berufenen Recht: bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
 Lieferstück: Fachvotum zu Antidumpingzoll nach der EU-Grundverordnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Gerichtsstand und Rechtswahl prüfen
+### 16.6. Gerichtsstand und Rechtswahl prüfen
 
 Bearbeitungsauftrag: Enthält der Vertrag eine Gerichtsstandsklausel nach Artikel 25 Brüssel Ia – ist sie schriftlich, bestimmt und wirksam vereinbart? Handelt es sich um eine deliktische oder außervertragliche Streitigkeit – gilt Rom II VO? Ist eine der Parteien Verbraucher oder Arbeitnehmer – greifen Sonderschutzmechanismen Artikel 17 ff.
 Prüfschritte: Haben beide Parteien ihren Sitz in EU-Mitgliedstaaten (→ Brüssel Ia VO) oder ist eine Partei in der Schweiz/Norwegen/Island (→ Lugano) oder einem Drittstaat (→ Paragrafen 12 und folgende ZPO)?
 Lieferstück: Fachvotum zu Gerichtsstand und Rechtswahl prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Internationale Prozess-Versandmappe endfertigen
+### 16.7. Internationale Prozess-Versandmappe endfertigen
 
 Bearbeitungsauftrag: Bestimme, ob an ein deutsches Gericht, ausländisches Gericht, institutionelles oder Ad-hoc-Schiedsgericht eingereicht wird. Internationale und örtliche Zuständigkeit, Schiedseinrede und Rechtshängigkeit als eigene Prüffelder führen. Rechtswahl, CISG-Ein- oder Ausschluss und zwingendes Recht vom Verfahrensrecht trennen.
 Prüfschritte: Lies Schriftsatz, Vertrag, Gerichtsstands- oder Schiedsklausel, Zustellungsnachweise und Korrespondenz zuerst; beA ist nur der Übermittlungsweg zu einem teilnehmenden deutschen Gericht; institutionelle Uploadsysteme und ausländische Kanäle werden nach ihrem aktuellen Regelwerk produziert.
 Lieferstück: Fachvotum zu Internationale Prozess-Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Fachanwalt Internationales Wirtschaftsrecht CISG Prüfung
+### 16.8. Fachanwalt Internationales Wirtschaftsrecht CISG Prüfung
 
 Bearbeitungsauftrag: Haben beide Parteien ihren Sitz in CISG-Vertragsstaaten. Handelt es sich um bewegliche Sachen (Warenkauf) – keine Wertpapiere, Schiffe, Luftfahrzeuge, Elektrizität (Artikel 2 CISG)? Liegt eine wesentliche Vertragsverletzung i.S.v.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.8. Sanktions-Compliance
+### 16.9. Sanktions-Compliance
 
 Bearbeitungsauftrag: Handelt es sich um Dual-Use-Güter (EG Nummer 428/2009), Hochtechnologie, Software, Luxusgüter oder Rüstungsgüter? Lagen in der Vergangenheit Geschäftsbeziehungen mit gelisteten Personen vor – besteht Selbstanzeige-Bedarf bei BAFA? Welche internen Compliance-Strukturen bestehen (Screening-Tool, Compliance-Officer, Dokumentationsarchiv)?
 Prüfschritte: In welche Länder soll exportiert/importiert werden – liegt ein Embargo-Land vor (Russland, Iran, Nordkorea, Syrien, Belarus, Kuba, Venezuela)?
 Lieferstück: Kontrollvermerk zu Sanktions-Compliance mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
 
-### 16.9. Investitionsschiedsverfahren mit Unionsbezug prüfen
+### 16.10. Investitionsschiedsverfahren mit Unionsbezug prüfen
 
 Bearbeitungsauftrag: Ein Investor beruft sich gegenüber einem Staat auf ein bilaterales Investitionsschutzabkommen, die Energiecharta, das ICSID-Übereinkommen oder eine gesonderte Schiedsvereinbarung. Die bloße Bezeichnung als ICSID-Verfahren beantwortet weder die unionsrechtliche Wirksamkeit der Zustimmung noch Zuständigkeit, Aufhebung oder Vollstreckbarkeit.
 Lieferstück: Fachvotum zu Investitionsschiedsverfahren mit Unionsbezug prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.10. Schiedsklausel — Prüfung und Gestaltung
-
-Bearbeitungsauftrag: Begründung: Schiedsort ≠ Verhandlungsort; deutsches Recht als lex arbitri bei Frankfurt/München/Hamburg. Anzahl der Schiedsrichter — Einzelschiedsrichter bis ca. EUR Streitwert, Dreiergremium bei höherem Streitwert und mehreren Parteien?
-Prüfschritte: Welche Streitsachen sollen erfasst werden — alle Streitigkeiten aus und im Zusammenhang mit dem Vertrag oder nur bestimmte (z; Qualitätsstreitigkeiten, Preis, IP-Verletzungen); Begründung: zu enge Fassung führt zu parallelen Verfahren, zu weite Fassung kann ungewollte Streitigkeiten erfassen.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.11. Mandant verhandelt internationalen Vertrag und fragt
 

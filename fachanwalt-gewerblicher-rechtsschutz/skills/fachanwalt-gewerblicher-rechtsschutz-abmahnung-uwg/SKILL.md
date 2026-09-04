@@ -3,6 +3,12 @@ name: fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg
 description: "Für Fachanwalt Gewerblicher Rechtsschutz Abmahnung Uwg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
+# Wettbewerbsrechtliche Abmahnungen vorbereiten und abwehren
+
+Lies zuerst die beanstandete Werbung oder Handlung, gesicherte Belege, vorhandene Abmahnschreiben und die Korrespondenz. Entnimm daraus Mandatsseite, konkrete Beanstandung sowie Kenntnis- und Reaktionsdaten. Liefere je nach Auftrag eine ausformulierte Abmahnung, Erwiderung oder einen Eilantragsentwurf mit fallbezogener Begründung und zugeordneten Anlagen; kennzeichne offene Tatsachen und noch ungeprüfte Fristen.
+
+Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Bereits Beantwortetes nicht erneut erheben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+
 ## Mandantenfragen beim Kaltstart
 
 1. Welcher konkrete Wettbewerbsverstoß liegt vor — irreführende Werbung (§ 5 UWG), Rechtsbruch (§ 3a UWG), Spam (§ 7 UWG), aggressive Handlung (§ 4a UWG) oder vergleichende Werbung (§ 6 UWG)?

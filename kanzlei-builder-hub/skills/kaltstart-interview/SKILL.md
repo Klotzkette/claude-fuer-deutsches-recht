@@ -66,7 +66,7 @@ Prüfen ob `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-profil.
 >
 > **2 Minuten** ergibt Rolle und Praxisbereich(e) — plus sinnvolle Standardwerte für Registry-Watchlist, Update-Kadenz und eine standardmäßig zulässige Positivliste. **15 Minuten** fügt ein kalibriertes Starter-Paket passend zu Ihrer Kanzlei hinzu, eine in `positivliste.yaml` geschriebene Vertrauensquellen-Richtlinie, Update-Benachrichtigungseinstellungen und Ihre Rechtsgebiets-/Teamgrößeninformation für Empfehlungen.
 >
-> Schnell oder vollständig? (Jederzeit hochstufen mit `/kanzlei-builder-hub:kanzlei-builder-hub-kaltstart-interview --full`.)
+> Schnell oder vollständig? (Jederzeit hochstufen mit `/kanzlei-builder-hub:kaltstart-interview --full`.)
 
 ### Part 0: Wer nutzt dies, und was ist verbunden
 
@@ -158,8 +158,8 @@ Abschließen mit:
 > Fertig. Ihre Konfiguration liegt unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` — eine Klartextdatei, die Sie direkt lesen und bearbeiten können. Alles kann geändert werden:
 >
 > - Datei direkt bearbeiten für schnelle Änderungen
-> - `/kanzlei-builder-hub:kanzlei-builder-hub-kaltstart-interview --redo` für vollständiges Wiederholungsinterview
-> - `/kanzlei-builder-hub:kanzlei-builder-hub-kaltstart-interview --check-integrations` um Verbindungen erneut zu prüfen
+> - `/kanzlei-builder-hub:kaltstart-interview --redo` für vollständiges Wiederholungsinterview
+> - `/kanzlei-builder-hub:kaltstart-interview --check-integrations` um Verbindungen erneut zu prüfen
 
 ## Quellen und Zitierweise
 

@@ -182,9 +182,9 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Befristungsabrede — qES-Rechtsprechung Stand 2026 | Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach Paragraf 14 Absatz 4 TzBfG. Paragraf 14 Absatz 4 TzBfG — Befristung des Arbeitsvertrags muss schriftlich vereinbart werden. | Fristenblatt zu Befristungsabrede — qES-Rechtsprechung Stand 2026 mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Dokumentations- und Beweisarchitektur | Formerfordernis: Gilt Schriftform (Paragraf 126 BGB), Textform (Paragraf 126b BGB), qES (Paragraf 126a BGB) oder Formfreiheit? | Beweismatrix zu Dokumentations- und Beweisarchitektur mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
 | Amtlicher Formkern BGB/ZPO | Formerfordernis bestimmen: Paragraf 126, Paragraf 126a, Paragraf 126b, Paragraf 127, Paragraf 128 oder Paragraf 129 BGB; Spezialnorm prüfen. Zugang prüfen: Paragraf 130 BGB oder Zustellungsregime der ZPO. | Fachvotum zu Amtlicher Formkern BGB/ZPO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Formgerechten Zugang elektronisch signierter Erklärungen prüfen | Rekonstruiere, welche Fassung wann auf welchem Weg den Empfänger erreicht haben soll. Liefere einen ausformulierten Prüfvermerk, der Form, Zugang und Nachweis getrennt bewertet und konkrete Beleglücken benennt. | Fristenblatt zu Formgerechten Zugang elektronisch signierter Erklärungen prüfen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Prozessablauf — Papier vs. Elektronisch | Formerfordernis: Schriftform (Paragraf 126 BGB), Textform (Paragraf 126b BGB) oder elektronische Form mit qES (Paragraf 126a BGB)? | Fachvotum zu Prozessablauf — Papier vs. Elektronisch mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Verteidigungsstrategie bei Formangriff | Verteidigung Formverstoß Paragrafen 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (Paragraf 311b BGB) Nachholung der Form Paragraf 242 BGB Treuwidrigkeitseinwand. | Fachvotum zu Verteidigungsstrategie bei Formangriff mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Kündigung per Schriftsatz — Zustellung und Formfragen | Anwalt versendet oder empfängt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Output: Form- und Zugangsmatrix mit Zustellungsweg, Vollmachtsrisiko und Empfehlung | Fristenblatt zu Kündigung per Schriftsatz — Zustellung und Formfragen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -226,36 +226,37 @@ Bearbeitungsauftrag: Formerfordernis bestimmen: Paragraf 126, Paragraf 126a, Par
 Prüfschritte: Erklärung bestimmen: Vertrag, Kündigung, Bürgschaft, Rücktritt, Anfechtung, Schriftsatzerklärung.
 Lieferstück: Fachvotum zu Amtlicher Formkern BGB/ZPO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Prozessablauf — Papier vs. Elektronisch
+### 16.7. Formgerechten Zugang elektronisch signierter Erklärungen prüfen
+
+Bearbeitungsauftrag: Rekonstruiere, welche Fassung wann auf welchem Weg den Empfänger erreicht haben soll. Liefere einen ausformulierten Prüfvermerk, der Form, Zugang und Nachweis getrennt bewertet und konkrete Beleglücken benennt; ordne die nachfolgende Entscheidung erst nach Prüfung des maßgeblichen Zeitpunkts und der amtlichen Quellen ein. Paragraf 568 Absatz 1 BGB — Schriftform der Wohnraummiete-Kündigung.
+Prüfschritte: Lies zuerst die Erklärung im vorliegenden Dateiformat, Signaturprüfberichte, Übermittlungs- und Empfangsnachweise sowie gerichtliche Zustellungsunterlagen.
+Lieferstück: Fristenblatt zu Formgerechten Zugang elektronisch signierter Erklärungen prüfen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
+
+### 16.8. Prozessablauf — Papier vs. Elektronisch
 
 Bearbeitungsauftrag: Formerfordernis: Schriftform (Paragraf 126 BGB), Textform (Paragraf 126b BGB) oder elektronische Form mit qES (Paragraf 126a BGB)? Zugangsrisiko: Welcher Versandweg bietet den sichersten Zugangsbeweis (Bote, Einschreiben/Rückschein, qES-Protokoll)? Dringlichkeit: Gilt eine Frist, bei der der Zugang beweissicher vor Fristablauf erfolgen muss?
 Prüfschritte: Erklärungstyp: Kündigung, Vertragsschluss, Maklerwiderruf, Bürgschaft oder sonstige Erklärung mit Formerfordernis?
 Lieferstück: Fachvotum zu Prozessablauf — Papier vs. Elektronisch mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Verteidigungsstrategie bei Formangriff
+### 16.9. Verteidigungsstrategie bei Formangriff
 
 Bearbeitungsauftrag: Verteidigung Formverstoß Paragrafen 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (Paragraf 311b BGB) Nachholung der Form Paragraf 242 BGB Treuwidrigkeitseinwand (Berufung auf Formmangel wer selbst arglistig handelte) Beweislastverteilung. Output: Verteidigungsstrategie-Memo und Klausel-Änderungsvorschläge.
 Lieferstück: Fachvotum zu Verteidigungsstrategie bei Formangriff mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Kündigung per Schriftsatz — Zustellung und Formfragen
+### 16.10. Kündigung per Schriftsatz — Zustellung und Formfragen
 
 Bearbeitungsauftrag: Anwalt versendet oder empfängt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Output: Form- und Zugangsmatrix mit Zustellungsweg, Vollmachtsrisiko und Empfehlung.
 Normbezug aus dem Fachmaterial: Prüfe Schriftform, beA, qES, Paragraf 130a ZPO, Paragraf 130e ZPO, Paragraf 46h ArbGG, Paragraf 173 ZPO, Paragraf 186 ZPO, Paragraf 298 Absatz 3 ZPO und Paragraf 174 BGB.
 Lieferstück: Fristenblatt zu Kündigung per Schriftsatz — Zustellung und Formfragen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.10. Gewerberaummiete: Langzeitform nach Paragraf 578 und 550 BGB
+### 16.11. Gewerberaummiete: Langzeitform nach Paragraf 578 und 550 BGB
 
 Bearbeitungsauftrag: Kläre nur die Weichen, die Formstatus oder Rechtsfolge verändern.
 Prüfschritte: Lies zuerst Mietvertrag, Nachträge, Anlagen, E-Mails und Übergabeunterlagen; Frage nicht erneut nach Angaben, die aus den Dokumenten hervorgehen.
 Normbezug aus dem Fachmaterial: Prüfe langfristige Gewerberaum- und Grundstücksmietverträge nach Paragraf 578 in Verbindung mit Paragraf 550 BGB: Textform, Vertragskette, Nachträge, Laufzeit und Kündigungsrisiko; Liefere Formstatus, Belegmatrix und belastbaren nächsten Schritt.
 Lieferstück: Fachvotum zu Gewerberaummiete: Langzeitform nach Paragraf 578 und 550 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB
+### 16.12. Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB
 
 Bearbeitungsauftrag: Bearbeite Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB: anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
 Lieferstück: Fristenblatt zu Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
-
-### 16.12. Klauselgenerator — Formvorbehalt und Änderungsvorbehalt
-
-Bearbeitungsauftrag: Bearbeite Klauselgenerator — Formvorbehalt und Änderungsvorbehalt: anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.

@@ -33,7 +33,7 @@ die eigentliche Obligationenanalyse erfolgt im Gespräch, nicht aus einer fest c
 ## Ablauf
 
 1. **Konfiguration lesen.** Prüfen, ob das Praxisprofil vorhanden und befüllt ist. Fehlen
- `[PLATZHALTER]`-Marker, Nutzer an `/ki-governance:ki-governance-kaltstart-interview` verweisen.
+ `[PLATZHALTER]`-Marker, Nutzer an `/ki-governance:kaltstart-interview` verweisen.
 
 2. **Inventar lesen.** Liegt unter `ki-systeme.yaml`. Existiert die Datei nicht, bei erstem
  `add`-Befehl mit leerem `systeme:`-Block anlegen.

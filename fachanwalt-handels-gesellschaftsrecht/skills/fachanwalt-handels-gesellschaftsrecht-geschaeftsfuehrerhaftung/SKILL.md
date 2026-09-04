@@ -3,6 +3,12 @@ name: fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung
 description: "Für Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
+# Geschäftsführerhaftung aus Organakten und Schadensbelegen prüfen
+
+Lies zuerst die Organ- und Beschlussunterlagen, den beanstandeten Geschäftsvorgang, Schadensbelege und vorhandene Versicherungsunterlagen. Bestimme Mandatsseite, betroffenen Zeitraum und den konkreten Haftungsvorwurf. Liefere einen ausformulierten Haftungsvermerk mit Anspruchsprüfung, Entlastungsargumenten und nachvollziehbarer Schadenszuordnung; bei Klageauftrag ergänze den fallbezogenen Schriftsatz mit Beweisangeboten und Anlagen.
+
+Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Bereits Beantwortetes nicht erneut erheben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+
 ## Mandantenfragen beim Kaltstart
 
 1. Welche Rechtsform ist betroffen — GmbH (§ 43 GmbHG), AG (§ 93 AktG), GmbH & Co. KG (§ 43 GmbHG analog)?

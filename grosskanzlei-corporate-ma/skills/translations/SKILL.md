@@ -22,7 +22,7 @@ Typische Auslöser:
 - "Mach daraus eine Partner-/Mandantenunterlage mit Risiken, Annahmen und offenen Punkten."
 - "Welche Dokumente, Registerauszüge, Freigaben oder Fristen fehlen noch?"
 
-Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-kommandocenter` oder `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
+Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/grosskanzlei-corporate-ma:kommandocenter` oder `/grosskanzlei-corporate-ma:deal-intake`. Wenn der Nutzer ausdrücklich nur eine kurze Sprachfassung, Übersetzung oder E-Mail will, arbeite knapp und route nicht in einen Deep-Dive.
 
 ## Voraussetzungen und Kontext laden
 Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/grosskanzlei-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle der Kanzlei, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Jurisdiktionen, Signing-/Closing-Zeitplan, Vertraulichkeitsstufe und gewünschtes Output-Format.
@@ -79,11 +79,11 @@ Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Que
 
 ## Hand-Off zu anderen Skills
 Nach diesem Skill weiter mit:
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-regulatory-fdi-merger-control` - wenn Fusionskontrolle, AWV/FDI oder Vollzugsverbot die Deal-Timeline steuern.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-conflict-gwg-sanctions` - wenn Mandatsannahme, GwG, Sanktionen oder Interessenkonflikte ungeklärt sind.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-public-ma-kapitalmarkt-mar` - wenn MAR, WpÜG oder kapitalmarktrechtliche Veröffentlichungspflichten betroffen sind.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-rechtsprechungsrecherche` - als fachlicher Anschluss-Skill.
-- `/grosskanzlei-corporate-ma:grosskanzlei-corporate-ma-steps-plan-pmo` - wenn Termine, CPs, Freigaben und Owner in einen belastbaren Transaktionsplan müssen.
+- `/grosskanzlei-corporate-ma:regulatory-fdi-merger-control` - wenn Fusionskontrolle, AWV/FDI oder Vollzugsverbot die Deal-Timeline steuern.
+- `/grosskanzlei-corporate-ma:conflict-gwg-sanctions` - wenn Mandatsannahme, GwG, Sanktionen oder Interessenkonflikte ungeklärt sind.
+- `/grosskanzlei-corporate-ma:public-ma-kapitalmarkt-mar` - wenn MAR, WpÜG oder kapitalmarktrechtliche Veröffentlichungspflichten betroffen sind.
+- `/grosskanzlei-corporate-ma:rechtsprechungsrecherche` - als fachlicher Anschluss-Skill.
+- `/grosskanzlei-corporate-ma:steps-plan-pmo` - wenn Termine, CPs, Freigaben und Owner in einen belastbaren Transaktionsplan müssen.
 
 ## Was dieser Arbeitsgang nicht macht
 - Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.

@@ -65,7 +65,7 @@ Die NDA erfüllt jede Position im Playbook, kein Punkt löst ein ROT aus. Vor GR
 
 **GRÜN setzt anwaltlich geprüfte Playbook-Positionen voraus.** GRÜN ist der einzige Weg zur Unterzeichnung ohne erneute anwaltliche Prüfung. Ohne geprüfte Positionen in der CLAUDE.md:
 
-> Ich kann GRÜN ohne anwaltlich geprüfte NDA-Positionen im Praxisprofil nicht vergeben. Bitte `/vertragsrecht:vertragsrecht-kaltstart-interview` mit dem Syndikusanwalt/Außenanwalt ausführen, oder diese NDA zur anwaltlichen Prüfung vorlegen. GRÜN gegen Standardwerte vergeben bedeutet, dass ein Nicht-Jurist die Positionen gesetzt hat, auf die der nächste Nicht-Jurist vertraut.
+> Ich kann GRÜN ohne anwaltlich geprüfte NDA-Positionen im Praxisprofil nicht vergeben. Bitte `/vertragsrecht:kaltstart-interview` mit dem Syndikusanwalt/Außenanwalt ausführen, oder diese NDA zur anwaltlichen Prüfung vorlegen. GRÜN gegen Standardwerte vergeben bedeutet, dass ein Nicht-Jurist die Positionen gesetzt hat, auf die der nächste Nicht-Jurist vertraut.
 
 **Ausgabe (GRÜN):**
 
