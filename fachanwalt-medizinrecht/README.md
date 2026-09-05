@@ -56,6 +56,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
 | [Geburtsschaden Helene Meinhardt — Evangelisches Klinikum Bad Salzdetfurth](../testakten/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum/README.md) | [Gesamt-PDF](../testakten/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum/gesamt-pdf/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum_gesamt.pdf) | [`testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum.zip) | [`testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum-einzelpdfs.zip) |

@@ -87,6 +87,7 @@ def main() -> int:
     combined_tmp = combined.with_name(f".{combined.name}.tmp")
     try:
         with zipfile.ZipFile(combined_tmp, "w", zipfile.ZIP_DEFLATED) as zf:
+            write_bytes(zf, NOTICE_BYTES, NOTICE_FILENAME)
             for name, zip_path in built:
                 write_file(zf, zip_path, zip_path.name)
         combined_tmp.replace(combined)

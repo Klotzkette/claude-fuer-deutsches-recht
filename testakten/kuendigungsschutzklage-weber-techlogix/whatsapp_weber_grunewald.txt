@@ -1,7 +1,11 @@
-WhatsApp-Chatverlauf (Export)
+WhatsApp-Chat mit Felix Grunewald
 Teilnehmer: Marcus Weber / Felix Grunewald (Kollege, IT-Administrator)
-Exportiert am 05.05.2026, übergeben an RA Steinhauer
-Hinweis: privater Handy-Export, ungekürztt
+Quelle: privates Mobiltelefon von Marcus Weber
+Exportiert am 05.05.2026 durch Marcus Weber, ohne Medien
+Enthaltener Zeitraum: 30.04.2026 bis 05.05.2026
+Gerätezeitzone: Europe/Berlin (MESZ, UTC+02:00)
+Textdatei: UTF-8
+Weitergabe: RA Steinhauer
 
 [30.04.2026, 18:52:11] Marcus Weber: Hast du es schon gehört? Ich habe heute die Kündigung im Briefkasten gehabt. Betriebsbedingt, wegen Outsourcing.
 [30.04.2026, 19:07:44] Felix Grunewald: Was?? Nein, im Ernst? Mir hat Frau Kreutzfeldt letzte Woche gesagt, mein Job sei sicher, sie brauche mich für die Übergabe an DataFlow.
@@ -10,3 +14,18 @@ Hinweis: privater Handy-Export, ungekürztt
 [30.04.2026, 19:12:20] Marcus Weber: Genau das denke ich auch. Ich habe zwei Kinder und bin acht Jahre da.
 [30.04.2026, 19:14:05] Felix Grunewald: Sag deinem Anwalt Bescheid. Wenn es hilft, bestätige ich schriftlich was Kreutzfeldt zu mir gesagt hat.
 [30.04.2026, 19:15:31] Marcus Weber: Danke Felix. Das könnte wichtig werden.
+[30.04.2026, 19:17:08] Felix Grunewald: Zu wann denn?
+[30.04.2026, 19:18:26] Marcus Weber: 31. August. Und bis dahin soll ich weiterarbeiten.
+[30.04.2026, 19:19:04] Felix Grunewald: Steht das so im Brief?
+[30.04.2026, 19:21:17] Marcus Weber: Ja. Ich lese den gerade zum dritten Mal.
+[30.04.2026, 19:23:09] Felix Grunewald: Kann ich dich kurz anrufen?
+[30.04.2026, 19:24:32] Marcus Weber: Heute lieber nur schreiben. Ich muss das erst mal zu Hause erzählen.
+[30.04.2026, 19:25:06] Felix Grunewald: Okay. Meld dich, wenn es passt.
+[04.05.2026, 18:06:42] Felix Grunewald: Hast du inzwischen einen Termin bekommen?
+[04.05.2026, 18:12:03] Marcus Weber: Mittwoch bei Steinhauer.
+[04.05.2026, 18:14:28] Felix Grunewald: Okay. Hast du das Schreiben griffbereit?
+[04.05.2026, 18:17:51] Marcus Weber: Ja, das kommt mit dem Arbeitsvertrag in die Mappe.
+[05.05.2026, 19:40:12] Marcus Weber: Ich nehme unseren Verlauf morgen auch mit, damit ich nicht alles aus dem Kopf erzählen muss.
+[05.05.2026, 19:44:08] Felix Grunewald: Ja, mach das.
+[05.05.2026, 19:45:33] Marcus Weber: Danke dir. Ich melde mich danach.
+[05.05.2026, 19:46:10] Felix Grunewald: Alles klar, bis dann.

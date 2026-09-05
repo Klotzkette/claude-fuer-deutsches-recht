@@ -5,8 +5,8 @@ Jede testakten/<slug>/ Akte muss genau das Standard-Gesamt-PDF
 gesamt-pdf/<slug>_gesamt.pdf enthalten. Das PDF muss groesser als 1 KB sein,
 mit %PDF beginnen, ein EOF-Marker haben und im README verlinkt sein.
 
-Der Check prüft zusätzlich mit pypdf, dass der verbindliche zweisprachige
-Hinweis auf der ersten Seite steht und im Gesamt-PDF genau einmal vorkommt.
+Der Check prüft zusätzlich mit pypdf, dass keine alten Hinweisblätter im
+Akteninhalt verblieben sind. Herkunftshinweise stehen neben den Downloads.
 """
 
 from __future__ import annotations
@@ -14,7 +14,7 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
-from testakte_disclaimer import pdf_notice_errors
+from testakte_disclaimer import pdf_content_errors
 
 ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = ROOT / "testakten"
@@ -71,7 +71,7 @@ def main() -> int:
         pdf = TESTAKTEN / slug / "gesamt-pdf" / f"{slug}_gesamt.pdf"
         if not path_exists(pdf):
             continue
-        for notice_problem in pdf_notice_errors(read_bytes(pdf), exactly_once=True):
+        for notice_problem in pdf_content_errors(read_bytes(pdf)):
             errors.append(f"{slug}: {notice_problem}: {pdf.relative_to(ROOT)}")
     dirs = sorted(d for d in TESTAKTEN.iterdir() if d.is_dir() and d.name not in SKIP_DIRS)
     for d in dirs:
@@ -91,7 +91,7 @@ def main() -> int:
         if problem:
             errors.append(f"{slug}: {problem}: {pdf.relative_to(ROOT)}")
         else:
-            for notice_problem in pdf_notice_errors(read_bytes(pdf), exactly_once=True):
+            for notice_problem in pdf_content_errors(read_bytes(pdf)):
                 errors.append(f"{slug}: {notice_problem}: {pdf.relative_to(ROOT)}")
         readme_candidates = [d / "README.md"] + sorted(d.glob("00_*.md")) + sorted(d.glob("aktenuebersicht*.md"))
         readme = next((p for p in readme_candidates if path_exists(p)), None)

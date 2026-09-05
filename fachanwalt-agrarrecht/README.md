@@ -56,6 +56,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
 | [Ökolandbau-Förderrückforderung / Hofgemeinschaft Driessen — Niederrhein](../testakten/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein/README.md) | [Gesamt-PDF](../testakten/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein/gesamt-pdf/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein_gesamt.pdf) | [`testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip) | [`testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein-einzelpdfs.zip) |

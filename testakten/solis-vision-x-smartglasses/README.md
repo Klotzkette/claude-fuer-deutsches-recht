@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/solis-vision-x-smartglasses_gesamt.pdf`](gesamt-pdf/solis-vision-x-smartglasses_gesamt.pdf) |
@@ -20,6 +24,10 @@ English: The original-format ZIP contains the working files directly at archive 
 <!-- END gesamt-pdf-section (autogen) -->
 
 ## ⬇️ Direkt-Download
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Akte | Direkt-Download |
 | --- | --- |
@@ -45,18 +53,15 @@ Die Klägerin verlangt **Rückzahlung des Kaufpreises Zug um Zug gegen Rückgabe
 
 Die Beklagte wendet ein, ihre AGB sehen Schweizer Recht und Gerichtsstand Zürich vor, hilfsweise sei ein Sachmangel zu verneinen, weil die Brille technisch einwandfrei funktioniere.
 
-## Prüfschwerpunkte
+## Streitgegenstände und Unterlagen
 
-| Prüfschwerpunkt | Wo es vorkommt |
-|---|---|
-| **Internationale Zuständigkeit** | EuGVVO/Brussel Ia, Artikel 17 ff. Verbrauchergerichtsstand (hier nicht, Klägerin ist Verein); Artikel 7 Nummer 1 b EuGVVO Erfüllungsort Lieferort Hamburg |
-| **Anwendbares Recht** | Rom-I Artikel 4 Absatz 1 a Verkäufersitz CH → Schweizer Recht; aber Artikel 6 CISG; **CISG anwendbar**, weil beide Staaten Vertragsstaaten und kein wirksamer Ausschluss |
-| **AGB-Kollision** | Knock-out-Doktrin (BGH herrschende Meinung); Schweizer AGB enthalten Schweizer Recht, deutsche AGB der Klägerin enthalten deutsches Recht → beide Rechtswahlklauseln fallen weg, Artikel 6 CISG nicht erfüllt → CISG gilt direkt |
-| **Incoterms FOB Galway** | Gefahrübergang **vor** EU-Eintritt (Artikel 67 Absatz 1 CISG); aber: Sachmangel bestand bereits bei Gefahrübergang (Software-Defekt im Werk verbaut), Artikel 36 CISG |
-| **Sachmangel und DSGVO** | Artikel 35 CISG: Vertragsmäßigkeit. Rechtsfrage: Macht ein **EU-rechtlich verbotenes Verhalten der Software** die Ware mangelhaft? Argumentation über Artikel 35 Absatz 2 b CISG (Eignung für einen besonderen Zweck) und Artikel 35 Absatz 2 a CISG (übliche Verwendung) |
-| **DSGVO als Eingriffsnorm** | Artikel 9 Rom-I Eingriffsnormen; Erwägungsgrund 81 Rom-I; **DSGVO findet trotz Schweizer Rechtswahl Anwendung** (Marktortprinzip Artikel 3 Absatz 2 DSGVO) |
-| AG-Zuständigkeit | Streitwert 1.577 Euro; Paragraf 23 Nummer 1 GVG (bis einschließlich 10.000 Euro); Amtsgericht Hamburg |
-| **Berufung** | Wert der Beschwer prüfen; bei 1577 EUR unterhalb 600 EUR ist Berufung nicht ohne Zulassung statthaft → Berufung muss zugelassen werden, Paragraf 511 Absatz 4 ZPO; ABER: hier Wert über 600 EUR → Berufung statthaft |
+| Gegenstand | Aktenmaterial |
+| --- | --- |
+| Zuständigkeit und Rechtswahl | Parteisitze, AGB beider Seiten und Bestellbestätigung |
+| Vertragsinhalt und Lieferung | Vertragskorrespondenz und Lieferklausel FOB Galway |
+| Zustand der Brille | Gerätespezifikation, Sachverständigengutachten und Supportantwort |
+| Datenübertragung | Messprotokoll, Serverangaben und Screenshots der Benutzeroberfläche |
+| Anträge und Gegenpositionen | Klage, Erwiderung, Replik und Duplik |
 
 ## Aktenordner
 
@@ -65,7 +70,6 @@ Die Beklagte wendet ein, ihre AGB sehen Schweizer Recht und Gerichtsstand Züric
 | `eingang/` | Klagschrift, Klageerwiderung, Replik, Duplik, Schriftsatznachreichungen |
 | `gerichtsakte/` | Aktenübersicht, Verfügungen, Protokoll mündliche Verhandlung, Beweisbeschluss |
 | `beweismittel/` | AGB beide Parteien, Bestellbestätigung mit FOB Galway, Gutachten, Screenshots, Gerät-Spezifikation |
-| `output/` | Hier landen Relationsgutachten, Tenorentwurf, Urteilsentwurf, DOCX/PDF |
 | `referenzen/` | CISG-Volltext (Verweis), Rom-I-Verweis, DSGVO-Verweis, Workflow-Vermerk |
 | [`anlage_k5_email_support_lir_optics.eml`](anlage_k5_email_support_lir_optics.eml) | Support-Antwort der Beklagten zu Aufnahme-Symbol, Cloud-Buffering, Serverstandorten und Face Insights |
 | [`anlage_k6_messprotokoll_datenuebertragung.csv`](anlage_k6_messprotokoll_datenuebertragung.csv) | Roh-Messprotokoll des Sachverständigen zu Datenübertragungen des Testgeräts in die USA und nach Singapur |

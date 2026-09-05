@@ -37,7 +37,7 @@ from testakte_einzelpdf_common import (
     ext_of,
 )
 from testakte_office_pdf import OFFICE_EXTS, OfficeRenderError, render_office, render_office_batch
-from testakte_disclaimer import prepend_notice_page
+from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME, without_notice_pages
 
 SCRIPTS = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPTS.parent
@@ -128,8 +128,8 @@ def render_document_pdf(
     """
     ext = ext_of(path)
     if ext in COPY_EXTS:
-        data = normalize_pdf_to_a4(path.read_bytes(), path.name)
-        return prepend_notice_page(data, testakte_dir.name)
+        data = without_notice_pages(path.read_bytes())
+        return normalize_pdf_to_a4(data, path.name)
 
     if ext in OFFICE_EXTS:
         try:
@@ -138,7 +138,7 @@ def render_document_pdf(
             raise G.DocumentRenderError(f"{path.name}: {exc}") from exc
         if native is not None:
             data = normalize_pdf_to_a4(native, path.name)
-            return prepend_notice_page(data, testakte_dir.name)
+            return without_notice_pages(data)
 
     rel = path.relative_to(testakte_dir)
     flow: list = [Paragraph(f"<b>Datei:</b> {G.escape(str(rel))}", G.s_meta), Spacer(1, 6)]
@@ -184,7 +184,7 @@ def render_document_pdf(
         if not list(G.PdfReader(io.BytesIO(data)).pages):
             raise G.DocumentRenderError("erzeugtes PDF enthält keine Seite")
         data = normalize_pdf_to_a4(data, str(rel))
-        return prepend_notice_page(data, testakte_dir.name)
+        return without_notice_pages(data)
     except Exception as exc:
         if isinstance(exc, G.DocumentRenderError):
             raise
@@ -199,6 +199,9 @@ def add_testakte_many(zipfiles: list[zipfile.ZipFile], testakte_dir: Path) -> in
     """Rendert jede Quelle einmal und schreibt sie in mehrere Zielarchive."""
     count = 0
     pairs = document_arcname_pairs(testakte_dir)
+    if pairs:
+        for zipf in zipfiles:
+            write_pdf(zipf, NOTICE_FILENAME, NOTICE_BYTES)
     try:
         office_cache = render_office_batch([path for path, _ in pairs])
     except OfficeRenderError as exc:
@@ -295,9 +298,10 @@ def main() -> None:
         with zipfile.ZipFile(
             all_tmp, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=1
         ) as combined:
+            write_pdf(combined, NOTICE_FILENAME, NOTICE_BYTES)
             for archive in bundle_archives:
                 with zipfile.ZipFile(archive) as individual:
-                    combined_pdfs += len(individual.infolist())
+                    combined_pdfs += sum(name.lower().endswith(".pdf") for name in individual.namelist())
                 write_archive(combined, archive)
         all_tmp.replace(all_out)
     except Exception:

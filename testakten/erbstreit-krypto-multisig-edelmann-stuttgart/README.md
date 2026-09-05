@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf`](gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf) |
@@ -31,7 +35,7 @@ Arbeitsakte zum Plugin `fachanwalt-erbrecht`.
 - Multisig-Problem: 5 Schlüssel verteilt auf Erblasser (Stick bei Marlies), Constantin, Marlies (bestreitet Erhalt), verstorbenen RA Trotz (Kanzleinachlass unbekannt), Bankschließfach Volksbank Esslingen (blockiert bis Erbschein + Einstimmigkeit).
 - Constantin droht eigenständigem Wallet-Zugriff; einstweilige Verfügung und Sicherungsantrag Paragraf 1960 BGB vorbereitet.
 - Lebzeitige Schenkungen 2018–2024 an alle Kinder (Constantin: 380 TEUR Bargeld + mutmaßliche Krypto-Auszahlungen; Henrike: ETW Konstanz 320 TEUR/heute 580 TEUR; Marie-Theres: 40 TEUR Pflichtteilsverzichtsabfindung).
-- Marie-Theres droht Anfechtung ihres Pflichtteilsverzichts von 2020 wegen Krypto-Wertentwicklung (Geschäftsgrundlage Paragraf 313 BGB); Erfolgsaussichten gering.
+- Marie-Theres kündigt an, ihren Pflichtteilsverzicht von 2020 wegen der späteren Krypto-Wertentwicklung anzugreifen.
 - Testamentsvollstrecker RA Trotz ist 2023 verstorben; kein Ersatz benannt; Paragraf 2200 BGB als Option.
 - Erbschaftsteuerbelastung geschätzt ca. 484 TEUR gesamt; Anzeigepflicht Paragraf 30 ErbStG bis 28.06.2025.
 - Mandat: Dr. Henrike Edelmann (Internistin, Konstanz) bei Kanzlei Klotzkette Rechtsanwaltsgesellschaft mbH, Berlin; RAin Sabine Steinkamp, Fachanwältin Erbrecht.
@@ -121,6 +125,10 @@ Arbeitsakte zum Plugin `fachanwalt-erbrecht`.
 | [`emails/2025-05-22_strecker_an_kanzlei_wohnrecht.eml`](emails/2025-05-22_strecker_an_kanzlei_wohnrecht.eml) | RA Strecker (Marlies) → Kanzlei, Wohnrecht, Voraus Paragraf 1932, Stick |
 
 ### Gutachten und behördliche Schriftstücke (PDF)
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Datei | Inhalt |
 |---|---|

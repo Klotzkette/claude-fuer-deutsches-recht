@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/schwerbehindertenrecht-autismus-adhs-arbeitsleben-wuppertal_gesamt.pdf`](gesamt-pdf/schwerbehindertenrecht-autismus-adhs-arbeitsleben-wuppertal_gesamt.pdf) |
@@ -25,7 +29,7 @@ Enthalten sind ausformulierte Aktenstücke, Bescheide, medizinische oder betrieb
 
 ## Kurzbild
 
-Julian Arendt, geboren am 28.07.1988, technischer Zeichner bei der Bergische Anlagenbau GmbH in Wuppertal, hat 2025 die Spätdiagnose Autismus-Spektrum-Störung erhalten; hinzu kommen ADHS, eine rezidivierende depressive Störung und eine chronische Migräne. Nach einem Änderungsantrag vom 11.03.2026 hat das Versorgungsamt Wuppertal mit Bescheid vom 19.06.2026 den Grad der Behinderung unverändert bei 30 belassen und ein Merkzeichen abgelehnt. Der Streit dreht sich um die Bildung des Gesamt-GdB nach den Versorgungsmedizinischen Grundsätzen: Der Ärztliche Dienst setzt die führende Autismus-Spektrum-Störung nur mit einem Einzel-GdB von 30 an, während der behandelnde Facharzt und die Autismusambulanz einen führenden Einzel-GdB von 40 und für die eigenständige depressive Störung 30 vertreten. Wird integrativ und nicht additiv gebildet, ist ein Gesamt-GdB von 50 und damit die Schwerbehinderteneigenschaft plausibel. Parallel laufen ein betriebliches Eingliederungsmanagement, ein drohender Arbeitsplatzkonflikt und die Prüfung von Gleichstellung, Teilhabe am Arbeitsleben und Reha.
+Julian Arendt, geboren am 28.07.1988, technischer Zeichner bei der Bergische Anlagenbau GmbH in Wuppertal, hat 2025 die Spätdiagnose Autismus-Spektrum-Störung erhalten; hinzu kommen ADHS, eine rezidivierende depressive Störung und eine chronische Migräne. Nach einem Änderungsantrag vom 11.03.2026 hat das Versorgungsamt Wuppertal mit Bescheid vom 19.06.2026 den Grad der Behinderung unverändert bei 30 belassen und ein Merkzeichen abgelehnt. Der Streit dreht sich um die Bildung des Gesamt-GdB nach den Versorgungsmedizinischen Grundsätzen: Der Ärztliche Dienst setzt die führende Autismus-Spektrum-Störung nur mit einem Einzel-GdB von 30 an, während der behandelnde Facharzt und die Autismusambulanz einen führenden Einzel-GdB von 40 und für die eigenständige depressive Störung 30 vertreten. Die ärztlichen Stellungnahmen gewichten die Beeinträchtigungen unterschiedlich. Parallel laufen ein betriebliches Eingliederungsmanagement, ein drohender Arbeitsplatzkonflikt und die Prüfung von Gleichstellung, Teilhabe am Arbeitsleben und Reha.
 
 ## Beteiligte
 
@@ -67,4 +71,4 @@ schwerbehindertenrecht-autismus-adhs-arbeitsleben-wuppertal/
 
 ## Bearbeitungsziel
 
-Aus der GdB-Bewertungstabelle, der versorgungsärztlichen Stellungnahme und dem fachärztlichen Befund ist die (Fehl-)Bildung des Gesamt-GdB nachzurechnen: Der Gesamt-GdB wird nicht addiert, sondern integrativ aus dem führenden Einzel-GdB gebildet. Herauszuarbeiten ist, dass ein führender Einzel-GdB von 40 zusammen mit der eigenständigen depressiven Störung plausibel einen Gesamt-GdB von 50 ergibt, während der Bescheid bei 30 verharrt. Zusätzlich sind Gleichstellung, Teilhabe am Arbeitsleben und die Abgrenzung zur Erwerbsminderungsrente zu prüfen. Die Diskrepanz zwischen den Einzel-GdB des Ärztlichen Dienstes und den fachärztlichen Werten gehört zur Beweiswürdigung.
+Die Tabelle stellt die Einzelwerte des Facharztes und des Versorgungsamts nebeneinander. Die vollständigen Befunde, die versorgungsärztliche Stellungnahme und Unterlagen zum Arbeitsplatz stehen für eine eigenständige Auswertung bereit. Eine Gesamtbewertung ist nicht vorgegeben.

@@ -43,6 +43,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 ## Downloads
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`richter-bverfg-verfassungsbeschwerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-bverfg-verfassungsbeschwerden.zip) |

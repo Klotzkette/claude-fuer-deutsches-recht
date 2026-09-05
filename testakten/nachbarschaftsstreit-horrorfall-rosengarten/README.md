@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf`](gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf) |
@@ -83,6 +87,10 @@ Originalformat aus dem Mailprogramm, mit Headern, Datum, From/To, Betreff.
 
 Beides liegt vor — der Standard-Export als Textdatei und ein visuell gerenderter Screenshot-Scan, wie er typischerweise als PDF in die Akte gelangt.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Datei | Inhalt |
 |---|---|
 | [`whatsapp/whatsapp_chat_mit_stefan_kessler.txt`](whatsapp/whatsapp_chat_mit_stefan_kessler.txt) | Standard-WhatsApp-Export, 20 Nachrichten 06.–12.05.2025 |
@@ -113,6 +121,10 @@ Beides liegt vor — der Standard-Export als Textdatei und ein visuell gerendert
 | [`docx/12_vergleichsentwurf_rosengartenfrieden.docx`](docx/12_vergleichsentwurf_rosengartenfrieden.docx) | Vergleichsentwurf mit 8 Paragraphen |
 
 ### Gutachten und Behördenpost (PDF)
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Datei | Inhalt |
 |---|---|

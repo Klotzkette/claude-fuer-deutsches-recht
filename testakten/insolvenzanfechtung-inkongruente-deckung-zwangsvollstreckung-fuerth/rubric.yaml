@@ -17,41 +17,18 @@ checks:
     check_type: human_review
     description: Einordnung der Barzahlung vom 18.02.2026 und der Kassenpfaendung vom 25.02.2026 als inkongruente
       Deckung.
-    note: Der Bearbeiter erkennt, dass eine im letzten Monat vor dem Eroeffnungsantrag durch oder unter dem Druck
-      der Zwangsvollstreckung erlangte Befriedigung eine Deckung ist, die der Glaeubiger nicht in der Art zu beanspruchen
-      hatte (Paragraf 131 Abs. 1 Nr. 1 InsO), und subsumiert beide Vollstreckungsvorgaenge sauber unter diesen Tatbestand.
   - id: p2-kenntnis-falle-nr1
     check_type: human_review
     description: Fallenpruefung zur Kenntnis-Verteidigung der Gegnerin bei Paragraf 131 Abs. 1 Nr. 1 InsO.
-    note: Der Bearbeiter erkennt, dass die von der Erwiderung breit ausgefuehrte fehlende Kenntnis von der Krise
-      fuer den Tatbestand des Paragraf 131 Abs. 1 Nr. 1 InsO unerheblich ist, weil dieser weder Zahlungsunfaehigkeit
-      noch Kenntnis voraussetzt, und dass die Kenntnisindizien (Mahnstufen, Ruecklastschrift, abgelehnte Ratenbitte,
-      interner Kreditvermerk) nur fuer die Hilfstatbestaende der Paragrafen 130, 131 Abs. 1 Nr. 2 und 3 InsO Bedeutung
-      haben.
   - id: p3-druckzahlung
     check_type: human_review
     description: Bewertung der Ueberweisung vom 04.03.2026 ueber 20.000 EUR als Druckzahlung.
-    note: Der Bearbeiter arbeitet aus der Indizkette (GV-Zahlungsaufforderung vom 02.03.2026 mit Terminbestimmung
-      auf den 11.03.2026, interne Freigabe-E-Mail vom 03.03.2026, Verwendungszweck zur Abwendung der Vollstreckung)
-      heraus, dass die Zahlung zur Abwendung unmittelbar bevorstehender Vollstreckung erfolgte und deshalb ebenfalls
-      inkongruent ist, und setzt sich mit dem Gegenargument der freiwilligen kongruenten Erfuellung auseinander.
   - id: p4-fristen-139-140
     check_type: human_review
     description: Fristen- und Zeitpunktberechnung nach Paragrafen 139, 140 InsO.
-    note: Der Bearbeiter rechnet die Monatsfrist vom Antragseingang 12.03.2026 auf den 12.02.2026 zurueck, bestimmt
-      die Vornahmezeitpunkte der drei Rechtshandlungen (Barzahlung 18.02.2026, Pfaendung/Auskehrung 25./26.02.2026,
-      Gutschrift der Ueberweisung 05.03.2026) und stellt fest, dass alle drei im letzten Monat vor dem Antrag liegen.
   - id: p5-insolvenzreife-diskrepanz
     check_type: human_review
     description: Aufdeckung der Diskrepanz zwischen Eigenantrag und Finanzunterlagen beim Eintritt der Zahlungsunfaehigkeit.
-    note: Der Bearbeiter erkennt, dass der Eigenantrag den Eintritt der Zahlungsunfaehigkeit auf Anfang Maerz 2026
-      datiert, waehrend Bankspiegel und BWA-Reihe eine ab dem 01.02.2025 durchgehende Liquiditaetsluecke von deutlich
-      ueber zehn Prozent der faelligen Verbindlichkeiten ueber weit mehr als drei Wochen ausweisen, datiert die
-      Zahlungsunfaehigkeit deshalb auf Februar 2025 und zieht die Konsequenzen fuer Darlegungslast und Glaubwuerdigkeit
-      des Eigenantrags.
   - id: p6-rueckgewaehr-144
     check_type: human_review
     description: Rechtsfolgen der Anfechtung einschliesslich Zinsen und Wiederaufleben der Forderung.
-    note: Der Bearbeiter benennt den Rueckgewaehranspruch aus Paragraf 143 Abs. 1 InsO ueber 41.750 EUR nebst Zinsen,
-      erkennt das Wiederaufleben der titulierten Forderung nach Rueckgewaehr gemaess Paragraf 144 Abs. 1 InsO und
-      ordnet ergaenzend die Rueckschlagsperre des Paragraf 88 InsO fuer die Kassenpfaendung ein.

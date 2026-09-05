@@ -10,31 +10,18 @@ checks:
   - id: heilungsbewaehrung-zeitleiste
     check_type: human_review
     description: Aus der Zeitleiste den GdB-Verlauf und die erneute Heilungsbewaehrung nachrechnen.
-    note: Erstdiagnose 2019 mit Heilungsbewaehrung bis 2024 und GdB 50, danach Herabsetzung auf 30; Rezidiv 2026
-      mit Geschwulstentfernung am 04.04.2026 loest eine neue Heilungsbewaehrung bis 04.04.2031 aus, waehrend der
-      ein GdB von mindestens 50 massgeblich ist; der Bescheidwert 40 liegt darunter.
   - id: widerspruch-laufende-therapie
     check_type: human_review
     description: Den widerspruechlichen Umgang der Behoerde mit der laufenden Therapie erkennen.
-    note: Die Behoerde nutzt die laufende Therapie zugleich als Anerkennungsgrund und als Begrenzung; die laufende
-      Therapie spricht bei erheblicher gegenwaertiger Teilhabebeeintraechtigung nicht gegen die Feststellung.
   - id: funktionsfolgen-eigenstaendig
     check_type: human_review
     description: Die Funktionsfolgen unabhaengig von der Heilungsbewaehrung wuerdigen.
-    note: Lymphoedem linker Arm Grad zwei mit Belastungsgrenze etwa fuenf Kilogramm, Fatigue, beginnende Polyneuropathie
-      und Schlafstoerungen sind eigenstaendig zu bewerten.
   - id: schwerbehinderteneigenschaft
     check_type: human_review
     description: Die Rechtsfolge der Schwerbehinderteneigenschaft ab Antragstellung pruefen.
-    note: Bei GdB mindestens 50 besteht die Schwerbehinderteneigenschaft ab dem 18.03.2026; hilfsweise erneute Entscheidung
-      nach Beiziehung der vollstaendigen Unterlagen.
   - id: krankengeld-reha-rente
     check_type: human_review
     description: Kurzfristige und mittelfristige Leistungen sichern.
-    note: Entgeltfortzahlung, danach Krankengeld und Nahtlosigkeit; onkologische Reha nach Bestrahlung; Erwerbsminderungsrente
-      nur bei fortbestehender Leistungsminderung.
   - id: fristen-und-verfahren
     check_type: human_review
     description: Verfahrensstand und Fristen sichern.
-    note: Bescheid vom 16.06.2026, Zugang 19.06.2026, Widerspruchsfrist bis 19.07.2026 gewahrt; Akteneinsicht und
-      Nachreichung der onkologischen Unterlagen veranlasst.

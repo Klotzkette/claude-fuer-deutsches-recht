@@ -56,6 +56,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
 | [Geschäftsführerhaftung nach Paragraf 15b InsO — Zahlungen nach Insolvenzreife (Hannover)](../testakten/geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover/README.md) | [Gesamt-PDF](../testakten/geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover/gesamt-pdf/geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover_gesamt.pdf) | [`testakte-geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover.zip) | [`testakte-geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover-einzelpdfs.zip) |
@@ -94,6 +98,10 @@ Großes freistehendes Plugin für die Insolvenzverwaltung aus Sicht des Insolven
 ## Vorlage Asset-Purchase-Agreement (Insolvenz-Asset-Deal)
 
 Der ausgefüllte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures GmbH steht als sofort einsetzbares Template zum Direkt-Download bereit:
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Format | Direkt-Download |
 | --- | --- |

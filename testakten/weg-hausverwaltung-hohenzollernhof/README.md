@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/weg-hausverwaltung-hohenzollernhof_gesamt.pdf`](gesamt-pdf/weg-hausverwaltung-hohenzollernhof_gesamt.pdf) |
@@ -27,6 +31,10 @@ English: The original-format ZIP contains the working files directly at archive 
 Diese Verwaltungsakte bildet den laufenden Zustand einer mittelgroßen WEG ab: technisch überfordert, kaufmännisch angespannt, kommunikativ gereizt und voller kleiner Themen, die sich gegenseitig hochschaukeln. Die Akte ist nicht glatt sortiert. Genau darin liegt ihr Nutzen für das Plugin `weg-hausverwaltung`: Es muss Fristen, Beschlüsse, Abrechnungen, technische Maßnahmen, Mieterschnittstellen und Alltagskonflikte auseinanderhalten.
 
 ## Download im Release
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Paket | Direkt-Download |
 | --- | --- |

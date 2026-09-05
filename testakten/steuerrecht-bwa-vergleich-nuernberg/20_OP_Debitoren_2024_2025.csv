@@ -1,0 +1,41 @@
+﻿Stichtag;Konto;Personenkonto;Name;Land;Beleg;Rechnungsdatum;Faelligkeit;Waehrung;Netto_Rechnung_EUR;USt_Satz_Prozent;USt_Rechnung_EUR;Brutto_Rechnung_EUR;Bis_Stichtag_bezahlt_EUR;Offen_Brutto_EUR;Vermerk;EWB_EUR
+2024-12-31;1200;10001;Noreva Wholefood Distribution Ltd.;Kanada;MF-24-01-01;2024-10-08;2024-11-22;EUR;100.000,00;0;0,00;100.000,00;0,00;100.000,00;"Einzelfallbewertung aus Altbestand; 2025 abgewickelt";10.000,00
+2024-12-31;1200;10002;Kitanami Trading K.K.;Japan;MF-24-02-01;2024-11-11;2024-12-26;EUR;90.000,00;0;0,00;90.000,00;0,00;90.000,00;"Einzelfallbewertung aus Altbestand; 2025 abgewickelt";20.000,00
+2024-12-31;1200;10003;Kornhafen Fachgroßhandel GmbH;Deutschland;MF-24-03-01;2024-12-14;2025-01-13;EUR;50.000,00;7;3.500,00;53.500,00;10.700,00;42.800,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10003;Kornhafen Fachgroßhandel GmbH;Deutschland;MF-24-03-02;2024-10-15;2024-11-14;EUR;43.750,00;7;3.062,50;46.812,50;9.362,50;37.450,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10003;Kornhafen Fachgroßhandel GmbH;Deutschland;MF-24-03-03;2024-11-16;2024-12-16;EUR;31.250,00;7;2.187,50;33.437,50;6.687,50;26.750,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10004;Veloria Naturmarkt GmbH;Deutschland;MF-24-04-01;2024-10-17;2024-11-16;EUR;50.000,00;19;9.500,00;59.500,00;11.900,00;47.600,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10004;Veloria Naturmarkt GmbH;Deutschland;MF-24-04-02;2024-11-18;2024-12-18;EUR;43.750,00;19;8.312,50;52.062,50;10.412,50;41.650,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10004;Veloria Naturmarkt GmbH;Deutschland;MF-24-04-03;2024-12-19;2025-01-18;EUR;31.250,00;19;5.937,50;37.187,50;7.437,50;29.750,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10005;Polderkern Food B.V.;Niederlande;MF-24-05-01;2024-11-20;2024-12-20;EUR;60.000,00;0;0,00;60.000,00;12.000,00;48.000,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10005;Polderkern Food B.V.;Niederlande;MF-24-05-02;2024-12-21;2025-01-20;EUR;52.500,00;0;0,00;52.500,00;10.500,00;42.000,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10005;Polderkern Food B.V.;Niederlande;MF-24-05-03;2024-10-22;2024-11-21;EUR;37.500,00;0;0,00;37.500,00;7.500,00;30.000,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10006;Solara Special Foods SL;Spanien;MF-24-06-01;2024-12-23;2025-01-22;EUR;40.000,00;0;0,00;40.000,00;8.000,00;32.000,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10006;Solara Special Foods SL;Spanien;MF-24-06-02;2024-10-24;2024-11-23;EUR;35.000,00;0;0,00;35.000,00;7.000,00;28.000,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10006;Solara Special Foods SL;Spanien;MF-24-06-03;2024-11-25;2024-12-25;EUR;25.000,00;0;0,00;25.000,00;5.000,00;20.000,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10007;Meralis Food Trading LLC;VAE;MF-24-07-01;2024-10-08;2024-11-07;EUR;45.000,00;0;0,00;45.000,00;9.000,00;36.000,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10007;Meralis Food Trading LLC;VAE;MF-24-07-02;2024-11-09;2024-12-09;EUR;39.375,00;0;0,00;39.375,00;7.875,00;31.500,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10007;Meralis Food Trading LLC;VAE;MF-24-07-03;2024-12-10;2025-01-09;EUR;28.125,00;0;0,00;28.125,00;5.625,00;22.500,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10008;Avenquell Großhandel GmbH;Deutschland;MF-24-08-01;2024-11-11;2024-12-11;EUR;53.271,03;7;3.728,97;57.000,00;11.400,00;45.600,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10008;Avenquell Großhandel GmbH;Deutschland;MF-24-08-02;2024-12-12;2025-01-11;EUR;46.612,15;7;3.262,85;49.875,00;9.975,00;39.900,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2024-12-31;1200;10008;Avenquell Großhandel GmbH;Deutschland;MF-24-08-03;2024-10-13;2024-11-12;EUR;33.294,39;7;2.330,61;35.625,00;7.125,00;28.500,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10001;Noreva Wholefood Distribution Ltd.;Kanada;MF-25-CA-1022;2025-10-22;2025-12-06;EUR;185.000,00;0;0,00;185.000,00;0,00;185.000,00;"75.000 EUR Qualitätsvorbehalt; keine Gutschrift; 55.000 EUR Zahlung erst 07.01.2026";75.000,00
+2025-12-31;1200;10002;Kitanami Trading K.K.;Japan;MF-25-JP-1112;2025-11-12;2025-12-27;EUR;160.000,00;0;0,00;160.000,00;0,00;160.000,00;"55.000 EUR Gegenbelastung angekündigt; Zahlungstermin nicht bestätigt";55.000,00
+2025-12-31;1200;10003;Kornhafen Fachgroßhandel GmbH;Deutschland;MF-25-03-01;2025-12-14;2026-01-13;EUR;75.000,00;7;5.250,00;80.250,00;16.050,00;64.200,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10003;Kornhafen Fachgroßhandel GmbH;Deutschland;MF-25-03-02;2025-10-15;2025-11-14;EUR;65.625,00;7;4.593,75;70.218,75;14.043,75;56.175,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10003;Kornhafen Fachgroßhandel GmbH;Deutschland;MF-25-03-03;2025-11-16;2025-12-16;EUR;46.875,00;7;3.281,25;50.156,25;10.031,25;40.125,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10004;Veloria Naturmarkt GmbH;Deutschland;MF-25-04-01;2025-10-17;2025-11-16;EUR;75.000,00;19;14.250,00;89.250,00;17.850,00;71.400,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10004;Veloria Naturmarkt GmbH;Deutschland;MF-25-04-02;2025-11-18;2025-12-18;EUR;65.625,00;19;12.468,75;78.093,75;15.618,75;62.475,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10004;Veloria Naturmarkt GmbH;Deutschland;MF-25-04-03;2025-12-19;2026-01-18;EUR;46.875,00;19;8.906,25;55.781,25;11.156,25;44.625,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10005;Polderkern Food B.V.;Niederlande;MF-25-05-01;2025-11-20;2025-12-20;EUR;90.000,00;0;0,00;90.000,00;18.000,00;72.000,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10005;Polderkern Food B.V.;Niederlande;MF-25-05-02;2025-12-21;2026-01-20;EUR;78.750,00;0;0,00;78.750,00;15.750,00;63.000,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10005;Polderkern Food B.V.;Niederlande;MF-25-05-03;2025-10-22;2025-11-21;EUR;56.250,00;0;0,00;56.250,00;11.250,00;45.000,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10006;Solara Special Foods SL;Spanien;MF-25-06-01;2025-12-23;2026-01-22;EUR;65.000,00;0;0,00;65.000,00;13.000,00;52.000,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10006;Solara Special Foods SL;Spanien;MF-25-06-02;2025-10-24;2025-11-23;EUR;56.875,00;0;0,00;56.875,00;11.375,00;45.500,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10006;Solara Special Foods SL;Spanien;MF-25-06-03;2025-11-25;2025-12-25;EUR;40.625,00;0;0,00;40.625,00;8.125,00;32.500,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10007;Meralis Food Trading LLC;VAE;MF-25-07-01;2025-10-08;2025-11-07;EUR;87.500,00;0;0,00;87.500,00;17.500,00;70.000,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10007;Meralis Food Trading LLC;VAE;MF-25-07-02;2025-11-09;2025-12-09;EUR;76.562,50;0;0,00;76.562,50;15.312,50;61.250,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10007;Meralis Food Trading LLC;VAE;MF-25-07-03;2025-12-10;2026-01-09;EUR;54.687,50;0;0,00;54.687,50;10.937,50;43.750,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10008;Avenquell Großhandel GmbH;Deutschland;MF-25-08-01;2025-11-11;2025-12-11;EUR;79.906,54;7;5.593,46;85.500,00;17.100,00;68.400,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10008;Avenquell Großhandel GmbH;Deutschland;MF-25-08-02;2025-12-12;2026-01-11;EUR;69.918,22;7;4.894,28;74.812,50;14.962,50;59.850,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00
+2025-12-31;1200;10008;Avenquell Großhandel GmbH;Deutschland;MF-25-08-03;2025-10-13;2025-11-12;EUR;49.941,59;7;3.495,91;53.437,50;10.687,50;42.750,00;"Unbeanstandet; Zahlung nicht eingegangen";0,00

@@ -15,6 +15,8 @@ from pathlib import Path
 from urllib.parse import quote
 
 from testakte_zip_common import working_dump_flat_pairs
+from testakte_disclaimer import NOTICE_MARKDOWN
+from testakte_download_notices import ensure_download_notices
 
 
 REPO = Path(__file__).resolve().parent.parent
@@ -335,6 +337,8 @@ def testakten_section(plugin_name: str, directory: Path, akten_slugs: list[str])
         "",
         "Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.",
         "",
+        NOTICE_MARKDOWN,
+        "",
         "| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |",
         "| --- | --- | --- | --- |",
     ]
@@ -387,7 +391,7 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     testakten = testakten_section(plugin_name, directory, akten_slugs)
     testakten_block = f"\n\n{testakten}" if testakten else ""
     quickstart = quickstart_section(plugin_name, directory)
-    return f"""{BEGIN}
+    return ensure_download_notices(f"""{BEGIN}
 ## Was ist das hier?
 
 {description}
@@ -426,7 +430,7 @@ The skill index lists the source collection. In the installed package, some spec
 | Zugeordnete Testakten | PDF / ZIP | {testakte_cell} |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`]({RELEASE_BASE}/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index]({assets}); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.{testakten_block}
-{END}"""
+{END}""")
 
 
 def strip_old_blocks(text: str) -> str:
@@ -467,6 +471,7 @@ def inject(plugin: dict, akten_slugs: list[str], marketplace_count: int) -> str:
         + "\n\n"
         + stripped[pos:].lstrip()
     )
+    new_text = ensure_download_notices(new_text)
     if new_text == text:
         return "UNCHANGED"
     readme.write_text(new_text, encoding="utf-8")

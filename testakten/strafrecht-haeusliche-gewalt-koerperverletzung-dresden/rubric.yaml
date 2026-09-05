@@ -22,11 +22,6 @@ checks:
     description: Aus der Eskalations- und Einsatzchronologie muss die Zahl der Polizeieinsaetze vor dem 04.06.2026
       ermittelt und der Einlassung des Beschuldigten gegenuebergestellt werden, es habe zuvor nie polizeiliche Massnahmen
       gegeben; ergaenzend ist die Erst- gegen die Folgeaussage des Beschuldigten zu halten.
-    note: Aus der CSV ergeben sich zwei dokumentierte Polizeieinsaetze vor der Tat, am 22.03.2026 und am 19.05.2026,
-      sowie ein Zeitraum von 74 Tagen zwischen dem ersten Einsatz und der Tat; das widerlegt die Einlassung, es
-      habe zuvor nie polizeiliche Massnahmen gegeben. Zusaetzlich ist die Verschiebung in den Angaben des Beschuldigten
-      aufzuzeigen, der am Einsatzort ein blosses Herunterfallen der Flasche ohne Anfassen angab und spaeter eine
-      Selbstverletzung der Geschaedigten beim Durchsuchen seiner Tasche behauptet.
   - id: fachpruefung-04
     check_type: human_review
     description: Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.

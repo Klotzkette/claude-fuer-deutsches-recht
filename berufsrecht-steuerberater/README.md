@@ -48,9 +48,23 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`berufsrecht-steuerberater.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-steuerberater.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`berufsrecht-steuerberater-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-steuerberater/berufsrecht-steuerberater-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`berufsrecht-steuerberater-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-steuerberater/berufsrecht-steuerberater-werkstatt.md) |
-| Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
+| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+
+## Zugeordnete Testakten
+
+Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| [BWA-Vergleich 2024 und 2025: Mainfrucht Spezialitätenhandel GmbH Nürnberg](../testakten/steuerrecht-bwa-vergleich-nuernberg/README.md) | [Gesamt-PDF](../testakten/steuerrecht-bwa-vergleich-nuernberg/gesamt-pdf/steuerrecht-bwa-vergleich-nuernberg_gesamt.pdf) | [`testakte-steuerrecht-bwa-vergleich-nuernberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-steuerrecht-bwa-vergleich-nuernberg.zip) | [`testakte-steuerrecht-bwa-vergleich-nuernberg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-steuerrecht-bwa-vergleich-nuernberg-einzelpdfs.zip) |
+
+[Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du einen Steuerbescheid prüfen und Einspruch oder Klage tragfähig begründen.

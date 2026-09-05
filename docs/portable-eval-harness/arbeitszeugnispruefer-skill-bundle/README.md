@@ -13,7 +13,7 @@ arbeitszeugnispruefer-skill-bundle/
     llm-judge-eval.py            # LLM-Judge (Anthropic-Adapter)
     generate-default-rubrics.py  # Baseline-Rubric-Generator
     run-eval-adapter.patch       # Hinweis zur Pfad-Anpassung (rein informativ)
-  testakten/
+  fixtures/
     zeugnis-note-1/              # Positivreferenz
       README.md                  # Eingabe-Zeugnis
       rubric.yaml                # 7 Pass/Fail-Checks
@@ -42,9 +42,9 @@ curl -L https://github.com/Klotzkette/claude-fuer-deutsches-recht/archive/main.t
   claude-fuer-deutsches-recht-main/docs/portable-eval-harness/arbeitszeugnispruefer-skill-bundle/
 
 # 3) Scripts + Testakten ins Repo kopieren
-mkdir -p scripts testakten
+mkdir -p scripts fixtures
 cp arbeitszeugnispruefer-skill-bundle/scripts/*.py scripts/
-cp -r arbeitszeugnispruefer-skill-bundle/testakten/* testakten/
+cp -r arbeitszeugnispruefer-skill-bundle/fixtures/* fixtures/
 
 # 4) PyYAML installieren (optional, fuer robusteres YAML-Parsing)
 pip install pyyaml
@@ -62,7 +62,7 @@ python3 scripts/run-eval.py --report
 # Pro Testfall:
 # 1) Skill auf das README.md anwenden (manuell oder via Chat-Agent / Claude Code)
 # 2) Skill-Output als output.md im selben Verzeichnis ablegen
-echo "$SKILL_OUTPUT" > testakten/zeugnis-note-1/output.md
+echo "$SKILL_OUTPUT" > fixtures/zeugnis-note-1/output.md
 
 # 3) Eval-Lauf
 python3 scripts/run-eval.py --report --json-out runs/$(date -u +%Y%m%d-%H%M).json --label "$MODEL"
@@ -72,7 +72,7 @@ python3 scripts/compare-eval-runs.py runs/opus-4-7.json runs/opus-4-8.json
 
 # 5) Bei subjektiven Kriterien: LLM-Judge
 export ANTHROPIC_API_KEY=sk-ant-...
-python3 scripts/llm-judge-eval.py testakten/zeugnis-note-1/output.md eval-criteria/quellenhygiene.md
+python3 scripts/llm-judge-eval.py fixtures/zeugnis-note-1/output.md eval-criteria/quellenhygiene.md
 ```
 
 ## Optional: PR-Beschreibung für das externe Repo
@@ -90,10 +90,10 @@ Outputs gegen handgepflegte Rubrics, plus Modellvergleich und LLM-Judge.
 - `scripts/compare-eval-runs.py` - Modell-zu-Modell-Dashboard
 - `scripts/llm-judge-eval.py` - LLM-Judge mit Anthropic-Adapter + Dry-Run
 - `scripts/generate-default-rubrics.py` - Baseline-Rubric-Generator
-- `testakten/zeugnis-note-1/` - Positivreferenz, 7 Checks
-- `testakten/zeugnis-rote-flaggen/` - Note 4 mit roten Codes, 9 Checks
-- `testakten/zeugnis-schaufenster-drift/` - Drift-Pattern, 6 Checks
-- `testakten/zeugnis-azubi-bbig/` - Paragraf 16 BBiG-Sonderfall, 6 Checks
+- `fixtures/zeugnis-note-1/` - Positivreferenz, 7 Checks
+- `fixtures/zeugnis-rote-flaggen/` - Note 4 mit roten Codes, 9 Checks
+- `fixtures/zeugnis-schaufenster-drift/` - Drift-Pattern, 6 Checks
+- `fixtures/zeugnis-azubi-bbig/` - Paragraf 16 BBiG-Sonderfall, 6 Checks
 
 ## Test plan
 
@@ -110,7 +110,7 @@ ist auf das deutsche Recht und den Arbeitszeugnis-Pruefer zugeschnitten.
 
 ## Hinweise
 
-- Die Scripts sind portabel und brauchen keine Änderung — die Konstante `TESTAKTEN = REPO / "testakten"` passt zur Repo-Struktur des arbeitszeugnisprüfer-skill-Repos.
+- Die Scripts sind portabel und brauchen keine Änderung — die Konstante `TESTAKTEN = REPO / "fixtures"` passt zur Repo-Struktur des arbeitszeugnisprüfer-skill-Repos.
 - Die Rubrics verwenden `output.md` als erwarteten Skill-Output-Pfad. Falls der Skill seinen Output anders nennt, in `rubric.yaml` den `path:`-Wert anpassen.
 - Beim ersten Lauf ohne `output.md` werden die Checks scheitern, die auf `output.md` zugreifen — das ist erwartet und zeigt nur, dass der Skill noch nicht ausgefuehrt wurde.
 

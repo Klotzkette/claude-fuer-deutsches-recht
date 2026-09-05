@@ -52,8 +52,8 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
 from testakte_file_filter import include_in_working_dump
-from testakte_office_pdf import OFFICE_EXTS, OfficeRenderError, render_office_batch
-from testakte_disclaimer import add_notice_page, ensure_notice_page
+from testakte_office_pdf import OFFICE_EXTS, OfficeRenderError, render_office_batch, uncached_formula_cells
+from testakte_disclaimer import without_notice_pages
 
 # DOCX
 try:
@@ -476,6 +476,12 @@ def csv_to_flowables(path: Path) -> list:
 
 def xlsx_to_flowables(path: Path) -> list:
     out = []
+    missing = uncached_formula_cells(path)
+    if missing:
+        raise DocumentRenderError(
+            "XLSX enthält unberechnete Formeln; native Office-Konvertierung erforderlich: "
+            + ", ".join(missing[:5])
+        )
     try:
         wb = load_workbook(path, data_only=True)
     except Exception as exc:
@@ -821,15 +827,16 @@ def draw_separator_header(c, kicker: str, label: str) -> None:
     c.setFont(FONT_BOLD, 8)
     c.setFillColor(MUTED)
     c.drawString(2 * cm, 26.2 * cm, kicker.upper())
-    c.setFont(FONT_BOLD, 13)
-    c.setFillColor(TEAL)
-    c.drawString(2 * cm, 25.5 * cm, name)
-    y_rule = 25.2 * cm
+    title = Paragraph(escape(name), s_file_title)
+    _, title_height = title.wrap(17 * cm, 10 * cm)
+    title_top = 25.8 * cm
+    title.drawOn(c, 2 * cm, title_top - title_height)
+    y_rule = title_top - title_height - 0.3 * cm
     if "/" in rel:
-        c.setFont(FONT_REG, 8)
-        c.setFillColor(MUTED)
-        c.drawString(2 * cm, 25.0 * cm, rel)
-        y_rule = 24.7 * cm
+        source = Paragraph(escape(rel), s_file_path)
+        _, source_height = source.wrap(17 * cm, 10 * cm)
+        source.drawOn(c, 2 * cm, y_rule - source_height)
+        y_rule -= source_height + 0.3 * cm
     c.setStrokeColor(TEAL)
     c.setLineWidth(0.6)
     c.line(2 * cm, y_rule, 19 * cm, y_rule)
@@ -855,7 +862,7 @@ def build_text_pdf(
     pdf_attachments: list[Path] = []
     office_attachments: list[tuple[str, bytes]] = []
     try:
-        office_cache = render_office_batch(files["docx"] + files["odt"])
+        office_cache = render_office_batch(files["docx"] + files["odt"] + files["xlsx"])
     except OfficeRenderError as exc:
         raise DocumentRenderError(str(exc)) from exc
     for t in TYPE_ORDER:
@@ -956,7 +963,7 @@ def a4_normalized_page(source_page):
 
 def append_pdf_with_separator(writer: PdfWriter, label: str, pdf_path: Path, testakte_name: str) -> None:
     try:
-        attachment_pages = list(PdfReader(str(pdf_path)).pages)
+        attachment_pages = list(PdfReader(io.BytesIO(without_notice_pages(pdf_path.read_bytes()))).pages)
     except Exception as exc:
         raise DocumentRenderError(f"{pdf_path.name}: PDF konnte nicht gelesen werden: {exc}") from exc
     if not attachment_pages:
@@ -1004,6 +1011,8 @@ def append_pdf_bytes_with_separator(
         kicker = "Word-Dokument (Original-Layout)"
     elif low.endswith(".odt"):
         kicker = "OpenDocument-Textdatei (Original-Layout)"
+    elif low.endswith(".xlsx"):
+        kicker = "Excel-Tabelle (berechnete Druckfassung)"
     else:
         kicker = "Dokument (Original-Layout)"
     draw_separator_header(c, kicker, label)
@@ -1036,13 +1045,14 @@ def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
             return "skip", "keine Quelldateien"
         try:
             current = out_path.read_bytes()
-            updated, changed = ensure_notice_page(current, name)
+            updated = without_notice_pages(current)
+            changed = updated != current
             if changed:
                 temporary = out_path.with_name(f".{out_path.name}.tmp")
                 temporary.write_bytes(updated)
                 temporary.replace(out_path)
             size_kb = out_path.stat().st_size / 1024
-            action = "Hinweis ergänzt" if changed else "Hinweis bereits vorhanden"
+            action = "alten Vorspruch entfernt" if changed else "Akteninhalt unverändert"
             return "ok", f"{out_path.relative_to(REPO_ROOT)} ({size_kb:.0f} KB, {action})"
         except Exception as exc:
             return "error", f"bestehendes Gesamt-PDF: {exc}"
@@ -1057,7 +1067,6 @@ def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
             testakte_dir, files, cover, tmp_text
         )
         writer = PdfWriter()
-        add_notice_page(writer, name)
         if has_text_pdf:
             for page in PdfReader(str(tmp_text)).pages:
                 writer.add_page(page)

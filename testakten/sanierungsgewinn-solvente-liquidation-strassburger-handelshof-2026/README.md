@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026_gesamt.pdf`](gesamt-pdf/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026_gesamt.pdf) |
@@ -87,12 +91,6 @@ Hinzu kommt auf Gesellschafterebene: Auflösungsverlust nach § 17 Abs. 4 EStG, 
 | 03 | [`03_bekanntmachung_aufloesung_und_glaeubigeraufruf.docx`](03_bekanntmachung_aufloesung_und_glaeubigeraufruf.docx) | Bekanntmachung im Unternehmensregister, Gläubigeraufruf § 65 GmbHG |
 | 04 | [`04_liquidationsbilanz_zum_15_04_2026.docx`](04_liquidationsbilanz_zum_15_04_2026.docx) | Liquidations-Eröffnungsbilanz |
 | 05 | [`05_nachrangiges_darlehen_und_rangruecktritts-vereinbarung.docx`](05_nachrangiges_darlehen_und_rangruecktritts-vereinbarung.docx) | Darlehensvertrag und qualifizierter Rangrücktritt |
-| 06 | [`06_5_abs_2a_estg_passivierungsverbot_pruefung.docx`](06_5_abs_2a_estg_passivierungsverbot_pruefung.docx) | Prüfung § 5 Abs. 2a EStG (Passivierungsverbot) |
-| 07 | [`07_bfh_ii_r_19-01_und_ofd_frankfurt_memo.docx`](07_bfh_ii_r_19-01_und_ofd_frankfurt_memo.docx) | Memo zu BFH II R 19/01 und OFD Frankfurt |
-| 08 | [`08_szenario_a_darlehen_bleibt_passiviert_bis_loeschung.docx`](08_szenario_a_darlehen_bleibt_passiviert_bis_loeschung.docx) | Szenario A — Passivierung bis zur Löschung |
-| 09 | [`09_szenario_b_darlehen_ausgebucht_in_liquidationsbilanz.docx`](09_szenario_b_darlehen_ausgebucht_in_liquidationsbilanz.docx) | Szenario B — Ausbuchung in Liquidationsbilanz |
-| 10 | [`10_szenario_c_freiwilliger_verzicht_durch_gesellschafterin.docx`](10_szenario_c_freiwilliger_verzicht_durch_gesellschafterin.docx) | Szenario C — Freiwilliger Verzicht |
-| 11 | [`11_3a_estg_pruefung_bei_solventer_liquidation.docx`](11_3a_estg_pruefung_bei_solventer_liquidation.docx) | § 3a EStG — Voraussetzungen bei solventer Liquidation |
 | 12 | [`12_3a_iii_estg_verrechnung_und_keine_verlustvortraege.docx`](12_3a_iii_estg_verrechnung_und_keine_verlustvortraege.docx) | § 3a Abs. 3 EStG Verrechnungsreihenfolge |
 | 13 | [`13_finanzamt_charlottenburg_korrespondenz_und_verbindliche_auskunft.docx`](13_finanzamt_charlottenburg_korrespondenz_und_verbindliche_auskunft.docx) | Korrespondenz FA Berlin-Charlottenburg, Antrag verbindliche Auskunft § 89 Abs. 2 AO |
 | 14 | [`14_17_estg_aufloesungsverlust_gesellschafterin.docx`](14_17_estg_aufloesungsverlust_gesellschafterin.docx) | § 17 EStG Auflösungsverlust Gesellschafterin |

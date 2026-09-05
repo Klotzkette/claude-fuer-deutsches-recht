@@ -1,3 +1,16 @@
+# v443.1.0 - Rohakten, BWA-Vergleich und verlässliche PDF-Pakete
+
+- Neue Fallakte zur Mainfrucht Spezialitätenhandel GmbH in Nürnberg mit Lager in Erlangen und 20 Beschäftigten: BWA und Summen- und Saldenlisten für 2024 und 2025 als vier eigenständige Excel-Dateien. 24 native Unterlagen verbinden Buchhaltung, offene Posten, Inventur, Zahlungsjournal, Verträge und Korrespondenz mit Geschäftspartnern im Ausland.
+- Eine unabhängige Abstimmungsprüfung verbindet 1314 ausgeglichene Beleggruppen mit Monatskonten, Jahres-SuSa, BWA, Jahresvortrag, Nebenbüchern und Januar-Zahlungen. Die Akte enthält keine fertige Aussage zur Insolvenzreife.
+- 144 bestätigte Lehrlösungen, fertige Ergebnisraster und irreführende Ausgabedateien wurden aus den Fallordnern entfernt. Bei gemischten Dokumenten bleiben Vertragswortlaut, Sachverhalt und eigenständige Parteipositionen erhalten. Antwortspalten in Renten- und Bewertungslisten sowie rechtliche Freigabeempfehlungen in der Presseakte entfallen. Technische Bewertungsfixtures liegen getrennt von den Schulungsakten.
+- 47 Fallrubriken enthalten keine vorgegebenen Lösungsnotizen mehr; ihre ausführbaren Strukturprüfungen bleiben bestehen. Fallbeschreibungen und die zentrale Übersicht wurden von vorweggenommenen Ergebnissen bereinigt. Drei Chatverläufe sind durch konkrete Übergabe-, Arbeits- und Logistikdetails ergänzt.
+- Gesamt- und Einzel-PDFs enthalten keine Warnseiten mehr. Der zweisprachige Hinweis steht unmittelbar über den PDF-/ZIP-Downloads sowie als erste README.txt in beiden ZIP-Varianten und den Akten-Sammelpaketen. Einzelakten bleiben flach und enthalten keine Markdown-Arbeitsdokumente.
+- Excel-Unterlagen werden mit berechneten Formeln über die native Office-Druckfassung ausgegeben. Der Textfallback verweigert unberechnete Formeln, statt Ergebnisse stillschweigend wegzulassen. Lange Dokumenttitel in den Gesamt-PDFs umbrechen innerhalb der Seitenbreite.
+- Neue Regressionen sichern Hinweisposition, unveränderte Originaldaten, Formelberechnung, Legacy-Warnseiten, ZIP-Struktur und erkennbare Lösungsschlüssel. Sechs kontextgeprüfte Erwähnungen fehlender Bewertungsunterlagen oder Lernpläne sind an den exakten Quellstand gebunden; jede Änderung erfordert erneute Prüfung.
+- Prüfungsumfang: zentrale und pluginlokale Aktenbestände wurden strukturiert gesichtet; bestätigte Fundstellen wurden im Kontext bereinigt. Eine automatische Suche ersetzt weder die vollständige juristische Prüfung jeder Akte noch eine Sichtkontrolle jeder Bildseite. Skills und Fachprompts bleiben inhaltlich unverändert.
+
+---
+
 # v443.0.0 - Sprechende Fachaufgaben und gezielte Vertiefung
 
 - Der direkte Auswahlbestand sinkt von 22729 auf 22424 Skills. Arbeitszeugnisgenerator: 41 auf 5; AGB-Prüfung: 304 auf 273; Familienrecht: 143 auf 107; Erbrecht: 86 auf 31; Großkanzlei M&A: 236 auf 229; Preußisches Allgemeines Landrecht: 209 auf 69. Zusammenhängende Aufgaben haben sprechende Namen; benötigte Detailprüfungen bleiben bedarfsgeladen erreichbar.

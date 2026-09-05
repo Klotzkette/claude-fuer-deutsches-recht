@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/kernfusion-transrapid-starnberger-see_gesamt.pdf`](gesamt-pdf/kernfusion-transrapid-starnberger-see_gesamt.pdf) |
@@ -42,7 +46,6 @@ Passt zu `energierecht`, `verkehr-infrastrukturrecht`, `umweltrecht`, `bundesnet
 | `12-sicherheitsbeirat-protokoll.docx` | technischer Sicherheitsbeirat |
 | `13-ip-foerdermittel-matrix.docx` | IP-/Fördermittelmatrix |
 | `14-buergerbrief-entwurf.docx` | Bürgerbrief mit juristischer Korrektur |
-| `15-vollgutachten-planung-sicherheit-und-energieanbindung.docx` | Ausformuliertes Vollgutachten mit Normprogramm, Subsumtion, Beweisstrategie und nächstem Schritt |
 | `15-behoerdenfragen.docx` | Fragenpaket für Behördenvorgespräch |
 | `16-eml-gemeinde-rueckfragen.eml` | Rückfragen der Gemeinde zu Evakuierungskonzept, Biotopen, Transrapid-Status und Flugblatt |
 | `17-telefonvermerk-landesplanung.docx` | Telefonvermerk zur Vorabanfrage bei der höheren Landesplanungsbehörde mit Unterlagenliste |

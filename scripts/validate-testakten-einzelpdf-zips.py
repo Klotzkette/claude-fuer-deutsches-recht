@@ -18,7 +18,7 @@ from pathlib import Path
 from pypdf import PdfReader
 
 from testakte_einzelpdf_common import expected_arcnames
-from testakte_disclaimer import pdf_notice_errors
+from testakte_disclaimer import NOTICE_FILENAME, notice_text_errors, pdf_content_errors
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO_ROOT / "testakten"
@@ -38,11 +38,19 @@ def zip_entries(zip_path: Path, *, expected_suffix: str) -> list[str]:
         fail(f"{zip_path}: empty ZIP")
     try:
         with zipfile.ZipFile(zip_path) as archive:
+            if any(info.is_dir() for info in archive.infolist()):
+                fail(f"{zip_path}: Verzeichniseintrag im ZIP")
+            if archive.testzip() is not None:
+                fail(f"{zip_path}: beschädigter ZIP-Eintrag")
             names = [n.replace("\\", "/") for n in archive.namelist() if not n.endswith("/")]
+            if not names or names[0] != NOTICE_FILENAME:
+                fail(f"{zip_path}: {NOTICE_FILENAME} muss der erste ZIP-Eintrag sein")
+            for problem in notice_text_errors(archive.read(NOTICE_FILENAME)):
+                fail(f"{zip_path}: {problem}")
             for n in names:
                 if "/" in n:
                     fail(f"{zip_path}: Unterordner im ZIP: {n}")
-                if not n.lower().endswith(expected_suffix):
+                if n != NOTICE_FILENAME and not n.lower().endswith(expected_suffix):
                     fail(f"{zip_path}: unerwarteter Dateityp {n}")
                 parts = Path(n).parts
                 if Path(n).is_absolute() or ".." in parts:
@@ -54,7 +62,7 @@ def zip_entries(zip_path: Path, *, expected_suffix: str) -> list[str]:
                     fail(f"{zip_path}: empty member {info.filename}")
                 if info.flag_bits & 0x1:
                     fail(f"{zip_path}: encrypted member {info.filename}")
-                if expected_suffix == ".pdf":
+                if expected_suffix == ".pdf" and info.filename != NOTICE_FILENAME:
                     data = archive.read(info)
                     if not data.startswith(b"%PDF-") or b"%%EOF" not in data[-2048:]:
                         fail(f"{zip_path}: member is not a complete PDF: {info.filename}")
@@ -65,7 +73,7 @@ def zip_entries(zip_path: Path, *, expected_suffix: str) -> list[str]:
                         fail(f"{zip_path}: PDF nicht lesbar {info.filename}: {exc}")
                     if not pages:
                         fail(f"{zip_path}: PDF ohne Seite: {info.filename}")
-                    for notice_problem in pdf_notice_errors(data, exactly_once=True):
+                    for notice_problem in pdf_content_errors(data):
                         fail(f"{zip_path}: {info.filename}: {notice_problem}")
                     for page_number, page in enumerate(pages, start=1):
                         width = float(page.mediabox.width)
@@ -135,7 +143,7 @@ def main() -> None:
             dist / f"testakte-{testakte_dir.name}-einzelpdfs.zip",
             expected_suffix=".pdf",
         )
-        assert_same(f"testakte-{testakte_dir.name}-einzelpdfs.zip", expected, actual)
+        assert_same(f"testakte-{testakte_dir.name}-einzelpdfs.zip", [NOTICE_FILENAME, *expected], actual)
         zip_count += 1
         total_pdfs += len(expected)
 
@@ -143,7 +151,7 @@ def main() -> None:
         dist / "alle-testakten-einzelpdfs.zip",
         expected_suffix=".zip",
     )
-    assert_same("alle-testakten-einzelpdfs.zip", combined_expected, combined_actual)
+    assert_same("alle-testakten-einzelpdfs.zip", [NOTICE_FILENAME, *combined_expected], combined_actual)
 
     print(
         "validate-testakten-einzelpdf-zips OK "

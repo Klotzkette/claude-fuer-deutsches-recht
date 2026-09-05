@@ -56,6 +56,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
 | [Haushaltsakte Bund/Land](../testakten/haushaltsrecht-bho-szenario-buergergeld-verteidigung/README.md) | [Gesamt-PDF](../testakten/haushaltsrecht-bho-szenario-buergergeld-verteidigung/gesamt-pdf/haushaltsrecht-bho-szenario-buergergeld-verteidigung_gesamt.pdf) | [`testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip) | [`testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung-einzelpdfs.zip) |

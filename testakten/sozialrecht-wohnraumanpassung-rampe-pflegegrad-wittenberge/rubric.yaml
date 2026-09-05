@@ -18,33 +18,18 @@ checks:
   - id: pflegegrad-mobilitaet
     check_type: human_review
     description: Pflegegrad 3 und das Mobilitaetsmodul als Tatsachengrundlage nutzen.
-    note: Treppensteigen ist im MD-Gutachten als unselbststaendig bewertet; die Versicherte verlaesst das Haus nur
-      begleitet und bewaeltigt die drei Aussenstufen nur rueckwaertsgewandt mit Sicherung.
   - id: mobile-gegen-feste-rampe
     check_type: human_review
     description: Die mobile Rampe funktional gegen die feste Rampe vergleichen.
-    note: Selbstnutzbarkeit ist das Kernkriterium; die mobile Schiene wiegt 9.8 kg je Schiene, muss von einer zweiten
-      Person aufgelegt werden und ist bei Naesse und Schnee eingeschraenkt, waehrend die feste Rampe jederzeit ohne
-      fremde Hilfe nutzbar ist.
   - id: kostentraeger-datenkern
     check_type: human_review
     description: Aus der Kostentraeger-Matrix den Zuschussanspruch nachrechnen und die Traeger sauber trennen.
-    note: Gesamtkosten feste Rampe 7920 EUR aus den Einzelpositionen 620 plus 3980 plus 940 plus 1680 plus 700;
-      gesetzlicher Hoechstzuschuss nach Paragraph 40 Absatz 4 SGB XI 4000 EUR; verbleibender Eigenanteil bei Hoechstzuschuss
-      3920 EUR; der Bescheid bewilligt nur 1180 EUR und bleibt damit 2820 EUR hinter dem Hoechstbetrag zurueck;
-      Finanzierungsluecke beim jetzigen Bescheid 6740 EUR; ergaenzende Hilfe des Sozialamts ist nachrangig.
   - id: wohnumfeld-wuerdigung
     check_type: human_review
     description: Das Wohnumfeld konkret wuerdigen.
-    note: Zu ueberwindende Gesamthoehe 53 cm aus drei Stufen zu je 16 cm und einer Schwelle von 5 cm, Rampenlaenge
-      6.20 m bei Steigung 5.8 Prozent, Fotos, Ortsterminprotokoll und Winterrisiko sind einzubeziehen.
   - id: sturzzahl-diskrepanz
     check_type: human_review
     description: Die nicht voellig deckungsgleichen Angaben zur Zahl der Stuerze erkennen und beweiswuerdigend einordnen.
-    note: Erstgespraech, Hausarzt, Sturzliste und Nachbarin nennen Stuerze und Beinahestuerze seit Januar 2026 nicht
-      deckungsgleich; die dokumentierten Ereignisse vom 12.01., 25.02. und 14.04.2026 sind einzuordnen.
   - id: widerspruch-und-beauftragung
     check_type: human_review
     description: Den Widerspruch als Selbststaendigkeits- und Pflegeerleichterungsthema begruenden.
-    note: Keine Argumentation als Komfortwunsch; keine Beauftragung vor schriftlicher Foerderzusage, da sonst die
-      Foerderfaehigkeit entfallen kann; das Angebot ist bis 14.09.2026 gueltig.

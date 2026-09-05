@@ -14,6 +14,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 from readme_display import display_prose
+from testakte_download_notices import ensure_download_notices
 
 REPO = Path(__file__).resolve().parent.parent
 OWNER = "Klotzkette"
@@ -119,7 +120,7 @@ def main() -> int:
             )
         lines.append("")
 
-    (REPO / "ASSET_INDEX.md").write_text("\n".join(lines), encoding="utf-8")
+    (REPO / "ASSET_INDEX.md").write_text(ensure_download_notices("\n".join(lines)), encoding="utf-8")
     print(f"ASSET_INDEX.md: {len(plugins)} Plugins, Stand {version}.")
     return 0
 

@@ -13,7 +13,7 @@ import sys
 import zipfile
 from pathlib import Path
 
-from testakte_disclaimer import NOTICE_FILENAME, notice_text_errors
+from testakte_disclaimer import NOTICE_FILENAME, notice_text_errors, pdf_content_errors
 from testakte_zip_common import working_dump_expected_arcnames
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -39,6 +39,8 @@ def zip_entries(zip_path: Path, *, require_notice: bool) -> list[str]:
         fail(f"{zip_path}: empty ZIP")
     try:
         with zipfile.ZipFile(zip_path) as archive:
+            if any(info.is_dir() for info in archive.infolist()):
+                fail(f"{zip_path}: Verzeichniseintrag im ZIP")
             bad = archive.testzip()
             if bad is not None:
                 fail(f"{zip_path}: corrupt member {bad}")
@@ -48,6 +50,9 @@ def zip_entries(zip_path: Path, *, require_notice: bool) -> list[str]:
                     fail(f"{zip_path}: Unterordner im ZIP: {name}")
                 if name.lower().endswith(".md"):
                     fail(f"{zip_path}: Markdown-Datei im Akten-ZIP: {name}")
+                if name.lower().endswith(".pdf"):
+                    for problem in pdf_content_errors(archive.read(name)):
+                        fail(f"{zip_path}: {name}: {problem}")
             if require_notice:
                 notice_names = [name for name in names if name.casefold() == NOTICE_FILENAME.casefold()]
                 if notice_names != [NOTICE_FILENAME]:
@@ -118,9 +123,9 @@ def main() -> None:
     if empty_dirs:
         fail(f"testakten without exportable files: {empty_dirs[:20]}")
 
-    combined_actual = zip_entries(dist / "alle-testakten.zip", require_notice=False)
-    assert_same("alle-testakten.zip", individual_archives, combined_actual)
-    if any(not name.lower().endswith(".zip") for name in combined_actual):
+    combined_actual = zip_entries(dist / "alle-testakten.zip", require_notice=True)
+    assert_same("alle-testakten.zip", [NOTICE_FILENAME, *individual_archives], combined_actual)
+    if any(name != NOTICE_FILENAME and not name.lower().endswith(".zip") for name in combined_actual):
         fail("alle-testakten.zip: enthaelt andere Dateien als Einzel-ZIPs")
 
     print(

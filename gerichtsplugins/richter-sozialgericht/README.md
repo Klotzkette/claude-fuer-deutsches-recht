@@ -56,6 +56,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
 | [Erwerbsminderungsrente Köln: Long-Covid, POTS und schwankende Leistungsfähigkeit](../../testakten/rentenrecht-erwerbsminderung-long-covid-pots-koeln/README.md) | [Gesamt-PDF](../../testakten/rentenrecht-erwerbsminderung-long-covid-pots-koeln/gesamt-pdf/rentenrecht-erwerbsminderung-long-covid-pots-koeln_gesamt.pdf) | [`testakte-rentenrecht-erwerbsminderung-long-covid-pots-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-erwerbsminderung-long-covid-pots-koeln.zip) | [`testakte-rentenrecht-erwerbsminderung-long-covid-pots-koeln-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-erwerbsminderung-long-covid-pots-koeln-einzelpdfs.zip) |

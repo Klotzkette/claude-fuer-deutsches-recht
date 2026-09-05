@@ -11,35 +11,21 @@ checks:
     check_type: human_review
     description: Erstattungsforderung und Wirkung der Uebergangszeit aus dem Monatsraster 12_waisenrente_monatsraster_berechnung.csv
       nachrechnen.
-    note: Sechs Monate Januar bis Juni 2026 zu je 307.10 EUR ergeben 1842.60 EUR Ueberzahlung. Das Uebergangszeit-Argument
-      erfasst als vier Kalendermonate vor Studienbeginn Oktober 2026 nur Juni bis September 2026, davon ist unter
-      den zurueckgeforderten Monaten allein Juni 2026 betroffen, so dass die Erstattung hoechstens um 307.10 EUR
-      auf 1535.50 EUR sinkt.
   - id: r02-altersgrenze-tatbestand
     check_type: human_review
     description: Altersgrenze und Ausbildungstatbestand je Monat sauber pruefen.
-    note: Ausbildungstatbestand bis 30.11.2025 bejaht, Luecke ab Januar 2026 erkannt, Cafejob als geringfuegige
-      Beschaeftigung nicht als Ausbildung gewertet.
   - id: r03-status-gemeldet-gegen-tatsaechlich
     check_type: human_review
     description: Diskrepanz zwischen gemeldetem und tatsaechlichem Ausbildungsstatus aufklaeren und krankheitsbedingten
       Abbruch von freier Pause unterscheiden.
-    note: Formale Einbindung bis 30.11.2025 gegen tatsaechliche regelmaessige Teilnahme bis 14.10.2025 abgegrenzt,
-      krankheitsbedingte Unterbrechung fuer Januar bis Mai 2026 mit Attest vom 05.12.2025 und Stellungnahme vom
-      18.05.2026 belegt.
   - id: r04-anhoerung-und-aufhebung
     check_type: human_review
     description: Rueckforderung und Weiterzahlungsanspruch trennen und die behauptete Nichtzustellung des Anhoerungsschreibens
       vom 28.04.2026 als eigenen Pruefpunkt behandeln.
-    note: Aufhebung mit Anhoerungsmangel und Vertrauensschutz geprueft, getrennt vom Anspruchsteil vorgetragen.
   - id: r05-junizahlung-diskrepanz
     check_type: human_review
     description: Widerspruch zwischen Mandantinnenangabe und Kontoauszug aufklaeren.
-    note: Angabe Rente zuletzt im Mai 2026 durch die tatsaechliche Zahlung von 307.10 EUR am 02.06.2026 widerlegt,
-      uebereinstimmend mit dem Erstattungszeitraum Januar bis Juni 2026.
   - id: r06-anknuepfungspunkte-und-fristen
     check_type: human_review
     description: Einarbeitungsmonat und Studienbeginn als moegliche unterschiedliche Anknuepfungspunkte behandeln
       und Fristen sichern.
-    note: Einarbeitung ab 01.09.2026 und Studienbeginn ab 01.10.2026 unterschieden, Widerspruchsfrist bis 15.07.2026
-      und Nachweisfrist bis 31.07.2026 eingehalten.

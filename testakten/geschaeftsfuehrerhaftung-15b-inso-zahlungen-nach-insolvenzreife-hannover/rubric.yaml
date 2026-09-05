@@ -30,34 +30,22 @@ checks:
     check_type: human_review
     description: Die Zahlungsunfähigkeit wird aus den Primärdaten hergeleitet und vom im Eigenantrag behaupteten
       Eintritt am 5. Januar 2026 getrennt.
-    note: Die Unterdeckung ist ab Ende Mai 2025 zweistellig und wächst weiter. Den Eintritt spätestens im September
-      2025, den Fristablauf am 13. Oktober 2025 und die Antragstellung am 20. Januar 2026 getrennt ausweisen.
   - id: privilegierung-absatz-zwei-und-drei
     check_type: human_review
     description: Die Vermutungs- und Privilegierungsregeln des Paragraf 15b Absatz 1 Satz 2 sowie der Absätze 2
       und 3 InsO werden zeitlich sauber angewendet.
-    note: Dokumentierte Sanierungs- oder Antragsvorbereitungsmaßnahmen, laufende Antragsfrist und Zahlungen nach
-      Fristablauf getrennt prüfen; bloße Hoffnung auf das Weihnachtsgeschäft genügt nicht.
   - id: zahlungskategorien-und-masseschmaelerung
     check_type: human_review
     description: Jede Zahlungskategorie wird eigenständig geprüft und der Einwand einer geringeren Masseschmälerung
       nach Paragraf 15b Absatz 4 Satz 2 InsO beweisbezogen behandelt.
-    note: Wareneinkauf, Energie, Löhne, Sozialabgaben, Mieten, Leasing und Gesellschafterzahlungen nicht pauschal
-      zusammenfassen; den Rechenweg von 1.238.400 Euro zur geltend gemachten Forderung von 1.080.100 Euro zeigen.
   - id: steuerzahlungen-und-sozialabgaben
     check_type: human_review
     description: Steuerzahlungen und Sozialversicherungsbeiträge werden nach Gläubiger, Fälligkeit, Fristlage und
       möglicher Pflichtenkollision getrennt.
-    note: Die erste Steuerzahlung vom 10. Oktober 2025 lag vor dem angenommenen Fristablauf am 13. Oktober; die
-      drei späteren Zahlungen lagen danach. Arbeitnehmer- und Arbeitgeberanteile sowie Paragraf 266a StGB trennen.
   - id: gesellschafterzahlung
     check_type: human_review
     description: Das Beraterhonorar an die Ohlendorf Beteiligungs-UG wird an Paragraf 15b Absatz 5 InsO und den
       einschlägigen Anfechtungsnormen gemessen.
-    note: Vier Zahlungen zu je 12.000 Euro, die rückgebuchte fünfte Rate, Doppelvertretung, fehlende Leistungsnachweise
-      und Chatnachrichten beweisbezogen einordnen.
   - id: deckung-und-verhandlung
     check_type: human_review
     description: Anspruchsabwehr, Deckungsprüfung und Vergleichsstrategie werden als getrennte Arbeitsstränge behandelt.
-    note: Bedingungswerk, Abwehrkostenschutz, Wissentlichkeitsausschluss und das Warnschreiben vom 29. September
-      2025 in die Strategie einbeziehen.

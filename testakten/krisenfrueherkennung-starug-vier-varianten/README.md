@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/krisenfrueherkennung-starug-vier-varianten_gesamt.pdf`](gesamt-pdf/krisenfrueherkennung-starug-vier-varianten_gesamt.pdf) |
@@ -20,6 +24,10 @@ English: The original-format ZIP contains the working files directly at archive 
 <!-- END gesamt-pdf-section (autogen) -->
 
 ## ⬇️ Direkt-Download
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Akte | Direkt-Download |
 | --- | --- |
@@ -263,7 +271,6 @@ mehr greift, aber eine geordnete Insolvenz noch möglich ist.
 | `04_salaltbar_Filialkostenrechnung_2025.xlsx` | D | XLSX | Filialübersicht + Verbindlichkeiten-Blatt; GuV je Filiale; Ampelkennzeichnung |
 | `04_salaltbar_Verbindlichkeiten_Stand_26-04-2026.csv` | D | CSV | Fällige Verbindlichkeiten je Gläubiger mit Mahnstand; Summe EUR 43.300 gegen Kassenbestand EUR 3.400 |
 | `Mandatsuebersicht_alle_4_Varianten_22-05-2026.pdf` | alle | PDF | Kanzlei-Übersicht aller 4 Mandate; Statusübersicht; Az. und nächste Schritte |
-| `Notiz_Vergleich_Krisenstadien.txt` | alle | TXT | Interne Kanzleinotiz; synoptischer Vergleich Krisenstadien + Lernpunkte |
 
 **Gesamt: 22 Einzeldateien** (6 × Variante A, 4 × Variante B, 4 × Variante C, 5 × Variante D + 2 übergreifend)
 
@@ -330,8 +337,8 @@ Mandatsanbahnung die relevanten Fakten extrahiert:
 
 - Liquiditätsstatus aus E-Mail-Text ableiten (EUR 3.400, EUR 43.300 fällig)
 - Erstinstruktionen der RAin qualifizieren (Zahlungsstopp, Unterlagenliste, Kostentransparenz)
-- StaRUG-Tauglichkeitsfrage korrekt beantworten (nein, da zu groß/zu teuer/zu spät)
-- Mietvertragsproblem Sonnenallee rechtlich einordnen (Kündigung nur via § 109 InsO)
+- Verfügbare Instrumente anhand von Krisenstand, Kosten, Beteiligten und Zeitbedarf vergleichen
+- Mietvertrag Sonnenallee und dokumentierte Kündigungserklärungen auswerten
 
 ### 7. Besonderheiten gemeinnütziger Rechtsträger (Fall A)
 

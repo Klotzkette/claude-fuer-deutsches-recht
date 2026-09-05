@@ -1,0 +1,14 @@
+﻿Datum;Bezug;Gegenpartei;Betrag_Auftrag_EUR;Status;Kontobewegung_EUR;Bankstand_nach_Zeile_EUR;Hinweis
+2026-01-02;POOL-0102;Lieferantenpool;-98.600,00;Nicht ausgeführt;0,00;-461.079,54;Interne Freigabe fehlt
+2026-01-03;KOR-0103;Kornhafen Fachgroßhandel;42.000,00;Gebucht;42.000,00;-419.079,54;Kundenzahlung
+2026-01-05;LOHN-1225;Nettolöhne Dezember;-35.000,00;Gebucht;-35.000,00;-454.079,54;Ausgleich 3720
+2026-01-05;SV-1225;Sozialversicherung Dezember;-22.000,00;Gebucht;-22.000,00;-476.079,54;Ausgleich 3740
+2026-01-07;MF-25-CA-1022;Noreva;55.000,00;Gebucht;55.000,00;-421.079,54;Teilzahlung
+2026-01-08;AS-25-1104;AndenSaat;-65.000,00;Gebucht;-65.000,00;-486.079,54;Teilzahlung
+2026-01-09;POL-0109;Polderkern Food;32.000,00;Gebucht;32.000,00;-454.079,54;Kundenzahlung
+2026-01-12;MIETE-0126;Brucker Gewerbehof;-11.900,00;Gebucht;-11.900,00;-465.979,54;Miete Januar, 10.000 netto und 1.900 USt
+2026-01-12;LST-1225;Lohnsteuer Dezember;-13.350,00;Gebucht;-13.350,00;-479.329,54;Ausgleich 3730
+2026-01-13;POOL-0113;Lieferantenpool;-147.000,00;Nicht ausgeführt;0,00;-479.329,54;Zweite Freigabe fehlt
+2026-01-13;LAB-0113;Vellaris Labor;-35.700,00;Gebucht;-35.700,00;-515.029,54;30.000 netto und 5.700 USt
+2026-01-14;VEL-0114;Veloria Naturmarkt;48.000,00;Gebucht;48.000,00;-467.029,54;Kundenzahlung
+2026-01-15;LAD-0115;Ladewerk Transport;-18.500,00;Gebucht;-18.500,00;-485.529,54;Teilzahlung

@@ -11,43 +11,19 @@ checks:
   - id: p1-rolle-fristen-arbeitsprodukt
     check_type: human_review
     description: Verfahrensrolle, Fristen und naechstes Arbeitsprodukt vor der materiellen Pruefung klaeren.
-    note: Der Bearbeiter ordnet die Rolle als Revisionsverteidigung des Murat Candan ein, erfasst die Zustellung
-      der Urteilsgruende am 20.04.2026 und die Monatsfrist des Paragraf 345 StPO mit Fristende 20.05.2026, und benennt
-      als naechstes Arbeitsprodukt die Revisionsbegruendung mit vollstaendiger Verfahrensruege.
   - id: p2-belastend-entlastend-trennen
     check_type: human_review
     description: Belastende und entlastende Tatsachen je Beweismittel getrennt ausweisen.
-    note: Der Bearbeiter trennt die Belastung durch den Mitangeklagten Krawczyk und die unscharfe Videoaufnahme
-      von den entlastenden Beweismitteln (Alibizeuge Nowak, Fahrtenprotokoll der Taxi-Ruf Duisburg) und wuerdigt
-      das Kronzeugeninteresse des Mitangeklagten sowie die begrenzte Aussagekraft der Videoaufnahme je Beweismittel.
   - id: p3-protokolllage-274
     check_type: human_review
     description: Sicherstellungskette der Verfahrenstatsachen, hier die Protokolllage und die Beweiskraft nach Paragraf
       274 StPO, gesondert pruefen.
-    note: Der Bearbeiter erkennt, dass nach Paragraf 274 StPO die Foermlichkeiten allein durch das Protokoll bewiesen
-      werden, prueft die Bedeutung der abgelehnten Protokollberichtigung vom 15.06.2026 und legt dar, wie der Inhalt
-      des Beweisantrags aus dem als Anlage genommenen Antrag und der Verteidiger-Mitschrift fuer die Ruge dargelegt
-      werden kann.
   - id: p4-chronologie-divergenzen
     check_type: human_review
     description: Datenauswertungs-Kern mit konkreten Werten aus der Sitzungschronologie und den Protokollfassungen.
-    note: 'Der Bearbeiter setzt 10_hauptverhandlung_protokoll_chronologie.csv mit der Gegenueberstellung 12 zusammen
-      und stellt fest, dass die Hauptverhandlung an fuenf Sitzungstagen stattfand und dass genau drei Vorgaenge
-      nicht deckungsgleich protokolliert sind: der Beweisantrag vom 05.02.2026 um 11:20 Uhr (verkuerzt), die Konnexitaetsdarlegung
-      um 11:24 Uhr (im Protokoll fehlend) und der Ablehnungsbeschluss vom 12.02.2026 um 09:40 Uhr (verkuerzt). Er
-      ermittelt aus den Daten den Abstand von sieben Tagen zwischen Beweisantrag und Ablehnung sowie die Urteilsabsetzung
-      von 67 Tagen zwischen Urteil (12.02.2026) und Zustellung der Gruende (20.04.2026).'
   - id: p5-diskrepanz-ablehnung-protokoll
     check_type: human_review
     description: 'Diskrepanz-Pflichtpunkt: Die Ablehnungsbegruendung widerspricht dem tatsaechlichen Antragsinhalt.'
-    note: Der Bearbeiter stellt die protokollierte Ablehnung als aus tatsaechlichen Gruenden bedeutungslos dem tatsaechlichen
-      Antragsinhalt gegenueber, wonach der Zeuge Nowak den Angeklagten am 03.03.2025 um 21:18 Uhr am Bahnhof aufnahm,
-      waehrend die Tat gegen 21:35 Uhr andernorts begangen wurde. Er benennt, dass ein Alibi, das die Anwesenheit
-      am Tatort ausschliesst, nicht bedeutungslos sein kann, und dass die Ablehnung sich mit der Alibiwirkung nicht
-      auseinandersetzt.
   - id: p6-revisionsbegruendung-ruegen
     check_type: human_review
     description: Verfahrensruge, Aufklaerungsruge und Sachruge sauber trennen und tragfaehig formulieren.
-    note: Der Bearbeiter finalisiert die Verfahrensruge nach Paragraf 244 Abs. 3 StPO mit Verfahrenstatsachen, Rechtsfehler
-      und Beruhen, ergaenzt die Aufklaerungsruge nach Paragraf 244 Abs. 2 StPO gestuetzt auf das Fahrtenprotokoll
-      und formuliert die Sachruge als Auffangnetz knapp, aber tragfaehig, ohne Praejudizienbindung zu behaupten.

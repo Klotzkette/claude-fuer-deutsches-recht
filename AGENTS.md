@@ -15,13 +15,13 @@ Gilt für alle Vorlagen, Verträge, Memos, Schriftsätze und sonstigen Dokumente
 
 ## Pflicht-Hinweis für Testakten
 
-Jede bestehende und jede künftig angelegte Testakte muss in allen drei Auslieferungsformen den folgenden Hinweis auf Deutsch und Englisch tragen:
+Für jede bestehende und jede künftig angelegte Testakte gilt der folgende unveränderte Hinweis auf Deutsch und Englisch:
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-- Im Gesamt-PDF steht der Hinweis genau einmal auf der ersten Seite.
-- Im Einzel-PDF-ZIP steht der Hinweis genau einmal auf der ersten Seite jedes PDFs.
-- Im ZIP mit den Originalformaten liegt der Hinweis als UTF-8-kodierte `README.txt` unmittelbar auf der ZIP-Wurzelebene.
-- Die Hinweise werden ausschließlich durch die zentralen Testakten-Builder erzeugt. Änderungen an einer Testakte dürfen die zugehörigen Hinweisprüfungen nicht umgehen oder abschwächen.
+- Gesamt-PDF und Einzel-PDFs enthalten weder eine Hinweisseite noch diesen Warntext. Der Hinweis für PDF-Downloads steht ausschließlich auf der zugehörigen README-/Downloadseite unmittelbar vor dem Downloadlink oder der Downloadtabelle.
+- Beide ZIP-Varianten, also Originalformat-ZIP und Einzel-PDF-ZIP, enthalten unmittelbar auf der ZIP-Wurzelebene eine UTF-8-kodierte `README.txt`, die mit dem zweisprachigen Hinweis beginnt. Dasselbe gilt für Sammelpakete mit Testakten.
+- Auf der Repository-Startseite, im Download-Index sowie in den zentralen, aktenbezogenen und Plugin-READMEs steht der vollständige Hinweis unmittelbar vor jeder PDF-/ZIP-Downloadgruppe für Testakten. Ein allgemeiner Hinweis an anderer Stelle genügt nicht.
+- Die zentralen Testakten-Builder und README-Generatoren erzeugen die Hinweise reproduzierbar. Änderungen an einer Testakte dürfen die zugehörigen Prüfungen von Wortlaut und Position nicht umgehen oder abschwächen.

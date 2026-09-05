@@ -74,6 +74,7 @@ def main() -> int:
     combined_tmp = combined.with_name(f".{combined.name}.tmp")
     try:
         with zipfile.ZipFile(combined_tmp, "w", compression=zipfile.ZIP_DEFLATED) as zipf:
+            B.write_pdf(zipf, B.NOTICE_FILENAME, B.NOTICE_BYTES)
             for path in sorted(built, key=lambda p: p.name):
                 B.write_archive(zipf, path)
         combined_tmp.replace(combined)

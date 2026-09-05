@@ -56,6 +56,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
 | [Auslandseinsatz Mexiko - Wasserbau, Laufbahn und Besoldung](../testakten/beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung/README.md) | [Gesamt-PDF](../testakten/beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung/gesamt-pdf/beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung_gesamt.pdf) | [`testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip) | [`testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung-einzelpdfs.zip) |

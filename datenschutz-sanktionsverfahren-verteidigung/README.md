@@ -56,6 +56,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
 | [Auskunft nach Artikel 15 DSGVO bei verstreuten Datenbeständen (Karlsruhe)](../testakten/datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe/README.md) | [Gesamt-PDF](../testakten/datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe/gesamt-pdf/datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe_gesamt.pdf) | [`testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe.zip) | [`testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe-einzelpdfs.zip) |

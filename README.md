@@ -43,7 +43,7 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 | **Skills** | 22424 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
 | **Werkstatt-Prompts** | 235 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | **Schnellstart-/Mini-Prompts** | 235 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 323 zentral / 326 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+| **Testakten** | 324 zentral / 327 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
 Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22424 Skills benutzbar bleibt.
 
@@ -64,7 +64,7 @@ Die Skills sind inzwischen deutlich verbessert und in verschiedenen Konstellatio
 
 Vor einem produktiven Einsatz sind Berufsrecht, Mandatsgeheimnis, Datenschutz, technischer Datenfluss und der fachliche Rechtsstand eigenverantwortlich zu prüfen. Die gebündelten Prüfpunkte stehen unter [Berufsrecht, Datenschutz und technischer Einsatz](#berufsrecht-datenschutz-und-technischer-einsatz).
 
-> Testakten zum Ausprobieren: Die [Aktenübersicht](./testakten/README.md) enthält künstlich erzeugte Übungsfälle, keine anonymisierten Originalmandate. Pro Akte stehen Gesamt-PDF, ZIP mit einzelnen PDFs und ZIP mit Originalformaten bereit. Alle Auslieferungsformen tragen den zweisprachigen Warnhinweis zur experimentellen Erzeugung und Nutzung auf eigene Verantwortung und Gefahr.
+> Testakten zum Ausprobieren: Die [Aktenübersicht](./testakten/README.md) enthält künstlich erzeugte Übungsfälle, keine anonymisierten Originalmandate. Pro Akte stehen Gesamt-PDF, ZIP mit einzelnen PDFs und ZIP mit Originalformaten bereit. Der zweisprachige Warnhinweis zur experimentellen Erzeugung und Nutzung auf eigene Verantwortung und Gefahr steht unmittelbar vor den Downloads und am Anfang der `README.txt` beider ZIP-Varianten und Sammelpakete. Die PDFs enthalten weder eine Hinweisseite noch diesen Warntext.
 
 ### Klotzkettes Juristische Promptliste
 
@@ -86,18 +86,22 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Skills (SKILL.md)** | 22424 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 323 zentral / 326 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v443.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v443.1.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Paket | Download | Inhalt |
 | --- | --- | --- |
 | **Alle Plugins als MegaZIP** | [alle-plugins-megazip.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) | Alle installierbaren Plugin-ZIPs plus `marketplace.json` in einem Archiv. |
 | **Marketplace-Manifest** | [marketplace.json](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/marketplace.json) | Marketplace-Definition für Kommandozeilen-Nutzung oder ein privates beziehungsweise internes Organisations-Spiegelrepository; kein Einzel-Plugin und kein manueller ZIP-Upload. |
 | **Alle Skills als Markdown-ZIP** | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) | `SKILL.md`-Dateien, zugehörige Markdown-Referenzen und Plugin-READMEs. Werkstatt und Schnellstart sind bewusst nicht enthalten, sondern bleiben einzelne Markdown-Direktdownloads. Die einzelnen Skill-Markdown-Bundles liegen im Komplettpaket, nicht mehr als eigene Release-Assets. |
-| **Alle Testakten als ZIP** | [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Sammelarchiv der einzelnen Akten-ZIPs. In jedem Akten-ZIP liegen PDF, DOCX, XLSX, JPEG, EML und weitere Originalformate flach auf der Wurzelebene; Markdown und Unterordner sind ausgeschlossen. Eine zweisprachige `README.txt` weist auf die experimentelle Erzeugung und Nutzung auf eigene Verantwortung und Gefahr hin. |
-| **Alle Testakten als Einzel-PDF-ZIP** | [alle-testakten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) | Sammelarchiv der einzelnen PDF-ZIPs. In jedem Akten-ZIP liegt jede Unterlage als separate, sauber gerenderte PDF flach auf der Wurzelebene. Jedes PDF beginnt mit dem zweisprachigen Hinweis; pro Testakte gibt es zusätzlich ein eigenes `testakte-<name>-einzelpdfs.zip` im Release. |
+| **Alle Testakten als ZIP** | [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Sammelarchiv der einzelnen Akten-ZIPs. In jedem Akten-ZIP liegen PDF, DOCX, XLSX, JPEG, EML und weitere Originalformate flach auf der Wurzelebene; Markdown und Unterordner sind ausgeschlossen. Die `README.txt` auf der Wurzelebene jedes Akten-ZIPs und des Sammelarchivs beginnt mit dem zweisprachigen Warnhinweis. |
+| **Alle Testakten als Einzel-PDF-ZIP** | [alle-testakten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) | Sammelarchiv der einzelnen PDF-ZIPs. In jedem Akten-ZIP liegt jede Unterlage als separate, sauber gerenderte PDF flach auf der Wurzelebene. Die PDFs enthalten weder eine Hinweisseite noch den Warntext; die `README.txt` jedes Einzel-PDF-ZIPs und des Sammelarchivs beginnt mit dem zweisprachigen Hinweis. Pro Testakte gibt es zusätzlich ein eigenes `testakte-<name>-einzelpdfs.zip` im Release. |
 | **Alles komplett als ZIP** | [alles-komplettpaket.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Alle Plugin-ZIPs, alle Skill-Markdown-ZIPs, alle Testakten-ZIPs (inklusive Einzel-PDF-ZIPs), Marketplace-Manifest und Übersichtsdateien in einem Archiv. Werkstatt und Schnellstart sind nicht Bestandteil der Archive; sie bleiben pro Plugin einzelne Markdown-Direktdownloads. |
 | **SHA-256-Prüfsummen** | [checksums-sha256.txt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/checksums-sha256.txt) | Maschinenlesbare Prüfsummen für Release-Assets; die Release-Pipeline gleicht Größen und Hashes nach dem Upload gegen GitHub ab. |
 | **Klotzkettes Juristische Promptliste** | [PROMPTLISTE.md](./PROMPTLISTE.md) | Kuratierte Übersichtsseite praxistauglicher Prompt-Bausteine — sortiert nach Fachanwaltschaften, zum Kopieren in ChatGPT, Claude, Gemini, Perplexity oder beliebige andere Tools. Mit großem Disclaimer. |
@@ -218,7 +222,15 @@ Die Plugins, Skills und Prompts sind Ausgangspunkte für eigene, fachlich kontro
 >
 > Diese Plugins sind in jedem Modus (Claude Code, Cowork, Desktop) einzeln zuschaltbar und greifen quer in alle Rechtsgebiets-Plugins ein. Wer mit dem Marketplace startet, sollte sie zuerst aktivieren — alle anderen Skills referenzieren ihre Regeln (siehe [`references/methodik-buergerliches-recht.md`](./references/methodik-buergerliches-recht.md) und [`references/zitierweise.md`](./references/zitierweise.md)).
 
-> **Testakten zum Ausprobieren:** Im Ordner [`testakten/`](./testakten) liegen umfangreiche Arbeitsakten mit PDFs, Tabellen, Textdokumenten, E-Mails, Bildern und weiteren Originalformaten. Jede Akte ist als Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP verfügbar; zusätzlich gibt es [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) als Sammelarchiv. Alle drei Fassungen tragen auf Deutsch und Englisch den Hinweis, dass die Testakte mit KI generiert wurde, experimentell ist und auf eigene Verantwortung und Gefahr benutzt wird. Details und Direktdownloads stehen in der [Testakten-Übersicht](./testakten/README.md).
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+> **Testakten zum Ausprobieren:** Im Ordner [`testakten/`](./testakten) liegen umfangreiche Arbeitsakten mit PDFs, Tabellen, Textdokumenten, E-Mails, Bildern und weiteren Originalformaten. Jede Akte ist als Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP verfügbar; zusätzlich gibt es [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) als Sammelarchiv. Der unveränderte DE/EN-Warnhinweis steht unmittelbar vor den Downloads und am Anfang der `README.txt` beider ZIP-Varianten und Sammelpakete, nicht innerhalb der PDFs. Details und Direktdownloads stehen in der [Testakten-Übersicht](./testakten/README.md).
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 > **🎁 Goodie – Testakte zum Ausprobieren der Claude Cowork-Funktion:** Die Sonderfall-Akte [ModeFuchs Cowork](./testakten/inkasso-modefuchs-cowork-sonderfall/README.md) simuliert einen unsortierten Desktop-Übergabeordner eines Inkassounternehmens: E-Mails als echte `.eml`-Dateien, Mahnungen als Scans ohne Textebene, ein Beleg-Foto, ein rohes Forderungskonto als Excel und ein Klageentwurf mit Anlagenverzeichnis K 1 bis K 7 – alle Dateinamen absichtlich nichtssagend (`Scan007.pdf`, `mail (2).eml`, `Dokument1.pdf`). Cowork soll in jede Datei hineinschauen, sprechend umbenennen, die Anlagen gestempelt als PDF für beA/eBO zusammenstellen und die Forderungsaufstellung prüfen. Direkt-Download: [`testakte-inkasso-modefuchs-cowork-sonderfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-modefuchs-cowork-sonderfall.zip)
 

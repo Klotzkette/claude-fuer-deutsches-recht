@@ -56,6 +56,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
 | [Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage](../testakten/europarecht-kompass-beihilfe-richtlinie/README.md) | [Gesamt-PDF](../testakten/europarecht-kompass-beihilfe-richtlinie/gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf) | [`testakte-europarecht-kompass-beihilfe-richtlinie.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip) | [`testakte-europarecht-kompass-beihilfe-richtlinie-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie-einzelpdfs.zip) |

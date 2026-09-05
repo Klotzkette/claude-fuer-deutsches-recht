@@ -1,6 +1,6 @@
 # kanzlei-management
 
-**101 Skills** · Stand `v443.0.0`
+**101 Skills** · Stand `v443.1.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../kanzlei-management/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

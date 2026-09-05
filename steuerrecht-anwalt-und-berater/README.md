@@ -48,13 +48,17 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`steuerrecht-anwalt-und-berater.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`steuerrecht-anwalt-und-berater-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`steuerrecht-anwalt-und-berater-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md) |
-| Zugeordnete Testakten | PDF / ZIP | [18 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
+| Zugeordnete Testakten | PDF / ZIP | [19 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
@@ -76,6 +80,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 | [Steuerrecht: Kleine Heizungsbau-GmbH und Gesellschafternähe in Bamberg](../testakten/steuer-heizungsbau-gmbh-vga-lohnsteuer-bamberg/README.md) | [Gesamt-PDF](../testakten/steuer-heizungsbau-gmbh-vga-lohnsteuer-bamberg/gesamt-pdf/steuer-heizungsbau-gmbh-vga-lohnsteuer-bamberg_gesamt.pdf) | [`testakte-steuer-heizungsbau-gmbh-vga-lohnsteuer-bamberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-steuer-heizungsbau-gmbh-vga-lohnsteuer-bamberg.zip) | [`testakte-steuer-heizungsbau-gmbh-vga-lohnsteuer-bamberg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-steuer-heizungsbau-gmbh-vga-lohnsteuer-bamberg-einzelpdfs.zip) |
 | [Steuerrecht: Ingenieurbüro zwischen Planung und Produktgeschäft in Koblenz](../testakten/steuer-ingenieurbuero-freiberuf-gewerbe-koblenz/README.md) | [Gesamt-PDF](../testakten/steuer-ingenieurbuero-freiberuf-gewerbe-koblenz/gesamt-pdf/steuer-ingenieurbuero-freiberuf-gewerbe-koblenz_gesamt.pdf) | [`testakte-steuer-ingenieurbuero-freiberuf-gewerbe-koblenz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-steuer-ingenieurbuero-freiberuf-gewerbe-koblenz.zip) | [`testakte-steuer-ingenieurbuero-freiberuf-gewerbe-koblenz-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-steuer-ingenieurbuero-freiberuf-gewerbe-koblenz-einzelpdfs.zip) |
 | [Steuerrecht: Lohnsteuerprüfung im kleinen Küstenbetrieb in Rostock](../testakten/steuer-kleinbetrieb-sachbezuege-lohnpruefung-rostock/README.md) | [Gesamt-PDF](../testakten/steuer-kleinbetrieb-sachbezuege-lohnpruefung-rostock/gesamt-pdf/steuer-kleinbetrieb-sachbezuege-lohnpruefung-rostock_gesamt.pdf) | [`testakte-steuer-kleinbetrieb-sachbezuege-lohnpruefung-rostock.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-steuer-kleinbetrieb-sachbezuege-lohnpruefung-rostock.zip) | [`testakte-steuer-kleinbetrieb-sachbezuege-lohnpruefung-rostock-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-steuer-kleinbetrieb-sachbezuege-lohnpruefung-rostock-einzelpdfs.zip) |
+| [BWA-Vergleich 2024 und 2025: Mainfrucht Spezialitätenhandel GmbH Nürnberg](../testakten/steuerrecht-bwa-vergleich-nuernberg/README.md) | [Gesamt-PDF](../testakten/steuerrecht-bwa-vergleich-nuernberg/gesamt-pdf/steuerrecht-bwa-vergleich-nuernberg_gesamt.pdf) | [`testakte-steuerrecht-bwa-vergleich-nuernberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-steuerrecht-bwa-vergleich-nuernberg.zip) | [`testakte-steuerrecht-bwa-vergleich-nuernberg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-steuerrecht-bwa-vergleich-nuernberg-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

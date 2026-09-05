@@ -9,8 +9,10 @@ Akte-komplett-Sektion mit drei getrennten Downloadfassungen ein:
 Idempotent ueber HTML-Marker. Position: direkt nach dem H1, vor allen
 weiteren Sektionen (insbesondere vor dem Direkt-Download-Block).
 
-Ohne Argumente werden alle Akten bearbeitet. Optional koennen konkrete
-Testakten-Namen angegeben werden, um nur deren Downloadsektionen zu erneuern.
+Ohne Argumente werden alle Akten bearbeitet und Warnhinweise unmittelbar vor
+Testakten-Downloads auch in Root-, Index- und Plugin-READMEs ergaenzt.
+Optional koennen konkrete Testakten-Namen angegeben werden, um nur deren
+Downloadsektionen zu erneuern.
 """
 from __future__ import annotations
 
@@ -19,6 +21,8 @@ import sys
 from pathlib import Path
 
 from testakte_einzelpdf_common import expected_arcnames
+from testakte_disclaimer import NOTICE_MARKDOWN
+from testakte_download_notices import ensure_download_notices, update_download_readmes
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN_DIR = REPO_ROOT / "testakten"
@@ -87,6 +91,8 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
 
 {intro}
 
+{NOTICE_MARKDOWN}
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 {rows}
@@ -128,7 +134,9 @@ def inject(readme: Path, slug: str) -> str:
         re.DOTALL,
     )
     if pat.search(text):
-        new_text = normalize_marker_spacing(pat.sub(new_section, text, count=1))
+        new_text = ensure_download_notices(
+            normalize_marker_spacing(pat.sub(new_section, text, count=1)), case_readme=True
+        )
         if new_text == text:
             return "unchanged"
         readme.write_text(new_text, encoding="utf-8")
@@ -151,7 +159,7 @@ def inject(readme: Path, slug: str) -> str:
         else:
             insert_at = end
         new_text = text[:insert_at] + "\n" + new_section + "\n" + text[insert_at:]
-    new_text = normalize_marker_spacing(new_text)
+    new_text = ensure_download_notices(normalize_marker_spacing(new_text), case_readme=True)
     readme.write_text(new_text, encoding="utf-8")
     return "inserted"
 
@@ -195,6 +203,8 @@ def main() -> int:
         f"\nFertig: {stats['inserted']} neu, {stats['updated']} aktualisiert, "
         f"{stats['unchanged']} unveraendert, {stats['skip']} uebersprungen"
     )
+    if not targets:
+        print(f"Downloadhinweise: {update_download_readmes(REPO_ROOT)} weitere READMEs aktualisiert")
     return 0
 
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verbindlicher zweisprachiger Hinweis fuer alle Testakten-Artefakte."""
+"""Hinweise neben Downloads und in ZIPs; PDF-Akten bleiben ohne Vorspruch."""
 
 from __future__ import annotations
 
@@ -23,6 +23,7 @@ NOTICE_TEXT = (
     f"{NOTICE_EN}\n"
 )
 NOTICE_BYTES = NOTICE_TEXT.encode("utf-8")
+NOTICE_MARKDOWN = f"> {NOTICE_DE}\n>\n> {NOTICE_EN}"
 
 TEAL = "#01696F"
 MUTED = "#6B6A66"
@@ -54,7 +55,7 @@ def pdf_notice_marker_counts(reader) -> tuple[int, int]:
 
 
 def notice_pdf_bytes(testakte_name: str) -> bytes:
-    """Erzeugt eine reproduzierbare A4-Hinweisseite fuer eine Testakte."""
+    """Bildet das alte Seitenformat ausschließlich für Migrationstests nach."""
     from reportlab.lib.colors import HexColor, black
     from reportlab.lib.pagesizes import A4
     from reportlab.lib.units import cm
@@ -98,57 +99,54 @@ def notice_pdf_bytes(testakte_name: str) -> bytes:
     return buffer.getvalue()
 
 
-def add_notice_page(writer, testakte_name: str) -> None:
-    """Fuegt genau eine erzeugte Hinweisseite in einen PDF-Writer ein."""
-    from pypdf import PdfReader
+def _has_notice(page) -> bool:
+    contents = page.get_contents()
+    raw = contents.get_data() if contents is not None else b""
+    if PDF_MARKER_DE in raw or PDF_MARKER_EN in raw:
+        return True
+    text = normalize_text(page.extract_text() or "")
+    return (
+        "Diese Testakte wurde mit KI generiert" in text
+        or "This test case file was generated with AI" in text
+    )
 
-    pages = list(PdfReader(io.BytesIO(notice_pdf_bytes(testakte_name))).pages)
-    if len(pages) != 1:
-        raise ValueError("Hinweis-PDF muss genau eine Seite enthalten")
-    writer.add_page(pages[0])
 
-
-def prepend_notice_page(data: bytes, testakte_name: str) -> bytes:
-    """Stellt einem vorhandenen PDF genau eine Hinweisseite voran."""
+def without_notice_pages(data: bytes) -> bytes:
+    """Entfernt nur eindeutig erkannte alte Hinweisblätter, nie Mischseiten."""
     from pypdf import PdfReader, PdfWriter
 
     reader = PdfReader(io.BytesIO(data))
-    pages = list(reader.pages)
-    if not pages:
-        raise ValueError("PDF ohne Seite kann keinen Testakten-Hinweis erhalten")
+    if not reader.pages:
+        raise ValueError("PDF enthält keine Seite")
+    kept = []
+    for page in reader.pages:
+        if not _has_notice(page):
+            kept.append(page)
+            continue
+        text = normalize_text(page.extract_text() or "")
+        legacy = (
+            r"Hinweis / Notice Akte: \S+ Deutsch "
+            + re.escape(NORMALIZED_NOTICE_DE)
+            + r" English " + re.escape(NORMALIZED_NOTICE_EN)
+        )
+        if re.fullmatch(legacy, text) is None:
+            raise ValueError("Hinweis und Akteninhalt auf derselben Seite: manuelle Prüfung erforderlich")
+    if len(kept) == len(reader.pages):
+        return data
+    if not kept:
+        raise ValueError("PDF enthält außer dem Hinweis keine Aktenunterlage")
     writer = PdfWriter()
-    add_notice_page(writer, testakte_name)
-    for page in pages:
+    for page in kept:
         writer.add_page(page)
-    writer.add_metadata(
-        {
-            "/Title": f"Akte {testakte_name}",
-            "/Author": "Kanzleiakte",
-            "/Subject": "Testakten-Hinweis und Aktenstueck",
-        }
-    )
+    if reader.metadata:
+        writer.add_metadata({str(k): str(v) for k, v in reader.metadata.items() if v is not None})
     output = io.BytesIO()
     writer.write(output)
     return output.getvalue()
 
 
-def ensure_notice_page(data: bytes, testakte_name: str) -> tuple[bytes, bool]:
-    """Ergaenzt den Hinweis nur, wenn bislang keinerlei Hinweis vorhanden ist."""
-    from pypdf import PdfReader
-
-    errors = pdf_notice_errors(data, exactly_once=True)
-    if not errors:
-        return data, False
-
-    reader = PdfReader(io.BytesIO(data))
-    de_count, en_count = pdf_notice_marker_counts(reader)
-    if de_count == 0 and en_count == 0:
-        return prepend_notice_page(data, testakte_name), True
-    raise ValueError("vorhandener Testakten-Hinweis ist unvollstaendig oder mehrfach enthalten")
-
-
-def pdf_notice_errors(data: bytes, *, exactly_once: bool) -> list[str]:
-    """Prueft Position, Wortlaut und auf Wunsch Einmaligkeit des Hinweises."""
+def pdf_content_errors(data: bytes) -> list[str]:
+    """Prüft lesbaren Akteninhalt ohne eingebetteten Herkunftsvorspruch."""
     from pypdf import PdfReader
 
     try:
@@ -158,18 +156,10 @@ def pdf_notice_errors(data: bytes, *, exactly_once: bool) -> list[str]:
     if len(reader.pages) == 0:
         return ["PDF enthaelt keine Seite"]
 
-    first_page = normalize_text(reader.pages[0].extract_text() or "")
     errors: list[str] = []
-    if NORMALIZED_NOTICE_DE not in first_page:
-        errors.append("deutscher Hinweis fehlt auf der ersten Seite")
-    if NORMALIZED_NOTICE_EN not in first_page:
-        errors.append("englischer Hinweis fehlt auf der ersten Seite")
-    if exactly_once:
-        de_count, en_count = pdf_notice_marker_counts(reader)
-        if de_count != 1:
-            errors.append("deutscher Hinweis steht nicht genau einmal im PDF")
-        if en_count != 1:
-            errors.append("englischer Hinweis steht nicht genau einmal im PDF")
+    for number, page in enumerate(reader.pages, start=1):
+        if _has_notice(page):
+            errors.append(f"Seite {number}: Herkunftshinweis gehört an den Download und in README.txt")
     return errors
 
 

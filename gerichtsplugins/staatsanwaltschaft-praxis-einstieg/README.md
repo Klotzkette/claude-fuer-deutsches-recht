@@ -56,6 +56,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
 | [Betäubungsmittel-Kurierfahrt auf der A3 bei Köln](../../testakten/strafrecht-btm-kokain-kurierfahrt-a3-koeln/README.md) | [Gesamt-PDF](../../testakten/strafrecht-btm-kokain-kurierfahrt-a3-koeln/gesamt-pdf/strafrecht-btm-kokain-kurierfahrt-a3-koeln_gesamt.pdf) | [`testakte-strafrecht-btm-kokain-kurierfahrt-a3-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-btm-kokain-kurierfahrt-a3-koeln.zip) | [`testakte-strafrecht-btm-kokain-kurierfahrt-a3-koeln-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-btm-kokain-kurierfahrt-a3-koeln-einzelpdfs.zip) |
