@@ -60,6 +60,7 @@ jobs:
           python3 scripts/test-testakten-email-quality.py
           python3 scripts/test-testakten-ohne-loesungen.py
           python3 scripts/validate-testakten-ohne-loesungen.py
+          python3 scripts/test-testakte-bwa-abstimmung.py
           python3 scripts/validate-testakte-bwa-abstimmung.py
 
       - name: Skill-Aktivierungssignale prüfen

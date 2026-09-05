@@ -8,6 +8,7 @@ from pathlib import Path
 import re
 
 import openpyxl
+from docx import Document
 
 ROOT = Path(__file__).resolve().parent.parent
 CASE = ROOT / "testakten/steuerrecht-bwa-vergleich-nuernberg"
@@ -33,7 +34,20 @@ def amount(value):
     return Decimal(value.replace(".", "").replace(",", "."))
 
 
+def validate_word_headings(path):
+    paragraphs = Document(path).paragraphs
+    for index, paragraph in enumerate(paragraphs):
+        if paragraph.style.name != "Heading 1":
+            continue
+        if index + 2 >= len(paragraphs) or paragraphs[index + 1].text.strip() or not paragraphs[index + 2].text.strip():
+            raise ValueError(f"{path.name}: Leerzeile zwischen Überschrift und Inhalt fehlt: {paragraph.text}")
+        if not paragraph.paragraph_format.keep_with_next or not paragraphs[index + 1].paragraph_format.keep_with_next:
+            raise ValueError(f"{path.name}: Überschrift und Leerzeile müssen beim folgenden Inhalt bleiben")
+
+
 def main():
+    for path in sorted(CASE.glob("*.docx")):
+        validate_word_headings(path)
     closing = {}
     transactions = 0
     for year, prefix in ((2024, "04"), (2025, "05")):

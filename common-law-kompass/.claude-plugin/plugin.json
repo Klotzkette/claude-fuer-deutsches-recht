@@ -1,6 +1,6 @@
 {
   "name": "common-law-kompass",
-  "version": "443.1.0",
+  "version": "443.1.1",
   "description": "Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews.",
   "license": "Apache-2.0 OR MIT",
   "author": {

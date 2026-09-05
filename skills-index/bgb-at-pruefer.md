@@ -1,6 +1,6 @@
 # bgb-at-pruefer
 
-**96 Skills** · Stand `v443.1.0`
+**96 Skills** · Stand `v443.1.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bgb-at-pruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
