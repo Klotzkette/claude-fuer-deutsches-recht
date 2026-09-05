@@ -1,3 +1,11 @@
+# v443.1.1 - Gliederungsabstände der BWA-Unterlagen
+
+- Nachprüfung der neuen Vertragsunterlagen: Nummerierte Überschriften erhalten eine ausdrückliche Leerzeile zum folgenden Inhalt. Überschrift und Leerzeile bleiben beim Seitenumbruch beim Beginn des folgenden Absatzes. Dieselbe Korrektur gilt für das Unternehmensblatt.
+- Eine zusätzliche Dokumentprüfung und drei Regressionen sichern die Abstände. Texte, Vertragsdaten und Buchhaltungszahlen bleiben unverändert; Gesamt-PDF und Einzel-PDFs sind erneut erzeugt.
+- Enthält sämtliche Verbesserungen der Runde v443.1.0. Deren Veröffentlichung wurde vor dem Asset-Upload angehalten; der vorhandene Tag bleibt unverändert erhalten.
+
+---
+
 # v443.1.0 - Rohakten, BWA-Vergleich und verlässliche PDF-Pakete
 
 - Neue Fallakte zur Mainfrucht Spezialitätenhandel GmbH in Nürnberg mit Lager in Erlangen und 20 Beschäftigten: BWA und Summen- und Saldenlisten für 2024 und 2025 als vier eigenständige Excel-Dateien. 24 native Unterlagen verbinden Buchhaltung, offene Posten, Inventur, Zahlungsjournal, Verträge und Korrespondenz mit Geschäftspartnern im Ausland.

@@ -1,6 +1,6 @@
 # fachanwalt-bank-kapitalmarktrecht
 
-**87 Skills** · Stand `v443.1.0`
+**87 Skills** · Stand `v443.1.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-bank-kapitalmarktrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
