@@ -56,6 +56,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
 | [Familienrecht — Sorge, Umgang und Gewaltschutz in Essen](../../testakten/familienrecht-sorge-umgang-gewaltschutz-essen/README.md) | [Gesamt-PDF](../../testakten/familienrecht-sorge-umgang-gewaltschutz-essen/gesamt-pdf/familienrecht-sorge-umgang-gewaltschutz-essen_gesamt.pdf) | [`testakte-familienrecht-sorge-umgang-gewaltschutz-essen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-sorge-umgang-gewaltschutz-essen.zip) | [`testakte-familienrecht-sorge-umgang-gewaltschutz-essen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-sorge-umgang-gewaltschutz-essen-einzelpdfs.zip) |

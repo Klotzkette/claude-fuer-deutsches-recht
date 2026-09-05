@@ -2,7 +2,7 @@
 
 Automatisch generierte Gesamtübersicht aller **22424 Skills** in **235 Plugins**.
 
-Stand: `v443.0.0`.
+Stand: `v443.1.0`.
 
 [Repository-Start](README.md) · [Download-Index](ASSET_INDEX.md) · [Werkstatt und Schnellstart](docs/werkstatt-und-schnellstart-coverage.md) · [Testakten](testakten/README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Detailseiten](skills-index/)
 

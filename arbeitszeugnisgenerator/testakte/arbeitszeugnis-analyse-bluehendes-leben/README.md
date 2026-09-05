@@ -4,6 +4,10 @@ Diese Aktenmappe begleitet das Plugin [`arbeitszeugnisgenerator`](../../README.m
 
 ## Akte komplett lesen
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Datei |
 | --- | --- | --- |
 | Gesamt-PDF (alle zehn Zeugnisse plus Vollvermerk in einer Datei) | PDF | [`gesamt-pdf/arbeitszeugnis-analyse-bluehendes-leben_gesamt.pdf`](gesamt-pdf/arbeitszeugnis-analyse-bluehendes-leben_gesamt.pdf) |

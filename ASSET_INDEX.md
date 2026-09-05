@@ -1,10 +1,15 @@
 # Release-Asset-Index
 
-Stand: v443.0.0, automatisch aktualisierte Asset-Übersicht
+Stand: v443.1.0, automatisch aktualisierte Asset-Übersicht
 
 [Repository-Start](README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Skill-Gesamtübersicht](SKILLS.md) · [Testakten](testakten/README.md) · [Aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest)
 
 ## Sammel-Assets
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Asset | Verwendung |
 | --- | --- |
 | [`marketplace.json`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/marketplace.json) | Marketplace-Manifest für alle Plugins. |

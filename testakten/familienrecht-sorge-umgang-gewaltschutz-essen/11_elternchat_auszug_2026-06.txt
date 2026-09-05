@@ -1,6 +1,12 @@
-Chat-Export Eltern-App "Familonet-Kalender" — Verlauf Derya Aydin / Cem Aydin
-Exportiert am 24.06.2026 durch Derya Aydin, übergeben an Kanzlei Yilmaz & Becker (YB/26-418 DA)
-Hinweis der App: Gelöschte Nachrichten werden im Export als [Nachricht gelöscht] angezeigt.
+Familonet-Kalender | Nachrichtenexport
+Unterhaltung: Derya Aydin / Cem Aydin
+Quelle: Eltern-App auf dem Mobiltelefon von Derya Aydin
+Exportiert am: 24.06.2026 durch Derya Aydin
+Ausgewählter Zeitraum: 12.05.2026 bis 24.06.2026
+Zeitzone: Europe/Berlin (MESZ, UTC+02:00)
+Format: TXT, UTF-8 | Anzeigenamen: Derya / Cem
+Weitergabe: Kanzlei Yilmaz & Becker, YB/26-418 DA
+Gelöschte Nachrichten: [Nachricht gelöscht]
 
 [12.05.2026, 21:14] Cem: Ich sehe gerade du hast bei Leila im Kalender "Flug Izmir 24.7." eingetragen. Ohne mit mir zu reden? So läuft das nicht.
 [12.05.2026, 21:31] Derya: Es ist noch gar nichts gebucht. Meine Mutter wird 70. Wir reden wenn du dich beruhigt hast.
@@ -20,3 +26,9 @@ Hinweis der App: Gelöschte Nachrichten werden im Export als [Nachricht gelösch
 [21.06.2026, 13:02] Derya: Bitte schreib den Kindern nicht über das Schultablet. Das hat auch die Schule gesagt.
 [21.06.2026, 13:04] Cem: Die Schule hat mir gar nichts gesagt.
 [23.06.2026, 08:15] Cem: Mein Anwalt hat euch heute einen Vorschlag geschickt. Samstags. Bitte antwortet schnell, es geht um die Kinder, nicht um uns.
+[23.06.2026, 08:21] Derya: Ich melde mich dazu über die Kanzlei.
+[23.06.2026, 08:25] Cem: Und die Sachen aus der Wohnung? Ich brauche die bis zum 25.
+[23.06.2026, 08:36] Derya: Welche Sachen meinst du?
+[23.06.2026, 08:39] Cem: Kleidung, die Arbeitsunterlagen und das Werkzeug im Keller. Steht auch in dem Schreiben.
+[23.06.2026, 08:43] Derya: Bitte lass den Termin dafür auch über die Anwälte abstimmen.
+[23.06.2026, 08:44] Cem: Sag bitte Bescheid, sobald du eine Uhrzeit hast.

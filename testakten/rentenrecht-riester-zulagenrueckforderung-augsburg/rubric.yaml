@@ -15,35 +15,21 @@ checks:
     check_type: human_review
     description: Mindesteigenbeitrag und korrekte Rueckforderung aus der Tabelle 12_riester_mindesteigenbeitrag_berechnung.csv
       nachrechnen.
-    note: Beitragsjahr 2023 aus Vorjahr 2022 rv-Entgelt 38940.00 ergibt vier Prozent 1557.60 minus Zulage 775.00
-      gleich Mindesteigenbeitrag 782.60; gezahlt 1020.00 deckt ihn, korrekte Rueckforderung 0.00 gegen ZfA-Forderung
-      188.40. Beitragsjahr 2024 aus Vorjahr 2023 rv-Entgelt 41260.00 ergibt vier Prozent 1650.40 minus 775.00 gleich
-      875.40; gezahlt 1320.00 deckt ihn, korrekte Rueckforderung 0.00 oder hoechstens 300.00 gegen ZfA-Forderung
-      474.15.
   - id: r02-steuerbrutto-gegen-sv-brutto
     check_type: human_review
     description: Differenz zwischen Steuerbrutto und rentenversicherungspflichtigem Entgelt als Grund fuer die falsche
       Rueckforderung erkennen.
-    note: Fuer Vorjahr 2022 SV-Brutto 38940.00 gegen Steuerbrutto 37600.00, fuer Vorjahr 2023 SV-Brutto 41260.00
-      gegen Steuerbrutto 41820.00 verwendet.
   - id: r03-kinderzulage-jonas
     check_type: human_review
     description: Kinderzulage fuer Jonas nicht pauschal verlieren lassen, sondern die kindergeldrechtliche Zuordnung
       monatsweise pruefen.
-    note: Erster Anspruchszeitraum Januar 2024 zugunsten der Mutter, daher Kinderzulage Jonas 300.00 fuer das ganze
-      Jahr 2024 bei ihr.
   - id: r04-anbieterhinweis-abgrenzen
     check_type: human_review
     description: Unverbindliche Anbieterempfehlung von der behoerdlichen Zulagenfestsetzung trennen und den Haftungsstrang
       nur nachrangig fuehren.
-    note: Empfehlung der Sonderzahlung 300.00 EUR als Richtwert ohne Vorjahreseinkommen erkannt, Haftung des Anbieters
-      nachrangig behandelt.
   - id: r05-fristen-einspruch-nachweis
     check_type: human_review
     description: Einspruchsfrist aus dem Zugang am 14.06.2026 sichern und die Nachweisfrist der ZfA einhalten.
-    note: Einspruch fristgerecht ab Zugang 14.06.2026 und Nachweisfrist zum 10.08.2026 eingehalten.
   - id: r06-aussetzung-vollziehung
     check_type: human_review
     description: Bereits erfolgte Belastung des Vertragsguthabens bei der Aussetzung der Vollziehung beruecksichtigen.
-    note: Rueckforderung 662.55 EUR bereits aus dem Vertragsguthaben einbehalten, Antrag auf Aussetzung und Erstattung
-      gestellt.

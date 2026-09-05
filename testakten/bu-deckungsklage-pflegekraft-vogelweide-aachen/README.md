@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bu-deckungsklage-pflegekraft-vogelweide-aachen_gesamt.pdf`](gesamt-pdf/bu-deckungsklage-pflegekraft-vogelweide-aachen_gesamt.pdf) |
@@ -50,7 +54,7 @@ English: The original-format ZIP contains the working files directly at archive 
 
 3. **D&O-Versicherungsabwehr** — Skills `fachanwalt-versicherungsrecht-do-deckungsabwehr`, `fachanwalt-versicherungsrecht-regress-abwehr`: Vogelweide war GF der Vogelweide+Co Demenz-WG GmbH (2018–2023). ManagerSchutz AG verweigert Deckung (Inventarverluste 41.000 EUR + Ransomware-Zahlung 18.000 EUR).
 
-4. **Cyber-Lösegeld / Sanktionsrecht** — Skill `fachanwalt-versicherungsrecht-cyber-loesegeld-sanktionsrecht`: Ransomware-Angriff Nov. 2022 auf Demenz-WG; Lösegeld 18.000 EUR BTC; Empfänger-Wallet nachträglich auf OFAC-SDN-Liste (Listung März 2023 — ex post). OFAC-Sanktionsklausel greift nicht.
+4. **Cyber-Lösegeld / Sanktionsrecht** — Skill `fachanwalt-versicherungsrecht-cyber-loesegeld-sanktionsrecht`: Ransomware-Angriff Nov. 2022 auf Demenz-WG; Lösegeld 18.000 EUR BTC; Empfänger-Wallet nachträglich auf OFAC-SDN-Liste (Listung März 2023 — ex post). Die Police und die Angaben zur späteren Listung liegen bei.
 
 5. **LV-Rückkauf** — Skill `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf`: HDI-Kapital-LV (2003, Rückkaufswert ca. 78.200 EUR), strittiger Stornoabzug 3.000 EUR. BGH IV ZR 199/22 Prüfung.
 

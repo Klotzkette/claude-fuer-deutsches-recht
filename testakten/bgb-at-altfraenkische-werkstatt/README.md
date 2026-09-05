@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bgb-at-altfraenkische-werkstatt_gesamt.pdf`](gesamt-pdf/bgb-at-altfraenkische-werkstatt_gesamt.pdf) |
@@ -20,6 +24,10 @@ English: The original-format ZIP contains the working files directly at archive 
 <!-- END gesamt-pdf-section (autogen) -->
 
 ## ⬇️ Direkt-Download
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Akte | Direkt-Download |
 | --- | --- |
@@ -45,7 +53,6 @@ Ausbildungs- und Kanzleiakte zu BGB AT. Die Akte bündelt Vertragsschluss, Onlin
 - 06_anfechtung_preis_und_eigenschaft.docx
 - 07_form_sittenwidrigkeit_bedingung.docx
 - 08_fristenkalender.csv
-- 09_anspruchsmatrix_roh.docx
 - 10_erwartete_prüfpfade.docx
 - 11_bea_qes_formfiktion_schriftsatz.docx
 - 12_anfechtungserklärung_entwurf.docx
@@ -57,7 +64,6 @@ Ausbildungs- und Kanzleiakte zu BGB AT. Die Akte bündelt Vertragsschluss, Onlin
 - 18_kandidatenlösung_kunigunde_5punkte.docx
 - 19_kandidatenlösung_hildegund_7punkte.docx
 - 20_kandidatenlösung_walram_9punkte.docx
-- 21_korrekturmatrix_fehlerdiagnose.docx
 - 22_probanden_feedback_rückgabe.docx
 - 23_inserat_altwerk_aw_77_426.docx
 - 25_quittung_giselher_messingtypen_2026-04-16.docx

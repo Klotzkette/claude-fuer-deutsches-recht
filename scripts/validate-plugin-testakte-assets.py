@@ -11,7 +11,7 @@ from pathlib import Path
 
 from pypdf import PdfReader
 
-from testakte_disclaimer import NOTICE_FILENAME, notice_text_errors, pdf_notice_errors
+from testakte_disclaimer import NOTICE_FILENAME, notice_text_errors, pdf_content_errors
 from testakte_einzelpdf_common import expected_arcnames
 from testakte_zip_common import working_dump_expected_arcnames, working_dump_flat_pairs
 
@@ -40,7 +40,7 @@ def check_pdf(path: Path) -> None:
     data = path.read_bytes()
     if len(data) < 1024 or not data.startswith(b"%PDF") or b"%%EOF" not in data[-4096:]:
         fail(f"{path.relative_to(REPO)} ist kein plausibles PDF")
-    for problem in pdf_notice_errors(data, exactly_once=True):
+    for problem in pdf_content_errors(data):
         fail(f"{path.relative_to(REPO)}: {problem}")
 
 
@@ -55,6 +55,8 @@ def check_zip(
         fail(f"{path}: ZIP fehlt oder ist leer")
     try:
         with zipfile.ZipFile(path) as archive:
+            if any(info.is_dir() for info in archive.infolist()):
+                fail(f"{path}: Verzeichniseintrag im ZIP")
             bad = archive.testzip()
             if bad:
                 fail(f"{path}: defekter ZIP-Eintrag {bad}")
@@ -66,9 +68,9 @@ def check_zip(
                     fail(f"{path}: Unterordner im ZIP: {name}")
                 if name.lower().endswith(".md"):
                     fail(f"{path}: Markdown-Datei im Akten-ZIP: {name}")
-                if suffix and not name.lower().endswith(suffix):
+                if suffix and name != NOTICE_FILENAME and not name.lower().endswith(suffix):
                     fail(f"{path}: unerwarteter Dateityp: {name}")
-                if suffix == ".pdf":
+                if name.lower().endswith(".pdf"):
                     data = archive.read(name)
                     try:
                         pages = list(PdfReader(io.BytesIO(data)).pages)
@@ -76,14 +78,14 @@ def check_zip(
                         fail(f"{path}: PDF nicht lesbar {name}: {exc}")
                     if not pages:
                         fail(f"{path}: PDF ohne Seite: {name}")
-                    for problem in pdf_notice_errors(data, exactly_once=True):
+                    for problem in pdf_content_errors(data):
                         fail(f"{path}: {name}: {problem}")
                     for page_number, page in enumerate(pages, start=1):
                         width = float(page.mediabox.width)
                         height = float(page.mediabox.height)
                         portrait = abs(width - A4_WIDTH) < 1 and abs(height - A4_HEIGHT) < 1
                         landscape = abs(width - A4_HEIGHT) < 1 and abs(height - A4_WIDTH) < 1
-                        if not (portrait or landscape):
+                        if suffix == ".pdf" and not (portrait or landscape):
                             fail(
                                 f"{path}: {name}, Seite {page_number} ist nicht A4 "
                                 f"({width:.1f} x {height:.1f} pt)"
@@ -156,20 +158,23 @@ def main() -> int:
         )
         check_zip(
             dist / pdf_name,
-            expected=pdf_expected,
+            expected=[NOTICE_FILENAME, *pdf_expected],
             suffix=".pdf",
+            require_notice=True,
         )
         source_archives.append(source_name)
         pdf_archives.append(pdf_name)
     check_zip(
         dist / "alle-pluginlokalen-testakten.zip",
-        expected=source_archives,
+        expected=[NOTICE_FILENAME, *source_archives],
         suffix=".zip",
+        require_notice=True,
     )
     check_zip(
         dist / "alle-pluginlokalen-testakten-einzelpdfs.zip",
-        expected=pdf_archives,
+        expected=[NOTICE_FILENAME, *pdf_archives],
         suffix=".zip",
+        require_notice=True,
     )
     print(f"validate-plugin-testakte-assets OK ({count} pluginlokale Testakten)")
     return 0

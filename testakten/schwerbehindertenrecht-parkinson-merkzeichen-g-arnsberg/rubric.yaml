@@ -10,32 +10,19 @@ checks:
   - id: gehstrecke-massstab-g
     check_type: human_review
     description: Aus dem Mobilitaets-Assessment die Gehfaehigkeit gegen den Massstab des Merkzeichens G nachrechnen.
-    note: Ortsuebliche Wegstrecke etwa zwei Kilometer in etwa dreissig Minuten; die Alltagsstrecken von 120 bis
-      350 Meter ergeben ein Tempo von rund 13 bis 20 Meter je Minute und fuer zwei Kilometer zwischen etwa 100 und
-      150 Minuten; der Massstab wird in den Off-Phasen deutlich verfehlt, Merkzeichen G ist begruendet.
   - id: diskrepanz-gutachten-alltag
     check_type: human_review
     description: Die Diskrepanz zwischen versorgungsaerztlicher Annahme und Alltagsdokumentation erkennen.
-    note: Die Annahme zwei Kilometer in dreissig Minuten beruht auf einer On-Phasen-Momentaufnahme im Termin und
-      uebergeht Gehtagebuch, Freezing und Sturzereignisse im Februar, April und Juni 2026.
   - id: funktion-statt-diagnose
     check_type: human_review
     description: Nicht die Diagnose, sondern die Funktionsbeeintraechtigung bewerten.
-    note: Freezing, posturale Instabilitaet, Sturzneigung, tageszeitliche Fluktuation und Fatigue praegen die Teilhabebeeintraechtigung
-      und rechtfertigen zugleich eine Neubewertung des Grades der Behinderung.
   - id: begruendungsmaengel-bescheid
     check_type: human_review
     description: Die Luecken des Bescheids benennen.
-    note: Der Bescheid wuerdigt den Neurologie-Befund vom 29.05.2026 nur mit einem Satz, laesst das Gehtagebuch
-      und die Sturzereignisse weg und wuerdigt Fatigue und Freezing nicht.
   - id: altersrente-schwerbehinderte
     check_type: human_review
     description: Die Bedeutung der Feststellung fuer die spaetere Altersrente pruefen, ohne den Widerspruch damit
       zu begruenden.
-    note: Zeitpunkt der Feststellung und Versicherungszeiten sind fuer die Altersrente fuer schwerbehinderte Menschen
-      vor dem 01.03.2028 relevant; der GdB-Widerspruch wird gleichwohl mit Teilhabebeeintraechtigung begruendet.
   - id: fristen-und-verfahren
     check_type: human_review
     description: Verfahrensstand und Fristen sichern.
-    note: Bescheid vom 18.06.2026, Zugang 20.06.2026, Widerspruchsfrist bis 20.07.2026 gewahrt; versorgungsaerztliche
-      Nachpruefung angestossen und Akteneinsicht beantragt.

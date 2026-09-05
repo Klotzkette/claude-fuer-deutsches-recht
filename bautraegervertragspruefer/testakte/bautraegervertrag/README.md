@@ -1,8 +1,12 @@
 # Bauträgervertrag — Akte Hohenwartshofen
 
-> **Charakter dieser Akte:** bewusst fehlerhaft. Der Vertrag ist überladen mit unwirksamen und teils nichtigen Klauseln; an ihm lässt sich zeigen, wie viele rote Ampeln der Skill findet. Das wirksame Gegenstück ist die Akte Marewald (`../bautraegervertrag-marewald/`). Übersicht: [`../README.md`](../README.md).
+Der Vertrag Hohenwartshofen liegt mit seinen Zahlungs- und Vollzugsregelungen zur Prüfung vor. Einen weiteren, unabhängigen Vertragsbestand enthält die [Akte Marewald](../bautraegervertrag-marewald/README.md). Zur [Übersicht](../README.md).
 
 Dieses Verzeichnis enthält ein eigenständiges Vertragsdokument in den Gesamtfassungen und als Akten-ZIP mit getrennten Einzel-PDFs:
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 - [Markdown öffnen](bautraegervertrag.md)
 - [Word-Dokument herunterladen](bautraegervertrag.docx)

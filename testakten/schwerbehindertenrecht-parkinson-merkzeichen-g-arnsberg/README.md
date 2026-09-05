@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/schwerbehindertenrecht-parkinson-merkzeichen-g-arnsberg_gesamt.pdf`](gesamt-pdf/schwerbehindertenrecht-parkinson-merkzeichen-g-arnsberg_gesamt.pdf) |
@@ -25,7 +29,7 @@ Enthalten sind ausformulierte Aktenstücke, Bescheide, medizinische oder betrieb
 
 ## Kurzbild
 
-Helga Rottmann, geboren am 09.12.1963, Sachbearbeiterin in Teilzeit beim Hochsauerlandkreis in Arnsberg, leidet seit 2021 an einem idiopathischen Parkinson-Syndrom mit zunehmenden Gangblockaden seit Herbst 2025. Bei bisherigem Grad der Behinderung von 40 hat sie am 10.04.2026 einen Änderungsantrag gestellt. Das Märkische Versorgungsamt hat mit Bescheid vom 18.06.2026 den Grad der Behinderung bei 40 belassen und das Merkzeichen G abgelehnt. Der Streit dreht sich um die Gehfähigkeit im Straßenverkehr: Maßgeblich ist, ob eine ortsübliche Wegstrecke von etwa zwei Kilometern in etwa dreißig Minuten bewältigt werden kann. Die versorgungsärztliche Stellungnahme beruht auf einer On-Phasen-Momentaufnahme im Termin und bejaht dies, während das Gehtagebuch der Tochter für die Off-Phasen Strecken von nur 120 bis 350 Metern mit Freezing, Pausen und Stürzen dokumentiert. Hochgerechnet ergibt das für zwei Kilometer je nach Tag zwischen etwa 100 und 150 Minuten. Parallel ist die spätere Altersrente für schwerbehinderte Menschen vor dem geplanten Rentenbeginn am 01.03.2028 zu prüfen.
+Helga Rottmann, geboren am 09.12.1963, Sachbearbeiterin in Teilzeit beim Hochsauerlandkreis in Arnsberg, leidet seit 2021 an einem idiopathischen Parkinson-Syndrom mit zunehmenden Gangblockaden seit Herbst 2025. Bei bisherigem Grad der Behinderung von 40 hat sie am 10.04.2026 einen Änderungsantrag gestellt. Das Märkische Versorgungsamt hat mit Bescheid vom 18.06.2026 den Grad der Behinderung bei 40 belassen und das Merkzeichen G abgelehnt. Der Streit dreht sich um die Gehfähigkeit im Straßenverkehr: Maßgeblich ist, ob eine ortsübliche Wegstrecke von etwa zwei Kilometern in etwa dreißig Minuten bewältigt werden kann. Die versorgungsärztliche Stellungnahme beruht auf einer On-Phasen-Momentaufnahme im Termin und bejaht dies, während das Gehtagebuch der Tochter für die Off-Phasen Strecken von nur 120 bis 350 Metern mit Freezing, Pausen und Stürzen dokumentiert. Das Gehtagebuch enthält einzelne Strecken und Zeiten, keine Hochrechnung auf eine einheitliche Strecke. Parallel ist die spätere Altersrente für schwerbehinderte Menschen vor dem geplanten Rentenbeginn am 01.03.2028 zu prüfen.
 
 ## Beteiligte
 

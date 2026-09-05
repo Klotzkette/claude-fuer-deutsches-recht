@@ -1,6 +1,6 @@
 # berufsrecht-anwaelte
 
-**209 Skills** · Stand `v443.0.0`
+**209 Skills** · Stand `v443.1.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../berufsrecht-anwaelte/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

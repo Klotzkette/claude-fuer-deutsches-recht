@@ -1,0 +1,25 @@
+﻿Stichtag;Sachkonto;Lager;Los;Artikel;Menge_kg;Einstand_EUR_kg;Einstand_Netto_EUR;Abwertung_EUR;Buchwert_Netto_EUR;MHD;Status_am_Stichtag;Bewertungsvermerk
+2024-12-31;1140;Erlangen E-18;MF-24-Q01;Quinoa weiß;15.000,00;4,00;60.000,00;0,00;60.000,00;2025-12-31;Freigegeben;Kein Abschlag
+2024-12-31;1140;Erlangen E-18;MF-24-Q02;Quinoa rot;10.000,00;8,00;80.000,00;0,00;80.000,00;2025-12-31;Freigegeben;Kein Abschlag
+2024-12-31;1140;Erlangen E-18;MF-24-Q03;Amaranth;14.000,00;5,00;70.000,00;0,00;70.000,00;2025-12-31;Freigegeben;Kein Abschlag
+2024-12-31;1140;Erlangen E-18;MF-24-Q04;Chiasaat;9.000,00;10,00;90.000,00;0,00;90.000,00;2025-12-31;Freigegeben;Kein Abschlag
+2024-12-31;1140;Erlangen E-18;MF-24-Q05;Trockenmango;16.000,00;5,00;80.000,00;0,00;80.000,00;2025-12-31;Freigegeben;Kein Abschlag
+2024-12-31;1140;Erlangen E-18;MF-24-Q06;Linsennudeln;12.000,00;5,00;60.000,00;0,00;60.000,00;2025-12-31;Freigegeben;Kein Abschlag
+2024-12-31;1140;Erlangen E-18;MF-24-Q07;Kichererbsenmehl;11.000,00;5,00;55.000,00;3.000,00;52.000,00;2025-03-31;Resthaltbarkeit prüfen;Resthaltbarkeit oder Nachverpackung
+2024-12-31;1140;Erlangen E-18;MF-24-Q08;Hirseflocken;9.000,00;5,00;45.000,00;0,00;45.000,00;2025-12-31;Freigegeben;Kein Abschlag
+2024-12-31;1140;Erlangen E-18;MF-24-Q09;Saatenmischung;8.000,00;5,00;40.000,00;0,00;40.000,00;2025-12-31;Freigegeben;Kein Abschlag
+2024-12-31;1140;Erlangen E-18;MF-24-Q10;Quinoa Premium;6.500,00;10,00;65.000,00;15.000,00;50.000,00;2025-03-31;Resthaltbarkeit prüfen;Resthaltbarkeit oder Nachverpackung
+2024-12-31;1140;Erlangen E-18;MF-24-Q11;Sonnenblumenkerne;8.750,00;8,00;70.000,00;0,00;70.000,00;2025-06-30;Freigegeben;Kein Abschlag
+2024-12-31;1140;Erlangen E-18;MF-24-Q12;Haferdrink Pulver;13.000,00;5,00;65.000,00;0,00;65.000,00;2025-12-31;Freigegeben;Kein Abschlag
+2025-12-31;1140;Erlangen E-18;MF-25-Q01;Quinoa weiß;20.000,00;4,00;80.000,00;0,00;80.000,00;2026-12-31;Freigegeben;Kein Abschlag
+2025-12-31;1140;Erlangen E-18;MF-25-Q02;Quinoa rot;15.000,00;8,00;120.000,00;0,00;120.000,00;2026-12-31;Freigegeben;Kein Abschlag
+2025-12-31;1140;Erlangen E-18;MF-25-Q03;Amaranth;18.000,00;5,00;90.000,00;0,00;90.000,00;2026-12-31;Freigegeben;Kein Abschlag
+2025-12-31;1140;Erlangen E-18;MF-25-Q04;Chiasaat;14.000,00;10,00;140.000,00;0,00;140.000,00;2026-12-31;Freigegeben;Kein Abschlag
+2025-12-31;1140;Erlangen E-18;MF-25-Q05;Trockenmango;22.000,00;5,00;110.000,00;35.000,00;75.000,00;2026-03-31;Resthaltbarkeit prüfen;Resthaltbarkeit oder Nachverpackung
+2025-12-31;1140;Erlangen E-18;MF-25-Q06;Linsennudeln;17.000,00;5,00;85.000,00;0,00;85.000,00;2026-12-31;Freigegeben;Kein Abschlag
+2025-12-31;1140;Erlangen E-18;MF-25-Q07;Kichererbsenmehl;15.000,00;5,00;75.000,00;30.000,00;45.000,00;2026-03-31;Resthaltbarkeit prüfen;Resthaltbarkeit oder Nachverpackung
+2025-12-31;1140;Erlangen E-18;MF-25-Q08;Hirseflocken;12.000,00;5,00;60.000,00;0,00;60.000,00;2026-12-31;Freigegeben;Kein Abschlag
+2025-12-31;1140;Erlangen E-18;MF-25-Q09;Saatenmischung;14.000,00;5,00;70.000,00;0,00;70.000,00;2026-12-31;Freigegeben;Kein Abschlag
+2025-12-31;1140;Erlangen E-18;MF-25-Q10;Quinoa Premium;10.000,00;10,00;100.000,00;80.000,00;20.000,00;2026-03-31;Gesperrt;Feuchtigkeitsbefund, Rückstellprobe
+2025-12-31;1140;Erlangen E-18;MF-25-Q11;Sonnenblumenkerne;10.000,00;8,00;80.000,00;30.000,00;50.000,00;2026-06-30;Gesperrt;Resthaltbarkeit oder Nachverpackung
+2025-12-31;1140;Erlangen E-18;MF-25-Q12;Haferdrink Pulver;14.000,00;5,00;70.000,00;25.000,00;45.000,00;2026-03-31;Resthaltbarkeit prüfen;Resthaltbarkeit oder Nachverpackung

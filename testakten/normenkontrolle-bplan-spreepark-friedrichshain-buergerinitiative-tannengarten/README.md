@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten_gesamt.pdf`](gesamt-pdf/normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten_gesamt.pdf) |
@@ -112,7 +116,6 @@ Arbeitsakte zum Plugin `normenkontrolle-bauleitplanung`.
 
 | Datei | Inhalt |
 |---|---|
-| [`xlsx/abwaegungsfehler-katalog.xlsx`](xlsx/abwaegungsfehler-katalog.xlsx) | Katalog der Abwägungsfehler mit Erheblichkeit, Heilbarkeit und Status |
 | [`xlsx/belange-abwaegung-bplan-spreepark.xlsx`](xlsx/belange-abwaegung-bplan-spreepark.xlsx) | Gegenüberstellung Belange-Gewichtung Stadt vs. BI mit BVerwG-Verweisen |
 
 ### E-Mails (.eml)
@@ -126,6 +129,10 @@ Arbeitsakte zum Plugin `normenkontrolle-bauleitplanung`.
 | [`emails/email-ovg-berlin-terminmitteilung.eml`](emails/email-ovg-berlin-terminmitteilung.eml) | OVG Berlin-Brandenburg: Terminmitteilung mündliche Verhandlung |
 
 ### PDFs
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Datei | Inhalt |
 |---|---|

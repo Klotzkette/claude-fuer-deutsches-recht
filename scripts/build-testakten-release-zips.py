@@ -127,6 +127,7 @@ def main() -> None:
         with zipfile.ZipFile(
             all_temporary, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=1
         ) as zipf:
+            write_bytes(zipf, NOTICE_BYTES, NOTICE_FILENAME)
             for archive in bundle_archives:
                 write_file(zipf, archive, archive.name)
         all_temporary.replace(all_out)

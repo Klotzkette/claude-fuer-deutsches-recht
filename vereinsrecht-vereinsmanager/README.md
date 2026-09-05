@@ -56,6 +56,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
 | [Vereinskasse, Sponsoring und Untreue Kassel](../testakten/strafrecht-untreue-vereinskasse-kassel/README.md) | [Gesamt-PDF](../testakten/strafrecht-untreue-vereinskasse-kassel/gesamt-pdf/strafrecht-untreue-vereinskasse-kassel_gesamt.pdf) | [`testakte-strafrecht-untreue-vereinskasse-kassel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-untreue-vereinskasse-kassel.zip) | [`testakte-strafrecht-untreue-vereinskasse-kassel-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-untreue-vereinskasse-kassel-einzelpdfs.zip) |

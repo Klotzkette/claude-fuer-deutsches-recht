@@ -48,13 +48,17 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`insolvenzrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzrecht.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`insolvenzrecht-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`insolvenzrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-werkstatt.md) |
-| Zugeordnete Testakten | PDF / ZIP | [26 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
+| Zugeordnete Testakten | PDF / ZIP | [27 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
@@ -83,6 +87,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 | [Sanierungsgewinn bei solventer GmbH-Liquidation — Strassburger Handelshof GmbH (Berlin-Charlottenburg)](../testakten/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026/README.md) | [Gesamt-PDF](../testakten/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026/gesamt-pdf/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026_gesamt.pdf) | [`testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026.zip) | [`testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026-einzelpdfs.zip) |
 | [Sanierungsgewinn im StaRUG-Plan — Pellbach Windenergie GmbH Brandenburg (2026)](../testakten/sanierungsgewinn-starug-plan-windenergie-pellbach-2026/README.md) | [Gesamt-PDF](../testakten/sanierungsgewinn-starug-plan-windenergie-pellbach-2026/gesamt-pdf/sanierungsgewinn-starug-plan-windenergie-pellbach-2026_gesamt.pdf) | [`testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026.zip) | [`testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026-einzelpdfs.zip) |
 | [StaRUG-Aufhebung der Restrukturierungssache — Holding Düsseldorf (BGH IX ZB 18/25)](../testakten/starug-aufhebung-holding-duesseldorf-ix-zb-18-25/README.md) | [Gesamt-PDF](../testakten/starug-aufhebung-holding-duesseldorf-ix-zb-18-25/gesamt-pdf/starug-aufhebung-holding-duesseldorf-ix-zb-18-25_gesamt.pdf) | [`testakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25.zip) | [`testakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25-einzelpdfs.zip) |
+| [BWA-Vergleich 2024 und 2025: Mainfrucht Spezialitätenhandel GmbH Nürnberg](../testakten/steuerrecht-bwa-vergleich-nuernberg/README.md) | [Gesamt-PDF](../testakten/steuerrecht-bwa-vergleich-nuernberg/gesamt-pdf/steuerrecht-bwa-vergleich-nuernberg_gesamt.pdf) | [`testakte-steuerrecht-bwa-vergleich-nuernberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-steuerrecht-bwa-vergleich-nuernberg.zip) | [`testakte-steuerrecht-bwa-vergleich-nuernberg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-steuerrecht-bwa-vergleich-nuernberg-einzelpdfs.zip) |
 | [Akte Reimers: Verbraucherinsolvenz, ehemaliger Geschäftsführer und Schuldenbereinigungsplan](../testakten/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung/README.md) | [Gesamt-PDF](../testakten/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung/gesamt-pdf/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung_gesamt.pdf) | [`testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip) | [`testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
@@ -95,6 +100,10 @@ Insolvenz- und sanierungsrechtliche Skills nach deutschem Recht (InsO, StaRUG, C
 ## Vorlage Asset-Purchase-Agreement (Insolvenz-Asset-Deal)
 
 Der ausgefüllte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures GmbH steht als sofort einsetzbares Template zum Direkt-Download bereit:
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Format | Direkt-Download |
 | --- | --- |

@@ -1,0 +1,26 @@
+{
+  "testakten/hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung/emails/2026-07-20_lehrstuhl_an_studenten_rueckgabe_besprechung.eml": {
+    "sha256": "07e8c94a6e769a193227bf8fd4a20a3dcac476620cde663aad869902616856c3",
+    "reason": "Organisatorische Ankündigung einer späteren Besprechung, keine beigefügte Antwort auf den Fall."
+  },
+  "testakten/jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027/06_klausurentraining_aufbau_subsumtion.docx": {
+    "sha256": "f53ee12144e2b474d5082f52de6bccc8c5cecc8bed54ebe95bbd1ee90b3d42fb",
+    "reason": "Zeitbudget für eine selbst zu erstellende Skizze im Lernplan; keine vorgegebene Fallantwort."
+  },
+  "testakten/jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027/07_zeitmanagement_5_stunden_klausur.docx": {
+    "sha256": "0d133136babedee3405d1b23b413b0643d44f7d939a22b141c4bb390269e009c",
+    "reason": "Lernberatung zur Gliederung auf Konzeptpapier, kein ausgearbeiteter Anspruch oder Falltenor."
+  },
+  "testakten/pruefungsrecht-drittversuch-ki-taeuschung-masterarbeit-mondsee/05-punkte-und-ruegematrix.xlsx": {
+    "sha256": "6ec031be61776578c779c18dff46bd290c8b9182e828fc4b9129bbb21ba0b8df",
+    "reason": "Die fehlende Klarheit der Bewertungsvorgabe ist Gegenstand der Prüfungsanfechtung, nicht deren Lösung."
+  },
+  "testakten/pruefungsrecht-drittversuch-ki-taeuschung-masterarbeit-mondsee/06-akteneinsicht-bewertungsbogen.pdf": {
+    "sha256": "6e205d592dc7d12ccfe357fa86f293e8168b1573bcb51427062cc7b4605c6667",
+    "reason": "Dokumentiert, dass eine angeforderte Bewertungsunterlage nicht herausgegeben wurde."
+  },
+  "testakten/pruefungsrecht-drittversuch-ki-taeuschung-masterarbeit-mondsee/14-besprechungsunterlage.pdf": {
+    "sha256": "b106ea0619bd92bd4a1ecaf309a8b26ee46a14d0bec4ffe5ae901b9e50bdf249",
+    "reason": "Liste noch anzufordernder Bewertungsunterlagen; enthält keine Lösung der Prüfungsanfechtung."
+  }
+}

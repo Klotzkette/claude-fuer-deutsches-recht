@@ -14,13 +14,17 @@ import zipfile
 from odf.opendocument import OpenDocumentText
 from odf.text import H, P
 from docx import Document
+from openpyxl import Workbook
+from testakte_office_pdf import office_binary, uncached_formula_cells, prepare_source
 
 from testakte_disclaimer import (
     NOTICE_BYTES,
     NOTICE_DE,
     NOTICE_EN,
     NOTICE_FILENAME,
-    pdf_notice_errors,
+    pdf_content_errors,
+    notice_pdf_bytes,
+    without_notice_pages,
 )
 
 
@@ -74,8 +78,67 @@ def main() -> int:
         "Einzel-PDFs muessen fremde Hochformat-Seiten auf A4 normalisieren",
     )
 
+    legacy_notice = notice_pdf_bytes("akte-alt")
+    old_writer = G.PdfWriter()
+    old_writer.add_page(G.PdfReader(io.BytesIO(legacy_notice)).pages[0])
+    old_writer.add_page(normalized_page)
+    old_buffer = io.BytesIO()
+    old_writer.write(old_buffer)
+    cleaned = without_notice_pages(old_buffer.getvalue())
+    require(len(G.PdfReader(io.BytesIO(cleaned)).pages) == 1, "nur das alte Hinweisblatt wird entfernt")
+    require(without_notice_pages(cleaned) == cleaned, "Hinweismigration muss idempotent sein")
+    require(not pdf_content_errors(cleaned), "migrierte Akte muss ohne Vorspruch sein")
+    require(bool(pdf_content_errors(old_buffer.getvalue())), "Validator muss alte Vorsprüche ablehnen")
+    try:
+        without_notice_pages(legacy_notice)
+    except ValueError:
+        pass
+    else:
+        raise AssertionError("eine reine Hinweisseite darf nicht zum leeren PDF werden")
+    mixed = io.BytesIO()
+    mixed_canvas = G.canvas.Canvas(mixed, invariant=1)
+    mixed_canvas.drawString(30, 700, NOTICE_DE)
+    mixed_canvas.drawString(30, 680, "Bankauskunft: Kontostand 187400 Euro.")
+    mixed_canvas.save()
+    try:
+        without_notice_pages(mixed.getvalue())
+    except ValueError:
+        pass
+    else:
+        raise AssertionError("Mischseiten mit Akteninhalt dürfen nicht automatisch entfernt werden")
+
     with tempfile.TemporaryDirectory(prefix="testakte-pdf-") as tmp:
         root = Path(tmp)
+        spreadsheet_dir = root / "tabellenprüfung"
+        spreadsheet_dir.mkdir()
+        spreadsheet = spreadsheet_dir / "auswertung.xlsx"
+        book = Workbook()
+        sheet = book.active
+        sheet.title = "Geschäft"
+        sheet.append(["Buchung", "Betrag"])
+        sheet.append(["Wareneingang", 12000])
+        sheet.append(["Fracht", 345])
+        sheet.append(["Gesamt", "=SUM(B2:B3)"])
+        book.save(spreadsheet)
+        require(bool(uncached_formula_cells(spreadsheet)), "Formel ohne gespeicherten Wert muss erkannt werden")
+        try:
+            G.xlsx_to_flowables(spreadsheet)
+        except G.DocumentRenderError:
+            pass
+        else:
+            raise AssertionError("Unberechnete Formeln dürfen im Tabellen-PDF nicht leer erscheinen")
+        before = spreadsheet.read_bytes()
+        print_copy = spreadsheet_dir / "druckkopie.xlsx"
+        prepare_source(spreadsheet, print_copy)
+        require(spreadsheet.read_bytes() == before, "Original-Excel darf durch Druckvorbereitung nicht verändert werden")
+        if office_binary():
+            calculated_pdf = E.render_document_pdf(spreadsheet, spreadsheet_dir)
+            calculated_text = " ".join(page.extract_text() or "" for page in G.PdfReader(io.BytesIO(calculated_pdf)).pages)
+            compact = calculated_text.replace(",", "").replace(".", "").replace(" ", "")
+            require("12345" in compact, "Native Tabellen-PDF muss die berechnete Summe 12345 enthalten")
+        spreadsheet.unlink()
+        print_copy.unlink()
+        spreadsheet_dir.rmdir()
         odt = root / "akte.odt"
         doc = OpenDocumentText()
         doc.text.addElement(H(outlinelevel=1, text="Sachstand"))
@@ -108,23 +171,23 @@ def main() -> int:
         styled_reader = G.PdfReader(io.BytesIO(styled_pdf))
         if E.render_office(styled) is not None:
             require(
-                len(styled_reader.pages) == 3,
-                "native DOCX-PDF muss Hinweis und Seitenumbrüche erhalten",
+                len(styled_reader.pages) == 2,
+                "native DOCX-PDF muss Seitenumbrüche ohne zusätzliche Warnseite erhalten",
             )
             styled_text = "\n".join(page.extract_text() or "" for page in styled_reader.pages)
             require("Kanzlei am Markt" in styled_text, "native DOCX-PDF muss Kopfzeile erhalten")
             require("Vertraulichkeitsvermerk" in styled_text, "native DOCX-PDF muss Fußzeile erhalten")
         require(
-            not pdf_notice_errors(styled_pdf, exactly_once=True),
-            "jedes Einzel-PDF braucht den zweisprachigen Hinweis genau einmal",
+            not pdf_content_errors(styled_pdf),
+            "Einzel-PDFs dürfen keinen Herkunftsvorspruch enthalten",
         )
 
         pdf_data = E.render_document_pdf(odt, root)
         require(pdf_data is not None and pdf_data.startswith(b"%PDF-"), "ODT muss ein PDF ergeben")
         require(len(list(G.PdfReader(io.BytesIO(pdf_data)).pages)) >= 1, "PDF braucht mindestens eine Seite")
         require(
-            not pdf_notice_errors(pdf_data, exactly_once=True),
-            "gerenderte Einzel-PDFs muessen den Hinweis tragen",
+            not pdf_content_errors(pdf_data),
+            "gerenderte Einzel-PDFs bleiben ohne Hinweisblatt",
         )
 
         raw_json = root / "messwerte.json"
@@ -180,10 +243,14 @@ def main() -> int:
             )
             require("messwerte.pdf" in built.namelist(), "JSON braucht eine eigene flache PDF")
             require("frist.pdf" in built.namelist(), "ICS braucht eine eigene flache PDF")
+            require(built.namelist()[0] == NOTICE_FILENAME, "PDF-ZIP muss mit README.txt beginnen")
+            require(built.read(NOTICE_FILENAME) == NOTICE_BYTES, "PDF-ZIP braucht den vollständigen Hinweis")
             for info in built.infolist():
+                if info.filename == NOTICE_FILENAME:
+                    continue
                 require(
-                    not pdf_notice_errors(built.read(info), exactly_once=True),
-                    f"{info.filename} braucht den Hinweis genau einmal",
+                    not pdf_content_errors(built.read(info)),
+                    f"{info.filename} darf kein Hinweisblatt enthalten",
                 )
 
         working_case = root / "arbeitsakte"

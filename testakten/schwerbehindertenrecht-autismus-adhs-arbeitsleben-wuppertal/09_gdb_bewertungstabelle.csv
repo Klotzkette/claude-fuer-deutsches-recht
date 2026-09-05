@@ -1,8 +1,5 @@
-rang,funktionsbeeinträchtigung,funktionssystem,einzel_gdb_facharzt,einzel_gdb_versorgungsamt,überschneidung_mit_führend,integrationsschritt,zwischenstand_gesamt_gdb
-1,Autismus-Spektrum-Störung mit Anpassungs- und Reizverarbeitungsstörung,Psyche,40,30,führend,Ausgangswert,40
-2,Rezidivierende depressive Störung,Psyche,30,20,teilweise eigenständig,hebt führenden Wert um 10,50
-3,ADHS kombinierter Typ,Psyche,20,0,weitgehend deckungsgleich mit ASS,keine weitere Steigerung,50
-4,Chronische Migräne,Kopf und Nerven,10,10,gering,GdB 10 hebt regelmäßig nicht,50
-5,Ergebnis plausible Bildung,gesamt,0,0,0,integrativ nach VersMedV keine Addition,50
-6,Bescheid-Gesamt-GdB vom 19.06.2026,gesamt,0,0,0,festgestellter Wert,30
-7,Kontrollwert falsche Addition,gesamt,0,0,0,40 plus 30 plus 20 plus 10 wäre fehlerhaft,100
+funktionsbeeinträchtigung;funktionssystem;einzel_gdb_facharzt;einzel_gdb_versorgungsamt
+Autismus-Spektrum-Störung mit Anpassungs- und Reizverarbeitungsstörung;Psyche;40;30
+Rezidivierende depressive Störung;Psyche;30;20
+ADHS kombinierter Typ;Psyche;20;0
+Chronische Migräne;Kopf und Nerven;10;10

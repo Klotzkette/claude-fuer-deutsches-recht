@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren_gesamt.pdf`](gesamt-pdf/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren_gesamt.pdf) |
@@ -20,6 +24,10 @@ English: The original-format ZIP contains the working files directly at archive 
 <!-- END gesamt-pdf-section (autogen) -->
 
 ## ⬇️ Direkt-Download
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Akte | Direkt-Download |
 | --- | --- |
@@ -97,7 +105,6 @@ Das Insolvenzverfahren wurde am **12.06.2026** förmlich eröffnet. Der Prüfung
 | [19_planoption_insolvenzplan_starug.docx](19_planoption_insolvenzplan_starug.docx) | Prüfung Insolvenzplan vs. StaRUG; Vergleichsrechnung; Entscheidung Regelabwicklung |
 | [20_planvergleich_rechnung.csv](20_planvergleich_rechnung.csv) | Tabellarischer Vergleich Plan / Regelabwicklung Fortführung / Zerschlagung je Gruppe |
 | [21_gruppenbildung_planentwurf.docx](21_gruppenbildung_planentwurf.docx) | Entwurf Gruppenbildung nach § 222 InsO (4 Gruppen); offene Fragen |
-| [22_starug_alternativroute.docx](22_starug_alternativroute.docx) | Kritische StaRUG-Prüfung: warum das Gesetz im konkreten Fall ausscheidet; Lernnotiz |
 | [23_plan_quality_gate.docx](23_plan_quality_gate.docx) | Checkliste Planvorlagebereitschaft; Ergebnis: kein Plan (6 von 6 Formalkriterien nicht erfüllt) |
 | [24_email_furnier_nord_antwort_anfechtung.eml](24_email_furnier_nord_antwort_anfechtung.eml) | Antwort der Furnier Nord GmbH auf das Anfechtungsschreiben: Fristbitte, eigene Sachverhaltsdarstellung, Tabellenfrage |
 | [25_telefonvermerk_havelbank_verwertungserloes.docx](25_telefonvermerk_havelbank_verwertungserloes.docx) | Telefonvermerk mit der Havelbank zu Absonderungserlösen, Kostenbeiträgen und Kontoabwicklung |

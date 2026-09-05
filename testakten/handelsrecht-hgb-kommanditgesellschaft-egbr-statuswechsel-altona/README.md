@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona_gesamt.pdf`](gesamt-pdf/handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona_gesamt.pdf) |
@@ -56,7 +60,6 @@ Elbwerft Solarplanung eGbR aus Hamburg-Altona wächst vom Planungsbüro in den k
 | `16_klageerwiderung_soltronic_arbeitsstand.docx` | Klageerwiderung Arbeitsstand |
 | `17_handelsbriefe_signaturen.docx` | Handelsbriefe/Signaturen |
 | `18_lager_und_buchfuehrung.docx` | Lager und Buchführung |
-| `19_anwaltliches_kurzvotum.docx` | Kurzvotum |
 | `20_vergleichsplan_soltronic_bank_investor.docx` | Vergleichsplan |
 | `21_technikerchat_wechselrichter.txt` | Chat-Export der Techniker: Fehlerentdeckung am 22.04.2026, Fehlercode E-4417, gesperrte Palette |
 | `emails/*.eml` | E-Mails Bank/Lieferant/Notar/Investor (u. a. `email-investor-moeller-beitritt.eml`: Einlage erst nach Eintragung, Firmenfrage, Zeitplan) |

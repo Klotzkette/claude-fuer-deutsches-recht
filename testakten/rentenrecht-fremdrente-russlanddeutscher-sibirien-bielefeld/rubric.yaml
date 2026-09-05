@@ -18,31 +18,21 @@ checks:
   - id: r01-nachweis-glaubhaftmachung-trennen
     check_type: human_review
     description: Nachweis und Glaubhaftmachung strikt trennen und je Zeitraum getrennt bearbeiten.
-    note: Zeit 1981-07 bis 1986-12 als nachgewiesen, Zeit 1987-01 bis 1992-08 als glaubhaft gemacht behandelt.
   - id: r02-qualifikationsgruppe-nach-herkunftstaetigkeit
     check_type: human_review
     description: Qualifikationsgruppe anhand der Taetigkeit im Herkunftsgebiet pruefen, nicht anhand der fehlenden
       deutschen Anerkennung.
-    note: Oberingenieur-Taetigkeit als moegliche QG2 gegen die von der DRV vergebene QG3 abgegrenzt.
   - id: r03-archivnummern-fondswechsel
     check_type: human_review
     description: Abweichende Archivnummern ueber den Fondswechsel aufklaeren statt als Widerspruch stehen zu lassen.
-    note: Wechsel Fonds R-2214 auf R-2298 durch die Aufteilung des Kombinats 1988 erklaert.
   - id: r04-transliteration-name
     check_type: human_review
     description: Namensvarianten Klassen und Klasssen als Transliterationsfrage behandeln und dokumentieren.
-    note: Identitaet ueber Geburtsdatum 14.02.1959 und Geburtsort Karasuk gesichert, dreifaches s als Umschrift
-      erklaert.
   - id: r05-entgeltpunkte-datenkern
     check_type: human_review
     description: Anrechenbare Entgeltpunkte und Kuerzungsbetrag aus der Berechnungstabelle 11_frg_entgeltpunkte_berechnung.csv
       nachrechnen.
-    note: Szenario drv ergibt 66 mal 0.075 gleich 4.950 EP plus 68 mal 0.075 mal fuenf Sechstel gleich 4.250 EP,
-      Summe 9.200 EP; nach Begrenzung mit Faktor 0.6 verbleiben 5.520 EP anrechenbar, Kuerzungsbetrag 3.680 EP.
-      Szenario mandant mit QG2 und ohne Sechstel ergibt 13.400 EP vor Begrenzung.
   - id: r06-fristen-auseinanderhalten
     check_type: human_review
     description: Mitwirkungsfrist und Widerspruchsfrist auseinanderhalten und Erklaerung zum auslaendischen Rentenbezug
       fristgerecht abgeben.
-    note: Mitwirkungsfrist 17.07.2026 und Widerspruchsfrist bis 17.07.2026 getrennt behandelt, Erklaerung zum auslaendischen
-      Rentenbezug fristwahrend abgegeben.

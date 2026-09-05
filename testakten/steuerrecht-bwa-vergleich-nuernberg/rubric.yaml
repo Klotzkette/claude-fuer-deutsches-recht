@@ -1,0 +1,23 @@
+name: steuerrecht-bwa-vergleich-nuernberg
+plugin: steuerrecht-anwalt-und-berater
+description: "BWA und SuSa zweier Geschäftsjahre einer Nürnberger Speziallebensmittelhändlerin mit Lager in Erlangen, ergänzt um Verträge, Korrespondenz und Bestandsdaten."
+checks:
+  - id: dateien
+    check_type: working_file_count
+    description: "24 native Primärunterlagen in den vorgesehenen Formaten vorhanden."
+    min: 24
+  - id: abstimmung
+    check_type: human_review
+    description: "BWA, SuSa, Monatsjournal, Jahresvortrag und Bilanz anhand der Buchungszeichen und Perioden abstimmen."
+  - id: nebenbuecher
+    check_type: human_review
+    description: "Offene Posten und Inventur getrennt für beide Stichtage mit den Sachkonten abgleichen; Mengen und Bewertungen auseinanderhalten."
+  - id: zeitbezug
+    check_type: human_review
+    description: "Buchungsstand, Stichtagswerte, nachträgliche Zahlungen, bestätigte Bestellungen und bloße Planungen quellenbezogen unterscheiden."
+  - id: betragsebenen
+    check_type: human_review
+    description: "Netto, Umsatzsteuer und Brutto sowie Ergebnis, Zahlungen, Tilgung, Anzahlungen und Wertberichtigungen getrennt behandeln."
+  - id: quellenumfang
+    check_type: human_review
+    description: "Unsichere Angaben und fehlende Primärnachweise ausdrücklich benennen, ohne aus einzelnen Buchwerten unbelegte Schlussfolgerungen abzuleiten."

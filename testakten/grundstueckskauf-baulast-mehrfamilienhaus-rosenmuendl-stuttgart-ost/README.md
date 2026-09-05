@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/grundstueckskauf-baulast-mehrfamilienhaus-rosenmuendl-stuttgart-ost_gesamt.pdf`](gesamt-pdf/grundstueckskauf-baulast-mehrfamilienhaus-rosenmuendl-stuttgart-ost_gesamt.pdf) |
@@ -137,10 +141,14 @@ Arbeitsakte zum Plugin `immobilienrechtspraxis`.
 
 ### PDFs
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Datei | Inhalt |
 |---|---|
 | [`pdfs/grundbuchauszug_talstrasse_188_redacted.pdf`](pdfs/grundbuchauszug_talstrasse_188_redacted.pdf) | Grundbuchauszug Abt. I–III (anonymisiert), Stand 18.01.2026, inkl. Baulast-Hinweis |
-| [`pdfs/energieausweis_alt_redacted.pdf`](pdfs/energieausweis_alt_redacted.pdf) | Fehlerhafter Energieausweis Klasse B (12.06.2022) mit Soll-Ist-Vergleich |
+| [`pdfs/energieausweis_alt_redacted.pdf`](pdfs/energieausweis_alt_redacted.pdf) | Abschrift der im Verkaufsvorgang übermittelten Energieausweisdaten vom 12.06.2022 |
 
 ### Fotos (JPG)
 

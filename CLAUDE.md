@@ -44,7 +44,7 @@ Gilt für alle Vorlagen, Verträge, Vertragsmuster, Memos, Schriftsätze und son
 
 ## Verbindlicher Hinweis für Testakten
 
-Jede Testakte wird mit einem zweisprachigen Hinweis ausgeliefert. Das Gesamt-PDF enthält ihn genau einmal auf der ersten Seite, jedes PDF im Einzel-PDF-ZIP ebenfalls genau einmal auf seiner ersten Seite und das ZIP mit Originalformaten als `README.txt` auf der Wurzelebene. Der verbindliche Wortlaut und die technische Durchsetzung stehen in [`AGENTS.md`](./AGENTS.md) und [`testakten/QUALITAETSSTANDARD.md`](./testakten/QUALITAETSSTANDARD.md); die zentralen Builder und Validatoren dürfen nicht umgangen werden.
+Für jede Testakte gilt der unveränderte zweisprachige Hinweis aus [`AGENTS.md`](./AGENTS.md) und [`testakten/QUALITAETSSTANDARD.md`](./testakten/QUALITAETSSTANDARD.md). Gesamt-PDF und Einzel-PDFs enthalten weder eine Hinweisseite noch diesen Warntext. Stattdessen steht der vollständige Hinweis auf der Repository-Startseite, im Download-Index und in den zentralen, aktenbezogenen und Plugin-READMEs unmittelbar vor jeder PDF-/ZIP-Downloadgruppe für Testakten. Ein allgemeiner Hinweis an anderer Stelle genügt nicht. Beide ZIP-Varianten und Sammelpakete mit Testakten enthalten auf der Wurzelebene eine UTF-8-kodierte `README.txt`, die mit dem zweisprachigen Hinweis beginnt. Die zentralen Builder, README-Generatoren und Validatoren setzen Wortlaut und Position reproduzierbar durch und dürfen nicht umgangen werden.
 
 ## Verboten
 

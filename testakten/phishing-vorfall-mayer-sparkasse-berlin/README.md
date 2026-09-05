@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/phishing-vorfall-mayer-sparkasse-berlin_gesamt.pdf`](gesamt-pdf/phishing-vorfall-mayer-sparkasse-berlin_gesamt.pdf) |
@@ -20,6 +24,10 @@ English: The original-format ZIP contains the working files directly at archive 
 <!-- END gesamt-pdf-section (autogen) -->
 
 ## ⬇️ Direkt-Download
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Akte | Direkt-Download |
 | --- | --- |
@@ -51,4 +59,4 @@ Sie simuliert einen Online-Banking-Phishing-Fall mit Call-ID-Spoofing, pushTAN-F
 python phishing-vorfall-pruefer/scripts/phishing_case_gate.py --input testakten/phishing-vorfall-mayer-sparkasse-berlin/08_case_gate_input.json
 ```
 
-Erwartung: Der Fall wird nicht als sicherer Selbstläufer bewertet. Der Erstattungsanspruch dem Grunde nach steht gut, der Einwand grober Fahrlässigkeit ist aber erheblich und muss mit App-Dialog, Spoofing, Banklogs und Monitoring sauber angegriffen werden.
+Der Aktenbestand enthält den App-Dialog, die Angaben zum Anruf sowie Banklogs und Monitoring-Unterlagen. Mayer und die Sparkasse schildern die Autorisierung und den Ablauf unterschiedlich.

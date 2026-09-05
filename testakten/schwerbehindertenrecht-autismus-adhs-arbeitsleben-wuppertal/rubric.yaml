@@ -11,32 +11,19 @@ checks:
     check_type: human_review
     description: Den Gesamt-GdB aus der Bewertungstabelle korrekt integrativ nach den Versorgungsmedizinischen Grundsaetzen
       bilden, nicht addieren.
-    note: Fuehrender Einzel-GdB 40 fuer die Autismus-Spektrum-Stoerung, Anhebung um 10 durch die eigenstaendige
-      depressive Stoerung auf plausibel 50; ADHS und Migraene heben nicht; Bescheidwert 30 liegt 20 darunter; die
-      Addition auf 100 ist ausdruecklich als fehlerhaft zu benennen.
   - id: diskrepanz-einzelwerte
     check_type: human_review
     description: Die abweichenden Einzel-GdB des Aerztlichen Dienstes und der behandelnden Fachaerzte erkennen und
       beweiswuerdigend einordnen.
-    note: Aerztlicher Dienst setzt ASS 30 und Depression 20, Facharzt und Ambulanz setzen ASS 40 und Depression
-      30; der Widerspruch stuetzt sich auf die fachaerztlichen Werte.
   - id: erwerbstaetigkeit-kein-gegenbeweis
     check_type: human_review
     description: Herausarbeiten, dass fortbestehende Erwerbstaetigkeit keine geringe Teilhabebeeintraechtigung belegt.
-    note: Die Taetigkeit gelingt nur unter hoher Kompensation und bricht bei Reizueberlastung zusammen; Ausfallzeiten
-      und die stationaere Krisenintervention im Januar 2026 sind zu wuerdigen.
   - id: begruendungsmaengel-bescheid
     check_type: human_review
     description: Die Luecken des Bescheids benennen.
-    note: Fehlende Beruecksichtigung von Arbeitsplatzanpassung, sensorischer Ueberforderung, Meltdowns und der stationaeren
-      Krisenintervention.
   - id: gleichstellung-teilhabe
     check_type: human_review
     description: Gleichstellung und Teilhabe am Arbeitsleben von der Rentenfrage trennen.
-    note: Gleichstellung ueber die Agentur fuer Arbeit und Teilhabeleistungen sind vorrangig; Erwerbsminderungsrente
-      erst bei Scheitern der Teilhabemassnahmen.
   - id: fristen-und-verfahren
     check_type: human_review
     description: Verfahrensstand und Fristen sichern.
-    note: Bescheid vom 19.06.2026, Widerspruch fristgerecht eingelegt; versorgungsaerztliche Nachpruefung angestossen,
-      Akteneinsicht beantragt.

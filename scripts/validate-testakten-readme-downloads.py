@@ -5,7 +5,8 @@ Jede nutzerseitige Akte unter testakten/<slug>/ braucht im README den
 autogenerierten Downloadblock mit Gesamt-PDF, Akten-ZIP und Einzel-PDF-ZIP.
 Zusätzlich muss die zentrale testakten/README.md dieselben drei Ziele je Akte
 aufführen. Der Check läuft ohne externe Abhängigkeiten und eignet sich damit
-als frühes Release-Gate.
+als frühes Release-Gate. Auf Root-, Index-, Akten- und Plugin-Seiten muss der
+unveränderte DE/EN-Warnhinweis unmittelbar vor jeder Downloadgruppe stehen.
 """
 
 from __future__ import annotations
@@ -13,6 +14,13 @@ from __future__ import annotations
 import re
 import sys
 from pathlib import Path
+
+from testakte_download_notices import (
+    download_group_starts,
+    download_readmes,
+    is_case_readme,
+    missing_notice_positions,
+)
 
 ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = ROOT / "testakten"
@@ -144,6 +152,7 @@ def validate_local_readme(slug: str, directory: Path, errors: list[str]) -> int:
         return 0
 
     text = read_text(readme)
+    validate_download_notices(slug, text, errors, case_readme=True)
     validate_readme_file_references(slug, directory, text, errors)
     begin_count = text.count(BEGIN_MARKER)
     end_count = text.count(END_MARKER)
@@ -178,6 +187,18 @@ def validate_local_readme(slug: str, directory: Path, errors: list[str]) -> int:
     return hits
 
 
+def validate_download_notices(
+    label: str, text: str, errors: list[str], *, case_readme: bool = False
+) -> int:
+    for position in missing_notice_positions(text, case_readme=case_readme):
+        line = text.count("\n", 0, position) + 1
+        errors.append(
+            f"{label}: unveränderter DE/EN-Hinweis fehlt unmittelbar vor "
+            f"Downloadgruppe in Zeile {line}"
+        )
+    return len(download_group_starts(text, case_readme=case_readme))
+
+
 def validate_overview(slug: str, overview: str, errors: list[str]) -> int:
     hits = 0
     overview_targets = (
@@ -207,6 +228,16 @@ def main() -> int:
         checked_links += validate_local_readme(slug, directory, errors)
         checked_links += validate_overview(slug, overview, errors)
 
+    central_readmes = {directory / "README.md" for directory in dirs}
+    checked_groups = 0
+    for readme in download_readmes(ROOT):
+        if readme in central_readmes:
+            continue
+        checked_groups += validate_download_notices(
+            readme.relative_to(ROOT).as_posix(), read_text(readme), errors,
+            case_readme=is_case_readme(readme, ROOT),
+        )
+
     if errors:
         print("validate-testakten-readme-downloads: FEHLER", file=sys.stderr)
         for err in errors[:80]:
@@ -215,7 +246,10 @@ def main() -> int:
             print(f" - ... {len(errors) - 80} weitere Fehler", file=sys.stderr)
         return 1
 
-    print(f"validate-testakten-readme-downloads OK ({len(dirs)} Akten, {checked_links} Treffer)")
+    print(
+        f"validate-testakten-readme-downloads OK ({len(dirs)} Akten, "
+        f"{checked_links} Treffer, {checked_groups} weitere Downloadgruppen)"
+    )
     return 0
 
 

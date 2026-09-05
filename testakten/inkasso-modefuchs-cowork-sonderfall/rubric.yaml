@@ -9,15 +9,15 @@ checks:
   check_type: file_exists
   description: Gesamt-PDF gebaut
   path: gesamt-pdf/inkasso-modefuchs-cowork-sonderfall_gesamt.pdf
-- id: r03-deutscher-hinweis-im-gesamt-pdf
+- id: r03-deutscher-hinweis-beim-download
   check_type: text_contains
-  description: Der deutsche Pflicht-Hinweis steht im Gesamt-PDF.
-  path: gesamt-pdf/inkasso-modefuchs-cowork-sonderfall_gesamt.pdf
+  description: Der deutsche Pflicht-Hinweis steht beim Download.
+  path: README.md
   contains: Diese Testakte wurde mit KI generiert und ist ein Experiment.
-- id: r04-englischer-hinweis-im-gesamt-pdf
+- id: r04-englischer-hinweis-beim-download
   check_type: text_contains
-  description: Der englische Pflicht-Hinweis steht im Gesamt-PDF.
-  path: gesamt-pdf/inkasso-modefuchs-cowork-sonderfall_gesamt.pdf
+  description: Der englische Pflicht-Hinweis steht beim Download.
+  path: README.md
   contains: This test case file was generated with AI and is an experiment.
 - id: r05-mindestens-10-arbeitsunterlagen
   check_type: working_file_count

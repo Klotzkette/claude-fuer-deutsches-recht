@@ -58,6 +58,9 @@ jobs:
           python3 scripts/test-release-assets.py
           python3 scripts/test-testakte-pdf-build.py
           python3 scripts/test-testakten-email-quality.py
+          python3 scripts/test-testakten-ohne-loesungen.py
+          python3 scripts/validate-testakten-ohne-loesungen.py
+          python3 scripts/validate-testakte-bwa-abstimmung.py
 
       - name: Skill-Aktivierungssignale prüfen
         run: |
@@ -255,6 +258,7 @@ jobs:
           # Marketplace und zentrale Uebersichten. Ein Download fuer alles,
           # ohne die installierbaren Plugin-ZIPs mit Rohordnern zu vermischen.
           mkdir -p dist/komplettpaket/plugins dist/komplettpaket/testakten dist/komplettpaket/uebersichten dist/komplettpaket/skills-markdown
+          python3 -c 'import sys; from pathlib import Path; sys.path.insert(0, "scripts"); from testakte_disclaimer import NOTICE_BYTES; Path("dist/komplettpaket/README.txt").write_bytes(NOTICE_BYTES)'
           cp dist/marketplace.json dist/komplettpaket/marketplace.json
           cp dist/alle-plugins-megazip.zip dist/komplettpaket/alle-plugins-megazip.zip
           cp dist/alle-testakten.zip dist/komplettpaket/alle-testakten.zip

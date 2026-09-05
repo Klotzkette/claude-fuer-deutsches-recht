@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig_gesamt.pdf`](gesamt-pdf/anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig_gesamt.pdf) |
@@ -78,22 +82,12 @@ Arbeitsakte zum Plugin `bgb-at-pruefer`.
 | 04 | [`04_fristpruefung_121_bgb_unverzueglich.docx`](04_fristpruefung_121_bgb_unverzueglich.docx) | § 121 BGB Unverzüglichkeit — BGH-Rechtsprechung, Fristberechnung, Risikobewertung |
 | 05 | [`05_geschaeftsfaehigkeit_tilidin_104_105_bgb.docx`](05_geschaeftsfaehigkeit_tilidin_104_105_bgb.docx) | §§ 104, 105 II BGB — Tilidin-Pharmakologie, Beweissicherungsplan |
 | 06 | [`06_falsus_procurator_177_179_bgb_praktikant_luebbers.docx`](06_falsus_procurator_177_179_bgb_praktikant_luebbers.docx) | §§ 177, 179 BGB — schwebende Unwirksamkeit, falsus procurator, Minderjährigenschutz |
-| 07 | [`07_vollmacht_ammenwald_167_168_bgb_rechtsschein.docx`](07_vollmacht_ammenwald_167_168_bgb_rechtsschein.docx) | §§ 167, 168, 170 BGB — Innen-/Außenvollmacht, Erlöschen, Anscheinsvollmacht |
-| 08 | [`08_schwebende_unwirksamkeit_184_bgb_convotherm_oefen.docx`](08_schwebende_unwirksamkeit_184_bgb_convotherm_oefen.docx) | §§ 184, 929, 932 BGB — Eigentumsvorbehalt, gutgläubiger Erwerb Schlotterhose |
 | 09 | [`09_agb_kontrolle_305c_bgb_eigentumsklausel_convotherm.docx`](09_agb_kontrolle_305c_bgb_eigentumsklausel_convotherm.docx) | §§ 305, 305c, 307 BGB — überraschende Klausel, Inhaltskontrolle B2B |
 | 10 | [`10_schenkungswiderruf_grober_undank_530_bgb_florian.docx`](10_schenkungswiderruf_grober_undank_530_bgb_florian.docx) | §§ 530, 531, 532 BGB — grober Undank, Frist, Rechtsfolge Wertersatz |
 | 11 | [`11_verjaehrung_195_199_bgb_forderungsuebersicht.docx`](11_verjaehrung_195_199_bgb_forderungsuebersicht.docx) | §§ 195, 199, 204 BGB — alle Forderungen mit Verjährungstabelle |
 | 12 | [`12_schadensersatz_280_281_bgb_convotherm_maengel.docx`](12_schadensersatz_280_281_bgb_convotherm_maengel.docx) | §§ 280, 281 BGB — Sachmangel, Fristsetzung, Aufrechnung, Schadensberechnung |
-| 13 | [`13_anspruchsmatrix_bgb_at_uebersicht.docx`](13_anspruchsmatrix_bgb_at_uebersicht.docx) | Anspruchsmatrix aller Parteien, BGB-AT-Prüfungsschemata, Klausurliste |
-| 14 | [`14_inhaltsirrtum_vs_motivirrtum_abgrenzung.docx`](14_inhaltsirrtum_vs_motivirrtum_abgrenzung.docx) | Abgrenzung Erklärungs- / Inhalts- / Motivirrtum; Merkhilfen für Klausur |
-| 15 | [`15_rechtsscheinhaftung_duldungs_anscheinsvollmacht.docx`](15_rechtsscheinhaftung_duldungs_anscheinsvollmacht.docx) | Duldungs- vs. Anscheinsvollmacht; §§ 170–173 BGB; BGH-Linien |
-| 16 | [`16_nichtigkeit_134_138_bgb_sittenwidrigkeit.docx`](16_nichtigkeit_134_138_bgb_sittenwidrigkeit.docx) | §§ 134, 138 BGB — Verbotsnorm, Sittenwidrigkeit, Wucher; § 139 Teilnichtigkeit |
 | 17 | [`17_zugang_willenserklarung_130_bgb.docx`](17_zugang_willenserklarung_130_bgb.docx) | § 130 BGB — Brief, Fax, E-Mail, Empfangsbote, Zugangsvereitelung |
-| 18 | [`18_auslegung_133_157_bgb_vertragsinhalt.docx`](18_auslegung_133_157_bgb_vertragsinhalt.docx) | §§ 133, 157 BGB — Natürliche/normative Auslegung, Falsa demonstratio |
 | 19 | [`19_schriftsatz_strategie_lg_leipzig_4o188_26.docx`](19_schriftsatz_strategie_lg_leipzig_4o188_26.docx) | Prozessstrategie Klagerwiderung, Beweislastverteilung, Vergleichsoptionen |
-| 20 | [`20_fristen_rechnung_193_bgb_berechnung.docx`](20_fristen_rechnung_193_bgb_berechnung.docx) | §§ 186–193 BGB — Praktische Fristberechnungen, Klausur-Merkblatt |
-| 21 | [`21_vertragsschluss_antrag_annahme_145_147_bgb.docx`](21_vertragsschluss_antrag_annahme_145_147_bgb.docx) | §§ 145–155 BGB — Antrag, Annahme, § 150 II, Invitatio, Schriftformvorbehalt |
-| 22 | [`22_pruefungsschema_gesamtfall_klausur_empfehlung.docx`](22_pruefungsschema_gesamtfall_klausur_empfehlung.docx) | Gesamtfall-Prüfungsschema, Stolpersteine, BGH-Tabelle, Verfahrensstand |
 
 ### DOCX
 
@@ -108,7 +102,6 @@ Arbeitsakte zum Plugin `bgb-at-pruefer`.
 | Datei | Inhalt |
 |---|---|
 | [`xlsx/fristen_anfechtung_verjaehrung_berechnung.xlsx`](xlsx/fristen_anfechtung_verjaehrung_berechnung.xlsx) | Fristen-Berechnung Anfechtung/Verjährung — alle Forderungen mit Stichtagsberechnung |
-| [`xlsx/pruefschema_bgb_at_anspruchsgrundlagen_matrix.xlsx`](xlsx/pruefschema_bgb_at_anspruchsgrundlagen_matrix.xlsx) | Prüfschema BGB AT — Anspruchsgrundlagen-Matrix aller Komplexe |
 
 ### E-Mails (.eml)
 
@@ -121,6 +114,10 @@ Arbeitsakte zum Plugin `bgb-at-pruefer`.
 
 ### PDFs
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Datei | Inhalt |
 |---|---|
 | [`pdfs/pachtvertrag_erbenstrasse_88_redacted.pdf`](pdfs/pachtvertrag_erbenstrasse_88_redacted.pdf) | Pachtvertrag 03.02.2026 (redacted — persönliche Daten geschwärzt) |
@@ -132,7 +129,6 @@ Arbeitsakte zum Plugin `bgb-at-pruefer`.
 |---|---|
 | [`jpg/ladenlokal_erbenstrasse_88_connewitz.jpg`](jpg/ladenlokal_erbenstrasse_88_connewitz.jpg) | Restaurant-Ladenlokal Außenansicht Erbenstraße (Referenzfoto) |
 | [`jpg/vollmachts_diagramm_innenvollmacht_aussenvollmacht.jpg`](jpg/vollmachts_diagramm_innenvollmacht_aussenvollmacht.jpg) | Diagramm Innen-/Außenvollmacht §§ 167 ff. BGB |
-| [`jpg/pruefungsschema_anfechtung_flowchart.jpg`](jpg/pruefungsschema_anfechtung_flowchart.jpg) | Anfechtungs-Flowchart §§ 119–143 BGB |
 
 ---
 

@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/versausgleich-haerte-bgh-schaefer-nuernberg_gesamt.pdf`](gesamt-pdf/versausgleich-haerte-bgh-schaefer-nuernberg_gesamt.pdf) |
@@ -34,6 +38,10 @@ Das Familiengericht Nürnberg-Fürth hat den Versorgungsausgleich durch internen
 Die Mandantin hat die Kanzlei beauftragt, **einen beim Bundesgerichtshof zugelassenen Rechtsanwalt** zur Durchführung des Rechtsbeschwerdeverfahrens (Paragraf 114 Abs. 2 FamFG, Paragraf 78 Abs. 1 Satz 3 ZPO) zu mandatieren. Das vorliegende Aktenkonvolut dient der vollständigen Übergabe an die BGH-Korrespondenzkanzlei.
 
 ## Aktenstruktur
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Nr. | Aktenstück | Format |
 | --- | --- | --- |

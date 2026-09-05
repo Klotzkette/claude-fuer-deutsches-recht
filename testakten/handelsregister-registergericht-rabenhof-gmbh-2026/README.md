@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/handelsregister-registergericht-rabenhof-gmbh-2026_gesamt.pdf`](gesamt-pdf/handelsregister-registergericht-rabenhof-gmbh-2026_gesamt.pdf) |
@@ -37,9 +41,12 @@ Die Akte liegt in zwei Formen vor: als verstreute Dokumente mit E-Mails, Word-/E
 | `07-fristen-und-vollzug.xlsx` | Excel-Arbeitsblatt |
 | `08-email-notarin-an-kanzlei.eml` | E-Mail |
 | `09-whiteboard-registerfolge.jpg` | Bildanlage |
-| `10-registervollzug-pruefmatrix.pdf` | PDF-Anlage |
 
 ## Gesamt-PDF
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 - [`gesamt-pdf/handelsregister-registergericht-rabenhof-gmbh-2026_gesamt.pdf`](./gesamt-pdf/handelsregister-registergericht-rabenhof-gmbh-2026_gesamt.pdf)
 

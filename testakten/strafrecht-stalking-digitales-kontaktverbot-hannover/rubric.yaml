@@ -15,41 +15,18 @@ checks:
   - id: p1-rolle-fristen-arbeitsprodukt
     check_type: human_review
     description: Verfahrensrolle, Fristen und naechstes Arbeitsprodukt vor der materiellen Pruefung klaeren.
-    note: Der Bearbeiter ordnet die Rolle als Vertretung der Geschaedigten Clara Wienholt ein, erfasst das Verfahren
-      312 Js 5020/26 der StA Hannover, das Gewaltschutzverfahren und die fuer den 21.07.2026 erwartete Plattformauswertung,
-      und benennt als naechstes Arbeitsprodukt eine gerichtsfeste Chronologie und die Finalisierung des Schutzantrags.
   - id: p2-belastend-entlastend-trennen
     check_type: human_review
     description: Belastende und entlastende Tatsachen je Beweismittel getrennt ausweisen und Kontakte nicht ueberdehnen.
-    note: Der Bearbeiter weist belastende Indizien (GPS-Sender, nicht oeffentliches Urlaubsfoto, gleiche Geraetekennung
-      der Konten, Nachricht zum entfernten Geraet) und offene oder ambivalente Punkte (noch fehlende Bestandsdaten,
-      bar gekaufte SIM ohne identifizierten Kaeufer) je Beweismittel getrennt aus und ueberdehnt nicht jeden Zufallskontakt
-      zum Tatbeitrag.
   - id: p3-sicherstellung-digital
     check_type: human_review
     description: Sicherstellungskette, Beweissicherung und digitale Originaldaten gesondert pruefen.
-    note: Der Bearbeiter prueft die Sicherung des GPS-Senders ueber das Autohaus Leinau und die Polizei, die Spurensicherung
-      am Fahrzeug, die Herkunft und Vollstaendigkeit der Screenshots und WhatsApp-Exporte sowie den Stand der Plattform-Teilauskunft
-      der Meta Platforms getrennt von der inhaltlichen Wuerdigung.
   - id: p4-kontaktchronologie-quantifizieren
     check_type: human_review
     description: Datenauswertungs-Kern mit konkreten Werten aus der Kontaktchronologie.
-    note: Der Bearbeiter setzt 10_kontaktchronologie_kanaele.csv mit dem Auswertevermerk und dem Chat zusammen und
-      ermittelt insgesamt 34 Kontaktereignisse an 33 Tagen ueber sechs Kanaele (neun Instagram-Nachrichten, sieben
-      WhatsApp, sechs SMS, vier Anrufserien, vier GPS-Ortungen, vier persoenliche Erscheinungen) sowie vier verschiedene
-      Instagram-Profile. Er stellt fest, dass sieben dieser Ereignisse nach Wirksamkeit des Kontaktverbots vom 03.06.2026
-      erfolgten, und wertet Zahl, Kanalvielfalt und Zeitraum als Beleg der Beharrlichkeit nach Paragraf 238 StGB.
   - id: p5-diskrepanz-nur-einmal
     check_type: human_review
     description: 'Diskrepanz-Pflichtpunkt: Die Einlassung nur einmal geschrieben widerspricht der Logzahl.'
-    note: Der Bearbeiter stellt die Einlassung des Beschuldigten vom 15.06.2026 (er habe vielleicht einmal geschrieben)
-      den 34 dokumentierten Kontaktereignissen ueber sechs Kanaele gegenueber und wuerdigt zusaetzlich, dass die
-      Nachricht vom 08.05.2026 (warum hast du das Geraet entfernt) am Tag nach dem Fund des GPS-Senders Kenntnis
-      vom Tracker belegt. Er benennt den Widerspruch ausdruecklich.
   - id: p6-materielle-pruefung-nebenfolgen
     check_type: human_review
     description: Subsumtion der Nachstellung, Bewertung der Verstoesse und Schutzfolgen mitdenken.
-    note: Der Bearbeiter prueft die Nachstellung nach Paragraf 238 StGB einschliesslich Beharrlichkeit und Eignung
-      zur schwerwiegenden Beeintraechtigung der Lebensgestaltung, bewertet die sieben Kontakte nach dem 03.06.2026
-      als Verstoesse gegen das gerichtliche Kontaktverbot mit Ordnungsmittel- und Straffolge und denkt Schutzmassnahmen
-      und Beweissicherung fuer die weiteren Kanaele ausdruecklich mit.

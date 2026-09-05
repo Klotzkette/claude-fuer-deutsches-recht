@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/patentrecht-erfindungsakten-ravenstein-moll_gesamt.pdf`](gesamt-pdf/patentrecht-erfindungsakten-ravenstein-moll_gesamt.pdf) |
@@ -27,6 +31,10 @@ Der Bestand enthält fünf voneinander unabhängige Mandatsvorgänge aus einer P
 
 Alois Buchensteiner beschreibt eine mechanisch-elektronische Torsteuerung für einen mobilen Hühnerstall. Zu prüfen sind insbesondere Erfindereigenschaft, Offenbarung, technische Merkmale, frühere Vorführungen und der für eine Anmeldung benötigte Tatsachenstoff.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Datei | Dokument |
 | --- | --- |
 | [`pdfs/originale/Patent_Akte_A_Erfinder_Huehnerstall.pdf`](pdfs/originale/Patent_Akte_A_Erfinder_Huehnerstall.pdf) | Mandatsakte mit Erfinderschilderung, Skizzen, Gesprächsnotizen und Anmeldeunterlagen |
@@ -36,6 +44,10 @@ Alois Buchensteiner beschreibt eine mechanisch-elektronische Torsteuerung für e
 ### Akte B: Abmahnung wegen einer Laserdüse
 
 Die Timmermann Präzisionstechnik GmbH erhält wegen der Düse „Flow-Edge“ eine patentbezogene Abmahnung. Die Unterlagen enthalten die angegriffene Ausführungsform, die geltend gemachten Ansprüche, frühere Entwicklungsunterlagen und Korrespondenz zur Reaktionsfrist.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Datei | Dokument |
 | --- | --- |
@@ -47,6 +59,10 @@ Die Timmermann Präzisionstechnik GmbH erhält wegen der Düse „Flow-Edge“ e
 
 Mara Koebe plant den Marktstart eines selbstnivellierenden Getränkehalters. Die Akte dokumentiert den Entwicklungsstand, eine bevorstehende Veröffentlichung und mehrere Recherchetreffer mit unterschiedlicher technischer Nähe.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Datei | Dokument |
 | --- | --- |
 | [`pdfs/originale/Patent_Akte_C_PriorArt_Getraenkehalter.pdf`](pdfs/originale/Patent_Akte_C_PriorArt_Getraenkehalter.pdf) | Produktunterlagen, Recherchetreffer, Zeitablauf und Korrespondenz |
@@ -56,6 +72,10 @@ Mara Koebe plant den Marktstart eines selbstnivellierenden Getränkehalters. Die
 
 VitaPhotonics übersendet einen Vertragsentwurf für eine patentbezogene Lizenz. Die Dokumente enthalten widersprüchliche Angaben zu Lizenzgebiet, Verbesserungen, Unterlizenzen, Vergütung und Inhaberschaft; welche Fassung gelten soll, ist aus den Originalunterlagen zu ermitteln.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Datei | Dokument |
 | --- | --- |
 | [`pdfs/originale/Patent_Akte_D_Lizenzvertrag_mit_Fehlern.pdf`](pdfs/originale/Patent_Akte_D_Lizenzvertrag_mit_Fehlern.pdf) | Vertragsentwurf, Begleitschreiben und technische Anlagen |
@@ -64,6 +84,10 @@ VitaPhotonics übersendet einen Vertragsentwurf für eine patentbezogene Lizenz.
 ### Akte F: Einspruch und Nichtigkeitsrisiko bei einem Fassadenelement
 
 Die Frosthaus Systeme GmbH erwägt ein Vorgehen gegen das europäische Patent EP 3 102 554 B1. Die Akte enthält Patent, Prior-Art-Unterlagen, Fristdaten und die geschäftlichen Gründe für ein Vorgehen in mehreren Verfahrenswegen.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Datei | Dokument |
 | --- | --- |

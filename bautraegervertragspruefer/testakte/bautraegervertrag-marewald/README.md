@@ -1,8 +1,12 @@
 # Bauträgervertrag — Akte Marewald
 
-> **Charakter dieser Akte:** rechtmäßig, aber grenzwertig verkäuferfreundlich. Der Vertrag reizt den zulässigen Spielraum aus, ohne rote Pflichtverletzung oder erkennbare Nichtigkeit — der Skill soll ihn als hart und ausgereizt, aber im Rahmen des Rechts einordnen (überwiegend 🟠). Das bewusst fehlerhafte Gegenstück ist die Akte Hohenwartshofen (`../bautraegervertrag/`). Übersicht: [`../README.md`](../README.md).
+Der Vertrag Marewald enthält eigene Regelungen zur Bauleistung, Zahlung und Vertragsabwicklung. Einen weiteren, unabhängigen Vertragsbestand enthält die [Akte Hohenwartshofen](../bautraegervertrag/README.md). Zur [Übersicht](../README.md).
 
 Dieses Verzeichnis enthält ein eigenständiges Vertragsdokument in den Gesamtfassungen und als Akten-ZIP mit getrennten Einzel-PDFs:
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 - [Markdown öffnen](bautraegervertrag-marewald.md)
 - [Word-Dokument herunterladen](bautraegervertrag-marewald.docx)

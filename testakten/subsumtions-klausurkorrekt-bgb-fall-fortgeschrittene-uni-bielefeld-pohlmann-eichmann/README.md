@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann_gesamt.pdf`](gesamt-pdf/subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann_gesamt.pdf) |
@@ -57,7 +61,6 @@ Arbeitsakte zum Plugin `subsumtions-pruefer`.
 | Nr. | Datei | Inhalt |
 |---|---|---|
 | 01 | [`01-uebung-fortgeschrittene-fall-radarwarner-und-eigentumserwerb.docx`](01-uebung-fortgeschrittene-fall-radarwarner-und-eigentumserwerb.docx) | Originalfall, Sachverhalt, Bearbeitungshinweise |
-| 02 | [`02-musterloesung-lehrstuhl-pohlmann.md`](02-musterloesung-lehrstuhl-pohlmann.md) | Vollständige Musterlösung im Gutachtenstil |
 | 03 | [`03-bewertungsbogen-fuer-pruefer.docx`](03-bewertungsbogen-fuer-pruefer.docx) | Bewertungsschema, Gewichtung, Korrekturnormen |
 | 04 | [`04-klausur-01-eichmann-bewertung.docx`](04-klausur-01-eichmann-bewertung.docx) | Klara Eichmann: 16 Punkte, Einzelbewertung |
 | 05 | [`05-klausur-02-tannenfels-bewertung.docx`](05-klausur-02-tannenfels-bewertung.docx) | Sven Tannenfels: 10 Punkte, Einzelbewertung |
@@ -87,7 +90,6 @@ Arbeitsakte zum Plugin `subsumtions-pruefer`.
 
 | Datei | Inhalt |
 |---|---|
-| [`docx/musterloesung-uebung-fortgeschrittene-fall-radarwarner.docx`](docx/musterloesung-uebung-fortgeschrittene-fall-radarwarner.docx) | Musterlösung Fall Radarwarner, druckfertig |
 | [`docx/bewertungsbogen-vorlage-klausur.docx`](docx/bewertungsbogen-vorlage-klausur.docx) | Leerer Bewertungsbogen für Korrektoren |
 | [`docx/feedback-handout-klausuranten.docx`](docx/feedback-handout-klausuranten.docx) | Feedback-Handout für die Nachbesprechung |
 
@@ -111,9 +113,12 @@ Arbeitsakte zum Plugin `subsumtions-pruefer`.
 
 ### PDFs
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Datei | Inhalt |
 |---|---|
-| [`pdfs/musterloesung-final.pdf`](pdfs/musterloesung-final.pdf) | Musterlösung Fall Radarwarner, finales PDF |
 | [`pdfs/bewertungsbogen-mustervorlage.pdf`](pdfs/bewertungsbogen-mustervorlage.pdf) | Bewertungsbogen als PDF-Vorlage |
 
 ### Fotos

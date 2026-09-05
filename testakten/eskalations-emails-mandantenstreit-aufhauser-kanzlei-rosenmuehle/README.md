@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle_gesamt.pdf`](gesamt-pdf/eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle_gesamt.pdf) |
@@ -135,6 +139,10 @@ Arbeitsakte zum Plugin `email-umformulierer-berufsrecht`.
 | [`emails/2026-03-22_rak_frankfurt_an_kanzlei_anhoerung.eml`](emails/2026-03-22_rak_frankfurt_an_kanzlei_anhoerung.eml) | Anhörungsschreiben RAK Frankfurt (Az. RAK-F 188/26), 30-Tage-Frist zur Stellungnahme |
 
 ### PDFs
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Datei | Inhalt |
 |---|---|

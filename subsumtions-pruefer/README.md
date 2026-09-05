@@ -56,6 +56,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
 | [Revision nach abgelehntem Beweisantrag Duisburg](../testakten/strafrecht-revision-beweisantrag-lg-duisburg/README.md) | [Gesamt-PDF](../testakten/strafrecht-revision-beweisantrag-lg-duisburg/gesamt-pdf/strafrecht-revision-beweisantrag-lg-duisburg_gesamt.pdf) | [`testakte-strafrecht-revision-beweisantrag-lg-duisburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-revision-beweisantrag-lg-duisburg.zip) | [`testakte-strafrecht-revision-beweisantrag-lg-duisburg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-revision-beweisantrag-lg-duisburg-einzelpdfs.zip) |

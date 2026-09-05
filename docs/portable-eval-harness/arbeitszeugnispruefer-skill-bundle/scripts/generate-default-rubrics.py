@@ -14,7 +14,7 @@ import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[1]
-TESTAKTEN = REPO / "testakten"
+TESTAKTEN = REPO / "fixtures"
 
 TEMPLATE = '''# Auto-generierte Baseline-Rubric (v301).
 # Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische

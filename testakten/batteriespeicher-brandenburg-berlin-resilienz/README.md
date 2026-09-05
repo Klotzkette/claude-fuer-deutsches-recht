@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/batteriespeicher-brandenburg-berlin-resilienz_gesamt.pdf`](gesamt-pdf/batteriespeicher-brandenburg-berlin-resilienz_gesamt.pdf) |
@@ -42,7 +46,6 @@ Passt zu `energierecht`, `bundesnetzagentur-verfahren`, `umweltrecht`, `verkehr-
 | `12-kosten-und-zeitplan.csv` | Zahlenmodell grob |
 | `13-risikoregister.csv` | Risikoampel |
 | `14-technikblatt-hersteller-widersprueche.docx` | Herstellerangaben, Degradation, Temperatur, Garantien |
-| `15-vollgutachten-batteriespeicher-genehmigung-netz-und-schutz.docx` | Ausformuliertes Vollgutachten mit Normprogramm, Subsumtion, Beweisstrategie und nächstem Schritt |
 | `15-gemeinderatsvorlage.docx` | kommunale Beschlussvorlage mit politischer Überhöhung |
 | `16-feuerwehr-workshop-protokoll.docx` | Einsatz-, Löschwasser- und Havariefragen |
 | `17-bank-term-sheet-redlines.docx` | Bank-Term-Sheet mit CPs und Sicherheitsauflagen |

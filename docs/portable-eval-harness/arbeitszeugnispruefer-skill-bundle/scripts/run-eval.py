@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """run-eval.py - Schlanker Eval-Harness fuer Klotzkette German Legal Skills.
 
-Liest pro Testakte (testakten/<slug>/rubric.yaml) eine Liste von Pass/Fail-
+Liest pro Testakte (fixtures/<slug>/rubric.yaml) eine Liste von Pass/Fail-
 Pruefungen ein, fuehrt sie aus und schreibt einen All-Pass-Score nach
 Harvey-LAB-Vorbild.
 
@@ -30,7 +30,7 @@ from datetime import datetime
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[1]
-TESTAKTEN = REPO / "testakten"
+TESTAKTEN = REPO / "fixtures"
 
 
 @dataclass

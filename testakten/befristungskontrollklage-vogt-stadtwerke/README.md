@@ -7,6 +7,10 @@
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf`](gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf) |
@@ -39,10 +43,8 @@ Dokument zu Hause aus, unterzeichnete es handschriftlich, scannte es ein und san
 Scan-PDF am 16. Februar 2024 per E-Mail zurück. Ein beidseitig original unterschriebenes
 Papierdokument existiert nicht. Schönfeld hatte Vogt zugesagt, sie erhalte "am ersten Tag ein
 Originalexemplar"; tatsächlich lag am 01. März 2024 im Einführungsordner kein solches Exemplar.
-Dieses Vorgehen begründet nach dem bei Vertragsschluss geltenden Recht einen Schriftformverstoß
-nach Paragraf 14 Absatz 4 TzBfG in Verbindung mit Paragraf 126 BGB. Die Befristungsabrede
-ist deshalb nichtig; das Arbeitsverhältnis gilt nach Paragraf 16 Satz 1 TzBfG als auf
-unbestimmte Zeit geschlossen.
+Die Vertragsfassungen und die Übermittlungsdaten liegen getrennt vor. Vogt und die
+Stadtwerke vertreten unterschiedliche Standpunkte zum Zustandekommen der Befristung.
 
 Ein weiteres Problemfeld ist die Vorbeschäftigung: Vogt war bereits vom 01. Juli 2021 bis
 30. September 2021 (3 Monate) als geringfügig beschäftigte Ferienaushilfskraft im Bereich

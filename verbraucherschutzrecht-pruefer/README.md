@@ -56,6 +56,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
 | [BGB: Mähroboter, Cloud-Zwang und fehlerhaftes Update in Münster](../testakten/bgb-maehroboter-cloud-update-muenster/README.md) | [Gesamt-PDF](../testakten/bgb-maehroboter-cloud-update-muenster/gesamt-pdf/bgb-maehroboter-cloud-update-muenster_gesamt.pdf) | [`testakte-bgb-maehroboter-cloud-update-muenster.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-maehroboter-cloud-update-muenster.zip) | [`testakte-bgb-maehroboter-cloud-update-muenster-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-maehroboter-cloud-update-muenster-einzelpdfs.zip) |

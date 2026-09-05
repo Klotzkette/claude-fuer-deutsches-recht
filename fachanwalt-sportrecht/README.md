@@ -56,6 +56,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
 | [Doping-Verfahren Selin Uvalkanat — Meldonium-Befund, CAS Lausanne, Arbeitsrecht](../testakten/doping-uvalkanat-handballerin-cas-lausanne/README.md) | [Gesamt-PDF](../testakten/doping-uvalkanat-handballerin-cas-lausanne/gesamt-pdf/doping-uvalkanat-handballerin-cas-lausanne_gesamt.pdf) | [`testakte-doping-uvalkanat-handballerin-cas-lausanne.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-doping-uvalkanat-handballerin-cas-lausanne.zip) | [`testakte-doping-uvalkanat-handballerin-cas-lausanne-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-doping-uvalkanat-handballerin-cas-lausanne-einzelpdfs.zip) |
