@@ -1,6 +1,6 @@
 # einfache-leichte-sprache-jura
 
-**87 Skills** · Stand `v443.1.1`
+**87 Skills** · Stand `v443.1.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../einfache-leichte-sprache-jura/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

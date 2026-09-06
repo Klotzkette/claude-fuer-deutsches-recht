@@ -57,6 +57,7 @@ jobs:
         run: |
           python3 scripts/test-release-assets.py
           python3 scripts/test-testakte-pdf-build.py
+          python3 scripts/test-office-resilience.py
           python3 scripts/test-testakten-email-quality.py
           python3 scripts/test-testakten-ohne-loesungen.py
           python3 scripts/validate-testakten-ohne-loesungen.py

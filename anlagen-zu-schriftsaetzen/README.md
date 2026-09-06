@@ -75,6 +75,8 @@ Der schnellste vollständige Weg ist [`bea-versandmappe-endfertigung`](https://k
 
 Für den optionalen lokalen PDF-Werkzeuglauf sind `pypdf` und `reportlab` in [`requirements.txt`](requirements.txt) dokumentiert. Fehlt eine Bibliothek, bricht das Werkzeug sofort mit einer Installationsangabe ab; der fachliche Skill-Workflow bleibt davon unabhängig nutzbar.
 
+Der mitgelieferte Helfer `office_process.py` gehört neben `build_anlagenkonvolut.py`. Office erhält ein separates temporäres Profil; nach 120 Sekunden wird eine blockierte Konvertierung abgebrochen. Unter Linux und macOS werden auch ihre Kindprozesse beendet. Die übrigen Anlagen bleiben bearbeitbar, die fehlerhafte Anlage sperrt aber die Freigabe und benötigt einen Ersatzexport.
+
 Es hilft besonders dann, wenn nicht einfach „Anlage K1 bis K12“ vorliegt, sondern wenn eine echte Akte lebt: E-Mails mit Anhängen, Scans ohne OCR, Excel-Tabellen, Fotos, Chat-Screenshots, mehrere Vertragsfassungen, fremdsprachige Unterlagen, doppelte Dateien, geschwärzte Drittunterlagen, beA-Grenzen, Verfahrenswechsel und Richterhinweise. Das Plugin führt dann nicht nur eine Nummerierung aus, sondern baut eine Arbeitslogik: Welche Tatsache soll durch welche Anlage belegt werden? Welche Datei gehört wirklich zu K1? Welche Unterlagen sind nur Konvolutbestandteil? Welche Anlage ist zu groß, unleserlich, falsch benannt, doppelt oder im Schriftsatz nicht eingeführt?
 
 ## Wofür es gedacht ist

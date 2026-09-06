@@ -1,6 +1,6 @@
 # gewerblicher-rechtsschutz
 
-**82 Skills** · Stand `v443.1.1`
+**82 Skills** · Stand `v443.1.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gewerblicher-rechtsschutz/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

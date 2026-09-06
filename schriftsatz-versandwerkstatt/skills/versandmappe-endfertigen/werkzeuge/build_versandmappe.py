@@ -28,6 +28,8 @@ from html.parser import HTMLParser
 from pathlib import Path
 from typing import Iterable, Optional
 
+from office_process import pdf_markers, run_office
+
 try:
     from pypdf import PdfReader, PdfWriter
     from pypdf.generic import RectangleObject
@@ -58,6 +60,7 @@ EMAIL_ENDUNGEN = {".eml"}
 AKTIVE_PDF_MARKER = (b"/JavaScript", b"/JS", b"/EmbeddedFiles", b"/Launch")
 MAX_DATEIEN_PRO_NACHRICHT = 1000
 MAX_BYTES_PRO_NACHRICHT = 200 * 1024 * 1024
+OFFICE_TIMEOUT = 120
 
 
 class TextAusHtml(HTMLParser):
@@ -307,21 +310,29 @@ def konvertiere_office(quelle: Path, ziel_ordner: Path) -> Path:
     if not soffice:
         raise RuntimeError("LibreOffice ist für die Office-Konvertierung nicht verfügbar")
     ziel_ordner.mkdir(parents=True, exist_ok=True)
-    try:
-        lauf = subprocess.run(
-            [soffice, "--headless", "--convert-to", "pdf", "--outdir", str(ziel_ordner), str(quelle)],
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            text=True,
-            timeout=120,
-            check=False,
-        )
-    except subprocess.TimeoutExpired as exc:
-        raise RuntimeError("Office-Konvertierung nach 120 Sekunden abgebrochen") from exc
     ziel = ziel_ordner / f"{quelle.stem}.pdf"
-    if lauf.returncode != 0 or not ziel.exists():
-        details = (lauf.stderr or lauf.stdout or "unbekannter Fehler").strip()
-        raise RuntimeError(f"Office-Konvertierung fehlgeschlagen: {details}")
+    with tempfile.TemporaryDirectory(prefix="office-", dir=ziel_ordner) as tmp:
+        work = Path(tmp)
+        ausgabe = work / "pdf"
+        ausgabe.mkdir()
+        try:
+            code, details = run_office(
+                [soffice, f"-env:UserInstallation={(work / 'profile').resolve().as_uri()}",
+                 "--headless", "--convert-to", "pdf", "--outdir", str(ausgabe.resolve()), str(quelle.resolve())],
+                timeout=OFFICE_TIMEOUT,
+            )
+        except subprocess.TimeoutExpired as exc:
+            raise RuntimeError(f"Office-Konvertierung nach {OFFICE_TIMEOUT} Sekunden abgebrochen: {quelle.name}") from exc
+        erzeugt = ausgabe / ziel.name
+        if code != 0 or not erzeugt.is_file() or not erzeugt.stat().st_size:
+            raise RuntimeError(f"Office-Konvertierung fehlgeschlagen: {details or 'keine neue PDF erzeugt'}")
+        try:
+            reader = PdfReader(str(erzeugt))
+            if reader.is_encrypted or not reader.pages:
+                raise ValueError("verschlüsselte oder leere PDF")
+        except Exception as exc:
+            raise RuntimeError(f"Office-Ausgabe ist keine nutzbare PDF: {quelle.name}") from exc
+        erzeugt.replace(ziel)
     return ziel
 
 
@@ -419,7 +430,7 @@ def stempel_overlay(bezeichnung: str, breite: float, hoehe: float) -> io.BytesIO
 def pruefe_pdf(quelle: Path, anzeigename: str) -> tuple[PdfReader, int, int, list[Befund]]:
     befunde: list[Befund] = []
     try:
-        roh = quelle.read_bytes()
+        marker_funde = pdf_markers(quelle, AKTIVE_PDF_MARKER)
         reader = PdfReader(str(quelle), strict=False)
     except Exception as exc:  # noqa: BLE001
         raise RuntimeError(f"PDF kann nicht gelesen werden: {exc}") from exc
@@ -428,7 +439,7 @@ def pruefe_pdf(quelle: Path, anzeigename: str) -> tuple[PdfReader, int, int, lis
     if not reader.pages:
         raise RuntimeError("PDF enthält keine Seiten")
     for marker in AKTIVE_PDF_MARKER:
-        if marker in roh:
+        if marker in marker_funde:
             befunde.append(Befund("STOP", anzeigename, f"aktiver oder eingebetteter PDF-Inhalt erkannt: {marker.decode('ascii')}"))
     textzeichen = 0
     for seite in reader.pages:

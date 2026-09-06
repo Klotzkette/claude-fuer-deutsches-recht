@@ -7,7 +7,7 @@ description: "Hauptworkflow für gerichtliche Anlagenproduktion: liest Schriftsa
 
 ## 1. Direktstart
 
-Wenn Schriftsatz und Dateien vorliegen, lies beides vollständig, bevor du fragst. Erzeuge als ersten Output eine Belegmatrix und kennzeichne sofort:
+Wenn Schriftsatz und Dateien vorliegen, lies zuerst den maßgeblichen Schriftsatz und erfasse die Dateinamen. Öffne anschließend die darin zitierten Belege; bei großen Ordnern arbeite abschnittsweise und kennzeichne noch nicht gelesene Unterlagen. Frage nicht erneut nach bereits belegten Angaben. Erzeuge eine Belegmatrix und kennzeichne:
 
 1. Anlagenzitate ohne Datei,
 2. Dateien ohne Anlagenzitat,
@@ -34,6 +34,8 @@ Klägeranlagen laufen als `K`, Beklagtenanlagen als `B`, Antragsteller- und Antr
 Wenn nur die inhaltliche Zuordnung offen ist, arbeite die Belegmatrix und Lückenliste ab. Sobald der Schriftsatz versandt werden soll, wechsle ohne erneutes Vollinterview in `bea-versandmappe-endfertigung`.
 
 Das Werkzeug `werkzeuge/build_anlagenkonvolut.py` erzeugt aus vorbereiteten Dateien einen Versandordner und interne Prüfunterlagen. Es stempelt standardmäßig jede Seite und versendet nichts. Die juristische Zuordnung und die anwaltliche Freigabe bleiben vorgelagert.
+
+Der Office-Lauf verwendet ein eigenes temporäres Profil und akzeptiert nur eine neu erzeugte, lesbare PDF. Nach 120 Sekunden endet die Konvertierung der betroffenen Anlage; unter Linux und macOS werden auch ihre Kindprozesse beendet. Sichere den Fehler in der Stop-Liste, bearbeite die übrigen Belege weiter und verlange gezielt einen Ersatzexport. Keine unveränderte Wiederholungsschleife, kein stilles Weglassen der Anlage und keine Versandfreigabe trotz fehlgeschlagener Konvertierung.
 
 ## 5. Ergebnis
 

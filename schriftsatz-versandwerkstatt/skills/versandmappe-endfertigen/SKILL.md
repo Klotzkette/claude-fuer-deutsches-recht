@@ -1,6 +1,6 @@
 ---
 name: versandmappe-endfertigen
-description: "Orchestriert die vollständige Endfertigung eines bereits geschriebenen Schriftsatzes mit gemischten Anlagen: liest den Arbeitsordner zuerst, erzeugt eine Produktionsmatrix, konvertiert Quellen kontrolliert in PDF, stempelt und benennt Anlagen, prüft ERVB-Grenzen, Absender und Signaturroute und liefert Versandordner, Manifest, Freigabevermerk und."
+description: "Macht einen fertigen Schriftsatz mit gemischten Anlagen technisch versandbereit: PDF-Konvertierung, Anlagenstempel, Dateinamen, Paketgrenzen und Signaturroute. Liefert getrennte Versanddateien und einen Prüfbericht; ersetzt keine inhaltliche Rechtsprüfung und versendet nichts."
 ---
 
 # Versandmappe endfertigen
@@ -15,7 +15,7 @@ Keine inhaltliche Rechtsprüfung eröffnen. Keine Rechtsprechung recherchieren. 
 
 Wenn ein Ordner oder Dateien vorliegen, beginne ohne Interview:
 
-1. Dateien rekursiv inventarisieren, ohne Originale zu verändern.
+1. Dateinamen und Formate im freigegebenen Ordner inventarisieren, ohne Originale zu verändern. Bei großen Ablagen zuerst Schriftsatzfassungen und darin zitierte Anlagen auswählen, nicht jede Datei vollständig laden.
 2. wahrscheinlichstes Hauptdokument nach Dateiname, Änderungsdatum und Inhalt erkennen.
 3. Anlagenkennungen aus Schriftsatz und Dateinamen abgleichen.
 4. sofort eine Produktionsmatrix mit Status `bereit`, `prüfen`, `fehlt` oder `stop` ausgeben.
@@ -56,6 +56,8 @@ Das Werkzeug darf nur dann als technisch erfolgreich gelten, wenn:
 3. jede erzeugte PDF geöffnet und visuell geprüft wurde,
 4. Seitenzahlen und erwartete Dokumentgrenzen stimmen,
 5. die Versanddateien dem Anlagenverzeichnis entsprechen.
+
+Office-Dateien werden mit einem eigenen temporären Profil konvertiert. Nach 120 Sekunden wird die betroffene Konvertierung abgebrochen; unter Linux und macOS werden auch die zugehörigen Kindprozesse beendet. Eine alte PDF im Zielordner zählt nicht als neue Ausgabe. Andere lesbare Anlagen dürfen weiter vorbereitet werden, aber die fehlgeschlagene Datei bleibt ein Stop-Befund. Wiederhole denselben fehlgeschlagenen Aufruf nicht unverändert in einer Schleife: benenne Quelldatei und Fehler und fordere für diese Anlage eine reparierte Datei oder einen manuell erzeugten PDF-Export an.
 
 ## 6. Ausgabe
 
