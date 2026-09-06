@@ -1,3 +1,14 @@
+# v443.1.2 - Begrenzte Konvertierung und schlankere Paketverarbeitung
+
+- Die beiden Versandwerkzeuge verwenden für jeden Office-Export ein eigenes temporäres Profil und einen neuen Ausgabeordner. Eine alte, leere, verschlüsselte oder defekte PDF wird nicht als neuer Konvertierungserfolg akzeptiert. Vorhandene Ergebnisse werden erst nach erfolgreicher Prüfung ersetzt.
+- Office-Läufe haben geschlossene Standardeingaben, zeitlich begrenztes Warten und eine begrenzte Fehlerausgabe ohne vollständigen Protokollpuffer im Arbeitsspeicher. Unter Linux und macOS wird die eigene Prozessgruppe einschließlich verbliebener Kindprozesse beendet. Nicht betroffene Anlagen bleiben bearbeitbar; ein Konvertierungsfehler bleibt ein Stop-Befund und verhindert die Freigabe.
+- Aktenkonvertierungen übergeben höchstens acht Office-Quellen pro Prozesslauf. Einzel-PDF-Pakete halten nur eine kleine Gruppe nativer Ausgaben gleichzeitig bereit und geben verarbeitete Ergebnisse frei. Fehlgeschlagene Einzelpakete hinterlassen keine temporäre Ausgabe und überschreiben kein vorhandenes Paket.
+- Die Prüfung auf rohe PDF-Aktivinhaltsmarker liest blockweise statt eine zusätzliche vollständige Dateikopie anzulegen. Bereits komprimierte Einzel-ZIPs werden in den zentralen Sammelpaketen ohne erneute Kompression gespeichert. Dateiinhalte, flache Struktur und Warnhinweise bleiben erhalten.
+- Elf neue Regressionen prüfen unter anderem echte Zeitüberschreitung mit Kindprozess, große Programmausgaben, Blockgrenzen, getrennte Profile, veraltete und defekte Ausgaben, Weiterarbeit nach einer fehlerhaften Anlage sowie Batch- und ZIP-Eigenschaften. Die Release-Pipeline führt diese Tests verbindlich aus.
+- Prüfungsumfang: technische Dokumentproduktion und Paketbau. Diese Runde verändert weder Fallzahlen und BWA-Buchungen noch fachanwaltliche Rechtsaussagen. Sie garantiert keine bestimmte Laufzeit oder Verfügbarkeit externer Oberflächen.
+
+---
+
 # v443.1.1 - Gliederungsabstände der BWA-Unterlagen
 
 - Nachprüfung der neuen Vertragsunterlagen: Nummerierte Überschriften erhalten eine ausdrückliche Leerzeile zum folgenden Inhalt. Überschrift und Leerzeile bleiben beim Seitenumbruch beim Beginn des folgenden Absatzes. Dieselbe Korrektur gilt für das Unternehmensblatt.

@@ -19,9 +19,11 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 from pypdf import PdfReader, PdfWriter
+from office_process import run_office
 
 
 OFFICE_EXTS = {"docx", "odt", "xlsx"}
+OFFICE_BATCH_SIZE = 8
 FIXED_DATE = "D:20000101000000Z"
 SHEET_NS = "http://schemas.openxmlformats.org/spreadsheetml/2006/main"
 
@@ -159,6 +161,14 @@ def render_office_batch(paths: list[Path]) -> dict[Path, bytes]:
     if not binary:
         return {}
 
+    rendered: dict[Path, bytes] = {}
+    for start in range(0, len(candidates), OFFICE_BATCH_SIZE):
+        rendered.update(_render_office_group(candidates[start:start + OFFICE_BATCH_SIZE], binary))
+    return rendered
+
+
+def _render_office_group(candidates: list[Path], binary: str) -> dict[Path, bytes]:
+    """Begrenzt die gleichzeitig an Office übergebenen Quelldokumente."""
     with tempfile.TemporaryDirectory(prefix="testakte-office-") as tmp:
         root = Path(tmp)
         source_dir = root / "source"
@@ -189,14 +199,7 @@ def render_office_batch(paths: list[Path]) -> dict[Path, bytes]:
         env["HOME"] = str(home_dir)
         timeout = max(90, min(900, 20 + len(staged) * 15))
         try:
-            completed = subprocess.run(
-                command,
-                env=env,
-                stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE,
-                timeout=timeout,
-                check=False,
-            )
+            returncode, details = run_office(command, env=env, timeout=timeout)
         except subprocess.TimeoutExpired as exc:
             raise OfficeRenderError(
                 f"LibreOffice-Konvertierung nach {timeout} Sekunden abgebrochen"
@@ -209,10 +212,9 @@ def render_office_batch(paths: list[Path]) -> dict[Path, bytes]:
                 continue
             rendered[source] = normalize_pdf(pdf.read_bytes(), source.name)
 
-        if completed.returncode != 0 and not rendered:
-            stderr = completed.stderr.decode("utf-8", errors="replace").strip()
+        if returncode != 0 and not rendered:
             raise OfficeRenderError(
-                f"LibreOffice-Konvertierung fehlgeschlagen: {stderr[:500]}"
+                f"LibreOffice-Konvertierung fehlgeschlagen: {details[:500]}"
             )
         return rendered
 

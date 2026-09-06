@@ -1,6 +1,6 @@
 # steuerrecht-anwalt-und-berater
 
-**237 Skills** · Stand `v443.1.1`
+**237 Skills** · Stand `v443.1.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../steuerrecht-anwalt-und-berater/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -36,7 +36,7 @@ from testakte_einzelpdf_common import (
     document_arcname_pairs,
     ext_of,
 )
-from testakte_office_pdf import OFFICE_EXTS, OfficeRenderError, render_office, render_office_batch
+from testakte_office_pdf import OFFICE_BATCH_SIZE, OFFICE_EXTS, OfficeRenderError, render_office, render_office_batch
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME, without_notice_pages
 
 SCRIPTS = Path(__file__).resolve().parent
@@ -65,13 +65,13 @@ def write_pdf(zipf: zipfile.ZipFile, arcname: str, data: bytes) -> None:
     info = zipfile.ZipInfo(arcname, ZIP_TIMESTAMP)
     info.compress_type = zipfile.ZIP_DEFLATED
     info.external_attr = 0o100644 << 16
-    zipf.writestr(info, data)
+    zipf.writestr(info, data, compresslevel=1)
 
 
 def write_archive(zipf: zipfile.ZipFile, path: Path) -> None:
     """Schreibt ein Einzel-ZIP streamend mit reproduzierbaren Metadaten."""
     info = zipfile.ZipInfo(path.name, ZIP_TIMESTAMP)
-    info.compress_type = zipfile.ZIP_DEFLATED
+    info.compress_type = zipfile.ZIP_STORED
     info.external_attr = 0o100644 << 16
     with path.open("rb") as source, zipf.open(info, "w") as target:
         shutil.copyfileobj(source, target, length=1024 * 1024)
@@ -202,25 +202,32 @@ def add_testakte_many(zipfiles: list[zipfile.ZipFile], testakte_dir: Path) -> in
     if pairs:
         for zipf in zipfiles:
             write_pdf(zipf, NOTICE_FILENAME, NOTICE_BYTES)
-    try:
-        office_cache = render_office_batch([path for path, _ in pairs])
-    except OfficeRenderError as exc:
-        raise G.DocumentRenderError(f"{testakte_dir.name}: {exc}") from exc
-    for path, arcname in pairs:
-        data = render_document_pdf(path, testakte_dir, office_cache)
-        if data is None:
-            continue
-        for zipf in zipfiles:
-            write_pdf(zipf, arcname, data)
-        count += 1
+    for start in range(0, len(pairs), OFFICE_BATCH_SIZE):
+        group = pairs[start:start + OFFICE_BATCH_SIZE]
+        try:
+            office_cache = render_office_batch([path for path, _ in group])
+        except OfficeRenderError as exc:
+            raise G.DocumentRenderError(f"{testakte_dir.name}: {exc}") from exc
+        for path, arcname in group:
+            data = render_document_pdf(path, testakte_dir, office_cache)
+            office_cache.pop(path, None)
+            if data is None:
+                continue
+            for zipf in zipfiles:
+                write_pdf(zipf, arcname, data)
+            count += 1
     return count
 
 
 def build_single(testakte_dir: Path, dist: Path) -> tuple[Path, int]:
     out = dist / f"testakte-{testakte_dir.name}-einzelpdfs.zip"
     tmp = out.with_name(f".{out.name}.tmp")
-    with zipfile.ZipFile(tmp, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=1) as zipf:
-        count = add_testakte(zipf, testakte_dir)
+    try:
+        with zipfile.ZipFile(tmp, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=1) as zipf:
+            count = add_testakte(zipf, testakte_dir)
+    except BaseException:
+        tmp.unlink(missing_ok=True)
+        raise
     if count == 0:
         tmp.unlink(missing_ok=True)
         out.unlink(missing_ok=True)

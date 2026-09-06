@@ -31,7 +31,7 @@ ZIP_TIMESTAMP = (1980, 1, 1, 0, 0, 0)
 def write_file(zipf: zipfile.ZipFile, path: Path, arcname: str) -> None:
     """Schreibt eine Datei streamend mit stabilen ZIP-Metadaten."""
     info = zipfile.ZipInfo(arcname, ZIP_TIMESTAMP)
-    info.compress_type = zipfile.ZIP_DEFLATED
+    info.compress_type = zipfile.ZIP_STORED if path.suffix.lower() == ".zip" else zipfile.ZIP_DEFLATED
     info.external_attr = 0o100644 << 16
     with path.open("rb") as source, zipf.open(info, "w") as target:
         shutil.copyfileobj(source, target, length=1024 * 1024)
