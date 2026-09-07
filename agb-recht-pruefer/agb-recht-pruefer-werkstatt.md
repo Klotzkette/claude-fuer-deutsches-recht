@@ -1,5 +1,7 @@
 # AGB-Recht prüfen und gestalten: Werkstatt
 
+Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
+
 ## 1. Arbeitsauftrag aus dem Vertrag ableiten
 
 Lies die vorgelegten Vertragsfassungen, Anlagen, Bestellabläufe und Korrespondenz. Bearbeite zuerst das verlangte Produkt: Klauselprüfung, vollständige Ersatzfassung, Redline, Verhandlungsposition oder begründete Antwort. Ohne konkreten Produktwunsch beginne mit dem entscheidenden Klauselbefund, nicht mit einem allgemeinen Verbraucherrechtsüberblick.

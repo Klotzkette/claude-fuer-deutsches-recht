@@ -1,8 +1,10 @@
 # Familienrecht: Werkstatt für Anträge, Rechnungen und Stellungnahmen
 
+Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
+
 ## 1. Auftrag und Arbeitsstand
 
-Beginne beim gewünschten Ergebnis und den vorhandenen Unterlagen. Bei klarer Fachfrage sofort den passenden Arbeitsweg aus Abschnitt 2 nutzen; keine obligatorische Aufnahme, Quellenprüfung und Dokumentenwahl als vorgelagerte Gesprächsschleife. Bei neuer offener Anfrage `familienmandat-aufnehmen-und-sofortmassnahmen-planen` einsetzen.
+Beginne beim gewünschten Ergebnis und den vorhandenen Unterlagen. Bei klarer Fachfrage sofort den passenden Arbeitsweg aus Abschnitt 2 nutzen; keine obligatorische Aufnahme, Quellenprüfung und Dokumentenwahl als vorgelagerte Gesprächsschleife. Bei neuer offener Anfrage Mandant, Konflikt, Vertretung, sicheren Kontaktweg und Sofortmaßnahmen klären.
 
 Zuerst das fristauslösende Stück samt Bekanntgabenachweis, den Titel und die tragenden Urkunden oder Rechenbelege lesen. Bei großen Akten die zuerst bearbeitete Frage und den Lesestand benennen. Ein ungelesener Anhang gilt nicht als geprüft. Stelle nur eine gebündelte Rückfrage, wenn ihre Antwort Maßnahme, Betrag, Vertretung oder Frist verändert.
 
@@ -19,7 +21,7 @@ Eine Frist oder akute Gefahr wird sofort mit Ereignis, Nachweis und Sicherungsma
 | Fragebogen oder Trägerwerte berichtigen | [Versorgungsauskünfte und Anrechtswerte prüfen](skills/versorgungsauskuenfte-und-anrechtswerte-pruefen/SKILL.md) | Fragebogen und Antwortabgleich; Bewertungsmatrix mit Einheiten und Kapitalwert |
 | Teilung oder Zielversorgung beurteilen | [Versorgungsteilung und Zielversorgung prüfen](skills/versorgungsteilung-und-zielversorgung-pruefen/SKILL.md) | Teilungsform, Kosten und Transfervergleich; Wahlfrist, Aufnahmebestätigung und Tenor |
 
-Die Referenzen sind Arbeitsanleitungen für genau bezeichnete Entscheidungspunkte. Nicht alle Referenzen eines Skills auf Vorrat laden. Die gleiche Rechnung braucht weder einen zweiten Kurzprüfungs-Skill noch eine zusätzliche Vollprüfung als Auswahlstufe.
+Quellen und Vertiefungen nur für genau bezeichnete Entscheidungspunkte öffnen. Die gleiche Rechnung braucht weder einen zweiten Kurzprüfungsdurchlauf noch eine zusätzliche Vollprüfung als Auswahlstufe. Die hier beschriebenen Arbeitsschritte setzen keine weiteren installierten Dateien voraus; fehlende Quellen vor einer abschließenden Aussage gesondert anfordern.
 
 ## 3. Aufnahme, Verfahren und Schutz
 
@@ -75,17 +77,17 @@ Zielversorgung, Aufnahmefähigkeit, Steuerfolgen, Rentenwirkung und gerichtliche
 
 ### 5.3. Rechtsbehelfe eigenständig bearbeiten
 
-| Verfahrenslage | Eigenständiger Skill und Ergebnis |
+| Verfahrenslage | Eigenständiger Arbeitsweg und Ergebnis |
 | --- | --- |
-| Beschluss noch anfechtbar | `beschwerde-gegen-va-beschluss-famfg`: Angriff, Beschwer und Frist |
-| Altentscheidung nach früherem Recht | `abaenderung-versorgungsausgleich-51-versausglg`: Änderungsgrund und zeitlicher Anwendungsbereich |
-| Ausgleich nach Scheidung | `ausgleich-nach-der-scheidung-20-ff-versausglg`: eigener Zahlungs- oder Ausgleichsanspruch |
-| Unterhaltsbedingte Kürzungsanpassung | `anpassung-wegen-unterhalt-33-ff-versausglg`: eigenständige Voraussetzungen und zuständige Stelle |
-| Invalidität oder besondere Altersgrenze | `anpassung-wegen-invaliditaet-oder-besonderer-haerte`: eigene Anpassungsprüfung |
-| Tod im laufenden Verfahren | `versorgungsausgleich-verstorbener-paragraf-31-versausglg`: Zeitpunkt und Rechtsfolgen |
-| Tod nach Rechtskraft | `tod-eines-ehegatten-anpassung-37-ff-versausglg`: Anpassung statt pauschaler Rückabwicklung |
-| Totalrevision mit Todesfall | `versorgungsausgleich-totalrevision-und-tod`: Wechselwirkung beider Prüfungen |
-| Verbund verzögert | `verbundabtrennung-versorgungsausgleich`: Abtrennungsvoraussetzungen und verbleibendes Verfahren |
+| Beschluss noch anfechtbar | Beschwerde vorbereiten: angegriffenen Teil, Beschwer und Frist bestimmen. |
+| Altentscheidung nach früherem Recht | Abänderung prüfen: Ausgangsentscheidung, Änderungsgrund und zeitlichen Anwendungsbereich abgleichen. |
+| Ausgleich nach Scheidung | Eigenen Zahlungs- oder Ausgleichsanspruch nach Grund, Höhe und Fälligkeit bearbeiten. |
+| Unterhaltsbedingte Kürzungsanpassung | Unterhaltslage, Kürzung und eigenständige Anpassungsvoraussetzungen der zuständigen Stelle zuordnen. |
+| Invalidität oder besondere Altersgrenze | Anlass, betroffene Versorgung und eigene Anpassungsvoraussetzungen prüfen. |
+| Tod im laufenden Verfahren | Todeszeitpunkt, Beteiligte und Auswirkungen auf die noch offene Entscheidung bestimmen. |
+| Tod nach Rechtskraft | Voraussetzungen einer Anpassung prüfen, keine pauschale Rückabwicklung annehmen. |
+| Totalrevision mit Todesfall | Abänderungsgrund und Todesfolge getrennt prüfen, anschließend ihre Wechselwirkung begründen. |
+| Verbund verzögert | Abtrennungsvoraussetzungen, betroffene Folgesache und verbleibendes Verfahren bestimmen. |
 
 Geringfügigkeit, fehlende Ausgleichsreife, Vereinbarung und grobe Unbilligkeit zusätzlich nur bei entsprechendem Sachverhalt prüfen. Sie werden nicht unter einem allgemeinen Härtebegriff zusammengefasst. Nach Rechtskraft Vollzug und Rentenfolgen je Träger nachhalten.
 
@@ -93,7 +95,7 @@ Geringfügigkeit, fehlende Ausgleichsreife, Vereinbarung und grobe Unbilligkeit 
 
 ### 6.1. Scheidung
 
-Trennung von Tisch und Bett, gemeinsame Wohnsituation, Versorgung und Versöhnungsversuche rekonstruieren. Scheidungsvoraussetzungen, Zustellung und Folgesachen abgleichen. `scheidungsantrag-stellen` führt zum ausformulierten Antrag; `famr-trennungsjahr-praxis` vertieft nur einen streitigen Trennungsnachweis.
+Trennung von Tisch und Bett, gemeinsame Wohnsituation, Versorgung und Versöhnungsversuche rekonstruieren. Scheidungsvoraussetzungen, Zustellung und Folgesachen abgleichen und den beauftragten Antrag ausformulieren. Nur bei streitiger Trennung deren Nachweis mit Daten, Wohnsituation und Belegen vertiefen.
 
 ### 6.2. Vermögensbilanz
 
@@ -101,11 +103,11 @@ Anfangs-, Trennungs- und Endvermögen je Person getrennt führen. Eigentum, wirt
 
 Immobilien, Unternehmen, Praxen und Beteiligungen mit Bewertungsmethode, Goodwill, persönlicher Ertragskraft, latenten Steuern und Schulden bearbeiten. Für digitale Werte Wallet oder Börsenkonto, Transaktionskennung und Stichtagskurs sichern. Eine selbst erstellte Forderungsliste ersetzt nicht die vorhandenen Belege. Maklermeinung, Steuerwert und Verkehrswertgutachten sind nicht austauschbar.
 
-Lieferung mit `zugewinnausgleich-berechnen`: Stichtagsbilanz, Ausgleichsrechnung oder Wertband, gezieltes Auskunftsverlangen, Gutachterfragen und Vergleichskorridor. Verjährung und Sicherungsbedarf am konkreten Ablauf prüfen.
+Für den Zugewinnausgleich je nach Auftrag Stichtagsbilanz, Ausgleichsrechnung oder Wertband, gezieltes Auskunftsverlangen, Gutachterfragen und Vergleichskorridor liefern. Verjährung und Sicherungsbedarf am konkreten Ablauf prüfen.
 
 ### 6.3. Vereinbarung
 
-Abschlusskontrolle und spätere Ausübungskontrolle eines Ehevertrags getrennt mit `ehevertrag-inhalts-und-ausuebungskontrolle` bearbeiten. Verhandlungsparität, Kernbereiche, Unterhalt, Vermögen und Versorgung im konkreten Gesamtgefüge beurteilen. Wohnung, Hausrat, Steuern, Vollzug und Form nur ergänzen, soweit beauftragt. Keine Mandantenentscheidung über Verzicht oder Vergleich vorwegnehmen.
+Abschlusskontrolle und spätere Ausübungskontrolle eines Ehevertrags getrennt bearbeiten. Verhandlungsparität, Kernbereiche, Unterhalt, Vermögen und Versorgung im konkreten Gesamtgefüge beurteilen. Wohnung, Hausrat, Steuern, Vollzug und Form nur ergänzen, soweit beauftragt. Keine Mandantenentscheidung über Verzicht oder Vergleich vorwegnehmen.
 
 ## 7. Sorge und Umgang: Kind und Vollziehbarkeit
 

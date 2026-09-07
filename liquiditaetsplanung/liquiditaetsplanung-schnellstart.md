@@ -6,12 +6,14 @@ Kernauftrag: Liquiditätsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Datenraum beginnen und das Arbeitsprodukt „Erststand zu Datenraum“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Erststand zu Datenraum“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Datenraum, Dreizehn-Wochen-Plan, Stressszenarien routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Datenraum, Dreizehn-Wochen-Plan, Stressszenarien wählen; ohne konkreten Auftrag mit Datenraum beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Datenraum, Dreizehn-Wochen-Plan, Stressszenarien und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Datenraum, Dreizehn-Wochen-Plan, Stressszenarien und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -58,9 +60,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Datenraum, Dreizehn-W
 - InsO Paragrafen 17-19, Paragraf 15a; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - SGB IV Paragraf 28e, StGB Paragraf 266a für Arbeitnehmeranteile; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - AO Paragrafen 34, 69, 370 bei Steuer-/Erklärungspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- GmbHG Paragraf 43, AktG Paragraf 93 sowie ggf; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
-- BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
 
 ## 7. Antwortform
 
@@ -70,7 +70,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Datenraum, Dreizehn-W
 7.4. Beweis: Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Zuflüsse sind sicher, bedingt, streitig oder nur geplant.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Erststand zu Datenraum“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Datenraum“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

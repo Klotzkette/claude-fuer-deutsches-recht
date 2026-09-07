@@ -6,12 +6,14 @@ Kernauftrag: Plugin für Influencer, Creator, Agenturen und Unternehmen: Werbeke
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Content und Gegenleistung beginnen und das Arbeitsprodukt „Content-Check“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Content-Check“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Content und Gegenleistung, Kennzeichnung und Claim, Rechte und Vertrag routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Content und Gegenleistung, Kennzeichnung und Claim, Rechte und Vertrag wählen; ohne konkreten Auftrag mit Content und Gegenleistung beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Content und Gegenleistung, Kennzeichnung und Claim, Rechte und Vertrag und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Content und Gegenleistung, Kennzeichnung und Claim, Rechte und Vertrag und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -47,7 +49,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Content und Gegenleis
 | Kennzeichnung und Claim | Kommerziellen Zweck, Erkennbarkeit, Platzierung, Sprache, Werbeaussage, Nachweis und Produktspezialrecht prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Rechte und Vertrag | Musik, Bild, Person, Marke, UGC, Nutzungsgebiet, Dauer, Exklusivität, Bearbeitung, Whitelisting und Vergütung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-
 ## 6. Anker
 
 - UWG Paragraf 3, Paragraf 5, Paragraf 5a, Paragraf 8 und Paragraf 13: Unlauterkeit, Irreführung, Kenntlichmachung des kommerziellen Zwecks und Durchsetzung.
@@ -57,7 +58,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Content und Gegenleis
 - Paragrafen 611, 631 BGB: Agenturvertrag kann als Dienst- oder Werkvertrag ausgestaltet sein; Qualifikation bestimmt Gewährleistung und Kündigung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 84 HGB (analog): Handelsvertreter-Grundsätze anwendbar, wenn Agentur dauerhaft Geschäfte vermittelt; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 138 BGB: Sittenwidrigkeit bei übermäßig langen Exklusivitätsklauseln oder unangemessener Knebelung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 305 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
@@ -67,7 +67,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Content und Gegenleis
 7.4. Beweis: Nachweisachse Kennzeichnung und Claim: kommerziellen Zweck, Erkennbarkeit, Platzierung, Sprache, Werbeaussage, Nachweis und Produktspezialrecht prüfen. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Die Kennzeichnung für die Zielgruppe beim ersten Kontakt klar und nicht erst nach Interaktion sichtbar.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Content-Check“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Content-Check“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

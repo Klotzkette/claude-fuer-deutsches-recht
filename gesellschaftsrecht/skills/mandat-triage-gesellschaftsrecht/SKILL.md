@@ -18,8 +18,6 @@ Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste 
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
-Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
-
 ## Arbeitsbereich
 
 Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung, Gesellschafterbeschluss, Kapitalerhöhung, Geschäftsführer-Abberufung, M&A-Transaktion oder Gesellschafterstreit. Klärt Mandantenrolle und Rechtsform. Sofortfristen: Insolvenzantrag nach Paragraf 15a InsO ohne schuldhaftes Zögern mit Höchstfrist von drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung; Anfechtungsklage nach Paragraf 246 AktG grundsätzlich binnen eines Monats. Output ist ein Triage-Memo mit Fristenampel und fachgenauem Routing.

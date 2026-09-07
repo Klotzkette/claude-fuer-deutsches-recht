@@ -6,12 +6,14 @@ Kernauftrag: Denkmalschutzrecht in Deutschland: Art. 14 und Art. 70 GG als bunde
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Objekt und Landesrecht beginnen und das Arbeitsprodukt „Denkmalblatt“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Denkmalblatt“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Objekt und Landesrecht, Vorhaben und Bestand, Erlaubnis und Abwägung routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Objekt und Landesrecht, Vorhaben und Bestand, Erlaubnis und Abwägung wählen; ohne konkreten Auftrag mit Objekt und Landesrecht beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Objekt und Landesrecht, Vorhaben und Bestand, Erlaubnis und Abwägung und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Objekt und Landesrecht, Vorhaben und Bestand, Erlaubnis und Abwägung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -47,7 +49,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Objekt und Landesrech
 | Vorhaben und Bestand | Historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Erlaubnis und Abwägung | Tatbestand, Belange, Eigentümerinteresse, Erhaltungsoption, Wirtschaftlichkeit, Förderung und Zumutbarkeit prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-
 ## 6. Anker
 
 - GG Artikel 14 und Artikel 70: Eigentumsgarantie sowie grundsätzlich landesrechtliche Gesetzgebungskompetenz für Denkmalschutz.
@@ -57,7 +58,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Objekt und Landesrech
 - Artikel 14 Absatz 3 GG gilt nur für eine Enteignung zum Wohl der Allgemeinheit auf gesetzlicher Grundlage; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 14 Abs. 1 Satz 1 GG Eigentumsgarantie; Satz 2 Inhalts- und Schrankenbestimmung durch Gesetz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 14 Abs. 2 GG Sozialbindung; das öffentliche Interesse am Denkmalschutz ist ein anerkannter Gemeinwohlbelang; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 14 Abs. 3 GG Enteignung nur durch oder aufgrund eines Gesetzes mit ausdrücklicher Regelung von Art und Ausmaß der Entschädigung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
@@ -67,7 +67,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Objekt und Landesrech
 7.4. Beweis: Nachweisachse Vorhaben und Bestand: historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen dokumentieren. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Substanz oder Erscheinung ist aus welchem fachlichen Grund denkmalwert.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Denkmalblatt“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Denkmalblatt“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

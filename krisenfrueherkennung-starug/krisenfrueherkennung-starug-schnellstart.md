@@ -6,12 +6,14 @@ Kernauftrag: Krisenfrüherkennung nach Paragraf 1 StaRUG, Warnpflicht bei Jahres
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Krisenstadium beginnen und das Arbeitsprodukt „Prognosevermerk“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Prognosevermerk“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Krisenstadium, Prognose, Instrumentenwahl routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Krisenstadium, Prognose, Instrumentenwahl wählen; ohne konkreten Auftrag mit Krisenstadium beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Krisenstadium, Prognose, Instrumentenwahl und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Krisenstadium, Prognose, Instrumentenwahl und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -58,9 +60,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Krisenstadium, Progno
 - Paragraf 43 GmbHG (Sorgfaltspflicht und Verantwortlichkeit der Geschäftsführer); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 93 AktG (Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 93 Abs. 2 S. 2 AktG (Beweislastumkehr); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 15a InsO (Insolvenzantragspflicht); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko.
-- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
 
 ## 7. Antwortform
 
@@ -70,7 +70,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Krisenstadium, Progno
 7.4. Beweis: Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Tragen Planungsrechnung und Prämissen die Fortbestehensprognose.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Prognosevermerk“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Prognosevermerk“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

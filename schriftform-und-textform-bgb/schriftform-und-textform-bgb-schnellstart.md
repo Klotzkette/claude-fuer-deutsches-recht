@@ -6,12 +6,14 @@ Kernauftrag: Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, q
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst Vertragsurkunde, Korrespondenz, Rechnungen und Übergabeprotokoll lesen. Mit Anspruchsziel beginnen und das Arbeitsprodukt „Anspruchsmatrix“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Anspruchsmatrix“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Anspruchsziel, Anspruchsgrundlage, Leistungsstörung routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders Vertragsurkunde, Korrespondenz, Rechnungen und Übergabeprotokoll. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Anspruchsziel, Anspruchsgrundlage, Leistungsstörung wählen; ohne konkreten Auftrag mit Anspruchsziel beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Anspruchsziel, Anspruchsgrundlage, Leistungsstörung und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Anspruchsziel, Anspruchsgrundlage, Leistungsstörung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -46,8 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Anspruchsziel, Anspru
 | Anspruchsziel | Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anspruchsgrundlage | Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Leistungsstörung | Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einwendungen | Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweis und Textprodukt | Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -68,7 +69,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Anspruchsziel, Anspru
 7.4. Beweis: Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Zugang, Verjährung und der Auslegung der Vereinbarung.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Anspruchsmatrix“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Anspruchsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

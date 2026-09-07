@@ -1,3 +1,16 @@
+# v443.2.0 - Portable Direktstarts und weniger Pflichtumwege
+
+- Sämtliche 235 Werkstatt- und 235 Schnellstart-Prompts enthalten begrenzte Ausweichwege bei fehlendem Datei-, Quellen- oder Exportzugriff. Eigenständige Prompts setzen keine zusätzlich installierten Skills voraus. Ein fehlendes Werkzeug wird nicht als erfolgreicher Dateiexport oder abgeschlossene Quellenprüfung dargestellt.
+- Drei handkuratierte Familien- und Erbrechtsprompts verwenden konkrete fachliche Arbeitsschritte statt Aufrufen anderer Skills. Unterhalt, Versorgungsausgleich, Erbfolge, Pflichtteil und Nachlassabwicklung bleiben im Prompt selbst steuerbar; die Namen installierbarer Skills ändern sich nicht.
+- Konkrete Ausgabeaufträge werden nicht mehr durch einen vorgegebenen Erststand überschrieben. Werkstatt-Einstiege unterscheiden den offenen Start vom bereits bestimmten Dokumentauftrag. Folgewünsche verwenden unveränderte Auszüge weiter, prüfen aber neue Fassungen und widersprechende Belege erneut.
+- 715 Skills verlieren einen nachträglich eingefügten Pflichtabsatz, der unabhängig vom Auftrag eine zusätzliche Sieben-Satz-Vorabfassung verlangte. Ihre eigentlichen Fachabläufe, Namen und Beschreibungen bleiben erhalten; neue gleichförmige Ersatzabsätze werden nicht eingefügt.
+- Der BWA-Router trennt Ergebnisanalyse, Geldbewegung, Jahreskennzahlen, Monatsbericht und Vorjahresvergleich. Der Einstieg liest zunächst die benötigten Tabellenbereiche statt sämtlicher Journale. Objektüberwachung in Leistungsphase 8 und bankrechtliches Fallrouting beginnen unmittelbar mit dem betroffenen Vorgang. Das Produktrecht-Setup blockiert den laufenden Review nicht wegen fehlendem Profilzugriff oder zehn obligatorischen Altdokumenten; Migration und ausdrücklich gewählter Neustart bleiben erhalten.
+- Bei der Größenbegrenzung der Schnellstarts bleibt mindestens ein vorhandener Rechtsprechungsanker erhalten, auch wenn zuvor zahlreiche Normanker stehen. Alle Schnellstarts bleiben unter 7500 Bytes.
+- Neun neue Regressionstests prüfen sämtliche veröffentlichten Promptpaare, sämtliche installierbaren Skills auf den entfernten Pflichtabsatz, profilgebundenen Auftragsvorrang, verlustarme Ankerkürzung und idempotente Bearbeitung. Die Release-Pipeline führt sie verbindlich aus.
+- Startseite und Kurzanleitung unterscheiden Pluginimport, eigenständige Markdown-Anweisung, Referenzzugriff und echte Dokumentproduktion. Ein fachbezogener Arbeitsplatztest macht fehlende Zugriffe sichtbar. Die Dateiprüfungen zertifizieren weder fremde Plattformkonten noch eine bestimmte Modellgeschwindigkeit oder automatische Skill-Auswahl.
+
+---
+
 # v443.1.2 - Begrenzte Konvertierung und schlankere Paketverarbeitung
 
 - Die beiden Versandwerkzeuge verwenden für jeden Office-Export ein eigenes temporäres Profil und einen neuen Ausgabeordner. Eine alte, leere, verschlüsselte oder defekte PDF wird nicht als neuer Konvertierungserfolg akzeptiert. Vorhandene Ergebnisse werden erst nach erfolgreicher Prüfung ersetzt.

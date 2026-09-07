@@ -6,12 +6,14 @@ Kernauftrag: Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungs
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Planangriff und Verfahrensstand beginnen und das Arbeitsprodukt „Normenkontrollbaustein“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Normenkontrollbaustein“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Planangriff und Verfahrensstand, Festsetzungen, Städtebauliche Verträge routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Planangriff und Verfahrensstand, Festsetzungen, Städtebauliche Verträge wählen; ohne konkreten Auftrag mit Planangriff und Verfahrensstand beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Planangriff und Verfahrensstand, Festsetzungen, Städtebauliche Verträge und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Planangriff und Verfahrensstand, Festsetzungen, Städtebauliche Verträge und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -46,9 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Planangriff und Verfa
 | Planangriff und Verfahrensstand | Satzungsbeschluss, Bekanntmachung, Rügefrist, Antragsteller und Rechtsschutzbedürfnis feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Festsetzungen | BauGB Paragraf 9, BauNVO, Planzeichnung, textliche Festsetzungen, Bestimmtheit und Rechtsgrundlage prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Städtebauliche Verträge | BauGB Paragraf 11, Folgekosten, Angemessenheit, Kausalität, Schriftform und Rückabwicklung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vorhabenbezogener Plan | BauGB Paragraf 12, Vorhaben- und Erschließungsplan, Durchführungsvertrag, Frist und Kosten abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Erschließung und Kosten | Vertrag nach BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1, heutige Erschließungspflicht nach Paragraf 124, Erschließungsbeiträge, Anlagenliste und Umgehungsrisiko ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Innenentwicklung und Verfahren | BauGB Paragraf 13, 13a und Übergangsfragen zu 13b, Umweltprüfung und Beteiligung kontrollieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -59,7 +59,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Planangriff und Verfa
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerwG, Urteil vom 25.11.2005 - 4 C 15.04: Kostenübernahme in städtebaulichen Verträgen braucht zurechenbaren städtebaulichen Bezug und darf nicht nicht delegierbare Gemeindeaufgaben verlagern.
 
 ## 7. Antwortform
 
@@ -69,7 +69,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Planangriff und Verfa
 7.4. Beweis: Planer für Leistungsstand, Koordination und Honorargrund; Auftraggeber für Anordnung, Mitwirkung, Abnahme und Einwand. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Rechtsgrundlage trägt die Festsetzung oder Vertragsleistung.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Normenkontrollbaustein“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Normenkontrollbaustein“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

@@ -6,12 +6,14 @@ Kernauftrag: Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tic
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Buchung und Reichweite beginnen und das Arbeitsprodukt „Flugmatrix“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Flugmatrix“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Buchung und Reichweite, Ereignis und Zeit, Anspruch routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Buchung und Reichweite, Ereignis und Zeit, Anspruch wählen; ohne konkreten Auftrag mit Buchung und Reichweite beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Buchung und Reichweite, Ereignis und Zeit, Anspruch und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Buchung und Reichweite, Ereignis und Zeit, Anspruch und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -46,9 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Buchung und Reichweit
 | Buchung und Reichweite | Fluggast, Buchungscode, ausführendes Unternehmen, Abflug, Ziel, einheitliche Buchung und Anwendungsbereich sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ereignis und Zeit | Nichtbeförderung, Annullierung oder Verspätung trennen und tatsächliche Öffnung der Flugzeugtür am Endziel belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anspruch | Entfernung, Ankunftsverlust, Vorabinformation, Ersatzbeförderung, Kürzung, Betreuung und Ausgleich getrennt berechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Entlastung | Behauptetes Ereignis, externe Beherrschbarkeit, Ursächlichkeit und jede konkret zumutbare Maßnahme des Unternehmens prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahren | Anspruchsgegner, Abtretung, Verjährung oder Ausschlussfrist, Gerichtsstand, Belege und Zustellung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Forderungsschreiben, Belegmatrix, Erwiderung auf Standardausrede, Mahnung, Klage oder Vergleich erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -59,7 +59,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Buchung und Reichweit
 - Paragraf 29 ZPO (Erfüllungsort); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 286 Abs. 1 BGB — Verzug bei fruchtlosem Fristablauf; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 288 Abs. 1 BGB — Verzugszinsen 5 Prozentpunkte über Basiszinssatz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 195 BGB — Regelmäßige Verjährungsfrist drei Jahre; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 22.12.2008 - C-549/07: Wallentin-Hermann verlangt für außergewöhnliche Umstände ein nicht zur normalen Tätigkeit gehörendes, tatsächlich nicht beherrschbares Ereignis sowie den Nachweis aller zumutbaren Maßnahmen.
 
 ## 7. Antwortform
 
@@ -69,7 +69,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Buchung und Reichweit
 7.4. Beweis: Darlegungs- und Nachweisfrage für Fluggastrechte: Welche Distanzstufe, Kürzung und bereits erbrachte Leistung bestimmen den Betrag. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Störung liegt vor und wie groß ist die Verspätung am Endziel.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Flugmatrix“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Flugmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

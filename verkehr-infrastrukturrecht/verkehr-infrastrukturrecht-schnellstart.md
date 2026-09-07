@@ -6,12 +6,14 @@ Kernauftrag: Freistehendes Verkehrs- und Infrastrukturrecht-Plugin für Verkehrs
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Vorhaben und Verfahrensart beginnen und das Arbeitsprodukt „Einwendung“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Einwendung“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Vorhaben und Verfahrensart, Beteiligung, Materielle Prüfung routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Vorhaben und Verfahrensart, Beteiligung, Materielle Prüfung wählen; ohne konkreten Auftrag mit Vorhaben und Verfahrensart beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Vorhaben und Verfahrensart, Beteiligung, Materielle Prüfung und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Vorhaben und Verfahrensart, Beteiligung, Materielle Prüfung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -58,9 +60,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorhaben und Verfahre
 - Paragraf 49a VwVfG — Erstattung von Kosten des Sofortvollzugs (Abschleppkostenerstattung); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 12.05.2011 - C-115/09: Anerkannte Umweltvereinigungen müssen sich im Anwendungsbereich des Umweltrechtsbehelfsgesetzes auf unionsrechtlich geprägte Umweltschutzvorschriften berufen können.
-- EuGH, Urteil vom 15.10.2015 - C-137/14: Der gerichtliche Rechtsschutz in Umweltangelegenheiten darf nicht generell auf Einwendungen beschränkt werden, die bereits im Verwaltungsverfahren erhoben wurden.
 
 ## 7. Antwortform
 
@@ -70,7 +70,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorhaben und Verfahre
 7.4. Beweis: Darlegungs- und Nachweisfrage für Umwelt-, Planungs- und Infrastrukturrecht: Wer ist klagebefugt und welche Einwendungen sind fristgerecht erhoben. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: UVP-Pflicht und Artenschutz geprüft und wie belastbar sind die Fachbeiträge.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Einwendung“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Einwendung“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

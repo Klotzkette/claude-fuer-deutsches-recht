@@ -6,12 +6,14 @@ Kernauftrag: Verwaltungsgericht: Sachprüfung Anfechtungs- und Verpflichtungskla
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise lesen. Mit Eingang und Eilspur beginnen und das Arbeitsprodukt „Dezernatsblatt“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Dezernatsblatt“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Eingang und Eilspur, Zulässigkeitskarte, Streitstoff ordnen routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Eingang und Eilspur, Zulässigkeitskarte, Streitstoff ordnen wählen; ohne konkreten Auftrag mit Eingang und Eilspur beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Eingang und Eilspur, Zulässigkeitskarte, Streitstoff ordnen und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Eingang und Eilspur, Zulässigkeitskarte, Streitstoff ordnen und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -34,10 +36,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Eingang und Eilspur, 
 | --- | --- |
 | Normenanker | VwGO Paragraf 40, Paragraf 42 und Paragraf 43; VwGO Paragraf 47 und Paragraf 52; VwGO Paragraf 80, Paragraf 80a und Paragraf 123 |
 | Rechtsprechung | BVerwG, Urteil vom 17.02.1984 - 7 C 8.82; BVerwG, Urteil vom 21.11.1986 - 8 C 127.84 |
-| Tatbestand | Beteiligte, Begehren, angegriffenes Handeln, Zugang, Frist, Vollzug, Aktenzeichen und sofortige richterliche Maßnahme bestimmen |
-| Beweislast | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle |
-| Rechtsfolge | Eingangsverfügung, Hinweis, Aufklärungsverfügung, Beschluss, Gerichtsbescheid, Urteil oder Vergleichsvorschlag ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
 
 ## 5. Einsatzfelder
 
@@ -55,7 +54,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Eingang und Eilspur, 
 - VwGO Paragraf 86 und Paragraf 87: Amtsermittlung, Hinwirkung, vorbereitende Verfügungen und Verfahrenskonzentration.
 - Paragrafen 113, 114 VwGO; Paragrafen 117, 118 VwGO für Urteilsaufbau; Paragraf 154 VwGO für Kosten; Paragraf 167 VwGO i.V.m; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 86 VwGO, Paragraf 80 und Paragraf 123 VwGO: Amtsermittlung, Eilrechtsschutz und Beweiswürdigung als Grundgerüst; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 65 VwGO, Paragraf 60 FGO oder Paragraf 75 SGG: notwendige Beiladung als frühes Stoppschild prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerwG, Urteil vom 17.02.1984 - 7 C 8.82: Ob eine Regelung Inhaltsbestimmung oder selbständig anfechtbare Nebenbestimmung ist, richtet sich nach ihrem objektiven Erklärungsgehalt.
 
 ## 7. Antwortform
 
@@ -65,7 +64,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Eingang und Eilspur, 
 7.4. Beweis: Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Sachentscheidungsvoraussetzung ist streitig und welche kann das Gericht durch Hinweis oder Aufklärung klären.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Dezernatsblatt“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Dezernatsblatt“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

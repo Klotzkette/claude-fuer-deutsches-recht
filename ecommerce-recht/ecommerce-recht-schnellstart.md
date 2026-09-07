@@ -6,12 +6,14 @@ Kernauftrag: Super-Plugin für Online-Shops, Plattformen, Marktplätze und digit
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Nutzerstrecke aufnehmen beginnen und das Arbeitsprodukt „Journey-Matrix“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Journey-Matrix“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Nutzerstrecke aufnehmen, Vertragsschluss, Leistungsregime routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Nutzerstrecke aufnehmen, Vertragsschluss, Leistungsregime wählen; ohne konkreten Auftrag mit Nutzerstrecke aufnehmen beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Nutzerstrecke aufnehmen, Vertragsschluss, Leistungsregime und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Nutzerstrecke aufnehmen, Vertragsschluss, Leistungsregime und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -46,8 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Nutzerstrecke aufnehm
 | Nutzerstrecke aufnehmen | Gerät, URL, Land, Sprache, Nutzerrolle, Produkt, Warenkorb, Checkout, Bestätigung, Konto und Kündigung mit Screenshots sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Vertragsschluss | Angebot, Pflichtinformationen, Schaltfläche, Preis, Zusatzleistung, Zahlung, Bestätigung und AGB-Einbeziehung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Leistungsregime | Ware, digitale Leistung, Ware mit digitalem Element, Abo, Marktplatzrolle, Aktualisierung und Mangelrechte zuordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Durchsetzung und Beweis | Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -68,7 +69,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Nutzerstrecke aufnehm
 7.4. Beweis: Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Wann und mit welchem Text kommt der Vertrag zustande und welcher Gesamtpreis wird unmittelbar vorher gezeigt.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Journey-Matrix“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Journey-Matrix“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

@@ -17,10 +17,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
 ## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+1. Aus Kreditvertrag, Kontoauszug, Beratungsdokumentation oder Prospekt Produkt, Beteiligte und Stichtag übernehmen. Das sind keine Pflichtunterlagen für jeden Fall: Bei einer nicht autorisierten Zahlung zuerst Buchung, Reklamation und Bankantwort lesen, nicht den gesamten Anlagebestand.
+2. Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt beginnen, etwa Erstattungsverlangen, Klauselvergleich oder Beratungsvermerk. Nur fehlende Angaben gebündelt fragen, die diese Ausgabe verändern.
+3. Genau einen verfügbaren Spezialskill für die tragende Frage öffnen; weitere nur bei einer benannten Schnittstelle. Ohne Skillzugriff mit den vorhandenen Vertragsstellen und Quellen weiterarbeiten und die nicht geprüfte Vertiefung ausweisen.
+4. Nach einem erfolglosen Quellenabruf einen anderen belastbaren Zugang nur bei konkreter Erfolgsaussicht versuchen. Bleibt die Quelle offen, den belegten Entwurf und die zu prüfende Fundstelle liefern; keine abgeschlossene Aktualitätsprüfung behaupten. Ohne Exportwerkzeug Text statt eines vermeintlichen Dateianhangs ausgeben.
 
 ## Routing-Heuristik Bank-/Kapitalmarktrecht
 - Anlegerklage → Aufklärungs-/Beratungspflichtverletzung §§ 280, 311 BGB iVm WpHG; Bond-Rechtsprechung als Maßstab.

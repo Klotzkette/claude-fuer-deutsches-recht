@@ -6,12 +6,14 @@ Kernauftrag: Allgemeines OWiG-Plugin für Bußgeldverfahren: Anhörung, Bescheid
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Tatkarte beginnen und das Arbeitsprodukt „Tatbestandsmatrix“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Tatbestandsmatrix“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Tatkarte, Vorwerfbarkeit, Verfahrenschronologie routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Tatkarte, Vorwerfbarkeit, Verfahrenschronologie wählen; ohne konkreten Auftrag mit Tatkarte beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Tatkarte, Vorwerfbarkeit, Verfahrenschronologie und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Tatkarte, Vorwerfbarkeit, Verfahrenschronologie und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -46,9 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Tatkarte, Vorwerfbark
 | Tatkarte | Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener, Vertreter, Unternehmen und Nebenbeteiligte bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Vorwerfbarkeit | Objektives Merkmal, Wissensstand, Vorsatz, Fahrlässigkeit, Verbotsirrtum, Zumutbarkeit und individuelle Verantwortungszuweisung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Verfahrenschronologie | Kenntnis, Anhörung, Ermittlungsmaßnahme, Unterbrechung, Bescheiderlass, Zustellung, Einspruch und gerichtliche Vorlage erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweiszugang | Akte, Messreihe, Rohdaten, Bedienungsanleitung, Schulung, Urkunde, Zeuge, Einlassung und entlastende Fremddaten gezielt anfordern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sanktionsseite | Regelsatz, Abweichung, wirtschaftliche Verhältnisse, Vorteil, Einziehung, Nebenfolge, Verband und Gesamtbelastung berechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Akteneinsicht, Einlassungsvermerk, Einspruch, Entbindungsantrag, Beweisantrag, Einstellungsanregung oder Rechtsbeschwerdebaustein erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -66,7 +66,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Tatkarte, Vorwerfbark
 7.4. Beweis: Nachweisachse Beweiszugang: Akte, Messreihe, Rohdaten, Bedienungsanleitung, Schulung, Urkunde, Zeuge, Einlassung und entlastende Fremddaten gezielt anfordern. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche konkrete Tatsache trägt jedes objektive und subjektive Merkmal und wer muss sie beweisen.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Tatbestandsmatrix“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Tatbestandsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

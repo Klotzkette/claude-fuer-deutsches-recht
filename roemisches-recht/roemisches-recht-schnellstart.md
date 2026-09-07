@@ -6,12 +6,14 @@ Kernauftrag: Mega-Plugin zum römischen Recht: Zwölftafelgesetz, Institutionens
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Quellen, Editionen, Übersetzungen und Fundstellen lesen. Mit Epochen- und Fallfrage beginnen und das Arbeitsprodukt „Quellenkarte“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Quellenkarte“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Quellenstufe und Überlieferung, Personenstatus und Hausverband, Aktionenrecht und Prozessform routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Quellen, Editionen, Übersetzungen und Fundstellen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Quellenstufe und Überlieferung, Personenstatus und Hausverband, Aktionenrecht und Prozessform wählen; ohne konkreten Auftrag mit Epochen- und Fallfrage beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Quellenstufe und Überlieferung, Personenstatus und Hausverband, Aktionenrecht und Prozessform und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Quellenstufe und Überlieferung, Personenstatus und Hausverband, Aktionenrecht und Prozessform und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -63,7 +65,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Quellenstufe und Übe
 7.4. Beweis: Der Bearbeiter belegt Epoche, Textzeuge, lateinischen Begriff, Übersetzung, Kompilationsstatus, Prozessform und Rezeption; offene Überlieferung wird nicht durch moderne Dogmatik geschlossen. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welcher Textzeuge trägt die Aussage und ist er zeitgenössisch, fragmentarisch überliefert oder justinianisch kompiliert.
 7.6. Erwiderung: Gegenquelle, abweichende Lesart oder Datierungsargument nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Quellenkarte“ liefern; mit Frist, Kernlücke und nächster Quelle oder Darstellungsstufe schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Quellenkarte“. Frist, Kernlücke und nächster Quelle oder Darstellungsstufe benennen.
 
 ## 8. Stop
 

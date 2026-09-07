@@ -6,12 +6,14 @@ Kernauftrag: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur gr
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise lesen. Mit Verfahrensstand beginnen und das Arbeitsprodukt „Anklagesatz“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Anklagesatz“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Verfahrensstand, Anklage- oder Entscheidungsprüfung, Beweisprogramm routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Verfahrensstand, Anklage- oder Entscheidungsprüfung, Beweisprogramm wählen; ohne konkreten Auftrag mit Verfahrensstand beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Verfahrensstand, Anklage- oder Entscheidungsprüfung, Beweisprogramm und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Verfahrensstand, Anklage- oder Entscheidungsprüfung, Beweisprogramm und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -58,7 +60,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Verfahrensstand, Ankl
 - Paragraf 55-StGB-Disziplin: Bei Vorverurteilungen immer Tatzeiten, Entscheidungsdaten, Rechtskraft, Vollstreckungsstand, erledigte/nicht erledigte Strafen und Zäsurwirkung als Tabelle verlangen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 153a StPO erlaubt die Einstellung des Verfahrens gegen Auflagen oder Weisungen, wenn das öffentliche Interesse an der Strafverfolgung beseitigt werden kann und die Schwere der Schuld nicht entgegensteht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 153a Abs. 1 StPO — Vorläufige Einstellung mit Auflagen durch die Staatsanwaltschaft (mit Zustimmung des Gerichts, ab dem Zwischenverfahren bereits Gerichts-Zustimmung); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 153a Abs. 2 StPO — Einstellung durch das Gericht in jedem Stadium; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Hat das Gericht ausnahmsweise ein Glaubhaftigkeitsgutachten eingeholt, müssen Hypothesenbildung, wissenschaftlicher Methodenstand, Transparenz und alternative Entstehungserklärungen nachvollziehbar geprüft werden; die Entscheidung ist kein allgemeiner Aussage-gegen-Aussage-Anker.
 
 ## 7. Antwortform
 
@@ -68,7 +70,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Verfahrensstand, Ankl
 7.4. Beweis: Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Deckt das Beweisprogramm jede tragende Feststellung ab.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Anklagesatz“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Anklagesatz“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

@@ -6,12 +6,14 @@ Kernauftrag: Großes, lehramts- und papsttreues Arbeitsplugin zum Recht der röm
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Person und Forum beginnen und das Arbeitsprodukt „Kirchenrechtsakte“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Kirchenrechtsakte“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Zuständigkeit und Rechtsquelle, Kirchliches Verwaltungsverfahren, Eheverfahren routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Zuständigkeit und Rechtsquelle, Kirchliches Verwaltungsverfahren, Eheverfahren wählen; ohne konkreten Auftrag mit Person und Forum beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Zuständigkeit und Rechtsquelle, Kirchliches Verwaltungsverfahren, Eheverfahren und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Zuständigkeit und Rechtsquelle, Kirchliches Verwaltungsverfahren, Eheverfahren und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -46,9 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Zuständigkeit und Re
 | Zuständigkeit und Rechtsquelle | Autorität, Gericht, universales Recht, Partikularrecht, Dekret, Statut und maßgebliche Fassung bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Kirchliches Verwaltungsverfahren | Antrag, Anhörung, Dekret, Zustellung, hierarchische Beschwerde, Frist und Vollzug chronologisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Eheverfahren | Zuständigkeit, Klagegrund, Parteistellung, Urkunden, Zeugen, Ehebandverteidiger und Rechtsmittel erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kirchliches Strafverfahren | Voruntersuchung, Schutzmaßnahmen, Zuständigkeit, Verteidigung, Beweis, Dekret oder Gerichtsweg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Register und Urkunden | Taufe, Ehe, Austritt, Korrektur, Archiv, Ausfertigung und Offenlegung nach Beweiszweck bearbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Staatliche Schnittstelle | Kirchliche Wirkung, Arbeitsrecht, Personenstand, Datenschutz und staatlichen Rechtsschutz gesondert prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -67,7 +67,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Zuständigkeit und Re
 7.4. Beweis: Antragsteller für Parteistellung, Urkunde und Anspruchstatsachen; kirchliche Autorität für Zuständigkeit, Verfahren und Entscheidungsgrundlage. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Fassung des universalen oder partikularen Rechts gilt.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Kirchenrechtsakte“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Kirchenrechtsakte“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

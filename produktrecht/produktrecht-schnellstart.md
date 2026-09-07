@@ -6,12 +6,14 @@ Kernauftrag: Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Produkt und Rolle beginnen und das Arbeitsprodukt „Erststand zu Produkt und Rolle“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Erststand zu Produkt und Rolle“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Produkt und Rolle, Fehler und Risiko, Pflichten und Belege routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Produkt und Rolle, Fehler und Risiko, Pflichten und Belege wählen; ohne konkreten Auftrag mit Produkt und Rolle beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Produkt und Rolle, Fehler und Risiko, Pflichten und Belege und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Produkt und Rolle, Fehler und Risiko, Pflichten und Belege und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -58,7 +60,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Produkt und Rolle, Fe
 - Paragraf 12 ProdHaftG Verjährung: 3 Jahre kenntnisabhängig (Verletzung, Schaden, Hersteller); Paragraf 13 ProdHaftG: 10 Jahre absolute Erlöschen ab Inverkehrbringen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 9 ProdSG Meldepflicht: Unverzüglich bei Kenntnis von Risiko an BAuA über Safety Business Gateway; Verstoß Paragraf 39 ProdSG bis 100.000 EUR Bußgeld; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 16.06.2009 - VI ZR 107/08: Ein Konstruktionsfehler liegt vor, wenn das Produkt unter dem bei Inverkehrbringen nach Wissenschaft und Technik objektiv möglichen und zumutbaren Sicherheitsstandard bleibt; eine überlegene Alternative muss praktisch serienreif sein.
 
 ## 7. Antwortform
 
@@ -68,7 +70,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Produkt und Rolle, Fe
 7.4. Beweis: Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Sicherheitserwartung war im Zeitpunkt des Inverkehrbringens berechtigt.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Erststand zu Produkt und Rolle“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Produkt und Rolle“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

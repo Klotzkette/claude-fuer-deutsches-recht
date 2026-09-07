@@ -6,12 +6,14 @@ Kernauftrag: IFG-, Transparenz-, UIG-, VIG- und Presseauskunfts-Plugin für Bund
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Zugangsziel beginnen und das Arbeitsprodukt „Informationsmatrix“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Informationsmatrix“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Zugangsziel, Anspruchsregime, Ausnahmen und Dritte routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Zugangsziel, Anspruchsregime, Ausnahmen und Dritte wählen; ohne konkreten Auftrag mit Zugangsziel beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Zugangsziel, Anspruchsregime, Ausnahmen und Dritte und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Zugangsziel, Anspruchsregime, Ausnahmen und Dritte und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -46,8 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Zugangsziel, Anspruch
 | Zugangsziel | Begehrte Information, Zeitraum, Format, Behörde, Aktenbestand und Verwendungszweck so konkret wie nötig bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anspruchsregime | IFG, UIG, VIG, Presseauskunft, Archivrecht oder Landesrecht nach Information und Stelle auswählen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ausnahmen und Dritte | Öffentlichen Belang, Entscheidungsprozess, personenbezogene Daten, Geheimnis, Urheberrecht, Drittanhörung und Teilzugang getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahren und Kosten | Antrag, Eingangsdatum, Monatsfrist, Präzisierung, Gebührenankündigung, Bescheid, Widerspruch und Eilbedarf steuern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Zugangsantrag, Präzisierung, Drittstellungnahme, Schwärzungsmatrix, Ablehnungsbescheid, Widerspruch oder Eilantrag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -67,7 +68,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Zugangsziel, Anspruch
 7.4. Beweis: Nachweisachse Zugangsziel: begehrte Information, Zeitraum, Format, Behörde, Aktenbestand und Verwendungszweck so konkret wie nötig bestimmen. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welches Anspruchsregime ist gegenüber dieser Stelle und für diesen Informationsgegenstand vorrangig.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Informationsmatrix“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Informationsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

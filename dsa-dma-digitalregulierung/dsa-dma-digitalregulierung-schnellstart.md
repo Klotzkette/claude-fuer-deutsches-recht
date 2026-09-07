@@ -6,12 +6,14 @@ Kernauftrag: Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Dienst und Rolle beginnen und das Arbeitsprodukt „Erststand zu Dienst und Rolle“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Erststand zu Dienst und Rolle“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Dienst und Rolle, Vorgang, Pflichtmatrix routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Dienst und Rolle, Vorgang, Pflichtmatrix wählen; ohne konkreten Auftrag mit Dienst und Rolle beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Dienst und Rolle, Vorgang, Pflichtmatrix und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Dienst und Rolle, Vorgang, Pflichtmatrix und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -46,8 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Dienst und Rolle, Vor
 | Dienst und Rolle | Vermittlung, Hosting, Plattform, Marktplatz, Suchmaschine, sehr großer Dienst oder Gatekeeper anhand der tatsächlichen Funktion einordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Vorgang | Meldung, Sperre, Ranking, Werbung, Empfehlungssystem, Händlernachverfolgung, Beschwerde oder behördliche Maßnahme erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Pflichtmatrix | Adressat, Schwellenwert, Tatbestand, Frist, Begründung, Transparenz, Datenbeleg und Aufsicht zuordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Grundrechte und Verfahren | Nutzerposition, Unternehmerfreiheit, Meinungsfreiheit, Gehör, Beschwerdeweg und gerichtlichen Rechtsschutz trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Notice, Begründung, Beschwerde, Risikobericht, Datenzugangsantrag, Behördenantwort oder Compliance-Roadmap erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -58,7 +59,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Dienst und Rolle, Vor
 - Art. 263 Abs. 4 AEUV — Nichtigkeitsklage; 2-Monatsfrist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 278/279 AEUV — Eilrechtsschutz (Aussetzung und einstweilige Maßnahmen); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 256 AEUV — Zuständigkeit EuG in erster Instanz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 263 Abs. 4 AEUV — Nichtigkeitsklage gegen Designierungsbeschluss; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 12.07.2011 - C-324/09: L'Oréal gegen eBay betrifft die frühere unionsrechtliche Haftungs- und Unterlassungsordnung für Online-Marktplätze; die Aussage ist bei heutigen Fällen mit dem DSA abzugleichen.
 
 ## 7. Antwortform
 
@@ -68,7 +69,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Dienst und Rolle, Vor
 7.4. Beweis: Darlegungs- und Nachweisfrage für Digitale Plattformregulierung: Welche Handlung, Unterlassung oder Entscheidung löst welche Pflicht aus. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche DSA- oder DMA-Rolle folgt daraus und welche Schwelle ist belegt.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Erststand zu Dienst und Rolle“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Dienst und Rolle“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

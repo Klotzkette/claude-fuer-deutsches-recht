@@ -6,12 +6,14 @@ Kernauftrag: Nachbarrecht und Nachbarschaftsstreit: Überbau, Überhang, Äste/W
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Grundstücke und Beteiligte beginnen und das Arbeitsprodukt „Ortsbefund“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Ortsbefund“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Grundstücke und Beteiligte, Ortsbefund, Anspruch und Duldung routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Grundstücke und Beteiligte, Ortsbefund, Anspruch und Duldung wählen; ohne konkreten Auftrag mit Grundstücke und Beteiligte beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Grundstücke und Beteiligte, Ortsbefund, Anspruch und Duldung und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Grundstücke und Beteiligte, Ortsbefund, Anspruch und Duldung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -46,8 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Grundstücke und Bete
 | Grundstücke und Beteiligte | Grundbuch, Flurstück, Eigentümer, Besitzer, Grenze, Dienstbarkeit, Baulast und Zuständigkeit sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ortsbefund | Maße, Höhen, Abstände, Richtung, Dauer, Witterung, Geräusch, Geruch, Wasser, Pflanzen oder Bauwerk mit Fotos und Plan dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anspruch und Duldung | Konkrete Störung, Verantwortlicher, Wesentlichkeit, Ortsüblichkeit, Selbsthilfe, Frist, Verjährung und Landesrecht prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweis und Lösung | Vermessung, Zeugen, Messung, Gutachten, Ortstermin, technische Abhilfe, Zugang und Kosten ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Aufforderung, Duldungsvereinbarung, Schlichtungsantrag, Beweissicherungsantrag, Klage oder Vergleichsskizze erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -68,7 +69,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Grundstücke und Bete
 7.4. Beweis: Nachweisachse Ortsbefund: Maße, Höhen, Abstände, Richtung, Dauer, Witterung, Geräusch, Geruch, Wasser, Pflanzen oder Bauwerk mit Fotos und Plan dokumentieren. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche konkrete Einwirkung tritt wann, wo, wie oft und mit welcher messbaren Intensität auf.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Ortsbefund“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Ortsbefund“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

@@ -6,12 +6,14 @@ Kernauftrag: Alltagsplugin für Notariat, Notariatsmitarbeiter und Notare: Beurk
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Vorgang und Beteiligte beginnen und das Arbeitsprodukt „Vollzugscockpit“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Vollzugscockpit“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Vorgang und Beteiligte, Entwurf und Belehrung, Beurkundung oder Beglaubigung routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Vorgang und Beteiligte, Entwurf und Belehrung, Beurkundung oder Beglaubigung wählen; ohne konkreten Auftrag mit Vorgang und Beteiligte beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Vorgang und Beteiligte, Entwurf und Belehrung, Beurkundung oder Beglaubigung und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Vorgang und Beteiligte, Entwurf und Belehrung, Beurkundung oder Beglaubigung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -46,8 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorgang und Beteiligt
 | Vorgang und Beteiligte | Geschäft, Ziel, Personen, Identität, wirtschaftlich Berechtigte, Vertretung, Zustimmung und Interessenkonflikt feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Entwurf und Belehrung | Regelungswille, Vorbefassung, Sprache, Anlagen, Risiken, Genehmigungen, Steuerhinweis und Belehrungsdokumentation ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beurkundung oder Beglaubigung | Form, Niederschrift, Vorlesen, Übersetzung, Unterschrift, Videozulässigkeit und Ausfertigung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vollzug | Vormerkung, Genehmigung, Lastenfreistellung, Fälligkeit, Zahlung, Gesellschafterliste, Registeranmeldung und Rangfolge steuern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Vollzugscockpit, Urkundenentwurf, Registeranmeldung, Grundbuchantrag, Kostenrechnung oder Mandantenmail erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -66,7 +67,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorgang und Beteiligt
 7.4. Beweis: Nachweisachse Entwurf und Belehrung: Regelungswille, Vorbefassung, Sprache, Anlagen, Risiken, Genehmigungen, Steuerhinweis und Belehrungsdokumentation ordnen. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Identität, Vertretungsmacht, Sprache, Geschäftsfähigkeit und wirtschaftlich Berechtigte belegt.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Vollzugscockpit“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Vollzugscockpit“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

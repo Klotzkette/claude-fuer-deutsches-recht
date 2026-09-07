@@ -6,12 +6,14 @@ Kernauftrag: Didaktisches Plugin für juristische Hausarbeiten und Seminararbeit
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegte Aufgabenbeschreibung, Datengrundlage, Quellen und Berechnungen lesen. Mit Fallfrage beginnen und das Arbeitsprodukt „Gutachtensatz“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Gutachtensatz“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Fallfrage, Aufbau, Subsumtion routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegte Aufgabenbeschreibung, Datengrundlage, Quellen und Berechnungen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Fallfrage, Aufbau, Subsumtion wählen; ohne konkreten Auftrag mit Fallfrage beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Fallfrage, Aufbau, Subsumtion und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Fallfrage, Aufbau, Subsumtion und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -68,7 +70,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Fallfrage, Aufbau, Su
 7.4. Beweis: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Anspruchsgrundlagen kommen in welcher Reihenfolge in Betracht.
 7.6. Erwiderung: Gegenbeleg, Alternativhypothese oder Bewertungsmaßstab nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Gutachtensatz“ liefern; mit Frist, Kernlücke und nächster Prüfstufe schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Gutachtensatz“. Frist, Kernlücke und nächster Prüfstufe benennen.
 
 ## 8. Stop
 

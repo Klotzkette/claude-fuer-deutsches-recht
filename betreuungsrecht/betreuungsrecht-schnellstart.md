@@ -6,12 +6,14 @@ Kernauftrag: Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer, Be
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Person und Verfahren beginnen und das Arbeitsprodukt „Aufgabenmatrix“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Aufgabenmatrix“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Person und Verfahren, Erforderlichkeit und Aufgabenbereich, Entscheidung und Genehmigung routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Person und Verfahren, Erforderlichkeit und Aufgabenbereich, Entscheidung und Genehmigung wählen; ohne konkreten Auftrag mit Person und Verfahren beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Person und Verfahren, Erforderlichkeit und Aufgabenbereich, Entscheidung und Genehmigung und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Person und Verfahren, Erforderlichkeit und Aufgabenbereich, Entscheidung und Genehmigung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -46,8 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Person und Verfahren,
 | Person und Verfahren | Betroffener, Betreuer, Vollmacht, Verfahrensstand, Anhörung, Gutachten und Eilbedarf erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Erforderlichkeit und Aufgabenbereich | Unterstützungsbedarf, andere Hilfen, Wunsch, Einwilligungsfähigkeit und konkrete Angelegenheit trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Entscheidung und Genehmigung | Vertretungsmacht, Ausschluss, Gesundheit, Unterbringung, Wohnung, Vermögen und Grundstücksgeschäft prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechnungs- und Berichtswesen | Vermögensverzeichnis, Belege, Kontobewegungen, Jahresbericht, Vergütung und Fristen nachvollziehbar aufbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Antrag, Stellungnahme, Genehmigungsvorlage, Jahresbericht, Vermögensübersicht, Schutzplan oder Gerichtsschreiben erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -58,7 +59,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Person und Verfahren,
 - Paragraf 1821 Abs. 1 BGB — Wunschbindung auch in Vermögensfragen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1823 BGB — Vertretungsmacht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1835 BGB — Aufwendungsersatz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1838 BGB — Vermögenssorge; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Beschluss vom 06.07.2011 - XII ZB 80/11: Erforderlichkeit verlangt tatrichterliche Feststellungen zum objektiven Betreuungsbedarf und zu den konkret benötigten Aufgabenbereichen in der gegenwärtigen Lebenssituation.
 
 ## 7. Antwortform
 
@@ -68,7 +69,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Person und Verfahren,
 7.4. Beweis: Gericht ermittelt von Amts wegen; Betreuer und Behörde dokumentieren Bedarf, Wunsch, mildere Hilfe, Vertretungsmacht und Genehmigungstatsachen. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Unterstützung oder Vollmacht macht eine Betreuung ganz oder teilweise entbehrlich.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Aufgabenmatrix“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Aufgabenmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

@@ -6,12 +6,14 @@ Kernauftrag: Super-Plugin zur GOÄ: private Arztrechnungen prüfen, erstellen, b
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Rechnung und Behandlung beginnen und das Arbeitsprodukt „Rechnungszeile“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Rechnungszeile“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Rechnung und Behandlung, Ziffernkette, Faktor und Betrag routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Rechnung und Behandlung, Ziffernkette, Faktor und Betrag wählen; ohne konkreten Auftrag mit Rechnung und Behandlung beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Rechnung und Behandlung, Ziffernkette, Faktor und Betrag und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Rechnung und Behandlung, Ziffernkette, Faktor und Betrag und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -46,8 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Rechnung und Behandlu
 | Rechnung und Behandlung | Arzt, Zahlungspflichtiger, Behandlungsdatum, Leistung, Diagnosebezug, Rechnung, Fälligkeit und Einwendung erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ziffernkette | Leistungsinhalt, Ausschlüsse, Zielleistung, Nebeneinanderberechnung, Analogansatz und Dokumentation positionsweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Faktor und Betrag | Leistungsgruppe, Schwellen- und Höchstsatz, individuelle Begründung, Punktzahl, Punktwert, Minderung und Rechenweg kontrollieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sonderweg | Honorarvereinbarung, Wahlleistung, Auslagen, Wegegeld, Basistarif, Beihilfe oder PKV-Erstattung getrennt bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Korrigierte Rechnung, Ziffern- und Faktormatrix, Begründungstext, Einwendung, Zahlungsaufforderung oder Klagebaustein erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -68,7 +69,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Rechnung und Behandlu
 7.4. Beweis: Nachweisachse Ziffernkette: Leistungsinhalt, Ausschlüsse, Zielleistung, Nebeneinanderberechnung, Analogansatz und Dokumentation positionsweise prüfen. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Ziffer bildet die Leistung vollständig ab und welche Ausschluss- oder Zielleistungsregel greift.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Rechnungszeile“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Rechnungszeile“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

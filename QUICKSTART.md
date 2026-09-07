@@ -22,7 +22,7 @@ Der [Plugin-Katalog](./README.md#was-ist-drin) führt zu jeder Plugin-README. Do
 3. Die Markdown-Datei zusammen mit dem Arbeitsordner oder den relevanten Unterlagen öffnen.
 4. Diesen Startsatz verwenden:
 
-> Erfasse zuerst alle Dateien im ausgewählten Ordner nach Name, Datum und Typ. Öffne zunächst höchstens fünf tragende Unterlagen und beginne unmittelbar mit dem verlangten Arbeitsprodukt. Wenn nur der Prompt gestartet wurde, bestimme daraus selbst die passende Fachroute und liefere einen ersten belastbaren Stand. Erweitere die Lektüre nur für eine benannte Beleglücke; frage einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre.
+> Erfasse zunächst höchstens 20 Dateitreffer im ausgewählten Ordner nach Name, Datum und Typ. Öffne höchstens fünf tragende Unterlagen und beginne unmittelbar mit dem verlangten Arbeitsprodukt. Wenn nur der Prompt gestartet wurde, bestimme aus zugänglichem Material die passende Fachroute und liefere einen ersten belastbaren Stand. Erweitere die Lektüre für benannte Beleglücken; frage gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre.
 
 Für einen Folgewunsch genügt die gewünschte Änderung, etwa „Rechne zusätzlich die Gegenvariante“, „Formuliere daraus die Klage“ oder „Kürze den Mandantenbrief“. Der bereits erarbeitete Aktenstand soll fortgeführt und nicht neu abgefragt werden.
 
@@ -75,12 +75,12 @@ Lange Wartezeiten entstehen meist nicht beim Schreiben, sondern vor dem ersten S
 2. Wenn der Sachskill feststeht, ihn unmittelbar über `/` oder `+` wählen. Bei einer Serienfrage zuerst den passenden Fachrouter öffnen und dort genau eine Vertiefung laden; nicht mehrere Länder, Leistungsphasen oder Behörden vorsorglich mitlesen.
 3. Bei einem lokalen Arbeitsordner zuerst Dateinamen, Unterordner, Datum und Dateityp erfassen. Bei Microsoft 365 zusätzlich Website, Bibliothek oder Ordner, Zeitraum, Absender und einen genauen Suchbegriff nennen.
 4. Im ersten Durchgang höchstens 20 Treffer erfassen und höchstens fünf tragende Unterlagen öffnen. Erst bei einer benannten Beleglücke weiter suchen.
-5. PDF- und Word-Dokumente einmal lesen, Tabellen auf das einschlägige Blatt und den benötigten Bereich begrenzen und bei E-Mails den maßgeblichen Gesprächsverlauf statt des gesamten Postfachs öffnen.
+5. PDF- und Word-Dokumente gezielt lesen, Tabellen auf das einschlägige Blatt und den benötigten Bereich begrenzen und bei E-Mails den maßgeblichen Gesprächsverlauf statt des gesamten Postfachs öffnen. Bereits ausgewertete unveränderte Auszüge weiterverwenden; neue Fassungen und widersprüchliche Fundstellen neu prüfen.
 6. Nach der ersten Sichtung sofort einen Teilstand mit Fundstellen, Frist, Risiko und nächstem Arbeitsprodukt liefern. Bereits gewonnene Tatsachen und Extrakte werden weiterverwendet.
 
 Ein geeigneter Startsatz für große Ablagen lautet:
 
-> Arbeite in zwei Stufen. Erfasse zuerst nur Dateinamen und Metadaten, wähle höchstens fünf tragende Unterlagen und liefere daraus einen ersten belastbaren Stand. Erweitere die Suche nur für konkret benannte Beleglücken. Öffne keine bereits gelesene Datei erneut und frage nicht nach Angaben, die im Arbeitsordner stehen.
+> Arbeite in zwei Stufen. Erfasse zuerst nur Dateinamen und Metadaten, wähle höchstens fünf tragende Unterlagen und liefere daraus einen ersten belastbaren Stand. Erweitere die Suche nur für konkret benannte Beleglücken. Verwende belegte Auszüge unveränderter Dateien weiter; prüfe geänderte Fassungen neu. Frage nicht nach Angaben, die in zugänglichen Unterlagen bereits belegt sind.
 
 ## 7. Kurzer Funktionstest
 
@@ -109,3 +109,22 @@ Die Skill-Liste zeigt den Quellbestand. Einige Spezialserien werden im installie
 Eine kleinere Auswahl bedeutet nicht weniger Fachwissen: Zusammengehörige Arbeitsschritte werden über eine sprechende Hauptaufgabe geöffnet; Spezialfragen stehen in gezielt verlinkten Vertiefungen. Wähle nach dem gewünschten Ergebnis, etwa „Unterhalt berechnen“ oder „Organbeschlüsse vorbereiten“, nicht nach jedem einzelnen Zwischenschritt. Umbenannte und zusammengeführte Einstiege sind in der [Umstellungsübersicht](./docs/skill-auswahl-und-umstellungen.md) nachvollziehbar. Alte direkte Aufrufnamen müssen nach einem Plugin-Update gegebenenfalls ersetzt werden.
 
 Ausführliche Hinweise zu ZIP-Auswahl, Mac-Downloads und Organisations-Marketplaces stehen in [Installation in einfach](./INSTALLATION_EINFACH.md).
+
+## 9. Portabilität im eigenen Arbeitsplatz prüfen
+
+Nutze genau einen fachlich passenden Einstieg. Ein Prompt soll als Arbeitsanweisung verwendet werden, nicht bloß als eine weitere Fallunterlage in einer Dokumentensuche. Ohne unterstützten Pluginimport sind Werkstatt und Schnellstart die eigenständigen Wege; das bloße Hochladen eines ZIPs installiert keine Funktionen.
+
+| Probe mit zwei bis fünf Unterlagen | Erwartetes Ergebnis |
+| --- | --- |
+| Bankfall: „Formuliere nur das Erstattungsverlangen zu dieser Buchung.“ | Der Brief beginnt unmittelbar; keine vorgelagerte Produkt-, Aufsichts- oder Vermögensinventur. |
+| BWA: „Vergleiche diese beiden Jahresauswertungen.“ | Firma, Zeitraum und Einheit aus den Dateien; Zahlenbrücke mit Fundstellen statt Steuerbescheid-Interview. |
+| Baufall: „Schreibe die Nachricht zum Mangel im Bautagebuch.“ | Betroffenes Gewerk, Planstand und Eintrag; keine Prüfung sämtlicher Leistungsphasen. |
+| Historischer Text: „Stelle die beiden Fassungen gegenüber.“ | Synopse und belegte Lesarten, keine Übertragung in eine moderne Klageschrift. |
+| Fehlender Ordnerzugriff | Konkrete fehlende Datei oder benötigten Auszug nennen; keinen unsichtbaren Ordner als gelesen behandeln. |
+| Nicht erreichbare Quelle | Belegten Teil liefern, ungeprüfte Aussage abgrenzen; keine erneuten gleichartigen Abrufe ohne neue Aussicht auf Erfolg. |
+| Gewünschte PDF ohne Exportwerkzeug | Vollständigen Text oder Tabellenstand liefern und Export als offen kennzeichnen; kein erfundener Downloadlink. |
+| „Weiter, aber mit dieser korrigierten Tabelle.“ | Nur betroffene Berechnungen und Folgerungen erneuern; den geänderten Zahlenstand tatsächlich lesen. |
+
+Erfasse für den Vergleich Oberfläche, verwendeten Einstieg, tatsächlich verfügbare Werkzeuge und die Zeit bis zum ersten brauchbaren Ergebnis. Wiederhole mit denselben Unterlagen und demselben Auftrag. Unterschiedliche Quellenzugänge, Dokumentkonvertierungen oder aktivierte Plugins sind kein reiner Modellvergleich. Ein bestandener lokaler Strukturtest ersetzt diesen Praxistest nicht.
+
+Bei einer technischen Blockade den vorhandenen Stand sichern: Auftrag, gelesene Dateien mit Fassung und Fundstellen, tragende Zahlen, offene Frage und nächster Schritt. Diese knappe Übergabe reicht für die Fortsetzung; nicht vorsorglich den gesamten bisherigen Chat und alle Referenzdateien erneut laden.
