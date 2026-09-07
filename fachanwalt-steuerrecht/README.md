@@ -26,6 +26,22 @@ Der neue Name bündelt anwaltliche und steuerberatende Sicht in einem einzigen P
 
 ## Direkter Link zum Plugin
 
+### Grundsteuerakte Wolkenfels
+
+Die [Aktenübersicht Wolkenfels](../testakten/steuer-grundsteuer-wolkenfels-berlin/README.md) enthält die beiden unverändert übernommenen Bescheid-PDFs und sechs ergänzende Unterlagen. Dieselbe Akte ist im gemeinsamen Steuerrechts-Plugin verzeichnet.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Fassung | Download |
+| --- | --- |
+| Gesamt-PDF | [Gesamtakte lesen](../testakten/steuer-grundsteuer-wolkenfels-berlin/gesamt-pdf/steuer-grundsteuer-wolkenfels-berlin_gesamt.pdf) |
+| Originaldateien | [Flaches Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-steuer-grundsteuer-wolkenfels-berlin.zip) |
+| Einzel-PDFs | [Flaches Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-steuer-grundsteuer-wolkenfels-berlin-einzelpdfs.zip) |
+
+English: Both entry points use the same case. The two supplied PDFs are unchanged; additional correspondence remains separate. ZIP files contain no subfolders or Markdown documents.
+
 ➡️ **[Zum Plugin steuerrecht-anwalt-und-berater wechseln](../steuerrecht-anwalt-und-berater)**
 
 ➡️ [Aktueller Release mit allen ZIPs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest)
