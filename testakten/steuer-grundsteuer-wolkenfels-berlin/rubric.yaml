@@ -1,0 +1,17 @@
+name: steuer-grundsteuer-wolkenfels-berlin
+plugin: steuerrecht-anwalt-und-berater
+description: "Berliner Wohnungseigentümer mit übergebenem Grundsteuerwertbescheid und einer Datei mit Grundsteuer- und Messbescheid. Korrespondenz, Posteingangserinnerung, Verwaltungsdaten und Hofbeobachtung ergänzen den Stand vom 22. November 2024."
+checks:
+  - id: unterlagen
+    check_type: working_file_count
+    description: Acht Primärdateien in PDF, EML, TXT und CSV vorhanden
+    min: 8
+  - id: originaltreue
+    check_type: human_review
+    description: Die beiden bereitgestellten PDFs sind unverändert und ihre Seiten vollständig erhalten.
+  - id: herkunft
+    check_type: human_review
+    description: Ergänzende Unterlagen bleiben von den bereitgestellten Bescheiden unterscheidbar und nehmen kein Ergebnis vorweg.
+  - id: zeitstand
+    check_type: human_review
+    description: Die Bearbeitung bleibt beim dokumentierten Aktenstand und unterstellt keinen späteren Verfahrensverlauf.

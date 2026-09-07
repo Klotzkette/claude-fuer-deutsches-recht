@@ -1,3 +1,12 @@
+# v443.3.0 - Grundsteuerakte Wolkenfels
+
+- Zwei bereitgestellte Bescheid-PDFs unverändert aufgenommen: Grundsteuerwertbescheid sowie Grundsteuerpost 2025 einschließlich des darin enthaltenen Messbescheids. Originalhinweise und Zahlen bleiben erhalten.
+- Sechs getrennte Ergänzungen: drei E-Mails, Posteingangsvermerk, Verwaltungsdaten als CSV und ein Ortsbefund ohne Grenzfeststellung. Kein fertiger Rechtsbehelf, keine vorweggenommene gerichtliche Entscheidung.
+- Gemeinsame Akte über das Steuerrechts-Plugin und dessen früheren Fachanwalt-Einstieg erreichbar. Gesamt-PDF, flaches Originalformat-ZIP und flaches Einzel-PDF-ZIP führen denselben Unterlagenbestand.
+- Fallbezogene Regressionen sichern Original-Prüfsummen, vollständige PDF-Seiten, Archivstruktur und Zuordnung. Downloadverzeichnisse und Versionsangaben aktualisiert. Skills und Fachprompts bleiben inhaltlich unverändert.
+
+---
+
 # v443.2.0 - Portable Direktstarts und weniger Pflichtumwege
 
 - Sämtliche 235 Werkstatt- und 235 Schnellstart-Prompts enthalten begrenzte Ausweichwege bei fehlendem Datei-, Quellen- oder Exportzugriff. Eigenständige Prompts setzen keine zusätzlich installierten Skills voraus. Ein fehlendes Werkzeug wird nicht als erfolgreicher Dateiexport oder abgeschlossene Quellenprüfung dargestellt.
