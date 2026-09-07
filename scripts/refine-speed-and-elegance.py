@@ -340,26 +340,12 @@ def refine_prompt(path: Path, kind: str) -> bool:
 
 def refine_skill(path: Path) -> bool:
     text = path.read_text(encoding="utf-8", errors="ignore")
-    if "## Direktstart: lesen, entscheiden, liefern" not in text:
+    # Der alte Zusatz erzwang auch bei einem konkreten Entwurf eine Vorabfassung.
+    # Nur diesen vollständig bekannten Absatz entfernen, Fachabläufe erhalten.
+    updated = text.replace("\n\n" + DIREKTSTART_SENTENCE + "\n", "\n")
+    if updated == text:
         return False
-    if DIREKTSTART_SENTENCE in text:
-        return False
-
-    marker = (
-        "Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, "
-        "Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. "
-        "Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite "
-        "unmittelbar in dessen Richtung weiter."
-    )
-    if marker in text:
-        text = text.replace(marker, marker + "\n\n" + DIREKTSTART_SENTENCE, 1)
-    else:
-        text = text.replace(
-            "## Direktstart: lesen, entscheiden, liefern",
-            "## Direktstart: lesen, entscheiden, liefern\n\n" + DIREKTSTART_SENTENCE,
-            1,
-        )
-    path.write_text(text, encoding="utf-8")
+    path.write_text(updated, encoding="utf-8")
     return True
 
 

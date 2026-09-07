@@ -6,12 +6,14 @@ Kernauftrag: Super-Plugin für deutsches Krankenhausrecht: Planung, Finanzierung
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Krankenhaus und Versorgungsauftrag beginnen und das Arbeitsprodukt „Planungsmatrix“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Planungsmatrix“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Krankenhaus und Versorgungsauftrag, Planung und Qualität, Finanzierung und Entgelt routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Krankenhaus und Versorgungsauftrag, Planung und Qualität, Finanzierung und Entgelt wählen; ohne konkreten Auftrag mit Krankenhaus und Versorgungsauftrag beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Krankenhaus und Versorgungsauftrag, Planung und Qualität, Finanzierung und Entgelt und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Krankenhaus und Versorgungsauftrag, Planung und Qualität, Finanzierung und Entgelt und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -46,8 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Krankenhaus und Verso
 | Krankenhaus und Versorgungsauftrag | Träger, Standort, Fachabteilung, Planstatus, Zulassung, Leistungsgruppe und Einzugsgebiet feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Planung und Qualität | Bedarf, Erreichbarkeit, Fallzahlen, Personal, Struktur, Kooperation, Prognose und Auswahlentscheidung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Finanzierung und Entgelt | Investition, Betriebskosten, Budget, Erlös, Zu- oder Abschlag, Prüfung, Verhandlung und Schiedsstelle ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Betrieb und Aufsicht | Organisation, Hygiene, Notfallversorgung, Meldeweg, Qualitätsabweichung und aufsichtsrechtliche Maßnahme trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Planantrag, Auswahlvermerk, Budgetposition, Schiedsstellenantrag, Aufsichtsantwort oder gerichtlicher Antrag erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -68,7 +69,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Krankenhaus und Verso
 7.4. Beweis: Darlegungs- und Nachweisfrage für Krankenhausplanung, -finanzierung und Krankenhausbetrieb: Welche Finanzierungsquelle und welches Entgeltregime tragen die konkrete Position. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Bedarfs-, Qualitäts-, Personal- oder Strukturvoraussetzung ist entscheidend und belegt.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Planungsmatrix“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Planungsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

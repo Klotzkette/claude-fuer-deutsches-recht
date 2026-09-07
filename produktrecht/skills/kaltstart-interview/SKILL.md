@@ -18,11 +18,9 @@ Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste 
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
-Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
-
 ## Produktrecht-Setup zuerst sichern
 
-Vor dem allgemeinen Kaltstart immer zuerst das Produktrecht-Profil sichern:
+Vor dem allgemeinen Kaltstart das Produktrecht-Profil sichern, soweit die Umgebung den Konfigurationszugriff tatsächlich erlaubt. Ohne Dateizugriff keine Pfade ausprobieren oder eine Migration behaupten: mit bereitgestelltem Profil oder dem laufenden Auftrag arbeiten, fehlende Kalibrierung kennzeichnen und das Profil auf Wunsch als Text ausgeben. Die folgenden Dateischritte gelten nur bei verfügbarem Zugriff; `--redo` und `--check-integrations` behalten ihre getrennte Bedeutung.
 
 1. Zustand von `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` prüfen.
 2. Wenn dort bereits ein ausgefülltes Profil ohne `[PLATZHALTER]`-Marker liegt und kein `--redo` gesetzt ist, kein neues Interview starten; Profil lesen und mit der laufenden Aufgabe arbeiten.
@@ -30,7 +28,7 @@ Vor dem allgemeinen Kaltstart immer zuerst das Produktrecht-Profil sichern:
 4. Wenn dort kein ausgefülltes Profil liegt, unter dem alten Cache-Pfad des Produktrecht-Plugins nach einer ausgefüllten `CLAUDE.md` ohne `[PLATZHALTER]`-Marker suchen.
 5. Wenn ein solches Altprofil existiert, es nach `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` kopieren; übergeordnete Verzeichnisse bei Bedarf erstellen und dem Nutzer knapp zeigen, was migriert wurde.
 6. Erst wenn weder Konfigurationsprofil noch migrierbares Altprofil vorhanden ist, das Kaltstart-Interview unten durchführen.
-7. Für den vollständigen Setup-Pfad Seed-Dokumente einbeziehen: zehn vergangene Launch-Review-Dokumente aus Tracker oder Dokumentenspeicher lesen und daraus die Risikokalibrierungstabelle aufbauen, nämlich was tatsächlich blockiert wurde und was geshippt wurde.
+7. Nur für das ausdrücklich vollständige Setup vergangene Launch-Reviews einbeziehen: zunächst Metadaten, dann bis zu drei einschlägige Reviews lesen und die vorläufige Kalibrierung zeigen. Für erkennbare Lücken auf bis zu zehn Reviews erweitern; fehlende Dokumente oder Konnektoren sperren nicht den aktuellen Produktreview. Tatsächliche Blockierungen und Freigaben getrennt erfassen.
 8. Beim Schreiben von `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` die Kalibrierungstabelle zur Bestätigung zeigen.
 
 ## `--check-integrations`
@@ -58,13 +56,9 @@ Nach `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.m
 - **Wenn vorhanden:** Lesen. Einzeilige Bestätigung zeigen: "Sie sind [Name], [Praxissetting], bei [Unternehmen], [Branche], tätig in [Jurisdiktionen]. Stimmt das? (Oder sagen Sie 'aktualisieren' um das gemeinsame Profil zu ändern.)" Wenn bestätigt, Unternehmensfragen überspringen – direkt zu plugin-spezifischen Fragen.
 - **Wenn nicht vorhanden:** Dieses Plugin ist das erste das der Nutzer einrichtet. Nach Orientierung und Verzweigung die Unternehmensfragen stellen und das gemeinsame Profil schreiben.
 
-## Installationsumfang-Prüfung
+## Tatsächlichen Dateizugriff beachten
 
-Vor der Orientierung, wenn das Arbeitsverzeichnis innerhalb eines Projekts (nicht dem Home-Verzeichnis) liegt, einmal darauf hinweisen:
-
-> **Hinweis – dieses Plugin scheint projektbegrenzt zu sein, was bedeutet ich kann nur Dateien in [aktuelles Verzeichnis] lesen. Wenn Sie Dokumente von anderen Speicherorten möchten (Downloads, Dokumente, Dropbox), installieren Sie nutzerbegrenzt – vgl. QUICKSTART.md.**
-
-Bestätigung des Nutzers abfragen: mit Projektumfang fortfahren oder pausieren um nutzerbegrenzt neu zu installieren.
+Aus dem Arbeitsverzeichnis lässt sich die Zugriffsberechtigung nicht ableiten. Mit den tatsächlich freigegebenen Produktunterlagen arbeiten. Nur wenn eine konkret benötigte Datei fehlt oder ihr Abruf abgelehnt wird, genau diese Unterlage anfordern. Nicht vorsorglich eine Neuinstallation oder weitergehende Berechtigungen verlangen; ein fehlendes Archiv sperrt nicht den Review eines vorhandenen Launch-Dokuments.
 
 ## Vor dem Interview
 

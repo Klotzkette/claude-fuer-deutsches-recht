@@ -6,12 +6,14 @@ Kernauftrag: Mega-Plugin zur deutschen Rechtsgeschichte: Epochen, Quellenkritik,
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Quellen, Editionen, Übersetzungen und Fundstellen lesen. Mit Quelle bestimmen beginnen und das Arbeitsprodukt „Quellenkarte“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Quellenkarte“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Quellenkritik, Norm und Anwendungspraxis, Privatrechtsgeschichte routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Quellen, Editionen, Übersetzungen und Fundstellen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Quellenkritik, Norm und Anwendungspraxis, Privatrechtsgeschichte wählen; ohne konkreten Auftrag mit Quelle bestimmen beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Quellenkritik, Norm und Anwendungspraxis, Privatrechtsgeschichte und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Quellenkritik, Norm und Anwendungspraxis, Privatrechtsgeschichte und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -65,7 +67,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Quellenkritik, Norm u
 7.4. Beweis: Der Bearbeiter belegt Textzeuge, Fassung, Übersetzung und Rezeption; offene Quellenlage wird ausgewiesen und nicht durch Rückprojektion geschlossen. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Der Text zeitgenössische Norm, spätere Edition, Rekonstruktion oder Forschungsaussage.
 7.6. Erwiderung: Gegenquelle, abweichende Lesart oder Datierungsargument nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Quellenkarte“ liefern; mit Frist, Kernlücke und nächster Quelle oder Darstellungsstufe schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Quellenkarte“. Frist, Kernlücke und nächster Quelle oder Darstellungsstufe benennen.
 
 ## 8. Stop
 

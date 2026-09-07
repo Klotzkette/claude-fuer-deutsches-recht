@@ -6,12 +6,14 @@ Kernauftrag: Plugin für Verlagsrecht, Verlagsgesetz, Autoren- und Herausgeberve
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Werk und Beteiligte beginnen und das Arbeitsprodukt „Rechte-Schedule“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Rechte-Schedule“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Werk und Beteiligte, Rechtekette, Produktion und Vergütung routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Werk und Beteiligte, Rechtekette, Produktion und Vergütung wählen; ohne konkreten Auftrag mit Werk und Beteiligte beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Werk und Beteiligte, Rechtekette, Produktion und Vergütung und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Werk und Beteiligte, Rechtekette, Produktion und Vergütung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -46,8 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Werk und Beteiligte, 
 | Werk und Beteiligte | Manuskript, Ausgabe, Autor, Herausgeber, Übersetzer, Bildgeber, Sprecher, Nachlass und Vorrechte feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Rechtekette | Nutzungsart, Sprache, Gebiet, Dauer, Exklusivität, Bearbeitung, Unterlizenz, Rückfall und Drittmaterial ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Produktion und Vergütung | Ablieferung, Lektorat, Freigabe, Auflage, Vorschuss, Absatzhonorar, Nebenrechte und Abrechnung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertrieb und Preis | Ausgabeform, Ladenpreis, Rabatt, Remission, Mängelexemplar, Plattform, Ausland und Dokumentation abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Autorenvertrag, Rechte-Schedule, Honorarabrechnung, Preisfreigabevermerk, Abmahnantwort oder Rückruf- und Exitplan erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -67,7 +68,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Werk und Beteiligte, 
 7.4. Beweis: Nachweisachse Vertrieb und Preis: Ausgabeform, Ladenpreis, Rabatt, Remission, Mängelexemplar, Plattform, Ausland und Dokumentation abgleichen. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Person hat welches Recht wann, wo und für welche Nutzungsart eingeräumt.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Rechte-Schedule“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Rechte-Schedule“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

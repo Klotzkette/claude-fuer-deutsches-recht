@@ -14,6 +14,24 @@ Für den ersten Vorgang: Rechtsgebiet öffnen, einen Einstieg wählen und die Un
 
 Weniger konkurrierende Einstiege, klarere Aufgaben: [Skills nach Ergebnis auswählen und bisherige Aufrufe umstellen](./docs/skill-auswahl-und-umstellungen.md). Dort steht auch, welche Fachvertiefungen erhalten bleiben und erst bei Bedarf gelesen werden.
 
+## Schnell arbeiten, auch in einer anderen Oberfläche
+
+Für einen Vorgang nur ein passendes Plugin oder einen seiner Markdown-Prompts verwenden. Nicht Werkstatt, Mini-Prompt und sämtliche Skills gleichzeitig in denselben Chat laden. Das größere Modell ersetzt weder fehlenden Dateizugriff noch einen Exporter; ein installierbares Plugin-ZIP ist kein universelles Austauschformat für jede Rechtsarbeitsplattform.
+
+| Betriebsart | Was bereitstehen muss | Bei fehlender Funktion |
+| --- | --- | --- |
+| Installiertes Plugin | unterstütztes Pluginformat und Zugriff auf seine Skills und Referenzen | einen eigenständigen Schnellstart desselben Fachgebiets verwenden |
+| Einzelner Skill als Markdown | Skilltext und die für den Auftrag benötigten Referenzen | fehlende Vertiefung benennen; nicht das gesamte Plugin vorsorglich nachladen |
+| Werkstatt oder Mini-Prompt | Prompt als Arbeitsanweisung und zugängliche Fallunterlagen | benötigte Auszüge bereitstellen; Ordnerzugriff nicht voraussetzen |
+| DOCX-, PDF- oder Tabellenproduktion | tatsächlich verfügbares und geeignetes Dateiverarbeitungswerkzeug | ausformulierten Text oder Tabelle samt offenem Exportstatus liefern; keine Datei vortäuschen |
+| Aktuelle Quellenprüfung | zugängliche amtliche Quelle oder überprüfbarer bereitgestellter Text | belegten Teil liefern und die ungeprüfte Aussage abgrenzen; keine Freigabe behaupten |
+
+Die Einstiege verwenden vorhandene Unterlagen, halten den konkreten Ausgabeauftrag fest und setzen Folgewünsche ohne erneute Grundabfrage fort. Bei fehlgeschlagenen Werkzeugschritten ist höchstens ein begründeter Alternativweg vorgesehen; danach kommen ein verwertbarer Teilstand und die konkrete Blockade. Ein Teilstand ersetzt weder die noch erforderliche Endprüfung noch eine Versandfreigabe. Änderungen an Quellen oder Dateien werden erneut geprüft, unveränderte Auszüge weiterverwendet.
+
+Die Hersteller beschreiben unterschiedliche Mechanismen: stufenweise Skill-Ladung, dokumentbezogene Arbeitsaufträge und eigene Workflow-Formate. Daraus folgt keine bestätigte Übertragbarkeit dieses Marketplaces auf andere Systeme. Maßgeblich sind die freigeschalteten Funktionen der konkreten Oberfläche. Quellenstand 7. September 2026: [Skill-Ladestufen](https://claude.com/docs/skills/overview), [Dokumentarbeit](https://academy.noxtua.com/posts/getting-started), [Workflow-Einrichtung](https://legora.com/product/workflows).
+
+Geprüft werden hier Dateistruktur, Auswahlbudgets, Prompt-Erzeugung und die mitgelieferten Werkzeuge. Laufzeiten, automatische Skill-Auswahl und Dateiexporte in fremden Benutzerkonten sind damit nicht zertifiziert. Den kurzen Praxistest für die jeweils eingesetzte Oberfläche beschreibt [Schnellstart, Abschnitt 9](./QUICKSTART.md#9-portabilität-im-eigenen-arbeitsplatz-prüfen).
+
 ## Deutsch: Dateien und Downloads
 
 | Bestandteil | Was ist das? | Wann ist es richtig? | Wo liegt es? |
@@ -86,7 +104,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Skills (SKILL.md)** | 22424 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 323 zentral / 326 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v443.1.2` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v443.2.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -803,6 +821,8 @@ Start with one legal field, not the entire collection. Open its plugin README, c
 **Click behaviour:** README, index and overview links remain normal GitHub navigation pages. Links labelled **Download MD** save the unchanged Markdown work file instead of opening a source preview. Individual skills receive a unique plugin-and-skill filename so that multiple downloads do not overwrite one another.
 
 The skill indexes show the complete source collection. In installed packages, some specialist series are reached through topic routers rather than separate menu entries. Automatic skill selection is not guaranteed. A Markdown file does not install tools or grant file access; provide any required references when using a skill manually.
+
+Use a standalone prompt as an instruction, not merely as another document to search. Its workflow now distinguishes missing file access, unavailable sources and unavailable export tools: it should return supported text and a precise unresolved step instead of retrying indefinitely or inventing a download. Reuse unchanged findings, but recheck updated files. Repository checks do not certify runtime speed or compatibility in third-party accounts; use the [workplace checks](./QUICKSTART.md#9-portabilität-im-eigenen-arbeitsplatz-prüfen) with your actual tools.
 
 For a practice case, choose one format: the combined PDF for reading, the individual-PDF ZIP for document-by-document review, or the original-format ZIP for working with spreadsheets, emails and other files. Case archives are separate from plugin installation. Their bilingual warning identifies them as generated experimental material, not real client files.
 

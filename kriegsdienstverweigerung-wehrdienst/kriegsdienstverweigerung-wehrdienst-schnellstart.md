@@ -6,12 +6,14 @@ Kernauftrag: Praxisplugin für Kriegsdienstverweigerung und Wehrdienst aus Gewis
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Status und Rechtsverhältnis beginnen und das Arbeitsprodukt „Eilantrag“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Eilantrag“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Status und Rechtsverhältnis, Entscheidung und Verfahren, Ermessens- und Verhältnismäßigkeitskontrolle routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Status und Rechtsverhältnis, Entscheidung und Verfahren, Ermessens- und Verhältnismäßigkeitskontrolle wählen; ohne konkreten Auftrag mit Status und Rechtsverhältnis beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Status und Rechtsverhältnis, Entscheidung und Verfahren, Ermessens- und Verhältnismäßigkeitskontrolle und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Status und Rechtsverhältnis, Entscheidung und Verfahren, Ermessens- und Verhältnismäßigkeitskontrolle und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -67,7 +69,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Status und Rechtsverh
 7.4. Beweis: Darlegungs- und Nachweisfrage für Öffentlicher Dienst, Sicherheits- und Migrationsrecht: Auf welchen Tatsachen beruht die Gefahren- oder Eignungsprognose. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Anhörung, Begründung und Zuständigkeit gewahrt.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Eilantrag“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Eilantrag“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

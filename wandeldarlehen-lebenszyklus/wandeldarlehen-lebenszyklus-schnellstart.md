@@ -6,12 +6,14 @@ Kernauftrag: Begleitet den vollständigen Lebenszyklus eines Wandeldarlehens fü
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst Process Letter, Datenraumindex, Q&A, Due-Diligence-Berichte, Term Sheet, SPA oder Beteiligungsvertrag, Disclosure lesen. Mit Struktur und Beteiligte beginnen und das Arbeitsprodukt „Garantiekatalog-Zeile“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Garantiekatalog-Zeile“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Struktur und Beteiligte, Due Diligence, Vertragsarchitektur routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders Process Letter, Datenraumindex, Q&A, Due-Diligence-Berichte, Term Sheet, SPA oder Beteiligungsvertrag, Disclosure. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Struktur und Beteiligte, Due Diligence, Vertragsarchitektur wählen; ohne konkreten Auftrag mit Struktur und Beteiligte beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Struktur und Beteiligte, Due Diligence, Vertragsarchitektur und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Struktur und Beteiligte, Due Diligence, Vertragsarchitektur und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -58,7 +60,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Struktur und Beteilig
 - Paragraf 126b BGB (Textform – ausreichend für Vertragsschluss); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 126 BGB (Schriftform – auf Verlangen zusätzlich); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 128 BGB (Notarielle Beurkundung – nur falls erforderlich); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 15 Abs. 3, Abs. 4 GmbHG (Beurkundungspflicht Anteilsübertragung); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 29.01.2001 - II ZR 331/00: Die Außen-GbR ist rechts- und parteifähig, soweit sie durch Teilnahme am Rechtsverkehr eigene Rechte und Pflichten begründet; für heutige Fälle ist die gesetzliche Neuregelung durch das MoPeG mitzulesen.
 
 ## 7. Antwortform
 
@@ -68,7 +70,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Struktur und Beteilig
 7.4. Beweis: Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Datenraumlücken, unklarer Risikozuweisung, Kaufpreismechanik, Wissensqualifikation, Haftungsgrenzen und unerfüllten Vollzugsbedingungen.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Garantiekatalog-Zeile“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Garantiekatalog-Zeile“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

@@ -1,16 +1,16 @@
 # Anlagen zu Schriftsätzen: Schnellstart zur beA-Versandmappe
 
-Bedienregel: Dateien und Ordner zuerst lesen. Konkrete Aufträge beginnen sofort mit dem verlangten Dokument. Bei bloßer Aktivierung selbst zu Prozessroute und Antrag und Streitgegenstand routen. Große Ordner liefern früh einen Teilstand und nennen offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewünsche setzen ohne Neustart auf dem Stand auf; passende Fachskills laufen intern.
+Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Prozessroute und Antrag und Streitgegenstand routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 1. Auftrag
 
-Mache aus Schriftsatz und Ordner eine versandfertige Gerichtsmappe. Lies zuerst den Schriftsatz. Erfasse andere Dateien nach Name, Format, Größe und Datum, ordne genannte Anlagen zu und öffne sie in Nummernfolge. Liefere die Matrix nach erster Zuordnung und schreibe sie fort. Frage nur nach einer Weiche, wenn Nummernkreis, Frist, Gericht oder Signaturweg sonst falsch wären.
+Lies den Schriftsatz, ordne genannte Anlagen anhand von Name, Format, Größe und Datum zu und öffne sie in Nummernfolge. Führe die Matrix fort; frage nur bei offenem Nummernkreis, Frist, Gericht oder Signaturweg.
 
 Versende niemals selbst. Das Endprodukt ist so vorbereitet, dass der verantwortliche Anwalt es nach eigener Schlussprüfung elektronisch versenden kann.
 
 ## 2. Sofortausgabe
 
-Beginne mit höchstens sieben Sätzen: Schriftsatzstand und Verfahrensrolle, Gericht mit Aktenzeichen und Frist, Zahl der genannten und der vorhandenen Anlagen, erste Nummernlücke oder erster Widerspruch, gewähltes oder offenes Dateinamensprofil, stärkster Stop-Punkt und der nächste unmittelbar ausgeführte Produktionsschritt.
+Ohne konkreten Produktionsauftrag genügen zunächst Schriftsatzstand, Rolle, Gericht, Aktenzeichen, Frist, Anlagenzahl, Nummernlücke, Namensprofil und Stop-Punkt. Sonst direkt den verlangten Produktionsschritt ausführen.
 
 Danach diese Matrix ausfüllen:
 

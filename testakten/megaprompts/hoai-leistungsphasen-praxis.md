@@ -184,18 +184,18 @@ _Für HOAI-Leistungsphase 8 Objektüberwachung: routet Bauüberwachung, Bautageb
 
 Arbeite ausschließlich in Leistungsphase 8 (Objektüberwachung), solange Unterlagen und Auftrag keine belastbare Schnittstelle zu einer anderen Phase zeigen. Bauüberwachung, Bautagebuch, Mängel, Nachträge, Rechnungen, Abnahme und Dokumentation bilden den Einstieg.
 
-1. Vorhandene Unterlagen zuerst lesen und bereits erkennbare Angaben übernehmen.
-2. Sachthema, Zeitraum, Verfahrensstand und gewünschtes Arbeitsprodukt bestimmen.
-3. Genau eine passende Referenz aus der folgenden Tabelle laden; nur bei einer echten Schnittstelle eine zweite.
-4. Nach der Vertiefung unmittelbar das Arbeitsprodukt erstellen und nur entscheidungserhebliche Lücken nachfragen.
+1. Projekt, Gewerk, betroffenen Bauabschnitt, Datum und verlangtes Dokument aus Auftrag und Dateien übernehmen. Bei einer konkreten Mängelanzeige nicht erst sämtliche Leistungsphasen durchlaufen.
+2. Zuerst den bezeichneten Bautagebucheintrag, Planstand, Rechnungsbeleg oder die betreffende Korrespondenz öffnen; andere Lose und ältere Planfassungen nur bei einer belegten Abhängigkeit nachladen.
+3. Den passenden Abschnitt einer Referenz öffnen. Nicht pauschal alle drei Dateien lesen und keine vollständige Projektinventur vor die angeforderte Nachricht schalten.
+4. Bei fehlendem Dateizugriff den konkreten Plan oder Beleg anfordern und den belegten Textteil fortsetzen. Ohne Bildansicht keine visuelle Planprüfung behaupten; ohne Export den Entwurf mit Ausgabestatus im Text liefern.
 
 ## 2. Bedarfsgeladene Vertiefungen
 
 | Fallgruppe | Referenz | Nur laden bei |
 | --- | --- | --- |
-| Auftrag und Schnittstellen | [auftrag-und-schnittstellen.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-08-arbeitsrouter/references/auftrag-und-schnittstellen.md) | Auftrag, Leistungsbild, Honorar, Bauherr oder Fachplaner; enthält Strukturiert freigabeentscheidung, Koordiniert architekt, Grenzt hoai-grundleistung, Prüft bewertungsanteil, Prüft eingaben und 2 weitere Module |
-| Steuerung und Nachweise | [steuerung-und-nachweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-08-arbeitsrouter/references/steuerung-und-nachweise.md) | Kosten, Termine, Planung, Genehmigung, BIM, Kommunikation oder Förderung; enthält Ordnet digitale modelle, Prüft fördermittelbedingungen, Ordnet öffentlich-rechtliche auflagen und genehmigungslasten, Formuliert klare e-mails an bauherr, Prüft kostenermittlung und 2 weitere Module |
-| Risiko und Output | [risiko-und-output.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-08-arbeitsrouter/references/risiko-und-output.md) | Mangel, Nachtrag, Haftung, Abnahme, Rechnung, Streit, Qualität oder Bericht; enthält Ordnet abnahme, Identifiziert typische haftungsrisiken und beweisvorsorge, Erstellt verständlichen statusbericht mit ampel und nächstem schritt, Sichert spätere mängel, Erkennt planungsänderung und 7 weitere Module |
+| Auftrag und Schnittstellen | [auftrag-und-schnittstellen.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-08-arbeitsrouter/references/auftrag-und-schnittstellen.md) | Zuständigkeit von Bauherr, Architekt und Fachplaner, Leistungsumfang, Honorarzuordnung oder Freigabekompetenz ist offen. |
+| Steuerung und Nachweise | [steuerung-und-nachweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-08-arbeitsrouter/references/steuerung-und-nachweise.md) | Planindex, Terminprotokoll, Kostenfortschreibung, Genehmigungsauflage oder eine konkrete Nachricht an den Bauherrn wird benötigt. |
+| Mängel, Nachträge und Abschluss | [risiko-und-output.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/skills/lph-08-arbeitsrouter/references/risiko-und-output.md) | Abnahme, Beweissicherung, Abschlagsrechnung, Planänderung oder Haftungsrisiko erfordert den zugehörigen Prüf- oder Dokumentbaustein. |
 
 ## 3. Arbeitsprodukt
 

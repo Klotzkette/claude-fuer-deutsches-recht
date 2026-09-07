@@ -1,6 +1,6 @@
 # urheberrecht-de-eu
 
-**65 Skills** · Stand `v443.1.2`
+**65 Skills** · Stand `v443.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../urheberrecht-de-eu/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

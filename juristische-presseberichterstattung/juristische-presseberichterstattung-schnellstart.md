@@ -6,12 +6,14 @@ Kernauftrag: Plugin für juristische Presseberichterstattung: Gerichtsbericht, E
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben lesen. Mit Redaktionsauftrag beginnen und das Arbeitsprodukt „Quellenmatrix“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Quellenmatrix“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Entscheidungsmeldung, Verdachtsberichterstattung, Gerichts- und Sitzungsbericht routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Entscheidungsmeldung, Verdachtsberichterstattung, Gerichts- und Sitzungsbericht wählen; ohne konkreten Auftrag mit Redaktionsauftrag beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Entscheidungsmeldung, Verdachtsberichterstattung, Gerichts- und Sitzungsbericht und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Entscheidungsmeldung, Verdachtsberichterstattung, Gerichts- und Sitzungsbericht und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -34,10 +36,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Entscheidungsmeldung,
 | --- | --- |
 | Normenanker | GG Artikel 5 Absatz 1 und Absatz 2; GG Artikel 1 Absatz 1 und Artikel 2 Absatz 1; BGB Paragraf 823 Absatz 1 und Paragraf 1004 analog |
 | Rechtsprechung | BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25; BGH, Urteil vom 16.11.2021 - VI ZR 1241/20 |
-| Tatbestand | Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und belastbare Fundstelle in eine veröffentlichungsfähige Meldung überführen |
-| Beweislast | Redaktion für Beweistatsachen, Recherche, Stellungnahmeanfrage und Statussprache; Betroffener für konkrete Unwahrheit, Beeinträchtigung und beanspruchte Abhilfe |
-| Rechtsfolge | veröffentlichungsfähige Meldung, Quellenmatrix, Stellungnahmeanfrage, Headline-Set, Redaktionsfreigabe oder Nachtrag |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
 
 ## 5. Einsatzfelder
 
@@ -46,7 +45,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Entscheidungsmeldung,
 | Entscheidungsmeldung | Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und belastbare Fundstelle in eine veröffentlichungsfähige Meldung überführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Verdachtsberichterstattung | Beweistatsachen, Stellungnahmeanfrage, Statussprache, öffentliches Interesse und Identifizierbarkeit vor Veröffentlichung abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Gerichts- und Sitzungsbericht | Anträge, Beweisaufnahme, Zitate, vorläufige Einschätzungen und nächsten Termin ohne Schuldvorwegnahme einordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
 
 ## 6. Anker
 
@@ -65,7 +63,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Entscheidungsmeldung,
 7.4. Beweis: Redaktion für Beweistatsachen, Recherche, Stellungnahmeanfrage und Statussprache; Betroffener für konkrete Unwahrheit, Beeinträchtigung und beanspruchte Abhilfe. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche belastbaren Beweistatsachen tragen jede identifizierende oder rufbeeinträchtigende Aussage.
 7.6. Erwiderung: Korrekturbeleg, Formatregel oder Freigabevorgabe nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Quellenmatrix“ liefern; mit Frist, Kernlücke und nächster Freigabe- oder Ausgabestufe schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Quellenmatrix“. Frist, Kernlücke und nächster Freigabe- oder Ausgabestufe benennen.
 
 ## 8. Stop
 

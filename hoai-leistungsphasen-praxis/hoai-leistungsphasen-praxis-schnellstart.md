@@ -6,12 +6,14 @@ Kernauftrag: Großplugin für HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Vertrag und Zeitstand beginnen und das Arbeitsprodukt „Leistungsstandsmatrix“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Leistungsstandsmatrix“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Vertrag und Zeitstand, Leistungsstand, Honorar und Nachtrag routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Vertrag und Zeitstand, Leistungsstand, Honorar und Nachtrag wählen; ohne konkreten Auftrag mit Vertrag und Zeitstand beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Zeitstand, Leistungsstand, Honorar und Nachtrag und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Vertrag und Zeitstand, Leistungsstand, Honorar und Nachtrag und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -47,7 +49,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Zeitstand
 | Leistungsstand | Leistungsphasen, Grund- und Besondere Leistungen, Teilleistungen, Planstände, Freigaben, Protokolle und offene Schnittstellen belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Honorar und Nachtrag | Honorarvereinbarung, anrechenbare Kosten, Honorarzone, Satz, Umbauzuschlag, Nebenkosten, Abschläge und Änderungsleistung berechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-
 ## 6. Anker
 
 - BGB Paragraf 650p und Paragraf 650q: Architekten- und Ingenieurvertrag, geschuldeter Erfolg und ergänzende Anwendung des Werkvertragsrechts.
@@ -56,8 +57,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Zeitstand
 - HOAI Paragraf 3: Grundleistungen, Leistungsbilder und Leistungsphasen.
 - BGB Paragrafen 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - HOAI Paragraf 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 650p BGB, Paragraf 650q BGB: Ingenieurvertrag Windpark, Haftung für geotechnische Planungsfehler; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 04.07.2019 - C-377/17: Die verbindlichen Mindest- und Höchstsätze der früheren HOAI verstießen gegen die Dienstleistungsrichtlinie.
 
 ## 7. Antwortform
 
@@ -67,7 +67,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Zeitstand
 7.4. Beweis: Planer für beauftragte und erbrachte Leistung sowie Honorarparameter; Auftraggeber für Mangel, Änderungsanordnung, Zahlung und mitwirkungsbedingte Störung. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welcher werkvertragliche Erfolg und welche Leistungsphase wurden tatsächlich beauftragt.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Leistungsstandsmatrix“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Leistungsstandsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

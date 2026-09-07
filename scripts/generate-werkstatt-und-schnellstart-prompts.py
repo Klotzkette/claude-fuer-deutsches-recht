@@ -23,10 +23,25 @@ from themen_profile import profile_for, ThemenProfil
 REPO = Path(__file__).resolve().parent.parent
 MAX_FAST = 7400
 MAX_WERKSTATT = 48 * 1024
+PORTABLE_EXECUTION = (
+    "Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke "
+    "nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills "
+    "hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten "
+    "Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben."
+)
+WORKSHOP_EXECUTION = (
+    "Arbeitsumgebung: " + PORTABLE_EXECUTION + " Zuerst höchstens 20 Dateitreffer und fünf "
+    "tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist "
+    "keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle "
+    "weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes "
+    "Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, "
+    "aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche "
+    "Dateierzeugung behaupten, die nicht stattgefunden hat."
+)
 WERKSTATT_TEMPO_BLOCK = [
     "### 1.1. Arbeitsmodus: schnell und belastbar",
     "",
-    "Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Wenn der Nutzer einen Ordner, Dateien oder nur diesen Prompt öffnet, ist das der Arbeitsauftrag: zuerst die vorhandenen Dokumente lesen, Belegstellen bilden und einen verwertbaren Erststand liefern. Frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.",
+    "Ohne konkreten Ausgabeauftrag beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt erstellen. Vorhandene Dokumente gezielt lesen und Belegstellen bilden; nur nachfragen, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.",
     "",
     "Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.",
     "",
@@ -110,7 +125,7 @@ def werkstatt_tempo_block(profile: ThemenProfil) -> list[str]:
     family = workflow_family(profile)
     if family == "source":
         first = (
-            "Beginne mit einem Quellen-Sofortbild in höchstens fünf Sätzen: Erkenntnisziel, "
+            "Ohne konkreten Ausgabeauftrag beginne mit einem Quellen-Sofortbild in höchstens fünf Sätzen: Erkenntnisziel, "
             "vorliegende Textzeugen, maßgebliche Fassung, stärkster Quellenbeleg und nächste "
             "Darstellungsform. Lies vorhandene Editionen, Übersetzungen und Sekundärquellen "
             "zuerst; frage nur nach, wenn Datierung, Textstufe, Rechtsraum oder Übersetzung "
@@ -124,7 +139,7 @@ def werkstatt_tempo_block(profile: ThemenProfil) -> list[str]:
         )
     elif family == "research":
         first = (
-            "Beginne mit einem Arbeitsbild in höchstens fünf Sätzen: konkrete Frage, vorhandenes "
+            "Ohne konkreten Ausgabeauftrag beginne mit einem Arbeitsbild in höchstens fünf Sätzen: konkrete Frage, vorhandenes "
             "Material, Bewertungsmaßstab, stärkster Beleg und nächstes Teilprodukt. Werte Dateien "
             "und Quellen zuerst aus; frage nur nach, wenn Aufgabenstellung, Stichtag, Maßstab oder "
             "gewünschte Darstellungsform sonst unklar bleiben."
@@ -136,7 +151,7 @@ def werkstatt_tempo_block(profile: ThemenProfil) -> list[str]:
         )
     elif family == "production":
         first = (
-            "Beginne mit einem Produktionsbild in höchstens fünf Sätzen: Empfänger, vorhandene "
+            "Ohne konkreten Ausgabeauftrag beginne mit einem Produktionsbild in höchstens fünf Sätzen: Empfänger, vorhandene "
             "Dateien, maßgebliche Fassung, Freigabeengpass und nächstes fertiges Dokument. Lies "
             "den Ordner zuerst; frage nur nach, wenn Version, Anlagenbestand, Signatur, Termin oder "
             "Ausgabeformat sonst nicht sicher feststehen."
@@ -149,7 +164,7 @@ def werkstatt_tempo_block(profile: ThemenProfil) -> list[str]:
         )
     elif family == "drafting":
         first = (
-            "Beginne mit einem Transaktions- oder Entwurfsbild in höchstens fünf Sätzen: "
+            "Ohne konkreten Ausgabeauftrag beginne mit einem Transaktions- oder Entwurfsbild in höchstens fünf Sätzen: "
             "Geschäftsziel, Parteien und Rollen, maßgeblicher Dokumentstand, kritischster "
             "Vollzugspunkt und nächster Entwurf. Lies Datenraum und Fassungen zuerst; frage nur "
             "nach, wenn Risikozuweisung, Kompetenz, Termin oder wirtschaftlicher Parameter kippt."
@@ -162,7 +177,7 @@ def werkstatt_tempo_block(profile: ThemenProfil) -> list[str]:
         )
     elif family == "decision":
         first = (
-            "Beginne mit einem Entscheidungsbild in höchstens fünf Sätzen: Streitgegenstand, "
+            "Ohne konkreten Ausgabeauftrag beginne mit einem Entscheidungsbild in höchstens fünf Sätzen: Streitgegenstand, "
             "Verfahrensstand, Frist, entscheidungstragender Aktenfund und nächste richterliche "
             "oder prozessuale Handlung. Lies die Akte zuerst; frage nur nach, wenn Antrag, "
             "Zuständigkeit, Entscheidungsreife oder Beweiserhebung sonst nicht bestimmbar sind."
@@ -178,7 +193,7 @@ def werkstatt_tempo_block(profile: ThemenProfil) -> list[str]:
     return [
         "### 1.1. Arbeitsmodus: schnell und belastbar",
         "",
-        first,
+        first + " Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt erstellen.",
         "",
         second,
         "",
@@ -975,18 +990,19 @@ def schnellstart_bedienlogik(
     )
     if ":" in route:
         route = route.split(":", 1)[0].strip()
-    output = schnellstart_product_label(profile, fields)
     documents = cell(domain_documents(profile), 115)
     minimum = ", ".join(dict.fromkeys(field_names[:3]))
     return [
         "## 1. Sofortstart nach Eingangslage",
         "",
-        f"- Dateien oder Ordner: Zuerst {documents} lesen. Mit {route} beginnen und das Arbeitsprodukt „{output}“ liefern.",
-        f"- Konkreter Auftrag: Das verlangte Arbeitsprodukt „{output}“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.",
-        f"- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen {minimum} routen und einen Erststand liefern, nicht nach dem Auftrag fragen.",
-        "- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.",
+        f"- Dateien oder Ordner: Nach Auftrag auswählen, besonders {documents}. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.",
+        "- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.",
+        f"- Nur Prompt gestartet: Bei zugänglichem Material zwischen {minimum} wählen; ohne konkreten Auftrag mit {route} beginnen.",
+        "- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.",
         "",
-        f"Ohne verwertbares Material genau eine gebündelte Frage zu {minimum} und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.",
+        f"Ohne verwertbares Material höchstens eine gebündelte Frage zu {minimum} und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.",
+        "",
+        PORTABLE_EXECUTION,
         "",
     ]
 
@@ -7206,6 +7222,8 @@ def build_werkstatt(
         "",
         role_scope_text(profile),
         "",
+        WORKSHOP_EXECUTION,
+        "",
     ] + werkstatt_tempo_block(profile) + werkstatt_ergonomy_text(profile).splitlines() + [
         "## 2. Stop-Kriterien",
         "",
@@ -7394,7 +7412,7 @@ def compact_schnellstart(text: str) -> str:
         split = re.split(r"\n## (?:7\.\s+)?Antwortform\n", rest, maxsplit=1)
         if len(split) == 2:
             anchor, tail = split
-            anchor_lines = [l for l in anchor.splitlines() if l.strip()][:7]
+            anchor_lines = compact_anchor_lines(anchor, 7)
             text = head.rstrip() + "\n\n## 6. Anker\n\n" + "\n".join(anchor_lines) + "\n\n## 7. Antwortform\n" + tail
     if byte_len(text) <= MAX_FAST:
         return text
@@ -7439,6 +7457,19 @@ def compact_schnellstart(text: str) -> str:
         f"Schnellstart lässt sich nicht vollständig unter {MAX_FAST} Bytes verdichten: "
         f"{byte_len(text)} Bytes"
     )
+
+
+def compact_anchor_lines(anchor: str, limit: int) -> list[str]:
+    """Bewahrt auch bei Platzmangel einen vorhandenen Rechtsprechungsanker."""
+    lines = [line for line in anchor.splitlines() if line.strip()]
+    selected = lines[:limit]
+    case = next((line for line in lines if contains_decision_reference(line) or (
+        re.search(r"\b(?:KG|EuG|OVG|VGH)\b", line)
+        and (re.search(r"\b(?:Urteil|Beschluss|Entscheidung)\b", line) or case_id_set(line))
+    )), None)
+    if case and case not in selected and selected:
+        selected[-1] = case
+    return selected
 
 
 def build_schnellstart(
@@ -7587,7 +7618,7 @@ def build_schnellstart(
         f"7.4. Beweis: {evidence_short}. Offene Folgen aussprechen.",
         f"7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: {attack_short}.",
         f"7.6. Erwiderung: {response_label} nennen und Restrisiko abstufen.",
-        f"7.7. Ausgang: Das Arbeitsprodukt „{output_short}“ liefern; mit Frist, Kernlücke und {closing_label} schließen.",
+        f"7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „{output_short}“. Frist, Kernlücke und {closing_label} benennen.",
         "",
         "## 8. Stop",
         "",
@@ -7602,7 +7633,7 @@ def build_schnellstart(
     if len(parts) == 2:
         head, rest = parts
         anchor, tail = re.split(r"\n## (?:7\.\s+)?Antwortform\n", rest, maxsplit=1)
-        anchor_lines = [l for l in anchor.splitlines() if l.strip()][:8]
+        anchor_lines = compact_anchor_lines(anchor, 8)
         text = head.rstrip() + "\n\n## 6. Anker\n\n" + "\n".join(anchor_lines) + "\n\n## 7. Antwortform\n" + tail
     return compact_schnellstart(text)
 
@@ -7856,6 +7887,9 @@ def enrich_protected_werkstatt(plugin_dir: Path) -> bool:
     if slug in {"bautraegervertrag-pruefer", "urteilsbauer-relationsmacher"}:
         text = remove_h2_section(text, "Materienbezogene Arbeitsfelder").rstrip()
     text = ensure_title_first(prose_umlauts(text))
+    text = re.sub(r"\n+Arbeitsumgebung: [^\n]*\n+", "\n\n", text, count=1)
+    title, body = text.split("\n", 1)
+    text = title + "\n\n" + WORKSHOP_EXECUTION + "\n\n" + body.lstrip("\n")
     text = renumber_h2_sections(text).rstrip()
     skill_material = collect_skill_material(plugin_dir)
     context = plugin_profile_context(mf, plugin_dir, skill_material)
@@ -7900,11 +7934,10 @@ def normalize_protected_schnellstart(plugin_dir: Path) -> bool:
         field_names = [clean(profile.label, 42).rstrip(".")]
     routes = " und ".join(field_names)
     guide = (
-        "Bedienregel: Dateien und Ordner zuerst lesen. Konkrete Aufträge beginnen sofort "
-        "mit dem verlangten Dokument. Bei bloßer Aktivierung selbst zu "
-        f"{routes} routen. Große Ordner liefern früh einen Teilstand und nennen offene "
-        "Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewünsche setzen ohne "
-        "Neustart auf dem Stand auf; passende Fachskills laufen intern."
+        "Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt "
+        f"ausführen; sonst zu {routes} routen. Große Ordner: Teilstand und offene Dateien. "
+        "Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, "
+        "geänderte Fassungen neu prüfen. " + PORTABLE_EXECUTION
     )
     title_end = updated.find("\n")
     if title_end == -1:

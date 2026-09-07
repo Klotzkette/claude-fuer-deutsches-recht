@@ -6,12 +6,14 @@ Kernauftrag: Finanzgericht: Sachprüfung Anfechtungsklage Verpflichtungsklage Au
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise lesen. Mit Eingangskontrolle beginnen und das Arbeitsprodukt „Prozessblatt“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Prozessblatt“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Eingangskontrolle, Streitgegenstand, Zulässigkeit und Eilspur routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Eingangskontrolle, Streitgegenstand, Zulässigkeit und Eilspur wählen; ohne konkreten Auftrag mit Eingangskontrolle beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Eingangskontrolle, Streitgegenstand, Zulässigkeit und Eilspur und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Eingangskontrolle, Streitgegenstand, Zulässigkeit und Eilspur und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -47,7 +49,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Eingangskontrolle, St
 | Streitgegenstand | Angefochtener Verwaltungsakt, Teilanfechtung, Besteuerungsgrundlage, Verböserung, Klageänderung und Bindungswirkung bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Zulässigkeit und Eilspur | Vorverfahren, Beschwer, Vollmacht, Frist, Wiedereinsetzung, Aussetzung und Sicherheitsleistung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-
 ## 6. Anker
 
 - FGO Paragraf 33 und Paragraf 40: Finanzrechtsweg und statthafte Klagearten.
@@ -56,8 +57,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Eingangskontrolle, St
 - FGO Paragraf 71, Paragraf 76 und Paragraf 78: Aktenvorlage, Amtsermittlung und Akteneinsicht im gerichtlichen Verfahren.
 - Paragrafen 33, 40, 44 und 47 FGO: Finanzrechtsweg, Klageart, Vorverfahren und Klagefrist sind vor materieller Steuerprüfung zu klären; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 118, 119, 121 und 157 AO: Verwaltungsakt, Bestimmtheit, Begründung und Steuerfestsetzung tragen die Bescheidprüfung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 169 bis 171 AO: Festsetzungsverjährung, Ablaufhemmung und Änderungssperren sind gesondert zu prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 172 bis 177 AO: Änderungsnorm, Vertrauensschutz und Saldierung bestimmen die Änderbarkeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BFH, Beschluss vom 11.09.2024 - XI B 18/24: Akteneinsicht nach FGO Paragraf 78 bezieht sich auf die dem Gericht vorgelegten Akten; Beiziehung, Entscheidungserheblichkeit und Verfahrensrüge sind getrennt darzulegen.
 
 ## 7. Antwortform
 
@@ -67,7 +67,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Eingangskontrolle, St
 7.4. Beweis: Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Vorverfahren, Bekanntgabe und Klagefrist für jeden Streitpunkt aktenfest.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Prozessblatt“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Prozessblatt“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

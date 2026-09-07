@@ -59,7 +59,7 @@ def main() -> int:
         if "[!--" in text or "<!--" in text:
             problems.append(f"{rel}: technischer Marker im sichtbaren Prompt")
         if slug in protected:
-            if "Bedienregel: Dateien und Ordner zuerst lesen." not in text:
+            if "Bedienregel: Dateien und Ordner zuerst gezielt lesen." not in text:
                 problems.append(f"{rel}: handkuratierte Bedienregel fehlt")
         elif "## 1. Sofortstart nach Eingangslage" not in text:
             problems.append(f"{rel}: fachbezogener Sofortstart fehlt")
@@ -76,7 +76,7 @@ def main() -> int:
             ),
             (
                 "Direktproduktion",
-                ("konkreter Auftrag", "verlangten Dokument", "starte mit dem Arbeitsprodukt"),
+                ("konkreter Auftrag", "konkrete Aufträge direkt", "verlangten Dokument", "starte mit dem Arbeitsprodukt"),
             ),
             (
                 "begrenzte Rückfrage",
@@ -95,8 +95,8 @@ def main() -> int:
                 ("ohne Neustart", "nicht neu beginnen", "beginne die Prüfung nicht erneut"),
             ),
             (
-                "interne Fachroute",
-                ("fachskills laufen intern", "fachskills intern", "fachskill intern"),
+                "eigenständige Fachroute ohne Pluginzwang",
+                ("Ohne weitere Skills hier weiterarbeiten",),
             ),
             (
                 "Abbruchgrenze",

@@ -6,12 +6,14 @@ Kernauftrag: Mega-Plugin für Kanzlei-Management: Managing Partner, Management C
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben lesen. Mit Mandat eröffnen beginnen und das Arbeitsprodukt „Mandatsblatt“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Mandatsblatt“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Mandatsannahme, Fristenkontrolle, Bearbeitung und Freigabe routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Mandatsannahme, Fristenkontrolle, Bearbeitung und Freigabe wählen; ohne konkreten Auftrag mit Mandat eröffnen beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Mandatsannahme, Fristenkontrolle, Bearbeitung und Freigabe und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Mandatsannahme, Fristenkontrolle, Bearbeitung und Freigabe und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -65,7 +67,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Mandatsannahme, Frist
 7.4. Beweis: Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Interessenkontrolle, Identität, Vollmacht und verantwortlicher Bearbeiter belegt.
 7.6. Erwiderung: Korrekturbeleg, Formatregel oder Freigabevorgabe nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Mandatsblatt“ liefern; mit Frist, Kernlücke und nächster Freigabe- oder Ausgabestufe schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Mandatsblatt“. Frist, Kernlücke und nächster Freigabe- oder Ausgabestufe benennen.
 
 ## 8. Stop
 

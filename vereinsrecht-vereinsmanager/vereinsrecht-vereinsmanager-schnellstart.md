@@ -6,12 +6,14 @@ Kernauftrag: Vereinsrechts- und Vereinsmanagement-Plugin für eingetragene und n
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Vereinsstatus beginnen und das Arbeitsprodukt „Erststand zu Vereinsstatus“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Erststand zu Vereinsstatus“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Vereinsstatus, Mitgliedschaft, Versammlung routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Vereinsstatus, Mitgliedschaft, Versammlung wählen; ohne konkreten Auftrag mit Vereinsstatus beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Vereinsstatus, Mitgliedschaft, Versammlung und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Vereinsstatus, Mitgliedschaft, Versammlung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -68,7 +70,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vereinsstatus, Mitgli
 7.4. Beweis: Darlegungs- und Nachweisfrage für Vereinsrecht: Welche Mehrheit und welche besondere Form verlangt Gesetz oder Satzung. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welches Organ ist zuständig und wurde ordnungsgemäß einberufen.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Erststand zu Vereinsstatus“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Vereinsstatus“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

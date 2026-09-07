@@ -6,12 +6,14 @@ Kernauftrag: Parteienrechts- und Parteiorganisations-Plugin für formale Parteia
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Regelwerk beginnen und das Arbeitsprodukt „Erststand zu Regelwerk“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Erststand zu Regelwerk“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Regelwerk, Zuständigkeit und Verfahren, Mitglied oder Bewerber routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Regelwerk, Zuständigkeit und Verfahren, Mitglied oder Bewerber wählen; ohne konkreten Auftrag mit Regelwerk beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Regelwerk, Zuständigkeit und Verfahren, Mitglied oder Bewerber und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Regelwerk, Zuständigkeit und Verfahren, Mitglied oder Bewerber und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -58,7 +60,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Regelwerk, Zuständig
 - Art. 21 GG (Parteien); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 38 I 2 GG (freies Mandat, Indemnität, Stimmgleichheit), Art. 46-48 GG (Indemnität, Immunität, Behinderungsverbot); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 137 I GG ermöglicht Inkompatibilitätsregelungen (Beamte, Soldaten); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 108e StGB Abgeordnetenbestechung: subjektiver Tatbestand erfordert "Auftrag" (Stimme/Handeln) als Gegenleistung; bloß Wahlkampfspende reicht nicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Urteil vom 17.01.2017 - 2 BvB 1/13: Verfassungsfeindliche Ziele allein genügen für ein Parteiverbot nicht; erforderlich sind planvolles Handeln und konkrete Anhaltspunkte von Gewicht, die einen Erfolg zumindest möglich erscheinen lassen.
 
 ## 7. Antwortform
@@ -69,7 +70,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Regelwerk, Zuständig
 7.4. Beweis: Nachweisachse Mitglied oder Bewerber: Status, Stimmrecht, Wählbarkeit, Chancengleichheit, Gehör, Befangenheit und Dokumentation sichern. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welches Organ ist für Maßnahme, Wahl oder Rechtsbehelf zuständig.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Erststand zu Regelwerk“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Regelwerk“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 

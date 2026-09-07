@@ -6,12 +6,14 @@ Kernauftrag: Plugin für Umweltverbände: UmwRG, Aarhus, UIG, UVP, BImSchG, Plan
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst die vorgelegten Urkunden, Bescheide und Korrespondenz lesen. Mit Mandat und Anerkennung beginnen und das Arbeitsprodukt „Entscheidungskarte“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Entscheidungskarte“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Mandat und Anerkennung, Entscheidungstyp, Beteiligungschronologie routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
-- Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
+- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Mandat und Anerkennung, Entscheidungstyp, Beteiligungschronologie wählen; ohne konkreten Auftrag mit Mandat und Anerkennung beginnen.
+- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Mandat und Anerkennung, Entscheidungstyp, Beteiligungschronologie und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zu Mandat und Anerkennung, Entscheidungstyp, Beteiligungschronologie und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+
+Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
 ## 2. Fachlicher Direktstart
 
@@ -57,7 +59,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Mandat und Anerkennun
 - Paragraf 1922 Abs. 1 BGB — Gesamtrechtsnachfolge; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1937 BGB — Testament; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1942 BGB — Anfall und Ausschlagung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1953 BGB — Wirkung der Ausschlagung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 12.05.2011 - C-115/09, Trianel: Anerkannte Umweltvereinigungen müssen unionsrechtlich geschützte Umweltvorschriften gerichtlich geltend machen können.
 
 ## 7. Antwortform
 
@@ -67,7 +69,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Mandat und Anerkennun
 7.4. Beweis: Nachweisachse Fachprüfung: UVP, Artenschutz, Habitatschutz, Wasser, Immission, Klima, Boden, Alternativen und kumulative Wirkungen nach Aktenfund getrennt prüfen. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Fällt Entscheidung oder Unterlassen in den Anwendungsbereich des UmwRG oder einer fachrechtlichen Verbandsklage.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Entscheidungskarte“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Entscheidungskarte“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 
