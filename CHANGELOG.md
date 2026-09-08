@@ -1,3 +1,11 @@
+# v443.5.1 - Lesbare Ablaufgliederung vor Veröffentlichung
+
+- Beide neuen Spezialskills der Schadensregulierung mit sprechenden dezimalen Unterabschnitten und getrennten Inhaltsabsätzen gegliedert. Reihenfolge und fachlicher Inhalt der sechzehn Arbeitsschritte bleiben erhalten.
+- Regressionstest für Nummerierung und Absatzabstand ergänzt; abgeleitete Dokumente und Versionsverzeichnisse erneut erzeugt. Die Aktenunterlagen bleiben unverändert.
+- Korrigierter Veröffentlichungsstand nach dem Formatbefund zum Tag v443.5.0. Der frühere Tag bleibt erhalten; sein noch laufender Release-Build wurde vor Veröffentlichung beendet.
+
+---
+
 # v443.5.0 - Versichererregulierung und Abschleppschäden
 
 - Schadensregulierung auf zehn klar abgegrenzte Skills erweitert: Der Haftpflichtversicherer bearbeitet Schäden aktiv; ein eigener Arbeitsweg prüft Fahrzeugschäden beim Abschleppen aus Busspuren, Haltestellen und privaten Flächen. Die bisherigen acht Aufgaben bleiben erhalten und werden rollenbezogen ergänzt.

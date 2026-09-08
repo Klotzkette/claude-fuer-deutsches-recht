@@ -147,14 +147,38 @@ Lies Schadenmeldung, letzte Bearbeitungsnotiz, Anspruchsschreiben, Versicherungs
 
 ## 3. Ablauf
 
-1. Halte drei getrennte Entscheidungen fest: Deckung gegenüber dem Versicherungsnehmer, Haftung gegenüber dem Geschädigten und Befugnis zur Außenregulierung. Eine interne Reserve ist weder Haftungsanerkenntnis noch Angebot. Ein Schadenaktenzeichen beweist keinen Direktanspruch.
-2. VVG Paragraf 100 und Paragraf 101 betreffen Freistellung und Abwehr. Bestimme anhand des Vertrags versicherte Tätigkeit, Zeitraum, Ausschlüsse, Selbstbehalt und Kostenregelung. Bei Abschleppbetrieben Schäden an übernommenen Fahrzeugen, Tätigkeitsschäden, Obhut, Transport und Kfz-Risiko ausdrücklich anhand der vorhandenen Klauseln abgleichen. Aus „Betriebshaftpflicht“ folgt keine automatische Deckung jeder Beschädigung.
-3. Bereite eine begrenzte Deckungsmitteilung vor: bestätigte Punkte, genaue offene Vertrags- oder Tatsachenfrage, erbetener Beleg und nächste Prüfung. Fehlende Deckung ist keine materiell-rechtliche Ablehnung des Geschädigtenanspruchs. Mögliche Interessenkonflikte bei gemeinsamer Vertretung oder Rückgriff gesondert eskalieren.
-4. Organisiere die entscheidende Aufklärung mit Kostenfreigabe, Untersuchungsumfang, Beteiligten und Termin. Eine Besichtigung darf Beweiserhaltung und zumutbare Reparatur nicht auf unbestimmte Zeit blockieren. Keine heimliche Weisung, belastendes Material zu entfernen; Originalbefunde bleiben erhalten.
-5. Prüfe jede Forderung nach Anspruchsinhaber, Haftungsgrund, Kausalität, Beleg, Umsatzsteuer, Vorzahlung und offenem Rest. Reserve aus begründeten Szenarien und erwarteten Abwehrkosten intern dokumentieren, nicht als mathematischen Anspruchswert verkaufen. Keine willkürliche Quote allein wegen lückenhafter Unterlagen.
-6. Lege begründete Abwehr, weitere Aufklärung, unstreitige Teilregulierung oder Vergleich zur Freigabe vor. Das Außenanschreiben enthält keine internen Reserven. Bei der üblichen Betriebshaftpflicht ausdrücklich im Namen und Auftrag des bezeichneten Versicherungsnehmers handeln, soweit die Vollmacht das trägt; VVG Paragraf 115 nur bei erfüllten besonderen Voraussetzungen als Direktanspruch behandeln.
-7. VVG Paragraf 106: Die Zweiwochenfrist betrifft die dort geregelte bindende Feststellung beziehungsweise Befriedigung und Kostenmitteilung, nicht pauschal zwei Wochen nach jeder Erstmeldung. Gerichtliche Fristen und erforderliche Abwehr laufen unabhängig davon weiter. VVG Paragraf 105 ist kein allgemeines Anerkenntnisverbot.
-8. Vor Zahlung Anspruchsinhaber, Konto, Vorleistungen, Abtretungen und Freigabe prüfen. Kaskoleistung kann nach VVG Paragraf 86 einen Übergang bewirken; Selbstbehalt und nicht ersetzte Positionen verbleiben nicht automatisch ebenfalls beim Kaskoversicherer. Abgeschlossene Positionen quittieren, den offenen Rest mit Wiedervorlage fortführen. Kein Versand, Vergleich oder Zahlungsauftrag ohne gesonderte Autorisierung.
+### 3.1. Deckung, Haftung und Außenbefugnis trennen
+
+Halte drei getrennte Entscheidungen fest: Deckung gegenüber dem Versicherungsnehmer, Haftung gegenüber dem Geschädigten und Befugnis zur Außenregulierung. Eine interne Reserve ist weder Haftungsanerkenntnis noch Angebot. Ein Schadenaktenzeichen beweist keinen Direktanspruch.
+
+### 3.2. Versichertes Risiko bestimmen
+
+VVG Paragraf 100 und Paragraf 101 betreffen Freistellung und Abwehr. Bestimme anhand des Vertrags versicherte Tätigkeit, Zeitraum, Ausschlüsse, Selbstbehalt und Kostenregelung. Bei Abschleppbetrieben Schäden an übernommenen Fahrzeugen, Tätigkeitsschäden, Obhut, Transport und Kfz-Risiko ausdrücklich anhand der vorhandenen Klauseln abgleichen. Aus „Betriebshaftpflicht“ folgt keine automatische Deckung jeder Beschädigung.
+
+### 3.3. Deckungsmitteilung begrenzen
+
+Bereite eine begrenzte Deckungsmitteilung vor: bestätigte Punkte, genaue offene Vertrags- oder Tatsachenfrage, erbetener Beleg und nächste Prüfung. Fehlende Deckung ist keine materiell-rechtliche Ablehnung des Geschädigtenanspruchs. Mögliche Interessenkonflikte bei gemeinsamer Vertretung oder Rückgriff gesondert eskalieren.
+
+### 3.4. Besichtigung und Aufklärung organisieren
+
+Organisiere die entscheidende Aufklärung mit Kostenfreigabe, Untersuchungsumfang, Beteiligten und Termin. Eine Besichtigung darf Beweiserhaltung und zumutbare Reparatur nicht auf unbestimmte Zeit blockieren. Keine heimliche Weisung, belastendes Material zu entfernen; Originalbefunde bleiben erhalten.
+
+### 3.5. Forderungen und interne Reserve prüfen
+
+Prüfe jede Forderung nach Anspruchsinhaber, Haftungsgrund, Kausalität, Beleg, Umsatzsteuer, Vorzahlung und offenem Rest. Reserve aus begründeten Szenarien und erwarteten Abwehrkosten intern dokumentieren, nicht als mathematischen Anspruchswert verkaufen. Keine willkürliche Quote allein wegen lückenhafter Unterlagen.
+
+### 3.6. Regulierungsweg zur Freigabe vorlegen
+
+Lege begründete Abwehr, weitere Aufklärung, unstreitige Teilregulierung oder Vergleich zur Freigabe vor. Das Außenanschreiben enthält keine internen Reserven. Bei der üblichen Betriebshaftpflicht ausdrücklich im Namen und Auftrag des bezeichneten Versicherungsnehmers handeln, soweit die Vollmacht das trägt; VVG Paragraf 115 nur bei erfüllten besonderen Voraussetzungen als Direktanspruch behandeln.
+
+### 3.7. Fälligkeit und Prozessfristen sichern
+
+VVG Paragraf 106: Die Zweiwochenfrist betrifft die dort geregelte bindende Feststellung beziehungsweise Befriedigung und Kostenmitteilung, nicht pauschal zwei Wochen nach jeder Erstmeldung. Gerichtliche Fristen und erforderliche Abwehr laufen unabhängig davon weiter. VVG Paragraf 105 ist kein allgemeines Anerkenntnisverbot.
+
+### 3.8. Zahlung und Aktenabschluss kontrollieren
+
+Vor Zahlung Anspruchsinhaber, Konto, Vorleistungen, Abtretungen und Freigabe prüfen. Kaskoleistung kann nach VVG Paragraf 86 einen Übergang bewirken; Selbstbehalt und nicht ersetzte Positionen verbleiben nicht automatisch ebenfalls beim Kaskoversicherer. Abgeschlossene Positionen quittieren, den offenen Rest mit Wiedervorlage fortführen. Kein Versand, Vergleich oder Zahlungsauftrag ohne gesonderte Autorisierung.
+
 
 ## 4. Quellenpflicht
 
@@ -377,14 +401,38 @@ Lies Auftrag, Auftraggeber, Ort und Beschilderung zur Ereigniszeit, Einsatzproto
 
 ## 3. Ablauf
 
-1. Trenne drei Vorgänge: Rechtmäßigkeit der Anordnung, Abschleppkosten und Beschädigung bei Aufnahme, Transport oder Abstellen. Ein rechtmäßiger Auftrag erlaubt keine unsorgfältige Ausführung. Ein rechtswidriges Parken beweist weder den Schaden noch dessen Verursachung und erzeugt keine automatische Mithaftungsquote.
-2. Für die Busspur Zeichen 245 mit Zusatzzeichen und zeitlicher Geltung dokumentieren. Zeichen 224 verbietet das Parken bis zu 15 Meter vor und hinter der Haltestelle, nicht jedes kurze Halten. StVO Paragraf 12 Absatz 2 unterscheidet Halten und Parken; weitere Verbote und konkrete Behinderung bleiben relevant. Keine pauschale bundesweite Abschleppbefugnis eines Verkehrsunternehmens behaupten.
-3. Auftraggeber und hoheitliche Grundlage anhand der Einsatzunterlagen bestimmen. Bei behördlicher Ersatzvornahme BGB Paragraf 839 mit Artikel 34 GG sowie das öffentlich-rechtliche Verwahrungsverhältnis prüfen. BGH, Urteil vom 18.02.2014, VI ZR 383/12: In dieser Konstellation ist der private Abschleppunternehmer hoheitlich tätig; der Außenanspruch ist nicht schlicht als Deliktsanspruch gegen ihn zu führen. Den Verwaltungsträger und einen möglichen internen Vertragsrückgriff getrennt ermitteln.
-4. Bei eigener Befugnis eines Verkehrsbetriebs das konkrete Landesrecht prüfen; in Berlin insbesondere MobG BE Paragraf 23 in der Ereignisfassung. Die Befugnisse der dort genannten BVG nicht auf jede private Busgesellschaft übertragen. Bei rein privatem Auftrag Vertragspartner, Eigentümer, Besitzschutz, mögliche Schutzwirkung und gegebenenfalls einschlägiges Frachtrecht anhand der übernommenen Leistung prüfen. Keine Übertragung des öffentlich-rechtlichen BGH-Falls auf jeden Privatparkplatz.
-5. Obhutskette aufbauen: Ausgangszustand, Aufnahmemethode, Zug- oder Hebepunkte, Radstellung, Hilfsrollen, Transport, Abstellplatz und Entdeckung. Originalfotos einschließlich Metadaten, Fahrzeughinweise und Aussagen sichern. Ein Foto ohne sichtbaren Unterboden beweist dessen Unversehrtheit nicht. Eine Unterschrift zur Fahrzeugübernahme ist nicht automatisch Verzicht auf verdeckte Schäden.
-6. Jeden Kratzer und jede Verformung einzeln zuordnen. Vorschäden, Reparaturhistorie, Spurenlage und technische Kompatibilität sachverständig abgrenzen, ohne Kausalität aus dem zeitlichen Nacheinander allein zu folgern. Beweislast und mögliche Erleichterungen aus Obhut und Anspruchsgrundlage begründen; keine automatische Beweislastumkehr für sämtliche Schäden. Vor Reparatur zumutbare Besichtigungsmöglichkeit und Beweissicherung abstimmen.
-7. Kalkulation, tatsächliche Reparatur und Zahlungsbeleg unterscheiden. BGB Paragraf 249 Absatz 2 Satz 2: Umsatzsteuer nur soweit tatsächlich angefallen; Vorsteuerabzug gesondert. Erforderliche Mietwagenkosten, Nutzungsausfall und gewerblichen Ausfall nicht doppelt ansetzen. Standkosten, Gutachterkosten, Wertminderung und Sicherheitsbeeinträchtigung belegen statt pauschal addieren.
-8. Eigentum, Leasing, Reparaturermächtigung, Abtretung und Kaskovorleistung prüfen. Betriebshaftpflicht, Kfz-Haftpflicht des Abschleppfahrzeugs und Kasko nicht gleichsetzen. Haftung, Deckung, Direktanspruch nach VVG Paragraf 115 und Rückgriff nach VVG Paragraf 86 jeweils gesondert behandeln. Anordnungs- und Kostenrechtsbehelfe haben einen eigenen Fristenweg; kein Stillstand wegen laufender Regulierung.
+### 3.1. Anordnung, Kosten und Schaden trennen
+
+Trenne drei Vorgänge: Rechtmäßigkeit der Anordnung, Abschleppkosten und Beschädigung bei Aufnahme, Transport oder Abstellen. Ein rechtmäßiger Auftrag erlaubt keine unsorgfältige Ausführung. Ein rechtswidriges Parken beweist weder den Schaden noch dessen Verursachung und erzeugt keine automatische Mithaftungsquote.
+
+### 3.2. Beschilderung zur Ereigniszeit lesen
+
+Für die Busspur Zeichen 245 mit Zusatzzeichen und zeitlicher Geltung dokumentieren. Zeichen 224 verbietet das Parken bis zu 15 Meter vor und hinter der Haltestelle, nicht jedes kurze Halten. StVO Paragraf 12 Absatz 2 unterscheidet Halten und Parken; weitere Verbote und konkrete Behinderung bleiben relevant. Keine pauschale bundesweite Abschleppbefugnis eines Verkehrsunternehmens behaupten.
+
+### 3.3. Hoheitlichen Auftrag und Anspruchsgegner bestimmen
+
+Auftraggeber und hoheitliche Grundlage anhand der Einsatzunterlagen bestimmen. Bei behördlicher Ersatzvornahme BGB Paragraf 839 mit Artikel 34 GG sowie das öffentlich-rechtliche Verwahrungsverhältnis prüfen. BGH, Urteil vom 18.02.2014, VI ZR 383/12: In dieser Konstellation ist der private Abschleppunternehmer hoheitlich tätig; der Außenanspruch ist nicht schlicht als Deliktsanspruch gegen ihn zu führen. Den Verwaltungsträger und einen möglichen internen Vertragsrückgriff getrennt ermitteln.
+
+### 3.4. Eigene Befugnis und privaten Auftrag abgrenzen
+
+Bei eigener Befugnis eines Verkehrsbetriebs das konkrete Landesrecht prüfen; in Berlin insbesondere MobG BE Paragraf 23 in der Ereignisfassung. Die Befugnisse der dort genannten BVG nicht auf jede private Busgesellschaft übertragen. Bei rein privatem Auftrag Vertragspartner, Eigentümer, Besitzschutz, mögliche Schutzwirkung und gegebenenfalls einschlägiges Frachtrecht anhand der übernommenen Leistung prüfen. Keine Übertragung des öffentlich-rechtlichen BGH-Falls auf jeden Privatparkplatz.
+
+### 3.5. Obhutskette und Originalbelege sichern
+
+Obhutskette aufbauen: Ausgangszustand, Aufnahmemethode, Zug- oder Hebepunkte, Radstellung, Hilfsrollen, Transport, Abstellplatz und Entdeckung. Originalfotos einschließlich Metadaten, Fahrzeughinweise und Aussagen sichern. Ein Foto ohne sichtbaren Unterboden beweist dessen Unversehrtheit nicht. Eine Unterschrift zur Fahrzeugübernahme ist nicht automatisch Verzicht auf verdeckte Schäden.
+
+### 3.6. Vorschaden und Kausalität untersuchen
+
+Jeden Kratzer und jede Verformung einzeln zuordnen. Vorschäden, Reparaturhistorie, Spurenlage und technische Kompatibilität sachverständig abgrenzen, ohne Kausalität aus dem zeitlichen Nacheinander allein zu folgern. Beweislast und mögliche Erleichterungen aus Obhut und Anspruchsgrundlage begründen; keine automatische Beweislastumkehr für sämtliche Schäden. Vor Reparatur zumutbare Besichtigungsmöglichkeit und Beweissicherung abstimmen.
+
+### 3.7. Reparatur und Folgekosten beziffern
+
+Kalkulation, tatsächliche Reparatur und Zahlungsbeleg unterscheiden. BGB Paragraf 249 Absatz 2 Satz 2: Umsatzsteuer nur soweit tatsächlich angefallen; Vorsteuerabzug gesondert. Erforderliche Mietwagenkosten, Nutzungsausfall und gewerblichen Ausfall nicht doppelt ansetzen. Standkosten, Gutachterkosten, Wertminderung und Sicherheitsbeeinträchtigung belegen statt pauschal addieren.
+
+### 3.8. Anspruchsinhaber, Deckung und Fristen klären
+
+Eigentum, Leasing, Reparaturermächtigung, Abtretung und Kaskovorleistung prüfen. Betriebshaftpflicht, Kfz-Haftpflicht des Abschleppfahrzeugs und Kasko nicht gleichsetzen. Haftung, Deckung, Direktanspruch nach VVG Paragraf 115 und Rückgriff nach VVG Paragraf 86 jeweils gesondert behandeln. Anordnungs- und Kostenrechtsbehelfe haben einen eigenen Fristenweg; kein Stillstand wegen laufender Regulierung.
+
 
 ## 4. Quellenpflicht
 

@@ -6,6 +6,7 @@ from decimal import Decimal
 import importlib.util
 import io
 from pathlib import Path
+import re
 import tempfile
 import unittest
 import zipfile
@@ -38,6 +39,14 @@ def load_builder(filename):
 
 
 class SchadensregulierungTests(unittest.TestCase):
+    def test_specialist_workflows_use_decimal_subsections(self):
+        for slug in ("abschleppschaden-pruefen", "haftpflichtschaden-regulieren"):
+            text = (PLUGIN / "skills" / slug / "SKILL.md").read_text(encoding="utf-8")
+            with self.subTest(skill=slug):
+                self.assertEqual(re.findall(r"^### 3\.(\d+)\. .+$", text, re.M), [str(i) for i in range(1, 9)])
+                self.assertEqual(len(re.findall(r"\n\n### 3\.\d+\. [^\n]+\n\n\S", text)), 8)
+                self.assertNotRegex(text, r"(?m)^\d+\. \S")
+
     def test_ten_focused_skills_and_independent_prompts(self):
         paths = list((PLUGIN / "skills").glob("*/SKILL.md"))
         self.assertEqual({path.parent.name for path in paths}, SKILLS)
@@ -105,7 +114,6 @@ class SchadensregulierungTests(unittest.TestCase):
 
     def test_towing_estimate_and_open_billing_state(self):
         text = (TOW_CASE / "06_kostenvoranschlag.txt").read_text(encoding="utf-8")
-        import re
         amounts = [Decimal(value.replace(",", ".")) for value in re.findall(r"^0[1-6].*?([0-9]+,[0-9]{2}) EUR$", text, re.M)]
         self.assertEqual(len(amounts), 6)
         net = sum(amounts)
