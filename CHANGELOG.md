@@ -1,4 +1,12 @@
+# v444.0.1 - Dezimale README-Navigation
+
+## 1. Generierte Abschnitte und stabile Anker
+
+Die AML-Pluginübersicht und die zugehörigen neuen Aktenseiten verwenden jetzt durchgehend dezimale Überschriften. Download-, Arbeitslogik- und Skill-Generatoren erhalten diese Gliederung bei jeder Neuerzeugung. Stabile HTML-Anker halten bestehende Navigationslinks erreichbar. Regressionen prüfen Hierarchie, Wiederholbarkeit, Codeblöcke und Anker; die übrigen Seiten werden nicht pauschal umnummeriert.
+
 # v444.0.0 - Geldwäscheprüfung für Kanzlei, Unternehmen und Notariat
+
+Technischer Zwischentag; die Veröffentlichung erfolgt zusammen mit der Gliederungskorrektur als v444.0.1.
 
 ## 1. Fachlich neu gefasste Arbeitswege
 

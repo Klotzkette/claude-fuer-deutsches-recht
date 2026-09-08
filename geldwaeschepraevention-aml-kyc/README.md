@@ -1,13 +1,19 @@
+<!-- decimal-anchor --> <a id="geldwäscheprüfung-in-kanzlei-unternehmen-und-notariat"></a>
+
 # 1. Geldwäscheprüfung in Kanzlei, Unternehmen und Notariat
 
 <!-- BEGIN direkt-loslegen (autogen) -->
-## Was ist das hier?
+<!-- decimal-anchor --> <a id="was-ist-das-hier"></a>
+
+## 1.1. Was ist das hier?
 
 Geldwäscheprüfung in Kanzlei, Unternehmen und Notariat: 20 Fachabläufe für Verpflichtetenstatus, KYC, UBO, Immobilienzahlungen, FIU-Meldung, Kontrollen und EU-Umstellung. Geltendes Recht 2026 und Pflichten ab 2027 bleiben getrennt.
 
 Dieses Plugin gehört zum Marketplace mit 236 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
-## Welche Datei wofür? / Which file should I use?
+<!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
+
+## 1.2. Welche Datei wofür? / Which file should I use?
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
@@ -27,7 +33,9 @@ The skill index lists the source collection. In the installed package, some spec
 
 Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/geldwaeschepraevention-aml-kyc.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-## In 30 Sekunden starten
+<!-- decimal-anchor --> <a id="in-30-sekunden-starten"></a>
+
+## 1.3. In 30 Sekunden starten
 
 | Ausgangslage | Schnellster Weg |
 | --- | --- |
@@ -35,13 +43,15 @@ Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](.
 | Noch keine Installation | Den Schnellstart unten als Markdown herunterladen und mit den Unterlagen in einer freigegebenen Arbeitsoberfläche bereitstellen. |
 | Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
 
-Startsatz für 1. Geldwäscheprüfung in Kanzlei, Unternehmen und Notariat:
+Startsatz für Geldwäscheprüfung in Kanzlei, Unternehmen und Notariat:
 
 > Erfasse zuerst Dateinamen und Metadaten im ausgewählten Ordner. Lies zunächst die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen belegten Prüfvermerk zum konkreten Mandat, Kaufpreis oder Zahlungsvorgang samt gezielter Nachforderung und gegebenenfalls sofortiger Meldeprüfung. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
 
 Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
 
-## Downloads
+<!-- decimal-anchor --> <a id="downloads"></a>
+
+## 1.4. Downloads
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
@@ -52,7 +62,9 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 236 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
-## Zugeordnete Testakten
+<!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
+
+## 1.5. Zugeordnete Testakten
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
@@ -66,12 +78,15 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 | [Fremdgeld und neuer Anteilskaufauftrag in Bonn](../testakten/aml-kanzlei-fremdgeld-anteilskauf-bonn/README.md) | [Gesamt-PDF](../testakten/aml-kanzlei-fremdgeld-anteilskauf-bonn/gesamt-pdf/aml-kanzlei-fremdgeld-anteilskauf-bonn_gesamt.pdf) | [`testakte-aml-kanzlei-fremdgeld-anteilskauf-bonn.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aml-kanzlei-fremdgeld-anteilskauf-bonn.zip) | [`testakte-aml-kanzlei-fremdgeld-anteilskauf-bonn-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aml-kanzlei-fremdgeld-anteilskauf-bonn-einzelpdfs.zip) |
 | [Kanzlei Sandhof & Partner — AML/KYC-Versäumnisse Amrum — Strafverteidigung](../testakten/aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen/README.md) | [Gesamt-PDF](../testakten/aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen/gesamt-pdf/aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen_gesamt.pdf) | [`testakte-aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen.zip) | [`testakte-aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen-einzelpdfs.zip) |
 | [Kaufpreisbelege und Drittzahlung in Münster](../testakten/aml-notariat-kaufpreis-drittzahlung-muenster/README.md) | [Gesamt-PDF](../testakten/aml-notariat-kaufpreis-drittzahlung-muenster/gesamt-pdf/aml-notariat-kaufpreis-drittzahlung-muenster_gesamt.pdf) | [`testakte-aml-notariat-kaufpreis-drittzahlung-muenster.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aml-notariat-kaufpreis-drittzahlung-muenster.zip) | [`testakte-aml-notariat-kaufpreis-drittzahlung-muenster-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aml-notariat-kaufpreis-drittzahlung-muenster-einzelpdfs.zip) |
-| [1. Akte Geldwäscheprävention, AML und KYC: Musterholding GmbH](../testakten/geldwaesche-aml-kyc-musterholding/README.md) | [Gesamt-PDF](../testakten/geldwaesche-aml-kyc-musterholding/gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf) | [`testakte-geldwaesche-aml-kyc-musterholding.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip) | [`testakte-geldwaesche-aml-kyc-musterholding-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding-einzelpdfs.zip) |
+| [Akte Geldwäscheprävention, AML und KYC: Musterholding GmbH](../testakten/geldwaesche-aml-kyc-musterholding/README.md) | [Gesamt-PDF](../testakten/geldwaesche-aml-kyc-musterholding/gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf) | [`testakte-geldwaesche-aml-kyc-musterholding.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip) | [`testakte-geldwaesche-aml-kyc-musterholding-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-## 2. Der passende Einstieg
+<!-- decimal-headings -->
+<!-- decimal-anchor --> <a id="der-passende-einstieg"></a>
+
+## 1.6. Der passende Einstieg
 
 Dieses Plugin macht aus vorhandenen Mandats-, Kunden- und Zahlungsunterlagen einen belegten Bearbeitungsstand. Es prüft zuerst, welche Tätigkeit tatsächlich dem GwG unterliegt. Ein Rechtsstreit, ein Unternehmenskauf, eine notarielle Immobilienzahlung und ein Warenverkauf lösen nicht dieselben Pflichten aus.
 
@@ -92,7 +107,9 @@ Die 20 Fachskills bearbeiten konkrete Aufgaben statt eines obligatorischen Rundu
 
 Die vollständige alphabetische Liste mit Beschreibungen und Markdown-Downloads folgt unten. Bei bekanntem Auftrag den passenden Fachskill ausdrücklich wählen; eine automatische Auswahl ist nicht garantiert.
 
-## 3. Rechtsstand und Grenzen
+<!-- decimal-anchor --> <a id="rechtsstand-und-grenzen"></a>
+
+## 1.7. Rechtsstand und Grenzen
 
 Prüfstand: 8. September 2026. Die [Quellenkarte herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschepraevention-aml-kyc/references/rechtsstand-2026-und-eu-uebergang.md).
 
@@ -104,7 +121,9 @@ Prüfstand: 8. September 2026. Die [Quellenkarte herunterladen](https://klotzket
 
 Das Plugin enthält Arbeitsanweisungen, keine angebundene Sanktionsdatenbank und keinen eigenen Portalzugang. Ohne externen Zugriff bleibt ein gegenwärtiger Quellen- oder Trefferstand offen. Nach einem technischen Fehlschlag wird höchstens einmal sinnvoll erneut versucht; danach geht die Bearbeitung mit lesbarem Zwischenstand und benannter Lücke weiter.
 
-## 4. Werkstatt, Schnellstart und Vorlagen
+<!-- decimal-anchor --> <a id="werkstatt-schnellstart-und-vorlagen"></a>
+
+## 1.8. Werkstatt, Schnellstart und Vorlagen
 
 Die Werkstatt ist ein ausführlicher eigenständiger Prompt für mehrstufige AML-Vorgänge. Sie führt von vorhandenen Unterlagen über Berufsrolle, Kunden- und Zahlungsprüfung bis zum ausformulierten Schreiben oder internen Votum. Der Schnellstart konzentriert denselben Ansatz auf die dringlichste Kernfrage und bleibt unter 7500 Bytes. Beide bleiben separate Markdown-Downloads und werden nicht mit dem Plugin installiert.
 
@@ -114,7 +133,9 @@ Drei ergänzende Vorlagen:
 - [FIU-Meldeentwurf herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschepraevention-aml-kyc/assets/templates/verdachtsmeldung-goaml-entwurf.md)
 - [Transaktionsstopp und Vollzugsfrist herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschepraevention-aml-kyc/assets/templates/transaktionsstopp-freeze-plan.md)
 
-## 5. Fallunterlagen auswählen
+<!-- decimal-anchor --> <a id="fallunterlagen-auswählen"></a>
+
+## 1.9. Fallunterlagen auswählen
 
 Drei neue Akten bilden unterschiedliche Arbeitsplätze ab:
 
@@ -124,7 +145,9 @@ Drei neue Akten bilden unterschiedliche Arbeitsplätze ab:
 
 Jede neue Akte enthält acht selbständige Aktenstücke: ein bearbeitbares Word-Dokument, vier E-Mails und drei Textbelege. Alle drei Downloadformen sind oben zugeordnet. Die ZIPs enthalten flache Dateilisten und den Nutzungshinweis; die PDF-Sammlung trennt jedes Aktenstück. Die neuen Akten enthalten keine Musterlösung. Zwei ältere Akten ergänzen den Bestand für umfangreichere Sachverhalte.
 
-## 6. English overview
+<!-- decimal-anchor --> <a id="english-overview"></a>
+
+## 1.10. English overview
 
 Twenty focused anti-money-laundering workflows for German legal practices, notarial offices and businesses. Start with supplied documents and the actual regulated activity. Do not treat every legal mandate or company as subject to identical duties.
 
@@ -132,13 +155,17 @@ The standalone workshop covers a complete matter; the compact prompt prioritises
 
 German rules applicable in September 2026 are kept separate from the EU regulation generally applicable from July 2027. Reports, filings and releases require an authorised human decision. The plugin does not provide live screening or portal access.
 
-## 7. Umstieg von früheren Versionen
+<!-- decimal-anchor --> <a id="umstieg-von-früheren-versionen"></a>
+
+## 1.11. Umstieg von früheren Versionen
 
 Die bisherigen 57 Einstiegspunkte sind auf 20 Fachskills zusammengeführt. 16 bestehende Namen bleiben erhalten; vier neue Fachwege ergänzen Kanzlei, Notariat, Kontrollen und EU-Umstellung. Gespeicherte Aufrufe entfallener Skills müssen angepasst werden: [Zuordnung der früheren Namen herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschepraevention-aml-kyc/references/umstieg-20-fachskills.md).
 
 <!-- BEGIN SKILLS-LOGIC (auto-generated) -->
 
-## Orientierung nach Arbeitslogik
+<!-- decimal-anchor --> <a id="orientierung-nach-arbeitslogik"></a>
+
+## 1.12. Orientierung nach Arbeitslogik
 
 Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Ein Klick auf einen Skill lädt seine Markdown-Datei; die alphabetische Komplettliste bleibt darunter erhalten.
 
@@ -157,7 +184,9 @@ English: Skills are grouped by typical work phase. Clicking a skill downloads it
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+<!-- decimal-anchor --> <a id="alle-skills-im-überblick"></a>
+
+## 1.13. Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
 

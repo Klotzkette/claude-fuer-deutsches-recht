@@ -119,6 +119,7 @@ def normalize_marker_spacing(text: str) -> str:
 
 
 def inject(readme: Path, slug: str) -> str:
+    from readme_decimal_headings import normalize_decimal_headings
     pdf = readme.parent / "gesamt-pdf" / f"{slug}_gesamt.pdf"
     if pdf.exists():
         pdf_rel = f"gesamt-pdf/{slug}_gesamt.pdf"
@@ -137,6 +138,7 @@ def inject(readme: Path, slug: str) -> str:
         new_text = ensure_download_notices(
             normalize_marker_spacing(pat.sub(new_section, text, count=1)), case_readme=True
         )
+        new_text = normalize_decimal_headings(new_text)
         if new_text == text:
             return "unchanged"
         readme.write_text(new_text, encoding="utf-8")
@@ -159,7 +161,7 @@ def inject(readme: Path, slug: str) -> str:
         else:
             insert_at = end
         new_text = text[:insert_at] + "\n" + new_section + "\n" + text[insert_at:]
-    new_text = ensure_download_notices(normalize_marker_spacing(new_text), case_readme=True)
+    new_text = normalize_decimal_headings(ensure_download_notices(normalize_marker_spacing(new_text), case_readme=True))
     readme.write_text(new_text, encoding="utf-8")
     return "inserted"
 

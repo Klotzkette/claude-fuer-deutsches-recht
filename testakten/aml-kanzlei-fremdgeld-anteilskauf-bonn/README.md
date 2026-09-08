@@ -1,7 +1,13 @@
-# Fremdgeld und neuer Anteilskaufauftrag in Bonn
+<!-- decimal-anchor --> <a id="fremdgeld-und-neuer-anteilskaufauftrag-in-bonn"></a>
+
+# 1. Fremdgeld und neuer Anteilskaufauftrag in Bonn
+
+<!-- decimal-headings -->
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## Akte komplett herunterladen
+<!-- decimal-anchor --> <a id="akte-komplett-herunterladen"></a>
+
+## 1.1. Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
@@ -23,11 +29,15 @@ English: The original-format ZIP contains the working files directly at archive 
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## 1. Vorgang
+<!-- decimal-anchor --> <a id="vorgang"></a>
+
+## 1.2. Vorgang
 
 Mandatserweiterung, eingegangene Fremdzahlung und abweichender Rückzahlungswunsch bei einem Bonner Anteilskauf. Bearbeitungsstand: 8. September 2026. Zugeordnet zum Plugin `geldwaeschepraevention-aml-kyc`. Die Korrespondenz zeigt unterschiedliche Kenntnisstände und noch ausstehende Unterlagen. Eine Entscheidung oder Meldung wird nicht vorgegeben.
 
-## 2. Unterlagen
+<!-- decimal-anchor --> <a id="unterlagen"></a>
+
+## 1.3. Unterlagen
 
 - [01_mandatserweiterung.docx](01_mandatserweiterung.docx)
 - [02_buchhaltungseingang.eml](02_buchhaltungseingang.eml)
@@ -38,7 +48,9 @@ Mandatserweiterung, eingegangene Fremdzahlung und abweichender Rückzahlungswuns
 - [07_beteiligungsangaben.txt](07_beteiligungsangaben.txt)
 - [08_mandant_termin.eml](08_mandant_termin.eml)
 
-## 3. Drei Fassungen
+<!-- decimal-anchor --> <a id="drei-fassungen"></a>
+
+## 1.4. Drei Fassungen
 
 Acht getrennte Originalunterlagen in DOCX, EML und TXT. Das Gesamt-PDF und das Einzel-PDF-ZIP geben dieselben Unterlagen wieder. Beide ZIP-Varianten sind flach; das Originalformat-ZIP enthält keine Markdown-Dateien. Der vorgeschriebene Hinweis steht auf der Downloadseite und in der README.txt der ZIPs, nicht innerhalb der PDFs.
 

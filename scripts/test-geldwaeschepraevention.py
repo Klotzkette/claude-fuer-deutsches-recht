@@ -37,6 +37,32 @@ def skill(name):
 
 
 class GeldwaescheTests(unittest.TestCase):
+    def test_decimal_readmes_remain_stable_and_keep_navigation(self):
+        from readme_decimal_headings import normalize_decimal_headings, OPT_IN
+        paths = [PLUGIN / 'README.md'] + [ROOT / 'testakten' / s / 'README.md' for s in CASES]
+        for path in paths:
+            text = path.read_text()
+            self.assertIn(OPT_IN, text)
+            self.assertEqual(normalize_decimal_headings(text), text)
+            for marks, number in re.findall(r'^(#{1,6}) (\d+(?:\.\d+)*)\. ', text, re.M):
+                self.assertEqual(len(marks), len(number.split('.')))
+            self.assertNotRegex(text, r'(?m)^#{1,6} (?!\d+(?:\.\d+)*\. )')
+        sample = '# Title\n\n## Download\n'
+        self.assertEqual(normalize_decimal_headings(sample), sample)
+        sample = OPT_IN + '\n' + sample + '\n```text\n# Unchanged\n```\n'
+        converted = normalize_decimal_headings(sample)
+        self.assertIn('## 1.1. Download', converted)
+        self.assertIn('<a id="download"></a>', converted)
+        self.assertIn('```text\n# Unchanged\n```', converted)
+        self.assertEqual(normalize_decimal_headings(converted), converted)
+        dated = normalize_decimal_headings(OPT_IN + '\n# 2027 im Überblick\n')
+        self.assertIn('# 1. 2027 im Überblick', dated)
+        literal = '```html\n<!-- decimal-anchor --> <a id="example"></a>\n\n```\n'
+        self.assertIn(literal, normalize_decimal_headings(OPT_IN + '\n# Title\n\n' + literal))
+        nav = builder('validate-readme-navigation.py')
+        self.assertIn('in-30-sekunden-starten', nav.heading_anchors(PLUGIN / 'README.md'))
+        self.assertIn('zugeordnete-testakten', nav.heading_anchors(PLUGIN / 'README.md'))
+
     def test_twenty_specific_skills_and_contained_references(self):
         files = list((PLUGIN / 'skills').glob('*/SKILL.md'))
         self.assertEqual(len(files), 20)

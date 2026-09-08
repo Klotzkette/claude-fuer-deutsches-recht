@@ -1,6 +1,6 @@
 # betaeubungsmittelrecht
 
-**126 Skills** · Stand `v444.0.0`
+**126 Skills** · Stand `v444.0.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../betaeubungsmittelrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

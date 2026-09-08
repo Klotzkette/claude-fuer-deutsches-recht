@@ -1,7 +1,13 @@
+<!-- decimal-anchor --> <a id="akte-geldwäscheprävention-aml-und-kyc-musterholding-gmbh"></a>
+
 # 1. Akte Geldwäscheprävention, AML und KYC: Musterholding GmbH
 
+<!-- decimal-headings -->
+
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## Akte komplett herunterladen
+<!-- decimal-anchor --> <a id="akte-komplett-herunterladen"></a>
+
+## 1.1. Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
@@ -23,7 +29,9 @@ English: The original-format ZIP contains the working files directly at archive 
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## 2. Vorhandene Unterlagen
+<!-- decimal-anchor --> <a id="vorhandene-unterlagen"></a>
+
+## 1.2. Vorhandene Unterlagen
 
 Die Musterholding GmbH in Frankfurt am Main handelt mit Industriekomponenten und Spezialmaschinen. Eine Tochtergesellschaft verwaltet Gewerbeimmobilien. Im Frühjahr 2026 entstehen Unterlagen zu einem neuen Vertriebspartner, der Danube Trade Solutions SRL in Bukarest. Eine Zahlung über 187500 Euro stammt von Adriatic Commerce Ltd. aus Malta; die Beteiligungsangaben nennen außerdem Blue Harbor Holdings Ltd. auf Zypern.
 
@@ -31,7 +39,9 @@ Die Sammlung enthält Kundenangaben, interne Bearbeitungsstände, Bankkorrespond
 
 Die Dokumente stammen aus unterschiedlichen Bearbeitungszeitpunkten. Für Datum, Status und tatsächlich übermittelte Fassungen ist jeweils das Aktenstück maßgeblich. Die Übersicht trifft keine Entscheidung über die Berechtigung eines Verdachts oder die weitere Abwicklung.
 
-## 3. Dateien in dieser Akte
+<!-- decimal-anchor --> <a id="dateien-in-dieser-akte"></a>
+
+## 1.3. Dateien in dieser Akte
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
