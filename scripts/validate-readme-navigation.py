@@ -19,7 +19,7 @@ import yaml
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path="
-MARKDOWN = MarkdownIt("commonmark").enable(["table", "strikethrough"])
+MARKDOWN = MarkdownIt("gfm-like")
 
 
 class ExplicitAnchors(HTMLParser):
