@@ -1,6 +1,6 @@
 # strassenverkehrsrecht-stvo
 
-**118 Skills** · Stand `v444.0.2`
+**118 Skills** · Stand `v444.0.3`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../strassenverkehrsrecht-stvo/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

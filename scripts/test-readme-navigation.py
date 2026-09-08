@@ -276,6 +276,71 @@ class NavigationTests(unittest.TestCase):
             self.assertEqual(len(errors), 1)
             self.assertIn("Überschriftenanker fehlt: #beispiel", errors[0])
 
+    def test_literal_links_and_anchors_are_not_navigation(self):
+        text = (
+            '# Start\n\n[Echt](#start)\n\n'
+            '```md\n[Sprung](#beispiel)\n<a id="beispiel"></a>\n```\n\n'
+            '`[Inline](#inline)`\n\n'
+            '<!-- [Kommentar](#kommentar) -->\n\n'
+            '    [Eingerückt](#eingerueckt)\n\n'
+            '> ~~~md\n> [Zitat](#zitat)\n> ~~~\n\n'
+            '\\[Escaped](#escaped)\n'
+        )
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory).resolve()
+            (root / "README.md").write_text(text, encoding="utf-8")
+            with patch.object(NAV, "REPO", root):
+                errors = []
+                self.assertEqual(NAV.validate_markdown_links(errors), (1, 1))
+                self.assertEqual(errors, [])
+
+    def test_yaml_metadata_is_not_a_heading_or_link(self):
+        for end in ('---', '...'):
+            text = (
+                '---\nname: start\ndescription: "[Nicht sichtbar](#fehlt)"\n'
+                f'{end}\n# Start\n\n[Öffnen](#start)\n\n## Start\n'
+            )
+            for contents in (text, '\ufeff' + text.replace('\n', '\r\n')):
+                with self.subTest(end=end, bom=contents.startswith('\ufeff')):
+                    self.assertEqual(self.anchors(contents), {'start', 'start-1'})
+                    self.assertEqual(NAV.markdown_links(NAV.markdown_tokens(contents)), [('Öffnen', '#start')])
+        self.assertIn('normale-prosa', self.anchors('---\nNormale Prosa\n---\n'))
+        self.assertIn('start', self.anchors('---\nname: [ungültig\n---\n\n# Start\n'))
+
+    def test_metadata_only_target_cannot_satisfy_real_link(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory).resolve()
+            (root / 'README.md').write_text('# Start\n\n[Fehler](SKILL.md#name-start)\n', encoding='utf-8')
+            (root / 'SKILL.md').write_text('---\nname: start\n---\n# Start\n', encoding='utf-8')
+            with patch.object(NAV, 'REPO', root):
+                errors = []
+                NAV.validate_markdown_links(errors)
+            self.assertEqual(len(errors), 1)
+            self.assertIn('Überschriftenanker fehlt: SKILL.md#name-start', errors[0])
+
+    def test_parsed_links_preserve_labels_targets_and_reference_links(self):
+        tokens = NAV.markdown_tokens(
+            '[**Titel**](<datei mit leerzeichen.md#ziel> "Hinweis")\n\n'
+            '[Verweis][quelle]\n\n[quelle]: datei.md#abschnitt\n\n'
+            '[](datei.md) [Leer]() [![Bild](bild.png)](bildziel.md)\n'
+        )
+        self.assertEqual(NAV.markdown_links(tokens), [
+            ('Titel', 'datei%20mit%20leerzeichen.md#ziel'),
+            ('Verweis', 'datei.md#abschnitt'), ('', 'datei.md'),
+            ('Leer', ''), ('Bild', 'bildziel.md'),
+        ])
+
+    def test_download_scan_ignores_examples_and_metadata(self):
+        url = NAV.DOWNLOAD_BASE + 'fehlt.md'
+        tokens = NAV.markdown_tokens(
+            f'---\ndescription: "[Metadaten]({url})"\n---\n'
+            f'```md\n[Beispiel]({url})\n<a href="{url}">Beispiel</a>\n```\n\n'
+            f'`<a href="{url}">Inline</a>`\n\n'
+            '<a href="README.md">Echt</a>\n'
+        )
+        self.assertEqual(NAV.markdown_links(tokens), [])
+        self.assertEqual(NAV.explicit_html(tokens).destinations, ['README.md'])
+
     def test_download_targets_include_reference_markdown(self):
         for target in (
             "notariat-alltag/references/mitarbeiter-formwege.md",
