@@ -13,14 +13,12 @@ from pathlib import Path
 from urllib.parse import quote, unquote, urlsplit
 
 from markdown_it import MarkdownIt
+import yaml
 
 
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path="
-MARKDOWN_LINK_RE = re.compile(r"(?<!!)\[([^\]]*)\]\(([^)\n]*)\)")
-HTML_HREF_RE = re.compile(r'<a\s+[^>]*href=["\']([^"\']+)["\'][^>]*>', re.IGNORECASE)
-DOWNLOAD_LINK_RE = re.compile(re.escape(DOWNLOAD_BASE) + r"([^\s)\"'<>]+)")
 MARKDOWN = MarkdownIt("commonmark").enable(["table", "strikethrough"])
 
 
@@ -28,10 +26,54 @@ class ExplicitAnchors(HTMLParser):
     def __init__(self) -> None:
         super().__init__()
         self.anchors: set[str] = set()
+        self.destinations: list[str] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         if tag == "a":
             self.anchors.update(value for key, value in attrs if key in {"id", "name"} and value)
+            self.destinations.extend(value for key, value in attrs if key == "href" and value)
+
+
+def markdown_tokens(text: str):
+    text = text.removeprefix('\ufeff').replace('\r\n', '\n')
+    front = re.match(r'\A---[ \t]*\n(.*?)\n(?:---|\.\.\.)[ \t]*(?:\n|\Z)', text, re.S)
+    if front:
+        try:
+            metadata = yaml.safe_load(front.group(1))
+        except yaml.YAMLError:
+            metadata = False
+        if isinstance(metadata, (dict, list)) or metadata is None:
+            text = text[front.end():]
+    return MARKDOWN.parse(text)
+
+
+def markdown_links(tokens) -> list[tuple[str, str]]:
+    links = []
+    for token in tokens:
+        destination = None
+        label = []
+        for child in token.children or []:
+            if child.type == "link_open":
+                destination = child.attrGet("href") or ""
+                label = []
+            elif child.type == "link_close" and destination is not None:
+                links.append(("".join(label).strip(), destination))
+                destination = None
+            elif destination is not None:
+                label.append(child.content)
+    return links
+
+
+def explicit_html(tokens) -> ExplicitAnchors:
+    html = ExplicitAnchors()
+    for token in tokens:
+        if token.type == "html_block":
+            html.feed(token.content)
+        for child in token.children or []:
+            if child.type == "html_inline":
+                html.feed(child.content)
+    html.close()
+    return html
 
 
 def repo_relative(path: Path) -> str:
@@ -44,13 +86,6 @@ def relative_link(directory: Path, target: Path) -> str:
 
 def markdown_download_url(repo_path: str) -> str:
     return DOWNLOAD_BASE + quote(repo_path, safe="/")
-
-
-def link_destination(raw: str) -> str:
-    value = raw.strip()
-    if value.startswith("<") and ">" in value:
-        return value[1 : value.index(">")]
-    return value.split(maxsplit=1)[0] if value else ""
 
 
 def github_slug(heading: str) -> str:
@@ -69,21 +104,14 @@ def heading_anchors(path: Path) -> set[str]:
     counts: dict[str, int] = {}
     anchors: set[str] = set()
     text = path.read_text(encoding="utf-8", errors="ignore")
-    html = ExplicitAnchors()
-    tokens = MARKDOWN.parse(text)
+    tokens = markdown_tokens(text)
     for index, token in enumerate(tokens):
         if token.type == "heading_open":
             base = github_slug(tokens[index + 1].content)
             duplicate = counts.get(base, 0)
             counts[base] = duplicate + 1
             anchors.add(base if duplicate == 0 else f"{base}-{duplicate}")
-        if token.type == "html_block":
-            html.feed(token.content)
-        for child in token.children or []:
-            if child.type == "html_inline":
-                html.feed(child.content)
-    html.close()
-    anchors.update(html.anchors)
+    anchors.update(explicit_html(tokens).anchors)
     return anchors
 
 
@@ -96,9 +124,7 @@ def validate_markdown_links(errors: list[str]) -> tuple[int, int]:
         text = path.read_text(encoding="utf-8", errors="ignore")
         if path.name == "README.md" and not re.search(r"^#\s+\S", text, re.MULTILINE):
             errors.append(f"{repo_relative(path)}: sichtbare Hauptüberschrift fehlt")
-        for match in MARKDOWN_LINK_RE.finditer(text):
-            label = match.group(1).strip()
-            destination = link_destination(match.group(2))
+        for label, destination in markdown_links(markdown_tokens(text)):
             if not label:
                 errors.append(f"{repo_relative(path)}: Link ohne sichtbare Beschriftung")
             if not destination:
@@ -193,8 +219,9 @@ def validate_markdown_downloads(errors: list[str]) -> int:
     count = 0
     for path in user_facing_download_docs():
         text = path.read_text(encoding="utf-8", errors="ignore")
-        destinations = [link_destination(match.group(2)) for match in MARKDOWN_LINK_RE.finditer(text)]
-        destinations.extend(HTML_HREF_RE.findall(text))
+        tokens = markdown_tokens(text)
+        destinations = [destination for _, destination in markdown_links(tokens)]
+        destinations.extend(explicit_html(tokens).destinations)
         for destination in destinations:
             if not destination or destination.startswith(("mailto:", "#")):
                 continue
@@ -206,9 +233,11 @@ def validate_markdown_downloads(errors: list[str]) -> int:
                 errors.append(
                     f"{repo_relative(path)}: Markdown-Arbeitsdatei umgeht den Downloadweg: {destination}"
                 )
-        for match in DOWNLOAD_LINK_RE.finditer(text):
+        for destination in destinations:
+            if not destination.startswith(DOWNLOAD_BASE):
+                continue
             count += 1
-            repo_path = unquote(match.group(1))
+            repo_path = unquote(destination[len(DOWNLOAD_BASE):])
             if not is_markdown_download_target(repo_path):
                 errors.append(f"{repo_relative(path)}: unzulässiges Markdown-Downloadziel: {repo_path}")
                 continue

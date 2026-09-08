@@ -1,6 +1,6 @@
 # verkehr-infrastrukturrecht
 
-**60 Skills** · Stand `v444.0.2`
+**60 Skills** · Stand `v444.0.3`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../verkehr-infrastrukturrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

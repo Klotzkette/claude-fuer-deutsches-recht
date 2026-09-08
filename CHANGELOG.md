@@ -1,4 +1,12 @@
+# v444.0.3 - Einheitlicher Markdown-Kontext für Navigation
+
+## 1. Links, Anker und Metadaten
+
+Links und Anker werden nun aus derselben Markdown-Struktur gelesen. Beispiele in Codeblöcken, Inline-Code und Kommentaren sowie YAML-Metadaten erzeugen weder Sprungziele noch Linkfehler. Referenzlinks, formatierte Beschriftungen und leere echte Links bleiben prüfbar. Auch die Downloadprüfung unterscheidet Beispiele von tatsächlich angebotenen Dateien. Zusätzliche Regressionen sichern beide Grenzfälle aus der Nachprüfung. Die fachlichen AML-Inhalte und Akten bleiben unverändert.
+
 # v444.0.2 - Echte Sprungziele statt Codebeispiele
+
+Technischer Zwischentag; die Veröffentlichung erfolgt mit der einheitlichen Linkprüfung als v444.0.3.
 
 ## 1. Kontextgerechte Ankerprüfung
 
@@ -6,7 +14,7 @@ Die Navigationsprüfung unterscheidet echte HTML-Anker und Überschriften von Co
 
 # v444.0.1 - Dezimale README-Navigation
 
-Technischer Zwischentag; die Veröffentlichung erfolgt mit der ergänzten Navigationsprüfung als v444.0.2.
+Technischer Zwischentag; die Veröffentlichung erfolgt mit der ergänzten Navigationsprüfung als v444.0.3.
 
 ## 1. Generierte Abschnitte und stabile Anker
 
@@ -14,7 +22,7 @@ Die AML-Pluginübersicht und die zugehörigen neuen Aktenseiten verwenden jetzt 
 
 # v444.0.0 - Geldwäscheprüfung für Kanzlei, Unternehmen und Notariat
 
-Technischer Zwischentag; die Veröffentlichung erfolgt zusammen mit den Navigationskorrekturen als v444.0.2.
+Technischer Zwischentag; die Veröffentlichung erfolgt zusammen mit den Navigationskorrekturen als v444.0.3.
 
 ## 1. Fachlich neu gefasste Arbeitswege
 
