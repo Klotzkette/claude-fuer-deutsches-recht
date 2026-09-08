@@ -1,0 +1,14 @@
+name: schadensregulierung-ubahn-tuerunfall-berlin
+plugin: schadensregulierung
+description: "Berliner Türvorfall mit Fahrgastmeldung, Betriebsdaten, Wundversorgung, späteren Beschwerden, Kleidung und Versicherungsverkehr."
+checks:
+  - id: unterlagen
+    check_type: working_file_count
+    description: "Mindestens fünfzehn getrennte Primärunterlagen sind vorhanden."
+    min: 15
+  - id: belege
+    check_type: human_review
+    description: "Zeitstempel, Eigenangaben und technische Befunde bleiben unterscheidbar."
+  - id: formate
+    check_type: human_review
+    description: "Originale, Gesamt-PDF und getrennte PDF-Fassungen stimmen inhaltlich überein."

@@ -5618,6 +5618,44 @@ FINAL_PROFILE += (
 PROFILE = PROFILE + SUBPROFILE + ADDITIONAL_PROFILE + SPECIALTY_PROFILE + FINAL_PROFILE
 
 
+PROFILE += (
+    ThemenProfil(
+        key="schadensregulierung",
+        label="Schadensregulierung aus Unternehmenssicht",
+        rolle="Bearbeiter von Fremdschäden auf Unternehmens- und Beklagtenseite mit getrenntem Eigenschaden, Versicherungsweg, Regress und kontrollierter Regulierung.",
+        oeffnungssatz="Bearbeite die vorliegende Schadenmeldung bis zum nächsten benötigten Schreiben oder zur begründeten Regulierungsvorlage.",
+        normen=(
+            "HaftPflG Paragraf 1, Paragraf 4 und Paragraf 6: Schienenbetrieb, Mitverschulden und Personenschaden; nicht mit der Kraftfahrzeughaftung gleichsetzen.",
+            "BGB Paragraf 280, Paragraf 241 Absatz 2 und Paragraf 823: Vertrag und Delikt mit getrennten Voraussetzungen.",
+            "VVG Paragraf 100 bis Paragraf 106: Abwehr, Freistellung, Anzeige und Anerkenntnis; Paragraf 115 nicht auf jede Betriebshaftpflicht übertragen.",
+            "SGB X Paragraf 116, EntgFG Paragraf 6 und VVG Paragraf 86: Anspruchsübergänge positionsbezogen prüfen.",
+            "BGB Paragraf 249 bis Paragraf 254 und Paragraf 779: Schaden, Mitverschulden und begrenzte Vergleichsregelung.",
+        ),
+        entscheidungen=(
+            "BGH, Urteil vom 15.02.2022 - VI ZR 937/20: Gesamtbemessung statt taggenauer Schmerzensgeldrechnung; keine Betragsübernahme aus dem schweren Ausgangsfall.",
+            "BGH, Urteil vom 06.12.2022 - VI ZR 168/21: psychische Störung von Krankheitswert bei mittelbarem Schockschaden; Zurechnung bleibt zu prüfen, kein U-Bahn-Urteil.",
+        ),
+        stationen=(
+            "Schadenmeldung: Ereignis, Rechtsträger, verletzte Person, flüchtige Belege und Versicherungsanzeige zuordnen.",
+            "Haftungsprüfung: Vertrag, Delikt und passendes Gefährdungsregime mit Tatsachen und Entlastungsbelegen trennen.",
+            "Schadenhöhe: Behandlung, Kleidung, Ausfall, Schmerzensgeld und bisherige Zahlungen belegt prüfen.",
+            "Gläubigerprüfung: Fahrgast, Krankenkasse, Arbeitgeber und Versicherer nach Leistungsart und Zeitraum abgrenzen.",
+            "Regulierung: Antwort, Teilzahlung, Vergleich oder Ablehnung mit Vollmacht und offenem Rest ausformulieren.",
+        ),
+        pruefraster=(
+            "Welche konkrete Belegquelle geht verloren, wenn ihre Sicherung heute unterbleibt?",
+            "Welcher Rechtsträger haftet aus welchem Tatbestand, unabhängig von der Versicherungsdeckung?",
+            "Welche Position ist welchem Gläubiger zugeordnet und schon teilweise bezahlt?",
+            "Welche Zukunfts- oder Regressansprüche bleiben bei einer Teilzahlung offen?",
+        ),
+        stop=(
+            "Eine umfassende Abfindung soll ungeklärte medizinische Zukunftsschäden erledigen.",
+            "Zahlungsempfänger, Kontowechsel oder Regulierungsvollmacht sind nicht bestätigt.",
+            "Gerichtspost oder unmittelbar drohender Belegverlust wartet auf eine Versicherungsantwort.",
+        ),
+    ),
+)
+
 PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
@@ -5733,6 +5771,7 @@ EXACT_PROFILE_KEYS: dict[str, str] = {
     "roemisch-katholisches-kirchenrecht": "kirchenrecht",
     "roemisches-recht": "roemisch",
     "us-bankruptcy-code": "us_insolvency",
+    "schadensregulierung": "schadensregulierung",
     "schoeffen-handelsrichter-praxis": "ehrenamtliche_richter",
     "schriftsatz-versandwerkstatt": "dokumentenworkflow",
     "schulrecht-laender": "bildung",

@@ -1,0 +1,11 @@
+Fahrzeugzeit,Einheit,Signal,Wert,Exportvermerk
+2026-08-24 17:42:14,SP-215,Freigabe links,aus,Fahrzeuguhr nicht abgeglichen
+2026-08-24 17:42:17,SP-215,Türkreis geschlossen,ja,Signalstatus ohne Bild
+2026-08-24 17:42:18,SP-214,Fahranforderung,ein,Fahrerbedienung
+2026-08-24 17:42:19,SP-214,Geschwindigkeit km/h,3.2,Messwert Ereignisspeicher
+2026-08-24 17:42:20,SP-214,Geschwindigkeit km/h,6.1,Messwert Ereignisspeicher
+2026-08-24 17:42:21,SP-214,Fahranforderung,aus,Fahrerbedienung
+2026-08-24 17:42:21,SP-214,Bremsanforderung,ein,Fahrerbedienung
+2026-08-24 17:42:22,SP-215,Notruf Fahrgastraum,aktiv,Auslösender Fahrgast unbekannt
+2026-08-24 17:42:23,SP-214,Geschwindigkeit km/h,0.0,Stillstand
+2026-08-24 17:42:25,SP-215,Freigabe links,ein,Fahrerbedienung

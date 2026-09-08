@@ -1,3 +1,13 @@
+# v443.4.0 - Schadensregulierung aus Unternehmenssicht
+
+- Neues kompaktes Plugin mit acht sprechenden Fachaufgaben: Schadenaufnahme, Beweissicherung, Haftungsweg, Versicherung, Schadenpositionen, Anspruchsübergang, Korrespondenz sowie Vergleich und kontrollierte Zahlung. Keine automatische Außenhandlung.
+- Eigenständige ausführliche Werkstatt mit acht situationsbezogenen Arbeitsrouten und kompakter Schnellstart unter 7500 Bytes. Vorhandene Unterlagen und konkrete Dokumentwünsche bestimmen den Einstieg; Haftung, Deckung, Bezifferung und Freigabe bleiben getrennt.
+- Haftpflichtgesetz und Betriebsvorschriften für den U-Bahn-Fall, BGB, StVG und Produkthaftung nach ihrem jeweiligen Anwendungsbereich. Entscheidungsanker zur Gesamtbemessung des Schmerzensgelds und zu psychischen Gesundheitsverletzungen mit ausdrücklich begrenzter Übertragbarkeit. Offene Deckung, künftige Behandlungsfolgen und bereits übergegangene Ansprüche werden nicht durch eine pauschale Abfindung erledigt.
+- Berliner Türvorfall mit 15 einzelnen Originalunterlagen: Fahrgastmeldung, Betriebsbericht, Ereignisspeicher, zwei Behandlungsberichte, Zeugenmail, Kaufbeleg, Ausgabenliste, Türprüfung, Police, Versicherer- und Kassenverkehr, Schneidereiangebot, Telefonvermerk und Arbeitgeberauskunft. Keine Musterlösung oder festgelegte Entschädigungshöhe.
+- Gesamt-PDF sowie flache Originalformat- und Einzel-PDF-ZIPs; fallbezogene Tests prüfen Beträge, Dokumentabdeckung, native Dateiinhalte und Archivstruktur. Plugin-, Skill-, Prompt- und Aktenverzeichnisse sind aktualisiert.
+
+---
+
 # v443.3.0 - Grundsteuerakte Wolkenfels
 
 - Zwei bereitgestellte Bescheid-PDFs unverändert aufgenommen: Grundsteuerwertbescheid sowie Grundsteuerpost 2025 einschließlich des darin enthaltenen Messbescheids. Originalhinweise und Zahlen bleiben erhalten.

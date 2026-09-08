@@ -60,10 +60,10 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Vereinsrecht und Genossenschaften](#vereinsrecht-und-genossenschaften) | 1 |
 | [Vergaberecht](#vergaberecht) | 1 |
 | [Verkehrsrecht](#verkehrsrecht) | 2 |
-| [Versicherungsrecht](#versicherungsrecht) | 2 |
+| [Versicherungsrecht](#versicherungsrecht) | 3 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 31 |
 
-222 kuratierte Plugins in 34 Kategorien, aus insgesamt 235 Marketplace-Plugins (Abgleich: 4. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
+223 kuratierte Plugins in 34 Kategorien, aus insgesamt 236 Marketplace-Plugins (Abgleich: 8. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
 
 ## Agrarrecht
 
@@ -353,6 +353,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 ## Versicherungsrecht
 
 - [fachanwalt-versicherungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht): Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-werkstatt.md)
+- [schadensregulierung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schadensregulierung): Schadenabwicklung aus Unternehmenssicht: Beweise, Haftung, Deckung, Schadenhöhe, Anspruchsübergang, Korrespondenz und kontrollierter Abschluss. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/schadensregulierung-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/schadensregulierung-werkstatt.md)
 - [versicherungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/versicherungsrecht): Großes Versicherungsrecht-Plugin für VVG, VAG, europäische Versicherungsaufsicht, Lebensversicherung, BU, PKV, Rechtsschutz, Kreditversicherung, D&O, Cyber… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=versicherungsrecht/versicherungsrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=versicherungsrecht/versicherungsrecht-werkstatt.md)
 
 ## Verwaltungsrecht
