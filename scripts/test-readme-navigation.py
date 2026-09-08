@@ -234,6 +234,48 @@ class DownloadNoticeTests(unittest.TestCase):
 
 
 class NavigationTests(unittest.TestCase):
+    def anchors(self, text):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "README.md"
+            path.write_text(text, encoding="utf-8")
+            return NAV.heading_anchors(path)
+
+    def test_only_rendered_html_and_headings_define_anchors(self):
+        text = (
+            '# Überblick\n\n<a class="ziel" id="echt"></a>\n\n'
+            'Im Absatz <a name="alt"></a> bleibt ein Ziel.\n\n'
+            '```html\n<a id="beispiel"></a>\n## Überblick\n```\n\n'
+            '~~~html\n<a name="tilde"></a>\n~~~\n\n'
+            '    <a id="eingerueckt"></a>\n\n'
+            '`<a id="inline"></a>`\n\n'
+            '<!-- <a id="kommentar"></a> -->\n\n'
+            '## Überblick\n'
+        )
+        self.assertEqual(self.anchors(text), {"überblick", "überblick-1", "echt", "alt"})
+
+    def test_nested_long_and_unclosed_fences_do_not_create_targets(self):
+        for code in (
+            '> ```html\n> <a id="beispiel"></a>\n> ```\n',
+            '- ```html\n  <a id="beispiel"></a>\n  ```\n',
+            '````html\n```\n<a id="beispiel"></a>\n`````\n',
+            '```html\n<a id="beispiel"></a>\n',
+        ):
+            with self.subTest(code=code):
+                self.assertEqual(self.anchors('# Start\n\n' + code), {"start"})
+
+    def test_link_to_fenced_anchor_is_reported_as_broken(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory).resolve()
+            (root / "README.md").write_text(
+                '# Start\n\n[Sprung](#beispiel)\n\n'
+                '```html\n<a id="beispiel"></a>\n```\n', encoding="utf-8"
+            )
+            with patch.object(NAV, "REPO", root):
+                errors = []
+                self.assertEqual(NAV.validate_markdown_links(errors), (1, 1))
+            self.assertEqual(len(errors), 1)
+            self.assertIn("Überschriftenanker fehlt: #beispiel", errors[0])
+
     def test_download_targets_include_reference_markdown(self):
         for target in (
             "notariat-alltag/references/mitarbeiter-formwege.md",

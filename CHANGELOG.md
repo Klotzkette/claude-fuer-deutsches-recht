@@ -1,4 +1,12 @@
+# v444.0.2 - Echte Sprungziele statt Codebeispiele
+
+## 1. Kontextgerechte Ankerprüfung
+
+Die Navigationsprüfung unterscheidet echte HTML-Anker und Überschriften von Codebeispielen und Kommentaren. Ein Markdown-Parser berücksichtigt auch eingerückte, verschachtelte und nicht geschlossene Codeblöcke; Beispiele verändern die Nummerierung doppelter Überschriften nicht mehr. Regressionen sichern die Erkennung tatsächlich defekter Sprunglinks. Enthält den vollständigen AML-Ausbau und die dezimale Navigation der beiden unveröffentlichten Zwischentags.
+
 # v444.0.1 - Dezimale README-Navigation
+
+Technischer Zwischentag; die Veröffentlichung erfolgt mit der ergänzten Navigationsprüfung als v444.0.2.
 
 ## 1. Generierte Abschnitte und stabile Anker
 
@@ -6,7 +14,7 @@ Die AML-Pluginübersicht und die zugehörigen neuen Aktenseiten verwenden jetzt 
 
 # v444.0.0 - Geldwäscheprüfung für Kanzlei, Unternehmen und Notariat
 
-Technischer Zwischentag; die Veröffentlichung erfolgt zusammen mit der Gliederungskorrektur als v444.0.1.
+Technischer Zwischentag; die Veröffentlichung erfolgt zusammen mit den Navigationskorrekturen als v444.0.2.
 
 ## 1. Fachlich neu gefasste Arbeitswege
 
