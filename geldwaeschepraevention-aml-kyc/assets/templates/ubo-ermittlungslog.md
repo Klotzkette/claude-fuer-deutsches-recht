@@ -1,56 +1,21 @@
-# UBO-Ermittlungslog
+# 1. Eigentums- und Kontrollnachweis
 
-## Zweck
+Vertragspartner: [Name und Register]. Stichtag: [Datum]. Auftrag: [heutige GwG-Prüfung oder gesonderter Zukunftsvergleich].
 
-Eigentums- und Kontrollketten, Registerquellen, Abweichungen und Nachweise.
+## 1.1. Beteiligungskette
 
-## Eingaben
+| Ausgangsperson | Zielgesellschaft | Kapital | Stimmen | Sonderrechte | Beleg und Datum |
+| --- | --- | --- | --- | --- | --- |
+| [Person oder Einheit] | [Einheit] | [Quote] | [Quote] | [Kontrollrecht] | [Original] |
 
-- Mandant, Branche und Rolle
-- Kunde, wirtschaftlich Berechtigte und Registerquellen
-- Produkt, Dienstleistung, Transaktion und Länderbezug
-- Sanktions-, PEP-, Hochrisiko- und Mittelherkunftsdaten
-- Frist, Behörde, Alert oder Presseanfrage
-- vorhandene Nachweise und offene Datenpunkte
+Jede Zwischenstufe einzeln erfassen. Anschließend denselben Aufbau als Textbaum anzeigen. Fehlende Stufen offen lassen.
 
-## Arbeitsblatt
+## 1.2. Heutige Herleitung
 
-| Feld | Eintrag |
-| --- | --- |
-| Mandant / Einheit | |
-| Branche / Verpflichtetenstatus | |
-| Kunde / Vertragspartner | |
-| Wirtschaftlich Berechtigte | |
-| Produkt / Dienstleistung / Transaktion | |
-| Länderbezug | |
-| PEP / Sanktionen / Hochrisikoindikatoren | |
-| Mittelherkunft / Vermögensherkunft | |
-| Behörde / Aktenzeichen / Frist | |
-| Quellen geprüft am | |
-| Risikoampel | |
-| Entscheidung / nächste Handlung | |
+Nach GwG Paragraf 3 wurde [Person] wegen [Kapital, Stimmen, vergleichbarer Kontrolle oder Veranlassung] ermittelt. Bei mittelbarer Kontrolle wurde [beherrschender Einfluss] anhand [Beleg] geprüft. Die bloße Multiplikation von Kapitalquoten ersetzt diese Prüfung nicht.
 
-## Prüfschritte
+Nicht abschließend geklärt ist [Stufe oder Recht]. Benötigt wird [konkretes Dokument]. Ein gesetzlicher Vertreter wird nicht allein wegen dieser Lücke als Ersatzperson eingesetzt.
 
-- Verpflichtetenstatus und Aufsicht klären
-- Risiken nach Kunden, Produkten, Ländern, Transaktionen und Kanälen bewerten
-- KYC-/UBO-/PEP-/Sanktionsdaten mit Quellenstand dokumentieren
-- Sorgfaltspflichten, verstärkte Maßnahmen und Monitoring festlegen
-- Verdachts-, Stop-, Freeze- oder Exit-Fragen gesondert entscheiden
-- Arbeitsprodukt, Freigabe und Nachkontrolle dokumentieren
+## 1.3. Zukunftsvergleich nur bei Auftrag
 
-## Ergebnis
-
-- Risikoampel
-- Quellen- und Nachweisliste
-- Entscheidungsvorschlag
-- Freigabe- oder Eskalationspfad
-- Audit-Trail und nächste Schritte
-
-## Qualitätstor
-
-- Sind Verpflichtetenstatus, Aufsicht und Pflichtenkatalog belegt?
-- Sind KYC, UBO, PEP, Sanktionen, Mittelherkunft und Zweck der Geschäftsbeziehung dokumentiert?
-- Sind Treffer, False Positives, Eigentum/Kontrolle und Datenlücken nachvollziehbar bewertet?
-- Ist die Entscheidung freigabefähig oder ausdrücklich als nicht freigabefähig markiert?
-- Sind Verdachtsmelde-, Stop-, Freeze-, Exit- und Behördenfragen getrennt entschieden?
+Verordnung (EU) 2024/1624 Artikel 51 bis 54, grundsätzlich ab 10. Juli 2027: Eigentum und Kontrolle gesondert prüfen. Artikel 52 erfasst grundsätzlich 25 Prozent oder mehr. Ergebnis ausdrücklich als künftige Einordnung kennzeichnen; heutige Akte nicht rückwirkend umschreiben.

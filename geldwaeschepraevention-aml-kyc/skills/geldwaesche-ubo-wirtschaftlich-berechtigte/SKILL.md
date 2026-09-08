@@ -1,62 +1,44 @@
 ---
 name: geldwaesche-ubo-wirtschaftlich-berechtigte
-description: "Für Wirtschaftlich Berechtigte und UBO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Entwirrt Beteiligungs- und Kontrollketten für die Feststellung wirtschaftlich Berechtigter. Prüft Stimmrechte, Treuhand und beherrschenden Einfluss und trennt den heutigen GwG-Test von der ab 2027 vorgesehenen Eigentumsberechnung."
 ---
 
-# Wirtschaftlich Berechtigte und UBO
+# 1. Wirtschaftlich Berechtigte ermitteln
 
-## Arbeitsbereich
+## 1. Zweck und Anwendungsfall
 
-Ermittlung wirtschaftlich Berechtigter UBO Kontrollketten und Trust-Stiftungsstrukturen nach GwG. Anwendungsfall neue Geschäftsbeziehung mit Unternehmen und wirtschaftlich Berechtigte müssen identifiziert werden. Normen § 3 GwG wirtschaftlich Berechtigter § 11 GwG Identifizierungspflicht § 20 GwG Transparenzregister. Prüfraster Eigentumsanteile ab 25 Prozent Kontrollketten Trust-Strukturen Stiftungen Nominees Transparenzregisterdaten. Output UBO-Struktur-Diagramm mit Eigentumsanteilen Kontrollrechten und KYC-Dokumentation für Akte. Abgrenzung zu geldwäsche-transparenzregister und geldwäsche-pep-hochrisikoland. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Für mehrstufige Gesellschaften, Treuhand, Stimmrechtsbindungen und widersprüchliche Registerangaben. Nicht bloß die Gesellschafterliste abschreiben.
 
-## Arbeitsweg
+## 2. Eingaben
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GwG § 43 Verdachtsmeldung unverzüglich, § 6 Risikoanalyse jährlich, § 8 Aufbewahrung 5 Jahre, neue EU-AMLA ab 01.07.2025 operativ.
-- Tragende Normen verifizieren: GwG §§ 1-59, EU-Geldwäsche-RL (5. und 6. AML), EU AML-Paket 2024 (VO 2024/1624, RL 2024/1640, AMLA-VO), KWG, ZAG, BörsG, BaFin-AuA, FATF-Empfehlungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (§ 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse, KYC-Akte, Verdachtsmeldung an FIU, Schulungsdokumentation, Geldwäschebeauftragter-Bestellung, BaFin-Meldungen, Sanktionslisten-Check — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Aktuelle Beteiligungsliste, Satzung, Stimmrechtsvereinbarungen und Angaben zu zwischengeschalteten Einheiten. Prozente, Stichtag und Beleg je Kante übernehmen. Ausländische Rechtsformen nicht ohne Prüfung mit einer deutschen GmbH gleichsetzen.
 
-## Triage zu Beginn
-1. Handelt es sich um eine einfache oder komplexe Eigentumsstruktur (Ketten, Trusts, Stiftungen, Nominees)?
-2. Welche Quellen für die UBO-Ermittlung stehen zur Verfuegung: Transparenzregister, KYC-Dokumente, Registerauszuege?
-3. Liegt ein Nominee-Hinweis oder eine Treuhandstruktur vor, die transparent gemacht werden muss?
-4. Gibt es Indikatoren dafür, dass der angegebene UBO nicht der tatsaechliche wirtschaftlich Berechtigte ist?
+## 3. Ablauf
 
-## Zentrale Normen
-- § 3 GwG — Wirtschaftlich Berechtigter: Definition und 25-Prozent-Schwelle
-- § 13 GwG — Pflicht zur Ermittlung des wirtschaftlich Berechtigten
-- § 19 GwG — Transparenzregister: fiktiver wirtschaftlich Berechtigter bei fehlender Identifizierbarkeit
-- Art. 3 AMLD5 — UBO-Definitionen im EU-Recht (Erweiterungen auf Trusts und Stiftungen)
+### 3.1. Kette darstellen
 
-## Normfokus und Praxis (UBO-Ermittlung)
-- 25 %-Schwelle (§ 3 Abs. 2 GwG): direkt oder mittelbar Kapital-/Stimmrechtsmehrheit oder vergleichbare Kontrolle (z. B. Aufsichtsratsbestimmungsrecht, Gewinnverteilung). Bei mehrstufigen Beteiligungen Multiplikationsprinzip (z. B. 60 % x 50 % = 30 % indirekt — UBO).
-- Fiktiver UBO (§ 3 Abs. 2 Satz 5 GwG): wenn kein natürlicher UBO ermittelbar oder keine 25 % erreicht, gilt der gesetzliche Vertreter (Geschäftsführer, Vorstand) als fiktiver UBO; dies entbindet aber nicht von der Pflicht, alle Versuche zur Ermittlung zu dokumentieren.
-- Trusts/Stiftungen (§ 3 Abs. 3 GwG): jeder Treugeber, Treuhänder, Protector, Begünstigter und Person mit Bestimmungsbefugnis. Bei diskretionären Trusts: gesamte Begünstigtenklasse.
-- EuGH 22.11.2022 (C-37/20, C-601/20, WM): öffentlicher Zugang zum Transparenzregister durch jedermann nicht zulässig — seitdem berechtigtes Interesse erforderlich (§ 23 GwG); kommerzielle Datenanbieter dürfen Daten nur eingeschränkt nutzen.
-- Praktiker-Tipp: UBO-Diagramm erstellen mit Eigentumsanteilen, Kontrollrechten, ggf. Aktionärsvereinbarungen; Quellen dokumentieren (Handelsregister, Transparenzregister, KYC-Fragebogen, Gesellschaftsvertrag, Aktionärsregister); bei Diskrepanz Transparenzregister vs. KYC: Mitteilungsmeldung an Bundesanzeiger (§ 23a GwG, Discrepancy Reporting) zwingend.
+Eine Tabelle mit Beteiligtem, Zielgesellschaft, Kapital, Stimmen, Sonderrechten und Fundstelle erstellen. Darunter ein lesbares Baumdiagramm als Text, das dieselben Beziehungen zeigt. Unbekannte Zwischenstufen ausdrücklich offen lassen; keine grafisch geschlossene Kette erfinden.
 
-## Wann verwenden
+### 3.2. Heutigen Maßstab anwenden
 
-- wenn ein neues AML/KYC-, GwG-, Sanktions- oder Compliance-Thema aufgenommen wird
-- wenn Kunden, wirtschaftlich Berechtigte, Transaktionen, Länder, Produkte oder Vertriebskanäle risikobasiert geprüft werden müssen
-- wenn ein Alert, Treffer, Behördenkontakt, Verdachtsmoment, Pressefall oder Remediation-Projekt vorliegt
+GwG Paragraf 3 Absatz 2: mehr als 25 Prozent Kapital oder Stimmen sowie vergleichbare Kontrolle prüfen. Bei mittelbarer Kontrolle beherrschenden Einfluss und den Verweis auf HGB Paragraf 290 Absatz 2 bis 4 beachten. Eine Rechnung „60 Prozent mal 40 Prozent gleich 24 Prozent, deshalb kein wirtschaftlich Berechtigter“ ist kein vollständiger Kontrolltest. Treuhand und Handeln auf Veranlassung zusätzlich berücksichtigen.
 
-## Rückfragen, wenn unklar
+### 3.3. Ersatzperson nicht vorschnell einsetzen
 
-- Welche Branche, Rolle und Aufsichtszuständigkeit hat der Mandant?
-- Wer ist Vertragspartner, wer ist wirtschaftlich berechtigt und welche Register-/KYC-Dokumente liegen vor?
-- Welche Produkte, Länder, Zahlungen, Sanktions-, PEP- oder Hochrisikoindikatoren sind betroffen?
-- Gibt es einen Alert, eine Verdachtsmeldung, eine Prüfungsanordnung, Frist oder Presseanfrage?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+Gesetzlicher Vertreter als wirtschaftlich Berechtigter erst nach umfassender erfolgloser Prüfung und den gesetzlichen Voraussetzungen, insbesondere ohne Tatsachen nach Paragraf 43 Absatz 1. Dokumentiere die untersuchten Wege. Eine verweigerte Eigentümerauskunft nicht durch Eintragung des Geschäftsführers neutralisieren.
 
-## Typische Fehler vermeiden
+### 3.4. Zukunftsvergleich getrennt rechnen
 
-- Keine KYC-Freigabe ohne dokumentierte Identifizierung, Zweck, UBO, Risikoeinstufung und offene Nachweise.
-- Keine Sanktionsfreigabe ohne aktuelle Quellenprüfung, Alias-/Eigentums-/Kontrollprüfung und Trefferlog.
-- Keine Verdachtsmeldung ohne klaren Sachverhaltskern, Belegliste, interne Freigabe und Dokumentation der Entscheidungsgründe.
-- Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
-- Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
-- Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+Nur bei Umstellungsauftrag zusätzlich Verordnung (EU) 2024/1624 Artikel 51 bis 54 anwenden: grundsätzlich 25 Prozent oder mehr nach Artikel 52 und zusätzliche Kontrolle. Eigentumsquoten und Kontrolltest getrennt ausweisen. Spalte „ab 10. Juli 2027“ nicht zur heutigen Kundenentscheidung machen.
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+## 4. Quellenpflicht
+
+[GwG Paragraf 3](https://www.gesetze-im-internet.de/gwg_2017/__3.html) und [EU-Quellenkarte](../../references/rechtsstand-2026-und-eu-uebergang.md). Registerzugangsrechtsprechung C-37/20 und C-601/20 hebt diese Ermittlungspflichten nicht auf.
+
+## 5. Ausgabeformat
+
+Begründeter Eigentümervermerk mit nachvollziehbarer Kette und einer gezielten Nachforderung je offener Kontrollstufe. Vollständige Sätze, Times New Roman 11 pt, dezimale Gliederung. Keine alleinige Namensliste ohne Herleitung.
+
+## 6. Beispiele
+
+Vier Gesellschafter zu je 25 Prozent ohne Sonderrechte: heutigen Schwellen- und Kontrolltest prüfen; für 2027 den geänderten Eigentumsmaßstab gesondert zeigen. Ein Stimmbindungsvertrag kann die heutige Einordnung verändern.

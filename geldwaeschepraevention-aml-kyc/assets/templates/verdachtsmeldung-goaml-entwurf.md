@@ -1,56 +1,30 @@
-# Verdachtsmeldung-goAML-Entwurf
+# 1. Vorbereitung einer FIU-Meldung
 
-## Zweck
+Dieses Blatt ist kein amtliches Formular und keine Eingangsbestätigung. Vor Übermittlung GwG Paragraf 43, Paragraf 45 und GwGMeldV Paragrafen 2 und 3 prüfen.
 
-Sachverhaltskern, Beteiligte, Transaktionen, Anlagen, Frist und Freigabe.
+## 1.1. Vorgang und Verantwortlichkeit
 
-## Eingaben
+Eigenes Bezugskennzeichen: [Zeichen]. Bearbeitungsstand: [Datum und Uhrzeit]. Auslösende Information erhalten am [Zeitpunkt] durch [Person]. Befugter Einreicher: [Name]. Bei dessen Abwesenheit übernimmt [Vertreter]. Frühere zusammenhängende Meldung: [eigenes Zeichen und tatsächlich bekanntes FIU-Zeichen oder keine].
 
-- Mandant, Branche und Rolle
-- Kunde, wirtschaftlich Berechtigte und Registerquellen
-- Produkt, Dienstleistung, Transaktion und Länderbezug
-- Sanktions-, PEP-, Hochrisiko- und Mittelherkunftsdaten
-- Frist, Behörde, Alert oder Presseanfrage
-- vorhandene Nachweise und offene Datenpunkte
+## 1.2. Datenfelder
 
-## Arbeitsblatt
+| Angabe | Belegter Inhalt | Originalquelle |
+| --- | --- | --- |
+| Vertragspartner und auftretende Person | [Getrennte Angaben] | [Datei und Seite] |
+| Wirtschaftlich Berechtigte | [Personen und Herleitung] | [Strukturnachweis] |
+| Beteiligte Konten | [Inhaber, Kennung, Institut soweit bekannt] | [Kontobeleg] |
+| Transaktion | [Betrag, Währung, Datum, Richtung und Status] | [Zahlungsbeleg] |
+| Relevante Immobilie | [Vorhandene erforderliche Objektdaten] | [Urkunde] |
+| Meldegrund | [Passender angebotener Grund] | [Auslösende Tatsache] |
 
-| Feld | Eintrag |
-| --- | --- |
-| Mandant / Einheit | |
-| Branche / Verpflichtetenstatus | |
-| Kunde / Vertragspartner | |
-| Wirtschaftlich Berechtigte | |
-| Produkt / Dienstleistung / Transaktion | |
-| Länderbezug | |
-| PEP / Sanktionen / Hochrisikoindikatoren | |
-| Mittelherkunft / Vermögensherkunft | |
-| Behörde / Aktenzeichen / Frist | |
-| Quellen geprüft am | |
-| Risikoampel | |
-| Entscheidung / nächste Handlung | |
+Unbekannte Angaben bleiben ausdrücklich unbekannt. Erforderliche vorhandene Daten in die vorgesehenen Felder übertragen, nicht allein in den Freitext.
 
-## Prüfschritte
+## 1.3. Sachverhaltsdarstellung
 
-- Verpflichtetenstatus und Aufsicht klären
-- Risiken nach Kunden, Produkten, Ländern, Transaktionen und Kanälen bewerten
-- KYC-/UBO-/PEP-/Sanktionsdaten mit Quellenstand dokumentieren
-- Sorgfaltspflichten, verstärkte Maßnahmen und Monitoring festlegen
-- Verdachts-, Stop-, Freeze- oder Exit-Fragen gesondert entscheiden
-- Arbeitsprodukt, Freigabe und Nachkontrolle dokumentieren
+Am [Datum] erhielt [Verpflichteter] von [Quelle] die Information, dass [konkretes Ereignis]. Die Zahlung über [Betrag und Währung] betrifft [Geschäft] und ist [ausgeführt oder geplant]. Auffällig ist [Tatsache], weil [konkreter Bezug zum Geschäft]. Als Erklärung liegt [Fremdangabe mit Quelle] vor. Dem steht [belegter Gegenbefund] gegenüber. Nicht bekannt ist [entscheidende Information].
 
-## Ergebnis
+Die Meldeschwelle wurde unter Berücksichtigung von [Tatsachen] geprüft. Beratungsinformationen und etwaige Rückausnahmen nach Paragraf 43 Absatz 2 wurden gesondert eingeordnet. Nicht zusammenhängende Vorgänge werden nicht beigefügt.
 
-- Risikoampel
-- Quellen- und Nachweisliste
-- Entscheidungsvorschlag
-- Freigabe- oder Eskalationspfad
-- Audit-Trail und nächste Schritte
+## 1.4. Anlagen und Übermittlung
 
-## Qualitätstor
-
-- Sind Verpflichtetenstatus, Aufsicht und Pflichtenkatalog belegt?
-- Sind KYC, UBO, PEP, Sanktionen, Mittelherkunft und Zweck der Geschäftsbeziehung dokumentiert?
-- Sind Treffer, False Positives, Eigentum/Kontrolle und Datenlücken nachvollziehbar bewertet?
-- Ist die Entscheidung freigabefähig oder ausdrücklich als nicht freigabefähig markiert?
-- Sind Verdachtsmelde-, Stop-, Freeze-, Exit- und Behördenfragen getrennt entschieden?
+Nur erforderliche Anlagen mit Dateiname und Aussage aufnehmen. Abgang, technische Rückmeldung, gegebenenfalls Zurückweisung und Nachreichung nach der tatsächlichen Übermittlung dokumentieren. Ein Entwurf bleibt als solcher bezeichnet. Vollzugsfolgen und Informationsverbot getrennt prüfen; keine automatische Kundenbenachrichtigung.

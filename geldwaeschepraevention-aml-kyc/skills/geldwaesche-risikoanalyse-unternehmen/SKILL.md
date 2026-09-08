@@ -1,63 +1,40 @@
 ---
 name: geldwaesche-risikoanalyse-unternehmen
-description: "Für Unternehmensweite Risikoanalyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Erstellt oder aktualisiert eine betriebsbezogene GwG-Risikoanalyse aus Kundenmix, Leistungen, Zahlungswegen und Kontrollergebnissen. Bewertet konkrete Risiken und Wirksamkeit, ohne jede Kanzlei wie eine Großbank zu behandeln."
 ---
 
-# Unternehmensweite Risikoanalyse
+# 1. Risikoanalyse aus dem tatsächlichen Betrieb
 
-## Arbeitsbereich
+## 1. Zweck und Anwendungsfall
 
-Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für Verpflichtete. Anwendungsfall Unternehmen muss gesetzlich vorgeschriebene Risikoanalyse erstellen oder aktualisieren. Normen § 5 GwG Risikoanalyse § 6 GwG interne Sicherungsmassnahmen FATF-Empfehlungen BaFin-AuA. Prüfraster Produkte Kundenstruktur Länder Vertriebskanaele Transaktionen bestehende Kontrollen Risikoniveau. Output Risikoanalysedokument mit Risikoklassifizierung Kontrolllueckenbewertung und Maßnahmenplan für Behördenvorlage. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Für eine erstmalige Analyse oder eine wesentliche Änderung von Geschäftsmodell, Vertrieb oder Zahlungswegen. Ein einzelner Kundenalarm bleibt im Monitoring, sofern er keine systemische Schwäche zeigt.
 
-## Arbeitsweg
+## 2. Eingaben
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GwG § 43 Verdachtsmeldung unverzüglich, § 6 Risikoanalyse jährlich, § 8 Aufbewahrung 5 Jahre, neue EU-AMLA ab 01.07.2025 operativ.
-- Tragende Normen verifizieren: GwG §§ 1-59, EU-Geldwäsche-RL (5. und 6. AML), EU AML-Paket 2024 (VO 2024/1624, RL 2024/1640, AMLA-VO), KWG, ZAG, BörsG, BaFin-AuA, FATF-Empfehlungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (§ 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse, KYC-Akte, Verdachtsmeldung an FIU, Schulungsdokumentation, Geldwäschebeauftragter-Bestellung, BaFin-Meldungen, Sanktionslisten-Check — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Verpflichtetenstatus, Geschäftsbereiche, Kundengruppen, Länder, Umsatz- und Transaktionsverteilung, bisherige Auffälligkeiten und Kontrollen. Mit vorhandenen Berichten beginnen; keine hunderte Einzelfallakten ohne Grund öffnen.
 
-## Triage zu Beginn
-1. Welche Branche und welche Verpflichteten-Kategorie trifft die Risikoanalyse?
-2. Welche Risikofelder sollen abgedeckt werden: Kunden, Produkte, Vertriebskanaele, Länder, Transaktionen?
-3. Liegt bereits eine Risikoanalyse vor, die aktualisiert werden soll, oder wird sie erstmalig erstellt?
-4. Gibt es eine spezifische BaFin-/Aufsichtsvorgabe oder FATF-Leitlinie für diesen Sektor?
+## 3. Ablauf
 
-## Aktuelle Rechtsprechung und Behördenpraxis
+### 3.1. Umfang und Ausnahmen bestimmen
 
-Stand 05/2026:
+GwG Paragraf 4 und Paragraf 5 sowie sektorspezifische Ausnahmen prüfen. Eine Befreiung von der Dokumentation nach Paragraf 5 Absatz 4 ist keine Befreiung von sämtlicher Prävention. Reinen Güterhandel anhand eigener Regeln behandeln.
 
-- BaFin-AuA GwG (Allgemeiner Teil, AuA AT) — Veröffentlichung 29.11.2024; Ergänzung 06.03.2025 (Kryptowertetransfers, selbst gehostete Adressen) — anwendbar seit Februar 2025 — [bafin.de](https://www.bafin.de/SharedDocs/Downloads/DE/Auslegungsentscheidung/dl-ae-auas-2025-gw.html).
-- EuGH, Urt. v. 13.02.2025 — C-383/23 (ILVA) — Unternehmensbegriff im wettbewerbsrechtlichen Sinne für DSGVO-Bußgeldobergrenze; methodisch übertragbar auf Bußgelder anderer EU-Sekundärrechtsakte mit ähnlicher Bußgeldsystematik.
-- AMLA seit 01.07.2025 operativ; AMLR (EU) 2024/1624 ab 10.07.2027 anwendbar; Risikoanalyse-Anforderungen sind weiter strukturiert (Art. 7 ff. AMLR) — strategisch Migrationsplan anlegen.
+### 3.2. Risiken und Kontrollen verbinden
 
-Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwissen.
+Jedes Risiko an eine tatsächliche Leistung knüpfen: Fremdgeldweiterleitung, Immobilienabwicklung, Bargeldannahme oder komplexe Eigentumskette. Eintrittsmöglichkeit und Auswirkung nachvollziehbar beurteilen, danach konkrete Kontrolle und Wirksamkeitsbeleg. Niedriges Volumen allein beseitigt kein hohes Einzelrisiko. Keine frei erfundenen Prozentwahrscheinlichkeiten.
 
-## Zentrale Normen
-- § 5 GwG — Unternehmenseigene Risikoanalyse: Pflichtinhalt und Aktualisierung
-- § 4 Abs. 1 GwG — Interne Sicherungsmaßnahmen als Folge der Risikoanalyse
-- FATF Guidance — Risk-Based Approach für Finanzinstitutionen (2021)
-- BaFin-Auslegungs- und Anwendungshinweise (AuA) GwG — Risikoanalysevorgaben
+### 3.3. Maßnahmen priorisieren
 
-## Wann verwenden
+Erst Lücken mit unmittelbar möglichem Schaden schließen: ungeprüfte Auszahlungen, fehlende Vertretung im Meldeweg, unlesbare Identitätsbelege. Verantwortlichen, Umsetzungstermin und Nachweis festlegen. Review regelmäßig und anlassbezogen nach Paragraf 5 Absatz 2; zusätzliche Aufsichtsvorgaben gesondert angeben statt ein universelles Jahresgesetz zu behaupten.
 
-- wenn ein neues AML/KYC-, GwG-, Sanktions- oder Compliance-Thema aufgenommen wird
-- wenn Kunden, wirtschaftlich Berechtigte, Transaktionen, Länder, Produkte oder Vertriebskanäle risikobasiert geprüft werden müssen
-- wenn ein Alert, Treffer, Behördenkontakt, Verdachtsmoment, Pressefall oder Remediation-Projekt vorliegt
+## 4. Quellenpflicht
 
-## Rückfragen, wenn unklar
+GwG Paragraf 5, Anlagen 1 und 2, nationale Risikoanalyse sowie zuständige Aufsicht. [Rechtsstand](../../references/rechtsstand-2026-und-eu-uebergang.md). EU-Umstellung als künftiges Vorhaben separat, nicht in die heutige Erfüllungsbehauptung mischen.
 
-- Welche Branche, Rolle und Aufsichtszuständigkeit hat der Mandant?
-- Wer ist Vertragspartner, wer ist wirtschaftlich berechtigt und welche Register-/KYC-Dokumente liegen vor?
-- Welche Produkte, Länder, Zahlungen, Sanktions-, PEP- oder Hochrisikoindikatoren sind betroffen?
-- Gibt es einen Alert, eine Verdachtsmeldung, eine Prüfungsanordnung, Frist oder Presseanfrage?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+## 5. Ausgabeformat
 
-## Typische Fehler vermeiden
+Vollständig begründete Risikoanalyse mit knapper Tabelle zu Geschäft, Risiko, Kontrolle, Nachweis und verbleibender Lücke; Freigabevorlage an die Leitung. Times New Roman 11 pt, dezimale Gliederung.
 
-- Keine KYC-Freigabe ohne dokumentierte Identifizierung, Zweck, UBO, Risikoeinstufung und offene Nachweise.
-- Keine Sanktionsfreigabe ohne aktuelle Quellenprüfung, Alias-/Eigentums-/Kontrollprüfung und Trefferlog.
-- Keine Verdachtsmeldung ohne klaren Sachverhaltskern, Belegliste, interne Freigabe und Dokumentation der Entscheidungsgründe.
-- Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
-- Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
-- Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+## 6. Beispiele
+
+Eine Kanzlei übernimmt erstmals regelmäßig Kaufpreisabwicklungen. Die Analyse ergänzt Zahlungswege und Vertretung, statt unverändert eine Banken-Vorlage mit Filial- und Automatenrisiken zu übernehmen.

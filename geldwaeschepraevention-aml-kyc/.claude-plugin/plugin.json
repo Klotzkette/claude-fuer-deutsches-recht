@@ -1,7 +1,7 @@
 {
   "name": "geldwaeschepraevention-aml-kyc",
-  "version": "443.6.0",
-  "description": "Freistehendes Plugin für Geldwäscheprävention, AML, KYC, GwG-Risikoanalyse, UBO, PEP, Sanktionen, FIU/goAML, Transparenzregister und Behördenverfahren.",
+  "version": "444.0.0",
+  "description": "Geldwaeschepruefung in Kanzlei, Unternehmen und Notariat: 20 Fachablaeufe fuer Verpflichtetenstatus, KYC, UBO, Immobilienzahlungen, FIU-Meldung, Kontrollen und EU-Umstellung. Geltendes Recht 2026 und Pflichten ab 2027 bleiben getrennt.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",

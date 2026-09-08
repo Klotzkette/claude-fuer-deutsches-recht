@@ -1,0 +1,32 @@
+Donauwerk Gebrauchtmaschinen GmbH
+Buchhaltung - Zahlungsübersicht Auftrag DW-26-094
+Zusammengestellt von Derya Özdemir am 7. September 2026, 08:20 Uhr
+
+Rechnungsbetrag brutto: 29750,00 EUR
+Kunde: Hohenrain Metalltechnik GmbH
+
+31.08.2026, 11:16 Uhr
+Barzahlung 4000,00 EUR
+Überbringer: Patrick Krüger
+Quittung: K-260831-07
+Auftrag DW-26-094, erste Anzahlung
+Angenommen durch Sabine Reuter
+
+02.09.2026, 15:42 Uhr
+Barzahlung 3500,00 EUR
+Überbringer: Patrick Krüger
+Quittung: K-260902-12
+Auftrag DW-26-094, zweite Anzahlung
+Angenommen durch Sabine Reuter
+
+04.09.2026, 09:05 Uhr
+Barzahlung 3000,00 EUR
+Überbringer: Patrick Krüger
+Quittung: K-260904-03
+Auftrag DW-26-094, dritte Anzahlung
+Angenommen durch Tim Berger
+
+Summe Barzahlungen: 10500,00 EUR
+Die Quittungen wurden mit derselben Kundennummer 2087 gebucht.
+Die Maschine ist noch nicht abgeholt. Die Identitätsunterlagen zum
+Überbringer liegen nicht bei diesem Kassenblatt.

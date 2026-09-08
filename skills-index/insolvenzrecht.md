@@ -1,6 +1,6 @@
 # insolvenzrecht
 
-**98 Skills** · Stand `v443.6.0`
+**98 Skills** · Stand `v444.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../insolvenzrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

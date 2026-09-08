@@ -1,68 +1,40 @@
 ---
 name: geldwaesche-sanktionsscreening
-description: "Für Sanktionslistenprüfung und Embargoabgleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Bearbeitet konkrete Sanktionsnamens- und Kontrolltreffer. Prüft Identität, Eigentum, Rechtsakt und Bereitstellungsverbot und trennt echte Sperren von Namensgleichheit, PEP-Hinweisen und Geldwäsche-Wartefristen."
 ---
 
-# Sanktionslistenprüfung und Embargoabgleich
+# 1. Sanktionshinweis belastbar prüfen
 
-## Triage zu Beginn
-1. Welche Sanktionslisten sollen geprueft werden: EU, OFAC, UN, nationale Listen?
-2. Liegt ein True-Hit oder ein False-Positive vor — und welche Dokumentation gibt es bereits?
-3. Sind Eigentuems- oder Kontrollbeziehungen zum Sanctioned Entity zu pruefen?
-4. Gibt es eine Transaktionssperr-Pflicht oder eine Verdachtsmeldepflicht ausloesende Treffer?
+## 1. Zweck und Anwendungsfall
 
-## Zentrale Normen
-- Art. 2 EU-VO 2580/2001 — Einfrierungspflicht: sofortige Sperrung bei Sanktionstreffer
-- § 25h KWG — Geldwaesche- und Betrugsverhinderung in Kreditinstituten: Screeningpflicht
-- Art. 4 EU-VO 269/2014 (Russlandsanktionen) — aktuelle Sanktionsregeln
-- § 18 AWG — Strafbarkeit bei Verstoss gegen Ausfuhrverbote und Embargos
+Für Treffer bei Kunde, Zahlendem, Empfänger oder kontrollierender Person. Kein allgemeines Embargo-Gutachten ohne Bezug zum Geschäft.
 
-## Quellenregel
+## 2. Eingaben
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
+Originaltreffer, Zeitpunkt, Liste, Personendaten, Eigentumsstruktur, Zahlungsweg und betroffener Gegenstand. Fehlender Zugriff auf aktuelle Listen bleibt eine Freigabelücke.
 
-Prüfe AML/KYC und Sanktions-Compliance gemeinsam, dokumentiere Trefferentscheidungen nachvollziehbar und trenne False Positive, echter Treffer, Freeze-Pflicht und Eskalation.
+## 3. Ablauf
 
-## Wann verwenden
+### 3.1. Identität statt bloßen Namen
 
-- wenn ein neues AML/KYC-, GwG-, Sanktions- oder Compliance-Thema aufgenommen wird
-- wenn Kunden, wirtschaftlich Berechtigte, Transaktionen, Länder, Produkte oder Vertriebskanäle risikobasiert geprüft werden müssen
-- wenn ein Alert, Treffer, Behördenkontakt, Verdachtsmoment, Pressefall oder Remediation-Projekt vorliegt
+Alias, Geburtsdatum, Anschrift und weitere Identifikatoren vergleichen. Treffer, Abweichungen und nicht verfügbare Daten festhalten. Ein unscharfer Treffer darf nicht automatisch zur Behauptung einer Listung werden; ein abweichender Name schließt Kontrolle durch eine gelistete Person nicht aus.
 
-## Arbeitsweise
+### 3.2. Rechtsfolge aus Rechtsakt
 
-1. **Rolle und Pflichtenkreis klären.** Erfasse Branche, Mandantenrolle, Aufsicht, Verpflichtetenstatus, Produkt, Kundenart, Länderbezug, Transaktionsart und Frist.
-2. **Daten sauber ziehen.** Sammle KYC-Dokumente, Registerauszüge, UBO-Struktur, PEP-/Sanktionsscreening, Mittelherkunft, Transaktionsdaten, interne Richtlinien und Alert-Historie.
-3. **Quellenstand protokollieren.** Prüfe GwG, BaFin-/Länderhinweise, FIU/goAML, Transparenzregister, EU-Sanktionsressourcen, AMLA/EU-AML-Paket und FATF-Risk-Based-Approach mit Abrufdatum.
-4. **Risikobasiert entscheiden.** Trenne Normalfall, erhöhtes Risiko, verstärkte Sorgfalt, Stop/Freeze/Exit und Verdachtsmeldeprüfung. Keine automatische Freigabe bei Datenlücken.
-5. **Verzeihend nachziehen.** Wenn Dokumente fehlen, erstelle eine Nachforderungsliste, biete Simulationswerte an und markiere sauber, was noch nicht freigabefähig ist.
-6. **Arbeitsprodukt liefern.** Erzeuge KYC-Vermerk, Risikoanalyse, Trefferlog, Verdachtsmeldungsentwurf, Richtlinie, Schulung, Audit-Finding, Behördenantwort oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Freigaben, Vier-Augen-Prinzip, Quellen, Fristen, Datenschutz, Mandatsgeheimnis, Aufbewahrung, Löschung und Auditierbarkeit.
+Aktuelle anwendbare Sanktionsverordnung und betroffenen Anhang feststellen. Eigentum und Kontrolle nach diesem Regime prüfen, nicht einfach die GwG-Schwelle für wirtschaftlich Berechtigte übernehmen. Bereitstellungsverbote, Einfrieren und gegebenenfalls Genehmigungstatbestand unterscheiden. Zuständige Genehmigungsstelle nach Finanz- oder Güterbezug bestimmen.
 
-## Rückfragen, wenn unklar
+### 3.3. Handeln begrenzen
 
-- Welche Branche, Rolle und Aufsichtszuständigkeit hat der Mandant?
-- Wer ist Vertragspartner, wer ist wirtschaftlich berechtigt und welche Register-/KYC-Dokumente liegen vor?
-- Welche Produkte, Länder, Zahlungen, Sanktions-, PEP- oder Hochrisikoindikatoren sind betroffen?
-- Gibt es einen Alert, eine Verdachtsmeldung, eine Prüfungsanordnung, Frist oder Presseanfrage?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+Bis zur notwendigen Klärung den konkreten Vorgang nicht als freigegeben bezeichnen. Keine eigenmächtige Kontosperre außerhalb bestehender Zuständigkeit auslösen. FIU-Meldeprüfung separat; Ablauf einer GwG-Wartefrist beseitigt kein Sanktionsverbot. Unberechtigte Kundenvorwürfe vermeiden.
 
-## Ausgabeformat
+## 4. Quellenpflicht
 
-- Kurzlage mit Risikoampel und Sofortmaßnahmen
-- KYC-/UBO-/Sanktions- oder Monitoring-Matrix mit Quellenstand
-- Entscheidungsvorschlag mit Freigabe-, Eskalations- oder Stop-Workflow
-- prüfbarer Entwurf für Richtlinie, Verdachtsmeldung, Behördenantwort, Schulung oder Remediation
-- offene Annahmen, fehlende Nachweise und Review-Hinweise
+[EU-Sanktionsressourcen](https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures/overview-sanctions-and-related-resources_en), daraus konkreter Rechtsakt und [Quellenkarte](../../references/rechtsstand-2026-und-eu-uebergang.md). Anbieterlisten sind Recherchehilfe, keine eigenständige Rechtsgrundlage.
 
-## Typische Fehler vermeiden
+## 5. Ausgabeformat
 
-- Keine KYC-Freigabe ohne dokumentierte Identifizierung, Zweck, UBO, Risikoeinstufung und offene Nachweise.
-- Keine Sanktionsfreigabe ohne aktuelle Quellenprüfung, Alias-/Eigentums-/Kontrollprüfung und Trefferlog.
-- Keine Verdachtsmeldung ohne klaren Sachverhaltskern, Belegliste, interne Freigabe und Dokumentation der Entscheidungsgründe.
-- Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
-- Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
-- Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+Ausformulierter Trefferentscheid mit überprüften Identifikatoren, Rechtsakt, Kontrollbeziehung, Entscheidungsträger und Wiedervorlage. Times New Roman 11 pt, dezimale Gliederung. Keine „grüne“ Gesamtfreigabe bei ungeprüfter Kontrollstruktur.
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+## 6. Beispiele
+
+Kunde selbst nicht gelistet, Gesellschafterstruktur aber unvollständig: keine Entwarnung aus einem reinen Namenslauf. Ein nachweislich anderer gleichnamiger Kunde erhält einen begründeten Fehlertreffervermerk.

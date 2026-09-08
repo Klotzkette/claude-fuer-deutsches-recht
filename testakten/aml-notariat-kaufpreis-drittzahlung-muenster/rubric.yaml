@@ -1,0 +1,14 @@
+name: aml-notariat-kaufpreis-drittzahlung-muenster
+plugin: geldwaeschepraevention-aml-kyc
+description: "Notarieller Grundstücksvollzug mit Bankdarlehen, Eigenmitteln, Restzahlung und noch unvollständigen Zahlungsbelegen."
+checks:
+  - id: unterlagen
+    check_type: working_file_count
+    description: "Acht getrennte Originalunterlagen liegen vor."
+    min: 8
+  - id: konsistenz
+    check_type: human_review
+    description: "Namen, Beträge, Zeitpunkte und Zahlungsstände sind über alle Belege konsistent."
+  - id: formate
+    check_type: human_review
+    description: "Originale und beide PDF-Varianten enthalten dieselben Unterlagen ohne Lösungsvorgabe."

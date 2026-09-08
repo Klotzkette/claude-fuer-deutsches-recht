@@ -1167,6 +1167,211 @@
     "reference": "references/zielversorgung-wahlfrist-und-tenor.md"
   },
   {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "aml-kryptotransaktionen-mica-spezial",
+    "new": "geldwaesche-krypto-zahlungsdienstleister"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "aml-kyc-start-chronologie-fristen",
+    "new": "einstieg-routing"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "aml-trade-based-money-laundering-spezial",
+    "new": "geldwaesche-transaktionsmonitoring"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "anschluss-routing",
+    "new": "einstieg-routing"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "awareness-zahlen-schwellen-und-berechnung",
+    "new": "geldwaesche-immobilien-gueterhaendler"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "behoerdenverfahren-schriftsatz-brief-und-memo-bausteine",
+    "new": "geldwaesche-behoerdenverfahren"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "dokumente-intake",
+    "new": "einstieg-routing"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "geldwaesche-audit-internal-datenqualitaet",
+    "new": "geldwaesche-schulung-awareness"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "geldwaesche-bussgeld-reputation",
+    "new": "geldwaesche-behoerdenverfahren"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "geldwaesche-datenqualitaet-register",
+    "new": "geldwaesche-transparenzregister"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "geldwaesche-krypto-zahlungsdienstleister-kyc",
+    "new": "geldwaesche-krypto-zahlungsdienstleister"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "geldwaesche-sicherungsmassnahmen-simulation",
+    "new": "interne-kontrollen-und-beauftragter"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "geldwaesche-simulation-testlauf",
+    "new": "geldwaesche-schulung-awareness"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "geldwaesche-verdachtsmeldung-verpflichteten",
+    "new": "aml-verdachtsmeldung-fiu-leitfaden"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "geldwaesche-verhandlung-vergleich-und-eskalation",
+    "new": "geldwaesche-behoerdenverfahren"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "geldwaeschepraevention-erstpruefung-und-mandatsziel",
+    "new": "einstieg-routing"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "goaml-gwg-spezial-kommandocenter",
+    "new": "aml-verdachtsmeldung-fiu-leitfaden"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "gwg-tatbestand-beweis-und-belege",
+    "new": "geldwaesche-behoerdenverfahren"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "juristischer-argumentationskern",
+    "new": "geldwaesche-behoerdenverfahren"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "kommandocenter-compliance-dokumentation-und-akte",
+    "new": "interne-kontrollen-und-beauftragter"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "livecheck-red-risikoanalyse",
+    "new": "geldwaesche-risikoanalyse-unternehmen"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "onboarding-bauleiter-trade-based",
+    "new": "geldwaesche-transaktionsmonitoring"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "output-waehlen",
+    "new": "einstieg-routing"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "quellen-livecheck",
+    "new": "eu-geldwaescherecht-umstellung-2027"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "rechtsquellen",
+    "new": "eu-geldwaescherecht-umstellung-2027"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "risikoanalyse-geldwaesche-bussgeld",
+    "new": "geldwaesche-behoerdenverfahren"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "risikoanalyse-und-verdachtsmeldeweiche",
+    "new": "aml-verdachtsmeldung-fiu-leitfaden"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "sanktionen-geldwaesche-gruppenweite-aml",
+    "new": "geldwaesche-gruppenweite-compliance"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "schulung-quellenkarte",
+    "new": "geldwaesche-schulung-awareness"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "simulation-mandantenkommunikation-entscheidungsvorlage",
+    "new": "geldwaesche-schulung-awareness"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "sonderfall-edge-geldwaesche",
+    "new": "geldwaesche-verpflichteten-check"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "spezial-schulung-livequellen-und-rechtsprechungscheck",
+    "new": "geldwaesche-schulung-awareness"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "testlauf-beweislast-transaktionsmonitoring",
+    "new": "geldwaesche-transaktionsmonitoring"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "transaktionsmonitoring-international-schnittstellen",
+    "new": "geldwaesche-transaktionsmonitoring"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "transparenzregister-behoerden-gericht-und-registerweg",
+    "new": "geldwaesche-transparenzregister"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "unterlagen-luecken",
+    "new": "geldwaesche-kyc-onboarding"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "verdachtsmeldung-mehrparteien-konflikt-und-interessen",
+    "new": "kanzleimandat-und-berufsgeheimnis"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "workflow-chronologie-und-belegmatrix",
+    "new": "geldwaesche-transaktionsmonitoring"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "workflow-fristen-und-risikoampel",
+    "new": "geldwaesche-transaktionsstopp-freeze"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "workflow-kaltstart-und-routing",
+    "new": "einstieg-routing"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "old": "workflow-unterlagen-lueckenliste",
+    "new": "geldwaesche-kyc-onboarding"
+  },
+  {
     "plugin": "grosskanzlei-corporate-ma",
     "old": "antitrust-gun",
     "new": "fusionskontrolle-vollzugsverbot-clean-team"

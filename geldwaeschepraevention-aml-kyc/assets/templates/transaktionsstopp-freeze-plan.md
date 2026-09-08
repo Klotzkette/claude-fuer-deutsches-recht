@@ -1,56 +1,28 @@
-# Transaktionsstopp- und Freeze-Plan
+# 1. Vollzugs- und Fristenvermerk
 
-## Zweck
+Vorgang: [Geschäft]. Zu prüfende Handlung: [Zahlung oder Einreichung]. Geplanter Zeitpunkt: [Datum und Uhrzeit]. Verantwortlicher: [Name].
 
-Nichtdurchführung, Sperre, Restguthaben, Exit und Kommunikationslinie.
+## 1.1. Rechtsgrund getrennt prüfen
 
-## Eingaben
+| Hindernis | Auslöser und Beleg | Wegfallbedingung |
+| --- | --- | --- |
+| GwG Paragraf 46 | [Tatsächlicher Meldungsabgang] | [Zustimmung oder zutreffender Fristablauf ohne Untersagung] |
+| Notarielle Sonderregel | [Paragraf 16a Absatz 3 Nummer 2 einschlägig?] | [Besondere Fünf-Werktage-Prüfung] |
+| Kundenprüfung | [Unerfüllte Pflicht nach Paragraf 10 Absatz 9] | [Nachweis und gesetzliche Ausnahme prüfen] |
+| Sanktion | [Konkreter Rechtsakt und Treffer] | [Keine automatische Erledigung durch GwG-Fristablauf] |
 
-- Mandant, Branche und Rolle
-- Kunde, wirtschaftlich Berechtigte und Registerquellen
-- Produkt, Dienstleistung, Transaktion und Länderbezug
-- Sanktions-, PEP-, Hochrisiko- und Mittelherkunftsdaten
-- Frist, Behörde, Alert oder Presseanfrage
-- vorhandene Nachweise und offene Datenpunkte
+## 1.2. Tageszählung
 
-## Arbeitsblatt
+Abgangstag: [Datum und Nachweis]. Dieser Tag zählt nicht mit. Samstag zählt nicht als Werktag. Feiertage und deren maßgeblichen Bezug feststellen.
 
-| Feld | Eintrag |
-| --- | --- |
-| Mandant / Einheit | |
-| Branche / Verpflichtetenstatus | |
-| Kunde / Vertragspartner | |
-| Wirtschaftlich Berechtigte | |
-| Produkt / Dienstleistung / Transaktion | |
-| Länderbezug | |
-| PEP / Sanktionen / Hochrisikoindikatoren | |
-| Mittelherkunft / Vermögensherkunft | |
-| Behörde / Aktenzeichen / Frist | |
-| Quellen geprüft am | |
-| Risikoampel | |
-| Entscheidung / nächste Handlung | |
+| Datum | Tagestyp | Zählung | Begründung |
+| --- | --- | --- | --- |
+| [Datum] | [Werktag oder Ausnahme] | [Stand] | [Nachweis] |
 
-## Prüfschritte
+Jeden Tag bis zum Ende der drei beziehungsweise fünf Wartewerktage einzeln eintragen. Ohne frühere Zustimmung nicht schon zu Beginn des letzten Wartewerktags ausführen.
 
-- Verpflichtetenstatus und Aufsicht klären
-- Risiken nach Kunden, Produkten, Ländern, Transaktionen und Kanälen bewerten
-- KYC-/UBO-/PEP-/Sanktionsdaten mit Quellenstand dokumentieren
-- Sorgfaltspflichten, verstärkte Maßnahmen und Monitoring festlegen
-- Verdachts-, Stop-, Freeze- oder Exit-Fragen gesondert entscheiden
-- Arbeitsprodukt, Freigabe und Nachkontrolle dokumentieren
+## 1.3. Entscheidung und Kommunikation
 
-## Ergebnis
+Die Handlung ist derzeit [nicht ausführbar oder nach belegter Prüfung ausführbar], weil [konkrete Grundlage]. Andere Hindernisse wurden gesondert geprüft: [Ergebnis]. Eine Ausnahme nach Paragraf 46 Absatz 2 wird nur mit dokumentierten Tatsachen und unverzüglicher Nachmeldung genutzt. Gewöhnlicher Termindruck genügt nicht.
 
-- Risikoampel
-- Quellen- und Nachweisliste
-- Entscheidungsvorschlag
-- Freigabe- oder Eskalationspfad
-- Audit-Trail und nächste Schritte
-
-## Qualitätstor
-
-- Sind Verpflichtetenstatus, Aufsicht und Pflichtenkatalog belegt?
-- Sind KYC, UBO, PEP, Sanktionen, Mittelherkunft und Zweck der Geschäftsbeziehung dokumentiert?
-- Sind Treffer, False Positives, Eigentum/Kontrolle und Datenlücken nachvollziehbar bewertet?
-- Ist die Entscheidung freigabefähig oder ausdrücklich als nicht freigabefähig markiert?
-- Sind Verdachtsmelde-, Stop-, Freeze-, Exit- und Behördenfragen getrennt entschieden?
+Außenkommunikation wurde anhand Paragraf 47 geprüft. Tatsächliche Entscheidung: [Name, Zeitpunkt und Beleg]. Eine technische Eingangsbestätigung ist keine behördliche Unbedenklichkeitserklärung.

@@ -1,55 +1,40 @@
 ---
 name: geldwaesche-transaktionsmonitoring
-description: "Für Transaktionsmonitoring und Red Flags: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Untersucht auffällige Zahlungen, Teilbeträge, Rückerstattungen und Warenströme im Vergleich zum Kundenprofil. Verknüpft Kontoauszug, Vertrag und Beleg und bereitet begründete Erledigung oder zeitnahe Meldeprüfung vor."
 ---
 
-# Transaktionsmonitoring und Red Flags
+# 1. Zahlungsauffälligkeit untersuchen
 
-## Arbeitsbereich
+## 1. Zweck und Anwendungsfall
 
-Erkennung auffälliger Transaktionsmuster und Red-Flags im Zahlungsverkehr nach GwG. Anwendungsfall Bank oder Zahlungsdienstleister will Transaktion auf Geldwäscherisiko prüfen. Normen § 10 Abs. 1 Nr. 5 GwG Transaktionsmonitoring § 43 GwG Verdachtsmeldepflicht FATF-Guidance Typologien. Prüfraster Barzahlungen Split-Payments Offshore-Strukturen Durchlaufkonten Round-Tripping ungewoehnliche Geschäftslogik. Output Transaktions-Risikoprotokoll mit Red-Flag-Kennzeichnung Schwellenwertberechnung und Meldeprüfung. Abgrenzung zu geldwäsche-sanktionsscreening und geldwäsche-verdachtsmeldung-fiu-goaml. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Für einen konkreten Alert oder ungewöhnlichen Zahlungslauf. Handelsbezogene Auffälligkeiten werden hier bearbeitet; kein eigener parallel laufender Einstieg.
 
-## Arbeitsweg
+## 2. Eingaben
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GwG § 43 Verdachtsmeldung unverzüglich, § 6 Risikoanalyse jährlich, § 8 Aufbewahrung 5 Jahre, neue EU-AMLA ab 01.07.2025 operativ.
-- Tragende Normen verifizieren: GwG §§ 1-59, EU-Geldwäsche-RL (5. und 6. AML), EU AML-Paket 2024 (VO 2024/1624, RL 2024/1640, AMLA-VO), KWG, ZAG, BörsG, BaFin-AuA, FATF-Empfehlungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (§ 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse, KYC-Akte, Verdachtsmeldung an FIU, Schulungsdokumentation, Geldwäschebeauftragter-Bestellung, BaFin-Meldungen, Sanktionslisten-Check — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Vertrag, Rechnung, Lieferbeleg, Kontoauszug und Kundenprofil. Stornos, Valuta und Buchungstag unterscheiden. Nicht aus einer Summenliste erfinden, wer tatsächlich gezahlt hat.
 
-## Triage zu Beginn
-1. Handelt es sich um einen automatisierten Alert oder eine manuelle Auffaelligkeit?
-2. Welche Muster sind erkannt: Smurfing, Roundtripping, Cash Structuring, Offshore-Routing?
-3. Gibt es historische Transaktionsdaten für einen Musterabgleich (90-Tage-Fenster, Jahresdurchschnitt)?
-4. Liegt der Alert bereits bei FIU-Meldepflicht-Schwelle oder noch in Pre-Suspicion-Phase?
+## 3. Ablauf
 
-## Zentrale Normen
-- § 25h KWG — Pflicht zur Einrichtung Transaktionsmonitoring für Kreditinstitute
-- § 43 GwG — Meldepflicht bei Verdacht; Monitoring als Fruehwarnsystem
-- BaFin-Rundschreiben 5/2021 (BA) — Anforderungen an Transaktionsmonitoring-Systeme
-- FATF Typologies Report 2022 — Aktuelle Geldwäsche-Transaktionsmuster
+### 3.1. Zahlungsfluss rekonstruieren
 
-## Wann verwenden
+Zahler, Empfänger, Zweck, Betrag, Währung, Zeit und Belegnummer aufeinander beziehen. Verbundene Teilzahlungen nach GwG Paragraf 1 Absatz 5 zusammen betrachten. Überzahlung und Rückzahlung nicht nur saldieren: Ein- und Ausgangskonten bleiben sichtbar.
 
-- wenn ein neues AML/KYC-, GwG-, Sanktions- oder Compliance-Thema aufgenommen wird
-- wenn Kunden, wirtschaftlich Berechtigte, Transaktionen, Länder, Produkte oder Vertriebskanäle risikobasiert geprüft werden müssen
-- wenn ein Alert, Treffer, Behördenkontakt, Verdachtsmoment, Pressefall oder Remediation-Projekt vorliegt
+### 3.2. Wirtschaftlichen Grund prüfen
 
-## Rückfragen, wenn unklar
+Mit Kundenprofil und tatsächlicher Leistung vergleichen. Bei Warenhandel Menge, Einzelpreis, Lieferort, Vertragspartner und Transportdokument kontrollieren. Rechnungsberichtigung, Konzernzahlung oder Rückabwicklung können erklärbar sein, brauchen aber Belege. Kein Verdacht allein aufgrund internationaler Tätigkeit.
 
-- Welche Branche, Rolle und Aufsichtszuständigkeit hat der Mandant?
-- Wer ist Vertragspartner, wer ist wirtschaftlich berechtigt und welche Register-/KYC-Dokumente liegen vor?
-- Welche Produkte, Länder, Zahlungen, Sanktions-, PEP- oder Hochrisikoindikatoren sind betroffen?
-- Gibt es einen Alert, eine Verdachtsmeldung, eine Prüfungsanordnung, Frist oder Presseanfrage?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+### 3.3. Verdacht rechtzeitig abzweigen
 
-## Typische Fehler vermeiden
+Ungewöhnliche komplexe Transaktion nach Paragraf 15 gesondert untersuchen. Sobald Tatsachen im Sinne des Paragraf 43 vorliegen, nicht auf eine abgeschlossene interne Untersuchung warten. [Meldeprüfung](../aml-verdachtsmeldung-fiu-leitfaden/SKILL.md) übernimmt; keine Rückzahlung auf ein neu genanntes Drittkonto als automatische „Bereinigung“.
 
-- Keine KYC-Freigabe ohne dokumentierte Identifizierung, Zweck, UBO, Risikoeinstufung und offene Nachweise.
-- Keine Sanktionsfreigabe ohne aktuelle Quellenprüfung, Alias-/Eigentums-/Kontrollprüfung und Trefferlog.
-- Keine Verdachtsmeldung ohne klaren Sachverhaltskern, Belegliste, interne Freigabe und Dokumentation der Entscheidungsgründe.
-- Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
-- Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
-- Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+## 4. Quellenpflicht
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+GwG Paragraf 10 Absatz 1 Nummer 5, Paragraf 15, Paragraf 43 und [Rechtsstand](../../references/rechtsstand-2026-und-eu-uebergang.md). Institutsbezogene Vorschriften wie KWG Paragraf 25h nur bei passender Verpflichtetenkategorie anwenden.
+
+## 5. Ausgabeformat
+
+Ausformulierter Zahlungsbefund mit chronologischer Tabelle, Beleg, plausibler Erklärung, Gegenbefund und offener Handlung. Times New Roman 11 pt, dezimale Gliederung. Keine Risikopunktzahl als alleinige Entscheidung.
+
+## 6. Beispiele
+
+Drei Baranzahlungen gehören zu einer Maschine; eine zusätzliche Überweisung stammt von einem anderen Unternehmen. Zusammengehörigkeit, Empfänger und gewünschte Rückerstattung aus den Originalen rekonstruieren.

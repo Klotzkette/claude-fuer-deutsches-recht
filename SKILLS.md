@@ -1,8 +1,8 @@
 # Skill-Gesamtübersicht
 
-Automatisch generierte Gesamtübersicht aller **22435 Skills** in **236 Plugins**.
+Automatisch generierte Gesamtübersicht aller **22398 Skills** in **236 Plugins**.
 
-Stand: `v443.6.0`.
+Stand: `v444.0.0`.
 
 [Repository-Start](README.md) · [Download-Index](ASSET_INDEX.md) · [Werkstatt und Schnellstart](docs/werkstatt-und-schnellstart-coverage.md) · [Testakten](testakten/README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Detailseiten](skills-index/)
 
@@ -37,7 +37,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 
 Die Listen werden aus den im Marketplace registrierten Plugin-Verzeichnissen erzeugt und gegen den Dateibestand geprüft. Sie zeigen den Quellbestand: Im installierten Paket werden manche umfangreichen Spezialserien über einen Fachrouter bei Bedarf geladen, statt als eigene Menüeinträge zu erscheinen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 22435 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 22398 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
 
 English: Plugin and index links open navigation pages. Links labelled **Download MD** download the unchanged skill, workshop or quick-start Markdown file instead of opening a source preview.
 
@@ -167,7 +167,7 @@ Die Plugins sind alphabetisch sortiert. Der Name öffnet die Detailseite mit all
 | Plugin | Skills | Detailseite | Werkstatt (Markdown) | Schnellstart (Markdown) | Plugin-ZIP |
 | --- | ---: | --- | --- | --- | --- |
 | **gebrauchsmusterrecht** | 51 | [Skills ansehen](skills-index/gebrauchsmusterrecht.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gebrauchsmusterrecht/gebrauchsmusterrecht-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gebrauchsmusterrecht/gebrauchsmusterrecht-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gebrauchsmusterrecht.zip) |
-| **geldwaeschepraevention-aml-kyc** | 57 | [Skills ansehen](skills-index/geldwaeschepraevention-aml-kyc.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/geldwaeschepraevention-aml-kyc.zip) |
+| **geldwaeschepraevention-aml-kyc** | 20 | [Skills ansehen](skills-index/geldwaeschepraevention-aml-kyc.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/geldwaeschepraevention-aml-kyc.zip) |
 | **gesellschaftsgruender** | 114 | [Skills ansehen](skills-index/gesellschaftsgruender.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsgruender/gesellschaftsgruender-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsgruender/gesellschaftsgruender-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsgruender.zip) |
 | **gesellschaftsrecht** | 118 | [Skills ansehen](skills-index/gesellschaftsrecht.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/gesellschaftsrecht-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/gesellschaftsrecht-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsrecht.zip) |
 | **gesellschaftsrecht-legal-english** | 54 | [Skills ansehen](skills-index/gesellschaftsrecht-legal-english.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht-legal-english/gesellschaftsrecht-legal-english-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht-legal-english/gesellschaftsrecht-legal-english-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsrecht-legal-english.zip) |
