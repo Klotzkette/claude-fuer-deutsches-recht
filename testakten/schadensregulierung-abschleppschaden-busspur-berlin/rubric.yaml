@@ -1,0 +1,14 @@
+name: schadensregulierung-abschleppschaden-busspur-berlin
+plugin: schadensregulierung
+description: "Fahrzeugbeschädigung nach Umsetzung aus einer Berliner Busspur mit Auftragsjournal, getrennten Befunden, Werkstattkalkulation und laufender Versichererbearbeitung."
+checks:
+  - id: unterlagen
+    check_type: working_file_count
+    description: "Fünfzehn getrennte Originalunterlagen liegen vor."
+    min: 15
+  - id: konsistenz
+    check_type: human_review
+    description: "Ereigniszeiten, Fahrzeugkennung, Beträge und Bearbeitungsstände stimmen überein."
+  - id: formate
+    check_type: human_review
+    description: "Originale, Gesamt-PDF und separate PDF-Fassungen enthalten dieselben Unterlagen."

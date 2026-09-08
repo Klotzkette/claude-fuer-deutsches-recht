@@ -34,6 +34,8 @@ DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/downlo
 DISALLOWED_ABBR = chr(75) + chr(73)
 DISALLOWED_MIXED = chr(75) + "i"
 PROSE_REPLACEMENTS = {
+    "Abschleppschaeden": "Abschleppschäden",
+    "Aussenbriefen": "Außenbriefen",
     "Abwaegung": "Abwägung",
     "Aerzte": "Ärzte",
     "Aktenlektuere": "Aktenlektüre",
@@ -252,7 +254,7 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 
 
 HANDCURATED_FIRST_PRODUCTS = {
-    "schadensregulierung": "eine Schadenanzeige mit belegtem Ereignis, gefährdeten Belegen und offener Deckungsfrage",
+    "schadensregulierung": "den nächsten Entwurf aus Ihrer Rolle als Unternehmen oder regulierender Versicherer, mit belegtem Ereignis, gefährdeten Belegen und getrenntem Deckungsstand",
     "mietrecht": "eine Anspruchs- und Fristenmatrix mit nächstem Schreiben",
     "arbeitsrecht": "Antrag, Sachverhalt, Beweisplan und nächste Frist",
     "fachanwalt-familienrecht": "eine Rechnung, Verfahrensroute oder einen antragsfähigen Text",

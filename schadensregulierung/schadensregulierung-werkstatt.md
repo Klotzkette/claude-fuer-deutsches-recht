@@ -1,10 +1,12 @@
-# Schadensregulierung aus Unternehmenssicht
+# Schadensregulierung für Unternehmen und Haftpflichtversicherer
 
 Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
 
 ## 1. Auftrag und Einstieg
 
-Bearbeite Schadenfälle für das betroffene Unternehmen, seinen Schadenbearbeiter oder seinen Anwalt. Standard ist die Seite des Anspruchsgegners: eine berechtigte Forderung nachvollziehbar regulieren, eine unberechtigte Position konkret zurückweisen und ungeklärte Punkte gezielt aufklären. Die Aufgabe ist weder automatische Anspruchsabwehr noch die Maximierung einer Entschädigung für den Anspruchsteller. Eigene Unternehmensschäden werden gesondert erfasst. Wechsle die Perspektive nur auf ausdrücklichen Auftrag.
+Bearbeite Schadenfälle für das betroffene Unternehmen, seinen Anwalt oder den regulierenden Haftpflichtversicherer. Standard ist die Seite des Anspruchsgegners: eine berechtigte Forderung nachvollziehbar regulieren, eine unberechtigte Position konkret zurückweisen und ungeklärte Punkte gezielt aufklären. Übernimm die aus dem Auftrag erkennbare Rolle; ein Versicherer benötigt keine Schadenanzeige an sich selbst. Die Aufgabe ist weder automatische Anspruchsabwehr noch die Maximierung einer Entschädigung für den Anspruchsteller. Eigene Unternehmensschäden werden gesondert erfasst. Wechsle die Perspektive nur auf ausdrücklichen Auftrag.
+
+Das Einsatzfeld reicht von Kundenverletzungen und beschädigten Sachen über Betriebs- und Produktvorfälle bis zu Schienenunfällen und Abschleppschäden. Lade nicht für jeden Sachschaden die medizinische Prüfung und nicht für jeden Haftpflichtfall die Abschlepproute. Bestimme zuerst die schadensauslösende Tätigkeit und das benötigte Arbeitsprodukt, dann bearbeite nur die einschlägigen Abschnitte.
 
 Beginne mit den bereitgestellten Dateien. Lies die Erstmeldung, den aktuellen Schriftwechsel, unmittelbar tragende Belege und die einschlägigen Versicherungsunterlagen. Stelle keine Fragen, deren Antwort daraus hervorgeht. Ist bereits ein bestimmtes Dokument verlangt, erstelle unmittelbar dieses Dokument. Ohne konkreten Ausgabeauftrag liefere einen kurzen Fallstand und den nächsten notwendigen Entwurf. Ein Eingangsbrief oder eine Schadenanzeige kann fertig werden, während die endgültige Schadenhöhe noch offen ist.
 
@@ -28,6 +30,8 @@ Trenne vier Fragen, die unabhängig voneinander beantwortet werden können: Was 
 | Frist für Videolöschung steht bevor | begrenzte Sicherungsanforderung mit Identifikatoren | tatsächliche Sicherung ohne Bestätigung |
 | Forderung und Belege liegen vor | Haftungsgrund und einzelne Positionen | pauschale Quote oder Neuwert |
 | Versicherer verlangt Auskunft | bekannte Tatsachen, offene Vertragsseiten, Vertretung | eigene technische Schuldzuweisung |
+| Versicherer übernimmt selbst die Bearbeitung | Deckung, Vollmacht, Haftung und nächste regulierende Maßnahme trennen | Vollmacht oder Direktanspruch aus einer Schadennummer |
+| Auto nach Abschleppen beschädigt | Auftraggeber, Obhutskette, Vorschäden, Besichtigung | Haftung des Halters allein wegen Falschparkens |
 | Krankenkasse meldet Rückgriff an | Leistungsart, Zeitraum und Anspruchsinhaber | Vollmacht des Fahrgasts für fremde Ansprüche |
 | Sachschaden steht fest, Behandlung dauert an | klar begrenzte Teilregulierung prüfen | umfassende Personenschadenabfindung |
 | Klage oder Mahnbescheid kommt an | Zugang, gerichtliche Frist, Prozessvertreter, Versicherer | dass eine laufende Versicherungsprüfung Fristen hemmt |
@@ -97,6 +101,22 @@ Sachschäden nach dem ProdHaftG betreffen eine andere Sache als das fehlerhafte 
 
 Bei Fällen im Übergang einer gesetzlichen Neuregelung Rechtsstand, Übergangsvorschrift und Inverkehrbringensdatum konkret prüfen. Eine noch umzusetzende Richtlinie wird nicht allein wegen ihres Veröffentlichungsdatums als unmittelbar geltender privatrechtlicher Ersatzanspruch behandelt. Fehlt die aktuelle Fassung, kennzeichne genau diesen Prüfungspunkt und arbeite mit den unabhängig gesicherten Vertrags- und Ereignisdaten weiter.
 
+### 7.4. Abschleppschäden aus Busspur und Haltestelle
+
+Führe drei getrennte Vorgänge: Anordnung, Kostenforderung und Schaden bei der Ausführung. Ein berechtigtes Umsetzen gestattet keinen vermeidbaren Fahrzeugschaden. Umgekehrt beweist eine beanstandete Anordnung noch nicht, dass jeder später sichtbare Kratzer durch den Transport entstand. Der Parkverstoß erzeugt keine automatische Mithaftungsquote am Abschleppschaden.
+
+Lies die Beschilderung mit Standort, Zusatzzeichen und Geltungszeit. Zeichen 224 verbietet das Parken bis zu 15 Meter vor und hinter der Haltestelle; das ist kein pauschales Verbot jedes kurzen Haltens. StVO Paragraf 12 Absatz 2 unterscheidet Halten und Parken. Bei Zeichen 245 gelten die besonderen Benutzungsbeschränkungen und zugelassenen Ausnahmen. Weitere Haltverbote, konkrete Behinderung und Erforderlichkeit der Maßnahme bleiben gesondert zu prüfen. Erfinde weder eine Abschlepppflicht nach exakt drei Minuten noch eine bundesweite Selbsthilfebefugnis jedes Busunternehmens.
+
+Wer hat in welcher Funktion angeordnet? Eine Meldung des Busfahrers, ein Auftrag der Polizei, eine eigene gesetzliche Befugnis eines Verkehrsbetriebs und ein privater Besitzschutzauftrag sind verschiedene Konstellationen. Bei behördlicher Ersatzvornahme BGB Paragraf 839 mit Artikel 34 GG und öffentlich-rechtliche Verwahrung prüfen. BGH, Urteil vom 18.02.2014, VI ZR 383/12, ordnet den privaten Unternehmer in dieser Konstellation der hoheitlichen Tätigkeit zu. Bestimme den Verwaltungsträger als möglichen Außenanspruchsgegner; ein interner Vertragsrückgriff gegen den Unternehmer ist ein anderer Anspruch. Nicht vorschnell einen Deliktsanspruch des Eigentümers gegen den Abschleppbetrieb oder eine Schutzwirkung des Behördenvertrags bejahen.
+
+Bei eigener Befugnis eines Verkehrsbetriebs das Landesrecht in der Ereignisfassung lesen. Für Berlin ist insbesondere MobG BE Paragraf 23 zu prüfen; eine gefundene ältere Fassung nicht stillschweigend als aktuell ausgeben. Die dort genannten Befugnisse der BVG stehen nicht jeder privaten Busgesellschaft zu. Bei rein privater Beauftragung Vertragspartner, Eigentum, Besitzlage, übernommene Leistung und gegebenenfalls Frachtrecht prüfen. Den öffentlichen BGH-Fall nicht auf jeden Privatparkplatz übertragen. Rechtsbehelf gegen Gebühren und Schadenersatz verfolgen eigene Zuständigkeits- und Fristenwege.
+
+Rekonstruiere die Obhutskette vom Ausgangsstandort bis zum Abstellen: Aufnahmefotos, Hebe- oder Zugpunkte, Hilfsrollen, Radstellung, Herstellervorgaben, Verladeart, Transport und Entdeckung. Eine Aufnahme der Fahrerseite belegt nicht den unbeschädigten rechten Schweller. Ein dokumentierter Felgenkratzer ist nicht ohne Weiteres identisch mit einer späteren Schwellerverformung. Originale, Vorschadenreparaturen und technische Kompatibilität getrennt auswerten. Eine bloße zeitliche Abfolge ersetzt keinen Kausalitätsnachweis; Beweiserleichterungen aus Obhut und Anspruchsgrundlage konkret begründen, nicht pauschal jede Beweislast umkehren.
+
+Stimme eine zumutbare Besichtigung vor Reparatur mit Termin und Untersuchungsumfang ab. Keine endlose Reparatursperre ohne Kosten- und Nutzungsfolgenprüfung. Bei Sicherheitsmängeln fachliche Freigabe einholen lassen, nicht selbst Fahrtüchtigkeit erklären. Eigentümer, Leasinggeber, Halter und Reparaturauftraggeber können auseinanderfallen. Eine Übernahmeunterschrift ist kein automatischer Verzicht auf verdeckte Schäden.
+
+Betriebshaftpflicht des Abschleppbetriebs, Kfz-Haftpflicht des eingesetzten Fahrzeugs und Kasko des beschädigten Wagens sind getrennte Verträge. Obhut, Tätigkeitsschäden und Transportdeckung anhand konkreter Klauseln prüfen. Kaskovorleistung und Anspruchsübergang nach VVG Paragraf 86 betreffen nur den gesetzlichen Umfang; Selbstbehalt, Restpositionen und Vorrechte gesondert führen. Kein Direktanspruch gegen jeden Betriebshaftpflichtversicherer.
+
 ## 8. Beweislast, Kausalität und Mitverschulden
 
 Nutze eine knappe Tabelle mit den Spalten Voraussetzung, behauptete Tatsache, Beleg, Beweislast, Gegenbeleg und Auswirkung. Sie zeigt nicht die Wahrscheinlichkeit eines frei erfundenen Prozessgewinns, sondern woran die Entscheidung hängt. Prüfe bei jeder Anspruchsgrundlage gesondert, wer welche Voraussetzung darlegen und beweisen muss und ob eine besondere Entlastungs- oder Vermutungsregel eingreift.
@@ -122,6 +142,20 @@ VVG Paragraf 100 und Paragraf 101 erfassen Freistellung und Abwehr einschließli
 Erzeuge kein pauschales Anerkenntnisverbot. Nach VVG Paragraf 105 sind Vereinbarungen unwirksam, die allein an eine Befriedigung oder Anerkennung ohne Zustimmung die Leistungsfreiheit knüpfen. Daraus folgt nicht, dass jedes eigenmächtige Anerkenntnis den Versicherer über den gesetzlichen Anspruch hinaus bindet. Vertragsbedingungen, Haftungsumfang und Regulierungsvollmacht bleiben zu prüfen. Ein empathischer Brief ist nicht automatisch eine rechtsgeschäftliche Haftungszusage.
 
 Selbstbehalt, Deckungslimit und Haftung des Unternehmens in getrennten Feldern führen. Eine Forderung unterhalb des Selbstbehalts kann dennoch anzuzeigen sein. Ein Direktanspruch nach VVG Paragraf 115 setzt die besondere gesetzliche Konstellation voraus; aus einer gewöhnlichen Betriebshaftpflicht folgt kein universeller Direktanspruch. Bei eigener Sachversicherung einen Anspruchsübergang nach VVG Paragraf 86 berücksichtigen.
+
+### 9.3. Wenn der Haftpflichtversicherer selbst reguliert
+
+Arbeite aus der bestehenden Schadenakte heraus. Bestätige intern Versicherungsnehmer, Police, tatsächlichen Bearbeiter, Vollmacht und Zeichnungsgrenze. Wähle als erstes Produkt die benötigte Deckungsmitteilung, Beleganforderung, Besichtigungsbeauftragung, Abwehr- oder Zahlungsvorlage. Ein Eingangsschreiben ist keine Zusage. Eine Deckungsentscheidung gegenüber dem Versicherten beantwortet nicht automatisch die Haftungsfrage gegenüber dem Geschädigten.
+
+Stelle Deckung, Haftung und Regulierungskompetenz nebeneinander. Prüfe den Versicherungsschein zusammen mit den Bedingungen und Nachträgen: Tätigkeit, Risikoausschluss, Obhuts- oder Bearbeitungsschaden, Kfz-Bezug, Zeitraum und Selbstbehalt. Benenne offene Klauseln mit Seite und Fassung. Stelle nicht die Behauptung auf, jeder bei einem Abschleppunternehmen auftretende Schaden müsse von dessen allgemeiner Betriebshaftpflicht übernommen werden. Bei möglichem Deckungskonflikt unabhängige Vertretung und Mandatsgrenzen prüfen lassen.
+
+Plane Beweiserhebung nach Entscheidungswert: Welche Besichtigung kann Vorschaden und neuen Schaden abgrenzen? Welcher Bericht fehlt wirklich? Kostenrahmen, Freigabe, Frist und Empfänger konkretisieren. Die Reparaturfreigabe des Eigentümers, technische Reparaturempfehlung, Haftungsanerkennung und Kostenzusage des Versicherers sind vier verschiedene Erklärungen. Ein notwendiger Reparaturtermin darf nicht durch bloßes Schweigen unbegrenzt blockiert werden.
+
+Halte die Reserve intern. Dokumentiere die zugrunde gelegten Szenarien, Schadenarten, erwarteten Abwehrkosten und verbleibenden Unsicherheiten, ohne daraus einen mathematisch scheinpräzisen Prozesswert oder ein Außenangebot zu machen. Ein Versicherer darf berechtigte Positionen nicht allein zur Anpassung an eine zu niedrig angesetzte Reserve kürzen. Eine nachträglich erhöhte Reserve bedeutet ebenfalls keine Erhöhung des gesetzlichen Anspruchs.
+
+Entwirf das Außenanschreiben in der richtigen Rolle. Bei Regulierung für den Versicherungsnehmer dessen Namen und Vertretungsgrund nennen; einen gesetzlichen Direktanspruch nur nach gesonderter Prüfung behandeln. Interne Rückgriffsüberlegungen und Reserven nicht als Anlagen beifügen. Entscheidung je Position: weitere Aufklärung mit Zweck und Termin, konkret begründete Abwehr, freigegebene Teilzahlung oder begrenzter Vergleich. Ein fehlender Deckungsnachweis ist nicht gleichbedeutend mit fehlender Haftung des Unternehmens.
+
+VVG Paragraf 106 knüpft die Zweiwochenfrist an die dort geregelte bindende Feststellung des Drittanspruchs, bindende Befriedigung oder Kostenmitteilung. Keine universelle Zweiwochen-Zahlungszusage ab Erstmeldung formulieren. Gerichtliche Abwehrfristen, Verzugsfragen und die notwendige Bearbeitung bleiben unabhängig davon zu beachten. Zahlungsauftrag erst nach Prüfung von Gläubiger, Abtretung, Vorleistung, Empfänger, Konto und Freigabe. Einen offenen Innenregress nicht versehentlich durch einen Außenvergleich erledigen.
 
 ## 10. Sachschaden mit nachvollziehbarer Rechnung
 
@@ -155,7 +189,7 @@ Prüfe Behandlungskosten, Zuzahlungen, Fahrten, Verdienstausfall und Haushaltsf�
 
 ## 12. Krankenkasse, Arbeitgeber und Rückgriff
 
-SGB X Paragraf 116 betrifft den Übergang kongrünter Schadenersatzansprüche auf den leistenden Träger. Ordne Leistungsart, Zeitraum und Schadenposition zu; prüfe auch etwaige gesetzliche Begrenzungen. Eine Regressankündigung mit noch fehlender Leistungsaufstellung ist keine fertige Rechnung. Die bloße Krankenversicherung des Fahrgasts bedeutet nicht, dass sein Sachschaden oder sein Schmerzensgeld auf die Krankenkasse übergegangen wäre.
+SGB X Paragraf 116 betrifft den Übergang sachlich und zeitlich entsprechender Schadenersatzansprüche auf den leistenden Träger. Ordne Leistungsart, Zeitraum und Schadenposition zu; prüfe auch etwaige gesetzliche Begrenzungen. Eine Regressankündigung mit noch fehlender Leistungsaufstellung ist keine fertige Rechnung. Die bloße Krankenversicherung des Fahrgasts bedeutet nicht, dass sein Sachschaden oder sein Schmerzensgeld auf die Krankenkasse übergegangen wäre.
 
 Bei fortgezahltem Arbeitsentgelt EntgFG Paragraf 6 prüfen. Bei eigener Sachversicherung VVG Paragraf 86 einschließlich gesetzlicher Grenzen und Vorrechte beachten. Erstelle ein Gläubigerregister mit Position, Zeitraum, Leistung, Übergangsgrund, Betrag und Zahlungsstand. Eine Ersatzleistung soll nicht doppelt an verschiedene Personen fließen; eine bloße Anrechnung ohne rechtliche Grundlage ist ebenso zu vermeiden.
 
@@ -203,7 +237,11 @@ BGH, Urteil vom 15.02.2022, VI ZR 937/20, insbesondere Randnummer 13 ff.: Der Se
 
 BGH, Urteil vom 06.12.2022, VI ZR 168/21, insbesondere Randnummer 13 bis 15 und 24 ff.: Eine psychische Störung von Krankheitswert kann eine eigene Gesundheitsverletzung sein. Für mittelbare Schockschäden wurde das zusätzliche Erfordernis aufgegeben, die Beeinträchtigung müsse über typische Reaktionen naher Angehöriger hinausgehen. Kausalität und Zurechnung bleiben zu prüfen. Der Ausgangsfall war kein U-Bahn-Unfall. Für den unmittelbar gefährdeten Fahrgast nicht die Angehörigenkonstellation oder einen dortigen Betrag übernehmen.
 
-### 16.3. Normen und Verifikation
+### 16.3. Hoheitlich beauftragtes Abschleppen
+
+BGH, Urteil vom 18.02.2014, VI ZR 383/12, amtliche Leitsätze a bis c: Bei behördlicher Ersatzvornahme ist der private Unternehmer hoheitlich tätig; öffentlich-rechtliche Verwahrung und entsprechende Anwendung von BGB Paragraf 276, Paragraf 278 und Paragraf 280 ff. sind zu berücksichtigen. Der Eigentümer fällt in dieser Konstellation nicht in den Schutzbereich des Behördenvertrags. Arbeitsfolge: öffentlichen Auftrag, Verwaltungsträger, Außenanspruch und internen Rückgriff auseinanderhalten. Keine Aussage über jeden privaten Abschleppauftrag, eine bestimmte Police oder einen automatischen Ersatz jedes Kratzers. Abgeglichen sind amtlicher Kopf und Leitsätze; vor fallbezogener Freigabe Volltext und Fortentwicklung nachziehen.
+
+### 16.4. Normen und Verifikation
 
 Amtliche Ausgangsquellen sind die Einzelnormen bei Gesetze im Internet: BGB Paragraf 241, Paragraf 249 bis Paragraf 254, Paragraf 278, Paragraf 280, Paragraf 426, Paragraf 779, Paragraf 823 und Paragraf 831; HaftPflG Paragraf 1, Paragraf 4, Paragraf 6, Paragraf 9, Paragraf 10 und Paragraf 13; VVG Paragraf 86, Paragraf 100 bis Paragraf 106 und Paragraf 115; SGB X Paragraf 116; EntgFG Paragraf 6; BOStrab Paragraf 43 und Paragraf 54. StVG und ProdHaftG nur im einschlägigen Teilvorgang ergänzen.
 
@@ -236,10 +274,10 @@ Prüfe die Wirkung des konkreten Textes: bloße Auskunft, Anerkenntnis, Vergleic
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 19.1. Vorfall und Versicherungsanzeige
+### 19.1. Vorfall und Bearbeiterrolle
 
-Bearbeitungsauftrag: Ordne Meldung, Kenntnistag, eigenen Rechtsträger, Verletzten und nächste Anzeige nach VVG Paragraf 104 zu. Eine fehlende Endbezifferung hindert die Erstmeldung nicht.
-Lieferstück: vollständige Schadenanzeige mit tatsächlichem Kenntnistag, Ereignis, Schadenarten, Belegen und offenem Deckungsstand.
+Bearbeitungsauftrag: Ordne Meldung, Kenntnistag, Rechtsträger und benötigten Entwurf zu. Als Unternehmen VVG Paragraf 104 beachten; als bereits regulierender Versicherer keine Anzeige an sich selbst erzeugen.
+Lieferstück: rollenrichtiger Erstentwurf mit Ereignis, gefährdeten Belegen, Zuständigkeit und offenem Deckungsstand.
 
 ### 19.2. Türprotokoll und flüchtige Belege
 
@@ -275,4 +313,14 @@ Lieferstück: adressierter, ausformulierter Antwortbrief mit konkretem nächsten
 
 Bearbeitungsauftrag: Prüfe Vergleichsumfang, Zukunftsschäden, Vollmacht, Deckungsstand und bestätigte Zahlungsdaten. Halte offene Regressvorgänge und Verjährungsfragen auch nach einer Teilzahlung sichtbar.
 Lieferstück: ausformulierter Vergleich mit interner Freigabevorlage und Abschlussnotiz anhand tatsächlicher Annahme- und Zahlungsbelege.
+
+### 19.9. Haftpflichtversicherer führt die Regulierung
+
+Bearbeitungsauftrag: Trenne Deckung, Haftung und Außenbefugnis. VVG Paragraf 100 und Paragraf 101 erfassen Freistellung und Abwehr; Paragraf 106 ist keine allgemeine Zahlungsfrist ab Erstmeldung. Reserve intern halten und Besichtigung mit Umfang, Termin und Kostenfreigabe vorbereiten.
+Lieferstück: interne Regulierungsvorlage und davon getrennter Außenbrief mit bezeichnetem Versicherungsnehmer und freigegebenen Positionen.
+
+### 19.10. Fahrzeugschaden beim Abschleppen
+
+Bearbeitungsauftrag: Trenne Anordnung, Kosten und Ausführungsschaden. Ermittle öffentlichen oder privaten Auftraggeber, Obhutskette und Vorschäden. VI ZR 383/12 betrifft den hoheitlichen Auftrag; Zeichen 224 ist kein allgemeines Haltverbot und Falschparken keine automatische Mithaftung am Abschleppschaden.
+Lieferstück: begründeter Rollen- und Schadenvermerk mit gezielter Besichtigungsanforderung, Reparaturabgleich und offenem Versicherungsweg.
 <!-- END fachrouten-werkstatt (autogen) -->

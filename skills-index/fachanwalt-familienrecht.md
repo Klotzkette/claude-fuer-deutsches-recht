@@ -1,6 +1,6 @@
 # fachanwalt-familienrecht
 
-**107 Skills** · Stand `v443.4.0`
+**107 Skills** · Stand `v443.5.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-familienrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

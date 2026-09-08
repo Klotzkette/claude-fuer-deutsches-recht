@@ -1,7 +1,7 @@
 {
   "name": "schadensregulierung",
-  "version": "443.4.0",
-  "description": "Schadensabwicklung fuer Unternehmen und Anspruchsgegner: sichert Belege, trennt Haftung und Versicherungsdeckung, prueft Personen- und Sachschaeden sowie Regress und erstellt Korrespondenz, Vergleich und kontrollierte Zahlungsvorlage.",
+  "version": "443.5.0",
+  "description": "Schadensabwicklung fuer Unternehmen und Haftpflichtversicherer: Personen-, Sach- und Abschleppschaeden, Haftung, Deckung, Besichtigung, Regress und kontrollierte Regulierung. Zehn fokussierte Arbeitswege mit getrennten internen Vorlagen und Aussenbriefen.",
   "author": {
     "name": "Klotzkette",
     "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -12,6 +12,7 @@
     "haftpflicht",
     "versicherung",
     "personenschaden",
+    "abschleppschaden",
     "vergleich"
   ]
 }

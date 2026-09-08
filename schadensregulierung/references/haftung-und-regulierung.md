@@ -1,6 +1,6 @@
 # 1. Haftung und Regulierung
 
-Quellenprüfung: 8. September 2026. Die Normen sind amtliche Ausgangsquellen; für den Einzelfall Ereignisdatum, Vertragsfassung und Übergangsrecht prüfen. Die beiden Entscheidungsanker betreffen Bemessungsmethode und psychische Gesundheitsverletzung, nicht die Entscheidung eines identischen U-Bahn-Vorfalls. Keine feste Quote oder Entschädigungshöhe daraus ableiten.
+Quellenprüfung: 8. September 2026. Die Normen sind amtliche Ausgangsquellen; für den Einzelfall Ereignisdatum, Vertragsfassung und Übergangsrecht prüfen. Die Entscheidungsanker betreffen Bemessungsmethode, psychische Gesundheitsverletzung und hoheitliches Abschleppen. Sie entscheiden keinen der hier angebotenen Übungsvorgänge. Keine feste Quote oder Entschädigungshöhe daraus ableiten.
 
 ## 1.1. Anspruch und Beweis
 
@@ -36,3 +36,18 @@ BGH, Urteil vom 15.02.2022, VI ZR 937/20, Randnummer 13 ff., ECLI:DE:BGH:2022:15
 BGH, Urteil vom 06.12.2022, VI ZR 168/21, Randnummer 13 bis 15 und 24 ff., ECLI:DE:BGH:2022:061222UVIZR168.21.0: psychische Störungen von Krankheitswert können eine eigene Gesundheitsverletzung darstellen; bei mittelbaren Schockschäden ist keine zusätzliche Überschreitung typischer Angehörigenreaktionen nötig. Kausalität und Zurechnung bleiben zu prüfen. [Amtliche Entscheidungsveröffentlichung](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&Seite=6&anz=3167&nr=132234&pos=197). Der Ausgangsfall betrifft keine U-Bahn und keinen unmittelbar mitgezogenen Fahrgast.
 
 Die amtlichen Entscheidungsnachweise und Leitsätze wurden abgeglichen. Die alten Veröffentlichungsadressen können inzwischen auf die neue Entscheidungsplattform weiterleiten. Vor einer Rechtsfreigabe Volltext anhand Aktenzeichen und ECLI erneut aufrufen und konkrete Randnummern prüfen; ein bloßer Weiterleitungsaufruf gilt nicht als Volltextprüfung. Die Reichweite des tatsächlich gelesenen Materials ist im jeweiligen Arbeitsprodukt offenzulegen.
+
+## 1.4. Abschleppen und aktiver Versicherer
+
+| Frage | Amtliche Quelle | Reichweite |
+| --- | --- | --- |
+| Halten oder Parken | [StVO Paragraf 12](https://www.gesetze-im-internet.de/stvo_2013/__12.html) und [Anlage 2, Zeichen 224 und 245](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html) | Haltestellen-Parkverbot nicht zum allgemeinen Haltverbot erweitern; Busspur mit Zusatzzeichen und Zeitbezug prüfen |
+| Öffentlicher Auftrag und Haftung | [BGB Paragraf 839](https://www.gesetze-im-internet.de/bgb/__839.html) und [Artikel 34 GG](https://www.gesetze-im-internet.de/gg/art_34.html) | Funktion und Verwaltungsträger feststellen; interner Vertragsrückgriff ist nicht der Außenanspruch des Eigentümers |
+| Berliner Zuständigkeit | [Polizei Berlin: Kfz-Umsetzung](https://www.berlin.de/polizei/aufgaben/bussgeldstelle/kfz-umsetzung/) und [MobG BE Paragraf 23, Fassungszugang](https://gesetze.berlin.de/perma?j=MobG_BE_!_23) | Behördenauftrag und eigene gesetzliche Befugnis unterscheiden. Der abrufbare historische Normtext endete am 23.12.2025 und verwies auf eine Fassung ab 24.12.2025; deren vollständiger Abruf blieb offen. Vor Fallfreigabe Ereignisfassung lesen, keine historische Fassung als aktuell ausgeben |
+| Freistellung und Abwehr | [VVG Paragraf 100](https://www.gesetze-im-internet.de/vvg_2008/__100.html) und [Paragraf 101](https://www.gesetze-im-internet.de/vvg_2008/__101.html) | Versicherer prüft auch unbegründete Ansprüche; Deckung, Haftung und Vollmacht getrennt |
+| Fälligkeit | [VVG Paragraf 106](https://www.gesetze-im-internet.de/vvg_2008/__106.html) | Zweiwochenfrist nach den dort geregelten Auslösern, keine pauschale Frist ab Schadenmeldung |
+| Umsatzsteuer und Vorleistung | [BGB Paragraf 249](https://www.gesetze-im-internet.de/bgb/__249.html), [VVG Paragraf 86](https://www.gesetze-im-internet.de/vvg_2008/__86.html) | Kalkulation und tatsächliche Rechnung sowie Kaskomeldung und Kaskozahlung unterscheiden |
+
+BGH, Urteil vom 18.02.2014, VI ZR 383/12, amtliche Leitsätze a bis c: Bei der behördlichen Ersatzvornahme handelt der private Abschleppunternehmer hoheitlich. Es entsteht ein öffentlich-rechtliches Verwahrungsverhältnis; BGB Paragraf 276, Paragraf 278 und Paragraf 280 ff. sind entsprechend anzuwenden. Der Eigentümer wird in dieser Konstellation nicht in den Schutzbereich des Behördenvertrags mit dem Unternehmer einbezogen. [Amtliche Entscheidungsveröffentlichung](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-2-18&Gericht=bgh&anz=27&nr=67195&pos=24). Abgeglichen wurden amtlicher Entscheidungskopf und Leitsätze; der erneute unmittelbare Volltextabruf war technisch nicht erfolgreich. Keine ungeprüften Randnummern verwenden. Kein universeller Haftungsausschluss bei privaten Abschleppaufträgen und keine Entscheidung über eine konkrete Police.
+
+Die Fundstellen sind Einstieg und Abgrenzung, kein Ersatz für die Prüfung der tatsächlich beauftragten Leistung und der Versicherungsbedingungen. Aus einer Reserve oder Besichtigungsfreigabe folgt weder ein Direktanspruch noch ein Reparaturkostenanerkenntnis.

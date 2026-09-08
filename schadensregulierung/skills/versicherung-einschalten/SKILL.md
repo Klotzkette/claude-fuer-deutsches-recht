@@ -7,7 +7,7 @@ description: "Erstellt die Haftpflicht-Schadenanzeige und klärt Police, versich
 
 ## 1. Zweck und Anwendungsfall
 
-Der Betrieb muss einen möglichen Haftpflichtfall melden oder eine bereits gemeldete Forderung dem richtigen Versicherer und Sachbearbeiter zuordnen. Dieser Skill führt die Versicherungsseite, ohne die Haftungsentscheidung vorwegzunehmen.
+Der Betrieb muss einen möglichen Haftpflichtfall melden oder eine bereits gemeldete Forderung dem richtigen Versicherer und Sachbearbeiter zuordnen. Dieser Skill führt die Versicherungsseite, ohne die Haftungsentscheidung vorwegzunehmen. Arbeitet der Nutzer bereits als regulierender Versicherer, verwende `haftpflichtschaden-regulieren` statt eine Meldung an sich selbst zu erzeugen. Bei Abschleppunternehmen Tätigkeit, Obhutsschaden und Kfz-Risiko ausdrücklich mit den tatsächlichen Vertragsklauseln abgleichen; der Policentitel allein genügt nicht.
 
 ## 2. Eingaben
 
