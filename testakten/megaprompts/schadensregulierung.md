@@ -2,30 +2,32 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält alle 8 Skills des Plugins `schadensregulierung`.
+Diese Vollprüfung enthält alle 10 Skills des Plugins `schadensregulierung`.
 
 ## Inhaltsverzeichnis
 
-1. **schadenfall-aufnehmen** — Beginnt die Schadenabwicklung auf Unternehmens- oder Beklagtenseite aus Meldung und Aktenordner. Bestimmt Vorfall, Betei…
-2. **versicherung-einschalten** — Erstellt die Haftpflicht-Schadenanzeige und klärt Police, versichertes Unternehmen, Tätigkeit, Zeitraum, Selbstbehalt, D…
-3. **regulierung-korrespondieren** — Formuliert konkrete Eingangsbestätigungen, begrenzte Belegnachforderungen, Zwischenbescheide, Teilregulierungen und begr…
-4. **vergleich-und-zahlung-abschliessen** — Führt eine geprüfte Schadenforderung zur kontrollierten Teilzahlung, Abfindung oder Ablehnung und zum Aktenabschluss. Kl…
-5. **schadenpositionen-pruefen** — Prüft geltend gemachte Personen- und Sachschäden positionsweise anhand von Befunden, Kaufbelegen und Ausfällen. Trennt S…
-6. **haftungsweg-bestimmen** — Prüft die Verantwortlichkeit des in Anspruch genommenen Unternehmens aus Vertrag, Delikt und einschlägiger Gefährdungsha…
-7. **unfallbelege-sichern** — Sichert flüchtige Belege zu einem Schadenfall: Video, Tür- und Betriebsprotokolle, Produkt oder beschädigte Sache, Zeuge…
-8. **regress-und-anspruchsuebergang** — Ordnet Schadenforderungen zwischen Geschädigtem, Krankenkasse, Arbeitgeber und Sachversicherer zu. Prüft kongruente Leis…
+1. **schadenfall-aufnehmen** — Beginnt die Schadenabwicklung für Unternehmen, Anspruchsgegner oder regulierende Haftpflichtversicherer aus Meldung und …
+2. **regulierung-korrespondieren** — Formuliert Eingangsbestätigungen, Belegnachforderungen, Zwischenbescheide, Teilregulierungen und begründete Ablehnungen …
+3. **versicherung-einschalten** — Erstellt die Haftpflicht-Schadenanzeige und klärt Police, versichertes Unternehmen, Tätigkeit, Zeitraum, Selbstbehalt, D…
+4. **haftpflichtschaden-regulieren** — Bearbeitet einen Haftpflichtschaden aus Sicht des regulierenden Versicherers: Deckungsstand, Anspruchsprüfung, Besichtig…
+5. **regress-und-anspruchsuebergang** — Ordnet Schadenforderungen zwischen Geschädigtem, Krankenkasse, Arbeitgeber und Sachversicherer zu. Prüft sachlich und ze…
+6. **vergleich-und-zahlung-abschliessen** — Führt eine geprüfte Schadenforderung zur kontrollierten Teilzahlung, Abfindung oder Ablehnung und zum Aktenabschluss. Kl…
+7. **schadenpositionen-pruefen** — Prüft geltend gemachte Personen- und Sachschäden positionsweise anhand von Befunden, Kaufbelegen und Ausfällen. Trennt S…
+8. **haftungsweg-bestimmen** — Prüft die Verantwortlichkeit des in Anspruch genommenen Unternehmens aus Vertrag, Delikt und einschlägiger Gefährdungsha…
+9. **unfallbelege-sichern** — Sichert flüchtige Belege zu einem Schadenfall: Video, Tür- und Betriebsprotokolle, Produkt oder beschädigte Sache, Zeuge…
+10. **abschleppschaden-pruefen** — Prüft Fahrzeugschäden beim Abschleppen aus Busspur, Haltestelle oder Privatfläche. Trennt Anordnung und Kosten von Ausfü…
 
 ---
 
 ## Skill: `schadenfall-aufnehmen`
 
-_Beginnt die Schadenabwicklung auf Unternehmens- oder Beklagtenseite aus Meldung und Aktenordner. Bestimmt Vorfall, Beteiligte, Verletzung, Belegverlust, Versicherungsanzeige und Verantwortlichen; liefert das Fallblatt und den nächsten konkreten Entwurf. Für Erstmeldungen, nicht für eine erneute Vollaufnahme bekannter Vorgänge._
+_Beginnt die Schadenabwicklung für Unternehmen, Anspruchsgegner oder regulierende Haftpflichtversicherer aus Meldung und Aktenordner. Ordnet Rolle, Belegverlust und nächsten Entwurf zu; unterscheidet allgemeine Personen- und Sachschäden, U-Bahn-Vorfälle und Abschleppschäden. Keine erneute Vollaufnahme bekannter Vorgänge._
 
 # Schadenfall aufnehmen
 
 ## 1. Zweck und Anwendungsfall
 
-Ein Fahrgast meldet eine Verletzung, ein Kunde einen Produktschaden oder ein Betrieb erhält eine Forderung. Führe die Angelegenheit sofort in einen bearbeitbaren Zustand. Die Unternehmensperspektive bedeutet sachgerechte Aufklärung, nicht reflexhafte Ablehnung.
+Ein Fahrgast meldet eine Verletzung, ein Kunde einen Produktschaden, ein Fahrzeughalter einen Abschleppschaden oder ein Haftpflichtversicherer übernimmt die Abwicklung. Führe die Angelegenheit sofort in einen bearbeitbaren Zustand. Die Unternehmens- oder Versichererperspektive bedeutet sachgerechte Aufklärung, nicht reflexhafte Ablehnung. Eine vorhandene Rolle bleibt erhalten; der Versicherer erhält keine Schadenanzeige an sich selbst.
 
 ## 2. Eingaben
 
@@ -37,7 +39,7 @@ Lies zuerst die bereitgestellte Meldung, den letzten Schriftwechsel und die eins
 2. Erfasse Verletzte, Anspruchsgegner, Betreiber, Halter, Hersteller und Versicherer als verschiedene Rollen. Eine Konzernmarke ersetzt keinen Rechtsträger. Eigenschäden erhalten eigene Positionen und keinen automatischen Abzug von der Fremdforderung.
 3. Setze als Erstes die nächste tatsächliche Frist: Videoüberschreibung, Versicherungsanzeige, gerichtlicher Termin oder belegter Zugang. Ein selbst gesetztes Antwortdatum ist keine gesetzliche Ausschlussfrist.
 4. Notiere ausschließlich einen kompakten Fallstand: Aussage, Herkunft, Bestätigung oder Widerspruch. Bei der U-Bahn sind Fahrt, Türposition, Fahrgastwechsel, Bewegungsbeginn und Nothalt wichtiger als eine lange allgemeine Personenliste.
-5. Wähle einen nächsten Arbeitsschritt. Nutze bei konkret drohendem Belegverlust `unfallbelege-sichern`, bei einer Anzeige `versicherung-einschalten`, bei bereits bezifferter Forderung `schadenpositionen-pruefen`. Lade nicht alle anderen Skills vorsorglich.
+5. Wähle einen nächsten Arbeitsschritt. Nutze bei konkret drohendem Belegverlust `unfallbelege-sichern`, bei einer Anzeige des Unternehmens `versicherung-einschalten`, bei aktiver Versichererbearbeitung `haftpflichtschaden-regulieren`, bei Beschädigung durch Umsetzen `abschleppschaden-pruefen` und bei bezifferter Forderung `schadenpositionen-pruefen`. Lade nur den benötigten Skill. Ein reiner Abschleppgebührenstreit ist keine Fahrzeugschadenregulierung.
 6. Halte Bearbeiter, Vertretung und Wiedervorlage fest. Keine automatische Nachricht, kein Anerkenntnis, keine Zahlung. Bei Werkzeugfehlern arbeite am unabhängigen Text weiter; behaupte keine erfolgte Sicherung.
 
 ## 4. Quellenpflicht
@@ -54,6 +56,43 @@ Liefere zuerst den verlangten Entwurf, sonst ein Fallblatt mit Ereignis, Parteie
 
 ---
 
+## Skill: `regulierung-korrespondieren`
+
+_Formuliert Eingangsbestätigungen, Belegnachforderungen, Zwischenbescheide, Teilregulierungen und begründete Ablehnungen für Unternehmen oder regulierende Haftpflichtversicherer. Trennt Außenbrief und interne Freigabe, ohne verdeckte Anerkenntnisse, leere Prüfversprechen oder unnötige Gesundheitsabfragen._
+
+# Regulierung korrespondieren
+
+## 1. Zweck und Anwendungsfall
+
+Ein Betroffener wartet auf eine Antwort, ein Versicherer braucht Ergänzungen oder eine Forderung ist entscheidungsreif. Verfasse genau das benötigte Schreiben. Erneute allgemeine Fallaufnahme nur, wenn Rolle oder Vorgang nicht zugeordnet werden können.
+
+## 2. Eingaben
+
+Letztes Schreiben, bestätigte Tatsachen, konkreter Prüfstand, Empfänger, Vertretung und freigegebene Zusagen. Interne Reserven oder Verhandlungsspielräume gehören nicht ungefragt in den Außenbrief.
+
+## 3. Ablauf
+
+1. Bestimme Absenderrolle und Textfunktion: Eingang, konkrete Nachfrage, Sachstand, Angebot, Teilzahlung oder Ablehnung. Ein Versicherer benennt den vertretenen Versicherungsnehmer und handelt nur im Umfang seiner Vollmacht; Direktanspruch und bloße Korrespondenzbefugnis sind nicht dasselbe. Interne Deckungsnachfrage und Außenantwort bleiben getrennte Schreiben. Ein Dank für die Meldung und Bedauern über die Belastung sind von einer rechtlichen Haftungszusage zu trennen.
+2. Wiederhole nur den notwendigen Ereigniskern. Behauptungen mit „Nach Ihrer Schilderung“ kennzeichnen; belegte eigene Erkenntnisse nicht hinter Leerformeln verstecken. Keine unbelegten Vorwürfe an den Fahrgast.
+3. Frage fehlende Nachweise einzeln mit Zweck ab: Kaufdatum zur Sachbewertung, Erstbefund zur Verletzung, Fahrtbeleg zur Ausgabe. Verlange nicht vorsorglich die gesamte Krankenhistorie oder sämtliche privaten Kontoauszüge.
+4. Sage konkret, welcher Schritt als Nächstes bearbeitet wird und wann eine Rückmeldung vorgesehen ist. Keine Abschlussfrist versprechen, die von ungeklärter Technik, Gutachten oder Deckung abhängt. Eine Zwischenantwort ist kein Verjährungsverzicht.
+5. Bei Teilregulierung Betrag, Position, Anrechnung und nicht erledigte Punkte ausformulieren. Bei Ablehnung den tragenden Tatsachen- oder Rechtsgrund nennen und unterscheiden, ob etwas widerlegt, nicht belegt oder noch in Prüfung ist.
+6. Prüfe Anerkenntnis- und Verjährungswirkung nach Erklärungsinhalt. Die Floskel „ohne Anerkennung einer Rechtspflicht“ ist kein universeller Schutz. Bei Anwaltsschreiben Vertretung und geeigneten Kommunikationsweg beachten; keine automatischen Außenhandlungen.
+
+## 4. Quellenpflicht
+
+[Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schadensregulierung/references/haftung-und-regulierung.md), [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schadensregulierung/references/zitierweise.md). BGB Paragraf 203 zu Verhandlungen und Paragraf 212 zum Neubeginn gesondert prüfen. VVG Paragraf 105 nicht als pauschales Kontakt- oder Entschuldigungsverbot missverstehen.
+
+## 5. Ausgabeformat
+
+Adressat, Datum, eigene und fremde Vorgangsnummer, aussagekräftiger Betreff, Anrede, verständlicher Text, konkrete nächste Schritte, Anlagen und Unterschriftszeile. Vollständige Sätze statt einer Bausteinliste. Times New Roman 11 pt soweit möglich und dezimale Gliederung nur soweit der Brief sie benötigt. Interne Freigabehinweise außerhalb des versandfertigen Textes halten; kein erfundener Dateilink.
+
+## 6. Beispiel
+
+„Wir haben Ihre Unterlagen zur Hose erhalten. Für die technische Prüfung liegt uns bisher nur das nach dem Vorfall erstellte Prüfprotokoll vor. Wir haben daher die Aufzeichnungen zum Fahrtzeitpunkt angefordert und melden uns bis zum [intern bestätigtes Datum] zum Stand dieser Anforderung.“ Nur als Entwurf verwenden, solange die Anforderung nicht wirklich versandt wurde.
+
+---
+
 ## Skill: `versicherung-einschalten`
 
 _Erstellt die Haftpflicht-Schadenanzeige und klärt Police, versichertes Unternehmen, Tätigkeit, Zeitraum, Selbstbehalt, Deckung und Regulierungsvollmacht. Erkennt Anzeige- und Prozessfristen, trennt Vorbehalt von Deckungszusage und vermeidet falsche Aussagen über Anerkenntnisverbote oder Direktansprüche._
@@ -62,7 +101,7 @@ _Erstellt die Haftpflicht-Schadenanzeige und klärt Police, versichertes Unterne
 
 ## 1. Zweck und Anwendungsfall
 
-Der Betrieb muss einen möglichen Haftpflichtfall melden oder eine bereits gemeldete Forderung dem richtigen Versicherer und Sachbearbeiter zuordnen. Dieser Skill führt die Versicherungsseite, ohne die Haftungsentscheidung vorwegzunehmen.
+Der Betrieb muss einen möglichen Haftpflichtfall melden oder eine bereits gemeldete Forderung dem richtigen Versicherer und Sachbearbeiter zuordnen. Dieser Skill führt die Versicherungsseite, ohne die Haftungsentscheidung vorwegzunehmen. Arbeitet der Nutzer bereits als regulierender Versicherer, verwende `haftpflichtschaden-regulieren` statt eine Meldung an sich selbst zu erzeugen. Bei Abschleppunternehmen Tätigkeit, Obhutsschaden und Kfz-Risiko ausdrücklich mit den tatsächlichen Vertragsklauseln abgleichen; der Policentitel allein genügt nicht.
 
 ## 2. Eingaben
 
@@ -92,40 +131,79 @@ Eine Police sieht 2500 EUR Selbstbehalt vor, der Fahrgast verlangt 468 EUR und e
 
 ---
 
-## Skill: `regulierung-korrespondieren`
+## Skill: `haftpflichtschaden-regulieren`
 
-_Formuliert konkrete Eingangsbestätigungen, begrenzte Belegnachforderungen, Zwischenbescheide, Teilregulierungen und begründete Ablehnungen im Schadenfall. Schreibt aus Sicht des Unternehmens respektvoll und klar, ohne verdeckte Anerkenntnisse, leere Prüfversprechen oder unnötige Gesundheitsabfragen._
+_Bearbeitet einen Haftpflichtschaden aus Sicht des regulierenden Versicherers: Deckungsstand, Anspruchsprüfung, Besichtigung, Reserve, Abwehr, Teilzahlung und Vergleich. Für Schadenbearbeiter mit bestehender Schadenakte und geklärtem Mandat; nicht nur eine Schadenanzeige des versicherten Unternehmens._
 
-# Regulierung korrespondieren
+# Haftpflichtschaden regulieren
 
 ## 1. Zweck und Anwendungsfall
 
-Ein Betroffener wartet auf eine Antwort, ein Versicherer braucht Ergänzungen oder eine Forderung ist entscheidungsreif. Verfasse genau das benötigte Schreiben. Erneute allgemeine Fallaufnahme nur, wenn Rolle oder Vorgang nicht zugeordnet werden können.
+Der Haftpflichtversicherer führt die Abwicklung für ein versichertes Unternehmen. Liefere die jetzt benötigte Entscheidungsvorlage und das passende Schreiben. Prüfe berechtigte wie unbegründete Positionen; die Versichererperspektive ist kein Auftrag zur pauschalen Kürzung.
 
 ## 2. Eingaben
 
-Letztes Schreiben, bestätigte Tatsachen, konkreter Prüfstand, Empfänger, Vertretung und freigegebene Zusagen. Interne Reserven oder Verhandlungsspielräume gehören nicht ungefragt in den Außenbrief.
+Lies Schadenmeldung, letzte Bearbeitungsnotiz, Anspruchsschreiben, Versicherungsschein mit Bedingungen und Vollmacht. Übernimm vorhandene Schadennummer und Sachbearbeiter. Unterscheide Versicherungsnehmer, mitversicherte Person, Geschädigten, Vertreter und weiteren Versicherer. Fehlt allein eine Bedingungsseite, sichere den Tatsachenstand und fordere genau diese Seite an.
 
 ## 3. Ablauf
 
-1. Bestimme die Textfunktion: Eingang, konkrete Nachfrage, Sachstand, Angebot, Teilzahlung oder Ablehnung. Ein Dank für die Meldung und Bedauern über die Belastung sind von einer rechtlichen Haftungszusage zu trennen.
-2. Wiederhole nur den notwendigen Ereigniskern. Behauptungen mit „Nach Ihrer Schilderung“ kennzeichnen; belegte eigene Erkenntnisse nicht hinter Leerformeln verstecken. Keine unbelegten Vorwürfe an den Fahrgast.
-3. Frage fehlende Nachweise einzeln mit Zweck ab: Kaufdatum zur Sachbewertung, Erstbefund zur Verletzung, Fahrtbeleg zur Ausgabe. Verlange nicht vorsorglich die gesamte Krankenhistorie oder sämtliche privaten Kontoauszüge.
-4. Sage konkret, welcher Schritt als Nächstes bearbeitet wird und wann eine Rückmeldung vorgesehen ist. Keine Abschlussfrist versprechen, die von ungeklärter Technik, Gutachten oder Deckung abhängt. Eine Zwischenantwort ist kein Verjährungsverzicht.
-5. Bei Teilregulierung Betrag, Position, Anrechnung und nicht erledigte Punkte ausformulieren. Bei Ablehnung den tragenden Tatsachen- oder Rechtsgrund nennen und unterscheiden, ob etwas widerlegt, nicht belegt oder noch in Prüfung ist.
-6. Prüfe Anerkenntnis- und Verjährungswirkung nach Erklärungsinhalt. Die Floskel „ohne Anerkennung einer Rechtspflicht“ ist kein universeller Schutz. Bei Anwaltsschreiben Vertretung und geeigneten Kommunikationsweg beachten; keine automatischen Außenhandlungen.
+1. Halte drei getrennte Entscheidungen fest: Deckung gegenüber dem Versicherungsnehmer, Haftung gegenüber dem Geschädigten und Befugnis zur Außenregulierung. Eine interne Reserve ist weder Haftungsanerkenntnis noch Angebot. Ein Schadenaktenzeichen beweist keinen Direktanspruch.
+2. VVG Paragraf 100 und Paragraf 101 betreffen Freistellung und Abwehr. Bestimme anhand des Vertrags versicherte Tätigkeit, Zeitraum, Ausschlüsse, Selbstbehalt und Kostenregelung. Bei Abschleppbetrieben Schäden an übernommenen Fahrzeugen, Tätigkeitsschäden, Obhut, Transport und Kfz-Risiko ausdrücklich anhand der vorhandenen Klauseln abgleichen. Aus „Betriebshaftpflicht“ folgt keine automatische Deckung jeder Beschädigung.
+3. Bereite eine begrenzte Deckungsmitteilung vor: bestätigte Punkte, genaue offene Vertrags- oder Tatsachenfrage, erbetener Beleg und nächste Prüfung. Fehlende Deckung ist keine materiell-rechtliche Ablehnung des Geschädigtenanspruchs. Mögliche Interessenkonflikte bei gemeinsamer Vertretung oder Rückgriff gesondert eskalieren.
+4. Organisiere die entscheidende Aufklärung mit Kostenfreigabe, Untersuchungsumfang, Beteiligten und Termin. Eine Besichtigung darf Beweiserhaltung und zumutbare Reparatur nicht auf unbestimmte Zeit blockieren. Keine heimliche Weisung, belastendes Material zu entfernen; Originalbefunde bleiben erhalten.
+5. Prüfe jede Forderung nach Anspruchsinhaber, Haftungsgrund, Kausalität, Beleg, Umsatzsteuer, Vorzahlung und offenem Rest. Reserve aus begründeten Szenarien und erwarteten Abwehrkosten intern dokumentieren, nicht als mathematischen Anspruchswert verkaufen. Keine willkürliche Quote allein wegen lückenhafter Unterlagen.
+6. Lege begründete Abwehr, weitere Aufklärung, unstreitige Teilregulierung oder Vergleich zur Freigabe vor. Das Außenanschreiben enthält keine internen Reserven. Bei der üblichen Betriebshaftpflicht ausdrücklich im Namen und Auftrag des bezeichneten Versicherungsnehmers handeln, soweit die Vollmacht das trägt; VVG Paragraf 115 nur bei erfüllten besonderen Voraussetzungen als Direktanspruch behandeln.
+7. VVG Paragraf 106: Die Zweiwochenfrist betrifft die dort geregelte bindende Feststellung beziehungsweise Befriedigung und Kostenmitteilung, nicht pauschal zwei Wochen nach jeder Erstmeldung. Gerichtliche Fristen und erforderliche Abwehr laufen unabhängig davon weiter. VVG Paragraf 105 ist kein allgemeines Anerkenntnisverbot.
+8. Vor Zahlung Anspruchsinhaber, Konto, Vorleistungen, Abtretungen und Freigabe prüfen. Kaskoleistung kann nach VVG Paragraf 86 einen Übergang bewirken; Selbstbehalt und nicht ersetzte Positionen verbleiben nicht automatisch ebenfalls beim Kaskoversicherer. Abgeschlossene Positionen quittieren, den offenen Rest mit Wiedervorlage fortführen. Kein Versand, Vergleich oder Zahlungsauftrag ohne gesonderte Autorisierung.
 
 ## 4. Quellenpflicht
 
-[Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schadensregulierung/references/haftung-und-regulierung.md), [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schadensregulierung/references/zitierweise.md). BGB Paragraf 203 zu Verhandlungen und Paragraf 212 zum Neubeginn gesondert prüfen. VVG Paragraf 105 nicht als pauschales Kontakt- oder Entschuldigungsverbot missverstehen.
+[Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schadensregulierung/references/haftung-und-regulierung.md) und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schadensregulierung/references/zitierweise.md). Gesetz und konkrete Versicherungsbedingungen getrennt belegen. Der Abschleppanker BGH, Urteil vom 18.02.2014, VI ZR 383/12, betrifft den öffentlich beauftragten Unternehmer und den Anspruchsgegner, nicht die Deckung einer beliebigen Abschlepppolice.
 
 ## 5. Ausgabeformat
 
-Adressat, Datum, eigene und fremde Vorgangsnummer, aussagekräftiger Betreff, Anrede, verständlicher Text, konkrete nächste Schritte, Anlagen und Unterschriftszeile. Vollständige Sätze statt einer Bausteinliste. Times New Roman 11 pt soweit möglich und dezimale Gliederung nur soweit der Brief sie benötigt. Interne Freigabehinweise außerhalb des versandfertigen Textes halten; kein erfundener Dateilink.
+Liefere eine interne Regulierungsvorlage mit Deckungsstand, Haftung, Positionsrechnung, Aufklärungsbedarf, Reservegrund und Freigabe; getrennt davon einen vollständig formulierten Außenbrief. Keine internen Überlegungen versehentlich als Anlage mitsenden. Times New Roman 11 pt soweit möglich, dezimale Gliederung. Ohne Export verwendbaren Text liefern.
 
 ## 6. Beispiel
 
-„Wir haben Ihre Unterlagen zur Hose erhalten. Für die technische Prüfung liegt uns bisher nur das nach dem Vorfall erstellte Prüfprotokoll vor. Wir haben daher die Aufzeichnungen zum Fahrtzeitpunkt angefordert und melden uns bis zum [intern bestätigtes Datum] zum Stand dieser Anforderung.“ Nur als Entwurf verwenden, solange die Anforderung nicht wirklich versandt wurde.
+Ein Abschleppbetrieb meldet einen beschädigten Schweller. Die Police enthält eine besondere Obhutsklausel, der öffentliche Auftrag ist noch nicht vollständig vorgelegt. Bereite Besichtigung und begrenzte Deckungsnachforderung vor; entscheide nicht aus dem Vorliegen der Police, dass der Betrieb dem Halter persönlich haftet oder bereits eine Zahlung zugesagt sei.
+
+---
+
+## Skill: `regress-und-anspruchsuebergang`
+
+_Ordnet Schadenforderungen zwischen Geschädigtem, Krankenkasse, Arbeitgeber und Sachversicherer zu. Prüft sachlich und zeitlich entsprechende Leistungen, Anspruchsübergänge und Rückgriff gegen weitere Verantwortliche; verhindert Doppelzahlungen und eine Abfindung fremder Ansprüche ohne Berechtigung._
+
+# Regress und Anspruchsübergang
+
+## 1. Zweck und Anwendungsfall
+
+Eine Krankenkasse meldet Heilbehandlungskosten, ein Arbeitgeber Entgeltfortzahlung oder das Unternehmen will bei Wartungsfirma oder Hersteller Rückgriff nehmen. Trenne Anspruchsinhaberschaft und Haftungsgrund von der bloßen Zahlstelle.
+
+## 2. Eingaben
+
+Leistungsaufstellung mit Zeitraum und Leistungsart, Versicherungsdaten, Entgeltfortzahlungsnachweis, Abtretung, eigene Zahlungen und Verträge mit weiteren Verantwortlichen. Eine pauschale Regressankündigung ist noch keine vollständig belegte Forderung.
+
+## 3. Ablauf
+
+1. Ordne jede Position einem ursprünglichen Gläubiger, möglichen Übergangstatbestand, Leistungsträger und Zeitraum zu. Nach SGB X Paragraf 116 sachliche und zeitliche Kongruenz und die weiteren Voraussetzungen prüfen. Die bloße Mitgliedschaft in einer Krankenkasse überträgt nicht sämtliche Ansprüche.
+2. Schmerzensgeld, eigener Sachschaden und selbst getragene Kosten bleiben von übergegangenen Heilbehandlungskosten zu unterscheiden. Dieselbe Behandlung darf nicht vollständig an den Fahrgast und zusätzlich an die Krankenkasse bezahlt werden.
+3. Bei Entgeltfortzahlung EntgFG Paragraf 6, bei eigener Sachversicherung VVG Paragraf 86 prüfen. Zahlende Stelle, tatsächliche Leistung, Umfang, Vorrechte und gegebenenfalls Quotenvorrecht nicht durch die Haftungsquote ersetzen.
+4. Bei mehreren Verantwortlichen Außenhaftung, gesamtschuldnerischen Ausgleich nach BGB Paragraf 426, gegebenenfalls HaftPflG Paragraf 13 und vertraglichen Rückgriff auseinanderhalten. Bei hoheitlichem Abschleppen Verwaltungsträger im Außenverhältnis und vertraglichen Rückgriff gegen den Unternehmer nicht vermengen. Nach Kaskozahlung Betrag, Selbstbehalt, Restpositionen und Übergang nach VVG Paragraf 86 abgleichen; eine bloße Kaskomeldung ist noch keine Leistung. Ein Werkstattauftrag beweist keinen Wartungsfehler. Herstellersicherung und technische Prüfung dürfen nicht zur Belegvernichtung führen.
+5. Behandle den eigenen Unternehmensschaden in einem getrennten Forderungsblatt mit eigenen Anspruchs- und Verjährungsvoraussetzungen. Aufrechnung nur bei tatsächlich bestehender Gegenforderung und zulässiger Aufrechnungslage prüfen; kein automatisches „Netting“.
+6. Fordere fehlende Regressangaben zielgenau an. Prüfe bei Zahlung oder Vergleich, ob der Empfänger über die Position verfügen darf. Fremde oder bereits übergegangene Ansprüche ausdrücklich außerhalb einer persönlichen Abfindung belassen.
+
+## 4. Quellenpflicht
+
+[Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schadensregulierung/references/haftung-und-regulierung.md) und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schadensregulierung/references/zitierweise.md). SGB X Paragraf 116 einschließlich etwaiger Begrenzungen, EntgFG Paragraf 6, VVG Paragraf 86 sowie BGB Paragraf 426 anhand der konkreten Leistung prüfen. Eine Quellenliste ersetzt keine Abgrenzung der Gläubiger.
+
+## 5. Ausgabeformat
+
+Gläubigertabelle „Position / Zeitraum / Leistung / Rechtsübergang / Empfänger / Zahlungsstand“ und ein vollständig ausformulierter Antwortentwurf. Keine abschließende Regressquote ohne Daten. Format soweit möglich Times New Roman 11 pt und dezimale Gliederung. Fehlende Unterlagen blockieren nur die betroffene Position.
+
+## 6. Beispiel
+
+Der Fahrgast verlangt eine Zuzahlung, die Krankenkasse Behandlungskosten und der Arbeitgeber fortgezahltes Entgelt. Das sind drei getrennte Prüfungen; die Freigabe eines Hosenersatzes erledigt keine dieser drei Forderungen.
 
 ---
 
@@ -147,7 +225,7 @@ Aktuelle Positionsrechnung, Haftungsvermerk, Deckungsstand, Vergleichsmandat, be
 
 1. Trenne Abschlag, Teilregulierung und endgültige Abfindung. Ein Abschlag benötigt klare Anrechnung; eine Abfindung benötigt einen eindeutig vereinbarten Erledigungsumfang. BGB Paragraf 779 verlangt für den Vergleich die entsprechenden Voraussetzungen.
 2. Beschreibe den Vorgang und die erfassten Positionen. Prüfe, ob unbezifferte Zukunftsschäden eingeschlossen werden sollen, medizinisch hinreichend überschaubar sind und die Verfügung dem Berechtigten zusteht. Bei unklarem Verlauf zunächst bezifferte Schäden oder einen klar abgegrenzten Teil vergleichen.
-3. Ansprüche von Krankenkasse, Arbeitgeber und anderen Rechtsnachfolgern nicht ohne deren Berechtigung erledigen. Eine globale Formulierung „sämtliche Ansprüche aller Beteiligten“ darf diese Prüfung nicht ersetzen.
+3. Ansprüche von Krankenkasse, Arbeitgeber, Kaskoversicherer oder Leasingeigentümer nicht ohne Berechtigung erledigen. Beim Abschleppen Ausführungsschaden, Abschleppgebühr und Rückgriff des öffentlichen Auftraggebers getrennt behandeln. Eine globale Formulierung „sämtliche Ansprüche aller Beteiligten“ darf diese Prüfung nicht ersetzen.
 4. Lege Betrag, Zahlungsfrist, Empfänger, Anrechnung früherer Zahlungen, Kosten und Umfang eines Vorbehalts fest. Rechtlich oder medizinisch offene Punkte ausdrücklich in der internen Freigabe kennzeichnen. Ein Vergleichsentwurf darf selbst keine verbindliche Zusage auslösen.
 5. Prüfe Vertretung, interne Zeichnungsgrenze und Versichererbefugnis. Zahlungsdaten mit einer vertrauenswürdigen bereits bekannten Quelle abgleichen; ein geändertes Konto in einer einzelnen E-Mail reicht nicht. Zahlung und Bankfreigabe erfolgen außerhalb dieses Skills durch Berechtigte.
 6. Prüfe Verjährung, Hemmung und Anerkenntniswirkung positions- und gläubigerbezogen. Nicht unterstellen, dass alle Ansprüche durch fortlaufende Korrespondenz unbegrenzt gehemmt sind.
@@ -189,7 +267,8 @@ Forderung, Kauf- und Zahlungsbelege, Alter und Zustand der Sache, Reparaturausku
 4. Angst, Schlafstörung und Vermeidungsverhalten ernst nehmen, ohne automatisch eine posttraumatische Belastungsstörung zu behaupten. Direkte Unfallbeteiligung ist kein mittelbarer Angehörigen-Schockschaden. Ist schon eine Körperverletzung belegt, können die erlittene Angst und der Verlauf in die Gesamtbemessung eingehen; eine zusätzliche eigenständige Diagnose ist nicht pauschal Voraussetzung jeder Berücksichtigung.
 5. Schmerzensgeld nach BGB Paragraf 253 Absatz 2 beziehungsweise HaftPflG Paragraf 6 Satz 2 insgesamt bewerten. Vergleichsentscheidungen nur bei hinreichend ähnlichen Verletzungen, Verlauf und Entscheidungszeitpunkt verwenden. Keine Tagessatzrechnung oder automatische Addition eines Angstpauschalbetrags.
 6. Behandlungs-, Fahrt- und Betreuungskosten nach Erforderlichkeit und tatsächlichem Träger prüfen. Arbeitsunfähigkeit allein beweist keinen eigenen Nettoverdienstausfall. Haushaltstätigkeit, Ausfalltage und Ersatzhilfe konkretisieren, statt eine Monatspauschale zu unterstellen.
-7. Additionen mit Dezimalarithmetik oder überprüfbarer Rechnung kontrollieren. Umsatzsteuer bei Sachschäden nur im rechtlich maßgeblichen Umfang; Vorsteuerabzug beim Unternehmen prüfen. Schmerzensgeld bleibt außerhalb einer rein rechnerischen Zwischensumme.
+7. Bei Fahrzeugschäden Vorschaden, neue Beschädigung, Reparaturkalkulation und tatsächliche Rechnung trennen. Umsatzsteuer nach BGB Paragraf 249 Absatz 2 Satz 2 nur soweit angefallen; Vorsteuerabzug gesondert prüfen. Mietwagen, Nutzungsausfall und gewerblichen Ausfall nicht für dieselbe Beeinträchtigung doppelt ansetzen. Leasingeigentum, Reparaturermächtigung, Abtretung und Kaskovorleistung vor einer Zahlung klären.
+8. Additionen mit Dezimalarithmetik oder überprüfbarer Rechnung kontrollieren. Umsatzsteuer bei Sachschäden nur im rechtlich maßgeblichen Umfang; Vorsteuerabzug beim Unternehmen prüfen. Schmerzensgeld bleibt außerhalb einer rein rechnerischen Zwischensumme.
 
 ## 4. Quellenpflicht
 
@@ -227,7 +306,8 @@ Nutze Ereignisbericht, Vertrag oder Fahrschein, beteiligte Rechtsträger, Betrie
 4. Bei Kraftfahrzeugen erst den Anwendungsbereich des StVG feststellen, dann insbesondere Paragraf 7, Paragraf 18 und gegebenenfalls Paragraf 17 prüfen. Eine U-Bahn ist nicht aufgrund der Unternehmensbranche ein Kraftfahrzeug. PBefG und BOStrab bestimmen unter anderem betriebliche Anforderungen, aber keinen universellen Auszahlungsanspruch.
 5. Bei Produktfehlern Hersteller und Betreiber auseinanderhalten. Nach ProdHaftG Paragraf 1 trägt grundsätzlich der Geschädigte Fehler, Schaden und Ursachenzusammenhang vor und beweist sie. Sachschäden erfordern eine andere, privat bestimmte und überwiegend privat verwendete Sache; Paragraf 11 regelt die Selbstbeteiligung. Diese Einschränkungen nicht auf andere Anspruchsgrundlagen übertragen. Ereignis- und Inverkehrbringensdatum wegen gesetzlicher Übergänge prüfen.
 6. Formuliere jede Einwendung mit Tatbestandsmerkmal und Beleg. Mitverschulden nach BGB Paragraf 254 beziehungsweise HaftPflG Paragraf 4 nicht allein aus der Unfallbeteiligung ableiten. Eine Abfahrtswarnung beweist weder verspäteten Ausstieg noch die Ursächlichkeit eines Fehlverhaltens.
-7. Ergebnis in unstreitige Voraussetzungen, streitige Voraussetzungen, verfügbare Beweise und verbleibendes Risiko trennen. Keine Haftungsquote aus unbelegten Prozentannahmen erzeugen.
+7. Bei Abschleppschäden zuerst Auftraggeber und hoheitliche oder private Ausführung klären. BGB Paragraf 839 mit Artikel 34 GG und öffentlich-rechtliche Verwahrung können den Anspruch gegen den Verwaltungsträger lenken; BGH, Urteil vom 18.02.2014, VI ZR 383/12, nicht als generelle Haftung des Abschleppunternehmers missverstehen. Für diese Rollenprüfung `abschleppschaden-pruefen` nutzen. Rechtmäßigkeit, Kosten und Ausführungsschaden bleiben getrennt.
+8. Ergebnis in unstreitige Voraussetzungen, streitige Voraussetzungen, verfügbare Beweise und verbleibendes Risiko trennen. Keine Haftungsquote aus unbelegten Prozentannahmen erzeugen.
 
 ## 4. Quellenpflicht
 
@@ -264,7 +344,8 @@ Benötigt werden Ereigniszeit mit Zeitzone, Ort, Fahrzeug oder Produkt, bekannte
 3. Vergleiche Uhrquellen. Leitstellenzeit, Fahrzeugzeit und Zeugenhandy können abweichen. Rechne nur einen belegten Versatz um und behalte Originalzeiten. Schätzungen wie „ungefähr fünf Meter“ bleiben Schätzungen.
 4. Frage Zeugen nach Standort, Sichtachse, Beginn der Wahrnehmung, konkreter Beobachtung und Erinnerungslücken. Keine suggestive Vorgabe wie „Die Tür muss defekt gewesen sein“. Ein späterer gemeinsamer Bericht ersetzt keine getrennten Aussagen.
 5. Trenne technische Anzeige und tatsächlichen Zustand: „Tür geschlossen“ ist ein Signal, kein automatischer Nachweis freien Türraums. Ein unauffälliger Werkstatttest am nächsten Tag rekonstruiert nicht selbst den Unfallzustand. Bei Produktfällen Seriennummer, Charge, Umbau und Aufbewahrung erfassen.
-6. Erstelle eine Chronologie nur aus belegten Ereignissen. Die Spalte „offen“ benennt die konkrete fehlende Quelle. Wurde eine Sicherungsbitte nur entworfen, ist der Status „nicht versandt“ und nicht „gesichert“.
+6. Bei Abschleppvorgängen Auftrag, Beschilderung samt Zusatzzeichen zur Ereigniszeit, Ausgangsstandort, Aufnahme, Transport und Abstellort sichern. Aufnahmefotos müssen gerade die später beanstandete Stelle zeigen; fehlende Unterbodenbilder nicht als Schadensfreiheit werten. Hebepunkte, Hilfsrollen, bekannte Vorschäden und Zeitpunkt der Entdeckung getrennt aufnehmen. Besichtigung vor Reparatur ermöglichen, soweit zumutbar; ausgetauschte Teile zur beweissicheren Aufbewahrung anfordern.
+7. Erstelle eine Chronologie nur aus belegten Ereignissen. Die Spalte „offen“ benennt die konkrete fehlende Quelle. Wurde eine Sicherungsbitte nur entworfen, ist der Status „nicht versandt“ und nicht „gesichert“.
 
 ## 4. Quellenpflicht
 
@@ -280,40 +361,42 @@ Ein Bahnsteigvideo zeigt erst den Nothalt, nicht den Moment des Einklemmens. Ken
 
 ---
 
-## Skill: `regress-und-anspruchsuebergang`
+## Skill: `abschleppschaden-pruefen`
 
-_Ordnet Schadenforderungen zwischen Geschädigtem, Krankenkasse, Arbeitgeber und Sachversicherer zu. Prüft kongruente Leistungszeiträume, Anspruchsübergänge und Rückgriff gegen weitere Verantwortliche; verhindert Doppelzahlungen und eine Abfindung fremder Ansprüche ohne Berechtigung._
+_Prüft Fahrzeugschäden beim Abschleppen aus Busspur, Haltestelle oder Privatfläche. Trennt Anordnung und Kosten von Ausführungsschaden, bestimmt öffentlichen oder privaten Auftraggeber, Anspruchsgegner und Versicherungsweg und klärt Vorschäden, Obhut, Reparatur und Anspruchsinhaber._
 
-# Regress und Anspruchsübergang
+# Abschleppschaden prüfen
 
 ## 1. Zweck und Anwendungsfall
 
-Eine Krankenkasse meldet Heilbehandlungskosten, ein Arbeitgeber Entgeltfortzahlung oder das Unternehmen will bei Wartungsfirma oder Hersteller Rückgriff nehmen. Trenne Anspruchsinhaberschaft und Haftungsgrund von der bloßen Zahlstelle.
+Ein Fahrzeug wurde umgesetzt und soll dabei beschädigt worden sein. Arbeite für den beauftragenden Betrieb, das Abschleppunternehmen oder dessen Haftpflichtversicherer, entsprechend dem tatsächlichen Mandat. Beginne nicht mit dem Satz, wer falsch parke, müsse sämtliche Schäden selbst tragen.
 
 ## 2. Eingaben
 
-Leistungsaufstellung mit Zeitraum und Leistungsart, Versicherungsdaten, Entgeltfortzahlungsnachweis, Abtretung, eigene Zahlungen und Verträge mit weiteren Verantwortlichen. Eine pauschale Regressankündigung ist noch keine vollständig belegte Forderung.
+Lies Auftrag, Auftraggeber, Ort und Beschilderung zur Ereigniszeit, Einsatzprotokoll, Fahrzeugdaten, Übernahme- und Abstellzustand, Forderung und Police. Öffentlicher Straßenraum und Privatparkplatz sind unterschiedliche Ausgangslagen. Eine bloße Meldung des Busfahrers ist noch kein behördlicher Abschleppauftrag.
 
 ## 3. Ablauf
 
-1. Ordne jede Position einem ursprünglichen Gläubiger, möglichen Übergangstatbestand, Leistungsträger und Zeitraum zu. Nach SGB X Paragraf 116 sachliche und zeitliche Kongruenz und die weiteren Voraussetzungen prüfen. Die bloße Mitgliedschaft in einer Krankenkasse überträgt nicht sämtliche Ansprüche.
-2. Schmerzensgeld, eigener Sachschaden und selbst getragene Kosten bleiben von übergegangenen Heilbehandlungskosten zu unterscheiden. Dieselbe Behandlung darf nicht vollständig an den Fahrgast und zusätzlich an die Krankenkasse bezahlt werden.
-3. Bei Entgeltfortzahlung EntgFG Paragraf 6, bei eigener Sachversicherung VVG Paragraf 86 prüfen. Zahlende Stelle, tatsächliche Leistung, Umfang, Vorrechte und gegebenenfalls Quotenvorrecht nicht durch die Haftungsquote ersetzen.
-4. Bei mehreren Verantwortlichen Außenhaftung, gesamtschuldnerischen Ausgleich nach BGB Paragraf 426, gegebenenfalls HaftPflG Paragraf 13 und vertraglichen Rückgriff auseinanderhalten. Ein Werkstattauftrag beweist keinen Wartungsfehler. Herstellersicherung und technische Prüfung dürfen nicht zur Belegvernichtung führen.
-5. Behandle den eigenen Unternehmensschaden in einem getrennten Forderungsblatt mit eigenen Anspruchs- und Verjährungsvoraussetzungen. Aufrechnung nur bei tatsächlich bestehender Gegenforderung und zulässiger Aufrechnungslage prüfen; kein automatisches „Netting“.
-6. Fordere fehlende Regressangaben zielgenau an. Prüfe bei Zahlung oder Vergleich, ob der Empfänger über die Position verfügen darf. Fremde oder bereits übergegangene Ansprüche ausdrücklich außerhalb einer persönlichen Abfindung belassen.
+1. Trenne drei Vorgänge: Rechtmäßigkeit der Anordnung, Abschleppkosten und Beschädigung bei Aufnahme, Transport oder Abstellen. Ein rechtmäßiger Auftrag erlaubt keine unsorgfältige Ausführung. Ein rechtswidriges Parken beweist weder den Schaden noch dessen Verursachung und erzeugt keine automatische Mithaftungsquote.
+2. Für die Busspur Zeichen 245 mit Zusatzzeichen und zeitlicher Geltung dokumentieren. Zeichen 224 verbietet das Parken bis zu 15 Meter vor und hinter der Haltestelle, nicht jedes kurze Halten. StVO Paragraf 12 Absatz 2 unterscheidet Halten und Parken; weitere Verbote und konkrete Behinderung bleiben relevant. Keine pauschale bundesweite Abschleppbefugnis eines Verkehrsunternehmens behaupten.
+3. Auftraggeber und hoheitliche Grundlage anhand der Einsatzunterlagen bestimmen. Bei behördlicher Ersatzvornahme BGB Paragraf 839 mit Artikel 34 GG sowie das öffentlich-rechtliche Verwahrungsverhältnis prüfen. BGH, Urteil vom 18.02.2014, VI ZR 383/12: In dieser Konstellation ist der private Abschleppunternehmer hoheitlich tätig; der Außenanspruch ist nicht schlicht als Deliktsanspruch gegen ihn zu führen. Den Verwaltungsträger und einen möglichen internen Vertragsrückgriff getrennt ermitteln.
+4. Bei eigener Befugnis eines Verkehrsbetriebs das konkrete Landesrecht prüfen; in Berlin insbesondere MobG BE Paragraf 23 in der Ereignisfassung. Die Befugnisse der dort genannten BVG nicht auf jede private Busgesellschaft übertragen. Bei rein privatem Auftrag Vertragspartner, Eigentümer, Besitzschutz, mögliche Schutzwirkung und gegebenenfalls einschlägiges Frachtrecht anhand der übernommenen Leistung prüfen. Keine Übertragung des öffentlich-rechtlichen BGH-Falls auf jeden Privatparkplatz.
+5. Obhutskette aufbauen: Ausgangszustand, Aufnahmemethode, Zug- oder Hebepunkte, Radstellung, Hilfsrollen, Transport, Abstellplatz und Entdeckung. Originalfotos einschließlich Metadaten, Fahrzeughinweise und Aussagen sichern. Ein Foto ohne sichtbaren Unterboden beweist dessen Unversehrtheit nicht. Eine Unterschrift zur Fahrzeugübernahme ist nicht automatisch Verzicht auf verdeckte Schäden.
+6. Jeden Kratzer und jede Verformung einzeln zuordnen. Vorschäden, Reparaturhistorie, Spurenlage und technische Kompatibilität sachverständig abgrenzen, ohne Kausalität aus dem zeitlichen Nacheinander allein zu folgern. Beweislast und mögliche Erleichterungen aus Obhut und Anspruchsgrundlage begründen; keine automatische Beweislastumkehr für sämtliche Schäden. Vor Reparatur zumutbare Besichtigungsmöglichkeit und Beweissicherung abstimmen.
+7. Kalkulation, tatsächliche Reparatur und Zahlungsbeleg unterscheiden. BGB Paragraf 249 Absatz 2 Satz 2: Umsatzsteuer nur soweit tatsächlich angefallen; Vorsteuerabzug gesondert. Erforderliche Mietwagenkosten, Nutzungsausfall und gewerblichen Ausfall nicht doppelt ansetzen. Standkosten, Gutachterkosten, Wertminderung und Sicherheitsbeeinträchtigung belegen statt pauschal addieren.
+8. Eigentum, Leasing, Reparaturermächtigung, Abtretung und Kaskovorleistung prüfen. Betriebshaftpflicht, Kfz-Haftpflicht des Abschleppfahrzeugs und Kasko nicht gleichsetzen. Haftung, Deckung, Direktanspruch nach VVG Paragraf 115 und Rückgriff nach VVG Paragraf 86 jeweils gesondert behandeln. Anordnungs- und Kostenrechtsbehelfe haben einen eigenen Fristenweg; kein Stillstand wegen laufender Regulierung.
 
 ## 4. Quellenpflicht
 
-[Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schadensregulierung/references/haftung-und-regulierung.md) und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schadensregulierung/references/zitierweise.md). SGB X Paragraf 116 einschließlich etwaiger Begrenzungen, EntgFG Paragraf 6, VVG Paragraf 86 sowie BGB Paragraf 426 anhand der konkreten Leistung prüfen. Eine Quellenliste ersetzt keine Abgrenzung der Gläubiger.
+[Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schadensregulierung/references/haftung-und-regulierung.md), Abschnitt Abschleppen, und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schadensregulierung/references/zitierweise.md). BGH VI ZR 383/12 nur innerhalb seiner hoheitlichen Auftragskonstellation verwenden. Aktuelle Landesnorm, Versicherungsbedingungen und eventuelles Frachtrecht vor Freigabe im Original prüfen; keine erfundenen Haftungsgrenzen.
 
 ## 5. Ausgabeformat
 
-Gläubigertabelle „Position / Zeitraum / Leistung / Rechtsübergang / Empfänger / Zahlungsstand“ und ein vollständig ausformulierter Antwortentwurf. Keine abschließende Regressquote ohne Daten. Format soweit möglich Times New Roman 11 pt und dezimale Gliederung. Fehlende Unterlagen blockieren nur die betroffene Position.
+Liefere einen begründeten Vermerk mit getrennten Spalten „Anordnung und Kosten“, „Ausführung und Schaden“ und „Deckung und Rückgriff“, danach das tatsächlich benötigte Schreiben an Geschädigten, Versicherer, Auftraggeber oder Sachverständigen. Konkrete Schadenpositionen, Belegbedarf und Empfänger ausformulieren. Times New Roman 11 pt soweit möglich, dezimale Gliederung; bei fehlendem Export Text statt eines erfundenen PDF.
 
 ## 6. Beispiel
 
-Der Fahrgast verlangt eine Zuzahlung, die Krankenkasse Behandlungskosten und der Arbeitgeber fortgezahltes Entgelt. Das sind drei getrennte Prüfungen; die Freigabe eines Hosenersatzes erledigt keine dieser drei Forderungen.
+Ein Wagen steht in einer Busspur; nach dem Umsetzen zeigt sich eine Delle im Schweller. Die Felge hatte schon zuvor einen Randkratzer. Fordere den Auftrag und die Aufnahmedokumentation an, trenne beide Beschädigungen und die Abschleppgebühr. Ein Versichererbrief mit Schadennummer ersetzt weder den Nachweis der Delle noch die Prüfung des richtigen Anspruchsgegners.
 
 ---
 

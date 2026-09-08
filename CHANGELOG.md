@@ -1,3 +1,13 @@
+# v443.5.0 - Versichererregulierung und Abschleppschäden
+
+- Schadensregulierung auf zehn klar abgegrenzte Skills erweitert: Der Haftpflichtversicherer bearbeitet Schäden aktiv; ein eigener Arbeitsweg prüft Fahrzeugschäden beim Abschleppen aus Busspuren, Haltestellen und privaten Flächen. Die bisherigen acht Aufgaben bleiben erhalten und werden rollenbezogen ergänzt.
+- Werkstatt und Schnellstart unterscheiden Deckung, Haftung, Außenbefugnis, Besichtigung, interne Reserve und Zahlung. Der Schnellstart bleibt unter 7500 Bytes. Anordnung, Abschleppkosten und Ausführungsschaden sowie öffentliche und private Aufträge werden getrennt; BGH VI ZR 383/12 wird nur für die hoheitliche Konstellation verwendet.
+- Zusätzliche Berliner Akte mit fünfzehn Originalunterlagen: Auftragsjournal, Fahrerbericht, Zustandsblatt, Fahrzeugunterlagen, detaillierter Kostenvoranschlag, Werkstattbefund, Policennachtrag und Korrespondenz bis zur anstehenden Besichtigung. Keine vorgegebene Haftungsquote, keine erfundenen vorhandenen Fotos und keine bereits vorweggenommene Regulierung.
+- Gesamt-PDF, flaches Originalformat-ZIP und flaches Einzel-PDF-ZIP mit identischem Unterlagenbestand; vier ausformulierte Word-Dokumente, sieben E-Mails und vier Textunterlagen. Die bestehende U-Bahn-Akte bleibt unverändert.
+- Gezielte Regressionen prüfen Kalkulation, offene Rechnungsstellung, beide Aktenpakete, native Inhalte, Vollständigkeit, Verweise und Promptgrenzen. Arbeitsnavigation, Beschreibungen und zentrale Verzeichnisse aktualisiert.
+
+---
+
 # v443.4.0 - Schadensregulierung aus Unternehmenssicht
 
 - Neues kompaktes Plugin mit acht sprechenden Fachaufgaben: Schadenaufnahme, Beweissicherung, Haftungsweg, Versicherung, Schadenpositionen, Anspruchsübergang, Korrespondenz sowie Vergleich und kontrollierte Zahlung. Keine automatische Außenhandlung.

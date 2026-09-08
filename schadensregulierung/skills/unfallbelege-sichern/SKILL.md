@@ -20,7 +20,8 @@ Benötigt werden Ereigniszeit mit Zeitzone, Ort, Fahrzeug oder Produkt, bekannte
 3. Vergleiche Uhrquellen. Leitstellenzeit, Fahrzeugzeit und Zeugenhandy können abweichen. Rechne nur einen belegten Versatz um und behalte Originalzeiten. Schätzungen wie „ungefähr fünf Meter“ bleiben Schätzungen.
 4. Frage Zeugen nach Standort, Sichtachse, Beginn der Wahrnehmung, konkreter Beobachtung und Erinnerungslücken. Keine suggestive Vorgabe wie „Die Tür muss defekt gewesen sein“. Ein späterer gemeinsamer Bericht ersetzt keine getrennten Aussagen.
 5. Trenne technische Anzeige und tatsächlichen Zustand: „Tür geschlossen“ ist ein Signal, kein automatischer Nachweis freien Türraums. Ein unauffälliger Werkstatttest am nächsten Tag rekonstruiert nicht selbst den Unfallzustand. Bei Produktfällen Seriennummer, Charge, Umbau und Aufbewahrung erfassen.
-6. Erstelle eine Chronologie nur aus belegten Ereignissen. Die Spalte „offen“ benennt die konkrete fehlende Quelle. Wurde eine Sicherungsbitte nur entworfen, ist der Status „nicht versandt“ und nicht „gesichert“.
+6. Bei Abschleppvorgängen Auftrag, Beschilderung samt Zusatzzeichen zur Ereigniszeit, Ausgangsstandort, Aufnahme, Transport und Abstellort sichern. Aufnahmefotos müssen gerade die später beanstandete Stelle zeigen; fehlende Unterbodenbilder nicht als Schadensfreiheit werten. Hebepunkte, Hilfsrollen, bekannte Vorschäden und Zeitpunkt der Entdeckung getrennt aufnehmen. Besichtigung vor Reparatur ermöglichen, soweit zumutbar; ausgetauschte Teile zur beweissicheren Aufbewahrung anfordern.
+7. Erstelle eine Chronologie nur aus belegten Ereignissen. Die Spalte „offen“ benennt die konkrete fehlende Quelle. Wurde eine Sicherungsbitte nur entworfen, ist der Status „nicht versandt“ und nicht „gesichert“.
 
 ## 4. Quellenpflicht
 

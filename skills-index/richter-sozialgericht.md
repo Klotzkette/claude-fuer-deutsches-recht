@@ -1,6 +1,6 @@
 # richter-sozialgericht
 
-**14 Skills** · Stand `v443.4.0`
+**14 Skills** · Stand `v443.5.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gerichtsplugins/richter-sozialgericht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

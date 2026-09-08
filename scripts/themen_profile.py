@@ -5621,8 +5621,8 @@ PROFILE = PROFILE + SUBPROFILE + ADDITIONAL_PROFILE + SPECIALTY_PROFILE + FINAL_
 PROFILE += (
     ThemenProfil(
         key="schadensregulierung",
-        label="Schadensregulierung aus Unternehmenssicht",
-        rolle="Bearbeiter von Fremdschäden auf Unternehmens- und Beklagtenseite mit getrenntem Eigenschaden, Versicherungsweg, Regress und kontrollierter Regulierung.",
+        label="Schadensregulierung für Unternehmen und Haftpflichtversicherer",
+        rolle="Bearbeiter auf Unternehmens-, Beklagten- oder Haftpflichtversichererseite mit getrennten Entscheidungen über Haftung, Deckung, Außenbefugnis und Zahlung; einschließlich Abschleppschäden.",
         oeffnungssatz="Bearbeite die vorliegende Schadenmeldung bis zum nächsten benötigten Schreiben oder zur begründeten Regulierungsvorlage.",
         normen=(
             "HaftPflG Paragraf 1, Paragraf 4 und Paragraf 6: Schienenbetrieb, Mitverschulden und Personenschaden; nicht mit der Kraftfahrzeughaftung gleichsetzen.",
@@ -5630,17 +5630,22 @@ PROFILE += (
             "VVG Paragraf 100 bis Paragraf 106: Abwehr, Freistellung, Anzeige und Anerkenntnis; Paragraf 115 nicht auf jede Betriebshaftpflicht übertragen.",
             "SGB X Paragraf 116, EntgFG Paragraf 6 und VVG Paragraf 86: Anspruchsübergänge positionsbezogen prüfen.",
             "BGB Paragraf 249 bis Paragraf 254 und Paragraf 779: Schaden, Mitverschulden und begrenzte Vergleichsregelung.",
+            "BGB Paragraf 839 mit Artikel 34 GG und öffentlich-rechtliche Verwahrung: hoheitliche Abschleppaufträge vom privaten Auftrag unterscheiden.",
+            "StVO Paragraf 12 Absatz 2 und Zeichen 224 sowie Zeichen 245: Parken an Haltestellen, Busspur und Zusatzzeichen; Anordnung, Kosten und Ausführungsschaden trennen.",
         ),
         entscheidungen=(
             "BGH, Urteil vom 15.02.2022 - VI ZR 937/20: Gesamtbemessung statt taggenauer Schmerzensgeldrechnung; keine Betragsübernahme aus dem schweren Ausgangsfall.",
             "BGH, Urteil vom 06.12.2022 - VI ZR 168/21: psychische Störung von Krankheitswert bei mittelbarem Schockschaden; Zurechnung bleibt zu prüfen, kein U-Bahn-Urteil.",
+            "BGH, Urteil vom 18.02.2014 - VI ZR 383/12: Unternehmer bei behördlicher Ersatzvornahme hoheitlich tätig; Außenhaftung des Verwaltungsträgers und Innenregress getrennt prüfen.",
         ),
         stationen=(
-            "Schadenmeldung: Ereignis, Rechtsträger, verletzte Person, flüchtige Belege und Versicherungsanzeige zuordnen.",
+            "Schadenmeldung: Rolle, Ereignis, Rechtsträger und flüchtige Belege; als Versicherer keine Anzeige an sich selbst erzeugen.",
             "Haftungsprüfung: Vertrag, Delikt und passendes Gefährdungsregime mit Tatsachen und Entlastungsbelegen trennen.",
             "Schadenhöhe: Behandlung, Kleidung, Ausfall, Schmerzensgeld und bisherige Zahlungen belegt prüfen.",
             "Gläubigerprüfung: Fahrgast, Krankenkasse, Arbeitgeber und Versicherer nach Leistungsart und Zeitraum abgrenzen.",
             "Regulierung: Antwort, Teilzahlung, Vergleich oder Ablehnung mit Vollmacht und offenem Rest ausformulieren.",
+            "Versichererbearbeitung: Deckung und Haftung getrennt prüfen, Besichtigung beauftragen lassen, Reserve intern halten und Außenbrief begrenzt freigeben.",
+            "Abschleppschaden: Auftraggeber, Beschilderung, Obhutskette, Vorschaden, Reparaturkalkulation und Anspruchsinhaber ermitteln.",
         ),
         pruefraster=(
             "Welche konkrete Belegquelle geht verloren, wenn ihre Sicherung heute unterbleibt?",
@@ -5652,6 +5657,7 @@ PROFILE += (
             "Eine umfassende Abfindung soll ungeklärte medizinische Zukunftsschäden erledigen.",
             "Zahlungsempfänger, Kontowechsel oder Regulierungsvollmacht sind nicht bestätigt.",
             "Gerichtspost oder unmittelbar drohender Belegverlust wartet auf eine Versicherungsantwort.",
+            "Ein Parkverstoß soll ohne weitere Prüfung sämtliche Abschleppschäden ausschließen.",
         ),
     ),
 )

@@ -39,6 +39,12 @@ PRIORITY_GROUPS: list[tuple[str, tuple[str, ...]]] = [
 ]
 
 EXACT_GROUPS: dict[str, str] = {
+    "schadenfall-aufnehmen": "1. Einstieg und Fallrouting",
+    "versicherung-einschalten": "1. Einstieg und Fallrouting",
+    "schadenpositionen-pruefen": "3. Prüfung, Anspruch und Subsumtion",
+    "abschleppschaden-pruefen": "3. Prüfung, Anspruch und Subsumtion",
+    "haftpflichtschaden-regulieren": "4. Gestaltung, Strategie und Verhandlung",
+    "regulierung-korrespondieren": "6. Ergebnis, Schreiben und Kommunikation",
     "juristischer-argumentationskern": "3. Prüfung, Anspruch und Subsumtion",
     "einfuehrung-mandantenanliegen": "1. Einstieg und Fallrouting",
     "rollen-und-harness-wahl": "1. Einstieg und Fallrouting",
