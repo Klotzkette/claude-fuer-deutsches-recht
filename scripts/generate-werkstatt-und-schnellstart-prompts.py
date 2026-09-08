@@ -5391,6 +5391,20 @@ def plugin_route_detail(plugin_slug: str, title: str) -> str:
 def supplemental_plugin_routes(plugin_slug: str) -> tuple[tuple[str, str, str], ...]:
     """Ergänzt kleine Spezialsets um eigenständige, normnahe Arbeitsstationen."""
 
+    if plugin_slug == "notariat-alltag":
+        return (
+            ("Mandantenordner aufnehmen", "Lies Auftrag, aktuellen Entwurf und die passenden Register-, Grundbuch- oder Bankunterlagen. Trenne belegte Angabe, Kundenwunsch und offene Entscheidung. Frage nicht erneut nach bereits vorhandenen Personalien.", "belegter erster Entwurf zur notariellen Prüfung und gezielte Unterlagenanforderung"),
+            ("Beteiligte und Vertretung", "Erfasse Rollen und Personalien mit Herkunft. BeurkG Paragrafen 10 und 12: Kopie, Originalvorlage und notarielle Feststellung unterscheiden; Vertretung nicht aus E-Mail-Signaturen ableiten.", "Beteiligtenblatt und Terminanschreiben mit konkreten Nachweisen"),
+            ("Beurkundung oder Beglaubigung", "Ordne jede Erklärung separat zu. BeurkG Paragraf 40 verlangt Vollziehen oder Anerkennen vor dem Notar. Abschriftsbeglaubigung bestätigt nicht den Inhalt. Ein gewöhnlicher Videoanruf ersetzt kein zugelassenes Verfahren.", "Formblatt mit Erklärung, Unterzeichner, Nachweis und Terminweg"),
+            ("Bauträgerkauf vorbereiten", "Verbinde Grundbuch, Teilung, Baubeschreibung, Sonderwünsche und Finanzierung. BeurkG Paragraf 17 Absatz 2a sowie MaBV Paragraf 3: Bereitstellung, Sicherungsvoraussetzungen und Ratenbasis gesondert prüfen.", "Kaufvertragsentwurf mit vollständigen Leistungsregeln und bezeichneten Anlagefassungen"),
+            ("Grundschuld und Bankauftrag", "Trenne Grundbuchbewilligung nach GBO Paragrafen 19 und 29 von Vollstreckungsunterwerfung nach ZPO Paragraf 794. Eigentümer, Darlehensnehmer, persönliche Haftung, Rang und Ablösebedingungen getrennt abgleichen.", "Bestellungsentwurf mit Bankabgleich und offenem Freigabestand"),
+            ("GmbH oder UG gründen", "GmbHG Paragrafen 2, 5a und 7: Musterprotokoll, individuelle Satzung, Einlageplan und tatsächliche Zahlung prüfen. Der Geschäftsführer muss beim Muster nicht beteiligt sein. Eine Zahlungsankündigung ist keine Gutschrift.", "Satzungs- und Anmeldeentwurf mit nachvollziehbarer Anteilsrechnung"),
+            ("Kapitalerhöhung durchführen", "Trenne Beschlussbeurkundung nach GmbHG Paragraf 53 Absatz 3, Übernahme nach Paragraf 55 Absatz 1 und Anmeldung. Nennbetrag, Aufgeld, Übernehmerliste und Eintragungswirkung nach Paragraf 54 Absatz 3 abgleichen.", "Beschluss-, Übernahme- und Anmeldeentwürfe mit zeitlicher Vollzugsfolge"),
+            ("Geschäftsführerwechsel anmelden", "Ordne Beschluss, Annahme, Wirksamkeit, Vertretung und Anstellungsvertrag getrennt. GmbHG Paragraf 39 verlangt Nachweise und Versicherung; HGB Paragraf 12 den elektronischen Formweg.", "Bestellungsbeschluss und Registermappe ohne fingierte Versicherungen"),
+            ("Anteile übertragen und verpfänden", "GmbHG Paragraf 15 und BGB Paragraf 1274: Kauf, Abtretung und Pfand unterscheiden. Bankauszahlung und Abtretungsbedingung müssen zeitlich zusammenpassen. Bloßes Pfand macht die Bank nicht zum Gesellschafter.", "Vertragsentwurf mit Anteilsbestand und offenem Sicherungsablauf"),
+            ("Vorlage und Vollzugskontrolle", "Prüfe Fassungen, Anlagen, Beträge und Unterzeichner. Vorbereitet, freigegeben, versandt und eingetragen sind verschiedene Status. Signatur, Zeugnis und Amtshandlung bleiben beim Notar.", "ausformulierter Vorlagevermerk mit nächstem zulässigem Schritt"),
+        )
+
     if plugin_slug == "schadensregulierung":
         return (
             ("Vorfall und Bearbeiterrolle", "Ordne Meldung, Kenntnistag, Rechtsträger und benötigten Entwurf zu. Als Unternehmen VVG Paragraf 104 beachten; als bereits regulierender Versicherer keine Anzeige an sich selbst erzeugen.", "rollenrichtiger Erstentwurf mit Ereignis, gefährdeten Belegen, Zuständigkeit und offenem Deckungsstand"),
@@ -6330,6 +6344,7 @@ def practice_routes(
         "roemisches-recht",
         "staatsanwaltschaft-amtsanwaltschaft",
         "normenkontrollrat-nkr",
+        "notariat-alltag",
         "prozessrecht",
         "produktrecht",
         "schadensregulierung",

@@ -1,101 +1,51 @@
 ---
 name: 002-beurkundung-oder-unterschriftsbeglaubigung-richtig
-description: "Für Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
+description: "Prüft zusammengesetzte Notariatsvorgänge auf unterschiedliche Formanforderungen: etwa Kapitalerhöhung mit Übernahme und Registeranmeldung oder Grundschuld mit Unterwerfung. Trennt die Erklärungen und klärt, welche Beglaubigung beziehungsweise Beurkundung jeweils erforderlich ist."
 ---
 
-# Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig einordnen
+# Beurkundung und Beglaubigung sicher vorbereiten
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Nutze diesen Vertiefungsweg bei zusammengesetzten Vorgängen oder widersprüchlichen Formwünschen. Für die erste Zuordnung eines einzelnen Kundenauftrags genügt der Mitarbeiterweg zur Formeinordnung. Kläre hier die Form jeder Erklärung, nicht bloß den Titel des Gesamtvorgangs. Mitarbeiter bereiten vor; nur der Notar nimmt die Amtshandlung vor. Eine Unterschriftsbeglaubigung ersetzt keine notwendige Beurkundung des Inhalts.
 
-## Zweck und Anwendungsbereich
+## 2. Eingaben
 
-Die Abgrenzung zwischen Beurkundung und Beglaubigung ist eine der häufigsten Fehlerquellen im Notariat. Ein formal falsch eingestufter Vorgang ist nichtig (§ 125 BGB) oder scheidet beim Registergericht aus. Dieser Skill gibt ein strukturiertes Prüfprogramm für jeden Sachverhalt, in dem Parteien oder Sachbearbeitung die Urkundsform nicht sicher kennen.
+Lies Erklärung, Verwendungszweck, Empfänger, Parteien und vorhandene Vorurkunde. Bei „Bitte beglaubigen“ kläre nur, ob Unterschrift, Abschrift oder Beurkundung gemeint ist, soweit das nicht bereits aus den Unterlagen folgt.
 
-Rechtsgrundlagen: §§ 6–35 BeurkG (Beurkundungsverfahren), §§ 36–44 BeurkG (Beglaubigungen), § 129 BGB (öffentliche Beglaubigung), § 403 ZPO (Vollstreckung), § 311b BGB, § 1410 BGB, § 2231 Nr. 1 BGB, § 2276 BGB, § 15 Abs. 3 GmbHG, § 2 GmbHG, § 53 GmbHG, §§ 23, 130 AktG, §§ 19–20 GBO.
+## 3. Ablauf
 
-## Abgrenzungsmatrix
+### 3.1. Jede Erklärung separat zuordnen
 
-| Merkmal | Beurkundung (§§ 6–35 BeurkG) | Beglaubigung (§§ 39–44 BeurkG) |
-|---|---|---|
-| Inhalt der Urkunde | Vollständig verlesen, von Notar errichtet | Nur Unterschrift/Handzeichen bezeugt |
-| Belehrungspflicht | Ja, § 17 BeurkG | Nein (nur bei Bedenken, § 40 Abs. 4) |
-| Vorlesen | Pflicht, § 13 BeurkG | Nicht erforderlich |
-| Willenserklärungs-Funktion | Vollständige Beurkundung | Nur Unterschriftsbezeugung |
-| Formzwang | Wo Gesetz „notarielle Beurkundung" verlangt | Wo Gesetz „öffentliche Beglaubigung" genügt |
-| Rechtsfolge Fehler | Nichtigkeit § 125 BGB | Fehlende Beglaubigung: kein Register |
+| Erklärung | Form und Quelle | Vorbereitung |
+| --- | --- | --- |
+| Grundstückskauf oder Bauträgerkauf | Beurkundung, BGB Paragraf 311b Absatz 1 | Vertragsentwurf, Anlagen und Verbraucherfrist |
+| GmbH-Gesellschaftsvertrag | Beurkundung, GmbHG Paragraf 2 | Satzung, Beteiligte und Vertretung |
+| Kapitalerhöhungsbeschluss | Beurkundung, GmbHG Paragraf 53 Absatz 3 | Beschlussentwurf, Mehrheit und Satzung |
+| Übernahme eines neuen Geschäftsanteils | Notariell aufgenommen oder beglaubigt, GmbHG Paragraf 55 Absatz 1 | Eigene Erklärung jedes Übernehmers |
+| GmbH-Anteilsabtretung und Verpflichtung dazu | Beurkundung, GmbHG Paragraf 15 Absätze 3 und 4 | Genau bezeichnete Anteile und Bedingungen |
+| GmbH-Anteilsverpfändung | BGB Paragraf 1274 zusammen mit GmbHG Paragraf 15 Absatz 3 | Pfandvertrag statt Gesellschafterwechsel |
+| Grundbuchbewilligung | GBO Paragrafen 19 und 29 | Öffentliche oder öffentlich beglaubigte Urkunde nach Inhalt |
+| Vollstreckungsunterwerfung bei Grundschuld | Notarielle Urkunde, ZPO Paragraf 794 Absatz 1 Nummer 5 | Dingliche und persönliche Erklärung trennen |
+| Handelsregisteranmeldung | HGB Paragraf 12 | Öffentliche Beglaubigung und elektronische Einreichung |
+| Geschäftsführerbestellung | Regelmäßig Beschluss ohne gesetzliche Beurkundungspflicht, Satzung prüfen | Beschlussnachweis und separate Anmeldung |
 
-## Formzwang-Katalog
+### 3.2. Bereits geleistete Unterschrift behandeln
 
-**Notarielle Beurkundung zwingend:**
-- Grundstückskaufvertrag: § 311b Abs. 1 BGB
-- Ehevertrag: § 1410 BGB
-- Erbvertrag: § 2276 Abs. 1 BGB
-- Schenkungsversprechen (kein Vollzug): § 518 Abs. 1 BGB
-- GmbH-Gründungsvertrag: § 2 Abs. 1 GmbHG
-- Anteilsabtretung GmbH: § 15 Abs. 3 GmbHG
-- Satzungsänderung GmbH: § 53 Abs. 2 GmbHG
-- Adoptionsvertrag: § 1750 BGB
-- Erbverzicht: § 2348 BGB
+Für die Unterschriftsbeglaubigung nach BeurkG Paragraf 40 muss die Unterschrift vor dem Notar vollzogen oder anerkannt werden. Ein Mitarbeitervergleich mit dem Ausweisscan genügt nicht. Bewahre den vollständigen Erklärungstext. Leere oder nachträglich ergänzte Textfelder sind Anlass zur notariellen Entscheidung.
 
-**Öffentliche Beglaubigung genügend:**
-- Handelsregisteranmeldung: § 12 HGB
-- Grundbuchantrag (Löschungsbewilligung): § 29 GBO
-- Gesellschafterliste: § 40 GmbHG (i.V.m. elektronischer Einreichung)
-- Erbscheinsantrag: § 352 FamFG
+### 3.3. Termin und Übermittlung getrennt vorbereiten
 
-**Beglaubigung nicht zulässig, weil Beurkundung nötig:**
-- Auflassung: § 925 BGB i.V.m. § 20 GBO
-- Grundschuldbestellung: § 873 BGB i.V.m. §§ 19, 29 GBO (→ Eintragungsbewilligung: Beglaubigung genügt; aber Einigungserklärung: Beurkundung nötig)
+Prüfe bei Video den gesetzlich zugelassenen Vorgang und das vorgesehene notarielle Verfahren. Ein gewöhnliches Videotelefonat ersetzt es nicht. Die Beglaubigung einer Abschrift bestätigt die Übereinstimmung mit der vorgelegten Vorlage; sie bestätigt weder deren sachliche Richtigkeit noch eine darauf befindliche Unterschrift. Dokumentiere, welche Vorlage tatsächlich vorlag.
 
-## Prüfprogramm
+## 4. Quellenpflicht
 
-1. Welche Rechtsnorm schreibt die Form vor? Volltext nachlesen (Wortlaut: „notarielle Beurkundung" vs. „öffentliche Beglaubigung" vs. „in öffentlich beglaubigter Form").
-2. Ist die Willenserklärung Gegenstand der Urkunde oder nur die Unterschrift?
-3. Liegt Verbrauchervertrag vor? → Wartefrist § 17 Abs. 2a BeurkG nur bei Beurkundung.
-4. Belehrungsbedarf prüfen (§ 17 BeurkG): Verständnis sichergestellt, Dolmetscher nötig?
-5. Gegenstand register- oder grundbuchtauglich? Beglaubigung ggf. nicht ausreichend für Eintragung.
-6. Ist Vollstreckungsunterwerfung gewünscht? → zwingend Beurkundung (§ 794 Abs. 1 Nr. 5 ZPO).
+[Amtliche Formwege und Stand](../../references/mitarbeiter-formwege.md) sowie [Zitierweise](../../references/zitierweise.md). Absatznummern anhand des aktuellen Gesetzestextes prüfen. Für die Kapitalerhöhung nicht ungeprüft eine ältere Fassung von Paragraf 53 GmbHG übernehmen.
 
-## Typische Fallen
+## 5. Ausgabeformat
 
-- Parteien wünschen „einfache Unterschriftsbeglaubigung" für Grundstückskaufvertrag – das ist unwirksam (§ 125 BGB, § 311b BGB), keine Heilungsmöglichkeit bis zur Auflassung im Wege der Genehmigung nach § 141 BGB.
-- Satzungsänderung per beglaubigter Unterschrift eingereicht – Registergericht weist zurück (§ 53 Abs. 2 GmbHG).
-- Vollstreckungsunterwerfung in beglaubigtem Dokument – unwirksam; Titel entsteht nicht.
-- Erbscheinsantrag irrtümlich beurkundet statt beglaubigt – kein Schaden, aber unnötige Kosten.
-- Löschungsbewilligung als Beurkundung aufgenommen – zulässig, aber höhere Kosten ohne Mehrwert.
+Formblatt mit Erklärung, Norm, Form, Unterzeichner, Nachweis und nächstem Termin sowie ein ausformuliertes Anschreiben. Entwürfe bleiben als solche gekennzeichnet. Format: Times New Roman 11 pt, dezimale Gliederung, vollständige Sätze statt eines Klauselskeletts.
 
-## Sonderfall: gemischte Urkunde
+## 6. Beispiel
 
-Enthält eine Urkunde sowohl Willenserklärungen (Beurkundungsinhalt) als auch bloße Unterschriftsbezeugung (Beglaubigungsinhalt), gilt für jeden Teil das jeweilige Formerfordernis. Bei Zweifeln geht die strengere Form (Beurkundung) vor.
-
-## Kostenrelevanz
-
-Beurkundung: Gebühren nach KV Nr. 21100 ff. GNotKG (i.d.R. 1,0–2,0 Gebühr je nach Geschäft).
-Beglaubigung: KV Nr. 25100 GNotKG – pauschal nach Gegenstandswert, max. 70 € je Unterschrift.
-Irrtümliche Wahl der teureren Form führt zu keiner Rückerstattungspflicht, sofern die Form zulässig war.
-
-## Rechtsquellen und Fundstellen
-
-- BeurkG §§ 6–44: https://www.gesetze-im-internet.de/beurkg/
-- § 311b BGB: https://dejure.org/gesetze/BGB/311b.html
-- § 1410 BGB: https://dejure.org/gesetze/BGB/1410.html
-- § 15 GmbHG: https://dejure.org/gesetze/GmbHG/15.html
-- § 29 GBO: https://dejure.org/gesetze/GBO/29.html
-- BGH-Rechtsprechung Formfehler: https://www.bgh.de
-- GNotKG KV: https://www.gesetze-im-internet.de/gnotkg/
-
-## Output-Formate
-
-- **Formzwang-Prüfblatt** (Norm, Form, Folge bei Fehler)
-- **Entscheidungsbaum** (Beurkundung / Beglaubigung / keine Form nötig)
-- **Kostenvergleich** (Beurkundung vs. Beglaubigung für konkreten Gegenstandswert)
-- **Mandantenhinweis** (warum Beurkundung nötig, was passiert bei Fehler)
-- **Registertauglichkeitsprüfung** (genügt die Form für Grundbuch/HR-Einreichung?)
-
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+Ein Geschäftsführerwechsel wird zusammen mit einer Kapitalerhöhung angemeldet. Trenne Bestellungsbeschluss, beurkundeten Erhöhungsbeschluss, Übernahmeerklärung und öffentlich beglaubigte Anmeldung. „Alles nur beglaubigen“ ist keine tragfähige Vorgangsbeschreibung.

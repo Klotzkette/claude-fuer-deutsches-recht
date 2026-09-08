@@ -65,6 +65,7 @@ jobs:
           python3 scripts/validate-testakte-bwa-abstimmung.py
           python3 scripts/test-grundsteuer-wolkenfels.py
           python3 scripts/test-schadensregulierung.py
+          python3 scripts/test-notariatswerkstatt.py
 
       - name: Skill-Aktivierungssignale prüfen
         run: |

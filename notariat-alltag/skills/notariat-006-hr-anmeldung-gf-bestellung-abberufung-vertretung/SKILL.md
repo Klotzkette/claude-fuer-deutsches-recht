@@ -1,52 +1,44 @@
 ---
 name: notariat-006-hr-anmeldung-gf-bestellung-abberufung-vertretung
-description: "Für Notariat 006 Hr Anmeldung Gf Bestellung Abberufung Vertretung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Bereitet Geschäftsführerbestellung, Abberufung und Handelsregisteranmeldung für GmbH und UG vor. Gleicht Beschlussdatum, Wirksamkeit, Vertretungsregel und Versicherungen ab und stellt die elektronische Registermappe zur notariellen Freigabe zusammen."
 ---
 
-# Notariat im Alltag: Handelsregisteranmeldung Geschäftsführer Bestellung Abberufung Vertretungsmacht
+# Geschäftsführerwechsel und Handelsregisteranmeldung vorbereiten
 
-## Aufgabe
+## 1. Zweck und Anwendungsfall
 
-Dieser Skill bearbeitet **Handelsregisteranmeldung Geschäftsführer Bestellung Abberufung Vertretungsmacht** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Aus Gesellschafterauftrag und Registerbestand werden getrennte Beschluss- und Anmeldedokumente. Die Bestellung ist nicht der Anstellungsvertrag; die Eintragung wird nicht mit dem internen Wirksamkeitsbeginn gleichgesetzt.
 
-## Kaltstart in 6 Fragen
+## 2. Eingaben
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+Satzung, Registerauszug, Gesellschafterliste, Beschluss oder Beschlusswunsch, Annahme der Bestellung, Personalien und gewünschte Vertretung. Belegte Daten übernehmen und nur widersprechende oder entscheidende fehlende Angaben nachfragen.
 
-## Prüfprogramm
+## 3. Ablauf
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### 3.1. Beschluss und Datum festlegen
 
-## Typische Fallen
+Prüfe Zuständigkeit nach GmbHG Paragraf 46 Nummer 5 und Satzung, Einberufung, Stimmen, Annahme und Bedingungen. Für die bloße Bestellung oder Abberufung besteht regelmäßig keine gesetzliche Beurkundungspflicht; Satzungsänderungen und gekoppelte Vorgänge gesondert behandeln. Kündigung des Anstellungsvertrags folgt nicht automatisch aus der Abberufung.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+### 3.2. Vertretung wortgetreu abgleichen
 
-## Output
+Trenne allgemeine Satzungsregel, konkrete Einzelvertretungsbefugnis und Befreiung von BGB Paragraf 181. Übernimm keine Befreiung aus einem fremden Muster. Bei zeitversetztem Ausscheiden und Eintritt prüfen, wer im Zwischenzeitraum vertreten und anmelden kann. Einen ausgeschiedenen Geschäftsführer nicht ohne Prüfung als Anmelder einsetzen.
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+### 3.3. Anmeldung und Nachweise vorbereiten
 
-## Notariatsvertiefung
+GmbHG Paragraf 39 verlangt die Anmeldung und Nachweise; Absatz 2 nennt Original oder öffentlich beglaubigte Abschrift der Urkunden zur Bestellung beziehungsweise Beendigung. Die Versicherung nach Absatz 3 mit den aktuellen Anforderungen und erforderlicher Belehrung dem Notar vorlegen. Nicht als bereits abgegeben markieren. Konkrete Anmeldezuständigkeit anhand Paragraf 78 und des Übergangsstands prüfen.
 
-Bei **Handelsregisteranmeldung Geschäftsführer Bestellung Abberufung Vertretungsmacht** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+### 3.4. Vollzug überwachen
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+Die Anmeldung wird nach HGB Paragraf 12 formgerecht elektronisch eingereicht. Mitarbeiter bereiten die Mappe vor, fingieren aber keine Signatur oder Einreichung. Nach Freigabe Versandnachweis und nach tatsächlichem Eingang Registermitteilung abgleichen. Allein wegen eines Geschäftsführerwechsels ist keine Gesellschafterlistenänderung nötig.
+
+## 4. Quellenpflicht
+
+GmbHG Paragrafen 6, 35, 38, 39, 46 und 78; HGB Paragraf 12; BGB Paragraf 181. [Amtliche Formwege](../../references/mitarbeiter-formwege.md) und [Zitierweise](../../references/zitierweise.md).
+
+## 5. Ausgabeformat
+
+Beschlussentwurf, Anmeldeentwurf, Nachweise und Vorlagevermerk in vollständigen Sätzen. Times New Roman 11 pt, dezimale Gliederung, Kennzeichnung als Entwurf zur notariellen Prüfung. Keine Halbsatzvorlagen, vorausgefüllten Unterschriften oder behaupteten Registereinträge.
+
+## 6. Beispiel
+
+Der alte Geschäftsführer soll am 10. Oktober ausscheiden; der neue soll am selben Tag beginnen. Halte beide Daten fest und prüfe, wer wann anmeldet. Eine vorherige E-Mail macht den Wechsel nicht schon wirksam.

@@ -1,94 +1,48 @@
 ---
 name: grundschuld-buchgrundschuld-treuhand
-description: "Für Grundschuld Buchgrundschuld Treuhand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
+description: "Bereitet Grundschuldbestellungen aus Bankauftrag und Grundbuch vor. Trennt dingliche Sicherheit, persönliche Haftung, Vollstreckungsunterwerfung, Sicherungszweck und Treuhandauflagen und führt Rang sowie Lastenfreistellung zur notariellen Prüfung zusammen."
 ---
 
-# Notariat im Alltag: Grundschuld – Brief- oder Buchgrundschuld, Unterwerfung, Sicherungszweck
+# Grundschuld und Bankauftrag abstimmen
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Bereite eine Grundschuldbestellungsurkunde oder eine reine Bewilligung entsprechend dem tatsächlichen Auftrag vor. Bankformular, Grundstück und Beteiligte werden abgeglichen. Notarielle Entscheidungen, Vollstreckungsklauseln und Zahlungsfreigaben bleiben beim Notar.
 
-## Zweck und Anwendungsbereich
+## 2. Eingaben
 
-Die Grundschuld ist das wichtigste Grundpfandrecht zur Kreditsicherung. Führe durch die notarielle Bestellung, die Wahl zwischen Brief- und Buchgrundschuld, die Vollstreckungsunterwerfung und die Sicherungsabrede mit der finanzierenden Bank.
+Bankauftrag mit Bedingungen, Grundbuchstand, Eigentümer, Darlehensnehmer, Vollmachten, Kaufvertrag, bestehende Grundpfandrechte und Ablöseunterlagen. Bei abweichender Anschrift nicht die Grundstücksbezeichnung aus einer privaten E-Mail übernehmen.
 
-Rechtsgrundlagen: §§ 1191–1203 BGB (Grundschuld), §§ 1113–1190 BGB (Hypothek, analog anwendbar), § 873 BGB (Entstehung), § 1154 BGB (Übertragung Briefgrundschuld), § 1192 BGB (Anwendbarkeit der Hypothekenvorschriften), § 794 Abs. 1 Nr. 5 ZPO (Vollstreckungsunterwerfung), §§ 19, 29 GBO, GNotKG KV.
+## 3. Ablauf
 
-## Brief- vs. Buchgrundschuld
+### 3.1. Betrag und gesicherte Forderung auseinanderhalten
 
-| Merkmal | Briefgrundschuld | Buchgrundschuld |
-|---|---|---|
-| Übertragung | durch Briefübergabe + Abtretungserklärung (§ 1154 BGB) | durch Abtretung + Grundbucheintragung (§ 1154 Abs. 3 BGB) |
-| Kosten | Briefherstellungsgebühr (ca. 25 €) | keine Briefgebühr |
-| Praxis | früher Standard; heute seltener | banküblicher Standard |
-| Sicherheit | Briefbesitz wichtig | kein Brief-Verlustrisiko |
-| Schnelligkeit | Abtretung ohne Grundbuch möglich | Grundbucheintragung nötig |
+Erfasse Grundschuldbetrag, dinglichen Zinssatz, Zinsbeginn, Nebenleistung und Gläubiger wortgetreu. Die abstrakte Grundschuld sichert nicht automatisch jede denkbare Forderung; der Umfang der Verwertung wird durch die Sicherungsabrede bestimmt. Darlehenszinsen sind nicht mit dinglichen Zinsen gleichzusetzen. Sicherungsabrede und Bankauftrag bleiben unterscheidbare Unterlagen.
 
-## Bestellungsvoraussetzungen
+### 3.2. Form und Haftung getrennt vorbereiten
 
-1. Einigung zwischen Eigentümer und Gläubiger (§ 873 BGB)
-2. Notariell beurkundete Bestellungsurkunde (§ 873 BGB i.V.m. § 19 GBO – Bewilligung in öffentl. beglaubigter Form ausreichend)
-3. Eintragungsantrag beim Grundbuchamt
-4. Grundbucheintragung → Entstehung der Grundschuld
+Für die Grundbucheintragung sind Bewilligung und Nachweisform nach GBO Paragrafen 19 und 29 zu prüfen. Nicht jede Grundschuldbestellung verlangt allein deshalb eine beurkundete Willenserklärung. Eine Vollstreckungsunterwerfung als Titel nach ZPO Paragraf 794 Absatz 1 Nummer 5 gehört dagegen in die notarielle Urkunde. Trenne dingliche Unterwerfung, gegebenenfalls mit Wirkung nach ZPO Paragraf 800, von persönlichem Schuldanerkenntnis und persönlicher Unterwerfung. Miteigentum macht den Nichtdarlehensnehmer nicht automatisch zum persönlichen Schuldner.
 
-## Vollstreckungsunterwerfung (§ 794 Abs. 1 Nr. 5 ZPO)
+### 3.3. Grundstück und Rang sichern
 
-Schuldner unterwirft sich der sofortigen Zwangsvollstreckung in das Grundstück (und ggf. auch persönlich). Dies erspart der Bank ein gerichtliches Erkenntnisverfahren.
+Gleiche Eigentümeranteile, laufende Nummern, Grundstücke und bestehende Rechte in beiden Belastungsabteilungen ab. Rang nach BGB Paragraf 879, GBO Paragraf 45 und konkreten Eintragungen bestimmen; nicht pauschal nur nach Kalendertag. Gewünschter erster Rang ist noch kein vorhandener erster Rang. Bei Löschung, Abtretung oder Rangänderung jeweilige Nachweise und Berechtigte erfassen.
 
-**Form:** Notarielle Beurkundung (§ 794 Abs. 1 Nr. 5 ZPO) – nicht nur Beglaubigung!
-**Inhalt:** Duldung der Zwangsvollstreckung in das Grundstück; ggf. persönliche Vollstreckungsunterwerfung des Schuldners.
-**Ausfertigung:** Vollstreckbare Ausfertigung für Bank; weitere Ausfertigungen nur mit Klausel (§ 724 ZPO).
+### 3.4. Buch oder Brief und Treuhandbedingungen prüfen
 
-## Sicherungsabrede
+Buchgrundschuld und Briefgrundschuld unterscheiden; bei bestehendem Briefrecht den tatsächlichen Briefverbleib dokumentieren. Keine Briefübergabe oder Kraftlosigkeit erfinden. Ordne Ablösebetrag, Gültigkeitsdatum, Tageszinsen, Zahlungsadressat und Freigabebedingung jeweils der betreffenden Bank zu. Ein Treuhandauftrag wird nicht durch bloße Ablage erfüllt.
 
-Die Grundschuld ist abstrakt (§ 1191 BGB) – sie sichert jede Forderung. Die Sicherungsabrede ist ein schuldrechtlicher Vertrag zwischen Schuldner und Gläubiger, der bestimmt, welche Forderungen durch die Grundschuld gesichert sind und wann Rückübertragungsanspruch entsteht.
+### 3.5. Ausfertigung und Vollzug vorbereiten
 
-**Inhalt:**
-- Gesicherter Kredit (Kreditlinie oder konkrete Forderung)
-- Rückübertragungspflicht bei Ablösung
-- Verbot der Weiterbelastung ohne Zustimmung
+Unterschrift, notarielle Freigabe, Einreichung, Eintragung und Ausfertigung haben eigene Status. Vollstreckbare Ausfertigungen nach ZPO Paragraf 797 und gegebenenfalls weitere Ausfertigungen nach Paragraf 733 nur nach zuständiger Prüfung vorbereiten. Keine automatische Titelausgabe und keine ungeprüften Fixgebühren.
 
-## Rangfragen
+## 4. Quellenpflicht
 
-Grundschulden haben den Rang ihrer Eintragung im Grundbuch. Erstrangige Grundschulden sind für Banken wertvoll; nachrangige schwer beleihbar. Rangvorbehalt (§ 881 BGB) möglich. Rangänderung (§ 880 BGB): Einigung + Eintragung.
+BGB Paragrafen 873, 879, 1191 und 1192; GBO Paragrafen 19, 29 und 45; ZPO Paragrafen 733, 794, 797 und 800. [Amtliche Links](../../references/mitarbeiter-formwege.md), [Zitierweise](../../references/zitierweise.md).
 
-## Prüfprogramm
+## 5. Ausgabeformat
 
-- Ist der Eigentümer Schuldner oder dritter Eigentümer (Drittsicherheit)?
-- Brief- oder Buchgrundschuld je nach Bankenpräferenz?
-- Vollstreckungsunterwerfung: persönlich und dinglich oder nur dinglich?
-- Sicherungsabrede übereinstimmend mit Kreditvertrag?
-- Löschungsunterlagen für Voreintragungen vorhanden?
-- Rangstelle in Abt. III geprüft?
+Ausformulierter Entwurf zur notariellen Prüfung mit getrennten Haftungserklärungen, Bankabgleich und offenen Vollzugsbedingungen. Times New Roman 11 pt, dezimale Gliederung. Keine Klauselskelette, erfundenen Urkundennummern oder behaupteten Originalvorlagen.
 
-## Typische Fallen
+## 6. Beispiel
 
-- Vollstreckungsunterwerfung nur beglaubigt statt beurkundet → unwirksamer Vollstreckungstitel.
-- Sicherungsabrede nicht mit Kreditvertrag abgestimmt → Rückübertragungsstreit.
-- Briefgrundschuld: Brief geht verloren → Aufgebotsverfahren nötig (§§ 1162 ff. BGB).
-- Rangstelle nicht wie erwartet → Bank beleiht nicht.
-- Persönliche Vollstreckungsunterwerfung fehlt → Bank muss getrennt gegen Schuldner vorgehen.
-
-## Rechtsquellen
-
-- §§ 1191–1203 BGB: https://dejure.org/gesetze/BGB/1191.html
-- § 794 ZPO: https://dejure.org/gesetze/ZPO/794.html
-- § 1154 BGB: https://dejure.org/gesetze/BGB/1154.html
-- GBO §§ 19, 29: https://dejure.org/gesetze/GBO/19.html
-- BGH zur Grundschuld: https://www.bgh.de
-- BNotK Grundpfandrecht: https://www.bnotk.de
-
-## Output-Formate
-
-- **Grundschuldurkunde-Entwurf** (mit Vollstreckungsunterwerfung)
-- **Sicherungsabrede-Muster**
-- **Rangübersicht Grundbuch Abt. III**
-- **Vollstreckungsausfertigung** (Hinweis auf Klauselverfahren)
-- **Mandantenmail** (Grundschuld, Vollzug, Bankauflagen)
-
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+Das Ehepaar besitzt je die Hälfte; nur der Mann ist Darlehensnehmer. Der Bankauftrag verlangt persönliche Haftung beider. Zeige die Abweichung ausdrücklich und kläre den Erklärungswillen über den Notar. Ergänze die Ehefrau nicht stillschweigend als persönliche Schuldnerin.

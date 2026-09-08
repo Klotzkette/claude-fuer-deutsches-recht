@@ -1,0 +1,14 @@
+name: notariat-anteilsuebertragung-verpfaendung-bremen
+plugin: notariat-alltag
+description: "Anteilsverkauf und Bankverpfändung in Bremen mit Beteiligtenangaben, gesonderten Unterlagen und laufender Korrespondenz."
+checks:
+  - id: unterlagen
+    check_type: working_file_count
+    description: "Acht getrennte Originalunterlagen liegen vor."
+    min: 8
+  - id: konsistenz
+    check_type: human_review
+    description: "Beteiligte, Beträge, Daten und Bearbeitungsstände stimmen überein."
+  - id: formate
+    check_type: human_review
+    description: "Originale und beide PDF-Varianten enthalten dieselben Unterlagen."

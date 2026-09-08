@@ -120,6 +120,15 @@ def is_markdown_work_file(destination: str) -> bool:
     )
 
 
+def is_markdown_download_target(repo_path: str) -> bool:
+    """Entspricht dem Pfadformat der Downloadseite, auch für Quellenhilfen."""
+    return (
+        re.fullmatch(r"[A-Za-z0-9._/ -]+\.md", repo_path) is not None
+        and not repo_path.startswith("/")
+        and not {"..", ".git"}.intersection(repo_path.split("/"))
+    )
+
+
 def user_facing_download_docs() -> list[Path]:
     market = json.loads(MARKETPLACE.read_text(encoding="utf-8"))
     files = {REPO / "README.md"}
@@ -177,9 +186,13 @@ def validate_markdown_downloads(errors: list[str]) -> int:
         for match in DOWNLOAD_LINK_RE.finditer(text):
             count += 1
             repo_path = unquote(match.group(1))
-            if not is_markdown_work_file(repo_path):
+            if not is_markdown_download_target(repo_path):
                 errors.append(f"{repo_relative(path)}: unzulässiges Markdown-Downloadziel: {repo_path}")
-            if not (REPO / repo_path).is_file():
+                continue
+            target = (REPO / repo_path).resolve()
+            if not target.is_relative_to(REPO.resolve()):
+                errors.append(f"{repo_relative(path)}: Markdown-Downloadziel außerhalb des Repositorys: {repo_path}")
+            elif not target.is_file():
                 errors.append(f"{repo_relative(path)}: Markdown-Downloadziel fehlt: {repo_path}")
     return count
 

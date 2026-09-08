@@ -1,125 +1,44 @@
 ---
 name: qualitaetsgate-signatur-notarielle
-description: "Für Notariat im Alltag: Qualitätsgate vor Signatur und Einreichung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
+description: "Prüft eine vorbereitete Notariatsmappe vor Vorlage an den Notar: Fassungen, Beteiligte, Formwege, Anlagen, Kapital- und Grundstücksdaten, Unterschriftsfelder sowie elektronische Einreichungsunterlagen. Kennzeichnet offene Freigaben statt Amtshandlungen zu fingieren."
 ---
 
-# Notariat im Alltag: Qualitätsgate vor Signatur und Einreichung
+# Entwurfsmappe an den Notar übergeben
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Führe eine abschließende Mitarbeiterkontrolle der konkreten Vorgangsmappe durch. „Vorbereitet“ bedeutet nicht „beurkundet“, „beglaubigt“, „eingereicht“ oder „eingetragen“. Die Verantwortung für Amtshandlungen bleibt beim Notar.
 
-## Zweck und Anwendungsbereich
+## 2. Eingaben
 
-Das Qualitätsgate ist der letzte Prüfpunkt, bevor ein Dokument signiert und bei Behörden eingereicht wird. Fehler nach der Einreichung kosten Zeit, Rang und ggf. Haftung. Strukturiere eine vollständige Vorprüfung.
+Aktueller Entwurf, Quellen, Nachträge, Anlagen, Beteiligtenblatt und vorhandene Freigaben. Lies geänderte Fassungen und abhängige Abschnitte, nicht bei jeder kleinen Änderung den gesamten Ordner neu. Ohne Dateizugriff keine technische Prüfung behaupten.
 
-Rechtsgrundlagen: § 17 BeurkG (Belehrung und Vollständigkeit), DONot §§ 1–56 (Aktenführung), § 12 HGB (HR-Anmeldung), GBO § 13 (Antrag), § 19 BNotO (Haftung), ERVV (Signaturformat), GNotKG (Kostenfestsetzung).
+## 3. Ablauf
 
-## Qualitätsgate: 10-Punkte-Prüfung
+### 3.1. Fassung und Daten durchgängig vergleichen
 
-**1. Personalien und Identität:**
-- Alle Namen korrekt geschrieben (Vor- und Nachname, Firmierung)?
-- Geburtsdaten korrekt?
-- Adressen aktuell?
+Prüfe Namen, Rollen, Geburtsdaten, Register- und Grundbuchdaten, Nummern, Beträge und Termine zwischen Haupttext, Anlagen und Anmeldung. Rechne Kapital- und Anteilsbeträge. Ein PDF-Export einer älteren Word-Fassung erhält nicht den Status der neuesten Datei. Bewahre Originale unverändert.
 
-**2. Vertretungsmacht:**
-- Vollmachten vorhanden und inhaltlich ausreichend?
-- Registerauszüge aktuell (max. 3 Monate)?
-- § 181 BGB-Befreiung dort wo nötig dokumentiert?
+### 3.2. Erklärungen und Nachweise abgleichen
 
-**3. Gegenstand der Einreichung:**
-- Flurstücksnummer / Handelsregisternummer korrekt?
-- Betrag / Nennwert korrekt?
-- Rechtsgeschäft vollständig beschrieben?
+Für jeden Unterzeichner muss erkennbar sein, welche Erklärung er in welcher Rolle abgeben soll. Trenne fehlenden Nachweis von fehlender Willensentscheidung. Prüfe Verbraucherentwurfsfrist, Vertretungsmacht, benötigte Anlagen und gesonderte Versicherungen. Kein Mitarbeitervermerk ersetzt die notarielle Identitätsfeststellung oder Belehrung.
 
-**4. Formvoraussetzungen:**
-- Richtige Form gewählt (Beurkundung / Beglaubigung / Ausfertigung / Abschrift)?
-- PDF/A-Konformität geprüft?
-- qeS korrekt angebracht und gültig?
+### 3.3. Dateien und Signaturen kontrollieren
 
-**5. Anlagen:**
-- Alle Anlagen vorhanden und in richtiger Reihenfolge?
-- Anlagenverzeichnis vollständig?
-- Beglaubigte Anlagen korrekt beglaubigt?
+Öffnbarkeit, Seitenzahl, Lesbarkeit und vollständige Anlagenfolge tatsächlich prüfen, soweit Werkzeuge verfügbar sind. Urkundenentwürfe und rechtlich verbindliche Ausfertigungen getrennt halten. Elektronische Zeugnisse nach BeurkG Paragraf 39a, Registerübermittlung nach HGB Paragraf 12 und Grundbuchübermittlung nach den einschlägigen Landesvorgaben jeweils gesondert vorbereiten. Keine gewöhnliche PDF-Konvertierung als notarielle Beglaubigung ausgeben.
 
-**6. Fristen:**
-- Einreichungsfrist eingehalten (Zwischenverfügungs-Frist, Anmeldepflicht)?
-- Wartefrist abgelaufen?
+### 3.4. Entscheidung und nächste Handlung dokumentieren
 
-**7. Kosten:**
-- Kostennote stimmt mit Gegenstandswert und KV überein?
-- Kostenschuldner korrekt?
+Erstelle eine kurze Vorlage mit „bereit zur Prüfung“, „Rückfrage“ oder „Vollzug gesperrt“ je Teil. Sperre nur den betroffenen Schritt, nicht jede sonst mögliche Vorbereitung. Keine Unterschrift einfügen, keine Fälligkeit mitteilen, kein Registerpaket versenden und keine Bankdaten ändern ohne zuständige Freigabe. Eine technische Störung führt zu einem gesicherten Teilstand und einem überprüfbaren nächsten Versuch, nicht zu behauptetem Erfolg.
 
-**8. GwG:**
-- GwG-Dokumentation vollständig?
-- Transparenzregister-Abfrage archiviert?
+## 4. Quellenpflicht
 
-**9. Signatur und Dateiformat:**
-- qeS-Zertifikat gültig?
-- Keine Änderungen nach Signatur?
-- Dateiformat kompatibel mit Zielsystem?
+BeurkG Paragrafen 10, 13, 17 und 39a; HGB Paragraf 12; GBO Paragraf 29 und einschlägige Verfahrensregeln. [Mitarbeiter-Formwege](../../references/mitarbeiter-formwege.md), [Zitierweise](../../references/zitierweise.md). Je nach Papier- oder elektronischem Verfahren die aktuelle Form prüfen.
 
-**10. Vier-Augen:**
-- Zweite Person hat alle Punkte bestätigt?
+## 5. Ausgabeformat
 
-## Qualitätsgate für Fälligkeitsmitteilung (besonders kritisch)
+Ausformulierter Vorlagevermerk, bereinigte Entwurfsfassungen und übersichtliches Anlagenregister. Times New Roman 11 pt, dezimale Gliederung. Keine Klauselrümpfe. Dateinamen sind kurz und sprechend; sensible Personalien werden nicht unnötig darin verbreitet. Offen gebliebene Prüfungen werden ausdrücklich benannt.
 
-Vor jeder Fälligkeitsmitteilung:
-- [ ] Auflassungsvormerkung eingetragen
-- [ ] Negativattest / Vorkaufsrechtszeugnis
-- [ ] Steuerliche Unbedenklichkeit
-- [ ] Löschungsunterlagen
-- [ ] GwG-Check vollständig
-- [ ] Alle sonstigen Vertragsbedingungen erfüllt
-- [ ] Vier-Augen-Prüfung abgeschlossen
+## 6. Beispiel
 
-## Qualitätsgate für Handelsregisteranmeldung
-
-- [ ] Alle erforderlichen Anlagen (Beschluss, Gesellschafterliste, Satzung)?
-- [ ] qeS des Notars korrekt?
-- [ ] § 6 Abs. 2-Erklärung vorhanden (GmbH-GF)?
-- [ ] Einzahlungsnachweis (Kapitalerhöhung)?
-- [ ] Vollständige Satzungsfassung (Satzungsänderung)?
-
-## Qualitätsgate für Grundbuchantrag
-
-- [ ] Bewilligungen in richtiger Form (öffentlich beglaubigt)?
-- [ ] Steuerliche Unbedenklichkeit (bei Eigentumsumschreibung)?
-- [ ] Vollmachten aktuell?
-- [ ] Rangstelle korrekt?
-
-## Prüfprogramm
-
-- Wurde ein formalisiertes Qualitätsgate-Protokoll ausgefüllt?
-- Vier-Augen-Prüfung von zweiter qualifizierter Person bestätigt?
-- Alle 10 Punkte abgehakt?
-
-## Typische Fallen
-
-- Signatur auf falschem Dokument (alte Version).
-- Anlage fehlt → Zurückweisung.
-- Falsche Flurstücksnummer → Rangverlust.
-- Fälligkeitsmitteilung ohne vollständige Checkliste → Schadensersatz.
-- qeS-Zertifikat abgelaufen → Einreichung scheitert.
-
-## Rechtsquellen
-
-- § 19 BNotO (Haftung): https://dejure.org/gesetze/BNotO/19.html
-- § 17 BeurkG: https://dejure.org/gesetze/BeurkG/17.html
-- ERVV (Signatur): https://www.gesetze-im-internet.de/ervv/
-- GBO § 13: https://dejure.org/gesetze/GBO/13.html
-- BNotK Qualitätshinweise: https://www.bnotk.de
-
-## Output-Formate
-
-- **Qualitätsgate-Protokoll** (alle 10 Punkte, je Einreichungstyp)
-- **Fälligkeitsmitteilungs-Checkliste** (Vier-Augen)
-- **HR-Anmeldungs-Gate** (Checkliste)
-- **Grundbuchantrag-Gate** (Checkliste)
-- **Fehlerbehebungsleitfaden** (wenn Qualitätsgate einen Mangel findet)
-
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+Die Satzung nennt 35000 Euro Stammkapital, die Anmeldung noch 25000 Euro. Korrigiere den Entwurf nach belegtem Beschlusskonzept. Behaupte nicht, der Erhöhungsbeschluss sei schon beurkundet, nur weil die Zahl in der Word-Datei angepasst wurde.
