@@ -15,14 +15,38 @@ Lies Schadenmeldung, letzte Bearbeitungsnotiz, Anspruchsschreiben, Versicherungs
 
 ## 3. Ablauf
 
-1. Halte drei getrennte Entscheidungen fest: Deckung gegenüber dem Versicherungsnehmer, Haftung gegenüber dem Geschädigten und Befugnis zur Außenregulierung. Eine interne Reserve ist weder Haftungsanerkenntnis noch Angebot. Ein Schadenaktenzeichen beweist keinen Direktanspruch.
-2. VVG Paragraf 100 und Paragraf 101 betreffen Freistellung und Abwehr. Bestimme anhand des Vertrags versicherte Tätigkeit, Zeitraum, Ausschlüsse, Selbstbehalt und Kostenregelung. Bei Abschleppbetrieben Schäden an übernommenen Fahrzeugen, Tätigkeitsschäden, Obhut, Transport und Kfz-Risiko ausdrücklich anhand der vorhandenen Klauseln abgleichen. Aus „Betriebshaftpflicht“ folgt keine automatische Deckung jeder Beschädigung.
-3. Bereite eine begrenzte Deckungsmitteilung vor: bestätigte Punkte, genaue offene Vertrags- oder Tatsachenfrage, erbetener Beleg und nächste Prüfung. Fehlende Deckung ist keine materiell-rechtliche Ablehnung des Geschädigtenanspruchs. Mögliche Interessenkonflikte bei gemeinsamer Vertretung oder Rückgriff gesondert eskalieren.
-4. Organisiere die entscheidende Aufklärung mit Kostenfreigabe, Untersuchungsumfang, Beteiligten und Termin. Eine Besichtigung darf Beweiserhaltung und zumutbare Reparatur nicht auf unbestimmte Zeit blockieren. Keine heimliche Weisung, belastendes Material zu entfernen; Originalbefunde bleiben erhalten.
-5. Prüfe jede Forderung nach Anspruchsinhaber, Haftungsgrund, Kausalität, Beleg, Umsatzsteuer, Vorzahlung und offenem Rest. Reserve aus begründeten Szenarien und erwarteten Abwehrkosten intern dokumentieren, nicht als mathematischen Anspruchswert verkaufen. Keine willkürliche Quote allein wegen lückenhafter Unterlagen.
-6. Lege begründete Abwehr, weitere Aufklärung, unstreitige Teilregulierung oder Vergleich zur Freigabe vor. Das Außenanschreiben enthält keine internen Reserven. Bei der üblichen Betriebshaftpflicht ausdrücklich im Namen und Auftrag des bezeichneten Versicherungsnehmers handeln, soweit die Vollmacht das trägt; VVG Paragraf 115 nur bei erfüllten besonderen Voraussetzungen als Direktanspruch behandeln.
-7. VVG Paragraf 106: Die Zweiwochenfrist betrifft die dort geregelte bindende Feststellung beziehungsweise Befriedigung und Kostenmitteilung, nicht pauschal zwei Wochen nach jeder Erstmeldung. Gerichtliche Fristen und erforderliche Abwehr laufen unabhängig davon weiter. VVG Paragraf 105 ist kein allgemeines Anerkenntnisverbot.
-8. Vor Zahlung Anspruchsinhaber, Konto, Vorleistungen, Abtretungen und Freigabe prüfen. Kaskoleistung kann nach VVG Paragraf 86 einen Übergang bewirken; Selbstbehalt und nicht ersetzte Positionen verbleiben nicht automatisch ebenfalls beim Kaskoversicherer. Abgeschlossene Positionen quittieren, den offenen Rest mit Wiedervorlage fortführen. Kein Versand, Vergleich oder Zahlungsauftrag ohne gesonderte Autorisierung.
+### 3.1. Deckung, Haftung und Außenbefugnis trennen
+
+Halte drei getrennte Entscheidungen fest: Deckung gegenüber dem Versicherungsnehmer, Haftung gegenüber dem Geschädigten und Befugnis zur Außenregulierung. Eine interne Reserve ist weder Haftungsanerkenntnis noch Angebot. Ein Schadenaktenzeichen beweist keinen Direktanspruch.
+
+### 3.2. Versichertes Risiko bestimmen
+
+VVG Paragraf 100 und Paragraf 101 betreffen Freistellung und Abwehr. Bestimme anhand des Vertrags versicherte Tätigkeit, Zeitraum, Ausschlüsse, Selbstbehalt und Kostenregelung. Bei Abschleppbetrieben Schäden an übernommenen Fahrzeugen, Tätigkeitsschäden, Obhut, Transport und Kfz-Risiko ausdrücklich anhand der vorhandenen Klauseln abgleichen. Aus „Betriebshaftpflicht“ folgt keine automatische Deckung jeder Beschädigung.
+
+### 3.3. Deckungsmitteilung begrenzen
+
+Bereite eine begrenzte Deckungsmitteilung vor: bestätigte Punkte, genaue offene Vertrags- oder Tatsachenfrage, erbetener Beleg und nächste Prüfung. Fehlende Deckung ist keine materiell-rechtliche Ablehnung des Geschädigtenanspruchs. Mögliche Interessenkonflikte bei gemeinsamer Vertretung oder Rückgriff gesondert eskalieren.
+
+### 3.4. Besichtigung und Aufklärung organisieren
+
+Organisiere die entscheidende Aufklärung mit Kostenfreigabe, Untersuchungsumfang, Beteiligten und Termin. Eine Besichtigung darf Beweiserhaltung und zumutbare Reparatur nicht auf unbestimmte Zeit blockieren. Keine heimliche Weisung, belastendes Material zu entfernen; Originalbefunde bleiben erhalten.
+
+### 3.5. Forderungen und interne Reserve prüfen
+
+Prüfe jede Forderung nach Anspruchsinhaber, Haftungsgrund, Kausalität, Beleg, Umsatzsteuer, Vorzahlung und offenem Rest. Reserve aus begründeten Szenarien und erwarteten Abwehrkosten intern dokumentieren, nicht als mathematischen Anspruchswert verkaufen. Keine willkürliche Quote allein wegen lückenhafter Unterlagen.
+
+### 3.6. Regulierungsweg zur Freigabe vorlegen
+
+Lege begründete Abwehr, weitere Aufklärung, unstreitige Teilregulierung oder Vergleich zur Freigabe vor. Das Außenanschreiben enthält keine internen Reserven. Bei der üblichen Betriebshaftpflicht ausdrücklich im Namen und Auftrag des bezeichneten Versicherungsnehmers handeln, soweit die Vollmacht das trägt; VVG Paragraf 115 nur bei erfüllten besonderen Voraussetzungen als Direktanspruch behandeln.
+
+### 3.7. Fälligkeit und Prozessfristen sichern
+
+VVG Paragraf 106: Die Zweiwochenfrist betrifft die dort geregelte bindende Feststellung beziehungsweise Befriedigung und Kostenmitteilung, nicht pauschal zwei Wochen nach jeder Erstmeldung. Gerichtliche Fristen und erforderliche Abwehr laufen unabhängig davon weiter. VVG Paragraf 105 ist kein allgemeines Anerkenntnisverbot.
+
+### 3.8. Zahlung und Aktenabschluss kontrollieren
+
+Vor Zahlung Anspruchsinhaber, Konto, Vorleistungen, Abtretungen und Freigabe prüfen. Kaskoleistung kann nach VVG Paragraf 86 einen Übergang bewirken; Selbstbehalt und nicht ersetzte Positionen verbleiben nicht automatisch ebenfalls beim Kaskoversicherer. Abgeschlossene Positionen quittieren, den offenen Rest mit Wiedervorlage fortführen. Kein Versand, Vergleich oder Zahlungsauftrag ohne gesonderte Autorisierung.
+
 
 ## 4. Quellenpflicht
 
