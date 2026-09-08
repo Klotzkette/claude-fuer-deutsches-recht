@@ -1,52 +1,44 @@
 ---
 name: notariat-032-kapitalerhoehung-bar-sache-bezugsrecht
-description: "Für Notariat im Alltag: Kapitalerhöhung Barkapital Sachkapital Bezugsrecht und Handelsregister: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Bereitet die GmbH-Kapitalerhöhung als zusammenhängenden Vorgang vor: Beschluss, Bar- oder Sacheinlage, Übernahmeerklärungen, Einzahlungsnachweise und Registervollzug. Trennt Beurkundung des Beschlusses von Beglaubigung der Übernahme und Anmeldung."
 ---
 
-# Notariat im Alltag: Kapitalerhöhung Barkapital Sachkapital Bezugsrecht und Handelsregister
+# Kapitalerhöhung beschließen und zum Register vorbereiten
 
-## Aufgabe
+## 1. Zweck und Anwendungsfall
 
-Dieser Skill bearbeitet **Kapitalerhöhung Barkapital Sachkapital Bezugsrecht und Handelsregister** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Bereite eine GmbH-Kapitalerhöhung vor. Bei AG, Kapitalerhöhung aus Gesellschaftsmitteln, genehmigtem Kapital oder verschleierter Sacheinlage nicht den normalen Barkapitalweg fortsetzen, sondern den Sonderweg klären lassen.
 
-## Kaltstart in 6 Fragen
+## 2. Eingaben
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+Registerauszug, vollständige Satzung, letzte Gesellschafterliste, Beteiligungsabsprache, Einlageart, Nennbetrag, Aufgeld und Beschlusstag. Lies vorhandene Unterlagen vor einer Rückfrage. Ein Beteiligungsangebot ist noch keine Übernahmeerklärung.
 
-## Prüfprogramm
+## 3. Ablauf
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### 3.1. Kapital und Stimmrechte abstimmen
 
-## Typische Fallen
+Rechne bisherige Anteile, Erhöhungsbetrag und neues Stammkapital. Trenne Nennbetrag und Aufgeld. Prüfe Einberufung, Beschlussfähigkeit, Dreiviertelmehrheit nach GmbHG Paragraf 53 Absatz 2, strengere Satzungsvorgaben und betroffene Zustimmungen. Bezugsrechte und deren Behandlung anhand Satzung und Beschlusskonzept dem Notar vorlegen; kein automatischer Verzicht durch Nichtteilnahme.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+### 3.2. Drei verschiedene Erklärungen erstellen
 
-## Output
+Der satzungsändernde Beschluss muss nach Paragraf 53 Absatz 3 notariell beurkundet werden. Die Erklärung des Übernehmers nach Paragraf 55 Absatz 1 ist notariell aufgenommen oder beglaubigt. Die Registeranmeldung folgt HGB Paragraf 12. Bloße Beglaubigung aller Unterschriften genügt nicht für den Erhöhungsbeschluss.
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+### 3.3. Kapitalaufbringung belegen
 
-## Notariatsvertiefung
+Bei Barerhöhung gelten Paragraf 56a und die dort bezeichneten Teile von Paragraf 7; die Mindesteinzahlung ist je neuem Anteil zu prüfen. Keine zusätzliche pauschale Forderung von 12500 Euro für jede Erhöhung aus dem Gründungsrecht ableiten. Bei Sacheinlagen Gegenstand, Zuordnung, Bewertung und Unterlagen nach Paragrafen 56 und 57 prüfen lassen. Verrechnung, Hin- und Herzahlen oder vorherige Zahlung gesondert markieren. Aufgeld wird nicht zu Nennkapital.
 
-Bei **Kapitalerhöhung Barkapital Sachkapital Bezugsrecht und Handelsregister** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+### 3.4. Reihenfolge für den Vollzug festhalten
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+Beschluss, vollständige Übernahme, erforderliche Leistung und Geschäftsführer-Versicherung müssen zur Anmeldung passen. Bereite Übernehmerliste und notariell bescheinigten vollständigen Satzungswortlaut nach Paragrafen 54 und 57 vor; verwechsle die Übernehmerliste nicht mit der Gesellschafterliste nach Paragraf 40. Die Satzungsänderung wird erst mit Eintragung wirksam, Paragraf 54 Absatz 3. Einen gleichzeitigen Geschäftsführerwechsel mit eigenem Wirksamkeitsdatum bearbeiten.
+
+## 4. Quellenpflicht
+
+GmbHG Paragrafen 53 bis 57 sowie 40; HGB Paragraf 12. [Mitarbeiter-Formwege](../../references/mitarbeiter-formwege.md), [Zitierweise](../../references/zitierweise.md). Weitere Quellen zur konkreten Sacheinlage oder Bezugsrechtsmaßnahme gezielt verifizieren.
+
+## 5. Ausgabeformat
+
+Ausformulierte Entwürfe für Beschluss, Übernahme und Anmeldung sowie Kapitaltabelle mit Altbestand, Zugang und Endbestand. Offene Nachweise separat; keine erfundene Versicherung. Times New Roman 11 pt, dezimale Gliederung, Status „Entwurf zur notariellen Prüfung“. Keine Klauselrümpfe als Endprodukt.
+
+## 6. Beispiel
+
+Ein Investor zahlt 50000 Euro für einen neuen Anteil von 10000 Euro. Weise 10000 Euro Nennbetrag und 40000 Euro Aufgeld getrennt aus. Ein Überweisungsentwurf ist noch kein Einzahlungsnachweis.

@@ -1,3 +1,15 @@
+# v443.6.0 - Notariatswerkstatt für Mitarbeiter
+
+- Bestehendes Plugin notariat-alltag um einen klaren Mitarbeitereinstieg mit zehn direkten Arbeitswegen ergänzt. Neun Kernskills überarbeitet und Anteilsübertragung mit Verpfändung als eigenen Skill ergänzt; technische Namen und übriger Fachbestand bleiben erhalten.
+- Formwege für Bauträgerkauf, Grundschuld, Beglaubigung, GmbH-Gründung, Kapitalerhöhung und Geschäftsführerwechsel anhand amtlicher Normtexte abgeglichen. Fehler zu Musterprotokoll, Grundschuldform, Musterzeichnung und Registerpublizität in betroffenen Altpfaden korrigiert. Mitarbeiterentwurf und notarielle Amtshandlung bleiben getrennt.
+- Werkstatt und Schnellstart von Hand für den Notariatsalltag ausgearbeitet, gegen Überschreiben geschützt und mit passenden Vertiefungsrouten versehen. Vorhandene Ordnerdaten werden zuerst genutzt; nur entscheidende Lücken lösen Rückfragen aus.
+- Sechs neue Vorgänge mit 48 getrennten Originalunterlagen: zwölf Word-Dokumente, 24 E-Mails und zwölf Textunterlagen. Bauträgerkauf in Potsdam, Grundschuld in Erfurt, Unterschriftsbeglaubigung in Hannover, Gründung in Rostock, Kapitalerhöhung mit Geschäftsführerwechsel in Ulm und Anteilsverkauf mit Bankverpfändung in Bremen.
+- Jede neue Akte mit Gesamt-PDF, flachem Originalformat-ZIP und flachem Einzel-PDF-ZIP. Keine Markdown-Aktenstücke oder vorgegebenen Lösungen in den Arbeitsarchiven. Hinweis auf Downloadseiten und in der ZIP-README, nicht im PDF-Inhalt.
+- Deutsche und englische Nutzungserklärung, direkte Arbeitsnavigation, Aktenzuordnung und zentrale Verzeichnisse aktualisiert. Quellenhilfe im Plugin mitgeliefert, damit die überarbeiteten Mitarbeiterwege keine lokalen Dateien außerhalb des Einzelpakets voraussetzen. Regressionen sichern Formunterscheidung, Mitarbeiterrolle, Originaldatum, vollständige PDF-Abdeckung, Umlaute und Archivinhalt.
+- Navigationsprüfung an den vorhandenen Markdown-Downloadweg angeglichen: Auch Referenzdateien dürfen direkt angeboten werden. Pfadausbruch, externe Ziele und fehlende Dateien bleiben Fehler; separate Regressionen sichern diese Grenze.
+
+---
+
 # v443.5.1 - Lesbare Ablaufgliederung vor Veröffentlichung
 
 - Beide neuen Spezialskills der Schadensregulierung mit sprechenden dezimalen Unterabschnitten und getrennten Inhaltsabsätzen gegliedert. Reihenfolge und fachlicher Inhalt der sechzehn Arbeitsschritte bleiben erhalten.

@@ -1,52 +1,51 @@
 ---
 name: notariat-002-beurkundung-ubeglaubigung-richtig-einordnen
-description: "Für Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung richtig einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
+description: "Ordnet für die Notariatsmitarbeiter jede konkrete Erklärung dem passenden Formweg zu: Beurkundung, Unterschriftsbeglaubigung, Abschriftsbeglaubigung oder einfache Beschlussfassung. Bereitet Termin, Nachweise und getrennte Registerunterlagen vor."
 ---
 
-# Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung richtig einordnen
+# Beurkundung und Beglaubigung sicher vorbereiten
 
-## Aufgabe
+## 1. Zweck und Anwendungsfall
 
-Dieser Skill bearbeitet **Beurkundung oder Unterschriftsbeglaubigung richtig einordnen** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Kläre die Form einer bestimmten Erklärung, nicht bloß den Titel des Gesamtvorgangs. Mitarbeiter bereiten vor; nur der Notar nimmt die Amtshandlung vor. Eine Unterschriftsbeglaubigung ersetzt keine notwendige Beurkundung des Inhalts.
 
-## Kaltstart in 6 Fragen
+## 2. Eingaben
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+Lies Erklärung, Verwendungszweck, Empfänger, Parteien und vorhandene Vorurkunde. Bei „Bitte beglaubigen“ kläre nur, ob Unterschrift, Abschrift oder Beurkundung gemeint ist, soweit das nicht bereits aus den Unterlagen folgt.
 
-## Prüfprogramm
+## 3. Ablauf
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### 3.1. Jede Erklärung separat zuordnen
 
-## Typische Fallen
+| Erklärung | Form und Quelle | Vorbereitung |
+| --- | --- | --- |
+| Grundstückskauf oder Bauträgerkauf | Beurkundung, BGB Paragraf 311b Absatz 1 | Vertragsentwurf, Anlagen und Verbraucherfrist |
+| GmbH-Gesellschaftsvertrag | Beurkundung, GmbHG Paragraf 2 | Satzung, Beteiligte und Vertretung |
+| Kapitalerhöhungsbeschluss | Beurkundung, GmbHG Paragraf 53 Absatz 3 | Beschlussentwurf, Mehrheit und Satzung |
+| Übernahme eines neuen Geschäftsanteils | Notariell aufgenommen oder beglaubigt, GmbHG Paragraf 55 Absatz 1 | Eigene Erklärung jedes Übernehmers |
+| GmbH-Anteilsabtretung und Verpflichtung dazu | Beurkundung, GmbHG Paragraf 15 Absätze 3 und 4 | Genau bezeichnete Anteile und Bedingungen |
+| GmbH-Anteilsverpfändung | BGB Paragraf 1274 zusammen mit GmbHG Paragraf 15 Absatz 3 | Pfandvertrag statt Gesellschafterwechsel |
+| Grundbuchbewilligung | GBO Paragrafen 19 und 29 | Öffentliche oder öffentlich beglaubigte Urkunde nach Inhalt |
+| Vollstreckungsunterwerfung bei Grundschuld | Notarielle Urkunde, ZPO Paragraf 794 Absatz 1 Nummer 5 | Dingliche und persönliche Erklärung trennen |
+| Handelsregisteranmeldung | HGB Paragraf 12 | Öffentliche Beglaubigung und elektronische Einreichung |
+| Geschäftsführerbestellung | Regelmäßig Beschluss ohne gesetzliche Beurkundungspflicht, Satzung prüfen | Beschlussnachweis und separate Anmeldung |
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+### 3.2. Bereits geleistete Unterschrift behandeln
 
-## Output
+Für die Unterschriftsbeglaubigung nach BeurkG Paragraf 40 muss die Unterschrift vor dem Notar vollzogen oder anerkannt werden. Ein Mitarbeitervergleich mit dem Ausweisscan genügt nicht. Bewahre den vollständigen Erklärungstext. Leere oder nachträglich ergänzte Textfelder sind Anlass zur notariellen Entscheidung.
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+### 3.3. Termin und Übermittlung getrennt vorbereiten
 
-## Notariatsvertiefung
+Prüfe bei Video den gesetzlich zugelassenen Vorgang und das vorgesehene notarielle Verfahren. Ein gewöhnliches Videotelefonat ersetzt es nicht. Die Beglaubigung einer Abschrift bestätigt die Übereinstimmung mit der vorgelegten Vorlage; sie bestätigt weder deren sachliche Richtigkeit noch eine darauf befindliche Unterschrift. Dokumentiere, welche Vorlage tatsächlich vorlag.
 
-Bei **Beurkundung oder Unterschriftsbeglaubigung richtig einordnen** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+## 4. Quellenpflicht
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+[Amtliche Formwege und Stand](../../references/mitarbeiter-formwege.md) sowie [Zitierweise](../../references/zitierweise.md). Absatznummern anhand des aktuellen Gesetzestextes prüfen. Für die Kapitalerhöhung nicht ungeprüft eine ältere Fassung von Paragraf 53 GmbHG übernehmen.
+
+## 5. Ausgabeformat
+
+Formblatt mit Erklärung, Norm, Form, Unterzeichner, Nachweis und nächstem Termin sowie ein ausformuliertes Anschreiben. Entwürfe bleiben als solche gekennzeichnet. Format: Times New Roman 11 pt, dezimale Gliederung, vollständige Sätze statt eines Klauselskeletts.
+
+## 6. Beispiel
+
+Ein Geschäftsführerwechsel wird zusammen mit einer Kapitalerhöhung angemeldet. Trenne Bestellungsbeschluss, beurkundeten Erhöhungsbeschluss, Übernahmeerklärung und öffentlich beglaubigte Anmeldung. „Alles nur beglaubigen“ ist keine tragfähige Vorgangsbeschreibung.

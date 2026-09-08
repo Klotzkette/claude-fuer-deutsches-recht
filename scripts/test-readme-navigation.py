@@ -234,6 +234,32 @@ class DownloadNoticeTests(unittest.TestCase):
 
 
 class NavigationTests(unittest.TestCase):
+    def test_download_targets_include_reference_markdown(self):
+        for target in (
+            "notariat-alltag/references/mitarbeiter-formwege.md",
+            "notariat-alltag/references/zitierweise.md",
+            "notariat-alltag/skills/kaltstart-triage/SKILL.md",
+            "notariat-alltag/notariat-alltag-werkstatt.md",
+            "README.md",
+            "docs/Meine Anleitung.md",
+        ):
+            with self.subTest(target=target):
+                self.assertTrue(NAV.is_markdown_download_target(target))
+
+    def test_download_targets_reject_unsafe_or_unsupported_paths(self):
+        for target in (
+            "../README.md", "/README.md", "plugin/../../README.md",
+            ".git/README.md", "https://example.org/file.md", "datei.pdf",
+            "plugin\\datei.md", "plugin/datei.md?raw=1", "plugin/Übersicht.md",
+        ):
+            with self.subTest(target=target):
+                self.assertFalse(NAV.is_markdown_download_target(target))
+
+    def test_work_file_requirement_stays_distinct_from_download_eligibility(self):
+        self.assertTrue(NAV.is_markdown_work_file("plugin/skills/start/SKILL.md"))
+        self.assertFalse(NAV.is_markdown_work_file("plugin/references/quellen.md"))
+        self.assertTrue(NAV.is_markdown_download_target("plugin/references/quellen.md"))
+
     def test_curated_and_start_guides_use_checked_downloads(self):
         checked = set(NAV.user_facing_download_docs())
         for filename in ("PROMPTLISTE.md", "QUICKSTART.md", "INSTALLATION_EINFACH.md"):

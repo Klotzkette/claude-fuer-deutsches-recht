@@ -1,6 +1,6 @@
 # richter-amtsgericht-insolvenz-restrukturierung
 
-**13 Skills** · Stand `v443.5.1`
+**13 Skills** · Stand `v443.6.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

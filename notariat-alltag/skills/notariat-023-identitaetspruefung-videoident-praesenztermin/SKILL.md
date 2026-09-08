@@ -1,52 +1,44 @@
 ---
 name: notariat-023-identitaetspruefung-videoident-praesenztermin
-description: "Für Notariat im Alltag: Identitätsprüfung Videoident und Präsenztermin Grenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
+description: "Bereitet Personalien, Ausweisabgleich und Vertretungsnachweise für einen Notartermin vor. Hält Scan, vorgelegtes Original und notarielle Feststellung auseinander und klärt Namenswechsel, Registervertretung sowie zulässige Videovorgänge ohne unnötige Datensammlung."
 ---
 
-# Notariat im Alltag: Identitätsprüfung Videoident und Präsenztermin Grenzen
+# Beteiligte und Ausweisnachweise für den Termin aufnehmen
 
-## Aufgabe
+## 1. Zweck und Anwendungsfall
 
-Dieser Skill bearbeitet **Identitätsprüfung Videoident und Präsenztermin Grenzen** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Erstelle das Beteiligtenblatt. Der Mitarbeiter erfasst und gleicht ab; die Gewissheit über die Person nach BeurkG Paragraf 10 und die rechtliche Würdigung liegen beim Notar. Erzeuge keine Ausweisbilder, Nummern oder angeblichen Identitätsprüfungen.
 
-## Kaltstart in 6 Fragen
+## 2. Eingaben
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+Auftrag, Personendaten, vorhandene Ausweisunterlagen, Registerauszüge, Vollmachten und gewünschter Termin. Lies nur auftragsbezogene Dateien. Verlange keine weitere Ausweiskopie, wenn die nötigen Daten bereits belegbar vorliegen und die Originalvorlage zum Termin ausreicht.
 
-## Prüfprogramm
+## 3. Ablauf
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### 3.1. Beteiligtenrolle und Datensatz anlegen
 
-## Typische Fallen
+Erfasse vollständigen Namen, Geburtsnamen soweit relevant, Geburtsdatum, Wohnanschrift und Rolle. Staatsangehörigkeit sowie Ausweisart, ausstellende Stelle, Gültigkeit und Dokumentnummer nur zweckbezogen nach einschlägiger Pflicht und Büroverfahren aufnehmen. Trenne Kontaktadresse und Wohnanschrift. Veröffentliche solche Daten nicht in Dateinamen oder einem Verteileranschreiben.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+### 3.2. Herkunft und Abweichung sichtbar halten
 
-## Output
+Nutze die Statuswerte „Eigenangabe“, „Kopie eingegangen“, „Originalvorlage vorgesehen“ und „Feststellung durch Notar dokumentiert“. Den letzten Status niemals selbst aus dem Vorhandensein einer Datei ableiten. Bei abweichendem Nachnamen gezielt nach Namensnachweis fragen; ein alter Ausweisname wird nicht stillschweigend überschrieben.
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+### 3.3. Vertreter und Unternehmen prüfen lassen
 
-## Notariatsvertiefung
+Erfasse Firma, Sitz, Registergericht, Registernummer, Auszugsdatum, Vertretungsregel und handelnde Person getrennt. Ein Gesellschafter ist nicht automatisch Geschäftsführer. Benenne bei Vollmachten Umfang, Form, Widerrufshinweise und vorliegende Ausfertigung beziehungsweise Original. Bei Auslandsbezug Übersetzung und Nachweisform dem Notar vorlegen. Keine Vertretungsmacht aus einer E-Mail-Signatur ableiten.
 
-Bei **Identitätsprüfung Videoident und Präsenztermin Grenzen** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+### 3.4. Präsenz und Video vorbereiten
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+Für Präsenz bitte um gültiges Original und konkrete Vertretungsnachweise. Bei Video erst zugelassenen Geschäftstyp, technisches Verfahren und Identifizierung nach BeurkG Paragraf 16c prüfen. Kein privater Videodienst ersetzt das notarielle Verfahren. Dolmetscherbedarf früh anzeigen; die Entscheidung über Urkundssprache und Hinzuziehung trifft der Notar.
+
+## 4. Quellenpflicht
+
+BeurkG Paragrafen 10, 12, 16 und 16c, gegebenenfalls GwG Paragrafen 10 bis 12 nach Vorgang. [Mitarbeiter-Formwege](../../references/mitarbeiter-formwege.md) und [Zitierweise](../../references/zitierweise.md). Identifizierung nach Berufs- und Geldwäscherecht mit jeweiligem Zweck getrennt dokumentieren.
+
+## 5. Ausgabeformat
+
+Beteiligtenblatt mit Quelle und Status, daneben ein vollständig formuliertes Terminanschreiben. Kein fertiger Beglaubigungsvermerk mit behaupteter Anwesenheit. Dokumente: Times New Roman 11 pt, dezimale Gliederung, vollständige Sätze. Identitätsunterlagen bleiben separat und werden nur an berechtigte Empfänger weitergegeben.
+
+## 6. Beispiel
+
+Eine Genehmigung nennt Anna Brandt, der vorab übersandte Ausweis Anna Seidel. Frage nach dem Namensnachweis und kündige die Originalvorlage an. Vermerke nicht „Identität bestätigt“, nur weil Geburtsdatum und Foto plausibel erscheinen.

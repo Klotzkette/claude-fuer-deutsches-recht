@@ -1,6 +1,6 @@
 # datenschutzrecht
 
-**285 Skills** · Stand `v443.5.1`
+**285 Skills** · Stand `v443.6.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../datenschutzrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

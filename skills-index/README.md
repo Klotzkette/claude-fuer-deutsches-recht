@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v443.5.1`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v443.6.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22434 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22435 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -202,7 +202,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [nis2-cybersecurity-compliance](./nis2-cybersecurity-compliance.md) (103 Skills)
 - [normenkontrolle-bauleitplanung](./normenkontrolle-bauleitplanung.md) (109 Skills)
 - [normenkontrollrat-nkr](./normenkontrollrat-nkr.md) (64 Skills)
-- [notariat-alltag](./notariat-alltag.md) (130 Skills)
+- [notariat-alltag](./notariat-alltag.md) (131 Skills)
 
 ### O
 

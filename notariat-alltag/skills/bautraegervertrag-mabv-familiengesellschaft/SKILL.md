@@ -1,114 +1,48 @@
 ---
 name: bautraegervertrag-mabv-familiengesellschaft
-description: "Für Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan, Abnahmefallen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Bereitet Bauträgerkaufverträge für die notarielle Prüfung vor. Verbindet Käuferdaten, Grundbuch, Teilung, Baubeschreibung, Sonderwünsche, Finanzierung und MaBV-Zahlungsplan mit Verbraucherfrist, Entwurfsstand und späterem Vollzug."
 ---
 
-# Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan, Abnahmefallen
+# Bauträgerkauf aus den Kundenunterlagen vorbereiten
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Erstelle den prüffähigen Entwurf für Wohnung, Haus oder Teileigentum vom Bauträger. Prüfe auch bei einer Familiengesellschaft, wer Unternehmer und wer Verbraucher ist; verwandtschaftliche Nähe ersetzt weder Form noch Schutzvorschriften. Die Mitarbeiter bereiten vor, der Notar prüft und belehrt.
 
-## Zweck und Anwendungsbereich
+## 2. Eingaben
 
-Der Bauträgervertrag verbindet Grundstückskauf und Werkvertrag. Er unterliegt besonderen Verbraucherschutzvorschriften (MaBV) und erfordert vom Notar eine intensivere Belehrungspflicht als der klassische Grundstückskauf. Strukturiere die MaBV-Anforderungen, den Ratenplan und die häufigen Abnahmefallen.
+Auftrag, Verkäufer- und Käuferdaten, Register- und Grundbuchunterlagen, Teilungserklärung, Aufteilungsplan, Baubeschreibung, Kaufpreis, Sonderwünsche, Baugenehmigung und Bankunterlagen. Fehlende Dokumente als fehlend kennzeichnen; ein Exposé ersetzt keine vollständige Baubeschreibung.
 
-Rechtsgrundlagen: § 311b BGB (Formzwang), §§ 631–651 BGB (Werkvertragsrecht), MaBV (Makler- und Bauträgerverordnung) §§ 3–9 (Sicherungspflichten), § 12 MaBV (Verbraucherrecht), § 17 Abs. 2a BeurkG (Wartefrist), §§ 640–641 BGB (Abnahme), AGBG/§ 307 BGB (AGB-Kontrolle Bauträger-AGB), BauGB (Baugenehmigung).
+## 3. Ablauf
 
-## Pflichtinhalt des Bauträgervertrags
+### 3.1. Kaufobjekt und Leistungen eindeutig zuordnen
 
-- Genaue Beschreibung des Grundstücks und des zu errichtenden Bauwerks (Baubeschreibung)
-- Kaufpreis (Gesamtpreis für Grundstück und Bauwerk)
-- Fertigstellungstermin oder Fertigstellungsfrist
-- Zahlungsplan nach MaBV (§ 3 Abs. 2 MaBV)
-- Sicherungsabrede: Bürgschaft oder Fertigstellungssicherheit
-- Abnahme-Regelung
-- Mängelgewährleistung nach § 634 BGB
+Gleiche Grundbuchblatt, Gemarkung, Flurstück, Miteigentumsanteil, Einheit, Stellplatz und Sondernutzungsrechte ab. Wohnfläche, Bauleistung und Fertigstellungstermin mit konkreter Quellenversion erfassen. Ein geänderter Grundriss darf nicht stillschweigend als identisch behandelt werden. Bei Sonderwünschen Preis, Auftragnehmer, Fälligkeit und Zusammenhang mit dem Hauptvertrag dem Notar vorlegen.
 
-## MaBV-Ratenplan (§ 3 Abs. 2 MaBV)
+### 3.2. Entwurf und Verbraucherfrist organisieren
 
-Ratenzahlungen sind nur nach tatsächlichem Baufortschritt zulässig:
+BGB Paragraf 311b Absatz 1 verlangt notarielle Beurkundung. Bei Verbraucherverträgen im Anwendungsbereich von BeurkG Paragraf 17 Absatz 2a soll der beabsichtigte Text im Regelfall zwei Wochen zuvor vom beurkundenden oder einem mit ihm verbundenen Notar bereitgestellt werden. Maklerversand ist nicht automatisch gleichwertig. Dokumentiere tatsächliche Bereitstellung, Anlagen und spätere wesentliche Änderungen. Eine Fristverkürzung nicht allein aus einem Kundenwunsch genehmigen; der Notar entscheidet und dokumentiert den Grund.
 
-| Rate | Voraussetzung | max. % |
-|---|---|---|
-| 1. Rate | Beginn Erdarbeiten | 30 % |
-| 2. Rate | Rohbau (Erdgeschossdecke) | 28 % |
-| 3. Rate | Dacheindeckung | 8,4 % |
-| 4. Rate | Rohinstallation | 2 % |
-| 5. Rate | Fenster/Außentüren | 8,4 % |
-| 6. Rate | Innenputz | 4,2 % |
-| 7. Rate | Fliesen | 2,1 % |
-| 8. Rate | Estrich | 2,8 % |
-| 9. Rate | Bezugsfertigkeit | 8,4 % |
-| 10. Rate | Fertigstellung | 5,6 % |
+### 3.3. Zahlungsplan mit Sicherungen verbinden
 
-Erste Rate: erst nach Auflassungsvormerkung und Freistellungserklärung der Finanzierungsbank (§ 3 Abs. 1 MaBV).
+MaBV Paragraf 3 Absatz 1 und Absatz 2 getrennt prüfen: allgemeine Sicherungsvoraussetzungen einerseits, baufortschrittsabhängige Teilbeträge andererseits. Bis zu sieben Teilbeträge, nicht sieben beliebige Prozentsätze. Die Prozentsätze nach Absatz 2 Nummer 2 beziehen sich auf den Restbetrag; die 30-Prozent-Erdarbeitsrate beim Grundstückseigentum hat eine andere Basis. Keine Rechnungsfälligkeit allein aus einer Bauträger-E-Mail ableiten. Eine Sicherheit nach MaBV Paragraf 7 ist ein gesondert zu prüfender Weg.
 
-## Sicherungsanforderungen nach MaBV
+### 3.4. Vertragsentwurf vervollständigen
 
-Vor der ersten Ratenzahlung muss der Bauträger entweder:
-1. **Fertigstellungsbürgschaft:** Bürgschaft einer Bank für Fertigstellung
-2. **Freistellungserklärung der finanzierenden Bank** des Bauträgers
+Trenne Errichtung, Übereignung, Besitzübergang, Abnahme, Mängelrechte und Schlusszahlung. Gemeinschaftseigentum und Sondereigentum benötigen passende Abnahmeregeln. Prüfe BGB Paragrafen 650u und 650v sowie MaBV nach konkretem Vertrag; Verbraucherbauvertrag und Bauträgervertrag nicht gleichsetzen. Belastungsvollmacht, Rang und Lastenfreistellung mit der Käuferfinanzierung abstimmen, keine pauschale Sicherung fremder Verbindlichkeiten.
 
-Ohne diese Absicherung darf der Notar keine Fälligkeitsbestätigung erteilen.
+### 3.5. Vollzug vorbereiten
 
-## Abnahmefallen
+Führe Vormerkung, Genehmigungen, Lastenfreistellungsunterlagen, Fälligkeitsmitteilung, Zahlung und Eigentumsumschreibung als getrennte Schritte. Ein Mitarbeiterentwurf ist keine Fälligkeitsfreigabe. Bei widersprüchlicher Bankbestätigung nur den betroffenen Schritt sperren und die übrige Mappe fertigstellen.
 
-Die Abnahme (§ 640 BGB) ist der entscheidende Moment: Ab Abnahme läuft die Gewährleistungsfrist (5 Jahre), die Beweislast kehrt sich um, und der Restbetrag wird fällig.
+## 4. Quellenpflicht
 
-**Typische Klauseln, die den Verbraucher benachteiligen:**
-- Abnahme durch Sachverständigen des Bauträgers (AGB-Kontrolle: str.)
-- Automatische Abnahme nach Fristablauf (§ 640 Abs. 2 BGB: Sonderregel)
-- Übergabe = Abnahme (unzulässig: § 307 BGB)
-- Teileabnahme erzwingt Endabnahme ohne vollständige Mängelprüfung
+[Amtliche Formwege](../../references/mitarbeiter-formwege.md), BGB Paragrafen 311b, 650u und 650v; BeurkG Paragraf 17; MaBV Paragrafen 3 und 7. [Zitierweise](../../references/zitierweise.md). Konkrete Rechtsprechung etwa zu Abnahmeklauseln nur nach verifizierter Fundstelle einsetzen.
 
-**Empfehlung:** Verbraucher sollte Sachverständigen zur Abnahme mitbringen; Abnahmeprotokoll mit Mängelliste.
+## 5. Ausgabeformat
 
-## Prüfprogramm
+Vollständig formulierter Kaufvertragsentwurf zur notariellen Prüfung, Anlagenverzeichnis mit Versionsstand und getrenntes Nachforderungsschreiben. Keine erfundenen Genehmigungen oder bloßen Klauselrümpfe. Times New Roman 11 pt, dezimale Gliederung. Ein Zahlplan enthält Betrag, Rechenbasis, Bautenstand und zusätzliche Fälligkeitsbedingungen.
 
-- Liegt Baugenehmigung vor?
-- MaBV-Ratenplan entspricht den Voraussetzungen?
-- Freistellungserklärung / Bürgschaft vorhanden?
-- Ist die Baubeschreibung hinreichend präzise? (Qualitäten, Ausstattung, DIN-Normen)
-- Fertigstellungstermin verbindlich oder nur Prognose?
-- Abnahmeklausel AGB-konform?
-- Verbraucherwartefrist 14 Tage (§ 17 Abs. 2a BeurkG) eingehalten?
+## 6. Beispiel
 
-## Typische Fallen
-
-- Erste Rate ohne Auflassungsvormerkung → MaBV-Verstoß, Notar haftet.
-- Baubeschreibung zu ungenau → spätere Mängelstreitigkeiten vorprogrammiert.
-- Automatische Abnahme nach Frist ohne Verbraucheraufklärung → § 640 Abs. 2 BGB-Risiko.
-- Freistellungserklärung deckt nur Teilfläche → erste Rate für falsche Fläche freigegeben.
-- AGB-Klauseln zur Abnahme nicht auf § 307 BGB geprüft.
-
-## Rechtsquellen
-
-- MaBV: https://www.gesetze-im-internet.de/makler_baubetrgv/
-- § 640 BGB (Abnahme): https://dejure.org/gesetze/BGB/640.html
-- § 307 BGB (AGB): https://dejure.org/gesetze/BGB/307.html
-- BGH zu Bauträgerverträgen: https://www.bgh.de
-- BNotK MaBV-Hinweise: https://www.bnotk.de
-
-## Output-Formate
-
-- **MaBV-Ratenplan-Prüfcheckliste**
-- **Freistellungserklärung / Bürgschaft-Prüfung**
-- **Abnahmecheckliste für Verbraucher**
-- **AGB-Klauselkatalog** (zulässig/unzulässig)
-- **Mandantenmail** (Risikohinweis Bauträger, Abnahme)
-
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
+Die Käufer erhalten vom Vertrieb am 2. September einen Vertragsstand, die vollständige notarielle Fassung erst später. Übernimm den Vertriebsversand nicht als Beginn der Regelüberlegungsfrist. Ein noch nicht abgestimmter Grundriss bleibt ein offener Vertragsbestandteil.

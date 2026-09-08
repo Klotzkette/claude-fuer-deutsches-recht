@@ -1,92 +1,52 @@
 ---
 name: 006-handelsregisteranmeldung-geschaeftsfuehrer-bestellu
-description: "Für Handelsregisteranmeldung Geschäftsführer Bestellu: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
+description: "Vertieft Organwechsel bei GmbH, UG und AG mit zeitversetztem Amtswechsel, abweichender Vertretungsbefugnis oder Fragen der Registerpublizität. Prüft Anmelder, Nachweisform und Versicherungen und trennt interne Bestellung, Anstellungsvertrag und Schutz Dritter."
 ---
 
-# Notariat im Alltag: Handelsregisteranmeldung – Geschäftsführer Bestellung, Abberufung, Vertretungsmacht
+# Geschäftsführerwechsel und Handelsregisteranmeldung vorbereiten
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Vertiefungsweg behandelt zeitversetzte Organwechsel, Publizitätsfragen und die Abgrenzung zur AG. Für einen einfachen Geschäftsführerwechsel genügt der Mitarbeiterweg zur Handelsregisteranmeldung. Aus Auftrag und Registerbestand werden getrennte Beschluss- und Anmeldedokumente. Die Bestellung ist nicht der Anstellungsvertrag; die Eintragung wird nicht mit dem internen Wirksamkeitsbeginn gleichgesetzt.
 
-## Zweck und Anwendungsbereich
+## 2. Eingaben
 
-Jede Änderung des Vertretungsorgans einer GmbH oder AG muss unverzüglich zum Handelsregister angemeldet werden. Strukturiere die formellen Anforderungen, den Inhalt der Anmeldung sowie typische Zwischenverfügungsrisiken beim Registergericht.
+Satzung, Registerauszug, Gesellschafterliste, Beschluss oder Beschlusswunsch, Annahme der Bestellung, Personalien und gewünschte Vertretung. Belegte Daten übernehmen und nur widersprechende oder entscheidende fehlende Angaben nachfragen.
 
-Rechtsgrundlagen: § 10 GmbHG (Registerpublizität), § 39 GmbHG (Anmeldung Geschäftsführer), § 78 GmbHG (Liquidatoren), §§ 76–94 AktG (Vorstand AG), §§ 12, 14 HGB (Form, Anmeldung), § 37 HGB (Firmengrundsätze), FamFG §§ 374–380 (Registerverfahren), § 15 HGB (negative/positive Publizität), GwG.
+## 3. Ablauf
 
-## Formelle Anforderungen
+### 3.1. Beschluss und Datum festlegen
 
-**GmbH (§ 12 HGB, § 39 GmbHG):**
-- Öffentlich beglaubigte Unterschrift des/der Geschäftsführer unter der Anmeldung
-- Musterzeichnung (Unterschrift des neu Bestellten vor Notar oder unter beglaubigter Unterschrift)
-- Gesellschafterbeschluss (Bestellungs- oder Abberufungsbeschluss) – beglaubigte Abschrift oder als Anlage
-- Versicherung des Geschäftsführers über keine Vorstrafen (§ 6 Abs. 2 GmbHG, § 53 BZRG)
+Prüfe Zuständigkeit nach GmbHG Paragraf 46 Nummer 5 und Satzung, Einberufung, Stimmen, Annahme und Bedingungen. Für die bloße Bestellung oder Abberufung besteht regelmäßig keine gesetzliche Beurkundungspflicht; Satzungsänderungen und gekoppelte Vorgänge gesondert behandeln. Kündigung des Anstellungsvertrags folgt nicht automatisch aus der Abberufung.
 
-**AG (§§ 76, 81, 83 AktG, § 12 HGB):**
-- Bestellung durch Aufsichtsrat (§ 84 AktG) – Protokoll als Anlage
-- Öffentlich beglaubigte Anmeldung durch Vorstandsmitglieder und Vorsitzenden des Aufsichtsrats
+### 3.2. Vertretung wortgetreu abgleichen
 
-## Inhalt der Anmeldung
+Trenne allgemeine Satzungsregel, konkrete Einzelvertretungsbefugnis und Befreiung von BGB Paragraf 181. Übernimm keine Befreiung aus einem fremden Muster. Bei zeitversetztem Ausscheiden und Eintritt prüfen, wer im Zwischenzeitraum vertreten und anmelden kann. Einen ausgeschiedenen Geschäftsführer nicht ohne Prüfung als Anmelder einsetzen.
 
-- Art der Änderung: Neubestellung, Abberufung, Vertretungsregelung (Alleinvertretung, Gesamtvertretung, Befreiung von § 181 BGB)
-- Personalien: vollständiger Name, Geburtsdatum, Wohnort
-- Vertretungsart klar bezeichnen (z.B.: „Der Geschäftsführer ist einzelvertretungsberechtigt und von den Beschränkungen des § 181 BGB befreit.")
-- Datum der Bestellung/Abberufung
+### 3.3. Anmeldung und Nachweise vorbereiten
 
-## Negative Publizität (§ 15 HGB)
+GmbHG Paragraf 39 verlangt die Anmeldung und Nachweise; Absatz 2 nennt Original oder öffentlich beglaubigte Abschrift der Urkunden zur Bestellung beziehungsweise Beendigung. Die Versicherung nach Absatz 3 mit den aktuellen Anforderungen und erforderlicher Belehrung dem Notar vorlegen. Nicht als bereits abgegeben markieren. Konkrete Anmeldezuständigkeit anhand Paragraf 78 und des Übergangsstands prüfen.
 
-Die Handelsregistereintragung hat deklaratorische Wirkung. Bis zur Eintragung kann ein gut gläubiger Dritter nicht auf den bisherigen Stand vertrauen, wenn die Änderung bereits eingetreten ist. Umgekehrt schützt § 15 Abs. 1 HGB den Dritten, dem die nicht eingetragene Tatsache unbekannt war.
+### 3.4. Vollzug überwachen
 
-## Vollzugskette
+Die Anmeldung wird nach HGB Paragraf 12 formgerecht elektronisch eingereicht. Mitarbeiter bereiten die Mappe vor, fingieren aber keine Signatur oder Einreichung. Nach Freigabe Versandnachweis und nach tatsächlichem Eingang Registermitteilung abgleichen. Allein wegen eines Geschäftsführerwechsels ist keine Gesellschafterlistenänderung nötig.
 
-1. Gesellschafterbeschluss/Aufsichtsratsbeschluss fassen (Protokoll sichern)
-2. Bestellter Geschäftsführer: Musterzeichnung beim Notar
-3. Notar fertigt Anmeldungsurkunde mit beglaubigter Unterschrift
-4. Prüfung: § 6 Abs. 2 GmbHG-Erklärung (keine Vorstrafe, keine Gewerbeuntersagung)
-5. Elektronische Einreichung via EGVP mit qeS (§ 12 HGB)
-6. Registergericht prüft – ggf. Zwischenverfügung (§ 382 FamFG)
-7. Eintragung → Bekanntmachung (§ 10 HGB)
+### 3.5. Aktiengesellschaft und Publizität abgrenzen
 
-## Prüfprogramm
+Bei einer AG gilt AktG Paragraf 81: Der Vorstand meldet die Änderung an, die Urkunden sind in Urschrift oder öffentlich beglaubigter Abschrift beizufügen. Neue Vorstandsmitglieder geben die dort bezeichnete Versicherung ab. Nicht pauschal zusätzlich den Aufsichtsratsvorsitzenden als Anmelder einsetzen.
 
-- Abberufungsgrund bei fristloser Abberufung? Wichtiger Grund nötig (§ 38 GmbHG)?
-- § 181 BGB-Befreiung: Ist sie in der Satzung vorgesehen oder Gesellschafterbeschluss nötig?
-- Gesamtvertretung: Wie viele Geschäftsführer müssen gemeinsam handeln?
-- Prokura gleichzeitig erteilt? Separate Anmeldung nötig (§ 53 HGB).
-- Liquidation statt laufender Geschäftsführung? Andere Anmeldepflichten (§§ 65–77 GmbHG).
-- Nicht-EU-Bürger als GF: Aufenthaltstitel erforderlich, Registerakzeptanz prüfen.
+Eine veraltete Pflicht zur gesonderten Musterzeichnung wird nicht als Voraussetzung ausgegeben. Die Versicherung betrifft die gesetzlichen Bestellungshindernisse, nicht unterschiedslos jede Vorstrafe. Aufenthaltsrechtliche Fragen sind von der gesellschaftsrechtlichen Organfähigkeit zu trennen.
 
-## Typische Fallen
+Nach HGB Paragraf 15 Absatz 1 kann eine noch nicht eingetragene und bekanntgemachte Tatsache dem unwissenden Dritten grundsätzlich nicht entgegengehalten werden. Interne Wirksamkeit und Publizität auseinanderhalten; nicht behaupten, der Dritte verliere schon mit der internen Änderung seinen Schutz. Für Kosten den aktuellen Geschäftswert und Gebührentatbestand prüfen, keine veralteten Pauschalbeträge verwenden.
 
-- Musterzeichnung fehlt → Zwischenverfügung Registergericht.
-- § 6 Abs. 2-Erklärung fehlt oder zu alt → Zurückweisung.
-- § 181 BGB-Befreiung nicht beurkundet/beschlossen, aber in Anmeldung behauptet.
-- Alte Unterschriftsbeglaubigung auf falschem Personaldokument basierend.
-- Abberufung ohne wichtigen Grund bei fristloser Kündigung → arbeitsrechtliche und gesellschaftsrechtliche Trennung beachten.
+## 4. Quellenpflicht
 
-## Kostenhinweise
+GmbHG Paragrafen 6, 35, 38, 39, 46 und 78; HGB Paragrafen 12 und 15; AktG Paragrafen 81 und 84; BGB Paragraf 181. [Amtliche Formwege](../../references/mitarbeiter-formwege.md) und [Zitierweise](../../references/zitierweise.md).
 
-Beglaubigung der Anmeldung: KV Nr. 25100 GNotKG (max. 70 € je Unterschrift). HR-Gebühr: pauschal nach Registergerichtsgebühren-Verordnung (ca. 70 € für Änderung).
+## 5. Ausgabeformat
 
-## Rechtsquellen
+Beschlussentwurf, Anmeldeentwurf, Nachweise und Vorlagevermerk in vollständigen Sätzen. Times New Roman 11 pt, dezimale Gliederung, Kennzeichnung als Entwurf zur notariellen Prüfung. Keine Halbsatzvorlagen, vorausgefüllten Unterschriften oder behaupteten Registereinträge.
 
-- § 39 GmbHG: https://dejure.org/gesetze/GmbHG/39.html
-- § 12 HGB: https://dejure.org/gesetze/HGB/12.html
-- § 15 HGB: https://dejure.org/gesetze/HGB/15.html
-- § 84 AktG: https://dejure.org/gesetze/AktG/84.html
-- FamFG § 382: https://dejure.org/gesetze/FamFG/382.html
-- BGH zu § 15 HGB: https://www.bgh.de
+## 6. Beispiel
 
-## Output-Formate
-
-- **Anmeldungs-Checkliste** (GmbH/AG, je nach Vorgang)
-- **Entwurf Anmeldungstext** (mit Vertretungsregelung und § 181-Befreiung)
-- **Mandantenmail** (Ablauf, Frist, Unterlagen)
-- **Zwischenverfügungsantwort** (Muster)
-
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+Der alte Geschäftsführer soll am 10. Oktober ausscheiden; der neue soll am selben Tag beginnen. Halte beide Daten fest und prüfe, wer wann anmeldet. Eine vorherige E-Mail macht den Wechsel nicht schon wirksam.

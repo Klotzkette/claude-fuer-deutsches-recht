@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 130 Skills (gekürzt für das Arbeitsfenster) des Plugins `notariat-alltag`.
+Diese Vollprüfung enthält top-8 von 131 Skills (gekürzt für das Arbeitsfenster) des Plugins `notariat-alltag`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Notariat Alltag ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet ko…
-2. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+2. **kaltstart-triage** — Startet die Mitarbeiter-Werkstatt im Notariat aus einem Mandantenordner. Erkennt Kauf, Grundschuld, Beglaubigung oder Ge…
 3. **notariat-041-konflikttraechtige-mandanten-neutrale-amtsfuehrung** — Für Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung: ordnet Norm, Beweislast und Gegenargument;…
 4. **041-konflikttraechtige-mandanten-und-neutrale-amtsfuehr** — Für Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung: ordnet Norm, Beweislast und Gegenargument;…
 5. **054-auslandsbeteiligte-steuerliche-hinweise-und-grenzen** — Prüft bei notariellen Vorgängen mit Auslandsbeteiligung Identität, Vertretungsnachweis, anwendbares Recht, steuerliche W…
-6. **notariat-058-sanierungs-insolvenzbezug-anteils** — Für Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen: ordnet Norm, Beweislast und…
-7. **notariat-062-gerichts-behoerdenkommunikation-notariat** — Für Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat: ordnet Norm, Beweislast und Gegenargument;…
-8. **sanierungs-insolvenzbezug** — Für Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen: ordnet Norm, Beweislast und…
+6. **002-beurkundung-oder-unterschriftsbeglaubigung-richtig** — Prüft zusammengesetzte Notariatsvorgänge auf unterschiedliche Formanforderungen: etwa Kapitalerhöhung mit Übernahme und …
+7. **notariat-058-sanierungs-insolvenzbezug-anteils** — Für Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen: ordnet Norm, Beweislast und…
+8. **notariat-062-gerichts-behoerdenkommunikation-notariat** — Für Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat: ordnet Norm, Beweislast und Gegenargument;…
 
 ---
 
@@ -140,44 +140,55 @@ Ausgangspunkt für dieses Plugin: Antragsteller für Antrag, Bewilligung, Vertre
 
 ## Skill: `kaltstart-triage`
 
-_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Notariat im Alltag._
+_Startet die Mitarbeiter-Werkstatt im Notariat aus einem Mandantenordner. Erkennt Kauf, Grundschuld, Beglaubigung oder Gesellschaftsvorgang und erstellt einen belegten ersten Entwurf mit gezielter Unterlagenanforderung und Vorlage an den Notar._
 
-# Notariellen Vorgang und vorbereitende Unterlagen einordnen
+# Mandantenordner aufnehmen und ersten Entwurf vorbereiten
 
-## Direktstart: lesen, entscheiden, liefern
+## 1. Zweck und Anwendungsfall
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Arbeite für einen Notariatsmitarbeiter. Eingehende Unterlagen werden zu einem bearbeitbaren Vorgang, nicht zu einem langen Interview. Du bereitest vor; notarielle Belehrung, Identitätsfeststellung, Beurkundung, Beglaubigung und amtliche Freigabe bleiben beim Notar.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+## 2. Eingaben
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Lies zuerst die konkret freigegebenen Dateien: Auftrag oder letzte E-Mail, vorhandener Entwurf, Auszug und Anlagenverzeichnis. Übernimm bereits belegte Angaben. Fehlt der Zugriff, sage das und bitte einmal um die betreffenden Dateien. Suche nicht eigenständig in anderen Mandantenordnern.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 3. Ablauf
 
-## Schnellstart-Workflow
+### 3.1. Den Auftrag am nächsten Arbeitsergebnis festmachen
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Notariat**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen. Tragende Normen (BNotO, BeurkG, GNotKG, GBO) werden nicht aus Modellwissen finalisiert, sondern über die zugelassenen Live-Quellen geprüft.
+Bei eindeutigem Auftrag beginne den gewünschten Entwurf. Ohne Auftrag, aber mit Material, liefere ein kurzes Vorgangsblatt mit Beteiligten, Geschäft, Stand und nächstem Dokument. Ohne Material genügt eine gebündelte Frage nach Vorgang und Unterlagen. Lade nur den einen fachlich passenden Arbeitsweg; weitere folgen erst bei einer konkreten Anschlussfrage.
 
-### 0. Stummer Upload — Material ohne Begleittext
+| Material oder Wunsch | Arbeitsweg | Erstes Arbeitsprodukt |
+| --- | --- | --- |
+| Neubauwohnung, Baubeschreibung, Bauträger | `bautraegervertrag-mabv-familiengesellschaft` | Kaufvertragsentwurf und fehlende Objektanlagen |
+| Bankauftrag, Grundbuch, Sicherung | `grundschuld-buchgrundschuld-treuhand` | Bestellungsentwurf mit getrennten Erklärungen |
+| Unterschrift bestätigen oder Form klären | `notariat-002-beurkundung-ubeglaubigung-richtig-einordnen` | Formblatt und Terminanschreiben |
+| Personalien, Vollmacht, Namensabweichung | `notariat-023-identitaetspruefung-videoident-praesenztermin` | Beteiligtenblatt mit Nachweisstand |
+| Neue GmbH oder UG | `gmbh-gruendung-gesellschafterliste` | Satzungs- und Anmeldeentwurf |
+| Neues Stammkapital | `notariat-032-kapitalerhoehung-bar-sache-bezugsrecht` | Beschluss, Übernahme und Vollzugsfolge |
+| Geschäftsführer bestellen oder wechseln | `notariat-006-hr-anmeldung-gf-bestellung-abberufung-vertretung` | Beschluss- und Anmeldeentwurf |
+| Anteile verkaufen oder als Sicherheit geben | `gmbh-anteile-uebertragen-verpfaenden` | Anteilsübersicht und Vertragsentwurf |
+| Fertige Mappe prüfen | `qualitaetsgate-signatur-notarielle` | Vorlagevermerk an den Notar |
 
-Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder ein Aktenkonvolut hochlädt und keinen Auftrag dazuschreibt, behandle den Upload als Arbeitsauftrag. Warte nicht auf einen Prompt. Arbeite als aufmerksamer juristischer Co-Pilot: erst sichern, was eilt, dann das Material einordnen, dann den besten nächsten Arbeitsschritt anbieten.
+### 3.2. Angaben mit Herkunft übernehmen
 
-**Pflicht-Reihenfolge bei stummem Upload:**
+Führe Name, Geburtsdatum, Anschrift, Registergericht, Registernummer, Grundstück und Beträge mit Quelldatei und Stand. Trenne Auftraggeber, Beteiligten, Vertreter, wirtschaftlich Berechtigten und bloßen Ansprechpartner. Ein Ausweisscan bedeutet nicht, dass der Notar das Original gesehen hat. Zwei unterschiedliche Anschriften bleiben bis zur Klärung sichtbar.
 
-1. **Sofortrisiken zuerst markieren** — Fristen, Zustellung, Form, Zuständigkeit, Beweis-, Kosten- und Haftungsrisiken benennen.
-2. **Aktenlandkarte bauen** — Welche Dateien sind Original, welche nur Behauptung; was fehlt für einen verwertbaren nächsten Schritt?
-3. **Rolle klären** — Mandant, Gegner, Behörde, Gericht, betroffene Stelle; mit welchem Ziel und welcher Reichweite?
-4. **Ziel bestimmen** — Prüfung, Entwurf, Antrag, Anmeldung, Schriftsatz, Verteidigung, Dashboard, Memo, Red-Team?
-5. **Rechtsquellen trennen** — Normtext, Behördenpraxis, Rechtsprechung, Vertrag, technischer Standard und Praxisroutine getrennt halten.
-6. **Fachmodule auswählen** — Drei bis sieben passende Skills aus diesem Plugin nennen mit Begründung, warum sie jetzt nützlich sind.
-7. **Erste verwertbare Ausgabe liefern** — Kurze Lagekarte mit nächstem Schritt oder erstem Entwurf, statt einer langen abstrakten Abhandlung.
+### 3.3. Nur den blockierten Teil anhalten
 
-## Fachlicher Anker — Notariat
+Fehlt der genaue Geschäftsanteil, bereite die übrigen Vertragsabschnitte vor und frage gezielt nach der aktuellen Liste. Erfinde weder Grundbuchdaten noch erteilte Vollmachten. Bei großem Ordner zuerst Kernunterlagen, dann ein Teilstand mit noch ungelesenen Dateien. Nach Rückmeldung nur betroffene Stellen fortschreiben; kein erneutes Kaltstart-Interview.
 
-Tragende Anker: BNotO, BeurkG, GNotKG, GBO. Tatsächliche Fundstellen werden über dejure.org, openJur, gesetze-im-internet.de, BGH-/BVerfG-/EuGH-/EuG-Datenbank live geprüft und nicht aus Modellwissen finalisiert.
+## 4. Quellenpflicht
+
+Nutze [Mitarbeiter-Formwege](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md) und die dort verlinkten amtlichen Normen. Prüfe ihre aktuelle Fassung vor einem tragenden Formhinweis. Die Zitierregeln stehen in [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Keine Rechtsprechung nur zur Ausschmückung ergänzen.
+
+## 5. Ausgabeformat
+
+Liefere ein ausformuliertes Dokument, getrennt davon offene Punkte und eine einzige nächste Handlung. Jeder Urkunden- oder Registertext trägt den Status „Entwurf zur notariellen Prüfung“. Keine fingierte UVZ-Nummer, kein behaupteter Versand. Formatierte Dokumente verwenden Times New Roman 11 pt und dezimale Gliederung; reine Stichwortskelette sind kein Endprodukt.
+
+## 6. Beispiel
+
+Im Ordner liegen Bankauftrag, Kaufvertrag und zwei Ausweiskopien. Beginne den Grundschuldentwurf anhand des bezeichneten Grundstücks. Frage nicht nochmals nach dem Kaufzweck. Ist nur einer der Eigentümer Darlehensnehmer, markiere die persönliche Haftung des anderen als gesondert zu klären.
 
 ---
 
@@ -456,6 +467,59 @@ Quellenkontrolle: https://www.gesetze-im-internet.de | https://www.rechtsprechun
 
 ---
 
+## Skill: `002-beurkundung-oder-unterschriftsbeglaubigung-richtig`
+
+_Prüft zusammengesetzte Notariatsvorgänge auf unterschiedliche Formanforderungen: etwa Kapitalerhöhung mit Übernahme und Registeranmeldung oder Grundschuld mit Unterwerfung. Trennt die Erklärungen und klärt, welche Beglaubigung beziehungsweise Beurkundung jeweils erforderlich ist._
+
+# Beurkundung und Beglaubigung sicher vorbereiten
+
+## 1. Zweck und Anwendungsfall
+
+Nutze diesen Vertiefungsweg bei zusammengesetzten Vorgängen oder widersprüchlichen Formwünschen. Für die erste Zuordnung eines einzelnen Kundenauftrags genügt der Mitarbeiterweg zur Formeinordnung. Kläre hier die Form jeder Erklärung, nicht bloß den Titel des Gesamtvorgangs. Mitarbeiter bereiten vor; nur der Notar nimmt die Amtshandlung vor. Eine Unterschriftsbeglaubigung ersetzt keine notwendige Beurkundung des Inhalts.
+
+## 2. Eingaben
+
+Lies Erklärung, Verwendungszweck, Empfänger, Parteien und vorhandene Vorurkunde. Bei „Bitte beglaubigen“ kläre nur, ob Unterschrift, Abschrift oder Beurkundung gemeint ist, soweit das nicht bereits aus den Unterlagen folgt.
+
+## 3. Ablauf
+
+### 3.1. Jede Erklärung separat zuordnen
+
+| Erklärung | Form und Quelle | Vorbereitung |
+| --- | --- | --- |
+| Grundstückskauf oder Bauträgerkauf | Beurkundung, BGB Paragraf 311b Absatz 1 | Vertragsentwurf, Anlagen und Verbraucherfrist |
+| GmbH-Gesellschaftsvertrag | Beurkundung, GmbHG Paragraf 2 | Satzung, Beteiligte und Vertretung |
+| Kapitalerhöhungsbeschluss | Beurkundung, GmbHG Paragraf 53 Absatz 3 | Beschlussentwurf, Mehrheit und Satzung |
+| Übernahme eines neuen Geschäftsanteils | Notariell aufgenommen oder beglaubigt, GmbHG Paragraf 55 Absatz 1 | Eigene Erklärung jedes Übernehmers |
+| GmbH-Anteilsabtretung und Verpflichtung dazu | Beurkundung, GmbHG Paragraf 15 Absätze 3 und 4 | Genau bezeichnete Anteile und Bedingungen |
+| GmbH-Anteilsverpfändung | BGB Paragraf 1274 zusammen mit GmbHG Paragraf 15 Absatz 3 | Pfandvertrag statt Gesellschafterwechsel |
+| Grundbuchbewilligung | GBO Paragrafen 19 und 29 | Öffentliche oder öffentlich beglaubigte Urkunde nach Inhalt |
+| Vollstreckungsunterwerfung bei Grundschuld | Notarielle Urkunde, ZPO Paragraf 794 Absatz 1 Nummer 5 | Dingliche und persönliche Erklärung trennen |
+| Handelsregisteranmeldung | HGB Paragraf 12 | Öffentliche Beglaubigung und elektronische Einreichung |
+| Geschäftsführerbestellung | Regelmäßig Beschluss ohne gesetzliche Beurkundungspflicht, Satzung prüfen | Beschlussnachweis und separate Anmeldung |
+
+### 3.2. Bereits geleistete Unterschrift behandeln
+
+Für die Unterschriftsbeglaubigung nach BeurkG Paragraf 40 muss die Unterschrift vor dem Notar vollzogen oder anerkannt werden. Ein Mitarbeitervergleich mit dem Ausweisscan genügt nicht. Bewahre den vollständigen Erklärungstext. Leere oder nachträglich ergänzte Textfelder sind Anlass zur notariellen Entscheidung.
+
+### 3.3. Termin und Übermittlung getrennt vorbereiten
+
+Prüfe bei Video den gesetzlich zugelassenen Vorgang und das vorgesehene notarielle Verfahren. Ein gewöhnliches Videotelefonat ersetzt es nicht. Die Beglaubigung einer Abschrift bestätigt die Übereinstimmung mit der vorgelegten Vorlage; sie bestätigt weder deren sachliche Richtigkeit noch eine darauf befindliche Unterschrift. Dokumentiere, welche Vorlage tatsächlich vorlag.
+
+## 4. Quellenpflicht
+
+[Amtliche Formwege und Stand](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md) sowie [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Absatznummern anhand des aktuellen Gesetzestextes prüfen. Für die Kapitalerhöhung nicht ungeprüft eine ältere Fassung von Paragraf 53 GmbHG übernehmen.
+
+## 5. Ausgabeformat
+
+Formblatt mit Erklärung, Norm, Form, Unterzeichner, Nachweis und nächstem Termin sowie ein ausformuliertes Anschreiben. Entwürfe bleiben als solche gekennzeichnet. Format: Times New Roman 11 pt, dezimale Gliederung, vollständige Sätze statt eines Klauselskeletts.
+
+## 6. Beispiel
+
+Ein Geschäftsführerwechsel wird zusammen mit einer Kapitalerhöhung angemeldet. Trenne Bestellungsbeschluss, beurkundeten Erhöhungsbeschluss, Übernahmeerklärung und öffentlich beglaubigte Anmeldung. „Alles nur beglaubigen“ ist keine tragfähige Vorgangsbeschreibung.
+
+---
+
 ## Skill: `notariat-058-sanierungs-insolvenzbezug-anteils`
 
 _Für Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Notariat im Alltag. Route: notariat-058-sanierungs-insolvenzbezug-anteils._
@@ -561,122 +625,6 @@ Dieser Skill bearbeitet **Gerichts- und Behördenkommunikation aus dem Notariat*
 Bei **Gerichts- und Behördenkommunikation aus dem Notariat** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
 
 **Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
-
----
-
-## Skill: `sanierungs-insolvenzbezug`
-
-_Für Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Notariat im Alltag. Route: sanierungs-insolvenzbezug._
-
-# Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck und Anwendungsbereich
-
-Insolvenz eines Beteiligten macht jedes Grundstücks- oder Gesellschaftsgeschäft kompliziert. Kläre die Konsequenzen von Insolvenzvermerken, die Rolle des Insolvenzverwalters und die Risiken der Insolvenzanfechtung.
-
-Rechtsgrundlagen: §§ 80–147 InsO (Insolvenzmasse, Insolvenzverwalter), §§ 129–147 InsO (Insolvenzanfechtung), § 24 Abs. 1 InsO (Wirkung Insolvenzeröffnung), § 91 InsO (Verfügungsbeschränkung), GBO § 32 (Insolvenzvermerk), § 12 GBO (Grundbucheinsicht), § 311b BGB (Form), § 17 BeurkG (Belehrungspflicht).
-
-## Insolvenzvermerk im Grundbuch (§ 32 GBO)
-
-Wenn über das Vermögen des Grundstückseigentümers das Insolvenzverfahren eröffnet wird, trägt das Grundbuchamt von Amts wegen einen Insolvenzvermerk in Abt. II ein. Dieser macht die Verfügungsbeschränkung publik.
-
-**Konsequenz:** Der Eigentümer kann nach Insolvenzeröffnung nicht mehr wirksam über das Grundstück verfügen (§ 80 InsO). Nur der Insolvenzverwalter ist verfügungsbefugt.
-
-## Insolvenzverwalter als Vertragspartei
-
-Wenn der Insolvenzverwalter ein Grundstück aus der Insolvenzmasse veräußert:
-- Insolvenzverwalter legt Bestellungsurkunde des Insolvenzgerichts vor (§ 56 InsO)
-- Insolvenzverwalter unterschreibt im Namen der Masse (nicht als Privatperson)
-- Keine persönliche Haftung des Insolvenzverwalters (§ 61 InsO: nur bei Pflichtverletzung)
-- Notarielle Prüfung: Legitimationsnachweis aktuell und vollständig?
-
-## Insolvenzanfechtung (§§ 129–147 InsO)
-
-Rechtshandlungen des Schuldners vor Insolvenzeröffnung können vom Insolvenzverwalter angefochten werden:
-- **§ 130 InsO:** Kongruente Deckung (vereinbarte Leistung) innerhalb 3 Monate: anfechtbar wenn Insolvenzkenntnis
-- **§ 133 InsO:** Vorsatzanfechtung innerhalb 10 Jahre: anfechtbar wenn Schuldner Gläubiger benachteiligen wollte
-- **§ 134 InsO:** Unentgeltliche Leistungen (Schenkungen) innerhalb 4 Jahre: anfechtbar
-
-**Notar muss hinweisen:** Wenn Anzeichen für nahe Insolvenz bestehen und der Kaufpreis ungewöhnlich niedrig ist.
-
-## Vorinsolvenzliche GmbH-Anteilsabtretung
-
-Wenn GmbH-Anteile kurz vor Insolvenz abgetreten werden, besteht erhöhtes Anfechtungsrisiko. Der Notar sollte auf dieses Risiko hinweisen und Geldwäscheprüfung besonders sorgfältig durchführen.
-
-## StaRUG (Sanierungsrecht)
-
-Das Unternehmensstabilisierungs- und -restrukturierungsgesetz (StaRUG) ermöglicht Restrukturierungen außerhalb der formellen Insolvenz. Notar kann bei der Beurkundung von Sanierungsvereinbarungen eingeschaltet sein.
-
-## Prüfprogramm
-
-- Liegt ein Insolvenzvermerk im Grundbuch vor?
-- Ist der Vertragspartner möglicherweise in Zahlungsschwierigkeiten (ungewöhnlicher Preis, Zeitdruck)?
-- Insolvenzverwalter: Bestellungsurkunde aktuell und vollständig?
-- Kaufpreis: angemessen für Anfechtungsschutz?
-- GwG: erhöhtes Risiko bei Sanierungskontext?
-
-## Typische Fallen
-
-- Insolvenzvermerk in Abt. II übersehen → Eigentumsumschreibung scheitert.
-- Insolvenzverwalter ohne aktuellen Bestellungsnachweis → fehlende Legitimation.
-- Kaufpreis zu niedrig → § 133/134 InsO-Anfechtungsrisiko.
-- Vorinsolvent-Schenkung ohne GwG-Screening.
-
-## Rechtsquellen
-
-- § 80 InsO: https://dejure.org/gesetze/InsO/80.html
-- §§ 129–134 InsO: https://dejure.org/gesetze/InsO/129.html
-- § 32 GBO (Insolvenzvermerk): https://dejure.org/gesetze/GBO/32.html
-- StaRUG: https://www.gesetze-im-internet.de/starug/
-- BGH zur Insolvenzanfechtung: https://www.bgh.de
-- BNotK Insolvenzhinweise: https://www.bnotk.de
-
-## Output-Formate
-
-- **Insolvenz-Risikocheck** (Vermerk, Insolvenzverwalter, Anfechtungsrisiko)
-- **Insolvenzverwalter-Legitimationsprüfung** (Checkliste)
-- **Anfechtungsrisiko-Einschätzung** (§§ 129–134 InsO-Raster)
-- **GwG-Sanierungskontext** (erhöhte Sorgfalt)
-- **Mandantenhinweis** (Insolvenzrechtliche Risiken)
-
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Kostenhinweise und Besonderheiten
-
-Bei Verträgen mit insolvenzrechtlichem Bezug entstehen häufig erhöhte Beratungsaufwände:
-
-| Aspekt | Kostenrelevanz |
-|---|---|
-| Insolvenzverwalter-Legitimationsprüfung | Zusätzliche Prüfzeit, kein gesonderter Gebührentatbestand |
-| StaRUG-Sanierungsvereinbarung | Geschäftswert nach Nominalwert der Forderungen / Anteile |
-| Anfechtungsrisikoanalyse | Beratungsleistung, nicht gesondert nach GNotKG |
-| GwG-Intensivprüfung | Dokumentationsaufwand intern |
-
-## Zusammenspiel mit Gläubigerausschuss und Insolvenzplan
-
-In größeren Insolvenzverfahren kann ein Gläubigerausschuss (§ 68 InsO) oder ein bestätigter Insolvenzplan (§§ 217 ff. InsO) relevant sein. Der notarielle Vollzug eines Grundstücksverkaufs durch den Insolvenzverwalter setzt voraus, dass kein Zustimmungsvorbehalt des Gläubigerausschusses besteht (§ 160 InsO: wichtige Rechtshandlungen).
-
-**Checkliste für Insolvenzverwalter-Transaktion:**
-- Bestellungsbeschluss des Insolvenzgerichts (§ 56 InsO) vorlegen
-- Zustimmung Gläubigerausschuss nach § 160 InsO prüfen
-- Insolvenzvermerk Abt. II des Grundbuchs verifizieren
-- Vollzugssperre beachten: keine Eintragung ohne Freigabe durch Verwalter
 
 ---
 

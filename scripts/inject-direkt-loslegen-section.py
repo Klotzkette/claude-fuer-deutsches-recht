@@ -34,6 +34,10 @@ DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/downlo
 DISALLOWED_ABBR = chr(75) + chr(73)
 DISALLOWED_MIXED = chr(75) + "i"
 PROSE_REPLACEMENTS = {
+    "GmbH-Gruendung": "GmbH-Gründung",
+    "Kapitalerhoehung": "Kapitalerhöhung",
+    "Geschaeftsfuehrerwechsel": "Geschäftsführerwechsel",
+    "Anteilsgeschaefte": "Anteilsgeschäfte",
     "Abschleppschaeden": "Abschleppschäden",
     "Aussenbriefen": "Außenbriefen",
     "Abwaegung": "Abwägung",
@@ -254,6 +258,7 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 
 
 HANDCURATED_FIRST_PRODUCTS = {
+    "notariat-alltag": "einen aus den Kundenunterlagen vorbereiteten Urkunden- oder Registerentwurf mit Beteiligtenblatt und offenen Freigaben für den Notar",
     "schadensregulierung": "den nächsten Entwurf aus Ihrer Rolle als Unternehmen oder regulierender Versicherer, mit belegtem Ereignis, gefährdeten Belegen und getrenntem Deckungsstand",
     "mietrecht": "eine Anspruchs- und Fristenmatrix mit nächstem Schreiben",
     "arbeitsrecht": "Antrag, Sachverhalt, Beweisplan und nächste Frist",
