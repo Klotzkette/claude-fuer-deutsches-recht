@@ -2,7 +2,7 @@
 
 ## 1. Links, Anker und Metadaten
 
-Links und Anker werden nun aus derselben Markdown-Struktur gelesen. Beispiele in Codeblöcken, Inline-Code und Kommentaren sowie YAML-Metadaten erzeugen weder Sprungziele noch Linkfehler. Referenzlinks, formatierte Beschriftungen und leere echte Links bleiben prüfbar. Auch die Downloadprüfung unterscheidet Beispiele von tatsächlich angebotenen Dateien. Zusätzliche Regressionen sichern beide Grenzfälle aus der Nachprüfung. Die fachlichen AML-Inhalte und Akten bleiben unverändert.
+Links und Anker werden nun aus derselben Markdown-Struktur gelesen. Beispiele in Codeblöcken, Inline-Code und Kommentaren sowie YAML-Metadaten erzeugen weder Sprungziele noch Linkfehler. Referenzlinks, formatierte Beschriftungen und leere echte Links bleiben prüfbar. Auch die Downloadprüfung unterscheidet Beispiele von tatsächlich angebotenen Dateien und erfasst ausgeschriebene URLs im Fließtext nach GitHub-Markdown-Regeln. Zusätzliche Regressionen sichern diese Grenzfälle sowie gültige, fehlende und unzulässige Downloadziele. Die fachlichen AML-Inhalte und Akten bleiben unverändert.
 
 # v444.0.2 - Echte Sprungziele statt Codebeispiele
 

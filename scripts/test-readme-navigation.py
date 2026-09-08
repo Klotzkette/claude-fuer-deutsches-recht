@@ -341,6 +341,44 @@ class NavigationTests(unittest.TestCase):
         self.assertEqual(NAV.markdown_links(tokens), [])
         self.assertEqual(NAV.explicit_html(tokens).destinations, ['README.md'])
 
+    def test_bare_download_urls_are_checked_in_rendered_prose(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory).resolve()
+            (root / 'uebersicht-fachanwaltschaften').mkdir()
+            (root / 'uebersicht-fachanwaltschaften/download.html').write_text(
+                'downloads/${encodedPath}; download.click()', encoding='utf-8'
+            )
+            (root / '.github/workflows').mkdir(parents=True)
+            (root / '.github/workflows/pages.yml').write_text(
+                "-name '*.md'\n_site/downloads\npath: ./_site\n", encoding='utf-8'
+            )
+            (root / 'quellen.md').write_text('# Quellen\n', encoding='utf-8')
+            readme = root / 'README.md'
+            with patch.object(NAV, 'REPO', root), patch.object(
+                NAV, 'user_facing_download_docs', return_value=[readme]
+            ):
+                for target, message in (
+                    ('quellen.md', None), ('fehlt.md', 'Downloadziel fehlt'),
+                    ('../README.md', 'unzulässiges Markdown-Downloadziel'),
+                ):
+                    with self.subTest(target=target):
+                        readme.write_text('# Downloads\n\nDirekt: ' + NAV.DOWNLOAD_BASE + target + '\n', encoding='utf-8')
+                        errors = []
+                        self.assertEqual(NAV.validate_markdown_downloads(errors), 1)
+                        if message:
+                            self.assertEqual(len(errors), 1)
+                            self.assertIn(message, errors[0])
+                        else:
+                            self.assertEqual(errors, [])
+                url = NAV.DOWNLOAD_BASE + 'fehlt.md'
+                readme.write_text(
+                    f'---\ndescription: "{url}"\n---\n# Downloads\n\n'
+                    f'```text\n{url}\n```\n\n`{url}`\n\n<!-- {url} -->\n', encoding='utf-8'
+                )
+                errors = []
+                self.assertEqual(NAV.validate_markdown_downloads(errors), 0)
+                self.assertEqual(errors, [])
+
     def test_download_targets_include_reference_markdown(self):
         for target in (
             "notariat-alltag/references/mitarbeiter-formwege.md",
