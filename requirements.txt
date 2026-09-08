@@ -19,3 +19,4 @@ python-docx>=1.1
 reportlab>=4.0
 pypdf>=4.0
 odfpy>=1.4
+markdown-it-py>=3.0,<5

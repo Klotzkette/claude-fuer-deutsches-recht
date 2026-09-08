@@ -7,18 +7,31 @@ import json
 import re
 import sys
 import unicodedata
+from html.parser import HTMLParser
 from os.path import relpath
 from pathlib import Path
 from urllib.parse import quote, unquote, urlsplit
+
+from markdown_it import MarkdownIt
 
 
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path="
 MARKDOWN_LINK_RE = re.compile(r"(?<!!)\[([^\]]*)\]\(([^)\n]*)\)")
-HEADING_RE = re.compile(r"^#{1,6}[ \t]+(.+?)[ \t]*#*[ \t]*$", re.MULTILINE)
 HTML_HREF_RE = re.compile(r'<a\s+[^>]*href=["\']([^"\']+)["\'][^>]*>', re.IGNORECASE)
 DOWNLOAD_LINK_RE = re.compile(re.escape(DOWNLOAD_BASE) + r"([^\s)\"'<>]+)")
+MARKDOWN = MarkdownIt("commonmark").enable(["table", "strikethrough"])
+
+
+class ExplicitAnchors(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__()
+        self.anchors: set[str] = set()
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if tag == "a":
+            self.anchors.update(value for key, value in attrs if key in {"id", "name"} and value)
 
 
 def repo_relative(path: Path) -> str:
@@ -56,12 +69,21 @@ def heading_anchors(path: Path) -> set[str]:
     counts: dict[str, int] = {}
     anchors: set[str] = set()
     text = path.read_text(encoding="utf-8", errors="ignore")
-    anchors.update(re.findall(r'<a\s+(?:id|name)=["\']([^"\']+)["\']', text, re.IGNORECASE))
-    for heading in HEADING_RE.findall(text):
-        base = github_slug(heading)
-        duplicate = counts.get(base, 0)
-        counts[base] = duplicate + 1
-        anchors.add(base if duplicate == 0 else f"{base}-{duplicate}")
+    html = ExplicitAnchors()
+    tokens = MARKDOWN.parse(text)
+    for index, token in enumerate(tokens):
+        if token.type == "heading_open":
+            base = github_slug(tokens[index + 1].content)
+            duplicate = counts.get(base, 0)
+            counts[base] = duplicate + 1
+            anchors.add(base if duplicate == 0 else f"{base}-{duplicate}")
+        if token.type == "html_block":
+            html.feed(token.content)
+        for child in token.children or []:
+            if child.type == "html_inline":
+                html.feed(child.content)
+    html.close()
+    anchors.update(html.anchors)
     return anchors
 
 
