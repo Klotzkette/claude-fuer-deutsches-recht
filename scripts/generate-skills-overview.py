@@ -150,6 +150,8 @@ def update_readme(readme: Path, overview: str) -> bool:
         sep = "" if new.endswith("\n\n") else ("\n" if new.endswith("\n") else "\n\n")
         new = new + sep + "\n" + overview + "\n"
 
+    from readme_decimal_headings import normalize_decimal_headings
+    new = normalize_decimal_headings(new)
     if new == original:
         return False
     readme.write_text(new, encoding="utf-8")

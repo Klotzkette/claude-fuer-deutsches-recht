@@ -17,6 +17,7 @@ from urllib.parse import quote
 from testakte_zip_common import working_dump_flat_pairs
 from testakte_disclaimer import NOTICE_MARKDOWN
 from testakte_download_notices import ensure_download_notices
+from readme_decimal_headings import OPT_IN, normalize_decimal_headings, title_text
 
 
 REPO = Path(__file__).resolve().parent.parent
@@ -160,9 +161,10 @@ def plugin_dir(plugin: dict) -> Path:
 def readme_title(directory: Path, fallback: str) -> str:
     readme = directory / "README.md"
     if readme.is_file():
-        for line in readme.read_text(encoding="utf-8", errors="ignore").splitlines():
+        content = readme.read_text(encoding="utf-8", errors="ignore")
+        for line in content.splitlines():
             if line.startswith("# "):
-                return line[2:].strip()
+                return title_text(line[2:]) if OPT_IN in content else line[2:].strip()
     return human_title(fallback)
 
 
@@ -200,9 +202,10 @@ def get_akte_title(akte_slug: str) -> str:
     readme = TESTAKTEN_DIR / akte_slug / "README.md"
     if not readme.is_file():
         return akte_slug
-    for line in readme.read_text(encoding="utf-8").splitlines():
+    content = readme.read_text(encoding="utf-8")
+    for line in content.splitlines():
         if line.startswith("# "):
-            title = line[2:].strip()
+            title = title_text(line[2:]) if OPT_IN in content else line[2:].strip()
             title = re.sub(
                 r"^(Akte|Beispielakte|Testakte|Mandantenakte)\s*[:–-]\s*",
                 "",
@@ -483,7 +486,7 @@ def inject(plugin: dict, akten_slugs: list[str], marketplace_count: int) -> str:
         + "\n\n"
         + stripped[pos:].lstrip()
     )
-    new_text = ensure_download_notices(new_text)
+    new_text = normalize_decimal_headings(ensure_download_notices(new_text))
     if new_text == text:
         return "UNCHANGED"
     readme.write_text(new_text, encoding="utf-8")

@@ -187,6 +187,8 @@ def inject(readme: Path, block: str) -> bool:
     else:
         sep = "" if text.endswith("\n\n") else ("\n" if text.endswith("\n") else "\n\n")
         text = text + sep + block + "\n"
+    from readme_decimal_headings import normalize_decimal_headings
+    text = normalize_decimal_headings(text)
     if text == original:
         return False
     readme.write_text(text, encoding="utf-8")

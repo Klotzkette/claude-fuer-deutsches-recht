@@ -56,6 +56,7 @@ def heading_anchors(path: Path) -> set[str]:
     counts: dict[str, int] = {}
     anchors: set[str] = set()
     text = path.read_text(encoding="utf-8", errors="ignore")
+    anchors.update(re.findall(r'<a\s+(?:id|name)=["\']([^"\']+)["\']', text, re.IGNORECASE))
     for heading in HEADING_RE.findall(text):
         base = github_slug(heading)
         duplicate = counts.get(base, 0)
