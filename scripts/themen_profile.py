@@ -717,7 +717,6 @@ PROFILE: tuple[ThemenProfil, ...] = (
         entscheidungen=(
             "EuGH, Urteil vom 26.06.2007 - C-305/05: Ordre des barreaux begrenzt und bestätigt Geldwäschemeldepflichten im Lichte anwaltlicher Berufsausübung.",
             "EuGH, Urteil vom 22.11.2022 - C-37/20 und C-601/20: Öffentlicher Zugriff auf Transparenzregisterdaten wirtschaftlich Berechtigter bedarf strenger Grundrechtsbegrenzung.",
-            "BVerfG, Beschluss vom 30.03.2004 - 2 BvR 1520/01: Strafbare Geldwäsche bei Honorarannahme verlangt verfassungskonforme Begrenzung im Berufsgeheimniskontext.",
         ),
         stationen=(
             "Verpflichteter und Produkt: Branche, Mandat, Transaktion, Kunde, wirtschaftlich Berechtigter und Risikoland erfassen.",

@@ -1,50 +1,44 @@
 ---
 name: aml-verdachtsmeldung-fiu-leitfaden
-description: "Für AML: FIU-Verdachtsmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft konkrete Verdachtstatsachen nach GwG Paragraf 43 und erstellt einen FIU-Meldeentwurf nach der seit März 2026 geltenden GwGMeldV. Trennt Privileg, Meldedaten, Nachreichung, Übermittlungsnachweis und Transaktionsfolgen."
 ---
 
-# AML: FIU-Verdachtsmeldung
+# 1. Verdachtsmeldung prüfen und vorbereiten
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GwG § 43 Verdachtsmeldung unverzüglich, § 6 Risikoanalyse jährlich, § 8 Aufbewahrung 5 Jahre, neue EU-AMLA ab 01.07.2025 operativ.
-- Tragende Normen verifizieren: GwG §§ 1-59, EU-Geldwäsche-RL (5. und 6. AML), EU AML-Paket 2024 (VO 2024/1624, RL 2024/1640, AMLA-VO), KWG, ZAG, BörsG, BaFin-AuA, FATF-Empfehlungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (§ 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse, KYC-Akte, Verdachtsmeldung an FIU, Schulungsdokumentation, Geldwäschebeauftragter-Bestellung, BaFin-Meldungen, Sanktionslisten-Check — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Für konkrete Tatsachen, die auf Geldwäsche oder Terrorismusfinanzierung hindeuten, oder die gesetzlich relevante Nichtoffenlegung wirtschaftlich Berechtigter. Kein Strafurteil und keine nachgewiesene Vortat voraussetzen.
 
-## Spezialwissen: AML: FIU-Verdachtsmeldung
-- **Normen-/Quellenanker:** FIU, AML, BGH, BVerfG.
+## 2. Eingaben
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Auslösende Originalnachricht, Zahlungsdaten, Beteiligte, Kenntniszeitpunkt und gegebenenfalls frühere Meldung. Sofort feststellen, ob eine noch ausführbare Transaktion bevorsteht. Unbekannte Informationen offen lassen.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+## 3. Ablauf
 
-## Prüfraster
+### 3.1. Schwelle und Informationsschutz
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+GwG Paragraf 43 Absatz 1 anhand Tatsachen statt bloßer Schlagworte anwenden. Bei Kanzlei und Notariat Absatz 2 mit Rückausnahmen und gegebenenfalls Absatz 6 prüfen. Eine Kunden- oder Branchenzugehörigkeit allein ist kein Meldegrund. Interne Freigabewege dürfen Unverzüglichkeit nicht verzögern; Vertreter und Eskalationsweg festlegen.
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+### 3.2. Meldung strukturiert entwerfen
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+Seit 1. März 2026 GwGMeldV Paragrafen 2 und 3 beachten: eigenes Bezugskennzeichen, passende Meldegründe, zusammenhängender Sachverhalt, Personen und Rollen, Konten, Transaktionen und erforderliche Anlagen. Vorhandene relevante Daten in die vorgesehenen Felder eintragen, nicht bloß als Freitextanhang. Unbekannte Geburtsdaten, IBAN oder FIU-Zeichen niemals erfinden. Unverbundene Sachverhalte nicht in eine Sammelmeldung packen.
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+### 3.3. Tatsachen verständlich erzählen
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+Was geschah wann, durch wen, mit welchem Betrag, warum auffällig, welche plausible Erklärung liegt vor und welcher Beleg widerspricht ihr? Erkenntnis, Vermutung und Fremdangabe kennzeichnen. Nur erforderliche Anlagen, keine ungesichtete gesamte Beratungsakte.
+
+### 3.4. Abgang und Nachreichung sichern
+
+Registrierung nach GwG Paragraf 45, befugten Einreicher und verfügbaren Meldeweg prüfen. Technische Validierung und tatsächlichen Abgang unterscheiden. Zurückgewiesene Daten korrigieren; bei Störung aktuellen FIU-Ersatzweg anhand amtlicher Angaben prüfen, nicht beliebige E-Mail verwenden. Spätere Erkenntnisse mit Bezug auf Vorzeichen nachreichen. Der Skill sendet nichts selbst. [Nichtdurchführung](../geldwaesche-transaktionsstopp-freeze/SKILL.md) und Paragraf 47 sofort mitführen.
+
+## 4. Quellenpflicht
+
+[GwGMeldV](https://www.gesetze-im-internet.de/gwgmeldv/), [GwG Paragraf 43](https://www.gesetze-im-internet.de/gwg_2017/__43.html), [Quellenkarte](../../references/rechtsstand-2026-und-eu-uebergang.md). Das [Meldeblatt](../../assets/templates/verdachtsmeldung-goaml-entwurf.md) ist nur Vorbereitung, kein behördliches Formular.
+
+## 5. Ausgabeformat
+
+Ausformulierter interner Prüfvermerk und separat gekennzeichneter Meldeentwurf mit strukturierten Daten und Anlagenliste. Times New Roman 11 pt, dezimale Gliederung. Abgabe erst als erfolgt bezeichnen, wenn der Übermittlungsnachweis vorliegt.
+
+## 6. Beispiele
+
+Ein Kunde verweigert die Angabe, für wen er handelt, und verlangt sofortige Weiterzahlung. Fehlende Offenlegung, übrige Tatsachen und Privileg prüfen; nicht auf eine spätere Aufsichtskontrolle verschieben.

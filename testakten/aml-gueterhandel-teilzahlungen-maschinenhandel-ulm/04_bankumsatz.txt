@@ -1,0 +1,22 @@
+Donauwerk Gebrauchtmaschinen GmbH
+Geschäftskonto - Einzelumsatz aus dem Onlinebanking
+Export am 7. September 2026 um 08:28 Uhr durch Derya Özdemir
+
+Buchungstag: 07.09.2026
+Wertstellung: 07.09.2026
+Betrag: +29750,00 EUR
+Auftraggeber: Südtor Montage GmbH
+Auftraggeberkonto: Endziffern 5286
+Verwendungszweck: Maschine DWF 800 / DW-26-094 / Hohenrain
+Bankreferenz: DW-E-260907-094
+
+Interne Zuordnung:
+Kundennummer 2087 - Hohenrain Metalltechnik GmbH
+Belegbetrag Auftrag: 29750,00 EUR
+Bereits erfasste Baranzahlungen: 10500,00 EUR
+Gesamteingang zum Auftrag: 40250,00 EUR
+Rechnerischer Mehrbetrag: 10500,00 EUR
+
+Bis zum Exportzeitpunkt ist kein Erstattungsauftrag angelegt.
+Die Zahlungsübersicht stellt nur den Buchungsstand dar.
+Die vertragliche Zuordnung des Zahlenden wurde noch nicht geändert.

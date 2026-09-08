@@ -1,62 +1,44 @@
 ---
 name: geldwaesche-immobilien-gueterhaendler
-description: "Für Immobilien, Güterhandel und Nichtfinanzsektor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Schwellen und Zahlungswege bei Güterhandel, Kunstgeschaeften und Immobilienvermittlung. Unterscheidet Barzahlung, verbundene Teilbeträge und Verdachtsanlass und vermeidet die Vermischung mit notariellen Kaufpreisnachweisen."
 ---
 
-# Immobilien, Güterhandel und Nichtfinanzsektor
+# 1. Händler- und Vermittlergeschäft prüfen
 
-## Arbeitsbereich
+## 1. Zweck und Anwendungsfall
 
-AML/KYC-Prüfung für Immobilienmakler Gueterhaendler Kunsthandel Edelmetalle und sonstige Nichtfinanzunternehmen. Anwendungsfall Makler oder Gueterhaendler will prüfen ob GwG-Pflichten bestehen und wie KYC-Prozesse auszugestalten sind. Normen § 2 Abs. 1 Nr. 14 GwG Immobilienmakler § 2 Abs. 1 Nr. 16 GwG Gueterhaendler § 4 GwG interne Sicherungsmassnahmen. Prüfraster Verpflichtetenstatus Risikoanalyse Identifizierung Transaktionsschwellen Barzahlungsverbot. Output KYC-Prozessdesign mit Risikoeinstufung Identifizierungsprotokoll und Barzahlungsregel-Dokumentation. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-risikoanalyse-unternehmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Für Unternehmen mit Güterhandel oder Immobilienvermittlung. Notarielle Umschreibung zum [Notariatsskill](../notariat-immobilienzahlung-pruefen/SKILL.md) geben; Immobilienmakler und Notar haben nicht dieselben Pflichten.
 
-## Arbeitsweg
+## 2. Eingaben
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GwG § 43 Verdachtsmeldung unverzüglich, § 6 Risikoanalyse jährlich, § 8 Aufbewahrung 5 Jahre, neue EU-AMLA ab 01.07.2025 operativ.
-- Tragende Normen verifizieren: GwG §§ 1-59, EU-Geldwäsche-RL (5. und 6. AML), EU AML-Paket 2024 (VO 2024/1624, RL 2024/1640, AMLA-VO), KWG, ZAG, BörsG, BaFin-AuA, FATF-Empfehlungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (§ 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse, KYC-Akte, Verdachtsmeldung an FIU, Schulungsdokumentation, Geldwäschebeauftragter-Bestellung, BaFin-Meldungen, Sanktionslisten-Check — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Ware oder vermitteltes Geschäft, Einzel- und Teilbeträge, Zahlungsart, Parteien und Geschäftsbezug. Kaufpreis, Nettokaltmiete und Baranteil nicht als dieselbe Rechengröße verwenden.
 
-## Triage zu Beginn
-1. Welcher Verpflichteten-Typ: Immobilienmakler, Notarkanzlei bei Immobiliengeschaeft, Gueterthaendler (Kunst, Edelmetalle, Luxusgueter)?
-2. Ueberschreitet der Barzahlungsbetrag den Schwellenwert (10.000 EUR brutto bei Gueterthaendlern, § 4 GwG)?
-3. Liegen PEP- oder Hochrisikoindikatoren beim Kaeufer oder Verkaeufer vor?
-4. Ist die Immobilientransaktion Teil einer komplexen Struktur mit mehreren Zwischengesellschaften?
+## 3. Ablauf
 
-## Zentrale Normen
-- § 2 Abs. 1 Nr. 10-14 GwG — Verpflichtete aus Immobilien- und Guetersektor
-- § 4 GwG — Barzahlungsschwellenwerte (10.000 EUR) für Gueterthaendler
-- § 15 GwG — Verstaerkte Sorgfaltspflichten bei risikoreichen Kunden
-- § 43 GwG — Meldepflicht bei Verdacht; gilt für alle Verpflichteten einschliesslich Makler
+### 3.1. Tätigkeitsart bestimmen
 
-## Normfokus und Praxis (Immobilien und Güterhandel)
-- Verpflichtetenkreis: § 2 Abs. 1 Nr. 14 GwG Immobilienmakler (auch Vermietungsvermittler ab Monatsmiete 10 000 EUR), Nr. 16 Güterhändler (insb. Edelmetalle, Edelsteine, hochwertige Kunst), Nr. 10 Notare bei Treuhand-/Anderkonten, Nr. 13 Steuerberater/StBuRA bei wirtschaftsberatender Tätigkeit.
-- Bar­zahlungsschwellen: § 4 GwG iVm § 12 GwG — Identifizierungspflicht ab 10 000 EUR brutto, Kunstvermittler ab 10 000 EUR; ab 10.7.2027 nach AMLR (EU) 2024/1624 EU-weite 10 000-Euro-Bar-Cap (Art. 80) und bei Edelmetallhandel 1 000 EUR. Geplantes BargeldobergrenzenG (Deutschland) parallel beachten.
-- Sanktionsgesetz Durchsetzungsgesetz II (SanktDG II, 19.12.2022): Bar-Erwerbsverbot für Immobilien ab 1.4.2023 mit Bar oder Kryptowerten (§ 16a GwG); Notar darf nicht beurkunden, wenn Bar­zahlung Teil ist.
-- Aufsichtsbehörden: jeweilige Länderaufsicht (z. B. Regierungspräsidien, Bezirksregierungen) — nicht BaFin; gesonderte Mitteilungspflichten für Immobilien-/Notarsektor an Bundesanzeiger und Transparenzregister.
-- Praktiker-Tipp: Risikoanalyse nach § 5 GwG zwingend dokumentiert; bei Immobilien­transaktionen Notar-AML-Check fragen (Vendor-KYC); bei kompliziertem UBO Briefkasten­firma Cayman/BVI mit Erwerb deutscher Immobilien immer EDD und Mittelherkunfts­beleg (Bank-Refstatement, Kaufvertragskette).
+Güterhändler nach GwG Paragraf 2 Absatz 1 Nummer 16, Immobilienmakler nach Nummer 14 einordnen. Bei Kunsthandel und hochwertigen Gütern die konkrete Warenkategorie nach Paragraf 1 prüfen. Eine teure Maschine ist nicht deshalb ein Edelmetallgeschäft.
 
-## Wann verwenden
+### 3.2. Schwellen berechnen
 
-- wenn ein neues AML/KYC-, GwG-, Sanktions- oder Compliance-Thema aufgenommen wird
-- wenn Kunden, wirtschaftlich Berechtigte, Transaktionen, Länder, Produkte oder Vertriebskanäle risikobasiert geprüft werden müssen
-- wenn ein Alert, Treffer, Behördenkontakt, Verdachtsmoment, Pressefall oder Remediation-Projekt vorliegt
+Paragraf 10 Absatz 6a: Kunstgeschäfte ab 10000 Euro; Edelmetallgeschäfte der dort bezeichneten Kategorie bei Barzahlungen ab 2000 Euro; sonstige Güter bei Barzahlungen ab 10000 Euro. Verbundene Teilvorgänge und Zahlungen Dritter mit betrachten. Bei Immobilienvermittlung Kaufgeschäft und Miet-/Pachtgeschäft mit mindestens 10000 Euro monatlicher Nettokaltmiete oder -pacht nach Absatz 6 unterscheiden.
 
-## Rückfragen, wenn unklar
+### 3.3. Verdacht nicht wegschwellen
 
-- Welche Branche, Rolle und Aufsichtszuständigkeit hat der Mandant?
-- Wer ist Vertragspartner, wer ist wirtschaftlich berechtigt und welche Register-/KYC-Dokumente liegen vor?
-- Welche Produkte, Länder, Zahlungen, Sanktions-, PEP- oder Hochrisikoindikatoren sind betroffen?
-- Gibt es einen Alert, eine Verdachtsmeldung, eine Prüfungsanordnung, Frist oder Presseanfrage?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+Verdachtstatsachen und Identitätszweifel nach Paragraf 10 Absatz 3 sowie Paragraf 43 unabhängig von betragsbezogenen Erleichterungen prüfen. Barausschluss in der Unternehmensrichtlinie und tatsächliche Kassenpraxis vergleichen. Kassenbestand, Vertragsnummer und Quittung sind wichtiger als eine bloße Zusicherung „nie Bargeld“.
 
-## Typische Fehler vermeiden
+### 3.4. Zukunftsrecht nicht vorziehen
 
-- Keine KYC-Freigabe ohne dokumentierte Identifizierung, Zweck, UBO, Risikoeinstufung und offene Nachweise.
-- Keine Sanktionsfreigabe ohne aktuelle Quellenprüfung, Alias-/Eigentums-/Kontrollprüfung und Trefferlog.
-- Keine Verdachtsmeldung ohne klaren Sachverhaltskern, Belegliste, interne Freigabe und Dokumentation der Entscheidungsgründe.
-- Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
-- Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
-- Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+Artikel 80 der Verordnung (EU) 2024/1624 begrenzt grundsätzlich ab 10. Juli 2027 bestimmte Barzahlungen auf maximal 10000 Euro. Heutige Identifizierungsschwelle und künftiges Verbot sind verschiedene Fragen. Strengere nationale Regeln und Ausnahmen gesondert prüfen.
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+## 4. Quellenpflicht
+
+[GwG Paragraf 10](https://www.gesetze-im-internet.de/gwg_2017/__10.html), Paragraf 1 Absatz 5 und [Rechtsstand](../../references/rechtsstand-2026-und-eu-uebergang.md).
+
+## 5. Ausgabeformat
+
+Ausformulierter Geschäftsvermerk mit Teilbetragsrechnung, Schwelle, Pflichten und Zahlungsentscheidung. Times New Roman 11 pt, dezimale Gliederung. Zahlen als Tabelle mit Quelle und Datum ausgeben.
+
+## 6. Beispiele
+
+Drei Baranzahlungen von 4000, 3500 und 3000 Euro für dieselbe Maschine ergeben 10500 Euro. Nicht drei getrennte Unterschwellenfälle annehmen; daneben abweichenden Zahler anhand der Akte klären.

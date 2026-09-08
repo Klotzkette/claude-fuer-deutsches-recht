@@ -1,0 +1,22 @@
+Breuer & Groß Rechtsanwälte
+Buchhaltung - Auszug aus dem Umsatzexport
+Kontobezeichnung: Anderkonto, Endziffern 4409
+Exportiert durch Eva Groß am 3. September 2026, 08:02 Uhr
+Auswahl: Buchungen mit Verwendungszweck NM oder Rheinbogen
+
+Buchungstag: 02.09.2026
+Wertstellung: 02.09.2026
+Betrag: +30000,00 EUR
+Auftraggeber: Eichenhof Beteiligungen GmbH
+Auftraggeberkonto: Endziffern 6821
+Verwendungszweck: NM Anteil Rheinbogen / Reservierung
+Bankreferenz: Zahlungseingang 260902-3814
+
+Es ist zu diesem Vorgang bis zum Exportzeitpunkt keine Ausgangsbuchung erfasst.
+Der vollständige Kontoexport liegt bei der Buchhaltung. Andere Mandate sind in
+diesem Ausdruck nicht enthalten. Zuordnung im Buchungsprogramm: 26/184-N,
+vorläufig angelegt am 03.09.2026 um 08:06 Uhr durch EG.
+
+Notiz EG: Im Erweiterungsbrief ist von 120000 Euro Kaufpreis die Rede.
+Die 30000 Euro sind nicht als Honorar gebucht. Herr Neumann hat keinen
+Zahlungsbeleg seiner eigenen Gesellschaft übersandt.

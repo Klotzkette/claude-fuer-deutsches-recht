@@ -1,0 +1,21 @@
+Onlinebanking - gespeicherte Auftragsdaten
+Von Nora Schäfer am 4. September 2026 um 12:10 Uhr exportiert
+
+Auftraggeber: Nora Schäfer und Daniel Schäfer
+Auftraggeberkonto: Endziffern 6044
+Empfänger: Heike Mertens und Jürgen Mertens
+Empfängerkonto: Endziffern 7712
+Betrag: 128000,00 EUR
+Auftragsdatum: 01.09.2026, 08:16 Uhr
+Ausführungsdatum: 01.09.2026
+Status im Onlinebanking: ausgeführt
+Verwendungszweck: Kaufpreis Lindenbogen UVZ 318/2026 H
+Auftragsreferenz: NS-260901-0816
+
+Die Datei enthält die gespeicherten Auftragsdaten unserer Überweisung.
+Den Kontoauszug mit der tatsächlichen Belastung haben wir zusätzlich
+bei der Bank angefordert. Die 350000 Euro aus dem Darlehen erscheinen
+nicht auf unserem laufenden Konto; sie wurden unmittelbar an die
+Verkäufer ausgezahlt.
+
+Nora Schäfer

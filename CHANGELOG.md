@@ -1,3 +1,17 @@
+# v444.0.0 - Geldwäscheprüfung für Kanzlei, Unternehmen und Notariat
+
+## 1. Fachlich neu gefasste Arbeitswege
+
+Das vorhandene AML/KYC-Plugin bündelt 57 bisherige Einstiegspunkte in 20 konkrete Fachskills. 16 Namen bleiben erhalten; Kanzleimandat und Berufsgeheimnis, notarielle Immobilienzahlung, interne Kontrollen und EU-Umstellung erhalten eigene Wege. Die Migrationstabelle nennt für jeden entfallenen Aufruf den Nachfolger. Gespeicherte Aufrufe müssen entsprechend angepasst werden.
+
+## 2. Rechtsstand und eigenständige Prompts
+
+Werkstatt und Schnellstart trennen den aktuellen GwG-Maßstab, das seit März 2026 geltende Meldeformat und die grundsätzlich ab Juli 2027 anwendbare EU-Verordnung. Notarielle Nachweise, Barzahlungsverbot, unterschiedliche Wartefristen, geschützte Informationen, wirtschaftlich Berechtigte und Händler-Schwellen sind konkret zugeordnet. Quellenkarte mit amtlichen Fundstellen und zwei abgegrenzten EuGH-Ankern; keine simulierten Registerprüfungen oder automatischen Meldungen.
+
+## 3. Drei neue Fallakten und Prüfungen
+
+Bonn: Fremdgeld bei erweitertem Kanzleimandat. Münster: Immobilienkaufpreis mit Bank-, Eigenmittel- und Baranteil. Ulm: Maschinenverkauf mit Teilzahlungen, Doppelzahlung und abweichenden Rückzahlungswünschen. Je acht selbständige Aktenstücke als DOCX, EML und TXT, Gesamt-PDF sowie zwei flache ZIP-Varianten. Neue Regressionstests sichern Fachwege, Migration, Fristenabgrenzung, Betragskonsistenz, Dokumenttrennung und Downloads.
+
 # v443.6.0 - Notariatswerkstatt für Mitarbeiter
 
 - Bestehendes Plugin notariat-alltag um einen klaren Mitarbeitereinstieg mit zehn direkten Arbeitswegen ergänzt. Neun Kernskills überarbeitet und Anteilsübertragung mit Verpfändung als eigenen Skill ergänzt; technische Namen und übriger Fachbestand bleiben erhalten.

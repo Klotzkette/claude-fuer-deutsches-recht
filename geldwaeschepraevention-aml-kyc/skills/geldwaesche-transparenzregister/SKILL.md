@@ -1,68 +1,44 @@
 ---
 name: geldwaesche-transparenzregister
-description: "Für Transparenzregister und Unstimmigkeitsmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
+description: "Gleicht wirtschaftlich Berechtigte mit dem Transparenzregister ab. Trennt eigene Mitteilung, Unstimmigkeitsmeldung und FIU-Verdacht und bereitet die konkret erforderliche Registerkorrektur oder Nachforderung vor."
 ---
 
-# Transparenzregister und Unstimmigkeitsmeldung
+# 1. Transparenzregister ohne falsche Gleichsetzung
 
-## Triage zu Beginn
-1. Welcher Unternehmenstraeager soll eingetragen oder geprueft werden: GmbH, AG, GbR, Trust, Stiftung?
-2. Liegt eine Unstimmigkeit zwischen Registereintrag und KYC-Dokumenten vor?
-3. Soll eine Unstimmigkeitsmeldung nach § 23a GwG erstattet werden?
-4. Handelt es sich um eine initiale Eintragung, eine Aenderung oder eine Loeschung?
+## 1. Zweck und Anwendungsfall
 
-## Zentrale Normen
-- §§ 18-26 GwG — Transparenzregister: Eintragungspflicht, Inhalt, Aktualisierung
-- § 23a GwG — Unstimmigkeitsmeldung bei Abweichungen
-- § 19 GwG — Wirtschaftlich Berechtigte: 25-Prozent-Schwelle und fiktiver Eigentuemer
-- Art. 30 AMLD5 — EU-Vorgaben fuer Transparenzregister
+Für fehlende Einträge, abweichende Beteiligungsverhältnisse, ausländische Erwerber und den zulässigen Umgang mit Registerauszügen.
 
-## Quellenregel
+## 2. Eingaben
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
+Auszug mit Abrufdatum, ermittelte Eigentümerstruktur, Änderungsdatum und Angaben zum Rechtsträger. Nicht den Stand eines alten Auszugs mit einer späteren Satzungsänderung gleichsetzen.
 
-Gleiche KYC-Unterlagen mit Transparenzregisterdaten ab, markiere wirtschaftlich Berechtigte, kontrollierende Strukturen und Abweichungen und leite die passende Eskalation ein.
+## 3. Ablauf
 
-## Wann verwenden
+### 3.1. Zuständigkeit der Mitteilung
 
-- wenn ein neues AML/KYC-, GwG-, Sanktions- oder Compliance-Thema aufgenommen wird
-- wenn Kunden, wirtschaftlich Berechtigte, Transaktionen, Länder, Produkte oder Vertriebskanäle risikobasiert geprüft werden müssen
-- wenn ein Alert, Treffer, Behördenkontakt, Verdachtsmoment, Pressefall oder Remediation-Projekt vorliegt
+Eigene Mitteilungspflicht der Vereinigung nach GwG Paragraf 20 beziehungsweise Rechtsgestaltung nach Paragraf 21 bestimmen. Ein KYC-Prüfer wird dadurch nicht selbst Organ des Kunden. Vertretungsbefugnis für eine Einreichung gesondert klären.
 
-## Arbeitsweise
+### 3.2. Abweichung belegen
 
-1. **Rolle und Pflichtenkreis klären.** Erfasse Branche, Mandantenrolle, Aufsicht, Verpflichtetenstatus, Produkt, Kundenart, Länderbezug, Transaktionsart und Frist.
-2. **Daten sauber ziehen.** Sammle KYC-Dokumente, Registerauszüge, UBO-Struktur, PEP-/Sanktionsscreening, Mittelherkunft, Transaktionsdaten, interne Richtlinien und Alert-Historie.
-3. **Quellenstand protokollieren.** Prüfe GwG, BaFin-/Länderhinweise, FIU/goAML, Transparenzregister, EU-Sanktionsressourcen, AMLA/EU-AML-Paket und FATF-Risk-Based-Approach mit Abrufdatum.
-4. **Risikobasiert entscheiden.** Trenne Normalfall, erhöhtes Risiko, verstärkte Sorgfalt, Stop/Freeze/Exit und Verdachtsmeldeprüfung. Keine automatische Freigabe bei Datenlücken.
-5. **Verzeihend nachziehen.** Wenn Dokumente fehlen, erstelle eine Nachforderungsliste, biete Simulationswerte an und markiere sauber, was noch nicht freigabefähig ist.
-6. **Arbeitsprodukt liefern.** Erzeuge KYC-Vermerk, Risikoanalyse, Trefferlog, Verdachtsmeldungsentwurf, Richtlinie, Schulung, Audit-Finding, Behördenantwort oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Freigaben, Vier-Augen-Prinzip, Quellen, Fristen, Datenschutz, Mandatsgeheimnis, Aufbewahrung, Löschung und Auditierbarkeit.
+Registerangabe, Aktenbefund und Stichtag nebeneinanderstellen. Schreibweise, Staatsangehörigkeit, Art und Umfang des Interesses, fehlende Person oder fehlende Eintragung konkret unterscheiden. Registerinhalt ersetzt nicht die eigene Ermittlung.
 
-## Rückfragen, wenn unklar
+### 3.3. Meldungen auseinanderhalten
 
-- Welche Branche, Rolle und Aufsichtszuständigkeit hat der Mandant?
-- Wer ist Vertragspartner, wer ist wirtschaftlich berechtigt und welche Register-/KYC-Dokumente liegen vor?
-- Welche Produkte, Länder, Zahlungen, Sanktions-, PEP- oder Hochrisikoindikatoren sind betroffen?
-- Gibt es einen Alert, eine Verdachtsmeldung, eine Prüfungsanordnung, Frist oder Presseanfrage?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+Unstimmigkeitsmeldung nach Paragraf 23a samt berufsbezogener Ausnahme prüfen. Korrekturanregung beim Kunden ersetzt eine geschuldete Meldung nicht. Zusätzlich nur bei entsprechenden Tatsachen eine FIU-Meldung prüfen; Registerabweichung allein nicht zum Strafverdacht erklären. Notarielle Hindernisse bei bestimmten ausländischen Beteiligten eigens benennen.
 
-## Ausgabeformat
+### 3.4. Zugriff und Nachweis
 
-- Kurzlage mit Risikoampel und Sofortmaßnahmen
-- KYC-/UBO-/Sanktions- oder Monitoring-Matrix mit Quellenstand
-- Entscheidungsvorschlag mit Freigabe-, Eskalations- oder Stop-Workflow
-- prüfbarer Entwurf für Richtlinie, Verdachtsmeldung, Behördenantwort, Schulung oder Remediation
-- offene Annahmen, fehlende Nachweise und Review-Hinweise
+Auszug nur im erforderlichen Umfang weitergeben. EuGH C-37/20 und C-601/20 betrifft den allgemeinen öffentlichen Zugang, nicht die Abschaffung des Registers. Gegenwärtige Zugangsgrundlage und etwaige nationale Umsetzung der Richtlinie 2024/1640 prüfen.
 
-## Typische Fehler vermeiden
+## 4. Quellenpflicht
 
-- Keine KYC-Freigabe ohne dokumentierte Identifizierung, Zweck, UBO, Risikoeinstufung und offene Nachweise.
-- Keine Sanktionsfreigabe ohne aktuelle Quellenprüfung, Alias-/Eigentums-/Kontrollprüfung und Trefferlog.
-- Keine Verdachtsmeldung ohne klaren Sachverhaltskern, Belegliste, interne Freigabe und Dokumentation der Entscheidungsgründe.
-- Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
-- Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
-- Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+GwG Paragrafen 20, 21, 23 und 23a; [Rechtsprechungszuordnung und Stand](../../references/rechtsstand-2026-und-eu-uebergang.md). Tatsächlich eingereichten Vorgang nur bei vorhandener Bestätigung so bezeichnen.
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+## 5. Ausgabeformat
+
+Ausformulierter Abgleichvermerk, bei Bedarf getrennte Korrektur-Nachforderung und Entwurf einer Unstimmigkeitsmeldung. Times New Roman 11 pt, dezimale Gliederung. Keine aus einem Registerfehler abgeleitete automatische Verdachtsmeldung.
+
+## 6. Beispiele
+
+Register nennt den ausgeschiedenen Mehrheitsgesellschafter, die Akte enthält einen neueren Vollzugsnachweis. Änderungsdatum, neue Kontrolle und Meldeweg prüfen, nicht nur die Namen im Kundenbogen überschreiben.

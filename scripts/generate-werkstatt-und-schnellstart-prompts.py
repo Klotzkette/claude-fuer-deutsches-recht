@@ -5391,6 +5391,22 @@ def plugin_route_detail(plugin_slug: str, title: str) -> str:
 def supplemental_plugin_routes(plugin_slug: str) -> tuple[tuple[str, str, str], ...]:
     """Ergänzt kleine Spezialsets um eigenständige, normnahe Arbeitsstationen."""
 
+    if plugin_slug == "geldwaeschepraevention-aml-kyc":
+        return (
+            ("Mandat und Verpflichtetenstatus", "Ordne die tatsächlich ausgeübte Tätigkeit dem GwG Paragraf 2 zu. Trenne Prozessvertretung, Transaktionsberatung, notariellen Vollzug und Güterhandel. Status, Risikomanagement und einzelne Sorgfaltspflichten haben unterschiedliche Voraussetzungen.", "tätigkeitsbezogener Pflichtenspiegel mit belegtem Auftrag und zuständigem Prüfer"),
+            ("Kanzleiwissen und Fremdgeld", "Trenne Wissensherkunft, Auftragsänderung, Zahlung und gewünschte Weiterleitung. Prüfe GwG Paragraf 43 Absatz 2 und Paragraf 10 Absatz 9 jeweils eigenständig. EuGH C-305/05 ist kein pauschaler Meldeverzicht.", "interner Informationsvermerk und zulässige, adressierte Nachforderung"),
+            ("Notarielle Immobilienzahlung", "Gleiche Kaufpreis, Fälligkeit, Bankbeleg und Drittzahlung ab. GwG Paragraf 16a: Die Nachweisausnahme bei höchstens 10000 Euro hebt das Barzahlungsverbot nicht auf. Die besondere Fünftagesregel nicht mit Paragraf 46 vermischen.", "Vollzugsvorlage mit Zahlungsabgleich, fehlenden Belegen und getrennten Hindernissen"),
+            ("Kunde und Vertretung", "GwG Paragrafen 10 bis 12: Erhebe und überprüfe Identität, Vertretung, Zweck und tatsächlichen Auftrag. Ein Signaturblock belegt keine Vollmacht. Prüfe konkrete Rechtsfolgen fehlender Nachweise statt eine pauschale Freigabe auszustellen.", "ausformulierte Nachforderung mit Dokument, Verantwortlichem und offenem Bearbeitungsstand"),
+            ("Beteiligung und Register", "Prüfe nach GwG Paragraf 3 mehr als 25 Prozent und sonstige Kontrolle. Multipliziere heutige Kontrollketten nicht blind. Unstimmigkeit, eigene Registermitteilung und FIU-Verdacht bleiben getrennt; EuGH C-37/20 und C-601/20 beseitigen keine Mitteilungspflicht.", "Beteiligungsdarstellung mit Quellendatum, Kontrolle und belegten Registerabweichungen"),
+            ("PEP, Länder und Sanktionen", "Ordne Amt, Beziehung, Zeitraum und aktuelle Liste zu. GwG Paragraf 15 begründet keine universelle Sanktionssperre. Prüfe Eigentum und Kontrolle anhand des einschlägigen Sanktionsrechtsakts; gleiche Namen sind noch kein bestätigter Treffer.", "begründeter Treffervermerk mit konkreter Maßnahme und erforderlicher Zustimmung"),
+            ("Händlerzahlungen und Warenstrom", "Verbinde zusammenhängende Teilzahlungen nach GwG Paragraf 1 Absatz 5. Prüfe die Kategorien und Schwellen des Paragrafen 10 Absatz 6a: Kunst, bestimmte Edelmetalle und sonstiger Güterhandel nicht gleichsetzen. Rechnung, Lieferung und Rückzahlung müssen zusammenpassen.", "Zahlungsrekonstruktion mit belegtem Geschäftszweck und gezielter Rückfrage"),
+            ("FIU-Meldung und Übermittlung", "Prüfe Tatsachen nach GwG Paragraf 43 und die seit März 2026 geltende GwGMeldV. Bekannte Daten strukturiert aufnehmen, Unbekanntes nicht ergänzen. Registrierung, Entwurf, Freigabe und tatsächlicher Abgang sind verschiedene Zustände.", "freizugebender Meldeentwurf mit Anhängen und Nachreichungsliste, ohne automatische Übermittlung"),
+            ("Nichtdurchführung und Kommunikation", "GwG Paragraf 46: Abgangstag, Werktage und Samstagsausschluss einzeln nachvollziehen. Andere Sperrgründe bleiben auch nach Fristablauf bestehen. Paragraf 47 beschränkt Hinweise auf geplante oder erfolgte Meldungen; Zeitdruck rechtfertigt keine Routineausnahme.", "taggenaues Fristenblatt und neutraler Außenbrief ohne verbotene Offenlegung"),
+            ("Kontrollen und Dienstleister", "Leite aus GwG Paragraf 5 konkrete Risiken ab und setze sie nach Paragraf 6 in Kontrollen um. Prüfe Beauftragtenpflicht nach Paragraf 7, Vertretung und Anordnungen; Auslagerung oder Gruppenzugehörigkeit beseitigen nicht die Verantwortung.", "betriebsbezogene Risikoanalyse und durchführbarer Kontrollplan einschließlich Ausfallvertretung"),
+            ("Aufsicht und Wirksamkeit", "Trenne Anfrage, Prüfungsfeststellung und Bußgeldbescheid nach GwG Paragrafen 50 bis 56. Bei Einspruch OWiG Paragraf 67 prüfen. Schulungen nach Rollen ausrichten; keine echten Meldungen aus Übungsfällen erzeugen.", "belegte Behördenantwort oder Rechtsbehelfsvorlage und konkret nachgehaltene Abhilfemaßnahme"),
+            ("EU-Umstellung 2027", "Verordnung 2024/1624 gilt grundsätzlich ab 10. Juli 2027. Vergleiche heutigen UBO-Test mit Artikeln 51 und 52 sowie künftige Bargeldgrenze nach Artikel 80. Umsetzungsfrist, deutsches Gesetz und bloßer Entwurf sind getrennte Quellenstatus.", "Stichtagsplan mit geänderter Datenanforderung, Verantwortlichem und noch offener Rechtsquelle"),
+        )
+
     if plugin_slug == "notariat-alltag":
         return (
             ("Mandantenordner aufnehmen", "Lies Auftrag, aktuellen Entwurf und die passenden Register-, Grundbuch- oder Bankunterlagen. Trenne belegte Angabe, Kundenwunsch und offene Entscheidung. Frage nicht erneut nach bereits vorhandenen Personalien.", "belegter erster Entwurf zur notariellen Prüfung und gezielte Unterlagenanforderung"),
@@ -6345,6 +6361,7 @@ def practice_routes(
         "staatsanwaltschaft-amtsanwaltschaft",
         "normenkontrollrat-nkr",
         "notariat-alltag",
+        "geldwaeschepraevention-aml-kyc",
         "prozessrecht",
         "produktrecht",
         "schadensregulierung",

@@ -1,55 +1,44 @@
 ---
 name: geldwaesche-kyc-onboarding
-description: "Für KYC-Onboarding und Kundenprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Bearbeitet die Aufnahme oder Aktualisierung einer konkreten Kundenbeziehung: Identität, Vertretung, Geschäftszweck und fehlende Nachweise. Liefert gezielte Nachforderung und dokumentierten Bearbeitungsstand statt einer unbelegten KYC-Freigabe."
 ---
 
-# KYC-Onboarding und Kundenprüfung
+# 1. Kundenprüfung bis zum belegten Stand
 
-## Arbeitsbereich
+## 1. Zweck und Anwendungsfall
 
-KYC-Onboarding neuer Kunden mit Identifizierung Risikoklassifizierung und Freigabe nach GwG. Anwendungsfall neue Geschäftsbeziehung soll aufgenommen werden und GwG-Identifizierung muss durchgeführt werden. Normen §§ 10 11 GwG allgemeine Sorgfaltspflichten § 15 GwG verstaerkte Sorgfaltspflicht § 14 GwG vereinfachte Sorgfaltspflicht. Prüfraster Identifizierung Zweck Geschäftsbeziehung Mittelherkunft Eigentumsstruktur Risikoeinstufung Freigabe. Output KYC-Akte mit Identifizierungsprotokoll Risikoeinstufung Freigabevermerk und periodischer Aktualisierungsplan. Abgrenzung zu geldwäsche-pep-hochrisikoland und geldwäsche-ubo-wirtschaftlich-berechtigte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Für neue Kunden, neue Mandate im erfassten Tätigkeitsbereich und maßgebliche Änderungen bestehender Beziehungen. Voraussetzung ist ein geklärter Verpflichtetenstatus; ein Routineaktualisierungswunsch startet nicht die gesamte Unternehmensanalyse.
 
-## Arbeitsweg
+## 2. Eingaben
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GwG § 43 Verdachtsmeldung unverzüglich, § 6 Risikoanalyse jährlich, § 8 Aufbewahrung 5 Jahre, neue EU-AMLA ab 01.07.2025 operativ.
-- Tragende Normen verifizieren: GwG §§ 1-59, EU-Geldwäsche-RL (5. und 6. AML), EU AML-Paket 2024 (VO 2024/1624, RL 2024/1640, AMLA-VO), KWG, ZAG, BörsG, BaFin-AuA, FATF-Empfehlungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (§ 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse, KYC-Akte, Verdachtsmeldung an FIU, Schulungsdokumentation, Geldwäschebeauftragter-Bestellung, BaFin-Meldungen, Sanktionslisten-Check — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Kundenbogen, Ausweisdaten, Registerauszug, Vertretungsnachweis und konkretes Geschäft lesen. Herkunft und Aktualität jedes Nachweises festhalten. Ausweisnummern nicht in unnötigen Berichten wiederholen.
 
-## Triage zu Beginn
-1. Handelt es sich um eine natuerliche Person, juristische Person oder einen Trust/Stiftung?
-2. Gibt es PEP-Indikatoren, Hochrisikobezug oder komplexe Eigentumsstrukturen (mehr als zwei Ebenen)?
-3. Welche Unterlagen liegen bereits vor und welche fehlen für die vollstaendige Identifizierung nach § 10 GwG?
-4. Welche Risikoklasse (niedrig/normal/erhoehte Sorgfalt/verstaerkte Sorgfalt) wird erwartet?
+## 3. Ablauf
 
-## Zentrale Normen
-- §§ 10-17 GwG — Allgemeine und vereinfachte Sorgfaltspflichten
-- § 13 GwG — Identifizierung des wirtschaftlich Berechtigten
-- § 15 GwG — Verstaerkte Sorgfaltspflichten (PEP, Hochrisikoland)
-- § 11 Abs. 6 GwG — Risikobasierte Aktualisierungspflicht der KYC-Daten
+### 3.1. Erheben und überprüfen
 
-## Wann verwenden
+Vertragspartner, auftretende Person und Vertretungsmacht auseinanderhalten. Nach GwG Paragrafen 11 bis 13 unterscheiden, welche Angaben vorliegen und durch welches zulässige Verfahren sie überprüft wurden. Keine Identität allein aus einem unscharfen Ausweisfoto bestätigen. Bei Gesellschaften Name, Rechtsform, Sitz, Register und gesetzliche Vertreter abgleichen.
 
-- wenn ein neues AML/KYC-, GwG-, Sanktions- oder Compliance-Thema aufgenommen wird
-- wenn Kunden, wirtschaftlich Berechtigte, Transaktionen, Länder, Produkte oder Vertriebskanäle risikobasiert geprüft werden müssen
-- wenn ein Alert, Treffer, Behördenkontakt, Verdachtsmoment, Pressefall oder Remediation-Projekt vorliegt
+### 3.2. Zweck und Eigentümer klären
 
-## Rückfragen, wenn unklar
+Art und Zweck der Geschäftsbeziehung aus Auftrag oder Vertrag übernehmen. Wirtschaftlich Berechtigte über den [Eigentümer-Skill](../geldwaesche-ubo-wirtschaftlich-berechtigte/SKILL.md) ermitteln, wenn die Struktur nicht bereits nachvollziehbar dokumentiert ist. PEP- und Risikoprüfung anhand konkreter Person und Geschäft, nicht nach Staatsangehörigkeit pauschalisieren.
 
-- Welche Branche, Rolle und Aufsichtszuständigkeit hat der Mandant?
-- Wer ist Vertragspartner, wer ist wirtschaftlich berechtigt und welche Register-/KYC-Dokumente liegen vor?
-- Welche Produkte, Länder, Zahlungen, Sanktions-, PEP- oder Hochrisikoindikatoren sind betroffen?
-- Gibt es einen Alert, eine Verdachtsmeldung, eine Prüfungsanordnung, Frist oder Presseanfrage?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+### 3.3. Lücke mit Rechtsfolge verbinden
 
-## Typische Fehler vermeiden
+Je fehlendem Beleg benennen, welche Pflicht nicht erfüllt werden kann. GwG Paragraf 10 Absatz 9 mit Rechtsberatungsausnahme und notariellen Sonderregeln prüfen. Eine fehlende Information ist nicht automatisch ein meldepflichtiger Verdacht; Tatsachen im Sinne des Paragraf 43 gesondert bewerten. Nur notwendige Angaben nachfordern, keine pauschale lebenslange Kontohistorie.
 
-- Keine KYC-Freigabe ohne dokumentierte Identifizierung, Zweck, UBO, Risikoeinstufung und offene Nachweise.
-- Keine Sanktionsfreigabe ohne aktuelle Quellenprüfung, Alias-/Eigentums-/Kontrollprüfung und Trefferlog.
-- Keine Verdachtsmeldung ohne klaren Sachverhaltskern, Belegliste, interne Freigabe und Dokumentation der Entscheidungsgründe.
-- Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
-- Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
-- Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+### 3.4. Aktualisierung statt Neustart
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Geänderten Geschäftsführer, neue Beteiligung oder abweichendes Zahlungsprofil gezielt nachziehen. Vorhandene unveränderte Belege wiederverwenden, ihre Eignung prüfen und den nächsten risikobasierten Überprüfungsanlass festlegen.
+
+## 4. Quellenpflicht
+
+GwG Paragraf 10 bis Paragraf 15 und [Rechtsstand](../../references/rechtsstand-2026-und-eu-uebergang.md). Eine Bankrichtlinie nicht ungeprüft als gesetzliche Pflicht einer Kanzlei behandeln.
+
+## 5. Ausgabeformat
+
+Ausformulierter Nachforderungsbrief und interne Feststellung mit überprüftem Punkt, Beleg, Restlücke und zuständiger Entscheidung. Times New Roman 11 pt, dezimale Gliederung. Nicht „identifiziert“ schreiben, wenn nur Daten erhoben wurden.
+
+## 6. Beispiele
+
+Ein neuer Geschäftsführer ist im aktuellen Register verzeichnet, aber der auftretende Einkäufer hat keine Vollmacht. Die Nachforderung betrifft die Vertretung; Eigentümerdaten nur bei einem Änderungsanlass erneut beschaffen.
