@@ -5391,6 +5391,18 @@ def plugin_route_detail(plugin_slug: str, title: str) -> str:
 def supplemental_plugin_routes(plugin_slug: str) -> tuple[tuple[str, str, str], ...]:
     """Ergänzt kleine Spezialsets um eigenständige, normnahe Arbeitsstationen."""
 
+    if plugin_slug == "schadensregulierung":
+        return (
+            ("Vorfall und Versicherungsanzeige", "Ordne Meldung, Kenntnistag, eigenen Rechtsträger, Verletzten und nächste Anzeige nach VVG Paragraf 104 zu. Eine fehlende Endbezifferung hindert die Erstmeldung nicht.", "vollständige Schadenanzeige mit tatsächlichem Kenntnistag, Ereignis, Schadenarten, Belegen und offenem Deckungsstand"),
+            ("Türprotokoll und flüchtige Belege", "Bezeichne Kamera, Wagen, Tür, Originalzeit und gefährdetes Zeitfenster. Halte Uhrversatz, fehlende Bilder und Grenzen eines nachträglichen Türtests getrennt fest.", "präzise Sicherungsanforderung und Ereignisfolge mit Originalzeiten, Quellen und Beobachtungslücken"),
+            ("Betreiber oder Hersteller", "Prüfe Schienenbetrieb nach HaftPflG Paragraf 1 getrennt von Kraftfahrzeug-, Vertrags-, Delikts- und Produkthaftung. Eine mögliche Herstellerverantwortung ersetzt keine Prüfung des Betreiberanspruchs.", "begründeter Haftungsvermerk mit konkreter Rollenverteilung, Tatbestandsmerkmalen und beweisbaren Einwendungen"),
+            ("Kleidung und Nebenkosten", "Gleiche Kaufpreis, Alter, Zustand, Reparaturangebot und Restnutzung ab. Trenne tatsächlich bezahlte Fahrten von bloßen Listen und ein Angebot von einer Rechnung.", "nachrechenbare materielle Positionsrechnung mit Vorzahlungen und gezielter Belegnachforderung"),
+            ("Verletzung und spätere Angst", "Trenne Erstbefund, Verlauf, Patientenschilderung und fachliche Diagnose. Nutze VI ZR 937/20 für die Gesamtbemessung, nicht als Betragsvergleich; ordne VI ZR 168/21 als mittelbaren Schockschaden ein.", "medizinisch abgegrenzter Schadenvermerk mit offener Prognose und begründetem weiteren Aufklärungsbedarf"),
+            ("Krankenkasse und Arbeitgeber", "Prüfe Leistungsart und Zeitraum nach SGB X Paragraf 116 und EntgFG Paragraf 6. Ein eigener Sach- oder Schmerzensgeldanspruch wird nicht allein durch die Krankenversicherung übertragen.", "Gläubiger- und Zahlungstabelle sowie Antwort auf eine noch unbezifferte Regressanmeldung"),
+            ("Zwischenantwort und Teilregulierung", "Schreibe aus dem tatsächlichen Bearbeitungsstand. Grenze eine Zahlung auf bestimmte Positionen und ihre Anrechnung ein, ohne offene Personenschäden oder fremde Ansprüche heimlich mitzuerledigen.", "adressierter, ausformulierter Antwortbrief mit konkretem nächsten Termin und zutreffendem Freigabestatus"),
+            ("Abfindung und Abschlussnachweis", "Prüfe Vergleichsumfang, Zukunftsschäden, Vollmacht, Deckungsstand und bestätigte Zahlungsdaten. Halte offene Regressvorgänge und Verjährungsfragen auch nach einer Teilzahlung sichtbar.", "ausformulierter Vergleich mit interner Freigabevorlage und Abschlussnotiz anhand tatsächlicher Annahme- und Zahlungsbelege"),
+        )
+
     if plugin_slug == "arbeitsrecht":
         return (
             ("Arbeitsvertrag, Status und Nachweis", "Ordne Tätigkeit, Weisungsbindung, Eingliederung, Beginn, Arbeitsort, Vergütung, Arbeitszeit, Befristung, Nebenabreden, Tarifbezug, Vertretungsmacht und Unterzeichnung nach BGB Paragraf 611a und NachwG; trenne Vertragsinhalt, Nachweispflicht und Statusfrage.", "Vertrags- und Statusmatrix mit fehlenden Angaben, Formrisiken, Nachforderung und unmittelbar verwendbarer Vertrags- oder Korrekturfassung"),
@@ -6318,6 +6330,7 @@ def practice_routes(
         "normenkontrollrat-nkr",
         "prozessrecht",
         "produktrecht",
+        "schadensregulierung",
         "schulrecht-laender",
         "status-navigator-step-plan",
         "strafanzeige-vorbereiter",

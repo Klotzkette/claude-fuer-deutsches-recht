@@ -1,0 +1,38 @@
+# schadensregulierung
+
+**8 Skills** · Stand `v443.4.0`
+
+[Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../schadensregulierung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
+
+## Downloads
+
+| Paket | Format | Link |
+| --- | --- | --- |
+| **Großer Prompt (Werkstatt)** | Markdown | [`schadensregulierung-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/schadensregulierung-werkstatt.md) |
+| **Kleiner Prompt (Schnellstart)** | Markdown | [`schadensregulierung-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/schadensregulierung-schnellstart.md) |
+| **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+| **Plugin (installierbar)** | ZIP | [schadensregulierung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schadensregulierung.zip) |
+
+## So benutzt man einen Skill
+
+Diese alphabetische Liste zeigt alle Skills im Quellbestand. Umfangreiche Spezialserien werden im installierten Paket teilweise über einen Fachrouter geöffnet und sind dann keine eigenen Menüeinträge. Werkstatt und Schnellstart sind eigenständige Ein-Datei-Prompts außerhalb des Plugin-ZIPs.
+
+English: This index lists source skills, including specialist series accessed through topic routers in the installed package. Workshop and quick-start files are separate standalone prompts. A skill download provides unchanged Markdown, not an installation; additional references or tools may be required.
+
+- **Schnelltest mit einer Datei:** oben auf den Schnellstart-Markdown klicken, die `.md` als Anhang in den Chatbot ziehen.
+- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausführlichen Arbeitsmodus verwenden.
+- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen und entpacken. Es enthält neben jeder `SKILL.md` auch deren Markdown-Referenzen; beim manuellen Einsatz die benötigten Dateien gemeinsam bereitstellen.
+- **Einzelnen Skill laden:** in der Tabelle auf den Skillnamen oder auf `MD herunterladen` klicken. Beide Wege speichern dieselbe Markdown-Datei.
+
+## Skills in diesem Plugin
+
+| Skill | Beschreibung | Markdown-Datei |
+| --- | --- | --- |
+| [`haftungsweg-bestimmen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/haftungsweg-bestimmen/SKILL.md) | Prüft die Verantwortlichkeit des in Anspruch genommenen Unternehmens aus Vertrag, Delikt und einschlägiger Gefährdungshaftung. Unterscheidet U-Bahn und Straßenverkehr, Betreiber und Hersteller sowie Haftung, Mitverschulden und Beweislast; keine bloße Normensammlung und keine D... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/haftungsweg-bestimmen/SKILL.md) |
+| [`regress-und-anspruchsuebergang`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/regress-und-anspruchsuebergang/SKILL.md) | Ordnet Schadenforderungen zwischen Geschädigtem, Krankenkasse, Arbeitgeber und Sachversicherer zu. Prüft kongrünte Leistungszeiträume, Anspruchsübergänge und Rückgriff gegen weitere Verantwortliche; verhindert Doppelzahlungen und eine Abfindung fremder Ansprüche ohne Berechtig... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/regress-und-anspruchsuebergang/SKILL.md) |
+| [`regulierung-korrespondieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/regulierung-korrespondieren/SKILL.md) | Formuliert konkrete Eingangsbestätigungen, begrenzte Belegnachforderungen, Zwischenbescheide, Teilregulierungen und begründete Ablehnungen im Schadenfall. Schreibt aus Sicht des Unternehmens respektvoll und klar, ohne verdeckte Anerkenntnisse, leere Prüfversprechen oder unnöti... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/regulierung-korrespondieren/SKILL.md) |
+| [`schadenfall-aufnehmen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/schadenfall-aufnehmen/SKILL.md) | Beginnt die Schadenabwicklung auf Unternehmens- oder Beklagtenseite aus Meldung und Aktenordner. Bestimmt Vorfall, Beteiligte, Verletzung, Belegverlust, Versicherungsanzeige und Verantwortlichen; liefert das Fallblatt und den nächsten konkreten Entwurf. Für Erstmeldungen, nich... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/schadenfall-aufnehmen/SKILL.md) |
+| [`schadenpositionen-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/schadenpositionen-pruefen/SKILL.md) | Prüft geltend gemachte Personen- und Sachschäden positionsweise anhand von Befunden, Kaufbelegen und Ausfällen. Trennt Schmerzensgeld, Kleidung, Behandlungskosten und Verdienstausfall, berücksichtigt psychische Unfallfolgen ohne Eigendiagnose und liefert eine nachvollziehbare... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/schadenpositionen-pruefen/SKILL.md) |
+| [`unfallbelege-sichern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/unfallbelege-sichern/SKILL.md) | Sichert flüchtige Belege zu einem Schadenfall: Video, Tür- und Betriebsprotokolle, Produkt oder beschädigte Sache, Zeugen und Behandlungsunterlagen. Trennt eigene Wahrnehmung, Zeitstempel und Schlussfolgerung und formuliert konkrete Sicherungsanforderungen für das betroffene U... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/unfallbelege-sichern/SKILL.md) |
+| [`vergleich-und-zahlung-abschliessen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/vergleich-und-zahlung-abschliessen/SKILL.md) | Führt eine geprüfte Schadenforderung zur kontrollierten Teilzahlung, Abfindung oder Ablehnung und zum Aktenabschluss. Klärt Vollmacht, Versichererfreigabe, Anspruchsinhaberschaft, Zukunftsschäden, Anrechnung und Zahlungsempfänger; erstellt Vergleich und Freigabevorlage, löst a... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/vergleich-und-zahlung-abschliessen/SKILL.md) |
+| [`versicherung-einschalten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/versicherung-einschalten/SKILL.md) | Erstellt die Haftpflicht-Schadenanzeige und klärt Police, versichertes Unternehmen, Tätigkeit, Zeitraum, Selbstbehalt, Deckung und Regulierungsvollmacht. Erkennt Anzeige- und Prozessfristen, trennt Vorbehalt von Deckungszusage und vermeidet falsche Aussagen über Anerkenntnisve... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/skills/versicherung-einschalten/SKILL.md) |

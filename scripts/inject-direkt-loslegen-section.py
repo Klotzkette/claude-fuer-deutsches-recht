@@ -77,6 +77,7 @@ PROSE_REPLACEMENTS = {
     "fuehrt": "führt",
     "Rechtswegerschoepfung": "Rechtswegerschöpfung",
     "Referentenentwuerfen": "Referentenentwürfen",
+    "Sachschaeden": "Sachschäden",
     "Schluessigkeit": "Schlüssigkeit",
     "Schriftsaetze": "Schriftsätze",
     "Subsidiaritaet": "Subsidiarität",
@@ -251,6 +252,7 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 
 
 HANDCURATED_FIRST_PRODUCTS = {
+    "schadensregulierung": "eine Schadenanzeige mit belegtem Ereignis, gefährdeten Belegen und offener Deckungsfrage",
     "mietrecht": "eine Anspruchs- und Fristenmatrix mit nächstem Schreiben",
     "arbeitsrecht": "Antrag, Sachverhalt, Beweisplan und nächste Frist",
     "fachanwalt-familienrecht": "eine Rechnung, Verfahrensroute oder einen antragsfähigen Text",
