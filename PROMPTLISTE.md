@@ -53,7 +53,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Sozialrecht](#sozialrecht) | 3 |
 | [Sportrecht](#sportrecht) | 1 |
 | [Sprache, Lehre und Hilfsskills](#sprache-lehre-und-hilfsskills) | 7 |
-| [Steuerrecht](#steuerrecht) | 3 |
+| [Steuerrecht](#steuerrecht) | 4 |
 | [Strafrecht](#strafrecht) | 9 |
 | [Transport- und Speditionsrecht](#transport--und-speditionsrecht) | 5 |
 | [Urheber- und Medienrecht](#urheber--und-medienrecht) | 5 |
@@ -63,7 +63,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Versicherungsrecht](#versicherungsrecht) | 3 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 31 |
 
-223 kuratierte Plugins in 34 Kategorien, aus insgesamt 236 Marketplace-Plugins (Abgleich: 8. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
+224 kuratierte Plugins in 34 Kategorien, aus insgesamt 237 Marketplace-Plugins (Abgleich: 10. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
 
 ## Agrarrecht
 
@@ -307,6 +307,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 
 - [dfg-foerderantrag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dfg-foerderantrag): DFG-Förderantragssteller für Sachbeihilfe, adaptive Anfänger-/Profi-Führung, kleine schnelle Anträge, große Koselleck-Strategien, elan-Formalia, Finanzplan… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=dfg-foerderantrag/dfg-foerderantrag-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=dfg-foerderantrag/dfg-foerderantrag-werkstatt.md)
 - [forschungszulage-antragstellung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/forschungszulage-antragstellung): Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=forschungszulage-antragstellung/forschungszulage-antragstellung-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=forschungszulage-antragstellung/forschungszulage-antragstellung-werkstatt.md)
+- [grundsteuerrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grundsteuerrecht): Grundstücksbelege und Bescheidkette prüfen, Wert und Steuer nachrechnen und den passenden Einspruch, Änderungs- oder Eilantrag entwerfen. Zehn konkrete Arbeitswege mit Berliner Fallbezug und getrennten Landesmodellen. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/grundsteuerrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/grundsteuerrecht-werkstatt.md)
 - [steuerrecht-anwalt-und-berater](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater): Steuerrecht für Anwalt (anw- FAO Paragraf 9) und Steuerberater (stb-): Einspruch Klage FG Außenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md)
 
 ## Strafrecht

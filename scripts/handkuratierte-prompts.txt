@@ -28,5 +28,6 @@ agb-recht-pruefer
 grosskanzlei-corporate-ma
 preussisches-allgemeines-landrecht-pralr
 schadensregulierung
+grundsteuerrecht
 notariat-alltag
 geldwaeschepraevention-aml-kyc

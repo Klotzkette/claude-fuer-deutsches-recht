@@ -266,6 +266,7 @@ HANDCURATED_FIRST_PRODUCTS = {
     "geldwaeschepraevention-aml-kyc": "einen belegten Prüfvermerk zum konkreten Mandat, Kaufpreis oder Zahlungsvorgang samt gezielter Nachforderung und gegebenenfalls sofortiger Meldeprüfung",
     "notariat-alltag": "einen aus den Kundenunterlagen vorbereiteten Urkunden- oder Registerentwurf mit Beteiligtenblatt und offenen Freigaben für den Notar",
     "schadensregulierung": "den nächsten Entwurf aus Ihrer Rolle als Unternehmen oder regulierender Versicherer, mit belegtem Ereignis, gefährdeten Belegen und getrenntem Deckungsstand",
+    "grundsteuerrecht": "die Verfügungssätze der Grundsteuerpost, ihren Zugang und die belegte Flächen- oder Rechendifferenz auf der richtigen Bescheidstufe; daraus den nächsten erforderlichen Antrag entwerfen",
     "mietrecht": "eine Anspruchs- und Fristenmatrix mit nächstem Schreiben",
     "arbeitsrecht": "Antrag, Sachverhalt, Beweisplan und nächste Frist",
     "fachanwalt-familienrecht": "eine Rechnung, Verfahrensroute oder einen antragsfähigen Text",
