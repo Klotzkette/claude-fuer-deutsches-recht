@@ -24,6 +24,21 @@ PAIRS = [
      REPO / "zitierweise-deutsches-recht" / "references" / "zitierweise.md"),
 ]
 
+# Diese Fachplugins werden einzeln installiert; die Rechtsstandkarte muss
+# deshalb auch ohne einen Zugriff auf andere Pluginordner verfügbar sein.
+OMNIBUS_PLUGINS = (
+    "ki-vo-ai-act-pruefer", "ki-governance", "ki-richtlinie-kanzleien",
+    "berufsrecht-ki-vertragspruefung", "datenschutzrecht",
+    "datenschutz-sanktionsverfahren-verteidigung", "fachanwalt-it-recht",
+    "robotik-recht",
+)
+PAIRS.extend(
+    (REPO / "references" / reference,
+     REPO / plugin / "references" / reference)
+    for plugin in OMNIBUS_PLUGINS
+    for reference in ("digitaler-omnibus-2026.md", "zitierweise.md")
+)
+
 
 def main() -> int:
     changed = 0

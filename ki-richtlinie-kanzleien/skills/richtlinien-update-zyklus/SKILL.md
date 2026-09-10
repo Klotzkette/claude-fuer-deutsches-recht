@@ -100,7 +100,7 @@ REGELMAESSIGE REVIEW-TERMINE:
 
 ANLASSBEZOGENE UPDATE-TRIGGER:
 ☑/☐ Neue EuGH / BGH-Rechtsprechung: [DATUM / AZ]
-☑/☐ Neue KI-VO Anwendungsphase (Hochrisiko ab 02.08.2026)
+☑/☐ Neue Anwendungsphase nach Artikel 113: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5, Anhang III ab 02.12.2027, Anhang I ab 02.08.2028
 ☑/☐ Neues KI-System eingefuehrt: [SYSTEMNAME, DATUM]
 ☑/☐ Datenpanne oder Sicherheitsvorfall
 

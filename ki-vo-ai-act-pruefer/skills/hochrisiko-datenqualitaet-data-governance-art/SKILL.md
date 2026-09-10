@@ -1,118 +1,37 @@
 ---
 name: hochrisiko-datenqualitaet-data-governance-art
-description: "Für Datenqualität und Data Governance — Art. 10 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
+description: Prüft Herkunft und Eignung von Entwicklungsdaten sowie die enge Erlaubnis für sensible Daten zur Verzerrungskorrektur nach Artikel 4a. Erstellt einen belegten Datenfreigabevermerk mit Alternativenprüfung, Zugriffsschutz und Löschereignis.
 ---
 
-# Datenqualität und Data Governance — Art. 10 KI-VO
+# 1. Dateneignung und Verzerrungskorrektur
 
-## Pflichten im Überblick (Art. 10 Abs. 2 KI-VO)
+## 1. Zweck und Anwendungsfall
 
-### Anforderung 1 — Geeignete Datenverwaltungspraktiken
+Prüfe Datenqualität nach Artikel 10 und die seit 27. Juli 2026 geltende Erlaubnis des neuen Artikels 4a der Verordnung (EU) 2024/1689. Artikel 10 Absatz 5 ist nicht als unveränderte parallele Erlaubnis fortzuschreiben. Der Geltungsbeginn der Hochrisikoanforderungen und der bereits geltenden Datenregel sind verschieden.
 
-Anbieter müssen geeignete Datenverwaltungspraktiken umsetzen, die Folgendes umfassen:
-- Klare Festlegung des Entwicklungsziels und der vorgesehenen Verwendungszwecke
-- Verfahren zur Datenerhebung
-- Analyse auf mögliche Verzerrungen (Bias)
-- Erkennung und Behebung von Datenlücken und Mängeln
+## 2. Eingaben
 
-**Prüffragen:**
-- Gibt es eine schriftlich dokumentierte Datenstrategie?
-- Wurden Herkunft, Erhebungsmethode und Qualitätsmerkmale der Datensätze dokumentiert?
+Lies Datenkatalog, Modellzweck, Gruppenmerkmale, Erhebungsquellen, Nutzungsrechte, Validierung, Qualitätsberichte und Zugriffskonzept. Keine sensiblen Rohdaten allein zur Vervollständigung einer Checkliste anfordern. Fehlt ein Datenfluss, zunächst genau den fraglichen Import oder Empfänger klären.
 
-### Anforderung 2 — Relevanz und Repräsentativität (Art. 10 Abs. 3 KI-VO)
+## 3. Ablauf
 
-Trainings-, Validierungs- und Testdatensätze müssen:
-- Relevant für den vorgesehenen Zweck des Systems sein
-- Repräsentativ für die Bedingungen sein, unter denen das System eingesetzt werden soll
-- Hinreichend vollständig und fehlerfrei sein (unter Berücksichtigung des Einsatzbereichs)
-- Die spezifischen Eigenschaften und Merkmale der vorgesehenen Einsatzsituation aufweisen
+1. Anbieter- oder Betreiberrolle sowie System- oder Modellbezug bestimmen. Artikel 4a Absatz 1 betrifft Hochrisikoanbieter; Absatz 2 auch andere Anbieter und Betreiber unter zusätzlichen Voraussetzungen.
+2. Entwicklungszweck, Datenherkunft, Aufbereitung, Annahmen, Repräsentativität, fehlende Teilgruppen und Fehlerraten nach Artikel 10 erfassen. Überlappungen zwischen Training und Prüfung als Qualitätsrisiko belegen, nicht pauschal eine technisch unmögliche Fehlerfreiheit fordern.
+3. Sensible Daten nach Artikel 9 Absatz 1 der Datenschutz-Grundverordnung einzeln identifizieren. Geschlecht, Alter und jede betriebliche Kennzahl sind nicht automatisch besondere Kategorien.
+4. Bestimmte Verzerrung und deren Gefahren- oder Diskriminierungsbezug beschreiben. Eine allgemeine Produktoptimierung reicht nicht. Belegen, warum andere, synthetische oder anonymisierte Daten die Erkennung und Korrektur nicht gleich wirksam ermöglichen.
+5. Sämtliche Sicherungen aus Artikel 4a Absatz 1 prüfen: Zweckbeschränkung und technische Weiterverwendungsgrenzen, geeignete Sicherheit einschließlich Pseudonymisierung, dokumentierte strenge Zugriffe, keine Weitergabe oder Zugriffseröffnung an andere Parteien, Löschung bei Korrektur oder früherem Ablauf der Speicherfrist und dokumentierte Unerlässlichkeit im Verarbeitungsverzeichnis.
+6. Bei Absatz 2 zusätzlich die dort genannten Risiken für Gesundheit, Sicherheit, Grundrechte oder verbotene Diskriminierung prüfen, einschließlich möglicher Rückkopplung von Ausgaben in künftige Verarbeitung.
+7. Datenschutzrechtliche Rechtsgrundlage, Informationspflichten, Betroffenenrechte, Dienstleister und gegebenenfalls Folgenabschätzung daneben prüfen. Die spezielle Ausnahme erlaubt nicht sämtliche Trainingszwecke oder uneingeschränkte Auftragsverarbeiterzugriffe.
+8. Freigabe nach Zweck und Datenumfang begrenzen; Korrekturerfolg und Löschung nachhalten. Erfolgloser Test rechtfertigt keine endlose Vorratsspeicherung.
 
-**Prüffragen:**
-- Deckt der Datensatz die Vielfalt der Einsatzbedingungen ab?
-- Sind bestimmte Bevölkerungsgruppen, Szenarien oder Randfälle unterrepräsentiert?
-- Wurden bekannte Datenmängel dokumentiert und ihr Einfluss auf die Systemleistung bewertet?
+## 4. Quellenpflicht
 
-### Anforderung 3 — Bias-Erkennung und Bias-Minderung (Art. 10 Abs. 2 lit. f KI-VO)
+[Rechtsstandkarte, Abschnitte 1.1, 1.2 und 1.4](../../references/digitaler-omnibus-2026.md), [Zitierweise](../../references/zitierweise.md). Verordnung (EU) 2026/1744, Artikel 1 Nummer 6; Datenschutz-Grundverordnung Artikel 5, 6, 9, 30, 32 und 35. Kein älteres Datenschutzurteil als Entscheidung über den neuen Artikel 4a ausgeben.
 
-Anbieter müssen Daten auf mögliche Verzerrungen analysieren und geeignete Maßnahmen zur Bias-Minderung ergreifen. Dies gilt insbesondere bei Systemen, die auf Merkmale wie Alter, Geschlecht, ethnische Zugehörigkeit oder andere geschützte Kategorien zugreifen können.
+## 5. Ausgabeformat
 
-**Prüffragen:**
-- Wurden Bias-Analysen durchgeführt (z.B. Fairness-Metriken, Subgruppen-Analysen)?
-- Sind die Maßnahmen zur Bias-Minderung dokumentiert und auf ihre Wirksamkeit geprüft?
-- Welche Restverzerrungen verbleiben nach den Minderungsmaßnahmen?
+Vollständig ausformulierter Datenfreigabevermerk mit Tabelle: Datenkategorie, Bias-Frage, Alternative, Unerlässlichkeit, Zugriff, Löschereignis, Beleg und verbleibende Sperre. Technische Lücken konkret benennen. Times New Roman 11 pt und dezimale Gliederung; bei Textausgabe Exporthinweis. Keine Datenübermittlung oder Freigabe ohne Auftrag.
 
-### Anforderung 4 — Trennung der Datensätze
+## 6. Beispiele
 
-Trainings-, Validierungs- und Testdatensätze müssen klar voneinander getrennt sein. Insbesondere darf der Testdatensatz nicht für das Training oder die Parameteroptimierung verwendet worden sein.
-
-**Prüffragen:**
-- Sind die drei Datensätze klar getrennt und dokumentiert?
-- Wurde der Testdatensatz ausschließlich für die abschließende Leistungsbeurteilung verwendet?
-
-## Ausnahme für besondere Datenkategorien (Art. 10 Abs. 5 KI-VO)
-
-Für die Zwecke der Erkennung und Korrektur von Verzerrungen in Hochrisiko-KI-Systemen ist die Verarbeitung besonderer Kategorien personenbezogener Daten nach Art. 9 Abs. 1 DSGVO (Rasse, Gesundheit, Religion, sexuelle Orientierung usw.) unter engen Voraussetzungen erlaubt:
-- Wirksame technisch-organisatorische Sicherheitsvorkehrungen müssen vorhanden sein
-- Die Verarbeitung darf ausschließlich zu diesem Zweck erfolgen
-- Die Daten dürfen nicht zu anderen Zwecken verarbeitet werden
-- Die Daten dürfen nicht übermittelt werden
-- Die Daten sind nach Abschluss der Bias-Analyse zu löschen
-
-**Prüffragen:**
-- Liegt eine DSGVO-konforme Rechtsgrundlage für die Verarbeitung besonderer Kategorien vor?
-- Sind die Sicherheitsvorkehrungen dokumentiert?
-- Wird die Verarbeitung strikt auf den Bias-Korrekturzweck beschränkt?
-
-## Verhältnis zu anderen Pflichten
-
-Art. 10 KI-VO ist eng verzahnt mit:
-- Art. 9 KI-VO (Risikomanagement — schlechte Daten erzeugen Risiken)
-- Art. 11 und Anhang IV KI-VO (Technische Dokumentation — Datensätze sind zu beschreiben)
-- DSGVO — Datenschutz gilt parallel für alle personenbezogenen Trainingsdaten
-
-## Typische Praxisprobleme
-
-- Trainingsdaten wurden nicht dokumentiert; keine Herkunftsnachweise.
-- Test- und Validierungsdaten überlappen mit Trainingsdaten.
-- Bias-Analyse wurde durchgeführt, aber Ergebnisse nicht dokumentiert.
-- Besondere Datenkategorien wurden ohne DSGVO-Rechtsgrundlage verarbeitet.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Art. 5 KI-VO — verbotene Praktiken (absolut ab 02.02.2025)
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — HOCHRISIKO DATENQUALITAET UND DATA GOVERNANCE ART 10
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 10 Rn. 6]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein Recruiting-Anbieter will gruppenbezogene Benachteiligung untersuchen: erst Aussagekraft anonymer Auswertungen prüfen, dann gegebenenfalls eng begrenzte sensible Merkmale. Ein allgemeiner Chatbot-Anbieter darf Artikel 4a nicht als unbegrenzte Erlaubnis zum Training auf Gesundheitsakten behandeln.

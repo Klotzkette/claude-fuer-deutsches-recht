@@ -8,7 +8,7 @@ description: "Für Use-Case-Risikoklassifizierung nach europäischer Technikregu
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn gestaffelt (02.02.2025 Verbote, 02.08.2025 GPAI, 02.08.2026 Hochrisiko Anhang III), schwerwiegender Vorfall 15 Tage, DSGVO DPIA vorab.
+- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
 - Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -31,7 +31,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## KI-VO-Klassifizierungslogik (VO (EU) 2024/1689)
 - **Verboten (Art. 5 KI-VO, gilt ab 02.02.2025)**: u. a. Social Scoring durch öffentliche Stellen, manipulative Techniken, biometrische Kategorisierung nach sensiblen Merkmalen, Echtzeit-Fernidentifikation im öffentlichen Raum.
-- **Hochrisiko (Art. 6 i. V. m. Anhang III, gilt ab 02.08.2026)**: u. a. Bildung, Beschäftigung (Recruiting, Performance), kritische Infrastruktur, Strafverfolgung, biometrische Identifikation, Migration, Justiz und demokratische Prozesse, Gesundheits-/Lebensversicherungs-Risikoscoring.
+- **Hochrisiko (Art. 6 i. V. m. Anhang III, Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 nach Artikel 113 ab 02.12.2027)**: u. a. Bildung, Beschäftigung (Recruiting, Performance), kritische Infrastruktur, Strafverfolgung, biometrische Identifikation, Migration, Justiz und demokratische Prozesse, Gesundheits-/Lebensversicherungs-Risikoscoring.
 - **Begrenztes Risiko mit Transparenzpflicht (Art. 50)**: Chatbots, Emotionserkennung, biometrische Kategorisierung, Deepfakes.
 - **Minimales Risiko**: alle übrigen Systeme.
 

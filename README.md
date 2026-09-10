@@ -16,6 +16,8 @@ Weniger konkurrierende Einstiege, klarere Aufgaben: [Skills nach Ergebnis auswä
 
 ## Schnell arbeiten, auch in einer anderen Oberfläche
 
+Rechtsstand 10. September 2026: Die Pakete zur Verordnung über künstliche Intelligenz und zum Datenschutz berücksichtigen den veröffentlichten Digital-Omnibus, die deutschen Zuständigkeiten nach KI-MIG und die davon getrennten, noch laufenden Datenschutz-Reformverfahren. Artikel 4a betrifft sensible Daten zur Verzerrungskorrektur, nicht Deepfakes. [Änderungen, Fristen und amtliche Quellen](./references/digitaler-omnibus-2026.md) · <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=references/digitaler-omnibus-2026.md" download>Rechtsstandkarte als MD herunterladen</a>.
+
 Für einen Vorgang nur ein passendes Plugin oder einen seiner Markdown-Prompts verwenden. Nicht Werkstatt, Mini-Prompt und sämtliche Skills gleichzeitig in denselben Chat laden. Das größere Modell ersetzt weder fehlenden Dateizugriff noch einen Exporter; ein installierbares Plugin-ZIP ist kein universelles Austauschformat für jede Rechtsarbeitsplattform.
 
 | Betriebsart | Was bereitstehen muss | Bei fehlender Funktion |
@@ -104,7 +106,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Skills (SKILL.md)** | 22408: [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 337 zentral / 340 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v444.2.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v444.3.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads

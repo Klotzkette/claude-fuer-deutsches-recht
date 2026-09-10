@@ -5,6 +5,10 @@ description: "Für Verzeichnis von Verarbeitungstätigkeiten – Art. 30 DSGVO G
 
 # Verzeichnis von Verarbeitungstaetigkeiten – Art. 30 DSGVO Grundlagen
 
+## 1. Reformstand vor einer Befreiung prüfen
+
+Stand 10. September 2026: COM(2025) 501 im Verfahren 2025/0130(COD) ist noch keine geltende Erweiterung der Ausnahme. Keine Beschäftigtenschwelle von 750 oder 1000 als geltendes Recht anwenden. Artikel 30 Absatz 5 mit seiner Schwelle unter 250 und den Ausnahmen für regelmäßige oder riskante Verarbeitung sowie besondere Daten bleibt maßgeblich. COM(2025) 837 ist ein anderes, ebenfalls noch laufendes Verfahren. Bei Bias-Prüfungen verlangt Artikel 4a der Verordnung (EU) 2024/1689 in der Fassung 2026/1744 zusätzlich die dokumentierte strikte Notwendigkeit; eine allgemeine Verzeichnisbefreiung darf diese spezielle Nachweispflicht nicht verdecken. [Amtliche Quellen und Verfahrensstand](../../references/digitaler-omnibus-2026.md).
+
 ## Wann dieses Modul hilft
 
 - Mandant fragt: "Brauchen wir ein Verarbeitungsverzeichnis?"

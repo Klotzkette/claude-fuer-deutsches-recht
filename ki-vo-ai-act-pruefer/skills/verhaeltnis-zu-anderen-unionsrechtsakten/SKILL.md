@@ -17,7 +17,7 @@ Die KI-VO verdrängt andere Unionsrechtsakte in der Regel nicht, sondern ergänz
 - Für Hochrisiko-KI-Systeme, die personenbezogene Daten verarbeiten, gelten beide Regelwerke.
 - Die Grundrechte-Folgenabschätzung nach Art. 27 KI-VO ist eng mit der Datenschutz-Folgenabschätzung nach Art. 35 DSGVO abzustimmen.
 - Das Recht auf Erklärung automatisierter Entscheidungen nach Art. 22 DSGVO und die Transparenzpflichten der KI-VO sind parallel zu erfüllen.
-- Art. 10 Abs. 5 KI-VO erlaubt unter engen Voraussetzungen die Verarbeitung besonderer Kategorien personenbezogener Daten zur Bias-Erkennung — vorbehaltlich DSGVO-Rechtsgrundlage.
+- Artikel 4a der Verordnung (EU) 2024/1689 in der Fassung 2026/1744 ersetzt Artikel 10 Absatz 5: sensible Daten zur Bias-Erkennung und -Korrektur nur bei strikter Notwendigkeit und vollständigen Schutzvorkehrungen. Absatz 2 erweitert den Adressatenkreis unter weiteren Bedingungen. Kein allgemeines Trainingsprivileg; Datenschutzpflichten bleiben. [Rechtsstandkarte](../../references/digitaler-omnibus-2026.md).
 
 ## Maschinenverordnung — Verordnung (EU) 2023/1230
 
@@ -75,7 +75,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Art. 5 KI-VO — verbotene Praktiken (absolut ab 02.02.2025)
+- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
 - Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz

@@ -1,329 +1,39 @@
 ---
 name: ki-vo-hochrisiko-konformitaetsbewertung
-description: "Für europäischer Technikregulierungsrahmen-Konformitätsbewertung für Hochrisiko-digitale Werkzeuge-Systeme nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft Konformitätsunterlagen vor einer Softwarebeschaffung. Verbindet Systemrolle, gesetzlichen Bewertungsweg, Nachweislücken und Lieferantenmitwirkung mit konkreten Vertragsklauseln und einer belastbaren Abnahmeentscheidung.
 ---
 
-# KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach Art
+# 1. Konformitätsdossier und IT-Vertrag abstimmen
 
+## 1. Zweck und Anwendungsfall
 
-## Arbeitsweg
+Prüfe ein Konformitätsdossier vor Beschaffung, Vertragsschluss oder Produkteinführung. Ordne fehlende Nachweise einem Vertragspartner zu, statt den Betreiber ohne Rollenwechsel zum Anbieter zu machen. Grundlage ist die Verordnung (EU) 2024/1689 in der Fassung 2026/1744. Kein pauschales Wahlrecht und keine pauschale Pflicht zur Drittprüfung für sämtliche Systeme behaupten.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; DSGVO; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Eingaben
 
-**Fokus:** KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach Art. 16-29 KI-VO 2024/1689. Anwendungsfall Unternehmen entwickelt oder setzt Hochrisiko-KI ein und benoetigt CE-Kennzeichnung und Konformitätserklarung. Normen KI-VO 2024/1689 Anhang III Hochrisiko-Liste Art. 48 CE-Kennzeichnung Art. 99 Bußgelder bis 35 Mio EUR Anwendbarkeit ab 2.8.2026. Prüfraster Risiko-Klassifikation Anhang-III-Prüfung Risikomanagement Daten-Governance Dokumentation Transparenz Cybersicherheit menschliche Aufsicht. Output Konformitätsbewertungsdossier mit Prüfergebnis Maßnahmenplan und CE-Kennzeichnungsunterlage. Abgrenzung zu ki-governance-Plugin und fachanwalt-it-recht-datenschutz-folgenabschaetzung.
+Zweckbestimmung, Produktregime, Risikoeinstufung, Systemversion, bestehende Konformitätserklärung, Normenliste und Änderungsbeschreibung lesen. Fehlt nur eine Normabdeckung, diese konkret anfordern; das restliche Dossier weiterbearbeiten.
 
-### KI-VO High-Risk-System Konformitätsbewertung Art. 16–29
+## 3. Ablauf
 
-## Kaltstart-Rückfragen
+1. Artikel 6 Absatz 1 gegenüber Absatz 2 und den jeweiligen Anhängen abgrenzen. Neue Absätze 1a bis 1c einbeziehen: reine Komfort- oder Optimierungsfunktion ohne Sicherheitsbezug reicht nicht; ein gesundheits- oder sicherheitsgefährdender Ausfall spricht dagegen. Drittprüfung ausschließlich wegen anderer Risiken erfüllt Absatz 1 Buchstabe b nicht.
+2. Artikel 113 prüfen: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 bei Anhang III ab 2. Dezember 2027, bei Anhang I ab 2. August 2028. Artikel 111 für Bestand und erhebliche Konzeptionsänderung daneben anwenden. Früher geltendes Produktrecht bleibt bestehen.
+3. Anhang III Nummer 1: Nach Artikel 43 Absatz 1 interne Kontrolle nach Anhang VI oder Prüfung des Qualitätsmanagementsystems und der technischen Dokumentation unter Beteiligung einer notifizierten Stelle nach Anhang VII. Die Wahl setzt die dort verlangte Anwendung harmonisierter Normen oder gemeinsamer Spezifikationen voraus. Bei deren Fehlen, Nichtanwendung oder nur teilweiser Anwendung sowie einschlägiger Beschränkung der Normveröffentlichung den vorgeschriebenen Anhang-VII-Weg prüfen. Auch biometrische Fernidentifikation verlangt nicht ausnahmslos eine Drittprüfung.
+4. Anhang III Nummern 2 bis 8: grundsätzlich interne Kontrolle nach Anhang VI gemäß Artikel 43 Absatz 2 ohne notifizierte Stelle. Das ist kein von vollständiger Normabdeckung abhängiges allgemeines Wahlrecht. Einen späteren delegierten Rechtsakt nach Absatz 6 nur mit belegter Geltung berücksichtigen.
+5. Anhang I Abschnitt A: einschlägiges Produktverfahren nach Artikel 43 Absatz 3 neuer Fassung mit integrierten Systemanforderungen und Qualitätsmanagement. Eine verfügbare produktrechtliche Verfahrenswahl wird durch die Hochrisikoeinstufung nicht automatisch beseitigt. Notifizierte Stelle, wenn der konkrete Weg sie verlangt.
+6. Maschinen gesondert: Die Verordnung (EU) 2023/1230 steht nun in Anhang I Abschnitt B. Artikel 2 Absatz 2 und das geänderte Maschinenrecht prüfen; nicht den alten Abschnitt-A-Pfad weiterverwenden. Medizinprodukte oder andere Produkte deshalb nicht ebenfalls nach Abschnitt B verschieben.
+7. Wesentliche Änderung nach Artikel 43 Absatz 4 von vorab bestimmtem, dokumentiertem Weiterlernen unterscheiden. Neue Version, geänderte Zweckbestimmung und Risiken auf die ursprüngliche Prüfung zurückführen.
+8. Nachweise abschließen: technische Dokumentation nach Anhang IV, anwendbarer Bewertungsnachweis, EU-Konformitätserklärung nach Artikel 47 und Anhang V, CE-Kennzeichnung nach Artikel 48 sowie Registrierung nach Artikel 49 mit dessen Ausnahmen. Anhänge IX und X sind nicht die gesetzlichen Alternativen zu Anhang VI und VII.
+9. Vertraglich Nachweiszugang, Versionswechsel, Lieferantenmitwirkung, Fehlermeldung und Freigabeverantwortung abstimmen. Gesetzliche Verantwortung nicht mit einer Freistellung verwechseln. Artikel 25 Absatz 2 neuer Fassung bei Anbieterwechsel und Informationsbedarf prüfen.
+10. Digital angebotene Systeme erhalten die nach Artikel 48 Absatz 2 vorgesehene digitale Kennzeichnung. Erklärung und Versionsstand zusammenhalten; technische Dokumentation nicht pauschal öffentlich veröffentlichen. Vertrauliche beziehungsweise besonders geschützte Registrierungsbereiche gesondert prüfen.
 
-1. Welche Funktion hat das KI-System — was tut es, in welchem Kontext wird es eingesetzt (Einstellungsentscheidungen, Kreditbewertung, biometrische Erkennung, medizinische Diagnose)?
-2. Ist der Mandant Anbieter (Inverkehrbringer, Art. 3 Nr. 3 KI-VO) oder Betreiber (Deployer, Art. 3 Nr. 4 KI-VO)? Begründung: Pflichtenkatalog unterscheidet sich erheblich.
-3. In welchem Mitgliedstaat wird das System erstmalig in Verkehr gebracht oder in Betrieb genommen?
-4. Handelt es sich um ein Altsystem (vor 2.8.2026) oder eine Neuentwicklung?
-5. Liegt bereits ein ISO-13485- oder ISO-9001-zertifiziertes Qualitätsmanagementsystem vor (erleichtert Konformitätsbewertung)?
-6. Soll eine Benannte Stelle (Notified Body) eingeschaltet werden (Pflicht bei Biometrik und Systemen für kritische Infrastruktur)?
-7. Wie ist der Zeitplan bis Markteinführung — wann muss CE-Kennzeichnung vorliegen?
-8. Gibt es bereits eine KI-Folgenabschätzung oder eine Datenschutz-Folgenabschätzung (Art. 35 DSGVO) im Zusammenhang mit dem System?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+## 4. Quellenpflicht
 
-## Rechtsgrundlagen
+[Rechtsstandkarte](../../references/digitaler-omnibus-2026.md), Artikel 2, 6, 43 bis 49, 111 und 113 sowie Anhänge I und IV bis VIII. Normenstatus anhand der amtlichen Veröffentlichung prüfen, nicht anhand einer bloßen Herstellerbehauptung. Ein Zertifikat außerhalb des gesetzlichen Verfahrens ersetzt keine gesetzliche Konformitätsbewertung.
 
-### KI-VO (EU) 2024/1689
+## 5. Ausgabeformat
 
-- **Art. 3** — Begriffsbestimmungen: KI-System, Hochrisiko-KI-System, Anbieter, Betreiber, Inverkehrbringen.
-- **Art. 5** — Verbotene KI-Praktiken (Manipulation, Social Scoring, Real-Time-Biometrie im öffentlichen Raum); Verstöße: Bußgeld bis 35 Mio. EUR oder 7 % Umsatz (Art. 99 Abs. 3).
-- **Art. 6 i. V. m. Anhang III** — Hochrisiko-Definition.
-- **Art. 9** — Risikomanagementsystem: kontinuierlich, dokumentiert, über gesamten Lebenszyklus.
-- **Art. 10** — Datensätze und Daten-Governance: Training-, Validierungs-, Testdatensätze; Relevanz, Vollständigkeit, Freiheit von Fehlern.
-- **Art. 11 i. V. m. Anhang IV** — Technische Dokumentation.
-- **Art. 12** — Aufzeichnungspflichten (Logging, automatisch und unveränderbar).
-- **Art. 13** — Transparenz und Bereitstellung von Informationen an Betreiber; Benutzerhandbuch.
-- **Art. 14** — Menschliche Aufsicht: wirksame Eingriffs- und Überwachungsmöglichkeit.
-- **Art. 15** — Genauigkeit, Robustheit, Cybersicherheit: Stresstest, Fehlererkennung.
-- **Art. 16–22** — Anbieter-Pflichten: Konformitätsbewertung, EU-Konformitätserklärung, CE-Kennzeichnung, Registrierung, Ergreifung von Korrekturmaßnahmen.
-- **Art. 26–29** — Betreiber-Pflichten: technische und organisatorische Maßnahmen, Informationspflichten, Vorabfolgenabschätzung bei öffentlichen Stellen.
-- **Art. 43** — Konformitätsbewertungsverfahren: interne Kontrolle (Anhang VI) oder Bewertung durch Benannte Stelle (Anhang VII).
-- **Art. 47** — EU-Konformitätserklärung; Inhalt nach Anhang V.
-- **Art. 48** — CE-Kennzeichnung; Art. 49 — Registrierung EU-Datenbank.
-- **Art. 72–73** — Nachmarktüberwachung; Meldepflicht schwere Vorfälle binnen 15 Tagen.
-- **Art. 99** — Bußgelder.
-- **Art. 113** — Anwendungszeitpunkte.
+Ausformulierter Verfahrensvermerk mit konkretem System, Rechtsregime, Normabdeckung, erforderlicher Stelle, fehlendem Nachweis und Freigabedatum. Ergänzend eine kompakte Dossierliste mit vorhandenen Dokumentversionen. Keine Konformität ohne Prüfung bescheinigen. Times New Roman 11 pt, dezimale Gliederung; ohne Export vollständigen Text statt angeblicher Datei liefern.
 
-### Anwendungszeitpunkte (Art. 113 KI-VO)
+## 6. Beispiele
 
-| Kategorie | Anwendbar ab |
-|---|---|
-| Verbotene Praktiken Art. 5 | 2.2.2025 |
-| GPAI-Modelle (Anhang XII) | 2.8.2025 |
-| Hochrisiko-Systeme Anhang III | 2.8.2026 |
-| Hochrisiko-Systeme Anhang I (Sicherheitskomponenten) | 2.8.2027 |
-| Altsysteme (bereits in Betrieb vor 2.8.2026) | 2.8.2027 Übergangsfrist |
-
-### Ergänzende Rechtsquellen
-
-- **DSGVO Art. 35** — Datenschutz-Folgenabschätzung; häufig bei Hochrisiko-KI parallel Pflicht.
-- **NIS2UmsuCG** — bei KI in kritischer Infrastruktur Meldepflichten.
-- **Produktsicherheitsverordnung (EU) 2023/988** — für KI in Produkten.
-- **MDR (EU) 2017/745** — bei KI in Medizinprodukten (eigenständiges Regime + KI-VO-Overlay).
-
-## Anhang III — Hochrisiko-Klassifikation
-
-| Nr. | Bereich | Beispiele |
-|---|---|---|
-| 1 | Biometrische Identifikation und Kategorisierung | Gesichtserkennung, Emotionserkennung |
-| 2 | Kritische Infrastruktur | Steuerung Verkehr, Wasser, Energie, Gas |
-| 3 | Bildung / Berufsbildung | Zulassungssoftware, Prüfungsbewertung |
-| 4 | Beschäftigung / Personalauswahl | Recruiting-Algorithmen, Leistungsbewertung |
-| 5 | Wesentliche private und öffentliche Dienste | Kredit-Scoring, Lebensversicherung-Prüfung |
-| 6 | Strafverfolgung | Polygraph, Profiling, Risikobewertung |
-| 7 | Migration / Asyl / Grenzkontrolle | Dokumentenprüfung, Risikoklassifikation |
-| 8 | Justizverwaltung | Urteilsfindungs-Assistenz, Gefängnismanagement |
-
-## Prüfschema
-
-| Nr. | Prüfschritt | Norm | Kernfrage |
-|---|---|---|---|
-| 1 | Verbotene Praxis (Art. 5) | Art. 5 KI-VO | Manipulation, Social Scoring, Real-Time-Biometrie? |
-| 2 | Hochrisiko-Klassifikation Anhang III | Art. 6 i. V. m. Anhang III | Welcher Tatbestand — Unternummern 1–8? |
-| 3 | Art. 6 Abs. 3 Ausnahmen | Art. 6 Abs. 3 KI-VO | Nebenleistung ohne eigenständige Risikowirkung? |
-| 4 | Anbieter vs. Betreiber | Art. 3 Nr. 3/4 KI-VO | Pflichtenzuordnung |
-| 5 | Risikomanagementsystem | Art. 9 KI-VO | Dokumentiert, kontinuierlich, Lebenszyklusansatz? |
-| 6 | Datensatz-Governance | Art. 10 KI-VO | Training/Validierung/Test — Qualitätskriterien? |
-| 7 | Technische Dokumentation | Art. 11 + Anhang IV KI-VO | Anhang IV vollständig? |
-| 8 | Logging-Anforderungen | Art. 12 KI-VO | Automatische Aufzeichnung tätigkeitsspezifisch? |
-| 9 | Transparenz | Art. 13 KI-VO | Benutzerhandbuch vorhanden? |
-| 10 | Menschliche Aufsicht | Art. 14 KI-VO | Eingriffsmöglichkeit technisch implementiert? |
-| 11 | Robustheit / Cybersicherheit | Art. 15 KI-VO | Stresstest, Fehlerresilienz, CVSS-Bewertung? |
-| 12 | Konformitätsbewertungsverfahren | Art. 43 KI-VO | Interne Kontrolle (Anhang VI) oder Benannte Stelle (Anhang VII)? |
-| 13 | EU-Konformitätserklärung | Art. 47 + Anhang V KI-VO | Inhalt vollständig? |
-| 14 | CE-Kennzeichnung | Art. 48 KI-VO | Korrekte Anbringung? |
-| 15 | Registrierung EU-Datenbank | Art. 49 KI-VO | Eintragung erfolgt? |
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — KI-VO Hochrisiko-Konformitaetsbewertung | Konformitaetsbewertungs-Protokoll; Template unten |
-| Variante A — Kein Hochrisiko-System | Vereinfachtes Compliance-Register; CE-Kennzeichnung entfaellt |
-| Variante B — Inverkehrbringen durch Drittanbieter | Importeur/Haendler-Pflichten Art. 23 ff. KI-VO prüfen |
-| Variante C — Open-Source-KI | Ausnahmen Art. 2 Abs. 10 KI-VO prüfen |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Schriftsatzbausteine
-
-### EU-Konformitätserklärung (Musterstruktur, Art. 47 KI-VO)
-
-```
-EU-KONFORMITAETSERKLAERUNG
-gemaess Art. 47 der Verordnung (EU) 2024/1689 (KI-Verordnung)
-
-Nr.: [Erklaerungsnummer]
-Datum: [Ausstellungsdatum]
-
-1. Anbieter
- Name: [Unternehmen]
- Anschrift: [...]
- EU-Repraesentant (falls Nicht-EU): [...]
-
-2. Beschreibung des KI-Systems
- Bezeichnung: [Systemname]
- Modell-Nummer / Version: [...]
- Beabsichtigter Zweck: [Funktion, Sektor]
- Hochrisiko-Tatbestand Anhang III Nr. [X]: [Beschreibung]
-
-3. Erklaerung der Konformitaet
- Das oben beschriebene KI-System erfullt die Anforderungen der
- Verordnung (EU) 2024/1689, insbesondere:
- - Risikomanagementsystem Art. 9
- - Daten-Governance Art. 10
- - Technische Dokumentation Art. 11 (Anhang IV)
- - Logging Art. 12
- - Transparenz Art. 13
- - Menschliche Aufsicht Art. 14
- - Genauigkeit und Robustheit Art. 15
-
-4. Konformitaetsbewertungsverfahren
- [X] Interne Kontrolle gemaess Anhang VI
- [ ] Benannte Stelle: [Name, Nummer] gemaess Anhang VII
- Zertifikatsnummer (falls Benannte Stelle): [...]
-
-5. Harmonisierte Normen und technische Spezifikationen
- [ISO 42001, ISO 27001, ...]
-
-6. Unterzeichnung
- Ort, Datum: [...]
- Handlungsbevollmaechtigter: [Name, Funktion, Unterschrift]
-```
-
-### Anschreiben bei NCA-Anfrage (Marktüberwachung)
-
-```
-An: [Nationale Kompetenzbehoerde / Marktaufsichtsbehoerde]
-
-Betreff: KI-VO Hochrisiko-System [Systemname] —
- Antwort auf Auskunftsverlangen vom [Datum]
-
-I. Systemidentifikation
- [Name, Version, Anhang-III-Tatbestand]
-
-II. Konformitaetsstatus
- CE-Kennzeichnung erteilt am [Datum]. EU-Konformitaets-
- erklaerung liegt als Anlage bei. Technische Dokumentation
- (Anhang IV) auf Anforderung bereit.
-
-III. Risikomanagementsystem Art. 9
- [Beschreibung des Lebenszyklus-Risikomanagements;
- letzte Aktualisierung; verwendete Normen]
-
-IV. Nachmarkt-Monitoring Art. 72
- [Monitoring-Konzept; bisher aufgetretene Vorfaelle: keine /
- meldepflichtige Vorfaelle Art. 73: gemeldet am Datum]
-
-V. Kooperation
- Wir stehen für weitere Auskuenfte zur Verfuegung und
- benennen als Kontaktperson: [Name, E-Mail, Tel].
-
-Anlagen:
-- EU-Konformitaetserklaerung
-- Technische Dokumentation Zusammenfassung
-- Logging-Protokoll Auszug
-
-Mit freundlichen Gruessen
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
-## Beweislast und Darlegungslast
-
-| Frage | Last | Norm |
-|---|---|---|
-| Konformität mit KI-VO | Anbieter (Rechenschaftspflicht; Dokumentation) | Art. 16 lit. a KI-VO |
-| Fehlendes Qualitätsmanagementsystem | Aufsichtsbehörde (Bußgeldtatbestand) | Art. 99 KI-VO |
-| Hochrisiko-Klassifikation | Behörde — aber Anbieter muss Selbsteinstufung dokumentieren | Art. 6 KI-VO |
-| Robustheit / Sicherheitstest | Anbieter — Stresstest-Dokumentation erforderlich | Art. 15 KI-VO |
-| Schwerwiegender Vorfall Art. 73 | Anbieter — 15-Tage-Meldepflicht | Art. 73 KI-VO |
-
-## Fristen und Verjährung
-
-| Pflicht | Frist | Norm |
-|---|---|---|
-| Meldung schwere Vorfälle | 15 Tage nach Bekanntwerden | Art. 73 KI-VO |
-| Korrekturmaßnahmen bei Gefahr | Unverzüglich; Behörde unterrichten | Art. 20 KI-VO |
-| Registrierung EU-Datenbank | Vor Inverkehrbringen | Art. 49 KI-VO |
-| Aufbewahrung technische Dokumentation | 10 Jahre nach letztem Inverkehrbringen | Art. 18 KI-VO |
-| Aufbewahrung Logs | Mindestens 6 Monate (erweiterbar) | Art. 12 KI-VO |
-| Übergangsfrist Altsysteme | 2.8.2027 | Art. 113 Abs. 3 KI-VO |
-
-## Typische Gegenargumente und Reaktion
-
-| Einwand | Reaktion |
-|---|---|
-| System ist nur Hilfssystem — kein eigenständiger Entscheidungsprozess | Art. 6 Abs. 3 KI-VO: Ausnahme nur wenn tatsächlich keine eigenständige Risikowirkung; Beweislast beim Anbieter |
-| DSGVO-Folgenabschätzung reicht aus | Art. 35 DSGVO und Art. 9 KI-VO sind kumulativ; verschiedene Schutzgüter |
-| System noch in Entwicklung — KI-VO gilt nicht | Ab Inverkehrbringen oder Inbetriebnahme (Art. 3 Nr. 11); bei internem Einsatz Betreiberpflichten |
-| Benannte Stelle zu teuer | Pflicht nur bei Biometrie (Anhang III Nr. 1) und KRITIS (Anhang III Nr. 2); für die meisten Fälle interne Kontrolle Anhang VI ausreichend |
-| Kein Vorsatz — nur Fahrlässigkeit | Bußgelder Art. 99 KI-VO gelten auch fahrlässig; Bußgeld bis 15 Mio. EUR oder 3 % |
-
-## Bußgeldrahmen Art. 99 KI-VO
-
-| Verstoß | Bußgeld |
-|---|---|
-| Verbotene Praktiken Art. 5 | bis 35 Mio. EUR oder 7 % Weltjahresumsatz |
-| Hochrisiko-Pflichten Art. 9–15 | bis 15 Mio. EUR oder 3 % Weltjahresumsatz |
-| Falsche Auskünfte / Irreführung | bis 7,5 Mio. EUR oder 1,5 % Weltjahresumsatz |
-
-## Streitwert und Kosten
-
-- Konformitätsbewertung intern: Projektkosten 50.000–300.000 EUR (je Komplexität).
-- Benannte Stelle (Anhang VII): 20.000–100.000 EUR für Audit und Zertifizierung.
-- ISO-42001-Zertifizierung: 15.000–50.000 EUR.
-- Anwaltshonorar bei KI-VO-Compliance-Projekt: Zeithonorar 200–450 EUR/h.
-- RVG-Streitwert bei behördlichem Verfahren: analog Verwaltungsrecht GKG, 5.000–100.000 EUR.
-
-## Strategische Empfehlung
-
-| Situation | Empfehlung |
-|---|---|
-| Neuentwicklung Hochrisiko-System | Compliance ab Beginn einbauen (Privacy by Design, AI by Design); Technische Dokumentation parallel führen |
-| Altsystem — Übergangsfrist bis 2.8.2027 | Gap-Analyse sofort; Roadmap bis 07/2027 |
-| System nicht sicher Hochrisiko | Klassifikations-Analyse dokumentieren; bei Unsicherheit konservativ Hochrisiko annehmen |
-| GPAI-Modell (z. B. LLM-basiert) | Gesondertes Regime Art. 51 ff. KI-VO; Systemkarten-Anforderungen beachten |
-
-## Anschluss-Skills
-
-- `fachanwalt-it-recht-saas-vertrag-verhandlung` — KI-SaaS-Vertrag
-- `cyber-incident-response-72h` — bei KI-Sicherheitsvorfall
-- `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen` — IT-Sicherheitsvorfälle
-
-## Quellen und Updates
-
-- KI-VO (EU) 2024/1689, in Kraft 01.08.2024; Hochrisiko-Pflichten Anhang III ab 02.08.2026.
-- DSGVO Art. 35 (Datenschutz-Folgenabschätzung)
-- NIS2-Richtlinie (EU) 2022/2555
-- EU-KI-Office: ai-office.ec.europa.eu
-- ISO/IEC 42001 (KI-Managementsystem)
-- BSI KI-Leitfaden
-
-## Faktische Updates (Stand 05/2026)
-
-- **02.08.2026 — Hochrisiko Anhang III in Kraft:** Anbieter und Betreiber von Hochrisiko-KI-Systemen nach Anhang III müssen alle Pflichten des Kapitels III KI-VO erfuellen (Art. 113 lit. c KI-VO). Konformitaetsbewertung (Art. 43), CE-Kennzeichnung (Art. 48), EU-Datenbank-Registrierung (Art. 71) sind ab diesem Stichtag Voraussetzung für das Inverkehrbringen / die Inbetriebnahme.
-- **02.08.2027 — Hochrisiko Anhang I:** Verlaengerte Frist für KI als Sicherheitskomponente in Produkten der Anhang-I-Liste (Maschinen-VO, MDR, Spielzeug-RL etc.).
-- **Harmonisierte Normen:** CEN/CENELEC arbeitet an harmonisierten Normen (insb. ISO/IEC 42001 — KI-Managementsystem, ISO/IEC 23894 — Risikomanagement, ISO/IEC 24029 — Robustheit). Bei freiwilliger Anwendung Vermutung der Pflichtenkonformitaet (Art. 40 KI-VO). Live-Status der Veroeffentlichung prüfen.
-- **EU-AI-Office:** seit Beginn 2025 voll operativ; zuständig für GPAI-Modelle, Koordinierung mit nationalen Marktueberwachungsbehoerden, Best Practices.
-- **EU-Datenbank Art. 71:** Hochrisiko-KI-Datenbank (commercial, in beta) live prüfen über digital-strategy.ec.europa.eu.
-
-## Zentrale Normen (Paragrafenkette)
-
-- Art. 3 Nr. 1, Art. 6 Abs. 2 iVm Anhang III KI-VO — Hochrisiko-KI-System
-- Art. 9–15, 17–20 KI-VO — Pflichten des Anbieters (Hochrisiko)
-- Art. 26 KI-VO — Pflichten des Betreibers
-- Art. 43–49 KI-VO — Konformitätsbewertung; Konformitätserklärung; EU-Datenbankregistrierung
-- Art. 99 KI-VO — Sanktionen bis 35 Mio. EUR oder 7 % Konzernumsatz
-
-## Triage zu Beginn
-
-1. Liegt ein KI-System nach Art. 3 Nr. 1 KI-VO vor?
-2. Ist es in Anhang III (Hochrisiko) gelistet? (Biometrik, Infrastruktur, Bildung, Beschäftigung, Kreditbewilligung, Justiz)
-3. Mandanten-Rolle: Anbieter (Art. 16 ff.) oder Betreiber (Art. 26)?
-4. Zeitplan: Anwendbarkeit für diesen Hochrisiko-Bereich? (02.08.2026 oder 02.08.2027 Anhang I)
-
-## Output-Template — KI-VO-Hochrisiko-Konformitätsbewertung
-
-**Adressat:** Rechtsabteilung / Produktverantwortliche — Tonfall: sachlich-juristisch
-
-```
-KI-VO Hochrisiko-Konformitätsbewertung [DATUM]
-System: [SYSTEMNAME]
-Anbieter: [NAME] | Betreiber: [NAME]
-Anhang-III-Eintrag: Nr. [X] lit. [Y] — [BEZEICHNUNG]
-
-Anbieter-Pflichten-Status (Art. 16–20 KI-VO):
-| Pflicht | Norm | Status |
-|--------------------------------------|----------|------------|
-| Risikomanagement Art. 9 | | |
-| Daten-Governance Art. 10 | | |
-| Technische Dokumentation Art. 11 | | |
-| Aufzeichnungspflichten Art. 12 | | |
-| Transparenz/Betreiber-Info Art. 13 | | |
-| Menschliche Aufsicht Art. 14 | | |
-| Genauigkeit/Robustheit Art. 15 | | |
-
-Konformitätsbewertung (Art. 43): interne Bewertung / Drittpartei-Notifizierte Stelle
-CE-Kennzeichnung (Art. 48): abgeschlossen / ausstehend
-EU-Datenbankregistrierung (Art. 71): abgeschlossen / ausstehend
-
-Anwendbarkeitsdatum: [02.08.2026 / 02.08.2027]
-Sanktionsrisiko: Art. 99 KI-VO — bis 35 Mio. EUR / 7 %
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein Personalauswahlsystem aus Anhang III Nummer 4 ist grundsätzlich dem internen Kontrollverfahren zuzuordnen. Bei biometrischen Systemen hängt die Wahl vom Artikel-43-Absatz-1-Pfad ab. Eine lernende Maschinensteuerung benötigt zuerst die neue Abschnitt-B-Abgrenzung statt einer automatisch zusätzlichen Systemzertifizierung.

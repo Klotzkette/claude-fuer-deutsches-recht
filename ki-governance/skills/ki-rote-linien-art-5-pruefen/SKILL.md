@@ -1,50 +1,35 @@
 ---
 name: ki-rote-linien-art-5-pruefen
-description: "Für Verbotene digitale Werkzeuge Art. 5 prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft verbotene Systempraktiken anhand von Zweck, tatsächlicher Verwendung und Ausnahmen. Trennt bestehende Verbote von den neuen Inhaltsverboten ab Dezember 2026 und erstellt einen begründeten Stopp-, Änderungs- oder Freigabevermerk.
 ---
 
-# Verbotene KI Art. 5 prüfen
+# 1. Verbotene Praktiken gezielt prüfen
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn gestaffelt (02.02.2025 Verbote, 02.08.2025 GPAI, 02.08.2026 Hochrisiko Anhang III), schwerwiegender Vorfall 15 Tage, DSGVO DPIA vorab.
-- Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Bewerte ein konkretes Vorhaben vor Freigabe oder nach einem Vorfall. Die Verordnung (EU) 2026/1744 erweitert Artikel 5 der Verordnung (EU) 2024/1689. Eine Hochrisikoeinstufung oder Kennzeichnung legalisiert kein verbotenes Verhalten.
 
-## Spezialwissen: Verbotene KI Art. 5 prüfen
-- **Normen-/Quellenanker:** KI, Art. 5, VO.
+## 2. Eingaben
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Zweckbeschreibung, tatsächliche Nutzung, betroffene Personen, Beeinflussungsmechanismus, Anbieterfunktion, Einführungsdatum und vorhandene Schutzmaßnahmen aus der Akte lesen. Bei fehlenden Tatsachen eine bestimmte Funktion nachfragen, keine vollständige Modellarchitektur verlangen.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+## 3. Ablauf
 
-## Prüfraster
+1. Bisherige Verbote seit 2. Februar 2025 tatbestandsbezogen prüfen: Manipulation, Ausnutzung von Schutzbedürftigkeit, Social Scoring, bestimmte Straftatprognosen, ungezielter Aufbau von Gesichtserkennungsdatenbanken, bestimmte Emotionserkennung, sensible biometrische Kategorisierung und biometrische Echtzeit-Fernidentifizierung. Je Tatbestand Schutzgut, Schwelle, Zweck und Ausnahme belegen.
+2. Neue Artikel 5 Absatz 1 Unterabsatz 1 Buchstaben ba und bb sowie Absätze 1a und 1b ab 2. Dezember 2026: nicht einvernehmliches intimes Material über bestimmbare Personen und Darstellungen sexuellen Missbrauchs von Kindern gesondert prüfen.
+3. Anbieter: Ist die Erzeugung Zweckbestimmung oder ohne erhebliche technische Änderungen vernünftigerweise vorhersehbares reproduzierbares Ergebnis ohne angemessene Schutzvorkehrungen? Tatsächliche Prävention und Korrektur statt bloßem Vertragsverbot bewerten.
+4. Betreiber: konkrete zweckgerichtete Nutzung feststellen. Nicht jede Mehrzwecksoftware wegen abstrakter Missbrauchsmöglichkeit verbieten. Bei gesetzlich geregelten Rechtfertigungen deren Voraussetzungen und nationale Grundlage verifizieren.
+5. Zeitstand beachten: Vor dem neuen Anwendungsdatum andere Straf-, Persönlichkeits- und Jugendschutzregeln nicht als ausgesetzt darstellen. Keine verbotenen Darstellungen für eine Prüfung neu erzeugen.
+6. Wenn kein Verbot: Hochrisiko, Transparenz, Datenschutz und sonstige Fachpflichten anschließend prüfen. Ein negatives Artikel-5-Ergebnis ist keine umfassende Freigabe.
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+## 4. Quellenpflicht
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+[Rechtsstandkarte, Abschnitte 1.1 und 1.2](../../references/digitaler-omnibus-2026.md), [Zitierweise](../../references/zitierweise.md). Artikel 4a ist die Datenregel zur Verzerrungskorrektur, nicht der neue Deepfake-Tatbestand. Keine Urteile zur alten Fassung als Auslegung der neuen Verbote ausgeben.
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+## 5. Ausgabeformat
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+Ausformulierter Vermerk mit bestimmter Funktion, Tatbestand, Gegenargument, Beleglücke, Änderungsoption und Freigabegrenze. Kein bloßes Rot-Grün-Raster. Times New Roman 11 pt, dezimale Gliederung; bei Textausgabe Exporthinweis. Abschaltung, Meldung und Veröffentlichung bedürfen gesonderter Freigabe.
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+## 6. Beispiele
+
+Bei synthetischer Werbung erst Einwilligung und konkreten Inhalt prüfen; eine allgemeine Kennzeichnung ist keine Heilung. Bei einer behaupteten Strafverfolgungsausnahme müssen Zweck, Befugnis und Voraussetzungen anhand der konkreten Rechtsgrundlage feststehen.

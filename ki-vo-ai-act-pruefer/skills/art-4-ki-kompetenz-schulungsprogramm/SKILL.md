@@ -1,35 +1,42 @@
 ---
 name: art-4-ki-kompetenz-schulungsprogramm
-description: "Für Art. 4 europäischer Technikregulierungsrahmen — digitale Werkzeuge-Kompetenz als Compliance-Programm: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Erstellt angemessene Kompetenzförderung nach Artikel 4 neuer Fassung für konkrete Rollen und eingesetzte Systeme. Verwertet vorhandene Einweisungen und trennt Fördermaßnahmen von Zertifikatspflichten und menschlicher Hochrisikoaufsicht.
 ---
 
-# Art. 4 KI-VO — KI-Kompetenz als Compliance-Programm
+# 1. Kompetenz fördern und Maßnahmen belegen
 
-## Normanker
+## 1. Zweck und Anwendungsfall
 
-- Art. 4 KI-VO: Anbieter und Betreiber müssen KI-Kompetenz sicherstellen.
-- Art. 3 Nr. 1, 3, 4, 63 KI-VO: KI-System, Anbieter, Betreiber, GPAI.
-- Art. 6, Art. 26, Art. 27, Art. 50 KI-VO: Folgepflichten je nach Einsatz.
-- DSGVO, Geheimnisschutz, Urheberrecht und Berufsrecht nur als Schnittstellen markieren, nicht vermischen.
+Übersetze ein vorhandenes Systeminventar in passende Fördermaßnahmen. Seit 27. Juli 2026 verlangt Artikel 4 der Verordnung (EU) 2024/1689 Maßnahmen zur Unterstützung der Kompetenzentwicklung. Ein bestimmtes Kompetenzniveau jedes Einzelnen ist nicht zu garantieren. Die Maßnahmenpflicht ist aber nicht abgeschafft.
 
-## Intake
+## 2. Eingaben
 
-Frage knapp:
+Nutze Einweisungen, Rollenbeschreibungen, Vorfälle und Freigaberegeln. Erhebe nur die fehlende Verbindung zwischen einem konkreten Einsatz und den handelnden Personen. Keine vollständige Personalbefragung, wenn die betroffenen Rollen bereits dokumentiert sind.
 
-1. Welche KI-Werkzeuge werden genutzt: freier Chatbot, Enterprise-Chat, Fachsoftware, Recruiting, Kredit, Medizin, Justiz, Verwaltung, Entwickler-Tool?
-2. Wer nutzt sie: Vorstand, Legal, HR, Vertrieb, Produkt, IT, Support, Auszubildende, Externe?
-3. Gibt es Anhang-III-Naehe: Personal, Bildung, Kredit, Justiz, Migration, Strafverfolgung, kritische Infrastruktur, Biometrie?
-4. Welche Daten dürfen hinein und welche nie: personenbezogene Daten, Mandatsgeheimnisse, Betriebsgeheimnisse, Quellcode, Gesundheitsdaten?
-5. Welche Nachweise existieren: Policy, Teilnahmeprotokoll, Rollenkonzept, Test, Freigabe, Incident-Log?
+## 3. Ablauf
 
-## Kompetenzmatrix
+1. Tatsächliche Aufgabe bestimmen: Wer formuliert, prüft, entscheidet oder gibt nach außen frei? Vorwissen, Erfahrung, Ausbildung, Einsatzkontext und betroffene Personengruppen erfassen.
+2. Wahrscheinlichen Fehlgriff benennen: ungeprüfte Fundstelle, übernommenes Ranking, offengelegte Kundendaten, fehlender Veröffentlichungshinweis oder unsichere technische Freigabe.
+3. Vorhandene Maßnahmen anrechnen. Arbeitsanweisung, begleitete Anwendung, kurze Fachübung, Ansprechpartner oder gezielte Fortbildung nach konkreter Lücke auswählen.
+4. Zuständigen, Zeitpunkt und Material festhalten. Eine Teilnahmeurkunde allein beweist weder Aufsichtsfähigkeit noch Rechtskonformität; ein fehlendes Zertifikat allein beweist keinen Verstoß gegen Artikel 4.
+5. Menschliche Hochrisikoaufsicht separat nach Artikel 26 Absatz 2 prüfen: Kompetenz, Ausbildung, Befugnisse und Unterstützung. Eigener Anwendungsbeginn und andere Berufs- oder Arbeitsschutzpflichten bleiben bestehen.
+6. Wiederholung bei relevantem Einsatzwechsel, beobachteter Lücke oder Rechtsänderung festlegen. Kein gesetzliches jährliches Pflichtseminar erfinden.
 
-Erzeuge eine Tabelle:
+| Rolle | Konkrete Übung | Angemessener Nachweis |
+| --- | --- | --- |
+| Personalabteilung | Nachteiliges Ranking an Tatsachen und Entscheidungsbefugnis prüfen | Bearbeiteter Fall und Eskalationsweg |
+| Rechtsabteilung | Nicht belegbare Fundstelle verwerfen und Originalquelle sichern | Quellenvermerk und Freigabeweg |
+| Marketing | Anbieterkennzeichnung und Betreiberhinweis auseinanderhalten | Geprüftes Veröffentlichungsbeispiel |
+| Technische Aufsicht | Riskante Ausgabe erkennen und kontrolliert stoppen | Autorisierung, Einweisung und verfügbarer Support |
 
-| Rolle | Mindestwissen | Verbotene Nutzung | Pflichtskills | Nachweis |
-|---|---|---|---|---|
-| Geschäftsleitung | Haftungs- und Risikoklassenlogik, Budget, Governance | Blindfreigabe ohne Verantwortliche | Art. 3/6/99, Incident-Eskalation | Beschluss, Schulungszertifikat |
-| Legal/Compliance | Rechtsrahmen, Quellencheck, Beweisakte | ungeprüfte Fundstellen, falsche Konformitätsaussagen | Evidence-Pack, Vendor-DD | Prüfvermerk |
-| HR | Anhang III Beschäftigung, Diskriminierung, Mitbestimmung | Ranking/Screening ohne Zweckfreigabe | HR-Hochrisiko, Bias, Art. 22 DSGVO | Betriebsrats- und DPIA-Akte |
-| IT/Security | Logging, Zugriff, Cyber, Modellgrenzen | offene API ohne Mandantentrennung | Art. 12/15, Security-Gate | Architektur- und Lognachweis |
-| Fachabteilung | zulässige Prompts, Freigabegrenzen | Shadow-AI, personenbezogene Daten in Consumer-Tools | Use-Case-Check | Kurztest, Prompt-Policy |
+## 4. Quellenpflicht
+
+[Rechtsstandkarte, Abschnitt 1.2](../../references/digitaler-omnibus-2026.md): Artikel 4 in der Fassung der Verordnung (EU) 2026/1744. Artikel 3 Nummer 56 definiert Kompetenz. Leitlinien sind Hilfen, keine zusätzliche Zertifikatspflicht. [Zitierweise](../../references/zitierweise.md).
+
+## 5. Ausgabeformat
+
+Ausformulierter betriebsbezogener Maßnahmenplan mit Rollentabelle. Förderpflicht, freiwillige Organisationsentscheidung und gesonderte Fachpflicht klar beschriften. Keine leeren Schulungsraster. Times New Roman 11 pt, dezimale Gliederung; bei Textausgabe Exporthinweis. Keine personenbezogene Leistungsbewertung ohne Auftrag.
+
+## 6. Beispiele
+
+Ein kleines Büro kann eine passende Einweisung und Quellenkontrolle weiterverwenden. Bei einem Hochrisikosystem mit Eingriffsbefugnissen genügt dagegen ein allgemeiner Teilnahmezettel nicht zum Nachweis der erforderlichen menschlichen Aufsicht.

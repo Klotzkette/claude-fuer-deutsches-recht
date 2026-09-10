@@ -76,7 +76,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Art. 5 KI-VO — verbotene Praktiken (absolut ab 02.02.2025)
+- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
 - Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz

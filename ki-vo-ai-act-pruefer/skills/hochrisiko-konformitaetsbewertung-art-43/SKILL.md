@@ -1,115 +1,38 @@
 ---
 name: hochrisiko-konformitaetsbewertung-art-43
-description: "Für Konformitätsbewertung — Art. 43 bis 49 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Bestimmt den zutreffenden Konformitätsbewertungsweg für Hochrisikosysteme. Trennt interne Kontrolle, notifizierte Stelle und produktrechtliche Verfahren und erstellt eine konkrete Nachweis- und Freigabeakte mit aktuellem Anwendungsdatum.
 ---
 
-# Konformitätsbewertung — Art. 43 bis 49 KI-VO
+# 1. Konformitätsbewertung nach Artikel 43
 
-## Entscheidungsbaum — Selbstbewertung oder benannte Stelle?
+## 1. Zweck und Anwendungsfall
 
-### Schritt 1 — Anhang-I-Systeme oder Anhang-III-Systeme?
+Lege den gesetzlichen Bewertungsweg fest, bevor eine Zertifizierung beauftragt oder eine Konformitätserklärung erstellt wird. Grundlage ist die Verordnung (EU) 2024/1689 in der Fassung 2026/1744. Kein pauschales Wahlrecht und keine pauschale Pflicht zur Drittprüfung für sämtliche Systeme behaupten.
 
-**Anhang-I-Systeme (Art. 6 Abs. 1 KI-VO):** KI-Systeme als Sicherheitsbauteil in Produkten, die unter Anhang-I-Sektorrecht fallen.
+## 2. Eingaben
 
-Für diese Systeme richtet sich das Konformitätsbewertungsverfahren nach dem jeweiligen Sektorrecht (z.B. MDR, Maschinenverordnung). Wenn das Sektorrecht eine Konformitätsbewertung durch Dritte vorschreibt, gilt diese auch für das KI-System. In diesem Fall ist die Einbindung einer benannten Stelle obligatorisch.
+Zweckbestimmung, Produktregime, Risikoeinstufung, Systemversion, bestehende Konformitätserklärung, Normenliste und Änderungsbeschreibung lesen. Fehlt nur eine Normabdeckung, diese konkret anfordern; das restliche Dossier weiterbearbeiten.
 
-**Anhang-III-Systeme (Art. 6 Abs. 2 KI-VO):** KI-Systeme, die in einem der acht Hochrisiko-Bereiche des Anhangs III tätig sind.
+## 3. Ablauf
 
-→ weiter zu Schritt 2.
+1. Artikel 6 Absatz 1 gegenüber Absatz 2 und den jeweiligen Anhängen abgrenzen. Neue Absätze 1a bis 1c einbeziehen: reine Komfort- oder Optimierungsfunktion ohne Sicherheitsbezug reicht nicht; ein gesundheits- oder sicherheitsgefährdender Ausfall spricht dagegen. Drittprüfung ausschließlich wegen anderer Risiken erfüllt Absatz 1 Buchstabe b nicht.
+2. Artikel 113 prüfen: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 bei Anhang III ab 2. Dezember 2027, bei Anhang I ab 2. August 2028. Artikel 111 für Bestand und erhebliche Konzeptionsänderung daneben anwenden. Früher geltendes Produktrecht bleibt bestehen.
+3. Anhang III Nummer 1: Nach Artikel 43 Absatz 1 interne Kontrolle nach Anhang VI oder Prüfung des Qualitätsmanagementsystems und der technischen Dokumentation unter Beteiligung einer notifizierten Stelle nach Anhang VII. Die Wahl setzt die dort verlangte Anwendung harmonisierter Normen oder gemeinsamer Spezifikationen voraus. Bei deren Fehlen, Nichtanwendung oder nur teilweiser Anwendung sowie einschlägiger Beschränkung der Normveröffentlichung den vorgeschriebenen Anhang-VII-Weg prüfen. Auch biometrische Fernidentifikation verlangt nicht ausnahmslos eine Drittprüfung.
+4. Anhang III Nummern 2 bis 8: grundsätzlich interne Kontrolle nach Anhang VI gemäß Artikel 43 Absatz 2 ohne notifizierte Stelle. Das ist kein von vollständiger Normabdeckung abhängiges allgemeines Wahlrecht. Einen späteren delegierten Rechtsakt nach Absatz 6 nur mit belegter Geltung berücksichtigen.
+5. Anhang I Abschnitt A: einschlägiges Produktverfahren nach Artikel 43 Absatz 3 neuer Fassung mit integrierten Systemanforderungen und Qualitätsmanagement. Eine verfügbare produktrechtliche Verfahrenswahl wird durch die Hochrisikoeinstufung nicht automatisch beseitigt. Notifizierte Stelle, wenn der konkrete Weg sie verlangt.
+6. Maschinen gesondert: Die Verordnung (EU) 2023/1230 steht nun in Anhang I Abschnitt B. Artikel 2 Absatz 2 und das geänderte Maschinenrecht prüfen; nicht den alten Abschnitt-A-Pfad weiterverwenden. Medizinprodukte oder andere Produkte deshalb nicht ebenfalls nach Abschnitt B verschieben.
+7. Wesentliche Änderung nach Artikel 43 Absatz 4 von vorab bestimmtem, dokumentiertem Weiterlernen unterscheiden. Neue Version, geänderte Zweckbestimmung und Risiken auf die ursprüngliche Prüfung zurückführen.
+8. Nachweise abschließen: technische Dokumentation nach Anhang IV, anwendbarer Bewertungsnachweis, EU-Konformitätserklärung nach Artikel 47 und Anhang V, CE-Kennzeichnung nach Artikel 48 sowie Registrierung nach Artikel 49 mit dessen Ausnahmen. Anhänge IX und X sind nicht die gesetzlichen Alternativen zu Anhang VI und VII.
+9. Digital angebotene Systeme erhalten die nach Artikel 48 Absatz 2 vorgesehene digitale Kennzeichnung. Erklärung und Versionsstand zusammenhalten; technische Dokumentation nicht pauschal öffentlich veröffentlichen. Vertrauliche beziehungsweise besonders geschützte Registrierungsbereiche gesondert prüfen.
 
-### Schritt 2 — Biometrische Fernidentifikation?
+## 4. Quellenpflicht
 
-Wenn das Hochrisiko-KI-System zur biometrischen Fernidentifikation von Personen verwendet wird:
-- **Verpflichtend: Konformitätsbewertung durch benannte Stelle (Modul H)** — keine Selbstbewertung möglich (Art. 43 Abs. 1 lit. a KI-VO)
+[Rechtsstandkarte](../../references/digitaler-omnibus-2026.md), Artikel 2, 6, 43 bis 49, 111 und 113 sowie Anhänge I und IV bis VIII. Normenstatus anhand der amtlichen Veröffentlichung prüfen, nicht anhand einer bloßen Herstellerbehauptung. Ein Zertifikat außerhalb des gesetzlichen Verfahrens ersetzt keine gesetzliche Konformitätsbewertung.
 
-→ weiter zu Modul H.
+## 5. Ausgabeformat
 
-### Schritt 3 — Alle anderen Anhang-III-Systeme
+Ausformulierter Verfahrensvermerk mit konkretem System, Rechtsregime, Normabdeckung, erforderlicher Stelle, fehlendem Nachweis und Freigabedatum. Ergänzend eine kompakte Dossierliste mit vorhandenen Dokumentversionen. Keine Konformität ohne Prüfung bescheinigen. Times New Roman 11 pt, dezimale Gliederung; ohne Export vollständigen Text statt angeblicher Datei liefern.
 
-Für alle anderen Hochrisiko-KI-Systeme aus Anhang III besteht eine Wahlmöglichkeit:
+## 6. Beispiele
 
-**Option A — Selbstbewertung (Modul A nach Art. 43 Abs. 2 KI-VO)**
-- Der Anbieter bewertet das System selbst anhand der in Art. 9 bis 15 KI-VO und Anhang IV festgelegten Anforderungen
-- Interne Kontrolle der technischen Dokumentation
-- Erstellung der EU-Konformitätserklärung
-- CE-Kennzeichnung
-
-**Voraussetzung:** Das System muss vollständig mit harmonisierten Normen (Art. 40 KI-VO) oder gemeinsamen Spezifikationen (Art. 41 KI-VO) konform sein.
-
-**Option B — Konformitätsbewertung durch benannte Stelle (Modul H)**
-- Vollständiges Qualitätsmanagementsystem (QMS) nach Anhang IX KI-VO
-- Oder Bewertung der technischen Dokumentation durch benannte Stelle nach Anhang X KI-VO
-- Benannte Stelle prüft, ob die Anforderungen erfüllt sind, und stellt eine Bescheinigung aus
-- Anbieter erstellt EU-Konformitätserklärung und bringt CE-Kennzeichnung an
-
-**Prüffragen:**
-- Liegt für alle wesentlichen Anforderungen eine vollständige Abdeckung durch harmonisierte Normen vor?
-- Hat der Anbieter ausreichende interne Kapazitäten für eine belastbare Selbstbewertung?
-- Fordern Vertragspartner oder Kunden eine unabhängige Zertifizierung?
-
-## EU-Konformitätserklärung (Art. 47 KI-VO / Anhang V KI-VO)
-
-Nach erfolgter Konformitätsbewertung muss der Anbieter eine EU-Konformitätserklärung ausstellen. Diese enthält:
-- Name und Anschrift des Anbieters
-- Name und Nummer der benannten Stelle (falls zutreffend)
-- Bezeichnung des KI-Systems
-- Erklärung, dass das System den Anforderungen der KI-VO entspricht
-- Verweis auf angewandte harmonisierte Normen oder gemeinsame Spezifikationen
-- Ort und Datum der Ausstellung
-- Unterschrift
-
-Die EU-Konformitätserklärung wird zehn Jahre aufbewahrt.
-
-## CE-Kennzeichnung (Art. 48 KI-VO)
-
-Nach ausgestellter Konformitätserklärung ist am Hochrisiko-KI-System die CE-Kennzeichnung anzubringen. Bei rein digital bereitgestellten Systemen ist die CE-Kennzeichnung in der Benutzeroberfläche oder Begleitdokumentation anzubringen. Die Kennzeichnung muss gut sichtbar, lesbar und dauerhaft sein.
-
-## Registrierung in der EU-Datenbank (Art. 49 und 71 KI-VO)
-
-→ Detailskill: `eu-datenbank-registrierung-art-49-und-71`
-
-Kurzüberblick:
-- Anbieter registrieren vor Inverkehrbringen
-- Betreiber (öffentliche Stellen) registrieren vor Nutzung
-- Inhalte nach Anhang VIII KI-VO
-- Datenbank ist öffentlich zugänglich (soweit nicht als vertraulich eingestuft)
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Art. 5 KI-VO — verbotene Praktiken (absolut ab 02.02.2025)
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — HOCHRISIKO KONFORMITAETSBEWERTUNG ART 43 BIS 49
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 43 Rn. 3]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein Personalauswahlsystem aus Anhang III Nummer 4 ist grundsätzlich dem internen Kontrollverfahren zuzuordnen. Bei biometrischen Systemen hängt die Wahl vom Artikel-43-Absatz-1-Pfad ab. Eine lernende Maschinensteuerung benötigt zuerst die neue Abschnitt-B-Abgrenzung statt einer automatisch zusätzlichen Systemzertifizierung.

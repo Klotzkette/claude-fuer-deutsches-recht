@@ -23,7 +23,7 @@ Hochrisiko-KI-Systeme in Robotern (Anhang III der KI-VO, z. B. Sicherheitskompon
 
 ## Rechtlicher Rahmen
 
-- **Art. 15 KI-VO** Genauigkeit, Robustheit, Cybersicherheit; Geltung für Hochrisiko-KI ab 02.08.2026 (Art. 113 KI-VO).
+- **Art. 15 KI-VO** Genauigkeit, Robustheit, Cybersicherheit; Geltung im jeweiligen Kapitel-III-Pfad nach Artikel 113: Anhang III ab 02.12.2027, Anhang I ab 02.08.2028. Maschinen nun Anhang I Abschnitt B, Artikel 2 Absatz 2 und Maschinenrecht zuerst prüfen.
 - **Art. 9 KI-VO** Risikomanagementsystem; Art. 10 KI-VO Daten-Governance.
 - **MaschinenVO** VO (EU) 2023/1230, Anhang III Nr. 1.1.6 Ergonomie und sichere Steuerung, Nr. 1.2 Steuerungssysteme; Geltung ab 20.01.2027.
 - **CRA** VO (EU) 2024/2847 Hauptpflichten ab 11.12.2027, Schwachstellen-Meldepflichten ab 11.09.2026; Robotik regelmäßig "Produkt mit digitalen Elementen".

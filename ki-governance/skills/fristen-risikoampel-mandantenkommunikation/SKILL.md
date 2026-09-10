@@ -37,7 +37,7 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **ki-governance
 - **Datenpanne**: Art. 33 Abs. 1 DSGVO – Meldung an die Aufsichtsbehörde binnen **72 Stunden** ab Kenntnis.
 - **Betroffenenbenachrichtigung**: Art. 34 DSGVO – unverzüglich bei hohem Risiko.
 - **KI-VO-Vorfall (Hochrisiko)**: Art. 73 KI-VO – Meldung an Marktüberwachungsbehörde innerhalb von 15 Tagen, bei schwerwiegenden Vorfällen oder breit angelegten Verstößen innerhalb von 2 Tagen, bei Tod sofort.
-- **Geltungsbeginn KI-VO**: Art. 5 (Verbote) seit 02.02.2025, Art. 51 ff. (GPAI) seit 02.08.2025, Art. 6 ff. (Hochrisiko) ab 02.08.2026.
+- **Geltungsbeginn KI-VO**: Art. 5 (Verbote) seit 02.02.2025, Art. 51 ff. (GPAI) seit 02.08.2025, Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 bei Anhang III ab 02.12.2027 und Anhang I ab 02.08.2028 nach Artikel 113 neuer Fassung.
 
 ## Ampelkriterien
 - **Rot**: laufende Frist < 72h, Aufsichtsbehörde involviert, mögliche Verbotene-Praktik-Lage (Art. 5 KI-VO), § 203 StGB-Berührung.

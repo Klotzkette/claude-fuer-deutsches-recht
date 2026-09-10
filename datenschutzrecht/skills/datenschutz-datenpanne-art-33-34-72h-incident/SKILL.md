@@ -5,6 +5,8 @@ description: "Für Datenschutz Datenpanne — 72 Stunden Incident Response nach 
 
 # Datenschutz Datenpanne — 72 Stunden Incident Response nach Art. 33 und 34 DSGVO
 
+Rechtsstand 10. September 2026: COM(2025) 837, Verfahren 2025/0360(COD), ist noch ein Gesetzgebungsvorschlag. Die vorgeschlagenen 96 Stunden und eine erhöhte Meldeschwelle sind kein geltendes Recht. Artikel 33 verlangt bei meldepflichtigen Verletzungen unverzügliche Meldung, möglichst binnen 72 Stunden ab Kenntnis. Artikel 34 betrifft gesondert hohes Risiko. Nicht auf vollständige Aufklärung oder Akteneinsicht warten: tragfähige Erstmeldung mit kenntlich unvollständigen Angaben nach Artikel 33 Absatz 4 zur rechtzeitigen Freigabe vorbereiten. Pflichtmeldung und freiwillige Verteidigungsstellungnahme trennen; keine ungeprüften Schuldanerkenntnisse. Eine Meldung an die Bundesnetzagentur ersetzt die Datenschutzmeldung nicht. [Amtlicher Reformstand und Zuständigkeit](../../references/digitaler-omnibus-2026.md).
+
 ## Zweck
 
 Führt durch den Akutfall einer Datenpanne. Ziel ist die fristwahrende und zugleich bussgeldminimierende Meldung an die Aufsichtsbehoerde nach Art. 33 DSGVO und — falls erforderlich — die Benachrichtigung der Betroffenen nach Art. 34 DSGVO, ohne durch vorschnelle Selbstbelastung das Bussgeldrisiko nach Art. 83 DSGVO zu erhoehen.

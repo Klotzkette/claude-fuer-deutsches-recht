@@ -1,79 +1,45 @@
-# Fachanwalt IT Recht — Schnellstart
+# 1. IT-Recht: Schnellstart
 
-Wenn du das hier öffnest, willst du einen IT- oder Softwarevertrag prüfen und Leistungspflichten sowie Haftung sauber fassen.
+Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Leistungsmodell und Pflichtenheft routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-Kernauftrag: Plugin Fachanwalt für Informationstechnologierecht. SaaS Software-Lizenz Datenschutz-Grundverordnung BDSG TTDSG TKG NIS2 DDG DSA DMA EU-Regulierungsrahmen Open-Source. Schnittstellen Plugin datenschutzrecht ki-governance kanzlei-allgemein. Vorrang hat das verlangte Arbeitsprodukt.
+Bearbeite den konkreten Softwarevertrag, Projektkonflikt, Datenvorfall oder System-Rollout. Lies Vertrag, Leistungsbeschreibung, Änderungsstand und tragende Korrespondenz zuerst. Kein Komplettaudit vor einem bestimmten Entwurf. Rechtsstand: 10. September 2026.
 
-## 1. Sofortstart nach Eingangslage
+## 1. Vertragsproblem bestimmen
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Leistungsmodell, Pflichtenheft, Störung wählen; ohne konkreten Auftrag mit Leistungsmodell beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Vertragstyp und geschuldete Funktion klären; Erfolg, Tätigkeit, Überlassung und laufenden Betrieb unterscheiden. Abnahme, Mängelrechte, Mitwirkung, Leistungsänderungen, Haftung, Rechtekette und Exit anhand der konkreten Vereinbarung prüfen. Fehlende Anhänge gezielt anfordern. Tatsächlichen Projektfortschritt nicht mit Rechnungsstand verwechseln.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Leistungsmodell, Pflichtenheft, Störung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 2. Daten- und Sicherheitsweg
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Auftragsverarbeitung, eigene Zwecke, Unterauftragnehmer, Fernzugriff, Löschung, Export und Trainingsrechte zuordnen. Sicherheitsanforderungen müssen überprüfbar sein. Bei Vorfällen zuerst Fristen und Beweissicherung: Artikel 33 verlangt unverzügliche Meldung, möglichst binnen 72 Stunden, wenn meldepflichtig. COM(2025) 837, Verfahren 2025/0360(COD), bleibt Vorschlag; keine 96 Stunden anwenden.
 
-## 2. Fachlicher Direktstart
+Eine vorgeschlagene Erleichterung bei Verzeichnissen oder Training ist kein geltender Vertragsfreibrief. Pseudonymisierung allein beseitigt keinen Personenbezug.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Vertragstypen prägen die Leistung.
-2. Kernprüfung in einem Durchgang: Welche Spezifikation ist messbar und abnahmefähig; Welche Mitwirkung hat gefehlt oder war verzugsrelevant.
-3. Belege und Engpass zusammenführen: Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung; besonders kritisch ist: Produktivsystem, Datenzugriff oder Sicherheitsvorfall ist akut betroffen.
-4. Erstes Arbeitsprodukt liefern: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll, Exit-Plan oder Projektmemo erstellen.
+## 3. Systemrolle und aktueller Hochrisikopfad
 
-## 3. Kernroute
+Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Zweckbestimmung, Anbieter, Betreiber und Rollenwechsel nach Artikel 25 prüfen. Ein Betreiber benötigt nicht automatisch eine eigene Anbieter-Konformitätserklärung.
 
-1. Leistungsmodell: Kauf, Miete, Werk, Dienst, SaaS, Cloud oder Mischvertrag einordnen.
-2. Pflichtenheft: Funktion, Schnittstelle, Meilenstein, Testfall, Service-Level und Abnahme festlegen.
-3. Störung: Mangel, Verzug, Change Request, Mitwirkungsdefizit und Eskalationsmechanik trennen.
-4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Löschung prüfen.
-5. Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll, Exit-Plan oder Projektmemo erstellen.
+Artikel 113 verschiebt Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: Anhang III ab 2. Dezember 2027, Anhang I ab 2. August 2028. Artikel 111 für Bestand und erhebliche Änderungen ergänzen. Produktpflichten, Transparenz und Datenschutz nicht pauschal verschieben.
 
-## 4. Fallkarte
+Artikel 43: bei Anhang III Nummer 1 interne Kontrolle oder notifizierte Stelle unter den dortigen Bedingungen; Nummern 2 bis 8 grundsätzlich interne Kontrolle. Keine pauschale Drittprüfung für kritische Infrastruktur. Maschinen nun Anhang I Abschnitt B, Artikel 2 Absatz 2 und Maschinenrecht zuerst prüfen. Andere Produktregime getrennt halten.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 327; BGB Paragraf 327e; BGB Paragraf 433 |
-| Rechtsprechung | EuGH, Urteil vom 03.07.2012 - C-128/11; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 |
-| Tatbestand | Kauf, Miete, Werk, Dienst, SaaS, Cloud oder Mischvertrag einordnen |
-| Beweislast | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung |
-| Rechtsfolge | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 4. Vertragsklauseln an neue Regeln anpassen
 
-## 5. Einsatzfelder
+Artikel 4 verlangt Kompetenzförderung ohne individuelle Niveaugarantie. Einweisung nach Rolle und tatsächlichem Kenntnisbedarf vereinbaren; keine gesetzliche Zertifikatspflicht behaupten.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Leistungsmodell | Kauf, Miete, Werk, Dienst, SaaS, Cloud oder Mischvertrag einordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichtenheft | Funktion, Schnittstelle, Meilenstein, Testfall, Service-Level und Abnahme festlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Störung | Mangel, Verzug, Change Request, Mitwirkungsdefizit und Eskalationsmechanik trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechte und Daten | Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Löschung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll, Exit-Plan oder Projektmemo erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Artikel 4a betrifft sensible Daten für Bias-Korrektur, nicht Deepfakes. Absatz und zusätzliche Voraussetzungen, strikte Notwendigkeit, Alternativen, geschützte dokumentierte Zugriffe, keine Weitergabe und früheste Löschung nachweisen. Allgemeine Modellverbesserung ist kein gleicher Zweck.
 
-## 6. Anker
+Artikel 50 Absatz 2 verlangt technische Anbieterkennzeichnung, Absatz 4 Betreiberhinweise. Grundsätzlich seit 2. August 2026; nur Altanbieter vor diesem Datum vermarkteter Systeme erhalten nach Artikel 111 Absatz 4 bis 2. Dezember 2026 für Absatz 2 Zeit. Neue Verbote bestimmter intimer Inhalte und Missbrauchsdarstellungen nach Artikel 5 Buchstaben ba und bb gesondert ab 2. Dezember 2026 prüfen.
 
-- BGB Paragraf 327: Verbraucherverträge über digitale Produkte.
-- BGB Paragraf 327e: Vertragsmäßigkeit digitaler Produkte.
-- BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
-- BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
-- Art. 5 Abs. 2 Datenschutz-Grundverordnung Rechenschaftspflicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 32 Datenschutz-Grundverordnung angemessene Sicherheitsmaßnahmen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 33 Abs. 5 Datenschutz-Grundverordnung Dokumentationspflicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 26 BDSG Mitarbeiterdatenverarbeitung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
-- BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
+## 5. Aufsicht, Nachweise und Abhilfe
 
-## 7. Antwortform
+KI-MIG seit 29. Juli 2026: Bundesnetzagentur Auffangbehörde, Ausnahmen nach Paragraf 2; Produkt-, Finanz- und Länderaufsicht sowie EU-Sonderaufsicht prüfen. Datenschutzaufsicht bleibt daneben. Nachweiszugang, Lieferantenmitwirkung, Änderungsinformation und Vorfallwege im Vertrag konkret regeln.
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag.
-7.2. Norm: BGB Paragraf 327; BGB Paragraf 327e mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Leistungsmodell“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Spezifikation ist messbar und abnahmefähig.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Leistungsmodell“. Frist, Kernlücke und nächstem Dokument benennen.
+Liefere Redline oder fertigen Text mit Aktenbeleg, tragender Norm, Gegenargument und durchsetzbarer Abhilfe. Keine pauschalen Marktpreise, Zertifizierungskosten oder Vertragsstrafen erfinden. Freigabe und Versand bleiben beim zuständigen Anwalt.
 
-## 8. Stop
+## 6. Quellen und Form
 
-Nur bei diesem Stop-Punkt unterbrechen: Produktivsystem, Datenzugriff oder Sicherheitsvorfall ist akut betroffen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+[Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html), [Datenschutz-Reformverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29). Passende Vertragsrechtsprechung am Streitpunkt verifizieren, nicht ältere Datenschutzurteile als Auslegung des neuen Artikels 4a einsetzen. Vollständige Sätze, dezimale Gliederung, Times New Roman 11 pt.
+
+## 7. Freigabestopp ohne Bearbeitungsstillstand
+
+Stoppe eine unbelegte Konformitätserklärung oder uneingeschränkte Vertragsfreigabe. Belastbare Klauseln, konkrete Nachforderungen und einen bedingten Freigabevermerk liefern; keine pauschale Zertifizierung als Ersatz für die fehlende Einordnung verlangen.

@@ -1,320 +1,41 @@
 ---
 name: ki-verordnung-compliance
-description: "Für digitale Werkzeuge-Verordnung — Compliance-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Verbindet die Verordnung EU 2024/1689 mit der Datenschutzprüfung eines konkreten Systems. Trennt Rollen, Risikoklasse, neue Fristen, sensible Daten nach Artikel 4a und deutsche Aufsicht, ohne Reformvorschläge als geltendes Datenschutzrecht auszugeben.
 ---
 
-# KI-Verordnung — Compliance-Prüfung
+# 1. Systemregulierung und Datenschutz zusammen prüfen
 
-## Eingaben
+## 1. Zweck und Anwendungsfall
 
-- Beschreibung des KI-Systems oder Modells (Zweck Funktion Daten Output)
-- Rolle des Mandanten (Anbieter Betreiber Importeur Händler Bevollmächtigter)
-- Einsatz-Bereich (öffentlich privat beruflich)
-- Datenbasis (Trainingsdaten Quellen)
-- Marktbezug (EU-Markt Bereitstellung)
+Arbeite an der Freigabe, Beschaffung oder laufenden Nutzung eines konkreten Systems. Eine Konformitätserklärung ersetzt weder Datenschutzgrundlage noch menschliche Entscheidung. Die Verordnung (EU) 2026/1744 und das deutsche KI-MIG sind geltendes Recht; COM(2025) 837 ist ein gesondertes laufendes Gesetzgebungsverfahren.
 
-## Schritt 1 — Anwendungsbereich Art. 2 KI-VO
+## 2. Eingaben
 
-### Sachlich
+Lies Systembeschreibung, Zweck, Einführungsdatum, Modell- und Anbieterangaben, Datenfluss, Vertrag und vorhandene Folgenabschätzungen. Bei konkretem Auftrag sofort am gewünschten Dokument arbeiten. Nur fehlende Weichen wie neue Zweckbestimmung oder Zugriff auf sensible Daten gesammelt nachfragen.
 
-- **KI-System** Art. 3 Nr. 1 KI-VO — maschinengestütztes System mit autonomem Verhalten, Anpassung, Ausgabe-Erzeugung (Vorhersage Empfehlung Entscheidung)
-- **General Purpose AI Model** Art. 3 Nr. 63 — universelles Modell (LLM Foundation Model)
+## 3. Ablauf
 
-### Persönlich (Art. 2 Abs. 1)
+1. Anwendungsbereich und Rollen nach Artikeln 2 und 3 der Verordnung (EU) 2024/1689 bestimmen. Anbieter, Betreiber, Importeur, Händler und Bevollmächtigter nicht mit Verantwortlichem und Auftragsverarbeiter gleichsetzen. Bei Änderung Artikel 25 gesondert prüfen.
+2. Artikel 5 zuerst: bisherige Verbote und neue Tatbestände für intime Inhalte beziehungsweise Missbrauchsdarstellungen ab 2. Dezember 2026 unterscheiden. Offenlegung heilt kein Verbot.
+3. Artikel 6 Absatz 1 mit Anhang I und Absatz 2 mit Anhang III getrennt prüfen. Bei Absatz 3 Ausnahme und Rückausnahme für Profiling dokumentieren; keine bloße Herstellerbehauptung übernehmen.
+4. Kalender nach Artikel 113 neuer Fassung: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 2. Dezember 2027, für Anhang I ab 2. August 2028. Andere Vorschriften nicht pauschal verschieben. GPAI und Artikel 111 mit System- beziehungsweise Modellbestand separat führen.
+5. Artikel 50 grundsätzlich seit 2. August 2026: technische Anbieterkennzeichnung und Betreiberhinweis auseinanderhalten. Nachholfrist bis 2. Dezember 2026 nur nach Artikel 111 Absatz 4 für Absatz 2 bei vorher vermarkteten Systemen.
+6. Datenschutzgrundlage nach Artikeln 6 und 9, Zweckbindung, Informationspflichten, Löschung, Sicherheit und gegebenenfalls Drittlandstransfer prüfen. Artikel 4a der Systemverordnung gestattet sensible Daten nur zur unbedingt erforderlichen Verzerrungskorrektur mit sämtlichen Sicherungen; Absatz 1 für Hochrisikoanbieter und Absatz 2 für weitere Akteure gesondert prüfen. Keine pauschale Trainingserlaubnis.
+7. Datenschutz-Folgenabschätzung nach Artikel 35, Grundrechte-Folgenabschätzung nach Artikel 27 der Systemverordnung und Risikomanagement nach Artikel 9 der Systemverordnung als verschiedene Instrumente behandeln. Vorhandene Analyse wiederverwenden, fehlende Perspektive ergänzen. Nicht jedes Hochrisikosystem löst für jeden Betreiber automatisch Artikel 27 aus.
+8. Artikel 22 der Datenschutz-Grundverordnung: tatsächliche menschliche Mitwirkung, erhebliche Entscheidungswirkung, Ausnahmegrund und Schutzmaßnahmen prüfen. Eine formale Unterschrift allein macht einen automatisierten Vorgang nicht menschlich.
+9. Kompetenzförderung nach Artikel 4 neuer Fassung planen: kontextgerechte Maßnahmen ohne Garantie eines individuellen Niveaus. Menschliche Hochrisikoaufsicht nach Artikel 26 Absatz 2 bleibt eine gesonderte Anforderung.
+10. Deutsche Zuständigkeit nach Paragraf 2 KI-MIG prüfen: Bundesnetzagentur grundsätzlich, Produkt-, Finanz-, Landes- und Medienausnahmen im konkreten Fall. Datenschutzaufsicht daneben nach Artikeln 55 und 56 bestimmen. EU-Sonderaufsicht nach Artikeln 75 ff. und 88 ff. beachten.
 
-- **Anbieter** mit Sitz / Niederlassung in Drittland, das KI in EU bereitstellt
-- **Betreiber** mit Sitz / Aufenthalt in EU
-- **Drittländer-Anbieter** wenn Output in EU verwendet
-- **Importeur Händler Bevollmächtigter** mit EU-Bezug
+Für eine Freigabe technische Nachweise und konkrete Befugnisse abgleichen. Die Verordnung verlangt nicht pauschal eine Begutachtung jedes Systems durch eine benannte Stelle; den richtigen Weg nach Artikel 43 und Anhang VI beziehungsweise VII prüfen. Eine vereinfachte Registrierung ist kein Wegfall jeder Registrierung.
 
-### Ausnahmen Art. 2 Abs. 3-12
+## 4. Quellenpflicht
 
-- Reine Forschung
-- Reine Privatnutzung
-- Open-Source-Modelle mit Auflagen
-- Nationale Sicherheit / Verteidigung
-- Strafverfolgung mit Sonder-Regelungen
+[Rechtsstandkarte](../../references/digitaler-omnibus-2026.md), [Zitierweise](../../references/zitierweise.md). Normfassung und Ereignisdatum dokumentieren. Die vorgeschlagenen 96 Stunden bei Datenschutzverletzungen gelten nicht: Artikel 33 bleibt bei unverzüglicher Meldung, möglichst binnen 72 Stunden; Betroffeneninformation nach Artikel 34 ist eine andere Prüfung. Vorgeschlagene Verzeichnisschwellen nicht vorwegnehmen.
 
-## Schritt 2 — Rollen-Bestimmung Art. 3 Nrn. 3-7
+## 5. Ausgabeformat
 
-| Rolle | Definition | Hauptpflicht |
-|---|---|---|
-| **Anbieter** | Entwickelt KI oder lässt entwickeln und bringt in Verkehr | Vollständige KI-VO-Compliance |
-| **Betreiber** | Verwendet KI unter eigener Aufsicht | Begrenzte Pflichten Transparenz Aufsicht |
-| **Importeur** | EU-Niederlassung mit Import aus Drittland | Konformitätsprüfung |
-| **Händler** | Lieferkette ohne Importeurs-Funktion | Sicherstellung Konformität |
-| **Bevollmächtigter** | Repräsentant Drittland-Anbieter | Vertretung |
+Vollständig ausformulierter Freigabe- oder Beanstandungsvermerk mit sechs Spalten: Funktion, Rolle, Rechtsregime, Tatbestand, Nachweis, nächste Maßnahme. Bei Beschaffung konkrete Vertragsänderung, bei Vorfall adressierte Meldung, bei risikobehafteter Nutzung begründete Freigabesperre formulieren. Keine pauschale Konformitätsbescheinigung ohne belastbare Nachweise. Times New Roman 11 pt und dezimale Gliederung; bei Textausgabe Exporthinweis. Keine automatische Einreichung.
 
-### Bei Modifikation Art. 25 KI-VO
+## 6. Beispiele
 
-- **Wesentliche Änderung** macht Betreiber zum Anbieter
-- Fine-Tuning eines GPAI über Ausgangs-Zweck hinaus
-- Re-Training
-
-## Schritt 3 — Risiko-Klassifikation
-
-### Stufe 1 — Verbotene Praktiken Art. 5 KI-VO
-
-**Geltungsbeginn 2.2.2025** — bereits aktiv.
-
-Verbote (Auswahl):
-- **Subliminale Manipulation** zum Schaden
-- **Ausnutzung Schwachstellen** (Alter Behinderung soziale Lage)
-- **Social Scoring** durch staatliche oder private Akteure
-- **Prädiktive Polizeiarbeit** zur Profilierung
-- **Emotions-Erkennung am Arbeitsplatz und in Bildung** (Ausnahmen medizinisch)
-- **Biometrische Kategorisierung** nach sensitiven Merkmalen
-- **Real-Time-Biometrie im öffentlichen Raum** durch Strafverfolgung (mit eng-bezeichneten Ausnahmen)
-- **ungerichtetes Einsammeln** für Gesichtserkennungs-Datenbanken
-
-**Sanktion:** bis EUR 35 Mio oder 7 Prozent Konzern-Jahresumsatz (höherer Betrag) Art. 99 Abs. 3
-
-### Stufe 2 — Hochrisiko-System Art. 6 + Anhang I/III
-
-**Geltungsbeginn nach aktuellem Stufenplan:** Art. 50 Transparenzpflichten bleiben ab 02.08.2026 relevant. Hochrisiko-Systeme nach Anhang III sind nach Digital-Omnibus-Zeitstrahl spätestens ab 02.12.2027 einzuplanen; Hochrisiko-Systeme nach Anhang I, also KI als Sicherheitsbauteil oder reguliertes Produkt, spätestens ab 02.08.2028. Vor Außenverwendung endgültigen Normtext, Kommissionsbeschlüsse und sektorale Produktregeln prüfen.
-
-**Bereiche Anhang III:**
-1. Biometrie (außer eindeutige Identitäts-Überprüfung)
-2. Kritische Infrastruktur
-3. Bildung und Berufsausbildung
-4. Beschäftigung und Personalverwaltung (z.B. Auswahl-Tools)
-5. Zugang zu wesentlichen privaten/öffentlichen Diensten und Leistungen (Kredit-Scoring Sozialhilfe Notfall-Triage)
-6. Strafverfolgung
-7. Migration und Grenzkontrolle
-8. Justiz und demokratische Prozesse
-
-**Pflichten Anbieter Hochrisiko:**
-- Risikomanagementsystem Art. 9
-- Daten-Governance Art. 10
-- Technische Dokumentation Art. 11
-- Aufzeichnungs-Pflichten Art. 12
-- Transparenz und Informations-Bereitstellung Art. 13
-- Menschliche Aufsicht Art. 14
-- Genauigkeit Robustheit Cybersicherheit Art. 15
-- Konformitätsbewertungs-Verfahren Art. 43
-- CE-Kennzeichnung
-- Registrierung in EU-Datenbank Art. 71
-
-**Pflichten Betreiber Hochrisiko Art. 26:**
-- Verwendung gemäß Anweisung
-- Menschliche Aufsicht durch geschultes Personal
-- Eingangs-Daten relevant und repräsentativ
-- Protokollierung
-- Information Betroffener bei Entscheidungen
-- DSFA-Pflicht Art. 27
-
-### Stufe 3 — Transparenz-System Art. 50 KI-VO
-
-**Geltungsbeginn 2.8.2026.**
-
-- **Chatbots:** Information dass Nutzer mit KI interagiert
-- **Synthetische Audio/Video/Bild/Text:** Kennzeichnung als KI-erzeugt
-- **Deepfakes:** Klarstellung
-- **Emotions-/Kategorisierungs-Systeme:** Information Betroffener
-
-### Stufe 4 — Minimales Risiko
-
-- Keine spezifischen Verpflichtungen
-- Freiwillige Codes-of-Conduct
-
-## Schritt 4 — GPAI-Modelle Art. 51 ff. KI-VO
-
-**Geltungsbeginn 2.8.2025.**
-
-### Standard-GPAI-Anbieter-Pflichten Art. 53
-
-- Technische Dokumentation
-- Information für nachgelagerte Anbieter
-- Urheberrechts-Politik
-- Zusammenfassung Trainingsdaten
-
-### GPAI mit systemischem Risiko Art. 55
-
-- **Schwelle:** Trainings-Compute > 10^25 FLOPs **oder** Kommissions-Designation
-- **Zusätzliche Pflichten:**
- - Modell-Bewertungen
- - Risiko-Bewertung und -Minderung
- - Schwerwiegende Vorfälle melden
- - Cybersicherheit
-
-## Schritt 5 — Zeitlicher Anwendungs-Plan
-
-| Datum | Anwendbar |
-|---|---|
-| **1.8.2024** | KI-VO in Kraft |
-| **2.2.2025** | Kapitel I (Allgemein), Kapitel II (Verbotene Praktiken) |
-| **2.8.2025** | GPAI-Modelle, Governance-Struktur, Sanktionen |
-| **2.8.2026** | Transparenz Art. 50 und nicht verschobene allgemeine Pflichten |
-| **2.12.2027** | Hochrisiko Anhang III nach Digital-Omnibus-Zeitstrahl, spätestens vorbehaltlich finaler Quelle |
-| **2.8.2028** | Hochrisiko Anhang I mit Produktsicherheits-Bezug, spätestens vorbehaltlich finaler Quelle |
-
-## Schritt 6 — Schnittstelle zur DSGVO
-
-### DSFA bei KI-Hochrisiko Art. 27 KI-VO iVm Art. 35 DSGVO
-
-- **Pflicht zur Grundrechte-Folgenabschätzung** bei Betreibern bestimmter Hochrisiko-Systeme
-- Bei personenbezogenen Daten zusätzlich DSGVO-DSFA
-- Häufig kombinierbar als integrierte Bewertung
-
-### Automatisierte Entscheidungen Art. 22 DSGVO
-
-- Wenn KI-System automatisierte Entscheidung trifft mit rechtlicher / ähnlich erheblicher Wirkung → DSGVO-Verbot + Ausnahmen
-- KI-VO und DSGVO parallel anwendbar
-
-### Datenschutz beim Training Art. 10 KI-VO
-
-- Trainingsdaten-Governance — Verhältnis zu Art. 5 DSGVO (Datenminimierung Zweckbindung)
-
-## Schritt 7 — Konformitätsbewertungs-Verfahren Hochrisiko Art. 43
-
-### Selbst-Bewertung
-
-- Mehrheit der Anhang-III-Systeme
-- Anbieter dokumentiert Konformität intern
-
-### Benannte Stelle
-
-- Für Biometrie sowie bei Abweichung von harmonisierten Normen
-- TÜV / VdS / sonstige akkreditierte Stelle
-
-### CE-Kennzeichnung
-
-- Nach erfolgreicher Konformitätsbewertung
-- Anbringung am System
-
-### Registrierung Art. 71
-
-- EU-Datenbank Hochrisiko-Systeme
-- Öffentlich einsehbar (mit Ausnahmen)
-
-## Schritt 8 — Aufsicht und Sanktionen in Deutschland
-
-### Marktüberwachungs-Behörden
-
-- **BNetzA** koordiniert (KI-Aufsichts-Stelle)
-- **BfDI** für Hochrisiko in datenschutz-sensiblen Bereichen
-- **BaFin** Finanz-KI
-- **Bundeskartellamt** wettbewerbs-relevante KI
-
-### Sanktionen Art. 99 KI-VO
-
-| Verstoß | Höchst-Strafe |
-|---|---|
-| Verbotene Praktiken Art. 5 | EUR 35 Mio oder 7 % Konzernumsatz |
-| Verstoß gegen Hochrisiko-Pflichten | EUR 15 Mio oder 3 % Konzernumsatz |
-| Falsche Informationen an Behörden | EUR 7,5 Mio oder 1 % Konzernumsatz |
-
-### Verbandsklage
-
-- Konsumenten-Schutzverbände
-- Aufsichtsbehörden-Klage
-
-## Schritt 9 — Konkrete Prüfungs-Sequenz
-
-1. **Anwendungsbereich** — Ist KI-System / GPAI vorliegend?
-2. **Rolle** — Anbieter Betreiber Importeur Händler?
-3. **Verbotene Praktiken** — Art. 5 prüfen → ggf. Stopp
-4. **Hochrisiko** — Anhang III Tatbestand erfüllt?
-5. **Transparenz** — Art. 50 Pflicht?
-6. **GPAI** — Modell mit systemischem Risiko?
-7. **Compliance-Plan** mit Fristen
-8. **DSGVO-Kompatibilität** parallel
-
-## Schritt 10 — Compliance-Programm-Bausteine
-
-### Governance
-
-- KI-Compliance-Officer
-- KI-Risiko-Kataster
-- Lieferanten-Pflichten (KI-Klauseln in Verträgen)
-
-### Dokumentation
-
-- Technische Dokumentation pro System
-- Aufzeichnungen Operations
-- Vorfalls-Register
-
-### Schulung
-
-- Personal das Hochrisiko-KI betreibt
-- AI Literacy Art. 4 KI-VO
-
-## Schritt 11 — Verzahnung mit anderen Skills
-
-- **dsfa-erstellung** — bei personenbezogenen Daten kombinierte Folgenabschätzung
-- **avv-pruefung** — wenn KI durch Dienstleister
-- **drittlandstransfer-pruefung** — bei Cloud-KI außerhalb EU
-- **anwendungsfall-triage** — wenn KI-VO-Bezug → hier herleiten
-- **mandantendaten-ki** (Kanzlei-intern) — bei eigener KI-Nutzung
-
-## Ausgabe
-
-- `ki-vo-pruefung-{system}.md` mit Risiko-Klassifikation und Pflichten-Plan
-- Compliance-Roadmap mit Fristen-Linie
-- Lieferanten-Anforderungen
-- DSFA-Schnittstelle
-- Aufsichts-Korrespondenz-Vorbereitung
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellen
-
-- VO (EU) 2024/1689 (KI-Verordnung)
-- DSGVO Art. 22 35
-- BNetzA-Verlautbarungen (KI-Aufsicht)
-- EDSA Empfehlungen zu KI und Datenschutz
-- EU-Kommission KI-Leitlinien
-- Lambrecht/Stürner KI-Verordnung
-
-## Faktische Updates (Stand 05/2026)
-
-- **Stufenweise Anwendung KI-VO (Art. 113 und Digital-Omnibus-Zeitstrahl):** 02.02.2025 — Verbote Art. 5 und Art. 4 KI-Kompetenz; 02.08.2025 — GPAI-Pflichten Art. 51-55, Sanktionsregime Art. 99; 02.08.2026 — Transparenzpflichten Art. 50 und nicht verschobene Pflichten; Hochrisiko Anhang III spätestens 02.12.2027, Hochrisiko Anhang I spätestens 02.08.2028. Quelle: VO (EU) 2024/1689 und aktueller Kommissionsstand.
-- **EDSA-Stellungnahme 28/2024:** Die Stellungnahme zu Modellen, die mit personenbezogenen Daten trainiert wurden, ist eine nicht bindende aufsichtsbehördliche Orientierungshilfe. Ihre Aussagen sind am Normtext und an einschlägiger Rechtsprechung zu messen. Quelle: edpb.europa.eu.
-- **GPAI Code of Practice:** seit 2025 verfuegbar; Anbieter, die zeichnen, geniessen Vermutung der Compliance (Art. 56 KI-VO). Live-Status der Saeulen (Transparenz, Urheberrecht, Safety/Security) über digital-strategy.ec.europa.eu prüfen.
-- **EU-KI-Büro:** seit Anfang 2025 voll operativ; zuständig für GPAI, Koordination mit nationalen Behörden, Code of Practice.
-- **Nationale Aufsicht Deutschland:** Bundesnetzagentur (BNetzA) als koordinierende KI-Aufsichtsbehoerde; sektorale Zuständigkeiten (BfDI, BaFin, BAuA, Bundeskartellamt) bleiben bestehen. Konkretisierende Gesetzgebung (KI-Marktueberwachungsgesetz / KI-VO-Durchfuehrungsgesetz) live über bundestag.de prüfen.
-- **Schnittstelle Art. 22 DSGVO / KI-VO:** Bei automatisierten Einzelentscheidungen mit erheblicher Wirkung (Scoring, Personalauswahl, Kredit) parallele Prüfung Art. 22 DSGVO + Art. 26 KI-VO + ggf. FRIA Art. 27 KI-VO erforderlich.
-
-## Triage zu Beginn
-
-1. Ist das System ein KI-System im Sinne von Art. 3 Nr. 1 KI-VO?
-2. Welche Risikoklasse liegt vor? (Verboten Art. 5 / Hochrisiko Art. 6 iVm Anhang III / Begrenzt Art. 50 / Minimal)
-3. Wer ist der Mandant: Anbieter / Betreiber / Importeur / Händler?
-4. Geltungsbereich: Übergangsfrist beachten (verbotene Praktiken ab 02.02.2025; Art. 50 ab 02.08.2026; Hochrisiko Anhang III und Anhang I nach aktuellem Digital-Omnibus-Zeitstrahl)?
-
-## Output-Template — KI-VO-Compliance-Check
-
-**Adressat:** Compliance-Abteilung / Management — Tonfall: sachlich-juristisch
-
-```
-KI-VO Compliance-Check [DATUM]
-System: [SYSTEMNAME]
-Mandant-Rolle: Anbieter / Betreiber / Importeur / Haendler
-
-Einstufung:
-Ist KI-System (Art. 3 Nr. 1 KI-VO): ja / nein
-Risikoklasse: Verboten / Hochrisiko / Begrenzt / Minimal
-Rechtsgrundlage: Art. [X] KI-VO [Anhang I/III/...Nr. X]
-
-Anwendbarer Zeitplan:
-Erste Pflichten ab: [DATUM]
-
-Kernpflichten:
-| Pflicht | Norm | Status |
-|-------------------------------|-------------|------------|
-| Konformitaetsbewertung | Art. 43 ff. | |
-| Technische Dokumentation | Art. 11 | |
-| Menschliche Aufsicht | Art. 14 | |
-| Transparenz gegenueber Nutzern| Art. 13/50 | |
-| DSGVO/DSFA (Schnittstelle) | Art. 35 DSGVO| |
-
-Ergebnis: Konform / Anpassungsbedarf (bis [DATUM]) / Verboten
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein Bewerber-Ranking wird auf Hochrisiko, Diskriminierung und automatisierte Entscheidung geprüft, auch wenn Hochrisikopflichten noch vorbereitet werden. Bei einem Support-Chatbot können Transparenz und Datenschutz schon aktuell greifen. Ein Bias-Test mit Gesundheitsdaten benötigt eine eigenständige Artikel-4a-Prüfung und ist kein Freibrief für allgemeines Modelltraining.

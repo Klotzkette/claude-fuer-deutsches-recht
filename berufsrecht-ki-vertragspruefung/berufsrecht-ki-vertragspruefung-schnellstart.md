@@ -1,77 +1,45 @@
-# Berufsrecht Ki Vertragsprüfung — Schnellstart
+# 1. Berufsrechtliche Anbieterprüfung: Schnellstart
 
-Wenn du das hier öffnest, willst du eine berufsrechtliche Frage der Anwaltschaft, des Notariats oder der prüfenden Berufe nach Pflicht, Aufsicht, Sanktion und sicherem Arbeitsprodukt ordnen.
+Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Berufsträger und Pflichtenkreis und Pflichtenprüfung routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-Kernauftrag: Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit Legal-Tech-Anbietern: Paragraf 43e BRAO, Paragraf 203 StGB, Consumer-Tool-Abgrenzung, No-Training, Telemetrie, Drittstaat, Regulierungsrahmen-Rollen. Vorrang hat das verlangte Arbeitsprodukt.
+Prüfe den konkreten Vertrag gegen den tatsächlichen Datenweg. Lies Leistungsbeschreibung, Vertragsfassung, Unterauftragnehmerliste und technische Einstellungen zuerst. Ergebnis: verwendbare Vertragsänderung, Anbieterfrage oder begründete Einsatzentscheidung. Stand: 10. September 2026.
 
-## 1. Sofortstart nach Eingangslage
+## 1. Auftrag, Rolle und Geheimnisse
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Berufsträger und Pflichtenkreis, Pflichtenprüfung, Aufsichts- und Verfahrenslage wählen; ohne konkreten Auftrag mit Berufsträger und Pflichtenkreis beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Welche berufliche Tätigkeit, welcher Datenkreis und welcher Zugriff sind betroffen? Anwaltliche, notarielle oder steuerberatende Tätigkeit nicht nur nach dem Namen der Kanzlei zuordnen. Für Anwälte insbesondere Paragrafen 43a und 43e BRAO, für Notare Paragrafen 18 und 26a BNotO prüfen. Paragraf 203 StGB und Datenschutz laufen daneben.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Berufsträger und Pflichtenkreis, Pflichtenprüfung, Aufsichts- und Verfahrenslage und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Erforderlichkeit, sorgfältige Auswahl, vertragliche Verpflichtung, Unterauftragnehmer, Auslandszugriff und gegebenenfalls einzelfallbezogene Zustimmung getrennt bewerten. Ein Auftragsverarbeitungsvertrag allein erfüllt nicht alle Berufspflichten.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 2. Technische Zusage gegen Vertragsrecht
 
-## 2. Fachlicher Direktstart
+Trenne laufende Inferenz, Protokollierung, Supportzugriff, Suchindex, Feinabstimmung und Anbietertraining. Jede Zweckänderung, Aufbewahrung und Übermittlung muss konkret gedeckt sein. Eine EU-Speicherregion schließt Fernzugriff nicht aus. Löschung, Export, Vorfallinformation und Änderungen der Lieferkette verbindlich regeln.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Berufsgesetz und welche Satzungsnorm tragen den Vorwurf oder die Gestaltung.
-2. Kernprüfung in einem Durchgang: Ist die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor; Welche Kollisionsprüfung ist dokumentiert und wer hat wann geprüft.
-3. Belege und Engpass zusammenführen: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren; besonders kritisch ist: Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchung steht im Raum.
-4. Erstes Arbeitsprodukt liefern: Kammer-Stellungnahme: Sachverhalt, betroffene Pflicht, Rechtslage, Entlastung, Ergebnis, Anlagen.
+Ein breites Recht zur Produktverbesserung kann einer behaupteten No-Training-Zusage widersprechen. Schreibe die kollidierenden Klauseln nebeneinander und entwerfe eine engere, praktisch erfüllbare Fassung.
 
-## 3. Kernroute
+## 3. Geänderter Systemrahmen
 
-1. Berufsträger und Pflichtenkreis: Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen.
-2. Pflichtenprüfung: Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten.
-3. Aufsichts- und Verfahrenslage: Kammerverfahren, Rüge, Missbilligung, berufsgerichtliches Verfahren und Parallelität zum Strafverfahren ordnen.
-4. Risikoabschätzung: Sanktionsrahmen, Registerfolgen, Versicherungsfragen und Mandatsauswirkungen bewerten.
-5. Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
+Verordnung (EU) 2026/1744 gilt seit 27. Juli 2026. Artikel 4 verlangt kontextgerechte Kompetenzförderung ohne Garantie eines bestimmten individuellen Niveaus; Verantwortung für das anwaltliche Endprodukt entfällt nicht.
 
-## 4. Fallkarte
+Artikel 4a erlaubt sensible Daten zur Bias-Korrektur nur nach passendem Absatz, strikter Notwendigkeit, fehlenden gleich wirksamen Alternativen, geschützten dokumentierten Zugriffen, keiner Weitergabe und frühester Löschung. Ein Anbieter darf daraus kein pauschales Trainingsrecht an Mandatsakten ableiten. Diese Norm ist keine Deepfake-Regel.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46; BORA und FAO |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen |
-| Beweislast | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| Rechtsfolge | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 gelten nach Artikel 113 für Anhang III ab 2. Dezember 2027, für Anhang I ab 2. August 2028. Artikel 111 zum Bestand und Artikel 25 zum Rollenwechsel gesondert prüfen. Vertragliche Mitwirkung jetzt regeln, ohne bereits fällige Pflichten aus falschen Terminen abzuleiten.
 
-## 5. Einsatzfelder
+## 4. Veröffentlichung und Aufsicht
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Berufsträger und Pflichtenkreis | Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichtenprüfung | Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufsichts- und Verfahrenslage | Kammerverfahren, Rüge, Missbilligung, berufsgerichtliches Verfahren und Parallelität zum Strafverfahren ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikoabschätzung | Sanktionsrahmen, Registerfolgen, Versicherungsfragen und Mandatsauswirkungen bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Artikel 50 gilt grundsätzlich seit 2. August 2026: technischer Anbieterweg nach Absatz 2 und Betreiberhinweis nach Absatz 4 sind verschieden. Artikel 111 Absatz 4 verlängert nur Absatz 2 für Altanbieter bis 2. Dezember 2026. Redaktionelle Prüfung ist keine allgemeine Befreiung jedes Deepfakes. Neue Inhaltsverbote stehen in Artikel 5 Buchstaben ba und bb ab 2. Dezember 2026.
 
-## 6. Anker
+KI-MIG: Bundesnetzagentur als Auffangbehörde mit Ausnahmen nach Paragraf 2. Berufsaufsicht, Datenschutzaufsicht und EU-Sonderaufsicht bleiben eigenständig. Informationsrechte einer Behörde begründen nicht automatisch freien Zugriff für den Dienstleister.
 
-- BRAO Paragraf 43a und Paragraf 43e: Grundpflichten, Verschwiegenheit und Inanspruchnahme von Dienstleistern.
-- BRAO Paragraf 45 und Paragraf 46: Tätigkeitsverbote und Syndikusrechtsanwälte.
-- BORA und FAO: Berufsordnung und Fachanwaltschaften als Satzungsrecht der Kammern.
-- BNotO Paragraf 14 und Paragraf 17: Amtspflichten und Gebührenbindung des Notars.
-- Paragraf 203 StGB — Strafvorschrift zum Schutz von Privatgeheimnissen; erfasst Berufsgeheimnisträger wie Anwälte, Ärzte und Steuerberater; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43e BRAO — Rechtsanwalt: Inanspruchnahme von Dienstleistern; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 39c PAO — Patentanwalt: Inanspruchnahme von Dienstleistern; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 26a BNotO — Notar: Inanspruchnahme von Dienstleistern; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+## 5. Datenschutz-Reform nicht vorwegnehmen
 
-## 7. Antwortform
+COM(2025) 837, Verfahren 2025/0360(COD), ist noch Vorschlag. Keine allgemeine Erlaubnis zum Modelltraining und keine pauschale Anonymität pseudonymisierter Akten behaupten. Bei Datenpannen bleiben unverzügliche Meldung und möglichst 72 Stunden nach Artikel 33 maßgeblich, nicht vorgeschlagene 96 Stunden. Vertraulichkeits- und Berufsregeln sind nicht durch einen Omnibus aufgehoben.
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
-7.2. Norm: BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Berufsträger und Pflichtenkreis“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Kammer-Stellungnahme“. Frist, Kernlücke und nächstem Dokument benennen.
+## 6. Ergebnis
 
-## 8. Stop
+Liefere vollständige Klauseln und einen kurzen Vermerk: belastbare Zusage, ungedeckter Datenweg, konkrete Nachforderung, zulässige Einstellung und Freigabegrenze. Nicht aus bloßer Unklarheit die gesamte Beschaffung blockieren; den nutzbaren Teil abgrenzen. Keine Dokumente an Dritte ohne Freigabe senden.
 
-Nur bei diesem Stop-Punkt unterbrechen: Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchung steht im Raum. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+[Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html), [Datenschutz-Reformverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29). Urteile nur für ihren tatsächlichen Streitgegenstand nutzen. Dezimale Gliederung, Times New Roman 11 pt.
+
+## 7. Freigabestopp ohne Bearbeitungsstillstand
+
+Stoppe die Freigabe des konkreten geheimnisträchtigen Datenwegs, wenn Zugriffsrechte oder Erforderlichkeit ungeklärt bleiben. Eine engere Vertragsklausel und nutzbare Konfiguration ausarbeiten; nicht reflexhaft die gesamte Anbieterprüfung abbrechen.

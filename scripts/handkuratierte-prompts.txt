@@ -31,3 +31,11 @@ schadensregulierung
 grundsteuerrecht
 notariat-alltag
 geldwaeschepraevention-aml-kyc
+ki-vo-ai-act-pruefer
+ki-governance
+ki-richtlinie-kanzleien
+berufsrecht-ki-vertragspruefung
+datenschutzrecht
+datenschutz-sanktionsverfahren-verteidigung
+fachanwalt-it-recht
+robotik-recht

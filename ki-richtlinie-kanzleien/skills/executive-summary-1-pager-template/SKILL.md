@@ -31,7 +31,7 @@ description: "Für Executive Summary 1-Pager Template: ordnet Norm, Beweislast u
 
 ## Rechtlicher Rahmen
 
-- KI-VO 2024/1689: Art. 4 KI-Kompetenz (gilt ab 02.02.2025), Art. 5 verbotene Praktiken (ab 02.02.2025), Art. 26 Betreiberpflichten Hochrisiko (ab 02.08.2026), Art. 50 Transparenzpflichten
+- KI-VO 2024/1689: Art. 4 KI-Kompetenz (gilt ab 02.02.2025), Art. 5 verbotene Praktiken (ab 02.02.2025), Artikel 26 Betreiberpflichten Hochrisiko (Anhang III ab 02.12.2027, Anhang I ab 02.08.2028), Art. 50 Transparenzpflichten
 - BRAO: Paragraf 43a Abs. 2 Verschwiegenheit, Paragraf 43e Auftragsverarbeitung an IT-Dienstleister
 - StBerG Paragraf 62a, WPO Paragraf 50a, BNotO Paragraf 26a, PAO Paragraf 39a: Parallelregelungen Schweigepflicht
 - StGB Paragraf 203: strafbewehrtes Berufsgeheimnis
@@ -66,7 +66,7 @@ WAS IST NICHT ERLAUBT
 
 WO VORSICHT GEBOTEN IST
 - Drittland-Transfer (USA, China, Indien): nur mit Schrems-II-Pruefung
-- Hochrisiko-KI nach Anhang III KI-VO ab 02.08.2026
+- Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 nach Anhang III ab 02.12.2027; Anhang I ab 02.08.2028
 - Gemeinsame Verantwortlichkeit Art. 26 DSGVO bei Mandanten-eigenen KI-Tools
 - KI-Output zu Personalentscheidungen, Bewerbungen, Mitarbeiterbewertungen
 

@@ -37,7 +37,7 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **ki-richtlinie
 - **Art. 4 KI-VO (Schulung)**: seit **02.02.2025** unmittelbar geltend — Schulung muss dokumentiert sein.
 - **Art. 5 KI-VO (Verbote)**: seit **02.02.2025**.
 - **Art. 51 ff. KI-VO (GPAI)**: seit **02.08.2025**.
-- **Art. 6 ff. KI-VO (Hochrisiko)**: ab **02.08.2026** Pflichten für Anbieter, Betreiber.
+- Artikel 113 neuer Fassung: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 gelten für Anhang III ab 02.12.2027 und Anhang I ab 02.08.2028. Artikel 111 zum Bestand und andere schon geltende Pflichten gesondert prüfen.
 - **DSGVO Art. 33** (bei KI-Datenpanne mit Mandantenbezug): 72 Stunden.
 - **§ 113 BRAO**: anwaltsgerichtliches Verfahren — keine konkrete Frist, aber rasche Reaktion auf Beschwerde geboten.
 

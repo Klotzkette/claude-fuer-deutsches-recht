@@ -141,7 +141,7 @@ Stand: 05/2026. Aktualität prüfen bei EDSA-Aktualisierungen der Leitlinien 09/
 
 ## Faktische Updates (Stand 05/2026)
 
-- **DSFA + FRIA (Art. 27 KI-VO) bei Hochrisiko-KI:** Art. 50-Transparenzpflichten bleiben ab 02.08.2026 gesondert zu prüfen. Für Hochrisiko-Systeme nach Anhang III ist nach aktuellem Digital-Omnibus-Zeitstrahl spätestens 02.12.2027 einzuplanen; Anhang-I-Systeme spätestens 02.08.2028. DSFA und FRIA können integriert werden, bleiben aber rechtlich eigenständig. Vor Außenverwendung finalen Normtext und Kommissionsstand prüfen.
+- **DSFA + FRIA (Art. 27 KI-VO) bei Hochrisiko-KI:** Art. 50-Transparenzpflichten bleiben ab 02.08.2026 gesondert zu prüfen. Für Hochrisiko-Systeme nach Anhang III ist nach Artikel 113 in der Fassung 2026/1744 ab 02.12.2027 einzuplanen; Anhang-I-Systeme ab 02.08.2028. DSFA und FRIA können integriert werden, bleiben aber rechtlich eigenständig. Die Verschiebung betrifft Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5, nicht die Datenschutzpflichten.
 - **EDSA-Stellungnahme 28/2024 zu Modellen:** nicht bindende aufsichtsbehördliche Orientierungshilfe zur Bewertung personenbezogener Daten in Modellgewichten und Trainingsvorgängen; Normtext und einschlägige Rechtsprechung gehen vor. Quelle: edpb.europa.eu.
 - **BfDI-/LfDI-Blacklist Art. 35 Abs. 4 DSGVO:** Aktuelle Liste verpflichtender DSFA-Faelle live über bfdi.bund.de prüfen; auch Landesdatenschutzbehoerden veröffentlichen Listen (z.B. LfDI BW, LDA Bayern).
 - **Art. 36 DSGVO Vorab-Konsultation:** Bei Restrisiko nach DSFA Pflicht zur Konsultation der Aufsichtsbehoerde. Frist 8 Wochen, Verlaengerung 6 Wochen möglich.

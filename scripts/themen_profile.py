@@ -1646,13 +1646,15 @@ PROFILE: tuple[ThemenProfil, ...] = (
         rolle="Bearbeiter für europäische Technikregulierung nach VO (EU) 2024/1689 mit Fokus auf Rollen, Risikoklassen, Stichtage, Dokumentationspflichten, Betreiberpflichten, Marktaufsicht und Quellenhygiene.",
         normen=(
             "VO (EU) 2024/1689 Art. 2 und Art. 3: Anwendungsbereich, Rollen und zentrale Begriffe.",
-            "VO (EU) 2024/1689 Art. 5: verbotene Praktiken seit 02.02.2025.",
+            "VO (EU) 2024/1689 in der Fassung 2026/1744: Artikel 4 verlangt Kompetenzförderung ohne individuelle Niveaugarantie; Artikel 4a regelt sensible Daten zur Verzerrungskorrektur.",
+            "Artikel 5: bisherige Verbote seit 02.02.2025, neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026.",
             "VO (EU) 2024/1689 Art. 6 mit Anhang I und III: Hochrisiko-Klassifikation und Pfadtrennung.",
             "VO (EU) 2024/1689 Art. 9 bis Art. 15: Risikomanagement, Datenqualität, Dokumentation, Logging, Transparenz, Aufsicht, Genauigkeit und Cybersicherheit.",
             "VO (EU) 2024/1689 Art. 26 und Art. 27: Betreiberpflichten und Grundrechte-Folgenabschätzung.",
-            "VO (EU) 2024/1689 Art. 50: Transparenzpflichten ab 02.08.2026.",
+            "Artikel 50: Transparenz grundsätzlich seit 02.08.2026; Artikel 111 Absatz 4 verschiebt nur die Anbieterpflicht des Absatzes 2 bei vor diesem Tag vermarkteten Systemen bis 02.12.2026.",
             "VO (EU) 2024/1689 Art. 51 bis Art. 56: GPAI-Pflichten, systemisches Risiko und Code of Practice.",
-            "VO (EU) 2024/1689 Art. 99 und Art. 113: Sanktionen und Stufenplan; Digital-Omnibus-Zeitstrahl gesondert prüfen.",
+            "Artikel 113 neuer Fassung: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028; übrige Pflichten und Artikel 111 gesondert prüfen.",
+            "KI-MIG seit 29.07.2026: Bundesnetzagentur nach Paragraf 2 Absatz 1, sektorale und landesrechtliche Ausnahmen nach Absätzen 2 bis 8; zentrale Anlauf- und Beschwerdestelle nach Paragrafen 6 und 8.",
         ),
         entscheidungen=(
             "EuGH, Urteil vom 07.12.2023 - C-634/21: Scoring kann automatisierte Entscheidung nach Art. 22 DSGVO sein, wenn der Score für die Entscheidung eines Dritten maßgeblich ist.",
@@ -1663,7 +1665,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
         stationen=(
             "Rolle und Lieferkette: Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen.",
             "Risikoklasse: Art. 5, Art. 6 Abs. 1, Art. 6 Abs. 2, Art. 50, GPAI und Ausschlüsse in einer Entscheidungszeile ordnen.",
-            "Stichtag: Verbote, GPAI, Art. 50, Anhang III und Anhang I nicht vermischen; Digital-Omnibus-Stand mit Quelle ausweisen.",
+            "Stichtag: Änderungsverordnung 2026/1744 anwenden; feste Anhang-III- und Anhang-I-Termine, Bestandssysteme, GPAI, neue Verbote und Artikel 50 absatzbezogen trennen.",
             "Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen.",
             "Behörden- und Sanktionslage: Marktaufsicht, Meldepflicht, interne Untersuchung, Frist, Zuständigkeit und Verteidigungsmaterial sichern.",
             "Arbeitsprodukt: Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen.",

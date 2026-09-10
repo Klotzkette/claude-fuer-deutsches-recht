@@ -296,7 +296,7 @@ Pflicht für **öffentliche Stellen** und einige private Betreiber (z.B. Banken 
 | CE und EU-DB | 1-2 Wochen | 1 Woche |
 | Marktbeobachtung-Setup | 4-8 Wochen | 2-4 Wochen |
 
-**Hinweis:** Übergangsfristen beachten — Hochrisiko Anhang III: nach Digital-Omnibus-Zeitstrahl spätestens ab 02.12.2027 anwendbar; Hochrisiko Anhang I (Sicherheitsbauteile): spätestens ab 02.08.2028 anwendbar. → `zeitlicher-geltungsbereich-uebergangsfristen`.
+**Hinweis:** Übergangsfristen beachten — Hochrisiko Anhang III: nach Artikel 113 in der Fassung 2026/1744 ab 02.12.2027 anwendbar; Hochrisiko Anhang I (Sicherheitsbauteile): ab 02.08.2028 anwendbar. → `zeitlicher-geltungsbereich-uebergangsfristen`. Die verschobenen Pflichten betreffen Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5; Bestand nach Artikel 111 getrennt prüfen.
 
 ---
 
@@ -340,7 +340,7 @@ Pflicht für **öffentliche Stellen** und einige private Betreiber (z.B. Banken 
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Art. 5 KI-VO — verbotene Praktiken (absolut ab 02.02.2025)
+- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
 - Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz

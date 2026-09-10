@@ -32,7 +32,7 @@ Robotik-Mandate verbinden technische und juristische Quellen. Falsche Aktenzeich
 ## Schritt für Schritt
 
 1. **EU-Rechtsakte stets über eur-lex.europa.eu** verifizieren. Stand der konsolidierten Fassung dokumentieren (CELEX-Nummer + Datum der Konsolidierung).
-2. **Geltungsstaffelung KI-VO** unbedingt prüfen: Verbote Art. 5 ab 02.02.2025; GPAI-Pflichten ab 02.08.2025; Hochrisiko Art. 6 ff. ab 02.08.2026; volle Anwendung 02.08.2027 (Art. 113 KI-VO).
+2. **Geltungsstaffelung KI-VO** unbedingt prüfen: Verbote Art. 5 ab 02.02.2025; GPAI-Pflichten ab 02.08.2025; Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027 und Anhang I ab 02.08.2028 (Artikel 113 neuer Fassung). Maschinen nun in Anhang I Abschnitt B; Produktrecht gesondert.
 3. **MaschinenVO** Geltung ab 20.01.2027 – die Maschinen-RL 2006/42/EG bleibt bis dahin maßgeblich. Übergangsregelungen Art. 50 ff. MaschinenVO prüfen.
 4. **CRA-Staffelung:** Schwachstellen-Meldepflichten ab 11.09.2026, Hauptpflichten ab 11.12.2027 (Art. 71 CRA).
 5. **Produkthaftungs-RL neu** VO (EU) 2024/2853: Inkrafttreten 09.12.2026; nationale Umsetzungsfrist 09.12.2026 (Art. 22).

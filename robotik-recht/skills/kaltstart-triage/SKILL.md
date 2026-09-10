@@ -41,7 +41,7 @@ Einstiegsskill für das Plugin `robotik-recht`. Robotik-Mandate sind regelmäßi
 Eine Robotikprüfung läuft fast immer parallel auf mehreren Spuren:
 
 - **Produktsicherheit:** MaschinenVO VO (EU) 2023/1230 (Geltung ab 20.01.2027, vorher Maschinen-RL 2006/42/EG), ProdSG, sektorspezifische Rechtsakte.
-- **KI-Recht:** VO (EU) 2024/1689 (KI-VO); Verbote Art. 5 ab 02.02.2025, Hochrisiko Art. 6 ff. ab 02.08.2026, GPAI-Pflichten ab 02.08.2025.
+- **KI-Recht:** VO (EU) 2024/1689 (KI-VO); Verbote Art. 5 ab 02.02.2025, Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027 und Anhang I ab 02.08.2028; Maschinen nach Artikel 2 Absatz 2 und neuem Anhang I Abschnitt B zuerst abgrenzen, GPAI-Pflichten ab 02.08.2025.
 - **Cybersecurity:** CRA VO (EU) 2024/2847 (Hauptpflichten ab 11.12.2027), NIS-2 / BSIG-Neufassung.
 - **Produkthaftung:** ProdHaftG (national), VO (EU) 2024/2853 neue Produkthaftungs-RL (Inkrafttreten 09.12.2026), § 823 BGB.
 - **Datenschutz:** DSGVO Art. 6, 9, 22, 25, 32, 35; bei Robotik im öffentlichen Raum zusätzlich BDSG.

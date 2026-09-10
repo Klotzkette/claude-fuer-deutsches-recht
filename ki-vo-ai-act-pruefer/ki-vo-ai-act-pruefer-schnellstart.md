@@ -1,74 +1,43 @@
-# Ki Vo Ai Act Prüfer — Schnellstart
+# 1. Verordnung über künstliche Intelligenz: Schnellstart
 
-Wenn du das hier öffnest, willst du ein reguliertes algorithmisches System schnell einordnen: Rolle, Risikoklasse, Stichtag, Nachweisakte und Behördenrisiko.
+Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Rolle und Lieferkette und Risikoklasse routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-Kernauftrag: Mechanik-Workflow zur Regulierungsrahmen (EU 2024/1689): System-System-Definition, Rollen, Risikoklassen, Hochrisiko-Diagnose, GPAI, Art. 43-Konformitätsbewertung, CE/EU-DB, Marktbeobachtung, Konformitäts-Evidence-Pack, System-Kompetenz. Vorrang hat das verlangte Arbeitsprodukt.
+Prüfe ein konkretes System und liefere das verlangte Einordnungsmemo, die Roadmap, Behördenantwort oder Vertragsmatrix. Rechtsstand: 10. September 2026. Beginne mit Zweckbeschreibung, Vertrag und vorhandener Systemakte, nicht mit einem neuen Vollinterview.
 
-## 1. Sofortstart nach Eingangslage
+## 1. System und Rolle bestimmen
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Rolle und Lieferkette, Risikoklasse, Stichtag wählen; ohne konkreten Auftrag mit Rolle und Lieferkette beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Was entscheidet oder erzeugt das System tatsächlich, für wen und seit wann? Artikel 2 und 3 prüfen; Anbieter, Betreiber, Importeur, Händler und Produktintegrator trennen. Eigenes Branding, wesentliche Änderung oder neue Zweckbestimmung können Artikel 25 auslösen. Modellpflichten nach Kapitel V und Systempflichten nicht gleichsetzen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Rolle und Lieferkette, Risikoklasse, Stichtag und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 2. Rechtsweg durch die Risikoprüfung
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Artikel 5 zuerst: konkrete verbotene Funktion, Tatbestand und Ausnahme. Danach Artikel 6 Absatz 1 mit Produktregime oder Absatz 2 mit genauem Anhang-III-Eintrag. Absatz 3 verlangt eine tragfähige Ausnahmeprüfung; Profiling sperrt die dortige Entlastung. Bei Produktfunktionen neue Absätze 1a bis 1c beachten: reine Komfortfunktion reicht nicht, sicherheitsgefährdender Ausfall kann dagegen sprechen. Maschinen stehen nun in Anhang I Abschnitt B; Artikel 2 Absatz 2 und Maschinenrecht zuerst abgrenzen.
 
-## 2. Fachlicher Direktstart
+## 3. Den richtigen Termin an die Pflicht schreiben
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete Funktion und Zweckbestimmung hat das System.
-2. Kernprüfung in einem Durchgang: Welche Rolle hat der Mandant und wer schuldet welche Pflicht; Welche Risikoklasse ist nach Art. 5, Art. 6, Art. 50 oder Kapitel V einschlägig.
-3. Belege und Engpass zusammenführen: Nachweisachse Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen; besonders kritisch ist: Art.-5-Verbot, Marktaufsichtsfrist oder schwerwiegender Vorfall steht im Raum.
-4. Erstes Arbeitsprodukt liefern: Einordnungsmemo: Das System ist nach derzeitigem Stand [Rolle/Risikoklasse], weil [Zweckbestimmung] unter [Norm] fällt; Stichtag und Quellenstatus: [Datum/Quelle].
+Verordnung (EU) 2026/1744 gilt seit 27. Juli 2026. Artikel 113 verschiebt Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: Anhang III auf 2. Dezember 2027, Anhang I auf 2. August 2028. Das sind feste Daten, keine bloßen Höchstfristen. Artikel 111 zum Bestand und erheblicher Konzeptionsänderung gesondert prüfen. Nicht alle anderen Pflichten verschieben; GPAI und bereits geltendes Produktrecht separat halten.
 
-## 3. Kernroute
+Artikel 4 bleibt kontextgerechte Kompetenzförderung, ohne Garantie eines bestimmten individuellen Niveaus oder gesetzliche Zertifikatspflicht. Vorhandene Einweisung nutzen und konkrete Lücken schließen. Menschliche Hochrisikoaufsicht nach Artikel 26 Absatz 2 gesondert prüfen.
 
-1. Rolle und Lieferkette: Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen.
-2. Risikoklasse: Art. 5, Art. 6 Abs. 1, Art. 6 Abs. 2, Art. 50, GPAI und Ausschlüsse in einer Entscheidungszeile ordnen.
-3. Stichtag: Verbote, GPAI, Art. 50, Anhang III und Anhang I nicht vermischen; Digital-Omnibus-Stand mit Quelle ausweisen.
-4. Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen.
-5. Behörden- und Sanktionslage: Marktaufsicht, Meldepflicht, interne Untersuchung, Frist, Zuständigkeit und Verteidigungsmaterial sichern.
+## 4. Daten und synthetische Inhalte auseinanderhalten
 
-## 4. Fallkarte
+Artikel 4a betrifft sensible Daten zur Bias-Erkennung und -Korrektur, nicht Deepfakes. Absatz 1 für Hochrisikoanbieter; Absatz 2 erweitert den Kreis nur unter weiteren Bedingungen. Strikte Notwendigkeit, fehlende gleich wirksame andere Daten, Nutzungsbeschränkung, geschützte dokumentierte Zugriffe, keine Weitergabe und früheste Löschung belegen. Keine allgemeine Trainingserlaubnis; Datenschutzprüfung fortführen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | VO (EU) 2024/1689 Art. 2 und Art. 3; VO (EU) 2024/1689 Art. 5; VO (EU) 2024/1689 Art. 6 mit Anhang I und III |
-| Rechtsprechung | EuGH, Urteil vom 07.12.2023 - C-634/21; EuGH, Urteil vom 27.02.2025 - C-203/22 |
-| Tatbestand | Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen |
-| Beweislast | Nachweisachse Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen |
-| Rechtsfolge | Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Artikel 50 gilt grundsätzlich seit 2. August 2026. Absatz 2 verlangt technische Anbieterkennzeichnung, Absatz 4 Betreiberhinweise für Deepfakes beziehungsweise bestimmte Texte. Artikel 111 Absatz 4 gibt nur Anbietern vor dem 2. August 2026 vermarkteter synthetische Inhalte erzeugender Systeme bis 2. Dezember 2026 für Absatz 2 Zeit. Nicht auf Betreiber oder neue Systeme ausdehnen. Neue Inhaltsverbote stehen in Artikel 5 Buchstaben ba und bb, anwendbar ab 2. Dezember 2026. Kennzeichnung heilt kein Verbot.
 
-## 5. Einsatzfelder
+## 5. Dossier und zuständige Stelle
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Rolle und Lieferkette | Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikoklasse | Art. 5, Art. 6 Abs. 1, Art. 6 Abs. 2, Art. 50, GPAI und Ausschlüsse in einer Entscheidungszeile ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Stichtag | Verbote, GPAI, Art. 50, Anhang III und Anhang I nicht vermischen; Digital-Omnibus-Stand mit Quelle ausweisen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Artikel 43: Anhang III Nummer 1 mit den Bedingungen für Anhang VI oder VII, Nummern 2 bis 8 grundsätzlich interne Kontrolle. Keine pauschale Drittprüfung. Produktverfahren nach Absatz 3 nur im passenden Abschnitt-A-Regime. Version, Nachweis, Erklärung und Registrierung abstimmen; technische Dokumentation nicht pauschal veröffentlichen.
 
+KI-MIG seit 29. Juli 2026: Bundesnetzagentur als Auffangbehörde. Paragraf 2 enthält Produkt-, Finanz-, Kammer-, Länder- und Medienzuständigkeiten. EU-Sonderaufsicht sowie Datenschutzaufsicht daneben prüfen. Eine Eingabe bei der zentralen Beschwerdestelle ist keine Feststellung ausschließlicher Zuständigkeit.
 
-## 6. Anker
+## 6. Ergebnis liefern und belegen
 
-- VO (EU) 2024/1689 Art. 2 und Art. 3: Anwendungsbereich, Rollen und zentrale Begriffe.
-- VO (EU) 2024/1689 Art. 5: verbotene Praktiken seit 02.02.2025.
-- VO (EU) 2024/1689 Art. 6 mit Anhang I und III: Hochrisiko-Klassifikation und Pfadtrennung.
-- VO (EU) 2024/1689 Art. 9 bis Art. 15: Risikomanagement, Datenqualität, Dokumentation, Logging, Transparenz, Aufsicht, Genauigkeit und Cybersicherheit.
-- EuGH, Urteil vom 07.12.2023 - C-634/21: Scoring kann automatisierte Entscheidung nach Art. 22 Datenschutz-Grundverordnung sein, wenn der Score für die Entscheidung eines Dritten maßgeblich ist.
-- EuGH, Urteil vom 27.02.2025 - C-203/22: Betroffene brauchen aussagekräftige Informationen zur Logik automatisierter Entscheidungen; Geschäftsgeheimnisse schließen Transparenz nicht pauschal aus.
+Schreibe zuerst das konkrete Ergebnis mit tragender Tatsache, Normfassung, Anwendungsdatum und Gegenargument. Ergänze nur bei Bedarf eine Tabelle: Pflicht, Adressat, Beleg, Lücke, Termin. Bei Verbot oder Vorfall keine Freigabe vortäuschen, aber Sofortmaßnahmen und fristgerechten Entwurf liefern. Ohne Quellenzugriff den offenen Punkt nennen, keine endlose Abrufschleife.
 
-## 7. Antwortform
+EuGH C-634/21 zum maßgeblichen Scoring und C-203/22 zu aussagekräftigen Logikinformationen betreffen Datenschutz; sie sind keine Entscheidungen zum neuen Artikel 4a. Fundstellen vor Verwendung prüfen.
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen.
-7.2. Norm: VO (EU) 2024/1689 Art. 2 und Art. 3; VO (EU) 2024/1689 Art. 5 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Rolle und Lieferkette“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Rolle hat der Mandant und wer schuldet welche Pflicht.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Einordnungsmemo“. Frist, Kernlücke und nächstem Dokument benennen.
+Quellen: [Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html). Vollständige Sätze, dezimale Gliederung, Times New Roman 11 pt bei Dokumentexport. Versand nur nach Freigabe.
 
-## 8. Stop
+## 7. Freigabestopp ohne Bearbeitungsstillstand
 
-Nur bei diesem Stop-Punkt unterbrechen: Art.-5-Verbot, Marktaufsichtsfrist oder schwerwiegender Vorfall steht im Raum. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Stoppe nur die Freigabe der betroffenen Funktion, wenn Verbotstatbestand, Pflichtadressat oder anwendbarer Bewertungsweg ungeklärt ist. Den begründeten Prüfvermerk und rechtzeitige Sofortmaßnahmen trotzdem liefern; keine automatische Abschaltung oder Meldung auslösen.

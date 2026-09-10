@@ -37,7 +37,7 @@ Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](.
 
 Startsatz für Datenschutz-Sanktionsverfahren und Verteidigung:
 
-> Erfasse zuerst Dateinamen und Metadaten im ausgewählten Ordner. Lies zunächst die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
+> Erfasse zuerst Dateinamen und Metadaten im ausgewählten Ordner. Lies zunächst die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
 
 Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
 
@@ -69,6 +69,9 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
+Rechtsstand 10. September 2026: Die Verteidigung trennt geltende Pflichtmeldung, freiwillige Stellungnahme und künftige Reformoption. Systemaufsicht und Datenschutzaufsicht werden nicht verwechselt. [Rechtsstandkarte lesen](./references/digitaler-omnibus-2026.md) · <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=datenschutz-sanktionsverfahren-verteidigung/references/digitaler-omnibus-2026.md" download>MD herunterladen</a>.
+
+English: The updated workflows distinguish enacted law, future application dates and pending proposals. The reference note identifies official sources and the competent supervisory authority for each route.
 Wenn du das hier öffnest, willst du einen Datenschutzverstoss bewerten und die richtige Reaktion gegenüber Aufsicht und Betroffenen aufsetzen.
 Dieses Plugin ist die Spezialwerkstatt für Mandate, in denen Datenschutzaufsicht nicht mehr nur Beratung ist, sondern Druck macht: Anhörung, Auskunftsverlangen, Art.-58-Anordnung, Bußgeldbescheid, Einspruch, Hauptverhandlung, Rechtsbeschwerde, Verwaltungsgericht und EuGH-Frage. Es ergänzt `datenschutzrecht`, ist aber bewusst eigenständig, weil solche Verfahren prozessual anders funktionieren als AVV, DSFA oder Datenschutzerklärung.
 

@@ -1,56 +1,37 @@
 ---
 name: art-6-hochrisiko-robotik
-description: "Für Art. 6 Hochrisiko Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: art-6-hochrisiko-robotik."
+description: Ordnet Roboterfunktionen nach Sicherheitsbezug, Produktregime und konkretem Einsatz ein. Berücksichtigt den geänderten Maschinenpfad und liefert einen begründeten Klassifikationsvermerk mit getrennten Produkt- und Systemfristen.
 ---
 
-# Art. 6 Hochrisiko Robotik
+# 1. Hochrisikoeinstufung von Roboterfunktionen
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn 02.08.2026 für Hochrisiko (Art. 6 Anhang III), Verbote ab 02.02.2025, Maschinen-VO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, KI-VO Art. 73 schwerwiegender Vorfall innerhalb 15 Tagen.
-- Tragende Normen verifizieren: EU KI-VO (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99, Maschinenverordnung 2023/1230, Produkthaftungs-Richtlinie 2024/2853, BGB §§ 823, 831, ProdHaftG, EU NIS2-RL 2022/2555, EU CRA — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), KI-Aufsicht (BNetzA-Stelle).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation Anhang IV KI-VO, Risikomanagement-System Art. 9, Datengovernance-Konzept Art. 10, FAT/SAT-Protokoll, Betriebsanleitung, CE-Kennzeichnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Bestimme die regulatorische Route einer konkreten Roboterfunktion. Nicht jeder lernende Roboter ist ein Hochrisikosystem und nicht jede Maschine unterliegt zusätzlich sämtlichen Systempflichten. Maßgeblich ist die Verordnung (EU) 2024/1689 in der Fassung 2026/1744.
 
-## Fachkern: Art. 6 Hochrisiko Robotik
-- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
-- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
+## 2. Eingaben
 
-Fachmodul im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
+Funktionsbeschreibung, Sicherheitskonzept, Fehlermöglichkeiten, Herstellererklärung, Produktregime, Steuerungsversion und Einsatzort lesen. Bei einem Unfall zuerst vorhandene Logs unverändert sichern; keine neue gefährliche Versuchsfahrt veranlassen.
 
-## Start
+## 3. Ablauf
 
-Kläre knapp:
+1. Funktion isolieren: kollisionsvermeidende Steuerung, Navigation, Arbeitsgeschwindigkeit, reine Qualitätskontrolle oder Personenerkennung. Anbieter, Integrator und Betreiber zuordnen.
+2. Artikel 6 Absätze 1a bis 1c prüfen. Eine ausschließlich nicht sicherheitsbezogene Optimierungsfunktion ist kein Sicherheitsbauteil. Gefährdet ihr Ausfall aber Gesundheit oder Sicherheit, greift diese Entlastung nicht. Drittprüfung ausschließlich wegen nicht sicherheitsbezogener Funk- oder EMV-Risiken genügt ebenfalls nicht für Absatz 1 Buchstabe b.
+3. Maschinenverordnung (EU) 2023/1230 nun in Anhang I Abschnitt B einordnen. Artikel 2 Absatz 2 und die geänderten Maschinenanforderungen anwenden, nicht weiterhin automatisch den Abschnitt-A-Pfad nach Artikel 43 Absatz 3. Keine zusätzliche Pflicht aus einem überholten Anhang ableiten.
+4. Andere Produktregime getrennt halten: Ein Medizinroboter kann unter MDR und Anhang I Abschnitt A fallen. Eine Logistikmaschine wird nicht wegen eines Krankenhausstandorts automatisch zum Medizinprodukt.
+5. Eigenständigen Anhang-III-Verwendungszweck prüfen, etwa biometrische Klassifikation oder Personalbewertung. Die Produktabgrenzung allein beantwortet nicht jede separat betriebene Bewertungsfunktion.
+6. Termine auseinanderhalten: Maschinenverordnung grundsätzlich ab 20. Januar 2027; für die nach Artikel 113 verschobenen Kapitel-III-Abschnitte Anhang III ab 2. Dezember 2027, Anhang I ab 2. August 2028. Artikel 111 und sektorspezifische Übergänge hinzunehmen. Arbeitsschutz, Betriebssicherheit, Datenschutz und bestehende Produktsicherheit laufen weiter.
+7. Zuständige Stelle aus dem tatsächlichen Produkt- und Systemregime bestimmen. Nach KI-MIG ist die Bundesnetzagentur Auffangbehörde, nicht pauschal Marktüberwacher aller Maschinen. Sektorale Produktaufsicht und Länderzuständigkeit zuerst abgrenzen.
+8. Nachweisproblem präzisieren: Welcher Ausfallpfad und welche Sicherheitsfunktion tragen die Einordnung? Betriebsanleitung gegen tatsächliche Konfiguration und vorhersehbare Fehlanwendung halten. Bei Unklarheit konkrete technische Nachweise anfordern, keine pauschale vorsorgliche Zertifizierung empfehlen.
 
-1. **Rolle:** Hersteller, Anbieter, Integrator, Importeur, Händler, Betreiber, Deployer, Wartung, Versicherer, Behörde oder Geschädigte Person.
-2. **Produkt:** Industrieroboter, Cobot, AMR/AGV, Service-, Pflege-, Medizin-, Haushalts-, Agrar-, Sicherheits-, Liefer- oder Sonderrobotik.
-3. **Ziel:** Freigabe, CE-Akte, Behördenantwort, Vertragsprüfung, Incident, Rückruf, Haftungsmemo, Datenschutzprüfung, Cyberprüfung, Klage/Verteidigung oder Vorstandsvorlage.
-4. **Dringlichkeit:** Unfall, Verletzung, Datenpanne, Cyberangriff, Marktüberwachung, Rückruf, Kundenstillstand, Frist oder nur Prävention.
-5. **Unterlagen:** Anleitung, Risikobeurteilung, EU-Konformitätserklärung, technische Dokumentation, Logs, Softwarestände, Verträge, DSFA, SBOM, Wartungsprotokolle, E-Mails.
+## 4. Quellenpflicht
 
-## Prüfspur
+[Rechtsstandkarte](../../references/digitaler-omnibus-2026.md), Artikel 2 und 6, Anhänge I und III, Verordnung (EU) 2023/1230 in aktueller Fassung sowie Paragraf 2 KI-MIG. Eine Ermächtigung zu künftigen delegierten Rechtsakten ist noch keine geltende Befreiung.
 
-- Baue zuerst eine **Rollenmatrix**. Robotikfälle kippen oft daran, wer rechtlich Hersteller, Anbieter, Betreiber oder bloßer Zulieferer ist.
-- Prüfe dann **parallel**: Maschinenrecht/Produktsicherheit, KI-VO, Produkthaftung, Datenschutz, Cybersecurity, Data Act, sektorspezifisches Recht und Vertrag.
-- Trenne sichere Tatsachen, technische Annahmen und Rechtsbewertung. Markiere jede nicht belegte technische Annahme sichtbar.
-- Arbeite mit einer **Ampel**: Rot = sofort handeln; Gelb = Unterlagen/Rückfragen; Grün = derzeit tragfähig, aber live zu verifizieren.
-- Bei Rechtsprechung und aktuellen Normen: keine Paywall-Fundstellen, keine erfundenen Aktenzeichen; live über amtliche/freie Quellen prüfen.
+## 5. Ausgabeformat
 
-## Spezifischer Fokus
+Ausformulierter Klassifikationsvermerk mit Funktion, Fehlerfolge, Produktregime, Systemrolle, Termin und zuständiger Stelle. Eine Funktionsmatrix darf ergänzen. Keine CE-Erklärung oder technische Sicherheitsfreigabe ohne Nachweise. Times New Roman 11 pt, dezimale Gliederung; bei fehlendem Export vollständigen Text liefern.
 
-Dieser Skill fokussiert: **Prüft Hochrisiko-KI nach Art. 6 KI-VO bei Sicherheitskomponente, Produktregime oder Anhang-III-Einsatz.**
+## 6. Beispiele
 
-Quellen-/Normenanker: KI-VO Art. 6, Anhänge I und III.
-
-## Ergebnisformat
-
-Liefere je nach Auftrag eines der folgenden Formate:
-
-- **Kurzvermerk** mit Ergebnis, Begründung, Risikoampel und offenen Fragen.
-- **Rückfragenliste** an Technik/QM/IT-Security/Datenschutz/Vertrieb.
-- **Dokumentenmatrix** mit vorhandenen und fehlenden Nachweisen.
-- **Behörden- oder Mandantenentwurf** mit vorsichtiger Sprache und Quellenhinweisen.
-- **Red-Team-Check** mit Gegenargumenten, Worst Case und nächstem Schritt.
-
-Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datenschutz, KI-VO, IT-Recht, Medizinrecht, Arbeitsrecht oder Vertragsrecht überwiegt, nenne zusätzlich das passende Nachbarplugin.
+Eine reine Sortierstatistik und die sichere Geschwindigkeitsregelung desselben Roboters sind getrennt zu betrachten. Eine Softwareänderung, die auf den Bremsweg wirkt, verlangt eine neue Bewertung des Sicherheitsbezugs; das Etikett „Komfortupdate“ genügt nicht.

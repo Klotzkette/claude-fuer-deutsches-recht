@@ -29,7 +29,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - **"Wir haben einen KI-Vorfall"** → Vorfallmeldung Art. 73 KI-VO (Hochrisiko) plus Art. 33/34 DSGVO bei personenbezogenen Daten.
 
 ## Praxis-Tipp
-Eine Kanzlei-KI-Richtlinie ohne Inventar und Klassifizierung ist Symbolpolitik. Empfehlung: zuerst inventarisieren (welches Tool, welche Daten, welche Rolle), dann klassifizieren (KI-VO-Risikoklasse, DSGVO-Datenkategorie), dann Richtlinie. Geltungsbeginn Art. 5 KI-VO seit 02.02.2025, Art. 6 ff. Hochrisiko ab 02.08.2026.
+Eine Kanzlei-KI-Richtlinie ohne Inventar und Klassifizierung ist Symbolpolitik. Empfehlung: zuerst inventarisieren (welches Tool, welche Daten, welche Rolle), dann klassifizieren (KI-VO-Risikoklasse, DSGVO-Datenkategorie), dann Richtlinie. Geltungsbeginn Art. 5 KI-VO seit 02.02.2025, Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027 und Anhang I ab 02.08.2028 nach Artikel 113 neuer Fassung. Nur die Funktion im aktuellen Auftrag inventarisieren; vorhandene Einstufung verwerten.
 
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.

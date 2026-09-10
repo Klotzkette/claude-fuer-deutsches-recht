@@ -19,7 +19,7 @@ KI-Systeme werden auf Basis großer Textmengen trainiert, die Verzerrungen und g
 
 ## Rechtlicher Hintergrund
 
-§§ 1, 7 AGG (Allgemeines Gleichbehandlungsgesetz): Diskriminierungsverbot aufgrund von Rasse, Geschlecht, Religion, Behinderung, Alter oder sexueller Identität — gilt für Beschäftigung und privatrechtliche Verträge, damit auch für Mandatsbeziehungen. Art. 9 DSGVO: Besonders sensible Datenkategorien — rassische/ethnische Herkunft, religiöse Überzeugungen etc. — dürfen nicht Grundlage von Entscheidungen sein. Art. 10 Abs. 5 KI-VO: Hochrisiko-KI-Systeme müssen auf Bias geprüft werden; für Kanzleien gilt dies indirekt beim Einsatz von KI im Personalwesen (Anhang III Nr. 4). Art. 22 DSGVO: Keine ausschließlich automatisierten Entscheidungen mit diskriminierender Wirkung. BAG-Rechtsprechung zum AGG: Der Nachweis einer Benachteiligung kann durch statistische Indizien erbracht werden.
+Paragrafen 1 und 7 AGG im Beschäftigungskontext, Paragrafen 19 und 20 AGG im jeweils erfassten zivilrechtlichen Anwendungsbereich prüfen. Artikel 9 der Datenschutz-Grundverordnung regelt ein Verarbeitungsverbot mit Ausnahmen, kein pauschales Verbot jeder Entscheidung unter Berücksichtigung sensibler Daten. Artikel 4a der Verordnung (EU) 2024/1689 in der Fassung 2026/1744 ersetzt Artikel 10 Absatz 5 für Bias-Daten: Rolle, strikte Notwendigkeit, fehlende gleich wirksame Alternativen und sämtliche Schutzmaßnahmen nachweisen. Artikel 22 betrifft bestimmte ausschließlich automatisierte Entscheidungen, nicht nur diskriminierende Entscheidungen. Indizien und Beweislast nach Paragraf 22 AGG gesondert prüfen. [Rechtsstandkarte](../../references/digitaler-omnibus-2026.md).
 
 ## Vorlagentext / Bausteine
 
