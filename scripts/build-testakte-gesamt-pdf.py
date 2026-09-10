@@ -50,6 +50,7 @@ from reportlab.lib.enums import TA_LEFT
 from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
+import reportlab
 
 from testakte_file_filter import include_in_working_dump
 from testakte_office_pdf import OFFICE_EXTS, OfficeRenderError, render_office_batch, uncached_formula_cells
@@ -181,7 +182,24 @@ class DocumentRenderError(RuntimeError):
 
 
 def escape(s: str) -> str:
-    return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    escaped = s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    extra = set(re.findall(r"[\u0100-\u024f]", escaped))
+    if not extra:
+        return escaped
+    # Helvetica deckt etwa das türkische punktlose i nicht ab. Die mitgelieferte
+    # Schrift ergänzt nur betroffene Zeichen; bestehende Seiten bleiben stabil.
+    name = "AktenLatin"
+    if name not in pdfmetrics.getRegisteredFontNames():
+        font_path = Path(reportlab.__file__).resolve().parent / "fonts" / "Vera.ttf"
+        pdfmetrics.registerFont(TTFont(name, str(font_path)))
+    supported = pdfmetrics.getFont(name).face.charToGlyph
+    for character in sorted(extra):
+        try:
+            character.encode("cp1252")
+        except UnicodeEncodeError:
+            if ord(character) in supported:
+                escaped = escaped.replace(character, f'<font name="{name}">{character}</font>')
+    return escaped
 
 
 def md_to_flowables(md_text: str) -> list:

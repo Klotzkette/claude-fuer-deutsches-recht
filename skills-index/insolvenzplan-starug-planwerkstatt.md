@@ -1,6 +1,6 @@
 # insolvenzplan-starug-planwerkstatt
 
-**58 Skills** · Stand `v444.0.3`
+**58 Skills** · Stand `v444.1.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../insolvenzplan-starug-planwerkstatt/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

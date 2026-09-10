@@ -1,0 +1,17 @@
+name: arbeitsrecht-asset-deal-50-vertraege-berlin
+plugin: arbeitsrecht
+description: "Berliner Software- und Drohnenbetrieb mit 50 Arbeitsverträgen, zwei Geschäftsführeranstellungen, Insolvenzeröffnung und laufenden Erwerbsgesprächen."
+checks:
+  - id: unterlagen
+    check_type: working_file_count
+    description: "110 getrennte Arbeitsunterlagen in nativen Formaten liegen vor."
+    min: 110
+  - id: personalbestand
+    check_type: human_review
+    description: "Die 50 Personalnummern sind eindeutig und von den beiden Geschäftsführeranstellungen getrennt."
+  - id: belegabgleich
+    check_type: human_review
+    description: "Personen, Zahlungsbewegungen, Vertragsnachträge und Zugangsangaben lassen sich auf ihre jeweiligen Originalbelege zurückführen."
+  - id: ausgabe
+    check_type: human_review
+    description: "Alle drei Fassungen enthalten dieselben Arbeitsunterlagen ohne vorgegebene rechtliche Lösung."

@@ -142,6 +142,15 @@ def main() -> int:
             "offensichtliche Example-Adresse muss auffallen",
         )
 
+    english = "The gross salary includes no compensation for gross negligence."
+    path = Path("employment.docx")
+    require(not V.language_prose_errors(english, path, "en-GB"), "englische Fachbegriffe sind keine deutschen Umlautfehler")
+    require(bool(V.language_prose_errors(english, path)), "ohne Sprachangabe bleibt die deutsche Prüfung aktiv")
+    require(bool(V.language_prose_errors("Die Fläche ist gross.", path, "de-DE")), "deutsches gross bleibt ein Fehler")
+    require(bool(V.language_prose_errors("Die Fläche ist gross.", path, "en,de")), "mehrdeutige Sprachangabe darf die Prüfung nicht abschalten")
+    require(bool(V.language_prose_errors("Die Fläche ist gross.", path, "en-GB,de")), "auch eine regionale Sprachliste ist keine eindeutige englische Deklaration")
+    require(bool(V.language_prose_errors("Please confirm die Verguetung.", path, "en")), "englische Metadaten dürfen andere deutsche Umlautfehler nicht verbergen")
+    require(not V.language_prose_errors("Die Vergütung ist vollständig.", path, "de"), "korrekte deutsche Umlaute bleiben zulässig")
     print("test-testakten-email-quality OK")
     return 0
 

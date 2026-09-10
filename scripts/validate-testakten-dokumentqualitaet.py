@@ -258,6 +258,21 @@ def prose_without_technical_names(text: str, path: Path) -> str:
     return re.sub(re.escape(path.stem), "", prose, flags=re.IGNORECASE)
 
 
+def language_prose_errors(text: str, path: Path, language: str = "") -> list[str]:
+    """Beachtet deklarierte englische Texte, ohne deutsche Fehler auszublenden."""
+    english = bool(re.fullmatch(r"en(?:-[a-z0-9]{2,8})*", language.strip().lower()))
+    errors = []
+    if not english and not re.search(r"[äöüÄÖÜß]", text):
+        errors.append("weder echter Umlaut noch scharfes S")
+    prose = prose_without_technical_names(text, path)
+    if english:
+        prose = re.sub(r"\bgross(?:ly)?\b", "", prose, flags=re.IGNORECASE)
+    match = TRANSLITERATION.search(prose)
+    if match:
+        errors.append(f"unechter Umlaut {match.group(0)!r}")
+    return errors
+
+
 def docx_text(path: Path) -> str:
     document = Document(path)
     paragraphs = [paragraph.text for paragraph in document.paragraphs]
@@ -511,14 +526,17 @@ def main() -> int:
             if path.suffix.lower() not in FORMAL_EXTS:
                 continue
             checked_files += 1
+            language = ""
             try:
                 if path.suffix.lower() == ".docx":
                     document = Document(path)
+                    language = document.core_properties.language or ""
                     text = docx_text(path)
                     if not is_a4(document):
                         errors.append(f"{path.relative_to(REPO)}: kein A4-Format")
                 elif path.suffix.lower() == ".eml":
                     message = eml_message(path)
+                    language = str(message.get("Content-Language", ""))
                     text = eml_text(path)
                 else:
                     text = pdf_text(path)
@@ -539,21 +557,16 @@ def main() -> int:
                 errors.append(f"{path.relative_to(REPO)}: Paragrafenzeichen vorhanden")
             if re.search(r"\bParagraph(?:en|e|s)?\b", text, re.IGNORECASE):
                 errors.append(f"{path.relative_to(REPO)}: 'Paragraf' nicht ausgeschrieben")
-            if not re.search(r"[äöüÄÖÜß]", text):
-                errors.append(f"{path.relative_to(REPO)}: weder echter Umlaut noch scharfes S")
+            errors.extend(
+                f"{path.relative_to(REPO)}: {error}"
+                for error in language_prose_errors(text, path, language)
+            )
             lowered = text.lower()
             for marker in META_MARKERS:
                 if marker in lowered:
                     errors.append(
                         f"{path.relative_to(REPO)}: verräterischer Metahinweis {marker!r}"
                     )
-            prose = prose_without_technical_names(text, path)
-            match = TRANSLITERATION.search(prose)
-            if match:
-                errors.append(
-                    f"{path.relative_to(REPO)}: unechter Umlaut {match.group(0)!r}"
-                )
-
         for duplicates in hashes.values():
             if len(duplicates) > 1:
                 joined = ", ".join(str(path.relative_to(case)) for path in duplicates)
