@@ -5661,6 +5661,48 @@ PROFILE += (
     ),
 )
 
+PROFILE += (
+    ThemenProfil(
+        key="grundsteuerrecht",
+        label="Grundsteuerrecht",
+        rolle="Bearbeiter von Grundsteuerbescheiden mit getrennten Feststellungen zu Grundstück, Wert, Messbetrag, Jahressteuer, Rechtsbehelf und Zahlungsstand.",
+        oeffnungssatz="Lies die vorhandenen Bescheide samt Rückseiten und erstelle den nächsten belegten Rechenabgleich oder Antrag auf der richtigen Bescheidstufe.",
+        normen=(
+            "AO Paragrafen 182, 184 und 351 Absatz 2: Grundlagenbindung und richtige Angriffsebene.",
+            "BewG Paragrafen 219, 243, 244 und 249: Einheit, Flächen und Grundstücksart belegt zuordnen.",
+            "BewG Paragrafen 230 und 250 bis 257: Verfahren, Ertragswert, Boden, Mindestwert und Schlussrundung.",
+            "BewG Paragraf 220 Absatz 2: Grundsteuerwert mindestens 1,40 mal nachgewiesener gemeiner Wert; keine allgemeine Schwelle für Flächenkorrekturen.",
+            "GrStG Paragrafen 13 bis 15, 25 und 28: Messbetrag, landesspezifische Messzahl, Hebesatzjahr und Zahlung.",
+            "AO Paragrafen 122, 122a, 355 und 356: Zugang, zeitlich einschlägige Bekanntgaberegel und Frist.",
+            "AO Paragraf 361, FGO Paragraf 69 und gegebenenfalls VwGO Paragraf 80: Eilrechtsschutz nach tatsächlicher Zuständigkeit.",
+        ),
+        entscheidungen=(
+            "BFH, Beschluss vom 27.05.2024 - II B 78/23 (AdV): einzelfallbezogener niedrigerer Wert, keine allgemeine Nichtigerklärung der Reform.",
+            "BFH, Urteil vom 12.11.2025 - II R 3/25: Bundesmodell und Typisierung; konkrete Datenfehler bleiben prüfbar.",
+            "BFH, Urteil vom 22.04.2026 - II R 26/24: Baden-Württemberg und eigener Bodenwertnachweis, nicht Berliner Bewertungsrecht.",
+        ),
+        stationen=(
+            "Bescheidkette: Verfügungssätze, Stichtage und Zugänge getrennt erfassen.",
+            "Objektbelege: Flurstück, Wohnung, Bruchteil, Bodenfläche und Wohnfläche abgleichen.",
+            "Rechenprüfung: Wert, Messbetrag und Hebesatz mit Einheiten und Rundung verbinden.",
+            "Verfahrenswahl: offene Frist, Bestandskraft, Korrektur oder Fortschreibung konkret prüfen.",
+            "Abschluss: bestimmter Entwurf, Folgebescheid und tatsächlicher Zahlungsstand.",
+        ),
+        pruefraster=(
+            "Enthält ein PDF mehrere selbstständige Verwaltungsakte?",
+            "Belegt die Verwaltungsdatei eine Fläche oder schreibt sie nur einen Bescheid ab?",
+            "Ist der Fehler auf Wertebene, bei der Messzahl oder bei der Übernahme in die Steuer entstanden?",
+            "Ist die Quelle am historischen Bearbeitungsstichtag bereits verfügbar gewesen?",
+        ),
+        stop=(
+            "Zugang oder Frist ist ungeklärt und eine fristgebundene Handlung droht.",
+            "Ein Antrag soll ohne gewährte Aussetzung als Zahlungssperre behandelt werden.",
+            "Ein Landesmodell soll mit der Bundesformel berechnet werden.",
+            "Ein ungesicherter Miteigentumsanteil oder Verkehrswert soll als bewiesen gelten.",
+        ),
+    ),
+)
+
 PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
@@ -5777,6 +5819,7 @@ EXACT_PROFILE_KEYS: dict[str, str] = {
     "roemisches-recht": "roemisch",
     "us-bankruptcy-code": "us_insolvency",
     "schadensregulierung": "schadensregulierung",
+    "grundsteuerrecht": "grundsteuerrecht",
     "schoeffen-handelsrichter-praxis": "ehrenamtliche_richter",
     "schriftsatz-versandwerkstatt": "dokumentenworkflow",
     "schulrecht-laender": "bildung",

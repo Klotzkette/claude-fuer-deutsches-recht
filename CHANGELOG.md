@@ -1,3 +1,19 @@
+# v444.2.0 - Grundsteuerwerkstatt mit zehn Arbeitswegen
+
+## 1. Eigenständiges Grundsteuer-Plugin
+
+Zehn fokussierte Skills verbinden Bescheidregister, Grundstücks- und Flächenbelege, Landesmodell, Wertberechnung, niedrigeren Wertnachweis, Messbetrag, Hebesatz, Rechtsbehelf, Eilrechtsschutz und Umsetzung. Vorhandene Unterlagen werden zuerst ausgewertet; fehlende Werkzeuge führen zu einem nachvollziehbaren Teilentwurf statt einer Wiederholungsschleife. Ein ausführlicher Werkstatt-Prompt und ein kompakter Schnellstart sind separat und unabhängig vom Plugin verwendbar.
+
+## 2. Richtige Ebene, richtige Zeit, geprüfte Rechnung
+
+Die Arbeitswege unterscheiden zwei Dateien von drei Verwaltungsakten, Zurechnung von Miteigentumsanteil sowie ungerundeten Rechenwert von festgesetztem und übernommenem Messbetrag. Bundesmodell, Landesmodell Baden-Württemberg, Eilbeschluss und Hauptsacheentscheidung bleiben getrennt. Amtliche BFH-Anker aus 2024, 2025 und 2026 und der aktuelle Verfahrensstatus sind mit ihrer Reichweite dokumentiert. Historische Übungen projizieren spätere Rechtsänderungen nicht zurück.
+
+Eine optionale Rechenhilfe ohne Zusatzabhängigkeiten prüft Dezimalprodukte, Übernahmedifferenzen und die bundesrechtliche Nachweisschwelle. Fehlende Werte werden nicht als null ersetzt; mehrdeutige Zahlen, doppelte JSON-Felder und übergroße Eingaben brechen mit verständlicher Meldung ab. Zehn Regressionen sichern Rechenränder, Paketstruktur, Quellenbezug und Standalone-Prompts.
+
+## 3. Vorhandene Akte und Downloads
+
+Die Wolkenfels-Akte ist zusätzlich direkt beim Grundsteuer-Plugin erreichbar. Ihre beiden gelieferten Bescheid-PDFs und sämtliche Aktenstücke bleiben unverändert. Gesamt-PDF, Einzel-PDF-ZIP und Originalformat-ZIP werden weiter aus demselben Bestand angeboten. Marketplace, Skill-Verzeichnisse, Prompt-Downloads und Plugin-Katalog enthalten den neuen Einstieg; bestehende Fachskills werden nicht umbenannt oder ersetzt.
+
 # v444.1.0 - Berliner Personalakte zum Asset Deal
 
 ## 1. Fünfzig Arbeitsverträge und zwei Geschäftsführeranstellungen

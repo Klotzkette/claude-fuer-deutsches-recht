@@ -25,7 +25,7 @@ English: The original-format ZIP contains the working files directly at archive 
 
 ## 1. Unterlagen und Aktenstand
 
-Arbeitsakte zum Plugin `steuerrecht-anwalt-und-berater`, zugleich über den früheren Einstieg `fachanwalt-steuerrecht` erreichbar. Der frühere Name ist eine Weiterleitung, kein zweites installierbares Plugin. Beide Einstiege verweisen auf dieselbe Akte.
+Arbeitsakte zum spezialisierten Plugin [Grundsteuerrecht](../../grundsteuerrecht/README.md) mit zehn Arbeitswegen sowie zum Plugin `steuerrecht-anwalt-und-berater`, zugleich über den früheren Einstieg `fachanwalt-steuerrecht` erreichbar. Der frühere Name ist eine Weiterleitung, kein zweites installierbares Plugin. Alle Einstiege verweisen auf dieselbe unveränderte Akte.
 
 Kunibert Eberhard Freiherr von Wolkenfels erhält zur Wohnung WE 12 in der Giesebrechtstraße 18 in Berlin neue Steuerpost. Er reicht die Schreiben zusammen mit dem älteren Grundsteuerwertbescheid ein. Die ergänzende Korrespondenz und die Unterlagen der Hausverwaltung bilden den Sachstand am 22. November 2024 ab. Eine spätere Verfahrensentwicklung ist nicht vorgegeben.
 

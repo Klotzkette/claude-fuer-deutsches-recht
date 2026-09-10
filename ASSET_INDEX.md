@@ -1,6 +1,6 @@
 # Release-Asset-Index
 
-Stand: v444.1.0, automatisch aktualisierte Asset-Übersicht
+Stand: v444.2.0, automatisch aktualisierte Asset-Übersicht
 
 [Repository-Start](README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Skill-Gesamtübersicht](SKILLS.md) · [Testakten](testakten/README.md) · [Aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest)
 
@@ -25,7 +25,7 @@ Stand: v444.1.0, automatisch aktualisierte Asset-Übersicht
 | --- | --- |
 | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/anbieterneutrale-schnittstelle-kanzlei.odt" download><code>anbieterneutrale-schnittstelle-kanzlei.odt</code></a> | Anbieterneutrale Einrichtung, technischer Dummy-Test, Fachabnahme und Freigabevermerk für kleine Kanzleien. |
 
-## Plugin-Assets (236 Stück)
+## Plugin-Assets (237 Stück)
 
 Alle Plugins sind alphabetisch sortiert. Werkstatt- und Schnellstart-Prompts werden über die statische Downloadseite als Markdown-Dateien gespeichert, statt in einer Quelltextvorschau geöffnet zu werden. Es gibt dafür keine eigenen ZIP-Assets im Release.
 
@@ -162,6 +162,7 @@ English: Workshop and quick-start links download the unchanged Markdown files. R
 | [`goae-gebuehrenordnung-aerzte`](goae-gebuehrenordnung-aerzte/README.md) | Super-Plugin zur GOÄ: private Arztrechnungen prüfen, erstellen, begründen, beanstanden und prozessual verwerten. | [`goae-gebuehrenordnung-aerzte-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-werkstatt.md) | [`goae-gebuehrenordnung-aerzte-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-schnellstart.md) | [`goae-gebuehrenordnung-aerzte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/goae-gebuehrenordnung-aerzte.zip) | [README](goae-gebuehrenordnung-aerzte/README.md) · [Skills](skills-index/goae-gebuehrenordnung-aerzte.md) |
 | [`grosskanzlei-corporate-ma`](grosskanzlei-corporate-ma/README.md) | Corporate/M&amp;A-Plugin für Kanzlei- und Inhouse-Praxis: Deal-Intake, Datenraum, Legal DD, SPA/APA, Kaufpreis, W&amp;I, Regulatory, Signing, Closing, Integration, Board Papers und Spezial-Workflows. | [`grosskanzlei-corporate-ma-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grosskanzlei-corporate-ma/grosskanzlei-corporate-ma-werkstatt.md) | [`grosskanzlei-corporate-ma-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grosskanzlei-corporate-ma/grosskanzlei-corporate-ma-schnellstart.md) | [`grosskanzlei-corporate-ma.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grosskanzlei-corporate-ma.zip) | [README](grosskanzlei-corporate-ma/README.md) · [Skills](skills-index/grosskanzlei-corporate-ma.md) |
 | [`grundbuchamt-praxis`](grundbuchamt-praxis/README.md) | Praxisplugin für Grundbuchamt, Grundbuchauszug und grundbuchtaugliche Nachweise: Abteilung I/II/III lesen, Bewilligung, Antrag, Auflassung, Rang, Zwischenverfügung, Beschwerde, Grundschuldbrief, Aufgebot, Dienstbarkeiten, Vormerkung, Vorkaufsrecht, Teilung und Vollzug. | [`grundbuchamt-praxis-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-praxis/grundbuchamt-praxis-werkstatt.md) | [`grundbuchamt-praxis-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-praxis/grundbuchamt-praxis-schnellstart.md) | [`grundbuchamt-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundbuchamt-praxis.zip) | [README](grundbuchamt-praxis/README.md) · [Skills](skills-index/grundbuchamt-praxis.md) |
+| [`grundsteuerrecht`](grundsteuerrecht/README.md) | Grundsteuer von der Immobilie bis zum richtigen Rechtsbehelf: zehn Arbeitswege zu Lage, Landesmodell, Wert, Messbetrag, Hebesatz, Einspruch und Eilrechtsschutz mit nachrechenbaren Ergebnissen. | [`grundsteuerrecht-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/grundsteuerrecht-werkstatt.md) | [`grundsteuerrecht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/grundsteuerrecht-schnellstart.md) | [`grundsteuerrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundsteuerrecht.zip) | [README](grundsteuerrecht/README.md) · [Skills](skills-index/grundsteuerrecht.md) |
 
 ### H
 

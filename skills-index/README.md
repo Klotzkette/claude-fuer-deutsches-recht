@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v444.1.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v444.2.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22398 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22408 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -127,6 +127,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [goae-gebuehrenordnung-aerzte](./goae-gebuehrenordnung-aerzte.md) (66 Skills)
 - [grosskanzlei-corporate-ma](./grosskanzlei-corporate-ma.md) (229 Skills)
 - [grundbuchamt-praxis](./grundbuchamt-praxis.md) (65 Skills)
+- [grundsteuerrecht](./grundsteuerrecht.md) (10 Skills)
 
 ### H
 

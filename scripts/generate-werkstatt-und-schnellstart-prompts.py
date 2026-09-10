@@ -5421,6 +5421,20 @@ def supplemental_plugin_routes(plugin_slug: str) -> tuple[tuple[str, str, str], 
             ("Vorlage und Vollzugskontrolle", "Prüfe Fassungen, Anlagen, Beträge und Unterzeichner. Vorbereitet, freigegeben, versandt und eingetragen sind verschiedene Status. Signatur, Zeugnis und Amtshandlung bleiben beim Notar.", "ausformulierter Vorlagevermerk mit nächstem zulässigem Schritt"),
         )
 
+    if plugin_slug == "grundsteuerrecht":
+        return (
+            ("Verfügungssätze und Zugang", "Zähle Verwaltungsakte statt Dateien. Wert, Messbetrag und Jahressteuer mit eigenen Stichtagen, Zugangsbelegen und Belehrungen registrieren. Die neue Jahressteuer erneuert keine alte Wert-Einspruchsfrist.", "Bescheidregister und bei Fristgefahr sofortiger bestimmter Erstentwurf"),
+            ("Wohnung, Bruchteil und Fläche", "Trenne Zurechnung an der Wohnung, Miteigentumsbruch, gesamte Bodenfläche und Wohnfläche. Eine Pflasterfuge ersetzt kein Kataster; eine abgeschriebene Verwaltungs-CSV keinen unabhängigen Beleg.", "Flächenvergleich mit Quellen und gezielter Anforderung von Kataster oder Teilungsnachtrag"),
+            ("Landesmodell und Steuerjahr", "Die Grundstückslage bestimmt die Bewertungsregeln. Berliner Jahressteuer kommt hier vom Finanzamt. Historischen Aktenstand nicht mit erst später eingeführten Normen oder Entscheidungen vermengen.", "zeitlich und örtlich passender Normenvermerk mit konkreter Rechenroute"),
+            ("Ertragswert und Rundung", "Bei einschlägigem Wohngrundstück Tabellenmiete, Mietstufe, Kosten, Restnutzungsdauer, Vervielfältiger und Bodenabzinsung prüfen. Mindestwert nach BewG Paragraf 251 und Schlussrundung nach Paragraf 230 gesondert rechnen.", "nachrechenbare Bewertung mit Originalwerten, Formeln und offenem Rundungsbedarf"),
+            ("Niedrigerer gemeiner Wert", "BewG Paragraf 220 Absatz 2: Grundsteuerwert mindestens 1,40 mal nachgewiesener gemeiner Wert. Gesamte Einheit, Stichtag, Nachweisqualifikation und Änderbarkeit prüfen; nicht auf Landesmodelle übertragen.", "Schwellenvergleich und wirtschaftlich begründete Gutachteranfrage als Entwurf"),
+            ("Messbetrag und Jahressteuer", "Wert mal Promille geteilt durch 1000; Messbetrag mal Hebesatz geteilt durch 100. Rechnerischen, festgesetzten und im Jahresbescheid übernommenen Messbetrag nicht stillschweigend angleichen.", "Übernahmeabgleich mit Rohprodukten, Bescheidwerten und Ratenkontrolle"),
+            ("Einspruch oder Korrektur", "AO Paragraf 351 Absatz 2: Fehler an richtiger Stufe verfolgen. Bei Bestandskraft konkreten Korrekturtatbestand und BewG Paragraf 222 prüfen; keine pauschale Rückwirkung versprechen.", "bestimmter, vollständig begründeter Behördenbrief mit wirklichen Anlagen"),
+            ("Fälligkeit und Eilantrag", "Einspruch und Ruhen stoppen keine Zahlung. Finanzamtsroute nach AO Paragraf 361 und FGO Paragraf 69 von kommunaler Route nach VwGO Paragraf 80 trennen; drohende Vollstreckung vor Vollanalyse bearbeiten.", "Eilentwurf mit Betrag, Zweifeln oder Härtebelegen und getrenntem Zahlungsstand"),
+            ("Klage oder Verfahrensruhe", "II R 3/25 betrifft Bundesmodell, II R 26/24 Baden-Württemberg. Anhängige Verfassungsbeschwerde ist kein stattgebendes Urteil. Status und identische Rechtsfrage vor Ruhensantrag prüfen.", "begründete Verfahrenswahl und Klage- oder Ruhensantrag ohne pauschale Prozessgarantie"),
+            ("Änderung und Erstattung", "AO Paragrafen 175, 182 und 184: Wirkung auf Folgeakte kontrollieren. Neue Festsetzung, angekündigte Erstattung und tatsächlicher Zahlungseingang getrennt führen.", "Alt-Neu-Abgleich, offene Kassenpunkte und vollständiger Mandantenbrief"),
+        )
+
     if plugin_slug == "schadensregulierung":
         return (
             ("Vorfall und Bearbeiterrolle", "Ordne Meldung, Kenntnistag, Rechtsträger und benötigten Entwurf zu. Als Unternehmen VVG Paragraf 104 beachten; als bereits regulierender Versicherer keine Anzeige an sich selbst erzeugen.", "rollenrichtiger Erstentwurf mit Ereignis, gefährdeten Belegen, Zuständigkeit und offenem Deckungsstand"),
@@ -6365,6 +6379,7 @@ def practice_routes(
         "prozessrecht",
         "produktrecht",
         "schadensregulierung",
+        "grundsteuerrecht",
         "schulrecht-laender",
         "status-navigator-step-plan",
         "strafanzeige-vorbereiter",

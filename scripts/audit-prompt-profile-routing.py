@@ -17,7 +17,7 @@ from themen_profile import EXACT_PROFILE_KEYS, profile_for  # noqa: E402
 
 CRITICAL_ROUTES = dict(EXACT_PROFILE_KEYS)
 # Fachlich begrenzte Routensätze ohne zusätzliche Füllrouten.
-EXPECTED_ROUTE_COUNTS = {"arbeitszeugnisgenerator": 9, "notariat-alltag": 10, "schadensregulierung": 10}
+EXPECTED_ROUTE_COUNTS = {"arbeitszeugnisgenerator": 9, "notariat-alltag": 10, "schadensregulierung": 10, "grundsteuerrecht": 10}
 
 PROMPT_ASSERTIONS: dict[str, dict[str, tuple[str, ...]]] = {
     "grosskanzlei-corporate-ma": {

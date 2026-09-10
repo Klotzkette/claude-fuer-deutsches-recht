@@ -39,6 +39,16 @@ PRIORITY_GROUPS: list[tuple[str, tuple[str, ...]]] = [
 ]
 
 EXACT_GROUPS: dict[str, str] = {
+    "bescheide-und-fristen-ordnen": "1. Einstieg und Fallrouting",
+    "grundstueck-und-flaechen-abgleichen": "2. Unterlagen, Sachverhalt und Quellen",
+    "landesmodell-und-stichtag-bestimmen": "1. Einstieg und Fallrouting",
+    "grundsteuerwert-nachrechnen": "3. Prüfung, Anspruch und Subsumtion",
+    "niedrigeren-grundstueckswert-nachweisen": "3. Prüfung, Anspruch und Subsumtion",
+    "messbetrag-und-hebesatz-pruefen": "3. Prüfung, Anspruch und Subsumtion",
+    "einspruch-und-aenderungsantrag-entwerfen": "5. Verfahren, Behörde und Gericht",
+    "zahlung-und-eilrechtsschutz-sichern": "5. Verfahren, Behörde und Gericht",
+    "klage-und-musterverfahren-einordnen": "5. Verfahren, Behörde und Gericht",
+    "folgebescheid-und-mandantenbericht-abschliessen": "6. Ergebnis, Schreiben und Kommunikation",
     "schadenfall-aufnehmen": "1. Einstieg und Fallrouting",
     "versicherung-einschalten": "1. Einstieg und Fallrouting",
     "schadenpositionen-pruefen": "3. Prüfung, Anspruch und Subsumtion",
