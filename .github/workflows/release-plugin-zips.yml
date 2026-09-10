@@ -65,6 +65,7 @@ jobs:
           python3 scripts/validate-testakte-bwa-abstimmung.py
           python3 scripts/test-grundsteuer-wolkenfels.py
           python3 scripts/test-grundsteuerrecht.py
+          python3 scripts/test-digitaler-omnibus.py
           python3 scripts/test-schadensregulierung.py
           python3 scripts/test-notariatswerkstatt.py
           python3 scripts/test-geldwaeschepraevention.py

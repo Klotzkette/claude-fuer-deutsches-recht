@@ -44,7 +44,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Qualitätskontrolle Inhalte
 - **Norm-Aktualität**: Verweise auf BRAO/BORA/DSGVO/KI-VO mit Datum und ggf. Fassungsstand.
-- **Geltungsdaten KI-VO**: Art. 5 Verbote ab 02.02.2025; Art. 6 Hochrisiko ab 02.08.2026 — Richtlinie muss vorausschauend formuliert sein.
+- **Geltungsdaten KI-VO**: Art. 5 Verbote ab 02.02.2025; Artikel 113 neuer Fassung: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5, Anhang III ab 02.12.2027 und Anhang I ab 02.08.2028 — Richtlinie muss vorausschauend formuliert sein.
 - **DAV-/BRAK-Stellungnahmen**: aktueller Stand, ohne aus Modellwissen zu zitieren; Live-Verweis auf brak.de / anwaltverein.de.
 - **Datentransfer**: DPF, SCC, BCR korrekt unterschieden; bei US-Tools Aktualität DPF-Selbstzertifizierung.
 - **Berufshaftpflicht**: Hinweis auf Anpassung der Versicherung (§ 51 BRAO, § 19 VVG-Anzeigepflichten).

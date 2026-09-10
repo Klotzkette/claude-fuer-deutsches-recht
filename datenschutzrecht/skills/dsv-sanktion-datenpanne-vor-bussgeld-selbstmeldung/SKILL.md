@@ -5,6 +5,8 @@ description: "Für Dsv Sanktion Datenpanne vor Bussgeld Selbstmeldung: ordnet No
 
 # Datenschutzrecht-Brückenskill: Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen: Art.-33/34-Meldung, 72-Stunden-Timeline, Remediation und Bußgeldmilderung verbinden
 
+Rechtsstand 10. September 2026: COM(2025) 837, Verfahren 2025/0360(COD), ist noch ein Gesetzgebungsvorschlag. Die vorgeschlagenen 96 Stunden und eine erhöhte Meldeschwelle sind kein geltendes Recht. Artikel 33 verlangt bei meldepflichtigen Verletzungen unverzügliche Meldung, möglichst binnen 72 Stunden ab Kenntnis. Artikel 34 betrifft gesondert hohes Risiko. Nicht auf vollständige Aufklärung oder Akteneinsicht warten: tragfähige Erstmeldung mit kenntlich unvollständigen Angaben nach Artikel 33 Absatz 4 zur rechtzeitigen Freigabe vorbereiten. Pflichtmeldung und freiwillige Verteidigungsstellungnahme trennen; keine ungeprüften Schuldanerkenntnisse. Eine Meldung an die Bundesnetzagentur ersetzt die Datenschutzmeldung nicht. [Amtlicher Reformstand und Zuständigkeit](../../references/digitaler-omnibus-2026.md).
+
 
 ## Arbeitsweg
 

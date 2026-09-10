@@ -1,3 +1,17 @@
+# v444.3.0 - Digitaler Omnibus und getrennte Aufsichtswege
+
+## 1. Veröffentlichtes Änderungsrecht statt alter Zeitpläne
+
+Acht Fachpakete berücksichtigen die Verordnung (EU) 2026/1744 und das KI-MIG mit Rechtsstand 10. September 2026. Kompetenzförderung ohne individuelle Niveaugarantie, sensible Bias-Daten nach Artikel 4a, Transparenz und neue Inhaltsverbote werden getrennt geprüft. Die festen Hochrisikotermine, die Bestandsregeln und der geänderte Maschinenpfad ersetzen überholte Termin- und Verfahrensaussagen.
+
+## 2. Datenschutz bleibt eine eigenständige Prüfung
+
+Die noch laufenden Verfahren COM(2025) 837 und COM(2025) 501 werden nicht als geltende Befreiungen behandelt. Pflichtmeldung möglichst binnen 72 Stunden, Verarbeitungsverzeichnis, Betroffenenrechte und Folgenabschätzung bleiben nach geltendem Recht eingeordnet. Bundesnetzagentur, sektorale Behörden, Länder, Datenschutzaufsicht und europäische Sonderaufsicht werden nach dem konkreten Vorgang unterschieden.
+
+## 3. Fachliche Korrekturen und eigenständige Arbeitswege
+
+Vertauschte Artikel-50-Absätze und falsche Vorgaben zur notifizierten Stelle wurden berichtigt. Acht Schnellstarter und acht Werkstatt-Prompts enthalten eigene fachbezogene Reformabschnitte und amtliche Quellen. Bestehende Skill-Namen bleiben erhalten. Lokale Rechtsstandkarten funktionieren auch im einzeln installierten Paket; geschützte Prompttexte bleiben bei Generatorläufen erhalten. Regressionen sichern Verweise, Rollen, Fristen, Paketressourcen und Größenbudgets. Fallakten wurden nicht verändert.
+
 # v444.2.0 - Grundsteuerwerkstatt mit zehn Arbeitswegen
 
 ## 1. Eigenständiges Grundsteuer-Plugin

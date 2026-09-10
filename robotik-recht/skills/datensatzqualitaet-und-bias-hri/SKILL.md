@@ -23,7 +23,7 @@ Roboter, die Menschen erkennen, klassifizieren, priorisieren oder unterstützen 
 
 ## Rechtlicher Rahmen
 
-- **KI-VO Art. 10** Daten-Governance bei Hochrisiko-KI: relevante, repräsentative, fehlerfreie und vollständige Trainings-, Validierungs- und Testdaten; Verfahren zur Erkennung möglicher Verzerrungen ("biases") und ihrer Behebung; Art. 10 Abs. 5 erlaubt Verarbeitung besonderer Kategorien (Art. 9 DSGVO) zur Bias-Korrektur unter strikten Voraussetzungen.
+- **KI-VO Art. 10** Daten-Governance bei Hochrisiko-KI: relevante, repräsentative, fehlerfreie und vollständige Trainings-, Validierungs- und Testdaten; Verfahren zur Erkennung möglicher Verzerrungen ("biases") und ihrer Behebung; Artikel 4a neuer Fassung ersetzt Artikel 10 Absatz 5 für besondere Daten zur Bias-Korrektur: strikte Notwendigkeit, fehlende gleich wirksame Alternativen, geschützte dokumentierte Zugriffe, keine Weitergabe und frühestmögliche Löschung; Absatz 2 erweitert den Adressatenkreis nur unter zusätzlichen Voraussetzungen. [Rechtsstandkarte](../../references/digitaler-omnibus-2026.md).
 - **KI-VO Art. 9** Risikomanagement.
 - **KI-VO Art. 15** Genauigkeit, Robustheit, Cybersicherheit.
 - **DSGVO** Art. 5, 9, 22, 25, 35.

@@ -1,76 +1,43 @@
-# Ki Governance — Schnellstart
+# 1. System-Governance: Schnellstart
 
-Wenn du das hier öffnest, willst du ein reguliertes algorithmisches System schnell einordnen: Rolle, Risikoklasse, Stichtag, Nachweisakte und Behördenrisiko.
+Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Rolle und Lieferkette und Risikoklasse routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-Kernauftrag: EU-Regulierungsrahmen + Datenschutz-Grundverordnung – Use-Case-Triage, System-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der Systemrichtlinie. Vorrang hat das verlangte Arbeitsprodukt.
+Überführe einen konkreten Einsatz in eine belastbare Betriebsentscheidung. Nutze Inventar, Anbieterunterlagen, Richtlinie und Vorfallvermerk. Rechtsstand: 10. September 2026. Keine Gesamtinventur vor einem bestimmten Freigabe- oder Krisenauftrag.
 
-## 1. Sofortstart nach Eingangslage
+## 1. Verantwortung und Entscheidung
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Rolle und Lieferkette, Risikoklasse, Stichtag wählen; ohne konkreten Auftrag mit Rolle und Lieferkette beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bestimme Systemfunktion, Geschäftsprozess, Betroffene und verantwortlichen Leiter. Trenne Anbieterpflicht, Betreiberpflicht und Datenschutzverantwortlichkeit. Bei Fremdsoftware Informationszugang, Veränderungsrechte und tatsächliche Konfiguration prüfen. Liefere den verlangten Vorstandsbeschluss, Freigabevermerk oder Maßnahmenplan.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Rolle und Lieferkette, Risikoklasse, Stichtag und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 2. Risikoweg und Termine
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Artikel 5 tatbestandsbezogen prüfen; Zertifizierung und Kennzeichnung heilen kein Verbot. Neue Buchstaben ba und bb sowie Absätze 1a und 1b zu bestimmten intimen Inhalten und Missbrauchsdarstellungen gelten ab 2. Dezember 2026. Anbieterzweck beziehungsweise vorhersehbare reproduzierbare Erzeugung ohne angemessene Schutzmaßnahmen von gezielter Betreiberverwendung trennen.
 
-## 2. Fachlicher Direktstart
+Artikel 6 verlangt genaue Zweck- und Anhangszuordnung. Verordnung (EU) 2026/1744 verschiebt nach Artikel 113 Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: Anhang III ab 2. Dezember 2027, Anhang I ab 2. August 2028. Das sind feste Daten. Artikel 111 beim Bestand prüfen. Datenschutz, Produktsicherheit und Transparenz werden nicht allgemein aufgeschoben.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete Funktion und Zweckbestimmung hat das System.
-2. Kernprüfung in einem Durchgang: Welche Rolle hat der Mandant und wer schuldet welche Pflicht; Welche Risikoklasse ist nach Art. 5, Art. 6, Art. 50 oder Kapitel V einschlägig.
-3. Belege und Engpass zusammenführen: Nachweisachse Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen; besonders kritisch ist: Art.-5-Verbot, Marktaufsichtsfrist oder schwerwiegender Vorfall steht im Raum.
-4. Erstes Arbeitsprodukt liefern: Einordnungsmemo: Das System ist nach derzeitigem Stand [Rolle/Risikoklasse], weil [Zweckbestimmung] unter [Norm] fällt; Stichtag und Quellenstatus: [Datum/Quelle].
+## 3. Kompetenz und Freigabe
 
-## 3. Kernroute
+Artikel 4 neuer Fassung verlangt Fördermaßnahmen ohne Garantie eines bestimmten individuellen Kompetenzniveaus. Die Pflicht ist nicht gestrichen. Vorhandene Einweisungen und Kenntnisse verwerten; reale Lücken mit einer Übung, einem Ansprechpartner und einer erreichbaren Arbeitsanweisung schließen. Kein erfundener Pflichtkurs oder Zertifikatszwang.
 
-1. Rolle und Lieferkette: Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen.
-2. Risikoklasse: Art. 5, Art. 6 Abs. 1, Art. 6 Abs. 2, Art. 50, GPAI und Ausschlüsse in einer Entscheidungszeile ordnen.
-3. Stichtag: Verbote, GPAI, Art. 50, Anhang III und Anhang I nicht vermischen; Digital-Omnibus-Stand mit Quelle ausweisen.
-4. Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen.
-5. Behörden- und Sanktionslage: Marktaufsicht, Meldepflicht, interne Untersuchung, Frist, Zuständigkeit und Verteidigungsmaterial sichern.
+Bei menschlicher Hochrisikoaufsicht Artikel 26 Absatz 2 separat prüfen: Kompetenz, Ausbildung, Befugnis und Unterstützung. Ein geschulter Mitarbeiter ohne Eingriffsrecht ist keine wirksame Aufsicht. Entscheidung, Vertretung und Auslöser erneuter Prüfung schriftlich zuordnen.
 
-## 4. Fallkarte
+## 4. Daten und Veröffentlichungen
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | VO (EU) 2024/1689 Art. 2 und Art. 3; VO (EU) 2024/1689 Art. 5; VO (EU) 2024/1689 Art. 6 mit Anhang I und III |
-| Rechtsprechung | EuGH, Urteil vom 07.12.2023 - C-634/21; EuGH, Urteil vom 27.02.2025 - C-203/22 |
-| Tatbestand | Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen |
-| Beweislast | Nachweisachse Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen |
-| Rechtsfolge | Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Artikel 4a betrifft sensible Daten zur Bias-Korrektur, nicht Deepfakes. Absatz-1- oder Absatz-2-Rolle, strikte Notwendigkeit, fehlende gleich wirksame Alternativen, geschützte dokumentierte Zugriffe, keine Weitergabe und früheste Löschung nachweisen. Gründe im Verarbeitungsverzeichnis dokumentieren; keine pauschale Trainingserlaubnis.
 
-## 5. Einsatzfelder
+Artikel 50 Absatz 2 betrifft technische Anbieterkennzeichnung, Absatz 4 Betreiberhinweise. Grundsätzlich seit 2. August 2026; Artikel 111 Absatz 4 verlängert nur Absatz 2 für vor diesem Datum vermarktete Systeme bis 2. Dezember 2026. Eine Marketingfreigabe braucht daneben Persönlichkeits-, Wettbewerbs- und Datenschutzprüfung.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Rolle und Lieferkette | Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikoklasse | Art. 5, Art. 6 Abs. 1, Art. 6 Abs. 2, Art. 50, GPAI und Ausschlüsse in einer Entscheidungszeile ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Stichtag | Verbote, GPAI, Art. 50, Anhang III und Anhang I nicht vermischen; Digital-Omnibus-Stand mit Quelle ausweisen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Nachweisakte | Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Behörden- und Sanktionslage | Marktaufsicht, Meldepflicht, interne Untersuchung, Frist, Zuständigkeit und Verteidigungsmaterial sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+## 5. Aufsicht und Vorfall
 
-## 6. Anker
+KI-MIG seit 29. Juli 2026: Bundesnetzagentur als Auffangbehörde, Paragraf 2 mit sektoralen und Länder-Ausnahmen. BaFin nur im geregelten Zusammenhang mit beaufsichtigter Finanztätigkeit; Personalsoftware einer Bank nicht automatisch dort einordnen. Datenschutzaufsicht und EU-Sonderaufsicht getrennt prüfen.
 
-- VO (EU) 2024/1689 Art. 2 und Art. 3: Anwendungsbereich, Rollen und zentrale Begriffe.
-- VO (EU) 2024/1689 Art. 5: verbotene Praktiken seit 02.02.2025.
-- VO (EU) 2024/1689 Art. 6 mit Anhang I und III: Hochrisiko-Klassifikation und Pfadtrennung.
-- VO (EU) 2024/1689 Art. 9 bis Art. 15: Risikomanagement, Datenqualität, Dokumentation, Logging, Transparenz, Aufsicht, Genauigkeit und Cybersicherheit.
-- EuGH, Urteil vom 07.12.2023 - C-634/21: Scoring kann automatisierte Entscheidung nach Art. 22 Datenschutz-Grundverordnung sein, wenn der Score für die Entscheidung eines Dritten maßgeblich ist.
-- EuGH, Urteil vom 27.02.2025 - C-203/22: Betroffene brauchen aussagekräftige Informationen zur Logik automatisierter Entscheidungen; Geschäftsgeheimnisse schließen Transparenz nicht pauschal aus.
+Eine meldepflichtige Datenpanne bleibt nach Artikel 33 unverzüglich, möglichst binnen 72 Stunden zu melden. Die 96-Stunden-Idee aus COM(2025) 837, Verfahren 2025/0360(COD), ist noch Vorschlag. Fehlende Einzelheiten nachmelden; den Krisenentwurf nicht für ein vollständiges Audit anhalten.
 
-## 7. Antwortform
+## 6. Ergebnis und Quellen
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen.
-7.2. Norm: VO (EU) 2024/1689 Art. 2 und Art. 3; VO (EU) 2024/1689 Art. 5 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Rolle und Lieferkette“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Rolle hat der Mandant und wer schuldet welche Pflicht.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Einordnungsmemo“. Frist, Kernlücke und nächstem Dokument benennen.
+Jede Maßnahme mit Risiko, Verantwortlichem, Beleg und Termin verbinden. Einen nutzbaren Beschluss samt Freigabegrenze schreiben, keine bloße Ampel. Folgewünsche am geänderten Systemteil bearbeiten. Quellen für unveränderte Fragen weiterverwenden.
 
-## 8. Stop
+[Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html), [Datenschutz-Reformverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29). Ältere Datenschutzurteile sind keine Auslegung des neuen Artikels 4a. Vollständige Sätze, dezimale Gliederung, Times New Roman 11 pt.
 
-Nur bei diesem Stop-Punkt unterbrechen: Art.-5-Verbot, Marktaufsichtsfrist oder schwerwiegender Vorfall steht im Raum. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+## 7. Freigabestopp ohne Bearbeitungsstillstand
+
+Freigabestopp bei ungeklärtem Verbot, fehlender Eingriffsbefugnis oder ungedecktem Datenweg. Den Managemententwurf mit konkreter Bedingung und Verantwortlichem weiterbearbeiten; kein vollständiger Neustart des Inventars.

@@ -1,74 +1,32 @@
-# Datenschutzrecht — Aktualitätswächter
+# 1. Datenschutz und Reformstand
 
-**Zuletzt geprüft: 2026-05-10.**
+Prüfstand: 10. September 2026. Für den konkreten Vorgang geltende Pflicht und Reformvorschlag auseinanderhalten. Die [Rechtsstandkarte](digitaler-omnibus-2026.md) enthält die amtlichen Norm- und Verfahrensnachweise.
 
-> **Veraltungswarnung.** Liegt das Prüfdatum oben mehr als 90 Tage zurück, gilt diese Datei als veraltet. Behandeln Sie jeden Eintrag nur noch als Recherche-Checkliste, nicht als verlässliche Aussage über geltende Rechtslage. Wenn das Plugin diese Datei einliest, prüft es zunächst das Datum. Bei Veraltung gilt: "Der Aktualitätswächter wurde zuletzt am [Datum] — vor [N] Monaten — geprüft. Ich verwende ihn als Suchleitfaden, nicht als Rechtsquelle." Sobald ein Eintrag aktualisiert wird, ist auch das Prüfdatum oben zu erneuern.
+## 1.1. Was geändert ist und was nicht
 
-Das Datenschutzrecht entwickelt sich laufend weiter. Vor jeder Aussage zu einer Frist, einem Schwellenwert oder einer Pflicht ist eine Verifikation geboten. Dies sind die Bereiche mit dem höchsten Änderungsrisiko seit dem Trainings-Datenstand:
+Artikel 4a der Verordnung (EU) 2024/1689 gilt seit 27. Juli 2026 als enge Ausnahme für sensible Daten zur Verzerrungskorrektur. Er ersetzt keine allgemeine Datenschutzprüfung und befreit nicht von Betroffenenrechten oder Sicherheit. Anbieter und Betreiber sowie Absätze 1 und 2 getrennt prüfen.
 
-## DSGVO — Anpassungsbedarf und laufende Reformen
+Der gesonderte Datenschutz-Omnibus COM(2025) 837, Verfahren 2025/0360(COD), ist noch nicht geltendes Änderungsrecht. Auch das Verfahren 2025/0130(COD) zu Verzeichniserleichterungen ist gesondert zu verfolgen. Ein Vorschlag oder eine politische Einigung ersetzt den veröffentlichten endgültigen Rechtsakt nicht.
 
-- **DSGVO-Reform (Omnibus-Paket 2025/26):** Die Europäische Kommission hat ein Vereinfachungspaket angekündigt; Schwellenwerte für KMU und Pflichten zum Datenschutzbeauftragten werden diskutiert. Prüfen Sie den aktuellen Stand auf [EUR-Lex](https://eur-lex.europa.eu) und beim [EDSA (EDPB)](https://www.edpb.europa.eu).
-- **Art. 22 DSGVO (automatisierte Entscheidungen, Profiling):** Der EDSA hat Leitlinien zu automatisierten Entscheidungsprozessen verabschiedet (Leitlinien 05/2022, überarbeitet 2023). Kommt KI zum Einsatz, ist der Anwendungsbereich des Art. 22 zusammen mit den KI-Governance-Vorgaben des AI Act zu koordinieren.
-- **Verhältnis DSGVO / AI Act:** delegierte Rechtsakte zum AI Act können Art.-22-Pflichten konkretisieren; prüfen Sie aktuelle Durchführungsvorschriften beim [AI Office der EU-Kommission](https://digital-strategy.ec.europa.eu/en/policies/ai-office).
+## 1.2. Fristen und Risiken für die tägliche Bearbeitung
 
-## BDSG — nationale Besonderheiten
+| Vorgang | Aktueller Arbeitsmaßstab |
+| --- | --- |
+| Auskunft, Berichtigung, Löschung | Artikel 12 Absatz 3: grundsätzlich ein Monat; begründete Verlängerung um bis zu zwei weitere Monate und Mitteilung innerhalb des ersten Monats |
+| Datenpanne an Aufsicht | Artikel 33: unverzüglich, möglichst binnen 72 Stunden ab Kenntnis, außer voraussichtlich ohne Risiko; gegebenenfalls schrittweise Meldung |
+| Information der Betroffenen | Artikel 34: unverzüglich bei hohem Risiko, Ausnahmen gesondert prüfen |
+| Verarbeitungsverzeichnis | Artikel 30 Absatz 5: unter 250 Beschäftigten keine allgemeine Freistellung bei regelmäßiger Verarbeitung oder den weiteren gesetzlichen Ausnahmen |
+| Training und Betrieb | Rechtsgrundlagen nach Artikeln 6 und 9, Zweckbindung, Rechte und gegebenenfalls Folgenabschätzung; keine pauschale neue Interessenprivilegierung |
+| Cookies und Endgeräte | Paragraf 25 TDDDG und nachfolgende personenbezogene Verarbeitung getrennt prüfen; vorgeschlagene Reformen nicht vorziehen |
 
-- **§ 26 BDSG (Beschäftigtendatenschutz):** Das geplante Beschäftigtendatenschutzgesetz (BeschDSG) ist noch nicht in Kraft. Der Gesetzgebungsprozess ist zu verfolgen (Bundesministerium für Arbeit und Soziales, [BMAS](https://www.bmas.de)).
-- **§ 22 BDSG (Gesundheitsdaten):** Verarbeitung besonderer Kategorien bedarf neben Art. 9 DSGVO regelmäßig der nationalen Öffnungsklausel. Die Auslegung des BfDI und der Landesdatenschutzbehörden kann divergieren — konkrete Anfrage beim [BfDI](https://www.bfdi.bund.de) sinnvoll.
-- **§ 43 BDSG (Bußgeldrahmen):** Prüfen Sie, ob das Gesetz zur Anpassung der nationalen Bußgeldsätze an die DSGVO-Obergrenzen geändert wurde.
+Die 96-Stunden-Frist und eine generelle Verzeichnisbefreiung unter 750 oder 1000 Beschäftigten sind keine aktuellen Standardwerte dieses Plugins. Meldepflicht nicht mit dem höheren Risiko für Betroffeneninformation verwechseln. Reine Unvollständigkeit der technischen Analyse hält die Meldeuhr nicht an.
 
-## TDDDG (ehem. TTDSG) — Cookies und Einwilligungen
+## 1.3. Aufsicht richtig adressieren
 
-- **§ 25 TDDDG:** Das Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz regelt das Setzen von Cookies und den Zugriff auf Endgeräte. Die Auslegung wird durch laufende Behördenpraxis des [BfDI](https://www.bfdi.bund.de) sowie der Landesdatenschutzbehörden (insbesondere [LDA Bayern](https://www.lda.bayern.de)) konkretisiert.
-- **Einwilligungsmanagement-Plattformen (CMP):** Die [Datenschutzkonferenz (DSK)](https://www.datenschutzkonferenz-online.de) hat Orientierungshilfen zu CMPs veröffentlicht. Prüfen Sie deren aktuellen Stand, da Nachfolgeorientierungen noch ausstehen.
-- **PECR-Äquivalent EU:** Die ePrivacy-Verordnung ist noch nicht in Kraft. Verfolgen Sie den Stand beim EU-Parlament und Rat.
+Bundes- oder Landesdatenschutzaufsicht sowie bei grenzüberschreitender Verarbeitung federführende und betroffene Behörden nach Artikeln 55 und 56 bestimmen. Die Bundesnetzagentur übernimmt durch das KI-MIG nicht die allgemeine Datenschutzaufsicht. Bei paralleler technischer Marktüberwachung gesonderte Norm, Zuständigkeit und Meldung führen.
 
-## Internationale Datentransfers
+## 1.4. Quellenpflege im konkreten Fall
 
-- **EU-US Data Privacy Framework (DPF):** In Kraft seit Juli 2023. Gegenstand laufender Klagen (Schrems III). Vor jeder Beratung zum DPF die Gültigkeit beim [BfDI](https://www.bfdi.bund.de) und auf der [EU-Kommissions-Adequacy-Seite](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection_de) verifizieren.
-- **Standardvertragsklauseln (SCC) 2021:** Aktuell gültig; prüfen Sie, ob die Kommission Überarbeitungen oder ergänzende Klauseln für KI-Verarbeitung veröffentlicht hat.
-- **Schweiz–EU:** Das revidierte Schweizer Datenschutzgesetz (revDSG) gilt seit September 2023. Für Transfers Schweiz↔EU: Angemessenheitsentscheid der EU-Kommission beachten.
-- **UK–EU:** Der UK-Angemessenheitsbeschluss ist zeitlich befristet und muss erneuert werden. Verfallsdatum prüfen.
+Für Beschäftigtendaten Paragraf 26 BDSG und aktuelle unionsrechtliche Grenzen prüfen. Bei sensiblen Daten den passenden Tatbestand des Artikels 9 Absatz 2 nennen; Paragraf 22 BDSG ist keine stets zusätzlich erforderliche Universalgrundlage. Drittlandstransfer anhand des aktuell geltenden Angemessenheitsbeschlusses oder der konkret verwendeten Garantien prüfen, nicht anhand einer pauschalen Länderfreigabe.
 
-## EuGH-Rechtsprechung — aktuelle Entwicklungen
-
-Die folgende Rechtsprechung kann den Beratungsinhalt des Plugins unmittelbar berühren:
-
-- **Weitere Vorabentscheidungsverfahren:** Prüfen Sie laufende Verfahren zum Art. 82 DSGVO (Schadensersatz) und Art. 77–79 DSGVO (Beschwerderecht) beim [EuGH-Urteilsfinder](https://curia.europa.eu).
-
-## BGH / BVerwG — nationale Leitentscheidungen
-
-- **BVerwG:** Für Verwaltungs- und Behördenmandate prüfen Sie Entscheidungen zur behördlichen Datenschutzkontrolle und zum Informationszugang.
-
-## Behördliche Orientierungshilfen und DSK-Beschlüsse
-
-Die Datenschutzkonferenz und die Aufsichtsbehörden der Länder veröffentlichen laufend aktualisierte Orientierungshilfen. Prüfen Sie vor Mandatsabschluss:
-
-| Behörde | Quelle |
-|---|---|
-| Bundesdatenschutzbeauftragter (BfDI) | [bfdi.bund.de](https://www.bfdi.bund.de) |
-| Landesdatenschutzamt Bayern (LDA) | [lda.bayern.de](https://www.lda.bayern.de) |
-| Datenschutzkonferenz (DSK) | [datenschutzkonferenz-online.de](https://www.datenschutzkonferenz-online.de) |
-| Europäischer Datenschutzausschuss (EDSA) | [edpb.europa.eu](https://www.edpb.europa.eu) |
-| EUR-Lex (EU-Gesetzgebung) | [eur-lex.europa.eu](https://eur-lex.europa.eu) |
-
-## Betroffenenrechte — Fristen im Überblick
-
-| Recht | Frist | Verlängerung | Rechtsgrundlage |
-|---|---|---|---|
-| Auskunft (Art. 15 DSGVO) | 1 Monat | + 2 Monate bei Komplexität, mit Mitteilung | Art. 12 Abs. 3 DSGVO |
-| Berichtigung (Art. 16) | 1 Monat | + 2 Monate | Art. 12 Abs. 3 DSGVO |
-| Löschung (Art. 17) | 1 Monat | + 2 Monate | Art. 12 Abs. 3 DSGVO |
-| Datenpannenmeldung an Behörde | 72 Stunden | Keine — nur begründete Verzögerung | Art. 33 Abs. 1 DSGVO |
-| Datenpannenmeldung an Betroffene | Unverzüglich | Wenn hohes Risiko | Art. 34 Abs. 1 DSGVO |
-
-Die Plugin-Standardwerte für diese Fristen können für neu hinzugetretene nationale Regelungen unvollständig sein. Jeweils verifizieren.
-
-## Verwendungshinweis
-
-Wenn das Plugin einen DSGVO-Artikel, eine Frist oder einen Schwellenwert zitiert, ist anzumerken: "Das Datenschutzrecht entwickelt sich laufend weiter — dieser Stand kann sich seit dem Trainings-Datenstand verändert haben. Verifizieren Sie bei [BfDI](https://www.bfdi.bund.de) / [EDSA](https://www.edpb.europa.eu). Siehe `references/currency-watch.md`."
-
-**Diese Datei veraltet.** Stand: Mai 2026. Aktualisieren Sie sie, sobald Sie Abweichungen bemerken.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Leitlinien zu biometrischer Erkennung nicht als Leitlinien zu sämtlichen automatisierten Entscheidungen zitieren. Datenschutzrechtsprechung und technische Regulierung nach ihrer jeweiligen Aussage zuordnen. Bei fehlender Primärquelle den offenen Punkt benennen, aber fristgebundene Bearbeitung nicht in einer Suchschleife aufhalten.

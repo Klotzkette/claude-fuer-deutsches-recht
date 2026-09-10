@@ -1,77 +1,45 @@
-# Robotik Recht — Schnellstart
+# 1. Robotikrecht: Schnellstart
 
-Wenn du das hier öffnest, willst du Produktsicherheit, Haftung, Warnung, Rückruf oder Launch-Freigabe schnell nach Risiko und Nachweis entscheiden.
+Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Produkt und Rolle und Fehler und Risiko routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-Kernauftrag: Robotik-Recht Deutschland/EU: Maschinenverordnung, Regulierungsrahmen, Produkthaftung, ProdSG, Datenschutz, CRA, Data Act, CE, Marktüberwachung, Unfälle, Rückruf, Verträge und Robotik-Testakte. Vorrang hat das verlangte Arbeitsprodukt.
+Ordne die konkrete Roboterfunktion und ihre Fehlerfolge ein. Lies Anleitung, Sicherheitskonzept, Systemversion, Konformitätserklärung und Ereignisprotokoll. Stand: 10. September 2026. Keine gesamte Fabrikinventur vor einem Unfall-, Beschaffungs- oder Freigabeauftrag.
 
-## 1. Sofortstart nach Eingangslage
+## 1. Funktion, Rolle und Schadenpfad
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Produkt und Rolle, Fehler und Risiko, Pflichten und Belege wählen; ohne konkreten Auftrag mit Produkt und Rolle beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Hersteller, Integrator, Betreiber, Wartung und Lieferanten auseinanderhalten. Was hat sich bewegt, entschieden oder verändert? Bestimmungsgemäße Verwendung, vorhersehbare Fehlanwendung, Update und Sicherheitsfunktion anhand von Belegen prüfen. Bei Unfall Logs und Zustand unverändert sichern; keine gefährliche Wiederholung zur Demonstration.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Produkt und Rolle, Fehler und Risiko, Pflichten und Belege und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 2. Neuer Produktpfad
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Verordnung (EU) 2026/1744 hat die Maschinenverordnung (EU) 2023/1230 in Anhang I Abschnitt B verschoben. Artikel 2 Absatz 2 der Verordnung (EU) 2024/1689 und geändertes Maschinenrecht zuerst prüfen. Nicht automatisch den früheren Abschnitt-A-Pfad mit zusätzlicher Konformitätsbewertung nach Artikel 43 Absatz 3 verwenden.
 
-## 2. Fachlicher Direktstart
+Artikel 6 Absätze 1a bis 1c präzisieren Sicherheitsbauteile: reine nicht sicherheitsbezogene Komfort- oder Qualitätsfunktion genügt nicht. Gesundheits- oder sicherheitsgefährdender Ausfall kann die Einordnung tragen. Drittprüfung nur wegen anderer Risiken genügt nicht für Absatz 1 Buchstabe b. Medizinrobotik und sonstige Produktregime getrennt prüfen. Eigenständige Anhang-III-Funktionen nicht übersehen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Produkt, welche Charge, welche Version und welche Nutzung sind betroffen.
-2. Kernprüfung in einem Durchgang: Welche Sicherheitserwartung war im Zeitpunkt des Inverkehrbringens berechtigt; Welche Warnung, Anleitung, Norm oder Beobachtungslage trägt die Entscheidung.
-3. Belege und Engpass zusammenführen: Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung; besonders kritisch ist: Gefahr für Leben, Gesundheit oder erhebliche Sachwerte ist nicht ausgeschlossen.
-4. Erstes Arbeitsprodukt liefern: Launch-Matrix, Rückrufmemo, Haftungsanalyse, Behördenantwort oder Verteidigungsschreiben erstellen.
+## 3. Termine nicht vermischen
 
-## 3. Kernroute
+Maschinenverordnung grundsätzlich ab 20. Januar 2027. Artikel 113 verschiebt bestimmte Systempflichten: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 2. Dezember 2027, für Anhang I ab 2. August 2028. Artikel 111 zum Bestand hinzunehmen. Das setzt weder bestehende Produktsicherheit noch Arbeitsschutz oder Datenschutz aus.
 
-1. Produkt und Rolle: Hersteller, Importeur, Händler, Fulfilment, Plattform, Betreiber oder Geschädigter bestimmen.
-2. Fehler und Risiko: Konstruktion, Fabrikation, Instruktion, Software, Update, Cyberrisiko und vorhersehbare Verwendung trennen.
-3. Pflichten und Belege: technische Norm, Test, Anleitung, Warnung, Reklamation, Produktbeobachtung und Marktüberwachung prüfen.
-4. Reaktion: Korrektur, Warnung, Rückruf, Behördenmeldung, Kundenkommunikation und Beweissicherung planen.
-5. Arbeitsprodukt: Launch-Matrix, Rückrufmemo, Haftungsanalyse, Behördenantwort oder Verteidigungsschreiben erstellen.
+Artikel 43 nach richtigem Anhang: Anhang III Nummer 1 mit Bedingungen für interne Kontrolle beziehungsweise notifizierte Stelle, Nummern 2 bis 8 grundsätzlich interne Kontrolle. Eine bloße Zertifikatswerbung ersetzt keinen Nachweis.
 
-## 4. Fallkarte
+## 4. Mensch, Daten und synthetische Ausgaben
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | ProdHaftG Paragraf 1; ProdHaftG Paragraf 3; ProdHaftG Paragraf 4 |
-| Rechtsprechung | BGH, Urteil vom 16.06.2009 - VI ZR 107/08; BGH, Urteil vom 05.02.2013 - VI ZR 1/12 |
-| Tatbestand | Hersteller, Importeur, Händler, Fulfilment, Plattform, Betreiber oder Geschädigter bestimmen |
-| Beweislast | Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung |
-| Rechtsfolge | Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Artikel 4 verlangt Kompetenzförderung ohne individuelle Niveaugarantie. Einweisung auf realen Arbeitsablauf, Eingriffsrecht und bekannte Fehlerbilder ausrichten. Bei einschlägiger Hochrisikoaufsicht Artikel 26 Absatz 2 separat prüfen.
 
-## 5. Einsatzfelder
+Artikel 4a betrifft sensible Bias-Daten: richtige Rolle und Absatz, strikte Notwendigkeit, keine gleich wirksamen anderen Daten, geschützte dokumentierte Zugriffe, keine Weitergabe und früheste Löschung. Nicht pauschal Mitarbeiterbilder an den Hersteller zur Modellverbesserung senden.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Produkt und Rolle | Hersteller, Importeur, Händler, Fulfilment, Plattform, Betreiber oder Geschädigter bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fehler und Risiko | Konstruktion, Fabrikation, Instruktion, Software, Update, Cyberrisiko und vorhersehbare Verwendung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichten und Belege | Technische Norm, Test, Anleitung, Warnung, Reklamation, Produktbeobachtung und Marktüberwachung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Reaktion | Korrektur, Warnung, Rückruf, Behördenmeldung, Kundenkommunikation und Beweissicherung planen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Launch-Matrix, Rückrufmemo, Haftungsanalyse, Behördenantwort oder Verteidigungsschreiben erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Artikel 50 regelt Transparenz, Deepfakes stehen in Absatz 4. Technische Anbieterkennzeichnung nach Absatz 2 getrennt halten. Nur Altanbieter vor dem 2. August 2026 vermarkteter Systeme erhalten nach Artikel 111 Absatz 4 bis 2. Dezember 2026 Zeit für Absatz 2. Neue Inhaltsverbote nach Artikel 5 Buchstaben ba und bb ab 2. Dezember 2026 nicht mit Artikel 4a verwechseln.
 
-## 6. Anker
+## 5. Vorfall und Zuständigkeit
 
-- ProdHaftG Paragraf 1: verschuldensunabhängige Haftung des Herstellers.
-- ProdHaftG Paragraf 3: Fehlerbegriff und berechtigte Sicherheitserwartung.
-- ProdHaftG Paragraf 4: Herstellerbegriff.
-- GPSR Artikel 5: allgemeine Sicherheitsanforderung.
-- ProdHaftG (national, vor 09.12.2026): Beweislast Geschädigter für Fehler, Schaden, Kausalität (Paragraf 1 Abs. 4 ProdHaftG); Hersteller für Befreiungstatbestände Paragraf 1 Abs. 2 ProdHaftG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- ZPO Paragrafen 142, 144 (Anordnung der Vorlage), Paragrafen 421-432 (Urkunden), Paragraf 286 freie Beweiswürdigung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 810 BGB Einsicht in Urkunden bei rechtlichem Interesse; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 16.06.2009 - VI ZR 107/08: Ein Konstruktionsfehler liegt vor, wenn das Produkt unter dem bei Inverkehrbringen nach Wissenschaft und Technik objektiv möglichen und zumutbaren Sicherheitsstandard bleibt; eine überlegene Alternative muss praktisch serienreif sein.
+Produktvigilanz, Systemvorfall und Datenpanne haben unterschiedliche Adressaten und Fristen. Keine pauschale 15-Tage-Frist für alle Ereignisse. Artikel 33 der Datenschutz-Grundverordnung bleibt bei unverzüglich, möglichst 72 Stunden; COM(2025) 837 ist noch Reformvorschlag.
 
-## 7. Antwortform
+KI-MIG: Bundesnetzagentur als Auffangbehörde mit Ausnahmen nach Paragraf 2. Tatsächliche Produktaufsicht und Länderzuständigkeit prüfen; kein Ministerium allein wegen seiner fachpolitischen Rolle als zuständigen Marktüberwacher benennen.
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf.
-7.2. Norm: ProdHaftG Paragraf 1; ProdHaftG Paragraf 3 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Produkt und Rolle“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Sicherheitserwartung war im Zeitpunkt des Inverkehrbringens berechtigt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Produkt und Rolle“. Frist, Kernlücke und nächstem Dokument benennen.
+## 6. Arbeitsprodukt
 
-## 8. Stop
+Erstelle den Freigabevermerk, die präzise Ingenieurfrage, den Lieferantenentwurf oder die Behördenantwort. Funktion, Ausfallpfad, Beleg, Normfassung, Termin und Maßnahme zusammenführen. Ungeprüfte Sicherheit nicht bescheinigen; tragfähigen Teil trotzdem liefern. Dezimale Gliederung, vollständige Sätze, Times New Roman 11 pt.
 
-Nur bei diesem Stop-Punkt unterbrechen: Gefahr für Leben, Gesundheit oder erhebliche Sachwerte ist nicht ausgeschlossen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Quellen: [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [Maschinenverordnung](https://eur-lex.europa.eu/eli/reg/2023/1230/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html). Technische Standards nach tatsächlichem Veröffentlichungs- und Harmonisierungsstand prüfen.
+
+## 7. Freigabestopp ohne Bearbeitungsstillstand
+
+Stoppe eine unbelegte technische Sicherheitsfreigabe und jede gefährliche Versuchswiederholung. Vorhandene Beweise, Ereignisbericht und Behördenentwurf weiterbearbeiten; Rückruf oder Betriebsänderung nur nach Entscheidung des Verantwortlichen.

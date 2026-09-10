@@ -8,19 +8,19 @@ Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `ki-governance`.
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn bei der Governance algorithmischer Systeme ein juristisches Arbeitsprodukt tragfähig begründet w…
 2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
-3. **use-case-risk-classification** — Für Use-Case-Risikoklassifizierung nach europäischer Technikregulierungsrahmen und DSGVO: ordnet Norm, Beweislast und Ge…
-4. **rechtsquellen-sonderfall-edge-case** — Für Rechtsquellen: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mi…
-5. **ki-governance-mandatsworkspace-kontexttrennung** — Für digitale Werkzeuge-Governance-Mandatsworkspace und Kontexttrennung: ordnet Norm, Beweislast und Gegenargument; Ergeb…
-6. **spezial-pruefung-internationaler-bezug-und-schnittstellen** — Für Prüfung: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstell…
-7. **ki-folgenabschaetzung-ki-governance-mandat** — Für /ki-folgenabschätzung – digitale Werkzeuge-Folgenabschätzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: P…
-8. **marketing-mandantenkommunikation-entscheidungsvorlage** — Für Marketing: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Man…
-9. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
-10. **triage-haftung-versicherung-anwendungsfall** — Für Triage: Fristen, Form, Zuständigkeit und Rechtsweg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfp…
-11. **vo-pflichtenpyramide-kig-ai-foundation** — Für europäischer Technikregulierungsrahmen Pflichtenpyramide: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
-12. **inventar-kontrollen-konformitaetsbewertung** — Für digitale Werkzeuge-Inventar, Governance und Kontrollen: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gege…
-13. **konformitaetsbewertung-red-team-und-qualitaetskontrolle** — Für Konformitätsbewertung: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gege…
-14. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
-15. **review-schriftsatz-brief-und-memo-bausteine** — Für Review: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schrifts…
+3. **ki-rote-linien-art-5-pruefen** — Prüft verbotene Systempraktiken anhand von Zweck, tatsächlicher Verwendung und Ausnahmen. Trennt bestehende Verbote von …
+4. **use-case-risk-classification** — Für Use-Case-Risikoklassifizierung nach europäischer Technikregulierungsrahmen und DSGVO: ordnet Norm, Beweislast und Ge…
+5. **rechtsquellen-sonderfall-edge-case** — Für Rechtsquellen: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mi…
+6. **ki-governance-mandatsworkspace-kontexttrennung** — Für digitale Werkzeuge-Governance-Mandatsworkspace und Kontexttrennung: ordnet Norm, Beweislast und Gegenargument; Ergeb…
+7. **spezial-pruefung-internationaler-bezug-und-schnittstellen** — Für Prüfung: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstell…
+8. **ki-folgenabschaetzung-ki-governance-mandat** — Für /ki-folgenabschätzung – digitale Werkzeuge-Folgenabschätzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: P…
+9. **marketing-mandantenkommunikation-entscheidungsvorlage** — Für Marketing: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Man…
+10. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+11. **triage-haftung-versicherung-anwendungsfall** — Für Triage: Fristen, Form, Zuständigkeit und Rechtsweg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfp…
+12. **vo-pflichtenpyramide-kig-ai-foundation** — Für europäischer Technikregulierungsrahmen Pflichtenpyramide: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
+13. **inventar-kontrollen-konformitaetsbewertung** — Für digitale Werkzeuge-Inventar, Governance und Kontrollen: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gege…
+14. **konformitaetsbewertung-red-team-und-qualitaetskontrolle** — Für Konformitätsbewertung: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gege…
+15. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
 
 ---
 
@@ -193,6 +193,43 @@ Dieser Einstieg routet **Ki Governance** vom ersten Sachverhalt zu Rollen, Frist
 
 ---
 
+## Skill: `ki-rote-linien-art-5-pruefen`
+
+_Prüft verbotene Systempraktiken anhand von Zweck, tatsächlicher Verwendung und Ausnahmen. Trennt bestehende Verbote von den neuen Inhaltsverboten ab Dezember 2026 und erstellt einen begründeten Stopp-, Änderungs- oder Freigabevermerk._
+
+# 1. Verbotene Praktiken gezielt prüfen
+
+## 1. Zweck und Anwendungsfall
+
+Bewerte ein konkretes Vorhaben vor Freigabe oder nach einem Vorfall. Die Verordnung (EU) 2026/1744 erweitert Artikel 5 der Verordnung (EU) 2024/1689. Eine Hochrisikoeinstufung oder Kennzeichnung legalisiert kein verbotenes Verhalten.
+
+## 2. Eingaben
+
+Zweckbeschreibung, tatsächliche Nutzung, betroffene Personen, Beeinflussungsmechanismus, Anbieterfunktion, Einführungsdatum und vorhandene Schutzmaßnahmen aus der Akte lesen. Bei fehlenden Tatsachen eine bestimmte Funktion nachfragen, keine vollständige Modellarchitektur verlangen.
+
+## 3. Ablauf
+
+1. Bisherige Verbote seit 2. Februar 2025 tatbestandsbezogen prüfen: Manipulation, Ausnutzung von Schutzbedürftigkeit, Social Scoring, bestimmte Straftatprognosen, ungezielter Aufbau von Gesichtserkennungsdatenbanken, bestimmte Emotionserkennung, sensible biometrische Kategorisierung und biometrische Echtzeit-Fernidentifizierung. Je Tatbestand Schutzgut, Schwelle, Zweck und Ausnahme belegen.
+2. Neue Artikel 5 Absatz 1 Unterabsatz 1 Buchstaben ba und bb sowie Absätze 1a und 1b ab 2. Dezember 2026: nicht einvernehmliches intimes Material über bestimmbare Personen und Darstellungen sexuellen Missbrauchs von Kindern gesondert prüfen.
+3. Anbieter: Ist die Erzeugung Zweckbestimmung oder ohne erhebliche technische Änderungen vernünftigerweise vorhersehbares reproduzierbares Ergebnis ohne angemessene Schutzvorkehrungen? Tatsächliche Prävention und Korrektur statt bloßem Vertragsverbot bewerten.
+4. Betreiber: konkrete zweckgerichtete Nutzung feststellen. Nicht jede Mehrzwecksoftware wegen abstrakter Missbrauchsmöglichkeit verbieten. Bei gesetzlich geregelten Rechtfertigungen deren Voraussetzungen und nationale Grundlage verifizieren.
+5. Zeitstand beachten: Vor dem neuen Anwendungsdatum andere Straf-, Persönlichkeits- und Jugendschutzregeln nicht als ausgesetzt darstellen. Keine verbotenen Darstellungen für eine Prüfung neu erzeugen.
+6. Wenn kein Verbot: Hochrisiko, Transparenz, Datenschutz und sonstige Fachpflichten anschließend prüfen. Ein negatives Artikel-5-Ergebnis ist keine umfassende Freigabe.
+
+## 4. Quellenpflicht
+
+[Rechtsstandkarte, Abschnitte 1.1 und 1.2](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/digitaler-omnibus-2026.md), [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/zitierweise.md). Artikel 4a ist die Datenregel zur Verzerrungskorrektur, nicht der neue Deepfake-Tatbestand. Keine Urteile zur alten Fassung als Auslegung der neuen Verbote ausgeben.
+
+## 5. Ausgabeformat
+
+Ausformulierter Vermerk mit bestimmter Funktion, Tatbestand, Gegenargument, Beleglücke, Änderungsoption und Freigabegrenze. Kein bloßes Rot-Grün-Raster. Times New Roman 11 pt, dezimale Gliederung; bei Textausgabe Exporthinweis. Abschaltung, Meldung und Veröffentlichung bedürfen gesonderter Freigabe.
+
+## 6. Beispiele
+
+Bei synthetischer Werbung erst Einwilligung und konkreten Inhalt prüfen; eine allgemeine Kennzeichnung ist keine Heilung. Bei einer behaupteten Strafverfolgungsausnahme müssen Zweck, Befugnis und Voraussetzungen anhand der konkreten Rechtsgrundlage feststehen.
+
+---
+
 ## Skill: `use-case-risk-classification`
 
 _Für Use-Case-Risikoklassifizierung nach europäischer Technikregulierungsrahmen und DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
@@ -202,7 +239,7 @@ _Für Use-Case-Risikoklassifizierung nach europäischer Technikregulierungsrahme
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn gestaffelt (02.02.2025 Verbote, 02.08.2025 GPAI, 02.08.2026 Hochrisiko Anhang III), schwerwiegender Vorfall 15 Tage, DSGVO DPIA vorab.
+- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
 - Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -225,7 +262,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## KI-VO-Klassifizierungslogik (VO (EU) 2024/1689)
 - **Verboten (Art. 5 KI-VO, gilt ab 02.02.2025)**: u. a. Social Scoring durch öffentliche Stellen, manipulative Techniken, biometrische Kategorisierung nach sensiblen Merkmalen, Echtzeit-Fernidentifikation im öffentlichen Raum.
-- **Hochrisiko (Art. 6 i. V. m. Anhang III, gilt ab 02.08.2026)**: u. a. Bildung, Beschäftigung (Recruiting, Performance), kritische Infrastruktur, Strafverfolgung, biometrische Identifikation, Migration, Justiz und demokratische Prozesse, Gesundheits-/Lebensversicherungs-Risikoscoring.
+- **Hochrisiko (Art. 6 i. V. m. Anhang III, Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 nach Artikel 113 ab 02.12.2027)**: u. a. Bildung, Beschäftigung (Recruiting, Performance), kritische Infrastruktur, Strafverfolgung, biometrische Identifikation, Migration, Justiz und demokratische Prozesse, Gesundheits-/Lebensversicherungs-Risikoscoring.
 - **Begrenztes Risiko mit Transparenzpflicht (Art. 50)**: Chatbots, Emotionserkennung, biometrische Kategorisierung, Deepfakes.
 - **Minimales Risiko**: alle übrigen Systeme.
 
@@ -657,7 +694,7 @@ _Für /ki-folgenabschätzung – digitale Werkzeuge-Folgenabschätzung: ordnet N
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn gestaffelt (02.02.2025 Verbote, 02.08.2025 GPAI, 02.08.2026 Hochrisiko Anhang III), schwerwiegender Vorfall 15 Tage, DSGVO DPIA vorab.
+- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
 - Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -1092,7 +1129,7 @@ _Für Marketing: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, B
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn gestaffelt (02.02.2025 Verbote, 02.08.2025 GPAI, 02.08.2026 Hochrisiko Anhang III), schwerwiegender Vorfall 15 Tage, DSGVO DPIA vorab.
+- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
 - Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -1161,7 +1198,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - **"Wir haben einen KI-Vorfall"** → Vorfallmeldung Art. 73 KI-VO (Hochrisiko) plus Art. 33/34 DSGVO bei personenbezogenen Daten.
 
 ## Praxis-Tipp
-Eine Kanzlei-KI-Richtlinie ohne Inventar und Klassifizierung ist Symbolpolitik. Empfehlung: zuerst inventarisieren (welches Tool, welche Daten, welche Rolle), dann klassifizieren (KI-VO-Risikoklasse, DSGVO-Datenkategorie), dann Richtlinie. Geltungsbeginn Art. 5 KI-VO seit 02.02.2025, Art. 6 ff. Hochrisiko ab 02.08.2026.
+Eine Kanzlei-KI-Richtlinie ohne Inventar und Klassifizierung ist Symbolpolitik. Empfehlung: zuerst inventarisieren (welches Tool, welche Daten, welche Rolle), dann klassifizieren (KI-VO-Risikoklasse, DSGVO-Datenkategorie), dann Richtlinie. Geltungsbeginn Art. 5 KI-VO seit 02.02.2025, Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027 und Anhang I ab 02.08.2028 nach Artikel 113 neuer Fassung. Nur die Funktion im aktuellen Auftrag inventarisieren; vorhandene Einstufung verwerten.
 
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
@@ -1214,7 +1251,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn gestaffelt (02.02.2025 Verbote, 02.08.2025 GPAI, 02.08.2026 Hochrisiko Anhang III), schwerwiegender Vorfall 15 Tage, DSGVO DPIA vorab.
+- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
 - Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -1253,7 +1290,7 @@ Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 i
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn gestaffelt (02.02.2025 Verbote, 02.08.2025 GPAI, 02.08.2026 Hochrisiko Anhang III), schwerwiegender Vorfall 15 Tage, DSGVO DPIA vorab.
+- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
 - Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -1313,7 +1350,7 @@ _Für digitale Werkzeuge-Inventar, Governance und Kontrollen: prüft Ergebnis, B
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn gestaffelt (02.02.2025 Verbote, 02.08.2025 GPAI, 02.08.2026 Hochrisiko Anhang III), schwerwiegender Vorfall 15 Tage, DSGVO DPIA vorab.
+- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
 - Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -1368,7 +1405,7 @@ _Für Konformitätsbewertung: Red-Team und Qualitätskontrolle: prüft Ergebnis,
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn gestaffelt (02.02.2025 Verbote, 02.08.2025 GPAI, 02.08.2026 Hochrisiko Anhang III), schwerwiegender Vorfall 15 Tage, DSGVO DPIA vorab.
+- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
 - Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -1461,56 +1498,6 @@ Dieser Quellen-Livecheck für **Ki Governance** trennt amtliche Normfassung, fre
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-
----
-
-## Skill: `review-schriftsatz-brief-und-memo-bausteine`
-
-_Für Review: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
-
-# Review: Schriftsatz-, Brief- und Memo-Bausteine
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn gestaffelt (02.02.2025 Verbote, 02.08.2025 GPAI, 02.08.2026 Hochrisiko Anhang III), schwerwiegender Vorfall 15 Tage, DSGVO DPIA vorab.
-- Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Review: Schriftsatz-, Brief- und Memo-Bausteine
-- **Normen-/Quellenanker:** EU, KI, VO, DSGVO, AIA, DPIA.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Review** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

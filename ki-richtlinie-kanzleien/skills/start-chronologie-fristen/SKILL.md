@@ -130,7 +130,7 @@ Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und
 ## Fachbegriffe (kurz erklaert)
 
 - **KI-Verordnung (EU AI Act)** — Verordnung (EU) 2024/1689; legt Pflichten für Anbieter und Betreiber von KI-Systemen fest.
-- **Art. 4 KI-VO** — KI-Kompetenz-Pflicht: Betreiber von KI-Systemen müssen sicherstellen, dass ihr Personal ausreichend KI-Kompetenz hat (seit 2. Februar 2025).
+- Artikel 4 der Verordnung (EU) 2024/1689: Seit 27. Juli 2026 gilt die geänderte Pflicht zu kontextgerechten Fördermaßnahmen ohne Garantie eines bestimmten individuellen Kompetenzniveaus. Vorhandene geeignete Einweisungen verwerten; keinen Pflichtkurs aus einem fehlenden Zertifikat ableiten.
 - **Hochrisiko-KI** — KI-Systeme nach Anhang III KI-VO mit besonderen Anforderungen; z. B. KI in Personalentscheidungen.
 - **Schatten-KI** — Nicht genehmigte KI-Dienste, die Mitarbeiter mit privaten Accounts nutzen; Verschwiegenheitsrisiko.
 - **§ 43e BRAO** — Berufsrechtliche Dienstleisterregelung für Rechtsanwaelte; verpflichtet zur Sorgfalt bei IT-Diensten.
@@ -190,7 +190,7 @@ Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und
 
 ## Worauf besonders achten
 
-- **Art. 4 KI-VO-Pflicht seit 2. Februar 2025**: Kanzleien als Betreiber von KI-Systemen müssen nachweisbare KI-Kompetenz sicherstellen; fehlende Schulungsnachweise sind ein Compliance-Risiko.
+- Kompetenzförderung nach Artikel 4 neuer Fassung: Maßnahmen und konkrete Kenntnislücken dokumentieren; das Fehlen eines Zertifikats allein ist kein Nachweis eines Verstoßes. Für historische Zeiträume die damals geltende Fassung prüfen.
 - **Schatten-KI ist das groesste Praxisproblem**: Viele Mitarbeiter nutzen private ChatGPT-Accounts; Mandatsdaten gelangen ohne AVV und ohne Belehrung an Drittanbieter.
 - **DSGVO und Berufsrecht parallel prüfen**: Ein AVV reicht für die berufsrechtliche Konformitaet nach § 43e BRAO nicht aus.
 - **Richtlinie mindestens alle sechs Monate aktualisieren**: KI-VO, BRAK-Stellungnahmen und neue Rechtsprechung ändern sich schnell.

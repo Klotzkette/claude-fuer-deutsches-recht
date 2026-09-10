@@ -1,6 +1,6 @@
 {
   "name": "geldwaeschepraevention-aml-kyc",
-  "version": "444.2.0",
+  "version": "444.3.0",
   "description": "Geldwaeschepruefung in Kanzlei, Unternehmen und Notariat: 20 Fachablaeufe fuer Verpflichtetenstatus, KYC, UBO, Immobilienzahlungen, FIU-Meldung, Kontrollen und EU-Umstellung. Geltendes Recht 2026 und Pflichten ab 2027 bleiben getrennt.",
   "license": "Apache-2.0 OR MIT",
   "author": {

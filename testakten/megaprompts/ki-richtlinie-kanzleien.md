@@ -9,18 +9,18 @@ Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `ki-richtlinie-kanz
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn eine Systemrichtlinie für Kanzleien tragfähig begründet werden muss; verbindet Einsatzfall, Beru…
 2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
 3. **pflegt-erstpruefung-und-mandatsziel** — Für Pflegt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbe…
-4. **start-chronologie-fristen** — Für digitale Werkzeuge-Richtlinie für Kanzleien und Rechtsabteilungen — Allgemein: prüft Frist, Form, Zuständigkeit und …
-5. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
-6. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
-7. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
-8. **workflow-chronologie-und-belegmatrix** — Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix…
-9. **rechtsabteilungen-syndikus-verordnung** — Für Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; E…
-10. **output-waehlen** — Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fac…
-11. **workflow-unterlagen-lueckenliste** — Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fac…
-12. **workflow-fristen-und-risikoampel** — Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachge…
-13. **vo-hochrisiko-kirk-fortbildung-bauleiter** — Für europäischer Technikregulierungsrahmen Hochrisiko Personalwesen: ordnet Norm, Beweislast und Gegenargument; Ergebnis…
-14. **nutzung-mandatsdaten** — Für Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
-15. **unterlagen-luecken** — Für Unterlagen und Lücken: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebie…
+4. **ki-kompetenz-erwerb-plan** — Erstellt einen schlanken Kompetenzförderplan für Kanzleimitarbeiter nach Artikel 4 neuer Fassung. Verbindet konkrete Wer…
+5. **start-chronologie-fristen** — Für digitale Werkzeuge-Richtlinie für Kanzleien und Rechtsabteilungen — Allgemein: prüft Frist, Form, Zuständigkeit und …
+6. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+7. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+8. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+9. **workflow-chronologie-und-belegmatrix** — Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix…
+10. **rechtsabteilungen-syndikus-verordnung** — Für Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; E…
+11. **output-waehlen** — Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fac…
+12. **workflow-unterlagen-lueckenliste** — Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fac…
+13. **workflow-fristen-und-risikoampel** — Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachge…
+14. **vo-hochrisiko-kirk-fortbildung-bauleiter** — Für europäischer Technikregulierungsrahmen Hochrisiko Personalwesen: ordnet Norm, Beweislast und Gegenargument; Ergebnis…
+15. **nutzung-mandatsdaten** — Für Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
 
 ---
 
@@ -265,6 +265,44 @@ Eine sehr lange, vollständige Richtlinie ist schwer durchsetzbar — sie wird n
 
 ---
 
+## Skill: `ki-kompetenz-erwerb-plan`
+
+_Erstellt einen schlanken Kompetenzförderplan für Kanzleimitarbeiter nach Artikel 4 neuer Fassung. Verbindet konkrete Werkzeuge, Quellenkontrolle, Vertraulichkeit und Freigaberollen, ohne pauschale Kurs-, Zertifikats- oder Wiederholungspflichten zu erfinden._
+
+# 1. Kompetenzförderung im Kanzleialltag
+
+## 1. Zweck und Anwendungsfall
+
+Überarbeite den vorhandenen Einweisungsplan für die tatsächlichen Arbeitsplätze. Artikel 4 der Verordnung (EU) 2024/1689 verlangt seit der Änderung vom 27. Juli 2026 Fördermaßnahmen, aber kein garantiertes individuelles Kompetenzniveau. Die anwaltliche Verantwortung für das Arbeitsergebnis entfällt dadurch nicht.
+
+## 2. Eingaben
+
+Nutze Toolfreigaben, Mandatsabläufe, vorhandene Schulungen, Befugnisse und beobachtete Fehler. Keine vollständige Abfrage aller Mitarbeiter, wenn nur ein Team ein neues Werkzeug erhält. Bei fehlenden Unterlagen mit einem klar abgegrenzten Entwurf beginnen.
+
+## 3. Ablauf
+
+1. Arbeitsplätze nach Tätigkeit unterscheiden: Posteingang und Aktenaufbereitung, Recherche, Vertragsentwurf, Mandantenkommunikation, anwaltliche Endkontrolle.
+2. Je Arbeitsplatz höchstens die entscheidenden Risiken herausarbeiten: falsche Zuordnung, erfundene Quelle, fehlender Kontext, unzulässige Eingabe oder irrtümliche Außenfreigabe.
+3. Vorhandene passende Unterweisung übernehmen. Für die konkrete Lücke eine kurze Übung mit zulässigen Übungsdaten, Ansprechpartner und Arbeitsanweisung ergänzen. Kursdauer und jährliche Wiederholung sind Organisationsentscheidungen, keine Vorgaben des Artikels 4.
+4. Festhalten, wer welches Werkzeug für welchen Zweck nutzen darf und wann Rückfrage nötig ist. Fördermaßnahmen nach Erfahrung, Ausbildung, Einsatzkontext und betroffenen Personen ausrichten; keine Garantie aller Lernergebnisse verlangen.
+5. Nachweis knapp: Datum, Thema, Zielgruppe, Material, zuständiger Ansprechpartner und Anlass einer Wiederholung. Keine gesetzliche Dreijahresfrist für sämtliche Schulungsbelege erfinden; angemessenes Aufbewahrungskonzept wählen.
+6. Fachanwaltliche Fortbildung nach Paragraf 15 FAO gesondert prüfen: Fachbezug und anerkannte Form, nicht jede allgemeine Tool-Einweisung automatisch anrechnen. Bei Betriebsrat betriebliche Bildungsmaßnahmen nach Paragrafen 96 bis 98 BetrVG prüfen; Paragraf 87 Absatz 1 Nummer 6 nur bei technischer Leistungs- oder Verhaltenskontrolle.
+7. Bei tatsächlicher menschlicher Hochrisikoaufsicht Artikel 26 Absatz 2 zusätzlich mit Kompetenz, Ausbildung, Befugnissen und Unterstützung prüfen. Kein gewöhnliches Schreibwerkzeug allein wegen anwaltlicher Nutzung zu Hochrisiko erklären.
+
+## 4. Quellenpflicht
+
+[Rechtsstandkarte, Abschnitt 1.2](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-richtlinie-kanzleien/references/digitaler-omnibus-2026.md), Artikel 4 neuer Fassung, Artikel 3 Nummer 56 und Artikel 26 Absatz 2. Paragrafen 43, 43a und 43e BRAO bleiben eigenständige Prüfungen. [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-richtlinie-kanzleien/references/zitierweise.md).
+
+## 5. Ausgabeformat
+
+Ausformulierter Kanzleiplan mit konkreten Übungsaufgaben, Freigaberegel und Termin nur für erforderliche Nacharbeit. Beispielklausel: „Die Kanzlei stellt den betroffenen Mitarbeitern eine auf das freigegebene Werkzeug und ihren Aufgabenbereich bezogene Einweisung sowie einen erreichbaren Ansprechpartner bereit. Bei erkennbaren Unsicherheiten oder wesentlichen Einsatzänderungen wird die Einweisung gezielt ergänzt.“ Nicht als Garantie eines bestimmten Lernerfolgs formulieren. Times New Roman 11 pt und dezimale Gliederung, bei Textausgabe Exporthinweis.
+
+## 6. Beispiele
+
+Die Assistenz übt an einem Schriftsatz die zuverlässige Anlagenzuordnung; der Anwalt prüft eine unzutreffende Fundstelle am Original. Wer nur Termine überträgt, benötigt keinen umfassenden Kurs zur Modellentwicklung. Ein ausdrücklich vereinbarter Kanzleistandard darf strenger sein als Artikel 4, muss dann aber als interne Vorgabe erkennbar bleiben.
+
+---
+
 ## Skill: `start-chronologie-fristen`
 
 _Für digitale Werkzeuge-Richtlinie für Kanzleien und Rechtsabteilungen — Allgemein: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix._
@@ -396,7 +434,7 @@ Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und
 ## Fachbegriffe (kurz erklaert)
 
 - **KI-Verordnung (EU AI Act)** — Verordnung (EU) 2024/1689; legt Pflichten für Anbieter und Betreiber von KI-Systemen fest.
-- **Art. 4 KI-VO** — KI-Kompetenz-Pflicht: Betreiber von KI-Systemen müssen sicherstellen, dass ihr Personal ausreichend KI-Kompetenz hat (seit 2. Februar 2025).
+- Artikel 4 der Verordnung (EU) 2024/1689: Seit 27. Juli 2026 gilt die geänderte Pflicht zu kontextgerechten Fördermaßnahmen ohne Garantie eines bestimmten individuellen Kompetenzniveaus. Vorhandene geeignete Einweisungen verwerten; keinen Pflichtkurs aus einem fehlenden Zertifikat ableiten.
 - **Hochrisiko-KI** — KI-Systeme nach Anhang III KI-VO mit besonderen Anforderungen; z. B. KI in Personalentscheidungen.
 - **Schatten-KI** — Nicht genehmigte KI-Dienste, die Mitarbeiter mit privaten Accounts nutzen; Verschwiegenheitsrisiko.
 - **§ 43e BRAO** — Berufsrechtliche Dienstleisterregelung für Rechtsanwaelte; verpflichtet zur Sorgfalt bei IT-Diensten.
@@ -456,7 +494,7 @@ Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und
 
 ## Worauf besonders achten
 
-- **Art. 4 KI-VO-Pflicht seit 2. Februar 2025**: Kanzleien als Betreiber von KI-Systemen müssen nachweisbare KI-Kompetenz sicherstellen; fehlende Schulungsnachweise sind ein Compliance-Risiko.
+- Kompetenzförderung nach Artikel 4 neuer Fassung: Maßnahmen und konkrete Kenntnislücken dokumentieren; das Fehlen eines Zertifikats allein ist kein Nachweis eines Verstoßes. Für historische Zeiträume die damals geltende Fassung prüfen.
 - **Schatten-KI ist das groesste Praxisproblem**: Viele Mitarbeiter nutzen private ChatGPT-Accounts; Mandatsdaten gelangen ohne AVV und ohne Belehrung an Drittanbieter.
 - **DSGVO und Berufsrecht parallel prüfen**: Ein AVV reicht für die berufsrechtliche Konformitaet nach § 43e BRAO nicht aus.
 - **Richtlinie mindestens alle sechs Monate aktualisieren**: KI-VO, BRAK-Stellungnahmen und neue Rechtsprechung ändern sich schnell.
@@ -831,7 +869,7 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **ki-richtlinie
 - **Art. 4 KI-VO (Schulung)**: seit **02.02.2025** unmittelbar geltend — Schulung muss dokumentiert sein.
 - **Art. 5 KI-VO (Verbote)**: seit **02.02.2025**.
 - **Art. 51 ff. KI-VO (GPAI)**: seit **02.08.2025**.
-- **Art. 6 ff. KI-VO (Hochrisiko)**: ab **02.08.2026** Pflichten für Anbieter, Betreiber.
+- Artikel 113 neuer Fassung: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 gelten für Anhang III ab 02.12.2027 und Anhang I ab 02.08.2028. Artikel 111 zum Bestand und andere schon geltende Pflichten gesondert prüfen.
 - **DSGVO Art. 33** (bei KI-Datenpanne mit Mandantenbezug): 72 Stunden.
 - **§ 113 BRAO**: anwaltsgerichtliches Verfahren — keine konkrete Frist, aber rasche Reaktion auf Beschwerde geboten.
 
@@ -858,11 +896,11 @@ _Für europäischer Technikregulierungsrahmen Hochrisiko Personalwesen: ordnet N
 
 ## Spezialwissen
 
-Ab dem 2. August 2026 gelten die strengen Hochrisiko-Anforderungen der KI-Verordnung auch für KI-Systeme, die im Personalwesen eingesetzt werden. Für Kanzleien ist dies in zweifacher Hinsicht relevant: zum einen beim eigenen Einsatz von KI im Personalbereich der Kanzlei selbst, zum anderen bei der Beratung von Mandanten, die solche Systeme im Arbeitsrecht-Kontext verwenden.
+Ab dem 2. Dezember 2027 gelten die strengen Hochrisiko-Anforderungen der KI-Verordnung auch für KI-Systeme, die im Personalwesen eingesetzt werden. Für Kanzleien ist dies in zweifacher Hinsicht relevant: zum einen beim eigenen Einsatz von KI im Personalbereich der Kanzlei selbst, zum anderen bei der Beratung von Mandanten, die solche Systeme im Arbeitsrecht-Kontext verwenden.
 
 ## Rechtlicher Hintergrund
 
-Art. 6 Abs. 2 KI-VO i.V.m. Anhang III Nr. 4 KI-VO: Hochrisiko-KI-Systeme im Personalwesen — KI-Systeme zur Bewerberauswahl, zu Beförderungsentscheidungen, zur Kündigung, zur Aufgabenzuweisung und zur Leistungsüberwachung. Inkrafttreten: 2. August 2026 (Art. 113 KI-VO). Hochrisiko-Pflichten für Betreiber nach Art. 26 KI-VO: menschliche Aufsicht, Risikobeurteilung, Protokollierung, Transparenz gegenüber Betroffenen, Meldung schwerwiegender Vorfälle. Art. 86 KI-VO: Recht auf Erläuterung bei Hochrisiko-Entscheidungen. § 80 Abs. 3 BetrVG (analog): Betriebsratsrechte bei Einführung technischer Überwachungseinrichtungen. AGG: Diskriminierungsverbot bei Bewerberauswahl.
+Art. 6 Abs. 2 KI-VO i.V.m. Anhang III Nr. 4 KI-VO: Hochrisiko-KI-Systeme im Personalwesen — KI-Systeme zur Bewerberauswahl, zu Beförderungsentscheidungen, zur Kündigung, zur Aufgabenzuweisung und zur Leistungsüberwachung. Anwendungsbeginn der Kapitel-III-Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 nach Artikel 113 in der Fassung 2026/1744: 2. Dezember 2027 (Art. 113 KI-VO). Hochrisiko-Pflichten für Betreiber nach Art. 26 KI-VO: menschliche Aufsicht, Risikobeurteilung, Protokollierung, Transparenz gegenüber Betroffenen, Meldung schwerwiegender Vorfälle. Art. 86 KI-VO: Recht auf Erläuterung bei Hochrisiko-Entscheidungen. Paragraf 87 Absatz 1 Nummer 6 BetrVG: Mitbestimmung bei einschlägigen technischen Überwachungseinrichtungen; Paragraf 80 Absatz 3 BetrVG gesondert für Sachverständigenunterstützung prüfen. AGG: Diskriminierungsverbot bei Bewerberauswahl.
 
 ## Vorgehen
 
@@ -870,13 +908,13 @@ Art. 6 Abs. 2 KI-VO i.V.m. Anhang III Nr. 4 KI-VO: Hochrisiko-KI-Systeme im Pers
 2. **Hochrisiko-Einordnung prüfen**: Fällt das konkrete System unter Anhang III Nr. 4? Rückausnahmen nach Art. 6 Abs. 3 KI-VO (nur vorbereitende, eng begrenzte Aufgaben, kein Profiling) prüfen.
 3. **Betreiber-Pflichten umsetzen**: Risikobeurteilung durchführen, Technische Dokumentation einholen, menschliche Aufsicht sicherstellen, Protokollierung einrichten, Betroffene informieren.
 4. **Betriebsrat einbinden**: Bei Einführung von KI im Personalwesen Mitbestimmungsrechte des Betriebsrats beachten (§§ 87 Abs. 1 Nr. 6, 95 BetrVG).
-5. **Mandantenberatung**: Im arbeitsrechtlichen Mandat prüfen, ob Mandanten-HR-Systeme unter Anhang III Nr. 4 fallen und die Hochrisiko-Pflichten ab 2. August 2026 eingehalten werden.
-6. **Vorbereitung bis 2026**: Rechtzeitig vor dem 2. August 2026 prüfen, welche Systeme betroffen sind, und die erforderliche Dokumentation und Risikobeurteilung erstellen.
+5. **Mandantenberatung**: Im arbeitsrechtlichen Mandat prüfen, ob Mandanten-HR-Systeme unter Anhang III Nr. 4 fallen und die Hochrisiko-Pflichten ab 2. Dezember 2027 eingehalten werden.
+6. **Vorbereitung bis 2026**: Rechtzeitig vor dem 2. Dezember 2027 prüfen, welche Systeme betroffen sind, und die erforderliche Dokumentation und Risikobeurteilung erstellen.
 
 ## Vorlagentext / Bausteine
 
 **Baustein Hochrisiko Personalwesen:**
-Ab dem 2. August 2026 unterliegen KI-Systeme, die zur Bewerberauswahl, zu Beförderungs- oder Kündigungsentscheidungen, zur Leistungsüberwachung oder zur Aufgabenzuweisung im Personalbereich eingesetzt werden, den strengen Anforderungen für Hochrisiko-KI-Systeme nach Art. 6 KI-VO i.V.m. Anhang III Nr. 4 KI-VO. Die Kanzlei stellt sicher, dass vor dem Einsatz solcher Systeme eine umfassende Risikobeurteilung durchgeführt wurde, menschliche Aufsicht gewährleistet ist und betroffene Personen über den Einsatz des Systems transparent informiert werden.
+Ab dem 2. Dezember 2027 unterliegen KI-Systeme, die zur Bewerberauswahl, zu Beförderungs- oder Kündigungsentscheidungen, zur Leistungsüberwachung oder zur Aufgabenzuweisung im Personalbereich eingesetzt werden, den strengen Anforderungen für Hochrisiko-KI-Systeme nach Art. 6 KI-VO i.V.m. Anhang III Nr. 4 KI-VO. Die Kanzlei stellt sicher, dass vor dem Einsatz solcher Systeme eine umfassende Risikobeurteilung durchgeführt wurde, menschliche Aufsicht gewährleistet ist und betroffene Personen über den Einsatz des Systems transparent informiert werden.
 
 **Baustein Menschliche Aufsicht:**
 Beim Einsatz von KI-Systemen im Personalwesen darf keine ausschließlich automatisierte Entscheidung im Sinne des Art. 22 DSGVO getroffen werden. Jede personalrelevante Entscheidung, die durch ein KI-System vorbereitet oder unterstützt wird, bedarf der abschließenden Überprüfung und Freigabe durch eine autorisierende Person mit Entscheidungsbefugnis.
@@ -886,7 +924,7 @@ Beim Einsatz von Hochrisiko-KI-Systemen im Personalwesen sind gemäß Art. 26 Ab
 
 ## Hinweise zur Aktualisierung
 
-Die konkrete Ausgestaltung der Hochrisiko-Pflichten durch Durchführungsrechtsakte der EU-Kommission und durch Leitlinien des Europäischen KI-Büros ist bis zum 2. August 2026 zu verfolgen. Ebenso sind BAG- und Landesarbeitsgericht-Entscheidungen zur Zulässigkeit von KI-Systemen im Personalwesen zu beobachten.
+Die konkrete Ausgestaltung der Hochrisiko-Pflichten durch Durchführungsrechtsakte der EU-Kommission und durch Leitlinien des Europäischen KI-Büros ist bis zum 2. Dezember 2027 zu verfolgen. Ebenso sind BAG- und Landesarbeitsgericht-Entscheidungen zur Zulässigkeit von KI-Systemen im Personalwesen zu beobachten.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 KI-VO — Hochrisiko-Kategorie: Beschäftigung, Personalmanagement und Zugang zur Selbstständigkeit
@@ -1005,50 +1043,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Verbotsorientierte Richtlinie ("Keine ChatGPT-Nutzung") ist klar, wird aber umgangen ("Schatten-IT"). Erlaubnisorientierte Richtlinie mit gestuften Freigaben und Schulungen erzeugt Akzeptanz und reduziert tatsächlich Risiko — verlangt aber laufende Pflege der Tool-Liste.
-
----
-
-## Skill: `unterlagen-luecken`
-
-_Für Unterlagen und Lücken: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Kanzleirichtlinien für digitale Werkzeuge._
-
-# Unterlagen und Lücken
-
-## Einsatzlage
-
-Diese Unterlagenprüfung für **Ki Richtlinie Kanzleien** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
-
-## Fachlandkarte dieses Plugins
-
-- `anonymisierung-pseudonymisierung` — Anonymisierung Pseudonymisierung
-- `anwaelten-berufsrechtskonforme-beruht` — Anwaelten Berufsrechtskonforme Beruht
-- `auftragsverarbeitungsvertrag-pruefen` — Auftragsverarbeitungsvertrag Prüfen
-- `automatisierte-entscheidungen-art-22-dsgvo` — Automatisierte Entscheidungen ART 22 DSGVO
-- `berufsrecht-bausteine` — Berufsrecht Bausteine
-- `berufsrechtskonforme-tatbestand-beweis-und-belege` — Berufsrechtskonforme Tatbestand Beweis und Belege
-- `beruht-verhandlung-vergleich-und-eskalation` — Beruht Verhandlung Vergleich und Eskalation
-- `bias-diskriminierung-regelsatz-erstellen` — Bias Diskriminierung Regelsatz Erstellen
-- `bora-brak-dsgvo` — BORA Brak DSGVO
-- `brak-internationaler-bezug-und-schnittstellen` — Brak Internationaler Bezug und Schnittstellen
-- `brao-quellenkarte` — BRAO Quellenkarte
-- `compliance-regelsatz-erstellen` — Compliance Regelsatz Erstellen
-- `dienstleister-due-diligence` — Dienstleister DUE Diligence
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
-
-## Arbeitsweg
-
-- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Ki Richtlinie Kanzleien-Frage zwingend (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets)?
-- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
-- Lückenliste priorisieren nach: fristrelevant (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), beweisrelevant, formerheblich.
-- Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
-- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
-
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---
 

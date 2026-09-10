@@ -12,8 +12,8 @@ Diese Vollprüfung enthält top-8 von 285 Skills (gekürzt für das Arbeitsfenst
 4. **dsgvo-erstpruefung-und-mandatsziel** — Für DSGVO: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbes…
 5. **datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit** — Führt einen Anspruch nach DSGVO Artikel 82 auf Kläger- oder Beklagtenseite durch Verstoß, materiellen oder immateriellen…
 6. **datenschutz-schadensersatz-art-82-dsgvo** — Prüft DSGVO Artikel 82 nach Verstoß, materiellem oder immateriellem Schaden, Kausalität, Verschuldensvermutung und Entla…
-7. **paket-internationaler-bezug-und-schnittstellen** — Für Paket: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellen…
-8. **datenpanne-schriftsatz-brief-und-memo-bausteine** — Für Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schr…
+7. **ki-verordnung-compliance** — Verbindet die Verordnung EU 2024/1689 mit der Datenschutzprüfung eines konkreten Systems. Trennt Rollen, Risikoklasse, n…
+8. **paket-internationaler-bezug-und-schnittstellen** — Für Paket: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellen…
 
 ---
 
@@ -704,6 +704,49 @@ Sieben-Fragen-Diagnose:
 
 ---
 
+## Skill: `ki-verordnung-compliance`
+
+_Verbindet die Verordnung EU 2024/1689 mit der Datenschutzprüfung eines konkreten Systems. Trennt Rollen, Risikoklasse, neue Fristen, sensible Daten nach Artikel 4a und deutsche Aufsicht, ohne Reformvorschläge als geltendes Datenschutzrecht auszugeben._
+
+# 1. Systemregulierung und Datenschutz zusammen prüfen
+
+## 1. Zweck und Anwendungsfall
+
+Arbeite an der Freigabe, Beschaffung oder laufenden Nutzung eines konkreten Systems. Eine Konformitätserklärung ersetzt weder Datenschutzgrundlage noch menschliche Entscheidung. Die Verordnung (EU) 2026/1744 und das deutsche KI-MIG sind geltendes Recht; COM(2025) 837 ist ein gesondertes laufendes Gesetzgebungsverfahren.
+
+## 2. Eingaben
+
+Lies Systembeschreibung, Zweck, Einführungsdatum, Modell- und Anbieterangaben, Datenfluss, Vertrag und vorhandene Folgenabschätzungen. Bei konkretem Auftrag sofort am gewünschten Dokument arbeiten. Nur fehlende Weichen wie neue Zweckbestimmung oder Zugriff auf sensible Daten gesammelt nachfragen.
+
+## 3. Ablauf
+
+1. Anwendungsbereich und Rollen nach Artikeln 2 und 3 der Verordnung (EU) 2024/1689 bestimmen. Anbieter, Betreiber, Importeur, Händler und Bevollmächtigter nicht mit Verantwortlichem und Auftragsverarbeiter gleichsetzen. Bei Änderung Artikel 25 gesondert prüfen.
+2. Artikel 5 zuerst: bisherige Verbote und neue Tatbestände für intime Inhalte beziehungsweise Missbrauchsdarstellungen ab 2. Dezember 2026 unterscheiden. Offenlegung heilt kein Verbot.
+3. Artikel 6 Absatz 1 mit Anhang I und Absatz 2 mit Anhang III getrennt prüfen. Bei Absatz 3 Ausnahme und Rückausnahme für Profiling dokumentieren; keine bloße Herstellerbehauptung übernehmen.
+4. Kalender nach Artikel 113 neuer Fassung: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 2. Dezember 2027, für Anhang I ab 2. August 2028. Andere Vorschriften nicht pauschal verschieben. GPAI und Artikel 111 mit System- beziehungsweise Modellbestand separat führen.
+5. Artikel 50 grundsätzlich seit 2. August 2026: technische Anbieterkennzeichnung und Betreiberhinweis auseinanderhalten. Nachholfrist bis 2. Dezember 2026 nur nach Artikel 111 Absatz 4 für Absatz 2 bei vorher vermarkteten Systemen.
+6. Datenschutzgrundlage nach Artikeln 6 und 9, Zweckbindung, Informationspflichten, Löschung, Sicherheit und gegebenenfalls Drittlandstransfer prüfen. Artikel 4a der Systemverordnung gestattet sensible Daten nur zur unbedingt erforderlichen Verzerrungskorrektur mit sämtlichen Sicherungen; Absatz 1 für Hochrisikoanbieter und Absatz 2 für weitere Akteure gesondert prüfen. Keine pauschale Trainingserlaubnis.
+7. Datenschutz-Folgenabschätzung nach Artikel 35, Grundrechte-Folgenabschätzung nach Artikel 27 der Systemverordnung und Risikomanagement nach Artikel 9 der Systemverordnung als verschiedene Instrumente behandeln. Vorhandene Analyse wiederverwenden, fehlende Perspektive ergänzen. Nicht jedes Hochrisikosystem löst für jeden Betreiber automatisch Artikel 27 aus.
+8. Artikel 22 der Datenschutz-Grundverordnung: tatsächliche menschliche Mitwirkung, erhebliche Entscheidungswirkung, Ausnahmegrund und Schutzmaßnahmen prüfen. Eine formale Unterschrift allein macht einen automatisierten Vorgang nicht menschlich.
+9. Kompetenzförderung nach Artikel 4 neuer Fassung planen: kontextgerechte Maßnahmen ohne Garantie eines individuellen Niveaus. Menschliche Hochrisikoaufsicht nach Artikel 26 Absatz 2 bleibt eine gesonderte Anforderung.
+10. Deutsche Zuständigkeit nach Paragraf 2 KI-MIG prüfen: Bundesnetzagentur grundsätzlich, Produkt-, Finanz-, Landes- und Medienausnahmen im konkreten Fall. Datenschutzaufsicht daneben nach Artikeln 55 und 56 bestimmen. EU-Sonderaufsicht nach Artikeln 75 ff. und 88 ff. beachten.
+
+Für eine Freigabe technische Nachweise und konkrete Befugnisse abgleichen. Die Verordnung verlangt nicht pauschal eine Begutachtung jedes Systems durch eine benannte Stelle; den richtigen Weg nach Artikel 43 und Anhang VI beziehungsweise VII prüfen. Eine vereinfachte Registrierung ist kein Wegfall jeder Registrierung.
+
+## 4. Quellenpflicht
+
+[Rechtsstandkarte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/datenschutzrecht/references/digitaler-omnibus-2026.md), [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/datenschutzrecht/references/zitierweise.md). Normfassung und Ereignisdatum dokumentieren. Die vorgeschlagenen 96 Stunden bei Datenschutzverletzungen gelten nicht: Artikel 33 bleibt bei unverzüglicher Meldung, möglichst binnen 72 Stunden; Betroffeneninformation nach Artikel 34 ist eine andere Prüfung. Vorgeschlagene Verzeichnisschwellen nicht vorwegnehmen.
+
+## 5. Ausgabeformat
+
+Vollständig ausformulierter Freigabe- oder Beanstandungsvermerk mit sechs Spalten: Funktion, Rolle, Rechtsregime, Tatbestand, Nachweis, nächste Maßnahme. Bei Beschaffung konkrete Vertragsänderung, bei Vorfall adressierte Meldung, bei risikobehafteter Nutzung begründete Freigabesperre formulieren. Keine pauschale Konformitätsbescheinigung ohne belastbare Nachweise. Times New Roman 11 pt und dezimale Gliederung; bei Textausgabe Exporthinweis. Keine automatische Einreichung.
+
+## 6. Beispiele
+
+Ein Bewerber-Ranking wird auf Hochrisiko, Diskriminierung und automatisierte Entscheidung geprüft, auch wenn Hochrisikopflichten noch vorbereitet werden. Bei einem Support-Chatbot können Transparenz und Datenschutz schon aktuell greifen. Ein Bias-Test mit Gesundheitsdaten benötigt eine eigenständige Artikel-4a-Prüfung und ist kein Freibrief für allgemeines Modelltraining.
+
+---
+
 ## Skill: `paket-internationaler-bezug-und-schnittstellen`
 
 _Für Paket: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Datenschutzrecht. Route: paket-internationaler-bezug-und-schnittstellen._
@@ -754,72 +797,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 DPF-Mitgliedschaft prüfen mit Datum: ein US-Unternehmen kann zwischenzeitlich aus dem DPF ausscheiden. Eine "wir nutzen DPF"-Aussage ohne aktuelle Listenüberprüfung trägt rechtlich nicht — vor jeder Bewertung dataprivacyframework.gov-Liste sichtbar dokumentieren (Screenshot, Datum).
-
----
-
-## Skill: `datenpanne-schriftsatz-brief-und-memo-bausteine`
-
-_Für Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Datenschutzrecht. Route: datenpanne-schriftsatz-brief-und-memo-bausteine._
-
-# Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine.
-
-## Spezialwissen: Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine
-- **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Erste 30 Minuten
-
-Führe den Vorfall wie eine Einsatzakte. Liefere zuerst eine Tabelle mit sechs Zeilen:
-
-| Punkt | Entscheidung |
-| --- | --- |
-| Kenntniszeitpunkt | wann die für den Verantwortlichen maßgebliche Stelle genug Tatsachen hatte |
-| Eindämmung | welche Systeme, Zugänge, Empfänger oder Datenflüsse sofort gestoppt wurden |
-| Datenkategorien | normale Daten, besondere Kategorien, Kinder, Bankdaten, Gesundheitsdaten, Zugangsdaten |
-| Risiko | kein Risiko, Risiko, hohes Risiko; jeweils mit konkreter Schadenshypothese |
-| Meldeweg | zuständige Aufsicht, vorläufige Meldung, Nachmeldung oder begründete Nichtmeldung |
-| Betroffene | individuelle Benachrichtigung, öffentliche Bekanntmachung oder dokumentierte Ausnahme |
-
-Keine endgültige Entwarnung, solange Logfiles, Empfängerlisten, Schlüsselstatus, Auftragsverarbeiter-Rückmeldung oder forensische Erstbewertung fehlen.
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Datenpanne** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Fristenkern Datenpanne
-- **Art. 33 Abs. 1 DSGVO**: Meldung an die zuständige Aufsichtsbehörde unverzüglich, **möglichst innerhalb von 72 Stunden** nach Kenntnis des Verantwortlichen. Verspätung ist zu begründen.
-- **Art. 33 Abs. 2 DSGVO**: Auftragsverarbeiter meldet unverzüglich an Verantwortlichen — vertraglich (Art. 28 Abs. 3 lit. f) konkretere Frist regeln (24 h üblich).
-- **Art. 34 DSGVO**: Benachrichtigung Betroffener nur bei voraussichtlich hohem Risiko; Ausnahmen Abs. 3 (Verschlüsselung, nachträgliche Risikominderung, unverhältnismäßiger Aufwand).
-
-## Bausteine für Memos und Schriftsätze
-- **Notification-Memo intern**: Zeitlinie der Erkenntnis, Datenkategorien, Betroffenenkreis, Risikobewertung, getroffene Eindämmungsmaßnahmen, Folgepflichten.
-- **Behördenmeldeformular**: Bundes- und Landesaufsicht haben Online-Formulare (z. B. BfDI, LDI NRW, BayLDA); Angaben spiegeln Art. 33 Abs. 3 lit. a-d.
-- **Betroffenenanschreiben**: In klarer, einfacher Sprache (Art. 34 Abs. 2 i. V. m. Art. 12 Abs. 1); Inhalt: Vorfallbeschreibung, voraussichtliche Folgen, Maßnahmen, Kontaktstelle.
-
-## Trade-off
-Vorzeitige Übermeldung ist meist sicherer als unterlassene Meldung — die Risikoschwelle ist niedrig (Art. 33 Abs. 1 a. E.: "es sei denn, dass die Verletzung voraussichtlich nicht zu einem Risiko führt"). EDSA-Leitlinien 9/2022 zur Meldung sind die Methodikbasis.
 
 ---
 

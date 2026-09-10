@@ -1,78 +1,43 @@
-# Datenschutzrecht — Schnellstart
+# 1. Datenschutzrecht: Schnellstart
 
-Wenn du das hier öffnest, willst du einen Datenschutzverstoß bewerten und die richtige Reaktion gegenüber Aufsicht und Betroffenen aufsetzen.
+Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Datenschutzrecht und Rechtsgrundlage, Zweckbindung routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-Kernauftrag: Datenschutz-Grundverordnung/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung. Vorrang hat das verlangte Arbeitsprodukt.
+Bearbeite die konkrete Auskunft, Datenpanne, Vertragsprüfung oder Systemeinführung. Nutze vorhandene Akte, Verzeichnis, Verträge und Fristen; kein vollständiges Datenschutzaudit vor einem klaren Einzelauftrag. Rechtsstand: 10. September 2026.
 
-## 1. Sofortstart nach Eingangslage
+## 1. Verantwortlichen und Frist bestimmen
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Verarbeitungsverzeichnis, Auftragsverarbeitungsvertrag, Löschkonzept und Meldeformular. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Datenschutzrecht, Rechtsgrundlage, Zweckbindung und Datenminimierung, Informationspflichten, Betroffenenrechte wählen; ohne konkreten Auftrag mit Verarbeitungsvorgang und Rollen bestimmen beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Tatsächliche Zwecke und Mittel klären; Verantwortlicher, gemeinsam Verantwortliche und Auftragsverarbeiter je Verarbeitung trennen. Bei Betroffenenanträgen grundsätzlich ein Monat nach Artikel 12 Absatz 3; Verlängerungsgrund und rechtzeitige Mitteilung getrennt prüfen. Bei Datenpannen unverzüglich handeln und möglichst binnen 72 Stunden nach Artikel 33 melden, sofern ein Risiko nicht unwahrscheinlich ist. Hohe Risikoschwelle gehört zu Artikel 34. Unvollständige Angaben nach Artikel 33 Absatz 4 nachreichen, nicht auf vollständige Forensik warten.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Datenschutzrecht, Rechtsgrundlage, Zweckbindung und Datenminimierung, Informationspflichten, Betroffenenrechte und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 2. Passenden Arbeitsweg wählen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Auskunft: Identität verhältnismäßig klären, Daten und Empfänger auffinden, Rechte Dritter konkret schützen, verständlich antworten. Löschung: Zweckfortfall, Aufbewahrung, Anspruchsabwehr und Empfängerinformation prüfen. Vertrag: tatsächliche Weisungen, Unterauftragnehmer, Sicherheit, Löschung und Transfers gegen Artikel 28 halten. Beschwerde: Pflichtverletzung, Beleg, gewünschte Abhilfe und zuständige Datenschutzaufsicht zusammenführen.
 
-## 2. Fachlicher Direktstart
+Bei Schadenersatz Verletzung, Schaden und Kausalität getrennt darlegen; ein Verstoß allein genügt nicht. Keine abstrakte Erheblichkeitsschwelle erfinden. Rechtsprechung nur mit passender tragender Aussage einsetzen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Wer entscheidet über Zweck und Mittel.
-2. Kernprüfung in einem Durchgang: Welche Datenkategorie und welcher Zweck liegen vor; Welche Rechtsgrundlage trägt die Verarbeitung.
-3. Belege und Engpass zusammenführen: Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen; besonders kritisch ist: Meldepflichtige Datenpanne mit laufender Frist.
-4. Erstes Arbeitsprodukt liefern: Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten.
+## 3. Omnibus: geltendes Recht von Vorschlägen trennen
 
-## 3. Kernroute
+COM(2025) 837, Verfahren 2025/0360(COD), ist noch nicht abgeschlossen. 96-Stunden-Meldung, geänderte Risikoschwelle, Trainingsprivilegien oder neue Auskunftsausnahmen nicht als geltendes Recht anwenden. Pseudonymisierte Daten sind nicht automatisch anonym.
 
-1. Verarbeitungsvorgang und Rollen bestimmen.
-2. Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen.
-3. Informationspflichten, Betroffenenrechte und Fristen strukturieren.
-4. Technische und organisatorische Maßnahmen sowie Auftragsverarbeitung prüfen.
-5. Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten.
+COM(2025) 501, Verfahren 2025/0130(COD), ist eine andere Reformspur. Keine Verzeichnisbefreiung für 750 oder 1000 Beschäftigte vorwegnehmen. Artikel 30 Absatz 5 bleibt: Selbst unter 250 Beschäftigten sind insbesondere regelmäßige, riskante oder sensible Verarbeitungen erfasst. Gewöhnliche Personalverwaltung nicht aus dem Verzeichnis entfernen.
 
-## 4. Fallkarte
+## 4. Sensible Daten für Bias-Prüfung
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | Datenschutz-Grundverordnung Artikel 5; Datenschutz-Grundverordnung Artikel 6; Datenschutz-Grundverordnung Artikel 12 bis Artikel 15 |
-| Rechtsprechung | EuGH, Urteil vom 16.07.2020 - C-311/18; EuGH, Urteil vom 04.05.2023 - C-300/21 |
-| Tatbestand | Verarbeitungsvorgang und Rollen bestimmen |
-| Beweislast | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen |
-| Rechtsfolge | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Die bereits geltende Verordnung (EU) 2026/1744 änderte dagegen die Verordnung (EU) 2024/1689. Neuer Artikel 4a ersetzt Artikel 10 Absatz 5. Absatz 1 betrifft Hochrisikoanbieter, Absatz 2 weitere Anbieter und Betreiber nur unter zusätzlichen Bedingungen. Strikte Notwendigkeit, fehlende gleich wirksame andere Daten, technische Zweckbindung, Pseudonymisierung und Sicherheit, dokumentierte Zugriffe, keine Weitergabe und früheste Löschung prüfen. Die Gründe gehören ins Verarbeitungsverzeichnis.
 
-## 5. Einsatzfelder
+Keine allgemeine Trainingserlaubnis. Artikel 6 und 9, Rechte der Betroffenen, Sicherheit und gegebenenfalls Folgenabschätzung bleiben zu prüfen. Ein Dienstleister darf nicht unter dem Etikett Bias-Korrektur beliebig sensible Kundenakten weiterverwenden.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Datenschutzrecht | Verarbeitungsvorgang und Rollen bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen | Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Informationspflichten, Betroffenenrechte und Fristen strukturieren | Informationspflichten, Betroffenenrechte und Fristen strukturieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenpanne, Aufsichtsverfahren | Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+## 5. Systemrecht und Datenschutz koordinieren
 
-## 6. Anker
+Artikel 4 verlangt Kompetenzförderung ohne individuelle Niveaugarantie. Artikel 50 betrifft Transparenz, Deepfakes gehören zu Absatz 4, nicht Artikel 4a. Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 gelten nach Artikel 113 bei Anhang III ab 2. Dezember 2027, bei Anhang I ab 2. August 2028; das verschiebt keine Datenschutz-Folgenabschätzung. Artikel 111 zum Bestand gesondert prüfen.
 
-- Datenschutz-Grundverordnung Artikel 5: Grundsätze der Verarbeitung personenbezogener Daten.
-- Datenschutz-Grundverordnung Artikel 6: Rechtmäßigkeit der Verarbeitung.
-- Datenschutz-Grundverordnung Artikel 12 bis Artikel 15: Transparenz, Auskunft und Kommunikation.
-- Datenschutz-Grundverordnung Artikel 28: Auftragsverarbeitung.
-- Art. 82 Abs. 1 Datenschutz-Grundverordnung: Jeder, der wegen eines Verstoßes gegen die Datenschutz-Grundverordnung einen materiellen oder immateriellen Schaden erlitten hat, hat Anspruch auf Schadenersatz gegen den Verantwortlichen oder den Auftragsverarbeiter; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 82 Abs. 2 Datenschutz-Grundverordnung: Verantwortlicher haftet für den Schaden, den eine seiner Verarbeitungen verursacht hat; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 82 Abs. 4 Datenschutz-Grundverordnung: Gesamtschuldnerische Haftung mehrerer Verantwortlicher / Auftragsverarbeiter, wenn an demselben Verarbeitungsvorgang beteiligt; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 82 Abs. 5 Datenschutz-Grundverordnung: Innenregress nach Mass des Verschuldensanteils; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt tragfähige Prüfung internationaler Datentransfers.
-- EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalität.
+Nach KI-MIG ist die Bundesnetzagentur Auffangbehörde für Systemaufsicht mit Ausnahmen nach Paragraf 2. Datenschutzaufsicht bleibt daneben zuständig. Meldungen, Rechtsbehelfe und Aktenzugang nicht vermischen.
 
-## 7. Antwortform
+## 6. Arbeitsprodukt und Quellen
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort.
-7.2. Norm: Datenschutz-Grundverordnung Artikel 5; Datenschutz-Grundverordnung Artikel 6 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Datenschutzrecht“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Rechtsgrundlage, Erforderlichkeit und Meldefristen.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Datenschutzrecht“. Frist, Kernlücke und nächstem Dokument benennen.
+Liefere das fertige Schreiben, die Vertragsänderung oder den Freigabevermerk mit konkreten Belegen, Gegenargument und offener Grenze. Nur entscheidende Tatsachen nachfragen. Ohne Export vollständigen Text liefern, ohne Quellenzugriff keine neue Normfassung behaupten.
 
-## 8. Stop
+[Datenschutz-Grundverordnung](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de), [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html), [Verfahren 2025/0360(COD)](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29), [Verfahren 2025/0130(COD)](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0130%28COD%29). Dezimale Gliederung, vollständige Sätze, Times New Roman 11 pt.
 
-Nur bei diesem Stop-Punkt unterbrechen: Meldepflichtige Datenpanne mit laufender Frist. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+## 7. Freigabestopp ohne Bearbeitungsstillstand
+
+Stoppe eine endgültige Datenfreigabe, wenn Rechtsgrundlage oder hohes Restrisiko offen ist. Auskunftsentwurf, fristgerechte Erstmeldung und belegte Teilprüfung trotzdem fertigstellen; keine fehlende Forensik als pauschalen Fristaufschub verwenden.

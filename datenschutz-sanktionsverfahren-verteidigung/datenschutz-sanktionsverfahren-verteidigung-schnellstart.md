@@ -1,78 +1,45 @@
-# Datenschutz Sanktionsverfahren Verteidigung — Schnellstart
+# 1. Datenschutz-Sanktionsverfahren: Schnellstart
 
-Wenn du das hier öffnest, willst du einen Datenschutzverstoß bewerten und die richtige Reaktion gegenüber Aufsicht und Betroffenen aufsetzen.
+Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Datenschutzrecht und Rechtsgrundlage, Zweckbindung routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-Kernauftrag: Spezialplugin für Vertretung und Verteidigung in datenschutzrechtlichen Sanktionsverfahren: Datenschutz-Grundverordnung-Bußgeld, OWiG/StPO, Art.-58-Anordnung, Verwaltungsgericht, Aufsichtsbehördenkommunikation, EuGH/EDPB und Behördenstrategie. Vorrang hat das verlangte Arbeitsprodukt.
+Lies zuerst das Behördenschreiben, den Zustellnachweis und die bisherige Antwort. Bestimme Verfahrensspur, Adressat und nächste Frist. Liefere den verlangten Einspruch, Antrag, Antwortentwurf oder Verteidigungsvermerk; kein neues Vollinterview vor Fristwahrung. Stand: 10. September 2026.
 
-## 1. Sofortstart nach Eingangslage
+## 1. Drei Verfahren auseinanderhalten
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Verarbeitungsverzeichnis, Auftragsverarbeitungsvertrag, Löschkonzept und Meldeformular. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Datenschutzrecht, Rechtsgrundlage, Zweckbindung und Datenminimierung, Informationspflichten, Betroffenenrechte wählen; ohne konkreten Auftrag mit Verarbeitungsvorgang und Rollen bestimmen beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Eine Anordnung nach Artikel 58 der Datenschutz-Grundverordnung, eine Geldbuße nach Artikel 83 und ein zivilrechtlicher Anspruch nach Artikel 82 haben unterschiedliche Voraussetzungen und Rechtswege. Paragrafen 20 und 41 BDSG sowie OWiG fallbezogen prüfen. Nicht gegen jeden Datenschutzbescheid denselben Rechtsbehelf formulieren.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Datenschutzrecht, Rechtsgrundlage, Zweckbindung und Datenminimierung, Informationspflichten, Betroffenenrechte und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Zustellung, Fristbeginn, Vertretungsmacht und gewünschte Abhilfe belegen. Ein Auskunftsverlangen kann neben einem Bußgeldverfahren bestehen; Rechtsgrundlage, Mitwirkung und Selbstbelastungsrisiko differenzieren.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 2. Pflichtmeldung nicht für die Verteidigung versäumen
 
-## 2. Fachlicher Direktstart
+Artikel 33 verlangt unverzügliche Meldung, möglichst binnen 72 Stunden ab Kenntnis, sofern ein Risiko nicht unwahrscheinlich ist. Artikel 34 betrifft gesondert hohes Risiko. Fehlende Einzelheiten nach Artikel 33 Absatz 4 nachreichen. Akteneinsicht oder vollständige Forensik sind kein allgemeiner Aufschubgrund.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Wer entscheidet über Zweck und Mittel.
-2. Kernprüfung in einem Durchgang: Welche Datenkategorie und welcher Zweck liegen vor; Welche Rechtsgrundlage trägt die Verarbeitung.
-3. Belege und Engpass zusammenführen: Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen; besonders kritisch ist: Meldepflichtige Datenpanne mit laufender Frist.
-4. Erstes Arbeitsprodukt liefern: Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten.
+COM(2025) 837, Verfahren 2025/0360(COD), ist noch Vorschlag. Keine 96-Stunden-Frist und keine höhere Meldeschwelle anwenden. Pflichtangaben, ungeklärte Tatsachen und freiwillige Wertungen trennen. Begründete Erstmeldung rechtzeitig zur Freigabe vorlegen; keine unbelegte Selbstbezichtigung.
 
-## 3. Kernroute
+## 3. Tatbestand und Vorwerfbarkeit
 
-1. Verarbeitungsvorgang und Rollen bestimmen.
-2. Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen.
-3. Informationspflichten, Betroffenenrechte und Fristen strukturieren.
-4. Technische und organisatorische Maßnahmen sowie Auftragsverarbeitung prüfen.
-5. Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten.
+Verarbeitung, Verantwortlichenrolle, konkrete Pflicht, Ereignisdatum, Normfassung und Verschulden nachweisen. Die Behörde muss den Bußgeldtatbestand tragen; Rechenschafts- und Dokumentationspflichten sind kein beliebiger Ersatz für den Tatnachweis.
 
-## 4. Fallkarte
+EuGH C-807/21 und C-683/21 vom 5. Dezember 2023: Unternehmensgeldbuße ohne Identifizierung einer bestimmten natürlichen Person möglich, aber Vorsatz oder Fahrlässigkeit bleibt erforderlich. Keine verschuldenslose Haftung daraus ableiten. Primärfundstelle vor Verwendung prüfen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | Datenschutz-Grundverordnung Artikel 5; Datenschutz-Grundverordnung Artikel 6; Datenschutz-Grundverordnung Artikel 12 bis Artikel 15 |
-| Rechtsprechung | EuGH, Urteil vom 16.07.2020 - C-311/18; EuGH, Urteil vom 04.05.2023 - C-300/21 |
-| Tatbestand | Verarbeitungsvorgang und Rollen bestimmen |
-| Beweislast | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen |
-| Rechtsfolge | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 4. Omnibus-Einwand präzise aufbauen
 
-## 5. Einsatzfelder
+Verordnung (EU) 2026/1744 gilt bereits. Artikel 4 der Verordnung (EU) 2024/1689 verlangt Kompetenzförderung ohne individuelle Niveaugarantie. Neuer Artikel 4a erlaubt sensible Bias-Daten nur im passenden Absatz mit strikter Notwendigkeit, Alternativenprüfung, gesicherten Zugriffen, Weitergabeverbot und frühester Löschung. Das ist keine allgemeine Trainingserlaubnis und kein Deepfake-Tatbestand.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Datenschutzrecht | Verarbeitungsvorgang und Rollen bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen | Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Informationspflichten, Betroffenenrechte und Fristen strukturieren | Informationspflichten, Betroffenenrechte und Fristen strukturieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenpanne, Aufsichtsverfahren | Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Bei einem Vorwurf gegen einen früheren Verarbeitungsvorgang damalige Norm und zeitliche Wirkung einer Änderung prüfen; eine neue Erlaubnis nicht automatisch rückwirkend unterstellen. Artikel 113 verschiebt Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: Anhang III ab 2. Dezember 2027, Anhang I ab 2. August 2028. Artikel 111 zum Bestand prüfen. Das setzt keine Datenschutzpflicht aus.
 
-## 6. Anker
+## 5. Zuständigkeit und Bemessung
 
-- Datenschutz-Grundverordnung Artikel 5: Grundsätze der Verarbeitung personenbezogener Daten.
-- Datenschutz-Grundverordnung Artikel 6: Rechtmäßigkeit der Verarbeitung.
-- Datenschutz-Grundverordnung Artikel 12 bis Artikel 15: Transparenz, Auskunft und Kommunikation.
-- Datenschutz-Grundverordnung Artikel 28: Auftragsverarbeitung.
-- Art. 58 und Art. 78 Datenschutz-Grundverordnung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 58, 78, 83 Datenschutz-Grundverordnung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 31 und Art. 58 Datenschutz-Grundverordnung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 83 Abs. 2 Datenschutz-Grundverordnung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt tragfähige Prüfung internationaler Datentransfers.
-- EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalität.
+KI-MIG seit 29. Juli 2026: Bundesnetzagentur als Auffang-Systemaufsicht, Ausnahmen nach Paragraf 2. Keine Übernahme sämtlicher Datenschutzverfahren. Parallele Verfahren, Empfänger und Fristen einzeln führen; eine Meldung an eine Stelle ersetzt die andere nicht.
 
-## 7. Antwortform
+Bei Artikel 83 Absatz 2 Dauer, Schwere, Betroffenenumfang, Folgen, Abhilfe, Kooperation, frühere Verstöße und wirtschaftliche Grundlagen belegen. Höchstbetrag und konkrete Bemessung trennen. Nicht jede freiwillige Kooperation als uneingeschränkt günstiges Schuldeingeständnis formulieren.
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort.
-7.2. Norm: Datenschutz-Grundverordnung Artikel 5; Datenschutz-Grundverordnung Artikel 6 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Datenschutzrecht“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Rechtsgrundlage, Erforderlichkeit und Meldefristen.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Datenschutzrecht“. Frist, Kernlücke und nächstem Dokument benennen.
+## 6. Ausliefern und absichern
 
-## 8. Stop
+Schreibe einen fertigen, zum Verfahrensstadium passenden Entwurf. Anlagen nur auftragsbezogen beifügen, Geheimnisse kennzeichnen, Tatsachenvorbehalte präzise halten. Frist, Freigabeverantwortlichen und Beleglücke am Ende nennen. Versand ausschließlich nach Freigabe.
 
-Nur bei diesem Stop-Punkt unterbrechen: Meldepflichtige Datenpanne mit laufender Frist. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Quellen: [Datenschutz-Grundverordnung](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de), [Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html), [laufendes Reformverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29). Vollständige Sätze, dezimale Gliederung, Times New Roman 11 pt.
+
+## 7. Freigabestopp ohne Bearbeitungsstillstand
+
+Stoppe den Versand einer ungeprüften Tatsachenstellungnahme oder eines falschen Rechtsbehelfs. Pflichtmeldung und fristwahrenden Entwurf trotzdem rechtzeitig zur anwaltlichen Freigabe vorbereiten; keine unbelegte Schuldbewertung ergänzen.
