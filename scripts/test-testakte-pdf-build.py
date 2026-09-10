@@ -51,6 +51,14 @@ def require(condition: bool, message: str) -> None:
 
 
 def main() -> int:
+    require(G.escape("Müller & Sohn") == "Müller &amp; Sohn", "lateinischer Standardtext behält seine Darstellung")
+    escaped = G.escape("Aylin Yılmaz, Łukasz und Černý <Beleg>")
+    require("&lt;Beleg&gt;" in escaped, "Quelltext darf keine Formatbefehle einschleusen")
+    unicode_pdf = io.BytesIO()
+    G.SimpleDocTemplate(unicode_pdf, pagesize=G.A4).build([G.Paragraph(escaped, G.s_body)])
+    unicode_text = G.PdfReader(io.BytesIO(unicode_pdf.getvalue())).pages[0].extract_text()
+    for name in ("Yılmaz", "Łukasz", "Černý", "<Beleg>"):
+        require(name in unicode_text, f"Name muss im PDF unverändert auslesbar bleiben: {name}")
     letter_page = G.PageObject.create_blank_page(width=612, height=792)
     normalized_letter = G.a4_normalized_page(letter_page)
     require(
