@@ -1,0 +1,13 @@
+﻿Buchungstag;Beleg;Buchungstext;Gutschrift EUR;Belastung EUR;Saldo EUR
+2026-08-17;08-171;Vortrag;0;0;72400
+2026-08-17;08-172;Lieferant Sensorwerk, Rechnung SW-26181;0;21800;50600
+2026-08-18;08-181;Kunde Stadtwerke Spreefeld, Abschlag;18600;0;69200
+2026-08-18;08-182;Miete und Nebenkosten August;0;18200;51000
+2026-08-19;08-191;Elektroniklieferant, Teilzahlung EL-2644;0;17200;33800
+2026-08-20;08-201;Versicherungsbeitrag Betrieb;0;6800;27000
+2026-08-21;08-211;Fracht und Ersatzteile;0;13200;13800
+2026-08-24;08-241;Kunde Netzservice Uckermark, Rechnung NS-2608;27600;0;41400
+2026-08-25;08-251;Cloudbetrieb Teilzahlung;0;8400;33000
+2026-08-27;08-271;Kunde Stadtwerke Spreefeld, Rechnung SP-2631;67000;0;100000
+2026-08-28;08-281;49 Arbeitnehmerabschläge August zu je 1000 EUR;0;49000;51000
+2026-08-31;08-311;Werkstattbedarf und Energie;0;8100;42900

@@ -1,3 +1,19 @@
+# v444.1.0 - Berliner Personalakte zum Asset Deal
+
+## 1. Fünfzig Arbeitsverträge und zwei Geschäftsführeranstellungen
+
+Große Akte zur Innovation Systems GmbH mit Software, Sensorik und ziviler Drohnentechnik. Die neun vorgelegten Vertragsfassungen wurden erweitert und um 41 Arbeitsverträge ergänzt. Unterschiedliche Aufgaben, Fälligkeiten, Fristen, Befristungen, Sprachfassungen, Wettbewerbs- und Softwareklauseln bleiben anhand der einzelnen Dokumente auswertbar. Zwei Geschäftsführeranstellungen mit Gesellschaftsunterlagen und Erwerbsstatusbescheid werden getrennt geführt.
+
+## 2. Personalbelege und offene Erwerbsverhandlungen
+
+110 eigenständige Arbeitsunterlagen: 86 DOCX, 15 EML, vier TXT, vier CSV und ein vierblättriges XLSX. Enthalten sind Betriebsratsunterlagen, Bescheide, Schwangerschafts- und Elternzeitmitteilungen, Kündigung und Zugang, Vertragsnachträge, Insolvenzbeschlüsse, Erwerbsabsicht und Zahlungsdaten. Die Abrechnung ist rechnerisch nachvollziehbar; eine rechtliche Ergebnismatrix wird nicht vorgegeben. Bearbeitungsstand der Akte ist der 8. September 2026.
+
+## 3. Downloads und Qualitätssicherung
+
+Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP werden aus demselben Bestand gebaut. Jede Unterlage erhält ein eigenes PDF; die Excel-Datei druckt im Querformat mit wiederholten Kopfzeilen. Verzeichnisse bei Arbeitsrecht, Fachanwalt für Arbeitsrecht und Insolvenzrecht sind ergänzt. Neue Regressionen sichern Personalnummern, getrennte Vertragsgruppen, Korrespondenz, Abrechnung und Dateiverweise. Die Sprachprüfung erkennt deklarierte englische Fachtexte, ohne deutsche Umlautfehler oder andere Qualitätsprüfungen auszublenden.
+
+PDF-Ausdrucke von Textunterlagen erhalten für erweiterte lateinische Namenszeichen eine eingebettete Ersatzschrift, damit etwa Yılmaz nicht mit einem fehlenden Zeichen erscheint. Eine Regression prüft Darstellung und Textauslesung ohne Veränderung der üblichen Schriftbelegung.
+
 # v444.0.3 - Einheitlicher Markdown-Kontext für Navigation
 
 ## 1. Links, Anker und Metadaten

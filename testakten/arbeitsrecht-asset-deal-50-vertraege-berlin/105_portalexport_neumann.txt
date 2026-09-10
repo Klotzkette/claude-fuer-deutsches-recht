@@ -1,0 +1,20 @@
+Vertragsportal
+Vorgang IS-P001-20250627
+Export aus dem Personalpostfach am 08.09.2026, 09:41 Uhr
+
+Dokument: Anstellungsvertrag Dr. Johanna Neumann
+Dateistand: 27.06.2025
+Versand: 27.06.2025, 10:18:42 Uhr
+Teilnehmer Arbeitgeber: Charlotte Reuter
+Teilnehmer Arbeitnehmer: Dr. Johanna Neumann
+Anzeige Arbeitgeber abgeschlossen: 27.06.2025, 18:06:13 Uhr
+Anzeige Arbeitnehmer abgeschlossen: 27.06.2025, 18:23:51 Uhr
+Portalstatus: abgeschlossen
+Authentifizierung: E-Mail-Link und Einmalcode
+Signaturklasse im Export: nicht ausgewiesen
+Zertifikatsdatei im Export: nicht enthalten
+Technischer Prüfbericht im Export: nicht enthalten
+
+Ben Wagner, Assistenz
+
+Ich habe nur die im Postfach auffindbare Abschlussanzeige ausgelesen. Der Portalzugang des damaligen Dienstleisters ist bei mir nicht mehr eingerichtet. Die Personennamen und Zeitstempel oben stammen aus der Anzeige, nicht aus einer erneuten Prüfung der elektronischen Signaturen. Den Vertragstext habe ich beim Export nicht verändert.
