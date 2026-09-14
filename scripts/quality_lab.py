@@ -20,7 +20,7 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlsplit
 from urllib.request import HTTPRedirectHandler, Request, build_opener
 from xml.etree import ElementTree
-from zipfile import ZipFile
+from zipfile import BadZipFile, ZipFile
 
 ROOT = Path(__file__).resolve().parents[1]
 MAX_FILE = 8 * 1024 * 1024
@@ -410,7 +410,7 @@ def inspect_run(run, root=ROOT):
             path = inside(run / "output", name)
             text = read_artifact(path)
             artifacts[name] = {"sha256": digest(bounded_bytes(path)), "text": text}
-        except (ValueError, OSError, ImportError) as exc:
+        except (ValueError, OSError, ImportError, BadZipFile, ElementTree.ParseError) as exc:
             findings.append(f"{name}: {exc}")
     result = {"status": "ready_for_judging" if not findings else "unreviewed",
               "findings": findings, "metrics": metrics,
@@ -606,7 +606,8 @@ def compare(paths, root=ROOT):
             raise LabError("Messwerte fehlen")
         judges = tuple((j["model"], j["endpoint"], j["protocol"]) for j in score["judges"])
         key = (metrics["client"], metrics["model"], manifest["mode"], manifest["revision"], judges,
-               manifest.get("bundle_hash") or manifest.get("prompt_hash") or "baseline")
+               manifest.get("bundle_hash") or manifest.get("prompt_hash") or "baseline",
+               manifest["plugin"], manifest["case_hash"])
         groups.setdefault(key, []).append((manifest, metrics, score))
     rows = []
     for key, values in groups.items():
@@ -614,7 +615,7 @@ def compare(paths, root=ROOT):
         tokens = [v[1]["input_tokens"] + v[1]["output_tokens"] for v in values
                   if v[1].get("input_tokens") is not None and v[1].get("output_tokens") is not None]
         rows.append({"client": key[0], "model": key[1], "mode": key[2], "revision": key[3], "judge_profile": key[4],
-                     "variant_hash": key[5], "runs": len(values),
+                     "variant_hash": key[5], "plugin": key[6], "case_hash": key[7], "runs": len(values),
                      "case_ids": sorted({v[0]["plugin"] + "/" + v[0]["case"] for v in values}),
                      "strict_pass_rate": sum(v[2]["all_pass"] for v in values) / len(values),
                      "needs_review": sum(v[2]["status"] == "needs_review" for v in values),

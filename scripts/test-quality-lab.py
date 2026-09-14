@@ -8,6 +8,7 @@ import io
 from pathlib import Path
 import tempfile
 import unittest
+from zipfile import ZipFile
 from unittest.mock import patch, Mock
 
 import quality_lab as lab
@@ -361,6 +362,63 @@ class QualityLabTests(unittest.TestCase):
         groups = lab.compare(runs, self.root)["groups"]
         self.assertEqual(len(groups), 1)
         self.assertEqual(groups[0]["runs"], 2)
+
+    def test_different_cases_never_share_aggregates(self):
+        second = copy.deepcopy(self.profile["cases"][0])
+        second["id"] = "gebuehren"
+        second["request"] += " Prüfe zusätzlich den Buchungstag."
+        self.profile["cases"].append(second)
+        self.write_profile()
+        for mode in ("plugin", "schnellstart", "baseline"):
+            runs = []
+            for case in self.profile["cases"]:
+                run = self.base / (mode + case["id"])
+                with patch.object(lab.subprocess, "check_output", return_value="revision\n"):
+                    lab.prepare("fachgebiet", case["id"], mode, run, self.root)
+                lab.save(run / "metrics.json", self.metrics)
+                (run / "output/ergebnis.md").write_text("400 Euro Zahlung", encoding="utf-8")
+                lab.evaluate(run, self.config, root=self.root, caller=self.passing)
+                runs.append(run)
+            groups = lab.compare(runs, self.root)["groups"]
+            self.assertEqual(len(groups), 2, mode)
+            self.assertEqual(len({g["case_hash"] for g in groups}), 2)
+            self.assertTrue(all(g["runs"] == 1 for g in groups))
+
+    def test_broken_office_artifacts_remain_unreviewed(self):
+        from openpyxl import Workbook
+        for suffix in ("docx", "xlsx"):
+            for damage in ("zip", "xml"):
+                with self.subTest(suffix=suffix, damage=damage):
+                    name = "ergebnis." + suffix
+                    case = self.profile["cases"][0]
+                    case["deliverables"] = [name]
+                    for criterion in case["criteria"]:
+                        criterion["deliverables"] = [name]
+                    self.write_profile()
+                    run = self.prepare(suffix + damage)
+                    lab.save(run / "metrics.json", self.metrics)
+                    path = run / "output" / name
+                    if damage == "zip":
+                        path.write_bytes(b"PK truncated archive")
+                    elif suffix == "docx":
+                        with ZipFile(path, "w") as archive:
+                            archive.writestr("word/document.xml", "<document>")
+                    else:
+                        buffer = io.BytesIO()
+                        book = Workbook()
+                        book.active["A1"] = "Zahlung"
+                        book.save(buffer)
+                        book.close()
+                        with ZipFile(buffer) as original, ZipFile(path, "w") as archive:
+                            for entry in original.namelist():
+                                archive.writestr(entry, b"<worksheet>" if entry == "xl/worksheets/sheet1.xml" else original.read(entry))
+                    inspection = lab.inspect_run(run, self.root)[0]
+                    self.assertEqual(inspection["status"], "unreviewed")
+                    self.assertTrue(any(name in finding for finding in inspection["findings"]))
+                    caller = Mock(side_effect=AssertionError("Unreadable output must not be judged"))
+                    result = lab.evaluate(run, self.config, root=self.root, caller=caller)
+                    self.assertEqual(result["status"], "unreviewed")
+                    caller.assert_not_called()
 
     def test_context_limit_is_checked_while_reading(self):
         with self.assertRaises(lab.LabError):
