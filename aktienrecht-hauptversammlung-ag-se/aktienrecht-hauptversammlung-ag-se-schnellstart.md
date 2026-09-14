@@ -1,70 +1,33 @@
-# Aktienrecht Hauptversammlung AG SE — Schnellstart
+# 1. Hauptversammlung der AG oder SE bearbeiten
 
-Wenn du das hier öffnest, willst du eine Hauptversammlung der AG oder SE rechtssicher vorbereiten, durchführen, dokumentieren oder gegen Beschlussmängel absichern.
+Lies Auftrag, Satzung, Einberufungsbeschluss, Einladung, Tagesordnung und vorhandene Durchführungsunterlagen zuerst. Liefere das gewünschte Fristenblatt, Leitungsskript, Fragenprogramm oder Beschlussmängelvotum. Ohne konkretes Produkt beginne mit den aus den Unterlagen erkennbaren Freigabehindernissen. Frage nur nach blockierenden Lücken; ein offener Termin verhindert nicht die Prüfung bereits vorliegender Texte.
 
-Kernauftrag: Hauptversammlungs-Vorbereiter, Leitfaden-Ersteller und Durchführungsplugin für kleine AG, normale AG, börsennotierte AG und SE: Einberufung, Tagesordnung, virtuelle HV, Q&A, Abstimmung, Niederschrift, Anfechtungsrisiko. Vorrang hat das verlangte Arbeitsprodukt.
+## 2. Gesellschaft und Versammlungsform
 
-## 1. Sofortstart nach Eingangslage
+Trenne AG und SE, Börsennotierung, Aktienart und Präsenz-, elektronische Teilnahme- oder virtuelle Versammlungsform. Erfasse gültige Satzungsfassung, Registerstand und Ablauf einer Ermächtigung. Bei der SE die Organverfassung und einschlägigen Sonderregeln gesondert prüfen, nicht ungeprüft ein AG-Muster übernehmen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Gesellschaft und Versammlungsart, Einberufung und Tagesordnung, Teilnahme und Durchführung wählen; ohne konkreten Auftrag mit Gesellschaft und Versammlungsart beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Für die virtuelle HV verlangt [Paragraf 118a AktG](https://www.gesetze-im-internet.de/aktg/__118a.html) eine Satzungsbestimmung oder satzungsmäßige Ermächtigung. Prüfe deren zeitliche Geltung und den konkreten Vorstandsbeschluss. Ein Dienstleistervertrag allein ersetzt die gesellschaftsrechtliche Grundlage nicht.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Gesellschaft und Versammlungsart, Einberufung und Tagesordnung, Teilnahme und Durchführung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 3. Vom Dokument zur Durchführung
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+3.1. Einberufung: Maßgebliche Satzung und amtliche Fassung der konkreten Fristvorschrift neben Einladung und Veröffentlichungsbeleg legen. Für jede erforderliche Handlung Ereignis, Berechnungsrichtung, Stichtag, Verantwortlichen und Beleg ausweisen. Anmeldung und Nachweisstichtag, Ergänzungsverlangen, Gegenanträge und Wahlvorschläge nicht in eine gemeinsame Frist zusammenziehen. Bei Satzungsnachweisen nicht ohne Prüfung das Regime börsennotierter Gesellschaften verwenden.
 
-## 2. Fachlicher Direktstart
+3.2. Tagesordnung: Jeden Beschlussvorschlag mit Gegenstand, Organvorschlag, erforderlichen Unterlagen, Mehrheit und vorgesehenem Abstimmungsverfahren verbinden. Eine im Wortlaut offene Kapital- oder Satzungsmaßnahme nicht durch einen erfundenen Beschlussinhalt ergänzen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Gesellschafts-, Börsen- und Versammlungsform bestimmt Satzung, Fristen und Aktionärsrechte.
-2. Kernprüfung in einem Durchgang: Sind Einberufungsbeschluss, Bekanntmachung, Tagesordnung und Nachweisregime vollständig und rechtzeitig; Welche Aktionärsfrage, Verweigerung, Ordnungsmaßnahme oder technische Störung kann einen Beschlussmangel tragen.
-3. Belege und Engpass zusammenführen: Die Gesellschaft belegt Einberufung, Bekanntmachung, Anmeldung, Teilnahmeprüfung, Auskunft, Abstimmung und Niederschrift; besonders kritisch ist: Einberufungs-, Nachweis-, Ergänzungs-, Gegenantrags-, Anfechtungs- oder Freigabefrist ist nicht kalendarisch gesichert.
-4. Erstes Arbeitsprodukt liefern: HV-Fristenblatt: Maßnahme, Norm, Stichtag, Rückrechnung, Verantwortlicher, Nachweis, Freigabe und Eskalation.
+3.3. Aktionärsrechte: Für Teilnahme, Vollmacht, Wortmeldung, Auskunft, Antrag, Wahlvorschlag, Stimme und Widerspruch jeweils Zugang, zuständige Person und Protokollspur festlegen. Eine virtuelle HV benötigt mehr als einen Stream: Paragraf 118a Absatz 1 enthält unter anderem elektronische Stimmabgabe, Videoanträge und Videorede sowie Auskunft und Widerspruch. Prüfe jede Funktion im vorgesehenen Ablauf.
 
-## 3. Kernroute
+3.4. Störungen: Beginn und Ende, betroffene Funktion, Nutzerkreis, Meldungen, Reaktion der Leitung und Wiederherstellung dokumentieren. Einzelnen Verbindungsabbruch von einem gesellschaftsseitigen Systemausfall unterscheiden. Für unterbrochene Rede oder Abstimmung eine konkrete Wiederaufnahme- und Dokumentationsmaßnahme entwerfen, ohne eine tatsächlich erfolgte Wiederholung zu behaupten.
 
-1. Gesellschaft und Versammlungsart: AG-Typ, Börsennotierung, SE-Bezug, Satzung, Organbeschluss, Präsenz-, Hybrid- oder virtuelle Form und zuständige Stellen feststellen.
-2. Einberufung und Tagesordnung: Fristenkette, Bekanntmachung, Nachweisstichtag, Ergänzungsverlangen, Gegenanträge, Wahlvorschläge und Beschlussvorschläge kalendergenau sichern.
-3. Teilnahme und Durchführung: Anmeldung, Legitimation, Teilnehmerverzeichnis, Versammlungsleitung, Rede- und Frageordnung, Auskunft, Widerspruch und technische Ausfallvorsorge organisieren.
-4. Beschluss und Dokumentation: Mehrheit, Stimmverbote, Abstimmungsfeststellung, notarielle Niederschrift, Registeranmeldung, Veröffentlichung und Beweisakte verbinden.
-5. Beschlussmängel und Output: Nichtigkeit, Anfechtbarkeit, Informationsmangel, Klagefrist, Freigabe, Bestätigung und sofort nutzbaren Kalender, Leitfaden, Q&A-Katalog, Protokoll- oder Schriftsatzentwurf erstellen.
+3.5. Abstimmung und Nachbereitung: Stimmberechtigung, Vollmachten, Stimmverbote, Zählergebnis und Feststellung je Beschluss zusammenführen. Niederschriftsform, Veröffentlichung und Registeranschluss fallbezogen prüfen; keine bloße Teilnehmerliste als vollständige Beschlussdokumentation behandeln.
 
-## 4. Fallkarte
+## 4. Beschlussmängel getrennt prüfen
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | AktG Paragraf 118 und Paragraf 118a; AktG Paragraf 121 bis Paragraf 125; AktG Paragraf 126 und Paragraf 127 |
-| Rechtsprechung | BGH, Urteil vom 25.03.2025 - II ZR 208/22; BGH, Urteil vom 30.06.2015 - II ZR 142/14 |
+Eine technische Störung bedeutet weder automatisch Nichtigkeit noch stets folgenlose Technik. Nach [Paragraf 243 Absatz 3 AktG](https://www.gesetze-im-internet.de/aktg/__243.html) sind die dort erfassten störungsbedingten Verletzungen nur unter dem geregelten Verschuldensmaßstab anfechtungsrelevant; einen strengeren Satzungsmaßstab mitprüfen. Art der Verletzung, technische Ursache und organisatorisches Verschulden getrennt würdigen. Ungeklärte Tatsachen als Ermittlungsauftrag an Gesellschaft oder Dienstleister formulieren.
 
+Bei Auskunftsmängeln gesondert die Informationsrelevanz nach Absatz 4 prüfen. Klageberechtigung, Klagefrist und beantragte Rechtsfolge erst anhand des konkreten Beschlusses und der Aktionärsrolle bewerten. Präventionsvermerk, Klage und Freigabeverfahren nicht ungefragt gleichsetzen.
 
-## 5. Einsatzfelder
+## 5. Vertiefung und Ausgabe
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Gesellschaft und Versammlungsart | AG-Typ, Börsennotierung, SE-Bezug, Satzung, Organbeschluss, Präsenz-, Hybrid- oder virtuelle Form und zuständige Stellen feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einberufung und Tagesordnung | Fristenkette, Bekanntmachung, Nachweisstichtag, Ergänzungsverlangen, Gegenanträge, Wahlvorschläge und Beschlussvorschläge kalendergenau sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Teilnahme und Durchführung | Anmeldung, Legitimation, Teilnehmerverzeichnis, Versammlungsleitung, Rede- und Frageordnung, Auskunft, Widerspruch und technische Ausfallvorsorge organisieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Optional vertiefen [Technische Störung virtuelle HV](skills/technische-stoerung-virtuelle-hv/SKILL.md), [Fristencockpit](skills/fristencockpit/SKILL.md) und [Versammlungsleiter-Leitfaden](skills/versammlungsleiter-leitfaden-vorstandsrede/SKILL.md) Ausfälle, Terminplanung und Ablauftexte. Ohne diese Dateien nach den vorstehenden Prüfstationen weiterarbeiten.
 
-## 6. Anker
-
-- AktG Paragraf 118 und Paragraf 118a: Präsenzversammlung, elektronische Teilnahme und virtuelle Hauptversammlung.
-- AktG Paragraf 121 bis Paragraf 125: Zuständigkeit, Einberufung, Fristen, Nachweisstichtag und Mitteilungen.
-- AktG Paragraf 126 und Paragraf 127: Gegenanträge und Wahlvorschläge.
-- AktG Paragraf 129 und Paragraf 130: Teilnehmerverzeichnis und notarielle Niederschrift.
-- BGH, Urteil vom 25.03.2025 - II ZR 208/22: Bei einer nicht börsennotierten AG mit Inhaberaktien besteht für den satzungsmäßigen Nachweis der Teilnahme- und Stimmberechtigung ein weiter Gestaltungsspielraum; die Vermutung des AktG Paragraf 123 Absatz 4 Satz 5 gilt nicht für abweichende Satzungsnachweise.
-- BGH, Urteil vom 30.06.2015 - II ZR 142/14: Das Einberufungsorgan kann die Versammlung grundsätzlich absagen, aber nicht mehr, wenn erschienene Aktionäre nach dem angekündigten Beginn im Versammlungsraum zusammengekommen sind.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Einberufungsunterlage, HV-Fristenblatt, Q&A-Katalog, Beschluss, Niederschrift, Anfechtungsprüfung, Freigabe oder Registervollzug.
-7.2. Regelungsanker: AktG Paragraf 118 und Paragraf 118a; AktG Paragraf 121 bis Paragraf 125 mit Risikozuweisung und Vollzug verbinden.
-7.3. Aktenfund: Für „Gesellschaft und Versammlungsart“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Die Gesellschaft belegt Einberufung, Bekanntmachung, Anmeldung, Teilnahmeprüfung, Auskunft, Abstimmung und Niederschrift. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Einberufungsbeschluss, Bekanntmachung, Tagesordnung und Nachweisregime vollständig und rechtzeitig.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „HV-Fristenblatt“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Einberufungs-, Nachweis-, Ergänzungs-, Gegenantrags-, Anfechtungs- oder Freigabefrist ist nicht kalendarisch gesichert. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere vollständige Textbausteine und eine belegte Maßnahmenliste. Normen in maßgeblicher Fassung und Entscheidungen mit Gericht, Entscheidungsform, Datum, Aktenzeichen und belegter Randnummer amtlich verifizieren; keine ungeprüften Aktenzeichenlisten. Die [Zitierweise](../references/zitierweise.md) ist optional. Dezimale Gliederung mit Leerzeilen, Times New Roman 11 pt beziehungsweise Exporthinweis verwenden. Ohne Export vollständigen Text liefern; ungelesene Unterlagen benennen. Keine Einladung versenden, Registeranmeldung einreichen oder Freigabe als erfolgt darstellen.

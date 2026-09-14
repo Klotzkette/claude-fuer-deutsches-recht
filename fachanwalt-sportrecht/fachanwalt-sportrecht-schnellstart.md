@@ -1,74 +1,29 @@
-# Fachanwalt Sportrecht — Schnellstart
+# 1. Sportrecht: Vertrag, Verband und Rechtsweg trennen
 
-Wenn du das hier öffnest, willst du einen Verbands-, Vertrags-, Doping- oder Schiedsfall nach Regelwerk, Instanzenzug, Frist und sofortigem Rechtsschutz ordnen.
+Bearbeiten Sie meinen konkreten Sportfall aus den Unterlagen. Wählen Sie das Arbeitsprodukt nach Ziel und Frist, nicht automatisch eine Verbandsbeschwerde.
 
-Kernauftrag: Plugin Fachanwalt für Sportrecht. Verbandsrecht (DFB FIFA UEFA IOC DOSB) CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Veranstalterhaftung. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Tatsachen und Regelwerk
 
-## 1. Sofortstart nach Eingangslage
+Lesen Sie Vertrag, Satzung oder Reglement in der tatsächlich geltenden Fassung, Entscheidung, Zustellnachweis und Korrespondenz. Erfassen Sie vertretene Seite, Sportart, Liga, Saison, Ereignis, gewünschte Rechtsfolge und nächsten Wettkampftermin. Ohne tragende Angaben eine gebündelte Rückfrage. Bei fehlender Regelfassung den noch prüfbaren Tatsachenstand liefern.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Verbandsentscheidung, Dopingverfahren, Athleten- und Trainervertrag wählen; ohne konkreten Auftrag mit Regelwerk und Beteiligte beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 1.2. Individuelle Fachroute
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Verbandsentscheidung, Dopingverfahren, Athleten- und Trainervertrag und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+- Vergütung und Spielervertrag: Trennen Sie Arbeitsvertrag, Befristung, Verlängerungsbedingung, Optionsausübung und Prämie. Rechnen Sie Einsatzschwellen anhand offizieller Spielberichte und konkreter Klauseln; Kaderplatz, Reserve- und Pokaleinsatz zählen nicht automatisch.
+- Verbandsentscheidung: Prüfen Sie Regelgrundlage, Bindung, Verfahren, Begründung und Verhältnismäßigkeit. Erstellen Sie Entscheidung-Zustellung-Frist-Matrix und einen konkret begründeten Rechtsbehelfsentwurf.
+- Doping: Ordnen Sie Probe, Befund, Verfahrensstand und geltendes Regelwerk. Trennen Sie vorläufige Suspendierung und endgültige Sanktion, objektiven Befund und Verschuldensbewertung. Keine pauschale Sperrdauer.
+- Transfer: Unterscheiden Sie Vertragsende, nationale Arbeitsansprüche, Registrierung und internationalen Verbandsweg. Aktuelle Reglements und Übergänge prüfen; keine historischen Transferformeln blind übernehmen.
+- Sponsoring oder Veranstaltung: Arbeiten Sie Leistung, Ausfall, Rechteumfang, Schaden und konkrete Vertragsfolgen heraus. Nicht in einen sportgerichtlichen Instanzenzug umleiten.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 1.3. Quellen und Fristen
 
-## 2. Fachlicher Direktstart
+Vertragliche Ausschlussfrist, Optionsfrist, staatliche Klagefrist und verbandsinterner Rechtsbehelf sind verschiedene Prüfungen. Schiedsklausel, Sitz und Streitgegenstand prüfen, bevor staatlicher Rechtsschutz ausgeschlossen wird. Keine allgemeine CAS- oder Verbandsfrist unterstellen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Fassung von Satzung, Code oder Wettkampfreglement galt beim Ereignis.
-2. Kernprüfung in einem Durchgang: Welche interne Instanz ist vor welchem staatlichen oder schiedsgerichtlichen Weg auszuschöpfen; Welche kurze Frist hängt an Zustellung, Wettkampf oder Saisonwechsel.
-3. Belege und Engpass zusammenführen: Verband oder Anspruchsteller für Regelwerk, Tatbestand, Zustellung und Maßnahme; Athlet oder Verein für Gegenbeleg, Fristwahrung, Eilbedarf und Einwendung; besonders kritisch ist: Die anwendbare Regelfassung, Zustellung oder interne Rechtsmittelfrist ist nicht gesichert.
-4. Erstes Arbeitsprodukt liefern: Sportfallkarte: Beteiligter, Regelwerkfassung, Entscheidung, Zustellung, interne Instanz, externe Instanz, Frist, Eilantrag und Beleg.
+Für Einsatzstreit: [Paragraf 162 BGB](https://www.gesetze-im-internet.de/bgb/__162.html), für Befristungskontrolle [Paragraf 17 TzBfG](https://www.gesetze-im-internet.de/tzbfg/__17.html). BAG, Urteil vom 16.01.2018, Az. 7 AZR 312/16, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/7-azr-312-16/), Randnummern 38 und 39: sportliche Motive und Kausalität der Nichtaufstellung. Am 14.09.2026 geprüft. Reservezuweisung bedeutet nicht automatisch Bedingungsvereitelung; das Urteil ist keine allgemeine Freigabe jeder Befristungs- oder Optionsklausel.
 
-## 3. Kernroute
+Öffnen Sie weitere falltragende Normen und Regelwerke live. Belegen Sie Entscheidungen mit Gericht, Form, Datum, Aktenzeichen und überprüfter Passage. Keine ungesicherten Sportgerichts- oder Literaturzitate.
 
-1. Regelwerk und Beteiligte: Athlet, Verein, Verband, Liga, Veranstalter, Saison, Fassung, Unterwerfung und Zustellung erfassen.
-2. Instanzenzug und Eilbedarf: internes Rechtsmittel, DIS oder CAS, staatliches Gericht, Frist, Sperre, Wettkampfkalender und vorläufigen Rechtsschutz bestimmen.
-3. Materielle Prüfung: Vertrag, Spielberechtigung, Transfer, Dopingvorwurf, Verbandsstrafe, Auswahlentscheidung oder Hausverbot tatbestandlich zerlegen.
-4. Kontrollmaßstab: Satzung, Transparenz, Gleichbehandlung, Verhältnismäßigkeit, Marktmacht, Verfahrensfairness und Unionsrecht prüfen.
-5. Arbeitsprodukt: Berufungsanzeige, Eilantrag, Schiedsschriftsatz, Vertragsredline, Verbandsbeschwerde oder Sponsoringvermerk erstellen.
+## 1.4. Ergebnis und Freigabe
 
-## 4. Fallkarte
+Liefern Sie das gewünschte Dokument, sonst einen Kurzvermerk mit Regelgrundlage, Tatsachenbelegen, Fristen, stärkstem Gegenargument und ausformuliertem nächsten Entwurf. Bei bevorstehendem Wettkampf sofortigen Rechtsschutz priorisieren; nur ungeklärte Aussagen offenlassen, nicht alles abbrechen. Keine Option ausüben, Klage einreichen, Vergleich schließen oder Erklärung versenden.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 25 ff; BGB Paragraf 242 und Paragraf 315; ZPO Paragraf 1025, Paragraf 1032 und Paragraf 1059 |
-| Rechtsprechung | BVerfG, Beschluss vom 03.06.2022 - 1 BvR 2103/16; BAG, Urteil vom 16.01.2018 - 7 AZR 312/16 |
-| Tatbestand | Regelwerkfassung, Zustellung, internes Rechtsmittel, Gleichbehandlung, Verhältnismäßigkeit und Eilbedarf prüfen |
-| Beweislast | Verband oder Anspruchsteller für Regelwerk, Tatbestand, Zustellung und Maßnahme; Athlet oder Verein für Gegenbeleg, Fristwahrung, Eilbedarf und Einwendung |
-| Rechtsfolge | Verbandsbeschwerde, Eilantrag, Schiedsschriftsatz, Vertragsredline, Spielberechtigungsantrag oder Sponsoringvermerk |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Verbandsentscheidung | Regelwerkfassung, Zustellung, internes Rechtsmittel, Gleichbehandlung, Verhältnismäßigkeit und Eilbedarf prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dopingverfahren | Probe, Kette des Gewahrsams, Substanz, Verschuldensgrad, Sanktion, Rechtsmittel und Wettkampfkalender verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Athleten- und Trainervertrag | Befristung, Vergütung, Einsatz, Verletzung, Bildrechte, Freistellung und Beendigung redlinen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-
-## 6. Anker
-
-- BGB Paragraf 25 ff.: Satzung, Mitgliedschaft, Organ und vereinsrechtliche Bindung.
-- BGB Paragraf 242 und Paragraf 315: Billigkeits- und Kontrollmaßstab bei Verbandsentscheidungen und Leistungsbestimmung.
-- ZPO Paragraf 1025, Paragraf 1032 und Paragraf 1059: Schiedsvereinbarung, Einrede und Aufhebungsantrag.
-- GWB Paragraf 19 und Paragraf 20: Marktmacht und Missbrauch bei monopolartig organisiertem Verbandszugang.
-- BVerfG, Beschluss vom 03.06.2022 - 1 BvR 2103/16: Die Pechstein-Entscheidung des BGH verletzte den Justizgewährungsanspruch, weil die dortige Anwendung der Schiedseinrede den Anspruch auf öffentliche Verhandlung nicht hinreichend berücksichtigte.
-- BAG, Urteil vom 16.01.2018 - 7 AZR 312/16: Die Befristung eines Arbeitsvertrags mit einem Lizenzspieler der ersten Fußball-Bundesliga kann regelmäßig durch die Eigenart der Arbeitsleistung sachlich gerechtfertigt sein.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Verbandsbeschwerde, Eilantrag, Schiedsschriftsatz, Vertragsredline, Spielberechtigungsantrag oder Sponsoringvermerk.
-7.2. Norm: BGB Paragraf 25 ff; BGB Paragraf 242 und Paragraf 315 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Verbandsentscheidung“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Verband oder Anspruchsteller für Regelwerk, Tatbestand, Zustellung und Maßnahme; Athlet oder Verein für Gegenbeleg, Fristwahrung, Eilbedarf und Einwendung. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche interne Instanz ist vor welchem staatlichen oder schiedsgerichtlichen Weg auszuschöpfen.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Sportfallkarte“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Die anwendbare Regelfassung, Zustellung oder interne Rechtsmittelfrist ist nicht gesichert. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Nach einem Klausel-, Rechen- und Fristencheck abschließen. Vollständige Sätze, dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Ohne weitere Skills oder Exportwerkzeuge hier ein eigenständiges Textprodukt liefern.

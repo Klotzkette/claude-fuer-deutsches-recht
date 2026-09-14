@@ -20,9 +20,9 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 | Bedarf | Sofortausgabe | Qualitätsgriff |
 | --- | --- | --- |
-| Frist- oder Eilfall: Schuldnerschutz | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Titel, Klausel oder Zustellung fehlt oder ist nicht belegbar; vor Fortsetzung klären |
+| Frist- oder Eilfall: Schuldnerschutz | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Titel, erforderliche Klausel oder Zustellungsgrundlage fehlt oder ist nicht belegbar; vor Fortsetzung klären |
 | Tragendes Arbeitsprodukt | Titelcheck: Titelart, Datum, Tenor, Klausel, Zustellung, Betrag, Zinsen, Kosten, Bedingung und Anlage | jede Tatsache bekommt Beleg oder Lückenmarke |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Ist der Titel inhaltlich vollstreckungsfähig und liegt die richtige Klausel vor |
+| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Ist der Titel vollstreckungsfähig und eine Klausel erforderlich sowie gegebenenfalls vorhanden |
 | Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Gläubiger für Titel, Klausel, Zustellung und Forderungsstand; Schuldner oder Dritter für Schutz, Erfüllung, Insolvenz und Gegenrechte |
 | Rechtsfolgenseite | Antrags-, Bescheid-, Vertrags- oder Antwortfassung | Titelcheck, Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Erinnerung oder Schutzantrag |
 | Zwischenstation 1 | Arbeitsstand mit Belegstelle | Vollstreckungsweg: bewegliche Sache, Forderung, Konto, Arbeitseinkommen, Herausgabe, Räumung, Grundstück oder Auskunft bestimmen |
@@ -31,8 +31,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ### 1.3. Rückfragenbremse
 
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Ist der Titel inhaltlich vollstreckungsfähig und liegt die richtige Klausel vor“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Titel, Klausel oder Zustellung fehlt oder ist nicht belegbar.
+1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Ist der Titel vollstreckungsfähig und eine Klausel erforderlich sowie gegebenenfalls vorhanden“ aus; frage erst danach gezielt nach.
+2. Der Engpass dieses Gebiets hat Vorrang: Titel, erforderliche Klausel oder Zustellungsgrundlage fehlt oder ist nicht belegbar.
 3. Beweislage vor Rechtsmeinung ordnen: Gläubiger für Titel, Klausel, Zustellung und Forderungsstand; Schuldner oder Dritter für Schutz, Erfüllung, Insolvenz und Gegenrechte.
 4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
 5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
@@ -44,10 +44,10 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Beweissatz: [Tatsache] ist durch [Beweismittel] belegt; im Übrigen gilt: Gläubiger für Titel, Klausel, Zustellung und Forderungsstand; Schuldner oder Dritter für Schutz, Erfüllung, Insolvenz und Gegenrechte.
 - Rechtsfolgensatz: Daraus folgt Titelcheck, Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Erinnerung oder Schutzantrag.
 - Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg oder Norm]. Risiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg bleibt die Leitfrage „Ist der Titel inhaltlich vollstreckungsfähig und liegt die richtige Klausel vor“ offen.
+- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg bleibt die Leitfrage „Ist der Titel vollstreckungsfähig und eine Klausel erforderlich sowie gegebenenfalls vorhanden“ offen.
 ## 2. Stop-Kriterien
 
-- Titel, Klausel oder Zustellung fehlt oder ist nicht belegbar.
+- Titel, erforderliche Klausel oder Zustellungsgrundlage fehlt oder ist nicht belegbar.
 - Bank-, Arbeitslohn- oder Sachpfändung wird beantragt, ohne Schuldnerdaten und Forderungsaufstellung zu prüfen.
 - Schuldnerschutz, Insolvenz oder Drittberechtigung ist erkennbar.
 - Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
@@ -56,6 +56,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 ## 3. Werkstattfluss
 
 ### 3.1. Titelcheck
+
+Titelbezogene Weiche: Beim Vollstreckungsbescheid ist nach [Paragraf 796 Absatz 1 ZPO](https://www.gesetze-im-internet.de/zpo/__796.html) ohne Parteiwechsel keine Klausel erforderlich. Ein Versäumnisurteil ist nach [Paragraf 708 Nummer 2 ZPO](https://www.gesetze-im-internet.de/zpo/__708.html) ohne Sicherheitsleistung für vorläufig vollstreckbar zu erklären; Klausel, Zustellung und etwaige Einstellung dennoch prüfen. [Paragraf 750 Absatz 2 ZPO](https://www.gesetze-im-internet.de/zpo/__750.html) begründet keine allgemeine Zweiwochenfrist. Eine solche Frist nach Absatz 3 gilt für die Sicherungsvollstreckung nach Paragraf 720a ZPO; [Paragraf 798 ZPO](https://www.gesetze-im-internet.de/zpo/__798.html) erfasst die dort bezeichneten Titel, insbesondere notarielle Vollstreckungsurkunden. Das Prüfprotokoll muss den konkreten Sperrgrund oder dessen Fehlen nennen, statt jede fehlende Klausel oder Sicherheit als Hindernis zu behandeln.
 
 Arbeitsgriff Titelcheck: vollstreckbarer Inhalt, Klausel, Zustellung, Rechtskraft, Bedingung, Sicherheitsleistung und Forderungsstand prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
 
@@ -126,7 +128,7 @@ Arbeitsgriff Arbeitsprodukt: Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsauf
 
 ## 9. Prüfraster
 
-1. Ist der Titel inhaltlich vollstreckungsfähig und liegt die richtige Klausel vor.
+1. Ist der Titel vollstreckungsfähig und eine Klausel erforderlich sowie gegebenenfalls vorhanden.
 2. Ist die Zustellung der vollstreckbaren Ausfertigung nachweisbar.
 3. Welcher Vollstreckungsgegenstand verspricht realistisch Befriedigung.
 4. Welche Pfändungsgrenze, Vorpfändung oder Insolvenzlage blockiert den Zugriff.
@@ -201,7 +203,7 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 ### 16.2. Drei-Säulen-Prüfung: Titel, Klausel, Zustellung
 
 Bearbeitungsauftrag: Bearbeite Drei-Säulen-Prüfung: Titel, Klausel, Zustellung: titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle. Fachstation: Titelcheck: vollstreckbarer Inhalt, Klausel, Zustellung, Rechtskraft, Bedingung, Sicherheitsleistung und Forderungsstand prüfen.
-Prüfschritte: Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen; Paragrafen 704 724 750 ZPO Titel Klausel Zustellung; Prüfraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung Paragrafen 727 und folgende qualifizierte Klausel bei bedingten Titeln Wartefrist Paragraf 750 Absatz 1; Output: Drei-Saeulen-Prüfprotokoll und Handlungsempfehlung; Abgrenzung zu kommandocenter (Routing) und mahnbescheid-online-mobiliar-gv (Titelerlangung).
+Prüfschritte: Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen; Paragrafen 704 724 750 ZPO Titel Klausel Zustellung; Prüfraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung Paragrafen 727 und folgende qualifizierte Klausel bei bedingten Titeln besondere Wartefrist nur nach einschlägiger Norm, insbesondere Paragraf 798 oder Paragraf 750 Absatz 3 ZPO; Output: Drei-Saeulen-Prüfprotokoll und Handlungsempfehlung; Abgrenzung zu kommandocenter (Routing) und mahnbescheid-online-mobiliar-gv (Titelerlangung).
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.3. Pfändungstabelle ab 1. Juli 2026

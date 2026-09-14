@@ -166,6 +166,7 @@ def is_markdown_work_file(destination: str) -> bool:
         name == "skill.md"
         or name.endswith("-werkstatt.md")
         or name.endswith("-schnellstart.md")
+        or name.endswith("-hauptproblem.md")
     )
 
 
@@ -189,6 +190,8 @@ def user_facing_download_docs() -> list[Path]:
         {
             REPO / "SKILLS.md",
             REPO / "ASSET_INDEX.md",
+            REPO / "SCHWERPUNKTE.md",
+            REPO / "QUALITY.md",
             REPO / "PROMPTLISTE.md",
             REPO / "QUICKSTART.md",
             REPO / "INSTALLATION_EINFACH.md",

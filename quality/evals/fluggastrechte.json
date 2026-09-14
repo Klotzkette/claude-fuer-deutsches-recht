@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "fluggastrechte",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj/deu",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 5 und 7 bis 9: Mitteilungsfrist und Ersatzzeiten bei Annullierung, distanzbezogener Ausgleich pro Person, getrennte Betreuung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Flugmatrix war passend; Personenanzahl, Ticketpreisunabhängigkeit und Zuordnung von Rückzahlungen fehlten als Rechensicherungen.",
+    "changes": [
+      "Ausgleich je Person und getrennte Leistungsarten ergänzt.",
+      "Annullierungsmitteilung und Ersatzflugzeiten konkretisiert."
+    ],
+    "sha256": "3e7a8253d358bbe450ce209f85bcb737b373a215957be6ce058e53f012bc124a"
+  },
+  "selection": {
+    "positive": [
+      "Berechne Ausgleich für einen kurzfristig annullierten Flug.",
+      "Antworte auf den Einwand außergewöhnlicher Umstände einer Airline."
+    ],
+    "negative": [
+      "Berechne Entschädigung für einen Zugausfall.",
+      "Prüfe allein den Verlust eines Reisegepäckstücks nach dem Montrealer Übereinkommen."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zwei-personen-annullierung-kurzstrecke",
+      "request": "Zwei Erwachsene mit bestätigter Buchung fliegen von Berlin nach Paris; die maßgebliche Entfernung beträgt belegt 880 Kilometer. Die Airline annulliert zwei Tage vorher wegen eigener fehlerhafter Einsatzplanung. Sie bietet einen Ersatzflug an, der fünf Stunden später als ursprünglich am Ziel ankommt; beide nehmen ihn. Tickets kosteten je 90 Euro. Keine Zahlungen sind erfolgt; weitere Schäden oder Betreuungskosten werden nicht geltend gemacht. Erstelle ergebnis.md mit Forderungsrechnung und nicht versandtem Schreiben an das ausführende Unternehmen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Rechnung setzt je Person 250 Euro, insgesamt 500 Euro Ausgleich an und begrenzt ihn nicht auf den Ticketpreis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die fünfstündige spätere Ankunft trägt weder die kurzfristige Mitteilungsausnahme noch eine Halbierung für diese Distanzstufe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Es wird nicht zusätzlich ohne Auftrag und Grundlage eine volle Ticketpreiserstattung oder erfundene Betreuungspauschale verlangt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "distanz-und-ausgleich-berechnen"
+    }
+  ]
+}

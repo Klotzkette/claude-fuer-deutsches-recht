@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "sozialversicherungsstatus-pruefer",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__7.html",
+      "checked_on": "2026-09-14",
+      "supports": "Weisungsgebundenheit und Eingliederung als Anhaltspunkte für Beschäftigung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__7a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Statusentscheidung nach Gesamtwürdigung; Antragsverfahren nicht bei bereits von zuständiger Stelle eingeleitetem Verfahren zur Feststellung von Versicherungspflicht aufgrund Beschäftigung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Etikett, Honorar und Auftraggeberzahl ersetzen keine Würdigung der gelebten Tätigkeit; Verfahrensstand entscheidet über den Zugang zur Statusklärung.",
+    "changes": [
+      "Tatsächliche Weisungen und Eingliederung konkret abgefragt.",
+      "Erwerbsstatus von Beitragsfolgen getrennt.",
+      "Bereits laufende Prüfverfahren vor einem Antrag nach Paragraf 7a erfasst."
+    ],
+    "sha256": "e5fae403b3a051d780881ede7977c28a8f3ae28f2d2ea30970f01f878df41105"
+  },
+  "selection": {
+    "positive": [
+      "Bewerten Sie meine tatsächliche Tätigkeit beim Auftraggeber anhand von Dienstplan und Arbeitsorganisation.",
+      "Prüfen Sie, ob nach Einleitung einer Betriebsprüfung noch ein Statusfeststellungsantrag für dieselbe Tätigkeit passt."
+    ],
+    "negative": [
+      "Berechnen Sie allein die Höhe meiner gesetzlichen Altersrente.",
+      "Prüfen Sie ausschließlich die steuerliche Abziehbarkeit meiner Betriebsausgaben."
+    ]
+  },
+  "cases": [
+    {
+      "id": "dienstplan-und-bereits-laufende-statuspruefung",
+      "request": "Eine IT-Beraterin arbeitet seit sechs Monaten an vier festen Tagen pro Woche beim Kunden. Die Teamleitung teilt ihr Aufgaben und Schichten zu; Urlaub ist abzustimmen. Sie nutzt ausschließlich Kundengeräte und darf niemanden an ihrer Stelle schicken. Das Honorar beträgt 90 Euro pro Stunde. Sie hat daneben einen zweiten kleinen Kunden. Der Vertrag nennt sie unabhängig. Der zuständige Rentenversicherungsträger hat im Rahmen einer Betriebsprüfung bereits ausdrücklich ein Verfahren zur Versicherungspflicht aufgrund Beschäftigung für genau diese Tätigkeit eingeleitet und einen Fragebogen versandt. Erstellen Sie ergebnis.md zur vorläufigen Gewichtung und zum weiteren Verfahrensweg, ohne einen Antrag zu stellen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Aufgabenzuweisung, feste Schichten, Urlaubsabstimmung und fehlende Vertretungsmöglichkeit werden als konkrete Eingliederungs- beziehungsweise Weisungsindizien gewichtet; zwei Kunden und hohes Honorar entscheiden nicht allein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der bereits eingeleitete tätigkeitsidentische Versicherungsprüfvorgang wird als Hindernis für einen neuen Antrag nach Paragraf 7a Absatz 1 berücksichtigt und nicht als bedeutungslos übergangen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Ausgabe trennt vorläufige Statusbewertung von konkreter Beitragshöhe und unterstützt eine tatsachengetreue Antwort im laufenden Verfahren, ohne eine verbindliche Behördenentscheidung vorzutäuschen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "kaltstart-triage"
+    }
+  ]
+}

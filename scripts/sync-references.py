@@ -13,6 +13,7 @@ Exit 1 wenn Quelldateien fehlen.
 from __future__ import annotations
 import shutil
 import sys
+import json
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -38,6 +39,12 @@ PAIRS.extend(
     for plugin in OMNIBUS_PLUGINS
     for reference in ("digitaler-omnibus-2026.md", "zitierweise.md")
 )
+
+for entry in json.loads((REPO / ".claude-plugin/marketplace.json").read_text(encoding="utf-8"))["plugins"]:
+    if entry["name"].startswith("fachanwalt-") or entry["name"] in {"insolvenzrecht", "steuerrecht-anwalt-und-berater"}:
+        pair = (REPO / "references/zitierweise.md", REPO / entry["source"] / "references/zitierweise.md")
+        if pair not in PAIRS:
+            PAIRS.append(pair)
 
 
 def main() -> int:

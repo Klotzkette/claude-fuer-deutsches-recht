@@ -1,75 +1,23 @@
-# Patentrecherche — Schnellstart
+# 1. Patentrecherche nachvollziehbar durchführen
 
-Wenn du das hier öffnest, willst du eine technische Lehre recherchieren, schützen, lizenzieren oder gegen Patentverletzung und Rechtsbestandsangriff verteidigen.
+Beginne mit dem Nutzerauftrag und den vorhandenen technischen Unterlagen, nicht mit einer allgemeinen Patentberatung. Unterscheide Recherche zum Stand der Technik, Neuheitsprüfung, Überwachung und Recherche zur Benutzungsfreiheit. Bei einer Neuheitsrecherche ist der maßgebliche Zeitrang entscheidend; bei Benutzungsfreiheit zusätzlich das konkrete Produkt, Absatzgebiet und der aktuelle Schutzrechtsstand. Frage nur nach Angaben, die den Suchraum oder die Bewertung tatsächlich blockieren.
 
-Kernauftrag: Patentrecherche für Patentanwälte agentisch in Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO USPTO. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Aus Technik Suchbegriffe ableiten
 
-## 1. Sofortstart nach Eingangslage
+Zerlege die technische Lehre in Bauteile, deren Beziehungen und den erreichten technischen Effekt. Lege Synonyme und deutsche sowie englische Funktionsbegriffe an. Suche nicht nur nach Produktnamen oder nach dem behaupteten Vorteil. Prüfe passende IPC- oder CPC-Klassen anhand ihrer tatsächlichen Definition, statt eine Klasse zu erraten. Kombiniere zunächst Kernfunktion und unterscheidendes Merkmal; erweitere bei wenigen Treffern systematisch um Oberbegriffe und Nachbarklassen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Technische Lehre, Rechtsbestand, Schutzbereich und FTO wählen; ohne konkreten Auftrag mit Technische Lehre beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Dokumentiere je Suchlauf Datenbank, Datum, vollständige Abfrage, Filter, Trefferzahl und tatsächlich gesichteten Umfang. Recherchierte und nur vorgeschlagene Suchläufe getrennt ausweisen. Fehlt Datenbankzugriff, liefere eine ausführbare Suchstrategie und die Bewertung vorhandener Dokumente, aber keine erfundene Trefferliste. Vertrauliche Erfindungsdetails nicht ungefragt an externe Dienste übertragen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Technische Lehre, Rechtsbestand, Schutzbereich und FTO und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Treffer anhand ihrer Offenbarung lesen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Erfasse Veröffentlichungsnummer mit Dokumentenart, Anmelder, Anmelde-, Prioritäts- und Veröffentlichungstag jeweils getrennt. Prüfe den Volltext an Anspruch, Beschreibungsabsatz oder Figur; Abstract und Treffer-Snippet allein tragen keine vollständige Merkmalszuordnung. Zitiere die konkrete Stelle und erkläre, ob sie das Merkmal offenbart oder nur eine weitere Suchspur liefert. Eine Übersetzung als solche kennzeichnen und entscheidende Begriffe am Original absichern.
 
-## 2. Fachlicher Direktstart
+PatG Paragraf 3 unterscheidet öffentlich zugänglichen Stand der Technik und bestimmte ältere, später veröffentlichte Anmeldungen. Setze das Prioritätsdatum nicht mit öffentlicher Zugänglichkeit gleich. Ein späterer Publikationstag erledigt daher nicht jede Relevanzprüfung; kennzeichne die eigene Kategorie älterer Anmeldungen. Für Neuheit die beanspruchte Kombination in einem konkreten Offenbarungszusammenhang prüfen, nicht aus mehreren Treffern unbemerkt ein einziges Dokument bauen. Die Frage einer naheliegenden Kombination ist getrennt zu begründen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche technische Lehre wird in welchen Anspruchsmerkmalen beansprucht.
-2. Kernprüfung in einem Durchgang: Welches Dokument offenbart welches Merkmal unmittelbar und eindeutig zu welchem Prioritätszeitpunkt; Warum lag die Merkmalskombination für den Fachmann nahe oder gerade nicht nahe.
-3. Belege und Engpass zusammenführen: Patentinhaber für Rechtsinhaberschaft und Verletzung; Angreifer für neuheitsschädlichen Stand der Technik, Nichtigkeitsgrund oder FRAND-Einwand; besonders kritisch ist: Prioritäts-, Prüfungs-, Einspruchs-, Nichtigkeits- oder Rechtsmittelfrist ist ungesichert.
-4. Erstes Arbeitsprodukt liefern: Recherchebericht, Anspruchssatz, Bescheidserwiderung, Verletzungsmatrix, FTO-Memo, Lizenz oder FRAND-Schritt erstellen.
+## 1.3. Familien und Rechtsstand
 
-## 3. Kernroute
+Fasse verwandte Dokumente zur Übersicht zusammen, ohne sie als technisch oder rechtlich identisch zu behandeln. Anspruchsfassungen und territoriale Wirkungen können abweichen. Für eine Recherche zur Benutzungsfreiheit maßgebliche Ansprüche und Registerereignisse im betreffenden Land gesondert prüfen; ein abgelaufenes ausländisches Familienmitglied beweist keine Freiheit in Deutschland. Ein fehlender Treffer ist kein Nachweis, dass es keine blockierenden Rechte gibt.
 
-1. Technische Lehre: Aufgabe, Lösung, Merkmale, Ausführungsbeispiele, Priorität und Erfinderbeitrag belastbar erfassen.
-2. Rechtsbestand: Stand der Technik, Neuheit, erfinderische Tätigkeit, Offenbarung, Erweiterung und Priorität in einer Merkmalsmatrix prüfen.
-3. Schutzbereich und FTO: Anspruch auslegen, Produkt zuordnen, wortsinngemäße und äquivalente Benutzung sowie Drittpatente getrennt bewerten.
-4. Verfahren: DPMA- oder EPA-Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Verletzung und Aussetzung zeitlich koordinieren.
-5. Arbeitsprodukt: Recherchebericht, Anspruchssatz, Bescheidserwiderung, Verletzungsmatrix, FTO-Memo, Lizenz oder FRAND-Schritt erstellen.
+## 1.4. Bericht mit belastbarer Reichweite
 
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | PatG Paragraf 1 bis Paragraf 5; PatG Paragraf 9 und Paragraf 10; PatG Paragraf 14 und EPÜ Artikel 69 mit Auslegungsprotokoll |
-| Rechtsprechung | BGH, Urteil vom 12.03.2002 - X ZR 168/00; EuGH, Urteil vom 16.07.2015 - C-170/13 |
-| Tatbestand | Aufgabe, Lösung, Merkmale, Ausführungsbeispiele, Priorität und Erfinderbeitrag belastbar erfassen |
-| Beweislast | Patentinhaber für Rechtsinhaberschaft und Verletzung; Angreifer für neuheitsschädlichen Stand der Technik, Nichtigkeitsgrund oder FRAND-Einwand |
-| Rechtsfolge | Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Aussetzung, Unterlassung, Auskunft, Schadensersatz, FTO oder Lizenz |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Technische Lehre | Aufgabe, Lösung, Merkmale, Ausführungsbeispiele, Priorität und Erfinderbeitrag belastbar erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsbestand | Stand der Technik, Neuheit, erfinderische Tätigkeit, Offenbarung, Erweiterung und Priorität in einer Merkmalsmatrix prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schutzbereich und FTO | Anspruch auslegen, Produkt zuordnen, wortsinngemäße und äquivalente Benutzung sowie Drittpatente getrennt bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahren | DPMA- oder EPA-Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Verletzung und Aussetzung zeitlich koordinieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Recherchebericht, Anspruchssatz, Bescheidserwiderung, Verletzungsmatrix, FTO-Memo, Lizenz oder FRAND-Schritt erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- PatG Paragraf 1 bis Paragraf 5: Patentfähigkeit, Ausschlüsse, Neuheit, erfinderische Tätigkeit und gewerbliche Anwendbarkeit.
-- PatG Paragraf 9 und Paragraf 10: unmittelbare und mittelbare Patentbenutzung.
-- PatG Paragraf 14 und EPÜ Artikel 69 mit Auslegungsprotokoll: Schutzbereich aus Patentanspruch, Beschreibung und Zeichnungen.
-- PatG Paragraf 34: Offenbarung und Inhalt der Anmeldung.
-- BGH, Urteil vom 12.03.2002 - X ZR 168/00: Schneidmesser I bestimmt Anspruchsauslegung und die Grenzen äquivalenter Verletzung bei Zahlen- und Maßangaben.
-- EuGH, Urteil vom 16.07.2015 - C-170/13: Huawei gegen ZTE ordnet die wechselseitigen Schritte vor einer Unterlassungsklage aus einem standardessenziellen Patent mit FRAND-Zusage.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Aussetzung, Unterlassung, Auskunft, Schadensersatz, FTO oder Lizenz.
-7.2. Norm: PatG Paragraf 1 bis Paragraf 5; PatG Paragraf 9 und Paragraf 10 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Technische Lehre“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Patentinhaber für Rechtsinhaberschaft und Verletzung; Angreifer für neuheitsschädlichen Stand der Technik, Nichtigkeitsgrund oder FRAND-Einwand. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welches Dokument offenbart welches Merkmal unmittelbar und eindeutig zu welchem Prioritätszeitpunkt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Technische Lehre“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Prioritäts-, Prüfungs-, Einspruchs-, Nichtigkeits- oder Rechtsmittelfrist ist ungesichert. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere den verlangten Bericht mit Suchprotokoll, relevanten Treffern, Merkmalsbefunden und begründeter Priorisierung der nächsten Recherche. Trenne nachgewiesene Offenbarung, technische Auslegung und offene Quelle. Benenne konkret nicht untersuchte Datenbanken, Sprachen, Zeiträume und noch nicht veröffentlichte Schutzrechtsrisiken statt einer Vollständigkeitsgarantie. Quellen und Registerstände mit Abrufdatum angeben; amtliche Normen vor rechtlichen Aussagen verifizieren. Das Ergebnis besteht aus vollständigen Sätzen, Tabellen dienen dem Nachweis. Export: Times New Roman 11 pt, dezimale Gliederung. Weitere Recherche-Skills sind optional; Suchaufbau, Dokumentenprüfung und Bericht funktionieren mit diesem Mini allein.

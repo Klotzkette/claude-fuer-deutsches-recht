@@ -42,7 +42,8 @@ def collect_skill_files(plugin_dir: Path) -> list[Path]:
     skills_dir = plugin_dir / "skills"
     if not skills_dir.is_dir():
         return []
-    return sorted(path for path in skills_dir.rglob("*.md") if path.is_file())
+    roots = (skills_dir, plugin_dir / "references")
+    return sorted(path for root in roots for path in root.rglob("*.md") if path.is_file())
 
 
 def build_plugin_bundle(plugin: dict[str, str], repo_root: Path, out_dir: Path) -> tuple[Path, int]:

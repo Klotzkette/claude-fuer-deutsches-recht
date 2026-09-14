@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "europarecht-kompass",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0573",
+      "checked_on": "2026-09-14",
+      "supports": "EuGH, Urteil vom 24.06.2019, C-573/17, Randnummern 60 bis 68: Vorrang ersetzt unmittelbare Wirkung nicht; keine zusätzlichen privaten Pflichten allein aus Richtlinie."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Wirkungsmatrix blieb ohne konkrete Grenze horizontaler Richtlinienwirkung zu abstrakt.",
+    "changes": [
+      "Vorrang, unmittelbare Wirkung und Auslegung getrennt.",
+      "Aktuellen tragfähigen Entscheidungsanker ergänzt."
+    ],
+    "sha256": "541d9c5a7f62b1ba615944583a291577a3d343a00ed2b05c9cbf3a26f48856b7"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die Wirkung einer nicht umgesetzten Richtlinie im Privatrechtsstreit.",
+      "Ordne eine nationale Normkollision mit Unionsrecht ein."
+    ],
+    "negative": [
+      "Übersetze einen Vertrag ohne unionsrechtliche Frage.",
+      "Berechne ausschließlich deutsches Erbschaftsteuerrecht."
+    ]
+  },
+  "cases": [
+    {
+      "id": "richtlinie-zwischen-privaten",
+      "request": "Für eine methodische Fallbesprechung ist Folgendes verbindlich vorgegeben: Eine ausreichend bestimmte und unbedingte Richtlinienbestimmung wurde nach Fristablauf nicht umgesetzt. Zwei rein private Unternehmen streiten; das nationale Gesetz enthält ausdrücklich die entgegengesetzte Regel. Eine unionsrechtskonforme Auslegung wäre nach dem ebenfalls vorgegebenen eindeutigen nationalen Wortlaut contra legem. Eine selbständig einschlägige Grundrechtsnorm ist nicht ersichtlich. Erstelle ergebnis.md zur Frage, ob allein der Anwendungsvorrang die zusätzliche Zahlungspflicht des privaten Beklagten trägt, und zeige gesonderte Prüfwege auf. Erfinde keinen Richtlinientitel oder Anspruchsbetrag.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis begründet keine zusätzliche private Zahlungspflicht allein mit Richtlinie und Vorrang.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die vorgegebene Grenze unionsrechtskonformer Auslegung wird respektiert statt durch freie Neufassung des nationalen Gesetzes umgangen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Eine mögliche Staatshaftungsprüfung wird getrennt und mit weiteren Voraussetzungen dargestellt, nicht als automatisch feststehender Anspruch gegen den privaten Beklagten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "europarecht-richtlinie-umsetzung-simulation"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "krankenhausrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/khg/__8.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 1: Fördervoraussetzungen, bei Investitionen nach Paragraf 9 Absatz 1 Nummer 1 zusätzlich Investitionsprogramm; Planfeststellung und Förderung nicht gleichsetzen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der institutionsbezogene Einstieg ist brauchbar. Die Förderroute brauchte einen Status- und Finanzierungsabgleich; sachfremde pauschale Aufbewahrungsanker wurden entfernt.",
+    "changes": [
+      "Planaufnahme, Investitionsprogramm, Förderbescheid und Auszahlung getrennt.",
+      "Finanzierungslücke aus belegten Mitteln statt Förderhoffnungen rechnen.",
+      "Keine einheitliche Förderquote oder Verwendungsnachweisfrist unterstellen."
+    ],
+    "sha256": "b92c55565e934b78a0e38a8b74e111ad0feac10aed08475df6a365ae75c65fbb"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe, ob der geplante Klinikneubau tatsächlich finanziert ist.",
+      "Gleiche Krankenhausplan, Förderprogramm und Investitionsbescheid für einen Standort ab."
+    ],
+    "negative": [
+      "Berechne das Schmerzensgeld einer einzelnen Patientin nach einem Behandlungsfehler.",
+      "Prüfe ausschließlich die PKV-Erstattung einer privaten Arztrechnung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "planaufnahme-ohne-baufoerderung",
+      "request": "Erstelle ergebnis.md als Finanzierungsvorprüfung für einen Klinikträger. Der Standort ist in den Krankenhausplan aufgenommen. Geplant ist ein Neubau, dessen Einordnung als Investition nach Paragraf 9 Absatz 1 Nummer 1 KHG für die Aufgabe feststeht. Die Gesamtprojektkosten betragen 12 Millionen Euro. Eine Aufnahme in das Investitionsprogramm und ein Förderbescheid liegen noch nicht vor. Die Geschäftsführung erwartet 8 Millionen Euro Förderung aus einem unverbindlichen Gespräch. Zwei Millionen Euro Eigenmittel und zwei Millionen Euro Bankmittel sind verbindlich zugesagt. Weitere Mittel sind nicht belegt. Die Geschäftsführung möchte wissen, ob sie die 8 Millionen Euro bereits als gesichert ausweisen darf. Prüfe keine landesspezifische Förderquote und löse keine Bestellung aus.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Planaufnahme wird nicht als Bewilligung der erwarteten 8 Millionen Euro behandelt; fehlendes Investitionsprogramm und fehlender Förderbescheid bleiben entscheidende Nachweise.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Rechnung weist 4 Millionen Euro belegte Finanzierung und 8 Millionen Euro offene Finanzierung aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Ausgabe unterscheidet unverbindliche Erwartung von gesicherten Mitteln und erfindet weder eine landesrechtliche Förderquote noch eine bereits erteilte Bau- oder Bestellfreigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "investitionsfoerderung-einzelfoerderung"
+    }
+  ]
+}

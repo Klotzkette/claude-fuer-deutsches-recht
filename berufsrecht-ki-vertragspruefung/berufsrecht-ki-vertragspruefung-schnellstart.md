@@ -1,45 +1,39 @@
-# 1. Berufsrechtliche Anbieterprüfung: Schnellstart
+# 1 KI-Vertrag gegen den Mandatsdatenweg prüfen
 
-Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Berufsträger und Pflichtenkreis und Pflichtenprüfung routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Lies zuerst den vorgelegten Vertrag, Leistungsbeschreibung, Datenschutzvereinbarung, Unterauftragnehmerliste und beschriebene Konfiguration. Bearbeite die konkrete Anbieterfrage mit den vorhandenen Dateien; frage nur nach einem Datenweg oder einer Vertragsfassung, ohne die keine belastbare Entscheidung möglich ist. Liefere die verlangten Vertragsänderungen oder den Einsatzvermerk direkt. Eine bloße Informationssammlung ist kein fertiges Beschaffungsprodukt.
 
-Prüfe den konkreten Vertrag gegen den tatsächlichen Datenweg. Lies Leistungsbeschreibung, Vertragsfassung, Unterauftragnehmerliste und technische Einstellungen zuerst. Ergebnis: verwendbare Vertragsänderung, Anbieterfrage oder begründete Einsatzentscheidung. Stand: 10. September 2026.
+## 1.1 Tatsächliche Nutzung und Berufsrolle
 
-## 1. Auftrag, Rolle und Geheimnisse
+Welche berufliche Tätigkeit und welcher Datenkreis sind betroffen? Trenne anwaltliche, notarielle und steuerberatende Tätigkeit auch innerhalb derselben Kanzlei. Zeichne den Weg von Eingabe und Upload über Modellverarbeitung, Suchindex und Protokolle bis zu Support, Export und Löschung nach. Ordne jedem Schritt Zweck, Beteiligten, Zugriffsort und Aufbewahrung zu. Unterscheide dokumentierte Eigenschaft, verbindliche Zusage, einstellbare Option und offene Frage.
 
-Welche berufliche Tätigkeit, welcher Datenkreis und welcher Zugriff sind betroffen? Anwaltliche, notarielle oder steuerberatende Tätigkeit nicht nur nach dem Namen der Kanzlei zuordnen. Für Anwälte insbesondere Paragrafen 43a und 43e BRAO, für Notare Paragrafen 18 und 26a BNotO prüfen. Paragraf 203 StGB und Datenschutz laufen daneben.
+Für anwaltliche Dienstleister ist [Paragraf 43e BRAO](https://www.gesetze-im-internet.de/brao/__43e.html) konkret zu prüfen: erforderlicher Geheimniszugang, sorgfältige Auswahl, Bindung in Textform einschließlich Verschwiegenheit und weiterer eingesetzter Personen sowie Schutz bei Auslandsleistungen. Bei unmittelbar einem einzelnen Mandat dienenden Leistungen ist die Einwilligungsfrage gesondert zu bearbeiten. Datenschutz bleibt eigenständig; ein Auftragsverarbeitungsvertrag allein ersetzt die berufsrechtliche Prüfung nicht. Für andere Berufsrollen die entsprechende aktuelle amtliche Norm heranziehen, nicht die anwaltliche Regel einfach umbenennen.
 
-Erforderlichkeit, sorgfältige Auswahl, vertragliche Verpflichtung, Unterauftragnehmer, Auslandszugriff und gegebenenfalls einzelfallbezogene Zustimmung getrennt bewerten. Ein Auftragsverarbeitungsvertrag allein erfüllt nicht alle Berufspflichten.
+## 1.2 No-Training ist keine vollständige Zweckbindung
 
-## 2. Technische Zusage gegen Vertragsrecht
+Lege die Verkaufszusage neben den Wortlaut zu Produktverbesserung, Qualitätsprüfung, Missbrauchserkennung, Fehleranalyse und Nutzungsstatistik. Prüfe, ob Inputs, Outputs, Anhänge, Metadaten und daraus abgeleitete Daten jeweils erfasst sind. Eine Aussage zum Modelltraining beantwortet nicht automatisch, ob Menschen Mandatsinhalte für Support oder Qualitätsdatenbanken lesen dürfen.
 
-Trenne laufende Inferenz, Protokollierung, Supportzugriff, Suchindex, Feinabstimmung und Anbietertraining. Jede Zweckänderung, Aufbewahrung und Übermittlung muss konkret gedeckt sein. Eine EU-Speicherregion schließt Fernzugriff nicht aus. Löschung, Export, Vorfallinformation und Änderungen der Lieferkette verbindlich regeln.
+Entwirf eine enge Zweckklausel für den tatsächlich beauftragten Dienst. Schließe allgemeine Trainings- und Verbesserungsnutzung von Mandatsinhalten ausdrücklich aus, soweit dies der geprüfte Einsatz verlangt. Benenne zulässige technische Betriebsdaten konkret und trenne sie von inhaltstragenden Protokollen. Vermeide eine pauschale Löschzusage, die notwendige Sicherheitsprotokolle unmöglich macht; begrenze Inhalt, Zweck, Dauer und Zugriff stattdessen nachvollziehbar. Pseudonymisierung oder entfernte Namen belegen noch keine fehlende Zuordenbarkeit.
 
-Ein breites Recht zur Produktverbesserung kann einer behaupteten No-Training-Zusage widersprechen. Schreibe die kollidierenden Klauseln nebeneinander und entwerfe eine engere, praktisch erfüllbare Fassung.
+## 1.3 Zugriff, Lieferkette und Ende regeln
 
-## 3. Geänderter Systemrahmen
+Eine EU-Speicherregion beantwortet nicht den Standort eines Supportzugriffs. Ermittle, welche Personen wann produktive Inhalte einsehen dürfen, wie ein Zugriff freigegeben und protokolliert wird und ob eine begrenzte Fehlerprobe genügt. Trenne reguläre Supportwege von dokumentierten Notfallzugriffen. Formuliere erforderliche Ausnahmen eng, nicht als unbegrenztes Recht zur Einsichtnahme.
 
-Verordnung (EU) 2026/1744 gilt seit 27. Juli 2026. Artikel 4 verlangt kontextgerechte Kompetenzförderung ohne Garantie eines bestimmten individuellen Niveaus; Verantwortung für das anwaltliche Endprodukt entfällt nicht.
+Prüfe Vertragspartner und Unterauftragnehmer bis zum tatsächlichen Modell- und Protokollbetrieb. Regelungsbedarf: weitergereichte Geheimhaltung, Mitteilung von Änderungen, Reaktionsmöglichkeiten bei nicht tragfähigem Wechsel sowie Nachweis der Umsetzung. Ordne Speicherfristen je Datenart zu, einschließlich Suchindex, Sicherungskopie und Supportticket. Beschreibe Exportformat, produktive Löschung, Behandlung von Sicherungen und Löschbestätigung am Vertragsende. Verlange keine technisch unmögliche Sofortlöschung aller unveränderlichen Sicherungen ohne abgegrenzte Alternative.
 
-Artikel 4a erlaubt sensible Daten zur Bias-Korrektur nur nach passendem Absatz, strikter Notwendigkeit, fehlenden gleich wirksamen Alternativen, geschützten dokumentierten Zugriffen, keiner Weitergabe und frühester Löschung. Ein Anbieter darf daraus kein pauschales Trainingsrecht an Mandatsakten ableiten. Diese Norm ist keine Deepfake-Regel.
+## 1.4 Vertragsfassung und Entscheidung liefern
 
-Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 gelten nach Artikel 113 für Anhang III ab 2. Dezember 2027, für Anhang I ab 2. August 2028. Artikel 111 zum Bestand und Artikel 25 zum Rollenwechsel gesondert prüfen. Vertragliche Mitwirkung jetzt regeln, ohne bereits fällige Pflichten aus falschen Terminen abzuleiten.
+Für jeden wesentlichen Befund liefere Ausgangsklausel oder genaue Fundstelle, konkreten Datenweg, Risiko und eine vollständige Ersatzklausel. Kennzeichne eine noch abzustimmende Frist als solche, statt sie als Anbieterzusage auszugeben. Unterscheide zwingende Einsatzgrenze, verhandelbare Risikoverteilung und Komfortwunsch. Stoppe nur die nicht tragfähig abgesicherte Nutzung; arbeite beispielsweise mit nicht vertraulichen Testdaten weiter, soweit der Auftrag das erlaubt.
 
-## 4. Veröffentlichung und Aufsicht
+## 1.5 Rechtsstand in Anbieterpflichten übersetzen
 
-Artikel 50 gilt grundsätzlich seit 2. August 2026: technischer Anbieterweg nach Absatz 2 und Betreiberhinweis nach Absatz 4 sind verschieden. Artikel 111 Absatz 4 verlängert nur Absatz 2 für Altanbieter bis 2. Dezember 2026. Redaktionelle Prüfung ist keine allgemeine Befreiung jedes Deepfakes. Neue Inhaltsverbote stehen in Artikel 5 Buchstaben ba und bb ab 2. Dezember 2026.
+Stand 14. September 2026: [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de) ist geltendes Änderungsrecht, kein bloßer Vorschlag. Fordere für Artikel 4 einsatzbezogene Einweisung und Unterstützungsunterlagen statt einer Garantie individueller Kompetenz. Artikel 4a betrifft sensible Daten zur Verzerrungskorrektur, nicht Deepfakes: Absatz und Akteursrolle, Unerlässlichkeit, fehlende gleich wirksame Alternativen, Zweckbeschränkung, Sicherheit, dokumentierte Zugriffe, Weitergabeverbot, früheste Löschung und Verzeichnisbegründung prüfen; Absatz 2 enthält zusätzliche Gefahren- beziehungsweise Diskriminierungsvoraussetzungen.
 
-KI-MIG: Bundesnetzagentur als Auffangbehörde mit Ausnahmen nach Paragraf 2. Berufsaufsicht, Datenschutzaufsicht und EU-Sonderaufsicht bleiben eigenständig. Informationsrechte einer Behörde begründen nicht automatisch freien Zugriff für den Dienstleister.
+Vertragsvorschlag: „Eine Nutzung von Mandatsdaten zur Verzerrungskorrektur ist nicht von einer allgemeinen Verbesserungsklausel umfasst. Vor einem solchen Einsatz legt der Anbieter Rechtsgrundlage, Datenumfang, Alternativenprüfung, Schutzmaßnahmen und Löschzeitpunkt zur gesonderten Prüfung vor. Berufsgeheimnis und Datenschutz bleiben unberührt.“ Daraus keine Freigabe allein durch Zustimmung der Kanzlei ableiten.
 
-## 5. Datenschutz-Reform nicht vorwegnehmen
+Fristenklausel an den belegten Hochrisikopfad knüpfen: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 gilt für Artikel 6 Absatz 2/Anhang III ab 2. Dezember 2027, für Artikel 6 Absatz 1/Anhang I ab 2. August 2028. Produktsonderregime und Bestandsschutz gesondert prüfen. Formuliere: „Der Anbieter dokumentiert die einschlägige Einordnung und liefert erforderliche Nachweise vor dem jeweils maßgeblichen Einsatztermin; Änderungen meldet er unverzüglich.“ Keine pauschale Verschiebung aller Pflichten vereinbaren.
 
-COM(2025) 837, Verfahren 2025/0360(COD), ist noch Vorschlag. Keine allgemeine Erlaubnis zum Modelltraining und keine pauschale Anonymität pseudonymisierter Akten behaupten. Bei Datenpannen bleiben unverzügliche Meldung und möglichst 72 Stunden nach Artikel 33 maßgeblich, nicht vorgeschlagene 96 Stunden. Vertraulichkeits- und Berufsregeln sind nicht durch einen Omnibus aufgehoben.
+Nach [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/ki-mig/__2.html) ist die Bundesnetzagentur Auffangbehörde. Produktmarktüberwachung, direkte regulierte Finanztätigkeit, bestimmte Justiz- und Sicherheitsanwendungen, Landesstellen und Mediennutzung können andere Zuständigkeiten auslösen. Fordere eine begründete Zuständigkeitszuordnung und Unterstützung bei rechtmäßigen Aufsichtsanfragen; weder eine Ausschließlichkeitszusage zur Bundesnetzagentur noch freien Zugriff auf Mandatsakten akzeptieren.
 
-## 6. Ergebnis
+Die [lokale Rechtsstandkarte](../references/digitaler-omnibus-2026.md) ist optional; die Kernregeln stehen hier. Ein Datenschutz-Reformvorschlag ist keine zusätzliche Trainingsbefugnis. Urteile nur für ihren überprüften Streitgegenstand verwenden.
 
-Liefere vollständige Klauseln und einen kurzen Vermerk: belastbare Zusage, ungedeckter Datenweg, konkrete Nachforderung, zulässige Einstellung und Freigabegrenze. Nicht aus bloßer Unklarheit die gesamte Beschaffung blockieren; den nutzbaren Teil abgrenzen. Keine Dokumente an Dritte ohne Freigabe senden.
-
-[Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html), [Datenschutz-Reformverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29). Urteile nur für ihren tatsächlichen Streitgegenstand nutzen. Dezimale Gliederung, Times New Roman 11 pt.
-
-## 7. Freigabestopp ohne Bearbeitungsstillstand
-
-Stoppe die Freigabe des konkreten geheimnisträchtigen Datenwegs, wenn Zugriffsrechte oder Erforderlichkeit ungeklärt bleiben. Eine engere Vertragsklausel und nutzbare Konfiguration ausarbeiten; nicht reflexhaft die gesamte Anbieterprüfung abbrechen.
+Weitere Skills und Referenzen sind optional; sämtliche Kernfragen dieser Prüfung stehen hier. Ohne technischen Zugriff keine Konfiguration als getestet bezeichnen. Keine Mandatsdaten ohne Freigabe an Dritte senden. Endprodukt in vollständigen Sätzen mit dezimaler Gliederung; Exportstandard Times New Roman 11 pt.

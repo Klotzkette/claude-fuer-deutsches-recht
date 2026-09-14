@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "forderungsmanagement-klagewerkstatt",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__286.html",
+      "checked_on": "2026-09-14",
+      "supports": "Verbraucherhinweis für Dreißigtageverzug; Mahnung und Ausnahmen sind getrennt zu prüfen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Werkstatt verlangt eine belegte Klageentscheidung; das Mini vermischte Zahlungsanspruch und Schadensersatz und enthielt sachfremde beziehungsweise ungenaue VOB-Anker.",
+    "changes": [
+      "Verbraucherhinweis und einseitiges Rechnungsziel differenziert.",
+      "Forderungskonto mit Teilzahlungen und Zeitpunkt der Rechtsverfolgungskosten ergänzt.",
+      "Unpassende Miet- und VOB-Anker entfernt."
+    ],
+    "sha256": "8d0a06ab179a37d8200ef7568461a7f3265a0ff43de9b2108e83773aefe7437b"
+  },
+  "selection": {
+    "positive": [
+      "Erstelle aus Vertrag, Rechnung und Teilzahlung ein nachvollziehbares Forderungskonto für eine Zahlungsklage.",
+      "Prüfe vor Beauftragung die Belege für Verzug und erstattungsfähige Inkassokosten."
+    ],
+    "negative": [
+      "Berechne den Zugewinnausgleich nach einer Scheidung.",
+      "Gestalte einen Forderungskauf mit Delkredererisiko und Globalzession."
+    ]
+  },
+  "cases": [
+    {
+      "id": "verbraucherrechnung-ohne-verzugshinweis",
+      "request": "Erstelle ergebnis.md als interne Klageentscheidung. Ein Verbraucher kaufte und erhielt mangelfrei einen Schrank für 1000 Euro. Eine Fälligkeitsabrede fehlt. Rechnung und Ware gingen am 1. Juli 2026 zu. Nur auf der Rechnung steht erstmals zahlbar binnen 14 Tagen; ein Hinweis auf Verzug nach 30 Tagen fehlt. Der Käufer zahlte am 10. Juli 200 Euro ausdrücklich auf den Kaufpreis. Mahnungen, Leistungsverweigerungen oder weitere Vereinbarungen gab es nicht. Am 20. August beauftragte der Verkäufer erstmals eine Kanzlei und möchte 800 Euro Kaufpreis, Zinsen seit 16. Juli und sämtliche Anwaltskosten verlangen. Prüfe diese Positionen und schlage das nächste Dokument vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis weist 800 Euro offene Hauptforderung aus und zieht die zweckbestimmte Zahlung nicht nochmals von Nebenforderungen ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Es begründet aus dem bloß einseitigen Rechnungsziel keinen automatischen Kalenderverzug und berücksichtigt den fehlenden Verbraucherhinweis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Es lehnt eine unbegründete Zins- und Kostenfreigabe für bereits vor erstmaliger Mahnung entstandene Kosten ab und trennt dies von der fälligen Hauptforderung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "klagefreigabe-belegte-forderung"
+    }
+  ]
+}

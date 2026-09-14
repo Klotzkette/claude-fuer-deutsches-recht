@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "richter-amtsgericht-handelsregister",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__382.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 4: angemessene Frist bei unvollständiger Anmeldung oder behebbarem Hindernis; Eintragung und ablehnender Beschluss sind unterschiedliche Entscheidungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/GmbHG.pdf",
+      "checked_on": "2026-09-14",
+      "supports": "Paragraf 39 Absatz 2: Urkundennachweis der Geschäftsführerbestellung beziehungsweise Beendigung der Vertretungsbefugnis."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der alte Schnellstart sprach aus der Perspektive der Gesellschaft und Organhaftung statt des Registergerichts.",
+    "changes": [
+      "Eintragungstatsache, Anmeldung und Urkundennachweis getrennt.",
+      "Behebbare Nachweislücke mit konkreter Abhilfe und angemessener Frist ausgestaltet.",
+      "Eintragungsvollzug und Entwurfsstatus sauber unterschieden."
+    ],
+    "sha256": "196011a7504134aaff9def68f183f71bec5b05b959328882f57fcc77a022d317"
+  },
+  "selection": {
+    "positive": [
+      "Entwirf eine registergerichtliche Zwischenverfügung wegen fehlender Bestellungsurkunde.",
+      "Prüfe im Registerverfahren, ob nachgereichte Unterlagen das Eintragungshindernis beheben."
+    ],
+    "negative": [
+      "Entwirf als Käuferanwalt einen GmbH-Anteilskaufvertrag.",
+      "Berechne einen Organhaftungsanspruch gegen den Geschäftsführer."
+    ]
+  },
+  "cases": [
+    {
+      "id": "fehlende-bestellungsurkunde",
+      "request": "Erstelle ergebnis.md als Entwurf einer Zwischenverfügung des Registergerichts. In HRB 4123 beantragt die Linden GmbH formgerecht die Eintragung von Eva Kern als weiterer einzelvertretungsberechtigter Geschäftsführerin. Die Anmeldung enthält alle erforderlichen Erklärungen und verweist auf den wirksamen Bestellungsbeschluss vom 1. September 2026. Dieser Beschluss wurde versehentlich nicht beigefügt. Das Notariat bestätigt, dass die Urkunde vorhanden und innerhalb von sieben Tagen in registergeeigneter Form nachreichbar ist. Weitere Mängel sind nicht festgestellt. Heute ist der 14. September 2026; die angemessene Nachreichungsfrist soll zwei Wochen ab Bekanntgabe betragen. Keine tatsächliche Eintragung oder Versendung vornehmen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Bezeichnet den fehlenden Urkundennachweis und dessen registergeeignete Nachreichung konkret, statt die Bestellung als unwirksam oder nicht erfolgt zu behandeln.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Wählt wegen des behebbaren Mangels eine Zwischenverfügung mit zwei Wochen ab Bekanntgabe und behandelt dies nicht als starre gesetzliche Frist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Nimmt weder sofortige Zurückweisung noch fingierte Eintragung vor und hält den gerichtlichen Entwurf von tatsächlichem Vollzug getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "07-zwischenverfuegung-und-beschwerde"
+    }
+  ]
+}

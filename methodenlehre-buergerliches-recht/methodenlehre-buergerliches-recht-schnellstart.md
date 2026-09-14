@@ -1,77 +1,21 @@
-# Methodenlehre Bürgerliches Recht — Schnellstart
+# 1. Methodisch begründete Rechtsanwendung
 
-Wenn du das hier öffnest, willst du eine Klausur, Hausarbeit oder Fallfrage im Gutachtenstil lösen oder Methodik und Theorie dahinter sauber erarbeiten.
+Lies zuerst Fallfrage, Bearbeitervermerk, Vertragstext und vorgelegte Belege. Bestimme die begehrte Rechtsfolge und die entscheidende Unklarheit. Arbeite anwaltlich oder didaktisch nach Auftrag; mache aus einer Vertragsauslegung nicht automatisch eine vollständige Examensklausur. Rückfragen nur zu Lücken, die das nächste Ergebnis blockieren.
 
-Kernauftrag: Methodenlehre und Rechtsanwendung im deutschen bürgerlichen Recht aus Anwaltsperspektive: Anspruchsaufbau, Auslegung, Abwägung, Präzedenzarbeit, Rechtsfortbildung, Methodenwahl, EU-Methodik und methodenehrliche. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Auslegungsgegenstand unterscheiden
 
-## 1. Sofortstart nach Eingangslage
+Trenne Tatsachenfeststellung, Auslegung einer Erklärung, Auslegung eines Gesetzes und rechtliche Bewertung. Ein unklarer tatsächlicher Ablauf wird nicht durch teleologische Auslegung bewiesen. Eine missliebige, aber klare Vertragsregel ist nicht ohne Weiteres eine planwidrige Lücke.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegte Aufgabenbeschreibung, Datengrundlage, Quellen und Berechnungen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Fallfrage, Aufbau, Subsumtion wählen; ohne konkreten Auftrag mit Fallfrage beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Für Erklärungen und Verträge sind [Paragraf 133 BGB](https://www.gesetze-im-internet.de/bgb/__133.html) und [Paragraf 157 BGB](https://www.gesetze-im-internet.de/bgb/__157.html) die geprüften Ausgangspunkte. Untersuche Wortlaut, erkennbare Parteivorstellungen, Verhandlungsgeschichte, Vertragszusammenhang und belegte Verkehrssitte. Ein bloß innerer Wunsch einer Partei ist nicht mit einer gemeinsamen Verständigung gleichzusetzen. Verwende keine behauptete Branchenübung ohne Beleg.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Fallfrage, Aufbau, Subsumtion und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Argumente statt Methodenetiketten
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei Gesetzesauslegung lege offen, was Wortlaut, Systematik, verifizierte Entstehungsmaterialien und Zweck jeweils für die konkrete Variante beitragen. Nicht alle Methoden müssen gleich viel Text erhalten. Historische Absichten nicht aus Modellwissen erfinden; bei fehlendem Material die Grenze benennen. Kennzeichne, wenn das gewünschte Ergebnis eine Rechtsfortbildung statt bloßer Auslegung voraussetzt.
 
-## 2. Fachlicher Direktstart
+Bei Vertragsauslegung formuliere die konkurrierenden Lesarten mit ihren tatsächlichen Anknüpfungspunkten. Prüfe vor einer Ergänzung, ob dispositives Recht eine Antwort gibt und ob eine echte Regelungslücke vorliegt. Bei einer unklaren Leistungszeit kann [Paragraf 271 BGB](https://www.gesetze-im-internet.de/bgb/__271.html) relevant sein; eine bestimmte Zeit nicht als fehlende Vereinbarung behandeln. AGB-Unklarheitenregeln nur nach gesonderter Prüfung des Klauselcharakters heranziehen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Was ist die exakte Fallfrage und welche Rechtsfolge wird begehrt.
-2. Kernprüfung in einem Durchgang: Welche Anspruchsgrundlagen kommen in welcher Reihenfolge in Betracht; Welches Merkmal ist problematisch und trägt den Schwerpunkt.
-3. Belege und Engpass zusammenführen: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe; besonders kritisch ist: Abgabefrist oder Bearbeitungszeit ist fast erschöpft; erst Gerüst, dann Feinschliff.
-4. Erstes Arbeitsprodukt liefern: Gutachtensatz: Obersatz, Definition, Subsumtion mit Sachverhaltszitat, Zwischenergebnis.
+## 1.3. Ergebnis und Belastbarkeit
 
-## 3. Kernroute
+Liefere ein ausformuliertes Gutachten oder den verlangten Methodenvermerk. Jeder tragende Schluss verbindet Maßstab, konkrete Textstelle, Tatsachenbeleg und Ergebnis. Stelle den stärksten Gegenentwurf dar und erkläre, welches Argument ihn überwiegt oder welche Tatsachenaufklärung fehlt. Prüfe, ob ein Hilfsergebnis nötig ist, statt Unsicherheit mit einer bloßen Risikoampel zu verdecken.
 
-1. Fallfrage: Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen.
-2. Aufbau: Anspruchsgrundlagen in sinnvoller Reihenfolge, Hilfsgutachten und Schwerpunktsetzung anlegen.
-3. Subsumtion: Obersatz, Definition, Subsumtion, Ergebnis je Merkmal in ganzen Sätzen durchführen.
-4. Streitstand: Meinungen mit Argumenten darstellen, entscheiden und nur entscheidungserheblich vertiefen.
-5. Arbeitsprodukt: Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren.
-
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 133 und Paragraf 157; GG Artikel 20 Absatz 3; ZPO Paragraf 286 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen |
-| Beweislast | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe |
-| Rechtsfolge | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Fallfrage | Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufbau | Anspruchsgrundlagen in sinnvoller Reihenfolge, Hilfsgutachten und Schwerpunktsetzung anlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Subsumtion | Obersatz, Definition, Subsumtion, Ergebnis je Merkmal in ganzen Sätzen durchführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Streitstand | Meinungen mit Argumenten darstellen, entscheiden und nur entscheidungserheblich vertiefen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BGB Paragraf 133 und Paragraf 157: Auslegung als methodisches Grundwerkzeug.
-- GG Artikel 20 Absatz 3: Bindung an Gesetz und Recht als Rahmen der Rechtsanwendung.
-- ZPO Paragraf 286: freie Beweiswürdigung als Maßstab tatsächlicher Feststellungen in der Falllösung.
-- DRiG Paragraf 5 ff.: Ausbildungs- und Prüfungsrahmen der Juristenausbildung.
-- Paragraf 125 BGB — Nichtigkeit wegen Formmangels; Grundregel für formunwirksame Rechtsgeschäfte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 311b Abs. 1 BGB — Formpflicht und Heilung bei Grundstücksverträgen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 195, 199 BGB — Regelverjährung und Beginn der Verjährungsfrist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 23, 71 GVG — Sachliche Zuständigkeit nach Streitwert; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erstes belastbares Ergebnis: Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren.
-7.2. Maßstab: BGB Paragraf 133 und Paragraf 157; GG Artikel 20 Absatz 3 mit der entscheidenden Bewertungsfrage verbinden.
-7.3. Materialfund: Für „Fallfrage“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Anspruchsgrundlagen kommen in welcher Reihenfolge in Betracht.
-7.6. Erwiderung: Gegenbeleg, Alternativhypothese oder Bewertungsmaßstab nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Gutachtensatz“. Frist, Kernlücke und nächster Prüfstufe benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Abgabefrist oder Bearbeitungszeit ist fast erschöpft; erst Gerüst, dann Feinschliff. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Optional vertieft `meth-auslegung-vertrag-leitfaden` Vertragsfragen; die vorstehenden Regeln genügen ohne Skillzugriff. Seine pauschalen Aussagen zu Kaufleuten oder bevorzugter Vertragsergänzung nicht ungeprüft übernehmen. Weitere Normen und Rechtsprechung amtlich prüfen; keine Literaturfundstelle erfinden. Ohne Export den fertigen Text ausgeben. Exportstandard: Times New Roman, 11 pt, dezimale Gliederung.

@@ -1,0 +1,46 @@
+{
+ "schema_version":1,"plugin":"zwangsvollstreckung","reviewed_on":"2026-09-14",
+ "sources":[{"url":"https://www.gesetze-im-internet.de/zpo/__796.html","checked_on":"2026-09-14","supports":"Absatz 1: Klausel beim Vollstreckungsbescheid nur bei abweichender Gläubiger- oder Schuldnerperson."},{"url":"https://www.gesetze-im-internet.de/zpo/__750.html","checked_on":"2026-09-14","supports":"Absätze 1 und 2 erlauben Zustellung vor oder gleichzeitig mit Vollstreckungsbeginn; besondere Zweiwochenfrist in Absatz 3 für Sicherungsvollstreckung nach Paragraf 720a."},{"url":"https://www.gesetze-im-internet.de/zpo/__798.html","checked_on":"2026-09-14","supports":"Amtlich indexierter Normtext geprüft: Zweiwochenfrist für nicht auf das Urteil gesetzte Kostenfestsetzungsbeschlüsse, Beschlüsse nach Paragraf 794 Absatz 1 Nummer 4b und notarielle Urkunden nach Nummer 5."},{"url":"https://www.gesetze-im-internet.de/zpo/__708.html","checked_on":"2026-09-14","supports":"Nummer 2: Versäumnisurteile sind ohne Sicherheitsleistung für vorläufig vollstreckbar zu erklären."},{"url":"https://www.gesetze-im-internet.de/zpo/__726.html","checked_on":"2026-09-14","supports":"Gläubigersicherheit ist vom Bedingungsnachweis für die Klausel ausgenommen; Sonderregel für Zug-um-Zug-Leistungen in Absatz 2."},{"url":"https://www.gesetze-im-internet.de/zpo/__751.html","checked_on":"2026-09-14","supports":"Absatz 2: Nachweis erforderlicher Gläubigersicherheit durch öffentliche oder öffentlich beglaubigte Urkunde und Zustellung ihrer Abschrift."}],
+ "mini_review":{"verdict":"revised","reason":"Titelroute brauchbar, aber Stopregel verlangte pauschal eine Klausel. Der Teilskill enthält zudem pauschale Wartefristen; Mini prüft diese nun titelbezogen.","changes":["Klauselausnahme bei identischen Parteien","Forderungsbrücke mit Teilzahlungen","Formularstand nach Antragstag und keine pauschale Wartefrist"],"sha256":"56412e32ca2f6cba96ff6564fe5f1209e28ae9077c887f8f715757d48c6dbe85"},
+ "selection":{"positive":["Prüfe die Vollstreckungsreife meines zugestellten Vollstreckungsbescheids.","Erstelle eine Forderungsaufstellung unter Abzug aller Teilzahlungen für den Gerichtsvollzieher."],"negative":["Erstelle erstmals eine Klage ohne vorhandenen Titel.","Übernimm die laufende Bewirtschaftung eines zwangsverwalteten Mietshauses."]},
+ "cases":[{"id":"vollstreckungsbescheid-ohne-klausel","request":"Erstelle ergebnis.md als Titelcheck mit Forderungsaufstellung. Vollstreckungsbescheid über 5000 Euro Hauptforderung und 120 Euro festgesetzte Kosten, keine Zinsen tituliert. Ausfertigung und Zustellnachweis vom 1. August 2026 liegen vollständig vor. Gläubiger und Schuldner sind unverändert die im Bescheid bezeichneten Personen. Keine Vollstreckungsklausel aufgedruckt. Am 1. September wurden 1000 Euro gezahlt; beide Seiten haben schriftlich die Tilgung der Hauptforderung vereinbart. Keine weiteren Kosten, keine Einstellung, kein Insolvenzverfahren bekannt. Heute ist der 14. September. Die Sachbearbeitung möchte wegen fehlender Klausel stoppen und ansonsten 5120 Euro beantragen. Prüfe beides, keine Vollstreckung auslösen.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Erkennt nach Paragraf 796 Absatz 1 die Entbehrlichkeit einer Klausel bei diesen identischen Parteien und stoppt nicht allein deswegen.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Berechnet 4000 Euro restliche Hauptforderung plus 120 Euro Kosten, insgesamt 4120 Euro; erfindet keine Zinsen oder neuen Gebühren.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Dokumentiert Zustellung und Tilgungsvereinbarung als Belege und liefert einen vorbereitenden Vollstreckungsstand statt eine bereits erfolgte Maßnahme zu behaupten.","deliverables":["ergebnis.md"]}],"target_skill":"titel-klausel-zustellung"},
+{
+  "id": "versaumnisurteil-und-notarurkunde-getrennte-wartefristen",
+  "request": "Erstelle ergebnis.md als vergleichenden Vollstreckungsreifevermerk für zwei getrennte Forderungen am 14. September 2026. Vorgang A: Versäumnisurteil über fällige 9000 Euro, ausdrücklich ohne Sicherheitsleistung vorläufig vollstreckbar; vollstreckbare Ausfertigung mit einfacher Klausel vorhanden, Titel am 10. September ordnungsgemäß zugestellt. Vorgang B: notarielle Urkunde über fällige 12000 Euro mit persönlicher Unterwerfung nach Paragraf 794 Absatz 1 Nummer 5 ZPO; vollstreckbare Ausfertigung und erforderliche Klausel vorhanden, Titel ebenfalls am 10. September zugestellt. Parteien jeweils unverändert, keine Zahlungen, Bedingungen, Einstellungen oder Insolvenzverfahren. Keine Sicherungsvollstreckung nach Paragraf 720a ZPO geplant. Eine Sachbearbeiterin fordert für beide Vorgänge Sicherheit und zwei Wochen Warten nach Paragraf 750 Absatz 2. Prüfe den Start am 14. September getrennt und bereite nur den Vermerk vor.",
+  "input_files": [],
+  "deliverables": [
+    "ergebnis.md"
+  ],
+  "criteria": [
+    {
+      "id": "C01",
+      "text": "Behandelt Vorgang A bei den belegten Voraussetzungen als am 14. September vollstreckungsreif; verlangt für das Versäumnisurteil weder eine nicht angeordnete Sicherheit noch eine allgemeine Zweiwochenfrist.",
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "Sperrt den Beginn in Vorgang B am 14. September wegen der besonderen Zweiwochenfrist nach Paragraf 798 ZPO für die notarielle Urkunde, nicht wegen Paragraf 750 Absatz 2.",
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "Unterscheidet Zustellungserfordernisse nach Paragraf 750 Absätzen 1 und 2 von besonderen Wartefristen; die Korrektur beseitigt nicht pauschal jede Wartefrist.",
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    },
+    {
+      "id": "C04",
+      "text": "Dokumentiert die getrennten Titel, Klauseln und Zustellungsdaten und löst keine Vollstreckungsmaßnahme aus; aus dem fehlenden Sicherheitsbedarf folgt keine Entbehrlichkeit der übrigen Titelvoraussetzungen.",
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    }
+  ],
+  "target_skill": "titel-klausel-zustellung"
+}]
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-versicherungsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__172.html",
+      "checked_on": "2026-09-14",
+      "supports": "Zuletzt gesund ausgeübter Beruf und Möglichkeit vertraglicher Verweisungsregeln; Normtext geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__28.html",
+      "checked_on": "2026-09-14",
+      "supports": "Differenzierte Rechtsfolgen und Beweislast bei vertraglichen Obliegenheiten; insbesondere fehlende grobe Fahrlässigkeit und Kausalitätsgegenbeweis."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-7-19&Gericht=bgh&anz=22&nr=79199&pos=7",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 19.07.2017, Az. IV ZR 535/15: amtlich indexierten Leitsatz zur untrennbaren Teilhandlung eines Gesamtvorgangs geprüft. Direkter Volltextabruf gescheitert, keine Randnummern verwendet."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der bisherige Mini verwendete Maklerhaftungsentscheidungen als allgemeine Deckungsanker und wies dem Versicherer pauschal alle Voraussetzungen einer Kürzung zu. Eine unbestimmte Frist zur Deckungsablehnung diente als Stoppsignal.",
+    "changes": [
+      "Bedingungsfassung und konkrete Sparte vorangestellt.",
+      "Beweislast bei Obliegenheiten differenziert und pauschale Klagefrist nach Ablehnung vermieden.",
+      "BU-Tätigkeiten und Funktionsbefunde mit der konkreten Police verbunden; Freigabe statt Fristenabbruch vorgesehen."
+    ],
+    "sha256": "db335c178868421633a6132d8fc5309e99292c8beeb907d0d7412b7769433ff8"
+  },
+  "selection": {
+    "positive": [
+      "Der Versicherer zählt nur die ausgefallenen Arbeitsstunden. Prüfen Sie, ob ein nicht mehr möglicher Aufbau den gesamten Arbeitsvorgang prägt.",
+      "Ordnen Sie meine letzte gesunde Berufsbeschreibung den Funktionsbefunden zu und berechnen Sie die rückständige BU-Rente."
+    ],
+    "negative": [
+      "Beantragen Sie eine gesetzliche Erwerbsminderungsrente wegen meiner Diagnosen.",
+      "Der Versicherer stellt eine anerkannte BU-Rente nach einer Nachprüfung ein; prüfen Sie nur die Einstellungsmitteilung."
+    ],
+    "target_skill": "bu-praegende-taetigkeiten-befundabgleich"
+  },
+  "cases": [
+    {
+      "id": "alleinkoch-warentransport-gesamtvorgang",
+      "request": "Wir vertreten einen angestellten Alleinkoch eines kleinen Betriebsrestaurants in der privaten BU-Erstleistungsprüfung. Seine letzte gesunde 40-Stunden-Woche bestand laut Arbeitsvertrag, Kalender und Arbeitgeberbestätigung aus acht Stunden Einkauf und Transport schwerer Lebensmittelgebinde, 16 Stunden Vorbereitung, acht Stunden Kochen und Ausgabe sowie acht Stunden Planung und Abrechnung. Die Waren müssen aus dem externen Lager über eine Treppe in die Küche gebracht werden; der Arbeitgeber bestätigt, dass kein anderer Mitarbeiter hierfür verfügbar und keine technische Transporthilfe vorhanden ist. Seit dem 12.02.2026 darf der Versicherte laut kardiologischem Befund keine Lasten über fünf Kilogramm tragen. Sitzen, leichte Vorbereitung und administrative Arbeit sind möglich. Der Befund prognostiziert am 20.02.2026 eine mindestens zwölfmonatige Einschränkung, äußert sich aber nicht zur organisatorischen Ausführbarkeit des gesamten Berufs. Die Police verlangt mindestens hälftige Berufsunfähigkeit für voraussichtlich sechs Monate, verzichtet auf abstrakte Verweisung und gewährt bei Nachweis Rente ab dem ersten Tag des Folgemonats des Eintritts; keine Karenz, keine Dynamik. Monatliche Rente 2000 EUR. Der Versicherte arbeitet nicht in einem anderen Beruf. Der Versicherer lehnt am 01.09.2026 ab, weil nur acht von 40 Stunden entfallen. Er erhebt keine weiteren Einwände. Für März bis einschließlich August wurde nichts gezahlt. Erstellen Sie zum Stand 14.09.2026 ein Beweismemo und eine Erwiderung einschließlich einer nur für diese sechs Monate bedingt zu beziffernden Rentenforderung. Beitragsbefreiung und Zinsen sind nicht beauftragt; nichts versenden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Stunden werden widerspruchsfrei zu 40 summiert und der reine Zeitanteil von 20 Prozent als Kontrollwert ausgewiesen, aber nicht allein als Ablehnungsgrund übernommen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die mögliche Abhängigkeit von Vorbereitung, Kochen und Ausgabe vom Warentransport wird konkret untersucht; zugleich wird aus dem Transportverbot nicht automatisch vollständige BU abgeleitet und der zusätzliche funktionell-organisatorische Beweisbedarf benannt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bei unterstelltem Nachweis des BU-Eintritts werden März bis August mit sechs mal 2000 EUR gleich 12000 EUR berechnet; weder Februar noch Zukunftsmonate werden einbezogen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Der Verweisungsverzicht wird aus der gegebenen Police hergeleitet und nicht als gesetzlich allgemeines Verbot abstrakter Verweisung dargestellt; Diagnose und Arbeitsunfähigkeit werden nicht mit BU gleichgesetzt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "bu-praegende-taetigkeiten-befundabgleich"
+    }
+  ]
+}

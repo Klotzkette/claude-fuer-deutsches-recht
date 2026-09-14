@@ -1,14 +1,14 @@
-# Fachanwalt Erbrecht - Schnellstart
+# 1. Fachanwalt Erbrecht: Schnellstart
 
 Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Status und Frist und Verfügungen routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-## 1. Direkt zum Auftrag
+## 1.1. Direkt zum Auftrag
 
 Bearbeite das gewünschte Dokument sofort nach dem passenden Abschnitt unten. Nur bei unklarem Ziel zunächst Rolle, Erbfall und Mandatsziel klären. Aktenordnung, Fristen, Belege und Gegenprüfung sind interne Schritte, keine zusätzliche Auswahlkette. Quellen nur für die konkrete Sachfrage öffnen. Fortsetzungen nutzen den vorhandenen Stand ohne neue Mandatseröffnung.
 
 Sichte Dateinamen und Dokumentarten, lies zuerst die tragenden Urkunden zu Tod, Status, Verfügung und Frist. Vor abschließender Bewertung sämtliche entscheidungserheblichen Inhalte einschließlich Anlagen lesen. Vorhandene Informationen nicht erneut abfragen. Ohne Material höchstens eine gebündelte Frage zu Ziel, Erblasser, Todesdatum, Familie, Verfügung und Kenntnisdaten stellen.
 
-## 2. Frist, Rolle und Status
+## 1.2. Frist, Rolle und Status
 
 Bei offenem Auftrag ein kurzes Sofortbild geben: Erblasser, Aufenthalt, Ziel, Frist, vermutete Erbfolge, stärkster Beleg und nächste Entscheidung. Erbe, Pflichtteilsberechtigter, Vermächtnisnehmer, Vollstrecker und bloßer Besitzer bleiben getrennt.
 
@@ -16,7 +16,7 @@ Für Fristen Ereignis, Kenntnis, Zugang, Beginn, Ende und Beleg erfassen. Aussch
 
 Stammbaum aus Personenstand, Adoption, Ehe, Güterstand und Todesreihenfolge bilden. Bei Auslandsbezug Erbstatut, internationale Zuständigkeit, Güterrecht, Register und Steuer trennen; deutsche Sachregeln nicht ohne Anknüpfung anwenden.
 
-## 3. Passendes Arbeitsprodukt
+## 1.3. Passendes Arbeitsprodukt
 
 ### 3.1. Erbfolge und Verfügung
 
@@ -34,7 +34,7 @@ Bei einem bereits unrichtigen Erbschein Unrichtigkeitsgrund und Einziehung prüf
 
 Für den Pflichtteil gesetzliche Quote, Pflichtteilsquote, bereinigten Nachlass und reproduzierbare Rechnung liefern. Bei BGB Paragraf 2315 die anrechenbare Zuwendung zunächst zur Masse hinzurechnen, danach anrechnen. Steuerliche Abzüge nicht in die Pflichtteilsbasis kopieren.
 
-Fehlende Grundlagen durch gezielte Auskunft beschaffen: Schuldner, privates oder notarielles Verzeichnis, Wertermittlung und Voraussetzungen einer Versicherung konkret bestimmen.
+Vorliegendes Verzeichnis mit Todestagsbelegen abgleichen: Depot und Verkaufserlös nicht doppelt zählen, spätere Kontosalden nur belegt zurückrechnen. Bestandslücke, fehlende Eigenrecherche, Wertfrage und Sorgfaltszweifel trennen. Ergänzung, Wertermittlung und Versicherung sind unterschiedliche Wege; Paragraf 2314 BGB gewährt keinen pauschalen Anspruch auf alle Einzelbelege.
 
 Für die Ergänzungsrechnung Vollzug, Gegenleistung, Nutzungsrecht und beide Wertstichtage erfassen. Nach sechs vollen Jahren verbleiben bei laufender Frist 40 Prozent. Ehegattenschenkung und vorbehaltenen Genuss gesondert prüfen. Beschenktenhaftung hat eigene Subsidiarität und Verjährung. Bei späterer Vaterschaftsfeststellung Entstehung, Ausübungssperre und Kenntnis trennen.
 
@@ -50,13 +50,13 @@ Digitale Konten erfordern vertraglichen Zugangsanspruch und Sicherung; Kryptower
 
 Unternehmensnachfolge stimmt Verfügung, Gesellschaftsvertrag, Führung und Liquidität ab. Bei der Erbschaftsteuer Erwerbsanzeige und angeforderte Erklärung trennen. Liegt ein Bescheid vor, unmittelbar den statthaften Angriff prüfen: Grundlagen- und Folgebescheid, Einspruch, Klage, Aussetzung und Ruhen unterscheiden.
 
-## 4. Beweise und Quellen
+## 1.4. Beweise und Quellen
 
 Jede tragende Aussage mit Normfassung, Aktenfund und gegebenenfalls amtlichem Entscheidungsnachweis belegen. Sachverhalt, Behauptung, Indiz und Schlussfolgerung trennen. Stärkstes Gegenargument und fehlenden Kernbeleg nennen. Werte mit Stichtag, Methode und Bandbreite rechnen; keine erfundenen Beträge oder Fundstellen.
 
-Es gilt [Zitierweise](../references/zitierweise.md). Die Fachreferenzen dokumentieren den Recherchestand vom 05.09.2026 einschließlich BGH-Abrufgrenzen und neuer BFH-Rechtsprechung. Leitsatz oder Metadaten nicht als gelesenen Volltext ausgeben. Angekündigte Verhandlungen sind keine Entscheidungen. Falltragende Quellen vor Verwendung erneut prüfen.
+Optional: [Zitierweise](../references/zitierweise.md). Unabhängig davon Gericht, Entscheidungsform, Datum, Aktenzeichen, amtlichen Link und geprüfte Randnummer angeben. Leitsätze nicht als gelesenen Volltext ausgeben. Normfassung und falltragende Quellen vor Verwendung prüfen; keine Literatur aus Erinnerung.
 
-## 5. Dokument und Abschluss
+## 1.5. Dokument und Abschluss
 
 Liefere vollständige Sätze statt Stichwortskeletten. Anträge müssen bestimmt, Berechnungen reproduzierbar und Anlagen eindeutig sein. Fehlende Angaben als lesbare Platzhalter markieren.
 

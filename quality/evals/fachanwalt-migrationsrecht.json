@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-migrationsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__2.html",
+      "checked_on": "2026-09-14",
+      "supports": "Lebensunterhalt einschließlich Krankenversicherung, privilegierte öffentliche Leistungen und Beiträge der Familienangehörigen zum Haushaltseinkommen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__5.html",
+      "checked_on": "2026-09-14",
+      "supports": "Lebensunterhalt als Regelerteilungsvoraussetzung statt ausnahmsloser Automatismus."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__29.html",
+      "checked_on": "2026-09-14",
+      "supports": "Titelabhängige Nachzugsvoraussetzungen und Privilegierungen sind vor einer Standardbedarfsrechnung zu prüfen."
+    },
+    {
+      "url": "https://www.bverwg.de/161110U1C20.09.0",
+      "checked_on": "2026-09-14",
+      "supports": "BVerwG, Urteil vom 16.11.2010, Az. 1 C 20.09, Leitsätze 1 und 3 sowie Randnummern 22 bis 29: Familienbedarf, Ausnahmeprüfung und unionsrechtliche Korrektur der Freibetragsrechnung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der alte Schnellstart enthielt eine pauschale Monatsfrist für ausländerbehördliche Klagen und stellte bei dringendem Vollzug die Arbeit ein; Haushaltsprognose und titelabhängige Anforderungsweiche fehlten.",
+    "changes": [
+      "Bescheidart, Zugang, Hauptsache, Eilverfahren und tatsächlichen Vollzug getrennt.",
+      "Fiktionswirkung und Erwerbsberechtigung als zu belegende Fragen statt Statusetikett behandelt.",
+      "Familiennachzug mit Privilegierungsprüfung und nachhaltiger Monatsrechnung individualisiert.",
+      "Eigenständige Quellenprüfung ohne obligatorische Werkstattverweisung formuliert."
+    ],
+    "sha256": "30eba2563f694aed27167a8ebaa7a0ddfcdaf49fd92b435fe950f00402e3faa6"
+  },
+  "selection": {
+    "positive": [
+      "Die Botschaft zieht bei unserem Ehegattennachzug pauschale Erwerbstätigenfreibeträge ab; erstellen Sie die belegte Haushaltsgegenrechnung.",
+      "Mein Schichtzuschlag endet vor dem Nachzug meiner Frau; prüfen Sie die nachhaltige Deckung anhand Vertrag, Miete und Versicherungsnachweis."
+    ],
+    "negative": [
+      "Bereiten Sie ausschließlich die Anhörung zu politischer Verfolgung vor.",
+      "Prüfen Sie die Einbürgerung nur hinsichtlich einer strafgerichtlichen Verurteilung."
+    ],
+    "target_skill": "familiennachzug-haushaltsprognose-belegabgleich"
+  },
+  "cases": [
+    {
+      "id": "ehegattennachzug-auslaufende-schichtzulage",
+      "request": "Erstellen Sie ergebnis.md als Gegenrechnung und Nachreichungsentwurf für einen türkischen Arbeitnehmer mit Niederlassungserlaubnis nach Paragraf 9 AufenthG. Er beantragt das Visum zum Ehegattennachzug seiner Frau; beide sind 34 Jahre alt, kinderlos, keine weiteren Unterhaltsberechtigten. Einreise ist für Oktober 2026 vorgesehen. Familienzusammenführungsrichtlinie und reguläre Lebensunterhaltsprüfung sind anwendbar; kein Schutzstatus, kein Unionsbürgerbezug und keine sonstige Privilegierung. Ehe, Sprachkenntnisse und ausreichender Wohnraum sind unstreitig nachgewiesen. Die Behörde verlangt am 01.09.2026 binnen vier Wochen Finanznachweise, ein Ablehnungsbescheid liegt nicht vor. Ihr Bedarfsblatt enthält als für diesen Auftrag unstreitige monatliche Rechenwerte 1.012 EUR für beide Erwachsenen und 780 EUR Unterkunft einschließlich Heizung. Der Mann verdient unbefristet 1.950 EUR netto. Zusätzlich erhielt er April bis September jeweils 300 EUR netto Schichtzulage; laut unterschriebenem Arbeitgebernachtrag fällt diese ab Oktober dauerhaft weg. Tatsächliche notwendige Erwerbsaufwendungen betragen nach Belegen 60 EUR monatlich. Die Behörde zieht stattdessen 100 EUR pauschale Erwerbsaufwendungen und zusätzlich 250 EUR Erwerbstätigenfreibetrag ab. Familienversicherung der nicht erwerbstätigen Ehefrau ist von der Krankenkasse ab Einreise schriftlich ohne Zusatzbeitrag bestätigt. Die Frau hat lediglich ein unverbindliches Gespräch über einen möglichen Minijob geführt, weder Vertrag noch Zusage. Weitere Einnahmen oder Bedarfe gibt es nicht. Beurteilen Sie die vorliegende Rechnung und Prognose; die vorgegebenen Bedarfswerte sind Fallannahmen, keine von Ihnen zu bestätigende allgemeine Jahrestabelle. Versenden Sie nichts.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Grundlohnvariante ab Oktober verwendet 1.950 EUR abzüglich 60 EUR tatsächlicher Aufwendungen und vergleicht 1.890 EUR mit 1.792 EUR Haushaltsbedarf; der nachvollziehbare Überschuss beträgt 98 EUR.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die auslaufenden 300 EUR werden nicht als nachhaltiges künftiges Einkommen angesetzt, und aus dem unverbindlichen Minijobgespräch wird kein verfügbarer Verdienst konstruiert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Gegenrechnung erklärt fallbezogen, weshalb der zusätzliche Erwerbstätigenfreibetrag nicht zulasten der Familie übernommen wird, geringere tatsächliche Aufwendungen zu prüfen sind und kein zweiter Versicherungsbetrag anfällt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Der Entwurf behandelt die Behördennachforderung nicht als schon ergangene Visumablehnung, verwechselt ihre Antwortfrist nicht mit einer Klagefrist und bezeichnet die vorgegebenen Bedarfswerte als Fallannahmen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "familiennachzug-haushaltsprognose-belegabgleich"
+    }
+  ]
+}

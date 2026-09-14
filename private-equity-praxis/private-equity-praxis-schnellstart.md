@@ -1,76 +1,23 @@
-# Private Equity Praxis — Schnellstart
+# 1. Private Equity: Vertrag, Zahlenmodell und Vollzug verbinden
 
-Wenn du das hier öffnest, willst du eine Transaktion vom Term Sheet bis zum Vollzug nach Struktur, Due Diligence, Garantien, Vollzugsbedingungen und Zeitplan ordnen.
+Arbeite aus Auftrag und vorhandenen Fonds-, Finanzierungs- oder Transaktionsunterlagen. Bestimme Sponsor, Fonds, Erwerbsvehikel, Zielgesellschaft, Management und Kreditgeber getrennt. Lies die für die konkrete Entscheidung maßgebliche Vertragsfassung samt Anlagen zuerst. Ein Fondsgründungsauftrag braucht keine allgemeine Unternehmenskaufprüfung; ein Kaufpreisabgleich keine abstrakte Fondsregulierung. Rückfragen nur bei einer blockierenden Lücke, sonst unmittelbar den verlangten Vermerk oder Klauselentwurf liefern.
 
-Kernauftrag: Private-Equity-Praxis-Plugin für deutsche Kanzleien, Investoren, Fonds, Family Offices und Unternehmen: Fund Formation, KAGB/AIF, ELTIF, Deal Execution, Private Credit, Schuldschein, LMA, NPL, Portfolio, Exit. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Kaufpreislogik nachrechnen
 
-## 1. Sofortstart nach Eingangslage
+Stelle fest, ob ein fester Kaufpreis auf historischem Abschluss mit Abflussschutz oder eine Anpassung anhand Vollzugszahlen vereinbart ist. Kombiniere diese Mechanismen nicht stillschweigend. Bei Vollzugsabrechnung Unternehmenswert, Finanzschulden, liquide Mittel und Betriebskapital anhand der Vertragsdefinitionen überleiten. Jede Position darf nur einmal wirken; Darlehen, Transaktionskosten und ausgeschüttete Mittel besonders auf Doppelzählung prüfen. Rechenweg, Vorzeichen, Währung und Stichtag offenlegen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Process Letter, Datenraumindex, Q&A, Due-Diligence-Berichte, Term Sheet, SPA oder Beteiligungsvertrag, Disclosure. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Struktur und Beteiligte, Due Diligence, Vertragsarchitektur wählen; ohne konkreten Auftrag mit Struktur und Beteiligte beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bei einer Locked Box die geschlossene Vermögensbasis am vereinbarten Stichtag bestimmen und jeden späteren Abfluss nach Empfänger, Betrag, Datum und Ausnahmeregel prüfen. Eine Zahlung an den Verkäufer ist nicht allein deshalb erlaubt, weil sie schon im Datenraum erwähnt wurde. Erlaubte Abflüsse müssen zur vereinbarten Kategorie, Höhe und gegebenenfalls zum Zeitraum passen. Bei gedeckelten Ausnahmen nur den tatsächlich gedeckten Teil ausnehmen. Nicht jede gewöhnliche Betriebsausgabe ist ein verbotener Abfluss.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Struktur und Beteiligte, Due Diligence, Vertragsarchitektur und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Risiko in einen Mechanismus übersetzen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Ordne einen Due-Diligence-Befund konkret zu: bereits im Preis berücksichtigt, offenes Garantieversprechen, bekannte Einzelfreistellung, Vollzugsbedingung oder Nachvollzugspflicht. Definiere bei einer Freistellung Auslöser, erfassten Schaden, Verfahren, Anspruchsfrist und Verhältnis zu Haftungsgrenzen. Eine Überschrift wie „Steuerrisiko abgesichert“ reicht nicht. Offenlegung und Kenntnisqualifikation gegen den Garantieumfang lesen; keine pauschale gesetzliche Beweislast aus der vertraglichen Risikozuweisung ableiten.
 
-## 2. Fachlicher Direktstart
+Bei Managementbeteiligung Einzahlung, wirtschaftliche Quote, Erlösrang und Ausscheidensfolgen auseinanderhalten. Ein Prozentsatz am Kapital ist nicht zwingend derselbe Anteil am Verkaufserlös. Bei Verteilung des Erlöses Vorrangbeträge und verbleibenden Topf schrittweise berechnen, ohne unbekannte Renditeformeln zu ergänzen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Struktur minimiert Haftung, Steuerlast und Vollzugsrisiken für die Mandantenseite.
-2. Kernprüfung in einem Durchgang: Welche DD-Befunde tragen eine Garantie, welche eine Freistellung, welche einen Preisabschlag; Welche Vollzugsbedingungen sind zwingend und wer trägt das Freigaberisiko.
-3. Belege und Engpass zusammenführen: Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen; besonders kritisch ist: Exklusivität, Angebotsfrist oder Vollzugsdatum läuft in unter zwei Wochen ab.
-4. Erstes Arbeitsprodukt liefern: Garantiekatalog-Zeile: Thema, Garantietext, Wissensqualifikation, Haftungsgrenze, Verjährung.
+## 1.3. Finanzierung und Fondsrolle
 
-## 3. Kernroute
+Finanzierungszusage, Auszahlungsvoraussetzungen und tatsächliche Valutierung getrennt nachweisen. Die Zahlungsübersicht zum Vollzug muss Herkunft, Empfänger und Verwendungszweck jedes Betrags abbilden; keine Zahlung als erfolgt markieren, nur weil sie im Plan steht. Bei Fondsauflegung oder Vertrieb Anlegerkreis, Anlagepolitik, Verwaltung und Vertriebsstaat feststellen und den einschlägigen Aufsichtsrahmen erst danach amtlich prüfen. Keine regulatorische Freigabe aus einer gesellschaftsrechtlich wirksamen Gründung ableiten.
 
-1. Struktur und Beteiligte: Share oder Asset Deal, Erwerbsvehikel, Kapitalstruktur und Gremienvorbehalte feststellen.
-2. Due Diligence: Befunde nach Deal-Breaker, Garantiethema, Freistellungsthema und Kaufpreisfaktor ordnen.
-3. Vertragsarchitektur: Kaufgegenstand, Kaufpreisformel, Garantien, Freistellungen, Covenants und Haftungsgrenzen anlegen.
-4. Vollzug: Bedingungen, Freigaben, Finanzierungssicherheit und Closing-Mechanik mit Zeitplan sichern.
-5. Arbeitsprodukt: Term Sheet, SPA-Klauseln, DD-Report-Kapitel, Gremienvorlage oder Wandeldarlehensvertrag ausformulieren.
+## 1.4. Entscheidungsreifes Ergebnis
 
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 433 und Paragraf 453; GmbHG Paragraf 15; BGB Paragraf 311 Absatz 2 und Paragraf 280 |
-| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 21.04.1997 - II ZR 175/95 |
-| Tatbestand | Share oder Asset Deal, Erwerbsvehikel, Kapitalstruktur und Gremienvorbehalte feststellen |
-| Beweislast | Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen; der Bearbeiter führt DD-Fund, Q&A, Disclosure, Freigabe, Zahlung und Registervollzug lückenlos auf den Vertragsmechanismus zurück |
-| Rechtsfolge | Term Sheet, Bid Grid, Due-Diligence-Bericht, SPA- oder Beteiligungsklausel, Gremienvorlage, Signing- und Closing-Set oder Post-Closing-Plan |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Struktur und Beteiligte | Share oder Asset Deal, Erwerbsvehikel, Kapitalstruktur und Gremienvorbehalte feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Due Diligence | Befunde nach Deal-Breaker, Garantiethema, Freistellungsthema und Kaufpreisfaktor ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertragsarchitektur | Kaufgegenstand, Kaufpreisformel, Garantien, Freistellungen, Covenants und Haftungsgrenzen anlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-
-## 6. Anker
-
-- BGB Paragraf 433 und Paragraf 453: Kauf von Rechten und sonstigen Gegenständen als Grundlage des Share Deal.
-- GmbHG Paragraf 15: Form der Abtretung von Geschäftsanteilen.
-- BGB Paragraf 311 Absatz 2 und Paragraf 280: vorvertragliche Pflichten und Haftung im Verhandlungsstadium.
-- AktG Paragraf 93 und GmbHG Paragraf 43: Organpflichten bei Transaktionsentscheidungen.
-- BGB, HGB, Paragraf 613a BGB, UmwG, Datenschutz, IP, Steuern; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragraf 613a, BetrVG, KSchG, AGG, Mitbestimmung, Datenschutz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 280, 286, 315, 320; Paragraf 138 BGB Sittenwidrigkeit; Paragraf 307 BGB AGB-Kontrolle; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 29.01.2001 - II ZR 331/00: Die Außen-GbR ist rechts- und parteifähig, soweit sie durch Teilnahme am Rechtsverkehr eigene Rechte und Pflichten begründet; für heutige Fälle ist die gesetzliche Neuregelung durch das MoPeG mitzulesen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Term Sheet, Bid Grid, Due-Diligence-Bericht, SPA- oder Beteiligungsklausel, Gremienvorlage, Signing- und Closing-Set oder Post-Closing-Plan.
-7.2. Regelungsanker: BGB Paragraf 433 und Paragraf 453; GmbHG Paragraf 15 mit Risikozuweisung und Vollzug verbinden.
-7.3. Aktenfund: Für „Struktur und Beteiligte“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Datenraumlücken, unklarer Risikozuweisung, Kaufpreismechanik, Wissensqualifikation, Haftungsgrenzen und unerfüllten Vollzugsbedingungen.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Garantiekatalog-Zeile“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Exklusivität, Angebotsfrist oder Vollzugsdatum läuft in unter zwei Wochen ab. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere den beauftragten Abgleich, vollständige Vertragsklausel oder Gremienvorlage mit konkreter wirtschaftlicher Folge. Zahlen aus dem Nutzertext sind Vertragsannahmen, keine gesetzlichen Regeln. Rechtliche Anker und Entscheidungen nur nach amtlicher Verifikation verwenden; fremde Formularwerke nicht ohne bereitgestellten Text nachbilden. Offene Definitionen und fehlende Nachweise einzeln kennzeichnen, übrige Arbeit fortsetzen. Kein automatischer Vollzug, Versand oder Zahlungsauftrag. Dezimale Gliederung, Export in Times New Roman 11 pt. Weitere Spezialskills sind ausschließlich optional; die Zahlen- und Risikoprüfung steht vollständig in diesem Mini.

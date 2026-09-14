@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "gesellschaftsrecht-legal-english",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__16.html",
+      "checked_on": "2026-09-14",
+      "supports": "Listenbezogene Legitimation im Verhältnis zur Gesellschaft, nicht durch wirtschaftliche Szenariotabelle."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__40.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gesellschafterliste mit konkreten Anteilen und Nennbeträgen nach wirksamer Veränderung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der vorhandene Cap-Table-Skill unterscheidet wirtschaftliches Szenario und Liste, das bisherige Mini enthielt fast ausschließlich allgemeine Gesellschaftsrechtsprüfung.",
+    "changes": [
+      "Eigenständigen Übersetzungs- und Erklärungsablauf ausgearbeitet.",
+      "Bedeutungserhalt bei Modalverben und Rechtsordnungen verankert.",
+      "Fully-diluted-Nenner und virtuelle Ansprüche von echten Anteilen getrennt."
+    ],
+    "sha256": "a1343ca8d942bba0ea8a65987bf9b555f1ffccb5ba74d84ba6863ac497bc1bd5"
+  },
+  "selection": {
+    "positive": [
+      "Erkläre einem englischsprachigen Investor den Unterschied zwischen Cap Table und Gesellschafterliste.",
+      "Prüfe, ob unsere englische Klausel aus einem deutschen Wahlrecht eine Pflicht macht."
+    ],
+    "negative": [
+      "Melde eine neue UG beim Register an.",
+      "Berechne ausschließlich eine Pflichtteilsquote."
+    ]
+  },
+  "cases": [
+    {
+      "id": "virtueller-pool-keine-registeranteile",
+      "request": "Erstelle ergebnis.md mit einer kurzen englischen Erklärung an einen Investor und einer deutschen Rechenkontrolle. Eine GmbH hat 25000 Euro Stammkapital: Gründerin A hält 15000 Euro und B 10000 Euro, unverändert wirksam und so gelistet. Ein ausschließlich schuldrechtlicher virtueller Mitarbeiterpool soll wirtschaftlich 10 Prozent eines auf 100 Einheiten normierten Exit-Szenarios erhalten; die übrigen 90 Einheiten werden zwischen A und B im Verhältnis ihrer bestehenden Anteile verteilt. Es gibt keine Kapitalerhöhung, Optionen auf echte Anteile oder Abtretung. Ein Mitarbeiter möchte nun als Shareholder mit 10 Prozent in die Gesellschafterliste aufgenommen werden. Erkläre Zahlen und Dokumentunterschiede.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die tatsächlichen Anteile bleiben 60 und 40 Prozent bei A und B; der virtuelle Pool wird nicht als Registeranteil dargestellt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das wirtschaftliche Szenario wird mit 54 Einheiten für A, 36 für B und 10 für den Pool transparent berechnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die englische Erklärung unterscheidet contractual virtual entitlement von tatsächlicher Mitgliedschaft und leitet keine Listenänderung aus dem Szenario ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "cap-table-client-explainer"
+    }
+  ]
+}

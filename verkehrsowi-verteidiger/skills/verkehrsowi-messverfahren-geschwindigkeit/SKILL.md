@@ -19,7 +19,7 @@ description: "Für Geschwindigkeitsmessung OWi-Verfahren: ordnet Norm, Beweislas
 2. **Toleranzabzug korrekt?** — PTB-Tabelle: Geschw. bis 100 km/h: 3 km/h Abzug; ab 100 km/h: 3% Abzug. Im Bescheid korrekt angewendet?
 3. **Eichschein vorhanden und gueltig?** — Eichschein aus der Messakte anfordern; Eichgueltigkeit prüfen (Ablaufdatum); § 6 MessEG.
 4. **Messprotokoll und Schulungsnachweis?** — Bedienungsanleitung beachtet? Beamter für dieses Geraet geschult?
-5. **Rohmessdaten vorhanden und herausgegeben?** — Nach BVerfG hat Betroffener Recht auf Zugang zu Rohmessdaten; Verweigerung verletzt rechtliches Gehoer.
+5. Messinformationen: Welche konkret bezeichneten, sachlich und zeitlich mit der Messung zusammenhängenden Informationen sind vorhanden und für die Verteidigung potenziell relevant? Vorhandene, verweigerte Unterlagen von technisch nie gespeicherten Daten trennen; Antrag, Ablehnungsgrund und bisherigen Rechtsschutz dokumentieren. Fehlende Daten begründen nicht automatisch ein Verwertungsverbot.
 
 ## Zentrale Normen
 
@@ -28,14 +28,14 @@ description: "Für Geschwindigkeitsmessung OWi-Verfahren: ordnet Norm, Beweislas
 - **§ 6 MessEG** — Eichpflicht für Messgeraete im Verkehr
 - **§ 244 Abs. 2 StPO i.V.m. § 77 OWiG** — Amtsaufklaerungspflicht
 - **§ 46 OWiG i.V.m. § 244 StPO** — Beweisantragsrecht im OWi-Verfahren
-- **Art. 103 Abs. 1 GG** — Rechtliches Gehoer (Rohmessdaten-Recht)
+- Artikel 2 Absatz 1 in Verbindung mit Artikel 20 Absatz 3 GG: faires Verfahren als Grundlage des Zugangs zu vorhandenen, verteidigungsrelevanten Informationen außerhalb der Akte.
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
 Verifizierte Aktenzeichen mit offener Quelle (vor Versand Volltext aufrufen):
 
-- **BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18** — Recht des Betroffenen auf Zugang zu den nicht-zum-Aktenbestand gehörenden Messunterlagen (Rohmessdaten, Lebensakte etc.) als Ausfluss des fairen Verfahrens. Quelle: bundesverfassungsgericht.de
-- **BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20** — Keine Pflicht zur Speicherung von Rohmessdaten bei standardisiertem Messverfahren (Leivtec XV3); Recht auf erweiterten Zugang besteht aber im Einzelfall. Quelle: bundesverfassungsgericht.de
+- [BVerfG, Beschluss vom 12.11.2020, 2 BvR 1616/18](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/11/rk20201112_2bvr161618.html): Zugang zu vorhandenen Informationen auch außerhalb der Akte im Rahmen eines konkret begründeten Verteidigungsinteresses; kein unbegrenzter Anspruch auf sämtliche Unterlagen und kein automatisches Verwertungsverbot.
+- [BVerfG, Beschluss vom 20.06.2023, 2 BvR 1167/20](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/06/rk20230620_2bvr116720.html): Nichtannahme wegen unzureichender Darlegung; eine staatliche Pflicht zur Vorhaltung oder Schaffung zusätzlicher Beweismittel war nicht substantiiert begründet. Nicht als Sachentscheidung über sämtliche Messgeräte verwenden. Nicht gespeicherte Daten und verweigerter Zugang zu vorhandenen Informationen sind unterschiedliche Prüfgegenstände.
 - BGH-Linie zum standardisierten Messverfahren: konkrete Aktenzeichen (Beschlüsse BGH 4. Strafsenat) vor Versand in bundesgerichtshof.de oder dejure.org verifizieren.
 
 Hinweis: Standardisiertes Messverfahren bringt Beweis-Erleichterung; konkrete Angriffspunkte (Eichung, Aufstellung, Mehrfachreflexion, Bedienfehler) müssen substantiiert vorgetragen werden.
@@ -67,7 +67,7 @@ SCHULUNG:
 ROHMESSDATEN:
 □ Rohmessdaten angefordert?
 □ Herausgegeben oder Weigerung begruendet?
-□ Bei Weigerung: BVerfG 2020 zitieren, Verwertungsverbot ruegen
+□ Bei Weigerung: vorhandene Information, Verteidigungsrelevanz und Ablehnung belegen; verfahrensgerechten Zugangsantrag und Rechtsschutz prüfen, kein automatisches Verwertungsverbot
 ```
 
 ## Toleranzabzuege nach PTB-Richtlinie
@@ -87,7 +87,7 @@ ROHMESSDATEN:
 3. **Eichgueltigkeit prüfen** — Eichablaufdatum vor Messzeitpunkt?
 4. **Messfoto analysieren** — eindeutige Fahrzeugzuordnung?
 5. **Sachverstaendigen-Antrag stellen** (§ 244 Abs. 4 StPO i.V.m. § 77 OWiG) wenn konkrete Angriffspunkte bestehen.
-6. **Verwertungsverbot ruegen** bei fehlenden Rohmessdaten (BVerfG 2020 zitieren).
+6. Zugangshindernis einordnen: Bei vorhandenen, verweigerten Informationen den konkreten Zugangsantrag und möglichen Rechtsschutz vorbereiten; bei nie gespeicherten Daten keine Herausgabe fingieren. Etwaige Verfahrensrüge und Rechtsfolge gesondert nach Verfahrensstand und dokumentiertem Verlauf prüfen. Anträge nur als Entwurf, nicht eigenmächtig einreichen.
 
 ## Output-Template Messakte-Anforderung
 
@@ -102,17 +102,17 @@ Ich fordere die vollstaendige Messakte einschliesslich:
 - Eichschein (original oder beglaubigte Kopie)
 - Bedienungsanleitung für [GERAET]
 - Schulungsnachweis des Messbeamten
-- Rohmessdaten des Falldatensatzes und gesamter Messreihe (BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18; Beschl. v. 20.6.2023, 2 BvR 1167/20 — Volltext und Randnummern aus bundesverfassungsgericht.de)
+- vorhandene Messinformationen [konkrete Daten/Unterlagen], deren zeitlicher und sachlicher Zusammenhang mit der Messung sowie potenzielle Verteidigungsrelevanz sich aus [Begründung] ergeben
 - Messfoto hochaufloesend
 
-Ohne vollstaendige Herausgabe wird Verwertungsverbot gerueget.
+Bitte teilen Sie bei Nichtherausgabe mit, ob die bezeichneten Informationen vorhanden sind und aus welchem Grund der Zugang abgelehnt wird. Eine etwaige weitere Antragstellung und verfahrensrechtliche Beanstandung bleibt nach Prüfung der Antwort vorbehalten.
 
 Mit freundlichen Gruessen [KANZLEI]
 ```
 
 ## Harte Leitplanken
 
-- Rohmessdaten-Anforderung ist Standard — niemals darauf verzichten.
+- Informationsbedarf konkret begründen; keine Beschaffung nicht existenter Daten versprechen und aus bloßem Fehlen kein Verwertungsverbot ableiten.
 - Sachverstaendigen-Antrag nur bei konkreten Angriffspunkten stellen (pauschal genuegt nicht).
 - Toleranzabzug immer selbst nachrechnen.
 - Anwaltliche Endkontrolle bei Sachverstaendigen-Auswahl und Beweisantraegen.

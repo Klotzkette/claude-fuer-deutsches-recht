@@ -1,71 +1,29 @@
-# bAV Strategie Konzern — Schnellstart
+# 1. Versorgungssysteme für eine Konzernentscheidung ordnen
 
-Wenn du das hier öffnest, willst du ein betriebliches Versorgungssystem rechtlich, bilanziell und kollektivrechtlich einordnen und eine umsetzbare Konzernentscheidung vorbereiten.
+Lies Nutzersachverhalt, Zusagen, Versorgungsordnungen, Betriebsvereinbarungen, Trägerverträge und Berechnungen zuerst. Liefere die gewünschte Systemmatrix, Harmonisierungsvorlage oder Anpassungsentscheidung. Keine pauschale Konzernlösung aus einem einzelnen Trägervertrag ableiten. Frage nur nach blockierenden Parametern; bestätigte Systeme bereits auswerten.
 
-Kernauftrag: Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fünf Durchführungswege CTA Pension Buyouts Drei-Stufen-Theorie Versorgungssystem-Harmonisierung internationale Benefits. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Anspruch, Finanzierung und Bilanz trennen
 
-## 1. Sofortstart nach Eingangslage
+Je Arbeitgeber und Personengruppe Rechtsgrundlage, Zusageart, Durchführungsweg, Finanzierung, Leistungsform und Stichtag erfassen. Direktzusage, Unterstützungskasse, Direktversicherung, Pensionskasse und Pensionsfonds nicht mit der jeweiligen Zusageart verwechseln. Ein externer Zahlungsweg beantwortet nicht allein die arbeitsrechtliche Haftung. Diese anhand der konkreten Zusage und aktuellen Normen gesondert prüfen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Bestand erfassen, Anspruch rechnen, Haftung und Deckung wählen; ohne konkreten Auftrag mit Bestand erfassen beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Rückdeckung, Treuhandvermögen, Insolvenzsicherung und bilanzielle Bewertung separat darstellen. Eine bilanzielle Entlastung bedeutet nicht automatisch eine befreiende Schuldübernahme. Bei internationalen Gruppen das Recht des jeweiligen Arbeits- und Versorgungssystems bestimmen; deutsche Regeln nicht auf sämtliche Begünstigte übertragen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Bestand erfassen, Anspruch rechnen, Haftung und Deckung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Laufende Leistungen anpassen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Prüfe [Paragraf 16 BetrAVG](https://www.gesetze-im-internet.de/betravg/__16.html) am konkreten System. Absatz 1 sieht grundsätzlich eine dreijährliche Prüfung nach billigem Ermessen unter Berücksichtigung der Rentnerbelange und Arbeitgeberlage vor. Absatz 2 nennt Verbraucherpreise und Nettolöhne vergleichbarer Arbeitnehmergruppen als unterschiedliche Vergleichswege. Ein-Prozent-Anpassung ist nicht die einzige Ausnahme: Absatz 3 enthält weitere Voraussetzungen, insbesondere für bestimmte versicherungsförmige Wege und Beitragszusagen mit Mindestleistung.
 
-## 2. Fachlicher Direktstart
+Erfasse Rentenbeginn, letzte Prüfung, Zusagetext, Finanzierung und tatsächliche Überschussverwendung, bevor eine Ausnahme bejaht wird. Entgeltumwandlung nach Absatz 5 zusätzlich unterscheiden. Keine pauschale automatische Bindung aller Systeme an den Verbraucherpreisindex behaupten. Berechnung, wirtschaftliche Bewertung und Beschlussentwurf getrennt ausweisen; fehlende Index- oder Finanzdaten nicht erfinden.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche arbeitsrechtliche Zusage schuldet welcher Arbeitgeber welchem Personenkreis.
-2. Kernprüfung in einem Durchgang: Welcher Durchführungsweg erfüllt die Zusage und wo verbleibt eine Einstandspflicht; Welche Anwartschaft oder laufende Leistung ist nach welchem Stichtag geschützt und wie ist sie berechnet.
-3. Belege und Engpass zusammenführen: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar; besonders kritisch ist: Zusagegrundlage, Begünstigtenkreis, Durchführungsweg oder anwendbarer Rechtsstand ist nicht sicher festgestellt.
-4. Erstes Arbeitsprodukt liefern: Systemmatrix: Zusage, Rechtsgrund, Personenkreis, Durchführungsweg, Finanzierung, Leistung, Anpassung, PSV, Bilanz und Änderungsrecht.
+## 1.3. Harmonisierung ohne Besitzstandsverlust zu verdecken
 
-## 3. Kernroute
+Vergleiche Alt- und Neuregelung nach konkreten Kohorten: aktive Beschäftigte, ausgeschiedene Berechtigte und Rentner. Bereits erdiente Positionen, künftige Dynamik und künftigen Erwerb getrennt erfassen. Das einschlägige Änderungsinstrument, tarifliche Bindungen, Mitbestimmung und gegebenenfalls gestufte Eingriffsrechtfertigung amtlich prüfen. Eine bloße Kostenersparnis nicht als universelle Änderungsbefugnis behandeln.
 
-1. Bestand erfassen: Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung je Versorgungssystem dokumentieren.
-2. Anspruch rechnen: Dienstzeit, Unverfallbarkeit, ratierliche Anwartschaft, Entgeltumwandlung, Arbeitgeberzuschuss, Leistungsfall und Rentenanpassung nachvollziehbar berechnen.
-3. Haftung und Deckung: arbeitsrechtliche Zusage, externer Versorgungsträger, Einstandspflicht, PSV-Schutz, Rückdeckung, CTA und Bilanzwirkung strikt trennen.
-4. Änderung und Harmonisierung: Alt- und Neusystem personenbezogen vergleichen, drei Stufen, Gleichbehandlung, Mitbestimmung, Tarifvorrang und Übergangsrecht prüfen.
-5. Transaktion und Konzern: Betriebsübergang, Umwandlung, Übertragung, Abfindungsverbot, internationale Schnittstellen, Daten und Verantwortlichkeiten ordnen.
+Zeige je Variante Leistungswirkung, Arbeitgeberkosten, Finanzierungsrisiko, rechtliche Hürden und Umsetzungsschritte. Rechenannahmen ausdrücklich von personenbezogenen Daten unterscheiden. Eine fehlende vollständige Versicherungsmathematik erlaubt eine belastbare qualitative Entscheidungsvorlage, aber keine erfundene Deckungsquote.
 
-## 4. Fallkarte
+## 1.4. Governance und Auslieferung
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BetrAVG Paragraf 1 und Paragraf 1a; BetrAVG Paragraf 1b und Paragraf 2; BetrAVG Paragraf 3 und Paragraf 4 |
-| Rechtsprechung | BAG, Urteil vom 19.06.2012 - 3 AZR 408/10; BAG, Urteil vom 14.07.2015 - 3 AZR 517/13 |
+Benenne je Entscheidung verpflichteten Arbeitgeber, zuständiges Organ, benötigte Daten von Personal und Finanzen, Beteiligung sowie Kommunikations- und Umsetzungstermin. Konzernweites Fachgremium nicht ohne Grundlage zum Rechtsnachfolger oder Schuldner erklären. Geplante Beschlüsse und bereits vollzogene Änderungen getrennt dokumentieren.
 
+Optional vertieft [Governance und Anpassung](skills/governance-und-anpassungsmechanismen/SKILL.md) den Prozess. Ohne diese Datei nach der System- und Kohortenmatrix oben arbeiten. Tragende Rechtsbehauptungen an amtlichen Normen und gegebenenfalls Entscheidungen prüfen; Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Fundstelle nennen. Bilanz- und Steuerannahmen nur mit geprüfter Grundlage übernehmen.
 
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Bestand erfassen | Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung je Versorgungssystem dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruch rechnen | Dienstzeit, Unverfallbarkeit, ratierliche Anwartschaft, Entgeltumwandlung, Arbeitgeberzuschuss, Leistungsfall und Rentenanpassung nachvollziehbar berechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Haftung und Deckung | Arbeitsrechtliche Zusage, externer Versorgungsträger, Einstandspflicht, PSV-Schutz, Rückdeckung, CTA und Bilanzwirkung strikt trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BetrAVG Paragraf 1 und Paragraf 1a: Versorgungszusage, Durchführungswege, Einstandspflicht und Entgeltumwandlung.
-- BetrAVG Paragraf 1b und Paragraf 2: gesetzliche Unverfallbarkeit und Höhe der unverfallbaren Anwartschaft.
-- BetrAVG Paragraf 3 und Paragraf 4: Abfindung und Übertragung von Anwartschaften oder Versorgungsverpflichtungen.
-- BetrAVG Paragraf 7 bis Paragraf 15: Insolvenzsicherung durch den Pensions-Sicherungs-Verein und gesetzlicher Forderungsübergang.
-- Paragraf 1b BetrAVG: Unverfallbarkeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 16 BetrAVG: Anpassungsprüfungspflicht alle drei Jahre (Trade-off: vermeidbar nur durch Festschreibungsklausel mit garantiertem 1 %-Pfad nach Paragraf 16 Abs. 3 Nr. 1 BetrAVG; sonst Bindung an Verbraucherpreisindex); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BAG, Urteil vom 19.06.2012 - 3 AZR 408/10: Kürzt eine Pensionskasse zugesagte Leistungen, muss der Arbeitgeber nach BetrAVG Paragraf 1 Absatz 1 Satz 3 grundsätzlich für die Differenz einstehen; die Einstandspflicht kann nicht zulasten des Arbeitnehmers abbedungen werden.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht.
-7.2. Regelungsanker: BetrAVG Paragraf 1 und Paragraf 1a; BetrAVG Paragraf 1b und Paragraf 2 mit Risikozuweisung und Vollzug verbinden.
-7.3. Aktenfund: Für „Bestand erfassen“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welcher Durchführungsweg erfüllt die Zusage und wo verbleibt eine Einstandspflicht.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Systemmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Zusagegrundlage, Begünstigtenkreis, Durchführungsweg oder anwendbarer Rechtsstand ist nicht sicher festgestellt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere vollständige Sätze, nachvollziehbare Zahlenwege und eine konkrete Entscheidungsvorlage. Dezimale Überschriften mit Leerzeilen, Times New Roman 11 pt beziehungsweise Exporthinweis. Ohne Export Text liefern, offene Systeme kennzeichnen. Keine Versorgungszusage ändern, Begünstigte anschreiben oder Gelder übertragen, sofern nicht gesondert beauftragt.

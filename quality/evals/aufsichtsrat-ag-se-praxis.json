@@ -1,0 +1,14 @@
+{
+  "schema_version": 1, "plugin": "aufsichtsrat-ag-se-praxis", "reviewed_on": "2026-09-14",
+  "sources": [
+    {"url": "https://www.gesetze-im-internet.de/aktg/__111.html", "checked_on": "2026-09-14", "supports": "Überwachung und Zustimmungsvorbehalte ohne Übertragung der Geschäftsführung."},
+    {"url": "https://www.gesetze-im-internet.de/aktg/__90.html", "checked_on": "2026-09-14", "supports": "Berichtsanlässe und Berichtsverlangen einzelner Mitglieder an den Aufsichtsrat."}
+  ],
+  "mini_review": {"sha256":"d01732972fcfbd2acf998176a0619a5522a76038690409401454f4aa976d7af9","verdict": "revised", "reason": "Vollständig gelesen und mit zustimmungsvorbehalte abgeglichen. Der Mini führte sachfremde GbR-, OHG- und GmbH-Grundnormen sowie Anteilsübertragung als Standardprodukt; der konkrete Aufsichtsratsauftrag blieb unterbelichtet.", "changes": ["Überwachung, Information und Zustimmung anhand AktG getrennt.", "Beschlussreife, interne Schwelle, Liquiditätswirkung und Konfliktbehandlung konkretisiert.", "Optionalen Spezialskill durch selbständigen Prüfweg ergänzt."]},
+  "selection": {"positive": ["Prüfen Sie die Beschlussreife einer Investitionszustimmung unseres AG-Aufsichtsrats.", "Formulieren Sie ein Informationsverlangen an den Vorstand zu Liquiditätsrisiken."], "negative": ["Beurkunden Sie die Übertragung eines GmbH-Geschäftsanteils.", "Erstellen Sie die Einladung zur Eigentümerversammlung einer WEG."]},
+  "cases": [{"id": "investition-ohne-finanzierungsplan", "request": "Erstellen Sie ergebnis.md als Votum und Beschlussentwurf für den Aufsichtsrat einer nicht börsennotierten dualistischen AG. Nach dem gültigen Zustimmungskatalog bedürfen Investitionen über 2 Millionen Euro der vorherigen Zustimmung des Plenums. Der Vorstand beantragt 3 Millionen Euro für eine neue Fertigungslinie. Der Kaufvertrag ist nicht unterschrieben. Die Vorlage enthält ein Angebot und eine Absatzprognose, aber keine Finanzierung oder Liquiditätsplanung. Ein Mitglied bittet um diese Daten; der Vorstand will sie erst nach Zustimmung liefern. Interessenkonflikte sind nicht bekannt. Die nächste Sitzung findet am 18.09.2026 statt. Bearbeiten Sie die Vorlage ohne eigene Geschäftszahlen zu erfinden.", "input_files": [], "deliverables": ["ergebnis.md"], "criteria": [
+    {"id": "C01", "text": "Wendet den mitgeteilten internen Schwellenwert auf die Investition an, ohne ihn als gesetzliche allgemeine Grenze auszugeben.", "deliverables": ["ergebnis.md"]},
+    {"id": "C02", "text": "Behandelt fehlende Finanzierungs- und Liquiditätsdaten als entscheidende Informationslücke und formuliert ein konkretes Berichtsverlangen vor der endgültigen Zustimmung.", "deliverables": ["ergebnis.md"]},
+    {"id": "C03", "text": "Liefert einen begründeten Vertagungs- oder gleichwertig abgesicherten Beschlussentwurf und überträgt dem Aufsichtsrat nicht die operative Geschäftsführung.", "deliverables": ["ergebnis.md"]}
+  ], "target_skill": "zustimmungsvorbehalte"}]
+}

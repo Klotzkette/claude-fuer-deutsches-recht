@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "nis2-cybersecurity-compliance",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bsig_2025/__32.html",
+      "checked_on": "2026-09-14",
+      "supports": "Meldekaskade und unterschiedliche zeitliche Anknüpfungen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der vollständige Mini und Meldestellenskill verwenden alte BSIG-Verweise; die Incident-Arbeit blieb abstrakt.",
+    "changes": [
+      "Kenntniszeitpunkt und aktuelle Meldekaskade konkretisiert.",
+      "Technische Erkenntnislücken von Meldepflicht und erfolgter Meldung getrennt."
+    ],
+    "sha256": "90e98c1aceb86ac9a07768252bc08a0be9247edb3c92d952af549c1f26779748"
+  },
+  "selection": {
+    "positive": [
+      "Erstellen Sie den Erstmeldeentwurf zu unserem erheblichen Sicherheitsvorfall.",
+      "Ordnen Sie Nachweise und Verantwortliche für unser NIS-2-Maßnahmenprogramm."
+    ],
+    "negative": [
+      "Prüfen Sie nur eine private Phishing-SMS ohne Unternehmensvorfall.",
+      "Erstellen Sie ausschließlich eine Datenschutzauskunft ohne Cybersicherheitsbezug."
+    ]
+  },
+  "cases": [
+    {
+      "id": "kenntnis-montagmorgen",
+      "request": "Erstellen Sie ergebnis.md als Fristenblatt und frühe Erstmeldung. Eine nach BSIG wichtige deutsche Einrichtung hat am 14.09.2026 um 08:00 Uhr Berliner Zeit nach dokumentierter interner Prüfung Kenntnis von einem erheblichen Sicherheitsvorfall. Meldeweg besteht; keine sektorale Sonderregel ist betroffen. Seit 06:30 Uhr ist ihr Kundendienstportal ausgefallen, 1200 Kunden sind betroffen. Um 09:00 Uhr werden betroffene Server isoliert. Ursache und Datenabfluss sind unbekannt. Bearbeitungsstand ist 10:00 Uhr desselben Tages. Es wurde noch keine Meldung versandt; die technische Behebung läuft.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Höchsttermine werden ab 08:00 Uhr Kenntnis auf 15.09.2026 08:00 Uhr und 17.09.2026 08:00 Uhr bezogen; unverzügliches Handeln bleibt maßgeblich.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unbekannte Ursache und Exfiltration werden nicht erfunden und blockieren den Erstmeldeentwurf nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Abschlussbericht wird nicht pauschal einen Monat ab Angriff terminiert; Entwurf und tatsächliche Meldung bleiben getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "bsi-meldestelle-formular"
+    }
+  ]
+}

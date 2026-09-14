@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 79 Skills des Plugins `fachanwalt-verwaltungsrecht`.
+Diese Vollprüfung enthält top-10 von 80 Skills des Plugins `fachanwalt-verwaltungsrecht`.
 
 ## Inhaltsverzeichnis
 

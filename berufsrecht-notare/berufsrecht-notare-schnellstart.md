@@ -1,77 +1,25 @@
-# Berufsrecht Notare — Schnellstart
+# 1 Notarielle Amtspflicht am Vorgang prüfen
 
-Wenn du das hier öffnest, willst du eine berufsrechtliche Frage der Anwaltschaft, des Notariats oder der prüfenden Berufe nach Pflicht, Aufsicht, Sanktion und sicherem Arbeitsprodukt ordnen.
+Beginne mit dem konkreten Beurkundungs-, Vollzugs-, Verwahrungs- oder Aufsichtsvorgang. Lies Nutzerangaben, Urkundenentwurf, Beteiligtenkorrespondenz und einschlägige Anweisung zuerst. Liefere den gewünschten Amtsvermerk, die Beteiligtenantwort oder Stellungnahme. Eine fehlende Nebenunterlage hindert nicht die Bearbeitung des gesicherten Teils; frage nur nach einer Lücke, die die vorgesehene Amtshandlung tatsächlich unvertretbar macht.
 
-Kernauftrag: Plugin für Notarrecht: BNotO, BeurkG, DONot, Dienstaufsicht, Urkundspflichten, Neutralität, Verwahrung, Amtspflichten, Vertreter/Verwalter, Disziplinarverfahren und notarielle Berufspraxis. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Beteiligte statt einseitiger Mandatsrolle
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Beteiligte, Vertretungsverhältnisse, wirtschaftliche Interessen und die Rolle des Notars. Unterscheide amtliche Tätigkeit von anwaltlicher Vorberatung oder privatem Interesse. Nach [Paragraf 14 BNotO](https://www.gesetze-im-internet.de/bnoto/__14.html) betreut der Notar die Beteiligten unabhängig und unparteiisch. Prüfe deshalb nicht nur, ob eine Partei zufriedengestellt wird, sondern ob Informationszugang, Belehrung und Verfahrensgestaltung ausgewogen sind. Erkennbar unerlaubte oder unredliche Zwecke dürfen nicht durch eine neutrale Formulierung verdeckt werden.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Berufsträger und Pflichtenkreis, Pflichtenprüfung, Aufsichts- und Verfahrenslage wählen; ohne konkreten Auftrag mit Berufsträger und Pflichtenkreis beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 1.2 Vorbefassung konkret auflösen
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Berufsträger und Pflichtenkreis, Pflichtenprüfung, Aufsichts- und Verfahrenslage und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Für [Paragraf 3 BeurkG](https://www.gesetze-im-internet.de/beurkg/__3.html) ordne eigene Interessen, Näheverhältnisse, berufliche Verbindungen und frühere Tätigkeit der jeweiligen Fallgruppe zu. Bei Vorberatung prüfe dieselbe Angelegenheit, außerhalb des Amtes tätige Person und damaligen Auftraggeberkreis. Eine Tätigkeit im Auftrag aller später Beteiligten ist etwas anderes als einseitige anwaltliche Beratung. Ein späteres allgemeines Einverständnis ersetzt nicht die Prüfung des einschlägigen Mitwirkungsverbots.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Halte fest, was vor der Beurkundung zur Vorbefassung gefragt und beantwortet wurde und welcher Vermerk erforderlich ist. Trenne Mitwirkungsverbot, Hinweispflicht und Rechtsfolge eines bereits geschehenen Fehlers. Behaupte nicht ohne weitere Prüfung, jede Pflichtverletzung mache die Urkunde unwirksam. Bei noch geplantem Termin liefere eine begründete Entscheidung zur eigenen Mitwirkung und eine sachliche Nachricht an alle betroffenen Beteiligten.
 
-## 2. Fachlicher Direktstart
+## 1.3 Belehrung und Vollzug belegen
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Berufsgesetz und welche Satzungsnorm tragen den Vorwurf oder die Gestaltung.
-2. Kernprüfung in einem Durchgang: Ist die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor; Welche Kollisionsprüfung ist dokumentiert und wer hat wann geprüft.
-3. Belege und Engpass zusammenführen: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren; besonders kritisch ist: Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchung steht im Raum.
-4. Erstes Arbeitsprodukt liefern: Kammer-Stellungnahme: Sachverhalt, betroffene Pflicht, Rechtslage, Entlastung, Ergebnis, Anlagen.
+Bei einem Belehrungsvorwurf ermittle, welches Verständnisproblem bestand, welche Erklärung erfolgte und wie sie dokumentiert ist. Verwechsle die Wiedergabe einer Standardklausel nicht mit einem belegten Gespräch. Bei Sprachproblemen unterscheide Übersetzung, Verständnis und wirksame Erklärung. Verbraucherstatus und zeitliche Vorbereitung sind anhand des konkreten Geschäfts nach aktuellen amtlichen Regeln zu prüfen.
 
-## 3. Kernroute
+Bei Vollzug und Verwahrung rekonstruiere die Anweisung: Wer hat sie erteilt, welche Bedingungen gelten, welcher Nachweis liegt vor und wer ist empfangsberechtigt? Vergleiche Urkunde, spätere Änderung und tatsächlichen Vollzugsstand. Eine einzelne Partei kann eine mehrseitige Bedingung nicht bloß durch ihre Zahlungsbitte ersetzen. Trenne fehlenden Nachweis von widerlegter Voraussetzung. Keine Auszahlung, Registereinreichung oder Änderung als erfolgt darstellen, wenn lediglich ein Entwurf vorliegt.
 
-1. Berufsträger und Pflichtenkreis: Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen.
-2. Pflichtenprüfung: Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten.
-3. Aufsichts- und Verfahrenslage: Kammerverfahren, Rüge, Missbilligung, berufsgerichtliches Verfahren und Parallelität zum Strafverfahren ordnen.
-4. Risikoabschätzung: Sanktionsrahmen, Registerfolgen, Versicherungsfragen und Mandatsauswirkungen bewerten.
-5. Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
+## 1.4 Nachvollziehbares Arbeitsprodukt
 
-## 4. Fallkarte
+Ordne jeden Befund einer konkreten Amtspflicht, Aktenstelle und Handlung zu. Ein Amtsvermerk dokumentiert tatsächlichen Ablauf und Bewertung, kein nachträglich erfundenes Beratungsgespräch. Bei Aufsichtspost bestimme zuständige Stelle, Verfahrensstufe und echte Frist; anwaltliche Rügerechtsbehelfe sind keine notarielle Standardroute. Entwirf die beauftragte Antwort in vollständigen Sätzen und begrenze die Offenlegung auf den erforderlichen, rechtlich geprüften Umfang.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46; BORA und FAO |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen |
-| Beweislast | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| Rechtsfolge | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Berufsträger und Pflichtenkreis | Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichtenprüfung | Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufsichts- und Verfahrenslage | Kammerverfahren, Rüge, Missbilligung, berufsgerichtliches Verfahren und Parallelität zum Strafverfahren ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikoabschätzung | Sanktionsrahmen, Registerfolgen, Versicherungsfragen und Mandatsauswirkungen bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BRAO Paragraf 43a und Paragraf 43e: Grundpflichten, Verschwiegenheit und Inanspruchnahme von Dienstleistern.
-- BRAO Paragraf 45 und Paragraf 46: Tätigkeitsverbote und Syndikusrechtsanwälte.
-- BORA und FAO: Berufsordnung und Fachanwaltschaften als Satzungsrecht der Kammern.
-- BNotO Paragraf 14 und Paragraf 17: Amtspflichten und Gebührenbindung des Notars.
-- Paragraf 14 Abs. 1 BNotO — notarielle Amtspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 130a ZPO — elektronische Dokumente als Schnittstelle; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 12 HGB — Registereinreichung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 40 GmbHG — Gesellschafterliste; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
-7.2. Norm: BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Berufsträger und Pflichtenkreis“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Kammer-Stellungnahme“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchung steht im Raum. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Prüfe weitere BNotO-, BeurkG-, Kosten- oder Vollzugsnormen in aktuellen amtlichen Primärquellen; Landesvorgaben nur für den betroffenen Amtsbereich. Entscheidungen mit überprüfbarer Fundstelle, nicht aus Erinnerung zitieren. Zusätzliche Skills und Referenzen sind optional, die Kernarbeit ist hier vollständig beschrieben. Keine externe Handlung ohne Auftrag. Nutze dezimale Überschriften und Times New Roman 11 pt beim Export.

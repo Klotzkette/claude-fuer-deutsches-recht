@@ -41,15 +41,13 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Rechtsfolge | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
-## 5. Einsatzfelder
+## 5. Verlängerung und laufende Kosten
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Geschäftsmodell und Parteien | Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Regelungsprogramm | Hauptpflichten, Nebenpflichten, Rechteeinräumung, Vergütung, Laufzeit und Beendigung anlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikoallokation | Haftung, Freistellung, Gewährleistung, Vertragsstrafe und Sicherheiten austarieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kontrolle | AGB-Festigkeit, Transparenz, Kollision mit zwingendem Recht und Wechselwirkungen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Bei Bestandsverträgen kein neues Vertragsgerüst vorschalten. Lies unterzeichneten Hauptvertrag, Bestellschein, Nachträge und AGB in ihrer Rangfolge. Erstelle ein Fristenblatt mit Beginn, Mindestlaufzeit, aktuellem Ende, Verlängerungsdauer, Kündigungsvorlauf, Zugangsempfänger und Übermittlungsform. Ein interner Freigabetermin ist nicht der letzte rechtlich mögliche Zugangstag. Monatliche Entgelte mit der Bindungsdauer multiplizieren; Zusatzmodule, Mengenstaffeln und Preisanpassungen gesondert ausweisen.
+
+Prüfe B2B oder Verbrauchervertrag, Klauselherkunft und konkreten Kontrollmaßstab. Paragraf 309 BGB gilt nach Paragraf 310 Absatz 1 nicht unmittelbar gegenüber Unternehmern; daraus folgt keine pauschale Wirksamkeit aller Verlängerungsklauseln. Eine Verbraucherregel nicht ungeprüft auf einen SaaS-Vertrag zweier Unternehmen übertragen. Bei unsicherer Wirksamkeit vertraglichen Fristpfad und rechtliche Gegenposition getrennt liefern.
+
+Ergebnis: Kündigungs- oder Verlängerungsentscheidung mit Kostenfolge, kritischem Zugangstag, verantwortlicher Person, Entwurf und offener Freigabe. Kündigung, Neuabschluss oder Zusage nicht eigenmächtig erklären. Amtlicher Einstieg: [BGB, Paragraf 310](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html).
 
 ## 6. Anker
 
@@ -74,4 +72,4 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Der Vertragszweck oder die Leistungsbeschreibung ist unklar; ohne sie kein Klauseltext. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Bei unklarem Vertragszweck nur die davon abhängige Klauselfreigabe sperren. Fristen, Bestandskosten und belegte Teile weiterbearbeiten. Die Werkstatt ist optionale Vertiefung; dieses Mini ist eigenständig nutzbar.

@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "plugin": "krankenkassenrecht-krankenversicherung",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__13.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Normauszug: bürgerliche Rechtsstreitigkeiten vor den ordentlichen Gerichten; gewöhnliche private Krankheitskostenforderungen nicht als sozialrechtlichen Widerspruch behandeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Normauszug zu Paragraf 192 Absatz 1: Leistungspflicht im vereinbarten Umfang einschließlich ambulanter Vorsorgeuntersuchungen zur Früherkennung nach gesetzlich eingeführten Programmen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgg/__51.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Normauszug: Sozialgerichtliche Zuweisung für gesetzliche Krankenversicherung, keine pauschale Gleichsetzung mit privater Krankheitskostenversicherung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der ursprüngliche Text behandelte jeden Fall als Sozialleistungsbescheid und enthielt fachfremde Grundsicherungsurteile sowie falsche Aufsichtsnormbeschreibungen.",
+    "changes": [
+      "GKV, PKV, Krankentagegeld, Pflege und Beihilfe vor dem Rechtsbehelf trennen.",
+      "Vertragsumfang und medizinische Notwendigkeit gesondert prüfen.",
+      "Tarifliche Rechenfolge und verbleibenden Erstattungsrest konkretisieren."
+    ],
+    "sha256": "ee4920ca82c34556f601bdb311bbd39a72c7efdb673a9d7123701ce541b5003d"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe eine PKV-Leistungsablehnung anhand meines Tarifs und der Rechnung.",
+      "Ordne den passenden Leistungs- und Rechtsbehelfsweg einer Krankenversicherungsablehnung zu."
+    ],
+    "negative": [
+      "Prüfe die Förderfähigkeit eines Krankenhausneubaus.",
+      "Berechne ausschließlich die Haftung eines Arztes für einen Kunstfehler."
+    ]
+  },
+  "cases": [
+    {
+      "id": "pkv-vorsorge-ohne-sozialrechtsweg",
+      "request": "Prüfe in ergebnis.md eine Leistungsablehnung meiner privaten Krankheitskostenversicherung. Eine ambulante Früherkennungsuntersuchung gehört unstreitig zu einem gesetzlich eingeführten Programm; die persönlichen Teilnahmevoraussetzungen und die ordnungsgemäße Rechnung über 180 Euro stehen fest. Mein wirksamer Tarif sieht für diese Untersuchung vollständige Erstattung ohne Selbstbehalt vor. Der Versicherer lehnt allein mit dem Satz ab: Ohne Krankheit schuldet eine PKV keinerlei Vorsorge. Die Ablehnung ist sechs Wochen alt. Ein Bekannter meint, ich hätte einen Monat Zeit für Widerspruch beim Sozialgericht gehabt. Gewünscht sind eine Bewertung dieser beiden Aussagen und ein kurzer Leistungsbrief, keine Klageeinreichung oder vollständige Verjährungsprüfung.",
+      "input_files": [],
+      "deliverables": ["ergebnis.md"],
+      "criteria": [
+        {"id": "C01", "text": "Die pauschale Vorsorgeablehnung wird anhand der vorgegebenen Programmzugehörigkeit und des Tarifs verworfen; 180 Euro werden als zu erstattender Betrag eingeordnet.", "deliverables": ["ergebnis.md"]},
+        {"id": "C02", "text": "Die sechs Wochen werden nicht wegen einer erfundenen SGG-Widerspruchsfrist als Anspruchsverlust bewertet; die gewöhnliche Vertragsforderung wird dem Zivilrechtsweg zugeordnet.", "deliverables": ["ergebnis.md"]},
+        {"id": "C03", "text": "Der Leistungsbrief bleibt ein Entwurf und ergänzt keine medizinische Erkrankung, die für die vorgegebene Vorsorgeleistung nicht behauptet wurde.", "deliverables": ["ergebnis.md"]}
+      ],
+      "target_skill": "pkv-leistungspflicht-medizinische-notwendigkeit"
+    },
+    {
+      "id": "pkv-quote-statt-sgg-widerspruch",
+      "request": "Erstelle ergebnis.md mit Rechnung und Entwurf eines Leistungsbriefs an einen privaten Krankenversicherer. Die medizinische Notwendigkeit einer ambulanten Heilbehandlung und die Wirksamkeit des Tarifs sind unstreitig. Die Rechnung beträgt 2.000 Euro. Der vereinbarte Tarif erstattet für genau diese Leistung 80 Prozent des Rechnungsbetrags, ohne Selbstbehalt oder Obergrenze. Der Versicherer hat 1.200 Euro gezahlt und den Rest ohne zusätzliche Begründung abgelehnt. Es gibt keine GKV und keinen Beihilfeanspruch. Der Versicherungsnehmer möchte die tarifgemäße Restzahlung, nicht die gerichtliche Klärung einer medizinischen Frage. Das Ablehnungsschreiben enthält keine behördliche Rechtsbehelfsbelehrung. Versende nichts.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Berechnung ergibt 1.600 Euro tarifliche Gesamtleistung und nach Zahlung 400 Euro Restanspruch, nicht 800 Euro.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Ablehnung wird als privatrechtliche Leistungsfrage behandelt; ein sozialrechtliches Pflichtvorverfahren oder eine SGG-Widerspruchsfrist wird nicht erfunden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Brief stützt sich auf Rechnung, Tarifquote und Zahlung und fordert kein unnötiges medizinisches Gutachten zur bereits unstreitigen Notwendigkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "pkv-leistungspflicht-medizinische-notwendigkeit"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "plugin": "juristische-sprache-deutsch-als-zweitsprache",
+  "reviewed_on": "2026-09-14",
+  "sources": [],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die frühere generische Rechtsprüfung wurde durch sprachliche Erklärung mit Erhalt des Aussagegehalts ersetzt. Keine neue materielle Rechtsaussage; daher keine Norm als scheinbar geprüfte Quelle aufgeführt.",
+    "changes": [
+      "Negationen, Bedingungen, Daten und Verfahrensstand beim Vereinfachen erhalten.",
+      "Textverständnis von Rechtsberatung und beglaubigter Übersetzung abgegrenzt."
+    ],
+    "sha256": "dd1ff119dd8f9dbfcc13a04cc20b7ab45dfe7f1eb7e67c5bbbf92947a65c582a"
+  },
+  "selection": {
+    "positive": [
+      "Erkläre mir dieses Anhörungsschreiben in einfachem Deutsch.",
+      "Verbessere meine Antwort sprachlich, ohne neue Tatsachen hinzuzufügen."
+    ],
+    "negative": [
+      "Beglaubige eine Übersetzung für das Gericht.",
+      "Berechne ohne Bescheid die verbindliche Klagefrist meines Verfahrens."
+    ]
+  },
+  "cases": [
+    {
+      "id": "anhoerung-mit-bedingung",
+      "request": "Ich lerne Deutsch auf Niveau B1. Erkläre mir in ergebnis.md diesen vollständigen Übungstext, ohne rechtliche Bewertung zusätzlicher Regeln: Wir beabsichtigen, Ihren Antrag abzulehnen. Sie erhalten Gelegenheit, bis zum 28. September 2026 Stellung zu nehmen. Sofern die angeforderten Einkommensnachweise bereits eingereicht wurden, teilen Sie uns bitte das Versanddatum mit. Ich weiß noch nicht, ob ich diese Nachweise verschickt habe. Bitte erkläre insbesondere, was bereits entschieden wurde und was ich aus dem Text als nächsten Schritt verstehen kann. Schreibe keine Behauptung über einen Versand in meinem Namen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Erklärung erhält den Unterschied zwischen beabsichtigter und bereits erfolgter Ablehnung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Datum bleibt unverändert und die Mitteilung des Versanddatums bleibt davon abhängig, dass ein Versand tatsächlich stattgefunden hat.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Text erklärt die Stellungnahmemöglichkeit verständlich, ohne ein Geständnis, einen nachgewiesenen Versand oder eine bereits eingereichte Antwort zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "bescheid-in-einfacher-sprache"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "schriftsatz-versandwerkstatt",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Elektronischer Eingang bei Speicherung in der Empfangseinrichtung; automatisierte Eingangsbestätigung und Anforderungen an Signatur beziehungsweise sicheren Übermittlungsweg."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Ein Dateiname mit final darf weder die konkrete Freigabe noch den Nachweis gerichtlichen Eingangs ersetzen.",
+    "changes": [
+      "Freigabe an die konkrete Dokumentfassung gebunden.",
+      "Versandstatus und positive Eingangsbestätigung getrennt.",
+      "Allgemeine Einstiegssätze zugunsten des Größenlimits gestrafft."
+    ],
+    "sha256": "2e11aa89c6ccb3216b78f4481f1cea0d9608fbfe7e7f8dc012142fe0dc22b98a"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie vor dem heutigen Fristablauf, ob unsere freigegebene Klageerwiderung tatsächlich beim richtigen Gericht eingegangen ist.",
+      "Gleichen Sie Versanddateien, Signatur und Rückmeldungen ab und erstellen Sie einen Versandfreigabevermerk."
+    ],
+    "negative": [
+      "Entwerfen Sie die materielle Argumentation einer Klage wegen Baumängeln.",
+      "Berechnen Sie die Berufungsfrist erstmals aus einem Urteil ohne Versandauftrag."
+    ]
+  },
+  "cases": [
+    {
+      "id": "final-dateiname-ohne-eingangsbeleg",
+      "request": "Erstellen Sie ergebnis.md als Versandkontrollvermerk für die verantwortliche Anwältin. Heute ist der gerichtlich bestimmte Fristablauf. Um 16:00 Uhr hat sie Fassung A der Klageerwiderung mit zwölf Seiten ausdrücklich freigegeben. Um 16:20 Uhr hat ein Mitarbeiter ungeprüft einen Absatz geändert und diese dreizehnseitige Fassung B als klageerwiderung_final.pdf gespeichert. Das Versandjournal nennt um 16:30 Uhr Fassung B, das richtige Gericht und den lokalen Status gesendet. Eine automatisierte gerichtliche Eingangsbestätigung liegt nicht vor. Die Anwältin ist erreichbar. Es gibt keine Erlaubnis, selbst Nachrichten zu versenden. Bewerten Sie den Stand und bereiten Sie die unmittelbar nötigen Kontrollen vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis verneint eine nachgewiesene Freigabe von Fassung B und ordnet die Freigabe ausschließlich Fassung A zu; der Dateiname ersetzt keine Freigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der lokale Status gesendet wird nicht als bewiesener gerichtlicher Eingang behandelt; die fehlende Eingangsbestätigung und deren Kontrolle bleiben ausdrücklich offen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Vermerk priorisiert die Entscheidung der erreichbaren Anwältin über die richtige Fassung und fristwahrende Übermittlung, behauptet aber weder einen eigenen Versand noch eine bereits gewahrte Frist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "versandfreigabe-und-eingang-sichern"
+    }
+  ]
+}

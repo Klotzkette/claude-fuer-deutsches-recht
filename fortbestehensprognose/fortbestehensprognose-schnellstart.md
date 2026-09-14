@@ -1,10 +1,10 @@
-# Fortbestehensprognose — Schnellstart
+# 1. Fortbestehensprognose — Schnellstart
 
-Wenn du das hier öffnest, willst du eine Unternehmenskrise vor der Insolvenz ordnen: Früherkennung, Fortbestehensprognose, StaRUG-Instrumente und Planarchitektur.
+Prüfe am konkreten Stichtag, ob die Finanzierung der Unternehmensfortführung über zwölf Monate überwiegend wahrscheinlich ist. Ein Restrukturierungsplan ist nur bei entsprechendem Auftrag nötig.
 
 Kernauftrag: Fortbestehensprognose Paragraf 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwölf-Monats-Liquidität. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Sofortstart nach Eingangslage
+## 1.1. Sofortstart nach Eingangslage
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
 - Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
@@ -15,14 +15,14 @@ Ohne verwertbares Material höchstens eine gebündelte Frage zu Krisenstadium, P
 
 Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-## 2. Fachlicher Direktstart
+## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Liegt Insolvenzreife vor oder droht sie nur, und ab wann lief die Antragsfrist.
 2. Kernprüfung in einem Durchgang: Tragen Planungsrechnung und Prämissen die Fortbestehensprognose; Welches Instrument erreicht das Sanierungsziel mit dem geringsten Eingriff.
 3. Belege und Engpass zusammenführen: Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen; besonders kritisch ist: Zahlungsunfähigkeit ist eingetreten; Antragsfrist läuft, keine Zahlungen ohne Prüfung.
 4. Erstes Arbeitsprodukt liefern: Prognosevermerk: Stichtag, Planungshorizont, Prämissen, Liquiditätsverlauf, Ergebnis, Dokumentation.
 
-## 3. Kernroute
+## 1.3. Kernroute
 
 1. Krisenstadium: Liquiditätsstatus, Prognosehorizont, Insolvenzreife und Antragspflichten feststellen.
 2. Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen.
@@ -30,7 +30,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 4. Planarchitektur: Gruppen, Eingriffe, Vergleichsrechnung, Abstimmung und gerichtliche Bestätigung ordnen.
 5. Arbeitsprodukt: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren.
 
-## 4. Fallkarte
+## 1.4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
@@ -41,17 +41,13 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Rechtsfolge | Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
-## 5. Einsatzfelder
+## 1.5. Liquiditätsbrücke statt Planüberschrift
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Krisenstadium | Liquiditätsstatus, Prognosehorizont, Insolvenzreife und Antragspflichten feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Prognose | Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Instrumentenwahl | Freie Sanierung, StaRUG-Rahmen, Eigenverwaltung oder Regelverfahren abwägen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Planarchitektur | Gruppen, Eingriffe, Vergleichsrechnung, Abstimmung und gerichtliche Bestätigung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Beginne mit frei verfügbarer Anfangsliquidität. Rechne für jeden der nächsten zwölf Monate Einzahlungen und fällige Auszahlungen; zeige Tiefpunkt und erste Unterdeckung, nicht nur Jahressaldo oder bilanziellen Gewinn. Verdichte kritische Wochen zusätzlich. Ein kurzfristiger Liquiditätsstatus zur Zahlungsunfähigkeit ersetzt den Zwölfmonatshorizont nach Paragraf 19 Absatz 2 InsO nicht und umgekehrt.
 
-## 6. Anker
+Trenne verbindlich verfügbare Finanzierung von unverbindlichen Gesellschafterzusagen. Zeige Basisszenario ohne ungesicherte Mittel und ein ausdrücklich bedingtes Finanzierungsszenario. Eine erst künftig auftretende Lücke begründet nicht allein heutige Zahlungsunfähigkeit. Liefere Prognosevermerk mit Annahmen, Belegen, Sensitivitäten und Wiedervorlageanlass; keine eigenmächtigen Zahlungen oder Insolvenzanträge.
+
+## 1.6. Anker
 
 - StaRUG Paragraf 1: Krisenfrüherkennung und Krisenmanagement als Organpflicht.
 - InsO Paragraf 15a und Paragraf 15b: Antragspflicht und Zahlungen nach Insolvenzreife.
@@ -62,16 +58,16 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko.
 
-## 7. Antwortform
+## 1.7. Antwortform
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren.
-7.2. Norm: StaRUG Paragraf 1; InsO Paragraf 15a und Paragraf 15b mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Krisenstadium“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Tragen Planungsrechnung und Prämissen die Fortbestehensprognose.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Prognosevermerk“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren.
+1.7.2. Norm: StaRUG Paragraf 1; InsO Paragraf 15a und Paragraf 15b mit dem entscheidenden Merkmal verbinden.
+1.7.3. Aktenfund: Für „Krisenstadium“ Tatsache, Datum und Fundstelle nennen.
+1.7.4. Beweis: Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen. Offene Folgen aussprechen.
+1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Tragen Planungsrechnung und Prämissen die Fortbestehensprognose.
+1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Prognosevermerk“. Frist, Kernlücke und nächstem Dokument benennen.
 
-## 8. Stop
+## 1.8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Zahlungsunfähigkeit ist eingetreten; Antragsfrist läuft, keine Zahlungen ohne Prüfung. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Nur bei diesem Stop-Punkt unterbrechen: Zahlungsunfähigkeit ist eingetreten; Antragsfrist läuft, keine Zahlungen ohne Prüfung. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Eine vorhandene Werkstatt kann optional vertiefen; dieser Prompt funktioniert ohne sie. Liefere vollständige Sätze und beim Export Times New Roman 11 pt mit dezimaler Gliederung. Versende oder reiche nichts eigenständig ein.

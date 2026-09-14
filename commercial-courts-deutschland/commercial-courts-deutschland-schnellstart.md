@@ -1,74 +1,27 @@
-# Commercial Courts Deutschland — Schnellstart
+# 1 Wirtschaftsverfahren vor Commercial Courts vorbereiten
 
-Wenn du das hier öffnest, willst du einen großvolumigen Wirtschaftsstreit für das richtige deutsche Commercial Court, die englische Verfahrenssprache und ein straffes Case Management versandfertig aufbauen.
+Lies zuerst Auftrag, Gerichtsstands- und Sprachklausel, Klage oder Erwiderung und verfügbare Anlagen. Erstelle das verlangte Forumvotum, den Schriftsatz oder die Terminsvorbereitung. Ist das Verfahren bereits verbindlich eingeordnet, wiederhole keinen abstrakten Forumvergleich. Deutsche Zivilprozessregeln bleiben auch bei englischer Sprache maßgeblich; englische Bezeichnungen schaffen keine US-amerikanische Discovery.
 
-Kernauftrag: Commercial-Courts-Plugin für englischsprachige Wirtschaftsverfahren in Deutschland: Zuständigkeit, Wahlklauseln, Klage, Case Management, Beweis, Geheimnisschutz, Wortprotokoll/Transcript, Rechtsmittel, BGH, Kosten. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Forum und Sprache getrennt sichern
 
-## 1. Sofortstart nach Eingangslage
+Prüfe [Paragraf 119b GVG](https://www.gesetze-im-internet.de/gvg/__119b.html): eingerichteter Spruchkörper, Sachgebiet, Streitwert ab 500000 Euro, Ausschlüsse und Parteivereinbarung beziehungsweise gesetzlich genügende Einlassung. Die konkrete Landesverordnung bestimmt die Einrichtung und mögliche fachliche Begrenzung. Commercial Court am Obergericht und Commercial Chamber am Landgericht sind verschieden. Internationale und örtliche Zuständigkeit zusätzlich prüfen, soweit sie offen sind.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Forumcheck, Parteiwille, Pleading und Case Management wählen; ohne konkreten Auftrag mit Forumcheck beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Nach [Paragraf 184a GVG](https://www.gesetze-im-internet.de/gvg/__184a.html) benötigt englische Verfahrensführung den gesetzlich und landesrechtlich eröffneten Rahmen sowie den erforderlichen Parteiwillen. Ein englischer Vertrag allein genügt nicht. Ordne Gerichtssprache, Anlagen, Übersetzung und Sprachbedarf von Zeugen oder Dritten einzeln. Englische Entwürfe nur in der beauftragten Rolle und mit passenden deutschen Prozessanträgen ausarbeiten.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Forumcheck, Parteiwille, Pleading und Case Management und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2 Organisationstermin mit arbeitsfähigem Zeitplan
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bereite nach [Paragraf 612 ZPO](https://www.gesetze-im-internet.de/zpo/__612.html) einen konkreten Vorschlag zum Verfahrensablauf vor. Ordne Streitfragen, erforderlichen Vortrag, Beweismittel und zeitliche Abhängigkeiten. Ein Zeitplan muss Recherche, Übersetzung, Geheimnisschutz und Verfügbarkeit der Beteiligten ermöglichen. Kennzeichne vorgeschlagene Termine als Vorschläge und bereits angeordnete Fristen als verbindlichen Stand.
 
-## 2. Fachlicher Direktstart
+Erstelle je streitigem Punkt eine Beweismittelzuordnung: behauptete Tatsache, konkrete Urkunde oder Zeuge, Beweisthema und Fundstelle. Keine pauschale Forderung nach sämtlichen gegnerischen Unterlagen ohne prozessuale Grundlage. Ein Organisationstermin rechtfertigt keine beliebige Erweiterung gesetzlicher Beweismittel oder vorprozessueller Informationsrechte. Frist- und Verspätungsfolgen vereinbarter Abläufe vor einer Zusage prüfen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Ist das angerufene Commercial Court nach Landesverordnung, GVG Paragraf 119b und Parteiwillen zuständig.
-2. Kernprüfung in einem Durchgang: Welche Sprache gilt für Schriftsätze, Anlagen, Beweisaufnahme, Protokoll und Entscheidung; Welche Themen, Fristen und Beweiswege müssen im Organisationstermin verbindlich strukturiert werden.
-3. Belege und Engpass zusammenführen: Nachweisachse Parteiwille: Gerichtsstands- und Sprachvereinbarung, Klageantrag, Zustimmung, rügelose Einlassung oder Verweisungstatbestand dokumentieren; besonders kritisch ist: Landesverordnung, Zuständigkeitsvereinbarung oder Streitwert ist nicht belegt.
-4. Erstes Arbeitsprodukt liefern: Forum-Matrix: Gericht, Landesverordnung, Sachgebiet, Streitwert, Ausschluss, Vereinbarung, Sprache, Antrag und Risiko.
+## 1.3 Geheimnisse und Protokoll nicht verwechseln
 
-## 3. Kernroute
+Für streitgegenständliche Geschäftsgeheimnisse prüfe einen begründeten Antrag nach [Paragraf 273a ZPO](https://www.gesetze-im-internet.de/zpo/__273a.html). Identifiziere Informationen und Schutzbedarf genau; eine pauschale Kennzeichnung des gesamten Anlagenbands genügt nicht als Begründung. Bereite kontrollierte Fassungen vor und wahre gleichzeitig die notwendige Nachvollziehbarkeit des Vortrags. Eine Geheimhaltungsvereinbarung mit dem Gegner ist nicht automatisch eine gerichtliche Schutzanordnung.
 
-1. Forumcheck: Bundesland, Landesverordnung, sachlicher Katalog, Streitwert, Ausschluss, örtlicher Bezug und internationale Zuständigkeit prüfen.
-2. Parteiwille: Gerichtsstands- und Sprachvereinbarung, Klageantrag, Zustimmung, rügelose Einlassung oder Verweisungstatbestand dokumentieren.
-3. Pleading und Case Management: claim, defence, counterclaim, Zeitplan, Themenliste, Beweis, Übersetzung und Organisationstermin vorbereiten.
-4. Geheimnisse und Beweis: Schutzantrag, Zugangsgruppe, exhibits, document production, witnesses, experts und Transcript steuern.
-5. Arbeitsprodukt: englische oder bilinguale Klage, Erwiderung, CMC-Bundle, Schutzantrag, Hearing Note oder Revisionsbriefing erstellen.
+[Paragraf 613 ZPO](https://www.gesetze-im-internet.de/zpo/__613.html) betrifft das Wortprotokoll. Prüfe übereinstimmenden Parteiantrag, ersten Rechtszug, Mitlesbarkeit und tatsächliche Umsetzbarkeit. Ein einseitiger Wunsch ist kein bereits bewilligtes Wortprotokoll. Kläre organisatorischen Bedarf frühzeitig; erfinde weder Protokollpersonen noch vorhandene Technik oder gesicherte Kosten.
 
-## 4. Fallkarte
+## 1.4 Einreichungsfähiger Entwurf
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GVG Paragraf 119b; GVG Paragraf 184a; ZPO Paragraf 610 und Paragraf 611 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Bundesland, Landesverordnung, sachlicher Katalog, Streitwert, Ausschluss, örtlicher Bezug und internationale Zuständigkeit prüfen |
-| Beweislast | Nachweisachse Parteiwille: Gerichtsstands- und Sprachvereinbarung, Klageantrag, Zustimmung, rügelose Einlassung oder Verweisungstatbestand dokumentieren |
-| Rechtsfolge | englische oder bilinguale Klage, Erwiderung, CMC-Bundle, Schutzantrag, Hearing Note oder Revisionsbriefing erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Liefere klare Anträge, vollständigen Tatsachenvortrag und präzise Anlagenbezüge beziehungsweise eine Agenda mit realistischem Zeitplan. Bei bilingualen Dokumenten dürfen Rechtsfolgen und Zahlen nicht zwischen den Fassungen abweichen. Ein englisches Etikett wie „witness statement“ ersetzt kein geprüftes Beweisangebot. Rechtsmittelweg und Sprache der Folgeinstanz gesondert anhand aktueller Normen prüfen.
 
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Forumcheck | Bundesland, Landesverordnung, sachlicher Katalog, Streitwert, Ausschluss, örtlicher Bezug und internationale Zuständigkeit prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Parteiwille | Gerichtsstands- und Sprachvereinbarung, Klageantrag, Zustimmung, rügelose Einlassung oder Verweisungstatbestand dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pleading und Case Management | Claim, defence, counterclaim, Zeitplan, Themenliste, Beweis, Übersetzung und Organisationstermin vorbereiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Geheimnisse und Beweis | Schutzantrag, Zugangsgruppe, exhibits, document production, witnesses, experts und Transcript steuern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Englische oder bilinguale Klage, Erwiderung, CMC-Bundle, Schutzantrag, Hearing Note oder Revisionsbriefing erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- GVG Paragraf 119b: Einrichtung, Streitwert ab 500000 Euro, erfasste Streitigkeiten, Ausschlüsse und Parteivereinbarung für Commercial Courts.
-- GVG Paragraf 184a: Englisch als Gerichtssprache in bestimmten Verfahren nach Landesrecht und gerichtlicher Anordnung.
-- ZPO Paragraf 610 und Paragraf 611: anwendbare Vorschriften, Klageschrift und Verweisung an den Commercial Court.
-- ZPO Paragraf 612 und Paragraf 613: Organisationstermin sowie Schutz von Geschäftsgeheimnissen und Vertraulichkeit.
-- GVG Paragraf 184a erlaubt die englische Verfahrensführung nur im gesetzlich und landesrechtlich eröffneten Rahmen; englische Dokumente allein ändern die Gerichtssprache nicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: englische oder bilinguale Klage, Erwiderung, CMC-Bundle, Schutzantrag, Hearing Note oder Revisionsbriefing erstellen.
-7.2. Norm: GVG Paragraf 119b; GVG Paragraf 184a mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Forumcheck“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Parteiwille: Gerichtsstands- und Sprachvereinbarung, Klageantrag, Zustimmung, rügelose Einlassung oder Verweisungstatbestand dokumentieren. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Sprache gilt für Schriftsätze, Anlagen, Beweisaufnahme, Protokoll und Entscheidung.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Forum-Matrix“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Landesverordnung, Zuständigkeitsvereinbarung oder Streitwert ist nicht belegt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Nur blockierende Lücken erfragen; übrige Streit- und Beweisarbeit fortsetzen. Amtliche Bundes- und Landesquellen verifizieren, keine Gerichtsstandorte oder Entscheidungen erfinden. Zusätzliche Skills oder Referenzen sind optional; diese Kernroute bleibt eigenständig. Ohne Export vollständigen Text liefern. Kein Versand ohne Auftrag. Dezimale Überschriften und Times New Roman 11 pt beim Export.

@@ -1,77 +1,21 @@
-# NDA Abgleich — Schnellstart
+# 1. Fremdentwurf gegen eigenen NDA-Standard
 
-Wenn du das hier öffnest, willst du einen Vertrag, eine Vertraulichkeitsvereinbarung oder ein Lizenz- oder Vertriebsmodell vollständig, ausgewogen und versandreif ausformulieren oder prüfen.
+Lies zuerst Nutzersachverhalt, eigenen Standard, Gegenvorschlag und ausdrücklich festgelegte Haltelinien. Bestimme empfangende oder offenlegende Seite, Austauschzweck und maßgebliche Fassungen. Ändere den Fremdentwurf gezielt; erstelle nicht ohne Auftrag einen vollständig neuen Vertrag. Fehlt der Standard, liefere erkennbare Risiken, aber behaupte keinen durchgeführten Standardabgleich.
 
-Kernauftrag: Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Änderungsmodus durch. Ampelmatrix ROT/GELB/GRUEN. Ausgabe .docx mit echten Tracked Changes. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Klauseln nach Bedeutung zuordnen
 
-## 1. Sofortstart nach Eingangslage
+Vergleiche Regelungsinhalte auch bei anderer Reihenfolge und Nummerierung. Ordne Definition vertraulicher Informationen, Ausnahmen, erlaubte Empfänger, Verwendungszweck, Schutzmaßstab, Offenlegungspflichten, Rückgabe, Laufzeit, Haftung und Streitbeilegung zu. Erfasse auch fehlende oder auf mehrere Stellen verteilte Regelungen. Gleiche Wörter garantieren keine gleiche Wirkung; anders formulierte, inhaltlich gleichwertige Sätze benötigen keine Änderung.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Geschäftsmodell und Parteien, Regelungsprogramm, Risikoallokation wählen; ohne konkreten Auftrag mit Geschäftsmodell und Parteien beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Prüfe Wechselwirkungen: Eine breite Empfängerdefinition kann eine enge Weitergabeklausel entwerten. Eine Rückgabepflicht kann mit einer Archivierungsausnahme kollidieren. Trenne Vertragslaufzeit und Fortdauer der Geheimhaltung. Eine Ausnahme von der Löschung muss nicht zugleich eine Ausnahme von Zweckbindung und Vertraulichkeit sein.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Geschäftsmodell und Parteien, Regelungsprogramm, Risikoallokation und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Haltelinien und Eingriffstiefe
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Kennzeichne Rot für Verletzung einer ausdrücklich gesetzten Haltelinie, Gelb für entscheidungsbedürftige Abweichung und Grün für akzeptierte Gleichwertigkeit. Begründe die Einstufung aus dem Auftrag, nicht aus einem erfundenen Kanzleistandard. Eine kommerzielle Ablehnung ist nicht automatisch gesetzliche Unwirksamkeit.
 
-## 2. Fachlicher Direktstart
+Je Änderung Ausgangsklausel, Standardposition, konkrete Risikofolge und kleinstmöglichen ausformulierten Ersatz angeben. Erhalte akzeptierte Teile und Definitionen. Neue Pflichten, Vertragsstrafen, Wettbewerbsverbote oder Gerichtsstände nur bei Auftrag oder begründeter Entscheidungsvorlage einfügen. Rechtliche Wirksamkeitsbehauptungen gesondert anhand aktueller amtlicher Quellen prüfen; ein reiner Versionsvergleich braucht keine dekorative Normenkette.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Hauptleistungspflichten müssen subsumtionsfähig beschrieben sein.
-2. Kernprüfung in einem Durchgang: Welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest; Welche Rechte werden wie weit eingeräumt und was bleibt vorbehalten.
-3. Belege und Engpass zusammenführen: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar; besonders kritisch ist: Der Vertragszweck oder die Leistungsbeschreibung ist unklar; ohne sie kein Klauseltext.
-4. Erstes Arbeitsprodukt liefern: Vertragsgerüst: Präambel, Definitionen, Leistung, Vergütung, Laufzeit, Haftung, Geheimhaltung, Schlussbestimmungen.
+## 1.3. Änderungsdokument und Kontrolle
 
-## 3. Kernroute
+Wenn DOCX mit Änderungsverfolgung verlangt ist und die Werkzeuge dies unterstützen, echte Einfügungs-/Löschungsrevisionen erzeugen. Farbiger Text oder Kommentare allein sind keine Änderungsverfolgung. Bestehende Revisionen, Kommentare, Tabellen und Nummerierung erhalten; Annahme oder Verwerfung fremder Änderungen nicht stillschweigend vornehmen. Eine lesbare Annahmefassung gegen Standard und Freigaben kontrollieren.
 
-1. Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen.
-2. Regelungsprogramm: Hauptpflichten, Nebenpflichten, Rechteeinräumung, Vergütung, Laufzeit und Beendigung anlegen.
-3. Risikoallokation: Haftung, Freistellung, Gewährleistung, Vertragsstrafe und Sicherheiten austarieren.
-4. Kontrolle: AGB-Festigkeit, Transparenz, Kollision mit zwingendem Recht und Wechselwirkungen prüfen.
-5. Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
-
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157; BGB Paragraf 305 bis Paragraf 310; BGB Paragraf 280 ff. und Paragraf 323 ff |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen |
-| Beweislast | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar |
-| Rechtsfolge | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Geschäftsmodell und Parteien | Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Regelungsprogramm | Hauptpflichten, Nebenpflichten, Rechteeinräumung, Vergütung, Laufzeit und Beendigung anlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikoallokation | Haftung, Freistellung, Gewährleistung, Vertragsstrafe und Sicherheiten austarieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kontrolle | AGB-Festigkeit, Transparenz, Kollision mit zwingendem Recht und Wechselwirkungen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157: Vertragsschluss und Auslegung.
-- BGB Paragraf 305 bis Paragraf 310: AGB-Kontrolle auch im Unternehmerverkehr.
-- BGB Paragraf 280 ff. und Paragraf 323 ff.: Leistungsstörungen, Rücktritt und Schadensersatz.
-- GeschGehG: Schutz von Geschäftsgeheimnissen und angemessene Geheimhaltungsmaßnahmen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
-7.2. Regelungsanker: BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157; BGB Paragraf 305 bis Paragraf 310 mit Risikozuweisung und Vollzug verbinden.
-7.3. Aktenfund: Für „Geschäftsmodell und Parteien“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Vertragsgerüst“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Der Vertragszweck oder die Leistungsbeschreibung ist unklar; ohne sie kein Klauseltext. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere den bearbeiteten Entwurf und eine klauselspezifische Ampelmatrix. Ohne technische Änderungsverfolgung eine genaue Alt-/Neu-Liste ausgeben und die fehlende DOCX-Funktion offen benennen, nicht vortäuschen. Optional unterstützt `nda-vergleichsmatrix-leitfaden`; ohne Skillzugriff nach diesem Mini arbeiten. Nur blockierende Zielkonflikte rückfragen. Vollständige Sätze und dezimale Gliederung verwenden; bestehendes Vertragslayout bewahren, sonst Times New Roman, 11 pt beim Export.

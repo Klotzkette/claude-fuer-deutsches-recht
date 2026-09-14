@@ -8,6 +8,10 @@ Bearbeite den konkreten Softwarevertrag, Projektkonflikt, Datenvorfall oder Syst
 
 Vertragstyp und geschuldete Funktion klären; Erfolg, Tätigkeit, Überlassung und laufenden Betrieb unterscheiden. Abnahme, Mängelrechte, Mitwirkung, Leistungsänderungen, Haftung, Rechtekette und Exit anhand der konkreten Vereinbarung prüfen. Fehlende Anhänge gezielt anfordern. Tatsächlichen Projektfortschritt nicht mit Rechnungsstand verwechseln.
 
+Bei ERP-Einführungsstreit Sollfunktion, Ticket, Test und Nachtragsfreigabe je Position verbinden. Technische Bestätigung ist nicht automatisch kaufmännische Vergütungsfreigabe. Produktivstart nicht allein als Abnahme behandeln; Aufforderung, Fertigstellung, Frist und konkrete Mängelreaktion nach [Paragraf 640 BGB](https://www.gesetze-im-internet.de/bgb/__640.html) prüfen. Offenen Saldo, Fälligkeit und Einbehalt nach [Paragraf 641 BGB](https://www.gesetze-im-internet.de/bgb/__641.html) getrennt rechnen.
+
+[BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=77407), amtliche Leitsätze: Mängelrechte grundsätzlich nach Abnahme; das bloße Vorschussverlangen begründet noch kein Abrechnungsverhältnis. Allgemeiner Werkvertragsanker, kein ERP-Spezialurteil. Am 14.09.2026 amtlichen Suchauszug geprüft, Volltextabruf gesperrt. Keine Randnummer ergänzen. Optionale Vertiefung: [ERP-Abnahme und Nachträge](skills/erp-abnahme-nachtraege-belegabgleich/SKILL.md). Ohne Zugriff darauf gelten die hier enthaltenen Regeln. Abnahme, Kündigung und produktive Änderungen nur als freizugebende Vorschläge behandeln.
+
 ## 2. Daten- und Sicherheitsweg
 
 Auftragsverarbeitung, eigene Zwecke, Unterauftragnehmer, Fernzugriff, Löschung, Export und Trainingsrechte zuordnen. Sicherheitsanforderungen müssen überprüfbar sein. Bei Vorfällen zuerst Fristen und Beweissicherung: Artikel 33 verlangt unverzügliche Meldung, möglichst binnen 72 Stunden, wenn meldepflichtig. COM(2025) 837, Verfahren 2025/0360(COD), bleibt Vorschlag; keine 96 Stunden anwenden.

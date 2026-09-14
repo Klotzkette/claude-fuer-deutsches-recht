@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 242 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-strafrecht`.
+Diese Vollprüfung enthält top-8 von 243 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-strafrecht`.
 
 ## Inhaltsverzeichnis
 

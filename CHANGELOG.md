@@ -1,3 +1,23 @@
+# v444.4.0 - Fachliche Schwerpunktaufträge und überprüfbare Ergebnisqualität
+
+## 1. Arbeitsintensive Mandatsprobleme gezielt bearbeiten
+
+Die 23 Fachanwalts-Plugins sowie Steuer- und Insolvenzrecht erhalten je einen eigenständigen Spezialskill und einen separaten Hauptproblem-Prompt mit höchstens 7500 Zeichen und Bytes. Die Aufgaben reichen vom Zugewinn-Stichtagsabgleich über Annahmeverzugslohn, Nachlassverzeichnisse und Bauzeitentschädigung bis zu Zahlungsrekonstruktion, Angebotswertung und steuerlicher Gegenkalkulation. Belege, Rechenwege, Gegenpositionen und konkrete Entwürfe stehen vor allgemeinen Rechtsgebietsübersichten. Zitierregeln sind in den Einzelplugins vorhanden; die separaten Prompts gehören nicht in die installierbaren ZIPs.
+
+## 2. Individuelle Schnellstarts und nachvollziehbare Prüfung
+
+Die Mini-Prüfung wird je Plugin mit fachlicher Begründung, tatsächlichen Änderungen und abgegrenzten Auswahlfällen dokumentiert. Individuell geprüfte Texte werden nicht erneut durch allgemeine Generatorbausteine ersetzt. Amtliche Quellenlinks bleiben erhalten; sinnvolle Fachüberschriften müssen keinen einheitlichen Schablonenwortlaut wiederholen. Die neuen Schwerpunktaufträge sind in den Plugin-READMEs, im Download-Index und im eigenen Verzeichnis erreichbar.
+
+## 3. Ergebnisbewertung statt scheinbarer Erfolgsquoten
+
+Das Qualitätslabor trennt Aktenstruktur, beobachtete Plugin- oder Skill-Auswahl und tatsächlich erzeugte Arbeitsergebnisse. Isolierte Eingaben, Dateiprüfsummen, nachvollziehbare Abschlussgründe, zwei getrennte Prüfmodelle und kriterienspezifische Belege erlauben reproduzierbare Vergleiche. Fehlende Zugänge oder Dateien, Abbrüche und widersprüchliche Bewertungen werden nicht als bestanden ausgegeben. Externe Übermittlung ist ausdrücklich freizugeben. Vorbereitete Prüffälle und Offline-Regressionen sind keine ausgeführten Modellbenchmarks und ersetzen keine unabhängige Rechtsquellenprüfung.
+
+## 4. Konkrete Altfehler und vollständige Downloads
+
+Eng begrenzte Korrekturen betreffen unter anderem Vertragsschluss beim Bestellbutton, Kapitalaufbringung, landesabhängige Denkmalschutzverfahren, Förderbudgets, historische Quellenkritik, nachträgliche Gesamtstrafe, finanzgerichtliche Aussetzung der Vollziehung und das Übergangsrecht zur Berufungswertgrenze. Zusätzliche Prüffälle halten die entscheidenden Abgrenzungen fest. Skill-Markdown-Bundles enthalten nun auch die gemeinsamen Markdown-Referenzen des Plugins; eigenständige Hilfsprompts bleiben weiterhin außerhalb dieser ZIPs.
+
+Die eigentlichen Falldokumente bleiben unverändert. Abgeleitete Prüfanleitungen und Downloadverzeichnisse werden mit dem neuen Skillbestand synchronisiert.
+
 # v444.3.0 - Digitaler Omnibus und getrennte Aufsichtswege
 
 ## 1. Veröffentlichtes Änderungsrecht statt alter Zeitpläne

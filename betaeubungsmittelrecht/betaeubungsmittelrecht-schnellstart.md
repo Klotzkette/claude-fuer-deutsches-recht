@@ -1,75 +1,27 @@
-# Betäubungsmittelrecht — Schnellstart
+# 1 Stoff, Handlung und Nachweis prüfen
 
-Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswürdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
+Arbeite zuerst aus dem mitgeteilten Auftrag, Sicherstellungsprotokoll, Laborbefund, Vernehmungen und vorhandenen Erlaubnissen oder Verschreibungen. Liefere den gewünschten Verteidigungsvermerk, Antrag oder Compliance-Text. Nicht jeder Vorgang ist eine Strafverteidigung: Ärztliche Verschreibung, Apothekenabgabe und betriebliche Erlaubnis benötigen ihren eigenen Prüfweg. Eine akute Haft- oder Aussagefrage hat Vorrang, ohne die übrige Sacharbeit abzubrechen.
 
-Kernauftrag: Betäubungsmittelrecht-Plugin für BtMG, BtMVV, KCanG/MedCanG-Schnittstellen, Strafverfahren, Therapie, ärztliche Praxis, Apotheken und Compliance. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Stoffrecht vor Strafrahmen
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Stoff, Zubereitung, Zeitpunkt, Herkunft und behauptete Tätigkeit. Prüfe die Einordnung nach den zum Tatzeitpunkt einschlägigen Anlagen und Gesetzen. BtMG, Konsumcannabisrecht und Medizinalcannabisrecht sind nicht austauschbar. Weder die Bezeichnung „Cannabis“ noch eine behauptete medizinische Nutzung genügt zur vollständigen Einordnung. Erlaubnis, Verschreibung und tatsächlicher Erwerbs- oder Abgabeweg sind gesondert zu belegen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Ermittlungsakte, Vernehmungsprotokoll, Durchsuchungsbeschluss und Auswertebericht. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Blitz-Zergliederung, Beweise und Einlassung, Tatbestand wählen; ohne konkreten Auftrag mit Blitz-Zergliederung beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Trenne Besitz, Erwerb, Einfuhr, Abgabe und Handeltreiben. Wer hatte tatsächlichen Zugriff, Kenntnis, Verfügungswillen und welchen Beitrag? Ein Fund in einer gemeinsam genutzten Wohnung beweist nicht ohne Weiteres den Besitz jedes Bewohners. Verpackungen, Bargeld oder Nachrichten sind Indizien, deren Aussagekraft anhand des Zusammenhangs geprüft werden muss, keine automatische Verurteilung wegen Handels.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Blitz-Zergliederung, Beweise und Einlassung, Tatbestand und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2 Mengenrechnung nachvollziehbar halten
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Lege je Asservat Bruttogewicht, Verpackungsgewicht, Nettomenge, Wirkstoff, Messwert und Unsicherheit nebeneinander. Prüfe, ob der Laborbericht denselben Stoff und dieselbe Bezugsgröße meint wie der rechtliche Grenzwert. Berechne Wirkstoffmenge mit offener Formel; verwechsle Prozentgehalt nicht mit Gramm. Eine Teilprobe rechtfertigt nicht ohne Begründung denselben Gehalt sämtlicher anderer Asservate.
 
-## 2. Fachlicher Direktstart
+Für die nicht geringe Menge nach [Paragraf 29a BtMG](https://www.gesetze-im-internet.de/btmg_1981/__29a.html) sind die stoffbezogenen Voraussetzungen eigenständig zu prüfen. Zahlenwerte nur nach amtlicher Verifikation der einschlägigen Rechtsprechung verwenden. Ein Polizeivermerk mit Gesamtgewicht ersetzt keinen Wirkstoffnachweis. Fehlen Werte, liefere bedingte Rechenwege und die konkrete Beweislücke, keine frei erfundene Reinheit. Auch eine belastbare Schätzung bedarf benannter Grundlagen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welcher Tatvorwurf wird mit welcher Norm verbunden.
-2. Kernprüfung in einem Durchgang: Welche Tatsache wird durch welches Beweismittel getragen; Welche Beweisverwertungs- oder Aussageprobleme sind entscheidend.
-3. Belege und Engpass zusammenführen: Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff; besonders kritisch ist: Haft, Durchsuchung, Beschlagnahme oder Aussageentscheidung steht unmittelbar an.
-4. Erstes Arbeitsprodukt liefern: Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.
+## 1.3 Tatnachweis und Verteidigung
 
-## 3. Kernroute
+Ordne jeder Tatvariante ihre Tatsachen und Beweismittel zu. Unterscheide sichergestellten Bestand, behauptete frühere Geschäfte und bloße Vermutung. Handel und Eigenkonsum sind gegebenenfalls mengenbezogen aufzuteilen; eine undifferenzierte Addition aller Funde ist kein Ersatz für Tat- und Konkurrenzprüfung. Prüfe belastende wie entlastende Umstände und kennzeichne Aussagen anderer Beschuldigter als solche.
 
-1. Blitz-Zergliederung: jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen.
-2. Beweise und Einlassung: Zeugen, Urkunden, Sachverständige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten.
-3. Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen.
-4. Prozessuales: Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst.
-5. Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.
+Beurteile Rechtmäßigkeit einer Maßnahme und Verwertbarkeit ihres Ergebnisses getrennt. Ein Ermittlungsfehler führt nicht automatisch zum Wegfall jedes Beweises. Bei fehlender Aktenkenntnis keine Einlassung erfinden oder empfehlen, Beweismittel zu beseitigen. Formuliere stattdessen den konkret nötigen Akteneinsichts-, Untersuchungs- oder Verteidigungsschritt. Rückfragen nur zu Lücken, die diesen Schritt verändern.
 
-## 4. Fallkarte
+## 1.4 Folgen und Arbeitsprodukt
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | StPO Paragraf 152 Absatz 2; StPO Paragraf 160; StPO Paragraf 170 |
-| Rechtsprechung | BGH, Urteil vom 30.07.1999 - 1 StR 618/98; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 |
-| Tatbestand | Jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen |
-| Beweislast | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff |
-| Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Erst nach Tatbestand und Nachweislage Strafrahmen, mögliche Milderung, Therapieoption, Einziehung und sonstige Folgen fallbezogen prüfen. Abhängigkeit, Therapiebereitschaft und Aufklärungshilfe sind unterschiedliche Fragen; verspreche keine automatische Einstellung oder Vollstreckungszurückstellung. Bei ärztlichen oder betrieblichen Vorgängen prüfe die tatsächlichen Dokumentations- und Erlaubnispflichten statt strafrechtlicher Standardtexte.
 
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Blitz-Zergliederung | Jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweise und Einlassung | Zeugen, Urkunden, Sachverständige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Tatbestand | Objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-
-## 6. Anker
-
-- StPO Paragraf 152 Absatz 2: Legalitätsprinzip und Anfangsverdacht.
-- StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
-- StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
-- StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- Paragraf 94 StPO — Sicherstellung/Beschlagnahme; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Hat das Gericht ausnahmsweise ein Glaubhaftigkeitsgutachten eingeholt, müssen Hypothesenbildung, wissenschaftlicher Methodenstand, Transparenz und alternative Entstehungserklärungen nachvollziehbar geprüft werden; die Entscheidung ist kein allgemeiner Aussage-gegen-Aussage-Anker.
-- BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Ist der einzige Belastungszeuge in Teilen seiner Aussage widerlegt, darf das Gericht dem verbleibenden Aussagekern nur bei gewichtigen, außerhalb der Aussage liegenden Gründen folgen und muss diese in den Urteilsgründen darlegen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag.
-7.2. Norm: StPO Paragraf 152 Absatz 2; StPO Paragraf 160 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Blitz-Zergliederung“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Beweisverwertungsverboten, Aussagekonstanz und alternativen Geschehensabläufen.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Blitz-Zergliederung“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Haft, Durchsuchung, Beschlagnahme oder Aussageentscheidung steht unmittelbar an. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere vollständige Sätze, eine überprüfbare Mengenrechnung und den beauftragten Entwurf. Weitere Normen und Entscheidungen in amtlichen Primärquellen verifizieren; keine ungeprüften Grenzwerttabellen oder Aktenzeichen. Optional verfügbare Spezialskills dürfen ergänzen, diese Anleitung bleibt eigenständig. Ohne Datei- oder Quellenzugriff den begrenzten Prüfstand nennen. Keine externe Erklärung ohne Auftrag. Dezimale Gliederung, Export in Times New Roman 11 pt.

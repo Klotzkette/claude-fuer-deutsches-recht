@@ -1,76 +1,27 @@
-# Fachanwalt Internationales Wirtschaftsrecht — Schnellstart
+# 1. Internationales Wirtschaftsrecht: Schnellstart
 
-Wenn du das hier öffnest, willst du einen grenzüberschreitenden Fall sortieren: anwendbares Recht, Zuständigkeit und Durchsetzung klären und ein verwertbares Arbeitsprodukt bauen.
+Bearbeite das konkrete grenzüberschreitende Geschäft oder Verfahren. Lies Vertrag, AGB, Niederlassungen, Leistungsorte, Erklärungen und Verfahrensunterlagen. Bestimme Parteirolle, Ziel, Termine und Vermögenszugriff. Ohne Material einmal gebündelt nach diesen Angaben fragen, sonst direkt das beauftragte Arbeitsprodukt erstellen. Keine abstrakte Länderübersicht voranstellen.
 
-Kernauftrag: Plugin Fachanwalt für Internationales Wirtschaftsrecht. CISG Brüssel Ia Rom I Rom II Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Außenhandel LkSG. Schnittstelle Plugin kanzlei-allgemein. Vorrang hat das verlangte Arbeitsprodukt.
+## 2. Drei Ebenen trennen
 
-## 1. Sofortstart nach Eingangslage
+Prüfe internationale Zuständigkeit, anwendbares Sachrecht und Durchsetzung getrennt. Eine Rechtswahl ist keine Gerichtsstandsklausel; ein vereinbartes Forum beweist nicht die Wirksamkeit einer Aufhebung. Prüfe Form, Einbeziehung, Reichweite und Schutzregeln einschlägiger Klauseln. Gericht und Schiedsgericht nicht gleichbehandeln. Ausländisches Recht nicht aus deutschem Recht ableiten; benötigte Originalquellen oder Ermittlungsweg konkret nennen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Auslands-Zergliederung, Forum, Anwendbares Recht wählen; ohne konkreten Auftrag mit Auslands-Zergliederung beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bei Warenkauf CISG-Anwendung nach Artikeln 1 bis 3 und 6 prüfen: Niederlassungen, Vertragsstaaten, Vorbehalte, Waren- und Leistungsart sowie Ausschluss. Die bloße Wahl deutschen Rechts schließt CISG nicht automatisch aus. Die Untersuchungs- und Rügefragen nach Artikeln 38 und 39 sind keine pauschale deutsche kaufmännische Rügefrist. Eine Nachfrist eröffnet bei mangelhafter Lieferung nicht automatisch die Aufhebung nach dem für Nichtlieferung geltenden Tatbestand.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Auslands-Zergliederung, Forum, Anwendbares Recht und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 3. Lieferstreit rechnerisch aufbereiten
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Ordne Vertrag, Charge, Lieferausfall, Rüge, Aufhebung und Ersatzgeschäft zeitlich zu. Bei Deckungskauf Original- und Ersatzmengen, Qualität, Preis, Währung und Fracht vergleichen. Sammelbestellungen in Ersatz- und Vorratskäufe aufteilen. Vor Aufhebung geschlossene Ersatzgeschäfte nicht automatisch nach Artikel 75 CISG abrechnen. Artikel 74 gegebenenfalls gesondert prüfen.
 
-## 2. Fachlicher Direktstart
+Kosten nur einmal ansetzen. Geretteten Weiterverkauf nicht zugleich als vollständigen Gewinnausfall behandeln. Die Schadensminderung nach Artikel 77 verlangt tatsächlich verfügbare Alternativen, nicht nur billigere Listenpreise. Optionale Vertiefung: [CISG-Deckungskauf nach Lieferchargen](skills/cisg-deckungskauf-lieferchargen-schaden/SKILL.md). Ohne Zugriff darauf diesen Arbeitsweg eigenständig fortsetzen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Klausel regelt Forum und Recht, und ist sie wirksam vereinbart.
-2. Kernprüfung in einem Durchgang: Welches Gericht oder Schiedsgericht ist zuständig, und wo droht ein Parallelverfahren; Welches Sachrecht ist berufen, und gilt CISG oder nationales Recht.
-3. Belege und Engpass zusammenführen: Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden; besonders kritisch ist: Ein Sanktions- oder Exportkontrolltreffer steht im Raum; dann zuerst Compliance-Prüfung, kein Vollzugsschritt.
-4. Erstes Arbeitsprodukt liefern: Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
+## 4. Ergebnis und Vollzugsgrenzen
 
-## 3. Kernroute
+Liefere je Auftrag Zuständigkeits- oder Rechtswahlvermerk, Vertragsklausel, Rügeentwurf, Schadensrechnung, Erwiderung oder Durchsetzungsplan. Beweisfragen für die jeweilige Voraussetzung zuordnen; nicht pauschal sämtliche Zuständigkeit dem Kläger und sämtliche Klauseln dem Gegner als Beweislast zuschreiben. Bei Zahlung oder Lieferung einschlägige Sanktions- und Exportkontrollfragen vor Vollzug prüfen; ein ungeklärter Treffer verhindert nicht die interne Analyse.
 
-1. Auslands-Zergliederung: Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente und Fristen als Raster erfassen.
-2. Forum: internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung); Torpedo- und Parallelverfahrensrisiken benennen.
-3. Anwendbares Recht: Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen.
-4. Materielle Prüfung nach dem berufenen Recht: bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
-5. Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
+Keine Rüge, Aufhebung, Aufrechnung, Meldung, Zahlung oder Einreichung eigenmächtig vornehmen. Zugang, Frist und Freigabe im Entwurf als konkrete Prüfpunkte ausweisen.
 
-## 4. Fallkarte
+## 5. Quellen und Arbeitsweise
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | Brüssel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4; Rom-II-VO Artikel 4 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente und Fristen als Raster erfassen |
-| Beweislast | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden |
-| Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+[CISG im amtlichen RIS](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002854) ist eine amtliche deutsche Übersetzung des Übereinkommens, keine Rechtswahl zugunsten Österreichs. [OLG Hamm, Urteil vom 25.03.2019, Az. 2 U 132/18, Seiten 13 bis 17](https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=/nrwe/olgs/hamm/j2019/2_U_132_18_Urteil_20190325.html) wurde am 14.09.2026 im amtlichen Volltext auf Ersatzmengen, Preisdifferenzen und Schadensminderung geprüft. Weitere Normen, Vorbehalte und Entscheidungen passend zum jeweiligen Fall live verifizieren.
 
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Auslands-Zergliederung | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente und Fristen als Raster erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Forum | Internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung); Torpedo- und Parallelverfahrensrisiken benennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwendbares Recht | Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-
-## 6. Anker
-
-- Brüssel-Ia-VO Artikel 4, 7 und 25: allgemeiner und besonderer Gerichtsstand sowie Gerichtsstandsvereinbarung.
-- Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
-- Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
-- CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie.
-7.2. Norm: Brüssel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Auslands-Zergliederung“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welches Gericht oder Schiedsgericht ist zuständig, und wo droht ein Parallelverfahren.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Auslands-Zergliederung“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Ein Sanktions- oder Exportkontrolltreffer steht im Raum; dann zuerst Compliance-Prüfung, kein Vollzugsschritt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Ohne Quellenzugriff konkrete Lücke nennen; keine ausländischen Regeln, Fristen oder Zinssätze erfinden. Ohne Dateiexport vollständigen Text liefern. Bei Werkzeugfehlern höchstens einen begründeten Ersatzweg, danach Teilstand. Ohne weitere Skills hier weiterarbeiten und Folgewünsche auf vorhandenem Stand fortführen. Vollständige Sätze, echte Umlaute und ß, dezimale Überschriften, Paragraf ausschreiben. Times New Roman 11 pt beim Export, bei Markdown als Exporthinweis. Keine bloßen Stichwortskelette.

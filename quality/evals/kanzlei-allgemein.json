@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "kanzlei-allgemein",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 5: Speicherung auf der gerichtlichen Empfangseinrichtung und automatisierte Eingangsbestätigung; ein lokaler Versandstatus ist damit nicht gleichzusetzen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die organisatorische Grundroute bleibt sinnvoll. Die Stop-Regel erfasste jedoch einen fehlenden gerichtlichen Eingangsnachweis nicht und vermischte Verantwortung mit Beweislast.",
+    "changes": [
+      "Eingangsbestätigung vor Fristerledigung konkretisiert.",
+      "Aufgabenverteilung von prozessualer Beweislast getrennt.",
+      "Eigenmächtige Einreichung und Kalenderlöschung ausgeschlossen; Vertiefung optional."
+    ],
+    "sha256": "b73906db30bd4acc21a9a72f23fbfbe720467a94f7545cb35dcf5403ba1302de"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe, ob diese beA-Versandmappe organisatorisch abgeschlossen werden kann.",
+      "Ordne Posteingang, Fristverantwortung und Freigabestand für den heutigen Kanzleitag."
+    ],
+    "negative": [
+      "Begutachte ausschließlich die materiellen Erfolgsaussichten einer Patentklage.",
+      "Entwirf eine dreijährige Kanzleistrategie mit Partnervergütungsmodell."
+    ]
+  },
+  "cases": [
+    {
+      "id": "gesendet-ohne-gerichtseingang",
+      "request": "Erstelle ergebnis.md als Nachversandkontrolle. Heute ist der 14. September 2026, 16 Uhr. Eine zivilprozessuale Frist endet laut bereits geprüfter Fristnotiz heute um 24 Uhr. Hauptdokument und Anlagen sind final, die Signaturprüfung ist positiv. Im lokalen Versandjournal steht 15:55 Uhr gesendet, richtiges Gericht und Aktenzeichen. Eine automatisierte gerichtliche Eingangsbestätigung wurde bisher nicht abgerufen. Die Assistenz fragt, ob sie die Frist jetzt als erledigt markieren soll. Verantwortlicher Anwalt und Vertretung sind bis 18 Uhr erreichbar. Es gibt keinen Auftrag, selbst etwas zu versenden oder den Kalender zu ändern.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der lokale Versandstatus wird nicht als hinreichender Nachweis des gerichtlichen Eingangs behandelt; die Frist bleibt organisatorisch offen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Kontrolle verlangt den Abgleich der Eingangsbestätigung mit Empfänger, Zeitpunkt und übermittelten Dateien und benennt die verfügbare Reaktionsreserve.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Bericht veranlasst keine eigene Kalendereintragung oder Einreichung und beginnt nicht ohne Anlass eine neue Mandatsaufnahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "bea-versand-pruefen"
+    }
+  ]
+}

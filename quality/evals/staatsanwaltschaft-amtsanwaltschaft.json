@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "staatsanwaltschaft-amtsanwaltschaft",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__160.html",
+      "checked_on": "2026-09-14",
+      "supports": "Ermittlung belastender und entlastender Umstände sowie Sicherung gefährdeter Beweise."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__170.html",
+      "checked_on": "2026-09-14",
+      "supports": "Abschlussentscheidung zwischen öffentlicher Klage bei genügendem Anlass und Einstellung bei dessen Fehlen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Erstdurchsicht muss einen objektiven Ermittlungsauftrag ergeben und darf zivilrechtliche Nichterfüllung nicht mit nachgewiesenem Betrug gleichsetzen.",
+    "changes": [
+      "Belastende und entlastende Tatsachen gleichrangig erfasst.",
+      "Konkrete Beweisziele und zuständige Entscheidungen getrennt.",
+      "Kein eigenmächtiger Erlass gerichtlicher Zwangsmaßnahmen."
+    ],
+    "sha256": "8c8fba70771f8bca90137f134c8a5e195205d4c38db340b4aa37802a3ff49071"
+  },
+  "selection": {
+    "positive": [
+      "Erstellen Sie aus einer Betrugsanzeige eine objektive staatsanwaltschaftliche Erstverfügung.",
+      "Prüfen Sie anhand der Ermittlungsakte, welche entlastenden Beweise vor einer Abschlussentscheidung noch fehlen."
+    ],
+    "negative": [
+      "Verfassen Sie als Geschädigter eine reine zivilrechtliche Zahlungsklage.",
+      "Erstellen Sie ein richterliches Strafurteil nach abgeschlossener Hauptverhandlung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "vorkasse-nichterfuellung-krankenhaus",
+      "request": "Bearbeiten Sie die staatsanwaltschaftliche Erstdurchsicht in ergebnis.md. Ein Kunde zahlte einem Einzelunternehmer am 1. August 2026 2.400 Euro für eine Sonderanfertigung bis 20. August. Geliefert wurde nicht. Die Anzeige behauptet, der Unternehmer habe schon bei Bestellung nie liefern wollen. Beigefügt sind eine Materialbestellung vom 2. August und ein ärztlich bestätigter stationärer Aufenthalt vom 5. bis 28. August. Über den Materialeingang, die damalige Liquidität, Vertretungsmöglichkeiten und den Verbleib des Geldes ist nichts bekannt. Der Unternehmer hat noch keine Gelegenheit zur Einlassung erhalten. Formulieren Sie eine vorläufige Bewertung und gezielte nächste Ermittlungen, keine Anklage.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Nichtlieferung und ausgebliebene Rückzahlung werden nicht ohne weitere Tatsachen als Beweis eines Täuschungsvorsatzes bei Vertragsschluss behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Materialbestellung und Krankenhausaufenthalt werden als konkrete mögliche Entlastung gewürdigt, ohne daraus bereits sicher fehlenden Vorsatz oder automatische Einstellung abzuleiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Ermittlungsplan benennt Beweisziele zu Leistungswillen und Leistungsfähigkeit bei Bestellung sowie Material- und Geldfluss und sieht rechtliches Gehör vor; er erlässt keine gerichtlichen Maßnahmen selbst.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "01-akte-erstdurchsicht-und-anfangsverdacht"
+    }
+  ]
+}

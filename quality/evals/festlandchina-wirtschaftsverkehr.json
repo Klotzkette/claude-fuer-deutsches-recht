@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "festlandchina-wirtschaftsverkehr",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2012/1215/oj/deu",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 6: Zuständigkeit für Drittstaatenbeklagte grundsätzlich nach nationalem Recht mit ausdrücklichen Ausnahmen, insbesondere Artikel 25."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die allgemeine IPR-Routine stellte Brüssel-Ia zu pauschal vor einen Festlandchinafall und ließ Vertragspartneridentität offen.",
+    "changes": [
+      "Registernamen, Handelsgesellschaft und Zahlungsempfänger getrennt.",
+      "Drittstaatenbeklagte und lokale Anerkennung gesondert geprüft."
+    ],
+    "sha256": "0cb58d12f650f093596edea83df4f556bd679f73b96a480785e93a10882776c9"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe Vertragspartner und Zahlungsweg beim Einkauf in Shenzhen.",
+      "Ordne Rechtswahl und Schiedsort im chinesischen Liefervertrag."
+    ],
+    "negative": [
+      "Prüfe einen rein deutschen Warenkauf.",
+      "Erkläre ausschließlich einen privaten Visumantrag für Hongkong."
+    ]
+  },
+  "cases": [
+    {
+      "id": "shenzhen-vertrag-hongkong-konto",
+      "request": "Eine deutsche GmbH bestellt Bauteile bei einer Gesellschaft mit ausschließlichem Sitz in Shenzhen. Der Vertrag nennt einen chinesischen Registernamen und deutsche Rechtswahl, aber weder Gericht noch Schiedsgericht. Die Rechnung fordert Zahlung auf das Konto einer anders benannten Gesellschaft in Hongkong; Vollmacht, Konzernnachweis und Abtretung fehlen. Lieferung soll in Hamburg erfolgen. Vor Überweisung sollen in ergebnis.md Identitätslücken und gerichtlicher Prüfweg dargestellt werden. Es gibt keinen bekannten Sanktionstreffer. Keine Zahlung auslösen und kein ungeprüftes chinesisches Anerkennungsrecht behaupten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Hongkonger Zahlungsempfängerin wird nicht ohne Nachweis mit der Vertragspartnerin gleichgesetzt; konkrete Zahlungsberechtigung wird nachgefordert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die deutsche Rechtswahl wird nicht als deutsche Gerichtsstandsvereinbarung behandelt und Artikel 7 Brüssel-Ia nicht allein wegen Hamburg automatisch angewandt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Prüfweg trennt deutsche Zuständigkeit, CISG-Frage und spätere Anerkennung in China mit benannten lokalen Recherchegrenzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "chn-055-contract-language-and-governing-law"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "plugin": "produktrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R0988",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 9 Absatz 8: Korrektur und Meldung; Artikel 35: direkte Information erreichbarer Verbraucher; Artikel 36: konkrete Rückrufanzeige ohne Risikoverharmlosung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die alte Fassung enthielt ungesicherte Meldezuständigkeiten und ersetzte bei Gefahr die eigentliche Sicherheitsarbeit durch einen Stopp.",
+    "changes": [
+      "Chargen- und Mengenabgleich sowie Rücknahme und Rückruf unterschieden.",
+      "Direktinformation, Behördenmeldung und Rückrufinhalt anhand GPSR konkretisiert.",
+      "Ungeprüfte ProdSG- und Bußgeldanker entfernt."
+    ],
+    "sha256": "b87b7da5172b59a2af96fb28bfb0d5d9442eae01e3e6b5bfacf81ac1987da83c"
+  },
+  "selection": {
+    "positive": [
+      "Entwirf Rückruf und Maßnahmenplan für unsere gefährliche Produktcharge.",
+      "Prüfe eine Launch-Freigabe anhand von Sicherheitsprüfung und Reklamationen."
+    ],
+    "negative": [
+      "Prüfe ausschließlich die CE-Kennzeichnung als irreführende Werbeaussage in einer Wettbewerberabmahnung, ohne technische Sicherheitsbewertung.",
+      "Fordere wegen eines rein kosmetischen Mangels ohne Sicherheitsrisiko kaufrechtliche Nacherfüllung vom Händler."
+    ]
+  },
+  "cases": [
+    {
+      "id": "klapphocker-rueckruf-reichweite",
+      "request": "Erstelle ergebnis.md als internen Maßnahmenplan und Entwurf einer Rückrufanzeige. Hersteller H vertreibt in Deutschland den nicht elektrischen Klapphocker Sitzklar, Charge K24, über seinen Webshop. Die Charge steht auf der Unterseite. 1000 Stück wurden hergestellt; 200 liegen noch im eigenen Lager, 800 wurden an namentlich und per E-Mail bekannte Privatkunden ausgeliefert. Ein bestätigter Fertigungsfehler lässt das Gelenk bei normalem Sitzen brechen; ein Kunde erlitt einen Armbruch. Alle 1000 Stück sind betroffen. H bietet kostenlose Abholung und volle Kaufpreiserstattung; eine sichere Reparatur steht noch nicht bereit. Produktfoto und gebührenfreie Hotline werden vor Veröffentlichung ergänzt. Die Anwendbarkeit der GPSR ohne verdrängendes Spezialrecht ist für diesen Auftrag vorgegeben. Die Geschäftsführung möchte lediglich den Shop sperren und einen kleinen Websitehinweis 'vorsorglicher Austausch' setzen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet die Sperrung der 200 Lagerstücke von dem erforderlichen Vorgehen für die 800 ausgelieferten Hocker.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Plant direkte unverzügliche Information der bekannten Käufer und behandelt einen Websitehinweis nicht als ausreichenden Ersatz.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Beschreibt Gelenkbruch, Verletzungsgefahr, sofortigen Nutzungsstopp und kostenlose Abhilfe klar, ohne den Rückruf als bloß vorsorglichen Austausch zu verharmlosen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Bereitet die gesonderte Behördeninformation vor und markiert Foto sowie Hotline als noch zu ergänzende Veröffentlichungselemente, ohne Meldung oder Rückruf als durchgeführt auszugeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "prodr-produktrueckruf-leitfaden"
+    }
+  ]
+}

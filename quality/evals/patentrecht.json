@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "patentrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/__14.html",
+      "checked_on": "2026-09-14",
+      "supports": "Patentansprüche bestimmen den Schutzbereich; Beschreibung und Zeichnungen dienen der Auslegung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Das generische Rechercheduplikat führte keinen lückenlosen Vergleich der geltenden Anspruchsfassung mit konkreten Produktbelegen durch.",
+    "changes": [
+      "Anspruchsversion, Offenbarungsgrundlage und einzelne Produktmerkmale ins Zentrum gestellt.",
+      "Fehlendes Merkmal und gesonderte Äquivalenzprüfung unterschieden; ungesicherte Entscheidungsanker entfernt."
+    ],
+    "sha256": "c820fd3f974b5da02524537e75ed34fc4719763685ecde565be3d96ca7d37943"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe mein Produkt anhand des geltenden Patentanspruchs auf Verletzung.",
+      "Ordne geplante Anspruchsänderungen den ursprünglichen Offenbarungsstellen zu."
+    ],
+    "negative": [
+      "Erstelle ausschließlich Suchstrings und ein Datenbankprotokoll ohne rechtliche Patentbewertung.",
+      "Prüfe ausschließlich den Designschutz der äußeren Gehäuseform, ohne technische Schutzrechte."
+    ]
+  },
+  "cases": [
+    {
+      "id": "fehlender-positionssensor",
+      "request": "Erstelle ergebnis.md als Claim Chart und vorläufigen Verletzungsvermerk zu einem fiktiven, für diese Übung als geltend angenommenen deutschen Patent. Anspruch 1 verlangt einen Behälter, einen motorischen Deckelantrieb und einen optischen Sensor zur Feststellung der Deckelposition. Beschreibung Absatz 12 erläutert den optischen Sensor als Lichtsender und Empfänger; andere Sensoren werden nicht erwähnt. Das angegriffene Gerät hat nach übereinstimmendem Handbuch und geöffnetem Prüfexemplar Behälter und Motor, misst aber ausschließlich Motorstrom und besitzt keinen optischen Sender oder Empfänger. Es erreicht eine automatische Abschaltung am Deckelanschlag. Rechteinhaberschaft und Deutschlandvertrieb sind unstreitig. Bitte keine externe Suche nach einer Patentnummer, sondern Bewertung dieses vollständig vorgegebenen technischen Vergleichs.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet alle drei Anspruchsmerkmale einzeln zu und erkennt den nicht verwirklichten optischen Positionssensor.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verneint eine belegte wortsinngemäße Verwirklichung des gesamten Anspruchs trotz gleicher Abschaltfunktion.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Behandelt Äquivalenz allenfalls als eigenständige offene Prüfung und leitet sie nicht allein aus dem gleichen Abschaltergebnis ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "patentverletzung-claim-patr2"
+    }
+  ]
+}

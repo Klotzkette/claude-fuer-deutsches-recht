@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "plugin": "datenschutzrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {"url":"https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de","checked_on":"2026-09-14","supports":"Artikel 12, 28, 30, 33 und 34: Antwortfrist, Auftragsverarbeitung, Verzeichnis auch bei regelmäßiger Verarbeitung kleiner Unternehmen sowie Meldungsinhalt, 72 Stunden und gesonderte Benachrichtigung."},
+    {"url":"https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0300","checked_on":"2026-09-14","supports":"EuGH, Urteil vom 4. Mai 2023, C-300/21: Verstoß allein reicht für Schadensersatz nicht; keine abstrakte Erheblichkeitsschwelle für immateriellen Schaden."},
+    {"url":"https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de","checked_on":"2026-09-14","supports":"Artikel 4a als eingeschränkte Bias-Datenregel anstelle von Artikel 10 Absatz 5; Kompetenzförderung und differenzierte Hochrisiko-Anwendungsdaten, keine Aussetzung der DSGVO."},
+    {"url":"https://www.gesetze-im-internet.de/ki-mig/__2.html","checked_on":"2026-09-14","supports":"Systemaufsicht der Bundesnetzagentur mit besonderen Zuständigkeiten; keine pauschale Übernahme der Datenschutzaufsicht."},
+    {"url":"https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29","checked_on":"2026-09-14","supports":"COM(2025) 837 ist weiterhin ein laufendes Reformverfahren, keine geltende 96-Stunden-Frist."},
+    {"url":"https://eur-lex.europa.eu/procedure/EN/2025_130?qid=1748035370044&rid=3","checked_on":"2026-09-14","supports":"COM(2025) 501 gehört zum noch laufenden Verfahren 2025/0130/COD; vorgeschlagene Erleichterungen nicht vorwegnehmen."}
+  ],
+  "mini_review": {"sha256":"a42ac6756d583c3ddcfae9187dafc55858c57d2391eec8524bf36c8070331e14",
+    "verdict": "revised",
+    "reason": "Die jüngere Fassung enthielt eine differenzierte und erhaltenswerte Reformkarte. Der Abgleich mit dem Datenpannen-Spezialskill zeigte Ergänzungsbedarf beim unmittelbar nutzbaren Inhalt der Erstmeldung, nicht Bedarf für eine neue allgemeine Datenschutzeinführung.",
+    "changes": ["Erstmeldungsfelder, Schätzungen, Nachlieferung und gesonderten Betroffenenbrief ergänzt.","COM(2025) 837 und COM(2025) 501 sowie Artikel 4a, Kompetenzförderung, Hochrisikofristen und getrennte Aufsicht erhalten.","Allgemeine Bedienformel durch sachbezogenen Aktenstart ersetzt und Zusatzmaterial ausdrücklich optional gemacht."]
+  },
+  "selection": {
+    "positive": ["Bereite nach einem Fehlversand von Patientenunterlagen die Erstmeldung und die Betroffeneninformation vor.","Prüfe, ob wir bei achtzig Beschäftigten die laufende Lohnabrechnung aus unserem Verarbeitungsverzeichnis entfernen dürfen."],
+    "negative": ["Lege gegen einen bereits zugestellten Datenschutz-Bußgeldbescheid Einspruch ein und entwickle die Verteidigungsstrategie.","Prüfe ausschließlich das Datenbankherstellerrecht an nicht personenbezogenen Geodaten."]
+  },
+  "cases": [{
+    "id": "patientenexport-kein-warten-auf-forensik",
+    "request": "Die Praxiszentrum Süd GmbH in Stuttgart erfährt am 14. September 2026 um 09:00 Uhr durch eine bestätigte Logauswertung, dass ein Mitarbeiter am Vorabend versehentlich einen unverschlüsselten Exportlink an einen unbeteiligten externen Empfänger versandt hat. Dieser hat den Export vollständig heruntergeladen. Nach dem Exportprotokoll sind ungefähr 150 Patienten mit Namen, Kontaktdaten und Diagnosen betroffen; die genaue Zahl einzelner Datensätze wird erst die Forensik am 20. September liefern. Der Link ist seit 09:10 Uhr gesperrt. Eine Löschbestätigung des Empfängers fehlt; es gibt keine Anhaltspunkte, dass die heruntergeladenen Daten unlesbar sind. Die Datenschutzkontaktstelle lautet datenschutz@praxiszentrum-sued.example. Die Geschäftsführung möchte wegen einer Nachricht über den Digitalen Omnibus 96 Stunden warten und dann den Abschlussbericht abwarten. Erstelle in ergebnis.md einen entscheidungsreifen Frist- und Risikovermerk, eine zur Freigabe geeignete Erstmeldung an die zuständige Datenschutzaufsicht und einen gesonderten Patientenbrief. Kein Versand.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id":"C01","text":"Das Ergebnis setzt unverzügliches Handeln und die 72-Stunden-Marke am 17. September 2026 um 09:00 Uhr an; weder 96 Stunden noch der 20. September werden als zulässiger pauschaler Wartezeitpunkt übernommen.","deliverables":["ergebnis.md"]},
+      {"id":"C02","text":"Die Erstmeldung verwendet die belegten Kategorien, ungefähre Patientenzahl, Kontaktstelle, Folgen und Link-Sperrung; fehlende Datensatzzahlen werden offengelegt und nachzuliefern vorgesehen, nicht erfunden.","deliverables":["ergebnis.md"]},
+      {"id":"C03","text":"Der vollständige unverschlüsselte Diagnoseabfluss wird als Grundlage eines hohen Risikos gewürdigt und ein gesonderter verständlicher Patientenbrief vorbereitet; die Linksperre wird nicht als Rückholung des Downloads behandelt.","deliverables":["ergebnis.md"]},
+      {"id":"C04","text":"COM(2025) 837 wird als Vorschlag vom geltenden Melderecht unterschieden; eine Meldung an die Bundesnetzagentur wird nicht als Ersatz für die Datenschutzmeldung vorgeschlagen.","deliverables":["ergebnis.md"]}
+    ],
+    "target_skill": "datenpanne-meldung"
+  }, {
+    "id": "personalverwaltung-verzeichnis-omnibus",
+    "request": "Unsere Handwerk GmbH hat 80 Beschäftigte und rechnet deren Löhne monatlich ab. Im bestehenden Verzeichnis sind Lohnabrechnung, Arbeitszeitverwaltung und die Verwaltung von Arbeitsunfähigkeitsmeldungen erfasst. Der Geschäftsführer möchte am 14. September 2026 diese drei Einträge löschen, weil er von einer Omnibus-Befreiung für Unternehmen unter 1000 Mitarbeitern gelesen hat. Neue Systeme oder andere Verarbeitungen stehen nicht an. Verfasse in ergebnis.md eine kurze Entscheidungsvorlage für diese konkrete Bereinigung und grenze die einschlägigen Reformvorhaben vom derzeit anzuwendenden Verzeichnisrecht ab.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id":"C01","text":"Die Vorlage empfiehlt nicht die beantragte vollständige Entfernung: Die regelmäßige Personalverarbeitung wird trotz 80 Beschäftigten als vom Verzeichnis erfasst eingeordnet.","deliverables":["ergebnis.md"]},
+      {"id":"C02","text":"Die Verwaltung von Arbeitsunfähigkeitsmeldungen wird zusätzlich im Hinblick auf besondere Datenkategorien betrachtet, statt ausschließlich die Beschäftigtenzahl zu zählen.","deliverables":["ergebnis.md"]},
+      {"id":"C03","text":"COM(2025) 501 und das andere Vorhaben COM(2025) 837 werden nicht als schon geltende allgemeine 1000-Personen-Befreiung angewandt; das Ergebnis bleibt auf die drei bezeichneten Verarbeitungstätigkeiten bezogen.","deliverables":["ergebnis.md"]}
+    ],
+    "target_skill": "verarbeitungsverzeichnis-vvt-generator"
+  }]
+}

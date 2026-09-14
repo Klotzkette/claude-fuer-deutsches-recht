@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "plugin": "insolvenzrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__17.html",
+      "checked_on": "2026-09-14",
+      "supports": "Fällige Zahlungspflichten und Vermutung bei Zahlungseinstellung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__15a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlichen Normauszug geprüft: Antrag ohne schuldhaftes Zögern, Dreiwochen- beziehungsweise Sechswochenhöchstfrist."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=1152&nr=140413&pos=16",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 23.01.2025, Az. IX ZR 229/22: amtlich indexierter Leitsatz zum Nennwert vorläufig vollstreckbarer Titel bei eingeleiteter Vollstreckung geprüft; direkter Volltextabruf gescheitert."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2017-12-19&Gericht=bgh&Sort=6&anz=26&nr=43965&pos=13",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 19.12.2017, Az. II ZR 88/16: amtlich indexierten Leitsatz 2 und Auszüge geprüft; neue Fälligkeiten gehören in die Dreiwochen-Liquiditätsbilanz. Keine aktuelle Haftungsaussage aus dem damaligen Paragraf 64 GmbHG abgeleitet."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Alttext enthielt den fachfremden Paragraf 28 VVG und verlangte trotz Insolvenzreife-Einstieg als erstes Produkt Anfechtung und Plan. Die Stopregel bei möglicher Antragspflicht verhinderte sinnvolle Sicherungsarbeit.",
+    "changes": [
+      "Insolvenzreife, Anmeldung, Anfechtung und Sanierung rollenabhängig getrennt.",
+      "Fachfremden VVG-Anker entfernt und neue Fälligkeiten symmetrisch zu Zuflüssen aufgenommen.",
+      "Unverzüglichen Entscheidungsbedarf statt freier Dreiwochenwartezeit und statt Arbeitsabbruch formuliert."
+    ],
+    "sha256": "f62f7ebc0617826a255b2be8bef01746f245488e2f29e42125ceeb0fc6bdb652"
+  },
+  "selection": {
+    "positive": [
+      "Bereinigen Sie die OP-Liste um Dubletten und prüfen Sie den bestrittenen Vollstreckungstitel im Liquiditätsstatus.",
+      "Stimmen Sie Bankmittel, zugesagte Eingänge und neu fällige Löhne in einer Dreiwochenbrücke ab; die Buchhaltung zeigt widersprüchliche Deckungsquoten."
+    ],
+    "negative": [
+      "Melden Sie unsere Lieferforderung zur Insolvenztabelle an und prüfen Sie den Rang.",
+      "Entwerfen Sie einen Insolvenzplan mit Gruppenbildung und Vergleichsrechnung."
+    ],
+    "target_skill": "opos-titelabgleich-dreiwochen-liquiditaetsbruecke"
+  },
+  "cases": [
+    {
+      "id": "titelnennwert-dublette-neue-faelligkeiten",
+      "request": "Wir beraten die Geschäftsführung einer GmbH zum Stichtag 14.09.2026. Frei verfügbar sind 80000 EUR auf dem Geschäftskonto. Weitere 20000 EUR liegen auf einem gesperrten Sicherungskonto und können im nächsten Monat nicht abgerufen werden. Eine zusätzliche Kreditlinie ist nur beantragt. Die OP-Liste enthält 100000 EUR fällige eingeforderte Lieferforderungen; darin ist eine Rechnung über 10000 EUR versehentlich zweimal enthalten. Zusätzlich besteht ein vorläufig vollstreckbarer Titel über 60000 EUR. Er ist zugestellt, erforderliche Sicherheit ist geleistet, die Vollstreckung wurde eingeleitet und ist nicht eingestellt. Die GmbH bestreitet die Forderung weiterhin; ihre Prozessvertretung schätzt die Berufungschance auf 70 Prozent. Die Buchhaltung hat den Titel vollständig aus der OP-Liste herausgenommen. Keine Forderung ist gestundet. Innerhalb der nächsten 21 Tage werden weitere Löhne und Lieferforderungen von insgesamt 50000 EUR fällig und eingefordert. Vertraglich verbindlich zugesagte Kundenzahlungen über 40000 EUR sollen am zehnten Tag eingehen; im Basisszenario sind sie rechtzeitig realisierbar. Ein unverbindlich diskutierter Investorenzufluss von 100000 EUR hat weder Zusage noch Termin. Es gibt keine weiteren Mittel, Verpflichtungen oder bereits geleisteten Zahlungen. Bitte erstellen Sie die OP-Überleitung, Anfangsstatus und kumulierte Dreiwochenrechnung, außerdem ein Szenario ohne Kundenzufluss. Beurteilen Sie den unmittelbaren Entscheidungsbedarf der Geschäftsführung und die Grenzen dieses Datenstands. Keine Zahlungen oder Anträge ausführen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Dublette wird einmal mit 10000 EUR korrigiert, der Titel mit 60000 EUR ohne Prozessrisikoabschlag aufgenommen; Anfangsverbindlichkeiten betragen 150000 EUR.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bei 80000 EUR freien Anfangsmitteln wird eine Anfangslücke von 70000 EUR nachvollziehbar ausgewiesen. Gesperrte Mittel, beantragte Linie und unverbindliche Investorenmittel werden nicht als sichere Liquidität angesetzt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Dreiwochenrechnung stellt 120000 EUR Mittel einem Bedarf von 200000 EUR gegenüber, ergibt 80000 EUR beziehungsweise 40 Prozent Lücke und lässt die neuen Fälligkeiten nicht weg; ohne Kundenzufluss ergeben sich 120000 EUR beziehungsweise 60 Prozent Lücke.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Der erhebliche ungedeckte Bedarf löst einen unverzüglichen menschlichen Prüf- und Entscheidungsbedarf aus; es wird weder eine freie Dreiwochenwartezeit empfohlen noch ein Antrag oder eine Zahlung als ausgeführt dargestellt. Ein früherer Eintritt wird ohne historische Daten nicht erfunden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "opos-titelabgleich-dreiwochen-liquiditaetsbruecke"
+    }
+  ]
+}

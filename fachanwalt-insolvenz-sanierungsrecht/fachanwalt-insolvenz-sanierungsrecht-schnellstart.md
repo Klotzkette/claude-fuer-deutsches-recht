@@ -1,79 +1,27 @@
-# Fachanwalt Insolvenz Sanierungsrecht — Schnellstart
+# 1. Insolvenz- und Sanierungsrecht: Schnellstart
 
-Wenn du das hier öffnest, willst du eine Unternehmenskrise vor der Insolvenz ordnen: Früherkennung, Fortbestehensprognose, StaRUG-Instrumente und Planarchitektur.
+Bearbeite die konkrete Krise, Haftungsfrage, Gläubigerforderung oder Sanierung. Lies Auftrag, Liquiditätsdaten, Fälligkeiten, Finanzierungszusagen und gerichtliche Anordnungen zuerst. Kläre Rolle und Zeitraum: Geschäftsleitung, Verwalter, Gläubiger oder Zahlungsempfänger benötigen unterschiedliche Produkte. Nicht jeden Auftrag in einen StaRUG-Plan umleiten. Ohne Material einmal gebündelt nach Rolle, Stichtag, Konten, fälligen Schulden und Ziel fragen.
 
-Kernauftrag: Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO Paragraf 14. InsO Eröffnung Antragspflicht Paragraf 15a Gläubigerantrag Paragraf 14 InsO. StaRUG Restrukturierungsplan. Vorrang hat das verlangte Arbeitsprodukt.
+## 2. Krisenstadium vor Instrument
 
-## 1. Sofortstart nach Eingangslage
+Prüfe Zahlungsunfähigkeit nach [Paragraf 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html), drohende Zahlungsunfähigkeit und Überschuldung getrennt. Die zwölfmonatige Fortbestehensprüfung nach [Paragraf 19 InsO](https://www.gesetze-im-internet.de/inso/__19.html) ist nicht mit handelsrechtlicher Fortführungsannahme gleichzusetzen. Fehlende Daten nicht als positive Prognose werten. Stichtag, Planhorizont und belastbare Zuflüsse offenlegen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Krisenstadium, Prognose, Instrumentenwahl wählen; ohne konkreten Auftrag mit Krisenstadium beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bei Antragspflicht [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html) prüfen: ohne schuldhaftes Zögern, spätestens drei Wochen nach Zahlungsunfähigkeit beziehungsweise sechs Wochen nach Überschuldung. Höchstfristen sind kein voraussetzungsloser Aufschub. Offene Fristen sofort zur verantwortlichen anwaltlichen Entscheidung bringen; währenddessen belastbare Teile weiterbearbeiten.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Krisenstadium, Prognose, Instrumentenwahl und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 3. Auftragsspezifisch vertiefen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei Organhaftung jede Zahlung mit Tag, Konto, Empfänger, Veranlasser und Beleg erfassen. Konten abstimmen, Umbuchungen erkennen und Sorgfalt nach [Paragraf 15b InsO](https://www.gesetze-im-internet.de/inso/__15b.html) zeitfensterbezogen prüfen. Erst danach geringeren Gläubigerschaden anhand konkreter Gegenleistungen oder Rückflüsse behandeln. Keine pauschale Saldierung mit sämtlichen Einnahmen. Optionale Vertiefung: [Organhaftung und Masseabgleich](skills/organhaftung-zahlungen-masseabgleich/SKILL.md). Ohne Zugriff darauf gelten die hier enthaltenen Prüfschritte.
 
-## 2. Fachlicher Direktstart
+Bei Anfechtung gegen einen Empfänger Rechtshandlung, Benachteiligung, Tatbestand und Kenntnis anhand einzelner Vorgänge prüfen; das ist nicht dieselbe Rechnung wie Organhaftung. Bei Sanierung erst Instrumentenzugang prüfen, dann Gruppen, Eingriffe, Vergleichsrechnung und benötigte Zustimmungen. Bei einer angemeldeten Forderung Rang, Rechtsgrund, Betrag, Sicherheiten und Verfahrensstand aufarbeiten. Nur die für den Auftrag nötigen Unterlagen nachfordern.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Liegt Insolvenzreife vor oder droht sie nur, und ab wann lief die Antragsfrist.
-2. Kernprüfung in einem Durchgang: Tragen Planungsrechnung und Prämissen die Fortbestehensprognose; Welches Instrument erreicht das Sanierungsziel mit dem geringsten Eingriff.
-3. Belege und Engpass zusammenführen: Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen; besonders kritisch ist: Zahlungsunfähigkeit ist eingetreten; Antragsfrist läuft, keine Zahlungen ohne Prüfung.
-4. Erstes Arbeitsprodukt liefern: Prognosevermerk: Stichtag, Planungshorizont, Prämissen, Liquiditätsverlauf, Ergebnis, Dokumentation.
+## 4. Unmittelbares Arbeitsergebnis
 
-## 3. Kernroute
+Liefere den beauftragten Status, Prognosevermerk, Haftungs- oder Anfechtungsvotum, Forderungsentwurf oder Planbaustein. Rechnungen enthalten Einzelposten und Belege, nicht bloß Prozentwerte. Zeige getrennt feststehende Tatsachen, Annahmen, streitige Prämissen und ihre Betragswirkung. Keine positive Prognose aus bloßen Finanzierungsabsichten ableiten.
 
-1. Krisenstadium: Liquiditätsstatus, Prognosehorizont, Insolvenzreife und Antragspflichten feststellen.
-2. Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen.
-3. Instrumentenwahl: freie Sanierung, StaRUG-Rahmen, Eigenverwaltung oder Regelverfahren abwägen.
-4. Planarchitektur: Gruppen, Eingriffe, Vergleichsrechnung, Abstimmung und gerichtliche Bestätigung ordnen.
-5. Arbeitsprodukt: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren.
+Als historischer Abgrenzungsanker dient [BGH, Urteil vom 04.07.2017, Az. II ZR 319/15](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=79247), amtliche Leitsätze zu Gegenleistung, Verwertbarkeit und Liquidationswert unter Paragraf 64 GmbHG alter Fassung. Daraus keine automatische Behandlung heutiger Lohnzahlungen ableiten; Paragraf 15b ist gesondert anzuwenden. Am 14.09.2026 amtlichen Suchauszug geprüft, Volltext gesperrt. Keine ungeprüften Randnummern ergänzen.
 
-## 4. Fallkarte
+## 5. Grenzen und Format
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | StaRUG Paragraf 1; InsO Paragraf 15a und Paragraf 15b; InsO Paragraf 17 bis Paragraf 19 |
-| Rechtsprechung | BGH, Urteil vom 23.01.2025 - IX ZR 229/22; BGH, Urteil vom 24.05.2005 - IX ZR 123/04 |
-| Tatbestand | Liquiditätsstatus, Prognosehorizont, Insolvenzreife und Antragspflichten feststellen |
-| Beweislast | Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen |
-| Rechtsfolge | Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Keine Zahlungen anweisen oder sperren, keine Anträge stellen, Forderungen anmelden oder Anerkenntnisse erklären. Fehlender Zugriff sperrt nur den abhängigen Prüfungsschritt. Ohne Dateiwerkzeug vollständigen Text liefern, ohne Quellenzugriff Prüfbedarf nennen. Nach höchstens einem begründeten Ersatzversuch bei Werkzeugfehlern Teilstand abschließen. Bei Folgewünschen vorhandene Belege weiterverwenden, Änderungen neu prüfen.
 
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Krisenstadium | Liquiditätsstatus, Prognosehorizont, Insolvenzreife und Antragspflichten feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Prognose | Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Instrumentenwahl | Freie Sanierung, StaRUG-Rahmen, Eigenverwaltung oder Regelverfahren abwägen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Planarchitektur | Gruppen, Eingriffe, Vergleichsrechnung, Abstimmung und gerichtliche Bestätigung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- StaRUG Paragraf 1: Krisenfrüherkennung und Krisenmanagement als Organpflicht.
-- InsO Paragraf 15a und Paragraf 15b: Antragspflicht und Zahlungen nach Insolvenzreife.
-- InsO Paragraf 17 bis Paragraf 19: Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung mit Fortbestehensprognose.
-- StaRUG Paragraf 29 ff.: Instrumente des Stabilisierungs- und Restrukturierungsrahmens.
-- Paragraf 17 Abs. 1 und 2 InsO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 19 Abs. 2 InsO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 21 Abs. 1 und 2 InsO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 35 Abs. 1 InsO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko.
-- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren.
-7.2. Norm: StaRUG Paragraf 1; InsO Paragraf 15a und Paragraf 15b mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Krisenstadium“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Tragen Planungsrechnung und Prämissen die Fortbestehensprognose.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Prognosevermerk“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Zahlungsunfähigkeit ist eingetreten; Antragsfrist läuft, keine Zahlungen ohne Prüfung. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Normfassungen zum relevanten Zeitpunkt und aktuelle Rechtsprechung amtlich prüfen. Keine umfassende Aktualitätskontrolle behaupten, die nicht erfolgt ist. Vollständige Sätze, echte Umlaute und ß, dezimale Gliederung und ausgeschriebenes Wort Paragraf. Times New Roman 11 pt bei formatiertem Export, bei Markdown als Exporthinweis; keine Skelette als Endprodukt.

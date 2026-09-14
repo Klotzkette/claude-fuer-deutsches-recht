@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "energierecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/enwg_2005/__111a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Antwort auf Verbraucherbeschwerden binnen vier Wochen ab Zugang sowie Gründe und Schlichtungshinweise bei Nichtabhilfe."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Marktrollenstruktur war brauchbar, erzwang aber auch für Haushaltsrechnungen ein technisches Projektblatt und enthielt einen Satzabbruch.",
+    "changes": [
+      "Verbrauchs- und Abschlagsabgleich ergänzt.",
+      "Konkrete Verbraucherbeschwerde statt pauschaler Projektdatenabfrage."
+    ],
+    "sha256": "e2a3c83838f103f3f40e7fe4dc4c75566be090987466cd3fa3269c0a83e904e9"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe eine Stromrechnung anhand der Zählerstände.",
+      "Ordne ein Netzanschlussbegehren nach Betreiberrolle und Netzebene."
+    ],
+    "negative": [
+      "Berechne eine Mietnebenkostenabrechnung ohne Lieferantenstreit.",
+      "Plane technisch eine Solaranlage ohne rechtliche Fragestellung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zaehlerstand-abschlaege-beschwerde",
+      "request": "Eine Privatkundin beanstandet ihre Stromjahresrechnung. Der belegte Verbrauch beträgt 3.000 kWh, der unveränderte Bruttopreis 0,30 Euro je kWh und der Grundpreis 120 Euro für das volle Jahr. Zwölf Abschläge zu je 100 Euro sind bezahlt. Der Lieferant rechnet irrtümlich 4.000 kWh ab und fordert 120 Euro nach. Die schriftliche Beschwerde ging am 03.08.2026 nachweisbar ein; bis 14.09.2026 gab es keine Antwort. Erstelle ergebnis.md mit korrektem Saldo und Beschwerdeentwurf, ohne Zahlung oder Liefervertrag zu verändern.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Rechnung ergibt 1.020 Euro Jahreskosten und 180 Euro Guthaben statt einer Nachzahlung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Ergebnis erkennt die überschrittene vierwöchige Antwortfrist anhand des belegten Zugangs und benennt die Beschwerde- beziehungsweise Schlichtungsroute.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Entwurf adressiert den Lieferanten und verbindet Korrektur mit Zähler- und Zahlungsbelegen, ohne pauschalen Zahlungsstopp zu empfehlen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "einstieg-routing"
+    }
+  ]
+}

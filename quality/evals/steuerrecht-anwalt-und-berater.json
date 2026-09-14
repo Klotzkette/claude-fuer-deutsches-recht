@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "plugin": "steuerrecht-anwalt-und-berater",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/ao_1977/__162.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlichen Normauszug zu Schätzung bei fehlender Ermittelbarkeit und Berücksichtigung aller bedeutsamen Umstände geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ao_1977/__361.html",
+      "checked_on": "2026-09-14",
+      "supports": "Einspruch hemmt Vollziehung grundsätzlich nicht; Aussetzung und bei bereits vollzogenem Verwaltungsakt Aufhebung gesondert prüfen."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/",
+      "checked_on": "2026-09-14",
+      "supports": "BFH, Urteil vom 18.06.2025, Az. X R 19/21: Leitsätze 1 bis 6 und Gründe im amtlichen Volltext geprüft; Befugnis, Methodenwahl und nachvollziehbare Schätzung unterscheiden. Zweifel an der bisherigen Richtsatzsammlung ausdrücklich ergänzend und nicht tragend."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der bisherige Mini lenkte einen allgemeinen Bescheidauftrag in internationale Steuernormen und allgemeine Entscheidungen zur Vollverzinsung. Die Rechenprüfung der Hinzuschätzung und die Trennung vom Vollziehungsbedarf blieben abstrakt.",
+    "changes": [
+      "Bescheidkette, Bekanntgabeweg und Jahresfassung an den Anfang gestellt.",
+      "Auslandsroute auf tatsächlichen Auslandsbezug begrenzt.",
+      "Schätzungsbefugnis, Methode, Menge, Preis und Steuerfolgen getrennt; Einspruch nicht mit Aussetzung gleichgesetzt."
+    ],
+    "sha256": "0dbc185bec7e3ad0ea3eb8df605af4b5f036c393bade2b3c4c02dfbdef5d7067"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie den Rohgewinnaufschlag der Außenprüfung mit Inventur, Warenmengen und unseren damaligen Verkaufspreisen.",
+      "Erstellen Sie eine Gegenkalkulation zur Hinzuschätzung unserer Barumsätze und eine begründete Stellungnahme zu den Kassenmängeln."
+    ],
+    "negative": [
+      "Richten Sie einen ordnungsgemäßen täglichen Kassenabschluss für unseren Betrieb ein.",
+      "Prüfen Sie den Vorsteuerabzug einer einzelnen Eingangsrechnung ohne Hinzuschätzung."
+    ],
+    "target_skill": "hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation"
+  },
+  "cases": [
+    {
+      "id": "flaschenbestand-nettopreis-aufschlag",
+      "request": "Wir vertreten einen Einzelunternehmer mit einer kleinen Getränkebar in der Außenprüfung des Jahres 2024. Gegenstand dieses Auftrags ist nur die abgegrenzte Warengruppe Flaschengetränke. Die Bar bilanzierte und nutzte eine offene Ladenkasse. An 30 Öffnungstagen fehlen die täglichen Bestandsaufzeichnungen; diese Lücke lässt sich nicht nachträglich schließen. Alle folgenden Mengen sind durch Einkaufsrechnungen, unterschriebene Inventuren und zeitgleiche Ausgabeprotokolle belegt: Anfangsbestand 1000 Flaschen, Einkauf 9000, Endbestand 2000, Bruch 400 und unentgeltliche Personalgetränke 600. Für jede Flasche galt im gesamten Jahr ein Verkaufspreis von 5 EUR netto; Rabatte gab es nicht. Einkaufspreis durchgängig 1 EUR netto, keine Retouren. Erklärter vergleichbarer Netto-Verkaufsumsatz der Warengruppe: 34000 EUR. Der Prüfer setzt als Wareneinsatz den gesamten Einkauf von 9000 EUR an, wendet darauf einen Rohgewinnaufschlag von 300 Prozent an und kündigt eine Umsatzhinzuschätzung an. Den Satz begründet er nur mit einer nicht näher bezeichneten Richtsatzsammlung; innerbetriebliche Daten verwertet er nicht. Für 2025 existiert eine Preisliste über 6 EUR netto je Flasche, die der Prüfer ebenfalls erwähnt. Es liegt erst eine Rechenanlage zur Schlussbesprechung vor, noch kein Änderungsbescheid. Erstellen Sie ein Memo mit reproduzierter Prüferrechnung, mengengestützter Gegenkalkulation und ausformulierter Stellungnahme. Weitere Warengruppen, unentgeltliche Wertabgaben, Kostenänderungen und konkrete Steuerfestsetzungen sind ausdrücklich nicht Gegenstand der Bezifferung; benennen Sie dazu nur notwendige Folgeprüfungen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Prüferrechnung wird mit 9000 mal 4 gleich 36000 EUR Umsatz und 2000 EUR Differenz zum erklärten Umsatz reproduziert, nicht mit 27000 EUR als Erlös.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Gegenkalkulation ergibt 7000 verkaufbare Flaschen aus Anfangsbestand plus Einkauf minus Endbestand, Bruch und Personalverbrauch, damit 35000 EUR Netto-Verkaufsumsatz und 1000 EUR verbleibende Umsatzdifferenz.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Es werden die Preise von 2024 verwendet, die späteren Preise nicht rückprojiziert und weder Einkauf mit Absatz noch Rohgewinnaufschlag mit Marge verwechselt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Die Kassenmängel werden als eigenständige Frage der Schätzungsbefugnis gewürdigt; die Kritik an der Richtsatzmethode führt nicht zur Behauptung, jede Schätzung sei ausgeschlossen oder die erklärte Summe müsse unverändert bleiben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Die Stellungnahme richtet sich gegen die Prüfungsrechnung und fingiert keinen anfechtbaren Änderungsbescheid. Aus der Umsatzdifferenz wird ohne weitere Daten weder identischer Mehrgewinn noch konkrete Steuerschuld abgeleitet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "mittelstand-corporate-ma",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
+      "checked_on": "2026-09-14",
+      "supports": "Form von Verpflichtung und Abtretung sowie zusätzliche Satzungsvoraussetzungen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der gesamte Mini enthielt eine M&A-Route, aber keinen konkreten Vollzugsnachweis. Der gelesene Bedingungsskill vermischt vertragliche Fristen mit pauschalen gesetzlichen Folgen.",
+    "changes": [
+      "Bedingung, Nachweis und Verzichtsbefugnis getrennt.",
+      "Kaufpreis-Doppelzählung und unbelegte Vollzugsfreigaben als konkrete Kontrollen eingeführt."
+    ],
+    "sha256": "7e7939d16b546232ceb195c00f6c0196c2be3d192e8635eac2778d2a95228979"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie den Vollzugsstatus unseres mittelständischen GmbH-Kaufs anhand der Bedingungen.",
+      "Überführen Sie Datenraumbefunde in Freistellungen und Kaufpreispunkte."
+    ],
+    "negative": [
+      "Entwerfen Sie ausschließlich den Ehevertrag der verkaufenden Gesellschafterin.",
+      "Berechnen Sie allein die Einkommensteuer auf einen privaten Aktienverkauf."
+    ]
+  },
+  "cases": [
+    {
+      "id": "hausbankzustimmung-offen",
+      "request": "Erstellen Sie ergebnis.md als Vollzugsvorlage für den Käufer aller Anteile einer deutschen GmbH. Der notarielle Kaufvertrag ist unterzeichnet. Er bestimmt: Vollzug erst nach schriftlicher Zustimmung der Hausbank zur Kontrolländerung und Eingang von 2000000 EUR auf dem Treuhandkonto; Verzicht auf die Bankbedingung nur durch beide Vertragsparteien schriftlich. Die Bank schrieb bisher nur: Wir prüfen positiv und melden uns. Der Treuhänder bestätigt den vollständigen Geldeingang. Der Verkäufer fordert Vollzug morgen und erklärt einseitig Verzicht auf die Bankbedingung. Käuferzustimmung zum Verzicht liegt nicht vor. Keine weiteren gesetzlichen Freigaben sind nach dem Auftrag betroffen. Der Vertrag enthält kein automatisches Ende bei Zeitablauf.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die vorläufig positive Banknachricht wird nicht als schriftliche Zustimmung behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der einseitige Verkäuferverzicht wird nicht als vertragsgemäße Erfüllung der beiderseitigen Verzichtsanforderung gewertet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Geldeingang wird als belegt und Bankbedingung als offen ausgewiesen; weder automatische Beendigung noch unbedingte Vollzugsfreigabe wird behauptet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "signing-closing-conditions"
+    }
+  ]
+}

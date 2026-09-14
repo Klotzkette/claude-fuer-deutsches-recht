@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-agrarrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/h_feo/__17.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 2 behandelt bei Übergabe an einen hoferbenberechtigten Abkömmling den Erbfall gegenüber anderen Abkömmlingen als eingetreten; Übergabekonstellation nicht mit beliebigem Erbfall gleichsetzen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2008/BLw__21-08.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Beschluss vom 24.04.2009, BLw 21/08, Randnummern 13 bis 20: Windenergienutzung als nichtlandwirtschaftliche Verwendung; sämtliche vertraglichen Nutzungsentgelte statt allein Fundament- und Wegeflächen; Eigenleistungen gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/h_feo/__13.html",
+      "checked_on": "2026-09-14",
+      "supports": "Nachabfindung wegen erheblicher nichtlandwirtschaftlicher Gewinne innerhalb der gesetzlichen Frist; Abzüge, Anrechnung früherer Abfindung sowie Auskunft und gesonderte Verjährung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/h_feo/__12.html",
+      "checked_on": "2026-09-14",
+      "supports": "Aktuelle Hofwertbasis mit sechzig Prozent des Grundsteuerwerts, nicht unverändert der historische Einheitswert."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/h_feo/__19.html",
+      "checked_on": "2026-09-14",
+      "supports": "Übergangsregelung zur Hofeigenschaft bis zum Ende des Jahres 2026 verlangt Prüfung des konkreten Erbfalls."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Schnellstart verteilte Darlegungs- und Beweislast zu pauschal und machte die wirtschaftlich entscheidende Vertrags- und Zahlungsabstimmung bei Windenergienutzung nicht konkret.",
+    "changes": [
+      "Vertragsentgelt, Mindestvergütung, Umsatzbeteiligung und tatsächlichen Eingang unterscheiden.",
+      "Vorabfindung nicht mehrfach abziehen und historischen Erbfall von heutiger Hofwertregelung trennen.",
+      "Beweislast nach Anspruch und Streitpunkt statt allein nach Parteibezeichnung bestimmen."
+    ],
+    "sha256": "0dc2bd8c5efcad23fe270f0fc8b320c7b89fa6ba43a9cb6d2540450779c2c6c7"
+  },
+  "selection": {
+    "positive": [
+      "Gleiche die jährlichen Windparkzahlungen meiner Schwester mit meinem Nachabfindungsanspruch als weichender Erbe ab.",
+      "Prüfe bei einem übergebenen Hof Mindestpacht, Umsatzpacht und Wegeentgelt samt früherer Geschwisterabfindung."
+    ],
+    "negative": [
+      "Entwirf die Einwendung gegen die immissionsschutzrechtliche Genehmigung einer Windkraftanlage.",
+      "Prüfe die Kündigung eines gewöhnlichen Landpachtvertrags ohne Hofnachfolge oder außerlandwirtschaftliche Nutzung."
+    ],
+    "target_skill": "windenergieerloese-nachabfindung-abgleichen"
+  },
+  "cases": [
+    {
+      "id": "windpark-mindestentgelt-und-wegezahlung",
+      "request": "Ich vertrete den weichenden Sohn eines am 01.01.2025 verstorbenen Hofeigentümers in Niedersachsen. Die Tochter ist Hoferbin; ohne Sondernachfolge hätten beide Kinder je zur Hälfte geerbt. Hofeigenschaft und Anwendung der Höfeordnung sind unstreitig. Der Grundsteuerwert beträgt 500.000 Euro, Hofschulden bestehen nicht. Der Sohn hat in einer Vereinbarung ohne Verzicht auf Nachabfindung bereits 20.000 Euro Abfindung erhalten. Seit Februar 2025 überlässt die Tochter dauerhaft Flächen dem Windparkbetreiber. Der Vertrag sieht für das erste Vertragsjahr mindestens 40.000 Euro vor, anzurechnen auf eine Beteiligung von fünf Prozent am Jahresumsatz. Der belegte Umsatz beträgt eine Million Euro; daneben sind 3.000 Euro Wegeentgelt geschuldet. Die Jahresabrechnung und Kontoauszüge weisen insgesamt 53.000 Euro Eingang aus. Belegte, unmittelbar hierauf entfallende öffentliche Abgaben betragen 3.000 Euro. Eigene Investitionen, weitere Betriebsausgaben oder Arbeitsleistungen der Tochter gab es nicht. Sie will nur das Wegeentgelt teilen, weil die übrigen Flächen weiter bewirtschaftet werden. Andere Nachabfindungen gab es nicht. Erstelle ergebnis.md mit Vertrags- und Zahlungsabgleich, begründeter vorläufiger Forderungsrechnung und einer nicht zu versendenden Erwiderung. Prüfe die zeitlichen Voraussetzungen anhand dieser Daten; ergänze fehlende Verjährungsdaten als gezielte Rückfrage.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis behandelt die Mindestvergütung als Untergrenze der Umsatzbeteiligung und gelangt zu 53.000 Euro Gesamteinnahmen, nicht zu 93.000 Euro.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Es begründet anhand der dauerhaften Nutzungsüberlassung, weshalb eine Beschränkung auf das Wegeentgelt trotz fortgesetzter Landwirtschaft nicht trägt, und prüft die Erheblichkeit gegenüber dem Hofwert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die vorläufige Rechnung legt nach den vorgegebenen Abgaben 50.000 Euro zugrunde, ordnet dem Sohn die Hälfte zu und berücksichtigt die bereits gezahlten 20.000 Euro nur einmal; weitere Abzüge werden nicht erfunden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Es verwendet für den Erbfall 2025 nicht ungeprüft die frühere Einheitswertbasis und wendet keinen Abschlag für eine mehr als zehnjährige Zeitspanne an.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Es trennt Entstehungszeitraum von der besonderen Verjährungsprüfung und benennt hierfür fehlende Kenntnis- oder Fälligkeitsangaben, statt allein aus der Zwanzigjahresfrist eine Verjährungsaussage abzuleiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "windenergieerloese-nachabfindung-abgleichen"
+    }
+  ]
+}

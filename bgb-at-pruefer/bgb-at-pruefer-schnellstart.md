@@ -1,76 +1,29 @@
-# BGB AT-Prüfer — Schnellstart
+# 1 Erklärungen, Wirksamkeit und Zurechnung prüfen
 
-Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
+Beginne mit dem konkreten Anspruchsziel und den vorhandenen Erklärungen, Vertragsfassungen, Nachrichten und Vollmachten. Bearbeite das verlangte Gutachten oder Schreiben. Der Schwerpunkt liegt auf dem Allgemeinen Teil: Wer hat wann was erklärt, wem ist es zuzurechnen und welche Wirksamkeitsfolge ergibt sich? Eine ungeklärte AT-Frage nicht durch allgemeine Mängelrechte überspringen.
 
-Kernauftrag: Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, qES, beA, Anfechtung, Stellvertretung, Fristen, Verjährung und Routing für digitale Elemente, Update. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Erklärungskette und Zeitachse
 
-## 1. Sofortstart nach Eingangslage
+Ordne Angebot, Annahme, Änderung, Widerruf, Genehmigung und Anfechtung zeitlich. Notiere Absender, Empfänger, genauen Inhalt, Übermittlungsweg und nachgewiesenen Zugang. Ein Versandzeitpunkt ist kein Zugangsbeleg. Bestimme Bindungswillen und Erklärungsinhalt aus dem maßgeblichen Kontext, nicht nur aus einer isolierten Betreffzeile. Trenne automatisierte Eingangsbestätigung von einer behaupteten Vertragsannahme.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Vertragsurkunde, Korrespondenz, Rechnungen und Übergabeprotokoll. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Anspruchsziel, Anspruchsgrundlage, Leistungsstörung wählen; ohne konkreten Auftrag mit Anspruchsziel beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Prüfe Geschäftsfähigkeit, erforderliche Zustimmung und Form nur an den betroffenen Erklärungen. Bei digitalen Dokumenten unterscheide Text, Scan, elektronische Signatur und gerichtlichen Übermittlungsweg. Die erfolgreiche Einreichung eines Dokuments beweist nicht seine materiell-rechtliche Formwirksamkeit. Verifiziere die passende Norm und mögliche Ausschlüsse elektronischer Form am aktuellen amtlichen Text.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Anspruchsziel, Anspruchsgrundlage, Leistungsstörung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2 Stellvertretung ohne Kurzschluss
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Kläre eigene Erklärung oder bloße Übermittlung, Handeln im fremden Namen, Quelle und Umfang der Vertretungsmacht. Unterscheide Beschränkungen im Innenverhältnis von fehlender Vollmacht nach außen. Rechtsschein setzt konkrete zurechenbare Tatsachen voraus; erfinde keine frühere Duldung, nur weil jemand Mitarbeiter ist.
 
-## 2. Fachlicher Direktstart
+Bei fehlender Vertretungsmacht hängt die Vertragswirksamkeit nach [Paragraf 177 BGB](https://www.gesetze-im-internet.de/bgb/__177.html) von der Genehmigung ab. Eine Aufforderung zur Erklärung über die Genehmigung verändert Empfänger und zeitlichen Rahmen; ordne deshalb auch diese Erklärung genau zu. „Unwirksam“ ohne Angabe des schwebenden oder endgültigen Zustands ist zu ungenau.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Wer verlangt welche Rechtsfolge aus welchem Vertrag oder gesetzlichen Anspruch.
-2. Kernprüfung in einem Durchgang: Ist der Vertrag wirksam zustande gekommen und welche Form- oder Vertretungsfrage kann kippen; Welche Klausel ist Individualabrede, AGB oder überraschende bzw. intransparente Regelung.
-3. Belege und Engpass zusammenführen: Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung; besonders kritisch ist: Widerrufs-, Verjährungs-, Rüge- oder Gewährleistungsfrist ist unklar.
-4. Erstes Arbeitsprodukt liefern: Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben.
+Die persönliche Haftung des Handelnden nach [Paragraf 179 BGB](https://www.gesetze-im-internet.de/bgb/__179.html) ist eine weitere Prüfung. Unterscheide Kenntnis des Vollmachtsmangels, Vertrauen des Vertragspartners und gesetzliche Ausschlüsse. Die Verweigerung der Genehmigung macht den Handelnden nicht automatisch in jedem Fall zum Ersatzschuldner. Vertragspartner und möglicher Vertreterhaftungsgegner dürfen nicht vermischt werden.
 
-## 3. Kernroute
+## 1.3 Anfechtung, Form und Fristen
 
-1. Anspruchsziel: Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen.
-2. Anspruchsgrundlage: Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen.
-3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
-4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
-5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
+Bei Anfechtung erfasse konkrete Fehlvorstellung oder Täuschung, betroffene Erklärung, Kausalität, Kenntniszeitpunkt, Erklärungsempfänger und bisherige Reaktion. Bloße Vertragsreue ist kein benannter Anfechtungsgrund. Trenne Irrtum, Täuschung und Drohung samt ihren jeweiligen Fristregeln; verwende keine universelle Anfechtungsfrist. Beurteile Rückwirkung und mögliche Ersatzfolgen erst anhand des gewählten, amtlich geprüften Tatbestands.
 
-## 4. Fallkarte
+Fristberechnung enthält Ereignis, Beginn, Dauer, Ende und einschlägige Verschiebungsregel. Verjährung und Ausschlussfrist sind nicht dasselbe. Wo Zugang streitig ist, rechne die entscheidenden belegten Alternativen und benenne den benötigten Nachweis. Ein Fristproblem rechtfertigt eine gezielte Rückfrage, nicht den Abbruch aller bereits möglichen Prüfung.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen |
-| Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
-| Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.4 Ergebnis mit genauer Rechtsfolge
 
-## 5. Einsatzfelder
+Liefere eine begründete Antwort, welche Erklärung wirksam ist, wem sie zugerechnet wird und was dies für den konkreten Anspruch bedeutet. Eine kleine Zeitachse und Merkmalsmatrix dürfen ergänzen, ersetzen aber nicht das beauftragte ausformulierte Schreiben. Stelle das stärkste Gegenargument dar und ordne die Beweisfrage dem konkreten Merkmal zu, statt pauschale Beweislastsätze anzufügen.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Anspruchsziel | Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchsgrundlage | Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leistungsstörung | Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-
-## 6. Anker
-
-- BGB Paragraf 104 bis Paragraf 185: Geschäftsfähigkeit, Willenserklärung, Zugang, Anfechtung, Stellvertretung und Zustimmung.
-- BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
-- BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
-- BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- Paragraf 121 BGB: Unverzügliche Anfechtung bei Irrtum — ohne schuldhaftes Zögern nach Kenntnis; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 124 BGB: Jahresfrist bei arglistiger Täuschung oder Drohung; absolute Höchstfrist 10 Jahre; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 119 BGB: Irrtumsanfechtungsgrundlage für Paragraf 121 BGB-Frist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 123 BGB: Anfechtungsgrundlage für Paragraf 124 BGB-Frist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich.
-7.2. Norm: BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Anspruchsziel“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Zugang, Verjährung und der Auslegung der Vereinbarung.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Anspruchsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Widerrufs-, Verjährungs-, Rüge- oder Gewährleistungsfrist ist unklar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Weitere Normen und Entscheidungen in amtlichen Primärquellen prüfen, Quellenlücken offen nennen. Zusätzliche Skills oder Referenzen sind optional; diese Anleitung genügt für den Kernweg. Keine nicht vorhandene Vollmacht, Genehmigung oder Fristwahrung behaupten. Externe Erklärungen nur mit Auftrag. Verwende dezimale Gliederung und Times New Roman 11 pt beim Export.

@@ -1,20 +1,20 @@
-# Familienrecht: Schnellstart für die Fallarbeit
+# 1. Familienrecht: Schnellstart für die Fallarbeit
 
 Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Eil- und Verfahrensroute und Unterhalt routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-## 1. Aus der Akte zum Ergebnis
+## 1.1. Aus der Akte zum Ergebnis
 
 Bearbeite den konkreten Auftrag unmittelbar: Antrag, Berechnung, Gegenrechnung, Stellungnahme oder Mandantenbrief. Lies zunächst fristauslösendes Schreiben mit Bekanntgabenachweis, vorhandenen Titel und die für das Ergebnis tragenden Belege. Weitere Anlagen gezielt nachladen und den Lesestand benennen. Nicht erneut fragen, was die Akte bereits beantwortet.
 
 Bei einer offenen Erstanfrage Mandant, Vertretung, Konflikt, sicheren Kontaktweg und akuten Schutzbedarf klären. Bei vorhandener Fachfrage keine zweite Aufnahme durchführen. Fehlt Entscheidendes, eine gebündelte Rückfrage stellen und bereits mögliche Arbeit mit gekennzeichneten Lücken liefern.
 
-## 2. Gefahr und Frist zuerst
+## 1.2. Gefahr und Frist zuerst
 
 Gewalt, Kindeswohlgefahr, drohende Verbringung, Vollstreckung oder Vermögensabfluss konkret nach Ereignis, Datum, Beleg und benötigter Maßnahme prüfen. Schutzantrag und Hauptsache nicht vermischen. Bei Gefahr zuerst den passenden Schutzantrag unter Beachtung bestehender Umgangsregelungen oder den kindeswohlbezogenen Eilantrag entwerfen.
 
 Gericht, Verfahrensart, Beteiligte, Anwaltszwang, Bekanntgabe und Frist getrennt bestimmen. Paragraf 63 FamFG enthält grundsätzlich eine Monatsfrist und besondere Zweiwochenfälle; Anfechtbarkeit und Begründungsfrist gesondert prüfen. Keine pauschale Zugangsfiktion verwenden. Ein Auskunftsschreiben ersetzt kein fristwahrendes Rechtsmittel.
 
-## 3. Den passenden Arbeitsweg ausführen
+## 1.3. Den passenden Arbeitsweg ausführen
 
 ### 3.1. Unterhalt
 
@@ -34,7 +34,9 @@ Beschwerde, Altentscheidungsabänderung, schuldrechtlicher Ausgleich, Tod und An
 
 Für den Scheidungsantrag Trennung, Scheidungsvoraussetzungen, Zuständigkeit und Verbund prüfen. Folgesachen nicht allein wegen des gemeinsamen Sachverhalts gleich behandeln.
 
-Für den Zugewinnausgleich Anfangs-, Trennungs- und Endvermögen, privilegierten Erwerb, Schulden und Bewertungsstichtage getrennt aufbauen. Eigentum, Wert und Beleg sind verschiedene Fragen. Bei Immobilien, Unternehmen und digitalen Werten konkrete Bewertungsgrundlagen anfordern; ein ungeklärter Wert wird als Bandbreite, nicht als Tatsache ausgegeben.
+Für den Zugewinnausgleich Anfangs-, Trennungs- und Endvermögen positionsweise mit Vermögensbelegen abstimmen. Bei Scheidung zählt die Rechtshängigkeit nach Paragraf 1384 BGB, nicht Gerichtseingang oder Monatsende. Eigentumsanteile, Darlehensvaluta und indexiertes Anfangsvermögen einschließlich privilegierter Erwerbe getrennt führen. Eigene Umbuchungen sind keine Verluste; Tilgung mindert Geld und Schulden. Ungeklärte Bewertungen als offene Variante ausweisen.
+
+Bei geringerem Endvermögen die erfüllende Trennungsauskunft und Paragraf 1375 Absatz 2 BGB prüfen. Ein später bestrittener Trennungstag beseitigt die Beweislastumkehr nicht automatisch: BGH, Beschluss vom 13.11.2024, Az. XII ZB 558/23, Randnummern 17 bis 23. Auskunftsaufforderung, Antwort und Annahme als Erfüllung abgleichen. Vermögensabfluss nicht doppelt als fehlende Position und Hinzurechnung zählen; Begrenzung nach Paragraf 1378 Absatz 2 BGB gesondert prüfen.
 
 ### 3.4. Sorge und Umgang
 
@@ -46,12 +48,12 @@ Umgangstenor mit Zeiten, Übergabeort, Ferien, Krankheit, Ausfall und Kommunikat
 
 Bei widersprüchlicher oder unvollständiger Akte jede Lücke einer Anspruchsvoraussetzung oder Rechenzeile zuordnen, dazu Dokumentinhaber, Beschaffungsweg und Termin nennen. Keine allgemeine Anforderung sämtlicher Familienunterlagen.
 
-## 4. Ergebnis fertigstellen
+## 1.4. Ergebnis fertigstellen
 
 Liefere das beauftragte Dokument zuerst. Rechen- und Belegtabellen sind Anlagen, keine Ersatzantwort. Trenne Tatsachen, streitigen Vortrag und Annahmen. Nenne das stärkste Gegenargument und die Information, die das Ergebnis ändern würde.
 
 Anträge, Briefe und Stellungnahmen vollständig ausformulieren, keine Stichwortskelette. Schriftbild soweit technisch möglich Times New Roman 11 pt; nur dezimale Gliederung mit Leerzeilen. Bei Markdown diesen Formatwunsch als Exporthinweis aufnehmen.
 
-Nutze die [fallbezogenen Rechtsanker](references/rechtsanker-2026-09-05.md) und [Zitierweise](../references/zitierweise.md). Nicht abrufbare Entscheidungen bleiben Prüfaufträge. Schließe mit konkreter Frist, fehlendem Kernbeleg und dem nächsten versand- oder einreichungsfähigen Schritt.
+Optional ergänzen [Rechtsanker](references/rechtsanker-2026-09-05.md) und [Zitierweise](../references/zitierweise.md) die eigenständige Prüfung: aktuelle Norm und amtlichen Entscheidungsbeleg mit Gericht, Form, Datum, Aktenzeichen und geprüfter Randnummer angeben. Keine Literatur aus Erinnerung. Nicht abrufbare Entscheidungen bleiben Prüfaufträge. Keine eigenmächtige Einreichung oder Erklärung; Paragraf ausschreiben. Schließe mit Frist, Kernbeleg und nächstem Schritt.
 
 Stoppe nur die Endbezifferung oder Antragsfreigabe, wenn entscheidende Einkünfte, Betreuung, Titelart oder Zustellung ungeklärt bleiben. Belegte Rechenteile, gekennzeichnete Varianten und die konkrete Beleganforderung trotzdem liefern.

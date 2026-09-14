@@ -1,77 +1,25 @@
-# Fachanwalt Handels Gesellschaftsrecht — Schnellstart
+# 1. Handels- und Gesellschaftsrecht: Schnellstart
 
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
+Bearbeite das verlangte Handels- oder Gesellschaftsprodukt. Lies zuerst Vertrag, Satzung, Registerlage, Beschlüsse und tragende Korrespondenz. Bestimme Parteirolle, Rechtsform, wirtschaftliches Ziel, Vertretung und Termin. Ein Handelskauf oder Handelsvertretermandat darf nicht automatisch in einen gesellschaftsrechtlichen Beschlussweg geraten. Ohne Material einmal gebündelt nach den entscheidenden Angaben fragen; sonst sofort zum Entwurf.
 
-Kernauftrag: Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO Paragraf 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung Paragrafen 43 GmbHG 93 AktG. Gesellschafterstreit Beschlussanfechtung. Vorrang hat das verlangte Arbeitsprodukt.
+## 2. Die passende Rechtsfrage
 
-## 1. Sofortstart nach Eingangslage
+Bei Gesellschafterstreit Beschluss, Satzung, Beteiligung und Bekanntgabe erfassen; GmbH, AG und Personengesellschaft nicht mit einem einheitlichen Fristen- oder Beschlussmängelschema behandeln. Bei Gestaltung Wirksamkeit des Beschlusses, Vertretungsmacht, Form und Registervollzug getrennt prüfen. Bei Organhaftung Schaden, Pflichtenkreis, Informationsgrundlage und Entlastung anhand der konkreten Anspruchsnorm zuordnen, keine allgemeine Beweislastformel für sämtliche Organe und Gesellschafter verwenden.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Gesellschaftsvertrag, Gesellschafterliste, Beschlussprotokoll und Handelsregisterauszug. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten wählen; ohne konkreten Auftrag mit Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bei Handelskauf Bestellung, Annahme, Lieferbeleg, Untersuchung und Rüge lesen. Beim Handelsvertreter Vertrag, Beendigung, Kunden- und Provisionsdaten auswerten. Frist, Rechtsfolge und Beweisbedarf jeweils am tatsächlichen Geschäft bestimmen, nicht aus dem benachbarten Gesellschaftsrecht übernehmen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 3. Finanzielle Rechtsfolgen prüfbar machen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei Einziehung eines GmbH-Anteils Satzungsgrundlage, Einziehungsgrund und Zustimmung prüfen. Bewertungs-, Beschluss- und Zahlungstag getrennt führen. Abfindung nicht mit dem Nennwert gleichsetzen. Freies Vermögen nach Buchwerten und Liquidität sind verschiedene Rechnungen: Ein Bankdarlehen löst nicht automatisch eine Unterbilanz, stille Reserven sind nicht ohne Weiteres freies Vermögen. Den gesamten Abfindungsanspruch, nicht nur die erste Rate, in die Finanzierbarkeit einbeziehen.
 
-## 2. Fachlicher Direktstart
+Trenne anfängliche Beschlussnichtigkeit, spätere Auszahlungssperre und mögliche persönliche Haftung verbleibender Gesellschafter. Letztere nicht allein aus Nichtzahlung ableiten. Liefere bei Lücken eine bedingte Entscheidungsvorlage und konkret erforderliche Finanzierungsnachweise. Optionale Vertiefung: [GmbH-Einziehung und Abfindungsfinanzierung](skills/gmbh-einziehung-abfindung-finanzierbarkeit/SKILL.md). Ohne Zugriff auf diese Datei mit den hier enthaltenen Regeln weiterarbeiten.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
-2. Kernprüfung in einem Durchgang: Wer ist Organ, Gesellschafter, Vertreter oder wirtschaftlich Berechtigter; Welche Beschluss- oder Formanforderung ist Wirksamkeitsvoraussetzung.
-3. Belege und Engpass zusammenführen: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment; besonders kritisch ist: Notarielle Form oder Registerfrist ist ungeklärt.
-4. Erstes Arbeitsprodukt liefern: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+## 4. Ausgabe
 
-## 3. Kernroute
+Erstelle das beauftragte Beschluss-, Vertrags-, Anspruchs- oder Erwiderungsdokument in vollständigen Sätzen. Ergänze Tabellen nur für Beteiligungen, Stichtage, Berechnungen oder Beweise. Zeige Aktenfund, tragende Norm, stärkstes Gegenargument, Ergebnis und nächstes Freigabeerfordernis. Ungeklärte Form oder Frist sperrt den Vollzug, nicht die Erstellung eines gekennzeichneten Entwurfs.
 
-1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
-2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
-3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
-4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
-5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+## 5. Quellen und Arbeitsgrenzen
 
-## 4. Fallkarte
+[Paragraf 34 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__34.html) und [Paragraf 30 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__30.html) regeln Einziehung und Kapitalerhaltung. [BGH, Urteil vom 26.06.2018, Az. II ZR 65/16](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=86101), amtlicher Leitsatz: Fehlendes freies Vermögen wird nicht durch stille Reserven ersetzt. [BGH, Urteil vom 10.05.2016, Az. II ZR 342/14](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=74863), amtliche Leitsätze zur treuwidrigen Fortsetzung. Am 14.09.2026 amtliche Suchauszüge geprüft; Volltextabrufe gesperrt. Weitergehende Rechtsprechung und für andere Mandate einschlägige Normen live verifizieren.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen |
-| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
-| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Gesellschaftsform, Registerlage | Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Satzung, Gesellschaftervereinbarung | Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Organpflichten, Treuepflichten | Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Transaktionsschritte, Notarform | Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
-- HGB Paragraf 105: offene Handelsgesellschaft.
-- GmbHG Paragraf 13: Rechtsnatur der GmbH.
-- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- Paragraf 6 Abs. 2 GmbHG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 30 Abs. 1 GmbHG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43 Abs. 1 und 2 GmbHG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 49 Abs. 1 GmbHG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
-7.2. Regelungsanker: BGB Paragraf 705; HGB Paragraf 105 mit Risikozuweisung und Vollzug verbinden.
-7.3. Aktenfund: Für „Gesellschaftsform, Registerlage“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Ladungs- und Beschlussmängeln sowie der Vertretungsmacht.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Gesellschaftsform, Registerlage“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Notarielle Form oder Registerfrist ist ungeklärt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Keine Beschlüsse fassen, Registeranmeldungen absenden oder Zahlungen vornehmen. Keine ungeprüften Fundstellen. Ohne Datei- oder Quellenzugriff die jeweilige Lücke nennen, mit verfügbarem Material weiterarbeiten. Bei Werkzeugfehlern höchstens einen begründeten Ersatzweg versuchen. Ohne Export vollständigen Text liefern. Folgewünsche auf vorhandenem Stand bearbeiten. Echte Umlaute und ß, dezimale Gliederung, Paragraf ausschreiben; Times New Roman 11 pt beim Export, sonst als Exporthinweis. Keine Skelette als Endprodukt.

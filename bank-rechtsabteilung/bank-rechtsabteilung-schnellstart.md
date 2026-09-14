@@ -1,76 +1,35 @@
-# Bank Rechtsabteilung — Schnellstart
+# 1. Bankinternen Rechtsauftrag bearbeiten
 
-Wenn du das hier öffnest, willst du einen Bank-, Kapitalmarkt- oder Zahlungsdienstevorgang sofort nach Vertrag, Aufsicht, Beratung, Haftung und Beweislast sortieren.
+Lies Nutzersachverhalt, Verträge, Kundenkorrespondenz, Transaktionsdaten und Aufsichtsschreiben zuerst. Arbeite aus Sicht der beauftragten Rechtsabteilung; Rolle nicht automatisch auf Anlegervertretung umstellen. Liefere Entscheidungsvorlage, Kundenantwort, Vertragsbefund oder Behördenentwurf. Frage nur nach blockierenden Tatsachen. Offene Aufsichtsfragen verhindern nicht die unabhängige Bearbeitung einer Kundenreklamation.
 
-Kernauftrag: Rechtsabteilung einer mittelgroßen deutschen Bank: Aufsicht, Kredit, Avale, Bürgschaft, Garantien, Trade Finance, ZAG/PSD2, PSD3/PSR-Vorschau, eWpG, MiCAR, Tokenisierung, BaFin, Vorstand, HV und Kanzleisteuerung. Vorrang hat das verlangte Arbeitsprodukt.
+## 2. Vorgang und Entscheidungsträger
 
-## 1. Sofortstart nach Eingangslage
+Bestimme Institutstyp, Produkt, Kundengruppe, verantwortlichen Fachbereich und konkreten Entscheidungstermin. Zivilrechtlichen Anspruch, aufsichtsrechtliche Organisationsfrage und interne Risikofreigabe getrennt führen. Bei Produkten Geld- und Rechtsfluss beschreiben: Wer erhält Gelder, wer schuldet Rückzahlung oder Ausführung, wer verwahrt und wer trägt Ausfallrisiken? Technische Bezeichnungen ersetzen keine rechtliche Einordnung.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Produkt und Rolle, Vertragskern, Pflichten und Aufsicht wählen; ohne konkreten Auftrag mit Produkt und Rolle beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 3. Zahlungsreklamation anhand der Beweise
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Produkt und Rolle, Vertragskern, Pflichten und Aufsicht und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+3.1. Buchung, Betrag, Empfänger, Zeitpunkt, Kanal und Reklamation erfassen. Unautorisierte Zahlung, fehlerhafte Ausführung und vom Kunden selbst veranlasste Zahlung nach Täuschung unterscheiden. Kundenvortrag wörtlich präzisieren, nicht jede Betrugsanzeige automatisch als fehlende Autorisierung behandeln.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+3.2. Login, Gerätebindung, Freigabeanzeige, Authentifizierungsdaten und eigentliche Zustimmung getrennt auswerten. Nach [Paragraf 675w BGB](https://www.gesetze-im-internet.de/bgb/__675w.html) beweist die technische Aufzeichnung allein nicht notwendig Autorisierung oder grobe Fahrlässigkeit. Eine pauschale Ablehnung „TAN korrekt, daher selbst verschuldet“ ist kein tragfähiger Befund. Unterstützende Belege und technische Störungen prüfen.
 
-## 2. Fachlicher Direktstart
+3.3. Bei nicht autorisierter Zahlung Erstattung und Kontowiederherstellung nach [Paragraf 675u BGB](https://www.gesetze-im-internet.de/bgb/__675u.html) samt zeitlicher Vorgabe prüfen. Die gesetzliche Ausnahme bei begründetem Verdacht betrügerischen Verhaltens des Zahlers mit Behördenmitteilung nicht mit einem gewöhnlichen Betrugsverdacht gegen unbekannte Dritte verwechseln. Gegenansprüche und Kundensorgfalt gesondert prüfen; eine noch laufende interne Untersuchung nicht pauschal als Fristverlängerung behandeln.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Bankleistung oder Kapitalmarktleistung ist betroffen.
-2. Kernprüfung in einem Durchgang: Welche Vertrags-, Aufsichts- oder Wohlverhaltenspflicht trägt den Fall; Welche Dokumentation beweist Beratung, Autorisierung, Warnung oder Zustimmung.
-3. Belege und Engpass zusammenführen: Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht; besonders kritisch ist: BaFin-Frist, Zahlungsdienste-Reklamation, Prospektfrist oder Verjährung ist unklar.
-4. Erstes Arbeitsprodukt liefern: Kundenanschreiben, Aufsichtsmemo, Klageentwurf, Verteidigungslinie, Fristenblatt oder Entscheidungsvorschlag erstellen.
+3.4. Kundenantwort, interne Entscheidung und Beweisanforderung auseinanderhalten. Entscheidung enthält Betrag, Rechtsgrund, offene Tatsachen, zuständigen Fachbereich und Termin. Nur ausgeführte Sperren, Rückrufe oder Erstattungen als erfolgt beschreiben.
 
-## 3. Kernroute
+## 4. Andere Bankgeschäfte
 
-1. Produkt und Rolle: Bank, Kunde, Anleger, Emittent, Zahlungsdienstleister, Vermittler oder Aufsicht als Arbeitsrolle festlegen.
-2. Vertragskern: Kredit, Zahlungsdienst, Bürgschaft, Garantie, Wertpapierdienstleistung, Verwahrung oder Tokenprodukt abgrenzen.
-3. Pflichten und Aufsicht: Erlaubnis, Organisation, Aufklärung, Dokumentation, Geeignetheit, Autorisierung und Meldepflichten prüfen.
-4. Haftung und Beweis: Beratungsfehler, Rückvergütung, Fehlüberweisung, Missbrauch, Marktinformation und Kausalität belegen.
-5. Arbeitsprodukt: Kundenanschreiben, Aufsichtsmemo, Klageentwurf, Verteidigungslinie, Fristenblatt oder Entscheidungsvorschlag erstellen.
+4.1. Kredit und Sicherheiten: Forderung, Sicherungszweck, Sicherungsgeber, Rang, Umfang, Auslöser und Verwertungsweg zuordnen. Bürgschaft und selbständige Garantie nicht allein nach der Überschrift bestimmen. Abruf, Nachweise und vertragliche Frist an der konkreten Urkunde prüfen.
 
-## 4. Fallkarte
+4.2. Wertpapiergeschäft: Beratung, beratungsfreies Geschäft, Vermittlung und Ausführung unterscheiden. Kundenprofil, Produktinformationen, Empfehlungen, Kosten und dokumentierte Warnungen prüfen. Dokumentationsmangel und schadensursächliche Pflichtverletzung nicht gleichsetzen; keine globale Beweislastverteilung über alle Produkte behaupten.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | KWG Paragraf 32; KWG Paragraf 25a; WpHG Paragraf 63 |
-| Rechtsprechung | BGH, Urteil vom 19.12.2006 - XI ZR 56/05; BGH, Urteil vom 27.04.2021 - XI ZR 26/20 |
-| Tatbestand | Bank, Kunde, Anleger, Emittent, Zahlungsdienstleister, Vermittler oder Aufsicht als Arbeitsrolle festlegen |
-| Beweislast | Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht |
-| Rechtsfolge | Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+4.3. Aufsicht: Schreiben nach Auskunft, Anhörung, Anzeige oder verbindlicher Maßnahme einordnen. Für jedes verlangte Datum Quelle, Fachbereich, Freigabe und Versandstatus festhalten. Meldegrund und zuständige Stelle aktuell prüfen, statt Nummernlisten aus früheren KWG-Fassungen zu übernehmen.
 
-## 5. Einsatzfelder
+4.4. Neue Produkte und Regulierung: Geltendes Recht, bereits beschlossenes Übergangsrecht und bloße Gesetzgebungsvorschau kennzeichnen. Insbesondere Zahlungsdienste- und Tokenregime anhand Veröffentlichungs- und Anwendungsdatum prüfen. Keine Produktfreigabe allein aus einer technischen Funktionsbeschreibung oder einer früheren Roadmap ableiten.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Produkt und Rolle | Bank, Kunde, Anleger, Emittent, Zahlungsdienstleister, Vermittler oder Aufsicht als Arbeitsrolle festlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertragskern | Kredit, Zahlungsdienst, Bürgschaft, Garantie, Wertpapierdienstleistung, Verwahrung oder Tokenprodukt abgrenzen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichten und Aufsicht | Erlaubnis, Organisation, Aufklärung, Dokumentation, Geeignetheit, Autorisierung und Meldepflichten prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+## 5. Ergebnis und Grenzen
 
+Optional vertieft [Unautorisierte Zahlung](skills/psd2-fraud-refund-unauthorised-payment/SKILL.md) die Reklamation. Ohne Zugriff mit der Beweiskette in Abschnitt 3 weiterarbeiten. Weitere Dateien sind keine Voraussetzung für eine erste belastbare Kundenantwort oder Vorstandsvorlage.
 
-## 6. Anker
+Ergebnis in vollständigen Sätzen liefern: Entscheidung, maßgebliche Tatsachen, amtlich geprüfter Rechtsmaßstab, Gegenargument, verbleibendes Risiko und ausführbare Maßnahme. Keine frei erfundene Aufsichtspraxis oder Rechtsprechung. Normfassung und bei Entscheidungen Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Randnummer nennen; optional hilft die [Zitierweise](../references/zitierweise.md).
 
-- KWG Paragraf 32: Erlaubnispflicht für Bankgeschäfte und Finanzdienstleistungen.
-- KWG Paragraf 25a: ordnungsgemäße Geschäftsorganisation und Risikomanagement.
-- WpHG Paragraf 63: Wohlverhaltenspflichten im Wertpapierdienstleistungsgeschäft.
-- BGB Paragraf 675f: Zahlungsdiensterahmenvertrag und Zahlungsdienstepflichten.
-- Paragraf 24 Abs. 1 KWG – laufende Anzeigepflichten: Nr. 1 Organpersonen (sofort), Nr. 11 qualifizierte Beteiligung (vor Vollzug), Nr. 12 Unterschreiten 10 % (unverzüglich), Nr. 14 enge Verbindungen, Nr. 16 Beteiligungen an Unternehmen, Nr. 19 wesentliche IT-Auslagerungen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 24 Abs. 1a KWG – Geschäftsführer-Änderungen bei Finanzholdings; Abs. 3a Finanzkonglomerate; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 25h KWG – interne Sicherungsmaßnahmen von Instituten; die Verdachtsmeldepflicht folgt aus Paragraf 43 GwG, das weitere Meldeverfahren aus Paragrafen 43 bis 48 GwG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 19.12.2006 - XI ZR 56/05: Rückvergütungen in der Anlageberatung müssen offen gelegt werden, wenn sie für den Kunden einen Interessenkonflikt verdecken.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie.
-7.2. Norm: KWG Paragraf 32; KWG Paragraf 25a mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Produkt und Rolle“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Vertrags-, Aufsichts- oder Wohlverhaltenspflicht trägt den Fall.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Produkt und Rolle“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: BaFin-Frist, Zahlungsdienste-Reklamation, Prospektfrist oder Verjährung ist unklar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Dezimale Gliederung mit Leerzeilen und Times New Roman 11 pt beziehungsweise Exporthinweis verwenden. Ohne Export Text liefern, ohne Logzugriff keine technische Prüfung behaupten. Vertrauliche Kunden- und Bankdaten nicht ungefragt extern übertragen; keine Zahlung, Meldung oder Kundenkommunikation ohne Auftrag auslösen.

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "handelsrecht-hgb",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__377.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absätze 1 bis 5: Untersuchung, verdeckter Mangel, rechtzeitige Absendung und Arglist; amtlicher Volltext gelesen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Bisherige Tabellen wiederholten Register- und Vertretungsrouten, ohne die Rüge zeitlich prüfbar zu machen.",
+    "changes": [
+      "Lieferungsbezogene Untersuchungs- und Versandchronologie ergänzt.",
+      "Rechtzeitige Absendung ausdrücklich von Zugang getrennt; starre Rügetage ausgeschlossen.",
+      "Eigenständige Ergebnisarbeit und optionale Werkstatt klargestellt."
+    ],
+    "sha256": "fc26ba6102526cec9656e5d46084e3616c760d67a7670b62c18ef0ba7f6aa881"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe unsere Mängelrüge für drei B2B-Lieferchargen anhand der Prüfberichte und Versandlogs.",
+      "Ordne die Vertretung unseres Lieferanten durch einen angeblichen Prokuristen ein."
+    ],
+    "negative": [
+      "Prüfe meinen privaten Onlinekauf eines defekten Fernsehers.",
+      "Bereite die Scheidung eines Einzelkaufmanns vor."
+    ]
+  },
+  "cases": [
+    {
+      "id": "verdeckter-druckfehler-versand",
+      "request": "Wir beraten eine deutsche Maschinenbau-GmbH gegen ihre deutsche Zuliefer-GmbH. Deutsches Recht gilt. Am 7. September wurden 100 Ventile zu je 80 Euro netto geliefert und im üblichen, unstreitig ordnungsgemäßen Eingangstest ohne Befund untersucht. Ein innerer Haarriss war dabei unstreitig nicht erkennbar. Am 10. September um 9 Uhr zeigte ein Belastungstest diesen Fehler an 12 Ventilen; Prüfbericht und Rückstellmuster liegen vor. Die QS versandte um 11 Uhr eine E-Mail mit Bestellnummer, Charge, den 12 Seriennummern und Bericht an die richtige Lieferantenadresse; der Versandlog bestätigt dies. Wegen einer Störung beim Empfänger wurde sie erst am 14. September abgerufen. Der Verkäufer behauptet allein wegen dieses Abrufs Verspätung und bestreitet einen Herstellungsfehler. Erstelle ergebnis.md als Kurzprüfung und Belegplan; beziffere den Nettokaufpreis der betroffenen Stücke, aber noch keinen Schaden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Bewertet die Anzeige anhand der Absendung am Entdeckungstag und verwirft den Abruf am 14. September als alleinigen Verspätungsgrund.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt die rechtzeitige Anzeige vom noch zu beweisenden Ursprung des Mangels und ordnet Prüfbericht sowie Rückstellmuster diesem offenen Beweis zu.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Berechnet 960 Euro als Nettokaufpreis der 12 betroffenen Ventile, ohne diesen Betrag automatisch als ersatzfähigen Schaden auszugeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "maengelruege-paragraph-377-hgb"
+    }
+  ]
+}

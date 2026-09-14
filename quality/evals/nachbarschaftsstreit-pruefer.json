@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "nachbarschaftsstreit-pruefer",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__910.html",
+      "checked_on": "2026-09-14",
+      "supports": "Beeinträchtigung der Grundstücksbenutzung und erfolglose angemessene Frist bei Zweigen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der ganze Mini hatte einen brauchbaren Ortsbefund, aber keine konkrete Überhangentscheidung. Der gelesene Pflanzenskill zeigt Fristsetzung und Nutzungsbeeinträchtigung als tragende Weichen.",
+    "changes": [
+      "Zweige und Wurzeln unterschieden und Beeinträchtigung konkretisiert.",
+      "Schnittfreigabe von Frist, örtlichen Schutzregeln und Zugang getrennt."
+    ],
+    "sha256": "e4e88ca0dcec49016bb471f78a27d564e922722d88bb98a0c10d2661a9bc4eb6"
+  },
+  "selection": {
+    "positive": [
+      "Formulieren Sie eine Aufforderung wegen Zweigen, die unseren Gartenweg blockieren.",
+      "Prüfen Sie die Duldung eines Grenzzauns anhand des Lageplans und Landesrechts."
+    ],
+    "negative": [
+      "Prüfen Sie die Mietminderung wegen Lärm innerhalb desselben Mietshauses.",
+      "Verteidigen Sie einen Forstbetrieb ausschließlich gegen eine behördliche Waldumwandlungsanordnung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zweige-blockieren-gartenweg",
+      "request": "Erstellen Sie ergebnis.md als vorläufige rechtliche Einordnung und Nachbarschreiben. Zwei private Eigentümergrundstücke liegen in Nordrhein-Westfalen. Die unstreitige Grenze ist im Lageplan markiert. Zweige einer vollständig auf dem Nachbargrundstück stehenden Hecke ragen 80 cm über die Grenze und versperren auf 4 Metern den einzigen Weg zum eigenen Gartenschuppen. Fotos mit Maßstab liegen dem geschilderten Sachverhalt zugrunde; ihre Auswertung ist nicht beauftragt. Bisher gab es weder Aufforderung noch Fristsetzung. Der Nachbar ist Eigentümer und Besitzer. Örtliche Schutzregelungen wurden noch nicht geprüft. Der Nutzer möchte am kommenden Wochenende selbst schneiden und dazu auch das Nachbargrundstück betreten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Wegblockade wird als konkrete Nutzungsbeeinträchtigung ausgewertet und nicht nur ein abstrakter Grenzübertritt behauptet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Vor der Selbsthilfe an Zweigen wird eine angemessene Beseitigungsfrist verlangt; der sofortige Wochenendschnitt wird nicht freigegeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Schreiben verlangt konkret begrenzte Abhilfe, während örtliche Schutzregeln und Betretungsbefugnis offen geprüft werden; ein Zutrittsrecht wird nicht erfunden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "ueberhang-aeste-wurzeln"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "ordnungswidrigkeitenrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html",
+      "checked_on": "2026-09-14",
+      "supports": "Paragraf 67: Einspruch binnen zwei Wochen nach Zustellung bei der erlassenden Verwaltungsbehörde; Beschränkung ist möglich, nicht zwingend."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die alte Route vermischte Irrtumsnormen, Verfolgungs- und Vollstreckungsverjährung und verlangte Messdaten auch ohne Messvorwurf.",
+    "changes": [
+      "Fristwahrung von Akteneinsicht und Einlassung entkoppelt.",
+      "Beweisanforderungen auf konkrete Tat und verantwortliche Person ausgerichtet.",
+      "Unzutreffende pauschale Normen- und Entscheidungsanker entfernt."
+    ],
+    "sha256": "b08b953a86c6272d1593fc9d4aa0640614c2446b28dc304535d60ff65c8d586b"
+  },
+  "selection": {
+    "positive": [
+      "Entwirf einen Einspruch gegen den Bußgeldbescheid wegen einer versäumten Meldung.",
+      "Ordne Unterbrechungshandlungen in meiner Bußgeldakte personengenau."
+    ],
+    "negative": [
+      "Entwirf den Einspruch gegen einen strafgerichtlichen Strafbefehl.",
+      "Prüfe ein verwaltungsrechtliches Zwangsgeld zur Durchsetzung einer Auskunftspflicht, nicht einen Bußgeldbescheid."
+    ]
+  },
+  "cases": [
+    {
+      "id": "einspruch-vor-akteneinsicht",
+      "request": "Heute ist der 14. September 2026. Die Stadt Linden, Bußgeldstelle, hat gegen meine Mandantin Eva Berg unter Aktenzeichen OWi 81/26 am 3. September einen Bußgeldbescheid über 800 Euro wegen behaupteter unterlassener gewerblicher Meldung erlassen. Er wurde ihr nach dem vorliegenden Zustellumschlag am 7. September 2026 zugestellt. Eva bestreitet den Vorwurf vollständig, möchte keine Beschränkung des Rechtsbehelfs und hat bisher nichts eingelegt. Akteneinsicht wurde beantragt, ist aber noch nicht gewährt. Erstelle in ergebnis.md einen vollständigen Einspruchsentwurf und einen kurzen Vermerk zur Fristsicherung; noch keine Einlassung zur Sache. Fehlende Postanschrift darf als Platzhalter stehen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Richtet einen unbeschränkten Einspruch gegen den identifizierten Bescheid an die erlassende Bußgeldstelle, nicht unmittelbar an das Gericht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Berechnet die Frist aus der Zustellung am 7. September bis zum 21. September 2026 und rät nicht zum Abwarten der Akte über diese Frist hinaus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Enthält kein Geständnis oder ungefragtes Anerkenntnis des Tatvorwurfs und unterscheidet Entwurf von tatsächlich nachgewiesenem Eingang.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "einspruch-fristgerecht"
+    }
+  ]
+}

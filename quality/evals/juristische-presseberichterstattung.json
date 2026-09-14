@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "plugin": "juristische-presseberichterstattung",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Entscheidungsauszug, insbesondere Randnummern 36 bis 38 und 50 bis 51: Abwägung bei Verdachtsberichterstattung statt starrer Übertragung strafprozessualer Verdachtsstufen; Volltextabruf nicht durchgängig verfügbar."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2021&Gericht=bgh&Seite=13&anz=3571&nr=125294&pos=408",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Leitsatzauszug zu BGH, 16. November 2021, VI ZR 1241/20: Mindestbestand an Beweistatsachen, keine Vorverurteilung, grundsätzlich Stellungnahme einholen und berücksichtigen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die vorhandenen publizistischen Anker bleiben erhalten. Der Abschluss unterschied Pressemitteilung, vollständige Gründe und endgültigen Verfahrensausgang noch nicht ausreichend.",
+    "changes": [
+      "Tenor, Instanz, Verfahrensart und Rechtskraft ausdrücklich getrennt.",
+      "Zurückverweisung nicht als endgültiger Sieg; Überschrift darf den Belegstand nicht übersteigern."
+    ],
+    "sha256": "1083df972ed9155492e881498ceaae5132644aacb0f196af3b091fd5e17c7d5d"
+  },
+  "selection": {
+    "positive": [
+      "Formuliere eine sachliche Meldung aus dieser gerichtlichen Pressemitteilung.",
+      "Prüfe Überschrift und Anhörungsschritte vor einer Verdachtsberichterstattung."
+    ],
+    "negative": [
+      "Entwirf meine Berufungsbegründung gegen das Urteil.",
+      "Organisiere den Redaktionsdienstplan ohne rechtlichen Inhalt."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zurueckverweisung-kein-endsieg",
+      "request": "Schreibe für eine Fachredaktion eine Meldung von höchstens 120 Wörtern und kurze interne Prüfnotizen in ergebnis.md. Ausschließliche Grundlage ist diese ausdrücklich fiktive Pressemitteilung: Das Obergericht hat am 10. September die Entscheidung der Vorinstanz aufgehoben und die Sache zur erneuten Verhandlung zurückverwiesen, weil ein angebotenes Beweismittel nicht erhoben wurde. Ob der geltend gemachte Schaden besteht, bleibt offen. Vollständige Entscheidungsgründe liegen noch nicht vor. Die Redaktion schlägt als Überschrift vor: Unternehmen gewinnt endgültig Schadensersatzprozess. Weitere Informationen, ein Aktenzeichen und Parteistellungnahmen stehen nicht zur Verfügung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Meldung und Überschrift geben die Zurückverweisung mit offenem Schadensausgang wieder und behaupten keinen endgültigen Prozesserfolg.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Ergebnis kennzeichnet die fiktive und auf eine Pressemitteilung begrenzte Grundlage; es erfindet weder Aktenzeichen noch Entscheidungsgründe oder Zitate.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Meldungstext hält die vorgegebene Wortgrenze ein; die internen Notizen benennen die fehlenden vollständigen Gründe als Prüfbedarf.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "entscheidung-meldung-und-urteilsbericht"
+    }
+  ]
+}

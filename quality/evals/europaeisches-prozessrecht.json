@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "europaeisches-prozessrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/2019/oj/deu",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 50b der Satzung: begrenzte Zuständigkeit des Gerichts für Vorabentscheidungen, Eingang beim Gerichtshof und Vorbehalt eigenständiger Primärrechtsfragen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Verfahrenskarte ließ die seit 2024 geänderte Vorabentscheidungszuständigkeit und den Unterschied zwischen Parteianregung und gerichtlichem Ersuchen offen.",
+    "changes": [
+      "Zentralen Eingang und Weiterleitung erläutert.",
+      "Pauschale Organbeweislast durch klagegrundbezogene Prüfung begrenzt."
+    ],
+    "sha256": "79717187d3b196132dc509c56fa8dcd19d933fece9253abcd35ad3eaf696ea5c"
+  },
+  "selection": {
+    "positive": [
+      "Entwirf eine Vorlageanregung für ein Finanzgerichtsverfahren.",
+      "Prüfe Zuständigkeit und Anlagen einer Nichtigkeitsklage vor dem Gericht der EU."
+    ],
+    "negative": [
+      "Vollstrecke ein französisches Zivilurteil in Deutschland.",
+      "Erstelle allein eine deutsche Einkommensteuererklärung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "mehrwertsteuer-vorlageeingang",
+      "request": "In einem deutschen Finanzgerichtsverfahren 2026 ist ausschließlich die Auslegung einer Vorschrift der Mehrwertsteuerrichtlinie entscheidungserheblich. Das Gericht erwägt eine Vorlage; eigenständige Fragen zu Primärrecht, Völkerrecht, allgemeinen Grundsätzen oder Grundrechten bestehen nach Aktenlage nicht. Der Anwalt möchte im Namen der Partei direkt beim Gericht der EU ein Vorabentscheidungsersuchen einreichen. Erstelle ergebnis.md mit zulässiger Verfahrensroute und kurzer Vorlageanregung an das nationale Gericht, ohne Übermittlung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Partei wird nicht als selbst vorlageberechtigt behandelt; der Entwurf ist eine Anregung an das nationale Gericht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Ergebnis erläutert den Eingang eines gerichtlichen Ersuchens beim Gerichtshof und dessen Zuständigkeitsprüfung vor Weiterleitung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Es berücksichtigt die besondere Mehrwertsteuerzuständigkeit des Gerichts, ohne daraus eine allgemeine Zuständigkeit für sämtliche Vorlagen zu machen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "eugh-vorabentscheidung-art-267"
+    }
+  ]
+}

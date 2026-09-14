@@ -1,75 +1,23 @@
-# Patentrecht — Schnellstart
+# 1. Patentrecht am Anspruch bearbeiten
 
-Wenn du das hier öffnest, willst du eine technische Lehre recherchieren, schützen, lizenzieren oder gegen Patentverletzung und Rechtsbestandsangriff verteidigen.
+Lies zuerst den konkreten Auftrag, die maßgebliche Patent- oder Anmeldefassung und die technischen Belege. Bestimme, ob eine Anmeldung, Bescheidserwiderung, Verletzungsprüfung, Bestandsprüfung oder Lizenzregel verlangt ist. Produktidee, Anmeldungsanspruch und erteilter beziehungsweise beschränkter Anspruch sind nicht austauschbar. Frage nach fehlender Fassung oder betroffenem Staat nur, soweit dies eine tragende Beurteilung verhindert; bearbeite gesicherte Teilfragen weiter.
 
-Kernauftrag: Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart, Vorbenutzungsrecht, Lizenz, Erfinderbenennung, Einspruch. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Anspruch und Offenbarung
 
-## 1. Sofortstart nach Eingangslage
+Bei Erfindungsaufnahme technische Aufgabe, eingesetzte Mittel, deren Zusammenwirken und nachgewiesenen Effekt erfassen. Bei Anspruchsentwürfen jedes Merkmal einer Offenbarungsstelle zuordnen. Wunschmerkmale und tatsächlich beschriebene Ausführungen trennen; keine technische Variante hinzufügen, nur weil sie den Schutzbereich verbreitern würde. Abhängige Ansprüche müssen auf ihren Rückbezug und die dadurch entstehende Kombination geprüft werden. Widersprüche zwischen Anspruch, Beschreibung und Zeichnung konkret benennen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Technische Lehre, Rechtsbestand, Schutzbereich und FTO wählen; ohne konkreten Auftrag mit Technische Lehre beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Für Rechtsbestand Neuheit und erfinderische Tätigkeit getrennt bearbeiten. Offenbarungszeitpunkt und maßgeblichen Zeitrang feststellen. Mehrere Dokumente nicht zu einem scheinbar einzelnen neuheitsschädlichen Dokument verschmelzen. Bei einer Kombination Ausgangspunkt, Unterschied, technische Wirkung und Anlass zur Kombination begründen. Fehlende technische Nachweise nicht durch einen pauschalen Verweis auf Fachwissen ersetzen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Technische Lehre, Rechtsbestand, Schutzbereich und FTO und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Verletzung als Merkmalsvergleich
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+PatG Paragraf 14 bestimmt den Schutzbereich anhand der Ansprüche unter Heranziehung von Beschreibung und Zeichnungen zur Auslegung. Erstelle eine Merkmalsgliederung der tatsächlich geltenden Fassung. Stelle jedem Merkmal Produktbefund, Beleg und Bewertung gegenüber: erfüllt, nicht erfüllt oder nicht geklärt. Trenne Fotos, Funktionsversuche, Herstellerangaben und bloße Mandantenvermutungen. Keine starre Rangfolge der Beweismittel unterstellen; Aussagekraft richtet sich nach der konkreten technischen Frage.
 
-## 2. Fachlicher Direktstart
+Eine allgemeine Funktionsähnlichkeit ersetzt keinen Nachweis aller Anspruchsmerkmale. Bei einem fehlenden Merkmal nicht dennoch wortsinngemäße Benutzung bestätigen. Eine mögliche äquivalente Verwirklichung ist eine eigene, anhand verifizierter Rechtsprechung zu prüfende Begründung; sie folgt nicht automatisch aus gleichem Ergebnis. Beschreibung als Auslegungshilfe nutzen, aber eine dort erwähnte Variante nicht ohne Begründung zum geltenden Anspruch erklären.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche technische Lehre wird in welchen Anspruchsmerkmalen beansprucht.
-2. Kernprüfung in einem Durchgang: Welches Dokument offenbart welches Merkmal unmittelbar und eindeutig zu welchem Prioritätszeitpunkt; Warum lag die Merkmalskombination für den Fachmann nahe oder gerade nicht nahe.
-3. Belege und Engpass zusammenführen: Patentinhaber für Rechtsinhaberschaft und Verletzung; Angreifer für neuheitsschädlichen Stand der Technik, Nichtigkeitsgrund oder FRAND-Einwand; besonders kritisch ist: Prioritäts-, Prüfungs-, Einspruchs-, Nichtigkeits- oder Rechtsmittelfrist ist ungesichert.
-4. Erstes Arbeitsprodukt liefern: Recherchebericht, Anspruchssatz, Bescheidserwiderung, Verletzungsmatrix, FTO-Memo, Lizenz oder FRAND-Schritt erstellen.
+## 1.3. Rechtsfolge und Verfahrensweg
 
-## 3. Kernroute
+Rechtsinhaber, geltende Fassung, Land, konkrete Benutzungshandlung und Zeitpunkt vor einem Anspruchsschreiben prüfen. Bestehende Lizenz, Zustimmung und vorgetragene Einwendungen gesondert behandeln. Verletzung und Rechtsbeständigkeit bleiben unterschiedliche Fragen: Eine erteilte Urkunde ersetzt weder den Produktvergleich noch die Prüfung eines konkret erhobenen Bestandsangriffs. Verfahren und Fristen bei nationalem Amt, europäischem Amt und Gericht nicht vermischen; für den tatsächlichen Verfahrensstand den aktuellen amtlichen Maßstab verifizieren.
 
-1. Technische Lehre: Aufgabe, Lösung, Merkmale, Ausführungsbeispiele, Priorität und Erfinderbeitrag belastbar erfassen.
-2. Rechtsbestand: Stand der Technik, Neuheit, erfinderische Tätigkeit, Offenbarung, Erweiterung und Priorität in einer Merkmalsmatrix prüfen.
-3. Schutzbereich und FTO: Anspruch auslegen, Produkt zuordnen, wortsinngemäße und äquivalente Benutzung sowie Drittpatente getrennt bewerten.
-4. Verfahren: DPMA- oder EPA-Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Verletzung und Aussetzung zeitlich koordinieren.
-5. Arbeitsprodukt: Recherchebericht, Anspruchssatz, Bescheidserwiderung, Verletzungsmatrix, FTO-Memo, Lizenz oder FRAND-Schritt erstellen.
+## 1.4. Ergebnis statt bloßer Ampel
 
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | PatG Paragraf 1 bis Paragraf 5; PatG Paragraf 9 und Paragraf 10; PatG Paragraf 14 und EPÜ Artikel 69 mit Auslegungsprotokoll |
-| Rechtsprechung | BGH, Urteil vom 12.03.2002 - X ZR 168/00; EuGH, Urteil vom 16.07.2015 - C-170/13 |
-| Tatbestand | Aufgabe, Lösung, Merkmale, Ausführungsbeispiele, Priorität und Erfinderbeitrag belastbar erfassen |
-| Beweislast | Patentinhaber für Rechtsinhaberschaft und Verletzung; Angreifer für neuheitsschädlichen Stand der Technik, Nichtigkeitsgrund oder FRAND-Einwand |
-| Rechtsfolge | Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Aussetzung, Unterlassung, Auskunft, Schadensersatz, FTO oder Lizenz |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Technische Lehre | Aufgabe, Lösung, Merkmale, Ausführungsbeispiele, Priorität und Erfinderbeitrag belastbar erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsbestand | Stand der Technik, Neuheit, erfinderische Tätigkeit, Offenbarung, Erweiterung und Priorität in einer Merkmalsmatrix prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schutzbereich und FTO | Anspruch auslegen, Produkt zuordnen, wortsinngemäße und äquivalente Benutzung sowie Drittpatente getrennt bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahren | DPMA- oder EPA-Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Verletzung und Aussetzung zeitlich koordinieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Recherchebericht, Anspruchssatz, Bescheidserwiderung, Verletzungsmatrix, FTO-Memo, Lizenz oder FRAND-Schritt erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- PatG Paragraf 1 bis Paragraf 5: Patentfähigkeit, Ausschlüsse, Neuheit, erfinderische Tätigkeit und gewerbliche Anwendbarkeit.
-- PatG Paragraf 9 und Paragraf 10: unmittelbare und mittelbare Patentbenutzung.
-- PatG Paragraf 14 und EPÜ Artikel 69 mit Auslegungsprotokoll: Schutzbereich aus Patentanspruch, Beschreibung und Zeichnungen.
-- PatG Paragraf 34: Offenbarung und Inhalt der Anmeldung.
-- BGH, Urteil vom 12.03.2002 - X ZR 168/00: Schneidmesser I bestimmt Anspruchsauslegung und die Grenzen äquivalenter Verletzung bei Zahlen- und Maßangaben.
-- EuGH, Urteil vom 16.07.2015 - C-170/13: Huawei gegen ZTE ordnet die wechselseitigen Schritte vor einer Unterlassungsklage aus einem standardessenziellen Patent mit FRAND-Zusage.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Aussetzung, Unterlassung, Auskunft, Schadensersatz, FTO oder Lizenz.
-7.2. Norm: PatG Paragraf 1 bis Paragraf 5; PatG Paragraf 9 und Paragraf 10 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Technische Lehre“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Patentinhaber für Rechtsinhaberschaft und Verletzung; Angreifer für neuheitsschädlichen Stand der Technik, Nichtigkeitsgrund oder FRAND-Einwand. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welches Dokument offenbart welches Merkmal unmittelbar und eindeutig zu welchem Prioritätszeitpunkt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Technische Lehre“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Prioritäts-, Prüfungs-, Einspruchs-, Nichtigkeits- oder Rechtsmittelfrist ist ungesichert. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere den beauftragten Anspruchsentwurf, die Erwiderung oder die ausformulierte Bewertung. Beim Merkmalsvergleich muss die Schlussfolgerung aus den einzelnen Befunden nachvollziehbar sein. Unklare innere Produktmerkmale führen zu einem gezielten Untersuchungsauftrag, nicht zur Vermutung der Verletzung. Eine Abmahnung erst mit belegbarer Tatsachengrundlage entwerfen und ungelöste Punkte sichtbar lassen. Keine erfundenen Entscheidungen, Patentnummern oder Registerabrufe. Quellen mit präziser Stelle und Datum ausweisen. Dezimal gliedern, Export in Times New Roman 11 pt. Spezialisierte Skills und Referenzen sind optional und keine Voraussetzung dieser Anspruchsarbeit.

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "plugin": "status-navigator-step-plan",
+  "reviewed_on": "2026-09-14",
+  "sources": [],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Mini ist eine dokumentengestützte Status- und Ablaufhilfe, kein pauschaler Rechtsgutachtengenerator. Neue materiell-rechtliche Aussagen wurden nicht eingeführt.",
+    "changes": [
+      "Dokumentversion, Freigabe und behaupteten Sachstand getrennt.",
+      "Abhängigkeiten, Verantwortliche und nächste drei Schritte statt Endlosschleifen festgelegt.",
+      "Vorhandene Originale und widersprechende Stände ausdrücklich geschützt."
+    ],
+    "sha256": "a7e4edb018076fb0a63a173054be24fc0a587aec66b62f52f8b5aa8534be4909"
+  },
+  "selection": {
+    "positive": [
+      "Ordnen Sie unsere widersprüchlichen Vertragsfassungen und erstellen Sie einen belegbaren nächsten Arbeitsplan.",
+      "Ermitteln Sie aus Freigaben und offenen Aufgaben den aktuellen Bearbeitungsstand eines Vorgangs."
+    ],
+    "negative": [
+      "Entscheiden Sie abschließend über die Wirksamkeit einer unbekannten Vertragsklausel.",
+      "Berechnen Sie ohne Projektunterlagen eine gesetzliche Rechtsmittelfrist."
+    ]
+  },
+  "cases": [
+    {
+      "id": "unterschrift-gegen-dateiname-final",
+      "request": "Erstellen Sie ergebnis.md als Statusbericht mit genau drei priorisierten nächsten Schritten. Im Vorgang liegt Version 1 eines Angebots über 20.000 Euro, von beiden Seiten unterschrieben am 2. September. Version 2 über 18.000 Euro wurde intern am 8. September erstellt und trägt den Dateinamen final, ist aber weder unterschrieben noch freigegeben. Eine E-Mail vom 9. September schlägt der Gegenseite die Preissenkung vor; eine Antwort liegt nicht vor. Die Projektleitung behauptet im Aufgabenboard bereits 18.000 Euro vereinbart. Originale dürfen nicht verändert werden. Es soll zunächst der dokumentierte Bearbeitungsstand geklärt werden, keine abschließende rechtliche Wirksamkeitsprüfung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Bericht unterscheidet die beidseitig unterschriebene Version 1 von dem internen Vorschlag Version 2 und behandelt dessen Dateinamen nicht als Freigabe oder Annahmenachweis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Widerspruch zwischen Aufgabenboard und vorhandenen Dokumenten bleibt nachvollziehbar mit Herkunft dokumentiert; Originale werden weder überschrieben noch als korrigiert ausgegeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die drei nächsten Schritte adressieren gezielt Annahmenachweis, interne Freigabe und anschließende Statusberichtigung mit Verantwortlichkeit beziehungsweise Abhängigkeit, ohne eine endgültige Vertragsauslegung vorzutäuschen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "status-navigator-einstieg"
+    }
+  ]
+}

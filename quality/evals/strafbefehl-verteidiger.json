@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "strafbefehl-verteidiger",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__410.html",
+      "checked_on": "2026-09-14",
+      "supports": "Zweiwöchige Einspruchsfrist nach Zustellung, Einlegungsstelle und Möglichkeit der Beschränkung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__411.html",
+      "checked_on": "2026-09-14",
+      "supports": "Besonderes Beschlussverfahren bei Beschränkung auf Tagessatzhöhe und Zustimmungserfordernissen; keine allgemeine Bindung an den Strafbefehl nach Einspruch."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Ein Wunsch nach geringerer Geldstrafe ist keine informierte Ermächtigung zur Beschränkung des Einspruchs oder Garantie gegen Verschlechterung.",
+    "changes": [
+      "Zustellung und Einspruchsumfang als erste Entscheidungspunkte aufgenommen.",
+      "Tagessatzhöhe von Schuldfrage und Tagessatzanzahl getrennt.",
+      "Sonderverfahren nach Paragraf 411 von regulärer Hauptverhandlung abgegrenzt."
+    ],
+    "sha256": "0c80a47cdf38a8ea06d101c6b9301097a0cfc9294ab574fb99806c28c3ffaec0"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie meinen zugestellten Strafbefehl und bereiten Sie eine fristwahrende Verteidigungsentscheidung vor.",
+      "Vergleichen Sie unbeschränkten Einspruch und Beschränkung auf die Tagessatzhöhe anhand meines Mandatsziels."
+    ],
+    "negative": [
+      "Erstellen Sie eine Strafanzeige gegen einen bislang unbekannten Täter.",
+      "Führen Sie eine Revision gegen ein bereits rechtskräftiges Strafurteil."
+    ]
+  },
+  "cases": [
+    {
+      "id": "taeterschaft-bestritten-keine-unbemerkte-beschraenkung",
+      "request": "Ein Strafbefehl über 90 Tagessätze zu je 80 Euro wurde meinem Mandanten am Freitag, 4. September 2026, in Deutschland wirksam zugestellt. Heute ist der 14. September. Er bestreitet die Täterschaft vollständig und sagt zugleich, er wolle vor allem weniger zahlen. Sein aktuelles Nettoeinkommen beträgt nach vorliegendem Gehaltsnachweis 1.200 Euro monatlich; weitere wirtschaftliche Angaben fehlen. Über Folgen einer Einspruchsbeschränkung wurde noch nicht gesprochen. Erstellen Sie ergebnis.md mit Frist, Optionen und einem zur Freigabe geeigneten Entwurf. Legen Sie nichts ein und beschränken Sie nichts eigenmächtig.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Einspruchsfrist wird bei der vorgegebenen wirksamen Zustellung auf den 18. September 2026 bestimmt und als kurzfristig zu sichern behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die bestrittene Täterschaft wird bei der Wahl des Einspruchsumfangs berücksichtigt; der bloße Wunsch nach geringerer Zahlung wird nicht als Zustimmung zu einer Beschränkung allein auf die Tagessatzhöhe ausgelegt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Ausgabe unterscheidet das besondere zustimmungsabhängige Beschlussverfahren von einer regulären Hauptverhandlung und behauptet kein allgemeines Verschlechterungsverbot; 1.200 Euro Einkommen werden nicht ohne weitere Prüfung zum abschließend feststehenden Tagessatz.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "strafbefehls-erstpruefung-und-mandatsziel"
+    }
+  ]
+}

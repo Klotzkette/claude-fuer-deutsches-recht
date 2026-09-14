@@ -38,22 +38,22 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 
 
-## 5. Einsatzfelder
+## 5. Kassenabgleich vor Ausschüttung
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Bestellung und Objekt | Beschluss, Grundbuch, Grundstück, Zubehör, Besitz, Nutzer, Schlüssel, Versicherungen und Gefahrenlage feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschlagnahme und Kommunikation | Schuldner, Mieter, Pächter, Versorger, Kommune, Bank und Gläubiger mit Wirkungsdatum informieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bewirtschaftung | Mietverträge, Sollstellung, Rückstände, Kautionen, Betriebskosten, Instandhaltung, Verkehrssicherung und Vergaben führen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Führe je Objekt Anfangsbestand, tatsächliche Einnahmen, tatsächliche Ausgaben und Endbestand mit Kontoauszug und Beleg zusammen. Daneben stehen Sollmieten, Zahlungseingänge, offene Mieten und Periodenzuordnung. Eine offene Mietforderung ist noch keine verfügbare Liquidität. Kautionen, Fremdgelder und andere Zweckbindungen separat identifizieren; nicht den gesamten Kontostand als frei verteilbar behandeln.
+
+Ordne vor einer Ausschüttung die notwendigen Verwaltungsausgaben und Verfahrenskosten nach Paragraf 155 Absatz 1 ZVG, weitere Rangpositionen und den gerichtlichen Verteilungsstand. Ein positiver rechnerischer Rest ist noch keine Auszahlungsfreigabe. Bei fälliger Reparatur oder Versorgungsgefahr den Liquiditätsbedarf, die Entscheidungsbefugnis und einen gegebenenfalls erforderlichen Vorschussantrag vorbereiten, nicht einfach den Bericht abbrechen.
+
+Lieferstück: Kassenbrücke mit Kontenabgleich, offene Posten, gebundene Mittel, fällige Ausgaben, rechnerischer Rest und fehlende Verteilungsfreigabe. Keine Überweisung, Beauftragung oder Mieterinformation eigenmächtig auslösen.
 
 ## 6. Anker
 
 - ZVG Paragraf 146 ff.: Anordnung, Beschlagnahme und Durchführung der Zwangsverwaltung.
 - ZVG Paragraf 148 und Paragraf 149: Beschlagnahmewirkung, Verwaltung und Nutzung des Grundstücks.
 - ZVG Paragraf 152: Rechte und Pflichten des Zwangsverwalters, Erhaltung und ordnungsgemäße Nutzung.
-- ZVG Paragraf 154 und Paragraf 155: Teilungsplan, laufende Ausgaben, öffentliche Lasten, Verteilung und Rechnungslegung.
-- Paragraf 153 ZVG (Einnahmen aus Nutzungen) → Paragraf 152 ZVG (Pflichten Verwaltung) → Paragraf 13 ZwVwV (Buchführung) → Paragraf 14 ZwVwV (Jahresrechnung) → Paragraf 675 BGB (Geschäftsbesorgungsvertrag) → Paragraf 667 BGB (Herausgabe Treuhandgelder) → Paragraf 280 BGB (Schadensersatz Treuhandvermischung); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 152 ZVG (Rechte/Pflichten Verwalter) → Paragraf 153 ZVG (Einziehung Nutzungen) → Paragraf 57 ZVG (Schutz der Mieter) → Paragrafen 535 566 BGB (Mietrecht) → Paragrafen 8-9 ZwVwV (laufende Verwaltung) → Paragraf 581 BGB (Pachtvertrag) → Paragrafen 596-599 BGB (Pächterschutz); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- [Paragraf 152 ZVG](https://www.gesetze-im-internet.de/zvg/__152.html): Erhaltung, ordnungsmäßige Nutzung und Geltendmachung beschlagnahmter Ansprüche; Absatz 2 betrifft vor Beschlagnahme überlassene Miet- und Pachtobjekte.
+- [Paragraf 155 ZVG](https://www.gesetze-im-internet.de/zvg/__155.html): vorweg zu bestreitende Verwaltungsausgaben und Verfahrenskosten sowie Verteilung.
+- [Paragraf 13 ZwVwV](https://www.gesetze-im-internet.de/zwvwv/__13.html) und [Paragraf 14 ZwVwV](https://www.gesetze-im-internet.de/zwvwv/__14.html): Masseverwaltung, Soll-Ist-Abgleich, Belege und Jahresrechnung.
 - Paragrafen 146-161 ZVG — Kernvorschriften der Zwangsverwaltung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
@@ -68,4 +68,4 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Gefahr für Personen, Substanz, Versicherungsschutz oder Versorgung des Objekts besteht. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Bei Gefahr für Personen, Substanz oder Versorgung den zuständigen Verantwortlichen und die konkrete Sicherungsmaßnahme vorrangig benennen. Unbelegte Zahlungen oder Befugnisse nicht freigeben, den übrigen Bericht fortsetzen. Die Werkstatt ist ausschließlich optionale Vertiefung; dieses Mini ist eigenständig.

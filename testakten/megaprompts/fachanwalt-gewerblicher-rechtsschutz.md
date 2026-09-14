@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 93 Skills des Plugins `fachanwalt-gewerblicher-rechtsschutz`.
+Diese Vollprüfung enthält top-10 von 94 Skills des Plugins `fachanwalt-gewerblicher-rechtsschutz`.
 
 ## Inhaltsverzeichnis
 
@@ -12,10 +12,10 @@ Diese Vollprüfung enthält top-10 von 93 Skills des Plugins `fachanwalt-gewerbl
 4. **fachanwalt-gewerblicher-rechtsschutz-orientierung** — Für Orientierung Gewerblicher Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko …
 5. **erstgespraech-mandatsannahme** — Für Erstgespräch im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen: ordnet Norm, Beweislast und Gegenargum…
 6. **erstpruefung-und-mandatsziel** — Für Erstprüfung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsm…
-7. **markenrecht-verfallsantrag-paragraf-49-markeng** — Prüft Verfall einer deutschen Marke wegen Nichtbenutzung, Fristen, Benutzungsformen, Waren- und Dienstleistungsumfang, B…
-8. **dpma-mehrparteien-konflikt-und-interessen** — Steuert Mehrparteienkonflikte in markenrechtlichen DPMA-Verfahren: priorisiert Rechte, Fristen, Benutzung und Belege, tr…
-9. **patentverletzung-schadensberechnung-pruefen** — Prüft und berechnet Schadensersatz nach Patentverletzung anhand konkretem Schaden, Lizenzanalogie und Verletzergewinn, b…
-10. **eu-design-schutzumfang-gesamteindruck-pruefen** — Prüft den Schutzumfang eines eingetragenen oder nicht eingetragenen Unionsdesigns anhand Darstellung, informierten Benut…
+7. **design-verletzergewinn-kostenabgleich** — Prüft Rechnungslegung und Verletzergewinn bei Verletzung eines deutschen eingetragenen Designs anhand von Artikeln, Reto…
+8. **markenrecht-verfallsantrag-paragraf-49-markeng** — Prüft Verfall einer deutschen Marke wegen Nichtbenutzung, Fristen, Benutzungsformen, Waren- und Dienstleistungsumfang, B…
+9. **dpma-mehrparteien-konflikt-und-interessen** — Steuert Mehrparteienkonflikte in markenrechtlichen DPMA-Verfahren: priorisiert Rechte, Fristen, Benutzung und Belege, tr…
+10. **patentverletzung-schadensberechnung-pruefen** — Prüft und berechnet Schadensersatz nach Patentverletzung anhand konkretem Schaden, Lizenzanalogie und Verletzergewinn, b…
 
 ---
 
@@ -650,6 +650,54 @@ Bitte geben Sie uns bis [Datum] Rückmeldung.
 
 ---
 
+## Skill: `design-verletzergewinn-kostenabgleich`
+
+_Prüft Rechnungslegung und Verletzergewinn bei Verletzung eines deutschen eingetragenen Designs anhand von Artikeln, Retouren, Kostenbelegen und Gewinnzurechnung. Liefert eine belastbare Betragsbrücke für Zahlungsforderung oder Verteidigung; keine allgemeine Designanmeldung oder Patentprüfung._
+
+# 1. Zweck und Anwendungsfall
+
+Bereite den Zahlungsstreit nach einer Designverletzung auf. Der arbeitsintensive Engpass ist der Abgleich von Verkaufsdaten mit abzugsfähigen Kosten und dem durch die Verletzung erzielten Gewinn. Anders als eine allgemeine Verletzungsprüfung oder ein Vergleich der Patent-Schadensmethoden steht hier die prüffähige Rechnungslegung je Artikel im Mittelpunkt. Nicht automatisch den gesamten Unternehmensgewinn abschöpfen.
+
+## 2. Eingaben
+
+Lies zuerst Auftrag, Register- und Titelunterlagen, Rechnungslegung, Einzelrechnungen, Gutschriften, Warenwirtschaft und Kostenkonten. Erfasse Parteirolle, Schutzrecht, konkrete Produkte, Gebiet, Verletzungszeitraum, Verschulden, Bindungsumfang eines Feststellungstitels und bereits gewählte Berechnungsmethode. Kennzeichne nicht gelesene Daten und streitige Aussagen. Frage höchstens einmal gebündelt nach den für den Betrag entscheidenden Lücken; liefere im Übrigen einen bedingten Entwurf.
+
+## 3. Ablauf und Checkliste
+
+### 3.1. Abrechnungsgrenze und Mengen
+
+Bestimme für jedes Produkt, welche Verkäufe vom Anspruch erfasst sind. Trenne abweichende Modelle, Auslandsumsätze und Zeiträume außerhalb des Titels. Gleiche Stückzahl, Preis, Rechnung, Retoure und Gutschrift über eindeutige Belegnummern ab. Retouren nur einmal abziehen; ein Lagerabgang ist kein Verkauf. Umsatzsteuer, Rabatte und Skonti getrennt erfassen. Bei wechselnden Nettopreisen zeilenweise rechnen, keinen ungewichteten Durchschnitt verwenden.
+
+### 3.2. Kostenprüfung
+
+Bilde je Produkt: bereinigter Nettoerlös minus belegte abzugsfähige Kosten gleich vorläufiger Produktgewinn. Führe für Material, Fertigung, Verpackung, Fracht, Provision und behauptete Gemeinkosten jeweils Betrag, Beleg, Zuordnung und Entscheidung. Ein pauschaler Verwaltungs- oder Mietkostenschlüssel genügt nicht; prüfe, ob und in welchem Umfang Kosten den Verletzungsgegenständen unmittelbar zurechenbar sind. Vermeide den doppelten Abzug von Kosten bereits gutgeschriebener Retouren. Ein rechnerischer Verlust eines anderen Produkts wird nicht stillschweigend verrechnet.
+
+### 3.3. Zurechnung und Gegenrechnung
+
+Prüfe nach Paragraf 42 Absatz 2 DesignG, welcher Gewinn durch die Verletzung erzielt wurde. Trenne Kostenabzug von der kausalen Gewinnzurechnung; die Ablehnung einer Kostenposition beweist keinen Kausalanteil von 100 Prozent. Begründe relevante Kaufmotive, technische Funktion, Preis, weitere Schutzrechte und Gestaltung anhand von Belegen. Ein eigener guter Vertrieb rechtfertigt nach dem historischen Anker nicht schon einen pauschalen Abschlag. Bei offenem Kausalanteil rechne ausdrücklich bezeichnete Szenarien, nicht eine angeblich gerichtsfeste Quote. Konkreten Schaden und Lizenzanalogie nur als alternative Methode darstellen, nicht für denselben Schaden addieren. Keine erfundenen Lizenzsätze.
+
+### 3.4. Beweis und Abschluss
+
+Ordne jeder streitigen Rechenzeile Anspruchsvoraussetzung, Darlegung, Gegenbeleg und Auswirkung zu. Unterscheide Auskunft über Herkunft und Vertriebswege nach Paragraf 46 DesignG von ergänzender Rechnungslegung für den Schaden nach Paragraf 242 BGB; keinen unbegrenzten Datenraumzugang unterstellen. Benenne konkret fehlende Rechnungen oder Kostenbelege. Rechne Summen und Varianten einmal unabhängig nach. Danach liefere Ergebnis und Restlücken, keine Wiederholungsschleife. Keine Forderung versenden, keinen Methodenverzicht oder Vergleich eigenmächtig erklären.
+
+## 4. Quellenpflicht
+
+Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-gewerblicher-rechtsschutz/references/zitierweise.md), soweit verfügbar; der Arbeitsweg bleibt ohne diese Datei ausführbar. Norm und Aussage vor fallbezogener Verwendung amtlich prüfen, zeitliche Fassung festhalten, Unverifiziertes offen kennzeichnen.
+
+- [Paragraf 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html): verschuldensabhängiger Schadensersatz und Berechnungsalternativen.
+- [Paragraf 287 ZPO](https://www.gesetze-im-internet.de/zpo/__287.html): Schätzung anhand tatsächlicher Grundlagen.
+- [BGH, Urteil vom 02.11.2000, Az. I ZR 246/98, Gemeinkostenanteil](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=22971): amtlicher Leitsatz zum unmittelbaren Gemeinkostenbezug und zu eigenen Vertriebsleistungen. Historisch zu Paragraf 14a GeschmMG; keine Entscheidung zur heutigen Normfassung behaupten. Am 14.09.2026 amtlichen Leitsatz im Suchauszug geprüft, Volltextabruf gesperrt; keine Randnummer daraus ergänzen.
+
+## 5. Ausgabeformat
+
+Erstelle `ergebnis.md` mit Sachverhalt, Anspruchsrahmen, Mengenabgleich, Kostenentscheidungen, nachvollziehbarer Betragsbrücke, Zurechnungsszenarien und ausformulierter Forderungs- oder Erwiderungspassage. Tabellen ergänzen die Begründung, ersetzen sie nicht. Das Endprodukt besteht aus vollständigen Sätzen, nicht aus Skeletten oder Halbsätzen. Ausschließlich dezimale Überschriften; Times New Roman 11 pt bei formatiertem Export, sonst ausdrücklicher Exporthinweis. Beleglücken und Freigabevorbehalt nennen.
+
+## 6. Beispiele
+
+Passend: Eine Designinhaberin will eine Rechnungslegung mit Retouren und pauschalen Verwaltungskosten in einen Zahlungsentwurf überführen. Ebenso passend ist die beleggestützte Verteidigung des Herstellers gegen diese Berechnung. Nicht passend sind eine Neuheitsrecherche vor Anmeldung oder die technische Merkmalsanalyse einer Patentverletzung.
+
+---
+
 ## Skill: `markenrecht-verfallsantrag-paragraf-49-markeng`
 
 _Prüft Verfall einer deutschen Marke wegen Nichtbenutzung, Fristen, Benutzungsformen, Waren- und Dienstleistungsumfang, Beweislast und Verfahrensweg und erstellt einen vollständigen Antrag oder eine Verteidigung mit Benutzungsbelegmatrix._
@@ -823,44 +871,6 @@ Berechne erst nach Feststellung von Verletzung, Verschulden und Zeitraum. Die dr
 ## 5. Arbeitsergebnis
 
 Liefere Berechnungsmodell mit Sensitivitäten, Auskunftslücken und begründeter Methodenwahl für Zahlungsantrag oder Vergleich.
-
----
-
-## Skill: `eu-design-schutzumfang-gesamteindruck-pruefen`
-
-_Prüft den Schutzumfang eines eingetragenen oder nicht eingetragenen Unionsdesigns anhand Darstellung, informierten Benutzers, Gestaltungsfreiheit und Gesamteindruck und erstellt eine Verletzungs- oder Abwehrmatrix._
-
-# Schutzumfang eines Unionsdesigns prüfen
-
-## 1. Einsatz und Ziel
-
-Vergleiche die geschützte Darstellung mit der angegriffenen Gestaltung. Technische Idee, Produktkonzept und einzelne Gemeinsamkeiten ersetzen nicht den maßgeblichen Gesamteindruck.
-
-## 2. Normenanker
-
-- Artikel 10 der Verordnung über das Unionsdesign in der zeitlich geltenden Fassung: Schutzumfang und Gesamteindruck.
-- Artikel 8: technisch bedingte Merkmale und Verbindungselemente.
-- Artikel 11: Schutzdauer des nicht eingetragenen Unionsdesigns.
-- Artikel 19: Rechte aus eingetragenem und nicht eingetragenem Unionsdesign.
-
-## 3. Prüfprogramm
-
-1. Registerdarstellung, Priorität, Erzeugnisangabe und Schutzform sichern.
-2. sichtbare, technisch bedingte und nicht beanspruchte Merkmale trennen.
-3. informierten Benutzer und Aufmerksamkeitsgrad produktbezogen bestimmen.
-4. Gestaltungsfreiheit des Entwerfers im Anmeldezeitpunkt anhand Formenschatz belegen.
-5. prägenden Gesamteindruck strukturiert vergleichen, ohne Einzelmerkmale schematisch zu zählen.
-6. Beim nicht eingetragenen Design zusätzlich Nachahmung und Offenbarungszeitpunkt prüfen.
-
-## 4. Beweismerker
-
-- Hochauflösende Registerbilder und Verletzungsmuster in gleichen Ansichten gegenüberstellen.
-- Marktübliche Merkmale und technische Zwänge belegen.
-- Schutzbestand und Verletzung getrennt behandeln.
-
-## 5. Arbeitsergebnis
-
-Erstelle visuellen Merkmalsvergleich, Gesamteindrucksbewertung und einen bestimmten Unterlassungsantrag oder eine Nichtverletzungsposition.
 
 ---
 

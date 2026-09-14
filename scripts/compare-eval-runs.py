@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
-"""compare-eval-runs.py - Modell-zu-Modell-Vergleichs-Dashboard.
+"""Vergleicht ausschließlich technische Prüfungen der Aktenstruktur.
 
 Vergleicht zwei oder mehr Snapshots der EVAL_RESULTS.md (oder JSON-Logs aus
 run-eval.py --json-out) und erzeugt eine Side-by-Side-Tabelle.
 
 Verwendung:
-    python3 scripts/run-eval.py --json-out runs/opus-4-7.json
-    # spaeter, mit anderem Modell:
-    python3 scripts/run-eval.py --json-out runs/opus-4-8.json
-    python3 scripts/compare-eval-runs.py runs/opus-4-7.json runs/opus-4-8.json
+    python3 scripts/run-eval.py --structural-only --json-out runs/vorher.json
+    python3 scripts/compare-eval-runs.py runs/vorher.json runs/nachher.json
+
+Für tatsächliche Modellergebnisse: quality-lab.py compare LAUFORDNER ...
 """
 from __future__ import annotations
 
@@ -23,7 +23,9 @@ def load_run(path: Path) -> dict:
 
 
 def render_comparison(runs: list[tuple[str, dict]]) -> str:
-    lines = ["# Eval-Comparison", ""]
+    lines = ["# 1. Vergleich der Aktenstruktur", "",
+             "Diese Prüfung vergleicht Quelldateien, nicht erzeugte Arbeitsergebnisse. "
+             "Offene fachliche Bewertungen sind kein bestandener Modelltest.", ""]
     lines.append("| Akte | " + " | ".join(label for label, _ in runs) + " | Delta |")
     lines.append("| --- |" + " --- |" * (len(runs) + 1))
 
@@ -46,7 +48,8 @@ def render_comparison(runs: list[tuple[str, dict]]) -> str:
             stats = res.get("stats", {})
             passed = stats.get("passed", 0)
             total = passed + stats.get("failed", 0)
-            row.append(f"{passed}/{total}")
+            pending = stats.get("skipped", 0)
+            row.append(f"{passed}/{total} technisch; {pending} offen")
             scores.append((passed, total))
         # Delta
         if all(s is not None for s in scores) and len(scores) >= 2:
@@ -60,12 +63,12 @@ def render_comparison(runs: list[tuple[str, dict]]) -> str:
         lines.append("| " + " | ".join(row) + " |")
     lines.append("")
     # Summary
-    lines.append("## Zusammenfassung")
+    lines.append("## 1.1 Zusammenfassung")
     lines.append("")
     for label, data in runs:
         results = [r for r in data.get("results", []) if r.get("has_rubric")]
         passed = sum(1 for r in results if r.get("all_passed"))
-        lines.append(f"- **{label}**: {passed}/{len(results)} Akten All-Pass")
+        lines.append(f"- {label}: {passed}/{len(results)} Akten ohne offene oder fehlgeschlagene Prüfung; kein Modellvergleich")
     return "\n".join(lines) + "\n"
 
 

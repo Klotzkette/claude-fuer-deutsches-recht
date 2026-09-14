@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "legistik-werkstatt",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_82.html",
+      "checked_on": "2026-09-14",
+      "supports": "Inkrafttretensbestimmung von Bundesgesetzen und Rechtsverordnungen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der ganze Alttext wiederholte Normsetzungsrouten mit unpassenden Datenschutzankern. Der gelesene Übergangsskill zeigt den Bedarf an konkreten zeitlichen Fallweichen.",
+    "changes": [
+      "Änderungsbefehl und resultierende Fassung als Kontrollpaar eingeführt.",
+      "Altverfahren und gestaffelte Anwendung konkretisiert.",
+      "Unpassende Datenschutzkette und bloßes Normgerüst als Endprodukt entfernt."
+    ],
+    "sha256": "223818508ef33028fa23b9e8b333e5ddffa2be9f8cffac041ccbf871415acf2c"
+  },
+  "selection": {
+    "positive": [
+      "Formulieren Sie Übergangsrecht für vor dem Stichtag eingegangene Anträge.",
+      "Erstellen Sie eine Änderungssynopse mit konsolidierter Zielfassung."
+    ],
+    "negative": [
+      "Erheben Sie Normenkontrollklage gegen einen verkündeten Bebauungsplan.",
+      "Berechnen Sie ausschließlich Bürokratiekosten eines fertigen Gesetzentwurfs."
+    ]
+  },
+  "cases": [
+    {
+      "id": "altantraege-papierkanal",
+      "request": "Erstellen Sie in ergebnis.md einen Änderungsvorschlag mit Begründung für ein ausdrücklich fiktives Bundesgesetz. Der geltende Paragraf 4 lautet: Anträge können schriftlich oder elektronisch gestellt werden. Politisch beschlossen ist: Ab 01.07.2027 sollen neue Anträge nur elektronisch gestellt werden; zuvor eingegangene Anträge einschließlich späterer Ergänzungen sollen weiter schriftlich bearbeitet werden können. Inkrafttreten soll am 01.01.2027 sein, damit die Verwaltung das Portal vorbereiten kann. Andere Pflichten oder Sanktionen sind nicht gewünscht. Kompetenzfragen sind nicht Gegenstand des Auftrags; das Gesetz darf nicht als tatsächlich geltendes Recht erscheinen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Entwurf trennt Inkrafttreten am 01.01.2027 von der elektronischen Antragspflicht ab 01.07.2027.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Vor dem 01.07.2027 eingegangene Anträge und deren spätere Ergänzungen behalten den schriftlichen Kanal.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Änderung und resultierender Normtext sind widerspruchsfrei; weder Sanktionen noch reale Gesetzesfundstellen werden erfunden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "inkrafttreten-uebergangsrecht"
+    }
+  ]
+}

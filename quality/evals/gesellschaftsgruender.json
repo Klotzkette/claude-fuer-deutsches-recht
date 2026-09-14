@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "plugin": "gesellschaftsgruender",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__5a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 2: vollständige Einzahlung des UG-Stammkapitals vor Anmeldung; Sacheinlagen ausgeschlossen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__7.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 2: Einzelanteils- und Gesamteinzahlung bei der GmbH unterscheiden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/__36a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Bareinlage bei AG mindestens Viertel des geringsten Ausgabebetrags plus volles Aufgeld."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__8.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 2: Versicherung zu Leistung und freier Verfügung, keine eidesstattliche Versicherung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__19.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absätze 4 und 5 unterscheiden verdeckte Sacheinlage mit Wertanrechnung und sonstige vereinbarte Rückzahlung mit qualifiziertem Rückgewähranspruch."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Gründungsskill enthält einen Kapitalabgleich, während Mini und Werkstatt überwiegend allgemeine Organ- und Transaktionsarbeit routeten.",
+    "changes": [
+      "Gründungsfahrplan und Notaranfrage statt Klage als Standardprodukt.",
+      "UG-Vollzahlung von GmbH-Mindesteinzahlung getrennt.",
+      "Kapital, Aufgeld und Betriebsbudget getrennt."
+    ],
+    "sha256": "24fc24e918fd289fde04c225b002140c3855bfe4d24e74c7d62b467f1e96bf9a"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die Einzahlungsbelege vor Anmeldung unserer UG.",
+      "Erstelle einen Gründungsfahrplan mit Satzung, Konto und Registerschritten."
+    ],
+    "negative": [
+      "Fechte einen Jahre nach Gründung gefassten Entlastungsbeschluss an.",
+      "Erstelle eine englische Erläuterung eines bereits fertigen Cap Table."
+    ]
+  },
+  "cases": [
+    {
+      "id": "ug-halbe-einzahlung-laptop",
+      "request": "Erstelle ergebnis.md als Notarvorbereitungsvermerk. Zwei Gründer haben eine UG mit 2000 Euro Stammkapital beurkundet und jeweils einen Baranteil von 1000 Euro übernommen. Jeder hat bislang 500 Euro auf das Gesellschaftskonto eingezahlt. Ein Laptop eines Gründers im angenommenen Wert von 1000 Euro soll den Rest ersetzen. Eine Übertragung ist noch nicht erfolgt; eine Satzungsänderung fehlt. Die Gründer möchten morgen die Registeranmeldung veranlassen. Prüfe den aktuellen Einzahlungsstand und formuliere eine konkrete Nachricht zur Vorbereitung, ohne sie zu versenden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis weist 1000 Euro tatsächliche Einzahlung und 1000 Euro offenen Barbetrag aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Es lässt die Anmeldung der UG nicht nach einer GmbH-Halbzahlungsregel zu.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Laptop wird nicht als zulässiger Ersatz der UG-Bareinlagen angerechnet; die Nachricht verlangt den fehlenden Zahlungsnachweis und behauptet keine erfolgte Anmeldung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "stammkapital-einzahlung"
+    },
+    {
+      "id": "ag-bareinlage-mit-aufgeld",
+      "request": "Erstelle ergebnis.md als rechnerischen Einzahlungsvermerk für eine AG-Bargründung. Der gesamte geringste Ausgabebetrag der Aktien beträgt 50000 Euro, das gesamte Aufgeld 20000 Euro. Alle Aktien werden einheitlich zu diesen Konditionen ausgegeben. Eingefordert ist nur die gesetzliche Mindestleistung vor Anmeldung, keine höhere Zahlung. 32500 Euro sind entsprechend anteilig und frei verfügbar eingezahlt. Andere Gründungsvoraussetzungen sind nicht Gegenstand des Auftrags. Prüfe allein, ob der Einzahlungsbetrag ausreicht und welcher Rest offenbleibt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Mindestleistung wird aus 12500 Euro auf den geringsten Ausgabebetrag und 20000 Euro vollem Aufgeld mit insgesamt 32500 Euro berechnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Ergebnis verlangt nicht pauschal vollständige Zahlung aller 70000 Euro vor Anmeldung, weist aber 37500 Euro Restpflicht aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Aussage bleibt auf Einzahlung beschränkt und behauptet keine vollständig geprüfte Registerreife der AG.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "stammkapital-einzahlung"
+    },
+    {
+      "id": "vereinbarte-rueckzahlung-vollwertiger-anspruch",
+      "request": "Erstelle ergebnis.md als Vorprüfung einer GmbH-Gründung mit 25000 Euro vollständig eingezahltem Stammkapital. Vor Einzahlung wurde vereinbart, dass die Gesellschaft dem alleinigen Gesellschafter anschließend 10000 Euro als Darlehen auszahlt. Ein Sachkauf liegt nicht vor. Der Rückzahlungsanspruch ist nach belastbarem Bonitätsnachweis vollwertig und vertraglich jederzeit fällig. Die Darlehensauszahlung und Vereinbarung werden in der Registeranmeldung ausdrücklich offengelegt. Prüfe nur die Einlagewirkung nach Paragraf 19 GmbHG und die Art der hierfür abzugebenden Versicherung; andere Gründungsfragen bleiben außen vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Fall wird als sonstige vereinbarte Rückleistung nach Absatz 5, nicht als Sachkauf nach Absatz 4 eingeordnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Vollwertigkeit, jederzeitige Fälligkeit und Offenlegung werden als konkrete Voraussetzungen geprüft; ein absolutes Verbot jeder Rückzahlung wird nicht behauptet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Versicherung nach Paragraf 8 Absatz 2 wird nicht in eine Versicherung an Eides statt umgedeutet; keine pauschale Wartefrist ersetzt die Tatbestandsprüfung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "stammkapital-einzahlung"
+    }
+  ]
+}

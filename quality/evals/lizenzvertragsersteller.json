@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "lizenzvertragsersteller",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
+      "checked_on": "2026-09-14",
+      "supports": "Einfaches oder ausschließliches Nutzungsrecht mit räumlicher, zeitlicher oder inhaltlicher Beschränkung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Rechte- und Nutzungsroute war individuell, die Beleg- und Vergütungsarbeit blieb abstrakt. Der gelesene Vergütungsskill unterscheidet Staffelabschnitte und Mindestlizenz genauer.",
+    "changes": [
+      "Staffelkontrollrechnung und Anrechnung von Mindestbeträgen konkretisiert.",
+      "Pauschale Rechteketten- und Steuerannahmen vermieden."
+    ],
+    "sha256": "21e6e5f47612a8ad2bdabe311ccbb9e16698e7f4fd38d754b66295e60ed767c2"
+  },
+  "selection": {
+    "positive": [
+      "Entwerfen Sie eine Umsatzlizenz mit abschnittsweise sinkenden Sätzen und Mindestbetrag.",
+      "Stimmen Sie Nutzungsarten und Rechteverzeichnis unseres Bildlizenzvertrags ab."
+    ],
+    "negative": [
+      "Recherchieren Sie entgegenstehende Patente ohne Vertragsgestaltung.",
+      "Prüfen Sie nur die Vertraulichkeitsabweichungen zweier NDA-Fassungen."
+    ]
+  },
+  "cases": [
+    {
+      "id": "staffel-mindestlizenz-anrechnung",
+      "request": "Formulieren Sie in ergebnis.md die Vergütungs- und Abrechnungsklausel einer Bildlizenz zwischen zwei deutschen Unternehmen mit Kontrollrechnung. Nutzungsrechte sind bereits geklärt. Bemessungsgrundlage ist der kalenderjährliche Nettoerlös aus lizenzierten Kalendern nach Umsatzsteuer, tatsächlichen Retouren und tatsächlich gewährten Rabatten; weitere Abzüge sollen ausgeschlossen sein. Vereinbart sind 8 Prozent für die ersten 100000 EUR und 5 Prozent für den darüberliegenden Erlösanteil. Jährliche Mindestvergütung 10000 EUR, auf die Jahresvergütung anrechenbar, ohne Vortrag ins nächste Jahr. Jahresmeldung und Zahlung binnen 30 Tagen nach Jahresende. Rechnen Sie mit 180000 EUR Bemessungsgrundlage.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Staffel ergibt 12000 EUR, ohne den niedrigeren Satz rückwirkend auf den gesamten Umsatz anzuwenden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Mindestbetrag wird angerechnet und nicht zusätzlich zu 12000 EUR gefordert; ein Folgejahresvortrag ist ausgeschlossen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die ausformulierte Klausel begrenzt Abzüge auf die vereinbarten Positionen und regelt Meldung sowie Fälligkeit konkret.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "klausel-verguetung-pauschale-royalty-tiered"
+    }
+  ]
+}

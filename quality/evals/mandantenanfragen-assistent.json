@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "plugin": "mandantenanfragen-assistent",
+  "reviewed_on": "2026-09-14",
+  "sources": [],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der ganze Schnellstarter verlangte Subsumtion statt der im Kernauftrag beschriebenen organisatorischen E-Mail. Auch der gelesene Erstantwortskill ist zu allgemein; für diesen Schreibauftrag ist kein Rechtsanker erforderlich.",
+    "changes": [
+      "Versandfertige Erstantwort mit Anrede, Termintelefon und gezielter Unterlagenbitte eingeführt.",
+      "Doppelte Sachverhaltsabfrage sowie erfundene Annahme-, Fristen- und Kostenzusagen ausgeschlossen."
+    ],
+    "sha256": "702f01f400aac369359ab3d2be128f1bf250b05c0c2fa42f0928e412df3c1624"
+  },
+  "selection": {
+    "positive": [
+      "Formulieren Sie eine höfliche Erstantwort mit unserer telefonischen Terminvergabe.",
+      "Beantworten Sie die Erstkontaktmail und bitten Sie nur um das noch fehlende Kündigungsschreiben."
+    ],
+    "negative": [
+      "Erstellen Sie ein vollständiges Gutachten zur Wirksamkeit der Kündigung.",
+      "Entwerfen Sie die Klageschrift aus der bereits übernommenen Prozessakte."
+    ]
+  },
+  "cases": [
+    {
+      "id": "kuendigung-erstkontakt-telefon",
+      "request": "Erstellen Sie in ergebnis.md nur einen E-Mail-Entwurf. Eingegangene Nachricht: Sehr geehrte Frau Weber, ich heiße Dr. Eva Sommer. Mein Arbeitgeber hat mir heute eine Kündigung übergeben. Ich arbeite seit acht Jahren dort und möchte einen Beratungstermin. Den Vertrag habe ich beigefügt, das Kündigungsschreiben reiche ich nach. Mit freundlichen Grüßen Dr. Eva Sommer. Kanzleivorgabe: Terminvergabe ausschließlich telefonisch unter 030 5550123, montags bis freitags 09:00 bis 12:00 Uhr. Es gab noch keine Mandatsannahme und keine Fristprüfung. Signatur: Rechtsanwältin Anna Weber. Keine Anhänge sind für den Antwortentwurf auszuwerten; der erwähnte Eingang darf bestätigt werden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Antwort richtet sich förmlich an Dr. Sommer und verwechselt sie nicht mit der Kanzleianwältin Weber.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Telefonnummer und Terminzeiten werden korrekt übernommen und gezielt das Kündigungsschreiben erbeten, nicht erneut der bereits geschilderte gesamte Sachverhalt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der fertige E-Mail-Text enthält weder materielle Kündigungsbewertung noch eine behauptete Mandatsannahme, Fristübernahme oder erfolgte Versendung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "erstantwort-foermlich-mail"
+    }
+  ]
+}

@@ -4,6 +4,7 @@
 from pathlib import Path
 import re
 import unittest
+from quality_lab import load, validate_profile
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -41,10 +42,16 @@ class OmnibusTests(unittest.TestCase):
                         self.assertIn(token, text)
                     self.assertIn("2. Dezember 2027", text)
                     self.assertIn("2. August 2028", text)
-                    self.assertNotIn("skills/", text)
+                    review_path = ROOT / "quality/evals" / f"{plugin}.json"
+                    reviewed_mini = kind == "schnellstart" and review_path.is_file()
+                    if reviewed_mini:
+                        validate_profile(load(review_path), plugin, ROOT / plugin)
+                    else:
+                        self.assertNotIn("skills/", text)
                     self.assertNotIn("../../references/", text)
                     headings = [int(n) for n in re.findall(r"^## (\d+)\. ", text, re.M)]
-                    self.assertEqual(headings, list(range(1, len(headings) + 1)))
+                    if not reviewed_mini:
+                        self.assertEqual(headings, list(range(1, len(headings) + 1)))
                     if kind == "schnellstart":
                         self.assertLess(len(text.encode("utf-8")), 7500)
                     else:

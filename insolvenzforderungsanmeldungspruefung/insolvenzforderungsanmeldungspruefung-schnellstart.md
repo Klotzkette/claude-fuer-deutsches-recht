@@ -1,79 +1,25 @@
-# Insolvenzforderungsanmeldungsprüfung — Schnellstart
+# 1. Insolvenzforderungen: Anmeldung und Prüfentscheidung
 
-Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.
+Prüfe die konkrete Forderungsanmeldung aus der angegebenen Gläubiger- oder Verwaltungsperspektive. Dieser Prompt arbeitet eigenständig ohne andere Dateien oder installierte Skills. Beginne nicht mit einer allgemeinen Insolvenzreifeprüfung, wenn das Verfahren bereits eröffnet und die Tabellenforderung mein Auftrag ist.
 
-Kernauftrag: Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, Paragraf 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Verfahren und Forderung identifizieren
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Schuldner, Gericht, Aktenzeichen, Eröffnungszeitpunkt, Anmeldefrist, Prüfungstermin, Gläubiger, Vertretung und gegebenenfalls Abtretung. Lies Anmeldung, Vertrag, Rechnungen, Lieferbelege, Kontoauszüge, Titel und Tabellenstand, soweit bereitgestellt. Stelle fehlende entscheidende Fragen einmal gebündelt. Ein stiller Upload einer Anmeldung führt unmittelbar zur Formal- und Betragsprüfung. Verwende vorhandene Extrakte bei Folgeaufträgen weiter.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Gutachten, Kontoauszüge, Buchhaltung, Forderungsanmeldung und Zahlungsverzeichnis. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Krise feststellen, Pflichten zuordnen, Antrag und Sicherung wählen; ohne konkreten Auftrag mit Krise feststellen beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 1.2 Grund und Betrag abgleichen
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Krise feststellen, Pflichten zuordnen, Antrag und Sicherung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Individualisiere den Lebenssachverhalt mit Vertragsbezug, Leistung, Datum und Gegenpartei. Ein bloßer Rechnungsbetrag ersetzt keinen Forderungsgrund. Zerlege die Summe in Hauptforderung, Zinsen und Kosten. Ziehe belegte Teilzahlungen und Gutschriften positionsbezogen ab. Prüfe Dubletten anhand Forderungsidentität, nicht nur Gläubigername oder gleicher Summe. Eine Sicherheit ist noch keine Zahlung; ziehe ihren Nominalwert nicht automatisch ab.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Für Zinsen erfasse Rechtsgrund, Ausgangsbetrag, Beginn, Ende, Satz, Satzwechsel und Berechnungsmethode. Trenne Zinsen vor und seit Eröffnung. Nach [Paragraf 39 Absatz 1 Nummer 1 InsO](https://www.gesetze-im-internet.de/inso/__39.html) sind seit Eröffnung laufende Zinsen nachrangig. Nachrangige Forderungen werden nach [Paragraf 174 Absatz 3 InsO](https://www.gesetze-im-internet.de/inso/__174.html) nur auf besondere gerichtliche Aufforderung angemeldet. Mische sie nicht mit dem Regelrang.
 
-## 2. Fachlicher Direktstart
+## 1.3 Forderungsart und Bestreiten
 
-1. Leitfrage aus Akte und Auftrag festlegen: Liegt Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit oder Überschuldung vor.
-2. Kernprüfung in einem Durchgang: Welche Frist oder Pflicht trifft welche Person; Welche Zahlung oder Sicherheit ist anfechtbar.
-3. Belege und Engpass zusammenführen: Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation; besonders kritisch ist: Insolvenzantragspflicht kann laufen.
-4. Erstes Arbeitsprodukt liefern: Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen.
+Unterscheide Insolvenzforderung, Masseverbindlichkeit sowie Aus- und Absonderung anhand Entstehungsgrund und Verfahrensbezug. Das Rechnungsdatum allein entscheidet diese Einordnung nicht. Prüfe behauptete vorsätzlich begangene unerlaubte Handlung anhand konkret angemeldeter Tatsachen, nicht nur eines angekreuzten Felds. Trenne Bestreiten des Grundes, des Betrags, des Rangs und eines besonderen Rechtsgrunds. Erfasse, wer widerspricht; Schuldnerwiderspruch und Verwalterbestreiten haben nicht automatisch dieselben Folgen. Prüfe bei Titeln die konkrete Feststellungs- und Betreibungslast gesondert.
 
-## 3. Kernroute
+## 1.4 Verwendbares Ergebnis
 
-1. Krise feststellen: Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen.
-2. Pflichten zuordnen: Geschäftsleitung, Gläubiger, Berater, Insolvenzgericht und Verwalterrolle klären.
-3. Antrag und Sicherung: Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten.
-4. Forderung und Tabelle: Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten.
-5. Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen.
+Liefere eine Betragsrechnung mit angemeldetem Betrag, belegtem Soll, Differenz und Belegstelle. Ergänze einen begründeten Prüfentscheidungsvorschlag mit feststellbarem, offenem und zu bestreitendem Teil. Fehlender Beleg bedeutet zunächst Klärungsbedarf, nicht automatisch materielle Nichtexistenz. Entwirf eine gezielte Nachforderung oder Gläubigerantwort. Benenne benötigte Dokumente konkret und vermeide globale Forderungen nach sämtlichen Geschäftsunterlagen.
 
-## 4. Fallkarte
+## 1.5 Verlässlichkeit und Abschluss
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | InsO Paragraf 17; InsO Paragraf 18; InsO Paragraf 19 |
-| Rechtsprechung | BGH, Urteil vom 23.01.2025 - IX ZR 229/22; BGH, Urteil vom 24.05.2005 - IX ZR 123/04 |
-| Tatbestand | Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen |
-| Beweislast | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation |
-| Rechtsfolge | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Krise feststellen | Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichten zuordnen | Geschäftsleitung, Gläubiger, Berater, Insolvenzgericht und Verwalterrolle klären. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antrag und Sicherung | Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Forderung und Tabelle | Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtung und Plan | Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- InsO Paragraf 17: Zahlungsunfähigkeit.
-- InsO Paragraf 18: drohende Zahlungsunfähigkeit.
-- InsO Paragraf 19: Überschuldung.
-- InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
-- Paragrafen 38-39 InsO — Insolvenzforderungen und Nachrang; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 47-51 InsO — Aussonderung und Absonderungsrechte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 53-55 InsO — Masseverbindlichkeiten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 174-177 InsO — Anmeldung und Nachtragsanmeldung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko.
-- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt.
-7.2. Norm: InsO Paragraf 17; InsO Paragraf 18 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Krise feststellen“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Dem Zeitpunkt der Insolvenzreife, der Kenntnis und der Bargeschäftsausnahme.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Krise feststellen“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Insolvenzantragspflicht kann laufen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Verifiziere tragende Normen amtlich, Entscheidungen nur mit Gericht, Datum, Aktenzeichen und passender Aussage. Ohne Recherchezugang liefere die nachvollziehbare Rechnung und markiere offene Rechtsfragen. Ohne Export liefere Text, keinen erfundenen Dateilink. Keine eigenständige Anmeldung, Tabellenänderung, Anerkennung oder Zahlung. Schließe mit den nächsten Prüfschritten und Freigabebedarf. Schreibe vollständige Sätze, gliedere dezimal und nutze bei Dokumentexport Times New Roman in 11 Punkt. Die Werkstatt ist optional.

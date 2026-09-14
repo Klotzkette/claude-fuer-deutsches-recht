@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "plugin": "nda-abgleich",
+  "reviewed_on": "2026-09-14",
+  "sources": [],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der ganze Mini war ein allgemeiner Vertragsersteller statt Standardabgleich. Der gelesene Vergleichsmatrixskill enthält ebenfalls keine wirkliche Klauselzuordnung. Der gewählte Fall prüft vereinbarte Haltelinien ohne gesetzliche Wirksamkeitsbehauptung.",
+    "changes": [
+      "Semantische Zuordnung und minimale Ersatzformulierungen eingeführt.",
+      "Haltelinien von Gesetzesverstößen sowie echte Revisionen von bloßer Farbmarkierung getrennt."
+    ],
+    "sha256": "d1bb355dd7403ab8cb6d3da3a9f36e451ba649a502a690f754bef0f48f9d3e1b"
+  },
+  "selection": {
+    "positive": [
+      "Vergleichen Sie die Rückgabeklausel unseres Standards mit dem Fremdentwurf und ändern Sie nur die Abweichung.",
+      "Erstellen Sie eine Ampelmatrix zu Geheimhaltungsdauer und erlaubten Empfängern in zwei NDA-Fassungen."
+    ],
+    "negative": [
+      "Entwerfen Sie erstmals einen NDA ohne Standard und ohne Fremdfassung.",
+      "Prüfen Sie die Beweisbarkeit eines bereits erfolgten Geheimnisverrats ohne Vertragsvergleich."
+    ]
+  },
+  "cases": [
+    {
+      "id": "archivkopie-zweckbindung",
+      "request": "Erstellen Sie ergebnis.md mit Vergleichsmatrix und gezielter Ersatzklausel, kein DOCX. Wir sind Informationsempfänger. Unser Standard erlaubt eine automatisch erstellte, nicht operativ zugängliche Sicherungskopie nach Rückgabe; Zweckbindung und Geheimhaltung gelten dafür fort. Das ist eine feste Haltelinie. Der Fremdentwurf lautet vollständig für diesen Punkt: Nach Ende der Gespräche löscht der Empfänger sämtliche Informationen einschließlich jeder Sicherungskopie binnen 24 Stunden. Beide Fassungen regeln ansonsten gleichwertig eine Geheimhaltung von fünf Jahren. Eine allgemeine Nutzungsfreiheit archivierter Informationen ist nicht gewünscht. Andere Vertragsteile sollen nicht geändert werden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die ausnahmslose Sicherungskopienlöschung wird als konkrete Haltelinienabweichung erkannt und nicht lediglich die Frist beanstandet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Ersatzklausel erlaubt nur die beschriebene nicht operativ zugängliche Sicherungskopie und hält Zweckbindung sowie Geheimhaltung aufrecht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die gleichwertige Fünfjahresregel bleibt unverändert; weder zusätzliche Vertragsstrafe noch angebliche DOCX-Revisionen werden ausgegeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "nda-vergleichsmatrix-leitfaden"
+    }
+  ]
+}

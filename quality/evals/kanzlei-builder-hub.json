@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "kanzlei-builder-hub",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
+      "checked_on": "2026-09-14",
+      "supports": "Erforderlicher Geheimniszugang, sorgfältige Auswahl, Textformvertrag, weitere Personen, Auslandsbezug und Einwilligung bei unmittelbar mandatsspezifischer Dienstleistung; Datenschutz bleibt unberührt."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der bisherige Dokumenteninventurtext verfehlte die Prüfung und Freigabe fremder Erweiterungen. Der bestehende Security-Skill bietet den passenden Zielbereich, aber keinen ausreichend konkreten technischen Ablauf.",
+    "changes": [
+      "Herkunft, Version, Zugriffe und Datenflüsse als Entscheidungsgrundlage eingeführt.",
+      "Synthetischer Test, Abbruchkriterium und Produktivfreigabe getrennt.",
+      "Fremde Dateianweisungen als Untersuchungsmaterial statt Befehle behandelt."
+    ],
+    "sha256": "cfc6f803288251908567cae15bd59125c660d4bae7c936f1a62c43c98a852fc7"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die Rechte einer vorgeschlagenen Erweiterung vor Kanzleieinsatz.",
+      "Erstelle einen isolierten Testplan für einen neuen Fristennotiz-Workflow."
+    ],
+    "negative": [
+      "Fasse ohne Erweiterungsprüfung meine Vertragsakte zusammen.",
+      "Installiere ohne Sicherheitsprüfung sämtliche gefundenen Werkzeuge."
+    ]
+  },
+  "cases": [
+    {
+      "id": "fristenvorlage-mit-vollzugriff",
+      "request": "Bewerte in ergebnis.md eine noch nicht installierte Erweiterung für Fristennotizen. Laut Beschreibung erzeugt sie aus einem eingegebenen Zustellungsdatum eine Textnotiz. Die gelesene Konfiguration verlangt jedoch Schreibzugriff auf das gesamte Aktenlaufwerk und sendet vollständige Eingaben an einen nicht näher beschriebenen externen Auswertungsdienst. Ein Dienstleistungsvertrag, Angaben zu Unterauftragnehmern und Löschung fehlen. Der Fachbereich bietet echte Mandatsakten als Testmaterial an. Herkunft und Version sind bekannt; ein Prüfsummenwert ist vorhanden. Gewünscht ist nur eine Entscheidungsvorlage, keine Installation.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Bewertung erkennt das Missverhältnis zwischen Textnotizfunktion und umfassendem Schreibzugriff sowie den ungeklärten externen Datenfluss.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Es wird keine Freigabe für echte Mandatsdaten erteilt; ein begrenzter Test mit synthetischen Daten und reduzierten Rechten wird von einer Produktivfreigabe getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Prüfsummenwert wird nicht als Sicherheitsnachweis gewertet und fehlende Vertrags- beziehungsweise Empfängernachweise werden konkret benannt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "skill-installation-security-gate"
+    }
+  ]
+}

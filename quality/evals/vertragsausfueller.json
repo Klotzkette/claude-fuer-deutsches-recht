@@ -1,0 +1,45 @@
+{
+ "schema_version":1,"plugin":"vertragsausfueller","reviewed_on":"2026-09-14","sources":[{"url":"https://www.gesetze-im-internet.de/bgb/__355.html","checked_on":"2026-09-14","supports":"Widerrufsfrist setzt ein gesetzlich eingeräumtes Verbraucherwiderrufsrecht voraus; keine allgemeine 14-Tage-Lösung für Unternehmerverträge."},{"url":"https://www.gesetze-im-internet.de/bgb/__312g.html","checked_on":"2026-09-14","supports":"Verbraucherwiderruf bei Fernabsatz und außerhalb von Geschäftsräumen mit gesetzlichen Ausnahmen; kein pauschales Widerrufsrecht im reinen B2B-Mappingfall."}],
+ "mini_review":{"verdict":"revised","reason":"Der Schnellstart war allgemeine Vertragsgestaltung statt kontrolliertem Befüllen. Der Mapping-Skill liefert brauchbare Feldlogik; dessen fachfremde Fristliste wurde nicht übernommen.","changes":["Feldinventar samt Kopfzeilen und Altwerten","Quellenrang und Konfliktfreigabe statt stiller Auswahl","Ausfüllfassung und rechtliche Änderung getrennt"],"sha256":"9ee5687aaf10c2b9266394d33995938cf5e2e37c8b6011f683d481c92532d46b"},
+ "selection":{"positive":["Übertrage die freigegebenen Eckdaten in unsere Vertragsvorlage und protokolliere offene Felder.","Vergleiche Term Sheet und Vorlage vor der Ausfüllung auf Preis- und Laufzeitkonflikte."],"negative":["Entwickle ohne Vorlage ein vollständig neues internationales Lizenzmodell.","Klage eine bereits fällige Vertragsstrafe ein."]},
+ "cases":[{"id":"preis-konflikt-kopfzeile","request":"Liefere ergebnis.md als ausgefüllten Text mit Feldprotokoll. Vorlage: Kopfzeile Kunde Alt GmbH; Vertrag zwischen Anbieter A GmbH und [KUNDE]; Preis [PREIS] Euro netto monatlich; Beginn [BEGINN]; Anlage 1 Leistungsbeschreibung; Unterschrift [VERTRETER]. Unverändert zu erhalten ist die Klausel Haftung richtet sich nach den gesetzlichen Vorschriften. Freigegebenes Term Sheet vom 1. September: Kunde Neu GmbH, Beginn 1. Oktober 2026, Preis 1200 Euro netto monatlich. Nicht freigegebene E-Mail vom 5. September schlägt 1500 Euro vor. Der Auftraggeber sagt ausdrücklich, Preis erst nach Entscheidung einsetzen. Vertreter und Anlage fehlen. Keine Redline und keine neue Haftungsklausel gewünscht.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Ersetzt Alt GmbH auch in der Kopfzeile durch Neu GmbH und setzt den belegten Beginn ein.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Lässt den Preis wegen ausdrücklichen Entscheidungsvorbehalts offen und dokumentiert 1200 versus 1500 samt verschiedenem Freigabestatus.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Erhält die Haftungsklausel unverändert, erfindet weder Vertreter noch Anlage und liefert dennoch eine nutzbare Teilausfüllung ohne behauptete DOCX-Erzeugung.","deliverables":["ergebnis.md"]}],"target_skill":"termsheet-mapping"},
+{
+  "id": "b2b-mapping-ohne-verbraucherwiderruf",
+  "request": "Erstelle ergebnis.md mit ausgefüllter Vertragsfassung und kurzem Feldprotokoll. Vorlage: Kaufvertrag zwischen [VERKAEUFER] und [KAEUFER]; Kaufgegenstand [WARE]; Nettopreis [PREIS] Euro; Lieferung am [LIEFERDATUM]; Zahlungsziel [ZAHLUNGSZIEL]. Bestehende Schlussklausel: Änderungen bedürfen einer Vereinbarung der Parteien. Freigegebenes verbindliches Term Sheet vom 14. September 2026: Verkäuferin Drucktechnik A GmbH, Käuferin Handel B GmbH, zwei Druckmaschinen Modell D, Gesamtpreis 24000 Euro netto, Lieferung 1. Oktober 2026, Zahlung innerhalb von zehn Kalendertagen nach Rechnungseingang. Beide Gesellschaften handeln ausschließlich für ihren Geschäftsbetrieb; kein Verbraucher, keine Finanzierung, kein vereinbartes Widerrufs- oder Rückgaberecht. Der Auftrag lautet nur Datenübertragung, keine neue Rechtsgestaltung. Ein Altvermerk empfiehlt pauschal die Ergänzung einer 14-tägigen Widerrufsfrist nach Paragraf 14 BGB-InfoV. Ordne diesen Vorschlag im Protokoll ein; keine Originaldatei überschreiben.",
+  "input_files": [],
+  "deliverables": [
+    "ergebnis.md"
+  ],
+  "criteria": [
+    {
+      "id": "C01",
+      "text": "Überträgt die freigegebenen Parteien, zwei Maschinen, Gesamtpreis von 24000 Euro netto und den Liefertermin korrekt und verwechselt Gesamtpreis nicht mit Stückpreis.",
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    },
+    {
+      "id": "C02",
+      "text": "Erhält das Zahlungsziel als zehn Kalendertage ab Rechnungseingang, ohne mangels Rechnungseingangsdatum einen festen Zahlungstag zu erfinden.",
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    },
+    {
+      "id": "C03",
+      "text": "Fügt dem reinen Unternehmervertrag kein Verbraucherwiderrufsrecht hinzu und verwirft den Altvermerk als ungeeignete Grundlage; die 14-Tage-Regel wird nicht als allgemeines Vertragsrecht behandelt.",
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    },
+    {
+      "id": "C04",
+      "text": "Erhält die vorgegebene Schlussklausel und bleibt bei kontrollierter Ausfüllung mit Protokoll statt unbestellter Neugestaltung oder behaupteter Überschreibung.",
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    }
+  ],
+  "target_skill": "termsheet-mapping"
+}]
+}

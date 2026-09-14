@@ -1,77 +1,23 @@
-# Internationales Handelsrecht Lex Mercatoria — Schnellstart
+# 1. Internationaler Handel: Vertrag und Rechtsregime
 
-Wenn du das hier öffnest, willst du einen Transport-, Fracht- oder Außenhandelsfall nach Haftungsregime, Rügefristen, Dokumentenlage und Exportkontrolle ordnen.
+Prüfe meinen grenzüberschreitenden Handelsfall anhand der konkreten Vertragskette. Beginne nicht automatisch mit Transporthaftung. Dieser Prompt ist ohne installierte Skills und weitere Repository-Dateien nutzbar.
 
-Kernauftrag: Mega-Plugin für internationales Handelsrecht, CISG, Incoterms, UNIDROIT Principles, Lex Mercatoria, Schiedsverfahren, Trade Finance und Lieferkettenverträge. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Geschäft und Ziel
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Verkäufer, Käufer, Niederlassungen, Ware, Dienstleistungsanteile, Vertragsdatum, Lieferung, Währung, Streitbetrag und meine Rolle. Lies Vertrag, AGB, Bestellungen, Auftragsbestätigungen, Lieferdokumente und Korrespondenz. Kläre Rechtswahl, Gerichtsstand oder Schiedsklausel und maßgebliche Sprachfassung. Frage fehlende entscheidende Angaben einmal gebündelt ab. Bei Folgefragen vorhandene Extrakte weiterverwenden.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Transport- und Vertragskette, Regimewahl, Schaden und Fristen wählen; ohne konkreten Auftrag mit Transport- und Vertragskette beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 1.2 Regime nicht vermischen
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Transport- und Vertragskette, Regimewahl, Schaden und Fristen und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Trenne internationale Zuständigkeit, anwendbares Recht, UN-Kaufrecht und einbezogene private Regelwerke. Prüfe den CISG-Anwendungsbereich und einen behaupteten Ausschluss eigenständig. Eine bloße Wahl deutschen oder österreichischen Rechts bedeutet für sich nicht automatisch Ausschluss des UN-Kaufrechts. Prüfe Wortlaut, Einbeziehung, Auslegung und Kontext statt allein die Überschrift der Rechtswahlklausel. Als überprüfbarer Auslegungsanker dient die österreichische Entscheidung OGH vom 4. Juli 2007, 2 Ob 95/06v, im [amtlichen RIS](https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20070704_OGH0002_0020OB00095_06V0000_000&IncludeSelf=True&ShowPrintPreview=True). Sie ersetzt keine Prüfung des konkreten Forums und Vertrags.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei Incoterms erfasse Klausel, benannten Ort und Fassung; behaupte nicht, sie regelten automatisch Eigentumsübergang, Gerichtsstand oder sämtliche Leistungsstörungen. Bei UNIDROIT Principles und Handelsbräuchen prüfe Einbeziehung, Nachweis und rechtliche Funktion im staatlichen oder schiedsgerichtlichen Verfahren. Zwingendes Recht bleibt eine eigene Prüfung. Private Regelwerke nicht ohne verfügbare Originalquelle wörtlich rekonstruieren.
 
-## 2. Fachlicher Direktstart
+## 1.3 Leistung und Beweise
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Haftungsregime gilt zwingend für die konkrete Teilstrecke.
-2. Kernprüfung in einem Durchgang: Wurden Schäden fristgerecht und formwirksam vorbehalten oder gerügt; Welcher Höchstbetrag gilt und was durchbricht ihn.
-3. Belege und Engpass zusammenführen: Nachweisachse Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen; besonders kritisch ist: Eine Reklamations- oder Verjährungsfrist läuft in unter zwei Wochen ab.
-4. Erstes Arbeitsprodukt liefern: Haftbarhaltung: Transport, Schaden, Vorbehalt, Anspruchsgrund, Betrag, Frist.
+Ordne je Charge geschuldete Spezifikation, Menge, Preis, Liefertermin, tatsächliche Übergabe, Prüfung, Fehlerentdeckung und Anzeige zu. Trenne Ansprüche gegen Verkäufer, Frachtführer, Versicherer und Bank. Ein Transportschaden begründet nicht automatisch denselben Anspruch in allen Vertragsbeziehungen. Untersuche Rüge, Verjährung, Nachfrist und Vertragsaufhebung getrennt nach dem tatsächlich anwendbaren Regime; deutsche HGB-Fristen nicht ungeprüft auf CISG übertragen.
 
-## 3. Kernroute
+Bei Schäden rechne Mehrkosten, ersparte Aufwendungen und bereits erhaltene Ersatzleistungen positionsbezogen. Dokumentiere Wechselkursquelle, Stichtag und Rundung. Doppelersatz für dieselbe Lieferung vermeiden. Bei Sanktionen und Exportkontrolle benenne Güter, Beteiligte, Route, Endverwendung und aktuellen amtlichen Prüfbedarf, ohne allein aus einem Herkunftsland eine Freigabe oder ein Verbot abzuleiten.
 
-1. Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen.
-2. Regimewahl: CMR, HGB, See- oder Multimodalrecht mit zwingendem Charakter bestimmen.
-3. Schaden und Fristen: Schadensfeststellung, Vorbehalte, Reklamations- und Verjährungsfristen kalendarisch sichern.
-4. Haftung: Haftungsgrund, Höchstbeträge, Durchbrechung bei qualifiziertem Verschulden und Regresskette ordnen.
-5. Arbeitsprodukt: Haftbarhaltung, Reklamation, Regressschreiben, Klage oder Exportkontrollvermerk ausformulieren.
+## 1.4 Ergebnis und Freigabe
 
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | HGB Paragraf 407 ff; CMR; HGB Paragraf 452 ff |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen |
-| Beweislast | Nachweisachse Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen |
-| Rechtsfolge | Haftbarhaltung, Reklamation, Regressschreiben, Klage oder Exportkontrollvermerk ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Transport- und Vertragskette | Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Regimewahl | CMR, HGB, See- oder Multimodalrecht mit zwingendem Charakter bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schaden und Fristen | Schadensfeststellung, Vorbehalte, Reklamations- und Verjährungsfristen kalendarisch sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Haftung | Haftungsgrund, Höchstbeträge, Durchbrechung bei qualifiziertem Verschulden und Regresskette ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Haftbarhaltung, Reklamation, Regressschreiben, Klage oder Exportkontrollvermerk ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- HGB Paragraf 407 ff.: Frachtvertrag, Haftung des Frachtführers und Schadensvermutungen.
-- CMR: zwingendes Haftungsregime des grenzüberschreitenden Straßengütertransports mit Art. 17 ff. und Art. 32.
-- HGB Paragraf 452 ff.: multimodaler Transport und Teilstreckenhaftung.
-- HGB Paragraf 476 ff. und Seehandelsrecht: Seefracht, Konnossement und Haftungsgrenzen.
-- Paragraf 313 BGB: Störung der Geschäftsgrundlage — nationales Pendant zu Hardship; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 308 Nr. 4 BGB: AGB-Änderungsvorbehalte — Grenzen im deutschen Recht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- HGB Paragraf 453: Speditionsvertrag — Definition; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- HGB Paragraf 454: Pflichten des Spediteurs (Beförderung, Versicherung, Zoll, Benachrichtigung); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Haftbarhaltung, Reklamation, Regressschreiben, Klage oder Exportkontrollvermerk ausformulieren.
-7.2. Norm: HGB Paragraf 407 ff; CMR mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Transport- und Vertragskette“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Schäden fristgerecht und formwirksam vorbehalten oder gerügt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Haftbarhaltung“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Eine Reklamations- oder Verjährungsfrist läuft in unter zwei Wochen ab. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere Regimematrix, Belegchronologie und den gewünschten Vertrags- oder Anspruchsentwurf mit konkreter Klauseländerung. Stelle Anspruchsvoraussetzung, Tatsache, Beleg und Gegenargument nachvollziehbar gegenüber. Prüfe tragende Normen, Vertragsstaatenstatus und Entscheidungen amtlich zum relevanten Zeitpunkt. Ohne Quellenzugang liefere einen begrenzten Tatsachenabgleich mit offenen Rechtsfragen; ohne Export Text. Keine eigenständige Vertragsaufhebung, Schiedseinleitung, Zahlung oder Anzeige. Schreibe vollständige Sätze und dezimale Überschriften, bei Export Times New Roman in 11 Punkt. Die Werkstatt ist optional.

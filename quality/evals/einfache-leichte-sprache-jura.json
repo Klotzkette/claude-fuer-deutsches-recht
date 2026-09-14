@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "plugin": "einfache-leichte-sprache-jura",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgg/__11.html",
+      "checked_on": "2026-09-14",
+      "supports": "Verständliche Erläuterungen und Leichte Sprache im Anwendungsbereich öffentlicher Gewalt, keine allgemeine private Übersetzungspflicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_1/__11.html",
+      "checked_on": "2026-09-14",
+      "supports": "Leistungsarten statt einer allgemeinen Verständlichkeitsnorm."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__214.html",
+      "checked_on": "2026-09-14",
+      "supports": "Verjährung begründet Leistungsverweigerungsrecht; Geleistetes wird nicht allein wegen Verjährung rückforderbar."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bitv_2_0/__4.html",
+      "checked_on": "2026-09-14",
+      "supports": "Bestimmte Startseitenerläuterungen öffentlicher Stellen nach Anlage 2, nicht allgemeine Textpflicht aus Anhang 1."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Mini war ein fachfremdes allgemeines Subsumtionsschema; der Kernskill enthält dagegen sinnvolle Übertragungsregeln, aber auch unzutreffende Normverweise.",
+    "changes": [
+      "Adressatenfassung statt Gutachten zum Hauptoutput gemacht.",
+      "Fristen, Modalverben und Ausnahmen gesichert; keine Zertifizierung behauptet."
+    ],
+    "sha256": "53bf29445f0f65a627ce7c848b047d9516894f4c75434c38d681e7dc2d1348cc"
+  },
+  "selection": {
+    "positive": [
+      "Erkläre diesen Bescheid in Einfacher Sprache.",
+      "Übertrage den Mandantenbrief für Menschen mit geringer Lesekompetenz."
+    ],
+    "negative": [
+      "Begutachte erstmals die materielle Rechtmäßigkeit eines Steuerbescheids.",
+      "Übersetze einen Vertrag ins juristische Englisch."
+    ]
+  },
+  "cases": [
+    {
+      "id": "wahlrecht-und-offener-fristbeginn",
+      "request": "Übertrage für eine erwachsene Mandantin mit geringer Lesekompetenz folgenden Text in Einfache Sprache und liefere ergebnis.md: Sie können innerhalb eines Monats nach Zustellung Widerspruch einlegen. Eine Begründung kann nachgereicht werden. Die Zahlungspflicht bleibt bis zu einer gesonderten Aussetzung bestehen. Auf Antrag kann bei nachgewiesener Härte Ratenzahlung gewährt werden. Das Zustellungsdatum ist noch unbekannt. Der Text soll lediglich erläutert, nicht rechtlich neu bewertet werden; eine Prüfung durch die Zielgruppe hat nicht stattgefunden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Fassung erhält Widerspruch als Wahlrecht und erklärt Fristdauer samt Zustellung, ohne ein Enddatum zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Sie macht aus der möglichen Ratenzahlung keinen Anspruch ohne Härtenachweis und stellt die fortbestehende Zahlungspflicht nicht als ausgesetzt dar.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Sie liefert verständliche vollständige Sätze als Hauptprodukt und behauptet keine geprüfte oder zertifizierte Leichte Sprache.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "einfache-sprache"
+    },
+    {
+      "id": "verjaehrung-ohne-anspruchserloeschen",
+      "request": "Erstelle ergebnis.md als verständliche Fassung für eine erwachsene Mandantin ohne juristische Ausbildung. Der Ausgangstext lautet: Der Kaufpreisanspruch ist verjährt. Der Schuldner darf deshalb die Leistung verweigern. Der Anspruch ist damit nicht erloschen. Bereits freiwillig Geleistetes kann nicht allein wegen eingetretener Verjährung zurückgefordert werden. Erhalte diese Aussagen, formuliere kurz und füge keine neue Frist oder Handlungspflicht hinzu.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die einfache Fassung unterscheidet das Leistungsverweigerungsrecht vom Erlöschen des Anspruchs.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Sie behauptet keinen Rückzahlungsanspruch allein wegen Verjährung bereits freiwillig erbrachter Leistung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Sie bleibt beim Ausgangstext, ohne eine erfundene Ausschlussfrist oder zwingende Handlung der Mandantin einzuführen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "einfache-sprache"
+    }
+  ]
+}

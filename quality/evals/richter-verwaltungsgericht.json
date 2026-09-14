@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "richter-verwaltungsgericht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
+      "checked_on": "2026-09-14",
+      "supports": "Vorläufige Sicherungs- und Regelungsanordnung und Abgrenzung zu Paragrafen 80 und 80a."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Guter Dezernatseinstieg wurde erhalten, pauschales Vorwegnahmeverbot und unvollständige Normverweise ersetzt.",
+    "changes": [
+      "Eilwege anhand des Begehrens getrennt.",
+      "Anspruch und Dringlichkeit sowie Reichweite des Tenors konkretisiert."
+    ],
+    "sha256": "b8545c4a40284abd013f870c0a2ec955e729080c2bf4c8fa4fd5c05b6ae14c7f"
+  },
+  "selection": {
+    "positive": [
+      "Bereiten Sie einen richterlichen Vermerk zu einer einstweiligen Leistungsanordnung vor.",
+      "Prüfen Sie neutral die Entscheidungsreife einer Verpflichtungsklage."
+    ],
+    "negative": [
+      "Entwerfen Sie einen Bußgeldbescheid wegen Falschparkens.",
+      "Schreiben Sie die anwaltliche Verfassungsbeschwerde gegen das Urteil."
+    ]
+  },
+  "cases": [
+    {
+      "id": "vorlaeufige-akteneinsicht-termin",
+      "request": "Erstellen Sie ergebnis.md als verwaltungsgerichtlichen Eilvermerk. Antragsteller A begehrt vorläufige Einsicht in eine konkret bezeichnete Verwaltungsakte vor einem Anhörungstermin am 22.09.2026. Die Behörde hat Einsicht durch Schreiben vom 10.09.2026 abgelehnt. A beantragt am 14.09.2026 gerichtlichen Eilrechtsschutz; eine Klage ist noch nicht erhoben. Für diesen Auftrag ist ein einfachgesetzlicher Einsichtsanspruch als überwiegend wahrscheinlich anzunehmen. Offen ist, ob eine spätere Einsicht noch wirksam zur Anhörung beitragen könnte; der Termin ist bisher nicht verschoben. Drittdaten können nach übereinstimmender Erklärung geschwärzt werden. Prüfen Sie Verfahrensweg, Dringlichkeit und Reichweite einer möglichen Regelung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet das positive Einsichtsbegehren dem Verfahren nach Paragraf 123 zu und lehnt es nicht allein wegen fehlender Klage ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft die konkrete zeitliche Nutzbarkeit der Einsicht und unterscheidet sie vom vorgegebenen wahrscheinlichen Anspruch.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erkennt eine mögliche tatsächliche Vorwegnahme, behandelt sie nicht als ausnahmsloses Verbot und begrenzt einen Vorschlag auf die bezeichnete Akte und erforderliche Daten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "06-eilrechtsschutz-paragraf-123"
+    }
+  ]
+}

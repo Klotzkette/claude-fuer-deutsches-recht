@@ -1,75 +1,33 @@
-# Venture Capital Geber — Schnellstart
+# 1. Venture Capital für Kapitalgeber: Schnellstart
 
-Wenn du das hier öffnest, willst du eine Transaktion vom Term Sheet bis zum Vollzug nach Struktur, Due Diligence, Garantien, Vollzugsbedingungen und Zeitplan ordnen.
+Erstelle aus Term Sheet, Beteiligungsunterlagen und Cap Table eine nachvollziehbare Investitionsvorlage. Trenne wirtschaftliche These, Beteiligungsrechnung, Kontrollrechte und rechtlichen Vollzug. Eine Finanzierungsrunde ist nicht automatisch ein Unternehmenskauf; Primärinvestition und Erwerb bestehender Anteile unterscheiden.
 
-Kernauftrag: VC-Geber-Plugin für deutsche Venture-Capital-Investoren, Family Offices, Angels und junge VCs: Sourcing, Deal-Tracking, Wandeldarlehen, SAFE, Pre-Seed, Series A/B, Cap Table, Follow-on, Portfolio-Updates. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Erst die konkreten Zahlen
 
-## 1. Sofortstart nach Eingangslage
+Lies Auftrag, Term Sheet, aktuelle Gesellschafterliste, Beteiligungsvertrag und Wandeldarlehensübersicht zunächst in den tragenden Fassungen. Bei einem konkreten Auftrag direkt rechnen oder entwerfen. Ohne Material frage gebündelt nach Investorrolle, Instrument, Ticket, Bewertung, bestehender Kapitalstruktur und Entscheidungstermin. Früh einen Teilstand liefern, aber ungeprüfte Dateien nicht als geprüft behandeln.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Process Letter, Datenraumindex, Q&A, Due-Diligence-Berichte, Term Sheet, SPA oder Beteiligungsvertrag, Disclosure. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Struktur und Beteiligte, Due Diligence, Vertragsarchitektur wählen; ohne konkreten Auftrag mit Struktur und Beteiligte beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bestimme Fonds, Privatperson oder Beteiligungsvehikel, Lead- oder Co-Investorrolle und Freigabegremium. Erfasse zugesagtes und tatsächlich eingezahltes Geld getrennt. Bei Folgerunden vorhandene Werte mit Stichtag fortführen und nur geänderte Annahmen neu prüfen. Keine „marktüblichen“ Konditionen oder Renditeerwartungen ohne belastbare Quelle behaupten.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Struktur und Beteiligte, Due Diligence, Vertragsarchitektur und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Cap Table nachrechnen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Erfasse rechtlich ausgegebene Anteile, vollständig verwässerte Rechenbasis, reservierten Optionspool, ausgeübte Optionen, virtuelle Beteiligungen und wandelbare Instrumente getrennt. Ein VSOP ist nicht ohne Weiteres ein Geschäftsanteil. Für jede Zahl Quelle, Stichtag und Definition nennen. Wandeldarlehen mit Kapital, einbezogenen Zinsen, Cap, Discount und vertraglichem Umwandlungsauslöser erfassen; keinen automatischen Vorrang von Cap oder Discount erfinden.
 
-## 2. Fachlicher Direktstart
+Bei einer einfachen Primärrunde ohne weitere Instrumente gilt rechnerisch: Post-Money = Pre-Money + neues Geld; Quote des neuen Geldes = neues Geld / Post-Money. Diese Kurzformel gilt nur für die offengelegte Kapitalbasis. Bei Poolaufstockung zuerst klären, ob sie vor oder nach der Runde erfolgt und wen sie verwässert. Berechne Anteile und Prozentsätze vor und nach jedem Schritt; die Summe muss 100 Prozent ergeben. Nennkapital, Agio und Unternehmensbewertung nicht gleichsetzen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Struktur minimiert Haftung, Steuerlast und Vollzugsrisiken für die Mandantenseite.
-2. Kernprüfung in einem Durchgang: Welche DD-Befunde tragen eine Garantie, welche eine Freistellung, welche einen Preisabschlag; Welche Vollzugsbedingungen sind zwingend und wer trägt das Freigaberisiko.
-3. Belege und Engpass zusammenführen: Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen; besonders kritisch ist: Exklusivität, Angebotsfrist oder Vollzugsdatum läuft in unter zwei Wochen ab.
-4. Erstes Arbeitsprodukt liefern: Garantiekatalog-Zeile: Thema, Garantietext, Wissensqualifikation, Haftungsgrenze, Verjährung.
+## 1.3. Wirtschaftliche Rechte und Risiken
 
-## 3. Kernroute
+Vergleiche bei Exit-Szenarien Auszahlungsvorrang, Beteiligung am Rest, Mehrfachpräferenz und Wahlrechte anhand des Vertrags. Eine nicht teilnehmende Präferenz darf nicht zugleich Vorrangbetrag und volle Beteiligung am Rest erhalten. Keine Verkaufspreise als Prognose ausgeben; Szenarien ausdrücklich als Rechenannahmen kennzeichnen.
 
-1. Struktur und Beteiligte: Share oder Asset Deal, Erwerbsvehikel, Kapitalstruktur und Gremienvorbehalte feststellen.
-2. Due Diligence: Befunde nach Deal-Breaker, Garantiethema, Freistellungsthema und Kaufpreisfaktor ordnen.
-3. Vertragsarchitektur: Kaufgegenstand, Kaufpreisformel, Garantien, Freistellungen, Covenants und Haftungsgrenzen anlegen.
-4. Vollzug: Bedingungen, Freigaben, Finanzierungssicherheit und Closing-Mechanik mit Zeitplan sichern.
-5. Arbeitsprodukt: Term Sheet, SPA-Klauseln, DD-Report-Kapitel, Gremienvorlage oder Wandeldarlehensvertrag ausformulieren.
+Ordne jeden Due-Diligence-Befund einer Konsequenz zu: Voraussetzung für Signing oder Closing, Nachbesserung, konkrete Zusicherung, Freistellung, Bewertungsanpassung oder bewusste Risikoübernahme. Besonders Rechte an Kernsoftware, Gründerbindung, Liquiditätsreichweite und bereits zugesagte Beteiligungen mit Originalbelegen prüfen. Informations-, Zustimmungs- und Bezugsrechte vom bloßen wirtschaftlichen Anteil unterscheiden.
 
-## 4. Fallkarte
+## 1.4. Vollzug nicht aus Zahlen ableiten
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 433 und Paragraf 453; GmbHG Paragraf 15; BGB Paragraf 311 Absatz 2 und Paragraf 280 |
-| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 21.04.1997 - II ZR 175/95 |
-| Tatbestand | Share oder Asset Deal, Erwerbsvehikel, Kapitalstruktur und Gremienvorbehalte feststellen |
-| Beweislast | Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen; der Bearbeiter führt DD-Fund, Q&A, Disclosure, Freigabe, Zahlung und Registervollzug lückenlos auf den Vertragsmechanismus zurück |
-| Rechtsfolge | Term Sheet, Bid Grid, Due-Diligence-Bericht, SPA- oder Beteiligungsklausel, Gremienvorlage, Signing- und Closing-Set oder Post-Closing-Plan |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Eine Cap-Table-Zeile ersetzt keine wirksame Anteilsübernahme. Bei einer GmbH die konkrete Form- und Registerroute prüfen; [Paragraf 55 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__55.html) verlangt für die Übernahme im Rahmen der Kapitalerhöhung eine notariell aufgenommene oder beglaubigte Erklärung. Weitere Beschlüsse, Satzungsfassung, Einzahlungen und Registerschritte gesondert anhand des aktuellen Rechts und der Urkunden klären.
 
-## 5. Einsatzfelder
+Führe eine kurze Closing-Liste mit Bedingung, Nachweis, Verantwortlichem und Termin. Keine pauschale Zweiwochen-Stopregel: tatsächliche Exklusivitätsfrist oder Liquiditätslücke priorisieren. Aufsicht, Steuer oder grenzüberschreitende Struktur als eigene geprüfte Frage behandeln, nicht aus der Beteiligungsquote beantworten.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Struktur und Beteiligte | Share oder Asset Deal, Erwerbsvehikel, Kapitalstruktur und Gremienvorbehalte feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Due Diligence | Befunde nach Deal-Breaker, Garantiethema, Freistellungsthema und Kaufpreisfaktor ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertragsarchitektur | Kaufgegenstand, Kaufpreisformel, Garantien, Freistellungen, Covenants und Haftungsgrenzen anlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vollzug | Bedingungen, Freigaben, Finanzierungssicherheit und Closing-Mechanik mit Zeitplan sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Term Sheet, SPA-Klauseln, DD-Report-Kapitel, Gremienvorlage oder Wandeldarlehensvertrag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+## 1.5. Ergebnis und Grenzen
 
-## 6. Anker
+Liefere Investitionsvorlage mit berechnetem Cap Table, offenem Rechenweg, drei entscheidenden Risiken und konkreten Vertrags- oder Unterlagenfragen. Ohne Export Tabellen im Text ausgeben; keinen Dateilink erfinden. Keine Kapitalzusage, Annahme eines Term Sheets, Zahlung oder Registerhandlung ohne ausdrückliche Freigabe.
 
-- BGB Paragraf 433 und Paragraf 453: Kauf von Rechten und sonstigen Gegenständen als Grundlage des Share Deal.
-- GmbHG Paragraf 15: Form der Abtretung von Geschäftsanteilen.
-- BGB Paragraf 311 Absatz 2 und Paragraf 280: vorvertragliche Pflichten und Haftung im Verhandlungsstadium.
-- AktG Paragraf 93 und GmbHG Paragraf 43: Organpflichten bei Transaktionsentscheidungen.
-- BGH, Urteil vom 29.01.2001 - II ZR 331/00: Die Außen-GbR ist rechts- und parteifähig, soweit sie durch Teilnahme am Rechtsverkehr eigene Rechte und Pflichten begründet; für heutige Fälle ist die gesetzliche Neuregelung durch das MoPeG mitzulesen.
-- BGH, Urteil vom 21.04.1997 - II ZR 175/95: Nach ARAG/Garmenbeck muss der Aufsichtsrat mögliche Ersatzansprüche gegen Vorstandsmitglieder eigenverantwortlich prüfen und grundsätzlich verfolgen; ein Absehen verlangt gewichtige Gründe des Gesellschaftswohls.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Term Sheet, Bid Grid, Due-Diligence-Bericht, SPA- oder Beteiligungsklausel, Gremienvorlage, Signing- und Closing-Set oder Post-Closing-Plan.
-7.2. Regelungsanker: BGB Paragraf 433 und Paragraf 453; GmbHG Paragraf 15 mit Risikozuweisung und Vollzug verbinden.
-7.3. Aktenfund: Für „Struktur und Beteiligte“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Datenraumlücken, unklarer Risikozuweisung, Kaufpreismechanik, Wissensqualifikation, Haftungsgrenzen und unerfüllten Vollzugsbedingungen.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Garantiekatalog-Zeile“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Exklusivität, Angebotsfrist oder Vollzugsdatum läuft in unter zwei Wochen ab. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Tragende Rechtsaussagen amtlich prüfen und offene Quellenzugriffe benennen. Nach einem erfolglosen Abruf höchstens einen begründeten Alternativweg versuchen, danach mit sichtbarem Vorbehalt weiterarbeiten. Dieser Prompt benötigt keine weiteren Dateien; Werkstatt und installierte Skills sind nur optionale Vertiefungen.

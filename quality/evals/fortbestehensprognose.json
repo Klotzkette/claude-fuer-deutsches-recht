@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "fortbestehensprognose",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__19.html",
+      "checked_on": "2026-09-14",
+      "supports": "Zwölfmonatige überwiegend wahrscheinliche Unternehmensfortführung als Ausnahme im Überschuldungstatbestand."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Werkstattbezug zur Prognose wurde im Mini durch allgemeine StaRUG-Planarchitektur verdrängt; die eigentliche Liquiditätsprüfung fehlte.",
+    "changes": [
+      "Monatliche Liquiditätsbrücke und ersten Fehlbetrag zum Kern gemacht.",
+      "Unverbindliche Finanzierung nur als bedingtes Szenario zugelassen.",
+      "Zukünftige Unterdeckung von heutiger Zahlungsunfähigkeit getrennt."
+    ],
+    "sha256": "ff0db05f390363e94ba08951985670bb78e3a2da70d207ff63a1eb35e55a2699"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe meine Zwölfmonatsplanung auf eine tragfähige Fortbestehensprognose.",
+      "Bewerte eine noch nicht unterzeichnete Finanzierungszusage in der Liquiditätsplanung."
+    ],
+    "negative": [
+      "Erstelle ausschließlich eine Gläubigergruppenabstimmung für einen fertigen StaRUG-Plan.",
+      "Berechne den handelsrechtlichen Jahresüberschuss ohne Liquiditätsprüfung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "unterdeckung-trotz-positivem-endsaldo",
+      "request": "Erstelle ergebnis.md als Prognosevermerk zum 1. Oktober 2026 für eine GmbH. Frei verfügbare Anfangsliquidität: 100000 Euro. In jedem der ersten vier Monate fallen jeweils 40000 Euro fällige Auszahlungen und 10000 Euro sichere Einzahlungen an. In den folgenden acht Monaten beträgt der monatliche sichere Einzahlungsüberschuss jeweils 5000 Euro. Weitere Mittel fehlen. Ein Gesellschafter hat mündlich 50000 Euro für Monat vier in Aussicht gestellt, aber weder verbindlich zugesagt noch seine Leistungsfähigkeit belegt. Am Stichtag sind alle bereits fälligen Verbindlichkeiten bezahlt. Stelle Verlauf, Finanzierungsszenario und Aussagegrenzen dar.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Verlauf zeigt 70000, 40000, 10000 und minus 20000 Euro nach den ersten vier Monaten; der spätere positive Endsaldo verdeckt die Unterdeckung nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die mündlich in Aussicht gestellten 50000 Euro werden nicht als gesichert behandelt und tragen keine vorbehaltlose positive Prognose.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Aus der erst im vierten Monat geplanten Lücke wird nicht ohne zusätzliche Tatsachen heutige Zahlungsunfähigkeit abgeleitet; weitere Insolvenzprüfung und Finanzierungsnachweis werden konkret benannt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "liquiditaet-12-monate"
+    }
+  ]
+}

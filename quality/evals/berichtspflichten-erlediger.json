@@ -1,0 +1,28 @@
+{
+  "schema_version":1,
+  "plugin":"berichtspflichten-erlediger",
+  "reviewed_on":"2026-09-14",
+  "sources":[],
+  "mini_review":{
+    "verdict":"revised",
+    "reason":"Meldeinventar und Datenlinie waren brauchbar, aber mehrfach wiederholt; ein pauschaler Stopp bei weniger als fünf Arbeitstagen hinderte gerade die fristkritische Sacharbeit. Der Audit-Trail-Skill wurde für die konkrete Freigabe- und Korrekturspur herangezogen, nicht für seine pauschalen Fachrechtsfristen.",
+    "changes":["Feldherkunft, Periodenabgrenzung, Einheiten und Dublettenprüfung ausführbar beschrieben.","Korrekturstand, Freigabe und Eingangsquittung getrennt.","Unbelegte fachübergreifende Fristen durch Prüfung der konkreten Meldevorgabe ersetzt."],
+    "sha256":"0cffe802871545f2c585d758fe89afcbace1282935d0ea99284f4800d54be21f"
+  },
+  "selection":{
+    "positive":["Ordnen Sie die Umsatzdaten den Feldern unseres amtlichen Erhebungsbogens zu und erstellen Sie eine Freigabevorlage.","Bereiten Sie die Berichtigung einer bereits abgegebenen Mengenmeldung mit nachvollziehbarer Differenz und Nachweisspur vor."],
+    "negative":["Schreiben Sie einen werblichen Geschäftsbericht ohne Meldepflicht oder Datenübermittlung.","Verteidigen Sie uns gegen einen bereits erlassenen kartellrechtlichen Bußgeldbescheid."]
+  },
+  "cases":[{
+    "id":"meldestand-einheiten-und-quittung",
+    "request":"Erstellen Sie für unseren internen Meldeprozess eine prüfbare Freigabevorlage. Die von uns verbindlich vorgegebene Feldregel lautet: Nur September-Lieferungen der A GmbH, Nettowerte in Tausend Euro, Rücklieferungen des September abziehen; B GmbH nicht einbeziehen. Datensätze: A-101, Lieferung 3. September 2026, 120000 Euro netto; A-102, Lieferung 9. September, 80000 Euro netto; A-R7, Rücklieferung 12. September zu A-101, 10000 Euro netto; B-55, Lieferung 10. September, 50000 Euro netto. Die Datei enthielt A-102 zweimal mit derselben Belegnummer, demselben Datum und identischen Werten; die Buchhaltung bestätigt eine technische Dublette. Eine Vorversion mit Feldwert 200 wurde intern von Frau Kern freigegeben. Die aktuelle Bearbeiterin Frau Lang hat das Formular mit dem neuen Stand befüllt, aber noch keine erneute Freigabe erhalten. Eine Portalquittung liegt für keinen Stand vor. Interner Abgabetermin ist der 18. September. Erstellen Sie Feldberechnung, Änderungsvermerk und Status zum 14. September; recherchieren Sie keine zusätzliche gesetzliche Meldepflicht und versenden Sie nichts.",
+    "input_files":[],
+    "deliverables":["ergebnis.md"],
+    "criteria":[
+      {"id":"C01","text":"Der neue Feldwert beträgt 190 Tausend Euro; B-55 bleibt ausgeschlossen und A-102 wird trotz doppeltem Datensatz nur einmal gezählt. Die Berechnung ist nachvollziehbar.","deliverables":["ergebnis.md"]},
+      {"id":"C02","text":"Der Änderungsvermerk erhält den freigegebenen Vorwert 200 und erklärt die Differenz von minus 10 durch die Rücklieferung, statt den alten Stand als unverändert freigegeben auszugeben.","deliverables":["ergebnis.md"]},
+      {"id":"C03","text":"Das Ergebnis unterscheidet Formularvorbereitung, ausstehende erneute Freigabe und fehlenden Übermittlungsnachweis; es behauptet keine abgeschlossene Meldung und weist eine konkrete nächste Freigabehandlung vor dem internen Termin aus.","deliverables":["ergebnis.md"]}
+    ],
+    "target_skill":"audit-trail-freigabe"
+  }]
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "hinweisgeberschutz-compliance",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__17.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Suchauszug mit vollständigen Absätzen 1 und 2 gelesen: Bestätigung, Rückmeldefrist und Beschränkung der Rückmeldungsinhalte; Direktabruf hatte Zeitüberschreitung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die bestehende Melde- und Untersuchungsroute nannte Fristen nur abstrakt und unterschied Rückmeldung nicht vom Untersuchungsschluss.",
+    "changes": [
+      "Fristauslöser mit und ohne Bestätigung konkretisiert.",
+      "Rückmeldung auf Maßnahmen und Gründe mit Schutz laufender Ermittlungen begrenzt.",
+      "Keine automatische Identitätsweitergabe an allgemeines Managementreporting."
+    ],
+    "sha256": "0bbb8e4b5f5e91ebac423dd3520ad42e8f7566b3f0700e8eadad9eac0d09a146"
+  },
+  "selection": {
+    "positive": [
+      "Entwirf eine fristgerechte Rückmeldung unserer internen Meldestelle bei noch laufender Untersuchung.",
+      "Prüfe den Vertraulichkeitskreis für eine interne Korruptionsmeldung."
+    ],
+    "negative": [
+      "Bearbeite eine reine Kundenreklamation über Lieferverzug.",
+      "Erstelle einen vollständigen strafprozessualen Verteidigungsschriftsatz für die beschuldigte Geschäftsführung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "rueckmeldung-untersuchung-offen",
+      "request": "Die interne Meldestelle einer GmbH erhielt am 1. Juni 2026 eine dem HinSchG unterfallende Meldung zu manipulierten Rechnungen und bestätigte den Eingang am 3. Juni. Heute ist der 31. August. Zwei Rechnungen wurden gesichert, ihre Manipulation ist noch nicht nachgewiesen. Die Befragung einer benannten Person steht am 10. September an. Die meldende Person bittet um den vollständigen Namen aller Befragten und eine Bestätigung der Schuld des Einkaufsleiters. Erstelle ergebnis.md mit Rückmeldetermin, internem Bearbeitungsplan und extern verwendbarem Rückmeldungsentwurf. Versende nichts.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Leitet die Rückmeldung von der Bestätigung am 3. Juni ab und nennt den 3. September als Termin, ohne bis zum Interview am 10. September zuzuwarten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Beschreibt Sicherung und geplante Befragung als Maßnahmen, ohne Manipulation oder persönliche Schuld als bewiesen auszugeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erfüllt die Forderung nach sämtlichen Namen nicht ungeprüft, sondern begrenzt die Rückmeldung zum Schutz von Personen und Untersuchung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "rueckmeldung-3-monate"
+    }
+  ]
+}

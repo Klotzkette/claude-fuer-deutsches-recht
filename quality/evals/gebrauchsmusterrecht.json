@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "gebrauchsmusterrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gebrmg/__3.html",
+      "checked_on": "2026-09-14",
+      "supports": "Schriftliche Beschreibungen und inländische Benutzung; sechsmonatige Schonfrist für auf der Ausarbeitung des Anmelders beruhende Offenbarung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Schutzwegroute entspricht der Werkstatt, aber der konkrete Herkunfts- und Datumsabgleich für die Schonfrist fehlte.",
+    "changes": [
+      "Eigene Offenbarung von unabhängiger Wettbewerberveröffentlichung getrennt.",
+      "Merkmalsvergleich und Offenbarungsprotokoll als greifbare Ergebnisse ergänzt.",
+      "Eintragung nicht als abschließenden Rechtsbestandsnachweis behandelt."
+    ],
+    "sha256": "874d07b3ae3f6f77d82ea5c4eb63303dc16129a6f373655a9d9ea61da6b89fac"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe anhand der Veröffentlichungstermine die Gebrauchsmuster-Schonfrist.",
+      "Vergleiche einen Gebrauchsmusteranspruch mit zwei technischen Vorveröffentlichungen."
+    ],
+    "negative": [
+      "Prüfe allein die Eigenart eines Möbel-Designs.",
+      "Bewerte eine Marke wegen beschreibender Angaben."
+    ]
+  },
+  "cases": [
+    {
+      "id": "eigenbroschuere-und-unabhaengiger-wettbewerber",
+      "request": "Erstelle ergebnis.md als Rechtsbestandsvorprüfung. Geplant ist eine deutsche Gebrauchsmusteranmeldung am 15. September 2026 ohne Priorität. Der Sachanspruch betrifft eine Halterung mit den Merkmalen A, B und C. Die eigene öffentliche Broschüre vom 1. April 2026 zeigt alle drei Merkmale vollständig. Ein Wettbewerber veröffentlichte am 1. Juni 2026 unabhängig davon eine ebenfalls öffentliche schriftliche Anleitung mit A, B und C. Abhängigkeit oder Übernahme vom Anmelder ist nach den vorliegenden Entwicklungsprotokollen ausgeschlossen. Erkläre die Bedeutung beider Dokumente und welche Empfehlung sich für diesen Anspruch ergibt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die eigene Aprilveröffentlichung wird anhand Herkunft und sechsmonatigem Zeitraum gesondert als möglicher Schonfristfall eingeordnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die unabhängige Juni-Anleitung wird nicht allein wegen Veröffentlichung innerhalb von sechs Monaten privilegiert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der vollständig identische Merkmalsbestand der unabhängigen Anleitung verhindert eine vorbehaltlose Neuheits- oder Durchsetzungsfreigabe des beschriebenen Anspruchs.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "neuheitsschonfrist-eigene-offenbarung"
+    }
+  ]
+}

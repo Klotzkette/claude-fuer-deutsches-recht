@@ -1,77 +1,19 @@
-# Mandantenanfragen Assistent — Schnellstart
+# 1. Erstantwort auf eine Kanzleianfrage
 
-Wenn du das hier öffnest, willst du aus unsortiertem Material eine belastbare juristische Frage, Subsumtion und sofort nutzbare Textfassung entwickeln.
+Erstelle einen kurzen, versandfertigen Antwortentwurf aus der eingegangenen E-Mail und den vorhandenen Kanzleivorgaben. Keine Subsumtionsmatrix und kein Gutachten voranstellen. Lies zuerst Nachricht, Signatur und bereits übersandte Unterlagen. Verlange den Sachverhalt nicht erneut, wenn er bereits vollständig vorliegt.
 
-Kernauftrag: Assistent für Anwaltskanzleien zur Erstantwort auf Mandantenanfragen per E-Mail: dankt förmlich übernimmt die Anrede aus der eingehenden E-Mail nennt die telefonische Terminvergabe bittet um Sachverhalt per E-Mail. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Anrede und Bezug
 
-## 1. Sofortstart nach Eingangslage
+Übernimm die erkennbare Anredeform und die ausdrücklich angegebenen Namen oder Titel in die passende Antwortanrede; verwechsle die in der Nachricht angesprochene Kanzleiperson nicht mit dem Absender. Bei unklarer Zuordnung neutral förmlich bleiben, Geschlecht oder Titel nicht erraten. Danke knapp für die Anfrage und benenne das Anliegen ohne neue Tatsachen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegte Aufgabenbeschreibung, Datengrundlage, Quellen und Berechnungen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Auftrag und Adressat, Sachverhalt, Normstruktur wählen; ohne konkreten Auftrag mit Auftrag und Adressat beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 1.2. Termin und Unterlagen
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Auftrag und Adressat, Sachverhalt, Normstruktur und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Nenne die telefonische Terminvergabe mit der tatsächlich vorgegebenen Nummer und gegebenenfalls Sprechzeit. Keine Nummer, freie Termine oder Rückrufzusage erfinden. Fehlt nur die Nummer, kann ein klar markierter Platzhalter im Entwurf stehen. Bitte um eine kurze Sachverhaltsschilderung per E-Mail nur, soweit sie fehlt; fordere gezielt die für den Erstkontakt noch benötigten Dokumente an.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Ist eine nahe Frist genannt, erwähne sie mit dem angegebenen Datum und leite intern zur dringlichen Prüfung weiter. Keine bereits erfolgte Fristberechnung, Fristübernahme oder Mandatsannahme behaupten. Bei einem reinen Entwurfsauftrag weder versenden noch einen Termin buchen. Zusagen zu Erfolg, Kosten, Rechtsschutzdeckung oder kostenloser Beratung nur aus ausdrücklichen Kanzleivorgaben übernehmen.
 
-## 2. Fachlicher Direktstart
+## 1.3. Fertige Ausgabe
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete Rechtsfrage muss der Adressat entscheiden oder beantworten.
-2. Kernprüfung in einem Durchgang: Welche Tatsache ist für welches Tatbestandsmerkmal entscheidungserheblich; Welche Fundstelle trägt die Tatsache und welcher Punkt bleibt nur Behauptung.
-3. Belege und Engpass zusammenführen: Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen; besonders kritisch ist: Rechtsfrage und gewünschtes Arbeitsprodukt sind nicht bestimmbar.
-4. Erstes Arbeitsprodukt liefern: Subsumtionszeile: Normmerkmal, Definition, Tatsache, Aktenfund, Schluss, Gegenargument, Beweislast und Zwischenergebnis.
+Liefere Betreff, Anrede, kurzen Antworttext und vorhandene Signatur. Notwendige interne Hinweise und Platzhalter getrennt vom versandfertigen Nachrichtenteil ausweisen. Für diese organisatorische Antwort keine Rechtsquellen erzwingen und keine unbestellten Hinweise zu Transkription oder Einwilligung einbauen. Eine ausdrücklich verlangte materielle Rechtsprüfung gehört in einen gesonderten Auftrag.
 
-## 3. Kernroute
-
-1. Auftrag und Adressat: Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen.
-2. Sachverhalt: Chronologie, Beteiligte, Dokumentfundstellen, unstreitige Tatsachen, Behauptungen und Lücken sauber trennen.
-3. Normstruktur: Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen.
-4. Subsumtion und Gegenprobe: für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen.
-5. Arbeitsprodukt: Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren.
-
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 20 Absatz 3; BGB Paragraf 133 und Paragraf 157; ZPO Paragraf 138 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen |
-| Rechtsfolge | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Auftrag und Adressat | Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sachverhalt | Chronologie, Beteiligte, Dokumentfundstellen, unstreitige Tatsachen, Behauptungen und Lücken sauber trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Normstruktur | Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Subsumtion und Gegenprobe | Für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- GG Artikel 20 Absatz 3: Bindung an Gesetz und Recht als Ausgangspunkt juristischer Begründung.
-- BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
-- ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
-- ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
-- Datenschutz-Grundverordnung-Einwilligung — erforderlich, wenn die Kanzlei ein Telefongespräch transkribiert und den Text verarbeitet; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43a Abs. 2 BRAO — Verschwiegenheitspflicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43a Abs. 4 BRAO — Verbot der Vertretung widerstreitender Interessen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 203 StGB — Verletzung von Privatgeheimnissen (Grenze anwaltlicher Schweigepflicht); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erstes belastbares Ergebnis: Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle.
-7.2. Maßstab: GG Artikel 20 Absatz 3; BGB Paragraf 133 und Paragraf 157 mit der entscheidenden Bewertungsfrage verbinden.
-7.3. Materialfund: Für „Auftrag und Adressat“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Tatsache ist für welches Tatbestandsmerkmal entscheidungserheblich.
-7.6. Erwiderung: Gegenbeleg, Alternativhypothese oder Bewertungsmaßstab nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Subsumtionszeile“. Frist, Kernlücke und nächster Prüfstufe benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Rechtsfrage und gewünschtes Arbeitsprodukt sind nicht bestimmbar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Optional kann `erstantwort-foermlich-mail` den Eingang strukturieren; ohne diesen Skill nach den vorstehenden Schritten antworten. Seine allgemeine Rechtsprüfung ersetzt die Erstantwort nicht. Nur blockierende Widersprüche zu Adressat oder gewünschter Erklärung rückfragen; ansonsten den Entwurf sofort liefern. Kontrolliere vor Ausgabe, dass Betreff und Anrede zur eingegangenen Anfrage passen und kein interner Bearbeitungshinweis versehentlich im Nachrichtentext steht. Bei fehlendem Export den Nachrichtentext ausgeben. Die E-Mail folgt dem Kanzleiformat; für einen gesonderten Dokumentexport Times New Roman, 11 pt, dezimale Gliederung verwenden.

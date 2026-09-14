@@ -1,76 +1,33 @@
-# Sozialversicherungsstatus Prüfer — Schnellstart
+# 1. Sozialversicherungsstatus: Schnellstart
 
-Wenn du das hier öffnest, willst du Sozialversicherungsstatus, Scheinselbständigkeit, Geschäftsführerstatus oder DRV-Beitragsrisiko sofort nach Gesamtbild und Belegen prüfen.
+Prüfe ein bestimmtes Auftragsverhältnis und einen bestimmten Zeitraum anhand der tatsächlichen Arbeit. Lies Vertrag, Leistungsbeschreibung, Abrechnung, Dienstpläne, Weisungen und vorhandene Bescheide zuerst. Liefere Statusmatrix, Anhörungserwiderung oder Beitragsrisikovermerk entsprechend dem Auftrag.
 
-Kernauftrag: Sozialversicherungsstatus und DRV-Statusfeststellung: Geschäftsführer, Freelancer, Anwälte, Lehrkräfte, Musikschulen, Plattformarbeit und Scheinselbständigkeit. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Konkretes Verhältnis statt Berufslabel
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Auftragnehmer, Vertragspartner, tatsächlichen Einsatzbetrieb, Tätigkeit, Zeitraum und Änderungen. Bei Vermittlung oder Dreiecksverhältnis die Weisungen und Eingliederung beim Dritten sichtbar machen. Nicht alle Aufträge einer Person automatisch gleich behandeln.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Auftrag und Zeitraum, Gesamtbild, Sonderrollen wählen; ohne konkreten Auftrag mit Auftrag und Zeitraum beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Paragraf 7 SGB IV nennt Weisungsgebundenheit und Eingliederung als Anhaltspunkte für Beschäftigung. Vertragsüberschrift, Umsatzsteuerrechnung, Gewerbeanmeldung und Wunsch nach Selbstständigkeit ersetzen die Prüfung der tatsächlichen Durchführung nicht. Quelle: https://www.gesetze-im-internet.de/sgb_4/__7.html
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Auftrag und Zeitraum, Gesamtbild, Sonderrollen und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Indizien gewichten
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Führe „Indiz / Vereinbarung / tatsächliche Praxis / Beleg / Richtung / Gewicht / Gegenargument“. Prüfe Zeit- und Ortsvorgaben, Arbeitsorganisation, Austauschbarkeit, eigene Preisgestaltung, Ausfallrisiko, Personal und Betriebsmittel. Ein hoher Stundensatz allein macht keine unternehmerische Tätigkeit.
 
-## 2. Fachlicher Direktstart
+Bei Geschäftsführern gesellschaftsrechtlich durchsetzbare Rechtsmacht anhand der Satzung prüfen, nicht nur familiären Einfluss oder tatsächliche Rücksichtnahme. Bei Lehrkräften einschlägiges Übergangsrecht zeitbezogen gesondert prüfen; eine Übergangsregel nicht als allgemeines Statusurteil verstehen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete Tätigkeit in welchem Zeitraum wird geprüft.
-2. Kernprüfung in einem Durchgang: Welche Indizien sprechen für Beschäftigung und welche für Selbständigkeit; Gibt es rechtlich durchsetzbare Einflussrechte oder nur faktische Macht.
-3. Belege und Engpass zusammenführen: Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko; besonders kritisch ist: Betriebsprüfungs- oder Widerspruchsfrist läuft.
-4. Erstes Arbeitsprodukt liefern: Statusmatrix, Anhörungserwiderung, Beitragsrisikorechnung, Widerspruch oder Klageentwurf erstellen.
+Selbstständigkeit und Versicherungspflicht als Selbstständiger unterscheiden. Die Frage nach Rentenversicherungspflicht nach Paragraf 2 SGB VI bleibt auch bei verneinter Beschäftigung möglich.
 
-## 3. Kernroute
+## 1.3. Verfahrensweg und Geldrisiko
 
-1. Auftrag und Zeitraum: Tätigkeit, Vertrag, Abrechnung, Einsatzort, Kunde, Gesellschaft und Prüfzeitraum feststellen.
-2. Gesamtbild: Weisungen, Eingliederung, Unternehmerrisiko, eigene Betriebsmittel, Vergütung und Außenauftritt gewichten.
-3. Sonderrollen: Geschäftsführer, Familienangehöriger, Lehrkraft, Plattformarbeiter, Freiberufler und arbeitnehmerähnlicher Selbständiger getrennt prüfen.
-4. Verfahren: Statusantrag, Anhörung, Betriebsprüfung, Säumniszuschläge, Beitragsbescheid, Widerspruch und Eilverfahren abbilden.
-5. Arbeitsprodukt: Statusmatrix, Anhörungserwiderung, Beitragsrisikorechnung, Widerspruch oder Klageentwurf erstellen.
+Nach Paragraf 7a SGB IV ist die konkrete Statusfeststellung von einer Betriebsprüfung oder Beitragsforderung zu unterscheiden. Prüfe, ob bereits ein Verfahren einer Einzugsstelle oder eines anderen Trägers zur Feststellung von Versicherungspflicht aufgrund Beschäftigung eingeleitet wurde; nicht parallel schematisch einen neuen Statusantrag empfehlen. Quelle: https://www.gesetze-im-internet.de/sgb_4/__7a.html
 
-## 4. Fallkarte
+Ein Statusbescheid entscheidet nicht automatisch jeden Versicherungszweig und jede Beitragshöhe. Für Nachforderungen Zeitraum, Entgeltbasis, Versicherungszweige, Beitragssätze, Grenzen, Zahlungen, Säumniszuschläge und Verjährung getrennt prüfen. Keine pauschale Prozentzahl auf den gesamten Rechnungsumsatz anwenden.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | SGB IV Paragraf 7; SGB IV Paragraf 7a; SGB IV Paragraf 28p |
-| Rechtsprechung | BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R; BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R |
-| Tatbestand | Tätigkeit, Vertrag, Abrechnung, Einsatzort, Kunde, Gesellschaft und Prüfzeitraum feststellen |
-| Beweislast | Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko |
-| Rechtsfolge | Statusfeststellungsantrag, Anhörungserwiderung, Beitragsabwehr, Nachzahlungsplan, Widerspruch oder Klage |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Widerspruchsfrist und Vollziehungswirkung nach Art des Bescheids unterscheiden. Die besondere aufschiebende Wirkung im Statusverfahren nicht ungeprüft auf jeden Beitragsbescheid übertragen.
 
-## 5. Einsatzfelder
+## 1.4. Ausformuliertes Ergebnis
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Auftrag und Zeitraum | Tätigkeit, Vertrag, Abrechnung, Einsatzort, Kunde, Gesellschaft und Prüfzeitraum feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Gesamtbild | Weisungen, Eingliederung, Unternehmerrisiko, eigene Betriebsmittel, Vergütung und Außenauftritt gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sonderrollen | Geschäftsführer, Familienangehöriger, Lehrkraft, Plattformarbeiter, Freiberufler und arbeitnehmerähnlicher Selbständiger getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahren | Statusantrag, Anhörung, Betriebsprüfung, Säumniszuschläge, Beitragsbescheid, Widerspruch und Eilverfahren abbilden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Statusmatrix, Anhörungserwiderung, Beitragsrisikorechnung, Widerspruch oder Klageentwurf erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Liefere ein gewogenes Gesamtbild mit stärkstem Gegenindiz und konkreter Nachforderung, nicht bloß eine Anzahl positiver und negativer Merkmale. Benenne, welche Änderung der Praxis das Ergebnis tatsächlich verändern könnte; keine rückdatierten Verträge oder fingierten Unternehmermerkmale empfehlen.
 
-## 6. Anker
+Bei entscheidenden Lücken einmal gebündelt nachfragen und unabhängige Teile weiterbearbeiten. Fristdruck priorisieren, aber keinen vollständigen Bearbeitungsstopp auslösen. Keine Meldung, Statusbeantragung oder Zahlung selbst vornehmen.
 
-- SGB IV Paragraf 7: Beschäftigung als nichtselbständige Arbeit, insbesondere Weisungsgebundenheit und Eingliederung.
-- SGB IV Paragraf 7a: Statusfeststellungsverfahren.
-- SGB IV Paragraf 28p: Betriebsprüfung durch Rentenversicherungsträger.
-- SGB IV Paragraf 28e: Beitragsschuld des Arbeitgebers.
-- BGB Paragrafen 611a/631; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R: Lehrkräfte und Dozenten sind nach dem konkreten Gesamtbild der Tätigkeit einzuordnen.
-- BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R: Auch bei Piloten oder Freelancern entscheiden Eingliederung, Weisungen und Unternehmerrisiko im Einzelfall.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Statusfeststellungsantrag, Anhörungserwiderung, Beitragsabwehr, Nachzahlungsplan, Widerspruch oder Klage.
-7.2. Norm: SGB IV Paragraf 7; SGB IV Paragraf 7a mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Auftrag und Zeitraum“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Indizien sprechen für Beschäftigung und welche für Selbständigkeit.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Auftrag und Zeitraum“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Betriebsprüfungs- oder Widerspruchsfrist läuft. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Amtliche Normfassung und zeitlich einschlägige Entscheidungen prüfen; keine Berufsgruppenurteile ohne übertragbaren Sachverhalt zitieren. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge auf dem dokumentierten Praxisstand fortführen.

@@ -1,77 +1,25 @@
-# Prozessrecht — Schnellstart
+# 1. Prozessauftrag aus Akte und Verfahrensstand ausführen
 
-Wenn du das hier öffnest, willst du aus einer Akte sofort eine prozessfähige Route bauen: Zuständigkeit, Frist, Antrag, Tatsachenvortrag, Beweis und nächste Verfügung.
+Beginne mit Nutzerauftrag, letztem gerichtlichen Schreiben, Zustellnachweisen und den entscheidenden Schriftsätzen. Ordne Parteien, Gericht, Aktenzeichen und Verfahrensart zu. Eine Zahlungsaufforderung des Gegners ist kein Mahnbescheid; ein Mahnbescheid keine gerichtliche Sachentscheidung. Erstelle direkt das verlangte Arbeitsprodukt. Frage nur nach einer Lücke, die Antrag, Frist oder Vertretung tatsächlich blockiert, und führe die übrige Sacharbeit fort.
 
-Kernauftrag: Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Vollstreckung und Schriftsätze. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Fristen mit ihrer Funktion erfassen
 
-## 1. Sofortstart nach Eingangslage
+Für jede Frist Auslöser, Nachweis, Beginn, Dauer, Ende und erforderliche Handlung dokumentieren. Verfügungsdatum, Zustellung und tatsächliches Lesen unterscheiden. Kalender, Feiertage und einschlägige Berechnungsregeln kontrollieren. Eine gegnerische Zustimmung ersetzt keine gerichtliche Fristentscheidung. Verlängerungsantrag und bewilligte Verlängerung getrennt ausweisen; das bisherige Ende bleibt bis zur geklärten Änderung sichtbar.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Klageschrift, Anlagenkonvolut, Protokoll und Zustellungsurkunde. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Prozessroute, Antrag und Streitgegenstand, Relation wählen; ohne konkreten Auftrag mit Prozessroute beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Im schriftlichen Vorverfahren nach ZPO Paragraf 276 die Anzeige der Verteidigungsbereitschaft von der schriftlichen Klageerwiderung trennen. Bei Zustellung im Inland gilt für die Anzeige eine zweiwöchige Notfrist; für die Erwiderung wird eine Frist von mindestens zwei weiteren Wochen gesetzt. Eine längere Erwiderungsfrist verschiebt nicht die Verteidigungsanzeige. Bei Auslandszustellung die Sonderregel des Absatzes 1 prüfen. Vertretung und zulässigen Übermittlungsweg vor dem Einreichungsentwurf feststellen; Einreichung und Eingang niemals fingieren.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Prozessroute, Antrag und Streitgegenstand, Relation und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Antrag und Tatsachengrundlage
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Formuliere, welche gerichtliche Entscheidung zu welchem Lebenssachverhalt verlangt wird. Bezifferte Hauptforderung, Zinsbeginn und weitere Ansprüche trennen. Haupt- und Hilfsbegehren nicht als gleichzeitige unbedingte Forderungen ausgeben. Bei Klageänderung, Erledigung oder Widerklage den bisherigen Streitgegenstand und die konkrete Änderung gegenüberstellen, bevor der neue Antrag geschrieben wird.
 
-## 2. Fachlicher Direktstart
+Prüfe den eigenen Vortrag zunächst unter Wahrunterstellung auf Schlüssigkeit. Ordne dann erhebliches Bestreiten und Einwendungen der Gegenseite zu. Eine bestrittene Behauptung wird dadurch nicht unschlüssig, sondern kann beweisbedürftig werden. Beweislast nach dem jeweiligen Tatbestandsmerkmal bestimmen, nicht pauschal nach Kläger- oder Beklagtenrolle. Eine Urkunde ist auf ihren tatsächlichen Inhalt zu prüfen; aus einem Dateinamen folgt kein bewiesener Zugang oder Vertragsabschluss.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Ist der Antrag bestimmt und vom Streitgegenstand getragen.
-2. Kernprüfung in einem Durchgang: Ist der Klägervortrag schlüssig, selbst wenn alles als wahr unterstellt wird; Ist der Beklagtenvortrag erheblich und welche Einwendung trägt er.
-3. Belege und Engpass zusammenführen: Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss; besonders kritisch ist: Frist, Zuständigkeit oder elektronischer Einreichungsweg ist unklar.
-4. Erstes Arbeitsprodukt liefern: Relationszeile: Anspruch, Klägertatsache, Bestreiten, Einwendung, Replik, Beweislast, Beweismittel und Entscheidung als Tabelle.
+## 1.3. Beweis und nächste Prozesshandlung
 
-## 3. Kernroute
+Zu jedem entscheidenden Streitpunkt Beweisthema, vorhandenes Beweismittel und noch fehlenden Nachweis benennen. Ein Zeuge braucht eine konkrete Wahrnehmung zum streitigen Vorgang, nicht nur eine allgemeine Bestätigung des Mandanten. Unstreitiges nicht unnötig unter Beweis stellen. Gerichtliche Hinweise, bereits erhobene Beweise und bisherige Fristsetzungen einbeziehen, statt jeden Folgeschriftsatz neu aufzubauen.
 
-1. Prozessroute: Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern.
-2. Antrag und Streitgegenstand: Klageziel, Lebenssachverhalt, Haupt- und Hilfsanträge, Nebenforderungen und Erledigung trennen.
-3. Relation: Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen.
-4. Beweis: Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln.
-5. Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen.
+Bei Eilrechtsschutz den zu sichernden Anspruch und die Dringlichkeit getrennt aus den Fakten herleiten. Bei Vollstreckung Titel, Klausel- und Zustellungslage sowie etwaige Sonderregeln prüfen, nicht aus einem obsiegenden Urteil unmittelbar jede Vollstreckungsmaßnahme ableiten. Zuständigkeitsgrenzen und Formvorschriften stets aktuell amtlich verifizieren.
 
-## 4. Fallkarte
+## 1.4. Ergebnis liefern
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | ZPO Paragraf 253; ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; ZPO Paragraf 138 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern |
-| Beweislast | Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss |
-| Rechtsfolge | Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Prozessroute | Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antrag und Streitgegenstand | Klageziel, Lebenssachverhalt, Haupt- und Hilfsanträge, Nebenforderungen und Erledigung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Relation | Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweis | Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- ZPO Paragraf 253: Mindestinhalt der Klageschrift und bestimmter Antrag.
-- ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
-- ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
-- ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
-- Paragraf 286 ZPO: Freie Beweiswürdigung kann vernichtungsbedingte Nachteile zulasten der vernichtenden Partei ziehen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 339 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 257 HGB; Paragraf 147 AO (Aufbewahrungsfristen); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 274 StGB (Urkundenunterdrückung), Paragraf 339 StGB (Rechtsbeugung, nur für Richter und Beamte); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis.
-7.2. Norm: ZPO Paragraf 253; ZPO Paragraf 130, Paragraf 130a und Paragraf 130d mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Prozessroute“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Substantiierung, Beweisantritt und Präklusion.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Relationszeile“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Frist, Zuständigkeit oder elektronischer Einreichungsweg ist unklar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere einen vollständigen Schriftsatz oder Fristenvermerk mit der konkret nächsten Handlung. Markiere Platzhalter, statt Tatsachen oder Anlagen zu erfinden. Für Quellen Normstelle und überprüfte Fundstelle nennen; keine sachfremden Strafnormen als allgemeine Prozesswarnung anhängen. Trenne Entwurf, Freigabe, Versand und Eingangsbestätigung. Formatierte Dokumente verwenden Times New Roman 11 pt und dezimale Gliederung. Andere Skills und Referenzen sind optional; die Frist-, Antrags- und Beweisarbeit lässt sich ohne sie fortsetzen.

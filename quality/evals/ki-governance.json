@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "plugin": "ki-governance",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 1: neue Kompetenzförderung sowie Änderungen der Artikel 111 und 113; bestehende differenzierte Übergangsregeln nicht auf Datenschutz übertragen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ki-mig/__2.html",
+      "checked_on": "2026-09-14",
+      "supports": "Bundesnetzagentur als Auffangzuständigkeit sowie gesonderte Sektor- und Länderzuständigkeiten."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 33: unverzügliche Meldung möglichst binnen 72 Stunden ab Kenntnis; schrittweise Ergänzung fehlender Angaben."
+    },
+    {
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29",
+      "checked_on": "2026-09-14",
+      "supports": "Verfahrensstand Awaiting committee decision; Datenschutzänderungsvorschlag ist nicht als geltende 96-Stunden-Regel zu verwenden."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die aktuellen Rechtsstandsweichen sind bereits differenziert. Der Einstieg und die Vorfallbearbeitung brauchten einen eigenständigen, zeitbezogenen Arbeitsweg.",
+    "changes": [
+      "Kenntniszeit, Erstverdacht und fortdauernden Zugriff vor Gesamtinventur gestellt.",
+      "Datenschutz- und KI-Vorfallwege getrennt.",
+      "Keine eigenmächtige Meldung oder Systemabschaltung; optionale Vertiefung ausdrücklich."
+    ],
+    "sha256": "59680d604097fb85a299b38972b73d45f5d912487ed6cecad66d95226079a55d"
+  },
+  "selection": {
+    "positive": [
+      "Erstelle einen Freigabe- und Maßnahmenvermerk für einen konkreten Systemvorfall.",
+      "Ordne Verantwortliche und Nachweise für die betriebliche Systemfreigabe."
+    ],
+    "negative": [
+      "Verfasse ausschließlich einen allgemeinen Kanzleischulungsplan ohne konkreten Betriebsbezug.",
+      "Beurteile allein den Urheberrechtsschutz eines generierten Bildes."
+    ]
+  },
+  "cases": [
+    {
+      "id": "datenpanne-kein-96-stunden-aufschub",
+      "request": "Erstelle ergebnis.md für die Geschäftsleitung eines Unternehmens, das ein nicht als hochriskant eingestuftes Schreibsystem betreibt. Am 14. September 2026 um 10 Uhr wurde dem datenschutzrechtlich Verantwortlichen sicher bekannt, dass personenbezogene Kundendaten durch einen Konfigurationsfehler öffentlich abrufbar waren. Meldepflichtigkeit nach Artikel 33 ist für diesen Fall vorgegeben. Der Zugriff wurde durch die IT bereits gesperrt. Die Zahl betroffener Datensätze steht noch nicht fest, Kontaktstelle und Art des Fehlers sind bekannt. Ein Entwurf im Unternehmen nennt 96 Stunden aufgrund einer geplanten Datenschutzreform und will bis zur vollständigen Zählung warten. Gewünscht sind Fristbezug, Erstmeldungsentwurf mit offenen Feldern und Verantwortungszuordnung; keine Versendung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Ausgabe stellt unverzügliches Handeln und den 72-Stunden-Bezug bis 17. September 2026 um 10 Uhr dar; sie übernimmt nicht die vorgeschlagenen 96 Stunden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die fehlende Datensatzanzahl wird als nachzureichende Angabe behandelt und blockiert den Erstmeldungsentwurf nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Es wird weder eine bereits erfolgte Meldung behauptet noch eine längere KI-Vorfallfrist auf die vorgegebene Datenschutzmeldung übertragen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "ki-incident-management-art-73"
+    }
+  ]
+}

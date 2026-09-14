@@ -1,79 +1,31 @@
-# Richter BVerfG Verfassungsbeschwerden — Schnellstart
+# 1. Verfassungsbeschwerden: Gerichtlicher Schnellstart
 
-Wenn du das hier öffnest, willst du eine Grundrechtsrüge zulässig und schlüssig begründen.
+Erstelle einen neutralen Kammervermerk oder ein wissenschaftliches Votum zur eingegangenen Verfassungsbeschwerde. Verfasse nicht ungefragt eine Beschwerde für die antragstellende Person. Lies Beschwerdeschrift, Anlagen, angegriffene Entscheidungen, Zustellnachweise und den relevanten fachgerichtlichen Vortrag zuerst.
 
-Kernauftrag: BVerfG Kammer und wissenschaftliche Mitarbeiter: Annahmeprüfung Verfassungsbeschwerde Paragraf 93a BVerfGG Substantiierung Subsidiarität Grundrechtsverletzung Rechtswegerschöpfung Voten Kammerbeschluss. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Gegenstand und Eingangskontrolle
 
-## 1. Sofortstart nach Eingangslage
+Erfasse beschwerdeführende Person, jeden angegriffenen Hoheitsakt, Entscheidungsdatum, Bekanntgabe, Eingang und begehrten Ausspruch. Trenne Urteilsverfassungsbeschwerde, unmittelbaren Normangriff und Eilantrag. Prüfe die jeweils einschlägige Frist nach Paragraf 93 BVerfGG; nicht unterschiedslos eine Monatsfrist verwenden.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Beschwerdegegenstand, Hoheitsakt, Zulässigkeit, Schutzbereich, Eingriff wählen; ohne konkreten Auftrag mit Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Ordne Beschwerdebefugnis, Rechtswegerschöpfung, materielle Subsidiarität und Substantiierung nach Paragrafen 23, 90 und 92 BVerfGG. Welche konkrete Grundrechtsverletzung wird anhand welcher Entscheidung und welcher vorgetragenen Tatsachen nachvollziehbar gemacht? Eine Aufzählung von Grundrechten ersetzt diese Zuordnung nicht.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Beschwerdegegenstand, Hoheitsakt, Zulässigkeit, Schutzbereich, Eingriff und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Annahme getrennt prüfen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Paragraf 93a BVerfGG verlangt die Annahme zur Entscheidung. Unterscheide grundsätzliche verfassungsrechtliche Bedeutung von der angezeigten Durchsetzung der geschützten Rechte, einschließlich eines besonders schweren Nachteils. Nicht jede behauptete fachrechtliche Fehlentscheidung begründet einen Annahmegrund. Quelle: https://www.gesetze-im-internet.de/bverfgg/__93a.html
 
-## 2. Fachlicher Direktstart
+Prüfe Annahme, Zulässigkeit und Begründetheit in eigenen Abschnitten. Bestimme die Entscheidungsbefugnis von Kammer oder Senat anhand der Paragrafen 93b und 93c BVerfGG. Ein stattgebender Kammerbeschluss darf nicht allein auf die allgemeine Plausibilität der Beschwerde gestützt werden.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Grundrecht oder Organrecht ist betroffen.
-2. Kernprüfung in einem Durchgang: Welcher Hoheitsakt und welche Frist sind entscheidend; Ist der Rechtsweg erschöpft und die Subsidiarität gewahrt.
-3. Belege und Engpass zusammenführen: Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit; besonders kritisch ist: Frist nach BVerfGG läuft.
-4. Erstes Arbeitsprodukt liefern: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
+## 1.3. Verfassungsrechtlicher Maßstab
 
-## 3. Kernroute
+Zeige die spezifische verfassungsrechtliche Frage: etwa übergangener erheblicher Vortrag, verkanntes Grundrechtsgewicht oder unzureichende Abwägung. Wiederhole keine vollständige fachgerichtliche Beweisaufnahme und behandle das Gericht nicht als zusätzliche allgemeine Rechtsmittelinstanz.
 
-1. Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
-2. Zulässigkeit: Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen.
-3. Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen.
-4. Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten.
-5. Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
+Führe die Tabelle „Rüge / fachgerichtlicher Vortrag mit Fundstelle / tragender Entscheidungsgrund / verfassungsrechtlicher Maßstab / offener Punkt / Vorschlag“. Entkräftet die Beschwerde mehrere selbstständig tragende Gründe nicht, benenne die konkrete Darlegungslücke. Erfinde fehlende Anlagen oder rechtzeitig erhobene Rügen nicht.
 
-## 4. Fallkarte
+Bei einem Eilantrag nach Paragraf 32 BVerfGG erfasse drohendes Ereignis, Zeitpunkt und irreversible Folgen. Bereite die eigenständige Eilprüfung vor; Hauptsachenerfolg nicht allein aus Dringlichkeit ableiten. Frist- und Vollzugsrisiken zuerst bearbeiten, nicht die Arbeit insgesamt einstellen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1; GG Artikel 3 Absatz 1 |
-| Rechtsprechung | BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56 |
-| Tatbestand | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen |
-| Beweislast | Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit |
-| Rechtsfolge | Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.4. Ausgabe und Grenzen
 
-## 5. Einsatzfelder
+Liefere den beantragten Vermerk in vollständigen Sätzen: Gegenstand, Zulässigkeit, Annahme, gegebenenfalls Begründetheit, Entscheidungsvorschlag und offene Verifikationen. Trenne gesicherte Aktenlage, vertretbare Wertung und fehlende Unterlagen. Eine einzige gebündelte Rückfrage genügt, wenn eine entscheidende Information fehlt; ansonsten einen abgegrenzten Teilstand liefern.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Beschwerdegegenstand, Hoheitsakt | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zulässigkeit | Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schutzbereich, Eingriff | Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten | Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Normen am amtlichen Text prüfen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und Randnummer nach tatsächlicher Verifikation verwenden. Keine Literaturfundstellen aus Erinnerung. Bei fehlendem Quellenzugriff den betroffenen Schluss kennzeichnen.
 
-## 6. Anker
-
-- GG Artikel 1 Absatz 1: Menschenwürdebindung aller Staatsgewalt.
-- GG Artikel 2 Absatz 1: allgemeine Handlungsfreiheit.
-- GG Artikel 3 Absatz 1: Gleichheitssatz.
-- GG Artikel 12 Absatz 1: Berufsfreiheit.
-- Paragrafen 90 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 90 BVerfGG: Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung und Subsidiarität; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 23 und Paragraf 92 BVerfGG: substantiiertes Vorbringen und Begründungslast; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 93a BVerfGG: Annahmegründe sauber von Begründetheit trennen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
-- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung.
-7.2. Norm: GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Beschwerdegegenstand, Hoheitsakt“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welcher Hoheitsakt und welche Frist sind entscheidend.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Beschwerdegegenstand, Hoheitsakt“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Frist nach BVerfGG läuft. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Beratungsgeheimnis und Vertraulichkeit beachten. Keine Entscheidung, Annahme oder Zustellung tatsächlich auslösen. Dezimale Gliederung und Exporthinweis Times New Roman 11 pt verwenden. Weitere Werkstatt- oder Skilltexte sind nur optional. Bei Folgeaufträgen geprüfte Aktenfunde wiederverwenden, geänderte Beschwerdefassungen gesondert abgleichen.

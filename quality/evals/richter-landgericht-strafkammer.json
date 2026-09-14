@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "richter-landgericht-strafkammer",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__203.html",
+      "checked_on": "2026-09-14",
+      "supports": "Eröffnung anhand hinreichenden Tatverdachts aus dem vorbereitenden Verfahren."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der alte Mini verwechselte Anklagearbeit mit gerichtlicher Eröffnungs- und Urteilsprüfung.",
+    "changes": [
+      "Zwischenverfahren und Hauptverhandlungsüberzeugung getrennt.",
+      "Einführung von Beweisen und Entlastungsprüfung konkretisiert."
+    ],
+    "sha256": "78aa50efcd6f522226a2ce3045aa85557f9c4cf34164e37153a55e06d8d0e4ea"
+  },
+  "selection": {
+    "positive": [
+      "Erstellen Sie einen Eröffnungsvermerk für die Strafkammer.",
+      "Prüfen Sie die Entscheidungsreife eines strafkammerlichen Urteilsentwurfs."
+    ],
+    "negative": [
+      "Schreiben Sie als Staatsanwaltschaft die Anklage.",
+      "Berechnen Sie zivilrechtlichen Schadensersatz nach dem Vorfall."
+    ]
+  },
+  "cases": [
+    {
+      "id": "eroeffnung-alibi-offen",
+      "request": "Erstellen Sie ergebnis.md für das Zwischenverfahren einer sachlich zuständigen Strafkammer. A ist wegen eines Raubs am 06.07.2026 um 21 Uhr angeklagt. Einziger unmittelbarer Belastungsbeleg ist die Wiedererkennung durch Opfer O nach einem kurzen Kontakt bei Dunkelheit; eine Videoaufnahme zeigt nur eine nicht identifizierbare Person. A benennt Arbeitgeberunterlagen über einen zeitgleichen Einsatz in einer 200 Kilometer entfernten Klinik und die anwesende Kollegin K. Die Unterlagen sind aktenkundig, ihre Herkunft wurde noch nicht überprüft und K nicht vernommen. A schweigt im Übrigen. Die Staatsanwaltschaft beantragt Eröffnung. Es hat keine Hauptverhandlung stattgefunden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft den Eröffnungsmaßstab und behauptet keine bereits aufgrund einer Hauptverhandlung erwiesene Schuld.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt die konkret benannten Alibibelege als ergebnisrelevanten Aufklärungsansatz und nicht als unbeachtliche Verteidigungstaktik.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert einen gerichtlichen Prüf- oder Aufklärungsentwurf ohne eigene Anklage oder belastende Folgerung aus dem Schweigen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "01-eroeffnungsverfahren-strafkammer"
+    }
+  ]
+}

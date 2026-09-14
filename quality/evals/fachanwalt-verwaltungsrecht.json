@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-verwaltungsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/vwvfg/__49.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 3: Zweckverfehlung und Auflagenverstoß als gesonderte Widerrufsgründe, Verweis auf Jahresfrist."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwvfg/__49a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Erstattungsfestsetzung, Rückwirkung und eigenständige Verzinsung einschließlich Absehensmöglichkeit."
+    },
+    {
+      "url": "https://www.bverwg.de/250522U8C11.21.0",
+      "checked_on": "2026-09-14",
+      "supports": "BVerwG, Urteil vom 25.05.2022, Az. 8 C 11.21, Volltext Randnummern 13 bis 20 geprüft: Zweck aus Bescheid und einbezogener Richtlinie, Jahresfrist je Widerrufsgrund und Anforderungen an Anhörung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Alttext pauschalisierte die Tatsachenlast der Behörde, stellte Bundesverfahrensrecht ohne Landesweiche voran und stoppte bei unmittelbar bevorstehendem Vollzug.",
+    "changes": [
+      "Landesrecht, Sonderrecht und Vorverfahren als konkrete Eingangskontrolle eingefügt.",
+      "Amtsermittlung und materielle Beweislast getrennt.",
+      "Förderzweck, Berechnungsdifferenz, Aufhebung und Erstattung eigenständig behandelt; Eilprüfung weitergeführt."
+    ],
+    "sha256": "4a362a259a04efdcc5925d443465398d08bc4c4cd088ed1a8bc075b5cd6a810a"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie die Rückforderung unseres Investitionszuschusses anhand der Bewilligung, Ausgabennachweise und Kenntnisdaten der Behörde.",
+      "Die Förderstelle will wegen ausgebliebener Teilnehmer und später Rechnungen teilweise widerrufen. Berechnen Sie die vertretbare Gegenposition."
+    ],
+    "negative": [
+      "Suchen Sie ein Förderprogramm und entwerfen Sie einen neuen Förderantrag.",
+      "Rügen Sie die Angebotswertung der Kommune vor der Vergabekammer."
+    ],
+    "target_skill": "foerdermittel-zweckbindung-belegabgleich-rueckforderung"
+  },
+  "cases": [
+    {
+      "id": "bereitgestellte-kurse-spaete-rechnung-teilwiderruf",
+      "request": "Wir beraten einen gemeinnützigen Bildungsträger in einer Anhörung. Eine Bundesbehörde hat endgültig einen Zuschuss von 40 Prozent der zuwendungsfähigen Ausgaben, höchstens 120000 EUR, für die Bereitstellung von 20 Kurswochen bewilligt. Das Bundes-VwVfG ist anwendbar, Sonderrecht und EU-Beihilfevorgaben spielen laut Akte keine Rolle. Die Bewilligung nennt den Förderzeitraum 01.01. bis 31.12.2024 und legt ausdrücklich fest: Nur Leistungen, die in diesem Zeitraum erbracht und bezahlt werden, sind förderfähig. Zweck ist die durchgehende Bereitstellung der Kurse, nicht eine Mindestzahl tatsächlicher Teilnehmer. Alle 20 Wochen wurden mit Personal und Räumen bereitgestellt; sechs blieben mangels Anmeldung unbesucht. Die bewilligten 120000 EUR wurden vollständig ausgezahlt. Der Verwendungsnachweis über 300000 EUR enthält 280000 EUR unstreitige, 2024 erbrachte und bezahlte Projektkosten sowie 20000 EUR für im Januar 2025 erbrachte und bezahlte Leistungen. Der Prüfer will deshalb 8000 EUR und zusätzlich 6000 EUR wegen der unbesuchten Wochen zurückfordern. Für den zweiten Betrag verweist er nur auf eine interne, nicht einbezogene spätere Verwaltungspraxis. Die Behörde erhielt den vollständigen Nachweis am 01.04.2025 und erstellte am 20.04.2025 einen internen Vermerk. Eine erste konkrete Anhörung zum beabsichtigten Teilwiderruf wurde am 01.09.2026 zugestellt; unsere Antwortfrist ist der 21.09.2026. Es gibt noch keinen Widerrufs- oder Erstattungsbescheid. Erstellen Sie zum 14.09.2026 ein Memo mit Gegenrechnung und ausformulierter Anhörungsantwort. Zinsen wurden noch nicht berechnet; eine konkrete Zinssumme wird nicht benötigt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Gegenrechnung berücksichtigt 280000 EUR förderfähige Kosten und 112000 EUR rechnerische Förderung; die Differenz von 8000 EUR wird von der noch erforderlichen rechtlichen Widerrufs- und Erstattungsprüfung getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die zusätzliche Kürzung von 6000 EUR wird am festgelegten Bereitstellungszweck geprüft und nicht allein aufgrund der nachträglichen Verwaltungspraxis übernommen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ein Ablauf der Jahresfrist wird nicht allein aus Nachweiseingang oder internem Vermerk behauptet; vollständige Kenntnis, Entscheidungsreife und die konkrete Anhörung werden je Widerrufsgrund geprüft.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Das Arbeitsprodukt ist eine Anhörungsantwort und behandelt weder einen schon existierenden Rückforderungsbescheid noch eine sofort fällige Rückzahlung oder eine fingierte Zinssumme als gegeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "foerdermittel-zweckbindung-belegabgleich-rueckforderung"
+    }
+  ]
+}

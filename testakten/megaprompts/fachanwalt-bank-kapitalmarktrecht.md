@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 87 Skills des Plugins `fachanwalt-bank-kapitalmarktrecht`.
+Diese Vollprüfung enthält top-10 von 88 Skills des Plugins `fachanwalt-bank-kapitalmarktrecht`.
 
 ## Inhaltsverzeichnis
 

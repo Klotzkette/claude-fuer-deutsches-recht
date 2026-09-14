@@ -1,73 +1,31 @@
-# Straßenverkehrsrecht StVO — Schnellstart
+# 1. Straßenverkehrsrecht und StVO: Schnellstart
 
-Wenn du das hier öffnest, willst du ein Verkehrszeichen, eine Verkehrsfläche, Bewohnerparkregelung, Bus- oder Fahrradspur, Schulstraße, Baustellenanordnung oder Ausnahmegenehmigung anhand des konkreten Straßenraums bearbeiten.
+Prüfe die konkrete Verkehrsregelung im tatsächlichen Straßenraum. Lies Anordnung, Verkehrszeichenplan, Fotos, Ortsbefund und Begründung zuerst. Liefere Anordnungsvermerk, Beschilderungsprüfung, Antrag oder Rechtsbehelfsentwurf. Nicht automatisch einen Bußgeldfall bearbeiten, wenn eine behördliche Verkehrsplanung gefragt ist.
 
-Kernauftrag: StVO-/Straßenverkehrsrecht-Plugin für Verkehrsregeln, Zeichen, Anordnungen, Ausnahmegenehmigungen, Fahrerlaubnis, Bußgeld-Schnittstellen und Behördenpraxis. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Ort und Regelungsinhalt
 
-## 1. Sofortstart nach Eingangslage
+Erfasse genaue Strecke, Fahrtrichtung, Zeichen, Zusatzzeichen, Markierungen, Uhrzeiten, betroffene Verkehrsarten und Sichtverhältnisse. Stelle angeordneten Plan und tatsächliche Aufstellung gegenüber. Eine Aufnahme aus anderer Blickrichtung beweist nicht ohne Weiteres die Wahrnehmbarkeit für Betroffene.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Straßenraum und Maßnahme, Anordnung und Zuständigkeit, Tatsachengrundlage wählen; ohne konkreten Auftrag mit Straßenraum und Maßnahme beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Trenne verkehrsrechtliche Anordnung, straßenrechtliche Widmung oder Sondernutzung und Vollzugsmaßnahme. Zuständige Verkehrsbehörde und Baulastträger nicht gleichsetzen. Bei fehlendem Plan den Ortsbefund trotzdem dokumentieren und die genaue Aktenanforderung formulieren.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Straßenraum und Maßnahme, Anordnung und Zuständigkeit, Tatsachengrundlage und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Rechtsgrund statt pauschaler Gefahrformel
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bestimme den konkreten Absatz des Paragrafen 45 StVO und den Anordnungszweck. Absatz 9 enthält Anforderungen an Verkehrszeichen und besondere Regeln für Beschränkungen des fließenden Verkehrs, aber auch Ausnahmen. Nicht unterschiedslos für jede Fahrradstraße, Schulwegregelung oder Busspur eine qualifizierte Gefahrenlage verlangen.
 
-## 2. Fachlicher Direktstart
+Für Anordnungen nach Absatz 1 Satz 2 Nummer 7 ist Absatz 10 gesondert zu beachten. Umwelt-, Gesundheits- oder städtebauliche Ziele entbinden nicht davon, die dort genannten Anforderungen an Sicherheit und Leichtigkeit des Verkehrs zu prüfen. Quelle: https://www.gesetze-im-internet.de/stvo_2013/__45.html
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete Regelung gilt an welchem Ort, zu welcher Zeit und für welche Verkehrsart.
-2. Kernprüfung in einem Durchgang: Welche Anordnungsakte, Anhörungen, Daten und Pläne tragen die Maßnahme; Verlangt der Tatbestand eine besondere Gefahrenlage oder genügt ein besonderer gesetzlicher Anordnungszweck.
-3. Belege und Engpass zusammenführen: Nachweisachse Anordnung und Zuständigkeit: Aktenzeichen, Verkehrsbehörde, Straßenbaulastträger, Anhörungen, Rechtsgrund und Bekanntgabe sichern; besonders kritisch ist: Anordnung, Verkehrszeichenplan oder tatsächliche Beschilderung fehlt; Akte und Ortsbefund zuerst sichern.
-4. Erstes Arbeitsprodukt liefern: Ortsbefund: Standort, Blickrichtung, Zeichen, Zusatzzeichen, Markierung, Sichtweite, Widerspruch, Foto, Uhrzeit und Wetter.
+Unterscheide Tempo-30-Zone und streckenbezogene Begrenzung. Prüfe bei Ausnahmegenehmigungen Paragraf 46 StVO und den konkreten Ausnahmegegenstand; ein individueller Wunsch ersetzt keine Ermessensbegründung.
 
-## 3. Kernroute
+## 1.3. Tatsachen und Alternativen
 
-1. Straßenraum und Maßnahme: genauer Ort, Verkehrszeichen, Markierung, zeitliche Geltung, betroffene Verkehrsarten und Vollzugszustand feststellen.
-2. Anordnung und Zuständigkeit: Aktenzeichen, Verkehrsbehörde, Straßenbaulastträger, Anhörungen, Rechtsgrund und Bekanntgabe sichern.
-3. Tatsachengrundlage: Unfall-, Geschwindigkeits-, Park-, Schulweg-, ÖPNV- oder Baustellendaten mit Zeitraum und Quelle prüfen.
-4. Rechtmäßigkeit und Alternative: Tatbestand, besondere Gefahrenlage, Ermessen, Verhältnismäßigkeit, Sichtbarkeit und mildere Verkehrsführung bewerten.
-5. Arbeitsprodukt: Anordnungsvermerk, Beschilderungsplanprüfung, Ausnahmegenehmigung, Widerspruch, Eilantrag oder Vollzugscheck ausformulieren.
+Ordne Unfall-, Geschwindigkeits-, Schulweg-, Park- und ÖPNV-Daten nach Zeitraum, Erhebungsmethode und Aussagekraft. Fehlende Unfälle sind nicht automatisch fehlende Gefahr; eine politische Zielbeschreibung ist umgekehrt noch kein vollständiger Ortsnachweis.
 
-## 4. Fallkarte
+Erstelle „Regelung / Rechtsgrund / Tatsachenbeleg / Schutz- oder Planungsziel / Auswirkung / mildere Alternative / Begründungslücke“. Vergleiche tatsächliche Querungswege, Lieferbedarf, Sichtbeziehungen und Ausweichverkehr. Keine Kartenmaße oder Verkehrsbelastungen erfinden.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | StVO Paragraf 39 bis Paragraf 43; StVO Paragraf 45; StVO Paragraf 46 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Genauer Ort, Verkehrszeichen, Markierung, zeitliche Geltung, betroffene Verkehrsarten und Vollzugszustand feststellen |
-| Beweislast | Nachweisachse Anordnung und Zuständigkeit: Aktenzeichen, Verkehrsbehörde, Straßenbaulastträger, Anhörungen, Rechtsgrund und Bekanntgabe sichern |
-| Rechtsfolge | Anordnungsvermerk, Beschilderungsplanprüfung, Ausnahmegenehmigung, Widerspruch, Eilantrag oder Vollzugscheck ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.4. Arbeitsprodukt und Grenzen
 
-## 5. Einsatzfelder
+Ein Entwurf benennt Strecke, Richtung, zeitlichen Umfang, Adressaten, Zeichen und Begründung. Beim Angriff eigene Betroffenheit, Bekanntgabe, Frist und statthaften Rechtsschutz prüfen; Verkehrszeichen und einen späteren Bußgeldbescheid nicht als denselben Verfahrensgegenstand behandeln.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Straßenraum und Maßnahme | Genauer Ort, Verkehrszeichen, Markierung, zeitliche Geltung, betroffene Verkehrsarten und Vollzugszustand feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anordnung und Zuständigkeit | Aktenzeichen, Verkehrsbehörde, Straßenbaulastträger, Anhörungen, Rechtsgrund und Bekanntgabe sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Tatsachengrundlage | Unfall-, Geschwindigkeits-, Park-, Schulweg-, ÖPNV- oder Baustellendaten mit Zeitraum und Quelle prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtmäßigkeit und Alternative | Tatbestand, besondere Gefahrenlage, Ermessen, Verhältnismäßigkeit, Sichtbarkeit und mildere Verkehrsführung bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Anordnungsvermerk, Beschilderungsplanprüfung, Ausnahmegenehmigung, Widerspruch, Eilantrag oder Vollzugscheck ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Bei kurzfristiger Aufstellung oder Vollziehung zuerst Sicherungs- und Eilbedarf bearbeiten. Keine Schilder entfernen, Verkehr regeln, Ausnahme erteilen oder Behördennachricht versenden. Einmal gebündelt nach entscheidenden Angaben fragen, sonst belastbaren Teilstand liefern.
 
-## 6. Anker
-
-- StVO Paragraf 39 bis Paragraf 43: Verkehrszeichen, Verkehrseinrichtungen, Anordnungswirkung und Gestaltung.
-- StVO Paragraf 45: Verkehrsregelungen durch Verkehrsbehörden, besondere Gefahrenlage, Erprobungsmaßnahmen und besondere Anordnungszwecke.
-- StVO Paragraf 46: Ausnahmen und Ausnahmegenehmigungen mit Ermessens- und Auflagenprüfung.
-- StVG Paragraf 6: gesetzliche Ermächtigungsgrundlage für straßenverkehrsrechtliche Verordnungsregelungen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Anordnungsvermerk, Beschilderungsplanprüfung, Ausnahmegenehmigung, Widerspruch, Eilantrag oder Vollzugscheck ausformulieren.
-7.2. Norm: StVO Paragraf 39 bis Paragraf 43; StVO Paragraf 45 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Straßenraum und Maßnahme“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Anordnung und Zuständigkeit: Aktenzeichen, Verkehrsbehörde, Straßenbaulastträger, Anhörungen, Rechtsgrund und Bekanntgabe sichern. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Anordnungsakte, Anhörungen, Daten und Pläne tragen die Maßnahme.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Ortsbefund“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Anordnung, Verkehrszeichenplan oder tatsächliche Beschilderung fehlt; Akte und Ortsbefund zuerst sichern. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Aktuelle StVO, Verwaltungsvorschriften und Zuständigkeitsregeln amtlich prüfen. Entscheidungen nur verifiziert mit Gericht, Datum, Aktenzeichen und Fundstelle. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; neue Ortsfotos und Anordnungsfassungen bei Folgeaufträgen abgleichen.

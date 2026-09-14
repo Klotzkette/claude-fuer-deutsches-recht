@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "plugin": "preussisches-allgemeines-landrecht-pralr",
+  "reviewed_on": "2026-09-14",
+  "sources": [],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der individuelle historische Arbeitsweg war brauchbar, verlangte aber weitere Dateien für zentrale Schritte und präsentierte frühere Quellenbefunde als gesichert.",
+    "changes": [
+      "Alle Querverweise ausdrücklich optional gemacht und Arbeitsregeln im Mini ergänzt.",
+      "Konkrete unerneuert belegte Altanker durch eigenständige Regeln zur Text-, Geltungs- und Ausnahmenprüfung ersetzt."
+    ],
+    "sha256": "dabe141da97e8626152f83a2246760586749a52b071ff9534b7399498410c944"
+  },
+  "selection": {
+    "positive": [
+      "Vergleiche zwei PrALR-Textzeugen und trenne OCR-Fehler von Varianten.",
+      "Prüfe die historische Geltung einer PrALR-Regel für einen bestimmten Ort und Zeitpunkt."
+    ],
+    "negative": [
+      "Berechne einen heutigen BGB-Pflichtteilsanspruch ohne historischen Bezug.",
+      "Übersetze und erläutere eine römischrechtliche Digestenstelle ohne Bezug zum preußischen Landrecht."
+    ]
+  },
+  "cases": [
+    {
+      "id": "ocr-und-druckvariante",
+      "request": "Erstelle ergebnis.md als editorischen Prüfvermerk, nicht als historische Fallentscheidung. Für einen PrALR-Textvergleich liegen folgende vollständigen Arbeitsangaben vor: Textzeuge A ist durch Titelblatt und Bibliothekskatalog als Druck von 1794 identifiziert; an der verglichenen Stelle lautet die vom Bearbeiter direkt am Seitenbild geprüfte Zeichenfolge 'nicht'. Die zu A gelieferte OCR liest dort 'nichts'. Textzeuge B liegt nur als undatierte Abschrift vor und liest ebenfalls 'nichts'; Titelblatt, Herkunft und Seitenbild fehlen. Die Stelle ist in beiden Materialien als Einleitung Paragraf 7 bezeichnet, doch der Auftrag umfasst ausdrücklich keine Prüfung des wirklichen Gesetzeswortlauts. Ordne die drei Lesungen nach ihrem Belegstatus und formuliere den nächsten konkreten Beschaffungsschritt. Weitere Dateien gibt es nicht.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet den mitgeteilten Seitenbildbefund von der abweichenden OCR und behandelt beide nicht als zwei verschiedene Druckfassungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Leitet aus der undatierten Abschrift weder eine spätere Gesetzesänderung noch ein gesichertes Ausgabejahr ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fordert Herkunft und korrespondierendes Seitenbild von B gezielt an und vermeidet eine Behauptung zum wirklichen Normwortlaut oder einer heutigen Rechtsfolge.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "textzeugen-vergleichen"
+    }
+  ]
+}

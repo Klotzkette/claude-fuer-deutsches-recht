@@ -2,25 +2,25 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 31 Skills des Plugins `fachanwalt-erbrecht`.
+Diese Vollprüfung enthält top-15 von 32 Skills des Plugins `fachanwalt-erbrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **erbrechtsprozess-versandmappe-endfertigen** — Prüft einen fertigen erbrechtlichen Schriftsatz und seine Anlagen auf Konsistenz, Vollständigkeit und Einreichungsform u…
-2. **unternehmensnachfolge-gestalten** — Stimmt Testament und Gesellschaftsvertrag für eine Unternehmensnachfolge ab, prüft Nachfolgeklauseln, Pflichtteilslast u…
-3. **erbschaft-ausschlagen-anfechten** — Vergleicht Annahme und Ausschlagung, berechnet Kenntnisfristen und bereitet die formgerechte Erklärung samt Nachrückern …
-4. **pflichtteil-vaterschaft-verjaehrung-und-auskunft** — Trennt Entstehung, Rechtsausübungssperre und Verjährung eines Pflichtteils bei später Anerkennung oder postmortaler Vate…
-5. **pflichtteil-berechnen** — Berechnet den ordentlichen Pflichtteil aus belegter gesetzlicher Quote und bereinigtem Nachlass, behandelt Anrechnung un…
-6. **testament-erbvertrag-gestalten** — Entwirft individuelle letztwillige Verfügungen für Versorgung, Nachfolge und Vermögensverteilung, prüft Form, bestehende…
-7. **nachlassinsolvenz-erbenhaftung-begrenzen** — Prüft Zahlungsunfähigkeit, Überschuldung und Antragspflicht des Erben, grenzt Haftungsinstrumente ab und erstellt Insolv…
-8. **pflichtteil-auskunft-durchsetzen** — Verlangt privates oder notarielles Nachlassverzeichnis und Wertermittlung vom Erben, prüft Ergänzung und eidesstattliche…
-9. **testamentsvollstreckung-fuehren** — Bereitet Amtsannahme und Zeugnis vor und organisiert Verzeichnis, Verwaltung, Rechnungslegung und Abwicklung nach der ko…
-10. **testament-auslegen-anfechten** — Klärt den Inhalt widersprüchlicher oder laienhafter Verfügungen und prüft eigenständig Anfechtungsgrund, Berechtigung, E…
-11. **krypto-nachlass-sichern** — Sichert Wallets und Kryptowerte im Erbfall, klärt Schlüssel- und Mitwirkungsrechte, dokumentiert Bestände und Steuerdate…
-12. **pflichtteilsergaenzung-berechnen** — Bewertet lebzeitige Zuwendungen einschließlich Nießbrauch, Wohnungsrecht und gemischter Schenkung, berechnet Abschmelzun…
-13. **testamentsvollstrecker-kontrolle-haftung** — Prüft Auskunft, Rechnungslegung und Pflichtverletzungen des Testamentsvollstreckers, trennt Entlassung und Schadensersat…
-14. **gesetzliche-erbfolge-bestimmen** — Ermittelt gesetzliche Erben aus Personenstand, Abstammung, Adoption, Güterstand und Todesreihenfolge und liefert einen b…
-15. **pflegeausgleich-paragraf-2057a-bgb-pruefen** — Prüft besondere Pflegeleistungen und andere Beiträge nach Paragraf 2057a BGB, grenzt Vergütung und Vermächtnis ab und be…
+2. **pflichtteil-nachlassverzeichnis-belegabgleich** — Gleicht ein vorliegendes Nachlassverzeichnis mit Stichtagsauskünften, Kontobewegungen, Immobilienwerten und behaupteten …
+3. **unternehmensnachfolge-gestalten** — Stimmt Testament und Gesellschaftsvertrag für eine Unternehmensnachfolge ab, prüft Nachfolgeklauseln, Pflichtteilslast u…
+4. **erbschaft-ausschlagen-anfechten** — Vergleicht Annahme und Ausschlagung, berechnet Kenntnisfristen und bereitet die formgerechte Erklärung samt Nachrückern …
+5. **pflichtteil-vaterschaft-verjaehrung-und-auskunft** — Trennt Entstehung, Rechtsausübungssperre und Verjährung eines Pflichtteils bei später Anerkennung oder postmortaler Vate…
+6. **pflichtteil-berechnen** — Berechnet den ordentlichen Pflichtteil aus belegter gesetzlicher Quote und bereinigtem Nachlass, behandelt Anrechnung un…
+7. **testament-erbvertrag-gestalten** — Entwirft individuelle letztwillige Verfügungen für Versorgung, Nachfolge und Vermögensverteilung, prüft Form, bestehende…
+8. **nachlassinsolvenz-erbenhaftung-begrenzen** — Prüft Zahlungsunfähigkeit, Überschuldung und Antragspflicht des Erben, grenzt Haftungsinstrumente ab und erstellt Insolv…
+9. **pflichtteil-auskunft-durchsetzen** — Verlangt privates oder notarielles Nachlassverzeichnis und Wertermittlung vom Erben, prüft Ergänzung und eidesstattliche…
+10. **testamentsvollstreckung-fuehren** — Bereitet Amtsannahme und Zeugnis vor und organisiert Verzeichnis, Verwaltung, Rechnungslegung und Abwicklung nach der ko…
+11. **testament-auslegen-anfechten** — Klärt den Inhalt widersprüchlicher oder laienhafter Verfügungen und prüft eigenständig Anfechtungsgrund, Berechtigung, E…
+12. **krypto-nachlass-sichern** — Sichert Wallets und Kryptowerte im Erbfall, klärt Schlüssel- und Mitwirkungsrechte, dokumentiert Bestände und Steuerdate…
+13. **pflichtteilsergaenzung-berechnen** — Bewertet lebzeitige Zuwendungen einschließlich Nießbrauch, Wohnungsrecht und gemischter Schenkung, berechnet Abschmelzun…
+14. **testamentsvollstrecker-kontrolle-haftung** — Prüft Auskunft, Rechnungslegung und Pflichtverletzungen des Testamentsvollstreckers, trennt Entlassung und Schadensersat…
+15. **gesetzliche-erbfolge-bestimmen** — Ermittelt gesetzliche Erben aus Personenstand, Abstammung, Adoption, Güterstand und Todesreihenfolge und liefert einen b…
 
 ---
 
@@ -69,6 +69,48 @@ Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette,
 ## 6. Beispiele
 
 Ein fehlender Eröffnungsvermerk führt zu einer konkreten Nachforderung und offener Versandfreigabe, nicht zu einem als vollständig bezeichneten Anlagenpaket.
+
+---
+
+## Skill: `pflichtteil-nachlassverzeichnis-belegabgleich`
+
+_Gleicht ein vorliegendes Nachlassverzeichnis mit Stichtagsauskünften, Kontobewegungen, Immobilienwerten und behaupteten Nachlassschulden ab. Quantifiziert die Pflichtteilswirkung konkreter Abweichungen und trennt Ergänzung, Wertermittlung und Versicherung an Eides statt._
+
+# 1. Zweck und Anwendungsfall
+
+Prüfe eine bereits vorliegende Pflichtteilsauskunft auf entscheidende Bestands-, Ermittlungs- und Wertabweichungen. Die Verbindung von hohen Nachlasswerten, vielen Bankbelegen und streitigen Passiva rechtfertigt den Schwerpunkt. Anders als Erstinventar, allgemeine Auskunftsdurchsetzung oder reine Pflichtteilsrechnung beginnt dieser Skill mit dem Widerspruch zwischen Verzeichnis und Gegenbeleg. Nicht für Testamentserrichtung oder eine vollständige Erbauseinandersetzung.
+
+## 1.1. Eingaben
+
+Lies Todesdatum, Erbstatut, Personenstand, Verfügung und Nichterbenstellung, sämtliche Fassungen des privaten oder notariellen Verzeichnisses, Anlagen, notarielle Ermittlungsangaben, Bank- und Depotbestätigungen, Bewertungen, Schuldnachweise und bisherige Aufforderungen oder Titel. Fehlende Familienangaben verhindern nur die endgültige Quote, nicht den Bestandsabgleich. Keine persönlichen Daten in öffentliche Suchanfragen senden.
+
+## 1.2. Ablauf und Checkliste
+
+1. Bestimme Berechtigten, Erben als Auskunftsschuldner und Verzeichnisart. Ein Steuerinventar oder ausländisches Verfahrensdokument ist nicht ohne Prüfung ein notarielles Verzeichnis nach Paragraf 2314 BGB. Bei Titel dessen exakten Umfang lesen.
+2. Weise jeder Position einen stabilen Identifikator zu. Vergleiche Ausgangsverzeichnis, Ergänzung und Gegenbeleg mit Dokumentdatum, maßgeblichem Wertstichtag, Betrag, Rechtsinhaber und Streitstatus. Abweichungen nicht durch Wahl des jeweils jüngsten Belegs verdecken.
+3. Rekonstruiere Bankbestände zum Todestag. Späterer Saldo plus Auszahlungen minus Einzahlungen kann nur bei vollständiger Bewegungsliste einen Stichtagswert ergeben. Depotverkauf und Verkaufserlös nicht zugleich als Aktivvermögen erfassen. Gemeinschaftskonto, Vollmacht und Eigentum auseinanderhalten; Anteil nicht allein aus Kontobezeichnung bestimmen.
+4. Trenne Bestand von Bewertung. Ein verzeichnetes, aber nicht bewertetes Haus löst eine Wertermittlungsfrage aus, nicht automatisch eine Ergänzung des Bestands. Steuerwert und späterer Verkaufspreis sind keine ungeprüften Todestagswerte. Preis, Zustand, Zeitpunkt und Belastungen als Bewertungsbelege prüfen.
+5. Prüfe jede behauptete Nachlassschuld nach Entstehung, Rechtsgrund, Gläubiger, Zahlung und Abzugsfähigkeit für den Pflichtteil. Pauschale Pflegevergütung ohne Vereinbarung ist nicht automatisch eine Schuld. Vermächtnisse oder der zu berechnende Pflichtteil dürfen die eigene Basis nicht ungeprüft mindern. Steuerliche Abzugsregeln nicht übernehmen.
+6. Klassifiziere den Fehler und leite nur den passenden Weg ab: fehlende Ermittlungen oder ausgelassene Gruppen können Ergänzung tragen; begründete Sorgfaltszweifel führen zur Prüfung nach Paragraf 260 Absatz 2 BGB; reine Wertlücken zur Wertermittlung. Notarielle Eigenrecherche anhand konkreter Spuren prüfen. Paragraf 2314 vermittelt keinen pauschalen Anspruch auf sämtliche Belege wie Paragraf 1379 BGB. Beschaffungsweg und Umfang jeder Unterlagenanforderung begründen.
+7. Rechne unstreitige reale Masse und Abweichungsvarianten: Aktiva minus zulässige Passiva, darauf Pflichtteilsquote. Für jede Korrektur finanzielle Wirkung zeigen. Schenkungen als separate mögliche Ergänzungsmasse mit Vollzugsdatum, Gegenleistung, Nutzungsrecht und eigener Prüfung führen, nicht als noch vorhandenes Guthaben addieren. Anrechnung und Ausgleichung bei Hinweisen gesondert prüfen.
+8. Liefere nach höchstens einer gebündelten Rückfrage die Teilrechnung und eine bestimmte Nachforderung. Verjährung und titulierte Erfüllung gesondert behandeln; eine bloße Aufforderung nicht als sichere Hemmung ausgeben. Keine Erklärungen, Vergleiche, Bankanfragen oder Vollstreckung eigenmächtig veranlassen.
+
+## 1.3. Quellenpflicht
+
+Optional ergänzt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/references/zitierweise.md) die Quellenarbeit. Entscheidungen mit Gericht, Datum, Aktenzeichen und überprüfter Fundstelle zitieren; Dokumentbefund und Schlussfolgerung trennen. Prüfstand 14.09.2026; vor Verwendung aktualisieren.
+
+- BGB [Paragraf 2314](https://www.gesetze-im-internet.de/bgb/__2314.html), [Paragraf 2311](https://www.gesetze-im-internet.de/bgb/__2311.html), [Paragraf 260](https://www.gesetze-im-internet.de/bgb/__260.html) und [Paragraf 2303](https://www.gesetze-im-internet.de/bgb/__2303.html): Auskunft, Todestagsbewertung, Sorgfaltsprüfung und Quote.
+- BGH, Urteil vom 20.05.2020, Az. IV ZR 193/19, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1), Randnummern 8 bis 11: eigenständige notarielle Ermittlungen, Mitwirkung des Erben und Ergänzung bei verweigerter Mitwirkung. Nicht jede inhaltliche Beanstandung rechtfertigt ein neues Verzeichnis.
+
+## 1.4. Ausgabeformat
+
+`ergebnis.md` enthält Sachverhalt, Abweichungstabelle mit Euro-Auswirkung, belegte Ausgangs- und Variantenrechnung, nach Fehlerart getrennte Nachforderung und einen ausformulierten Briefentwurf an den Erben. Bei Titel zusätzlich begründete Verfahrensempfehlung, kein automatischer Vollstreckungsantrag.
+
+Ausformulierungspflicht: vollständige Sätze, keine Skelette. Formatstandard: Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Nur tatsächlich erzeugte Dateien verlinken.
+
+## 1.5. Beispiele
+
+Das Verzeichnis verwendet den Kontosaldo einen Monat nach dem Tod und zieht eine unbelegte Pflegeforderung ab. Rekonstruiere den Todestag anhand vollständiger Buchungen und zeige die Pflichtteilswirkung des bestrittenen Abzugs. Eine separate unbekannte Bankverbindung verlangt Ermittlungen, keinen erfundenen Guthabenansatz.
 
 ---
 
@@ -693,54 +735,6 @@ Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette,
 ## 6. Beispiele
 
 Bei Ehegatte in Zugewinngemeinschaft und zwei Kindern ergeben sich grundsätzlich ein Halb und zweimal ein Viertel; bei fehlenden Kindern reicht das Fehlen der Eltern nicht für Alleinerbschaft des Ehegatten.
-
----
-
-## Skill: `pflegeausgleich-paragraf-2057a-bgb-pruefen`
-
-_Prüft besondere Pflegeleistungen und andere Beiträge nach Paragraf 2057a BGB, grenzt Vergütung und Vermächtnis ab und berechnet den billigen Ausgleich innerhalb der Erbauseinandersetzung._
-
-# Pflegeausgleich unter Abkömmlingen prüfen
-
-## 1. Zweck und Anwendungsfall
-
-Für einen Ausgleich unter begünstigten Abkömmlingen, nicht für einen automatisch entstehenden Stundenlohn oder ein Pflegevermächtnis.
-
-## 2. Eingaben
-
-Erbquoten und Verfügungen, Pflegechronologie, Grad und Umfang der Hilfe, sonstige Leistungen, Vergütungsabreden, Pflegegeld, Wohnvorteile und Nachlasswert.
-
-## 3. Ablauf und Checkliste
-
-1. Gesetzliche Erbfolge oder entsprechende gewillkürte Beteiligung nach BGB Paragraf 2052 prüfen; Kreis der beteiligten Abkömmlinge festlegen.
-
-2. Längerfristige Pflege, Mitarbeit und erhebliche Geldleistungen von Besuchen und allgemeiner familiärer Zuwendung unterscheiden. Verzicht auf Berufseinkommen nicht als zwingende Voraussetzung verlangen.
-
-3. Vereinbartes oder gewährtes angemessenes Entgelt und Ansprüche aus anderem Rechtsgrund nach Paragraf 2057a Absatz 2 abgrenzen. Pflegegeld, Wohnvorteile und Schenkungen nicht ohne Zweckprüfung pauschal abziehen.
-
-4. Dauer, Umfang, ersparte Fremdkosten und Nachlasswert für einen begründeten Billigkeitsbetrag auswerten. Darlegungs- und Beweislast für die begünstigenden Tatsachen zuordnen.
-
-5. Ausgleich aus der nur beteiligten Abkömmlingen zukommenden Masse vorweg abziehen, Rest quotieren und Ausgleich dem Begünstigten hinzurechnen. Auswirkungen auf Pflichtteil nach Paragraf 2316 prüfen.
-
-### 3.1. Referenzen gezielt laden
-
-Bei streitigen Leistungen oder Rechenvarianten [Pflegebeweis und Ausgleichsrechnung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-erbrecht/skills/pflegeausgleich-paragraf-2057a-bgb-pruefen/references/pflege-bewertung.md) laden.
-
-## 4. Quellenpflicht
-
-BGB Paragrafen 2057a, 2050 bis 2052 und 2316; Vergütungsansprüche nach ihrem konkreten Vertragsgrund.
-
-Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
-
-## 5. Ausgabeformat
-
-Pflegechronologie, Funktions- und Belegmatrix, begründetes Wertband mit drei Varianten sowie nachvollziehbare Verteilungsrechnung und Anspruchsvermerk.
-
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
-
-## 6. Beispiele
-
-Ein Abkömmling pflegte über Jahre und erhielt Wohnraum. Zuerst wird dessen Zweck geklärt, bevor aus dem Wohnvorteil ein Ausschluss oder Abzug gefolgert wird.
 
 ---
 

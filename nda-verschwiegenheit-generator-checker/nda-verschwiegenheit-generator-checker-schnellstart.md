@@ -1,73 +1,21 @@
-# NDA Verschwiegenheit Generator Checker — Schnellstart
+# 1. Verschwiegenheit passend zum Austausch gestalten
 
-Wenn du das hier öffnest, willst du einen Vertrag, eine Vertraulichkeitsvereinbarung oder ein Lizenz- oder Vertriebsmodell vollständig, ausgewogen und versandreif ausformulieren oder prüfen.
+Lies Sachverhalt, vorhandenen Entwurf und Informationsbeschreibung zuerst. Bestimme einseitigen oder gegenseitigen Austausch, Rollen, Länder und Zweck. Ein NDA zur Prüfung einer Kooperation soll nicht ohne Auftrag bereits ihre Durchführung regeln. Frage nur nach blockierenden Angaben; benenne offene Parteienangaben als Platzhalter und formuliere den übrigen Text fertig.
 
-Kernauftrag: Allgemeiner NDA-Ersteller und NDA-Prüfer für deutsche und internationale Verschwiegenheitsvereinbarungen: Entwurf, Redline, GeschGehG, HinSchG, AGB, Arbeitsrecht, M&A, Forschung, Software, Datenraum. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Schutzgegenstand und Nutzung
 
-## 1. Sofortstart nach Eingangslage
+Definiere vertrauliche Informationen anhand der tatsächlich ausgetauschten Kategorien und Übermittlungsformen. Trenne bereits öffentliches Wissen, belegte Vorkenntnis, unabhängige Entwicklung und rechtmäßig von Dritten erhaltene Informationen. Regle, wie mündliche Offenlegungen erkennbar geschützt und später dokumentiert werden können. Nicht jede Information wird allein durch ein Vertragslabel zum gesetzlichen Geschäftsgeheimnis; [Paragraf 2 GeschGehG](https://www.gesetze-im-internet.de/geschgehg/__2.html) verlangt insbesondere angemessene Geheimhaltungsmaßnahmen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Geschäftsmodell und Parteien, Regelungsprogramm, Risikoallokation wählen; ohne konkreten Auftrag mit Geschäftsmodell und Parteien beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Formuliere die erlaubte Nutzung konkret: Prüfung, Verhandlung oder Durchführung welcher Zusammenarbeit? Produktentwicklung, Wettbewerbsanalyse, Training technischer Modelle oder Patentverwendung nicht stillschweigend mitfreigeben. Zugang nur für benannte Funktionen mit tatsächlichem Kenntnisbedarf vorsehen; externe Berater und Konzernunternehmen nicht pauschal gleichsetzen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Geschäftsmodell und Parteien, Regelungsprogramm, Risikoallokation und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Verpflichtungen vollziehbar machen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Ordne Schutzmaßnahmen, Weitergabe, Dokumentation und Vorfallmeldung einer verantwortlichen Partei zu. Stimmen die verlangten Maßnahmen mit Datenraum und Übermittlungsweg überein? Vertragliche Geheimhaltung und Datenschutzvereinbarung nicht verwechseln. Zwingende Offenlegungen und geschützte Meldungen gesondert prüfen; eine uneingeschränkte Schweigepflicht gegenüber Gerichten oder Behörden nicht ungeprüft formulieren.
 
-## 2. Fachlicher Direktstart
+Trenne Vertragslaufzeit, Nutzungsende und Dauer der Geheimhaltung. Regle Rückgabe oder Löschung einschließlich Sicherungskopien und zulässiger Aufbewahrung; für verbleibende Kopien Zweckbindung und Schutz fortführen. Begründe, welche Informationen eine längere Behandlung benötigen. Keine automatische Lizenz, Abschlussverpflichtung oder Wettbewerbsbeschränkung als Nebenfolge einschleusen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Hauptleistungspflichten müssen subsumtionsfähig beschrieben sein.
-2. Kernprüfung in einem Durchgang: Welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest; Welche Rechte werden wie weit eingeräumt und was bleibt vorbehalten.
-3. Belege und Engpass zusammenführen: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar; besonders kritisch ist: Der Vertragszweck oder die Leistungsbeschreibung ist unklar; ohne sie kein Klauseltext.
-4. Erstes Arbeitsprodukt liefern: Vertragsgerüst: Präambel, Definitionen, Leistung, Vergütung, Laufzeit, Haftung, Geheimhaltung, Schlussbestimmungen.
+## 1.3. Entwurf und Gegenprüfung
 
-## 3. Kernroute
+Liefere vollständigen Vertrag oder ausformulierte Ersatzklauseln mit Präambel, Definitionen, Pflichten, Laufzeit und Schlussregelungen. Prüfe die Empfängersicht: Kann die Pflicht technisch erfüllt werden, sind erlaubte Empfänger erreichbar, widersprechen Löschung und Archivierung einander? Unverhandelte Vertragsstrafen oder unbegrenzte Haftung als Entscheidungspunkt behandeln, nicht als selbstverständlich gültigen Standard.
 
-1. Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen.
-2. Regelungsprogramm: Hauptpflichten, Nebenpflichten, Rechteeinräumung, Vergütung, Laufzeit und Beendigung anlegen.
-3. Risikoallokation: Haftung, Freistellung, Gewährleistung, Vertragsstrafe und Sicherheiten austarieren.
-4. Kontrolle: AGB-Festigkeit, Transparenz, Kollision mit zwingendem Recht und Wechselwirkungen prüfen.
-5. Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
-
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157; BGB Paragraf 305 bis Paragraf 310; BGB Paragraf 280 ff. und Paragraf 323 ff |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen |
-| Beweislast | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar |
-| Rechtsfolge | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Geschäftsmodell und Parteien | Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Regelungsprogramm | Hauptpflichten, Nebenpflichten, Rechteeinräumung, Vergütung, Laufzeit und Beendigung anlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikoallokation | Haftung, Freistellung, Gewährleistung, Vertragsstrafe und Sicherheiten austarieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kontrolle | AGB-Festigkeit, Transparenz, Kollision mit zwingendem Recht und Wechselwirkungen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157: Vertragsschluss und Auslegung.
-- BGB Paragraf 305 bis Paragraf 310: AGB-Kontrolle auch im Unternehmerverkehr.
-- BGB Paragraf 280 ff. und Paragraf 323 ff.: Leistungsstörungen, Rücktritt und Schadensersatz.
-- GeschGehG: Schutz von Geschäftsgeheimnissen und angemessene Geheimhaltungsmaßnahmen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
-7.2. Regelungsanker: BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157; BGB Paragraf 305 bis Paragraf 310 mit Risikozuweisung und Vollzug verbinden.
-7.3. Aktenfund: Für „Geschäftsmodell und Parteien“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Vertragsgerüst“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Der Vertragszweck oder die Leistungsbeschreibung ist unklar; ohne sie kein Klauseltext. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Optional vertieft `zweckbindung-und-permitted-purpose` den Nutzungszweck; ohne Zugriff gelten die vorstehenden Kernregeln. Weitere Rechtsanker nur nach amtlicher Prüfung, ohne Literatur-Blindzitate. Bei unklarer Rechtswahl Varianten kennzeichnen. Ohne Export den fertigen Text liefern; kein DOCX oder Änderungsmodus vortäuschen. Export: Times New Roman, 11 pt, dezimale Gliederung.

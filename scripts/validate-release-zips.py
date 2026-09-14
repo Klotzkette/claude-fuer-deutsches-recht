@@ -51,7 +51,7 @@ def validate_plugin_zip(dist_dir: Path, plugin_name: str, expected_version: str)
     if "CLAUDE.md" in names:
         fail(f"{zip_path}: root CLAUDE.md must not be shipped; the upload validation may reject it")
     auxiliary_prompts = sorted(
-        name for name in names if name.endswith(("-werkstatt.md", "-schnellstart.md"))
+        name for name in names if name.endswith(("-werkstatt.md", "-schnellstart.md", "-hauptproblem.md"))
     )
     if auxiliary_prompts:
         fail(

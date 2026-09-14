@@ -1,4 +1,4 @@
-# Vereinsrecht Vereinsmanager — Schnellstart
+# Vereinsrecht Vereinsmanager: Schnellstart
 
 Wenn du das hier öffnest, willst du Satzung, Mitgliedschaft, Vorstand oder Mitgliederversammlung so bearbeiten, dass Beschluss und Registervollzug halten.
 
@@ -43,13 +43,11 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 5. Einsatzfelder
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Vereinsstatus | Eingetragen oder nicht eingetragen, Satzung, Registerauszug, Organe und Vertretungsregel feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Mitgliedschaft | Aufnahme, Beitrag, Rechte, Pflichten, Ordnungsmaßnahme, Austritt und Ausschluss mit Satzungsgrundlage prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Versammlung | Einberufung, Frist, Tagesordnung, Teilnahme, Leitung, Abstimmung, Mehrheit, Protokoll und Anfechtungsrisiko ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vorstand und Haftung | Bestellung, Amtszeit, Ressort, Vertretung, Interessenkonflikt, Entlastung und Vermögensschaden trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Satzung, Einladung, Beschlussvorschlag, Protokoll, Registeranmeldung, Ausschlussschreiben oder Klageentwurf erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Vor einer Einladung Satzungsregel, Einberufungsorgan, Versand- oder Zugangsfrist und Nachweis je Mitglied erfassen. Keine allgemeine Dreitages-Zugangsfiktion für Vereinsbriefe annehmen. Tagesordnung so konkret formulieren, dass der beabsichtigte Beschluss erkennbar ist; eine wesentliche Satzungsänderung nicht unter „Verschiedenes“ verstecken.
+
+Nach [Paragraf 32 BGB](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html) sind hybride und rein virtuelle Versammlung zu unterscheiden. Die gesetzliche Route für künftige rein virtuelle Versammlungen setzt einen entsprechenden Mitgliederbeschluss voraus; abweichende Satzungsgrundlagen gesondert prüfen. Bei elektronischer Teilnahme muss die Einladung erklären, wie Mitglieder ihre Rechte ausüben. Technik, Rederecht, Anträge, Identitätsprüfung und Abstimmung praktisch planen, nicht nur einen Videolink nennen.
+
+Im Protokoll Stimmberechtigte, abgegebene gültige Stimmen, Ja, Nein, Enthaltungen und Satzungsmehrheit auseinanderhalten. Rechne die erforderliche Mehrheit mit dem zutreffenden Nenner nach. Ein Beschlussentwurf oder rechnerisches Abstimmungsergebnis ersetzt weder tatsächliche Beschlussfassung noch Registervollzug.
 
 ## 6. Anker
 
@@ -60,7 +58,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 - BGB Paragrafen 21-79, insbesondere Paragraf 32 BGB für Versammlung/Beschluss; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - AO Paragrafen 51-68 bei Gemeinnützigkeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 21 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 56 BGB: mindestens sieben Mitglieder zur Eintragung; im laufenden Verein dürfen bis auf drei Mitglieder fallen (sonst Auflösung Paragraf 73 BGB); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- [Paragraf 73 BGB](https://www.gesetze-im-internet.de/bgb/__73.html): Bei weniger als drei Mitgliedern gerichtlicher Entzug der Rechtsfähigkeit nach dem gesetzlichen Verfahren, keine automatische Auflösung allein durch den Mitgliederverlust.
 
 ## 7. Antwortform
 
@@ -74,4 +72,4 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Satzungsfassung, Einladung oder Registerauszug fehlt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Fehlende Satzung oder Einladung sperrt nur die davon abhängige Freigabe. Liefere einen gekennzeichneten Entwurf und genaue Nachforderung. Rechtsgrundlagen amtlich prüfen, keine Einladung, Registeranmeldung oder Ausschlusserklärung eigenmächtig versenden. Die Werkstatt ist eine optionale Vertiefung; dieser Prompt arbeitet ohne weitere Dateien.

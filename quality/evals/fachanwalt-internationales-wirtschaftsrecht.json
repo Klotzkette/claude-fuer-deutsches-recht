@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-internationales-wirtschaftsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002854",
+      "checked_on": "2026-09-14",
+      "supports": "Amtliche deutsche Übersetzung des CISG als Gesamtdokument geöffnet und Vertragsparteien einschließlich Deutschland und Italien gelesen; späterer Wiederabruf mit Fehler. Die österreichische Veröffentlichung wird nicht mit anwendbarem nationalem Recht gleichgesetzt; konkrete Schadensnormen zusätzlich einzeln geprüft."
+    },
+    {
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Anlage=&Artikel=49&Gesetzesnummer=10002854&Paragraf=&Uebergangsrecht=",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Normauszug zu Artikel 49 gelesen: Aufhebung wegen wesentlicher Vertragsverletzung sowie besondere Nachfristalternative bei Nichtlieferung, daneben zeitliche Grenzen nach erfolgter Lieferung."
+    },
+    {
+      "url": "https://ris.bka.gv.at/eli/bgbl/1988/96/A74/NOR12034759",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlichen Normauszug zu kausalem Verlust einschließlich entgangenen Gewinns und Vorhersehbarkeitsgrenze bei Vertragsschluss geprüft."
+    },
+    {
+      "url": "https://ris.bka.gv.at/eli/bgbl/1988/96/A77/NOR12034762",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlichen Normauszug zu angemessenen Maßnahmen der Schadensminderung und Kürzung um vermeidbaren Verlust geprüft."
+    },
+    {
+      "url": "https://ris.bka.gv.at/eli/bgbl/1988/96/A75/NOR12034760",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Normauszug zu Artikel 75: angemessenes Ersatzgeschäft innerhalb angemessener Zeit nach Aufhebung und Preisdifferenz zuzüglich möglichem weiteren Schaden nach Artikel 74 geprüft."
+    },
+    {
+      "url": "https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=/nrwe/olgs/hamm/j2019/2_U_132_18_Urteil_20190325.html",
+      "checked_on": "2026-09-14",
+      "supports": "OLG Hamm, Urteil vom 25.03.2019, Az. 2 U 132/18, amtlicher Volltext Seiten 13 bis 17 gelesen: Zuordnung und Angemessenheit der Deckungskäufe, Korrektur zu hoher Mengen und konkrete Prüfung günstigerer Beschaffungsmöglichkeiten nach Artikel 77 CISG."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der bisherige Text blieb bei Forum und Durchsetzung und ergänzte deutsches BGB ohne geklärtes Sachrecht. Der überarbeitete Schnellstart trennt Forum und Recht und enthält eine eigenständig ausführbare Liefer- und Deckungsschadensroute.",
+    "changes": [
+      "Unverbundene deutsche Leistungsstörungsnormen als allgemeine Auslandsanker entfernt.",
+      "CISG-Anwendung, Rüge, Aufhebung und Nachfrist bei Nichtlieferung voneinander abgegrenzt.",
+      "Chargenvergleich, Ersatz- gegenüber Vorratskauf, Fracht und Gewinnüberschneidung als konkrete Arbeitsschritte ergänzt; optionale Vertiefung statt Abhängigkeit."
+    ],
+    "sha256": "9f7475424a2744fe07f167334ec72886a6f823af6a4b81701aa45904d13cbf62"
+  },
+  "selection": {
+    "positive": [
+      "Unser italienischer Lieferant hat Restabrufe verweigert. Rechnen Sie die nach Aufhebung gekauften Ersatzchargen samt Expressfracht nach CISG ab.",
+      "Der Käufer verlangt Mehrkosten aus Sammelbestellungen. Prüfen Sie, welche Mengen tatsächlich unseren Lieferausfall ersetzen und ob der Gewinn doppelt angesetzt ist."
+    ],
+    "negative": [
+      "Entwerfen Sie eine Schiedsklausel für einen neuen Vertriebsvertrag, ohne bestehenden Lieferkonflikt.",
+      "Bestimmen Sie den Zolltarif und Ursprungsnachweis für die Einfuhr einer Maschine."
+    ],
+    "target_skill": "cisg-deckungskauf-lieferchargen-schaden"
+  },
+  "cases": [
+    {
+      "id": "restcharge-vorratseinkauf-expressfracht",
+      "request": "Erstellen Sie für unsere deutsche Käuferin ergebnis.md als Zahlungsentwurf und interne Schadensrechnung. Sie bestellte am 01.06.2026 bei einem italienischen Unternehmen 1.000 kg eines standardisierten Kunststoffgranulats zu 10 EUR je kg netto, frachtfrei an ihr Werk in Köln, Lieferung spätestens 30.06.2026. Beide Parteien sind Unternehmer mit alleinigen Niederlassungen in ihren Ländern; der schriftliche Vertrag wählt deutsches Recht ohne weitere Zusätze und enthält keine Schiedsklausel. 400 kg wurden rechtzeitig geliefert und mit 4.000 EUR bezahlt. Am 01.07. wurde für die restlichen 600 kg eine bis 03.07. angemessene, vom Verkäufer bestätigte Nachfrist gesetzt. Der Verkäufer verweigerte am 03.07. endgültig jede weitere Lieferung. Die Käuferin erklärte am 05.07. ausdrücklich die Aufhebung nur hinsichtlich der restlichen 600 kg; Zugang am selben Tag ist belegt. Am 06.07. bestellte sie 800 kg identischer Qualität zu 13 EUR je kg netto inklusive regulärer Fracht bei einem anderen Lieferanten. 600 kg ersetzten die ausgefallene Menge, 200 kg waren zusätzlicher Vorrat für einen unabhängigen Auftrag. Alle 800 kg wurden geliefert. Für die erforderliche Expresszustellung genau der 600 kg kamen belegte 300 EUR hinzu, die nicht im Kilopreis enthalten sind. Der ursprüngliche Verkäufer kannte schon bei Vertragsschluss den Weiterliefertermin am 08.07.; die Expresszustellung rettete diesen Auftrag vollständig. Unser Vertrieb verlangt zusätzlich 600 EUR entgangenen Gewinn aus genau diesem geretteten Weiterverkauf. Der Verkäufer verweist auf ein Angebot von 11 EUR je kg, das dieselbe Qualität erst am 01.08. liefern konnte; frühere lieferbare Alternativen sind nicht belegt. Alle Beträge sind netto, Vorsteuerabzug besteht. Es gab keine Vorauszahlung auf die Restcharge und keine weiteren Schäden. Erklären oder versenden Sie nichts.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die rechtliche Einordnung prüft CISG trotz deutscher Rechtswahl und ordnet die belegte Aufhebung zeitlich vor dem Ersatzgeschäft ein; die bereits gelieferten 400 kg werden nicht rückabgewickelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Preisbrücke betrifft nur 600 kg und ergibt 1.800 EUR Mehrpreis. Die zusätzlichen 200 kg werden als Vorratseinkauf ausgesondert und nicht als Schaden angesetzt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die zusätzlich belegte Expressfracht wird unter Kausalität und Vorhersehbarkeit geprüft; die daraus begründete Gesamtforderung beträgt 2.100 EUR. Die 600 EUR behaupteter Gewinnausfall werden wegen des geretteten Weiterverkaufs nicht zusätzlich verlangt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Der billigere Einkauf wird wegen fehlender rechtzeitiger Lieferbarkeit nicht ohne Weiteres als zumutbare schadensmindernde Alternative angesetzt; das Ergebnis fordert nicht gleichzeitig abstrakte Marktpreisdifferenz für dieselbe Menge.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "cisg-deckungskauf-lieferchargen-schaden"
+    }
+  ]
+}

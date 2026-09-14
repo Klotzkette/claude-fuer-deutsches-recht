@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "plugin": "rechtstheorie-rechtsphilosophie",
+  "reviewed_on": "2026-09-14",
+  "sources": [],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die alte Fassung behandelte Anspruchsgrundlagen und Klausuraufbau statt Geltung, Durchsetzung, Rechtfertigung und Argumentrekonstruktion.",
+    "changes": [
+      "Geltung, Wirksamkeit und moralische Rechtfertigung als getrennte Analysefragen ausgestaltet.",
+      "Prämissenprüfung, Gegenbeispiel und faire Theoriegegenüberstellung ergänzt.",
+      "Unnötigen Gegenwartsnormenstamm entfernt."
+    ],
+    "sha256": "4def91aa727ec289eee676873b10636739cd5a8f2407194bcd003f1e67192b49"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe den Schluss von tatsächlicher Regelbefolgung auf moralische Legitimität.",
+      "Rekonstruiere zwei vorgelegte Positionen zur rechtlichen Geltung anhand derselben Fallfrage."
+    ],
+    "negative": [
+      "Lege eine konkrete Lieferklausel anhand der Vertragsverhandlungen aus, ohne Theorievergleich oder Geltungsfrage.",
+      "Prüfe die formelle Wirksamkeit einer konkreten Kündigung ohne Theoriefrage."
+    ]
+  },
+  "cases": [
+    {
+      "id": "befolgung-und-legitimation",
+      "request": "Verfasse ergebnis.md als argumentationskritischen Abschnitt für ein internes Seminar. Untersuche ausschließlich diesen vollständig vorgelegten Gedankengang, ohne ihn einem historischen Autor zuzuschreiben: 'In unserer Organisation befolgen 95 Prozent die Regel R. Darum ist R rechtlich gültig. Was rechtlich gültig ist, ist moralisch gerechtfertigt. Deshalb darf R nicht kritisiert werden.' Der Befolgungsanteil ist für die Übung als richtig anzunehmen. Über Entstehungskompetenz, Verfahren, Inhalt und Sanktionen der Regel gibt es keine Angaben. Gewünscht sind Rekonstruktion, Kritik und eine präzisere, noch tragfähige Schlussfassung, kein Gutachten zu einer bestimmten staatlichen Rechtsordnung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt den empirischen Befolgungsbefund von rechtlicher Geltung und identifiziert die fehlende Verknüpfungsprämisse statt den vorgegebenen Anteil anzuzweifeln.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft die zusätzlichen Übergänge zu moralischer Rechtfertigung und Kritikverbot eigenständig und behandelt sie nicht als logische Folgen der Befolgung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert eine begrenzte Schlussfassung über tatsächliche Befolgung beziehungsweise weitere Prüfbedürftigkeit, ohne fehlende Kompetenz- oder Inhaltsdaten zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "rechtsbegriff-und-geltung"
+    }
+  ]
+}

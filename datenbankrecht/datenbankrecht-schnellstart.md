@@ -1,79 +1,33 @@
-# Datenbankrecht — Schnellstart
+# 1 Datenbankrecht: Investition und Übernahme nachweisen
 
-Wenn du das hier öffnest, willst du Datenbankrechte, API-Nutzung, Entnahme, Wiederverwendung und Vertragsgrenzen schnell belastbar prüfen.
+Prüfe die konkrete Datenbank und den bezeichneten Nutzungsvorgang. Arbeite aus Sicht des Rechteinhabers, Lizenznehmers oder in Anspruch genommenen Nutzers. Nutze zuerst Sachverhalt, Kostenaufstellung, Datenmodell, Zugriffsdokumentation und Vertrag. Liefere das gewünschte Investitionsprotokoll, Abwehrschreiben, Lizenzstück oder Anspruchsmemo unmittelbar; frage nur nach einer für dieses Ergebnis blockierenden Angabe.
 
-Kernauftrag: Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG Paragrafen 87a ff., Datenbankrichtlinie, Investitionsschutz, automatisiertes Auslesen, API, Training digitaler Systeme, Vertrags- und Plattformkonflikte. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Schutzgegenstand abgrenzen
 
-## 1. Sofortstart nach Eingangslage
+Beschreibe die Sammlung, ihre unabhängigen Elemente, Ordnung und Einzelzugriffsmöglichkeit. Trenne Schutz einer schöpferischen Auswahl oder Anordnung als Datenbankwerk von dem investitionsbezogenen Herstellerrecht. Weder der Wert einzelner Daten noch bloßer Aufwand für eine Geschäftsidee begründet automatisch Datenbankschutz. Geschäftsgeheimnis, Datenschutz und API-Vertrag sind eigene Prüfspuren, keine Ersatzbegründungen für ein fehlendes Herstellerrecht.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Schutzgegenstand, Investition und Inhaberschaft, Nutzungsvorgang wählen; ohne konkreten Auftrag mit Schutzgegenstand beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Nach Paragraf 87a UrhG muss Beschaffung, Überprüfung oder Darstellung eine nach Art oder Umfang wesentliche Investition erfordern. Bestimme Hersteller und Finanzierung anhand der tatsächlichen Investition; Domaininhaber, Programmierer und wirtschaftlicher Träger müssen nicht identisch sein. Halte Fertigstellung, Veröffentlichungen und spätere Investitionsphasen getrennt fest. Bei einer Schutzdauerfrage sind die einschlägige Fristenregel und der Umfang einer wesentlichen Änderung eigens zu prüfen; ein tägliches Update verlängert nicht automatisch jeden Schutz.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Schutzgegenstand, Investition und Inhaberschaft, Nutzungsvorgang und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2 Kosten nicht nur summieren
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Erstelle eine Tabelle mit Tätigkeit, Zeitraum, Betrag oder Arbeitsstunden, Beleg, Kategorie und verbleibender Unsicherheit. Trenne das Erzeugen neuer Daten von der Suche und Sammlung bereits vorhandener Elemente. Unterscheide Qualitätskontrolle während der Datenerzeugung von der Prüfung schon vorhandener Daten bei Aufnahme und laufendem Betrieb. Mischkosten nachvollziehbar aufteilen, nicht vollständig in die günstigste Kategorie buchen. Infrastrukturkosten nur im belegten Zusammenhang mit der betreffenden Sammlung ansetzen.
 
-## 2. Fachlicher Direktstart
+EuGH, Urteil vom 9. November 2004, C-203/02, grenzt in Randnummern 30 bis 34 Datenerzeugung von den schutzfähigen Investitionen ab. Es gibt daraus keine feste Euro- oder Stundenuntergrenze. Bewerte die verbleibenden Aufwendungen quantitativ und qualitativ; ein hoher Erzeugungsanteil beseitigt nicht zwangsläufig den Schutz einer daneben wesentlich finanzierten Beschaffung oder Darstellung. Zeige, welche Rechnungen, Tätigkeitsnachweise oder Zuordnungsschlüssel die entscheidende Aussage tragen und was noch nicht bewiesen ist.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Datenbank und welcher Schutztyp sind betroffen.
-2. Kernprüfung in einem Durchgang: Welche Investition ist konkret und nicht nur Datenerzeugung; Welche Datenmenge oder Qualität wurde entnommen oder wiederverwendet.
-3. Belege und Engpass zusammenführen: Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft; besonders kritisch ist: Nutzung wird behauptet, aber Zugriffspfad und Datenmenge sind nicht belegbar.
-4. Erstes Arbeitsprodukt liefern: Abmahnung, Abwehrschreiben, Lizenzklausel, API-Regel, Beweismatrix oder Schadensschätzung erstellen.
+## 1.3 Zugriff und Übernahme rekonstruieren
 
-## 3. Kernroute
+Bestimme Quelle und Ziel, Datum, Nutzerkonto, Zugriffspfad und übernommene Elemente. Sichere aus vorhandenem Material konkrete Übereinstimmungen, charakteristische Fehler, Zeitstempel, Exporte und Logs. Eine ähnliche Oberfläche oder gleiche öffentlich bekannte Tatsache belegt für sich keine Übernahme. Gegenbelege wie eigene Erhebung oder unabhängige Drittquelle ausdrücklich würdigen. Fehlende Logs begrenzen die Aussage, verhindern aber nicht die Prüfung anderer Belege.
 
-1. Schutzgegenstand: Datenbankwerk, Herstellerrecht, Geschäftsgeheimnis, Vertrag oder bloße Datenquelle trennen.
-2. Investition und Inhaberschaft: Beschaffung, Überprüfung, Darstellung, Finanzierung, Mitarbeiterleistung und Rechtekette belegen.
-3. Nutzungsvorgang: Entnahme, Wiederverwendung, API-Zugriff, Export, Abgleich, Metasuche oder Training digitaler Systeme präzise beschreiben.
-4. Einwendungen: Lizenz, Erschöpfung, Schranke, Vertragserlaubnis, rechtmäßiger Zugang und Nutzungsvorbehalt prüfen.
-5. Arbeitsprodukt: Abmahnung, Abwehrschreiben, Lizenzklausel, API-Regel, Beweismatrix oder Schadensschätzung erstellen.
+Nach Paragraf 87b UrhG den gesamten Bestand und die nach Art oder Umfang wesentlichen Teile getrennt prüfen. Quantitativ braucht es einen begründeten Vergleichsbestand; qualitativ zählt der Bezug zur geschützten Investition, nicht bloß der Verkaufspreis der kopierten Daten. Wiederholte systematische Übernahmen kleiner Teile nicht isoliert als folgenlos behandeln: Muster, Zeitraum, kumulativen Umfang und Beeinträchtigung normaler Auswertung oder berechtigter Interessen untersuchen. Ein pauschaler erlaubter Prozentsatz ist keine tragfähige Regel.
 
-## 4. Fallkarte
+EuGH, Urteil vom 9. Oktober 2008, C-304/07, erfasst auch eine Übertragung nach Bildschirmabfrage und eigener Auswahl als mögliche Entnahme. Automatisiertes Kopieren ist daher keine notwendige Voraussetzung. Trenne diese Handlung von der anschließenden Veröffentlichung oder Weitergabe und ordne jede Handlung dem richtigen Beteiligten zu.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | UrhG Paragraf 87a; UrhG Paragraf 87b; UrhG Paragraf 87c |
-| Rechtsprechung | EuGH, Urteil vom 09.11.2004 - C-203/02; EuGH, Urteil vom 09.10.2008 - C-304/07 |
-| Tatbestand | Datenbankwerk, Herstellerrecht, Geschäftsgeheimnis, Vertrag oder bloße Datenquelle trennen |
-| Beweislast | Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft |
-| Rechtsfolge | Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.4 Erlaubnisse und andere Grenzen prüfen
 
-## 5. Einsatzfelder
+Lies API-Lizenz und Nutzungsbedingungen in der bei Zugriff geltenden Fassung: zugelassener Zweck, Mengenlimit, Speicherung, Weitergabe, Unterlizenz und Laufzeit. Technisch möglicher Zugriff ist nicht schon eine Erlaubnis für jeden Zweck. Umgekehrt begründet eine Vertragsverletzung nicht ohne weitere Voraussetzungen einen Anspruch aus Herstellerrecht. Bei Schranken, Text- und Data-Mining oder Daten vernetzter Produkte die konkrete Vorschrift und ihre Voraussetzungen aktuell amtlich prüfen; insbesondere die Ausnahme des Paragrafen 87b Absatz 3 UrhG nicht übersehen. Kein generelles Scraping-Verbot und keine pauschale Trainingsfreigabe behaupten.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Schutzgegenstand | Datenbankwerk, Herstellerrecht, Geschäftsgeheimnis, Vertrag oder bloße Datenquelle trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Investition und Inhaberschaft | Beschaffung, Überprüfung, Darstellung, Finanzierung, Mitarbeiterleistung und Rechtekette belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Nutzungsvorgang | Entnahme, Wiederverwendung, API-Zugriff, Export, Abgleich, Metasuche oder Training digitaler Systeme präzise beschreiben. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einwendungen | Lizenz, Erschöpfung, Schranke, Vertragserlaubnis, rechtmäßiger Zugang und Nutzungsvorbehalt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Abmahnung, Abwehrschreiben, Lizenzklausel, API-Regel, Beweismatrix oder Schadensschätzung erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+## 1.5 Ergebnis mit Beweisgrenzen liefern
 
-## 6. Anker
+Formuliere für jede beanspruchte Rechtsfolge Schutzgrund, konkrete Handlung, Erlaubnislage und Belegdefizit. Bei Abmahnung den behaupteten Bestand und untersagten Nutzungsvorgang bestimmbar beschreiben; bei Abwehr das schwächste Tatbestandsmerkmal mit Gegenbeleg angreifen. Schadensbeträge nur anhand einer bezeichneten Berechnungsgrundlage, nicht aus dem gesamten Entwicklungsbudget ableiten. Ergänze eine gezielte Beweisanforderung statt einer pauschalen Unterlagenliste.
 
-- UrhG Paragraf 87a: Datenbankhersteller und wesentliche Investition.
-- UrhG Paragraf 87b: Entnahme und Wiederverwendung wesentlicher Teile.
-- UrhG Paragraf 87c: Schranken des Datenbankherstellerrechts.
-- UrhG Paragraf 44b: Text- und Data-Mining als Schranke mit Nutzungsvorbehalt.
-- Paragraf 280 Abs. 1 BGB: Schadensersatz bei Pflichtverletzung aus dem Schuldverhältnis; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 314 BGB: Kündigung von Dauerschuldverhältnissen aus wichtigem Grund bei schwerwiegendem Vertragsbruch; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 307 BGB: AGB-Kontrolle — Rate-Limit-Klauseln müssen klar, verständlich und nicht unangemessen benachteiligend sein; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 87b UrhG: Urheberrechtlicher Anspruch neben dem Vertragsanspruch bei wesentlicher Entnahme; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 09.11.2004 - C-203/02: British Horseracing Board grenzt Erzeugen von Daten von Investition in Beschaffung, Überprüfung und Darstellung ab.
-- EuGH, Urteil vom 09.10.2008 - C-304/07: Directmedia präzisiert Entnahme bei Übernahme von Datenbankinhalten.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben.
-7.2. Norm: UrhG Paragraf 87a; UrhG Paragraf 87b mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Schutzgegenstand“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Investition ist konkret und nicht nur Datenerzeugung.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Schutzgegenstand“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Nutzung wird behauptet, aber Zugriffspfad und Datenmenge sind nicht belegbar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Amtliche Anker: [Paragraf 87a UrhG](https://www.gesetze-im-internet.de/urhg/__87a.html), [Paragraf 87b UrhG](https://www.gesetze-im-internet.de/urhg/__87b.html), [C-203/02](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62002CJ0203) und [C-304/07](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62007CJ0304). Zusätzliche Spezialmaterialien sind optional; dieser Text enthält den Arbeitskern. Vollständige Sätze, dezimale Gliederung und beim formatierten Export Times New Roman 11 pt verwenden. Ohne Exportzugriff den fertigen Text liefern, keinen Dateilink erfinden.

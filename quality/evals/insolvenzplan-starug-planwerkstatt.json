@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "insolvenzplan-starug-planwerkstatt",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__244.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Volltext: Kopfmehrheit und mehr als halbe Forderungssumme der abstimmenden Gläubiger."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/starug/__25.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Volltext: mindestens drei Viertel der Stimmrechte in jeder Gruppe."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der alte Mini war ein Prognoseeinstieg und bot keine belastbare Planabstimmung.",
+    "changes": [
+      "Planinhalt, Vergleichsrechnung und Finanzierung konkretisiert.",
+      "Abstimmungsnenner und Mehrheiten beider Verfahren getrennt.",
+      "Gruppenmehrheit nicht mit Bestätigung oder automatischem Cram-down gleichgesetzt."
+    ],
+    "sha256": "7dc9255ff2fc27728e50592ff2b8fafc791d8a56bb9ca0b448907fa6fa406454"
+  },
+  "selection": {
+    "positive": [
+      "Rechne die Gruppenmehrheiten unseres Insolvenzplans nach.",
+      "Prüfe die Stimmrechtsbasis eines StaRUG-Plans mit Nichtteilnehmern."
+    ],
+    "negative": [
+      "Prüfe nur eine einzelne Forderungsanmeldung.",
+      "Berechne ausschließlich Organhaftung für Zahlungen nach Insolvenzreife."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zwei-regime-mehrheitsnenner",
+      "request": "Erstelle ergebnis.md für zwei voneinander unabhängige Plansimulationen. In einem Insolvenzplan stimmen in einer Gläubigergruppe vier Gläubiger mit unstreitigen Forderungen von 40, 30, 20 und 10 Tausend Euro ab. Die ersten beiden stimmen Ja, die anderen Nein. In einem anderen Verfahren nach StaRUG hat eine Gruppe insgesamt 100 Stimmrechte: 60 Ja, 20 Nein, 20 nehmen nicht teil. Alle Stimmrechte und Gruppenzuordnungen stehen fest. Prüfe nur die reguläre Annahme in diesen Gruppen; eine gruppenübergreifende Ersetzung oder Bestätigung soll noch nicht geprüft werden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verneint beim Insolvenzplan die reguläre Gruppenannahme trotz 70 Prozent Forderungssumme, weil zwei von vier Köpfen keine Mehrheit sind.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Berechnet beim StaRUG 60 von 100 und nicht 60 von 80 Stimmrechten und verneint die Dreiviertelmehrheit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Behauptet weder endgültiges Scheitern des gesamten Plans noch bereits erfolgreiche Ersetzung oder gerichtliche Bestätigung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "abstimmung-mehrheiten-anlagenpaket"
+    }
+  ]
+}

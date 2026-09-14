@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "plugin": "urheberrecht-de-eu",
+  "reviewed_on": "2026-09-14",
+  "sources": [{"url": "https://www.gesetze-im-internet.de/urhg/__51.html", "checked_on": "2026-09-14", "supports": "Geöffneter amtlicher Volltext: veröffentlichtes Werk, Zitatzweck und durch diesen gerechtfertigter Umfang statt allgemeiner Prozentfreigabe."}],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Mini und Werkstatt vermischten Urheberrecht mit Marken und Nichtbenutzung. Der gelesene Schranken-Skill stellte bereits Zweck und Umfang heraus; der Mini macht diese Prüfung jetzt ohne Pflichtverweise konkret.",
+    "changes": ["Markenroute und pauschale Nichtbenutzungseinrede entfernt", "Zitatzweck, Umfang und eigene Auseinandersetzung operationalisiert", "Dublette und pauschale historische Entscheidungsanker entfernt", "Unterlassungserklärung und Plattformmeldung unter Freigabevorbehalt gestellt"],
+    "sha256": "9a29a3f4b9110a31aa611c18401389eb3b3031877f1d152d2605aea42b1cfebe"
+  },
+  "selection": {
+    "positive": ["Prüfe die fremden Textauszüge in unserer Rezension auf einen tragfähigen Zitatzweck.", "Ordne für unseren Upload Nutzungsrechte, Lizenzkette und mögliche Schranken zu."],
+    "negative": ["Prüfe die Nichtbenutzungseinrede gegen eine eingetragene Marke.", "Bereite ausschließlich die Registrierung eines US-Werks beim dortigen Copyright Office vor."]
+  },
+  "cases": [{
+    "id": "rezension-versus-dekorationszitat",
+    "request": "Schreibe ergebnis.md als Freigabevermerk für zwei geplante Nutzungen eines veröffentlichten Romans. Eine Lizenz liegt nicht vor. Die Urheberschaft und Schutzfähigkeit sind unstreitig. In einer eigenständigen 1.200 Wörter langen Rezension werden zwei Sätze mit insgesamt 38 Wörtern aus Seite 87 angeführt und anschließend deren besondere Erzählperspektive in drei Absätzen analysiert. Autor, Titel, Verlag, Erscheinungsjahr und Seite stehen direkt darunter. Daneben soll derselbe Auszug unverändert als dekorativer Werbebanner für unser Buchhandelsabonnement erscheinen; dort gibt es nur eine Quellenangabe und den Kaufknopf, keine inhaltliche Auseinandersetzung. Die verantwortliche Redaktion meint, weniger als 50 Wörter seien stets erlaubt. Bitte bewerte beide Nutzungen getrennt und benenne praktikable Alternativen. Es gibt keine weiteren Unterlagen.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id": "C01", "text": "Das Ergebnis lehnt eine allgemeine 50-Wörter-Freigabe ab und prüft Zweck sowie erforderlichen Umfang der konkreten Übernahme.", "deliverables": ["ergebnis.md"]},
+      {"id": "C02", "text": "Die analytische Einbindung in die Rezension wird von der rein dekorativen Werbenutzung unterschieden; die Quellenangabe allein trägt keine Freigabe des Banners.", "deliverables": ["ergebnis.md"]},
+      {"id": "C03", "text": "Der Vermerk nennt Lizenzklärung oder eine Gestaltung ohne den fremden Text als Alternative für den Banner und behauptet weder einen bereits erteilten Lizenzkonsens noch eine eigene Veröffentlichung.", "deliverables": ["ergebnis.md"]}
+    ],
+    "target_skill": "schranken-zitat-unterricht"
+  }]
+}

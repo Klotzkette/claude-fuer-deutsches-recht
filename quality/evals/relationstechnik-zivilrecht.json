@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "relationstechnik-zivilrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__362.html",
+      "checked_on": "2026-09-14",
+      "supports": "Erfüllung als Erlöschensgrund des Schuldverhältnisses."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__138.html",
+      "checked_on": "2026-09-14",
+      "supports": "Erklärungslast sowie Abgrenzung zugestandener und bestrittener Tatsachen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die alte Stationenliste blieb repetitiv und verlangte einen Normenpflichtstamm unabhängig vom Streitstoff.",
+    "changes": [
+      "Schlüssigkeit unter Wahrunterstellung von Beweisbarkeit getrennt.",
+      "Erhebliche Einwendung, Beweisthema und Folge bei offenem Ergebnis konkretisiert.",
+      "Beweisaufnahme und richterlichen Entscheidungsvorschlag gegen fingierte Feststellungen abgegrenzt."
+    ],
+    "sha256": "edd8c548462f21f91b9be8f32d458db08ba196e87cb0755f6a7bd98f9516b13c"
+  },
+  "selection": {
+    "positive": [
+      "Erstelle eine Beweisstation zu einer bestrittenen Barzahlung.",
+      "Prüfe Klägerstation und Erheblichkeit der Einwendungen für ein richterliches Votum."
+    ],
+    "negative": [
+      "Entwirf die strafrechtliche Abschlussverfügung der Staatsanwaltschaft.",
+      "Berechne ausschließlich die Berufungsfrist und den elektronischen Einreichungsweg, ohne Sach- oder Beweisvotum."
+    ]
+  },
+  "cases": [
+    {
+      "id": "barzahlung-als-erfuellungseinwendung",
+      "request": "Erstelle ergebnis.md als richterliches Relationsvotum vor Beweisaufnahme. K verlangt von B 2400 Euro Kaufpreis. Vertrag, Lieferung, Fälligkeit und Höhe sind ausdrücklich unstreitig. B behauptet, am 3. August 2026 um 15 Uhr in Ks Büro den gesamten Betrag bar an K übergeben zu haben, und bietet den dabei anwesenden Zeugen Theo Lang an. K bestreitet den Erhalt ausdrücklich. Es gibt keine Quittung, keine weiteren Einwendungen und noch keine Zeugenvernehmung. Die Zulässigkeit ist geprüft und unproblematisch. Gewünscht sind Kläger-, Beklagten- und Beweisstation samt nächstem Verfahrensschritt, kein erfundener Urteilsausgang.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Behandelt den Anspruch wegen unstreitiger Entstehung und Fälligkeit als schlüssig und die behauptete Zahlung als gesonderte erhebliche Erfüllungseinwendung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ordnet den Nachweis der bestrittenen Barzahlung B zu und erklärt, dass ein nach Beweisaufnahme offenbleibender Zahlungsvorgang zu seinen Lasten geht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bereitet die Vernehmung von Theo Lang zum konkret behaupteten Übergabevorgang vor, ohne dessen Aussage oder Glaubhaftigkeit vorwegzunehmen und ohne die Klage allein mangels Quittung endgültig zu entscheiden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "13-beweislastverteilung-pruefen"
+    }
+  ]
+}

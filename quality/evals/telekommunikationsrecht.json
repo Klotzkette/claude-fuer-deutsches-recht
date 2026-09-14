@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "plugin": "telekommunikationsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {"url": "https://www.gesetze-im-internet.juris.de/tkg_2021/__58.html", "checked_on": "2026-09-14", "supports": "Amtlicher Normtext im Suchabruf: Beginn, Tagesstaffel, Ausnahmen und Anrechnung bei vollständigem Ausfall; versäumter Termin als eigener Tatbestand."},
+    {"url": "https://www.gesetze-im-internet.de/tkg_2021/", "checked_on": "2026-09-14", "supports": "Amtliche Inhaltsübersicht: Marktregulierung ab Paragraf 10; konkrete Zuordnung der Kundenschutzregeln in Paragraf 54 bis Paragraf 60."}
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die bisherige Zuordnung der Vertragslaufzeit zu Paragraf 51 bis Paragraf 55 und der Marktregulierung zu Paragraf 92 war falsch. Werkstatt und Beweisplan-Skill enthalten brauchbare Nachweise, aber keine eigenständige Tagesrechnung.",
+    "changes": ["Normzuordnung berichtigt", "Vollausfall, Minderleistung und Terminversäumnis getrennt", "Tagesstaffel, Ausschlussgründe und Anrechnung ergänzt", "Pauschalen Widerspruchsweg entfernt"],
+    "sha256": "fbc11037b97e5beb43a4fdf865f954d57db34121e22e9c21b9f544348c6fb2aa"
+  },
+  "selection": {
+    "positive": ["Berechne die Entschädigung für meinen gemeldeten vollständigen Internetanschlussausfall.", "Erstelle aus LAN-Messungen und Störungstickets einen Beweisplan gegen den Anschlussanbieter."],
+    "negative": ["Prüfe einen Kaufmangel am separat gekauften Router ohne Streit über den Anschluss.", "Entwirf eine Datenschutzerklärung für einen Onlinehandel ohne Telekommunikationsdienst."]
+  },
+  "cases": [{
+    "id": "vollausfall-september-tagesstaffel",
+    "request": "Schreibe in ergebnis.md eine Forderungsberechnung mit einem kurzen Entwurf an meinen Festnetzanbieter. Ich bin Privatkunde mit konstant 60 Euro Monatsentgelt. Internet und Telefon sind seit 1. September 2026 vollständig ausgefallen. Das Ticket bestätigt den Meldungseingang am 1. September um 9 Uhr. Die Störung dauerte ununterbrochen bis zum Ende des 7. September; um 0 Uhr am 8. September war der Anschluss wiederhergestellt. Ich habe sämtliche Mitwirkung erfüllt. Der Anbieter bestätigt einen internen technischen Defekt, keine höhere Gewalt oder behördliche Maßnahme. Es gab keinen vereinbarten Kundendiensttermin, keine Ersatzleistung, keinen weiteren bezifferten Schaden und keine bisherigen Zahlungen oder Minderungen. Vertrag und Ticketinhalte sind damit vollständig wiedergegeben.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id": "C01", "text": "Die Rechnung grenzt Meldetag sowie 2. und 3. September von den entschädigungsfähigen vollständigen Ausfalltagen 4. bis 7. September ab.", "deliverables": ["ergebnis.md"]},
+      {"id": "C02", "text": "Das Ergebnis vergleicht die gesetzlichen Mindestbeträge mit den Prozentsätzen von 60 Euro und berechnet zweimal 6 Euro plus zweimal 12 Euro, insgesamt 36 Euro.", "deliverables": ["ergebnis.md"]},
+      {"id": "C03", "text": "Der Entwurf fordert keine zusätzliche Terminpauschale oder erfundenen Erwerbsschaden und bleibt ein nicht versandter Entwurf mit belegter Ausfallchronologie.", "deliverables": ["ergebnis.md"]}
+    ],
+    "target_skill": "beweisplan-messung-stoerung-protokoll"
+  }]
+}

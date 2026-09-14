@@ -1,73 +1,23 @@
-# Memorandums Ersteller — Schnellstart
+# 1. Entscheidungsfähiges Memorandum
 
-Wenn du das hier öffnest, willst du aus unsortiertem Material eine belastbare juristische Frage, Subsumtion und sofort nutzbare Textfassung entwickeln.
+Erstelle aus dem Nutzersachverhalt und den vorhandenen Unterlagen unmittelbar das beauftragte Memorandum. Bestimme Empfänger, Entscheidungsfrage und Stichtag. Lies tragende Verträge, Korrespondenz und Belege zuerst. Frage nur nach blockierenden Widersprüchen; ein unvollständiger Nebenpunkt hindert nicht die Ausarbeitung der übrigen Prüfung.
 
-Kernauftrag: Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung — Sachverhalt mit Quellenreferenz; Ein-Satz-Fragen; Ein-Satz-Antworten; rechtliche Ausführungen mit Pinpoint-Zitierung. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Vier Teile als Arbeitsprodukt
 
-## 1. Sofortstart nach Eingangslage
+Gliedere das Memo in 1. Sachverhalt, 2. Fragen, 3. Kurzantworten und 4. Rechtliche Ausführungen. Der Sachverhalt enthält Quellenreferenzen. Jede Frage besteht aus einem entscheidbaren Satz; jede zugeordnete Kurzantwort aus einem Satz mit nötigem Vorbehalt. In Teil 4 die Antwort begründen, Risiken und konkrete Handlungsempfehlung als dezimale Unterpunkte einordnen. Nicht stattdessen eine Subsumtionszeile oder eine Liste möglicher Produkte liefern.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegte Aufgabenbeschreibung, Datengrundlage, Quellen und Berechnungen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Auftrag und Adressat, Sachverhalt, Normstruktur wählen; ohne konkreten Auftrag mit Auftrag und Adressat beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 1.2. Aktenbasis nachvollziehbar machen
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Auftrag und Adressat, Sachverhalt, Normstruktur und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Gib zu jeder tragenden Tatsache Dokument, Datum und vorhandene Seiten- oder Abschnittsangabe an. Erfinde keine Seitenzahl bei einer E-Mail oder einem undatierten Auszug. Bei vollständig im Auftrag enthaltenem Sachverhalt diesen als Nutzerangabe kennzeichnen. Eine gegnerische Behauptung nicht durch neutrale Formulierung zu einer feststehenden Tatsache machen. Dokumentiere Widersprüche, statt eine der Fassungen stillschweigend auszuwählen.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Ordne offene Punkte nach ihrer Auswirkung: Welche Antwort ändert sich bei welcher möglichen Aufklärung? Stelle gegebenenfalls zwei begründete Ergebnisse gegenüber. Ein nicht vorgelegter Anhang ist eine Lücke, keine Bestätigung des Hauptdokuments. Vorhandene Recherche und Aktenfunde in Folgefassungen wiederverwenden, soweit sie unverändert tragfähig sind.
 
-## 2. Fachlicher Direktstart
+## 1.3. Begründung und Gegenprobe
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete Rechtsfrage muss der Adressat entscheiden oder beantworten.
-2. Kernprüfung in einem Durchgang: Welche Tatsache ist für welches Tatbestandsmerkmal entscheidungserheblich; Welche Fundstelle trägt die Tatsache und welcher Punkt bleibt nur Behauptung.
-3. Belege und Engpass zusammenführen: Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen; besonders kritisch ist: Rechtsfrage und gewünschtes Arbeitsprodukt sind nicht bestimmbar.
-4. Erstes Arbeitsprodukt liefern: Subsumtionszeile: Normmerkmal, Definition, Tatsache, Aktenfund, Schluss, Gegenargument, Beweislast und Zwischenergebnis.
+Leite den konkreten Prüfmaßstab aus dem Rechtsgebiet der Frage ab, nicht aus einer allgemeinen Kanzleihaftungs-Normenkette. Verbinde Voraussetzung, Tatsache und Schluss in vollständigen Sätzen. Stelle den stärksten entscheidungserheblichen Einwand dar und beantworte ihn anhand der Akte. Kontrolliere zuletzt jede Kurzantwort gegen den tatsächlichen Begründungsstand; keine uneingeschränkte Empfehlung bei offenem tragendem Punkt.
 
-## 3. Kernroute
+Rechtliche Aussagen anhand aktueller amtlicher Primärquellen prüfen. Entscheidungen nur mit Gericht, Form, Datum, Aktenzeichen und tatsächlich geprüfter genauer Fundstelle nennen. Literatur nur bei vorgelegtem Text oder verifiziertem Zugang. Für reine Struktur- oder Redaktionsaufträge keine zusätzlichen Rechtsbehauptungen erzeugen.
 
-1. Auftrag und Adressat: Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen.
-2. Sachverhalt: Chronologie, Beteiligte, Dokumentfundstellen, unstreitige Tatsachen, Behauptungen und Lücken sauber trennen.
-3. Normstruktur: Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen.
-4. Subsumtion und Gegenprobe: für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen.
-5. Arbeitsprodukt: Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren.
+## 1.4. Ausgabe
 
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 20 Absatz 3; BGB Paragraf 133 und Paragraf 157; ZPO Paragraf 138 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen |
-| Rechtsfolge | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Auftrag und Adressat | Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sachverhalt | Chronologie, Beteiligte, Dokumentfundstellen, unstreitige Tatsachen, Behauptungen und Lücken sauber trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Normstruktur | Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Subsumtion und Gegenprobe | Für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- GG Artikel 20 Absatz 3: Bindung an Gesetz und Recht als Ausgangspunkt juristischer Begründung.
-- BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
-- ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
-- ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erstes belastbares Ergebnis: Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle.
-7.2. Maßstab: GG Artikel 20 Absatz 3; BGB Paragraf 133 und Paragraf 157 mit der entscheidenden Bewertungsfrage verbinden.
-7.3. Materialfund: Für „Auftrag und Adressat“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Tatsache ist für welches Tatbestandsmerkmal entscheidungserheblich.
-7.6. Erwiderung: Gegenbeleg, Alternativhypothese oder Bewertungsmaßstab nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Subsumtionszeile“. Frist, Kernlücke und nächster Prüfstufe benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Rechtsfrage und gewünschtes Arbeitsprodukt sind nicht bestimmbar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere das fertige Memo mit Quellen bei den tragenden Aussagen und benannten nächsten Schritten. Optional hilft `memo-vier-teile-aufbau` bei der Vertiefung; maßgeblich bleibt der hier vollständig beschriebene Aufbau, auch ohne Repositoryzugriff. Ohne Export den vollständigen Text bereitstellen, keine Datei behaupten. Formatierter Export: Times New Roman, 11 pt, dezimale Gliederung mit Leerzeilen zwischen Überschrift und Inhalt.

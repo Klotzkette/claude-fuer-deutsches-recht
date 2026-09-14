@@ -13,6 +13,7 @@ REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO / "scripts"))
 
 from themen_profile import EXACT_PROFILE_KEYS, profile_for  # noqa: E402
+from quality_lab import load, validate_profile
 
 
 CRITICAL_ROUTES = dict(EXACT_PROFILE_KEYS)
@@ -688,8 +689,22 @@ def main() -> int:
                         problems.append(
                             f"{path.relative_to(REPO)}: beschädigte oder generische Fachroute {fragment!r}"
                         )
-            for issue in decimal_heading_problems(text):
+            review_path = REPO / "quality" / "evals" / f"{slug}.json"
+            individual_mini = kind == "schnellstart" and review_path.is_file()
+            if individual_mini:
+                try:
+                    validate_profile(load(review_path), slug, plugin_dir, REPO)
+                except (ValueError, OSError, TypeError, KeyError) as exc:
+                    problems.append(f"{path.relative_to(REPO)}: individuelle Prüfung ungültig: {exc}")
+            for issue in ([] if individual_mini else decimal_heading_problems(text)):
                 problems.append(f"{path.relative_to(REPO)}: {issue}")
+            if individual_mini:
+                # Aufbau und Wortlaut folgen dem Fachauftrag. Strukturprüfung
+                # übernimmt audit-quickstart-usability, Ergebnisprüfung das Labor.
+                for marker in PROMPT_ASSERTIONS.get(slug, {}).get("forbidden", ()):
+                    if marker in text:
+                        problems.append(f"{path.relative_to(REPO)}: falscher Anker {marker!r}")
+                continue
             if slug in protected:
                 continue
             required = REQUIRED_WERKSTATT if kind == "werkstatt" else REQUIRED_SCHNELLSTART

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "kartellrecht-marktabgrenzung-pruefung",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/eli/C/2024/1645/oj?locale=de",
+      "checked_on": "2026-09-14",
+      "supports": "Amtliche Suchauszüge der Bekanntmachung C/2024/1645, Randnummern 25 und 26 sowie 32 und 33: Nachfrageausweichmöglichkeiten und kurzfristige wirksame Angebotssubstitution; direkter Volltextabruf eingeschränkt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/BJNR252110998.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Normauszug zu Paragraf 18 Absatz 4: Marktbeherrschungsvermutung ab mindestens 40 Prozent, keine Missbrauchsfeststellung allein daraus."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der breite Kartellrechtsablauf enthielt kaum konkrete Marktdefinitionsarbeit. Im Kernskill genannte starre Elastizitätswerte wurden nicht übernommen.",
+    "changes": [
+      "Substitutionsbelege und Kundenperspektive konkretisiert.",
+      "Einheitlicher Nenner, Zeitraum und alternative Marktgrenzen für Anteile vorgeschrieben.",
+      "Marktbeherrschungsvermutung von Missbrauch und Schadenshöhe getrennt."
+    ],
+    "sha256": "fd8fb1915dfb896ebaa42340c72114d9bb66813b76464f250900982b3eb26e4d"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die Einbeziehung nicht zertifizierter Ersatzprodukte in unseren Markt.",
+      "Berechne Marktanteile unter zwei begründeten Produktabgrenzungen."
+    ],
+    "negative": [
+      "Prüfe ausschließlich die wettbewerbsrechtliche Irreführung einer Anzeige.",
+      "Berechne ohne Marktfrage den konkreten Kartellschaden aus einer abgeschlossenen Schadensstudie."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zertifizierte-filter-zwei-nenner",
+      "request": "Erstelle ergebnis.md zur sachlichen Marktabgrenzung im deutschen GWB-Kontext. Ein Anbieter verkauft zertifizierte Filter für Klinikanlagen. Sein relevanter Jahresumsatz beträgt 4 Millionen Euro; der Gesamtumsatz aller zertifizierten Filter in Deutschland beträgt im selben Jahr 10 Millionen Euro. Einschließlich äußerlich ähnlicher nicht zertifizierter Filter wären es 20 Millionen Euro. Die betrachteten Kliniken dürfen nach ihren vorgegebenen Beschaffungsanforderungen nur zertifizierte Filter einsetzen. Eine Umrüstung würde mindestens zwei Jahre dauern und erhebliche Kosten verursachen. Die nicht zertifizierten Anbieter können die Zertifizierung nicht kurzfristig erhalten. Weitere Daten zur Marktstellung und zu einem möglichen missbräuchlichen Verhalten fehlen. Vergleiche die beiden Anteile und die Aussagekraft der weiten Abgrenzung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Berechnung ergibt 40 Prozent im engen und 20 Prozent im weiten Markt bei einheitlicher Umsatzbasis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die fehlende kurzfristige Verwendbarkeit und Zertifizierbarkeit spricht gegen die ungeprüfte Einbeziehung der nicht zertifizierten Filter; äußere Ähnlichkeit wird nicht als ausreichender Ersatzbeleg behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die deutsche Vermutung bei 40 Prozent wird von einer endgültigen Marktstellungsbewertung und dem nicht belegten Missbrauch getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "produktmarkt-nachfragesubstitution"
+    }
+  ]
+}

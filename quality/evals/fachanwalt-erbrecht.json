@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-erbrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 20.05.2020, IV ZR 193/19, Randnummern 8 bis 11: eigenständige notarielle Ermittlung, erforderliche Mitwirkung des Erben; ausnahmsweise Ergänzung eines unzureichend ermittelten Verzeichnisses, nicht generell Neuerstellung bei jeder Beanstandung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__2314.html",
+      "checked_on": "2026-09-14",
+      "supports": "Auskunft, Verzeichnis, Wertermittlung und notarielle Aufnahme für den nicht als Erben berufenen Pflichtteilsberechtigten; keine daraus abzuleitende pauschale Herausgabe aller Belege."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__2311.html",
+      "checked_on": "2026-09-14",
+      "supports": "Bestand und Wert des Nachlasses zur Zeit des Erbfalls als Grundlage der Pflichtteilsberechnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__260.html",
+      "checked_on": "2026-09-14",
+      "supports": "Bestandsverzeichnis und Voraussetzungen einer Versicherung an Eides statt bei Verdacht mangelnder Sorgfalt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__2303.html",
+      "checked_on": "2026-09-14",
+      "supports": "Pflichtteil ausgeschlossener Abkömmlinge in Höhe der Hälfte des gesetzlichen Erbteils."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Schnellstart benötigte einen belastbaren Stichtags- und Verzeichnisabgleich statt einer nur allgemeinen Auskunftsroutine; lokale Referenzverweise waren für einen allein heruntergeladenen Prompt zu verbindlich.",
+    "changes": [
+      "Todestagsbestände, spätere Kontobewegungen und Doppelabzüge konkret unterschieden.",
+      "Verzeichnislücke, Bewertungsstreit und Sorgfaltszweifel als unterschiedliche Fehlerklassen ergänzt.",
+      "Keinen allgemeinen Beleganspruch aus Paragraf 2314 BGB unterstellt; lokale Referenzen ausdrücklich optional gemacht und Kernregeln eingebettet."
+    ],
+    "sha256": "b9bfb0d5113966ee27341930e570ac4b5a3f85f680d8350f534099f896dab0a8"
+  },
+  "selection": {
+    "positive": [
+      "Gleiche das notarielle Nachlassverzeichnis mit Kontobewegungen und Todestagswerten ab und beziffere meinen Pflichtteil vorläufig.",
+      "Prüfe, ob ein ausgelassenes Auslandskonto Ergänzung, weitere Ermittlung oder eine Versicherung an Eides statt erfordert."
+    ],
+    "negative": [
+      "Entwirf ein gemeinschaftliches Testament mit Wiederverheiratungsklausel.",
+      "Berechne ausschließlich die Erbschaftsteuer auf eine vollständig bekannte Erbschaft."
+    ],
+    "target_skill": "pflichtteil-nachlassverzeichnis-belegabgleich"
+  },
+  "cases": [
+    {
+      "id": "nachlasskonto-auslandsluecke-und-pflegeforderung",
+      "request": "Ich vertrete den enterbten Sohn eines am 10.01.2026 verstorbenen verwitweten Vaters. Die einzige weitere Tochter ist testamentarische Alleinerbin; weitere Abkömmlinge, Ehegatten, Schenkungen oder Pflichtteilsverzichte gibt es nicht. Das notarielle Verzeichnis nennt ein Inlandskonto mit 60.000 Euro, eine Immobilie mit 600.000 Euro und Schulden von 60.000 Euro. Die Kontoauszüge zeigen am Todestag 100.000 Euro; danach wurden 20.000 Euro belegte Erblasserdarlehen zurückgezahlt, 10.000 Euro angemessene Bestattungskosten bezahlt und 10.000 Euro an die Tochter privat überwiesen. Die 60.000 Euro im Verzeichnis sind der spätere Saldo. Der Immobilienwert von 600.000 Euro stammt aus einem Augustgutachten; beide Seiten akzeptieren aufgrund eines ergänzenden Gutachtens 500.000 Euro zum Todestag. Die aufgeführten Schulden bestehen aus dem Darlehen, den Bestattungskosten und einer nachträglich behaupteten Pflegevergütung der Tochter von 30.000 Euro. Für diese Vergütung sind weder Vertrag noch sonstiger Rechtsgrund oder Zahlungsbeleg vorgelegt. Außerdem liegt ein auf den Vater lautender Schweizer Kontoauszug vom Dezember 2025 vor, dessen Betrag geschwärzt ist. Der Notar hat dieses Konto nicht untersucht, weil die Tochter die erforderliche Zustimmung zur Bankanfrage verweigerte. Das Verzeichnis bezeichnet es als nicht nachgewiesen. Bitte erstelle ergebnis.md mit Fehler- und Belegmatrix, vorläufiger Pflichtteilsrechnung ohne das noch unbekannte Auslandsguthaben und passenden nächsten Auskunfts- und Wertermittlungsschritten. Formuliere nur einen Entwurf, keine Einreichung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Rechnung verwendet 100.000 Euro Kontobestand und 500.000 Euro Immobilienwert am Todestag; die späteren 40.000 Euro Kontoabgänge werden nicht neben den Einzelverbindlichkeiten nochmals pauschal abgezogen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ohne die unbelegte Pflegeforderung und ohne unbekanntes Auslandsguthaben weist sie 570.000 Euro vorläufigen Nettonachlass und bei einer Pflichtteilsquote von einem Viertel 142.500 Euro aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Pflegeforderung wird nicht ungeprüft als Verbindlichkeit übernommen; eine ausdrücklich bedingte Anerkennungsvariante mindert den Pflichtteil um 7.500 Euro auf 135.000 Euro.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Sie begründet beim Schweizer Konto einen konkreten weiteren Ermittlungs- und Ergänzungsbedarf aufgrund der verweigerten Mitwirkung und behandelt den unbekannten Betrag nicht als nachgewiesene Null.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Sie unterscheidet die Auslandskontolücke vom Immobilienbewertungsstreit und verlangt nicht allein wegen jeder Beanstandung ein vollständig neues notarielles Verzeichnis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C06",
+          "text": "Beleganforderungen und eine mögliche Versicherung an Eides statt werden nach ihrem jeweiligen Zweck und ihren Voraussetzungen begründet, nicht als voraussetzungsloser Anspruch auf sämtliche Unterlagen dargestellt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "pflichtteil-nachlassverzeichnis-belegabgleich"
+    }
+  ]
+}

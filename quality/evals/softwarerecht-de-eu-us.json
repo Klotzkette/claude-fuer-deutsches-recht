@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "softwarerecht-de-eu-us",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__69b.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gesetzliche Zuordnung wirtschaftlicher Befugnisse an Arbeitnehmerprogrammen im Rahmen von Aufgaben oder Weisungen; keine pauschale Gleichsetzung mit freien Auftragnehmern."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__327.html",
+      "checked_on": "2026-09-14",
+      "supports": "Verbraucherverträge über digitale Produkte als persönlicher Anwendungsbereich; nicht automatisch auf rein unternehmerische Entwicklungsverträge übertragbar."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Vertragsrolle, Liefermodell und Rechtekette müssen vor Rechtsraumetiketten und pauschalen Lizenzannahmen stehen.",
+    "changes": [
+      "B2B und Verbrauchervertrag getrennt.",
+      "Arbeitnehmerprogramme von freier Entwicklung abgegrenzt.",
+      "Vertragsumfang, Rechtekette und Drittkomponenten als konkrete Prüfobjekte aufgenommen."
+    ],
+    "sha256": "22ba6830772be959239635a809db7d59879bcb99d1411df55140f28b6a79681f"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie die Rechtekette einer von freien Entwicklern erstellten B2B-Software vor dem Verkauf.",
+      "Ordnen Sie einen SaaS-Vertrag nach Vertragsparteien, Leistung und vereinbartem Rechtsraum ein."
+    ],
+    "negative": [
+      "Bewerten Sie ausschließlich die arbeitsrechtliche Wirksamkeit einer Entwicklerkündigung.",
+      "Erstellen Sie ohne Softwarebezug einen allgemeinen internationalen Warenkaufvertrag."
+    ]
+  },
+  "cases": [
+    {
+      "id": "freelancer-code-kein-automatischer-rechteuebergang",
+      "request": "Eine deutsche GmbH will eine von einer selbstständigen Entwicklerin für 18.000 Euro erstellte Lagerverwaltungssoftware an Kunden lizenzieren. Beide Seiten handeln unternehmerisch. Der schriftliche Auftrag lautet nur Entwicklung eines internen Lagerprogramms für die GmbH; er enthält keine ausdrückliche Regelung zu Weitervertrieb, Bearbeitung oder Unterlizenzierung. Die Rechnung ist bezahlt, der Quellcode übergeben. Ein Arbeitsverhältnis bestand nie. Die Geschäftsführung meint, Bezahlung und Paragraf 69b UrhG gäben ihr automatisch sämtliche Rechte. Drittkomponenten sind noch nicht inventarisiert. Erstellen Sie ergebnis.md mit belastbarer vorläufiger Einordnung und den nächsten Vertrags- und Rechteprüfungen, ohne eine Freigabe zum Vertrieb zu erteilen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Ausgabe lehnt den automatischen Vollrechteerwerb allein aus Paragraf 69b oder Bezahlung ab, prüft aber den vereinbarten Vertragszweck statt ebenso pauschal jegliche Nutzungsrechte zu verneinen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die rein unternehmerische Konstellation wird nicht ohne Weiteres dem Verbraucherregime der Paragrafen 327 ff. BGB unterstellt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Interne Nutzung und geplanter Weitervertrieb werden unterschieden; Klärung von Bearbeitung, Unterlizenzierung und Drittkomponenten wird vor einer Vertriebsfreigabe konkret verlangt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "kaltstart-triage"
+    }
+  ]
+}

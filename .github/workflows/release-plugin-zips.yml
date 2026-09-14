@@ -48,10 +48,17 @@ jobs:
       - name: Laufzeitbudgets der Plugins validieren
         run: python3 scripts/validate-runtime-performance.py
 
-      - name: Testakten-Rubriken vollständig auswerten
+      - name: Qualitätslabor offline prüfen (keine Modellläufe)
+        run: |
+          python3 scripts/test-quality-lab.py
+          python3 scripts/test-schwerpunkt-coverage.py
+          python3 scripts/quality-lab.py audit --catalog QUALITY.md
+          python3 scripts/generate-schwerpunkte.py
+
+      - name: Technischen Testaktenbestand prüfen (keine Modellbewertung)
         run: |
           python3 scripts/test-run-eval.py
-          python3 scripts/run-eval.py --quiet
+          python3 scripts/run-eval.py --quiet --structural-only
 
       - name: Release- und PDF-Helfer testen
         run: |
@@ -186,7 +193,7 @@ jobs:
             echo "Baue $plugin.zip"
             (cd "$source" && zip -rq "${GITHUB_WORKSPACE}/dist/${plugin}.zip" . \
               -x '*.DS_Store' '*__pycache__*' '*.pyc' 'CLAUDE.md' \
-                 '*-werkstatt.md' '*-schnellstart.md')
+                 '*-werkstatt.md' '*-schnellstart.md' '*-hauptproblem.md')
             ls -la "dist/${plugin}.zip"
           done < dist/plugin-map.tsv
           # Manifest fuer Marketplace-Komfort
@@ -314,7 +321,8 @@ jobs:
             esac
             cp "$z" "dist/komplettpaket/testakten/$base"
           done
-          cp README.md SKILLS.md ASSET_INDEX.md CHANGELOG.md dist/komplettpaket/uebersichten/
+          cp README.md SKILLS.md ASSET_INDEX.md SCHWERPUNKTE.md QUALITY.md CHANGELOG.md dist/komplettpaket/uebersichten/
+          cp -R quality dist/komplettpaket/uebersichten/quality
           # skills-index/ enthaelt die pro-Plugin-Detailseiten, auf die SKILLS.md
           # mit relativen Links zeigt. Ohne diesen Ordner waeren die Links im
           # ZIP-Download ins Leere gerichtet.

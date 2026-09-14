@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "schriftform-und-textform-bgb",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__623.html",
+      "checked_on": "2026-09-14",
+      "supports": "Schriftform für Kündigung und Auflösungsvertrag; Ausschluss elektronischer Form."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__126a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Anforderungen an elektronische Form und gleichlautende elektronisch signierte Vertragsdokumente."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der allgemeine Anspruchsmini prüfte die entscheidende Formquelle, Signatur und Zugang nicht eigenständig.",
+    "changes": [
+      "Gesetzliche, vereinbarte und interne Form getrennt.",
+      "Scan, qualifizierte Signatur und Zugang differenziert.",
+      "Spezialausschluss der elektronischen Form bei Arbeitsbeendigung aufgenommen."
+    ],
+    "sha256": "82b12c02aa78e7a9d15b2a76d2da551baee2501b1f3856e2405cc581a4bb508e"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie, ob diese elektronisch signierte Kündigung die Form wahrt.",
+      "Vergleichen Sie gesetzliche Schriftform und vereinbarte Textform des Nachtrags."
+    ],
+    "negative": [
+      "Berechnen Sie nur die Abfindung ohne Formfrage.",
+      "Konvertieren Sie Anlagen ausschließlich technisch in PDF."
+    ]
+  },
+  "cases": [
+    {
+      "id": "kuendigung-qes-kein-original",
+      "request": "Erstellen Sie ergebnis.md als Form- und Zugangsvermerk. Arbeitgeber A sendete Arbeitnehmer B am 08.09.2026 eine Kündigung als PDF per E-Mail. Die Datei trägt nach einem tatsächlich vorhandenen technischen Prüfbericht eine gültige qualifizierte elektronische Signatur des allein vertretungsberechtigten Geschäftsführers. B bestätigt den Empfang der vollständigen Datei am selben Tag. Ein Papieroriginal wurde weder erstellt noch übergeben. A fragt, ob damit die Beendigungserklärung formgerecht zugegangen ist. Kündigungsgründe und Fristlänge sind nicht Gegenstand des Auftrags.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt den Ausschluss elektronischer Form nach Paragraf 623 trotz technisch gültiger qualifizierter Signatur.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt bestätigten Dateizugang vom fehlenden gesetzlichen Formerfordernis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Verspricht keine rückwirkende Heilung durch späteren Ausdruck und begrenzt eine mögliche Neuerklärung auf eine gesonderte Form- und Fristprüfung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "formwahl-zugang-live-prozessablauf"
+    }
+  ]
+}

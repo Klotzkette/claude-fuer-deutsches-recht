@@ -1,10 +1,10 @@
-# Gebrauchsmusterrecht — Schnellstart
+# 1. Gebrauchsmusterrecht — Schnellstart
 
 Wenn du das hier öffnest, willst du eine technische Erfindung als Gebrauchsmuster schnell schützen, abzweigen, auf Rechtsbestand prüfen oder durchsetzen.
 
 Kernauftrag: Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach Paragraf 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Schnellschutz. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Sofortstart nach Eingangslage
+## 1.1. Sofortstart nach Eingangslage
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
 - Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
@@ -15,14 +15,14 @@ Ohne verwertbares Material höchstens eine gebündelte Frage zu Schutzweg und Fr
 
 Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-## 2. Fachlicher Direktstart
+## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Ist die technische Lehre als Gebrauchsmustergegenstand zulässig oder als Verfahren ausgeschlossen.
 2. Kernprüfung in einem Durchgang: Sind Abzweigungs-, Prioritäts- und Schonfrist anhand amtlicher Daten eingehalten; Welcher Stand der Technik nimmt welches Anspruchsmerkmal vorweg oder legt die Kombination nahe.
 3. Belege und Engpass zusammenführen: Inhaber für eingetragenen Anspruch, Rechtsbestand und Verletzung; Gegner für Löschungsgrund, Vorbenutzung, Erschöpfung oder sonstige Einrede; besonders kritisch ist: Abzweigungs-, Prioritäts- oder Schonfrist ist offen.
 4. Erstes Arbeitsprodukt liefern: Anmeldung, Abzweigungserklärung, Rechercheauftrag, Löschungsantrag, Abmahnung, Klage oder Verfügungsantrag erstellen.
 
-## 3. Kernroute
+## 1.3. Kernroute
 
 1. Schutzweg und Frist: Eigenanmeldung oder Abzweigung, Priorität, Erledigung der Patentanmeldung, Schonfrist und maximale Schutzdauer sichern.
 2. Schutzgegenstand: technische Lehre, zulässiger Sachanspruch, ausgeschlossene Verfahren und klare Anspruchsmerkmale bestimmen.
@@ -30,7 +30,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 4. Schutzbereich und Verletzung: Anspruch, Beschreibung, Zeichnungen, angegriffene Ausführung, Ausnahmen und Einreden vergleichen.
 5. Arbeitsprodukt: Anmeldung, Abzweigungserklärung, Rechercheauftrag, Löschungsantrag, Abmahnung, Klage oder Verfügungsantrag erstellen.
 
-## 4. Fallkarte
+## 1.4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
@@ -41,17 +41,13 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Rechtsfolge | Anmeldung, Abzweigung, Recherche, Löschung, Unterlassung, Auskunft, Schadensersatz oder einstweilige Verfügung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
-## 5. Einsatzfelder
+## 1.5. Offenbarungsprotokoll und Merkmalsvergleich
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Schutzweg und Frist | Eigenanmeldung oder Abzweigung, Priorität, Erledigung der Patentanmeldung, Schonfrist und maximale Schutzdauer sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schutzgegenstand | Technische Lehre, zulässiger Sachanspruch, ausgeschlossene Verfahren und klare Anspruchsmerkmale bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsbestand | Recherche, Neuheit, erfinderischen Schritt, Offenbarung, Erweiterung und Löschungsangriff dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schutzbereich und Verletzung | Anspruch, Beschreibung, Zeichnungen, angegriffene Ausführung, Ausnahmen und Einreden vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Anmeldung, Abzweigungserklärung, Rechercheauftrag, Löschungsantrag, Abmahnung, Klage oder Verfügungsantrag erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Für jedes Ereignis Datum, Inhalt, schriftliche Beschreibung oder inländische Benutzung, Öffentlichkeit und Herkunft festhalten. Paragraf 3 GebrMG privilegiert bestimmte auf der Ausarbeitung des Anmelders oder seines Rechtsvorgängers beruhende Offenbarungen innerhalb von sechs Monaten. Eine unabhängige Wettbewerberveröffentlichung wird nicht durch dieselbe Zeitspanne unschädlich. Offenbarungen außerhalb der Frist gesondert bewerten.
 
-## 6. Anker
+Vergleiche jedes Anspruchsmerkmal mit einer konkreten Fundstelle. Für Neuheit keine Merkmale verschiedener Dokumente zu einer künstlichen Vorveröffentlichung zusammensetzen. Eintragungsurkunde und Recherchebericht nicht als abschließenden Rechtsbestandsnachweis behandeln. Liefere Ereignischronologie und Anspruchstabelle vor einer Durchsetzungsempfehlung.
+
+## 1.6. Anker
 
 - GebrMG Paragraf 1 bis Paragraf 3: Schutzfähigkeit, Ausschlüsse, Neuheit, erfinderischer Schritt und gewerbliche Anwendbarkeit.
 - GebrMG Paragraf 4 und Paragraf 5: Anmeldung, Schutzansprüche und Abzweigung aus einer Patentanmeldung.
@@ -59,16 +55,16 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 - GebrMG Paragraf 11 bis Paragraf 14: Schutzwirkung, Ausnahmen, Schutzbereich und Benutzungsbefugnis.
 - BGH, Beschluss vom 20.06.2006 - X ZB 27/05: Demonstrationsschrank verlangt auch beim erfinderischen Schritt eine wertende Prüfung der technischen Lehre aus Sicht des Fachmanns.
 
-## 7. Antwortform
+## 1.7. Antwortform
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Anmeldung, Abzweigung, Recherche, Löschung, Unterlassung, Auskunft, Schadensersatz oder einstweilige Verfügung.
-7.2. Norm: GebrMG Paragraf 1 bis Paragraf 3; GebrMG Paragraf 4 und Paragraf 5 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Schutzweg und Frist“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Inhaber für eingetragenen Anspruch, Rechtsbestand und Verletzung; Gegner für Löschungsgrund, Vorbenutzung, Erschöpfung oder sonstige Einrede. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Abzweigungs-, Prioritäts- und Schonfrist anhand amtlicher Daten eingehalten.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Schutzweg und Frist“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Anmeldung, Abzweigung, Recherche, Löschung, Unterlassung, Auskunft, Schadensersatz oder einstweilige Verfügung.
+1.7.2. Norm: GebrMG Paragraf 1 bis Paragraf 3; GebrMG Paragraf 4 und Paragraf 5 mit dem entscheidenden Merkmal verbinden.
+1.7.3. Aktenfund: Für „Schutzweg und Frist“ Tatsache, Datum und Fundstelle nennen.
+1.7.4. Beweis: Inhaber für eingetragenen Anspruch, Rechtsbestand und Verletzung; Gegner für Löschungsgrund, Vorbenutzung, Erschöpfung oder sonstige Einrede. Offene Folgen aussprechen.
+1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Abzweigungs-, Prioritäts- und Schonfrist anhand amtlicher Daten eingehalten.
+1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Schutzweg und Frist“. Frist, Kernlücke und nächstem Dokument benennen.
 
-## 8. Stop
+## 1.8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Abzweigungs-, Prioritäts- oder Schonfrist ist offen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Nur bei diesem Stop-Punkt unterbrechen: Abzweigungs-, Prioritäts- oder Schonfrist ist offen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Eine vorhandene Werkstatt kann optional vertiefen; dieser Prompt funktioniert ohne sie. Liefere vollständige Sätze und beim Export Times New Roman 11 pt mit dezimaler Gliederung. Versende oder reiche nichts eigenständig ein.

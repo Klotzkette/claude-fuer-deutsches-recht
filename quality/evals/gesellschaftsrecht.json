@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "gesellschaftsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__47.html",
+      "checked_on": "2026-09-14",
+      "supports": "Mehrheit abgegebener Stimmen und Stimmverbot bei eigener Entlastung, auch als Vertreter anderer."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Beschlussroute aus Werkstatt und Skill war erkennbar, aber die Stimmenzählung blieb abstrakt und wurde durch einen überlangen Normenkatalog verdrängt.",
+    "changes": [
+      "Eigene Entlastung und Stimmverbot konkretisiert.",
+      "Kapital, abgegebene Stimmen und Enthaltungen getrennt.",
+      "Unübersichtlichen Spezialnormenblock gekürzt."
+    ],
+    "sha256": "f429a47ca38f07d2349c632c53c6f6e083dc3131f8fd3ffa7acad080b9aa267d"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe das Abstimmungsergebnis über die Entlastung unseres Gesellschafter-Geschäftsführers.",
+      "Erstelle aus Satzung und Protokoll eine Beschluss- und Stimmenmatrix."
+    ],
+    "negative": [
+      "Prüfe nur den Arbeitsvertrag einer externen Angestellten.",
+      "Übersetze eine englische Kaufpreisklausel ohne gesellschaftsrechtliche Beschlussfrage."
+    ]
+  },
+  "cases": [
+    {
+      "id": "eigene-entlastung-mehrheitsgesellschafter",
+      "request": "Erstelle ergebnis.md als interne Protokollprüfung. Die GmbH hat drei Gesellschafter: A mit 60 Prozent, B mit 25 Prozent und C mit 15 Prozent der Stimmen. Alle sind ordnungsgemäß anwesend. Es wird allein über die persönliche Entlastung des Geschäftsführers A für 2025 abgestimmt. A stimmt dafür, B und C dagegen. Die Satzung enthält keine besonderen Mehrheitsregeln; weitere Verfahrensfragen sind nicht streitig. Der Protokollentwurf bezeichnet die Entlastung mit 60 zu 40 als angenommen. Prüfe diese Zählung und schlage eine korrigierte Protokollpassage vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "A wird für die eigene Entlastung als nicht stimmberechtigt behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Stimmen von B und C führen nicht zur Annahme der Entlastung; die bloße Kapitalmehrheit des A wird nicht als entscheidend gezählt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die korrigierte Passage trennt die tatsächlich abgegebenen Erklärungen vom rechtlich maßgeblichen Abstimmungsergebnis und behauptet keinen neuen realen Beschluss.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "gesellschafterbeschluss"
+    }
+  ]
+}

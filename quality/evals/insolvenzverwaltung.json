@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "insolvenzverwaltung",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__22.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Suchauszug Absätze 1 und 2: Befugnisübergang bei allgemeinem Verfügungsverbot versus gerichtlich bestimmte Pflichten ohne solches Verbot; Direktabruf scheiterte."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Mini führte zur Insolvenzreife und enthielt unvollständige oder pauschale Terminanker statt Beschlussauswertung.",
+    "changes": [
+      "Vorläufige Verwaltung, Regelverwaltung und Sachwaltung getrennt.",
+      "Befugnisse am Beschlusstenor festgemacht.",
+      "Massebestand, Zahlungsrang und dokumentierte Freigabe eingeführt."
+    ],
+    "sha256": "fc1480221e34187b64ce5909d8cdc3cb7f780813c161a910a6c89d4ce45ca425"
+  },
+  "selection": {
+    "positive": [
+      "Erstelle einen ersten Maßnahmenplan aus dem vorläufigen Bestellungsbeschluss.",
+      "Gleiche Massebestand und geplante Zahlungsläufe ab."
+    ],
+    "negative": [
+      "Melde als Gläubiger ausschließlich eine einzelne Rechnung an.",
+      "Berechne den Versorgungsausgleich einer Privatperson."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zustimmungsvorbehalt-bankbrief",
+      "request": "Ein Insolvenzgericht hat einen vorläufigen Verwalter bestellt. Der vollständige hier maßgebliche Tenor lautet: Verfügungen der Schuldnerin bedürfen der Zustimmung des vorläufigen Verwalters. Es gibt kein allgemeines Verfügungsverbot, keine besondere Einziehungsbefugnis und keine zusätzliche Einzelermächtigung. Die Geschäftsleitung bittet um ein Bankschreiben, das behaupten soll, nur noch der vorläufige Verwalter könne allein über alle Konten verfügen. Auf einem Konto liegen 80.000 Euro, davon betreffen 15.000 Euro eine bestrittene Fremdgeldzuordnung. Erstelle ergebnis.md mit Befugnismatrix, korrigiertem Schreibenentwurf und Klärungsbedarf zum Geldbestand; sende nichts.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Leitet aus dem Zustimmungsvorbehalt keine alleinige Verwaltungs- und Verfügungsbefugnis des vorläufigen Verwalters ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Formuliert den Bankschreibenentwurf entsprechend dem tatsächlichen Zustimmungserfordernis statt der gewünschten falschen Alleinbefugnis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Kennzeichnet 15.000 Euro als zuordnungsbedürftig und gibt nicht den gesamten Kontostand als sicher frei verfügbare Masse aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "vorlaeufige-verwaltung"
+    }
+  ]
+}

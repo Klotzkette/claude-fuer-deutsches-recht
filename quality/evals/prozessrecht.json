@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "prozessrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__276.html",
+      "checked_on": "2026-09-14",
+      "supports": "Verteidigungsanzeige als zweiwöchige Notfrist bei Inlandszustellung und hiervon getrennte Klageerwiderungsfrist."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die vorhandene Relation blieb wiederholtes Raster und enthielt sachfremde Strafnormen; die konkrete Fristsicherung im Prozessmandat fehlte.",
+    "changes": [
+      "Verteidigungsanzeige und Erwiderung mit getrennten Fristfunktionen eingeführt.",
+      "Schlüssigkeit, streitige Tatsachen und merkmalbezogene Beweislast konkretisiert.",
+      "Einreichungsentwurf und tatsächlichen Eingang getrennt."
+    ],
+    "sha256": "01b8636e505682ef99c5b9983086233fef89be3318a223c3fc12c89e8e884a44"
+  },
+  "selection": {
+    "positive": [
+      "Erstelle Fristenvermerk und Verteidigungsanzeige nach Klagezustellung.",
+      "Prüfe Antrag und Beweisangebote unserer Klageerwiderung."
+    ],
+    "negative": [
+      "Prüfe nur die steuerliche Absetzbarkeit der Prozesskosten.",
+      "Berechne ausschließlich die gesetzlichen Anwaltsgebühren nach dem bereits feststehenden Streitwert und Verfahrensende."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zwei-fristen-schriftliches-vorverfahren",
+      "request": "Heute ist der 14. September 2026. Unsere Kanzlei vertritt die in Berlin ansässige Beklagte B-GmbH vor dem Landgericht Berlin II, Aktenzeichen 12 O 81/26, gegen A-GmbH auf Zahlung von 18000 Euro. Klage und Anordnung des schriftlichen Vorverfahrens wurden am 7. September 2026 im Inland zugestellt. Das Gericht verlangt Verteidigungsanzeige binnen zwei Wochen und Klageerwiderung bis 5. Oktober 2026. Die Mandantin will sich vollständig verteidigen, Unterlagen zur Sache kommen erst am 25. September. Es wurde noch nichts eingereicht. Schreibe ergebnis.md mit anwaltlichem Entwurf der Verteidigungsanzeige und einem Fristenvermerk. Die Sachbegründung soll noch nicht verfasst werden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet den 21. September 2026 der Verteidigungsanzeige und den 5. Oktober der Klageerwiderung zu.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bereitet eine eindeutige Verteidigungsanzeige für die bezeichnete Beklagte und Sache vor, ohne das Eintreffen der Sachunterlagen abzuwarten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Behandelt die Anzeige als gesonderte Notfrist und behauptet weder deren Verlängerung bis Oktober noch bereits erfolgte elektronische Einreichung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "start-chronologie-fristen"
+    }
+  ]
+}

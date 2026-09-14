@@ -1,77 +1,29 @@
-# Berufsrecht Wirtschaftsprüfer — Schnellstart
+# 1 Prüfungsmandat und Berufspflicht bewerten
 
-Wenn du das hier öffnest, willst du eine berufsrechtliche Frage der Anwaltschaft, des Notariats oder der prüfenden Berufe nach Pflicht, Aufsicht, Sanktion und sicherem Arbeitsprodukt ordnen.
+Arbeite aus dem konkreten Auftrag und vorhandenen Auftragsvereinbarungen, Unabhängigkeitserklärungen, Arbeitspapieren oder Aufsichtsschreiben. Liefere das gewünschte Annahmevotum, den Qualitätsvermerk oder die Antwort. Kläre zuerst, ob gesetzliche Abschlussprüfung, freiwillige Prüfung, prüferische Durchsicht, Beratung oder Bescheinigung beauftragt ist. Diese Leistungen rechtfertigen nicht dieselben Aussagen und Prüfungsumfänge.
 
-Kernauftrag: Plugin für Wirtschaftsprüferrecht: WPO, Berufssatzung, WPK, APAS, Unabhängigkeit, Qualitätskontrolle, Abschlussprüfung, Bestätigungsvermerk, PIE, Berufsaufsicht und berufsgerichtliche Risiken. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Unabhängigkeit vor organisatorischer Freigabe
 
-## 1. Sofortstart nach Eingangslage
+Bestimme Prüfungsunternehmen, Geschäftsjahr, beteiligte Personen und gegebenenfalls Unternehmensgruppe. Erfasse eigene oder verbundene Leistungen, finanzielle Interessen und maßgebliche Beziehungen. Eine unterzeichnete Unabhängigkeitserklärung ersetzt nicht die Prüfung der dahinterliegenden Tatsachen. Bei gesetzlicher Abschlussprüfung untersuche die Ausschlussgründe nach [Paragraf 319 HGB](https://www.gesetze-im-internet.de/hgb/__319.html) für den einschlägigen Zeitraum und die betroffene Person oder Gesellschaft.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Berufsträger und Pflichtenkreis, Pflichtenprüfung, Aufsichts- und Verfahrenslage wählen; ohne konkreten Auftrag mit Berufsträger und Pflichtenkreis beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Eine Mitwirkung an Buchführung oder Aufstellung des zu prüfenden Jahresabschlusses ist gesondert zu untersuchen, einschließlich der gesetzlichen Bedeutung einer nur untergeordneten Tätigkeit. Beschreibe, wer tatsächlich Buchungen, Bewertungen oder Abschlussentscheidungen vorgenommen hat. Die Prüfung eigener wesentlicher Vorarbeiten lässt sich nicht allein mit Zustimmung der Geschäftsführung rechtfertigen. Trenne gesetzlichen Ausschluss von Gefährdungen, für die überhaupt Schutzmaßnahmen in Betracht kommen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Berufsträger und Pflichtenkreis, Pflichtenprüfung, Aufsichts- und Verfahrenslage und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Bei einer Wirtschaftsprüfungsgesellschaft prüfe auch die gesetzlich einbezogenen Personen und Unternehmen. Ein Wechsel der Teambezeichnung beseitigt nicht automatisch eine gesellschaftsbezogene Vorleistung. Für Unternehmen von öffentlichem Interesse sind die zusätzlichen unionsrechtlichen Vorgaben anhand der tatsächlichen Einordnung aktuell zu prüfen; behaupte nicht, alle Mandanten unterlägen denselben Rotations- oder Nichtprüfungsleistungsregeln.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 1.2 Prüfungsnachweis statt Ergebnisbehauptung
 
-## 2. Fachlicher Direktstart
+Ordne Feststellung, Prüfungshandlung, verwendeten Nachweis, Schlussfolgerung und Review zu. Eine Checkliste ohne zugrunde liegenden Nachweis belegt keine abgeschlossene Prüfung. Bei fehlenden Arbeitspapieren unterscheide nicht ausgeführte Handlung, fehlende Dokumentation und erst nachträglich erhaltene Information. Keine rückdatierten Prüfungen oder Freigaben konstruieren.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Berufsgesetz und welche Satzungsnorm tragen den Vorwurf oder die Gestaltung.
-2. Kernprüfung in einem Durchgang: Ist die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor; Welche Kollisionsprüfung ist dokumentiert und wer hat wann geprüft.
-3. Belege und Engpass zusammenführen: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren; besonders kritisch ist: Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchung steht im Raum.
-4. Erstes Arbeitsprodukt liefern: Kammer-Stellungnahme: Sachverhalt, betroffene Pflicht, Rechtslage, Entlastung, Ergebnis, Anlagen.
+Arbeite bei einem festgestellten Fehler die betroffene Abschlussposition, mögliche Größenordnung, qualitative Bedeutung und noch erforderliche Handlung heraus. Ein Hinweis auf Unwesentlichkeit benötigt eine Begründung. Trenne Prüfungshemmnis und festgestellten Fehler, statt beides pauschal als Testatsproblem zu etikettieren. Ein Bestätigungsvermerk darf erst aus dem tatsächlich bearbeiteten Prüfungsauftrag und gesicherten Nachweisstand abgeleitet werden.
 
-## 3. Kernroute
+## 1.3 Aufsicht und Mandantenkommunikation
 
-1. Berufsträger und Pflichtenkreis: Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen.
-2. Pflichtenprüfung: Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten.
-3. Aufsichts- und Verfahrenslage: Kammerverfahren, Rüge, Missbilligung, berufsgerichtliches Verfahren und Parallelität zum Strafverfahren ordnen.
-4. Risikoabschätzung: Sanktionsrahmen, Registerfolgen, Versicherungsfragen und Mandatsauswirkungen bewerten.
-5. Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
+Bei Aufsichtspost erfasse Absender, Zuständigkeit, Vorwurf, Zeitraum, angeforderte Akten und Frist. Wirtschaftsprüferkammer und Abschlussprüferaufsicht sind nicht ohne Prüfung austauschbar. Trenne Berufsaufsicht, Qualitätskontrolle, Inspektion und Haftungsanspruch. Leite aus einem Dokumentationsmangel keine bereits feststehende Sanktion ab.
 
-## 4. Fallkarte
+Formuliere die konkret verlangte Antwort mit belegbaren Tatsachen und offenem Prüfstand. Mandatsgeheimnisse, Offenlegungsbefugnis und etwaige Selbstbelastungsrisiken gesondert prüfen. Bei einem Unabhängigkeitshindernis benenne unverzüglich die betroffene Handlung und die realistische Alternative, etwa anderweitige Prüferbestellung; verspreche keine Heilung durch bloßen internen Review.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46; BORA und FAO |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen |
-| Beweislast | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| Rechtsfolge | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.4 Arbeitsprodukt und Quellen
 
-## 5. Einsatzfelder
+Das Ergebnis enthält eine begründete Entscheidung, die tragende Tatsachenbasis und den nächsten verantwortlichen Schritt. Bei Annahmefragen endet es mit einem konkreten Votum, nicht mit allgemeinen Berufspflichten. Bei unsicheren Tatsachen arbeite den gesicherten Teil weiter und frage nur nach der entscheidenden Beziehung oder Vorleistung.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Berufsträger und Pflichtenkreis | Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichtenprüfung | Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufsichts- und Verfahrenslage | Kammerverfahren, Rüge, Missbilligung, berufsgerichtliches Verfahren und Parallelität zum Strafverfahren ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikoabschätzung | Sanktionsrahmen, Registerfolgen, Versicherungsfragen und Mandatsauswirkungen bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BRAO Paragraf 43a und Paragraf 43e: Grundpflichten, Verschwiegenheit und Inanspruchnahme von Dienstleistern.
-- BRAO Paragraf 45 und Paragraf 46: Tätigkeitsverbote und Syndikusrechtsanwälte.
-- BORA und FAO: Berufsordnung und Fachanwaltschaften als Satzungsrecht der Kammern.
-- BNotO Paragraf 14 und Paragraf 17: Amtspflichten und Gebührenbindung des Notars.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
-7.2. Norm: BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Berufsträger und Pflichtenkreis“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Kammer-Stellungnahme“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchung steht im Raum. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Verifiziere weitere WPO-, HGB- und EU-Anker in amtlichen Quellen. Prüfungsstandards nur mit tatsächlich zugänglicher Fassung verwenden; keine Fundstellen aus Erinnerung. Weitere Spezialskills oder Referenzen sind optional und für diese Kernarbeit nicht erforderlich. Keine Aufsichtsantwort versenden oder Prüfung als durchgeführt darstellen ohne entsprechenden Auftrag und Nachweis. Vollständige Sätze, dezimale Gliederung und Times New Roman 11 pt beim Export.

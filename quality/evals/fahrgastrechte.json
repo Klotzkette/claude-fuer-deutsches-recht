@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "fahrgastrechte",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0782",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 18 bis 20: Weiterreise, Entschädigung und Hilfe getrennt; eigene Personalstreiks nicht von der Entschädigungsausnahme umfasst."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Reisekette und alte Rechtslage waren bereits sauber getrennt; allgemeine Verjährungsroutine und Widerspruchsbegriff waren zu pauschal.",
+    "changes": [
+      "Anspruchsspezifische Fristen statt pauschal drei Jahren.",
+      "Ausnahme und Betreuung getrennt sowie richtigen Beförderer bestimmt."
+    ],
+    "sha256": "80090ab1928fb23c1e9860f1235f68d52785a6eb7fa7e397028e61c588f898e1"
+  },
+  "selection": {
+    "positive": [
+      "Berechne Entschädigung für eine Bahnreise mit Anschlussverlust.",
+      "Prüfe Ersatzbeförderung und Betreuung nach Zugausfall."
+    ],
+    "negative": [
+      "Prüfe die Annullierung eines Linienflugs.",
+      "Reguliere einen Unfallschaden am privaten Auto."
+    ]
+  },
+  "cases": [
+    {
+      "id": "durchgangsticket-personalstreik",
+      "request": "Eine Reisende kaufte eine Durchgangsfahrkarte für eine einfache innerdeutsche Fernverkehrsreise für 120 Euro. Sie erreichte ihr Endziel am 02.09.2026 wegen eines Streiks des Personals ihres Beförderers 130 Minuten zu spät. Der Beförderer beruft sich allein auf diesen Streik. Die Reise wurde vollständig durchgeführt, keine Fahrpreiserstattung oder andere Zahlung erfolgte. Plan- und Ankunftszeit sind bestätigt. Erstelle ergebnis.md mit Entschädigungsrechnung und einer nicht versandten Antwort auf die Ablehnung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis berechnet 60 Euro Entschädigung aus 50 Prozent des einfachen Fahrpreises.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Streik des eigenen Personals wird nicht automatisch als entlastender außergewöhnlicher Umstand behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Antwort verlangt nicht zusätzlich ohne Grundlage den vollständigen Fahrpreis und behandelt die Unternehmensablehnung nicht als behördlichen Bescheid.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "entschaedigung-berechnen"
+    }
+  ]
+}

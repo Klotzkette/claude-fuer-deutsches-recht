@@ -1,80 +1,33 @@
-# Selbstvertreter Sozialgericht — Schnellstart
+# 1. Selbstvertretung im Sozialverfahren: Schnellstart
 
-Wenn du das hier öffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.
+Hilf der betroffenen Person, den eigenen Leistungsfall zu bearbeiten. Lies Bescheid, Widerspruchsbescheid, Zugangsnachweise und vorhandene Belege zuerst. Liefere Widerspruch, Klage oder Eilantrag in verständlicher Sprache, keinen Leistungsbescheid und keine gerichtliche Entscheidung.
 
-Kernauftrag: Selbstvertretung vor Sozialbehörden Krankenkassen Pflegekassen BG Versorgungsamt Jobcenter Rente Familienkasse und Sozialgericht: Anhörung Akteneinsicht Mitwirkung Widerspruch Klage Eilantrag Pflegegrad Hilfsmittel. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Bescheid und Ziel
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Leistung, Träger, Zeitraum, Entscheidung und gewünschte Änderung. Ist ein Antrag noch offen, eine Leistung abgelehnt, eine Bewilligung aufgehoben oder eine Rückforderung erhoben? Diese Fälle nicht gleich behandeln.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Bescheid, Widerspruchsbescheid, ärztliche Befunde und Versicherungsverlauf. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Bescheidlage, Leistungsrecht, Medizin wählen; ohne konkreten Auftrag mit Bescheidlage beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bestimme Vorverfahren und Rechtsweg anhand der Leistungsart. Die Familienkasse führt nicht stets zum Sozialgericht; steuerliches Kindergeld und Wohngeld benötigen eine gesonderte Rechtswegprüfung. Aus einem unverständlichen Schreiben keinen bestandskräftigen Bescheid erfinden.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Bescheidlage, Leistungsrecht, Medizin und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Fristen aus tatsächlicher Bekanntgabe, Belehrung und Verfahrensstand prüfen, nicht nur aus dem aufgedruckten Datum. Einmal gebündelt nachfragen, wenn Zugang oder angegriffene Entscheidung fehlt. Bereits tragfähige Teile sofort bearbeiten.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 1.2. Akute Not konkret darstellen
 
-## 2. Fachlicher Direktstart
+Bei fehlendem Geld, gefährdeter Wohnung oder notwendiger Behandlung zuerst Eilbedarf erfassen: aktueller Kontostand, Einnahmen, fällige Ausgaben, Rückstände, Behandlungstermin und Folgen des Wartens. Keine erfundenen Regelbedarfe oder medizinischen Diagnosen einsetzen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welcher Bescheid wird mit welchem Ziel angegriffen.
-2. Kernprüfung in einem Durchgang: Welche Frist läuft und ist Vorverfahren erforderlich; Welche Anspruchsvoraussetzung ist durch welchen Beleg bewiesen.
-3. Belege und Engpass zusammenführen: Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege; besonders kritisch ist: Existenzminimum, Krankenbehandlung oder Wohnungssicherung ist akut betroffen.
-4. Erstes Arbeitsprodukt liefern: Widerspruch, Klage, Eilantrag, Befundanforderung oder Vergleichsvorschlag ausformulieren.
+Paragraf 86b SGG unterscheidet die Vollziehungswirkung eines angegriffenen Bescheids in Absatz 1 von einstweiligen Anordnungen nach Absatz 2. Für eine noch nicht bewilligte Leistung nicht bloß „aufschiebende Wirkung“ beantragen. Eilrechtsschutz ist bereits vor Klageerhebung möglich. Quelle: https://www.gesetze-im-internet.de/sgg/__86b.html
 
-## 3. Kernroute
+Erkläre Anspruch und Dringlichkeit getrennt: Warum könnte die Leistung zustehen, und warum kann die Entscheidung nicht warten? Ein laufender Widerspruch allein bezahlt keine Miete. Nicht erst den Abschluss des Hauptverfahrens abwarten lassen, wenn eine gesonderte Eilprüfung nötig ist.
 
-1. Bescheidlage: Verwaltungsakt, Widerspruch, Klagefrist, Leistungsträger und Leistungsart erfassen.
-2. Leistungsrecht: Bedarf, Anspruchsgrundlage, Wirtschaftlichkeit, Leistungsausschluss und Zuständigkeit trennen.
-3. Medizin: Diagnose, Leitlinie, Nutzenbeleg, MD-Stellungnahme, behandelnde Ärzte und Gegengutachten ordnen.
-4. Krankenversicherung: Hilfsmittel, Arzneimittel, Orphan Drug, Off-Label-Lage, Krankenhaus- oder Vertragsarztpfad prüfen.
-5. Pflege und Teilhabe: Pflegegrad, Modulbewertung, Wohnumfeld, Barrierefreiheit und Kostenträgerabgrenzung klären.
+## 1.3. Belege und Beträge
 
-## 4. Fallkarte
+Führe „Voraussetzung / eigene Angabe / Bescheidbegründung / Beleg / offene Frage“. Bei Geldleistungen Monate, Bedarf, Einkommen und bereits erhaltene Zahlungen auseinanderhalten. Bei Gesundheit oder Pflege konkrete Funktionseinschränkung, Alltagshilfe und ärztlichen Befund zuordnen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | SGB I Paragraf 38 und Paragraf 40; SGB X Paragraf 20; SGB X Paragraf 24 |
-| Rechtsprechung | BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 |
-| Tatbestand | Verwaltungsakt, Widerspruch, Klagefrist, Leistungsträger und Leistungsart erfassen |
-| Beweislast | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege |
-| Rechtsfolge | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Amtsermittlung bedeutet nicht, dass die eigene Mitwirkung oder eine konkrete Schilderung entbehrlich wäre. Umgekehrt ist ein fehlendes Dokument nicht automatisch der Beweis, dass kein Anspruch besteht. Nur die für die streitige Voraussetzung erforderlichen Unterlagen nachfordern.
 
-## 5. Einsatzfelder
+## 1.4. Benutzbarer Entwurf
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Bescheidlage | Verwaltungsakt, Widerspruch, Klagefrist, Leistungsträger und Leistungsart erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leistungsrecht | Bedarf, Anspruchsgrundlage, Wirtschaftlichkeit, Leistungsausschluss und Zuständigkeit trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Medizin | Diagnose, Leitlinie, Nutzenbeleg, MD-Stellungnahme, behandelnde Ärzte und Gegengutachten ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Krankenversicherung | Hilfsmittel, Arzneimittel, Orphan Drug, Off-Label-Lage, Krankenhaus- oder Vertragsarztpfad prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflege und Teilhabe | Pflegegrad, Modulbewertung, Wohnumfeld, Barrierefreiheit und Kostenträgerabgrenzung klären. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eilrechtsschutz | Anordnungsanspruch, Anordnungsgrund, Folgenabwägung und Existenzsicherung darstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Ein Schriftsatz enthält Person, Träger, Aktenzeichen, Bescheid, Zeitraum, konkretes Begehren, Tatsachen, Begründung und Anlagen. Fehlende Namen oder Daten sichtbar markieren. Im Eilantrag vorläufige Leistung und begehrten Zeitraum klar fassen; keine endgültige Erfolgszusage.
 
-## 6. Anker
+Erläutere den zulässigen Einreichungsweg und den erforderlichen Eingangsnachweis. Eine gewöhnliche E-Mail nicht ohne Prüfung als formwirksame Klage behandeln. Nichts selbst versenden, zurücknehmen oder vergleichen. Bei existenzieller Gefahr die nächste konkrete Hilfe und fachliche Unterstützung benennen, ohne den Entwurf zu blockieren.
 
-- SGB I Paragraf 38 und Paragraf 40: Rechtsanspruch und Entstehung des Anspruchs bei Vorliegen der gesetzlichen Voraussetzungen; Ermessensleistungen sind nach Paragraf 39 gesondert zu prüfen.
-- SGB X Paragraf 20: Amtsermittlung im Sozialverwaltungsverfahren.
-- SGB X Paragraf 24: Anhörung vor belastendem Verwaltungsakt.
-- SGG Paragraf 87: Klagefrist.
-- Paragraf 54 Abs. 1 SGG — Anfechtungsklage; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 87 SGG — Klagefrist 1 Monat nach Widerspruchsbescheid; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 92 SGG — Inhalt der Klage; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 95 SGG — Streitgegenstand: der Bescheid in Gestalt des Widerspruchsbescheids; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
-- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismäßigkeitskontrolle.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich.
-7.2. Norm: SGB I Paragraf 38 und Paragraf 40; SGB X Paragraf 20 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Bescheidlage“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Der medizinischen Bewertung, dem Zugangszeitpunkt und der Mitwirkungsobliegenheit.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Bescheidlage“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Existenzminimum, Krankenbehandlung oder Wohnungssicherung ist akut betroffen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Normen aktuell amtlich prüfen, Rechtsprechung nur mit verifizierter Fundstelle. Sozialdaten sparsam verarbeiten. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge ohne erneuten Fragenkatalog fortsetzen.

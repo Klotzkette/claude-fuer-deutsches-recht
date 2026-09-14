@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "plugin": "kriegsdienstverweigerung-wehrdienst",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/wehrpflg/__2.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absätze 2 bis 4 unterscheiden die Anwendung nach Spannungs- oder Verteidigungsfall und teilweise Geburtsjahrgang; keine Gesamtaussetzung des Wehrpflichtgesetzes."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kdvg_2003/__2.html",
+      "checked_on": "2026-09-14",
+      "supports": "Antrag beim Bundesamt für das Personalmanagement der Bundeswehr; Lebenslauf und persönliche ausführliche Darstellung; Stellungnahmen Dritter optional."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kdvg_2003/__5.html",
+      "checked_on": "2026-09-14",
+      "supports": "Vollständigkeit, geeignete Beweggründe und Würdigung der Wahrheit des Gesamtvorbringens als Anerkennungsvoraussetzungen."
+    },
+    {
+      "url": "https://www.bafza.de/rat-und-hilfe/kriegsdienstverweigerung-kdv",
+      "checked_on": "2026-09-14",
+      "supports": "Amtliche Hinweise zur persönlichen Darstellung statt vorgefertigter Begründung sowie zum Behördenweg und besonderen Weiterleitungsregeln für Ungediente."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der alte Schnellstart behandelte Versammlungs-, Beamten- und Migrationsrecht statt der Gewissensdarstellung und des KDV-Verfahrens.",
+    "changes": [
+      "Eigene Beweggründe, Lebenslauf und tatsächlichen Status in den Mittelpunkt gestellt.",
+      "Behutsame Redaktion ohne erfundene Erlebnisse oder Anerkennungsgarantie.",
+      "Antragseingang, Weiterleitung und Entscheidung getrennt; keine Befugnis zum Fernbleiben suggeriert."
+    ],
+    "sha256": "600d060b82a3684a6727d9e81d434458c73ae70455f0114624fb08942b116ef1"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe meine eigene KDV-Begründung auf Widersprüche zum Lebenslauf.",
+      "Ordne Antrag, Eingangsnachweis und behördliche Rückfrage im KDV-Verfahren."
+    ],
+    "negative": [
+      "Erfinde eine überzeugende Gewissensgeschichte für meine Anerkennung.",
+      "Entwirf einen Eilantrag gegen ein Versammlungsverbot ohne Wehrdienstbezug."
+    ]
+  },
+  "cases": [
+    {
+      "id": "aktiver-soldat-kein-direkter-sonderweg",
+      "request": "Kommentiere in ergebnis.md ausschließlich den Verfahrensabsatz meiner eigenen KDV-Unterlagen. Ich bin 27 Jahre alt und Soldat auf Zeit. Meine persönliche Begründung und mein Lebenslauf sind fertig und sollen hier nicht bewertet werden. Ein Antrag wurde noch nicht gestellt. Mein Entwurf lautet: Weil ich aktiver Soldat bin, reiche ich den Antrag unmittelbar beim Bundesamt für Familie und zivilgesellschaftliche Aufgaben ein; das Personalmanagement ist nur für Ungediente zuständig. Außerdem ist das Wehrpflichtgesetz vollständig ausgesetzt und daher insgesamt bedeutungslos. Prüfe diese Aussagen zum Stand 14. September 2026 und benenne die statusbezogenen Zusatzunterlagen im Weiterleitungsverfahren. Versende nichts und beurteile keine konkrete Dienstpflicht oder Entlassung.",
+      "input_files": [],
+      "deliverables": ["ergebnis.md"],
+      "criteria": [
+        {"id": "C01", "text": "Auch für den Soldaten auf Zeit wird Antragstellung beim Personalmanagement von der inhaltlichen Entscheidung durch das Bundesamt für Familie und zivilgesellschaftliche Aufgaben getrennt.", "deliverables": ["ergebnis.md"]},
+        {"id": "C02", "text": "Die Weiterleitung berücksichtigt Stellungnahmen des Disziplinarvorgesetzten und der personalbearbeitenden Stelle, ohne deren Vorliegen zu erfinden.", "deliverables": ["ergebnis.md"]},
+        {"id": "C03", "text": "Die pauschale Gesamtaussetzung des Wehrpflichtgesetzes wird zurückgewiesen, ohne daraus eine konkrete Einberufung, Dienstbefreiung oder Entlassung abzuleiten.", "deliverables": ["ergebnis.md"]}
+      ],
+      "target_skill": "begruendung-redaktion-ohne-schablone"
+    },
+    {
+      "id": "allmaehliche-entwicklung-ohne-erfundenes-erlebnis",
+      "request": "Kommentiere in ergebnis.md meine eigenen Notizen für eine KDV-Begründung, ohne eine fertige fremde Begründung zu schreiben. Ich bin 24, ungedient und habe noch keinen Antrag gestellt. Mein Lebenslauf nennt ein freiwilliges Praktikum bei einer zivilen Rettungsorganisation von März bis Juni 2022. Meine Notiz lautet: Seit diesem Praktikum 2021 denke ich immer häufiger darüber nach, dass ich selbst im Krieg keinen Menschen mit einer Waffe töten könnte. Das hat sich langsam entwickelt; ein einzelnes Schlüsselerlebnis gab es nicht. Gleichzeitig bin ich gegen die aktuelle Regierungspolitik. Ich weiß noch nicht, wie ich meine persönliche Gewissensnot genauer beschreiben kann. Bitte zeige Datumswiderspruch und klärungsbedürftige Aussagen sowie die formalen Unterlagen und den Antragsweg. Erfinde keine religiöse Überzeugung, Verletzungserfahrung oder Zeugenaussage.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Datumsabweichung 2021 gegenüber März bis Juni 2022 wird ausdrücklich zur Klärung gestellt statt stillschweigend zugunsten einer Version geändert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Politisches Motiv und persönlicher Gewissenskonflikt werden getrennt; die allmähliche Entwicklung wird nicht durch ein erfundenes Schlüsselerlebnis oder eine vorgefertigte Gewissensbegründung ersetzt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Ausgabe nennt persönliche Begründung und tabellarischen Lebenslauf sowie Antragstellung beim Personalmanagement und inhaltliche Entscheidung durch das zuständige Bundesamt, ohne bereits erfolgte Einreichung oder sichere Anerkennung zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "begruendung-redaktion-ohne-schablone"
+    }
+  ]
+}

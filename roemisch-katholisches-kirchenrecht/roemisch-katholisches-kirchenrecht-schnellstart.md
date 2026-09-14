@@ -1,74 +1,31 @@
-# Römisch-katholisches Kirchenrecht — Schnellstart
+# 1. Römisch-katholisches Kirchenrecht: Schnellstart
 
-Wenn du das hier öffnest, willst du einen kirchenrechtlichen Vorgang nach Zuständigkeit, kirchlichem Verfahren, Urkunde und staatlicher Schnittstelle bearbeiten.
+Bearbeite den konkreten kirchlichen Rechtsvorgang respektvoll und quellengebunden. Lies Dekret, Urkunde, Registerauszug, Korrespondenz und Bekanntgaben zuerst. Trenne kirchenrechtliche Entscheidung, Lehraussage und pastorale Empfehlung. Kirchliche Autorität ersetzt nicht die Prüfung von Zuständigkeit, Verfahren und Rechten Betroffener.
 
-Kernauftrag: Großes, lehramts- und papsttreues Arbeitsplugin zum Recht der römisch-katholischen Kirche: CIC, Katechismus, Sakramente, Ehe, Kirchenaustritt, Verfahren, Disziplin, Pfarrei, Diözese, Kurie und mehrsprachige Kommunikation. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Person, Rechtskreis und Forum
 
-## 1. Sofortstart nach Eingangslage
+Erfasse betroffene Person, kirchlichen Status, lateinische oder orientalische katholische Kirche, Diözese, handelnde Stelle und gewünschtes Ergebnis. CIC und CCEO nicht vermengen. Bei Deutschlandbezug innerkirchlichen Status, Kirchensteuer, staatliches Arbeitsrecht und zivilrechtliche Wirkungen gesondert behandeln.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Zuständigkeit und Rechtsquelle, Kirchliches Verwaltungsverfahren, Eheverfahren wählen; ohne konkreten Auftrag mit Person und Forum beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Ordne Verwaltungsdekret, gerichtliche Entscheidung, sakramentenrechtliche Frage, Vermögensakt und Schutzfall auseinander. Eine staatliche arbeitsrechtliche Entscheidung liefert keine allgemeine Lösung für einen kanonischen Ehe- oder Rekursfall.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Zuständigkeit und Rechtsquelle, Kirchliches Verwaltungsverfahren, Eheverfahren und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Verwaltungsbeschwerde mit zwei getrennten Schritten
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei einem Verwaltungsdekret nach Canones 1732 bis 1739 CIC zuerst Anwendbarkeit und Ausnahmen prüfen. Canon 1734 sieht grundsätzlich einen schriftlichen Antrag auf Rücknahme oder Abänderung beim Urheber vor, innerhalb von zehn Nutztagen nach rechtmäßiger Bekanntgabe. Das ist nicht bereits die fünfzehntägige hierarchische Beschwerde.
 
-## 2. Fachlicher Direktstart
+Canon 1735 ordnet den Fristbeginn nach neuem Dekret innerhalb von dreißig Tagen beziehungsweise nach Ausbleiben einer Entscheidung. Die Beschwerde nach Canon 1737 hat eine eigene fünfzehntägige Nutzfrist. Ausnahmen des Canons 1734 Absatz 3 gesondert prüfen. Nutztage nicht ohne Kenntnis- und Handlungsmöglichkeit mechanisch als Kalendertage rechnen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche kirchliche Autorität oder welches Gericht ist sachlich und örtlich zuständig.
-2. Kernprüfung in einem Durchgang: Welche Fassung des universalen oder partikularen Rechts gilt; Welche Urkunde, Zeugenaussage oder Registereintragung trägt den kirchenrechtlichen Tatbestand.
-3. Belege und Engpass zusammenführen: Antragsteller für Parteistellung, Urkunde und Anspruchstatsachen; kirchliche Autorität für Zuständigkeit, Verfahren und Entscheidungsgrundlage; besonders kritisch ist: Zuständige kirchliche Autorität, Rechtsquelle oder Fassung ist nicht geklärt.
-4. Erstes Arbeitsprodukt liefern: Kirchenrechtsakte: Person, Status, Autorität, Canon, Partikularrecht, Urkunde, Frist, Antrag und Rechtsbehelf.
+Ein Antrag auf Aussetzung ist nicht stets eine bereits eingetretene Aussetzung. Nach Canones 1736 und 1737 unterscheiden, ob die Wirkung gesetzlich eintritt oder besonders angeordnet werden muss. Amtlicher Text: https://www.vatican.va/archive/cod-iuris-canonici/deu/documents/cic_libro7_cann1732-1739_ge.html
 
-## 3. Kernroute
+## 1.3. Beleg- und Entscheidungslogik
 
-1. Person und Forum: Gläubiger, Amtsträger, Pfarrei, Diözese, Ordinarius, Offizialat, Gericht und staatliche Stelle bestimmen.
-2. Rechtsquelle: CIC-Fassung, Partikularrecht, Dekret, Statut, Instruktion, Registereintrag und authentische Übersetzung ordnen.
-3. Verfahren: Antrag, Zuständigkeit, Parteistellung, Frist, Beweis, Anhörung, Dekret, Urteil und Rechtsmittel chronologisch abbilden.
-4. Schnittstelle: kirchliche Rechtsfolge, staatliche Wirkung, Arbeitsrecht, Personenstand, Register und Vertraulichkeit getrennt prüfen.
-5. Arbeitsprodukt: Supplik, Antrag, Dekretentwurf, Aktenvermerk, Eheverfahrensmatrix, Stellungnahme oder Pastoralschreiben erstellen.
+Führe „Akt / Urheber / Bekanntgabe / Beschwer / Fristschritt / Nachweis / zuständige Stelle / beantragte Abhilfe“. Gib an, welche Rechte, Tatsachen oder Verfahrensschritte konkret betroffen sind. Ein pauschales Missfallen am Dekret reicht nicht als ausgearbeitete Begründung.
 
-## 4. Fallkarte
+Bei Ehefragen Konsens, Form, Hindernis und staatlichen Familienstand trennen. Bei Straf- oder Schutzfällen Beweissicherung, zuständige kirchliche Stelle und mögliche staatliche Schutzpflichten gesondert prüfen. Keine Person zu einer Aussage drängen und keine kirchliche Klärung als Ersatz für akute Gefahrenabwehr darstellen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | CIC Canon 16 und Canon 17; CIC Canon 1400 ff. und Canon 1501 ff; CIC Canon 1671 ff |
-| Rechtsprechung | EuGH, Urteil vom 17.04.2018 - C-414/16; EuGH, Urteil vom 11.09.2018 - C-68/17 |
-| Tatbestand | Autorität, Gericht, universales Recht, Partikularrecht, Dekret, Statut und maßgebliche Fassung bestimmen |
-| Beweislast | Antragsteller für Parteistellung, Urkunde und Anspruchstatsachen; kirchliche Autorität für Zuständigkeit, Verfahren und Entscheidungsgrundlage |
-| Rechtsfolge | Supplik, Antrag, Dekretentwurf, Eheverfahrensmatrix, Aktenvermerk oder Schnittstellenstellungnahme |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.4. Ergebnis und Arbeitsgrenzen
 
-## 5. Einsatzfelder
+Liefere einen ausformulierten Antrag, Rekursentwurf, kirchlichen Aktenvermerk oder verständlichen Ergebnisbrief mit konkretem Adressaten und nächstem Schritt. Keine Dispens, Eheentscheidung, Sanktion oder Rekursentscheidung selbst aussprechen. Bei unklarer Frist einmal gebündelt Bekanntgabe, Kenntnis und Hinderungsgrund erfragen; den gesicherten Textteil weiterbearbeiten.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Zuständigkeit und Rechtsquelle | Autorität, Gericht, universales Recht, Partikularrecht, Dekret, Statut und maßgebliche Fassung bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kirchliches Verwaltungsverfahren | Antrag, Anhörung, Dekret, Zustellung, hierarchische Beschwerde, Frist und Vollzug chronologisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eheverfahren | Zuständigkeit, Klagegrund, Parteistellung, Urkunden, Zeugen, Ehebandverteidiger und Rechtsmittel erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+CIC, Änderungsrecht und Partikularrecht am amtlichen Text prüfen; deutsche Übersetzung und maßgeblichen lateinischen Text bei Auslegungsfragen abgleichen. Historische oder aufgehobene Regeln nicht als geltendes Recht ausgeben. Rechtsprechung nur tatsächlich verifiziert mit Gericht, Datum, Aktenzeichen und Fundstelle nutzen.
 
-
-## 6. Anker
-
-- CIC Canon 16 und Canon 17: authentische Auslegung und Auslegung kirchlicher Gesetze.
-- CIC Canon 1400 ff. und Canon 1501 ff.: Streitgegenstände, Gerichtszuständigkeit und Einleitung des kirchlichen Verfahrens.
-- CIC Canon 1671 ff.: Zuständigkeit und Verfahren in Ehenichtigkeitssachen.
-- CIC Canon 1717 ff.: Voruntersuchung und weitere Schritte bei einem kirchlichen Straftatverdacht.
-- EuGH, Urteil vom 17.04.2018 - C-414/16: Eine konfessionsbezogene berufliche Anforderung muss wesentlich, rechtmäßig, gerechtfertigt und gerichtlich wirksam überprüfbar sein.
-- EuGH, Urteil vom 11.09.2018 - C-68/17: Unterschiedliche Loyalitätsanforderungen wegen der Konfession können unzulässige Diskriminierung darstellen, wenn sie keine wesentliche, rechtmäßige und gerechtfertigte berufliche Anforderung sind.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Supplik, Antrag, Dekretentwurf, Eheverfahrensmatrix, Aktenvermerk oder Schnittstellenstellungnahme.
-7.2. Norm: CIC Canon 16 und Canon 17; CIC Canon 1400 ff. und Canon 1501 ff mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Zuständigkeit und Rechtsquelle“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Antragsteller für Parteistellung, Urkunde und Anspruchstatsachen; kirchliche Autorität für Zuständigkeit, Verfahren und Entscheidungsgrundlage. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Fassung des universalen oder partikularen Rechts gilt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Kirchenrechtsakte“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Zuständige kirchliche Autorität, Rechtsquelle oder Fassung ist nicht geklärt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Vertrauliche kirchliche und persönliche Daten schützen. Weitere Werkstatt- oder Skilltexte sind optional, nicht Voraussetzung; Folgeaufträge auf dem geprüften Stand fortsetzen.

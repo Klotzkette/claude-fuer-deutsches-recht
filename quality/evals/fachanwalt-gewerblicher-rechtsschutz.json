@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-gewerblicher-rechtsschutz",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/geschmmg_2004/__46.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlichen Normauszug zu Herkunft, Vertriebswegen, Mengen, Preisen und Verhältnismäßigkeit geprüft; direkte Öffnung zuvor mit Timeout."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__242.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlichen Normauszug zur Leistung nach Treu und Glauben gelesen; eine konkrete Reichweite ergänzender Rechnungslegung ist gesondert zu begründen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geschmmg_2004/__42.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 2 im Normtext geprüft: Verschulden, verletzungsbezogener Gewinn und Lizenzanalogie als Berechnungswege."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__287.html",
+      "checked_on": "2026-09-14",
+      "supports": "Normtext zur richterlichen Schadensschätzung anhand der Umstände geprüft; keine Befugnis zu unbelegten Quoten."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2000-11&Gericht=bgh&Sort=1&anz=239&client=%5B%27%5B%5C%27%5B%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%2C+%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%5D%5C%27%2C+%5C%27%5B%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%2C+%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%5D%5C%27%5D%27%2C+%27%5B%5C%27%5B%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%2C+%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%5D%5C%27%2C+%5C%27%5B%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%2C+%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%5D%5C%27%5D%27%5D&nr=22971&pos=13",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 02.11.2000, Az. I ZR 246/98: amtliche Leitsätze im Suchauszug zur unmittelbaren Gemeinkostenzurechnung und eigenen Vertriebsleistung gelesen. Direkter Volltextabruf mit Zugriffssperre; keine Volltext- oder Randnummernverifikation behauptet."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der alte Schnellstart wiederholte dieselbe Beweislastformel auch für Rechtsbestand und Einreden und enthielt kaum eine ausführbare Schadensrechnung. Das neue Mini trennt Schutzrechte und Zahlungsfragen; lokale Vertiefungslinks sind ausdrücklich optional.",
+    "changes": [
+      "Pauschale Beweislastzuweisung durch merkmalbezogene Prüfung mit gesetzlichen Vermutungen ersetzt.",
+      "Mengen-, Retouren- und Kostenabgleich sowie Trennung von Kostenabzug und Gewinnzurechnung ergänzt.",
+      "Wiederholte Tabellen und unverbundene Patentnormen entfernt; Entwurf ohne Vollzug und ehrliche Quellenlücken verankert."
+    ],
+    "sha256": "e711e6275836e080c3594d8e83a1fd685c5a675c6034d6374b06febb2c1e53dc"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie die Rechnungslegung zu unserem verletzten deutschen Möbeldesign: Retouren, Kostenstellen und Gemeinkosten sollen in einen Zahlungsentwurf überführt werden.",
+      "Wir verteidigen einen Designhersteller gegen Gewinnabschöpfung; ordnen Sie die Einzelkosten und den behaupteten Gestaltungseinfluss einer belastbaren Gegenrechnung zu."
+    ],
+    "negative": [
+      "Recherchieren Sie, ob unser neues Lampendesign vor der Anmeldung bereits offenbart wurde.",
+      "Erstellen Sie einen technischen Merkmalsvergleich für die Verletzung eines Verfahrenspatents."
+    ],
+    "target_skill": "design-verletzergewinn-kostenabgleich"
+  },
+  "cases": [
+    {
+      "id": "leuchtenschirme-retouren-gemeinkosten",
+      "request": "Wir vertreten die Inhaberin eines deutschen eingetragenen Designs. Ein rechtskräftiger Feststellungstitel umfasst die schuldhafte Verletzung durch das Modell L im deutschen Vertrieb vom 01.01. bis 30.06.2025. Andere Produkte sind nicht betroffen. Bitte erstellen Sie ergebnis.md als bezifferte Verhandlungsgrundlage samt Zahlungsentwurf. Die Rechnungslegung nennt 1.000 verkaufte Stück zu je 100 EUR netto, davon 100 vollständig zurückgenommene und mit insgesamt 10.000 EUR netto gutgeschriebene Stück. Nach Rückabwicklung sind den verbleibenden Verkäufen unstreitig 36.000 EUR Material, 9.000 EUR unmittelbar produktbezogene Fertigungslöhne, 4.500 EUR Versand und eine nur für diese Serie angefallene Werkzeugmiete von 4.500 EUR zugeordnet. Alle Beträge sind netto und durch Einzelbelege bestätigt. Daneben zieht der Gegner 18.000 EUR allgemeine Büromiete und Verwaltung nach Umsatzschlüssel ab; diese Kosten wären ohne Modell L unverändert entstanden. Er behauptet, Kunden kauften vor allem wegen des niedrigen Preises. Wir haben noch keine Belege zum Gestaltungseinfluss. Rechnen Sie für die Verhandlung ausdrücklich auch mit hypothetischen Zurechnungsanteilen von 40 und 60 Prozent, ohne diese als bewiesen zu behandeln. Eine Lizenzberechnung ist nicht beauftragt; es gab weder Zahlung auf den Schaden noch Vergleich. Versenden Sie nichts.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Rechnung setzt 90.000 EUR Nettoerlös an und zieht die 10.000 EUR Retourengutschriften nicht nochmals ab; sie verwendet nur 900 verbleibende Stück.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der vorläufige Produktgewinn beträgt nachvollziehbar 36.000 EUR; die ausschließlich serienbezogene Werkzeugmiete wird berücksichtigt, die unveränderten Gemeinkosten von 18.000 EUR werden nicht allein aufgrund des Umsatzschlüssels abgezogen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Zurechnungsszenarien ergeben 14.400 und 21.600 EUR und werden als hypothetisch, nicht als gesicherte Forderung behandelt; der Produktgewinn wird nicht ohne weitere Begründung vollständig zugesprochen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Der Zahlungsentwurf enthält einen erkennbaren Vorbehalt zur noch offenen Gewinnzurechnung und konkrete Beweisbedarfe zu Kaufmotiven; er addiert keine Lizenzgebühr zum gleichen Schaden und behauptet keinen Versand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "design-verletzergewinn-kostenabgleich"
+    }
+  ]
+}

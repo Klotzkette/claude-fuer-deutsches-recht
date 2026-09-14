@@ -94,13 +94,39 @@ class PortableStarts(unittest.TestCase):
             path = plugin / "arbeitsrecht-schnellstart.md"
             subject = "## 1. Auftrag\n\nNur den bereits vorliegenden Vergleich überarbeiten.\n"
             path.write_text("# Arbeitsrecht\n\nBedienregel: bisheriger Einstieg.\n\n" + subject, encoding="utf-8")
-            with patch.object(G, "collect_skill_material", return_value=[]):
+            with patch.object(G, "collect_skill_material", return_value=[]), patch.object(G, "has_individual_review", return_value=False):
                 self.assertTrue(G.normalize_protected_schnellstart(plugin))
                 self.assertFalse(G.normalize_protected_schnellstart(plugin))
             text = path.read_text(encoding="utf-8")
             self.assertEqual(text.count("Bedienregel:"), 1)
             self.assertIn(subject, text)
             self.assertIn(G.PORTABLE_EXECUTION, text)
+
+    def test_individually_reviewed_start_is_byte_preserved(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            plugin = Path(tmp)
+            (plugin / ".claude-plugin").mkdir()
+            (plugin / ".claude-plugin/plugin.json").write_text(json.dumps({"name": "fachgebiet"}), encoding="utf-8")
+            path = plugin / "fachgebiet-schnellstart.md"
+            before = "# 1. Fachaufgabe\n\n" + "Fachliche Aussage mit eigenem Aufbau.\n" * 100
+            path.write_text(before, encoding="utf-8")
+            with patch.object(G, "has_individual_review", return_value=True):
+                self.assertFalse(G.normalize_protected_schnellstart(plugin))
+                self.assertFalse(G.normalize_protected_schnellstart(plugin))
+            self.assertEqual(path.read_bytes(), before.encode("utf-8"))
+
+    def test_reviewed_package_does_not_expand_workshop(self):
+        with patch.object(G, "plugin_dirs", return_value=[Path("fachgebiet")]), \
+             patch.object(G, "load_protected", return_value=set()), \
+             patch.object(G, "manifest", return_value={"name": "fachgebiet"}), \
+             patch.object(G, "has_individual_review", return_value=True), \
+             patch.object(G, "enrich_protected_werkstatt") as enrich, \
+             patch.object(G, "collect_skill_material") as collect, \
+             patch.object(G, "normalize_protected_schnellstart") as normalize:
+            self.assertEqual(G.main(), 0)
+            enrich.assert_not_called()
+            collect.assert_not_called()
+            normalize.assert_not_called()
 
     def test_every_published_prompt_has_portable_fallbacks(self):
         plugins = json.loads((REPO / ".claude-plugin/marketplace.json").read_text(encoding="utf-8"))["plugins"]
@@ -111,10 +137,13 @@ class PortableStarts(unittest.TestCase):
                 path = root / f"{plugin['name']}-{kind}.md"
                 with self.subTest(path=path.relative_to(REPO)):
                     text = path.read_text(encoding="utf-8")
-                    self.assertIn(G.PORTABLE_EXECUTION, text)
+                    reviewed = kind == "schnellstart" and G.has_individual_review(root, plugin["name"])
+                    if not reviewed:
+                        self.assertIn(G.PORTABLE_EXECUTION, text)
                     self.assertNotIn("passende Fachskills laufen intern", text)
                     self.assertNotIn("Passende Fachskills intern als Teilroute nutzen", text)
-                    self.assertFalse(skill_names & set(re.findall(r"`([a-z0-9-]+)`", text)), "Eigenständiger Prompt verweist auf installierten Skill")
+                    if not reviewed:
+                        self.assertFalse(skill_names & set(re.findall(r"`([a-z0-9-]+)`", text)), "Eigenständiger Prompt verweist auf installierten Skill")
                     if kind == "schnellstart":
                         self.assertLess(len(text.encode("utf-8")), 7500)
                     else:

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "staatsanwaltschaft-praxis-einstieg",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__170.html",
+      "checked_on": "2026-09-14",
+      "supports": "Beschuldigten- und vorwurfsbezogener Abschluss durch Klageerhebung oder Einstellung je nach Ermittlungsergebnis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__160.html",
+      "checked_on": "2026-09-14",
+      "supports": "Objektive Sachverhaltsaufklärung einschließlich entlastender Umstände."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Berufseinstieg braucht eine überprüfbare Abschlussverfügung mit getrennten Personen, Vorwürfen und Nebenentscheidungen statt pauschaler Erledigung.",
+    "changes": [
+      "Tat- und beschuldigtenbezogene Entscheidungsmatrix eingeführt.",
+      "Offene Beweismittel- und Mitteilungsfragen sichtbar gehalten.",
+      "Entwürfe von tatsächlich veranlassten Maßnahmen getrennt."
+    ],
+    "sha256": "c19471ee21a1cab8a68bd2ee00e0d10191f659d94d45156edc591f8f475d8f15"
+  },
+  "selection": {
+    "positive": [
+      "Kontrollieren Sie meine erste Abschlussverfügung auf fehlende Teilentscheidungen und Mitteilungen.",
+      "Strukturieren Sie eine Akte mit zwei Beschuldigten vor der Entscheidung nach Paragraf 170 StPO."
+    ],
+    "negative": [
+      "Erarbeiten Sie allein die Verteidigungsstrategie eines Beschuldigten.",
+      "Schreiben Sie ein rechtskräftiges Strafurteil für das Gericht."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zwei-beschuldigte-getrennter-abschluss",
+      "request": "Erstellen Sie ergebnis.md als internen Abschlusskontrollvermerk. Gegen A und B wurde wegen desselben Diebstahls ermittelt. Für A belegen unstreitige Videoaufnahmen und ein glaubhaftes Geständnis die Tat; weitere Ermittlungen sind dazu nicht offen. Für B liegt nun ein amtlich bestätigter Aufenthalt im Ausland zur Tatzeit vor; sonstige Beteiligungsbeweise fehlen. Der Entwurf einer Anfängerin lautet nur: Gegen A wird Anklage erhoben, Akte an das Gericht. Ein als Beweismittel verwahrtes Telefon gehört nach Aktenlage der unbeteiligten C; die Frage weiterer Beweisnotwendigkeit und Rückgabe ist noch ungeprüft. Prüfen Sie Vollständigkeit und formulieren Sie die noch nötigen Entscheidungspunkte, ohne tatsächliche Verfügungen auszuführen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Vermerk erkennt, dass die Anklage gegen A das Verfahren gegen B nicht erledigt, und verlangt eine eigene Einstellungseinordnung für B anhand des bestätigten Alibis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Telefonverwahrung wird als offener Nebenpunkt mit Prüfung der Beweisnotwendigkeit und Berechtigung von C behandelt, nicht durch ungeprüfte Rückgabe an A oder pauschale Einziehung erledigt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Ergebnis benennt die noch zu prüfenden Mitteilungen und dokumentiert Entwurfsstatus, ohne eine bereits erfolgte Anklageeinreichung, Einstellung oder Herausgabe zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "abschlussverfuegung-anfaengerfehler"
+    }
+  ]
+}

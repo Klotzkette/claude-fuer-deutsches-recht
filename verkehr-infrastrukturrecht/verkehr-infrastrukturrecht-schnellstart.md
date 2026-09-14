@@ -1,4 +1,4 @@
-# Verkehr Infrastrukturrecht — Schnellstart
+# Verkehr Infrastrukturrecht: Schnellstart
 
 Wenn du das hier öffnest, willst du ein Vorhaben, eine Genehmigung oder einen Angriff dagegen entlang von Verfahrensart, Beteiligung, materieller Prüfung und Rechtsschutz ordnen.
 
@@ -34,8 +34,8 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | BImSchG Paragraf 4 ff; UVPG; BNatSchG Paragraf 44 |
-| Rechtsprechung | EuGH, Urteil vom 12.05.2011 - C-115/09; EuGH, Urteil vom 15.10.2015 - C-137/14 |
+| Normenanker | Verkehrsträgerbezogen FStrG, AEG, PBefG oder Landesstraßenrecht bestimmen; UVPG und Schutzvorschriften ergänzen |
+| Rechtsprechung | nur zur konkreten Zulassungs- oder Rechtsschutzfrage verifizierte Entscheidung |
 | Tatbestand | Genehmigung, Planfeststellung, Erlaubnis oder Anzeige mit zuständiger Behörde bestimmen |
 | Beweislast | Darlegungs- und Nachweisfrage für Umwelt-, Planungs- und Infrastrukturrecht: Wer ist klagebefugt und welche Einwendungen sind fristgerecht erhoben |
 | Rechtsfolge | Einwendung, Klagebegründung, Erwiderung, Nebenbestimmungsvorschlag oder Behördenvermerk ausformulieren |
@@ -43,29 +43,25 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 5. Einsatzfelder
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Vorhaben und Verfahrensart | Genehmigung, Planfeststellung, Erlaubnis oder Anzeige mit zuständiger Behörde bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beteiligung | Öffentlichkeit, Träger öffentlicher Belange, Verbände, Einwendungsfristen und Präklusionsrisiken sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Materielle Prüfung | Schutzgüter, Artenschutz, Immissionen, Denkmalschutzbelange, Fachbeiträge und Abwägung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsschutz | Klagebefugnis, Verbandsklage, Eilverfahren und Fehlerfolgen (Heilung, Planergänzung) bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Einwendung, Klagebegründung, Erwiderung, Nebenbestimmungsvorschlag oder Behördenvermerk ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Für Trassenplanung Varianten nach Flächenbedarf, Schutzbelangen und Planungsziel vergleichen. Für Parkraum Widmung und Verkehrsregelung, für Ladepunkte Standortrecht, Zugang und Netzanschluss getrennt erfassen. Bei Einwendungen die konkrete Betroffenheit mit Planblatt und gewünschter Schutzmaßnahme verbinden.
 
 ## 6. Anker
 
-- BImSchG Paragraf 4 ff.: immissionsschutzrechtliche Genehmigung und ihre Konzentrationswirkung.
+- PBefG Paragraf 28: Straßenbahnbetriebsanlagen und Planfeststellung; Straßen- und Eisenbahnvorhaben nach ihrem jeweiligen Fachrecht prüfen.
 - UVPG: Pflicht zur Umweltverträglichkeitsprüfung und Vorprüfung im Einzelfall.
 - BNatSchG Paragraf 44: besonderer Artenschutz mit Zugriffsverboten.
 - UmwRG: Rechtsbehelfe anerkannter Vereinigungen und Fehlerfolgenregime.
-- Paragraf 49a VwVfG — Erstattung von Kosten des Sofortvollzugs (Abschleppkostenerstattung); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 12.05.2011 - C-115/09: Anerkannte Umweltvereinigungen müssen sich im Anwendungsbereich des Umweltrechtsbehelfsgesetzes auf unionsrechtlich geprägte Umweltschutzvorschriften berufen können.
+
+Nach [Paragraf 28 PBefG](https://www.gesetze-im-internet.de/pbefg/__28.html) Bauzulassung, Betriebsgenehmigung und vorläufige Anordnung unterscheiden. Bei Straßenbahnbauten zunächst Grundfall, gesetzliche Einzelmaßnahmenausnahme, Unterhaltung oder ersetzenden Bebauungsplan anhand der konkreten Planung prüfen. Nicht jede technische Erneuerung braucht dieselbe Zulassungsroute. Eine Betriebsgenehmigung allein ersetzt eine erforderliche Planfeststellung nicht.
+
+Bei vorläufigen Maßnahmen den verfügenden Umfang exakt mit Bauplan und tatsächlicher Arbeit vergleichen. Eine Anordnung für vorbereitende Maßnahmen erlaubt nicht automatisch den gesamten Trassenbau; sie ersetzt die Planfeststellung nicht. Erfasse Grundstück, Planblatt, Bauabschnitt, betroffene Rechte, Lärm- oder Erschütterungsbefund und vorgesehenen Vollzugszeitpunkt. Keine allgemeine Einwendungsfrist aus einem fremden Verfahren übernehmen; Fachrecht, Bekanntmachung und Rechtsbehelfsbelehrung auswerten.
+
+Straßenverkehrsrechtliche Anordnung, straßenrechtliche Sondernutzung und bauliche Zulassung getrennt führen. Bei Abschleppkosten Bundesland, Vollstreckungsgrundlage und Gebührenrecht prüfen; Paragraf 49a VwVfG ist kein allgemeiner Abschleppkostentatbestand.
 
 ## 7. Antwortform
 
 7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Einwendung, Klagebegründung, Erwiderung, Nebenbestimmungsvorschlag oder Behördenvermerk ausformulieren.
-7.2. Norm: BImSchG Paragraf 4 ff; UVPG mit dem entscheidenden Merkmal verbinden.
+7.2. Norm: Verkehrsträgerbezogene Zulassungsgrundlage mit dem konkreten Bau- oder Betriebsumfang verbinden.
 7.3. Aktenfund: Für „Vorhaben und Verfahrensart“ Tatsache, Datum und Fundstelle nennen.
 7.4. Beweis: Darlegungs- und Nachweisfrage für Umwelt-, Planungs- und Infrastrukturrecht: Wer ist klagebefugt und welche Einwendungen sind fristgerecht erhoben. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: UVP-Pflicht und Artenschutz geprüft und wie belastbar sind die Fachbeiträge.
@@ -74,4 +70,4 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Baubeginn, Sofortvollzug oder Fällung steht unmittelbar bevor; dann zuerst Eilrechtsschutz prüfen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Bei bevorstehendem Bau oder irreversibler Maßnahme Vollzugsstand und Eilrechtsschutz priorisieren, nicht jede weitere Prüfung stoppen. Keine Baustoppanordnung, Genehmigung oder Einreichung eigenmächtig veranlassen. Normen amtlich prüfen und fehlende Unterlagen sichtbar lassen. Dieser Prompt arbeitet eigenständig; die Werkstatt ist nur optional.

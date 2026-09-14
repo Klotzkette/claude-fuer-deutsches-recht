@@ -1,73 +1,23 @@
-# Ordnungswidrigkeitenrecht — Schnellstart
+# 1. Bußgeldverfahren aus Tat und Verfahrensstand bearbeiten
 
-Wenn du das hier öffnest, willst du Anhörung, Bußgeldbescheid oder Ermittlungsakte sofort nach Tat, Verantwortlichem, Verjährung, Beweis, Einlassungsrisiko und nächstem Schriftsatz bearbeiten.
+Lies zuerst Auftrag, Anhörung oder Bescheid samt Zustellnachweis und vorhandene Belege. Arbeite am verlangten Einspruch, Aktenvermerk oder Beweisantrag; stelle keinen allgemeinen Vortrag voran. Erfasse Betroffenen, erlassende Behörde, Aktenzeichen, behauptete Handlung, Tatzeit und Verfahrensstand. Anhörung, Bußgeldbescheid und gerichtliche Entscheidung sind verschiedene Ausgangspunkte. Frage nur zu einer Lücke nach, die das aktuelle Arbeitsprodukt blockiert; fehlende Ermittlungsakten verhindern nicht automatisch einen fristwahrenden Entwurf.
 
-Kernauftrag: Allgemeines OWiG-Plugin für Bußgeldverfahren: Anhörung, Bescheid, Einspruch, Behörde, Akteneinsicht, Gericht, Verjährung, Einziehung und Nebenfolgen. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Frist und Einlassung entkoppeln
 
-## 1. Sofortstart nach Eingangslage
+Beim Bußgeldbescheid nach OWiG Paragraf 67 die zweiwöchige Einspruchsfrist ab Zustellung prüfen. Erlassdatum ist nicht Zustelldatum. Zustellumschlag und Empfangsnachweis auswerten, Fristberechnung mit aktuellem Kalender und einschlägigen Verfahrensregeln kontrollieren. Der Einspruch geht an die erlassende Verwaltungsbehörde, schriftlich oder zur Niederschrift; einen elektronischen Übermittlungsweg nur nach gesonderter Formprüfung empfehlen. Nicht erst Akteneinsicht abwarten, wenn dadurch die Frist verloren gehen könnte.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Tatkarte, Vorwerfbarkeit, Verfahrenschronologie wählen; ohne konkreten Auftrag mit Tatkarte beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Der Entwurf identifiziert Bescheid und Betroffenen eindeutig. Eine Beschränkung auf einzelne Beschwerdepunkte nur bei entsprechendem Auftrag und geprüften Folgen; nicht ungefragt den Tatvorwurf anerkennen, um lediglich die Geldbuße anzugreifen. Versand und fristgerechten Eingang nicht als erfolgt darstellen. Bei zweifelhafter Zustellung alternative Fristläufe offenlegen und Schutzschritt priorisieren, statt das gesamte Mandat anzuhalten.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Tatkarte, Vorwerfbarkeit, Verfahrenschronologie und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Tatvorwurf zerlegen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Ordne jedes Merkmal der konkret bezeichneten Bußgeldnorm einer Tatsache und ihrem Beweismittel zu. Trenne unmittelbaren Täter, vertretende Person und Unternehmen. Eine Leitungsfunktion beweist weder die eigene Tathandlung noch eine bestimmte Aufsichtspflichtverletzung. Untersuche bei Unterlassen, wer wann was hätte tun müssen und welche tatsächliche Handlungsmöglichkeit bestand. Für Vorsatz, Fahrlässigkeit und Irrtum die jeweils zutreffende aktuelle Norm prüfen; Tatbestandsirrtum und fehlende Einsicht in das Verbot nicht vermischen.
 
-## 2. Fachlicher Direktstart
+Behördenbehauptung, eingeräumte Tatsache, Dokumenteninhalt und Schlussfolgerung getrennt darstellen. Nicht dem Betroffenen den Beweis seiner Unschuld auferlegen. Benenne gezielt entlastende Unterlagen: etwa fristgerechte Meldung mit Eingangsbeleg, Delegationsanweisung oder Zeugen zur tatsächlichen Zuständigkeit. Messdaten sind nur bei einem Messvorwurf einschlägig und kein allgemeiner Akteneinsichtsbaustein.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Spezialnorm erfasst welches Verhalten und wer ist nach Wortlaut und Verantwortungsordnung tauglicher Täter.
-2. Kernprüfung in einem Durchgang: Welche konkrete Tatsache trägt jedes objektive und subjektive Merkmal und wer muss sie beweisen; Wann begann die Verjährung und welche dokumentierte Handlung unterbrach sie gegenüber welcher Person.
-3. Belege und Engpass zusammenführen: Nachweisachse Beweiszugang: Akte, Messreihe, Rohdaten, Bedienungsanleitung, Schulung, Urkunde, Zeuge, Einlassung und entlastende Fremddaten gezielt anfordern; besonders kritisch ist: Einspruchs-, Wiedereinsetzungs- oder Rechtsbeschwerdefrist läuft.
-4. Erstes Arbeitsprodukt liefern: Tatbestandsmatrix: Spezialnorm, Merkmal, Tatsache, Beleg, Bestreiten, Vorwerfbarkeit, Irrtum, Verjährung und Rechtsfolge.
+## 1.3. Zeitachse und Sanktion
 
-## 3. Kernroute
+Für Verjährungsfragen Tatbeendigung, einschlägige Dauer und jede behauptete Unterbrechung mit Datum, Aktenstelle und betroffener Person erfassen. Verfolgung und Vollstreckung nicht gleichsetzen. Bei fehlender Akte keine unbekannten Unterbrechungshandlungen erfinden. Höhe der Geldbuße, wirtschaftlicher Vorteil, Einziehung und weitere Folgen getrennt prüfen, damit derselbe Betrag nicht unbemerkt mehrfach angesetzt wird. Maßgeblichen Bußgeldrahmen und etwaige Spezialregel vor einer Berechnung amtlich verifizieren.
 
-1. Tatkarte: Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener, Vertreter, Unternehmen und Nebenbeteiligte bestimmen.
-2. Vorwerfbarkeit: objektives Merkmal, Wissensstand, Vorsatz, Fahrlässigkeit, Verbotsirrtum, Zumutbarkeit und individuelle Verantwortungszuweisung prüfen.
-3. Verfahrenschronologie: Kenntnis, Anhörung, Ermittlungsmaßnahme, Unterbrechung, Bescheiderlass, Zustellung, Einspruch und gerichtliche Vorlage erfassen.
-4. Beweiszugang: Akte, Messreihe, Rohdaten, Bedienungsanleitung, Schulung, Urkunde, Zeuge, Einlassung und entlastende Fremddaten gezielt anfordern.
-5. Sanktionsseite: Regelsatz, Abweichung, wirtschaftliche Verhältnisse, Vorteil, Einziehung, Nebenfolge, Verband und Gesamtbelastung berechnen.
+## 1.4. Verwertbares Ergebnis
 
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | OWiG Paragraf 1, Paragraf 10 und Paragraf 12; OWiG Paragraf 17; OWiG Paragraf 30 und Paragraf 130 |
-| Rechtsprechung | BVerfG, Beschluss vom 12.11.2020 - 2 BvR 1616/18 |
-| Tatbestand | Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener, Vertreter, Unternehmen und Nebenbeteiligte bestimmen |
-| Beweislast | Nachweisachse Beweiszugang: Akte, Messreihe, Rohdaten, Bedienungsanleitung, Schulung, Urkunde, Zeuge, Einlassung und entlastende Fremddaten gezielt anfordern |
-| Rechtsfolge | Akteneinsicht, Einlassungsvermerk, Einspruch, Entbindungsantrag, Beweisantrag, Einstellungsanregung oder Rechtsbeschwerdebaustein erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Tatkarte | Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener, Vertreter, Unternehmen und Nebenbeteiligte bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vorwerfbarkeit | Objektives Merkmal, Wissensstand, Vorsatz, Fahrlässigkeit, Verbotsirrtum, Zumutbarkeit und individuelle Verantwortungszuweisung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahrenschronologie | Kenntnis, Anhörung, Ermittlungsmaßnahme, Unterbrechung, Bescheiderlass, Zustellung, Einspruch und gerichtliche Vorlage erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-
-## 6. Anker
-
-- OWiG Paragraf 1, Paragraf 10 und Paragraf 12: gesetzlicher Tatbestand, Vorsatz oder Fahrlässigkeit sowie Irrtum.
-- OWiG Paragraf 17: Bedeutung, Vorwurf, wirtschaftliche Verhältnisse und wirtschaftlicher Vorteil bei der Zumessung.
-- OWiG Paragraf 30 und Paragraf 130: Verbandsgeldbuße und Aufsichtspflichtverletzung mit konkreter Anknüpfungstat und Organisationspflicht.
-- OWiG Paragraf 31 bis Paragraf 34: Beginn, Dauer, Unterbrechung und Ruhen der Verfolgungsverjährung.
-- BVerfG, Beschluss vom 12.11.2020 - 2 BvR 1616/18: Der Betroffene kann aus fairem Verfahren Zugang zu bei der Behörde vorhandenen, nicht zur Bußgeldakte genommenen Informationen verlangen, um selbst nach Entlastungsmomenten zu suchen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Akteneinsicht, Einlassungsvermerk, Einspruch, Entbindungsantrag, Beweisantrag, Einstellungsanregung oder Rechtsbeschwerdebaustein erstellen.
-7.2. Norm: OWiG Paragraf 1, Paragraf 10 und Paragraf 12; OWiG Paragraf 17 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Tatkarte“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Beweiszugang: Akte, Messreihe, Rohdaten, Bedienungsanleitung, Schulung, Urkunde, Zeuge, Einlassung und entlastende Fremddaten gezielt anfordern. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche konkrete Tatsache trägt jedes objektive und subjektive Merkmal und wer muss sie beweisen.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Tatbestandsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Einspruchs-, Wiedereinsetzungs- oder Rechtsbeschwerdefrist läuft. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere einen vollständigen Schriftsatz oder eine begründete Tatbestands- und Beweisanalyse. Bei ungesicherter Sachlage kann der Einspruch ohne Sachverhaltseinlassung vorbereitet und die spätere Begründung nach Akteneinsicht geplant werden. Kennzeichne offene Angaben unmittelbar am betroffenen Punkt. Verwende nur tatsächlich gelesene amtliche Normtexte oder Entscheidungen mit überprüfter Fundstelle; keine pauschalen Rechtsprechungsanker. Export: Times New Roman 11 pt und dezimale Gliederung. Weitere Skills oder Werkstattdateien sind optional; ohne sie anhand dieser Tat-, Frist- und Beweisprüfung weiterarbeiten.

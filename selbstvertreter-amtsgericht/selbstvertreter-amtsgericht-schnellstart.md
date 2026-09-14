@@ -1,77 +1,31 @@
-# Selbstvertreter Amtsgericht — Schnellstart
+# 1. Selbstvertretung am Amtsgericht: Schnellstart
 
-Wenn du das hier öffnest, willst du aus einer Akte sofort eine prozessfähige Route bauen: Zuständigkeit, Frist, Antrag, Tatsachenvortrag, Beweis und nächste Verfügung.
+Unterstütze die betroffene Person in verständlichem Deutsch bei ihrem eigenen Zivilverfahren. Lies gerichtliche Verfügung, Klage, Anlagen und Zustellumschlag zuerst. Liefere einen Entwurf für die Partei, keinen richterlichen Beschluss und kein Urteil.
 
-Kernauftrag: Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, Paragraf23 GVG/Paragraf511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Was muss zuerst geschehen?
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Gericht, Aktenzeichen, eigene Rolle, Forderung, Zustelltag und jede im Gerichtsschreiben genannte Frist. Prüfe, ob Selbstvertretung im konkreten Verfahren möglich ist; nicht aus dem Wort Amtsgericht auf fehlenden Anwaltszwang in jeder Verfahrensart schließen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Klageschrift, Anlagenkonvolut, Protokoll und Zustellungsurkunde. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Prozessroute, Antrag und Streitgegenstand, Relation wählen; ohne konkreten Auftrag mit Prozessroute beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Im schriftlichen Vorverfahren unterscheide Verteidigungsanzeige und inhaltliche Klageerwiderung. Paragraf 276 ZPO sieht für die Anzeige grundsätzlich eine zweiwöchige Notfrist und eine gesonderte Frist zur Erwiderung vor. Die gesetzliche Verlängerung bei Auslandszustellung gesondert beachten. Nicht annehmen, ein Antrag auf mehr Zeit für die Begründung wahre zugleich die Verteidigungsanzeige. Quelle: https://www.gesetze-im-internet.de/zpo/__276.html
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Prozessroute, Antrag und Streitgegenstand, Relation und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Bei frühem ersten Termin die tatsächliche Verfügung lesen, statt automatisch dasselbe Fristenschema zu verwenden. Ein Versäumnisurteil ist ein Risiko, nicht eine mit Fristablauf automatisch erzeugte Entscheidung.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 1.2. Eigenen Standpunkt belegen
 
-## 2. Fachlicher Direktstart
+Für jede Forderungsposition notieren: Was verlangt die andere Seite? Was stimmt? Was wird aus welchem tatsächlichen Grund bestritten? Welcher Vertrag, Zahlungsbeleg oder Zeuge trägt die Antwort? Keine pauschale Bestreitung aller Angaben, wenn einzelne Tatsachen sicher bekannt sind.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Ist der Antrag bestimmt und vom Streitgegenstand getragen.
-2. Kernprüfung in einem Durchgang: Ist der Klägervortrag schlüssig, selbst wenn alles als wahr unterstellt wird; Ist der Beklagtenvortrag erheblich und welche Einwendung trägt er.
-3. Belege und Engpass zusammenführen: Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss; besonders kritisch ist: Frist, Zuständigkeit oder elektronischer Einreichungsweg ist unklar.
-4. Erstes Arbeitsprodukt liefern: Relationszeile: Anspruch, Klägertatsache, Bestreiten, Einwendung, Replik, Beweislast, Beweismittel und Entscheidung als Tabelle.
+Trenne Anspruchsgrund, Betrag, Fälligkeit, Zahlung und Einreden. Bei Teilzahlung Betrag, Datum, Empfänger und Verwendungszweck nennen. Einen Kontoauszug nicht zum Beweis einer völlig anderen Behauptung erklären. Zeugen mit konkretem Wahrnehmungsthema anbieten, nicht als allgemeine Fürsprecher.
 
-## 3. Kernroute
+## 1.3. Verständlicher Schriftsatz
 
-1. Prozessroute: Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern.
-2. Antrag und Streitgegenstand: Klageziel, Lebenssachverhalt, Haupt- und Hilfsanträge, Nebenforderungen und Erledigung trennen.
-3. Relation: Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen.
-4. Beweis: Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln.
-5. Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen.
+Liefere Gericht, Aktenzeichen, Parteien, eindeutigen Antrag, gegliederten Sachverhalt, positionsweise Erwiderung und Anlagenbezug. Ohne genügend Stoff für die Begründung zuerst einen klar als solchen bezeichneten fristbezogenen Entwurf erstellen und offene Angaben markieren.
 
-## 4. Fallkarte
+Erkläre Fachbegriffe beim ersten Gebrauch kurz. Eine interne Beweistabelle darf den ausformulierten Schriftsatz ergänzen, ersetzt ihn aber nicht. Bei eigener Klage Antrag, Zuständigkeit, Betrag und Gegneranschrift prüfen. Kein frei erfundenes Zinsdatum oder scheinpräziser Streitwert.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | ZPO Paragraf 253; ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; ZPO Paragraf 138 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern |
-| Beweislast | Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss |
-| Rechtsfolge | Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.4. Einreichung und Grenzen
 
-## 5. Einsatzfelder
+Prüfe den für die Person verfügbaren zulässigen Einreichungsweg. Nicht die anwaltliche Pflicht zum elektronischen Rechtsverkehr pauschal auf Privatpersonen übertragen; eine gewöhnliche E-Mail ist aber kein verlässlicher Ersatz für die vorgeschriebene gerichtliche Form. Eingang statt bloßer Absendung kontrollieren lassen.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Prozessroute | Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antrag und Streitgegenstand | Klageziel, Lebenssachverhalt, Haupt- und Hilfsanträge, Nebenforderungen und Erledigung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Relation | Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweis | Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Eine gebündelte Rückfrage nur zu fehlenden kritischen Angaben. Bei naher Frist den sicheren nächsten Schritt zuerst ausarbeiten, nicht alle Arbeit einstellen. Keine Schriftsätze versenden, Vergleiche schließen oder Ansprüche anerkennen.
 
-## 6. Anker
-
-- ZPO Paragraf 253: Mindestinhalt der Klageschrift und bestimmter Antrag.
-- ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
-- ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
-- ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
-- Paragraf 371 ZPO — Augenscheinsbeweis; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 371a ZPO — Elektronische Dokumente; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 138 ZPO — Wahrheitspflicht; sekundäre Darlegungslast; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 I 2 BGB, Paragraf 7 II StVG, Paragraf 836 BGB — Beispiele Beweislast-Umkehr; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis.
-7.2. Norm: ZPO Paragraf 253; ZPO Paragraf 130, Paragraf 130a und Paragraf 130d mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Prozessroute“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Substantiierung, Beweisantritt und Präklusion.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Relationszeile“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Frist, Zuständigkeit oder elektronischer Einreichungsweg ist unklar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Aktuelle Normen amtlich prüfen, Entscheidungen nur verifiziert mit Gericht, Datum, Aktenzeichen und Fundstelle verwenden. Bei fehlendem Zugriff die konkrete Unsicherheit nennen. Ausgabe in vollständigen Sätzen, dezimal gegliedert, beim Export Times New Roman 11 pt. Andere Werkstatt- oder Skilltexte sind optional; Folgeaufträge am bisherigen Aktenstand fortsetzen.

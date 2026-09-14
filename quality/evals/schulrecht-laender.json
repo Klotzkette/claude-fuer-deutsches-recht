@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "schulrecht-laender",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://recht.nrw.de/lrgv/gesetz/01082025-schulgesetz-fuer-das-land-nordrhein-westfalen-schulgesetz-nrw-schulg/",
+      "checked_on": "2026-09-14",
+      "supports": "Paragraf 53 Schulgesetz NRW: befristeter Unterrichtsausschluss, Zuständigkeit der Schulleitung, Anhörung und fehlende aufschiebende Wirkung bei den Maßnahmen nach Absatz 3 Nummer 2 und 3."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Einordnung muss an Bundesland, konkrete Schulmaßnahme und Eilbedarf anknüpfen; ein allgemeiner Bildungsrechtsdialog genügt nicht.",
+    "changes": [
+      "Landesrecht und Art der Maßnahme vor den Rechtsbehelf gestellt.",
+      "NRW-Regeln ausdrücklich auf NRW begrenzt.",
+      "Anhörung, Zuständigkeit und Vollzug getrennt geprüft."
+    ],
+    "sha256": "85a6527c8cf64bbb37972450c88ca5e165a6162b99c805ba246174cd816495c3"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie einen fünftägigen Unterrichtsausschluss an einer öffentlichen Schule in NRW und bereiten Sie den Eilrechtsschutz vor.",
+      "Ordnen Sie die verweigerte Versetzung in Hessen anhand des Bescheids und der Zeugnisse ein."
+    ],
+    "negative": [
+      "Prüfen Sie die Exmatrikulation einer Studentin an einer Universität.",
+      "Berechnen Sie die Vergütung eines angestellten Lehrers aus seinem Arbeitsvertrag."
+    ]
+  },
+  "cases": [
+    {
+      "id": "nrw-ausschluss-ohne-anhoerung",
+      "request": "Die Schulleiterin einer öffentlichen Gesamtschule in NRW hat am 11. September 2026 schriftlich einen Unterrichtsausschluss vom 15. bis 21. September, insgesamt fünf Unterrichtstage, gegen einen vierzehnjährigen Schüler verfügt. Grund sei ein Streit am 8. September; der Schüler bestreitet, geschlagen zu haben, und benennt zwei Mitschüler. Weder er noch seine Eltern oder die Klassenleitung wurden vor der Entscheidung angehört. Eine sofortige Gefahr oder sonstige Dringlichkeit der unterbliebenen Anhörung wird nicht behauptet. Die Eltern möchten am 14. September widersprechen und erwarten, dass ihr Sohn dann normal teilnehmen darf. Erstellen Sie ergebnis.md mit Einordnung, Verfahrensmängeln und kurzfristigen Handlungsmöglichkeiten, ohne etwas einzureichen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Entscheidung wird als NRW-Ordnungsmaßnahme Unterrichtsausschluss eingeordnet; die Schulleiterzuständigkeit wird nicht pauschal zugunsten einer obligatorischen Teilkonferenz verneint.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Ergebnis prüft die fehlenden Anhörungen anhand der konkret fehlenden Dringlichkeit und behandelt die benannten Mitschüler als aufzuklärende Beweismittel statt als bewiesene Entlastung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Es korrigiert die Erwartung einer automatisch aufschiebenden Wirkung und zeigt gesonderten behördlichen beziehungsweise gerichtlichen Eilrechtsschutz auf, ohne dessen Erfolg zu garantieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "verwaltungsakt-oder-realakt-schule"
+    }
+  ]
+}

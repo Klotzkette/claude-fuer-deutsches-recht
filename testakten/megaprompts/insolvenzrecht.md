@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 98 Skills des Plugins `insolvenzrecht`.
+Diese Vollprüfung enthält top-10 von 99 Skills des Plugins `insolvenzrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -13,9 +13,9 @@ Diese Vollprüfung enthält top-10 von 98 Skills des Plugins `insolvenzrecht`.
 5. **insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab** — Für Sanierungsgewinn — Verlustvortrag und Paragraph 3a Absatz 3 EStG vorab prüfen: ordnet Norm, Beweislast und Gegenargu…
 6. **insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege** — Für Sanierungsgewinn — IV-Haftung für versäumte Paragraph 3a-Anträge: ordnet Norm, Beweislast und Gegenargument; Ergebni…
 7. **sanierungsgewinn-verlustvortrag-und-3a-iii-vorab** — Für Sanierungsgewinn — Verlustvortrag und Paragraph 3a Absatz 3 EStG vorab prüfen: ordnet Norm, Beweislast und Gegenargu…
-8. **sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege** — Für Sanierungsgewinn — IV-Haftung für versäumte Paragraph 3a-Anträge: ordnet Norm, Beweislast und Gegenargument; Ergebni…
-9. **spezial-glaeubigerausschuss-fristennotiz-und-naechster-schritt** — Für Gläubigerausschuss: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fri…
-10. **inso-glaeubigerausschuss-zustimmung-spezial** — Für InsO: Gläubigerausschuss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeit…
+8. **opos-titelabgleich-dreiwochen-liquiditaetsbruecke** — Überführt offene Posten, streitige Vollstreckungstitel und Bankbewegungen in eine abgestimmte Dreiwochen-Liquiditätsbrüc…
+9. **sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege** — Für Sanierungsgewinn — IV-Haftung für versäumte Paragraph 3a-Anträge: ordnet Norm, Beweislast und Gegenargument; Ergebni…
+10. **spezial-glaeubigerausschuss-fristennotiz-und-naechster-schritt** — Für Gläubigerausschuss: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fri…
 
 ---
 
@@ -867,6 +867,46 @@ Zeile 6: = Restsanierungsertrag
 
 ---
 
+## Skill: `opos-titelabgleich-dreiwochen-liquiditaetsbruecke`
+
+_Überführt offene Posten, streitige Vollstreckungstitel und Bankbewegungen in eine abgestimmte Dreiwochen-Liquiditätsbrücke mit neuen Fälligkeiten. Für widersprüchliche Krisendaten und konkrete Statuskorrekturen, nicht für Insolvenzplan oder Forderungsanmeldung._
+
+# 1. Zweck und Anwendungsfall
+
+Stimme widersprüchliche Offene-Posten-Listen mit Titeln, Fälligkeiten und tatsächlicher Liquidität ab. Der Schwerpunkt ist geeignet, weil eine falsche Einzelposition die Krisenentscheidung und Organhaftung verändern kann. Anders als `zahlungsunfaehigkeit-pruefung-17-inso` steht die dokumentierte Überleitung der Buchhaltungsdaten in eine symmetrische Dreiwochenrechnung mit Zu- und Abflüssen im Mittelpunkt; kein weiteres allgemeines Insolvenzreife-Gutachten.
+
+## 2. Eingaben
+
+Lies stichtagsbezogene OP-Listen, Konten, freie Kreditlinien, Rechnungen, Zahlungsvereinbarungen, Titel, Zustellungen, Vollstreckungsmaßnahmen und gesicherte Zuflüsse. Erfasse Rechtsträger, Rolle, Stichtag, Datenstand, Beurteilungszweck und bereits laufende Pflichten. Eine gebündelte Rückfrage bei entscheidenden Lücken, dann Teilrechnung mit klarer Unsicherheit. Originaldaten niemals überschreiben.
+
+## 3. Ablauf und Rechenlogik
+
+1. Gib jedem Posten eine ID. Überleitung: Buchbetrag, Dublette, Gutschrift, bereits bezahlter Teil, objektiver Bestand, Fälligkeit, Einforderung, Stundung, Titel und Vollstreckungsstand. Verbinde jede Korrektur mit Beleg, Datum und Begründung. Bloßes Bestreiten ist kein Streichungsgrund und Prozessrisiko kein pauschaler Bewertungsabschlag.
+2. Bei streitigem vorläufig vollstreckbarem Titel prüfe Vollstreckungsvoraussetzungen und tatsächlich eingeleitete Vollstreckung. Bei erfüllten Voraussetzungen den Nennwert ansetzen. Bei Einstellung oder Änderung der Vollstreckung neu prüfen, nicht automatisch null setzen. Untitulierte streitige Forderungen anhand objektiver Rechtslage bewerten; ungelöste Rechtsfragen in getrennten vollständigen Szenarien zeigen.
+3. Trenne sofort verfügbare Mittel von gebundenen Konten, bereits ausgeschöpften Linien und bloß erhofften Krediten. Eigene Forderungen nicht mit Nennwert als Bargeld behandeln. Zusage, Abrufbedingungen, Verfügbarkeit und Zuflussdatum dokumentieren.
+4. Erstelle den Anfangsstatus: verfügbare Mittel gegen am Stichtag fällige Verbindlichkeiten. Danach Dreiwochenbrücke: Anfangsmittel plus gesicherte Zuflüsse gegen Anfangsverbindlichkeiten plus im selben Zeitraum neu fällige und eingeforderte Verbindlichkeiten. Zeige daneben die zeitliche Verteilung. Bei Fortschreibung vermindert eine Zahlung Zahlungsmittel und offenen Posten; in der kumulierten Bedarfsrechnung nicht dieselbe Zahlung nochmals abziehen.
+5. Rechne Deckung und Lücke mit offenem Nenner: Lücke geteilt durch den jeweiligen Gesamtbedarf, nicht durch Aktiva. Nullbedarf gesondert behandeln. Kontrolliere Summen, negative Bestände, doppelte Mittel und Stichtagssprünge. Eine spätere Zahlung ist im rückblickenden Beweisfall relevant, aber nicht automatisch bereits am Stichtag sicher prognostizierbar.
+6. Würdige Zahlungseinstellung eigenständig. Ein rechnerisch günstiger Endtag beseitigt weder frühere Insolvenzreife noch Organpflichten automatisch. Keine starre Entwarnung aus einem einzelnen Prozentwert; Reichweite der gewählten Methode und fehlende Daten nennen. Überschuldung und drohende Zahlungsunfähigkeit getrennt halten.
+7. Bei möglicher Antragspflicht unverzüglich Entscheidung und Prüfung durch die verantwortliche Person anstoßen. Dreiwochenhöchstfrist ist keine freie Wartezeit. Keine Zahlung priorisieren oder ausführen, keinen Antrag stellen und keine Stundung vereinbaren.
+
+## 4. Quellenpflicht
+
+Am 14.09.2026 geprüft: [Paragraf 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html), [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html).
+
+BGH, Urteil vom 23.01.2025, Az. IX ZR 229/22, [amtlicher Leitsatz](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=1152&nr=140413&pos=16): Nennwert bei erfüllten Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung. BGH, Urteil vom 19.12.2017, Az. II ZR 88/16, [amtliche Entscheidung, Leitsatz 2](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2017-12-19&Gericht=bgh&Sort=6&anz=26&nr=43965&pos=13): Neue Fälligkeiten innerhalb des Dreiwochenzeitraums gehören in die Liquiditätsbilanz. Die damalige Haftungsnorm nicht ungeprüft auf heutige Zahlungen übertragen.
+
+Bei Verwendung zeitlich maßgebliche Rechtslage prüfen. Gericht, Entscheidungsform, Datum, Aktenzeichen, URL und belegte Passage nennen; die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzrecht/references/zitierweise.md) ist optional ergänzend. Nur verifizierte Passagen zitieren, keine Literatur aus Erinnerung.
+
+## 5. Ausgabeformat
+
+Erstelle `ergebnis.md` mit Sachverhalt, OP-Überleitung, Titelprüfung, Anfangsstatus, Dreiwochenbrücke, Gegenrechnung und ausformulierter Entscheidungsvorlage mit Eskalationsbedarf. Vollständige Sätze, keine Gutachtenskelette; jede Zahl mit Quelle und Stichtag. Exportstandard: Times New Roman, 11 pt, dezimal. Datenstand und Freigabevorbehalt nennen.
+
+## 6. Beispiel
+
+„Die Buchhaltung hat einen bestrittenen Vollstreckungstitel gelöscht und künftige Löhne nicht berücksichtigt. Prüfen Sie die Überleitung und ob die angekündigten Geldeingänge die Lücke tatsächlich schließen.“
+
+---
+
 ## Skill: `sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege`
 
 _Für Sanierungsgewinn — IV-Haftung für versäumte Paragraph 3a-Anträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzrecht. Route: sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege._
@@ -1120,64 +1160,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
----
-
-## Skill: `inso-glaeubigerausschuss-zustimmung-spezial`
-
-_Für InsO: Gläubigerausschuss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Insolvenzrecht. Route: inso-glaeubigerausschuss-zustimmung-spezial._
-
-# Inso: Gläubigerausschuss
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: Zuerst den im Skilltitel bezeichneten InsO- oder StaRUG-Tatbestand im aktuellen Gesetzestext prüfen. Eröffnungsantrag nach Paragraf 13 InsO, Gläubigerantrag nach Paragraf 14 InsO und Antragspflicht organschaftlicher Vertreter nach Paragraf 15a InsO strikt trennen; Steuerrecht, IDW-Standards oder Auslandsrecht nur bei einer konkreten Schnittstelle ergänzen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Inso: Glaeubigerausschuss` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Spezialwissen: Inso: Gläubigerausschuss
-- **Normen-/Quellenanker:** InsO.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ---
 

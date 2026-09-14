@@ -1,77 +1,23 @@
-# Produktrecht — Schnellstart
+# 1. Produktsicherheit und Haftung getrennt entscheiden
 
-Wenn du das hier öffnest, willst du Produktsicherheit, Haftung, Warnung, Rückruf oder Launch-Freigabe schnell nach Risiko und Nachweis entscheiden.
+Lies zuerst Produktbeschreibung, Prüfbericht, Beschwerden und den konkreten Auftrag. Erfasse Produkt, Charge, Softwareversion, Verkaufsstaaten, Vertriebszeitraum und Rolle des Nutzers. Hersteller, Einführer und Händler nicht austauschen. Priorisiere bei einem plausiblen Sicherheitsrisiko die Sicherungsentscheidung; warte mit deren Vorbereitung nicht auf eine vollständige Schadensermittlung. Rückfragen nur zu Angaben, die Umfang oder Art der nächsten Maßnahme wirklich verändern.
 
-Kernauftrag: Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und Launch-Review. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Betroffene Einheiten und Gefahr
 
-## 1. Sofortstart nach Eingangslage
+Beschreibe den Fehlermechanismus, die vorhersehbare Nutzung und das mögliche Schadensereignis. Unterschiedliche Chargen oder Versionen nur mit technischem Beleg ausschließen. Erstelle einen Mengenabgleich: hergestellt, im eigenen Lager, bei Händlern, bei Verbrauchern und bereits zurückgeholt. Eine Absatzsperre schützt gegen weitere Verkäufe, erreicht aber keine bereits ausgelieferten Geräte. Ein bestandener früherer Test widerlegt nicht automatisch neue Vorfallbefunde.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Produkt und Rolle, Fehler und Risiko, Pflichten und Belege wählen; ohne konkreten Auftrag mit Produkt und Rolle beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bestimme zuerst die anwendbaren Produktvorschriften einschließlich spezieller Unionsregeln. Die Verordnung (EU) 2023/988 ist nicht pauschal die einzige Rechtsgrundlage jedes Produkts. Für ihren Anwendungsbereich insbesondere Artikel 9 Absatz 8 anhand der Herstellerrolle prüfen: notwendige Korrekturmaßnahmen, Verbraucherinformation und Unterrichtung der betroffenen Marktüberwachungsbehörden über das Safety-Business-Gateway sind verschiedene Schritte. Behörde nicht ohne Zuständigkeitsprüfung mit einer zentralen Informationsstelle gleichsetzen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Produkt und Rolle, Fehler und Risiko, Pflichten und Belege und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Rückruf praktisch entwerfen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Unterscheide Lagerquarantäne, Rücknahme aus dem Vertrieb und Rückruf bei Verbrauchern. Ordne jeder Maßnahme Verantwortlichen, betroffene Einheiten, Kommunikationsweg und überprüfbaren Abschlussnachweis zu. Bei identifizierbaren Käufern direkte Information vorbereiten; eine alleinige Meldung auf der Website reicht nicht als Ersatz für erreichbare Kunden. Für nicht identifizierte Käufer zusätzliche geeignete Kanäle nach Artikel 35 prüfen.
 
-## 2. Fachlicher Direktstart
+Eine Rückrufanzeige nach Artikel 36 muss Produkt und Charge erkennbar machen, die Gefahr verständlich benennen und klare Schritte einschließlich Nutzungsstopp sowie Abhilfe erklären. Verharmlosende Formulierungen vermeiden. Fehlende Produktabbildung oder Kundenkontaktstelle als konkret zu ergänzende Veröffentlichungslücke markieren. Eine kostenlose, praktisch nutzbare Rückgabe- und Abhilfelösung ausarbeiten; keine gefährliche Eigenreparatur empfehlen. Für die konkrete Abhilfe den vollständigen Artikel 37 prüfen. Versand oder Behördenmeldung nur als Entwurf kennzeichnen, solange kein belegter Vollzug vorliegt.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Produkt, welche Charge, welche Version und welche Nutzung sind betroffen.
-2. Kernprüfung in einem Durchgang: Welche Sicherheitserwartung war im Zeitpunkt des Inverkehrbringens berechtigt; Welche Warnung, Anleitung, Norm oder Beobachtungslage trägt die Entscheidung.
-3. Belege und Engpass zusammenführen: Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung; besonders kritisch ist: Gefahr für Leben, Gesundheit oder erhebliche Sachwerte ist nicht ausgeschlossen.
-4. Erstes Arbeitsprodukt liefern: Launch-Matrix, Rückrufmemo, Haftungsanalyse, Behördenantwort oder Verteidigungsschreiben erstellen.
+## 1.3. Schaden und Nachweise
 
-## 3. Kernroute
+Bei einem Haftungsauftrag Fehler, Schaden am Produkt, sonstigen Sachschaden, Personenschaden und Kausalität getrennt erfassen. Sicherheitsmaßnahme und Haftungsanerkenntnis nicht gleichsetzen. Defekte Exemplare, Testdaten, Warnfassungen und Produktionsnachweise erhalten. Für Anspruchsgrundlage, Herstellerbegriff, Beweislast und maßgebliches Übergangsrecht aktuelle amtliche Quellen prüfen; eine neue Richtlinie nicht ohne Prüfung der zeitlichen Anwendung wie geltendes nationales Haftungsrecht behandeln.
 
-1. Produkt und Rolle: Hersteller, Importeur, Händler, Fulfilment, Plattform, Betreiber oder Geschädigter bestimmen.
-2. Fehler und Risiko: Konstruktion, Fabrikation, Instruktion, Software, Update, Cyberrisiko und vorhersehbare Verwendung trennen.
-3. Pflichten und Belege: technische Norm, Test, Anleitung, Warnung, Reklamation, Produktbeobachtung und Marktüberwachung prüfen.
-4. Reaktion: Korrektur, Warnung, Rückruf, Behördenmeldung, Kundenkommunikation und Beweissicherung planen.
-5. Arbeitsprodukt: Launch-Matrix, Rückrufmemo, Haftungsanalyse, Behördenantwort oder Verteidigungsschreiben erstellen.
+## 1.4. Ergebnis kontrollieren
 
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | ProdHaftG Paragraf 1; ProdHaftG Paragraf 3; ProdHaftG Paragraf 4 |
-| Rechtsprechung | BGH, Urteil vom 16.06.2009 - VI ZR 107/08; BGH, Urteil vom 05.02.2013 - VI ZR 1/12 |
-| Tatbestand | Hersteller, Importeur, Händler, Fulfilment, Plattform, Betreiber oder Geschädigter bestimmen |
-| Beweislast | Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung |
-| Rechtsfolge | Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Produkt und Rolle | Hersteller, Importeur, Händler, Fulfilment, Plattform, Betreiber oder Geschädigter bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fehler und Risiko | Konstruktion, Fabrikation, Instruktion, Software, Update, Cyberrisiko und vorhersehbare Verwendung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichten und Belege | Technische Norm, Test, Anleitung, Warnung, Reklamation, Produktbeobachtung und Marktüberwachung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Reaktion | Korrektur, Warnung, Rückruf, Behördenmeldung, Kundenkommunikation und Beweissicherung planen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Launch-Matrix, Rückrufmemo, Haftungsanalyse, Behördenantwort oder Verteidigungsschreiben erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- ProdHaftG Paragraf 1: verschuldensunabhängige Haftung des Herstellers.
-- ProdHaftG Paragraf 3: Fehlerbegriff und berechtigte Sicherheitserwartung.
-- ProdHaftG Paragraf 4: Herstellerbegriff.
-- GPSR Artikel 5: allgemeine Sicherheitsanforderung.
-- Paragraf 12 ProdHaftG Verjährung: 3 Jahre kenntnisabhängig (Verletzung, Schaden, Hersteller); Paragraf 13 ProdHaftG: 10 Jahre absolute Erlöschen ab Inverkehrbringen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 9 ProdSG Meldepflicht: Unverzüglich bei Kenntnis von Risiko an BAuA über Safety Business Gateway; Verstoß Paragraf 39 ProdSG bis 100.000 EUR Bußgeld; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 16.06.2009 - VI ZR 107/08: Ein Konstruktionsfehler liegt vor, wenn das Produkt unter dem bei Inverkehrbringen nach Wissenschaft und Technik objektiv möglichen und zumutbaren Sicherheitsstandard bleibt; eine überlegene Alternative muss praktisch serienreif sein.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf.
-7.2. Norm: ProdHaftG Paragraf 1; ProdHaftG Paragraf 3 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Produkt und Rolle“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Sicherheitserwartung war im Zeitpunkt des Inverkehrbringens berechtigt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Produkt und Rolle“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Gefahr für Leben, Gesundheit oder erhebliche Sachwerte ist nicht ausgeschlossen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere den verlangten Rückrufentwurf, die Freigabevorlage oder Haftungsbewertung in vollständigen Sätzen. Ein ungelöstes erhebliches Risiko erlaubt keine vorbehaltlose Launch-Freigabe. Dokumentiere, welche technischen Annahmen den betroffenen Umfang tragen und welche Prüfung noch aussteht. Quellen mit Artikel beziehungsweise Paragraf und tatsächlichem Abrufdatum angeben; keine erfundenen Fristen oder Entscheidungen. Bei fehlendem Zugriff den Sicherheitsplan trotzdem aus den gesicherten Fakten vorbereiten und die rechtliche Lücke benennen. Formatiere dezimal, bei Export Times New Roman 11 pt. Werkstatt und Spezialskills sind optionale Ergänzungen, keine Voraussetzung.

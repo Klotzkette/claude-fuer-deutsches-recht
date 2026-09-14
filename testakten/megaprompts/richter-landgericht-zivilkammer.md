@@ -413,7 +413,7 @@ Berufungsverfahren: Zulässigkeit Paragraf 511, Berufungsbegründung Paragraf 52
 ## Rolle
 
 
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht. Erstinstanzliche Zuständigkeit nach Paragrafen 23 und 71 GVG von der Berufungszuständigkeit nach Paragraf 72 GVG trennen; Sonderzuweisungen beachten. Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -421,7 +421,7 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 
 ## Pflichtschritte
 
-1. Statthaftigkeit und Zulässigkeit der Berufung prüfen: Berufungssumme über sechshundert Euro oder Zulassung (Paragraf 511 Absatz 2 ZPO), funktionelle Zuständigkeit des Landgerichts gegen amtsgerichtliche Urteile (Paragraf 119 GVG).
+1. Statthaftigkeit und Zulässigkeit der Berufung prüfen: Wert des Beschwerdegegenstandes über 1.000 Euro oder Zulassung im Urteil nach Paragraf 511 Absatz 2 ZPO. Übergangsrecht nach Paragraf 47 EGZPO zuerst prüfen: Über 600 Euro genügt nach altem Recht, wenn die Entscheidung bis 31. Dezember 2025 verkündet beziehungsweise ohne Verkündung der Geschäftsstelle übergeben wurde oder die maßgebliche mündliche Verhandlung bis dahin geschlossen war; im schriftlichen Verfahren zählt stattdessen der Schriftsatzstichtag. Funktionelle Zuständigkeit gegen amtsgerichtliche Zivilurteile nach Paragraf 72 GVG einschließlich Sonderzuständigkeiten prüfen.
 2. Fristen kontrollieren: Berufungsfrist von einem Monat (Paragraf 517 ZPO) und Begründungsfrist von zwei Monaten (Paragraf 520 Absatz 2 ZPO), jeweils ab Zustellung des Urteils.
 3. Berufungsbegründung auf die Anforderungen des Paragraf 520 Absatz 3 ZPO prüfen: bestimmte Berufungsanträge sowie Rechtsfehler oder konkrete Anhaltspunkte für Zweifel an den Feststellungen.
 4. Prüfungsumfang nach den Paragrafen 513 und 529 ZPO bestimmen; Bindung an die erstinstanzlichen Feststellungen und Präklusion neuen Vorbringens nach Paragraf 531 Absatz 2 ZPO beachten.
@@ -436,10 +436,11 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ## Anker-Rechtsprechung
 
 - BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- Amtlich geprüft am 14. September 2026: [Paragraf 511 ZPO](https://www.gesetze-im-internet.de/zpo/__511.html), [Paragraf 47 EGZPO](https://www.gesetze-im-internet.de/zpoeg/__47.html), [Paragraf 72 GVG](https://www.gesetze-im-internet.de/gvg/__72.html) sowie [Paragraf 23 GVG](https://www.gesetze-im-internet.de/gvg/__23.html) und [Paragraf 71 GVG](https://www.gesetze-im-internet.de/gvg/__71.html).
 
 ## Prüfungsschema in Stufen
 
-1. Statthaftigkeit und funktionelle Zuständigkeit klären: Berufungssumme über sechshundert Euro oder Zulassung (Paragraf 511 ZPO), Landgericht als Berufungsgericht nach Paragraf 119 GVG.
+1. Statthaftigkeit und funktionelle Zuständigkeit klären: anwendbare Fassung nach Paragraf 47 EGZPO bestimmen, dann Beschwerdewert oder Zulassung nach Paragraf 511 Absatz 2 ZPO prüfen. Genau 1.000 Euro überschreiten die aktuelle Wertgrenze nicht. Das Landgericht ist nach Paragraf 72 GVG Berufungsgericht, soweit keine Sonderzuständigkeit eingreift.
 2. Fristen und Form prüfen: Einlegung binnen eines Monats (Paragraf 517 ZPO), Begründung binnen zwei Monaten (Paragraf 520 Absatz 2 ZPO), Anforderungen des Paragraf 520 Absatz 3 ZPO an die Begründung.
 3. Prüfungsumfang bestimmen (Paragrafen 513, 529 ZPO): Bindung an die erstinstanzlichen Feststellungen, soweit keine konkreten Anhaltspunkte für Zweifel bestehen; neues Vorbringen nur im Rahmen des Paragraf 531 Absatz 2 ZPO.
 4. Entscheidungsweg wählen: bei offensichtlicher Aussichtslosigkeit Zurückweisungsbeschluss nach vorherigem Hinweis (Paragraf 522 Absatz 2 ZPO), sonst Berufungsurteil (Paragraf 540 ZPO).

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "memorandums-ersteller",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__271.html",
+      "checked_on": "2026-09-14",
+      "supports": "Vereinbarte Leistungszeit im individuellen Prüffall."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der ganze Mini nannte den Vier-Teile-Aufbau im Kernauftrag, lieferte aber beliebige Produkte und eine Subsumtionszeile. Auch der gelesene Aufbauskill hält den speziellen Aufbau nicht durch.",
+    "changes": [
+      "Vier Teile mit korrespondierenden Ein-Satz-Fragen und Antworten verbindlich gemacht.",
+      "Dokumentreferenzen und Auswirkungen offener Tatsachen in die Sacharbeit aufgenommen."
+    ],
+    "sha256": "c59c1a19b2b692ddb78a14220dc89faa1d94aee6411fc8cb22af9a37ca2c7ec3"
+  },
+  "selection": {
+    "positive": [
+      "Erstellen Sie ein Vier-Teile-Memo zur Fälligkeit aus Vertrag und E-Mail.",
+      "Überarbeiten Sie die Kurzantworten unseres Entscheidungsmemos anhand widersprüchlicher Belege."
+    ],
+    "negative": [
+      "Schreiben Sie nur eine höfliche organisatorische Erstantwort zur Terminvergabe.",
+      "Erstellen Sie eine Klageschrift mit bestimmten Anträgen statt eines internen Memos."
+    ]
+  },
+  "cases": [
+    {
+      "id": "vorfaellige-lieferforderung",
+      "request": "Erstellen Sie ergebnis.md als Vier-Teile-Memorandum für die Einkaufsleitung zum 14.09.2026. Vollständiger Sachverhalt: Der unterschriebene Kaufvertrag vom 01.09.2026 bestimmt in Ziffer 3 die Lieferung am 30.09.2026. Die Käuferin verlangt mit E-Mail vom 12.09.2026 Lieferung spätestens am 15.09.2026. Der Verkäufer hat darauf nicht reagiert. Es gibt keine weiteren Abreden oder Umstände, aus denen ein anderer Liefertermin folgen könnte. Die Einkaufsleitung fragt, ob sie Lieferung bereits am 15.09.2026 verlangen kann. Die beiden Dokumentinhalte sind hier vollständig wiedergegeben; Dateien existieren nicht.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Memo enthält Sachverhalt, eine Ein-Satz-Frage, eine zugeordnete Ein-Satz-Antwort und gesonderte rechtliche Ausführungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Vertrag und einseitige spätere E-Mail werden als unterschiedliche Quellen behandelt; eine Terminänderungsvereinbarung wird nicht erfunden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Antwort verneint anhand der vereinbarten Leistungszeit einen belegten Anspruch auf Lieferung bereits am 15.09.2026 und stimmt mit der Begründung überein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "memo-vier-teile-aufbau"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 122 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-vergaberecht`.
+Diese Vollprüfung enthält top-8 von 123 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-vergaberecht`.
 
 ## Inhaltsverzeichnis
 

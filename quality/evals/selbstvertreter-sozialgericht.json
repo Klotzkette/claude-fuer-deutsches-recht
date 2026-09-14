@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "selbstvertreter-sozialgericht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/sgg/__86b.html",
+      "checked_on": "2026-09-14",
+      "supports": "Einstweilige Anordnung zur vorläufigen Leistung, auch vor Klageerhebung; Abgrenzung zu Anordnung oder Wiederherstellung aufschiebender Wirkung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Bei erstmals abgelehnten existenzsichernden Leistungen hilft eine bloße Aussetzung des Ablehnungsbescheids nicht.",
+    "changes": [
+      "Erstbewilligung und Entziehung vorhandener Leistungen unterschieden.",
+      "Tatsächliche Mittellosigkeit mit verfügbaren Belegen erhoben.",
+      "Widerspruch und Eilantrag ohne unnötiges Abwarten vorbereitet."
+    ],
+    "sha256": "4949a3996f5c6f3d396adfe73e18851dd8e3ac34101eaf982e527bff6f61c556"
+  },
+  "selection": {
+    "positive": [
+      "Das Jobcenter lehnt meinen Erstantrag ab und ich habe kein Geld mehr; bereiten Sie einen Eilantrag vor.",
+      "Ordnen Sie meinen Sozialgerichtsfall nach Bescheid, Widerspruch und aktuellem Leistungsbedarf."
+    ],
+    "negative": [
+      "Fechten Sie einen Einkommensteuerbescheid beim Finanzgericht an.",
+      "Erstellen Sie eine Klage wegen verweigerten Wohngelds ohne Prüfung des Verwaltungsrechtswegs."
+    ]
+  },
+  "cases": [
+    {
+      "id": "erstantrag-akute-mittellosigkeit",
+      "request": "Ich bin alleinstehend und habe erstmals Bürgergeld beantragt. Das Jobcenter hat am 10. September 2026 wegen angeblich fehlender Kontoauszüge abgelehnt; eine frühere Bewilligung besteht nicht. Die angeforderten vollständigen Auszüge habe ich nachweislich am 8. September hochgeladen. Mein Widerspruch ist seit 11. September anhängig. Heute, am 14. September, habe ich 20 Euro auf dem Konto und fünf Euro Bargeld, kein anderes Vermögen oder Einkommen und keine erreichbare Hilfe. Die Monatsmiete von 480 Euro ist offen. Auszüge, Hochladebestätigung, Ablehnung und Mietvertrag kann ich beifügen. Erstellen Sie ergebnis.md als verständlichen gerichtlichen Entwurf mit Anlagenplan. Ich habe noch keine Klage erhoben.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis zielt auf eine vorläufige positive Leistungsanordnung nach Paragraf 86b Absatz 2 SGG und nicht allein auf die aufschiebende Wirkung gegen die erstmalige Ablehnung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Anspruch und Dringlichkeit werden getrennt aus rechtzeitig hochgeladenen Unterlagen einerseits und verfügbaren 25 Euro sowie offener Miete andererseits begründet, ohne weitere Einnahmen zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Entwurf kann trotz noch nicht erhobener Klage vorbereitet werden; er verlangt kein Abwarten einer Widerspruchsentscheidung und ordnet die konkret vorhandenen Nachweise als Anlagen zu.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "eilantrag-buergergeld-jobcenter"
+    }
+  ]
+}

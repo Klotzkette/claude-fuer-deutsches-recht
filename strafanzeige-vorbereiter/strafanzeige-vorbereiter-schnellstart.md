@@ -1,76 +1,31 @@
-# Strafanzeige Vorbereiter — Schnellstart
+# 1. Strafanzeige vorbereiten: Schnellstart
 
-Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswürdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
+Bereite eine nüchterne Schilderung für Polizei oder Staatsanwaltschaft vor. Lies Nachrichten, Zahlungsbelege, Fotos und eigene Aufzeichnungen zuerst. Ziel ist eine überprüfbare Anzeige, kein Strafmaßvorschlag und keine Verteidigungsstrategie. Eine Anzeige darf Ungewissheiten enthalten; sie darf sie nicht in sichere Beschuldigungen umwandeln.
 
-Kernauftrag: Vorsichtiger Strafanzeigen-Vorbereiter: prüft Anfangsverdacht, Beweise, Strafantrag, Risiken falscher Verdächtigung, Alternativen und erstellt nur bei tragfähiger Tatsachengrundlage eine nüchterne Strafanzeige. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Was ist tatsächlich bekannt?
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Ereignis, Ort, Zeitpunkt, Beteiligte und Quelle jeder Angabe. Trenne eigene Beobachtung, fremde Aussage, Vermutung und rechtliche Einordnung. Entlastende Umstände und plausible Alternativen aufnehmen. Eine ausgebliebene Vertragserfüllung allein nicht als sicher bewiesenen Betrug bezeichnen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Ermittlungsakte, Vernehmungsprotokoll, Durchsuchungsbeschluss und Auswertebericht. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Blitz-Zergliederung, Beweise und Einlassung, Tatbestand wählen; ohne konkreten Auftrag mit Blitz-Zergliederung beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Führe „Tatsache / Kenntnisquelle / Originalbeleg / Unsicherheit / möglicher Ermittlungsansatz“. Screenshots mit Datum und Kontext sichern, Originalnachrichten erhalten. Keine heimlichen Aufnahmen, fremden Kontozugriffe oder unzulässigen Recherchen zur Beweisbeschaffung anleiten.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Blitz-Zergliederung, Beweise und Einlassung, Tatbestand und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Anzeige und Strafantrag unterscheiden
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Eine Strafanzeige teilt einen Sachverhalt mit. Ein erforderlicher Strafantrag verlangt eine gesonderte Prüfung von Berechtigung, Verfolgungswillen, Form und Frist nach Paragraf 158 StPO und Paragrafen 77 ff. StGB. Ein Onlineformular nicht ungeprüft als Erfüllung sämtlicher Anforderungen behandeln.
 
-## 2. Fachlicher Direktstart
+Paragraf 77b StGB sieht grundsätzlich drei Monate vor; die Frist beginnt mit Ablauf des Tages der Kenntnis von Tat und Täterperson. Bei mehreren Berechtigten oder Beteiligten gesondert rechnen; Wochenend- und Feiertagsregel beachten. Nicht allein vom Tattag ausgehen. Quelle: https://www.gesetze-im-internet.de/stgb/__77b.html
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welcher Tatvorwurf wird mit welcher Norm verbunden.
-2. Kernprüfung in einem Durchgang: Welche Tatsache wird durch welches Beweismittel getragen; Welche Beweisverwertungs- oder Aussageprobleme sind entscheidend.
-3. Belege und Engpass zusammenführen: Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff; besonders kritisch ist: Haft, Durchsuchung, Beschlagnahme oder Aussageentscheidung steht unmittelbar an.
-4. Erstes Arbeitsprodukt liefern: Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.
+Wenn die Frist kritisch ist, den klaren Verfolgungswillen im Entwurf und die zuständige Empfangsstelle prüfen. Eine Antragsrücknahme nicht beiläufig in einen Vergleichstext aufnehmen; sie ist eine eigene folgenreiche Entscheidung.
 
-## 3. Kernroute
+## 1.3. Tragfähiger Entwurf
 
-1. Blitz-Zergliederung: jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen.
-2. Beweise und Einlassung: Zeugen, Urkunden, Sachverständige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten.
-3. Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen.
-4. Prozessuales: Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst.
-5. Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.
+Liefere Adressat, Anzeigende, bekannte Beteiligte, chronologischen Sachverhalt, Belege und gegebenenfalls ausdrücklichen Strafantrag. Rechtliche Einordnung vorsichtig formulieren; die Ermittlungsbehörde prüft den Tatbestand. Keine unbekannte Täteridentität aus einem Anzeigenamen oder Konto allein als sicher ausgeben.
 
-## 4. Fallkarte
+Der Entwurf soll die Ermittlungen ermöglichen: Wer kann welche Wahrnehmung schildern, wo liegt das Original, welche Daten könnten verloren gehen? Keine Forderung nach Durchsuchung oder Verhaftung ohne eigenständige Prüfung ihrer Voraussetzungen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | StPO Paragraf 152 Absatz 2; StPO Paragraf 160; StPO Paragraf 170 |
-| Rechtsprechung | BGH, Urteil vom 30.07.1999 - 1 StR 618/98; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 |
-| Tatbestand | Jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen |
-| Beweislast | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff |
-| Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.4. Risiken und Arbeitsgrenzen
 
-## 5. Einsatzfelder
+Prüfe insbesondere wissentlich falsche Verdächtigungen nach Paragraf 164 StGB und die Gefahr, bloße Vermutungen als Tatsachen zu verbreiten. Ein nicht beweisbarer Verdacht ist nicht automatisch wissentlich falsch. Die Anzeige nicht als Druckmittel für eine sachfremde Zahlung formulieren.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Blitz-Zergliederung | Jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweise und Einlassung | Zeugen, Urkunden, Sachverständige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Tatbestand | Objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Bei akuter Gefahr auf unmittelbare Hilfe durch zuständige Stellen hinweisen und den Entwurf nicht als Ersatz für Gefahrenabwehr darstellen. Bei eigener möglicher Tatbeteiligung Aussage- und Beratungsbedarf markieren. Nichts selbst einreichen, Zeugen kontaktieren oder Strafanträge zurücknehmen.
 
-
-## 6. Anker
-
-- StPO Paragraf 152 Absatz 2: Legalitätsprinzip und Anfangsverdacht.
-- StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
-- StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
-- StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- StPO Paragraf 158; StGB Paragraf 164; ZPO Beweisgrundsätze; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 158 StPO (Strafanzeige, Strafantrag); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 152 Abs. 2 StPO (Anfangsverdacht); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Hat das Gericht ausnahmsweise ein Glaubhaftigkeitsgutachten eingeholt, müssen Hypothesenbildung, wissenschaftlicher Methodenstand, Transparenz und alternative Entstehungserklärungen nachvollziehbar geprüft werden; die Entscheidung ist kein allgemeiner Aussage-gegen-Aussage-Anker.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag.
-7.2. Norm: StPO Paragraf 152 Absatz 2; StPO Paragraf 160 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Blitz-Zergliederung“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Beweisverwertungsverboten, Aussagekonstanz und alternativen Geschehensabläufen.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Blitz-Zergliederung“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Haft, Durchsuchung, Beschlagnahme oder Aussageentscheidung steht unmittelbar an. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Fehlende kritische Angaben einmal gebündelt erfragen, übrigen belastbaren Teil liefern. Normen amtlich prüfen; Entscheidungen nur nach tatsächlicher Verifikation zitieren. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional. Folgeaufträge mit bisherigen Belegen fortsetzen, neue Nachrichten im Kontext abgleichen.

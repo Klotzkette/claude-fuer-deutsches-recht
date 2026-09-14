@@ -1,10 +1,10 @@
-# Krankenhausrecht — Schnellstart
+# 1. Krankenhausrecht: Schnellstart
 
 Wenn du das hier öffnest, willst du einen Krankenhausplanungs-, Finanzierungs-, Entgelt-, Versorgungs- oder Aufsichtsvorgang institutionsbezogen statt als bloßen Behandlungsfehler bearbeiten.
 
 Kernauftrag: Super-Plugin für deutsches Krankenhausrecht: Planung, Finanzierung, Entgelte, Reform, Qualität, MD-Prüfung, Klinikbetrieb und Rechtsstreit. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Sofortstart nach Eingangslage
+## 1.1. Sofortstart nach Eingangslage
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
 - Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
@@ -15,14 +15,14 @@ Ohne verwertbares Material höchstens eine gebündelte Frage zu Krankenhaus und 
 
 Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-## 2. Fachlicher Direktstart
+## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welcher Standort, Versorgungsauftrag und Plan- oder Zulassungsstatus gelten am Stichtag.
 2. Kernprüfung in einem Durchgang: Welche Bedarfs-, Qualitäts-, Personal- oder Strukturvoraussetzung ist entscheidend und belegt; Welche Finanzierungsquelle und welches Entgeltregime tragen die konkrete Position.
 3. Belege und Engpass zusammenführen: Darlegungs- und Nachweisfrage für Krankenhausplanung, -finanzierung und Krankenhausbetrieb: Welche Finanzierungsquelle und welches Entgeltregime tragen die konkrete Position; besonders kritisch ist: Planstatus, Leistungsgruppe, Budgetjahr oder zuständige Stelle ist unklar.
 4. Erstes Arbeitsprodukt liefern: Planungsmatrix: Standort, Leistung, Bedarf, Qualität, Personal, Erreichbarkeit, Vergleichsbewerber, Auswahl und Beleg.
 
-## 3. Kernroute
+## 1.3. Kernroute
 
 1. Krankenhaus und Versorgungsauftrag: Träger, Standort, Fachabteilung, Planstatus, Zulassung, Leistungsgruppe und Einzugsgebiet feststellen.
 2. Planung und Qualität: Bedarf, Erreichbarkeit, Fallzahlen, Personal, Struktur, Kooperation, Prognose und Auswahlentscheidung prüfen.
@@ -30,7 +30,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 4. Betrieb und Aufsicht: Organisation, Hygiene, Notfallversorgung, Meldeweg, Qualitätsabweichung und aufsichtsrechtliche Maßnahme trennen.
 5. Arbeitsprodukt: Planantrag, Auswahlvermerk, Budgetposition, Schiedsstellenantrag, Aufsichtsantwort oder gerichtlicher Antrag erstellen.
 
-## 4. Fallkarte
+## 1.4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
@@ -41,36 +41,29 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Rechtsfolge | Planantrag, Auswahlvermerk, Budgetposition, Schiedsstellenantrag, Aufsichtsantwort oder gerichtlicher Antrag erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
-## 5. Einsatzfelder
+## 1.5. Förderstatus und Finanzierung abgleichen
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Krankenhaus und Versorgungsauftrag | Träger, Standort, Fachabteilung, Planstatus, Zulassung, Leistungsgruppe und Einzugsgebiet feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Planung und Qualität | Bedarf, Erreichbarkeit, Fallzahlen, Personal, Struktur, Kooperation, Prognose und Auswahlentscheidung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Finanzierung und Entgelt | Investition, Betriebskosten, Budget, Erlös, Zu- oder Abschlag, Prüfung, Verhandlung und Schiedsstelle ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Bei Investitionen Krankenhausplan, Investitionsprogramm, Förderbescheid und tatsächliche Auszahlung getrennt erfassen. Nach [Paragraf 8 Absatz 1 KHG](https://www.gesetze-im-internet.de/khg/__8.html) ist bei Investitionen nach Paragraf 9 Absatz 1 Nummer 1 auch die Aufnahme in das Investitionsprogramm maßgeblich. Die Planaufnahme allein bewilligt keinen beliebigen Baubetrag. Rechne Projektkosten minus belegte Förderung minus zugesagte Eigen- und Drittmittel; unverbindliche Förderhoffnungen als offene Finanzierung kennzeichnen. Förderfähige Kosten und Gesamtprojektkosten müssen nicht übereinstimmen.
 
 
-## 6. Anker
+## 1.6. Anker
 
 - KHG Paragraf 1, Paragraf 6 und Paragraf 8: bedarfsgerechte Versorgung, Krankenhauspläne und Investitionsförderung.
 - KHEntgG und BPflV: Budget, Entgelte, Zu- und Abschläge sowie Vereinbarungs- und Schiedsstellenverfahren.
 - SGB V Paragraf 39: Krankenhausbehandlung nach Erforderlichkeit und Versorgungsstufe.
 - SGB V Paragraf 108 und Paragraf 109: zugelassene Krankenhäuser und Versorgungsverträge.
-- BGB Paragraf 630f Dokumentationspflicht des Behandelnden, Sofort, dauerhaft, vollständig; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragraf 630h Abs. 3 Beweislastumkehr bei Dokumentationsfehlern (vermutet: nicht durchgeführt); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Datenschutz-Grundverordnung Art. 5, 17, 18 Datenschutz, Speicherbegrenzung, Löschpflicht nach Ablauf; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- SGB X Paragraf 84 Aufbewahrung sozialrechtliche Unterlagen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Förderauflagen, vorzeitigen Maßnahmenbeginn, Zweckbindung und Verwendungsnachweis aus dem konkreten Bescheid und Landesrecht prüfen; keine einheitliche Förderquote oder Frist unterstellen.
 
-## 7. Antwortform
+## 1.7. Antwortform
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Planantrag, Auswahlvermerk, Budgetposition, Schiedsstellenantrag, Aufsichtsantwort oder gerichtlicher Antrag erstellen.
-7.2. Norm: KHG Paragraf 1, Paragraf 6 und Paragraf 8; KHEntgG und BPflV mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Krankenhaus und Versorgungsauftrag“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Darlegungs- und Nachweisfrage für Krankenhausplanung, -finanzierung und Krankenhausbetrieb: Welche Finanzierungsquelle und welches Entgeltregime tragen die konkrete Position. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Bedarfs-, Qualitäts-, Personal- oder Strukturvoraussetzung ist entscheidend und belegt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Planungsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Planantrag, Auswahlvermerk, Budgetposition, Schiedsstellenantrag, Aufsichtsantwort oder gerichtlicher Antrag erstellen.
+1.7.2. Norm: KHG Paragraf 1, Paragraf 6 und Paragraf 8; KHEntgG und BPflV mit dem entscheidenden Merkmal verbinden.
+1.7.3. Aktenfund: Für „Krankenhaus und Versorgungsauftrag“ Tatsache, Datum und Fundstelle nennen.
+1.7.4. Beweis: Darlegungs- und Nachweisfrage für Krankenhausplanung, -finanzierung und Krankenhausbetrieb: Welche Finanzierungsquelle und welches Entgeltregime tragen die konkrete Position. Offene Folgen aussprechen.
+1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Bedarfs-, Qualitäts-, Personal- oder Strukturvoraussetzung ist entscheidend und belegt.
+1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Planungsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
 
-## 8. Stop
+## 1.8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Planstatus, Leistungsgruppe, Budgetjahr oder zuständige Stelle ist unklar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Unklarer Standort, Leistungsgruppe, Budgetjahr oder Förderstatus begrenzt die jeweilige Aussage, nicht den gesamten Prüfbericht. Kennzeichne Reformvorhaben, geltendes Recht und Übergangsregelung getrennt; konkrete Jahresvorgaben amtlich verifizieren. Keine eigenmächtige Förderbeantragung, Bestellung, Mittelverwendung oder Einreichung. Ein festgestellter Bedarf ersetzt keinen Finanzierungsnachweis. Die Werkstatt ist optional. Vollständige Sätze; Export in Times New Roman mit 11 Punkt.

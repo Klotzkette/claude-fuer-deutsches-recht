@@ -59,18 +59,29 @@ def call_anthropic(prompt: str) -> dict | None:
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
         return None
-    client = Anthropic(api_key=api_key)
+    client = Anthropic(api_key=api_key, timeout=45, max_retries=2)
     msg = client.messages.create(
         model="claude-haiku-4-5-20251001",  # schneller, gut genug fuer Pass/Fail
         max_tokens=512,
         system=JUDGE_SYSTEM_PROMPT,
         messages=[{"role": "user", "content": prompt}],
     )
-    text = msg.content[0].text  # type: ignore
+    if msg.stop_reason != "end_turn":
+        return {"passed": None, "reason": "Prüferausgabe unvollständig", "evidence": "Keine abgeschlossene Bewertung"}
+    text = "".join(block.text for block in msg.content if block.type == "text")
     try:
         # Faengt Antworten ab, die in ```json gewrapped sind
-        text = text.strip().lstrip("```json").lstrip("```").rstrip("```")
-        return json.loads(text)
+        text = text.strip()
+        if text.startswith("```json\n") and text.endswith("```"):
+            text = text[8:-3].strip()
+        elif text.startswith("```\n") and text.endswith("```"):
+            text = text[4:-3].strip()
+        result = json.loads(text)
+        if not isinstance(result, dict) or type(result.get("passed")) is not bool:
+            raise ValueError("passed muss ein boolescher Wert sein")
+        if not all(isinstance(result.get(k), str) and result[k].strip() for k in ("reason", "evidence")):
+            raise ValueError("Begründung und Beleg fehlen")
+        return result
     except Exception as e:
         return {"passed": None, "reason": f"unparseable JSON: {e}", "evidence": text[:300]}
 
@@ -80,6 +91,7 @@ def main() -> int:
     ap.add_argument("skill_output", help="Datei mit dem Skill-Output")
     ap.add_argument("criterion", help="Datei mit dem Pass/Fail-Kriterium (eine Zeile oder Markdown)")
     ap.add_argument("--out", help="Schreibt JSON-Bewertung in Datei")
+    ap.add_argument("--allow-remote", action="store_true", help="Externe Übermittlung ausdrücklich freigeben")
     args = ap.parse_args()
 
     skill_text = Path(args.skill_output).read_text(encoding="utf-8")
@@ -90,17 +102,22 @@ def main() -> int:
     print(prompt[:600] + "..." if len(prompt) > 600 else prompt)
     print("--- /Prompt ---\n")
 
+    if not args.allow_remote:
+        print("Nicht bewertet: --allow-remote fehlt. Für zwei Prüfer quality-lab.py verwenden.")
+        return 2
     result = call_anthropic(prompt)
     if result is None:
         print("[dry-run] Kein ANTHROPIC_API_KEY und/oder anthropic-SDK nicht installiert.")
         print("        Prompt oben kann manuell an ein Modell uebergeben werden.")
-        return 0
+        return 2
 
     print("--- Judge-Ergebnis ---")
     print(json.dumps(result, indent=2, ensure_ascii=False))
     if args.out:
         Path(args.out).write_text(json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8")
         print(f"\nErgebnis geschrieben: {args.out}")
+    if result.get("passed") is None:
+        return 2
     return 0 if result.get("passed") else 1
 
 

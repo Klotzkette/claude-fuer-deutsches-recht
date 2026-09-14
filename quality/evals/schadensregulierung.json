@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "schadensregulierung",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__86.html",
+      "checked_on": "2026-09-14",
+      "supports": "Anspruchsübergang nur im Umfang erbrachter Versicherungsleistung und Schutz verbleibender Ansprüche."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die fachlich dichte Unternehmens- und Versichererperspektive blieb erhalten; nach Kaskozahlung war die Gläubigertrennung noch zu konkretisieren.",
+    "changes": [
+      "Leistungsabrechnung, Übergangsbetrag und Restanspruch ergänzt.",
+      "Keine Abfindung fremder übergegangener Forderungen ohne Berechtigung.",
+      "Allgemeine Bedienhinweise für das Byte-Limit gekürzt."
+    ],
+    "sha256": "42322423010d04d8c66558f1dae89269b05fe90786c727f2730fbd612105f8e0"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie als Haftpflichtversicherer die Schadenpositionen und richtigen Zahlungsempfänger.",
+      "Entwerfen Sie eine Teilregulierung nach bereits erfolgter Kaskozahlung."
+    ],
+    "negative": [
+      "Berechnen Sie nur die Versicherungsprämie einer neuen Kaskopolice.",
+      "Verfassen Sie einen strafrechtlichen Einspruch gegen den Unfallstrafbefehl."
+    ]
+  },
+  "cases": [
+    {
+      "id": "kasko-restforderung-keine-doppelzahlung",
+      "request": "Erstellen Sie ergebnis.md aus Sicht des Haftpflichtversicherers des verantwortlichen Unternehmens. Haftung und erforderlicher Reparaturaufwand von 4.000 Euro sind unstreitig. Der private Fahrzeugeigentümer E hat eine Rechnung über 4.000 Euro bezahlt. Sein Kaskoversicherer K erstattete nach vorgelegter Abrechnung 3.500 Euro; 500 Euro Selbstbehalt verblieben. E fordert vom Haftpflichtversicherer nochmals 4.000 Euro und bietet dafür die Abfindung sämtlicher Ansprüche an. K meldet zugleich 3.500 Euro Regress an. Es gibt keine Abtretung, Rückübertragung oder Vollmacht von K an E. Weitere Schäden oder Mitverschulden liegen nicht vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet 3.500 Euro dem übergegangenen Anspruch K und 500 Euro dem verbleibenden Anspruch E zu.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Vermeidet eine Gesamtzahlung von 7.500 Euro oder eine erneute volle Reparaturzahlung an E.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Begrenzt einen Vergleich mit E auf dessen eigene verbleibende Ansprüche und behandelt K nicht ohne Vollmacht als miterledigt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "regress-und-anspruchsuebergang"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "richter-amtsgericht-straf",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__261.html",
+      "checked_on": "2026-09-14",
+      "supports": "Überzeugungsbildung aus dem Inbegriff der Hauptverhandlung, nicht allein aus Aktenkenntnis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__203.html",
+      "checked_on": "2026-09-14",
+      "supports": "Hinreichender Tatverdacht als Maßstab der Eröffnung des Hauptverfahrens."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die alte Fassung produzierte standardmäßig einen Anklagesatz und vermischte staatsanwaltschaftliche und gerichtliche Perspektiven.",
+    "changes": [
+      "Eröffnungsmaßstab von Überzeugungsbildung in der Hauptverhandlung getrennt.",
+      "Tatsächlich eingeführten Beweisstoff und bloße Aktenkenntnis unterschieden.",
+      "Vorläufige Würdigung ohne erfundene Vernehmung oder Schuldbeweislast konkretisiert."
+    ],
+    "sha256": "f4d6c53c12c32550452cec61f2f53bfa0d14edafe664fab4b86cea84eb35bbb9"
+  },
+  "selection": {
+    "positive": [
+      "Entwirf einen strafrichterlichen Vermerk zum noch nicht eingeführten Beweisstoff.",
+      "Prüfe die Eröffnung anhand Anklage und entlastender Ermittlungsunterlagen."
+    ],
+    "negative": [
+      "Formuliere die staatsanwaltschaftliche Anklage nach Ermittlungsabschluss.",
+      "Entwirf die Verteidigungsstrategie für einen Beschuldigten im Erstgespräch."
+    ]
+  },
+  "cases": [
+    {
+      "id": "aktenvermerk-nicht-verhandlungsstoff",
+      "request": "Erstelle ergebnis.md als vorläufigen strafrichterlichen Vermerk während laufender Hauptverhandlung am Amtsgericht. Angeklagt ist eine Sachbeschädigung an einem geparkten Auto. Der einzige bisher vernommene Augenzeuge erklärt, er habe aus 40 Metern nur eine Person in dunkler Jacke gesehen und könne den Angeklagten nicht identifizieren. In der Ermittlungsakte liegt außerdem ein polizeilicher Vermerk, eine Nachbarin habe den Angeklagten erkannt. Die Nachbarin ist noch nicht geladen oder vernommen; der Vermerk wurde nicht verlesen oder sonst in die Hauptverhandlung eingeführt. Die Beweisaufnahme ist noch offen. Der Angeklagte schweigt. Prüfe, ob der Vermerk bereits eine positive Täterfeststellung trägt, und formuliere den nächsten Aufklärungsschritt, ohne das künftige Beweisergebnis zu erfinden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verwendet den nicht eingeführten Polizeivermerk nicht als bereits verwertbare positive Identifizierung aus der Hauptverhandlung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erkennt die begrenzte Identifizierungsleistung des vernommenen Zeugen und behandelt das Schweigen nicht als Beweis der Täterschaft.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bereitet die Vernehmung der Nachbarin und Klärung ihrer Wahrnehmungsbedingungen vor, ohne ihre Aussage vorwegzunehmen oder trotz offener Beweisaufnahme einen fertigen Schuldspruch zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "05-beweiswuerdigung-strafrecht"
+    }
+  ]
+}

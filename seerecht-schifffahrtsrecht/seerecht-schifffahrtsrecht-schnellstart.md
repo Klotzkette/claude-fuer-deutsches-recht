@@ -1,77 +1,31 @@
-# Seerecht Schifffahrtsrecht — Schnellstart
+# 1. See- und Schifffahrtsrecht: Schnellstart
 
-Wenn du das hier öffnest, willst du einen Transport-, Fracht- oder Außenhandelsfall nach Haftungsregime, Rügefristen, Dokumentenlage und Exportkontrolle ordnen.
+Ordne den konkreten Schifffahrtsvorgang nach Schiff, Vertrag, Anspruch und Hafenstaat. Lies Vertrag, Konnossement, Registerauszug, Schadenbericht oder Arrestunterlagen zuerst. Ein Seefall ist nicht automatisch ein CMR-Straßentransportfall. Liefere das angeforderte Memo oder den konkreten Entwurf.
 
-Kernauftrag: See- und Schifffahrtsrecht-Plugin für Schiffskauf, Schiffbau, Werften, Schiffshypothek, Schiffsregister, Arrest, Wrack, Bergung, Charter und ITLOS. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Schiff und Rechtsbeziehungen
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Schiffsname und eindeutige Kennung, Flagge, Register, Aufenthaltsort, geplante Abfahrt sowie Eigentümer, Reeder, Ausrüster, Charterer und Vertragspartner. Trenne Schiffskauf, Schiffbau, Bareboat- oder Zeitcharter, Seefracht, Bergung und hoheitliche Festhaltung.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Transport- und Vertragskette, Regimewahl, Schaden und Fristen wählen; ohne konkreten Auftrag mit Transport- und Vertragskette beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Rechtswahl, Gerichtsstand und Schiedsklausel vollständig lesen. Deutsches Recht nicht allein wegen einer deutschen Auftraggeberin unterstellen. Bei ausländischem Hafenrecht die notwendige örtliche Prüfung konkret benennen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Transport- und Vertragskette, Regimewahl, Schaden und Fristen und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Ladungsschaden und Begrenzung
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei Seefracht Übernahme, Ablieferung, Schadensort, Verpackung, Konnossementsangaben und tatsächliches Gewicht sichern. Vertraglicher und ausführender Verfrachter sowie berechtigter Anspruchsteller getrennt bestimmen. Bei multimodaler Beförderung die einschlägige Teilstrecke begründen.
 
-## 2. Fachlicher Direktstart
+Paragraf 504 HGB begrenzt bei anwendbarem deutschem Seefrachtrecht grundsätzlich auf den höheren Betrag aus 666,67 Rechnungseinheiten je Stück oder Einheit und zwei Rechnungseinheiten je Kilogramm Rohgewicht des verlorenen oder beschädigten Gutes. Containerangaben und Umrechnungstag gesondert prüfen; nicht die straßengüterrechtliche Grenze von 8,33 übernehmen. Quelle: https://www.gesetze-im-internet.de/hgb/__504.html
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Haftungsregime gilt zwingend für die konkrete Teilstrecke.
-2. Kernprüfung in einem Durchgang: Wurden Schäden fristgerecht und formwirksam vorbehalten oder gerügt; Welcher Höchstbetrag gilt und was durchbricht ihn.
-3. Belege und Engpass zusammenführen: Nachweisachse Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen; besonders kritisch ist: Eine Reklamations- oder Verjährungsfrist läuft in unter zwei Wochen ab.
-4. Erstes Arbeitsprodukt liefern: Haftbarhaltung: Transport, Schaden, Vorbehalt, Anspruchsgrund, Betrag, Frist.
+Zeige beide Rechenwege, verwendetes Gewicht, Stückzahl, Kursquelle und offenen Schadenwert. Haftungsgrund, Haftungsgrenze und möglicher Wegfall der Begrenzung sind unterschiedliche Prüfungen. Rüge, Anspruchsanmeldung und Verjährung nach dem tatsächlich einschlägigen Regime getrennt kalendarisch erfassen.
 
-## 3. Kernroute
+## 1.3. Schiffstransaktion und Sicherung
 
-1. Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen.
-2. Regimewahl: CMR, HGB, See- oder Multimodalrecht mit zwingendem Charakter bestimmen.
-3. Schaden und Fristen: Schadensfeststellung, Vorbehalte, Reklamations- und Verjährungsfristen kalendarisch sichern.
-4. Haftung: Haftungsgrund, Höchstbeträge, Durchbrechung bei qualifiziertem Verschulden und Regresskette ordnen.
-5. Arbeitsprodukt: Haftbarhaltung, Reklamation, Regressschreiben, Klage oder Exportkontrollvermerk ausformulieren.
+Bei Kauf oder Bau Identität des Schiffes, Leistungsstand, Übergabe, Belastungen, Rang, Zahlungsvoraussetzungen und Dokumentenfreigabe abgleichen. HGB Paragrafen 480 bis 482 nicht pauschal als Schiffslieferungsrecht ausgeben. Fehlende Registerunterlagen sperren die Aussage über Lastenfreiheit, nicht jede Vertragsanalyse.
 
-## 4. Fallkarte
+Bei Arrest Forderung, Schuldner, Eigentum am Schiff, örtliche Zuständigkeit, Arrestgrund und Vollziehungsweg prüfen. Abfahrtstermin priorisieren. Eine hoheitliche Hafenfesthaltung, ein zivilrechtlicher Arrest und eine vertragliche Zurückhaltung sind verschieden. Keine beliebige Sicherheit als sicher akzeptiertes Freigabemittel versprechen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | HGB Paragraf 407 ff; CMR; HGB Paragraf 452 ff |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen |
-| Beweislast | Nachweisachse Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen |
-| Rechtsfolge | Haftbarhaltung, Reklamation, Regressschreiben, Klage oder Exportkontrollvermerk ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.4. Übergabefähiges Produkt
 
-## 5. Einsatzfelder
+Liefere „Rechtsbeziehung / Anspruch / Beleg / Regime / Betrag oder Sicherheitsbedarf / Frist / nächster Schritt“ und einen ausformulierten Außenentwurf oder internen Vermerk. Bei Fristdruck die sofort notwendige Sicherungsprüfung zuerst, übrige Arbeit weiterführen.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Transport- und Vertragskette | Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Regimewahl | CMR, HGB, See- oder Multimodalrecht mit zwingendem Charakter bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schaden und Fristen | Schadensfeststellung, Vorbehalte, Reklamations- und Verjährungsfristen kalendarisch sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Haftung | Haftungsgrund, Höchstbeträge, Durchbrechung bei qualifiziertem Verschulden und Regresskette ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Haftbarhaltung, Reklamation, Regressschreiben, Klage oder Exportkontrollvermerk ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Eine gebündelte Rückfrage bei fehlender Identität, Rechtswahl oder Ladungsangabe. Amtliche Normen und einschlägige Übereinkommen in geltender Fassung prüfen; Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Fundstelle. Keine Quelle oder ausländische Rechtslage erfinden.
 
-## 6. Anker
-
-- HGB Paragraf 407 ff.: Frachtvertrag, Haftung des Frachtführers und Schadensvermutungen.
-- CMR: zwingendes Haftungsregime des grenzüberschreitenden Straßengütertransports mit Art. 17 ff. und Art. 32.
-- HGB Paragraf 452 ff.: multimodaler Transport und Teilstreckenhaftung.
-- HGB Paragraf 476 ff. und Seehandelsrecht: Seefracht, Konnossement und Haftungsgrenzen.
-- BGB Paragraf 433: Kaufvertrag; Pflichten des Verkäufers; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 434-442: Sachmangel; Rechtsmangel; Haftungsausschluss; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 437-441: Mängelrechte des Käufers; Nacherfüllung; Rücktritt; Minderung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- HGB Paragrafen 480-482: Schiffslieferung im Kontext des Handelsrechts; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Haftbarhaltung, Reklamation, Regressschreiben, Klage oder Exportkontrollvermerk ausformulieren.
-7.2. Norm: HGB Paragraf 407 ff; CMR mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Transport- und Vertragskette“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Schäden fristgerecht und formwirksam vorbehalten oder gerügt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Haftbarhaltung“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Eine Reklamations- oder Verjährungsfrist läuft in unter zwei Wochen ab. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Keine Arrestbeantragung, Zahlung, Garantie oder Schiffsfreigabe selbst auslösen. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; neue Vertragsfassungen und Hafenereignisse bei Folgeaufträgen abgleichen.

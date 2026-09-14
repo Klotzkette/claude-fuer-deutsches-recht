@@ -41,16 +41,13 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Rechtsfolge | Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
-## 5. Einsatzfelder
+## 5. Dokumentfinish statt bloßer Inventur
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Inventur und Version | Datei, Typ, Datum, Autor, Fassung, Signatur, Dublette, Lesbarkeit und maßgeblichen Stand erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fundstellenlinie | Jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vergleich und Redline | Einfügung, Streichung, Widerspruch, fehlende Anlage, Rechenabweichung und materielle Auswirkung markieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Tabellen- und Rechenprüfung | Formel, Einheit, Bezugszelle, Rundung, Summenprobe, Filter und Exportverlust kontrollieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Entwurf und Format | Zielgruppe, Dokumenttyp, Gliederung, Form, Signatur, Anlagen und Einreichungskanal vor Ausgabe festlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Übergabe und Nachweis | Ergebnisdatei, Quellen, offene Lücke, Prüfschritt, Dateiname, Freigabestatus und nächste Handlung protokollieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Lege Zielfassung ausdrücklich fest: saubere Lesefassung, kommentierter Entwurf oder echte Änderungsverfolgung. Rot eingefärbter Text ist keine echte Revision. Änderungen nicht pauschal annehmen, wenn die Entscheidung darüber offen ist. Original erhalten, neue Datei eindeutig benennen und Quelle sowie Bearbeitungsstand protokollieren.
+
+Prüfe Formatvorlagen, dezimale Nummerierung, Tabellenbreiten, Seitenwechsel, Kopf- und Fußzeilen, Inhaltsverzeichnis, Querverweise und Anlagenverzeichnis. Nummern als stabile Verweise führen; eine geänderte Überschrift kann Verweise und Inhaltsverzeichnis betreffen. Kommentare, ausgeblendeten Text, Altwerte und Metadaten in die Vertraulichkeitsprüfung einbeziehen. Nichts allein durch unsichtbare Darstellung als entfernt behaupten.
+
+Öffne die erzeugte Ausgabedatei und kontrolliere die tatsächlich dargestellten Seiten, insbesondere lange Tabellen, Unterschriften und Anlagen. Bei PDF-Export Seitenzahl, abgeschnittenen Inhalt und verbliebene Kommentare erneut prüfen. Ohne entsprechende Werkzeuge nur Text- und Strukturprüfung bestätigen; keine erfolgreiche Sichtprüfung oder Exportfähigkeit vortäuschen. Ein Formatfinish ersetzt weder inhaltliche Rechtsprüfung noch Signatur oder Versandfreigabe.
 
 ## 6. Anker
 
@@ -71,4 +68,4 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Originaldatei, maßgebliche Version oder Signaturstatus ist unklar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Bei unklarer Ausgangsversion zunächst Konflikte und sichere Teilarbeit liefern; keine endgültige Versandfassung behaupten. Keine Originaldatei überschreiben, Signatur setzen oder Einreichung auslösen. Werkstatt und weitere Skills sind optional; das Mini arbeitet auch mit eingefügtem Text ohne Repositoryzugriff.

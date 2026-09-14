@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "plugin": "notariat-alltag",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__53.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 2 regelt die Beschlussmehrheit, Absatz 3 die notarielle Beurkundung der Satzungsänderung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__7.html",
+      "checked_on": "2026-09-14",
+      "supports": "Einzahlungsvoraussetzungen der Anmeldung: Viertel des einzelnen Baranteils und insgesamt Hälfte des gesetzlichen Mindeststammkapitals."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/beurkg/__17.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 2a: regelmäßige Zweiwochenzeit und Bereitstellung durch den beurkundenden oder mit ihm verbundenen Notar im erfassten Verbraucherfall."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__800.html",
+      "checked_on": "2026-09-14",
+      "supports": "Dingliche Unterwerfung gegen den jeweiligen Grundstückseigentümer und Eintragung, keine automatische persönliche Mitschuld."
+    }
+  ],
+  "mini_review": {
+    "verdict": "retained",
+    "reason": "Die vollständige Prüfung gegen den Grundschuld-Spezialskill bestätigt die konkrete Trennung von Eigentum, Darlehen, persönlicher Haftung und dinglicher Unterwerfung; auch die übrigen sechs Vorgangswege enthalten eigenständige Arbeitsschritte und Amtsgrenzen.",
+    "changes": [],
+    "sha256": "4b207e8677eb88100beac46267a2cc09d9f52a361887d299bbfe42c6a15a3f4b"
+  },
+  "selection": {
+    "positive": [
+      "Bereite die Grundschuldbestellung aus Bankauftrag und Eigentümerangaben vor.",
+      "Gleiche die Unterlagen zur GmbH-Kapitalerhöhung für den notariellen Vollzug ab."
+    ],
+    "negative": [
+      "Entscheide als Registergericht durch Zwischenverfügung über ein Hindernis der bereits eingereichten Anmeldung.",
+      "Prüfe ausschließlich die gerichtliche Vollstreckung aus einer bereits errichteten notariellen Urkunde."
+    ]
+  },
+  "cases": [
+    {
+      "id": "miteigentuemerin-ohne-darlehen",
+      "request": "Erstelle ergebnis.md als internen Vorbereitungsvermerk im Notariat. Eheleute Anna und Paul Kern besitzen je zur Hälfte das Grundstück Blatt 412, Gemarkung Linden, Flurstück 9. Nur Paul nimmt bei Bank B ein Darlehen über 240000 Euro auf. Bank B verlangt eine Buchgrundschuld über 240000 Euro mit 15 Prozent dinglichen Jahreszinsen und dinglicher Unterwerfung gegen den jeweiligen Eigentümer. Das übersandte Formular sieht zusätzlich die persönliche gesamtschuldnerische Haftung beider Ehegatten vor. Anna erklärt schriftlich, nur ihr Grundstücksrecht zur Verfügung stellen zu wollen; persönliche Haftung lehnt sie ab. Es gibt noch keine Einigung mit der Bank, keinen Termin und keine Vollmacht. Zeige die erforderlichen Entwurfsentscheidungen und formuliere eine konkrete Rückfrage an die Bank.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet die dingliche Belastung beider Anteile von der nur für Paul vereinbarten Darlehensschuld und behandelt Annas persönliche Haftung als ungelösten Widerspruch.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erfragt eine angepasste Bankvorgabe beziehungsweise ausdrückliche Klärung statt Annas persönliche Haftung ohne Zustimmung in einen freigegebenen Entwurf zu übernehmen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Stellt dingliche Unterwerfung und Registervollzug als vorzubereitende Schritte dar, ohne notarielle Erklärung, Prüfung der Originale oder Eintragung zu fingieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "grundschuld-buchgrundschuld-treuhand"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 115 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-sozialrecht`.
+Diese Vollprüfung enthält top-8 von 116 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-sozialrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -12,8 +12,8 @@ Diese Vollprüfung enthält top-8 von 115 Skills (gekürzt für das Arbeitsfenst
 4. **mandat-triage-sozialrecht** — Für Mandat Triage Sozialrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und näc…
 5. **fachanwalt-sozialrecht-orientierung** — Für Fachanwalt für Sozialrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risi…
 6. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
-7. **krankengeld-au-folgefeststellung-paragraf-46-sgb-v** — Prüft Krankengeld bei verspäteter oder lückenhafter Folgefeststellung der Arbeitsunfähigkeit, trennt Anspruchsentstehung…
-8. **grundsicherung-meldeversaeumnis-paragraf-32-sgb-ii** — Prüft Leistungsminderungen nach einem versäumten Jobcenter-Termin anhand von Paragraf 32 SGB II: wirksame Meldeaufforder…
+7. **em-rente-befundwiderspruch-und-leistungsfall** — Klärt widersprüchliche medizinische Leistungsbilder bei Erwerbsminderungsrenten durch Befundchronologie, Funktionsvergle…
+8. **krankengeld-au-folgefeststellung-paragraf-46-sgb-v** — Prüft Krankengeld bei verspäteter oder lückenhafter Folgefeststellung der Arbeitsunfähigkeit, trennt Anspruchsentstehung…
 
 ---
 
@@ -771,6 +771,56 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ---
 
+## Skill: `em-rente-befundwiderspruch-und-leistungsfall`
+
+_Klärt widersprüchliche medizinische Leistungsbilder bei Erwerbsminderungsrenten durch Befundchronologie, Funktionsvergleich und alternative Eintrittszeitpunkte. Für Reha- und Gutachtenkonflikte mit Beitragslücken, nicht für einen allgemeinen Rentenrechner oder Pflegegradprüfung._
+
+# 1. Befundwiderspruch und Rentenleistungsfall
+
+## 1.1. Zweck und Anwendungsfall
+
+Erarbeite eine Beweisstrategie, wenn Reha-Bericht, Behandler und Gutachten verschiedene tägliche Leistungsvermögen nennen und der Eintrittszeitpunkt über die Versicherungsvoraussetzungen entscheidet. Die langfristige Einkommenssicherung und der Aufwand der medizinischen Aktenauswertung begründen den Schwerpunkt. Anders als das allgemeine Restleistungsmodul verbindet dieser Skill konkrete Befundwidersprüche mit mehreren datierten Leistungsfallhypothesen.
+
+## 1.2. Eingaben
+
+Lies Bescheid, Widerspruchsbescheid und Zugang, Rentenantrag, Versicherungsverlauf, Reha-Entlassungsbericht, Gutachten und Verlaufsbefunde. Erfasse Geburtsdatum, frühere Tätigkeit, laufende Beschäftigung, Behandlung, Hilfsmittel, Wegefähigkeit und tatsächlich benötigte Pausen. Eine fehlende Unterlage löst eine gebündelte Nachfrage aus, keine Serie von Rückfragen.
+
+## 1.3. Ablauf und Checkliste
+
+### 1.3.1. Medizinische Zeitachse
+
+Ordne je Untersuchung Datum, Befund, Untersuchungsmethode, Funktionsfolge, tägliche Stunden, Regelmäßigkeit, Prognose und rückblickende Aussage zum Beginn zu. Trenne Patientenangabe, ärztliche Feststellung und rechtliche Bewertung. Weder Diagnose noch Arbeitsunfähigkeitsbescheinigung beweisen allein Erwerbsminderung. Eine Momentaufnahme und ein mehrmonatiger Verlauf sind nicht ungeprüft gleichwertig.
+
+### 1.3.2. Widerspruch auflösen statt Gutachten wählen
+
+Stelle mindestens die konkret kollidierenden Aussagen gegenüber: beispielsweise sechs Stunden leichte Arbeit im Reha-Bericht gegen zusätzliche unplanbare Liegepausen im späteren Befund. Prüfe, ob anderer Zeitraum, neue Erkrankung, andere Testbedingungen oder echte methodische Differenz vorliegen. Formuliere beantwortbare Gutachterfragen zu Pausenhäufigkeit, Dauerbelastbarkeit, Wechselwirkungen und rückwirkendem Beginn; keine gewünschte Antwort vorgeben.
+
+Unter drei Stunden, drei bis unter sechs Stunden und mindestens sechs Stunden täglich sind getrennte Kategorien des allgemeinen Arbeitsmarkts. Beurteile qualitative Einschränkungen nicht durch bloßes Zählen von Diagnosen. Eine schwere spezifische Leistungsbehinderung, ungewöhnliche Summierungswirkung oder fehlende übliche Arbeitsbedingungen bedarf konkreter Funktionsbelege. Schlechte Vermittlungschancen allein rechtfertigen bei mindestens sechs Stunden keine Rente. Teilzeitarbeitsmarkt und medizinische volle Erwerbsminderung getrennt prüfen.
+
+### 1.3.3. Eintrittszeitpunkt und Beitragsfenster
+
+Lege für jeden medizinisch vertretbaren Eintrittszeitpunkt eine eigene Zeile an: fünfjähriger Rückschauzeitraum, Pflichtbeitragsmonate, allgemeine Wartezeit, mögliche Verlängerungszeiten nach Paragraf 43 Absatz 4 SGB VI und erforderlicher Beleg. Kalendermonate nicht durch Tagesquoten ersetzen; keine doppelte Monatszählung. Antragstag, Beginn der Krankheit, Eintritt der Erwerbsminderung und Rentenbeginn nicht gleichsetzen. Rentenbeginn und Befristung erst nach Feststellung der maßgeblichen Voraussetzungen beurteilen.
+
+Erstelle für jeden entscheidenden offenen Befund eine Beweisfrage und den Einfluss einer positiven beziehungsweise negativen Antwort auf Anspruch und Zeitfenster. Amtsermittlung ersetzt keine tragfähigen Feststellungen; benenne das Risiko verbleibender Nichterweislichkeit. Keine medizinische Diagnose erfinden, keine Untersuchung oder Klage eigenmächtig veranlassen. Eilbedarf prioritär bearbeiten, nach einem Plausibilitätscheck den entscheidungsfähigen Teil liefern.
+
+## 1.4. Quellenpflicht
+
+Optional zur Vertiefung: [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-sozialrecht/references/zitierweise.md). Auch ohne Referenzzugriff gilt: Tragende Aussagen mit aktueller Norm und amtlicher Entscheidung samt Gericht, Form, Datum, Aktenzeichen und überprüfter Passage belegen; Literatur nur bei tatsächlich zugänglicher Quelle. [Paragraf 43 SGB VI](https://www.gesetze-im-internet.de/sgb_6/__43.html) trägt Stundenkategorien, Beitragsanforderung und Verlängerung; [Paragraf 103 SGG](https://www.gesetze-im-internet.de/sgg/__103.html) die gerichtliche Amtsermittlung.
+
+BSG, Urteil vom 11.12.2019, Az. B 13 R 7/18 R, [amtlicher Volltext](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2019/2019_12_11_B_13_R_07_18_R.pdf?__blob=publicationFile&v=3), Randnummern 17 bis 22: qualitative Einschränkungen und Abgrenzung zum allgemeinen Arbeitsmarktrisiko. Kein Automatismus durch viele Einzelbeschwerden. Quellenprüfung: 14.09.2026. Aktuelle Fassungen und zusätzliche Normen für Rentenbeginn und Fristen im konkreten Fall verifizieren.
+
+## 1.5. Ausgabeformat
+
+Liefere `ergebnis.md` mit Sachverhalt, Befundchronologie, Widerspruchsmatrix, alternativen Beitragsfenstern, ausformulierter Begründung und konkreten Gutachterfragen. Keine bloße Diagnosenliste oder Schriftsatzskelette. Vollständige Sätze, dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
+
+## 1.6. Beispiele
+
+Geeignet: Ein Reha-Bericht bescheinigt sechs Stunden, spätere Funktionsbefunde nur vier; bei späterem Leistungsfall fehlen Beitragsmonate. Erstellen Sie einen Beweisplan.
+
+Nicht geeignet: Berechnen Sie eine unstreitige Altersrente anhand der Entgeltpunkte.
+
+---
+
 ## Skill: `krankengeld-au-folgefeststellung-paragraf-46-sgb-v`
 
 _Prüft Krankengeld bei verspäteter oder lückenhafter Folgefeststellung der Arbeitsunfähigkeit, trennt Anspruchsentstehung, Mitgliedschaftserhalt, Arztkontakt und Zurechnung und erstellt eine taggenaue AU-, Fristen- und Beweismatrix für Widerspruch oder Klage._
@@ -802,55 +852,6 @@ _Prüft Krankengeld bei verspäteter oder lückenhafter Folgefeststellung der Ar
 ## 4. Ausgabe
 
 Liefere eine Tagesachse, eine Lücken- und Zurechnungsmatrix, eine Fristenampel und einen ausformulierten Widerspruch oder eine Klagebegründung mit konkreten Beweisangeboten.
-
----
-
-## Skill: `grundsicherung-meldeversaeumnis-paragraf-32-sgb-ii`
-
-_Prüft Leistungsminderungen nach einem versäumten Jobcenter-Termin anhand von Paragraf 32 SGB II: wirksame Meldeaufforderung, zulässiger Meldezweck, Belehrung, Zugang, wichtiger Grund, Härte, Minderungszeitraum und Eilrechtsschutz._
-
-# Meldeversäumnis in der Grundsicherung prüfen
-
-## Einsatzlage
-
-Der Leistungsberechtigte hat einen Termin beim Jobcenter oder einen angeordneten ärztlichen oder psychologischen Untersuchungstermin versäumt. Zu prüfen ist, ob eine Minderung nach Paragraf 32 SGB II oder nach drei aufeinanderfolgenden Meldeversäumnissen zusätzlich eine Folge nach Paragraf 7b SGB II rechtmäßig festgestellt wurde.
-
-## Normenanker
-
-- Paragraf 32 SGB II in der seit 1. Juli 2026 geltenden Fassung: wiederholtes Meldeversäumnis, 30 Prozent des maßgebenden Regelbedarfs und einmonatiger Minderungszeitraum.
-- Paragrafen 31a Absatz 2 bis 5 und 31b Absatz 1 und 4 SGB II: Anhörung, außergewöhnliche Härte, Kappungsgrenze, Beginn und Aufhebung.
-- Paragraf 65a Absatz 2 SGB II: Für ein Meldeversäumnis vor dem 1. Juli 2026 bleibt das bis 30. Juni 2026 geltende Recht maßgeblich.
-- Paragraf 59 SGB II in Verbindung mit Paragraf 309 SGB III: zulässiger Zweck und Inhalt der Meldeaufforderung.
-- Paragraf 7b Absatz 4 SGB II: gesonderte Erreichbarkeitsfolge nach drei aufeinanderfolgenden, nicht gerechtfertigten Meldeversäumnissen.
-- Paragrafen 24, 33, 37 und 40 SGB X sowie Paragrafen 84 und 86b SGG: Anhörung, Bestimmtheit, Bekanntgabe, Rücknahme, Widerspruch und Eilrechtsschutz.
-
-## Rechtsprechungsanker
-
-- BVerfG, Urteil vom 5. November 2019 - 1 BvL 7/16: Die Entscheidung betraf das damalige Sanktionsrecht. Ihre Aussagen zu Existenzminimum, Verhältnismäßigkeit, Härtefall und vorzeitiger Beendigung sind als verfassungsrechtliche Leitplanken zu verwenden, nicht als aktuelle Prozent- oder Fristenregel.
-- BSG, Urteil vom 3. September 2020 - B 14 AS 24/17 R: Eine Meldeaufforderung muss von der zuständigen Stelle ausgehen; die Aufteilung zentraler SGB-II-Aufgaben auf verschiedene Rechtsträger kann dem Grundsatz der Leistungen aus einer Hand widersprechen.
-- BSG, Urteil vom 29. April 2015 - B 14 AS 19/14 R: Meldezweck, Wirksamkeit der Aufforderung und jedes einzelne Meldeversäumnis sind getrennt zu prüfen. Die damalige Dauerregel ist durch den aktuellen Gesetzestext überholt.
-
-## Prüfprogramm
-
-1. Bescheid, Anhörung, Meldeaufforderung, Rechtsfolgenbelehrung und Zustellnachweis chronologisch ordnen.
-2. Prüfen, ob der konkrete Termin einem Zweck aus Paragraf 309 Absatz 2 SGB III diente und die auffordernde Stelle zuständig war.
-3. Zugang, hinreichend bestimmte Zeit- und Ortsangabe sowie eine konkrete, verständliche und zeitnahe Rechtsfolgenbelehrung feststellen.
-4. Wichtigen Grund anhand der Tatsachen und Belege prüfen, etwa Erkrankung, unzumutbare Anreise, Betreuungspflicht oder fehlenden Zugang. Keine bloße Plausibilitätsvermutung als Beweis ausgeben.
-5. Außergewöhnliche Härte und persönliche Anhörung nach Paragraf 31a SGB II eigenständig würdigen; Unterkunft und Heizung dürfen rechnerisch nicht gemindert werden.
-6. Höhe, Kappungsgrenze, Beginn, Dauer und Aufhebung der Minderung nach dem im Bescheidzeitraum geltenden Recht berechnen.
-7. Bei laufender Minderung Widerspruch und Antrag nach Paragraf 86b SGG entwerfen; Anordnungsgrund mit Kontostand, Fixkosten und drohendem konkretem Nachteil belegen.
-
-## Arbeitsergebnis
-
-Liefere eine Bescheidmatrix mit den Spalten Tatbestandsmerkmal, Aktenbeleg, Einwand und Rechtsfolge. Danach folgen Fristenblatt, bezifferte Leistungsdifferenz und ein unmittelbar verwendbarer Widerspruchs- oder Eilantragsbaustein. Bezeichne offen, ob die Prüfung Paragraf 32, Paragraf 7b oder eine Pflichtverletzung nach Paragraf 31 SGB II betrifft.
-
-## Belege und Aktenlücken
-
-- vollständiger Bescheid einschließlich Berechnungsbogen und Rechtsbehelfsbelehrung
-- Meldeaufforderung, Zustellnachweis und Rechtsfolgenbelehrung
-- Anhörung und Antwort des Leistungsberechtigten
-- Nachweise zum wichtigen Grund und zur außergewöhnlichen Härte
-- Bewilligungsbescheid, Kontoauszüge und aktuelle Bedarfsbelege für den Eilantrag
 
 ---
 

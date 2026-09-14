@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-medizinrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__249.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlichen Normauszug zum Vergleich mit dem Zustand ohne schädigendes Ereignis und erforderlichen Geldbetrag bei Personenverletzung geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__843.html",
+      "checked_on": "2026-09-14",
+      "supports": "Normtext zu Mehrbedarf, Geldrente, Kapitalabfindung bei wichtigem Grund und fehlendem Ausschluss durch Unterhaltspflicht Dritter gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__287.html",
+      "checked_on": "2026-09-14",
+      "supports": "Normtext zur Schätzung von Schaden und Höhe anhand konkreter Umstände geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_10/__116.html",
+      "checked_on": "2026-09-14",
+      "supports": "Anspruchsübergang bei Sozialleistungen gleicher Schadensart und gleichen Zeitraums sowie quotenbezogene Regelungen im Normtext geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__630h.html",
+      "checked_on": "2026-09-14",
+      "supports": "Normtext gelesen: Aufklärungsbeweis, Dokumentationsvermutung und besondere Voraussetzungen der Kausalitätsvermutung statt pauschaler vollständiger Beweislastumkehr."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2009-2&Gericht=bgh&Seite=9&anz=282&nr=47069&pos=274",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 03.02.2009, Az. VI ZR 183/08: amtlichen Leitsatz im Suchauszug zur Tabellenorientierung mangels abweichender konkreter Gesichtspunkte geprüft. Volltextabruf gesperrt; kein aktueller Lohn- oder spezieller Arzthaftungsanker."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der bisherige Schnellstart schrieb dem Behandler pauschal Beweislast für Dokumentation und Standard zu und blieb auf der Schadensseite abstrakt. Die Neufassung differenziert die gesetzlichen Vermutungen und führt Haushalt, Pflege und Leistungsträger eigenständig zusammen.",
+    "changes": [
+      "Pauschale Beweislastformel durch die konkreten Wirkungen des Paragrafen 630h ersetzt.",
+      "Haushaltsstunden, Pflegeleistungen und Sozialleistungskongruenz mit Doppelansatzkontrolle aufgenommen.",
+      "Fehlende medizinische Kausalität als Vorbehalt statt Stillstand behandelt; optionalen Vertiefungslink und Grenzen für Gesundheitsdaten ergänzt."
+    ],
+    "sha256": "5c341f1939b8fabe277bbbf05f0553a03b8722f8f8251839b022bdc33395639e"
+  },
+  "selection": {
+    "positive": [
+      "Nach einer Operationsfolge brauchen wir eine zeitabschnittsweise Rechnung über Haushaltshilfe und Angehörigenpflege mit Abgleich der Kassenleistungen.",
+      "Für die Klinikversicherung sollen Doppelansätze zwischen Pflegerechnungen und fiktivem Haushaltsausfall anhand der Tätigkeitsprotokolle geprüft werden."
+    ],
+    "negative": [
+      "Bestimmen Sie ausschließlich eine Schmerzensgeldspanne wegen eines Aufklärungsfehlers.",
+      "Entwerfen Sie einen Widerspruch gegen den Pflegegradbescheid, ohne Haftungs- oder Schadensersatzauftrag."
+    ],
+    "target_skill": "behandlungsfolgen-haushalt-pflege-abgleich"
+  },
+  "cases": [
+    {
+      "id": "operationsfolge-haushaltsstunden-pflegedienst",
+      "request": "Erstellen Sie ergebnis.md als nachvollziehbare Schadensaufstellung und Entwurf an die Klinikversicherung. Diese hat die vollständige Haftung für eine Operationsfolge und sämtliche hier beschriebenen funktionellen Einschränkungen schriftlich anerkannt; Schmerzensgeld und Zukunft sind nicht Gegenstand dieses Auftrags. Abzurechnen sind genau vier aufeinanderfolgende Wochen nach Entlassung im Mai 2026. Die Patientin führte schon vor der Operation wegen einer alten Schultererkrankung nur 21 Stunden Haushalt pro Woche selbst: Kochen 7, Reinigung 7, Wäsche 3 und Einkauf 4. Nach der Operation konnte sie weiterhin 7 Stunden Kochen und 3 Stunden Wäsche leisten, Reinigung und Einkauf dagegen gar nicht. Die früheren 21 Stunden und die Restfähigkeiten sind durch beide Seiten bestätigt. Eine Haushaltshilfe erledigte in allen vier Wochen jeweils 6 Stunden Reinigung zu erforderlichen 18 EUR je Stunde; die Rechnung über 432 EUR wurde bezahlt. Der Pflegedienst rechnete im selben Zeitraum 20 Stunden zu erforderlichen 30 EUR ab: laut Leistungsnachweis davon 4 Stunden Reinigung und 16 Stunden Körperpflege. Die Reinigung ergänzt die Haushaltshilfe, überschneidet sich mit ihr zeitlich nicht und ersetzt ausgefallene eigene Reinigungsstunden. Die Schwester übernahm darüber hinaus exakt die übrigen ausgefallenen Haushaltsstunden unentgeltlich. Für diese noch nicht durch bezahlte Kräfte gedeckten Stunden akzeptiert die Versicherung einen fiktiven Nettoansatz von 15 EUR. Die 16 Stunden Körperpflege waren ausschließlich operationsbedingt zusätzlich erforderlich, ohne vorbestehenden Pflegebedarf. Die Krankenkasse hat aufgrund einer bestandskräftigen Leistungsbewilligung genau 300 EUR für die im Zeitraum abgerechnete Körperpflege zu tragen und bereits erstattet; weitere Sozialleistungen, Ansprüche von Leistungsträgern, Haftungsquoten oder Zahlungen des Schädigers bestehen nicht. Bitte ordnen Sie die gemischte Pflegerechnung nachvollziehbar zu und beziffern Sie den verbleibenden Anspruch der Patientin, ohne das Schreiben zu versenden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Stundenrechnung ermittelt 11 ausgefallene eigene Haushaltsstunden je Woche und 44 Stunden insgesamt; sie setzt nicht die gesamten 21 früheren Wochenstunden als Ausfall an und berücksichtigt die Vorerkrankung nicht ein zweites Mal.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Haushaltsrechnung ordnet 24 Stunden beziehungsweise 432 EUR der Haushaltshilfe, 4 Stunden beziehungsweise 120 EUR dem Reinigungsanteil des Pflegedienstes und 16 Reststunden beziehungsweise 240 EUR der fiktiven Hilfe zu; sie ergibt 792 EUR ohne doppelte Stundenansätze.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der persönliche Pflegemehrbedarf beträgt 480 EUR aus 16 Stunden. Die 300 EUR Kassenleistung wird sachlich und zeitlich diesem Pflegeanspruch zugeordnet, nicht pauschal vom Haushalt oder nochmals vom Gesamtergebnis abgezogen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Die Aufstellung weist 1.272 EUR Gesamtschaden, 300 EUR übergegangenen Anteil und 972 EUR verbleibenden Eigenanspruch aus. Sie behandelt den Übergang als Frage der Anspruchsinhaberschaft und nicht als Wegfall des ursprünglichen Schadens.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Der Entwurf bleibt auf vier Wochen und materielle Schäden begrenzt, erfindet keine zusätzlichen Pflege- oder Zukunftsstunden und erklärt weder eine Abfindung noch einen bereits erfolgten Versand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "behandlungsfolgen-haushalt-pflege-abgleich"
+    }
+  ]
+}

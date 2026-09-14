@@ -1,77 +1,25 @@
-# Richter Amtsgericht Handelsregister — Schnellstart
+# 1. Registeranmeldung aus gerichtlicher Perspektive prüfen
 
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
+Lies zuerst Anmeldung, beigefügte Urkunden, aktuellen Registerstand und gegebenenfalls bisherigen Schriftwechsel. Bearbeite die angeforderte Eintragungsprüfung, Zwischenverfügung oder Beschwerdevorlage. Das Registergericht entwirft keinen Anteilskaufvertrag für eine Partei und entscheidet nicht ungefragt einen Organhaftungsprozess. Prüfe Zuständigkeit und funktionelle Bearbeitung anhand des konkreten Vorgangs, ohne eine interne Geschäftsverteilung zu erfinden.
 
-Kernauftrag: Handelsregisterrichter und Rechtspfleger: Ersteintragung Änderungen Löschung Zwischenverfügung Beschwerde Eintragungsfähigkeit Firmenrecht Vertretungsmacht Liquidation und Löschung von Amts wegen. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Eintragungstatsache und Nachweis
 
-## 1. Sofortstart nach Eingangslage
+Bestimme genau, welche Tatsache eingetragen werden soll: etwa Geschäftsführerwechsel, Vertretungsregel, Firma, Satzungsänderung oder Liquidation. Ordne Gesellschaft, Registerblatt, anmeldende Person, Erklärung und Nachweis jeweils zu. Anmeldung und zugrundeliegender Beschluss sind unterschiedliche Dokumente. Ein wirksamer Beschluss ersetzt nicht automatisch eine vollständige Anmeldung; eine formal korrekte Anmeldung beweist nicht jede materielle Voraussetzung.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Gesellschaftsvertrag, Gesellschafterliste, Beschlussprotokoll und Handelsregisterauszug. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten wählen; ohne konkreten Auftrag mit Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bei Geschäftsführerwechsel bisherige und neue Person, Bestellungszeitpunkt und Vertretungsumfang gegen Beschluss und Satzung abgleichen. GmbHG Paragraf 39 Absatz 2 verlangt die Urkunden über Bestellung beziehungsweise Beendigung der Vertretungsbefugnis. Fehlt eine Anlage, nicht ohne Weiteres behaupten, die Bestellung selbst habe nie stattgefunden. Umgekehrt eine behauptete Bestellung nicht ohne erforderlichen Nachweis als eintragungsreif behandeln. Notarielle Übermittlung ist kein Beleg dafür, dass jede Anlage tatsächlich enthalten war.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Hindernis konkret bezeichnen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Für jeden Mangel angeben, welche Eintragungsvoraussetzung betroffen ist, welche Unterlage fehlt oder widersprüchlich ist und wie der Antragsteller das Hindernis beheben kann. Nach FamFG Paragraf 382 Absatz 4 ist bei unvollständiger Anmeldung oder einem sonstigen behebbaren Hindernis eine angemessene Frist zu bestimmen. Eine Zwischenverfügung braucht deshalb einen konkreten Abhilfeweg, nicht nur „Unterlagen ergänzen“.
 
-## 2. Fachlicher Direktstart
+Behebbare Nachweislücke und materiell nicht tragfähige Anmeldung auseinanderhalten. Eine Zwischenverfügung nicht als Mittel verwenden, um rückwirkend einen nicht vorhandenen Sachverhalt zu fingieren. Angemessenheit der Frist anhand Beschaffungsaufwand und bisherigem Verfahren begründen; kein pauschales gesetzliches Zweiwochenmaß behaupten. Bei mehreren selbständigen Hindernissen jedes gesondert aufführen, damit die Reaktion vollständig sein kann.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
-2. Kernprüfung in einem Durchgang: Wer ist Organ, Gesellschafter, Vertreter oder wirtschaftlich Berechtigter; Welche Beschluss- oder Formanforderung ist Wirksamkeitsvoraussetzung.
-3. Belege und Engpass zusammenführen: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment; besonders kritisch ist: Notarielle Form oder Registerfrist ist ungeklärt.
-4. Erstes Arbeitsprodukt liefern: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+## 1.3. Entscheidung und Rechtsbehelf
 
-## 3. Kernroute
+Prüfe nach Eingang neuer Unterlagen, welche Hindernisse tatsächlich beseitigt sind. Eine vergangene Frist ersetzt nicht die Würdigung rechtzeitig oder inzwischen eingegangenen Materials. Eintragung, Zurückweisung und Zwischenverfügung unterscheiden: FamFG Paragraf 382 Absatz 1 knüpft die Wirksamkeit der Eintragung an ihren Vollzug; eine ablehnende Entscheidung ergeht nach Absatz 3 durch Beschluss. Nicht allein aus einem vorbereiteten Entwurf einen Registervollzug ableiten.
 
-1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
-2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
-3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
-4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
-5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+Bei Beschwerde Gegenstand, Beschwerdeberechtigung, Frist, Form und Abhilfe anhand der einschlägigen Vorschriften prüfen. Nachgereichte Nachweise ausdrücklich zuordnen. Materielle Gesellschafterstreitigkeiten nur soweit behandeln, wie sie die konkrete Registerentscheidung tragen; keine umfassende Rechtskraftwirkung einer Registerprüfung behaupten.
 
-## 4. Fallkarte
+## 1.4. Gerichtliches Arbeitsprodukt
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen |
-| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
-| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Gesellschaftsform, Registerlage | Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Satzung, Gesellschaftervereinbarung | Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Organpflichten, Treuepflichten | Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Transaktionsschritte, Notarform | Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
-- HGB Paragraf 105: offene Handelsgesellschaft.
-- GmbHG Paragraf 13: Rechtsnatur der GmbH.
-- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- Paragrafen 8 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 382 FamFG: Zwischenverfügung nur bei behebbaren Hindernissen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 58 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Artikel 103 Absatz 1 GG: rechtliches Gehör vor belastender Entscheidung sichern; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
-7.2. Regelungsanker: BGB Paragraf 705; HGB Paragraf 105 mit Risikozuweisung und Vollzug verbinden.
-7.3. Aktenfund: Für „Gesellschaftsform, Registerlage“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Ladungs- und Beschlussmängeln sowie der Vertretungsmacht.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Gesellschaftsform, Registerlage“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Notarielle Form oder Registerfrist ist ungeklärt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere einen vollständigen Verfügungs- oder Beschlussentwurf mit konkret bezeichnetem Hindernis, Abhilfe, angemessener Frist und geprüfter Belehrung. Offene Daten als Platzhalter kennzeichnen, keine Unterschrift oder Eintragung fingieren. Tragende Normen und gegebenenfalls Entscheidungen amtlich verifizieren; keine fremden Geschäftsverteilungsregeln oder ungesicherten Aktenzeichen übernehmen. Dezimal gliedern, Export in Times New Roman 11 pt. Weitere Skills sind optionale Vertiefungen; die Registerprüfung bleibt ohne Zugriff auf sie ausführbar.

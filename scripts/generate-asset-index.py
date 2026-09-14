@@ -57,7 +57,7 @@ def main() -> int:
         "",
         f"Stand: {version}, automatisch aktualisierte Asset-Übersicht",
         "",
-        "[Repository-Start](README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Skill-Gesamtübersicht](SKILLS.md) · [Testakten](testakten/README.md) · [Aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest)",
+        "[Repository-Start](README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Skill-Gesamtübersicht](SKILLS.md) · [Schwerpunkt-Prompts](SCHWERPUNKTE.md) · [Qualitätslabor](QUALITY.md) · [Testakten](testakten/README.md) · [Aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest)",
         "",
         "## Sammel-Assets",
         "| Asset | Verwendung |",
@@ -93,8 +93,8 @@ def main() -> int:
             [
                 f"### {label}",
                 "",
-                "| Plugin | Beschreibung | Werkstatt (Markdown) | Schnellstart (Markdown) | Plugin-ZIP | Navigation |",
-                "| --- | --- | --- | --- | --- | --- |",
+                "| Plugin | Beschreibung | Werkstatt (Markdown) | Schnellstart (Markdown) | Schwerpunkt (Markdown) | Plugin-ZIP | Navigation |",
+                "| --- | --- | --- | --- | --- | --- | --- |",
             ]
         )
         for plugin in items:
@@ -107,6 +107,8 @@ def main() -> int:
             schnellstart_file = f"{name}-schnellstart.md"
             werkstatt_path = f"{rel}/{werkstatt_file}"
             schnellstart_path = f"{rel}/{schnellstart_file}"
+            focus_path = f"{rel}/{name}-hauptproblem.md"
+            focus_download = markdown_download(focus_path, f"{name}-hauptproblem.md") if (REPO / focus_path).is_file() else "Nicht vorgesehen"
             zip_url = f"{RELEASE}/{name}.zip"
             navigation = f"[README]({rel}/README.md) · [Skills](skills-index/{name}.md)"
             lines.append(
@@ -115,6 +117,7 @@ def main() -> int:
                 f"{description} | "
                 f"{markdown_download(werkstatt_path, werkstatt_file)} | "
                 f"{markdown_download(schnellstart_path, schnellstart_file)} | "
+                f"{focus_download} | "
                 f"[`{name}.zip`]({zip_url}) | "
                 f"{navigation} |"
             )

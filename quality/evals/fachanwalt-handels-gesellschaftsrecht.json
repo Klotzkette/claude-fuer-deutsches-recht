@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-handels-gesellschaftsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__34.html",
+      "checked_on": "2026-09-14",
+      "supports": "Normtext zu Satzungszulassung, zeitlicher Voraussetzung bei Einziehung ohne Zustimmung und Fortgeltung der Kapitalerhaltung gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__30.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlichen Normtext im Suchauszug zu Stammkapitalschutz und gesetzlichen Ausnahmen geprüft; direkter Abruf lief in einen Timeout."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2018-6&Gericht=bgh&Seite=4&Sort=1026&anz=245&nr=86101&pos=148",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 26.06.2018, Az. II ZR 65/16: amtlicher Leitsatz im Suchauszug zur Nichtigkeit bei feststehend unzureichendem freien Vermögen trotz stiller Reserven. Keine Volltextprüfung behauptet."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2016-5-10&Gericht=bgh&anz=29&nr=74863&pos=15",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 10.05.2016, Az. II ZR 342/14: amtliche Leitsätze im Suchauszug zur persönlichen Haftung erst bei treuwidriger Fortsetzung und zur Insolvenzkonstellation geprüft. Direkter Volltextabruf gesperrt."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der alte Einstieg führte auch Handelsmandate pauschal zu einer gesellschaftsrechtlichen Maßnahme und behandelte Organbeweislast unterschiedslos. Der neue Einstieg erhält unterschiedliche Fachrouten und macht die Finanzierbarkeit der Einziehung eigenständig bearbeitbar.",
+    "changes": [
+      "Handelskauf und Handelsvertretermandat ausdrücklich von Beschlussarbeit getrennt.",
+      "Einheitliche Organbeweislastformel entfernt und auf die konkrete Anspruchsnorm zurückgeführt.",
+      "Abfindung, freies Vermögen und Liquidität samt Stichtagen voneinander getrennt; fehlende Form sperrt nur den Vollzug."
+    ],
+    "sha256": "4c7624d25d8d6d12e921c387d18dac2d70afc6b222f55386839e8a4b6717d7d9"
+  },
+  "selection": {
+    "positive": [
+      "Kann unsere GmbH einen Anteil einziehen, wenn die Abfindung nur durch stille Grundstücksreserven gedeckt scheint? Stellen Sie Abfindung und Buchwerte gegenüber.",
+      "Nach Einziehung ist die letzte Rate nicht zahlbar; prüfen Sie Auszahlungssperre, Finanzierung und mögliche Haftung der verbleibenden Gesellschafter anhand unserer Zahlen."
+    ],
+    "negative": [
+      "Bewerten Sie eine GmbH für den geplanten Verkauf aller Anteile an einen externen Erwerber ohne Gesellschafterstreit.",
+      "Prüfen Sie die Provisionsabrechnung unseres Handelsvertreters für das letzte Quartal."
+    ],
+    "target_skill": "gmbh-einziehung-abfindung-finanzierbarkeit"
+  },
+  "cases": [
+    {
+      "id": "einziehung-stille-reserven-bankkredit",
+      "request": "Beraten Sie die Geschäftsführung der M GmbH vor der für den 20.09.2026 geplanten Einziehung des Anteils von B. Erstellen Sie ergebnis.md als Gremienvorlage. Das Stammkapital ist vollständig eingezahlt und beträgt 100.000 EUR; A hält 60 Prozent, B 40 Prozent. Die seit Gründung bestehende Satzung erlaubt Einziehung mit Zustimmung des Betroffenen. B hat der Einziehung schriftlich zugestimmt; alle Beteiligten haben für diese Einziehung eine Abfindung von 120.000 EUR mit Fälligkeit am 30.09.2026 verbindlich vereinbart. Die vollständige, zutreffende Stichtagsbilanz vor Abfindung enthält Aktiva von 800.000 EUR, Schulden und Rückstellungen von 650.000 EUR. Die Abfindung ist darin noch nicht passiviert; weitere stille Lasten und zwischenzeitliche Verluste bestehen nicht. Im Grundstück stecken 300.000 EUR stille Reserven, ein Verkauf ist nicht vereinbart. Frei verfügbares Bankguthaben beträgt 200.000 EUR; bis zum Zahlungstag sind außerdem 100.000 EUR sonstige Verbindlichkeiten zu begleichen, weitere Zuflüsse gibt es nicht. Die Bank bietet verbindlich einen Kredit von 100.000 EUR zu marktüblichen Bedingungen an. Ein Gesellschafterzuschuss ist nicht zugesagt. A hält den Kredit für ausreichend. Prüfen Sie die geplante Einziehung, die Bedeutung der Zustimmung von B und den Finanzierungsvorschlag; unterscheiden Sie realisierbare Maßnahmen von bloßen Annahmen. Nehmen Sie keine Erklärungen oder Zahlungen vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Buchwertrechnung ergibt 150.000 EUR Reinvermögen, 50.000 EUR freies Vermögen und 70.000 EUR Fehlbetrag zur Abfindung. Stille Reserven werden nicht ohne Realisierung als zusätzliche freie Mittel dieser Rechnung zugeschlagen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Liquiditätsrechnung zeigt nach sonstigen Verbindlichkeiten und Abfindung einen Fehlbetrag von 20.000 EUR ohne Kredit und 80.000 EUR verbleibende Liquidität mit Kredit, ohne daraus die Beseitigung des kapitalerhaltungsrechtlichen Fehlbetrags abzuleiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Votum erkennt das Nichtigkeitsproblem des geplanten Beschlusses bei feststehend unzureichendem freien Vermögen und behandelt Bs Zustimmung nicht als Verzicht auf den Stammkapitalschutz.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Empfohlene Alternativen wie ein Zuschuss oder Drittankauf werden an rechtlich verbindliche und wirtschaftlich tragfähige Nachweise geknüpft; weder eine nicht vorhandene Finanzierungszusage noch automatische persönliche Haftung von A wird als feststehend ausgegeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "gmbh-einziehung-abfindung-finanzierbarkeit"
+    }
+  ]
+}

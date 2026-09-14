@@ -1,77 +1,29 @@
-# Einfache Leichte Sprache Jura — Schnellstart
+# 1. Juristische Texte verständlich übertragen
 
-Wenn du das hier öffnest, willst du aus unsortiertem Material eine belastbare juristische Frage, Subsumtion und sofort nutzbare Textfassung entwickeln.
+Übertrage den vorgelegten juristischen Text in Einfache Sprache oder auf ausdrücklichen Wunsch in eine vorläufige Fassung in Leichter Sprache. Liefere den verständlichen Text, kein allgemeines Rechtsgutachten. Lies vorhandenes Material zuerst. Ohne Ausgangstext frage einmal gebündelt nach Text, Zielgruppe, Medium und gewünschter Sprachstufe. Mit vorhandenem Text arbeite sofort; unsichere Rechtsinhalte kennzeichne in einer getrennten Prüfnotiz.
 
-Kernauftrag: Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: experimentelle Standard-Annäherung, Zielgruppe klären, Rechtsinhalt sichern und Qualitätsgate nutzen. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Auftrag und Sprachstufe
 
-## 1. Sofortstart nach Eingangslage
+Einfache Sprache richtet sich an ein breites Publikum und bleibt nahe an der Standardsprache. Leichte Sprache benötigt eine stärkere sprachliche und gestalterische Anpassung an die konkrete Zielgruppe. Behaupte ohne entsprechende Prüfung weder Normkonformität noch eine Prüfung durch Menschen aus der Zielgruppe. Die Fassung ist keine zertifizierte Übersetzung.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegte Aufgabenbeschreibung, Datengrundlage, Quellen und Berechnungen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Auftrag und Adressat, Sachverhalt, Normstruktur wählen; ohne konkreten Auftrag mit Auftrag und Adressat beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bewahre respektvolle Sie-Ansprache, sofern nichts anderes verlangt ist. Eine Erläuterung ersetzt nicht stillschweigend einen Bescheid, Vertrag oder seine Rechtsbehelfsbelehrung. Kennzeichne, ob eine zusätzliche Erklärung oder eine neue rechtsverbindliche Textfassung gewünscht ist. Bei letzterer die juristische Freigabe offenhalten.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Auftrag und Adressat, Sachverhalt, Normstruktur und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Rechtsinhalt sichern
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Erstelle intern eine Inhaltsliste: Wer muss oder darf was tun, unter welcher Bedingung, bis wann, gegenüber wem und mit welcher Folge? Sichere insbesondere Beträge, Fristauslöser, Fristdauer, Zustellungsbegriffe, Wahlrechte, Ausnahmen und Unsicherheiten. Übernimm keine vermeintliche Fristberechnung, wenn Bekanntgabe, Zustellung oder anwendbare Regel fehlen.
 
-## 2. Fachlicher Direktstart
+Ein „kann“ darf nicht zu „muss“ werden. „Grundsätzlich“ und „es sei denn“ enthalten oft entscheidende Grenzen. Kürze Wiederholungen, nicht Schutzrechte. Erkläre Fachbegriffe bei der ersten Verwendung und verwende anschließend denselben Begriff. Verjährung nicht als automatisches Erlöschen jedes Anspruchs erklären. Unklare oder möglicherweise fehlerhafte Ausgangsaussagen nicht durch frei erfundene Rechtsauskünfte reparieren.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete Rechtsfrage muss der Adressat entscheiden oder beantworten.
-2. Kernprüfung in einem Durchgang: Welche Tatsache ist für welches Tatbestandsmerkmal entscheidungserheblich; Welche Fundstelle trägt die Tatsache und welcher Punkt bleibt nur Behauptung.
-3. Belege und Engpass zusammenführen: Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen; besonders kritisch ist: Rechtsfrage und gewünschtes Arbeitsprodukt sind nicht bestimmbar.
-4. Erstes Arbeitsprodukt liefern: Subsumtionszeile: Normmerkmal, Definition, Tatsache, Aktenfund, Schluss, Gegenargument, Beweislast und Zwischenergebnis.
+## 1.3. Verständliche Fassung
 
-## 3. Kernroute
+Beginne mit dem konkreten Anliegen und der wichtigsten Handlung. Nutze kurze vollständige Sätze, aktive Verben und überschaubare Absätze. Erkläre abstrakte Begriffe durch ein fallbezogenes Beispiel, das ausdrücklich als Beispiel erkennbar bleibt. Keine zusätzlichen Tatsachen ausdenken. Gliedere dezimal mit Leerzeilen; unnötige Unterebenen vermeiden.
 
-1. Auftrag und Adressat: Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen.
-2. Sachverhalt: Chronologie, Beteiligte, Dokumentfundstellen, unstreitige Tatsachen, Behauptungen und Lücken sauber trennen.
-3. Normstruktur: Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen.
-4. Subsumtion und Gegenprobe: für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen.
-5. Arbeitsprodukt: Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren.
+Fristen erhalten einen eigenen gut sichtbaren Absatz. Wenn nur eine relative Frist feststeht, nenne Auslöser und Dauer, kein geratenes Enddatum. Stelle mehrere Handlungsoptionen nebeneinander dar, ohne eine Wahl durch die Übertragung vorwegzunehmen. Bei Leichter Sprache auch Layout und mögliche Bildunterstützung als offenen Gestaltungsbedarf nennen, nicht eine tatsächlich erfolgte Verständlichkeitsprüfung behaupten.
 
-## 4. Fallkarte
+## 1.4. Gegenprüfung und Ergebnis
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 20 Absatz 3; BGB Paragraf 133 und Paragraf 157; ZPO Paragraf 138 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen |
-| Rechtsfolge | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Liefere ergebnis.md mit der vollständigen Adressatenfassung zuerst. Danach folgt eine kurze interne Inhaltskontrolle: erhaltene Rechtsfolge, Frist, Ausnahme und noch offene Stelle jeweils mit Bezug zum Ausgangstext. Rechtskritik nicht in den verständlichen Text mischen, sofern sie die lesende Person nur verwirrt. Keine Wiederholungsschleife: eine belastbare Fassung und die entscheidenden offenen Punkte genügen.
 
-## 5. Einsatzfelder
+[Paragraf 11 BGG](https://www.gesetze-im-internet.de/bgg/__11.html) unterscheidet verständliche Erläuterung und Leichte Sprache im gesetzlichen Anwendungsbereich. Daraus keine allgemeine Pflicht jedes privaten Briefschreibers ableiten. Neue rechtliche Aussagen am einschlägigen amtlichen Normtext prüfen; Entscheidungen nur mit überprüftem Gericht, Datum, Aktenzeichen und Fundstelle verwenden. Eine rein sprachliche Übertragung braucht keine sachfremde Rechtsprechungsliste.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Auftrag und Adressat | Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sachverhalt | Chronologie, Beteiligte, Dokumentfundstellen, unstreitige Tatsachen, Behauptungen und Lücken sauber trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Normstruktur | Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Subsumtion und Gegenprobe | Für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- GG Artikel 20 Absatz 3: Bindung an Gesetz und Recht als Ausgangspunkt juristischer Begründung.
-- BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
-- ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
-- ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erstes belastbares Ergebnis: Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle.
-7.2. Maßstab: GG Artikel 20 Absatz 3; BGB Paragraf 133 und Paragraf 157 mit der entscheidenden Bewertungsfrage verbinden.
-7.3. Materialfund: Für „Auftrag und Adressat“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Tatsache ist für welches Tatbestandsmerkmal entscheidungserheblich.
-7.6. Erwiderung: Gegenbeleg, Alternativhypothese oder Bewertungsmaßstab nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Subsumtionszeile“. Frist, Kernlücke und nächster Prüfstufe benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Rechtsfrage und gewünschtes Arbeitsprodukt sind nicht bestimmbar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Werkstatt und weitere Referenzen sind optional; dieser Auftrag funktioniert mit dem Ausgangstext allein. Keine Nachricht versenden oder rechtsverbindliche Erklärung abgeben. Ohne Exportmöglichkeit den vollständigen Text liefern. Formatstandard für gewöhnliche Enddokumente ist Times New Roman 11 pt mit Exporthinweis bei Markdown; bei einem begründeten barrierearmen Zielgruppenlayout dessen Anforderungen ausdrücklich vorrangig behandeln.

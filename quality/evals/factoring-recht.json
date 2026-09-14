@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "factoring-recht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__407.html",
+      "checked_on": "2026-09-14",
+      "supports": "Schutz des nicht über die Abtretung informierten Schuldners bei Leistung an den bisherigen Gläubiger."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Mini war allgemeines Forderungsmanagement einschließlich sachfremdem Tankstellenanker, ohne Factoringabrechnung.",
+    "changes": [
+      "Abtretungskette und Debitorenkenntnis vor Mahnung gestellt.",
+      "Ankaufpreis, Gebühren und Debitorenforderung getrennt; irrelevante Rechtsprechung entfernt."
+    ],
+    "sha256": "be9abcc7ca37fb78967645d95fdbd55a965b579c9fa556431f2e82c6765240f2"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die Zahlung an den Anschlusskunden nach Forderungsverkauf.",
+      "Stimme Ankaufabrechnung und offene Debitorenforderungen ab."
+    ],
+    "negative": [
+      "Mahne eine unverkaufte private Darlehensforderung.",
+      "Prüfe nur die Gründung einer GmbH."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zahlung-vor-abtretungsanzeige",
+      "request": "Ein Factor kaufte und erhielt am 01.07.2026 wirksam eine bestimmte Lieferforderung über 50.000 Euro abgetreten. Der Ankaufpreis betrug 45.000 Euro. Der Debitor zahlte am 03.07. die vollen 50.000 Euro auf das bisherige Lieferantenkonto; er kannte die Abtretung nicht. Die erste Anzeige ging ihm erst am 05.07. zu. Der Factor verlangt nun vom Debitor nochmals 50.000 Euro und will zusätzlich seine Ankaufgebühr berechnen. Die Lieferung ist mangelfrei. Erstelle ergebnis.md mit Zahlungszuordnung, Debitorenposition und getrenntem internem Prüfbedarf gegenüber dem Lieferanten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Zahlung ohne Kenntnis wird gegenüber dem Factor als grundsätzlich wirksam behandelt; keine erneute volle Debitorenzahlung wird verlangt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ankaufpreis und interne Gebühr werden nicht als zusätzliche Schuld des Debitors eingeordnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Etwaige Ansprüche gegen den Lieferanten werden als eigener Vertrags- oder Herausgabeweg mit fehlendem Vertragsinhalt gekennzeichnet, nicht mit der Debitorenforderung doppelt gebucht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "debitorenkommunikation-abtretungsanzeige"
+    }
+  ]
+}

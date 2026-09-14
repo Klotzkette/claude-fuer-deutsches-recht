@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "plugin": "richter-amtsgericht-insolvenz-restrukturierung",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__14.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gläubigerantrag wird nicht allein durch Erfüllung unzulässig; Schuldneranhörung bei zulässigem Antrag."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__5.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gerichtliche Ermittlung der verfahrensrelevanten Umstände von Amts wegen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__21.html",
+      "checked_on": "2026-09-14",
+      "supports": "Vorläufige Sicherung richtet sich nach drohender nachteiliger Vermögensveränderung, nicht nach einem automatischen Maßnahmenpaket."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die bisherige Anfechtungs- und Haftungsroute verfehlte den gerichtlichen Eröffnungsauftrag und vermischte Rollen und Prüfungsmaßstäbe.",
+    "changes": [
+      "Eigenantrag und Gläubigerantrag getrennt.",
+      "Nachträgliche Forderungserfüllung und weitere Eröffnungsprüfung ausdrücklich behandelt.",
+      "Amtsermittlung und konkret begründete Sicherungsmaßnahmen in den Mittelpunkt gestellt."
+    ],
+    "sha256": "aa15ab06642f17b122ddd41bf8e92f521da605746c646422b31afa040ebd860c"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe als Insolvenzgericht den Fortgang eines Gläubigerantrags nach Zahlung.",
+      "Entwirf eine gerichtliche Aufklärungs- und Sicherungsverfügung im Eröffnungsverfahren."
+    ],
+    "negative": [
+      "Entwirf eine Anfechtungsklage des Insolvenzverwalters gegen einen Zahlungsempfänger.",
+      "Prüfe die persönliche Zahlungshaftung eines Geschäftsführers für Auszahlungen nach Insolvenzreife im zivilrechtlichen Haftungsprozess."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zahlung-nach-zulaessigem-fremdantrag",
+      "request": "Erstelle ergebnis.md als gerichtlichen Prüfvermerk mit Anschlussverfügung. Gläubiger G beantragte am 1. September 2026 die Eröffnung über die S-GmbH. Rechtliches Interesse, Forderung über 9000 Euro und Eröffnungsgrund wurden für die Zulässigkeitsprüfung ausreichend glaubhaft gemacht; die Zulässigkeit ist bereits festgestellt. Am 10. September bezahlt S die 9000 Euro, G hält den Antrag aufrecht. In der Akte liegen weiterhin dokumentierte erfolglose Vollstreckungen zweier anderer Gläubiger über insgesamt 70000 Euro. Die aktuelle Liquiditätslage ist nicht aufgeklärt, ein Gutachten fehlt, der Schuldner wurde noch nicht angehört. S verlangt allein wegen der Zahlung sofortige Zurückweisung als unzulässig. Prüfe den nächsten Schritt, ohne bereits Insolvenzreife oder Kostendeckung abschließend festzustellen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Lehnt den Schluss ab, der zuvor zulässige Gläubigerantrag sei allein durch Bezahlung automatisch unzulässig geworden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bereitet Schuldneranhörung und konkrete Aufklärung der aktuellen Verbindlichkeiten und Liquidität vor und bezieht die weiteren Vollstreckungen ein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt fortbestehende Zulässigkeit von noch offener Begründetheit und Kostendeckung; erlässt keinen fiktiven Eröffnungsbeschluss oder unbegründetes Maßnahmenpaket.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "01-eroeffnungsantrag-pruefen-insolvenz"
+    }
+  ]
+}

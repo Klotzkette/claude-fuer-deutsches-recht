@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "kommunalrecht-laender",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://recht.nrw.de/lrgv/gesetz/01112025-gemeindeordnung-fuer-das-land-nordrhein-westfalen-go-nrw-bekanntmachung-der/",
+      "checked_on": "2026-09-14",
+      "supports": "Paragrafen 49 und 50 GO NRW: Beschlussfähigkeit, gewöhnliche Stimmenmehrheit, Ablehnung bei Gleichstand und unterschiedliche Behandlung von Enthaltungen bei Mehrheit und Beschlussfähigkeit."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die landesrechtliche Grundroute bleibt erhalten. Die Mehrheitsprüfung war jedoch nur ein Stichwort und die Verweisung auf Bundesverfahrensrecht zu pauschal.",
+    "changes": [
+      "Getrennte Nenner für Anwesenheit und Stimmenmehrheit ergänzt.",
+      "Konkrete NRW-Regel ausdrücklich nicht bundesweit verallgemeinert.",
+      "Rechnerisches Ergebnis von gesamter Beschlussrechtmäßigkeit getrennt."
+    ],
+    "sha256": "ef1f09f5cce6faa46ee084f59a09080bf264c646fc73cea07b59de3b336c3b4c"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe eine Ratsabstimmung in NRW mit Enthaltungen.",
+      "Gleiche Hauptsatzung, Zuständigkeit und Beschlussvorlage einer Gemeinde ab."
+    ],
+    "negative": [
+      "Prüfe eine Abstimmung der Gesellschafterversammlung einer privaten GmbH.",
+      "Berechne allein die Einkommensteuer eines Ratsmitglieds."
+    ]
+  },
+  "cases": [
+    {
+      "id": "nrw-enthaltungen-keine-neinstimmen",
+      "request": "Prüfe in ergebnis.md nur Beschlussfähigkeit und Abstimmungsergebnis eines gewöhnlichen Sachantrags im Rat einer nordrhein-westfälischen Gemeinde am 14. September 2026. Die gesetzliche Mitgliederzahl einschließlich des Bürgermeisters beträgt 31. Es sind 21 stimmberechtigte Mitglieder einschließlich des Bürgermeisters anwesend. Ausschließungsgründe bestehen nicht. Es gibt 9 Ja-Stimmen, 8 Nein-Stimmen und 4 Enthaltungen, keine ungültigen Stimmen. Keine Sondermehrheit ist vorgeschrieben. Der Protokollentwurf nennt den Antrag abgelehnt, weil 9 weniger als die Hälfte von 21 sei. Einladung und Tagesordnung werden außerhalb dieses Auftrags geprüft. Formuliere eine begründete Korrektur, ändere aber kein amtliches Protokoll.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Anwesenheit von 21 bei gesetzlich 31 Mitgliedern wird als ausreichende Beschlussfähigkeit eingeordnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der gewöhnliche Sachantrag wird mit 9 zu 8 Stimmen als angenommen bewertet; vier Enthaltungen werden nicht als Gegenstimmen oder als Teil des Mehrheitsnenners behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Korrektur ist ein Entwurf und behauptet angesichts der ausgeklammerten Einladung und Tagesordnung keine umfassend geprüfte Rechtmäßigkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "gemeinderat-beschluss-bauen"
+    }
+  ]
+}

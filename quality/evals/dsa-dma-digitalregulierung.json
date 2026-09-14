@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "dsa-dma-digitalregulierung",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2065/oj/deu",
+      "checked_on": "2026-09-14",
+      "supports": "DSA Artikel 19 und 20: größenabhängige Ausnahme, mindestens sechsmonatiger kostenloser Beschwerdezugang ab Mitteilung und keine ausschließlich automatisierte Beschwerdeentscheidung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Rollenmatrix war brauchbar, ließ konkrete Größen- und Verfahrensfolgen aber hinter abstrakten EU-Gerichtswegen zurück.",
+    "changes": [
+      "Beschwerdezugang und Mitteilungstag konkretisiert.",
+      "Gatekeeper-Benennung von DSA-Plattformstatus getrennt."
+    ],
+    "sha256": "b88e752cec3344fe274cd8fc3af6a7441f14bf451c383d03f92983bfcd8f8dc9"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe das interne Beschwerdesystem unserer Onlineplattform.",
+      "Ordne eine Kontosperre nach DSA und Plattformbedingungen ein."
+    ],
+    "negative": [
+      "Berechne einen Kaufpreisrückzahlungsanspruch gegen einen einzelnen Händler.",
+      "Erstelle ausschließlich einen Auftragsverarbeitungsvertrag."
+    ]
+  },
+  "cases": [
+    {
+      "id": "plattform-beschwerde-nur-sieben-tage",
+      "request": "Eine EU-Onlineplattform mit 300 Beschäftigten ist weder als sehr große Plattform noch als Gatekeeper benannt. Sie hostet öffentliche Nutzerangebote und sperrte am 01.08.2026 ein Händlerkonto wegen vermeintlich verbotener Inhalte. Die Entscheidung wurde am selben Tag mitgeteilt. Das interne Beschwerdeformular ist nur sieben Tage nutzbar, kostet 15 Euro und entscheidet ausschließlich automatisiert. Der Händler wollte am 01.09.2026 Beschwerde einlegen. Erstelle ergebnis.md als Prozessprüfung mit korrigierter Beschwerderoute und Umsetzungsvorschlag; die materielle Rechtmäßigkeit der Angebote ist nicht Gegenstand.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die sieben Tage werden unter dem anwendbaren Artikel 20 als unzureichend erkannt; der Septemberversuch ist nicht allein deshalb verspätet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Gebühr und ausschließlich automatisierte Beschwerdeentscheidung werden als eigenständige Prozessmängel mit passenden Korrekturen behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die fehlende Benennung wird nicht mit einer vollständigen Befreiung von DSA-Plattformpflichten verwechselt und nicht durch eine erfundene Gatekeeperstellung ersetzt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "dsa-internes-beschwerdesystem-aufbau"
+    }
+  ]
+}

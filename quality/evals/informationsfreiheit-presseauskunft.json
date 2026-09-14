@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "informationsfreiheit-presseauskunft",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/ifg/__7.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Volltext: Begründung bei Drittbezug, Teilzugang und Monats-Sollregel mit Drittbeteiligungsvorbehalt."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die gute Regimeauswahl wurde durch eine pauschale Monatsfrist und falsche Zuordnung der Gebühren zu Paragrafen 7 bis 9 geschwächt.",
+    "changes": [
+      "Monatsregel differenziert und Gebühren separat verortet.",
+      "Passagenbezogenen Teilzugang statt Totalablehnung konkretisiert.",
+      "Pressefrage und Dokumentenzugang unterschieden."
+    ],
+    "sha256": "0fc0b1c56526aa8102b04404635c9634ddfb6ab146b8ae165b116e6dfdad6f3e"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die vollständige Schwärzung eines Bundesbehördendokuments trotz abtrennbarer Daten.",
+      "Formuliere einen gezielten Umweltinformationsantrag."
+    ],
+    "negative": [
+      "Verlange Auskunft ausschließlich aus einem privaten Kaufvertrag.",
+      "Prüfe die Zulässigkeit eines Presseartikels über einen Beschuldigten."
+    ]
+  },
+  "cases": [
+    {
+      "id": "teilzugang-telefonnummern",
+      "request": "Ich habe beim Bundesministerium nach dem IFG eine vorhandene zehnseitige Projektübersicht angefordert. Die Behörde bestätigt, dass nur private Telefonnummern zweier externer Ansprechpartner auf Seite 10 schutzbedürftig sind; alle übrigen Inhalte sind nach ihrer Prüfung zugänglich. Die Schwärzung der beiden Nummern ist technisch einfach. Dennoch will sie das ganze Dokument bis zur Einwilligung beider Personen zurückhalten. Ich bin mit Schwärzung dieser Nummern einverstanden und benötige keinen Personenbezug. Erstelle ergebnis.md als sachliche Antwort mit begründetem Teilzugangsbegehren. Keine Fristberechnung und kein Versand.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verlangt den zugänglichen Inhalt mit Schwärzung der zwei Nummern statt vollständiger Offenlegung oder vollständiger Zurückhaltung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verknüpft den Teilzugang mit der feststehenden Abtrennbarkeit und dem ausdrücklichen Schwärzungseinverständnis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erfindet weder eine Einwilligung noch eine automatische Zugangsgewährung durch Fristablauf und bleibt beim vorhandenen Dokument.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "ifg-bund-schwaerzung-angreifen"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "franchiserecht-praxis",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 3 Marktanteilsschwelle und Artikel 4 Buchstabe a Preisbindung einschließlich durch Druck wirkender Preisempfehlungen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Werkstatt benennt Franchise-Risiken, das Mini bot dagegen ein generisches Vertragsgerüst als Endprodukt an.",
+    "changes": [
+      "Gebühren, Standortprognose und Handbuchänderungen konkretisiert.",
+      "Preisempfehlung mit Sanktionen von unverbindlicher Empfehlung getrennt.",
+      "Vollständigen Vertragsentwurf statt Gerüst verlangt."
+    ],
+    "sha256": "f8022fa6d26e33391c2a9c04227b045476fdef84dd33505e18d8854351e5c359"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die Preis- und Bezugsbindung im Handbuch unseres Franchise-Systems.",
+      "Vergleiche Eintrittsgebühr, Werbefonds und laufende Umsatzgebühr für den Standortvertrag."
+    ],
+    "negative": [
+      "Entwerfe nur eine Software-Endnutzerlizenz ohne Vertriebssystem.",
+      "Berechne den Schadensersatz aus einer einzelnen unbezahlten Warenlieferung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "preisempfehlung-mit-rabattstrafe",
+      "request": "Erstelle ergebnis.md als Verhandlungsvermerk für eine Franchisenehmerin eines grenzüberschreitend tätigen Imbisssystems. Beide Parteien haben auf ihren zutreffend abgegrenzten relevanten Märkten jeweils 10 Prozent Marktanteil. Der Entwurf nennt 9,90 Euro für das Standardmenü eine unverbindliche Empfehlung. Eine weitere Klausel verlangt vorherige schriftliche Zustimmung des Gebers zu jedem niedrigeren Preis und sieht bei Verstoß 1000 Euro Vertragsstrafe vor. Eine individuelle Effizienzbegründung liegt nicht vor. Beurteile die Vertragsmechanik und formuliere eine verhandlungsfähige Alternative; nichts versenden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Prüfung bewertet Genehmigungsvorbehalt und Strafe zusammen mit der Preisempfehlung als tatsächlichen Druck zur Preisbindung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Marktanteile von 10 Prozent führen nicht zu einer vorbehaltlosen Gruppenfreistellung trotz Kernbeschränkung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Ersatzregel wahrt echte selbständige Preisentscheidung ohne verdeckte Rabattstrafe und unterscheidet Gruppenfreistellung von einer gesonderten Einzelfallprüfung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "bezugsbindung-lieferanten-und-kartellrecht"
+    }
+  ]
+}

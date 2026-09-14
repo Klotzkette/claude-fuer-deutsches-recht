@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "plugin": "strafzumessung",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__55.html",
+      "checked_on": "2026-09-14",
+      "supports": "Nachträgliche Gesamtstrafe bei noch nicht erledigter Vorstrafe; maßgeblich ist das frühere Urteil, in dem die tatsächlichen Feststellungen letztmals geprüft werden konnten. Absatz 2: Nebenstrafen, Nebenfolgen und Maßnahmen bleiben bestehen, soweit die neue Entscheidung sie nicht gegenstandslos macht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__462a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 3: erstinstanzliches Gericht für Paragraf 460; bei mehreren Gerichten Rangfolge nach Strafart, Strafhöhe und erst zuletzt Urteilsdatum, einschließlich Rechtsmittelurteilen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__53.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 2 erlaubt bei Zusammentreffen von Freiheits- und Geldstrafe eine gesonderte Geldstrafe; keine ausnahmslose Pflicht zur Verbindung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__54.html",
+      "checked_on": "2026-09-14",
+      "supports": "Bildung und Grenzen der Gesamtstrafe; keine arithmetische Addition."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__460.html",
+      "checked_on": "2026-09-14",
+      "supports": "Nachholung unterbliebener Gesamtstrafenbildung bei mehreren rechtskräftigen Urteilen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__462.html",
+      "checked_on": "2026-09-14",
+      "supports": "Beschlussverfahren, Anhörung und sofortige Beschwerde."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Gesamtstrafenprüfung benötigt Tat- und Verurteilungsdaten; ein schematischer Bezug auf das erste Urteil kann die Zäsur falsch setzen.",
+    "changes": [
+      "Letzte mögliche Tatsachenprüfung statt pauschal erster Instanz maßgeblich gemacht.",
+      "Einzelstrafen, Gesamtstrafe und Erledigungsstand getrennt.",
+      "Rein arithmetische Strafaddition ausgeschlossen."
+    ],
+    "sha256": "575c028a96653ac736775becda9f25d6e3fa268c47690f6aec9244957e939c8f"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie anhand von Tatdaten und Vorurteilen die nachträgliche Gesamtstrafenbildung.",
+      "Erstellen Sie einen belegten Strafzumessungsvermerk mit getrennten Einzel- und Gesamtstrafenfragen."
+    ],
+    "negative": [
+      "Prüfen Sie ausschließlich, ob der Beschuldigte überhaupt Täter war.",
+      "Berechnen Sie einen zivilrechtlichen Schadensersatzanspruch ohne Strafbezug."
+    ]
+  },
+  "cases": [
+    {
+      "id": "berufungsurteil-statt-ersturteil-als-zaesur",
+      "request": "Erstellen Sie ergebnis.md zur nachträglichen Gesamtstrafenprüfung. Ein Angeklagter wurde am 10. Januar 2026 erstinstanzlich verurteilt. Auf zulässige Berufung fand eine vollständige neue Tatsachenverhandlung statt; das Berufungsurteil vom 20. Mai 2026 verhängte 60 Tagessätze. Es ist seit 27. Mai rechtskräftig. Diese Strafe ist weder vollstreckt noch verjährt oder erlassen. Im neuen Verfahren geht es um eine am 10. März 2026 begangene weitere Tat. Deren Schuld steht für diesen Auftrag fest; eine Einzelstrafe wurde noch nicht bemessen. Ein Kollege hält eine Gesamtstrafe allein deshalb für ausgeschlossen, weil die neue Tat nach dem 10. Januar liegt. Prüfen Sie diese Begründung und die noch offenen Schritte, ohne eine Strafhöhe zu erfinden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis erkennt die letzte tatsächliche Überprüfung im Berufungsurteil vom 20. Mai als maßgeblichen Anknüpfungspunkt und lehnt den Ausschluss allein wegen des erstinstanzlichen Januardatums ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die März-Tat wird zeitlich vor dem maßgeblichen Mai-Urteil eingeordnet und der mitgeteilte nicht erledigte Zustand der Vorstrafe wird in die Prüfung nach Paragraf 55 einbezogen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Ergebnis verlangt die eigenständige Bemessung der neuen Einzelstrafe und anschließende Gesamtstrafenprüfung, statt 60 Tagessätze mit einer erfundenen Zahl zu addieren oder bereits eine konkrete Gesamtstrafe auszugeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "nachtraegliche-gesamtstrafenbildung-55-stgb"
+    },
+    {
+      "id": "hoehere-geldstrafe-vor-juengerem-urteil",
+      "request": "Erstellen Sie ergebnis.md als Zuständigkeitsvermerk für eine unterbliebene nachträgliche Gesamtstrafenbildung. Das Amtsgericht Nord verhängte am 10. März 2026 rechtskräftig 120 Tagessätze, das Amtsgericht Süd am 20. Juni 2026 rechtskräftig 30 Tagessätze. Beide Gerichte entschieden im ersten Rechtszug; Rechtsmittel gab es nicht. Alle Taten lagen vor dem Märzurteil, beide Strafen sind vollständig offen, andere Verurteilungen bestehen nicht. Die materiellen Voraussetzungen einer Gesamtgeldstrafe sind für diesen Auftrag gegeben. Ein Mitarbeiter will allein wegen des jüngeren Urteils den Antrag beim Amtsgericht Süd stellen. Benennen Sie das zuständige Gericht und den Verfahrensweg, ohne einen Antrag einzureichen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Bestimmt das Amtsgericht Nord anhand der höheren Strafe gleicher Art als zuständig; das spätere Datum des Süd-Urteils verdrängt diese Rangfolge nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ordnet die Nachholung Paragraf 460 und die Zuständigkeit Paragraf 462a Absatz 3 StPO zu; benennt nicht pauschal die Strafvollstreckungskammer.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Behandelt das Ergebnis als noch umzusetzenden Verfahrensvorschlag und bildet nicht durch Addition eine vermeintlich zwingende Gesamtstrafe von 150 Tagessätzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "nachtraegliche-gesamtstrafenbildung-55-stgb"
+    },
+    {
+      "id": "geldstrafe-neben-freiheitsstrafe-und-einziehung",
+      "request": "Prüfen Sie in ergebnis.md einen Strafzumessungsentwurf. Eine frühere rechtskräftige Verurteilung enthält 60 noch unbezahlte Tagessätze und die Einziehung eines bestimmten Tatmessers. Dessen Einziehung ist nicht gegenstandslos geworden; die neue Tat betrifft es nicht. Für eine vor dem maßgeblichen früheren Urteil begangene weitere Tat ist nun eine zeitige Freiheitsstrafe von acht Monaten vorgesehen. Sonstige Hindernisse des Paragrafen 55 Absatz 1 StGB bestehen nach vorgegebener Prüfung nicht. Der Entwurf behauptet, Geld- und Freiheitsstrafe müssten ohne Ausnahme verbunden werden und die frühere Einziehung entfalle allein durch Gesamtstrafenbildung. Prüfen Sie nur diese beiden Aussagen und den benötigten Entscheidungsspielraum; bestimmen Sie keine neue Gesamtstrafenhöhe.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt die Möglichkeit einer gesonderten Geldstrafe nach Paragraf 53 Absatz 2 Satz 2 in Verbindung mit Paragraf 55 StGB, statt eine ausnahmslose Verbindungspflicht zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Hält die nach Sachverhalt nicht gegenstandslos gewordene Einziehung nach Paragraf 55 Absatz 2 aufrecht und ersetzt diese Prüfung nicht durch einen Verweis auf einen vermeintlichen Paragrafen 53 Absatz 4.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet die zulässigen Entscheidungsoptionen von ihrer einzelfallbezogenen Begründung und erfindet weder eine feststehende Gesamtstrafenhöhe noch neue Tatsachen zur Einziehung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "nachtraegliche-gesamtstrafenbildung-55-stgb"
+    }
+  ]
+}

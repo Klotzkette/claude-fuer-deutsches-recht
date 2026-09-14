@@ -1,79 +1,33 @@
-# Verhältnismäßigkeitsprüfer — Schnellstart
+# 1. Verhältnismäßigkeit: Schnellstart
 
-Wenn du das hier öffnest, willst du eine Grundrechtsrüge zulässig und schlüssig begründen.
+Prüfe eine konkrete Maßnahme anhand ihres Zwecks, ihrer Wirkung und der verfügbaren Alternativen. Liefere eine begründete Abwägung oder eine engere Maßnahmenfassung. Eine Verfassungsbeschwerde ist nur bei entsprechendem Auftrag erforderlich; der materielle Maßstab funktioniert auch für Verwaltungsvermerke und Gesetzgebungsanalysen.
 
-Kernauftrag: 85 Skills zur Schranken-Schranke: BVerfG-Leitentscheidungen, Drittwirkung, Gleichheitsdogmatik, PrOVG-Kreuzberg, Südafrika/Kanada/EGMR/EuGH/USA und 12 europäische Ordnungen. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Tatsachen und Maßstab
 
-## 1. Sofortstart nach Eingangslage
+Lies zuerst Maßnahmentext, Begründung und entscheidende Nachweise. Erfasse handelnde Stelle, Adressaten, Dauer, räumlichen Umfang, Eingriff und tatsächliches Schutzziel. Bei unvollständigem Material einmal gebündelt nach Maßnahme, Zweck und Wirkungsbelegen fragen. Keine endlose Alternativensuche: zunächst die angegriffene Maßnahme und bis zu drei ernsthaft verfügbare Alternativen vergleichen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Beschwerdegegenstand, Hoheitsakt, Zulässigkeit, Schutzbereich, Eingriff wählen; ohne konkreten Auftrag mit Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bestimme Rechtsordnung und betroffene Rechte. Deutsches Grundgesetz, Unionsgrundrechte und ausländische Kontrollmaßstäbe nicht ohne Anwendungsprüfung mischen. Gesetzliche Ermächtigung, Kompetenz und Verfahren getrennt prüfen; eine günstige Abwägung ersetzt keine fehlende Rechtsgrundlage. Absolute Grenzen nicht zu verrechenbaren Interessen umdeuten. Bei Folgeaufträgen nur veränderte Tatsachen, Maßnahmen oder Quellen neu prüfen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Beschwerdegegenstand, Hoheitsakt, Zulässigkeit, Schutzbereich, Eingriff und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Zweck und Eignung
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Formuliere den legitimen Zweck unabhängig vom gewählten Mittel: beispielsweise Schutz vor nächtlichem Lärm, nicht „Durchsetzung einer ganztägigen Schließung“. Benenne belegte Gefahr, Schadensgewicht und Unsicherheit. Unterscheide tatsächliches Ziel und nachträglich behauptete Rechtfertigung.
 
-## 2. Fachlicher Direktstart
+Prüfe, wie die Maßnahme den Zweck fördert. Ordne jeder Wirkungsbehauptung Daten, Erfahrung oder eine offen bezeichnete Prognose zu. Fehlende Quantifizierung bedeutet nicht automatisch Wirkungslosigkeit; bloße Behauptung ersetzt aber keinen plausiblen Wirkungszusammenhang. Beurteile Einschätzungs- und Prognosespielräume nach Normgeber, Grundrecht und Eingriffsintensität, nicht als generelle Immunität gegen Kontrolle.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Grundrecht oder Organrecht ist betroffen.
-2. Kernprüfung in einem Durchgang: Welcher Hoheitsakt und welche Frist sind entscheidend; Ist der Rechtsweg erschöpft und die Subsidiarität gewahrt.
-3. Belege und Engpass zusammenführen: Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit; besonders kritisch ist: Frist nach BVerfGG läuft.
-4. Erstes Arbeitsprodukt liefern: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
+## 1.3. Erforderlichkeit mit Vergleich
 
-## 3. Kernroute
+Erstelle eine Tabelle: Alternative, rechtliche und praktische Verfügbarkeit, Zielerreichung, Belastung der Betroffenen, Belastung Dritter, Vollzugsaufwand und Nachweis. Ein Mittel ist nicht schon deshalb vorzugswürdig, weil es billiger oder beliebter ist. Gleich wirksame mildere Mittel müssen denselben konkret bestimmten Zweck erreichen; bloße Lastverschiebung auf Nachbarn oder andere Gruppen sichtbar machen.
 
-1. Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
-2. Zulässigkeit: Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen.
-3. Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen.
-4. Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten.
-5. Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
+Befristung, räumliche Begrenzung, Ausnahmen, Auflagen und Überprüfungstermine nur vorschlagen, wenn sie den belegten Gefahrverlauf treffen. Eine Maßnahme von geringerer Wirksamkeit nicht fälschlich als zwingenden Erforderlichkeitseinwand behandeln. Sie kann dennoch für die Angemessenheit wichtig sein. Dazu verdeutlicht [BVerfG, Beschluss vom 29. September 2022, 1 BvR 2380/21 und 1 BvR 2449/21](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2022/09/rs20220929_1bvr238021.html), dass eine nur wenig weniger wirksame mildere Alternative in der Angemessenheitsprüfung Gewicht haben kann. Die damalige Sachentscheidung nicht auf andere Maßnahmen übertragen.
 
-## 4. Fallkarte
+## 1.4. Angemessenheit und Unsicherheit
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1; GG Artikel 3 Absatz 1 |
-| Rechtsprechung | BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56 |
-| Tatbestand | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen |
-| Beweislast | Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit |
-| Rechtsfolge | Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Stelle den zusätzlichen Schutzgewinn gerade der strengeren Maßnahme ihrer zusätzlichen Belastung gegenüber. Dauer, Reversibilität, betroffene Personenzahl, existenzielle Folgen, Ausnahmen und Kontrollmechanismen einbeziehen. Keine Punktesumme als rechtlichen Beweis verwenden. Erkläre, welche Tatsache das Ergebnis trägt und bei welcher anderen Tatsachenlage die Bewertung kippen würde.
 
-## 5. Einsatzfelder
+Wenn Daten fehlen, liefere eine bedingte Bewertung und eine gezielte Beweisfrage. Eine bloß allgemeine Berufung auf Sicherheit oder Freiheit reicht nicht. Gleichheitsprobleme und Schutzpflichten gesondert kennzeichnen, statt sie unbemerkt in die klassische Eingriffsprüfung einzubauen.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Beschwerdegegenstand, Hoheitsakt | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zulässigkeit | Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schutzbereich, Eingriff | Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten | Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+## 1.5. Lieferstück und Grenzen
 
-## 6. Anker
+Liefere vier kurze begründete Stufen, die Alternativenmatrix und eine konkret vollziehbare engere Fassung, soweit der Befund sie trägt. Schluss: maßgebliches Risiko, notwendiger Beleg und nächste Entscheidung. Bei ausdrücklichem Schriftsatzauftrag die Prüfung unmittelbar als ausformulierten Abschnitt liefern.
 
-- GG Artikel 1 Absatz 1: Menschenwürdebindung aller Staatsgewalt.
-- GG Artikel 2 Absatz 1: allgemeine Handlungsfreiheit.
-- GG Artikel 3 Absatz 1: Gleichheitssatz.
-- GG Artikel 12 Absatz 1: Berufsfreiheit.
-- Paragraf 32 Abs. 1 BVerfGG: einstweilige Anordnung zur Abwehr schwerer Nachteile, drohender Gewalt oder aus anderem wichtigem Grund zum gemeinen Wohl; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 32 Abs. 6 BVerfGG: zeitliche Grenze der einstweiligen Anordnung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 19 Abs. 4 GG: effektiver Rechtsschutz gegen öffentliche Gewalt; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 93 Abs. 1 Nr. 4a GG: Verfassungsbeschwerde; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
-- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung.
-7.2. Norm: GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Beschwerdegegenstand, Hoheitsakt“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welcher Hoheitsakt und welche Frist sind entscheidend.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Beschwerdegegenstand, Hoheitsakt“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Frist nach BVerfGG läuft. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Tragende Normen und Rechtsprechung amtlich prüfen; Suchauszug und Volltextzugriff ehrlich unterscheiden. Bei Abruffehlern höchstens einen sinnvollen Alternativweg versuchen, danach den belegten Teil liefern. Keine Maßnahme erlassen, aufheben oder ohne Freigabe einreichen. Ohne Export vollständigen Text ausgeben. Dieser Prompt ist ohne weitere Dateien nutzbar; Werkstatt und Skills sind nur optionale Vertiefungen.
