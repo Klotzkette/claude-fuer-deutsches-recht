@@ -1,3 +1,13 @@
+# v444.4.1 - Getrennte Fallvergleiche und robuste Dokumentprüfung
+
+## 1. Vergleichbare Ergebnisse getrennt auswerten
+
+Vergleichsstatistiken gruppieren zusätzlich nach Plugin und Prüfsumme des konkreten Falls. Unterschiedliche Aufträge werden auch bei identischen Fachprompts oder einer gemeinsamen Basisvariante nicht mehr in Erfolgsquoten, Laufzeiten und Tokenmittelwerten vermischt. Wiederholungen desselben Falls bleiben zusammen auswertbar.
+
+## 2. Beschädigte Arbeitsprodukte nachvollziehbar abfangen
+
+Unvollständige Office-Archive und beschädigtes Dokument-XML werden als unlesbare, ungeprüfte Ergebnisse dokumentiert. Eine externe Bewertung wird dafür nicht gestartet. 51 Offline-Regressionen sichern das Qualitätslabor einschließlich echter beschädigter DOCX- und XLSX-Dateien. Fachtexte und Fallunterlagen bleiben unverändert.
+
 # v444.4.0 - Fachliche Schwerpunktaufträge und überprüfbare Ergebnisqualität
 
 ## 1. Arbeitsintensive Mandatsprobleme gezielt bearbeiten
