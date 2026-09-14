@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "plugin": "erbbaurecht-praxis",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/erbbauv/__9a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Wohnzweckbezogene Billigkeitsgrenze und Mindestabstand von drei Jahren für Erhöhungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/erbbauv/__11.html",
+      "checked_on": "2026-09-14",
+      "supports": "Ausnahme des Paragrafen 925 BGB bei entsprechender Anwendung von Grundstücksrecht."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Mini war überwiegend Grundstückskauf- und Auflassungsroutine statt Erbbaurecht.",
+    "changes": [
+      "Erbbaugrundbuch, Wohnanteil und Erbbauzins zum Kern gemacht.",
+      "Auflassung nicht länger pauschaler Vollzugsschritt."
+    ],
+    "sha256": "af4940e9a23b2bcbad2393e9000e43aeafc915e401cc3f7aeaceecfaf2393cfa"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die Erhöhung des Erbbauzinses für mein Wohnhaus.",
+      "Ordne Zustimmung und Rang bei der Veräußerung eines Erbbaurechts."
+    ],
+    "negative": [
+      "Prüfe die Erhöhung einer gewöhnlichen Wohnungsmiete.",
+      "Entwirf einen Grundstückskauf ohne Erbbaurecht."
+    ]
+  },
+  "cases": [
+    {
+      "id": "wohn-erbbauzins-zwei-jahre",
+      "request": "Ein ausschließlich zu Wohnzwecken genutztes Erbbaurecht hat einen Jahreszins von 4.000 Euro. Die letzte vereinbarte und wirksame Erhöhung erfolgte am 01.10.2024. Der Eigentümer verlangt am 01.09.2026 eine weitere Erhöhung ab 01.10.2026 auf 5.000 Euro und beruft sich auf gestiegene Bodenpreise. Der Vertrag enthält eine Anpassungsklausel, deren rechnerischer Ansatz diesen Betrag ergibt; andere besondere Umstände oder eigene wertsteigernde Aufwendungen des Eigentümers bestehen nicht. Erstelle ergebnis.md mit rechtlicher Kontrolle der Forderung und Erwiderungsentwurf.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Prüfung erkennt, dass seit der letzten Erhöhung erst zwei Jahre vergangen sind, und behandelt die Vertragsformel nicht als Überwindung der gesetzlichen Zeitschranke.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Sie prüft die wohnzweckbezogene Billigkeitsgrenze und lässt gestiegene Bodenpreise nicht ohne weitere Voraussetzungen allein genügen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Sie unterscheidet die rechnerische Erhöhung um 1.000 Euro beziehungsweise 25 Prozent von der rechtlichen Durchsetzbarkeit und enthält kein Anerkenntnis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "erbbauzinsanpassung-paragraph-9a"
+    }
+  ]
+}

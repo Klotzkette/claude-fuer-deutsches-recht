@@ -1,77 +1,27 @@
-# Handelsregister Praxis — Schnellstart
+# 1. Handelsregister: Anmeldung und Vollzug klären
 
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
+Unterstütze mich bei einem konkreten Registervorgang. Prüfe den tatsächlichen Anmeldungsstand und erstelle ein verwendbares Vollzugsprodukt. Dieser Prompt setzt weder installierte Skills noch Zugriff auf andere Repository-Dateien voraus.
 
-Kernauftrag: Praxisplugin für den Umgang mit dem Handelsregister: Anmeldung, Registergericht, Rechtspfleger, Registerrichter, Beanstandung, Zwischenverfügung, Beschwerde, Gesellschafterliste, Kapitalmaßnahmen, Firma, Vertretung. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Vorgang zuerst
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Gesellschaft, Rechtsform, Registergericht, Registernummer, meine Rolle und gewünschte Eintragung. Unterscheide Neuanmeldung, Veränderung, Berichtigung und Löschung. Lies vorliegende Anmeldung, Beschluss, Vollmacht, Registerauszug und gerichtliche Nachricht. Halte Dokumentdatum, Eingang, Bekanntgabe und gesetzte Frist getrennt fest. Ein Entwurfsdatum ist kein Einreichungsnachweis. Frage fehlende entscheidende Angaben einmal gebündelt ab und bearbeite belegte Teile sofort. Beginne bei Folgeaufträgen nicht erneut mit der Aufnahme.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Gesellschaftsvertrag, Gesellschafterliste, Beschlussprotokoll und Handelsregisterauszug. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten wählen; ohne konkreten Auftrag mit Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 1.2 Drei Ebenen nicht vermischen
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Untersuche zuerst den materiellen Vorgang, etwa Bestellung oder Satzungsänderung. Prüfe danach, wer anmelden muss und welche Form sowie Nachweise erforderlich sind. Prüfe schließlich den tatsächlichen Registervollzug. Unterscheide Anmeldung und Eintragung sowie die rechtliche Wirkung des zugrunde liegenden Vorgangs: Nicht jede Änderung entsteht erst durch Registereintragung. Leite Wirksamkeit und Außenwirkung aus der konkreten Rechtsform und dem Vorgang ab, nicht allein aus einem Auszug.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Ordne Gesellschafterliste, Handelsregistereintragung und Transparenzregistermeldung getrennt zu. Auslandsurkunden brauchen eine eigene Prüfung von Herkunft, Vertretungsnachweis, Übersetzung und gegebenenfalls Echtheitsnachweis. Fordere nicht reflexhaft für jedes ausländische Dokument dieselben Förmlichkeiten.
 
-## 2. Fachlicher Direktstart
+## 1.3 Beanstandung abarbeiten
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
-2. Kernprüfung in einem Durchgang: Wer ist Organ, Gesellschafter, Vertreter oder wirtschaftlich Berechtigter; Welche Beschluss- oder Formanforderung ist Wirksamkeitsvoraussetzung.
-3. Belege und Engpass zusammenführen: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment; besonders kritisch ist: Notarielle Form oder Registerfrist ist ungeklärt.
-4. Erstes Arbeitsprodukt liefern: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+Zerlege jede gerichtliche Beanstandung in Wortlaut, behauptetes Hindernis, geforderten Nachweis und Bearbeitungsfrist. Unterscheide Zwischenverfügung wegen eines behebbaren Hindernisses und Ablehnung. Paragraf 382 Absatz 4 FamFG sieht für unvollständige Anmeldungen oder andere behebbare Hindernisse eine angemessene Beseitigungsfrist und die Anfechtbarkeit mit Beschwerde vor. Bestimme Rechtsbehelf und Frist anhand der konkreten Entscheidung und Bekanntgabe; übernimm keine Standardfrist aus anderen Verfahren.
 
-## 3. Kernroute
+Bewerte pro Punkt: Nachreichung möglich, neue Erklärung erforderlich, Rechtsauffassung streitig oder Tatsachengrundlage offen. Ein Begleitschreiben ersetzt keine fehlende Erklärung in notwendiger Form. Eine erbetene Fristverlängerung ist noch keine bewilligte Verlängerung. Behaupte keinen erfolgreichen Vollzug, solange der Eintragungsnachweis fehlt.
 
-1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
-2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
-3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
-4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
-5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+## 1.4 Konkrete Arbeitsprodukte
 
-## 4. Fallkarte
+Liefere Standbericht und Vollzugsmatrix mit Hindernis, Rechtsgrundlage, Dokument, verantwortlicher Person, Form, Frist und Erledigungsbeleg. Entwirf passend dazu Nachreichungsantwort, begründete Verlängerungsbitte oder Beschwerdegerüst. Benenne Anlagen konkret; markiere fehlende Anlagen als noch zu beschaffen. Für ein Closing liste Bedingungen und Nachweise einzeln auf. Trenne interne Beschlussmängel von registergerichtlich zu prüfenden Nachweisen. Formuliere vollständige Sätze statt einer bloßen Überschriftenfolge.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen |
-| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
-| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.5 Prüfung und Freigabe
 
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Gesellschaftsform, Registerlage | Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Satzung, Gesellschaftervereinbarung | Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Organpflichten, Treuepflichten | Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Transaktionsschritte, Notarform | Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
-- HGB Paragraf 105: offene Handelsgesellschaft.
-- GmbHG Paragraf 13: Rechtsnatur der GmbH.
-- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- Paragraf 8 HGB — Handelsregister; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 12 HGB — Anmeldungen und Einreichungen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 15 HGB — Publizität des Handelsregisters; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 29 HGB — Anmeldung des Kaufmanns; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
-7.2. Regelungsanker: BGB Paragraf 705; HGB Paragraf 105 mit Risikozuweisung und Vollzug verbinden.
-7.3. Aktenfund: Für „Gesellschaftsform, Registerlage“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Ladungs- und Beschlussmängeln sowie der Vertretungsmacht.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Gesellschaftsform, Registerlage“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Notarielle Form oder Registerfrist ist ungeklärt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Verifiziere aktuelle Normen amtlich, beginnend bei der konkreten Anmeldung und [Paragraf 382 FamFG](https://www.gesetze-im-internet.de/famfg/__382.html). Entscheidungen nur mit überprüfter Fundstelle und passendem Aussagegehalt. Ohne Recherchezugang kennzeichne offene Rechtsfragen, aber stelle den Aktenabgleich fertig. Keine eigenständige Einreichung, Erklärung oder Kontaktaufnahme. Ohne Export liefere Text. Beende die Bearbeitung mit den nächsten drei Vollzugsschritten statt einer neuen Modulauswahl. Nutze dezimale Überschriften und bei Dokumentexport Times New Roman in 11 Punkt. Die Werkstatt kann optional vertiefen.

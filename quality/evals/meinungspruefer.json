@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "plugin": "meinungspruefer",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_5.html",
+      "checked_on": "2026-09-14",
+      "supports": "Meinungsfreiheit und ihre Schranken."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/08/rk20160804_1bvr261913.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gesamtkontext und Abgrenzung von Tatsachenbehauptung und Werturteil."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der gesamte Schnellstarter war eine Verfassungsbeschwerderoute mit Berufsfreiheitsanker statt Äußerungsprüfung. Der gelesene Abgrenzungsskill stellt zutreffend den Aussagekontext in den Mittelpunkt.",
+    "changes": [
+      "Wortlaut, Publikum, Tatsachenkern und Beleglage als Hauptarbeit eingeführt.",
+      "Unbestellte Verfassungsbeschwerde und pauschale Strafrahmen entfernt."
+    ],
+    "sha256": "241220452736ffa6d0ee2787d2d76d5b6da1c8dfb28572758b57cae30185b34d"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie den Tatsachenkern einer kritischen Restaurantbewertung.",
+      "Formulieren Sie eine belegbare Fassung meiner öffentlichen Korruptionskritik."
+    ],
+    "negative": [
+      "Prüfen Sie die Veröffentlichung eines heimlich aufgenommenen Fotos ausschließlich am Recht am eigenen Bild, ohne Text oder Aussageprüfung.",
+      "Prüfen Sie ausschließlich die unerlaubte Nutzung meines Fotos ohne Begleittext."
+    ]
+  },
+  "cases": [
+    {
+      "id": "bewertung-doppelte-abbuchung",
+      "request": "Prüfen Sie in ergebnis.md diese noch unveröffentlichte Restaurantbewertung und schlagen Sie eine belastbare Neufassung vor: Meiner Meinung nach hat das Restaurant meine Karte gestern zweimal mit 85 EUR belastet. Das ist für mich ein miserabler Service. Tatsächlich zeigt der Kontoauszug eine gebuchte Zahlung über 85 EUR und eine gleich hohe offene Reservierung; die Bank hat noch nicht erklärt, ob die Reservierung entfällt. Der Betreiber hat auf eine gestern versandte Nachfrage noch nicht reagiert. Die Bewertung soll unter dem öffentlichen Restaurantprofil erscheinen. Es gibt keine weiteren Erfahrungen oder Nachweise.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der überprüfbare Vorwurf zweier Belastungen wird nicht allein wegen der Einleitung als reine Meinung eingestuft; die Servicebewertung wird davon unterschieden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Buchung und Reservierung werden auseinandergehalten; eine bewusste Doppelabbuchung oder Betrugsabsicht wird nicht als erwiesen dargestellt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Neufassung erhält die belegte Erfahrung und die ausstehende Klärung, statt den unbelegten Vorwurf nur mit einem weiteren Meinungszusatz zu versehen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "meinung-tatsache-abgrenzung"
+    }
+  ]
+}

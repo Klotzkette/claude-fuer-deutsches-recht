@@ -1,6 +1,6 @@
 # Claude – Deutsche rechtliche Fähigkeiten / German Legal Skills
 
-[Plugins](#was-ist-drin) · [Skills](./SKILLS.md) · [Werkstatt-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) · [Mini-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) · [Testakten](./testakten/README.md) · [Installation](./INSTALLATION_EINFACH.md) · [English](#english-quick-guide)
+[Plugins](#was-ist-drin) · [Skills](./SKILLS.md) · [Werkstatt-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) · [Mini-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) · [Schwerpunkt-Prompts](./SCHWERPUNKTE.md) · [Qualitätslabor](./QUALITY.md) · [Testakten](./testakten/README.md) · [Installation](./INSTALLATION_EINFACH.md) · [English](#english-quick-guide)
 
 > **Experimentelles Skill-Set** für die anwaltliche Praxis im deutschen Recht – Skills, Sub-Agenten, Workflows etc. als Anregung für Kanzlei-Arbeitsabläufe. Orientiert sich an der **deutschen Rechtspraxis**, an Gesetzestexten, amtlichen Materialien und frei überprüfbarer Rechtsprechung. Enthält keinerlei Fachgutachten oder Rechtsberatung, alle Angaben ohne Gewähr – jeder Nutzer kalibriert die Skills selbst für die eigene Praxis.
 
@@ -13,6 +13,12 @@ Die Sammlung unterstützt das Prüfen von Unterlagen, die strukturierte rechtlic
 Für den ersten Vorgang: Rechtsgebiet öffnen, einen Einstieg wählen und die Unterlagen bereitstellen. Ein einzelnes Plugin oder dessen Schnellstart genügt meistens; der Download der gesamten Sammlung ist keine Voraussetzung. Die [Kurzanleitung](./QUICKSTART.md) erklärt den Weg zum ersten Ergebnis.
 
 Weniger konkurrierende Einstiege, klarere Aufgaben: [Skills nach Ergebnis auswählen und bisherige Aufrufe umstellen](./docs/skill-auswahl-und-umstellungen.md). Dort steht auch, welche Fachvertiefungen erhalten bleiben und erst bei Bedarf gelesen werden.
+
+Für besonders arbeitsintensive Mandate gibt es [fachliche Schwerpunktaufträge](./SCHWERPUNKTE.md): je Fachanwalts-Plugin sowie für Steuer- und Insolvenzrecht einen konkreten Skill und einen eigenständigen Markdown-Prompt mit höchstens 7500 Zeichen. Die Auswahl betrifft zum Beispiel einen vollständigen Beleg- und Stichtagsabgleich statt einer allgemeinen Rechtsgebietsübersicht.
+
+Das [Qualitätslabor für alle Plugins](./QUALITY.md) trennt Dateiprüfung, tatsächliche Skill-Auswahl und Bewertung erzeugter Arbeitsergebnisse. Fachlich geprüfte Mini-Prompts und vorbereitete Prüffälle sind keine bereits bestandenen Modelltests. [Durchführung, zwei unabhängige Prüfer und Fehlerdiagnose](./quality/README.md) erklären, wie konkrete Client-Läufe bewertet werden; ungeprüfte Quellen und fehlende Zugänge bleiben sichtbar. Diese Entwicklungsprüfungen laufen nicht zusätzlich bei jedem Mandatsaufruf.
+
+English: [Focused workflows](./SCHWERPUNKTE.md) offer a specific skill and a standalone Markdown prompt for substantial specialist assignments. The [quality laboratory](./quality/README.md#17-english-summary) distinguishes prepared cases, structural checks and actual model evaluations; it does not claim that unexecuted client tests have passed.
 
 ## Schnell arbeiten, auch in einer anderen Oberfläche
 
@@ -60,12 +66,12 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 | Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
 | --- | ---: | --- | --- |
 | **Plugins** | 237 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
-| **Skills** | 22408 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| **Skills** | 22433 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
 | **Werkstatt-Prompts** | 237 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | **Schnellstart-/Mini-Prompts** | 237 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
 | **Testakten** | 337 zentral / 340 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
-Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22408 Skills benutzbar bleibt.
+Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22433 Skills benutzbar bleibt.
 
 Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
@@ -103,10 +109,10 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | Kennzahl | Wert |
 |---|---|
 | **Plugins** | 237 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 22408: [Gesamtübersicht](./SKILLS.md) |
+| **Skills (SKILL.md)** | 22433: [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 337 zentral / 340 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v444.3.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v444.4.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads

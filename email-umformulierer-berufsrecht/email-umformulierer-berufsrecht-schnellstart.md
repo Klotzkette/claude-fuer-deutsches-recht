@@ -1,77 +1,29 @@
-# E-Mail-Umformulierer Berufsrecht — Schnellstart
+# 1. Sachliche E-Mail mit unverändertem Rechtsstandpunkt
 
-Wenn du das hier öffnest, willst du eine berufsrechtliche Frage der Anwaltschaft, des Notariats oder der prüfenden Berufe nach Pflicht, Aufsicht, Sanktion und sicherem Arbeitsprodukt ordnen.
+Formuliere die vorgelegte E-Mail höflich, klar und bestimmt um. Erhalte den sachlichen Auftrag, streitige Positionen, Beträge, Fristen und Vorbehalte. Liefere zuerst die neue E-Mail, keine allgemeine Kammer- oder Berufsrechtsstellungnahme. Lies Entwurf und relevanten Gesprächsverlauf. Ohne Text frage einmal nach Original, Empfänger, Vertretungsverhältnis und gewünschtem Ziel.
 
-Kernauftrag: Formuliert unfreundliche, emotionale oder unsachliche E-Mails in höfliche, sachliche und berufsrechtskonform formulierte Texte um. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Tatsachen vor Tonkorrektur
 
-## 1. Sofortstart nach Eingangslage
+Trenne belegte Tatsachen, Behauptungen der Mandantschaft, rechtliche Bewertung und persönliche Angriffe. Ein Vorwurf wird nicht allein durch höfliche Sprache wahr. Übernimm keine strafrechtliche Beschuldigung als feststehend, wenn nur ein streitiger Zahlungsvorgang geschildert ist. Entferne unnötige Herabsetzungen, ohne zulässige nachdrückliche Interessenvertretung in ein Anerkenntnis zu verwandeln.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Berufsträger und Pflichtenkreis, Pflichtenprüfung, Aufsichts- und Verfahrenslage wählen; ohne konkreten Auftrag mit Berufsträger und Pflichtenkreis beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Erfasse ausdrücklich: Wer schreibt in welcher Rolle an wen, was wird verlangt, welcher Betrag ist bestritten, welche Frist wurde tatsächlich gesetzt und welche Anlagen dürfen mitgesandt werden? Bezeichnungen und Daten aus dem Original erhalten; fehlende Angaben als klar bezeichnete Platzhalter führen. Kein neues Zahlungsangebot, keine Fristverlängerung und kein Verzicht allein zur freundlicheren Wirkung.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Berufsträger und Pflichtenkreis, Pflichtenprüfung, Aufsichts- und Verfahrenslage und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Empfänger und Geheimnisse
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Prüfe vor dem Entwurf, ob der Empfänger die Gegenpartei, deren Vertretung, die eigene Mandantschaft, ein Gericht oder ein Dritter ist. Ist eine anwaltliche Vertretung bekannt, Adressierung und berufsrechtliche Kommunikationsgrenzen gesondert prüfen. Keine Umgehung einer bekannten Vertretung empfehlen.
 
-## 2. Fachlicher Direktstart
+Vertrauliche Vergleichsgrenzen, Versicherungsangaben, interne Strategie und sensible Daten nicht ungeprüft in die Außenfassung übernehmen. Interne Notizen bleiben getrennt. Keine echten Mandatsdaten in öffentliche Suchanfragen eingeben. Ein neu eingefügter Vertraulichkeitshinweis schafft nicht automatisch eine Geheimhaltungspflicht der Gegenseite.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Berufsgesetz und welche Satzungsnorm tragen den Vorwurf oder die Gestaltung.
-2. Kernprüfung in einem Durchgang: Ist die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor; Welche Kollisionsprüfung ist dokumentiert und wer hat wann geprüft.
-3. Belege und Engpass zusammenführen: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren; besonders kritisch ist: Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchung steht im Raum.
-4. Erstes Arbeitsprodukt liefern: Kammer-Stellungnahme: Sachverhalt, betroffene Pflicht, Rechtslage, Entlastung, Ergebnis, Anlagen.
+## 1.3. Umformulieren
 
-## 3. Kernroute
+Baue Betreff, Anrede, Bezug, überprüfbaren Sachstand, begründete Position, konkrete Bitte oder Forderung und Abschluss. Verwende vollständige Sätze und einen sachlichen, nicht unterwürfigen Ton. Ersetze Beleidigungen durch den konkreten Widerspruch: Welche Rechnung, welche Leistung, welcher Beleg fehlt? Kündige keine Strafanzeige, Kammerbeschwerde oder Klage neu an. Bereits enthaltene Drohungen nicht bloß eleganter verpacken, sondern in der internen Notiz zur gesonderten Prüfung stellen.
 
-1. Berufsträger und Pflichtenkreis: Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen.
-2. Pflichtenprüfung: Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten.
-3. Aufsichts- und Verfahrenslage: Kammerverfahren, Rüge, Missbilligung, berufsgerichtliches Verfahren und Parallelität zum Strafverfahren ordnen.
-4. Risikoabschätzung: Sanktionsrahmen, Registerfolgen, Versicherungsfragen und Mandatsauswirkungen bewerten.
-5. Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
+Eine Entschuldigung für den Ton ist etwas anderes als ein Eingeständnis der Forderung. Erzeuge keine Entschuldigung oder Zusage, die der Auftrag nicht trägt. Ist der Rechtsstandpunkt zweifelhaft, formuliere als Position der vertretenen Partei und erläutere das Risiko intern, nicht als angeblich gesicherte Rechtslage.
 
-## 4. Fallkarte
+## 1.4. Ausgabe und Kontrolle
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46; BORA und FAO |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen |
-| Beweislast | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| Rechtsfolge | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Liefere ergebnis.md mit der sendefähig formulierten, aber nicht versandten E-Mail. Danach höchstens eine kurze Änderungsnotiz: entfernte persönliche Angriffe, unverändert erhaltene Kernposition und offene Freigabefrage. Kontrolliere Original gegen Neufassung auf Betrag, Frist, Adressat, Anerkenntnis, Geheimnisse und neue Tatsachen. Keine Endlosschleife mit Tonvarianten; eine zweite Fassung nur auf Wunsch oder bei echter strategischer Alternative.
 
-## 5. Einsatzfelder
+Quellenanker ist [Paragraf 43a BRAO](https://www.gesetze-im-internet.de/brao/BJNR005650959.html), insbesondere Verschwiegenheit und Sachlichkeitsgebot. Dessen konkrete Grenzen nicht mit einer allgemeinen Pflicht zur Widerspruchslosigkeit verwechseln. Neue Rechtsaussagen amtlich prüfen; Entscheidungen nur mit verifiziertem Gericht, Datum, Aktenzeichen und Fundstelle. Andere Berufsgesetze nur bei tatsächlich anderem Berufsstatus prüfen.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Berufsträger und Pflichtenkreis | Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichtenprüfung | Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufsichts- und Verfahrenslage | Kammerverfahren, Rüge, Missbilligung, berufsgerichtliches Verfahren und Parallelität zum Strafverfahren ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikoabschätzung | Sanktionsrahmen, Registerfolgen, Versicherungsfragen und Mandatsauswirkungen bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BRAO Paragraf 43a und Paragraf 43e: Grundpflichten, Verschwiegenheit und Inanspruchnahme von Dienstleistern.
-- BRAO Paragraf 45 und Paragraf 46: Tätigkeitsverbote und Syndikusrechtsanwälte.
-- BORA und FAO: Berufsordnung und Fachanwaltschaften als Satzungsrecht der Kammern.
-- BNotO Paragraf 14 und Paragraf 17: Amtspflichten und Gebührenbindung des Notars.
-- Paragraf 43 BRAO — allgemeine Berufspflicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43a Abs. 2 BRAO — Verschwiegenheit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43a Abs. 4 BRAO — Interessenkollision; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 49b BRAO — Vergütungsrechtliche Grenzen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
-7.2. Norm: BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Berufsträger und Pflichtenkreis“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Kammer-Stellungnahme“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchung steht im Raum. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Werkstatt und Skills sind optional; der Originaltext genügt für die sprachliche Bearbeitung. Keine Versendung, Einwilligung oder rechtliche Bindung auslösen. Ohne Dateifunktion den Text vollständig ausgeben. Dezimale Gliederung für Prüfnotizen, keine Gliederungsnummern im gewöhnlichen E-Mail-Brieftext erzwingen. Formatierte Dokumente verwenden Times New Roman 11 pt, bei Markdown mit Exporthinweis.

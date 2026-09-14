@@ -1,4 +1,4 @@
-# US Copyright Registrierung Verlag — Schnellstart
+# US Copyright Registrierung Verlag: Schnellstart
 
 Wenn du das hier öffnest, willst du ein Werk, eine Registrierung, eine Lizenz oder eine Verletzung nach Title 17 und dem konkreten US-Forum quellenfest bearbeiten.
 
@@ -43,13 +43,11 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 5. Einsatzfelder
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Werk und Rechtskette | Werktyp, Entstehung, Urheber, Beschäftigung oder Auftrag, Transfers, Territorium, Veröffentlichung und Varianten feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Registrierung | Claimant, author, dates, publication status, work made for hire, excluded material, limitation of claim, deposit und certification prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechte und Verteidigung | Konkrete Nutzung, substantial similarity, access, license, fair use, first sale, safe harbor oder andere Schranke ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Remedies und Forum | Registrierungstiming, actual oder statutory damages, profits, injunction, fees, limitation period, CCB oder federal court bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Registration Worksheet, rights-chain schedule, DMCA notice, response, infringement memo, complaint outline oder deal redline erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Erstelle pro Werk eine Zeitachse: Fertigstellung, erste Veröffentlichung mit Land, Verletzungsbeginn, Eingang von Antrag, Gebühr und Deposit, Behördenentscheidung und effektives Registrierungsdatum. ISBN, Uploadbestätigung und Zertifikat sind verschiedene Nachweise. Mehrere Ausgaben oder Beiträge nicht ohne Prüfung zu einem Claim zusammenziehen.
+
+Nach [Title 17, Chapter 4](https://www.copyright.gov/title17/92chap4.html) sind Schutzentstehung, Klagevoraussetzung und Remedies zu trennen. Section 411 betrifft insbesondere United States works; die Einordnung nicht allein aus dem Sitz des Verlags ableiten. Nach Section 410(d) ist das effektive Datum an den Eingang aller später als ordnungsgemäß anerkannten Bestandteile geknüpft, nicht automatisch an den ersten Formularversand oder das Zertifikatsdatum.
+
+Section 412 sperrt unter ihren Voraussetzungen statutory damages und attorney's fees bei vor Registrierung begonnener Verletzung. Für nach Erstveröffentlichung begonnene Verletzungen die Dreimonatsausnahme und weitere gesetzliche Sonderfälle prüfen. Ein solcher Ausschluss bedeutet nicht, dass sämtliche Ansprüche oder der Urheberrechtsschutz entfallen. Tatsächlichen Schaden, Verletzergewinn und Unterlassung gesondert mit US-Counsel prüfen; keine Höchstbeträge als sichere Forderung ausgeben.
 
 ## 6. Anker
 
@@ -63,11 +61,11 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Registration Worksheet, rights-chain schedule, DMCA notice, response, infringement memo, complaint outline oder deal redline erstellen.
 7.2. Norm: 17 U.S.C. Sections 101 bis 106A; 17 U.S.C. Sections 201 bis 205 mit dem entscheidenden Merkmal verbinden.
 7.3. Aktenfund: Für „Werk und Rechtskette“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Darlegungs- und Nachweisfrage für US Copyright, Registrierung und Rechteverwertung: Welche Handlung verletzt welches ausschließliche Recht und welche Verteidigung ist tatsachenbasiert. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche schriftliche Rechtekette und welche US-Registrierung decken Werk, claimant und publication status.
+7.4. Beweis: Nutzung, Rechtekette und Registrierungsdaten einzeln belegen; offene Folgen aussprechen.
+7.5. Gegenposition: Den stärksten Einwand zu Rechtekette, Werkumfang oder Registrierungsstatus vollständig behandeln.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
 7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Registration Worksheet“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: US-Bundesrecht, einzelstaatliches Vertragsrecht und deutsches Urheberrecht werden vermischt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Bei vermischten Rechtsordnungen die betroffenen Fragen auseinanderziehen und den gesicherten Teil liefern. Aktuelle Amtsvorgaben für Formular, Deposit und Gebühr prüfen, keine Registrierung oder Gebührenzahlung ohne Freigabe auslösen. Keine Zertifizierung, DMCA-Erklärung oder Klage eigenmächtig abgeben. Dieser Prompt funktioniert ohne weitere Dateien; die Werkstatt ist eine optionale Vertiefung.

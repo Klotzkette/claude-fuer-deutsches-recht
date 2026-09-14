@@ -1,77 +1,21 @@
-# Liquiditätsplanung — Schnellstart
+# 1. Liquiditätsplanung aus Zahlungsdaten
 
-Wenn du das hier öffnest, willst du eine belastbare Liquiditätsplanung aufstellen und drohende Zahlungsunfähigkeit frühzeitig erkennen.
+Arbeite zuerst mit Nutzersachverhalt, Bankauszügen, offenen Posten und Zahlungsplänen. Übernimm Währung, Stichtag und Zeittakt. Frage nur nach Angaben, ohne die eine entscheidende Zahlungszeile nicht eingeordnet werden kann; liefere die übrige Rechnung bereits.
 
-Kernauftrag: Liquiditätsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Lücken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Zahlungsbestand abstimmen
 
-## 1. Sofortstart nach Eingangslage
+Gleiche Anfangsbestand mit Konten ab. Erfasse je Zahlung Betrag, Fälligkeit, erwarteten Zahlungstag, Beleg und Sicherheit. Trenne gesperrte Guthaben, verfügbare Mittel und abrufbare Kreditlinien. Weise Kreditziehungen als Finanzierung aus; zähle sie nicht zugleich als Anfangsguthaben und Zufluss. Belege Stundungen mit Wirksamkeit und neuem Termin. Entferne keine Verbindlichkeit allein wegen geplanter Verhandlungen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Datenraum, Dreizehn-Wochen-Plan, Stressszenarien wählen; ohne konkreten Auftrag mit Datenraum beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 1.2. Rechenweg offenlegen
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Datenraum, Dreizehn-Wochen-Plan, Stressszenarien und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Rechne je Woche Anfangsbestand plus Einzahlungen minus Auszahlungen gleich Endbestand; übernimm ihn in die Folgewoche. Trenne Finanzierung und operativen Zahlungsstrom. Verwende Bruttozahlungen konsistent; vermeide doppelte Umsatzsteuer- und OPOS-Erfassung. Stelle unterwöchige Engpässe trotz positivem Wochenabschluss heraus.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Rechne Ausgangsfall, Stressfall für die konkrete unsichere Zahlung und Maßnahmenfall. Nenne ersten Fehlbetrag, maximalen Finanzierungsbedarf und benötigten Bereitstellungstag. Negative Bestände sind ungedeckter Bedarf, kein nutzbares Guthaben. Dokumentiere Änderungen an der abgestimmten Planversion.
 
-## 2. Fachlicher Direktstart
+## 1.3. Planung und Rechtsbewertung
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Zahlungen sind heute, sieben Tage, dreißig Tage und dreizehn Wochen fällig.
-2. Kernprüfung in einem Durchgang: Welche Zuflüsse sind sicher, bedingt, streitig oder nur geplant; Welche Zahlungen dürfen aus Haftungsgründen nicht mehr ohne Prüfung geleistet werden.
-3. Belege und Engpass zusammenführen: Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an; besonders kritisch ist: Liquiditätslücke kann nicht binnen drei Wochen geschlossen werden.
-4. Erstes Arbeitsprodukt liefern: Anschlussentscheidung: Finanzierungsanfrage, Stundung, Gesellschafterbeitrag, Sanierungspfad oder Insolvenzantragsprüfung formulieren.
+Eine 13-Wochen-Tabelle entscheidet nicht abschließend über Insolvenzreife. [Paragraf 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html) betrifft fällige Zahlungspflichten, [Paragraf 18 InsO](https://www.gesetze-im-internet.de/inso/__18.html) künftige Erfüllbarkeit mit regelmäßig 24 Monaten Prognose. Benenne Datenlücken für weitergehende Tests. Keine Freigabe allein aus einer Prozentmarke und keinen automatischen Zahlungsstopp für sämtliche Positionen erklären. Bei Krisensignalen die sofortige rechtliche Prüfung anschließen, ohne die Rechenarbeit abzubrechen.
 
-## 3. Kernroute
+## 1.4. Arbeitsprodukt
 
-1. Datenraum: Bankkonten, offene Posten, Lohnsteuer, Sozialabgaben, Kreditlinien, Sicherheiten und Fälligkeiten einsammeln.
-2. Dreizehn-Wochen-Plan: Anfangsliquidität, sichere Zuflüsse, unvermeidbare Abflüsse und freie Linien wochenweise darstellen.
-3. Stressszenarien: Zahlungsverzug von Kunden, Covenant-Bruch, Lieferantenstopp, Lohnlauf und Steuern separat simulieren.
-4. Insolvenznähe: Zahlungsstockung, Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung getrennt dokumentieren.
-5. Anschlussentscheidung: Finanzierungsanfrage, Stundung, Gesellschafterbeitrag, Sanierungspfad oder Insolvenzantragsprüfung formulieren.
-
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | InsO Paragraf 17; InsO Paragraf 18; InsO Paragraf 19 |
-| Rechtsprechung | BGH, Urteil vom 24.05.2005 - IX ZR 123/04; BGH, Urteil vom 19.12.2017 - II ZR 88/16 |
-| Tatbestand | Bankkonten, offene Posten, Lohnsteuer, Sozialabgaben, Kreditlinien, Sicherheiten und Fälligkeiten einsammeln |
-| Beweislast | Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an |
-| Rechtsfolge | Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Datenraum | Bankkonten, offene Posten, Lohnsteuer, Sozialabgaben, Kreditlinien, Sicherheiten und Fälligkeiten einsammeln. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dreizehn-Wochen-Plan | Anfangsliquidität, sichere Zuflüsse, unvermeidbare Abflüsse und freie Linien wochenweise darstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Stressszenarien | Zahlungsverzug von Kunden, Covenant-Bruch, Lieferantenstopp, Lohnlauf und Steuern separat simulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Insolvenznähe | Zahlungsstockung, Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung getrennt dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschlussentscheidung | Finanzierungsanfrage, Stundung, Gesellschafterbeitrag, Sanierungspfad oder Insolvenzantragsprüfung formulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- InsO Paragraf 17: Zahlungsunfähigkeit als harte Grenze der Liquiditätsplanung.
-- InsO Paragraf 18: drohende Zahlungsunfähigkeit als Sanierungs- und Planungswarnsignal.
-- InsO Paragraf 19: Überschuldung bei juristischen Personen.
-- StaRUG Paragraf 1: Krisenfrüherkennung und Krisenmanagement.
-- InsO Paragrafen 17-19, Paragraf 15a; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- SGB IV Paragraf 28e, StGB Paragraf 266a für Arbeitnehmeranteile; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- AO Paragrafen 34, 69, 370 bei Steuer-/Erklärungspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp.
-7.2. Norm: InsO Paragraf 17; InsO Paragraf 18 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Datenraum“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Zuflüsse sind sicher, bedingt, streitig oder nur geplant.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Datenraum“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Liquiditätslücke kann nicht binnen drei Wochen geschlossen werden. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere die verlangte Planung mit prüfbaren Rechenschritten, Annahmen, Stressvergleich und ausformuliertem Finanzierungsvermerk. Ohne Tabellenexport eine nachrechenbare Markdown-Tabelle liefern, keine Arbeitsmappe behaupten. In vorhandenen Arbeitsmappen Formeln und Ursprungsdaten erhalten. Optional vertieft `forecast-wochenplanung` die Auftragsklärung; ohne den Skill genügt die hier beschriebene Rechnung. Textteil beim Export: Times New Roman, 11 pt, dezimale Gliederung; die Tabelle bleibt zahlenorientiert.

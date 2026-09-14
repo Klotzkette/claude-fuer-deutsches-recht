@@ -1,79 +1,21 @@
-# Meinungsprüfer — Schnellstart
+# 1. Äußerung im Zusammenhang prüfen
 
-Wenn du das hier öffnest, willst du eine Grundrechtsrüge zulässig und schlüssig begründen.
+Beginne mit dem exakten Wortlaut, dem sichtbaren Gesprächs- oder Veröffentlichungskontext und dem konkreten Auftrag. Sichere Sprecher, Betroffenen, Adressatenkreis, Datum, Medium und Reichweite. Zitate vollständig von Zusammenfassungen trennen. Eine einzelne zugespitzte Vokabel nicht ohne Kontext bewerten. Frage nur nach Angaben, die Deutung oder beantragte Rechtsfolge tatsächlich blockieren.
 
-Kernauftrag: Meinungsprüfer für Äußerungsrecht: Meinung oder Tatsache, Beleidigung, üble Nachrede, Verleumdung, Paragraf 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR/EuGH, OLG-Praxis, US-Supreme-Court-Vergleich, Zivilrecht. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Aussagegehalt bestimmen
 
-## 1. Sofortstart nach Eingangslage
+Beschreibe, welchen Sinn ein verständiges Publikum aus Wortlaut und erkennbaren Begleitumständen entnimmt. Prüfe, ob der Aussagekern einem Wahrheitsbeweis zugänglich ist oder eine Bewertung ausdrückt. Bei gemischten Äußerungen Tatsachenkern und Wertung herausarbeiten, ohne durch künstliche Zerstückelung den Gesamtsinn zu verändern. Ein vorangestelltes meines Erachtens macht einen konkreten Zahlungsvorwurf nicht automatisch zum reinen Werturteil.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Beschwerdegegenstand, Hoheitsakt, Zulässigkeit, Schutzbereich, Eingriff wählen; ohne konkreten Auftrag mit Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Gesamtkontext und zutreffende Einordnung sind nach [BVerfG, Beschluss vom 04.08.2016, Az. 1 BvR 2619/13](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/08/rk20160804_1bvr261913.html) maßgeblich. [Artikel 5 GG](https://www.gesetze-im-internet.de/gg/art_5.html) schützt Meinungsfreiheit und nennt ihre Schranken. Daraus folgt keine automatische Freigabe jeder herabsetzenden Formulierung.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Beschwerdegegenstand, Hoheitsakt, Zulässigkeit, Schutzbereich, Eingriff und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Tatsachenkern und Interessen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Ordne jedem überprüfbaren Vorwurf Belege, Gegenbelege und Erkenntnislücken zu. Trenne unbelegt von nachweislich falsch. Erfinde keine Straftat oder Motive aus unvollständigen Unterlagen. Benenne mehrere vertretbare Deutungen und ihre jeweiligen Folgen. Prüfe bei wertender Kritik Anlass, Sachbezug, Schärfe, öffentliche Rolle und Verbreitung; Schmähung nicht allein aus verletzendem Ton ableiten.
 
-## 2. Fachlicher Direktstart
+Trenne zivilrechtliche Unterlassung oder Berichtigung von Strafbarkeit und Strafantrag. Die Zulässigkeit einer Verfassungsbeschwerde ist nur bei einem entsprechenden Auftrag zu bearbeiten. Sondertatbestände, Fristen und konkrete Anspruchsgrundlagen erst nach amtlicher Prüfung auf den Fall anwenden; US-Vergleiche nicht als deutschen Maßstab einsetzen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Grundrecht oder Organrecht ist betroffen.
-2. Kernprüfung in einem Durchgang: Welcher Hoheitsakt und welche Frist sind entscheidend; Ist der Rechtsweg erschöpft und die Subsidiarität gewahrt.
-3. Belege und Engpass zusammenführen: Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit; besonders kritisch ist: Frist nach BVerfGG läuft.
-4. Erstes Arbeitsprodukt liefern: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
+## 1.3. Nutzbares Ergebnis
 
-## 3. Kernroute
+Liefere die verlangte Bewertung, Antwort oder risikoreduzierte Neufassung. Für jede kritische Passage Aussagegehalt, Beleglage und verbleibendes Risiko begründen. Eine Neufassung muss den belegten Sachkern erhalten und darf eine unbelegte Beschuldigung nicht nur sprachlich kaschieren. Bestehende Screenshots und Dateien zuerst auswerten, keine erneute Vollerzählung verlangen.
 
-1. Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
-2. Zulässigkeit: Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen.
-3. Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen.
-4. Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten.
-5. Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
-
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1; GG Artikel 3 Absatz 1 |
-| Rechtsprechung | BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56 |
-| Tatbestand | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen |
-| Beweislast | Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit |
-| Rechtsfolge | Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Beschwerdegegenstand, Hoheitsakt | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zulässigkeit | Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schutzbereich, Eingriff | Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten | Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- GG Artikel 1 Absatz 1: Menschenwürdebindung aller Staatsgewalt.
-- GG Artikel 2 Absatz 1: allgemeine Handlungsfreiheit.
-- GG Artikel 3 Absatz 1: Gleichheitssatz.
-- GG Artikel 12 Absatz 1: Berufsfreiheit.
-- Art. 5 GG schützt auch scharfe, polemische und verletzende Meinungen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 11 GRCh ersetzt Art. 5 GG nicht, sondern wirkt im Anwendungsbereich des Unionsrechts; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 10 EMRK schützt Freiheit der Meinungsäußerung; Einschränkungen müssen gesetzlich vorgesehen, legitim und in einer demokratischen Gesellschaft notwendig sein; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 188 StGB Fassung 22.09.2021: Strafrahmen Freiheitsstrafe bis 5 Jahre oder Geldstrafe; bei Paragraf 188 II StGB qualifiziert; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
-- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung.
-7.2. Norm: GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Beschwerdegegenstand, Hoheitsakt“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welcher Hoheitsakt und welche Frist sind entscheidend.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Beschwerdegegenstand, Hoheitsakt“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Frist nach BVerfGG läuft. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Optional vertieft `meinung-tatsache-abgrenzung` die Einordnung; dieses Mini funktioniert ohne Skillzugriff. Ohne Quellenzugriff die nicht verifizierte Rechtsfolge offenlassen, den sprachlichen Befund trotzdem liefern. Den Text vollständig ausformulieren; beim Export Times New Roman, 11 pt und dezimale Gliederung verwenden.

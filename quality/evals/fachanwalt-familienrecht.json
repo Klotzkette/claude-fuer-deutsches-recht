@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-familienrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1378.html",
+      "checked_on": "2026-09-14",
+      "supports": "Hälftige Zugewinndifferenz, Begrenzung einschließlich Hinzurechnungen und Entstehung erst mit Beendigung des Güterstands."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2023/XII_ZB_558-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Randnummern 17 bis 23: Erfüllungswirkung einer verlangten beziehungsweise als Erfüllung angenommenen Trennungsauskunft und Beweislast nach Paragraf 1375 Absatz 2 Satz 2 BGB auch bei später streitigem tatsächlichem Trennungstag; titulierte Auskunft gesondert einordnen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1374.html",
+      "checked_on": "2026-09-14",
+      "supports": "Anfangsvermögen mit Abzug von Verbindlichkeiten sowie privilegierter Erwerb insbesondere durch Schenkung oder Erbfall."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1375.html",
+      "checked_on": "2026-09-14",
+      "supports": "Endvermögen, illoyale Minderungen, Beweislast bei Absinken gegenüber einer Trennungsauskunft und zeitliche beziehungsweise zustimmungsbezogene Grenzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1379.html",
+      "checked_on": "2026-09-14",
+      "supports": "Stichtagsbezogene Vermögensauskunft mit Belegen und Wertermittlung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1384.html",
+      "checked_on": "2026-09-14",
+      "supports": "Rechtshängigkeit des Scheidungsantrags als maßgeblicher Zeitpunkt für Berechnung und Höhe der Ausgleichsforderung bei Scheidung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Zugewinnpassage blieb hinter der notwendigen Abstimmung von Auskunftsstichtag, tatsächlichen Beständen und Bewegungen zurück. Verbindlich formulierte lokale Referenzverweise beeinträchtigten die Eigenständigkeit des Downloads.",
+    "changes": [
+      "Eigentumsanteile, tatsächliche Darlehensvaluta und stichtagsfremde Auszüge ausdrücklich getrennt.",
+      "Umbuchungen und Tilgungen gegen doppelte Verlustzählung abgesichert.",
+      "Erfüllende Trennungsauskunft und den verifizierten Beschluss XII ZB 558/23 ergänzt; Referenzzugriff optional formuliert."
+    ],
+    "sha256": "ccb729b64ea143033a8e47c069e2475e4e227ef5bafdc2c853fe3531995618d3"
+  },
+  "selection": {
+    "positive": [
+      "Gleiche die Zugewinnaufstellungen meiner Ehefrau mit Bankbelegen zu Heirat, Trennung und Zustellung ab.",
+      "Berechne die Auswirkung einer elterlichen Schenkung und ungeklärter Abflüsse zwischen Trennungsauskunft und Endvermögen."
+    ],
+    "negative": [
+      "Berechne ausschließlich Kindesunterhalt aus den laufenden Erwerbseinkünften.",
+      "Prüfe die Teilung gesetzlicher Rentenanwartschaften im Versorgungsausgleich."
+    ],
+    "target_skill": "zugewinn-vermoegensbelege-stichtage-abgleichen"
+  },
+  "cases": [
+    {
+      "id": "trennungsauskunft-umbuchung-tilgung-indexierung",
+      "request": "Bitte erstelle für Ehegatte A eine intern verwendbare Zugewinnabrechnung in ergebnis.md. A und B leben im deutschen gesetzlichen Güterstand, Heirat am 01.06.2015, Anfangsvermögen jeweils null. B erhielt am 01.06.2018 von den Eltern 100.000 Euro geschenkt, ohne Lasten und nicht zur Deckung laufenden Lebensbedarfs. Schenkung und Wert sind belegt. Für diese Übungsrechnung sind die amtlich geprüften Indexwerte derselben Basis verbindlich vorgegeben: Erwerbsmonat 100, Endmonat 110. Weitere privilegierte Erwerbe bestehen nicht. Der Scheidungsantrag ging am 20.05.2026 bei Gericht ein und wurde am 02.06.2026 zugestellt. A hat am 02.06.2026 ein schuldenfreies Vermögen von 100.000 Euro. B hatte auf die verlangte Auskunft zum 01.01.2025 eine von A ausdrücklich als Erfüllung angenommene Aufstellung vorgelegt: allein gehörendes Haus 600.000 Euro, tatsächliche Darlehensschuld 240.000 Euro, Kontoguthaben 240.000 Euro, kein Depot. B behauptet nun eine tatsächliche Trennung erst am 01.02.2025; einen Auskunftstitel gibt es nicht. Zum 02.06.2026 beträgt Bs unveränderter Hauswert 600.000 Euro, Darlehensvaluta 200.000 Euro, Kontoguthaben 40.000 Euro und Depotwert 60.000 Euro. Die Bank bestätigt diese Werte. Der Kontoabfluss seit der Auskunft besteht aus einer Übertragung von 60.000 Euro in das neue eigene Depot, einer belegten Darlehenstilgung von 40.000 Euro und weiteren 100.000 Euro, die B ohne Belege als allgemeinen Verbrauch bezeichnet. Andere Zugänge oder Wertänderungen gibt es nicht. Ein zunächst vorgelegter Kontoauszug vom 05.06.2026 zeigt nur 30.000 Euro, weil B nach Zustellung 10.000 Euro ausgegeben hat. Bitte stimme Belege und Stichtage ab und stelle die vorläufige Rechnung sowie die Auswirkung des streitigen Verbrauchs dar. Formuliere gezielte Nachfragen und einen nicht zu versendenden Auskunftsentwurf.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Berechnung stellt auf den 02.06.2026 ab und setzt 40.000 Euro Kontoendbestand an, nicht den Gerichtseingang oder den späteren Auszug mit 30.000 Euro.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Sie indexiert den privilegierten Nettoerwerb auf 110.000 Euro und zieht ihn nicht zusätzlich ein zweites Mal von Bs Endvermögen ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Bewegungsrechnung ermittelt 600.000 Euro Nettovermögen zur Auskunft und 500.000 Euro am Endstichtag; Depotübertragung und Darlehenstilgung werden nicht als zusätzliche illoyale Verluste behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Ohne Hinzurechnung weist sie Bs Zugewinn mit 390.000 Euro, As Zugewinn mit 100.000 Euro und eine vorläufige Ausgleichsforderung As von 145.000 Euro aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Für eine begründete Hinzurechnung der streitigen 100.000 Euro zeigt sie eine Forderung von 195.000 Euro; sie behandelt den Verbrauch weder automatisch als bewiesene Verschwendung noch als durch bloße Behauptung entkräftet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C06",
+          "text": "Sie erkennt die Bedeutung der ausdrücklich als Erfüllung angenommenen Auskunft für die Beweislast und lässt diese nicht allein wegen Bs späterer Behauptung eines anderen Trennungstags entfallen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C07",
+          "text": "Sie fordert zum ungeklärten Verbrauch konkrete Empfänger-, Zweck- und Zahlungsbelege an und prüft die Forderungsbegrenzung, statt nur weitere allgemeine Vermögenslisten zu verlangen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "zugewinn-vermoegensbelege-stichtage-abgleichen"
+    }
+  ]
+}

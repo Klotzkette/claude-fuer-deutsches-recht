@@ -15,17 +15,15 @@ verständlich werden soll, ohne die Standardsprache vollständig zu verlassen.
 4. Gibt es bereits einen Hausstil oder eine Vorlage für Einfache Sprache in der Einrichtung?
 
 ## Zentrale Normen
-- § 11 BGG — Barrierefreiheit von Bescheiden und öffentlichen Dokumenten
-- § 9 EBV — Einfache Sprache in Bescheiden der Erbenberatung
-- § 242 BGB — Treu und Glauben als Grundlage des Transparenzgebots
-- BITV 2.0 — Barrierefreie-Informationstechnik-Verordnung, Anhang 1 (Verstaendlichkeit digitaler Dokumente)
+- [Paragraf 11 BGG](https://www.gesetze-im-internet.de/bgg/__11.html): einfache und verständliche Kommunikation sowie bedarfsbezogene Erläuterungen in Leichter Sprache durch erfasste Träger öffentlicher Gewalt; keine allgemeine Pflicht aller privaten Verfasser.
+- [Paragraf 4 BITV 2.0](https://www.gesetze-im-internet.de/bitv_2_0/__4.html) verweist für bestimmte Erläuterungen auf Startseiten öffentlicher Stellen auf Anlage 2. Nicht als allgemeine Vorschrift für jeden juristischen Text verwenden.
 
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
 
-- § 11 SGB I (Verständlichkeit)
-- BGG (Behindertengleichstellungsgesetz) § 11
+- Paragraf 11 SGB I regelt Leistungsarten, nicht Verständlichkeit; hierfür nicht als Rechtsgrundlage zitieren.
+- BGG Paragraf 11 im jeweiligen persönlichen und institutionellen Anwendungsbereich prüfen.
 - BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
 - UN-BRK Art. 9, 21
 
@@ -59,7 +57,7 @@ Wenn Sie nichts tun, dann: [Rechtsfolge kurz]
 ### Schwere Woerter kurz erklaert
 
 - Widerspruch: Sie sagen der Behörde, dass Sie nicht einverstanden sind.
-- Verjährung: Nach Ablauf dieser Frist koennen Sie nichts mehr verlangen.
+- Verjährung: Nach Ablauf dieser Frist darf die andere Seite die Leistung wegen Verjährung verweigern. Der Anspruch erlischt dadurch nicht automatisch.
 ```
 
 ## Ziel
@@ -137,6 +135,8 @@ Besser:
 > Sie können Widerspruch einlegen.
 > Dafür haben Sie 1 Monat Zeit.
 > Die Frist beginnt, wenn Sie den Bescheid bekommen haben.
+
+Dieses Beispiel nur verwenden, wenn tatsächlicher Zugang hier der maßgebliche Bekanntgabezeitpunkt ist. Gesetzliche Bekanntgaberegeln und Fristbeginn nicht durch eine vereinfachte Empfangsformel ersetzen. Für die Erklärung der Verjährung gilt [Paragraf 214 BGB](https://www.gesetze-im-internet.de/bgb/__214.html); geprüft am 14.09.2026.
 
 ## Ausgabe
 

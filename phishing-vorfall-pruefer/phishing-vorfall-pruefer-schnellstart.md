@@ -1,70 +1,23 @@
-# Phishing Vorfall Prüfer — Schnellstart
+# 1. Phishing-Zahlungen einzeln aufklären
 
-Wenn du das hier öffnest, willst du einen Phishing- oder Online-Banking-Missbrauch sofort nach Autorisierung, Authentifizierung, Erstattung, Gegenanspruch, Beweislast und nächstem Sicherungsschritt ordnen.
+Nutze zuerst die Schilderung und vorhandene Kontoauszüge, Bankantworten, Nachrichten und Bildschirmbilder. Erstelle direkt das verlangte Erstattungsverlangen oder den Prüfvermerk. Ermittle bei einem laufenden Vorfall vorrangig, ob Zugang gesperrt und die Bank über einen unabhängig verifizierten Kontakt erreicht wurde. Empfehle erforderliche Sperrung und Rückholanfrage, führe sie aber nicht ohne Auftrag aus und behaupte keinen Erfolg. Beweissicherung und Anspruchsvorbereitung können parallel weitergehen.
 
-Kernauftrag: Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB Paragraf 675u, Paragraf 675v, Paragraf 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankpflichten, Schlichtung und Klage. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Zahlung ist nicht Geräteaktivierung
 
-## 1. Sofortstart nach Eingangslage
+Erfasse jede Buchung einzeln nach Betrag, Zeitpunkt, Empfänger und Nutzerhandlung. Rekonstruiere, ob eine TAN oder Bestätigung einen Login, eine Gerätebindung, eine Limitänderung oder genau diese Zahlung betraf. Halte Wortlaut der Anzeige, Warnung, sichtbaren Empfänger, Betrag und Gesprächsbehauptung fest. Unbekannte Anzeigen bleiben unbekannt; nicht nachträglich einen typischen Warntext einsetzen. Rufnummernanzeige und behauptete Bankidentität sind keine gesicherte Identität des Anrufers.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Sofortsicherung, Zahlungskette, Technischer Nachweis wählen; ohne konkreten Auftrag mit Sofortsicherung beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Trenne die technische Authentifizierung von der rechtlichen Autorisierung. Nach BGB Paragraf 675w muss der Zahlungsdienstleister bei streitiger Autorisierung Authentifizierung, ordnungsgemäße Aufzeichnung und störungsfreie Abwicklung nachweisen. Die protokollierte Nutzung genügt allein nicht notwendigerweise zum Nachweis der Zustimmung oder groben Fahrlässigkeit. Das bedeutet weder automatische Kundenhaftung noch automatisch gewonnenen Prozess.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Sofortsicherung, Zahlungskette, Technischer Nachweis und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Anspruch und Gegenanspruch
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Prüfe Erstattung und Kontowiederherstellung bei nicht autorisierten Zahlungen nach BGB Paragraf 675u. Unterscheide belasteten Betrag, bereits zurückgeholten Betrag und noch verlangte Erstattung; keine doppelte Forderung. Anzeigezeitpunkt und Kenntnis der Bank belegen. Für Fristen und Ausnahmen den aktuellen vollständigen Normtext auswerten, nicht eine selbst gesetzte Zahlungsfrist an die Stelle des gesetzlichen Maßstabs setzen.
 
-## 2. Fachlicher Direktstart
+Einen behaupteten Gegenanspruch der Bank gesondert anhand konkreter Pflicht, Nutzerhandlung, Verschulden, Kausalität und einschlägiger Haftungsregeln prüfen. Ein pauschales „TAN benutzt“ ersetzt diesen Vortrag nicht. Umgekehrt relevante Warnhinweise oder bewusste Freigaben nicht aus einer kundenfreundlichen Darstellung entfernen. Besonderheiten starker Kundenauthentifizierung, Geschäftsbedingungen und Nutzerstatus nur nach der tatsächlich betroffenen Handlung beurteilen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche einzelne Zahlung war autorisiert und welche nur technisch authentifiziert.
-2. Kernprüfung in einem Durchgang: Welche Handlung nahm der Zahler bei welcher Anzeige, Warnung und Gesprächssituation tatsächlich vor; Welche Protokolle beweisen Verfahren, dynamische Verknüpfung, Störungsfreiheit und konkrete Freigabe.
-3. Belege und Engpass zusammenführen: Die Bank belegt Authentifizierung, ordnungsgemäße Aufzeichnung, Störungsfreiheit und ihren Gegenanspruch; besonders kritisch ist: Konto, Zugang, Karte oder Endgerät ist noch nicht gesperrt oder eine Rückholung noch möglich.
-4. Erstes Arbeitsprodukt liefern: Zahlungsmatrix: Buchung, Autorisierung, Authentifizierung, Gerät, Anzeige, TAN oder Freigabe, Empfänger, Bankprotokoll, Einwendung und Rechtsfolge.
+## 1.3. Beweislücken gezielt schließen
 
-## 3. Kernroute
+Fordere passend zur Zahlung vollständige Freigabe- und Gerätebindungsprotokolle, Anzeigeinhalte, Sitzungszuordnung und vorhandene Informationen zu Auffälligkeiten an. Erkläre jeweils, welche strittige Frage das Material klären soll. Erhalte Originalnachrichten und zeitliche Reihenfolge; keine Links aus verdächtigen Nachrichten öffnen, keine Zugangsdaten oder vollständigen Sicherheitsmerkmale im Ergebnis verbreiten. Screenshots nicht als vollständiges Bankprotokoll ausgeben. Eine Strafanzeige ersetzt weder die Reklamation noch die Prüfung des Zahlungsdienstverhältnisses.
 
-1. Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen dokumentieren.
-2. Zahlungskette: jede Buchung nach Betrag, Empfänger, Zeitpunkt, Auftrag, Autorisierung, Gerät, TAN-Anzeige, Freigabeschritt und Rückholung einzeln erfassen.
-3. Technischer Nachweis: Authentifizierungsprotokoll, Gerätebindung, IP- und Sitzungsdaten, dynamische Verknüpfung, Warntexte, Störung und Anomalieprüfung konkret anfordern.
-4. Anspruch und Gegenanspruch: Erstattung nach BGB Paragraf 675u, Anzeigeobliegenheit, Autorisierung, grobe Fahrlässigkeit, starke Kundenauthentifizierung und mögliche Anspruchskürzung getrennt prüfen.
-5. Arbeitsprodukt: Reklamation mit Frist, Beleganforderung, Schlichtungsantrag, Strafanzeige-Sachverhalt, Klageentwurf oder bankseitige Erwiderung ausformulieren.
+## 1.4. Konkretes Arbeitsprodukt
 
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 675j; BGB Paragraf 675l; BGB Paragraf 675u |
-| Rechtsprechung | BGH, Urteil vom 26.01.2016 - XI ZR 91/14; BGH, Urteil vom 22.07.2025 - XI ZR 107/24 |
-
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Sofortsicherung | Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zahlungskette | Jede Buchung nach Betrag, Empfänger, Zeitpunkt, Auftrag, Autorisierung, Gerät, TAN-Anzeige, Freigabeschritt und Rückholung einzeln erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Technischer Nachweis | Authentifizierungsprotokoll, Gerätebindung, IP- und Sitzungsdaten, dynamische Verknüpfung, Warntexte, Störung und Anomalieprüfung konkret anfordern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BGB Paragraf 675j: Autorisierung eines Zahlungsvorgangs und Widerruflichkeit der Zustimmung.
-- BGB Paragraf 675l: Pflichten des Zahlungsdienstnutzers zum Schutz personalisierter Sicherheitsmerkmale und zur unverzüglichen Verlustanzeige.
-- BGB Paragraf 675u: Erstattung und Wiederherstellung des Kontostands bei nicht autorisierten Zahlungsvorgängen.
-- BGB Paragraf 675v: Haftung des Zahlers bei Missbrauch und Grenzen bei fehlender starker Kundenauthentifizierung.
-- BGH, Urteil vom 26.01.2016 - XI ZR 91/14: Ein Anscheinsbeweis für die Autorisierung setzt die allgemeine praktische Unüberwindbarkeit sowie die ordnungsgemäße und fehlerfreie Anwendung des konkreten Sicherungsverfahrens voraus; aus der protokollierten Nutzung folgt kein Erfahrungssatz grober Fahrlässigkeit.
-- BGH, Urteil vom 22.07.2025 - XI ZR 107/24: Grobe Fahrlässigkeit nach BGB Paragraf 675v ist anhand des konkreten Täuschungs- und Freigabeablaufs zu würdigen; wurde für die schädigende Überweisung starke Kundenauthentifizierung verlangt, entfällt der Gegenanspruch nicht allein deshalb, weil sie beim vorherigen Online-Banking-Login fehlte.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Sperr- und Rückholauftrag, Zahlungsmatrix, Erstattungsverlangen, Beleganforderung, Schlichtungsantrag, Klage oder Klageabwehr.
-7.2. Norm: BGB Paragraf 675j; BGB Paragraf 675l mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Sofortsicherung“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Die Bank belegt Authentifizierung, ordnungsgemäße Aufzeichnung, Störungsfreiheit und ihren Gegenanspruch; der Zahler schildert den abweichenden Ablauf, seine Anzeige und entlastende Umstände konkret. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Handlung nahm der Zahler bei welcher Anzeige, Warnung und Gesprächssituation tatsächlich vor.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Zahlungsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Konto, Zugang, Karte oder Endgerät ist noch nicht gesperrt oder eine Rückholung noch möglich. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Formuliere Reklamation, Beleganforderung oder Klagevorbereitung vollständig in Sätzen. Ordne jeder Zahlung den Erstattungsbetrag und den noch offenen Nachweis zu. Trenne gesicherten Sachverhalt und bestrittene Bankbehauptung. Stelle höchstens zu einer entscheidenden Lücke gebündelt Rückfragen und liefere den übrigen Entwurf. Nur tatsächlich verifizierte amtliche Normtexte und Entscheidungen verwenden; Rechtsprechung nicht aus ähnlichen Betrugsszenarien ungeprüft übertragen. Quellenzugriffsfehler und ausstehende Unterlagen konkret nennen. Export: Times New Roman 11 pt, dezimale Gliederung. Weiterführende Skills sind optional; dieses Mini enthält den eigenständigen Prüfweg.

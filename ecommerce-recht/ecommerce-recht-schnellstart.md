@@ -1,10 +1,10 @@
-# E-Commerce-Recht — Schnellstart
+# 1. E-Commerce-Recht — Schnellstart
 
 Wenn du das hier öffnest, willst du einen Shop, Checkout, Marktplatz, digitalen Vertrag oder Abmahnvorgang anhand der echten Nutzerstrecke prüfen und sofort korrigierbare Texte und UI-Anforderungen liefern.
 
 Kernauftrag: Super-Plugin für Online-Shops, Plattformen, Marktplätze und digitale Verbraucherprozesse. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Sofortstart nach Eingangslage
+## 1.1. Sofortstart nach Eingangslage
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
 - Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
@@ -15,22 +15,22 @@ Ohne verwertbares Material höchstens eine gebündelte Frage zu Nutzerstrecke au
 
 Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-## 2. Fachlicher Direktstart
+## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Nutzerrolle, Produktart und konkrete Bildschirmstrecke bestimmen die Pflichten.
 2. Kernprüfung in einem Durchgang: Wann und mit welchem Text kommt der Vertrag zustande und welcher Gesamtpreis wird unmittelbar vorher gezeigt; Welche Informations-, Update-, Widerrufs- oder Kündigungspflicht ist technisch tatsächlich umgesetzt.
 3. Belege und Engpass zusammenführen: Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen; besonders kritisch ist: Live-Shop, AGB-Version, Checkout-Screenshots oder Zeitstempel fehlen.
 4. Erstes Arbeitsprodukt liefern: Journey-Matrix: Schritt, Seite, Nutzeraktion, Pflichtinformation, Ist-Text, Rechtsanker, Beleg, Fehler und Korrektur.
 
-## 3. Kernroute
+## 1.3. Kernroute
 
 1. Nutzerstrecke aufnehmen: Gerät, URL, Land, Sprache, Nutzerrolle, Produkt, Warenkorb, Checkout, Bestätigung, Konto und Kündigung mit Screenshots sichern.
-2. Vertragsschluss: Angebot, Pflichtinformationen, Schaltfläche, Preis, Zusatzleistung, Zahlung, Bestätigung und AGB-Einbeziehung prüfen.
+2. Vertragsschluss: Den tatsächlich auslösenden Button und die unmittelbar vorher sichtbare Bestellübersicht je Desktop- und Mobilversion getrennt sichern. Buttonbeschriftung, Gesamtpreis einschließlich Versand, Laufzeit und Zusatzleistungen einzeln bewerten. Die besondere Folge des Paragrafen 312j Absatz 4 BGB knüpft an Absatz 3 an; nicht jeden Informationsfehler nach Absatz 2 automatisch als fehlenden Vertrag behandeln.
 3. Leistungsregime: Ware, digitale Leistung, Ware mit digitalem Element, Abo, Marktplatzrolle, Aktualisierung und Mangelrechte zuordnen.
 4. Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen.
 5. Arbeitsprodukt: Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen.
 
-## 4. Fallkarte
+## 1.4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
@@ -41,16 +41,12 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Rechtsfolge | Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
-## 5. Einsatzfelder
+## 1.5. Ergebniswahl
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Nutzerstrecke aufnehmen | Gerät, URL, Land, Sprache, Nutzerrolle, Produkt, Warenkorb, Checkout, Bestätigung, Konto und Kündigung mit Screenshots sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertragsschluss | Angebot, Pflichtinformationen, Schaltfläche, Preis, Zusatzleistung, Zahlung, Bestätigung und AGB-Einbeziehung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leistungsregime | Ware, digitale Leistung, Ware mit digitalem Element, Abo, Marktplatzrolle, Aktualisierung und Mangelrechte zuordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Checkout: Bildschirmgenaue Fehler- und Korrekturmatrix. Abo: Abschluss, Laufzeit und Kündigungsstrecke. Digitale Leistung: Bereitstellung, Aktualisierung und Abhilfe. Abmahnung: konkrete Version, Antrag und umsetzbare Reaktion.
 
 
-## 6. Anker
+## 1.6. Anker
 
 - BGB Paragraf 312 ff. und EGBGB Artikel 246a: Verbrauchervertrag, Fernabsatz, Information, Bestätigung und Widerruf.
 - BGB Paragraf 312j und Paragraf 312k: Bestellschaltfläche und Kündigung von Verbraucherverträgen im elektronischen Geschäftsverkehr.
@@ -58,19 +54,19 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 - DDG Paragraf 5: allgemeine Informationspflichten geschäftsmäßiger digitaler Dienste.
 - Paragraf 312c BGB — Fernabsatzvertrag; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 312d BGB — Informationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 312j BGB — Button-Lösung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- [Paragraf 312j BGB](https://www.gesetze-im-internet.de/bgb/__312j.html): Beschriftung muss die Zahlungspflicht eindeutig erkennen lassen. Die Ausnahme des Absatzes 5 betrifft ausschließlich individuelle Kommunikation, nicht pauschal alle individuell ausgehandelten Dienstleistungen.
 - Paragraf 355 Abs. 1 BGB — Widerruf; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
-## 7. Antwortform
+## 1.7. Antwortform
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen.
-7.2. Norm: BGB Paragraf 312 ff. und EGBGB Artikel 246a; BGB Paragraf 312j und Paragraf 312k mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Nutzerstrecke aufnehmen“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Wann und mit welchem Text kommt der Vertrag zustande und welcher Gesamtpreis wird unmittelbar vorher gezeigt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Journey-Matrix“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen.
+1.7.2. Norm: BGB Paragraf 312 ff. und EGBGB Artikel 246a; BGB Paragraf 312j und Paragraf 312k mit dem entscheidenden Merkmal verbinden.
+1.7.3. Aktenfund: Für „Nutzerstrecke aufnehmen“ Tatsache, Datum und Fundstelle nennen.
+1.7.4. Beweis: Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen. Offene Folgen aussprechen.
+1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Wann und mit welchem Text kommt der Vertrag zustande und welcher Gesamtpreis wird unmittelbar vorher gezeigt.
+1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Journey-Matrix“. Frist, Kernlücke und nächstem Dokument benennen.
 
-## 8. Stop
+## 1.8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Live-Shop, AGB-Version, Checkout-Screenshots oder Zeitstempel fehlen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Ohne Livezugriff anhand bereitgestellter Screenshots oder genauer Texte weiterprüfen und den Versionsvorbehalt nennen. Kein Testkauf, Vertragsschluss, Live-Eingriff oder Versand ohne Auftrag. Liefere je Fehler Ist-Text, Rechtsfolge, Ersatztext und überprüfbares Umsetzungskriterium. Werkstatt optional; Kernprüfung benötigt keine weiteren Dateien. Vollständige Sätze, amtlich geprüfte Quellen, dezimale Gliederung und Markdown-Exporthinweis Times New Roman 11 pt.

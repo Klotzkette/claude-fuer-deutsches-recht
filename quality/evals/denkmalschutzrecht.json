@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "denkmalschutzrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-bayern.de/Content/Document/BayDSchG-6",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 6 in der ab Mai 2026 geltenden Fassung: Freistellungen, insbesondere bestimmte Küchen- und Baderneuerungen, und Verhältnis zur Baugenehmigung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt und Kernskill verallgemeinern Erlaubnispflichten; die aktuelle Landesfassung verlangt vorgelagerte Ausnahmeprüfung.",
+    "changes": [
+      "Bayerische Freistellungen und Konzentration konkretisiert.",
+      "Fehlenden Landesnachweis nicht mehr zum vollständigen Arbeitsstopp gemacht."
+    ],
+    "sha256": "70ca5f7ab60abd1597f5cf9c642a96cf47b9b8fce8af587cf3ebf775507c9b9f"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe eine Baderneuerung im bayerischen Baudenkmal.",
+      "Ordne Auflagen für den Austausch historischer Fenster ein."
+    ],
+    "negative": [
+      "Berechne allein die Statik einer Betondecke.",
+      "Prüfe eine Mietminderung ohne denkmalrechtlichen Bezug."
+    ]
+  },
+  "cases": [
+    {
+      "id": "bayern-bad-ohne-substanzeingriff",
+      "request": "Für eine Eigentümerin in Augsburg soll ergebnis.md die Verfahrensfrage einer Baderneuerung im September 2026 klären. Das Haus ist unstreitig Baudenkmal. Ersetzt werden nur moderne Sanitärobjekte und Fliesen aus 1998; keine historische Ausstattung, kein Grundriss und kein Mauerwerk oder Bodenaufbau werden verändert. Die zuständige Bauaufsicht bestätigt, dass keine Baugenehmigung erforderlich ist. Eine ältere Handwerkercheckliste fordert stets eine Denkmalerlaubnis. Bitte bewerte diese Aussage und entwirf eine intern freizugebende Maßnahmenbeschreibung; Arbeiten haben noch nicht begonnen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis prüft die aktuelle bayerische Freistellung statt allein aus der Denkmaleigenschaft eine Erlaubnispflicht abzuleiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Bewertung bindet die Freistellung an den fehlenden Verlust historischer Substanz und die unveränderte Raumstruktur.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Maßnahmenbeschreibung benennt die tatsächlich ausgetauschten Teile und ist keine eigenmächtige Baufreigabe oder Erklärung an die Behörde.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "erlaubnis-pflichtige-massnahmen"
+    }
+  ]
+}

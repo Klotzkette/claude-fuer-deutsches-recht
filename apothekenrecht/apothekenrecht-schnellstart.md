@@ -1,77 +1,29 @@
-# Apothekenrecht — Schnellstart
+# 1. Apothekenfall am konkreten Vorgang bearbeiten
 
-Wenn du das hier öffnest, willst du einen Apothekenbetriebs-, Abgabe-, Erlaubnis-, Herstellungs-, Heimversorgungs- oder Vergütungsfall mit den richtigen Betriebs- und Leistungsnormen bearbeiten.
+Lies Nutzersachverhalt und vorhandene Erlaubnisse, Rezepte, Abgabebelege, Herstellungsprotokolle, Beanstandungen oder Abrechnungsunterlagen zuerst. Liefere die verlangte SOP, Aufsichtsantwort, Vertragsprüfung oder Retaxationserwiderung. Frage nur nach einer Lücke, die das konkrete Ergebnis blockiert. Bei reinem Einstieg den betroffenen Vorgang und die nächste erforderliche Handlung aus dem Material bestimmen, nicht sämtliche Apothekenregime abfragen.
 
-Kernauftrag: Super-Plugin für Apothekenrecht: Betriebserlaubnis, ApBetrO, Versand, E-Rezept, BtM, Retaxation, Aufsicht und Compliance. Vorrang hat das verlangte Arbeitsprodukt.
+## 2. Prüfwege auseinanderhalten
 
-## 1. Sofortstart nach Eingangslage
+2.1. Betriebsrecht: Betriebsstätte, Inhaber, Erlaubnisumfang, Filialleitung, Vertretung und beanstandete Tätigkeit aus den Belegen zuordnen. Eine neue Tätigkeit nicht allein wegen einer bestehenden Betriebserlaubnis freigeben. Für Heimversorgung, Versand oder Herstellung die konkreten zusätzlichen Voraussetzungen amtlich prüfen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Betrieb und Rolle, Produkt und Vorgang, Betriebsablauf und Nachweis wählen; ohne konkreten Auftrag mit Betrieb und Rolle beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+2.2. Arzneimittelabgabe: Produkt, Stärke, Menge, Verordner, Patient, Verordnungsdatum, Abgabezeitpunkt und Art der Verschreibung erfassen. Erkennbare Irrtümer, Unlesbarkeit und sonstige Bedenken nach [Paragraf 17 Absatz 5 ApBetrO](https://www.gesetze-im-internet.de/apobetro_1987/__17.html) vor Abgabe klären. Eine formell lesbare Verschreibung beseitigt nicht automatisch sachliche Bedenken. Änderungen und Rücksprache nachvollziehbar dokumentieren.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Betrieb und Rolle, Produkt und Vorgang, Betriebsablauf und Nachweis und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+2.3. Dringender Bedarf: [Paragraf 4 Absatz 1 AMVV](https://www.gesetze-im-internet.de/amvv/__4.html) setzt eine unaufschiebbare Anwendung und die Mitteilung der verschreibenden Person über Verschreibung und Inhalt voraus. Deren Identität sichern; die Verschreibung ist von ihr unverzüglich schriftlich oder elektronisch nachzureichen. Eine Patientenerklärung „Rezept vergessen“ ersetzt diesen Weg nicht. Weder eine allgemeine Sieben-Tage-Nachreichfrist noch eine pauschale Befugnis zur rezeptfreien Abgabe der kleinsten Packung daraus ableiten. Bei akutem Risiko eine ärztliche Klärung organisieren, keine Dosierungsentscheidung erfinden.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+2.4. Rezeptur und Qualität: Verordnung, Plausibilitätsprüfung, Ausgangsstoffbelege, Herstellungsanweisung, Protokoll und Freigabe auf denselben Vorgang beziehen. Charge, Menge und Zeitpunkt zusammenführen; fehlende Prüfung nicht aus einem vorhandenen Herstellungsprotokoll folgern. Bei Qualitätsverdacht betroffene Ware, ausgelieferte Mengen und vorhandene Risikobewertung trennen.
 
-## 2. Fachlicher Direktstart
+2.5. Vergütung: Retaxationsgrund, konkrete Abgabe, Kostenträger, Abrechnungszeitraum und maßgebliche Vertragsfassung verbinden. Formmangel, Austauschentscheidung und Dokumentationslücke getrennt beurteilen. Aus zulässiger Abgabe folgt nicht ohne weitere Prüfung ein Vergütungsanspruch; aus Retaxation nicht automatisch ein Betriebsverstoß. Fristen aus dem einschlägigen Bescheid oder Vertragsverfahren prüfen, keinen Standardwiderspruch unterstellen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Apotheke, Erlaubnis, verantwortliche Person und Tätigkeit sind betroffen.
-2. Kernprüfung in einem Durchgang: Welches Arzneimittel- oder Versorgungsregime gilt für Produkt, Verschreibung und Abgabe; Welche Dokumentation belegt Prüfung, Beratung, Substitution, Herstellung und Übergabe.
-3. Belege und Engpass zusammenführen: Nachweisachse Betriebsablauf und Nachweis: Beschaffung, Prüfung, Lagerung, Herstellung, Beratung, Abgabe, Dokumentation und Rückruf nachvollziehen; besonders kritisch ist: Patientengefahr, Qualitätsmangel, Fälschungsverdacht oder Rückrufbedarf steht im Raum.
-4. Erstes Arbeitsprodukt liefern: Abgabeprüfung: Rezept, Patient, Arzneimittel, Verordner, Substitution, Beratung, Dokumentation, Abrechnung und Abweichung.
+2.6. Aufsicht: Anhörung, verbindliche Verfügung und bloße Bitte um Unterlagen unterscheiden. Für jede Beanstandung Befund, vorhandenen Nachweis, bereits getroffene Maßnahme und offenen Schritt festhalten. Noch nicht ausgeführte Maßnahmen als geplant bezeichnen.
 
-## 3. Kernroute
+## 3. Konkrete Werkzeuge wählen
 
-1. Betrieb und Rolle: Inhaber, Erlaubnis, Filiale, Leitung, Personal, Verantwortlichkeit und konkrete Betriebsstätte feststellen.
-2. Produkt und Vorgang: Arzneimittel, Rezeptur, Defektur, Verschreibung, Abgabe, Substitution, Import, Versand oder Heimversorgung einordnen.
-3. Betriebsablauf und Nachweis: Beschaffung, Prüfung, Lagerung, Herstellung, Beratung, Abgabe, Dokumentation und Rückruf nachvollziehen.
-4. Leistungs- und Aufsichtsweg: SGB-V-Abgabe, Retaxation, Erlaubnis, Anzeige, Beanstandung, Ordnungsverfügung oder Strafbezug trennen.
-5. Arbeitsprodukt: Erlaubnis- oder Anzeigeunterlage, SOP, Versorgungsvertrag, Retaxationswiderspruch, Aufsichtsantwort oder Maßnahmenplan erstellen.
+Optional vertiefen [Arzneimittelabgabe](skills/arzneimittelabgabe-verschreibungspflicht/SKILL.md), [Retaxationsabwehr](skills/retaxationsabwehr-nullretax/SKILL.md) und [Aufsichtsbeanstandung](skills/beanstandung-durch-aufsichtsbehoerde-anhoerung/SKILL.md) den Vorgang. Ohne diese Dateien mit den Prüfwegen oben arbeiten. Detailangaben zu Notfallabgabe, Fristen und Dokumentation nicht ungeprüft übernehmen; maßgeblich bleiben Sachverhalt und amtlich geprüfte Vorschriften.
 
-## 4. Fallkarte
+## 4. Sicherheit und Ergebnis
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | ApoG Paragraf 1 ff; ApoG Paragraf 11 und Paragraf 12a; ApBetrO |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Inhaber, Erlaubnis, Filiale, Leitung, Personal, Verantwortlichkeit und konkrete Betriebsstätte feststellen |
-| Beweislast | Nachweisachse Betriebsablauf und Nachweis: Beschaffung, Prüfung, Lagerung, Herstellung, Beratung, Abgabe, Dokumentation und Rückruf nachvollziehen |
-| Rechtsfolge | Erlaubnis- oder Anzeigeunterlage, SOP, Versorgungsvertrag, Retaxationswiderspruch, Aufsichtsantwort oder Maßnahmenplan erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Patientengefahr, Fälschungs- oder Qualitätsverdacht sperren die betroffene Abgabefreigabe, nicht die Erstellung eines Sicherungs- und Klärungsplans. Verantwortliche pharmazeutische Person, betroffene Ware, nächste Kontaktaufnahme und Nachweisbedarf konkret benennen. Keine eigenständige Therapieanweisung geben und keine erfolgte Behördenmeldung behaupten.
 
-## 5. Einsatzfelder
+Jede rechtliche Bewertung mit passender amtlicher Quelle belegen; die [Zitierweise](../references/zitierweise.md) ist optional. Normfassung und bei Entscheidungen Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Randnummer angeben. Produktinformationen, Vertragsfassungen und zeitabhängige Sonderregeln nur in tatsächlich geprüfter Fassung verwenden. Keine universelle Normenliste oder unbestimmte ständige Rechtsprechung als Beleg.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Betrieb und Rolle | Inhaber, Erlaubnis, Filiale, Leitung, Personal, Verantwortlichkeit und konkrete Betriebsstätte feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Produkt und Vorgang | Arzneimittel, Rezeptur, Defektur, Verschreibung, Abgabe, Substitution, Import, Versand oder Heimversorgung einordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Betriebsablauf und Nachweis | Beschaffung, Prüfung, Lagerung, Herstellung, Beratung, Abgabe, Dokumentation und Rückruf nachvollziehen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leistungs- und Aufsichtsweg | SGB-V-Abgabe, Retaxation, Erlaubnis, Anzeige, Beanstandung, Ordnungsverfügung oder Strafbezug trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Erlaubnis- oder Anzeigeunterlage, SOP, Versorgungsvertrag, Retaxationswiderspruch, Aufsichtsantwort oder Maßnahmenplan erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- ApoG Paragraf 1 ff.: Apothekenbetrieb, persönliche Leitung, Betriebserlaubnis und Filialverbund.
-- ApoG Paragraf 11 und Paragraf 12a: Zuweisungsverbot und genehmigungsbedürftige Heimversorgungsverträge.
-- ApBetrO: Betriebsräume, Personal, Qualitätsmanagement, Herstellung, Prüfung, Lagerung, Information und Abgabe.
-- AMG Paragraf 43 und Paragraf 48: Apotheken- und Verschreibungspflicht.
-- Paragrafen 299a, 299b StGB: Antikorruption; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Datenschutz-Grundverordnung Art. 9, 28: Verarbeitung Gesundheitsdaten, Auftragsverarbeitung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- StGB Paragrafen 299a, 299b; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 129 SGB V: Rahmenvertrag, Aut-idem-Substitution, Rabattvertragsregeln; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Erlaubnis- oder Anzeigeunterlage, SOP, Versorgungsvertrag, Retaxationswiderspruch, Aufsichtsantwort oder Maßnahmenplan erstellen.
-7.2. Norm: ApoG Paragraf 1 ff; ApoG Paragraf 11 und Paragraf 12a mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Betrieb und Rolle“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Betriebsablauf und Nachweis: Beschaffung, Prüfung, Lagerung, Herstellung, Beratung, Abgabe, Dokumentation und Rückruf nachvollziehen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welches Arzneimittel- oder Versorgungsregime gilt für Produkt, Verschreibung und Abgabe.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Abgabeprüfung“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Patientengefahr, Qualitätsmangel, Fälschungsverdacht oder Rückrufbedarf steht im Raum. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Endprodukt in vollständigen Sätzen mit dezimaler Gliederung und Leerzeilen liefern; Times New Roman 11 pt beziehungsweise Exporthinweis verwenden. Fehlende Dateien und ungeprüfte Annahmen beim jeweiligen Ergebnis kennzeichnen. Ohne Export den Text ausgeben, ohne Dateizugriff keine erfolgte Aktenprüfung behaupten. Gesundheitsdaten nicht ungefragt extern übertragen; nichts ohne Auftrag versenden.

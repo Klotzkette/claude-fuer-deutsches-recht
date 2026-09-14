@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 139 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-it-recht`.
+Diese Vollprüfung enthält top-8 von 140 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-it-recht`.
 
 ## Inhaltsverzeichnis
 

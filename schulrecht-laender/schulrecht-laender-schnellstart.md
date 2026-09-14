@@ -1,75 +1,33 @@
-# Schulrecht Länder — Schnellstart
+# 1. Schulrecht der Länder: Schnellstart
 
-Wenn du das hier öffnest, willst du eine schul-, hochschul- oder förderrechtliche Entscheidung nach Rechtsgrundlage, Verfahren, Bewertungsspielraum und Frist angreifen oder absichern.
+Bearbeite den konkreten Schulvorgang aus der im Auftrag genannten Perspektive. Lies Schreiben, Bescheid, Schulordnung, Protokoll und Bekanntgaben zuerst. Nicht ungefragt in Hochschulzulassung oder Forschungsförderung wechseln. Liefere Antrag, Stellungnahme, Rechtsbehelfsentwurf oder schulische Entscheidungsvorlage.
 
-Kernauftrag: Schulrecht der Länder: Schulpflicht, Aufnahme, Inklusion, Noten, Versetzung, Ordnungsmaßnahmen, Datenschutz, Elternrechte und Eilrechtsschutz. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Land, Schule und Betroffenheit
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Bundesland, öffentliche oder private Schule, Schulform, Jahrgang, Alter, Sorgeberechtigte und gewünschtes Ergebnis. Schülerrechte, Elternrechte und Zuständigkeit des Schulträgers getrennt halten. Bei Volljährigkeit nicht automatisch die Eltern als Antragsteller behandeln.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Rechtsverhältnis und Norm, Verfahren, Bewertung wählen; ohne konkreten Auftrag mit Rechtsverhältnis und Norm beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Ordne Erziehungsmaßnahme, Ordnungsmaßnahme, Leistungsbewertung, Aufnahmeentscheidung und bloße Mitteilung. Ein Gespräch oder eine Dienstaufsichtsbeschwerde ersetzt nicht ohne Weiteres den statthaften Rechtsbehelf. Prüfe die Landesregeln zu Vorverfahren, Bekanntgabe und Vollziehung.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Rechtsverhältnis und Norm, Verfahren, Bewertung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Konkreter schulischer Prüfweg
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei Ordnungsmaßnahmen Tatvorwurf, Alter, Verhalten, Belege, bisherige pädagogische Maßnahmen, Anhörung, zuständiges Organ und Verhältnismäßigkeit abgleichen. Die Entscheidungskompetenz hängt von der konkreten Maßnahme und Landesnorm ab; nicht stets Klassenkonferenz oder Schulleitung behaupten.
 
-## 2. Fachlicher Direktstart
+Beispiel Nordrhein-Westfalen: Paragraf 53 SchulG NRW trennt erzieherische Einwirkungen und Ordnungsmaßnahmen und enthält besondere Zuständigkeits- und Anhörungsregeln. Diese nur auf NRW-Fälle anwenden. Amtlicher Ausgangspunkt: https://recht.nrw.de/lrgv/gesetz/01082025-schulgesetz-fuer-das-land-nordrhein-westfalen-schulgesetz-nrw-schulg/
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Ordnung in welcher Fassung trägt die Entscheidung und ist sie wirksam bekannt gemacht.
-2. Kernprüfung in einem Durchgang: Wurde das vorgeschriebene Verfahren einschließlich Anhörung eingehalten; Liegt ein überprüfbarer Bewertungsfehler oder nur eine vertretbare Fachwertung vor.
-3. Belege und Engpass zusammenführen: Darlegungs- und Nachweisfrage für Bildungs-, Hochschul- und Wissenschaftsrecht: Liegt ein überprüfbarer Bewertungsfehler oder nur eine vertretbare Fachwertung vor; besonders kritisch ist: Eine Rüge- oder Rechtsbehelfsfrist läuft oder der Prüfungstermin steht unmittelbar bevor.
-4. Erstes Arbeitsprodukt liefern: Widerspruchsbegründung: Sachverhalt, Verfahrensfehler, Bewertungsfehler, Antrag, Fristnachweis.
+Bei Noten die konkrete Arbeit, Aufgabenstellung, Korrektur, Bewertungsmaßstab und rechtzeitig erhobene Einwände vergleichen. Rechenfehler, übersehene Antwort, Verfahrensfehler und fachliche Wertung auseinanderhalten. Keine eigene Wunschbenotung an die Stelle einer zulässigen pädagogischen Bewertung setzen.
 
-## 3. Kernroute
+Bei Inklusion oder Nachteilsausgleich Bedarf, konkrete Barriere und geeignete Maßnahme erfassen. Schulische Vorkehrung und sozialrechtliche Finanzierung getrennt prüfen; weder Diagnose noch Kostenträger aus einer bloßen Bezeichnung ableiten.
 
-1. Rechtsverhältnis und Norm: Schul-, Studien-, Prüfungs- oder Förderverhältnis mit maßgeblicher Ordnung in der geltenden Fassung feststellen.
-2. Verfahren: Zuständigkeit, Anhörung, Begründung, Bekanntgabe und Fristen der angegriffenen Entscheidung prüfen.
-3. Bewertung: Bewertungsspielraum, Verfahrensfehler, Antwortspielraum und Sachverhaltsfehler trennen.
-4. Folgen: Wiederholung, Neubewertung, Nachteilsausgleich, Ordnungsmaßnahme oder Fördermittelrückforderung ordnen.
-5. Arbeitsprodukt: Widerspruch, Eilantrag, Klagebegründung, Gremienvorlage oder Förderantrag ausformulieren.
+## 1.3. Frist und Beweislage
 
-## 4. Fallkarte
+Erstelle „Maßnahme / Landesnorm / Entscheidungsträger / Bekanntgabe / Beleg / Einwand / passende Abhilfe“. Erfasse Unterrichtsausschluss, Prüfung oder Schuljahresbeginn kalendarisch. Eine laufende Frist verlangt zuerst einen Sicherungsentwurf, nicht Stillstand bis zur vollständigen Akte.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 5 Absatz 3 und Artikel 12 Absatz 1; Landeshochschulgesetze; Landesschulgesetze |
-| Rechtsprechung | BVerfG, Urteil vom 18.07.1972 - 1 BvL 32/70 und 25/71; BVerfG, Beschluss vom 17.04.1991 - 1 BvR 419/81 und 213/83 |
-| Tatbestand | Schul-, Studien-, Prüfungs- oder Förderverhältnis mit maßgeblicher Ordnung in der geltenden Fassung feststellen |
-| Beweislast | Darlegungs- und Nachweisfrage für Bildungs-, Hochschul- und Wissenschaftsrecht: Liegt ein überprüfbarer Bewertungsfehler oder nur eine vertretbare Fachwertung vor |
-| Rechtsfolge | Widerspruch, Eilantrag, Klagebegründung, Gremienvorlage oder Förderantrag ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Trenne Eilrechtsschutz gegen Vollziehung von einem vorläufigen Leistungsbegehren. Begründe Dringlichkeit mit konkret ausfallendem Unterricht, Prüfung oder Förderung. Keine sichere Neubewertung, Aufnahme oder Aussetzung ohne Prüfung der jeweiligen Voraussetzungen versprechen.
 
-## 5. Einsatzfelder
+## 1.4. Ausformuliertes Ergebnis
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Rechtsverhältnis und Norm | Schul-, Studien-, Prüfungs- oder Förderverhältnis mit maßgeblicher Ordnung in der geltenden Fassung feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahren | Zuständigkeit, Anhörung, Begründung, Bekanntgabe und Fristen der angegriffenen Entscheidung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bewertung | Bewertungsspielraum, Verfahrensfehler, Antwortspielraum und Sachverhaltsfehler trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Folgen | Wiederholung, Neubewertung, Nachteilsausgleich, Ordnungsmaßnahme oder Fördermittelrückforderung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Widerspruch, Eilantrag, Klagebegründung, Gremienvorlage oder Förderantrag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Liefere den verlangten Text mit Person, Schule, Regelungsgegenstand, Sachverhalt, konkreten Einwänden, Antrag und Anlagenbezug. Bei unvollständigem Material eine gebündelte Rückfrage zu Land, Maßnahme, Bekanntgabe und nächstem Termin; den belastbaren Teil sofort liefern.
 
-## 6. Anker
+Amtliche Landesfassung und einschlägige Ordnung auf Geltung am Ereignistag prüfen. Entscheidungen nur nach Verifikation von Gericht, Datum, Aktenzeichen und Fundstelle verwenden. Fehlenden Zugriff offenlegen. Keine Anträge einreichen, Schule kontaktieren oder Entscheidungen auslösen.
 
-- GG Artikel 5 Absatz 3 und Artikel 12 Absatz 1: Wissenschaftsfreiheit und Ausbildungsfreiheit.
-- Landeshochschulgesetze: Gremien, Berufungen, Prüfungen und Ordnungsrecht der Hochschulen.
-- Landesschulgesetze: Ordnungsmaßnahmen, Nachteilsausgleich und Schulverhältnis.
-- VwVfG Paragraf 28 und Paragraf 39: Anhörung und Begründung belastender Entscheidungen.
-- BVerfG, Urteil vom 18.07.1972 - 1 BvL 32/70 und 25/71: Zulassungsbeschränkungen greifen in Artikel 12 ein und verlangen erschöpfende Kapazitätsnutzung.
-- BVerfG, Beschluss vom 17.04.1991 - 1 BvR 419/81 und 213/83: prüfungsspezifische Wertungen sind gerichtlich nur begrenzt überprüfbar, fachliche Antworten dürfen nicht als falsch bewertet werden, wenn sie vertretbar sind.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Widerspruch, Eilantrag, Klagebegründung, Gremienvorlage oder Förderantrag ausformulieren.
-7.2. Norm: GG Artikel 5 Absatz 3 und Artikel 12 Absatz 1; Landeshochschulgesetze mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Rechtsverhältnis und Norm“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Darlegungs- und Nachweisfrage für Bildungs-, Hochschul- und Wissenschaftsrecht: Liegt ein überprüfbarer Bewertungsfehler oder nur eine vertretbare Fachwertung vor. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Das vorgeschriebene Verfahren einschließlich Anhörung eingehalten.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Widerspruchsbegründung“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Eine Rüge- oder Rechtsbehelfsfrist läuft oder der Prüfungstermin steht unmittelbar bevor. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Minderjährigendaten sparsam verarbeiten. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Andere Werkstatt- oder Skilltexte sind optional; Folgeaufträge ohne erneutes Vollinterview fortführen.

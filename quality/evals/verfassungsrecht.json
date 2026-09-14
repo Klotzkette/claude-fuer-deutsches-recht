@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "plugin": "verfassungsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {"url": "https://www.gesetze-im-internet.de/gg/art_94.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: aktuelle Zuständigkeitsordnung, Verfassungsbeschwerde in Absatz 1 Nummer 4a."},
+    {"url": "https://www.gesetze-im-internet.de/bverfgg/__93.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: Monatsfrist für Erhebung und Begründung, entscheidungsabhängiger Beginn sowie eigene Jahresfristregel in Absatz 3."}
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Mini, Werkstatt und gelesener Subsidiaritäts-Skill enthalten die passende Rügelogik, aber eine veraltete GG-Zuordnung und schematische staatliche Beweislast. Die fristgerechte Begründung wurde nicht ausreichend konkretisiert.",
+    "changes": ["Artikel 94 statt alter Artikel-93-Zuordnung", "Erhebung und Begründung innerhalb der Frist hervorgehoben", "Rügematrix mit tragendem Entscheidungsgrund ergänzt", "Pauschale Beweislastformel und historische Standardanker entfernt"],
+    "sha256": "438f7eb26d8f65ac51864a701ba563f08cabf0b4038ae6ae2d64627232140d94"
+  },
+  "selection": {
+    "positive": ["Prüfe den vollständigen Begründungsstand meiner Urteilsverfassungsbeschwerde vor Fristablauf.", "Ordne Hoheitsakt, fachgerichtliche Rüge und spezifischen Grundrechtsfehler in einer Zulässigkeitsmatrix."],
+    "negative": ["Schreibe eine gewöhnliche zivilrechtliche Berufung ohne Verfassungsrüge.", "Vergleiche nur drei mildere Verwaltungsmaßnahmen ohne verfassungsgerichtliches Verfahren."]
+  },
+  "cases": [{
+    "id": "ankundigung-statt-begruendung",
+    "request": "Erstelle ergebnis.md als Freigabevermerk für eine geplante Verfassungsbeschwerde, ohne Einreichung. Die vollständige letztinstanzliche Entscheidung wurde am 20. August 2026 von Amts wegen zugestellt. Der Rechtsweg ist ausgeschöpft; eine Anhörungsrüge ist nach bereits abgeschlossener Prüfung nicht erforderlich. Heute ist der 14. September. Die Beschwerdeführerin beanstandet ein gerichtliches Verbot einer konkret zitierten politischen Wertung. Der Entwurf nennt nur Meinungsfreiheit verletzt und kündigt eine Begründung bis zum 1. Oktober an. Die gerichtliche Abwägung und die fachgerichtlichen Schriftsätze sind noch nicht verarbeitet. Die Entscheidung selbst liegt vollständig vor, aber hier nicht im Wortlaut. Bitte bewerte die Frist- und Substantiierungsrisiken, ohne ihren Inhalt zu erfinden.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id": "C01", "text": "Das Ergebnis erkennt, dass innerhalb der maßgeblichen Monatsfrist nicht nur erhoben, sondern auch begründet werden muss; eine pauschale Nachreichung bis 1. Oktober wird nicht als fristwahrend freigegeben.", "deliverables": ["ergebnis.md"]},
+      {"id": "C02", "text": "Es verlangt die Auseinandersetzung mit den tragenden Gründen, der konkreten Äußerung und dem spezifischen Grundrechtsfehler, statt das Schlagwort Meinungsfreiheit als ausreichende Begründung anzusehen.", "deliverables": ["ergebnis.md"]},
+      {"id": "C03", "text": "Die unbekannten Entscheidungsgründe werden nicht erfunden; der Vermerk benennt gezielt benötigte Textstellen und verwendet bei Angabe der GG-Zuständigkeit die aktuelle Zuordnung zu Artikel 94.", "deliverables": ["ergebnis.md"]}
+    ],
+    "target_skill": "verfassungsbeschwerde-subsidiaritaet-substantiierung"
+  }]
+}

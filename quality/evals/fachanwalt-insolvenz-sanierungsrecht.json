@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-insolvenz-sanierungsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__15b.html",
+      "checked_on": "2026-09-14",
+      "supports": "Normtext zu Sorgfaltsausnahmen, Antragszeitfenstern, geringerem Gläubigerschaden und Verjährung geprüft; heutige Grundlage nicht mit Paragraf 64 GmbHG gleichgesetzt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__15a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Normtext zur unverzüglichen Antragstellung und den Höchstfristen bei Zahlungsunfähigkeit und Überschuldung geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__17.html",
+      "checked_on": "2026-09-14",
+      "supports": "Zahlungsunfähigkeit und gesetzliche Vermutung bei Zahlungseinstellung im Normtext geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__19.html",
+      "checked_on": "2026-09-14",
+      "supports": "Überschuldung und zwölfmonatige Fortbestehensbetrachtung im Normtext gelesen."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-7-4&Gericht=bgh&anz=17&nr=79247&pos=6",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 04.07.2017, Az. II ZR 319/15: amtliche Leitsätze im Suchauszug zu unmittelbarem Masseausgleich, Verwertbarkeit und Liquidationswert gelesen. Historischer Paragraf 64 GmbHG; direkter Volltext gesperrt, Übertragung auf Paragraf 15b bleibt eigenständige Prüfung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der frühere Schnellstart beschränkte den Einstieg auf Vorinsolvenz und Prognose und wiederholte diese Route auch für andere Mandate. Der neue Text führt Organhaftung, Anfechtung und Forderungsarbeit getrennt aus und verdeutlicht den fehlenden Schonfristcharakter der Antragsfristen.",
+    "changes": [
+      "Rollenbezogenen Einstieg statt ausschließlicher StaRUG- und Prognoseroute eingeführt.",
+      "Antrag ohne schuldhaftes Zögern und gesetzliche Höchstfristen ausdrücklich auseinandergehalten.",
+      "Zahlungsjournal, Sorgfaltsprüfung und geringeren Gläubigerschaden getrennt; historische Gegenleistungsrechtsprechung zeitlich begrenzt."
+    ],
+    "sha256": "e0e41fc3a0610d9e19320c7030f25a4baf0107fdfa5d742c6d462941fa29a5a5"
+  },
+  "selection": {
+    "positive": [
+      "Der Verwalter fordert sämtliche Kontoabgänge nach Insolvenzreife vom Geschäftsführer. Prüfen Sie Umbuchungen, Gegenleistungen und Rückerstattungen einzeln.",
+      "Erstellen Sie aus unseren Zahlungskonten eine Organhaftungsrechnung nach Paragraf 15b InsO mit gesonderten Sorgfalts- und Schadenseinwänden."
+    ],
+    "negative": [
+      "Erstellen Sie ausschließlich eine zwölfmonatige Fortbestehensprognose für die nächste Finanzierungssitzung.",
+      "Verteidigen Sie unseren Lieferanten gegen eine Vorsatzanfechtung seiner erhaltenen Zahlungen, ohne Organhaftungsmandat."
+    ],
+    "target_skill": "organhaftung-zahlungen-masseabgleich"
+  },
+  "cases": [
+    {
+      "id": "februarzahlungen-umbuchung-rueckfluss-warenwert",
+      "request": "Wir vertreten den alleinigen Geschäftsführer einer GmbH gegen den Insolvenzverwalter. Bitte erstellen Sie ergebnis.md als nachvollziehbare Verteidigungsrechnung. Zahlungsunfähigkeit seit 01.01.2026 und Organstellung sind unstreitig; es gab keine Sanierungsmaßnahmen und keine Antragsvorbereitung. Der Antrag wurde erst am 10.02.2026 gestellt. Am 01.02.2026 lagen 200.000 EUR auf dem unbesicherten Guthabenkonto A und 0 EUR auf dem ebenfalls unbesicherten Guthabenkonto B. Alle folgenden Buchungen wurden vom Geschäftsführer veranlasst: am 01.02. 20.000 EUR von A nach B; am 02.02. 30.000 EUR von A für rückständige Dezemberlöhne; am 03.02. 40.000 EUR von A an einen alten unbesicherten Liefergläubiger; am 04.02. 25.000 EUR von A für sofort gelieferte unbelastete Handelsware. Deren objektiver Liquidationswert bei Zugang war laut übereinstimmender Bewertung 18.000 EUR. Der alte Liefergläubiger erstattete am 06.02. 5.000 EUR als Überzahlung auf A. Andere Buchungen gab es nicht; am 07.02. weisen die Auszüge A mit 90.000 EUR und B mit 20.000 EUR aus. Der Verwalter verlangt 115.000 EUR. Er bestreitet, dass der Warenwert den Gläubigerschaden mindert, nicht aber Zugang und Liquidationswert; zu seiner späteren Verwertung liegen keine Unterlagen vor. Die tatsächliche Rückerstattung von 5.000 EUR erkennt er an. Prüfen Sie Rechtsgrundlage, Zahlungszuordnung und belastbare sowie bedingte Entlastungen. Ein Vergleich oder Anerkenntnis ist nicht beauftragt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Kontenabgleich ergibt insgesamt 110.000 EUR Endguthaben und 95.000 EUR externe Auszahlungen; die 20.000 EUR Eigenumbuchung wird nicht als zusätzlicher Masseabfluss in der Haftungsbasis belassen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Rückzahlung von 5.000 EUR wird einmal zugeordnet und führt rechnerisch vor streitigem Warenwerteffekt zu 90.000 EUR; weder das Endguthaben noch sämtliche Einnahmen werden zusätzlich pauschal abgezogen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Warenzugang wird nicht zum Einkaufspreis von 25.000 EUR gutgeschrieben. Eine Rechnung mit 18.000 EUR Entlastung und 72.000 EUR Restbetrag bleibt ausdrücklich von der rechtlichen Berücksichtigung des geringeren Gläubigerschadens und noch offenen Verwertungsbelegen abhängig.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Das Ergebnis wendet Paragraf 15b InsO auf die Zahlungen 2026 an, behandelt die abgelaufene Antragsfrist ohne Sanierung oder Vorbereitung als relevantes Gegenargument und erklärt weder Löhne noch Waren wegen bloßer Betriebsbezogenheit für automatisch erlaubt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Das Urteil II ZR 319/15 wird als historischer Anker zu Paragraf 64 GmbHG eingeordnet, nicht als direkte abschließende Auslegung des heutigen Paragrafen 15b; der Entwurf erklärt keinen Vergleich und kein Anerkenntnis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "organhaftung-zahlungen-masseabgleich"
+    }
+  ]
+}

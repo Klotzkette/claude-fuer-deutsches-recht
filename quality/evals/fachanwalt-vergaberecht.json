@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-vergaberecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__127.html",
+      "checked_on": "2026-09-14",
+      "supports": "Veröffentlichte Zuschlagskriterien und Gewichtung sowie überprüfbare Wertung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vgv_2016/__58.html",
+      "checked_on": "2026-09-14",
+      "supports": "Preis-Leistungs-Verhältnis und qualitative Zuschlagskriterien; amtlichen Suchauszug geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__134.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absendungsbezogene Wartefrist, bei elektronischer Information zehn Kalendertage."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__160.html",
+      "checked_on": "2026-09-14",
+      "supports": "Kenntnis- und Erkennbarkeitsrügen sowie Frist nach Nichtabhilfe gesondert."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__169.html",
+      "checked_on": "2026-09-14",
+      "supports": "Zuschlagsverbot knüpft an Information des Auftraggebers durch die Vergabekammer an, nicht bloß an eine Rüge."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-4-4&Gericht=bgh&anz=18&nr=78215&pos=16",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Beschluss vom 04.04.2017, Az. X ZB 3/17: amtlich indexierte Leitsätze zur Notenwertung und Dokumentation geprüft; direkter Volltextabruf gescheitert, keine Randnummer behauptet."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Alttext unterstellte ein Bietermandat und bot Inhouse-Entscheidungen als allgemeine Rügeanker. Der Stoppsatz bei drohendem Zuschlag ließ die notwendige Sicherungsarbeit offen.",
+    "changes": [
+      "Rollen- und verfahrensabhängigen Einstieg einschließlich Unterschwelle ergänzt.",
+      "Punktespiegel mit Originalformel und Belegkontrolle statt allgemeiner Wertungsfloskeln eingeführt.",
+      "Rüge, Wartefrist und Information durch die Vergabekammer klar getrennt."
+    ],
+    "sha256": "0ef7a54d2872e2165df18d61c2f0ca0f111748f8a0f829c4a7be7bfe9a1301c2"
+  },
+  "selection": {
+    "positive": [
+      "Rechnen Sie den Preis-Qualitäts-Punktespiegel nach und prüfen Sie die übergangene Vertretungszusage unseres Angebots.",
+      "Wir sind Vergabestelle: Prüfen Sie, ob unser dokumentierter Vergleich der Betriebskonzepte die Noten und Rangfolge trägt."
+    ],
+    "negative": [
+      "Prüfen Sie die Selbstreinigung eines Bieters nach einem Korruptionsfall.",
+      "Dürfen wir einen laufenden Liefervertrag ohne neue Ausschreibung um zusätzliche Mengen erweitern?"
+    ],
+    "target_skill": "angebotswertung-punktespiegel-rangfolgenkontrolle"
+  },
+  "cases": [
+    {
+      "id": "vertretungskonzept-preisformel-rangwechsel",
+      "request": "Heute ist der 14.09.2026. Wir vertreten Bieter A bei einer kommunalen EU-weiten offenen Vergabe von IT-Betriebsleistungen; die Anwendung der VgV und Oberschwelligkeit sind unstreitig. Die veröffentlichten Kriterien sind Preis 60 Punkte nach Formel 60 mal niedrigster Angebotspreis geteilt durch Angebotspreis sowie Betriebskonzept mit Rohnoten 0 bis 5, gewichtet mit 40 mal Rohnote geteilt durch 5. Es wird erst die Gesamtsumme auf zwei Dezimalstellen gerundet. A bietet netto 1000000 EUR, B netto 1100000 EUR; weitere wertbare Angebote gibt es nicht. A erhielt Rohnote 3, B Rohnote 4. In der für beide zugänglich gemachten Wertungsübersicht stehen A mit 84,00 und B mit 86,55 Punkten. Als einziger qualitativer Unterschied wird genannt, A habe keine verbindliche personelle Vertretung zugesagt. Auf Seite 18 des fristgerechten Angebots von A ist jedoch eine benannte gleichqualifizierte Vertretung mit durchgängiger Rufbereitschaft verbindlich zugesagt. Die Anlagenübersicht bestätigt die Abgabe dieser Seite. Weitere Bewertungsdetails des Angebots von B liegen nicht vor. Die Vorabinformation wurde am 11.09.2026 elektronisch abgesandt und nennt den 22.09.2026 als frühesten Zuschlag. A erfuhr erst dadurch den Bewertungsgrund. Es gibt noch keine Rüge, keine Nichtabhilfe und keinen Zuschlag. Erstellen Sie ein Memo mit Nachrechnung, Rangfolgenszenario und Rügeentwurf; versenden Sie nichts.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Originalwertung wird mit A 84,00 und B 86,55 reproduziert; bei nur bedingt unterstellter Rohnote 4 für A werden 92,00 Punkte und ein möglicher Rangwechsel gezeigt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Angriff wird auf die übersehene Zusage auf Seite 18 gestützt, verlangt belegte Neubewertung und behauptet weder einen zwingenden Vier-Punkte-Anspruch noch den sicheren Zuschlag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Ergebnis behandelt die zehn Kalendertage nach elektronischer Vorabinformation getrennt von der Kenntnisrüge und weist darauf hin, dass die Rüge den Zuschlag nicht selbst sperrt; rechtzeitige Sicherung vor dem angekündigten Zuschlag wird priorisiert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Es werden keine unbekannten Qualitätsmerkmale des Angebots B erfunden und ein Notenmodell wird nicht allein wegen fehlender detaillierter Notendefinition verworfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "angebotswertung-punktespiegel-rangfolgenkontrolle"
+    }
+  ]
+}

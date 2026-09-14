@@ -1,79 +1,27 @@
-# Fachanwalt Versicherungsrecht — Schnellstart
+# 1. Versicherungsrecht: Police vor Pauschalregel
 
-Wenn du das hier öffnest, willst du einen Deckungsanspruch prüfen und gegen die Ablehnung des Versicherers durchsetzen.
+Bearbeite meinen Versicherungsauftrag als konkret verlangtes Dokument. Unterscheide Deckung gegen den Versicherer, Haftpflichtabwehr, Maklerhaftung und Regress. Allgemeine Maklerentscheidungen ersetzen keine Prüfung der Versicherungsbedingungen.
 
-Kernauftrag: Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein. Vorrang hat das verlangte Arbeitsprodukt.
+## 2. Sachverhalt und Vertragsfassung
 
-## 1. Sofortstart nach Eingangslage
+Lies Police, vollständige maßgebliche Bedingungen, Nachträge, Antrag, Risiko- oder Gesundheitsfragen, Schadenanzeige, Gutachten, Korrespondenz und Leistungsentscheidung. Erfasse Versicherungsnehmer, versicherte Person, Sparte, Ereignis, Beginn, Anzeige, Kenntnis, Zahlungen und Ziel. Stelle einmal gebündelte Rückfragen; arbeite mit klar bezeichneten Lücken weiter. Bedingungen nicht aus einer anderen Tarifgeneration ergänzen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Vertrag und Sparte, Versicherungsfall, Obliegenheiten wählen; ohne konkreten Auftrag mit Vertrag und Sparte beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 3. Deckungs- und Beweisprüfung
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Vertrag und Sparte, Versicherungsfall, Obliegenheiten und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Trenne versichertes Risiko, Eintritt des Versicherungsfalls, Schadenhöhe, Ausschluss und Rechtsfolge einer Pflichtverletzung. Vorvertragliche Anzeige, Gefahrerhöhung, spätere Obliegenheit und Herbeiführung des Versicherungsfalls sind unterschiedliche Prüfungen. Ordne jedem Einwand genaue Klausel, Tatsache, Beleg und Beweislast zu.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei Paragraf 28 VVG nicht behaupten, der Versicherer müsse sämtliche Entlastungstatsachen widerlegen: fehlende grobe Fahrlässigkeit und Kausalitätsgegenbeweis sind gesondert zu prüfen, ebenso Arglist und notwendige Belehrung. Eine Kürzungsquote muss aus dem konkreten Vorwurf begründet werden.
 
-## 2. Fachlicher Direktstart
+Bei BU den zuletzt gesund ausgeübten Beruf in Arbeitsvorgänge zerlegen und Funktionsbefunde zuordnen. Zeitanteile sind nicht allein entscheidend, wenn ein untrennbarer Arbeitsschritt den Gesamtvorgang prägt. BU-Schwelle, Prognose, Verweisung und Umorganisation aus der konkreten Police entnehmen; keine automatische Gleichsetzung mit Arbeitsunfähigkeit.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Sparte und welche Bedingungen gelten.
-2. Kernprüfung in einem Durchgang: Ist der Versicherungsfall nach Zeit, Ort, Ursache und Schaden belegt; Welche Ausschlüsse oder Obliegenheiten werden geltend gemacht.
-3. Belege und Engpass zusammenführen: Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung; besonders kritisch ist: Frist zur Schadenanzeige, Klage oder Deckungsablehnung läuft.
-4. Erstes Arbeitsprodukt liefern: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren.
+Bei Sachschäden Schadenpositionen, Selbstbehalt, Unterversicherung und bereits gezahlte Beträge rechnen. Bei laufenden Renten Monate, vertraglichen Beginn und Beitragsbefreiung trennen. Keine allgemeine Klagefrist allein aus einer Deckungsablehnung ableiten; Anzeige-, Ausschluss- und Verjährungsfristen separat prüfen.
 
-## 3. Kernroute
+## 4. Amtliche Quellen
 
-1. Vertrag und Sparte: Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen.
-2. Versicherungsfall: Eintritt, Anzeige, Schadenhöhe, Kausalität, Ausschluss und Beweislast ordnen.
-3. Obliegenheiten: vorvertragliche Anzeige, Gefahrerhöhung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen.
-4. Deckung und Regulierung: Leistungsentscheidung, Quote, Regress, Verjährung und Prozessrisiko ausarbeiten.
-5. Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren.
+Prüfstand 14.09.2026: [Paragraf 28 VVG](https://www.gesetze-im-internet.de/vvg_2008/__28.html), [Paragraf 172 VVG](https://www.gesetze-im-internet.de/vvg_2008/__172.html). BGH, Urteil vom 19.07.2017, Az. IV ZR 535/15, [amtlicher Leitsatz zum beruflichen Gesamtvorgang](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-7-19&Gericht=bgh&anz=22&nr=79199&pos=7), nur bei passendem Tätigkeitsstreit einsetzen. Maßgebliche Fassung und Fortentwicklung prüfen; keine erfundenen Urteile, Randnummern oder Literatur. Vertragsbeleg, Norm und Annahme unterscheiden.
 
-## 4. Fallkarte
+## 5. Ergebnis und Freigabe
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | VVG Paragraf 1; VVG Paragraf 19; VVG Paragraf 28 |
-| Rechtsprechung | BGH, Urteil vom 10.03.2016 - I ZR 147/14; BGH, Urteil vom 30.11.2017 - I ZR 143/16 |
-| Tatbestand | Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen |
-| Beweislast | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung |
-| Rechtsfolge | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Liefere Deckungsmemo, Anspruchsschreiben, Ablehnungsanalyse oder Klageentwurf in vollständigen Sätzen mit Bedingungs-Beleg-Matrix, Berechnung und stärkster Gegenposition. Ohne Ausgabeauftrag zunächst ein kurzes Deckungsvotum mit entscheidender Lücke. Export: Times New Roman, 11 pt, dezimal. Ohne Exportfunktion keinen Dateilink erfinden.
 
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Vertrag und Sparte | Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Versicherungsfall | Eintritt, Anzeige, Schadenhöhe, Kausalität, Ausschluss und Beweislast ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Obliegenheiten | Vorvertragliche Anzeige, Gefahrerhöhung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Deckung und Regulierung | Leistungsentscheidung, Quote, Regress, Verjährung und Prozessrisiko ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- VVG Paragraf 1: vertragstypische Pflichten aus dem Versicherungsvertrag.
-- VVG Paragraf 19: vorvertragliche Anzeigepflicht und Rechtsfolgen.
-- VVG Paragraf 28: Obliegenheitsverletzung nach Vertragsschluss.
-- VVG Paragraf 61: Beratungspflichten des Versicherungsvermittlers.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 10.03.2016 - I ZR 147/14: Der Versicherungsmakler muss das konkrete Risiko analysieren und eine sachgerechte Entscheidungsgrundlage schaffen; eine uninformierte sachwidrige Weisung darf er nicht einfach hinnehmen.
-- BGH, Urteil vom 30.11.2017 - I ZR 143/16: Die Maklerpflicht kann Hilfestellung bei der Schadenregulierung und den Hinweis auf anspruchsvernichtende Ausschlussfristen umfassen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag.
-7.2. Norm: VVG Paragraf 1; VVG Paragraf 19 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Vertrag und Sparte“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Der Versicherungsfall nach Zeit, Ort, Ursache und Schaden belegt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Vertrag und Sparte“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Frist zur Schadenanzeige, Klage oder Deckungsablehnung läuft. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Bei drohendem Fristverlust sofort Sicherungsbedarf und freizugebenden Entwurf liefern, nicht die Bearbeitung abbrechen. Keine Schweigepflichtentbindung, Meldung, Vergleichsannahme oder Klage eigenmächtig abgeben. Nur erforderliche Gesundheitsdaten verwenden; unveränderte Ergebnisse bei Folgeaufträgen weiterverwenden.

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "einigungsvertrag-vermoegensrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/vermg/__30a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Ausschlussfrist mit gesetzlich bestimmten Sonderfällen; neues Beweismaterial ist nicht selbst ein neuer Anmeldetatbestand."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Objektchronologie war geeignet, die entscheidende Abgrenzung zwischen alter Anmeldung und neuem Objekt aber zu abstrakt.",
+    "changes": [
+      "Historischen Antrag und Objektbestimmung verlangt.",
+      "Archivfund nicht als automatische Fristöffnung behandelt."
+    ],
+    "sha256": "623cb1a27ee88abec7684b7b176fb1c7b28cdcb21a126455852ee3191f9557f4"
+  },
+  "selection": {
+    "positive": [
+      "Ordne einen Altantrag auf Rückübertragung einem heutigen Flurstück zu.",
+      "Prüfe eine historische Rechtsträgerakte für den Restitutionsweg."
+    ],
+    "negative": [
+      "Beurteile eine neue Enteignung für eine Autobahn.",
+      "Erstelle einen gewöhnlichen Wohnungskaufvertrag ohne DDR-Bezug."
+    ]
+  },
+  "cases": [
+    {
+      "id": "altantrag-flurstueck-archivfund",
+      "request": "Ein Erbe hat 2026 eine Enteignungsakte von 1978 gefunden. Für Grundstück 12 liegt ein Rückübertragungsantrag seines Vaters mit Eingang vom 20.12.1992 vor; er nennt Gemarkung und Flurstück ausdrücklich, das Verfahren ist noch offen. Für das danebenliegende Grundstück 13 gibt es nach vollständiger Aktenauskunft keine Anmeldung, obwohl dieselbe Enteignungsakte beide betrifft. Eine Rehabilitierungsentscheidung oder sonstiger besonderer Fristauslöser liegt nicht vor. Erstelle ergebnis.md mit getrennten Verfahrensoptionen für beide Grundstücke und benötigten Nachweisen, ohne einen Antrag zu versenden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die neue Akte wird für Grundstück 12 als mögliche Ergänzung des rechtzeitig angemeldeten Vorgangs geprüft, nicht als neue Anmeldung behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Für Grundstück 13 wird die Ausschlussfrist gesondert geprüft; die Anmeldung des Nachbargrundstücks oder der neue Archivfund genügt nicht automatisch.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Empfehlung trennt Objektidentität, Rechtsnachfolge und materiellen Schädigungstatbestand, ohne allein aus der Akte einen sicheren Rückübertragungsanspruch abzuleiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "restitution-oder-entschaedigung"
+    }
+  ]
+}

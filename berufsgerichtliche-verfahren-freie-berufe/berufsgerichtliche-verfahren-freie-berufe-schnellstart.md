@@ -1,73 +1,27 @@
-# Berufsgerichtliche Verfahren Freie Berufe — Schnellstart
+# 1 Berufsgerichtliche Verteidigung beginnen
 
-Wenn du das hier öffnest, willst du eine berufsrechtliche Frage der Anwaltschaft, des Notariats oder der prüfenden Berufe nach Pflicht, Aufsicht, Sanktion und sicherem Arbeitsprodukt ordnen.
+Lies zuerst den konkreten Vorwurf, die letzte Verfahrensentscheidung und ihren Zustellnachweis. Bearbeite das verlangte Verteidigungsprodukt aus den vorhandenen Tatsachen und Unterlagen. Eine laufende Frist ist Anlass zur Priorisierung, nicht zum Arbeitsabbruch. Frage nur nach entscheidenden fehlenden Angaben, insbesondere Berufsstatus, Entscheidungstyp oder Zustellung, und liefere daneben den bereits möglichen Entwurf.
 
-Kernauftrag: Plugin für anwaltsgerichtliche und berufsgerichtliche Verfahren gegen Anwälte, Patentanwälte, Steuerberater, Wirtschaftsprüfer und Notare: Kammeraufsicht, Rüge, Disziplinarverfahren, Zulassung, Vermögensverfall, beA. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Verfahren und Adressat identifizieren
 
-## 1. Sofortstart nach Eingangslage
+Trenne Rechtsanwaltschaft, Patentanwaltschaft, Steuerberatung, Wirtschaftsprüfung und Notariat. Wähle das zugehörige Berufsgesetz; übertrage anwaltliche Rechtsbehelfe nicht auf andere Berufsgruppen. Unterscheide Aufsichtsanfrage, Anhörung, Rüge, Entscheidung über den dagegen gerichteten Rechtsbehelf, Anschuldigung, gerichtliche Entscheidung und statusrechtliche Maßnahme. Notarielle Disziplinarverfahren dürfen nicht allein wegen ähnlicher Vorwürfe als anwaltliches Rügeverfahren behandelt werden.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Berufsträger und Pflichtenkreis, Pflichtenprüfung, Aufsichts- und Verfahrenslage wählen; ohne konkreten Auftrag mit Berufsträger und Pflichtenkreis beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Erstelle eine kurze Verfahrenschronologie mit Dokumentdatum, tatsächlicher Zustellung, Inhalt und bisheriger Reaktion. Lege für jede laufende Frist Grundlage, Beginn, Berechnung und Empfangsstelle offen. Prüfe Rechtsbehelfsbelehrung und aktuelle Norm nebeneinander; eine Belehrung ist kein Ersatz für die rechtliche Einordnung. Bezeichne unbestätigte Daten als unbestätigt.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Berufsträger und Pflichtenkreis, Pflichtenprüfung, Aufsichts- und Verfahrenslage und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2 Konkrete anwaltliche Rügeroute
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Nach [Paragraf 74 BRAO](https://www.gesetze-im-internet.de/brao/__74.html) unterscheiden sich die Anhörung vor der Rüge und der Einspruch gegen den zugestellten Rügebescheid. Der Einspruch ist binnen eines Monats nach Zustellung beim Kammervorstand zu erheben. Prüfe, ob eine begründete und zugestellte Entscheidung vorliegt und ob bereits über den Einspruch entschieden wurde.
 
-## 2. Fachlicher Direktstart
+Wurde der Einspruch zurückgewiesen, führt [Paragraf 74a BRAO](https://www.gesetze-im-internet.de/brao/__74a.html) zum Antrag auf Entscheidung des Anwaltsgerichts am Sitz der Kammer. Dieser ist binnen eines Monats nach Zustellung schriftlich beim Anwaltsgericht einzureichen. Entwirf nicht erneut einen Einspruch beim Vorstand und keine gewöhnliche verwaltungsgerichtliche Anfechtungsklage. Den aktuell zulässigen elektronischen Einreichungsweg gesondert prüfen. Eine mündliche Verhandlung kann beantragt werden; begründe ihren Nutzen anhand streitiger Tatsachen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Berufsgesetz und welche Satzungsnorm tragen den Vorwurf oder die Gestaltung.
-2. Kernprüfung in einem Durchgang: Ist die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor; Welche Kollisionsprüfung ist dokumentiert und wer hat wann geprüft.
-3. Belege und Engpass zusammenführen: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren; besonders kritisch ist: Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchung steht im Raum.
-4. Erstes Arbeitsprodukt liefern: Kammer-Stellungnahme: Sachverhalt, betroffene Pflicht, Rechtslage, Entlastung, Ergebnis, Anlagen.
+## 1.3 Vorwurf beweisbar zerlegen
 
-## 3. Kernroute
+Ordne jede beanstandete Handlung einer Pflicht, einem Zeitpunkt und einem Beleg zu. Trenne erwiesenen Ablauf, Vorwurf der Kammer, Einlassung des Berufsträgers und eigene rechtliche Bewertung. Bei angeblicher Unsachlichkeit lies die vollständige Äußerung samt Anlass, Adressat und vorherigem Schriftwechsel; ein herausgelöstes Schlagwort ersetzt keine Kontextprüfung. Bei Fremdgeld sind Zahlungsfluss und Berechtigung wichtiger als eine allgemeine Zuverlässigkeitsbehauptung.
 
-1. Berufsträger und Pflichtenkreis: Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen.
-2. Pflichtenprüfung: Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten.
-3. Aufsichts- und Verfahrenslage: Kammerverfahren, Rüge, Missbilligung, berufsgerichtliches Verfahren und Parallelität zum Strafverfahren ordnen.
-4. Risikoabschätzung: Sanktionsrahmen, Registerfolgen, Versicherungsfragen und Mandatsauswirkungen bewerten.
-5. Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
+Prüfe objektive Pflichtverletzung, individuelle Verantwortlichkeit, Entlastung und mögliche Folgen getrennt. Leite weder eine Zulassungsentziehung noch eine strafrechtliche Verurteilung automatisch aus der Rüge ab. Ein Parallelverfahren gehört mit eigenem Stand und möglichen Wechselwirkungen in die Bewertung. Vermeide vorschnelle Schuldeingeständnisse. Prüfe vor Offenlegung von Mandatsinhalten, welcher Umfang für die Verteidigung erforderlich und rechtlich gedeckt ist.
 
-## 4. Fallkarte
+## 1.4 Schriftsatz statt allgemeiner Pflichtenliste
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46; BORA und FAO |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen |
-| Beweislast | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| Rechtsfolge | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Liefere den zur Verfahrensstufe passenden ausformulierten Antrag oder die Stellungnahme. Benenne angegriffene Entscheidung und Verteidigungsziel, arbeite die tragenden Tatsachen ein und ordne Beweismittel zu. Erfinde keine Kammerakten, Zeugenaussagen oder bereits gewährte Akteneinsicht. Wenn Aktenkenntnis fehlt, formuliere einen konkreten Einsichtsantrag und begrenze die Aussagekraft der bisherigen Verteidigung.
 
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Berufsträger und Pflichtenkreis | Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichtenprüfung | Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufsichts- und Verfahrenslage | Kammerverfahren, Rüge, Missbilligung, berufsgerichtliches Verfahren und Parallelität zum Strafverfahren ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikoabschätzung | Sanktionsrahmen, Registerfolgen, Versicherungsfragen und Mandatsauswirkungen bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BRAO Paragraf 43a und Paragraf 43e: Grundpflichten, Verschwiegenheit und Inanspruchnahme von Dienstleistern.
-- BRAO Paragraf 45 und Paragraf 46: Tätigkeitsverbote und Syndikusrechtsanwälte.
-- BORA und FAO: Berufsordnung und Fachanwaltschaften als Satzungsrecht der Kammern.
-- BNotO Paragraf 14 und Paragraf 17: Amtspflichten und Gebührenbindung des Notars.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
-7.2. Norm: BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Berufsträger und Pflichtenkreis“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Kammer-Stellungnahme“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchung steht im Raum. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Eine knappe Begleitnotiz nennt Fristsicherung, stärkstes Gegenargument und noch zu beschaffenden Beleg. Weitere Rechtsnormen und Entscheidungen nur aus geprüften amtlichen Quellen verwenden; Entscheidungen mit Gericht, Datum, Aktenzeichen und überprüfter Fundstelle. Optional verfügbare Spezialskills können ergänzen, sind aber für diesen Arbeitsweg nicht erforderlich. Keine Einreichung ohne Freigabe. Dezimale Gliederung, vollständige Sätze und Times New Roman 11 pt beim Export.

@@ -1,77 +1,31 @@
-# Außenwirtschaft, Sanktionen, Zoll und CBAM — Schnellstart
+# 1. Außenwirtschaftlichen Vorgang prüfen
 
-Wenn du das hier öffnest, willst du einen Transport-, Fracht- oder Außenhandelsfall nach Haftungsregime, Rügefristen, Dokumentenlage und Exportkontrolle ordnen.
+Lies Auftrag, technische Produktunterlagen, Bestellung, Lieferkette, Endverbleibserklärung, Genehmigungen und Zollunterlagen zuerst. Liefere einen Klassifizierungsvermerk, Freigabebefund, Behördenentwurf oder Zollrechtsbehelf. Der Schwerpunkt ist Außenwirtschaft, Sanktionen und Zoll, nicht automatisch Frachtführerhaftung. Fehlende technische Daten nur gezielt nachfordern; die bereits prüfbaren Beteiligten- und Dokumentenfragen weiterbearbeiten.
 
-Kernauftrag: Freistehendes Plugin für Außenwirtschaft, Sanktionen, Zoll, Exportkontrolle, BAFA, TARIC, CBAM, Verbrauchsteuer, AWV, AML/KYC und Ermittlungen. Vorrang hat das verlangte Arbeitsprodukt.
+## 2. Transaktion auflösen
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Ausführer oder Einführer, Käufer, Empfänger, Endverwender, Vermittler, wirtschaftliche Eigentümer, Zahlungsweg, Bestimmungsland und bekannte Weiterlieferungen. Trenne Ware, Ersatzteil, Software, Technologie und technische Unterstützung. Auch elektronisches Bereitstellen kann eine Ausfuhr betreffen; Artikel 2 der [Dual-Use-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02021R0821-20251115) berücksichtigt entsprechende Übertragungswege. Ein fehlender physischer Transport beendet die Prüfung deshalb nicht.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Transport- und Vertragskette, Regimewahl, Schaden und Fristen wählen; ohne konkreten Auftrag mit Transport- und Vertragskette beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 3. Vier getrennte Kontrollen
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Transport- und Vertragskette, Regimewahl, Schaden und Fristen und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+3.1. Güter: Technische Merkmale mit der maßgeblichen Listenposition und ihren Anmerkungen vergleichen. Datenblattstand, Modell, Leistungsparameter und Konfiguration festhalten. Eine Zolltarifnummer ist kein technischer Befund zu allen Listenmerkmalen. Bei fehlendem Parameter keine abschließende Nichtlistung bescheinigen. Artikel 3 der Dual-Use-Verordnung betrifft die Ausfuhr gelisteter Güter; für nicht gelistete Güter die konkret einschlägigen verwendungsbezogenen Kontrollen gesondert prüfen.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+3.2. Personen und Länder: Treffer anhand Identität, Anschrift, Registerdaten sowie Eigentums- und Kontrollbeziehungen abklären. Ein ähnlicher Name ist kein gesicherter Treffer; ein fehlender Namenstreffer ist keine vollständige Transaktionsfreigabe. Die konkret einschlägige Sanktionsverordnung einschließlich Güter-, Dienstleistungs- und Bereitstellungsbeschränkungen in aktueller amtlicher Fassung prüfen. Ein älteres Screening mit Datum dokumentieren, nicht als gegenwärtige Listenprüfung ausgeben.
 
-## 2. Fachlicher Direktstart
+3.3. Verwendung und Umleitung: Endverwendungsangaben mit Produkt, Geschäftstätigkeit, Menge, Lieferweg und Zwischenhändler abgleichen. Widersprüche als konkrete Klärungsfragen formulieren. Eine zivile Bestellererklärung nicht ohne technische und verwendungsbezogene Prüfung als Ausnahme behandeln. Allgemeine oder individuelle Genehmigung nur nach Abgleich von Gut, Land, Endverwender, Nebenbestimmungen, Zeitraum und Nutzungsvoraussetzungen heranziehen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Haftungsregime gilt zwingend für die konkrete Teilstrecke.
-2. Kernprüfung in einem Durchgang: Wurden Schäden fristgerecht und formwirksam vorbehalten oder gerügt; Welcher Höchstbetrag gilt und was durchbricht ihn.
-3. Belege und Engpass zusammenführen: Nachweisachse Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen; besonders kritisch ist: Eine Reklamations- oder Verjährungsfrist läuft in unter zwei Wochen ab.
-4. Erstes Arbeitsprodukt liefern: Haftbarhaltung: Transport, Schaden, Vorbehalt, Anspruchsgrund, Betrag, Frist.
+3.4. Zoll und Abgaben: Warennummer, Ursprung, Präferenznachweis, Zollwert, Verfahren, Anmelder und Vertretungsart aus Belegen ableiten. Vertragsbezeichnung und Lieferklausel nicht als vollständige Zollwertberechnung behandeln. Bei Bescheiden Bekanntgabe, Rechtsbehelf und Vollziehung getrennt prüfen. CBAM oder Verbrauchsteuer nur bei passendem Waren- und Zeitbezug vertiefen; aktuelle Schwellen und Übergangsregeln nicht aus alten Quartalsvorlagen übernehmen.
 
-## 3. Kernroute
+## 4. Belastbares Ergebnis statt pauschalem Grün
 
-1. Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen.
-2. Regimewahl: CMR, HGB, See- oder Multimodalrecht mit zwingendem Charakter bestimmen.
-3. Schaden und Fristen: Schadensfeststellung, Vorbehalte, Reklamations- und Verjährungsfristen kalendarisch sichern.
-4. Haftung: Haftungsgrund, Höchstbeträge, Durchbrechung bei qualifiziertem Verschulden und Regresskette ordnen.
-5. Arbeitsprodukt: Haftbarhaltung, Reklamation, Regressschreiben, Klage oder Exportkontrollvermerk ausformulieren.
+Führe eine Matrix aus Prüffrage, maßgeblicher Fassung, konkretem Tatbestandsmerkmal, Beleg und Ergebnis. Kennzeichne getrennt: geprüft und unauffällig, Genehmigung erforderlich, Verbot zu prüfen oder Tatsachen offen. Eine Genehmigungsanfrage ist noch keine Genehmigung. Eine technische Datenlücke sperrt nur die hiervon abhängige Lieferfreigabe; Nachforderung und Dossier werden trotzdem geliefert.
 
-## 4. Fallkarte
+Ein möglicher Verstoß verlangt Beweissicherung und abgestimmte rechtliche Bewertung. Keine Unterlagen löschen oder nachträglich beschönigen. Freiwillige Offenlegung und strafrechtliche Folgen nur anhand des konkreten Vorgangs prüfen, keine universelle Straffreiheit zusagen. Exportkontrolle, Zollschuld und vertragliche Lieferpflicht bleiben unterschiedliche Fragen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | HGB Paragraf 407 ff; CMR; HGB Paragraf 452 ff |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen |
-| Beweislast | Nachweisachse Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen |
-| Rechtsfolge | Haftbarhaltung, Reklamation, Regressschreiben, Klage oder Exportkontrollvermerk ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 5. Selbständiger Arbeitsweg und Form
 
-## 5. Einsatzfelder
+Optional vertieft [Dual-Use-Ausfuhrkontrolle](skills/aussenwirtschaft-exportkontrolle-dual-use/SKILL.md) die Klassifizierung. Ohne diese Datei genügen die vier Kontrollen oben als Arbeitsweg; technische Angaben oder Normzuordnungen aus Zusatzmaterialien ebenfalls verifizieren.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Transport- und Vertragskette | Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Regimewahl | CMR, HGB, See- oder Multimodalrecht mit zwingendem Charakter bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schaden und Fristen | Schadensfeststellung, Vorbehalte, Reklamations- und Verjährungsfristen kalendarisch sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Haftung | Haftungsgrund, Höchstbeträge, Durchbrechung bei qualifiziertem Verschulden und Regresskette ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Haftbarhaltung, Reklamation, Regressschreiben, Klage oder Exportkontrollvermerk ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Verwende aktuelle amtliche Normtexte, Güterlisten und zuständige Behördenquellen. Konsolidierte Texte dienen der Orientierung; maßgebliche Änderungsakte und Berichtigungen bei entscheidenden Zweifeln prüfen. Nur tatsächlich geprüfte Fassungen und URLs nennen. Entscheidungen benötigen Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Randnummer; Literatur nicht erfinden. Optional: [Zitierweise](../references/zitierweise.md).
 
-## 6. Anker
-
-- HGB Paragraf 407 ff.: Frachtvertrag, Haftung des Frachtführers und Schadensvermutungen.
-- CMR: zwingendes Haftungsregime des grenzüberschreitenden Straßengütertransports mit Art. 17 ff. und Art. 32.
-- HGB Paragraf 452 ff.: multimodaler Transport und Teilstreckenhaftung.
-- HGB Paragraf 476 ff. und Seehandelsrecht: Seefracht, Konnossement und Haftungsgrenzen.
-- Paragraf 355 AO: Einspruchsfrist (1 Monat); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- FGO Paragrafen 40-68: Finanzgerichtliche Klage bei Zollbescheiden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB: Treu und Glauben als Auslegungsmassstab für Exportkontrollklauseln; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 BGB: Schadensersatz bei Verletzung vertraglicher Exportkontrollpflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Haftbarhaltung, Reklamation, Regressschreiben, Klage oder Exportkontrollvermerk ausformulieren.
-7.2. Norm: HGB Paragraf 407 ff; CMR mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Transport- und Vertragskette“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Schäden fristgerecht und formwirksam vorbehalten oder gerügt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Haftbarhaltung“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Eine Reklamations- oder Verjährungsfrist läuft in unter zwei Wochen ab. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Vermerke und Behördenentwürfe in vollständigen Sätzen, mit dezimaler Gliederung, Leerzeilen und Times New Roman 11 pt beziehungsweise Exporthinweis liefern. Ohne Export vollständigen Text ausgeben. Keine erfolgreiche Listenabfrage, Antragstellung oder Lieferung behaupten, die nicht erfolgt ist; nichts ungefragt einreichen oder freigeben.

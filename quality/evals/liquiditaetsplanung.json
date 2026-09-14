@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "plugin": "liquiditaetsplanung",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__17.html",
+      "checked_on": "2026-09-14",
+      "supports": "Aktuelle Zahlungsfähigkeit anhand fälliger Pflichten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__18.html",
+      "checked_on": "2026-09-14",
+      "supports": "Abgrenzung kurzer Planung zur regelmäßig 24-monatigen Prognose."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der gesamte Schnellstarter bot Datenraum- und Insolvenzschlagwörter statt fortgeschriebener Zahlungsrechnung; auch forecast-wochenplanung enthält hauptsächlich Auftragsklärung.",
+    "changes": [
+      "Wochenfortschreibung, Kreditlinienabgrenzung und unterwöchige Fälligkeit ergänzt.",
+      "Stressfall und Maßnahmenfall mit konkretem Finanzierungsbedarf eingeführt."
+    ],
+    "sha256": "1685959ac9de529291ac74e1b497b56b25f7354bcd04fbe32b1011bdfcc255c7"
+  },
+  "selection": {
+    "positive": [
+      "Rechnen Sie vier Wochen Liquidität bei verspätetem Kundenzufluss nach.",
+      "Stimmen Sie die 13-Wochen-Planung mit Guthaben und abrufbarer Linie ab."
+    ],
+    "negative": [
+      "Gestalten Sie Gläubigergruppen für die Bestätigung des Restrukturierungsplans.",
+      "Bewerten Sie die bilanzielle Aktivierung einer Software ohne Zahlungsplanung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "kundenzahlung-woche-vier",
+      "request": "Erstellen Sie in ergebnis.md eine vierwöchige Zahlungsplanung mit Finanzierungsvermerk. Anfangsguthaben 20000 EUR. Woche 1: 10000 EUR ein, 18000 EUR aus; Woche 2: 15000 EUR ein, 25000 EUR aus; Woche 3: 30000 EUR ein, 20000 EUR aus; Woche 4: 10000 EUR ein, 16000 EUR aus. Alle Beträge sind Bruttozahlungen zum Wochenende. Eine ungezogene, bedingungslos abrufbare Kreditlinie beträgt 5000 EUR. Rechnen Sie zusätzlich den Fall, dass 20000 EUR der Einzahlungen in Woche 3 erst in Woche 4 eingehen. Weitere Mittel sind nicht zugesagt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ohne Kreditziehung ergeben sich im Ausgangsfall Wochenendbestände von 12000, 2000, 12000 und 6000 EUR.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Stressfall zeigt in Woche 3 einen Bedarf von 8000 EUR vor Finanzierung und eine Restunterdeckung von 3000 EUR nach Ausschöpfen der Linie.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die verschobenen 20000 EUR werden in Woche 4 nur einmal erfasst; aus der kurzen Tabelle wird keine abschließende Insolvenzdiagnose abgeleitet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "forecast-wochenplanung"
+    }
+  ]
+}

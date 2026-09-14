@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-it-recht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__631.html",
+      "checked_on": "2026-09-14",
+      "supports": "Werkvertragliche Erfolgspflicht im Normtext geprüft; die konkrete Leistungsvereinbarung bestimmt die Einordnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__640.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlichen Normtext im Suchauszug zu Abnahme, Fertigstellung, Frist und Verweigerung unter Angabe eines Mangels geprüft; direkter Abruf mit Timeout."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__641.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlichen Normtext im Suchauszug zu Fälligkeit und grundsätzlich doppeltem Mangelbeseitigungsaufwand als Einbehalt geprüft; kein automatischer Abzug vom Gesamtauftrag."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__634a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Differenzierte Fristen und Abnahmebeginn nach Anspruchs- und Werkart im Normtext geprüft; keine allgemeine fünfjährige Softwarefrist."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1-19&Gericht=bgh&anz=22&nr=77407&pos=14",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13: amtliche Leitsätze im Suchauszug zu Mängelrechten nach Abnahme und Abrechnungsverhältnis gelesen. Kein ERP-Spezialfall; direkter Volltextabruf gesperrt."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
+      "checked_on": "2026-09-14",
+      "supports": "Amtliche Veröffentlichung der Änderungsverordnung vom 08.07.2026 geöffnet, insbesondere Änderungsgegenstand und Erwägungsgründe zu Kompetenzförderung und Bias-Korrektur gelesen. Der bestehende IT-Schnellstart wurde nicht auf den älteren unveränderten KI-Rechtsstand zurückgesetzt; keine Vollprüfung sämtlicher dortiger Regulierungsdetails behauptet."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der bereits individuell ausgestaltete Schnellstart enthielt einen umfangreichen KI-Regulierungsweg, aber für Projektkonflikte nur einen kurzen allgemeinen Vertragsabsatz. Dieser wurde gezielt um die belegbasierte ERP-Abnahme- und Nachtragsprüfung ergänzt; der bestehende Regulierungsbestand wurde nicht pauschal ersetzt.",
+    "changes": [
+      "Sollfunktion, Ticket, Test und Nachtragsfreigabe ausdrücklich verknüpft.",
+      "Produktivstart von Abnahme und offenen Saldo von Fälligkeit und Einbehalt getrennt.",
+      "Historisch allgemeines Werkvertragsurteil mit begrenztem Quellenstatus aufgenommen; Vertiefungslink ausdrücklich optional."
+    ],
+    "sha256": "1c29dfdf69aae06a07927fbf332b2d7cfd1aaa1d9e684e16c3f7c78a68e47fda"
+  },
+  "selection": {
+    "positive": [
+      "Nach ERP-Produktivstart verlangt der Anbieter Schlusszahlung und berechnet Migrationsfehler als Nachträge. Prüfen Sie Pflichtenheft, Tickets und Freigaben.",
+      "Wir sind der Implementierer und brauchen eine belegte Aufstellung, welche Abnahmen und Zusatzaufträge unsere Schlussrechnung tragen."
+    ],
+    "negative": [
+      "Prüfen Sie ausschließlich eine Datenschutzmeldung nach einem gestohlenen Notebook.",
+      "Berechnen Sie die Verfügbarkeitsgutschrift für einen reinen SaaS-Monatsvertrag ohne Einführungsprojekt."
+    ],
+    "target_skill": "erp-abnahme-nachtraege-belegabgleich"
+  },
+  "cases": [
+    {
+      "id": "erp-pilotbetrieb-migration-dashboard",
+      "request": "Wir vertreten die Bestellerin eines ERP-Einführungsprojekts. Erstellen Sie ergebnis.md als Projektvotum mit Zahlungsbrücke und Antwortentwurf. Im B2B-Vertrag vom 01.02.2026 schuldet der Anbieter die funktionsfähige Gesamtimplementierung einschließlich Migration aller Kundendatensätze für 300.000 EUR netto. 240.000 EUR sind als wirksam vereinbarte Abschläge bezahlt; 60.000 EUR werden erst nach Gesamtabnahme fällig. Teilabnahmen des Grundprojekts wurden ausgeschlossen. Am 01.08. begann ausdrücklich nur ein Pilotbetrieb. Die Migration erzeugt weiterhin reproduzierbare Dubletten, entgegen der eindeutigen Vorgabe im Pflichtenheft. Am 10.08. forderte der Anbieter zur Gesamtabnahme bis 24.08. auf; am 12.08. lehnte die Geschäftsführerin schriftlich unter genauer Benennung der Dubletten die Abnahme ab und verlangte deren Beseitigung. Sie will das Projekt mit dem Anbieter fortsetzen. Zusätzlich war ein im Grundumfang nicht enthaltenes Dashboard durch beidseitig von den Geschäftsführern unterschriebenen Nachtrag für 20.000 EUR bestellt worden; dieser sieht eigene Abnahme und Fälligkeit vor. Das Dashboard wurde am 15.08. gesondert mangelfrei abgenommen, eine Zahlung darauf ist nicht erfolgt. Für die Dublettenbereinigung fordert der Anbieter weitere 40.000 EUR. Dazu existiert nur ein Ticket, in dem der IT-Sachbearbeiter der Bestellerin die Fehlerbeschreibung mit 'technisch bestätigt' markiert hat. Vertrag und bekannte Vollmachtsmatrix erlauben diesem Mitarbeiter weder Preiszusagen noch Vertragsänderungen; sonstige Genehmigungen oder Vertrauenstatbestände fehlen. Der Anbieter verlangt nun 120.000 EUR sofort. Für den Fall einer Gesamtabnahme sind erforderliche Kosten der Dublettenbereinigung von 12.000 EUR durch ein beiderseits akzeptiertes Angebot belegt. Kündigung, Vorschussklage und eigenmächtiger Versand sind nicht beauftragt. Beurteilen Sie den aktuellen Stand und erläutern Sie zusätzlich die rechnerische Bedeutung einer späteren wirksamen Gesamtabnahme mit Mängelvorbehalt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis behandelt den Pilotbetrieb nicht allein als Gesamtabnahme und verneint eine Abnahmefiktion aufgrund der rechtzeitigen konkret begründeten Ablehnung; es behauptet nicht ohne Prüfung, das gesamte Grundprojekt sei endgültig vergütungsfrei.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die 40.000 EUR werden nicht als belegter Nachtragsanspruch anerkannt: Migration gehört zum Grundumfang und das technische Ticket enthält nach den Tatsachen keine wirksame zusätzliche Vergütungsfreigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Zahlungsbrücke unterscheidet 60.000 EUR offene, aktuell nicht durch Gesamtabnahme fällige Grundvergütung von 20.000 EUR fälliger Dashboardvergütung; sie setzt die Forderung von 120.000 EUR nicht insgesamt gleich einer fälligen Forderung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Die ausdrücklich verlangte spätere Abnahmevariante zeigt bei fortbestehendem Beseitigungsanspruch grundsätzlich 24.000 EUR Einbehalt aus 12.000 EUR erforderlichen Kosten und 36.000 EUR verbleibende Grundvergütung; sie vermischt diese Variante nicht mit der aktuellen fehlenden Gesamtabnahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Das Votum wahrt den Fortsetzungswunsch, leitet kein Abrechnungsverhältnis allein aus dem Streit ab und erklärt keine Kündigung oder Abnahme im Namen der Bestellerin.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "erp-abnahme-nachtraege-belegabgleich"
+    }
+  ]
+}

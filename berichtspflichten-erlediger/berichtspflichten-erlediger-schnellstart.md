@@ -1,74 +1,31 @@
-# Berichtspflichten Erlediger — Schnellstart
+# 1 Berichtspflicht bis zum Nachweis bearbeiten
 
-Wenn du das hier öffnest, willst du eine konkrete Meldung fristgerecht aus belastbaren Unternehmensdaten erzeugen, freigeben, übermitteln und nachweisbar abschließen.
+Erstelle aus dem konkreten Auftrag und vorhandenen Bescheiden, Formularhinweisen und Unternehmensdaten die verlangte Meldung, Korrektur oder Freigabevorlage. Beginne nicht mit einem Katalog denkbarer Berichtspflichten. Wenn die Aufgabe bereits bezeichnet ist, arbeite ihre Felder ab; ein Melderegister ist nur bei einem Inventarisierungsauftrag das Hauptprodukt.
 
-Kernauftrag: Berichtspflichten-Erlediger für mittelständische Unternehmen: amtliche Statistik, Portale, Umwelt-, Produkt-, Steuer-, Sozial-, Lieferketten-, Datenschutz- und Aufsichtsmeldungen mit Fristenboard, Datenquellen. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Meldeauftrag eingrenzen
 
-## 1. Sofortstart nach Eingangslage
+Notiere Rechtsträger, Standort, Meldekennzeichen, Empfänger, Zeitraum, Stichtag, Abgabefrist und Format. Unterscheide die Frist der Behörde von internen Zuarbeitsterminen. Entnimm Schwellen und Ausnahmen der für diesen Zeitraum geltenden amtlichen Vorschrift oder Erhebungshilfe. Eine Konzernzugehörigkeit begründet noch keine konsolidierte Meldung. Ein früherer Meldebrief beweist nicht, dass jede Folgeperiode identisch behandelt wird.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Meldeinventar, Datenlinie, Plausibilisierung wählen; ohne konkreten Auftrag mit Meldeinventar beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Falls der Nutzer lediglich eine interne Datenspezifikation vorgibt, setze genau diese um und bezeichne das Ergebnis nicht als gesetzlich abschließend geprüfte Meldung. Fehlt eine entscheidende Abgrenzung, stelle dazu eine gebündelte Rückfrage; rechne bereits eindeutig zuordenbare Werte weiter. Bei knapper Frist priorisiere Freigabe und Klärung, statt die Arbeit wegen einer pauschalen Anzahl verbleibender Tage abzubrechen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Meldeinventar, Datenlinie, Plausibilisierung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2 Jedes Feld bekommt eine Herkunft
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Ordne den Meldefeldern Quelldatei, Tabellenblatt oder Datensatz, Ausgangswert, Filter, Umrechnung und Ergebnis zu. Halte Rohdaten unverändert. Trenne Einzelunternehmen, Niederlassung und Konzern; Leistungsmonat, Rechnungsdatum und Zahlungsdatum dürfen nicht stillschweigend gleichgesetzt werden. Prüfe Netto oder Brutto, Euro oder Tausend Euro, Stück oder Gewicht und die vorgeschriebene Rundung. Rechne möglichst erst nach Aggregation um, sofern die Feldvorgabe nichts anderes verlangt.
 
-## 2. Fachlicher Direktstart
+Suche Dubletten über nachvollziehbare Geschäftskennzeichen, nicht nur identische Beträge. Unterscheide Storno, Rücklieferung, Korrekturbuchung und neuen Geschäftsvorfall. Ein leerer Wert ist kein bestätigter Nullwert. Verwende Schätzungen nur, wenn die einschlägige Vorgabe sie zulässt; dokumentiere Methode und Unsicherheit. Übernimm keine personenbezogenen Zusatzspalten, die für das Meldefeld nicht benötigt werden.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Spezialnorm löst für welchen Rechtsträger zu welchem Stichtag die Meldung aus.
-2. Kernprüfung in einem Durchgang: Welche Schwelle, Einheit, Periode und Konsolidierungsgrenze gelten in der aktuellen Fassung; Welche Originalquelle belegt jedes berichtete Feld und wer verantwortet die Datenqualität.
-3. Belege und Engpass zusammenführen: Jede Änderung bleibt auf Eingangsdatei, maßgebliche Fassung, Fundstelle, Freigabe und Übergabenachweis zurückführbar; besonders kritisch ist: Melde- oder Korrekturfrist läuft in weniger als fünf Arbeitstagen.
-4. Erstes Arbeitsprodukt liefern: Melderegister: Pflicht, Rechtsgrund, Rechtsträger, Zeitraum, Schwelle, Quelle, Bearbeiter, Freigeber, Frist, Portal und Nachweis.
+## 1.3 Abweichungen erklären und Korrekturen erhalten
 
-## 3. Kernroute
+Gleiche Teil- und Gesamtsummen ab. Erkläre auffällige Veränderungen zur Vorperiode anhand Geschäftsvorfällen, Abgrenzungsänderungen oder noch ungeklärten Datenfehlern. Die Vorperiode ist ein Plausibilitätsvergleich, kein Sollwert, auf den das aktuelle Ergebnis angepasst wird.
 
-1. Meldeinventar: Rechtsträger, Standort, Tätigkeit, Behörde, Portal, Meldeanlass, Schwelle, Zeitraum, Frist und verantwortliche Stelle erfassen.
-2. Datenlinie: jedes Feld auf Quellsystem, Kontenlogik, Messung, Personal- oder Produktdatensatz, Stichtag und Datenverantwortlichen zurückführen.
-3. Plausibilisierung: Vorperiode, Summen, Einheiten, Währungen, Nullmeldung, Schätzung, Abweichung und Mehrfachmeldung kontrollieren.
-4. Freigabe und Übermittlung: Vier-Augen-Prüfung, Portalrolle, Vollmacht, Signatur, Versandprotokoll, Eingangsbestätigung und Korrekturweg sichern.
-5. Arbeitsprodukt: Meldekalender, Feldmapping, ausgefüllte Meldung, Abweichungsvermerk, Behördenantwort oder Heilungsplan erstellen.
+Für eine Korrektur stelle ursprünglichen Meldewert, neuen Wert, Differenz, Anlass und Beleg nebeneinander. Erhalte den ursprünglichen Stand und seine Freigabe. Prüfe anhand des tatsächlichen Portals, ob eine Ersatzmeldung, Differenzmeldung oder gesonderte Berichtigung vorgesehen ist. Erfinde weder Meldekennzeichen noch Korrekturwege. Ein korrigiertes Arbeitsblatt ist noch keine korrigierte Behördenmeldung.
 
-## 4. Fallkarte
+## 1.4 Freigabe und Versand getrennt nachweisen
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | Die jeweilige Spezialnorm bestimmt Meldeanlass, Adressat, Schwelle; BStatG und Fachstatistikgesetze; AWV und Bundesbank-Meldevorschriften |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Rechtsträger, Standort, Tätigkeit, Behörde, Portal, Meldeanlass, Schwelle, Zeitraum, Frist und verantwortliche Stelle erfassen |
-| Beweislast | Jede Änderung bleibt auf Eingangsdatei, maßgebliche Fassung, Fundstelle, Freigabe und Übergabenachweis zurückführbar |
-| Rechtsfolge | Meldekalender, Feldmapping, ausgefüllte Meldung, Abweichungsvermerk, Behördenantwort oder Heilungsplan erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Liefere das ausgefüllte Feldschema und einen kurzen Freigabevermerk mit fachlich offenen Punkten, Datenverantwortlichem und vorgesehenem Prüfer. Wurde noch niemand benannt, bleibt diese Rolle offen; trage keine fiktive Freigabe ein. Dokumentiere, welcher konkrete Datenstand geprüft wurde. Eine Freigabe derselben Person wie die Datenerstellung ist bei verlangtem Vier-Augen-Prinzip unzureichend.
 
-## 5. Einsatzfelder
+Übermittle nur auf ausdrücklichen Auftrag und mit vorhandenem Zugang. Unterscheide vorbereitet, intern freigegeben, technisch versandt und vom Empfänger bestätigt. Ein Screenshot des ausgefüllten Formulars oder ein Klick auf „Senden“ ersetzt keine Eingangsquittung. Bei Fehlern sichere Fehlermeldung, Zeitpunkt und betroffenen Stand, ohne erfolgreiche Übermittlung zu behaupten. Benenne den nächsten kontrollierbaren Schritt und die verbleibende Frist.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Meldeinventar | Rechtsträger, Standort, Tätigkeit, Behörde, Portal, Meldeanlass, Schwelle, Zeitraum, Frist und verantwortliche Stelle erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenlinie | Jedes Feld auf Quellsystem, Kontenlogik, Messung, Personal- oder Produktdatensatz, Stichtag und Datenverantwortlichen zurückführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Plausibilisierung | Vorperiode, Summen, Einheiten, Währungen, Nullmeldung, Schätzung, Abweichung und Mehrfachmeldung kontrollieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+## 1.5 Quellen und Arbeitsprodukt
 
-## 6. Anker
-
-- Die jeweilige Spezialnorm bestimmt Meldeanlass, Adressat, Schwelle, Berichtszeitraum, Inhalt, Form und Sanktion; eine allgemeine Berichtspflicht darf nicht unterstellt werden.
-- BStatG und Fachstatistikgesetze: Auskunftspflicht, Hilfsmerkmale, Geheimhaltung und Übermittlungsweg für amtliche Statistiken.
-- AWV und Bundesbank-Meldevorschriften: grenzüberschreitende Zahlungen, Bestände, Schwellen und Berichtsperioden nur nach aktuellem Merkblatt prüfen.
-- AO und spezialgesetzliche Aufzeichnungsregeln: Aufbewahrung, Mitwirkung, Berichtigung und steuerliche Datenspur.
-- Datenschutz-Grundverordnung Art. 5 Abs. 2, Art. 24, Art. 30, Art. 32 für Rechenschaft, Rollen, TOM und Verarbeitungsverzeichnis, wenn personenbezogene Daten im Bericht stecken; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- VwVfG Paragrafen 24, 25, 26, 28, 31, 32, 37, 39 für Amtsermittlung, Beratung, Anhörung, Frist, Wiedereinsetzung und Bescheidlogik; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Datenschutz-Grundverordnung Art. 5, 6, 32; GeschGehG; BStatG Geheimhaltung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Ausgabestufe: Meldekalender, Feldmapping, ausgefüllte Meldung, Abweichungsvermerk, Behördenantwort oder Heilungsplan erstellen.
-7.2. Vorgabe: Die jeweilige Spezialnorm bestimmt Meldeanlass, Adressat, Schwelle; BStatG und Fachstatistikgesetze auf Datei, Fassung und Ausgabeziel beziehen.
-7.3. Dateifund: Für „Meldeinventar“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Jede Änderung bleibt auf Eingangsdatei, maßgebliche Fassung, Fundstelle, Freigabe und Übergabenachweis zurückführbar. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Schwelle, Einheit, Periode und Konsolidierungsgrenze gelten in der aktuellen Fassung.
-7.6. Erwiderung: Korrekturbeleg, Formatregel oder Freigabevorgabe nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Melderegister“. Frist, Kernlücke und nächster Freigabe- oder Ausgabestufe benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Melde- oder Korrekturfrist läuft in weniger als fünf Arbeitstagen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Prüfe rechtliche Aussagen zu Pflicht, Frist, Sanktion oder Aufbewahrung in der aktuellen amtlichen Spezialquelle; erzwinge keine Rechtsprechung für reine Datenzuordnung. Quellenstand und tatsächlich verwendete Formularfassung gehören in den Nachweis. Optionale weitere Skills oder Referenzen dürfen ergänzen; diese Anleitung funktioniert auch allein. Ohne Exportzugriff liefere vollständigen Text und Feldtabelle, keinen erfundenen Download. Verwende dezimale Gliederung und vollständige Sätze im Vermerk; Exportstandard ist Times New Roman 11 pt.

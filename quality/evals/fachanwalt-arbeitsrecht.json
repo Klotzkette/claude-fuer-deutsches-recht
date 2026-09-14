@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-arbeitsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-347-21/",
+      "checked_on": "2026-09-14",
+      "supports": "BAG, Urteil vom 23.02.2022, 5 AZR 347/21, Randnummer 28: grundsätzlich Gesamtberechnung; maßgeblicher Zeitraum durch Anträge und Einwendungen bestimmt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_10/__115.html",
+      "checked_on": "2026-09-14",
+      "supports": "Übergang nicht erfüllter Arbeitsentgeltansprüche bei hierdurch veranlassten Sozialleistungen; Anspruchsinhaberschaft neben Lohnrechnung prüfen."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-127-24/",
+      "checked_on": "2026-09-14",
+      "supports": "BAG, Urteil vom 12.02.2025, 5 AZR 127/24: einseitige Freistellung während laufender Kündigungsfrist begründet regelmäßig keine Obliegenheit, vorzeitig ein anderes Arbeitsverhältnis einzugehen; Zeit nach Fristablauf ausdrücklich nicht entschieden."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-387-19/",
+      "checked_on": "2026-09-14",
+      "supports": "BAG, Urteil vom 27.05.2020, 5 AZR 387/19: Auskunft über Vermittlungsvorschläge von Arbeitsagentur und Jobcenter; sekundäre Darlegungslast ersetzt nicht die Beweislast des Arbeitgebers."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__615.html",
+      "checked_on": "2026-09-14",
+      "supports": "Vergütung bei Annahmeverzug mit Anrechnung ersparter Aufwendungen und anderweitigen oder böswillig unterlassenen Erwerbs."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kschg/__11.html",
+      "checked_on": "2026-09-14",
+      "supports": "Anrechnung anderweitigen Erwerbs, böswillig unterlassenen Erwerbs und bestimmter öffentlich-rechtlicher Leistungen bei fortbestehendem Arbeitsverhältnis."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Schnellstart lenkte auch andere Mandate auf einen Kündigungsschutzantrag und enthielt einen nicht belastbar belegten neuen Entscheidungsverweis. Die wirtschaftliche Lohnrechnung blieb hinter der Fristenprüfung zurück.",
+    "changes": [
+      "Auftragsabhängige Ergebnisse statt automatischem Kündigungsschutzantrag.",
+      "Verifizierten Freistellungsanker 5 AZR 127/24 mit zeitlicher Reichweitengrenze aufgenommen.",
+      "Lohnzeiträume, tatsächlichen Erwerb und Brutto-Netto-Behandlung von Sozialleistungen getrennt."
+    ],
+    "sha256": "c69d1fb6700e9bd17a198dd1fcc21035df28faa42db254875d6c127516430569"
+  },
+  "selection": {
+    "positive": [
+      "Berechne den Annahmeverzugslohn nach unwirksamer Kündigung mit Zwischenverdienst und Arbeitslosengeld.",
+      "Ordne Arbeitgeberstellenanzeigen und Vermittlungsvorschläge den Monaten vor und nach Ablauf der Kündigungsfrist zu."
+    ],
+    "negative": [
+      "Bewerte ausschließlich die Leistungsformeln meines Arbeitszeugnisses.",
+      "Erstelle einen Sozialplan für eine geplante Betriebsstilllegung ohne individuelle Lohnforderungen."
+    ],
+    "target_skill": "annahmeverzugslohn-zeitraeume-und-anrechnung"
+  },
+  "cases": [
+    {
+      "id": "freistellung-fristende-zwischenverdienst",
+      "request": "Für unsere Arbeitnehmermandantin soll eine noch nicht zu versendende Lohnforderung in ergebnis.md entstehen. Festgehalt 6.000 Euro brutto monatlich, keine variablen Bezüge, keine Ausschlussfrist, keine Krankheit oder Urlaubsanrechnung. Der Arbeitgeber kündigte am 20.03.2026 zum 30.06.2026 und stellte sie ab April einseitig unwiderruflich frei. April und Mai sind vollständig bezahlt, Juni bis August nicht. Die Kündigung wurde inzwischen rechtskräftig für unwirksam erklärt. Die Arbeitnehmerin war jederzeit leistungsfähig und arbeitswillig, bot ihre Arbeit nach Fristablauf nachweisbar weiter an; der Arbeitgeber lehnte sie ab. Im Mai schickte er drei allgemeine Stellenanzeigen ohne Einstellungszusage. Die Arbeitnehmerin begann im Juli eine Zwischenbeschäftigung mit 2.000 Euro brutto und verdiente dort im August 4.000 Euro brutto. Für Juli zahlte die Arbeitsagentur daneben 1.000 Euro netto, für August 500 Euro netto; die Bescheide und Eingänge stimmen überein, Rückzahlungen erfolgten nicht. Arbeitsagentur und Jobcenter übersandten in diesem Zeitraum keine Vermittlungsvorschläge. Weitere Erwerbsmöglichkeiten oder Ersparnisse sind nicht vorgetragen. Der Arbeitgeber verlangt für Juni zusätzlich einen fiktiven Abzug von 6.000 Euro wegen der Anzeigen. Bitte erstelle eine nachvollziehbare Periodenrechnung und einen Forderungsentwurf mit getrennter Behandlung der Sozialleistungen und der noch zu klärenden Anspruchsinhaberschaft.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Rechnung erfasst nur Juni bis August als unbezahlt und setzt vor Anrechnung insgesamt 18.000 Euro brutto an.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Sie berücksichtigt 6.000 Euro tatsächlichen Bruttozwischenverdienst und weist vor Behandlung der Sozialleistungen 12.000 Euro brutto aus; 1.500 Euro Nettoleistungen werden nicht als identischer Bruttobetrag abgezogen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Sie verwirft den automatischen fiktiven Juniabzug aufgrund bloßer Anzeigen mit Bezug auf die einseitige Freistellung innerhalb der Kündigungsfrist, ohne diese Wertung pauschal auf Juli und August zu übertragen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Sie prüft den Forderungsübergang beziehungsweise die Leistungsanrechnung gesondert und vermeidet eine doppelte Befriedigung für dieselben Sozialleistungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Sie erfindet keine Vermittlungsvorschläge oder konkreten Erwerbsangebote und behandelt den Auskunftsanspruch nicht als Umkehr der Beweislast für böswilliges Unterlassen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "annahmeverzugslohn-zeitraeume-und-anrechnung"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "plugin": "verbraucherinsolvenz-schuldenbereinigung",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {"url": "https://www.gesetze-im-internet.de/inso/__304.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: frühere Selbstständigkeit, weniger als 20 Gläubiger bei Antragstellung und keine Forderungen aus Arbeitsverhältnissen."},
+    {"url": "https://www.gesetze-im-internet.de/inso/BJNR286600994.html", "checked_on": "2026-09-14", "supports": "Amtlicher Suchauszug zu Paragraf 305 Absatz 1 Nummer 1: geeignete Person oder Stelle, persönliche Beratung und erfolgloser Planversuch innerhalb der letzten sechs Monate vor Eröffnungsantrag."}
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der alte Mini war fachlich auf Unternehmensinsolvenz, Geschäftsleitung und Anfechtung fehlgeleitet. Werkstatt und Kaltstart-Skill enthalten die passende natürliche Person, Gläubigerbereinigung und Existenzsicherung.",
+    "changes": ["Unternehmens-Fortbestehensprognose durch Verfahrenszugang ersetzt", "Gläubiger statt Rechnungen und Inkassobeauftragten zählen", "Haushaltsüberschuss und Pfändbarkeit getrennt", "Einigungsversuch und fremde Bescheinigungsbefugnis konkretisiert"],
+    "sha256": "5c3531ec76329d67f0445bbd4a2a2480ac89c9fb734d81dac0bade78fc673e7f"
+  },
+  "selection": {
+    "positive": ["Prüfe als ehemals Selbstständiger meinen Zugang zur Verbraucherinsolvenz und bereinige die Gläubigerliste.", "Entwickle aus meinem Haushaltsbudget einen nachvollziehbaren außergerichtlichen Schuldenbereinigungsplan."],
+    "negative": ["Prüfe die Insolvenzantragspflicht der Geschäftsführung einer GmbH.", "Wehre eine Insolvenzanfechtung gegen einen gewerblichen Lieferanten ab."]
+  },
+  "cases": [{
+    "id": "neunzehn-glaeubiger-inkassodublette",
+    "request": "Erstelle ergebnis.md als Beratungsvermerk mit bereinigtem Schuldenbild und nächsten Schritten. Ich habe meine selbstständige Tätigkeit 2024 vollständig aufgegeben und bin nun Arbeitnehmer. Meine Liste enthält 20 Einträge: 18 verschiedene Gläubiger mit zusammen 28.000 Euro sowie die Bank Nord mit 2.000 Euro und ein Inkassobüro mit nochmals denselben 2.000 Euro. Das Büro bestätigt ausdrücklich, nur im Auftrag dieser Bank dieselbe Forderung einzuziehen; keine Abtretung. Weitere Gläubiger und Forderungen aus Arbeitsverhältnissen bestehen nach vollständiger Aktenprüfung nicht. Die fälligen 30.000 Euro kann ich nicht bezahlen. Nach unserem Haushaltsplan bleiben monatlich 150 Euro; eine Pfändbarkeitsberechnung liegt noch nicht vor. Es gab bislang weder Beratung bei einer geeigneten Stelle noch einen Einigungsversuch. Bitte bewerte den Verfahrenszugang und bereite die nächsten Schritte vor, ohne Bescheinigung oder Antrag als erledigt darzustellen.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id": "C01", "text": "Die Liste wird auf 19 Gläubiger und insgesamt 30.000 Euro bereinigt; der Inkassobeauftragte wird nicht als weiterer Gläubiger oder zusätzliche Schuld gezählt.", "deliverables": ["ergebnis.md"]},
+      {"id": "C02", "text": "Das Ergebnis prüft den Verbraucherweg anhand früherer Selbstständigkeit, weniger als 20 Gläubigern bei Antragstellung und fehlenden Forderungen aus Arbeitsverhältnissen statt Geschäftsleiterpflichten.", "deliverables": ["ergebnis.md"]},
+      {"id": "C03", "text": "Es stellt 150 Euro Haushaltsüberschuss nicht ohne Prüfung mit pfändbarem Einkommen gleich und benennt persönliche Beratung, Planversuch und qualifizierte Bescheinigung als noch offen.", "deliverables": ["ergebnis.md"]}
+    ],
+    "target_skill": "kaltstart-schuldenbild-glaeubiger-sofortschutz"
+  }]
+}

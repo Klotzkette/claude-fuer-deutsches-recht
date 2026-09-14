@@ -148,6 +148,10 @@ class AktenResult:
 
     @property
     def all_passed(self) -> bool:
+        return bool(self.checks) and all(c.passed is True for c in self.checks)
+
+    @property
+    def structural_passed(self) -> bool:
         decided = [c for c in self.checks if c.passed is not None]
         return bool(decided) and all(c.passed for c in decided)
 
@@ -384,7 +388,8 @@ def render_report(results: list[AktenResult]) -> str:
     lines.append(f"- Testakten gesamt: **{total}**")
     lines.append(f"- mit Rubric: **{len(with_rubric)}**")
     lines.append(f"- Rubric fehlt unzulässig: **{len(missing)}**")
-    lines.append(f"- All-Pass (alle Checks bestanden, ohne human_review): **{len(all_pass)}**")
+    lines.append(f"- Vollständig geprüft und bestanden: {len(all_pass)}")
+    lines.append("- Ausgelassene menschliche Prüfungen bleiben ungeprüft; dieser Bestandscheck bewertet keine Modellleistung.")
     lines.append("")
     lines.append("## Detail pro Akte (nur Akten mit Rubric)")
     lines.append("")
@@ -392,7 +397,7 @@ def render_report(results: list[AktenResult]) -> str:
     lines.append("| --- | --- | --- | --- | --- |")
     for r in with_rubric:
         s = r.stats
-        status = "PASS" if r.all_passed else "FAIL"
+        status = "PASS" if r.all_passed else ("UNGEPRÜFT" if r.structural_passed else "FAIL")
         lines.append(f"| `{r.slug}` | {status} | {s['passed']} | {s['failed']} | {s['skipped']} |")
     lines.append("")
     failures = [(r, c) for r in with_rubric for c in r.checks if c.passed is False]
@@ -418,6 +423,8 @@ def main() -> int:
     ap.add_argument("--json-out", help="Schreibt JSON-Snapshot fuer compare-eval-runs.py")
     ap.add_argument("--label", default="run", help="Label fuer den JSON-Snapshot (z. B. Modellname)")
     ap.add_argument("--quiet", action="store_true", help="Nur Zusammenfassung und Fehler ausgeben")
+    ap.add_argument("--structural-only", action="store_true",
+                    help="Nur technische Bestandsfehler steuern den Exit-Code; offene Fachprüfungen bleiben sichtbar ungeprüft")
     args = ap.parse_args()
 
     if args.slugs:
@@ -430,23 +437,25 @@ def main() -> int:
     # Konsolen-Output
     rubric_count = sum(1 for r in results if r.has_rubric)
     pass_count = sum(1 for r in results if r.has_rubric and r.all_passed)
-    fail_count = sum(1 for r in results if r.has_rubric and not r.all_passed)
+    fail_count = sum(1 for r in results if r.has_rubric and not r.structural_passed)
+    pending_count = sum(1 for r in results if r.has_rubric and r.structural_passed and not r.all_passed)
     missing = [
         r.slug
         for r in results
         if not r.has_rubric and r.slug not in RUBRIC_EXEMPT_SLUGS
     ]
     print(f"Testakten: {len(results)} | mit Rubric: {rubric_count} | "
-          f"All-Pass: {pass_count} | Fail: {fail_count} | Rubric fehlt: {len(missing)}")
+          f"Vollständig bestanden: {pass_count} | Technische Fehler: {fail_count} | "
+          f"Fachprüfung offen: {pending_count} | Rubric fehlt: {len(missing)}")
     for slug in missing:
         print(f"  [FAIL] {slug} (rubric.yaml fehlt)")
     for r in results:
         if not r.has_rubric:
             continue
-        if args.quiet and r.all_passed:
+        if args.quiet and r.structural_passed:
             continue
         st = r.stats
-        marker = "PASS" if r.all_passed else "FAIL"
+        marker = "PASS" if r.all_passed else ("UNGEPRÜFT" if r.structural_passed else "FAIL")
         print(f"  [{marker}] {r.slug}  ({st['passed']}/{st['passed']+st['failed']} pass, "
               f"{st['skipped']} skip)")
 
@@ -457,6 +466,7 @@ def main() -> int:
 
     if args.json_out:
         snapshot = {
+            "evaluation_kind": "case_file_structure",
             "label": args.label,
             "timestamp": datetime.now(timezone.utc).isoformat(timespec="seconds"),
             "results": [
@@ -464,6 +474,8 @@ def main() -> int:
                     "slug": r.slug,
                     "has_rubric": r.has_rubric,
                     "all_passed": r.all_passed,
+                    "structural_passed": r.structural_passed,
+                    "review_status": "complete" if r.all_passed else ("unreviewed" if r.structural_passed else "failed"),
                     "stats": r.stats,
                     "checks": [
                         {
@@ -481,7 +493,9 @@ def main() -> int:
         Path(args.json_out).write_text(json.dumps(snapshot, indent=2), encoding="utf-8")
         print(f"JSON-Snapshot: {args.json_out}")
 
-    return 0 if fail_count == 0 and not missing else 1
+    if fail_count or missing:
+        return 1
+    return 2 if pending_count and not args.structural_only else 0
 
 
 if __name__ == "__main__":

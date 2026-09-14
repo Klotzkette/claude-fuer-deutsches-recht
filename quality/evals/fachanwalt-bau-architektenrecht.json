@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-bau-architektenrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR__33-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 30.01.2020, VII ZR 33/19, Randnummern 38 bis 51: kein zusätzlicher Kostennachteil als Anspruchsgrundvoraussetzung; Entschädigung für unproduktiv vorgehaltene Produktionsmittel anhand der vereinbarten Vergütung, nicht für spätere Lohn- und Materialpreissteigerungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__642.html",
+      "checked_on": "2026-09-14",
+      "supports": "Unterlassene erforderliche Mitwirkung und Annahmeverzug; Bemessung anhand Dauer, Vergütung, Ersparnissen und möglichem anderweitigem Einsatz."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Schnellstart beschrieb die Mängelbeweislast ohne ausreichende Abnahmeabhängigkeit und ließ die Abgrenzung zwischen konkreter Vorhaltung und bloß verlängerter Gesamtbauzeit offen.",
+    "changes": [
+      "Beweislast abhängig von Anspruch und Abnahmestand formuliert.",
+      "Ressourcen, Störtage, Ersparnisse und anderweitigen Einsatz als eigene Prüfdaten aufgenommen.",
+      "Spätere Folgekosten und Doppelzählungen gegenüber der Entschädigung abgegrenzt."
+    ],
+    "sha256": "8d7b64c44f0b30fcd70144db576de4f50ce88181c53b297d1d4a1d9aa5d8f301"
+  },
+  "selection": {
+    "positive": [
+      "Arbeite aus Bautagebuch und Kalkulation die Entschädigung für fehlende Ausführungspläne und unproduktive Kolonnen heraus.",
+      "Trenne Vorhaltung während Annahmeverzugs von späteren Materialpreissteigerungen in unserer Bauzeitforderung."
+    ],
+    "negative": [
+      "Prüfe allein die Mängelrechte wegen undichter Fenster nach Abnahme.",
+      "Ermittle das Architektenhonorar für zusätzliche Leistungsphasen ohne Bauablaufstörung."
+    ],
+    "target_skill": "bauzeitentschaedigung-vorhaltung-und-folgezeiten"
+  },
+  "cases": [
+    {
+      "id": "fehlende-plaene-kolonne-kran-folgepreise",
+      "request": "Wir vertreten einen Rohbauunternehmer aus einem BGB-Bauvertrag ohne VOB/B. Der Auftraggeber musste am 01.06.2026 freigegebene Schalpläne bereitstellen; sie kamen erst am 15.06.2026. Die dazwischenliegenden zehn vertraglichen Arbeitstage sind unstreitig. Der Unternehmer bot die vorgesehene Leistung am 01.06. nachweisbar an, war leistungsfähig und hatte weder eine parallele Eigenstörung noch zumutbare andere Arbeiten auf dieser Baustelle. Vier Beschäftigte und ein eigens angemieteter Kran waren für alle zehn Tage eingeplant. An vier dieser Tage arbeiteten alle vier Beschäftigten auf einer anderen Baustelle und erwirtschafteten dort die hierfür angesetzte volle Vergütung; an den übrigen sechs Tagen waren sie nach Tagesberichten unproduktiv verfügbar. Der Kran konnte an keinem der zehn Tage anderweitig eingesetzt oder kurzfristig abbestellt werden. Die nachvollziehbar aus der vereinbarten Vergütung abgeleiteten Anteile betragen je Beschäftigtem und Arbeitstag 240 Euro sowie für den Kran 300 Euro pro Tag; allgemeine Geschäftskosten, Wagnis und Gewinn sind darin schon enthalten. Weitere Ersparnisse oder Einsatzmöglichkeiten gab es nicht. Zusätzlich fordert der Unternehmer 5.000 Euro Materialpreissteigerung für erst im Juli beschafften Beton sowie nochmals zehn Prozent Geschäftskosten auf alle Positionen. Ein Verschulden des Auftraggebers ist bislang nicht belegt, eine vergütungsändernde Anordnung gab es nicht. Erstelle ergebnis.md mit ereignisbezogener Ressourcenrechnung, rechtlicher Abgrenzung und einer intern verwendbaren Anspruchsbegründung. Kennzeichne, welche Beträge nur auf anderer Anspruchsgrundlage weiterverfolgt werden könnten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Ressourcenrechnung erfasst 24 unproduktive Beschäftigtentage mit 5.760 Euro und zehn Krantage mit 3.000 Euro; 8.760 Euro werden als nachvollziehbarer vorläufiger Bemessungsansatz statt als automatisch feststehender Schaden behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Sie schließt die vier produktiv anderweitig eingesetzten Tage aller Beschäftigten aus der entsprechenden Vorhaltung aus und addiert keine bereits enthaltenen zehn Prozent Geschäftskosten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Sie erfasst die erst im Juli entstandene Materialpreissteigerung nicht als Entschädigung nach Paragraf 642 BGB und benennt die fehlenden Voraussetzungen einer gegebenenfalls anderen Anspruchsgrundlage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Sie prüft geschuldete Mitwirkung, Fälligkeit, Leistungsangebot und Leistungsfähigkeit anhand der konkreten Angaben, ohne Verschulden oder einen gesonderten Kostennachteil zur zusätzlichen Voraussetzung des Entschädigungsgrundes zu machen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Die Begründung knüpft an den zehntägigen Annahmeverzug und die einzelnen Ressourcen an, nicht an eine unbelegte gesamte Projektverlängerung oder an eine pauschale VOB/B-Regel.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "bauzeitentschaedigung-vorhaltung-und-folgezeiten"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 78 Skills des Plugins `fachanwalt-transport-speditionsrecht`.
+Diese Vollprüfung enthält top-10 von 79 Skills des Plugins `fachanwalt-transport-speditionsrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -14,8 +14,8 @@ Diese Vollprüfung enthält top-10 von 78 Skills des Plugins `fachanwalt-transpo
 6. **fachanwalt-transport-speditionsrecht-orientierung** — Für Fachanwalt für Transport- und Speditionsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: P…
 7. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
 8. **erstpruefung-und-mandatsziel** — Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: T…
-9. **kanzlei-red-team-und-qualitaetskontrolle** — Für Kanzlei: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit B…
-10. **schriftsatzkern-substantiierung** — Für Schriftsatzkern Substantiierung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründu…
+9. **teilverlust-packstueckabgleich-haftungsdurchbrechung** — Rekonstruiert verdeckte Teilverluste aus Packlisten, Wiegedaten, Umschlagscans und Ablieferbelegen und prüft Haftungsgre…
+10. **kanzlei-red-team-und-qualitaetskontrolle** — Für Kanzlei: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit B…
 
 ---
 
@@ -766,6 +766,60 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `teilverlust-packstueckabgleich-haftungsdurchbrechung`
+
+_Rekonstruiert verdeckte Teilverluste aus Packlisten, Wiegedaten, Umschlagscans und Ablieferbelegen und prüft Haftungsgrenze sowie qualifiziertes Verschulden. Für wertvolle Stückgutsendungen nach HGB, nicht für reinen Lieferverzug oder abstrakte Exportkontrolle._
+
+# 1. Teilverlust, Packstückabgleich und Haftung
+
+## 1.1. Zweck und Anwendungsfall
+
+Bearbeite einen wertvollen Teilverlust trotz quittierter Ablieferung anhand einer Packstück- und Ereigniskette. Die Differenz zwischen Warenwert und Gewichtsgrenze sowie der Beweisaufwand rechtfertigen den Schwerpunkt. Anders als allgemeine Haftungsmodule stellt dieser Arbeitsgang Packinhalt, Verpackungsmanipulation und Informationslücken des Frachtführers transaktionsnah gegenüber.
+
+## 1.2. Eingaben
+
+Lies Frachtauftrag, Transportstrecke und Verkehrsträger, Frachtbrief, Packliste, Packprotokoll, Wiegedaten, Scans, Fotos, Empfängerprotokoll, Warenrechnung und Reklamation. Erfasse Auftraggeber, Frachtführer, Unterfrachtführer, Empfänger und gegebenenfalls Versicherer mit Anspruchsübergang. Kläre fehlendes Mindestmaterial einmal gebündelt und liefere den gesicherten Teil.
+
+## 1.3. Ablauf und Checkliste
+
+### 1.3.1. Regime und Beweiskette
+
+Prüfe zuerst, ob ein rein innerdeutscher Straßentransport nach HGB vorliegt. Bei grenzüberschreitender oder multimodaler Beförderung keine HGB-Fristen und Gewichtsformeln ungeprüft verwenden; stattdessen Regime und Übergang ausdrücklich bestimmen. ADSp nur nach belegter Einbeziehung, Fassung und Wirksamkeitsprüfung.
+
+Ordne jeder Packstückkennung Sollinhalt, bestätigten Ausgangsinhalt, Gewicht samt Verpackung, Siegel, Übergabe, Umschlag, Zustellung und Istinhalt zu. Trenne physischen Scan, vorangekündigten Systemstatus und manuellen Nachtrag. Eine quittierte Kiste beweist nicht notwendig ihren unversehrten Inhalt. Zeige Zeitfenster des möglichen Verlusts; prüfe zugleich Alternativen vor Übernahme und nach Ablieferung. Zeugen und Fotos mit Zeitpunkt und konkreter Wahrnehmung benennen.
+
+### 1.3.2. Haftung und qualifiziertes Verschulden
+
+Prüfe Obhutsverlust nach Paragraf 425 HGB, Zurechnung nach Paragraf 428 und konkrete Entlastungstatsachen. Für Paragraf 435 HGB reichen ein fehlender Scan oder hoher Schaden allein nicht: Leichtfertigkeit und Bewusstsein wahrscheinlichen Schadenseintritts gesondert begründen. Trage greifbare Anhaltspunkte für Manipulation, Kontrollausfall oder ungeklärte Übergabe zusammen.
+
+Leite eine sekundäre Darlegungslast nicht pauschal aus jedem Verlust ab. Formuliere bei tragfähigen Anhaltspunkten konkrete Fragen nach Schnittstellenkontrolle, Nachforschung und Schadensverlauf. Das ersetzt nicht die ursprüngliche Darlegungs- und Beweislast des Anspruchstellers. Wertmitteilung, Zeitpunkt möglicher Sicherungsmaßnahmen und Mitverursachung prüfen; keine automatische Halbierung.
+
+### 1.3.3. Betrag und Fristen
+
+Ermittle Wert am Ort und zur Zeit der Übernahme, Menge, Restwert und Nebenkosten getrennt. Rechne im HGB-Regelfall die Grenze mit 8,33 Sonderziehungsrechten je Kilogramm des nach Paragraf 431 maßgeblichen Rohgewichts; bei Teilentwertung betroffener Gesamtstücke Gewicht und Wertverlust gesondert prüfen. Kurs, Stichtag und Quelle ausweisen. Vergleiche gedeckelte Haftung und belegbare unbeschränkte Variante ohne erfundene Erfolgsquote.
+
+Nach Paragraf 438 HGB unterscheiden: äußerlich erkennbarer Schaden bei Ablieferung, verdeckter Schaden innerhalb von sieben Tagen und Lieferfristüberschreitung innerhalb von 21 Tagen. Fehlende Verlustanzeige begründet eine Vermutung, nicht den automatischen Anspruchsuntergang des Verlustanspruchs. Verjährung nach Paragraf 439 mit Beginn, Anspruchserhebung, Ablehnung und deren Zugang separat erfassen; Wiederholung desselben Anspruchs hemmt nicht erneut. Für jedes Regressglied eine eigene Zeile führen.
+
+Keine Haftbarhaltung versenden, keinen Vergleich schließen und keine Verjährungsverzichtserklärung abgeben. Nach einem Gewichts-, Summen- und Fristencheck Beweisplan und Entwurf liefern.
+
+## 1.4. Quellenpflicht
+
+Optional zur Vertiefung: [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-transport-speditionsrecht/references/zitierweise.md). Auch ohne Referenzzugriff gilt: Tragende Aussagen mit aktueller Norm und amtlicher Entscheidung samt Gericht, Form, Datum, Aktenzeichen und überprüfter Passage belegen; Literatur nur bei tatsächlich zugänglicher Quelle. Amtliche Normen: [Paragraf 431 HGB](https://www.gesetze-im-internet.de/hgb/__431.html), [Paragraf 435](https://www.gesetze-im-internet.de/hgb/__435.html), [Paragraf 438](https://www.gesetze-im-internet.de/hgb/__438.html), [Paragraf 439](https://www.gesetze-im-internet.de/hgb/__439.html).
+
+BGH, Urteil vom 13.06.2012, Az. I ZR 87/11, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1), Leitsätze: sekundäre Darlegung bei geöffneter und wieder verschlossener Verpackung; rechtzeitiger Hinweis auf hohen Warenwert. Der Fall betrifft CMR, nicht unmittelbar HGB; die allgemeine Beweislogik nur nach ausdrücklichem Übertragbarkeitscheck verwenden. Quellenprüfung: 14.09.2026.
+
+## 1.5. Ausgabeformat
+
+Liefere `ergebnis.md` mit Sachverhalt, Packstück- und Ereignismatrix, bezifferter Alternativrechnung, Fristenblatt und ausformulierter Anspruchsbegründung oder Erwiderung als Entwurf. Vollständige Sätze statt Stichwortskelette. Dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
+
+## 1.6. Beispiele
+
+Geeignet: Ein wieder verklebter Karton enthält nach innerdeutschem Transport nur sechs statt zehn Geräte; vergleichen Sie Packbeweise, Gewichtshaftung und Organisationsmängel.
+
+Nicht geeignet: Prüfen Sie ausschließlich eine Exportgenehmigung für eine vollständig angelieferte Maschine.
+
+---
+
 ## Skill: `kanzlei-red-team-und-qualitaetskontrolle`
 
 _Für Kanzlei: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Fachanwalt Transport Speditionsrecht._
@@ -816,219 +870,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `schriftsatzkern-substantiierung`
-
-_Für Schriftsatzkern Substantiierung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Fachanwalt Transport Speditionsrecht._
-
-# Schriftsatzkern im Transport- und Speditionsrecht substantiieren: Tatsachenvortrag, Normzitate
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: §§ 407 ff. Frachtvertrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Schriftsatzkern im Transport- und Speditionsrecht substantiieren: Tatsachenvortrag, Normzitate. Normen: §§ 253 138 ZPO, §§ 407 ff. HGB, CMR. Prüfraster: schluessige Tatsachendarstellung, Beweisangebot, Normzitate. Output: Schriftsatzkern Transport-Speditionsrecht. Abgrenzung: nicht vollständiger Schriftsatz.
-
-### Schriftsatzkern und Substantiierung im Transport-, Speditions- und Logistikrecht
-
-## Wann dieser Arbeitsgang greift
-
-- Es soll ein vollwertiger Schriftsatz im Bereich Transport-, Speditions- und Logistikrecht erstellt werden, typischerweise: Frachtklage, Klage CMR-Schaden, Klage HGB-Spediteur-Haftung.
-- Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.
-- Klage-, Widerspruchs-, Einspruchs-, Rechtsmittel-Frist ist bekannt und im Kalender eingetragen.
-
-## Aufbauschema
-
-### A. Rubrum
-
-- Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
-- Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behörde (Zuständigkeit prüfen und im Schriftsatz darstellen, wenn streitig).
-- Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
-- Streitwert/Gegenstandswert.
-
-### B. Antraege
-
-Klassischer Antrag-Block; je nach Verfahrenstyp:
-
-- Leistungsantrag (zu zahlen, zu unterlassen, zu beseitigen, herauszugeben).
-- Feststellungsantrag (Feststellungsinteresse darlegen).
-- Gestaltungsantrag (Aufhebung, Anfechtung, Scheidung).
-- Hilfsantraege staffeln (von eng nach weit oder von hoch nach niedrig).
-
-### C. Tatsachenvortrag
-
-Der Substantiierungs-Kern; pro Anspruchsgrundlage in §§ 407 ff. HGB, CMR, MC, ADSp, RVS-Konvention eine eigene Tatsachen-Sequenz:
-
-1. **Sachverhalts-Chronologie** mit konkreten Daten (Tag, Uhrzeit, Ort, Personen).
-2. **Mandantenseitige Tatsachenbehauptungen** mit Beweisangeboten.
-3. **Gegnerisches Verhalten** mit Belegen (Schreiben, Aussage, Verhalten).
-4. **Schaden/Folgen** bezifferbar (Hauptforderung, Nebenforderung, Zinsen, Folgekosten).
-
-### D. Rechtliche Wuerdigung
-
-Anspruchsaufbau klassisch:
-
-1. **Anspruchsgrundlage** nennen (z.B. § X iVm § Y).
-2. **Tatbestandsmerkmale** durchgehen; jedes Merkmal wird gegen den Tatsachenvortrag gespiegelt.
-3. **Einwendungen** der Gegenseite vorwegnehmen und entkraeften.
-4. **Rechtsprechungs-Verweise:** BAG/BGH/BVerfG/EuGH/BFH je nach Fachgebiet; bei Transport-, Speditions- und Logistikrecht typischerweise die letzte hoechstrichterliche Linie zitieren.
-5. **Subsumtion-Ergebnis** klar formulieren.
-
-### E. Beweisangebote
-
-Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
-
-- Urkundenbeweis: konkrete Anlage Kxx benennen, Inhalt nicht nur "Vertrag" sondern "Vertrag vom TT.MM.JJJJ, dort § X Abs. Y, Anlage K1".
-- Zeugenbeweis: Name, ladungsfaehige Anschrift, Beweisthema in einem Satz.
-- Sachverstaendigenbeweis: ggf. Privatgutachten mit anfuegen, gerichtliches Gutachten beantragen.
-- Parteivernehmung als letzte Stufe, mit Antrag § 448 ZPO und Indiziengeruest.
-- Inaugenscheinnahme: bei Sache vor Ort (Mietraum, Baustelle, Fahrzeug, Hardware).
-
-### F. Anlagenverzeichnis
-
-- K1, K2 ... durchnummeriert (Antragstellerin/Klägerin).
-- Bei Beklagten B1, B2 ...
-- Jede Anlage mit Datum, Absender, Empfaenger, Inhaltsbeschreibung in einem Satz.
-- Pflicht-Erwaehnung im Tatsachenvortrag.
-
-## Substantiierungs-Fallen im Transport-, Speditions- und Logistikrecht
-
-- **Pauschaltatsachen** ohne konkrete Daten ("seit Jahren", "regelmaessig", "in mehreren Faellen") werden vom Gericht uebergangen.
-- **Beweisangebot zur falschen Tatsache:** Beweisthema deckt nur Teilaussage ab.
-- **Selbst-widersprueche** zwischen Schriftsatz und Anlage ("Im Vertrag steht doch was anderes").
-- **Verspaeteter Vortrag** § 296 ZPO/§ 87b VwGO: Rueglich-Fristen beachten, Verschulden vermeiden.
-- **Anspruchskonkurrenz** zwischen mehreren Grundlagen: nicht eine wegfallen lassen.
-
-## Prüfkette vor Versand
-
-1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
-2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
-3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zuständigkeit positiv festgestellt?
-5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
-6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
-7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
-8. Vier-Augen-Prüfung durch Sozius oder Senior-Anwaeltin?
-
-## Rechtsprechungs-Werkzeugkasten
-
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Transport-, Speditions- und Logistikrecht.
-- §§ 407 ff. HGB, CMR, MC, ADSp, RVS-Konvention sowie Verordnungen/Richtlinien dazu.
-- Aktuelle Reform- und Gesetzgebungslage einbeziehen.
-
-## Pflicht-Output
-
-1. **Schriftsatz** mit Rubrum, Antraegen, Tatsachenvortrag, Rechtsausfuehrung, Beweisangeboten, Anlagenverzeichnis.
-2. **Anlagen-Konvolut** numerisch geordnet, jede Anlage einzeln benannt.
-3. **Frist-Doku** mit Eingangsbestaetigung (beA-Eingangsnachricht, EB).
-4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
-5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
-
-## Beispiel-Anspruchsgrundlagen im Transport-, Speditions- und Logistikrecht
-
-Drei haeufig gebrauchte Anspruchsgrundlagen aus §§ 407 ff. HGB, CMR, MC, ADSp, RVS-Konvention und ihre Substantiierungs-Anforderungen:
-
-### Grundlage 1
-
-- Tatbestandsmerkmal 1: konkrete Tatsache + Beweis.
-- Tatbestandsmerkmal 2: konkrete Tatsache + Beweis.
-- Tatbestandsmerkmal 3: konkrete Tatsache + Beweis.
-- Rechtsfolge: konkreter Antrag.
-
-### Grundlage 2
-
-Analog - jede Tatsache braucht ein Beweisangebot.
-
-### Grundlage 3 (Auffanggrundlage / Sekundaeranspruch)
-
-Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
-
-## Antrags-Muster nach Verfahrenstyp
-
-Typische Antraege in Transport-, Speditions- und Logistikrecht (Frachtklage, Klage CMR-Schaden, Klage HGB-Spediteur-Haftung):
-
-- Hauptantrag (Leistung/Feststellung/Gestaltung).
-- Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
-- Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
-- Streitwert-Antrag (falls Streitwert streitig).
-
-## Beweisaufnahme - was das Gericht sehen will
-
-### Urkundenbeweis
-
-- Anlage K1: Bezeichnung, Datum, kurze Inhaltsbeschreibung.
-- Im Tatsachenvortrag: "Diese Behauptung beruht auf dem als Anlage K1 vorgelegten Schreiben der Beklagten vom TT.MM.JJJJ, dort Seite Y, Absatz Z."
-
-### Zeugenbeweis
-
-- Form: "Beweis: Aussage der Zeugin Name, ladungsfaehige Anschrift, zum Beweisthema (konkret in einem Satz)."
-- Mehrere Zeuginnen zum gleichen Thema: Indiziengeruest staerken.
-- Keine Beweisermittlung über Zeugnis - das Beweisthema muss konkret sein.
-
-### Sachverstaendigenbeweis
-
-- Bei Transport-, Speditions- und Logistikrecht-typischen Streitfaellen oft notwendig (Bauwerk, IT-System, Anlagebewertung, medizinische Frage).
-- Privatgutachten als Anlage K vorlegen + zugleich gerichtliches Gutachten beantragen.
-- Verfahrensoekonomie: Sachverstaendigen-Kosten frueh mit Mandantin besprechen.
-
-### Parteivernehmung (§ 448 ZPO)
-
-- Letzte Stufe, nur wenn andere Beweismittel ausgeschoepft.
-- Indiziengeruest vortragen, das eine gewisse Wahrscheinlichkeit der Behauptung tragt.
-
-## Replik-/Duplik-Vorausschau
-
-Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
-
-- Verjährung -> Hemmungstatbestand vortragen.
-- Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
-- Formmangel -> Heilung/Schutz-Argument bereit halten.
-- Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
-
-## Elektronische Einreichung (beA, EGVP, EBO, ELSTER)
-
-- PDF/A-2 oder PDF/A-3, mit eingebetteten Schriften.
-- Strukturdatensatz nach ERVV pflicht-konform (Sender, Empfaenger, Az., Versanddatum).
-- Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand über beA (sicherer Uebermittlungsweg).
-- Eingangsbestaetigung aufbewahren - Datum der Einreichung ist Fristwahrungs-Beweis.
-- 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Änderungen im Vollstreckungsbereich; in Transport-, Speditions- und Logistikrecht ggf. spezifische ERV-Pflichten beachten.
-
-## Schriftsatz-Stil
-
-- Aktiv, kurze Saetze, klare Subsumtion.
-- Keine Floskeln ("Die Klage ist zulässig und begruendet" als Ueberschrift, aber dann substantiieren).
-- Mandanten- und Beweismittel-Zitate woertlich, in Anfuehrungszeichen, mit Anlage-Verweis.
-- Keine Gefuehlsausbrueche - sachlich auch bei provokanter Gegenseite.
-
-## Vier-Augen-Check
-
-Vor Versand:
-
-- [ ] Antrag tenorierungsfaehig
-- [ ] Frist gewahrt mit Reserve
-- [ ] Jede Tatsache hat Beweis
-- [ ] Anlagen vollstaendig und nummeriert
-- [ ] Rechtsprechungs-Zitat aktuell
-- [ ] Streitwert plausibel
-- [ ] beA/EGVP-konform
-- [ ] Senior-/Sozius-Freigabe
-
-## Cross-Refs
-
-- `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
-- `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
-
-## Aktuelle Rechtsprechung Schriftsatz Transportrecht
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

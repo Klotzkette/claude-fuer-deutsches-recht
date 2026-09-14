@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "plugin": "verbraucher-rechtsstaat-alltag",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {"url": "https://www.gesetze-im-internet.de/zpo/__692.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: keine inhaltliche Anspruchsprüfung im Mahnbescheid und Aufforderung zur Reaktion binnen zwei Wochen seit Zustellung."},
+    {"url": "https://www.gesetze-im-internet.de/zpo/__694.html", "checked_on": "2026-09-14", "supports": "Amtlicher Suchabruf: schriftlicher Widerspruch beim erlassenden Gericht bis zur Verfügung des Vollstreckungsbescheids."}
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Mini leitete Laien trotz Gerichtspost zu AGB und Verbandsabmahnung. Die Werkstatt enthält dagegen lebensnahe Dokumentrouten; der gelesene Mahnbescheid-Skill verkürzte die Zweiwochenlage zu stark.",
+    "changes": ["Dokumentart und Zustellung als erste Weiche eingeführt", "Mahnung, Mahnbescheid und Vollstreckungsbescheid getrennt", "Widerspruchsempfänger und Bedeutung der Zweiwochenaufforderung erklärt", "Individuelle verständliche Antwort statt Verbandsverfahren vorgegeben"],
+    "sha256": "7f25c122327b2234c5a1bde96f1ae7d88ded217c17211d2074fb8f416aaaf505"
+  },
+  "selection": {
+    "positive": ["Erkläre mir den gelben Brief mit Mahnbescheid und bereite eine passende Reaktion vor.", "Ordne Rechnung, Inkassobrief und Behördenpost verständlich nach Frist und Empfänger."],
+    "negative": ["Entwirf eine Verbandsklage für eine qualifizierte Verbraucherorganisation.", "Prüfe eine komplexe Unternehmenskaufgarantie zwischen zwei Gesellschaften."]
+  },
+  "cases": [{
+    "id": "mahnbescheid-zahlung-bereits-erfolgt",
+    "request": "Bitte schreibe ergebnis.md in verständlicher Sprache mit einer Formularhilfe, ohne etwas zu versenden. Ich habe am 4. September 2026 einen gerichtlichen Mahnbescheid im gelben Umschlag erhalten. Gefordert werden 620 Euro Kaufpreis plus Kosten. Den Kaufpreis habe ich am 20. August unter korrekter Rechnungsnummer bezahlt; Kontoauszug und Gutschriftbestätigung des Händlers liegen vor. Ich bestreite die gesamte noch verlangte Forderung einschließlich der daraus abgeleiteten Kosten. Heute ist der 14. September. Das Inkassobüro hat meinen Brief vom 7. September nicht beantwortet. An das im Mahnbescheid genannte Amtsgericht habe ich nichts geschickt. Ein Vollstreckungsbescheid ist nicht bekannt. Erkläre, was der Mahnbescheid bedeutet und was als Nächstes an wen vorzubereiten ist.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id": "C01", "text": "Die Antwort erklärt ohne Annahme einer gerichtlichen Schuldfeststellung, dass der geltend gemachte Anspruch im Mahnverfahren nicht inhaltlich geprüft wurde.", "deliverables": ["ergebnis.md"]},
+      {"id": "C02", "text": "Sie benennt den 18. September 2026 als Ende des Zweiwochen-Reaktionszeitraums ab Zustellung und richtet den vorzubereitenden Widerspruch an das erlassende Gericht statt allein an das Inkassobüro.", "deliverables": ["ergebnis.md"]},
+      {"id": "C03", "text": "Die Formularhilfe entspricht dem ausdrücklich vollständigen Bestreiten, berücksichtigt Zahlungs- und Gutschriftbeleg und löst weder weitere Zahlung noch Versand aus.", "deliverables": ["ergebnis.md"]}
+    ],
+    "target_skill": "gerichtlicher-mahnbescheid-laie"
+  }]
+}

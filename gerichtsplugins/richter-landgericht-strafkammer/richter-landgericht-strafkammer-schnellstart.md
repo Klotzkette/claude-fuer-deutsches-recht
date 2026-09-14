@@ -1,77 +1,33 @@
-# Richter Landgericht Strafkammer — Schnellstart
+# 1. Strafkammer: Schnellstart
 
-Wenn du das hier öffnest, arbeitest du auf der Justizseite eines Strafverfahrens: Anklagereife, Verhandlungsführung, Beweiswürdigung, Strafzumessung und die förmlichen Produkte des Gerichts oder der Staatsanwaltschaft.
+Arbeite aus neutraler gerichtlicher Sicht. Gegenstand sind Zwischenverfahren, erstinstanzliche Hauptverhandlung oder Berufung, nicht die Erstellung einer staatsanwaltschaftlichen Anklage. Lies Anklage, Eröffnungsstand, Einlassungen, Beweismittel und gegebenenfalls Hauptverhandlungsprotokoll zuerst. Bestimme das gewünschte gerichtliche Arbeitsprodukt.
 
-Kernauftrag: Strafkammer LG: Eröffnungsentscheidung Hauptverhandlung Beweiswürdigung Strafzumessung schwere und mittlere Kriminalität Berufung gegen Amtsgerichtsurteil Sicherungsverwahrung und Maßnahmen mit Tenorvorschlag. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Stadium und Prüfmaßstab
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Tatkomplexe, Angeschuldigte oder Angeklagte, Zuständigkeit, Besetzung, Verfahrenshindernisse, Haftstatus und nächste Frist. Bei Berufung angefochtenes Urteil, Rechtsmittelführer und Beschränkungsumfang gesondert aufnehmen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Verfahrensstand, Anklage- oder Entscheidungsprüfung, Beweisprogramm wählen; ohne konkreten Auftrag mit Verfahrensstand beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Im Zwischenverfahren prüfe nach Paragraf 203 StPO, ob die Ergebnisse des vorbereitenden Verfahrens hinreichenden Tatverdacht tragen. Dieser Maßstab ist weder bloßer Anfangsverdacht noch die endgültige Überzeugung nach der Hauptverhandlung. Quelle: https://www.gesetze-im-internet.de/stpo/__203.html
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Verfahrensstand, Anklage- oder Entscheidungsprüfung, Beweisprogramm und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Trenne Eröffnung, weitere gerichtliche Aufklärung und Nichteröffnung. Das Schweigen der betroffenen Person ersetzt keinen fehlenden Tatnachweis. Staatsanwaltschaftliche und gerichtliche Abschlussentscheidungen nicht vermischen.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 1.2. Tat- und Beweismatrix
 
-## 2. Fachlicher Direktstart
+Ordne jeder Tat Zeit, Ort, Handlung, objektive und subjektive Merkmale, Beteiligungsform sowie belastende und entlastende Beweismittel zu. Kennzeichne unmittelbare Wahrnehmung, Hörensagen, Sachverständigenschluss und technische Auswertung. Ein Polizeivermerk ist nicht automatisch der Nachweis jeder darin wiedergegebenen Aussage.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Trägt der Anklagesatz Tat, Zeit, Ort und gesetzliche Merkmale konkret genug.
-2. Kernprüfung in einem Durchgang: Deckt das Beweisprogramm jede tragende Feststellung ab; Welche Zumessungstatsachen sind belegt und wie werden sie gewichtet.
-3. Belege und Engpass zusammenführen: Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle; besonders kritisch ist: Haftsache mit laufender Frist; Beschleunigungsgebot geht allem vor.
-4. Erstes Arbeitsprodukt liefern: Anklagesatz: Angeschuldigter, Tatzeit, Tatort, Tathandlung, Tatfolge, angewendete Vorschriften.
+Erstelle „Feststellung / Aktenfund / Gegenindiz / Verwertbarkeitsfrage / notwendige Einführung oder Erhebung / vorläufige Tragfähigkeit“. Bei Aussagewidersprüchen beide Fassungen mit Entstehungssituation und Fundstelle gegenüberstellen. Keine Glaubhaftigkeit allein aus Auftreten, Herkunft oder Rollenstatus ableiten.
 
-## 3. Kernroute
+Für einen Urteilsentwurf ausschließlich den nachgewiesenen Inhalt der Hauptverhandlung als Überzeugungsgrundlage behandeln. Aktenkenntnis und tatsächlich eingeführte Beweismittel auseinanderhalten. Fehlt der Nachweis der Einführung, markiere die Lücke; keine Verlesung oder Beweisaufnahme erfinden.
 
-1. Verfahrensstand: Ermittlungsabschluss, Anklagereife, Eröffnung, Hauptverhandlung oder Rechtsmittel feststellen.
-2. Anklage- oder Entscheidungsprüfung: Tatkonkretisierung, Beweismittelliste und rechtliche Würdigung ordnen.
-3. Beweisprogramm: Zeugen, Sachverständige, Urkunden und Selbstleseverfahren mit Ladungsplan sichern.
-4. Rechtsfolgen: Strafrahmen, Zumessungstatsachen, Bewährungsfragen und Nebenfolgen strukturieren.
-5. Arbeitsprodukt: Anklagesatz, Eröffnungsbeschluss, Verfügung, Urteilsgründe oder Strafzumessungsteil ausformulieren.
+## 1.3. Entscheidung und Rechtsfolgen
 
-## 4. Fallkarte
+Liefere im Zwischenverfahren einen Eröffnungs- oder Nichteröffnungsvermerk mit normbezogenen Gründen und gegebenenfalls konkreter Aufklärungsmaßnahme. Bei Hauptverhandlungsarbeit liefere Beweisprogramm, Beschlussentwurf oder Urteilsbaustein entsprechend dem Auftrag.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | StPO Paragraf 170; StPO Paragraf 200; StPO Paragraf 244 |
-| Rechtsprechung | BGH, Urteil vom 30.07.1999 - 1 StR 618/98; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 |
-| Tatbestand | Ermittlungsabschluss, Anklagereife, Eröffnung, Hauptverhandlung oder Rechtsmittel feststellen |
-| Beweislast | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle |
-| Rechtsfolge | Anklagesatz, Eröffnungsbeschluss, Verfügung, Urteilsgründe oder Strafzumessungsteil ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Strafrahmen, Strafzumessung, Bewährung, Maßregeln und Einziehung getrennt prüfen. Die Höhe einer Strafe nicht aus dem Anklagevorwurf ableiten. Für Gesamtstrafen Vorverurteilungen mit Tatzeit, Entscheidungsdatum und Vollstreckungsstand aufnehmen. Nebenentscheidungen und Rechtsmittel nur passend zur konkreten Verfahrenslage formulieren.
 
-## 5. Einsatzfelder
+## 1.4. Sicherheit und Quellen
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Verfahrensstand | Ermittlungsabschluss, Anklagereife, Eröffnung, Hauptverhandlung oder Rechtsmittel feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anklage- oder Entscheidungsprüfung | Tatkonkretisierung, Beweismittelliste und rechtliche Würdigung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweisprogramm | Zeugen, Sachverständige, Urkunden und Selbstleseverfahren mit Ladungsplan sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsfolgen | Strafrahmen, Zumessungstatsachen, Bewährungsfragen und Nebenfolgen strukturieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Anklagesatz, Eröffnungsbeschluss, Verfügung, Urteilsgründe oder Strafzumessungsteil ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Haftfristen und andere irreversible Eingriffe zuerst kennzeichnen und einen richterlich zu prüfenden Sicherungs- oder Vorlagevermerk erstellen. Keine eigenständige Freiheitsentziehung, Beweiserhebung, Ladung oder Entscheidung auslösen. Beratung und Akteninhalt bleiben vertraulich.
 
-## 6. Anker
+Fehlt Material, eine gebündelte Frage zu Stadium, Tat und entscheidender Beleglücke stellen; unabhängige Teile weiterbearbeiten. Neue Aktenfassungen prüfen, unveränderte Funde wiederverwenden. Amtliche Normtexte prüfen; Entscheidungen nur mit verifiziertem Gericht, Entscheidungsform, Datum, Aktenzeichen und Randnummer verwenden.
 
-- StPO Paragraf 170: Anklageerhebung oder Einstellung nach Abschluss der Ermittlungen.
-- StPO Paragraf 200: Inhalt der Anklageschrift mit Anklagesatz und wesentlichem Ergebnis.
-- StPO Paragraf 244: Beweisaufnahme, Aufklärungspflicht und Ablehnungsgründe für Beweisanträge.
-- StPO Paragraf 261 und Paragraf 267: freie Beweiswürdigung und Urteilsgründe.
-- Paragraf 267 StPO; Paragraf 46 StGB; Paragrafen 76 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 244 StPO: Aufklärungspflicht und Beweisantragsrecht sauber trennen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 261 StPO: Überzeugungsbildung nur aus dem Inbegriff der Hauptverhandlung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Hat das Gericht ausnahmsweise ein Glaubhaftigkeitsgutachten eingeholt, müssen Hypothesenbildung, wissenschaftlicher Methodenstand, Transparenz und alternative Entstehungserklärungen nachvollziehbar geprüft werden; die Entscheidung ist kein allgemeiner Aussage-gegen-Aussage-Anker.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Anklagesatz, Eröffnungsbeschluss, Verfügung, Urteilsgründe oder Strafzumessungsteil ausformulieren.
-7.2. Norm: StPO Paragraf 170; StPO Paragraf 200 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Verfahrensstand“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Deckt das Beweisprogramm jede tragende Feststellung ab.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Anklagesatz“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Haftsache mit laufender Frist; Beschleunigungsgebot geht allem vor. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Ausgabe in vollständigen Sätzen und dezimaler Gliederung, beim Export Times New Roman 11 pt. Ungeprüfte Feststellungen sichtbar markieren. Weitere Werkstatt- oder Skilltexte sind ausschließlich optionale Vertiefung und keine Voraussetzung dieses Schnellstarts.

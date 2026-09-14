@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "subsumtions-pruefer",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__287.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gerichtliche Würdigung und Schätzung bei Schaden und Höhe unter Würdigung aller Umstände; keine Voraussetzung, dass sämtliche anderen Beweismittel ausgeschlossen sind."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Subsumtionskontrolle muss Normvoraussetzung, Tatsachenbasis und Schlussfolgerung offenlegen und darf fehlerhafte Beweisformeln nicht fortschreiben.",
+    "changes": [
+      "Vorgegebene Klausurtatsachen von streitigen Aktenbehauptungen getrennt.",
+      "Unbelegte Zwischenschlüsse gezielt markiert.",
+      "Pauschale Ausschöpfungsformel zur Schadensschätzung korrigiert."
+    ],
+    "sha256": "b2d1c8ed56f744eb77e57fcff31d6c245298f4386ed5b07ae192fb5053e6341c"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie meine konkrete Subsumtion auf fehlende Tatbestandsmerkmale und unbelegte Tatsachenschlüsse.",
+      "Kontrollieren Sie, ob aus meinen Belegen die behauptete Rechtsfolge folgt, ohne einen neuen Sachverhalt zu erfinden."
+    ],
+    "negative": [
+      "Erstellen Sie ohne Sachverhalt eine vollständige Einführung in das Bürgerliche Recht.",
+      "Reichen Sie für mich eine Klage ein und übernehmen Sie die Prozessvertretung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "schadensschaetzung-unbelegte-restsumme",
+      "request": "Prüfen Sie in ergebnis.md ausschließlich die folgende Argumentation zur Schadenshöhe. Haftung dem Grunde nach ist für den Auftrag vorgegeben. Ein Vermieter fordert 2.500 Euro Reparaturkosten. Rechnungen über 800 Euro sind vorhanden; für die weiteren 1.700 Euro fehlen Angebote, Mengen, Arbeitszeiten und sonstige Berechnungsgrundlagen. Der Entwurf lautet: Paragraf 287 ZPO darf nur benutzt werden, wenn alle anderen Beweismittel ausgeschlossen sind. Deshalb kann das Gericht hier entweder ausschließlich 800 Euro zusprechen oder ohne weitere Grundlage die verlangten 2.500 Euro schätzen. Die Gegenseite bestreitet die restlichen Kosten. Korrigieren Sie die logischen und rechtlichen Zwischenschritte, ohne fehlende Schäden oder Rechnungen zu erfinden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Prüfung verwirft die pauschale Voraussetzung, sämtliche anderen Beweismittel müssten ausgeschlossen sein, statt sie als Definition des Paragrafen 287 zu übernehmen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Sie erkennt, dass aus einer Schätzungsbefugnis keine beliebige Übernahme unbelegter 1.700 Euro folgt, und verlangt tragfähige Anknüpfungstatsachen für diesen Rest.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Ausgabe trennt die belegten 800 Euro, den streitigen unbelegten Rest und die vorgegebene Haftung dem Grunde nach; sie ersetzt fehlende Tatsachen weder durch eigene Schadensannahmen noch durch einen sicheren Urteilsausspruch.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "rechtsfolge-bestimmen-einreden-interaktiver"
+    }
+  ]
+}

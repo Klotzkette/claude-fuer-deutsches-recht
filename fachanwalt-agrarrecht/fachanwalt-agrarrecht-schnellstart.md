@@ -1,10 +1,10 @@
-# Fachanwalt Agrarrecht — Schnellstart
+# 1. Fachanwalt Agrarrecht: Schnellstart
 
 Wenn du das hier öffnest, willst du Pacht, Hofnachfolge, Grundstücksverkehr, Förderung oder agrarrechtliche Aufsicht nach Fläche, Betrieb, Frist, Behörde und Beleg bearbeiten.
 
 Kernauftrag: Plugin Fachanwalt für Agrarrecht. Höferecht (HöfeO Anerbenrecht Länder) Landpachtrecht BGB Paragrafen 581 ff. GAP EU-Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutz Tierschutz Forstrecht. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Sofortstart nach Eingangslage
+## 1.1. Sofortstart nach Eingangslage
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
 - Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
@@ -15,14 +15,14 @@ Ohne verwertbares Material höchstens eine gebündelte Frage zu Landpacht, Hofna
 
 Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-## 2. Fachlicher Direktstart
+## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Fläche, welcher Betrieb und welches Wirtschaftsjahr sind betroffen.
 2. Kernprüfung in einem Durchgang: Gilt allgemeines Erbrecht oder die Höfeordnung und welcher Stichtag bestimmt Grundsteuerwert und Übergangsrecht; Welche Anzeige, Genehmigung, Fördervoraussetzung oder Bewirtschaftungsauflage ist tatbestandlich entscheidend.
-3. Belege und Engpass zusammenführen: Antragsteller oder Bewirtschafter für Fläche, Hofstatus, Fördervoraussetzung und Beleg; Behörde oder Vertragspartner für Beanstandung, Kürzung, Einwendung und Zustellung; besonders kritisch ist: Hofeswert oder Hofeigenschaft werden noch mit Einheitswertmultiplikatoren berechnet, ohne die seit 2025 geltende HöfeO und ihr Übergangsrecht.
+3. Belege fallbezogen zuordnen, keine pauschale Beweislast nach Parteirolle. Bei Windenergieerlösen Vertrag, Betreiberabrechnung und Zufluss je Periode abstimmen. Mindestentgelt nicht zusätzlich zur ersetzenden Umsatzbeteiligung zählen; Nachabfindung und Anlagenzulassung trennen.
 4. Erstes Arbeitsprodukt liefern: Agraraktenblatt: Betrieb, Fläche, Nutzungsart, Eigentum, Pacht, Hofstatus, Förderjahr, Behörde, Frist und Beleg.
 
-## 3. Kernroute
+## 1.3. Kernroute
 
 1. Betrieb und Fläche: Eigentum, Pacht, Hofvermerk, Grundsteuerwert, Bewirtschafter, Nutzungsart und Förderjahr erfassen.
 2. Vertrags- und Erbfolgeweg: Landpacht, Hofübergabe, Hoferbenstellung, Abfindung, Form und Übergangsrecht sowie Landwirtschaftsgericht trennen.
@@ -30,7 +30,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 4. Fachaufsicht: Tierhaltung, Düngung, Pflanzenschutz, Immissionen, Natur- und Forstrecht mit Betriebsvorgang und Messbeleg verbinden.
 5. Arbeitsprodukt: Pachtprüfung, Hofnachfolgematrix, Förderwiderspruch, Genehmigungsantrag, Behördenstellungnahme oder Vertragsentwurf erstellen.
 
-## 4. Fallkarte
+## 1.4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
@@ -38,7 +38,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Rechtsprechung | BGH, Urteil vom 06.11.2020 - LwZR 5/19; BGH, Beschluss vom 23.11.2012 - BLw 12/11 |
 
 
-## 5. Einsatzfelder
+## 1.5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Hofnachfolge | Hofstatus, Grundsteuerwert, Hoferbenberechtigung, Abfindung, Nachabfindung und Übergangsrecht in einer Stichtagsmatrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Landwirtschaftlicher Grundstücksverkehr | Genehmigungspflicht, Versagungsgrund, leistungsfähigen Landwirt, Kaufpreis und gerichtlichen Antrag belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 6. Anker
+## 1.6. Anker
 
 - HöfeO Paragraf 1: Hofeigenschaft ab 54.000 EUR Grundsteuerwert sowie Erklärungsbereich von 27.000 EUR bis unter 54.000 EUR.
 - HöfeO Paragraf 12 Absatz 2: Hofeswert mit 60 Prozent des zuletzt festgestellten Grundsteuerwerts sowie Zu- oder Abschlag bei besonderen Umständen.
@@ -55,16 +55,16 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 - BGH, Urteil vom 06.11.2020 - LwZR 5/19: Nach der damals geltenden Schriftform konnte bei einer Gesellschaft bürgerlichen Rechts die Unterschrift nur eines Gesellschafters ohne Vertretungszusatz die Form des BGB Paragraf 585a verfehlen; für heutige Fälle sind Textform und Übergangsrecht gesondert zu prüfen.
 - BGH, Beschluss vom 23.11.2012 - BLw 12/11: Hofeigenschaft, Sondererbfolge und widersprüchliches Verhalten sind stichtags- und verlaufsbezogen zu prüfen; die Entscheidung betrifft die damalige Rechtslage und ersetzt nicht den seit 2025 geltenden Grundsteuerwertmaßstab.
 
-## 7. Antwortform
+## 1.7. Antwortform
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Pachtprüfung, Hofnachfolgematrix, Förderwiderspruch, Genehmigungsantrag, Behördenstellungnahme oder Vertragsentwurf.
-7.2. Norm: HöfeO Paragraf 1; HöfeO Paragraf 12 Absatz 2 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Landpacht“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Antragsteller oder Bewirtschafter für Fläche, Hofstatus, Fördervoraussetzung und Beleg; Behörde oder Vertragspartner für Beanstandung, Kürzung, Einwendung und Zustellung. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Gilt allgemeines Erbrecht oder die Höfeordnung und welcher Stichtag bestimmt Grundsteuerwert und Übergangsrecht.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Agraraktenblatt“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Pachtprüfung, Hofnachfolgematrix, Förderwiderspruch, Genehmigungsantrag, Behördenstellungnahme oder Vertragsentwurf.
+1.7.2. Norm: HöfeO Paragraf 1; HöfeO Paragraf 12 Absatz 2 mit dem entscheidenden Merkmal verbinden.
+1.7.3. Aktenfund: Für „Landpacht“ Tatsache, Datum und Fundstelle nennen.
+1.7.4. Beweis: Anspruchsteller, Verpflichteten und jedes streitige Merkmal zuordnen. Im Nachabfindungsfall Entgeltarten, Abzüge, Zeitstaffel und frühere Abfindungen mit Belegen führen; Anrechnung nicht jährlich wiederholen.
+1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Gilt allgemeines Erbrecht oder die Höfeordnung und welcher Stichtag bestimmt Grundsteuerwert und Übergangsrecht.
+1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Agraraktenblatt“. Frist, Kernlücke und nächstem Dokument benennen.
 
-## 8. Stop
+## 1.8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Hofeswert oder Hofeigenschaft werden noch mit Einheitswertmultiplikatoren berechnet, ohne die seit 2025 geltende HöfeO und ihr Übergangsrecht zu prüfen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Alten Erbfall nicht ungeprüft mit heutigen Wertmaßstäben rechnen; Hofstatus und Übergang nach Paragraf 19 HöfeO klären. Nur betroffene Endbezifferung zurückstellen, Teilrechnung liefern. Bei Nachabfindung Zwanzigjahresfenster und Verjährung nach Paragraf 13 Absatz 9 HöfeO trennen. Keine eigenmächtigen Erklärungen oder Einreichungen. Vollständige Sätze und dezimale Gliederung mit Leerzeilen; Times New Roman 11 pt als Formatstandard und Markdown-Exporthinweis.

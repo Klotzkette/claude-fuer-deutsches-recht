@@ -1,77 +1,29 @@
-# BGB BT-Prüfer — Schnellstart
+# 1 Vertragstyp und konkrete Rechtsfolge bearbeiten
 
-Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
+Lies den Nutzerauftrag und vorhandene Verträge, Rechnungen, Leistungsnachweise, Mängelanzeigen oder Kündigungen zuerst. Liefere das verlangte Schreiben oder Gutachten. Bestimme, wer von wem welche Leistung, Rückzahlung oder Ersatz verlangt. Der Besondere Teil braucht den passenden Vertragstyp und dessen Sonderregeln, nicht bloß eine Wiederholung von Vertragsschluss und AGB-Kontrolle.
 
-Kernauftrag: Großer BGB-BT-Prüfer für Schuldrecht Besonderer Teil: Kauf einschließlich Verbrauchsgüterkauf, Waren mit digitalen Elementen, Updatepflichten und Right-to-Repair-Schnittstellen, außerdem Miete, Werk, Bürgschaft, GoA. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Leistungspflicht richtig einordnen
 
-## 1. Sofortstart nach Eingangslage
+Unterscheide Warenlieferung, herzustellenden Erfolg, Tätigkeit ohne Erfolgsgarantie, Gebrauchsüberlassung, Sicherung und Geschäftsbesorgung. Maßgeblich ist der tatsächliche Vertragsinhalt, nicht allein die Überschrift. Bei gemischten Leistungen erkläre, welche Pflicht betroffen ist und welches Regelungssystem dafür herangezogen wird. Verbraucherstatus und digitale Bestandteile gesondert erfassen; nicht jedes elektronische Gerät ist ein Vertrag über ein eigenständiges digitales Produkt.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Vertragsurkunde, Korrespondenz, Rechnungen und Übergabeprotokoll. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Anspruchsziel, Anspruchsgrundlage, Leistungsstörung wählen; ohne konkreten Auftrag mit Anspruchsziel beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Lege vereinbarte Beschaffenheit oder Leistung, tatsächlich erbrachten Zustand und maßgeblichen Zeitpunkt nebeneinander. Kaufrechtlicher Gefahrübergang und werkvertragliche Abnahme sind keine austauschbaren Ereignisse. Eine Rechnung beweist weder Mangelfreiheit noch Abnahme. Belege technische Abweichung, Anzeige und Reaktion aus den Unterlagen; erfinde keine Untersuchung oder erfolglose Nachbesserung.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Anspruchsziel, Anspruchsgrundlage, Leistungsstörung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2 Gewünschten Anspruch verfolgen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei Kauf und Werkvertrag trenne Nacherfüllung, Rückabwicklung, Minderung und Schadensersatz. Prüfe, wer nach dem konkreten Vertragstyp die Art der Nacherfüllung wählen darf. Fristsetzung, Entbehrlichkeit, Verweigerung und Fehlschlag jeweils an ihren eigenen Voraussetzungen untersuchen. Ein bloßer Mangel eröffnet nicht pauschal alle Rechtsfolgen zugleich.
 
-## 2. Fachlicher Direktstart
+Für werkvertragliche Selbstvornahme nach [Paragraf 637 BGB](https://www.gesetze-im-internet.de/bgb/__637.html) prüfe Mangel, erfolglosen Ablauf einer angemessenen Nacherfüllungsfrist oder deren Entbehrlichkeit und eine mögliche berechtigte Verweigerung. Unterscheide bereits entstandene erforderliche Aufwendungen vom Vorschuss für eine noch vorzunehmende Beseitigung. Einen Vorschuss nicht allein deshalb ablehnen, weil noch keine Fremdrechnung bezahlt wurde. Berechnung und geplanter Beseitigungsumfang müssen zusammenpassen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Wer verlangt welche Rechtsfolge aus welchem Vertrag oder gesetzlichen Anspruch.
-2. Kernprüfung in einem Durchgang: Ist der Vertrag wirksam zustande gekommen und welche Form- oder Vertretungsfrage kann kippen; Welche Klausel ist Individualabrede, AGB oder überraschende bzw. intransparente Regelung.
-3. Belege und Engpass zusammenführen: Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung; besonders kritisch ist: Widerrufs-, Verjährungs-, Rüge- oder Gewährleistungsfrist ist unklar.
-4. Erstes Arbeitsprodukt liefern: Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben.
+Bei Mietfragen ordne Zeitraum, Gebrauchseinschränkung, Anzeige und geltend gemachte Folge zu. Bei Dienstleistungen ist eine unbefriedigende Erwartung nicht automatisch ein Werkmangel. Bei Bürgschaft trenne Hauptforderung, Sicherungsversprechen und Einreden. Gesetzliche Ansprüche aus Geschäftsführung, Bereicherung oder Delikt nur mit eigenen Voraussetzungen daneben prüfen; sie sind keine automatische Ausweichroute für gescheiterte Vertragsansprüche.
 
-## 3. Kernroute
+## 1.3 Beträge, Einwendungen und Beweise
 
-1. Anspruchsziel: Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen.
-2. Anspruchsgrundlage: Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen.
-3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
-4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
-5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
+Rechne Forderung, Teilzahlung, Gegenposition und verbleibenden Betrag nachvollziehbar. Schadenspositionen nicht mit Minderung oder Rückzahlung doppelt erfassen. Trenne Kausalität, erforderlichen Aufwand und etwaiges Verschulden. Ordne Beweislast und Vermutungen der konkreten Anspruchsnorm, Parteistellung und dem maßgeblichen Zeitpunkt zu; ein allgemeiner Satz „Käufer beweist alles“ genügt nicht.
 
-## 4. Fallkarte
+Prüfe Verjährungsart, Beginn und mögliche Hemmung anhand des Anspruchs, nicht nach einer einheitlichen Frist für alle Vertragstypen. Bei Rechtsänderungen wie Reparatur- oder Updatepflichten maßgeblichen Vertragsschluss, Übergangsrecht und aktuellen amtlichen Stand prüfen. Eine politische Reformankündigung ist keine bereits geltende Anspruchsgrundlage.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen |
-| Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
-| Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.4 Verwertbares Produkt
 
-## 5. Einsatzfelder
+Das Ergebnis benennt Anspruchsgegner, genaue Rechtsfolge, tragende Tatsachen und den nächsten sinnvollen Schritt. Ein Aufforderungsschreiben enthält Leistung oder Betrag, tatsächlichen Grund und gegebenenfalls eine bestimmte angemessene Frist. Keine widerstreitenden Gestaltungsrechte versehentlich gleichzeitig ausüben. Nur blockierende Lücken erfragen; Alternativen anhand sichtbarer Annahmen weiterbearbeiten.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Anspruchsziel | Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchsgrundlage | Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leistungsstörung | Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einwendungen | Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweis und Textprodukt | Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BGB Paragraf 104 bis Paragraf 185: Geschäftsfähigkeit, Willenserklärung, Zugang, Anfechtung, Stellvertretung und Zustimmung.
-- BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
-- BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
-- BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- Paragrafen 280 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 433 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 535 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 631 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich.
-7.2. Norm: BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Anspruchsziel“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Zugang, Verjährung und der Auslegung der Vereinbarung.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Anspruchsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Widerrufs-, Verjährungs-, Rüge- oder Gewährleistungsfrist ist unklar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Weitere Normen und Entscheidungen nur amtlich verifiziert verwenden. Zusätzliche Skills oder Referenzen sind optional; diese Kernregeln gelten auch allein. Ohne Export vollständigen Text liefern und ohne Auftrag nichts versenden. Dezimale Überschriften, vollständige Sätze und Times New Roman 11 pt beim Export.

@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-urheber-medienrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlichen Normauszug zu räumlich, zeitlich und inhaltlich begrenzten Nutzungsrechten und Vertragszweck geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__13.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlichen Normauszug zum Recht auf Anerkennung und Bestimmung der Urheberbezeichnung geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__287.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlichen Normauszug zur gerichtlichen Schadensschätzung unter Würdigung der Umstände geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__97.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 2: Verschulden und alternative Schadensberechnung nach angemessener Vergütung."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2020&Gericht=bgh&Seite=63&anz=3286&nr=108768&pos=1900",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 18.06.2020, Az. I ZR 93/19: amtlich indexierter Leitsatz und Auszüge geprüft; Nachlizenzierungen enthalten regelmäßig Streitbeilegungsmehrwert. Direkter Volltextabruf war nicht erfolgreich; keine Volltext-Randnummern verwendet."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der bisherige Einstieg setzte Marke und Werk zu eng gleich und wiederholte Nichtbenutzung als generische Einrede. Er brach bei Eilmaßnahmen ab und trennte Anspruchshöhe nicht von Reaktionsformen.",
+    "changes": [
+      "Urheber-, Bildnis- und Äußerungsrecht als eigene Routen getrennt.",
+      "Freie Lizenzpreise, Nachlizenzierung und Benennungszuschläge getrennt.",
+      "Eilfall in priorisierten Freigabeentwurf statt Arbeitsabbruch übersetzt; Mini eigenständig formuliert."
+    ],
+    "sha256": "51e4533822df7c864cf26aa22c0b613cc0559b0d0d997c61e75b30abff0a54cf"
+  },
+  "selection": {
+    "positive": [
+      "Gleichen Sie unsere 30 Shopfotos mit den Printnutzungen und bezahlten Lizenzpaketen ab und berechnen Sie den ungedeckten Nutzungsumfang.",
+      "Die Bildagentur fordert anhand früherer Abmahnvergleiche 18000 EUR. Prüfen Sie die Vergleichslizenzen und beziffern Sie eine belegbare Gegenposition."
+    ],
+    "negative": [
+      "Entwerfen Sie einen Lizenzvertrag für künftige Podcastmusik mit Gebiet und Laufzeit.",
+      "Formulieren Sie eine Gegendarstellung zu einer unwahren Behauptung in einer Tageszeitung."
+    ],
+    "target_skill": "fotolizenzen-nutzungsmatrix-schadensberechnung"
+  },
+  "cases": [
+    {
+      "id": "drei-fotos-shoplizenz-social-nachvergleich",
+      "request": "Wir vertreten eine Fotografin. Ein Händler durfte die Fotos A und B aufgrund eines bezahlten Vertrags nur im eigenen Webshop 2025 verwenden. Er veröffentlichte A und B zusätzlich vom 01.01. bis 30.06.2025 als Werbeposts auf seinem Social-Media-Konto; er bestätigt die Dauer und dass er die Shopbegrenzung kannte. Für C behauptet unsere Mandantin ebenfalls Rechte; die Originaldatei stammt jedoch von einem freien Mitarbeiter und eine Rechteübertragung ist nicht vorgelegt. Auch C wurde im selben Zeitraum eingesetzt. Die Mandantin legt drei vor der Verletzung frei geschlossene und bezahlte Verträge mit anderen Händlern vor: jeweils 240 EUR pro Foto für sechs Monate Social-Media-Werbung gleicher Reichweite, nicht exklusiv, mit Urheberbenennung. Alle drei streitigen Posts nannten die Fotografin. Zwei weitere Verträge über je 900 EUR pro Foto wurden erst nach Abmahnung geschlossen und umfassen laut Text vergangene Nutzung, Kosten und Streitbeilegung ohne Aufteilung. Der Händler hat bereits 100 EUR ausdrücklich auf den Schadensersatz für A und B gezahlt. Umsatzsteuer und Abmahnkosten sollen nicht Gegenstand dieses Auftrags sein. Erstellen Sie ein internes Bezifferungsmemo mit Nutzungs- und Vergleichsmatrix und einem freizugebenden Zahlungsschreiben. Es wurden keine Erklärungen oder Abtretungen abgegeben.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Für A und B wird aus den vergleichbaren freien Lizenzen ein Ansatz von zusammen 480 EUR und nach der zweckbestimmten Zahlung ein Rest von 380 EUR nachvollziehbar berechnet; die Shoplizenz wird nicht nochmals berechnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die 900-EUR-Nachvergleiche werden wegen der ungetrennten Zusatzleistungen nicht ohne Bereinigung als normale Lizenzpreise eingesetzt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "C wird wegen der fehlenden Rechteübertragung nicht als gesicherter Anspruch der Fotografin in die sichere Forderung aufgenommen; die konkrete Rechtekettenlücke wird bezeichnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Es wird kein Benennungszuschlag verlangt, weil die Benennung erfolgt ist; das Zahlungsschreiben bleibt ein Entwurf und behauptet keinen Versand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "fotolizenzen-nutzungsmatrix-schadensberechnung"
+    }
+  ]
+}

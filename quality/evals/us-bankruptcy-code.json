@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "plugin": "us-bankruptcy-code",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {"url": "https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-11-bankruptcy-basics", "checked_on": "2026-09-14", "supports": "Aktueller amtlicher Suchabruf: Stay bei Chapter-11-Petition und gerichtliche Relief-Prüfung."},
+    {"url": "https://www.cacb.uscourts.gov/node/589", "checked_on": "2026-09-14", "supports": "Amtliche Gerichtsinformation: gestellter Relief-Antrag allein erlaubt keine Fortsetzung; gerichtliche Bewilligung erforderlich, Sonderlagen vorbehalten."},
+    {"url": "https://uscode.house.gov/view.xhtml?edition=2023&num=0&req=granuleid%3AUSC-2023-title11-section362", "checked_on": "2026-09-14", "supports": "Amtlicher Suchauszug der ausdrücklich historischen Ausgabe 2023 zu Absatz a Nummer 6 und 7; aktueller Preliminary-Volltext war nicht abrufbar. Kein vollständiger aktueller Code-Check behauptet."}
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt und Automatic-Stay-Skill verlangen eine handlungsbezogene Matrix. Diese fehlte im Mini; ein Entscheidungszitat war abgeschnitten. Der Mini trennt jetzt Forderungsbestand, Antrag und erlassene Order.",
+    "changes": ["Stay-Matrix mit Rechtsträger, Zeitpunkt und Handlung ergänzt", "Pauschale Rechtsprechung statt ungeprüfter Übernahme entfernt", "Bar Date an Notice und Order gebunden", "Eigenständige Vollzugssperre und Counsel-Prüfung konkretisiert"],
+    "sha256": "24559f1a004e3889f94ae2d9b6d25e041b75f71ee57aa4b7844c9417414d9a32"
+  },
+  "selection": {
+    "positive": ["Prüfe unsere geplanten Einziehungsschritte nach der Chapter-11-Petition des US-Kunden.", "Baue aus Docket und Forderungsdaten ein Stay-Briefing für US-Counsel."],
+    "negative": ["Berechne die deutsche Insolvenzgeldvorfinanzierung ohne US-Bezug.", "Registriere das Urheberrecht an einem Buch in den USA ohne Insolvenzverfahren."]
+  },
+  "cases": [{
+    "id": "relief-antrag-ohne-order",
+    "request": "Erstelle ergebnis.md als deutsches Briefing für US-Counsel. Unsere US-Vertriebsgesellschaft hat eine unbestrittene Forderung von 80.000 USD aus einer Augustlieferung gegen eine US-Gesellschaft. Diese hat am 10. September 2026 freiwillig Chapter 11 beantragt. Der Docket enthält die Petition und unseren am 12. September gestellten Motion for Relief from Stay, aber keine bewilligende Order. Heute ist der 14. September. Das Inkassoteam möchte eine bestehende Zahlungsklage fortsetzen und telefonisch sofortige Zahlung verlangen. Der Schuldner fällt unter den regulären Stay; Sonderausnahmen sind nicht bekannt. Eine Bar-Date-Order liegt noch nicht vor. Bitte ordne beide Handlungen und den nächsten sicheren Arbeitsschritt ein. Nicht einreichen oder Kontakt aufnehmen.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id": "C01", "text": "Die Fortsetzung der Zahlungsklage und die telefonische Einziehung der Altforderung werden beide als stay-relevante Handlungen geprüft und nicht freigegeben.", "deliverables": ["ergebnis.md"]},
+      {"id": "C02", "text": "Das Ergebnis unterscheidet den anhängigen Relief-Antrag von einer bewilligenden Order und behandelt den Antrag nicht als Aufhebung des Stay.", "deliverables": ["ergebnis.md"]},
+      {"id": "C03", "text": "Die Forderung wird mit 80.000 USD als gesondert zu sichernde Position behandelt, ohne ihren Bestand durch den Stay zu verneinen oder eine nicht belegte Bar Date zu erfinden.", "deliverables": ["ergebnis.md"]}
+    ],
+    "target_skill": "automatic-stay-362"
+  }]
+}

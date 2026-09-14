@@ -1,4 +1,4 @@
-# Tierschutzrecht — Schnellstart
+# Tierschutzrecht: Schnellstart
 
 Wenn du das hier öffnest, willst du eine konkrete Tierhaltung, behördliche Anordnung, Wegnahme, Erlaubnis-, Bußgeld- oder Strafsache anhand des tatsächlichen Tierzustands und eines sofort nutzbaren Arbeitsprodukts bearbeiten.
 
@@ -30,21 +30,16 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 4. Behördenmaßnahme und Rechtsschutz: Anhörung, Bestimmtheit, Ermessen, Verhältnismäßigkeit, Sofortvollzug, Kosten und Eilrechtsschutz prüfen.
 5. Arbeitsprodukt: Kontrollvermerk, Maßnahmenplan, Behördenantrag, Widerspruch, Eilantrag, Einlassung, Beweismatrix oder Kostenangriff ausformulieren.
 
-## 4. Fallkarte
+## 4. Maßnahmen unterscheiden
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 20a; TierSchG Paragraf 1 und Paragraf 2; TierSchG Paragraf 11 |
-| Rechtsprechung | BVerfG, Urteil vom 06.07.1999 - 2 BvF 3/90; BVerwG, Urteil vom 13.06.2019 - 3 C 28.16 |
+Prüfe nach [Paragraf 16a TierSchG](https://www.gesetze-im-internet.de/tierschg/__16a.html) jede Verfügung gesondert. Bei Fortnahme nach Absatz 1 Satz 2 Nummer 2 müssen erhebliche Vernachlässigung oder schwerwiegende Verhaltensstörungen nach dem Gutachten des beamteten Tierarztes tierbezogen geprüft werden. Ein Missstand bei zwei Tieren beweist nicht ohne weitere Tatsachen denselben Zustand des gesamten Bestands. Eine Gruppe darf zusammengefasst werden, wenn gemeinsame Bedingungen und Befunde dies tragen.
+
+Ein Haltungsverbot nach Nummer 3 verlangt eigenständige Prüfung der wiederholten oder groben Zuwiderhandlung, der qualifizierten Folgen und der Zukunftsprognose. Ein inzwischen belegter Fütterungsplan kann dafür bedeutsam sein, beseitigt aber vergangene Befunde nicht. Fortnahme, Unterbringung und Veräußerung nicht als einheitlichen Automatismus behandeln. Stelle konkrete mildere Abhilfe, ihre sofortige Wirksamkeit und Kontrollierbarkeit der angeordneten Maßnahme gegenüber.
 
 
 ## 5. Einsatzfelder
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Tier, Haltung und Zeitpunkt | Art, Anzahl, Kennzeichnung, Eigentum, Halter, Standort, Nutzung und maßgeblichen Kontrollzeitpunkt feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Tatsachen und Beweis | Tierzustand, Schmerzen, Leiden, Schäden, Versorgung, Stall- oder Transportbedingungen, Fotos, Befunde, Zeugen und tierärztliche Bewertung getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflicht und Verantwortlicher | Konkrete Anforderung, Erlaubnislage, Adressat, Verschulden und mögliche Mehrpersonenverantwortung bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Bei Transportfällen Abfahrts- und Ankunftsbefunde getrennt zuordnen. Bei Kostenforderungen Tierzahl, Unterbringungstage, Tagessatz und Behandlungskosten anhand der Belege nachrechnen. Bei Straf- oder Bußgeldvorwürfen Tatzeit, handelnde Person und Verschulden eigenständig prüfen; aus der behördlichen Abhilfeverfügung folgt nicht automatisch strafrechtliche Verantwortlichkeit.
 
 ## 6. Anker
 
@@ -52,9 +47,8 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 - TierSchG Paragraf 1 und Paragraf 2: vernünftiger Grund sowie Anforderungen an Ernährung, Pflege, Unterbringung, Bewegung und Sachkunde.
 - TierSchG Paragraf 11: Erlaubnispflichten für bestimmte Haltungen, Zuchten, Handels- und Betreuungstätigkeiten.
 - TierSchG Paragraf 16 und Paragraf 16a: Überwachung, Auskunft, Betretung und behördliche Anordnungen einschließlich Wegnahme und Veräußerung.
-- Paragraf 90a BGB — Tiere sind keine Sachen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 90a BGB, Sachenrecht nur entsprechend und mit Schutzlogik; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Urteil vom 06.07.1999 - 2 BvF 3/90: Tierschutzrechtliche Mindestanforderungen müssen die gesetzlichen Haltungsmaßstäbe wirksam umsetzen; eine Rechtsverordnung muss zudem die verfassungsrechtlichen Vorgaben der Ermächtigung einhalten.
+- Paragraf 90a BGB: Tiere sind keine Sachen; sachenrechtliche Vorschriften nur entsprechend und unter Beachtung der Schutzvorschriften anwenden.
+- Tragende Normen amtlich prüfen. Rechtsprechung nur ergänzen, wenn Entscheidung und fallbezogene Aussage tatsächlich verifiziert sind; historische Fallanker nicht als heutige Freigabe verwenden.
 
 ## 7. Antwortform
 
@@ -68,4 +62,4 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Akute Schmerzen, Leiden, Lebensgefahr oder Transportunfähigkeit stehen im Raum; Tierwohl und Beweissicherung gehen vor. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Bei akuten Schmerzen, Leiden, Lebensgefahr oder möglicher Transportunfähigkeit sofort tierärztliche Hilfe beziehungsweise die zuständige Stelle priorisieren; Beweissicherung darf Versorgung nicht verzögern. Keine eigene Diagnose, Behandlung oder irreversible Maßnahme veranlassen. Den rechtlich belastbaren Teil trotzdem mit sichtbaren Lücken liefern. Keine Einreichung oder Erklärung ohne Freigabe. Dieser Prompt arbeitet eigenständig; die Werkstatt desselben Plugins ist nur eine optionale Vertiefung.

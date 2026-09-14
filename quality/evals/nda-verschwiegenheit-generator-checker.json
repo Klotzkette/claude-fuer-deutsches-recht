@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "nda-verschwiegenheit-generator-checker",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__2.html",
+      "checked_on": "2026-09-14",
+      "supports": "Angemessene Geheimhaltungsmaßnahmen als Merkmal des gesetzlichen Geschäftsgeheimnisses."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der ganze Mini war ein allgemeiner Vertragsbaukasten ohne konkrete Zweckbindung; der gelesene Zweckskill bestätigt die relevanten Informations- und Empfängerweichen.",
+    "changes": [
+      "Austauschzweck, Empfänger und Nutzungsgrenzen konkretisiert.",
+      "Vertragslaufzeit, Geheimhaltung und Restkopien abgestimmt."
+    ],
+    "sha256": "56607576d09358eed1b0a6f50fcb78de518e1c57a42c9ac806c55abfe4806b38"
+  },
+  "selection": {
+    "positive": [
+      "Entwerfen Sie eine gegenseitige NDA für einen technischen Machbarkeitstest.",
+      "Prüfen Sie, ob unsere Verschwiegenheitsklausel die beabsichtigte Nutzung abdeckt."
+    ],
+    "negative": [
+      "Vergleichen Sie nur zwei NDA-Versionen gegen feste Haltelinien.",
+      "Entwerfen Sie eine vollständige Softwarelizenz mit Nutzungsvergütung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "machbarkeit-ohne-produktlizenz",
+      "request": "Erstellen Sie in ergebnis.md eine gegenseitige NDA zwischen der A GmbH und der B GmbH, beide Berlin, für sechs Monate technische Machbarkeitsprüfung. A legt Fertigungszeichnungen offen, B Testalgorithmen. Zulässig sind ausschließlich Tests zur Entscheidung über eine spätere Kooperation; Produktvermarktung ist nicht vereinbart. Zugang benötigen jeweils zwei Projektmitarbeiter und ein vertraglich zur Geheimhaltung gebundener technischer Berater. Gewünscht sind fünf Jahre Geheimhaltung ab jeweiliger Offenlegung, Löschung nach Projektende und eine gesperrte Sicherungskopie. Keine Vertragsstrafe oder Pflicht zum Kooperationsabschluss. Deutsches Recht; Unterschriftsdaten bleiben Platzhalter.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die NDA schützt beide Informationsrichtungen und begrenzt Nutzung auf die Machbarkeitsprüfung ohne Vermarktungslizenz.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Mitarbeiter und gebundener Berater erhalten zweckbezogenen Zugang; eine allgemeine Weitergabe an beliebige Konzerngesellschaften wird nicht eröffnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Sechsmonatiger Austausch und fünfjährige Geheimhaltung je Offenlegung sind getrennt; die verbleibende Sicherungskopie bleibt geschützt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "zweckbindung-und-permitted-purpose"
+    }
+  ]
+}

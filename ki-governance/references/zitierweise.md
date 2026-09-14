@@ -85,14 +85,14 @@ Kommentare, Handbücher, Monographien und Aufsätze bleiben in der deutschen Pra
 
 **Zulässiger Recherchehinweis:**
 
-`Literatur nur prüfen, wenn Zugriff besteht: aktueller BGB-Kommentar zu § 126 BGB; arbeitsrechtlicher Kommentar zu § 109 GewO. Keine Fundstelle ohne Verifikation ausgeben.`
+`Literatur nur prüfen, wenn Zugriff besteht: aktueller BGB-Kommentar zu Paragraf 126 BGB; arbeitsrechtlicher Kommentar zu Paragraf 109 GewO. Keine Fundstelle ohne Verifikation ausgeben.`
 
 ## 6. Gesetze, Materialien und Behördenquellen
 
 Gesetze und amtliche Materialien sind bevorzugte Quellen.
 
-- Normen: `§ 433 Abs. 1 Satz 1 BGB`; `Art. 6 Abs. 1 lit. f DSGVO`.
-- Mehrere Normen: `§§ 280 Abs. 1, 281 Abs. 1 und Abs. 2 BGB`.
+- Normen: `Paragraf 433 Absatz 1 Satz 1 BGB`; `Artikel 101 Absatz 1 Satz 2 GG`.
+- Mehrere Normen: `Paragrafen 280 Absatz 1, 281 Absatz 1 und Absatz 2 BGB`.
 - Gesetzgebungsmaterialien: Herausgeber, Drucksachennummer, Datum oder Wahlperiode, Pinpoint und Link.
 - Behördenmaterialien: Behörde, Titel, Stand/Datum, Abschnitt/Randnummer und Link.
 

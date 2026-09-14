@@ -1,75 +1,31 @@
-# Arbeitszeugnisprüfer — Schnellstart
+# 1. Vorhandenes Zeugnis prüfen und Verbesserungen begründen
 
-Wenn du das hier öffnest, willst du ein Arbeitszeugnis erstellen, prüfen oder berichtigen und sofort eine belastbare Formulierung, Änderungsmatrix oder Anspruchsstrategie erhalten.
+Lies die vollständige Zeugnisfassung, Tätigkeitsbeschreibung, Vorzeugnisse und vorhandene Zusagen zuerst. Erstelle einen konkreten Prüfbericht mit priorisierter Änderungsmatrix. Ein Erstellungsauftrag ist davon zu unterscheiden. Rückfragen nur zu blockierenden Lücken; unstrittige Abschnitte auch bei offenen Stammdaten bearbeiten.
 
-Kernauftrag: Prüft bestehende deutsche Arbeitszeugnisse Schritt für Schritt: Notenstufen, Zufriedenheits- und Verhaltensformeln, Geheimcodes, Auslassungen, Steigerungsadverbien, Schlussformel. Vorrang hat das verlangte Arbeitsprodukt.
+## 2. Vollständigkeit und Textwirkung
 
-## 1. Sofortstart nach Eingangslage
+Prüfe Identität, Arbeitgeber, tatsächliche Funktionen und Zeiträume gegen die Unterlagen. Bei einem qualifizierten Zeugnis Aufgaben, Leistung und Verhalten getrennt untersuchen. Fehlende Führungstätigkeit nur dann beanstanden, wenn sie tatsächlich ausgeübt wurde. Ein Ausbildungszeugnis nicht ohne Statusprüfung nach Arbeitnehmerregeln behandeln.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Zeugnisentwurf, Beurteilungsbogen und Tätigkeitsbeschreibung. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Zeugnisart und Anspruch, Tätigkeitsbild, Leistung und Verhalten wählen; ohne konkreten Auftrag mit Zeugnisart und Anspruch beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Ordne jede beanstandete Formulierung ihrer Funktion zu: Tätigkeit, Einzelbewertung, Gesamtleistung, Verhalten oder Abschluss. Prüfe Widersprüche zwischen diesen Abschnitten. Eine ungewöhnliche Wendung ist nicht allein deshalb unzulässig. Insbesondere „kennen gelernt“ nicht isoliert als Geheimcode verwerfen: BAG, Urteil vom 15.11.2011, Az. 9 AZR 386/10, Rn. 23 ff., [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/).
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Zeugnisart und Anspruch, Tätigkeitsbild, Leistung und Verhalten und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 3. Mangel und Wunsch trennen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+3.1. Tatsachenfehler: Falsches Eintrittsdatum, ausgelassene prägende Position oder unzutreffende Verantwortung anhand konkreter Belege korrigieren.
 
-## 2. Fachlicher Direktstart
+3.2. Bewertung: Gesamtformel und tatsächliche Leistungstatsachen vergleichen. Für eine Aufwertung über eine durchschnittliche Schlussbeurteilung hinaus genügt der Wunsch nach einem „guten“ Zeugnis nicht. BAG, Urteil vom 18.11.2014, Az. 9 AZR 584/13, Rn. 8 bis 12, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/). Keine einheitliche Beweislastregel auf alle Auslassungs- und Formfragen übertragen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Zeugnisart ist geschuldet und auf welcher Anspruchsgrundlage.
-2. Kernprüfung in einem Durchgang: Welche Tätigkeiten und Verantwortungsstufen müssen hinein, damit das Zeugnis beruflich verwertbar ist; Welche Note wird verlangt und wer trägt für bessere oder schlechtere Bewertung die Darlegungslast.
-3. Belege und Engpass zusammenführen: Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung; besonders kritisch ist: Beendigungsdatum, Funktion oder Zeugnisart ist unklar.
-4. Erstes Arbeitsprodukt liefern: Änderungsmatrix: Satz des Arbeitgebers, Problem, Rechtsanker, gewünschte Fassung, Beleg und Prozessrisiko als Tabelle ausgeben.
+3.3. Klarheit: Verneinungen, Einschränkungen und mehrdeutiges Lob anhand [Paragraf 109 GewO](https://www.gesetze-im-internet.de/gewo/__109.html) im Gesamtzusammenhang prüfen. Für alternative Lesarten deren tatsächlichen Anhaltspunkt nennen; keine frei erfundenen negativen Charaktereigenschaften zuschreiben.
 
-## 3. Kernroute
+3.4. Form: Papierfassung und elektronische Erteilung unterscheiden. Paragraf 109 Absatz 3 GewO lässt elektronische Form mit Einwilligung zu; nach [Paragraf 126a BGB](https://www.gesetze-im-internet.de/bgb/__126a.html) die qualifizierte elektronische Signatur prüfen. Ein eingescanntes Unterschriftsbild allein genügt dafür nicht. Eine gewöhnliche PDF nicht als elektronisches Original freigeben.
 
-1. Zeugnisart und Anspruch: einfach, qualifiziert, Zwischen-, End- oder Ausbildungszeugnis, Fälligkeit, Titel und Vergleichslage bestimmen.
-2. Tätigkeitsbild: Funktion, Aufgaben, Führung, Projekte, Verantwortung, Sonderzweck und Karriereanschluss präzise erfassen.
-3. Leistung und Verhalten: Einzelleistungen, Gesamtformel, Sozialverhalten, Führungsverhalten, Schlussnote und Widersprüche abgleichen.
-4. Klarheit, Wahrheit und Wohlwollen: Geheimcode-Verdacht, Auslassungen, doppeldeutige Formulierungen, Schlussformel und äußere Form prüfen.
-5. Arbeitsprodukt: Zeugnisentwurf, Änderungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsbaustein erstellen.
+3.5. Abschluss: Beendigungsgrund, Datierung und Schlussformel gegen tatsächlichen Auftrag, Zusagen und Vergleich prüfen. Persönliche Wärme nicht als Beweis einer besseren Gesamtnote behandeln. Rechtlichen Anspruch auf eine bestimmte Schlussformel gegebenenfalls gesondert amtlich verifizieren, nicht aus einer Formulierungssammlung ableiten.
 
-## 4. Fallkarte
+## 4. Änderungsmatrix und Anschluss
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GewO Paragraf 109; BGB Paragraf 630; BGB Paragraf 241 Absatz 2 |
-| Rechtsprechung | BAG, Urteil vom 18.11.2014 - 9 AZR 584/13; BAG, Urteil vom 15.11.2011 - 9 AZR 386/10 |
-| Tatbestand | Einfach, qualifiziert, Zwischen-, End- oder Ausbildungszeugnis, Fälligkeit, Titel und Vergleichslage bestimmen |
-| Beweislast | Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung |
-| Rechtsfolge | Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Je Zeile Originalwortlaut und Fundstelle, konkreten Mangel oder bloßen Gestaltungswunsch, Beleg, Ersatzsatz und verbleibendes Risiko ausweisen. Die Ersatzfassung darf nur belegte Tatsachen und Bewertungen enthalten. Gute Stellen ausdrücklich erhalten. Optional vertiefen [Zeugnisklarheit](skills/zeugnisklarheit-objektiver-empfaengerhorizont/SKILL.md) und [Berichtigungsaufforderung](skills/aufforderungsschreiben-berichtigung/SKILL.md) Kontext und Geltendmachung; ohne sie nach den Prüfstationen oben arbeiten.
 
-## 5. Einsatzfelder
+Bei einer Aufforderung Frist aus dem konkreten Auftrag setzen und mögliche vertragliche Ausschlussfristen gesondert prüfen. Keine automatische Dreiwochenfrist aus dem Kündigungsrecht übernehmen. Eine Klage oder Vollstreckung erst bei entsprechendem Auftrag und anhand des konkreten Begehrens beziehungsweise Titels vorbereiten.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Zeugnisart und Anspruch | Einfach, qualifiziert, Zwischen-, End- oder Ausbildungszeugnis, Fälligkeit, Titel und Vergleichslage bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Tätigkeitsbild | Funktion, Aufgaben, Führung, Projekte, Verantwortung, Sonderzweck und Karriereanschluss präzise erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leistung und Verhalten | Einzelleistungen, Gesamtformel, Sozialverhalten, Führungsverhalten, Schlussnote und Widersprüche abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klarheit, Wahrheit und Wohlwollen | Geheimcode-Verdacht, Auslassungen, doppeldeutige Formulierungen, Schlussformel und äußere Form prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Zeugnisentwurf, Änderungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsbaustein erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+## 5. Ausgabe und Grenzen
 
-## 6. Anker
-
-- GewO Paragraf 109: Anspruch auf einfaches oder qualifiziertes Zeugnis, Klarheit, Wahrheit und Verbot versteckter Merkmale.
-- BGB Paragraf 630: Zeugnisanspruch im Dienstverhältnis.
-- BGB Paragraf 241 Absatz 2: Rücksichtnahme auf berufliches Fortkommen und redliche Zeugniserteilung.
-- BGB Paragraf 242: Treu und Glauben bei Schlussformel, Auslassungen, Berichtigung und widersprüchlichem Verhalten.
-- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13: Zur vollen Zufriedenheit ist die durchschnittliche Schlussnote; eine bessere Bewertung muss der Arbeitnehmer darlegen und beweisen.
-- BAG, Urteil vom 15.11.2011 - 9 AZR 386/10: Zeugnisklarheit wird nach objektivem Empfängerhorizont beurteilt; einzelne Wendungen sind nicht losgelöst als Geheimcode zu behandeln.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt.
-7.2. Norm: GewO Paragraf 109; BGB Paragraf 630 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Zeugnisart und Anspruch“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Der Tatsachengrundlage der Bewertung und der Üblichkeit der Formulierung.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Änderungsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Beendigungsdatum, Funktion oder Zeugnisart ist unklar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Der Prüfbericht verwendet vollständige Sätze, dezimale Überschriften und Leerzeilen; Times New Roman 11 pt beziehungsweise Exporthinweis. Eine angeforderte Neufassung bleibt zusammenhängender Zeugnistext, ohne Rechtszitate im Zeugnis. Amtliche Normfassung prüfen; Entscheidungen mit Gericht, Entscheidungsform, Datum, Aktenzeichen und belegter Randnummer angeben. Optional: [Zitierweise](../references/zitierweise.md). Ohne Export vollständigen Text liefern. Fehlende Unterlagen und nicht geprüfte Signaturen offen benennen; nur die betroffene Freigabe zurückstellen. Nichts ungefragt unterschreiben oder versenden.

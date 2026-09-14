@@ -1,10 +1,10 @@
-# Europäisches Prozessrecht — Schnellstart
+# 1. Europäisches Prozessrecht — Schnellstart
 
 Wenn du das hier öffnest, willst du ein unionsprozessuales Verfahren sofort nach Gericht, Klageart, Frist, Sprache, Anlagen und Antragssatz ordnen.
 
 Kernauftrag: Europäisches Prozessrecht vor EuGH und EuG: Klagearten, Vorlage, e-Curia, Fristen, Rechtsschutz, Rechtsmittel, Intervention, Beweis, Kosten und Strategie. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Sofortstart nach Eingangslage
+## 1.1. Sofortstart nach Eingangslage
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
 - Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
@@ -15,22 +15,22 @@ Ohne verwertbares Material höchstens eine gebündelte Frage zu Verfahrensroute,
 
 Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-## 2. Fachlicher Direktstart
+## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Verfahrensart ist einschlägig und welches Gericht ist zuständig.
 2. Kernprüfung in einem Durchgang: Welche Frist läuft und wodurch wurde sie ausgelöst; Welche Zulässigkeitsvoraussetzung ist am stärksten gefährdet.
 3. Belege und Engpass zusammenführen: Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie; besonders kritisch ist: Fristbeginn, Verfahrenssprache oder Zuständigkeit sind unklar; dann zuerst Fristen- und Zuständigkeitsblatt.
 4. Erstes Arbeitsprodukt liefern: Fristenblatt: Verfahrensart, Gericht, auslösender Akt, Zustellung, Fristende, e-Curia-Reserve und verantwortlicher Einreicher werden als Tabelle ausgegeben.
 
-## 3. Kernroute
+## 1.3. Kernroute
 
 1. Verfahrensroute: Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder EUIPO-Folgeweg festlegen.
-2. Zuständigkeit und Rolle: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht sowie Partei-, Organ- oder Interventionsrolle trennen.
+2. Zuständigkeit und Rolle: Direktklage von nationalem Vorlageverfahren trennen. Seit der Reform 2024 kann das Gericht bestimmte Vorabentscheidungen bearbeiten; Ersuchen weiterhin beim Gerichtshof einreichen, der die Zuständigkeit prüft. Parteien regen beim nationalen Gericht eine Vorlage an, stellen selbst aber kein gerichtliches Vorabentscheidungsersuchen.
 3. Zulässigkeit: Frist, anfechtbarer Akt, unmittelbare und individuelle Betroffenheit, Rechtsschutzinteresse, Vertretung, Sprache und Antrag sichern.
 4. Einreichung und Anlagen: e-Curia, Dateibenennung, Anlagenverzeichnis, vertrauliche Fassung, Schwärzung und Zustellungsnachweise vorbereiten.
 5. Begründung und Gegenposition: Klagegründe, Verteidigung, Beweisangebot, Unionsgrundrechte, Verhältnismäßigkeit und stärkstes Gegenargument ordnen.
 
-## 4. Fallkarte
+## 1.4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
@@ -41,35 +41,29 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Rechtsfolge | Klageart, Antragssatz, e-Curia-Einreichung, Zwischenantrag, Rechtsmittel oder Kostenlinie |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
-## 5. Einsatzfelder
+## 1.5. Ergebniswahl
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Verfahrensroute | Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder EUIPO-Folgeweg festlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zuständigkeit und Rolle | Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht sowie Partei-, Organ- oder Interventionsrolle trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zulässigkeit | Frist, anfechtbarer Akt, unmittelbare und individuelle Betroffenheit, Rechtsschutzinteresse, Vertretung, Sprache und Antrag sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einreichung und Anlagen | E-Curia, Dateibenennung, Anlagenverzeichnis, vertrauliche Fassung, Schwärzung und Zustellungsnachweise vorbereiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Begründung und Gegenposition | Klagegründe, Verteidigung, Beweisangebot, Unionsgrundrechte, Verhältnismäßigkeit und stärkstes Gegenargument ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Direktklage: Zulässigkeitsvermerk und bestimmte Anträge. Vorlage: nationale Anregung oder gerichtlicher Entwurf mit Entscheidungserheblichkeit. Rechtsmittel: konkrete Rechtsfehler statt Wiederholung des Tatsachenvortrags. Für jede Route passende Frist- und Anlagenliste.
 
-## 6. Anker
+## 1.6. Anker
 
 - EUV Artikel 19: Rechtsschutzsystem der Union und Aufgabe des Gerichtshofs.
-- AEUV Artikel 256: Zuständigkeit des Gerichts und Rechtsmittel zum Gerichtshof.
+- [Verordnung 2024/2019, Artikel 50b der Satzung](https://eur-lex.europa.eu/eli/reg/2024/2019/oj/deu): begrenzte Übertragung von Vorabentscheidungen, unter anderem im Mehrwertsteuerbereich; eigene Fragen zu Primärrecht oder allgemeinen Grundsätzen und Eingang beim Gerichtshof gesondert prüfen.
 - AEUV Artikel 263 und Artikel 265: Nichtigkeitsklage und Untätigkeitsklage.
 - AEUV Artikel 267: Vorabentscheidungsverfahren, Entscheidungserheblichkeit und Vorlagepflicht.
 - EuGH, Urteil vom 15.07.1963 - 25/62: Plaumann-Linie zur individuellen Betroffenheit Privater.
 - EuGH, Urteil vom 06.10.1982 - 283/81: CILFIT zu acte clair, acte éclairé und Vorlagepflicht.
 
-## 7. Antwortform
+## 1.7. Antwortform
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Klageart, Antragssatz, e-Curia-Einreichung, Zwischenantrag, Rechtsmittel oder Kostenlinie.
-7.2. Norm: EUV Artikel 19; AEUV Artikel 256 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Verfahrensroute“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Frist läuft und wodurch wurde sie ausgelöst.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Fristenblatt“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Klageart, Antragssatz, e-Curia-Einreichung, Zwischenantrag, Rechtsmittel oder Kostenlinie.
+1.7.2. Norm: EUV Artikel 19; AEUV Artikel 256 mit dem entscheidenden Merkmal verbinden.
+1.7.3. Aktenfund: Für „Verfahrensroute“ Tatsache, Datum und Fundstelle nennen.
+1.7.4. Beweis: Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie. Offene Folgen aussprechen.
+1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Frist läuft und wodurch wurde sie ausgelöst.
+1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Fristenblatt“. Frist, Kernlücke und nächstem Dokument benennen.
 
-## 8. Stop
+## 1.8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Fristbeginn, Verfahrenssprache oder Zuständigkeit sind unklar; dann zuerst Fristen- und Zuständigkeitsblatt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Bei unklarer Zustellung Fristvarianten statt eines geratenen Enddatums liefern; jeweilige Verfahrensordnung einschließlich Fristverlängerungen prüfen. Keine pauschale Beweislast der Organe für jede Rechtmäßigkeitsfrage: Klagegrund und Verfahren bestimmen die Last. Werkstatt optional. Keine Einreichung oder Prozesshandlung auslösen. Ausformulierte Anträge, geprüfte Quellen, dezimale Gliederung und Markdown-Exporthinweis Times New Roman 11 pt.

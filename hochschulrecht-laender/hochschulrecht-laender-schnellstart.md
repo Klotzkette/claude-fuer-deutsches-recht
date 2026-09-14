@@ -1,77 +1,25 @@
-# Hochschulrecht Länder — Schnellstart
+# 1. Hochschulrecht: Landesrecht, Ordnung und Entscheidung
 
-Wenn du das hier öffnest, willst du eine schul-, hochschul- oder förderrechtliche Entscheidung nach Rechtsgrundlage, Verfahren, Bewertungsspielraum und Frist angreifen oder absichern.
+Bearbeite mein konkretes Hochschulproblem anhand des betroffenen Landes und der maßgeblichen Hochschulordnung. Dieser Prompt ist eigenständig nutzbar. Er setzt weder installierte Skills noch weitere Repository-Dateien voraus.
 
-Kernauftrag: Hochschulrecht der Länder: Hochschulgesetze, Satzungen, Gremien, Zulassung, Exmatrikulation, Berufung, Drittmittel, Promotion und Aufsicht. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Institution und Verfahrensstand
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Bundesland, Hochschule, öffentliche oder private Trägerschaft, Status der betroffenen Person, Studiengang oder Gremium und gewünschtes Ergebnis. Lies Bescheid, Ordnung, Einladung, Protokoll oder Vertrag zuerst. Unterscheide eine bloße Information von einer verbindlichen Entscheidung. Halte Bekanntgabe, Rechtsbehelfsbelehrung, Semestertermine und tatsächliche Eilfolgen gesondert fest. Frage entscheidende Lücken einmal gebündelt ab. Bei Folgeaufträgen verwende vorhandene Tatsachen weiter.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Rechtsverhältnis und Norm, Verfahren, Bewertung wählen; ohne konkreten Auftrag mit Rechtsverhältnis und Norm beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 1.2 Passenden Weg wählen
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Rechtsverhältnis und Norm, Verfahren, Bewertung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Bei Prüfungen trenne Verfahrensfehler, Tatsachenfehler und fachliche Bewertung; verlange konkrete Aufgaben, Antworten und Korrekturanmerkungen statt einer bloßen Unzufriedenheitsbegründung. Bei Zulassung, Immatrikulation oder Exmatrikulation kläre Status, Studienangebot und Voraussetzungen. Bei Gremienarbeit prüfe Kompetenz, Mitgliedschaft, Einladung, Befangenheit, Beschlussfähigkeit und Abstimmung. Bei Promotion und Berufung ist die jeweils einschlägige Ordnung maßgeblich. Schulrecht ist kein pauschaler Prüfungsmaßstab für Hochschulen.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 1.3 Normen- und Fassungsabgleich
 
-## 2. Fachlicher Direktstart
+Baue eine konkrete Kette aus Landesgesetz, gegebenenfalls Verordnung, Grundordnung, spezieller Satzung und Einzelentscheidung. Erfasse bei jeder Ordnung Beschluss, erforderliche Genehmigung, Veröffentlichung, Inkrafttreten und Übergangsvorschriften. Das Datum auf einem PDF oder ein informeller Webseitenhinweis beweist für sich noch nicht den maßgeblichen Geltungsbeginn. Unterscheide geltendes Recht und geplante Änderung. Eine neue Ordnung gilt nicht automatisch für alle bereits begonnenen Verfahren.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Ordnung in welcher Fassung trägt die Entscheidung und ist sie wirksam bekannt gemacht.
-2. Kernprüfung in einem Durchgang: Wurde das vorgeschriebene Verfahren einschließlich Anhörung eingehalten; Liegt ein überprüfbarer Bewertungsfehler oder nur eine vertretbare Fachwertung vor.
-3. Belege und Engpass zusammenführen: Darlegungs- und Nachweisfrage für Bildungs-, Hochschul- und Wissenschaftsrecht: Liegt ein überprüfbarer Bewertungsfehler oder nur eine vertretbare Fachwertung vor; besonders kritisch ist: Eine Rüge- oder Rechtsbehelfsfrist läuft oder der Prüfungstermin steht unmittelbar bevor.
-4. Erstes Arbeitsprodukt liefern: Widerspruchsbegründung: Sachverhalt, Verfahrensfehler, Bewertungsfehler, Antrag, Fristnachweis.
+Artikel 5 Absatz 3 GG schützt Wissenschaft, Forschung und Lehre. Nutze ihn als verfassungsrechtlichen Bezug, nicht als Ersatz für die konkrete Zuständigkeits- oder Verfahrensregel. Bestimme bei Rechtsschutz erst Entscheidungsart, Landesbesonderheiten, Vorverfahren und Rechtsschutzziel. Entwirf nicht reflexhaft einen Widerspruch. Ein naher Termin verlangt einen priorisierten Eilcheck, keinen Abbruch der Bearbeitung.
 
-## 3. Kernroute
+## 1.4 Konkretes Ergebnis
 
-1. Rechtsverhältnis und Norm: Schul-, Studien-, Prüfungs- oder Förderverhältnis mit maßgeblicher Ordnung in der geltenden Fassung feststellen.
-2. Verfahren: Zuständigkeit, Anhörung, Begründung, Bekanntgabe und Fristen der angegriffenen Entscheidung prüfen.
-3. Bewertung: Bewertungsspielraum, Verfahrensfehler, Antwortspielraum und Sachverhaltsfehler trennen.
-4. Folgen: Wiederholung, Neubewertung, Nachteilsausgleich, Ordnungsmaßnahme oder Fördermittelrückforderung ordnen.
-5. Arbeitsprodukt: Widerspruch, Eilantrag, Klagebegründung, Gremienvorlage oder Förderantrag ausformulieren.
+Liefere nach Auftrag einen Satzungscheck, ein Gremienmemo, einen begründeten Antrag oder einen Rechtsschutzentwurf. Stelle jede tragende Beanstandung mit Tatsachenfund, Normfassung, Gegenargument und möglicher Folge dar. Unterscheide fehlenden Nachweis von feststehendem Verfahrensfehler. Zeige, welches zusätzliche Dokument eine offene Weiche entscheidet. Bei Gremienbeschlüssen nenne etwa Einladungsverteiler, Mitgliederliste, Anwesenheitsliste und Abstimmungsprotokoll; bei Prüfungen Bewertungsunterlagen und maßgeblichen Bearbeitervermerk.
 
-## 4. Fallkarte
+## 1.5 Quellen und Freigabe
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 5 Absatz 3 und Artikel 12 Absatz 1; Landeshochschulgesetze; Landesschulgesetze |
-| Rechtsprechung | BVerfG, Urteil vom 18.07.1972 - 1 BvL 32/70 und 25/71; BVerfG, Beschluss vom 17.04.1991 - 1 BvR 419/81 und 213/83 |
-| Tatbestand | Schul-, Studien-, Prüfungs- oder Förderverhältnis mit maßgeblicher Ordnung in der geltenden Fassung feststellen |
-| Beweislast | Darlegungs- und Nachweisfrage für Bildungs-, Hochschul- und Wissenschaftsrecht: Liegt ein überprüfbarer Bewertungsfehler oder nur eine vertretbare Fachwertung vor |
-| Rechtsfolge | Widerspruch, Eilantrag, Klagebegründung, Gremienvorlage oder Förderantrag ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Rechtsverhältnis und Norm | Schul-, Studien-, Prüfungs- oder Förderverhältnis mit maßgeblicher Ordnung in der geltenden Fassung feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahren | Zuständigkeit, Anhörung, Begründung, Bekanntgabe und Fristen der angegriffenen Entscheidung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bewertung | Bewertungsspielraum, Verfahrensfehler, Antwortspielraum und Sachverhaltsfehler trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Folgen | Wiederholung, Neubewertung, Nachteilsausgleich, Ordnungsmaßnahme oder Fördermittelrückforderung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Widerspruch, Eilantrag, Klagebegründung, Gremienvorlage oder Förderantrag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- GG Artikel 5 Absatz 3 und Artikel 12 Absatz 1: Wissenschaftsfreiheit und Ausbildungsfreiheit.
-- Landeshochschulgesetze: Gremien, Berufungen, Prüfungen und Ordnungsrecht der Hochschulen.
-- Landesschulgesetze: Ordnungsmaßnahmen, Nachteilsausgleich und Schulverhältnis.
-- VwVfG Paragraf 28 und Paragraf 39: Anhörung und Begründung belastender Entscheidungen.
-- Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 12 Abs. 1 GG — Ausbildungs- und Berufszugang; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 3 Abs. 1 GG — Gleichbehandlung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Urteil vom 18.07.1972 - 1 BvL 32/70 und 25/71: Zulassungsbeschränkungen greifen in Artikel 12 ein und verlangen erschöpfende Kapazitätsnutzung.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Widerspruch, Eilantrag, Klagebegründung, Gremienvorlage oder Förderantrag ausformulieren.
-7.2. Norm: GG Artikel 5 Absatz 3 und Artikel 12 Absatz 1; Landeshochschulgesetze mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Rechtsverhältnis und Norm“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Darlegungs- und Nachweisfrage für Bildungs-, Hochschul- und Wissenschaftsrecht: Liegt ein überprüfbarer Bewertungsfehler oder nur eine vertretbare Fachwertung vor. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Das vorgeschriebene Verfahren einschließlich Anhörung eingehalten.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Widerspruchsbegründung“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Eine Rüge- oder Rechtsbehelfsfrist läuft oder der Prüfungstermin steht unmittelbar bevor. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Prüfe Landesrecht in amtlichen Landesportalen und Hochschulsatzungen in der offiziellen Bekanntmachung. Der Bundesanker ist [Artikel 5 GG](https://www.gesetze-im-internet.de/gg/art_5.html). Entscheidungen nur mit geprüftem Gericht, Datum, Aktenzeichen und tragender Aussage verwenden. Ohne Zugriff dokumentiere die konkret fehlende Fassung und liefere den belegbaren Teil. Erfinde keine landesweit einheitlichen Fristen, Notenansprüche oder Zulassungsgarantien. Keine eigenständige Einreichung, Gremienentscheidung oder Kontaktaufnahme. Schreibe vollständige Sätze mit dezimaler Gliederung; bei Dokumentexport Times New Roman in 11 Punkt. Die Werkstatt ist nur eine optionale Vertiefung.

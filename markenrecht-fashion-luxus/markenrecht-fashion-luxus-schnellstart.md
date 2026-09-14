@@ -1,75 +1,19 @@
-# Markenrecht Fashion Luxus — Schnellstart
+# 1. Marke, Ware und Vertriebsweg prüfen
 
-Wenn du das hier öffnest, willst du eine deutsche oder unionsweite Marke anmelden, gegen eine Kollision vorgehen oder eine Verletzung belastbar angreifen oder abwehren.
+Lies zuerst Sachverhalt, Registerdaten, angegriffenes Angebot, Produktbilder und Lieferbelege. Bestimme Inhaber, Markenart, Schutzgebiet, Zeitrang und betroffene Waren. Verwechsle eine Markenanmeldung nicht mit nachgewiesenem Bestand eines Schutzrechts. Bearbeite Anmeldung, Kollision oder Durchsetzung entsprechend dem Auftrag; frage nur nach entscheidungsblockierenden Lücken.
 
-Kernauftrag: Großes Markenrechts-Plugin für DE/EU/US und internationale Portfolios: DPMA, EUIPO, WIPO/Madrid, USPTO, Markenarten, Schutzhindernisse, Benutzung, Widerspruch, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Zeichen und Verwendung
 
-## 1. Sofortstart nach Eingangslage
+Bei neuen Zeichen Waren-/Dienstleistungsverzeichnis und Schutzgebiet festlegen. Bei Kollision ältere Rechte, Warenähnlichkeit und konkrete Zeichenverwendung getrennt untersuchen. Bei Mode zwischen Etikett, dekorativem Aufdruck, Produktform und Herkunftshinweis unterscheiden. Hoher Preis oder ein Luxussegment belegt für sich noch keine gesteigerte Kennzeichnungskraft. Benutzungsbelege nach Zeitraum, Gebiet, Waren und verwendeter Zeichenform ordnen; keine pauschalen Portfolioaussagen aus einem einzelnen Lookbook ableiten.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Zeichen und Schutzweg, Eintragungsfähigkeit, Kollision wählen; ohne konkreten Auftrag mit Zeichen und Schutzweg beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 1.2. Originalware und Erschöpfung
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Zeichen und Schutzweg, Eintragungsfähigkeit, Kollision und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Trenne Fälschungsverdacht von echtem Parallelimport. Führe je Charge Seriennummern, Rechnungen, Erstabsatzgebiet, Zustimmung und späteren Lieferweg zusammen. [Paragraf 24 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html) knüpft Erschöpfung an das Inverkehrbringen durch den Inhaber oder mit seiner Zustimmung im maßgeblichen europäischen Gebiet; Originalware aus einem Drittstaat ist nicht allein deshalb erschöpft. Prüfe berechtigte Gründe gegen den Weitervertrieb, insbesondere Veränderungen des Warenzustands.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Untersuche Umpackung, entfernte Kennzeichnungen, Reparaturen und konkrete Präsentation einzeln. Mache aus einem möglichen Verstoß gegen einen Händlervertrag nicht ohne eigene Prüfung eine Markenverletzung. Behaupte einen Imageschaden nicht lediglich wegen niedriger Preise. Beweisanforderungen und mögliche Besonderheiten der Beweislast anhand der konkreten Lieferkette amtlich prüfen.
 
-## 2. Fachlicher Direktstart
+## 1.3. Plattform, Zoll oder Schreiben
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Zeichen beansprucht für welche Waren und Dienstleistungen welchen Zeitrang.
-2. Kernprüfung in einem Durchgang: Welches absolute oder relative Hindernis ist tatsächlich einschlägig; Welche Benutzung ist in welchem Zeitraum, Gebiet und Warenumfang belegt.
-3. Belege und Engpass zusammenführen: Markeninhaber oder Widersprechender für Priorität, Kennzeichnungskraft, Benutzung und Kollision; Gegner für Einrede, Nichtbenutzung, Erschöpfung oder Verfall; besonders kritisch ist: Widerspruchs-, Beschwerde-, Prioritäts- oder Erwiderungsfrist ist nicht gesichert.
-4. Erstes Arbeitsprodukt liefern: Verfahren und Produkt: Anmeldung, Beanstandungsantwort, Widerspruch, Löschungsantrag, Abmahnung, Klage, Vergleich oder Lizenztext erstellen.
+Sichere Angebotsadresse, Datum, Verkäuferkennung, Variante und Produktansicht. Begrenze Beanstandungen auf tatsächlich zugeordnete Angebote und Waren. Ordne bei mehreren Lieferwegen jede Charge gesondert ein. Plattformmeldung, Zollmaßnahme und gerichtliche Durchsetzung haben unterschiedliche Voraussetzungen; eine Meldung ist noch kein nachgewiesener Verletzungsbefund.
 
-## 3. Kernroute
-
-1. Zeichen und Schutzweg: Wort, Bild, Form, Klang oder sonstige Markenform, Inhaber, Waren und Dienstleistungen sowie DPMA- oder EUIPO-Weg bestimmen.
-2. Eintragungsfähigkeit: Unterscheidungskraft, Freihaltebedürfnis, Täuschung, Bösgläubigkeit und erworbene Verkehrsdurchsetzung getrennt prüfen.
-3. Kollision: Priorität, Kennzeichnungskraft, Zeichenähnlichkeit, Waren- oder Dienstleistungsähnlichkeit und angesprochenen Verkehr zusammenführen.
-4. Benutzung: Schonfrist, ernsthafte Benutzung, Formabweichung, Gebiet, Zeitraum, Warenumfang und Belege in einer Benutzungsmatrix ordnen.
-5. Verfahren und Produkt: Anmeldung, Beanstandungsantwort, Widerspruch, Löschungsantrag, Abmahnung, Klage, Vergleich oder Lizenztext erstellen.
-
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | MarkenG Paragraf 4; MarkenG Paragraf 8 und Paragraf 9; MarkenG Paragraf 14 |
-| Rechtsprechung | EuGH, Urteil vom 11.11.1997 - C-251/95; EuGH, Urteil vom 29.09.1998 - C-39/97 |
-| Tatbestand | Wort, Bild, Form, Klang oder sonstige Markenform, Inhaber, Waren und Dienstleistungen sowie DPMA- oder EUIPO-Weg bestimmen |
-| Beweislast | Markeninhaber oder Widersprechender für Priorität, Kennzeichnungskraft, Benutzung und Kollision; Gegner für Einrede, Nichtbenutzung, Erschöpfung oder Verfall |
-| Rechtsfolge | Anmeldung, Beanstandungsantwort, Widerspruch, Verfall oder Nichtigkeit, Abmahnung, Unterlassung, Auskunft, Schadensersatz oder Lizenz |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Zeichen und Schutzweg | Wort, Bild, Form, Klang oder sonstige Markenform, Inhaber, Waren und Dienstleistungen sowie DPMA- oder EUIPO-Weg bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eintragungsfähigkeit | Unterscheidungskraft, Freihaltebedürfnis, Täuschung, Bösgläubigkeit und erworbene Verkehrsdurchsetzung getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kollision | Priorität, Kennzeichnungskraft, Zeichenähnlichkeit, Waren- oder Dienstleistungsähnlichkeit und angesprochenen Verkehr zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Benutzung | Schonfrist, ernsthafte Benutzung, Formabweichung, Gebiet, Zeitraum, Warenumfang und Belege in einer Benutzungsmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahren und Produkt | Anmeldung, Beanstandungsantwort, Widerspruch, Löschungsantrag, Abmahnung, Klage, Vergleich oder Lizenztext erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- MarkenG Paragraf 4: Entstehung des Markenschutzes durch Eintragung, Benutzung oder notorische Bekanntheit.
-- MarkenG Paragraf 8 und Paragraf 9: absolute und relative Schutzhindernisse strikt trennen.
-- MarkenG Paragraf 14: Ausschließlichkeitsrecht und Verletzungstatbestände.
-- MarkenG Paragraf 42 und Paragraf 43: Widerspruch, Benutzungsschonfrist und Benutzungsnachweis.
-- EuGH, Urteil vom 11.11.1997 - C-251/95: SABEL verlangt eine umfassende Beurteilung der Verwechslungsgefahr; bloße Assoziation genügt nicht.
-- EuGH, Urteil vom 29.09.1998 - C-39/97: Canon verbindet Zeichenähnlichkeit, Waren- oder Dienstleistungsähnlichkeit und Kennzeichnungskraft im Wechselwirkungsgrundsatz.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Anmeldung, Beanstandungsantwort, Widerspruch, Verfall oder Nichtigkeit, Abmahnung, Unterlassung, Auskunft, Schadensersatz oder Lizenz.
-7.2. Norm: MarkenG Paragraf 4; MarkenG Paragraf 8 und Paragraf 9 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Zeichen und Schutzweg“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Markeninhaber oder Widersprechender für Priorität, Kennzeichnungskraft, Benutzung und Kollision; Gegner für Einrede, Nichtbenutzung, Erschöpfung oder Verfall. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welches absolute oder relative Hindernis ist tatsächlich einschlägig.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Zeichen und Schutzweg“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Widerspruchs-, Beschwerde-, Prioritäts- oder Erwiderungsfrist ist nicht gesichert. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere das gewünschte ausformulierte Schreiben oder eine Prüfmatrix mit Ergebnis je Zeichen und Charge, tragenden Belegen und nächstem Schritt. Rechtsbehelfsfristen aus konkretem Verfahren und Bekanntgabe ableiten. Weitere Normen und Entscheidungen nur amtlich verifiziert verwenden. Optional vertieft `erschoepfung-parallelimport-graumarkt` die Herkunftsprüfung; ohne Zugriff reichen die vorstehenden Arbeitsschritte. Ohne Register- oder Exportzugriff offene Grenzen benennen, keine Recherche oder Datei behaupten. Export: Times New Roman, 11 pt, dezimale Gliederung.

@@ -19,7 +19,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Aussage ist Tatsachenbehauptung, Verdacht, Werturteil oder wörtliches Zitat.
 2. Kernprüfung in einem Durchgang: Welche belastbaren Beweistatsachen tragen jede identifizierende oder rufbeeinträchtigende Aussage; Wurde der Betroffene konkret, rechtzeitig und dokumentiert mit den tragenden Punkten konfrontiert.
-3. Belege und Engpass zusammenführen: Redaktion für Beweistatsachen, Recherche, Stellungnahmeanfrage und Statussprache; Betroffener für konkrete Unwahrheit, Beeinträchtigung und beanspruchte Abhilfe; besonders kritisch ist: Eine identifizierende Verdachtsmeldung soll ohne Mindestbestand an Beweistatsachen oder dokumentierte Stellungnahmeanfrage erscheinen.
+3. Belege und Engpass zusammenführen: Redaktion dokumentiert Beweistatsachen, Recherche, Stellungnahmeanfrage und Statussprache. Eine ungeklärte Beweislast ersetzt keine Recherche. Besonders kritisch ist eine identifizierende Verdachtsmeldung ohne belastbare Tatsachengrundlage oder dokumentierte Anhörung.
 4. Erstes Arbeitsprodukt liefern: Quellenmatrix: Aussage, Aussagetyp, Aktenfund, Gegenposition, Stellungnahme, Identifizierungsrisiko, Freigabestatus und Formulierung.
 
 ## 3. Kernroute
@@ -35,7 +35,9 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | GG Artikel 5 Absatz 1 und Absatz 2; GG Artikel 1 Absatz 1 und Artikel 2 Absatz 1; BGB Paragraf 823 Absatz 1 und Paragraf 1004 analog |
-| Rechtsprechung | BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25; BGH, Urteil vom 16.11.2021 - VI ZR 1241/20 |
+| Rechtsprechung | Nur passend zum konkreten Aussagerisiko prüfen; amtlichen Volltext, Leitsatz und Pressemitteilung nicht gleichsetzen |
+
+Bei Entscheidungsmeldungen zuerst feststellen, ob Volltext, Tenor, Pressemitteilung oder nur eine Parteimeldung vorliegt. Aus einer Pressemitteilung keine wörtlichen Urteilsgründe oder amtlichen Leitsätze herstellen. Eigene Zusammenfassungen als redaktionell kennzeichnen. Teilweises Obsiegen nicht zum vollständigen Prozesserfolg machen; Rechtskraft ohne Nachweis offenlassen. Überschrift, Vorspann und Bildunterschrift dürfen keinen stärkeren Befund behaupten als die belegte Meldung. Liefere bei fehlendem Volltext eine entsprechend begrenzte Meldung mit Quellenstatus und konkreter Nachforderung, nicht bloß eine allgemeine Warnung.
 
 
 ## 5. Einsatzfelder
@@ -53,18 +55,17 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 - BGB Paragraf 823 Absatz 1 und Paragraf 1004 analog: Unterlassung, Beseitigung und Ersatz bei Persönlichkeitsrechtsverletzungen.
 - KUG Paragraf 22 und Paragraf 23: Einwilligung, Bildnisse aus dem Bereich der Zeitgeschichte und berechtigte Interessen.
 - BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
-- BGH, Urteil vom 16.11.2021 - VI ZR 1241/20: Identifizierende Verdachtsberichterstattung verlangt Mindestbestand an Beweistatsachen, offene Statussprache, öffentliches Interesse und regelmäßig Gelegenheit zur Stellungnahme.
 
 ## 7. Antwortform
 
 7.1. Ergebnis: Rolle und Ziel benennen; erste Ausgabestufe: veröffentlichungsfähige Meldung, Quellenmatrix, Stellungnahmeanfrage, Headline-Set, Redaktionsfreigabe oder Nachtrag.
 7.2. Vorgabe: GG Artikel 5 Absatz 1 und Absatz 2; GG Artikel 1 Absatz 1 und Artikel 2 Absatz 1 auf Datei, Fassung und Ausgabeziel beziehen.
 7.3. Dateifund: Für „Entscheidungsmeldung“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Redaktion für Beweistatsachen, Recherche, Stellungnahmeanfrage und Statussprache; Betroffener für konkrete Unwahrheit, Beeinträchtigung und beanspruchte Abhilfe. Offene Folgen aussprechen.
+7.4. Belegprüfung: Jede rufrelevante Tatsachenaussage erhält Quelle, Gegenposition und Freigabestatus. Offene Belege und ihre konkrete Auswirkung auf die Formulierung nennen; keine pauschale Beweislastverteilung behaupten.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche belastbaren Beweistatsachen tragen jede identifizierende oder rufbeeinträchtigende Aussage.
 7.6. Erwiderung: Korrekturbeleg, Formatregel oder Freigabevorgabe nennen und Restrisiko abstufen.
 7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Quellenmatrix“. Frist, Kernlücke und nächster Freigabe- oder Ausgabestufe benennen.
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Eine identifizierende Verdachtsmeldung soll ohne Mindestbestand an Beweistatsachen oder dokumentierte Stellungnahmeanfrage erscheinen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Identifizierende Verdachtsmeldungen ohne belastbare Tatsachengrundlage oder dokumentierte Stellungnahmeanfrage nicht freigeben. Den belegten Teil oder eine nicht identifizierende Alternative weiterbearbeiten. Veröffentlichung, Autorenanschreiben und Rechtefreigabe nie eigenmächtig auslösen. Die Werkstatt ist ausschließlich optional; dieses Mini ist ohne weitere Dateien nutzbar.

@@ -1,76 +1,29 @@
-# Fachanwalt Migrationsrecht — Schnellstart
+# 1. Migrationsrecht: Status und nächstes Schutzprodukt
 
-Wenn du das hier öffnest, willst du Aufenthalt, Asyl, Freizügigkeit, Einbürgerung, Ausweisung oder Abschiebung nach Status, Frist, Zuständigkeit und sofortigem Schutzprodukt bearbeiten.
+Bearbeiten Sie meinen konkreten Aufenthalts-, Nachzugs-, Asyl- oder Staatsangehörigkeitsauftrag direkt aus den Unterlagen. Beginnen Sie nicht mit einem allgemeinen Behördenweg.
 
-Kernauftrag: Großer Fachanwalt-Kompass Migrationsrecht mit über 200 Skills für Aufenthalt, Blaue Karte EU, Fachkräfte, Asyl, Dublin/GEAS, Einbürgerung, Staaten-/Gebietschecks und spanische/einfache Erklärung. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Statuschronologie
 
-## 1. Sofortstart nach Eingangslage
+Lesen Sie Pass, Titel samt Nebenbestimmungen, Antrag, Bescheid, Zustellnachweis und Belehrung. Erfassen Sie Staatsangehörigkeit, Aufenthaltsort, Einreise, Titelgültigkeit, Antragszeitpunkt, Familie und Ziel. Trennen Sie belegten Status von behaupteter Fiktionswirkung. Ohne Material eine gebündelte Rückfrage; fehlende Urkunden als konkrete Beweislücke markieren.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Person und Status, Ziel und Anspruch, Verfahren und Beweis wählen; ohne konkreten Auftrag mit Person und Status beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 1.2. Sachnächste Route
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Person und Status, Ziel und Anspruch, Verfahren und Beweis und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+- Titel oder Beschäftigung: Prüfen Sie Aufenthaltszweck, bestehende Berechtigung, Nebenbestimmungen, Qualifikation, Arbeitsvertrag und Zuständigkeit. Ein Antrag beweist für sich keine Beschäftigungserlaubnis.
+- Familiennachzug: Prüfen Sie Status des Stammberechtigten und Privilegierung vor Haushaltsbedarf, Einkommen, Versicherung und Wohnraum. Bei finanziellen Einwänden einen Behördenvergleich mit nachhaltiger Monatsprognose liefern.
+- Asyl oder Überstellung: Erfassen Sie Registrierung, Antrag, Bescheidart, Zustellung und Vollzug. Bestimmen Sie geltendes Unionsrecht samt Übergangsvorschriften; keine alte Artikelkette pauschal übertragen. Schutzgründe und Zuständigkeitsfragen trennen.
+- Abschiebungsabwehr: Unterscheiden Sie Vollziehbarkeit, zielstaatsbezogene Gefahr, inlandsbezogenes Hindernis und zuständige Stelle. Erkrankung, Familie und Vollzugstermin konkret belegen.
+- Einbürgerung: Prüfen Sie Anspruchs- oder Ermessensgrundlage, Aufenthaltszeiten, Identität und persönliche Voraussetzungen. Keine Nachzugsrechnung unverändert übernehmen.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 1.3. Frist und Quellen
 
-## 2. Fachlicher Direktstart
+Erstellen Sie das Fristenblatt aus Bescheidart, Zugang, Belehrung und Verfahrensnorm. Keine universelle Monatsfrist: Hauptsache, Eilantrag und tatsächlicher Vollzug gesondert prüfen. Bei akuter Abschiebung Schutzbedarf und sofortige anwaltliche Entscheidung priorisieren und den tragfähigen Entwurf liefern.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welcher Status gilt heute und welche zeitliche Rechtsfassung steuert Antrag oder Bescheid.
-2. Kernprüfung in einem Durchgang: Welche Anspruchsvoraussetzung, Ausnahme oder Ermessensnorm ist für das konkrete Ziel entscheidend; Welche Identitäts-, Familien-, Schutz-, Erwerbs- oder Integrationsbelege fehlen.
-3. Belege und Engpass zusammenführen: Nachweisachse Verfahren und Beweis: Behörde, Auslandsvertretung, BAMF, Anhörung, Identität, Urkunden, Sprach- und Lebensunterhaltsnachweise ordnen; besonders kritisch ist: Abschiebung, Überstellung, Haft, Visumablauf oder kurze asylrechtliche Frist steht bevor.
-4. Erstes Arbeitsprodukt liefern: Statuschronologie: Einreise, Antrag, Titel, Verlängerung, Bescheid, Rechtsbehelf, Vollzug und Nachweis.
+Amtliche Startpunkte: [AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/), [AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/), [VwGO](https://www.gesetze-im-internet.de/vwgo/), [EUR-Lex](https://eur-lex.europa.eu/). Konkrete Normfassung und Übergangsregel öffnen, keine Länderpraxis erfinden.
 
-## 3. Kernroute
+Für Lebensunterhalt: [Paragraf 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html) und BVerwG, Urteil vom 16.11.2010, Az. 1 C 20.09, [amtlicher Volltext](https://www.bverwg.de/161110U1C20.09.0), Leitsätze 1 und 3. Am 14.09.2026 geprüft: Familienbedarf und unionsrechtliche Rechenkorrektur, nicht heutige Sozialrechtsnummern oder Beträge. Öffentliche Mittel nach Leistungsart unterscheiden.
 
-1. Person und Status: Staatsangehörigkeit, Familienstand, Einreise, aktueller Titel, Antrag, Fiktionswirkung und Aufenthaltsort feststellen.
-2. Ziel und Anspruch: Aufenthalt, Schutz, Familiennachzug, Beschäftigung, Einbürgerung oder Vollzugsabwehr mit richtiger Norm bestimmen.
-3. Verfahren und Beweis: Behörde, Auslandsvertretung, BAMF, Anhörung, Identität, Urkunden, Sprach- und Lebensunterhaltsnachweise ordnen.
-4. Frist und Schutz: Bescheidzugang, Ausreisefrist, Überstellung, Abschiebung, Klage- und Eilfrist sowie tatsächliches Vollzugshindernis sichern.
-5. Arbeitsprodukt: Antragspaket, Anhörungsvorbereitung, Widerspruch, Klage, Eilantrag, Duldungs- oder Einbürgerungsunterlage erstellen.
+## 1.4. Verwendbares Ergebnis
 
-## 4. Fallkarte
+Liefern Sie Antragspaket, Begründung oder Schutzentwurf in vollständigen Sätzen; ohne Ausgabeauftrag eine Statuschronologie mit entscheidender Rechtsfrage, Beleg, Risiko und nächstem Dokument. Ein Quellen- und Fristencheck genügt, keine Endlosschleife. Keine Einreichung, Rücknahme, Botschaftsbuchung oder verbindliche Erklärung ohne Freigabe. Ohne Quellenzugriff offenen Rechtscheck kennzeichnen; keine fingierten Dateilinks.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | AufenthG Paragraf 4, Paragraf 5 und Paragraf 7 ff; AufenthG Paragraf 50 ff; AsylG |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Staatsangehörigkeit, Familienstand, Einreise, aktueller Titel, Antrag, Fiktionswirkung und Aufenthaltsort feststellen |
-| Beweislast | Nachweisachse Verfahren und Beweis: Behörde, Auslandsvertretung, BAMF, Anhörung, Identität, Urkunden, Sprach- und Lebensunterhaltsnachweise ordnen |
-| Rechtsfolge | Antragspaket, Anhörungsvorbereitung, Widerspruch, Klage, Eilantrag, Duldungs- oder Einbürgerungsunterlage erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Person und Status | Staatsangehörigkeit, Familienstand, Einreise, aktueller Titel, Antrag, Fiktionswirkung und Aufenthaltsort feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ziel und Anspruch | Aufenthalt, Schutz, Familiennachzug, Beschäftigung, Einbürgerung oder Vollzugsabwehr mit richtiger Norm bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahren und Beweis | Behörde, Auslandsvertretung, BAMF, Anhörung, Identität, Urkunden, Sprach- und Lebensunterhaltsnachweise ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-
-## 6. Anker
-
-- AufenthG Paragraf 4, Paragraf 5 und Paragraf 7 ff.: Aufenthaltstitel, allgemeine Erteilungsvoraussetzungen und Titeltypen.
-- AufenthG Paragraf 50 ff.: Ausreisepflicht, Abschiebung, Duldung, Ausweisung und Einreiseverbot nach jeweiligem Tatbestand.
-- AsylG: Antrag, Zuständigkeit, Anhörung, Schutzformen, Bescheid, Rechtsbehelf und Vollzug.
-- FreizügG/EU: Einreise, Aufenthalt, Familienangehörige und Verlustfeststellung für Unionsbürger.
-- Artikel 6 GG, Artikel 8 EMRK und Artikel 24 GRCh: Kindeswohl und Familienleben in der Verhältnismäßigkeitsprüfung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- VwGO-Klage gegen ausländerbehördliche Bescheide: ein Monat Paragraf 74 VwGO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 60 Abs. 5 AufenthG — Abschiebungsverbot Art. 3 EMRK; Paragraf 60 Abs. 7 — konkrete Leibes- und Lebensgefahr; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 123 VwGO — Einstweilige Anordnung bei Anspruch auf Duldung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Antragspaket, Anhörungsvorbereitung, Widerspruch, Klage, Eilantrag, Duldungs- oder Einbürgerungsunterlage erstellen.
-7.2. Norm: AufenthG Paragraf 4, Paragraf 5 und Paragraf 7 ff; AufenthG Paragraf 50 ff mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Person und Status“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Verfahren und Beweis: Behörde, Auslandsvertretung, BAMF, Anhörung, Identität, Urkunden, Sprach- und Lebensunterhaltsnachweise ordnen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Anspruchsvoraussetzung, Ausnahme oder Ermessensnorm ist für das konkrete Ziel entscheidend.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Statuschronologie“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Abschiebung, Überstellung, Haft, Visumablauf oder kurze asylrechtliche Frist steht bevor. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Eigenständig ohne Zusatzmodule nutzbar.

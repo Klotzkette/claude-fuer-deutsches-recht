@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "influencer-recht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/uwg_2004/__5a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Volltext Absatz 4: kommerzieller Zweck, Fremdwerbung ohne Gegenleistung und Vermutung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Content- und Rechteprüfung waren passend, aber die Einleitung versprach Rechtssicherheit und die Agenturregel unterstellte eine pauschale HGB-Analogie.",
+    "changes": [
+      "Garantie und automatische Analogie entfernt.",
+      "Gegenleistungsbilanz mit Eigen- und Fremdwerbung ergänzt.",
+      "Werbelabel von Musiklizenz und Claimprüfung getrennt."
+    ],
+    "sha256": "eb464683939b23ecc7254e60bf0b7980124c72a38b39615533a9e0c2feae80c0"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die Kennzeichnung eines bezahlten Reels und seine Musikrechte.",
+      "Prüfe einen Brand Deal mit Produktvergütung und Affiliate-Link."
+    ],
+    "negative": [
+      "Erstelle die Umsatzsteuerjahreserklärung meines Handelsbetriebs.",
+      "Verteidige einen privaten Nutzer gegen eine Verkehrsstraftat."
+    ]
+  },
+  "cases": [
+    {
+      "id": "reel-geschenk-geld-musik",
+      "request": "Eine Creatorin soll morgen ein Kosmetik-Reel veröffentlichen. Die Marke zahlt 1.200 Euro und überlässt Produkte für 300 Euro. Das Reel enthält einen Kauflink, aber nur am Ende der aufgeklappten Beschreibung den Hinweis 'Kooperation'. Die Musik wurde aus einem privaten Streamingkonto übernommen; eine Lizenz für Werbung liegt nicht vor. Der Vertrag erlaubt der Marke zusätzlich sechs Monate bezahlte Anzeigen mit dem Reel. Die Marke erklärt, der Kooperationshinweis reiche für alles. Erstelle ergebnis.md als konkrete Änderungs- und Freigabeliste, ohne zu posten und ohne steuerliche Berechnung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt den belegten kommerziellen Zweck und verlangt eine ohne Aufklappen erkennbare, eindeutige Kennzeichnung statt Freigabe der bisherigen Platzierung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt die private Streamingnutzung nicht als nachgewiesene Werbelizenz und prüft auch die geplante Anzeigenverwendung gesondert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert konkrete Änderungen und hält die Veröffentlichung bis zur Klärung der Musikrechte offen, statt alle Risiken durch ein Werbelabel als erledigt anzusehen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "infl-002-werbekennzeichnung-instagram-story-reel-tiktok-youtube"
+    }
+  ]
+}

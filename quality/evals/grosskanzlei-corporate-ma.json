@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "grosskanzlei-corporate-ma",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
+      "checked_on": "2026-09-14",
+      "supports": "Verpflichtung zur Abtretung und Abtretungsvertrag sind getrennte formbedürftige Vorgänge."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Das bereits individuell ausgearbeitete Mini entspricht der Werkstatt. Ergänzungsbedarf bestand nur beim konkreten Erfüllungsnachweis einer Closing-Bedingung.",
+    "changes": [
+      "Originalbedingung, Erfüllungsbeleg und Verzicht getrennt.",
+      "Angekündigte Bankfreigabe nicht als erteilt behandelt."
+    ],
+    "sha256": "921dfd42579b2d3110e1175e1253bfa36ebd42b0c2963c0121ab3dd5f943f726"
+  },
+  "selection": {
+    "positive": [
+      "Gleiche den Closing-Tracker mit den tatsächlich vorliegenden Bankzustimmungen ab.",
+      "Übersetze ein Due-Diligence-Finding in eine konkrete SPA-Vertragsreaktion."
+    ],
+    "negative": [
+      "Erstelle ausschließlich eine private Patienten-Honorareinwendung.",
+      "Berechne eine Grundsteuer anhand eines kommunalen Bescheids."
+    ]
+  },
+  "cases": [
+    {
+      "id": "bankzustimmung-nur-angekuendigt",
+      "request": "Erstelle ergebnis.md als Closing-Vermerk für den Käufer aller Anteile an einer GmbH. Der notarielle Vertrag ist unterzeichnet. Die Abtretung steht ausdrücklich unter der aufschiebenden Bedingung einer schriftlich erteilten Bankzustimmung; auf diese Bedingung darf laut Vertrag nur mit gemeinsamer schriftlicher Erklärung beider Parteien verzichtet werden. Die einzige Bankmail lautet: Wir erwarten die interne Freigabe morgen. Eine erteilte Zustimmung liegt nicht vor. Der Verkäufer bittet heute telefonisch um einen grünen Closing-Status; der Käufer hat nichts erklärt. Sämtliche anderen Bedingungen sind nachweislich erfüllt. Prüfe den Tracker und formuliere die konkrete offene Position.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die erwartete Freigabe wird nicht als bereits erteilte schriftliche Bankzustimmung gewertet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Signing und Erfüllung anderer Bedingungen führen nicht zur Behauptung eines bereits eingetretenen Anteilübergangs.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Vermerk benennt fehlenden Zustimmungsbeleg beziehungsweise nicht erklärten gemeinsamen Verzicht und setzt keine eigene Freigabe oder Zahlung in Gang.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "signing-closing-conditions-cp-tracker"
+    }
+  ]
+}

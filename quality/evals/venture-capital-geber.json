@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "plugin": "venture-capital-geber",
+  "reviewed_on": "2026-09-14",
+  "sources": [{"url": "https://www.gesetze-im-internet.de/gmbhg/__55.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: Form der Übernahmeerklärung bei Kapitalerhöhung; Cap-Table-Rechnung ersetzt den rechtlichen Vollzug nicht."}],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Mini und Werkstatt waren überwiegend auf Unternehmenskauf zugeschnitten. Der gelesene Cap-Table-Skill nennt Verwässerung, lieferte im Mini aber keine konkrete Rechenlogik.",
+    "changes": ["Primärfinanzierung und Sekundärerwerb getrennt", "Pre-Money, Post-Money, Pool und wandelbare Instrumente als Rechenbasis ergänzt", "DD-Befund mit Finanzierungsbedingung verbunden", "Fachferne Standardentscheidungen und starre Zweiwochen-Stopregel entfernt"],
+    "sha256": "260e66674db09e4a97a968fe0b13fa79c79e98caa456219ef6eb281056fb5ac7"
+  },
+  "selection": {
+    "positive": ["Rechne die Verwässerung unseres VC-Tickets einschließlich der Poolaufstockung vor der Runde nach.", "Bereite eine Investitionsvorlage mit Cap Table, Kontrollrechten und Closing-Lücken vor."],
+    "negative": ["Erstelle ausschließlich die Steuererklärung eines privaten Aktionärs.", "Prüfe einen vollständigen Asset Deal ohne Finanzierungsrunde oder Minderheitsbeteiligung."]
+  },
+  "cases": [{
+    "id": "pool-pre-money-verwasserung",
+    "request": "Erstelle ergebnis.md als Investitionsvorlage mit rechnerischem Cap Table. Die Gründer halten zusammen 8.000 wirtschaftliche Recheneinheiten. Das Term Sheet definiert 8 Millionen Euro Pre-Money ausdrücklich einschließlich eines vor der Runde neu einzurichtenden Pools von 2.000 weiteren Recheneinheiten. Ein Investor zahlt 2 Millionen Euro ausschließlich als Primärkapital. Es gibt keine Wandeldarlehen, weiteren Optionen, Transaktionskosten oder Sekundärverkäufe. Die Einheiten sind nur eine Bewertungsrechnung, keine behaupteten GmbH-Nennbeträge. Zeige Preis pro Einheit, neue Investoreneinheiten, Quoten und die erforderliche Abgrenzung zum rechtlichen Vollzug. Es liegen noch keine notariellen Erklärungen vor.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id": "C01", "text": "Die Rechnung verwendet 10.000 Einheiten vor der Runde und 800 Euro je Einheit; der Investor erhält rechnerisch 2.500 Einheiten.", "deliverables": ["ergebnis.md"]},
+      {"id": "C02", "text": "Die Post-Runden-Quoten werden mit Gründer 64 Prozent, Pool 16 Prozent und Investor 20 Prozent konsistent auf 12.500 Einheiten berechnet.", "deliverables": ["ergebnis.md"]},
+      {"id": "C03", "text": "Das Ergebnis setzt die Recheneinheiten nicht mit Nennkapital gleich und behauptet ohne formgerechte Übernahme und weitere Vollzugsprüfung keinen bereits entstandenen Geschäftsanteil.", "deliverables": ["ergebnis.md"]}
+    ],
+    "target_skill": "cap-table-grundlagen"
+  }]
+}

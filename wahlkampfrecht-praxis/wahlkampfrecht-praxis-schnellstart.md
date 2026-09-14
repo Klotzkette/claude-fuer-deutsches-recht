@@ -1,77 +1,29 @@
-# Wahlkampfrecht Praxis — Schnellstart
+# 1. Wahlkampfrecht: konkrete Aktion freigabefähig prüfen
 
-Wenn du das hier öffnest, willst du eine Grundrechtsrüge zulässig und schlüssig begründen.
+Bearbeite den vorgelegten Wahlkampfvorgang für Partei, Kandidierende, Schatzmeisterei oder Kampagnenteam. Liefere einen kurzen Freigabe-, Änderungs- oder Sperrvermerk mit Verantwortlichen und Belegen. Eine Verfassungsbeschwerde ist kein Standardprodukt für Plakate, Anzeigen oder Spenden.
 
-Kernauftrag: Wahlkampfrecht und Wahlkampfpraxis für Parteien, Kandidierende und Kampagnenteams: Strategie, Plakatierung, Social Media, Datenschutz, politische Werbung, Parteienfinanzierung, Desinformation, Veranstaltungen, Schulen. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Rolle und Maßnahme zuerst
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Wahlart, Gebiet, Bundesland, Wahltermin, handelnde Organisation, Geldgeber, Medium und geplanten Veröffentlichungstag. Partei, Fraktion, Amtsstelle und privates Kandidatenteam nicht gleichsetzen. Bei bereitgestellten Unterlagen zuerst Spendenlog, Buchungsauftrag, Screenshot, Bescheid oder Kampagnenentwurf lesen; fehlende Angaben nur gebündelt und entscheidungsbezogen nachfragen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Beschwerdegegenstand, Hoheitsakt, Zulässigkeit, Schutzbereich, Eingriff wählen; ohne konkreten Auftrag mit Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Trenne politische Zweckmäßigkeit von rechtlicher Zulässigkeit. Welche konkrete Handlung soll jetzt erfolgen: Geld verwenden, Anzeige buchen, Plakat aufstellen, Datenliste übertragen oder auf eine Behörde reagieren? Budgetfreigabe ersetzt weder Herkunftsprüfung noch erforderliche Genehmigung. Ohne Dateiwerkzeug mit dem eingefügten Sachverhalt weiterarbeiten, ohne Export vollständigen Text liefern.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Beschwerdegegenstand, Hoheitsakt, Zulässigkeit, Schutzbereich, Eingriff und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Finanzierung nachvollziehbar prüfen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei Parteispenden nach Paragraf 25 PartG Zahlungsdatum, Einzelbetrag, Jahresgesamtbetrag, Spenderidentität, Herkunft, Empfänger und etwaige Gegenleistung erfassen. Geldspende, Sachleistung und Sponsoring nicht bloß nach der Buchungsbezeichnung einordnen. Bei Weiterleitung den wirtschaftlichen Zuwender klären. Verbotstatbestände zuerst prüfen; eine Meldung heilt keine unzulässige Annahme.
 
-## 2. Fachlicher Direktstart
+Nach dem aktuellen Absatz 3 sind Spenden im Einzelfall über 35000 Euro unverzüglich dem Präsidenten des Deutschen Bundestages anzuzeigen. Davon getrennt ist der Jahresausweis bei einem Gesamtwert über 10000 Euro unter Einbeziehung der dort genannten Beiträge und Gebietsverbände. Genau 35000 Euro sind nicht mehr als 35000 Euro. Zahlungen nicht künstlich zerlegen; bei verbundenen Vorgängen den tatsächlichen Zusammenhang prüfen, aber unabhängige Spenden nicht ohne Begründung zum Einzelfall zusammenrechnen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Grundrecht oder Organrecht ist betroffen.
-2. Kernprüfung in einem Durchgang: Welcher Hoheitsakt und welche Frist sind entscheidend; Ist der Rechtsweg erschöpft und die Subsidiarität gewahrt.
-3. Belege und Engpass zusammenführen: Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit; besonders kritisch ist: Frist nach BVerfGG läuft.
-4. Erstes Arbeitsprodukt liefern: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
+Für jede Zuwendung eine Zeile mit Annahmeprüfung, Einzelmeldeschwelle, Jahresausweis, fehlendem Nachweis und zuständiger Schatzmeisterei liefern. Kein veraltetes 50000-Euro-Limit verwenden. Amtliche Grundlage: [Paragraf 25 PartG](https://www.gesetze-im-internet.de/partg/__25.html). Meldung oder Rückleitung lediglich vorbereiten, nicht selbst vornehmen.
 
-## 3. Kernroute
+## 1.3. Andere Kampagnenwege
 
-1. Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
-2. Zulässigkeit: Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen.
-3. Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen.
-4. Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten.
-5. Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
+Bei Plakatierung Standortliste, Zeitraum, straßenrechtliche Erlaubnis und örtliche Bedingungen abgleichen; keine bundesweit einheitliche Plakatfrist erfinden. Bei Online-Werbung Auftraggeber, Finanzierer, Kennzeichnung, Zielgruppe, Datenherkunft und Plattformvorgaben erfassen. Die einschlägige Fassung der Verordnung (EU) 2024/900 sowie Datenschutz- und Plattformregeln amtlich beziehungsweise beim Anbieter prüfen, bevor eine konkrete Kampagne freigegeben wird. Ungeprüfte politische Profilbildung nicht durch einen allgemeinen Einwilligungssatz legitimieren.
 
-## 4. Fallkarte
+Bei Äußerungen Tatsachen, Wertungen und Zitate trennen. Rufrelevante Vorwürfe mit belastbaren Belegen und Gegenposition prüfen. Keine falschen Angaben zu Wahlzeit, Wahlort oder Wahlverfahren verbreiten. Bei Nutzung amtlicher Ressourcen deren Herkunft, Personal, Kosten und Rolle offenlegen und die einschlägigen Neutralitäts- und Gleichbehandlungsregeln fallbezogen prüfen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1; GG Artikel 3 Absatz 1 |
-| Rechtsprechung | BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56 |
-| Tatbestand | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen |
-| Beweislast | Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit |
-| Rechtsfolge | Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.4. Teamtaugliches Ergebnis
 
-## 5. Einsatzfelder
+Liefere zuerst die Entscheidung zur konkreten Aktion, dann eine knappe Tabelle: Handlung, Beleg, Regel, Befund, Korrektur, verantwortliche Rolle, Termin. Bei mehreren Aktionen separat freigeben oder sperren. Ein unklarer Spender darf nicht die Prüfung einer unabhängigen, vollständig belegten Plakataktion blockieren.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Beschwerdegegenstand, Hoheitsakt | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zulässigkeit | Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schutzbereich, Eingriff | Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten | Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- GG Artikel 1 Absatz 1: Menschenwürdebindung aller Staatsgewalt.
-- GG Artikel 2 Absatz 1: allgemeine Handlungsfreiheit.
-- GG Artikel 3 Absatz 1: Gleichheitssatz.
-- GG Artikel 12 Absatz 1: Berufsfreiheit.
-- Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
-- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung.
-7.2. Norm: GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Beschwerdegegenstand, Hoheitsakt“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welcher Hoheitsakt und welche Frist sind entscheidend.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Beschwerdegegenstand, Hoheitsakt“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Frist nach BVerfGG läuft. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Belege mit Datum, URL oder Dokumentstelle sichern; Screenshots nicht als verifizierte Wahrheit behandeln. Quellenlücken klar benennen und nach einem begründeten Alternativabruf den Teilstand liefern. Keine Zahlungen, Anzeigenbuchungen, Behördenkontakte oder Veröffentlichungen ohne ausdrückliche Freigabe auslösen. Werkstatt und weitere Skills sind nur optionale Vertiefung; dieses Mini kann ohne Repositoryzugriff arbeiten.

@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-transport-speditionsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__431.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gewichtshaftung mit 8,33 Sonderziehungsrechten, besondere Gewichtszuordnung bei Teilverlust und Kursbezug."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__435.html",
+      "checked_on": "2026-09-14",
+      "supports": "Haftungsdurchbrechung bei Vorsatz oder Leichtfertigkeit mit Bewusstsein wahrscheinlichen Schadenseintritts."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__438.html",
+      "checked_on": "2026-09-14",
+      "supports": "Vermutungsfolge bei verspäteter Verlustanzeige im Gegensatz zum Erlöschen von Ansprüchen wegen Lieferfristüberschreitung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__439.html",
+      "checked_on": "2026-09-14",
+      "supports": "Einjährige beziehungsweise qualifizierte dreijährige Verjährung, Anspruchserhebung und Ablehnung in Textform; keine erneute Hemmung durch gleiche Erklärung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 13.06.2012, Az. I ZR 87/11, Leitsätze: sekundäre Darlegung bei geöffnetem und wieder verschlossenem Packstück und rechtzeitige Wertmitteilung. CMR-Fall, Übertragung auf HGB ausdrücklich begrenzt. Amtliches PDF direkt abgerufen und textlich gelesen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der alte Schnellstart bezeichnete die Beteiligtenaufnahme als Beweislastprüfung und erklärte bereits eine in zwei Wochen ablaufende Frist zum Abbruchgrund. Die verschiedenen Folgen von Anzeige und Verjährung waren nicht unterscheidbar.",
+    "changes": [
+      "Regimewahl vor Gewichtsrechnung und Fristen gestellt.",
+      "Packinhalt, Quittung, Scans und Manipulationsbelege individuell verbunden.",
+      "Vermutungswirkung der Verlustanzeige von Erlöschen beim Lieferverzug und Verjährung getrennt.",
+      "Regressglieder separat erfasst und konkrete Fristsicherung zur Freigabe statt Arbeitsabbruch verlangt."
+    ],
+    "sha256": "d79594cc360cf3f5ee60825f7213d41a0b80b85df8063fa46421b1de8186aeab"
+  },
+  "selection": {
+    "positive": [
+      "Ein neu verklebter Karton enthält vier Geräte weniger; stellen Sie Packbeweise, Haftungsgrenze und mögliche Organisationsmängel gegenüber.",
+      "Der Frachtführer lehnt wegen später Anzeige jeden Ersatz für einen verdeckten Teilverlust ab; erstellen Sie Beweiskette und Gegenrechnung nach HGB."
+    ],
+    "negative": [
+      "Prüfen Sie nur Exportgenehmigungen für eine unbeschädigte Maschine.",
+      "Berechnen Sie ausschließlich den Schaden aus verspäteter Lieferung ohne Verlust oder Beschädigung."
+    ],
+    "target_skill": "teilverlust-packstueckabgleich-haftungsdurchbrechung"
+  },
+  "cases": [
+    {
+      "id": "wiederverklebter-karton-spaete-anzeige",
+      "request": "Wir vertreten den Absender einer entgeltlichen innerdeutschen Straßensendung von Stuttgart nach Hamburg; deutsches HGB gilt, keine ADSp oder abweichenden Haftungsvereinbarungen. Erstellen Sie ergebnis.md mit Beweismatrix, Betragsvarianten und Reklamationsentwurf. Ein versiegelter Karton mit zehn identischen Messgeräten wurde am 01.06.2026 vom Frachtführer übernommen und am 03.06.2026 äußerlich unauffällig quittiert. Ein durchgehendes Packvideo, Seriennummernliste und Ausgangswägung belegen zehn Geräte. Die Empfängerin öffnete den bis dahin im verschlossenen Lager unbeaufschlagt gebliebenen Karton am 05.06.2026 vor zwei namentlich benannten Mitarbeitern und fand nur sechs Geräte; die Unterseite war unter dem Originalband mit fremdem Band neu verschlossen. Fotos und Lagerzugangsprotokoll liegen vor. Jedes Gerät hat einen nachgewiesenen Wert am Übernahmeort von 4.000 EUR; die restlichen Geräte sind uneingeschränkt einzeln nutzbar. Das nach HGB maßgebliche Rohgewicht der vier verlorenen Geräte einschließlich zugehöriger Verpackung ist unstreitig 20 Kilogramm. Für diese Fallrechnung ist ein von beiden Seiten vereinbarter Umrechnungskurs von 1,20 EUR je Sonderziehungsrecht anzusetzen; keine Aussage zu einem realen Tageskurs erforderlich. Der Wert von 40.000 EUR wurde dem Disponenten vor Vertragsschluss schriftlich mitgeteilt und bestätigt. Der Sendungsscan nennt eine manuelle Nachbearbeitung im Umschlaglager, aber keine Ausgangswägung; nähere Kontrollabläufe kennt der Absender nicht. Die erste Verlustanzeige und bezifferte Ersatzforderung ging am 12.06.2026 per E-Mail ein. Eine Ablehnung in Textform ging am 20.06.2026 ein und beruft sich auf verspätete Anzeige und vollständige Ablieferung. Weitere Korrespondenz, Zahlungen und Nebenkosten fehlen. Beurteilen Sie Anspruch und Beweisstrategie nach dem Stand 14.09.2026; keinen sicheren Diebstahl behaupten, nicht versenden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis berechnet 16.000 EUR Warenverlust und 199,92 EUR reguläre Gewichtsgrenze aus 20 mal 8,33 mal 1,20, ohne das Gesamtgewicht aller zehn Geräte oder einen erfundenen Tageskurs anzusetzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die verspätete Anzeige vom 12.06.2026 wird als Vermutungsproblem des verdeckten Verlusts behandelt, nicht als automatisches Erlöschen. Die Siebentagefrist wird an die Ablieferung und nicht an die Entdeckung am 05.06.2026 geknüpft.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Packvideo, Neuverklebung und gesicherte Lagerzeit werden gegen Ablieferquittung und alternative Verlustzeitpunkte gewürdigt; aus dem fehlenden Scan wird kein automatischer Nachweis qualifizierten Verschuldens. Konkrete Nachforschungsfragen und ursprüngliche Beweislast bleiben erkennbar.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Verjährung und Hemmungsintervall durch Forderung am 12.06.2026 bis Ablehnung am 20.06.2026 werden gesondert behandelt; ein weiteres Reklamationsschreiben wird nicht als erneute Hemmung desselben Anspruchs empfohlen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Die unbeschränkte Haftungsvariante bleibt vom Nachweis der Voraussetzungen abhängig; die vor Vertragsschluss bestätigte Wertmitteilung wird gegen ein pauschales Wertwarnungs-Mitverschulden ausgewertet. Der CMR-Anker wird nicht als unmittelbar geltendes Haftungsregime bezeichnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "teilverlust-packstueckabgleich-haftungsdurchbrechung"
+    }
+  ]
+}

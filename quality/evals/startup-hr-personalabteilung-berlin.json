@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "startup-hr-personalabteilung-berlin",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/betrvg/__87.html",
+      "checked_on": "2026-09-14",
+      "supports": "Mitbestimmung insbesondere bei Arbeitszeitgestaltung und technischen Einrichtungen zur Überwachung von Verhalten oder Leistung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eine Personalabteilung muss konkrete Einführungsschritte und Beteiligungen prüfen, nicht Berliner Standortangaben mit materieller Zulässigkeit verwechseln.",
+    "changes": [
+      "Personalmaßnahme, Betriebsrat und Vollzugsstand vor allgemeinen HR-Fragen erhoben.",
+      "Arbeitszeiterfassung von zusätzlicher Überwachung getrennt.",
+      "Beteiligung und Datenschutz als getrennte Freigabevoraussetzungen dargestellt."
+    ],
+    "sha256": "c09398405a6c2964bd9dd84f6ee5bc2126761644c968f59bd52088dde5c05e79"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie die Einführung einer digitalen Zeiterfassung mit Betriebsrat in unserem Berliner Unternehmen.",
+      "Erstellen Sie eine fallbezogene HR-Entscheidungsvorlage vor einer Personalmaßnahme."
+    ],
+    "negative": [
+      "Planen Sie eine Finanzierungsrunde ohne Personalbezug.",
+      "Führen Sie ein sozialgerichtliches Rentenverfahren für eine ehemalige Mitarbeiterin."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zeiterfassung-mit-bildschirmkontrolle",
+      "request": "Ein Berliner Softwareunternehmen mit 100 Beschäftigten und bestehendem Betriebsrat will ab Montag ein neues Zeiterfassungssystem aktivieren. Es soll Beginn und Ende der Arbeit erfassen, zusätzlich alle fünf Minuten Bildschirmfotos speichern und Tastaturaktivität personenbezogen auswerten. Die Leitung begründet sämtliche Funktionen allein mit der Pflicht zur Arbeitszeiterfassung. Der Betriebsrat wurde noch nicht beteiligt; eine Betriebsvereinbarung fehlt. Zweck, Zugriff und Löschfristen der Bildschirmdaten wurden nicht festgelegt. Erstellen Sie ergebnis.md als Entscheidungsvorlage für HR mit getrennten offenen Freigabepunkten und einem kurzfristigen Vorgehen. Nehmen Sie keine Systemänderung vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Ausgabe unterscheidet die Erfassung von Arbeitszeiten von zusätzlicher Bildschirm- und Tastaturüberwachung und leitet deren Zulässigkeit nicht pauschal aus einer Zeiterfassungspflicht ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die konkret vorhandene Betriebsratsbeteiligung wird insbesondere wegen technischer Verhaltens- oder Leistungskontrolle geprüft; fehlende Beteiligung wird nicht durch einseitige HR-Freigabe ersetzt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Datenschutzfragen zu Zweck, Erforderlichkeit, Zugriff und Löschung bleiben eigenständige Prüfungen; selbst eine spätere Betriebsvereinbarung wird nicht als automatische Heilung sämtlicher Datenschutzmängel dargestellt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "berlin-kaltstart-routing-hr-command-center"
+    }
+  ]
+}

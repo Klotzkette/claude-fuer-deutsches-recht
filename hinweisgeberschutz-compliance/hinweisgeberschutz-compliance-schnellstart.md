@@ -1,10 +1,10 @@
-# Hinweisgeberschutz Compliance — Schnellstart
+# 1. Hinweisgeberschutz Compliance: Schnellstart
 
 Wenn du das hier öffnest, willst du eine Meldung schützen, untersuchen und fristgerecht bearbeiten, ohne Vertraulichkeit, Unschuldsvermutung oder Repressalienschutz zu beschädigen.
 
 Kernauftrag: Hinweisgeberschutzgesetz in der Praxis: interne/externe Meldestelle, NDA-Konflikte, Repressalien, Untersuchungen, Datenschutz und Governance. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Sofortstart nach Eingangslage
+## 1.1. Sofortstart nach Eingangslage
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
 - Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
@@ -15,14 +15,14 @@ Ohne verwertbares Material höchstens eine gebündelte Frage zu Meldung und Schu
 
 Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-## 2. Fachlicher Direktstart
+## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Fällt Person und gemeldeter Verstoß in den Anwendungsbereich.
 2. Kernprüfung in einem Durchgang: Welche Frist läuft seit welchem dokumentierten Ereignis; Wer darf welche Identität oder Information kennen.
 3. Belege und Engpass zusammenführen: Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren; besonders kritisch ist: Identität oder Meldungsinhalt wird ohne gesetzliche Grundlage offengelegt.
 4. Erstes Arbeitsprodukt liefern: Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen.
 
-## 3. Kernroute
+## 1.3. Kernroute
 
 1. Meldung und Schutz: Person, Meldekanal, Eingangszeit, sachlicher Anwendungsbereich, Gutgläubigkeit und Vertraulichkeitskreis feststellen.
 2. Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren.
@@ -30,18 +30,13 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 4. Repressalie: nachteilige Maßnahme, zeitlicher Zusammenhang, behaupteter anderer Grund und Beweislastvermutung prüfen.
 5. Arbeitsprodukt: Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen.
 
-## 4. Fallkarte
+## 1.4. Rückmeldung ist kein Abschlussbericht
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | HinSchG Paragraf 1 bis Paragraf 3; HinSchG Paragraf 12 bis Paragraf 18; HinSchG Paragraf 19 bis Paragraf 31 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Person, Meldekanal, Eingangszeit, sachlicher Anwendungsbereich, Gutgläubigkeit und Vertraulichkeitskreis feststellen |
-| Beweislast | Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren |
-| Rechtsfolge | Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Bei internen Meldungen ist der Eingang nach [Paragraf 17 HinSchG](https://www.gesetze-im-internet.de/hinschg/__17.html) spätestens nach sieben Tagen zu bestätigen. Die Rückmeldung erfolgt innerhalb von drei Monaten nach Bestätigung; ohne Bestätigung spätestens drei Monate und sieben Tage nach Eingang. Halte beide Ereignisse mit Nachweis fest, statt drei Monate pauschal ab Eingang zu rechnen. Trenne externe Meldeverfahren davon.
 
-## 5. Einsatzfelder
+Entwirf eine Rückmeldung zu geplanten und ergriffenen Folgemaßnahmen samt Gründen. Behaupte keine abgeschlossene Untersuchung, wenn Befragungen oder Datenabgleiche fehlen. Beschränke Einzelheiten zum Schutz laufender Nachforschungen und betroffener Personen. Führe Verdacht, bestätigten Befund und Entlastungsmaterial getrennt. Identitäten gehören nicht automatisch in einen allgemeinen Managementbericht. Benenne für jede Datenweitergabe Zweck, Empfänger und noch zu prüfende Grundlage.
+
+## 1.5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -51,23 +46,23 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Repressalie | Nachteilige Maßnahme, zeitlicher Zusammenhang, behaupteter anderer Grund und Beweislastvermutung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 6. Anker
+## 1.6. Anker
 
 - HinSchG Paragraf 1 bis Paragraf 3: Ziel, persönlicher und sachlicher Anwendungsbereich sowie Begriffe.
 - HinSchG Paragraf 12 bis Paragraf 18: Einrichtung, Organisation und Verfahren interner Meldestellen.
 - HinSchG Paragraf 19 bis Paragraf 31: externe Meldestellen und deren Verfahren.
 - HinSchG Paragraf 33: Voraussetzungen für den Schutz hinweisgebender Personen.
 
-## 7. Antwortform
+## 1.7. Antwortform
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen.
-7.2. Norm: HinSchG Paragraf 1 bis Paragraf 3; HinSchG Paragraf 12 bis Paragraf 18 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Meldung und Schutz“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Frist läuft seit welchem dokumentierten Ereignis.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Meldung und Schutz“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen.
+1.7.2. Norm: HinSchG Paragraf 1 bis Paragraf 3; HinSchG Paragraf 12 bis Paragraf 18 mit dem entscheidenden Merkmal verbinden.
+1.7.3. Aktenfund: Für „Meldung und Schutz“ Tatsache, Datum und Fundstelle nennen.
+1.7.4. Beweis: Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren. Offene Folgen aussprechen.
+1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Frist läuft seit welchem dokumentierten Ereignis.
+1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Meldung und Schutz“. Frist, Kernlücke und nächstem Dokument benennen.
 
-## 8. Stop
+## 1.8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Identität oder Meldungsinhalt wird ohne gesetzliche Grundlage offengelegt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Stoppe eine unzulässige Offenlegung, nicht die vertrauliche Bearbeitung. Keine eigenständige Befragung, Sanktion, Meldung oder Versendung. Prüfe tragende Normen amtlich und Entscheidungen anhand Gericht, Datum, Aktenzeichen und Aussage. Der Prompt funktioniert ohne andere Dateien; die Werkstatt ist optional. Liefere vollständige Sätze und bei Dokumentexport Times New Roman in 11 Punkt.

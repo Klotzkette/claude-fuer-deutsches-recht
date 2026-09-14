@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "patentrecherche",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/BJNR201170936.html",
+      "checked_on": "2026-09-14",
+      "supports": "Paragraf 3 unterscheidet öffentliche Zugänglichkeit und ältere später veröffentlichte Anmeldungen; Paragraf 4 grenzt deren Verwendung bei erfinderischer Tätigkeit ab."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der alte Mini duplizierte Patentrecht statt Suchläufe, Trefferbelege und Recherchegrenzen konkret anzuleiten; der Berichts-Spezialskill verlangt gerade deren Dokumentation.",
+    "changes": [
+      "Suchprotokoll, Offenbarungsstellen und Datenbankzugriffsgrenzen eingebaut.",
+      "Priorität, Veröffentlichung und territoriale Familienprüfung getrennt."
+    ],
+    "sha256": "7242182ceeec6ba9e4846aea9d540d4033923f661aac48df37ae1ed599d343df"
+  },
+  "selection": {
+    "positive": [
+      "Erstelle einen reproduzierbaren Suchplan für federbelastete Steckverbinder.",
+      "Bewerte die belegten Treffer meiner Neuheitsrecherche und dokumentiere Suchlücken."
+    ],
+    "negative": [
+      "Formuliere eine Patentverletzungsklage anhand eines fertigen Claim Charts.",
+      "Recherchiere die Eintragungsfähigkeit eines Produktnamens als Marke."
+    ]
+  },
+  "cases": [
+    {
+      "id": "suchbericht-ohne-erfundene-treffer",
+      "request": "Erstelle ergebnis.md als Recherchebericht mit nächstem Suchplan für einen Steckverbinder mit federbelasteter Verriegelung und optischer Verriegelungsanzeige. Recherchezweck ist Neuheit zu einem angenommenen Zeitrang 1. Juni 2024. Bisher liegen nur zwei ausdrücklich fiktive, als Arbeitsmaterial zu behandelnde technische Dokumente vor: D1 wurde nach dem gesicherten Veröffentlichungsvermerk am 2. Februar 2020 veröffentlicht und beschreibt in Absatz 8 Federverriegelung ohne optische Anzeige. D2 ist ein am 5. Mai 2023 veröffentlichtes Handbuch und beschreibt auf Seite 12 optische Verriegelungsanzeige bei Schraubverbindung ohne Feder. Es wurden noch keine Datenbanksuchen ausgeführt. Es gibt keine weiteren technischen Angaben. Die fiktiven Dokumente sollen nicht als echte Patente gesucht werden. Eine FTO-Freigabe ist nicht beauftragt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet D1 und D2 die jeweils vorhandenen und fehlenden Merkmale getrennt zu und behauptet keine vollständige Offenbarung der Kombination in einem der Dokumente.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert konkret ausführbare Suchkombinationen aus Verriegelung, Feder und optischer Anzeige mit Synonymen statt allein einer Datenbankliste.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Kennzeichnet geplante Suchen und fiktive Arbeitsdokumente zutreffend und erfindet weder Trefferzahlen noch eine vollständige Neuheits- oder Benutzungsfreiheitsgarantie.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "recherchebericht-erstellen"
+    }
+  ]
+}

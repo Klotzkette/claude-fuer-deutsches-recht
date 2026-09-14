@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "robotik-recht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
+      "checked_on": "2026-09-14",
+      "supports": "Maschinen in Anhang I Abschnitt B, Artikel 6 Absätze 1a bis 1c, Artikel 4a und geänderte Geltungsdaten 2027/2028."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die individuellen Reformpassagen waren tragfähig; die Unfallbeweissicherung benötigte konkretere Provenienzregeln.",
+    "changes": [
+      "Reforminhalt zu 2026/1744, Artikel 4a und Terminen erhalten.",
+      "Gerätezeit, Firmware, Hash, Übergaben und Originalkopien ergänzt."
+    ],
+    "sha256": "9e792d11d2a9f8eca43f944f4dbf382ae3589b508da70bc44b50a5fef330e0e1"
+  },
+  "selection": {
+    "positive": [
+      "Ordnen Sie den Ausfall eines Cobots nach Update und sichern Sie die Beweiskette.",
+      "Prüfen Sie den Produktpfad einer KI-Sicherheitskomponente nach der Reform."
+    ],
+    "negative": [
+      "Prüfen Sie ausschließlich einen SaaS-Abonnementpreis ohne Robotikbezug.",
+      "Berechnen Sie allein die arbeitsrechtliche Kündigungsfrist des Bedieners."
+    ]
+  },
+  "cases": [
+    {
+      "id": "cobot-uhrzeitversatz-update",
+      "request": "Erstellen Sie ergebnis.md als ersten Unfall- und Rechtsprüfvermerk für einen deutschen Betreiber. Ein Cobot verletzte am 11.09.2026 eine Beschäftigte. Am Vorabend wurde Firmware 4.2 eingespielt. Die Kamera zeigt 09:12 Uhr, das Roboterlog 08:12 Uhr; Zeitzoneneinstellungen sind unbekannt. Integrator I verlangt sofortigen Reset und eine Wiederholung mit einer Person im Arbeitsbereich. Vorhanden sind ein unveränderter Logexport, Video und die Konformitätserklärung nach Maschinenrecht; keine medizinprodukterechtliche Zweckbestimmung. Der Integrator behauptet außerdem, bis 2028 bestünden keinerlei Sicherheitsanforderungen. Es wurde noch nichts zurückgesetzt. Erstellen Sie Beweissicherungsplan und erste rechtliche Einordnung ohne technische Ursachenfestlegung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verhindert eine gefährliche Wiederholung und einen beweisvernichtenden Reset; dokumentiert Originale, Firmware und Zeitversatz statt ihn still zu korrigieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt den zeitlichen Zusammenhang mit dem Update als Ermittlungsansatz und nicht als bereits bewiesene Unfallursache.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Verwirft die pauschale Sicherheitsfreiheit bis 2028 und erhält die reformbedingte Unterscheidung von Maschinenrecht und KI-Systempflichten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "unfallanalyse-chain-of-custody"
+    }
+  ]
+}

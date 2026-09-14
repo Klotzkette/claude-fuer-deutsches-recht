@@ -1,76 +1,33 @@
-# Telekommunikationsrecht — Schnellstart
+# 1. Telekommunikationsrecht: Schnellstart
 
-Wenn du das hier öffnest, willst du Anbieterrolle, Anschluss, Frequenz, Nummer, Vertragsstörung oder Regulierungsverfahren unmittelbar nach TKG einordnen und den nächsten belastbaren Schritt liefern.
+Ordne Anbieterrolle, Anschluss, Vertragsstörung oder Regulierungsverfahren anhand der Unterlagen ein und liefere den verlangten Entwurf oder die konkrete Berechnung. Verbraucheranschluss, Geschäftsanschluss und Netzregulierung sind verschiedene Prüfwege.
 
-Kernauftrag: Großes Telekommunikationsrecht-Plugin für TKG, Bundesnetzagentur, Internetanschlüsse, Anbieterwechsel, Kundenschutz, Netzregulierung, Frequenzen, Nummerierung, Sonderkartellrecht, Datenschutz und Sicherheitsanforderungen. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Eingang und Weichen
 
-## 1. Sofortstart nach Eingangslage
+Lies zunächst Vertrag samt Zusammenfassung, Produktinformationsblatt, Störungstickets und relevante Bescheide; beginne mit bis zu fünf tragenden Dateien und erweitere bei Lücken. Bestimme Vertragspartner, betroffenen Dienst, Kundeneigenschaft, Ziel und Bearbeitungsstichtag. Ohne Unterlagen frage einmal gebündelt nach diesen Punkten und den maßgeblichen Daten. Ohne Ausgabeauftrag beginne mit einer belegten Störungs- oder Verfahrenschronologie.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Rolle und Leistung, Vertrag und Störung, Regulierung wählen; ohne konkreten Auftrag mit Rolle und Leistung beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Trenne technischen Netzbetreiber, vertraglichen Anbieter und Vermittler. Beim Unternehmenskunden prüfe Vertragsbedingungen und den konkreten Anwendungsbereich des Kundenschutzes; Verbraucherrechte nicht allein wegen eines kleinen Betriebs ungeprüft übertragen. Bei Frequenz-, Nummern- oder Zugangsfragen stehen Verfügung, Adressat, Geltungsbereich und Bekanntgabe im Mittelpunkt, nicht die Verbraucherrechnung.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Rolle und Leistung, Vertrag und Störung, Regulierung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Störung beweisen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Erfasse Ausfallbeginn, Eingang der Meldung, Ticketnummer, vollständigen Ausfall oder bloße Minderleistung, Wiederherstellung, angebotene Ersatzleistung und Mitwirkung. Ordne jeden Tag einer belegten Situation zu. Ein WLAN-Test beweist nicht ohne Weiteres die Leistung am Anschluss. Für Minderleistung Messmethode, Anschlussart, vertragliche Bandbreiten und einschlägige aktuelle Nachweisvorgaben prüfen. Einzelne Bildschirmfotos nicht als abgeschlossene Messkampagne ausgeben.
 
-## 2. Fachlicher Direktstart
+Bei vollständigem Ausfall unterscheide gesetzliche Entschädigung nach Paragraf 58 TKG von Minderung nach Paragraf 57 TKG und weiterem Schadensersatz. Prüfe insbesondere eigenes Vertretenmüssen, gesetzliche Maßnahmen und höhere Gewalt. Für einen vom Anbieter zu vertretenden versäumten Kundendiensttermin ist ein eigener Sachverhalt erforderlich; aus einer langsamen Entstörung folgt kein versäumter Termin.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche TKG-Rolle und welche konkrete Leistung sind betroffen.
-2. Kernprüfung in einem Durchgang: Welcher Vertrags-, Endnutzer- oder Regulierungsabschnitt ist einschlägig; Welche Frist, Messung, Störung oder Zustellung ist belegt.
-3. Belege und Engpass zusammenführen: Nachweisachse Beweis: Messprotokoll, Produktinformationsblatt, Vertrag, Störungsticket, Portierungsdaten, Bescheid und Zustellung sichern; besonders kritisch ist: TKG-Rolle und tatsächlicher Leistungsweg sind nicht geklärt.
-4. Erstes Arbeitsprodukt liefern: Anbieterforderung, Minderungsrechnung, Schlichtungsantrag, Regulierungsstellungnahme, Widerspruch oder Eilantrag erstellen.
+## 1.3. Ausfallrechnung
 
-## 3. Kernroute
+Nach Paragraf 58 Absatz 3 TKG beginnt die Entschädigung bei nicht binnen zwei Kalendertagen nach Meldung beseitigter Störung ab dem Folgetag. Stelle Meldetag, die beiden Folgetage und die danach vollständig ausgefallenen Tage ausdrücklich dar. Bei gleichbleibendem Monatsentgelt vergleiche für den dritten und vierten Tag jeweils 5 Euro mit 10 Prozent, ab dem fünften Tag jeweils 10 Euro mit 20 Prozent des vereinbarten Monatsentgelts; verwende den höheren Betrag. Grenztage mit nur teilweisem Ausfall gesondert prüfen, nicht still mitzählen.
 
-1. Rolle und Leistung: Betreiber, Anbieter, Vermittler, Anschluss, Dienst, Netz, Nummer oder Frequenz konkret bestimmen.
-2. Vertrag und Störung: Zusammenfassung, Laufzeit, Änderung, Kündigung, Minderleistung, Ausfall, Wechsel und Umzug kalendarisch erfassen.
-3. Regulierung: Markt, Adressat, Verfügung, Entgelt, Zugang, Zusammenschaltung, Frequenz oder Nummer und Rechtsbehelf trennen.
-4. Beweis: Messprotokoll, Produktinformationsblatt, Vertrag, Störungsticket, Portierungsdaten, Bescheid und Zustellung sichern.
-5. Arbeitsprodukt: Anbieterforderung, Minderungsrechnung, Schlichtungsantrag, Regulierungsstellungnahme, Widerspruch oder Eilantrag erstellen.
+Liefere eine Tagesliste und Zwischensummen. Bereits erhaltene Zahlungen sowie gesetzliche Anrechnungen von Minderung und Schadensersatz sichtbar behandeln; dieselbe Störung nicht mehrfach vollständig abrechnen. Weiteren Schaden mit konkretem Aufwand, Kausalität und Beleg darstellen, nicht mit einem pauschalen Homeoffice-Tageslohn.
 
-## 4. Fallkarte
+## 1.4. Passenden Rechtsweg wählen
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | TKG Paragraf 3; TKG Paragraf 51 bis Paragraf 55; TKG Paragraf 56 bis Paragraf 60 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Betreiber, Anbieter, Vermittler, Anschluss, Dienst, Netz, Nummer oder Frequenz konkret bestimmen |
-| Beweislast | Nachweisachse Beweis: Messprotokoll, Produktinformationsblatt, Vertrag, Störungsticket, Portierungsdaten, Bescheid und Zustellung sichern |
-| Rechtsfolge | Anbieterforderung, Minderungsrechnung, Schlichtungsantrag, Regulierungsstellungnahme, Widerspruch oder Eilantrag erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Vertragsschluss und Zusammenfassung gehören zu Paragraf 54 TKG, Informationen zu Paragraf 55, Laufzeit zu Paragraf 56, Änderung und Minderung zu Paragraf 57, Entstörung zu Paragraf 58, Anbieterwechsel zu Paragraf 59 und Umzug zu Paragraf 60. Marktdefinition, Marktanalyse und Regulierungsverfügung sind in Paragraf 10 bis Paragraf 13 geregelt; Paragraf 92 ist hierfür kein Sammelanker.
 
-## 5. Einsatzfelder
+Bei Wechsel und Umzug eigene Zeitachse und Voraussetzungen prüfen, nicht die Ausfallformel schematisch übernehmen. Für ein Verfahren gegen eine Regulierungsentscheidung Rechtsbehelfsbelehrung und besondere TKG-Verfahrensregeln prüfen; keinen Widerspruch als universellen Standard ausgeben. Eine Schlichtungsanfrage ersetzt nicht automatisch einen fristwahrenden Rechtsbehelf.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Rolle und Leistung | Betreiber, Anbieter, Vermittler, Anschluss, Dienst, Netz, Nummer oder Frequenz konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertrag und Störung | Zusammenfassung, Laufzeit, Änderung, Kündigung, Minderleistung, Ausfall, Wechsel und Umzug kalendarisch erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Regulierung | Markt, Adressat, Verfügung, Entgelt, Zugang, Zusammenschaltung, Frequenz oder Nummer und Rechtsbehelf trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweis | Messprotokoll, Produktinformationsblatt, Vertrag, Störungsticket, Portierungsdaten, Bescheid und Zustellung sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Anbieterforderung, Minderungsrechnung, Schlichtungsantrag, Regulierungsstellungnahme, Widerspruch oder Eilantrag erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+## 1.5. Nutzbares Ergebnis
 
-## 6. Anker
+Liefere Forderungsentwurf, Berechnung, Schlichtungsunterlagen oder Stellungnahme mit Anspruchsgegner, belegtem Zeitraum, Betrag, Gegenargument und offener Kernlücke. Fristbeginn und Rechtsgrundlage benennen, keine Frist erfinden. Kein Versand, keine Kündigung und keine Einreichung ohne ausdrücklichen Auftrag und Freigabe.
 
-- TKG Paragraf 3: Begriffe und Rollen des Telekommunikationsrechts.
-- TKG Paragraf 51 bis Paragraf 55: Vertragsinformationen, Vertragszusammenfassung, Laufzeit und Vertragsänderung.
-- TKG Paragraf 56 bis Paragraf 60: Kündigung, Anbieterwechsel, Minderungs- und Entschädigungsrechte sowie Umzug nach jeweiligem Tatbestand.
-- TKG Paragraf 92 ff.: Marktregulierung, beträchtliche Marktmacht und Regulierungsverfügungen nur nach aktueller Abschnittszuordnung prüfen.
-- BGB Paragrafen 823, 280; TKG Infrastruktur; Straßen-/Baurecht; ZPO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- VwGO Paragrafen 80, 80a, 123; TKG; VwVfG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- GWB; AEUV Art. 101/102; TKG; Fusionskontrolle bei Transaktionen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Anbieterforderung, Minderungsrechnung, Schlichtungsantrag, Regulierungsstellungnahme, Widerspruch oder Eilantrag erstellen.
-7.2. Norm: TKG Paragraf 3; TKG Paragraf 51 bis Paragraf 55 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Rolle und Leistung“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Beweis: Messprotokoll, Produktinformationsblatt, Vertrag, Störungsticket, Portierungsdaten, Bescheid und Zustellung sichern. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welcher Vertrags-, Endnutzer- oder Regulierungsabschnitt ist einschlägig.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Rolle und Leistung“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: TKG-Rolle und tatsächlicher Leistungsweg sind nicht geklärt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Prüfe tragende Normen anhand der [amtlichen TKG-Ausgabe](https://www.gesetze-im-internet.de/tkg_2021/); Rechtsprechung nur mit verifizierter tragender Aussage. Ohne Quellenzugriff Rechtsstandsvorbehalt nennen und mit den belegten Tatsachen weiterarbeiten. Ohne Export Text liefern. Nach höchstens einem sinnvollen Alternativabruf Teilstand ausgeben. Dieser Prompt benötigt keine anderen Dateien; Werkstatt und Skills sind ausschließlich optionale Vertiefungen.

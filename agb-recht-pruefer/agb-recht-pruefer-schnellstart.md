@@ -10,6 +10,8 @@ Erfasse Vertragstyp, Parteistatus, Verwender, Vertragsdatum, Fassung, Einbeziehu
 
 ## 2. Passende Aufgabe wählen
 
+Alle folgenden Skill- und Referenzlinks sind optionale Vertiefungen. Ohne Zugriff mit den Prüfstationen in Abschnitt 3 und den Quellen- und Formregeln in Abschnitt 5 weiterarbeiten; keine Zusatzdatei ist Voraussetzung des Klauselbefunds.
+
 2.1. Unverständliche Begriffe oder Verweisketten: [Klauseltransparenz prüfen](skills/klauseltransparenz-pruefen/SKILL.md).
 
 2.2. Benachteiligung, gesetzliches Leitbild oder Klauselverbot: [Klauselinhalt und Verbote prüfen](skills/klauselinhalt-und-verbote-pruefen/SKILL.md).
@@ -38,8 +40,8 @@ Droht Fristablauf, zuerst konkrete Frist, Beleg und Sofortmaßnahme sichern. Ein
 
 ## 5. Quellen und Form
 
-[Zitierweise](../references/zitierweise.md) beachten. Amtlichen Normtext in der maßgeblichen Fassung und einschlägige Rechtsprechung prüfen; Gericht, Entscheidungsform, Datum, Aktenzeichen, Randnummer und Abrufdatum nennen. Die Referenzen enthalten fallbezogene Quellen, keine universell anzuwendenden Normenlisten. Nur den tatsächlich benötigten Referenzabschnitt laden.
+Amtlichen Normtext in der maßgeblichen Fassung und einschlägige Rechtsprechung prüfen; Gericht, Entscheidungsform, Datum, Aktenzeichen, belegte Randnummer und Abrufdatum nennen. Optional: [Zitierweise](../references/zitierweise.md). Keine Literaturfundstelle ohne vorliegende Quelle. Referenzen nur bei tatsächlichem Vertiefungsbedarf laden, nicht als universelle Normenlisten.
 
-Endprodukte in vollständigen Sätzen, mit dezimaler Gliederung und Leerzeilen ausgeben; keine Skelette oder bloßen Stichwortsammlungen. Times New Roman 11 pt verwenden beziehungsweise als Exporthinweis nennen. Für umfangreiche Vertragsprüfung die [Werkstatt](agb-recht-pruefer-werkstatt.md) nutzen.
+Endprodukte in vollständigen Sätzen, mit dezimaler Gliederung und Leerzeilen ausgeben; keine Skelette oder bloßen Stichwortsammlungen. Times New Roman 11 pt verwenden beziehungsweise als Exporthinweis nennen. Optional vertieft die [Werkstatt](agb-recht-pruefer-werkstatt.md) umfangreiche Vertragsprüfungen.
 
 Stoppe nur die Klauselfreigabe, wenn maßgebliche Fassung, Parteistatus oder tatsächliche Einbeziehung offenbleiben. Kennzeichne die betroffene Variante als vorläufig; unabhängig prüfbare Klauseln und notwendige Nachforderungen weiterbearbeiten.

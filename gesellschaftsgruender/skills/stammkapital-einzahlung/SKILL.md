@@ -32,7 +32,7 @@ description: "Für Stammkapital-Einzahlung: ordnet Norm, Beweislast und Gegenarg
 ### UG (Bargründung)
 
 - **Stammkapital**: mindestens 1 EUR (Paragraf 5a I GmbHG)
-- **Einzahlung vollständig** vor Anmeldung (Paragraf 5a II 2 GmbHG iVm Paragraf 7 II GmbHG)
+- Einzahlung vollständig vor Anmeldung nach Paragraf 5a Absatz 2 Satz 1 GmbHG; Satz 2 schließt Sacheinlagen aus.
 
 ### Sachgründung
 
@@ -42,7 +42,7 @@ description: "Für Stammkapital-Einzahlung: ordnet Norm, Beweislast und Gegenarg
 ### AG
 
 - **Grundkapital**: 50.000 EUR (Paragraf 7 AktG)
-- Vollständige Bareinzahlung vor Anmeldung
+- Bei Bareinlagen mindestens ein Viertel des geringsten Ausgabebetrags und das volle Aufgeld nach Paragraf 36a Absatz 1 AktG; weitergehende Einforderungen gesondert beachten.
 
 ## 2) Geschäftskonto eröffnen
 
@@ -97,16 +97,15 @@ description: "Für Stammkapital-Einzahlung: ordnet Norm, Beweislast und Gegenarg
 
 ### Schritt 4: Bestätigung an Notar
 
-- Notar reicht beim Handelsregister ein (Paragraf 8 II 1 GmbHG)
-- GF versichert eidesstattlich
+- Die Geschäftsführer geben in der Anmeldung die Versicherung nach Paragraf 8 Absatz 2 GmbHG über Einlageleistung und freie Verfügung ab. Diese ist keine Versicherung an Eides statt; notarielle Einreichung und inhaltliche Versicherung getrennt prüfen.
 
-## 4) "Freie Verfügung" des Geschäftsführers Paragraf 7 II 2 GmbHG
+## 4. Freie Verfügung nach Paragraf 8 Absatz 2 GmbHG
 
 ### Inhalt
 
 Die Einlage muss **endgültig** und **uneingeschraenkt** beim GF zur freien Verfügung stehen. Dies bedeutet:
 
-- Kein "**Hin- und Herzahlen**" (Einzahlung, dann sofortige Ruecküberweisung an Gesellschafter)
+- Vereinbarte Rückleistungen nach Paragraf 19 Absatz 4 oder Absatz 5 GmbHG gesondert prüfen; nicht jede Rückleistung hat dieselbe Rechtsfolge.
 - Kein "**Cash Pool**", in dem die Einlage gebunden ist
 - Keine **Verpfaendung** der eingezahlten Mittel
 - Keine **Zweckbindung**, die die Verwendung praktisch verhindert
@@ -133,26 +132,24 @@ Die Einlage muss **endgültig** und **uneingeschraenkt** beim GF zur freien Verf
 ### Risiken
 
 - **Differenzhaftung Paragraf 9 GmbHG**: bei Wertdiskrepanz zahlt Gesellschafter die Differenz
-- **Verdeckte Sacheinlage Paragraf 19 IV GmbHG**: bei zeitnäher Vermögens-Vermischung (Bargründung + sofortiger Kauf einer Sache vom Gesellschafter mit dem Bareinlage-Geld)
+- Verdeckte Sacheinlage nach Paragraf 19 Absatz 4 GmbHG: wirtschaftliche Sachleistung aufgrund einer im Zusammenhang mit der Einlageübernahme getroffenen Abrede prüfen. Zeitnähe ist ein Indiz, nicht der vollständige Tatbestand.
 
-## 6) Hin- und Herzahlen — verboten Paragraf 19 V GmbHG
+## 6. Verdeckte Sacheinlage und Rückzahlung unterscheiden
 
 ### Konstellation
 
-- Gesellschafter zahlt Bareinlage ein
-- Gesellschaft kauft sofort oder zeitnah eine Sache vom Gesellschafter zum gleichen / nahe gleichen Wert
-- Effektiv: Sacheinlage in Bargründung versteckt
+- Ein mit der Einlageübernahme abgesprochener Sachkauf kann unter Paragraf 19 Absatz 4 GmbHG fallen.
+- Absatz 5 betrifft dagegen vorab vereinbarte wirtschaftliche Rückzahlungen, die gerade keine verdeckte Sacheinlage nach Absatz 4 sind.
 
 ### Folge
 
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
-- Persönliche Haftung
-- Verdeckter Tatbestand Paragraf 82 GmbHG
+- Bei Absatz 4 bleibt die Geldeinlagepflicht bestehen; der nachgewiesene Sachwert wird unter den gesetzlichen Voraussetzungen frühestens nach Eintragung angerechnet. Die Ausführungsgeschäfte sind nicht allein deshalb unwirksam.
+- Bei Absatz 5 setzt die Befreiung einen vollwertigen, jederzeit fälligen oder fristlos fällig stellbaren Rückgewähranspruch voraus. Leistung oder Vereinbarung in der Anmeldung offenlegen.
 
 ### Vermeidung
 
-- Bei sofortigem Vermögenstransfer Gesellschafter -> Gesellschaft: ehrlich als Sacheinlage gestalten
-- Bei Verkauf von Sachen vom Gesellschafter: Wartefrist (mindestens 6 Monate gerichtsfest empfohlen, oft 1 Jahr)
+- Abrede, Zahlungsfluss, Gegenleistung, Wert und Rückgewähranspruch dokumentieren. Eine offene Sachgründung kommt nur bei zulässiger Rechtsform in Betracht, nicht bei der UG-Gründung.
+- Keine feste Sechsmonats- oder Jahresfrist als rechtssichere Heilung behaupten; maßgeblich sind Zusammenhang und gesetzliche Voraussetzungen.
 
 ## 7) Spätere Kapitalerhöhung
 
@@ -211,12 +208,14 @@ Klaere vor Anmeldung beim HR:
 
 1. **GmbH oder UG?** GmbH: mind. 12.500 EUR einzuzahlen vor Anmeldung; UG: Stammkapital vollstaendig.
 2. **Bar- oder Sachgruendung?** Bar: Konto-Bestätigung; Sach: Werthaltigkeitsnachweis und Sachgruendungsbericht.
-3. **Hin- und Herzahlen-Risiko?** Steht zeitnah ein Kauf vom Gesellschafter an? Vorsicht Paragraf 19 V GmbHG.
+3. Rückleistungsrisiko: Geplanten Sachkauf nach Paragraf 19 Absatz 4 von sonstiger vereinbarter Rückzahlung nach Absatz 5 GmbHG unterscheiden.
 4. **Vorratsgesellschaft?** Wird eine bestehende GmbH neu aktiviert? Dann neue Einzahlung erforderlich.
 5. **Ausländische Gesellschafter?** GwG-Prüfung der Bank kann Konto-Eroeffnung verzoegern.
 6. **Gesellschaftskonto bereits eroeffnet?** Frist zum Notar-Termin beachten (2-7 Tage Bankprozess).
 
 ## Aktuelle Rechtsprechung
+
+Amtlich geprüft am 14.09.2026: [Paragraf 36a AktG](https://www.gesetze-im-internet.de/aktg/__36a.html), [Paragraf 8 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__8.html) und [Paragraf 19 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__19.html). Diese Normen tragen die korrigierten Einzahlungs- und Rückleistungsprüfungen.
 
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
@@ -229,7 +228,7 @@ STAMMKAPITAL-EINZAHLUNGS-PROTOKOLL
 Gesellschaft: [FIRMA i.G.] | Datum: [DATUM]
 
 STAMMKAPITAL: [BETRAG] EUR
-MINDESTEINZAHLUNG (GmbH: 50%): [BETRAG] EUR
+MINDESTEINZAHLUNG (GmbH: je Baranteil mindestens 25 Prozent, insgesamt mindestens 12.500 EUR; UG: vollständig): [BETRAG] EUR
 EINGEZAHLT AM: [DATUM]
 KONTONUMMER: [IBAN]
 BANK: [NAME]
@@ -246,7 +245,7 @@ HIN-UND-HERZAHLEN-CHECK:
  Falls Ja: Zeitabstand zum Einzahlungsdatum: [N] Monate
  Risiko: [OK / ERHOEHTES RISIKO — Pruefung empfohlen]
 
-EIDESSTATTLICHE VERSICHERUNG GF: [NAME] am [DATUM]
+VERSICHERUNG NACH PARAGRAF 8 ABSATZ 2 GMBHG: [NAME] am [DATUM]
 
 EINGEREICHT AN NOTAR: Ja / Nein | Datum: [DATUM]
 ```

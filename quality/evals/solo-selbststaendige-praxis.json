@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "solo-selbststaendige-praxis",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__641.html",
+      "checked_on": "2026-09-14",
+      "supports": "Vergütungsfälligkeit bei Abnahme und angemessener Mängeleinbehalt, in der Regel das Doppelte der erforderlichen Beseitigungskosten."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eine konkrete Kundenreklamation braucht Abnahme-, Zahlungs- und Mängellogik statt einer allgemeinen Gründungsabfrage.",
+    "changes": [
+      "Auftragsumfang, Abnahme und offene Rechnung zusammengeführt.",
+      "Einbehalt aus konkreten Mängelbeseitigungskosten statt pauschaler Totalverweigerung geprüft.",
+      "Kundenantwort und Forderungsübersicht als sofortige Ergebnisse festgelegt."
+    ],
+    "sha256": "8410db553008a6791f6970202a0c4cd8044a67fd3a0ec0d83d1576ed59474c78"
+  },
+  "selection": {
+    "positive": [
+      "Mein Kunde hält wegen eines kleinen Mangels die gesamte Werklohnrechnung zurück; bereiten Sie eine Antwort vor.",
+      "Gleichen Sie Auftrag, Abnahme und Teilzahlungen für meine offene Kundenrechnung ab."
+    ],
+    "negative": [
+      "Erstellen Sie einen Businessplan für eine noch nicht gegründete Gesellschaft.",
+      "Entscheiden Sie verbindlich über meinen sozialversicherungsrechtlichen Erwerbsstatus."
+    ]
+  },
+  "cases": [
+    {
+      "id": "abgenommenes-werk-begrenzter-einbehalt",
+      "request": "Ich habe als selbstständiger Handwerker ein Werk für vereinbarte 3.000 Euro hergestellt. Es wurde am 1. September 2026 ausdrücklich abgenommen. 1.000 Euro sind bezahlt. Ein kleiner Mangel ist unstreitig, seine fachgerechte Beseitigung kostet nach übereinstimmender Einschätzung 200 Euro. Ich biete die Beseitigung für kommende Woche an. Der Kunde lehnt jede weitere Zahlung der offenen 2.000 Euro bis dahin ab. Andere Einwendungen oder Sondervereinbarungen bestehen nicht. Erstellen Sie ergebnis.md mit nachvollziehbarer vorläufiger Rechnung und einem sachlichen Antwortentwurf, der die Mängelbeseitigung nicht verweigert.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Rechnung unterscheidet 3.000 Euro Gesamtpreis, 1.000 Euro Zahlung und 2.000 Euro offenen Werklohn und knüpft dessen Fälligkeit an die mitgeteilte Abnahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Für den Regelfall des Paragrafen 641 Absatz 3 BGB werden 400 Euro Einbehalt und damit 1.600 Euro derzeit verlangbare Restzahlung nachvollziehbar dargestellt, nicht pauschal 2.000 Euro Einbehalt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Antwortentwurf erkennt den konkreten Mangel und das Beseitigungsangebot an, vermeidet die Behauptung einer mangelfreien Leistung und erklärt den Zahlungsansatz ohne erfundene Mahnkosten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "kunde-reklamiert"
+    }
+  ]
+}

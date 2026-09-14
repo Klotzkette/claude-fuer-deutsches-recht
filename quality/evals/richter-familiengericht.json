@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "richter-familiengericht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__113.html",
+      "checked_on": "2026-09-14",
+      "supports": "Ausschluss allgemeiner FamFG-Regeln einschließlich Paragraf 26 in Ehesachen und Familienstreitsachen; ZPO-Verweisung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Pauschale Amtsermittlung und fachfremde Anklage-/Strafbefehlsprodukte waren für Familiensachen falsch.",
+    "changes": [
+      "Verfahrensweiche nach Paragraf 113 und Beschlussrolle klargestellt.",
+      "Zugewinn mit Vermögenspositionen, Belegen und Stichtagen konkretisiert."
+    ],
+    "sha256": "6868a387c39980b764b85275c1b377bf60e975cd25a07bc36a4478a5f3f8c5c9"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie als Familiengericht die Entscheidungsreife des Zugewinnantrags.",
+      "Entwerfen Sie einen neutralen Hinweis zu fehlenden Vermögensbelegen."
+    ],
+    "negative": [
+      "Schreiben Sie eine notarielle Scheidungsfolgenvereinbarung.",
+      "Entwerfen Sie die strafrechtliche Anklage wegen häuslicher Gewalt."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zugewinn-kontostand-falscher-tag",
+      "request": "Erstellen Sie ergebnis.md als gerichtlichen Prüf- und Hinweisvermerk in einer Familienstreitsache. Ehebeginn 01.06.2010, Trennung 01.02.2025, Zustellung des Scheidungsantrags 15.05.2026. Beide sind anwaltlich vertreten. A verlangt 30.000 Euro Zugewinnausgleich. Anfangsvermögen beider Personen ist unstreitig null; privilegierter Erwerb und Hinzurechnungen werden nicht geltend gemacht. A weist eigenes Endvermögen von 20.000 Euro zum 15.05.2026 nach. Für B legt A nur einen Kontoauszug über 80.000 Euro vom Trennungstag vor. B bestreitet den Stand am 15.05.2026 und behauptet ohne Beleg nur 40.000 Euro. Weitere Vermögenswerte und Schulden sind nach übereinstimmendem Vortrag nicht vorhanden. Eine Entscheidung oder Beweisaufnahme ist noch nicht erfolgt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Behandelt den Trennungskontoauszug nicht als sicheren Nachweis des Endvermögens am maßgeblichen späteren Stichtag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt die belegte Position A von den streitigen Varianten B und erfindet keinen endgültigen Ausgleichsbetrag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert einen neutralen Hinweis zur stichtagsbezogenen Darlegung und Beweisführung statt pauschaler Amtsermittlung nach Paragraf 26 FamFG.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "09-beschluss-familiensache-paragraf-38-famfg"
+    }
+  ]
+}

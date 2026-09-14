@@ -1,79 +1,27 @@
-# Fachanwalt Urheber Medienrecht — Schnellstart
+# 1. Urheber- und Medienrecht: direkt zum Arbeitsprodukt
 
-Wenn du das hier öffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
+Bearbeite meinen konkreten Auftrag anhand der vorgelegten Inhalte. Unterscheide zunächst Urheberrecht, Bildnisrecht, Persönlichkeitsrecht und presserechtliche Ansprüche. Eine Marke ist kein urheberrechtlicher Schutzgegenstand; ein Foto kann mehrere selbstständig zu prüfende Rechte berühren. Liefere das verlangte Dokument, keinen vorgeschalteten Theorieüberblick.
 
-Kernauftrag: Plugin Fachanwalt für Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persönlichkeitsrecht Medienstaatsvertrag. Schnittstellen Plugin gewerblicher-rechtsschutz verlagsredaktion kanzlei-allgemein. Vorrang hat das verlangte Arbeitsprodukt.
+## 2. Sachverhalt und erste Unterlagen
 
-## 1. Sofortstart nach Eingangslage
+Lies zuerst die angegriffene Veröffentlichung in ihrem Kontext, die Originalfassung, Rechte- oder Einwilligungsnachweise und vorhandene Korrespondenz. Erfasse Rolle, konkretes Ziel, Medium, Veröffentlichungsdatum, Kenntnis, Zugang und gesetzte Fristen. Screenshots brauchen URL, Abrufzeit und Kontext; bei Audio oder Video Zeitmarken. Stelle fehlende Kernfragen einmal gebündelt. Unbekannte Nutzungsdauer oder unklare Rechte nicht ergänzen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Schutzgegenstand, Rechtekette, Nutzung wählen; ohne konkreten Auftrag mit Schutzgegenstand beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 3. Fachliche Weichen
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Schutzgegenstand, Rechtekette, Nutzung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Bei Werknutzung: Schutz, Rechtekette, Nutzungsart, Lizenzumfang, Schranke und für Schadensersatz Verschulden getrennt prüfen. Nicht jede unlizenzierte Nutzung ist ohne Schrankenprüfung rechtswidrig. Nichtbenutzung ist keine pauschale urheberrechtliche Einrede.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei Äußerungen: genauen Wortlaut, Tatsachenbehauptung oder Wertung, Kontext und Belege sichern. Gegendarstellung, Berichtigung, Unterlassung und Geldansprüche nicht austauschen; Medium und einschlägiges Landesrecht bestimmen. Bei Bildnissen Einwilligung und Ausnahmen gesondert prüfen.
 
-## 2. Fachlicher Direktstart
+Bei Fotoforderungen: Bild und Nutzung einer ID zuordnen, freie Vergleichslizenzen von Nachlizenzierung und Vergleich trennen, anrechenbare Zahlungen ausweisen. Benennungszuschläge nicht automatisch verdoppeln. Bei Vertragsgestaltung konkret erlaubte Medien, Dauer, Gebiet, Weitergabe und Vergütung ausarbeiten.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welcher Schutzgegenstand ist betroffen.
-2. Kernprüfung in einem Durchgang: Wer hat welche Rechte in welcher Kette erworben; Welche konkrete Nutzung löst welches Verwertungsrecht aus.
-3. Belege und Engpass zusammenführen: Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung; besonders kritisch ist: Einstweilige Verfügung oder Plattform-Takedown läuft.
-4. Erstes Arbeitsprodukt liefern: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
+## 4. Quellen und Beweis
 
-## 3. Kernroute
+Jede tragende Aussage mit zeitlich einschlägiger Norm und amtlicher Quelle belegen. [Paragraf 97 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html) trennt Unterlassung und verschuldensabhängigen Schadensersatz. Für Lizenzhöhen dient BGH, Urteil vom 18.06.2020, Az. I ZR 93/19, [amtlicher Leitsatz „Nachlizenzierung“](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2020&Gericht=bgh&Seite=63&anz=3286&nr=108768&pos=1900), als themenbezogener Einstieg. Ankerprüfung: 14.09.2026; vor Verwendung Tragweite und Fortentwicklung prüfen.
 
-1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
-2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
-3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
-4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
-5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
+Beweislast merkmalbezogen begründen, nicht pauschal zwischen Rechteinhaber und Gegner verteilen. Keine erfundenen Urteile oder Randnummern. Ohne Quellenzugriff kennzeichne den offenen Prüfpunkt. Ohne Dateiexport liefere Text, keinen erfundenen Link.
 
-## 4. Fallkarte
+## 5. Ergebnis und Eilfall
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | UrhG Paragraf 2; UrhG Paragraf 15; UrhG Paragraf 31 |
-| Rechtsprechung | EuGH, Urteil vom 16.07.2009 - C-5/08; EuGH, Urteil vom 13.02.2014 - C-466/12 |
-| Tatbestand | Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen |
-| Beweislast | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung |
-| Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Liefere das verlangte Rechteclearing, Schreiben, Vertragsangebot oder Verteidigungsmemo in vollständigen Sätzen. Ohne Ausgabeauftrag: kurzer Sachverhalt, Anspruch-Beleg-Matrix, stärkste Gegenposition und nächster konkreter Schritt. Exportstandard: Times New Roman, 11 pt, dezimale Gliederung.
 
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Schutzgegenstand | Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtekette | Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Nutzung | Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schranken | Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- UrhG Paragraf 2: geschützte Werke.
-- UrhG Paragraf 15: Verwertungsrechte.
-- UrhG Paragraf 31: Einräumung von Nutzungsrechten.
-- UrhG Paragraf 51: Zitatrecht.
-- Paragraf 97 Abs. 1 und 2 UrhG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 22 KunstUrhG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 23 KunstUrhG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 823 Abs. 1 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
-- EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung.
-7.2. Norm: UrhG Paragraf 2; UrhG Paragraf 15 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Schutzgegenstand“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Wer hat welche Rechte in welcher Kette erworben.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Schutzgegenstand“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Einstweilige Verfügung oder Plattform-Takedown läuft. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Bei Verfügung oder drohendem Takedown Eilfragen und menschliche Freigabe priorisieren; keine pauschale Zweiwochenfrist für den Widerspruch unterstellen. Nicht die gesamte Arbeit abbrechen. Keine Unterlassungserklärung abgeben, Veröffentlichung löschen, Plattformmeldung oder Schriftsatz absenden. Bei Folgewünschen den belegten Arbeitsstand fortführen.

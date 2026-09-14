@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 78 Skills des Plugins `fachanwalt-agrarrecht`.
+Diese Vollprüfung enthält top-10 von 79 Skills des Plugins `fachanwalt-agrarrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -14,8 +14,8 @@ Diese Vollprüfung enthält top-10 von 78 Skills des Plugins `fachanwalt-agrarre
 6. **fachanwalt-agrarrecht-orientierung** — Für Fachanwalt für Agrarrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risik…
 7. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
 8. **erstpruefung-und-mandatsziel** — Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: T…
-9. **hoeferecht-nachabfindung-20-jahre-paragraf-13-hoefeordnung** — Prüft Nachabfindungsansprüche nach HöfeO Paragraf 13 bei Veräußerung, Teilverkauf, Gesellschaftseinbringung, Zwangsverst…
-10. **schnittstelle-mandantenentscheidung** — Für Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
+9. **windenergieerloese-nachabfindung-abgleichen** — Gleicht Windenergie-Nutzungsverträge auf geerbten Hofflächen mit Betreiberabrechnungen, Zahlungseingängen und früheren A…
+10. **hoeferecht-nachabfindung-20-jahre-paragraf-13-hoefeordnung** — Prüft Nachabfindungsansprüche nach HöfeO Paragraf 13 bei Veräußerung, Teilverkauf, Gesellschaftseinbringung, Zwangsverst…
 
 ---
 
@@ -827,6 +827,48 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `windenergieerloese-nachabfindung-abgleichen`
+
+_Gleicht Windenergie-Nutzungsverträge auf geerbten Hofflächen mit Betreiberabrechnungen, Zahlungseingängen und früheren Abfindungen ab und erstellt eine periodenbezogene Nachabfindungsrechnung samt Auskunftsentwurf. Nicht für die Genehmigung der Windenergieanlage._
+
+# 1. Zweck und Anwendungsfall
+
+Bearbeite die Nachabfindung weichender Erben aus Windenergieerlösen. Der Schwerpunkt ist wirtschaftlich geeignet, weil langfristige Nutzungsverträge mehrere Entgeltarten und erhebliche Zahlungsströme verbinden. Anders als die allgemeine Nachabfindungsprüfung steht hier der Abgleich von Vertrag, Betreiberabrechnung und tatsächlichem Zufluss im Mittelpunkt. Eine Anlagenzulassung oder allgemeine Hofübergabe ist nicht Gegenstand.
+
+## 1.1. Eingaben
+
+Lies zuerst Erbfall- oder Übergabedatum, Bundesland, Hofstatus, Familienübersicht, Abfindungsvereinbarungen, Windnutzungsvertrag samt Nachträgen, Abrechnungen und Kontoauszüge. Erfasse Vertragsbeginn, Nutzungsbeginn, Laufzeit, Mindestentgelt, Umsatzbeteiligung, Standflächen-, Wege- und Leitungsentgelt, öffentliche Abgaben und bereits gezahlte Ergänzungen. Bei Übergabe zusätzlich Berechtigung und Paragraf 17 Absatz 2 HöfeO prüfen. Keine Geheimnisse oder personenbezogenen Unterlagen in öffentliche Suchanfragen übernehmen.
+
+## 1.2. Ablauf und Checkliste
+
+1. Erstelle eine Tatsachenkarte mit Anspruchsteller, Verpflichtetem, Quote, Hofstatus und maßgeblicher Gesetzesfassung. Hofeigenschaft und Hofeswert nicht allein aus aktuellem Grundbuch oder Steuerbescheid rückschließen; Paragraf 19 HöfeO und zeitlich anwendbares Recht prüfen.
+2. Rekonstruiere das Zwanzigjahresfenster. Trenne dieses vom Verjährungslauf nach Paragraf 13 Absatz 9 HöfeO. Ordne jede Periode vor oder nach den Schwellen von mehr als zehn beziehungsweise fünfzehn Jahren ein. Übergreifende Abrechnungen mit offen ausgewiesener Zuordnung teilen; ein später Zahlungseingang darf die Verwertungsperiode nicht stillschweigend ersetzen.
+3. Prüfe landwirtschaftsfremde Nutzung, längerfristigen Wegfall des höferechtlichen Zwecks und erheblichen Gewinn. Landwirtschaftliche Restnutzung schließt den Anspruch nicht allein aus. Den Gewinn nicht ohne Prüfung mit dem gesamten Betreiberumsatz gleichsetzen. Der Betreiberumsatz ist gegebenenfalls nur die Bemessungsgröße des geschuldeten Nutzungsentgelts.
+4. Führe je Vertragsperiode die Spalten Vertragsformel, Sollentgelt, Abrechnung, Zufluss, Differenz, Anspruchsgrund und Beleg. Ist das Mindestentgelt eine Untergrenze, rechne den höheren Betrag aus Mindestentgelt und Beteiligung, nicht deren Summe. Gesonderte Entgelte nur addieren, soweit der Vertrag sie zusätzlich vorsieht. Offene Forderungen, Prognosen und tatsächliche Erlöse getrennt führen.
+5. Leite die Nachabfindungsgrundlage aus sämtlichen einschlägigen Nutzungsentgelten ab, nicht nur aus Fundament- und Wegeflächen. Öffentliche Abgaben, Eigenleistungen und Billigkeitsabzüge einzeln begründen und belegen. Keine automatische Übernahme aller Betriebsausgaben oder einer pauschalen Verhandlungsvergütung. Umsatzsteuer getrennt ausweisen und ihre Behandlung vor Bezifferung klären.
+6. Wende den passenden Zeitabschlag auf die bereinigte periodische Grundlage an, dann die allgemeine Erb- oder Wertquote. Führe Vorabfindung und bereits erfüllte Ergänzungen in einem fortlaufenden Anrechnungskonto; denselben Betrag nicht in jedem Jahr erneut abziehen. Prüfe vertraglichen Verzicht und dessen Reichweite. Keine erfundene Kapitalisierung zukünftiger Erlöse.
+7. Liefere die belegte Rechnung sofort. Stelle höchstens eine gebündelte Rückfrage zu ergebnisentscheidenden Lücken. Bei fehlenden Zahlen liefern Formel, Teilrechnung und gezielte Auskunft weiter Nutzen; endgültige Bezifferung bleibt insoweit offen. Keine automatische Zahlungsaufforderung versenden, keinen Vergleich schließen und keinen gerichtlichen Antrag einreichen.
+
+## 1.3. Quellenpflicht
+
+Prüfstand 14.09.2026; vor fallbezogener Verwendung aktualisieren. Optional vertieft die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-agrarrecht/references/zitierweise.md) diese Regeln: Normtext, Aktenfund und eigene Schlussfolgerung getrennt belegen; keine erfundenen Fundstellen. Entscheidungen mit Gericht, Datum, Aktenzeichen und überprüfter Fundstelle zitieren.
+
+- [Paragraf 13 HöfeO](https://www.gesetze-im-internet.de/h_feo/__13.html): Tatbestand, Abzüge, Zeitstaffel, Anrechnung, Verjährung und Auskunft.
+- [Paragraf 12 HöfeO](https://www.gesetze-im-internet.de/h_feo/__12.html) und [Paragraf 19 HöfeO](https://www.gesetze-im-internet.de/h_feo/__19.html): Berechtigung, Wert und Übergang.
+- BGH, Beschluss vom 24.04.2009, Az. BLw 21/08, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2008/BLw__21-08.pdf?__blob=publicationFile&v=1), Randnummern 13 bis 20: Windnutzung trotz Restbewirtschaftung; gesamte Nutzungsentgelte und gesonderte Prüfung eigener Leistungen. Die Entscheidung legt keinen unverändert geltenden Hofeswert für heutige Fälle fest.
+
+## 1.4. Ausgabeformat
+
+Liefere `ergebnis.md` mit Sachverhalt, begründeter Kurzantwort, Vertrags- und Zuflussabgleich, periodischer Nachabfindungsrechnung, Anrechnungskonto, stärkstem Einwand und ausformuliertem Auskunfts- oder Erwiderungsentwurf. Jede offene Position erhält Unterlage, Inhaber und Auswirkung auf die Rechnung. Ende mit nächstem Schritt und Verantwortlichem.
+
+Ausformulierungspflicht: vollständige Sätze, keine Skelette oder Halbsätze als Endprodukt. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown entsprechender Exporthinweis. Ohne Dateifunktion vollständigen Text statt erfundenem Download liefern.
+
+## 1.5. Beispiele
+
+Ein Vertrag gewährt 40.000 EUR Mindestentgelt oder fünf Prozent des Betreiberumsatzes und zusätzlich 3.000 EUR Wegeentgelt. Bei 1.000.000 EUR belegtem Umsatz sind zunächst 53.000 EUR vertragliches Soll mit der Abrechnung abzugleichen, nicht 93.000 EUR. Die Nachabfindung folgt erst nach eigener Tatbestands-, Abzugs- und Quotenprüfung.
+
+---
+
 ## Skill: `hoeferecht-nachabfindung-20-jahre-paragraf-13-hoefeordnung`
 
 _Prüft Nachabfindungsansprüche nach HöfeO Paragraf 13 bei Veräußerung, Teilverkauf, Gesellschaftseinbringung, Zwangsversteigerung, Enteignung oder gewinnbringender Nutzungsänderung innerhalb von zwanzig Jahren._
@@ -906,61 +948,6 @@ Jede Rechenzeile erhält Betrag, Rechtsgrund, Beleg und Streitstatus. Verkehrswe
 ## 8. Ausgabe
 
 Liefere je nach Rolle ein gestuftes Auskunftsverlangen, eine bezifferte Zahlungsaufforderung, einen Antrag an das Landwirtschaftsgericht oder eine Erwiderung. Füge Ereignismatrix, Rechenblatt, Belegliste, Verjährungszeile und stärkstes Gegenargument bei.
-
----
-
-## Skill: `schnittstelle-mandantenentscheidung`
-
-_Für Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Agrarrecht._
-
-# Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage
-
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; landesrechtliche Wald-, Jagd-, Naturschutz- und Landwirtschaftsregeln live ergänzen, wenn sie den konkreten Auftrag tragen:
-
-- `§ 581 Abs. 1 BGB` — Pachtvertrag als Grundtyp.
-- `§ 585 Abs. 1 BGB` — Landpachtvertrag.
-- `§ 594a Abs. 1 BGB` — Kündigung und Fristen im Landpachtrecht.
-- `§ 1 GrdstVG` — Genehmigungspflicht im landwirtschaftlichen Grundstücksverkehr.
-- `§ 9 GrdstVG` — Versagungsgründe.
-- `§ 1 HöfeO` — Hofeigenschaft.
-- `§ 5 HöfeO` — Hoferbenstellung und Wirtschaftsfähigkeit live prüfen.
-- `§ 9 BWaldG` — Waldumwandlung.
-- `§ 11 BWaldG` — ordnungsgemäße Bewirtschaftung des Waldes.
-- `§ 14 BWaldG` — Betreten des Waldes.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Bekanntgabe, Vertragsschluss, Förderjahr, Kontrollereignis und konkretes Pachtjahr bestimmen; BGB Paragraf 594a Absatz 1 verlangt bei unbestimmter Landpacht die Kündigung spätestens am dritten Werktag eines Pachtjahrs zum Schluss des nächsten Pachtjahrs.
-- Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage.
-
-## Spezialwissen: Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage
-- **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Schnittstelle** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "plugin": "urteilsbauer-relationsmacher",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {"url": "https://www.gesetze-im-internet.de/zpo/__286.html", "checked_on": "2026-09-14", "supports": "Amtlicher Suchabruf: Würdigung des gesamten Verhandlungs- und Beweisstoffs sowie Angabe der leitenden Überzeugungsgründe."},
+    {"url": "https://www.gesetze-im-internet.de/rpflg_1969/__11.html", "checked_on": "2026-09-14", "supports": "Amtlicher Suchabruf: allgemeiner Rechtsbehelf vorrangig; Erinnerung nur unter den Voraussetzungen und Ausnahmen der weiteren Absätze."}
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Relation und der gelesene Beweiswürdigungs-Skill sind passend, aber Mini und Werkstatt widersprachen sich bei Pflicht-Erstprodukten und endgültiger Entscheidungsrolle. Behauptete Fundstellen waren unbrauchbar.",
+    "changes": ["Entwurfscharakter durchgehend klargestellt", "Pflichtinventur bei gezieltem Auftrag aufgehoben", "Erfundene persönliche Zeugeneindrücke ausgeschlossen", "Pauschale Erinnerung und behauptete Rechtsprechungsfundstellen korrigiert"],
+    "sha256": "4cd85c97496042f996c18213931e652356ddd4484b9a8ae14eda5bfc56aab0a7"
+  },
+  "selection": {
+    "positive": ["Formuliere aus Protokoll und richterlich mitgeteilter Würdigung den Beweisabschnitt eines Urteilsentwurfs.", "Erstelle eine Relation mit Schlüssigkeit, Erheblichkeit und offenen Beweisfragen."],
+    "negative": ["Schreibe einen parteilichen Mahnbrief ohne gerichtlichen Entscheidungsentwurf.", "Berechne lediglich eine Anwaltsrechnung nach RVG."]
+  },
+  "cases": [{
+    "id": "widersprechende-zeugen-ohne-richterwertung",
+    "request": "Erstelle in ergebnis.md nur den möglichen Beweiswürdigungsabschnitt und die noch notwendigen Rückfragen, keine vollständige Akteninventur. In einem Zivilprozess ist streitig, ob am 3. März 2026 eine Kiste mit 20 Bauteilen übergeben wurde. Zeuge A sagt laut Protokoll, er habe die geschlossene Kiste übergeben, den Inhalt aber nicht geprüft. Zeugin B sagt, am Empfang sei eine leere Kiste angekommen. Ein Lieferschein trägt eine unleserliche Unterschrift; die Beklagte bestreitet deren Zuordnung. Beide Zeugen wurden vernommen. Die Richterin hat noch keinen persönlichen Eindruck oder Überzeugungsstand mitgeteilt. Weitere Belege sind nicht vorhanden. Die Klägerin trägt nach bereits abgeschlossener rechtlicher Prüfung die Beweislast für die Lieferung der Bauteile.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id": "C01", "text": "Das Ergebnis unterscheidet Übergabe einer Kiste vom Nachweis ihres Inhalts und würdigt den Widerspruch zwischen A und B als offen.", "deliverables": ["ergebnis.md"]},
+      {"id": "C02", "text": "Es erfindet weder persönliche Glaubwürdigkeit noch einen gerichtlichen Überzeugungsstand und kennzeichnet den entscheidenden Abschnitt als von richterlicher Wertung abhängig.", "deliverables": ["ergebnis.md"]},
+      {"id": "C03", "text": "Der unleserliche Lieferschein wird nicht ohne Prüfung einer Person zugeordnet; eine etwaige Beweislastfolge wird nur bedingt für den verbleibenden Nichtnachweis erläutert.", "deliverables": ["ergebnis.md"]}
+    ],
+    "target_skill": "beweiswuerdigung-mit-richter-input"
+  }]
+}

@@ -171,6 +171,13 @@ def main() -> int:
     original = README.read_text(encoding="utf-8")
     updated = replace_directory(original, build_directory(plugins))
     updated = replace_catalog(updated, build_catalog(plugins))
+    counts = inventory_counts(plugins)
+    updated = re.sub(r"(\| \*\*Skills \(SKILL\.md\)\*\* \| )\d+", lambda m: m[1] + str(counts["skills"]), updated)
+    versions = {plugin.get("version") for plugin in plugins}
+    if len(versions) != 1 or not isinstance(next(iter(versions)), str):
+        raise RuntimeError("Uneinheitliche Marketplace-Versionen")
+    version = next(iter(versions))
+    updated = re.sub(r"(\| \*\*Plugin-Version / Arbeitsstand\*\* \| `)v\d+\.\d+\.\d+", lambda m: m[1] + "v" + version, updated)
     README.write_text(updated, encoding="utf-8")
     print(
         "README.md: Hauptverzeichnis und vollständiger A-Z-Katalog "

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "fashion-law-moderecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2011/1007/oj/deu",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 12 und 16: nichttextile tierische Teile kennzeichnen; Faserinformationen vor Onlinekauf sichtbar bereitstellen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Einstieg führte Modeaufträge pauschal in eine allgemeine Schutzrechtsakte und ignorierte Produktkennzeichnung.",
+    "changes": [
+      "Eigene Produktfreigaberoute mit Stückliste und Shopansicht ergänzt.",
+      "Tierische Bestandteile und gesonderte Werbenachweise konkretisiert."
+    ],
+    "sha256": "447cd29b55d04d0e9b15703f8455a8659b789ffa7e96e3372d6aa416243f7487"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe Etikett und Shoptext einer neuen Jackenkollektion.",
+      "Bewerte ein nachgeahmtes Textilmuster und die Rechtekette."
+    ],
+    "negative": [
+      "Prüfe einen technischen Maschinenpatentanspruch.",
+      "Erstelle eine Lohnabrechnung für ein Modehaus."
+    ]
+  },
+  "cases": [
+    {
+      "id": "jacke-lederlasche-onlineetikett",
+      "request": "Ein deutsches Modelabel verkauft eine Jacke online an Verbraucher. Die belegte textile Zusammensetzung ist 80 Prozent Baumwolle und 20 Prozent Polyester. Zusätzlich ist eine kleine echte Lederlasche angenäht. Das Etikett nennt die Faseranteile, aber keine tierischen Teile. Im Shop steht nur Cotton Blend und vegan; die Anteile sind erst auf einem Foto der gelieferten Ware lesbar. Erstelle ergebnis.md mit konkreten Korrekturtexten und getrennten Befunden für Kennzeichnung und Werbeaussage. Es gibt keinen Schutzrechtsstreit.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis verlangt den Hinweis auf nichttextile Teile tierischen Ursprungs und nimmt für die kleine Lederlasche keine unbelegte Bagatellausnahme an.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Faseranteile werden in der Online-Korrektur vor Kauf sichtbar und mit zutreffenden Bezeichnungen angegeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Vegan-Aussage wird angesichts echten Leders nicht freigegeben; der Befund bleibt vom Faserkennzeichnungsrecht getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "textilkennzeichnung-eu-upcycling-repair"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "internal-investigations-praxis",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bdsg_2018/__26.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Volltext Absatz 1: dokumentierte Verdachtsanzeichen, Erforderlichkeit und Verhältnismäßigkeit bei Straftataufklärung; Absatz 6 Beteiligungsrechte."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Scope und Beweishypothesen waren passend, aber der Mini nannte irrelevante pauschale Strafrahmen und stoppte gerade bei drohender Löschung.",
+    "changes": [
+      "Begrenzte Sicherung von Auswertung getrennt.",
+      "Konkrete Beschäftigtendatenprüfung statt allgemeiner Datensammlung.",
+      "Entlastungsbelege, Originalerhalt und fehlende Beschlagnahmeschutzgarantie ergänzt."
+    ],
+    "sha256": "e9b056408030e0627207c228e98838880a7b813df8b369744b9da5e6f2a703ad"
+  },
+  "selection": {
+    "positive": [
+      "Grenze eine interne Untersuchung zu verdächtigen Lieferantenrechnungen ein.",
+      "Erstelle einen verhältnismäßigen Daten- und Interviewplan mit Gegenhypothesen."
+    ],
+    "negative": [
+      "Überwache heimlich alle privaten Geräte ohne konkreten Anlass.",
+      "Erstelle ausschließlich eine Strafverteidigung nach Anklageerhebung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "lieferantenverdacht-begrenzter-scope",
+      "request": "Die Geschäftsführung einer GmbH beauftragt eine interne Vorprüfung. Drei Rechnungen des Lieferanten L vom Juli enthalten dieselbe Leistungsbeschreibung und wurden vom Einkäufer E freigegeben. Ein Zahlungsabgleich fehlt; Doppelabrechnung ist nur eine Hypothese. Die Finanzbuchhaltung besitzt Rechnungen, Bestellungen und Zahlungsjournale. E nutzt daneben ein privates Smartphone. Der Geschäftsführer verlangt vorsorglich sämtliche privaten Chats aller 80 Beschäftigten der letzten fünf Jahre. Eine Einwilligung oder spezifische Rechtsprüfung dazu liegt nicht vor. Erstelle ergebnis.md mit begrenztem Untersuchungsauftrag, ersten Belegabgleichen und Freigabegrenzen; führe keine Datenerhebung aus.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Priorisiert Rechnungs-, Bestell- und Zahlungsabgleich zu L im konkreten Zeitraum und führt plausible Entlastung durch getrennte Leistungen oder fehlende Doppelzahlung mit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Gibt die flächendeckende private Chatkopie nicht frei und verlangt maßnahmenbezogene Erforderlichkeits- und Rechtsgrundlagenprüfung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Behandelt Verdacht nicht als festgestellten Betrug und trennt vorgeschlagene Sicherung von bereits erfolgter Erhebung oder Sanktion.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "auftrag-scope"
+    }
+  ]
+}

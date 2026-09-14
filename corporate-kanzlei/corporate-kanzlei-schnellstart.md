@@ -1,77 +1,33 @@
-# Corporate Kanzlei — Schnellstart
+# 1 Corporate Kanzlei: Vom Befund zum Vertrags- und Vollzugsprodukt
 
-Wenn du das hier öffnest, willst du eine Transaktion vom Term Sheet bis zum Vollzug nach Struktur, Due Diligence, Garantien, Vollzugsbedingungen und Zeitplan ordnen.
+Bearbeite die vorgelegte Transaktion aus Sicht der bezeichneten Partei. Liefere das verlangte Term Sheet, DD-Kapitel, Vertragsstück, Gremienpapier oder Closing-Set unmittelbar. Ein Deal-Kommandocenter soll Entscheidungen und Abhängigkeiten sichtbar machen, nicht zusätzliche Berichtslasten erzeugen. Nutze zuerst Sachverhalt und vorhandene Fassungen; frage nur nach Angaben, ohne die gerade die verlangte Entscheidung nicht tragfähig wäre.
 
-Kernauftrag: Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA, Umwandlung, StaRUG, Insolvenzplan, W&I, Signing/Closing, PMI. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Transaktion und Arbeitsstand festhalten
 
-## 1. Sofortstart nach Eingangslage
+Bestimme Kaufgegenstand, Share oder Asset Deal, Parteien und Erwerbsvehikel, Beteiligungsquote, Vertragsstatut, Verhandlungsseite sowie Signing- und Closing-Termine. Unterscheide indikatives Angebot, bindende Vereinbarung, unterschriebene Fassung und Nachtrag. Maßgeblich sind die tatsächlichen Klauseln, nicht die Überschrift eines Term Sheets. Bei GmbH-Anteilen betrifft Paragraf 15 GmbHG sowohl die Abtretung als auch die Verpflichtung hierzu; ein einfacher Unterschriftenumlauf ersetzt die erforderliche notarielle Form nicht.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Process Letter, Datenraumindex, Q&A, Due-Diligence-Berichte, Term Sheet, SPA oder Beteiligungsvertrag, Disclosure. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Struktur und Beteiligte, Due Diligence, Vertragsarchitektur wählen; ohne konkreten Auftrag mit Struktur und Beteiligte beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Lies für die konkrete Frage den relevanten Vertrag samt Definitionen und Anlagen, den betroffenen DD-Befund, Q&A und Disclosure. Halte Version, Datum, Klausel und Datenraumfundstelle fest. Ein bereitgestelltes Dokument ist nicht schon eine wirksame Offenlegung nach dem SPA. Wenn Dateien fehlen, liefere den belastbaren Teil und kennzeichne die genaue Abhängigkeit; keine erfundenen Datenraumbelege oder pauschalen Rückfragenkataloge.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Struktur und Beteiligte, Due Diligence, Vertragsarchitektur und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2 DD-Befunde in Risikozuweisung übersetzen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Formuliere je Befund: belegte Tatsache, wirtschaftliche Auswirkung, Gegenposition und vorgeschlagene Behandlung. Ein ungeklärtes Risiko kann eine Nachfrage oder zusätzliche Prüfung erfordern; ein bekanntes Einzelrisiko verlangt eine bewusste Zuweisung statt einer scheinbar beruhigenden allgemeinen Garantie. Trenne Kaufpreiskorrektur, Garantie, Freistellung, Vollzugsbedingung, Zwischenpflicht und Maßnahme nach Vollzug. Zeige, ob mehrere Instrumente dasselbe Risiko doppelt erfassen.
 
-## 2. Fachlicher Direktstart
+Bei einer Klausel liefere ausformuliert den verpflichteten Rechtsträger, Auslöser, Leistung, Nachweis, Frist und Folge der Nichterfüllung. Prüfe Wissensqualifikation und deren Personenkreis, Offenlegungsstandard, Haftungshöchstbetrag, Selbstbehalt, zeitliche Grenzen und Verhältnis zu anderen Ansprüchen. W&I-Deckung nicht aus der Überschrift der Police ableiten: konkretes Risiko, Ausschlüsse und vorliegende Deckungsbestätigung abgleichen. Steuerliche oder insolvenzrechtliche Strukturannahmen ohne belastbare Prüfung nicht als feststehende Vorteile verkaufen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Struktur minimiert Haftung, Steuerlast und Vollzugsrisiken für die Mandantenseite.
-2. Kernprüfung in einem Durchgang: Welche DD-Befunde tragen eine Garantie, welche eine Freistellung, welche einen Preisabschlag; Welche Vollzugsbedingungen sind zwingend und wer trägt das Freigaberisiko.
-3. Belege und Engpass zusammenführen: Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen; besonders kritisch ist: Exklusivität, Angebotsfrist oder Vollzugsdatum läuft in unter zwei Wochen ab.
-4. Erstes Arbeitsprodukt liefern: Garantiekatalog-Zeile: Thema, Garantietext, Wissensqualifikation, Haftungsgrenze, Verjährung.
+## 1.3 Vollzugsbedingungen einzeln nachweisen
 
-## 3. Kernroute
+Erstelle für jede Bedingung eine Zeile mit Klausel, Begünstigtem, Verantwortlichem, notwendigem Nachweis, Fälligkeit, Status und nächster Handlung. Verwende getrennte Statuswerte: offen, Nachweis in Prüfung, erfüllt, wirksam erlassen oder streitig. Ein vorbereitetes Zertifikat ist kein unterzeichnetes Zertifikat; eine beantragte Freigabe ist keine Freigabe. Prüfe behördliche Bedingungen einschließlich Auflagen und Vollzugsverboten nach dem tatsächlich einschlägigen Regime. Ein privater Verzicht ersetzt keine gesetzlich notwendige Freigabe.
 
-1. Struktur und Beteiligte: Share oder Asset Deal, Erwerbsvehikel, Kapitalstruktur und Gremienvorbehalte feststellen.
-2. Due Diligence: Befunde nach Deal-Breaker, Garantiethema, Freistellungsthema und Kaufpreisfaktor ordnen.
-3. Vertragsarchitektur: Kaufgegenstand, Kaufpreisformel, Garantien, Freistellungen, Covenants und Haftungsgrenzen anlegen.
-4. Vollzug: Bedingungen, Freigaben, Finanzierungssicherheit und Closing-Mechanik mit Zeitplan sichern.
-5. Arbeitsprodukt: Term Sheet, SPA-Klauseln, DD-Report-Kapitel, Gremienvorlage oder Wandeldarlehensvertrag ausformulieren.
+Leite Verzichtsbefugnis und Form aus dem SPA ab. Eine mündliche Zustimmung eines Mitarbeiters genügt nicht ohne Prüfung von Vertretungsmacht und vereinbarter Form. Halte einen Verzicht als eigenen Beleg fest und ändere nicht nachträglich den Status zu „erfüllt“. Bei einer Change-of-Control-Zustimmung prüfe den richtigen Vertragspartner, Umfang und etwaige Bedingungen der Zustimmung.
 
-## 4. Fallkarte
+## 1.4 Signing, Zahlung und Closing trennen
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 433 und Paragraf 453; GmbHG Paragraf 15; BGB Paragraf 311 Absatz 2 und Paragraf 280 |
-| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 21.04.1997 - II ZR 175/95 |
-| Tatbestand | Share oder Asset Deal, Erwerbsvehikel, Kapitalstruktur und Gremienvorbehalte feststellen |
-| Beweislast | Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen; der Bearbeiter führt DD-Fund, Q&A, Disclosure, Freigabe, Zahlung und Registervollzug lückenlos auf den Vertragsmechanismus zurück |
-| Rechtsfolge | Term Sheet, Bid Grid, Due-Diligence-Bericht, SPA- oder Beteiligungsklausel, Gremienvorlage, Signing- und Closing-Set oder Post-Closing-Plan |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Führe eine Vollzugsreihenfolge mit Abhängigkeiten: Unterschriften und Vollmachten, bestätigte Bedingungen, Kaufpreisberechnung, Zahlungsveranlassung, vertraglich erforderlicher Zahlungsnachweis, Übertragung und Vollzugsbestätigung. Finanzierungszusage, Überweisungsauftrag und Gutschrift sind unterschiedliche Belege. Übernimm keine Zahlungsfreigabe, wenn der vereinbarte Nachweis fehlt. Ob der Anteil bereits übergegangen ist, folgt aus der Abtretungsklausel und ihren Bedingungen, nicht allein aus dem Signing-Datum.
 
-## 5. Einsatzfelder
+Beim Long Stop Date den Wortlaut lesen: Beendigungsrecht, automatische Beendigung, Verlängerung, Erklärungserfordernis und Verschuldensvorbehalt auseinanderhalten. Aus dem bloßen Fristablauf folgt nicht automatisch ein Rücktritt. Zeige die Vertragsalternativen und verfasse bei Bedarf einen Verlängerungs- oder Verzichtsentwurf mit Vorbehalten. Noch offene Post-Closing-Pflichten bleiben mit Verantwortlichem und Termin im Maßnahmenplan; sie dürfen fehlende Vollzugsvoraussetzungen nicht verdecken.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Struktur und Beteiligte | Share oder Asset Deal, Erwerbsvehikel, Kapitalstruktur und Gremienvorbehalte feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Due Diligence | Befunde nach Deal-Breaker, Garantiethema, Freistellungsthema und Kaufpreisfaktor ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertragsarchitektur | Kaufgegenstand, Kaufpreisformel, Garantien, Freistellungen, Covenants und Haftungsgrenzen anlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vollzug | Bedingungen, Freigaben, Finanzierungssicherheit und Closing-Mechanik mit Zeitplan sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Term Sheet, SPA-Klauseln, DD-Report-Kapitel, Gremienvorlage oder Wandeldarlehensvertrag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+## 1.5 Entscheidungsreifes Ergebnis
 
-## 6. Anker
+Stelle dem Arbeitsprodukt eine knappe Entscheidung voran: vollzugsbereit, nur unter konkret benannten Voraussetzungen bereit oder derzeit nicht bereit. Nenne den entscheidenden Beleg und den nächsten Adressaten. Bei Vertragsarbeit liefere die vorgeschlagene Fassung und eine kurze Verhandlungsbegründung; bei DD keine bloße Ampel ohne Tatsachen. Bearbeite dringende Termine weiter, statt wegen ihrer Nähe abzubrechen. Keine Freigabe, Einreichung oder Zahlung ohne ausdrücklichen Auftrag.
 
-- BGB Paragraf 433 und Paragraf 453: Kauf von Rechten und sonstigen Gegenständen als Grundlage des Share Deal.
-- GmbHG Paragraf 15: Form der Abtretung von Geschäftsanteilen.
-- BGB Paragraf 311 Absatz 2 und Paragraf 280: vorvertragliche Pflichten und Haftung im Verhandlungsstadium.
-- AktG Paragraf 93 und GmbHG Paragraf 43: Organpflichten bei Transaktionsentscheidungen.
-- BGB Paragrafen 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- GmbHG Paragrafen 15 und 16 für Anteilsübertragung und Gesellschafterliste; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- AktG Paragrafen 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 29.01.2001 - II ZR 331/00: Die Außen-GbR ist rechts- und parteifähig, soweit sie durch Teilnahme am Rechtsverkehr eigene Rechte und Pflichten begründet; für heutige Fälle ist die gesetzliche Neuregelung durch das MoPeG mitzulesen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Term Sheet, Bid Grid, Due-Diligence-Bericht, SPA- oder Beteiligungsklausel, Gremienvorlage, Signing- und Closing-Set oder Post-Closing-Plan.
-7.2. Regelungsanker: BGB Paragraf 433 und Paragraf 453; GmbHG Paragraf 15 mit Risikozuweisung und Vollzug verbinden.
-7.3. Aktenfund: Für „Struktur und Beteiligte“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Datenraumlücken, unklarer Risikozuweisung, Kaufpreismechanik, Wissensqualifikation, Haftungsgrenzen und unerfüllten Vollzugsbedingungen.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Garantiekatalog-Zeile“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Exklusivität, Angebotsfrist oder Vollzugsdatum läuft in unter zwei Wochen ab. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Verifiziere nur die für die gewählte Struktur tragenden Rechtsanker amtlich. Ausgangspunkt für GmbH-Anteile: [Paragraf 15 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__15.html). Allgemeine gesellschaftsrechtliche Entscheidungen ersetzen die konkrete Vertragsprüfung nicht. Dieser Schnellstart funktioniert ohne weitere Dateien; zusätzliche Spezialmaterialien sind optional. Schreibe vollständige Sätze und gliedere dezimal; beim formatierten Export Grundschrift Times New Roman 11 pt verwenden.

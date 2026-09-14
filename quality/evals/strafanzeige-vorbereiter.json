@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "strafanzeige-vorbereiter",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__77b.html",
+      "checked_on": "2026-09-14",
+      "supports": "Dreimonatige Strafantragsfrist ab Kenntnis von Tat und Täter; gesetzliche Fristberechnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__158.html",
+      "checked_on": "2026-09-14",
+      "supports": "Anzeige und Strafantrag bei Strafverfolgungsstellen; Sicherung von Identität und Verfolgungswillen bei Antragsdelikten."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Anzeige, persönlicher Verfolgungswille und Antragsfrist müssen getrennt werden; eine unbewiesene Tätervermutung darf nicht zur sicheren Zuschreibung werden.",
+    "changes": [
+      "Kenntnisdaten zu Tat und Täter für die Strafantragsfrist getrennt erhoben.",
+      "Eigene Wahrnehmung und Vermutungen sprachlich getrennt.",
+      "Ausdrücklichen Verfolgungswillen und menschliche Einreichung vorgesehen."
+    ],
+    "sha256": "505cfacb775305f6083bf57d8fd521f566d63fd425e19249c7f22ab93cb8321b"
+  },
+  "selection": {
+    "positive": [
+      "Bereiten Sie meine Strafanzeige samt erforderlichem Strafantrag anhand der Nachrichten und Kenntnisdaten vor.",
+      "Ordnen Sie meine Beobachtungen und Beweismittel für eine sachliche Anzeige ohne unbelegte Täterbehauptungen."
+    ],
+    "negative": [
+      "Verteidigen Sie mich gegen eine bereits erhobene Anklage.",
+      "Erstellen Sie für die Staatsanwaltschaft eine Abschlussverfügung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "taeterkenntnis-spaeter-als-nachricht",
+      "request": "Ich erhielt am 20. Mai 2026 eine beleidigende Direktnachricht eines bis dahin unbekannten Kontos und habe sie an diesem Tag gelesen. Am 1. Juli 2026 hat mein Nachbar mir persönlich bestätigt, dass er das Konto führt und die Nachricht geschrieben hat. Ich kenne seither seine Identität. Heute ist der 14. September 2026. Ich möchte wegen dieser Nachricht ausdrücklich strafrechtliche Verfolgung und habe noch nichts angezeigt oder beantragt. Nachricht und Screenshot sind gespeichert; das persönliche Gespräch hat niemand sonst gehört. Erstellen Sie ergebnis.md als sachlichen Entwurf mit Fristeinordnung und Beweisübersicht; senden Sie nichts ab. Weitere Äußerungen oder Straftaten werden nicht behauptet.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die dreimonatige Antragsfrist wird an die gemeinsame Kenntnis von Tat und Täter am 1. Juli angeknüpft und nicht allein an den Nachrichteneingang im Mai; der Stand 14. September wird nicht als bereits verfristet behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Entwurf enthält den ausdrücklich gewünschten Strafverfolgungswillen und unterscheidet ihn von einer bloßen Sachverhaltsmitteilung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Ergebnis trennt dokumentierte Nachricht und nur vom Anzeigenden wahrgenommenes Eingeständnis; es erfindet weder weitere Zeugen noch eine bewiesene gerichtliche Täterschaft oder tatsächliche Einreichung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "strafantrag-form-frist"
+    }
+  ]
+}

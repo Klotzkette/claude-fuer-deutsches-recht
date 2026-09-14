@@ -1,75 +1,25 @@
-# Relationstechnik Zivilrecht — Schnellstart
+# 1. Zivilrelation aus dem Streitstoff entwickeln
 
-Wenn du das hier öffnest, arbeitest du richterlich an einer Zivilakte: Relation, Hinweise, Beweisbeschluss, Verhandlungsleitung und Urteil.
+Lies zuerst Anträge, Klage, Erwiderung, Replik und vorhandene Protokolle. Bearbeite die angeforderte Station, das Votum oder den Beweisbeschluss. Halte Parteien, Streitgegenstand, Verfahrensstand und entscheidende Aktenstellen fest. Fehlende Seiten oder unlesbare Anlagen konkret benennen; keine Aussagen aus ihrem Dateinamen ableiten. Rückfragen nur zu Lücken, die eine tragende Bewertung blockieren. Das Ergebnis ist ein Vorschlag zur richterlichen Prüfung, keine bereits getroffene Entscheidung.
 
-Kernauftrag: Relationstechnik Zivilrecht: Klägerstation, Beklagtenstation, Beweisstation und Entscheidungsstation mit Schlüssigkeit, Erheblichkeit, Beweislast, Hinweisen und Urteilsvotum. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Klägerstation
 
-## 1. Sofortstart nach Eingangslage
+Prüfe Zulässigkeitsfragen soweit entscheidungserheblich und anschließend den Klägervortrag unter Wahrunterstellung auf Schlüssigkeit. Ordne jedes Anspruchsmerkmal einer vorgetragenen Tatsache zu. Dass der Gegner widerspricht oder ein Beleg fehlt, macht einen ansonsten vollständigen Vortrag nicht unschlüssig. Fehlenden Vortrag nicht durch eine vermutete Zeugenaussage ersetzen. Bei mehreren Forderungen gesonderte Anspruchs- und Betragswege führen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Aktenaufnahme, Relation, Prozessleitung wählen; ohne konkreten Auftrag mit Aktenaufnahme beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 1.2. Beklagtenstation und Replik
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Aktenaufnahme, Relation, Prozessleitung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Unterscheide Bestreiten eines Anspruchsmerkmals, rechtshindernden oder rechtsvernichtenden Vortrag und Einreden. Prüfe jeweils, ob der Vortrag bei Wahrunterstellung das Ergebnis ändern würde. Die bloße Bezeichnung „unbegründet“ ersetzt keinen erheblichen tatsächlichen Gegenvortrag. Für Erklärungslast und Bestreiten mit Nichtwissen ZPO Paragraf 138 anhand der konkreten Wahrnehmungs- und Handlungssphäre prüfen.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Die Replik kann einen neuen Streitpunkt schaffen oder eine Einwendung entkräften; sie darf nicht stillschweigend als bewiesen behandelt werden. Beispiel Erfüllung: Ein entstandener Zahlungsanspruch und dessen Erlöschen nach BGB Paragraf 362 sind verschiedene Prüfungsschritte. Der behauptete Zahlungsvorgang muss nach Zeitpunkt, Betrag, Empfänger und Zuordnung konkretisiert werden, bevor seine Bedeutung bewertet wird.
 
-## 2. Fachlicher Direktstart
+## 1.3. Beweisstation
 
-1. Leitfrage aus Akte und Auftrag festlegen: Ist die Klage schlüssig und das Bestreiten erheblich.
-2. Kernprüfung in einem Durchgang: Welche Tatsache ist streitig, beweisbedürftig und wem zur Last; Welcher Hinweis ist geboten, bevor entschieden werden darf.
-3. Belege und Engpass zusammenführen: Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle; besonders kritisch ist: Eine Notfrist oder Verkündungsfrist läuft; Fristenkontrolle vor Inhaltsarbeit.
-4. Erstes Arbeitsprodukt liefern: Relationszeile: Anspruch, Klägervortrag, Bestreiten, Beweislast, Beweismittel, Ergebnis.
+Nimm nur streitige und erhebliche Tatsachen in das Beweisprogramm auf. Ordne jeder Tatsache die einschlägige Beweislastregel, vorhandene Angebote und die Folge eines offenbleibenden Befunds zu. Eine Partei ist nicht allein deshalb für alles beweisbelastet, weil sie Klägerin ist. Gesetzliche Sonderregeln und Beweiserleichterungen getrennt prüfen; Sachnähe oder sekundäre Darlegungslast nicht automatisch zur vollständigen Beweislastumkehr erklären.
 
-## 3. Kernroute
+Formuliere ein Beweisthema als Tatsachenfrage, nicht als Rechtsfrage „Besteht der Anspruch?“. Bei Zeugen konkreten Vorgang und Wahrnehmung zuordnen. Vorhandene Urkunden anhand ihres Inhalts würdigen: Eine Überweisungsanweisung beweist nicht ohne Weiteres den Eingang beim Gläubiger. Vernehmungen oder Begutachtungen, die noch nicht stattgefunden haben, dürfen keine scheinbaren Ergebnisse erhalten.
 
-1. Aktenaufnahme: Parteien, Anträge, Verfahrensstand, Fristen und Zuständigkeit sichern.
-2. Relation: Klägerstation, Beklagtenstation, Beweisstation und rechtliche Würdigung trennen.
-3. Prozessleitung: Hinweise, Auflagen, Terminsvorbereitung und Vergleichsoptionen ordnen.
-4. Beweis: Beweisbedürftige Tatsachen, Beweismittel, Beweislast und Beschlussfassung strukturieren.
-5. Arbeitsprodukt: Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren.
+## 1.4. Entscheidung oder weiterer Schritt
 
-## 4. Fallkarte
+Unterscheide nach abgeschlossener Beweisaufnahme positive Feststellung, negative Feststellung und nicht aufklärbaren Streitpunkt. Erst dann eine Beweislastentscheidung begründen. Fehlt noch eine erhebliche Beweiserhebung, keinen fertigen Urteilsausgang vortäuschen; stattdessen den erforderlichen Beweisbeschluss vorbereiten. Bei ergänzungsbedürftigem Vortrag einen konkreten Hinweis mit betroffenem Merkmal und Gelegenheit zur Stellungnahme entwerfen, nicht pauschal „weiter vortragen“ verlangen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | ZPO Paragraf 139; ZPO Paragraf 253 und Paragraf 138; ZPO Paragraf 286 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Parteien, Anträge, Verfahrensstand, Fristen und Zuständigkeit sichern |
-| Beweislast | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle |
-| Rechtsfolge | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Aktenaufnahme | Parteien, Anträge, Verfahrensstand, Fristen und Zuständigkeit sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Relation | Klägerstation, Beklagtenstation, Beweisstation und rechtliche Würdigung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Prozessleitung | Hinweise, Auflagen, Terminsvorbereitung und Vergleichsoptionen ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweis | Beweisbedürftige Tatsachen, Beweismittel, Beweislast und Beschlussfassung strukturieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- ZPO Paragraf 139: materielle Prozessleitung und Hinweispflichten.
-- ZPO Paragraf 253 und Paragraf 138: Klageanforderungen und Erklärungslast der Parteien.
-- ZPO Paragraf 286: freie Beweiswürdigung.
-- ZPO Paragraf 300 ff. und Paragraf 313: Endurteil und Urteilsinhalt.
-- Paragraf 138 ZPO für Vortrag, Paragraf 286 ZPO für Überzeugungsbildung, Paragraf 287 ZPO für Schadensschätzung, Paragraf 296 ZPO für Verspätung und Paragraf 313 ZPO für Urteilsaufbau werden sichtbar abgearbeitet; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 253, 256, 263, 264, 269, 286, 287, 296, 313 ZPO bilden den Pflichtstamm für Antrag, Feststellung, Klageänderung, Rücknahme, Beweiswürdigung, Schätzung, Präklusion und Urteilsaufbau; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren.
-7.2. Norm: ZPO Paragraf 139; ZPO Paragraf 253 und Paragraf 138 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Aktenaufnahme“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Tatsache ist streitig, beweisbedürftig und wem zur Last.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Relationszeile“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Eine Notfrist oder Verkündungsfrist läuft; Fristenkontrolle vor Inhaltsarbeit. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Das Votum erklärt, welche Station welche Rechtsfolge trägt. Tenor, Nebenentscheidungen und Gründe nur soweit durch den Stand gedeckt ausformulieren; Anträge und Beträge auf Widersprüche kontrollieren. Keine Normenliste unabhängig vom Fall abarbeiten. Tragende Normen und Rechtsprechung amtlich verifizieren und mit Fundstelle nennen. Dezimal gliedern, Export in Times New Roman 11 pt. Weitere Stationsskills und Referenzen sind optional; die vollständige Relationslogik ist in diesem Mini enthalten.

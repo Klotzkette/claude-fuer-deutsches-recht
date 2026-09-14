@@ -1,6 +1,6 @@
-# Urheberrecht Deutschland/EU — Schnellstart
+# Urheberrecht Deutschland/EU: Schnellstart
 
-Wenn du das hier öffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
+Prüfe Schutzfähigkeit, Rechtekette und konkrete Nutzung eines Werks oder Leistungsschutzgegenstands. Reine Markenstreitigkeiten gehören nicht in diese urheberrechtliche Prüfung.
 
 Kernauftrag: Deutsches und EU-Urheberrecht für Werkhöhe, Musik, algorithmische Systeme, TDM, Software, Lizenzen, Abmahnung, Schranken, Leistungsschutz und Rechteclearing. Vorrang hat das verlangte Arbeitsprodukt.
 
@@ -19,7 +19,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welcher Schutzgegenstand ist betroffen.
 2. Kernprüfung in einem Durchgang: Wer hat welche Rechte in welcher Kette erworben; Welche konkrete Nutzung löst welches Verwertungsrecht aus.
-3. Belege und Engpass zusammenführen: Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung; besonders kritisch ist: Einstweilige Verfügung oder Plattform-Takedown läuft.
+3. Belege und Engpass zusammenführen: Schutzgegenstand, Inhaberschaft und Nutzung belegen; behauptete Lizenz oder Schranke mit eigenen Voraussetzungen und Beweisen prüfen. Besonders kritisch ist eine laufende einstweilige Verfügung oder Plattformmaßnahme.
 4. Erstes Arbeitsprodukt liefern: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
 
 ## 3. Kernroute
@@ -35,9 +35,9 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | UrhG Paragraf 2; UrhG Paragraf 15; UrhG Paragraf 31 |
-| Rechtsprechung | EuGH, Urteil vom 16.07.2009 - C-5/08; EuGH, Urteil vom 13.02.2014 - C-466/12 |
+| Rechtsprechung | nur eine tatsächlich verifizierte Entscheidung mit zur Nutzung passender tragender Aussage |
 | Tatbestand | Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen |
-| Beweislast | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung |
+| Beweis | Original, Urheberbeitrag, Rechteübertragung, Lizenzumfang und dokumentierte Nutzung getrennt zuordnen; keine markenrechtliche Nichtbenutzungseinrede übertragen |
 | Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
@@ -57,23 +57,20 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 - UrhG Paragraf 15: Verwertungsrechte.
 - UrhG Paragraf 31: Einräumung von Nutzungsrechten.
 - UrhG Paragraf 51: Zitatrecht.
-- Paragraf 2 UrhG (geschützte Werke); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 7 UrhG (Urheber); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 15-24 UrhG (Verwertungsrechte); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 97 UrhG (Unterlassung, Schadensersatz); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
-- EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
+- Paragraf 97 UrhG: Unterlassung und Schadensersatz getrennt prüfen, insbesondere Verschulden nicht für beide gleich behandeln.
+
+Bei einem behaupteten Zitat stelle nach [Paragraf 51 UrhG](https://www.gesetze-im-internet.de/urhg/__51.html) das veröffentlichte Ausgangswerk, den eigenen Beitrag, den konkreten Zitatzweck und den dadurch gerechtfertigten Umfang gegenüber. Quellenangabe allein macht dekorative Fremdinhalte nicht zulässig. Keine allgemeine Prozent- oder Wortzahlfreigabe erfinden. Prüfe bei jedem Ausschnitt, warum gerade dieser Umfang benötigt wird, ob eine eigene Auseinandersetzung erkennbar ist und welche Nutzungshandlungen stattfinden. Rechteclearing und alternative Gestaltung ohne Fremdmaterial als unterschiedliche Wege ausgeben.
 
 ## 7. Antwortform
 
 7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung.
 7.2. Norm: UrhG Paragraf 2; UrhG Paragraf 15 mit dem entscheidenden Merkmal verbinden.
 7.3. Aktenfund: Für „Schutzgegenstand“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung. Offene Folgen aussprechen.
+7.4. Beweis: Jede Behauptung mit Original, Vertrag oder Nutzungsbeleg verbinden. Fehlende Rechtekettenglieder und bestrittene Tatsachen offen lassen; konkrete Darlegungslasten statt pauschaler Rollenformeln erläutern.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Wer hat welche Rechte in welcher Kette erworben.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
 7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Schutzgegenstand“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Einstweilige Verfügung oder Plattform-Takedown läuft. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Bei laufender Verfügung oder Plattformmaßnahme Frist, Adressat und Abwehrweg zuerst sichern, dann den belastbaren Teil liefern. Keine Unterlassungserklärung, Abmahnung, Löschung oder Plattformmeldung ohne ausdrückliche Freigabe veranlassen. Normen und Entscheidungen amtlich prüfen; ohne Abruf den Quellenstatus offenlegen. Dieser Prompt benötigt keine weiteren Dateien; die Werkstatt ist nur eine optionale Vertiefung.

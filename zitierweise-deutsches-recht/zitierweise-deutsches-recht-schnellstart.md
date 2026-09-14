@@ -1,77 +1,33 @@
-# Zitierweise Deutsches Recht — Schnellstart
+# 1. Juristische Zitate verifizieren und vereinheitlichen
 
-Wenn du das hier öffnest, willst du aus unsortiertem Material eine belastbare juristische Frage, Subsumtion und sofort nutzbare Textfassung entwickeln.
+Prüfe den Belegapparat des vorgelegten Textes und liefere eine korrigierte Fassung mit Quellenprotokoll. Vorrang hat die tatsächliche Belegbarkeit, nicht die elegante Ergänzung fehlender Daten. Dieses Mini enthält die erforderlichen Hausregeln selbst; weitere Referenzen oder Skills sind nur optional. Die Hauszitierweise ist eine Dokumentkonvention, keine allgemein verbindliche Rechtsnorm.
 
-Kernauftrag: Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Text und Prüfauftrag
 
-## 1. Sofortstart nach Eingangslage
+Lies den vollständigen zu prüfenden Text einschließlich Fußnoten, Quellenliste und mitgelieferter Auszüge. Kläre, ob nur die Form vereinheitlicht oder auch die inhaltliche Tragfähigkeit der Belege geprüft werden soll. Ein reiner Formatcheck darf nicht als Vollverifikation bezeichnet werden. Fehlen Text oder Quellen vollständig, eine gebündelte Rückfrage stellen; sonst mit den vorhandenen Belegen beginnen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegte Aufgabenbeschreibung, Datengrundlage, Quellen und Berechnungen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Auftrag und Adressat, Sachverhalt, Normstruktur wählen; ohne konkreten Auftrag mit Auftrag und Adressat beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Erfasse jedes Zitat mit Position, zu belegender Aussage, Quellenart, vorhandenen Identifikatoren und Prüfstatus. Gleiche Mehrfachnennungen ab, ohne unterschiedliche Entscheidungen mit ähnlichen Aktenzeichen zusammenzuführen. Ein neueres Veröffentlichungsdatum ist nicht das Entscheidungsdatum.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Auftrag und Adressat, Sachverhalt, Normstruktur und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Rechtsprechung
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Verwende das Schema: Gericht, Entscheidungsform vom Datum - Az. Aktenzeichen, verifizierte Quelle, gegebenenfalls Randnummer. Gericht, Form, Datum und Aktenzeichen an einer tatsächlich zugänglichen amtlichen Quelle prüfen. Die konkrete Randnummer nur angeben, wenn sie in der Quelle vorhanden ist und die zu belegende Aussage trägt. Seitenzahl eines PDF ist keine Randnummer.
 
-## 2. Fachlicher Direktstart
+Amtliche Entscheidung, amtlicher Leitsatz, gerichtliche Pressemitteilung, redaktioneller Leitsatz und Sekundärbesprechung getrennt kennzeichnen. Aus einer Pressemitteilung keine wörtliche Passage des Urteils erzeugen. Bei reinem Suchauszug dessen begrenzten Prüfstatus offenhalten. Ein richtiges Aktenzeichen bestätigt noch nicht die behauptete Rechtsfolge.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete Rechtsfrage muss der Adressat entscheiden oder beantworten.
-2. Kernprüfung in einem Durchgang: Welche Tatsache ist für welches Tatbestandsmerkmal entscheidungserheblich; Welche Fundstelle trägt die Tatsache und welcher Punkt bleibt nur Behauptung.
-3. Belege und Engpass zusammenführen: Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen; besonders kritisch ist: Rechtsfrage und gewünschtes Arbeitsprodukt sind nicht bestimmbar.
-4. Erstes Arbeitsprodukt liefern: Subsumtionszeile: Normmerkmal, Definition, Tatsache, Aktenfund, Schluss, Gegenargument, Beweislast und Zwischenergebnis.
+Belege die Aussage so eng wie die Quelle reicht. Prüfprogramm, Parteivortrag, Vorinstanz und eigene tragende Erwägung des Gerichts auseinanderhalten. Unpassende Belege entfernen oder die Aussage einschränken; keine fehlenden Parallelfundstellen, Datenbanknummern oder Randnummern ergänzen. Unverifizierbares erhält einen konkreten Prüfvermerk, nicht eine scheinbar vollständige Zitierung.
 
-## 3. Kernroute
+## 1.3. Normen und Literatur
 
-1. Auftrag und Adressat: Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen.
-2. Sachverhalt: Chronologie, Beteiligte, Dokumentfundstellen, unstreitige Tatsachen, Behauptungen und Lücken sauber trennen.
-3. Normstruktur: Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen.
-4. Subsumtion und Gegenprobe: für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen.
-5. Arbeitsprodukt: Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren.
+Gesetzeszitate mit Gesetz, Paragraf beziehungsweise Artikel und erforderlichem Absatz, Satz oder Nummer angeben. Paragraf ausschreiben. Bei historischen Sachverhalten maßgebliche Fassung und Stichtag prüfen; aktuelle Fassung nicht stillschweigend rückprojizieren. Ein Änderungsentwurf ist keine geltende Norm.
 
-## 4. Fallkarte
+Kommentare, Monografien und Aufsätze nur mit tatsächlich vorliegendem Auszug oder legitimem Live-Zugriff inhaltlich bestätigen. Autor beziehungsweise Bearbeiter, Werk, Auflage, Jahr und genaue Stelle am Material abgleichen. Einen historischen Werktitel nicht mechanisch durch einen heutigen Titel ersetzen. Ein Titelwechsel berechtigt nicht dazu, eine andere Auflage oder deren Randnummer zu erfinden.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 20 Absatz 3; BGB Paragraf 133 und Paragraf 157; ZPO Paragraf 138 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen |
-| Rechtsfolge | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Bei Materialien Herausgeber, Titel, Datum oder Stand, Dokumentnummer und genaue Seite beziehungsweise Gliederungsstelle nennen. Internetquellen erhalten konkreten Seitentitel, verantwortliche Stelle, URL und soweit sinnvoll Abrufdatum. Eine bloße Startseite ersetzt nicht den Beleg für eine konkrete Aussage.
 
-## 5. Einsatzfelder
+## 1.4. Hausstil und Ergebnis
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Auftrag und Adressat | Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sachverhalt | Chronologie, Beteiligte, Dokumentfundstellen, unstreitige Tatsachen, Behauptungen und Lücken sauber trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Normstruktur | Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Subsumtion und Gegenprobe | Für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Innerhalb des Dokuments konsequent dieselbe Form verwenden: vierstelliges Jahr, übliche Gerichtskürzel, Aktenzeichenmarker Az., Zeitschriftenkürzel grundsätzlich ohne Punkt. Bei Zeitschriftenfundstellen nach dieser Hausregel kein zusätzliches S. vor der Seite; bei Dokumentseiten darf S. die Fundstelle verdeutlichen. Ein vgl. nur verwenden, wenn tatsächlich ein vergleichender oder mittelbarer Beleg gemeint ist.
 
-## 6. Anker
+Mehrere Entscheidungen nach Gerichtsebene und innerhalb derselben Ebene nach Datum absteigend oder begründet nach Relevanz ordnen. Die gewählte Reihenfolge ist keine Aussage über universelle Bindungswirkung. Nur Belege aufnehmen, die zur konkreten Aussage beitragen.
 
-- GG Artikel 20 Absatz 3: Bindung an Gesetz und Recht als Ausgangspunkt juristischer Begründung.
-- BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
-- ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
-- ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
-- Paragraf 51 UrhG — Zitatrecht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 63 UrhG — Quellenangabe; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 2 Abs. 1 Nr. 1 UrhG — Sprachwerke; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 97 UrhG — Unterlassung/Schadensersatz bei Rechtsverletzung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erstes belastbares Ergebnis: Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle.
-7.2. Maßstab: GG Artikel 20 Absatz 3; BGB Paragraf 133 und Paragraf 157 mit der entscheidenden Bewertungsfrage verbinden.
-7.3. Materialfund: Für „Auftrag und Adressat“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Tatsache ist für welches Tatbestandsmerkmal entscheidungserheblich.
-7.6. Erwiderung: Gegenbeleg, Alternativhypothese oder Bewertungsmaßstab nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Subsumtionszeile“. Frist, Kernlücke und nächster Prüfstufe benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Rechtsfrage und gewünschtes Arbeitsprodukt sind nicht bestimmbar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere korrigierten Text und eine kompakte Tabelle: Ausgangszitat, Befund, geprüfte Quelle, Korrektur, verbleibende Lücke. Formfehler, falsche Metadaten und fehlende inhaltliche Unterstützung getrennt bewerten. Ohne Dateiexport vollständigen Text ausgeben. Bei erfolglosem Abruf höchstens einen begründeten Alternativweg nutzen und danach den überprüfbaren Teil abschließen. Keine Rechercheerfolge, Volltexte oder Literaturzugriffe vortäuschen.

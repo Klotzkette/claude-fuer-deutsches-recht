@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "plugin": "methodenlehre-buergerliches-recht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__133.html",
+      "checked_on": "2026-09-14",
+      "supports": "Wirklicher Wille statt ausschließlicher Wortlauthaftung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__157.html",
+      "checked_on": "2026-09-14",
+      "supports": "Vertragsauslegung nach Treu und Glauben mit Verkehrssitte."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__271.html",
+      "checked_on": "2026-09-14",
+      "supports": "Bestimmte Leistungszeit gegenüber fehlender Zeitbestimmung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der vollständig gelesene Mini war auf Klausuraufbau verengt und enthielt sachfremde Verjährungs- und Zuständigkeitsanker. Der Vertragsauslegungsskill bietet konkrete Gegenlesarten, aber auch unbelegte kaufmännische Pauschalen.",
+    "changes": [
+      "Erklärungsauslegung, Gesetzesauslegung und Tatsachenfeststellung getrennt.",
+      "Methodenargumente an Text, Vorgeschichte und Gegenlesart gebunden."
+    ],
+    "sha256": "f7c152192005a35c1889f9df72a00ea53feaa29f105ff15f037d83ee702c619d"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie methodisch die Bedeutung einer unklaren Lieferklausel anhand der Verhandlungen.",
+      "Zeigen Sie, ob meine Argumentation noch Auslegung oder bereits Rechtsfortbildung ist."
+    ],
+    "negative": [
+      "Prüfen Sie lediglich die Echtheit einer Vertragsunterschrift kriminaltechnisch.",
+      "Rekonstruieren Sie ausschließlich die Chronologie der Vertragsverhandlungen, ohne Auslegung oder rechtliche Bewertung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "frei-haus-oberer-stock",
+      "request": "Erstellen Sie ergebnis.md als methodischen Auslegungsvermerk. Zwei Unternehmen haben nach individueller Verhandlung einen Möbelkauf geschlossen. Der Vertrag sagt Lieferung frei Haus. In der unmittelbar vorausgegangenen E-Mail schrieb die Käuferin: Wir benötigen die Schränke im dritten Obergeschoss; ein Aufzug ist vorhanden. Der Verkäufer antwortete: Die Anlieferung bis in Ihre Räume ist im Preis enthalten. Nach Vertragsschluss verlangt er einen Zuschlag für den Transport ab Bordsteinkante und beruft sich auf sein internes, der Käuferin nie mitgeteiltes Verständnis von frei Haus. Es gibt keine AGB und keine weiteren Abreden. Prüfen Sie die streitige Leistungspflicht, ohne einen Handelsbrauch zu unterstellen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Auslegung verarbeitet die ausdrücklich bestätigte Raumlieferung und nicht nur den isolierten Ausdruck frei Haus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das nicht mitgeteilte interne Verständnis wird nicht mit einer gemeinsamen Parteivorstellung gleichgesetzt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Vermerk begründet die Lieferung in die Räume anhand der belegten Vorgeschichte und setzt weder AGB-Unklarheitenregel noch erfundenen Handelsbrauch ein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "meth-auslegung-vertrag-leitfaden"
+    }
+  ]
+}

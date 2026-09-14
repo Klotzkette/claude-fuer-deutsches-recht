@@ -1,78 +1,27 @@
-# Insolvenzrecht — Schnellstart
+# 1. Insolvenzrecht: Krisenfrage und Rolle bestimmen
 
-Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.
+Bearbeite meinen konkreten Auftrag anhand der Unterlagen. Unterscheide Geschäftsleitung, Gläubiger, Verwalter und Berater sowie Insolvenzreife, Forderungsanmeldung, Anfechtung und Sanierung. Nicht jedes Krisenmandat verlangt zuerst eine Anfechtungsprüfung.
 
-Kernauftrag: Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag. Vorrang hat das verlangte Arbeitsprodukt.
+## 2. Sachverhalt und Belege
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Rechtsträger, Stichtag, Datenstand, Ziel, Verfahrensstand und bekannte Pflichten. Lies je nach Frage Konten, offene Posten, Fälligkeiten, Titel, Vereinbarungen, Verzeichnisse, Forderungsbelege oder angefochtene Zahlungsvorgänge. Stelle einmal gebündelte Rückfragen zu entscheidenden Lücken. Liefere den belastbaren Teil, ohne auf vollständige Akten zu warten.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Gutachten, Kontoauszüge, Buchhaltung, Forderungsanmeldung und Zahlungsverzeichnis. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Krise feststellen, Pflichten zuordnen, Antrag und Sicherung wählen; ohne konkreten Auftrag mit Krise feststellen beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 3. Fachliche Weichen
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Krise feststellen, Pflichten zuordnen, Antrag und Sicherung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Bei Insolvenzreife: Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung getrennt prüfen. Sofort verfügbare Mittel, belastbare spätere Zuflüsse und bloß erhoffte Finanzierung unterscheiden. OP-Listen um nachgewiesene Dubletten, Zahlungen und Fälligkeitsfehler korrigieren. Streitige Forderungen nicht nach Prozesswahrscheinlichkeit quotieren.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei Dreiwochenrechnung auch die innerhalb desselben Zeitraums neu fälligen Verbindlichkeiten berücksichtigen. Anfangsstatus, kumulierten Bedarf und tatsächlichen Verlauf nicht vermischen. Zahlungseinstellung eigenständig würdigen; eine günstige Schlusszahl oder eine einzelne Lückenquote ersetzt keine vollständige Prüfung.
 
-## 2. Fachlicher Direktstart
+Bei Forderungsanmeldung Bestand, Rang, Sicherheit, Absonderung und Aussonderung trennen; Gläubiger und Verfahrensdaten korrekt zuordnen. Bei Anfechtung jede Rechtshandlung, Wirkung, Zeitpunkt und subjektive Voraussetzung anhand von Belegen prüfen. Bei Sanierung Zahlungsfähigkeit, Fortbestehen und Planannahmen nicht gleichsetzen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Liegt Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit oder Überschuldung vor.
-2. Kernprüfung in einem Durchgang: Welche Frist oder Pflicht trifft welche Person; Welche Zahlung oder Sicherheit ist anfechtbar.
-3. Belege und Engpass zusammenführen: Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation; besonders kritisch ist: Insolvenzantragspflicht kann laufen.
-4. Erstes Arbeitsprodukt liefern: Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen.
+## 4. Amtliche Anker
 
-## 3. Kernroute
+Prüfstand 14.09.2026: [Paragraf 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html), [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html). BGH, Urteil vom 23.01.2025, Az. IX ZR 229/22, [amtlicher Leitsatz](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=1152&nr=140413&pos=16), betrifft den Ansatz streitiger Titelforderungen bei erfüllten Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung. BGH, Urteil vom 19.12.2017, Az. II ZR 88/16, [amtliche Entscheidung, Leitsatz 2](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2017-12-19&Gericht=bgh&Sort=6&anz=26&nr=43965&pos=13), betrifft neue Fälligkeiten im Dreiwochenzeitraum.
 
-1. Krise feststellen: Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen.
-2. Pflichten zuordnen: Geschäftsleitung, Gläubiger, Berater, Insolvenzgericht und Verwalterrolle klären.
-3. Antrag und Sicherung: Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten.
-4. Forderung und Tabelle: Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten.
-5. Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen.
+Normen und Tragweite für den jeweiligen Fall erneut amtlich prüfen. Antragsrecht und Antragspflicht nicht verwechseln; alte Haftungsnormen nicht ungeprüft übernehmen. Keine fachfremden versicherungsrechtlichen Normen einfügen. Beweislast an Anspruch und Rolle ausrichten. Keine erfundenen Literatur- oder Entscheidungsfundstellen.
 
-## 4. Fallkarte
+## 5. Ergebnis und Sofortbedarf
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | InsO Paragraf 17; InsO Paragraf 18; InsO Paragraf 19 |
-| Rechtsprechung | BGH, Urteil vom 23.01.2025 - IX ZR 229/22; BGH, Urteil vom 24.05.2005 - IX ZR 123/04 |
-| Tatbestand | Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen |
-| Beweislast | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation |
-| Rechtsfolge | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Liefere das verlangte Krisenmemo, die Statusrechnung, Anmeldung oder Anfechtungsstellungnahme als vollständigen Entwurf. Ohne Ausgabeauftrag: Sachverhalt, belegte Krisenzeitachse, Berechnung, offene entscheidende Daten und nächste Entscheidung. Zahlen mit Einheit, Quelle und Stichtag. Exportstandard: Times New Roman, 11 pt, dezimal; ohne Exportfunktion Text liefern.
 
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Krise feststellen | Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichten zuordnen | Geschäftsleitung, Gläubiger, Berater, Insolvenzgericht und Verwalterrolle klären. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antrag und Sicherung | Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Forderung und Tabelle | Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtung und Plan | Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- InsO Paragraf 17: Zahlungsunfähigkeit.
-- InsO Paragraf 18: drohende Zahlungsunfähigkeit.
-- InsO Paragraf 19: Überschuldung.
-- InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
-- Paragraf 28 VVG bei Obliegenheits-Verletzung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 13 InsO Eigenantrag: schriftlich beim Insolvenzgericht (Amtsgericht), Vermögensverzeichnis, Gläubigerverzeichnis, Lohnliste, Bilanz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 17 Abs. 2 S. 2 InsO Vermutung: Zahlungsunfähigkeit wird in der Regel angenommen bei Zahlungseinstellung (objektives Verhalten — Nichtzahlung an mehrere Gläubiger, Lohn, Steuer, Sozialversicherung); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko.
-- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt.
-7.2. Norm: InsO Paragraf 17; InsO Paragraf 18 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Krise feststellen“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Dem Zeitpunkt der Insolvenzreife, der Kenntnis und der Bargeschäftsausnahme.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Krise feststellen“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Insolvenzantragspflicht kann laufen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Bei möglicher Antragspflicht unverzüglichen menschlichen Entscheidungsbedarf benennen und weiter am Sicherungsentwurf arbeiten. Die Höchstfrist ist keine freie Wartezeit. Keine Zahlungen ausführen oder freigeben, keinen Insolvenzantrag einreichen und keine Stundung eigenmächtig vereinbaren. Unveränderte Ergebnisse bei Folgeaufträgen weiterverwenden.

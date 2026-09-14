@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "oeffentliches-wirtschaftsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/BJNR252110998.html",
+      "checked_on": "2026-09-14",
+      "supports": "Paragraf 108 Absatz 1: ähnliche Kontrolle, mehr als 80 Prozent betraute Tätigkeiten und private Kapitalbeteiligung als getrennte Voraussetzungen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der bisherige Schnellstart behandelte vorwiegend Gewerbeuntersagung statt der Projekt-, Kooperations- und Beteiligungsarbeit des Plugins.",
+    "changes": [
+      "Projektbeziehungen und Risikozuweisung ergänzt.",
+      "Inhouse-Prüfung mit echter Tätigkeitsquote und Kontrollnachweis aufgebaut.",
+      "Kommunalrecht, Finanzierung und Beihilfe als separate Entscheidungstore eingeordnet."
+    ],
+    "sha256": "4750ebef00c34e03c60fc2a73bb0ffe4b8c6b3e3166be7a7220787bbd3f04d61"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe den Direktauftrag der Gemeinde an ihre Betriebsgesellschaft.",
+      "Bewerte die Risikoaufteilung im kommunalen Schulbau-PPP."
+    ],
+    "negative": [
+      "Berechne ausschließlich die HOAI-Vergütung des Architekten eines kommunalen Bauprojekts.",
+      "Prüfe die arbeitsrechtliche Kündigung eines Mitarbeiters der kommunalen Service-GmbH ohne Organisations- oder Beschaffungsfrage."
+    ]
+  },
+  "cases": [
+    {
+      "id": "kommunale-tochter-genau-achtzig",
+      "request": "Verfasse ergebnis.md für den Gemeinderat zur vorgesehenen Direktvergabe eines Betriebsauftrags an die zu 100 Prozent kommunale Service-GmbH. Die Gemeinde kann deren strategische Ziele und wesentliche Entscheidungen verbindlich bestimmen; privates Kapital gibt es nicht. Als für diesen Fall maßgebliche und korrekt ermittelte Tätigkeitsquote sind 80 Prozent betraute Gemeindeaufgaben und 20 Prozent freie Marktaufträge festgestellt. Die Verwaltung begründet die Inhouse-Ausnahme allein mit der vollständigen Beteiligung. Andere Ausnahmetatbestände sind nicht vorgetragen. Der Rat möchte wissen, ob diese Begründung den Direktauftrag trägt und welche Entscheidung jetzt vorbereitet werden sollte; eine vertiefte landeskommunalrechtliche Prüfung ist nicht beauftragt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt, dass genau 80 Prozent die Voraussetzung von mehr als 80 Prozent nicht erfüllen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft Kontrolle und Beteiligung getrennt von der Tätigkeitsquote und lässt vollständiges Eigentum die fehlende Quote nicht ersetzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Empfiehlt keine Freigabe auf dieser Ausnahmegrundlage und bereitet einen vergaberechtlich geprüften alternativen Beschaffungsweg vor, ohne eine nicht belegte Ausnahme zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "oew-006-inhouse-vergabe-pruefen"
+    }
+  ]
+}

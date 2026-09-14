@@ -1,4 +1,4 @@
-# US Bankruptcy Code — Schnellstart
+# US Bankruptcy Code: Schnellstart
 
 Wenn du das hier öffnest, willst du einen Vorgang nach dem US Bankruptcy Code aus der richtigen Verfahrensrolle heraus bearbeiten und seine deutschen oder grenzüberschreitenden Auswirkungen kontrollieren.
 
@@ -35,7 +35,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | 11 U.S.C. Sections 301 und 303; 11 U.S.C. Section 362; 11 U.S.C. Sections 363 und 364 |
-| Rechtsprechung | Supreme Court, Harrington v. Purdue Pharma L.P., 603 U.S. 204 (2024); Supreme Court, Truck Insurance Exchange v. Kaiser Gypsum Co., 602 |
+| Rechtsprechung | nur fallbezogen geprüfte Entscheidung mit vollständiger Fundstelle und Reichweite |
 | Tatbestand | Gericht, Chapter, Petition Date, debtor, debtor in possession, docket, Fristen und beantragte relief feststellen |
 | Beweislast | Darlegungs- und Nachweisfrage für US-Insolvenzrecht und grenzüberschreitende Restrukturierung: Welche Forderung, Sicherheit oder Vertragsposition besteht und wie muss sie im Verfahren geltend gemacht werden |
 | Rechtsfolge | US-Counsel-Briefing, Docket- und Fristenblatt, Claim-Paket, Objection, Motion-Check, Planmatrix oder Chapter-15-Vermerk ausformulieren |
@@ -43,11 +43,9 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 5. Einsatzfelder
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Verfahrenslage | Gericht, Chapter, Petition Date, debtor, debtor in possession, docket, Fristen und beantragte relief feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rolle und Vermögen | Mandantenrolle, estate property, Sicherheiten, Forderungsklasse, Verträge und deutsche Vermögensbezüge trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sofortwirkung | Automatic stay, cash collateral, first-day relief, notice, hearing und möglicher Eilantrag priorisieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Erstelle eine Stay-Matrix je geplanter Handlung: Einzug einer Altforderung, Fortsetzung einer Klage, Verwertung, Aufrechnung oder Vorgehen gegen Dritte. Nenne betroffenen Rechtsträger, Vermögensgegenstand, Entstehungsdatum, Petition-Zeitpunkt, mögliche Ausnahme und tatsächlich erlassene Order. Ein gestellter Antrag auf Stay Relief ist noch keine gerichtliche Freigabe. Die [amtlichen Bankruptcy Basics zu Chapter 11](https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-11-bankruptcy-basics) erläutern den grundsätzlich mit Petition eintretenden Stay; Sonderlagen und konkrete Orders sind zusätzlich zu prüfen.
+
+Forderungsbestand und Vollzugsbefugnis auseinanderhalten. Auch eine wirtschaftlich plausible Aufrechnung darf nicht ohne Stay-Prüfung vollzogen werden. Für Bar Dates die konkrete Notice beziehungsweise Order und Zustellungsdaten auswerten, keine einheitliche Frist für alle Chapters behaupten. Deutsche Vermögensfolgen in einer eigenen Spalte behandeln; keine automatische Gleichsetzung mit deutschem Vollstreckungsschutz.
 
 
 ## 6. Anker
@@ -56,19 +54,18 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 - 11 U.S.C. Section 362: automatic stay mit Reichweite, Ausnahmen, relief from stay und Sanktionsrisiko.
 - 11 U.S.C. Sections 363 und 364: Nutzung oder Verwertung von Massevermögen, cash collateral, credit bidding und postpetition financing.
 - 11 U.S.C. Sections 365 und 541: executory contracts, unexpired leases und property of the estate.
-- Supreme Court, Harrington v. Purdue Pharma L.P., 603 U.S. 204 (2024): Der Bankruptcy Code erlaubt in einem Chapter-11-Plan keine nicht einvernehmlichen Freistellungen von Ansprüchen gegen Nichtschuldner in der dort gewählten Form.
-- Supreme Court, Truck Insurance Exchange v. Kaiser Gypsum Co., 602 U.S. 268 (2024): Ein Versicherer mit finanzieller Verantwortung für Insolvenzforderungen kann als party in interest nach Section 1109(b) gehört werden.
+- Aktuellen Code, Federal Rules, Local Rules und Docket-Orders amtlich prüfen. Ein Antragstext oder vorgeschlagener Beschluss ist nicht die erlassene Order. Volltextzugriff und bloßen Suchauszug im Quellenstatus unterscheiden.
 
 ## 7. Antwortform
 
 7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: US-Counsel-Briefing, Docket- und Fristenblatt, Claim-Paket, Objection, Motion-Check, Planmatrix oder Chapter-15-Vermerk ausformulieren.
 7.2. Norm: 11 U.S.C. Sections 301 und 303; 11 U.S.C. Section 362 mit dem entscheidenden Merkmal verbinden.
 7.3. Aktenfund: Für „Verfahrenslage“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Darlegungs- und Nachweisfrage für US-Insolvenzrecht und grenzüberschreitende Restrukturierung: Welche Forderung, Sicherheit oder Vertragsposition besteht und wie muss sie im Verfahren geltend gemacht werden. Offene Folgen aussprechen.
+7.4. Beweis: Forderung, Sicherheit oder Vertrag mit Datum und Beleg nachweisen; offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Handlung ist vom automatic stay erfasst, ausgenommen oder nur nach court order zulässig.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
 7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „US-Counsel-Briefing“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Eine Handlung kann den automatic stay verletzen; bis zur geklärten Ausnahme oder court order nicht vollziehen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Bei möglichem Stay-Verstoß den Vollzug sperren, aber Forderungsübersicht und Counsel-Briefing weiter vorbereiten. Keine Einreichung, Zahlungseinziehung, Aufrechnung oder Prozesshandlung ohne ausdrückliche Freigabe und Prüfung durch zuständigen US-Counsel. Dieser Prompt ist eigenständig; eine vorhandene Werkstatt ist nur eine optionale Vertiefung.

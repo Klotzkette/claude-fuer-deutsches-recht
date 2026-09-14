@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "plugin": "richter-finanzgericht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/fgo/__69.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gerichtliche AdV vor Klageerhebung, Behördenvorbefassung und Ausnahmen, Aufhebung bei bereits erfolgter Vollziehung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/fgo/__128.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 3: Beschwerde gegen AdV-Entscheidungen nur bei Zulassung; entsprechende Anwendung der Zulassungsgründe aus Paragraf 115 Absatz 2, keine Revision gegen den Beschluss."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/fgo/__114.html",
+      "checked_on": "2026-09-14",
+      "supports": "Einstweilige Anordnung als gesondertes Verfahren; Absatz 5 grenzt die Fälle des Paragrafen 69 aus."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "AdV benötigte eine eigene Zulässigkeits- und Betragslogik statt übertragener Hauptsachevoraussetzungen.",
+    "changes": [
+      "Vorbefassung und drohende Vollstreckung getrennt.",
+      "Aussetzung und Aufhebung sowie Steuerberechnung präzisiert."
+    ],
+    "sha256": "022efc75f812ceb58b667cb7e135c696fc772f9b49de18caad90a8a200f01a47"
+  },
+  "selection": {
+    "positive": [
+      "Bereiten Sie einen finanzgerichtlichen AdV-Beschluss vor.",
+      "Prüfen Sie im Dezernat den Aussetzungsbetrag eines geänderten Steuerbescheids."
+    ],
+    "negative": [
+      "Erstellen Sie meine Umsatzsteuervoranmeldung.",
+      "Verfassen Sie einen sozialgerichtlichen Eilantrag auf Bürgergeld."
+    ]
+  },
+  "cases": [
+    {
+      "id": "adv-vor-einspruchsentscheidung",
+      "request": "Erstellen Sie ergebnis.md als finanzgerichtlichen AdV-Prüfvermerk. Ein Steuerbescheid setzt 18.000 Euro fest; 10.000 Euro Vorauszahlungen sind angerechnet, 8.000 Euro noch unbezahlt. Einspruch und behördlicher AdV-Antrag wurden fristgerecht gestellt. Die Behörde lehnte AdV schriftlich ab, über den Einspruch ist noch nicht entschieden; eine Klage gibt es noch nicht. Der gerichtliche Antrag richtet sich auf 3.000 Euro der offenen Forderung. Belegt ist, dass ein bereits in der erklärten Bemessungsgrundlage enthaltener Erlös nochmals angesetzt wurde; die steuerliche Auswirkung von 3.000 Euro ist zwischen den Beteiligten rechnerisch unstreitig. Die Behörde bestätigt die Doppelzählung, hat aber noch nicht korrigiert. Keine Zahlung oder Vollstreckung ist erfolgt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verneint die Zulässigkeit nicht wegen fehlender Einspruchsentscheidung oder noch nicht erhobener Klage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Begrenzt die Prüfung auf die beantragten 3.000 Euro und verwechselt diese nicht mit 18.000 Euro Festsetzung oder 8.000 Euro Rest.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ordnet die belegte Doppelzählung der Prüfung ernstlicher Zweifel zu und behandelt mangels Vollzug Aussetzung statt Aufhebung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "03-aussetzung-der-vollziehung"
+    },
+    {
+      "id": "vollstreckung-droht-beschwerde-statt-revision",
+      "request": "Erstellen Sie ergebnis.md als finanzgerichtlichen Prüfvermerk. Gegen einen Steuerbescheid über noch offene 4.000 Euro ist fristgerecht Einspruch eingelegt; eine Einspruchsentscheidung und eine Klage gibt es nicht. Ein behördlicher AdV-Antrag wurde bisher nicht gestellt. Das Finanzamt hat nachweislich eine Kontopfändung für den nächsten Werktag angekündigt. Der Antragsteller beantragt beim Finanzgericht AdV über die gesamten 4.000 Euro. Für diesen Auftrag sind ernstliche Zweifel an der Steuerfestsetzung und fehlende Sicherheitsbedenken vorgegeben. Der interne Entwurf will den Antrag allein wegen fehlender behördlicher Ablehnung verwerfen und alternativ bei Stattgabe die Revision nach Paragraf 115 FGO zulassen. Die Kammer hat noch nicht über Zulassungsgründe eines Rechtsmittels beraten. Prüfen Sie die beiden Entwurfspunkte und bereiten Sie den weiteren Entscheidungsweg vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft die konkret angekündigte Kontopfändung als Ausnahme wegen drohender Vollstreckung nach Paragraf 69 Absatz 4 Satz 2 Nummer 2 FGO; verwirft nicht allein wegen des fehlenden Behördenantrags.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt fehlende Einspruchsentscheidung und fehlende Klage nicht als zwingende Zulässigkeitshindernisse und bleibt bei AdV statt das Verfahren ohne Anlass in Paragraf 114 FGO umzudeuten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ersetzt die vorgesehene Revisionszulassung durch die Prüfung einer Beschwerdezulassung nach Paragraf 128 Absatz 3 FGO; behauptet weder automatische Zulassung noch einen bereits gefassten Beschluss.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "03-aussetzung-der-vollziehung"
+    }
+  ]
+}

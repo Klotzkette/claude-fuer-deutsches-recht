@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-sportrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/tzbfg/__14.html",
+      "checked_on": "2026-09-14",
+      "supports": "Sachgrundprüfung der Befristung und Schriftform der Befristungsabrede; fehlende ausdrückliche Benennung eines Sachgrunds nicht mit dessen materiellem Fehlen gleichsetzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__162.html",
+      "checked_on": "2026-09-14",
+      "supports": "Rechtsfolge treuwidriger Verhinderung des Bedingungseintritts; konkrete Verhinderung und Treuwidrigkeit sind zu prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/tzbfg/__17.html",
+      "checked_on": "2026-09-14",
+      "supports": "Dreiwochenfrist für gerichtliche Befristungskontrolle nach vereinbartem Vertragsende, nicht identisch mit Options- oder Prämienfristen."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-azr-312-16/",
+      "checked_on": "2026-09-14",
+      "supports": "BAG, Urteil vom 16.01.2018, Az. 7 AZR 312/16, Randnummern 38 und 39: sportliche Gründe der Nichtaufstellung und fehlende Kausalität der Reservezuweisung im entschiedenen Fall."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der bisherige Standardausgang war eine Sportfallkarte mit Verbandsentscheidung; arbeitsvertragliche Optionen und Prämien benötigten einen eigenen Zugang ohne pauschalen Verbandsinstanzenzug.",
+    "changes": [
+      "Arbeitsvertrag, Verlängerungsbedingung, Optionsausübung und Prämie getrennt.",
+      "Offizielle Spielberichte und konkreten Klauselwortlaut als Rechengrundlage verlangt.",
+      "Staatliche, vertragliche und verbandliche Fristen voneinander abgegrenzt.",
+      "Fehlende Regelfassung als offene Prüffrage statt globalem Arbeitsabbruch behandelt."
+    ],
+    "sha256": "4bbca4ac781bf231e0f93956bf6fb717c25ebdd09b0249c5ceda448fc4dd3316"
+  },
+  "selection": {
+    "positive": [
+      "Meinem Spieler fehlen zwei gewertete Ligaeinsätze für die Saisonoption; prüfen Sie Minuten, Reservezuweisung und Trainerkorrespondenz.",
+      "Der Verein verweigert eine Prämie trotz erreichter Einsatzschwelle; erstellen Sie ein Einsatzkonto und trennen Sie es vom Streit um die Jahresverlängerung."
+    ],
+    "negative": [
+      "Verteidigen Sie ausschließlich eine vorläufige Dopingsuspendierung.",
+      "Berechnen Sie ausschließlich die Solidaritätszahlung aus einem internationalen Transfer."
+    ],
+    "target_skill": "spielereinsaetze-optionsschwelle-praemienbeweis"
+  },
+  "cases": [
+    {
+      "id": "ligaoption-achtzehn-einsaetze-praemie-separat",
+      "request": "Wir vertreten einen Lizenzspieler der ersten deutschen Fußball-Bundesliga. Erstellen Sie ergebnis.md mit Einsatzkonto, wirtschaftlichen Szenarien und Forderungsentwurf. Bearbeitungsdatum ist 10.07.2026. Sein schriftlicher Vertrag endet am 30.06.2026 und enthält: Bei mindestens 20 Ligaeinsätzen von jeweils mindestens 45 Minuten in der Saison 2025/2026 kann der Spieler bis 15.06.2026 schriftlich eine Verlängerung bis 30.06.2027 zu 25.000 EUR brutto pro Monat verlangen. Eine separat vereinbarte Einmalprämie von 30.000 EUR brutto wird bei mindestens 18 solchen Ligaeinsätzen fällig. Die Optionserklärung wurde dem Verein am 10.06.2026 unterschrieben übergeben und quittiert. Die offiziellen Spielberichte weisen exakt 18 Ligaeinsätze mit jeweils mindestens 45 Minuten und zwei weitere Ligaeinsätze mit jeweils 30 Minuten aus; hinzu kommen zwei volle Pokalspiele und drei volle Spiele der Reservemannschaft. Die letzten zwei Ligaspiele fanden am 16. und 23.05.2026 statt; für beide lag ärztliche Einsatzfreigabe vor, der Spieler wurde nicht aufgestellt. Eine authentische E-Mail des Sportdirektors an den Trainer vom 05.05.2026 lautet: Ein weiteres Vertragsjahr passt nicht in unser Budget, bitte berücksichtigen. Der Trainer antwortete am selben Tag, er werde ausschließlich sportlich entscheiden; sein datiertes Trainingsprotokoll nennt schwache Sprintwerte und bessere Werte zweier Konkurrenten. Es gibt keine Aussage, dass der Spieler ohne E-Mail sicher eingesetzt worden wäre. Der Verein bestreitet Verlängerung und Prämie, gezahlt ist nur das Grundgehalt bis Juni. Keine Ausschlussklausel ist vereinbart; keine Klage erhoben. Bewerten Sie auch den rechtzeitigen gerichtlichen Handlungsbedarf. Keine Option erneut ausüben und nichts versenden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Einsatzkonto zählt 18 qualifizierende Ligaeinsätze und nicht die zwei 30-Minuten-Einsätze, Pokal- oder Reservespiele; es erkennt den unterschiedlichen tatsächlichen Erfüllungsstand der 18er-Prämie und der 20er-Option.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Stellungnahme behandelt E-Mail und Trainingsprotokoll als widerstreitende Motivbelege und prüft Kausalität; sie nimmt weder automatische Vereitelung noch automatische sportliche Rechtfertigung an und fordert keine Aufstellungsgarantie allein aus ärztlicher Freigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Rechnung trennt die 30.000 EUR Prämie vom nominellen zusätzlichen Jahresbruttowert von 300.000 EUR; sie stellt den Jahreswert nicht als bereits vollständig fälligen Lohnrückstand dar.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Das Ergebnis erkennt rechtzeitige Optionsausübung, trennt Optionsstreit von Befristungskontrolle und benennt für einen erforderlichen Befristungsangriff den 21.07.2026 als zu sichernden Dreiwochenendtermin, statt CAS-Berufung oder bloße weitere Optionserklärung zu empfehlen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "spielereinsaetze-optionsschwelle-praemienbeweis"
+    }
+  ]
+}

@@ -400,6 +400,13 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     plugin_rel = directory.relative_to(REPO).as_posix()
     werkstatt_url = markdown_download_url(f"{plugin_rel}/{werkstatt_file}")
     schnellstart_url = markdown_download_url(f"{plugin_rel}/{schnellstart_file}")
+    focus_explanation = ""
+    focus_download = ""
+    focus_file = f"{stem}-hauptproblem.md"
+    if (directory / focus_file).is_file():
+        focus_url = markdown_download_url(f"{plugin_rel}/{focus_file}")
+        focus_explanation = f'| Schwerpunkt-Prompt | Eigenständiger, eng abgegrenzter Mandatsauftrag bis 7500 Zeichen. Der zugehörige Fachskill ist auch im Plugin vorhanden. | Standalone workflow for one demanding practice problem, up to 7500 characters. Its corresponding skill is also part of the plugin. | <a href="{focus_url}" download>MD herunterladen / Download MD</a> |\n'
+        focus_download = f'| Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="{focus_url}" download>{focus_file}</a> |\n'
     testakte_cell = testakte_download_cell(directory, akten_slugs)
     description = markdown_text(plugin.get("description") or readme_title(directory, plugin_name))
     assets = relative_link(directory, REPO / "ASSET_INDEX.md")
@@ -422,7 +429,7 @@ Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Für die 
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list]({skill_detail}) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD]({werkstatt_url}) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD]({schnellstart_url}) |
-| Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index]({relative_link(directory, TESTAKTEN_DIR / 'README.md')}) |
+{focus_explanation}| Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index]({relative_link(directory, TESTAKTEN_DIR / 'README.md')}) |
 
 Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navigationslinks zu README- und Übersichtsseiten bleiben dagegen als GitHub-Seiten geöffnet.
 
@@ -443,7 +450,7 @@ The skill index lists the source collection. In the installed package, some spec
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`{plugin_name}.zip`]({RELEASE_BASE}/{plugin_name}.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`{schnellstart_file}`]({schnellstart_url}) |
 | Großer Prompt (Werkstatt) | Markdown | [`{werkstatt_file}`]({werkstatt_url}) |
-| Zugeordnete Testakten | PDF / ZIP | {testakte_cell} |
+{focus_download}| Zugeordnete Testakten | PDF / ZIP | {testakte_cell} |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`]({RELEASE_BASE}/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index]({assets}); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.{testakten_block}
 {END}""")

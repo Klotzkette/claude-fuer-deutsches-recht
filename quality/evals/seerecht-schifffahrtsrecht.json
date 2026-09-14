@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "seerecht-schifffahrtsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__504.html",
+      "checked_on": "2026-09-14",
+      "supports": "Stückzahl- und Rohgewichtsgrenze im Seefrachtrecht, höherer Betrag, Angabe der Packstücke im Beförderungsdokument und Begrenzung auf verlorene oder entwertete Teile."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Seefracht verlangt eigene Beteiligten- und Haftungslogik; Landfrachtgrenzen und unpassende Schiffbauverweise führen fehl.",
+    "changes": [
+      "Vertragspartner, Schiff, Flagge und Register getrennt erhoben.",
+      "Seefrachtgrenze mit Packstück- und Gewichtsvergleich konkretisiert.",
+      "Schiffsidentität und Sicherungsbedarf statt allgemeiner Transportabfrage priorisiert."
+    ],
+    "sha256": "39b537dc21dd7a6ab1544e4608413a5bd5242c069cf1e8652f7c014164a96eb1"
+  },
+  "selection": {
+    "positive": [
+      "Berechnen Sie die Haftungsgrenze für einen Teilverlust aus einem Seefrachtcontainer anhand des Konnossements.",
+      "Ordnen Sie Schiffseigner, Verfrachter und Charterer für die Sicherung einer Seefrachtforderung zu."
+    ],
+    "negative": [
+      "Berechnen Sie eine CMR-Haftungsgrenze für einen reinen Lkw-Transport.",
+      "Prüfen Sie die Entschädigung eines Flugpassagiers wegen Verspätung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "container-zwei-kisten-teilverlust",
+      "request": "Erstellen Sie ergebnis.md für einen Ladungsinteressenten. Auf den feststehenden Seefrachtvertrag findet deutsches HGB-Seefrachtrecht Anwendung. Das Beförderungsdokument nennt einen Container mit zehn einzeln nummerierten Kisten. Zwei Kisten mit zusammen 200 Kilogramm Rohgewicht fehlen; die übrigen acht sind unbeschädigt und voll verwendbar. Der nachgewiesene Wert der beiden verlorenen Kisten beträgt 8.000 Euro. Haftung dem Grunde nach ist unstreitig, eine höhere Wertdeklaration oder Vereinbarung besteht nicht. Anhaltspunkte für einen Wegfall der Haftungsbegrenzung liegen bislang nicht vor. Rechnen Sie die gesetzliche Grenze in Sonderziehungsrechten, ohne einen Wechselkurs zu erfinden, und nennen Sie die für die Euroforderung noch benötigte Angabe.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Stückzahlberechnung setzt bei zwei verlorenen Kisten und nicht bei einem Container oder sämtlichen zehn Kisten an und ergibt 1.333,34 Sonderziehungsrechte.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Gewichtsberechnung ergibt 400 Sonderziehungsrechte; als höherer Vergleichsbetrag wird 1.333,34 verwendet und nicht eine Landfrachtgrenze von 8,33 je Kilogramm.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Ergebnis erfindet keinen Eurokurs, unterscheidet nachgewiesenen Schaden von Haftungsgrenze und benennt die rechtlich maßgebliche Umrechnung als noch zu klärenden Schritt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "kaltstart-schifffahrtsmandat"
+    }
+  ]
+}

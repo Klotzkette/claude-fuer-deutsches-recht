@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v444.3.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v444.4.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22408 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22433 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -82,29 +82,29 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 
 ### F
 
-- [fachanwalt-agrarrecht](./fachanwalt-agrarrecht.md) (78 Skills)
-- [fachanwalt-arbeitsrecht](./fachanwalt-arbeitsrecht.md) (106 Skills)
-- [fachanwalt-bank-kapitalmarktrecht](./fachanwalt-bank-kapitalmarktrecht.md) (87 Skills)
-- [fachanwalt-bau-architektenrecht](./fachanwalt-bau-architektenrecht.md) (122 Skills)
-- [fachanwalt-erbrecht](./fachanwalt-erbrecht.md) (31 Skills)
-- [fachanwalt-familienrecht](./fachanwalt-familienrecht.md) (107 Skills)
-- [fachanwalt-gewerblicher-rechtsschutz](./fachanwalt-gewerblicher-rechtsschutz.md) (93 Skills)
-- [fachanwalt-handels-gesellschaftsrecht](./fachanwalt-handels-gesellschaftsrecht.md) (81 Skills)
-- [fachanwalt-insolvenz-sanierungsrecht](./fachanwalt-insolvenz-sanierungsrecht.md) (83 Skills)
-- [fachanwalt-internationales-wirtschaftsrecht](./fachanwalt-internationales-wirtschaftsrecht.md) (78 Skills)
-- [fachanwalt-it-recht](./fachanwalt-it-recht.md) (139 Skills)
-- [fachanwalt-medizinrecht](./fachanwalt-medizinrecht.md) (160 Skills)
-- [fachanwalt-miet-wohnungseigentumsrecht](./fachanwalt-miet-wohnungseigentumsrecht.md) (252 Skills)
-- [fachanwalt-migrationsrecht](./fachanwalt-migrationsrecht.md) (175 Skills)
-- [fachanwalt-sozialrecht](./fachanwalt-sozialrecht.md) (115 Skills)
-- [fachanwalt-sportrecht](./fachanwalt-sportrecht.md) (79 Skills)
-- [fachanwalt-strafrecht](./fachanwalt-strafrecht.md) (242 Skills)
-- [fachanwalt-transport-speditionsrecht](./fachanwalt-transport-speditionsrecht.md) (78 Skills)
-- [fachanwalt-urheber-medienrecht](./fachanwalt-urheber-medienrecht.md) (78 Skills)
-- [fachanwalt-vergaberecht](./fachanwalt-vergaberecht.md) (122 Skills)
-- [fachanwalt-verkehrsrecht](./fachanwalt-verkehrsrecht.md) (79 Skills)
-- [fachanwalt-versicherungsrecht](./fachanwalt-versicherungsrecht.md) (91 Skills)
-- [fachanwalt-verwaltungsrecht](./fachanwalt-verwaltungsrecht.md) (79 Skills)
+- [fachanwalt-agrarrecht](./fachanwalt-agrarrecht.md) (79 Skills)
+- [fachanwalt-arbeitsrecht](./fachanwalt-arbeitsrecht.md) (107 Skills)
+- [fachanwalt-bank-kapitalmarktrecht](./fachanwalt-bank-kapitalmarktrecht.md) (88 Skills)
+- [fachanwalt-bau-architektenrecht](./fachanwalt-bau-architektenrecht.md) (123 Skills)
+- [fachanwalt-erbrecht](./fachanwalt-erbrecht.md) (32 Skills)
+- [fachanwalt-familienrecht](./fachanwalt-familienrecht.md) (108 Skills)
+- [fachanwalt-gewerblicher-rechtsschutz](./fachanwalt-gewerblicher-rechtsschutz.md) (94 Skills)
+- [fachanwalt-handels-gesellschaftsrecht](./fachanwalt-handels-gesellschaftsrecht.md) (82 Skills)
+- [fachanwalt-insolvenz-sanierungsrecht](./fachanwalt-insolvenz-sanierungsrecht.md) (84 Skills)
+- [fachanwalt-internationales-wirtschaftsrecht](./fachanwalt-internationales-wirtschaftsrecht.md) (79 Skills)
+- [fachanwalt-it-recht](./fachanwalt-it-recht.md) (140 Skills)
+- [fachanwalt-medizinrecht](./fachanwalt-medizinrecht.md) (161 Skills)
+- [fachanwalt-miet-wohnungseigentumsrecht](./fachanwalt-miet-wohnungseigentumsrecht.md) (253 Skills)
+- [fachanwalt-migrationsrecht](./fachanwalt-migrationsrecht.md) (176 Skills)
+- [fachanwalt-sozialrecht](./fachanwalt-sozialrecht.md) (116 Skills)
+- [fachanwalt-sportrecht](./fachanwalt-sportrecht.md) (80 Skills)
+- [fachanwalt-strafrecht](./fachanwalt-strafrecht.md) (243 Skills)
+- [fachanwalt-transport-speditionsrecht](./fachanwalt-transport-speditionsrecht.md) (79 Skills)
+- [fachanwalt-urheber-medienrecht](./fachanwalt-urheber-medienrecht.md) (79 Skills)
+- [fachanwalt-vergaberecht](./fachanwalt-vergaberecht.md) (123 Skills)
+- [fachanwalt-verkehrsrecht](./fachanwalt-verkehrsrecht.md) (80 Skills)
+- [fachanwalt-versicherungsrecht](./fachanwalt-versicherungsrecht.md) (92 Skills)
+- [fachanwalt-verwaltungsrecht](./fachanwalt-verwaltungsrecht.md) (80 Skills)
 - [factoring-recht](./factoring-recht.md) (63 Skills)
 - [fahrgastrechte](./fahrgastrechte.md) (14 Skills)
 - [fashion-law-moderecht](./fashion-law-moderecht.md) (51 Skills)
@@ -148,7 +148,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [insiderrecht-compliance](./insiderrecht-compliance.md) (112 Skills)
 - [insolvenzforderungsanmeldungspruefung](./insolvenzforderungsanmeldungspruefung.md) (59 Skills)
 - [insolvenzplan-starug-planwerkstatt](./insolvenzplan-starug-planwerkstatt.md) (58 Skills)
-- [insolvenzrecht](./insolvenzrecht.md) (98 Skills)
+- [insolvenzrecht](./insolvenzrecht.md) (99 Skills)
 - [insolvenzverwaltung](./insolvenzverwaltung.md) (53 Skills)
 - [internal-investigations-praxis](./internal-investigations-praxis.md) (110 Skills)
 - [internationales-handelsrecht-lex-mercatoria](./internationales-handelsrecht-lex-mercatoria.md) (193 Skills)
@@ -262,7 +262,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [staatsanwaltschaft-praxis-einstieg](./staatsanwaltschaft-praxis-einstieg.md) (146 Skills)
 - [startup-hr-personalabteilung-berlin](./startup-hr-personalabteilung-berlin.md) (112 Skills)
 - [status-navigator-step-plan](./status-navigator-step-plan.md) (36 Skills)
-- [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (237 Skills)
+- [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (238 Skills)
 - [strafanzeige-vorbereiter](./strafanzeige-vorbereiter.md) (57 Skills)
 - [strafbefehl-verteidiger](./strafbefehl-verteidiger.md) (61 Skills)
 - [strafzumessung](./strafzumessung.md) (60 Skills)

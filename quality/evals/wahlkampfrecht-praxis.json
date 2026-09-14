@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "plugin": "wahlkampfrecht-praxis",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/partg/__25.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 3: Jahresausweis über 10000 Euro und unverzügliche Einzelspendenanzeige über 35000 Euro; Annahmeverbote getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/partg/__5.html",
+      "checked_on": "2026-09-14",
+      "supports": "Öffentliche Leistungen: Gleichbehandlung, sachliche Voraussetzungen und gesetzlich zulässige Abstufungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bwahlg/__32.html",
+      "checked_on": "2026-09-14",
+      "supports": "Bundestagswahl: räumlich und zeitlich begrenzte Wahlbeeinflussung sowie Veröffentlichung von Befragungen nach Stimmabgabe."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2018/02/es20180227_2bve000116en.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtliche Leitsätze im Suchabruf geprüft: Urteil 27.02.2018, 2 BvE 1/16; staatliche Neutralität auch außerhalb des Wahlkampfs, abschreckende Veranstaltungsbewertung und kein allgemeines Gegenschlagsrecht. Deutscher Direktvolltextabruf gesperrt; keine Randnummernprüfung behauptet."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Mini und Werkstatt waren eine Verfassungsbeschwerdeschablone; der Großspendenskill bietet dagegen passende Kampagnenrollen und Finanzprüfung.",
+    "changes": [
+      "Konkrete Aktion und Rollen statt Beschwerdegegenstand",
+      "Aktuelle Einzelspenden- und Jahresschwellen getrennt",
+      "Freigabeweg für Finanzierung, Plakate und Online-Werbung"
+    ],
+    "sha256": "0237d554866893c1d41c1e3efecf7b0743c3f1afc9abd2e4d71e6df8d93fdd6d"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe unseren Spendeneingang auf unverzügliche Meldung und Jahresausweis.",
+      "Erstelle einen Freigabevermerk für unsere örtliche Plakataktion."
+    ],
+    "negative": [
+      "Entwirf eine allgemeine Verfassungsbeschwerde gegen ein Strafurteil.",
+      "Erstelle eine ausschließlich kreative Wahlkampfsloganliste ohne Rechtsprüfung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "spendengrenze-35000",
+      "request": "Erstelle ergebnis.md für die Schatzmeisterei einer deutschen Partei. Heute gingen von zwei voneinander unabhängigen, identifizierten deutschen Privatpersonen per Überweisung 35000 Euro und 36000 Euro ein. Beide Zahlungen sind eigenständige Spenden, keine Teilzahlungen; frühere Jahreszahlungen oder Beiträge gibt es nicht. Herkunft und Annahmezulässigkeit sind geprüft, Gegenleistungen ausgeschlossen. Ein Teammitglied will erst Spenden über 50000 Euro sofort melden. Prüfe Meldeweg, Zeitpunkt und spätere Rechenschaftsangaben. Keine Meldung versenden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet nur die 36000-Euro-Einzelspende der unverzüglichen Anzeige an den Präsidenten des Deutschen Bundestages zu; verwirft die 50000-Euro-Schwelle.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt genau 35000 Euro nicht als Überschreitung und addiert unabhängige Spender nicht zu einer Einzelspende.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erfasst beide Zuwender für den Jahresausweis über 10000 Euro mit Identifikation und jeweiligem Gesamtbetrag, getrennt von der Sofortmeldung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "grossspenden-sofortmeldung"
+    },
+    {
+      "id": "spendenmeldung-statt-verfassungsbeschwerde",
+      "request": "Erstelle ergebnis.md als sofort nutzbaren internen Vermerk mit Meldungsentwurf für die Schatzmeisterei der deutschen Partei P. Am 14. September 2026 um 9 Uhr wurden 40000 Euro auf dem Parteikonto gutgeschrieben. Spenderin ist die deutsche Privatperson Anna Beispiel, Musterstraße 12, 10115 Berlin; Identität, eigenes Vermögen, Bankweg und fehlende Gegenleistung sind dokumentiert. Es handelt sich um eine einzelne Spende, frühere Jahreszuwendungen gibt es nicht. Die Annahmezulässigkeit ist bereits positiv geprüft. Die Schatzmeisterin hat um 10 Uhr Kenntnis erhalten. Es gibt keinen Hoheitsakt, keine gerichtliche Entscheidung und keinen Streit mit Behörden. Das Kampagnenteam benötigt heute den Meldeweg und die Freigabevorlage, nicht eine Veröffentlichung der Daten durch das Team. Versende nichts.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Routet den Auftrag unmittelbar zur Behandlung und Anzeige der Parteispende, ohne Hoheitsakt, Grundrechtsbetroffenheit oder Rechtswegerschöpfung als fehlende Voraussetzungen nachzufordern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ordnet die einzelne Spende von 40000 Euro der unverzüglichen Anzeige an den Präsidenten des Deutschen Bundestages zu und verschiebt diese nicht auf den Jahresbericht oder einen erfundenen festen Meldetermin.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erstellt einen verwertbaren Entwurf mit Partei, Spenderin, Betrag und Eingangsdatum sowie Freigabe durch die zuständige Finanzstelle; behauptet weder Versand noch eine Veröffentlichung durch das Kampagnenteam.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Hält den späteren personenbezogenen Jahresausweis getrennt von der unverzüglichen Einzelspendenanzeige fest und behandelt die bereits geprüfte Annahmezulässigkeit als vorgegebenen Sachverhalt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "grossspenden-sofortmeldung"
+    },
+    {
+      "id": "amtskanal-und-private-parteikommunikation",
+      "request": "Ein Bundesministerium veröffentlicht auf seiner amtlichen Internetseite eine Pressemitteilung, die zur Nichtteilnahme an einer bevorstehenden Versammlung einer Oppositionspartei aufruft. Der Bundesminister behauptet, dies sei als Reaktion auf polemische Kritik erlaubt; eine Wahl findet derzeit nicht statt. Derselbe Text soll zusätzlich auf dem ausschließlich aus Parteimitteln finanzierten Parteikanal erscheinen. Die betroffene Partei möchte heute einen internen rechtlichen Vermerk mit einem sinnvollen nächsten Schritt. Wortlaut, URL, Veröffentlichungszeit und Verantwortlichkeit für den Ministeriumskanal sind gesichert. Bitte erstelle ergebnis.md; kein Schreiben versenden und keinen gerichtlichen Antrag einreichen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "target_skill": "staatliche-neutralitaet",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Prüfung trennt amtlichen Ministeriumskanal von privater Parteikommunikation und überträgt das staatliche Neutralitätsgebot nicht unterschiedslos auf beide.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Sie behandelt die fehlende unmittelbare Wahlkampfsituation nicht als generellen Ausschluss staatlicher Neutralitätspflichten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Sie unterscheidet sachliche Verteidigung der Regierungspolitik von einem behaupteten beliebigen parteipolitischen Gegenschlagsrecht und prüft die mögliche Abschreckungswirkung der amtlichen Erklärung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Sie benennt passende Unterlassungs- beziehungsweise Korrekturziele und klärt die Verfahrensvoraussetzungen rollenbezogen, statt ohne Prüfung automatisch eine Verfassungsbeschwerde zu entwerfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "plugin": "datenbankrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {"url":"https://www.gesetze-im-internet.de/urhg/__87a.html","checked_on":"2026-09-14","supports":"Datenbankbegriff und wesentliche Investition in Beschaffung, Überprüfung oder Darstellung."},
+    {"url":"https://www.gesetze-im-internet.de/urhg/__87b.html","checked_on":"2026-09-14","supports":"Wesentliche Teile sowie wiederholte systematische Nutzung unwesentlicher Teile; Absatz 3 verweist auf die Data-Act-Ausnahme."},
+    {"url":"https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62002CJ0203","checked_on":"2026-09-14","supports":"EuGH, Urteil vom 9. November 2004, C-203/02: Datenerzeugung und erzeugungsbegleitende Prüfung sind von Investitionen in vorhandene Daten abzugrenzen."},
+    {"url":"https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62007CJ0304","checked_on":"2026-09-14","supports":"EuGH, Urteil vom 9. Oktober 2008, C-304/07: Auch Übertragung nach Bildschirmabfrage und eigener Auswahl kann Entnahme sein."}
+  ],
+  "mini_review": {"sha256":"9ce5217e325e9727a8b27801eb1ff73e27de8ecd9f0c7d0c50caf23e047e326f",
+    "verdict": "revised",
+    "reason": "Die bisherige fachliche Schutz- und Investitionslinie war richtig angelegt, wurde aber in mehreren Tabellen wiederholt und brach bei fehlenden Zugriffsbelegen pauschal ab. Der Investitionsspezialskill wurde insbesondere auf die Trennung erzeugter und beschaffter Daten abgeglichen.",
+    "changes": ["Investitionsprotokoll mit belegter Mischkostenzuordnung statt Gesamtkostenargument ausgearbeitet.","Qualitative und quantitative Wesentlichkeit sowie kumulative Teilübernahmen konkretisiert.","Beide einschlägigen Urteile erhalten und amtlich verifiziert; Vertragsansprüche und Datenbankrechte getrennt."]
+  },
+  "selection": {
+    "positive": ["Ordne unsere Kosten für Datenerhebung und Zukauf für den Nachweis des Datenbankherstellerrechts zu.","Prüfe anhand von Exportprotokollen, ob täglich kleine Übernahmen unserer Datenbank zusammen eine Verletzung ergeben."],
+    "negative": ["Optimiere den SQL-Abfrageplan unserer Kundendatenbank ohne rechtliche Bewertung.","Entwirf ausschließlich eine Datenschutzauskunft an eine betroffene Person nach Artikel 15 DSGVO."]
+  },
+  "cases": [{
+    "id": "messdaten-erzeugung-und-beschaffung",
+    "request": "Die Pegelarchiv GmbH finanziert und betreibt eine nach Messstation und Datum geordnete Datenbank mit einzeln abrufbaren Datensätzen. Die Kostenbelege für 2025 weisen 300.000 Euro für eigene neue Messungen einschließlich Prüfung der Sensorergebnisse während der Messung aus, 2.000 Euro für die Beschaffung schon vorhandener fremder Messreihen, 8.000 Euro für deren nachträgliche Plausibilitätsprüfung und Dublettenbereinigung sowie 1.000 Euro für Indexierung und Anzeige dieser übernommenen Reihen. Die Tätigkeiten sind jeweils separat abgerechnet. Die Geschäftsführung möchte gegenüber einem Wettbewerber die gesamten 311.000 Euro als Investition geltend machen. Zugriffsprotokolle zeigen, dass der Wettbewerber an zwanzig aufeinanderfolgenden Tagen jeweils unterschiedliche ein Prozent der gespeicherten Reihen exportiert und anschließend öffentlich in seiner Vergleichsdatenbank bereitgestellt hat; eigene Erhebung oder Lizenz behauptet er bislang nicht. Der Datenbestand änderte sich in diesen zwanzig Tagen nicht. Bereite in ergebnis.md ein Investitionsprotokoll und eine vorläufige Anspruchseinschätzung vor. Benenne die noch benötigten Nachweise für eine belastbare Abmahnung, ohne Daten hinzuzuerfinden.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id":"C01","text":"Die 300.000 Euro für Erzeugung samt erzeugungsbegleitender Kontrolle werden nicht als schutzfähige Beschaffungsinvestition angesetzt; die übrigen 11.000 Euro werden nachvollziehbar den drei angegebenen Tätigkeiten zugeordnet.","deliverables":["ergebnis.md"]},
+      {"id":"C02","text":"Die Wesentlichkeit der verbleibenden Investition wird begründet geprüft, ohne eine erfundene Eurogrenze anzunehmen oder allein wegen des hohen Erzeugungsanteils jeden Schutz zu verneinen.","deliverables":["ergebnis.md"]},
+      {"id":"C03","text":"Die zwanzig disjunkten Teilentnahmen werden als kumulativer Vorgang von zwanzig Prozent und als mögliches systematisches Nutzungsmuster bewertet; tägliches ein Prozent gilt nicht automatisch als zulässig.","deliverables":["ergebnis.md"]},
+      {"id":"C04","text":"Die Einschätzung unterscheidet Export und öffentliche Bereitstellung und benennt für die Abmahnung noch erforderliche Zuordnung der übernommenen Reihen zur geschützten Investition beziehungsweise Beeinträchtigung, statt aus den Gesamtkosten einen fertigen Schadensbetrag abzuleiten.","deliverables":["ergebnis.md"]}
+    ],
+    "target_skill": "datenbankherstellerrecht-wesentliche-investition"
+  }]
+}

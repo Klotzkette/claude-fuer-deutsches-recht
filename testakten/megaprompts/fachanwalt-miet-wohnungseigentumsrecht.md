@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 252 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-miet-wohnungseigentumsrecht`.
+Diese Vollprüfung enthält top-8 von 253 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-miet-wohnungseigentumsrecht`.
 
 ## Inhaltsverzeichnis
 

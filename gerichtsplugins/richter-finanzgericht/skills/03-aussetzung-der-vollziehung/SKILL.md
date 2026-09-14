@@ -20,11 +20,11 @@ FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
+1. Zulässigkeit nach Paragraf 69 Absätze 3 und 4 FGO prüfen: Gericht der Hauptsache, angefochtener Verwaltungsakt und behördliche AdV-Ablehnung oder gesetzliche Ausnahme wegen unbegründeter Verzögerung beziehungsweise drohender Vollstreckung. Weder abgeschlossenes Einspruchsverfahren noch bereits erhobene Klage sind Voraussetzung. Bestandskraft und einschlägige Rechtsbehelfsfristen dennoch gesondert prüfen.
 2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
 3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
 4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
-5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
+5. Beschlusstenor und Kosten absetzen; Zulassung der Beschwerde nach Paragraf 128 Absatz 3 FGO prüfen, für deren Gründe Paragraf 115 Absatz 2 FGO entsprechend gilt. Keine Revisionszulassung gegen den AdV-Beschluss vorsehen.
 6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
 7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
@@ -37,12 +37,13 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 - Paragraf 69 FGO: Aussetzung der Vollziehung setzt ernstliche Zweifel oder unbillige Härte voraus.
 - Paragraf 361 AO: Behördliche AdV und gerichtliche AdV sind verfahrensrechtlich zu trennen.
 - BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17, BVerfGE 158, 282: Steuerliche Zinsen müssen realitätsgerecht und verhältnismäßig ausgestaltet sein.
-- Paragraf 114 FGO: Beschwerde gegen AdV-Beschluss ist nur nach Zulassung eröffnet.
+- Paragraf 128 Absatz 3 FGO: Beschwerde gegen den AdV-Beschluss nur bei Zulassung in der Entscheidung. Paragraf 114 FGO regelt dagegen einstweilige Anordnungen und ist nach seinem Absatz 5 nicht der Verfahrensweg für Fälle des Paragrafen 69 FGO.
+- Amtlich geprüft am 14. September 2026: [Paragraf 69 FGO](https://www.gesetze-im-internet.de/fgo/__69.html), [Paragraf 128 FGO](https://www.gesetze-im-internet.de/fgo/__128.html) und [Paragraf 114 FGO](https://www.gesetze-im-internet.de/fgo/__114.html).
 - Ständige Rechtsprechung des BFH zur AdV: Die Prüfung bleibt summarisch, darf aber bei offenen Rechtsfragen die Erfolgsaussichten nicht schematisch verneinen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Aussetzung Der Vollziehung: Statthaften AdV-Antrag, vorherigen Behördenantrag und angefochtenen Verwaltungsakt zuerst prüfen.
+1. Statthaften AdV-Antrag und angefochtenen Verwaltungsakt prüfen; Behördenvorbefassung einschließlich der Ausnahmen nach Paragraf 69 Absatz 4 FGO einordnen. Der Antrag ist auch vor Klageerhebung möglich.
 2. Ernstliche Zweifel an Rechtmäßigkeit und unbillige Härte getrennt begründen.
 3. Aussetzungsbetrag, Sicherheitsleistung, Zinsen und Folgebescheide betragsgenau bestimmen.
 4. Summarische Prüfung offen kennzeichnen und Hauptsacheentscheidung nicht vorwegnehmen.

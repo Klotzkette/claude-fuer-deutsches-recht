@@ -1,76 +1,33 @@
-# Schriftform und Textform BGB — Schnellstart
+# 1. Schriftform und Textform: Schnellstart
 
-Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
+Prüfe die konkrete Erklärung oder Vereinbarung, nicht abstrakt „die Unterschrift“. Lies vollständigen Vertrag, Formklausel, Erklärung, Signaturdaten und Zugangsbeleg zuerst. Liefere einen Form- und Zugangsvermerk oder einen korrigierten Entwurf entsprechend dem Auftrag.
 
-Kernauftrag: Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Erklärung und Formgrund bestimmen
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Erklärende, Vertretung, Empfänger, Rechtsgeschäft, Datum und Zweck. Unterscheide gesetzliche Form, vertraglich vereinbarte Form und bloße interne Dokumentationsvorgabe. Ordne den gesamten formbedürftigen Inhalt einschließlich Nachträgen zu.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Vertragsurkunde, Korrespondenz, Rechnungen und Übergabeprotokoll. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Anspruchsziel, Anspruchsgrundlage, Leistungsstörung wählen; ohne konkreten Auftrag mit Anspruchsziel beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Prüfe nacheinander gesetzliche Spezialnorm, Paragrafen 125 bis 127 BGB, mögliche elektronische Ersetzung und etwaige Heilung. Eine E-Mail kann eine Textformanforderung erfüllen, ohne damit automatisch gesetzliche Schriftform zu erfüllen. Ein ausgedruckter Name ist keine qualifizierte elektronische Signatur.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Anspruchsziel, Anspruchsgrundlage, Leistungsstörung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Medium und Signatur abgleichen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Schriftform nach Paragraf 126 BGB, elektronische Form nach Paragraf 126a BGB und Textform nach Paragraf 126b BGB getrennt prüfen. Bei elektronischer Form Zertifikat, signierende Person, Integrität und vollständige Datei technisch nachweisen lassen. Ein sichtbares Signaturbild oder ein Prüfbericht zu einer anderen Fassung genügt nicht.
 
-## 2. Fachlicher Direktstart
+Bei arbeitsrechtlicher Kündigung und Auflösungsvertrag verlangt Paragraf 623 BGB Schriftform und schließt die elektronische Form aus. Daher nicht allein wegen einer qualifizierten elektronischen Signatur freigeben. Quelle: https://www.gesetze-im-internet.de/bgb/__623.html
 
-1. Leitfrage aus Akte und Auftrag festlegen: Wer verlangt welche Rechtsfolge aus welchem Vertrag oder gesetzlichen Anspruch.
-2. Kernprüfung in einem Durchgang: Ist der Vertrag wirksam zustande gekommen und welche Form- oder Vertretungsfrage kann kippen; Welche Klausel ist Individualabrede, AGB oder überraschende bzw. intransparente Regelung.
-3. Belege und Engpass zusammenführen: Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung; besonders kritisch ist: Widerrufs-, Verjährungs-, Rüge- oder Gewährleistungsfrist ist unklar.
-4. Erstes Arbeitsprodukt liefern: Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben.
+Bei vereinbarter Form die genaue Klausel und Paragraf 127 BGB auslegen, statt die strengste gesetzliche Form automatisch zu übertragen. Besondere Regeln für Befristung, Miete oder Bürgschaft nur nach aktuellem Norm- und Übergangsrechtscheck anwenden.
 
-## 3. Kernroute
+## 1.3. Zugang ist eine zweite Prüfung
 
-1. Anspruchsziel: Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen.
-2. Anspruchsgrundlage: Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen.
-3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
-4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
-5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
+Formwirksamkeit und rechtzeitiger Zugang sind unterschiedliche Fragen. Erfasse, welche konkrete Fassung wann in den Machtbereich des richtigen Empfängers gelangt sein soll und welcher Beleg dies trägt. Ein Einlieferungsbeleg belegt nicht schon Inhalt und Zugang.
 
-## 4. Fallkarte
+Ordne Original, Scan, E-Mail-Anhang, Portalnachricht und Briefversand jeweils zu. Notiere Versandzeit, behaupteten Zugang, Empfangsnachweis und verbleibende Beweisfrage. Keine Formheilung durch bloßen Empfang behaupten und keine Frist rückdatieren.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen |
-| Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
-| Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Gerichtliche Einreichungen nach Paragraf 130a ZPO und anderen Prozessordnungen gesondert behandeln. Die zivilrechtliche Textform ist kein allgemeiner Freibrief für eine einfache E-Mail an das Gericht.
 
-## 5. Einsatzfelder
+## 1.4. Ergebnis und sichere Korrektur
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Anspruchsziel | Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchsgrundlage | Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leistungsstörung | Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Liefere „Erklärung / Formgrund / vorliegende Fassung / Signatur / Zugang / Befund / noch möglicher Korrekturschritt“. Formmangel, Zugangslücke und ungeprüfte Technik erhalten getrennte Ergebnisse. Ist die Frist offen, zeige eine rechtzeitig prüfbare Alternative; verspreche keine rückwirkende Reparatur.
 
+Ein Entwurf enthält den vollständigen Erklärungstext mit sichtbaren Platzhaltern für fehlende Angaben. Nichts selbst unterschreiben, absenden oder als wirksam erklären, wenn eine tragende Voraussetzung fehlt. Höchstens eine gebündelte Rückfrage; die davon unabhängigen Teile weiterbearbeiten.
 
-## 6. Anker
-
-- BGB Paragraf 104 bis Paragraf 185: Geschäftsfähigkeit, Willenserklärung, Zugang, Anfechtung, Stellvertretung und Zustimmung.
-- BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
-- BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
-- BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- Paragraf 14 Abs. 4 TzBfG — Befristung des Arbeitsvertrags: schriftliche Vereinbarung zwingend (vor Beginn der Arbeit); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 623 BGB — Kündigung und Aufhebungsvertrag des Arbeitsverhältnisses: Schriftform zwingend; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 126 BGB — Schriftform: eigenhändige Unterschrift; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 126 Abs. 3 BGB i.V.m; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich.
-7.2. Norm: BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Anspruchsziel“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Zugang, Verjährung und der Auslegung der Vereinbarung.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Anspruchsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Widerrufs-, Verjährungs-, Rüge- oder Gewährleistungsfrist ist unklar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Aktuelle amtliche Normen und gegebenenfalls verifizierte Entscheidungen mit Datum, Aktenzeichen und Randnummer verwenden. Ohne technische Prüfung keine Zertifikatsvalidierung behaupten. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Andere Werkstatt- oder Skilltexte sind optional; neue Fassungen bei Folgeaufträgen erneut auf Vollständigkeit prüfen.

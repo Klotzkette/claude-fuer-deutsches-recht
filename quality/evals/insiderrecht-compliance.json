@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "insiderrecht-compliance",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R2809",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlichen Artikel 2 Nummer 6 und Artikel 4 Absatz 3 gelesen: Zwischenschritte, Geheimhaltung, Aufschub und Vertraulichkeitsverlust; Geltung ab 5. Juni 2026. Keine vollständige Prüfung aller nachfolgenden delegierten Konkretisierungen behauptet."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Mini unterstellte einen Gleichlauf von Insiderqualität und Veröffentlichungspflicht und berücksichtigte die seit Juni 2026 geltende Änderung nicht.",
+    "changes": [
+      "Zwischenschritte und finales Ereignis getrennt.",
+      "Nichtoffenlegung ohne Aufschub und Leakprüfung ergänzt.",
+      "Starren Wahrscheinlichkeitswerten und eigenmächtigen Marktmaßnahmen vorgebeugt."
+    ],
+    "sha256": "c2da05cc4dec029cb9a0187c9f76bfc375eeda56a64ff3aa8c10dd3a0e69064c"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe im September 2026 die MAR-Folgen eines vertraulichen M&A-Zwischenschritts.",
+      "Erstelle eine Kenntnis- und Ereigniszeitleiste nach einem präzisen Transaktionsgerücht."
+    ],
+    "negative": [
+      "Empfiehl mir anhand öffentlicher Kursdaten eine Aktie.",
+      "Entwirf einen Grundstückskauf ohne Kapitalmarktbezug."
+    ]
+  },
+  "cases": [
+    {
+      "id": "september-zwischenschritt-vertraulich",
+      "request": "Wir beraten eine deutsche börsennotierte AG am 14. September 2026. Die MAR-Anwendbarkeit ist unstreitig. Für diesen Auftrag steht nach abgeschlossener Prüfung fest: Die vertraulich vereinbarte Exklusivität in laufenden Erwerbsverhandlungen ist eine Insiderinformation nach Artikel 7 und ein qualifizierter Zwischenschritt eines gestreckten Vorgangs, kein finales Ereignis. Der Vertraulichkeitskreis ist dokumentiert; es gibt weder Leak noch Gerücht. Ein Mitarbeiter mit Kenntnis will Aktien kaufen, weil noch keine Ad-hoc-Mitteilung veröffentlicht wurde. Erstelle ergebnis.md als Entscheidungsvorlage zu Veröffentlichung, Aufschub und seinem Kaufwunsch auf aktuellem Rechtsstand. Kein Handel und keine Veröffentlichung auslösen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Leitet aus dem feststehenden qualifizierten Zwischenschritt keine aktuelle Veröffentlichungspflicht oder notwendige Aufschubentscheidung nach Absatz 4 ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Gibt den Aktienkauf nicht wegen fehlender Ad-hoc-Mitteilung frei, sondern trennt die bestehende Insiderqualität vom Publizitätsregime.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Benennt fortdauernde Geheimhaltung sowie Neubewertung bei finalem Ereignis oder Vertraulichkeitsverlust, ohne einen tatsächlich vorhandenen Leak zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "zwischenschritte-ma"
+    }
+  ]
+}

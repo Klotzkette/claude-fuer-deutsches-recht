@@ -1,10 +1,10 @@
-# DSA DMA Digitalregulierung — Schnellstart
+# 1. DSA DMA Digitalregulierung — Schnellstart
 
 Wenn du das hier öffnest, willst du Plattformrolle, Meldeweg, Sperre, Risikopflicht oder Gatekeeper-Vorgabe unmittelbar in eine belastbare Maßnahmen- und Verfahrensmatrix übersetzen.
 
 Kernauftrag: Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA Regulierungsrahmen NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und Paragraf 19a GWB. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Sofortstart nach Eingangslage
+## 1.1. Sofortstart nach Eingangslage
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
 - Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
@@ -15,22 +15,22 @@ Ohne verwertbares Material höchstens eine gebündelte Frage zu Dienst und Rolle
 
 Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-## 2. Fachlicher Direktstart
+## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete technische und wirtschaftliche Funktion übt der Dienst aus.
 2. Kernprüfung in einem Durchgang: Welche DSA- oder DMA-Rolle folgt daraus und welche Schwelle ist belegt; Welche Handlung, Unterlassung oder Entscheidung löst welche Pflicht aus.
 3. Belege und Engpass zusammenführen: Darlegungs- und Nachweisfrage für Digitale Plattformregulierung: Welche Handlung, Unterlassung oder Entscheidung löst welche Pflicht aus; besonders kritisch ist: Plattformrolle oder Adressat wird nur aus der Produktbezeichnung abgeleitet.
 4. Erstes Arbeitsprodukt liefern: Notice, Begründung, Beschwerde, Risikobericht, Datenzugangsantrag, Behördenantwort oder Compliance-Roadmap erstellen.
 
-## 3. Kernroute
+## 1.3. Kernroute
 
 1. Dienst und Rolle: Vermittlung, Hosting, Plattform, Marktplatz, Suchmaschine, sehr großer Dienst oder Gatekeeper anhand der tatsächlichen Funktion einordnen.
 2. Vorgang: Meldung, Sperre, Ranking, Werbung, Empfehlungssystem, Händlernachverfolgung, Beschwerde oder behördliche Maßnahme erfassen.
-3. Pflichtmatrix: Adressat, Schwellenwert, Tatbestand, Frist, Begründung, Transparenz, Datenbeleg und Aufsicht zuordnen.
+3. Pflichtmatrix: Dienstfunktion, Unternehmensgröße und gegebenenfalls förmlichen Benennungsbeschluss gesondert prüfen. DSA-Plattform ist nicht automatisch DMA-Gatekeeper. Bei Beschränkungen Entscheidung, Mitteilungstag, konkreten Inhalt, gesetzlichen oder vertraglichen Grund und verwendete Automatisierung erfassen. Artikel 19 DSA vor Anwendung der Plattformpflichten prüfen.
 4. Grundrechte und Verfahren: Nutzerposition, Unternehmerfreiheit, Meinungsfreiheit, Gehör, Beschwerdeweg und gerichtlichen Rechtsschutz trennen.
 5. Arbeitsprodukt: Notice, Begründung, Beschwerde, Risikobericht, Datenzugangsantrag, Behördenantwort oder Compliance-Roadmap erstellen.
 
-## 4. Fallkarte
+## 1.4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
@@ -41,16 +41,12 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Rechtsfolge | Notice, Begründung, Beschwerde, Risikobericht, Datenzugangsantrag, Behördenantwort oder Compliance-Roadmap erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
-## 5. Einsatzfelder
+## 1.5. Ergebniswahl
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Dienst und Rolle | Vermittlung, Hosting, Plattform, Marktplatz, Suchmaschine, sehr großer Dienst oder Gatekeeper anhand der tatsächlichen Funktion einordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vorgang | Meldung, Sperre, Ranking, Werbung, Empfehlungssystem, Händlernachverfolgung, Beschwerde oder behördliche Maßnahme erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichtmatrix | Adressat, Schwellenwert, Tatbestand, Frist, Begründung, Transparenz, Datenbeleg und Aufsicht zuordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Moderation: konkrete Entscheidung, Begründung und Beschwerderoute. Dienstprüfung: adressatenbezogene Pflichtmatrix. Sehr großer Dienst: Benennung und besondere Risikopflichten. DMA nur bei eigenständig geprüfter Gatekeeper- und Dienstzuordnung.
 
 
-## 6. Anker
+## 1.6. Anker
 
 - DSA Artikel 3 bis Artikel 6: Rollen, Vermittlungsdienste und Haftungsprivilegien nach Dienstetyp.
 - DSA Artikel 11 bis Artikel 17: Kontaktstellen, Transparenz, Melde- und Abhilfeverfahren sowie Begründung von Beschränkungen.
@@ -58,19 +54,19 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 - DSA Artikel 34, Artikel 35 und Artikel 40: systemische Risikobewertung, Risikominderung und Datenzugang bei sehr großen Diensten.
 - Art. 263 Abs. 4 AEUV — Nichtigkeitsklage; 2-Monatsfrist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 278/279 AEUV — Eilrechtsschutz (Aussetzung und einstweilige Maßnahmen); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 256 AEUV — Zuständigkeit EuG in erster Instanz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- [DSA, Artikel 19 und 20](https://eur-lex.europa.eu/eli/reg/2022/2065/oj/deu): Größenabhängige Ausnahme prüfen; bei anwendbarem Artikel 20 kostenloser elektronischer Beschwerdezugang mindestens sechs Monate ab Mitteilung. Entscheidungen über Beschwerden dürfen nicht ausschließlich automatisiert erfolgen. Keine allgemeine Siebentagesfrist erfinden.
 - EuGH, Urteil vom 12.07.2011 - C-324/09: L'Oréal gegen eBay betrifft die frühere unionsrechtliche Haftungs- und Unterlassungsordnung für Online-Marktplätze; die Aussage ist bei heutigen Fällen mit dem DSA abzugleichen.
 
-## 7. Antwortform
+## 1.7. Antwortform
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Notice, Begründung, Beschwerde, Risikobericht, Datenzugangsantrag, Behördenantwort oder Compliance-Roadmap erstellen.
-7.2. Norm: DSA Artikel 3 bis Artikel 6; DSA Artikel 11 bis Artikel 17 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Dienst und Rolle“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Darlegungs- und Nachweisfrage für Digitale Plattformregulierung: Welche Handlung, Unterlassung oder Entscheidung löst welche Pflicht aus. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche DSA- oder DMA-Rolle folgt daraus und welche Schwelle ist belegt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Dienst und Rolle“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Notice, Begründung, Beschwerde, Risikobericht, Datenzugangsantrag, Behördenantwort oder Compliance-Roadmap erstellen.
+1.7.2. Norm: DSA Artikel 3 bis Artikel 6; DSA Artikel 11 bis Artikel 17 mit dem entscheidenden Merkmal verbinden.
+1.7.3. Aktenfund: Für „Dienst und Rolle“ Tatsache, Datum und Fundstelle nennen.
+1.7.4. Beweis: Darlegungs- und Nachweisfrage für Digitale Plattformregulierung: Welche Handlung, Unterlassung oder Entscheidung löst welche Pflicht aus. Offene Folgen aussprechen.
+1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche DSA- oder DMA-Rolle folgt daraus und welche Schwelle ist belegt.
+1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Dienst und Rolle“. Frist, Kernlücke und nächstem Dokument benennen.
 
-## 8. Stop
+## 1.8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Plattformrolle oder Adressat wird nur aus der Produktbezeichnung abgeleitet. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Bei unklarer Rolle zunächst Funktions- und Adressatenmatrix liefern, nur davon abhängige Pflichten offenlassen. Beschwerde gegen Moderation, Meldung rechtswidrigen Inhalts und Behördenbeschwerde nicht gleichsetzen. Werkstatt und andere Skills optional. Keine Meldung, Sperrung oder Behördeneingabe auslösen. Ergebnis ausformulieren, Entscheidungen nur mit geprüfter Fundstelle verwenden; dezimale Gliederung, Markdown-Exporthinweis Times New Roman 11 pt.

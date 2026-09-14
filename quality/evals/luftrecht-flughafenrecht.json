@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "plugin": "luftrecht-flughafenrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/luftvg/__6.html",
+      "checked_on": "2026-09-14",
+      "supports": "Flugplatzgenehmigung und wesentliche Betriebsänderung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/luftvg/__8.html",
+      "checked_on": "2026-09-14",
+      "supports": "Planfeststellung und Absatz 4 zur Änderung betrieblicher Regelungen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der gesamte Mini ordnete Objektarten sinnvoll, blieb bei Fachbelegen allgemein und enthielt sachfremde Insolvenzketten. Der Planungsskill verlangt sogar Pfandrechtsunterlagen unabhängig vom Fall.",
+    "changes": [
+      "Baulichen und betrieblichen Änderungsvergleich eingeführt.",
+      "Pauschale Registeranforderungen und Rechtsbehelfsannahmen ausgeschlossen."
+    ],
+    "sha256": "4071e7b49659a429c051fa4631aa3728b9a3b201c77d9f0439e08998be0ca0a0"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie den Genehmigungsweg einer längeren Flughafenbetriebszeit.",
+      "Erstellen Sie Einwendungen zur Lärmprognose einer Startbahnerweiterung."
+    ],
+    "negative": [
+      "Fordern Sie Ausgleich wegen eines annullierten Urlaubsflugs ohne Betriebsrechtsfrage.",
+      "Prüfen Sie eine immissionsschutzrechtliche Genehmigung für ein landseitiges Chemiewerk."
+    ]
+  },
+  "cases": [
+    {
+      "id": "betriebszeit-ohne-bau",
+      "request": "Erstellen Sie ergebnis.md als Verfahrensvermerk für den Betreiber eines deutschen Verkehrsflughafens. Ein bestandskräftiger Planfeststellungsbeschluss setzt den Betrieb von 06:00 bis 22:00 Uhr fest. Beantragt werden soll ausschließlich eine Verlängerung bis 23:00 Uhr für täglich vier zusätzliche Ankünfte; baulich ändert sich nichts. Die Betriebsgenehmigung entspricht bislang dem Planbeschluss. Die vorhandene Lärmprognose erfasst nur den bisherigen Betrieb. Das Projektteam möchte wissen, welche Unterlagen und luftrechtliche Verfahrensroute zunächst zu prüfen sind. Es gibt noch keinen Änderungsbescheid und keine laufende Rechtsbehelfsfrist.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Änderung wird als betriebliche Regelung anhand von Paragraf 8 Absatz 4 und Paragraf 6 Absatz 4 LuftVG geprüft, nicht allein als bauliche Neuerweiterung eingeordnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die fehlende Erfassung der zusätzlichen Abendankünfte in der Lärmprognose wird als konkrete Unterlagenlücke benannt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Vermerk erfindet keine Klagefrist und fordert ohne Sicherungsrechtsbezug keine Flugzeugpfandrechtsregisterauszüge.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "flughafen-planfeststellung"
+    }
+  ]
+}

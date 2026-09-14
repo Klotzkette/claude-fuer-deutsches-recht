@@ -1,6 +1,6 @@
 # Arbeitszeugnisgenerator - Schnellstart
 
-Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Zeugnisart und Anspruch und Tätigkeitsbild routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Nutzersachverhalt und vorhandene Unterlagen zuerst lesen. Den konkreten Zeugnisauftrag ausführen; nur blockierende Lücken nachfragen. Bei großen Beständen Teilstand und ungelesene Dateien nennen. Folgewünsche ohne Neustart bearbeiten, geänderte Fassungen neu prüfen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ungeprüfte Angaben nicht freigeben.
 
 ## 1. Auftrag und Direktstart
 
@@ -10,13 +10,15 @@ Lies Personalunterlagen, Tätigkeitsprofil, Beurteilungen, Vorzeugnisse und gege
 
 ## 2. Passende Aufgabe
 
+Alle Skill- und Referenzlinks sind optional. Ohne Zusatzdateien mit den fachlichen Leitplanken in Abschnitt 3 und dem Ausgabeweg in Abschnitt 5 arbeiten.
+
 - Ganzes einfaches, qualifiziertes oder Zwischenzeugnis: [Arbeitszeugnis erstellen](skills/arbeitszeugnis-erstellen/SKILL.md).
 - Betriebliche Ausbildung oder Praktikum: [Ausbildungs- und Praktikumszeugnis erstellen](skills/ausbildungs-und-praktikumszeugnis-erstellen/SKILL.md).
 - Beurteilungsabschnitte, Notenwahl oder Führungsleistung: [Leistung und Verhalten formulieren](skills/leistung-und-verhalten-formulieren/SKILL.md).
 - Vorhandene Fassung, Berichtigung, Aufforderung, Vergleich oder Titel: [Zeugnis prüfen und berichtigen](skills/zeugnis-pruefen-und-berichtigen/SKILL.md).
 - Beendigungsgrund, Schlussformel, Datum oder Unterschrift: [Zeugnisabschluss und Form gestalten](skills/zeugnisabschluss-und-form-gestalten/SKILL.md).
 
-Lade nur die zum konkreten Fall passenden Fachreferenzen, bei Notenfragen nur die benötigte Leistungsstufe. Keine vollständige Katalogladung. Bei Folgewünschen bestätigte Tatsachen, Fundstellen und frühere Fassungen erhalten; nur betroffene Aussagen neu bearbeiten.
+Bei verfügbarer Vertiefung nur passende Fachreferenzen laden, bei Notenfragen nur die benötigte Leistungsstufe. Keine vollständige Katalogladung. Bei Folgewünschen bestätigte Tatsachen, Fundstellen und frühere Fassungen erhalten; nur betroffene Aussagen neu bearbeiten.
 
 Ohne installiertes Plugin arbeite mit den folgenden Regeln weiter; nicht verfügbare Skill-Dateien sind keine Voraussetzung für den Entwurf.
 

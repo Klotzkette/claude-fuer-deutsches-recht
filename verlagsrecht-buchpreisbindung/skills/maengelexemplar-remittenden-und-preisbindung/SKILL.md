@@ -15,20 +15,19 @@ description: "Für Verl-011 · Mängelexemplare, Remittenden und Preisbindung: o
 
 ## Zweck dieses Skills
 
-Mängelexemplare und Remittenden sind die häufigsten **Ausnahmetatbestände** von der Buchpreisbindung. Gleichzeitig sind sie eine der häufigsten Quellen für Preisbindungsverstöße, weil die Kennzeichnungspflichten und Voraussetzungen unterschätzt werden. Kläre Definitionen, Verfahrensregeln und Haftungsrisiken.
+Bei Remittenden müssen Rücksendestatus, tatsächlicher Zustand und Kennzeichnung getrennt geprüft werden. Die Rücksendung ist keine selbständige Ausnahme von der Buchpreisbindung. Entscheidend für die Mängelexemplar-Ausnahme sind ein tatsächlicher Mangel und die entsprechende Kennzeichnung; kläre diese Voraussetzungen je Bestand und dokumentiere die Rabattfreigabe.
 
 ## Rechtsgrundlagen
 
 | Norm | Inhalt | Quelle |
 |------|--------|-------|
-| BuchPrG § 6 Abs. 1 Nr. 1 | Ausnahme: beschädigte Exemplare (Mängelexemplare) | https://www.gesetze-im-internet.de/buchprg/__6.html |
-| BuchPrG § 6 Abs. 1 Nr. 2 | Ausnahme: Remittenden (zurückgesandte Exemplare) | https://www.gesetze-im-internet.de/buchprg/__6.html |
-| BuchPrG § 5 | Bindung des Letztabnehmers | https://www.gesetze-im-internet.de/buchprg/__5.html |
+| Paragraf 7 Absatz 1 Nummer 4 BuchPrG | Mängelexemplar: tatsächliche Beschädigung oder sonstiger Fehler und Kennzeichnung | https://www.gesetze-im-internet.de/buchprg/__7.html |
+| Paragraf 3 BuchPrG | Preisbindung beim geschäftsmäßigen Verkauf an Letztabnehmer; bloße Remission befreit nicht | https://www.gesetze-im-internet.de/buchprg/__3.html |
+| Paragraf 5 BuchPrG | Preisfestsetzung durch Verleger oder Importeur | https://www.gesetze-im-internet.de/buchprg/__5.html |
 | BuchPrG § 9 | Ansprüche bei Verstoß: Unterlassung, Schadensersatz | https://www.gesetze-im-internet.de/buchprg/__9.html |
-| BuchPrG § 13 | Bußgeld bei Verstößen | https://www.gesetze-im-internet.de/buchprg/__13.html |
 | UWG § 3 | Unlautere Geschäftspraktiken | https://dejure.org/gesetze/UWG/3.html |
 
-## Mängelexemplare (§ 6 Abs. 1 Nr. 1 BuchPrG)
+## 1. Mängelexemplare (Paragraf 7 Absatz 1 Nummer 4 BuchPrG)
 
 ### Definition
 - Ein Mängelexemplar ist ein Exemplar, das durch einen **physischen Mangel** wertgemindert ist:
@@ -45,7 +44,7 @@ Mängelexemplare und Remittenden sind die häufigsten **Ausnahmetatbestände** v
 - Das Exemplar muss **deutlich und dauerhaft als Mängelexemplar** kenntlich gemacht sein:
  - Aufkleber „Mängelexemplar" auf dem Einband
  - Stempel auf Schnitt oder Einband
- - Strich durch den aufgedruckten Preis
+ - Eindeutige Kennzeichnung als Mängelexemplar; ein bloß durchgestrichener Preis belegt weder Mangel noch dessen Kennzeichnung
 - Bloß verbales Angebot als Mängelexemplar ohne Kennzeichnung ist unzureichend.
 - Online-Verkauf: Hinweis in der Produktbeschreibung allein reicht nicht; Exemplar selbst muss gekennzeichnet sein.
 
@@ -53,7 +52,7 @@ Mängelexemplare und Remittenden sind die häufigsten **Ausnahmetatbestände** v
 - Keine Mindest- oder Maximalrabattgrenze gesetzlich; Marktpreis gilt.
 - Empfehlung: Preisreduzierung entsprechend dem Grad des Mangels (optisch erkennbar); zu hohe Preise für Mängelexemplare könnten wettbewerbsrechtlich als irreführend gelten.
 
-## Remittenden (§ 6 Abs. 1 Nr. 2 BuchPrG)
+## 2. Remittenden ohne eigenständige Preisbindungsausnahme
 
 ### Definition
 - Remittenden sind Bücher, die der Buchhandel an die **Auslieferung oder den Verlag zurückgesandt** hat.
@@ -62,13 +61,13 @@ Mängelexemplare und Remittenden sind die häufigsten **Ausnahmetatbestände** v
 
 ### Zustand von Remittenden
 - Remittenden können physisch einwandfrei oder leicht beschädigt sein.
-- Einwandfreie Remittenden: Müssen als solche gekennzeichnet werden, bevor sie unter dem Ladenpreis weiterverkauft werden dürfen.
-- Kennzeichnung: Strich auf Seiten-/Buchschnitt, Stempel, Aufkleber „Remittend" oder Ähnliches.
+- Einwandfreie Remittenden bleiben preisgebunden, auch wenn sie als „Remittend“ oder „Mängelexemplar“ markiert sind. Die Kennzeichnung allein schafft keinen Mangel.
+- Bei tatsächlich beschädigten Remittenden den konkreten Mangel dokumentieren und das Exemplar als Mängelexemplar kennzeichnen, bevor auf dieser Grundlage vom gebundenen Preis abgewichen wird.
 
 ### Vertriebskanäle für Remittenden
 - Verlag/Auslieferung verkauft Remittenden an Remittenden-Händler (z.B. Weltbild-Outlet, Hugendubel-Angebote, Straßenbuchhändler).
-- Remittenden-Händler müssen Kennzeichnung beibehalten und dürfen nicht als Neuware verkaufen.
-- **Achtung Internethandel**: Remittenden auf Amazon Marketplace ohne Kennzeichnung sind Preisbindungsverstoß.
+- Beim Weiterverkauf an Letztabnehmer bleibt ein einwandfreies, nicht anderweitig von der Bindung befreites Exemplar preisgebunden. Die Rücksendung allein macht es weder zum Gebrauchtbuch noch zum Mängelexemplar.
+- Im Internethandel gelten dieselben Voraussetzungen: Bei Rabatt wegen eines Mangels müssen tatsächlicher Fehler und Kennzeichnung am Exemplar vorliegen; der Vertriebsweg ersetzt diese Prüfung nicht.
 
 ## Verfahren beim Verlag / bei der Auslieferung
 
@@ -88,16 +87,16 @@ Mängelexemplare und Remittenden sind die häufigsten **Ausnahmetatbestände** v
 
 ## Verhältnis zu anderen Ausnahmetatbeständen
 
-- **Altexemplare** (> 18 Monate beim Händler): Keine explizite gesetzliche Ausnahme im BuchPrG; umstrittene Praxis.
-- **Lagerabverkauf des Verlags**: Wenn Verlag eigene Lagerbestände räumt, gilt der festgesetzte Preis; Ausnahme nur, wenn Mängelexemplar-Status vorliegt.
-- **Restauflagen nach Neuauflage**: Alte Auflage ist weiterhin preisgebunden, solange der Preis nicht aufgehoben; Verlag kann Preis senken (§ 7 BuchPrG) oder aufheben.
+- Lageralter allein beendet die Bindung nicht. Nach Paragraf 8 Absatz 1 BuchPrG kommt es auf das erste Erscheinen der Ausgabe und eine veröffentlichte Aufhebung durch Verleger oder Importeur an; Absatz 2 enthält Sonderfälle.
+- Beim Lagerabverkauf des Verlags gilt der festgesetzte Preis, solange keine nachgewiesene Ausnahme oder wirksame Aufhebung greift.
+- Eine Neuauflage befreit Restbestände nicht automatisch. Preisfestsetzung und Preisänderung nach Paragraf 5 BuchPrG von der Aufhebung nach Paragraf 8 BuchPrG trennen.
 
 ## Typische Fallen
 
-- **Fehlende Kennzeichnung**: Buchhandlung verkauft Remittend ohne Stempel/Aufkleber unter Ladenpreis → Preisbindungsverstoß.
+- Einwandfreie Remittende mit Stempel: Rabatt nicht allein wegen Rücksendung oder Markierung freigeben. Tatsächlich mangelhaftes Exemplar ohne Kennzeichnung: Ausnahme noch nicht erfüllt.
 - **Online-Remittenden ohne Hinweis**: eBay- oder Amazon-Angebot „leicht beschädigt" ohne körperliche Kennzeichnung → unzureichend.
 - **Inhaltlicher Mangel als Begründung**: „Das Buch ist veraltet" ist kein Mängelexemplar-Grund → kein Preisunterschreitung zulässig.
-- **Remittend erneut als Neuware eingelagert**: Auslieferung nimmt Remittend zurück und liefert es erneut als Neuware; wenn Exemplar äußerlich unkenntlich — kein Verstoß; wenn erkennbar bereits im Handel gewesen und beschädigt zurück — Kennzeichnung erforderlich.
+- Wiederverkauf einer Remittende: Den tatsächlichen Zustand prüfen. Für einen Rabatt als Mängelexemplar sind Mangel und Kennzeichnung erforderlich; bloße Handelsspuren in der Lieferhistorie genügen nicht.
 - **Großmengen-Remittend als Ausweichkanal**: Verlag schickt gezielt Bücher als „Mängelexemplare" aus, obwohl sie einwandfrei sind → Missbrauch der Ausnahme; Wettbewerbsverstoß (UWG § 3).
 
 ## Checkliste Mängelexemplar / Remittend
@@ -106,16 +105,16 @@ Mängelexemplare und Remittenden sind die häufigsten **Ausnahmetatbestände** v
 - [ ] Kennzeichnung dauerhaft und deutlich auf dem Exemplar
 - [ ] Online-Verkauf: Kennzeichnung im Foto und auf dem Buch selbst sichtbar
 - [ ] Remittenden: Tatsächliche Rücksendung durch Buchhandel dokumentiert
-- [ ] Remittenden-Händler auf Kennzeichnungspflicht hingewiesen (Vertragsklausel)
+- [ ] Händler über fortbestehende Bindung einwandfreier Remittenden sowie Mangel- und Kennzeichnungsnachweis bei Rabatt informiert
 - [ ] Lagerbestands-Tracking: Remittend-Status im Warenwirtschaftssystem vermerkt
 
 ## Quellenreferenzen
 
-- BuchPrG § 6: https://www.gesetze-im-internet.de/buchprg/__6.html
-- OLG Frankfurt, Urt. v. 14.03.2013 (Mängelexemplar-Kennzeichnung): https://openjur.de
-- BGH, Urt. v. 21.07.2005 – I ZR 94/02 (Remittenden-Vertrieb): https://www.bgh.de
-- Börsenverein, Leitfaden Preisbindung: https://www.boersenverein.de
-- UWG § 3: https://dejure.org/gesetze/UWG/3.html
+- [Paragraf 7 BuchPrG: Ausnahmen](https://www.gesetze-im-internet.de/buchprg/__7.html)
+- [Paragraf 3 BuchPrG: Preisbindung](https://www.gesetze-im-internet.de/buchprg/__3.html)
+- [Paragraf 8 BuchPrG: Dauer der Preisbindung](https://www.gesetze-im-internet.de/buchprg/__8.html)
+- [Paragraf 9 BuchPrG: Unterlassung und Schadensersatz](https://www.gesetze-im-internet.de/buchprg/__9.html)
+- Keine nicht verifizierte Entscheidung zur Remittenden-Ausnahme als Beleg einsetzen.
 
 ## Output-Formate
 

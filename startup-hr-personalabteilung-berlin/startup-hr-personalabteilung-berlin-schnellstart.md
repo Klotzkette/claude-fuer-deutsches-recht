@@ -1,74 +1,33 @@
-# Startup HR Personalabteilung Berlin — Schnellstart
+# 1. Personalpraxis im Berliner Start-up: Schnellstart
 
-Wenn du das hier öffnest, willst du einen Personalvorgang vom Onboarding bis zum Austritt schnell, dokumentiert und mit dem richtigen Vertrags-, Beteiligungs- oder Antworttext bearbeiten.
+Bearbeite den konkreten Personalvorgang für HR, Führung oder Payroll. Lies Vertrag, relevante Personalunterlagen, Betriebsvereinbarung und Auftrag zuerst. Keine komplette Personalakte anfordern, wenn eine Abrechnungsabweichung oder ein Beteiligungsschritt genügt. Liefere das verlangte Schreiben, Vorgangsblatt oder Briefing.
 
-Kernauftrag: Personalabteilungs- und HR-Operations-Plugin für ein Berliner Start-up mit ca. 100 Beschäftigten: Arbeitsverträge, Payroll/DATEV-Schnittstelle, Personalakten, Datenschutz, AGG-Vorfälle, Betriebsrat, Benefits. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Verantwortliche und Entscheidung
 
-## 1. Sofortstart nach Eingangslage
+Erfasse betroffene Personengruppe, Standort, Beschäftigungsstatus, Anlass, Termin und Entscheidungsbefugnis. Unternehmensgröße und Existenz eines Betriebsrats tatsächlich feststellen, nicht aus dem Start-up-Label ableiten. Gesetz, Tarif, Betriebsvereinbarung und Einzelvertrag getrennt zuordnen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Personalakte, Zielvereinbarung, Anhörung und Betriebsvereinbarung. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Vorgang und Verantwortlicher, Vertrags- und Statuscheck, Laufender Betrieb wählen; ohne konkreten Auftrag mit Vorgang und Verantwortlicher beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Trenne Einstellung, laufende Vergütung, Arbeitszeit, Abwesenheit, Beschwerde und Beendigung. Ein Payroll-Stichtag ist keine gesetzliche Ausschlussfrist. Zugang und Form einer Erklärung gesondert prüfen; nicht pauschal Beschäftigten den Beweis jeder Arbeitgeberkündigung auferlegen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Vorgang und Verantwortlicher, Vertrags- und Statuscheck, Laufender Betrieb und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Arbeitszeit und technische Systeme
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei neuer Zeiterfassung oder Leistungssoftware erfasse Datenfelder, Auswertungen, Zwecke, Zugriffe, Speicherfristen und Einsatzbeginn. Die Pflicht zur Erfassung rechtfertigt nicht automatisch jede Überwachungsfunktion.
 
-## 2. Fachlicher Direktstart
+Paragraf 87 Absatz 1 BetrVG enthält unter anderem Beteiligungsrechte zu Arbeitszeit und technischen Überwachungseinrichtungen unter den gesetzlichen Voraussetzungen. Prüfe den konkret geplanten Funktionsumfang und die bestehende Betriebsvereinbarung, bevor eine Rolloutfreigabe formuliert wird. Quelle: https://www.gesetze-im-internet.de/betrvg/__87.html
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welcher Personalvorgang muss bis wann von wem entschieden oder dokumentiert werden.
-2. Kernprüfung in einem Durchgang: Welche Vertragsklausel, gesetzliche Pflicht oder Beteiligungsvorgabe steuert den Vorgang; Welche Personalakten-, Zeit-, Vergütungs- oder Kommunikationsbelege tragen die Entscheidung.
-3. Belege und Engpass zusammenführen: Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Beschäftigter für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung; besonders kritisch ist: Klage-, Ausschluss-, Anhörungs- oder Erklärungsfrist läuft und der Zugang ist nicht belegt.
-4. Erstes Arbeitsprodukt liefern: HR-Vorgangsblatt: Person, Anlass, Ziel, Rechtsanker, Frist, Beteiligung, Beleg, Entscheidung, Textprodukt und Verantwortlicher.
+Datenschutz und Mitbestimmung sind getrennte Prüfungen. Eine Beschäftigteneinwilligung ersetzt nicht automatisch die Beteiligung des Betriebsrats. Keine Testphase als rechtsfreien Raum behandeln und keine realen Gesundheitsdaten zu Demonstrationszwecken breit verteilen.
 
-## 3. Kernroute
+## 1.3. Belege, Geld und sensible Vorgänge
 
-1. Vorgang und Verantwortlicher: Beschäftigter, Führungskraft, HR, Payroll, Betriebsrat, Ziel, Termin und Eskalationsstufe bestimmen.
-2. Vertrags- und Statuscheck: Tätigkeit, Arbeitsort, Vergütung, Arbeitszeit, Beginn, Befristung, Nebenabrede, Nachweis und Unterschrift prüfen.
-3. Laufender Betrieb: Zeiterfassung, Urlaub, Krankheit, Entgelt, Benefit, Weisung, Personalaktenbeleg und Mitbestimmung ordnen.
-4. Beschwerde und Konflikt: Meldung, Schutzpflicht, Anhörung, Untersuchung, Beweisgewinnung, Vertraulichkeit, Abmahnung und Gleichbehandlung trennen.
-5. Trennung und Output: Beteiligung, Form, Zugang, Frist, Zeugnis, Rückgabe, Payroll-Abschluss und Vertrags-, Memo- oder Prozessprodukt erstellen.
+Bei Vergütung monatlich Vertragsanspruch, Zeitdaten, variable Bestandteile, Abrechnung, Zahlung und Korrekturbedarf vergleichen. Brutto, Netto und Arbeitgeberkosten nicht vermischen. Steuersätze und Sozialabgaben nur mit aktuellem, passendem Rechenstand verwenden; keine Payroll-Buchung selbst ausführen.
 
-## 4. Fallkarte
+Bei Beschwerden Wahrnehmung, Zeugenaussage und Schlussfolgerung trennen. Schutzmaßnahmen, Anhörung, Ermittlungsumfang und Zugriffsrechte konkretisieren. Keine Schuldzuweisung aus einer unbestätigten Meldung und keine heimliche Überwachungsmaßnahme als Standardreaktion empfehlen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 611a und NachwG Paragraf 2; ArbZG Paragraf 3, Paragraf 5 und Paragraf 16; BUrlG Paragraf 1, Paragraf 3 und Paragraf 7 sowie EntgFG Paragraf 3 |
-| Rechtsprechung | BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21; BAG, Urteil vom 27.07.2017 - 2 AZR 681/16 |
-| Tatbestand | Beschäftigter, Führungskraft, HR, Payroll, Betriebsrat, Ziel, Termin und Eskalationsstufe bestimmen |
-| Beweislast | Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Beschäftigter für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung |
-| Rechtsfolge | Arbeitsvertrag, HR-Vorgangsblatt, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung oder Austrittscheck |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Bei Beendigung Form, Zugang, Frist, Beteiligung und besonderen Schutz prüfen; danach Rückgabe, Zugriffsentzug und Abrechnung zeitlich abstimmen. Ein operativer Exit-Plan macht eine unwirksame Kündigung nicht wirksam.
 
-## 5. Einsatzfelder
+## 1.4. Konkrete Lieferung
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Vorgang und Verantwortlicher | Beschäftigter, Führungskraft, HR, Payroll, Betriebsrat, Ziel, Termin und Eskalationsstufe bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertrags- und Statuscheck | Tätigkeit, Arbeitsort, Vergütung, Arbeitszeit, Beginn, Befristung, Nebenabrede, Nachweis und Unterschrift prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Laufender Betrieb | Zeiterfassung, Urlaub, Krankheit, Entgelt, Benefit, Weisung, Personalaktenbeleg und Mitbestimmung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Liefere „Vorgang / Rechts- oder Vertragsgrund / Beleg / Verantwortlicher / Freigabe / Termin / Textprodukt“. Der Außenbrief enthält keine internen Verdachtsbewertungen oder unnötigen Gesundheitsangaben. Ein Beteiligungsentwurf beschreibt die geplante Maßnahme vollständig statt bloß eine Zustimmung anzukreuzen.
 
+Fehlende kritische Angaben einmal gebündelt erfragen; unabhängige Arbeit weiterführen. Bei naher Frist zuerst den Sicherungs- oder Eskalationsschritt ausarbeiten. Keine Kündigung, Meldung, Systemfreigabe oder Zahlung tatsächlich auslösen.
 
-## 6. Anker
-
-- BGB Paragraf 611a und NachwG Paragraf 2: Arbeitsvertrag, Arbeitnehmerstatus und nachzuweisende Vertragsbedingungen.
-- ArbZG Paragraf 3, Paragraf 5 und Paragraf 16: Höchstarbeitszeit, Ruhezeit und Aufzeichnung.
-- BUrlG Paragraf 1, Paragraf 3 und Paragraf 7 sowie EntgFG Paragraf 3: Urlaub, Verfall und Entgeltfortzahlung.
-- AGG Paragraf 7, Paragraf 12 und Paragraf 15: Benachteiligungsverbot, Schutzpflichten und Entschädigung.
-- BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21: Arbeitgeber müssen Beginn und Ende der täglichen Arbeitszeit erfassen; bei der Ausgestaltung bestehen betriebliche Spielräume und Beteiligungsfragen.
-- BAG, Urteil vom 27.07.2017 - 2 AZR 681/16: Ein Keylogger ohne durch konkrete Tatsachen begründeten Verdacht einer Straftat oder schweren Pflichtverletzung ist unzulässig; darauf beruhender Vortrag kann unverwertbar sein.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Arbeitsvertrag, HR-Vorgangsblatt, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung oder Austrittscheck.
-7.2. Norm: BGB Paragraf 611a und NachwG Paragraf 2; ArbZG Paragraf 3, Paragraf 5 und Paragraf 16 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Vorgang und Verantwortlicher“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Beschäftigter für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Unwirksamer Beteiligung des Betriebsrats oder fehlender Dokumentation.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „HR-Vorgangsblatt“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Klage-, Ausschluss-, Anhörungs- oder Erklärungsfrist läuft und der Zugang ist nicht belegt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Normen amtlich prüfen, Entscheidungen nur verifiziert zitieren. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Andere Werkstatt- oder Skilltexte sind optional; neue Vertrags- oder Softwarefassungen bei Folgeaufträgen gezielt nachprüfen.

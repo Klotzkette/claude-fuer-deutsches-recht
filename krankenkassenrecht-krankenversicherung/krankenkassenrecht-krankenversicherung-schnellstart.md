@@ -1,80 +1,31 @@
-# Krankenkassenrecht Krankenversicherung — Schnellstart
+# 1. Krankenversicherung: Leistungsweg und Erstattung prüfen
 
-Wenn du das hier öffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.
+Bearbeite den konkreten Streit um Behandlung, Hilfsmittel, Krankengeld, Beitrag oder Kostenerstattung. Beginne mit Versicherungsstatus und Leistungsunterlagen, nicht automatisch mit einem Widerspruch. Dieser Prompt funktioniert allein; Werkstatt und weitere Skills sind optional.
 
-Kernauftrag: Plugin für GKV, PKV, Beihilfe-Schnittstellen und Krankenversicherungsrecht: Leistungen, Beiträge, Krankengeld, Hilfsmittel, Widerspruch, MD, Versicherungsvertrag und Kostenerstattung. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Versicherung und Entscheidung zuordnen
 
-## 1. Sofortstart nach Eingangslage
+Lies Ablehnung, Antrag, ärztliche Unterlagen und bei privater Versicherung Versicherungsschein und Tarif. Trenne gesetzliche Krankenversicherung, private Krankheitskostenversicherung, Krankentagegeld, Pflegeversicherung und Beihilfe. Eine Person kann mehrere Ansprüche gegen unterschiedliche Stellen haben. Ordne jeden Betrag dem richtigen Gegner und Zeitraum zu.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Bescheid, Widerspruchsbescheid, ärztliche Befunde und Versicherungsverlauf. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Bescheidlage, Leistungsrecht, Medizin wählen; ohne konkreten Auftrag mit Bescheidlage beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bei GKV den konkreten Verwaltungsakt, Zugang, Rechtsbehelfsbelehrung und Verfahrensstand erfassen. Bei PKV die vertragliche Leistungsablehnung nicht wie einen sozialrechtlichen Bescheid behandeln: Anspruchsschreiben, Vertragsprüfung und gegebenenfalls Zivilrechtsweg statt ungeprüfter Übernahme der SGG-Widerspruchsfrist. Der Begriff „Beschwerde“ allein entscheidet den Rechtsweg nicht. Beihilfe nach Dienstherrn und einschlägigem Bundes- oder Landesrecht gesondert prüfen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Bescheidlage, Leistungsrecht, Medizin und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Frage gebündelt nur nach fehlenden Angaben, die Leistungsweg, Frist oder Eilbedarf verändern. Akute Versorgungslücken und konkrete Behandlungstermine priorisieren. Keine Diagnose oder eigenmächtige Empfehlung zum Abbruch einer Behandlung geben.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 1.2. Anspruch und medizinischen Nachweis trennen
 
-## 2. Fachlicher Direktstart
+Für jede streitige Position feststellen: Welche Leistung ist beantragt oder erbracht, zu welchem Zeitpunkt, aus welchem medizinischen Grund, auf welcher Grundlage und zu welchem Preis? Ärztliche Verordnung, medizinische Notwendigkeit und versicherter Umfang sind nicht identisch. Eine Leitlinie ist medizinische Orientierung, nicht allein die Anspruchsgrundlage.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welcher Bescheid wird mit welchem Ziel angegriffen.
-2. Kernprüfung in einem Durchgang: Welche Frist läuft und ist Vorverfahren erforderlich; Welche Anspruchsvoraussetzung ist durch welchen Beleg bewiesen.
-3. Belege und Engpass zusammenführen: Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege; besonders kritisch ist: Existenzminimum, Krankenbehandlung oder Wohnungssicherung ist akut betroffen.
-4. Erstes Arbeitsprodukt liefern: Widerspruch, Klage, Eilantrag, Befundanforderung oder Vergleichsvorschlag ausformulieren.
+In der PKV [Paragraf 192 VVG](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html) mit dem tatsächlich vereinbarten Tarif verbinden. Medizinische Notwendigkeit und Erstattungsquote, Höchstbetrag, Selbstbehalt oder Ausschluss gesondert prüfen. Keine Musterbedingungen als vereinbart unterstellen. Bei GKV die konkrete Leistungsnorm, Wirtschaftlichkeit und einschlägige verbindliche Richtlinie prüfen; Bedingungen aus der PKV nicht übertragen.
 
-## 3. Kernroute
+Gleiche Ablehnungsgrund und Befund punktgenau ab: fehlende Indikation, unzureichender Wirksamkeitsnachweis, andere Versorgungsform oder bloße Kostenbegrenzung verlangen unterschiedliche Antworten. Benenne die fehlende ärztliche Aussage, statt pauschal ein neues Gutachten zu verlangen. Streitig gebliebene medizinische Fragen als solche ausweisen, nicht selbst ergänzen.
 
-1. Bescheidlage: Verwaltungsakt, Widerspruch, Klagefrist, Leistungsträger und Leistungsart erfassen.
-2. Leistungsrecht: Bedarf, Anspruchsgrundlage, Wirtschaftlichkeit, Leistungsausschluss und Zuständigkeit trennen.
-3. Medizin: Diagnose, Leitlinie, Nutzenbeleg, MD-Stellungnahme, behandelnde Ärzte und Gegengutachten ordnen.
-4. Krankenversicherung: Hilfsmittel, Arzneimittel, Orphan Drug, Off-Label-Lage, Krankenhaus- oder Vertragsarztpfad prüfen.
-5. Pflege und Teilhabe: Pflegegrad, Modulbewertung, Wohnumfeld, Barrierefreiheit und Kostenträgerabgrenzung klären.
+## 1.3. Rechnung und Zeitachse
 
-## 4. Fallkarte
+Erstelle eine Positionstabelle mit Rechnungsdatum, Leistungsdatum, Betrag, tariflich oder gesetzlich zu prüfendem Anteil, Zahlung und verbleibender Differenz. Rechenfolge für Quote, Obergrenze und Selbstbehalt aus der konkreten Regel ableiten; nicht frei wählen. Mehrere Erstattungsstellen nicht doppelt auf denselben Aufwand anrechnen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | SGB I Paragraf 38 und Paragraf 40; SGB X Paragraf 20; SGB X Paragraf 24 |
-| Rechtsprechung | BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 |
-| Tatbestand | Verwaltungsakt, Widerspruch, Klagefrist, Leistungsträger und Leistungsart erfassen |
-| Beweislast | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege |
-| Rechtsfolge | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Bei selbst beschaffter Leistung Antrag, Ablehnung, Beschaffung und Zahlung chronologisch festhalten. Keine automatische Erstattung allein aus einem Fristablauf behaupten; Tatbestand und aktuelle Rechtsprechung zum jeweiligen Leistungsweg verifizieren. Bei Krankengeld Arbeitsunfähigkeitsfeststellungen, bescheinigte Zeiträume, Beschäftigung und Versicherungsstatus taggenau abgleichen, ohne aus einer Beleglücke sofort das Anspruchsende abzuleiten.
 
-## 5. Einsatzfelder
+## 1.4. Verwertbares Ergebnis
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Bescheidlage | Verwaltungsakt, Widerspruch, Klagefrist, Leistungsträger und Leistungsart erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leistungsrecht | Bedarf, Anspruchsgrundlage, Wirtschaftlichkeit, Leistungsausschluss und Zuständigkeit trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Medizin | Diagnose, Leitlinie, Nutzenbeleg, MD-Stellungnahme, behandelnde Ärzte und Gegengutachten ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Krankenversicherung | Hilfsmittel, Arzneimittel, Orphan Drug, Off-Label-Lage, Krankenhaus- oder Vertragsarztpfad prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflege und Teilhabe | Pflegegrad, Modulbewertung, Wohnumfeld, Barrierefreiheit und Kostenträgerabgrenzung klären. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eilrechtsschutz | Anordnungsanspruch, Anordnungsgrund, Folgenabwägung und Existenzsicherung darstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Liefere zuerst den angeforderten Brief, Prüfvermerk oder Berechnungsstand. Danach nur die tragenden Gründe, offenen Befunde und den nächsten notwendigen Schritt. Ein PKV-Leistungsbrief begründet den Vertragsanspruch; ein GKV-Rechtsbehelf bezieht sich auf den bezeichneten Bescheid. Gesicherter Teilbetrag, streitiger Rest und Prozessrisiko bleiben unterscheidbar.
 
-## 6. Anker
-
-- SGB I Paragraf 38 und Paragraf 40: Rechtsanspruch und Entstehung des Anspruchs bei Vorliegen der gesetzlichen Voraussetzungen; Ermessensleistungen sind nach Paragraf 39 gesondert zu prüfen.
-- SGB X Paragraf 20: Amtsermittlung im Sozialverwaltungsverfahren.
-- SGB X Paragraf 24: Anhörung vor belastendem Verwaltungsakt.
-- SGG Paragraf 87: Klagefrist.
-- Paragraf 87 SGB IV – Aufsicht über Sozialversicherungsträger; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 88 SGB IV – Maßnahmen der Aufsichtsbehörde; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 89 SGB IV – Verpflichtungsklage gegen Aufsichtsbehörde; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 90 SGB IV – Schließung von Krankenkassen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
-- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismäßigkeitskontrolle.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich.
-7.2. Norm: SGB I Paragraf 38 und Paragraf 40; SGB X Paragraf 20 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Bescheidlage“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Der medizinischen Bewertung, dem Zugangszeitpunkt und der Mitwirkungsobliegenheit.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Bescheidlage“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Existenzminimum, Krankenbehandlung oder Wohnungssicherung ist akut betroffen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Keine eigenmächtige Kündigung, Tarifänderung, Leistungsbeschaffung, Klage oder Versendung. Aktuelle Normen und Entscheidungen amtlich prüfen; keine erfundenen Aktenzeichen oder allgemeinen Grundsicherungsurteile als Ersatz für den Versicherungsfall. Ohne Quellenzugriff nach einem begründeten Ersatzversuch den offenen Punkt nennen und den belegten Teil liefern. Vollständige Sätze; Export in Times New Roman mit 11 Punkt.

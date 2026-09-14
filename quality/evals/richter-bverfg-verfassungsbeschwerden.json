@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "richter-bverfg-verfassungsbeschwerden",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bverfgg/__93a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Annahmegründe grundsätzlicher Bedeutung und angezeigter Grundrechtsdurchsetzung sind eigenständig zu prüfen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Parteiseitige Beschwerdebegründung und generische Grundrechtsliste verfehlten die Kammerperspektive.",
+    "changes": [
+      "Annahme, Zulässigkeit und Begründetheit getrennt.",
+      "Votum statt Beschwerdeschrift als Standardprodukt bestimmt."
+    ],
+    "sha256": "384c1fa8e46ba5dec53838679f11a7fa66d9efac005890f71f1df341e62384c7"
+  },
+  "selection": {
+    "positive": [
+      "Erstellen Sie ein Kammervotum zur Annahme dieser Verfassungsbeschwerde.",
+      "Prüfen Sie aus gerichtlicher Sicht die Substantiierung anhand der Anlagen."
+    ],
+    "negative": [
+      "Verfassen Sie meine Verfassungsbeschwerde gegen das Mieturteil.",
+      "Entwerfen Sie eine abstrakte Normenkontrolle einer Landesregierung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "fachfehler-ohne-grundrechtsbezug",
+      "request": "Erstellen Sie ergebnis.md als internen Kammervermerk. Die fristgerecht eingegangene Verfassungsbeschwerde richtet sich gegen ein letztinstanzliches Zivilurteil über 4.000 Euro. Rechtsweg und sonstige Formvoraussetzungen sind für den Auftrag als erfüllt zu behandeln. Beschwerdeschrift und Urteil liegen inhaltlich vollständig vor: Das Urteil würdigt zwei widersprüchliche Zeugen und begründet, weshalb es Zeugin T folgt. Die Beschwerde lautet in der Sache ausschließlich, Zeuge S sei glaubwürdiger; genannt werden Artikel 3 und 103 GG ohne weitere Ausführung. Ein übergangener Beweisantrag, eine unterbliebene Anhörung oder eine grundsätzliche Rechtsfrage werden nicht behauptet. Prüfen Sie Darlegung und Annahme, ohne neue Tatsachen hinzuzufügen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt das Fehlen einer konkret dargelegten spezifischen Verfassungsverletzung und ersetzt dies nicht durch eigene neue Rügen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft Annahmegründe getrennt von der allgemeinen Unzufriedenheit mit der Beweiswürdigung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert einen neutralen Vermerk und keine erneute vollständige fachgerichtliche Zeugenbewertung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "01-annahme-pruefung-paragraf-93a"
+    }
+  ]
+}

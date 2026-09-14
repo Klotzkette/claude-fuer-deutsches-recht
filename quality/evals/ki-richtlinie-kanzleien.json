@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "plugin": "ki-richtlinie-kanzleien",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 4 neuer Fassung: kontextbezogene Kompetenzförderung, keine Garantie eines bestimmten individuellen Niveaus; Pflicht bleibt bestehen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ki-mig/__2.html",
+      "checked_on": "2026-09-14",
+      "supports": "Zuständigkeitsabgrenzungen statt pauschaler Alleinzuständigkeit der Bundesnetzagentur."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 33 mit 72-Stunden-Bezug weiterhin Grundlage der bestehenden Vorfallregel."
+    },
+    {
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29",
+      "checked_on": "2026-09-14",
+      "supports": "Offenes Gesetzgebungsverfahren, keine bereits geltende Datenschutzreform."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die fachlichen Regeln zur Kompetenzförderung waren gut. Das Eingangsrouting auf Mandatsannahme passte nicht zum Richtlinienauftrag.",
+    "changes": [
+      "Einstieg unmittelbar an Richtlinienfassung und betroffener Tätigkeit ausgerichtet.",
+      "Konkrete Übungsaufgabe und zulässige Übungsdaten ergänzt.",
+      "Strengere interne Standards von gesetzlichen Anforderungen getrennt."
+    ],
+    "sha256": "d8ba62d7515d4a3049a70b6758d1602e7eba7fb39ef8f75c150387df5ecfdd68"
+  },
+  "selection": {
+    "positive": [
+      "Überarbeite den Kompetenzabschnitt unserer Kanzleirichtlinie für Recherche und Assistenz.",
+      "Formuliere eine operative Regel zur Prüfung generierter Fundstellen vor Versand."
+    ],
+    "negative": [
+      "Klassifiziere ein industrielles Sicherheitsbauteil abschließend nach Produktrecht.",
+      "Erstelle die gesetzliche Fachanwaltsfortbildungsbescheinigung für einen allgemeinen Softwarekurs."
+    ]
+  },
+  "cases": [
+    {
+      "id": "einweisung-statt-zertifikatspflicht",
+      "request": "Überarbeite in ergebnis.md nur den Kompetenzabschnitt einer Kanzleirichtlinie zum Stand 14. September 2026. Der bestehende Absatz verlangt angeblich kraft Artikel 4 jährlich acht Stunden zertifizierten Unterricht und garantiert für sämtliche Beschäftigten dasselbe Kompetenzniveau. Tatsächlich verwenden vier Assistenzkräfte ein freigegebenes Werkzeug nur für Anlagenzuordnung; drei Anwälte nutzen es für Rechercheentwürfe. Alle haben bereits eine dokumentierte Einführung erhalten. Ein beobachteter Fehler betraf eine erfundene Fundstelle im Rechercheentwurf. Die Kanzleileitung hat keinen strengeren internen Stundenstandard beschlossen. Entwirf einen passenden Ersatz mit einer konkreten Übung und kurzer Änderungsbegründung, ohne die übrige Richtlinie neu zu schreiben.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Ersatzregel entfernt die unbelegte gesetzliche Achtstunden- und Zertifikatspflicht sowie die individuelle Niveaugarantie, ohne Kompetenzförderung insgesamt zu streichen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Maßnahmen unterscheiden Assistenz und Recherche, berücksichtigen die vorhandene Einführung und adressieren den konkreten Fundstellenfehler mit einer überprüfbaren Übung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Ausgabe bleibt beim angeforderten Abschnitt und behauptet weder beschlossene Einführung noch automatische Fachanwaltsfortbildungsanerkennung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "ki-kompetenz-erwerb-plan"
+    }
+  ]
+}

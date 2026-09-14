@@ -10,7 +10,7 @@ import zipfile
 from pathlib import Path
 
 
-PROMPT_SUFFIXES = ("-werkstatt.md", "-schnellstart.md")
+PROMPT_SUFFIXES = ("-werkstatt.md", "-schnellstart.md", "-hauptproblem.md")
 
 
 def fail(message: str) -> None:
@@ -38,7 +38,8 @@ def assert_skill_markdown_complete(path: Path, plugin_dir: Path, plugin_name: st
     """Stellt sicher, dass SKILL.md und unterstützende Markdown-Dateien enthalten sind."""
     expected = {
         f"{plugin_name}/{source.relative_to(plugin_dir).as_posix()}"
-        for source in (plugin_dir / "skills").rglob("*.md")
+        for root in (plugin_dir / "skills", plugin_dir / "references")
+        for source in root.rglob("*.md")
         if source.is_file()
     }
     expected.add(f"{plugin_name}/README.md")
@@ -66,7 +67,7 @@ def main() -> None:
         name = plugin["name"]
         source = str(plugin.get("source") or f"./{name}").removeprefix("./")
         plugin_dir = repo_root / source
-        for suffix in PROMPT_SUFFIXES:
+        for suffix in ("-werkstatt.md", "-schnellstart.md"):
             prompt = plugin_dir / f"{name}{suffix}"
             if not prompt.is_file():
                 fail(f"Direkter Markdown-Download fehlt: {prompt}")

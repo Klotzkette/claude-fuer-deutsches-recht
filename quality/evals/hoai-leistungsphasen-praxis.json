@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "hoai-leistungsphasen-praxis",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/hoai_2013/__8.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Suchauszug mit Absätzen 1 bis 3 gelesen: übertragene Phasen und Grundleistungsanteile; Direktabruf hatte Zeitüberschreitung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Vertragsdatum und Leistungsbilder waren sinnvoll; pauschale Beweislast für Mängel und fehlender Stufenabrufabgleich waren zu undifferenziert.",
+    "changes": [
+      "Beweislastprüfung an Anspruch und Abnahmestand gebunden.",
+      "Abruf, Option, Leistung und Honorar getrennt.",
+      "Nicht überprüfte pauschale Rechtsprechungsanker durch fallbezogene Rechercheanweisung ersetzt."
+    ],
+    "sha256": "e8867257becbf24a1e8cf541d411abe4bbd01e5b67a60e4e366f46747e36c725"
+  },
+  "selection": {
+    "positive": [
+      "Gleiche abgerufene Planungsstufen mit der Architektenrechnung ab.",
+      "Ordne fehlende Grundleistungen und Nachtragsforderungen nach Planständen."
+    ],
+    "negative": [
+      "Prüfe ausschließlich den Werklohn des Rohbauunternehmers nach VOB/B.",
+      "Berechne die Grunderwerbsteuer für den Grundstückskauf."
+    ]
+  },
+  "cases": [
+    {
+      "id": "nicht-abgerufene-planungsstufe",
+      "request": "Ein Architektenvertrag vom Februar 2025 sieht Stufe 1 mit Leistungsphasen 1 bis 3 für pauschal 24.000 Euro netto vor; Stufe 2 mit Phasen 4 und 5 kostet 28.000 Euro netto und bedarf laut wirksamer Vertragsklausel eines ausdrücklichen schriftlichen Abrufs. Stufe 1 ist unstreitig vollständig erbracht, abgenommen und mit 15.000 Euro netto angezahlt. Stufe 2 wurde weder abgerufen noch bearbeitet. Die Rechnung verlangt 52.000 Euro netto abzüglich 15.000 Euro und begründet die Einbeziehung der Stufe 2 allein mit ihrer Erwähnung im Vertrag. Es geht nicht um Kündigungsvergütung. Erstelle ergebnis.md als Rechnungsabgleich und Antwortentwurf.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet die bloße Vertragsoption von einem tatsächlichen Abruf und akzeptiert Stufe 2 nicht als erbrachte, beauftragte Leistung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Berechnet 9.000 Euro netto verbleibend für Stufe 1 und eine Differenz von 28.000 Euro gegenüber dem verlangten Nettosaldo von 37.000 Euro.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bleibt bei vereinbarten Pauschalen und dem vorgegebenen Abnahmestand, statt fehlende Kostenparameter oder eine Kündigung zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "stufenbeauftragung"
+    }
+  ]
+}

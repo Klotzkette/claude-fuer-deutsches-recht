@@ -1,10 +1,10 @@
-# Juristische Presseberichterstattung — Schnellstart
+# 1. Juristische Presseberichterstattung: Schnellstart
 
 Wenn du das hier öffnest, willst du aus Gerichts- oder Behördenmaterial eine veröffentlichungsfähige, faire und rechtlich belastbare Meldung mit sauberem Quellen- und Statusnachweis erstellen.
 
 Kernauftrag: Plugin für juristische Presseberichterstattung: Gerichtsbericht, Entscheidungsnews, Verdachtsbericht, Pressemitteilung, Headline, Bildprüfung, Quellenmatrix und Redaktionsschluss-Qualitygate. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Sofortstart nach Eingangslage
+## 1.1. Sofortstart nach Eingangslage
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
 - Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
@@ -15,14 +15,14 @@ Ohne verwertbares Material höchstens eine gebündelte Frage zu Entscheidungsmel
 
 Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-## 2. Fachlicher Direktstart
+## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Aussage ist Tatsachenbehauptung, Verdacht, Werturteil oder wörtliches Zitat.
 2. Kernprüfung in einem Durchgang: Welche belastbaren Beweistatsachen tragen jede identifizierende oder rufbeeinträchtigende Aussage; Wurde der Betroffene konkret, rechtzeitig und dokumentiert mit den tragenden Punkten konfrontiert.
 3. Belege und Engpass zusammenführen: Redaktion für Beweistatsachen, Recherche, Stellungnahmeanfrage und Statussprache; Betroffener für konkrete Unwahrheit, Beeinträchtigung und beanspruchte Abhilfe; besonders kritisch ist: Eine identifizierende Verdachtsmeldung soll ohne Mindestbestand an Beweistatsachen oder dokumentierte Stellungnahmeanfrage erscheinen.
 4. Erstes Arbeitsprodukt liefern: Quellenmatrix: Aussage, Aussagetyp, Aktenfund, Gegenposition, Stellungnahme, Identifizierungsrisiko, Freigabestatus und Formulierung.
 
-## 3. Kernroute
+## 1.3. Kernroute
 
 1. Redaktionsauftrag: Medium, Zielgruppe, Format, Länge, Redaktionsschluss, Veröffentlichungsort und gewünschte Aussage bestimmen.
 2. Quellenmatrix: jede Tatsachenbehauptung, ihren Aktenfund, Quellenstatus, Gegenquelle und offene Lücke zeilenweise sichern.
@@ -30,7 +30,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 4. Schutzprüfung: Stellungnahme, Identifizierbarkeit, Unschuldsvermutung, Privat- oder Sozialsphäre, Bildrecht und Prangerwirkung abwägen.
 5. Arbeitsprodukt: Meldung, Sitzungsbericht, Pressemitteilung, Headline-Set, Fragenkatalog, Quellenmatrix oder Nachtrag veröffentlichungsfertig ausgeben.
 
-## 4. Fallkarte
+## 1.4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
@@ -38,7 +38,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Rechtsprechung | BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25; BGH, Urteil vom 16.11.2021 - VI ZR 1241/20 |
 
 
-## 5. Einsatzfelder
+## 1.5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Verdachtsberichterstattung | Beweistatsachen, Stellungnahmeanfrage, Statussprache, öffentliches Interesse und Identifizierbarkeit vor Veröffentlichung abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Gerichts- und Sitzungsbericht | Anträge, Beweisaufnahme, Zitate, vorläufige Einschätzungen und nächsten Termin ohne Schuldvorwegnahme einordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 6. Anker
+## 1.6. Anker
 
 - GG Artikel 5 Absatz 1 und Absatz 2: Meinungs- und Pressefreiheit sowie ihre Schranken.
 - GG Artikel 1 Absatz 1 und Artikel 2 Absatz 1: Schutz des allgemeinen Persönlichkeitsrechts.
@@ -55,16 +55,16 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 - BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
 - BGH, Urteil vom 16.11.2021 - VI ZR 1241/20: Identifizierende Verdachtsberichterstattung verlangt Mindestbestand an Beweistatsachen, offene Statussprache, öffentliches Interesse und regelmäßig Gelegenheit zur Stellungnahme.
 
-## 7. Antwortform
+## 1.7. Antwortform
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Ausgabestufe: veröffentlichungsfähige Meldung, Quellenmatrix, Stellungnahmeanfrage, Headline-Set, Redaktionsfreigabe oder Nachtrag.
-7.2. Vorgabe: GG Artikel 5 Absatz 1 und Absatz 2; GG Artikel 1 Absatz 1 und Artikel 2 Absatz 1 auf Datei, Fassung und Ausgabeziel beziehen.
-7.3. Dateifund: Für „Entscheidungsmeldung“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Redaktion für Beweistatsachen, Recherche, Stellungnahmeanfrage und Statussprache; Betroffener für konkrete Unwahrheit, Beeinträchtigung und beanspruchte Abhilfe. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche belastbaren Beweistatsachen tragen jede identifizierende oder rufbeeinträchtigende Aussage.
-7.6. Erwiderung: Korrekturbeleg, Formatregel oder Freigabevorgabe nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Quellenmatrix“. Frist, Kernlücke und nächster Freigabe- oder Ausgabestufe benennen.
+1.7.1. Ergebnis: Rolle und Ziel benennen; erste Ausgabestufe: veröffentlichungsfähige Meldung, Quellenmatrix, Stellungnahmeanfrage, Headline-Set, Redaktionsfreigabe oder Nachtrag.
+1.7.2. Vorgabe: GG Artikel 5 Absatz 1 und Absatz 2; GG Artikel 1 Absatz 1 und Artikel 2 Absatz 1 auf Datei, Fassung und Ausgabeziel beziehen.
+1.7.3. Dateifund: Für „Entscheidungsmeldung“ Tatsache, Datum und Fundstelle nennen.
+1.7.4. Beweis: Redaktion für Beweistatsachen, Recherche, Stellungnahmeanfrage und Statussprache; Betroffener für konkrete Unwahrheit, Beeinträchtigung und beanspruchte Abhilfe. Offene Folgen aussprechen.
+1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche belastbaren Beweistatsachen tragen jede identifizierende oder rufbeeinträchtigende Aussage.
+1.7.6. Erwiderung: Korrekturbeleg, Formatregel oder Freigabevorgabe nennen und Restrisiko abstufen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Quellenmatrix“. Frist, Kernlücke und nächster Freigabe- oder Ausgabestufe benennen.
 
-## 8. Stop
+## 1.8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Eine identifizierende Verdachtsmeldung soll ohne Mindestbestand an Beweistatsachen oder dokumentierte Stellungnahmeanfrage erscheinen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Eine unbelegte identifizierende Verdachtsmeldung nicht freigeben; stattdessen konkrete Nachfragen und eine begrenzte Fassung liefern. Bei Entscheidungsmeldungen Tenor, Instanz, Verfahrensart und Rechtskraft getrennt erfassen. Eine Pressemitteilung ersetzt nicht die ungelesenen Entscheidungsgründe. Eine Zurückverweisung ist kein endgültiger Prozesserfolg in der Sache. Headline und Vorspann dürfen keine höhere Gewissheit behaupten als der Text. Kennzeichne fiktive Übungsfälle ausdrücklich und erfinde keine realen Aktenzeichen. Prüfe tragende Quellen amtlich; keine eigenständige Veröffentlichung oder Kontaktaufnahme. Der Prompt funktioniert ohne weitere Dateien; die Werkstatt ist optional. Ergebnisse in vollständigen Sätzen, Export in Times New Roman mit 11 Punkt.

@@ -1,6 +1,6 @@
 # Anlagen zu Schriftsätzen: Schnellstart zur beA-Versandmappe
 
-Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Prozessroute und Antrag und Streitgegenstand routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Lies Nutzersachverhalt, Schriftsatz und vorhandene Anlagen zuerst. Führe den konkreten Produktionsauftrag aus; ohne solchen beginne mit der Zuordnung der Belege. Frage nur nach blockierenden Lücken. Bei großen Ordnern Teilstand und ungelesene Dateien nennen. Geänderte Fassungen neu prüfen. Ohne Export Text liefern, keinen Dateilink erfinden. Ungeprüfte Dateien nicht freigeben.
 
 ## 1. Auftrag
 
@@ -52,41 +52,27 @@ Gerichtshinweis geht vor. Fehlt er, nutze das strenge Profil: ASCII, Unterstrich
 - Hauptdokument: `00_20260710_Replik.pdf`
 - Anlage: `01_20260710_AnlageK1_Kaufvertrag.pdf`
 
-Berlin empfiehlt `00` für das Hauptdokument, Anlagen ab `01`, Datum, Kurzinhalt, keine Umlaute und maximal 60 Zeichen. NRW empfiehlt die Rolle nur am Hauptdokument, etwa `K_Schriftsatz_mit_Antraegen.pdf`, und neutrale Anlagen wie `Anlage_01.pdf`. Die ERVB 2025 erlaubt bundesweit bis zu 90 Zeichen und auch Umlaute; ASCII mit 60 Zeichen ist deshalb ein strenger Kanzleistandard, kein gesetzliches Verbot.
+Das 60-Zeichen-Profil ist eine interne Konvention, kein gesetzliches Verbot längerer Dateinamen oder von Umlauten. Prüfe vor Freigabe die aktuelle ERVB und konkrete gerichtliche Hinweise. Die [amtlichen Hinweise zum elektronischen Rechtsverkehr](https://www.berlin.de/gerichte/arbeitsgericht/service/elektronischer-rechtsverkehr-erv/was-ist-bei-den-elektronischen-dokumenten-zu-beachten/) erläutern die ERVB 2025 mit maximal 90 Zeichen einschließlich Dateiendung.
 
 Eine Versandnachricht betrifft genau ein Verfahren. Füge Hauptdokument und Anlagen als einzelne PDFs bei, niemals als ZIP; verwende keinen Kennwortschutz und kontrolliere die erzeugten Strukturdaten.
 
 ### 3.7. Technisch prüfen
 
-Prüfe Öffnung ohne Kennwort, Seitenzahl, Lesbarkeit, OCR, eingebettete Dateien, aktive Inhalte, Dateinamenlänge, Hashwert, Einzelgröße und Gesamtgröße. Nach ERVB 2025 höchstens 1000 Dateien und insgesamt 200 MB je Nachricht. Große Pakete in bezeichnete Teile aufteilen, aber nie eine mehrseitige Anlage zerlegen.
+Prüfe Öffnung ohne Kennwort, Seitenzahl, Lesbarkeit, OCR, eingebettete Dateien, aktive Inhalte, Dateinamenlänge, Hashwert, Einzelgröße und Gesamtgröße. Nach ERVB 2025 höchstens 1000 Dateien und insgesamt 200 MB je Nachricht; die oben verlinkten amtlichen Hinweise bestätigen diese Grenzen. Große Pakete in bezeichnete Nachrichten aufteilen. Eine mehrseitige Anlage möglichst zusammenhalten; überschreitet sie allein die Grenze, einen gesonderten Übermittlungsplan nach aktueller ERVV prüfen, statt technische Versandfähigkeit zu behaupten.
 
 ## 4. Formanker
 
 ### 4.1. Signaturweg
 
-Das Hauptdokument braucht entweder eine qualifizierte elektronische Signatur der verantwortenden Person oder deren einfache Signatur mit persönlichem Versand über den eigenen sicheren Übermittlungsweg. Anlagen benötigen keine eigene Signatur.
-
-- BGH, Beschluss vom 7. Mai 2024, VI ZB 22/23: Bei einfacher Signatur müssen verantwortende Person und tatsächlicher Versender übereinstimmen.
-- BGH, Beschluss vom 4. September 2024, IV ZB 31/23: Das Postfach eines anderen Anwalts ersetzt diesen persönlichen sicheren Weg nicht.
-- BAG, Beschluss vom 22. Januar 2025, 7 ABR 23/23: Versand durch Mitarbeiter erfordert für das Hauptdokument die qualifizierte elektronische Signatur.
+Nach [Paragraf 130a Absatz 3 ZPO](https://www.gesetze-im-internet.de/zpo/__130a.html) benötigt das elektronische Hauptdokument eine qualifizierte elektronische Signatur der verantwortenden Person oder deren Signatur und einen sicheren Übermittlungsweg. Die Vorschrift nimmt beigefügte Anlagen davon aus. Dokumentiere verantwortende Person, Signaturart und vorgesehene versendende Person konkret; ungeklärte Delegation sperrt die Versandfreigabe, nicht die Anlagenzuordnung.
 
 ### 4.2. Eingangskontrolle
 
-Die Frist wird erst nach positiver Kontrolle der automatisierten gerichtlichen Eingangsbestätigung erledigt.
-
-- KG, Beschluss vom 22. August 2023, 27 U 40/23: Eingang mit Speicherung auf der gerichtlichen Empfangseinrichtung.
-- OLG Brandenburg, Beschluss vom 23. August 2022, 12 U 113/22: Frist erst nach Kontrolle von `request executed` und `erfolgreich` löschen.
-- BGH, Beschluss vom 30. Januar 2024, VIII ZB 85/22: organisierte Ausgangskontrolle anhand der Eingangsbestätigung.
-- BGH, Beschluss vom 24. April 2025, III ZB 12/24: Eingangsbestätigung abrufen und innerhalb ausreichender Reaktionsreserve prüfen.
+Paragraf 130a Absatz 5 ZPO knüpft den Eingang an die Speicherung auf der gerichtlichen Empfangseinrichtung und sieht eine automatisierte Bestätigung vor. Bereite einen Kontrollauftrag für Empfänger, Verfahren, Dateien, Übermittlungsstatus und Eingangszeitpunkt vor. Ein lokal fertiges Paket belegt keinen gerichtlichen Eingang. Die Frist bleibt im internen Ablauf bis zur positiven Eingangskontrolle offen.
 
 ### 4.3. Störung
 
-ZPO Paragraf 130a Absatz 6 betrifft ein eingegangenes, aber technisch ungeeignetes Dokument. Die Ersatzeinreichung bei vorübergehender technischer Unmöglichkeit steht in ZPO Paragraf 130d Sätze 2 bis 4.
-
-- BGH, Beschluss vom 19. Dezember 2024, IX ZB 41/23: veröffentlichte zuverlässige Serverstörung kann die Glaubhaftmachung tragen.
-- BGH, Beschluss vom 25. Februar 2025, VI ZB 19/24: pauschale Störungsformel genügt nicht; technische Ursache und vorübergehende Natur geschlossen schildern.
-- OLG Brandenburg, Urteil vom 28. April 2023, 11 U 244/22: Dauer, betroffene Postfächer und Fortbestand der Störung konkret belegen; bloßer Bildschirmabzug genügt nicht.
-- LG Hagen, Urteil vom 15. Oktober 2024, 4 O 209/24: unzulässige Papiereinreichung wird nicht beliebig später durch elektronisches Nachreichen geheilt.
+ZPO Paragraf 130a Absatz 6 betrifft ein eingegangenes, aber technisch ungeeignetes Dokument. Die Ersatzeinreichung bei vorübergehender technischer Unmöglichkeit steht in [Paragraf 130d ZPO](https://www.gesetze-im-internet.de/zpo/__130d.html). Halte Fehlerzeit, betroffene Funktion, Fehlermeldung und Versuche fest. Keine Ersatzübermittlung allein aus einem unspezifischen Fehlerhinweis freigeben. Fallbezogene Rechtsprechung nur nach amtlicher Verifikation hinzunehmen.
 
 ## 5. Stop-Ampel
 
@@ -107,3 +93,5 @@ intern/
 ```
 
 Der interne Ordner wird nicht mitgesendet. Beende mit Stop-Liste oder ausformuliertem Freigabevermerk, gewähltem Signaturweg und genauer Eingangskontrolle.
+
+Optional vertieft [Schriftsatz-Anlagen-Mapping](skills/schriftsatz-anlagen-mapping/SKILL.md) die Zuordnung; ohne diese Datei genügt die Arbeitsfolge oben. Vermerke in vollständigen Sätzen mit dezimaler Gliederung und Leerzeilen ausgeben; Times New Roman 11 pt verwenden oder als Exporthinweis nennen. Tabellen dürfen für lesbare Spalten abweichen.

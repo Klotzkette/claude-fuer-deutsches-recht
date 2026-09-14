@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-verkehrsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__249.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlichen Normauszug zu erforderlichem Herstellungsbetrag und tatsächlich angefallener Umsatzsteuer geprüft."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2024-1&Gericht=bgh&file=dokument.pdf&linked=urt&nr=136422",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Urteil vom 16.01.2024, Az. VI ZR 253/22: amtlich indexierter Leitsatz zu unbezahlter Rechnung, Zahlung an Werkstatt und Zug-um-Zug-Abtretung geprüft. Direkter PDF-Abruf scheiterte; keine Volltextprüfung behauptet."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Alttext enthielt mehrfach reiserechtliche Beweislast für Verspätung und außergewöhnliche Umstände. Für Reparaturkürzungen fehlte die zentrale Unterscheidung zwischen Anspruchssaldo, Werklohnsaldo und Zahlungsempfänger.",
+    "changes": [
+      "Fachfremde Reiserechtsformulierungen entfernt.",
+      "Unfallhaftpflicht, Kasko, Bußgeld, Straf- und Fahrerlaubnisverfahren getrennt.",
+      "Zahlungskonten und Werkstattrisiko ergänzt; Fristdruck in Sicherungsentwurf statt Abbruch umgesetzt."
+    ],
+    "sha256": "f933abb15ee69d2ec910af29e157f81339087ea3ac5d58e6d23a6e610c35f4de"
+  },
+  "selection": {
+    "positive": [
+      "Die Haftpflichtversicherung kürzt die offene Reparaturrechnung. Prüfen Sie die Restpositionen und an wen Zahlung verlangt werden muss.",
+      "Ordnen Sie Gutachten, Werkstattrechnung, Abtretung und Teilzahlungen zu einer konkreten Regulierungsantwort."
+    ],
+    "negative": [
+      "Berechnen Sie den fiktiven Totalschaden ohne Reparatur anhand von Wiederbeschaffungs- und Restwert.",
+      "Prüfen Sie, ob meine Kaskoversicherung wegen Verlassens des Unfallorts kürzen darf."
+    ],
+    "target_skill": "werkstattrechnung-kuerzung-zahlungswege"
+  },
+  "cases": [
+    {
+      "id": "offene-diagnose-verbringung-direktzahlung",
+      "request": "Unsere Mandantin ist private Eigentümerin eines Pkw ohne Vorsteuerabzug. Die gegnerische Haftpflichtversicherung hat volle Unfallhaftung anerkannt. Reparaturauftrag und Gutachten einer unabhängigen Fachwerkstatt lagen vor; erkennbare Unwirtschaftlichkeit oder Auswahlverschulden sind nicht ersichtlich. Die Reparatur wurde abgeschlossen. Die Rechnung beträgt 6000 EUR netto zuzüglich 1140 EUR Umsatzsteuer, zusammen 7140 EUR. Darin enthalten sind Verbringung 500 EUR netto und Diagnose 500 EUR netto, jeweils mit 95 EUR Umsatzsteuer. Der Versicherer zahlte 5950 EUR unmittelbar an die Werkstatt und kürzt die genannten beiden Positionen vollständig: die Verbringung sei tatsächlich nicht erfolgt, die Diagnosezeit sei überhöht. Die Mandantin kann die internen Werkstattvorgänge nicht beurteilen und hat nichts selbst bezahlt. Es gibt keine Forderungsabtretung und keine sonstigen Zahlungen. Die Werkstatt verlangt den Rest. Die Mandantin möchte sich hinsichtlich dieser Kürzungen auf das Werkstattrisiko berufen und bietet die Abtretung etwaiger diesbezüglicher Ansprüche gegen die Werkstatt an. Prüfen Sie die beiden Salden und entwerfen Sie ein richtig adressiertes Zahlungsbegehren an den Versicherer; keine weiteren Schadenspositionen oder Zinsen bearbeiten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Beide gekürzten Positionen werden mit je 595 EUR brutto und insgesamt 1190 EUR offenem Betrag ausgewiesen; die Direktzahlung von 5950 EUR wird in beiden passenden Konten, aber nicht doppelt innerhalb eines Saldos berücksichtigt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bei Berufung auf das Werkstattrisiko wird für die unbezahlten Kosten Zahlung an die Werkstatt und eine passende Zug-um-Zug-Abtretung angeboten, nicht voraussetzungslos Zahlung an die Mandantin.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Bericht trennt die beiden Kürzungsvorwürfe und die Voraussetzungen des Werkstattrisikos, ohne die tatsächliche Durchführung der internen Vorgänge als bewiesen zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Der Entwurf behauptet weder eine schon erklärte Abtretung noch eine Versandhandlung und mischt keine fiktive Schadensabrechnung in den konkreten Reparaturfall.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "werkstattrechnung-kuerzung-zahlungswege"
+    }
+  ]
+}

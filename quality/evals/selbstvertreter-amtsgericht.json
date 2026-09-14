@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "selbstvertreter-amtsgericht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__276.html",
+      "checked_on": "2026-09-14",
+      "supports": "Schriftliches Vorverfahren: zweiwöchige Notfrist für die Verteidigungsanzeige und gesonderte Klageerwiderungsfrist."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Ein Selbstvertreter benötigt fristbezogene Parteischritte statt richterlicher Bearbeitungslogik oder automatischer Versäumnisannahmen.",
+    "changes": [
+      "Verteidigungsanzeige und inhaltliche Erwiderung getrennt.",
+      "Zustellung und gerichtliche Verfügung als Fristgrundlage hervorgehoben.",
+      "Konkreten Entwurf ohne behauptete Einreichung vorgesehen."
+    ],
+    "sha256": "398c7699cc3f099b0a3ec30a521492a32297e619da4123d0441632509dc35862"
+  },
+  "selection": {
+    "positive": [
+      "Mir wurde eine Klage beim Amtsgericht zugestellt; erstellen Sie Verteidigungsanzeige und erste Erwiderung.",
+      "Ich vertrete mich selbst gegen eine Kaufpreisforderung und möchte meine Zahlungsbelege geordnet vortragen."
+    ],
+    "negative": [
+      "Entwerfen Sie für die Richterin ein Urteil im vereinfachten Verfahren.",
+      "Vertreten Sie mich vor dem Landgericht in einem Anwaltsprozess ohne Anwalt."
+    ]
+  },
+  "cases": [
+    {
+      "id": "anzeige-vor-erwiderungsfrist",
+      "request": "Heute ist der 14. September 2026. Mir wurde am 1. September in Deutschland eine Amtsgerichtsklage über 400 Euro Kaufpreis zugestellt. Das Gericht hat schriftliches Vorverfahren angeordnet; die Verfügung nennt den 15. September für die Verteidigungsanzeige und den 29. September für die Klageerwiderung. Ich habe noch nichts eingereicht. Den Kauf und den Preis bestreite ich nicht. Ich habe aber am 20. August 400 Euro unter Angabe der Rechnungsnummer an die Verkäuferin überwiesen; der Kontoauszug liegt mir vor. Erstellen Sie ergebnis.md mit einem sofort nutzbaren Entwurf und einem getrennten Plan für die weitere Erwiderung. Versenden Sie nichts.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die fristnahe Verteidigungsanzeige bis 15. September wird von der inhaltlichen Erwiderung bis 29. September unterschieden; es wird nicht zum Abwarten bis 29. September geraten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Entwurf bestreitet den Anspruch wegen behaupteter Zahlung, ohne den zugestandenen Kauf oder Preis künstlich zu bestreiten, und ordnet den Kontoauszug als Zahlungsbeleg ein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Ausgabe enthält einen verwendbaren Parteientwurf und erklärt dessen noch erforderliche Einreichung, behauptet aber weder erfolgten Versand noch ein bereits ergangenes Versäumnisurteil.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "klageerwiderung-fristen-274-zpo"
+    }
+  ]
+}

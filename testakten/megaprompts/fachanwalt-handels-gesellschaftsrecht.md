@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 81 Skills des Plugins `fachanwalt-handels-gesellschaftsrecht`.
+Diese Vollprüfung enthält top-10 von 82 Skills des Plugins `fachanwalt-handels-gesellschaftsrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -12,10 +12,10 @@ Diese Vollprüfung enthält top-10 von 81 Skills des Plugins `fachanwalt-handels
 4. **fachanwalt-handels-gesellschaftsrecht-orientierung** — Für Orientierung Handels- und Gesellschaftsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit R…
 5. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
 6. **erstpruefung-und-mandatsziel** — Für Erstprüfung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsm…
-7. **hgb-informationsrecht-kommanditist-paragraf-166** — Prüft Informations-, Auskunfts- und Einsichtsrechte des Kommanditisten nach dem seit 2024 geltenden Paragraf 166 HGB, or…
-8. **fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings** — Für M&A Due Diligence Findings: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem…
-9. **kapitalerhaltung-paragraf-30-gmbhg-pruefen** — Prüft Auszahlungen und gleichwertige Vermögensverschiebungen an GmbH-Gesellschafter nach den Kapitalerhaltungsregeln, be…
-10. **beschlussmaengel-personengesellschaft-pruefen** — Prüft Beschlussmängel bei GbR, OHG und KG rechtsform- und übergangsrechtlich, trennt Nichtigkeit von Anfechtbarkeit, bes…
+7. **gmbh-einziehung-abfindung-finanzierbarkeit** — Prüft bei der Einziehung eines GmbH-Anteils Abfindung, freies Vermögen und Zahlungsfähigkeit zu getrennten Stichtagen. V…
+8. **hgb-informationsrecht-kommanditist-paragraf-166** — Prüft Informations-, Auskunfts- und Einsichtsrechte des Kommanditisten nach dem seit 2024 geltenden Paragraf 166 HGB, or…
+9. **fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings** — Für M&A Due Diligence Findings: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+10. **kapitalerhaltung-paragraf-30-gmbhg-pruefen** — Prüft Auszahlungen und gleichwertige Vermögensverschiebungen an GmbH-Gesellschafter nach den Kapitalerhaltungsregeln, be…
 
 ---
 
@@ -518,6 +518,60 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `gmbh-einziehung-abfindung-finanzierbarkeit`
+
+_Prüft bei der Einziehung eines GmbH-Anteils Abfindung, freies Vermögen und Zahlungsfähigkeit zu getrennten Stichtagen. Verknüpft Satzung, Bewertungsunterlagen und Finanzierungsnachweise zu einer Entscheidungsvorlage; nicht für allgemeine Beschlussmängel oder einen isolierten Unternehmenswert._
+
+# 1. Zweck und Anwendungsfall
+
+Bereite eine geplante oder angegriffene Einziehung vor, deren Abfindung die Gesellschaft finanziell belastet. Der Schwerpunkt verbindet Anteilsbewertung, Kapitalerhaltung, Liquidität und Beschlusswirksamkeit. Er ergänzt die allgemeine Gesellschafterstreit- und Kapitalerhaltungsprüfung um eine konkrete Finanzierbarkeitsbrücke; er ersetzt kein Unternehmenswertgutachten.
+
+## 2. Eingaben
+
+Lies zuerst Satzung in der beim Anteilserwerb geltenden und der aktuellen Fassung, Erwerbsdatum, Gesellschafterliste, Beschluss oder Entwurf, Bewertungsabrede, Stichtagszahlen und Zahlungsplan. Kläre Mandantenrolle, Einziehungsgrund, Zustimmung, Stimmrechte, Bekanntgabe, laufendes Verfahren und gewünschte Alternative. Erfasse Buchwerte, Schulden, Rückstellungen, bisher ungebuchte Verluste, liquide Mittel, gesicherte Kreditlinien und Finanzierungszusagen. Eine gebündelte Rückfrage genügt; fehlende Zahlen als offene Position behandeln, nicht mit Null ersetzen.
+
+## 3. Ablauf und Checkliste
+
+### 3.1. Rechtsakt und Zeitachsen
+
+Trenne Einziehung, Ausschluss, Abtretung und Kapitalherabsetzung. Prüfe Satzungsermächtigung und bei Einziehung ohne Zustimmung die zeitliche Voraussetzung des Paragrafen 34 Absatz 2 GmbHG. Beschluss-, Bewertungs-, Bekanntgabe- und Zahlungsstichtag in getrennten Spalten führen. Mehrheit, Stimmverbot, Vertretung und Beschlussangriff gesondert prüfen; eine offene Anfechtungsfrist nicht durch Bewertungsarbeit verstreichen lassen.
+
+### 3.2. Abfindungsrechnung
+
+Wende nur die konkret vereinbarte und auf Wirksamkeit geprüfte Bewertungsregel an. Leite Unternehmenswert, Beteiligungsquote, Zu- und Abschläge, Zinsen und Fälligkeiten belegbezogen her. Nennbetrag ist nicht automatisch Abfindungswert. Bei streitiger Klausel zeige deren Rechenfolge und eine begründete Alternativbewertung, ohne fiktive Markt-Multiplikatoren einzusetzen.
+
+### 3.3. Kapitalerhaltungsbrücke
+
+Ermittle zu fortgeführten handelsrechtlichen Buchwerten das Reinvermögen vor Abfindung: Aktiva minus Schulden und Rückstellungen. Freier Betrag ist das Reinvermögen abzüglich Stammkapital; eine negative Differenz als Unterbilanz ausweisen. Verhindere Doppelzählung einer schon passivierten Abfindungsverbindlichkeit durch eine offen erläuterte Überleitungsrechnung. Nicht realisierte stille Reserven nicht einfach addieren. Prüfe den gesamten Abfindungsanspruch, nicht nur die erste Rate. Stelle fest, ob schon bei Beschlussfassung feststeht, dass die Zahlung nicht aus freiem Vermögen möglich ist; dann Nichtigkeitsrisiko nach dem Anker ausdrücklich behandeln.
+
+### 3.4. Liquidität und Handlungsvarianten
+
+Erstelle daneben einen Zahlungsplan mit freien Zahlungsmitteln und fälligen übrigen Verpflichtungen. Ein Kredit kann Liquidität schaffen, erhöht wegen der Gegenverbindlichkeit aber nicht automatisch das freie Reinvermögen. Eine Zuschusszusage nur nach Rechtsverbindlichkeit, Bonität und bilanzieller Ansatzfähigkeit berücksichtigen; Hoffnung auf Gewinne genügt nicht. Rechne Finanzierungslücke und Mindestbedarf je Stichtag. Prüfe eine tatsächlich finanzierte Anteilsübernahme durch Mitgesellschafter als eigenständige Alternative mit Form- und Zustimmungsfragen; keinen Käufer erfinden.
+
+### 3.5. Haftung und Abschluss
+
+Unterscheide anfängliche Beschlussnichtigkeit, spätere Auszahlungssperre und mögliche persönliche Haftung verbleibender Gesellschafter. Letztere folgt nicht automatisch aus der bloßen Nichtzahlung; treuwidrige Fortsetzung und Insolvenzlage gesondert prüfen. Liefere ein Votum mit bedingten Varianten und Beleganforderungen nach einem Summencheck. Keine Einziehung erklären, Liste ändern, Zahlung auslösen oder Beurkundung veranlassen.
+
+## 4. Quellenpflicht
+
+Prüfe aktuelle und stichtagsbezogene Normfassungen; beachte [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-handels-gesellschaftsrecht/references/zitierweise.md), sofern verfügbar. Keine ungeprüften Literatur- oder Randnummernangaben.
+
+- [Paragraf 34 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__34.html) und [Paragraf 30 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__30.html): Satzungsgrundlage und Kapitalerhaltung.
+- [BGH, Urteil vom 26.06.2018, Az. II ZR 65/16](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=86101), amtlicher Leitsatz: unzureichendes freies Vermögen bei Beschlussfassung; stille Reserven beseitigen das Hindernis nicht.
+- [BGH, Urteil vom 10.05.2016, Az. II ZR 342/14](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=74863), amtliche Leitsätze: persönliche Haftung erst bei treuwidriger Fortsetzung, nicht schon aufgrund Einziehungsbeschluss oder späterer Zahlungssperre.
+
+Am 14.09.2026 amtliche Leitsätze im Suchauszug geprüft; unmittelbare Volltextabrufe gesperrt. Für weitergehende Aussagen Volltext nachbeschaffen, keine umfassende Rechtsprechungsprüfung behaupten.
+
+## 5. Ausgabeformat
+
+Liefere `ergebnis.md`: Sachverhalt, Stichtagsmatrix, Abfindungsrechnung, Buchwertbrücke, Liquiditätsplan, Rechtsfolgen je Variante und ausformulierte Gremienempfehlung mit Freigabebedingungen. Vollständige Sätze statt Skeletten; Tabellen nur als nachvollziehbare Rechnungs- und Beleganlage. Dezimale Gliederung und Times New Roman 11 pt; bei Markdown diesen Exporthinweis aufnehmen.
+
+## 6. Beispiele
+
+Passend: Vor einem Einziehungsbeschluss sollen Abfindung und stille Grundstücksreserven gegen die Stichtagsbilanz geprüft werden. Ebenfalls passend: Nach wirksamer Einziehung ist die letzte Rate blockiert und die Fortsetzung der Gesellschaft zu beurteilen. Nicht passend sind eine reine Unternehmensbewertung für einen Verkauf oder eine Handelsvertreterprovision.
+
+---
+
 ## Skill: `hgb-informationsrecht-kommanditist-paragraf-166`
 
 _Prüft Informations-, Auskunfts- und Einsichtsrechte des Kommanditisten nach dem seit 2024 geltenden Paragraf 166 HGB, ordnet Altgesellschaften und Vertragsklauseln ein und erstellt ein bestimmtes Informationsverlangen samt Erforderlichkeits- und Geheimnisschutzmatrix._
@@ -842,44 +896,6 @@ Prüfe jede Vermögensverschiebung zum Gesellschafter aus Sicht der Gesellschaft
 ## 5. Arbeitsergebnis
 
 Liefere Stichtagsbilanz, Empfänger- und Haftungsmatrix, Rückforderungsbetrag sowie einen Beschluss- oder Anspruchsentwurf.
-
----
-
-## Skill: `beschlussmaengel-personengesellschaft-pruefen`
-
-_Prüft Beschlussmängel bei GbR, OHG und KG rechtsform- und übergangsrechtlich, trennt Nichtigkeit von Anfechtbarkeit, bestimmt Klagegegner und Frist und entwickelt eine prozessfähige Angriffs- oder Verteidigungsstrategie._
-
-# Beschlussmängel in Personengesellschaften prüfen
-
-## 1. Einsatz und Ziel
-
-Bestimme zuerst Rechtsform, Beschlussdatum und Vertragsregime. Seit dem 01.01.2024 enthält das HGB für OHG und KG ein gesetzliches Beschlussmängelrecht; auf die GbR darf es nicht ohne Vertrags- oder Analogievoraussetzungen übertragen werden.
-
-## 2. Normenanker
-
-- Paragrafen 109 bis 115 HGB: Beschlussfassung, Nichtigkeits- und Anfechtungsklage bei OHG und über Paragraf 161 Absatz 2 HGB bei KG.
-- Gesellschaftsvertrag: Mehrheiten, Ladung, Zuständigkeit, abweichendes Beschlussmängelregime und Fristverlängerung.
-- Paragrafen 705 bis 739 BGB: GbR-Recht; Beschlussmängel nach Vertragsauslegung und allgemeinen Grundsätzen prüfen.
-- Paragrafen 256 und 167 ZPO: Feststellung und Klagezustellung.
-
-## 3. Prüfprogramm
-
-1. Beschlussdatum vor oder nach dem 01.01.2024 und anwendbares Übergangsrecht klären.
-2. Rechtsform, Klagegegner, Vertretung der Gesellschaft und zuständiges Gericht bestimmen.
-3. Einberufung, Tagesordnung, Teilnahme, Stimmverbote, Mehrheit und Protokoll prüfen.
-4. Materielle Kompetenz, Treuepflicht, Gleichbehandlung und Kernbereichsschutz untersuchen.
-5. Nichtigkeitsgründe von bloßer Anfechtbarkeit trennen und die grundsätzlich dreimonatige HGB-Anfechtungsfrist samt vertraglicher Verlängerung berechnen.
-6. Einstweiligen Rechtsschutz und Vollzugsfolgen des angegriffenen Beschlusses planen.
-
-## 4. Beweismerker
-
-- Einladung, Zugangsnachweise, Gesellschaftsvertrag, Vollmachten, Abstimmung und Protokoll sichern.
-- Bei der GbR keine aktienrechtliche Monatsfrist behaupten.
-- Für Altbeschlüsse das vor dem MoPeG geltende Vertrags- und Rechtsprechungsmodell gesondert ausweisen.
-
-## 5. Arbeitsergebnis
-
-Erstelle Fristenblatt, Mängelmatrix, Antragssatz und wahlweise Klageentwurf oder Verteidigung mit Vollzugsstrategie.
 
 ---
 

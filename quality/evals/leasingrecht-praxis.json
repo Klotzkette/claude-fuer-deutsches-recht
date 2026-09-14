@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "plugin": "leasingrecht-praxis",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__538.html",
+      "checked_on": "2026-09-14",
+      "supports": "Vertragsgemäßer Gebrauch gegenüber zu vertretender Verschlechterung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__506.html",
+      "checked_on": "2026-09-14",
+      "supports": "Erwerbspflicht, Andienungsrecht und Werteinstandspflicht als Voraussetzungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__103.html",
+      "checked_on": "2026-09-14",
+      "supports": "Wahlrecht bei beiderseits nicht vollständig erfüllten Verträgen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Schnellstarter behandelte Leasing wie einen beliebigen Lizenzvertrag. Der gelesene Flottenskill enthält Schadensarbeit, aber pauschale Beweis- und Verjährungsfolgen.",
+    "changes": [
+      "Kilometer-, Restwert- und Schadenabrechnung getrennt.",
+      "Objektbezogene Belege und doppelte Schadensberechnung behandelt.",
+      "Insolvenzprüfung an Erfüllungsstand und Gegenstand gebunden."
+    ],
+    "sha256": "bd4ff17e2a51849def890fe980105cce0ad76a366ef27853c773421c6fd9c0ef"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie die Minderwertabrechnung unserer zurückgegebenen Leasingflotte.",
+      "Ordnen Sie Mängelrechte gegen den Maschinenlieferanten und offene Leasingraten."
+    ],
+    "negative": [
+      "Regulieren Sie ausschließlich den Haftpflichtschaden eines gekauften Autos.",
+      "Prüfen Sie die Schlussrate eines gewöhnlichen Autokredits ohne Leasingvertrag."
+    ]
+  },
+  "cases": [
+    {
+      "id": "doppelte-stossfaengerposition",
+      "request": "Prüfen Sie in ergebnis.md die Schlussabrechnung eines gewerblichen Kilometerleasingvertrags und formulieren Sie eine Antwort. Vereinbart sind 60000 km, Mehrkilometer zu 0.10 EUR, keine Freigrenze, keine Restwertgarantie. Rückgabe bei 64000 km. Berechnet werden 400 EUR Mehrkilometer, 2500 EUR Marktwertverlust wegen gesunkener Gebrauchtwagenpreise sowie 900 EUR Reparaturkosten und 700 EUR Minderwert für denselben Kratzer am Stoßfänger. Das Rückgabeprotokoll nennt den Kratzer; das Gutachten erklärt nicht, ob der Minderwert nach Reparatur verbleibt. Fotos zeigen den Kratzer ohne Maßstab. Der Leasingnehmer bestreitet die Mehrkilometer nicht. Sonstige Schadensbewertungsklauseln fehlen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Mehrkilometer werden mit 400 EUR nachvollzogen und von streitigen Positionen getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Marktwertforderung wird mangels Restwertgarantie hinterfragt, ohne Kilometerleasing mit einer Werteinstandspflicht gleichzusetzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Reparaturkosten und Minderwert werden nicht ungeprüft addiert; das Schreiben verlangt eine Erklärung des verbleibenden Nachteils und belegte Bewertung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "flottenleasing-schaden-minderwert-und-gutachten"
+    }
+  ]
+}

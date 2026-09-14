@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "schoeffen-handelsrichter-praxis",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__105.html",
+      "checked_on": "2026-09-14",
+      "supports": "Besetzung der Kammer für Handelssachen und gleiches Stimmrecht ihrer Mitglieder."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Straf- und Zivilbeweis wurden im alten Rollenraster nicht hinreichend getrennt.",
+    "changes": [
+      "Handelsrichter und Schöffen mit eigenem Verfahrensbezug bearbeitet.",
+      "Private Kenntnis, Neutralitätsmitteilung und Beratungsgeheimnis konkretisiert."
+    ],
+    "sha256": "7d6125d25dec46d66d93cec2822415eff436a355ad1880a13415b15c84ae1a65"
+  },
+  "selection": {
+    "positive": [
+      "Bereiten Sie mich als Handelsrichter auf die Vertragsbeweisfragen vor.",
+      "Formulieren Sie neutrale Verständnisfragen für meinen Schöffentermin."
+    ],
+    "negative": [
+      "Vertreten Sie mich als Beklagten in der Handelssache.",
+      "Sagen Sie mir anhand geheimer Beratungsnotizen, wie ich abstimmen soll."
+    ]
+  },
+  "cases": [
+    {
+      "id": "handelsrichter-private-branchenkenntnis",
+      "request": "Erstellen Sie ergebnis.md als anonymisierte Vorbereitung für einen Handelsrichter. In der Kammer für Handelssachen streiten zwei Firmen über die Lieferung von 600 Bauteilen. Lieferschein und Rechnung sind vorgelegt, die Käuferin bestreitet die vollständige Lieferung. Der Handelsrichter kennt den Vertriebsleiter der Verkäuferin aus einem privaten Verein; dieser erzählte ihm außerhalb des Gerichts, alle Teile seien geliefert worden. Der Richter möchte wissen, ob er dies still in seine Bewertung einfließen lassen kann und welche sachlichen Fragen im Termin hilfreich wären. Es liegen keine Beratungsinhalte vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Behandelt die private Erzählung nicht als bereits prozessordnungsgemäß eingeführten Lieferbeweis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bereitet eine sachliche Offenlegung der persönlichen Beziehung gegenüber dem Vorsitz vor, ohne selbst Befangenheit verbindlich festzustellen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert konkrete neutrale Fragen zu Menge, Empfang und Lieferschein statt einer Schuld- oder Abstimmungsempfehlung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "kaltstart-routing"
+    }
+  ]
+}

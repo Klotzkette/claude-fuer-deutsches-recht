@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "plugin": "deutsche-rechtsgeschichte",
+  "reviewed_on": "2026-09-14",
+  "sources": [],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die historische Methode war bereits brauchbar, aber ein abgeschnittener Quellenanker und die pauschale Epochenliste störten die konkrete Textkritik. Neue Aussagen betreffen Methode, nicht historische Rechtsgeltung.",
+    "changes": [
+      "OCR, Edition und Entstehungsdatum getrennt.",
+      "Sachfremde Epochenroutine entfernt und Quellenlücken produktiv behandelt."
+    ],
+    "sha256": "25b0715caba5c6d8fddd1e306737ae3164c19d2cdc2933d65e6cba3392b90428"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die Überlieferung einer historischen Gerichtsakte.",
+      "Erstelle eine kritische Synopse einer Norm und ihrer späteren Edition."
+    ],
+    "negative": [
+      "Berechne die heutige Einspruchsfrist eines Steuerbescheids.",
+      "Entwirf einen aktuellen Grundstückskaufvertrag ohne historische Fragestellung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "edition-ocr-und-praxisbehauptung",
+      "request": "Für ein Seminar soll ergebnis.md die Belastbarkeit folgender Materialien bewerten. Eine gedruckte Edition von 1920 bezeichnet einen Text als Abschrift einer Ratsordnung von 1780; das Original gilt laut Editionsvorwort als verschollen. Die OCR liest: Bürger dürfen ohne Erlaubnis handeln. Im mitgelieferten, hier textlich beschriebenen Scan ist vor ohne ein beschädigtes Wort sichtbar, das der Editor mit eckigen Klammern als nicht ergänzt. Eine Seminararbeit folgert daraus, in der Stadt habe 1780 jeder ohne Beschränkung Handel getrieben. Gerichtsakten oder Vollzugsberichte liegen nicht vor. Erstelle eine Quellenkarte und eine vorsichtige Ersatzformulierung; recherchiere keine fiktive Stadtgeschichte.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Edition von 1920 wird nicht als Original von 1780 bezeichnet; die Überlieferung über Abschrift und Edition bleibt erkennbar.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die unsichere Negation wird nicht still gestrichen oder als zweifelsfreier historischer Wortlaut ausgegeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Aussage über unbeschränkte tatsächliche Handelspraxis wird mangels Vollzugsquellen nicht aus dem Normfragment abgeleitet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "quellenkritik-archiv-und-edition"
+    }
+  ]
+}

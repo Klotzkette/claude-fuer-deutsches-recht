@@ -19,8 +19,6 @@ NOISE_BITS = (
     "openJur",
     "openjur",
     "keine Modellwissen-Zitate",
-    "live prüfen",
-    "live pruefen",
 )
 
 PROSE_ASCII_BITS = (
@@ -190,13 +188,14 @@ def main() -> int:
                             f"{rel}: Rechtsprechungstabelle kürzt den Aussagekern zu {head}"
                         )
                         break
+        prose = re.sub(r"https?://[^\s<>]+", "", text)
         for bit in NOISE_BITS:
-            if bit in text:
+            if bit in prose:
                 rel = path.relative_to(REPO)
                 problems.append(f"{rel}: Quellenrauschen gefunden: {bit}")
                 break
         for bit in PROSE_ASCII_BITS:
-            if bit in text:
+            if bit in prose:
                 rel = path.relative_to(REPO)
                 problems.append(f"{rel}: unechter Umlaut in Prosa gefunden: {bit}")
                 break
@@ -205,7 +204,7 @@ def main() -> int:
             # wird deshalb die vollständige Fundstelle einschließlich der
             # optionalen Einfassung entfernt.
             without_code = re.sub(
-                r"`[^`]*`|\[?https?://[^\s\]]+\]?",
+                r"`[^`]*`|!?\[[^\]]*\]\(https?://[^\s]+\)|\[?https?://[^\s\])]+\]?",
                 "",
                 line,
             )

@@ -1,78 +1,25 @@
-# Rentenprüfer — Schnellstart
+# 1. Rentenverlauf und Bescheid nachvollziehbar prüfen
 
-Wenn du das hier öffnest, willst du Rentenanspruch, Rentenbeginn, Rentenhöhe oder Rentenbescheid belastbar nachrechnen.
+Beginne mit Nutzerziel, Versicherungsverlauf, Bescheid und vorhandenen Nachweisen. Unterscheide Kontenklärung, Anspruchsvoraussetzungen, Rentenbeginn, Höhe und Rechtsbehelf. Eine Renteninformation ist nicht schon ein bewilligender Bescheid. Erfasse den betroffenen Träger und die konkrete Rentenart; gesetzliche Rente, Betriebsrente und Versorgungswerk nicht nach denselben Regeln berechnen. Frage nur nach Angaben, ohne die der aktuelle Prüfschritt blockiert ist.
 
-Kernauftrag: Rentenprüfer für Arbeitnehmer: DRV-Kontenklärung, Alters- und Erwerbsminderungsrente, Betriebsrente, private Renten, Versorgungswerk-Schnittstellen, Bescheid, Widerspruch und Klage. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Monate statt bloßer Beschäftigungsjahre
 
-## 1. Sofortstart nach Eingangslage
+Baue aus den Unterlagen eine monatsbezogene Übersicht mit Beginn, Ende, Zeitart, Nachweis und Anerkennungsstand. Arbeitgeberbescheinigung, Rentenverlauf und Nutzererinnerung getrennt kennzeichnen. Überlappende Beschäftigungsnachweise nicht als zusätzliche Kalendermonate zählen. Ein Wechsel innerhalb desselben Monats erzeugt keinen zweiten Monat; die mögliche Bewertung mehrerer Beitragsentgelte ist davon eine andere Frage.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Rentenauftrag, Versicherungsverlauf, Anspruch und Höhe wählen; ohne konkreten Auftrag mit Rentenauftrag beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+SGB VI Paragraf 51 unterscheidet die anrechenbaren Zeiten nach Wartezeit. Für die allgemeine Wartezeit sind insbesondere Kalendermonate mit Beitragszeiten maßgeblich; für 35 Jahre alle rentenrechtlichen Zeiten, für 45 Jahre gelten eigene Voraussetzungen und Ausschlüsse. Nicht jeden im Verlauf gedruckten Zeitraum ungeprüft allen Wartezeiten zurechnen. Fehlende und bereits anerkannte Monate getrennt summieren und den Zuwachs durch Nachweise sichtbar machen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Rentenauftrag, Versicherungsverlauf, Anspruch und Höhe und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Anspruch, Beginn und Betrag
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Prüfe anhand Rentenart und Geburtsdatum die einschlägige Altersgrenze beziehungsweise die sonstigen Anspruchsvoraussetzungen, einschließlich möglicher Übergangsregelungen. Eine erfüllte Wartezeit beweist nicht allein einen sofortigen Rentenbeginn. Bei Erwerbsminderung berufliche Diagnose, funktionales Leistungsvermögen, zeitlichen Umfang und versicherungsrechtliche Voraussetzungen auseinanderhalten; medizinische Lücken nicht selbst diagnostisch schließen.
 
-## 2. Fachlicher Direktstart
+Bei Rentenhöhe persönliche Entgeltpunkte, Zugangsfaktor, Rentenartfaktor und maßgeblichen Rentenwert anhand der Bescheidanlagen nachrechnen. Einen Abschlag nicht nochmals abziehen, wenn er bereits im verwendeten Faktor enthalten ist. Aktuelle Werte und Hinzuverdienstregeln vor Verwendung amtlich prüfen. Bruttorente, Kranken- und Pflegeversicherungsabzug sowie steuerliche Nettobetrachtung getrennt ausweisen; unbekannte Abzüge nicht pauschal schätzen und als Bescheidfehler ausgeben.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Rentenart und welcher Stichtag entscheiden den Fall.
-2. Kernprüfung in einem Durchgang: Welche Monate tragen Wartezeit oder Entgeltpunkte und welche Monate sind nur behauptet; Welche Berechnung hängt an Einkommen, Zulagen, Abschlägen oder Beiträgen zur Kranken- und Pflegeversicherung.
-3. Belege und Engpass zusammenführen: Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen; besonders kritisch ist: Bescheidzugang, Rentenbeginn oder Widerspruchsfrist ist unklar.
-4. Erstes Arbeitsprodukt liefern: Rechtsweg: Bescheidfehler, Widerspruch, Klage, Beweisnot, Auskunftsantrag und Nachzahlungsstrategie ausformulieren.
+## 1.3. Konkreten Fehler verfolgen
 
-## 3. Kernroute
+Ordne jedem beanstandeten Zeitraum den Bescheidbefund, abweichenden Nachweis und beantragte Korrektur zu. Bei Nachweislücken gezielt Arbeitgeberarchiv, andere Trägerunterlagen oder vorhandene Abrechnungen benennen. Eine Kontenklärungsanfrage ersetzt nicht automatisch einen fristgebundenen Rechtsbehelf gegen einen Bescheid. Zugang, Belehrung und verfahrensrechtliche Route gesondert prüfen. Für eine abgeschlossene Entscheidung einen möglichen Überprüfungsweg nicht mit laufendem Widerspruch verwechseln.
 
-1. Rentenauftrag: Rentenart, Rentenbeginn, Zielmonat, Bescheidstand, Frist und gewünschtes Arbeitsprodukt bestimmen.
-2. Versicherungsverlauf: Monate, Lücken, Kindererziehung, Pflege, Arbeitslosigkeit, Minijob, Ausland und Nachversicherung tabellarisch klären.
-3. Anspruch und Höhe: Wartezeit, Entgeltpunkte, Abschläge, Zuschläge, Hinzuverdienst, Kranken- und Pflegeversicherung getrennt rechnen.
-4. Hinterbliebene und Familie: Ehezeit, Sterbevierteljahr, große oder kleine Witwenrente, Waisenrente und Einkommensanrechnung prüfen.
-5. Private und betriebliche Ebene: Riester, Basisrente, Direktversicherung, VBL, Unterstützungskasse und Kapitalwahlrechte in die Nettobetrachtung einbauen.
+Bei ausländischen Zeiten Staat, Träger und Zeitraum feststellen; Zusammenrechnung für den Anspruch nicht mit deutscher Bewertung aller ausländischen Entgelte gleichsetzen. Private und betriebliche Versorgungen anhand ihrer eigenen Vertrags- oder Satzungsgrundlage bearbeiten, statt sie in die gesetzliche Rentenformel einzusetzen.
 
-## 4. Fallkarte
+## 1.4. Ergebnis und Nachforderung
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | SGB VI Paragraf 35; SGB VI Paragraf 36 und Paragraf 38; SGB VI Paragraf 43 |
-| Rechtsprechung | BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R; BSG, Urteil vom 21.03.2018 - B 13 R 19/14 R |
-| Tatbestand | Rentenart, Rentenbeginn, Zielmonat, Bescheidstand, Frist und gewünschtes Arbeitsprodukt bestimmen |
-| Beweislast | Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen |
-| Rechtsfolge | Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Rentenauftrag | Rentenart, Rentenbeginn, Zielmonat, Bescheidstand, Frist und gewünschtes Arbeitsprodukt bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Versicherungsverlauf | Monate, Lücken, Kindererziehung, Pflege, Arbeitslosigkeit, Minijob, Ausland und Nachversicherung tabellarisch klären. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruch und Höhe | Wartezeit, Entgeltpunkte, Abschläge, Zuschläge, Hinzuverdienst, Kranken- und Pflegeversicherung getrennt rechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Hinterbliebene und Familie | Ehezeit, Sterbevierteljahr, große oder kleine Witwenrente, Waisenrente und Einkommensanrechnung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Private und betriebliche Ebene | Riester, Basisrente, Direktversicherung, VBL, Unterstützungskasse und Kapitalwahlrechte in die Nettobetrachtung einbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsweg | Bescheidfehler, Widerspruch, Klage, Beweisnot, Auskunftsantrag und Nachzahlungsstrategie ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- SGB VI Paragraf 35: Regelaltersrente nach Erreichen der Regelaltersgrenze und Wartezeit.
-- SGB VI Paragraf 36 und Paragraf 38: Altersrenten für langjährig und besonders langjährig Versicherte.
-- SGB VI Paragraf 43: Erwerbsminderungsrente nach Leistungsvermögen und Wartezeit.
-- SGB VI Paragraf 46: Witwen- und Witwerrente mit kleiner und großer Rente.
-- Paragraf 35 SGB VI — Regelaltersrente; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 36 SGB VI — Altersrente für langjährig Versicherte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43 SGB VI — Erwerbsminderungsrente; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R: Mehrere gewöhnliche Leistungseinschränkungen können durch besondere Additions- und Verstärkungswirkung ernsthafte Zweifel an der Einsetzbarkeit auf dem allgemeinen Arbeitsmarkt begründen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage.
-7.2. Norm: SGB VI Paragraf 35; SGB VI Paragraf 36 und Paragraf 38 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Rentenauftrag“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Monate tragen Wartezeit oder Entgeltpunkte und welche Monate sind nur behauptet.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Rentenauftrag“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Bescheidzugang, Rentenbeginn oder Widerspruchsfrist ist unklar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere den angeforderten Berechnungsvermerk, Kontenklärungsantrag oder Widerspruch vollständig ausformuliert. Stelle nachvollziehbar dar, welche Korrektur bereits belegt ist und welche Anerkennung noch aussteht. Quellen mit maßgeblicher Fassung und Normstelle prüfen; keine pauschalen medizinischen Entscheidungsanker. Fehlenden Zugriff konkret nennen und aus vorhandenem Material weiterarbeiten. Export: Times New Roman 11 pt, dezimale Gliederung. Weitere Skills und Referenzen sind optional; Monatsabgleich und Prüfweg sind hier eigenständig enthalten.

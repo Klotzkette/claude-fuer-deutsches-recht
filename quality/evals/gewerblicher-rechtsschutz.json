@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "gewerblicher-rechtsschutz",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/__24.html",
+      "checked_on": "2026-09-14",
+      "supports": "Territorialer Bezug der Erschöpfung und berechtigte Gründe gegen weiteren Vertrieb."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die schutzrechtsbezogene Werkstattfolge ist brauchbar; das Mini ließ die Erschöpfung abstrakt und enthielt abgebrochene Vollziehungsanker.",
+    "changes": [
+      "Originalware, Erstvertrieb und EU-/EWR-Zustimmung getrennt.",
+      "Unvollständige Verfahrenszitate entfernt.",
+      "Schutzgegenstandsvergleich nicht zwischen Marke und Patent austauschbar gemacht."
+    ],
+    "sha256": "1ead7682c24c69a623373873aa29b8ce27c115fdda6f544dd454e0427e8fd32b"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die Erschöpfung für zwei Chargen originaler Markenware.",
+      "Ordne einen Konflikt nach Marke, technischem Schutzrecht und konkreter Verletzungshandlung."
+    ],
+    "negative": [
+      "Bewerte nur eine ärztliche Analogabrechnung.",
+      "Entwirf einen landwirtschaftlichen Pachtvertrag ohne Schutzrechtsbezug."
+    ]
+  },
+  "cases": [
+    {
+      "id": "originalware-zwei-erstvertriebsgebiete",
+      "request": "Erstelle ergebnis.md als Verkaufsrisikovermerk nach deutschem Markenrecht. Ein Händler möchte zwei unveränderte Originalchargen desselben Markenprodukts in Deutschland verkaufen. Charge A wurde nach belegter Zustimmung des Markeninhabers erstmals in Frankreich verkauft. Charge B wurde vom Markeninhaber erstmals in China verkauft; eine Zustimmung zum Inverkehrbringen im EU-/EWR-Raum ist ausdrücklich nicht erteilt. Beide Chargen sind echt, unverändert und ordnungsgemäß gelagert. Andere Schutzrechte und besondere Widerspruchsgründe stehen nicht im Raum. Beurteile beide Chargen getrennt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Charge A wird aufgrund des autorisierten französischen Erstvertriebs unter der Erschöpfungsregel beurteilt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Charge B erhält nicht allein wegen Echtheit und Erstverkauf durch den Inhaber eine EU-/EWR-Erschöpfungsfreigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Empfehlung bleibt chargenbezogen und verwechselt die Erschöpfungsfrage nicht mit Fälschung oder pauschaler internationaler Erschöpfung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "mandat-triage-gewerblicher-rechtsschutz"
+    }
+  ]
+}

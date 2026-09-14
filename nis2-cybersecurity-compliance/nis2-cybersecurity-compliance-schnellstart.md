@@ -1,75 +1,21 @@
-# NIS-2, Cybersecurity und IT-Sicherheits-Compliance — Schnellstart
+# 1. Einrichtung und Sicherheitsvorfall einordnen
 
-Wenn du das hier öffnest, willst du Cybersicherheits-, NIS2-, DORA- oder Incident-Pflichten sofort nach Einrichtung, Frist, Nachweis und Aufsicht ordnen.
+Arbeite zuerst aus Nutzersachverhalt, Incident-Ticket, Logs, Dienstleistungsbeschreibung und vorhandener Einstufung. Trenne Rechtsträger, Dienst, Sektor, Größe und Konzernbezug. Eine Zertifizierung beweist weder die gesetzliche Betroffenheit noch die tatsächliche Umsetzung aller Pflichten. Bei offenem Scope die betroffenen Merkmale am aktuellen BSIG prüfen; keine alte KRITIS-Einstufung ungeprüft übernehmen.
 
-Kernauftrag: NIS-2, BSIG 2025, BSI, IT-Grundschutz, Cloud, Incident Response und technische Security-Compliance für Geschäftsleitung, CISO und Legal. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Kenntnis und Fristen sichern
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Beginn, erste technische Auffälligkeit, Kenntnis des erheblichen Vorfalls und Wiederherstellung als verschiedene Zeitpunkte mit Zeitzone und Beleg. Prüfe Auswirkung auf Dienste, Dauer, betroffene Nutzer und mögliche Folgewirkungen. Fehlende Angreiferidentität hindert eine fristgebundene Erstmeldung nicht; bestätigte Tatsachen von Verdacht und unbekannten Daten trennen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Einrichtung und Scope, Risikomanagement, Incident wählen; ohne konkreten Auftrag mit Einrichtung und Scope beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+[Paragraf 32 BSIG](https://www.gesetze-im-internet.de/bsig_2025/__32.html) sieht für erfasste erhebliche Vorfälle eine unverzügliche frühe Erstmeldung spätestens binnen 24 Stunden und die Folgemeldung spätestens binnen 72 Stunden ab Kenntnis vor. Die Abschlussmeldung knüpft grundsätzlich an die Übermittlung der 72-Stunden-Meldung an, nicht an den Angriffsbeginn. Laufende Vorfälle und behördlich angeforderte Zwischenmeldungen gesondert behandeln. Meldeweg und sektorspezifische Besonderheiten aktuell prüfen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Einrichtung und Scope, Risikomanagement, Incident und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Meldung und Abhilfe parallel
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Erstelle einen Meldeentwurf mit Dienst, Vorfallsablauf, Auswirkungen, Verdachtslage, bereits ergriffenen Maßnahmen und Kontaktstelle. Bezeichne offene Felder ausdrücklich. Keine Datenexfiltration allein aus einer Verschlüsselung folgern. Logstände, Sicherungszeit und Belegverantwortliche festhalten; keine zerstörende Bereinigung als Voraussetzung der Bewertung durchführen.
 
-## 2. Fachlicher Direktstart
+Ordne Maßnahmen nach Eindämmung, Wiederherstellung und nachhaltiger Behebung. Je Maßnahme Verantwortlichen, Termin und Wirksamkeitsnachweis nennen. Ein Backup-Konzept ersetzt keinen belegten Wiederherstellungstest. Lieferantenabhängigkeiten und Kommunikationsfreigaben konkretisieren. Datenschutz-, DORA-, Kunden- und Versicherermeldungen separat auf Anwendbarkeit, Empfänger und Auslöser prüfen; eine Meldung ersetzt die anderen nicht automatisch.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Einrichtung und welcher Rechtsrahmen sind betroffen.
-2. Kernprüfung in einem Durchgang: Welche Maßnahme ist organisatorisch, technisch oder vertraglich geschuldet; Welche Frist läuft für Meldung, Kundeninformation oder Aufsicht.
-3. Belege und Engpass zusammenführen: Einrichtung für Risikomanagement, Nachweise und Meldung; Behörde für Anordnung, Frist, Zuständigkeit und Bußgeldtatbestand; besonders kritisch ist: Incident-Frist oder Aufsichtsmeldung kann laufen.
-4. Erstes Arbeitsprodukt liefern: Incident-Meldung, Maßnahmenplan, Vorstandsvorlage, Nachweisordner oder Bußgeldverteidigung erstellen.
+## 1.3. Ergebnis und Nachweis
 
-## 3. Kernroute
+Liefere verlangten Meldetext, Maßnahmenplan oder Leitungsbericht. Eine laufende Frist verlangt priorisierte Bearbeitung, keinen bloßen Stop-Vermerk. Nur blockierende Lücken rückfragen; mit dem gesicherten Teil weiterarbeiten. Ein vorbereiteter Entwurf ist keine tatsächlich abgegebene Meldung. Quellen und Datenstand angeben, alte Paragrafenketten nicht fortschreiben.
 
-1. Einrichtung und Scope: Sektor, Schwellen, Gruppe, Dienstleister, Finanzsektor, Kritikalität und Anwendbarkeit bestimmen.
-2. Risikomanagement: Assets, Rollen, TOMs, Backup, Zugriffsrechte, Lieferkette, Schulung und Geschäftsleitungsbeschluss prüfen.
-3. Incident: Zeitpunkt, Klassifizierung, Meldeschwelle, Belege, Forensik, Kommunikation und Fristen sichern.
-4. Aufsicht und Nachweis: BSI, BaFin, Kunde, Versicherer, Vertragspartner und interne Governance trennen.
-5. Arbeitsprodukt: Incident-Meldung, Maßnahmenplan, Vorstandsvorlage, Nachweisordner oder Bußgeldverteidigung erstellen.
-
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BSIG Paragraf 8a; BSIG Paragraf 8b; DORA Artikel 5 und Artikel 6 |
-| Rechtsprechung | BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07; EuGH, Urteil vom 16.07.2020 - C-311/18 |
-| Tatbestand | Sektor, Schwellen, Gruppe, Dienstleister, Finanzsektor, Kritikalität und Anwendbarkeit bestimmen |
-| Beweislast | Einrichtung für Risikomanagement, Nachweise und Meldung; Behörde für Anordnung, Frist, Zuständigkeit und Bußgeldtatbestand |
-| Rechtsfolge | Risikomanagementplan, Incident-Meldung, Nachweisordner, Maßnahmenplan, Lieferkettenauflage oder Bußgeldverteidigung |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Einrichtung und Scope | Sektor, Schwellen, Gruppe, Dienstleister, Finanzsektor, Kritikalität und Anwendbarkeit bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikomanagement | Assets, Rollen, TOMs, Backup, Zugriffsrechte, Lieferkette, Schulung und Geschäftsleitungsbeschluss prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Incident | Zeitpunkt, Klassifizierung, Meldeschwelle, Belege, Forensik, Kommunikation und Fristen sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufsicht und Nachweis | BSI, BaFin, Kunde, Versicherer, Vertragspartner und interne Governance trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Incident-Meldung, Maßnahmenplan, Vorstandsvorlage, Nachweisordner oder Bußgeldverteidigung erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BSIG Paragraf 8a: Sicherheitsanforderungen an kritische Infrastrukturen.
-- BSIG Paragraf 8b: zentrale Meldestelle und Meldungen an das Bundesamt.
-- DORA Artikel 5 und Artikel 6: Governance und IKT-Risikomanagement im Finanzsektor.
-- DORA Artikel 17 bis Artikel 19: Behandlung und Meldung schwerwiegender IKT-Vorfälle.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07: Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
-- EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt belastbare Prüfung von Datentransfers und Schutzniveau.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Risikomanagementplan, Incident-Meldung, Nachweisordner, Maßnahmenplan, Lieferkettenauflage oder Bußgeldverteidigung.
-7.2. Norm: BSIG Paragraf 8a; BSIG Paragraf 8b mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Einrichtung und Scope“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Einrichtung für Risikomanagement, Nachweise und Meldung; Behörde für Anordnung, Frist, Zuständigkeit und Bußgeldtatbestand. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Maßnahme ist organisatorisch, technisch oder vertraglich geschuldet.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Einrichtung und Scope“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Incident-Frist oder Aufsichtsmeldung kann laufen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Optional unterstützt `bsi-meldestelle-formular`; ohne Skillzugriff nach diesem Mini arbeiten. Seine älteren Normverweise nicht übernehmen. Ohne Portal- oder Exportzugriff fertigen Text und Einreichungsvorbehalt liefern. Export: Times New Roman, 11 pt, dezimale Gliederung.

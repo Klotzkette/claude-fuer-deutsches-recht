@@ -1,76 +1,19 @@
-# Lobbyregister Bundestag — Schnellstart
+# 1. Lobbyregister: Kontakt, Eintrag und Änderung
 
-Wenn du das hier öffnest, willst du Registrierungspflicht, Ausnahmen, Aktualisierung, Verhaltenskodex und Sanktionsrisiko nach dem Lobbyregisterrecht sofort ordnen.
+Arbeite zuerst mit Kontaktvermerken, Auftraggeberkette, aktuellem Registerauszug und Änderungsdaten. Bestimme Ziel der Einflussnahme, Adressat und Tätigkeit. Prüfe die Registrierung anhand der alternativen Voraussetzungen des [Paragrafen 2 LobbyRG](https://www.gesetze-im-internet.de/lobbyrg/__2.html), nicht ausschließlich anhand der Kontaktzahl. Ausnahmen nach Adressat und konkreter Tätigkeit unterscheiden; anwaltliche Tätigkeit oder Verbandseigenschaft allein ersetzt diese Prüfung nicht.
 
-Kernauftrag: Lobbyregister-Bundestag-Superplugin mit 50 geführten Skills für Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstößen. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Einzutragende Änderung konkret bestimmen
 
-## 1. Sofortstart nach Eingangslage
+Ordne jede Änderung einem Datenfeld, auslösenden Ereignis, Beleg und Bearbeiter zu. Trenne neue Auftraggeber, Tätigkeitsfelder und betraute Personen von Finanzdaten des abgelaufenen Geschäftsjahres. Für Regelungsvorhaben beschreibe das konkrete Änderungsziel; ein Schlagwort wie Wirtschaftspolitik reicht als Arbeitsbeschreibung nicht aus. Prüfe bei Stellungnahmen Empfänger, Übermittlungsdatum, grundlegenden Inhalt und bereits erfolgte Veröffentlichung im Beteiligungsverfahren.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Kontakt und Adressat, Pflicht und Ausnahme, Registerinhalt wählen; ohne konkreten Auftrag mit Kontakt und Adressat beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 1.2. Drei Aktualisierungstakte
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Kontakt und Adressat, Pflicht und Ausnahme, Registerinhalt und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+[Paragraf 3 Absatz 3 LobbyRG](https://www.gesetze-im-internet.de/lobbyrg/__3.html) unterscheidet unverzügliche Änderungen, grundlegende Stellungnahmen und Gutachten spätestens bis Quartalsende sowie bestimmte geschäftsjahresbezogene Angaben spätestens sechs Monate nach Geschäftsjahresende. Bei letzterer Aktualisierung den gesamten Eintrag prüfen und seine Richtigkeit bestätigen. Nicht sämtliche Änderungen bis zur Jahresaktualisierung sammeln und unverzüglich nicht in eine pauschale Vierwochenfrist umdeuten.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Erstelle ein Fristenblatt mit konkretem Auslöser und Datum. Fehlende Finanzunterlagen nicht durch Nullwerte ersetzen; bezeichne die Beschaffungslücke und den zuständigen Bearbeiter. Gleiche Finanzangaben gegen Konten und Zeitanteile ab, nicht gegen eine frei geschätzte Gesamtsumme.
 
-## 2. Fachlicher Direktstart
+## 1.3. Arbeitsprodukt und Freigabe
 
-1. Leitfrage aus Akte und Auftrag festlegen: Wer nimmt mit welchem Ziel auf welchen politischen Entscheidungsprozess Einfluss.
-2. Kernprüfung in einem Durchgang: Welche Ausnahme ist belegbar und welche Angabe muss trotzdem dokumentiert werden; Welche Angaben sind neu, geändert oder jährlich zu bestätigen.
-3. Belege und Engpass zusammenführen: Registerpflichtiger für Ausnahme, Angaben, Aktualisierung und Dokumentation; Behörde für Tatbestand, Ermessen und Verstoß; besonders kritisch ist: Registereintrag ist vor Kontaktaufnahme möglicherweise erforderlich.
-4. Erstes Arbeitsprodukt liefern: Registermatrix, Aktualisierungstext, Fristenblatt, Vorstandsmemo oder Bußgeldverteidigung erstellen.
+Liefere feldbezogene Änderungstexte, Nachweisliste und kurze Freigabevorlage. Vor einer tatsächlichen Portalveröffentlichung müssen Inhalt und Veröffentlichung freigegeben sein; eine vorbereitete Meldung ist keine erfolgte Registrierung. Personenbezüge und maschinenlesbare Dokumentfassungen prüfen. Nur bei blockierenden Lücken rückfragen, übrige Felder fertig bearbeiten.
 
-## 3. Kernroute
-
-1. Kontakt und Adressat: Bundestag, Bundesregierung, Ministerium, Referat, Abgeordneter oder Mitarbeiterebene bestimmen.
-2. Pflicht und Ausnahme: Interessenvertretung, Schwellen, Bagatellen, Mandatsgeheimnis, Arbeitsrecht und Verbändeausnahme trennen.
-3. Registerinhalt: Mandant, Regelungsvorhaben, Finanzangaben, Zuwendungen, Auftraggeberkette und Aktualisierung prüfen.
-4. Verhalten und Nachweis: Kodex, Kontaktvermerk, Unterlagen, Freigabe, interne Verantwortlichkeit und Fristen sichern.
-5. Arbeitsprodukt: Registermatrix, Aktualisierungstext, Fristenblatt, Vorstandsmemo oder Bußgeldverteidigung erstellen.
-
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | LobbyRG Paragraf 1; LobbyRG Paragraf 2; LobbyRG Paragraf 3 |
-| Rechtsprechung | BVerfG, Urteil vom 04.07.2007 - 2 BvE 1/06 u.a |
-| Tatbestand | Bundestag, Bundesregierung, Ministerium, Referat, Abgeordneter oder Mitarbeiterebene bestimmen |
-| Beweislast | Registerpflichtiger für Ausnahme, Angaben, Aktualisierung und Dokumentation; Behörde für Tatbestand, Ermessen und Verstoß |
-| Rechtsfolge | Registrierung, Aktualisierung, Verhaltenskodex-Prüfung, Stellungnahme, Fristenblatt oder Bußgeldabwehr |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Kontakt und Adressat | Bundestag, Bundesregierung, Ministerium, Referat, Abgeordneter oder Mitarbeiterebene bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflicht und Ausnahme | Interessenvertretung, Schwellen, Bagatellen, Mandatsgeheimnis, Arbeitsrecht und Verbändeausnahme trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Registerinhalt | Mandant, Regelungsvorhaben, Finanzangaben, Zuwendungen, Auftraggeberkette und Aktualisierung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verhalten und Nachweis | Kodex, Kontaktvermerk, Unterlagen, Freigabe, interne Verantwortlichkeit und Fristen sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Registermatrix, Aktualisierungstext, Fristenblatt, Vorstandsmemo oder Bußgeldverteidigung erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- LobbyRG Paragraf 1: Zweck und Anwendungsbereich des Lobbyregisters.
-- LobbyRG Paragraf 2: Registrierungspflicht und Ausnahmen.
-- LobbyRG Paragraf 3: einzutragende Angaben.
-- LobbyRG Paragraf 4: Aktualisierung und jährliche Bestätigung.
-- Paragraf 2 Abs. 2 LobbyRG — Tätigkeitsbezogene Ausnahmen: u; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 2 Abs. 3 LobbyRG — Persönliche/strukturelle Ausnahmen: Hauptkommunal/-länderebenen, Religionsgemeinschaften des öffentlichen Rechts, politische Parteien, einzelne Bürgeranfragen, Wissenschaftsbetrieb auf Forschungsbasis; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Urteil vom 04.07.2007 - 2 BvE 1/06 u.a.: Offenlegungspflichten für Bundestagsabgeordnete zeigen den verfassungsrechtlichen Transparenzrahmen parlamentarischer Interessenlagen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Registrierung, Aktualisierung, Verhaltenskodex-Prüfung, Stellungnahme, Fristenblatt oder Bußgeldabwehr.
-7.2. Norm: LobbyRG Paragraf 1; LobbyRG Paragraf 2 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Kontakt und Adressat“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Registerpflichtiger für Ausnahme, Angaben, Aktualisierung und Dokumentation; Behörde für Tatbestand, Ermessen und Verstoß. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Ausnahme ist belegbar und welche Angabe muss trotzdem dokumentiert werden.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Kontakt und Adressat“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Registereintrag ist vor Kontaktaufnahme möglicherweise erforderlich. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Optional vertieft `geschaeftsjahresaktualisierung` die Bearbeitung; die drei Takte dieses Minis genügen auch ohne Skillzugriff. Seine abweichenden Frist- und Paragrafenangaben am amtlichen Text korrigieren, nicht übernehmen. Sanktionen nur bei konkretem Verstoß und nach aktueller amtlicher Prüfung beurteilen. Ohne Registerzugriff Entwurf liefern und Status offen benennen. Begleitvermerk beim Export: Times New Roman, 11 pt, dezimale Gliederung.

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "plugin": "corporate-kanzlei",
+  "reviewed_on": "2026-09-14",
+  "sources": [{"url":"https://www.gesetze-im-internet.de/gmbhg/__15.html","checked_on":"2026-09-14","supports":"Notarielle Form von GmbH-Anteilsabtretung und Verpflichtung zur Abtretung; Signing ist anhand der konkreten Bedingungen vom Vollzug zu trennen."}],
+  "mini_review": {"sha256":"e8ea746a357b8abc38910b1b751bf51b1d9b7b8cda536d1da4485ae828dc7b2d",
+    "verdict": "revised",
+    "reason": "Der bisherige Mini wiederholte Struktur und DD mehrfach, wählte unabhängig vom Auftrag eine Garantiekatalog-Zeile und enthielt transaktionsferne Rechtsprechung. Der abgeglichene Closing-Spezialskill behandelt den Long-Stop-Ablauf zu pauschal als automatischen Rücktritt; das eigenständige Mini verlangt stattdessen Vertragsauslegung.",
+    "changes": ["DD-Befunde mit konkreten Risikoallokationen und Vertragsfolgen verbunden.","Erfüllung und Verzicht sowie Signing, Zahlungsauftrag und Zahlungseingang getrennt.","Bedingungsnachweise, Verzichtsbefugnis und Long-Stop-Klausel zum Kern des Closing-Trackers gemacht."]
+  },
+  "selection": {
+    "positive": ["Erstelle aus unserem unterschriebenen Anteilskaufvertrag und den Freigaben den Closing-Tracker für den Erwerber.","Übersetze den DD-Befund über eine bekannte Umwelthaftung in eine konkrete Risikozuweisung für den SPA."],
+    "negative": ["Berechne die gerichtlichen Gebühren einer privaten Kaufpreisklage über ein Fahrrad.","Prüfe ausschließlich die Einladungsfrist zur ordentlichen Hauptversammlung unserer börsennotierten AG."]
+  },
+  "cases": [{
+    "id": "closing-ohne-bankzustimmung",
+    "request": "Wir beraten die Erwerberin Nord Beteiligung GmbH beim Kauf sämtlicher Anteile an der Tal Maschinen GmbH. Der SPA wurde am 3. September 2026 notariell beurkundet. Die Abtretung steht laut Ziffer 8 unter der Bedingung, dass alle CPs erfüllt oder wirksam erlassen sind und der Kaufpreis auf dem Verkäuferkonto gutgeschrieben ist. Ziffer 7 nennt die Kartellfreigabe, die schriftliche Change-of-Control-Zustimmung der Hausbank und ein vom Geschäftsführer unterzeichnetes Bring-Down-Zertifikat. Die Kartellfreigabe vom 10. September liegt vorbehaltlos vor; die Bank hat am 11. September nur den Antragseingang bestätigt. Das Zertifikat liegt als nicht unterschriebener Entwurf vor. Ziffer 7.4 erlaubt nur der Erwerberin, auf das Zertifikat durch eine von ihrer Geschäftsführerin unterzeichnete Erklärung zu verzichten; der Projektleiter sagte gestern telefonisch, es sei entbehrlich. Die Erwerberin hat heute den Kaufpreis angewiesen; ein Kontoauszug der Verkäuferin liegt nicht vor. Ziffer 12 berechtigt jede Partei ab dem Long Stop Date am 30. September zur Beendigung durch schriftliche Erklärung, sofern sie das Hindernis nicht selbst zu vertreten hat; eine Erklärung wurde nicht abgegeben. Erstelle für die Geschäftsführerin in ergebnis.md einen belegbezogenen CP-Tracker, eine Entscheidung zum geplanten Vollzug am 15. September und eine ausformulierte E-Mail an das Deal-Team mit den noch notwendigen Handlungen.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id":"C01","text":"Die Kartellfreigabe wird als erfüllt behandelt, während die Eingangsbestätigung der Bank nicht als erforderliche Zustimmung zählt; daraus wird die derzeit fehlende Vollzugsreife hergeleitet.","deliverables":["ergebnis.md"]},
+      {"id":"C02","text":"Das Zertifikat bleibt offen: Weder sein Entwurf noch der telefonische Verzicht des Projektleiters erfüllt die vertraglich benannte Nachweis- beziehungsweise Verzichtsform.","deliverables":["ergebnis.md"]},
+      {"id":"C03","text":"Das Ergebnis unterscheidet den Zahlungsauftrag vom geschuldeten Gutschriftsnachweis und behauptet nicht, die Anteile seien bereits mit notarieller Unterzeichnung übergegangen.","deliverables":["ergebnis.md"]},
+      {"id":"C04","text":"Der Fristablauf am 30. September wird als Voraussetzung eines erklärungsbedürftigen Beendigungsrechts mit Vorbehalt behandelt, nicht als bereits eingetretene oder automatisch eintretende Vertragsaufhebung.","deliverables":["ergebnis.md"]}
+    ],
+    "target_skill": "signing-closing-conditions"
+  }]
+}

@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "plugin": "richter-landgericht-zivilkammer",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=3",
+      "checked_on": "2026-09-14",
+      "supports": "BGBl. 2025 I Nr. 318: Artikel 3 Nummer 4 ersetzt die bisherige 600-Euro-Grenze durch 1.000 Euro; Artikel 4 enthält das Übergangsrecht, Artikel 21 Absatz 2 das Inkrafttreten am 1. Januar 2026. Amtliches PDF direkt abgerufen und gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__531.html",
+      "checked_on": "2026-09-14",
+      "supports": "Zulassungsgründe für neue Angriffs- und Verteidigungsmittel in der Berufung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__511.html",
+      "checked_on": "2026-09-14",
+      "supports": "Aktuelle Berufungswertgrenze: Wert des Beschwerdegegenstandes muss 1.000 Euro übersteigen; alternativ Zulassung im Urteil."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpoeg/__47.html",
+      "checked_on": "2026-09-14",
+      "supports": "Fortgeltung der bis Ende 2025 geltenden Berufungsregeln bei rechtzeitiger Verkündung, Übergabe ohne Verkündung oder Schluss der mündlichen Verhandlung beziehungsweise Schriftsatzstichtag."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__72.html",
+      "checked_on": "2026-09-14",
+      "supports": "Landgerichtliche Berufungszuständigkeit gegen amtsgerichtliche Zivilurteile einschließlich gesetzlicher Sonderzuständigkeiten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__23.html",
+      "checked_on": "2026-09-14",
+      "supports": "Wertzuständigkeit des Amtsgerichts bis einschließlich 10.000 Euro und wertunabhängige Sonderzuweisungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__71.html",
+      "checked_on": "2026-09-14",
+      "supports": "Erstinstanzliche Landgerichtszuständigkeit für nicht dem Amtsgericht zugewiesene Streitigkeiten und besondere ausschließliche Zuständigkeiten."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Amtsgerichtliches Standardraster ließ die eigenständige Berufungsprüfung vermissen.",
+    "changes": [
+      "Erstinstanz und Berufung getrennt.",
+      "Neues Vorbringen nach Zulassungsgrund statt pauschaler Präklusion behandelt."
+    ],
+    "sha256": "be7a1d86b8a02ab58e6fa2431f0a97454db086bd444f3332cfb59cef22cd46af"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie als Berufungskammer die Zulassung des neuen Zeugen.",
+      "Erstellen Sie eine große Relation mit konkretem Hinweisbedarf."
+    ],
+    "negative": [
+      "Fertigen Sie den privaten Einspruch gegen einen Strafbefehl.",
+      "Erstellen Sie eine Nichtzulassungsbeschwerde zum Bundesgerichtshof für die Partei."
+    ]
+  },
+  "cases": [
+    {
+      "id": "berufung-uebersehene-fallweiche",
+      "request": "Erstellen Sie ergebnis.md als Berufungsvotum. Die Berufung gegen ein amtsgerichtliches Kaufpreisurteil ist unstreitig zulässig. Das Amtsgericht hielt einen mündlichen Erlassvertrag aus Rechtsgründen für unerheblich und wies im Termin darauf hin, dazu seien keine Beweisantritte nötig. Der Hinweis ist protokolliert. Die Berufungskammer hält einen solchen Erlass nach vorläufiger Prüfung für rechtlich möglich. Der Beklagte benennt erstmals in der Berufungsbegründung Zeugin Z für das Gespräch; die Erlassbehauptung selbst war bereits in erster Instanz konkret vorgetragen und bestritten. Der Kläger verlangt Zurückweisung allein wegen verspäteten Beweisangebots.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet die bereits vorgetragene Erlassbehauptung vom neuen Beweisangebot.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft den dokumentierten erstinstanzlichen Unerheblichkeitshinweis als konkreten Zulassungsgrund nach Paragraf 531 Absatz 2 ZPO.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Stellt den Erlass nicht schon wegen Benennung der Zeugin fest, sondern leitet passenden Beweis- oder Hinweisbedarf ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "07-berufungsverfahren-paragraf-511-ff"
+    },
+    {
+      "id": "berufung-genau-tausend-und-zulassung",
+      "request": "Erstellen Sie ergebnis.md als vergleichenden Zulässigkeitsvermerk für drei voneinander unabhängige amtsgerichtliche Kaufpreisurteile. Alle mündlichen Verhandlungen wurden am 1. Juli 2026 geschlossen und alle Urteile am 15. Juli 2026 verkündet. Die Parteien greifen jeweils ihre gesamte Beschwer an. In Fall A beträgt sie genau 1.000 Euro ohne Berufungszulassung; in Fall B 1.000,01 Euro ohne Berufungszulassung; in Fall C 800 Euro mit ausdrücklicher Berufungszulassung im Urteil. Fristen, Form und übrige Zulässigkeitsvoraussetzungen sind erfüllt. Es handelt sich um gewöhnliche Zivilstreitigkeiten ohne Sonderzuständigkeit. Prüfen Sie allein Wertgrenze, Zulassung und funktionell zuständiges Berufungsgericht.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet genau 1.000 Euro in Fall A von 1.000,01 Euro in Fall B: A erfüllt die aktuelle Wertgrenze nicht, B überschreitet sie.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Lässt in Fall C die ausdrückliche Berufungszulassung als eigenständigen Zugang unabhängig von der nicht erreichten Wertgrenze gelten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ordnet die Berufung in den gewöhnlichen Zivilfällen dem Landgericht nach Paragraf 72 GVG zu und verwendet nicht Paragraf 119 GVG als landgerichtliche Zuständigkeitsnorm.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "07-berufungsverfahren-paragraf-511-ff"
+    },
+    {
+      "id": "berufung-uebergangsrecht-schluss-2025",
+      "request": "Erstellen Sie ergebnis.md zu zwei amtsgerichtlichen Zivilurteilen mit jeweils 800 Euro vollständig angegriffener Beschwer und ohne Berufungszulassung. Urteil A wurde am 15. Januar 2026 nach Schluss der mündlichen Verhandlung am 18. Dezember 2025 verkündet; die Verhandlung wurde nicht wiedereröffnet. Urteil B wurde am 15. Januar 2026 nach Schluss der mündlichen Verhandlung am 8. Januar 2026 verkündet. Beide Berufungen wurden rechtzeitig und formgerecht eingelegt und begründet; weitere Zulässigkeitshindernisse bestehen nicht. Prüfen Sie, ob die Berufungen die jeweils anwendbare Wertgrenze erfüllen. Ein Vermerk stellt für beide Verfahren allein auf das identische Verkündungsdatum ab.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Wendet für Urteil A aufgrund des Verhandlungsschlusses im Dezember das Übergangsrecht nach Paragraf 47 EGZPO an und behandelt 800 Euro als Überschreitung der alten 600-Euro-Grenze.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Wendet für Urteil B die aktuelle Grenze über 1.000 Euro an und erkennt, dass 800 Euro ohne Zulassung nicht genügen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Begründet das unterschiedliche Ergebnis trotz gleichen Verkündungsdatums mit den gesetzlichen alternativen Übergangsanknüpfungen, nicht mit dem Eingangsdatum der Berufung oder einer erfundenen Rückwirkung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "07-berufungsverfahren-paragraf-511-ff"
+    }
+  ]
+}

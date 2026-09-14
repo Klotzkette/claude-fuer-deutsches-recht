@@ -1,77 +1,25 @@
-# Regulatorisches Recht — Schnellstart
+# 1. Aufsichtsanforderung in konkrete Arbeit übersetzen
 
-Wenn du das hier öffnest, willst du ein Verfahren gegenüber einer Regulierungs- oder Wirtschaftsaufsichtsbehörde nach Zuständigkeit, Eingriffsgrundlage, Verfahrensrechten und Antwortstrategie ordnen.
+Lies zuerst das Behördenverlangen, den Vertrag oder die regulatorische Veröffentlichung, um die es im Nutzerauftrag geht. Bestimme Unternehmen, Tätigkeit, betroffene Einheit, Aufsicht und Verfahrensstand. Finanzaufsicht, Energie- und Telekommunikationsregulierung nicht unter einer allgemeinen Gewerbeerlaubnis zusammenfassen. Arbeite direkt am verlangten Antwortschreiben, Vertragsabgleich oder Änderungsbericht. Frage nur zu einer Angabe nach, die Anwendungsbereich oder nächste Handlung blockiert.
 
-Kernauftrag: Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Verlangen und Nachweise
 
-## 1. Sofortstart nach Eingangslage
+Zerlege ein Auskunftsersuchen nach verlangter Information, Zeitraum, Rechtsgrundlage, Empfänger und Frist. Ordne jeder Position vorhandene Daten, deren verantwortliche Stelle und noch offene Prüfung zu. Reichweite der Eingriffsnorm anhand des konkreten Verlangens prüfen, nicht lediglich den Gesetzesnamen nennen. Unklare Datenbegriffe vor der Zusammenstellung auflösen; verschiedene Konzerneinheiten nicht ohne Anlass zusammenrechnen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Behörde und Verfahren, Eingriffsgrundlage, Verfahrensrechte wählen; ohne konkreten Auftrag mit Behörde und Verfahren beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Geheimhaltungsinteresse und gesetzliche Auskunftspflicht getrennt prüfen. Schwärzungen nicht pauschal empfehlen, sondern Umfang, Rechtsgrund und alternative geschützte Übermittlung begründen. Fristverlängerung beantragen ist nicht Fristverlängerung erhalten. Bei Teilantworten benennen, welche Positionen vollständig geliefert werden und wann der Rest folgen soll; keine vollständige Erfüllung behaupten, solange wesentliche Teile fehlen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Behörde und Verfahren, Eingriffsgrundlage, Verfahrensrechte und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. DORA-Vertragsprüfung
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei IKT-Verträgen eines Finanzunternehmens zunächst persönlichen Anwendungsbereich, konkrete Dienstleistung und Unterstützung einer kritischen oder wichtigen Funktion bestimmen. Nicht jeden Dienstleister selbst als kritischen IKT-Drittdienstleister bezeichnen. Stelle Vertrag, Leistungsbeschreibung und Dienstgütevereinbarung nebeneinander; eine pauschale Zusage der Rechtskonformität ersetzt keine operative Pflicht.
 
-## 2. Fachlicher Direktstart
+Artikel 30 Absatz 2 der Verordnung (EU) 2022/2554 enthält allgemeine Vertragsbestandteile. Prüfe konkret Leistungsumfang, Standorte und Änderungsbenachrichtigung, Datenzugang und Rückgabe auch bei Insolvenz oder Vertragsende sowie Unterstützung bei IKT-Vorfällen. Absatz 2 Buchstabe f lässt Unterstützung ohne zusätzliche Kosten oder zu vorab festgelegten Kosten zu. Ein erst nach dem Vorfall frei festzulegender Preis ist damit nicht gleichzusetzen; kostenfreie Hilfe ist aber auch nicht die einzig zulässige Vertragsgestaltung.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Eingriffs- oder Anspruchsgrundlage trägt das Verlangen und deckt sie den Umfang.
-2. Kernprüfung in einem Durchgang: Welche Geschäftsgeheimnisse sind betroffen und wie werden sie geschützt; Welche Frist läuft und ist eine Verlängerung beantragt.
-3. Belege und Engpass zusammenführen: Nachweisachse Behörde und Verfahren: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen; besonders kritisch ist: Ein Auskunfts- oder Anhörungstermin läuft in unter zwei Wochen ab.
-4. Erstes Arbeitsprodukt liefern: Auskunftsantwort: Verlangen, Rechtsgrundlagenprüfung, gelieferte Daten, Schwärzungen mit Begründung, Vorbehalte.
+Bei kritischen oder wichtigen Funktionen die zusätzlichen Anforderungen des Absatzes 3 getrennt prüfen. Verknüpfe jede Lücke mit der vorhandenen Klausel und einer ausformulierten Ergänzung. Eigene Vorschläge zu Frist, Format oder Preis ausdrücklich als Vertragsgestaltung kennzeichnen, nicht als vermeintlich wörtliche gesetzliche Mindestzahl. Einschlägige technische Rechtsakte nur nach aktueller Prüfung und tatsächlichem Bezug ergänzen.
 
-## 3. Kernroute
+## 1.3. Änderungen und Informationsberichte
 
-1. Behörde und Verfahren: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen.
-2. Eingriffsgrundlage: Auskunftsverlangen, Festlegung, Untersagung oder Missbrauchsverfügung mit Norm und Reichweite prüfen.
-3. Verfahrensrechte: Anhörung, Akteneinsicht, Geheimnisschutz und Fristverlängerung sichern.
-4. Antwortstrategie: Umfang der Auskunft, Schwärzungen, Teillieferung und Schutzschriften abwägen.
-5. Arbeitsprodukt: Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren.
+Bei einem regulatorischen Wochenbericht Veröffentlichungsdatum, Rechtsaktstatus, Geltungsbeginn und konkrete betriebliche Auswirkung trennen. Entwurf, Konsultation, Leitlinie und verbindliche Norm nicht gleichstellen. Unveränderte Meldungen nicht als neue Pflichten verkaufen. Für jede echte Änderung betroffene Funktion, bestehende Regelung, Anpassungsbedarf und Verantwortlichen angeben. Ohne belegte Veröffentlichung keine Meldung oder Änderung erfinden.
 
-## 4. Fallkarte
+## 1.4. Ergebnis mit nachvollziehbarer Reichweite
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | EnWG; TKG; GewO Paragraf 35 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen |
-| Beweislast | Nachweisachse Behörde und Verfahren: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen |
-| Rechtsfolge | Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Behörde und Verfahren | Zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eingriffsgrundlage | Auskunftsverlangen, Festlegung, Untersagung oder Missbrauchsverfügung mit Norm und Reichweite prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahrensrechte | Anhörung, Akteneinsicht, Geheimnisschutz und Fristverlängerung sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antwortstrategie | Umfang der Auskunft, Schwärzungen, Teillieferung und Schutzschriften abwägen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- EnWG: Netzzugang, Entgeltregulierung, Missbrauchsaufsicht und Festlegungen der Bundesnetzagentur.
-- TKG: Marktregulierung, Frequenz- und Nummernverwaltung, Kundenschutz.
-- GewO Paragraf 35: Gewerbeuntersagung bei Unzuverlässigkeit.
-- IFG und Landespressegesetze: Informationszugang und Auskunftsansprüche gegenüber Behörden.
-- DORA-Verordnung: VO (EU) 2022/2554 v; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 28 DORA – allgemeine Grundsätze für Vertragsvereinbarungen mit IKT-Drittdienstleistern; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 29 DORA – Vorabbewertung des IKT-Konzentrationsrisikos; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 30 DORA – Pflichtinhalte des IKT-Drittdienstleistervertrags; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren.
-7.2. Norm: EnWG; TKG mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Behörde und Verfahren“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Behörde und Verfahren: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Geschäftsgeheimnisse sind betroffen und wie werden sie geschützt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Auskunftsantwort“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Ein Auskunfts- oder Anhörungstermin läuft in unter zwei Wochen ab. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere die vollständige Stellungnahme, Klauselfassung oder priorisierte Änderungsbewertung. Rechtsstand und Primärquelle zu jeder tragenden Aussage dokumentieren; fehlende Quellen oder Daten am konkreten Befund markieren. Keine Behördenentscheidung, Vertragsfreigabe oder Einreichung fingieren. Weitere Arbeit auf gesicherter Grundlage fortsetzen, auch wenn ein Teil ungeklärt bleibt. Dezimale Gliederung, Export in Times New Roman 11 pt. Spezialskills sind optionale Ergänzungen, keine notwendige Voraussetzung dieses Minis.

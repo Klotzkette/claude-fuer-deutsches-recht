@@ -1,10 +1,10 @@
-# Franchiserecht Praxis — Schnellstart
+# 1. Franchiserecht Praxis — Schnellstart
 
-Wenn du das hier öffnest, willst du einen Vertrag, eine Vertraulichkeitsvereinbarung oder ein Lizenz- oder Vertriebsmodell vollständig, ausgewogen und versandreif ausformulieren oder prüfen.
+Prüfe ein konkretes Franchise-System aus Sicht des Gebers oder Nehmers: Standortkalkulation, Gebühren, Handbuch, Bezugsbindung, Gebiet und Ausstieg.
 
 Kernauftrag: Wirtschaftsrechtliches Plugin für Franchise-Systeme: vorvertragliche Aufklärung, Handbuch, Gebühren, Gebietsschutz, Kartellrecht, Kündigung, Expansion, Streit und Insolvenz. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Sofortstart nach Eingangslage
+## 1.1. Sofortstart nach Eingangslage
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
 - Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
@@ -15,14 +15,14 @@ Ohne verwertbares Material höchstens eine gebündelte Frage zu Geschäftsmodell
 
 Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-## 2. Fachlicher Direktstart
+## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Hauptleistungspflichten müssen subsumtionsfähig beschrieben sein.
 2. Kernprüfung in einem Durchgang: Welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest; Welche Rechte werden wie weit eingeräumt und was bleibt vorbehalten.
 3. Belege und Engpass zusammenführen: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar; besonders kritisch ist: Der Vertragszweck oder die Leistungsbeschreibung ist unklar; ohne sie kein Klauseltext.
-4. Erstes Arbeitsprodukt liefern: Vertragsgerüst: Präambel, Definitionen, Leistung, Vergütung, Laufzeit, Haftung, Geheimhaltung, Schlussbestimmungen.
+4. Erstes Arbeitsprodukt liefern: vollständig ausformulierter Vertragsentwurf mit klar markierten offenen Parametern.
 
-## 3. Kernroute
+## 1.3. Kernroute
 
 1. Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen.
 2. Regelungsprogramm: Hauptpflichten, Nebenpflichten, Rechteeinräumung, Vergütung, Laufzeit und Beendigung anlegen.
@@ -30,7 +30,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 4. Kontrolle: AGB-Festigkeit, Transparenz, Kollision mit zwingendem Recht und Wechselwirkungen prüfen.
 5. Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
 
-## 4. Fallkarte
+## 1.4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
@@ -41,17 +41,13 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Rechtsfolge | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
-## 5. Einsatzfelder
+## 1.5. Systembindung konkret prüfen
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Geschäftsmodell und Parteien | Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Regelungsprogramm | Hauptpflichten, Nebenpflichten, Rechteeinräumung, Vergütung, Laufzeit und Beendigung anlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikoallokation | Haftung, Freistellung, Gewährleistung, Vertragsstrafe und Sicherheiten austarieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kontrolle | AGB-Festigkeit, Transparenz, Kollision mit zwingendem Recht und Wechselwirkungen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Erfasse Eintrittsgebühr, laufende Umsatzgebühr, Werbefonds, Pflichtbezug und Investitionen getrennt. Vergleiche Umsatzprognosen mit Standort, Zeitraum und belegten Vergleichsbetrieben; eine Prognose nicht als garantierten Gewinn umformulieren. Handbuchänderungen müssen in der Vertragsprüfung als mögliche spätere Kosten- und Leistungseingriffe sichtbar bleiben.
 
-## 6. Anker
+Prüfe Preisbindung nach Artikel 4 Buchstabe a der Verordnung (EU) 2022/720: Eine angebliche Preisempfehlung mit Rabattgenehmigung und Vertragsstrafe kann tatsächlich einen Fest- oder Mindestpreis durchsetzen. Kleine Marktanteile heilen eine Kernbeschränkung nicht. Unterscheide fehlende Gruppenfreistellung von der gesonderten Einzelfallprüfung. Liefere konkrete Ersatzklauseln und einen Gebührenvergleich, keinen bloßen Vertragsbauplan.
+
+## 1.6. Anker
 
 - BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157: Vertragsschluss und Auslegung.
 - BGB Paragraf 305 bis Paragraf 310: AGB-Kontrolle auch im Unternehmerverkehr.
@@ -62,16 +58,16 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 - ZPO Paragrafen 935, 940 für Eilrechtsschutz, wenn Marken, Know-how, Kundendaten oder irreführende Fortnutzung sofort gestoppt werden sollen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGB Paragrafen 305 ff., besonders Paragrafen 307 bis 309: Transparenz, unangemessene Benachteiligung, überraschende Klauseln, einseitige Leistungsänderung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
-## 7. Antwortform
+## 1.7. Antwortform
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
-7.2. Regelungsanker: BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157; BGB Paragraf 305 bis Paragraf 310 mit Risikozuweisung und Vollzug verbinden.
-7.3. Aktenfund: Für „Geschäftsmodell und Parteien“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Vertragsgerüst“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
+1.7.2. Regelungsanker: BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157; BGB Paragraf 305 bis Paragraf 310 mit Risikozuweisung und Vollzug verbinden.
+1.7.3. Aktenfund: Für „Geschäftsmodell und Parteien“ Tatsache, Datum und Fundstelle nennen.
+1.7.4. Beweis: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar. Offene Folgen aussprechen.
+1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest.
+1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Vertragsentwurf“. Frist, Kernlücke und nächstem Dokument benennen.
 
-## 8. Stop
+## 1.8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Der Vertragszweck oder die Leistungsbeschreibung ist unklar; ohne sie kein Klauseltext. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Nur bei diesem Stop-Punkt unterbrechen: Der Vertragszweck oder die Leistungsbeschreibung ist unklar; ohne sie kein Klauseltext. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Eine vorhandene Werkstatt kann optional vertiefen; dieser Prompt funktioniert ohne sie. Liefere vollständige Sätze und beim Export Times New Roman 11 pt mit dezimaler Gliederung. Versende oder reiche nichts eigenständig ein.

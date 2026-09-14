@@ -19,7 +19,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Mission, welcher Weltraumgegenstand und welche Staatenrollen sind betroffen.
 2. Kernprüfung in einem Durchgang: Welche Genehmigung, fortlaufende Aufsicht, Registrierung oder Frequenzzuteilung ist erforderlich; Welcher Staat und welcher Vertragspartner trägt welches Tätigkeits-, Störungs- oder Schadensrisiko.
-3. Belege und Engpass zusammenführen: Anspruchsteller oder Staat für Gegenstand, Ereignis, Schaden und Kausalität; Betreiber und Startstaaten für Genehmigung, Aufsicht, Registrierung und Entlastung; besonders kritisch ist: Startstaat, Registerstaat oder Betreiberrolle ist ungeklärt; dann keine Haftungs- oder Genehmigungsroute festlegen.
+3. Belege und Engpass zusammenführen: Gegenstand, Ereignis, Schaden, Kausalität und Staatenrollen einzeln belegen. Genehmigung und Registereintrag sind keine pauschale Haftungsentlastung. Bei unklarer Rolle alternative Zuordnungen mit fehlendem Nachweis bilden.
 4. Erstes Arbeitsprodukt liefern: Missionsmatrix: Akteur, Staat, Tätigkeit, Weltraumgegenstand, Genehmigung, Register, Frequenz, Vertrag, Haftung und Nachweis.
 
 ## 3. Kernroute
@@ -36,20 +36,17 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | --- | --- |
 | Normenanker | Weltraumvertrag Artikel I und Artikel II; Weltraumvertrag Artikel VI; Weltraumvertrag Artikel VII und Artikel VIII |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Betreiber, Eigentümer, Hersteller, Startdienstleister, Startstaat, Registerstaat, Nutzlast, Orbit und Bodenstation erfassen |
-| Beweislast | Anspruchsteller oder Staat für Gegenstand, Ereignis, Schaden und Kausalität; Betreiber und Startstaaten für Genehmigung, Aufsicht, Registrierung und Entlastung |
+| Beweisfragen | Gegenstand, Startstaat, Ereignis, Schaden, Kausalität, gegebenenfalls Verschulden und konkrete Entlastung getrennt zuordnen |
 | Rechtsfolge | Missionsrechtsmatrix, Genehmigungsfahrplan, Registermeldung, Haftungsmemo, Startvertragsklausel oder Frequenzvermerk |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
-## 5. Einsatzfelder
+## 5. Schadensort bestimmt den Prüfpfad
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Mission und Rollen | Betreiber, Eigentümer, Hersteller, Startdienstleister, Startstaat, Registerstaat, Nutzlast, Orbit und Bodenstation erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Genehmigung und Aufsicht | Nationale Zuständigkeit, private Tätigkeit, Sicherheitsprüfung, Erdfernerkundung, Frequenz und Exportkontrolle trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Registrierung und Kontrolle | Weltraumgegenstand, Startdaten, Registereintrag, Hoheitsgewalt, Eigentumswechsel und Rückgabeanspruch dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Haftung und Störung | Schadensort, Startstaaten, Gefährdungs- oder Verschuldensmaßstab, Kausalität, Weltraummüll, Kollisionswarnung und Konsultation prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Missionsrechtsmatrix, Genehmigungsfahrplan, Registermeldung, Haftungsmemo, Startvertrag, Frequenzvermerk oder Behördenanfrage erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Das Haftungsübereinkommen unterscheidet: Artikel II sieht absolute Haftung des Startstaats für Schäden auf der Erdoberfläche oder an Luftfahrzeugen im Flug vor. Artikel III verlangt für die dort beschriebenen Schäden außerhalb der Erdoberfläche an fremden Weltraumgegenständen beziehungsweise Personen oder Sachen an Bord Verschulden des anderen Startstaats oder verantwortlicher Personen. Ein Kollisionsereignis allein beweist dieses Verschulden nicht.
+
+Ordne jeden Schaden getrennt nach Ort, Gegenstand, beteiligten Startstaaten, Kausalitätsbeleg und gegebenenfalls Verschuldensindizien. Sichere Bahn- und Telemetriedaten, Warnungen, Manöverentscheidungen, Zeitstempel und technische Unsicherheiten. Prüfe Vertragsparteistatus und Ausnahmen, bevor ein abschließender Anspruch bejaht wird. Der zwischenstaatliche Anspruchsweg nach Artikel IX verläuft diplomatisch; private Vertrags- oder Deliktsansprüche sind davon zu unterscheiden.
+
+Amtliche Texte: [Vertragssammlung der Vereinten Nationen](https://www.unoosa.org/res/oosadoc/data/documents/2025/stspace/stspace61rev_3_0_html/st_space_61rev03E.pdf), [Haftungsübereinkommen, Artikel IX](https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/liability-convention.html?trk=public_post_comment-text). Nationale Genehmigungsgesetze und europäische Vorhaben separat auf Inkrafttreten prüfen; Entwürfe nicht als geltende Zulassungspflicht behandeln.
 
 ## 6. Anker
 
@@ -63,11 +60,11 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Missionsrechtsmatrix, Genehmigungsfahrplan, Registermeldung, Haftungsmemo, Startvertragsklausel oder Frequenzvermerk.
 7.2. Norm: Weltraumvertrag Artikel I und Artikel II; Weltraumvertrag Artikel VI mit dem entscheidenden Merkmal verbinden.
 7.3. Aktenfund: Für „Mission und Rollen“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Anspruchsteller oder Staat für Gegenstand, Ereignis, Schaden und Kausalität; Betreiber und Startstaaten für Genehmigung, Aufsicht, Registrierung und Entlastung. Offene Folgen aussprechen.
+7.4. Beweis: Schadensort, Staatenrolle, Kausalität und gegebenenfalls Verschulden mit konkreten Daten verbinden. Fehlende technische Erkenntnisse und ihren Einfluss auf das Haftungsvotum benennen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Genehmigung, fortlaufende Aufsicht, Registrierung oder Frequenzzuteilung ist erforderlich.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
 7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Missionsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Startstaat, Registerstaat oder Betreiberrolle ist ungeklärt; dann keine Haftungs- oder Genehmigungsroute festlegen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Bei ungeklärtem Startstaat oder Betreiber nur abschließende Zuordnung sperren, belegte Schadens- und Quellenmatrix weiterbearbeiten. Keine Registermeldung, Behördenanfrage oder Anspruchsanmeldung eigenmächtig versenden. Werkstatt und weitere Skills sind optionale Vertiefung; dieses Mini benötigt keine weiteren Dateien.

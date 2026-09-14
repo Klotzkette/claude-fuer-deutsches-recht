@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "plugin": "kanzlei-mandant-lifecycle",
+  "reviewed_on": "2026-09-14",
+  "sources": [],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die wiederholte Mandatsaufnahme beantwortete Budget- und Freigabekonflikte nicht. Die neue Rechenlogik beruht auf konkreten Vereinbarungen; keine neue allgemeine Vergütungsrechtsbehauptung.",
+    "changes": [
+      "Genehmigtes Budget, Prognose und Entscheidungsbefugnis getrennt.",
+      "Rechnung, offene Arbeit und Restaufwand ohne Doppelzählung zusammengeführt.",
+      "Änderungsantrag und sachliche Mandanteninformation als konkrete Produkte ergänzt."
+    ],
+    "sha256": "8a602d8307c717c9c3a2e25f44485b6a1c5caa0fbbd05728e9d40b81dd12569a"
+  },
+  "selection": {
+    "positive": [
+      "Entwirf eine Budgeteskalation an die freigabeberechtigte Rechtsabteilung.",
+      "Gleiche Zusatzauftrag, Restkosten und letzte Mandantenfreigabe ab."
+    ],
+    "negative": [
+      "Berechne die gesamte Kanzleiliquidität einschließlich Partnerentnahmen.",
+      "Prüfe ausschließlich die materielle Anspruchsgrundlage der Klage."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zusatzauftrag-ohne-budgetfreigabe",
+      "request": "Erstelle ergebnis.md mit Budgetrechnung und E-Mail-Entwurf. Für eine Vertragsprüfung sind 40.000 Euro netto als Budget genehmigt. Vereinbart ist eine schriftliche Warnung ab einer prognostizierten Überschreitung um mehr als zehn Prozent. Bisher wurden 24.000 Euro abgerechnet; weitere 8.000 Euro Arbeit sind angefallen, noch nicht abgerechnet und nicht in den 24.000 Euro enthalten. Der Restaufwand wird nachvollziehbar auf 14.000 Euro geschätzt. Eine Fachabteilung hat die zusätzliche Prüfung eines zweiten Vertrags verlangt. Nur die Leiterin Recht darf Mehrbudget schriftlich freigeben; eine solche Freigabe liegt nicht vor. Die vorhandene Terminplanung lässt zwei Arbeitstage für eine Entscheidung. Versende nichts und entscheide nicht über den rechtlichen Honoraranspruch.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Prognose beträgt 46.000 Euro, die Abweichung 6.000 Euro beziehungsweise 15 Prozent; angefallene und restliche Arbeit werden nicht doppelt gezählt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Entwurf adressiert die notwendige Entscheidung an die Leiterin Recht und behandelt die Anfrage der Fachabteilung nicht als Mehrbudgetfreigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die vereinbarte Warnschwelle wird als überschritten eingeordnet, ohne daraus automatisch einen Zahlungsanspruch, eine Budgeterhöhung oder einen sofortigen Bearbeitungsabbruch abzuleiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "budget-overrun-escalation"
+    }
+  ]
+}

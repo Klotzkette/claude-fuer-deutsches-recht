@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "plugin": "verhaeltnismaessigkeitspruefer",
+  "reviewed_on": "2026-09-14",
+  "sources": [{"url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2022/09/rs20220929_1bvr238021.html", "checked_on": "2026-09-14", "supports": "Amtlicher indexierter Entscheidungsauszug zu Beschluss vom 29. September 2022, 1 BvR 2380/21 und 1 BvR 2449/21: nur wenig weniger wirksames milderes Mittel kann bei Angemessenheit relevant bleiben. Direkter Volltextabruf war gesperrt; keine Randnummer oder Volltextprüfung behauptet."}],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Mini war ein allgemeiner Verfassungsbeschwerde-Prompt. Werkstatt und gelesener Erforderlichkeits-Skill enthalten den Alternativenvergleich, der bisher im Mini fehlte; dortige ungeprüfte historische Beispielfundstellen wurden nicht übernommen.",
+    "changes": ["Eigenständige materielle Vierstufenprüfung aufgebaut", "Zweck vom Mittel getrennt", "Wirksamkeit, Drittbelastung und Verfügbarkeit konkret verglichen", "Geringfügig weniger wirksame Alternative bei Angemessenheit berücksichtigt"],
+    "sha256": "c08bf770bc6e97da856aed42cabc820e0471bac6183d901d95a58790016dd02f"
+  },
+  "selection": {
+    "positive": ["Vergleiche eine ganztägige Schließung mit zeitlich begrenzten Schutzmaßnahmen anhand unserer Daten.", "Prüfe, ob ein milderes Mittel gleich wirksam ist oder nur in der Angemessenheit Gewicht hat."],
+    "negative": ["Berechne allein die Einlegungsfrist einer Verfassungsbeschwerde.", "Erstelle eine zivilrechtliche Zahlungsaufstellung ohne staatliche Maßnahme oder Grundrechtskonflikt."]
+  },
+  "cases": [{
+    "id": "nachtschutz-ganztagsschliessung",
+    "request": "Erstelle ergebnis.md als Verhältnismäßigkeitsvermerk zu einer erwogenen Behördenmaßnahme. Gesetzliche Ermächtigung und Zuständigkeit sind für den Auftrag unterstellt. Eine Freizeitanlage soll wegen nächtlicher Lärmbelastung für acht Wochen ganztägig geschlossen werden. Die vollständigen protokollierten Überschreitungen treten ausschließlich zwischen 22 und 2 Uhr auf. Nach einem von beiden Seiten akzeptierten Gutachten verhindert eine gesicherte Schließung von 21 bis 6 Uhr dieselben nächtlichen Überschreitungen ebenso zuverlässig, ohne Lärm in Nachbargebiete zu verlagern. Eine bloße Hinweistafel reduziert sie nur um 20 Prozent. Tagsüber bestehen nach der Untersuchung keine schädlichen Lärmfolgen. Die Ganztagsschließung trifft auch Schulangebote. Bitte vergleiche die drei Mittel und entwirf eine präzisere Maßnahme, ohne sie zu erlassen.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id": "C01", "text": "Der Zweck wird als Schutz vor belegtem nächtlichem Lärm und nicht als Durchsetzung der Ganztagsschließung bestimmt.", "deliverables": ["ergebnis.md"]},
+      {"id": "C02", "text": "Die Nachtschließung wird anhand des ausdrücklich gleich wirksamen Gutachtens und geringerer Tagesbelastung als durchgreifende mildere Alternative behandelt; die Hinweistafel wird nicht als gleich wirksam ausgegeben.", "deliverables": ["ergebnis.md"]},
+      {"id": "C03", "text": "Die engere Fassung benennt den Zeitraum 21 bis 6 Uhr sowie Kontrolle oder Befristungsprüfung und behauptet weder einen realen Erlass noch zusätzliche unbewiesene Tagesgefahren.", "deliverables": ["ergebnis.md"]}
+    ],
+    "target_skill": "erforderlichkeit-mildestes-mittel"
+  }]
+}

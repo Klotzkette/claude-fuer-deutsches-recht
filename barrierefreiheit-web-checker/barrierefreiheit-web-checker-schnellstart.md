@@ -1,76 +1,35 @@
-# Barrierefreiheit Web Checker — Schnellstart
+# 1. Digitales Angebot nachvollziehbar prüfen
 
-Wenn du das hier öffnest, willst du ein digitales Angebot gegen die einschlägigen Barrierefreiheitsanforderungen prüfen und die Befunde in eine umsetzbare Abstellungs- und Nachweismatrix überführen.
+Lies Nutzerauftrag, vorhandenen Code, Prüfprotokolle, Screenshots und Angebotsbeschreibung zuerst. Prüfe den beauftragten Nutzerweg, nicht ungefragt die gesamte Organisation. Liefere reproduzierbare Befunde mit Nutzerwirkung, Abhilfe und Wiederholungstest. Frage nur nach blockierenden Angaben. Ohne Browserzugriff vorhandene Belege analysieren, aber keine eigene Live-Prüfung behaupten.
 
-Kernauftrag: Web-Barrierefreiheits-Checker für BFSG, BFSGV, BITV 2.0, EN 301 549 und WCAG: Scope, Audit, Tastatur, Screenreader, Formulare, PDFs, Erklärung, Roadmap und Abnahme. Vorrang hat das verlangte Arbeitsprodukt.
+## 2. Umfang und Maßstab festlegen
 
-## 1. Sofortstart nach Eingangslage
+Trenne öffentliche Stelle und privates Angebot, Website und App, Produkt und Dienstleistung sowie Verbraucher- und reinen Unternehmensbezug. [Paragraf 1 BFSG](https://www.gesetze-im-internet.de/bfsg/__1.html) erfasst bestimmte Produkte und Dienstleistungen, darunter elektronischen Geschäftsverkehr für Verbraucher; nicht jede private Informationsseite pauschal dem BFSG unterwerfen. Ausnahmen und zeitliche Anwendbarkeit konkret prüfen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Anwendungsbereich, Prüfstandard, Befund wählen; ohne konkreten Auftrag mit Anwendungsbereich beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bei Kleinstunternehmen die dienstleistungsbezogene Ausnahme nach [Paragraf 3 Absatz 3 BFSG](https://www.gesetze-im-internet.de/bfsg/__3.html) prüfen, nicht ungeprüft auf Produkte übertragen. Für öffentliche Stellen einschlägiges Bundes- oder Landesrecht bestimmen. BFSG, BGG und BITV nicht zu einem einheitlichen Pflichtenkatalog vermischen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Anwendungsbereich, Prüfstandard, Befund und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Dokumentiere technische Referenz, Version, Konformitätsstufe und rechtlichen Bezug getrennt. Eine gewählte WCAG-Version ist nicht automatisch vollständig gesetzlich verbindlich oder harmonisiert. Technischer Befund bleibt auch dann beschreibbar, wenn seine genaue rechtliche Zuordnung noch offen ist.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 3. Nutzerwege statt Scannerquote
 
-## 2. Fachlicher Direktstart
+3.1. Auswahl: Start, Suche, Auswahl, Warenkorb, Anmeldung, Formular, Bezahlung und Bestätigung nach Auftrag durchgehen. Komponentenvarianten und Fehlerzustände einbeziehen. Eine bestandene Startseite bescheinigt keinen barrierefreien Checkout.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches gesetzliche Regime gilt für Anbieter, Produkt oder Dienstleistung.
-2. Kernprüfung in einem Durchgang: Welche konkrete Anforderung und welcher technische Prüfstandard sind einschlägig; Ist der Fehler reproduzierbar und welche Nutzergruppe oder Funktion betrifft er.
-3. Belege und Engpass zusammenführen: Nachweisachse Befund: Nutzerweg, reproduzierbarer Fehler, betroffene Funktion, Schwere, Beleg und technische Abhilfe dokumentieren; besonders kritisch ist: BFSG, BGG und BITV werden ohne Prüfung von Anbieter und Angebot vermischt.
-4. Erstes Arbeitsprodukt liefern: Auditbericht, Prioritätenplan, Konformitätsunterlage, Barrierefreiheitserklärung, Verbraucherantwort oder Behördenstellungnahme erstellen.
+3.2. Tastatur: Ohne Maus Erreichbarkeit, Auslösung, Reihenfolge und sichtbaren Fokus prüfen. Dialog öffnen, innerhalb navigieren, schließen und Rückkehr zum Auslöser kontrollieren. Festhalten, ob die Tastatur den Bereich wieder verlassen kann. [WCAG 2.2, Erfolgskriterium 2.1.2](https://www.w3.org/WAI/WCAG22/Understanding/no-keyboard-trap.html) behandelt Tastaturfallen. Nicht jede absichtliche Fokusbegrenzung in einem korrekt schließbaren modalen Dialog als Fehler bewerten.
 
-## 3. Kernroute
+3.3. Screenreader und Formulare: Zugänglichen Namen, Rolle, Zustand, Beschriftung, Pflichtfeldhinweis, Fehlermeldung und Statusänderung untersuchen. Sichtbarer Text ist nicht zwangsläufig programmatisch zugeordnet. Testumgebung und tatsächlich eingesetzte Hilfstechnik nennen; aus Quelltext allein keinen bestandenen Screenreadertest ableiten.
 
-1. Anwendungsbereich: Produkt oder Dienstleistung, Anbieterrolle, Verbraucherbezug, Bereitstellungsdatum und Ausnahme feststellen.
-2. Prüfstandard: gesetzliche Anforderung, BFSGV, harmonisierte Norm, EN 301 549, WCAG-Kriterium und Versionsstand zuordnen.
-3. Befund: Nutzerweg, reproduzierbarer Fehler, betroffene Funktion, Schwere, Beleg und technische Abhilfe dokumentieren.
-4. Rechtfertigung: grundlegende Veränderung oder unverhältnismäßige Belastung nur anhand der gesetzlichen Kriterien und Unterlagen prüfen.
-5. Arbeitsprodukt: Auditbericht, Prioritätenplan, Konformitätsunterlage, Barrierefreiheitserklärung, Verbraucherantwort oder Behördenstellungnahme erstellen.
+3.4. Darstellung: Zoom, schmale Ansichten, Reflow, Textvergrößerung, Kontrast und Überlagerungen prüfen. Messwert, Vorder- und Hintergrund sowie Zustand festhalten. Keine Kontrastquote aus optischem Eindruck erfinden. Bilder nach Informationsfunktion beurteilen; dekorative und informative Inhalte unterscheiden.
 
-## 4. Fallkarte
+3.5. Dokumente und Medien: Zugang, Lesereihenfolge, Struktur, Alternativtexte und gegebenenfalls Untertitel prüfen. Ein durchsuchbares PDF ist nicht allein deshalb barrierefrei. Bei fehlender Datei lediglich den Verlinkungsbefund liefern.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BFSG Paragraf 1 bis Paragraf 3; BFSG Paragraf 6 bis Paragraf 14; BFSG Paragraf 16 und Paragraf 17 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Produkt oder Dienstleistung, Anbieterrolle, Verbraucherbezug, Bereitstellungsdatum und Ausnahme feststellen |
-| Beweislast | Nachweisachse Befund: Nutzerweg, reproduzierbarer Fehler, betroffene Funktion, Schwere, Beleg und technische Abhilfe dokumentieren |
-| Rechtsfolge | Auditbericht, Prioritätenplan, Konformitätsunterlage, Barrierefreiheitserklärung, Verbraucherantwort oder Behördenstellungnahme erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 4. Befund als umsetzbares Ticket
 
-## 5. Einsatzfelder
+Je Fehler URL oder Komponente, Zustand, Umgebung, Reproduktionsschritte, erwartetes und beobachtetes Verhalten, betroffene Nutzergruppe, Priorität und Beleg erfassen. Quellenkritisch trennen: eigener Test, übernommenes Nutzerprotokoll, Scannerhinweis und noch offene Vermutung.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Anwendungsbereich | Produkt oder Dienstleistung, Anbieterrolle, Verbraucherbezug, Bereitstellungsdatum und Ausnahme feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Prüfstandard | Gesetzliche Anforderung, BFSGV, harmonisierte Norm, EN 301 549, WCAG-Kriterium und Versionsstand zuordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Befund | Nutzerweg, reproduzierbarer Fehler, betroffene Funktion, Schwere, Beleg und technische Abhilfe dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Abhilfe konkret auf Verhalten ausrichten: etwa erreichbare Schließen-Schaltfläche und sinnvoller Fokus-Rücksprung statt „Barrierefreiheit verbessern“. Wiederholungstest mit demselben Nutzerweg festlegen. Automatische Prüfung und manuelle Abnahme getrennt dokumentieren. Keine Abnahme ohne tatsächlich wiederholten Test erteilen.
 
+## 5. Auslieferung und optionale Vertiefung
 
-## 6. Anker
+Optional vertieft [Tastatur, Fokus, Navigation](skills/tastatur-fokus-ueberwachungsstelle/SKILL.md) die manuelle Prüfung. Ohne diese Datei mit Abschnitt 3 arbeiten. Ein fertiger Bericht enthält Prüfgrenzen, priorisierte Tickets, offene Tests und gegebenenfalls getrennte rechtliche Einordnung. Konformitätsunterlagen oder Erklärungen nur mit belegtem Umfang erstellen, nicht aus einer Stichprobe als Vollkonformität ableiten.
 
-- BFSG Paragraf 1 bis Paragraf 3: Anwendungsbereich, Begriffe und Barrierefreiheitsanforderungen.
-- BFSG Paragraf 6 bis Paragraf 14: Pflichten von Hersteller, Einführer, Händler und Dienstleistungserbringer rollenbezogen trennen.
-- BFSG Paragraf 16 und Paragraf 17: grundlegende Veränderung und unverhältnismäßige Belastung mit dokumentierter Einzelfallprüfung.
-- BFSG Paragraf 20 bis Paragraf 30: Marktüberwachung und Maßnahmen bei Produkt- oder Dienstleistungsverstößen.
-- Paragraf 12a BGG Voraussetzung: barrierefreie Gestaltung von Websites, mobilen Anwendungen, Intranet, Dokumenten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Auditbericht, Prioritätenplan, Konformitätsunterlage, Barrierefreiheitserklärung, Verbraucherantwort oder Behördenstellungnahme erstellen.
-7.2. Norm: BFSG Paragraf 1 bis Paragraf 3; BFSG Paragraf 6 bis Paragraf 14 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Anwendungsbereich“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Befund: Nutzerweg, reproduzierbarer Fehler, betroffene Funktion, Schwere, Beleg und technische Abhilfe dokumentieren. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche konkrete Anforderung und welcher technische Prüfstandard sind einschlägig.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Anwendungsbereich“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: BFSG, BGG und BITV werden ohne Prüfung von Anbieter und Angebot vermischt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Rechtliche Behauptungen an amtlichen Quellen, technische Kriterien an der maßgeblichen Standardspezifikation verifizieren. Tatsächlich geprüfte Fassung, Abschnitt und URL nennen; keine erfundenen Testergebnisse. Optional: [Zitierweise](../references/zitierweise.md). Vollständige Sätze, dezimale Gliederung mit Leerzeilen und Times New Roman 11 pt beziehungsweise Exporthinweis verwenden. Ohne Export Text liefern. Keine Website ändern, Veröffentlichung vornehmen oder Verbraucherantwort versenden, sofern nicht beauftragt.

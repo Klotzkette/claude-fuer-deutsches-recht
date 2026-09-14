@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "richter-amtsgericht-zivil",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__495a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Streitwertgrenze 1.000 Euro und zwingende mündliche Verhandlung auf Antrag."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Fehlerhafte Warnformel zum Ermessenverfahren und unscharfe Beweislast durch richterliche Relation ersetzt.",
+    "changes": [
+      "Schlüssigkeit, Erheblichkeit und Beweisbedürftigkeit getrennt.",
+      "Aktuelle Grenze und mündlichen Verhandlungsantrag aufgenommen."
+    ],
+    "sha256": "c6022e4543fbc67b2ebd565a33629821d3173642b45284a5e3b6e1c95f24b062"
+  },
+  "selection": {
+    "positive": [
+      "Erstellen Sie als Amtsrichter eine Relation zur bestrittenen Kaufpreisforderung.",
+      "Bereiten Sie einen Beweisbeschluss über die behauptete Barzahlung vor."
+    ],
+    "negative": [
+      "Schreiben Sie für den Käufer eine anwaltliche Klageerwiderung.",
+      "Entwerfen Sie ein Berufungsurteil der Zivilkammer."
+    ]
+  },
+  "cases": [
+    {
+      "id": "barzahlung-verhandlungsantrag",
+      "request": "Erstellen Sie ergebnis.md als neutralen amtsgerichtlichen Relations- und Verfügungsentwurf. Örtliche und sachliche Zuständigkeit sind unstreitig. Händler H verlangt 900 Euro Kaufpreis für einen gelieferten Tisch. Käufer K räumt Kauf, Lieferung und Fälligkeit ein, behauptet aber Barzahlung am 03.08.2026 im Laden und benennt die anwesende Zeugin L mit ladungsfähiger Anschrift. H bestreitet die Zahlung. Weitere Beweismittel gibt es nicht. K beantragt ausdrücklich mündliche Verhandlung. Eine Beweisaufnahme hat noch nicht stattgefunden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet Kauf und Lieferung als unstreitig sowie die behauptete Erfüllung als entscheidungserheblichen Streitpunkt ein und weist die Beweislast für Zahlung K zu.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Sieht trotz eines Streitwerts unter 1.000 Euro eine mündliche Verhandlung wegen des ausdrücklichen Antrags vor.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bereitet die Vernehmung L zur konkreten Barzahlung vor, ohne Zahlung oder Unwahrheit bereits festzustellen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "04-relation-zivilrecht-klein"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
-# Gesellschaftsrecht — Schnellstart
+# 1. Gesellschaftsrecht — Schnellstart
 
 Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
 
 Kernauftrag: Gesellschaftsrecht für GmbH, AG und Personengesellschaften: Beschlüsse, Gesellschafterliste, Satzung, Organhaftung, Streit, Kapitalerhaltung, Umwandlung, Register und Transaktionen. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1. Sofortstart nach Eingangslage
+## 1.1. Sofortstart nach Eingangslage
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders Gesellschaftsvertrag, Gesellschafterliste, Beschlussprotokoll und Handelsregisterauszug. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
 - Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
@@ -15,14 +15,14 @@ Ohne verwertbares Material höchstens eine gebündelte Frage zu Gesellschaftsfor
 
 Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
-## 2. Fachlicher Direktstart
+## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
 2. Kernprüfung in einem Durchgang: Wer ist Organ, Gesellschafter, Vertreter oder wirtschaftlich Berechtigter; Welche Beschluss- oder Formanforderung ist Wirksamkeitsvoraussetzung.
 3. Belege und Engpass zusammenführen: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment; besonders kritisch ist: Notarielle Form oder Registerfrist ist ungeklärt.
 4. Erstes Arbeitsprodukt liefern: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
 
-## 3. Kernroute
+## 1.3. Kernroute
 
 1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
 2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
@@ -30,7 +30,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
 5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
 
-## 4. Fallkarte
+## 1.4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
@@ -41,34 +41,31 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
-## 5. Einsatzfelder
+## 1.5. Stimmenrechnung mit Konfliktprüfung
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Gesellschaftsform, Registerlage | Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Satzung, Gesellschaftervereinbarung | Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Organpflichten, Treuepflichten | Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Lies Tagesordnung und konkreten Beschlussgegenstand vor dem Zählen. Trenne Stammkapital, anwesende Stimmen, abgegebene Stimmen, Enthaltungen und Stimmverbote; verwende den Nenner der tatsächlich einschlägigen Satzungs- oder Gesetzesregel.
 
-## 6. Anker
+Paragraf 47 Absatz 4 GmbHG schließt einen Gesellschafter bei seiner eigenen Entlastung von der Abstimmung aus; er darf insoweit auch nicht für andere stimmen. Ein hoher Kapitalanteil beseitigt dieses Verbot nicht. Andere Beschlussgegenstände nicht ohne Prüfung gleichbehandeln. Liefere eine Stimmenmatrix mit ursprünglichem Protokollergebnis, rechtlich bereinigtem Ergebnis und konkretem Korrektur- oder Streitrisiko. Keine beschlossene Maßnahme eigenständig vollziehen.
+
+## 1.6. Anker
 
 - BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
 - Normenradar: GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 3 Absatz 2 GmbHG (besondere Bestimmungen und Nebenleistungspflichten) — Paragraf 5 Absatz 1 GmbHG (Stammkapital mindestens 25.000 EUR) — Paragraf 5 Absatz 4 GmbHG (Festsetzungen bei Sacheinlagen) — Paragraf 53 Absatz 2 und 3 GmbHG (Dreiviertelmehrheit und notarielle Beurkundung der Satzungsänderung) — Paragraf 55 GmbHG (Kapitalerhöhung gegen Einlagen) — Paragraf 56 GmbHG (Kapitalerhöhung mit Sacheinlagen) — Paragraf 272 Absatz 2 Nummer 1 HGB (Kapitalrücklage bei Ausgabe über Nennbetrag) — Paragraf 272 Absatz 2 Nummer 4 HGB (andere Zuzahlungen) — Paragraf 27 KStG (steuerliches Einlagekonto) — Paragraf 21 UmwStG (qualifizierter Anteilstausch) — Paragraf 30 GmbHG (Kapitalerhaltung) — Paragrafen 58 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 3 Abs. 2 GmbHG gilt sachlich nicht nur bei Gründung sondern dauerhaft (Strukturnorm); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
-## 7. Antwortform
+## 1.7. Antwortform
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
-7.2. Regelungsanker: BGB Paragraf 705; HGB Paragraf 105 mit Risikozuweisung und Vollzug verbinden.
-7.3. Aktenfund: Für „Gesellschaftsform, Registerlage“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Ladungs- und Beschlussmängeln sowie der Vertretungsmacht.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Gesellschaftsform, Registerlage“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
+1.7.2. Regelungsanker: BGB Paragraf 705; HGB Paragraf 105 mit Risikozuweisung und Vollzug verbinden.
+1.7.3. Aktenfund: Für „Gesellschaftsform, Registerlage“ Tatsache, Datum und Fundstelle nennen.
+1.7.4. Beweis: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment. Offene Folgen aussprechen.
+1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Ladungs- und Beschlussmängeln sowie der Vertretungsmacht.
+1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Gesellschaftsform, Registerlage“. Frist, Kernlücke und nächstem Dokument benennen.
 
-## 8. Stop
+## 1.8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Notarielle Form oder Registerfrist ist ungeklärt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Nur bei diesem Stop-Punkt unterbrechen: Notarielle Form oder Registerfrist ist ungeklärt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Eine vorhandene Werkstatt dient nur optional der Vertiefung. Liefere vollständige Sätze; Export: Times New Roman 11 pt, dezimale Gliederung. Keine eigenständige Einreichung, Erklärung oder Zahlung.

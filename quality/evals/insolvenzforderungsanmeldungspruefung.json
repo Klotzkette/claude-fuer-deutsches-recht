@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "insolvenzforderungsanmeldungspruefung",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__39.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Volltext: Nachrang seit Eröffnung laufender Zinsen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__174.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Suchauszug Absätze 2 und 3: Individualisierung und besondere Aufforderung für Nachrang; Direktabruf scheiterte."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der bisherige Mini prüfte Insolvenzreife statt angemeldeter Forderungen.",
+    "changes": [
+      "Grund, Betrag, Rang und besondere Rechtsgründe getrennt.",
+      "Zinsen nach Eröffnung und Nachranganmeldung konkretisiert.",
+      "Teilzahlungen und Dubletten positionsbezogen erfasst."
+    ],
+    "sha256": "1550db224dcabea4cd20aa19215bcc2446dab550b16c938d5b1235b2b5445556"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe eine Anmeldung mit Gutschrift und Zinsen nach Eröffnung.",
+      "Entwirf eine gezielte Belegnachforderung zu einer Tabellenforderung."
+    ],
+    "negative": [
+      "Erstelle die Fortbestehensprognose einer noch nicht insolventen GmbH.",
+      "Berechne die Insolvenzverwaltervergütung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "gutschrift-zinsen-nachrang",
+      "request": "Im eröffneten Verfahren wird eine Lieferforderung über 12.000 Euro Hauptforderung, 300 Euro unstreitige Zinsen bis zum Tag vor Eröffnung und 90 Euro Zinsen seit Eröffnung vollständig im Regelrang angemeldet. Eine vor Eröffnung wirksam erteilte Gutschrift über 2.000 Euro wurde übersehen. Die 300 Euro Vorzinsen sind bereits unter Berücksichtigung dieser Gutschrift korrekt berechnet. Es gibt keine weiteren Zahlungen, Sicherheiten oder Kosten und keine besondere Aufforderung zur Anmeldung nachrangiger Forderungen. Erstelle ergebnis.md als Betrags- und Rangprüfung mit Korrekturvorschlag.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ermittelt 10.000 Euro verbleibende Hauptforderung und 10.300 Euro einschließlich der ausdrücklich korrekt berechneten Vorzinsen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ordnet die 90 Euro seit Eröffnung gesondert dem Nachrang zu und übernimmt sie nicht in den Regelrang.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Empfiehlt ohne besondere gerichtliche Aufforderung keine automatische Nachranganmeldung und trennt Korrekturvorschlag von tatsächlicher Tabellenänderung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "grund-betrag-zinsen"
+    }
+  ]
+}

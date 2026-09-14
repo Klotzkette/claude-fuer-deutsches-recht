@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "email-umformulierer-berufsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absätze 2 und 3: Verschwiegenheit sowie Sachlichkeitsgebot ohne Gleichsetzung mit Verzicht auf nachdrückliche Vertretung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der bisherige Mini erzeugte eine Kammerstellungnahme statt einer umformulierten E-Mail; der passende Kernskill verlangt Inhaltserhalt und Deeskalation.",
+    "changes": [
+      "E-Mail zuerst, Änderungsnotiz danach.",
+      "Anerkenntnisse, Friständerungen und Offenlegung interner Vergleichsgrenzen abgesichert."
+    ],
+    "sha256": "fbf2701dfdc69841ff71e6b17f249774fa7bd5ac269a56ee072c074ebb069db5"
+  },
+  "selection": {
+    "positive": [
+      "Formuliere meinen verärgerten Anwaltsbrief sachlich um.",
+      "Entferne persönliche Angriffe, ohne die bestrittene Forderung anzuerkennen."
+    ],
+    "negative": [
+      "Verteidige mich umfassend in einem anwaltsgerichtlichen Verfahren.",
+      "Erstelle eine erstmalige Gebührenabrechnung nach RVG."
+    ]
+  },
+  "cases": [
+    {
+      "id": "rechnung-bestreiten-interne-grenze",
+      "request": "Bitte schreibe ergebnis.md mit einer sachlichen E-Mail an die gegnerische Rechtsanwältin. Original: Ihre lächerliche Rechnung über 8.000 Euro ist frei erfunden. Unser Mandant bestreitet die Zusatzleistungen. Schicken Sie bis 30.09.2026 die unterschriebenen Aufträge und Leistungsnachweise. Interne Notiz, nicht für die Gegenseite: Mandant würde maximal 2.000 Euro zur Erledigung zahlen. Es soll kein Vergleich angeboten und keine Frist verlängert werden. Weitere Tatsachen oder Belege liegen nicht vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Außenfassung entfernt Herabsetzungen, erhält aber das Bestreiten der Zusatzleistungen und erkennt die 8.000 Euro nicht an.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die interne Grenze von 2.000 Euro erscheint weder als Angebot noch als offengelegte Verhandlungsinformation in der E-Mail.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die konkrete Anforderung unterschriebener Aufträge und Leistungsnachweise bis 30.09.2026 bleibt erhalten, ohne neue Drohung oder behauptete Versendung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "umform-anwaltsbrief-an-gegner-spezial"
+    }
+  ]
+}

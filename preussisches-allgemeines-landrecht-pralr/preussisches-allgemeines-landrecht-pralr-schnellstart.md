@@ -10,6 +10,8 @@ Fehlt Material, nur die entscheidende Lücke gebündelt erfragen. Beispiel: „F
 
 ## 2. Den passenden Arbeitsweg nehmen
 
+Alle folgenden Links sind optionale Vertiefungen. Ohne weitere Dateien die jeweilige Sacharbeit hier ausführen: Titelblatt und Systemstelle abgleichen, unsichere Lesung kennzeichnen, Ort und Stichtag bestimmen und erst danach den historischen Text auf die belegten Tatsachen anwenden.
+
 | Ausgangslage | Nächster Arbeitsschritt |
 | --- | --- |
 | Unklare Ausgabe oder zwei abweichende Drucke | Mit [Textzeugen vergleichen](skills/textzeugen-vergleichen/SKILL.md) Titelblatt, Ausgabe und dieselbe Textstelle abgleichen. |
@@ -19,19 +21,19 @@ Fehlt Material, nur die entscheidende Lücke gebündelt erfragen. Beispiel: „F
 | Ein altes Recht soll heute wirken | Mit [Rechtsüberleitung prüfen](skills/altrechte-und-rechtsueberleitung-pruefen/SKILL.md) Entstehung, Zwischenrecht und heutige Durchsetzbarkeit belegen. |
 | Eine verbreitete Behauptung erscheint zweifelhaft | Mit [historische Behauptungen prüfen](skills/historische-behauptungen-pruefen/SKILL.md) den behaupteten Satz gegen Wortlaut, Ausnahmen und Geltung halten. |
 
-Die Fachmaterialien innerhalb dieser Skills nur zur tatsächlich auftretenden Teilfrage nachladen. Mehrere frühere Fassungen sind keine zusätzlichen Auswahloptionen.
+Die Fachmaterialien innerhalb dieser Skills nur optional zur tatsächlich auftretenden Teilfrage nachladen. Mehrere frühere Fassungen sind keine zusätzlichen Auswahloptionen.
 
 ## 3. Fachliche Fehlgriffe vermeiden
 
-Die Konsolidierung hat falsche Systemstellen im Altbestand offengelegt. Geprüfte Korrekturen stehen im [Quellenprüfvermerk](references/historische-quellenpruefung.md).
+Der optionale [Quellenprüfvermerk](references/historische-quellenpruefung.md) enthält frühere Befunde, ersetzt aber nicht die Prüfung der tatsächlich verwendeten historischen Quelle.
 
 3.1. Besitz, Eigentum und Eigentumsverfolgung sind verschiedene Suchfragen. Eine alte Dateibezeichnung ersetzt nicht den Titel im Gesetz.
 
-3.2. Die historischen Geschlechtszuordnungsregeln stehen in Teil 1 Titel 1 Paragrafen 19 bis 23. Der mögliche Vorrang des Sachverständigenbefunds darf nicht weggelassen werden.
+3.2. Bei historischen Personenstatusfragen Grundregel, Ausnahme und Drittinteressen gemeinsam lesen. Einen ausgewählten Satz nicht zur unbeschränkten Entscheidungsfreiheit umdeuten. Historische Begriffe als Quellenbegriffe kennzeichnen, nicht als heutige Personenbezeichnung übernehmen.
 
-3.3. Teil 2 Titel 5 Paragrafen 196 bis 208 enthalten Ausnahmen und fortdauernde Bindungen. Die Behauptung allgemeiner sofortiger Befreiung bei Grenzübertritt ist nicht tragfähig.
+3.3. Bei behaupteten Statusänderungen durch Ortswechsel Anwendungsgebiet, Einreiseumstände, Bindungen und Ausnahmen aus dem vollständigen Text ermitteln. Der isolierte Begriff einer Befreiung beweist noch nicht deren Zeitpunkt und Reichweite.
 
-3.4. Einleitung Paragrafen 74 und 75 belegen einen historischen Entschädigungsgedanken. Sie beweisen für sich weder einen konkreten historischen Impfschadensanspruch noch einen heutigen Anspruch.
+3.4. Eine historische Entschädigungsregel beweist für sich weder ihre Anwendung auf einen bestimmten Schaden noch einen heutigen Anspruch. Entstehung, späteres Zwischenrecht und heutige Durchsetzbarkeit als getrennte Fragen behandeln.
 
 ## 4. Ergebnis und Grenzen sichtbar machen
 
@@ -45,7 +47,7 @@ Eine historische Fallbewertung ergänzt die tatsächliche Anwendung, den stärks
 
 Nur neue oder entscheidend verwendete historische Primärstellen gezielt verifizieren. Keine pauschale Recherche zu geltendem Recht und kein festes Gegenwartsjahr erzwingen. Eine tatsächliche heutige Anschlussfrage benötigt dagegen eine eigene aktuelle Quellenprüfung.
 
-[Zitierweise](../references/zitierweise.md): Ausgabe, Teil, Titel, Paragraf und Seite nennen; Originalzitat, Transkription und eigene Übertragung trennen. Die erhaltenen Altmaterialien sind nicht vollständig verifiziert. Für die vertiefte Durchführung dient die [Werkstatt](preussisches-allgemeines-landrecht-pralr-werkstatt.md).
+Ausgabe, Teil, Titel, Paragraf und Seite nennen; Originalzitat, Transkription und eigene Übertragung trennen. Die [Zitierweise](../references/zitierweise.md) ist eine optionale Ergänzung. Die erhaltenen Altmaterialien sind nicht vollständig verifiziert. Für die vertiefte Durchführung dient optional die [Werkstatt](preussisches-allgemeines-landrecht-pralr-werkstatt.md).
 
 Exportstandard: Times New Roman 11 pt, dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt.
 

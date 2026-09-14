@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "plugin": "verkehr-infrastrukturrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [{"url": "https://www.gesetze-im-internet.de/pbefg/__28.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: Planfeststellung für Straßenbahnbetriebsanlagen samt Ausnahmen, begrenzte vorläufige Anordnung und Verhältnis zur Betriebsgenehmigung."}],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Mini und Werkstatt behandelten Infrastruktur fast nur wie Umweltanlagen. Der gelesene Straßenbahn-Skill trennt Bau und Betrieb, enthält aber unzuverlässige pauschale Fristen. Der Mini ordnete zudem Abschleppkosten falsch Paragraf 49a VwVfG zu.",
+    "changes": ["Verkehrsträgerbezogene Zulassung statt pauschalem BImSchG-Einstieg", "Bau, Betrieb und vorläufige Anordnung getrennt", "Reichweite der Anordnung mit Planblatt abgleichen", "Falschen Abschleppkostenanker und allgemeine Fristenübernahme entfernt"],
+    "sha256": "503598c758bcc0cbdfb8983979ab7fb6edbf6e22c1b41db3a8119517d087be76"
+  },
+  "selection": {
+    "positive": ["Prüfe, welche Bauarbeiten unsere vorläufige Straßenbahnanordnung tatsächlich erlaubt.", "Gleiche Trassenplan, Betriebsgenehmigung und Planfeststellungsstand ab."],
+    "negative": ["Reguliere einen einzelnen Kfz-Haftpflichtschaden.", "Prüfe ausschließlich eine immissionsschutzrechtliche Produktionsanlage ohne Verkehrsinfrastruktur."]
+  },
+  "cases": [{
+    "id": "strassenbahn-vorlaeufiger-umfang",
+    "request": "Erstelle ergebnis.md als Bauzulassungs- und Risikovermerk. Für eine neue Straßenbahntrasse liegt eine Betriebsgenehmigung vor, ausdrücklich vorbehaltlich der erforderlichen Planfeststellung. Das Planfeststellungsverfahren ist eingeleitet, aber nicht abgeschlossen. Eine vorläufige Anordnung nach Paragraf 28 Absatz 3a PBefG erlaubt nur Leitungsverlegung und Baustelleneinrichtung auf Planblatt 3. Der Bauleiter möchte nächste Woche zusätzlich Gleise auf Planblatt 4 in einer neuen Trassenlage bauen. Es handelt sich nach abgeschlossener technischer Prüfung weder um Unterhaltung noch um eine gesetzlich ausgenommene Einzelmaßnahme; ein ersetzender Bebauungsplan besteht nicht. Der Grundstückseigentümer von Blatt 4 widerspricht. Bitte ordne die Dokumente und das geplante Vorgehen ein, ohne Freigabe oder Antrag zu erteilen.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id": "C01", "text": "Die Betriebsgenehmigung wird nicht als Ersatz für die ausdrücklich vorbehaltene Bauzulassung behandelt.", "deliverables": ["ergebnis.md"]},
+      {"id": "C02", "text": "Der zulässige vorläufige Umfang auf Blatt 3 wird vom nicht erfassten Gleisbau auf Blatt 4 getrennt; eine generelle Baufreigabe aus der vorläufigen Anordnung wird abgelehnt.", "deliverables": ["ergebnis.md"]},
+      {"id": "C03", "text": "Der Vermerk benennt fehlende Zulassung und Eigentumsbetroffenheit als vor Baubeginn zu klärende Risiken, ohne entgegen dem Sachverhalt eine Unterhaltungs- oder Einzelmaßnahmenausnahme zu erfinden.", "deliverables": ["ergebnis.md"]}
+    ],
+    "target_skill": "strassenbahn"
+  }]
+}

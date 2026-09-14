@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "plugin": "richter-arbeitsgericht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/__54.html",
+      "checked_on": "2026-09-14",
+      "supports": "Güteverhandlung vor dem Vorsitzenden, Erörterung des Streitverhältnisses und Ausschluss eidlicher Vernehmungen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der bisherige Einstieg lieferte HR- und Parteiprodukte statt gerichtlicher Terminsarbeit.",
+    "changes": [
+      "Neutrale Gerichtsrolle und Trennung von Urteils- und Beschlussverfahren eingeführt.",
+      "Zugang, Kündigungsfrist und materielle Wirksamkeit getrennt."
+    ],
+    "sha256": "c198ff02bef1462bb5210786a299f73e25d46345582b2ac947d2fb661261b154"
+  },
+  "selection": {
+    "positive": [
+      "Bereiten Sie den Gütetermin zur Kündigungsschutzklage richterlich vor.",
+      "Erstellen Sie einen neutralen Hinweis zu widersprüchlichen Lohnabrechnungen."
+    ],
+    "negative": [
+      "Entwerfen Sie eine Arbeitgeberkündigung.",
+      "Vertreten Sie den Arbeitnehmer bei einer Abfindungsverhandlung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "guete-streitiger-kuendigungszugang",
+      "request": "Erstellen Sie ergebnis.md zur Vorbereitung eines Gütetermins. Arbeitnehmer A arbeitet seit 2018 in einem Betrieb mit 40 Vollzeitkräften. Arbeitgeber B beruft sich auf ein unterschriebenes Kündigungsschreiben vom 10.08.2026 zum 30.09.2026 und behauptet Einwurf am 11.08.2026 durch Mitarbeiter M. A behauptet, das Schreiben erst am 20.08.2026 erhalten zu haben. Klageeingang ist der 08.09.2026. M ist als Zeuge benannt, wurde aber nicht vernommen. Weitere Zugangsnachweise liegen nicht vor. Beide Seiten wollen zunächst die Fristfrage erörtern; eine Abfindung wurde nicht vereinbart.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt die Ergebnisrelevanz beider Zugangsvarianten für die Dreiwochenfrist und stellt nicht allein auf das Briefdatum ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt M als noch zu würdigendes Beweisangebot und plant keine eidliche Vernehmung im Gütetermin.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert neutrale Erörterungs- und Hinweispunkte statt Parteischriftsatz oder automatischem Abfindungsanspruch.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "02-kuendigungsschutzklage-pruefen"
+    }
+  ]
+}

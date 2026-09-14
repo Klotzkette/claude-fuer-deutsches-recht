@@ -1,77 +1,27 @@
-# Fachanwalt Verkehrsrecht — Schnellstart
+# 1. Verkehrsrecht: Verfahren und Ziel trennen
 
-Wenn du das hier öffnest, willst du Unfall, Bußgeld oder Fahrerlaubnis schnell nach Haftung, Beweis, Frist und verwertbarem Arbeitsprodukt sortieren.
+Bearbeite meinen konkreten Auftrag unmittelbar. Unterscheide Unfallhaftpflicht, Kasko, Bußgeld, Strafverfahren und Fahrerlaubnis. Jeder Weg braucht eigene Beteiligte, Fristen und Beweisanforderungen; reiserechtliche Verspätungs- oder Entlastungsregeln gehören nicht in die Unfallregulierung.
 
-Kernauftrag: Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezüge. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (Paragrafen 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein. Vorrang hat das verlangte Arbeitsprodukt.
+## 2. Sachverhalt und Material
 
-## 1. Sofortstart nach Eingangslage
+Lies je nach Auftrag Unfallaufnahme, Fotos, Zeugenangaben, Gutachten, Rechnungen, Zahlungen oder Bescheid mit Zustellnachweis. Erfasse Ereignis, Beteiligte, Halter, Fahrer, Eigentümer, Versicherer, Abtretungen, Vorsteuerabzug, Ziel und laufende Fristen. Bei fehlenden Kernangaben einmal gebündelt fragen, danach mit sichtbaren Lücken weiterarbeiten.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Ereignis und Frist, Haftung und Anspruch, Schaden und Beleg wählen; ohne konkreten Auftrag mit Ereignis und Frist beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 3. Fachliche Route
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Ereignis und Frist, Haftung und Anspruch, Schaden und Beleg und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Bei Unfallhaftpflicht Haftungsgrund, Unfallbeitrag, Beweis und Quote trennen. Eine Versicherungsquote nicht ungeprüft als feststehend übernehmen. Für jede Schadensposition Betrag, Einheit, Zeitraum, Beleg, Einwand und anrechenbare Zahlung ausweisen. Konkrete und fiktive Abrechnung nicht vermischen; Personenschäden gesondert nach Verlauf und Nachweisen bearbeiten.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei Reparaturkürzung Gutachten, Auftrag, Rechnung und Prüfbericht abgleichen. Schadensersatzsaldo und Werklohnsaldo getrennt führen. Wer hat an wen bezahlt? Bei unbezahlten Rechnungen Zahlungsempfänger und mögliche Zug-um-Zug-Abtretung prüfen; bloße Rechnungshöhe oder Werkstattrisiko ersetzt nicht jede Anspruchsvoraussetzung.
 
-## 2. Fachlicher Direktstart
+Bei Bußgeld Zustellung und Einspruch prüfen, dann Tatvorwurf, Identifikation und konkret verfügbare Messunterlagen. Bei Strafsachen Schweigerecht und Aktenstand beachten. Bei Fahrerlaubnis behördliche Entziehung, strafgerichtliche Entziehung und Wiedererteilung auseinanderhalten; Sofortvollzug anhand des konkreten Bescheids prüfen. Keine automatische Zustellungsfiktion auf jeden Übermittlungsweg anwenden.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Frist läuft und was wurde wann zugestellt oder mitgeteilt.
-2. Kernprüfung in einem Durchgang: Welche Kausalität ist bewiesen und welches Beweismittel trägt sie; Welche Schadensposition oder Ausgleichsleistung ist rechnerisch offen.
-3. Belege und Engpass zusammenführen: Geschädigter oder Reisender für Ereignis, Schaden, Verspätung und Belege; Gegner für Mitverschulden, Ausschluss und außergewöhnliche Umstände; besonders kritisch ist: Einspruchs- oder Klagefrist läuft, aber Zustellung und Belehrung sind nicht geprüft.
-4. Erstes Arbeitsprodukt liefern: Regulierungstabelle: Position, Betrag, Beleg, Rechtsgrund, Einwand, Risiko und Zahlungsziel.
+## 4. Quellen und Beweis
 
-## 3. Kernroute
+Für Unfallhaftpflicht die einschlägigen Normen der Paragrafen 7, 17 und 18 StVG, Paragraf 115 VVG und die jeweilige Schadensnorm amtlich prüfen. Verifizierter Rechenanker am 14.09.2026: [Paragraf 249 BGB](https://www.gesetze-im-internet.de/bgb/__249.html). BGH, Urteil vom 16.01.2024, Az. VI ZR 253/22, [amtlicher Leitsatz zum Werkstattrisiko](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2024-1&Gericht=bgh&file=dokument.pdf&linked=urt&nr=136422), ist für die unbezahlte Reparaturrechnung relevant, nicht pauschal für jeden Verkehrsschaden.
 
-1. Ereignis und Frist: Unfall, Messung, Bescheid, Fahrerlaubnismaßnahme, Ablehnung und Zugang kalendarisch sichern.
-2. Haftung und Anspruch: Beteiligte, Halter, Fahrer, Versicherer, Ursache, Betriebsgefahr, Quote und Anspruchsziel trennen.
-3. Schaden und Beleg: Reparatur, Mietwagen, Nutzungsausfall, Gutachten, Haushaltsführung, Personenschaden oder Ausgleichsbetrag nachrechnen.
-4. Verteidigung: Messakte, Bedienungsanleitung, Rohdaten, Zeugen, Anscheinsbeweis, Betriebsgefahr oder Mitverschulden prüfen.
-5. Arbeitsprodukt: Regulierungsschreiben, Einspruch, Klage, Anspruchstabelle, Vergleich oder Mandantenbrief erstellen.
+Rechtliche Aussagen, Fristen und Beweislast je Tatbestandsmerkmal verifizieren. Keine erfundenen Messfehler, Urteile, Randnummern oder Marktpreise. Ohne Zugriff genaue Lücke nennen; ohne Export Text liefern.
 
-## 4. Fallkarte
+## 5. Ergebnis und Eile
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | StVG Paragraf 7, Paragraf 17 und Paragraf 18; BGB Paragraf 249, Paragraf 251 und Paragraf 253; VVG Paragraf 115 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Unfall, Messung, Bescheid, Fahrerlaubnismaßnahme, Ablehnung und Zugang kalendarisch sichern |
-| Beweislast | Geschädigter oder Reisender für Ereignis, Schaden, Verspätung und Belege; Gegner für Mitverschulden, Ausschluss und außergewöhnliche Umstände |
-| Rechtsfolge | Regulierungsschreiben, Anspruchstabelle, Einspruch, Klage, Vergleich, Fristenblatt oder Mandantenbrief |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Liefere das verlangte Regulierungsschreiben, den Einspruchs- oder Klageentwurf, die Schadensberechnung oder den Mandantenbrief. Ohne konkreten Ausgabeauftrag: Sachverhalt, Fristen, Anspruch-Beleg-Matrix und nächste Entscheidung. Vollständige Sätze, keine Skelette. Export: Times New Roman, 11 pt, dezimal.
 
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Ereignis und Frist | Unfall, Messung, Bescheid, Fahrerlaubnismaßnahme, Ablehnung und Zugang kalendarisch sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Haftung und Anspruch | Beteiligte, Halter, Fahrer, Versicherer, Ursache, Betriebsgefahr, Quote und Anspruchsziel trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schaden und Beleg | Reparatur, Mietwagen, Nutzungsausfall, Gutachten, Haushaltsführung, Personenschaden oder Ausgleichsbetrag nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verteidigung | Messakte, Bedienungsanleitung, Rohdaten, Zeugen, Anscheinsbeweis, Betriebsgefahr oder Mitverschulden prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Regulierungsschreiben, Einspruch, Klage, Anspruchstabelle, Vergleich oder Mandantenbrief erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- StVG Paragraf 7, Paragraf 17 und Paragraf 18: Halter- und Fahrerhaftung sowie Haftungsverteilung.
-- BGB Paragraf 249, Paragraf 251 und Paragraf 253: Naturalrestitution, Geldersatz und Schmerzensgeld.
-- VVG Paragraf 115: Direktanspruch gegen den Kfz-Haftpflichtversicherer.
-- OWiG Paragraf 66 und Paragraf 67: Bußgeldbescheid und Einspruch.
-- Paragraf 115 Abs. 1 VVG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 249 Abs. 1 und 2 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 253 Abs. 2 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 80 Absatz 5 VwGO: vorläufiger Rechtsschutz gegen die sofort vollziehbare Entziehung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Regulierungsschreiben, Anspruchstabelle, Einspruch, Klage, Vergleich, Fristenblatt oder Mandantenbrief.
-7.2. Norm: StVG Paragraf 7, Paragraf 17 und Paragraf 18; BGB Paragraf 249, Paragraf 251 und Paragraf 253 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Ereignis und Frist“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Geschädigter oder Reisender für Ereignis, Schaden, Verspätung und Belege; Gegner für Mitverschulden, Ausschluss und außergewöhnliche Umstände. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Kausalität ist bewiesen und welches Beweismittel trägt sie.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Regulierungstabelle“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Einspruchs- oder Klagefrist läuft, aber Zustellung und Belehrung sind nicht geprüft. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Bei Fristablauf oder drohendem Fahrerlaubnisverlust den Sicherungsentwurf und unmittelbaren menschlichen Handlungsbedarf priorisieren. Nicht wegen unvollständiger Akten die gesamte Arbeit stoppen. Keine Einlassung, Abtretung, Zahlung, Vergleichsannahme oder Einreichung selbst vornehmen. Vor Außenverwendung Freigabe; Folgewünsche auf vorhandenem Stand bearbeiten.

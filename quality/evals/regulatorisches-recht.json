@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "regulatorisches-recht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2554",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 30 Absatz 2 Buchstabe f: Unterstützung bei IKT-Vorfällen ohne Zusatzkosten oder zu vorab festgelegten Kosten; Absatz 3 als zusätzlicher Pflichtenbereich."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die bisherige Aufsichtsroute blieb abstrakt und der DORA-Spezialskill vermischte gesetzliche Mindestanforderungen mit eigenen Preis- und Fristvorgaben.",
+    "changes": [
+      "Auskunftspositionen, Teilantworten und Verlängerungsstatus konkretisiert.",
+      "DORA-Vorfallunterstützung mit zwei zulässigen Kostenmodellen erklärt.",
+      "Gesetzliche Mindestvorgaben und verhandelbare Klauselgestaltung getrennt."
+    ],
+    "sha256": "cda1c67bb9457b877c6a4f1cb0f4a3b288ccbc346eecaf1cc078fdfcd3ac0112"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die Vorfallunterstützungsklausel unseres DORA-relevanten IKT-Vertrags.",
+      "Entwirf eine belegte Teilantwort auf ein aufsichtsrechtliches Auskunftsersuchen."
+    ],
+    "negative": [
+      "Prüfe ausschließlich kaufrechtliche Mängel eines Servers, ohne Finanzaufsicht oder regulatorische Vertragsanforderungen.",
+      "Entwirf nur die Datenschutzauskunft einer Bank an ihren Privatkunden, ohne aufsichtsrechtliches Verfahren."
+    ]
+  },
+  "cases": [
+    {
+      "id": "vorfallhilfe-preis-erst-hinterher",
+      "request": "Erstelle ergebnis.md als eng begrenzten DORA-Klauselreview für eine erfasste deutsche Bank. Der Vertrag betrifft einen IKT-Dienst und lautet: 'Bei einem mit dem Dienst zusammenhängenden IKT-Vorfall unterstützt der Anbieter die Bank. Die Vergütung bestimmt der Anbieter nach Abschluss des Einsatzes nach eigenem Ermessen.' Es gibt keine Preisliste oder weitere Vergütungsregel. Die Bank akzeptiert eine im Voraus fest vereinbarte Einsatzvergütung und verlangt keine grundsätzlich kostenlose Hilfe. Prüfe nur diesen Regelungspunkt anhand Artikel 30 Absatz 2 und formuliere eine verhandelbare Ersatzklausel; konkrete Preise dürfen als klarer Vertragsplatzhalter bleiben. Andere DORA-Anforderungen sind nicht Gegenstand des Auftrags.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt die erst nachträglich frei bestimmte Vergütung als unzureichend gegenüber dem gesetzlichen Modell vorab festgelegter Kosten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behauptet nicht, dass jede Vorfallunterstützung zwingend kostenlos sein müsse, sondern berücksichtigt beide gesetzlichen Kostenvarianten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert eine vollständige Ersatzklausel mit verbindlicher Unterstützung und vorab bestimmtem Vergütungsmechanismus, ohne unbekannte Preise als Tatsachen oder gesetzliche Pauschalen einzusetzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "dora-ikt-vertragspruefung"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 83 Skills des Plugins `fachanwalt-insolvenz-sanierungsrecht`.
+Diese Vollprüfung enthält top-10 von 84 Skills des Plugins `fachanwalt-insolvenz-sanierungsrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -13,9 +13,9 @@ Diese Vollprüfung enthält top-10 von 83 Skills des Plugins `fachanwalt-insolve
 5. **fachanwalt-insolvenz-sanierungsrecht-orientierung** — Für Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: P…
 6. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
 7. **erstpruefung-und-mandatsziel** — Für Erstprüfung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsm…
-8. **ueberschuldung-paragraf-19-inso-fortbestehensprognose** — Prüft Überschuldung nach Paragraf 19 InsO zweistufig, trennt Fortbestehensprognose, Überschuldungsstatus, Rangrücktritt …
-9. **fachanwalt-insolvenz-sanierung-starug-plan** — Bearbeitet den StaRUG-Plan als Fachanwalt: grenzt Insolvenzreife ab, prüft Planbetroffenheit und Ausschlüsse, baut Vergl…
-10. **insolvenzplan-paragraf-217-inso-planinhalt-pruefen** — Prüft Insolvenzpläne auf zulässigen Planinhalt, Gruppenbildung, Vergleichsrechnung, Stimmrechte, Obstruktionsverbot und …
+8. **organhaftung-zahlungen-masseabgleich** — Bereitet die Organhaftung für Zahlungen nach Insolvenzreife durch Einzelbuchungsabgleich, Zeitfenster und belegte Massez…
+9. **ueberschuldung-paragraf-19-inso-fortbestehensprognose** — Prüft Überschuldung nach Paragraf 19 InsO zweistufig, trennt Fortbestehensprognose, Überschuldungsstatus, Rangrücktritt …
+10. **fachanwalt-insolvenz-sanierung-starug-plan** — Bearbeitet den StaRUG-Plan als Fachanwalt: grenzt Insolvenzreife ab, prüft Planbetroffenheit und Ausschlüsse, baut Vergl…
 
 ---
 
@@ -793,6 +793,60 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `organhaftung-zahlungen-masseabgleich`
+
+_Bereitet die Organhaftung für Zahlungen nach Insolvenzreife durch Einzelbuchungsabgleich, Zeitfenster und belegte Massezuflüsse auf. Trennt Sorgfaltsprüfung und geringeren Gläubigerschaden nach Paragraf 15b InsO; nicht für eine bloße Liquiditätsprognose oder die Anfechtung gegen Zahlungsempfänger._
+
+# 1. Zweck und Anwendungsfall
+
+Erstelle aus Kontoauszügen und Gegenleistungsbelegen eine prüfbare Haftungsrechnung gegen oder für die Geschäftsleitung. Der Schwerpunkt beginnt beim Zahlungsstrom nach einem zu belegenden Insolvenzreifestichtag. Er unterscheidet sich von Liquiditätsstatus und Anfechtung dadurch, dass jede Buchung dem Organ, einem Zeitfenster und einer konkreten Entlastung zugeordnet wird.
+
+## 2. Eingaben
+
+Lies Auftrag, Organbestellung, behaupteten Reifestichtag mit Statusbelegen, Insolvenzantrag und gerichtliche Anordnungen, sämtliche einschlägigen Konten, Rechnungen, Rückzahlungen, Gegenleistungen und Sanierungsdokumentation. Erfasse den tatsächlichen Zahlungstag sowie Buchungs- und Wertstellungsdatum getrennt. Kläre, ob die beanspruchten Zahlungen vor oder seit dem 01.01.2021 liegen; historische Rechtslage nicht vermischen. Bei offenem Reifedatum rechne benannte Stichtagsvarianten. Höchstens eine gebündelte Nachfrage, dann Teilrechnung mit Restlücken.
+
+## 3. Ablauf und Checkliste
+
+### 3.1. Ausgangstatbestand
+
+Prüfe Insolvenzreife nach Paragrafen 17 und 19 InsO getrennt, Organstellung und Zurechnung der Zahlungen. Eine schlechte Bilanz ist noch kein vollständiger Reifenachweis. Halte Tatbestandsbelege des Anspruchstellers und Entlastungsbelege des Organs getrennt. Fristen nach Paragraf 15a InsO sind Höchstfristen, kein voraussetzungsloser Zahlungsfreiraum.
+
+### 3.2. Buchungsabgleich
+
+Vergib für jede Zahlung eine Kennung mit Konto, Empfänger, Betrag, Zweck, Tag, Veranlasser und Beleg. Gleiche Anfangsbestand plus Einzahlungen minus Auszahlungen mit Endbestand ab. Entferne echte Dubletten. Umbuchungen zwischen eigenen frei verfügbaren Guthabenkonten nicht doppelt als Masseabfluss zählen; bei debitorischen oder besicherten Konten Wirkung und Sicherheiten gesondert prüfen. Zahlungseingänge sind nicht automatisch frei verfügbare Masse und nicht pauschal gegen Auszahlungen saldierbar.
+
+### 3.3. Sorgfaltsprüfung je Zeitfenster
+
+Prüfe Paragraf 15b Absätze 1 bis 3 InsO vor jeder Kürzung: ordnungsgemäßer Geschäftsgang, notwendige Betriebsfortführung, sorgfältig betriebene nachhaltige Sanierung oder Antragsvorbereitung innerhalb des zulässigen Zeitraums. Nach dessen Ablauf ist ohne Antrag die gesetzliche Regelbewertung anzuwenden. Zwischen Antrag und Eröffnung konkrete Zustimmung des vorläufigen Verwalters belegen; die bloße Bestellung ersetzt diese nicht. Gesellschafterbeschlüsse erteilen keine pauschale Haftungsfreistellung. Steuer- und Sozialversicherungszahlungen nicht gleichsetzen; Sonderkonflikte gesondert kennzeichnen, keine Zahlungsvollmacht ausgeben.
+
+### 3.4. Betragsbrücke und Gegenleistungen
+
+Zeige zuerst die Summe der zurechenbaren Auszahlungen und sodann die begründet sorgfaltsgemäßen Positionen. Für verbleibende Positionen prüfe Paragraf 15b Absatz 4 Satz 2 InsO: Welcher geringere Schaden der Gläubigerschaft ist konkret belegt? Ordne Rückfluss, Warenzugang, Verwertbarkeit, Wert, Sicherungsrechte und zeitlichen Zusammenhang zu. Nennwert einer Rechnung ist kein Beweis eines entsprechenden Massewerts. Ein Anspruch auf Anfechtungsrückgewähr ist noch keine erfolgte Rückzahlung.
+
+Halte die historische Einzelzahlungsbetrachtung und den heutigen Einwand geringeren Gläubigerschadens auseinander. Das Urteil zu Paragraf 64 GmbHG alter Fassung ist kein automatischer Ausschluss aller Löhne oder Dienstleistungen unter Paragraf 15b InsO. Keine schematische Gleichsetzung mit einem Bargeschäft nach Paragraf 142 InsO. Denselben Rückfluss nicht zugleich bei Einzelzahlung und Gesamtschaden abziehen. Stelle streitige Entlastungen in einer gesonderten Variante dar, statt sie endgültig gutzuschreiben.
+
+### 3.5. Abschluss
+
+Prüfe Summen, Zurechnung und Doppelanrechnungen einmal nach. Schließe mit belastbarem Betrag, streitigem Betrag, Beweisthemen und Verjährungsprüfung nach Paragraf 15b Absatz 7 InsO. Keine Insolvenz- oder Zahlungsanträge absenden, keine Zahlungen stoppen oder freigeben und keine Anerkenntnisse erklären.
+
+## 4. Quellenpflicht
+
+Beachte [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-insolvenz-sanierungsrecht/references/zitierweise.md), sofern verfügbar; prüfe amtliche Fassung zum Zahlungszeitpunkt und aktuellen Stand vor Verwendung.
+
+- [Paragraf 15b InsO](https://www.gesetze-im-internet.de/inso/__15b.html): Sorgfalt, Zeitfenster, geringerer Gläubigerschaden und Verjährung.
+- [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html): Antrag ohne schuldhaftes Zögern, gesetzliche Höchstfristen.
+- [BGH, Urteil vom 04.07.2017, Az. II ZR 319/15](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=79247), amtliche Leitsätze: unmittelbar zusammenhängende Gegenleistung, Gläubigerverwertbarkeit und Liquidationswert; historisch zu Paragraf 64 GmbHG. Am 14.09.2026 im amtlichen Suchauszug geprüft; Volltextabruf gesperrt. Übertragbarkeit auf Paragraf 15b ausdrücklich gesondert begründen, keine Randnummer erfinden.
+
+## 5. Ausgabeformat
+
+Erstelle `ergebnis.md` mit Sachverhalt und Stichtagsannahmen, abgestimmtem Zahlungsjournal, Sorgfalts- und Entlastungsmatrix, Berechnungsvarianten sowie ausformulierter Anspruchs- oder Verteidigungspassage. Endprodukt in vollständigen Sätzen, keine Stichwortskelette. Dezimale Gliederung; Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Nicht geprüfte Konten und offene Volltexte ausdrücklich nennen.
+
+## 6. Beispiele
+
+Passend: Ein Verwalter verlangt sämtliche Auszahlungen eines Monats, obwohl eigene Kontenumbuchungen und Rückerstattungen enthalten sind. Passend ist auch die Verteidigung mit dokumentierten Sanierungsmaßnahmen und Warenzugängen. Nicht passend sind allein eine Fortbestehensprognose oder eine Anfechtungsforderung gegen einen Lieferanten.
+
+---
+
 ## Skill: `ueberschuldung-paragraf-19-inso-fortbestehensprognose`
 
 _Prüft Überschuldung nach Paragraf 19 InsO zweistufig, trennt Fortbestehensprognose, Überschuldungsstatus, Rangrücktritt und Patronatserklärung und erstellt eine stichtagsbezogene Prognose-, Vermögens- und Dokumentationsmatrix für Geschäftsleitung und Berater._
@@ -925,41 +979,6 @@ BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Die Nichtannahme ist keine mate
 4. Restrukturierungsbeauftragten nach Paragraf 73 und fakultativen Beauftragten nach Paragraf 77 unterscheiden.
 5. Bei Zahlungsunfähigkeit drei Wochen, bei Überschuldung sechs Wochen als Höchstfrist nach Paragraf 15a InsO verwenden.
 6. Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle einsetzen.
-
----
-
-## Skill: `insolvenzplan-paragraf-217-inso-planinhalt-pruefen`
-
-_Prüft Insolvenzpläne auf zulässigen Planinhalt, Gruppenbildung, Vergleichsrechnung, Stimmrechte, Obstruktionsverbot und Bestätigungshindernisse und liefert eine gerichtsfeste Plan-, Abstimmungs- und Rechtsmittelmatrix._
-
-# Insolvenzplan nach Paragraf 217 InsO prüfen
-
-## 1. Normenanker
-
-- Paragraf 217 InsO: Reichweite der durch Plan gestaltbaren Rechtsverhältnisse.
-- Paragrafen 219 bis 230 InsO: darstellender und gestaltender Teil sowie Anlagen.
-- Paragraf 231 InsO: Zurückweisung des Plans.
-- Paragrafen 243 bis 246a InsO: Stimmrecht, Mehrheiten und Obstruktionsverbot.
-- Paragrafen 250 bis 253 InsO: Bestätigung, Minderheitenschutz und Rechtsmittel.
-
-## 2. Verifizierter Rechtsprechungsanker
-
-BGH, Beschluss vom 26.04.2018 - IX ZB 49/17: Ein Insolvenzplan darf nur Gegenstände regeln, die nach Paragraf 217 InsO und den besonderen Planvorschriften disponibel sind. Nicht disponible Regelungen verstoßen gegen die Vorschriften über den zulässigen Planinhalt und sind im Bestätigungsverfahren zu kontrollieren.
-
-## 3. Prüfprogramm
-
-1. Sanierungsziel, Schuldner, Verfahrensstand und wirtschaftliche Ausgangslage festhalten.
-2. Jede gestaltende Regelung einer gesetzlichen Planermächtigung zuordnen.
-3. Nicht disponible Rechte und Drittpositionen ausscheiden.
-4. Gruppen nach Rechtsstellung und wirtschaftlichem Interesse sachgerecht bilden und Ungleichbehandlungen begründen.
-5. Vergleichsrechnung transparent, stichtagsbezogen und mit Sensitivitäten aufbauen.
-6. Stimmrechte, Mehrheiten, gruppenübergreifende Zustimmung und Obstruktionsverbot simulieren.
-7. Paragraf 251 InsO für jeden widersprechenden Beteiligten konkret prüfen.
-8. Bekanntmachung, Erörterungs- und Abstimmungstermin, Bestätigung und Rechtsmittelweg in einer Fristenliste abbilden.
-
-## 4. Ausgabe
-
-Liefere eine Regelungs-Landkarte, Gruppen- und Stimmrechtsmatrix, Vergleichsrechnung, Liste möglicher Bestätigungshindernisse und ausformulierte gerichtliche oder gläubigerseitige Stellungnahmen.
 
 ---
 

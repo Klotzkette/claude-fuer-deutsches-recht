@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-miet-wohnungseigentumsrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__559.html",
+      "checked_on": "2026-09-14",
+      "supports": "Reguläre Achtprozentumlage, Erhaltungsabzug einschließlich Abnutzung, Wohnungsverteilung und Sechsjahreskappung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__559a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Abzug öffentlicher Zuschüsse und gesonderte Berücksichtigung von Zinsermäßigungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__559b.html",
+      "checked_on": "2026-09-14",
+      "supports": "Textform, Erläuterung und Beginn des dritten Monats nach Zugang; mögliche Verlängerung um sechs Monate."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__559c.html",
+      "checked_on": "2026-09-14",
+      "supports": "Eigenständiges vereinfachtes Verfahren mit Erhaltungspauschale; nicht mit regulärer Schätzung vermischen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__559e.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gesondertes Verfahren für Heizungsmaßnahmen; Verfahrenswahl muss vor der Rechnung erfolgen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2019/VIII_ZR__81-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Versäumnisurteil vom 17.06.2020, Az. VIII ZR 81/19, Leitsätze und Randnummer 49: Abzug bei funktionsfähigen abgenutzten Bauteilen, Teilbarkeit und Vermieterbeweislast. Amtliches PDF direkt abgerufen und textlich gelesen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der frühere Einstieg erklärte jeden Vorgang zum Zahlungsverzug, lieferte dann WEG-Beschlussprüfung und verwendete Schönheitsreparaturentscheidungen als allgemeine Fallanker.",
+    "changes": [
+      "Vertragsart und konkreten Auftrag vor der Fachroute verankert.",
+      "Individuelle Outputs für Mietkonto, Betriebskosten, Mangel, Modernisierung und WEG eingeführt.",
+      "Pauschalen Abbruch bei drohender Räumung durch priorisierte Schutzvorbereitung ersetzt.",
+      "Kostenbezogenen amtlichen Anker mit begrenzter Tragweite und eigenständige Quellenregeln eingebaut."
+    ],
+    "sha256": "bd66a9c4eeb409d996c6bc42599f32bfdceab67ace23af0c61f21103ea5f375c"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie die Fenster- und Fassadenumlage gegen Schlussrechnungen, Zuschüsse und Bauteilalter und erstellen Sie meine Wohnungsgegenrechnung.",
+      "Die Verwaltung zählt Abschläge und Schlussrechnung zusammen; rekonstruieren Sie den Erhaltungsabzug und die verbleibende Kappungsgrenze."
+    ],
+    "negative": [
+      "Entwerfen Sie eine WEG-Anfechtung ausschließlich wegen eines Einladungsfehlers.",
+      "Prüfen Sie ausschließlich die Duldung eines noch nicht begonnenen Balkonumbaus ohne Mieterhöhungserklärung."
+    ],
+    "target_skill": "modernisierung-rechnungsabgleich-erhaltungsanteil"
+  },
+  "cases": [
+    {
+      "id": "fenster-fassade-abschlag-und-kappung",
+      "request": "Vertreten Sie die Mieterin einer 60 Quadratmeter großen Wohnung. Erstellen Sie ergebnis.md mit Gegenrechnung und Einwendungsentwurf. Aktuelle Nettokaltmiete 390 EUR, darin eine wirksame Modernisierungserhöhung von 30 EUR monatlich aus 2023; weitere Erhöhungen gab es seit 2020 nicht. Das Haus hat 600 Quadratmeter gleichartig betroffene Wohnfläche. Im regulären Verfahren wurden im Mai 2026 Fassadendämmung und Fensteraustausch abgeschlossen, keine Heizungsmaßnahme. Eine ordnungsgemäße Ankündigung vom Dezember 2025 nannte 150 EUR monatliche Erhöhung. Die Erklärung ging am 10.06.2026 zu und fordert ab 01.09.2026 weitere 150 EUR. Alle Flächen und der Verteilungsschlüssel sind unstreitig. Die Fassadenschlussrechnung beträgt 120.000 EUR einschließlich eines bereits abgerechneten Abschlags von 20.000 EUR; eine gesonderte Gutschrift beträgt 5.000 EUR. Das Förderkonto weist einen endgültigen öffentlichen Fassadenzuschuss von 25.000 EUR aus. Ein von beiden Parteien akzeptierter Baubericht ordnet 30.000 EUR der Fassadenkosten ersparter Erhaltung zu. Die Fensterschlussrechnung beträgt 60.000 EUR. Die noch funktionierenden Fenster waren 35 Jahre alt; der Baubericht beziffert den angemessenen Erhaltungsabzug unstreitig mit 24.000 EUR. Energetische Verbesserung ist nachgewiesen. Der Vermieter addiert den Fassadenabschlag nochmals, zieht nur den Zuschuss ab und bestreitet allein wegen der Funktionsfähigkeit jeden Fensterabzug. Weitere Kosten, Zinsermäßigungen und Härtegründe bestehen nicht. Erklären Sie rechnerische und rechtliche Folgen, ohne selbst Zahlungen oder Erklärungen zu veranlassen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Rechnung berücksichtigt den Abschlag nicht nochmals und ermittelt nach Gutschrift, Erhaltung und Zuschuss 60.000 EUR Fassadenkosten sowie 36.000 EUR Fensterkosten, insgesamt 9.600 EUR Wohnungsanteil.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Ergebnis berechnet 64 EUR monatliche reguläre Erhöhung und vergleicht sie mit 90 EUR verbleibendem Kappungsrahmen; es gibt weder 150 EUR noch die Kappungsgrenze selbst als berechneten Anspruch aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Begründung verwirft Funktionsfähigkeit als Ausschlussgrund für Erhaltungsabzug, verwendet den akzeptierten Baubericht statt einer erfundenen Lebensdauerquote und ordnet die Kostenbeweislast dem Vermieter zu.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Der Entwurf trennt fehlerhafte Höhe vom grundsätzlich passenden Beginn am 01.09.2026 und behauptet weder automatische Gesamtnichtigkeit noch eine bereits versandte Erklärung oder zulässige pauschale Zahlungseinstellung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "modernisierung-rechnungsabgleich-erhaltungsanteil"
+    }
+  ]
+}

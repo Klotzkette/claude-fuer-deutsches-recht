@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "plugin": "ecommerce-recht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__312j.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 4 knüpft die Vertragsfolge an Absatz 3; Absatz 5 erfasst ausschließlich individuelle Kommunikation, nicht beliebige ausgehandelte Dienstleistungen."
+    },
+    {
+      "url": "https://curia.europa.eu/jcms/upload/docs/application/pdf/2022-04/cp220060de.pdf",
+      "checked_on": "2026-09-14",
+      "supports": "Gerichtliche Pressemitteilung 60/22, Seite 2: konkrete Bewertung von Buchung abschließen durch nationales Gericht; kein verifizierter Urteilsvolltext."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die konkrete Nutzerstrecke bleibt erhalten. Der Kernskill vermischt aber die Rechtsfolgen der Informations- und Buttonpflicht und beschreibt die Ausnahme zu weit.",
+    "changes": [
+      "Absätze 2, 3 und 4 getrennt.",
+      "Ausnahme individueller Kommunikation präzisiert und belegbasierte Prüfung ohne Live-Shop ermöglicht."
+    ],
+    "sha256": "3f07f900a0c47c00a6215a902b76e669d6ad1e90b94994d951ad136500a32194"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die mobile Bestellstrecke unseres Verbrauchershops.",
+      "Erstelle Ersatztexte für Preisübersicht und Bestellbutton."
+    ],
+    "negative": [
+      "Berechne allein den Körperschaftsteueraufwand des Shops.",
+      "Prüfe einen ausschließlich mündlichen B2B-Großhandelsvertrag."
+    ]
+  },
+  "cases": [
+    {
+      "id": "button-korrekt-versand-versteckt",
+      "request": "Ein deutscher Shop verkauft Verbrauchern Möbel. Der letzte mobile Bildschirm nennt den Stuhlpreis von 120 Euro und einen gut lesbaren Button Zahlungspflichtig bestellen. Die zusätzlichen Versandkosten von 30 Euro erscheinen nur hinter einem geschlossenen Akkordeon und erstmals offen in der späteren Bestätigung. Alle anderen Vertragsschlussvoraussetzungen sind unstreitig; die Bildschirmtexte stammen aus einer gesicherten Version vom 01.09.2026. Ein Mitarbeiter meint, wegen der versteckten Versandkosten sei nach Paragraf 312j Absatz 4 zwingend kein Vertrag entstanden. Erstelle ergebnis.md mit Bewertung dieser Aussage und einer korrigierten Bestellübersicht, ohne den Shop zu verändern.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis unterscheidet den Informationsfehler von der erfüllten Buttonpflicht und leitet nicht allein aus Absatz 2 automatisch die Rechtsfolge des Absatzes 4 ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Ersatzübersicht zeigt 150 Euro Gesamtpreis und die enthaltenen 30 Euro Versand unmittelbar vor Bestellung statt nur hinter einem geschlossenen Bereich.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Prüfung arbeitet mit der gesicherten Mobilversion und behauptet keinen selbst durchgeführten Testkauf oder Livezugriff.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "button-loesung-312j-bgb"
+    },
+    {
+      "id": "individuelle-konditionen-standardcheckout",
+      "request": "Erstelle ergebnis.md als Prüfung des Bestellablaufs. Ein Verbraucher verhandelt per E-Mail einen individuellen Preis von 900 Euro für eine Beratungsleistung. Beide Seiten vereinbaren ausdrücklich, dass noch kein Vertrag geschlossen ist und die Annahme erst über den normalen Shop-Checkout erfolgen soll. Dort stehen alle Pflichtinformationen korrekt. Der endgültige Bestellbutton trägt nur Weiter. Der Unternehmer meint, wegen individuell ausgehandelter Dienstleistung gelte die Buttonregel nicht. Prüfe die Ausnahme und die Vertragsfolge anhand dieses Ablaufs.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Prüfung behandelt den Vertragsschluss über den Standardcheckout nicht als ausschließlich individuelle Kommunikation.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Individueller Preis und Dienstleistungscharakter allein begründen keine Ausnahme nach Paragraf 312j Absatz 5.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Ergebnis knüpft die fehlende Vertragsbindung an den unzureichenden endgültigen Button nach Absatz 3 und 4, nicht an einen hier nicht vorliegenden Informationsfehler.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "button-loesung-312j-bgb"
+    }
+  ]
+}

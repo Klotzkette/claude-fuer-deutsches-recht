@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "plugin": "kanzlei-management",
+  "reviewed_on": "2026-09-14",
+  "sources": [],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der alte Text wiederholte die allgemeine Mandatsannahme statt der Managementaufgabe. Änderungen betreffen betriebliche Rechen- und Entscheidungslogik, keine neue rechtliche Schwelle oder Diagnose.",
+    "changes": [
+      "Liquidität, Forderung und nicht abgerechnete Arbeit unterschieden.",
+      "Wochenübertrag, Zahlungsdatum, Fremdgeldabgrenzung und Szenarien konkretisiert.",
+      "Entscheidungsvorlage statt generischer Mandatsakte."
+    ],
+    "sha256": "22c946b7c141ddaba56da26da3511738ea6c045eecbf70eec665abdb07c940db"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe unsere Liquidität für die nächsten belegten Wochen.",
+      "Erkläre, warum hohe Zeitbuchungen nicht zu mehr verfügbarem Geld führen."
+    ],
+    "negative": [
+      "Nimm ein neues Einzelmandat mit Vollmachtsprüfung auf.",
+      "Stelle allein aus einer Wochenvorschau verbindlich Zahlungsunfähigkeit fest."
+    ]
+  },
+  "cases": [
+    {
+      "id": "fremdgeld-und-wip-im-cashflow",
+      "request": "Erstelle ergebnis.md für die Kanzleileitung. Der Anfangsbankbestand beträgt 120.000 Euro, davon sind 30.000 Euro ausdrücklich als nicht verfügbares Fremdgeld ausgewiesen. In Woche eins werden 20.000 Euro Honorare sicher eingehen und 70.000 Euro Betriebsausgaben bezahlt. In Woche zwei sind keine Einzahlungen belegt und 50.000 Euro feste Auszahlungen fällig. Zusätzlich stehen 80.000 Euro noch nicht abgerechnete Arbeit in der Zeitliste; ein Rechnungstermin und Zahlungstermin fehlen. Kreditlinien sind nicht zugesagt. Die Leitung möchte eine Zweiwochenrechnung und den ersten Engpass, keine rechtliche Insolvenzdiagnose und keine tatsächlichen Zahlungsanweisungen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Rechnung beginnt mit 90.000 Euro verfügbarem Betriebsbestand und weist nach Woche eins 40.000 Euro aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Woche zwei zeigt einen rechnerischen Fehlbetrag von 10.000 Euro; die 80.000 Euro Zeitlistenwert werden nicht ohne Zahlungsbeleg als Einzahlung angesetzt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Ausgabe trennt Liquiditätswarnung von rechtlicher Diagnose und nennt konkrete zu klärende Zahlungs- oder Finanzierungsannahmen ohne Zusagen zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "cashflow-13-wochen"
+    }
+  ]
+}

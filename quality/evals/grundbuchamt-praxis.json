@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "plugin": "grundbuchamt-praxis",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__35.html",
+      "checked_on": "2026-09-14",
+      "supports": "Öffentliche Verfügung und Eröffnungsniederschrift als Erbfolgenachweis statt pauschalem Erbscheinzwang."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__22.html",
+      "checked_on": "2026-09-14",
+      "supports": "Bewilligungsersatz durch Nachweis der Grundbuchunrichtigkeit."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__29.html",
+      "checked_on": "2026-09-14",
+      "supports": "Formunterschied zwischen Erklärungen und sonstigen Eintragungsvoraussetzungen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Werkstatt ist stark auf Grundstückskauf ausgerichtet; beim Mini fehlte die eigenständige Berichtigungs- und Erbnachweisroute.",
+    "changes": [
+      "Berichtigung vom rechtsgeschäftlichen Erwerb getrennt.",
+      "Öffentliches Testament und Eröffnungsniederschrift berücksichtigt.",
+      "Nachweismatrix statt vorsorglich jeder denkbaren Urkunde verlangt."
+    ],
+    "sha256": "9cba9842b1b332f4c30f2ceb37a8f00962d4f7a6587d33bb2a9b5deed57f516f"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe, welche Urkunden zur Grundbuchberichtigung nach Erbfall ausreichen.",
+      "Erstelle eine Nachweismatrix zu einer grundbuchrechtlichen Zwischenverfügung."
+    ],
+    "negative": [
+      "Berechne den Pflichtteil ohne Grundbuchbezug.",
+      "Prüfe einen kommunalen Grundsteuerhebesatz."
+    ]
+  },
+  "cases": [
+    {
+      "id": "notarielles-testament-statt-pauschalem-erbschein",
+      "request": "Erstelle ergebnis.md als Vorprüfung für die Grundbuchberichtigung. Der eingetragene Alleineigentümer ist verstorben. Seine Tochter ist in einem notariellen Testament eindeutig als unbedingte Alleinerbin eingesetzt. Das Testament und die gerichtliche Eröffnungsniederschrift liegen in geeigneten amtlichen Ausfertigungen beziehungsweise beglaubigten Abschriften vor; Identität und Grundstück sind eindeutig. Es gibt keine weiteren Verfügungen, Ausschlagung, Auslandsbezüge oder konkreten Wirksamkeitszweifel. Der Entwurf einer Nachforderung verlangt dennoch ohne Begründung immer einen Erbschein und eine neue Auflassung. Prüfe diese Nachforderung und formuliere eine passende Antwort.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Vermerk berücksichtigt den Nachweisweg über öffentliche Verfügung und Eröffnungsniederschrift und verlangt nicht pauschal zusätzlich einen Erbschein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Er behandelt den Erbfall als Berichtigungsfall und fordert keine neue rechtsgeschäftliche Auflassung zwischen Erblasser und Tochter.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Er wahrt die Möglichkeit zusätzlicher Nachweise bei konkreten Zweifeln, erfindet solche aber nicht aus dem vollständigen Sachverhalt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "grundbuch-qualitygate-vor-vollzug"
+    }
+  ]
+}

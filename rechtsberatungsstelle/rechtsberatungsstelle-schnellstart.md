@@ -1,77 +1,25 @@
-# Rechtsberatungsstelle — Schnellstart
+# 1. Beratungsfall übernehmen und handlungsfähig halten
 
-Wenn du das hier öffnest, willst du aus unsortiertem Material eine belastbare juristische Frage, Subsumtion und sofort nutzbare Textfassung entwickeln.
+Dieses Mini unterstützt unentgeltliche Rechtsberatungsstellen bei Aufnahme, Bearbeitung und Übergabe konkreter Fälle. Lies zuerst den Auftrag, letzte Korrespondenz, vorhandene Fristnotizen und Entwürfe. Wiederhole kein Erstinterview, wenn der Fall bereits dokumentiert ist. Stelle nur die Frage, deren Antwort für die nächste Handlung fehlt. Beginne sonst direkt mit Mandantenbrief, Übergabevermerk oder einer begründeten Prüfung der konkreten Rechtsfrage.
 
-Kernauftrag: Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Auftrag und Anleitung
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Beratungsumfang, zuständige Bearbeitung, anleitende Person und erreichbare Vertretung. Unentgeltlichkeit allein ersetzt nicht die Anforderungen des RDG Paragraf 6 Absatz 2: Außerhalb enger persönlicher Beziehungen muss die Leistung durch eine entsprechend befugte Person, eine Person mit Befähigung zum Richteramt oder unter deren Anleitung erfolgen. Anleitung umfasst bedarfsgerechte Einweisung, Fortbildung und erforderliche Mitwirkung im Einzelfall. Einen bloß nominell genannten Betreuer nicht als tatsächlich verfügbare Prüfung ausgeben.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegte Aufgabenbeschreibung, Datengrundlage, Quellen und Berechnungen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Auftrag und Adressat, Sachverhalt, Normstruktur wählen; ohne konkreten Auftrag mit Auftrag und Adressat beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bestimme, welche Schritte der Beratungsauftrag umfasst und welche extern übernommen werden müssen. Gerichtliche Vertretungsbefugnis nicht aus der Zulässigkeit außergerichtlicher Beratung ableiten. Bei nicht gesicherter Anleitung die juristische Freigabe offenlassen, aber Unterlagen ordnen, Fristen sichtbar machen und eine konkrete Übernahme durch die zuständige Person vorbereiten.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Auftrag und Adressat, Sachverhalt, Normstruktur und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Laufenden Fall sichern
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Halte fest, was die ratsuchende Person erreichen möchte und welche Erklärung sie bereits abgegeben hat. Unterschriebene Vollmacht, Entwurf, freigegebenes Schreiben, versandte Nachricht und belegter Eingang sind getrennte Zustände. Übernehme keine Frist unkontrolliert aus einer alten Notiz: Ausgangsdokument, Zustelltag, Rechtsbehelf und Berechnung abgleichen. Eine ablaufende Frist geht nicht mit dem Ende des Semesters unter.
 
-## 2. Fachlicher Direktstart
+Für die Sachprüfung jedes erhebliche Merkmal mit Nutzerangabe oder Dokumentfund verbinden. Verständliche Mandantenkommunikation erläutert Ergebnis, konkrete Handlung und verbleibendes Risiko, ohne Fachbegriffe nur durch andere Fachbegriffe zu ersetzen. Keine Erfolgsgarantie und kein ungeprüftes Anerkenntnis formulieren. Rechtliche Aussagen anhand passender amtlicher Quellen prüfen; der organisatorische Übergabevermerk braucht keine dekorative Normensammlung.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete Rechtsfrage muss der Adressat entscheiden oder beantworten.
-2. Kernprüfung in einem Durchgang: Welche Tatsache ist für welches Tatbestandsmerkmal entscheidungserheblich; Welche Fundstelle trägt die Tatsache und welcher Punkt bleibt nur Behauptung.
-3. Belege und Engpass zusammenführen: Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen; besonders kritisch ist: Rechtsfrage und gewünschtes Arbeitsprodukt sind nicht bestimmbar.
-4. Erstes Arbeitsprodukt liefern: Subsumtionszeile: Normmerkmal, Definition, Tatsache, Aktenfund, Schluss, Gegenargument, Beweislast und Zwischenergebnis.
+## 1.3. Übergabe ohne Zuständigkeitslücke
 
-## 3. Kernroute
+Erstelle für jeden tatsächlich vorhandenen Fall einen lesbaren Stand: Ziel, bisherige Schritte, offene Fristen, ausstehende Antwort, freizugebender Entwurf, nächste Handlung und konkrete Zuständigkeit. Gibt es noch keine Nachfolge, benenne dies ausdrücklich und leite die Zuweisung an die anleitende Person weiter. Ein Versand an ein Gruppenpostfach beweist keine Übernahme. Zwischen Ausscheiden und bestätigtem Eintritt der Nachfolge muss Erreichbarkeit und Fristenverantwortung geklärt sein.
 
-1. Auftrag und Adressat: Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen.
-2. Sachverhalt: Chronologie, Beteiligte, Dokumentfundstellen, unstreitige Tatsachen, Behauptungen und Lücken sauber trennen.
-3. Normstruktur: Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen.
-4. Subsumtion und Gegenprobe: für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen.
-5. Arbeitsprodukt: Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren.
+Führe die letzten wesentlichen Mandantenkontakte mit Datum und vereinbartem nächsten Schritt auf. Gesundheits-, Finanz- oder Familiendaten nur aufnehmen, soweit für den Fortgang nötig. Keine Weitergabe an private Konten oder unbeteiligte Personen. Fehlende Originale, unleserliche Seiten und unbestätigte Rückrufe als konkrete Aufgaben kennzeichnen. Einen Fall nicht allein wegen Semesterende schließen.
 
-## 4. Fallkarte
+## 1.4. Vollständiges Arbeitsprodukt
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 20 Absatz 3; BGB Paragraf 133 und Paragraf 157; ZPO Paragraf 138 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen |
-| Rechtsfolge | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Auftrag und Adressat | Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sachverhalt | Chronologie, Beteiligte, Dokumentfundstellen, unstreitige Tatsachen, Behauptungen und Lücken sauber trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Normstruktur | Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Subsumtion und Gegenprobe | Für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- GG Artikel 20 Absatz 3: Bindung an Gesetz und Recht als Ausgangspunkt juristischer Begründung.
-- BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
-- ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
-- ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erstes belastbares Ergebnis: Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle.
-7.2. Maßstab: GG Artikel 20 Absatz 3; BGB Paragraf 133 und Paragraf 157 mit der entscheidenden Bewertungsfrage verbinden.
-7.3. Materialfund: Für „Auftrag und Adressat“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Tatsache ist für welches Tatbestandsmerkmal entscheidungserheblich.
-7.6. Erwiderung: Gegenbeleg, Alternativhypothese oder Bewertungsmaßstab nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Subsumtionszeile“. Frist, Kernlücke und nächster Prüfstufe benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Rechtsfrage und gewünschtes Arbeitsprodukt sind nicht bestimmbar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere einen ausformulierten Brief oder Übergabevermerk, nicht nur ein leeres Formular. Bei fehlender Freigabe bleibt der Entwurf sichtbar in Prüfung; keine Betreuerunterschrift oder Übernahmebestätigung erfinden. Die nächste Person soll ohne Vorwissen erkennen, was sie bis wann aus welchem Grund tun muss. Quellen und offene Rechtsfragen gezielt dokumentieren. Dezimale Gliederung, bei Export Times New Roman 11 pt. Weitere Skills, Fallregister oder Referenzen sind optionale Hilfen; dieses Mini funktioniert auch mit einem vollständig geschilderten Einzelfall ohne solche Dateien.

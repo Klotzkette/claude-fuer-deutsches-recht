@@ -7,9 +7,9 @@ description: "Für Finanzplan und Module: ordnet Norm, Beweislast und Gegenargum
 
 ## Worum geht es
 
-Der Finanzplan ist **ein wissenschaftliches Argument in Zahlen**. Jede Position muss sichtbar machen, welches Arbeitspaket ohne sie schwächer oder unmöglich wäre. Reviewer und Hauptausschuss können kürzen — wer keine AP-Funktion pro Position hat, wird gekürzt. Wer überzogene Positionen hat, wird stärker gekürzt. Wer aber jede Position aus dem Arbeitsprogramm ableitet und sauber begründet, bekommt typisch 85 bis 100 Prozent.
+Leite jede Finanzposition aus dem Arbeitsprogramm ab: Aufgabe, benötigte Ressource, Zeitraum, vorhandene Ausstattung und beantragter Betrag. Eine nachvollziehbare Begründung ist keine Zusage einer Bewilligung oder eines bestimmten Bewilligungsanteils. Keine Bewilligungsquote aus der Qualität des Entwurfs ableiten.
 
-**Alte-Hasen-Faustregel:** Personal ist immer der größte Block (typisch 60 bis 85 Prozent). Wer hier verschwurbelt, verliert. Faustregel beim ersten Entwurf: 70 Prozent Personal, 15 Prozent Sachmittel, 10 Prozent Reisen, 5 Prozent Sonstiges. Wenn das Verhältnis stark abweicht, kommt eine Begründung dazu.
+Keine festen Anteile für Personal, Sachmittel, Reisen oder Sonstiges vorgeben. Maßgeblich sind das konkrete Förderprogramm, zulässige Module und der begründete Bedarf. Für die Sachbeihilfe führt die [aktuelle DFG-Programmseite](https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/sachbeihilfe/formulare-merkblaetter) Programmmerkblatt 50.01, Antragsleitfaden 54.01 und die jeweiligen Modulmerkblätter, insbesondere Basismodul 52.01. Verzeichnis am 14.09.2026 geprüft. Vor Berechnung die geltenden Dokumentfassungen samt Übergangsregeln öffnen und konkrete Kostenregel, Fundstelle und Abrufdatum festhalten; ein Verzeichniseintrag ersetzt nicht die Prüfung des Merkblatts.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -31,12 +31,10 @@ Kaltstartfragen:
 
 **Personalmittel.**
 
-- **TV-L 13** für promovierende WMA und frühe Postdocs.
-- **TV-L 14** für erfahrene Postdocs mit eigenständiger Projektverantwortung.
-- **Doktorand:** typisch TV-L 13, 65 bis 75 Prozent (Faustregel, je nach Disziplin und institutioneller Praxis).
-- **Postdoc:** typisch TV-L 13, 100 Prozent.
-- **Studentische Hilfskräfte (SHK):** Stundensatz nach Landestarif, typisch 9 bis 13 Euro/Std. — Antragsteller verifiziert aktuellen Satz.
-- **Tarifsteigerungen einplanen** — bei Mehrjahresprojekten 2 bis 3 Prozent pro Jahr ansetzen.
+- Personalkategorie, Qualifikation, Beschäftigungsumfang und Monate aus der Aufgabe und den geltenden Programm- und Fachvorgaben bestimmen; keine pauschale Entgeltgruppe oder Promotionsstellenquote vorgeben.
+- Für den Antrag die einschlägigen aktuellen DFG-Personalmittelsätze verwenden, soweit das Programm diese vorsieht. Institutionelle Tarifkosten gesondert plausibilisieren, nicht ungeprüft an die Stelle des Antragssatzes setzen.
+- Hilfskraftkosten anhand der maßgeblichen aktuellen Regelung belegen. Fehlende Sätze als offene Eingabewerte kennzeichnen.
+- Keine pauschalen jährlichen Tarifaufschläge hinzurechnen. Prüfen, welche Anpassungen der maßgebliche Satz bereits enthält und ob zusätzliche Ansätze nach der konkreten Förderregel zulässig sind.
 
 **Sachmittel.**
 
@@ -50,7 +48,7 @@ Kaltstartfragen:
 - **Datenerhebung:** Reiseziele konkret.
 - **Kooperationstreffen:** mit Kooperationsschreiben in Anlage belegt.
 
-**Publikationsmittel.** Pauschale pro Jahr (Stand 2024 etwa 750 Euro — vom Antragsteller live verifizieren). Wer mehr braucht (Open-Access in Gold-Journalen), beantragt explizit.
+Publikationsmittel: zulässige Kostenart, Pauschale oder Einzelansatz aus dem geltenden Modulmerkblatt belegen. Keine historische Zahl fortschreiben und keinen ungedeckten Mehrbedarf automatisch als beantragbar behandeln.
 
 **Modul Eigene Stelle.** Volle Stelle TV-L 13 oder 14 für den Antragsteller selbst, wenn keine Dauerstelle vorhanden. Volle Begründung, dass institutionell keine Stelle verfügbar ist.
 
@@ -64,13 +62,13 @@ Kaltstartfragen:
 
 ## Praxisleitfaden
 
-**Was schnelle Genehmigung produziert.**
+Was den Finanzplan prüffähig macht:
 
 - **Personal-zu-AP-Matrix in Tabellenform.** Jede Person, jede Prozentangabe, jedem AP zugeordnet.
-- **Personalkosten realistisch berechnet** — Tarifrechner der Heimatuniversität benutzen, nicht aus dem Kopf. Inklusive AG-Anteil!
+- Personalkosten mit belegtem Antragssatz und Rechenweg ausweisen; enthaltene Arbeitgeberkosten nicht nochmals aufschlagen.
 - **Geräte begründet** durch Arbeitspaket-Funktion plus Beleg, dass an der Institution nicht vorhanden.
 - **Reisemittel konkret** — drei Konferenzbeispiele besser als "Reisemittel für Konferenzen pauschal".
-- **Modulwahl knapp** — drei statt sechs Module.
+- Modulwahl nach zulässigem und begründetem Bedarf, nicht nach einer vorgegebenen Anzahl.
 
 **Was Reviewer triggert (Personalplanung-Falle).**
 
@@ -110,16 +108,16 @@ Kaltstartfragen:
 | --- | --- | --- | --- |
 | Personal-Stärke | überdimensioniert | minimal | Realistisch, jede Stelle AP-funktional |
 | Geräte beantragen vs. mitnutzen | Neukauf | Mitnutzung am Institut | Mitnutzung wenn möglich, Neukauf nur bei klarer Notwendigkeit |
-| Module wenige vs. viele | 2 Module | 5+ Module | Wenige, jedes klar begründet |
+| Modulumfang | einzelne Module | mehrere Module | Jedes Modul anhand Programmzulässigkeit und Bedarf begründen |
 | Reisemittel konkret vs. pauschal | konkrete Konferenzen | pauschale Reisemittel | Konkret, mindestens beispielhaft |
-| Tarifsteigerung einplanen | aufschlagen | nicht aufschlagen | Aufschlagen — Reviewer rechnet nach |
+| Tarifänderung | gesonderter Ansatz | im Antragssatz enthalten | Förderregel und Satzbestandteile prüfen; keine Doppelzählung |
 | Minimal- vs. Idealbudget | Minimal | Ideal mit Optionen | Ideal beantragen, Minimal in Kürzungsabwehr bereit halten |
 
 ## Schritt für Schritt
 
 1. **Arbeitspakete als Anker.** Jede Finanzposition muss eine AP-Funktion haben.
 2. **Personalmatrix bauen** (Tabelle: Person — Stellenkategorie — Prozent — AP-Zuordnung — Monate).
-3. **Tarifrechner der Heimatuniversität anwerfen** — Personalkosten inklusive AG-Anteil und Tarifsteigerung.
+3. Geltenden Antragssatz mit Quelle dokumentieren; institutionelle Vergleichskosten getrennt rechnen und enthaltene Kostenbestandteile nicht doppelt ansetzen.
 4. **Geräte/Verbrauchsmittel** pro AP zuordnen.
 5. **Reisemittel** mit konkreten Beispielen.
 6. **Modulwahl** treffen, jedes Modul begründen.
@@ -162,12 +160,12 @@ Kaltstartfragen:
 | Reisen diffus | konkrete Konferenzen genannt (Liste in Antrag) |
 | Workshop dekorativ | klarer Output definiert (Datenvalidierung gemeinsam mit Partnern) |
 | TV-L 14 statt 13 | Postdoc-Profil und eigenständige Verantwortung ausgewiesen |
-| Doktorand 100% statt 65% | nicht: bei TV-L 13 typisch 65% — Stundenangabe geprüft |
+| Beschäftigungsumfang einer Promotionsstelle | Arbeitsumfang und einschlägige Fach- und Programmvorgaben belegen, keine Standardquote unterstellen |
 
 ## Typische Fehler
 
 - 3 Doktoranden für 1 Themenfeld ohne AP-Differenzierung.
-- Tarifsteigerung vergessen — im letzten Projektjahr fehlen 5.000 Euro.
+- Veralteten Antragssatz verwenden oder bereits enthaltene Anpassungen nochmals aufschlagen.
 - Gerät beantragt, das die Institution bereits hat (Reviewer-Insider weiß das).
 - Reisemittel ohne Konferenz-Beispiele.
 - Mercator Fellow ohne Kooperationsschreiben.
@@ -175,7 +173,7 @@ Kaltstartfragen:
 - "Sonstiges" als undurchsichtige Puffer-Position.
 - Chancengleichheits-Modul pauschal "für Maßnahmen" ohne konkreten Bedarf.
 - Eigenmittel der Institution nicht ausgewiesen.
-- Personalkosten ohne AG-Anteil gerechnet (das geht systematisch schief um 20 bis 25 Prozent).
+- Bestandteile des Personalmittelsatzes ungeprüft weglassen oder doppelt rechnen.
 - Programmpauschale für die Universität vergessen zu erwähnen.
 
 ## Regelungs- und Quellenanker

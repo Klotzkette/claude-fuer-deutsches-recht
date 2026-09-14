@@ -1,77 +1,33 @@
-# Subsumtions Prüfer — Schnellstart
+# 1. Subsumtion prüfen: Schnellstart
 
-Wenn du das hier öffnest, willst du eine Klausur, Hausarbeit oder Fallfrage im Gutachtenstil lösen oder Methodik und Theorie dahinter sauber erarbeiten.
+Prüfe eine konkrete rechtliche Schlussfolgerung anhand von Norm, Definition und Sachverhalt. Lies Fallfrage, Bearbeitervermerk, vorgelegte Lösung und Quellen zuerst. Liefere eine korrigierte Subsumtion oder ein Fehlerprotokoll, nicht ungefragt eine vollständige Hausarbeit.
 
-Kernauftrag: Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Prüfauftrag begrenzen
 
-## 1. Sofortstart nach Eingangslage
+Erfasse begehrte Rechtsfolge, Rechtsgebiet, maßgeblichen Zeitpunkt und streitiges Merkmal. Trenne Ausbildungsfall mit feststehendem Sachverhalt von realem Streit mit Beweisfragen. Im Ausbildungsfall keine Zeugenermittlung erfinden; im realen Fall eine Behauptung nicht ungeprüft als feststehend behandeln.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegte Aufgabenbeschreibung, Datengrundlage, Quellen und Berechnungen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Fallfrage, Aufbau, Subsumtion wählen; ohne konkreten Auftrag mit Fallfrage beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Prüfe, ob die vorgeschlagene Norm überhaupt die begehrte Rechtsfolge trägt. Tatbestandsmerkmal, Ausnahme, Einwendung, Einrede und Rechtsfolge nicht vermischen. Bei mehreren Anspruchsgrundlagen die sinnvolle Reihenfolge wählen, nicht jedes denkbare Rechtsgebiet abarbeiten.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Fallfrage, Aufbau, Subsumtion und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Vier Schritte mit tatsächlicher Zuordnung
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Formuliere Obersatz, überprüfbare Definition, fallbezogene Subsumtion und Ergebnis. In der Subsumtion die konkrete Tatsache mit dem einzelnen Definitionsmerkmal verknüpfen. Eine wiederholte Normformulierung oder die Wendung „dies liegt vor“ ohne Tatsachenbezug genügt nicht.
 
-## 2. Fachlicher Direktstart
+Führe „Merkmal / Maßstab mit Quelle / einschlägige Tatsache / Gegenargument / Schluss“. Zeige bei Fehlern die genaue logische Lücke: fehlende Voraussetzung, unzulässiger Umkehrschluss, Zirkelschluss, vertauschte Lastregel oder unbelegte Tatsachenannahme. Nicht nur den Stil verbessern, wenn die Rechtsfolge falsch ist.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Was ist die exakte Fallfrage und welche Rechtsfolge wird begehrt.
-2. Kernprüfung in einem Durchgang: Welche Anspruchsgrundlagen kommen in welcher Reihenfolge in Betracht; Welches Merkmal ist problematisch und trägt den Schwerpunkt.
-3. Belege und Engpass zusammenführen: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe; besonders kritisch ist: Abgabefrist oder Bearbeitungszeit ist fast erschöpft; erst Gerüst, dann Feinschliff.
-4. Erstes Arbeitsprodukt liefern: Gutachtensatz: Obersatz, Definition, Subsumtion mit Sachverhaltszitat, Zwischenergebnis.
+Ist ein entscheidendes Detail offen, liefere klar getrennte Varianten. Keine zusätzliche Tatsache erfinden, um die gewünschte Lösung zu retten. Streitstände nur vertiefen, wenn sie den Ausgang beeinflussen.
 
-## 3. Kernroute
+## 1.3. Beweismaß und Rechtsfolge
 
-1. Fallfrage: Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen.
-2. Aufbau: Anspruchsgrundlagen in sinnvoller Reihenfolge, Hilfsgutachten und Schwerpunktsetzung anlegen.
-3. Subsumtion: Obersatz, Definition, Subsumtion, Ergebnis je Merkmal in ganzen Sätzen durchführen.
-4. Streitstand: Meinungen mit Argumenten darstellen, entscheiden und nur entscheidungserheblich vertiefen.
-5. Arbeitsprodukt: Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren.
+Bei realen Zivilfällen Tatbestandsprüfung und Beweiswürdigung auseinanderhalten. Paragraf 287 ZPO ist keine Regel „Schätzung nur bei Ausschluss anderer Beweismittel“. Er betrifft insbesondere die Entscheidung über Schadenseintritt und Schadenshöhe im gesetzlichen Anwendungsbereich mit eigener Würdigung; tragfähige tatsächliche Grundlagen bleiben erforderlich. Quelle: https://www.gesetze-im-internet.de/zpo/__287.html
 
-## 4. Fallkarte
+Eine plausible Zahl nicht als bewiesenen Anspruch behandeln. Hauptforderung, Nebenforderung, Zurückbehaltungsrecht und Einrede getrennt prüfen. Bei Verjährung etwa Entstehung des Anspruchs und verweigerbare Durchsetzung nicht gleichsetzen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 133 und Paragraf 157; GG Artikel 20 Absatz 3; ZPO Paragraf 286 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen |
-| Beweislast | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe |
-| Rechtsfolge | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Nach positiver Tatbestandsprüfung die genaue Rechtsfolge formulieren: Anspruch gegen wen, worauf, in welchem Umfang und gegebenenfalls unter welcher Bedingung? Keine automatische Vollstreckbarkeit aus einem materiellen Anspruch ableiten.
 
-## 5. Einsatzfelder
+## 1.4. Konkretes Ergebnis
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Fallfrage | Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufbau | Anspruchsgrundlagen in sinnvoller Reihenfolge, Hilfsgutachten und Schwerpunktsetzung anlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Subsumtion | Obersatz, Definition, Subsumtion, Ergebnis je Merkmal in ganzen Sätzen durchführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Streitstand | Meinungen mit Argumenten darstellen, entscheiden und nur entscheidungserheblich vertiefen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Liefere zuerst die korrigierte Passage in vollständigen Sätzen, danach knapp Fehlergrund und verbleibende Unsicherheit. Bei reiner Lernhilfe keine tatsächliche Rechtsvertretung behaupten. Bei laufenden Prüfungen die erlaubten Hilfsmittel und den vorgegebenen Arbeitsauftrag respektieren.
 
-## 6. Anker
+Fehlt eine entscheidende Angabe, einmal gebündelt nachfragen und die übrigen Schritte ausarbeiten. Keine Endlosschleife aus neuen Definitionen. Verifizierte Normen und tatsächlich eingesehene Quellen verwenden; keine Kommentarstellen oder Entscheidungen aus Erinnerung ergänzen.
 
-- BGB Paragraf 133 und Paragraf 157: Auslegung als methodisches Grundwerkzeug.
-- GG Artikel 20 Absatz 3: Bindung an Gesetz und Recht als Rahmen der Rechtsanwendung.
-- ZPO Paragraf 286: freie Beweiswürdigung als Maßstab tatsächlicher Feststellungen in der Falllösung.
-- DRiG Paragraf 5 ff.: Ausbildungs- und Prüfungsrahmen der Juristenausbildung.
-- Paragrafen 355-484 ZPO — Beweisaufnahme allgemein; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 ZPO — Freie Beweiswürdigung; volle richterliche Überzeugung erforderlich; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 287 ZPO — Schadensschätzung bei Ausschluss anderer Beweismittel; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 415 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erstes belastbares Ergebnis: Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren.
-7.2. Maßstab: BGB Paragraf 133 und Paragraf 157; GG Artikel 20 Absatz 3 mit der entscheidenden Bewertungsfrage verbinden.
-7.3. Materialfund: Für „Fallfrage“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Anspruchsgrundlagen kommen in welcher Reihenfolge in Betracht.
-7.6. Erwiderung: Gegenbeleg, Alternativhypothese oder Bewertungsmaßstab nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Gutachtensatz“. Frist, Kernlücke und nächster Prüfstufe benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Abgabefrist oder Bearbeitungszeit ist fast erschöpft; erst Gerüst, dann Feinschliff. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Keine Einreichung, Erklärung oder Rechtsentscheidung auslösen. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge an der bereits geprüften Norm- und Tatsachenbasis fortführen.

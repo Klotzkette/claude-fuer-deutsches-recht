@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 160 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-medizinrecht`.
+Diese Vollprüfung enthält top-8 von 161 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-medizinrecht`.
 
 ## Inhaltsverzeichnis
 

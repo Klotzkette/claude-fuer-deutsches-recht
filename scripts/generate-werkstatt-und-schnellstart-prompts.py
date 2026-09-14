@@ -7979,6 +7979,10 @@ def normalize_protected_schnellstart(plugin_dir: Path) -> bool:
     path = plugin_dir / f"{slug}-schnellstart.md"
     if not path.exists():
         return False
+    if has_individual_review(plugin_dir, slug):
+        if not 2500 <= path.stat().st_size < 7500:
+            raise ValueError(f"{slug}: individuell geprüfter Schnellstart außerhalb der Größengrenzen")
+        return False
     before = path.read_text(encoding="utf-8", errors="ignore")
     updated = ensure_title_first(prose_umlauts(before))
     updated = re.sub(
@@ -8017,6 +8021,16 @@ def normalize_protected_schnellstart(plugin_dir: Path) -> bool:
     return True
 
 
+def has_individual_review(plugin_dir: Path, slug: str) -> bool:
+    """Individuelle Fachprüfung schützt vor erneutem Textaufbau aus Vorlagen."""
+    profile_path = REPO / "quality" / "evals" / f"{slug}.json"
+    if not profile_path.exists():
+        return False
+    from quality_lab import load, validate_profile
+    validate_profile(load(profile_path), slug, plugin_dir, REPO)
+    return True
+
+
 def main() -> int:
     dirs = plugin_dirs()
     protected = load_protected()
@@ -8027,6 +8041,10 @@ def main() -> int:
     for plugin_dir in dirs:
         mf = manifest(plugin_dir)
         slug = mf.get("name") or plugin_dir.name
+        if has_individual_review(plugin_dir, slug):
+            skipped += 1
+            skipped_slugs.append(slug)
+            continue
         if slug in protected:
             # Der Haupttext bleibt handkuratiert. Nur der klar markierte,
             # fachmaterialspezifische Vertiefungsblock wird reproduzierbar ergänzt.

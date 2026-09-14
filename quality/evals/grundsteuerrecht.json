@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "grundsteuerrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/ao_1977/__351.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 2: Grundlagenentscheidungen im Grundlagenverfahren angreifen, nicht im Folgebescheid."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Das individuelle Mini unterscheidet Bescheidketten und Landesmodelle bereits richtig. Ein fest eingetragener historischer Aktenname war für einen eigenständigen allgemeinen Download jedoch unpassend.",
+    "changes": [
+      "Fest vorgegebenen Aktenstand durch Ermittlung aus dem jeweiligen Auftrag ersetzt.",
+      "Bestehende getrennte Berechnungs- und Rechtsbehelfsrouten erhalten.",
+      "Historischen Aktenstand November 2024 als konkreten Schutz vor rückdatierten späteren Urteilen erhalten."
+    ],
+    "sha256": "0e3b5bd841267d0af5444733439fc0f00c313f33a2b3a09013bd95f40813a7ad"
+  },
+  "selection": {
+    "positive": [
+      "Ordne Flächenfehler dem richtigen Bescheid der Grundsteuerkette zu.",
+      "Vergleiche Messbetrag, Hebesatz und Jahressteuer mit den Originalbescheiden."
+    ],
+    "negative": [
+      "Berichtige das Eigentümergrundbuch nach Erbfall.",
+      "Berechne Grunderwerbsteuer für einen Anteilskauf."
+    ]
+  },
+  "cases": [
+    {
+      "id": "flaechenfehler-und-neuer-jahresbescheid",
+      "request": "Erstelle ergebnis.md als verfahrensbezogenen Mandantenvermerk für ein Grundstück in Nordrhein-Westfalen im Bundesmodell. Ein Grundsteuerwertbescheid von 2024 wurde nachweislich bekanntgegeben und ist bestandskräftig. Er enthält versehentlich 180 statt 120 Quadratmeter Wohnfläche. Im September 2026 geht ein neuer kommunaler Jahressteuerbescheid zu. Er übernimmt den festgesetzten Messbetrag rechnerisch richtig und verwendet den nachweislich geltenden Hebesatz. Der Mandant möchte nur gegen diesen neuen Jahresbescheid vorgehen und meint, damit sei die Frist für den alten Wertbescheid erneut offen. Ob der Flächenfehler aus der Erklärung oder der Behörde stammt, ist noch ungeklärt. Beurteile die Route, ohne eine noch ungeprüfte Korrekturvorschrift als sicher einschlägig zu behaupten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Flächenfehler wird der Wertebene zugeordnet und nicht allein im inhaltlich richtig abgeleiteten kommunalen Jahresbescheid korrigiert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der neue Jahresbescheid wird nicht als Neubeginn der Einspruchsfrist gegen die bestandskräftige Wertfeststellung behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Vermerk verlangt zur Prüfung einer Änderung konkret Erklärung und behördliche Übernahmeunterlagen und verspricht weder automatische Rückwirkung noch eine bereits sichere Korrektur.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "einspruch-und-aenderungsantrag-entwerfen"
+    }
+  ]
+}

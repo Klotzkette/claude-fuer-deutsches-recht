@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-strafrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__73d.html",
+      "checked_on": "2026-09-14",
+      "supports": "Bestimmung des Wertes des Erlangten und Grenzen des Abzugs von Aufwendungen; Tatkosten nicht pauschal abziehen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__73.html",
+      "checked_on": "2026-09-14",
+      "supports": "Einziehung dessen, was Täter oder Teilnehmer durch oder für die rechtswidrige Tat erlangt haben."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__73c.html",
+      "checked_on": "2026-09-14",
+      "supports": "Wertersatz bei nicht möglicher gegenständlicher Einziehung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__73e.html",
+      "checked_on": "2026-09-14",
+      "supports": "Ausschluss in Höhe des erloschenen Rückgewähr- oder Ersatzanspruchs; bloße Sicherstellung ist nicht gleich Rückzahlung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__111e.html",
+      "checked_on": "2026-09-14",
+      "supports": "Vermögensarrest als Sicherung der Wertersatzeinziehung und Bezifferung des gesicherten Anspruchs."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/6_StS/2024/6_StR_546-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-14",
+      "supports": "BGH, Beschluss vom 15.05.2025, Az. 6 StR 546/24, Randnummern 14 bis 18: Verfügungsmacht statt bloßer Mittäterschaft, transitorischer Besitz und Tatlohn. Amtliches PDF direkt abgerufen und textlich gelesen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der frühere Direktstart lieferte bereits Rechtsfolgen und Strafzumessung, obwohl Tat- und Beweislage noch offen waren; Abschöpfung und Sicherung waren nicht als eigenständige wirtschaftliche Prüfung erschlossen.",
+    "changes": [
+      "Vorwurf und konkretes Beweismittel vor Rechtsfolgen gesetzt.",
+      "Einziehung und Arrest mit personenbezogener Zugriffskette und Schutz vor Doppelzählung ergänzt.",
+      "Verdachtsstufen, Schweigen und Urteilserweis getrennt.",
+      "Akute Haft- oder Aussageentscheidung priorisiert statt zum pauschalen Abbruchgrund erklärt."
+    ],
+    "sha256": "7abada1609638c11b89a860b2a09f99b63b15f86598cfa366bb3909eacff04d4"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie die persönliche Einziehungssumme gegen Kontoauszüge, Weiterleitungen und Tatlohn; die Anklage rechnet jedem Beteiligten den Gesamtschaden zu.",
+      "Der Arrest blockiert mein Konto und enthält mehrfach dieselben Geldbewegungen; erstellen Sie eine transaktionsgenaue Gegenrechnung."
+    ],
+    "negative": [
+      "Prüfen Sie ausschließlich die Glaubhaftigkeit einer Zeugenaussage ohne Vermögensbezug.",
+      "Erstellen Sie eine Strafzumessungsargumentation für eine Körperverletzung ohne Einziehung."
+    ],
+    "target_skill": "einziehung-geldfluss-mitverfuegung-arrestabgleich"
+  },
+  "cases": [
+    {
+      "id": "arrest-doppelte-abhebung-und-tatlohn",
+      "request": "Verteidigen Sie den erwachsenen Beschuldigten Leon in einem Ermittlungsverfahren wegen zweier Betrugstaten. Erstellen Sie ergebnis.md mit individueller Zurechnung, Gegenrechnung und Stellungnahmeentwurf gegen einen Vermögensarrest über 100.300 EUR. Der Beschluss addiert für Tat 1 eine Gutschrift von 40.000 EUR und die anschließende Barabhebung derselben 40.000 EUR. Kontoauszug und Video belegen: Leon hatte alleinigen Onlinezugang, konnte zwei Tage frei über das Guthaben verfügen, hob alles ab, gab 38.000 EUR an einen Hintermann weiter und behielt 2.000 EUR aus dieser Summe als Lohn. Für Tat 2 setzt der Beschluss zusätzlich 20.000 EUR und 300 EUR Tatlohn an. Hier trug Leon nach übereinstimmenden Aussagen einen verschlossenen Umschlag wenige Meter vom Geschädigten zum unmittelbar daneben stehenden Hintermann; dieser überwachte die gesamte Übergabe, nahm den Umschlag sofort an sich und ließ Leon keine eigenständige Zugriffsmöglichkeit. Leon erhielt anschließend 300 EUR aus anderem Bargeld des Hintermanns. Eine eigene Zugriffsmöglichkeit auf die 20.000 EUR ist bislang nicht belegt. Nach dem Arrest zahlte Leon nachweislich 5.000 EUR aus einem privaten Darlehen an den Geschädigten der Tat 1 zurück; dieser bestätigte das Erlöschen seines Ersatzanspruchs in dieser Höhe. Daneben sind 3.000 EUR auf Leons Konto lediglich gepfändet, nicht ausgekehrt. Es gibt keine weiteren Zahlungen, keine Rechtskraft, keinen Verzicht und keine sonstigen Erträge. Die Strafbarkeit selbst soll nicht abschließend geprüft werden. Unterscheiden Sie sicheren Rechenfehler, Zurechnungsrisiko und vorläufigen Sicherungsmaßstab; geben Sie keine Einlassung oder Vermögensanweisung ab.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Tat 1 wird mit einem einmaligen Zufluss von 40.000 EUR erfasst; weder die Abhebung wird erneut noch der im Zufluss enthaltene Lohn von 2.000 EUR zusätzlich gezählt. Die Weiterleitung von 38.000 EUR beseitigt das vorherige Erlangen nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Tat 2 wird anhand konkret fehlender eigenständiger Verfügung geprüft; bloße Beteiligung trägt die 20.000 EUR nicht, während der gesonderte Lohn von 300 EUR erfasst wird. Kurzzeitigkeit allein wird nicht als universeller Ausschlussgrund formuliert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die begründete Gegenrechnung beträgt auf dieser Beleglage 35.300 EUR nach der nachgewiesenen Rückzahlung von 5.000 EUR; sie zieht die nur gepfändeten 3.000 EUR nicht als erloschenen Anspruch ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Der Entwurf differenziert Arrestbetrag und vollzogene Sicherung sowie Verdachtsmaßstab und endgültige Einziehung; er verlangt nachvollziehbare Korrektur oder Begrenzung, ohne tatsächliche Aufhebung, Rückzahlung oder abgesandte Beschwerde zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "einziehung-geldfluss-mitverfuegung-arrestabgleich"
+    }
+  ]
+}

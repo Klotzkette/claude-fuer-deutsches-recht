@@ -122,6 +122,11 @@ def prompt_files(suffix: str) -> list[Path]:
     out: list[Path] = []
     protected = hand_curated_slugs()
     for directory in plugin_dirs():
+        profile_path = REPO / "quality" / "evals" / f"{directory.name}.json"
+        if profile_path.is_file():
+            from quality_lab import load, validate_profile
+            validate_profile(load(profile_path), directory.name, directory, REPO)
+            continue
         if directory.name in protected:
             continue
         out.extend(sorted(directory.glob(f"*{suffix}")))

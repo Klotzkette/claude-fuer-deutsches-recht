@@ -1,77 +1,27 @@
-# Bundesnetzagentur Verfahren — Schnellstart
+# 1 Regulierungsverfahren sektorgenau bearbeiten
 
-Wenn du das hier öffnest, willst du ein Verfahren gegenüber einer Regulierungs- oder Wirtschaftsaufsichtsbehörde nach Zuständigkeit, Eingriffsgrundlage, Verfahrensrechten und Antwortstrategie ordnen.
+Lies zuerst Auftrag, angegriffenen Beschluss oder Auskunftsersuchen, Zustellnachweis und vorhandene Datenmeldungen. Liefere die verlangte Antwort, Beschwerde oder Stellungnahme. Ordne Energie, Telekommunikation, Post, Eisenbahn oder digitale Aufsicht zu. Der Briefkopf Bundesnetzagentur bestimmt nicht allein den Rechtsweg. Eine Frist unter zwei Wochen ist kein Bearbeitungsstopp; sichere den konkreten nächsten Schritt.
 
-Kernauftrag: Großes Regulierungs-Plugin für anwaltliche Arbeit mit der Bundesnetzagentur in Energie, Telekommunikation, Post, Eisenbahn und Digital Services. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Maßnahme und Zuständigkeit
 
-## 1. Sofortstart nach Eingangslage
+Erfasse betroffenen Rechtsträger, regulierte Tätigkeit, Beschlusskammer oder andere Stelle, Aktenzeichen, Verfahrensart und Ziel. Trenne Konsultation, informelle Nachfrage, verbindliches Auskunftsverlangen, Festlegung, Genehmigung und Sanktion. Wähle das tatsächliche Fachgesetz und prüfe Befugnis, Adressat und Umfang. Eine allgemeine Gewerbeuntersagungsnorm trägt nicht beliebige Regulierungsmaßnahmen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Behörde und Verfahren, Eingriffsgrundlage, Verfahrensrechte wählen; ohne konkreten Auftrag mit Behörde und Verfahren beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bei KI-Marktüberwachung [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/ki-mig/__2.html) gesondert prüfen: Bundesnetzagentur als Auffangbehörde, aber sektorale Produkt- und Finanzaufsicht, besondere Marktüberwachungskammer sowie Landes- und Medienzuständigkeiten unterscheiden. Eine zentrale Anlaufstelle ist nicht automatisch die ausschließlich entscheidende Stelle. Datenschutzaufsicht und andere parallele Verfahren getrennt führen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Behörde und Verfahren, Eingriffsgrundlage, Verfahrensrechte und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2 Daten und Auskunft konkret bearbeiten
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Zerlege jedes verlangte Feld nach Zeitraum, Einheit, betroffener Gesellschaft und Datenquelle. Eine Erlösgröße, ein Messwert und eine Prognose sind verschieden zu belegen. Vergleiche Definitionen des Erhebungsbogens mit den internen Daten. Nicht vorhandene Daten, unverhältnismäßig aufwendige Aufbereitung und inhaltlich bestrittene Angaben getrennt begründen. Liefere den belastbaren Teil, ohne eine vollständige Erfüllung zu behaupten.
 
-## 2. Fachlicher Direktstart
+Für Geschäftsgeheimnisse benenne konkrete Information, fehlende Öffentlichkeit, wirtschaftliche Bedeutung und Schutzinteresse. Unterscheide vollständige Behördenfassung und für weitere Beteiligte vorgesehene bereinigte Fassung. Eine Kennzeichnung „vertraulich“ allein ist keine rechtliche Begründung und keine Erlaubnis zur Verweigerung jeder Auskunft. Prüfe den Schutzweg für die jeweilige Verfahrensstufe; gerichtliche Akteneinsicht nach Paragraf 84 EnWG ist nicht schlicht die Regel für jedes Verwaltungsverfahren.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Eingriffs- oder Anspruchsgrundlage trägt das Verlangen und deckt sie den Umfang.
-2. Kernprüfung in einem Durchgang: Welche Geschäftsgeheimnisse sind betroffen und wie werden sie geschützt; Welche Frist läuft und ist eine Verlängerung beantragt.
-3. Belege und Engpass zusammenführen: Nachweisachse Behörde und Verfahren: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen; besonders kritisch ist: Ein Auskunfts- oder Anhörungstermin läuft in unter zwei Wochen ab.
-4. Erstes Arbeitsprodukt liefern: Auskunftsantwort: Verlangen, Rechtsgrundlagenprüfung, gelieferte Daten, Schwärzungen mit Begründung, Vorbehalte.
+## 1.3 Energie-Beschwerde mit zwei Fristen
 
-## 3. Kernroute
+Für Entscheidungen der Regulierungsbehörde nach dem EnWG prüfe [Paragraf 75 EnWG](https://www.gesetze-im-internet.de/enwg_2005/__75.html): Beschwerdeberechtigung und zuständiges Oberlandesgericht. Nicht routinemäßig zum Verwaltungsgericht oder zum allgemeinen Widerspruchsverfahren leiten. Für andere Sektoren die dortige Spezialregel eigenständig prüfen.
 
-1. Behörde und Verfahren: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen.
-2. Eingriffsgrundlage: Auskunftsverlangen, Festlegung, Untersagung oder Missbrauchsverfügung mit Norm und Reichweite prüfen.
-3. Verfahrensrechte: Anhörung, Akteneinsicht, Geheimnisschutz und Fristverlängerung sichern.
-4. Antwortstrategie: Umfang der Auskunft, Schwärzungen, Teillieferung und Schutzschriften abwägen.
-5. Arbeitsprodukt: Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren.
+Nach [Paragraf 78 EnWG](https://www.gesetze-im-internet.de/enwg_2005/__78.html) ist die Beschwerde binnen eines Monats ab Zustellung schriftlich beim Beschwerdegericht einzureichen. Die Begründungsfrist von einem Monat beginnt dagegen mit der Einlegung; sie kann auf Antrag verlängert werden. Erfasse beide Ereignisse getrennt. Beschwerdeschrift und Begründung erfordern grundsätzlich anwaltliche Unterzeichnung. Den konkreten elektronischen Einreichungsweg und etwaigen Eilrechtsschutz gesondert prüfen, keine automatische Vollzugshemmung versprechen.
 
-## 4. Fallkarte
+## 1.4 Beschlusskammer- und gerichtstaugliches Produkt
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | EnWG; TKG; GewO Paragraf 35 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen |
-| Beweislast | Nachweisachse Behörde und Verfahren: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen |
-| Rechtsfolge | Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Eine Stellungnahme verbindet beanstandete Festlegung oder Datenposition mit technischem beziehungsweise wirtschaftlichem Befund, Norm und konkretem Änderungsbegehren. Eine Beschwerde bezeichnet Entscheidung, Umfang des Angriffs und Ziel; Tatsachen und Beweismittel nicht durch allgemeine Kritik an Regulierung ersetzen. Prüfe das stärkste behördliche Gegenargument und benenne dessen Zahlen- oder Normbasis.
 
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Behörde und Verfahren | Zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eingriffsgrundlage | Auskunftsverlangen, Festlegung, Untersagung oder Missbrauchsverfügung mit Norm und Reichweite prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahrensrechte | Anhörung, Akteneinsicht, Geheimnisschutz und Fristverlängerung sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antwortstrategie | Umfang der Auskunft, Schwärzungen, Teillieferung und Schutzschriften abwägen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- EnWG: Netzzugang, Entgeltregulierung, Missbrauchsaufsicht und Festlegungen der Bundesnetzagentur.
-- TKG: Marktregulierung, Frequenz- und Nummernverwaltung, Kundenschutz.
-- GewO Paragraf 35: Gewerbeuntersagung bei Unzuverlässigkeit.
-- IFG und Landespressegesetze: Informationszugang und Auskunftsansprüche gegenüber Behörden.
-- Paragraf 80 GWB (zivile Verbandsklage als Parallelweg); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 51 Abs. 1 Nr. 7, 75 VwGO (VG Köln, Untätigkeitsklage); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 19, 20 GWB (Diskriminierungs- und Behinderungsverbote als Parallelweg); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 44 VwVfG — Nichtigkeit Verwaltungsakt; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren.
-7.2. Norm: EnWG; TKG mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Behörde und Verfahren“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Behörde und Verfahren: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Geschäftsgeheimnisse sind betroffen und wie werden sie geschützt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Auskunftsantwort“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Ein Auskunfts- oder Anhörungstermin läuft in unter zwei Wochen ab. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Frage nur nach einer blockierenden Lücke wie fehlender Zustellung oder unklarem Datenzeitraum. Weitere Normen, aktuelle Festlegungen und Entscheidungen amtlich verifizieren; keine Aktenzeichen erfinden. Optional verfügbare Spezialskills ergänzen, dieser Mini bleibt allein nutzbar. Ohne Zugang keine Datenübermittlung oder Einreichung behaupten. Externe Handlung nur mit Auftrag. Vollständige Sätze, dezimale Gliederung und Times New Roman 11 pt beim Export.

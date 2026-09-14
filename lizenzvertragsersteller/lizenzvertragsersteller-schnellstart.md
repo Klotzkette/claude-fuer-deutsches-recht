@@ -1,74 +1,21 @@
-# Lizenzvertragsersteller — Schnellstart
+# 1. Lizenzvertrag aus Rechtebestand und Geschäftsmodell
 
-Wenn du das hier öffnest, willst du ein Schutzrecht oder Know-how so lizenzieren, dass Gegenstand, Nutzung, Vergütung, Kontrolle, Kartellrecht, Insolvenz und Exit zusammenpassen.
+Lies zuerst Sachverhalt, Rechteverzeichnis, Vertragsentwurf und Abrechnungsdaten. Bestimme Lizenzgeber und Lizenznehmer sowie das tatsächlich gewünschte Produkt: Vertrag, Klauselvergleich, Rechteverzeichnis oder Vergütungsmodell. Frage nur nach blockierenden Parametern. Ungeklärte Rechte an einem Teilbestand hindern nicht die Bearbeitung belegter Teile; kennzeichne den ausgeschlossenen oder vorbehaltenen Bestand.
 
-Kernauftrag: Baukastensystem für IP-Lizenzverträge deutsches und internationales Recht. 32 Skills: Urheber Patent Marken Design Gebrauchsmuster Geschäftsgeheimnis Know-how. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Lizenzgegenstand und Nutzung verbinden
 
-## 1. Sofortstart nach Eingangslage
+Führe je Werk, Schutzrecht oder Know-how-Paket Inhaber, Rechtekette, Kennzeichnung, Vorbelastung und erlaubte Nutzung zusammen. Eine Datei oder Registeranmeldung beweist nicht automatisch sämtliche benötigten Rechte. Trenne eigene Beiträge von Mitarbeiter-, Auftragnehmer- und Drittbeiträgen. Bei Software Komponenten und Lizenzbedingungen getrennt behandeln.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen IP und Rechtekette, Lizenzgrant, Wirtschaft und Kontrolle wählen; ohne konkreten Auftrag mit IP und Rechtekette beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Formuliere Nutzungsarten, Gebiet, Dauer, Exklusivität, Vorbehalte, Unterlizenzierung und Übertragung deckungsgleich mit den Anlagen. Für urheberrechtliche Nutzungsrechte ist [Paragraf 31 UrhG](https://www.gesetze-im-internet.de/urhg/__31.html) der geprüfte Ausgangspunkt. Andere Schutzrechtsarten gesondert amtlich prüfen; keine Software-Arbeitnehmerregel auf alle Rechteketten übertragen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu IP und Rechtekette, Lizenzgrant, Wirtschaft und Kontrolle und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Vergütung nachrechenbar machen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Definiere die Bemessungsgrundlage statt nur Nettoumsatz zu schreiben: erfasste Produkte, Erlöszeitpunkt, zulässige Abzüge, Retouren, verbundene Unternehmen und Bündelprodukte. Trenne abschnittsweise Staffelung von einem rückwirkenden Satzwechsel für den Gesamtumsatz. Zeige eine Kontrollrechnung oberhalb jeder Stufengrenze.
 
-## 2. Fachlicher Direktstart
+Bestimme Abrechnungsperiode, Meldetermin, Zahlungsfälligkeit, Datenquelle und Prüfzugang. Regle ausdrücklich, ob Mindestbeträge zusätzlich anfallen oder angerechnet werden und ob eine Anrechnung periodenübergreifend zulässig ist. Vermeide doppelte Abzüge. Optional vertieft `klausel-verguetung-pauschale-royalty-tiered` die Staffelmechanik; ohne Zugriff nach der vorstehenden Rechenkontrolle arbeiten. Seine Steuerhinweise nicht ungeprüft übernehmen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche konkreten Rechte besitzt der Lizenzgeber und welche Nutzung benötigt der Lizenznehmer tatsächlich.
-2. Kernprüfung in einem Durchgang: Sind Grant, Definitionen, Anlagen und technische Realität vollständig deckungsgleich; Welche Vergütungsbasis, Datenquelle und Auditregel verhindert Berechnungsstreit.
-3. Belege und Engpass zusammenführen: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar; besonders kritisch ist: Rechtekette, Schutzrechtsstatus, Open-Source- oder Drittkomponente ist ungeklärt.
-4. Erstes Arbeitsprodukt liefern: IP Schedule: Asset, Register, Inhaber, Nachweis, Belastung, Drittkomponente, Lizenzrecht, Gebiet und Lücke.
+## 1.3. Bestand und Vertragsende
 
-## 3. Kernroute
+Ordne Rechtsmängel, Verteidigung gegen Drittansprüche, Verbesserungen, Geheimhaltung und Haftung der jeweiligen Rechteposition zu. Bei Vertragsende Datenrückgabe, Restbestände, bereits erteilte Unterlizenzen und Abrechnung offener Perioden aufeinander abstimmen. Kartellrecht und Insolvenz nur bei einschlägiger Klausel oder Falllage prüfen; geltende Rechtsakte und Übergänge amtlich verifizieren, keine alten Gruppenfreistellungen voraussetzen.
 
-1. IP und Rechtekette: Schutzgegenstand, Register, Inhaber, Vorrechte, Mitarbeiter- oder Auftragnehmerrechte, Drittkomponenten und Belastungen feststellen.
-2. Lizenzgrant: Recht, Nutzungsart, Territorium, Feld, Dauer, Exklusivität, Unterlizenz, Übertragbarkeit, Updates und Verbesserungen präzisieren.
-3. Wirtschaft und Kontrolle: Fee, royalty base, Mindestbetrag, Währung, Steuer, Report, Audit, Forecast und Zahlungsfolge rechnen.
-4. Risiko und Bestand: Gewährleistung, Freistellung, Haftung, Geheimnis, Kartellrecht, Change of Control, Insolvenz, Kündigung und Nachwirkung ordnen.
-5. Arbeitsprodukt: Term Sheet, IP Schedule, Lizenzvertrag, Clause Mark-up, TTBER-Matrix, Royalty-Modell oder Closing Checklist erstellen.
-
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB-Vertragsrecht und AGB-Kontrolle; UrhG Paragraf 31 ff., PatG Paragraf 15, MarkenG Paragraf 30; GeschGehG |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Schutzgegenstand, Register, Inhaber, Vorrechte, Mitarbeiter- oder Auftragnehmerrechte, Drittkomponenten und Belastungen feststellen |
-| Beweislast | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar |
-| Rechtsfolge | Term Sheet, IP Schedule, Lizenzvertrag, Clause Mark-up, TTBER-Matrix, Royalty-Modell oder Closing Checklist erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| IP und Rechtekette | Schutzgegenstand, Register, Inhaber, Vorrechte, Mitarbeiter- oder Auftragnehmerrechte, Drittkomponenten und Belastungen feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Lizenzgrant | Recht, Nutzungsart, Territorium, Feld, Dauer, Exklusivität, Unterlizenz, Übertragbarkeit, Updates und Verbesserungen präzisieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wirtschaft und Kontrolle | Fee, royalty base, Mindestbetrag, Währung, Steuer, Report, Audit, Forecast und Zahlungsfolge rechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BGB-Vertragsrecht und AGB-Kontrolle: Vertragsschluss, Leistungsbestimmung, Haftung, Kündigung und Inhaltskontrolle nach Parteistatus.
-- UrhG Paragraf 31 ff., PatG Paragraf 15, MarkenG Paragraf 30 und DesignG Paragraf 31: Lizenzierbarkeit und jeweilige Schutzrechtsspezifika.
-- GeschGehG: angemessene Geheimhaltungsmaßnahmen, erlaubte und verbotene Nutzung von Know-how.
-- AEUV Artikel 101 und Verordnung (EU) 2026/877: Technologietransfer-Gruppenfreistellung seit 1. Mai 2026 mit Marktanteilen, Kernbeschränkungen und ausgeschlossenen Klauseln.
-- Paragraf 69a UrhG schützt Computerprogramme als Werke; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 69b UrhG: Arbeitsergebnis des AN gehört kraft Gesetzes dem AG (ausschließliche Nutzungsrechte); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Artikel 101 Absatz 1 AEUV enthält das Kartellverbot; Artikel 101 Absatz 3 AEUV die vier kumulativen Voraussetzungen einer Einzelfreistellung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Term Sheet, IP Schedule, Lizenzvertrag, Clause Mark-up, TTBER-Matrix, Royalty-Modell oder Closing Checklist erstellen.
-7.2. Regelungsanker: BGB-Vertragsrecht und AGB-Kontrolle; UrhG Paragraf 31 ff., PatG Paragraf 15, MarkenG Paragraf 30 mit Risikozuweisung und Vollzug verbinden.
-7.3. Aktenfund: Für „IP und Rechtekette“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Grant, Definitionen, Anlagen und technische Realität vollständig deckungsgleich.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „IP Schedule“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Rechtekette, Schutzrechtsstatus, Open-Source- oder Drittkomponente ist ungeklärt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere den verlangten vollständigen Vertrag oder ausformulierten Klauseltext, ergänzt um Rechenbeispiel und offene Entscheidungen. Keine scheinbar fertige Rechtegarantie bei ungeklärter Kette. Folgefassungen anhand der tatsächlichen Änderungen bearbeiten. Ohne Exportfunktion den fertigen Text liefern, keine Datei vortäuschen. Export: Times New Roman, 11 pt, dezimale Gliederung.

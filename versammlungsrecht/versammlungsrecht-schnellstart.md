@@ -35,21 +35,19 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | GG Artikel 8; Versammlungsgesetz des zuständigen Landes; Polizei- und Ordnungsrecht des Landes |
-| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 1 BvR 233/81 und 1 BvR 341/81 |
+| Rechtsprechung | Nur zur konkret streitigen Maßnahme amtlich verifizierte Entscheidungen verwenden |
 | Tatbestand | Veranstalter, Leitung, Thema, Ort, Route, Beginn, Ende, Teilnehmerzahl und Gegenversammlung feststellen |
 | Beweislast | Nachweisachse Gefahrenprognose: konkrete Tatsachen, Quellen, Störer, Gewaltbezug, Verkehrs- und Schutzbelange sowie Trennkonzept prüfen |
 | Rechtsfolge | Anzeige, Kooperationsprotokoll, Auflagenantwort, Schutzkonzept, Eilantrag oder Einsatznachbereitung erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
-## 5. Einsatzfelder
+## 5. Zeitachse und Eilprodukt
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Versammlung und Zeit | Veranstalter, Leitung, Thema, Ort, Route, Beginn, Ende, Teilnehmerzahl und Gegenversammlung feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anzeige und Kooperation | Zuständigkeit, Eingangszeit, Kommunikationsweg, Auflagenentwurf, Schutzbedarf und Alternativen sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Gefahrenprognose | Konkrete Tatsachen, Quellen, Störer, Gewaltbezug, Verkehrs- und Schutzbelange sowie Trennkonzept prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Maßnahme und Rechtsschutz | Auflage, Verbot, Auflösung, Sofortvollzug, Termin und statthaften Eilantrag ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Anzeige, Kooperationsprotokoll, Auflagenantwort, Schutzkonzept, Eilantrag oder Einsatznachbereitung erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Erfasse geplante öffentliche Bekanntgabe, tatsächliche Bekanntgabe, Behördeneingang und Versammlungsbeginn getrennt. Soweit Bundesrecht gilt, knüpft Paragraf 14 VersammlG an 48 Stunden vor Bekanntgabe an, nicht an den Versammlungsbeginn. Landesrecht und Besonderheiten einer Eil- oder Spontanversammlung gesondert prüfen. Die Anzeige nicht als Genehmigungsantrag behandeln und aus Verspätung kein automatisches Verbot ableiten.
+
+Bei kurzfristiger Beschränkung noch in derselben Bearbeitung Verfügung, Zustellung, Vollziehbarkeit, konkrete Gefahr und erreichbares Gericht ordnen. Ein Antrag nach Paragraf 80 Absatz 5 VwGO ist vom vorbeugenden oder leistungsbezogenen Rechtsschutz zu unterscheiden; bei besonders angeordnetem Sofortvollzug geht es um Wiederherstellung. Mildere Maßnahmen mit Ort, Personal, Zeitbedarf und Schutzwirkung konkretisieren. Eine Gegendemonstration nicht ohne Tatsachen der eigenen Versammlung als Gewaltbereitschaft zurechnen.
+
+Quellen: [Paragraf 14 VersammlG](https://www.gesetze-im-internet.de/versammlg/__14.html), [Paragraf 80 VwGO](https://www.gesetze-im-internet.de/vwgo/__80.html).
 
 ## 6. Anker
 
@@ -59,7 +57,6 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 - VwGO Paragraf 80 Absatz 5 und Paragraf 123: eiliger Rechtsschutz vor dem Versammlungstermin.
 - Paragraf 23 KunstUrhG kann Veröffentlichungen rechtfertigen, insbesondere bei Zeitgeschehen und Versammlungen; Paragraf 23 Abs. 2 KunstUrhG verlangt aber weiter eine Interessenabwägung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 201 StGB betrifft nichtöffentlich gesprochene Worte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Beschluss vom 14.05.1985 - 1 BvR 233/81 und 1 BvR 341/81: Versammlungsfreiheit verlangt ein versammlungsfreundliches Verfahren; Kooperation und mildere Mittel haben Vorrang vor Verboten.
 
 ## 7. Antwortform
 
@@ -73,4 +70,4 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Versammlungstermin liegt in unter einer Woche oder eine kurzfristige Auflage ist zugegangen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Ein naher Termin löst Eilbearbeitung aus, keinen Arbeitsabbruch. Nur unbelegte Schlussfolgerungen sperren und den nutzbaren Entwurf mit offenen Punkten liefern. Anzeigen, Gerichtsanträge und Zusagen an die Behörde nicht selbst versenden. Die Werkstatt ist optionale Vertiefung; dieses Mini benötigt keine weiteren Dateien.

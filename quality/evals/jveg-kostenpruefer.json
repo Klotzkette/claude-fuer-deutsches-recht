@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "plugin": "jveg-kostenpruefer",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/jveg/__6.html",
+      "checked_on": "2026-09-14",
+      "supports": "Tagegeld und notwendige auswärtige Übernachtung nach Paragraf 6, nicht nach den Paragrafen 11 oder 12 JVEG."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/jveg/__8.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 2: erforderliche Zeit einschließlich Reise- und Wartezeit; letzte angefangene Stunde bis 30 Minuten zur Hälfte, darüber voll."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/jveg/__2.html",
+      "checked_on": "2026-09-14",
+      "supports": "Dreimonatige Geltendmachung und beim schriftlichen Gutachten fristauslösender Eingang bei der beauftragenden Stelle."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/jveg/__4.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gerichtliche Festsetzung und Beschwerde bei Überschreiten von 300 Euro oder Zulassung; keine allgemeine Zweiwochenfrist aus dieser Vorschrift."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die vorhandene Kostenroute ist brauchbar. Rundung und Fristbeginn waren nicht präzise genug; ungesicherte Entscheidungsanker wurden nicht fortgeschrieben.",
+    "changes": [
+      "Zeitblöcke vor der Schlussrundung zusammenführen.",
+      "Gutachteneingang statt Rechnungsdatum als maßgeblichen Ausgangspunkt prüfen.",
+      "Reise-, Übersetzungs- und besondere Aufwandspositionen getrennt zuordnen."
+    ],
+    "sha256": "7b7014fdbbd40f4275c9cb9a2b3963d5b0a8ce6a9b469c8c7d421a85ab77dc1a"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe das Zeitrechenblatt eines gerichtlich beauftragten Sachverständigen.",
+      "Prüfe die Geltendmachungsfrist nach Eingang eines schriftlichen Gutachtens."
+    ],
+    "negative": [
+      "Berechne das Honorar eines ausschließlich privat beauftragten Gutachters nach Vertrag.",
+      "Erstelle die anwaltliche Vergütungsrechnung nach dem RVG."
+    ]
+  },
+  "cases": [
+    {
+      "id": "reisezeit-und-uebernachtung-richtig-zuordnen",
+      "request": "Korrigiere in ergebnis.md ein JVEG-Rechenblatt für einen gerichtlich herangezogenen Sachverständigen. Erforderlich und belegt sind 70 Minuten fachliche Tätigkeit und 50 Minuten Reisezeit insgesamt. Der maßgebliche Stundensatz von 100 Euro ist unstreitig. Für eine notwendige auswärtige Übernachtung sind 80 Euro nach den einschlägigen Reisekostenregeln unstreitig erstattungsfähig. Weitere Kosten und Umsatzsteuer fallen im Fall nicht an. Ein Vorschuss von 50 Euro wurde gezahlt. Der Entwurf setzt zwei Stunden Gesamthonorar an und daneben nochmals eine Stunde Reisezeit unter Paragraf 10 JVEG; die Übernachtung steht unter Paragraf 11. Prüfe Betrag und Normzuordnung, ohne einen Antrag einzureichen.",
+      "input_files": [],
+      "deliverables": ["ergebnis.md"],
+      "criteria": [
+        {"id": "C01", "text": "Tätigkeit und Reisezeit ergeben gemeinsam zwei Stunden und 200 Euro; Reisezeit wird nicht ein zweites Mal vergütet.", "deliverables": ["ergebnis.md"]},
+        {"id": "C02", "text": "Die Zeitvergütung wird Paragraf 8 Absatz 2 in Verbindung mit dem maßgeblichen Honorarsatz und die Übernachtung Paragraf 6 Absatz 2 zugeordnet, nicht den falschen Paragrafen 10 und 11.", "deliverables": ["ergebnis.md"]},
+        {"id": "C03", "text": "Die Ausgabe berechnet 280 Euro Gesamtvergütung und 230 Euro Restbetrag nach Vorschuss, ohne zusätzliche Auslagen oder Umsatzsteuer zu erfinden.", "deliverables": ["ergebnis.md"]}
+      ],
+      "target_skill": "rechenblatt"
+    },
+    {
+      "id": "gemeinsame-schlussrundung",
+      "request": "Prüfe in ergebnis.md die Vergütung eines gerichtlich beauftragten Sachverständigen für einen einzigen Termin. Als erforderlich und belegt sind vorgegeben: 135 Minuten fachliche Arbeit, 40 Minuten Reisezeit insgesamt und 15 Minuten Wartezeit. Der anzuwendende Stundensatz beträgt unstreitig 100 Euro. Weitere Kosten und Umsatzsteuer fallen im Übungsfall nicht an. Ein Vorschuss von 100 Euro wurde ausgezahlt. Die Rechnung rundet jeden Zeitblock auf eine volle Stunde und fordert nach Vorschussabzug 400 Euro. Zeige den nachvollziehbaren Rechenweg und die Differenz, ohne selbst einen Festsetzungsantrag einzureichen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Berechnung addiert die Zeitblöcke zu 190 Minuten und rundet nicht jeden Block gesondert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Schlussrundung führt zu dreieinhalb vergütbaren Stunden und 350 Euro Vergütung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Nach 100 Euro Vorschuss werden 250 Euro Restbetrag und 150 Euro Abweichung zur Forderung ausgewiesen, ohne weitere Kosten zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "rechenblatt"
+    }
+  ]
+}

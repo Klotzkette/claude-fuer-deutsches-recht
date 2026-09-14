@@ -36,18 +36,15 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | --- | --- |
 | Normenanker | WEG Paragraf 9a und Paragraf 18; WEG Paragraf 19; WEG Paragraf 20 und Paragraf 21 |
 | Rechtsprechung | BGH, Urteil vom 19.07.2024 - V ZR 102/23; BGH, Urteil vom 20.09.2024 - V ZR 195/23 |
-| Tatbestand | Einheit, Gemeinschafts- oder Sondereigentum, Gemeinschaftsordnung, Beteiligte, Vertretung und konkretes Verwaltungsziel feststellen |
-| Beweislast | Die Gemeinschaft belegt Beschlusstext, ordnungsmäßige Vorbereitung, Kostenposition, Schlüssel und Fälligkeit; der anfechtende Eigentümer bezeichnet den Beschlussmangel innerhalb der Begründungsfrist und belegt dessen Tatsachengrundlage |
-| Rechtsfolge | Beschlussentwurf, Einladung, Niederschrift, Abrechnungsblatt, Verwaltervermerk, Eigentümeranschreiben oder Beschlussklage |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
-## 5. Einsatzfelder
+## 5. Abrechnungsspitze und Rückstand auseinanderhalten
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Gemeinschaft und Gegenstand | Einheit, Gemeinschafts- oder Sondereigentum, Gemeinschaftsordnung, Beteiligte, Vertretung und konkretes Verwaltungsziel feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschlussarbeit | Beschlusskompetenz, Einberufung, Tagesordnung, Bestimmtheit, Mehrheit, Verkündung, Niederschrift und Beschlusssammlung lückenlos prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Finanzen | Wirtschaftsplan, Vorschüsse, Abrechnungsspitzen, Rücklage, Hausgeld, Sonderumlage, Kostenart und Verteilungsschlüssel rechnerisch mit Beleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Vergleiche je Einheit den nach maßgeblichem Schlüssel zugeordneten Jahresbetrag mit den beschlossenen Sollvorschüssen, nicht nur mit Zahlungseingängen. Die Differenz zu den Sollvorschüssen ist von einem Rückstand auf bereits geschuldete Vorschüsse zu trennen. Zeige Jahreskosten, Sollvorschuss, Istzahlung, Abrechnungsspitze und alten Rückstand in getrennten Spalten. Eine neue Beschlussforderung darf den alten Vorschussrückstand nicht nochmals enthalten.
+
+Prüfe Einnahmen und Ausgaben, Schlüssel und Einzelzuordnung anhand der Belege; Rücklagenbewegungen gesondert behandeln. Bei jedem Fehler berechnen, ob und wie er die Zahlungspflicht verändert. Das Rechenwerk, der Beschluss über Nachschüsse oder Vorschussanpassung und der Vermögensbericht sind unterschiedliche Gegenstände. Ein bloßes Etikett „Abrechnung genehmigt“ weder automatisch für nichtig halten noch ungeprüft freigeben.
+
+Amtlicher Normtext: [WEG, Paragraf 28](https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html). Ergebnis ist ein korrigiertes Abrechnungsblatt mit ausformulierter Beschlussfassung, Betrag je Einheit, Bezugsanlage und gesondertem Rückstandsvermerk.
 
 
 ## 6. Anker
@@ -61,7 +58,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 7. Antwortform
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Beschlussentwurf, Einladung, Niederschrift, Abrechnungsblatt, Verwaltervermerk, Eigentümeranschreiben oder Beschlussklage.
+7.1. Ergebnis: Rolle, Ziel und konkrete Zahlungs- oder Verwaltungsfolge nennen.
 7.2. Norm: WEG Paragraf 9a und Paragraf 18; WEG Paragraf 19 mit dem entscheidenden Merkmal verbinden.
 7.3. Aktenfund: Für „Gemeinschaft und Gegenstand“ Tatsache, Datum und Fundstelle nennen.
 7.4. Beweis: Die Gemeinschaft belegt Beschlusstext, ordnungsmäßige Vorbereitung, Kostenposition, Schlüssel und Fälligkeit. Offene Folgen aussprechen.
@@ -71,4 +68,4 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Die Monatsfrist oder Zweimonatsfrist des WEG Paragraf 45 kann laufen. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Laufende Beschlussklagefristen lösen vorrangige Fristprüfung aus, keinen Arbeitsabbruch. Nur ungeklärte Teilbeträge oder Freigaben sperren; belegte Rechenarbeit fortsetzen. Keine Einladung, Beschlussverkündung, Zahlungsaufforderung oder Klage selbst versenden. Die Werkstatt ist optionale Vertiefung, kein notwendiger Zugriff.

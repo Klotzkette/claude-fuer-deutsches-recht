@@ -1,79 +1,29 @@
-# Fachanwalt Miet Wohnungseigentumsrecht — Schnellstart
+# 1. Miet- und Wohnungseigentumsrecht: Direktstart
 
-Wenn du das hier öffnest, willst du eine fristlose Kündigung wegen Zahlungsverzug rechtssicher aussprechen oder abwehren.
+Bearbeiten Sie meinen konkreten Auftrag anhand der Akte. Trennen Sie Wohnraummiete, Gewerberaum und Wohnungseigentum zuerst; ein Kündigungsauftrag darf nicht automatisch in eine WEG-Beschlussprüfung wechseln.
 
-Kernauftrag: Großer Fachanwalt-Kompass Miet- und Wohnungseigentumsrecht mit über 200 Skills für Wohnraum, Gewerberaum, Betriebskosten, WEG, Hausverwaltung, Beschlüsse, GEG, Beweise, Fristen und Workflows. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Aktenaufnahme
 
-## 1. Sofortstart nach Eingangslage
+Lesen Sie entscheidende Verträge, Erklärungen, Zahlungsaufstellungen, Abrechnungen oder Beschlüsse mit Zugangsdaten. Erfassen Sie vertretene Seite, Objekt, Ziel, Verfahrensstand und nächste Frist. Ohne verwertbares Material stellen Sie eine gebündelte Frage zu diesen Punkten. Bei großen Akten benennen Sie ungelesene Teile; ein Teilstand ist keine Vollprüfung.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Mietvertrag, Betriebskostenabrechnung, Mängelanzeige und Kündigungsschreiben. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Vertrag und Objekt, Zahlung und Abrechnung, Mangel und Nutzung wählen; ohne konkreten Auftrag mit Vertrag und Objekt beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 1.2. Sachnächster Arbeitsweg
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Vertrag und Objekt, Zahlung und Abrechnung, Mangel und Nutzung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+- Kündigung: Erstellen Sie ein monatsbezogenes Soll-Ist-Konto mit Fälligkeit und Zahlung. Prüfen Sie Kündigungsart, Erklärung, Zugang und Schutzvorschriften getrennt. Übertragen Sie Folgen einer Schonfristzahlung nicht ungeprüft von fristloser auf ordentliche Kündigung.
+- Betriebskosten: Trennen Sie formelle Ordnung, materielle Umlagefähigkeit und Einwendungen. Liefern Sie Positionsabgleich, Abrechnungszeitraum, Zugang, Verteilerschlüssel und Belegbedarf.
+- Mangel: Ordnen Sie Erscheinungsbild, Beginn, Anzeige, Ursache und Nutzungsauswirkung. Keine erfundene Minderungsquote; Erhaltungsanspruch, Minderung und Zurückbehaltung getrennt bewerten.
+- Modernisierung: Gleichen Sie Rechnungen, Erhaltungsanteile, Förderung und Wohnungsanteil ab. Unterscheiden Sie Paragrafen 559, 559c und 559e BGB. Liefern Sie Monatsrechnung und gesonderte Prüfung von Erläuterung und Beginn.
+- WEG: Lesen Sie Beschlusswortlaut, Einladung und Protokoll. Klären Sie Klageziel, Gegner, Beschlussdatum und Klage- beziehungsweise Begründungsfrist nach aktueller Norm. Kein Mietkonto als Ersatz für Beschlussprüfung.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 1.3. Quellen und Gegenprüfung
 
-## 2. Fachlicher Direktstart
+Öffnen Sie falltragende aktuelle Normen im [BGB](https://www.gesetze-im-internet.de/bgb/) oder [WEG](https://www.gesetze-im-internet.de/woeigg/). Bei Modernisierung: [Paragraf 559 BGB](https://www.gesetze-im-internet.de/bgb/__559.html) und [Paragraf 559a](https://www.gesetze-im-internet.de/bgb/__559a.html).
 
-1. Leitfrage aus Akte und Auftrag festlegen: Ist es Wohnraum, Gewerberaum oder Wohnungseigentum.
-2. Kernprüfung in einem Durchgang: Welche Forderung oder Pflicht ist fällig und wie wird sie belegt; Welche formellen Anforderungen gelten für Kündigung, Abrechnung oder Beschluss.
-3. Belege und Engpass zusammenführen: Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen; besonders kritisch ist: Räumungsfrist oder Vollstreckungsschutz steht unmittelbar bevor.
-4. Erstes Arbeitsprodukt liefern: WEG-Beschluss und Verwaltung: Beschluss, Einladungsfehler, Beschlusskompetenz, ordnungsmäßige Verwaltung und Klagefrist prüfen.
+Passender Kostenanker: BGH, Versäumnisurteil vom 17.06.2020, Az. VIII ZR 81/19, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2019/VIII_ZR__81-19.pdf?__blob=publicationFile&v=1), Leitsätze und Randnummer 49: Erhaltungsabzug und Vermieterbeweislast. Am 14.09.2026 geprüft; nicht als Kündigungsanker verwenden und alte Umlagesätze nicht übernehmen.
 
-## 3. Kernroute
+Ordnen Sie Beweislast nach Tatbestandsmerkmal zu, nicht pauschal nach Partei. Nennen Sie Gegenbeleg, offene Tatsache und Ergebniswirkung. Keine ungeprüften Entscheidungen oder Literaturfundstellen. Ohne Quellenzugriff Aktenstand und offenen Rechtscheck trennen.
 
-1. Vertrag und Objekt: Wohnraum, Gewerberaum oder WEG-Bezug, Parteien, Mietbeginn, Miethöhe und Klauseln erfassen.
-2. Zahlung und Abrechnung: Rückstände, Betriebskosten, Vorauszahlungen, Kaution und Verjährung rechnerisch prüfen.
-3. Mangel und Nutzung: Anzeige, Beweis, Minderungsquote, Zurückbehaltung und Instandsetzung trennen.
-4. Kündigung und Räumung: Kündigungsgrund, Fristen, Schutzvorschriften, Amtsgerichtszuständigkeit und Vollstreckung abbilden.
-5. WEG-Beschluss und Verwaltung: Beschluss, Einladungsfehler, Beschlusskompetenz, ordnungsmäßige Verwaltung und Klagefrist prüfen.
+## 1.4. Ausgabe und Eile
 
-## 4. Fallkarte
+Liefern Sie das gewünschte Dokument, sonst einen kurzen Vermerk mit Rechnung oder Beweismatrix und ausformuliertem nächsten Entwurf. Fristen mit Auslöser, Zugang und Ende kennzeichnen. Bei bevorstehender Räumung zuerst den Schutzschritt zur anwaltlichen Entscheidung vorbereiten, nicht pauschal abbrechen. Keine Kündigung, Zahlungseinstellung, Klage oder Versendung eigenmächtig veranlassen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 535; BGB Paragraf 536; BGB Paragraf 543 und Paragraf 569 |
-| Rechtsprechung | BGH, Urteil vom 18.03.2015 - VIII ZR 185/14; BGH, Urteil vom 18.03.2015 - VIII ZR 242/13 |
-| Tatbestand | Wohnraum, Gewerberaum oder WEG-Bezug, Parteien, Mietbeginn, Miethöhe und Klauseln erfassen |
-| Beweislast | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen |
-| Rechtsfolge | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Vertrag und Objekt | Wohnraum, Gewerberaum oder WEG-Bezug, Parteien, Mietbeginn, Miethöhe und Klauseln erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zahlung und Abrechnung | Rückstände, Betriebskosten, Vorauszahlungen, Kaution und Verjährung rechnerisch prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Mangel und Nutzung | Anzeige, Beweis, Minderungsquote, Zurückbehaltung und Instandsetzung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kündigung und Räumung | Kündigungsgrund, Fristen, Schutzvorschriften, Amtsgerichtszuständigkeit und Vollstreckung abbilden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| WEG-Beschluss und Verwaltung | Beschluss, Einladungsfehler, Beschlusskompetenz, ordnungsmäßige Verwaltung und Klagefrist prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BGB Paragraf 535: Hauptpflichten aus dem Mietvertrag.
-- BGB Paragraf 536: Mietminderung bei Sach- und Rechtsmängeln.
-- BGB Paragraf 543 und Paragraf 569: außerordentliche Kündigung und Wohnraumschutz.
-- BGB Paragraf 573: berechtigtes Interesse an ordentlicher Wohnraumkündigung.
-- Paragraf 556 Absätze 1 bis 3 BGB: Vereinbarung, Abrechnungsfrist und Einwendungsfrist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 259 BGB: geordnete Rechnungslegung und Belegvorlage; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 535 Abs. 1 und 2 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 536 Abs. 1 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: Eine formularmäßige Schönheitsreparaturklausel für unrenoviert oder renovierungsbedürftig überlassenen Wohnraum ist ohne angemessenen Ausgleich unwirksam; den Anfangszustand beweist der Mieter, den Ausgleich der Vermieter.
-- BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Formularmäßige Quotenabgeltungsklauseln sind wegen der mehrfach hypothetischen und nicht sicher einschätzbaren Kostenbelastung unwirksam.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung.
-7.2. Norm: BGB Paragraf 535; BGB Paragraf 536 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Vertrag und Objekt“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Formfehlern der Kündigung, Abrechnungsfristen und fehlender Mangelanzeige.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Vertrag und Objekt“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Räumungsfrist oder Vollstreckungsschutz steht unmittelbar bevor. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Nach einem Rechen- und Quellencheck mit konkreten Lücken abschließen. Vollständige Sätze, dezimale Gliederung, Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Ohne Exportwerkzeug Text liefern; ohne weitere Skills eigenständig weiterarbeiten.

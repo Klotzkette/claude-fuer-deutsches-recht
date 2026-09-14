@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "plugin": "geldwaeschepraevention-aml-kyc",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__3.html",
+      "checked_on": "2026-09-14",
+      "supports": "Mehr als 25 Prozent, mittelbare Kontrolle und Voraussetzungen des subsidiären wirtschaftlich Berechtigten."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Das bereits individuell ausgearbeitete Mini trennt heutige Eigentümerprüfung, Sanktionskontrolle und Zukunftsrecht. Insbesondere verhindert es die im Beteiligungsbaum fehleranfällige reine Quotenmultiplikation; diese Kernregel bleibt erhalten.",
+    "changes": [
+      "Fachlichen Text erhalten; Überschriftenhierarchie dezimal vereinheitlicht."
+    ],
+    "sha256": "75501866986072a5a36091dcf7b2aae9da5be1616f4342169881f9472a1c9502"
+  },
+  "selection": {
+    "positive": [
+      "Bestimme wirtschaftlich Berechtigte anhand einer mehrstufigen Beteiligungskette.",
+      "Gleiche Drittzahlung, Vertragspartei und Identitätsbelege für die Geldwäscheprüfung ab."
+    ],
+    "negative": [
+      "Berechne ausschließlich den steuerlichen Beteiligungsertrag einer Holding.",
+      "Prüfe nur die Markenverwechslungsgefahr zweier Unternehmensnamen."
+    ]
+  },
+  "cases": [
+    {
+      "id": "mittelbare-kontrolle-statt-quotenprodukt",
+      "request": "Erstelle ergebnis.md als KYC-Vermerk nach geltendem deutschen GwG zum 14. September 2026. Die Ziel-GmbH ist nicht börsennotiert. Eine Holding hält 40 Prozent der Kapital- und Stimmrechte; die natürliche Person Anna hält 60 Prozent der Kapital- und Stimmrechte dieser Holding und kontrolliert sie. Boris hält unmittelbar genau 25 Prozent an der Ziel-GmbH. Die übrigen 35 Prozent verteilen sich auf sieben voneinander unabhängige natürliche Personen mit je 5 Prozent. Alle Angaben sind aktuell belegt; Sonderrechte, Stimmbindungen, Treuhand und andere Kontrollverhältnisse bestehen nicht. Bestimme die wirtschaftlich Berechtigten und erläutere, ob stattdessen die Geschäftsführung eingetragen werden sollte.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Anna wird aufgrund der kontrollierten Holding als mittelbar wirtschaftlich Berechtigte erfasst und nicht wegen des rechnerischen Produkts von 24 Prozent ausgeschlossen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Boris wird bei genau 25 Prozent ohne weitere Kontrolle nicht allein aufgrund dieser Quote als wirtschaftlich Berechtigter eingestuft.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Geschäftsführung wird bei ermittelter tatsächlicher wirtschaftlich Berechtigter nicht ersatzweise als subsidiär Berechtigte verwendet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "geldwaesche-ubo-wirtschaftlich-berechtigte"
+    }
+  ]
+}

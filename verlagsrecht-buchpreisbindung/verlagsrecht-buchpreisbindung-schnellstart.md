@@ -41,13 +41,13 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Rechtsfolge | Autorenvertrag, Rechte-Schedule, Honorarabrechnung, Preisfreigabevermerk, Abmahnantwort oder Rückruf- und Exitplan erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
-## 5. Einsatzfelder
+## 5. Preisprüfung am einzelnen Exemplar
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Werk und Beteiligte | Manuskript, Ausgabe, Autor, Herausgeber, Übersetzer, Bildgeber, Sprecher, Nachlass und Vorrechte feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtekette | Nutzungsart, Sprache, Gebiet, Dauer, Exklusivität, Bearbeitung, Unterlizenz, Rückfall und Drittmaterial ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Produktion und Vergütung | Ablieferung, Lektorat, Freigabe, Auflage, Vorschuss, Absatzhonorar, Nebenrechte und Abrechnung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Trenne Rücksendung, Gebrauchtverkauf, beschädigtes Exemplar und wirksame Preisaufhebung. Eine Remission allein ist keine Ausnahme von der Preisbindung; ein Stempel macht ein einwandfreies neues Buch nicht zum Mängelexemplar. Paragraf 7 Absatz 1 Nummer 4 BuchPrG verlangt Beschädigung oder sonstigen Fehler und die entsprechende Kennzeichnung. Nicht Paragraf 6 als Ausnahmekatalog verwenden.
+
+Erstelle ein Losprotokoll: Titel und Ausgabe, Stückzahl, geltender Ladenpreis, tatsächlicher Zustand, Fotos oder Prüfbeleg, Kennzeichnung, gewünschter Verkaufspreis, tragende Ausnahme oder Sperrgrund. Bei gemischten Rücksendungen einzeln oder nachvollziehbar nach Zustandsgruppen sortieren. Ungeprüfte Exemplare bleiben ungeprüft; ein Stichprobenbefund ist keine Vollkontrolle. Berechne Erlöse je freigabefähiger Gruppe und weise gesperrte Mengen gesondert aus. Keine Preisänderung oder Verkaufsaktion selbst auslösen.
+
+Amtliche Grundlagen: [Paragraf 3 BuchPrG](https://www.gesetze-im-internet.de/buchprg/__3.html) und [Paragraf 7 BuchPrG](https://www.gesetze-im-internet.de/buchprg/__7.html).
 
 
 ## 6. Anker
@@ -56,9 +56,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 - UrhG Paragraf 31 ff.: Nutzungsrechte, Zweckübertragung, unbekannte Nutzungsarten, angemessene Vergütung, Auskunft und Rückruf.
 - BuchPrG Paragraf 3 bis Paragraf 7: Preisbindung, Preisfestsetzung, zulässige Nachlässe und besondere Vertriebsfälle.
 - UrhG Paragraf 64, Paragraf 72 und Paragraf 82: Schutzfristen für Werke, Lichtbilder und ausübende Künstler nach den jeweiligen Fristanknüpfungen.
-- Paragraf 32 UrhG: Unangemessene Unentgeltlichkeit ist nicht automatisch unwirksam; bei entsprechendem Branchenbrauch kann Unentgeltlichkeit angemessen sein; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 38 Abs. 4 UrhG: Unabdingbares Zweitveröffentlichungsrecht für wissenschaftliche Autoren nach 12 Monaten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 32a UrhG bei Bestseller: Freier Übersetzer fordert Nachvergütung für Bestseller-Übersetzung; Verlag hat keine Öffnungsklausel im Vertrag; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Bei Vergütungs- oder Zweitveröffentlichungsfragen die vollständigen Voraussetzungen der einschlägigen Vorschrift anhand Vertrag, Werkart, Finanzierung und Publikationsdaten prüfen; weder einen Bestseller noch einen bloßen Zeitablauf als allein ausreichenden Tatbestand behandeln.
 
 ## 7. Antwortform
 
@@ -72,4 +70,4 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Manuskriptfassung, Rechtekette oder Ausgabeform ist ungeklärt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Nur den abhängigen Freigabeschritt sperren, wenn Manuskriptfassung, Rechtekette, Exemplarzustand oder Ausgabeform ungeklärt ist. Den belegten Teil weiterbearbeiten. Die Werkstatt ist optionale Vertiefung; alle Kernschritte stehen hier. Keine Veröffentlichung, Abmahnung oder Rechteübertragung ohne ausdrückliche Freigabe veranlassen.

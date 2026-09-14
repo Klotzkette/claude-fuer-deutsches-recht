@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "plugin": "lobbyregister-bundestag",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/lobbyrg/__2.html",
+      "checked_on": "2026-09-14",
+      "supports": "Alternative Registrierungstatbestände und adressatenbezogene Ausnahmen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/lobbyrg/__3.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 3: unverzügliche, quartalsbezogene und geschäftsjahresbezogene Aktualisierung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der vollständige Mini und der gelesene Geschäftsjahresskill ordneten Aktualisierung falsch zu; der Mini enthielt zudem ein abgebrochenes Ausnahmenfragment.",
+    "changes": [
+      "Aktualisierung auf Paragraf 3 Absatz 3 mit drei Takten berichtigt.",
+      "Feldbezogene Änderungs- und Freigabematrix statt allgemeiner Fallkarte eingeführt."
+    ],
+    "sha256": "fef7131abf071ff5f70731e080bbc36340c0f6b393ffd3f2431b52b1c8186d77"
+  },
+  "selection": {
+    "positive": [
+      "Ordnen Sie unseren neuen Auftraggeber und Finanzbericht den Aktualisierungsfristen zu.",
+      "Prüfen Sie die Registrierung einer dauerhaft beauftragten Interessenvertretung."
+    ],
+    "negative": [
+      "Prüfen Sie eine Parteispende nach Parteienrecht ohne Lobbytätigkeit.",
+      "Melden Sie einen Verein ausschließlich zum Vereinsregister an."
+    ]
+  },
+  "cases": [
+    {
+      "id": "drei-aenderungstakte",
+      "request": "Erstellen Sie ergebnis.md als Aktualisierungsplan zum 14.09.2026 für eine bereits registrierte Interessenvertretungs-GmbH. Geschäftsjahresende war 31.03.2026. Am 10.09.2026 wurde ein neuer Auftraggeber angenommen, für den dauerhaft Bundestagskontakte erfolgen. Am 11.09.2026 ging eine grundlegende Stellungnahme zu einem bereits eingetragenen Regelungsvorhaben an ein Mitglied des Bundestages; sie wurde in keinem förmlichen Beteiligungsverfahren veröffentlicht. Die Finanzangaben für das abgelaufene Geschäftsjahr sind fertig, aber noch nicht eingetragen. Erarbeiten Sie die internen nächsten Schritte, ohne etwas zu veröffentlichen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der neue Auftraggeber wird unverzüglich zu aktualisierenden Angaben zugeordnet und nicht bis zur Jahresmeldung zurückgestellt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Für die Stellungnahme wird spätestens der 30.09.2026 mit Anonymisierung und maschinenlesbarer Fassung vorgesehen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Geschäftsjahresaktualisierung wird spätestens zum 30.09.2026 mit Gesamtprüfung und Richtigkeitsbestätigung geplant; eine Veröffentlichung wird nicht behauptet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "geschaeftsjahresaktualisierung"
+    }
+  ]
+}

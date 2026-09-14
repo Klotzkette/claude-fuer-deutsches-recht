@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "plugin": "datenschutz-sanktionsverfahren-verteidigung",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {"url":"https://www.gesetze-im-internet.de/owig_1968/__67.html","checked_on":"2026-09-14","supports":"Zwei Wochen nach Zustellung; Einspruch schriftlich oder zur Niederschrift bei der erlassenden Verwaltungsbehörde."},
+    {"url":"https://www.gesetze-im-internet.de/bdsg_2018/__20.html","checked_on":"2026-09-14","supports":"Verwaltungsrechtsweg für Streitigkeiten mit der Aufsichtsbehörde über datenschutzrechtliche Rechte, gesondert vom Bußgeldverfahren."},
+    {"url":"https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html","checked_on":"2026-09-14","supports":"Paragraf 41 verweist für Bußgeldverfahren auf OWiG und Strafverfahrensrecht mit besonderen Ausnahmen."},
+    {"url":"https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de","checked_on":"2026-09-14","supports":"Artikel 33 und 34: Pflichtmeldung und Betroffenenbenachrichtigung; Artikel 58, 82 und 83: getrennte Abhilfe-, Haftungs- und Bußgeldspuren."},
+    {"url":"https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0807","checked_on":"2026-09-14","supports":"EuGH, Urteil vom 5. Dezember 2023, C-807/21: keine notwendige Identifizierung einer natürlichen Person, aber schuldhafter Verstoß als Bußgeldvoraussetzung."},
+    {"url":"https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de","checked_on":"2026-09-14","supports":"Geänderte Artikel 4, 4a, 111 und 113 der KI-Verordnung: Kompetenzförderung, begrenzte Bias-Datenverarbeitung und differenzierte Hochrisiko-Anwendungszeiten."},
+    {"url":"https://www.gesetze-im-internet.de/ki-mig/__2.html","checked_on":"2026-09-14","supports":"Auffangzuständigkeit der Bundesnetzagentur und besondere Produkt-, Finanz-, Landes- und Medienzuständigkeiten einschließlich unabhängiger Kammer."},
+    {"url":"https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29","checked_on":"2026-09-14","supports":"COM(2025) 837 befindet sich noch im Gesetzgebungsverfahren und ersetzt die geltenden Meldevoraussetzungen nicht."}
+  ],
+  "mini_review": {"sha256":"156547abbad756e89d0514ca1f2161d1e2af3960b541850e5080b3d7fee85e68",
+    "verdict": "revised",
+    "reason": "Die jüngere Fachfassung trennte Verteidigung, Pflichtmeldung und Omnibus bereits zutreffend. Diese Abschnitte bleiben erhalten; die Einspruchsroute war für eine eigenständige Fristwahrung noch nicht konkret genug.",
+    "changes": ["Zustellung, Zweiwochenfrist, erlassende Behörde und bewusste Einspruchsbeschränkung ergänzt.","Verschuldensprüfung auf die amtlich geprüfte Entscheidung C-807/21 konzentriert.","Reformkarte einschließlich Artikel 4a und beider Hochrisikofristen erhalten; Zuständigkeitsausnahmen konkretisiert und optionale Vertiefung klargestellt."]
+  },
+  "selection": {
+    "positive": ["Entwirf den fristwahrenden Einspruch gegen den Datenschutz-Bußgeldbescheid und trenne die beigefügte Löschungsanordnung.","Bewerte unsere Verteidigung gegen einen vorgeworfenen DSGVO-Verstoß anhand der Behördenakte und der dokumentierten Abhilfemaßnahmen."],
+    "negative": ["Erstelle für unsere neue Website erstmals eine Datenschutzerklärung ohne laufendes Verfahren.","Wehre eine kartellrechtliche Geldbuße des Bundeskartellamts wegen Preisabsprachen ab."]
+  },
+  "cases": [{
+    "id": "einspruch-und-loeschungsanordnung-trennen",
+    "request": "Die Mandantin Archiv Service GmbH, vertreten durch Geschäftsführerin Lea Kern, hat uns am 14. September 2026 schriftlich mit der Verteidigung beauftragt. Das Bayerische Landesamt für Datenschutzaufsicht erließ am 10. September unter Aktenzeichen B-26-417 einen Bußgeldbescheid über 45.000 Euro wegen fortgesetzter Speicherung erledigter Kundenakten. Er wurde laut Zustellungsurkunde am 11. September zugestellt. Im selben Umschlag lag unter Aktenzeichen A-26-418 eine eigenständige Löschungsanordnung nach Artikel 58 mit eigener Rechtsbehelfsbelehrung. Heute soll nur der Bußgeldbescheid insgesamt angegriffen werden; die Löschungsanordnung besprechen wir morgen. Die Geschäftsführerin meint, der Bescheid sei allein deshalb unwirksam, weil er keinen handelnden Mitarbeiter nennt. Die Behörde behauptet fahrlässige Nichtumsetzung eines Löschkonzepts; die vollständige Ermittlungsakte haben wir noch nicht. Erstelle ergebnis.md mit einem kurzen Fristvermerk, einem vollständigen fristwahrenden Einspruchsentwurf und einer internen Einschätzung dieses Einwands. Kein Versand und noch keine ausführliche Einlassung zum tatsächlichen Löschablauf.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id":"C01","text":"Der Fristvermerk leitet aus Zustellung am 11. September die Zweiwochenfrist bis 25. September 2026 ab, statt an das Bescheiddatum anzuknüpfen.","deliverables":["ergebnis.md"]},
+      {"id":"C02","text":"Der Entwurf richtet sich an die erlassende Behörde, bezeichnet B-26-417 und greift den Bußgeldbescheid insgesamt an; die gesonderte Löschungsanordnung wird nicht versehentlich mit diesem Einspruch erledigt.","deliverables":["ergebnis.md"]},
+      {"id":"C03","text":"Das Ergebnis verwirft die fehlende Mitarbeiteridentifizierung als allein tragenden Unwirksamkeitsgrund, verlangt aber weiterhin einen vorsätzlichen oder fahrlässigen Verstoß statt verschuldensloser Haftung.","deliverables":["ergebnis.md"]},
+      {"id":"C04","text":"Die Fristwahrung wird ohne Aktenkenntnis nicht aufgeschoben; zugleich werden keine unbekannten Löschabläufe eingeräumt oder erfunden und keine tatsächliche Einreichung behauptet.","deliverables":["ergebnis.md"]}
+    ],
+    "target_skill": "einspruch-67-owig-frist-und-form"
+  }]
+}

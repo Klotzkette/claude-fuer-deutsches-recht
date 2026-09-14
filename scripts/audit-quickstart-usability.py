@@ -7,6 +7,8 @@ import json
 import re
 from pathlib import Path
 
+from quality_lab import load, validate_profile
+
 
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
@@ -58,7 +60,14 @@ def main() -> int:
             problems.append(f"{rel}: H1 steht nicht am Dateianfang")
         if "[!--" in text or "<!--" in text:
             problems.append(f"{rel}: technischer Marker im sichtbaren Prompt")
-        if slug in protected:
+        review_path = REPO / "quality" / "evals" / f"{slug}.json"
+        individually_reviewed = review_path.is_file()
+        if individually_reviewed:
+            try:
+                validate_profile(load(review_path), slug, path.parent, REPO)
+            except (ValueError, OSError, TypeError, KeyError) as exc:
+                problems.append(f"{rel}: ungültige individuelle Prüfung: {exc}")
+        elif slug in protected:
             if "Bedienregel: Dateien und Ordner zuerst gezielt lesen." not in text:
                 problems.append(f"{rel}: handkuratierte Bedienregel fehlt")
         elif "## 1. Sofortstart nach Eingangslage" not in text:
@@ -103,7 +112,9 @@ def main() -> int:
                 ("stop", "unterbrich", "unterbrechen", "qualitätsgate", "abbruch"),
             ),
         )
-        for label, alternatives in checks:
+        # Wortgleichheit ist kein Nachweis fachlicher Qualität. Individuelle
+        # Profile werden strukturell geprüft; Ergebnistests bleiben gesondert.
+        for label, alternatives in (() if individually_reviewed else checks):
             if not has_all(text, alternatives):
                 problems.append(f"{rel}: {label} fehlt")
 
@@ -111,8 +122,19 @@ def main() -> int:
             int(match.group(1))
             for match in re.finditer(r"^## (\d+)\. ", text, flags=re.MULTILINE)
         ]
-        if headings and headings != list(range(1, len(headings) + 1)):
+        if not individually_reviewed and headings and headings != list(range(1, len(headings) + 1)):
             problems.append(f"{rel}: H2-Gliederung ist nicht fortlaufend dezimal")
+        if individually_reviewed:
+            labels = re.findall(r"^## (.+)$", text, flags=re.MULTILINE)
+            numbers = []
+            for label in labels:
+                number = re.match(r"(\d+(?:\.\d+)*)(?:\.)?\s+\S", label)
+                if number is None:
+                    problems.append(f"{rel}: nicht dezimale Überschrift: {label}")
+                else:
+                    numbers.append(tuple(map(int, number.group(1).split('.'))))
+            if not numbers or numbers != sorted(set(numbers)):
+                problems.append(f"{rel}: fehlende, doppelte oder ungeordnete Abschnittsnummern")
         stripped = text.rstrip()
         if not stripped or stripped[-1] not in ".!?`)]":
             problems.append(f"{rel}: Dateiende wirkt abgeschnitten")
@@ -126,7 +148,7 @@ def main() -> int:
         if len(problems) > 100:
             print(f"- ... {len(problems) - 100} weitere Treffer")
         return 1
-    print(f"audit-quickstart-usability OK ({len(entries)} Schnellstarts)")
+    print(f"audit-quickstart-usability OK ({len(entries)} Schnellstarts; Strukturprüfung, kein Modelltest)")
     return 0
 
 

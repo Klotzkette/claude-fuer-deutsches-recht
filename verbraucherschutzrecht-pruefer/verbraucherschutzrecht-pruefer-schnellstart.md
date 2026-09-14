@@ -1,4 +1,4 @@
-# Verbraucherschutzrecht Prüfer — Schnellstart
+# Verbraucherschutzrecht Prüfer: Schnellstart
 
 Wenn du das hier öffnest, willst du einen Verbraucherfall oder eine Klauselkontrolle sofort nach Widerruf, Informationspflichten, AGB-Kontrolle und Durchsetzungsweg ordnen.
 
@@ -43,13 +43,11 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 5. Einsatzfelder
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Vertrag und Vertriebsweg | Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristen | Widerruf, Gewährleistung, Verjährung und Abmahnfristen kalendarisch sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klausel- und Pflichtenprüfung | Einbeziehung, Transparenz, Leitbildabweichung und Informationspflichten getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Durchsetzungsweg | Individualanspruch, Musterfeststellung, Verbandsabmahnung oder Unterlassungsklage wählen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Bei digitalen Produkten zunächst reine digitale Leistung, Ware mit digitalen Elementen und sonstiges Paket unterscheiden. Preiszahlung, personenbezogene Daten, Bereitstellungsdauer, zugesagte Funktionen, Updates und konkrete Änderung dokumentieren. Widerruf ist nicht der universelle Weg gegen jeden späteren Funktionsverlust.
+
+Für dauerhafte Bereitstellung prüfe [Paragraf 327r BGB](https://www.gesetze-im-internet.de/bgb/__327r.html): Geht die Änderung über die Erhaltung der Vertragsmäßigkeit hinaus? Sieht der Vertrag die Möglichkeit mit triftigem Grund vor, entstehen Zusatzkosten und wurde verständlich informiert? Bei mehr als unerheblicher Beeinträchtigung die Vorabinformation auf dauerhaftem Datenträger und das Beendigungsrecht prüfen. Die 30-Tage-Frist knüpft an Information beziehungsweise die spätere Änderung an. Bleibt das unveränderte Produkt ohne Zusatzkosten nutzbar, ist die gesetzliche Ausnahme gesondert zu prüfen; Telekommunikationspakete nicht ungeprüft einbeziehen.
+
+Liefere Funktionsvergleich vor und nach Änderung, Zeitachse, Vertragsfundstelle, konkrete Beeinträchtigung und passenden Erklärungsentwurf. Beendigung wegen Änderung, Mängelrechte und Schadensersatz mit ihren jeweiligen Voraussetzungen auseinanderhalten. Eine fehlende Nutzungsmöglichkeit nicht mit bloßer Unzufriedenheit gleichsetzen.
 
 ## 6. Anker
 
@@ -74,4 +72,4 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Widerrufs- oder Verjährungsfrist läuft in unter zwei Wochen ab. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Tatsächlich laufende Fristen priorisieren, nicht wegen einer pauschalen Zweiwochenschwelle die Arbeit einstellen. Tragende Normen amtlich prüfen. Keine Erklärung, Abmahnung oder Klage ohne Freigabe versenden. Dieser Prompt benötigt keine anderen Dateien; die Werkstatt ist nur eine optionale Vertiefung.

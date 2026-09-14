@@ -1,77 +1,27 @@
-# Bundeswehrrecht Wehrrecht — Schnellstart
+# 1 Wehrrechtlichen Vorgang richtig zuordnen
 
-Wenn du das hier öffnest, willst du Befehl, Beurteilung, Dienstposten, Beschwerde, Disziplinarvorwurf, Dienstfähigkeit, Versorgung oder Wehrdienstfrage im richtigen militärischen Verfahrensweg bearbeiten.
+Bearbeite den konkreten Auftrag anhand vorhandener Befehle, Beurteilungen, Personalmaßnahmen, Bescheide und Korrespondenz. Notiere Status, Einheit, handelnde Stelle, Bekanntgabe und gewünschten Schutz. Berufs- oder Zeitsoldat, Reservist und ziviler Beschäftigter sind keine austauschbaren Rollen. Liefere den verlangten Entwurf direkt; frage nur nach einer Lücke, die den zuständigen Weg oder die nächste Handlung entscheidet.
 
-Kernauftrag: Super-Plugin für Soldatenrecht, Wehrbeschwerde, Disziplinarrecht, Wehrpflicht, Reservisten, Versorgung und Bundeswehrverwaltung. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Maßnahme statt allgemeiner Unzufriedenheit
 
-## 1. Sofortstart nach Eingangslage
+Trenne truppendienstliche Maßnahme, einfaches oder gerichtliches Disziplinarverfahren, Statusentscheidung, Besoldung und Versorgung. Der militärische Zusammenhang allein führt nicht jedes Begehren zum Truppendienstgericht. Beschreibe, was konkret aufgehoben, geändert, unterlassen oder vorläufig ausgesetzt werden soll. Ein unzutreffender Satz in einer Beurteilung erfordert andere Tatsachen als ein angegriffener Befehl.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Person und Status, Rechtsweg und Frist, Dienstliche Tatsachen wählen; ohne konkreten Auftrag mit Person und Status beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bei einem Befehl erfasse Urheber, Inhalt, Zeitpunkt, dienstlichen Zweck und bisherige Ausführung. Prüfe Gehorsamspflicht und gesetzliche Grenzen gesondert anhand der tatsächlichen Situation. Weder pauschalen Ungehorsam empfehlen noch jede Weisung allein wegen des Dienstgrads als verbindlich behandeln. Gesundheits- und Sicherheitsgefahren mit konkreten Nachweisen priorisieren.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Person und Status, Rechtsweg und Frist, Dienstliche Tatsachen und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2 Beschwerde nach der WBO
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Nach [Paragraf 6 WBO](https://www.gesetze-im-internet.de/wbo/__6.html) darf die Beschwerde frühestens nach Ablauf einer Nacht und muss binnen eines Monats nach Kenntnis vom Beschwerdeanlass eingelegt werden. Halte Kenntnisdatum, Verfahrensstufe und Fristberechnung fest. Spätere Rechtsbehelfe haben ihre eigenen Regeln; übertrage diese Frist nicht ungeprüft.
 
-## 2. Fachlicher Direktstart
+Die Einlegung richtet sich nach [Paragraf 5 WBO](https://www.gesetze-im-internet.de/wbo/__5.html) an den nächsten Disziplinarvorgesetzten des Beschwerdeführers oder die zur Entscheidung zuständige andere Stelle. Verwechsle den Beschwerdeführer nicht mit dem Vorgesetzten, dessen Verhalten beanstandet wird. Die Beschwerde ist schriftlich oder mündlich mit entsprechender Niederschrift möglich; dokumentiere den Eingang, nicht nur den Versand. Elektronische Übermittlung nur nach Prüfung des eröffneten Weges.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welcher soldatenrechtliche Status und welcher konkrete militärische oder administrative Akt liegen vor.
-2. Kernprüfung in einem Durchgang: Welcher spezielle Rechtsweg und welche kurze Frist gelten; Welche Befehlskette, dienstliche Dokumentation und persönliche Wahrnehmung belegen den Sachverhalt.
-3. Belege und Engpass zusammenführen: Nachweisachse Dienstliche Tatsachen: Befehl, Meldung, Beurteilung, Auswahl, Einsatz, Gesundheitsakte, Zeugen und Dokumentationskette sichern; besonders kritisch ist: Befehl, Disziplinarmaßnahme, Beschwerdefrist, Einsatz oder Gesundheitsentscheidung verlangt sofortige Reaktion.
-4. Erstes Arbeitsprodukt liefern: Wehrrechtsblatt: Status, Einheit, Maßnahme, Zugang, Befehlskette, Rechtsweg, Frist, Beleg und Sofortziel.
+## 1.3 Vorläufiger Schutz ist ein eigener Schritt
 
-## 3. Kernroute
+Nach [Paragraf 3 WBO](https://www.gesetze-im-internet.de/wbo/__3.html) hat die truppendienstliche Beschwerde keine aufschiebende Wirkung. Sie befreit insbesondere nicht allein von der Befehlsausführung; die gesetzlichen Befehlsgrenzen bleiben unberührt. Prüfe Aussetzung oder andere einstweilige Maßnahmen und formuliere bei Bedarf einen konkreten Antrag mit drohendem Nachteil und tragendem Nachweis. Behaupte eine Aussetzung erst nach tatsächlicher Entscheidung.
 
-1. Person und Status: Dienstgrad, Wehrdienstverhältnis, Einheit, Verwendung, Vorgesetzter, Befehl, Maßnahme und Zugang feststellen.
-2. Rechtsweg und Frist: WBO, WDO, allgemeine Verwaltung, Zivilgericht oder Sozialgericht nach Streitgegenstand zuordnen.
-3. Dienstliche Tatsachen: Befehl, Meldung, Beurteilung, Auswahl, Einsatz, Gesundheitsakte, Zeugen und Dokumentationskette sichern.
-4. Rechtmäßigkeit und Schutz: Zuständigkeit, Gehorsamspflicht, Unverbindlichkeit, Fürsorge, Gleichbehandlung, Verhältnismäßigkeit und Eilbedarf prüfen.
-5. Arbeitsprodukt: Beschwerde, Antrag an das Truppendienstgericht, Einlassung, Beurteilungseinwand, Versorgungsantrag oder Behördenbrief erstellen.
+Liegt bereits ein Beschwerdebescheid vor, prüfe zuständige nächste Stelle, Rechtsbehelfsbelehrung und aktuelle Norm. Allgemeiner Widerspruch, weitere Wehrbeschwerde und gerichtlicher Antrag sind nicht gleichzusetzen. Eine Eingabe beim Wehrbeauftragten darf nicht ohne Prüfung als Ersatz für fristgebundenen Rechtsschutz behandelt werden.
 
-## 4. Fallkarte
+## 1.4 Dienstliche Tatsachen belegen
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | Soldatengesetz; Wehrbeschwerdeordnung; Wehrdisziplinarordnung |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Dienstgrad, Wehrdienstverhältnis, Einheit, Verwendung, Vorgesetzter, Befehl, Maßnahme und Zugang feststellen |
-| Beweislast | Nachweisachse Dienstliche Tatsachen: Befehl, Meldung, Beurteilung, Auswahl, Einsatz, Gesundheitsakte, Zeugen und Dokumentationskette sichern |
-| Rechtsfolge | Beschwerde, Antrag an das Truppendienstgericht, Einlassung, Beurteilungseinwand, Versorgungsantrag oder Behördenbrief erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Verbinde jede Beanstandung mit Dokument, Datum, eigener Wahrnehmung oder benanntem Zeugen. Trenne Beobachtung von Bewertung. Bei Personalentscheidungen vergleiche Anforderungsprofil, Beurteilungsstand und Auswahlbegründung; persönliche Enttäuschung belegt noch keinen Auswahlfehler. Medizinische Unterlagen nur im erforderlichen Umfang auswerten und nicht unnötig in allgemeine Verteiler aufnehmen.
 
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Person und Status | Dienstgrad, Wehrdienstverhältnis, Einheit, Verwendung, Vorgesetzter, Befehl, Maßnahme und Zugang feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsweg und Frist | WBO, WDO, allgemeine Verwaltung, Zivilgericht oder Sozialgericht nach Streitgegenstand zuordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dienstliche Tatsachen | Befehl, Meldung, Beurteilung, Auswahl, Einsatz, Gesundheitsakte, Zeugen und Dokumentationskette sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtmäßigkeit und Schutz | Zuständigkeit, Gehorsamspflicht, Unverbindlichkeit, Fürsorge, Gleichbehandlung, Verhältnismäßigkeit und Eilbedarf prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Beschwerde, Antrag an das Truppendienstgericht, Einlassung, Beurteilungseinwand, Versorgungsantrag oder Behördenbrief erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- Soldatengesetz: Status, Pflichten, Befehlsbindung, Fürsorge, Personalmaßnahmen und Beendigung des Wehrdienstverhältnisses.
-- Wehrbeschwerdeordnung: Beschwerde, weitere Beschwerde, truppendienstgerichtlicher Antrag, Fristen und Zuständigkeit.
-- Wehrdisziplinarordnung: disziplinare Ermittlungen, gerichtliches Verfahren, Maßnahmen und Rechtsmittel.
-- Soldatenversorgungsgesetz und Bundesbesoldungsrecht: Versorgung, Dienstzeitversorgung, Einsatz- und Dienstunfallfolgen sowie Bezüge.
-- Art. 33 II GG: Bestenauslese – Anspruch auf leistungsbezogene Auswahl; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 33 II GG; BVerfG zu Bestenauslese – ständige Rechtsprechung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 187 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 68–73 VwGO — Widerspruchsverfahren; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Beschwerde, Antrag an das Truppendienstgericht, Einlassung, Beurteilungseinwand, Versorgungsantrag oder Behördenbrief erstellen.
-7.2. Norm: Soldatengesetz; Wehrbeschwerdeordnung mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Person und Status“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Dienstliche Tatsachen: Befehl, Meldung, Beurteilung, Auswahl, Einsatz, Gesundheitsakte, Zeugen und Dokumentationskette sichern. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welcher spezielle Rechtsweg und welche kurze Frist gelten.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Wehrrechtsblatt“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Befehl, Disziplinarmaßnahme, Beschwerdefrist, Einsatz oder Gesundheitsentscheidung verlangt sofortige Reaktion. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere eine ausformulierte Beschwerde, Stellungnahme oder Antragsskizze samt kurzer Fristen- und Belegnotiz. Keine unbekannten Dienstvorschriften aus Erinnerung zitieren; bereitgestellte Fassung und Gültigkeit prüfen. Weitere Rechtsnormen und Entscheidungen aus amtlichen Primärquellen verifizieren. Zusätzliche Skills sind optional; diese Anleitung funktioniert ohne sie. Keine dienstliche Meldung oder gerichtliche Einreichung ohne Auftrag. Dezimale Gliederung und Times New Roman 11 pt beim Export.

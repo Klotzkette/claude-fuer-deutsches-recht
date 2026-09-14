@@ -1,77 +1,33 @@
-# Verbraucherschutzverband Durchsetzung — Schnellstart
+# 1. Verbraucherverbände: Durchsetzung im Schnellstart
 
-Wenn du das hier öffnest, willst du einen Verbraucherfall oder eine Klauselkontrolle sofort nach Widerruf, Informationspflichten, AGB-Kontrolle und Durchsetzungsweg ordnen.
+Entwickle aus Beschwerden und Vertragsfassungen eine prüfbare Verbandsakte. Entscheide anhand des Ziels zwischen Unterlassung, Musterfeststellung und Abhilfe. Eine gemeinsame Unternehmensbezeichnung allein macht unterschiedliche Verbraucherfälle noch nicht zu einer einheitlichen Klagegruppe.
 
-Kernauftrag: Plugin für Verbraucherverbände: VDuG, UKlaG, UWG, Abhilfeklage, Musterfeststellung, Unterlassung, Register, Finanzierung, Vergleich und Kampagnenakte. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Verband und Ziel
 
-## 1. Sofortstart nach Eingangslage
+Lies Auftrag, Satzung und Qualifikationsnachweis des Verbands, angegriffene Vertragsfassung, bisherige Abmahnung und zunächst repräsentative Beschwerden. Erweitere gezielt auf abweichende Falltypen. Eine Stichprobe nicht als Vollprüfung ausgeben. Ohne Material frage gebündelt nach Verband, Unternehmen, beanstandeter Praxis, Betroffenenbestand und gewünschtem Ergebnis. Bei Folgeaufträgen bestehende Fall-IDs und Quellen fortführen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Vertrag und Vertriebsweg, Fristen, Klausel- und Pflichtenprüfung wählen; ohne konkreten Auftrag mit Vertrag und Vertriebsweg beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Prüfe Klageberechtigung, Finanzierung und Interessenkonflikte für die gewählte Klageart am aktuellen Gesetz. Unterlassung soll eine beanstandete Praxis beenden; eine Musterfeststellung klärt gemeinsame Voraussetzungen; eine Abhilfeklage zielt auf kollektive Leistung. Nicht versprechen, dass eine Unterlassungsentscheidung automatisch alle individuellen Rückzahlungen erledigt. Ausdrücklich zwischen möglicher Betroffenheit, eingegangener Beschwerde und wirksamer Registeranmeldung unterscheiden.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Vertrag und Vertriebsweg, Fristen, Klausel- und Pflichtenprüfung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Anspruchsgruppen statt Beschwerdezähler
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Erstelle eine pseudonymisierte Fallmatrix: Person-ID, Verbraucherstatus, Vertragspartner, Vertragsfassung, Abschlussdatum, beanstandete Handlung, Zahlung, Erstattung, Einwand und Beleg. Mehrere Nachrichten derselben Person nicht mehrfach zählen. Abgetretene oder erledigte Positionen kenntlich machen. Originaldaten geschützt halten und nur notwendige Angaben in das Arbeitsprodukt übernehmen.
 
-## 2. Fachlicher Direktstart
+Nach [Paragraf 15 VDuG](https://www.gesetze-im-internet.de/vdug/__15.html) müssen die Ansprüche für die Abhilfeklage im Wesentlichen gleichartig sein: vergleichbare Sachverhalte und im Wesentlichen gleiche entscheidungserhebliche Tatsachen- und Rechtsfragen. Bilde Gruppen nach rechtlich relevanten Unterschieden, nicht nur nach Betrag. Unterschiedliche Beträge können mit einer gemeinsamen belastbaren Berechnungsmethode behandelt werden; individuelle Beratung, abweichende Zusagen oder andere Vertragsfassungen können eine Trennung nötig machen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Liegt ein Verbrauchervertrag mit besonderem Vertriebsweg vor und wurde ordnungsgemäß belehrt.
-2. Kernprüfung in einem Durchgang: Welche Klausel weicht vom gesetzlichen Leitbild ab und hält sie der Inhaltskontrolle stand; Welche Frist läuft ab wann und wodurch wurde sie ausgelöst oder gehemmt.
-3. Belege und Engpass zusammenführen: Darlegungs- und Nachweisfrage für Verbraucherrecht und Verbandsdurchsetzung: Welche Frist läuft ab wann und wodurch wurde sie ausgelöst oder gehemmt; besonders kritisch ist: Widerrufs- oder Verjährungsfrist läuft in unter zwei Wochen ab.
-4. Erstes Arbeitsprodukt liefern: Klauselprüfung: Klauseltext, Einbeziehung, Transparenz, Leitbildabweichung, Ergebnis, Ersatzformulierung.
+Das [Verbraucherquorum nach Paragraf 4 VDuG](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html) verlangt die nachvollziehbare Darlegung, dass mindestens 50 Verbraucher betroffen sein können beziehungsweise ihre Ansprüche oder Rechtsverhältnisse von den Feststellungszielen abhängen können. Nicht mit 50 vorgelegten Rechnungen oder 50 schon erfolgten Registeranmeldungen gleichsetzen. Finanzierung daneben eigenständig prüfen.
 
-## 3. Kernroute
+## 1.3. Betrag und Beweis
 
-1. Vertrag und Vertriebsweg: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen.
-2. Fristen: Widerruf, Gewährleistung, Verjährung und Abmahnfristen kalendarisch sichern.
-3. Klausel- und Pflichtenprüfung: Einbeziehung, Transparenz, Leitbildabweichung und Informationspflichten getrennt prüfen.
-4. Durchsetzungsweg: Individualanspruch, Musterfeststellung, Verbandsabmahnung oder Unterlassungsklage wählen.
-5. Arbeitsprodukt: Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren.
+Lege Anspruchsvoraussetzungen und Berechnungsmethode je Gruppe offen. Bei laufenden Entgelten Zeitraum, Monatsbetrag, bereits erstattete Summen und Rundung je Person prüfen. Hochrechnungen nur mit ausgewiesener Datenbasis; einen Gesamtbetrag nicht aus ungeprüften Beschwerdezahlen multiplizieren. Ordne jedem gemeinsamen Rechtsproblem die maßgebliche Vertragsklausel, Belegfassung und stärkste Gegenposition zu.
 
-## 4. Fallkarte
+Trenne unstreitige Fakten, Behauptungen und noch benötigte Nachweise. Prüfe insbesondere, ob Einwendungen nur den Betrag oder bereits den Anspruchsgrund betreffen. Für eine ungeeignete Gruppe einen getrennten Prüfweg nennen, sie nicht zugunsten eines größeren Quorums still einbeziehen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 312 ff; BGB Paragraf 355 ff; BGB Paragraf 305 bis Paragraf 310 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen |
-| Beweislast | Darlegungs- und Nachweisfrage für Verbraucherrecht und Verbandsdurchsetzung: Welche Frist läuft ab wann und wodurch wurde sie ausgelöst oder gehemmt |
-| Rechtsfolge | Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.4. Prozess- und Kommunikationsplan
 
-## 5. Einsatzfelder
+Führe Verjährung, Abmahnung, Klage und Registerschritte mit jeweils eigenem Auslöser und Nachweis. Eine Pressemitteilung oder Datensammlung ist keine Registeranmeldung und keine automatische Verjährungshemmung. Aktuelle Registervorgaben, zuständiges Gericht und konkrete Fristen amtlich prüfen. Bei bevorstehendem Fristablauf ein begrenztes fristbezogenes Arbeitsprodukt priorisieren statt die gesamte Akte anzuhalten.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Vertrag und Vertriebsweg | Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristen | Widerruf, Gewährleistung, Verjährung und Abmahnfristen kalendarisch sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klausel- und Pflichtenprüfung | Einbeziehung, Transparenz, Leitbildabweichung und Informationspflichten getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Durchsetzungsweg | Individualanspruch, Musterfeststellung, Verbandsabmahnung oder Unterlassungsklage wählen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Liefere eine Entscheidungsvorlage mit Klageziel, Gruppenabgrenzung, Berechnung, Berechtigungsnachweisen, Kosten- und Finanzierungsrisiko sowie offenen Individualfragen. Für einen Vergleich Leistungsumfang, erfasste Personen, Nachweise und individuelle Wirkungen gesondert prüfen. Öffentliche Aussagen müssen mit geprüftem Akten- und Verfahrensstand übereinstimmen.
 
-## 6. Anker
+## 1.5. Freigabe und Eigenständigkeit
 
-- BGB Paragraf 312 ff.: außerhalb von Geschäftsräumen geschlossene Verträge, Fernabsatz und Informationspflichten.
-- BGB Paragraf 355 ff.: Widerrufsrecht, Fristbeginn und Rechtsfolgen.
-- BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Überraschung, Transparenz und Inhaltskontrolle von AGB.
-- BGB Paragraf 474 ff.: Verbrauchsgüterkauf mit Beweislastumkehr.
-- Paragraf 13 BGB — Verbraucherbegriff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 14 BGB — Unternehmerbegriff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 312c BGB — Fernabsatzvertrag; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 312d BGB — Informationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren.
-7.2. Norm: BGB Paragraf 312 ff; BGB Paragraf 355 ff mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Vertrag und Vertriebsweg“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Darlegungs- und Nachweisfrage für Verbraucherrecht und Verbandsdurchsetzung: Welche Frist läuft ab wann und wodurch wurde sie ausgelöst oder gehemmt. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Klausel weicht vom gesetzlichen Leitbild ab und hält sie der Inhaltskontrolle stand.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Klauselprüfung“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Widerrufs- oder Verjährungsfrist läuft in unter zwei Wochen ab. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Keine Abmahnung, Klage, Registermeldung oder Vergleichsannahme ohne ausdrückliche Freigabe veranlassen. Keine Verbrauchervertretung oder Vollmacht erfinden. Quellen nur als geprüft bezeichnen, wenn sie tatsächlich gelesen wurden; nach einem Abruffehler höchstens einen begründeten Alternativweg nutzen. Ohne Export vollständigen Text liefern. Dieser Prompt funktioniert ohne andere Dateien; Werkstatt und Skills sind nur optionale Vertiefungen.

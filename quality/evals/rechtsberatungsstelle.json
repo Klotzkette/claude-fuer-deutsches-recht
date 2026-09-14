@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "rechtsberatungsstelle",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/rdg/__6.html",
+      "checked_on": "2026-09-14",
+      "supports": "Anforderungen an unentgeltliche Rechtsdienstleistungen außerhalb enger persönlicher Beziehungen und inhaltlich erforderliche Anleitung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der alte Schnellstart war ein allgemeiner Subsumtionshelfer ohne Anleitung, Beratungsumfang und Übergabeverantwortung.",
+    "changes": [
+      "Anleitungsmodell und außergerichtlichen Beratungsumfang konkretisiert.",
+      "Semesterwechsel mit Fristübernahme, Freigabestatus und erreichbarer Vertretung ausgestaltet.",
+      "Ungeprüfte Aufbewahrungs- und Statusbehauptungen aus dem Spezialmaterial nicht übernommen."
+    ],
+    "sha256": "c22b22b0f3b7f20c312cf0455173893240dee6e532715c6102e1be7a34129d61"
+  },
+  "selection": {
+    "positive": [
+      "Erstelle eine Semesterübergabe für offene Beratungsfälle ohne bestätigte Nachfolge.",
+      "Bereite einen verständlichen Mandantenbrief zur Prüfung durch unsere anleitende Juristin vor."
+    ],
+    "negative": [
+      "Übernimm ohne befugte Person die Prozessvertretung vor dem Landgericht.",
+      "Berechne die RVG-Vergütung eines entgeltlichen Kanzleimandats ohne Beratungsstellen- oder Übergabebezug."
+    ]
+  },
+  "cases": [
+    {
+      "id": "semesterwechsel-ohne-bestaetigte-nachfolge",
+      "request": "Erstelle ergebnis.md als interne Übergabenotiz unserer studentischen Rechtsberatungsstelle. Fall R17 betrifft eine bestrittene Stromnachforderung über 430 Euro. Student Leon scheidet am 15. September aus. Der Versorger hat schriftlich Antwort bis 18. September 2026 erbeten; das ist keine gerichtliche Frist. Ein vollständiger Antwortentwurf liegt zur Prüfung bei der anleitenden Volljuristin Frau Kern, ist aber weder freigegeben noch versandt. Eine studentische Nachfolge ist noch nicht benannt. Die Mandantin erwartet den zugesagten Rückruf am 16. September und darf nur über ihre hinterlegte Telefonnummer kontaktiert werden. Frau Kern ist erreichbar und für die Zuweisung zuständig. Bitte keine erneute Sachprüfung der Stromforderung, sondern sichere Übergabe mit konkreten nächsten Aufgaben.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Kennzeichnet die Nachfolge als unbesetzt und adressiert die Zuweisung sowie zwischenzeitliche Verantwortung konkret an Frau Kern, statt eine Übernahme zu fingieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet Antwortentwurf, ausstehende Freigabe und noch fehlenden Versand und erfindet keine bereits eingelegte Erklärung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erfasst Rückruf am 16. und Antworttermin am 18. September mit jeweiliger Handlung und wahrt die vorgegebene Kontaktbeschränkung; macht aus dem Versorgertermin keine Notfrist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "semester-uebergabe"
+    }
+  ]
+}

@@ -36,20 +36,17 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | --- | --- |
 | Normenanker | ZPO Paragraf 704 bis Paragraf 750; ZPO Paragraf 753 bis Paragraf 802l; ZPO Paragraf 808 ff |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Vollstreckbarer Inhalt, Klausel, Zustellung, Rechtskraft, Bedingung, Sicherheitsleistung und Forderungsstand prüfen |
 | Beweislast | Gläubiger für Titel, Klausel, Zustellung und Forderungsstand; Schuldner oder Dritter für Schutz, Erfüllung, Insolvenz und Gegenrechte |
 | Rechtsfolge | Titelcheck, Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Erinnerung oder Schutzantrag |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
-## 5. Einsatzfelder
+## 5. Titelart und offener Betrag
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Titelcheck | Vollstreckbarer Inhalt, Klausel, Zustellung, Rechtskraft, Bedingung, Sicherheitsleistung und Forderungsstand prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vollstreckungsweg | Bewegliche Sache, Forderung, Konto, Arbeitseinkommen, Herausgabe, Räumung, Grundstück oder Auskunft bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antrag | Gerichtsvollzieherauftrag, Pfändungs- und Überweisungsbeschluss, Drittauskunft, Verhaftungsauftrag oder Vollstreckungsschutz passgenau ausfüllen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schuldnerschutz und Rang | Pfändungsgrenzen, P-Konto, Vorpfändung, Priorität, Insolvenz, Drittwiderspruch und Erinnerung kontrollieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Schuldneranschreiben, Erinnerung oder Schutzantrag erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Ein Mahnbescheid ist vom Vollstreckungsbescheid zu unterscheiden. Nach [Paragraf 796 Absatz 1 ZPO](https://www.gesetze-im-internet.de/zpo/__796.html) benötigt der Vollstreckungsbescheid eine Klausel nur bei Vollstreckung für einen anderen Gläubiger oder gegen einen anderen Schuldner als im Bescheid bezeichnet. Bei identischen Parteien nicht allein wegen fehlender Klausel stoppen. Bei Rechtsnachfolge dagegen den erforderlichen Nachweis und Klauselweg prüfen.
+
+Erstelle eine Forderungsbrücke: titulierte Hauptforderung, titulierte Zinsen nach Zeitabschnitten, festgesetzte oder nachgewiesene Vollstreckungskosten, Zahlung mit Datum und Tilgungszuordnung, verbleibender Betrag. Keine Zinsen oder Gebühren ergänzen, die der Titel oder die einschlägige Grundlage nicht trägt. Teilzahlungen aus Kontobelegen abgleichen; bestehende Pfändungen nicht als erhaltenes Geld buchen. Bei streitiger Tilgungsbestimmung Varianten sichtbar halten.
+
+Prüfe Zustellung, besondere Bedingungen, Sicherheitsleistung und etwaige Wartefrist titelbezogen, keine pauschale Zweiwochenfrist für jede Vollstreckung annehmen. Den am vorgesehenen Antragstag geltenden Formular- und Übermittlungsstand amtlich prüfen; angekündigte Änderungen nicht vorzeitig als geltendes Recht anwenden. Ergebnis ist ein antragsfähiger Entwurf mit aktuellem Forderungsstand und benannten Anlagen, keine bereits ausgelöste Pfändung.
 
 ## 6. Anker
 
@@ -74,4 +71,4 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 8. Stop
 
-Nur bei diesem Stop-Punkt unterbrechen: Titel, Klausel oder Zustellung fehlt oder ist nicht belegbar. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Nur einen tatsächlich erforderlichen fehlenden Nachweis als Vollstreckungshindernis behandeln. Belegte Forderungsrechnung und Entwurf weiterbearbeiten. Keine Pfändung, Vermögensauskunft oder Verhaftung selbst veranlassen. Werkstatt und weitere Skills sind optionale Vertiefung, kein notwendiger Repositoryzugriff.

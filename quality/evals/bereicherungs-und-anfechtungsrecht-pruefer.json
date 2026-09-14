@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "plugin": "bereicherungs-und-anfechtungsrecht-pruefer",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {"url":"https://www.gesetze-im-internet.de/bgb/__812.html","checked_on":"2026-09-14","supports":"Erlangtes, Leistungsbeziehung und fehlender Rechtsgrund der Rückforderung."},
+    {"url":"https://www.gesetze-im-internet.de/bgb/__818.html","checked_on":"2026-09-14","supports":"Umfang der Herausgabe und Wegfall der Bereicherung."},
+    {"url":"https://www.gesetze-im-internet.de/inso/__129.html","checked_on":"2026-09-14","supports":"Verwalteranfechtung vor Verfahrenseröffnung vorgenommener benachteiligender Rechtshandlungen als Einstieg mit Sondertatbeständen."},
+    {"url":"https://www.gesetze-im-internet.de/anfg_1999/__2.html","checked_on":"2026-09-14","supports":"Titel, Fälligkeit und unzureichende Vollstreckung für die Anfechtungsberechtigung."}
+  ],
+  "mini_review": {
+    "verdict":"revised",
+    "reason":"Der vollständige Mini prüfte überwiegend Vertragsschluss, AGB und Leistungsstörungen statt Vermögensbewegungen und enthielt einen unzutreffenden Verjährungsanker zu Paragraf 15 AnfG. Abgleich mit dem Leistungskondiktionsskill erforderte eine eigenständige Rückforderungsroute.",
+    "changes":["Leistungsbeziehungen und Rückforderungsumfang konkretisiert.","Bereicherung, Willenserklärungsanfechtung, Insolvenzanfechtung und Einzelgläubigeranfechtung getrennt.","Unpassende Vollstreckungs- und Verjährungsanker entfernt."],
+    "sha256":"fe01b311447d8a7fc5527e77bec72267b13ac7fa87c5bcc568819667495232c6"
+  },
+  "selection": {
+    "positive":["Unsere Buchhaltung hat dieselbe Rechnung zweimal bezahlt. Erstellen Sie eine begründete Rückforderung.","Ein tituliert verpflichteter Schuldner hat sein einziges Grundstück verschenkt; prüfen Sie den Zugriff gegen die Erwerberin außerhalb eines Insolvenzverfahrens."],
+    "negative":["Prüfen Sie eine Haftungsbegrenzung in neuen Einkaufs-AGB ohne Rückabwicklung.","Entwerfen Sie eine Kündigungsschutzklage gegen die Arbeitgeberin."]
+  },
+  "cases":[{
+    "id":"doppelte-rechnungszahlung",
+    "request":"Die Gartenbau GmbH schuldete der Werkzeug GmbH aus Rechnung W-81 genau 2400 Euro. Sie überwies am 2. September 2026 und versehentlich erneut am 4. September jeweils 2400 Euro mit dem Verwendungszweck W-81. Beide Buchungen sind bestätigt. Weitere Forderungen bestehen nicht; die Ware wurde ordnungsgemäß geliefert. Am 8. September bestätigte die Empfängerin, beide Beträge noch auf dem Geschäftskonto zu haben, meinte aber, ohne Anfechtung des Kaufvertrags gebe es keine Rückzahlung. Ein Insolvenzverfahren besteht bei keiner Gesellschaft. Verfassen Sie für die Gartenbau GmbH eine interne Bewertung und ein versandfertiges Rückforderungsschreiben mit angemessener frei gewählter Zahlungsfrist. Heute ist der 14. September 2026; Namen der Geschäftsführenden müssen nicht eingesetzt werden.",
+    "input_files":[],
+    "deliverables":["ergebnis.md"],
+    "criteria":[
+      {"id":"C01","text":"Das Ergebnis ordnet die erste Zahlung der bestehenden Kaufpreisforderung zu und fordert nur die zusätzlichen 2400 Euro zurück; es verlangt nicht 4800 Euro.","deliverables":["ergebnis.md"]},
+      {"id":"C02","text":"Die Begründung prüft die rechtsgrundlose zweite Leistung zwischen den beiden Gesellschaften und macht die Rückforderung nicht von einer Anfechtung oder Unwirksamkeit des Kaufvertrags abhängig.","deliverables":["ergebnis.md"]},
+      {"id":"C03","text":"Das Schreiben benennt beide Zahlungstage und die Rechnung nachvollziehbar, fordert einen bestimmten Betrag bis zu einer bestimmten Frist und erfindet weder Insolvenzbenachteiligung noch Verbrauchervertragswiderruf.","deliverables":["ergebnis.md"]}
+    ],
+    "target_skill":"leistungskondiktion-grundtatbestand-812-i-1-alt-1"
+  }]
+}

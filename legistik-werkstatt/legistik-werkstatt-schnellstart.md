@@ -1,77 +1,21 @@
-# Legistik Werkstatt — Schnellstart
+# 1. Vom Regelungsauftrag zum Normtext
 
-Wenn du das hier öffnest, willst du eine Norm, eine Verwaltungsvorschrift, einen Haushaltsvorgang oder eine Berichtspflicht sauber herleiten, prüfen oder entbürokratisieren.
+Lies Nutzersachverhalt, Regelungsauftrag, geltende Fassung und Entwurf vor jeder Rückfrage. Bestimme Normgeber, Normart, Ebene und gewünschte Änderung. Frage nur nach blockierenden politischen Entscheidungen oder Ausgangstexten. Erfinde keine geltenden Vorschriften oder Zuständigkeiten.
 
-Kernauftrag: Legistik-Werkstatt für Ministerien, Bundestag, Fraktionen/Opposition, Länder, Landtage und Normgeber. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Regelung auflösen
 
-## 1. Sofortstart nach Eingangslage
+Ordne jeder Pflicht Adressat, Tatbestand, Handlung, Frist, Ausnahme und Vollzugsstelle zu. Prüfe Normalfall, Grenzfall und Altfall gegen die gewünschte Folge. Kennzeichne politische Wahlmöglichkeiten, statt sie als redaktionelle Korrektur zu verstecken. Sanktionen nicht ohne Regelungsentscheidung ergänzen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Normvorhaben oder Vorgang, Rechtsförmlichkeit, Folgenabschätzung wählen; ohne konkreten Auftrag mit Normvorhaben oder Vorgang beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Zeige Ausgangstext, Änderungsbefehl und resultierende Fassung. Kontrolliere Binnenverweise, Begriffe, Anlagen und Folgeregelungen gegen die Zielfassung. Prüfe Kompetenz, Ermächtigung und Verfahren nach Normart; behandle ein Parlamentsgesetz nicht wie eine Rechtsverordnung.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Normvorhaben oder Vorgang, Rechtsförmlichkeit, Folgenabschätzung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Zeitlicher Anwendungsbereich
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Trenne Verkündung, Inkrafttreten, erstmalige Anwendung und Übergangsfrist. Bestimme die Behandlung begonnener Verfahren, bestehender Genehmigungen und neuer Anträge. Teste den Tag vor und nach jedem Stichtag. Ermögliche Vollzugsvorbereitung, ohne vorzeitig Bürgerpflichten auszulösen.
 
-## 2. Fachlicher Direktstart
+[Artikel 82 Absatz 2 GG](https://www.gesetze-im-internet.de/gg/art_82.html) ist der geprüfte Anker für Inkrafttretensbestimmungen von Bundesgesetzen und Rechtsverordnungen; Landesrecht gesondert prüfen. Keine pauschalen IT-Vorlauffristen als Rechtsvorgabe ausgeben. Optional vertieft `inkrafttreten-uebergangsrecht` die Gestaltung; ohne Zugriff die hier beschriebenen Stichtagstests durchführen. Seine Muster und Quellenangaben müssen am Normtyp und amtlichen Material geprüft werden. In jedem Test festhalten, welche Fassung gilt und ob ein bereits begonnener Vorgang den Rechtskreis wechselt.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Trägt die Ermächtigungsgrundlage Inhalt, Zweck und Ausmaß der Regelung.
-2. Kernprüfung in einem Durchgang: Sind Zuständigkeit und Verfahren der normsetzenden Stelle gewahrt; Welcher Erfüllungsaufwand entsteht und welche Pflicht lässt sich streichen oder pauschalieren.
-3. Belege und Engpass zusammenführen: Darlegungs- und Nachweisfrage für Staatsorganisation, Haushalts- und Normsetzungspraxis: Welcher Erfüllungsaufwand entsteht und welche Pflicht lässt sich streichen; besonders kritisch ist: Die Ermächtigungsgrundlage ist zweifelhaft; ohne sie keine Verordnung und keine Satzung.
-4. Erstes Arbeitsprodukt liefern: Normgerüst: Eingangsformel, Regelungsteil, Ordnungswidrigkeiten, Übergangsrecht, Inkrafttreten, Begründung.
+## 1.3. Vollzug und Ausgabe
 
-## 3. Kernroute
+Beziffere Aufwand aus Fallzahlen, Bearbeitungszeiten und Kostensätzen; trenne einmalige Umstellung und laufenden Aufwand. Schätzungen kennzeichnen. Prüfe, welche Daten bereits erhoben werden und welcher zusätzliche Vorgang entsteht.
 
-1. Normvorhaben oder Vorgang: Regelungsziel, Ebene, Ermächtigungsgrundlage und Zuständigkeit feststellen.
-2. Rechtsförmlichkeit: Aufbau, Eingangsformel, Zitiergebot, Übergangsrecht und Inkrafttreten prüfen.
-3. Folgenabschätzung: Erfüllungsaufwand, Berichtspflichten, Evaluierung und Bürokratiekosten beziffern.
-4. Verfahren: Ressortabstimmung, Beteiligungen, Kabinett, Gremien oder Rat mit Fristen ordnen.
-5. Arbeitsprodukt: Normtext mit Begründung, Prüfvermerk, Haushaltsvermerk oder Entlastungsvorschlag ausformulieren.
-
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 80; GGO und Handbuch der Rechtsförmlichkeit; NKRG |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Regelungsziel, Ebene, Ermächtigungsgrundlage und Zuständigkeit feststellen |
-| Beweislast | Darlegungs- und Nachweisfrage für Staatsorganisation, Haushalts- und Normsetzungspraxis: Welcher Erfüllungsaufwand entsteht und welche Pflicht lässt sich streichen oder pauschalieren |
-| Rechtsfolge | Normtext mit Begründung, Prüfvermerk, Haushaltsvermerk oder Entlastungsvorschlag ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Normvorhaben oder Vorgang | Regelungsziel, Ebene, Ermächtigungsgrundlage und Zuständigkeit feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsförmlichkeit | Aufbau, Eingangsformel, Zitiergebot, Übergangsrecht und Inkrafttreten prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Folgenabschätzung | Erfüllungsaufwand, Berichtspflichten, Evaluierung und Bürokratiekosten beziffern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahren | Ressortabstimmung, Beteiligungen, Kabinett, Gremien oder Rat mit Fristen ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Normtext mit Begründung, Prüfvermerk, Haushaltsvermerk oder Entlastungsvorschlag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- GG Artikel 80: Verordnungsermächtigung mit Inhalt, Zweck und Ausmaß.
-- GGO und Handbuch der Rechtsförmlichkeit: Aufbau, Eingangsformel, Zitierweise und Verfahren von Rechtsnormen.
-- NKRG: Prüfung des Erfüllungsaufwands durch den Nationalen Normenkontrollrat.
-- BHO und Landeshaushaltsordnungen: Wirtschaftlichkeit, Zuwendungen und Haushaltsvollzug.
-- Art. 5 Abs. 1 Datenschutz-Grundverordnung — Datenschutzgrundsätze; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 6 Abs. 1 Datenschutz-Grundverordnung — Rechtsgrundlage; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 22 Datenschutz-Grundverordnung — automatisierte Entscheidungen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 35 Datenschutz-Grundverordnung — Datenschutz-Folgenabschätzung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Normtext mit Begründung, Prüfvermerk, Haushaltsvermerk oder Entlastungsvorschlag ausformulieren.
-7.2. Norm: GG Artikel 80; GGO und Handbuch der Rechtsförmlichkeit mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Normvorhaben oder Vorgang“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Darlegungs- und Nachweisfrage für Staatsorganisation, Haushalts- und Normsetzungspraxis: Welcher Erfüllungsaufwand entsteht und welche Pflicht lässt sich streichen oder pauschalieren. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Zuständigkeit und Verfahren der normsetzenden Stelle gewahrt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Normgerüst“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Die Ermächtigungsgrundlage ist zweifelhaft; ohne sie keine Verordnung und keine Satzung. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere ausformulierten Normtext, Einzelbegründung und offene Entscheidungen. Eine Synopse ergänzt den Text, ersetzt ihn aber nicht. Amtliche Entwurfsformen mit begründeter Abweichung vom dezimal gegliederten Begleitvermerk verwenden. Keine Datenschutz- oder Haushaltsanker ohne Sachbezug. Weitere Quellen nur nach amtlichem Abruf nennen; fehlende Fassungen offenlassen. Begleittext beim Export: Times New Roman, 11 pt. Ohne Export den vollständigen Text liefern.

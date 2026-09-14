@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "phishing-vorfall-pruefer",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675w.html",
+      "checked_on": "2026-09-14",
+      "supports": "Authentifizierungsaufzeichnung allein beweist nicht notwendigerweise Autorisierung oder grobe Fahrlässigkeit."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675u.html",
+      "checked_on": "2026-09-14",
+      "supports": "Erstattung und Wiederherstellung des Kontostands bei nicht autorisierten Zahlungen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die vorhandene Zahlungskette war fachlich passend, wurde aber mehrfach wiederholt und führte bei noch nötiger Sicherung zum Arbeitsstopp.",
+    "changes": [
+      "Gerätebindung, Login und Zahlungsfreigabe konkret getrennt.",
+      "Transaktionsbezogene Beleganforderung und parallele Sicherung statt Gesamtstopp ergänzt.",
+      "Gesetzlichen Beweisanker 675w ausdrücklich aufgenommen."
+    ],
+    "sha256": "bb85a184a27a1fc75bdca43dd6ca5fe3443ba8975ba1316726dd9976f1626658"
+  },
+  "selection": {
+    "positive": [
+      "Entwirf eine Bankreklamation nach fremder Überweisung und Geräteaktivierung.",
+      "Prüfe den Bankeinwand grober Fahrlässigkeit anhand der TAN-Anzeige."
+    ],
+    "negative": [
+      "Bewerte die NIS2-Meldepflicht eines Rechenzentrums nach Ransomware.",
+      "Fordere vom Onlinehändler den Kaufpreis zurück, weil trotz bewusst autorisierter Überweisung keine Ware geliefert wurde; gegen die Bank richtet sich kein Vorwurf."
+    ]
+  },
+  "cases": [
+    {
+      "id": "geraetefreigabe-ist-keine-zahlungsanzeige",
+      "request": "Schreibe ergebnis.md als Entwurf an Bank B für Kundin Eva Roth. Am 10. September 2026 bestätigte sie nach einem angeblichen Bankanruf in der App die Anzeige 'Neues Gerät aktivieren'; Betrag und Empfänger wurden dabei nicht angezeigt. Später wurden 4800 Euro an einen unbekannten Empfänger überwiesen. Eva hat diese Überweisung nicht beauftragt. Bank und Zugang wurden noch am selben Tag über die bekannte Banknummer informiert beziehungsweise gesperrt. Die Bank lehnt Erstattung allein mit 'TAN-Verfahren erfolgreich' ab, hat aber keine Zahlungsfreigabeprotokolle geliefert. 800 Euro wurden inzwischen zurückgebucht. Erbitte den noch offenen Betrag und konkret benötigte Belege, ohne unbekannte technische Abläufe zu ergänzen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verlangt noch 4000 Euro und berücksichtigt die bereits erfolgte Rückbuchung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt bestätigte Geräteaktivierung von bestrittenem Zahlungsauftrag und behandelt erfolgreiche TAN-Nutzung nicht als abschließenden Autorisierungsbeweis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fordert zahlungsbezogene Anzeige- und Freigabeprotokolle mit Bezug auf den konkreten Vorgang, ohne einen unbekannten Warntext oder garantierten Prozesserfolg zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "phishing-tan"
+    }
+  ]
+}

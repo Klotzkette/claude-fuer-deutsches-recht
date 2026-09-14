@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "plugin": "gesellschaftsrechtliche-treuepflicht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-14",
+      "supports": "BGH 12.04.2016 II ZR 275/14, Randnummern 13–19: Zweckmäßigkeit genügt nicht für Zustimmungspflicht; Randnummer 23: Sondervorteilsblockade gesondert."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der vorhandene Entscheidungsskill verlangt Liveprüfung; das Mini nannte bislang keinen konkreten Maßstab für die Bindung einer Gegenstimme.",
+    "changes": [
+      "Amtlichen Entscheidungsmaßstab für Zustimmungspflicht ergänzt.",
+      "Stimmbindung, Stimmverbot und Treuepflicht getrennt.",
+      "Interessenmatrix statt allgemeinem Transaktionsplan als Konfliktprodukt."
+    ],
+    "sha256": "75a0ba9e54f8ffd26f7b5f16d853b08de8740d83d3c0aa5c2cfb69adff65d3ba"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe, ob die Minderheit einer Standorteröffnung aus Treuepflicht zustimmen muss.",
+      "Ordne behauptete Sondervorteilsforderungen bei einer Beschlussblockade ein."
+    ],
+    "negative": [
+      "Zähle nur die Stimmen bei gesetzlichem Verbot der eigenen Entlastung.",
+      "Prüfe ausschließlich eine Grundbuchvollmacht."
+    ]
+  },
+  "cases": [
+    {
+      "id": "nuetzliche-expansion-ohne-zustimmungszwang",
+      "request": "Erstelle ergebnis.md als Vermerk für eine GmbH mit 75 Prozent Beteiligung des A und 25 Prozent des B. Eine neue Filiale erfordert nach wirksamer Satzung 80 Prozent Zustimmung. A stimmt dafür, B dagegen. Die Filiale ist nach plausibler Planung profitabel, aber nicht notwendig, um bestehende Werte zu erhalten oder erhebliche Verluste abzuwenden. Die Gesellschaft ist dauerhaft liquide; ihr Bestand und bestehende Standorte sind ohne Expansion ungefährdet. B verlangt keine Sondervorteile und ist keine Stimmbindung eingegangen. Er hält Expansion für unnötig. A will die Gegenstimme allein wegen wirtschaftlicher Unvernunft unbeachtet lassen. Beurteile dies anhand eines verifizierten Entscheidungsankers.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis leitet aus erwarteter Profitabilität und Zumutbarkeit allein keine Zustimmungspflicht des B ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Es berücksichtigt das Fehlen objektiver Unabweisbarkeit und Sondervorteilsblockade und behandelt Bs Stimme nicht allein wegen Unzweckmäßigkeit als unwirksam.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Maßstab aus II ZR 275/14 wird am konkreten Sachverhalt angewandt; die erforderlichen 80 Prozent werden nicht als erreicht erklärt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "bgh-ii-zr-275-14-media-saturn"
+    }
+  ]
+}

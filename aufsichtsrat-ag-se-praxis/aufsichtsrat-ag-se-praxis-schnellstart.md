@@ -1,77 +1,33 @@
-# Aufsichtsrat AG SE Praxis — Schnellstart
+# 1. Aufsichtsratsarbeit entscheidungsreif vorbereiten
 
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
+Lies Nutzersachverhalt, Satzung, Geschäftsordnungen, Zustimmungskatalog, Vorstandsvorlage und Sitzungsunterlagen zuerst. Erstelle das verlangte Fragenpapier, Beschlussvotum, Protokoll oder Überwachungsmemo. Nicht ungefragt zu Anteilsübertragung oder allgemeiner Gesellschaftsgründung wechseln. Frage nur nach Lücken, ohne deren Klärung eine konkrete Entscheidung falsch wäre; unabhängig davon belegte Teile bearbeiten.
 
-Kernauftrag: Praxisplugin für Aufsichtsräte in AG und SE: Überwachung, Informationsrechte, Vorstand bestellen/abberufen, Vergütung, Ausschüsse, Protokoll, Business Judgment, Haftungsvermeidung, Börse, SE und Mitbestimmung. Vorrang hat das verlangte Arbeitsprodukt.
+## 2. Organ und Zuständigkeit
 
-## 1. Sofortstart nach Eingangslage
+Erfasse AG oder SE, dualistische oder monistische Struktur, Börsennotierung, Mitbestimmung, Gremienbesetzung und zuständigen Ausschuss. Prüfe die maßgebliche Satzungs- und Geschäftsordnungsfassung. Bei monistischer SE nicht ungeprüft Vorstand und Aufsichtsrat unterstellen. Bankaufsichtliche Sonderregeln nur bei einem tatsächlich beaufsichtigten Unternehmen prüfen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Gesellschaftsvertrag, Gesellschafterliste, Beschlussprotokoll und Handelsregisterauszug. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten wählen; ohne konkreten Auftrag mit Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Nach [Paragraf 111 AktG](https://www.gesetze-im-internet.de/aktg/__111.html) ist Überwachung von Geschäftsführung zu trennen. Zustimmung zu bestimmten Geschäften ersetzt keine Übertragung der Geschäftsführung. Eine Aufsichtsratsvorlage deshalb nicht als operative Weisung oder automatisch als Vertretung der Gesellschaft formulieren.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 3. Informationsbasis und Entscheidung
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+3.1. Zustimmungsvorbehalt: Konkretes Geschäft mit Wortlaut des Katalogs abgleichen. Schwellenwert, Bezugsgröße, Zusammenrechnung, Zeitpunkt und etwaige Ausnahmen anhand der Regelung prüfen. Eine unternehmensinterne Schwelle nicht als gesetzliche Zahl ausgeben. Bereits abgeschlossenes Geschäft und bevorstehende Zustimmung getrennt behandeln.
 
-## 2. Fachlicher Direktstart
+3.2. Informationsgrundlage: Wirtschaftliches Ziel, Investitionsbetrag, Finanzierung, Liquiditätswirkung, Risiken, Alternativen und Folgen des Nichtstuns aus der Vorlage erfassen. Fehlende Varianten oder Sensitivitäten gezielt beim Vorstand anfordern. Berichtsrechte und Berichtsanlässe anhand [Paragraf 90 AktG](https://www.gesetze-im-internet.de/aktg/__90.html) prüfen; ein einzelnes Mitglied verlangt einen Bericht an das Gremium, nicht automatisch nur an sich persönlich.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
-2. Kernprüfung in einem Durchgang: Wer ist Organ, Gesellschafter, Vertreter oder wirtschaftlich Berechtigter; Welche Beschluss- oder Formanforderung ist Wirksamkeitsvoraussetzung.
-3. Belege und Engpass zusammenführen: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment; besonders kritisch ist: Notarielle Form oder Registerfrist ist ungeklärt.
-4. Erstes Arbeitsprodukt liefern: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+3.3. Interessenkonflikte: Beziehung zu Vertragspartner, Berater oder Organmitglied aus konkreten Angaben feststellen. Offenlegung, Umgang mit Unterlagen, Beratung und Abstimmung gesondert prüfen. Nicht allein aus einer Rollenüberschneidung ohne Rechtsprüfung eine universelle Stimmsperre ableiten.
 
-## 3. Kernroute
+3.4. Beschlussreife: Zustimmung, begründete Ablehnung, Vertagung oder klar bestimmte Bedingungen gegeneinander abwägen. Eine Bedingung darf die entscheidende offene Risikobewertung nicht unbemerkt an den Vorstand zurückgeben. Bei fehlender Finanzierungsbasis eine bloße Formel „nach pflichtgemäßem Ermessen“ nicht als Ersatz für Information nutzen.
 
-1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
-2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
-3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
-4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
-5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+3.5. Dokumentation: Maßgebliche Unterlagen mit Stand, offene Fragen, Antworten, Alternativen, Konfliktbehandlung, Abstimmungsverlauf und gefassten Beschluss getrennt protokollieren. Vorbereiteter Beschluss ist noch kein tatsächlich gefasster Beschluss. Verweigerte Zustimmung und mögliche weitere gesellschaftsrechtliche Schritte gesondert prüfen, nicht im Protokoll vorwegnehmen.
 
-## 4. Fallkarte
+## 4. Weitere Organaufgaben
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen |
-| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
-| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Bei Vorstandsbestellung oder Abberufung Organstellung und Dienstvertrag getrennt erfassen. Bei Vergütung konkrete Leistung, Vergleichsmaßstab und Entscheidungszuständigkeit prüfen. Bei Abschlussprüfung Berichte, kritische Bilanzierungsfragen und Rückfragen an den Prüfer verbinden. Bei Krisensignalen Berichtstakt, Liquiditätsdaten und konkreten Aufklärungsauftrag verdichten; keine pauschale Haftungsfreizeichnung durch Dokumentation versprechen.
 
-## 5. Einsatzfelder
+Optional vertieft [Zustimmungsvorbehalte](skills/zustimmungsvorbehalte/SKILL.md) den Transaktionsbeschluss; [Vorstandsberichte](skills/berichte-des-vorstands-90-aktg/SKILL.md) helfen beim Informationsverlangen. Ohne diese Dateien mit den Stationen oben weiterarbeiten.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Gesellschaftsform, Registerlage | Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Satzung, Gesellschaftervereinbarung | Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Organpflichten, Treuepflichten | Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Transaktionsschritte, Notarform | Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+## 5. Lieferstück und Kontrolle
 
-## 6. Anker
+Liefere ein ausformuliertes Votum und gegebenenfalls einen unmittelbar nutzbaren Beschlussentwurf. Verbinde jede tragende Bewertung mit Tatsache, Dokumentstelle, Rechtsmaßstab und verbleibendem Risiko. Rechtliche Haftungsmaßstäbe und Rechtsprechung fallbezogen amtlich prüfen, nicht aus einem pauschalen Business-Judgment-Verweis ableiten. Normfassung und bei Entscheidungen Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Randnummer nennen; die [Zitierweise](../references/zitierweise.md) ist optional.
 
-- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
-- HGB Paragraf 105: offene Handelsgesellschaft.
-- GmbHG Paragraf 13: Rechtsnatur der GmbH.
-- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- Paragraf 93/Paragraf 116 AktG: Business Judgment Rule nur bei informierter, interessenfreier, unternehmerischer Entscheidung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 90 AktG als Mindestlinie nutzen: Berichtsanlässe, Berichtstiefe, Nachfragen, Sonderberichte und Eskalation bei Ausweichen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 25d Abs. 1 KWG – Anforderungen an Mitglieder des Aufsichtsorgans: Zuverlässigkeit, ausreichende Sachkunde zur Wahrnehmung der Kontrollfunktion; eigenverantwortliche Beurteilung von Entscheidungen der Geschäftsleitung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 25d Abs. 3 KWG – Kollektiver Sachverstand des Aufsichtsorgans: Gesamtgremium muss Kenntnisse in Bankgeschäft, Risikomanagement, Rechnungslegung, Vergütung, Regulierung und IT abdecken; Eignungsmatrix erforderlich; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
-7.2. Regelungsanker: BGB Paragraf 705; HGB Paragraf 105 mit Risikozuweisung und Vollzug verbinden.
-7.3. Aktenfund: Für „Gesellschaftsform, Registerlage“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Ladungs- und Beschlussmängeln sowie der Vertretungsmacht.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Gesellschaftsform, Registerlage“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Notarielle Form oder Registerfrist ist ungeklärt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Dezimale Gliederung, Leerzeilen und Times New Roman 11 pt beziehungsweise Exporthinweis verwenden. Ohne Export Text liefern; ungelesene Unterlagen und fehlende Beschlussbelege offenlegen. Nur die betroffene Entscheidung zurückstellen, das Fragenpapier trotzdem erstellen. Keine Sitzung, Unterzeichnung oder Registerhandlung als erfolgt behaupten.

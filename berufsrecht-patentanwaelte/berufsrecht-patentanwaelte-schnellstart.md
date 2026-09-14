@@ -1,74 +1,27 @@
-# Berufsrecht Patentanwälte — Schnellstart
+# 1 Patentanwaltliches Mandat sicher abgrenzen
 
-Wenn du das hier öffnest, willst du eine berufsrechtliche Frage der Anwaltschaft, des Notariats oder der prüfenden Berufe nach Pflicht, Aufsicht, Sanktion und sicherem Arbeitsprodukt ordnen.
+Bearbeite zuerst den mitgeteilten Schutzrechtsauftrag und vorhandene Amtsbescheide, Vollmachten, Mandatsvereinbarungen oder Konfliktinformationen. Erstelle das verlangte Annahme-, Vertretungs- oder Organisationsprodukt. Ein technischer Sachverhalt macht nicht jede Rechtsfrage zur patentanwaltlichen Aufgabe. Frage nur nach Angaben, die Mandatsumfang, Vertretungsbefugnis oder fristwahrenden nächsten Schritt offenlassen.
 
-Kernauftrag: Plugin für Patentanwaltsrecht: PAO, Patentanwaltskammer, Vertretungsbefugnis, Schutzrechtsmandate, Verschwiegenheit, Interessenkollision, Werbung, Berufsausübungsgesellschaft und berufsgerichtliche Risiken. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Schutzrecht und Verfahren auseinanderhalten
 
-## 1. Sofortstart nach Eingangslage
+Erfasse Schutzrecht, Inhaber, Anmelder, Erfinder, Aktenzeichen, betroffenen Staat und Verfahrensstufe. Auftraggeber und Erfinder sind nicht zwingend identisch. Ordne Anmeldung, Einspruch, Nichtigkeit, Verletzungsstreit und Vertragsberatung getrennt zu. Ein paralleles Bestandsverfahren vor dem Patentgericht ersetzt nicht die Verteidigung gegen eine Verletzungsklage vor dem Landgericht.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Berufsträger und Pflichtenkreis, Pflichtenprüfung, Aufsichts- und Verfahrenslage wählen; ohne konkreten Auftrag mit Berufsträger und Pflichtenkreis beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Nach [Paragraf 3 PAO](https://www.gesetze-im-internet.de/patanwo/__3.html) richtet sich die Beratungs- und Vertretungsbefugnis nach dem Gegenstand und der jeweiligen Stelle. Prüfe, welche Aufgabe der Norm konkret unterfällt. Die nationale Zulassung belegt nicht automatisch jede Vertretungsberechtigung vor europäischen oder internationalen Stellen; hierfür Status und Verfahrensrecht gesondert verifizieren.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Berufsträger und Pflichtenkreis, Pflichtenprüfung, Aufsichts- und Verfahrenslage und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2 Auftreten und Prozessvertretung
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Unterscheide fachliche Mitwirkung, Rederecht und wirksame Prozessvertretung. Vor Land- und Oberlandesgerichten verlangt [Paragraf 78 ZPO](https://www.gesetze-im-internet.de/zpo/__78.html) grundsätzlich rechtsanwaltliche Vertretung. Das patentanwaltliche Auftreten nach Paragraf 4 PAO ist daher nicht pauschal eine Befugnis zur alleinigen Führung jeder Patentverletzungsklage. Prüfe im [amtlichen PAO-Text](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html), welche Mitwirkungsmöglichkeit das konkrete Verfahren eröffnet.
 
-## 2. Fachlicher Direktstart
+Erstelle bei geteilter Bearbeitung eine klare Aufgabenabgrenzung: Wer reicht den verfahrenswirksamen Schriftsatz ein, wer verantwortet die technische Merkmalsanalyse und wer überwacht welche Frist? Erfinde keine Beauftragung eines Rechtsanwalts. Wenn diese noch fehlt, formuliere die nötige Übergabe und kennzeichne die noch ungesicherte Prozesshandlung.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Berufsgesetz und welche Satzungsnorm tragen den Vorwurf oder die Gestaltung.
-2. Kernprüfung in einem Durchgang: Ist die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor; Welche Kollisionsprüfung ist dokumentiert und wer hat wann geprüft.
-3. Belege und Engpass zusammenführen: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren; besonders kritisch ist: Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchung steht im Raum.
-4. Erstes Arbeitsprodukt liefern: Kammer-Stellungnahme: Sachverhalt, betroffene Pflicht, Rechtslage, Entlastung, Ergebnis, Anlagen.
+## 1.3 Geheimnisse und Konflikte im Schutzrechtsportfolio
 
-## 3. Kernroute
+Prüfe Konflikte nicht allein anhand Firmennamen. Vergleiche Schutzrechtsfamilie, Erfindungsgegenstand, frühere Beratung, Gegnerrolle und tatsächliche Interessen. Lizenznehmer, Inhaber und Erfinder können unterschiedliche Ziele verfolgen. Halte persönlichen Konflikt, Kanzleizusammenhang und reinen Informationszugang auseinander; eine Vertraulichkeitsvereinbarung allein beantwortet die berufsrechtliche Zulässigkeit nicht.
 
-1. Berufsträger und Pflichtenkreis: Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen.
-2. Pflichtenprüfung: Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten.
-3. Aufsichts- und Verfahrenslage: Kammerverfahren, Rüge, Missbilligung, berufsgerichtliches Verfahren und Parallelität zum Strafverfahren ordnen.
-4. Risikoabschätzung: Sanktionsrahmen, Registerfolgen, Versicherungsfragen und Mandatsauswirkungen bewerten.
-5. Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
+Bei Weitergabe technischer Unterlagen erfasse Empfänger, Freigabe, Veröffentlichungsstand und Zweck. Unveröffentlichte Erfindungen nicht als öffentlich bekannte Technik behandeln. Prüfe den Zugang von Übersetzern, Recherche- oder IT-Dienstleistern nach der aktuellen PAO und dem tatsächlichen Datenweg. Eine amtliche Veröffentlichung macht nicht sämtliche vertrauliche Mandatskommunikation öffentlich.
 
-## 4. Fallkarte
+## 1.4 Frist und Mandatswechsel dokumentieren
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46; BORA und FAO |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen |
-| Beweislast | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| Rechtsfolge | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Führe pro Schutzrecht eine überprüfbare Fristkette aus Ereignis, Quelle, Berechnung und verantwortlicher Person. Trenne Amtsfrist, Gebührenfrist, Prioritätsfrage und interne Wiedervorlage. Bei Mandatswechsel gehören Aktenstand, laufende Fristen, Vollmacht und bestätigte Übernahme zusammen; eine versandte Datei allein belegt keine übernommene Fristenkontrolle. Keine Fristen oder Registerstände erfinden.
 
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Berufsträger und Pflichtenkreis | Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichtenprüfung | Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufsichts- und Verfahrenslage | Kammerverfahren, Rüge, Missbilligung, berufsgerichtliches Verfahren und Parallelität zum Strafverfahren ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikoabschätzung | Sanktionsrahmen, Registerfolgen, Versicherungsfragen und Mandatsauswirkungen bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BRAO Paragraf 43a und Paragraf 43e: Grundpflichten, Verschwiegenheit und Inanspruchnahme von Dienstleistern.
-- BRAO Paragraf 45 und Paragraf 46: Tätigkeitsverbote und Syndikusrechtsanwälte.
-- BORA und FAO: Berufsordnung und Fachanwaltschaften als Satzungsrecht der Kammern.
-- BNotO Paragraf 14 und Paragraf 17: Amtspflichten und Gebührenbindung des Notars.
-- Paragraf 96 PAO enthält nur die möglichen berufsgerichtlichen Maßnahmen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
-7.2. Norm: BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Berufsträger und Pflichtenkreis“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Kammer-Stellungnahme“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchung steht im Raum. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Liefere einen ausformulierten Vermerk und die konkret verlangte Mandanten- oder Übergabenachricht. Begründe die Handlungsgrenze anhand des Verfahrens, nicht durch allgemeine Berufsgruppenformeln. Weitere Rechtsanker und Entscheidungen nur amtlich verifiziert verwenden. Optionale Spezialskills dürfen vertiefen, sind aber zum Weiterarbeiten nicht nötig. Ohne Zugriff auf Register oder Akte den Prüfstand nennen; keine Einreichung ohne Auftrag. Dezimale Gliederung, vollständige Sätze und Export in Times New Roman 11 pt.

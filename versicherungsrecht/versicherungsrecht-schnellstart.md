@@ -1,79 +1,33 @@
-# Versicherungsrecht — Schnellstart
+# 1. Versicherungsrecht: Deckung und Kürzung am Vertrag prüfen
 
-Wenn du das hier öffnest, willst du einen Deckungsanspruch prüfen und gegen die Ablehnung des Versicherers durchsetzen.
+Prüfe den konkreten Leistungsanspruch oder die konkrete Ablehnung. Beginne mit Versicherungsschein, maßgeblichen Bedingungen und Nachträgen, Schadenmeldung und Ablehnungsschreiben. Erfasse Sparte, versichertes Risiko, Person, Zeitraum, Schadenereignis, Anspruchshöhe und Bearbeitungsziel. Eine Maklerhaftungsfrage ist von einem Deckungsstreit gegen den Versicherer zu trennen.
 
-Kernauftrag: Großes Versicherungsrecht-Plugin für VVG, VAG, europäische Versicherungsaufsicht, Lebensversicherung, BU, PKV, Rechtsschutz, Kreditversicherung, D&O, Cyber, Sach- und Haftpflichtdeckung. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Belegte Ausgangslage
 
-## 1. Sofortstart nach Eingangslage
+Liefere unmittelbar das verlangte Memo oder einen nicht versandten Anspruchs- beziehungsweise Ablehnungsentwurf. Ohne konkreten Auftrag erstelle eine Deckungsmatrix. Frage fehlende entscheidende Angaben gebündelt ab; blockiere nicht die gesamte Arbeit wegen einer einzelnen fehlenden Anlage. Dokumentiere bei jeder Klausel die tatsächlich vorliegende Fassung, Einbeziehung und relevante Textstelle. Keine Musterbedingungen anstelle des Vertrags unterstellen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Vertrag und Sparte, Versicherungsfall, Obliegenheiten wählen; ohne konkreten Auftrag mit Vertrag und Sparte beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Die Matrix enthält Versicherungsfall, versicherten Zeitraum, Risikoausschluss, Obliegenheit, Selbstbehalt, Grenze und jeweilige Belege. Versicherungsfall und Schaden sind nicht bereits durch eine Schadenmeldung bewiesen. Ausschluss und Obliegenheit haben unterschiedliche Voraussetzungen. Halte strittige Tatsachen, rechtliche Auslegung und nicht geprüfte Quellen auseinander.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Vertrag und Sparte, Versicherungsfall, Obliegenheiten und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Obliegenheitsprüfung ohne Pauschalquote
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei einer auf Paragraf 28 VVG gestützten Ablehnung zuerst die vereinbarte Obliegenheit und ihre vereinbarte Rechtsfolge feststellen. Welche konkrete Handlung war wann geschuldet, wer hat sie wie verletzt und welcher Beleg trägt das? Vorvertragliche Angaben und Gefahrerhöhung nicht automatisch nach demselben Schema beurteilen.
 
-## 2. Fachlicher Direktstart
+Nach Absatz 2 sind Vorsatz und grobe Fahrlässigkeit zu unterscheiden; bei grober Fahrlässigkeit richtet sich eine Kürzung nach dem Gewicht des Verschuldens. Der Versicherungsnehmer trägt die Beweislast für das Nichtvorliegen grober Fahrlässigkeit. Eine behauptete Verletzung rechtfertigt nicht automatisch 50 oder 100 Prozent Kürzung. Eine Quote nur mit konkreten Tatsachen begründen oder als ausdrücklich hypothetische Rechenvariante zeigen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Sparte und welche Bedingungen gelten.
-2. Kernprüfung in einem Durchgang: Ist der Versicherungsfall nach Zeit, Ort, Ursache und Schaden belegt; Welche Ausschlüsse oder Obliegenheiten werden geltend gemacht.
-3. Belege und Engpass zusammenführen: Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung; besonders kritisch ist: Frist zur Schadenanzeige, Klage oder Deckungsablehnung läuft.
-4. Erstes Arbeitsprodukt liefern: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren.
+Absatz 3 verlangt eine gesonderte Kausalitätsprüfung: War die Verletzung für Eintritt oder Feststellung des Versicherungsfalls oder Feststellung beziehungsweise Umfang der Leistungspflicht ursächlich? Den Kausalitätsgegenbeweis anhand von Fotos, zeitnahen Gutachten, Rechnungen und sonstigen Erkenntnissen bearbeiten; Arglist gesondert prüfen, denn dann greift die gesetzliche Ausnahme nicht. Nicht nur fragen, ob der Schaden trotz Verletzung entstanden wäre.
 
-## 3. Kernroute
+Bei nach Eintritt des Versicherungsfalls bestehenden Auskunfts- oder Aufklärungsobliegenheiten ist nach Absatz 4 zusätzlich der gesonderte Hinweis in Textform auf die Rechtsfolge zu prüfen. Klausel, Fragebogen und Begleitschreiben sind verschiedene Belege. Eine allgemeine Behauptung, der Kunde kenne seine Pflichten, ersetzt den Hinweis nicht.
 
-1. Vertrag und Sparte: Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen.
-2. Versicherungsfall: Eintritt, Anzeige, Schadenhöhe, Kausalität, Ausschluss und Beweislast ordnen.
-3. Obliegenheiten: vorvertragliche Anzeige, Gefahrerhöhung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen.
-4. Deckung und Regulierung: Leistungsentscheidung, Quote, Regress, Verjährung und Prozessrisiko ausarbeiten.
-5. Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren.
+Amtlicher Prüfanker: [Paragraf 28 VVG](https://www.gesetze-im-internet.de/vvg_2008/__28.html). Für andere Ablehnungsgründe die passende aktuelle Norm eigenständig verifizieren; keine fremden Maklerentscheidungen als Deckungsbeleg einsetzen.
 
-## 4. Fallkarte
+## 1.3. Geld und Fristen
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | VVG Paragraf 1; VVG Paragraf 19; VVG Paragraf 28 |
-| Rechtsprechung | BGH, Urteil vom 10.03.2016 - I ZR 147/14; BGH, Urteil vom 30.11.2017 - I ZR 143/16 |
-| Tatbestand | Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen |
-| Beweislast | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung |
-| Rechtsfolge | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Zeige Ausgangsschaden, versicherte Positionen, unversicherte Positionen, Höchstgrenze, Selbstbehalt, geleistete Zahlungen und streitige Kürzung. Die Reihenfolge der Abzüge aus Bedingungen und einschlägigem Recht ableiten, nicht stillschweigend wählen. Für jede Alternative Eingabewerte und Zwischensumme nennen; Brutto, Netto und Vorsteuerabzug nur nach belegtem Sachverhalt ansetzen.
 
-## 5. Einsatzfelder
+Erstelle eine Zeitachse aus Ereignis, Kenntnis, Meldung, Nachforderung, Antwort, Belehrung und Ablehnung. Verjährung, vertragliche Ausschlussfrist und bloße Bearbeitungsfrist trennen. Eine Ablehnung nicht automatisch als Beginn einer vermeintlich allgemeinen Klagefrist behandeln. Laufende Fristen führen zur priorisierten Sicherungsoption, nicht zum Abbruch.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Vertrag und Sparte | Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Versicherungsfall | Eintritt, Anzeige, Schadenhöhe, Kausalität, Ausschluss und Beweislast ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Obliegenheiten | Vorvertragliche Anzeige, Gefahrerhöhung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Deckung und Regulierung | Leistungsentscheidung, Quote, Regress, Verjährung und Prozessrisiko ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+## 1.4. Verwendbares Ergebnis
 
-## 6. Anker
+Liefere Deckungsvotum mit Betrag oder Bandbreite, Ablehnungsgrund-für-Ablehnungsgrund-Erwiderung, stärkstem Gegenargument, Beleglücken und nächstem Schritt. Fehlende Unterlagen mit Zweck nachfordern. Ein Vergleichsangebot ist kein feststehender Anspruch. Keine Abfindungsquittung, Kündigung, Klage oder Korrespondenz eigenmächtig erklären oder versenden.
 
-- VVG Paragraf 1: vertragstypische Pflichten aus dem Versicherungsvertrag.
-- VVG Paragraf 19: vorvertragliche Anzeigepflicht und Rechtsfolgen.
-- VVG Paragraf 28: Obliegenheitsverletzung nach Vertragsschluss.
-- VVG Paragraf 61: Beratungspflichten des Versicherungsvermittlers.
-- VVG Paragrafen 100 ff.; GmbHG Paragraf 43; AktG Paragrafen 93, 116; InsO Paragraf 15a; AVB D&O; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1 VVG — Versicherungsvertrag; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 19 VVG — vorvertragliche Anzeigepflicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 28 VVG — Obliegenheitsverletzung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 10.03.2016 - I ZR 147/14: Der Versicherungsmakler muss das konkrete Risiko analysieren und eine sachgerechte Entscheidungsgrundlage schaffen; eine uninformierte sachwidrige Weisung darf er nicht einfach hinnehmen.
-- BGH, Urteil vom 30.11.2017 - I ZR 143/16: Die Maklerpflicht kann Hilfestellung bei der Schadenregulierung und den Hinweis auf anspruchsvernichtende Ausschlussfristen umfassen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag.
-7.2. Norm: VVG Paragraf 1; VVG Paragraf 19 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Vertrag und Sparte“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Der Versicherungsfall nach Zeit, Ort, Ursache und Schaden belegt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Vertrag und Sparte“. Frist, Kernlücke und nächstem Dokument benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Frist zur Schadenanzeige, Klage oder Deckungsablehnung läuft. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Ohne Dateiexport vollständigen Text ausgeben; ohne Quellenzugriff die betroffene Rechtsfrage offen markieren. Nach einem erfolglosen Alternativabruf den Teilstand liefern. Werkstatt und weitere Skills sind optional; die hier enthaltenen Regeln reichen für den eigenständigen Beginn.

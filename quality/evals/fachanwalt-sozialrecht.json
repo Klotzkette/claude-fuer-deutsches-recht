@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "plugin": "fachanwalt-sozialrecht",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_6/__43.html",
+      "checked_on": "2026-09-14",
+      "supports": "Stundenkategorien, drei Jahre Pflichtbeiträge im Fünfjahreszeitraum, allgemeine Wartezeit und mögliche Verlängerungszeiten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgg/__103.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gerichtliche Amtsermittlung mit Heranziehung der Beteiligten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgg/__86b.html",
+      "checked_on": "2026-09-14",
+      "supports": "Unterschied zwischen vorläufiger Regelung aufschiebender Wirkung und einstweiliger Leistungsanordnung."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2019/2019_12_11_B_13_R_07_18_R.pdf?__blob=publicationFile&v=3",
+      "checked_on": "2026-09-14",
+      "supports": "BSG, Urteil vom 11.12.2019, Az. B 13 R 7/18 R, Randnummern 17 bis 22: qualitative Einschränkungen, übliche Arbeitsbedingungen und Abgrenzung zum Arbeitsmarktrisiko. Amtliches PDF direkt abgerufen und textlich gelesen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der frühere Einstieg war auf Leistungsablehnung und Medizin verengt, enthielt isolierte Grundsicherungs-Sanktionsdetails ohne fallbezogene Fassungsprüfung und erklärte Existenznot zum Abbruchgrund.",
+    "changes": [
+      "Beiträge und Versicherungsstatus als eigene Route ergänzt.",
+      "Stundenkategorien und medizinische Funktionsbelege statt bloßer Diagnosen priorisiert.",
+      "Vorläufige Leistung und aufschiebende Wirkung im Eilrechtsschutz getrennt.",
+      "Sanktionsdetails durch fallbezogene aktuelle Normprüfung ersetzt und Eilbearbeitung statt Arbeitsabbruch verlangt."
+    ],
+    "sha256": "afbda27733541b78876edfdeb6b1f927b1a999e846f2c474e460c678735c7203"
+  },
+  "selection": {
+    "positive": [
+      "Reha und Facharzt widersprechen sich zur täglichen Leistungsdauer; gleichen Sie Befunddaten und mögliche Eintrittszeitpunkte mit meinem Versicherungsverlauf ab.",
+      "Die Rentenversicherung setzt den Leistungsfall erst nach einer Beitragslücke an; entwickeln Sie aus den früheren Funktionsbefunden konkrete Gutachterfragen."
+    ],
+    "negative": [
+      "Prüfen Sie die Pflegegradmodule nach einem Hausbesuch.",
+      "Berechnen Sie ausschließlich meine unstreitige Altersrente aus vorgegebenen Entgeltpunkten."
+    ],
+    "target_skill": "em-rente-befundwiderspruch-und-leistungsfall"
+  },
+  "cases": [
+    {
+      "id": "reha-vierstunden-spaeter-leistungsfall",
+      "request": "Erstellen Sie ergebnis.md als internen Beweis- und Berechnungsvermerk für eine 1975 geborene Versicherte. Ihr Rentenantrag vom 10.02.2026 wurde abgelehnt; der Widerspruch ist nachweislich fristgerecht anhängig, ein Widerspruchsbescheid fehlt. Die allgemeine Wartezeit ist erfüllt. Der vollständige Versicherungsverlauf weist Pflichtbeiträge Januar 2018 bis Dezember 2021 aus, danach keine Pflichtbeiträge. Seit Januar 2022 lebte sie aus Ersparnissen; es gibt nach verbindlicher Auskunft im Sachverhalt keine Anrechnungs-, Berücksichtigungs- oder sonstigen Verlängerungszeiten und keine besonderen vorzeitigen Wartezeittatbestände. Der Reha-Bericht vom 15.03.2023 beschreibt leichte Arbeit im Wechsel von Sitzen und Stehen für mindestens sechs Stunden, keine Nachtarbeit. Ein fachärztlicher Bericht vom 20.05.2023 dokumentiert anhand mehrwöchiger Belastungsbeobachtung höchstens vier Stunden täglich sowie zwei zusätzliche unplanbare Liegepausen von je 20 Minuten; diese Einschränkungen bestanden nach seiner begründeten Rückschau seit 01.04.2023. Ein Gutachten vom 01.03.2026 bestätigt vier Stunden, hält den Beginn aber erst ab 01.02.2026 für belegt, weil es die früheren Funktionsmessungen nicht erhalten hatte. Eine durchgehende Arbeitsunfähigkeitsbescheinigung besteht seit März 2023. Die Versicherte ist arbeitslos, hat keinen Teilzeitarbeitsplatz und kann übliche Arbeitswege bewältigen. Die Behörde verweist auf den Reha-Bericht und hilfsweise auf fehlende Beiträge bei späterem Beginn. Untersuchen Sie die beiden ausdrücklich datierten möglichen Eintrittszeitpunkte, die medizinischen Widersprüche und die nächsten Beweisschritte, ohne Rente zuzusagen oder eine Untersuchung selbst zu veranlassen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Beitragsrechnung unterscheidet 01.04.2023 mit Rückblick April 2018 bis März 2023 und 45 Pflichtbeitragsmonaten von 01.02.2026 mit Rückblick Februar 2021 bis Januar 2026 und elf Monaten; sie erfindet keine Verlängerungszeit aus bloßer Arbeitsunfähigkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Vier Stunden werden medizinisch dem Bereich teilweiser Erwerbsminderung zugeordnet; volle Rente wird nicht allein daraus oder aus Arbeitslosigkeit zugesagt. Übliche Bedingungen, zusätzliche Pausen und Teilzeitarbeitsmarkt werden gesondert als mögliche Weichen behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Beweisfragen zielen auf die fehlenden früheren Funktionsmessungen, rückwirkenden Beginn und Regelmäßigkeit der Liegepausen; das Gutachten von 2026 wird weder nur wegen Aktualität bevorzugt noch ohne medizinische Klärung verworfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Die Empfehlung hält Antragstag, Leistungsfall und Rentenbeginn auseinander und schlägt eine konkrete Nachreichung oder ergänzende Begutachtung im anhängigen Widerspruch vor, ohne einen bereits vorhandenen Widerspruchsbescheid zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "em-rente-befundwiderspruch-und-leistungsfall"
+    }
+  ]
+}

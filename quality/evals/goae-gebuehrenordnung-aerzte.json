@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "plugin": "goae-gebuehrenordnung-aerzte",
+  "reviewed_on": "2026-09-14",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/go__1982/__5.html",
+      "checked_on": "2026-09-14",
+      "supports": "Unterschiedliche Schwellen und Höchstsätze für allgemeine, A/E/O- und Laborleistungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/go__1982/__12.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 3: individuelle schriftliche Begründung der jeweiligen Schwellenüberschreitung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Die Werkstatt prüft Faktoren positionsweise; im Mini waren die Zahlen ohne Zuordnung zu Leistungsgruppen aufgezählt.",
+    "changes": [
+      "Gebührenrahmen den Abschnitten und Nummer 437 zugeordnet.",
+      "Fehlende Begründung von Höchstsatzüberschreitung getrennt.",
+      "Keine erfundene Behandlungserschwernis zur Rechnungsrettung."
+    ],
+    "sha256": "522935ae50ee45b2093f8c7688547712c7ac4d6d63ebed738ab37b8ede2187e1"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die unterschiedlichen Faktoren einer GOÄ-Rechnung zeilenweise.",
+      "Formuliere eine konkrete Nachforderung zur Begründung einer Schwellenüberschreitung."
+    ],
+    "negative": [
+      "Prüfe ausschließlich einen zahnärztlichen GOZ-Heilkostenplan.",
+      "Bewerte einen Behandlungsfehler ohne Honorarfrage."
+    ]
+  },
+  "cases": [
+    {
+      "id": "laborfaktor-ueber-hoechstsatz",
+      "request": "Erstelle ergebnis.md als Patientenvermerk zu einer ambulanten privatärztlichen Rechnung. Keine Honorarvereinbarung oder tarifliche Sonderregel besteht. Zeile A ist eine allgemeine ärztliche Leistung außerhalb A, E, O und M sowie außerhalb Nummer 437, korrekt erbrachter Inhalt, Faktor 3,5 ohne jede Begründung. Zeile B ist unstreitig eine Laborleistung aus Abschnitt M mit Faktor 1,8 und der Begründung hoher Aufwand. Leistungserbringung und Ziffernzuordnung sind ansonsten unstreitig. Prüfe ausschließlich Faktoren und Begründungsbedarf und formuliere eine sachliche Nachforderung, ohne zusätzliche Behandlungstatsachen zu erfinden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Für A werden die fehlende individuelle Begründung oberhalb 2,3 und der allgemeine Höchstsatz 3,5 auseinandergehalten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Für B werden Laborschwelle 1,15 und Höchstsatz 1,3 angewandt; eine Aufwandsbegründung legitimiert Faktor 1,8 nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Nachforderung verlangt vorhandene konkrete Erläuterungen beziehungsweise Rechnungskorrektur, erfindet aber keine Schwierigkeit und erklärt nicht pauschal jede Leistung für unbezahlt oder unerbracht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "gebuehrenrahmen-schwellenwert-ampel"
+    }
+  ]
+}

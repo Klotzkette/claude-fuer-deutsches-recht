@@ -1,77 +1,25 @@
-# Rechtstheorie Rechtsphilosophie — Schnellstart
+# 1. Rechtstheoretische Argumente am konkreten Problem prüfen
 
-Wenn du das hier öffnest, willst du eine Klausur, Hausarbeit oder Fallfrage im Gutachtenstil lösen oder Methodik und Theorie dahinter sauber erarbeiten.
+Beginne mit dem vorgelegten Text, Streitpunkt oder Entscheidungsproblem. Bestimme, ob der Nutzer eine Begriffsanalyse, einen Theorievergleich, eine Kritik oder einen ausformulierten argumentativen Abschnitt braucht. Erzwinge weder eine zivilrechtliche Anspruchsprüfung noch den Gutachtenstil für einen philosophischen Essay. Frage nur nach fehlendem Material, ohne das gerade die behauptete Position nicht rekonstruiert werden kann; entwickle aus einem vollständigen Nutzerargument sofort die Analyse.
 
-Kernauftrag: Rechtstheorie- und Rechtsphilosophie-Plugin für juristische Praxis: Rechtsbegriff, Kelsen-orientierte Normgeltung, Demokratie, Rechtsrealismus, Systemdenken, Besitzdogmatik, Law-and-Economics, Hayek-Wissensproblem. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Ebenen auseinanderhalten
 
-## 1. Sofortstart nach Eingangslage
+Unterscheide die behauptete rechtliche Geltung einer Regel, ihre tatsächliche Befolgung, ihre institutionelle Durchsetzung und ihre moralische Rechtfertigung. Notiere für jede Behauptung, welche dieser Fragen sie beantwortet. Aus häufigem Befolgen folgt ohne weitere Prämisse keine rechtliche Erzeugungskompetenz; aus rechtlicher Geltung ohne weitere Prämisse keine moralische Zustimmung. Umgekehrt eine kritisierte Regel nicht allein wegen der Kritik als rechtlich nicht existent behandeln.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegte Aufgabenbeschreibung, Datengrundlage, Quellen und Berechnungen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Fallfrage, Aufbau, Subsumtion wählen; ohne konkreten Auftrag mit Fallfrage beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Wenn eine Theorie bestimmte Verbindungen zwischen diesen Ebenen behauptet, rekonstruiere genau diese Verbindung. Verwende nicht die begriffliche Trennung selbst schon als Widerlegung jeder Gegenposition. Unterscheide die Beschreibung einer Theorie von ihrer Verteidigung. Ein Autorname ersetzt weder den Gedankengang noch die Angabe der verwendeten Textstelle.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Fallfrage, Aufbau, Subsumtion und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Argument rekonstruieren und testen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Formuliere die tragende These, ausdrücklich gegebene Prämissen und die Schlussfolgerung. Ergänze eine fehlende Brückenprämisse nur als eigene Rekonstruktion. Prüfe, ob die Folgerung bei unterstellten Prämissen tatsächlich trägt und ob die Prämissen selbst begründet sind. Ein empirischer Befund kann eine Wirkungsannahme stützen; er beantwortet nicht allein, welche Verteilung von Lasten gerechtfertigt ist.
 
-## 2. Fachlicher Direktstart
+Bei einem Theorievergleich dieselbe Frage und denselben Beispielsfall für beide Positionen verwenden. Nicht eine ausgearbeitete Position mit einer Karikatur der anderen vergleichen. Stelle den stärksten Einwand dar und prüfe, ob die Erwiderung die These verteidigt oder sie unbemerkt abschwächt. Ein Gegenbeispiel muss die behaupteten Voraussetzungen erfüllen, sonst testet es eine andere Aussage.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Was ist die exakte Fallfrage und welche Rechtsfolge wird begehrt.
-2. Kernprüfung in einem Durchgang: Welche Anspruchsgrundlagen kommen in welcher Reihenfolge in Betracht; Welches Merkmal ist problematisch und trägt den Schwerpunkt.
-3. Belege und Engpass zusammenführen: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe; besonders kritisch ist: Abgabefrist oder Bearbeitungszeit ist fast erschöpft; erst Gerüst, dann Feinschliff.
-4. Erstes Arbeitsprodukt liefern: Gutachtensatz: Obersatz, Definition, Subsumtion mit Sachverhaltszitat, Zwischenergebnis.
+## 1.3. Praxisbezug ohne Scheinzwang
 
-## 3. Kernroute
+Bei Gesetzgebung oder Rechtsanwendung offenlegen, welche Folgerung aus dem theoretischen Ansatz gewonnen werden soll: etwa ein bestimmter Auslegungsmaßstab, eine institutionelle Zuständigkeit oder die Berücksichtigung von Folgen. Prüfe die zusätzliche rechtliche Grundlage gesondert. Eine Effizienzsteigerung kann ein relevantes Argument sein, aber die Auswahl des Effizienzmaßstabs und die Verteilung von Kosten bleiben erklärungsbedürftig.
 
-1. Fallfrage: Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen.
-2. Aufbau: Anspruchsgrundlagen in sinnvoller Reihenfolge, Hilfsgutachten und Schwerpunktsetzung anlegen.
-3. Subsumtion: Obersatz, Definition, Subsumtion, Ergebnis je Merkmal in ganzen Sätzen durchführen.
-4. Streitstand: Meinungen mit Argumenten darstellen, entscheiden und nur entscheidungserheblich vertiefen.
-5. Arbeitsprodukt: Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren.
+Bei behaupteten Sachzwängen mögliche Handlungsalternativen und Informationsgrenzen benennen. Trenne „nicht beobachtet“, „nicht bekannt“ und „nicht möglich“. Keine empirischen Wirkungen, historischen Positionen oder Originalzitate erfinden. Wenn nur eine Nutzerparaphrase vorliegt, bewerte diese als Paraphrase und nicht als abschließend authentische Darstellung des bezeichneten Werks.
 
-## 4. Fallkarte
+## 1.4. Präzise Textfassung liefern
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 133 und Paragraf 157; GG Artikel 20 Absatz 3; ZPO Paragraf 286 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen |
-| Beweislast | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe |
-| Rechtsfolge | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Einsatzfelder
-
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Fallfrage | Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufbau | Anspruchsgrundlagen in sinnvoller Reihenfolge, Hilfsgutachten und Schwerpunktsetzung anlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Subsumtion | Obersatz, Definition, Subsumtion, Ergebnis je Merkmal in ganzen Sätzen durchführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Streitstand | Meinungen mit Argumenten darstellen, entscheiden und nur entscheidungserheblich vertiefen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
-## 6. Anker
-
-- BGB Paragraf 133 und Paragraf 157: Auslegung als methodisches Grundwerkzeug.
-- GG Artikel 20 Absatz 3: Bindung an Gesetz und Recht als Rahmen der Rechtsanwendung.
-- ZPO Paragraf 286: freie Beweiswürdigung als Maßstab tatsächlicher Feststellungen in der Falllösung.
-- DRiG Paragraf 5 ff.: Ausbildungs- und Prüfungsrahmen der Juristenausbildung.
-- Art. 1 Abs. 1 GG — normative Grenze jeder Rechtsanwendung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 20 Abs. 3 GG — Gesetzesbindung und Rechtsbindung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 19 Abs. 4 GG — effektiver Rechtsschutz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 97 Abs. 1 GG — richterliche Unabhängigkeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-
-## 7. Antwortform
-
-7.1. Ergebnis: Rolle und Ziel benennen; erstes belastbares Ergebnis: Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren.
-7.2. Maßstab: BGB Paragraf 133 und Paragraf 157; GG Artikel 20 Absatz 3 mit der entscheidenden Bewertungsfrage verbinden.
-7.3. Materialfund: Für „Fallfrage“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Anspruchsgrundlagen kommen in welcher Reihenfolge in Betracht.
-7.6. Erwiderung: Gegenbeleg, Alternativhypothese oder Bewertungsmaßstab nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Gutachtensatz“. Frist, Kernlücke und nächster Prüfstufe benennen.
-
-## 8. Stop
-
-Nur bei diesem Stop-Punkt unterbrechen: Abgabefrist oder Bearbeitungszeit ist fast erschöpft; erst Gerüst, dann Feinschliff. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.
+Das Ergebnis enthält eine klare These, nachvollziehbare Begründung, Gegenargument und begrenztes Fazit. Eine Tabelle kann Vergleichsachsen ordnen, ersetzt aber nicht die ausformulierte Argumentation. Für abstrakte logische Prüfung keine Rechtsprechung erzwingen. Historische Zuschreibungen anhand der Originaltexte, heutige Rechtsbehauptungen anhand amtlicher Quellen verifizieren; ohne Zugriff die Zuschreibung offenlassen. Dezimal gliedern, Export in Times New Roman 11 pt. Weiterführende Skills und Referenzen sind optional; die Ebenentrennung und Argumentprüfung stehen vollständig hier.
