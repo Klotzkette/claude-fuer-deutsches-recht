@@ -27,7 +27,7 @@ Ordne jede Ersatzposition genau einer ausgefallenen Charge zu. Eine Sammelrechnu
 
 ### 3.4. Folgeschaden und Schadensminderung
 
-Prüfe zusätzliche Transport-, Prüf-, Stillstands- oder entgangene Gewinnpositionen nach Artikel 74 CISG mit Kausalität und Vorhersehbarkeit bei Vertragsschluss. Umsatz ist kein entgangener Gewinn. Für gerettete Weiterverkäufe nicht zugleich vollständigen Gewinnausfall fordern. Artikel 77 verlangt eine konkrete Betrachtung tatsächlich verfügbarer zumutbarer Alternativen; der billigste Listenpreis ohne lieferbare Ware beweist keine vermeidbaren Mehrkosten. Gegenangebote, Liefertermin, Menge und Qualität belegen. Einwendungen nach Artikel 79 getrennt behandeln. Tatsachen für einen billigeren zumutbaren Einkauf und die Höhe vermeidbaren Schadens konkret zuordnen.
+Prüfe zusätzliche Transport-, Prüf- und Stillstandskosten sowie entgangenen Gewinn nach Artikel 74 CISG auf Kausalität und Vorhersehbarkeit bei Vertragsschluss. Umsatz ist kein entgangener Gewinn. Für gerettete Weiterverkäufe nicht zugleich vollständigen Gewinnausfall fordern. Artikel 77 verlangt eine konkrete Betrachtung tatsächlich verfügbarer zumutbarer Alternativen; der billigste Listenpreis ohne lieferbare Ware beweist keine vermeidbaren Mehrkosten. Gegenangebote, Liefertermin, Menge und Qualität belegen. Einwendungen nach Artikel 79 getrennt behandeln. Tatsachen für einen billigeren zumutbaren Einkauf und die Höhe vermeidbaren Schadens konkret zuordnen.
 
 ### 3.5. Abschluss
 

@@ -9,7 +9,7 @@ Erstelle aus Kontoauszügen und Gegenleistungsbelegen eine prüfbare Berechnung 
 
 ## 2. Eingaben
 
-Lies Auftrag, Organbestellung, behaupteten Reifestichtag mit Statusbelegen, Insolvenzantrag und gerichtliche Anordnungen, sämtliche einschlägigen Konten, Rechnungen, Rückzahlungen, Gegenleistungen und Sanierungsdokumentation. Erfasse den tatsächlichen Zahlungstag sowie Buchungs- und Wertstellungsdatum getrennt. Kläre, ob die beanspruchten Zahlungen vor oder seit dem 01.01.2021 liegen; historische Rechtslage nicht vermischen. Bei offenem Reifedatum rechne benannte Stichtagsvarianten. Höchstens eine gebündelte Nachfrage, dann Teilrechnung mit Restlücken.
+Lies Auftrag, Organbestellung, behaupteten Reifestichtag mit Statusbelegen, Insolvenzantrag und gerichtliche Anordnungen, sämtliche einschlägigen Konten, Rechnungen, Rückzahlungen, Gegenleistungen und Sanierungsdokumentation. Erfasse den tatsächlichen Zahlungstag sowie Buchungs- und Wertstellungsdatum getrennt. Kläre, ob die Zahlungen, auf die der Haftungsanspruch gestützt wird, vor oder seit dem 01.01.2021 liegen; historische Rechtslage nicht vermischen. Bei offenem Reifedatum rechne benannte Stichtagsvarianten. Höchstens eine gebündelte Nachfrage, dann Teilrechnung mit Restlücken.
 
 ## 3. Ablauf und Checkliste
 

@@ -3,74 +3,34 @@ name: wahlpruefung-nachwahl
 description: "Für Wahlprüfung Nachwahl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
-# Wahlpruefung Nachwahl
+# 1. Wahlprüfung nach der Wahl
 
-## Normenanker
+Bereite einen Wahleinspruch oder eine Wahlprüfungsbeschwerde anhand konkreter Wahlfehler vor. Lies zuerst die vorhandenen Niederschriften, Ergebnisfeststellungen, Korrespondenz und Eingangsbelege. Geht es nur um politische Unzufriedenheit ohne benannten Wahlfehler, erläutere diese Grenze. Keine Behauptung über Manipulation ohne Tatsachengrundlage übernehmen.
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+## 1.1. Wahlart und Verfahrensstand
 
-- `Art. 21 Abs. 1 GG` — Parteienfreiheit und Mitwirkung an politischer Willensbildung.
-- `Art. 38 Abs. 1 GG` — Wahlrechtsgrundsaetze.
-- `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
-- `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
-- `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
-- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
-- `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
-- `§ 49a BWahlG` — Ordnungswidrigkeiten.
-- `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
-- `§ 25 PartG` — Spendenannahme und Spendenverbote.
-- `§ 31d PartG` — Sanktionen bei unrichtigen Rechenschaftsberichten.
+Bestimme Wahlart, Wahlgebiet, Wahltag, Antragsteller, angegriffenen Vorgang und bisherigen Verfahrensstand. Für Bundestagswahlen gelten Artikel 41 GG, Wahlprüfungsgesetz und Paragraf 48 BVerfGG. Bei Europa-, Landes- und Kommunalwahlen zunächst das eigene Verfahrensrecht bestimmen; weder Zuständigkeit noch Fristen aus dem Bundestagswahlrecht übertragen.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Für Bundestagswahlen den schriftlichen, begründeten Einspruch beim Bundestag und dessen Eingang binnen zwei Monaten nach dem Wahltag prüfen. Die gesetzliche Sonderregel für den Bundestagspräsidenten nicht als allgemeine Nachfrist behandeln. Bei der Beschwerde gegen einen Bundestagsbeschluss Antragstellerkreis und die zweimonatige Erhebungs- und Begründungsfrist seit Beschlussfassung gesondert erfassen. Fehlende Bekanntgabe- oder Beschlussunterlagen gezielt anfordern; keine Frist allein aus dem Datum eines Presseberichts ableiten.
 
-## Arbeitsweg
+## 1.2. Tatsachen und mögliche Auswirkungen
 
-- Wahlart, Wahlgebiet, Wahltermin und Ebene festlegen: Bundestag, Europa, Landtag, Kommunalwahl, Bürgermeister-/Landratswahl oder innerparteiliche Vorstufe getrennt behandeln.
-- Rollen sauber trennen: Partei, Kandidierende, Fraktion, Amtsträger, Agentur, Verein, Unterstützerkreis, Plattform, Wahlleitung, Ordnungsamt und Polizei haben unterschiedliche Rechte, Pflichten und Kommunikationslinien.
-- Eilrisiken markieren: Wahlvorschlagsfristen, Unterstützungsunterschriften, Plakatierungs-/Sondernutzungsvorgaben, presserechtliche Reaktionsfenster, Datenschutzlöschung, Plattformfristen, Gegendarstellung, Unterlassung und Beweissicherung.
-- Tragende Normen live verifizieren: Art. 5, 8, 21 und 38 GG; BWahlG/BWO oder einschlägiges Landes-/Kommunalwahlrecht; PartG §§ 5, 18, 23a, 25, 31b-31d; DSGVO Art. 5, 6, 9, 12-15, 21, 32; BDSG; Versammlungsrecht des Landes; StGB §§ 107 ff., 111, 130, 185-188, 201a, 303; UrhG/KUG; DSA und Verordnung (EU) 2024/900 bei politischer Online-Werbung.
-- Belege aktenfest machen: Screenshot mit URL/Zeit, Plattform-ID, Freigabeweg, Budget, Spenden-/Sponsoringherkunft, Genehmigung, Behördenkontakt, interne Verantwortlichkeit und Entscheidungsvermerk.
-- Output knapp operativ liefern: Ampel, Sprechzettel, Behördenmail, Freigabe- oder Stoppvermerk, Fristenplan, Q&A, Plattformmeldung, Beweissicherungsnotiz oder Eskalationsmemo.
+Erstelle je behauptetem Wahlfehler eine Zeile mit Ort, Zeitpunkt, konkretem Geschehen, verletzter Regel, Beleg, Zeuge, Gegenbeleg und möglicher Auswirkung auf die Wahl. Trenne Wahrnehmungen von Vermutungen und Zahlen aus amtlichen Ergebnissen von privaten Nachzählungen. Bei widersprechenden Protokollen Herkunft, Fassung und Unterschriften dokumentieren.
 
-## Fachkern: Wahlpruefung Nachwahl
+Prüfe eine mögliche Mandatsrelevanz, soweit die begehrte Rechtsfolge sie erfordert. Eine behauptete Abweichung ist nicht automatisch ein Grund zur Wahlwiederholung. Unterscheide Wahlungültigkeit, Nachzählungsbegehren und die gesetzlich mögliche Feststellung einer subjektiven Rechtsverletzung nach Paragraf 48 Absatz 3 BVerfGG. Den konkreten Antrag aus den belegten Auswirkungen herleiten; kein bevorzugtes Ergebnis vorwegnehmen.
 
-- **Wahlkampflage (Wahlpruefung Nachwahl):** Wahlpruefung und Einspruch nach Wahlfehlern vorbereiten.
-- **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
-- **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
-- **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
+## 1.3. Verzögerte Wahlprüfung
 
-## Kaltstartfragen
+BVerfG, Beschluss vom 23.07.2026, Az. 2 BvC 20/26, Randnummern 14 bis 24, [amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/cs20260723_2bvc002026.html): Vor einer Bundestagsentscheidung ist eine Wahlprüfungsbeschwerde grundsätzlich nicht statthaft. Eine Ausnahme kommt bei unangemessener Verzögerung und einer dadurch drohenden Gefährdung zeit- oder sachgerechter Wahlprüfung in Betracht. Im entschiedenen Fall wurde diese Ausnahme verneint. Die Pflicht zur zügigen parlamentarischen Prüfung ersetzt ihre Voraussetzungen nicht. Die Pressemitteilung erschien am 06.08.2026; dies ist nicht das Entscheidungsdatum.
 
-1. Welche Wahl, welches Bundesland, welche Kommune und welcher Wahltermin sind betroffen?
-2. Welche Rolle hat die Nutzerin oder der Nutzer: Partei, Kandidatenteam, Agentur, Anwalt, Schatzmeisterei, Social-Media-Team oder Ehrenamt?
-3. Welche Unterlagen liegen vor: Satzung, Beschluss, Genehmigung, Bescheid, Screenshot, Spendenlog, Anzeigenbuchung, Presseanfrage, Chat oder Einsatzplan?
-4. Was soll sofort herauskommen: Risikoampel, Briefing, Behördenmail, Freigabevermerk, Fristenplan, Q&A, Sprechzettel oder Eskalationsnotiz?
-5. Gibt es personenbezogene Daten, politische Meinungsdaten, Minderjährige, Amtsträgerrolle oder fremde Plakate/Materialien im Sachverhalt?
+Stelle für einen Verzögerungseinwand Einspruchseingang, Nachfragen, Bearbeitungsschritte, bisherige Entscheidungen zu vergleichbaren Rügen und die konkrete Gefahr für wirksame Kontrolle gegenüber. Bloß die verstrichenen Monate zu zählen genügt nicht. Leite keine feste allgemeine Höchstdauer aus der Entscheidung ab.
 
-## Arbeitsfokus
+## 1.4. Arbeitsprodukt und Schlussprüfung
 
-Sammelt Wahlfehler, Mandatsrelevanz, Fristen, Belege, Zeugen und zuständiges Verfahren.
+Liefere eine Chronologie, ein Fristenblatt, eine nach Belegen geordnete Fehlerübersicht und einen ausformulierten Einspruchs- oder Beschwerdeentwurf. Falls die Voraussetzungen nicht belegbar sind, liefere stattdessen einen begründeten Vermerk mit gezielter Beleganforderung. Höchstens eine gebündelte Rückfrage zu entscheidenden Lücken; bereits belegte Teile ohne weitere Frageschleife ausarbeiten.
 
-## Rechts- und Praxislogik
+Kontrolliere Wahlart, Zuständigkeit, Antragstellerkreis, Frist, Antrag und Tatsachennachweise getrennt. Keine automatische Einreichung, Veröffentlichung von Anschuldigungen oder Kontaktaufnahme mit Zeugen. Vollständige Sätze, dezimale Gliederung und bei Dokumentexport Times New Roman 11 pt verwenden.
 
-- Wahlkampf ist durch Meinungsfreiheit, Parteienprivileg und demokratische Wahlgrundsätze geschützt, aber nicht rechtsfrei.
-- Trenne immer Kampagnenstrategie, amtliche Wahlorganisation, Parteienfinanzierung, Datenschutz, Plattformrecht und Straf-/Ordnungswidrigkeitenrisiken.
-- Eine harte politische Zuspitzung kann zulässig sein; eine falsche Tatsachenbehauptung über Wahlverfahren, Personen, Finanzierung oder Gegner kann den Fall drehen.
-- Ehrenamtliche brauchen kurze, klare Regeln. Wenn das Team improvisiert, müssen die Regeln einfacher und nicht komplizierter werden.
-- Dokumentiere Entscheidungen so, dass Schatzmeisterei, Rechtsberatung, Kandidatenteam und Kampagnenleitung später verstehen, warum etwas freigegeben oder gestoppt wurde.
+## 1.5. Quellen
 
-## Qualitätsgate
-
-- Ist die Wahlart und die zuständige Wahl- oder Ordnungsbehörde konkret bestimmt?
-- Sind Amt, Partei, Fraktion, Kandidatur, Agentur und Ehrenamt sauber getrennt?
-- Wurden rote Linien benannt: keine Desinformation, keine Plakat-Sabotage, keine verdeckten Spenden, keine rechtswidrige Datennutzung?
-- Ist der Output für Menschen im Wahlkampfstress schnell lesbar und unmittelbar ausführbar?
-- Sind Belege, Screenshots, Genehmigungen, Freigaben und Verantwortliche dokumentiert?
-
-## Quellen- und Aktualitätsregel
-
-- Bundes- und Landesrecht live prüfen; bei Plakatierung immer die konkrete Gemeinde oder Straßenbaubehörde heranziehen.
-- Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-- Bei politischer Online-Werbung die Verordnung (EU) 2024/900, Plattformregeln, DSGVO/BDSG und die konkrete Anzeigenbibliothek prüfen.
-- Bei Spenden, Sponsoring und Sachleistungen das Parteiengesetz, Bundestagsverwaltungshinweise und interne Schatzmeisterei-Regeln prüfen.
+Amtliche Normtexte: [Artikel 41 GG](https://www.gesetze-im-internet.de/gg/art_41.html), [Paragraf 2 WahlPrG](https://www.gesetze-im-internet.de/wahlprg/__2.html), [Paragraf 48 BVerfGG](https://www.gesetze-im-internet.de/bverfgg/__48.html). Normen und genannte Entscheidungsstellen am 15.09.2026 geprüft; vor Verwendung aktuelle Fassung und Zuständigkeit erneut kontrollieren. Keine Literaturfundstellen oder Randnummern aus Erinnerung ergänzen.

@@ -10,7 +10,7 @@ Erfassen Sie Betrieb, Jahre, Steuerarten, Gewinnermittlungsart, Kassensystem, Ö
 
 Prüfen Sie zuerst die Schätzungsbefugnis: Welcher Mangel betrifft welchen Zeitraum und warum kann er die sachliche Richtigkeit beeinflussen? Trennen Sie davon Methodenwahl und Höhe. Ein Fehler der Schätzmethode führt nicht automatisch zu unveränderter Übernahme der erklärten Zahlen.
 
-Rechnen Sie den Prüferansatz mit denselben Eingaben nach. Unterscheiden Sie Rohgewinnaufschlag und Marge; beim Aufschlag ergibt sich Erlös aus Wareneinsatz mal eins zuzüglich Aufschlagsatz. Dokumentieren Sie Bezugsgröße, Einheit, Brutto-/Nettobasis und Rundung.
+Rechnen Sie den Prüferansatz mit denselben Eingaben nach. Unterscheiden Sie Rohgewinnaufschlag und Marge. Für den Aufschlag gilt: Erlös = Wareneinsatz × (1 + Aufschlagsatz in Prozent / 100). Dokumentieren Sie Bezugsgröße, Einheit, Brutto-/Nettobasis und Rundung.
 
 Erstellen Sie dann je Warengruppe eine Gegenkalkulation: Anfangsbestand plus Zugänge minus Endbestand und belegte nicht verkaufte Mengen. Berücksichtigen Sie Retouren, Bruch, Eigenverbrauch und Gratisabgaben nachvollziehbar, ohne pauschale Wunschabschläge. Einkauf ist nicht Absatz. Rechnen Sie Gebinde und Portionen konsistent um. Verwenden Sie zeitgleiche Verkaufspreise und belegte Rabatte, keine späteren Preislisten ohne Anpassungsnachweis.
 

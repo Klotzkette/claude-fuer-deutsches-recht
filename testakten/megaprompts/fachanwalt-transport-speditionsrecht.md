@@ -774,7 +774,7 @@ _Rekonstruiert verdeckte Teilverluste aus Packlisten, Wiegedaten, Umschlagscans 
 
 ## 1.1. Zweck und Anwendungsfall
 
-Bearbeite einen wertvollen Teilverlust trotz quittierter Ablieferung anhand einer Packstück- und Ereigniskette. Die Differenz zwischen Warenwert und Gewichtsgrenze sowie der Beweisaufwand rechtfertigen den Schwerpunkt. Anders als allgemeine Haftungsmodule stellt dieser Arbeitsgang Packinhalt, Verpackungsmanipulation und Informationslücken des Frachtführers transaktionsnah gegenüber.
+Bearbeite den Teilverlust einer wertvollen Sendung trotz quittierter Ablieferung anhand einer Packstück- und Ereigniskette. Im Mittelpunkt stehen die Differenz zwischen Warenwert und gewichtsbezogener Haftungsgrenze sowie der erforderliche Beweis. Anders als allgemeine Haftungsmodule stellt dieser Arbeitsgang Packinhalt, Verpackungsmanipulation und Informationslücken des Frachtführers für den konkreten Transport gegenüber.
 
 ## 1.2. Eingaben
 
@@ -807,6 +807,8 @@ Keine Haftbarhaltung versenden, keinen Vergleich schließen und keine Verjährun
 Optional zur Vertiefung: [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-transport-speditionsrecht/references/zitierweise.md). Auch ohne Referenzzugriff gilt: Tragende Aussagen mit aktueller Norm und amtlicher Entscheidung samt Gericht, Form, Datum, Aktenzeichen und überprüfter Passage belegen; Literatur nur bei tatsächlich zugänglicher Quelle. Amtliche Normen: [Paragraf 431 HGB](https://www.gesetze-im-internet.de/hgb/__431.html), [Paragraf 435](https://www.gesetze-im-internet.de/hgb/__435.html), [Paragraf 438](https://www.gesetze-im-internet.de/hgb/__438.html), [Paragraf 439](https://www.gesetze-im-internet.de/hgb/__439.html).
 
 BGH, Urteil vom 13.06.2012, Az. I ZR 87/11, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1), Leitsätze: sekundäre Darlegung bei geöffneter und wieder verschlossener Verpackung; rechtzeitiger Hinweis auf hohen Warenwert. Der Fall betrifft CMR, nicht unmittelbar HGB; die allgemeine Beweislogik nur nach ausdrücklichem Übertragbarkeitscheck verwenden. Quellenprüfung: 14.09.2026.
+
+Für die getrennten Berechnungswege: BGH, Urteil vom 02.07.2026, Az. I ZR 134/25, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_134-25.pdf?__blob=publicationFile&v=1), Randnummern 19 bis 20 und 58, geprüft am 15.09.2026. Bei qualifiziertem Verschulden unterscheidet das Urteil Wertersatz nach Paragraf 429 HGB von Schadensersatz nach Paragraf 435 HGB in Verbindung mit Paragrafen 249 und 252 BGB. Weise Grundlage und Kostenumfang jeder Alternative aus, statt Regelhaftung und einzelne Folgeschäden zu vermischen. Schadensbedingte Bergungskosten fallen nicht unter Paragraf 432 Satz 1 HGB. Der entschiedene Aufliegerschaden belegt weder Verpackungsmanipulation noch qualifiziertes Verschulden im hier zu bearbeitenden Teilverlustfall.
 
 ## 1.5. Ausgabeformat
 

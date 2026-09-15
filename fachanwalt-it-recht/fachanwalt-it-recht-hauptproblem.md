@@ -14,7 +14,7 @@ Bilde je Funktion eine Zeile mit Sollquelle, Version, Testbedingung, Ist-Ergebni
 
 Prüfe Nachtragsangebot, Menge, Preis, Vertretungsmacht und vertragliche Änderungsmechanik. Technische Ticketbestätigung ist nicht automatisch kaufmännische Freigabe. Umgekehrt genügt die fehlende Unterschrift ohne Prüfung von Verhalten, Vertretung und Formabrede nicht zur endgültigen Ablehnung. Arbeitsstunden belegen Aufwand, nicht allein zusätzliche Vergütung. Keine ungeprüfte Übernahme baurechtlicher Nachtragsregeln.
 
-## 4. Abnahme und Zahlungsbrücke
+## 4. Abnahme, Fälligkeit und Vergütung
 
 Prüfe für werkvertragliche Teile ausdrückliche, konkludente und fingierte Abnahme getrennt. Produktivnutzung allein nicht mechanisch mit Billigung gleichsetzen. Pilotbetrieb, Fehlerkenntnis, Vorbehalte und Teilabnahmen auswerten. Für Paragraf 640 Absatz 2 BGB Fertigstellung, angemessene Frist und Reaktion prüfen. Rechtzeitige Verweigerung unter Benennung mindestens eines Mangels von der Frage trennen, ob wegen bloß unwesentlicher Mängel trotzdem Abnahme verlangt werden kann.
 

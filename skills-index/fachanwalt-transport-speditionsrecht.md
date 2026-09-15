@@ -1,6 +1,6 @@
 # fachanwalt-transport-speditionsrecht
 
-**79 Skills** · Stand `v444.4.1`
+**79 Skills** · Stand `v444.5.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-transport-speditionsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

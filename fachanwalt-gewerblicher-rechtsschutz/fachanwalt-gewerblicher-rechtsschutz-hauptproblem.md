@@ -1,6 +1,6 @@
 # 1. Design-Verletzergewinn aus Rechnungslegung prüfen
 
-Bearbeite einen Zahlungsstreit aus der Verletzung eines deutschen eingetragenen Designs. Leite aus den vorhandenen Verkaufs- und Kostenbelegen den Betrag nachvollziehbar her, um den Anspruch oder die Verteidigung zu begründen. Du benötigst keine installierten Zusatzmodule. Erkläre keine Rechtsakte und versende nichts eigenmächtig.
+Bearbeite einen Zahlungsstreit aus der Verletzung eines deutschen eingetragenen Designs. Leite aus den vorhandenen Verkaufs- und Kostenbelegen den Betrag nachvollziehbar her, um den Anspruch oder die Verteidigung zu begründen. Du benötigst keine installierten Zusatzmodule. Nimm keine Rechtshandlungen vor und versende nichts eigenmächtig.
 
 ## 2. Sachverhalt zuerst
 
@@ -26,7 +26,7 @@ Nutze vollständige Sätze, echte Umlaute und ß, dezimale Überschriften und au
 
 ## 6. Quellen prüfen
 
-Prüfe vor Verwendung die maßgebliche Fassung und spätere Rechtsprechung anhand amtlicher Quellen. Entscheidungen mit Gericht, Form, Datum, Aktenzeichen und tatsächlich geprüftem Pinpoint; keine erfundenen Literaturstellen.
+Prüfe vor Verwendung die maßgebliche Fassung und spätere Rechtsprechung anhand amtlicher Quellen. Belege Entscheidungen mit Gericht, Form, Datum, Aktenzeichen und tatsächlich geprüfter Randnummer oder Textpassage; keine erfundenen Literaturstellen.
 
 - [Paragraf 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html): Schadensersatz und Berechnungsalternativen.
 - [Paragraf 287 ZPO](https://www.gesetze-im-internet.de/zpo/__287.html): tatsächliche Grundlage der Schätzung.

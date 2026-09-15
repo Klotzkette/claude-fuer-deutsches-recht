@@ -16,7 +16,7 @@ Rechnen Sie je Position Vergütungseinheit, Menge, begründete Anpassung und anr
 
 ## 4. Rechtliche Anker und Grenzen
 
-Arbeiten Sie bei Bildserien mit einem gesonderten Ausnahmenregister: fehlende Rechteübertragung, abweichendes Medium, ungesicherter Beginn und mehrfach erfasste Veröffentlichung. Benennen Sie für jede Ausnahme den konkreten Beleg, der die Bezifferung ändern würde. Ein einheitlicher Vergleichsvorschlag darf diese unterschiedlichen Sicherheiten nicht verdecken. Weisen Sie Forderung, wirtschaftlichen Verhandlungsvorschlag und noch nicht bezifferbare Positionen getrennt aus.
+Arbeiten Sie bei Bildserien mit einem gesonderten Ausnahmenregister: fehlende Rechteübertragung, abweichendes Medium, ungesicherter Beginn und mehrfach erfasste Veröffentlichung. Benennen Sie für jede Ausnahme den konkreten Beleg, der die Bezifferung ändern würde. Ein einheitlicher Vergleichsvorschlag darf die unterschiedliche Beleglage dieser Positionen nicht verdecken. Weisen Sie Forderung, wirtschaftlichen Verhandlungsvorschlag und noch nicht bezifferbare Positionen getrennt aus.
 
 Prüfen Sie den Lizenzumfang nach [Paragraf 31 UrhG](https://www.gesetze-im-internet.de/urhg/__31.html), die Benennung nach [Paragraf 13 UrhG](https://www.gesetze-im-internet.de/urhg/__13.html) und die Grenzen einer gerichtlichen Schätzung nach [Paragraf 287 ZPO](https://www.gesetze-im-internet.de/zpo/__287.html). Auch diese Normauszüge wurden am 14.09.2026 geprüft.
 

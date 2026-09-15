@@ -41,6 +41,8 @@ Optional zur Vertiefung: [Zitierweise](../../references/zitierweise.md). Auch oh
 
 BGH, Urteil vom 13.06.2012, Az. I ZR 87/11, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1), Leitsätze: sekundäre Darlegung bei geöffneter und wieder verschlossener Verpackung; rechtzeitiger Hinweis auf hohen Warenwert. Der Fall betrifft CMR, nicht unmittelbar HGB; die allgemeine Beweislogik nur nach ausdrücklichem Übertragbarkeitscheck verwenden. Quellenprüfung: 14.09.2026.
 
+Für die getrennten Berechnungswege: BGH, Urteil vom 02.07.2026, Az. I ZR 134/25, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_134-25.pdf?__blob=publicationFile&v=1), Randnummern 19 bis 20 und 58, geprüft am 15.09.2026. Bei qualifiziertem Verschulden unterscheidet das Urteil Wertersatz nach Paragraf 429 HGB von Schadensersatz nach Paragraf 435 HGB in Verbindung mit Paragrafen 249 und 252 BGB. Weise Grundlage und Kostenumfang jeder Alternative aus, statt Regelhaftung und einzelne Folgeschäden zu vermischen. Schadensbedingte Bergungskosten fallen nicht unter Paragraf 432 Satz 1 HGB. Der entschiedene Aufliegerschaden belegt weder Verpackungsmanipulation noch qualifiziertes Verschulden im hier zu bearbeitenden Teilverlustfall.
+
 ## 1.5. Ausgabeformat
 
 Liefere `ergebnis.md` mit Sachverhalt, Packstück- und Ereignismatrix, bezifferter Alternativrechnung, Fristenblatt und ausformulierter Anspruchsbegründung oder Erwiderung als Entwurf. Vollständige Sätze statt Stichwortskelette. Dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.

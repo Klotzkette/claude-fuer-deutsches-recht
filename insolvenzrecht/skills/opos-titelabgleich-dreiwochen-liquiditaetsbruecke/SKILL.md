@@ -5,7 +5,7 @@ description: Überführt offene Posten, streitige Vollstreckungstitel und Bankbe
 
 # 1. Zweck und Anwendungsfall
 
-Stimme widersprüchliche Offene-Posten-Listen mit Titeln, Fälligkeiten und tatsächlicher Liquidität ab. Der Schwerpunkt ist geeignet, weil eine falsche Einzelposition die Krisenentscheidung und Organhaftung verändern kann. Anders als `zahlungsunfaehigkeit-pruefung-17-inso` steht die dokumentierte Überleitung der Buchhaltungsdaten in eine symmetrische Dreiwochenrechnung mit Zu- und Abflüssen im Mittelpunkt; kein weiteres allgemeines Insolvenzreife-Gutachten.
+Stimme widersprüchliche Offene-Posten-Listen mit Titeln, Fälligkeiten und tatsächlicher Liquidität ab. Eine falsche Einzelposition kann die Krisenentscheidung und Organhaftung verändern. Anders als `zahlungsunfaehigkeit-pruefung-17-inso` steht die dokumentierte Überleitung der Buchhaltungsdaten in eine Dreiwochenrechnung im Mittelpunkt, die Zu- und Abflüsse bei Zahlungsmitteln und Verbindlichkeiten aufeinander abgestimmt erfasst; kein weiteres allgemeines Insolvenzreife-Gutachten.
 
 ## 2. Eingaben
 

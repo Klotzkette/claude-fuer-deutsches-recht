@@ -779,7 +779,7 @@ _Klärt widersprüchliche medizinische Leistungsbilder bei Erwerbsminderungsrent
 
 ## 1.1. Zweck und Anwendungsfall
 
-Erarbeite eine Beweisstrategie, wenn Reha-Bericht, Behandler und Gutachten verschiedene tägliche Leistungsvermögen nennen und der Eintrittszeitpunkt über die Versicherungsvoraussetzungen entscheidet. Die langfristige Einkommenssicherung und der Aufwand der medizinischen Aktenauswertung begründen den Schwerpunkt. Anders als das allgemeine Restleistungsmodul verbindet dieser Skill konkrete Befundwidersprüche mit mehreren datierten Leistungsfallhypothesen.
+Erarbeite eine Beweisstrategie, wenn Reha-Bericht, Behandler und Gutachten verschiedene tägliche Leistungsvermögen nennen und der Eintrittszeitpunkt über die Versicherungsvoraussetzungen entscheidet. Die langfristige Einkommenssicherung und der Aufwand der medizinischen Aktenauswertung begründen den Schwerpunkt. Anders als die allgemeine Prüfung des Restleistungsvermögens verbindet dieser Skill konkrete Befundwidersprüche mit mehreren möglichen Eintrittszeitpunkten der Erwerbsminderung.
 
 ## 1.2. Eingaben
 

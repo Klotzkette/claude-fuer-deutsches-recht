@@ -14,7 +14,7 @@ Prüfen Sie bei vorläufig vollstreckbaren Titeln die Vollstreckungsvoraussetzun
 
 Trennen Sie frei verfügbare Bankmittel, gebundene Gelder, freie Linien und lediglich erhoffte Finanzierung. Eigene Forderungen sind nur entsprechend ihrer belegten rechtzeitigen Realisierbarkeit liquide Mittel.
 
-Erstellen Sie zuerst den Anfangsstatus. Überführen Sie ihn dann in die Dreiwochenrechnung: Anfangsmittel plus belastbare Zuflüsse gegen Anfangsverbindlichkeiten plus neu fällige und eingeforderte Verbindlichkeiten. Zeigen Sie die Termine und unterjährigen Engpässe. Eine Zahlung vermindert in der Fortschreibung sowohl Geld als auch Schuld; vermeiden Sie einen zweiten Abzug in der kumulierten Rechnung. Berechnen Sie die Lückenquote mit dem jeweiligen Verbindlichkeitsbedarf als Nenner. Kontrollieren Sie Nullbedarf, Dubletten und Summen.
+Erstellen Sie zuerst den Anfangsstatus. Überführen Sie ihn dann in die Dreiwochenrechnung: Anfangsmittel plus belastbare Zuflüsse gegen Anfangsverbindlichkeiten plus neu fällige und eingeforderte Verbindlichkeiten. Zeigen Sie die Zahlungstermine und die Engpässe innerhalb des Dreiwochenzeitraums. Eine Zahlung vermindert in der Fortschreibung sowohl Geld als auch Schuld; vermeiden Sie einen zweiten Abzug in der kumulierten Rechnung. Berechnen Sie die Lückenquote mit dem jeweiligen Verbindlichkeitsbedarf als Nenner. Kontrollieren Sie Nullbedarf, Dubletten und Summen.
 
 Unterscheiden Sie rückblickend festgestellte Zahlung und am Stichtag vertretbare Prognose. Würdigen Sie Zahlungseinstellung gesondert. Ein günstiger Endtag oder ein einzelner Prozentwert rechtfertigt keine automatische Entwarnung. Überschuldung ist eine andere Prüfung.
 
