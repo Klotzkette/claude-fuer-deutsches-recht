@@ -1,16 +1,32 @@
 ---
 name: klagestrategie-und-vollstreckung
-description: "Für Klagestrategie und Vollstreckung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
+description: "Prüft und entwirft auf ausdrücklichen Auftrag Klage, Vergleich oder Vollstreckung zu einem Arbeitszeugnis anhand des genauen Berichtigungsziels, der Beweise und eines vorhandenen Titels."
 ---
 
-# Klagestrategie und Vollstreckung
+# Klage, Vergleich und Vollstreckung zum Arbeitszeugnis
 
-Wenn das Aufforderungsschreiben fruchtlos bleibt oder der Arbeitgeber nur unzureichend reagiert, ist die Klage auf Zeugnisberichtigung der naechste Schritt. Sie ist eine Leistungsklage beim Arbeitsgericht auf Verurteilung des Arbeitgebers zur Erteilung eines Zeugnisses mit praezise formuliertem Wortlaut. Der Streitwert betraegt in der Regel ein Bruttomonatsgehalt; mehrere Streitpunkte addieren sich nicht, weil der Anspruch auf das berichtigte Zeugnis nur einmal entsteht.
+## 1. Auftragsgrenze
 
-Musterklageantrag: Der Beklagte wird verurteilt, der Klaegerin ein qualifiziertes Arbeitszeugnis zu erteilen, das auf dem Briefkopf des Beklagten ausgestellt ist, das Beendigungsdatum traegt, vom dazu Befugten unterschrieben ist und folgenden Inhalt aufweist: erstens in der Leistungsbeurteilung statt [Originalwortlaut] die Formulierung [Neufassung]; zweitens in der Verhaltensbeurteilung die Reihenfolge Vorgesetzte vor Kollegen vor Kunden mit dem Steigerer [X] und dem Praedikat [Y]; drittens [weitere Punkte analog]. Jeder Antragspunkt bezieht sich auf eine benannte Streitstelle aus dem Mandantenbericht.
+Bearbeite ein gerichtliches Vorgehen nur auf ausdrücklichen Auftrag. Klage, Vergleich und Vollstreckung sind unterschiedliche Wege. Bestimme anhand von Geltendmachung, Reaktion der Gegenseite, Verfahrensstand und Titel, welcher davon tatsächlich zu prüfen ist.
 
-Kostenrisiko: Paragraf 12a ArbGG schliesst im erstinstanzlichen arbeitsgerichtlichen Verfahren die Erstattung eigener Anwaltskosten aus, und die Gegenseite kann ihre Kosten ebenfalls nicht erstattet verlangen. Nach BAG 28.11.2019 (8 AZR 293.18) gilt das auch fur materiell-rechtliche Anspruche auf vor- und aussergerichtliche Rechtsverfolgungskosten. Dieses Kostenrisiko muss der Mandant realistisch kennen, bevor er klagt.
+## 2. Erkenntnisverfahren
 
-Vergleichsfenster und Vollstreckung: Haufig ist vor dem Gutetermin ein Vergleich erreichbar. Ein vorformulierter Vergleichstext mit der Entwurfsklausel des Arbeitnehmers und einem Abweichungsvorbehalt nur aus wichtigem Grund schafft einen vollstreckbaren Titel. Erfullt der Arbeitgeber nach Urteil oder Vergleich nicht, steht Zwangsgeld nach Paragraf 888 ZPO zur Verfugung, weil die Zeugniserteilung eine nicht vertretbare Handlung ist. Ironische Ueberfuellung gilt als Nichterfuellung (LAG Hamm 14.11.2016 - 12 Ta 475.16). Bei substantiiertem Streit uber Zeugniswahrheit oder Zeugnisklarheit ist das Erkenntnisverfahren und nicht das Vollstreckungsverfahren zustandig.
+Formuliere das Berichtigungsziel so bestimmt, dass Streitgegenstand und verlangte Zeugnisfassung erkennbar sind. Verknüpfe jeden Antragsteil mit konkretem Originalwortlaut, begehrter Fassung, tragender Tatsache und Beweisangebot. Prüfe Rechtsweg, Parteien, Zuständigkeit, Schlüssigkeit, Ausschlussfristen und die Darlegungs- und Beweislast für jeden Streitpunkt gesondert.
 
-Ausgabeformat: Klageantrag, Vergleichstext und Begruendung werden als vollstaendig ausformuliertes Endprodukt in ganzen Saetzen geliefert; ein blosses Antrags- oder Klauselskelett ist als Endprodukt verboten. Fehlende Angaben werden als klar lesbare Platzhalter gesetzt (zum Beispiel [Name der Klaegerin], [Bruttomonatsgehalt in EUR], [Streitstelle]), der umgebende Text bleibt vollstaendig. Soweit technisch moeglich wird in Times New Roman 11 pt und ausschliesslich dezimaler Gliederung (1, dann 1.1, dann 1.1.1) ausgegeben; bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+Ein Streit über eine bessere Gesamtbewertung verlangt die sie tragenden Leistungstatsachen. Eine bloße Stilpräferenz, eine schematische Personenreihenfolge oder eine freiwillige Schlussformel wird nicht als sicherer Klageanspruch dargestellt.
+
+## 3. Vergleich
+
+Eine Vergleichsklausel muss die geschuldete Fassung oder das zulässige Bestimmungsverfahren klar erkennen lassen. Prüfe vor einem Entwurf, ob Wortlaut, Entwurfsrecht, zulässige Abweichungen, Frist, Form und Herausgabe früherer Fassungen geregelt werden sollen. Formuliere keine scheinbar genaue, tatsächlich unvollstreckbare Verpflichtung.
+
+## 4. Vollstreckung
+
+Vergleiche den vollstreckbaren Inhalt des Titels mit der erteilten Fassung. Trenne die Frage der Titelerfüllung von einem neuen materiellen Streit über Wahrheit oder Klarheit. Entwirf einen Antrag nach § 888 ZPO nur, wenn eine hinreichend bestimmte, nicht vertretbare Handlung tituliert und noch nicht erfüllt ist.
+
+## 5. Rückfragen und Fortsetzung
+
+Fehlt der genaue Titel, der Wortlaut des Begehrens oder ein entscheidender Beleg, frage gezielt danach. Lege gleichzeitig die bereits mögliche Anspruchs-, Beweis- und Verfahrensprüfung vor und stelle nur den abhängigen Entwurf zurück. Nach der Antwort setzt du dort fort und lieferst das bestellte vollständige Dokument.
+
+## 6. Ausgabe
+
+Gib je nach Auftrag einen ausformulierten Klageentwurf, Vergleichsvorschlag oder Vollstreckungsantrag mit Sachverhalt, Begründung, Beweisangeboten und Anlagenbezug aus. Streitwert und Kosten werden anhand der aktuellen gesetzlichen und örtlichen Maßstäbe gesondert geprüft, nicht pauschal behauptet. Reiche nichts ohne ausdrückliche Freigabe ein.

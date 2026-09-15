@@ -1,14 +1,20 @@
 ---
 name: beweislast-bag-9-azr-584-13
-description: "Für Beweislast nach BAG 9 AZR 584.13: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
+description: "Ordnet im Streit um die Leistungs- oder Verhaltensbewertung eines Arbeitszeugnisses die Darlegungs- und Beweislast nach der BAG-Rechtsprechung zu. Erstellt eine fallbezogene Tatsachen- und Beweismittelübersicht für die verlangte Notenstufe."
 ---
 
-# Beweislast nach BAG 9 AZR 584.13
+# Darlegungs- und Beweislast bei der Zeugnisnote
 
-Die Beweislastverteilung im Zeugnisstreit ist zwingend zu kommunizieren, bevor ein Mandant eine Berichtigungsstrategie entwickelt. Das BAG hat die Grundregel in mehreren Entscheidungen gefestigt: Note 3 ist der Ausgangspunkt. Wer eine bessere Bewertung als Note 3 verlangt, traegt als Arbeitnehmer die Darlegungs- und Beweislast. Wer schlechter als Note 3 bewertet wird, ist in einem guenstigeren Beweislast-Szenario: Dann muss der Arbeitgeber die schlechtere Einschaetzung darlegen und beweisen.
+## 1. Grundregel
 
-Das Urteil des BAG vom 18.11.2014 (9 AZR 584.13) praezisiert: „Befriedigend" ist die mittlere Note der Zufriedenheitsskala, und die Branchenueblichkeit guter oder sehr guter Noten verschiebt die Beweislast nicht. Auch wenn in einer Branche fast jeder eine Note-2-Beurteilung erhaelt, muss der Arbeitnehmer, der Note 2 statt Note 3 haben will, Beweise liefern. Diese Aussage ist wichtig fuer das Erwartungsmanagement.
+Bestimme zuerst, welche konkrete Gesamt- oder Teilbewertung erteilt wurde und welche Bewertung verlangt wird. Die übliche Zufriedenheitsformel „zur vollen Zufriedenheit“ entspricht einer durchschnittlichen Leistung. Verlangt der Arbeitnehmer eine überdurchschnittliche Bewertung, muss er die hierfür maßgeblichen Leistungstatsachen darlegen und gegebenenfalls beweisen. Bescheinigt der Arbeitgeber eine unterdurchschnittliche Leistung, hat er die schlechtere Bewertung zu begründen und im Streitfall zu belegen. Maßgeblich sind insbesondere BAG, Urteil vom 14. Oktober 2003 – 9 AZR 12/03, und BAG, Urteil vom 18. November 2014 – 9 AZR 584/13.
 
-Praktische Konsequenz fuer den Mandanten: Liegt das Zeugnis auf Note 3 und der Mandant begehrt Note 2, sind Nachweise zu beschaffen: Zwischenzeugnisse mit guter Einschaetzung, Zielvereinbarungen mit nachgewiesener Uebererfuellung, Bonuszahlungen, Lob-E-Mails, Beurteilungsboegen, Zeugenaussagen von unmittelbaren Vorgesetzten. Ohne solche Belege ist die Klage auf Note 2 hochriskant.
+Diese Verteilung gilt für den Streit über Werturteile. Übertrage sie nicht pauschal auf Tatsachenfehler, äußere Form, Erfüllung, Schlussformeln oder jede behauptete Auslassung.
 
-Hat das Zeugnis dagegen Elemente, die Note 4 oder schlechter anzeigen (zum Beispiel „war stets bemueht", „im Wesentlichen"), ist der Arbeitgeber beweispflichtig. Hier ist die Ausgangslage des Mandanten guenstiger, und der Pruefer empfiehlt je nach Gesamtbild entweder Nachverhandlung oder Klage. Vor Schriftsatzverwendung sind beide Urteile (BAG 14.10.2003 - 9 AZR 12.03 und BAG 18.11.2014 - 9 AZR 584.13) im BAG-Rechtsprechungsportal zu verifizieren.
+## 2. Beweisübersicht
+
+Ordne jedem verlangten Bewertungssprung konkrete Tatsachen und Beweismittel zu, etwa Zwischenzeugnisse, dokumentierte Zielerreichung, Beurteilungen, Bonusentscheidungen, Projektresultate, belastbare Korrespondenz oder Zeugen mit genau bezeichnetem Beweisthema. Trenne vorhandenen Beleg, bloße Behauptung und noch zu beschaffenden Nachweis. Gib an, welche Formulierung der gegenwärtige Stand trägt und welche bessere Fassung zusätzlichen Beweis voraussetzt.
+
+## 3. Fortführung des Auftrags
+
+Führe die Beweisbewertung in den laufenden Prüfvermerk, die Ersatzformulierung und gegebenenfalls die außergerichtliche oder gerichtliche Begründung zurück. Frage nur nach einer Leistungs- oder Verhaltenstatsache, die das Ergebnis ändern kann; unabhängige Korrekturen werden abgeschlossen. Nach der Antwort aktualisierst du die betroffene Bewertung ohne Neustart. Ist ein Dokument bestellt, liefere die derzeit tragfähige Fassung und kennzeichne eine weitergehende Variante als beweisabhängig.

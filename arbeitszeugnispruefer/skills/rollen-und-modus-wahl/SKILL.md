@@ -1,14 +1,38 @@
 ---
 name: rollen-und-modus-wahl
-description: "Für Rollen- und Moduswahl vor der Zeugnisprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Bestimmt bei einer laufenden Arbeitszeugnisprüfung Empfänger, Ziel und passenden Bearbeitungszweig, wenn Arbeitnehmer, Kanzlei, Arbeitgeber, Personalabteilung oder Vergleichs- und Vollstreckungslage unterschiedliche Ergebnisse erfordern."
 ---
 
-# Rollen- und Moduswahl vor der Zeugnispruefung
+# Rolle und Ziel der Arbeitszeugnisprüfung bestimmen
 
-Bevor ein einziger Satz des Zeugnisses bewertet wird, legt der Pruefer die Rolle und den Ausgabemodus fest. Beide Entscheidungen bestimmen, welche Module ausgefuehrt werden und welche Schriftstuecke am Ende entstehen. Eine spaetere Kurskorrektur ist moeglich, wenn sich aus dem Zeugnis selbst Hinweise auf eine andere Rolle ergeben.
+## 1. Ausgangspunkt
 
-Die vier Hauptrollen sind: Arbeitnehmer oder Arbeitnehmerin (Standardfall, Rollenvermutung), Anwaltskanzlei auf Arbeitnehmerseite, Arbeitgeber oder Personalabteilung (HR-Gegenpruefer), und Betriebsrat oder neutrale Schulung. Die Rollenvermutung gilt, wenn keine anderslautende Angabe vorliegt: Der Einsender ist die beurteilte Person. Nur bei eindeutigen Hinweisen auf eine HR-, Kanzlei- oder Betriebsratsrolle wird davon abgewichen.
+Leite die Rolle zuerst aus Auftrag, Unterlagen und Sprachgebrauch ab. Fehlt ein gegenteiliger Hinweis, behandle die einsendende Person als die beurteilte Arbeitnehmerin oder den beurteilten Arbeitnehmer. Frage nur nach, wenn die Rollenwahl das geschuldete Ergebnis tatsächlich verändert.
 
-Im interaktiven Einsatz (Chat-Oberflaeche mit gesicherter Folge-Runde) liefert der Pruefer zuerst Analyse und Mandantenbericht und bietet Aufforderungsschreiben sowie Klagestrategie am Ende als Option an. Im nicht-interaktiven Einsatz (API, Agenten-SDK, Automatisierung, One-Shot-Aufruf) wird die Arbeit sofort rollenrichtig fertiggestellt: Vollanalyse, Mandantenbericht oder HR-Korrekturvermerk sowie bei Arbeitnehmerperspektive und vorhandenen Beanstandungen auch das Aufforderungsschreiben, alles in einer einzigen Antwort.
+## 2. Empfängerbezogene Ergebnisse
 
-Ein Aufforderungsschreiben wird nur bei Arbeitnehmerperspektive und mindestens einem roten oder orangefarbenen Befund oder einem sonstigen Berichtigungspunkt erzeugt. Bei durchgehend unbedenklichem Zeugnis oder bei HR- und Arbeitgeberperspektive entfaellt es. Fehlende Platzhalter wie Name, Datum oder Kanzleibriefkopf werden klar gekennzeichnet und sind kein Blocker fuer die Ausgabe.
+| Rolle | Ergebnis |
+| --- | --- |
+| Arbeitnehmerin oder Arbeitnehmer | verständliche rechtliche Einordnung, konkrete Ersatzsätze, Belegbedarf und Handlungsempfehlung |
+| Kanzlei auf Arbeitnehmerseite | anwaltlicher Prüfvermerk, Änderungsvergleich und der vom Mandat umfasste Entwurf |
+| Arbeitgeber oder Personalabteilung | interner Korrekturvermerk und wahrheitsgemäße, widerspruchsfreie Zeugnisfassung |
+| Betriebsrat oder neutrale Beratung | sachliche Einordnung der Streitpunkte und des weiteren Vorgehens |
+| Vergleichs- oder Vollstreckungslage | Abgleich von Titel und erteilter Fassung sowie nur bei Auftrag der passende Verfahrensentwurf |
+
+## 3. Zielbezogene Verzweigung
+
+Eine Prüfung endet mit einem vollständigen Prüfbericht. Eine verlangte Neufassung endet zusätzlich mit einem zusammenhängenden Zeugnistext. Eine Berichtigungsaufforderung endet mit einem versandfertigen Schreiben. Klage, Vergleich und Vollstreckung werden nur bearbeitet, wenn der Auftrag sie umfasst; ein negativer Befund löst sie nicht automatisch aus.
+
+Ein Erstentwurf ohne vorhandene Zeugnisfassung gehört zum `arbeitszeugnisgenerator`. Eine aus einer geprüften Fassung entwickelte Gesamtkorrektur bleibt Teil dieses Plugins.
+
+## 4. Rückfrage und Fortsetzung
+
+Ist die Rolle unklar und entscheidend, stelle eine gebündelte Frage zu Empfänger und gewünschtem Enddokument. Bearbeite gleichzeitig alle rollenunabhängigen Punkte. Zeige bei Bedarf die Folgen beider vertretbaren Antworten. Nach der Antwort setzt du am bestehenden Stand fort und fertigst das gewählte Ergebnis aus; du beginnst die Prüfung nicht erneut.
+
+## 5. Grenzen
+
+Übernimm keine Parteiperspektive als Tatsache und unterstelle keinen Klageauftrag. Interne Auswahlbegriffe erscheinen nicht im fertigen Dokument. Verwende die für den tatsächlichen Empfänger übliche anwaltliche Sprache.
+
+## 6. Abschluss
+
+Die Rollenwahl ist nie das Endergebnis. Führe unmittelbar in die fachliche Prüfung und anschließend bis zum bestellten Dokument weiter. Wenn eine Antwort aussteht, bleibt allein der davon abhängige Teil vorläufig.

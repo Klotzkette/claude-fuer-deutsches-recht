@@ -1,16 +1,197 @@
 {
-  "schema_version": 1, "plugin": "arbeitszeugnispruefer", "reviewed_on": "2026-09-14",
+  "schema_version": 1,
+  "plugin": "arbeitszeugnispruefer",
+  "reviewed_on": "2026-09-15",
   "sources": [
-    {"url": "https://www.gesetze-im-internet.de/gewo/__109.html", "checked_on": "2026-09-14", "supports": "Zeugnisklarheit und elektronische Form mit Einwilligung."},
-    {"url": "https://www.gesetze-im-internet.de/bgb/__126a.html", "checked_on": "2026-09-14", "supports": "Qualifizierte elektronische Signatur als Voraussetzung elektronischer Form."},
-    {"url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/", "checked_on": "2026-09-14", "supports": "Wendung kennen gelernt nicht isoliert als Geheimcode behandeln."},
-    {"url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/", "checked_on": "2026-09-14", "supports": "Tatsachenlast bei begehrter überdurchschnittlicher Schlussbewertung."}
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
+      "checked_on": "2026-09-15",
+      "supports": "Zeugnisklarheit und elektronische Form mit Einwilligung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__126a.html",
+      "checked_on": "2026-09-15",
+      "supports": "Qualifizierte elektronische Signatur als Voraussetzung elektronischer Form."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/",
+      "checked_on": "2026-09-15",
+      "supports": "Die Wendung kennen gelernt ist nicht isoliert als Geheimcode zu behandeln."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/",
+      "checked_on": "2026-09-15",
+      "supports": "Tatsachenlast bei begehrter überdurchschnittlicher Schlussbewertung."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-227-11/",
+      "checked_on": "2026-09-15",
+      "supports": "Kein regelmäßiger Anspruch auf eine bestimmte Dankes- und Wunschformel."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/",
+      "checked_on": "2026-09-15",
+      "supports": "Bestätigung, dass § 109 GewO regelmäßig keinen Anspruch auf eine Dankes- und Wunschformel vermittelt."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/",
+      "checked_on": "2026-09-15",
+      "supports": "Maßregelungsverbot bei nachteiliger Entfernung einer zuvor erteilten Schlussformel."
+    }
   ],
-  "mini_review": {"sha256":"93cf3eb0c4f24c4509de0199c4ebc554a85cc373b4fa70e2d3ceeefa82a091be","verdict": "revised", "reason": "Vollständig gelesen und mit dem Spezialskill zum objektiven Empfängerhorizont verglichen. Die alte Allgemeinroute unterschied nicht ausreichend zwischen belegtem Mangel, Gestaltungswunsch und elektronischer Formprüfung.", "changes": ["Konkrete Änderungsmatrix mit Beleg und Ersatzsatz eingeführt.", "Isolierte Codebehauptungen begrenzt.", "Einwilligung und qualifizierte elektronische Signatur gesondert prüfbar gemacht."]},
-  "selection": {"positive": ["Prüfen Sie mein vorhandenes Zeugnis auf belegbare Mängel und formulieren Sie Ersatzsätze.", "Kontrollieren Sie eine PDF-Zeugnisfassung mit Unterschriftsbild auf Form und Inhalt."], "negative": ["Erstellen Sie erstmals ein Zeugnis aus Personalnotizen ohne vorhandene Fassung.", "Prüfen Sie die Echtheit eines ausländischen Hochschuldiploms."]},
-  "cases": [{"id": "kennengelernt-und-scan", "request": "Erstellen Sie ergebnis.md als Änderungsmatrix zu folgendem vollständigen Kurzzeugnis: Sven Mertens war vom 01.01.2022 bis 31.08.2026 als Lagerleiter beschäftigt. Er koordinierte Wareneingang und Versand und führte sechs Beschäftigte. Wir haben ihn als zuverlässigen Mitarbeiter kennen gelernt. Er erfüllte seine Aufgaben stets zu unserer vollen Zufriedenheit. Sein Verhalten gegenüber Vorgesetzten und Mitarbeitern war stets einwandfrei. Wir wünschen ihm alles Gute. Der Zeitraum, die Aufgaben und die Bewertung sind unstreitig. Sven hat elektronischer Erteilung zugestimmt. Er erhielt nur ein gewöhnliches PDF mit eingescanntem Unterschriftsbild, ohne qualifizierte elektronische Signatur; Papier wurde nicht übergeben. Er hält kennen gelernt für einen sicheren Geheimcode und möchte eine sachliche Prüfung statt einer pauschalen Aufwertung.", "input_files": [], "deliverables": ["ergebnis.md"], "criteria": [
-    {"id": "C01", "text": "Verwirft kennen gelernt nicht isoliert als sicheren Geheimcode und würdigt den positiven übrigen Text.", "deliverables": ["ergebnis.md"]},
-    {"id": "C02", "text": "Unterscheidet die vorhandene Einwilligung von der fehlenden qualifizierten elektronischen Signatur und hält das Scan-PDF nicht für formgerechte elektronische Erteilung.", "deliverables": ["ergebnis.md"]},
-    {"id": "C03", "text": "Priorisiert die Formkorrektur, bewahrt unstreitige Tätigkeits- und Bewertungsangaben und trennt optionale Sprachänderung von rechtlich begründetem Mangel.", "deliverables": ["ergebnis.md"]}
-  ], "target_skill": "zeugnisklarheit-objektiver-empfaengerhorizont"}]
+  "mini_review": {
+    "sha256": "82f1d7f9e4b05df95fa57ea35bf8e0ef993c08ef31a1e4d83b1dcbce20d20584",
+    "verdict": "revised",
+    "reason": "Vollständig neu gefasst: Der Schnellstart liest Unterlagen zuerst, verzweigt nach Rolle und Ziel, behandelt Rückfragen als Zwischenstufe und führt jeden Auftrag bis zum bestellten Dokument fort.",
+    "changes": [
+      "Abbruchregeln und interne Werkstattbegriffe entfernt.",
+      "Rückfrage-, Varianten- und Fortsetzungslogik verbindlich gemacht.",
+      "Starre Geheimcode-, Schlussformel- und Personenreihenfolgeregeln durch eine kontextbezogene Prüfung ersetzt.",
+      "Prüfbericht, Neufassung, Berichtigungsaufforderung sowie Gerichts- und Arbeitgeberzweig mit jeweils eigenem Abschluss definiert."
+    ]
+  },
+  "workshop_review": {
+    "sha256": "cbb931f86d4f1ac0e0c206d0331f15ae95857414b7a74dc37b5f17dba82ae404",
+    "verdict": "revised",
+    "reason": "Die Werkstatt wurde vollständig redigiert und bewusst unterhalb der generischen Mindestgröße gehalten, weil eine knappe fachliche Bearbeitungsfolge die frühere Wiederholung von Gerüsten und Praxisrouten ersetzt.",
+    "changes": [
+      "Unterlagenlektüre, Rückfragen, Verzweigungen und Fortsetzung in einer einheitlichen Bearbeitungsfolge verbunden.",
+      "Empfänger- und produktbezogene Abschlüsse statt wiederholter Zwischenprodukte festgelegt.",
+      "Fachliche Regeln zu Note, Klarheit, Auslassungen, Form und Schlussformel kontextbezogen gefasst.",
+      "Technische Ausführungsgrenzen und externe Freigabegrenze erhalten."
+    ]
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie mein vorhandenes Zeugnis auf belegbare Mängel und formulieren Sie Ersatzsätze.",
+      "Kontrollieren Sie eine PDF-Zeugnisfassung mit Unterschriftsbild auf Form und Inhalt."
+    ],
+    "negative": [
+      "Erstellen Sie erstmals ein Zeugnis aus Personalnotizen ohne vorhandene Fassung.",
+      "Prüfen Sie die Echtheit eines ausländischen Hochschuldiploms."
+    ]
+  },
+  "cases": [
+    {
+      "id": "kennengelernt-und-scan",
+      "request": "Erstellen Sie ergebnis.md als Änderungsmatrix zu folgendem vollständigen Kurzzeugnis: Sven Mertens war vom 01.01.2022 bis 31.08.2026 als Lagerleiter beschäftigt. Er koordinierte Wareneingang und Versand und führte sechs Beschäftigte. Wir haben ihn als zuverlässigen Mitarbeiter kennen gelernt. Er erfüllte seine Aufgaben stets zu unserer vollen Zufriedenheit. Sein Verhalten gegenüber Vorgesetzten und Mitarbeitern war stets einwandfrei. Wir wünschen ihm alles Gute. Der Zeitraum, die Aufgaben und die Bewertung sind unstreitig. Sven hat elektronischer Erteilung zugestimmt. Er erhielt nur ein gewöhnliches PDF mit eingescanntem Unterschriftsbild, ohne qualifizierte elektronische Signatur; Papier wurde nicht übergeben. Er hält kennen gelernt für einen sicheren Geheimcode und möchte eine sachliche Prüfung statt einer pauschalen Aufwertung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verwirft kennen gelernt nicht isoliert als sicheren Geheimcode und würdigt den positiven übrigen Text.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet die vorhandene Einwilligung von der fehlenden qualifizierten elektronischen Signatur und hält das Scan-PDF nicht für formgerechte elektronische Erteilung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Priorisiert die Formkorrektur, bewahrt unstreitige Tätigkeits- und Bewertungsangaben und trennt optionale Sprachänderung von rechtlich begründetem Mangel.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert die verlangte Änderungsmatrix vollständig und endet weder mit einer Fragenliste noch mit einem bloßen Angebot weiterer Bearbeitung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "zeugnisklarheit-objektiver-empfaengerhorizont"
+    },
+    {
+      "id": "aufwertung-mit-offenem-beleg",
+      "request": "Eine Arbeitnehmerin legt ein qualifiziertes Zeugnis mit der Gesamtformel zur vollen Zufriedenheit vor und verlangt einen vollständigen Prüfbericht sowie eine außergerichtliche Berichtigungsaufforderung mit der Formel stets zur vollen Zufriedenheit. Tätigkeiten, Beschäftigungszeitraum und Verhalten sind unstreitig. Sie erwähnt eine Zielübererfüllung, hat aber noch nicht angegeben, welches Ziel betroffen war oder welcher Beleg existiert. Erstellen Sie pruefbericht.md und aufforderung.md. Klären Sie den entscheidenden Leistungsnachweis, ohne die unstreitige Prüfung oder das Schreiben insgesamt abzubrechen; verwenden Sie für reine Adress- und Datumsangaben eindeutige Platzhalter.",
+      "input_files": [],
+      "deliverables": [
+        "pruefbericht.md",
+        "aufforderung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Prüfbericht trennt die vorhandene durchschnittliche Formulierung vom beweisabhängigen Ziel einer guten Bewertung und benennt eine konkrete, entscheidungserhebliche Belegfrage.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Prüfbericht enthält bereits die vollständige unstreitige Prüfung, erklärt die Varianten abhängig vom Leistungsbeleg und behandelt die Rückfrage erkennbar nur als Zwischenstufe.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Aufforderung ist trotz offener Belegfrage als vollständiges, sachliches Schreiben mit klaren Platzhaltern und einer kenntlich gemachten belegabhängigen Bewertungsfassung formuliert.",
+          "deliverables": [
+            "aufforderung.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Keine Datei endet mit einem bloßen Menü, einer pauschalen Ampelbewertung oder dem Angebot, das bestellte Dokument erst später zu erstellen.",
+          "deliverables": [
+            "pruefbericht.md",
+            "aufforderung.md"
+          ]
+        }
+      ],
+      "target_skill": "einfuehrung-pruefauftrag"
+    },
+    {
+      "id": "hr-bereinigung-ohne-gegenschreiben",
+      "request": "Die Personalabteilung bittet um Prüfung und Bereinigung eines vorhandenen Zeugnisses. Die Fassung nennt Kollegen vor Vorgesetzten, enthält eine gute Leistungsformel und endet ohne Dankes- oder Wunschformel. Es gibt keine Tatsachen für Verhaltensprobleme, keine Zusage zu einer Schlussformel und keinen Arbeitnehmerauftrag. Erstellen Sie pruefvermerk.md und zeugnis-neu.md. Beurteilen Sie Reihenfolge und Schlussformel im konkreten Gesamtzusammenhang und erstellen Sie eine wahrheitsgemäße, einheitliche Gesamtfassung, ohne ein Forderungsschreiben oder eine Klagedrohung zu erzeugen.",
+      "input_files": [],
+      "deliverables": [
+        "pruefvermerk.md",
+        "zeugnis-neu.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der interne Prüfvermerk behandelt die Personenreihenfolge nicht automatisch als beweisbaren Negativcode oder sicheren Klagegrund.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Prüfvermerk rechnet das Fehlen einer freiwilligen Dankes- und Wunschformel nicht in die gute Leistungsnote ein.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die bereinigte Zeugnisfassung ist als zusammenhängender Text ohne Rechtszitate, interne Prüfbegriffe oder Farbcodes formuliert.",
+          "deliverables": [
+            "zeugnis-neu.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Beide bestellten Dateien werden vollständig erstellt; weder Aufforderungsschreiben noch Klageandrohung werden der Arbeitgeberrolle untergeschoben.",
+          "deliverables": [
+            "pruefvermerk.md",
+            "zeugnis-neu.md"
+          ]
+        }
+      ],
+      "target_skill": "einfuehrung-pruefauftrag"
+    }
+  ]
 }

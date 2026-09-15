@@ -1,6 +1,6 @@
 # fachanwalt-vergaberecht
 
-**123 Skills** · Stand `v444.5.0`
+**123 Skills** · Stand `v444.5.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-vergaberecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -1,16 +1,18 @@
 ---
 name: geheimcodes-katalog
-description: "Für Geheimcodes-Katalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft eine konkret behauptete verdeckte Aussage im Arbeitszeugnis auf einen Verstoß gegen das Klarheits- und Geheimzeichenverbot des § 109 Abs. 2 GewO. Liefert eine kontextbezogene Einordnung und Ersatztexte; nicht als allgemeine Code-Liste."
 ---
 
-# Geheimcodes-Katalog
+# Auffällige Formulierungen und Geheimzeichen prüfen
 
-Geheimzeichen und Formulierungen, die etwas anderes aussagen als ihr Wortlaut, sind nach Paragraf 109 Absatz 2 Satz 2 GewO unzulaessig. Der Pruefer identifiziert diese Codes, benennt die riskante Lesart und markiert jeden Code als orangen oder roten Befund. Wichtige Einschraenkung: Nicht jede ungewoehnliche Formulierung ist ein Geheimcode. Das BAG verlangt, dass die Formulierung aus Sicht des objektiven Empfaengerhorizonts etwas anderes aussagt als ihr Wortlaut. Im Zweifel wird die Tendenz mit Unsicherheitsvermerk ausgewiesen.
+## 1. Rechtlicher Maßstab
 
-Suchtmittel-Lesarten: „trug zur Verbesserung des Betriebsklimas bei" (riskante Alkohol-Lesart), „war stets gesellig" (riskante Alkohol- oder Geselligkeitslesart), „pflegte einen kollegialen Umgang am Feierabend" (riskante Feierabend-Lesart). Bei kassenfremden Positionen, die auffaellig auf Korrektheit bei Geldgeschaeften hingewiesen werden, entsteht eine riskante Eigentumslesart.
+Prüfe den genauen Wortlaut im vollständigen Satz und im Zusammenhang des gesamten Zeugnisses. § 109 Abs. 2 Satz 2 GewO verbietet Merkmale oder Formulierungen, die dem Zweck nach eine andere Aussage über den Arbeitnehmer treffen als die aus äußerer Form oder Wortlaut ersichtliche. Nicht jede ungewöhnliche oder knappe Wendung ist deshalb ein Geheimzeichen. Nach BAG, Urteil vom 15. November 2011 – 9 AZR 386/10, darf etwa die Wendung „kennen gelernt“ nicht isoliert aus dem Kontext als versteckte Abwertung behandelt werden.
 
-Krankheit und Fehlzeiten: „war im Rahmen seiner Anwesenheit engagiert" (riskante Fehlzeiten-Lesart), „erledigte die Aufgaben zuverlaessig, wenn er anwesend war" (riskante Ausfallzeiten-Lesart), „nutzte die ihm gegebenen Moeglichkeiten" (riskante Krankenstand-Lesart).
+Verwende keine tradierten Listen, um Alkohol, Krankheit, Belästigung, Konfliktneigung, Eigentumsdelikte oder Betriebsratstätigkeit zu behaupten. Eine solche Nebenbedeutung darf nur als mögliche Textwirkung benannt werden, wenn Wortlaut, Zusammenhang und eine belastbare Verkehrsauffassung sie konkret tragen. Die tatsächliche Eigenschaft der Person bleibt davon getrennt.
 
-Konflikt und schwierige Persoenlichkeit: „pflegte einen direkten und offenen Kommunikationsstil" (riskante Grob-Lesart), „war fuer seine Ansichten bekannt" (riskante Konflikt-Lesart), „hatte eine eigene Art" (riskante Lesart: eigentuemlch oder schwer einzuordnen). „war beliebt bei Mitarbeiterinnen" riskiert eine Belaestigungs-Lesart. „Setzte sich auch fuer die Belange der Belegschaft ein" riskiert einen Hinweis auf Betriebsratstaetigkeiten.
+## 2. Ergebnis und Fortführung
 
-Mitlaeufertum und Passivitaet: „fuegte sich gut in die Hierarchie ein", „akzeptierte Entscheidungen seiner Vorgesetzten", „erledigte die ihm zugewiesenen Aufgaben" (alle drei riskieren die Lesart reiner Erfuellung ohne Eigeninitiative), „zeigte sich anpassungsfaehig" (riskante Opportunismus-Lesart).
+Dokumentiere Originalwortlaut und Fundstelle, naheliegende wörtliche Bedeutung, behauptete Nebenbedeutung, Kontext, Grad der Sicherheit und rechtliche Relevanz. Formuliere bei einer erheblichen Mehrdeutigkeit einen klaren Ersatzsatz, der nur belegte Tatsachen und Bewertungen enthält.
+
+Führe diesen Ersatztext in den laufenden Bericht, die Änderungsmatrix und das bestellte Dokument zurück. Frage nur nach einem Kontextumstand, der die Auslegung ändert; stelle unabhängige Teile fertig. Nach der Antwort prüfst du nur die offene Formulierung erneut und setzt den Auftrag ohne Neustart fort. Eine bloße Sammlung möglicher Codes ist kein Endprodukt.

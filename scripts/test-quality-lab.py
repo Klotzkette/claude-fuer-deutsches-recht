@@ -103,6 +103,19 @@ class QualityLabTests(unittest.TestCase):
         with self.assertRaisesRegex(lab.LabError, "verändert"):
             lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
 
+    def test_optional_workshop_review_pins_the_reviewed_text(self):
+        workshop = self.plugin / "fachgebiet-werkstatt.md"
+        self.profile["workshop_review"] = {
+            "verdict": "revised",
+            "reason": "Kompakter, individuell geprüfter Werkstattweg",
+            "changes": ["Wiederholte Gerüste entfernt"],
+            "sha256": lab.digest(workshop.read_bytes()),
+        }
+        lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+        workshop.write_text("Ungeprüfte Änderung", encoding="utf-8")
+        with self.assertRaisesRegex(lab.LabError, "Werkstatt-Prüfung.*verändert"):
+            lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+
     def test_changed_mini_rejected_for_new_runs(self):
         (self.plugin / "fachgebiet-schnellstart.md").write_text("Neuer Arbeitsweg", encoding="utf-8")
         with self.assertRaisesRegex(lab.LabError, "verändert"):

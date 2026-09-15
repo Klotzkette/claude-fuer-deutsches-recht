@@ -1,14 +1,20 @@
 ---
 name: schlussformel-notenwirkung-bewerten
-description: "Für Schlussformel-Notenwirkung bewerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Bewertet ausschließlich den objektiven Gesamteindruck und die rechtliche Relevanz einer vorhandenen oder fehlenden Schlussformel. Die vollständige Prüfung und Formulierung des Schlussabsatzes erfolgt im gesonderten Schlussformel-Schritt."
 ---
 
-# Schlussformel-Notenwirkung bewerten
+# Wirkung der Schlussformel gesondert bewerten
 
-Die Notenwirkung der Schlussformel ergibt sich aus der Vollstaendigkeit ihrer Bausteine. Der Pruefer zaehlt, welche der fuenf Standardbausteine vorhanden sind, und ordnet das Ergebnis der Ampel-Skala zu. Diese Bewertung fliesst in die Gesamtnotenspanne ein, wird aber immer mit dem Hinweis verbunden, dass die Schlussformel nur bedingt klagbar ist.
+## 1. Getrennte Ebenen
 
-Ampel-Tabelle Schlussbausteine: Alle fuenf Bausteine (Bedauern, Dank, beruflicher Wunsch, persoenlicher Wunsch, Erfolgswunsch) vorhanden: Note 1, gruen. Vier Bausteine: Note 2, gruen. Drei Bausteine: Note 3, orange. Nur Dank und Wunsch, kein Bedauern: Distanzsignal, orange. Nur Wunsch ohne Dank: Kalter Schluss, rot bis orange. Kommentarlos sachlich wie „Das Arbeitsverhaltnis endete am [Datum]": Distanzsignal, rot bis orange. Schlussformel fehlt: BAG-Sicht kein Anspruch, Verhandlungspunkt, orange.
+Erfasse Beendigungsgrund, Bedauern, Dank und Zukunftswünsche jeweils nach ihrem konkreten Wortlaut. Eine Schlussformel kann den Gesamteindruck beeinflussen, ist aber kein Bestandteil der Leistungs- oder Verhaltensnote. Zähle ihre Bestandteile nicht in eine zusätzliche Notenstufe um und leite aus einem fehlenden Element kein festes Negativsignal ab.
 
-Sonderfaelle und Passivkonstruktionen: „Das Arbeitsverhaltnis endet" ohne weitere Worte ist eine Passivkonstruktion mit Distanzsignal, kein rechtlicher Mangel fuer sich allein, aber ein orangefarbener Befund im Gesamtbild. Eigenkuendigung ohne Bedauern ist haeufig erklaerbar und allein selten ein Berichtigungspunkt. Datumsangabe ohne weitere Worte am Ende ist ein Zeichen kalter Trennung und ein Verhandlungspunkt.
+Nach BAG, Urteil vom 25. Januar 2022 – 9 AZR 146/21, und BAG, Urteil vom 11. Dezember 2012 – 9 AZR 227/11, besteht regelmäßig kein Anspruch auf eine Dankes- und Wunschformel. Prüfe gesondert, ob Vertrag, Vergleich, konkrete Zusage oder eine unzulässige Maßregelung eine andere Anspruchsgrundlage tragen. Eine bereits erteilte und nach einem zulässigen Berichtigungsverlangen nachteilig veränderte Formel ist unter § 612a BGB und BAG, Urteil vom 6. Juni 2023 – 9 AZR 272/22, gesondert zu würdigen.
 
-Taktische Konsequenz: Die Schlussformel gehoert in die Verhandlung, nicht in den Klageantrag. Im Aufforderungsschreiben wird sie als Bitte und nicht als Rechtsanspruch formuliert, verbunden mit dem Hinweis auf das stimmige Gesamtbild. Im Klagestrategie-Modul erhaelt die Schlussformel keinen eigenstaendigen Klageantrag, es sei denn, sie enthalt unzulaessige Tatsachenbehauptungen oder ist Teil einer Massregelungssituation nach dem Berichtigungsverfahren.
+## 2. Ergebnis
+
+Gib Originalwortlaut, objektive Außenwirkung, rechtliche Durchsetzbarkeit und Verhandlungswert getrennt an. Formuliere keine eigenständige Schlussfassung, sondern benenne für den Schlussformelentwurf, ob die vorhandene Passage beibehalten, entfernt oder neu gefasst werden sollte und ob dies verlangt oder nur vorgeschlagen werden kann.
+
+## 3. Fortführung des Auftrags
+
+Übernimm die Einordnung in den laufenden Prüfvermerk und gib sie an den Schlussformelentwurf weiter, ohne die Gesamtnote zu verändern. Frage nur nach einer Vereinbarung, Vorfassung oder Reaktion des Arbeitgebers, wenn hiervon der Anspruch abhängt; stelle unabhängige Teile fertig. Nach der Antwort setzt du am Anspruchszweig ohne Neustart fort. Der anschließende Formulierungsschritt muss ein bestelltes Dokument mit der derzeit tragfähigen Variante abschließen.

@@ -1,14 +1,20 @@
 ---
 name: zusammenfassungsformel-erkennen
-description: "Für Zusammenfassungsformel erkennen und decodieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Identifiziert und bewertet die zusammenfassende Leistungsformel eines Arbeitszeugnisses im Zusammenhang mit den Einzelbeurteilungen. Erstellt bei belegter Abweichung eine konsistente Ersatzfassung; nicht für die Schlussformel."
 ---
 
-# Zusammenfassungsformel erkennen und decodieren
+# Zusammenfassende Leistungsformel prüfen
 
-Die zusammenfassende Leistungsbeurteilung, auch Zufriedenheitsformel genannt, ist der Hauptnotentraeger im qualifizierten Arbeitszeugnis. Kein anderer Satz hat mehr Gewicht fuer die Gesamtbewertung. Der Pruefer identifiziert diesen Satz zuerst und ordnet ihn einer Notenstufe zu, bevor alle anderen Saetze bewertet werden.
+## 1. Identifikation und Einordnung
 
-Die Zufriedenheitsformel folgt einem festen Muster: Sie verbindet einen Steigerer mit dem Kern „zur Zufriedenheit". Typische Vollformen sind „stets zu unserer vollsten Zufriedenheit" (Note 1), „stets zur vollen Zufriedenheit" (Note 2) und „zur vollen Zufriedenheit" ohne „stets" (Note 3). Fehlt der Steigerer vollstaendig, signalisiert das Note 3 oder schlechter. Die Formeln „zur Zufriedenheit" ohne jedes Adverb oder „im Wesentlichen zur Zufriedenheit" indizieren Note 4.
+Bestimme den Satz, der die Arbeitsleistung insgesamt zusammenfasst, und trenne ihn von Einzelbewertungen, Verhaltensbeurteilung und Schlussformel. Gebräuchliche Fassungen wie „stets zu unserer vollsten Zufriedenheit“, „stets zu unserer vollen Zufriedenheit“ und „zu unserer vollen Zufriedenheit“ sind wichtige Hinweise auf sehr gute, gute oder durchschnittliche Leistung. Sie sind keine abschließende gesetzliche Tabelle; auch abweichende klare Formulierungen sind im Gesamtzusammenhang auszulegen.
 
-Abweichende Formulierungen pruefen: Manche Zeugnisse verwenden statt der klassischen Formel Saetze wie „erledigte die ihr uebertragenen Aufgaben mit Erfolg" oder „erfuellte die gestellten Anforderungen". Auch diese Formulierungen sind nach dem objektiven Empfaengerhorizont zu decodieren. Massgeblich ist nicht die Absicht des Arbeitgebers, sondern was ein verstaendiger Zeugnisleser aus der Formulierung entnimmt (BAG 21.6.2005 - 9 AZR 352.04). Der Pruefer leitet die Notentendenz ab und vermerkt die Unsicherheit, wenn kein BAG-Anker vorhanden ist.
+Vergleiche die zusammenfassende Aussage mit den wesentlichen Leistungsdetails. Eine Abweichung ist nur dann erheblich, wenn die Aussagen objektiv nicht zusammenpassen oder gesicherte Leistungstatsachen eine andere Bewertung tragen. Mehrere positive Einzelsätze ergeben nicht automatisch eine bessere Gesamtbewertung. Die Schlussformel darf die Leistungsnote weder erhöhen noch absenken.
 
-Zusammenfassungsformel und Einzelsaetze abgleichen: Im naechsten Schritt werden die Einzelsaetze des Leistungsabschnitts auf Konsistenz mit der Zusammenfassungsformel geprueft. Stehen Detailsaetze mit Note-2-Niveau neben einer Note-3-Zusammenfassungsformel, ist das ein Widerspruchs-Befund. Der Pruefer fuehrt beide Ebenen in der satzweisen Einschaetzungsmatrix auf und benennt im Mandantenbericht die Streitstelle mit Originalwortlaut und Neufassungsvorschlag.
+## 2. Ergebnis
+
+Gib Originalformel, vertretbare Bewertungsstufe, tragende Einzelbewertungen, etwaige Widersprüche und die Beweisgrundlage an. Unterscheide zwischen auslegungsfähigem Wortlaut, nachweisbarer Bewertungsabweichung und bloßem Aufwertungswunsch. Formuliere bei Änderungsbedarf einen vollständigen, zu den belegten Einzelbewertungen passenden Gesamtsatz.
+
+## 3. Fortführung des Auftrags
+
+Führe die Gesamtformel in den laufenden Prüfvermerk, die Änderungsmatrix und das bestellte Dokument zurück. Frage nur nach einer Leistungstatsache, die die beanspruchte Bewertungsstufe verändert; unabhängige Korrekturen werden fertiggestellt. Nach der Antwort aktualisierst du die Formel und die unmittelbar betroffenen Sätze, ohne den Auftrag neu zu beginnen. Eine bloße Notenangabe schließt eine bestellte Neufassung oder ein Schreiben nicht ab.

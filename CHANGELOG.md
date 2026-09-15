@@ -1,3 +1,21 @@
+# v444.5.1 - Arbeitszeugnisprüfung bis zur Endfassung
+
+## 1. Lesbare Werkstatt- und Schnellstart-Prompts
+
+Der Werkstatt-Prompt und der Schnellstart wurden vollständig neu gefasst. Beide lesen vorhandene Unterlagen zuerst, unterscheiden Prüfung, bereinigte Neufassung, außergerichtliche Geltendmachung sowie Klage-, Vergleichs- und Vollstreckungsauftrag und schließen mit dem jeweils bestellten Dokument ab. Interne Generatorbegriffe, wiederholte Gerüste und schematische Farbausgaben wurden entfernt.
+
+## 2. Rückfragen als fortgesetzte Bearbeitung
+
+Entscheidungserhebliche Lücken führen zu gebündelten Rückfragen mit benannten Folgen und bedingten Fassungen. Der bereits gesicherte Teil wird zugleich fertiggestellt. Nach einer Antwort wird am bestehenden Bearbeitungsstand fortgesetzt; nur abhängige Passagen werden geändert. Eine Fragenliste oder bloße Analyse beendet keinen weitergehenden Dokumentauftrag.
+
+## 3. Durchgängige Pluginlogik und fachliche Präzisierung
+
+Alle 31 installierbaren Skills besitzen nun eine konkrete Auswahlbeschreibung und führen ihre Teilprüfung in den laufenden Gesamtauftrag zurück. Der Einstiegsskill steuert den Vorgang bis zum Prüfbericht, zur Gesamtfassung oder zum beauftragten Entwurf. Starre Behauptungen zu Geheimcodes, Auslassungen, Personenreihenfolge, Notenadverbien und Schlussformeln wurden durch eine Prüfung von Wortlaut, Gesamtzusammenhang, Tatsachen und Belegen ersetzt. Freiwillige Schlussformulierungen bleiben von der Leistungs- und Verhaltensnote getrennt.
+
+## 4. Qualitäts- und Release-Sicherung
+
+Ein eigener Regressionstest sichert Unterlagenlektüre, Rückfragen, Verzweigungen, Fortsetzung, Abschlussbedingungen, empfängerbezogene Ergebnisse und die Entfernung interner Ausgabebegriffe. Das individuelle Qualitätsprofil enthält zusätzlich einen belegabhängigen Arbeitnehmerfall und einen Arbeitgeberfall. Werkstatt, Schnellstart, Pluginmanifest, Marketplace, Skillübersichten und abgeleitete Release-Artefakte werden gemeinsam auf Version 444.5.1 veröffentlicht.
+
 # v444.5.0 - Klare Fachanweisungen und gezielte Rechtsprechungsanker
 
 ## 1. Sprachredaktion und 25 Hauptproblem-Paare

@@ -1,14 +1,30 @@
 ---
 name: intake-und-stammdaten-pruefen
-description: "Für Intake und Stammdaten prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Ermittelt zu Beginn einer Arbeitszeugnisprüfung die belegten Stamm- und Verfahrensdaten aus den Unterlagen und klärt nur die Lücken, die Prüfung, Fassung oder Geltendmachung verändern."
 ---
 
-# Intake und Stammdaten pruefen
+# Unterlagen und Stammdaten prüfen
 
-Der Pruefer erfasst die Stammdaten unmittelbar aus dem vorliegenden Zeugnis, nicht per Interview. Was fehlt oder unklar ist, wird als gekennzeichnete Annahme gefuehrt. Rueckfragen sind nur bei echtem Verstaendnisblocker zulaessig (zum Beispiel unleserlicher Text, zwei verschiedene Zeugnisse vermischt) und werden dann als einzige gebundelte Frage gestellt.
+## 1. Unterlagen zuerst
 
-Die acht Intake-Punkte sind: Rolle des Einsenders, Ziel der Pruefung, Zeugnisart (einfach, qualifiziert, Zwischenzeugnis, Ausbildungszeugnis), Beschaeftigungs-Eckdaten (Position, Beginn, Ende, Branche, Unternehmensgroesse), Beendigungsanlass (Eigenkundigung, Arbeitgeberkundigung, Aufhebungsvertrag, Befristungsende), Ausstellungsdatum und Datum des Erhalts, etwaiges Vergleichsmaterial wie Vorzeugnisse oder Beurteilungsboegen, sowie bereits laufende Fristen oder vorhergehende Berichtigungsbitten.
+Entnimm den vorhandenen Dokumenten Rolle und Ziel, Zeugnisart, Arbeitgeber, Beschäftigungsbeginn und -ende, Positionen, Ausstellungs- und Zugangsdatum, Beendigungsanlass, Vorfassungen, Beurteilungen, Zusagen, bisherigen Schriftwechsel, Vergleich oder Titel. Verlange nicht erneut Angaben, die sich zuverlässig ablesen lassen.
 
-Die Stammdaten werden gegen das Zeugnis abgeglichen. Typische Diskrepanzen sind abweichender Beschaeftigungszeitraum zwischen Zeugnis und Arbeitsvertrag, fehlende oder unvollstaendige Positionsbezeichnung, falscher Ausstellungsort, oder ein Datum, das nach dem tatsaechlichen Beendigungsdatum liegt. Jede Diskrepanz ist ein eigener Berichtigungspunkt und wird im Mandantenbericht als solcher ausgewiesen.
+## 2. Abgleich
 
-Bei Ausbildungszeugnissen nach Paragraf 16 BBiG wird geprueft, ob Verhalten und Leistung nur auf Verlangen der Auszubildenden aufgenommen wurden. Seit 1.8.2024 ist elektronische Form mit qualifizierter elektronischer Signatur zulaessig. Bei qualifizierten Zeugnissen wird geprueft, ob Leistungs- und Verhaltensbeurteilung vorhanden sind; fehlt eine davon, ist das ein Mangel nach Paragraf 109 Absatz 1 Satz 3 GewO.
+Vergleiche Namen, Firmenbezeichnung, Zeiträume, Funktionen, Beförderungen, tatsächliche Kernaufgaben und Verantwortungsstufen. Trenne sicher belegte Tatsachen, Angaben einer Partei und erkennbare Annahmen. Nicht jede Abweichung ist ein Mangel: Bewerte, ob sie falsch, für das berufliche Fortkommen wesentlich oder lediglich redaktionell ist.
+
+## 3. Verfahrensdaten
+
+Prüfe erkennbare tarifliche oder vertragliche Ausschlussfristen, frühere Geltendmachungen, laufende Verfahren und den genauen Inhalt eines Vergleichs oder Titels. Übertrage keine Dreiwochenfrist aus dem Kündigungsschutzrecht auf den Zeugnisanspruch. Berechne eine Frist nur mit gesichertem Beginn und nenne die Grundlage.
+
+## 4. Rückfragen
+
+Frage gebündelt nur nach fehlenden Angaben, die eine konkrete Aussage oder das bestellte Dokument ändern. Erläutere, was bei den möglichen Antworten jeweils folgt. Bearbeite den unstreitigen Teil weiter; Platzhalter oder bedingte Fassungen sind zulässig, wenn dadurch keine Tatsache erfunden wird.
+
+## 5. Fortsetzung
+
+Nach der Antwort aktualisierst du nur die abhängigen Daten und Prüfpassagen. Übergib das Ergebnis an die weitere Inhalts- und Formprüfung; eine Stammdatenübersicht ist kein Abschluss, wenn ein Prüfbericht, eine Neufassung oder ein Schreiben bestellt ist.
+
+## 6. Darstellung
+
+Verwende im fertigen Ergebnis nur die für den Empfänger benötigten Angaben. Interne Aufnahmelisten, Farbcodes und technische Statuswörter werden nicht ausgegeben.

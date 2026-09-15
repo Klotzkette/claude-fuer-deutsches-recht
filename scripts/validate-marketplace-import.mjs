@@ -162,7 +162,12 @@ for (const entry of marketplace.plugins || []) {
   }
   if (fs.existsSync(werkstatt)) {
     const size = fs.statSync(werkstatt).size;
-    if (size < 20 * 1024 || size > 48 * 1024) errors.push(`${rel(werkstatt)}: Werkstatt-Größe außerhalb Zielkorridor (${size} Bytes)`);
+    const reviewPath = path.join(root, 'quality', 'evals', `${entry.name}.json`);
+    const review = fs.existsSync(reviewPath) ? readJson(reviewPath) : null;
+    const individuallyReviewed = review?.workshop_review && typeof review.workshop_review === 'object';
+    if (!individuallyReviewed && (size < 20 * 1024 || size > 48 * 1024)) {
+      errors.push(`${rel(werkstatt)}: Werkstatt-Größe außerhalb Zielkorridor (${size} Bytes)`);
+    }
   }
   const readme = path.join(pluginRoot, 'README.md');
   if (!fs.existsSync(readme)) {

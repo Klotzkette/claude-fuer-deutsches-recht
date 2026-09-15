@@ -278,6 +278,7 @@ HANDCURATED_FIRST_PRODUCTS = {
     "urteilsbauer-relationsmacher": "eine Zergliederung, Relation oder einen Entscheidungsentwurf",
     "anlagen-zu-schriftsaetzen": "eine Produktionsmatrix und kontrollierte Gerichtsmappe",
     "schriftsatz-versandwerkstatt": "eine Produktionsmatrix und kontrollierte Versandmappe",
+    "arbeitszeugnispruefer": "die vollständige Prüfung des vorhandenen Zeugnisses mit konkreten Ersatzsätzen und dem ausdrücklich verlangten Entwurf",
 }
 
 
@@ -306,6 +307,14 @@ def quickstart_section(plugin_name: str, directory: Path) -> str:
     title = readme_title(directory, plugin_name)
     product = first_product(directory, plugin_name)
     detail = relative_link(directory, REPO / "skills-index" / f"{plugin_name}.md")
+    question_rule = (
+        "Stelle nur entscheidungserhebliche Rückfragen gebündelt und nenne ihre Folgen. "
+        "Bearbeite zugleich alle davon unabhängigen Teile; wenn sich später ein neuer entscheidender "
+        "Widerspruch ergibt, kläre nur diesen und setze den Auftrag ohne Neustart fort."
+        if plugin_name == "arbeitszeugnispruefer"
+        else "Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; "
+        "arbeite im Übrigen mit sichtbar markierten Lücken weiter."
+    )
     return f"""## In 30 Sekunden starten
 
 | Ausgangslage | Schnellster Weg |
@@ -316,7 +325,7 @@ def quickstart_section(plugin_name: str, directory: Path) -> str:
 
 Startsatz für {title}:
 
-> Erfasse zuerst Dateinamen und Metadaten im ausgewählten Ordner. Lies zunächst die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: {product}. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
+> Erfasse zuerst Dateinamen und Metadaten im ausgewählten Ordner. Lies zunächst die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: {product}. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. {question_rule}
 
 Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen."""
 

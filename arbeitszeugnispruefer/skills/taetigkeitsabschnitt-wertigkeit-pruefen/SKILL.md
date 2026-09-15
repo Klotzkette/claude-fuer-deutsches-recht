@@ -1,14 +1,20 @@
 ---
 name: taetigkeitsabschnitt-wertigkeit-pruefen
-description: "Für Tätigkeitsabschnitt und Wertigkeit prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft die Tätigkeitsbeschreibung eines Arbeitszeugnisses auf Richtigkeit, Vollständigkeit, Gewichtung und Übereinstimmung mit der tatsächlich ausgeübten Funktion. Formuliert eine belegte, beruflich aussagekräftige Neufassung."
 ---
 
-# Taetigkeitsabschnitt und Wertigkeit pruefen
+# Tätigkeitsabschnitt und Verantwortungsniveau prüfen
 
-Der Taetigkeitsabschnitt nennt die Aufgaben der beschaeftigten Person. Er ist kein unmittelbarer Notentraeger, steuert aber den Bezugsrahmen fuer die spaetere Leistungsformel und gibt Hinweise auf Verantwortungstiefe und Einsatzbreite. Der Pruefer liest ihn nicht nur als Aufzaehlung, sondern auch als Beleg fuer die Unternehmenserwartung.
+## 1. Tatsachengrundlage
 
-Vollstaendigkeit pruefen: Die im Taetigkeitsabschnitt genannten Aufgaben sollen die tatsaechliche Position vollstaendig abbilden. Fehlt eine Kernaufgabe, die nach Positionsbezeichnung oder Branchenstandard erwartet wuerde (zum Beispiel Budgetverantwortung bei einer Fuehrungskraft, Kundenkontakt bei einer Vertriebsstelle, Kassentaetigkeit bei einer Kassiererin), ist das ein Auslassungssignal. Der Pruefer notiert, welche Aufgabe fehlt, und bewertet, ob die Auslassung im Kontext der Gesamtnote Hinweischarakter hat.
+Vergleiche den Zeugnistext mit Arbeitsvertrag, Stellenbeschreibung, tatsächlicher Aufgabenausübung, Verantwortungsumfang und Beschäftigungsdauer. Der Tätigkeitsabschnitt muss Art und Dauer der Tätigkeit richtig wiedergeben und bei einem qualifizierten Zeugnis eine verlässliche Grundlage für die berufliche Verwendbarkeit bieten. Bei seiner Ausgestaltung ist der Beurteilungsspielraum des Arbeitgebers eingeschränkt; vgl. BAG, Urteil vom 27. April 2021 – 9 AZR 262/20.
 
-Hierarchische Wertigkeit: Der Rang der genannten Aufgaben sollte zur Positionsbezeichnung passen. Wird nur das operative Tagesgeschaeft beschrieben, aber keine strategische oder koordinierende Aufgabe, obwohl die Stelle eine Fuehrungsebene betrifft, signalisiert das eine Abwertung. Der Pruefer prueft, ob Titel und Aufgabenkatalog konsistent sind, und markiert jeden Widerspruch als orangefarbenen Befund.
+Positionsbezeichnung und Branchenübung sind nur Anhaltspunkte für weitere Sachverhaltsaufklärung. Unterstelle eine Aufgabe, Budget- oder Führungsverantwortung nicht allein wegen eines Titels. Prüfe Auslassung und Reihenfolge nur danach, ob prägende, tatsächlich ausgeübte Aufgaben fehlen oder sachwidrig in den Hintergrund treten und dadurch ein objektiv unzutreffendes Bild entsteht. Ein anspruchsvoller Aufgabenkatalog trägt für sich keine bestimmte Leistungsnote.
 
-Schaufenster-Muster als Warnsignal: Ein langer, sehr positiver Aufgabenkatalog steht neben einer schwachen Zufriedenheitsformel. Dieses Muster heisst Schaufenster-Drift: Das Zeugnis praesentiert eine anspruchsvolle Stelle, bewertet die Erledigung aber mit unterdurchschnittlicher Note. Die Drift entfaltet nach aussen den Eindruck eines inhaltlich gut klingenden Zeugnisses, transportiert aber in der Leistungsformel eine klare Abwertung. Der Pruefer kennzeichnet dieses Muster als roten Befund und fuehrt Taetigkeitsabschnitt und Leistungsformel im Mandantenbericht gemeinsam auf.
+## 2. Ergebnis
+
+Ordne Tätigkeiten nach tatsächlicher Bedeutung und zeitlichem Gewicht. Nenne für jede Änderung den Aktenbeleg und kennzeichne offene Tatsachen. Erstelle einen vollständigen Tätigkeitsabschnitt, der Funktion, Kernaufgaben und gesicherte Verantwortung präzise abbildet, ohne werbliche Überhöhung oder unbelegte Abwertung.
+
+## 3. Fortführung des Auftrags
+
+Übernimm den Abschnitt in den laufenden Zeugnisentwurf, Prüfbericht oder das Aufforderungsschreiben. Frage nur nach einer prägenden Aufgabe oder Verantwortung, wenn deren Aufnahme oder Gewichtung davon abhängt; alle gesicherten Teile werden fertiggestellt. Nach der Antwort ergänzt du die offene Stelle und setzt ohne erneute Aufnahme fort. Eine reine Lückenliste beendet einen Auftrag zur Neufassung nicht.

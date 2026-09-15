@@ -75,6 +75,7 @@ jobs:
           python3 scripts/test-digitaler-omnibus.py
           python3 scripts/test-schadensregulierung.py
           python3 scripts/test-notariatswerkstatt.py
+          python3 scripts/test-arbeitszeugnispruefer.py
           python3 scripts/test-geldwaeschepraevention.py
           python3 scripts/test-arbeitsrecht-asset-deal.py
 

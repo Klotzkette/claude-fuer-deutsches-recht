@@ -1,14 +1,18 @@
 ---
 name: note-4-formeln-erkennen
-description: "Für Note-4-Formeln erkennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines Arbeitszeugnisses die Zielstufe ‚ausreichend‘ trägt. Klärt Tatsachengrundlage und Beweisfolge; nicht für eine offene Noteneinordnung oder die Verhaltensbeurteilung."
 ---
 
-# Note-4-Formeln erkennen
+# Unterdurchschnittliche Bewertung prüfen
 
-Note 4 ist ein eindeutig negativer Befund. Das Zeugnis bescheinigt unterdurchschnittliche Leistung, und der Arbeitgeber traegt die Beweislast fuer die Berechtigung dieser Einschaetzung. Der Pruefer markiert jeden Note-4-Satz als roten Befund und fuehrt ihn im Mandantenbericht als Streitstelle mit Originalwortlaut und Neufassungsvorschlag auf.
+## 1. Einordnung
 
-Die klassische Note-4-Falle ist die Formel „war stets bemueht" oder verkuerzt „bemueht". Sie signalisiert guten Willen ohne nennenswerte Ergebnisse. Die Phrase ist unabhaengig vom Adverb davor ein roter Befund (Note 4), weil sie den Erfolg der Arbeit ausblendet und lediglich die Anstrengung bescheinigt. Weitere klare Note-4-Formeln sind: „hat unsere Erwartungen erfuellt" (nur Minimum), „zufriedenstellend" (schwache Leistung), „erledigte Aufgaben nach Anweisung" (keine Eigeninitiative), „im Wesentlichen zur Zufriedenheit" (erhebliche Maengel), „im Grossen und Ganzen zur Zufriedenheit" (erhebliche Maengel).
+Identifiziere die zusammenfassende Leistungsbeurteilung. Formulierungen wie „zur Zufriedenheit“, „im Wesentlichen zur Zufriedenheit“ oder eine auf bloßes Bemühen beschränkte Aussage können auf eine unterdurchschnittliche Bewertung hindeuten. Entscheidend sind Satzfunktion, genaue Syntax und leistungsbezogene Einzelsätze. Ein einzelnes Wort ist nicht ohne Kontext als feste Note oder eigenständiger Mangel auszugeben.
 
-Starke Negativsteigerer erkennen: „im Wesentlichen" und „im Grossen und Ganzen" klingen nach positiver Gesamtaussage, signalisieren aber in der Zeugnissprache erhebliche Maengel und druecken die Note auf 4 bis 5. „Bei guten Tagen" ist ein weiterer Abschwaecher dieser Stufe, der schwankende Leistung anzeigt. Jeder dieser Steigerer ist sofort als roter Befund zu kennzeichnen.
+Will der Arbeitgeber insgesamt eine unterdurchschnittliche Leistung bescheinigen, muss er die hierfür maßgeblichen Tatsachen im Streitfall darlegen und beweisen. Das erlaubt nicht, jede schwächere Nebenformulierung automatisch als Gesamtbewertung zu behandeln. Trenne eine tatsächlich schlechtere Beurteilung von einer unklaren, unvollständigen oder lediglich ungelenken Formulierung.
 
-Pruefanweisung: Der Pruefer sucht alle Saetze, die eines der Note-4-Signalwoerter enthalten, und prueft, ob sie den Gesamteindruck des Zeugnisses bestimmen oder nur eine Randachse betreffen. Praegt ein Note-4-Satz die Leistungsformel, ist die Gesamtnote rot. Betrifft er nur einen Detailsatz bei insgesamt gutem Zeugnis, ist er ein punktueller roter Befund mit Drift-Charakter.
+## 2. Ergebnis und Fortführung
+
+Gib Originalwortlaut, Funktion des Satzes, wahrscheinliche Bewertungsstufe, Kontext, Tatsachengrundlage und Beweisfolge an. Formuliere einen Ersatzsatz, der entweder die belegte Bewertung klar ausdrückt oder die unbelegte Abwertung beseitigt. Behaupte ohne Beleg keine gute oder sehr gute Leistung.
+
+Führe das Ergebnis in den laufenden Bericht und das bestellte Dokument zurück. Frage nur nach Tatsachen, die für die schlechtere oder begehrte bessere Bewertung erheblich sind; andere Teile werden fertiggestellt. Nach der Antwort setzt du am offenen Punkt ohne Neustart fort. Die Bearbeitung darf nicht bei der Feststellung „unterdurchschnittlich“ stehen bleiben, wenn eine konkrete Fassung verlangt ist.

@@ -1,14 +1,20 @@
 ---
 name: schaufenster-und-drift-erkennen
-description: "Für Schaufenster- und Drift-Erkennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft ein Arbeitszeugnis auf innere Widersprüche zwischen Tätigkeitsbeschreibung, Einzelbewertungen und zusammenfassender Beurteilung. Liefert belegte Korrekturen, ohne aus anspruchsvollen Aufgaben automatisch eine bessere Zeugnisnote abzuleiten."
 ---
 
-# Schaufenster- und Drift-Erkennung
+# Innere Widersprüche im Zeugnis prüfen
 
-Drift bezeichnet das Auseinanderfallen zweier Zeugnisebenen, die zusammenpassen sollten. Der Pruefer unterscheidet zwei Typen: Schaufenster-Drift und Bereichs-Drift. Beide sind Berichtigungspunkte, wenn sie nicht durch besondere Umstaende sachlich erklaert werden koennen.
+## 1. Vergleich der Aussageebenen
 
-Schaufenster-Drift: Ein langer, anspruchsvoller Aufgabenkatalog kontrastiert mit einer schwachen Leistungsformel. Das Zeugnis praesentiert eine hochwertige Stelle, bewertet die Erledigung aber als Note 3 oder schlechter. Der kundige Empfaenger registriert diesen Kontrast; das Zeugnis wirkt nach aussen imposant, transportiert aber intern eine Abwertung. Pruefanweisung: Aufgabenkatalog und Leistungsformel nebeneinander stellen und die implizierte Erwartungshaltung vergleichen. Wird die Aufgabe der Stelle mit hoher Komplexitaet beschrieben, ist eine Leistungsformel ohne Maximalsteigerer ein roter oder orangefarbener Befund.
+Vergleiche Tätigkeitsbeschreibung, Leistungsdetails, Verhaltensbeurteilung und zusammenfassende Bewertung. Prüfe, ob ausdrückliche Aussagen einander widersprechen oder ob eine prägende Aufgabe zwar beschrieben, bei der Bewertung aber sachwidrig ausgeblendet wird. Unterschiedliche Länge oder sprachliche Intensität einzelner Abschnitte ist nur ein Prüfhinweis und kein selbständiger Mangel.
 
-Bereichs-Drift: Eine inhaltliche Achse (zum Beispiel Verhalten) wird auffallend kuerzer oder schwaechter beschrieben als eine andere (zum Beispiel Leistung). Typisch ist ein drei Saetze langer Leistungsabschnitt neben einem einzigen knappen Verhaltenshinweis. Der Pruefer misst die Zahl der Saetze je Achse (Leistung, Verhalten, Engagement, Kompetenz) und prueft, ob alle fuer die Position ueblichen Bereiche gleichgewichtig dargestellt sind. Eine Achse, die in der Branche oder Position erwartungsgemaess vorhanden sein muesste, aber komplett fehlt, ist ein Auslassungs-Code.
+Eine anspruchsvolle oder umfangreiche Tätigkeit begründet für sich keinen Anspruch auf eine überdurchschnittliche Leistungsnote. Ebenso lässt eine knappe Beurteilung nicht ohne weitere Umstände auf eine versteckte Abwertung schließen. Maßgeblich sind konkrete Textaussagen, belegte Leistungstatsachen und die objektive Gesamtwirkung. Bezeichne das Ergebnis in anwaltlicher Sprache als inneren Widerspruch, unklare Gewichtung oder nicht erheblichen Stilunterschied.
 
-Widerspruchs-Drift: Hohe Einzelnoten in den Detailsaetzen plus niedrige Hauptnote, oder umgekehrt. Der Pruefer legt die satzweise Notenmatrix an und sucht nach inkonsistenten Bewertungen. Stehen mehrere gruene Einzelsaetze neben einer orangefarbenen oder roten Leistungsformel, ist der Widerspruch als Befund auszuweisen und im Mandantenbericht mit Originalwortlaut und decodierter Aussage aufzufuehren.
+## 2. Ergebnis
+
+Stelle die einander gegenüberstehenden Originalstellen, den sachlichen Bezug, die objektive Wirkung und die vorhandenen Belege dar. Formuliere nur dann eine Korrektur, wenn sie durch Tatsachen oder die bereits erteilte Bewertung getragen wird. Gleiche dabei Einzel- und Gesamtbeurteilung ab, ohne die Arbeitgeberbewertung allein aus dem Aufgabenprofil hochzustufen.
+
+## 3. Fortführung des Auftrags
+
+Führe erhebliche Widersprüche mit Ersatztext in den laufenden Prüfbericht und das bestellte Dokument zurück. Frage nur nach einer Tatsache, die den Widerspruch auflöst oder die Formulierung ändert; unabhängige Abschnitte werden abgeschlossen. Nach der Antwort setzt du am offenen Vergleich fort, ohne von vorn zu beginnen. Die Prüfung endet nicht als bloße Gegenüberstellung, wenn eine Neufassung oder ein Schreiben aussteht.

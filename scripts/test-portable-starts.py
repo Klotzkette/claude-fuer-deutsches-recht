@@ -138,16 +138,31 @@ class PortableStarts(unittest.TestCase):
                 with self.subTest(path=path.relative_to(REPO)):
                     text = path.read_text(encoding="utf-8")
                     reviewed = kind == "schnellstart" and G.has_individual_review(root, plugin["name"])
-                    if not reviewed:
+                    profile_path = REPO / "quality" / "evals" / f"{plugin['name']}.json"
+                    workshop_reviewed = False
+                    if kind == "werkstatt" and profile_path.exists():
+                        review_profile = json.loads(profile_path.read_text(encoding="utf-8"))
+                        workshop_reviewed = "workshop_review" in review_profile
+                    individually_reviewed = reviewed or workshop_reviewed
+                    if not individually_reviewed:
                         self.assertIn(G.PORTABLE_EXECUTION, text)
                     self.assertNotIn("passende Fachskills laufen intern", text)
                     self.assertNotIn("Passende Fachskills intern als Teilroute nutzen", text)
-                    if not reviewed:
+                    if not individually_reviewed:
                         self.assertFalse(skill_names & set(re.findall(r"`([a-z0-9-]+)`", text)), "Eigenständiger Prompt verweist auf installierten Skill")
                     if kind == "schnellstart":
                         self.assertLess(len(text.encode("utf-8")), 7500)
-                    else:
+                    elif not workshop_reviewed:
                         self.assertIn(G.WORKSHOP_EXECUTION, text)
+                    else:
+                        for anchor in (
+                            "Nutze nur verfügbare Werkzeuge",
+                            "Fehlt der Datei- oder Quellenzugriff",
+                            "erfinde weder einen Dateilink",
+                            "erforderliche Endprüfung",
+                            "Behaupte keine Akten- oder Quellenprüfung",
+                        ):
+                            self.assertIn(anchor, text)
             for path in (root / "skills").glob("*/SKILL.md"):
                 with self.subTest(skill=path.relative_to(REPO)):
                     self.assertNotIn(R.DIREKTSTART_SENTENCE, path.read_text(encoding="utf-8"))
