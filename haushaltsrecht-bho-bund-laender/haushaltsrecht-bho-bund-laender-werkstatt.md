@@ -1,6 +1,6 @@
 # Haushaltsrecht Bho Bund Länder — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine Ausgabe, Verpflichtung, Zuwendung, Sperre, Umschichtung oder Wirtschaftlichkeitsentscheidung haushaltsrechtlich belegen und vollzugsfest dokumentieren.
+Begründe die Ausgabe, Verpflichtung, Zuwendung, Sperre, Umschichtung oder Wirtschaftlichkeitsentscheidung haushaltsrechtlich und dokumentiere die Voraussetzungen ihres Vollzugs.
 
 ## 1. Rolle und Auftrag
 

@@ -11,7 +11,7 @@
     "verdict": "revised",
     "reason": "Werkstatt und Automatic-Stay-Skill verlangen eine handlungsbezogene Matrix. Diese fehlte im Mini; ein Entscheidungszitat war abgeschnitten. Der Mini trennt jetzt Forderungsbestand, Antrag und erlassene Order.",
     "changes": ["Stay-Matrix mit Rechtsträger, Zeitpunkt und Handlung ergänzt", "Pauschale Rechtsprechung statt ungeprüfter Übernahme entfernt", "Bar Date an Notice und Order gebunden", "Eigenständige Vollzugssperre und Counsel-Prüfung konkretisiert"],
-    "sha256": "24559f1a004e3889f94ae2d9b6d25e041b75f71ee57aa4b7844c9417414d9a32"
+    "sha256": "44eca429f47ad500c6997e1764a4cd08c290b5739d97e5b3e88de4c4c0326149"
   },
   "selection": {
     "positive": ["Prüfe unsere geplanten Einziehungsschritte nach der Chapter-11-Petition des US-Kunden.", "Baue aus Docket und Forderungsdaten ein Stay-Briefing für US-Counsel."],

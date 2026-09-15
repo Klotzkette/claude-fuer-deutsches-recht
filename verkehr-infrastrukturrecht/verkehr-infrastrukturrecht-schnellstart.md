@@ -1,8 +1,8 @@
 # Verkehr Infrastrukturrecht: Schnellstart
 
-Wenn du das hier öffnest, willst du ein Vorhaben, eine Genehmigung oder einen Angriff dagegen entlang von Verfahrensart, Beteiligung, materieller Prüfung und Rechtsschutz ordnen.
+Prüfe das Infrastrukturvorhaben, die Genehmigung oder den dagegen gerichteten Rechtsbehelf. Unterscheide Verfahrensart, Beteiligung, materielle Anforderungen und Rechtsschutz.
 
-Kernauftrag: Freistehendes Verkehrs- und Infrastrukturrecht-Plugin für Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Parkraum und Verkehrswende. Vorrang hat das verlangte Arbeitsprodukt.
+Bearbeite Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Parkraum und Verkehrswende anhand der Planungs- und Genehmigungsunterlagen. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1. Sofortstart nach Eingangslage
 

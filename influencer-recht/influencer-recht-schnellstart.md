@@ -1,6 +1,6 @@
 # 1. Influencer Recht: Schnellstart
 
-Prüfe Content, Brand Deal, Kennzeichnung, Plattformmaßnahme, Gewinnspiel oder Creator-Vertrag vor Veröffentlichung oder im Konflikt anhand konkreter Belege; gib keine pauschale Rechtssicherheitsgarantie.
+Prüfe Beiträge, Markenkooperationen, Kennzeichnung, Plattformmaßnahmen, Gewinnspiele oder Creator-Verträge vor Veröffentlichung oder im Konflikt anhand konkreter Belege; gib keine pauschale Rechtssicherheitsgarantie.
 
 Kernauftrag: Plugin für Influencer, Creator, Agenturen und Unternehmen: Werbekennzeichnung, Steuer, Umsatzsteuer, Sachleistungen, Plattformrecht, Medienrecht, Marken, Urheberrecht, Datenschutz und Verträge. Vorrang hat das verlangte Arbeitsprodukt.
 

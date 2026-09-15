@@ -45,7 +45,7 @@ Nutze [Zitierweise](../../references/zitierweise.md), sofern verfügbar, und pr�
 
 ## 5. Ausgabeformat
 
-Erstelle `ergebnis.md` mit Sachverhalt, Soll-Ticket-Nachtragsmatrix, Abnahmezeitachse, Vergütungsbrücke, Beweisbedarf und ausformuliertem Schreiben zur Abnahme- oder Rechnungsfrage. Vollständige Sätze statt Skeletten, keine unbelegten Erledigungsbestätigungen. Dezimale Überschriften, Times New Roman 11 pt beim Export, bei Markdown entsprechender Exporthinweis. Freigabe und Zugang bleiben bei der Mandatsverantwortung.
+Erstelle `ergebnis.md` mit Sachverhalt, einer Tabelle zum Abgleich von vereinbarter Leistung, Tickets und Nachträgen, Abnahmezeitachse, nachvollziehbarer Vergütungsrechnung, Beweisbedarf und ausformuliertem Schreiben zur Abnahme- oder Rechnungsfrage. Vollständige Sätze statt Skeletten, keine unbelegten Erledigungsbestätigungen. Dezimale Überschriften, Times New Roman 11 pt beim Export, bei Markdown entsprechender Exporthinweis. Freigabe und Zugang bleiben bei der Mandatsverantwortung.
 
 ## 6. Beispiele
 

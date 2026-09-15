@@ -20,7 +20,7 @@ description: "Für Wissenschaft, Forschung und TDM: ordnet Norm, Beweislast und 
 
 ## Wofür dieser Arbeitsgang da ist
 
-Wissenschaft, Forschung und TDM schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe die wissenschaftliche Nutzung und das Text und Data Mining anhand von Forschungszweck, Zugang und institutioneller Rolle. Berücksichtige Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise und liefere den verlangten Forschungs- oder Nutzungsvermerk.
 
 ## Sofortstart
 

@@ -20,7 +20,7 @@ description: "Für Datenbanken, Datasets und Trainingskorpora: ordnet Norm, Bewe
 
 ## Wofür dieser Arbeitsgang da ist
 
-Datenbanken, Datasets und Trainingskorpora schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe Rechte an Datenbanken, Datensätzen und Trainingskorpora anhand der Sammlung und der belegten Zugriffe. Berücksichtige Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung und Schranke; begründe das gewünschte Ergebnis mit den verfügbaren Nachweisen.
 
 ## Sofortstart
 

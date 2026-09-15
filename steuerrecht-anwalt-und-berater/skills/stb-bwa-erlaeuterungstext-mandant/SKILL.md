@@ -7,7 +7,7 @@ description: "Für Erläuterungstext zur BWA für den Mandanten: ordnet Norm, Be
 
 ## Kernsachverhalt
 
-Die BWA ohne Erlaeuterung ist ein Zahlenfriedhof. Der Mandant — meist kein Bilanzbuchhalter — liest sie nicht oder falsch. Erst der Erlaeuterungstext macht aus Tabellen Steuerungsinformation. Der Steuerberater liefert auf 1-2 Seiten die wesentlichen Aussagen: Was ist passiert, welche Abweichungen sind erklaerungsbeduerftig, welche Handlungsempfehlungen ergeben sich? Ein guter Erlaeuterungstext erhoeht die Mandantenbindung und schuetzt vor Krisenuebersehen.
+Erläutere die BWA so, dass der Mandant die Zahlen auch ohne vertiefte Buchhaltungskenntnisse einordnen und für betriebliche Entscheidungen nutzen kann. Fasse auf 1-2 Seiten zusammen, was sich verändert hat, welche Abweichungen erklärungsbedürftig sind und welche Handlungsempfehlungen sich ergeben. Stelle erkennbare Krisensignale verständlich dar.
 
 ## Kaltstart-Rueckfragen
 

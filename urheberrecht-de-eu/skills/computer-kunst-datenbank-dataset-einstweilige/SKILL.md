@@ -20,7 +20,7 @@ description: "Für Computerkunst und generative Modelle: ordnet Norm, Beweislast
 
 ## Wofür dieser Arbeitsgang da ist
 
-Computerkunst und generative Modelle schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Untersuche bei Computerkunst und generativen Modellen die belegten Gestaltungs- und Auswahlentscheidungen. Prüfe den konkreten Gegenstand, menschlichen Beitrag, die Rechtekette, Nutzungshandlung und Schranke und führe die Beweise im verlangten Arbeitsergebnis zusammen.
 
 ## Sofortstart
 

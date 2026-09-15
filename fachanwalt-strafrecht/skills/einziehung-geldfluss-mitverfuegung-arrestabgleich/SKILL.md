@@ -7,7 +7,7 @@ description: Rekonstruiert bei mehreren Tatbeteiligten Geldflüsse, tatsächlich
 
 ## 1.1. Zweck und Anwendungsfall
 
-Prüfe eine Einziehungs- oder Arrestsumme anhand konkreter Transaktionen statt anhand der Gesamtschadenszahl einer Anklage. Der Schwerpunkt ist wegen blockierter Liquidität und großer Mehrpersonenbeträge wirtschaftlich geeignet. Gegenüber allgemeinen Abschöpfungsmodulen verbindet er die individuelle Verfügungsmacht mit einer transaktionsgenauen Gegenrechnung.
+Prüfe eine Einziehungs- oder Arrestsumme anhand konkreter Transaktionen statt anhand des in der Anklage genannten Gesamtschadens. Der Schwerpunkt ist wirtschaftlich relevant, weil erhebliche Beträge mehreren Personen zugerechnet werden können und die Sicherung ihre Liquidität einschränkt. Gegenüber allgemeinen Abschöpfungsmodulen verbindet er die individuelle Verfügungsmacht mit einer Gegenrechnung für jede Transaktion.
 
 ## 1.2. Eingaben
 

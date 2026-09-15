@@ -1,6 +1,6 @@
 # 1. Internal Investigations Praxis: Schnellstart
 
-Wenn du das hier öffnest, willst du einen Untersuchungsauftrag sauber abgrenzen, Beweise rechtmäßig sichern, Interviews belastbar führen und ein adressatengerechtes Findings-Produkt liefern.
+Bestimme den Umfang der internen Untersuchung, bereite die rechtmäßige Beweissicherung und die Interviews vor und stelle die Untersuchungsergebnisse für die vorgesehenen Empfänger dar.
 
 Kernauftrag: Internal-Investigations-Praxisplugin für Kanzleien und Unternehmen: Untersuchungsauftrag, Scope, Interviews, Arbeitsrecht, Datenschutz, Privilege-Risiko, StPO-Beschlagnahme, HinSchG, Dokumentation und Verteidigung. Vorrang hat das verlangte Arbeitsprodukt.
 
@@ -59,7 +59,7 @@ Neue Personen, Zeiträume oder Datenquellen nur als begründete Erweiterung vors
 1.7.4. Beweis: Nachweisachse Preservation und Datenplan: Systeme, Geräte, Accounts, Zeitraum, Custodians, Legal Hold, Zugriff, Filter, Forensik und Löschstopp dokumentieren. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Datenquelle belegt oder widerlegt welche konkrete Hypothese.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Scope Memo“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Scope Memo“. Halte die Frist, die entscheidende Beleglücke und die nächste benötigte Unterlage fest.
 
 ## 1.8. Stop
 

@@ -5,7 +5,7 @@ description: Bereitet die Organhaftung für Zahlungen nach Insolvenzreife durch 
 
 # 1. Zweck und Anwendungsfall
 
-Erstelle aus Kontoauszügen und Gegenleistungsbelegen eine prüfbare Haftungsrechnung gegen oder für die Geschäftsleitung. Der Schwerpunkt beginnt beim Zahlungsstrom nach einem zu belegenden Insolvenzreifestichtag. Er unterscheidet sich von Liquiditätsstatus und Anfechtung dadurch, dass jede Buchung dem Organ, einem Zeitfenster und einer konkreten Entlastung zugeordnet wird.
+Erstelle aus Kontoauszügen und Gegenleistungsbelegen eine prüfbare Berechnung zur Geltendmachung oder Abwehr von Haftungsansprüchen gegen die Geschäftsleitung. Ausgangspunkt sind Zahlungen nach einem zu belegenden Insolvenzreifestichtag. Anders als bei Liquiditätsstatus und Anfechtung wird jede Buchung dem Organ, einem Zeitfenster und einer konkreten Entlastung zugeordnet.
 
 ## 2. Eingaben
 
@@ -15,7 +15,7 @@ Lies Auftrag, Organbestellung, behaupteten Reifestichtag mit Statusbelegen, Inso
 
 ### 3.1. Ausgangstatbestand
 
-Prüfe Insolvenzreife nach Paragrafen 17 und 19 InsO getrennt, Organstellung und Zurechnung der Zahlungen. Eine schlechte Bilanz ist noch kein vollständiger Reifenachweis. Halte Tatbestandsbelege des Anspruchstellers und Entlastungsbelege des Organs getrennt. Fristen nach Paragraf 15a InsO sind Höchstfristen, kein voraussetzungsloser Zahlungsfreiraum.
+Prüfe Insolvenzreife nach Paragrafen 17 und 19 InsO getrennt, Organstellung und Zurechnung der Zahlungen. Eine schlechte Bilanz ist noch kein vollständiger Nachweis der Insolvenzreife. Halte Tatbestandsbelege des Anspruchstellers und Entlastungsbelege des Organs getrennt. Fristen nach Paragraf 15a InsO sind Höchstfristen, kein voraussetzungsloser Zahlungsfreiraum.
 
 ### 3.2. Buchungsabgleich
 
@@ -25,7 +25,7 @@ Vergib für jede Zahlung eine Kennung mit Konto, Empfänger, Betrag, Zweck, Tag,
 
 Prüfe Paragraf 15b Absätze 1 bis 3 InsO vor jeder Kürzung: ordnungsgemäßer Geschäftsgang, notwendige Betriebsfortführung, sorgfältig betriebene nachhaltige Sanierung oder Antragsvorbereitung innerhalb des zulässigen Zeitraums. Nach dessen Ablauf ist ohne Antrag die gesetzliche Regelbewertung anzuwenden. Zwischen Antrag und Eröffnung konkrete Zustimmung des vorläufigen Verwalters belegen; die bloße Bestellung ersetzt diese nicht. Gesellschafterbeschlüsse erteilen keine pauschale Haftungsfreistellung. Steuer- und Sozialversicherungszahlungen nicht gleichsetzen; Sonderkonflikte gesondert kennzeichnen, keine Zahlungsvollmacht ausgeben.
 
-### 3.4. Betragsbrücke und Gegenleistungen
+### 3.4. Berechnung und Gegenleistungen
 
 Zeige zuerst die Summe der zurechenbaren Auszahlungen und sodann die begründet sorgfaltsgemäßen Positionen. Für verbleibende Positionen prüfe Paragraf 15b Absatz 4 Satz 2 InsO: Welcher geringere Schaden der Gläubigerschaft ist konkret belegt? Ordne Rückfluss, Warenzugang, Verwertbarkeit, Wert, Sicherungsrechte und zeitlichen Zusammenhang zu. Nennwert einer Rechnung ist kein Beweis eines entsprechenden Massewerts. Ein Anspruch auf Anfechtungsrückgewähr ist noch keine erfolgte Rückzahlung.
 

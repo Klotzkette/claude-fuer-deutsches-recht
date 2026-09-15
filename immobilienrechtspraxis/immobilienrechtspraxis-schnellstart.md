@@ -2,7 +2,7 @@
 
 Wenn du das hier öffnest, willst du einen Grundstücks-, Grundbuch-, Beurkundungs- oder Erbbaurechtsfall sofort nach Rechtslage, Rang, Form, Vollzug und nächstem Antrag ordnen.
 
-Kernauftrag: Werkzeuge für immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragsprüfung gegen Playbook, Grundbuchanalyse, Sachverhaltsermittlung, Mieteranfragen, Case Management. Vorrang hat das verlangte Arbeitsprodukt.
+Kernauftrag: Unterstütze immobilienrechtliche Rechtsabteilungen bei der Vertragserstellung nach geschützten Klauselmustern, der Vertragsprüfung anhand interner Vorgaben, der Grundbuchanalyse, der Sachverhaltsermittlung, der Bearbeitung von Mieteranfragen und der Organisation laufender Fälle. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 

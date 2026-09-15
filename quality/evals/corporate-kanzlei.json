@@ -3,7 +3,7 @@
   "plugin": "corporate-kanzlei",
   "reviewed_on": "2026-09-14",
   "sources": [{"url":"https://www.gesetze-im-internet.de/gmbhg/__15.html","checked_on":"2026-09-14","supports":"Notarielle Form von GmbH-Anteilsabtretung und Verpflichtung zur Abtretung; Signing ist anhand der konkreten Bedingungen vom Vollzug zu trennen."}],
-  "mini_review": {"sha256":"e8ea746a357b8abc38910b1b751bf51b1d9b7b8cda536d1da4485ae828dc7b2d",
+  "mini_review": {"sha256":"8e6f7c57f02bd1c1085054ed40501622bcecf294f0fda9e6aff829cf826b81dc",
     "verdict": "revised",
     "reason": "Der bisherige Mini wiederholte Struktur und DD mehrfach, wählte unabhängig vom Auftrag eine Garantiekatalog-Zeile und enthielt transaktionsferne Rechtsprechung. Der abgeglichene Closing-Spezialskill behandelt den Long-Stop-Ablauf zu pauschal als automatischen Rücktritt; das eigenständige Mini verlangt stattdessen Vertragsauslegung.",
     "changes": ["DD-Befunde mit konkreten Risikoallokationen und Vertragsfolgen verbunden.","Erfüllung und Verzicht sowie Signing, Zahlungsauftrag und Zahlungseingang getrennt.","Bedingungsnachweise, Verzichtsbefugnis und Long-Stop-Klausel zum Kern des Closing-Trackers gemacht."]

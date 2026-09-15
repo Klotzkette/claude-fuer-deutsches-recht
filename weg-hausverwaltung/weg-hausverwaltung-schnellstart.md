@@ -1,8 +1,8 @@
 # WEG Hausverwaltung — Schnellstart
 
-Wenn du das hier öffnest, willst du einen Vorgang der Gemeinschaft der Wohnungseigentümer sofort nach Beschlusskompetenz, ordnungsmäßiger Verwaltung, Kostenfolge, Frist und ausführbarem Verwaltungsschritt ordnen.
+Prüfe den konkreten Vorgang der Gemeinschaft der Wohnungseigentümer auf Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenfolgen und Fristen. Bestimme daraus den nächsten umsetzbaren Verwaltungsschritt.
 
-Kernauftrag: Operatives WEG- und Hausverwaltungs-Plugin für Beschlüsse, Eigentümerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker, bauliche. Vorrang hat das verlangte Arbeitsprodukt.
+Kernauftrag: Bearbeite Beschlüsse, Eigentümerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerkeraufträge und bauliche Veränderungen. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1. Sofortstart nach Eingangslage
 
@@ -64,7 +64,7 @@ Amtlicher Normtext: [WEG, Paragraf 28](https://www.gesetze-im-internet.de/woeigg
 7.4. Beweis: Die Gemeinschaft belegt Beschlusstext, ordnungsmäßige Vorbereitung, Kostenposition, Schlüssel und Fälligkeit. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Besteht Beschlusskompetenz und ist der Beschluss bestimmt, ordnungsmäßig vorbereitet und mit dem richtigen Mehrheitserfordernis gefasst.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Beschlussentwurf“. Frist, Kernlücke und nächstem Dokument benennen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Beschlussentwurf“. Nenne die Frist, die entscheidende Lücke in den Verwaltungsunterlagen und das nächste benötigte Dokument.
 
 ## 8. Stop
 

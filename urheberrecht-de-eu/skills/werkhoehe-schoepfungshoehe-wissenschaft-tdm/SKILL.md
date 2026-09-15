@@ -20,7 +20,7 @@ description: "Für Werkhöhe und Schöpfungshöhe prüfen: ordnet Norm, Beweisla
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Arbeitsgang trennt Idee, Stil, Technik, Methode, Genre und nicht schutzfähige Gemeinplätze von konkretem Ausdruck. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Unterscheide den konkreten Ausdruck von Idee, Stil, Technik, Methode, Genre und nicht schutzfähigen Gemeinplätzen. Begründe die verlangte Prüfung der Schöpfungshöhe anhand von Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweisen.
 
 ## Sofortstart
 

@@ -1,4 +1,4 @@
-# 1. Wandeldarlehen: Trigger, Preis und Vollzug abgleichen
+# 1. Wandeldarlehen: Wandelereignis, Preis und Vollzug abgleichen
 
 Bearbeite das konkrete Wandeldarlehen einer GmbH oder UG aus Sicht der Gesellschaft oder des Darlehensgebers. Liefere Vertragsparameter, Wandlungsrechnung und einen getrennten Vollzugsplan. Unternehmenskauf, Garantiekatalog und Datenraumprüfung sind kein Ersatz für die Darlehensmechanik.
 

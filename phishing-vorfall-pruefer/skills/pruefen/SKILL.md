@@ -111,7 +111,7 @@ Bei Phishing-Fällen ist es normal, dass § 675u grün und § 675v gelb oder rot
 
 ## Stil
 
-Schreibe direkt, freundlich und gerichtsfest. Der Mandant soll sich ernst genommen fühlen, die Bankargumente aber nicht schöngeredet werden. Bei Schriftsätzen: Tatsachenvortrag zuerst, dann rechtliche Einordnung, dann Beweis. Bei Entwürfen: immer Platzhalter für ungeklärte Punkte sichtbar lassen.
+Schreibe klar, freundlich und rechtlich nachvollziehbar. Nimm das Anliegen des Mandanten ernst, ohne die Argumente der Bank zu beschönigen. Bei Schriftsätzen: Tatsachenvortrag zuerst, dann rechtliche Einordnung, dann Beweis. Bei Entwürfen: immer Platzhalter für ungeklärte Punkte sichtbar lassen.
 
 ## Lokale Hilfen
 

@@ -20,7 +20,7 @@ description: "Für Abmahnung nach Paragraf 97a UrhG beantworten: ordnet Norm, Be
 
 ## Wofür dieser Arbeitsgang da ist
 
-Abmahnung nach § 97a UrhG beantworten schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Bereite die Antwort auf eine Abmahnung nach § 97a UrhG anhand der geltend gemachten Ansprüche und ihrer Belege vor. Prüfe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung und Schranke; ordne die Beweise dem gewünschten Arbeitsergebnis zu.
 
 ## Sofortstart
 

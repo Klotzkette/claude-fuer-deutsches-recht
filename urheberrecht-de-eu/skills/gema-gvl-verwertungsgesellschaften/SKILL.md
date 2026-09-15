@@ -20,7 +20,7 @@ description: "Für GEMA, GVL und Verwertungsgesellschaften: ordnet Norm, Beweisl
 
 ## Wofür dieser Arbeitsgang da ist
 
-GEMA, GVL und Verwertungsgesellschaften schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Kläre die kollektive Rechtewahrnehmung durch GEMA, GVL oder andere Verwertungsgesellschaften. Prüfe dafür Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise und bereite die verlangte Meldungs-, Ausschüttungs- oder Tarifprüfung vor.
 
 ## Sofortstart
 

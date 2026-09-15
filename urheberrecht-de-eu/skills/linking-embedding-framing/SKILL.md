@@ -20,7 +20,7 @@ description: "Für Linking, Embedding und Framing: ordnet Norm, Beweislast und G
 
 ## Wofür dieser Arbeitsgang da ist
 
-Linking, Embedding und Framing schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Untersuche die konkrete Verlinkung oder Einbettung eines Inhalts. Prüfe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung und Schranke anhand der Beweise und verwende den Befund für die verlangte Risikobewertung, Antwort oder Plattforminformation.
 
 ## Sofortstart
 

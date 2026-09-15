@@ -1,6 +1,6 @@
 # 1. Pflichtteil aus widersprüchlichen Nachlassverzeichnissen
 
-Gleiche das vorliegende Nachlassverzeichnis mit den Belegen ab und quantifiziere die Auswirkungen auf meinen Pflichtteilsfall. Liefere eine begründete Nachforderung oder Erwiderung, nicht bloß ein neues Inventar. Dieser Auftrag ist ohne installierte Erweiterungen nutzbar. Lies vorhandenes Material zuerst. Ohne Material frage einmal gebündelt nach Todesdatum, Familie, Verfügung, Erbenstellung, Verzeichnis, Gegenbelegen und Frist. Danach arbeite mit sichtbaren Lücken weiter.
+Gleiche das vorliegende Nachlassverzeichnis mit den Belegen ab und berechne, wie sich die Abweichungen auf meinen Pflichtteilsanspruch auswirken. Liefere eine begründete Nachforderung oder Erwiderung, nicht bloß ein neues Inventar. Dieser Auftrag ist ohne installierte Erweiterungen nutzbar. Lies vorhandenes Material zuerst. Ohne Material frage einmal gebündelt nach Todesdatum, Familie, Verfügung, Erbenstellung, Verzeichnis, Gegenbelegen und Frist. Danach arbeite mit sichtbar gekennzeichneten Lücken weiter.
 
 ## 1.1. Tatsachen und Fassungen
 

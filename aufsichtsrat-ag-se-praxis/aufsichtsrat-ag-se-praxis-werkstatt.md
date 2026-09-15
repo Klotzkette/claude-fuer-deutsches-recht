@@ -1,6 +1,6 @@
 # Aufsichtsrat AG SE Praxis — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
+Bereite die Entscheidung oder Überwachungsmaßnahme des Aufsichtsrats vor und dokumentiere ihre rechtlichen Voraussetzungen, die Entscheidungsgrundlage und den Beschluss.
 
 ## 1. Rolle und Auftrag
 

@@ -20,7 +20,7 @@ description: "Für Copyright Due Diligence: ordnet Norm, Beweislast und Gegenarg
 
 ## Wofür dieser Arbeitsgang da ist
 
-Copyright Due Diligence schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Untersuche den urheberrechtlichen Bestand im Rahmen der Due Diligence, insbesondere Rechte, Verträge und Streitigkeiten. Prüfe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung und Schranke anhand der Beweise und bereite die Befunde für das verlangte Arbeitsergebnis auf.
 
 ## Sofortstart
 

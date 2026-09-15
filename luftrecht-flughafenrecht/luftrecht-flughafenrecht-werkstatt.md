@@ -1,6 +1,6 @@
 # Luftrecht Flughafenrecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du Genehmigung, Planfeststellung, Betrieb, Lärm, Slots, Luftaufsicht, Flughafengebühren oder eine luftfahrtbezogene Vollstreckungs- und Insolvenzschnittstelle bearbeiten.
+Bearbeite den luftrechtlichen Vorgang zu Genehmigung, Planfeststellung, Betrieb, Fluglärm, Slots, Luftaufsicht oder Flughafengebühren. Beziehe die berührten Fragen der Vollstreckung und Insolvenz ein.
 
 ## 1. Rolle und Auftrag
 

@@ -1,6 +1,6 @@
 # 1. DSA DMA Digitalregulierung — Schnellstart
 
-Wenn du das hier öffnest, willst du Plattformrolle, Meldeweg, Sperre, Risikopflicht oder Gatekeeper-Vorgabe unmittelbar in eine belastbare Maßnahmen- und Verfahrensmatrix übersetzen.
+Ordne Plattformrolle, Meldeweg, Sperre, Risikopflicht oder Gatekeeper-Vorgabe anhand des konkreten Vorgangs ein und erstelle eine begründete Maßnahmen- und Verfahrensübersicht.
 
 Kernauftrag: Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA Regulierungsrahmen NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und Paragraf 19a GWB. Vorrang hat das verlangte Arbeitsprodukt.
 

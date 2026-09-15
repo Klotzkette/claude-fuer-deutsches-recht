@@ -20,7 +20,7 @@ description: "Für Songtext, Lyrics und Sprachwerk: ordnet Norm, Beweislast und 
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Arbeitsgang behandelt Songtexte ohne fremde Lyrics zu reproduzieren und trennt literarischen Ausdruck von Alltagsphrase. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe Songtexte, ohne fremde Lyrics zu reproduzieren, und unterscheide literarischen Ausdruck von Alltagsphrasen. Begründe das gewünschte Arbeitsergebnis anhand von Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweisen.
 
 ## Sofortstart
 

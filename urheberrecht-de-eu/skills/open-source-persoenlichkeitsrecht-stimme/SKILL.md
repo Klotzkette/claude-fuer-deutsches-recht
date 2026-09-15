@@ -20,7 +20,7 @@ description: "Für Open Source und Softwarelizenzen: ordnet Norm, Beweislast und
 
 ## Wofür dieser Arbeitsgang da ist
 
-Open Source und Softwarelizenzen schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe Open-Source-Komponenten und Softwarelizenzen anhand der eingesetzten Versionen und ihrer Nutzung. Ordne Gegenstand, menschlichen Beitrag, Rechtekette und Schranke zu und verwende die Beweise für die verlangte Lizenzpflichtenübersicht oder Freigabeprüfung.
 
 ## Sofortstart
 

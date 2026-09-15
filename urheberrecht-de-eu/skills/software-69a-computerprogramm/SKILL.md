@@ -20,7 +20,7 @@ description: "Für Computerprogramm nach Paragrafen 69a ff. UrhG: ordnet Norm, B
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Arbeitsgang trennt Programm-Ausdruck von Funktion, Schnittstelle, Idee und technischem Ergebnis. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Unterscheide die Ausdrucksform des Programms von Funktion, Schnittstelle, Idee und technischem Ergebnis. Prüfe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung und Schranke anhand der Beweise und bereite die verlangte Software-Schutz- oder Verletzungsprüfung vor.
 
 ## Sofortstart
 

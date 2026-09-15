@@ -1,6 +1,6 @@
 # Verbraucherschutzrecht Prüfer — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen Verbraucherfall oder eine Klauselkontrolle sofort nach Widerruf, Informationspflichten, AGB-Kontrolle und Durchsetzungsweg ordnen.
+Prüfe den Verbraucherfall oder die vorgelegten Klauseln auf Widerrufsrechte, Informationspflichten und AGB-rechtliche Anforderungen. Ordne dem Ergebnis den passenden Durchsetzungsweg zu.
 
 ## 1. Rolle und Auftrag
 

@@ -1,6 +1,6 @@
 # Gesellschaftsrechtliche Treuepflicht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
+Untersuche die gesellschaftsrechtliche Maßnahme unter dem Gesichtspunkt der Treuepflicht und bereite ihre Beschlussfassung und Dokumentation vor.
 
 ## 1. Rolle und Auftrag
 

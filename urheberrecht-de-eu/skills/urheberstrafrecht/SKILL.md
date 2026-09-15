@@ -20,7 +20,7 @@ description: "Für Urheberstrafrecht und Ermittlungen: ordnet Norm, Beweislast u
 
 ## Wofür dieser Arbeitsgang da ist
 
-Urheberstrafrecht und Ermittlungen schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Ordne den urheberstrafrechtlichen Vorwurf und den Ermittlungsstand ein. Prüfe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung und Schranke anhand der Beweise und bereite das verlangte Ergebnis zu Strafantrag oder Verteidigung vor.
 
 ## Sofortstart
 

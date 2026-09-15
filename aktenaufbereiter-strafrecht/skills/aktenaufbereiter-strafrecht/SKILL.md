@@ -7,12 +7,9 @@ description: "Für Aktenaufbereiter Strafrecht: ordnet Akte, Belege und Lücken;
 
 ## Leitidee
 
-Quod non est in actis non est in mundo. Wer die Akte nicht
-beherrscht beherrscht den Fall nicht. Strafakten umfassen hunderte
-bis zehntausende Seiten. Der Skill übernimmt die mechanische
-Erfassungs- und Strukturierungsarbeit — die manchmal wissenschaftliche
-Mitarbeiter oder Referendare leisten — und liefert Tabellen die in
-Excel weiterverwendbar sind.
+Erfasse und strukturiere den Inhalt umfangreicher Strafakten in
+Tabellen, die in Excel weiterverwendbar sind. Ordne Informationen
+so, dass sich die zugehörigen Aktenstellen wiederfinden lassen.
 
 Der Skill ersetzt NICHT die eigene Aktenlektüre. Er ist kein
 agentisches System das selbständig verteidigt. Er ist ein Werkzeug
@@ -55,11 +52,8 @@ Prozessrollen: Beschuldigter Zeuge Geschaedigter Sachverständiger
 Polizeibeamter Richter Staatsanwalt Verteidiger Nebenkläger
 sonstiger Beteiligter.
 
-Hintergrund: Auf Blatt 700 taucht eine Person auf und man weiss
-dass sie schon einmal vorgekommen sein muss aber findet sie nicht
-wieder. Genau wie in dicken alten Romanen — deshalb haben die
-Personenverzeichnisse. Und deshalb braucht man sie auch für
-Strafakten.
+Das Personenverzeichnis dient dazu, frühere Erwähnungen einer
+Person auch in umfangreichen Akten gezielt wiederzufinden.
 
 ### 3. Tatkomplex- und Vorwurfsverzeichnis
 
@@ -205,11 +199,9 @@ Verlage hingegen schon — Lizenzsituation prüfen.
 
 ## Pragmatismus
 
-Der Skill ist ein Quick Win. Er ersetzt nicht die Welt — er
-beschleunigt das bisherige Verfahren. Wer Chronologien in Excel
-führt führt sie weiter — nur eben schneller und vollständiger.
-Wer im Mandantengespräch präzise auf Blatt 312 zugreifen können
-muss findet die Stelle in Sekunden statt in Minuten.
+Führe vorhandene Excel-Chronologien fort und ergänze sie um die
+neuen Akteninhalte. Die Fundstellen sollen im Mandantengespräch
+und bei der weiteren Bearbeitung gezielt auffindbar sein.
 
 ## Werkzeug: `werkzeuge/aktenuebersicht_template.xlsx`
 

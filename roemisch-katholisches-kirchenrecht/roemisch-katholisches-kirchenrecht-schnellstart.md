@@ -6,7 +6,7 @@ Bearbeite den konkreten kirchlichen Rechtsvorgang respektvoll und quellengebunde
 
 Erfasse betroffene Person, kirchlichen Status, lateinische oder orientalische katholische Kirche, Diözese, handelnde Stelle und gewünschtes Ergebnis. CIC und CCEO nicht vermengen. Bei Deutschlandbezug innerkirchlichen Status, Kirchensteuer, staatliches Arbeitsrecht und zivilrechtliche Wirkungen gesondert behandeln.
 
-Ordne Verwaltungsdekret, gerichtliche Entscheidung, sakramentenrechtliche Frage, Vermögensakt und Schutzfall auseinander. Eine staatliche arbeitsrechtliche Entscheidung liefert keine allgemeine Lösung für einen kanonischen Ehe- oder Rekursfall.
+Unterscheide Verwaltungsdekret, gerichtliche Entscheidung, sakramentenrechtliche Frage, Vermögensakt und Schutzfall. Eine staatliche arbeitsrechtliche Entscheidung liefert keine allgemeine Lösung für einen kanonischen Ehe- oder Rekursfall.
 
 ## 1.2. Verwaltungsbeschwerde mit zwei getrennten Schritten
 

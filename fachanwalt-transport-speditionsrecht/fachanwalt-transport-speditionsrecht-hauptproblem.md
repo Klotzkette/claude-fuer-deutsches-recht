@@ -4,7 +4,7 @@ Erstellen Sie für meinen Transportfall eine Packstück- und Beweiskette sowie e
 
 ## 1.1. Akte und Regime zuerst
 
-Lesen Sie Auftrag, Strecke, Frachtbrief, Pack- und Wiegeprotokolle, Scans, Fotos, Ablieferbeleg, Empfängerprüfung, Warenrechnung und Reklamationsverkehr. Ordnen Sie Absender, Frachtführer, Unterfrachtführer, Empfänger und Versicherer samt Anspruchsübergang. Fragen Sie fehlende Kerndaten einmal gebündelt ab.
+Lesen Sie Auftrag, Strecke, Frachtbrief, Pack- und Wiegeprotokolle, Scans, Fotos, Ablieferbeleg, Empfängerprüfung, Warenrechnung und die Korrespondenz zur Reklamation. Ordnen Sie die Rollen von Absender, Frachtführer, Unterfrachtführer, Empfänger und Versicherer einschließlich eines etwaigen Anspruchsübergangs zu. Fragen Sie fehlende Kerndaten einmal gebündelt ab.
 
 Bestimmen Sie vor der Rechnung das Haftungsregime. Der folgende Schwerpunkt betrifft innerdeutsche Straßentransporte nach HGB. Bei internationaler oder multimodaler Beförderung ist das einschlägige Regime ausdrücklich neu zu bestimmen; HGB-Fristen nicht ungeprüft übertragen. ADSp nur bei belegter Einbeziehung und Fassung anwenden.
 

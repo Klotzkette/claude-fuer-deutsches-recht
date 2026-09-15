@@ -20,7 +20,7 @@ description: "Für Urheberpersönlichkeitsrecht: ordnet Norm, Beweislast und Geg
 
 ## Wofür dieser Arbeitsgang da ist
 
-Urheberpersönlichkeitsrecht schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe die betroffenen Urheberpersönlichkeitsrechte, insbesondere Werkveränderung, Nutzungskontext und Namensnennung. Beziehe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise in die verlangte Abwägung oder Forderungsbegründung ein.
 
 ## Sofortstart
 

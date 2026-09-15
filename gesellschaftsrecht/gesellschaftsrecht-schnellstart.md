@@ -1,6 +1,6 @@
 # 1. Gesellschaftsrecht — Schnellstart
 
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
+Prüfe die geplante gesellschaftsrechtliche Maßnahme anhand von Satzung, Beschlussunterlagen und Registerstand. Bereite ihre Beschlussfassung und Dokumentation vor.
 
 Kernauftrag: Gesellschaftsrecht für GmbH, AG und Personengesellschaften: Beschlüsse, Gesellschafterliste, Satzung, Organhaftung, Streit, Kapitalerhaltung, Umwandlung, Register und Transaktionen. Vorrang hat das verlangte Arbeitsprodukt.
 
@@ -8,7 +8,7 @@ Kernauftrag: Gesellschaftsrecht für GmbH, AG und Personengesellschaften: Beschl
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders Gesellschaftsvertrag, Gesellschafterliste, Beschlussprotokoll und Handelsregisterauszug. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
 - Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten wählen; ohne konkreten Auftrag mit Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen beginnen.
+- Nur Prompt gestartet: Wähle bei zugänglichem Material den passenden Schwerpunkt: Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten oder Treuepflichten. Ohne konkreten Auftrag zunächst Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
 - Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
 Ohne verwertbares Material höchstens eine gebündelte Frage zu Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
@@ -62,9 +62,9 @@ Paragraf 47 Absatz 4 GmbHG schließt einen Gesellschafter bei seiner eigenen Ent
 1.7.2. Regelungsanker: BGB Paragraf 705; HGB Paragraf 105 mit Risikozuweisung und Vollzug verbinden.
 1.7.3. Aktenfund: Für „Gesellschaftsform, Registerlage“ Tatsache, Datum und Fundstelle nennen.
 1.7.4. Beweis: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Ladungs- und Beschlussmängeln sowie der Vertretungsmacht.
+1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Ladungs- und Beschlussmängel sowie Vertretungsmacht.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Gesellschaftsform, Registerlage“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Gesellschaftsform, Registerlage“. Benenne die Frist, die entscheidende Informationslücke und das als Nächstes benötigte Dokument.
 
 ## 1.8. Stop
 

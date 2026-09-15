@@ -12,7 +12,7 @@ description: "Für Output Builder Urheberrecht: ordnet Norm, Beweislast und Gege
 
 ## Wofür dieser Arbeitsgang da ist
 
-Output Builder Urheberrecht schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Führe die urheberrechtlichen Prüfergebnisse in der gewünschten Dokumentform zusammen. Richte Darstellung und Umfang auf den Adressaten aus und begründe das Ergebnis anhand von Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweisen.
 
 ## Sofortstart
 

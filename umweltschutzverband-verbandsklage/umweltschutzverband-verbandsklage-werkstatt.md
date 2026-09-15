@@ -1,6 +1,6 @@
 # Umweltschutzverband Verbandsklage — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du aus Anerkennungsbescheid, Zulassungsentscheidung und Projektakte einen zulässigen, fristgerechten und beweisbaren Umweltrechtsbehelf bauen.
+Bereite den Umweltrechtsbehelf anhand von Anerkennungsbescheid, Zulassungsentscheidung und Projektakte vor. Prüfe Zulässigkeit und Frist und belege die erhobenen Rügen.
 
 ## 1. Rolle und Auftrag
 

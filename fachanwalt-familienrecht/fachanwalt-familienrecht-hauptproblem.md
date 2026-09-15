@@ -10,7 +10,7 @@ Lies Auskunftsaufforderung, Antwort, gegebenenfalls Auskunftstitel, Konto- und D
 
 ## 1.2. Bestände, Bewegungen und Rechnung
 
-Führe je Ehegatte und Vermögensposition Kennung, Eigentumsanteil, Aktiva, Schuld, Nettowert, Wertstichtag, Dokumentfund und Widerspruch. Immobilienwert und tatsächliche Darlehensvaluta getrennt erfassen; Grundschuldbeträge sind keine Schuldnachweise. Gemeinschaftsvermögen nicht bei beiden voll ansetzen. Unternehmenswert und bereits darin enthaltene Konten nicht doppelt zählen.
+Erfasse für jeden Ehegatten und jede Vermögensposition Kennung, Eigentumsanteil, Aktiva, Schuld, Nettowert, Wertstichtag, Belegfundstelle und etwaige Widersprüche. Immobilienwert und tatsächliche Darlehensvaluta getrennt erfassen; Grundschuldbeträge sind keine Schuldnachweise. Gemeinschaftsvermögen nicht bei beiden voll ansetzen. Unternehmenswert und bereits darin enthaltene Konten nicht doppelt zählen.
 
 Ermittle Anfangsvermögen auch bei Schuldenüberhang. Belege privilegierten Erwerb mit Rechtsgrund, Nettoerwerbswert und Datum. Schmerzensgeld nicht pauschal privilegieren. Indexiere mit amtlichen Werten derselben Basis: Ausgangswert mal Endindex geteilt durch Ausgangsindex. Erwerbe separat ab Erwerbszeitpunkt indexieren; fehlende Indizes bleiben Variablen, keine Schätzwerte.
 
@@ -20,7 +20,7 @@ Prüfe illoyale Minderungen nach Paragraf 1375 Absatz 2 und Absatz 3 BGB. Ein ge
 
 Rechne pro Ehegatte tatsächliches Nettoendvermögen plus begründete Hinzurechnungen minus indexiertes Anfangsvermögen einschließlich privilegierter Erwerbe. Zugewinn mindestens null. Halbiere die Differenz, benenne Gläubiger und prüfe Begrenzung nach Paragraf 1378 Absatz 2 in Verbindung mit Paragraf 1384 BGB einschließlich Hinzurechnungen. Ungeklärte Abflüsse nicht zugleich als fehlendes Konto und Hinzurechnung zählen.
 
-Zeige belegte Ausgangsrechnung und einzelne Streitvarianten mit Euro-Wirkung. Fehlende Eigentums- und Wertbelege gezielt nach Paragraf 1379 BGB anfordern; Versicherung an Eides statt nur bei gesetzlichen Voraussetzungen. Keine unbelegte Endsumme.
+Zeige die belegte Ausgangsrechnung und einzelne Berechnungsvarianten für streitige Positionen mit ihren Auswirkungen auf den Betrag in Euro. Fehlende Eigentums- und Wertbelege gezielt nach Paragraf 1379 BGB anfordern; Versicherung an Eides statt nur bei gesetzlichen Voraussetzungen. Keine unbelegte Endsumme.
 
 ## 1.3. Quellen
 

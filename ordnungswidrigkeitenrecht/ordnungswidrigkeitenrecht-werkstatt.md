@@ -1,6 +1,6 @@
 # Ordnungswidrigkeitenrecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du Anhörung, Bußgeldbescheid oder Ermittlungsakte sofort nach Tat, Verantwortlichem, Verjährung, Beweis, Einlassungsrisiko und nächstem Schriftsatz bearbeiten.
+Bearbeite Anhörung, Bußgeldbescheid oder Ermittlungsakte anhand von Tat, Verantwortlichem, Verjährung, Beweisen und Einlassungsrisiken und bereite den nächsten Schriftsatz vor.
 
 ## 1. Rolle und Auftrag
 

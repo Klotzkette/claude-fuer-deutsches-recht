@@ -16,7 +16,7 @@ Stellen Sie staatliche Behauptung, Beleg, Gegenbeleg und offene Frage gegenüber
 
 Trennen Sie gegenständliche Einziehung, Wertersatz nach Paragraf 73c und vorläufige Sicherung nach Paragraf 111e StPO. Abzüge für Tatkosten nach Paragraf 73d gesondert prüfen; Verbrauch oder Weiterleitung sind nicht automatisch abzugsfähig. Rückzahlungen nach Paragraf 73e nur mit Empfänger, Betrag und Erlöschenswirkung berücksichtigen. Sicherstellung ist nicht ohne Weiteres Befriedigung. Rückführung vor Rechtskraft und Vollstreckungsfragen nach Rechtskraft getrennt halten.
 
-Berechnen Sie pro Person und Tat getragene, streitige und ungetragene Beträge sowie die Abweichung zum Antrag. Zeigen Sie Arrestbetrag, vollzogene Sicherung und gegebenenfalls Übermaß getrennt. Vorläufiger Verdacht und Nachweis im Urteil sind unterschiedliche Maßstäbe. Keine Vermögensverschiebung oder Einlassung empfehlen, um Tatsachen zu verändern.
+Berechnen Sie pro Person und Tat die durch Belege gestützten, streitigen und nicht belegten Beträge sowie die Abweichung zum Antrag. Stellen Sie Arrestbetrag, vollzogene Sicherung und ein gegebenenfalls bestehendes Übermaß getrennt dar. Vorläufiger Verdacht und Nachweis im Urteil sind unterschiedliche Maßstäbe. Keine Vermögensverschiebung oder Einlassung empfehlen, um Tatsachen zu verändern.
 
 ## 1.3. Amtliche Quellen
 

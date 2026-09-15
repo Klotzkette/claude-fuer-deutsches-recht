@@ -211,7 +211,7 @@ Falls Vertragsstrafe vereinbart: Höhe auf Angemessenheit prüfen (§ 307 BGB, �
 ## Redline-Granularität
 
 **Eingriffe so klein wie möglich.** Ein Redline ist ein Verhandlungsinstrument, kein Neuentwurf. Standardmäßig die kleinstmögliche Änderung wählen:
-- **Wort** vor Phrase. Phrase vor Satz. Teilsatz vor Klausel. Klausel nur ersetzen, wenn chirurgische Eingriffe schwerer zu lesen wären als ein Neuentwurf.
+- **Wort** vor Phrase. Phrase vor Satz. Teilsatz vor Klausel. Klausel nur ersetzen, wenn punktuelle Änderungen schwerer zu lesen wären als ein Neuentwurf.
 - Vollständige Klauselersetzung im Übermittlungsschreiben erläutern.
 
 ## Ausgaberegeln

@@ -39,7 +39,7 @@ Nutze [Zitierweise](../../references/zitierweise.md), soweit verfügbar; der Arb
 
 ## 5. Ausgabeformat
 
-Erstelle `ergebnis.md` mit Sachverhalt, Anspruchsrahmen, Mengenabgleich, Kostenentscheidungen, nachvollziehbarer Betragsbrücke, Zurechnungsszenarien und ausformulierter Forderungs- oder Erwiderungspassage. Tabellen ergänzen die Begründung, ersetzen sie nicht. Das Endprodukt besteht aus vollständigen Sätzen, nicht aus Skeletten oder Halbsätzen. Ausschließlich dezimale Überschriften; Times New Roman 11 pt bei formatiertem Export, sonst ausdrücklicher Exporthinweis. Beleglücken und Freigabevorbehalt nennen.
+Erstelle `ergebnis.md` mit Sachverhalt, Anspruchsrahmen, Mengenabgleich, Kostenentscheidungen, nachvollziehbarer Herleitung des Betrags, Zurechnungsszenarien und ausformulierter Forderungs- oder Erwiderungspassage. Tabellen ergänzen die Begründung, ersetzen sie nicht. Das Endprodukt besteht aus vollständigen Sätzen, nicht aus Skeletten oder Halbsätzen. Ausschließlich dezimale Überschriften; Times New Roman 11 pt bei formatiertem Export, sonst ausdrücklicher Exporthinweis. Beleglücken und Freigabevorbehalt nennen.
 
 ## 6. Beispiele
 

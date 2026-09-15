@@ -20,7 +20,7 @@ description: "Für Schutzdauer und Gemeinfreiheit: ordnet Norm, Beweislast und G
 
 ## Wofür dieser Arbeitsgang da ist
 
-Schutzdauer und Gemeinfreiheit schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Ermittle die Schutzdauer und prüfe die behauptete Gemeinfreiheit des konkreten Gegenstands. Berücksichtige menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise und stelle das verlangte Ergebnis einschließlich verbleibender Rechte dar.
 
 ## Sofortstart
 

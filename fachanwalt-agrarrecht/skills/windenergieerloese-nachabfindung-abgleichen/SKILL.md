@@ -5,7 +5,7 @@ description: "Gleicht Windenergie-Nutzungsverträge auf geerbten Hofflächen mit
 
 # 1. Zweck und Anwendungsfall
 
-Bearbeite die Nachabfindung weichender Erben aus Windenergieerlösen. Der Schwerpunkt ist wirtschaftlich geeignet, weil langfristige Nutzungsverträge mehrere Entgeltarten und erhebliche Zahlungsströme verbinden. Anders als die allgemeine Nachabfindungsprüfung steht hier der Abgleich von Vertrag, Betreiberabrechnung und tatsächlichem Zufluss im Mittelpunkt. Eine Anlagenzulassung oder allgemeine Hofübergabe ist nicht Gegenstand.
+Bearbeite die Nachabfindung weichender Erben aus Windenergieerlösen. Langfristige Nutzungsverträge können mehrere Entgeltarten und erhebliche Zahlungsströme umfassen. Anders als bei der allgemeinen Nachabfindungsprüfung steht hier der Abgleich von Vertrag, Betreiberabrechnung und tatsächlichem Zufluss im Mittelpunkt. Eine Anlagenzulassung oder allgemeine Hofübergabe ist nicht Gegenstand.
 
 ## 1.1. Eingaben
 

@@ -20,7 +20,7 @@ description: "Für Architektur und angewandte Kunst: ordnet Norm, Beweislast und
 
 ## Wofür dieser Arbeitsgang da ist
 
-Architektur und angewandte Kunst schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe die konkrete Gestaltung und Nutzung von Architektur oder angewandter Kunst. Begründe das verlangte Arbeitsergebnis anhand des Gegenstands, des menschlichen Beitrags, der Rechtekette, der Nutzungshandlung, der Schranke und der zugehörigen Beweise.
 
 ## Sofortstart
 

@@ -1,6 +1,6 @@
 # Normenkontrolle Bauleitplanung — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen Bebauungsplan oder städtebaulichen Vertrag auf Festsetzungen und Fehler prüfen.
+Prüfe die Festsetzungen des Bebauungsplans oder die Regelungen des städtebaulichen Vertrags auf rechtliche Fehler.
 
 ## 1. Rolle und Auftrag
 

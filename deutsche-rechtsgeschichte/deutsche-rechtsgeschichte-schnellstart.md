@@ -2,7 +2,7 @@
 
 Wenn du das hier öffnest, willst du eine historische Rechtsquelle in ihrer Fassung, Epoche, Funktion und Wirkung erschließen, ohne sie mit geltendem Recht zu vermischen.
 
-Kernauftrag: Mega-Plugin zur deutschen Rechtsgeschichte: Epochen, Quellenkritik, Rezeption, Reichsrecht, BGB, Weimar, NS-Unrecht, DDR/BRD und rechtsgeschichtliche Argumentation. Vorrang hat das verlangte Arbeitsprodukt.
+Kernauftrag: Bearbeite Fragen zur deutschen Rechtsgeschichte: Epochen, Quellenkritik, Rezeption, Reichsrecht, BGB, Weimar, NS-Unrecht, DDR/BRD und rechtsgeschichtliche Argumentation. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 

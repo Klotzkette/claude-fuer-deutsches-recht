@@ -1,8 +1,8 @@
 # Word Legal Ai Plugin And Skill For German Lawyers — Schnellstart
 
-Wenn du das hier öffnest, willst du einen Dokumentenbestand schnell in verlässliche Versionen, Fundstellen, Lücken und ein unmittelbar nutzbares Arbeitsprodukt überführen.
+Ordne Dokumentfassungen, Fundstellen und offene Punkte und erstelle daraus das verlangte, unmittelbar verwendbare Dokument.
 
-Kernauftrag: Word Legal Tech for German Lawyers: Kaltstart, Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Redlines, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Legal Writing. Vorrang hat das verlangte Arbeitsprodukt.
+Bearbeite mit Word Legal Tech for German Lawyers Verträge, Schriftsätze, Memos und Redlines vom ersten Entwurf bis zur makrofreien Word-Endfassung im Kanzleistil. Nutze Klauselbibliothek, Defensive Drafting und Term Sheet; bearbeite bei Bedarf deutsch-englische Fassungen und US/UK Legal Writing. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1. Sofortstart nach Eingangslage
 

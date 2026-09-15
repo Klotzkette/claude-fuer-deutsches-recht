@@ -1,6 +1,6 @@
 # 1. Fluggastrechte — Schnellstart
 
-Wenn du das hier öffnest, willst du aus Buchung, Flugverlauf und tatsächlicher Ankunftszeit sofort Anspruch, Betrag, Einwand und versandfertige Forderung bestimmen.
+Prüfe anhand von Buchung, Flugverlauf und tatsächlicher Ankunftszeit Anspruch, Betrag und Einwände und formuliere das Forderungsschreiben.
 
 Kernauftrag: Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspätung prüfen, außergewöhnliche Umstände, Distanz, Ausgleich, Forderungsschreiben, Mahnung und Klage. Vorrang hat das verlangte Arbeitsprodukt.
 

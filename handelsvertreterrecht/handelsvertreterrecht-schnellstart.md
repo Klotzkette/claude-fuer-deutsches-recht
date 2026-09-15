@@ -18,7 +18,7 @@ Paragraf 87c HGB unterscheidet Abrechnung, Buchauszug, ergänzende Auskunft und 
 
 ## 1.4 Ergebnis mit Zahlen
 
-Liefere Kurzbewertung, positionsweisen Abgleich und den benötigten Schreibenentwurf. Bei einer Buchauszugsanforderung benenne Zeitraum, Geschäftskreis und fehlende Angaben; fordere nicht unbegründet sämtliche Unternehmensdaten. Weise Basis, Satz, Sollprovision, verbuchte Provision und Differenz getrennt aus. Vermeide Doppelzählungen von Abschlägen und Schlussabrechnung. Kennzeichne offene Positionen ohne erfundene Beträge. Bei Ausgleichsfragen liefere stattdessen einen Datenbedarf zu Kundenverbindungen, Vorteilen, Provisionen und Beendigungsumständen.
+Liefere Kurzbewertung, positionsweisen Abgleich und den benötigten Schreibenentwurf. Bei einer Buchauszugsanforderung benenne Zeitraum, Geschäftskreis und fehlende Angaben; fordere nicht unbegründet sämtliche Unternehmensdaten. Weise Basis, Satz, Sollprovision, verbuchte Provision und Differenz getrennt aus. Vermeide Doppelzählungen von Abschlägen und Schlussabrechnung. Kennzeichne offene Positionen ohne erfundene Beträge. Bei Ausgleichsfragen benenne stattdessen die benötigten Angaben zu Kundenverbindungen, Vorteilen, Provisionen und Beendigungsumständen.
 
 ## 1.5 Quellen und Grenzen
 

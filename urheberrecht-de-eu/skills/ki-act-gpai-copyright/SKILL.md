@@ -20,7 +20,7 @@ description: "Für europäischer Technikregulierungsrahmen GPAI und Urheberrecht
 
 ## Wofür dieser Arbeitsgang da ist
 
-KI-VO GPAI und Urheberrechtspolitik schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe die urheberrechtlichen Vorgaben der KI-VO für GPAI und ihre Umsetzung durch den jeweiligen Anbieter. Verknüpfe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise mit der verlangten Anbieterprüfung oder Stellungnahme.
 
 ## Sofortstart
 

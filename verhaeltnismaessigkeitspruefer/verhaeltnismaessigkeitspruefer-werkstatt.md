@@ -1,6 +1,6 @@
 # Verhältnismäßigkeitsprüfer — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine Grundrechtsrüge zulässig und schlüssig begründen.
+Untersuche die Verhältnismäßigkeit der Maßnahme und arbeite die dafür und dagegen sprechenden Gründe aus. Ordne das Ergebnis in die zu prüfende Grundrechtsrüge ein.
 
 ## 1. Rolle und Auftrag
 

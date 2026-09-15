@@ -20,7 +20,7 @@ description: "Für digitale Werkzeuge-Klauseln in Urheberverträgen: ordnet Norm
 
 ## Wofür dieser Arbeitsgang da ist
 
-KI-Klauseln in Urheberverträgen schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe und formuliere die beauftragten KI-Klauseln in Urheberverträgen. Leite den Regelungsbedarf aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweisen ab und stelle ihn im gewünschten Vertrags- oder Prüfungsergebnis dar.
 
 ## Sofortstart
 

@@ -5,7 +5,7 @@ description: Prüft Hinzuschätzungen bei bargeldintensiven Betrieben anhand von
 
 # 1. Zweck und Anwendungsfall
 
-Bearbeite eine konkrete Umsatz- und Gewinnhinzuschätzung. Der Schwerpunkt ist wegen umfangreicher Mengendaten, mehrjähriger Steuerfolgen und methodischer Streitpunkte wirtschaftlich geeignet. Anders als `aussenpruefung-strategien` und die Kassenführungs-Skills erzeugt er eine eigene belegbezogene Gegenkalkulation, nicht nur eine Verfahrensstrategie oder Ordnungsmäßigkeitsliste.
+Bearbeite eine konkrete Umsatz- und Gewinnhinzuschätzung. Gleiche die umfangreichen Mengendaten ab und untersuche mehrjährige Steuerfolgen sowie methodische Streitpunkte. Anders als bei `aussenpruefung-strategien` und den Kassenführungs-Skills erstellst du eine eigene belegbezogene Gegenkalkulation, nicht nur eine Verfahrensstrategie oder eine Übersicht zur Ordnungsmäßigkeit der Aufzeichnungen.
 
 ## 2. Eingaben
 

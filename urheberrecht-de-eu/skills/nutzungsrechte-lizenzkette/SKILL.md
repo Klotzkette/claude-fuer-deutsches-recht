@@ -20,7 +20,7 @@ description: "Für Nutzungsrechte und Lizenzkette: ordnet Norm, Beweislast und G
 
 ## Wofür dieser Arbeitsgang da ist
 
-Nutzungsrechte und Lizenzkette schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Rekonstruiere, wer welche Nutzungsrechte eingeräumt hat und ob die Lizenzkette die konkrete Verwendung umfasst. Berücksichtige Gegenstand, menschlichen Beitrag, Nutzungshandlung und Schranke und dokumentiere die Beweise und Lücken im verlangten Ergebnis.
 
 ## Sofortstart
 

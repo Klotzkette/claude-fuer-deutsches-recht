@@ -1,8 +1,8 @@
 # 1. Einigungsvertrag Vermögensrecht — Schnellstart
 
-Wenn du das hier öffnest, willst du eine historische Eigentums- oder Zuordnungsfrage aus DDR- und Übergangsakten chronologisch, quellenfest und mit dem richtigen Behörden- oder Grundbuchprodukt lösen.
+Kläre die Eigentums- oder Zuordnungsfrage anhand der DDR- und Übergangsakten. Dokumentiere die historischen Veränderungen mit Quellen und bereite das benötigte Behörden- oder Grundbuchschreiben vor.
 
-Kernauftrag: Einigungsvertrag-Plugin für DDR/BRD-Übergangsrecht, Volksvermögen, Parteivermögen, Treuhand, Bodenreform, Mauergrundstücke, VermG und Restitution. Vorrang hat das verlangte Arbeitsprodukt.
+Ordne Volksvermögen, Parteivermögen, Treuhandvorgänge, Bodenreform und Mauergrundstücke nach Einigungsvertrag, DDR/BRD-Übergangsrecht und VermG ein und prüfe die Restitutionsfrage. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 

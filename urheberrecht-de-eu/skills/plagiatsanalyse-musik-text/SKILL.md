@@ -20,7 +20,7 @@ description: "Für Plagiatsanalyse Musik und Text: ordnet Norm, Beweislast und G
 
 ## Wofür dieser Arbeitsgang da ist
 
-Plagiatsanalyse Musik und Text schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Vergleiche die konkret beanstandeten Musik- oder Textpassagen und dokumentiere die belegten Ähnlichkeiten. Prüfe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung und Schranke und leite daraus das gewünschte Analyse- oder Verfahrensergebnis ab.
 
 ## Sofortstart
 

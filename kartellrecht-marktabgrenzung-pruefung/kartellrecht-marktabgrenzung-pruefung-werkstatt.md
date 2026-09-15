@@ -1,6 +1,6 @@
 # Kartellrecht Marktabgrenzung Prüfung — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen Kartell-, Marktmacht-, Fusions- oder Schadensersatzfall sofort nach Markt, Verhalten, Beweis und Risiko strukturieren.
+Strukturiere den Kartell-, Marktmacht-, Fusions- oder Schadensersatzfall nach relevantem Markt, Verhalten, Beweisen und rechtlichen Risiken.
 
 ## 1. Rolle und Auftrag
 

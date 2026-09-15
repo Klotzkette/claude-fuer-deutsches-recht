@@ -1,6 +1,6 @@
 # Straßenverkehrsrecht StVO — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du ein Verkehrszeichen, eine Verkehrsfläche, Bewohnerparkregelung, Bus- oder Fahrradspur, Schulstraße, Baustellenanordnung oder Ausnahmegenehmigung anhand des konkreten Straßenraums bearbeiten.
+Untersuche das Verkehrszeichen, die Verkehrsfläche, Bewohnerparkregelung, Bus- oder Fahrradspur, Schulstraße, Baustellenanordnung oder Ausnahmegenehmigung anhand der örtlichen Verhältnisse im Straßenraum.
 
 ## 1. Rolle und Auftrag
 

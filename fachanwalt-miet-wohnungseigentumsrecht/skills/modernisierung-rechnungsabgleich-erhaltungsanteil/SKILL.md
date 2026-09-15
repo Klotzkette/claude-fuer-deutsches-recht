@@ -7,7 +7,7 @@ description: Prüft Modernisierungsmieterhöhungen anhand einzelner Rechnungspos
 
 ## 1.1. Zweck und Anwendungsfall
 
-Erstelle eine belegbare Gegenrechnung zur Modernisierungsmieterhöhung nach Bauabschluss. Der Schwerpunkt ist wirtschaftlich geeignet, weil falsche Kostenabzüge und Verteilerschlüssel die laufende Miete dauerhaft verändern. Anders als allgemeine Umlage- und Erhaltungsskills rekonstruiert dieser Arbeitsgang jede Rechnungsposition bis zum monatlichen Wohnungsbetrag.
+Erstelle eine belegbare Gegenrechnung zur Modernisierungsmieterhöhung nach Bauabschluss. Fehler bei Kostenabzügen und Verteilerschlüsseln wirken sich dauerhaft auf die laufende Miete aus. Anders als allgemeine Umlage- und Erhaltungsskills verfolgt dieser Arbeitsgang jede Rechnungsposition bis zu ihrem Anteil an der monatlichen Mieterhöhung für die Wohnung.
 
 ## 1.2. Eingaben
 
@@ -17,7 +17,7 @@ Lies zuerst Mietvertrag, Ankündigung, Erhöhungserklärung mit Zugang, Schlussr
 
 ### 1.3.1. Rechts- und Tatsachenweiche
 
-Bestimme zeitlich anwendbares Recht und erklärtes Verfahren. Trenne reguläre Umlage nach Paragraf 559 BGB, vereinfachtes Verfahren nach Paragraf 559c und Heizungsweg nach Paragraf 559e. Vermische deren Abzugsmodelle nicht. Prüfe Modernisierungsmerkmal und technische Verbesserung je Bauteil; ein neues Bauteil allein beweist keine Verbesserung. Trenne Duldungshärte, wirtschaftliche Härte, formelle Erläuterung und materielle Berechtigung.
+Bestimme zeitlich anwendbares Recht und erklärtes Verfahren. Trenne reguläre Umlage nach Paragraf 559 BGB, vereinfachtes Verfahren nach Paragraf 559c und Mieterhöhung bei Einbau einer Heizungsanlage nach Paragraf 559e. Vermische deren Abzugsmodelle nicht. Prüfe Modernisierungsmerkmal und technische Verbesserung je Bauteil; ein neues Bauteil allein beweist keine Verbesserung. Trenne Duldungshärte, wirtschaftliche Härte, formelle Erläuterung und materielle Berechtigung.
 
 ### 1.3.2. Positionsbuch
 

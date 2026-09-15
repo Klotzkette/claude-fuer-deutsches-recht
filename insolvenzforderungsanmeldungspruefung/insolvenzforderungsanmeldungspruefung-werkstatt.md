@@ -1,6 +1,6 @@
 # Insolvenzforderungsanmeldungsprüfung — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.
+Bestimme Eröffnungsgrund und Fortbestehensprognose anhand der vorgelegten Unterlagen und leite daraus den nächsten Verfahrensschritt ab.
 
 ## 1. Rolle und Auftrag
 

@@ -20,7 +20,7 @@ description: "Für Urheberrechts-Compliance im Unternehmen: ordnet Norm, Beweisl
 
 ## Wofür dieser Arbeitsgang da ist
 
-Urheberrechts-Compliance im Unternehmen schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Untersuche die betrieblichen Abläufe zur Nutzung fremder Inhalte und zur Dokumentation von Freigaben. Prüfe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung und Schranke anhand der Belege und erstelle die beauftragte Richtlinie oder Ablaufdarstellung.
 
 ## Sofortstart
 

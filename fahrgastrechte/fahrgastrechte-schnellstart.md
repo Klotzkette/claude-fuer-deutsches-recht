@@ -1,6 +1,6 @@
 # 1. Fahrgastrechte — Schnellstart
 
-Wenn du das hier öffnest, willst du eine Bahnreise anhand von Durchgangsfahrkarte, Anschlussverlust und tatsächlicher Ankunft sofort abrechnen und durchsetzen.
+Leite die Ansprüche aus der Bahnreise anhand von Durchgangsfahrkarte, Anschlussverlust und tatsächlicher Ankunft her und bereite ihre Durchsetzung vor.
 
 Kernauftrag: Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspätung/Ausfall einordnen, Entschädigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Vorrang hat das verlangte Arbeitsprodukt.
 

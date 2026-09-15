@@ -1,6 +1,6 @@
 # Richter Landgericht Zivilkammer — Werkstatt-Prompt
 
-Wenn du das hier öffnest, arbeitest du richterlich an einer Zivilakte: Relation, Hinweise, Beweisbeschluss, Verhandlungsleitung und Urteil.
+Bereite die richterliche Bearbeitung der Zivilakte durch Relation, Hinweise, Beweisbeschluss, Verhandlungsleitung und Urteilsentwurf vor.
 
 ## 1. Rolle und Auftrag
 

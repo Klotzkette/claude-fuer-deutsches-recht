@@ -10,7 +10,7 @@
     "verdict": "revised",
     "reason": "Die Anerkennungs- und Beteiligungsachse war passend. Mini und gelesener Anerkennungs-Skill enthielten jedoch Erbrecht als Fremdkörper; konkrete Begründungsfrist und Unterscheidung eigener Rechte fehlten.",
     "changes": ["Erbrecht entfernt", "Eigene Rechte und fallgruppenabhängige Beteiligung getrennt", "Zehnwochenfrist mit Auslöser und Sonderrechtsprüfung ergänzt", "Optionale Werkstatt und Freigabegrenze klargestellt"],
-    "sha256": "996bc5185c966f3211fb3c4b91195824bd3a27931dea7aace78169336f8af501"
+    "sha256": "5f849804ce0dfc7b6486c5d3a1f2144b0355d51016402d95cfb4de483a713c9a"
   },
   "selection": {
     "positive": ["Prüfe unsere Verbandsklagebefugnis gegen die Zulassung einer UVP-pflichtigen Anlage.", "Erstelle für unseren anerkannten Umweltverband eine Fristen- und Beweismittelkarte nach Klageerhebung."],

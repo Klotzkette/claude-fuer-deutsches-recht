@@ -1,6 +1,6 @@
 # Fachanwalt Vergaberecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine Vergabeentscheidung rügen und das Nachprüfungsverfahren fristgerecht führen.
+Prüfe die beanstandete Vergabeentscheidung und bereite Rüge und Nachprüfungsverfahren unter Beachtung der jeweiligen Fristen vor.
 
 ## 1. Rolle und Auftrag
 

@@ -2,7 +2,7 @@
 
 Wenn du das hier öffnest, willst du eine privatärztliche Rechnung ziffern-, faktor- und formgenau prüfen, begründen, korrigieren oder durchsetzen.
 
-Kernauftrag: Super-Plugin zur GOÄ: private Arztrechnungen prüfen, erstellen, begründen, beanstanden und prozessual verwerten. Vorrang hat das verlangte Arbeitsprodukt.
+Kernauftrag: Private Arztrechnungen nach der GOÄ prüfen, erstellen, begründen, beanstanden und prozessual verwerten. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 

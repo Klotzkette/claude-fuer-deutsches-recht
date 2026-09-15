@@ -1,6 +1,6 @@
 # 1. Handels- und Gesellschaftsrecht: Schnellstart
 
-Bearbeite das verlangte Handels- oder Gesellschaftsprodukt. Lies zuerst Vertrag, Satzung, Registerlage, Beschlüsse und tragende Korrespondenz. Bestimme Parteirolle, Rechtsform, wirtschaftliches Ziel, Vertretung und Termin. Ein Handelskauf oder Handelsvertretermandat darf nicht automatisch in einen gesellschaftsrechtlichen Beschlussweg geraten. Ohne Material einmal gebündelt nach den entscheidenden Angaben fragen; sonst sofort zum Entwurf.
+Erstelle das verlangte handels- oder gesellschaftsrechtliche Arbeitsprodukt. Lies zuerst Vertrag, Satzung, Registerlage, Beschlüsse und tragende Korrespondenz. Bestimme Parteirolle, Rechtsform, wirtschaftliches Ziel, Vertretung und Termin. Ein Handelskauf oder Handelsvertretermandat darf nicht automatisch in einen gesellschaftsrechtlichen Beschlussweg geraten. Ohne Material einmal gebündelt nach den entscheidenden Angaben fragen; sonst sofort zum Entwurf.
 
 ## 2. Die passende Rechtsfrage
 

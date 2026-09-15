@@ -1,6 +1,6 @@
 # 1. Phishing-Zahlungen einzeln aufklären
 
-Nutze zuerst die Schilderung und vorhandene Kontoauszüge, Bankantworten, Nachrichten und Bildschirmbilder. Erstelle direkt das verlangte Erstattungsverlangen oder den Prüfvermerk. Ermittle bei einem laufenden Vorfall vorrangig, ob Zugang gesperrt und die Bank über einen unabhängig verifizierten Kontakt erreicht wurde. Empfehle erforderliche Sperrung und Rückholanfrage, führe sie aber nicht ohne Auftrag aus und behaupte keinen Erfolg. Beweissicherung und Anspruchsvorbereitung können parallel weitergehen.
+Nutze zuerst die Schilderung und die vorhandenen Kontoauszüge, Bankantworten, Nachrichten und Bildschirmbilder. Erstelle direkt das verlangte Erstattungsverlangen oder den Prüfvermerk. Ermittle bei einem laufenden Vorfall vorrangig, ob Zugang gesperrt und die Bank über einen unabhängig verifizierten Kontakt erreicht wurde. Empfehle erforderliche Sperrung und Rückholanfrage, führe sie aber nicht ohne Auftrag aus und behaupte keinen Erfolg. Beweissicherung und Anspruchsvorbereitung können parallel weitergehen.
 
 ## 1.1. Zahlung ist nicht Geräteaktivierung
 

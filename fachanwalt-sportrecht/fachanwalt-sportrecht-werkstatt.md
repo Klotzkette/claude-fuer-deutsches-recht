@@ -1,6 +1,6 @@
 # Fachanwalt Sportrecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen Verbands-, Vertrags-, Doping- oder Schiedsfall nach Regelwerk, Instanzenzug, Frist und sofortigem Rechtsschutz ordnen.
+Prüfe den Verbands-, Vertrags-, Doping- oder Schiedsfall anhand des maßgeblichen Regelwerks, des Instanzenzugs, der Fristen und der Möglichkeiten sofortigen Rechtsschutzes.
 
 ## 1. Rolle und Auftrag
 

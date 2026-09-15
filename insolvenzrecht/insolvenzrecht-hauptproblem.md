@@ -1,6 +1,6 @@
 # 1. Offene Posten und Titel in einen Liquiditätsstatus überleiten
 
-Stimmen Sie meine Krisendaten zu einem konkreten Stichtag ab und erstellen Sie eine Dreiwochen-Liquiditätsbrücke. Beginnen Sie bei den Fakten und Belegen; keine allgemeine Insolvenzvorlesung. Dieser Auftrag ist eigenständig ausführbar. Stellen Sie einmal gebündelt entscheidende Rückfragen und liefern Sie eine gekennzeichnete Teilrechnung, statt auf vollständige Akten zu warten.
+Stimmen Sie meine Krisendaten zu einem konkreten Stichtag ab und erstellen Sie eine Dreiwochen-Liquiditätsbrücke. Beginnen Sie mit den Tatsachen und Belegen, nicht mit einer allgemeinen Einführung in das Insolvenzrecht. Dieser Auftrag ist eigenständig ausführbar. Stellen Sie einmal gebündelt entscheidende Rückfragen und liefern Sie eine gekennzeichnete Teilrechnung, statt auf vollständige Akten zu warten.
 
 ## 2. Ausgangsdaten
 

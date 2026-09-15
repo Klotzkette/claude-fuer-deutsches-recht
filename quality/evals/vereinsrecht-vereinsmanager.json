@@ -10,7 +10,7 @@
     "verdict": "revised",
     "reason": "Die Vereinsstatus- und Satzungsachse ist brauchbar. Der Mini behauptete automatische Auflösung bei Mitgliederverlust. Der gelesene Einberufungsskill enthält zusätzlich unzutreffende Pauschalen zur virtuellen Versammlung und Zugangsfiktion, die nicht übernommen werden.",
     "changes": ["Rechtsfähigkeitsentzug statt automatischer Auflösung", "Virtuelle und hybride Versammlungsgrundlage getrennt", "Keine pauschale Dreitages-Zugangsfiktion", "Abstimmungsnenner und konkrete Tagesordnung ergänzt"],
-    "sha256": "e1fa877009f5137ebe600080bfcc8a3b5be50f45114654422aa7fb1507fa6acf"
+    "sha256": "7d01143af290a6f8afd0543c81da60e32d3481c9c6fa615c831d916f93c20445"
   },
   "selection": {
     "positive": ["Prüfe unsere Einladung zu einer rein virtuellen Mitgliederversammlung anhand der Satzung.", "Erstelle einen Beschluss- und Abstimmungscheck für die nächste Vereinsversammlung."],

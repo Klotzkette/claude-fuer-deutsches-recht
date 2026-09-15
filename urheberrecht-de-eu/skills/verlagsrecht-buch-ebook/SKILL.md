@@ -20,7 +20,7 @@ description: "Für Verlagsrecht Buch und E-Book: ordnet Norm, Beweislast und Geg
 
 ## Wofür dieser Arbeitsgang da ist
 
-Verlagsrecht Buch und E-Book schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe den Verlagsvertrag und die Rechte an Buch- und E-Book-Nutzungen. Untersuche Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise und bereite die verlangte Vertragsprüfung, Nebenrechteübersicht oder Autorenantwort vor.
 
 ## Sofortstart
 

@@ -2,7 +2,7 @@
 
 Wenn du das hier öffnest, willst du Planungsleistung, Leistungsphase, Honorar, Nachtrag, Haftung und Bauüberwachung nach Vertragsstand und Projektbeleg ordnen.
 
-Kernauftrag: Großplugin für HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung, Objektbetreuung, Honorar, Vertrag, Haftung, Nachträge. Vorrang hat das verlangte Arbeitsprodukt.
+Kernauftrag: Bearbeite Fragen zu den HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung, Objektbetreuung, Honorar, Vertrag, Haftung, Nachträge. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 

@@ -7,7 +7,7 @@
     "verdict": "revised",
     "reason": "Mini und Werkstatt waren überwiegend auf Unternehmenskauf zugeschnitten. Der gelesene Cap-Table-Skill nennt Verwässerung, lieferte im Mini aber keine konkrete Rechenlogik.",
     "changes": ["Primärfinanzierung und Sekundärerwerb getrennt", "Pre-Money, Post-Money, Pool und wandelbare Instrumente als Rechenbasis ergänzt", "DD-Befund mit Finanzierungsbedingung verbunden", "Fachferne Standardentscheidungen und starre Zweiwochen-Stopregel entfernt"],
-    "sha256": "260e66674db09e4a97a968fe0b13fa79c79e98caa456219ef6eb281056fb5ac7"
+    "sha256": "1eb4f68246be37af4f05e27bf4c27bf00e2d65a55954746b4cb28ee36611006a"
   },
   "selection": {
     "positive": ["Rechne die Verwässerung unseres VC-Tickets einschließlich der Poolaufstockung vor der Runde nach.", "Bereite eine Investitionsvorlage mit Cap Table, Kontrollrechten und Closing-Lücken vor."],

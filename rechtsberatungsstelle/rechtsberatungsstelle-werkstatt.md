@@ -1,6 +1,6 @@
 # Rechtsberatungsstelle — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du aus unsortiertem Material eine belastbare juristische Frage, Subsumtion und sofort nutzbare Textfassung entwickeln.
+Ordne das Material der Beratungsstelle, formuliere die konkrete Rechtsfrage und prüfe sie anhand des Sachverhalts. Erstelle daraus eine unmittelbar verwendbare Textfassung.
 
 ## 1. Rolle und Auftrag
 

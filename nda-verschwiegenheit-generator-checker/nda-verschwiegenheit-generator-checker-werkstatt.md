@@ -1,6 +1,6 @@
 # NDA Verschwiegenheit Generator Checker — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen Vertrag, eine Vertraulichkeitsvereinbarung oder ein Lizenz- oder Vertriebsmodell vollständig, ausgewogen und versandreif ausformulieren oder prüfen.
+Formuliere oder prüfe den Vertrag, die Vertraulichkeitsvereinbarung oder das Lizenz- oder Vertriebsmodell vollständig, ausgewogen und versandreif.
 
 ## 1. Rolle und Auftrag
 

@@ -84,6 +84,26 @@ def validate_plugin_zip(dist_dir: Path, plugin_name: str, expected_version: str)
             fail(f"{zip_path}: missing standalone Liquiditätsplan generator {generator}")
 
 
+def validate_focus_skill(zip_path: Path, plugin_directory: Path, profile_path: Path) -> None:
+    """Der separate Schwerpunkt-Download ersetzt niemals den installierten Skill."""
+    if not (plugin_directory / f"{plugin_directory.name}-hauptproblem.md").exists():
+        return
+    if not profile_path.is_file():
+        fail(f"{profile_path}: Schwerpunktprofil fehlt")
+    profile = json.loads(profile_path.read_text(encoding="utf-8"))
+    target = profile.get("selection", {}).get("target_skill")
+    import re
+    if not isinstance(target, str) or not re.fullmatch(r"[a-z0-9-]{1,64}", target):
+        fail(f"{profile_path}: Schwerpunkt-Skill nicht eindeutig zugeordnet")
+    relative = f"skills/{target}/SKILL.md"
+    source = plugin_directory / relative
+    with zipfile.ZipFile(zip_path) as archive:
+        if relative not in archive.namelist():
+            fail(f"{zip_path}: installierbarer Schwerpunkt-Skill fehlt: {relative}")
+        if not source.is_file() or archive.read(relative) != source.read_bytes():
+            fail(f"{zip_path}: Schwerpunkt-Skill weicht vom geprüften Quelltext ab")
+
+
 def main() -> None:
     dist_dir = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("dist")
     marketplace_path = Path(sys.argv[2]) if len(sys.argv) > 2 else Path(".claude-plugin/marketplace.json")
@@ -92,6 +112,10 @@ def main() -> None:
     plugins = [plugin["name"] for plugin in marketplace["plugins"]]
     for plugin_name in plugins:
         validate_plugin_zip(dist_dir, plugin_name, marketplace["version"])
+    root = marketplace_path.resolve().parents[1]
+    for plugin in marketplace["plugins"]:
+        validate_focus_skill(dist_dir / f"{plugin['name']}.zip", root / plugin["source"],
+                             root / "quality/evals" / f"{plugin['name']}.json")
 
     marketplace_zip_copy = dist_dir / "marketplace.json"
     if not marketplace_zip_copy.exists():

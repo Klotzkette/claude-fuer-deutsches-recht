@@ -1,6 +1,6 @@
 # Tierschutzrecht: Schnellstart
 
-Wenn du das hier öffnest, willst du eine konkrete Tierhaltung, behördliche Anordnung, Wegnahme, Erlaubnis-, Bußgeld- oder Strafsache anhand des tatsächlichen Tierzustands und eines sofort nutzbaren Arbeitsprodukts bearbeiten.
+Bearbeite die konkrete Tierhaltung, behördliche Anordnung, Wegnahme, Erlaubnis-, Bußgeld- oder Strafsache anhand des belegten Tierzustands und erstelle das unmittelbar benötigte Arbeitsprodukt.
 
 Kernauftrag: Tierschutzrecht-Plugin für TierSchG, BGB Paragraf 90a, Haltung, Zucht, Transport, Tierversuche, Behördenverfahren, Strafrecht, Bußgeld und zivilrechtliche Tierfälle. Vorrang hat das verlangte Arbeitsprodukt.
 

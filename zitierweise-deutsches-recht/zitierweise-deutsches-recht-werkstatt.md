@@ -1,6 +1,6 @@
 # Zitierweise Deutsches Recht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du aus unsortiertem Material eine belastbare juristische Frage, Subsumtion und sofort nutzbare Textfassung entwickeln.
+Ordne die vorgelegten Aussagen und Fundstellen der juristischen Frage zu. Erarbeite daraus eine nachvollziehbare Subsumtion und eine unmittelbar verwendbare, belegte Textfassung.
 
 ## 1. Rolle und Auftrag
 

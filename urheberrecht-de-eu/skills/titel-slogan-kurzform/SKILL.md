@@ -20,7 +20,7 @@ description: "Für Titel, Slogan und Kurzform: ordnet Norm, Beweislast und Gegen
 
 ## Wofür dieser Arbeitsgang da ist
 
-Titel, Slogan und Kurzform schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Untersuche den konkreten Titel, Slogan oder Kurztext und grenze die in Betracht kommenden Schutzrechte ab. Prüfe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise und erläutere das verlangte Ergebnis zur Schutzfähigkeit und Nutzung.
 
 ## Sofortstart
 

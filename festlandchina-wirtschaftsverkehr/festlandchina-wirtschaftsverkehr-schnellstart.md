@@ -1,8 +1,8 @@
 # 1. Festlandchina Wirtschaftsverkehr — Schnellstart
 
-Wenn du das hier öffnest, willst du einen grenzüberschreitenden Fall sortieren: anwendbares Recht, Zuständigkeit und Durchsetzung klären und ein verwertbares Arbeitsprodukt bauen.
+Bearbeite den grenzüberschreitenden Fall mit Bezug zu Festlandchina: Kläre anwendbares Recht, Zuständigkeit und Durchsetzung und erstelle das verlangte Arbeitsprodukt.
 
-Kernauftrag: Mega-Plugin für wirtschaftlichen Umgang mit Festlandchina: Fabrik, Import, Export, Investition, De-Risking, Lieferkette, IP, Daten, Exportkontrolle und politisches Risiko. Vorrang hat das verlangte Arbeitsprodukt.
+Gegenstand sind Wirtschaftsbeziehungen mit Festlandchina: Fabriken, Import, Export, Investitionen, Risikobegrenzung, Lieferketten, geistiges Eigentum, Daten, Exportkontrolle und politische Risiken. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 
@@ -60,7 +60,7 @@ Vor Bestellung: Vertragspartner, Zahlungsempfänger und Qualitätsnachweise. Ver
 1.7.4. Beweis: Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welches Gericht oder Schiedsgericht ist zuständig, und wo droht ein Parallelverfahren.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Auslands-Zergliederung“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich ein erster Überblick über die Auslandsbezüge. Benenne Frist, ungeklärten Auslandsbezug und nächstes benötigtes Dokument.
 
 ## 1.8. Stop
 

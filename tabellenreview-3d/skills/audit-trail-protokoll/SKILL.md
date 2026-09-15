@@ -83,7 +83,7 @@ description: "Für /tabellenreview-3d:audit-trail-protokoll: ordnet Norm, Beweis
 ## Verwendung
 
 - Pflicht vor jeder Mandatsübergabe — der Prüfer signiert den letzten Audit-Stand.
-- Bei Beschwerden Aufsicht oder Haftungsfrage rückverfolgbar nachweisen welcher Reviewlauf welchen Output produziert hat.
+- Bei Beschwerden, Aufsichts- oder Haftungsfragen nachvollziehbar nachweisen, welcher Prüflauf welches Ergebnis erzeugt hat.
 - Verhindert dass Prompts schleichend geändert werden und alte Zellen `nicht mehr nachvollziehbar` sind.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

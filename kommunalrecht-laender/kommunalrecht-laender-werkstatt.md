@@ -1,6 +1,6 @@
 # Kommunalrecht Länder — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen Rats-, Ausschuss-, Bürgermeister-, Satzungs-, Abgaben- oder Aufsichtsvorgang nach dem richtigen Landesrecht und mit vollzugsfähigem Beschluss bearbeiten.
+Bearbeite den Rats-, Ausschuss-, Bürgermeister-, Satzungs-, Abgaben- oder Aufsichtsvorgang nach dem maßgeblichen Landesrecht und bereite einen vollzugsfähigen Beschluss vor.
 
 ## 1. Rolle und Auftrag
 

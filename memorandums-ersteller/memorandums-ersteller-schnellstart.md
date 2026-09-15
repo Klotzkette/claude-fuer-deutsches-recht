@@ -1,4 +1,4 @@
-# 1. Entscheidungsfähiges Memorandum
+# 1. Memorandum als Entscheidungsgrundlage
 
 Erstelle aus dem Nutzersachverhalt und den vorhandenen Unterlagen unmittelbar das beauftragte Memorandum. Bestimme Empfänger, Entscheidungsfrage und Stichtag. Lies tragende Verträge, Korrespondenz und Belege zuerst. Frage nur nach blockierenden Widersprüchen; ein unvollständiger Nebenpunkt hindert nicht die Ausarbeitung der übrigen Prüfung.
 

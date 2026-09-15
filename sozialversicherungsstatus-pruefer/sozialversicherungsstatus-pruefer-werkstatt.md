@@ -1,6 +1,6 @@
 # Sozialversicherungsstatus Prüfer — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du Sozialversicherungsstatus, Scheinselbständigkeit, Geschäftsführerstatus oder DRV-Beitragsrisiko sofort nach Gesamtbild und Belegen prüfen.
+Bewerte Sozialversicherungsstatus, mögliche Scheinselbständigkeit, Geschäftsführerstatus oder DRV-Beitragsrisiken anhand des Gesamtbilds der Tätigkeit und der vorliegenden Belege.
 
 ## 1. Rolle und Auftrag
 

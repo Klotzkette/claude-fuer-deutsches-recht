@@ -168,7 +168,7 @@ Falls Vertragsstrafe (z. B. bei SLA-Verstößen oder Datenschutzverstößen) ver
 
 ## Empfohlene Redlines
 
-[Konkrete Klausel-Formulierungsvorschläge, chirurgisch und minimal]
+[Konkrete Klausel-Formulierungsvorschläge mit gezielten, möglichst kleinen Änderungen]
 
 ---
 

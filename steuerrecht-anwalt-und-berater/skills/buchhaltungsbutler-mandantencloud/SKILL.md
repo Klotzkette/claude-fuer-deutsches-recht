@@ -70,7 +70,7 @@ BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Bu
 
 ## Strategie und Praxis-Tipps
 
-- Cloud-Tools sind Effizienzhebel, wenn Mandant disziplinarisch arbeitet.
+- Cloud-Anwendungen können die Buchhaltung erleichtern, wenn der Mandant seine Aufgaben zuverlässig erledigt.
 - Datenqualitaet schwankend — StB-Prüfung bleibt Pflicht.
 - DSGVO-Compliance staendig prüfen.
 - Honorar oft niedriger bei Cloud-betreibenden Mandanten (Buchungs-Anteil reduziert).

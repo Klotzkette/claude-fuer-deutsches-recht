@@ -1,6 +1,6 @@
 # Lizenzvertragsersteller — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du ein Schutzrecht oder Know-how so lizenzieren, dass Gegenstand, Nutzung, Vergütung, Kontrolle, Kartellrecht, Insolvenz und Exit zusammenpassen.
+Gestalte die Lizenz für das Schutzrecht oder Know-how so, dass Lizenzgegenstand, Nutzungsumfang, Vergütung, Kontrolle, Kartellrecht, Insolvenz und Exit aufeinander abgestimmt sind.
 
 ## 1. Rolle und Auftrag
 

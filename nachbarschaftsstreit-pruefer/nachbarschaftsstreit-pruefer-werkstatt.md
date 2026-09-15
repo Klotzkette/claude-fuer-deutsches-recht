@@ -1,6 +1,6 @@
 # Nachbarschaftsstreit Prüfer — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen Grenz-, Immissions-, Überhang-, Überbau-, Notweg- oder Einfriedungsstreit aus Grundstücksdaten, Ortsbefund und Landesrecht in ein brauchbares Schreiben oder Verfahren bringen.
+Werte Grundstücksdaten und Ortsbefund für den Grenz-, Immissions-, Überhang-, Überbau-, Notweg- oder Einfriedungsstreit aus. Erstelle unter Berücksichtigung des Landesrechts das benötigte Schreiben oder bereite den Verfahrensschritt vor.
 
 ## 1. Rolle und Auftrag
 

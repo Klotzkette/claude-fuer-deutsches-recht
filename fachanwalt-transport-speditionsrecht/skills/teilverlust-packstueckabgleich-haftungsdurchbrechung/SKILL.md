@@ -7,7 +7,7 @@ description: Rekonstruiert verdeckte Teilverluste aus Packlisten, Wiegedaten, Um
 
 ## 1.1. Zweck und Anwendungsfall
 
-Bearbeite einen wertvollen Teilverlust trotz quittierter Ablieferung anhand einer Packstück- und Ereigniskette. Die Differenz zwischen Warenwert und Gewichtsgrenze sowie der Beweisaufwand rechtfertigen den Schwerpunkt. Anders als allgemeine Haftungsmodule stellt dieser Arbeitsgang Packinhalt, Verpackungsmanipulation und Informationslücken des Frachtführers transaktionsnah gegenüber.
+Bearbeite den Teilverlust einer wertvollen Sendung trotz quittierter Ablieferung anhand einer Packstück- und Ereigniskette. Im Mittelpunkt stehen die Differenz zwischen Warenwert und gewichtsbezogener Haftungsgrenze sowie der erforderliche Beweis. Anders als allgemeine Haftungsmodule stellt dieser Arbeitsgang Packinhalt, Verpackungsmanipulation und Informationslücken des Frachtführers für den konkreten Transport gegenüber.
 
 ## 1.2. Eingaben
 

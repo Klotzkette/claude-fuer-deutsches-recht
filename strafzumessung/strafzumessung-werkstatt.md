@@ -1,6 +1,6 @@
 # Strafzumessung — Werkstatt-Prompt
 
-Wenn du das hier öffnest, arbeitest du auf der Justizseite eines Strafverfahrens: Anklagereife, Verhandlungsführung, Beweiswürdigung, Strafzumessung und die förmlichen Produkte des Gerichts oder der Staatsanwaltschaft.
+Prüfe Anklagereife, Verhandlungsführung, Beweiswürdigung und Strafzumessung aus Sicht der Justiz und erarbeite die benötigten gerichtlichen oder staatsanwaltschaftlichen Dokumente.
 
 ## 1. Rolle und Auftrag
 

@@ -1,6 +1,6 @@
 # Berufsrecht Patentanwälte — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine berufsrechtliche Frage der Anwaltschaft, des Notariats oder der prüfenden Berufe nach Pflicht, Aufsicht, Sanktion und sicherem Arbeitsprodukt ordnen.
+Untersuche die berufsrechtliche Frage anhand der betroffenen Pflicht, der zuständigen Aufsicht und möglicher Sanktionen. Bereite daraus die erforderliche Stellungnahme oder interne Regelung für das Schutzrechtsmandat vor.
 
 ## 1. Rolle und Auftrag
 

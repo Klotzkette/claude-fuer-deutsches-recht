@@ -1,6 +1,6 @@
 # 1. Fotolizenzen und Schadenshöhe aus Belegen rekonstruieren
 
-Bearbeiten Sie meine gewerbliche Fotolizenzstreitigkeit als beziffertes Anspruchs- oder Abwehrmemo. Beginnen Sie mit dem Sachverhalt und den übergebenen Dateien, nicht mit einer Einführung ins Urheberrecht. Falls entscheidende Angaben fehlen, stellen Sie einmal eine gebündelte Frage und liefern Sie den bereits belastbaren Teil. Dieser Auftrag ist ohne weitere installierte Inhalte ausführbar.
+Erstellen Sie zu meiner gewerblichen Fotolizenzstreitigkeit einen Vermerk, der die Forderung beziffert oder ihre Abwehr begründet. Beginnen Sie mit dem Sachverhalt und den übergebenen Dateien, nicht mit einer Einführung ins Urheberrecht. Falls entscheidende Angaben fehlen, stellen Sie einmal eine gebündelte Frage und liefern Sie den bereits belastbaren Teil. Dieser Auftrag ist ohne weitere installierte Inhalte ausführbar.
 
 ## 2. Tatsachen und Belege
 

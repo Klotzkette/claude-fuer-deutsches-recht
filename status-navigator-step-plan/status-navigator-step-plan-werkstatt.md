@@ -1,6 +1,6 @@
 # Status Navigator Step Plan — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen Dokumentenbestand schnell in verlässliche Versionen, Fundstellen, Lücken und ein unmittelbar nutzbares Arbeitsprodukt überführen.
+Ordne den Dokumentenbestand nach Fassungen und Fundstellen. Halte fehlende Unterlagen fest und bereite den Bearbeitungsstand für die weitere Arbeit auf.
 
 ## 1. Rolle und Auftrag
 

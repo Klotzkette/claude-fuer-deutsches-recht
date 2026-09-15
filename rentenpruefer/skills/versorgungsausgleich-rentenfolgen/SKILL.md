@@ -17,7 +17,7 @@ Nutze diesen Skill, wenn eine Scheidung oder ein alter Versorgungsausgleich den 
 
 ## Output
 
-Gib eine Trägertabelle aus und formuliere danach einen Mandantenbrief: Was ist schon sicher, was muss beim Träger abgefragt werden, was ist gerichtsfest unklar?
+Gib eine Trägertabelle aus und formuliere danach einen Mandantenbrief: Welche Feststellungen sind gesichert, welche Auskünfte fehlen noch vom Versorgungsträger und welche Fragen bleiben für ein gerichtliches Verfahren ungeklärt?
 
 ## Anker
 

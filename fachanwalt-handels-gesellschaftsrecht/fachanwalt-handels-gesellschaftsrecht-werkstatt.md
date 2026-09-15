@@ -1,6 +1,6 @@
 # Fachanwalt Handels Gesellschaftsrecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
+Prüfe die Voraussetzungen der gesellschaftsrechtlichen Maßnahme und bereite Beschlussfassung und Dokumentation vor.
 
 ## 1. Rolle und Auftrag
 

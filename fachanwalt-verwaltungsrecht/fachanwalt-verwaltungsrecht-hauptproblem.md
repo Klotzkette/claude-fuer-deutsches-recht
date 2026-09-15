@@ -10,7 +10,7 @@ Bestimmen Sie das anwendbare Landes- oder Bundesrecht und Sonderregeln. Untersch
 
 ## 3. Zweck, Geld und Frist
 
-Extrahieren Sie die konkrete Zwecksetzung aus Bescheid und einbezogenen Regeln. Unterscheiden Sie Bereitstellung, tatsächliche Nutzung und Ergebnisziel. Eine bloß nachträglich genannte Verwaltungspraxis ändert den Zweck nicht.
+Ermitteln Sie die konkrete Zwecksetzung anhand des Bescheids und der einbezogenen Regeln. Unterscheiden Sie Bereitstellung, tatsächliche Nutzung und Ergebnisziel. Eine bloß nachträglich genannte Verwaltungspraxis ändert den Zweck nicht.
 
 Ordnen Sie jeder Kostenkürzung Rechnung, Zahlung, Projektbezug, Zeitraum, konkrete Klausel und Gegenbeleg zu. Fehlende Belege und nachgewiesene Zweckverfehlung sind nicht dasselbe. Prüfen Sie Eigenmittel und Doppelförderung. Rechnen Sie entsprechend Anteil-, Festbetrags- oder Fehlbedarfsfinanzierung. Zeigen Sie Behördenszenario und belegtes Gegenmodell. Eine Differenz zwischen Auszahlung und rechnerischem Förderbetrag ersetzt nicht die Prüfung der rechtlichen Rückforderungsvoraussetzungen.
 

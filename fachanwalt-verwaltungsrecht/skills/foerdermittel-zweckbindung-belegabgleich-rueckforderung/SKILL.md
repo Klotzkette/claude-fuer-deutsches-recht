@@ -5,7 +5,7 @@ description: Prüft Fördermittelrückforderungen durch Abgleich von Bewilligung
 
 # 1. Zweck und Anwendungsfall
 
-Bearbeite einen drohenden oder verfügten Teilwiderruf samt Erstattung. Der Schwerpunkt eignet sich wegen der verzahnten Bescheid-, Verwendungsnachweis- und Fristenarbeit und des unmittelbaren Liquiditätsrisikos. Anders als `ruecknahme-rest-paragraf-48-vwvfg` führt er jede Kostenkürzung auf den konkreten Förderzweck und eine gesonderte Aufhebungsentscheidung zurück.
+Bearbeite einen drohenden oder verfügten Teilwiderruf samt Erstattung. Der Schwerpunkt verbindet die Prüfung der Bescheide, Verwendungsnachweise und Fristen; zugleich betrifft die Rückforderung unmittelbar die Liquidität. Anders als `ruecknahme-rest-paragraf-48-vwvfg` führt er jede Kostenkürzung auf den konkreten Förderzweck und eine gesonderte Aufhebungsentscheidung zurück.
 
 ## 2. Eingaben
 

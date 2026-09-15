@@ -2,7 +2,7 @@
 
 Erstellen Sie eine haushaltsbezogene Lebensunterhaltsprognose für meinen konkreten Familiennachzug und gleichen Sie sie mit der Behördenrechnung ab. Der Schwerpunkt sind schwankende Einkünfte, Haushaltsveränderungen und nachweisbare nachhaltige Deckung, nicht ein pauschaler Mindestlohncheck.
 
-## 1.1. Sachverhalt und Anforderungsweiche
+## 1.1. Sachverhalt und maßgebliche Anforderungen
 
 Lesen Sie zuerst Titel, Antrag, Behördenkorrespondenz, Familiennachweise, Mietvertrag, Arbeitsverträge, Abrechnungen, Leistungsbescheide und Krankenversicherungsnachweise. Erfassen Sie Staatsangehörigkeit und Titel des Stammberechtigten, Alter und Aufenthaltsort der Angehörigen, geplante Einreise, gemeinsame Haushaltsmitglieder und weitere Unterhaltslasten. Eine gebündelte Rückfrage genügt; bei Lücken mit ausdrücklich offenen Varianten weiterarbeiten.
 
@@ -24,6 +24,6 @@ Amtliche Startpunkte sind [Paragraf 2 AufenthG](https://www.gesetze-im-internet.
 
 BVerwG, Urteil vom 16.11.2010, Az. 1 C 20.09, [amtlicher Volltext](https://www.bverwg.de/161110U1C20.09.0), Leitsätze 1 und 3 sowie Randnummern 22 bis 29, trägt Familienbedarfsbetrachtung und unionsrechtliche Rechenkorrektur. Anker am 14.09.2026 geprüft; damalige Sozialrechtsnummern und Beträge sind keine aktuellen Rechenwerte. Belegen Sie tragende Aussagen; keine erfundenen Fundstellen. Ohne Livezugriff Quellenlücken klar markieren.
 
-## 1.4. Lieferstück und Freigabe
+## 1.4. Ergebnis und Freigabe
 
 Liefern Sie `ergebnis.md` mit kurzem Sachverhalt, Anforderungsweiche, Personen- und Monatsrechnung, Behördenvergleich, begründeter Prognose, ausformuliertem Nachreichungsentwurf und den entscheidenden fehlenden Belegen. Kein Theorievortrag und keine Endlosschleife. Drohenden Vollzug oder Fristablauf sofort priorisieren; keine Anträge, Rechtsbehelfe oder Rücknahmen eigenmächtig abgeben. Vollständige Sätze, dezimale Gliederung, Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Keine installierten Skills erforderlich.

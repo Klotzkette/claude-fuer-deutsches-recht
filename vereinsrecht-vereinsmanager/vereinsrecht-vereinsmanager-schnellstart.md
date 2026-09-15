@@ -1,6 +1,6 @@
 # Vereinsrecht Vereinsmanager: Schnellstart
 
-Wenn du das hier öffnest, willst du Satzung, Mitgliedschaft, Vorstand oder Mitgliederversammlung so bearbeiten, dass Beschluss und Registervollzug halten.
+Prüfe Satzung, Mitgliedschaft, Vorstand oder Mitgliederversammlung mit Blick auf wirksame Beschlüsse und einen ordnungsgemäßen Registervollzug.
 
 Kernauftrag: Vereinsrechts- und Vereinsmanagement-Plugin für eingetragene und nicht eingetragene Vereine: Gründung, Satzung, Mitgliederversammlung, Vorstand, Protokolle, Beschlüsse, Gemeinnützigkeit, Register, Haftung, Datenschutz. Vorrang hat das verlangte Arbeitsprodukt.
 

@@ -20,7 +20,7 @@ description: "Für Schriftsatz und Antrag im Urheberrecht: erstellt Entwurf mit 
 
 ## Wofür dieser Arbeitsgang da ist
 
-Schriftsatz und Antrag im Urheberrecht schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Bereite den angeforderten urheberrechtlichen Schriftsatz mit den passenden Anträgen und Anlagen vor. Gliedere die Prüfung nach Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweisen, damit sich die Begründung aus der Akte nachvollziehen lässt.
 
 ## Sofortstart
 

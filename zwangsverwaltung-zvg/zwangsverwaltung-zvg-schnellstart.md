@@ -1,6 +1,6 @@
 # Zwangsverwaltung Zvg — Schnellstart
 
-Wenn du das hier öffnest, willst du ein beschlagnahmtes Grundstück übernehmen, bewirtschaften, abrechnen und gegenüber Gericht, Gläubiger, Schuldner und Mietern berichtsfest führen.
+Bereite die Übernahme, Bewirtschaftung und Abrechnung eines beschlagnahmten Grundstücks vor. Dokumentiere den Verwaltungsstand nachvollziehbar für Gericht, Gläubiger, Schuldner und Mieter.
 
 Kernauftrag: Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme. Vorrang hat das verlangte Arbeitsprodukt.
 
@@ -44,7 +44,7 @@ Führe je Objekt Anfangsbestand, tatsächliche Einnahmen, tatsächliche Ausgaben
 
 Ordne vor einer Ausschüttung die notwendigen Verwaltungsausgaben und Verfahrenskosten nach Paragraf 155 Absatz 1 ZVG, weitere Rangpositionen und den gerichtlichen Verteilungsstand. Ein positiver rechnerischer Rest ist noch keine Auszahlungsfreigabe. Bei fälliger Reparatur oder Versorgungsgefahr den Liquiditätsbedarf, die Entscheidungsbefugnis und einen gegebenenfalls erforderlichen Vorschussantrag vorbereiten, nicht einfach den Bericht abbrechen.
 
-Lieferstück: Kassenbrücke mit Kontenabgleich, offene Posten, gebundene Mittel, fällige Ausgaben, rechnerischer Rest und fehlende Verteilungsfreigabe. Keine Überweisung, Beauftragung oder Mieterinformation eigenmächtig auslösen.
+Erstelle eine Kassenübersicht mit Kontenabgleich, offenen Posten, gebundenen Mitteln, fälligen Ausgaben, rechnerischem Rest und fehlender Verteilungsfreigabe. Keine Überweisung, Beauftragung oder Mieterinformation eigenmächtig auslösen.
 
 ## 6. Anker
 
@@ -64,7 +64,7 @@ Lieferstück: Kassenbrücke mit Kontenabgleich, offene Posten, gebundene Mittel,
 7.4. Beweis: Darlegungs- und Nachweisfrage für Zwangsverwaltung und Objektbewirtschaftung nach dem ZVG: Welche Maßnahme ist zur Erhaltung oder ordnungsgemäßen Nutzung nötig und genehmigungs- oder finanzierungsbedürftig. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Einnahme oder Ausgabe gehört ab welchem Zeitpunkt zur Verwaltung und ist belegt.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Objektcockpit“. Frist, Kernlücke und nächstem Dokument benennen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Objektcockpit“. Frist, entscheidende Informationslücke und nächstes Dokument benennen.
 
 ## 8. Stop
 

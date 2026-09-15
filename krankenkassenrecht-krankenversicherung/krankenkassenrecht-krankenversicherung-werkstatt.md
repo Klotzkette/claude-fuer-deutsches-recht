@@ -1,6 +1,6 @@
 # Krankenkassenrecht Krankenversicherung — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.
+Prüfe den angegriffenen Sozialleistungsbescheid und bereite die Durchsetzung des geltend gemachten Anspruchs vor.
 
 ## 1. Rolle und Auftrag
 

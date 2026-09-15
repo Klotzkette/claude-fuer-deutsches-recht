@@ -1,6 +1,6 @@
 # Markenrecht Fashion Luxus — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine deutsche oder unionsweite Marke anmelden, gegen eine Kollision vorgehen oder eine Verletzung belastbar angreifen oder abwehren.
+Bereite die Anmeldung einer deutschen Marke oder Unionsmarke vor oder bearbeite den konkreten Kollisions- oder Verletzungsfall aus der vorgegebenen Parteirolle.
 
 ## 1. Rolle und Auftrag
 

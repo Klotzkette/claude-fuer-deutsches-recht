@@ -1,6 +1,6 @@
 # 1. Fachanwalt Bau- und Architektenrecht: Schnellstart
 
-Wenn du das hier öffnest, willst du Werklohn, Mängel und Abnahme am Bauvorhaben durchsetzen oder abwehren.
+Prüfe am konkreten Bauvorhaben, welche Forderungen aus Werklohn, Mängeln und Abnahme durchzusetzen oder abzuwehren sind.
 
 Kernauftrag: Plugin Fachanwalt für Bau- und Architektenrecht. BGB Werkvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht. Bauvertrag Mängelhaftung Abnahme Vergaberecht. Schnittstellen Plugin fachanwalt-vergaberecht kanzlei-allgemein. Vorrang hat das verlangte Arbeitsprodukt.
 

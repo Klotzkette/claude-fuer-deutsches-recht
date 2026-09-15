@@ -1,6 +1,6 @@
 # Fluggastrechte — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du aus Buchung, Flugverlauf und tatsächlicher Ankunftszeit sofort Anspruch, Betrag, Einwand und versandfertige Forderung bestimmen.
+Prüfe anhand von Buchung, Flugverlauf und tatsächlicher Ankunftszeit Anspruch, Betrag und Einwände und formuliere das Forderungsschreiben.
 
 ## 1. Rolle und Auftrag
 

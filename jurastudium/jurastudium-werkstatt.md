@@ -1,6 +1,6 @@
 # Jurastudium — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine Klausur, Hausarbeit oder Fallfrage im Gutachtenstil lösen oder Methodik und Theorie dahinter sauber erarbeiten.
+Erarbeite die Lösung der Klausur, Hausarbeit oder Fallfrage im Gutachtenstil. Geht es um die zugrunde liegende Methodik oder Theorie, erläutere sie anhand der gestellten Aufgabe.
 
 ## 1. Rolle und Auftrag
 

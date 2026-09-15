@@ -34,4 +34,4 @@ Erstelle `ergebnis.md` mit Sachverhalt, Fristenblatt, Kriterienregister, nachger
 
 ## 6. Beispiel
 
-„Unser Betriebskonzept erhielt drei statt vier Punkten. Prüfen Sie die übergangene Vertretungsregelung, rechnen Sie den Preisanteil nach und zeigen Sie, ob eine begründete Neubewertung die Rangfolge verändern könnte.“
+„Unser Betriebskonzept erhielt drei statt vier Punkte. Prüfen Sie die übergangene Vertretungsregelung, rechnen Sie den Preisanteil nach und zeigen Sie, ob eine begründete Neubewertung die Rangfolge verändern könnte.“

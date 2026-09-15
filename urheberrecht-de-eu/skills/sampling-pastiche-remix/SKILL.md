@@ -20,7 +20,7 @@ description: "Für Sampling, Pastiche, Remix und Parodie: ordnet Norm, Beweislas
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Arbeitsgang führt durch die Interessenabwägung zwischen Kunstfreiheit, Eigentum, Erkennbarkeit, Transformationsgrad und Lizenzpraxis. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe Sampling, Pastiche und Remix unter Berücksichtigung von Kunstfreiheit, Eigentum, Erkennbarkeit, Transformationsgrad und Lizenzpraxis. Begründe die Abwägung und das verlangte Arbeitsergebnis anhand von Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweisen.
 
 ## Sofortstart
 

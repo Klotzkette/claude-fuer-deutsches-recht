@@ -47,7 +47,7 @@ Dieser Skill gestaltet das Settlement-Narrativ so, dass es die Kooperationsanfor
 - Formulierungen, die systemisches Versagen nahelegen, erhöhen Regressansprüche gegen Organmitglieder.
 
 ### 5. Koordination mit Zivilklagen-Risiko
-- US Class Actions: Aktionärsklagen nach Securities Exchange Act; Settlement-Narrativ ist Munition für Kläger.
+- US Class Actions: Aktionärsklagen nach Securities Exchange Act; Kläger können die im Settlement enthaltene Sachverhaltsdarstellung zur Begründung ihrer Ansprüche verwenden.
 - Deutsche Aktionärsklagen: § 148 AktG (Sonderprüfung) und § 147 AktG (Geltendmachung von Schadensersatzansprüchen).
 - Abwägung: schnelles Settlement mit DOJ kann Zivilklagen-Exposition erhöhen; langwieriges Verfahren erhöht DOJ-Sanktionsrisiko.
 
@@ -89,4 +89,3 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

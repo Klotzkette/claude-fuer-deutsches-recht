@@ -5,7 +5,7 @@ description: "Rekonstruiert bestrittene Onlineüberweisungen anhand von Freigabe
 
 # 1. Zweck und Anwendungsfall
 
-Bearbeite hohe Kontobelastungen, deren Zustimmung bestritten wird. Die wirtschaftliche Bedeutung liegt im unmittelbaren Liquiditätsverlust; der Arbeitsaufwand entsteht durch widersprüchliche technische und menschliche Abläufe. Anders als die allgemeine Bankprozess-Endfertigung wird jede Überweisung mit ihrer eigenen Freigabe- und Beweiskette geprüft. Nicht für Anlageberatung oder bloß fehlerhafte Ausführung einer unstreitig autorisierten Überweisung.
+Prüfe hohe Kontobelastungen, bei denen die Zustimmung zur Zahlung bestritten wird. Die wirtschaftliche Bedeutung liegt im unmittelbaren Liquiditätsverlust; aufwendig ist der Abgleich technischer Aufzeichnungen mit den Angaben der Beteiligten. Anders als bei der allgemeinen Vorbereitung eines Bankprozesses wird jede Überweisung mit ihrer eigenen Freigabe- und Beweiskette geprüft. Nicht für Anlageberatung oder bloß fehlerhafte Ausführung einer unstreitig autorisierten Überweisung.
 
 ## 1.1. Eingaben
 

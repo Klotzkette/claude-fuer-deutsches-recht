@@ -20,7 +20,7 @@ description: "Für Presseleistungsschutz und Snippets: ordnet Norm, Beweislast u
 
 ## Wofür dieser Arbeitsgang da ist
 
-Presseleistungsschutz und Snippets schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe die Nutzung von Presseveröffentlichungen und Textauszügen im Hinblick auf den Presseleistungsschutz. Begründe das verlangte Ergebnis zu Lizenzbedarf oder Verteidigung anhand von Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweisen.
 
 ## Sofortstart
 

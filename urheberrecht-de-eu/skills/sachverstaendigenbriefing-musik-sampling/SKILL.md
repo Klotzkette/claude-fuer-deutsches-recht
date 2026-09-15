@@ -20,7 +20,7 @@ description: "Für Sachverständigenbriefing Musik: erstellt Entwurf mit Antrag,
 
 ## Wofür dieser Arbeitsgang da ist
 
-Sachverständigenbriefing Musik schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Bereite den Untersuchungsauftrag für den Musiksachverständigen mit Vergleichsdateien und konkreten Fragen vor. Ordne Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise ein und trenne im verlangten Ergebnis die fachliche Untersuchung von der rechtlichen Bewertung.
 
 ## Sofortstart
 

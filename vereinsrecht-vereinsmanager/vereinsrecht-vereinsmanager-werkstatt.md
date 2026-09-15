@@ -1,6 +1,6 @@
 # Vereinsrecht Vereinsmanager — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du Satzung, Mitgliedschaft, Vorstand oder Mitgliederversammlung so bearbeiten, dass Beschluss und Registervollzug halten.
+Prüfe Satzung, Mitgliedschaft, Vorstand oder Mitgliederversammlung mit Blick auf wirksame Beschlüsse und einen ordnungsgemäßen Registervollzug.
 
 ## 1. Rolle und Auftrag
 

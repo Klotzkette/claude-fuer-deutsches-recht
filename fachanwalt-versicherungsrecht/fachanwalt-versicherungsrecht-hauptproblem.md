@@ -1,6 +1,6 @@
 # 1. Berufsunfähigkeit aus Tätigkeit und Befund belegen
 
-Prüfen Sie meine private BU-Leistungsablehnung anhand des tatsächlich zuletzt gesund ausgeübten Berufs. Liefern Sie ein Beweismemo und eine vollständige Erwiderung, keinen allgemeinen Theorievortrag. Sie benötigen keine weiteren installierten Inhalte. Fragen Sie fehlende Kerndaten einmal gebündelt ab und arbeiten Sie im Übrigen mit klar gekennzeichneten Lücken.
+Prüfen Sie meine private BU-Leistungsablehnung anhand des tatsächlich zuletzt gesund ausgeübten Berufs. Liefern Sie einen Vermerk zur Beweislage und eine vollständige Erwiderung, keine allgemeine theoretische Einführung. Sie benötigen keine weiteren installierten Inhalte. Fragen Sie fehlende Kerndaten einmal gebündelt ab und arbeiten Sie im Übrigen mit klar gekennzeichneten Lücken.
 
 ## 2. Sachverhalt zuerst
 

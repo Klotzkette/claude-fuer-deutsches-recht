@@ -14,7 +14,7 @@ Bei einer Wirtschaftsprüfungsgesellschaft prüfe auch die gesetzlich einbezogen
 
 Ordne Feststellung, Prüfungshandlung, verwendeten Nachweis, Schlussfolgerung und Review zu. Eine Checkliste ohne zugrunde liegenden Nachweis belegt keine abgeschlossene Prüfung. Bei fehlenden Arbeitspapieren unterscheide nicht ausgeführte Handlung, fehlende Dokumentation und erst nachträglich erhaltene Information. Keine rückdatierten Prüfungen oder Freigaben konstruieren.
 
-Arbeite bei einem festgestellten Fehler die betroffene Abschlussposition, mögliche Größenordnung, qualitative Bedeutung und noch erforderliche Handlung heraus. Ein Hinweis auf Unwesentlichkeit benötigt eine Begründung. Trenne Prüfungshemmnis und festgestellten Fehler, statt beides pauschal als Testatsproblem zu etikettieren. Ein Bestätigungsvermerk darf erst aus dem tatsächlich bearbeiteten Prüfungsauftrag und gesicherten Nachweisstand abgeleitet werden.
+Arbeite bei einem festgestellten Fehler die betroffene Abschlussposition, mögliche Größenordnung, qualitative Bedeutung und noch erforderliche Handlung heraus. Ein Hinweis auf Unwesentlichkeit benötigt eine Begründung. Trenne Prüfungshemmnis und festgestellten Fehler, statt beides pauschal als Problem des Bestätigungsvermerks zu bezeichnen. Ein Bestätigungsvermerk darf erst aus dem tatsächlich bearbeiteten Prüfungsauftrag und gesicherten Nachweisstand abgeleitet werden.
 
 ## 1.3 Aufsicht und Mandantenkommunikation
 

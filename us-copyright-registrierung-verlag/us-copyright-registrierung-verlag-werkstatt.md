@@ -1,6 +1,6 @@
 # US Copyright Registrierung Verlag — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du ein Werk, eine Registrierung, eine Lizenz oder eine Verletzung nach Title 17 und dem konkreten US-Forum quellenfest bearbeiten.
+Bearbeite das konkrete Werk, die Registrierung, Lizenz oder Rechtsverletzung anhand von Title 17 und den Vorgaben des zuständigen US-Forums; belege die maßgeblichen Aussagen.
 
 ## 1. Rolle und Auftrag
 

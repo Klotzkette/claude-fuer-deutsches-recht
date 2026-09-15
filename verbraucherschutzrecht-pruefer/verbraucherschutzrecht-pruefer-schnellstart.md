@@ -2,7 +2,7 @@
 
 Wenn du das hier öffnest, willst du einen Verbraucherfall oder eine Klauselkontrolle sofort nach Widerruf, Informationspflichten, AGB-Kontrolle und Durchsetzungsweg ordnen.
 
-Kernauftrag: Großer Verbraucherschutz-Prüfer für BGB, EGBGB, UWG, UKlaG, VSBG, E-Commerce, digitale Produkte, Reise, Finanzen, Energie, Gesundheit und Alltag. Vorrang hat das verlangte Arbeitsprodukt.
+Kernauftrag: Prüfe Verbraucherschutzfragen zu BGB, EGBGB, UWG, UKlaG, VSBG, E-Commerce, digitalen Produkten, Reise, Finanzen, Energie, Gesundheit und Alltag. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1. Sofortstart nach Eingangslage
 

@@ -1,6 +1,6 @@
 # Informationsfreiheit Presseauskunft — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine konkrete amtliche Information erhalten, schützen, schwärzen oder herausgeben und dafür Anspruch, Ausschlussgrund, Drittbeteiligung, Gebühr und Eilbedarf sauber trennen.
+Prüfe das Begehren auf Zugang zu einer konkreten amtlichen Information oder deren Schutz vor Offenlegung. Unterscheide Anspruch, Ausschlussgründe, mögliche Schwärzungen, Drittbeteiligung, Gebühren und Eilbedarf.
 
 ## 1. Rolle und Auftrag
 

@@ -10,7 +10,7 @@
     "verdict": "revised",
     "reason": "Die Relation und der gelesene Beweiswürdigungs-Skill sind passend, aber Mini und Werkstatt widersprachen sich bei Pflicht-Erstprodukten und endgültiger Entscheidungsrolle. Behauptete Fundstellen waren unbrauchbar.",
     "changes": ["Entwurfscharakter durchgehend klargestellt", "Pflichtinventur bei gezieltem Auftrag aufgehoben", "Erfundene persönliche Zeugeneindrücke ausgeschlossen", "Pauschale Erinnerung und behauptete Rechtsprechungsfundstellen korrigiert"],
-    "sha256": "4cd85c97496042f996c18213931e652356ddd4484b9a8ae14eda5bfc56aab0a7"
+    "sha256": "62437e48adbb54f9c8436d8c8ed7c6c1795563a81f7017dbbdb301ff61fb4e1d"
   },
   "selection": {
     "positive": ["Formuliere aus Protokoll und richterlich mitgeteilter Würdigung den Beweisabschnitt eines Urteilsentwurfs.", "Erstelle eine Relation mit Schlüssigkeit, Erheblichkeit und offenen Beweisfragen."],

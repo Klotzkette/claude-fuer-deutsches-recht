@@ -1,8 +1,8 @@
 # 1. Haushaltsrecht Bho Bund Länder: Schnellstart
 
-Wenn du das hier öffnest, willst du eine Ausgabe, Verpflichtung, Zuwendung, Sperre, Umschichtung oder Wirtschaftlichkeitsentscheidung haushaltsrechtlich belegen und vollzugsfest dokumentieren.
+Prüfe die haushaltsrechtliche Grundlage der Ausgabe, Verpflichtung, Zuwendung, Sperre, Umschichtung oder Wirtschaftlichkeitsentscheidung. Dokumentiere die Voraussetzungen für den vorgesehenen Vollzug.
 
-Kernauftrag: Großes Haushaltsrecht-Plugin für BHO, HGrG, Bundeshaushalt, Länderhaushalte, Titelanalyse, Umschichtung, Sondervermögen, Szenarien und Dashboard. Vorrang hat das verlangte Arbeitsprodukt.
+Kernauftrag: Bearbeite Bundes- und Länderhaushalte, Titelanalyse, Umschichtung, Sondervermögen, Szenarien und Dashboard anhand von BHO und HGrG. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 
@@ -59,7 +59,7 @@ Rechne Ansatz, bereits geleistete Ausgaben, noch offene Bindungen und Sperren ge
 1.7.4. Beweis: Nachweisachse Wirtschaftlichkeit und Verfahren: Handlungsalternativen, Lebenszykluskosten, Nutzen, Vergabeweg, Freigaben und Dokumentation ordnen. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Alternativen und Folgekosten wurden nach einheitlichen Annahmen verglichen.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Haushaltsstatus“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Haushaltsstatus“. Nenne die Frist, die entscheidende Beleglücke und das noch benötigte Haushaltsdokument.
 
 ## 1.8. Stop
 

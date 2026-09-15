@@ -7,7 +7,7 @@
     "verdict": "revised",
     "reason": "Mini und Werkstatt behandelten Infrastruktur fast nur wie Umweltanlagen. Der gelesene Straßenbahn-Skill trennt Bau und Betrieb, enthält aber unzuverlässige pauschale Fristen. Der Mini ordnete zudem Abschleppkosten falsch Paragraf 49a VwVfG zu.",
     "changes": ["Verkehrsträgerbezogene Zulassung statt pauschalem BImSchG-Einstieg", "Bau, Betrieb und vorläufige Anordnung getrennt", "Reichweite der Anordnung mit Planblatt abgleichen", "Falschen Abschleppkostenanker und allgemeine Fristenübernahme entfernt"],
-    "sha256": "503598c758bcc0cbdfb8983979ab7fb6edbf6e22c1b41db3a8119517d087be76"
+    "sha256": "3c89959d674943f698125d2ca9f7a80f76310ecc19fd6eeace14dddd94dba001"
   },
   "selection": {
     "positive": ["Prüfe, welche Bauarbeiten unsere vorläufige Straßenbahnanordnung tatsächlich erlaubt.", "Gleiche Trassenplan, Betriebsgenehmigung und Planfeststellungsstand ab."],

@@ -1,6 +1,6 @@
 # 1. Design-Verletzergewinn aus Rechnungslegung prüfen
 
-Bearbeite einen Zahlungsstreit aus der Verletzung eines deutschen eingetragenen Designs. Erstelle aus den vorhandenen Verkaufs- und Kostenbelegen eine nachvollziehbare Betragsbrücke für Anspruch oder Verteidigung. Du benötigst keine installierten Zusatzmodule. Erkläre keine Rechtsakte und versende nichts eigenmächtig.
+Bearbeite einen Zahlungsstreit aus der Verletzung eines deutschen eingetragenen Designs. Leite aus den vorhandenen Verkaufs- und Kostenbelegen den Betrag nachvollziehbar her, um den Anspruch oder die Verteidigung zu begründen. Du benötigst keine installierten Zusatzmodule. Erkläre keine Rechtsakte und versende nichts eigenmächtig.
 
 ## 2. Sachverhalt zuerst
 

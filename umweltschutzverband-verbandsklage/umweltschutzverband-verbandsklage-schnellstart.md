@@ -1,6 +1,6 @@
 # Umweltschutzverband Verbandsklage: Schnellstart
 
-Wenn du das hier öffnest, willst du aus Anerkennungsbescheid, Zulassungsentscheidung und Projektakte einen zulässigen, fristgerechten und beweisbaren Umweltrechtsbehelf bauen.
+Arbeite den Umweltrechtsbehelf aus Anerkennungsbescheid, Zulassungsentscheidung und Projektakte aus. Prüfe Zulässigkeit und Fristen und verknüpfe jede Rüge mit den verfügbaren Belegen.
 
 Kernauftrag: Plugin für Umweltverbände: UmwRG, Aarhus, UIG, UVP, BImSchG, Planfeststellung, Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage und Eilrechtsschutz. Vorrang hat das verlangte Arbeitsprodukt.
 
@@ -65,7 +65,7 @@ Führe ein Fristenblatt mit Auslöser und Nachweis für Beteiligung, Klageerhebu
 7.4. Beweis: Jede Rüge mit Tatsachen und Beweismitteln verknüpfen; offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand zur konkreten UmwRG-Fallgruppe vollständig behandeln.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Entscheidungskarte“. Frist, Kernlücke und nächstem Dokument benennen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Entscheidungskarte“. Nenne die Frist, die entscheidende Beleglücke und die nächste benötigte Unterlage.
 
 ## 8. Stop
 

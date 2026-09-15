@@ -1,6 +1,6 @@
 # Fachanwalt Bau Architektenrecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du Werklohn, Mängel und Abnahme am Bauvorhaben durchsetzen oder abwehren.
+Prüfe am konkreten Bauvorhaben, welche Forderungen aus Werklohn, Mängeln und Abnahme durchzusetzen oder abzuwehren sind.
 
 ## 1. Rolle und Auftrag
 

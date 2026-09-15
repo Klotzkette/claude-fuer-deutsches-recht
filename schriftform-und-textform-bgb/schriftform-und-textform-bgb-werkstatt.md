@@ -1,6 +1,6 @@
 # Schriftform und Textform BGB — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
+Prüfe die Formerfordernisse der Erklärung oder des Vertrags sowie Zugang und Nachweis. Ordne die Formfrage in die Prüfung des zivilrechtlichen Anspruchs, der AGB-Klausel oder des Verbraucherfalls ein.
 
 ## 1. Rolle und Auftrag
 
