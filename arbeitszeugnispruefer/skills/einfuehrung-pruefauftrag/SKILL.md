@@ -1,27 +1,68 @@
 ---
 name: einfuehrung-pruefauftrag
-description: "Für Einführung in den Prüfauftrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Beginnt jede vollständige Prüfung oder Berichtigung eines vorhandenen deutschen Arbeitszeugnisses und führt sie nach Rückfragen bis zum bestellten Prüfbericht, zur bereinigten Zeugnisfassung oder zum Entwurf der Geltendmachung fort."
 ---
 
-# Einfuehrung in den Pruefauftrag
+# Arbeitszeugnisprüfung beginnen und abschließen
 
-## Direktstart: lesen, entscheiden, liefern
+## 1. Auftrag und Unterlagen
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Lies zuerst das Zeugnis und alle bereits vorliegenden Vergleichszeugnisse, Tätigkeitsbeschreibungen, Beurteilungen, Zusagen, Korrespondenz und Titel. Leite daraus Rolle, Zeugnisart, Ziel, Verfahrensstand und erkennbare Fristen ab. Wiederhole keine Angaben, die aus den Unterlagen hervorgehen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Dieser Skill prüft eine vorhandene Zeugnisfassung und kann daraus eine berichtigte Gesamtfassung entwickeln. Soll ohne Ausgangszeugnis erstmals ein Zeugnis aus Personalnotizen erstellt werden, verweise auf den `arbeitszeugnisgenerator`.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+## 2. Bearbeitungsweg
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+| Auftrag | Fertiges Ergebnis |
+| --- | --- |
+| Zeugnis prüfen | vollständiger Prüfbericht mit Einordnung, konkretem Änderungsbedarf, Belegen und Empfehlung |
+| Zeugnis berichtigen | Prüfbericht und zusammenhängende bereinigte Zeugnisfassung |
+| Arbeitgeber auffordern | Prüfbericht, genaue Änderungsfassung und versandfertiger Entwurf |
+| Klage, Vergleich oder Vollstreckung vorbereiten | tragfähige Prüfung und der ausdrücklich bestellte Entwurf |
+| Arbeitgeber oder Personalabteilung beraten | interner Korrekturvermerk und wahrheitsgemäße, konsistente Fassung |
 
-Dieser Skill beschreibt den Ausgangspunkt jeder Zeugnispruefung: Was liegt vor, was wird geprueft und welcher Rechtsrahmen gilt. Der Pruefer stellt zuerst fest, ob ein einfaches Zeugnis (nur Art und Dauer der Taetigkeit) oder ein qualifiziertes Zeugnis (zusaetzlich Leistung und Verhalten) zur Analyse eingereicht wurde. Zwischenzeugnisse und Ausbildungszeugnisse nach Paragraf 16 BBiG gelten als eigene Arten mit denselben Pruefstandards.
+Ein allgemein formulierter Prüfauftrag bedeutet Vollprüfung. Bei einer ausdrücklich begrenzten Frage bearbeitest du denselben Weg nur für den bezeichneten Abschnitt und benennst knapp, was nicht geprüft wurde. Ein Schreiben an die Gegenseite, eine Klage oder eine Vollstreckungsmaßnahme entsteht nie allein wegen eines festgestellten Mangels, sondern nur aufgrund des Auftrags.
 
-Rechtsgrundlage jeder Pruefung ist Paragraf 109 Gewerbeordnung. Absatz 1 normiert den Anspruch auf einfaches oder qualifiziertes Zeugnis; Absatz 2 verlangt Klarheit, Verstaendlichkeit und verbietet Geheimzeichen oder Formulierungen, die etwas anderes besagen als ihr Wortlaut. Elektronische Form ist seit 1.1.2025 mit qualifizierter elektronischer Signatur zulaessig (Viertes Buerokratieentlastungsgesetz). Davor war sie ausgeschlossen.
+## 3. Prüfungsfolge
 
-Der Pruefauftrag beginnt immer mit der Feststellung, wer den Pruefauftrag erteilt hat: die beurteilte Person selbst (Arbeitnehmerperspektive), eine Anwaltskanzlei (Mandatsperspektive), eine Personalabteilung (HR-Gegenpruefer-Perspektive) oder ein Betriebsrat. Diese Rollenfeststellung steuert, welche Ausgaben erzeugt werden und ob am Ende ein Aufforderungsschreiben an den Arbeitgeber ergeht.
+### 3.1. Grundlagen und Form
 
-Der Pruefer legt den Umfang der Analyse vor der eigentlichen Zeugnislektuere fest: Vollanalyse mit satzweiser Ampel-Einschaetzung, Schnellscan mit Kurzbild, oder HR-Gegenpruefer-Modus mit Korrekturvermerken. Ohne anderslautende Angabe laeuft stets die Vollanalyse. Fehlende Angaben zu Branche, Position oder Beendigungsanlass werden aus dem Zeugnistext abgeleitet und als gekennzeichnete Annahmen gefuehrt, niemals als Tatsache behauptet.
+Prüfe Stammdaten, Zeugnisart, tatsächliche Beschäftigung, Ausstellungsform, Unterschrift und gegebenenfalls Vergleich oder Titel.
+
+### 3.2. Tätigkeitsdarstellung
+
+Vergleiche Funktion, prägende Aufgaben, Verantwortung, Führung und Projekte mit den belegten Tatsachen.
+
+### 3.3. Leistung
+
+Ordne Gesamtformel und Einzelaussagen im Zusammenhang ein. Trenne die sprachliche Notentendenz von der Frage, welche bessere oder schlechtere Bewertung tatsächlich belegt werden kann.
+
+### 3.4. Verhalten und Führung
+
+Prüfe die Bewertung gegenüber den im konkreten Arbeitsverhältnis relevanten Personengruppen. Eine ungewöhnliche Reihenfolge oder ein fehlender Einzelaspekt ist nicht ohne Kontext ein Rechtsmangel.
+
+### 3.5. Klarheit und Widersprüche
+
+Prüfe Einschränkungen, Mehrdeutigkeiten, Auslassungen und Widersprüche aus Sicht eines objektiven Zeugnislesers. Verwende keine angeblichen Geheimcode-Listen als Beweisersatz.
+
+### 3.6. Beendigung und Schluss
+
+Prüfe Beendigungsgrund, Datum und Schlussformel getrennt von der Leistungsnote. Dank, Bedauern und Wünsche sind regelmäßig freiwillig; Zusagen, Vorfassungen und das Maßregelungsverbot können im Einzelfall gesondert Bedeutung gewinnen.
+
+## 4. Rückfragen und Verzweigungen
+
+Frage nur nach Angaben, deren Antwort Bewertung, Ersatzwortlaut, Anspruch, Frist, Beweisführung oder das bestellte Dokument verändert. Bündele zusammengehörige Fragen und erläutere jeweils knapp, welche Varianten von der Antwort abhängen.
+
+Eine Rückfrage ist ein Zwischenschritt, kein Abschluss. Gib zugleich den gesicherten Teil der Prüfung und, soweit sinnvoll, bedingte Fassungen aus. Nach der Antwort setzt du an derselben Stelle fort, änderst nur die betroffenen Passagen und führst den Auftrag bis zum bestellten Ergebnis weiter. Bereits beantwortete Fragen werden nicht wiederholt. Fehlt in einem nicht interaktiven Auftrag eine Angabe, verwende kenntlich gemachte Annahmen, Platzhalter oder alternative Fassungen.
+
+## 5. Darstellung der Beanstandungen
+
+Ordne jeden erheblichen Punkt einer dieser Kategorien zu: Tatsachenfehler, rechtlich begründeter Mangel, beweisabhängige Bewertungsfrage, bloßer Gestaltungswunsch oder kein Änderungsbedarf. Nenne Originalwortlaut und Fundstelle, Beleglage, rechtliche Bedeutung, genaue Ersatzfassung und verbleibendes Risiko. Erhalte gelungene und unstreitige Passagen.
+
+Interne Arbeitsbegriffe, Farbcodes und Modulnamen gehören nicht in das Ergebnis. Verwende vollständige Sätze und anwaltlich übliche Überschriften wie „Ergebnis“, „Begründung“, „Änderungsbedarf“, „Beweislage“, „Empfehlung“ und „Entwurf“.
+
+## 6. Abschluss
+
+Beende den Auftrag nicht mit einer bloßen Analyse, Fragenliste oder Auswahlmöglichkeit, wenn ein weitergehendes Dokument bestellt ist. Fertig ist die Bearbeitung erst, wenn das nach Abschnitt 2 geschuldete Ergebnis vollständig vorliegt, offene Belegpunkte genau bezeichnet sind und der nächste beauftragte Schritt feststeht. Nur der tatsächlich von einer fehlenden Antwort abhängige Teil darf vorläufig bleiben.
+
+Unterschreibe, versende oder reiche nichts ohne ausdrückliche Freigabe ein. Bei Dokumentexport: Times New Roman 11 pt, ausschließlich dezimale Gliederung und eine Leerzeile nach jeder Überschrift.

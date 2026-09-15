@@ -1,16 +1,30 @@
 ---
 name: mandantenbericht-erstellen
-description: "Für Mandantenbericht erstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Erstellt nach der Prüfung eines vorhandenen Arbeitszeugnisses einen vollständigen, verständlichen Mandantenbericht mit Ergebnis, begründeten Ersatzfassungen, Beleglage und konkreter Handlungsempfehlung."
 ---
 
-# Mandantenbericht erstellen
+# Mandantenbericht zur Arbeitszeugnisprüfung
 
-Der Mandantenbericht ist das fertige Arbeitsprodukt der Zeugnispruefung. Er richtet sich an den Mandanten oder die Mandantin und soll verstaendlich, konkret und handlungsorientiert sein. Kein Fachvokabular ohne Erklaerung, keine offenen Enden, keine unverbindlichen Wendungen.
+## 1. Ergebnis
 
-Aufbau des Mandantenberichts: Erstens eine knappe Zusammenfassung in vier bis acht Saetzen mit Notenspanne, Ampel-Verteilung (wie viele rote, orangefarbene, gruene Befunde) und den zwei bis drei wichtigsten Kritikpunkten. Zweitens die Streitstellen-Tabelle: pro Streitstelle Originalwortlaut in Anfuhrungszeichen, gewunschte Neufassung in Anfuhrungszeichen, kurze Begruendung, Beweisbedarf des Mandanten. Drittens die Handlungsempfehlung: akzeptieren (wenn das Zeugnis dem tatsachlichen Leistungsniveau entspricht), nachverhandeln (wenn eine Einigung aussichtsreich ist), aussergerichtlich auffordern (wenn Berichtigungspunkte klar sind), Vergleich nutzen (wenn ein laufendes Arbeitsgerichtsverfahren besteht), oder klagen (wenn alle anderen Wege ausgeschopft sind). Viertens eine eingeordnete Risikoabwagung mit Bewerbungsdruck, Reputationsrisiko und realistischer Einschaetzung der Vergleichsbereitschaft des Arbeitgebers.
+Beginne mit der tatsächlichen Gesamteinschätzung und den für die Mandantschaft wesentlichen Folgen. Nenne die sprachliche Notentendenz nur mit ihrer Unsicherheit und trenne sie vom rechtlichen Änderungsbedarf. Verwende keine zusammenfassenden Farbcodes.
 
-Beweislast im Mandantenbericht klar kommunizieren: Wenn der Mandant eine bessere Note als Note 3 anstrebt, muss der Bericht ausdruecklich benennen, welche Belege er beibringen muss: Zwischenzeugnisse, Zielvereinbarungen, Bonuszahlungen, Beurteilungsboegen, Lob-E-Mails, Zeugen. Fehlen solche Belege, wird das Risiko der Klage offen und ohne Beschonigung dargestellt.
+## 2. Begründeter Änderungsbedarf
 
-Im nicht-interaktiven Einsatz wird der Mandantenbericht vollstaendig ausformuliert als fertiges Arbeitsprodukt, nicht als Stichpunktliste. Platzhalter fuer fehlende Angaben wie Name oder Datum werden klar markiert und koennen spater ausgefullt werden.
+Stelle erhebliche Streitstellen mit Originalwortlaut, genauer Ersatzfassung, verständlicher Begründung und Belegbedarf dar. Unterscheide Tatsachenfehler, rechtlich begründete Mängel, beweisabhängige Aufwertungswünsche und rein redaktionelle Verbesserungen. Gute Passagen werden ausdrücklich erhalten.
 
-Ausgabeformat: Der Mandantenbericht wird in vollstaendigen, ausformulierten Saetzen geliefert; reine Aufzaehlungs-Auswurfe und Halbsaetze sind als Endprodukt verboten. Soweit technisch moeglich wird in Times New Roman 11 pt und ausschliesslich dezimaler Gliederung (1, dann 1.1, dann 1.1.1) ausgegeben; bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+## 3. Beweislage
+
+Erläutere konkret, welche Unterlagen oder Personen welchen Änderungspunkt tragen können. Bei einer verlangten überdurchschnittlichen Gesamtbewertung benenne die hierfür benötigten Leistungstatsachen und vorhandenen Belege. Übertrage diese Beweislastfrage nicht pauschal auf Form, Auslassungen oder Schlussformeln.
+
+## 4. Empfehlung
+
+Empfiehl anhand von Ziel, Beweisen, Fristen und praktischer Bedeutung einen konkreten nächsten Schritt. Prüfen, nachverhandeln, außergerichtlich geltend machen, vergleichen oder klagen sind keine automatische Stufenfolge. Eine Klage oder ein Schreiben wird nur erstellt, wenn der Auftrag dies umfasst.
+
+## 5. Rückfrage und Fortsetzung
+
+Ist eine Antwort für Bewertung oder Ersatztext entscheidend, stelle eine gebündelte, begründete Rückfrage. Gib zugleich den bereits tragfähigen Berichtsteil und die von der Antwort abhängigen Varianten aus. Nach der Antwort arbeitest du im bestehenden Bericht weiter und lieferst dessen vollständige Fassung; du wiederholst weder Aufnahme noch erledigte Prüfung.
+
+## 6. Ausgabe
+
+Schreibe vollständig, präzise und ohne interne Prozesswörter. Verwende dezimale Überschriften sowie bei Dokumentexport Times New Roman 11 pt. Ein bestelltes Anschreiben oder eine bereinigte Zeugnisfassung wird dem Bericht vollständig beigefügt, nicht lediglich angeboten.

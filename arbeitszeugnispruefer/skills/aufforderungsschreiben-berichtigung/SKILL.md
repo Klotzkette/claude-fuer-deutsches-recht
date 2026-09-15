@@ -1,16 +1,32 @@
 ---
 name: aufforderungsschreiben-berichtigung
-description: "Für Aufforderungsschreiben Berichtigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Verfasst nach Prüfung eines vorhandenen Arbeitszeugnisses eine vollständige außergerichtliche Berichtigungsaufforderung mit belegten Beanstandungen, genauer Ersatzfassung, angemessener Frist und Anlagenbezug."
 ---
 
-# Aufforderungsschreiben Berichtigung
+# Berichtigung eines Arbeitszeugnisses verlangen
 
-Das aussergerichtliche Aufforderungsschreiben ist das erste formale Instrument der Berichtigungsstrategie. Es erfullt drei Funktionen: Es gibt dem Arbeitgeber eine faire Korrekturgelegenheit, es schaerft die Streitpunkte und es schafft die Grundlage fur Fristsetzung und Verzug. Ton ist hoeflich, sachlich und bestimmt. Keine Drohgebaerden, keine Ironie, die Klageandrohung erscheint nur einmal am Ende.
+## 1. Auftrag
 
-Die acht Bausteine: Erstens Mandatsanzeige mit beigefugter Vollmacht und vollstaendigen Mandantendaten. Zweitens Bezugnahme auf das Zeugnis mit Datum der Erteilung, Datum der Aushandigung, Zeugnisart und Feststellung des Berichtigungsbedarfs. Drittens Rechtsgrundlage: Paragraf 109 Absatz 1 GewO Zeugnisanspruch, Paragraf 109 Absatz 2 GewO fur Klarheit und Geheimzeichenverbot, BAG-Beweislastregel (14.10.2003 - 9 AZR 12.03; 18.11.2014 - 9 AZR 584.13). Viertens Beanstandungen pro Streitstelle: Originalwortlaut in Anfuhrungszeichen, Decodierung, Neufassungsvorschlag in Anfuhrungszeichen, Begruendung. Fuenftens Schlussformel separat, wenn relevant. Sechstens Fristsetzung mit konkretem Datum (nicht „binnen zwei Wochen", sondern ein benanntes Datum, Standard zwei bis drei Wochen). Siebentens Klageandrohung, einmal, knapp, sachlich. Achtens Anlagenverzeichnis: Vollmacht, Zeugnis, Vorzeugnis oder weitere Belege.
+Erstelle das Schreiben nur, wenn eine außergerichtliche Geltendmachung bestellt ist. Grundlage sind das tatsächlich erteilte Zeugnis, die geprüften Streitstellen, vorhandene Leistungsbelege, Vorfassungen, Zusagen und Korrespondenz. Ein festgestellter Mangel allein erweitert den Auftrag nicht.
 
-Stilregel Kosten: Vorgerichtliche Anwaltskosten im arbeitsgerichtlichen Kontext nicht standardmaessig als Verzugsschaden geltend machen. Der Ausschluss nach Paragraf 12a ArbGG erfasst nach BAG 28.11.2019 (8 AZR 293.18) auch materiell-rechtliche Anspruche auf aussergerichtliche Rechtsverfolgungskosten bis zum Schluss einer moglichen ersten Instanz. Dieser Punkt ist vor jeder Kostenforderung gesondert zu prufen.
+## 2. Inhalt
 
-Berichtigungsverfahren und Massregelungsverbot: Das Aufforderungsschreiben lost das Berichtigungsverfahren aus. Der Mandant riskiert dadurch nicht den Verlust einer bereits erteilten Schlussformel; ihr Schutz folgt aus dem Massregelungsverbot (Paragraf 612a BGB; BAG 6.6.2023 - 9 AZR 272.22). Dieser Schutz ist im Schreiben nicht zu erwaehnen, aber intern bekannt zu halten.
+Formuliere einen passenden Betreff, den knappen Sachverhalt, das konkrete Berichtigungsbegehren und eine klare Frist. Stelle je erheblicher Streitstelle Originalwortlaut, genaue gewünschte Fassung und den tragenden tatsächlichen oder rechtlichen Grund dar. Füge bei einer umfangreichen Gesamtfassung den vollständigen Entwurf als Anlage oder eindeutig bezeichneten Bestandteil bei.
 
-Ausgabeformat: Das Aufforderungsschreiben wird als vollstaendig ausformuliertes Endprodukt in ganzen, subsumtionstauglichen Saetzen geliefert; Stichpunkte, Halbsaetze und leere Klauselruempfe sind als Endprodukt verboten. Fehlende Mandantsangaben werden als klar lesbare Platzhalter gesetzt (zum Beispiel [Name der Mandantin], [Datum TT.MM.JJJJ], [Frist TT.MM.JJJJ]), der umgebende Text bleibt vollstaendig. Soweit technisch moeglich wird in Times New Roman 11 pt und ausschliesslich dezimaler Gliederung (1, dann 1.1, dann 1.1.1) ausgegeben; bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+Nenne § 109 GewO nur, soweit dies der Adressat und der Streitstand rechtfertigen. Trenne eine rechtlich begründete Korrektur von einem Verhandlungswunsch. Schlussformeln werden nicht wie ein gesetzlich geschuldeter Notenbaustein behandelt.
+
+## 3. Ton und Zusätze
+
+Schreibe höflich, sachlich und bestimmt. Setze eine Klageandrohung, Kostenforderung oder Vollmachtsvorlage nicht schematisch ein. Sie gehört nur hinein, wenn Auftrag, Mandat und Rechtslage sie tragen. Berechne die Frist zu einem konkreten Datum und beachte erkennbare Ausschlussfristen.
+
+## 4. Fehlende Angaben
+
+Frage nur nach einer Angabe, die Inhalt, Adressat, Frist oder Begründung verändert. Bearbeite belegte Punkte weiter und gib bei Bedarf konservative und belegabhängige Formulierungsvarianten an. Für reine Absender-, Adress- oder Datumsangaben dürfen gut sichtbare Platzhalter verwendet werden.
+
+## 5. Fortsetzung
+
+Nach der Antwort passt du die abhängigen Passagen an und lieferst das vollständige Schreiben mit Anlagenverzeichnis. Eine Rückfrage oder Änderungsübersicht ist kein Endergebnis. Eine erfolglose Aufforderung führt ohne weiteren Auftrag weder zur Klage noch zur Vollstreckung.
+
+## 6. Ausgabe und Freigabe
+
+Das Schreiben besteht aus vollständigen, versandfähigen Sätzen. Interne Prüfhinweise und Quellenvermerke bleiben außerhalb. Bei Dokumentexport: Times New Roman 11 pt und dezimale Gliederung. Versende nichts ohne ausdrückliche Freigabe.

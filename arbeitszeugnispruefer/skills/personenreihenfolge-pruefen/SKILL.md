@@ -1,14 +1,20 @@
 ---
 name: personenreihenfolge-pruefen
-description: "Für Personenreihenfolge prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft im Verhaltensabschnitt eines Arbeitszeugnisses, ob die genannten Bezugsgruppen vollständig, sachgerecht und im konkreten Kontext verständlich angeordnet sind. Beanstandet Reihenfolgen nur bei nachvollziehbarer objektiver Nachteilswirkung."
 ---
 
-# Personenreihenfolge pruefen
+# Bezugsgruppen und Personenreihenfolge prüfen
 
-Die Reihenfolge, in der die Bezugspersonen im Verhaltensabschnitt genannt werden, ist kein neutrales Stilmittel, sondern ein normativer Bestandteil der Zeugnissprache. Eine falsche Reihenfolge sendet ein klares Negativsignal und ist ein eigenstaendiger Berichtigungspunkt mit hoher Erfolgsaussicht.
+## 1. Kontextbezogene Prüfung
 
-Standardreihenfolge: Vorgesetzte werden zuerst genannt, dann Kollegen, dann Kunden oder externe Partner. In manchen Branchen (zum Beispiel Dienstleistung, Handel) wird Kundenkontakt prominent und kann an zweiter Stelle stehen, wenn der Kundenkontakt nachweislich die primaere Interaktionsebene war. Der Pruefer prueft, ob eine Branchenanpassung sachlich begruendet ist oder ob die Umstellung ein verstecktes Signal darstellt.
+Ermittle zunächst, zu welchen Gruppen tatsächlich beruflicher Kontakt bestand, etwa Vorgesetzten, Mitarbeitern, Kollegen, Kunden oder Geschäftspartnern. Die verbreitete Folge „Vorgesetzte, Kollegen und Kunden“ ist eine sprachliche Konvention, aber keine ausnahmslos verbindliche gesetzliche Reihenfolge. Funktion, Führungsverantwortung, Außenkontakt und der übrige Zeugnistext bestimmen, welche Gruppen zu nennen sind und welche Reihenfolge sachgerecht wirkt.
 
-Signalwirkung einer Umkehrung: Werden Kollegen vor Vorgesetzten genannt, signalisiert das dem kundigen Leser, dass das Verhalten gegenueber Fuehrungskraeften Anlass zu Kritik gab. Werden Kunden vor Kollegen und Vorgesetzten genannt, bei einer Position ohne primaerem Kundenfokus, entsteht derselbe Eindruck fuer das interne Verhalten. Der Pruefer notiert die tatsaechliche Reihenfolge im Zeugnis, stellt ihr die Standardreihenfolge gegenueber und bewertet die Abweichung als orangefarbenen oder roten Befund.
+Leite aus einer Umstellung allein weder einen Leistungsmangel noch ein Konfliktverhalten ab. Eine Beanstandung kommt erst in Betracht, wenn die konkrete Reihenfolge im Gesamtzusammenhang für einen objektiven Leser eine erkennbare abwertende oder mehrdeutige Wirkung erzeugt. Begründe diese Wirkung am Wortlaut und an der tatsächlichen Tätigkeit; behaupte ohne tragfähige Fundstelle weder eine selbständige Klageposition noch eine besondere Rechtfertigungslast des Arbeitgebers.
 
-Klagbarkeit: Die falsche Reihenfolge im Sozialverhalten ist nach BAG-Rechtsprechung klagbar. Der Arbeitgeber muss eine Abweichung vom Standard begruenden. Im Aufforderungsschreiben wird die Umkehrung als Streitstelle mit dem Originalwortlaut und dem Vorschlag der korrekten Reihenfolge aufgefuehrt. Im Klagestrategie-Modul wird dieser Punkt als eigener Antrag formuliert.
+## 2. Ergebnis
+
+Gib die vorhandene Reihenfolge, die tatsächlich relevanten Bezugsgruppen, die objektive Textwirkung und den Grad der rechtlichen Tragfähigkeit an. Fehlt eine prägende Gruppe oder entsteht eine erhebliche Mehrdeutigkeit, formuliere einen vollständigen, neutral geordneten Ersatzsatz. Ein bloßer Wunsch nach der üblichen Reihenfolge ist als Gestaltungswunsch auszuweisen.
+
+## 3. Fortführung des Auftrags
+
+Übernimm den Satz in den laufenden Prüfvermerk und die bestellte Neufassung oder das Schreiben. Frage nur nach einer Bezugsgruppe, wenn deren tatsächliche Relevanz das Ergebnis ändert; bearbeite die übrigen Punkte fertig. Nach der Antwort ergänzt du die offene Gruppe und setzt ohne erneute Gesamtaufnahme fort. Ist ein Dokument bestellt, darf die Bearbeitung nicht bei der Reihenfolgeanalyse enden.

@@ -1,14 +1,20 @@
 ---
 name: beendigungsgrund-pruefen
-description: "Für Beendigungsgrund prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Beendigungsdatum und Beendigungsformel eines Arbeitszeugnisses auf Tatsachenrichtigkeit, Vereinbarungslage und objektive Wirkung. Erstellt je nach feststehendem Beendigungsanlass eine genaue Ersatzfassung."
 ---
 
-# Beendigungsgrund pruefen
+# Beendigungsgrund prüfen
 
-Der Beendigungsabschnitt nennt, wie das Arbeitsverhaltnis endete. Er ist rechtlich nicht zwingend Bestandteil des Zeugnisses, ist aber in der Praxis fast immer vorhanden und traegt eigene Signale. Der Pruefer liest ihn gegen den im Intake ermittelten tatsaechlichen Beendigungsanlass und prueft, ob Zeugnis und Wirklichkeit uebereinstimmen.
+## 1. Rechtliche und tatsächliche Einordnung
 
-Standardformulierungen und ihre Lesarten: „verlasst uns auf eigenen Wunsch" ist eine neutrale Eigenkundigung ohne Negativsignal. „Im gegenseitigen Einvernehmen" koennte eine arbeitgeberseitige Initiative mit stillem Einverstaendnis andeuten; der Kontext ist im Intake zu klaeren. „Im besten gegenseitigen Einvernehmen" signalisiert eine echte einvernehmliche Trennung. „Das Arbeitsverhaltnis endete am [Datum]" ohne jedes erlaeuterndes Wort ist ein Distanzsignal, das auf eine Arbeitgeberkundigung oder eine konfliktbehaftete Trennung hinweisen kann.
+Trenne Beendigungsdatum, Beendigungsgrund und Schlussformel. Der Grund für die Beendigung gehört nicht ohne Weiteres zum geschuldeten Zeugnisinhalt. Wird er aufgenommen, muss die Formulierung wahr sein und dem erklärten Wunsch, einer Zusage oder einem Vergleich entsprechen. Eine neutrale Datumsangabe ist für sich genommen weder ein Geheimcode noch der Beweis einer arbeitgeberseitigen oder außerordentlichen Kündigung.
 
-Zeitliche Anomalien: Endet das Arbeitsverhaltnis mitten im Monat ohne Erlaeuterung, riskiert das eine Kundigungslesart (ordentliche Kundigung enden meist zum Monatsende oder Quartalsende). Der Pruefer notiert das genaue Beendigungsdatum und prueft, ob es zu einer ordentlichen Kundigungsfrist passt oder eher auf eine ausserordentliche Kundigung oder einen Aufhebungsvertrag hindeutet.
+Vergleiche den Wortlaut mit Kündigung, Aufhebungsvertrag, Befristung, Vergleich und sonstigen gesicherten Angaben. Leite aus einem untermonatigen Ende oder einer knappen Formulierung keine bestimmte Trennungsursache ab. Dankes- und Wunschformulierungen bewertest du im gesonderten Schlussformel-Schritt.
 
-Wunschformeln als Negativcode im Beendigungskontext: „Wir wuenschen ihm fuer die Zukunft mehr Erfolg" riskiert die Lesart: bisher erfolglos. „Kuenftig alles Gute, insbesondere Erfolg" signalisiert implizit ausgebliebenen Erfolg. „Wuenschen ihm Gesundheit" als betonte Einzelformel riskiert einen Krankheitshinweis. Der Pruefer notiert solche Formeln als roten Befund und fuehrt sie im Mandantenbericht mit der Klartext-Lesart auf.
+## 2. Entscheidungszweige
+
+Steht der Anlass fest, formuliere eine sachlich passende Fassung, etwa für Eigenkündigung, einvernehmliche Beendigung, Befristungsablauf oder eine neutrale Beendigung ohne Grundangabe. Ist der Anlass offen, liefere bedingte Varianten und kennzeichne, welche Tatsache die Auswahl bestimmt. Eine vereinbarte Schlussformel wird gesondert geprüft; ihre rechtliche Durchsetzbarkeit ist nicht mit der Beendigungsformel gleichzusetzen.
+
+## 3. Fortführung des Auftrags
+
+Übernimm die gewählte Fassung in den laufenden Prüfvermerk sowie in Änderungsmatrix, Zeugnisentwurf oder Schreiben. Frage nur nach Beendigungsanlass, Wunsch oder Vereinbarung, wenn hiervon der Text abhängt, und stelle die übrige Prüfung fertig. Nach der Antwort wählst du die passende Variante und führst den Auftrag ohne erneute Aufnahme bis zum bestellten Dokument fort.

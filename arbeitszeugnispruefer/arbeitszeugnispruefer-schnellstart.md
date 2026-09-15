@@ -1,31 +1,53 @@
-# 1. Vorhandenes Zeugnis prüfen und Verbesserungen begründen
+# Arbeitszeugnisprüfer — Schnellstart
 
-Lies die vollständige Zeugnisfassung, Tätigkeitsbeschreibung, Vorzeugnisse und vorhandene Zusagen zuerst. Erstelle einen konkreten Prüfbericht mit priorisierter Änderungsmatrix. Ein Erstellungsauftrag ist davon zu unterscheiden. Rückfragen nur zu blockierenden Lücken; unstrittige Abschnitte auch bei offenen Stammdaten bearbeiten.
+Prüfe eine vorhandene deutsche Arbeitszeugnisfassung und führe den Auftrag bis zum verlangten Prüfbericht, zur bereinigten Gesamtfassung oder zum bestellten Schreiben fort. Soll ohne Ausgangszeugnis erstmals ein Zeugnis erstellt werden, ist der Arbeitszeugnisgenerator zuständig.
 
-## 2. Vollständigkeit und Textwirkung
+## 1. Unterlagen und Ziel
 
-Prüfe Identität, Arbeitgeber, tatsächliche Funktionen und Zeiträume gegen die Unterlagen. Bei einem qualifizierten Zeugnis Aufgaben, Leistung und Verhalten getrennt untersuchen. Fehlende Führungstätigkeit nur dann beanstanden, wenn sie tatsächlich ausgeübt wurde. Ein Ausbildungszeugnis nicht ohne Statusprüfung nach Arbeitnehmerregeln behandeln.
+Lies zuerst Zeugnis, Tätigkeitsbeschreibung, Vorzeugnisse, Beurteilungen, Zusagen, Korrespondenz sowie einen vorhandenen Vergleich oder Titel. Leite Rolle, Zeugnisart, gewünschtes Enddokument, Verfahrensstand und erkennbare Fristen daraus ab. Frage nicht erneut nach Angaben, die bereits feststehen.
 
-Ordne jede beanstandete Formulierung ihrer Funktion zu: Tätigkeit, Einzelbewertung, Gesamtleistung, Verhalten oder Abschluss. Prüfe Widersprüche zwischen diesen Abschnitten. Eine ungewöhnliche Wendung ist nicht allein deshalb unzulässig. Insbesondere „kennen gelernt“ nicht isoliert als Geheimcode verwerfen: BAG, Urteil vom 15.11.2011, Az. 9 AZR 386/10, Rn. 23 ff., [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/).
+Ein allgemeiner Prüfauftrag umfasst Form, Tätigkeiten, Leistung, Verhalten, Klarheit, Beendigung und Schluss. Bei einer ausdrücklich begrenzten Frage prüfst du nur diesen Bereich und nennst knapp, was nicht geprüft wurde.
 
-## 3. Mangel und Wunsch trennen
+## 2. Rückfrage und Fortsetzung
 
-3.1. Tatsachenfehler: Falsches Eintrittsdatum, ausgelassene prägende Position oder unzutreffende Verantwortung anhand konkreter Belege korrigieren.
+Frage nur nach Angaben, deren Antwort Bewertung, Ersatzwortlaut, Anspruch, Frist, Beweisführung oder Enddokument verändert. Bündele zusammengehörige Fragen und erläutere die Folgen der möglichen Antworten.
 
-3.2. Bewertung: Gesamtformel und tatsächliche Leistungstatsachen vergleichen. Für eine Aufwertung über eine durchschnittliche Schlussbeurteilung hinaus genügt der Wunsch nach einem „guten“ Zeugnis nicht. BAG, Urteil vom 18.11.2014, Az. 9 AZR 584/13, Rn. 8 bis 12, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/). Keine einheitliche Beweislastregel auf alle Auslassungs- und Formfragen übertragen.
+Die Rückfrage ist ein Zwischenschritt. Liefere zugleich den gesicherten Teil und, soweit sinnvoll, bedingte Fassungen. Nach der Antwort setzt du am bestehenden Stand fort, änderst nur die betroffenen Passagen und stellst keine erledigten Fragen erneut. In einem nicht interaktiven Auftrag verwendest du gekennzeichnete Annahmen, Platzhalter oder mehrere Varianten. Eine offene Angabe sperrt nur den davon abhängigen Teil.
 
-3.3. Klarheit: Verneinungen, Einschränkungen und mehrdeutiges Lob anhand [Paragraf 109 GewO](https://www.gesetze-im-internet.de/gewo/__109.html) im Gesamtzusammenhang prüfen. Für alternative Lesarten deren tatsächlichen Anhaltspunkt nennen; keine frei erfundenen negativen Charaktereigenschaften zuschreiben.
+## 3. Prüfung
 
-3.4. Form: Papierfassung und elektronische Erteilung unterscheiden. Paragraf 109 Absatz 3 GewO lässt elektronische Form mit Einwilligung zu; nach [Paragraf 126a BGB](https://www.gesetze-im-internet.de/bgb/__126a.html) die qualifizierte elektronische Signatur prüfen. Ein eingescanntes Unterschriftsbild allein genügt dafür nicht. Eine gewöhnliche PDF nicht als elektronisches Original freigeben.
+### 3.1. Stammdaten und Form
 
-3.5. Abschluss: Beendigungsgrund, Datierung und Schlussformel gegen tatsächlichen Auftrag, Zusagen und Vergleich prüfen. Persönliche Wärme nicht als Beweis einer besseren Gesamtnote behandeln. Rechtlichen Anspruch auf eine bestimmte Schlussformel gegebenenfalls gesondert amtlich verifizieren, nicht aus einer Formulierungssammlung ableiten.
+Vergleiche Arbeitgeber, Zeitraum, Funktionen und Ausstellungsdatum mit den Belegen. Unterscheide Papier und elektronische Erteilung. Bei elektronischer Form prüfe Einwilligung und qualifizierte elektronische Signatur nach [§ 109 GewO](https://www.gesetze-im-internet.de/gewo/__109.html) und [§ 126a BGB](https://www.gesetze-im-internet.de/bgb/__126a.html); ein bloß eingescanntes Unterschriftsbild genügt dafür nicht.
 
-## 4. Änderungsmatrix und Anschluss
+### 3.2. Tätigkeiten, Leistung und Verhalten
 
-Je Zeile Originalwortlaut und Fundstelle, konkreten Mangel oder bloßen Gestaltungswunsch, Beleg, Ersatzsatz und verbleibendes Risiko ausweisen. Die Ersatzfassung darf nur belegte Tatsachen und Bewertungen enthalten. Gute Stellen ausdrücklich erhalten. Optional vertiefen [Zeugnisklarheit](skills/zeugnisklarheit-objektiver-empfaengerhorizont/SKILL.md) und [Berichtigungsaufforderung](skills/aufforderungsschreiben-berichtigung/SKILL.md) Kontext und Geltendmachung; ohne sie nach den Prüfstationen oben arbeiten.
+Prüfe, ob die tatsächlichen prägenden Aufgaben und Verantwortungen zutreffend beschrieben sind. Ordne Gesamtformel und Einzelaussagen im Zusammenhang ein. Trenne sprachliche Notentendenz, belegbares Leistungsniveau und Durchsetzbarkeit. Für eine bessere Schlussbeurteilung als „zur vollen Zufriedenheit“ sind die besseren Leistungen vorzutragen und gegebenenfalls zu beweisen; BAG, Urteil vom 18. November 2014 – 9 AZR 584/13, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/).
 
-Bei einer Aufforderung Frist aus dem konkreten Auftrag setzen und mögliche vertragliche Ausschlussfristen gesondert prüfen. Keine automatische Dreiwochenfrist aus dem Kündigungsrecht übernehmen. Eine Klage oder Vollstreckung erst bei entsprechendem Auftrag und anhand des konkreten Begehrens beziehungsweise Titels vorbereiten.
+Eine fehlende Führungs- oder Kundenaussage ist nur erheblich, wenn die betreffende Tätigkeit tatsächlich ausgeübt wurde und der Gesamtzusammenhang die Aufnahme trägt. Eine ungewöhnliche Reihenfolge von Personengruppen ist nicht ohne Weiteres ein sicherer Negativcode.
 
-## 5. Ausgabe und Grenzen
+### 3.3. Klarheit, Beendigung und Schluss
 
-Der Prüfbericht verwendet vollständige Sätze, dezimale Überschriften und Leerzeilen; Times New Roman 11 pt beziehungsweise Exporthinweis. Eine angeforderte Neufassung bleibt zusammenhängender Zeugnistext, ohne Rechtszitate im Zeugnis. Amtliche Normfassung prüfen; Entscheidungen mit Gericht, Entscheidungsform, Datum, Aktenzeichen und belegter Randnummer angeben. Optional: [Zitierweise](../references/zitierweise.md). Ohne Export vollständigen Text liefern. Fehlende Unterlagen und nicht geprüfte Signaturen offen benennen; nur die betroffene Freigabe zurückstellen. Nichts ungefragt unterschreiben oder versenden.
+Prüfe Verneinungen, Einschränkungen, Auslassungen und Widersprüche aus Sicht eines objektiven Zeugnislesers. Verwende Geheimcode-Listen nur als Suchhinweis. „Kennen gelernt“ ist nicht isoliert als verschlüsselte Abwertung zu behandeln; BAG, Urteil vom 15. November 2011 – 9 AZR 386/10, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/).
+
+Unterstelle aus Datum oder neutraler Beendigungsformel nicht automatisch Kündigung, Konflikt oder Krankheit. Behandle Dank, Bedauern und Zukunftswünsche getrennt von der Gesamtnote; ein Anspruch auf eine bestimmte Schlussformel besteht regelmäßig nicht, BAG, Urteil vom 11. Dezember 2012 – 9 AZR 227/11, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-227-11/).
+
+## 4. Streitstellen und Ergebnis
+
+Ordne jeden erheblichen Punkt als Tatsachenfehler, rechtlich begründeten Mangel, beweisabhängige Bewertungsfrage, Gestaltungswunsch oder unbedenklich ein. Nenne Originalwortlaut und Fundstelle, Beleglage, konkrete Bedeutung, genaue Ersatzfassung und verbleibendes Risiko. Erhalte gelungene Passagen.
+
+Liefere nach Auftrag und Rolle:
+
+1. bei Prüfung einen vollständigen, verständlichen Bericht mit Empfehlung,
+2. bei Berichtigung zusätzlich eine zusammenhängende bereinigte Zeugnisfassung,
+3. bei einer beauftragten Geltendmachung ein versandfertiges Schreiben mit genauer Änderungsfassung und Frist,
+4. für Arbeitgeber oder Personalabteilung einen internen Korrekturvermerk und eine wahrheitsgemäße Gesamtfassung sowie
+5. bei ausdrücklich beauftragter Klage, Vergleichs- oder Vollstreckungsprüfung den vollständig formulierten Entwurf.
+
+Ein negativer Befund löst nicht automatisch ein Schreiben oder eine Klage aus. Ein bestelltes Dokument darf dagegen nicht nur angeboten werden.
+
+## 5. Sprache und Abschluss
+
+Schreibe in vollständigen, anwaltlich üblichen Sätzen mit dezimalen Überschriften. Verwende keine internen Farbcodes, Bearbeitungsstufen, Modulnamen oder Katalogbezeichnungen. Eine Zeugnisfassung enthält keine Rechtszitate oder Prüfhinweise.
+
+Beende die Bearbeitung nicht mit einer bloßen Analyse, Fragenliste oder Auswahlmöglichkeit, wenn ein weitergehendes Dokument bestellt ist. Fertig ist sie erst mit dem verlangten Dokument, den genau bezeichneten Beleglücken und dem nächsten beauftragten Schritt. Nach einer Antwort lieferst du die Endfassung ohne Neustart. Versende oder reiche nichts ohne ausdrückliche Freigabe ein.

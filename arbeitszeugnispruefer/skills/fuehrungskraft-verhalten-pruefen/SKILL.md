@@ -1,14 +1,18 @@
 ---
 name: fuehrungskraft-verhalten-pruefen
-description: "Für Führungskraft-Verhalten prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft bei angegebener oder zu klärender Führungsverantwortung, ob Aufgaben, Führungsleistung und Sozialverhalten im Arbeitszeugnis zutreffend und vollständig dargestellt sind. Formuliert belegte Ergänzungen; nicht für eine pauschale Loyalitäts- oder Charakterdeutung."
 ---
 
-# Fuehrungskraft-Verhalten pruefen
+# Zeugnisse von Führungskräften prüfen
 
-Zeugnisse fuer Fuehrungskraefte unterliegen erhoehten Pruefanforderungen. Neben den Standardachsen Leistung, Verhalten und Engagement muss das Zeugnis explizit Aussagen zur Mitarbeiterfuehrung und zur Loyalitaet gegenueber dem Unternehmen enthalten. Fehlen diese Aussagen, ist das ein schweres Auslassungssignal.
+## 1. Tatsachengrundlage
 
-Pflichtbestandteile bei Fuehrungspositionen: Das Zeugnis muss beschreiben, wie die Person Mitarbeitende gefuehrt hat (Fuehrungsstil, Motivation, Entwicklung des Teams). Die Ausblendung dieses Bereichs bei einer Stelle mit nachgewiesener Fuehrungsverantwortung ist ein roter Auslassungsbefund. Ebenso muss bei Fuehrungskraeften eine Aussage zur Loyalitaet gegenueber Unternehmen und Unternehmenszielen vorhanden sein. Fehlt sie, riskiert das Zeugnis die Lesart eines Loyalitaetsproblems.
+Kläre anhand von Vertrag, Organigramm, Stellenbeschreibung und Beurteilungen, ob und in welchem Umfang Personal- oder Ergebnisverantwortung bestand. Erst danach ist zu prüfen, ob der Tätigkeitsabschnitt Mitarbeiterzahl, Verantwortungsbereich und wesentliche Führungsaufgaben zutreffend abbildet und ob die Beurteilung die tatsächlich ausgeübte Führungsleistung erfasst.
 
-Spezifische Negativcodierungen fuer Fuehrung: „War im Rahmen seiner Faehigkeiten loyal" ist eine riskante Einschraenkungslesart. „Identifizierte sich mit den von ihm uebernommenen Aufgaben" (nicht mit dem Unternehmen) riskiert die Lesart fehlender Unternehmensidentifikation. „Setzte seine Meinung mit Nachdruck durch" kann bei Fuehrungskraeften als Autoritarismus gelesen werden. „Achtete auf die Vertraulichkeit dienstlicher Angelegenheiten" als auffaellig betonter Einzelsatz riskiert eine Verschwiegenheits-Lesart.
+Eine allgemeine Pflicht zu einer bestimmten „Loyalitätsformel“ besteht nicht. Das Fehlen eines solchen Wortes beweist kein Loyalitätsproblem. Ebenso dürfen Wendungen wie „setzte seine Meinung mit Nachdruck durch“ nicht ohne Gesamtzusammenhang als Charakterurteil ausgelegt werden. Prüfe vielmehr konkrete Aussage, Stellung im Satz, übrige Bewertung und vorhandene Tatsachen.
 
-Unterschrifts-Hierarchie bei Fuehrungskraeften: Das Zeugnis einer Fuehrungskraft muss von einem hierarchisch mindestens gleichrangigen Vertreter des Arbeitgebers unterzeichnet werden. Unterschreibt eine Person, die im Unternehmen unter der beurteilten Fuehrungskraft stand, ist das ein formaler Abwertungscode, der als roter Befund in die Einschaetzungsmatrix aufgenommen wird.
+Die Person und Funktion des Unterzeichners sind als Frage der äußeren Form gesondert zu behandeln. Bezeichne eine hierarchische Auffälligkeit nicht als Geheimcode; kläre, ob die Unterzeichnung die Vertretungsbefugnis und ranghöhere Stellung nach außen erkennen lässt.
+
+## 2. Ergebnis und Fortführung
+
+Liefere zu jeder erheblichen Lücke den Aktenbeleg, die Bedeutung und einen vollständigen Ergänzungs- oder Ersatzsatz. Übernimm diese Sätze in den laufenden Prüfbericht und die bestellte Neufassung. Frage nur nach Umfang oder Bewertung der Führung, wenn davon der Text abhängt; bearbeite unabhängige Abschnitte fertig. Nach der Antwort setzt du am offenen Punkt fort, ohne die Prüfung neu zu beginnen. Eine bloße Führungsanalyse genügt nicht, wenn ein Bericht, Schreiben oder Zeugnis bestellt ist.

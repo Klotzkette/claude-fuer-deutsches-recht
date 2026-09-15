@@ -1,14 +1,18 @@
 ---
 name: note-1-formeln-erkennen
-description: "Für Note-1-Formeln erkennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines Arbeitszeugnisses die Zielstufe ‚sehr gut‘ trägt. Berücksichtigt Einzelleistungen und Belege; nicht für eine offene Noteneinordnung oder die Verhaltensbeurteilung."
 ---
 
-# Note-1-Formeln erkennen
+# Sehr gute Bewertung prüfen
 
-Note 1 im Arbeitszeugnis setzt den Maximalsteigerer voraus. Ohne ihn ist Note 1 sprachlich nicht erreichbar, unabhaengig davon, wie positiv der Rest des Zeugnisses klingt. Der Pruefer sucht gezielt nach den folgenden Signalwoertern und prueft, ob sie an der richtigen Stelle stehen.
+## 1. Einordnung
 
-Maximalsteigerer fuer Note 1 sind: „stets vollster" (Maximalformel), „jederzeit aeusserst", „vollkommen", „aeusserst", „in hoechstem Masse", „uneingeschraenkt", „absolut" und „in allen Belangen". Jedes dieser Adverbien hebt die Aussage auf die hoechste Wertstufe. Fehlt der Maximalsteigerer in der Leistungsformel, ist Note 1 nicht belegt, auch wenn einzelne Detailsaetze herausragende Leistungen beschreiben.
+Identifiziere zunächst die zusammenfassende Leistungsbeurteilung und ordne sie im Zusammenhang mit den leistungsbezogenen Einzelsätzen ein. Die Formel „stets zu unserer vollsten Zufriedenheit“ ist ein verbreiteter Anhaltspunkt für eine sehr gute Gesamtleistung. Auch andere sprachlich eindeutige Fassungen sind möglich. Ein einzelnes Superlativwort entscheidet ebenso wenig allein wie eine feste Zahl besonders positiver Detailsätze.
 
-Gruene Flaggen der Note 1 gehen ueber die Leistungsformel hinaus. Der Pruefer sucht nach Formulierungen wie „hervorragende Leistungen", „ausgezeichnete Fachkenntnisse", „stets einwandfrei" im Verhaltensabschnitt, „ausserordentliches Engagement", „weit ueber den Erwartungen" und dem Schlussverstaerker „wuerden ihn jederzeit wieder einstellen" oder „koennen ihn uneingeschraenkt empfehlen". Diese Formulierungen stuetzen die Note-1-Gesamtbewertung.
+Die Schlussformel ist von der Zeugnisnote zu trennen. Ihr Fehlen verhindert nicht automatisch eine sehr gute Leistungsbewertung. Verlangt der Arbeitnehmer eine überdurchschnittliche, insbesondere sehr gute Beurteilung, sind konkrete Tatsachen und Beweismittel für das beanspruchte Niveau zu benennen.
 
-Pruefanweisung: Der Pruefer liest Leistungsformel, Einzelsaetze und Schlussformel gemeinsam. Sind Maximalsteigerer in der Leistungsformel vorhanden, enthalten mindestens drei Detailsaetze Note-1-Signale, und ist die Schlussformel vollstaendig mit Bedauern, Dank und Wunsch sowie Erfolgswunsch, ist das Zeugnis als Note 1 einzustufen. Fehlt auch nur eine dieser Ebenen, ist die Einstufung auf Note 1 bis 2 zu korrigieren und die Luecke als Befund auszuweisen.
+## 2. Ergebnis und Fortführung
+
+Gib die derzeit belegte Bewertungsstufe, tragende Formulierungen, Widersprüche und Beweisgrundlage an. Besteht Änderungsbedarf, formuliere einen vollständigen Ersatzsatz und gleiche ihn mit den übrigen Einzelbewertungen ab. Kennzeichne eine nur gewünschte Aufwertung als solche.
+
+Übernimm das Ergebnis in die laufende Gesamtbewertung und das bestellte Dokument. Frage nur nach einer Leistungstatsache, die zwischen sehr guter und niedrigerer Bewertung entscheidet; unabhängige Korrekturen werden fertiggestellt. Nach der Antwort aktualisierst du die betroffenen Sätze ohne Neustart. Die Bearbeitung endet nicht mit einer Notenbenennung, wenn eine Neufassung oder ein Schreiben aussteht.

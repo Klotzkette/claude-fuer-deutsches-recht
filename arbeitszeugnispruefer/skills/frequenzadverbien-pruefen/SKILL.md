@@ -1,14 +1,20 @@
 ---
 name: frequenzadverbien-pruefen
-description: "Für Frequenzadverbien prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Häufigkeitsangaben wie ‚stets‘, ‚häufig‘, ‚gelegentlich‘ oder ‚zumeist‘ in Leistungs- und Verhaltenssätzen. Ordnet ihre konkrete Einschränkungswirkung im Satzkontext ein, ohne starre Wort-zu-Noten-Tabellen."
 ---
 
-# Frequenzadverbien pruefen
+# Häufigkeitsangaben im Zeugnis prüfen
 
-Frequenzadverbien geben an, wie oft etwas geschieht, nicht wie gut. In der Zeugnissprache werden sie dennoch zur Notensteuerung eingesetzt und koennen eine Bewertungsaussage abschwaechen, wenn sie einen eigentlich positiven Satz einschraenken. Der Pruefer prueft Frequenzadverbien getrennt von Steigerungsadverbien und ordnet sie der richtigen Notenwirkung zu.
+## 1. Sprachliche Einordnung
 
-Die Frequenzskala von gut nach schlecht: „oft" (Note 2 bis 3), „meist" (Note 3), „haeufig" (Note 3), „gelegentlich" (Note 4), „bisweilen" (Note 4 bis 5). Die Grenze zwischen positiver Haeufigkeit und negativer Einschraenkung liegt bei „gelegentlich": Dieses Wort setzt eine merkliche Zahl von Ausnahmen voraus und draengt die Bewertung in den orangen bis roten Bereich.
+Bestimme, worauf sich das Häufigkeitswort grammatisch bezieht und ob es Beständigkeit hervorhebt oder Ausnahmen erkennen lässt. Ein Wort wie „stets“ kann eine positive Bewertung verstärken; „gelegentlich“ oder „zumeist“ kann eine Aussage begrenzen. Daraus folgt jedoch nicht unabhängig vom Prädikat und Gesamttext automatisch eine bestimmte Schulnote.
 
-Abgrenzung zu Scheinsteigern: Scheinsteigerer wie „regelmaessig" oder „zumeist" fallen in die Kategorie Frequenz und erzeugen ebenfalls keinen Qualitaetsgewinn. „Regelmaeszig loyal" bedeutet nicht durchgehend loyal, sondern mit erkennbaren Ausnahmen. Der Pruefer kennzeichnet solche Formulierungen als orangefarbenen Befund, weil sie auf den ersten Blick positiv wirken, aber keine Note-2-Aussage tragen.
+Vergleiche die Formulierung mit der zusammenfassenden Leistungsbeurteilung, den Einzelsätzen und vorhandenen Vorzeugnissen. Eine Abweichung zu einem früheren Zeugnis ist nur dann ein Berichtigungspunkt, wenn die tatsächlichen Verhältnisse, der Beurteilungszeitraum und eine etwaige Neubewertung berücksichtigt sind. Verwende keine erfundene feste Häufigkeitsskala.
 
-Pruefanweisung: Der Pruefer sucht alle Frequenzadverbien im Zeugnis und prueft, ob sie dort stehen, wo eine Qualitaetsaussage erwartet wird. Ein Satz wie „zeigte haeufig Eigeninitiative" suggeriert, dass Eigeninitiative nicht durchgaengig vorhanden war. Der Pruefer notiert das Frequenzadverb, die decodierte Aussage und die daraus folgende Notentendenz in der Einschaetzungsmatrix. Steht an derselben Stelle in einem Vergleichszeugnis „zeigte stets hervorragende Eigeninitiative", ist der Unterschied als Berichtigungspunkt aufzufuehren.
+## 2. Ergebnis
+
+Nenne Originalsatz, Bezugswort, sprachliche Wirkung, Einordnung im Gesamtzeugnis und gegebenenfalls einen präzisen Ersatzsatz. Weise eine Bewertungsstufe nur aus, wenn Satz und Kontext sie tragen; andernfalls formuliere die verbleibende Unsicherheit. Trenne rechtlich begründeten Änderungsbedarf von dem Wunsch nach einer günstigeren Formulierung.
+
+## 3. Fortführung des Auftrags
+
+Übernimm den Befund in die laufende Satz- oder Änderungsmatrix und anschließend in das bestellte Dokument. Frage nur nach Vergleichszeitraum oder Leistungstatsachen, wenn dies die Bewertung ändert; alle unabhängigen Passagen werden fertiggestellt. Nach der Antwort passt du nur die betroffenen Sätze an und arbeitest ohne Neustart bis zur vollständigen Fassung weiter.

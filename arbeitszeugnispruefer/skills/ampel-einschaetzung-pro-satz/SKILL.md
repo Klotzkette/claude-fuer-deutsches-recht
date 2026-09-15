@@ -1,14 +1,30 @@
 ---
 name: ampel-einschaetzung-pro-satz
-description: "Für Ampel-Einschätzung pro Satz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Vergleicht bei einer Arbeitszeugnisprüfung einzelne streitige Sätze mit ihrer Funktion, dem Gesamtzusammenhang, der belegbaren Notentendenz und einer konkreten Ersatzfassung; Farbcodes nur auf ausdrücklichen Wunsch."
 ---
 
-# Ampel-Einschaetzung pro Satz
+# Streitige Zeugnisformulierungen vergleichen
 
-Die satzweise Einschaetzungsmatrix ist das methodische Kernwerkzeug der Zeugnispruefung. Fuer jeden notenrelevanten Satz werden fuenf Informationen erhoben und in einer Tabellenzeile zusammengefasst. Das Ergebnis ist eine nachvollziehbare, rechtsprechungsbasierte Bewertung aller Schlusselsaetze.
+## 1. Zweck
 
-Die fuenf Matrixspalten: Erstens Originalwortlaut (exakt, in Anfuhrungszeichen), zweitens decodierte Aussage (was sagt der Satz im Klartext aus Sicht des objektiven Empfaengers), drittens Notentendenz als Zahl oder Spanne (zum Beispiel 3 bis 4), viertens Ampelfarbe in Worten (gruen, orange, rot) oder als Doppelwertung bei Mischbefunden (gruen-orange), fuenftens Katalogfundstelle und wo vorhanden die tragende BAG-Entscheidung aus dem Rechtsprechungsanker.
+Untersuche nur Sätze, die für Tätigkeit, Leistung, Verhalten, Klarheit, Form oder Abschluss erheblich sind. Eine vollständige Satz-für-Satz-Tabelle ist kein Selbstzweck und ersetzt weder die Gesamtwürdigung noch den bestellten Bericht.
 
-Ampelzuordnung: gruen steht fuer Note 1 bis 2 und unbedenkliche Formulierungen. orange steht fuer Note 3, Abschwachungen und Verhandlungspunkte. rot steht fuer Note 4 bis 6, Negativcodes und dringende Berichtigungspunkte. Mischbefunde werden als Doppelwertung ausgewiesen, zum Beispiel gruen-orange bei einem Satz mit Standardsteigerer aber fehlendem Maximalfokus.
+## 2. Vergleich
 
-Unsicherheitsvermerke: Wenn ein Satz nicht im Katalog steht und keine BAG-Entscheidung unmittelbar greift, wird die Notentendenz als Annahme gekennzeichnet (zum Beispiel: „Tendenz Note 3, Ableitung aus dem objektiven Empfaengerhorizont; keine direkte BAG-Stuetze; Live-Recherche empfohlen"). Der Pruefer behauptet nie eine sichere Codierung, wenn die Grundlage unsicher ist. Am Ende der Matrix wird eine Ampel-Bilanz-Zeile ausgegeben, die die Verteilung der Bewertungen auf einen Blick zeigt.
+Nenne je Streitstelle den exakten Originalwortlaut und seine Fundstelle, die Funktion im Zeugnis, die Aussage im konkreten Gesamtzusammenhang, die belegbare rechtliche oder sprachliche Bedeutung, die Beweislage und eine genaue Ersatzfassung. Ordne den Punkt als Tatsachenfehler, rechtlich begründeten Mangel, beweisabhängige Bewertungsfrage, Gestaltungswunsch oder unbedenklich ein.
+
+## 3. Note und Handlungsbedarf
+
+Trenne die sprachliche Notentendenz vom rechtlichen Änderungsbedarf. Eine durchschnittliche Bewertung ist nicht allein deshalb mangelhaft, weil sie einer mittleren Note entspricht. Farbcodes werden nur ausgegeben, wenn die nutzende Person sie verlangt; dann bezeichnen sie den Handlungsbedarf und nicht automatisch eine Schulnote.
+
+## 4. Unsicherheit
+
+Behaupte keine sichere Geheimcodierung allein aufgrund eines Katalogtreffers. Erkläre bei mehreren vertretbaren Lesarten den tatsächlichen Anhaltspunkt und die Gegenlesart. Erhalte positive und unstreitige Sätze.
+
+## 5. Rückfrage und Fortsetzung
+
+Fehlt für eine Ersatzfassung eine entscheidende Tatsache, frage gezielt nach und liefere zugleich den gesicherten Vergleich sowie bedingte Varianten. Nach der Antwort aktualisierst du nur die betroffene Zeile. Der Vergleich fließt anschließend in den bestellten Prüfbericht, die Gesamtfassung oder das Schreiben ein; er ist kein Abschluss, wenn ein solches Dokument aussteht.
+
+## 6. Ausgabe
+
+Verwende eine Tabelle nur, wenn sie den Textvergleich erleichtert. Im eigentlichen Zeugnis und in einem Empfängerschreiben erscheinen keine internen Bewertungen, Farbcodes oder Katalogbezeichnungen.

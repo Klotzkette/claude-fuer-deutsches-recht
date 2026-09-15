@@ -119,6 +119,20 @@ def iso_day(value):
         raise LabError("Ungültiges oder zukünftiges Prüfdatum")
 
 
+def validate_prompt_review(review, label, path):
+    if not isinstance(review, dict):
+        raise LabError(f"{label} muss ein JSON-Objekt sein")
+    if not isinstance(review.get("verdict"), str) or review["verdict"] not in {"revised", "retained"}:
+        raise LabError(f"Individuelle {label} fehlt")
+    nonempty(review.get("reason"), f"{label}grund")
+    list_strings(review.get("changes", []), f"{label}änderungen", minimum=0)
+    prompt_hash = review.get("sha256")
+    if not isinstance(prompt_hash, str) or not re.fullmatch(r"[0-9a-f]{64}", prompt_hash):
+        raise LabError(f"{label} benötigt sha256 mit 64 kleinen Hexadezimalzeichen")
+    if prompt_hash != digest(bounded_bytes(path)):
+        raise LabError(f"{label} seit individueller Prüfung verändert")
+
+
 def marketplace(root=ROOT):
     return {p["name"]: inside(root, p["source"]) for p in load(root / ".claude-plugin/marketplace.json")["plugins"]}
 
@@ -129,18 +143,18 @@ def validate_profile(profile, plugin, directory, root=ROOT):
     if profile.get("schema_version") != 1 or profile.get("plugin") != plugin:
         raise LabError("Profilversion oder Plugin-Zuordnung falsch")
     iso_day(profile.get("reviewed_on"))
-    review = profile.get("mini_review", {})
-    if not isinstance(review, dict):
-        raise LabError("Mini-Prüfung muss ein JSON-Objekt sein")
-    if not isinstance(review.get("verdict"), str) or review["verdict"] not in {"revised", "retained"}:
-        raise LabError("Individuelle Mini-Prüfung fehlt")
-    nonempty(review.get("reason"), "Mini-Prüfgrund")
-    list_strings(review.get("changes", []), "Mini-Änderungen", minimum=0)
-    mini_hash = review.get("sha256")
-    if not isinstance(mini_hash, str) or not re.fullmatch(r"[0-9a-f]{64}", mini_hash):
-        raise LabError("Mini-Prüfung benötigt sha256 mit 64 kleinen Hexadezimalzeichen")
-    if mini_hash != digest(bounded_bytes(directory / f"{plugin}-schnellstart.md")):
-        raise LabError("Mini-Prompt seit individueller Prüfung verändert")
+    validate_prompt_review(
+        profile.get("mini_review", {}),
+        "Mini-Prüfung",
+        directory / f"{plugin}-schnellstart.md",
+    )
+    workshop_review = profile.get("workshop_review")
+    if workshop_review is not None:
+        validate_prompt_review(
+            workshop_review,
+            "Werkstatt-Prüfung",
+            directory / f"{plugin}-werkstatt.md",
+        )
     selection = profile.get("selection", {})
     if not isinstance(selection, dict):
         raise LabError("Auswahlprüfung muss ein JSON-Objekt sein")

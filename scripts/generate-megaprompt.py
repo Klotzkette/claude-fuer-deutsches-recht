@@ -62,7 +62,8 @@ def collect_skills(plugin_dir: Path) -> list[tuple[str, Path, str, str]]:
     skills_dir = plugin_dir / 'skills'
     if not skills_dir.is_dir():
         return []
-    priority_first = ['juristischer-argumentationskern',
+    priority_first = ['einfuehrung-pruefauftrag',
+                      'juristischer-argumentationskern',
                       'bea-versandmappe-endfertigung',
                       'versandmappe-endfertigen',
                       'anlagen-zu-schriftsaetzen',

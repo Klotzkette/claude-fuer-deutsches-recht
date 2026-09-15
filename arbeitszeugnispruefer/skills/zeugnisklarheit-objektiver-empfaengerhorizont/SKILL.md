@@ -1,14 +1,20 @@
 ---
 name: zeugnisklarheit-objektiver-empfaengerhorizont
-description: "Für Zeugnisklarheit nach dem objektiven Empfängerhorizont (BAG 9 AZR 352.04; 9 AZR 386.10): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
+description: "Prüft als Auffangprüfung sonstige konkrete Klarheits- oder Mehrdeutigkeitsfragen nach § 109 Abs. 2 GewO aus Sicht eines objektiven verständigen Zeugnislesers. Formuliert eindeutige Alternativen unter Wahrung des Formulierungsspielraums des Arbeitgebers."
 ---
 
-# Zeugnisklarheit nach dem objektiven Empfaengerhorizont (BAG 9 AZR 352.04; 9 AZR 386.10)
+# Zeugnisklarheit und objektiver Empfängerhorizont prüfen
 
-Das Gebot der Zeugnisklarheit verlangt, dass jede Formulierung im Zeugnis dem objektiven Leser dasselbe vermittelt, was sie wortwortlich sagt. Mehrdeutigkeiten, verklausulierte Negativaussagen und ironisch ueberzogenes Lob verstoossen gegen dieses Gebot. Massgeblich ist nicht die Absicht des Arbeitgebers, sondern der objektive Empfaengerhorizont (BAG 21.6.2005 - 9 AZR 352.04).
+## 1. Rechtlicher Maßstab
 
-Das BAG-Urteil vom 11.12.2012 (9 AZR 227.11) klart die Schlussformel-Seite dieses Gebots: Es gibt keinen Anspruch auf Dank und gute Wuensche; Empfindungsaeusserungen des Arbeitgebers gehoren nicht zum geschuldeten Zeugnisinhalt. Wichtige Folge: Ist der Mandant mit einer erteilten Schlussformel unzufrieden, kann er nur ein Zeugnis ohne Schlussformel verlangen, nicht eine bestimmte Umformulierung. Diese Grenze des Anspruchs ist im Mandantenbericht klar auszuweisen.
+Prüfe den vollständigen Satz zusammen mit seinem näheren Textumfeld und dem Zeugnis als Ganzem. § 109 Abs. 2 GewO verlangt eine klare und verständliche Formulierung und verbietet Merkmale oder Formulierungen, die bezwecken, eine andere als die äußerlich oder wörtlich erkennbare Aussage zu treffen. Maßgeblich ist die objektive Wirkung für einen verständigen Zeugnisleser, nicht eine lediglich behauptete Absicht des Arbeitgebers.
 
-Grenzen der Decodierung: Das BAG hat in seinem Urteil vom 15.11.2011 (9 AZR 386.10) entschieden, dass „kennen gelernt" allein und losgeloest vom uebrigen Zeugnisinhalt kein unzulaessiger Geheimcode ist. Der Arbeitgeber hat bei Werturteilen einen Formulierungsspielraum; Grenzen sind Zeugniswahrheit und Zeugnisklarheit. Nicht jede unuebliche Formulierung ist ein Verstoss. Der Pruefer kennzeichnet Grenzfaelle immer mit einem Unsicherheitsvermerk und verzichtet auf sichere Codebenennung, wenn kein BAG-Anker vorhanden ist.
+Der Arbeitgeber behält einen Formulierungsspielraum. Nicht jede ungewöhnliche Wendung ist mehrdeutig oder ein Geheimcode. BAG, Urteil vom 15. November 2011 – 9 AZR 386/10, zeigt, dass insbesondere die Formulierung „kennen gelernt“ nicht isoliert negativ umgedeutet werden darf. Beziehe für die Auslegung Wortlaut, Satzbau, unmittelbaren Kontext und übrige Bewertungen ein. Schlussformeln und ihre regelmäßig fehlende Erzwingbarkeit sind getrennt zu behandeln.
 
-Pruefanweisung: Der Pruefer prueft jede Formulierung, die auf den ersten Blick positiv klingt, aber eine Einschraenkung oder Mehrdeutigkeit enthalten koennte. Findet er eine, prueft er, ob aus Empfaengersicht die Abweichung zwischen Wortlaut und Aussage klar erkennbar ist. Ist das der Fall, liegt ein Geheimzeichenverstooss nach Paragraf 109 Absatz 2 Satz 2 GewO vor. Ist die Lesart nur moeglich, aber nicht zwingend, bleibt es bei einem Tendenzhinweis mit Unsicherheitsvermerk.
+## 2. Ergebnis
+
+Nenne Originalwortlaut und Fundstelle, naheliegende wörtliche Bedeutung, eine konkret vertretbare Nebenbedeutung, Kontext, Grad der Sicherheit und rechtliche Relevanz. Unterscheide Klarheitsverstoß, auslegungsbedürftige Formulierung und unbegründete Codevermutung. Formuliere bei erheblicher Mehrdeutigkeit einen vollständigen eindeutigen Ersatzsatz.
+
+## 3. Fortführung des Auftrags
+
+Übernimm die Einordnung und den Ersatztext in den laufenden Prüfvermerk, die Änderungsmatrix und das bestellte Dokument. Frage nur nach einem Kontextumstand, der die objektive Auslegung ändert; bearbeite unabhängige Punkte fertig. Nach der Antwort prüfst du nur die offene Passage erneut und setzt den Auftrag ohne Neustart fort. Eine bloße Sammlung möglicher Nebenbedeutungen ist kein Endprodukt.
