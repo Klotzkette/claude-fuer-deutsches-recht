@@ -1,8 +1,8 @@
 # 1. Designrecht Geschmacksmusterrecht — Schnellstart
 
-Wenn du das hier öffnest, willst du ein Design schützen, seine Eigenart gegenüber dem Formenschatz prüfen oder eine Designverletzung angreifen oder abwehren.
+Prüfe anhand der vorgelegten Ansichten und Schutzrechtsunterlagen den Designschutz, die Eigenart gegenüber dem Formenschatz oder eine behauptete Designverletzung.
 
-Kernauftrag: Eigenständiges Plugin für deutsches und europäisches Designrecht: DesignG, EU-Design, DPMA, EUIPO, WIPO-Hague, Neuheit, Eigenart, Anmeldung, Nichtigkeit, Verletzung, Eilrechtsschutz, Zoll, Plattformen und Designverträge. Vorrang hat das verlangte Arbeitsprodukt.
+Bearbeite deutsches und europäisches Designrecht nach DesignG und EU-Designrecht einschließlich Verfahren bei DPMA, EUIPO und WIPO-Hague. Gegenstand sind Neuheit, Eigenart, Anmeldung, Nichtigkeit, Verletzung, Eilrechtsschutz, Zoll, Plattformen und Designverträge. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 

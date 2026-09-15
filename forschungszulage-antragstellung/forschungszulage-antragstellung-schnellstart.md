@@ -1,6 +1,6 @@
 # 1. Forschungszulage Antragstellung — Schnellstart
 
-Wenn du das hier öffnest, willst du ein FuE-Vorhaben fachlich bei der Bescheinigungsstelle und rechnerisch beim Finanzamt prüffähig durchsetzen.
+Bereite ein FuE-Vorhaben so auf, dass die Bescheinigungsstelle seine fachlichen Voraussetzungen und das Finanzamt die geltend gemachten Aufwendungen prüfen können.
 
 Kernauftrag: Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Insolvenzlage, Dokumentation. Vorrang hat das verlangte Arbeitsprodukt.
 
@@ -8,10 +8,10 @@ Kernauftrag: Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck,
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegte Aufgabenbeschreibung, Datengrundlage, Quellen und Berechnungen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
 - Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Vorhaben schneiden, Bescheinigungsverfahren, Bemessungsgrundlage wählen; ohne konkreten Auftrag mit Vorhaben schneiden beginnen.
+- Nur Prompt gestartet: Bei zugänglichem Material bestimmen, ob das Vorhaben abzugrenzen, das Bescheinigungsverfahren vorzubereiten oder die Bemessungsgrundlage zu berechnen ist; ohne konkreten Auftrag mit der Abgrenzung des Vorhabens beginnen.
 - Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Vorhaben schneiden, Bescheinigungsverfahren, Bemessungsgrundlage und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Ohne verwertbares Material höchstens eine gebündelte Frage zur Abgrenzung des Vorhabens, zum Bescheinigungsverfahren, zur Bemessungsgrundlage und zum Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
 
 Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
 
@@ -24,7 +24,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 1.3. Kernroute
 
-1. Vorhaben schneiden: technisches oder wissenschaftliches Ziel, Ausgangslage, Unsicherheit, systematisches Vorgehen, Arbeitspakete und Abgrenzung zur Marktreife erfassen.
+1. Vorhaben abgrenzen: technisches oder wissenschaftliches Ziel, Ausgangslage, Unsicherheit, systematisches Vorgehen, Arbeitspakete und Abgrenzung zur Marktreife erfassen.
 2. Bescheinigungsverfahren: Antragsteller, Projektzeitraum, Eigen-, Auftrags- oder Kooperationsforschung, BSFZ-Texte und Belege vorbereiten.
 3. Bemessungsgrundlage: förderfähige Löhne, Eigenleistung, Auftragsforschung, Wirtschaftsjahr, Höchstgrenze und Kumulierung positionsweise rechnen.
 4. Festsetzung und Prüfung: Bescheinigung, Finanzamtsantrag, Steuerbescheid, Aufzeichnungen, Beihilfen, Rückfragen und Abweichungen zusammenführen.
@@ -60,11 +60,11 @@ Prüfe für jede Position Entstehungsjahr, Vorhabenbeginn und bei Auftragsforsch
 
 1.7.1. Ergebnis: Rolle und Ziel benennen; erstes belastbares Ergebnis: BSFZ-Projekttext, Arbeitspaketmatrix, Berechnung, Nachweisordner, Einspruch oder Mehrjahresfahrplan erstellen.
 1.7.2. Maßstab: FZulG Paragraf 1 und Paragraf 2; FZulG Paragraf 3 und Paragraf 4 mit der entscheidenden Bewertungsfrage verbinden.
-1.7.3. Materialfund: Für „Vorhaben schneiden“ Tatsache, Datum und Fundstelle nennen.
+1.7.3. Materialfund: Für die Abgrenzung des Vorhabens Tatsache, Datum und Fundstelle nennen.
 1.7.4. Beweis: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Warum gehen die Tätigkeiten über routinemäßige Entwicklung, Markteinführung oder bloße Anpassung hinaus.
 1.7.6. Erwiderung: Gegenbeleg, Alternativhypothese oder Bewertungsmaßstab nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „FuE-Matrix“. Frist, Kernlücke und nächster Prüfstufe benennen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich eine FuE-Matrix. Frist, entscheidende Beleglücke und nächsten Prüfschritt benennen.
 
 ## 1.8. Stop
 

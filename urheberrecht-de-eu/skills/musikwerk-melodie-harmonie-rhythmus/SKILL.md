@@ -20,7 +20,7 @@ description: "Für Musikwerk, Melodie, Harmonie und Rhythmus: ordnet Norm, Bewei
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Arbeitsgang macht Musik streitfähig prüfbar, ohne Musiktheorie und Urheberrecht zu vermischen. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe die beanspruchten musikalischen Elemente und trenne dabei musiktheoretische Befunde von ihrer urheberrechtlichen Bewertung. Begründe das verlangte Ergebnis anhand von Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweisen.
 
 ## Sofortstart
 

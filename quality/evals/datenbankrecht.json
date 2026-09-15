@@ -8,7 +8,7 @@
     {"url":"https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62002CJ0203","checked_on":"2026-09-14","supports":"EuGH, Urteil vom 9. November 2004, C-203/02: Datenerzeugung und erzeugungsbegleitende Prüfung sind von Investitionen in vorhandene Daten abzugrenzen."},
     {"url":"https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62007CJ0304","checked_on":"2026-09-14","supports":"EuGH, Urteil vom 9. Oktober 2008, C-304/07: Auch Übertragung nach Bildschirmabfrage und eigener Auswahl kann Entnahme sein."}
   ],
-  "mini_review": {"sha256":"9ce5217e325e9727a8b27801eb1ff73e27de8ecd9f0c7d0c50caf23e047e326f",
+  "mini_review": {"sha256":"d460c4bd3f89733f1778ed5abda5b82040f0643d41406567789934cb7e25a552",
     "verdict": "revised",
     "reason": "Die bisherige fachliche Schutz- und Investitionslinie war richtig angelegt, wurde aber in mehreren Tabellen wiederholt und brach bei fehlenden Zugriffsbelegen pauschal ab. Der Investitionsspezialskill wurde insbesondere auf die Trennung erzeugter und beschaffter Daten abgeglichen.",
     "changes": ["Investitionsprotokoll mit belegter Mischkostenzuordnung statt Gesamtkostenargument ausgearbeitet.","Qualitative und quantitative Wesentlichkeit sowie kumulative Teilübernahmen konkretisiert.","Beide einschlägigen Urteile erhalten und amtlich verifiziert; Vertragsansprüche und Datenbankrechte getrennt."]

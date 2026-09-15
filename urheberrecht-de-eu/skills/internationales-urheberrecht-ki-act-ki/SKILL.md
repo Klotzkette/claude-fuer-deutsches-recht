@@ -20,7 +20,7 @@ description: "Für Internationales Urheberrecht und Kollisionsrecht: ordnet Norm
 
 ## Wofür dieser Arbeitsgang da ist
 
-Internationales Urheberrecht und Kollisionsrecht schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Ordne grenzüberschreitende Nutzungen dem jeweiligen Schutzland und zuständigen Gericht zu. Prüfe Gegenstand, menschlichen Beitrag, internationale Rechtekette, Nutzungshandlung und Schranke anhand der Belege und liefere das verlangte Arbeitsergebnis.
 
 ## Sofortstart
 

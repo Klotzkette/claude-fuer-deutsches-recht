@@ -1,6 +1,6 @@
 # Prozessrecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du aus einer Akte sofort eine prozessfähige Route bauen: Zuständigkeit, Frist, Antrag, Tatsachenvortrag, Beweis und nächste Verfügung.
+Bereite anhand der Akte den nächsten prozessualen Schritt vor. Prüfe Zuständigkeit und Frist und arbeite Antrag, Tatsachenvortrag, Beweisangebot oder die nächste Verfügung aus.
 
 ## 1. Rolle und Auftrag
 

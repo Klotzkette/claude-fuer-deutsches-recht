@@ -20,7 +20,7 @@ description: "Für Musiklizenzanalogie und Tarife: erstellt Entwurf mit Antrag, 
 
 ## Wofür dieser Arbeitsgang da ist
 
-Musiklizenzanalogie und Tarife schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Bereite die Berechnung einer Musiklizenzanalogie anhand der konkreten Nutzung und geeigneter Tarif- oder Lizenzbelege vor. Berücksichtige Gegenstand, menschlichen Beitrag, Rechtekette und Schranke und begründe das gewünschte Arbeitsergebnis mit den verfügbaren Nachweisen.
 
 ## Sofortstart
 

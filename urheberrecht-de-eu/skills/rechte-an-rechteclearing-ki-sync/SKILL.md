@@ -20,7 +20,7 @@ description: "Für Prompts, Promptbooks und Workflows: ordnet Norm, Beweislast u
 
 ## Wofür dieser Arbeitsgang da ist
 
-Prompts, Promptbooks und Workflows schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe Schutz und Nutzung der vorgelegten Prompts, Promptsammlungen oder Arbeitsabläufe. Berücksichtige Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise und arbeite die verlangte Abgrenzung zu Vertrags- und Geheimnisschutz aus.
 
 ## Sofortstart
 

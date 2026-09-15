@@ -64,7 +64,7 @@ Für Patent, Design und Marke jeweils den eigenen Schutzgegenstand vergleichen; 
 1.7.4. Beweis: Anspruchsteller für Schutzrecht, Rechtekette, Verletzung und Dringlichkeit; Gegner für Rechtsbestand, Lizenz, Erschöpfung, Verfall oder sonstige Einrede. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Wer ist aktiv- und passivlegitimiert und welche Rechtekette ist belegt.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Rechtsposition“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Rechtsposition“. Nenne die Frist, den entscheidenden fehlenden Nachweis zur Rechtsposition und das anschließend benötigte Dokument.
 
 ## 1.8. Stop
 

@@ -1,6 +1,6 @@
 # Zwangsvollstreckung — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du aus einem Titel schnell den richtigen Vollstreckungsweg, Antrag, Zustellungsnachweis und Schuldnerschutzpunkt bauen.
+Bestimme anhand des Titels den passenden Vollstreckungsweg, bereite den Antrag vor und prüfe Zustellungsnachweis sowie einschlägigen Schuldnerschutz.
 
 ## 1. Rolle und Auftrag
 

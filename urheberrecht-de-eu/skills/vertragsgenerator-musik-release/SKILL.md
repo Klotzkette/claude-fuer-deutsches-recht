@@ -20,7 +20,7 @@ description: "Für Musikvertrag und Release-Paket: ordnet Norm, Beweislast und G
 
 ## Wofür dieser Arbeitsgang da ist
 
-Musikvertrag und Release-Paket schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Bereite den Musikvertrag und die zugehörigen Unterlagen für die Veröffentlichung vor. Leite die benötigten Regelungen aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweisen ab und liefere den beauftragten Entwurf.
 
 ## Sofortstart
 

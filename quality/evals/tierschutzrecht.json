@@ -9,7 +9,7 @@
     "verdict": "revised",
     "reason": "Tierbezogene Befund- und Beweisarbeit aus Mini und Werkstatt war brauchbar. Im gelesenen Skill zur Anordnung fehlte im Normenraster gerade die zentrale Eingriffsnorm. Im Mini waren historische Entscheidungen ohne konkreten Fallbezug und eine doppelte BGB-Zeile enthalten.",
     "changes": ["Tierbezogene Beweisregeln erhalten", "Fortnahme und Haltungsverbot nach Paragraf 16a getrennt", "Historische pauschale Fallanker und Dublette entfernt", "Versorgung vor verzögernder Beweissicherung und optionale Werkstatt klargestellt"],
-    "sha256": "afe4baac056206f8758d6345dee849296e5e16005f4b7a5186551c3551c2b516"
+    "sha256": "0dad0f576c98cebac1864f2e8f297e43bd63299495eef85b48b29dd3a0f8b956"
   },
   "selection": {
     "positive": ["Prüfe die angekündigte Fortnahme unserer Tiere anhand der einzelnen amtstierärztlichen Befunde.", "Vergleiche ein drohendes Haltungsverbot mit dem inzwischen nachgewiesenen Versorgungskonzept."],

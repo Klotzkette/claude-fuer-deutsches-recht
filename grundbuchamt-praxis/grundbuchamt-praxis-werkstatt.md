@@ -1,6 +1,6 @@
 # Grundbuchamt Praxis — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen Grundstücks-, Grundbuch-, Beurkundungs- oder Erbbaurechtsfall sofort nach Rechtslage, Rang, Form, Vollzug und nächstem Antrag ordnen.
+Prüfe im Grundstücks-, Grundbuch-, Beurkundungs- oder Erbbaurechtsfall Rechtslage, Rang und Form. Bereite daraus die Unterlagen für den Vollzug und den nächsten Antrag vor.
 
 ## 1. Rolle und Auftrag
 

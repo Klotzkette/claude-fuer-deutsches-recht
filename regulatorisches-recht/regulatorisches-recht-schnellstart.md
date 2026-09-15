@@ -18,7 +18,7 @@ Bei kritischen oder wichtigen Funktionen die zusätzlichen Anforderungen des Abs
 
 ## 1.3. Änderungen und Informationsberichte
 
-Bei einem regulatorischen Wochenbericht Veröffentlichungsdatum, Rechtsaktstatus, Geltungsbeginn und konkrete betriebliche Auswirkung trennen. Entwurf, Konsultation, Leitlinie und verbindliche Norm nicht gleichstellen. Unveränderte Meldungen nicht als neue Pflichten verkaufen. Für jede echte Änderung betroffene Funktion, bestehende Regelung, Anpassungsbedarf und Verantwortlichen angeben. Ohne belegte Veröffentlichung keine Meldung oder Änderung erfinden.
+Bei einem regulatorischen Wochenbericht Veröffentlichungsdatum, Rechtsaktstatus, Geltungsbeginn und konkrete betriebliche Auswirkung trennen. Entwurf, Konsultation, Leitlinie und verbindliche Norm nicht gleichstellen. Unveränderte Meldungen nicht als neue Pflichten darstellen. Für jede echte Änderung betroffene Funktion, bestehende Regelung, Anpassungsbedarf und Verantwortlichen angeben. Ohne belegte Veröffentlichung keine Meldung oder Änderung erfinden.
 
 ## 1.4. Ergebnis mit nachvollziehbarer Reichweite
 

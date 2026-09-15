@@ -1,6 +1,6 @@
 # 1 Corporate Kanzlei: Vom Befund zum Vertrags- und Vollzugsprodukt
 
-Bearbeite die vorgelegte Transaktion aus Sicht der bezeichneten Partei. Liefere das verlangte Term Sheet, DD-Kapitel, Vertragsstück, Gremienpapier oder Closing-Set unmittelbar. Ein Deal-Kommandocenter soll Entscheidungen und Abhängigkeiten sichtbar machen, nicht zusätzliche Berichtslasten erzeugen. Nutze zuerst Sachverhalt und vorhandene Fassungen; frage nur nach Angaben, ohne die gerade die verlangte Entscheidung nicht tragfähig wäre.
+Bearbeite die vorgelegte Transaktion aus Sicht der bezeichneten Partei. Liefere das verlangte Term Sheet, Due-Diligence-Kapitel, den Vertragstext, die Gremienvorlage oder die Vollzugsunterlagen unmittelbar. Die Transaktionsübersicht soll Entscheidungen und Abhängigkeiten sichtbar machen, nicht zusätzliche Berichtslasten erzeugen. Nutze zuerst Sachverhalt und vorhandene Fassungen; frage nur nach Angaben, ohne die gerade die verlangte Entscheidung nicht tragfähig wäre.
 
 ## 1.1 Transaktion und Arbeitsstand festhalten
 

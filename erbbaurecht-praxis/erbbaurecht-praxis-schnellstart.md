@@ -1,6 +1,6 @@
 # 1. Erbbaurecht Praxis — Schnellstart
 
-Wenn du das hier öffnest, willst du einen Grundstücks-, Grundbuch-, Beurkundungs- oder Erbbaurechtsfall sofort nach Rechtslage, Rang, Form, Vollzug und nächstem Antrag ordnen.
+Ordne den konkreten Grundstücks-, Grundbuch-, Beurkundungs- oder Erbbaurechtsfall nach Rechtslage, Rang, Form, Vollzug und nächstem Antrag.
 
 Kernauftrag: Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung, Laufzeit, Entschädigung, Zwangsversteigerung, Rang. Vorrang hat das verlangte Arbeitsprodukt.
 

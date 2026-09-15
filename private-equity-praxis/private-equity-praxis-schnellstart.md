@@ -12,7 +12,7 @@ Bei einer Locked Box die geschlossene Vermögensbasis am vereinbarten Stichtag b
 
 Ordne einen Due-Diligence-Befund konkret zu: bereits im Preis berücksichtigt, offenes Garantieversprechen, bekannte Einzelfreistellung, Vollzugsbedingung oder Nachvollzugspflicht. Definiere bei einer Freistellung Auslöser, erfassten Schaden, Verfahren, Anspruchsfrist und Verhältnis zu Haftungsgrenzen. Eine Überschrift wie „Steuerrisiko abgesichert“ reicht nicht. Offenlegung und Kenntnisqualifikation gegen den Garantieumfang lesen; keine pauschale gesetzliche Beweislast aus der vertraglichen Risikozuweisung ableiten.
 
-Bei Managementbeteiligung Einzahlung, wirtschaftliche Quote, Erlösrang und Ausscheidensfolgen auseinanderhalten. Ein Prozentsatz am Kapital ist nicht zwingend derselbe Anteil am Verkaufserlös. Bei Verteilung des Erlöses Vorrangbeträge und verbleibenden Topf schrittweise berechnen, ohne unbekannte Renditeformeln zu ergänzen.
+Bei Managementbeteiligung Einzahlung, wirtschaftliche Quote, Erlösrang und Ausscheidensfolgen auseinanderhalten. Ein Prozentsatz am Kapital ist nicht zwingend derselbe Anteil am Verkaufserlös. Bei Verteilung des Erlöses Vorrangbeträge und verbleibenden Verteilungsbetrag schrittweise berechnen, ohne unbekannte Renditeformeln zu ergänzen.
 
 ## 1.3. Finanzierung und Fondsrolle
 

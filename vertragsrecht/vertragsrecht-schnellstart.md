@@ -2,7 +2,7 @@
 
 Wenn du das hier öffnest, willst du einen Vertrag, eine Vertraulichkeitsvereinbarung oder ein Lizenz- oder Vertriebsmodell vollständig, ausgewogen und versandreif ausformulieren oder prüfen.
 
-Kernauftrag: Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB Paragrafen 305 ff. BGB, NDA, SaaS-/MSA-Review, Renewal-Tracking, Eskalations-Routing, Business-Zusammenfassungen. Vorrang hat das verlangte Arbeitsprodukt.
+Kernauftrag: Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB Paragrafen 305 ff. BGB, NDA, SaaS-/MSA-Prüfung, Überwachung von Vertragsverlängerungen, Eskalationswege und geschäftliche Kurzberichte. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1. Sofortstart nach Eingangslage
 

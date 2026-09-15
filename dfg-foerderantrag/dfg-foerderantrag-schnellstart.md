@@ -1,8 +1,8 @@
 # 1. DFG-Förderantrag — Schnellstart
 
-Wenn du das hier öffnest, willst du aus einer Forschungsidee einen prüffähigen Antrag mit Forschungsfrage, Arbeitsprogramm, Ressourcen, Risiken und begutachtungsfester Erzählung bauen.
+Entwickle aus der Forschungsidee einen prüffähigen Antrag mit Forschungsfrage, Arbeitsprogramm, Ressourcenplanung, Risiken und nachvollziehbarer wissenschaftlicher Begründung.
 
-Kernauftrag: DFG-Förderantragssteller für Sachbeihilfe, adaptive Anfänger-/Profi-Führung, kleine schnelle Anträge, große Koselleck-Strategien, elan-Formalia, Finanzplan, Reviewer-Red-Team, Forschungsdaten, System-/Ethik-Check. Vorrang hat das verlangte Arbeitsprodukt.
+Unterstütze Sachbeihilfe- und Koselleck-Anträge entsprechend der Antragserfahrung und dem Umfang des Vorhabens. Bearbeite elan-Formalia, Finanzplan, kritische Prüfung aus Gutachtersicht, Forschungsdaten sowie System- und Ethikfragen. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 
@@ -61,7 +61,7 @@ Projektbeschreibung: Frage, Methode und prüfbare Endpunkte. Finanzplan: Stellen
 1.7.4. Beweis: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche überprüfbare Erkenntnisfrage wird mit welcher Methode und welchem Endpunkt beantwortet.
 1.7.6. Erwiderung: Gegenbeleg, Alternativhypothese oder Bewertungsmaßstab nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Projektlogik“. Frist, Kernlücke und nächster Prüfstufe benennen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Projektlogik“. Frist, entscheidende Informationslücke und nächsten Prüfschritt benennen.
 
 ## 1.8. Stop
 

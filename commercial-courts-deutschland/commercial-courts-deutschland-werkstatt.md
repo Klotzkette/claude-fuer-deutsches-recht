@@ -1,6 +1,6 @@
 # Commercial Courts Deutschland — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen großvolumigen Wirtschaftsstreit für das richtige deutsche Commercial Court, die englische Verfahrenssprache und ein straffes Case Management versandfertig aufbauen.
+Bereite einen Wirtschaftsstreit mit hohem Streitwert für ein deutsches Commercial Court vor: Prüfe das zuständige Gericht und die Voraussetzungen der englischen Verfahrenssprache und erstelle die Unterlagen für das Case Management.
 
 ## 1. Rolle und Auftrag
 

@@ -6,6 +6,7 @@ import importlib.util
 import re
 import tempfile
 import unittest
+from unittest.mock import patch
 from zipfile import ZipFile
 from urllib.parse import unquote, urlsplit
 
@@ -80,6 +81,28 @@ class SchwerpunktCoverage(unittest.TestCase):
                                          (directory / "references/zitierweise.md").read_bytes())
                         self.assertFalse(any(p.endswith(("-werkstatt.md", "-schnellstart.md", "-hauptproblem.md"))
                                              for p in bundle.namelist()))
+
+    def test_release_requires_exact_installable_focus_skill(self):
+        spec = importlib.util.spec_from_file_location("release_zips", ROOT / "scripts/validate-release-zips.py")
+        module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(module)
+        with tempfile.TemporaryDirectory() as temporary:
+            for name, directory in self.packages.items():
+                profile_path = ROOT / "quality/evals" / f"{name}.json"
+                target = load(profile_path)["selection"]["target_skill"]
+                relative = f"skills/{target}/SKILL.md"
+                archive_path = Path(temporary) / f"{name}.zip"
+                for state in ("correct", "missing", "changed"):
+                    with self.subTest(plugin=name, state=state):
+                        with ZipFile(archive_path, "w") as archive:
+                            if state != "missing":
+                                archive.writestr(relative, (directory / relative).read_bytes()
+                                                 if state == "correct" else b"Abweichender Text")
+                        if state == "correct":
+                            module.validate_focus_skill(archive_path, directory, profile_path)
+                        else:
+                            with patch.object(module, "fail", side_effect=ValueError), self.assertRaises(ValueError):
+                                module.validate_focus_skill(archive_path, directory, profile_path)
 
 
 if __name__ == "__main__":

@@ -7,7 +7,7 @@
     "verdict": "revised",
     "reason": "Die Werk- und Registrierungsfelder waren brauchbar. Werkstatt und Litigation-Skill nennen Zeitpunkte, erläutern aber die Dreimonatsausnahme und den Unterschied zwischen Zertifikat und effektivem Datum im Mini nicht ausreichend.",
     "changes": ["Werkbezogene Registrierungszeitachse ergänzt", "Schutz, Klagevoraussetzung und Remedies getrennt", "Section 412 samt Dreimonatsausnahme konkretisiert", "Keine automatische Anspruchslosigkeit bei gesperrten gesetzlichen Schadensersatzbeträgen"],
-    "sha256": "689ae174fc9a6564b2ddac03b89cd695d4b2a49dbaa6d3991a6a25dfb95c30eb"
+    "sha256": "323865323399c4f496cd195eb9ba2208731123865cf045ae7da155eb92ad72e9"
   },
   "selection": {
     "positive": ["Prüfe das Registrierungstiming unserer US-Buchausgabe für statutory damages und attorney's fees.", "Erstelle ein Registration Worksheet mit Werkfassung, Claimant, Deposit und effektivem Datum."],

@@ -1,6 +1,6 @@
 # 1. Denkmalschutzrecht — Schnellstart
 
-Wenn du das hier öffnest, willst du Denkmaleigenschaft, Erlaubnis, Erhaltung, Zumutbarkeit, Bodendenkmal oder steuerliche Bescheinigung nach dem richtigen Landesrecht bearbeiten.
+Prüfe Denkmaleigenschaft, Erlaubnis, Erhaltung, Zumutbarkeit, Bodendenkmal oder steuerliche Bescheinigung anhand des konkreten Objekts und des einschlägigen Landesrechts.
 
 Kernauftrag: Denkmalschutzrecht in Deutschland: Art. 14 und Art. 70 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Vorrang hat das verlangte Arbeitsprodukt.
 

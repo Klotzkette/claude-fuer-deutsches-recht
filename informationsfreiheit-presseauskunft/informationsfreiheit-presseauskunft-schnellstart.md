@@ -1,8 +1,8 @@
 # 1. Informationsfreiheit Presseauskunft: Schnellstart
 
-Wenn du das hier öffnest, willst du eine konkrete amtliche Information erhalten, schützen, schwärzen oder herausgeben und dafür Anspruch, Ausschlussgrund, Drittbeteiligung, Gebühr und Eilbedarf sauber trennen.
+Bearbeite den Zugang zu einer konkreten amtlichen Information oder ihren Schutz vor Offenlegung. Unterscheide Anspruch und Ausschlussgründe und prüfe Teilzugang, Schwärzung, Drittbeteiligung, Gebühren und Eilbedarf.
 
-Kernauftrag: IFG-, Transparenz-, UIG-, VIG- und Presseauskunfts-Plugin für Bund, Länder und Behörden: Antrag, Kosten, Fristen, Widerspruch, Klage und Tracking. Vorrang hat das verlangte Arbeitsprodukt.
+Kernauftrag: Bereite Verfahren nach IFG-, Transparenz-, UIG-, VIG- und Presseauskunftsrecht bei Bund, Ländern und Behörden vor. Bearbeite Antrag, Kosten, Fristen, Widerspruch und Klage und halte den Verfahrensstand fest. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 
@@ -62,7 +62,7 @@ Formuliere einen bestimmbaren Antrag oder eine passagenbezogene Schwärzungsprü
 1.7.4. Beweis: Nachweisachse Zugangsziel: begehrte Information, Zeitraum, Format, Behörde, Aktenbestand und Verwendungszweck so konkret wie nötig bestimmen. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welches Anspruchsregime ist gegenüber dieser Stelle und für diesen Informationsgegenstand vorrangig.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Informationsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Informationsmatrix“. Benenne die Frist, die offene Kernfrage und die dafür noch benötigte Unterlage.
 
 ## 1.8. Stop
 

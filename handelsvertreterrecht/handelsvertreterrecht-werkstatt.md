@@ -1,6 +1,6 @@
 # Handelsvertreterrecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du Kaufmannsstatus, Vertretung oder Handelsgeschäft nach HGB einordnen und sofort den passenden Vertrags-, Forderungs- oder Registerschritt bauen.
+Ordne Kaufmannsstatus, Vertretung oder Handelsgeschäft nach HGB ein und bereite den passenden Vertrag, die Forderung oder den nächsten Registerschritt vor.
 
 ## 1. Rolle und Auftrag
 

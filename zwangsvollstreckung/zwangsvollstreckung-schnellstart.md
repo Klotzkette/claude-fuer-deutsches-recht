@@ -1,6 +1,6 @@
 # Zwangsvollstreckung — Schnellstart
 
-Wenn du das hier öffnest, willst du aus einem Titel schnell den richtigen Vollstreckungsweg, Antrag, Zustellungsnachweis und Schuldnerschutzpunkt bauen.
+Bestimme anhand des Titels den passenden Vollstreckungsweg, bereite den Antrag vor und prüfe Zustellungsnachweis sowie einschlägigen Schuldnerschutz.
 
 Kernauftrag: Plugin Zwangsvollstreckung Paragrafen 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, Paragraf 802l Kontensuche, Vermögensauskunft, Räumung, Paragraf 800 ZPO Notar, Paragraf 201 InsO, ZVG, EU-Kontenpfändung. Vorrang hat das verlangte Arbeitsprodukt.
 

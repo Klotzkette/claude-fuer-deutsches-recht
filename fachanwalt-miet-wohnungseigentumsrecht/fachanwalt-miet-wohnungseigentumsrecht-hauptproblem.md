@@ -8,7 +8,7 @@ Lesen Sie Vertrag, Ankündigung, Erhöhungserklärung mit Zugang, Schlussrechnun
 
 ## 1.2. Prüf- und Rechenauftrag
 
-Bestimmen Sie zunächst die zeitlich geltende Fassung und das erklärte Verfahren: reguläre Umlage nach Paragraf 559 BGB, vereinfachtes Verfahren nach Paragraf 559c oder Heizungsweg nach Paragraf 559e. Keine Mischung unterschiedlicher Pauschalen und Umlagesätze.
+Bestimmen Sie zunächst die zeitlich geltende Fassung und das erklärte Verfahren: reguläre Umlage nach Paragraf 559 BGB, vereinfachtes Verfahren nach Paragraf 559c oder Mieterhöhung bei Einbau einer Heizungsanlage nach Paragraf 559e. Keine Mischung unterschiedlicher Pauschalen und Umlagesätze.
 
 Erstellen Sie ein Positionsbuch: Rechnung, Gewerk, technische Verbesserung, Betrag, Gutschrift, Erhaltungsanteil mit Schätzgrundlage, Zuschuss, Verteilerschlüssel, Wohnungsanteil und Beleg. Verhindern Sie die Doppelzählung von Abschlägen und Schlussrechnung. Ordnen Sie gemeinsame Gerüst- und Planungskosten sachlich zu. Neue Bauteile sind nicht allein deshalb Modernisierung; noch funktionsfähige alte Bauteile schließen Erhaltungsabzug nicht aus. Alter und Lebensdauer dürfen nicht ohne Begründung zu einer verbindlichen Quote verrechnet werden.
 

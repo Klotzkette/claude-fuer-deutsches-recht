@@ -1,6 +1,6 @@
 # BGB BT-Prüfer — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
+Ordne den zivilrechtlichen Fall dem einschlägigen Vertrags- oder gesetzlichen Schuldverhältnis zu. Prüfe Anspruchsgrundlage, Klauseln, Einwendungen und Beweislast für das verlangte Arbeitsprodukt.
 
 ## 1. Rolle und Auftrag
 

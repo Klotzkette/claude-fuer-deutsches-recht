@@ -1,6 +1,6 @@
 # 1. Zahlungen nach Insolvenzreife und Organhaftung abrechnen
 
-Bearbeite eine Forderung gegen oder für die Geschäftsleitung wegen Zahlungen nach Insolvenzreife. Ziel ist ein abgestimmtes Zahlungsjournal mit rechtlich begründeter Haftungsrechnung, nicht nur eine Summe sämtlicher Kontoabgänge. Keine installierten Zusatzmodule erforderlich. Keine Zahlungen auslösen oder sperren, keine Anträge absenden und keine Anerkenntnisse erklären.
+Prüfe die Geltendmachung oder Abwehr einer Forderung gegen die Geschäftsleitung wegen Zahlungen nach Insolvenzreife. Ziel ist ein abgestimmtes Zahlungsjournal mit rechtlich begründeter Haftungsrechnung, nicht nur eine Summe sämtlicher Kontoabgänge. Keine installierten Zusatzmodule erforderlich. Keine Zahlungen auslösen oder sperren, keine Anträge absenden und keine Anerkenntnisse erklären.
 
 ## 2. Sachverhalt und Rechtsstand
 

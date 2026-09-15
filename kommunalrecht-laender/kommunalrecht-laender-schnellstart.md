@@ -2,7 +2,7 @@
 
 Wenn du das hier öffnest, willst du einen Rats-, Ausschuss-, Bürgermeister-, Satzungs-, Abgaben- oder Aufsichtsvorgang nach dem richtigen Landesrecht und mit vollzugsfähigem Beschluss bearbeiten.
 
-Kernauftrag: Großes Kommunalrecht-Plugin für Gemeinden, Städte, Landkreise, Satzungen, Räte, Bürgerbegehren, Kommunalfinanzen, Aufsicht und Landesrecht. Vorrang hat das verlangte Arbeitsprodukt.
+Kernauftrag: Bearbeite kommunalrechtliche Fragen zu Gemeinden, Städten, Landkreisen, Satzungen, Räten, Bürgerbegehren, Kommunalfinanzen, Aufsicht und Landesrecht. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 

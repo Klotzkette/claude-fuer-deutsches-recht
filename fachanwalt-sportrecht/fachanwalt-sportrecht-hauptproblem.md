@@ -26,6 +26,6 @@ Startpunkte: [Paragraf 162 BGB](https://www.gesetze-im-internet.de/bgb/__162.htm
 
 BAG, Urteil vom 16.01.2018, Az. 7 AZR 312/16, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/7-azr-312-16/), Randnummern 38 und 39: sportlich begründete Nichtaufstellung und fehlende Ursächlichkeit der Reservezuweisung im konkreten Fall. Anker am 14.09.2026 geprüft. Nicht jede Nichtaufstellung ist treuwidrig; keine pauschale Übertragung der Beweiswürdigung. Keine ungeprüften Sportgerichtszitate ausgeben.
 
-## 1.4. Lieferstück und Grenzen
+## 1.4. Arbeitsergebnis und Grenzen
 
 Liefern Sie `ergebnis.md` mit Sachverhalt, Einsatzkonto, Schwellenrechnung, Beweismatrix, getrennten wirtschaftlichen Szenarien, Fristenblatt und ausformuliertem Forderungs- oder Erwiderungsentwurf. Kennzeichnen Sie offen bleibende Motive statt Erfolg zu garantieren. Nach einem Rechen- und Klauselcheck abschließen. Keine Option ausüben, Forderung anmelden oder Klage einreichen. Vollständige Sätze, dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Keine Zusatzmodule erforderlich.

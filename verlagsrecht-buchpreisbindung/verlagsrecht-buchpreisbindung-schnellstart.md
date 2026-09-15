@@ -1,6 +1,6 @@
 # Verlagsrecht Buchpreisbindung — Schnellstart
 
-Wenn du das hier öffnest, willst du Manuskript, Autorenvertrag, Preisbindung, Ausgabeformat, Rechtekette, Honorar oder Verwertungskonflikt veröffentlichungsreif bearbeiten.
+Prüfe die vorgelegte Frage zu Manuskript, Autorenvertrag, Preisbindung, Ausgabeformat, Rechtekette, Honorar oder Verwertungskonflikt und erstelle das dafür benötigte Arbeitsprodukt.
 
 Kernauftrag: Plugin für Verlagsrecht, Verlagsgesetz, Autoren- und Herausgeberverträge, Buchpreisbindung, Titelschutz, Vertrieb, E-Book, Hörbuch und verlagsnahe Compliance. Vorrang hat das verlangte Arbeitsprodukt.
 
@@ -66,7 +66,7 @@ Amtliche Grundlagen: [Paragraf 3 BuchPrG](https://www.gesetze-im-internet.de/buc
 7.4. Beweis: Nachweisachse Vertrieb und Preis: Ausgabeform, Ladenpreis, Rabatt, Remission, Mängelexemplar, Plattform, Ausland und Dokumentation abgleichen. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Person hat welches Recht wann, wo und für welche Nutzungsart eingeräumt.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Rechte-Schedule“. Frist, Kernlücke und nächstem Dokument benennen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich eine Rechteübersicht („Rechte-Schedule“). Benenne die Frist, die entscheidende Informationslücke und das als Nächstes zu erstellende Dokument.
 
 ## 8. Stop
 

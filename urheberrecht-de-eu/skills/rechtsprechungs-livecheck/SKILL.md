@@ -20,7 +20,7 @@ description: "Für Rechtsprechungs- und Quellenlivecheck: ordnet Norm, Beweislas
 
 ## Wofür dieser Arbeitsgang da ist
 
-Rechtsprechungs- und Quellenlivecheck schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Überprüfe, ob die herangezogenen Quellen die konkreten urheberrechtlichen Aussagen tragen. Ordne die Belege den Fragen zu Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung und Schranke zu und liefere den angeforderten Quellenvermerk mit erkennbaren Unsicherheiten.
 
 ## Sofortstart
 

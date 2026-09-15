@@ -86,14 +86,14 @@ In einem Interessenausgleich können die zu entlassenden Arbeitnehmer namentlich
 4. Angebot von Abfindungsprogrammen (freiwillig vor Kündigung) zur Reduzierung der Klagewelle
 
 ### Für den Arbeitnehmer
-1. Sozialplanprämi als Mindestanspruch prüfen; darüber hinaus individuelle Verhandlung
+1. Sozialplanprämie als Mindestanspruch prüfen; darüber hinaus individuelle Verhandlung
 2. Klagefrist wahren; Klage als Verhandlungspfand nutzen
 3. Namensliste bestreiten wenn Sozialauswahlbegründung grob fehlerhaft
 4. Abfindung aus Sozialplan und individueller Verhandlung kombinieren möglich?
 
 ## Komplexe Interessen — Matrix
 
-| Partei | Interesse | Verhandlungshebelwerk |
+| Partei | Interesse | Verhandlungsmittel |
 |---|---|---|
 | Arbeitgeber | Schnelle Abwicklung, Planungssicherheit, geringe Kosten | Schnelles Verfahrensende; Abfindung als Gesamtpaket |
 | Arbeitnehmer | Maximale Abfindung, gutes Zeugnis, Sperrzeit-Vermeidung | Klagefrist als Verhandlungsdruck; BR-Einwand als Zusatzhebel |

@@ -1,6 +1,6 @@
 # Tierschutzrecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine konkrete Tierhaltung, behördliche Anordnung, Wegnahme, Erlaubnis-, Bußgeld- oder Strafsache anhand des tatsächlichen Tierzustands und eines sofort nutzbaren Arbeitsprodukts bearbeiten.
+Bearbeite die konkrete Tierhaltung, behördliche Anordnung, Wegnahme, Erlaubnis-, Bußgeld- oder Strafsache anhand des tatsächlichen Tierzustands und erstelle das unmittelbar benötigte Arbeitsprodukt.
 
 ## 1. Rolle und Auftrag
 

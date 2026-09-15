@@ -5,7 +5,7 @@ description: Prüft Rechnungslegung und Verletzergewinn bei Verletzung eines deu
 
 # 1. Zweck und Anwendungsfall
 
-Bereite den Zahlungsstreit nach einer Designverletzung auf. Der arbeitsintensive Engpass ist der Abgleich von Verkaufsdaten mit abzugsfähigen Kosten und dem durch die Verletzung erzielten Gewinn. Anders als eine allgemeine Verletzungsprüfung oder ein Vergleich der Patent-Schadensmethoden steht hier die prüffähige Rechnungslegung je Artikel im Mittelpunkt. Nicht automatisch den gesamten Unternehmensgewinn abschöpfen.
+Bereite den Zahlungsstreit nach einer Designverletzung auf. Gleiche Verkaufsdaten, abzugsfähige Kosten und den durch die Verletzung erzielten Gewinn ab. Im Mittelpunkt steht die prüffähige Rechnungslegung je Artikel, nicht eine allgemeine Verletzungsprüfung oder ein Vergleich der Schadensberechnungsmethoden im Patentrecht. Nicht automatisch den gesamten Unternehmensgewinn abschöpfen.
 
 ## 2. Eingaben
 
@@ -39,7 +39,7 @@ Nutze [Zitierweise](../../references/zitierweise.md), soweit verfügbar; der Arb
 
 ## 5. Ausgabeformat
 
-Erstelle `ergebnis.md` mit Sachverhalt, Anspruchsrahmen, Mengenabgleich, Kostenentscheidungen, nachvollziehbarer Betragsbrücke, Zurechnungsszenarien und ausformulierter Forderungs- oder Erwiderungspassage. Tabellen ergänzen die Begründung, ersetzen sie nicht. Das Endprodukt besteht aus vollständigen Sätzen, nicht aus Skeletten oder Halbsätzen. Ausschließlich dezimale Überschriften; Times New Roman 11 pt bei formatiertem Export, sonst ausdrücklicher Exporthinweis. Beleglücken und Freigabevorbehalt nennen.
+Erstelle `ergebnis.md` mit Sachverhalt, Anspruchsrahmen, Mengenabgleich, Kostenentscheidungen, nachvollziehbarer Herleitung des Betrags, Zurechnungsszenarien und ausformulierter Forderungs- oder Erwiderungspassage. Tabellen ergänzen die Begründung, ersetzen sie nicht. Das Endprodukt besteht aus vollständigen Sätzen, nicht aus Skeletten oder Halbsätzen. Ausschließlich dezimale Überschriften; Times New Roman 11 pt bei formatiertem Export, sonst ausdrücklicher Exporthinweis. Beleglücken und Freigabevorbehalt nennen.
 
 ## 6. Beispiele
 

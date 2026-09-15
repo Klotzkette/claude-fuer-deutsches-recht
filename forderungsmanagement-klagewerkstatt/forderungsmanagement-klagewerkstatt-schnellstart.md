@@ -1,8 +1,8 @@
 # 1. Forderungsmanagement Klagewerkstatt — Schnellstart
 
-Wenn du das hier öffnest, willst du eine Forderungsakte sofort klagereif, einwendungsfest und vollstreckungsnah ordnen.
+Prüfe anhand der Forderungsakte, ob die Klage vorbereitet werden kann, welche Einwendungen zu berücksichtigen sind und welche Schritte eine spätere Vollstreckung erfordert.
 
-Kernauftrag: Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben. Vorrang hat das verlangte Arbeitsprodukt.
+Kernauftrag: Forderungen für Mahnung und Zahlungsklage aufbereiten, Zuständigkeit prüfen und die Klageempfehlung begründen: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 
@@ -64,7 +64,7 @@ Rechne Hauptforderung, zweckbestimmte Teilzahlungen, Zinszeiträume und Rechtsve
 1.7.4. Beweis: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Belege tragen Leistung, Rechnung, Zugang und Verzug.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Aktenkern“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Aktenkern“. Nenne die Frist, die wesentliche Lücke in der Forderungsakte und das nächste benötigte Dokument.
 
 ## 1.8. Stop
 

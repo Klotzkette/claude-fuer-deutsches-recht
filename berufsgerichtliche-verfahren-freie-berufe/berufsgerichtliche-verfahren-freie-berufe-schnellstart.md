@@ -8,7 +8,7 @@ Trenne Rechtsanwaltschaft, Patentanwaltschaft, Steuerberatung, Wirtschaftsprüfu
 
 Erstelle eine kurze Verfahrenschronologie mit Dokumentdatum, tatsächlicher Zustellung, Inhalt und bisheriger Reaktion. Lege für jede laufende Frist Grundlage, Beginn, Berechnung und Empfangsstelle offen. Prüfe Rechtsbehelfsbelehrung und aktuelle Norm nebeneinander; eine Belehrung ist kein Ersatz für die rechtliche Einordnung. Bezeichne unbestätigte Daten als unbestätigt.
 
-## 1.2 Konkrete anwaltliche Rügeroute
+## 1.2 Vorgehen im anwaltlichen Rügeverfahren
 
 Nach [Paragraf 74 BRAO](https://www.gesetze-im-internet.de/brao/__74.html) unterscheiden sich die Anhörung vor der Rüge und der Einspruch gegen den zugestellten Rügebescheid. Der Einspruch ist binnen eines Monats nach Zustellung beim Kammervorstand zu erheben. Prüfe, ob eine begründete und zugestellte Entscheidung vorliegt und ob bereits über den Einspruch entschieden wurde.
 

@@ -1,6 +1,6 @@
 # Schulrecht Länder — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine schul-, hochschul- oder förderrechtliche Entscheidung nach Rechtsgrundlage, Verfahren, Bewertungsspielraum und Frist angreifen oder absichern.
+Prüfe die schul-, hochschul- oder förderrechtliche Entscheidung auf Rechtsgrundlage, Verfahren, Bewertungsspielraum und Fristen. Bereite je nach Auftrag ihre Anfechtung oder rechtliche Absicherung vor.
 
 ## 1. Rolle und Auftrag
 

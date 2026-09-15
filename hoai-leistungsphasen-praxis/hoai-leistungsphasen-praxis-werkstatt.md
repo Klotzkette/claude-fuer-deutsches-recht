@@ -1,6 +1,6 @@
 # HOAI Leistungsphasen Praxis — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du Planungsleistung, Leistungsphase, Honorar, Nachtrag, Haftung und Bauüberwachung nach Vertragsstand und Projektbeleg ordnen.
+Gleiche Planungsleistungen und Leistungsphasen mit dem Vertragsstand und den Projektbelegen ab. Ordne Honorar, Nachträge, Haftung und Bauüberwachung dem konkreten Vorgang zu.
 
 ## 1. Rolle und Auftrag
 

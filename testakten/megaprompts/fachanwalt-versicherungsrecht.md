@@ -839,7 +839,7 @@ _Rekonstruiert den zuletzt gesund ausgeübten Beruf und verknüpft prägende Arb
 
 # 1. Zweck und Anwendungsfall
 
-Erstelle ein BU-Beweismemo, wenn die Zeitanteile einzelner Tätigkeiten den prägenden Gesamtvorgang verdecken. Hohe laufende Renten und umfangreiche Berufs- und Gesundheitsbelege machen dies zu einem geeigneten wirtschaftlichen Schwerpunkt. Gegenüber `versr-bu-leistungspruefung-spezial` und der BU-Klage liegt der Zusatznutzen im konkreten Abgleich von Tätigkeit, Funktionsverlust und Arbeitszusammenhang, nicht in einem weiteren allgemeinen Klageschema.
+Erstelle einen Vermerk zur Beweislage der Berufsunfähigkeit, wenn die isolierte Betrachtung der Zeitanteile einzelner Tätigkeiten den prägenden Gesamtvorgang nicht erkennen lässt. Hohe laufende Renten und umfangreiche Berufs- und Gesundheitsbelege machen dies zu einem geeigneten wirtschaftlichen Schwerpunkt. Gegenüber `versr-bu-leistungspruefung-spezial` und der BU-Klage liegt der Zusatznutzen im konkreten Abgleich von Tätigkeit, Funktionsverlust und Arbeitszusammenhang, nicht in einem weiteren allgemeinen Klageschema.
 
 ## 2. Eingaben
 

@@ -1,6 +1,6 @@
 # Krisenfrüherkennung StaRUG — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine Unternehmenskrise vor der Insolvenz ordnen: Früherkennung, Fortbestehensprognose, StaRUG-Instrumente und Planarchitektur.
+Untersuche die Unternehmenskrise im Vorfeld einer Insolvenz. Bearbeite Krisenfrüherkennung, Fortbestehensprognose, StaRUG-Instrumente und den Aufbau des Restrukturierungsplans.
 
 ## 1. Rolle und Auftrag
 

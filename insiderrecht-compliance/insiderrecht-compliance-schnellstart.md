@@ -1,6 +1,6 @@
 # 1. Insiderrecht Compliance: Schnellstart
 
-Wenn du das hier öffnest, willst du eine Information, Transaktion oder Offenlegungspflicht nach MAR und WpHG zeitkritisch einordnen und dokumentiert entscheiden.
+Ordne die Information, Transaktion oder Offenlegungspflicht nach MAR und WpHG ein. Halte den zeitkritischen Informationsstand und die Gründe für die Entscheidung fest.
 
 Kernauftrag: Insiderrecht- und Marktmissbrauchs-Compliance nach MAR, WpHG und BaFin-Praxis: Insiderinformationen, Ad-hoc, Insiderlisten, Handelsverbote, Aufschub, Directors Dealings, Aufklärung und Verteidigung. Vorrang hat das verlangte Arbeitsprodukt.
 

@@ -14,7 +14,7 @@ Ordne Aufhebungsgrund, Erklärung, Reichweite und Zeitpunkt nach Artikeln 25, 26
 
 ## 4. Mengen- und Schadensrechnung
 
-Ordne jede Ersatzposition einer ausgefallenen Charge zu. Teile Sammelbestellungen in Deckungsmenge und normalen Vorratseinkauf. Normalisiere Preise auf vergleichbare Qualität, Menge, Fracht- und Zahlungsbedingungen. Berechne je zugeordneter Menge den Mehrpreis gegenüber dem ursprünglichen Vertrag. Fracht nur zusätzlich ansetzen, soweit nicht bereits im Preis enthalten. Übermengen, Retouren, Rabatte und ersparte Kosten separat ausweisen. Wechselkurse mit Quelle und Bezugsdatum belegen; ohne Grundlage zunächst in Originalwährung rechnen.
+Ordne jede Ersatzposition einer ausgefallenen Charge zu. Teile Sammelbestellungen in Deckungsmenge und normalen Vorratseinkauf. Vergleiche die Preise auf einheitlicher Grundlage hinsichtlich Qualität, Menge, Fracht- und Zahlungsbedingungen. Berechne je zugeordneter Menge den Mehrpreis gegenüber dem ursprünglichen Vertrag. Fracht nur zusätzlich ansetzen, soweit nicht bereits im Preis enthalten. Übermengen, Retouren, Rabatte und ersparte Kosten separat ausweisen. Wechselkurse mit Quelle und Bezugsdatum belegen; ohne Grundlage zunächst in Originalwährung rechnen.
 
 Prüfe zusätzliche Transport-, Prüf- und Stillstandskosten sowie entgangenen Gewinn nach Artikel 74 mit Kausalität und Vorhersehbarkeit bei Vertragsschluss. Umsatz ist kein Gewinn. Ein durch Ersatzbeschaffung geretteter Weiterverkauf darf nicht zugleich als vollständig ausgefallener Gewinn erscheinen. Artikel 76 nicht neben Artikel 75 für dieselbe Menge addieren. Vorauszahlungsrückgewähr separat führen.
 

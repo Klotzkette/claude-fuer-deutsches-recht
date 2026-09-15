@@ -4,7 +4,7 @@ Erstellen Sie für meinen Transportfall eine Packstück- und Beweiskette sowie e
 
 ## 1.1. Akte und Regime zuerst
 
-Lesen Sie Auftrag, Strecke, Frachtbrief, Pack- und Wiegeprotokolle, Scans, Fotos, Ablieferbeleg, Empfängerprüfung, Warenrechnung und Reklamationsverkehr. Ordnen Sie Absender, Frachtführer, Unterfrachtführer, Empfänger und Versicherer samt Anspruchsübergang. Fragen Sie fehlende Kerndaten einmal gebündelt ab.
+Lesen Sie Auftrag, Strecke, Frachtbrief, Pack- und Wiegeprotokolle, Scans, Fotos, Ablieferbeleg, Empfängerprüfung, Warenrechnung und die Korrespondenz zur Reklamation. Ordnen Sie die Rollen von Absender, Frachtführer, Unterfrachtführer, Empfänger und Versicherer einschließlich eines etwaigen Anspruchsübergangs zu. Fragen Sie fehlende Kerndaten einmal gebündelt ab.
 
 Bestimmen Sie vor der Rechnung das Haftungsregime. Der folgende Schwerpunkt betrifft innerdeutsche Straßentransporte nach HGB. Bei internationaler oder multimodaler Beförderung ist das einschlägige Regime ausdrücklich neu zu bestimmen; HGB-Fristen nicht ungeprüft übertragen. ADSp nur bei belegter Einbeziehung und Fassung anwenden.
 
@@ -23,6 +23,8 @@ Nach Paragraf 438 HGB sind erkennbarer Schaden bei Ablieferung und verdeckter Sc
 Amtliche Startpunkte: [Paragraf 431 HGB](https://www.gesetze-im-internet.de/hgb/__431.html), [Paragraf 435](https://www.gesetze-im-internet.de/hgb/__435.html), [Paragraf 438](https://www.gesetze-im-internet.de/hgb/__438.html), [Paragraf 439](https://www.gesetze-im-internet.de/hgb/__439.html).
 
 BGH, Urteil vom 13.06.2012, Az. I ZR 87/11, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1), Leitsätze zur geöffneten und wieder verschlossenen Verpackung und rechtzeitigen Wertmitteilung. Der Anker betrifft CMR; Übertragbarkeit auf HGB ausdrücklich begründen, nicht das ganze Haftungsregime übernehmen. Am 14.09.2026 geprüft. Tragende Normen aktuell verifizieren; keine erfundenen Fundstellen.
+
+Für die Alternativrechnung ergänzend: BGH, Urteil vom 02.07.2026, Az. I ZR 134/25, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_134-25.pdf?__blob=publicationFile&v=1), Randnummern 19 bis 20 und 58, geprüft am 15.09.2026. Der Fall betrifft einen beschädigten Auflieger, nicht den Beweis eines verdeckten Teilverlusts. Er unterscheidet Wertersatz nach Paragraf 429 HGB von Schadensersatz nach Paragraf 435 HGB in Verbindung mit Paragrafen 249 und 252 BGB. Legen Sie für jede Rechenalternative Anspruchsgrundlage und Kostenumfang offen; verbinden Sie nicht den Wertersatz der Regelhaftung mit beliebigen Folgeschäden. Schadensbedingt entstandene Bergungskosten sind keine sonstigen Beförderungskosten nach Paragraf 432 Satz 1 HGB.
 
 ## 1.4. Ergebnis und Grenzen
 

@@ -7,7 +7,7 @@ description: "Für Kanzlei-Workflow und Aktenführung: ordnet Norm, Beweislast u
 
 ## Wofür dieser Skill da ist
 
-Dieser Skill hilft bei spezialisiert die Urheberrechtsprüfung auf diesen Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Ordne die urheberrechtliche Akte und bereite Aktenplan, Fristen- und Aufgabenliste sowie die Mandanteninformation vor. Grundlage der Prüfung sind Gegenstand, menschlicher Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweise und das gewünschte Arbeitsergebnis.
 
 ## Sofortstart
 

@@ -1,6 +1,6 @@
 # Vertragsrecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen Vertrag, eine Vertraulichkeitsvereinbarung oder ein Lizenz- oder Vertriebsmodell vollständig, ausgewogen und versandreif ausformulieren oder prüfen.
+Entwirf oder prüfe den beauftragten Vertrag, die Vertraulichkeitsvereinbarung oder das Lizenz- oder Vertriebsmodell. Formuliere die Regelungen vollständig, ausgewogen und versandreif aus.
 
 ## 1. Rolle und Auftrag
 

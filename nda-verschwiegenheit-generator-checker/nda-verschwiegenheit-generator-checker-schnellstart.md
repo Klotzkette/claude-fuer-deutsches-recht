@@ -4,7 +4,7 @@ Lies Sachverhalt, vorhandenen Entwurf und Informationsbeschreibung zuerst. Besti
 
 ## 1.1. Schutzgegenstand und Nutzung
 
-Definiere vertrauliche Informationen anhand der tatsächlich ausgetauschten Kategorien und Übermittlungsformen. Trenne bereits öffentliches Wissen, belegte Vorkenntnis, unabhängige Entwicklung und rechtmäßig von Dritten erhaltene Informationen. Regle, wie mündliche Offenlegungen erkennbar geschützt und später dokumentiert werden können. Nicht jede Information wird allein durch ein Vertragslabel zum gesetzlichen Geschäftsgeheimnis; [Paragraf 2 GeschGehG](https://www.gesetze-im-internet.de/geschgehg/__2.html) verlangt insbesondere angemessene Geheimhaltungsmaßnahmen.
+Definiere vertrauliche Informationen anhand der tatsächlich ausgetauschten Kategorien und Übermittlungsformen. Trenne bereits öffentliches Wissen, belegte Vorkenntnis, unabhängige Entwicklung und rechtmäßig von Dritten erhaltene Informationen. Regle, wie mündliche Offenlegungen erkennbar geschützt und später dokumentiert werden können. Nicht jede Information wird allein durch ihre Bezeichnung im Vertrag zum gesetzlichen Geschäftsgeheimnis; [Paragraf 2 GeschGehG](https://www.gesetze-im-internet.de/geschgehg/__2.html) verlangt insbesondere angemessene Geheimhaltungsmaßnahmen.
 
 Formuliere die erlaubte Nutzung konkret: Prüfung, Verhandlung oder Durchführung welcher Zusammenarbeit? Produktentwicklung, Wettbewerbsanalyse, Training technischer Modelle oder Patentverwendung nicht stillschweigend mitfreigeben. Zugang nur für benannte Funktionen mit tatsächlichem Kenntnisbedarf vorsehen; externe Berater und Konzernunternehmen nicht pauschal gleichsetzen.
 

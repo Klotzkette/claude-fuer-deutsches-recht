@@ -7,7 +7,7 @@
     "verdict": "revised",
     "reason": "Die vorhandene Verbraucher- und AGB-Prüfung bleibt erhalten. Werkstatt und Digitale-Produkte-Skill nennen digitale Leistungen, aber der Mini hatte keine Prüfung späterer Funktionsänderungen.",
     "changes": ["Digitale Produktarten unterschieden", "Änderungsrecht und Beendigung nach Paragraf 327r konkretisiert", "Funktionsvergleich und Zeitachse ergänzt", "Pauschale Zweiwochen-Stopregel entfernt"],
-    "sha256": "64b46a907237682e283a5b38df15220d1fbe30f8171dcff06fd541a01c940d9e"
+    "sha256": "b8c5af444fc955b2ba1774ad3feb6655c7100b18e5bfd645496275cfa94e52cf"
   },
   "selection": {
     "positive": ["Prüfe die Abschaltung einer zugesagten Funktion in meinem laufenden digitalen Abonnement.", "Vergleiche Änderungsmitteilung, Vertragsklausel und mein Recht zur Vertragsbeendigung."],

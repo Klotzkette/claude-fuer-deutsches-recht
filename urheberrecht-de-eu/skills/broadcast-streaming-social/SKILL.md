@@ -20,7 +20,7 @@ description: "Für Streaming, Broadcast und Social Media: ordnet Norm, Beweislas
 
 ## Wofür dieser Arbeitsgang da ist
 
-Streaming, Broadcast und Social Media schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Ordne die konkrete Nutzung durch Streaming, Rundfunk oder soziale Medien ein und prüfe den Lizenzbedarf. Stütze das gewünschte Arbeitsergebnis auf Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise.
 
 ## Sofortstart
 

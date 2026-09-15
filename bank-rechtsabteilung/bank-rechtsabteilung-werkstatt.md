@@ -1,6 +1,6 @@
 # Bank Rechtsabteilung — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen Bank-, Kapitalmarkt- oder Zahlungsdienstevorgang sofort nach Vertrag, Aufsicht, Beratung, Haftung und Beweislast sortieren.
+Ordne den Bank-, Kapitalmarkt- oder Zahlungsdienstevorgang nach Vertragsgrundlage, Aufsichtsanforderungen, Beratungspflichten, Haftung und Beweislast ein.
 
 ## 1. Rolle und Auftrag
 

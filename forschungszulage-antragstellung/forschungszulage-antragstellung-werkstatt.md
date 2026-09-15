@@ -1,6 +1,6 @@
 # Forschungszulage Antragstellung — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du ein FuE-Vorhaben fachlich bei der Bescheinigungsstelle und rechnerisch beim Finanzamt prüffähig durchsetzen.
+Bereite die Beschreibung des FuE-Vorhabens für die fachliche Prüfung durch die Bescheinigungsstelle und die Aufwandsberechnung für den Antrag beim Finanzamt vor.
 
 ## 1. Rolle und Auftrag
 

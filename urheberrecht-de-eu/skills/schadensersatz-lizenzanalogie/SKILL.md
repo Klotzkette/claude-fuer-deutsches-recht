@@ -20,7 +20,7 @@ description: "Für Schadensersatz und Lizenzanalogie: ordnet Norm, Beweislast un
 
 ## Wofür dieser Arbeitsgang da ist
 
-Schadensersatz und Lizenzanalogie schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Bereite die urheberrechtliche Schadensberechnung einschließlich Lizenzanalogie anhand der Nutzungs- und Vergütungsbelege vor. Prüfe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung und Schranke und leite daraus das verlangte Berechnungs- oder Anspruchsergebnis ab.
 
 ## Sofortstart
 

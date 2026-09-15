@@ -20,7 +20,7 @@ description: "Für Schranken: Zitat, Unterricht und Wissenschaft: ordnet Norm, B
 
 ## Wofür dieser Arbeitsgang da ist
 
-Schranken: Zitat, Unterricht und Wissenschaft schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Untersuche, ob die konkrete Nutzung als Zitat oder für Unterricht und Wissenschaft von einer Schranke erfasst ist. Beziehe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung und Beweise in den verlangten Schrankenvermerk oder die Nutzungsprüfung ein.
 
 ## Sofortstart
 

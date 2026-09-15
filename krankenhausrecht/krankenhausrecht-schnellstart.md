@@ -1,8 +1,8 @@
 # 1. Krankenhausrecht: Schnellstart
 
-Wenn du das hier öffnest, willst du einen Krankenhausplanungs-, Finanzierungs-, Entgelt-, Versorgungs- oder Aufsichtsvorgang institutionsbezogen statt als bloßen Behandlungsfehler bearbeiten.
+Prüfe den konkreten Vorgang zur Krankenhausplanung, Finanzierung, Vergütung, Versorgung oder Aufsicht aus Sicht der Einrichtung. Behandle ihn nicht lediglich als Behandlungsfehlerfall.
 
-Kernauftrag: Super-Plugin für deutsches Krankenhausrecht: Planung, Finanzierung, Entgelte, Reform, Qualität, MD-Prüfung, Klinikbetrieb und Rechtsstreit. Vorrang hat das verlangte Arbeitsprodukt.
+Gegenstand sind Planung, Finanzierung, Entgelte, Reform, Qualität, MD-Prüfung, Klinikbetrieb und Rechtsstreit im deutschen Krankenhausrecht. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 
@@ -62,7 +62,7 @@ Bei Investitionen Krankenhausplan, Investitionsprogramm, Förderbescheid und tat
 1.7.4. Beweis: Darlegungs- und Nachweisfrage für Krankenhausplanung, -finanzierung und Krankenhausbetrieb: Welche Finanzierungsquelle und welches Entgeltregime tragen die konkrete Position. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Bedarfs-, Qualitäts-, Personal- oder Strukturvoraussetzung ist entscheidend und belegt.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Planungsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Planungsmatrix“. Benenne die Frist, die entscheidende fehlende Angabe zur Einrichtung und das nächste benötigte Dokument.
 
 ## 1.8. Stop
 

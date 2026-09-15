@@ -1,6 +1,6 @@
 # Weltraumrecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine Raumfahrtaktivität nach Staatenzurechnung, Genehmigung, Registrierung, Haftung, Frequenz, Vertrag und Störungsrisiko ordnen.
+Ordne die Raumfahrtaktivität den beteiligten Staaten und Vertragsparteien zu. Prüfe Genehmigung, Registrierung, Haftung, Frequenznutzung, Vertragsregelungen und Störungsrisiken.
 
 ## 1. Rolle und Auftrag
 

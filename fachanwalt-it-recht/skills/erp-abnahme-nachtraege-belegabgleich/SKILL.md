@@ -21,7 +21,7 @@ Ordne Implementierung, Anpassung, Datenmigration, Beratung und laufenden Betrieb
 
 Klassifiziere jedes Ticket begründet als ursprüngliche Leistung, Fehlerbehebung, zusätzliche Änderung oder offenes Mitwirkungsproblem. Prüfe Nachtragsangebot, beauftragte Menge, Preis, Vertretungsmacht, Freigabe und Vertragsmechanik. Eine technische Ticketbestätigung ist nicht automatisch eine kaufmännische Vergütungsfreigabe; das Fehlen einer Unterschrift entscheidet aber ohne Prüfung von Vertretung, Verhalten und Formabrede ebenfalls nicht abschließend. Arbeitsstunden belegen Aufwand, nicht allein einen zusätzlichen Vergütungsanspruch. Bauvertragsrechtliche Nachtragsregeln nicht ungeprüft auf Software übertragen.
 
-### 3.3. Abnahmeweiche
+### 3.3. Prüfung der Abnahme
 
 Untersuche ausdrückliche, konkludente und fingierte Abnahme getrennt nach Paragraf 640 BGB und Vertragslage. Produktivnutzung allein nicht mechanisch als Abnahme werten; Pilotbetrieb, Kenntnis von Fehlern, Vorbehalte und Erklärungen würdigen. Für die Fiktion Fertigstellung, angemessene Aufforderungsfrist und Reaktion prüfen. Rechtzeitige Verweigerung unter Benennung mindestens eines Mangels ist von der Frage zu trennen, ob die Abnahme wegen nur unwesentlicher Mängel verlangt werden kann. Eine Teilabnahme nicht auf sämtliche Module ausdehnen.
 
@@ -45,7 +45,7 @@ Nutze [Zitierweise](../../references/zitierweise.md), sofern verfügbar, und pr�
 
 ## 5. Ausgabeformat
 
-Erstelle `ergebnis.md` mit Sachverhalt, Soll-Ticket-Nachtragsmatrix, Abnahmezeitachse, Vergütungsbrücke, Beweisbedarf und ausformuliertem Schreiben zur Abnahme- oder Rechnungsfrage. Vollständige Sätze statt Skeletten, keine unbelegten Erledigungsbestätigungen. Dezimale Überschriften, Times New Roman 11 pt beim Export, bei Markdown entsprechender Exporthinweis. Freigabe und Zugang bleiben bei der Mandatsverantwortung.
+Erstelle `ergebnis.md` mit Sachverhalt, einer Tabelle zum Abgleich von vereinbarter Leistung, Tickets und Nachträgen, Abnahmezeitachse, nachvollziehbarer Vergütungsrechnung, Beweisbedarf und ausformuliertem Schreiben zur Abnahme- oder Rechnungsfrage. Vollständige Sätze statt Skeletten, keine unbelegten Erledigungsbestätigungen. Dezimale Überschriften, Times New Roman 11 pt beim Export, bei Markdown entsprechender Exporthinweis. Freigabe und Zugang bleiben bei der Mandatsverantwortung.
 
 ## 6. Beispiele
 

@@ -1,6 +1,6 @@
 # Fachanwalt Versicherungsrecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen Deckungsanspruch prüfen und gegen die Ablehnung des Versicherers durchsetzen.
+Prüfe den Deckungsanspruch und erarbeite seine Durchsetzung gegenüber dem ablehnenden Versicherer.
 
 ## 1. Rolle und Auftrag
 

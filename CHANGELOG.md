@@ -1,3 +1,27 @@
+# v444.5.0 - Klare Fachanweisungen und gezielte Rechtsprechungsanker
+
+## 1. Sprachredaktion und 25 Hauptproblem-Paare
+
+Werkstatt-Einstiege, Schnellstarts und ausgewählte Fachskills enthalten präzisere Arbeitsaufträge statt allgemeiner Werbesprache, unklarer Metaphern und abgebrochener Aufzählungen. Die 25 vorhandenen Paare aus Hauptproblem-Prompt und zugehörigem Skill wurden gezielt auf verständliche Sprache und ihren fachlichen Ablauf geprüft. Eingangsdaten, Belege, Fristen, Beweisfragen, Rechenwege, konkrete Ergebnisse und Grenzen eigenmächtiger Handlungen bleiben erhalten. Gute Fassungen wurden beibehalten; eine vollständige Einzelredaktion aller Skills wird nicht behauptet.
+
+## 2. Sieben begrenzt eingeordnete Entscheidungen aus Juli und August 2026
+
+- BAG, Urteil vom 30.07.2026, Az. 2 AZR 96/24: Grenzen der vorweggenommenen Abbedingung von Annahmeverzugslohn bei Arbeitgeberkündigungen; keine bereits entschiedene Anspruchshöhe.
+- BAG, Urteil vom 26.08.2026, Az. 5 AZR 37/25: eigenständige Auskunft über behördliche Vermittlungsvorschläge von sekundärer Darlegung zu Bewerbungen unterscheiden. Amtliche Pressemitteilung geprüft, kein Volltextnachweis und keine daraus abgeleiteten Randnummern.
+- BGH, Beschluss vom 07.07.2026, Az. XI ZR 71/25: gesonderte Kausalitätsprüfung bei zusätzlich behauptetem Datenschutzschaden; kein allgemeiner Anspruchsausschluss und kein neuer Autorisierungsmaßstab.
+- BGH, Urteil vom 02.07.2026, Az. I ZR 134/25: getrennte Berechnungswege bei Transporthaftung; keine Übertragung des Aufliegerschadens auf den Beweis eines Teilverlusts.
+- BGH, Beschluss vom 04.08.2026, Az. 6 StR 160/26: Fortbestand, Sicherstellung und Rückgabe von Sachbeute anhand der Belege unterscheiden; kein pauschaler Abzug von Geldflüssen oder Arrestbeträgen.
+- BVerfG, Urteil vom 23.07.2026, Az. 2 BvE 4/23: früherer Eilerfolg ersetzt keine erfolgreiche Hauptsacheprüfung parlamentarischer Beratungsrechte und begründet keine Gesetzesnichtigkeit.
+- BVerfG, Beschluss vom 23.07.2026, Az. 2 BvC 20/26: eng begrenzte Ausnahme bei verzögerter Wahlprüfung; keine generelle Zulässigkeit vorzeitiger Beschwerden.
+
+Die jeweiligen Fachdateien nennen amtliche Quellen und ihre Aussagegrenzen. Dies ist keine vollständige Rechtsprechungsübersicht für Juli und August. Historische Quellenprüfungen und aktuell geprüfte Ergänzungen bleiben unterscheidbar.
+
+## 3. Nachvollziehbare Offline-Prüfung statt Modellbenchmark
+
+Zusätzliche vorbereitete Ergebnisfälle prüfen die Abgrenzung von Bewerbungsauskunft und sekundärer Darlegung sowie von Eilentscheidung, Hauptsache und Gesetzesnichtigkeit. Diese Fälle sind keine ausgeführten Modelltests. Technische Repo-Tests, Strukturvalidatoren, die strikte Manifestprüfung der offiziellen Plugin-CLI, Generatorreproduzierbarkeit und ZIP-Prüfungen dienen der Release-Absicherung, nicht einer offiziellen Zertifizierung.
+
+Separat ausgeführte unveränderte Originaltests ergaben 22.433 bestandene Skill-Validierungen und 12.785 bestandene Tests des externen Testsystems bei 62 übersprungenen Tests: 51 wegen fehlender Containerumgebung, sechs wegen fehlendem Referenzlauf und fünf Live-Tests ohne API-Zugang. Diese Offline-Ergebnisse sind keine Modellbenchmarks und keine Aussage zur juristischen Richtigkeit erzeugter Antworten. Live-Modelltests wurden nicht ausgeführt; der CLI-Anmeldestatus war nicht angemeldet. Die eigentlichen Testakten bleiben unverändert.
+
 # v444.4.1 - Getrennte Fallvergleiche und robuste Dokumentprüfung
 
 ## 1. Vergleichbare Ergebnisse getrennt auswerten

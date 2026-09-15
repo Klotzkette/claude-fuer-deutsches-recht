@@ -15,11 +15,11 @@ Dieser Skill entscheidet, **welches Verfahren vor dem Bundesverfassungsgericht**
 - Art. 21 Abs. 2 bis 4 GG, §§ 43 ff., § 46a BVerfGG: Parteiverbot und Ausschluss von staatlicher Finanzierung.
 - Art. 41 Abs. 2 GG: Wahlprüfungsbeschwerde.
 - Art. 61 GG: Präsidentenanklage.
-- Art. 93 Abs. 1 Nr. 1 GG, §§ 63 ff. BVerfGG: Organstreit.
-- Art. 93 Abs. 1 Nr. 2 und Nr. 2a GG, §§ 76 ff. BVerfGG: abstrakte Normenkontrolle und Kompetenz-/Erforderlichkeitskontrolle.
-- Art. 93 Abs. 1 Nr. 3 und Nr. 4 GG, §§ 68 ff. BVerfGG: Bund-Länder-Streit, Zwischenländerstreit und sonstige öffentlich-rechtliche Verfassungsstreitigkeiten.
-- Art. 93 Abs. 1 Nr. 4a GG, §§ 90 ff. BVerfGG: Individualverfassungsbeschwerde.
-- Art. 93 Abs. 1 Nr. 4b GG, § 91 BVerfGG: Kommunalverfassungsbeschwerde.
+- Artikel 94 Absatz 1 Nummer 1 GG, Paragrafen 63 ff. BVerfGG: Organstreit.
+- Artikel 94 Absatz 1 Nummer 2 und Nummer 2a GG, Paragrafen 76 ff. BVerfGG: abstrakte Normenkontrolle und Kompetenz-/Erforderlichkeitskontrolle.
+- Artikel 94 Absatz 1 Nummer 3 und Nummer 4 GG, Paragrafen 68 ff. BVerfGG: Bund-Länder-Streit, Zwischenländerstreit und sonstige öffentlich-rechtliche Verfassungsstreitigkeiten.
+- Artikel 94 Absatz 1 Nummer 4a GG, Paragrafen 90 ff. BVerfGG: Individualverfassungsbeschwerde.
+- Artikel 94 Absatz 1 Nummer 4b GG, Paragraf 91 BVerfGG: Kommunalverfassungsbeschwerde.
 - Art. 98 Abs. 2 und Abs. 5 GG: Richteranklage.
 - Art. 100 Abs. 1 GG, §§ 80 ff. BVerfGG: konkrete Normenkontrolle.
 - Art. 100 Abs. 2 GG, §§ 83 ff. BVerfGG: Prüfung, ob eine Regel des Völkerrechts Bestandteil des Bundesrechts ist.
@@ -48,7 +48,7 @@ Dieser Skill entscheidet, **welches Verfahren vor dem Bundesverfassungsgericht**
 4. **Ein Verfassungsorgan verletzt Rechte eines anderen Organs:** Organstreit; eigene organschaftliche Rechtsposition nötig.
 5. **Bund und Land streiten über Kompetenz oder Pflicht:** Bund-Länder-Streit; Beteiligtenfähigkeit nach §§ 68 ff. BVerfGG.
 6. **Partei soll verboten oder von Finanzierung ausgeschlossen werden:** Art. 21 GG; Potentialität und Finanzierungsausschluss streng trennen.
-7. **Bundestagswahl oder Mandatsverlust ist betroffen:** Wahlprüfungsbeschwerde nach vorheriger Bundestagsentscheidung.
+7. Bundestagswahl oder Mandatsverlust ist betroffen: grundsätzlich Wahlprüfungsbeschwerde nach vorheriger Bundestagsentscheidung. Bei verzögerter Wahlprüfung die enge Ausnahme prüfen: Ein unangemessen langes Einspruchsverfahren muss die zeit- oder sachgerechte gerichtliche Wahlprüfung gefährden. Bloßes Zuwarten genügt nicht. BVerfG, Beschluss vom 23.07.2026, Az. 2 BvC 20/26, Randnummern 14 bis 24, [amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/cs20260723_2bvc002026.html): Die Beschwerde blieb im konkreten Fall unstatthaft; die Mahnung zur zügigen Bearbeitung ist keine generelle Freigabe vorzeitiger Beschwerden.
 8. **Sofortiger irreversibler Nachteil droht:** § 32 BVerfGG zusätzlich, aber nicht als Ersatz für ein unstatthaftes Hauptsacheverfahren.
 
 ## Parteibezogene Verfahren

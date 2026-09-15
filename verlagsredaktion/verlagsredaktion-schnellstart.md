@@ -1,6 +1,6 @@
 # Verlagsredaktion — Schnellstart
 
-Wenn du das hier öffnest, willst du aus Gerichts- oder Behördenmaterial eine veröffentlichungsfähige, faire und rechtlich belastbare Meldung mit sauberem Quellen- und Statusnachweis erstellen.
+Erstelle aus dem Gerichts- oder Behördenmaterial eine veröffentlichungsfähige, faire und rechtlich belastbare Meldung mit nachvollziehbaren Angaben zu Quellen und Verfahrensstand.
 
 Kernauftrag: Verlagsdesk für juristische und fachliche Verlage: Eingangskorb, Manuskript, Redaktion, Rechtecheck, Zitate, Bildrechte, Autorenkommunikation, Heftplanung, Buchprojekte, Satzfahnen, Metadaten, Marketing. Vorrang hat das verlangte Arbeitsprodukt.
 

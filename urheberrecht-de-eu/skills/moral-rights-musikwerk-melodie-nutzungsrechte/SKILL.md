@@ -20,7 +20,7 @@ description: "Für digitale Werkzeuge-Cover, Voice Model und Entstellung: ordnet
 
 ## Wofür dieser Arbeitsgang da ist
 
-AI-Cover, Voice Model und Entstellung schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe AI-Cover, Stimmmodelle und eine mögliche Entstellung anhand der konkret verwendeten Aufnahme oder Stimme. Beziehe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise in die verlangte Risikobewertung oder Rechteklärung ein.
 
 ## Sofortstart
 

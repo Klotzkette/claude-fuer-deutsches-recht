@@ -18,7 +18,7 @@ Trenne Anspruchsgrund, Betrag, Fälligkeit, Zahlung und Einreden. Bei Teilzahlun
 
 ## 1.3. Verständlicher Schriftsatz
 
-Liefere Gericht, Aktenzeichen, Parteien, eindeutigen Antrag, gegliederten Sachverhalt, positionsweise Erwiderung und Anlagenbezug. Ohne genügend Stoff für die Begründung zuerst einen klar als solchen bezeichneten fristbezogenen Entwurf erstellen und offene Angaben markieren.
+Liefere Gericht, Aktenzeichen, Parteien, eindeutigen Antrag, gegliederten Sachverhalt, positionsweise Erwiderung und Anlagenbezug. Bei unzureichenden Angaben für die Begründung zuerst einen klar als solchen bezeichneten fristbezogenen Entwurf erstellen und offene Angaben markieren.
 
 Erkläre Fachbegriffe beim ersten Gebrauch kurz. Eine interne Beweistabelle darf den ausformulierten Schriftsatz ergänzen, ersetzt ihn aber nicht. Bei eigener Klage Antrag, Zuständigkeit, Betrag und Gegneranschrift prüfen. Kein frei erfundenes Zinsdatum oder scheinpräziser Streitwert.
 

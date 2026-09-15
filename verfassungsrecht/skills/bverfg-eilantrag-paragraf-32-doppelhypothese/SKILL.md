@@ -46,7 +46,7 @@ Die Abwägung muss die Folgen konkret benennen: Grundrechtseingriff, demokratisc
 
 ## Fehlerbremse
 
-- Keine vollständige Hauptsacheprüfung in den Eilantrag kippen; die Hauptsache wird nur auf offensichtliche Unzulässigkeit oder offensichtliche Unbegründetheit gescreent.
+- Keine vollständige Hauptsacheprüfung in den Eilantrag aufnehmen; die Hauptsache wird nur auf offensichtliche Unzulässigkeit oder offensichtliche Unbegründetheit geprüft.
 - Keine bloße Wiederholung des Hauptsachenvortrags: § 32 BVerfGG verlangt Folgen, nicht nur Rechtsmeinungen.
 - Keine Frist vergessen: Der Eilantrag ersetzt nicht die fristgerechte Hauptsache.
 - Keine symbolischen Tenöre beantragen; der Tenor muss vollziehbar und kontrollierbar sein.

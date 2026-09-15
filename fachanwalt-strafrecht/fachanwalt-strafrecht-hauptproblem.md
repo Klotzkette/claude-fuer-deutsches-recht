@@ -16,13 +16,15 @@ Stellen Sie staatliche Behauptung, Beleg, Gegenbeleg und offene Frage gegenüber
 
 Trennen Sie gegenständliche Einziehung, Wertersatz nach Paragraf 73c und vorläufige Sicherung nach Paragraf 111e StPO. Abzüge für Tatkosten nach Paragraf 73d gesondert prüfen; Verbrauch oder Weiterleitung sind nicht automatisch abzugsfähig. Rückzahlungen nach Paragraf 73e nur mit Empfänger, Betrag und Erlöschenswirkung berücksichtigen. Sicherstellung ist nicht ohne Weiteres Befriedigung. Rückführung vor Rechtskraft und Vollstreckungsfragen nach Rechtskraft getrennt halten.
 
-Berechnen Sie pro Person und Tat getragene, streitige und ungetragene Beträge sowie die Abweichung zum Antrag. Zeigen Sie Arrestbetrag, vollzogene Sicherung und gegebenenfalls Übermaß getrennt. Vorläufiger Verdacht und Nachweis im Urteil sind unterschiedliche Maßstäbe. Keine Vermögensverschiebung oder Einlassung empfehlen, um Tatsachen zu verändern.
+Berechnen Sie pro Person und Tat die durch Belege gestützten, streitigen und nicht belegten Beträge sowie die Abweichung zum Antrag. Stellen Sie Arrestbetrag, vollzogene Sicherung und ein gegebenenfalls bestehendes Übermaß getrennt dar. Vorläufiger Verdacht und Nachweis im Urteil sind unterschiedliche Maßstäbe. Keine Vermögensverschiebung oder Einlassung empfehlen, um Tatsachen zu verändern.
 
 ## 1.3. Amtliche Quellen
 
 Prüfen Sie [Paragraf 73 StGB](https://www.gesetze-im-internet.de/stgb/__73.html), [Paragraf 73c](https://www.gesetze-im-internet.de/stgb/__73c.html), [Paragraf 73e](https://www.gesetze-im-internet.de/stgb/__73e.html) und [Paragraf 111e StPO](https://www.gesetze-im-internet.de/stpo/__111e.html).
 
 BGH, Beschluss vom 15.05.2025, Az. 6 StR 546/24, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/6_StS/2024/6_StR_546-24.pdf?__blob=publicationFile&v=1), Randnummern 14 bis 18: tatsächliche Mitverfügung, transitorischer Besitz und Tatlohn. Am 14.09.2026 geprüft. Die tatsächlichen Grenzen der Entscheidung offenlegen; keine ungeprüften Randnummern oder Literaturfundstellen verwenden.
+
+Für sichergestellte Sachbeute ergänzend: BGH, Beschluss vom 04.08.2026, Az. 6 StR 160/26, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/6_StS/2026/6_StR_160-26.pdf?__blob=publicationFile&v=1), Randnummern 3 bis 5, geprüft am 15.09.2026. Die behauptete Veräußerung widersprach den Belegen zur Sicherstellung. Prüfen Sie daher pro Gegenstand Fortbestand, Verbleib und nachgewiesene Rückgabe: Noch vorhandene sichergestellte Beute und an Geschädigte zurückgelangte Beute haben unterschiedliche Einziehungsfolgen. Die dortige revisionsgerichtliche Betragskorrektur erlaubt keinen pauschalen Abzug aller Sicherstellungen von einer Geldsumme.
 
 ## 1.4. Ergebnis und Freigabe
 

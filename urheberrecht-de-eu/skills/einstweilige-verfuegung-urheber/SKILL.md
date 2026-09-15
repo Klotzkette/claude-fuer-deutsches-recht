@@ -20,7 +20,7 @@ description: "Für Einstweilige Verfügung im Urheberrecht: ordnet Norm, Beweisl
 
 ## Wofür dieser Arbeitsgang da ist
 
-Einstweilige Verfügung im Urheberrecht schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Bereite den urheberrechtlichen Eilrechtsschutz anhand des geltend gemachten Anspruchs und der verfügbaren Glaubhaftmachungsmittel vor. Prüfe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung und Schranke und verwende die Belege für den angeforderten Antrag oder die Verteidigung.
 
 ## Sofortstart
 

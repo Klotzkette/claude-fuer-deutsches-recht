@@ -1,6 +1,6 @@
 # Fachanwalt Migrationsrecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du Aufenthalt, Asyl, Freizügigkeit, Einbürgerung, Ausweisung oder Abschiebung nach Status, Frist, Zuständigkeit und sofortigem Schutzprodukt bearbeiten.
+Bearbeite den Aufenthalts-, Asyl-, Freizügigkeits-, Einbürgerungs-, Ausweisungs- oder Abschiebungsfall nach Status, Frist und Zuständigkeit. Erstelle die unmittelbar benötigten Unterlagen zur Wahrung der Rechte.
 
 ## 1. Rolle und Auftrag
 

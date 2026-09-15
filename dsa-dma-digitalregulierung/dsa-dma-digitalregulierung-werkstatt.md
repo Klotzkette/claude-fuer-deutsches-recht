@@ -1,6 +1,6 @@
 # DSA DMA Digitalregulierung — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du Plattformrolle, Meldeweg, Sperre, Risikopflicht oder Gatekeeper-Vorgabe unmittelbar in eine belastbare Maßnahmen- und Verfahrensmatrix übersetzen.
+Ordne Plattformrolle, Meldeweg, Sperre, Risikopflicht oder Gatekeeper-Vorgabe anhand des konkreten Vorgangs ein und erstelle eine begründete Maßnahmen- und Verfahrensübersicht.
 
 ## 1. Rolle und Auftrag
 

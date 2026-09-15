@@ -1,6 +1,6 @@
 # Franchiserecht Praxis — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen Vertrag, eine Vertraulichkeitsvereinbarung oder ein Lizenz- oder Vertriebsmodell vollständig, ausgewogen und versandreif ausformulieren oder prüfen.
+Prüfe oder entwirf die Vertragsgrundlagen des Franchise-Systems einschließlich Vertraulichkeitsvereinbarung, Lizenz- und Vertriebsregelungen. Liefere vollständige, ausgewogene und versandreife Fassungen.
 
 ## 1. Rolle und Auftrag
 

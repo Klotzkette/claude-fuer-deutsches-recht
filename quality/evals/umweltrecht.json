@@ -7,7 +7,7 @@
     "verdict": "revised",
     "reason": "Mini und Werkstatt blieben bei allgemeiner Genehmigungsprüfung; der Immissionsschutz-Kernskill enthielt zudem nicht belastbare pauschale Fristensätze. Der Mini erhält eine eigenständige Zulassungsmatrix statt vertragsrechtlicher Fremdanker.",
     "changes": ["Konzentrationswirkung auf Paragraf 13 und Ausnahmen präzisiert", "Wasserentnahme als eigenständige Zulassungsfrage ergänzt", "Fachfremde BGB-Anker und unbezogene Rechtsprechung entfernt", "Wiederholte Einsatzfeldtabelle gekürzt"],
-    "sha256": "1885f64e00fc35e04f00117ce685e10b400437ada50e3363908957dc68fe6362"
+    "sha256": "e1a638d4a62b05870e903b582ddc9dc51edc134d1a1272e147c643649bcef38d"
   },
   "selection": {
     "positive": ["Prüfe, welche Zulassungen für unsere Anlage trotz BImSchG-Bescheid fehlen.", "Vergleiche Betriebsbeschreibung, Wasserentnahme und Genehmigungsnebenbestimmungen für den geplanten Start."],

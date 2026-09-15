@@ -6,7 +6,7 @@ description: "Für Buyouts: Livequellen- und Rechtsprechungscheck: ordnet Norm, 
 # Buyouts: Livequellen- und Rechtsprechungscheck
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `bav-strategie-konzern`. Ausgangspunkt ist: Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fuenf Durchführungswege CTA Pension Buyouts Drei-Stufen-Theorie Versorgungssystem-Harmonisierung internationale Benefits Restrukturierung DB-zu-DC im Duesseldorfer Boutique-Stil.
+Prüfe Quellen und Rechtsprechung zu Pension Buyouts im Rahmen von `bav-strategie-konzern`. Berücksichtige den Zusammenhang mit Pensionsmodellen in allen fünf Durchführungswegen, CTA, der Drei-Stufen-Theorie, der Harmonisierung von Versorgungssystemen, internationalen Benefits und der Restrukturierung von DB- zu DC-Systemen.
 
 Er führt durch **Livequellen- und Rechtsprechungscheck** im Themenfeld **Buyouts**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
@@ -15,7 +15,7 @@ Er führt durch **Livequellen- und Rechtsprechungscheck** im Themenfeld **Buyout
 
 - **Thema:** Buyouts.
 - **Arbeitsfokus:** Livequellen- und Rechtsprechungscheck.
-- **Plugin-Rahmen:** Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fuenf Durchführungswege CTA Pension Buyouts Drei-Stufen-Theo....
+- **Plugin-Rahmen:** Strategische Beratung zur betrieblichen Altersversorgung in Konzernen mit den oben genannten Pensionsmodellen und Gestaltungsfragen.
 - **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
 - **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 

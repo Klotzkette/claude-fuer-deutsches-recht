@@ -7,7 +7,7 @@ description: "Für Kaufrecht: Abweichung von objektiven Anforderungen Paragraf 4
 
 ## Aufgabe
 
-Schwerpunkt: keine versteckte AGB-Aushebelung. Prüfe eigene Vorabinformation und ausdrückliche gesonderte Vereinbarung; einfache Klausel, Checkbox-Salat oder technische Fußnote reicht nicht automatisch.
+Schwerpunkt: keine verdeckte Umgehung durch AGB. Prüfe eigene Vorabinformation und ausdrückliche gesonderte Vereinbarung; eine einfache Klausel, unübersichtliche Auswahlfelder oder eine technische Fußnote reichen nicht automatisch.
 
 ## Sofort klären
 

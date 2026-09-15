@@ -20,11 +20,14 @@ Prüfe den Bankgegenanspruch nach Paragraf 675v BGB separat: Pflicht, konkrete V
 
 Rechne je Transaktion Belastung minus endgültigem Rückfluss. Vorläufige Gutschriften, Rückholungen, Gebühren und Gegenforderungen getrennt ausweisen; keine doppelte Erstattung. Zinsen und Nebenforderungen eigenständig begründen.
 
+Wird zusätzlich Schadensersatz nach Artikel 82 Absatz 1 der Datenschutz-Grundverordnung verlangt, benenne den behaupteten Datenschutzverstoß, den konkreten Schaden und die Belege für deren ursächlichen Zusammenhang gesondert. Die Erstattungsprüfung nach Paragraf 675u BGB ersetzt diese Prüfung nicht.
+
 ## 1.3. Verifizierbare Anker
 
 Vor Verwendung aktuelle Normen und amtliche Entscheidung prüfen. Keine erfundenen Fundstellen oder Literaturzitate.
 
 - BGB [Paragraf 675u](https://www.gesetze-im-internet.de/bgb/__675u.html), [Paragraf 675v](https://www.gesetze-im-internet.de/bgb/__675v.html), [Paragraf 675w](https://www.gesetze-im-internet.de/bgb/__675w.html), [Paragraf 676b](https://www.gesetze-im-internet.de/bgb/__676b.html).
+- BGH, Beschluss vom 07.07.2026, Az. XI ZR 71/25, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2025/XI_ZR__71-25.pdf?__blob=publicationFile&v=1), Seite 2, am 15.09.2026 vollständig geprüft: Der Senat ließ einen zusätzlichen Anspruch nach Artikel 82 Absatz 1 der Datenschutz-Grundverordnung neben Paragraf 675u Satz 2 BGB offen und verneinte im konkreten Fall den Kausalzusammenhang. Kein allgemeiner Ausschluss von Datenschutzschadensersatz und kein eigenständiger Maßstab für Autorisierung oder grobe Fahrlässigkeit.
 - BGH, Urteil vom 26.01.2016, Az. XI ZR 91/14, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2014/XI_ZR__91-14.pdf?__blob=publicationFile&v=1), Randnummern 18 und 19, 75 sowie 79 bis 81: Grenzen technischer Nachweise und Beweissicherung. Alte Rechtslage; keine Übernahme damaliger Haftungsabsätze oder technischer Sicherheitsannahmen ohne Prüfung.
 
 ## 1.4. Lieferung und Grenze

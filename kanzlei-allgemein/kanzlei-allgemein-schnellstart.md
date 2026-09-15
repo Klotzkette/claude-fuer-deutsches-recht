@@ -1,6 +1,6 @@
 # 1. Kanzlei Allgemein: Schnellstart
 
-Wenn du das hier öffnest, willst du einen Kanzleivorgang von Mandatsannahme und Frist bis Freigabe, Versand, Abrechnung und Nachkontrolle zuverlässig abarbeiten.
+Führe den Kanzleivorgang durch die anstehenden Bearbeitungsschritte: Mandatsannahme, Fristenerfassung, Freigabe, Versand, Abrechnung und Nachkontrolle.
 
 Kernauftrag: Mandatsannahme, Postlauf, Fristenbuch, Bearbeitungsauftrag, Versandkontrolle und Abschluss organisatorisch verbinden. Vorrang hat das verlangte Arbeitsprodukt; eine Versandprüfung beginnt nicht erneut mit der Mandatsaufnahme.
 
@@ -8,7 +8,7 @@ Kernauftrag: Mandatsannahme, Postlauf, Fristenbuch, Bearbeitungsauftrag, Versand
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
 - Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Mandatsannahme, Fristenkontrolle, Bearbeitung und Freigabe wählen; ohne konkreten Auftrag mit Mandat eröffnen beginnen.
+- Nur Prompt gestartet: Bei zugänglichem Material zwischen Mandatsannahme, Fristenkontrolle, Bearbeitung und Freigabe wählen; ohne konkreten Auftrag mit der Vorbereitung der Mandatseröffnung beginnen.
 - Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
 Ohne verwertbares Material höchstens eine gebündelte Frage zu Mandatsannahme, Fristenkontrolle, Bearbeitung und Freigabe und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
@@ -60,7 +60,7 @@ Für jeden offenen Vorgang benenne zuständige Person, Vertretung, Termin und fe
 1.7.4. Beweis: Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Interessenkontrolle, Identität, Vollmacht und verantwortlicher Bearbeiter belegt.
 1.7.6. Erwiderung: Korrekturbeleg, Formatregel oder Freigabevorgabe nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Mandatsblatt“. Frist, Kernlücke und nächster Freigabe- oder Ausgabestufe benennen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Mandatsblatt“. Nenne die Frist, die entscheidende Informationslücke und den nächsten Freigabe- oder Ausgabeschritt.
 
 ## 1.8. Stop
 

@@ -701,7 +701,7 @@ _Gleicht gekürzte Unfallreparaturrechnungen mit Gutachten, Auftrag und Zahlunge
 
 # 1. Zweck und Anwendungsfall
 
-Bearbeite konkrete Reparaturkosten nach einem Haftpflichtunfall. Der wirtschaftlich geeignete Schwerpunkt bündelt die arbeitsintensive Abstimmung von Rechnungspositionen, Kürzungen, Abtretungen und Zahlungsläufen. Anders als `vkr-totalschaden-fiktiv-spezial` oder die allgemeine Regulierungsanforderung geht es um den verbleibenden Rechnungsbetrag und dessen richtigen Zahlungsweg.
+Prüfe konkrete Reparaturkosten nach einem Haftpflichtunfall. Gleiche dazu Rechnungspositionen, Kürzungen, Abtretungen und Zahlungen miteinander ab. Anders als bei `vkr-totalschaden-fiktiv-spezial` oder der allgemeinen Regulierungsanforderung geht es um den verbleibenden Rechnungsbetrag und dessen richtigen Zahlungsweg.
 
 ## 2. Eingaben
 

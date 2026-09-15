@@ -44,7 +44,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Bank-Formularwege Reklamation
 - **Bankenformulare**: oft "Reklamation nicht autorisierte Zahlung" oder "Schadensanzeige"; alle Banken haben eigene Formulare/Online-Portale.
 - **Schlichtungsantrag:** Webformular der zuständigen Schlichtungsstelle (Bundesbank, Bankenverband-Ombudsmann, DSGV-Schlichter, BVR-Schlichter).
-- **BaFin-Beschwerde:** über bafin.de — keine direkten Anspruchsdurchsetzung, aber aufsichtsrechtliche Hebelwirkung.
+- **BaFin-Beschwerde:** über bafin.de — keine direkte Anspruchsdurchsetzung, aber aufsichtsrechtliche Hebelwirkung.
 
 ## Praxis-Tipp
 Bei "grobe Fahrlässigkeit"-Streit auf Bankspezifika der Nutzerführung achten: Wurde der Kunde durch täuschend echte App- oder Webseite getäuscht? Hat die Bank-App keine Anti-Phishing-Warnung? War der TAN-Bestätigungsdialog ausreichend deutlich? Beweisanforderungen verschieben sich zunehmend zugunsten des Kunden, wenn die Bank die Erkennung nicht aktiv unterstützt.

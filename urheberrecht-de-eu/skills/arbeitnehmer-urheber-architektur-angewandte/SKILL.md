@@ -20,7 +20,7 @@ description: "Für Arbeitnehmerurheber und Auftragswerke: ordnet Norm, Beweislas
 
 ## Wofür dieser Arbeitsgang da ist
 
-Arbeitnehmerurheber und Auftragswerke schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Untersuche die Rechte an Werken von Arbeitnehmern und Auftragnehmern anhand ihrer Beiträge und der vertraglichen Rechteeinräumung. Beziehe Gegenstand, Nutzungshandlung, Schranke und Beweise in die Prüfung der Rechtekette ein und liefere das verlangte Arbeitsergebnis.
 
 ## Sofortstart
 

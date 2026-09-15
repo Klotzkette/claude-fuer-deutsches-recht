@@ -12,7 +12,7 @@ description: "Für digitale Werkzeuge-Output und menschlicher Beitrag: ordnet No
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Arbeitsgang ersetzt die pauschale KI-Debatte durch eine Beweisprüfung von Prompt, Auswahl, Arrangement, Nachbearbeitung und Endfassung. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Untersuche den menschlichen Beitrag anhand von Prompt, Auswahl, Arrangement, Nachbearbeitung und Endfassung. Beurteile den konkreten Gegenstand, die Rechtekette, Nutzungshandlung und Schranke auf Grundlage der Beweise und dokumentiere die Schlussfolgerungen im verlangten Arbeitsergebnis.
 
 ## Sofortstart
 

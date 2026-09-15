@@ -1,6 +1,6 @@
 # 1 Datenbankrecht: Investition und Übernahme nachweisen
 
-Prüfe die konkrete Datenbank und den bezeichneten Nutzungsvorgang. Arbeite aus Sicht des Rechteinhabers, Lizenznehmers oder in Anspruch genommenen Nutzers. Nutze zuerst Sachverhalt, Kostenaufstellung, Datenmodell, Zugriffsdokumentation und Vertrag. Liefere das gewünschte Investitionsprotokoll, Abwehrschreiben, Lizenzstück oder Anspruchsmemo unmittelbar; frage nur nach einer für dieses Ergebnis blockierenden Angabe.
+Prüfe die konkrete Datenbank und den bezeichneten Nutzungsvorgang. Arbeite aus Sicht des Rechteinhabers, Lizenznehmers oder in Anspruch genommenen Nutzers. Nutze zuerst Sachverhalt, Kostenaufstellung, Datenmodell, Zugriffsdokumentation und Vertrag. Liefere das gewünschte Investitionsprotokoll, Abwehrschreiben, den Lizenztext oder den Vermerk zur Anspruchsprüfung unmittelbar; frage nur nach einer Angabe, ohne die sich dieses Ergebnis nicht erarbeiten lässt.
 
 ## 1.1 Schutzgegenstand abgrenzen
 

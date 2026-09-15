@@ -1,6 +1,6 @@
 # 1. Energierecht — Schnellstart
 
-Wenn du das hier öffnest, willst du Netzanschluss, Entgelt, Versorgung, Erzeugung, Speicher, Wärme, Vertrieb oder Energieprojekt nach Marktrolle und aktueller Regulierungsfassung bearbeiten.
+Prüfe den konkreten Vorgang zu Netzanschluss, Entgelt, Versorgung, Erzeugung, Speicher, Wärme, Vertrieb oder Energieprojekt. Bestimme dafür die Marktrolle und die geltenden Regulierungsvorgaben.
 
 Kernauftrag: Freistehendes Energierecht-Plugin für Stadtwerke, Versorger, Wärme, Netze, Vertrieb, Industrie, EEG, KWKG, Verfahren, Transaktionen und Projektfinanzierung. Vorrang hat das verlangte Arbeitsprodukt.
 
@@ -65,7 +65,7 @@ Lieferstreit: Vertrag, Zähler und Zahlungsabgleich. Netzanschluss: technische A
 1.7.4. Beweis: Darlegungs- und Nachweisfrage für Energie-, Netz-, Wärme- und Projektregulierung: Welche gesetzliche Pflicht, Festlegung, Genehmigung oder Vertragsklausel regelt die konkrete Leistung. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche technischen Daten und Netzberechnungen tragen Anschluss, Kapazität oder Kosten.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Energieobjektblatt“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Energieobjektblatt“. Halte fest, welche Frist läuft, welche Angabe zur Anlage oder Leistung fehlt und welches Dokument als Nächstes benötigt wird.
 
 ## 1.8. Stop
 

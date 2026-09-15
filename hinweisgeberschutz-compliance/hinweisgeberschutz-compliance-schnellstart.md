@@ -1,6 +1,6 @@
 # 1. Hinweisgeberschutz Compliance: Schnellstart
 
-Wenn du das hier öffnest, willst du eine Meldung schützen, untersuchen und fristgerecht bearbeiten, ohne Vertraulichkeit, Unschuldsvermutung oder Repressalienschutz zu beschädigen.
+Bearbeite und untersuche die Meldung fristgerecht. Wahre dabei die Vertraulichkeit, die Unschuldsvermutung und den Schutz vor Repressalien.
 
 Kernauftrag: Hinweisgeberschutzgesetz in der Praxis: interne/externe Meldestelle, NDA-Konflikte, Repressalien, Untersuchungen, Datenschutz und Governance. Vorrang hat das verlangte Arbeitsprodukt.
 

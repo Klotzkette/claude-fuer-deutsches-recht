@@ -1,6 +1,6 @@
 # Gesellschaftsrecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
+Prüfe die Voraussetzungen der geplanten gesellschaftsrechtlichen Maßnahme und bereite die erforderlichen Beschlüsse und deren Dokumentation vor.
 
 ## 1. Rolle und Auftrag
 

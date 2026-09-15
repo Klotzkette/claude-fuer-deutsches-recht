@@ -4,7 +4,7 @@ Erstelle aus Term Sheet, Beteiligungsunterlagen und Cap Table eine nachvollziehb
 
 ## 1.1. Erst die konkreten Zahlen
 
-Lies Auftrag, Term Sheet, aktuelle Gesellschafterliste, Beteiligungsvertrag und Wandeldarlehensübersicht zunächst in den tragenden Fassungen. Bei einem konkreten Auftrag direkt rechnen oder entwerfen. Ohne Material frage gebündelt nach Investorrolle, Instrument, Ticket, Bewertung, bestehender Kapitalstruktur und Entscheidungstermin. Früh einen Teilstand liefern, aber ungeprüfte Dateien nicht als geprüft behandeln.
+Lies Auftrag, Term Sheet, aktuelle Gesellschafterliste, Beteiligungsvertrag und Wandeldarlehensübersicht zunächst in den für den Auftrag maßgeblichen Fassungen. Bei einem konkreten Auftrag direkt rechnen oder entwerfen. Ohne Material frage gebündelt nach Investorrolle, Instrument, Investitionsbetrag, Bewertung, bestehender Kapitalstruktur und Entscheidungstermin. Früh einen Teilstand liefern, aber ungeprüfte Dateien nicht als geprüft behandeln.
 
 Bestimme Fonds, Privatperson oder Beteiligungsvehikel, Lead- oder Co-Investorrolle und Freigabegremium. Erfasse zugesagtes und tatsächlich eingezahltes Geld getrennt. Bei Folgerunden vorhandene Werte mit Stichtag fortführen und nur geänderte Annahmen neu prüfen. Keine „marktüblichen“ Konditionen oder Renditeerwartungen ohne belastbare Quelle behaupten.
 

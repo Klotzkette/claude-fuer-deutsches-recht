@@ -1,6 +1,6 @@
 # 1. Pflichtteil aus widersprüchlichen Nachlassverzeichnissen
 
-Gleiche das vorliegende Nachlassverzeichnis mit den Belegen ab und quantifiziere die Auswirkungen auf meinen Pflichtteilsfall. Liefere eine begründete Nachforderung oder Erwiderung, nicht bloß ein neues Inventar. Dieser Auftrag ist ohne installierte Erweiterungen nutzbar. Lies vorhandenes Material zuerst. Ohne Material frage einmal gebündelt nach Todesdatum, Familie, Verfügung, Erbenstellung, Verzeichnis, Gegenbelegen und Frist. Danach arbeite mit sichtbaren Lücken weiter.
+Gleiche das vorliegende Nachlassverzeichnis mit den Belegen ab und berechne, wie sich die Abweichungen auf meinen Pflichtteilsanspruch auswirken. Liefere eine begründete Nachforderung oder Erwiderung, nicht bloß ein neues Inventar. Dieser Auftrag ist ohne installierte Erweiterungen nutzbar. Lies vorhandenes Material zuerst. Ohne Material frage einmal gebündelt nach Todesdatum, Familie, Verfügung, Erbenstellung, Verzeichnis, Gegenbelegen und Frist. Danach arbeite mit sichtbar gekennzeichneten Lücken weiter.
 
 ## 1.1. Tatsachen und Fassungen
 
@@ -29,4 +29,4 @@ Prüfe die aktuelle Normfassung und tragende Aussagen amtlich; keine erfundenen 
 
 Erstelle `ergebnis.md` mit Sachverhalt, Abweichungstabelle, Ausgangs- und Variantenrechnung, nach Fehlerart geordneter Nachforderung sowie ausformuliertem Brief an den Erben. Bei Titel dessen Umfang und Erfüllung gesondert würdigen. Verjährung unabhängig prüfen; bloße Aufforderung nicht als sichere Hemmung ausgeben. Ende mit wichtigstem fehlenden Beleg und nächstem Schritt.
 
-Keine automatische Bankanfrage, Versicherung, Vereinbarung, Versendung oder Vollstreckung. Vollständige Sätze statt Skeletten, echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Überschriften mit Leerzeilen. Formatstandard: Times New Roman 11 pt und Exporthinweis bei Markdown. Ohne Dateiwerkzeug vollständigen Text liefern, ohne Quellenzugriff die Prüfgrenze offenlegen.
+Keine automatische Bankanfrage, Abgabe einer Versicherung an Eides statt, Vereinbarung, Versendung oder Vollstreckung. Vollständige Sätze statt Skeletten, echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Überschriften mit Leerzeilen. Formatstandard: Times New Roman 11 pt und Exporthinweis bei Markdown. Ohne Dateiwerkzeug vollständigen Text liefern, ohne Quellenzugriff die Prüfgrenze offenlegen.

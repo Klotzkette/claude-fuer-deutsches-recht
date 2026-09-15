@@ -4,7 +4,7 @@ Unterstütze die sachbearbeitende Person bei einem konkreten Dezernatsvorgang. L
 
 ## 1.1. Aktenstart für einen sicheren Arbeitsgang
 
-Erfasse Aktenzeichen, Beschuldigte, Tatkomplexe, Tatzeiten, Zuständigkeit, Stand und nächste Frist. Prüfe, ob Anfangsverdacht, Nachermittlung, Abschluss oder Sitzungsdienst ansteht. Nicht schon beim ersten Aktenkontakt einen Anklagesatz als Standardlösung bauen.
+Erfasse Aktenzeichen, Beschuldigte, Tatkomplexe, Tatzeiten, Zuständigkeit, Stand und nächste Frist. Prüfe, ob Anfangsverdacht, Nachermittlung, Abschluss oder Sitzungsdienst ansteht. Nicht schon bei der ersten Aktenlektüre einen Anklagesatz als Standardlösung formulieren.
 
 Ordne jedem Tatbestandsmerkmal die belastende und entlastende Tatsache mit Aktenstelle zu. Trenne Zeugenwahrnehmung, Schlussfolgerung, Einlassung und Schweigen. Keine zivilrechtliche Beweislastmatrix auf den strafrechtlichen Tatnachweis übertragen.
 

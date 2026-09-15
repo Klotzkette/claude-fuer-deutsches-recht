@@ -4,6 +4,11 @@
   "reviewed_on": "2026-09-14",
   "sources": [
     {
+      "url": "https://www.bundesarbeitsgericht.de/presse/annahmeverzugsverguetung-kein-auskunftsanspruch-zu-bewerbungen-auf-stellenangebote/",
+      "checked_on": "2026-09-15",
+      "supports": "Amtliche Pressemitteilung 29/26 zum Urteil vom 26.08.2026, 5 AZR 37/25: kein eigenständig einklagbarer Auskunftsanspruch zu Bewerbungen und Ergebnissen; sekundäre Darlegung nach konkretem Vortrag zu geeigneten und zumutbaren Beschäftigungsmöglichkeiten. Kein Volltext geprüft."
+    },
+    {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-347-21/",
       "checked_on": "2026-09-14",
       "supports": "BAG, Urteil vom 23.02.2022, 5 AZR 347/21, Randnummer 28: grundsätzlich Gesamtberechnung; maßgeblicher Zeitraum durch Anträge und Einwendungen bestimmt."
@@ -99,6 +104,18 @@
             "ergebnis.md"
           ]
         }
+      ],
+      "target_skill": "annahmeverzugslohn-zeitraeume-und-anrechnung"
+    },
+    {
+      "id": "bewerbungsauskunft-und-sekundaere-darlegung",
+      "request": "Erstelle ergebnis.md als internen Vermerk für die Arbeitgeberseite, ohne Versand. Eine Arbeitnehmerin verlangt nach rechtskräftig unwirksamer Kündigung 18.000 Euro brutto Annahmeverzugslohn für Juli bis September 2026. Arbeitsfähigkeit, Arbeitswille und Ausgangsvergütung sind unstreitig. Die Arbeitgeberin hat zwei persönlich übersandte Vermittlungsvorschläge der Arbeitsagentur mit Tätigkeit, Ort, Vergütung und vorgesehenem Beginn erhalten. Sie verlangt nun mit einer eigenständigen Widerklage Auskunft über sämtliche Bewerbungen auf diese Vorschläge und deren Ergebnisse. Im Lohnprozess hat sie außerdem für eine der Stellen konkret vorgetragen: identische Tätigkeit am bisherigen Arbeitsort, gleiche Arbeitszeit, 6.000 Euro Monatsgehalt, möglicher Beginn am 1. Juli und eine schriftliche Einladung zum Vorstellungsgespräch. Die Arbeitnehmerin bestreitet böswilliges Unterlassen, äußert sich aber nicht dazu, ob sie auf diese Einladung reagierte. Ein tatsächliches Einstellungsangebot oder Zwischenverdienst ist nicht belegt. Beurteile den Auskunftsantrag, die noch erforderliche Darlegung im Lohnprozess und den derzeit vertretbaren Umgang mit einem fiktiven Lohnabzug. Nutze den Rechtsstand nach dem Urteil 5 AZR 37/25, ohne unzugängliche Entscheidungsgründe zu erfinden.",
+      "input_files": [],
+      "deliverables": ["ergebnis.md"],
+      "criteria": [
+        {"id": "C01", "text": "Der Vermerk trennt den eigenständigen Auskunftsanspruch über Vermittlungsvorschläge von Bewerbungen und Ergebnissen und empfiehlt keinen selbständigen Bewerbungsauskunftsantrag auf dieser Grundlage.", "deliverables": ["ergebnis.md"]},
+        {"id": "C02", "text": "Er behandelt die Reaktion auf die konkret beschriebene Beschäftigungsmöglichkeit als Frage sekundärer Darlegung im Lohnprozess, ohne die Darlegungs- und Beweislast für den Anrechnungseinwand auf die Arbeitnehmerin umzukehren.", "deliverables": ["ergebnis.md"]},
+        {"id": "C03", "text": "Er zieht weder automatisch 18.000 Euro noch einen erfundenen Zwischenverdienst ab, sondern benennt die offenen Voraussetzungen und Belege für erzielbaren, böswillig unterlassenen Erwerb.", "deliverables": ["ergebnis.md"]}
       ],
       "target_skill": "annahmeverzugslohn-zeitraeume-und-anrechnung"
     }

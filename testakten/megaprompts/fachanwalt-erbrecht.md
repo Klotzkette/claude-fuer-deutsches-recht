@@ -78,7 +78,7 @@ _Gleicht ein vorliegendes Nachlassverzeichnis mit Stichtagsauskünften, Kontobew
 
 # 1. Zweck und Anwendungsfall
 
-Prüfe eine bereits vorliegende Pflichtteilsauskunft auf entscheidende Bestands-, Ermittlungs- und Wertabweichungen. Die Verbindung von hohen Nachlasswerten, vielen Bankbelegen und streitigen Passiva rechtfertigt den Schwerpunkt. Anders als Erstinventar, allgemeine Auskunftsdurchsetzung oder reine Pflichtteilsrechnung beginnt dieser Skill mit dem Widerspruch zwischen Verzeichnis und Gegenbeleg. Nicht für Testamentserrichtung oder eine vollständige Erbauseinandersetzung.
+Prüfe eine bereits vorliegende Pflichtteilsauskunft auf entscheidende Abweichungen beim Bestand, bei den Ermittlungen und bei der Bewertung. Hohe Nachlasswerte, umfangreiche Bankbelege und streitige Nachlassschulden begründen den Schwerpunkt. Anders als bei einem ersten Inventar, der allgemeinen Durchsetzung des Auskunftsanspruchs oder einer reinen Pflichtteilsrechnung beginnt die Prüfung mit dem Widerspruch zwischen Verzeichnis und Gegenbeleg. Nicht für Testamentserrichtung oder eine vollständige Erbauseinandersetzung.
 
 ## 1.1. Eingaben
 

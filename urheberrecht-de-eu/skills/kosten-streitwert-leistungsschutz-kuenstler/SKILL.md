@@ -20,7 +20,7 @@ description: "Für Kosten, Streitwert und Wirtschaftlichkeit: ordnet Norm, Bewei
 
 ## Wofür dieser Arbeitsgang da ist
 
-Kosten, Streitwert und Wirtschaftlichkeit schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Bereite eine Entscheidung über Kosten, Streitwert und Wirtschaftlichkeit des urheberrechtlichen Vorgehens vor. Prüfe dafür Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung und Schranke anhand der Beweise und erläutere die Folgen für das verlangte Arbeitsergebnis.
 
 ## Sofortstart
 

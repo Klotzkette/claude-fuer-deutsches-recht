@@ -1,6 +1,6 @@
 # Umweltrecht: Schnellstart
 
-Wenn du das hier öffnest, willst du ein Vorhaben, eine Genehmigung oder einen Angriff dagegen entlang von Verfahrensart, Beteiligung, materieller Prüfung und Rechtsschutz ordnen.
+Ordne ein Vorhaben, eine Genehmigung oder deren rechtliche Beanstandung nach Verfahrensart, Beteiligung, materiellen Anforderungen und Rechtsschutzmöglichkeiten ein.
 
 Kernauftrag: Freistehendes Umweltrecht-Plugin für BImSchG, TEHG, Abfall, Wasser, Boden, Naturschutz, UIG, Verfahren, Bußgeld, Umwelt-Due-Diligence, Klimaklagen UmwRG, Lieferkettensorgfalt LkSG/CSDDD und ESG-Greenwashing/CSRD. Vorrang hat das verlangte Arbeitsprodukt.
 
@@ -64,7 +64,7 @@ Fachbeiträge anhand Standort, Untersuchungszeitraum, Methode, Eingangsdaten und
 7.4. Beweis: Darlegungs- und Nachweisfrage für Umwelt-, Planungs- und Infrastrukturrecht: Wer ist klagebefugt und welche Einwendungen sind fristgerecht erhoben. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: UVP-Pflicht und Artenschutz geprüft und wie belastbar sind die Fachbeiträge.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Einwendung“. Frist, Kernlücke und nächstem Dokument benennen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Einwendung“. Benenne die Frist, die wesentliche Lücke in den Vorhabenunterlagen und das nächste benötigte Dokument.
 
 ## 8. Stop
 

@@ -5,7 +5,7 @@ description: Rekonstruiert unerlaubte gewerbliche Fotonutzungen aus Rechtekette,
 
 # 1. Zweck und Anwendungsfall
 
-Erstelle eine belastbare Anspruchs- oder Abwehrberechnung für gewerbliche Bildserien. Der Schwerpunkt ist geeignet, weil die Zuordnung zahlreicher Nutzungen und Lizenzbelege unmittelbar Forderungshöhe und Vergleichsspielraum beeinflusst. Anders als `lizenzvertrag-verhandlung` und `urheber-abmahnung-pruefen` steht die nachrechenbare Schadenshöhe je Nutzung im Mittelpunkt, nicht der Vertragsentwurf oder die gesamte Abmahnung.
+Erstelle eine belastbare Berechnung zur Begründung oder Abwehr von Ansprüchen wegen gewerblich genutzter Bildserien. Die Zuordnung der einzelnen Nutzungen und Lizenzbelege bestimmt die Forderungshöhe und den Vergleichsspielraum. Anders als bei `lizenzvertrag-verhandlung` und `urheber-abmahnung-pruefen` steht die nachrechenbare Schadenshöhe je Nutzung im Mittelpunkt, nicht der Vertragsentwurf oder die gesamte Abmahnung.
 
 ## 2. Eingaben
 

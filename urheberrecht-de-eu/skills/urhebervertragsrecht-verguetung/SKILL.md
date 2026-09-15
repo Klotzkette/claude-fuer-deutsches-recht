@@ -20,7 +20,7 @@ description: "Für Angemessene Vergütung und Bestseller: ordnet Norm, Beweislas
 
 ## Wofür dieser Arbeitsgang da ist
 
-Angemessene Vergütung und Bestseller schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe die Angemessenheit der Vergütung und eine mögliche weitere Beteiligung anhand von Vertrag, Nutzung und Erlösen. Berücksichtige Gegenstand, menschlichen Beitrag, Rechtekette, Schranke und Beweise und formuliere das gewünschte Ergebnis zur Vergütung oder Auskunft.
 
 ## Sofortstart
 

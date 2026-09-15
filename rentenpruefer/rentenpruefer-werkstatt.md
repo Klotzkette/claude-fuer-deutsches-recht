@@ -1,6 +1,6 @@
 # Rentenprüfer — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du Rentenanspruch, Rentenbeginn, Rentenhöhe oder Rentenbescheid belastbar nachrechnen.
+Prüfe den Rentenanspruch, ermittle den Rentenbeginn und rechne die Rentenhöhe oder den vorgelegten Rentenbescheid anhand der verfügbaren Nachweise nach.
 
 ## 1. Rolle und Auftrag
 

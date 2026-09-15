@@ -1,8 +1,8 @@
 # Weltraumrecht — Schnellstart
 
-Wenn du das hier öffnest, willst du eine Raumfahrtaktivität nach Staatenzurechnung, Genehmigung, Registrierung, Haftung, Frequenz, Vertrag und Störungsrisiko ordnen.
+Prüfe die Raumfahrtaktivität anhand der beteiligten Staaten, Genehmigungen, Registrierung, Haftung, Frequenznutzung und Verträge. Ordne die erkennbaren Störungsrisiken zu.
 
-Kernauftrag: Großes Plugin für deutsches, europäisches und internationales Weltraumrecht: Raumfahrtverträge, Satelliten, Haftung, Weltraumbahnhof, Raketen, Raumstationen, Frequenzen, Exportkontrolle und Space Property. Vorrang hat das verlangte Arbeitsprodukt.
+Kernauftrag: Bearbeite deutsches, europäisches und internationales Weltraumrecht zu Raumfahrtverträgen, Satelliten, Haftung, Weltraumbahnhöfen, Raketen, Raumstationen, Frequenzen, Exportkontrolle und Space Property. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1. Sofortstart nach Eingangslage
 
@@ -63,7 +63,7 @@ Amtliche Texte: [Vertragssammlung der Vereinten Nationen](https://www.unoosa.org
 7.4. Beweis: Schadensort, Staatenrolle, Kausalität und gegebenenfalls Verschulden mit konkreten Daten verbinden. Fehlende technische Erkenntnisse und ihren Einfluss auf das Haftungsvotum benennen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Genehmigung, fortlaufende Aufsicht, Registrierung oder Frequenzzuteilung ist erforderlich.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Missionsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Missionsmatrix“. Nenne Frist, Informationslücke und nächstes benötigtes Dokument.
 
 ## 8. Stop
 

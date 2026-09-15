@@ -247,7 +247,7 @@ _Für europäischer Technikregulierungsrahmen GPAI und Urheberrechtspolitik: ord
 
 ## Wofür dieser Arbeitsgang da ist
 
-KI-VO GPAI und Urheberrechtspolitik schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe die urheberrechtlichen Vorgaben der KI-VO für GPAI und ihre Umsetzung durch den jeweiligen Anbieter. Verknüpfe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise mit der verlangten Anbieterprüfung oder Stellungnahme.
 
 ## Sofortstart
 
@@ -331,7 +331,7 @@ _Für Internationales Urheberrecht und Kollisionsrecht: ordnet Norm, Beweislast 
 
 ## Wofür dieser Arbeitsgang da ist
 
-Internationales Urheberrecht und Kollisionsrecht schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Ordne grenzüberschreitende Nutzungen dem jeweiligen Schutzland und zuständigen Gericht zu. Prüfe Gegenstand, menschlichen Beitrag, internationale Rechtekette, Nutzungshandlung und Schranke anhand der Belege und liefere das verlangte Arbeitsergebnis.
 
 ## Sofortstart
 
@@ -416,7 +416,7 @@ _Für digitale Werkzeuge-Cover, Voice Model und Entstellung: ordnet Norm, Beweis
 
 ## Wofür dieser Arbeitsgang da ist
 
-AI-Cover, Voice Model und Entstellung schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe AI-Cover, Stimmmodelle und eine mögliche Entstellung anhand der konkret verwendeten Aufnahme oder Stimme. Beziehe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise in die verlangte Risikobewertung oder Rechteklärung ein.
 
 ## Sofortstart
 
@@ -496,7 +496,7 @@ _Für digitale Werkzeuge-Output und menschlicher Beitrag: ordnet Norm, Beweislas
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Arbeitsgang ersetzt die pauschale KI-Debatte durch eine Beweisprüfung von Prompt, Auswahl, Arrangement, Nachbearbeitung und Endfassung. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Untersuche den menschlichen Beitrag anhand von Prompt, Auswahl, Arrangement, Nachbearbeitung und Endfassung. Beurteile den konkreten Gegenstand, die Rechtekette, Nutzungshandlung und Schranke auf Grundlage der Beweise und dokumentiere die Schlussfolgerungen im verlangten Arbeitsergebnis.
 
 ## Sofortstart
 
@@ -581,7 +581,7 @@ _Für digitale Werkzeuge-Klauseln in Urheberverträgen: ordnet Norm, Beweislast 
 
 ## Wofür dieser Arbeitsgang da ist
 
-KI-Klauseln in Urheberverträgen schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Prüfe und formuliere die beauftragten KI-Klauseln in Urheberverträgen. Leite den Regelungsbedarf aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweisen ab und stelle ihn im gewünschten Vertrags- oder Prüfungsergebnis dar.
 
 ## Sofortstart
 
@@ -662,7 +662,7 @@ _Für Rechteclearing digitale Werkzeuge-Dataset Musik: ordnet Norm, Beweislast u
 
 ## Wofür dieser Arbeitsgang da ist
 
-Rechteclearing KI-Dataset Musik schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Kläre die Rechte an Werken, Aufnahmen und weiteren Bestandteilen des Musikdatensatzes für die KI-Nutzung. Dokumentiere Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise im verlangten Prüfplan oder Anbieterfragebogen.
 
 ## Sofortstart
 
@@ -738,7 +738,7 @@ _Für Schriftsatz und Antrag im Urheberrecht: erstellt Entwurf mit Antrag, Bewei
 
 ## Wofür dieser Arbeitsgang da ist
 
-Schriftsatz und Antrag im Urheberrecht schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Bereite den angeforderten urheberrechtlichen Schriftsatz mit den passenden Anträgen und Anlagen vor. Gliedere die Prüfung nach Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweisen, damit sich die Begründung aus der Akte nachvollziehen lässt.
 
 ## Sofortstart
 
@@ -823,7 +823,7 @@ _Für Schranken: Zitat, Unterricht und Wissenschaft: ordnet Norm, Beweislast und
 
 ## Wofür dieser Arbeitsgang da ist
 
-Schranken: Zitat, Unterricht und Wissenschaft schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Untersuche, ob die konkrete Nutzung als Zitat oder für Unterricht und Wissenschaft von einer Schranke erfasst ist. Beziehe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung und Beweise in den verlangten Schrankenvermerk oder die Nutzungsprüfung ein.
 
 ## Sofortstart
 

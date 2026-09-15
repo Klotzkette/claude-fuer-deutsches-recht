@@ -3,6 +3,7 @@
   "plugin": "verfassungsrecht",
   "reviewed_on": "2026-09-14",
   "sources": [
+    {"url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/es20260723_2bve000423.html", "checked_on": "2026-09-15", "supports": "Amtlicher Urteilstenor, Leitsatz und einschlägige Begründungspassagen vom 23.07.2026, 2 BvE 4/23: Anträge verworfen, Antragsbefugnis nicht substantiiert dargelegt; kein subjektives Recht auf öffentliche Anhörungen. Frühere Eilanordnung ersetzt die Hauptsacheprüfung nicht."},
     {"url": "https://www.gesetze-im-internet.de/gg/art_94.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: aktuelle Zuständigkeitsordnung, Verfassungsbeschwerde in Absatz 1 Nummer 4a."},
     {"url": "https://www.gesetze-im-internet.de/bverfgg/__93.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: Monatsfrist für Erhebung und Begründung, entscheidungsabhängiger Beginn sowie eigene Jahresfristregel in Absatz 3."}
   ],
@@ -27,5 +28,16 @@
       {"id": "C03", "text": "Die unbekannten Entscheidungsgründe werden nicht erfunden; der Vermerk benennt gezielt benötigte Textstellen und verwendet bei Angabe der GG-Zuständigkeit die aktuelle Zuordnung zu Artikel 94.", "deliverables": ["ergebnis.md"]}
     ],
     "target_skill": "verfassungsbeschwerde-subsidiaritaet-substantiierung"
+  }, {
+    "id": "geg-eilanordnung-und-hauptsache-getrennt",
+    "request": "Erstelle ergebnis.md als internen Prüfvermerk zu einem noch nicht veröffentlichten Entwurf einer Abgeordneteninformation vom 15. September 2026. Darin steht: Weil das Bundesverfassungsgericht 2023 die abschließende Beratung der GEG-Novelle vorläufig gestoppt hat, haben die Antragsteller im Verfahren 2 BvE 4/23 endgültig gewonnen; das Gesetz ist deshalb nichtig und jedem Abgeordneten steht vor jeder Gesetzesabstimmung eine öffentliche Anhörung zu. Der Entwurf nennt keinen anderen Nichtigkeitsausspruch. Auftraggeber ist ein Bundestagsabgeordneter, der die eigene Beteiligungsposition beurteilen lassen will. Für eine zusätzliche Rüge liegen bisher nur Einladungen zu zwei Ausschusssitzungen und seine Angabe vor, er sei an informellen Gesprächen anderer Abgeordneter nicht beteiligt gewesen. Fassungsstände und Übermittlungsdaten des Gesetzentwurfs fehlen. Prüfe die drei Aussagen anhand des Urteils vom 23. Juli 2026 und formuliere einen sachlichen Ersatzabsatz sowie gezielte Beleganforderungen für eine eigene Beteiligungsrüge. Keine Veröffentlichung oder Antragstellung.",
+    "input_files": [],
+    "deliverables": ["ergebnis.md"],
+    "criteria": [
+      {"id": "C01", "text": "Das Ergebnis unterscheidet die vorläufige Eilentscheidung von der erfolglosen Hauptsache und leitet aus dem früheren Eilerfolg weder einen endgültigen Prozesserfolg noch die Nichtigkeit des Gesetzes ab.", "deliverables": ["ergebnis.md"]},
+      {"id": "C02", "text": "Es bestätigt kein allgemeines individuelles Recht auf öffentliche Anhörung und behandelt die Nichtteilnahme an informellen Gesprächen nicht schon für sich als erwiesene Verletzung parlamentarischer Beratungsrechte.", "deliverables": ["ergebnis.md"]},
+      {"id": "C03", "text": "Es verlangt für eine eigene Rüge konkret Fassungsstände, Übermittlungs- und Beratungstermine sowie den daraus folgenden Beteiligungsnachteil, ohne fehlende Abläufe zu erfinden; ein ausformulierter Ersatzabsatz wird geliefert.", "deliverables": ["ergebnis.md"]}
+    ],
+    "target_skill": "organstreit-bundestag-fraktion-opposition"
   }]
 }

@@ -124,7 +124,7 @@ Klausurniveau: [bestanden / grenzwertig / nicht bestanden] — Begründung in ei
 ## Top 3 Verbesserungen (nach Priorität)
 
 1. Wichtigster Struktur- oder Subsumtionsfehler:
-2. Zweitwichtigster fachlicher Verbesserungshebel:
+2. Zweitwichtigster fachlicher Verbesserungspunkt:
 3. Konkreter nächster Übungsschritt:
 
 ## Formulierungsbeispiel — zur Demonstration, nicht zur Übernahme

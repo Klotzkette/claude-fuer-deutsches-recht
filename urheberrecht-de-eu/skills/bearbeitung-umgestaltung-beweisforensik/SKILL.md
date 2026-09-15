@@ -20,7 +20,7 @@ description: "Für Bearbeitung und Umgestaltung: ordnet Norm, Beweislast und Geg
 
 ## Wofür dieser Arbeitsgang da ist
 
-Bearbeitung und Umgestaltung schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Vergleiche Original und Bearbeitung, um die übernommenen und neu gestalteten Elemente zu beurteilen. Berücksichtige menschlichen Beitrag, Rechtekette, konkrete Nutzung, Schranke und Beweise und leite daraus das verlangte Arbeitsergebnis ab.
 
 ## Sofortstart
 

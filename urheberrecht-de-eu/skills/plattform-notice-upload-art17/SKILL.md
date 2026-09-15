@@ -20,7 +20,7 @@ description: "Für Notice, Takedown und Restore: ordnet Norm, Beweislast und Geg
 
 ## Wofür dieser Arbeitsgang da ist
 
-Notice, Takedown und Restore schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Bereite die Meldung, Entfernung oder Wiederherstellung des beanstandeten Plattforminhalts vor. Prüfe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung und Schranke und ordne die Beweise der verlangten Notice oder Gegenäußerung zu.
 
 ## Sofortstart
 

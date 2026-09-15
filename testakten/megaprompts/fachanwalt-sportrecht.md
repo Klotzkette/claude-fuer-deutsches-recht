@@ -795,7 +795,7 @@ _Prüft einsatzabhängige Vertragsverlängerung und Prämien im deutschen Profif
 
 ## 1.1. Zweck und Anwendungsfall
 
-Bearbeite den Streit um wenige fehlende Einsätze, wenn davon eine weitere Vertragssaison und erhebliche Prämien abhängen. Dieser Schwerpunkt verbindet Vertragsauslegung, Spielstatistik und schwer zugängliche Motivbeweise. Gegenüber den allgemeinen Spielervertragsmodulen entsteht ein prüfbares Einsatzkonto mit getrennten Bestands- und Zahlungsfolgen.
+Bearbeite den Streit um wenige fehlende Einsätze, wenn davon eine weitere Vertragssaison und erhebliche Prämien abhängen. Dieser Schwerpunkt verbindet Vertragsauslegung, Spielstatistik und die häufig schwierige Beweisführung zu den Motiven der Nichtaufstellung. Gegenüber den allgemeinen Spielervertragsmodulen entsteht ein prüfbares Einsatzkonto mit getrennten Bestands- und Zahlungsfolgen.
 
 ## 1.2. Eingaben
 

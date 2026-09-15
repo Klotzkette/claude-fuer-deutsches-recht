@@ -20,7 +20,7 @@ description: "Für Fotos, Bilder und Design: ordnet Norm, Beweislast und Gegenar
 
 ## Wofür dieser Arbeitsgang da ist
 
-Fotos, Bilder und Design schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Untersuche den Schutz und den zulässigen Nutzungsumfang der vorgelegten Fotos, Bilder oder Gestaltungen. Begründe das gewünschte Arbeitsergebnis anhand des Gegenstands, des menschlichen Beitrags, der Rechtekette, der Nutzungshandlung, der Schranke und der Beweise.
 
 ## Sofortstart
 

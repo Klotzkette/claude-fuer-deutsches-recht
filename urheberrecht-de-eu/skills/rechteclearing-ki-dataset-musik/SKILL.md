@@ -20,7 +20,7 @@ description: "Für Rechteclearing digitale Werkzeuge-Dataset Musik: ordnet Norm,
 
 ## Wofür dieser Arbeitsgang da ist
 
-Rechteclearing KI-Dataset Musik schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Kläre die Rechte an Werken, Aufnahmen und weiteren Bestandteilen des Musikdatensatzes für die KI-Nutzung. Dokumentiere Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise im verlangten Prüfplan oder Anbieterfragebogen.
 
 ## Sofortstart
 

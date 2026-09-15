@@ -5,7 +5,7 @@ description: Berechnet nach einem behaupteten Behandlungsfehler Haushaltsführun
 
 # 1. Zweck und Anwendungsfall
 
-Bereite materielle Langzeitfolgen eines Behandlungsfehlers bezifferbar auf. Haushaltsausfall und persönlicher Pflegebedarf überlappen in Tätigkeitsnachweisen und Rechnungen; ihre saubere Trennung verhindert Doppelansätze und falsche Anspruchsinhaberschaft. Dieser Schwerpunkt vertieft die allgemeine Arzthaftungs- und Schmerzensgeldarbeit, ohne medizinische Kausalität oder Pflegegrad selbst festzustellen.
+Bereite materielle Langzeitfolgen eines Behandlungsfehlers so auf, dass sich die Ansprüche beziffern lassen. Haushaltsausfall und persönlicher Pflegebedarf überschneiden sich in Tätigkeitsnachweisen und Rechnungen; ihre genaue Abgrenzung verhindert Doppelansätze und die Zuordnung von Ansprüchen zum falschen Anspruchsinhaber. Dieser Schwerpunkt vertieft die allgemeine Arzthaftungs- und Schmerzensgeldarbeit, ohne medizinische Kausalität oder Pflegegrad selbst festzustellen.
 
 ## 2. Eingaben
 

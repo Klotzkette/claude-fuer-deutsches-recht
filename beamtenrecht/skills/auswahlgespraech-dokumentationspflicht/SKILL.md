@@ -37,7 +37,7 @@ Skill für Bewerber, die im Auswahlverfahren ein strukturiertes Auswahlgespraech
 - Wechsel der Kommissionsbesetzung waehrend des Verfahrens fuehrt regelmaessig zu Verfahrensfehler.
 
 ### c) Dokumentationspflicht
-- Wesentliche Aussagen sind so zu dokumentieren, dass eine gerichtliche Kontrolle möglich ist. Reine Punkthebel ohne Begruendung genügen nicht.
+- Wesentliche Aussagen sind so zu dokumentieren, dass eine gerichtliche Kontrolle möglich ist. Bloße Punktbewertungen ohne Begründung genügen nicht.
 - Die Dokumentation muss im Auswahlvermerk verarbeitet werden.
 
 ### d) Befangenheit

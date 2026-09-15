@@ -7,7 +7,7 @@ description: Erstellt beim Familiennachzug zu Drittstaatsangehörigen eine beleg
 
 ## 1.1. Zweck und Anwendungsfall
 
-Bearbeite die finanzielle Entscheidungsreife eines konkreten Nachzugsfalls. Der Schwerpunkt ist wegen mehrjähriger Trennung, Wohnkosten und Erwerbsplanung wirtschaftlich relevant. Gegenüber allgemeinen Nachzugs- und Schwellenmodulen liefert er einen monatsbezogenen Abgleich von Bedarf, verlässlich verfügbarem Einkommen und behördlicher Gegenrechnung.
+Bereite die Entscheidung über die finanziellen Voraussetzungen eines konkreten Nachzugsfalls vor. Der Schwerpunkt ist wegen mehrjähriger Trennung, Wohnkosten und Erwerbsplanung wirtschaftlich relevant. Gegenüber allgemeinen Nachzugs- und Schwellenmodulen liefert er einen monatsbezogenen Abgleich von Bedarf, verlässlich verfügbarem Einkommen und behördlicher Gegenrechnung.
 
 ## 1.2. Eingaben
 

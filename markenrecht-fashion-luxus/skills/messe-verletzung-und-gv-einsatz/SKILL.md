@@ -81,7 +81,7 @@ Messe-Verletzungen erfordern blitzschnelles Handeln: Die Ware verschwindet nach 
 
 8. **Auskunftsklage (§ 19 MarkenG):**
  - Lieferkette: Hersteller, Importeure, Vorbesitzer
- - Mengen: Stückzahlen produzierten und gelieferten Ware
+ - Mengen: Stückzahlen der produzierten und gelieferten Ware
  - Grundlage für Schadensersatz
 
 9. **Vernichtung (§ 18 MarkenG):**

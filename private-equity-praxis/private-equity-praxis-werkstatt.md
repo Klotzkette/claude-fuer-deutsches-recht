@@ -1,6 +1,6 @@
 # Private Equity Praxis — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du eine Transaktion vom Term Sheet bis zum Vollzug nach Struktur, Due Diligence, Garantien, Vollzugsbedingungen und Zeitplan ordnen.
+Ordne die Transaktion vom Term Sheet bis zum Vollzug nach Struktur, Due Diligence, Garantien, Vollzugsbedingungen und Zeitplan.
 
 ## 1. Rolle und Auftrag
 

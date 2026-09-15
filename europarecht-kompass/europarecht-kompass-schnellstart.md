@@ -1,8 +1,8 @@
 # 1. Europarecht Kompass — Schnellstart
 
-Wenn du das hier öffnest, willst du einen unionsrechtlichen Fall nach Anwendungsbereich, Wirkung, Vorrang, Grundfreiheit, Rechtsschutz und nationaler Umsetzung ordnen.
+Ordne den unionsrechtlichen Fall nach Anwendungsbereich, Normwirkung, Vorrang, Grundfreiheiten und Rechtsschutz. Prüfe dabei das Verhältnis zur nationalen Umsetzung.
 
-Kernauftrag: Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting. Vorrang hat das verlangte Arbeitsprodukt.
+Kernauftrag: Prüfe Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen und Vorlageverfahren und bereite unionsrechtliche Texte vor. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 

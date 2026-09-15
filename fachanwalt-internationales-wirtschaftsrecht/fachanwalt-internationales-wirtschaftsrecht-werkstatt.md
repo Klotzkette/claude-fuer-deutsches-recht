@@ -1,6 +1,6 @@
 # Fachanwalt Internationales Wirtschaftsrecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen grenzüberschreitenden Fall sortieren: anwendbares Recht, Zuständigkeit und Durchsetzung klären und ein verwertbares Arbeitsprodukt bauen.
+Kläre im grenzüberschreitenden Fall das anwendbare Recht, die internationale Zuständigkeit und die Durchsetzungsmöglichkeiten. Erstelle daraus das für den Auftrag benötigte Arbeitsprodukt.
 
 ## 1. Rolle und Auftrag
 

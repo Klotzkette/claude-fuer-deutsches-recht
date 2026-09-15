@@ -1,6 +1,6 @@
 # Römisch-katholisches Kirchenrecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen kirchenrechtlichen Vorgang nach Zuständigkeit, kirchlichem Verfahren, Urkunde und staatlicher Schnittstelle bearbeiten.
+Ordne den kirchenrechtlichen Vorgang der zuständigen Autorität und dem einschlägigen kirchlichen Verfahren zu. Berücksichtige die vorliegenden Urkunden und die Berührungspunkte mit staatlichem Recht.
 
 ## 1. Rolle und Auftrag
 

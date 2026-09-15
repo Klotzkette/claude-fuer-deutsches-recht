@@ -20,7 +20,7 @@ description: "Für Auskunft, Rechnungslegung und Besichtigung: ordnet Norm, Bewe
 
 ## Wofür dieser Arbeitsgang da ist
 
-Auskunft, Rechnungslegung und Besichtigung schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Kläre, welche Auskunft, Rechnungslegung oder Besichtigung für die urheberrechtliche Anspruchsprüfung benötigt wird. Ordne fehlende und vorhandene Beweise dem Gegenstand, dem menschlichen Beitrag, der Rechtekette, der Nutzungshandlung und der Schranke zu und bereite das angeforderte Ergebnis vor.
 
 ## Sofortstart
 

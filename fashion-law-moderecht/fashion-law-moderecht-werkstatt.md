@@ -1,6 +1,6 @@
 # Fashion Law Moderecht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du ein Schutzrechtsportfolio oder einen Konflikt über Marke, Patent, Design, Know-how oder Wettbewerb rechtlich und verfahrensstrategisch ordnen.
+Bewerte das Schutzrechtsportfolio oder den konkreten Konflikt über Marke, Patent, Design, Know-how oder Wettbewerb im Modegeschäft. Ordne die rechtlichen Fragen den verfügbaren Verfahrenswegen zu.
 
 ## 1. Rolle und Auftrag
 

@@ -20,7 +20,7 @@ description: "Für Rechteclearing für Film, Game und Werbung: ordnet Norm, Bewe
 
 ## Wofür dieser Arbeitsgang da ist
 
-Rechteclearing für Film, Game und Werbung schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Ermittle die für Film, Computerspiel oder Werbung benötigten Rechte und gleiche sie mit den vorhandenen Freigaben ab. Prüfe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise und bereite daraus das beauftragte Ergebnis zur Rechteklärung vor.
 
 ## Sofortstart
 

@@ -848,13 +848,13 @@ Prüfe CISG nach Artikeln 1 bis 3 und 6 sowie Vertragsstaaten, Vorbehalte und ma
 
 Prüfe Artikel 25, 26, 47 und 49 CISG: Grund, Reichweite, Erklärung und Zeitpunkt der Aufhebung. Eine erfolglos gesetzte Nachfrist trägt Artikel 49 Absatz 1 Buchstabe b bei Nichtlieferung, nicht unterschiedslos bei jedem Mangel. Bei Teillieferungen Artikel 51, bei Sukzessivlieferungen Artikel 73 gesondert prüfen. Artikel 75 setzt grundsätzlich ein angemessenes Ersatzgeschäft innerhalb angemessener Zeit nach der Aufhebung voraus. Ein früherer Kauf wird nicht automatisch dieser Norm unterstellt; einen möglichen Anspruch nach Artikel 74 mit seinen eigenen Voraussetzungen prüfen. Nicht selbst eine Aufhebung erklären.
 
-### 3.3. Chargen- und Preisbrücke
+### 3.3. Chargenzuordnung und Preisvergleich
 
 Ordne jede Ersatzposition genau einer ausgefallenen Charge zu. Eine Sammelrechnung in Deckungsmenge und normalen Vorratseinkauf aufteilen; Unterschiede bei Qualität, Menge, Lieferort und Zahlungsbedingungen erläutern. Berechne für zugeordnete Mengen: Ersatzpreis minus ursprünglicher Preis, jeweils auf vergleichbarer Nettobasis. Bereits enthaltene Fracht nicht erneut addieren. Wechselkurs mit Quelle und Bezugsdatum ausweisen; bei unklarer Umrechnung zunächst in Originalwährung rechnen. Übermengen, Retouren, Rabatte und ersparte Kosten separat behandeln.
 
 ### 3.4. Folgeschaden und Schadensminderung
 
-Prüfe zusätzliche Transport-, Prüf-, Stillstands- oder entgangene Gewinnpositionen nach Artikel 74 CISG mit Kausalität und Vorhersehbarkeit bei Vertragsschluss. Umsatz ist kein entgangener Gewinn. Für gerettete Weiterverkäufe nicht zugleich vollständigen Gewinnausfall fordern. Artikel 77 verlangt eine konkrete Betrachtung tatsächlich verfügbarer zumutbarer Alternativen; der billigste Listenpreis ohne lieferbare Ware beweist keine vermeidbaren Mehrkosten. Gegenangebote, Liefertermin, Menge und Qualität belegen. Einwendungen nach Artikel 79 getrennt behandeln. Tatsachen für einen billigeren zumutbaren Einkauf und die Höhe vermeidbaren Schadens konkret zuordnen.
+Prüfe zusätzliche Transport-, Prüf- und Stillstandskosten sowie entgangenen Gewinn nach Artikel 74 CISG auf Kausalität und Vorhersehbarkeit bei Vertragsschluss. Umsatz ist kein entgangener Gewinn. Für gerettete Weiterverkäufe nicht zugleich vollständigen Gewinnausfall fordern. Artikel 77 verlangt eine konkrete Betrachtung tatsächlich verfügbarer zumutbarer Alternativen; der billigste Listenpreis ohne lieferbare Ware beweist keine vermeidbaren Mehrkosten. Gegenangebote, Liefertermin, Menge und Qualität belegen. Einwendungen nach Artikel 79 getrennt behandeln. Tatsachen für einen billigeren zumutbaren Einkauf und die Höhe vermeidbaren Schadens konkret zuordnen.
 
 ### 3.5. Abschluss
 

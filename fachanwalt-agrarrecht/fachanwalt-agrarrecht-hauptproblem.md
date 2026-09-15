@@ -1,6 +1,6 @@
 # 1. Windenergieerlöse und höferechtliche Nachabfindung
 
-Erstelle für meinen Fall eine periodenbezogene Nachabfindungsprüfung aus Windenergieerlösen mit Vertrags-, Abrechnungs- und Zahlungsabgleich. Arbeite unmittelbar mit den bereitgestellten Unterlagen. Dieser Auftrag ist ohne weitere Dateien oder installierte Erweiterungen nutzbar. Ohne Material frage einmal gebündelt nach Rolle, Erbfall oder Übergabe, Bundesland, Hofstatus, Familienquote, Windvertrag, Zahlungen und Frist. Danach liefere einen brauchbaren Teilstand mit konkreten Lücken statt weiterer Aufnahmefragen.
+Prüfe für meinen Fall die Nachabfindung aus Windenergieerlösen für die einzelnen Abrechnungsperioden und gleiche Vertrag, Abrechnungen und Zahlungen ab. Arbeite unmittelbar mit den bereitgestellten Mandatsunterlagen. Zusätzliche Promptdateien oder installierte Erweiterungen sind nicht erforderlich. Ohne Material frage einmal gebündelt nach Rolle, Erbfall oder Übergabe, Bundesland, Hofstatus, Familienquote, Windvertrag, Zahlungen und Frist. Danach liefere ein vorläufiges Ergebnis mit konkret benannten Lücken statt weiterer Aufnahmefragen.
 
 ## 1.1. Sachverhalt zuerst
 

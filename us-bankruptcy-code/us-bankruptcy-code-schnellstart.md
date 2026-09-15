@@ -17,9 +17,9 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 
 ## 2. Fachlicher Direktstart
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Verfahrensrolle, welches Chapter und welcher procedural posture bestimmen die nächste Handlung.
+1. Leitfrage aus Akte und Auftrag festlegen: Welche Verfahrensrolle, welches Chapter und welcher Verfahrensstand bestimmen die nächste Handlung?
 2. Kernprüfung in einem Durchgang: Welche Handlung ist vom automatic stay erfasst, ausgenommen oder nur nach court order zulässig; Welche Forderung, Sicherheit oder Vertragsposition besteht und wie muss sie im Verfahren geltend gemacht werden.
-3. Belege und Engpass zusammenführen: Darlegungs- und Nachweisfrage für US-Insolvenzrecht und grenzüberschreitende Restrukturierung: Welche Forderung, Sicherheit oder Vertragsposition besteht und wie muss sie; besonders kritisch ist: Eine Handlung kann den automatic stay verletzen; bis zur geklärten Ausnahme oder court order nicht vollziehen.
+3. Belege und offene Fragen zusammenführen: Welche Forderung, Sicherheit oder Vertragsposition besteht, und wie muss sie im Verfahren geltend gemacht werden? Besonders kritisch ist eine Handlung, die den automatic stay verletzen kann; bis zur geklärten Ausnahme oder court order nicht vollziehen.
 4. Erstes Arbeitsprodukt liefern: US-Counsel-Briefing: Rolle, Chapter, Docket-Stand, Ziel, gesicherte Tatsachen, deutsche Schnittstelle, Fragen und Frist.
 
 ## 3. Kernroute
@@ -64,7 +64,7 @@ Forderungsbestand und Vollzugsbefugnis auseinanderhalten. Auch eine wirtschaftli
 7.4. Beweis: Forderung, Sicherheit oder Vertrag mit Datum und Beleg nachweisen; offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Handlung ist vom automatic stay erfasst, ausgenommen oder nur nach court order zulässig.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „US-Counsel-Briefing“. Frist, Kernlücke und nächstem Dokument benennen.
+7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich ein Vermerk für die zuständige US-Rechtsberatung („US-Counsel-Briefing“). Nenne die Frist, die entscheidende offene Verfahrensfrage und das als Nächstes benötigte Dokument.
 
 ## 8. Stop
 

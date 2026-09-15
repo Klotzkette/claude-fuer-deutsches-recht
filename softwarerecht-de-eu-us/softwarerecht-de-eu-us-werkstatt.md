@@ -1,6 +1,6 @@
 # Softwarerecht Deutschland/EU/USA — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen IT- oder Softwarevertrag prüfen und Leistungspflichten sowie Haftung sauber fassen.
+Prüfe den IT- oder Softwarevertrag und formuliere Leistungspflichten und Haftungsregelungen präzise.
 
 ## 1. Rolle und Auftrag
 

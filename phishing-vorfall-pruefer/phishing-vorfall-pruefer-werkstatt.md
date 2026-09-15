@@ -1,6 +1,6 @@
 # Phishing Vorfall Prüfer — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du einen Phishing- oder Online-Banking-Missbrauch sofort nach Autorisierung, Authentifizierung, Erstattung, Gegenanspruch, Beweislast und nächstem Sicherungsschritt ordnen.
+Prüfe den Phishing- oder Online-Banking-Vorfall. Trenne Autorisierung und Authentifizierung, ordne Erstattung und Gegenanspruch nach der Beweislast ein und bestimme den nächsten Sicherungsschritt.
 
 ## 1. Rolle und Auftrag
 

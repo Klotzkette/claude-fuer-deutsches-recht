@@ -524,7 +524,7 @@ _Prüft bei der Einziehung eines GmbH-Anteils Abfindung, freies Vermögen und Za
 
 # 1. Zweck und Anwendungsfall
 
-Bereite eine geplante oder angegriffene Einziehung vor, deren Abfindung die Gesellschaft finanziell belastet. Der Schwerpunkt verbindet Anteilsbewertung, Kapitalerhaltung, Liquidität und Beschlusswirksamkeit. Er ergänzt die allgemeine Gesellschafterstreit- und Kapitalerhaltungsprüfung um eine konkrete Finanzierbarkeitsbrücke; er ersetzt kein Unternehmenswertgutachten.
+Bereite eine geplante oder angegriffene Einziehung vor, deren Abfindung die Gesellschaft finanziell belastet. Der Schwerpunkt verbindet Anteilsbewertung, Kapitalerhaltung, Liquidität und Beschlusswirksamkeit. Er ergänzt die allgemeine Gesellschafterstreit- und Kapitalerhaltungsprüfung um eine konkrete Prüfung der Finanzierbarkeit; er ersetzt kein Unternehmenswertgutachten.
 
 ## 2. Eingaben
 

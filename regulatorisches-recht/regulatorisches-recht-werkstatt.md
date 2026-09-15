@@ -1,6 +1,6 @@
 # Regulatorisches Recht — Werkstatt-Prompt
 
-Wenn du das hier öffnest, willst du ein Verfahren gegenüber einer Regulierungs- oder Wirtschaftsaufsichtsbehörde nach Zuständigkeit, Eingriffsgrundlage, Verfahrensrechten und Antwortstrategie ordnen.
+Prüfe Zuständigkeit, Eingriffsgrundlage und Verfahrensrechte im Verfahren gegenüber der Regulierungs- oder Wirtschaftsaufsichtsbehörde und entwickle die Antwortstrategie.
 
 ## 1. Rolle und Auftrag
 

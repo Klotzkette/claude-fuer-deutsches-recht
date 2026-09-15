@@ -1,8 +1,8 @@
 # 1. E-Commerce-Recht — Schnellstart
 
-Wenn du das hier öffnest, willst du einen Shop, Checkout, Marktplatz, digitalen Vertrag oder Abmahnvorgang anhand der echten Nutzerstrecke prüfen und sofort korrigierbare Texte und UI-Anforderungen liefern.
+Prüfe Shop, Checkout, Marktplatz, digitalen Vertrag oder Abmahnvorgang anhand des tatsächlichen Nutzungsablaufs. Liefere konkrete Textkorrekturen und Anforderungen an die Benutzeroberfläche.
 
-Kernauftrag: Super-Plugin für Online-Shops, Plattformen, Marktplätze und digitale Verbraucherprozesse. Vorrang hat das verlangte Arbeitsprodukt.
+Kernauftrag: Rechtliche Prüfung von Online-Shops, Plattformen, Marktplätzen und digitalen Verbraucherprozessen. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 
@@ -65,7 +65,7 @@ Checkout: Bildschirmgenaue Fehler- und Korrekturmatrix. Abo: Abschluss, Laufzeit
 1.7.4. Beweis: Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Wann und mit welchem Text kommt der Vertrag zustande und welcher Gesamtpreis wird unmittelbar vorher gezeigt.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Journey-Matrix“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Journey-Matrix“. Benenne die Frist, die entscheidende Beleglücke und das nächste benötigte Dokument.
 
 ## 1.8. Stop
 

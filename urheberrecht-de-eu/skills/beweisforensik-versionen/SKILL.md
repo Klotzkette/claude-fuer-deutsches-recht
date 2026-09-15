@@ -20,7 +20,7 @@ description: "Für Beweisforensik, Versionen und Hashes: ordnet Norm, Beweislast
 
 ## Wofür dieser Arbeitsgang da ist
 
-Beweisforensik, Versionen und Hashes schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Dokumentiere Herkunft, Entstehungszeit und Fassungen der relevanten Dateien mit den verfügbaren Nachweisen und Hashwerten. Ordne sie den Fragen zu Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung und Schranke zu; halte Beleglücken im verlangten Ergebnis fest.
 
 ## Sofortstart
 

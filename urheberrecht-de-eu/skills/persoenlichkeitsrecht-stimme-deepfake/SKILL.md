@@ -20,7 +20,7 @@ description: "Für Stimme, Deepfake und Persönlichkeit: ordnet Norm, Beweislast
 
 ## Wofür dieser Arbeitsgang da ist
 
-Stimme, Deepfake und Persönlichkeit schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Untersuche die erkennbare Nachahmung oder Abbildung einer Person durch Stimme oder Deepfake. Beziehe Gegenstand, menschlichen Beitrag, Rechtekette, Nutzungshandlung, Schranke und Beweise in das verlangte Ergebnis an der Schnittstelle von Urheber- und Persönlichkeitsrecht ein.
 
 ## Sofortstart
 

@@ -14,7 +14,7 @@ Bilde je Funktion eine Zeile mit Sollquelle, Version, Testbedingung, Ist-Ergebni
 
 Prüfe Nachtragsangebot, Menge, Preis, Vertretungsmacht und vertragliche Änderungsmechanik. Technische Ticketbestätigung ist nicht automatisch kaufmännische Freigabe. Umgekehrt genügt die fehlende Unterschrift ohne Prüfung von Verhalten, Vertretung und Formabrede nicht zur endgültigen Ablehnung. Arbeitsstunden belegen Aufwand, nicht allein zusätzliche Vergütung. Keine ungeprüfte Übernahme baurechtlicher Nachtragsregeln.
 
-## 4. Abnahme und Zahlungsbrücke
+## 4. Abnahme, Fälligkeit und Vergütung
 
 Prüfe für werkvertragliche Teile ausdrückliche, konkludente und fingierte Abnahme getrennt. Produktivnutzung allein nicht mechanisch mit Billigung gleichsetzen. Pilotbetrieb, Fehlerkenntnis, Vorbehalte und Teilabnahmen auswerten. Für Paragraf 640 Absatz 2 BGB Fertigstellung, angemessene Frist und Reaktion prüfen. Rechtzeitige Verweigerung unter Benennung mindestens eines Mangels von der Frage trennen, ob wegen bloß unwesentlicher Mängel trotzdem Abnahme verlangt werden kann.
 
@@ -24,7 +24,7 @@ Vor Abnahme grundsätzlich Erfüllung und allgemeines Leistungsstörungsrecht pr
 
 ## 5. Ergebnis
 
-Erstelle `ergebnis.md` mit Sachverhalt, Soll-Ticket-Nachtragsmatrix, Abnahmezeitachse, Formeln und Vergütungsbrücke, konkreten technischen Beweisthemen und ausformuliertem Schreiben zur Rechnung oder Abnahme. Fehler mit Version, Datenbasis, Reproduktionsschritten sowie Soll und Ist beschreiben; technische Ursachen nicht erfinden. Einmal Summen und Widersprüche prüfen, danach belastbaren Teil und Restlücken liefern. Keine Endlosschleife und kein behaupteter Versand. Ohne Dateiwerkzeug vollständigen Text ausgeben.
+Erstelle `ergebnis.md` mit Sachverhalt, einer Tabelle zum Abgleich von vereinbarter Leistung, Tickets und Nachträgen, Abnahmezeitachse, Formeln und nachvollziehbarer Vergütungsrechnung, konkreten technischen Beweisthemen und ausformuliertem Schreiben zur Rechnung oder Abnahme. Fehler mit Version, Datenbasis, Reproduktionsschritten sowie Soll und Ist beschreiben; technische Ursachen nicht erfinden. Einmal Summen und Widersprüche prüfen, danach den belastbaren Teil und die verbleibenden Lücken liefern. Keine Endlosschleife und kein behaupteter Versand. Ohne Dateiwerkzeug vollständigen Text ausgeben.
 
 Vollständige Sätze statt Skeletten; echte Umlaute und ß, dezimale Überschriften, Paragraf ausschreiben. Times New Roman 11 pt für formatierten Export; bei Markdown entsprechender Exporthinweis.
 

@@ -1,6 +1,6 @@
 # 1. Gebrauchsmusterrecht — Schnellstart
 
-Wenn du das hier öffnest, willst du eine technische Erfindung als Gebrauchsmuster schnell schützen, abzweigen, auf Rechtsbestand prüfen oder durchsetzen.
+Bearbeite die Anmeldung oder Abzweigung eines Gebrauchsmusters, die Prüfung seines Rechtsbestands oder seine Durchsetzung anhand der konkreten technischen Erfindung.
 
 Kernauftrag: Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach Paragraf 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Schnellschutz. Vorrang hat das verlangte Arbeitsprodukt.
 
@@ -63,7 +63,7 @@ Vergleiche jedes Anspruchsmerkmal mit einer konkreten Fundstelle. Für Neuheit k
 1.7.4. Beweis: Inhaber für eingetragenen Anspruch, Rechtsbestand und Verletzung; Gegner für Löschungsgrund, Vorbenutzung, Erschöpfung oder sonstige Einrede. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Abzweigungs-, Prioritäts- und Schonfrist anhand amtlicher Daten eingehalten.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Schutzweg und Frist“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Schutzweg und Frist“. Benenne die maßgebliche Frist, die entscheidende Beleglücke und das nächste benötigte Dokument.
 
 ## 1.8. Stop
 
