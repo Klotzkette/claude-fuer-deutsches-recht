@@ -92,6 +92,7 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
             self.assertIsNotNone(match, path)
             descriptions.append(match.group(1))
             with self.subTest(skill=path.parent.name):
+                self.assertNotIn("§", match.group(1))
                 self.assertNotIn("Prüfprodukt mit Risiko und nächstem Schritt", text)
                 self.assertRegex(text, r"(?i)(nach der antwort|laufenden bearbeitung|größeren auftrag|bestellte[nmrs]? (?:bericht|dokument|entwurf|ergebnis)|vollständige[nmrs]? (?:bericht|dokument|entwurf|ergebnis|fassung))")
         self.assertEqual(len(descriptions), len(set(descriptions)))

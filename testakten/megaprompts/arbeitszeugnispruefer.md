@@ -10,14 +10,14 @@ Diese Vollprüfung enthält top-15 von 31 Skills des Plugins `arbeitszeugnisprue
 2. **juristischer-argumentationskern** — Begründet erhebliche Beanstandungen eines vorhandenen Arbeitszeugnisses mit Norm, Gesamtzusammenhang, konkreter Fundstel…
 3. **steigerungsadverbien-pruefen** — Prüft Grad- und Einschränkungswörter in Leistungs- und Verhaltenssätzen eines Arbeitszeugnisses auf ihre konkrete Bewert…
 4. **fuehrungskraft-verhalten-pruefen** — Prüft bei angegebener oder zu klärender Führungsverantwortung, ob Aufgaben, Führungsleistung und Sozialverhalten im Arbe…
-5. **zeugnisklarheit-objektiver-empfaengerhorizont** — Prüft als Auffangprüfung sonstige konkrete Klarheits- oder Mehrdeutigkeitsfragen nach § 109 Abs. 2 GewO aus Sicht eines …
-6. **aeussere-form-und-briefkopf** — Prüft bei einem vorhandenen deutschen Arbeitszeugnis Ausfertigung, Geschäftspapier, Datierung, Lesbarkeit, Unterschrift …
-7. **note-2-formeln-erkennen** — Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines Arbeitszeugnisses die Zielstufe ‚gut‘ trägt. Ordnet Zufr…
-8. **schaufenster-und-drift-erkennen** — Prüft ein Arbeitszeugnis auf innere Widersprüche zwischen Tätigkeitsbeschreibung, Einzelbewertungen und zusammenfassende…
-9. **notenstufen-bag-9-azr-386-10** — Ordnet Gesamt- und Teilbewertungen eines Arbeitszeugnisses ein, wenn die Bewertungsstufe noch offen ist oder mehrere Beu…
-10. **auslassungen-erkennen** — Prüft ein qualifiziertes Arbeitszeugnis auf konkret nachweisbare Lücken bei Art und Dauer der Tätigkeit, Leistung und Ve…
-11. **personenreihenfolge-pruefen** — Prüft im Verhaltensabschnitt eines Arbeitszeugnisses, ob die genannten Bezugsgruppen vollständig, sachgerecht und im kon…
-12. **geheimcodes-katalog** — Prüft eine konkret behauptete verdeckte Aussage im Arbeitszeugnis auf einen Verstoß gegen das Klarheits- und Geheimzeich…
+5. **zeugnisklarheit-objektiver-empfaengerhorizont** — Prüft als Auffangprüfung sonstige konkrete Klarheits- oder Mehrdeutigkeitsfragen nach Paragraf 109 Absatz 2 GewO aus Sic…
+6. **geheimcodes-katalog** — Prüft eine konkret behauptete verdeckte Aussage im Arbeitszeugnis auf einen Verstoß gegen das Klarheits- und Geheimzeich…
+7. **aeussere-form-und-briefkopf** — Prüft bei einem vorhandenen deutschen Arbeitszeugnis Ausfertigung, Geschäftspapier, Datierung, Lesbarkeit, Unterschrift …
+8. **note-2-formeln-erkennen** — Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines Arbeitszeugnisses die Zielstufe ‚gut‘ trägt. Ordnet Zufr…
+9. **schaufenster-und-drift-erkennen** — Prüft ein Arbeitszeugnis auf innere Widersprüche zwischen Tätigkeitsbeschreibung, Einzelbewertungen und zusammenfassende…
+10. **notenstufen-bag-9-azr-386-10** — Ordnet Gesamt- und Teilbewertungen eines Arbeitszeugnisses ein, wenn die Bewertungsstufe noch offen ist oder mehrere Beu…
+11. **auslassungen-erkennen** — Prüft ein qualifiziertes Arbeitszeugnis auf konkret nachweisbare Lücken bei Art und Dauer der Tätigkeit, Leistung und Ve…
+12. **personenreihenfolge-pruefen** — Prüft im Verhaltensabschnitt eines Arbeitszeugnisses, ob die genannten Bezugsgruppen vollständig, sachgerecht und im kon…
 13. **beweislast-bag-9-azr-584-13** — Ordnet im Streit um die Leistungs- oder Verhaltensbewertung eines Arbeitszeugnisses die Darlegungs- und Beweislast nach …
 14. **note-5-formeln-erkennen** — Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines Arbeitszeugnisses die Zielstufe ‚mangelhaft‘ oder eine v…
 15. **rollen-und-modus-wahl** — Bestimmt bei einer laufenden Arbeitszeugnisprüfung Empfänger, Ziel und passenden Bearbeitungszweig, wenn Arbeitnehmer, K…
@@ -194,7 +194,7 @@ Liefere zu jeder erheblichen Lücke den Aktenbeleg, die Bedeutung und einen voll
 
 ## Skill: `zeugnisklarheit-objektiver-empfaengerhorizont`
 
-_Prüft als Auffangprüfung sonstige konkrete Klarheits- oder Mehrdeutigkeitsfragen nach § 109 Abs. 2 GewO aus Sicht eines objektiven verständigen Zeugnislesers. Formuliert eindeutige Alternativen unter Wahrung des Formulierungsspielraums des Arbeitgebers._
+_Prüft als Auffangprüfung sonstige konkrete Klarheits- oder Mehrdeutigkeitsfragen nach Paragraf 109 Absatz 2 GewO aus Sicht eines objektiven verständigen Zeugnislesers. Formuliert eindeutige Alternativen unter Wahrung des Formulierungsspielraums des Arbeitgebers._
 
 # Zeugnisklarheit und objektiver Empfängerhorizont prüfen
 
@@ -211,6 +211,26 @@ Nenne Originalwortlaut und Fundstelle, naheliegende wörtliche Bedeutung, eine k
 ## 3. Fortführung des Auftrags
 
 Übernimm die Einordnung und den Ersatztext in den laufenden Prüfvermerk, die Änderungsmatrix und das bestellte Dokument. Frage nur nach einem Kontextumstand, der die objektive Auslegung ändert; bearbeite unabhängige Punkte fertig. Nach der Antwort prüfst du nur die offene Passage erneut und setzt den Auftrag ohne Neustart fort. Eine bloße Sammlung möglicher Nebenbedeutungen ist kein Endprodukt.
+
+---
+
+## Skill: `geheimcodes-katalog`
+
+_Prüft eine konkret behauptete verdeckte Aussage im Arbeitszeugnis auf einen Verstoß gegen das Klarheits- und Geheimzeichenverbot nach Paragraf 109 Absatz 2 GewO. Liefert eine kontextbezogene Einordnung und Ersatztexte; nicht als allgemeine Code-Liste._
+
+# Auffällige Formulierungen und Geheimzeichen prüfen
+
+## 1. Rechtlicher Maßstab
+
+Prüfe den genauen Wortlaut im vollständigen Satz und im Zusammenhang des gesamten Zeugnisses. § 109 Abs. 2 Satz 2 GewO verbietet Merkmale oder Formulierungen, die dem Zweck nach eine andere Aussage über den Arbeitnehmer treffen als die aus äußerer Form oder Wortlaut ersichtliche. Nicht jede ungewöhnliche oder knappe Wendung ist deshalb ein Geheimzeichen. Nach BAG, Urteil vom 15. November 2011 – 9 AZR 386/10, darf etwa die Wendung „kennen gelernt“ nicht isoliert aus dem Kontext als versteckte Abwertung behandelt werden.
+
+Verwende keine tradierten Listen, um Alkohol, Krankheit, Belästigung, Konfliktneigung, Eigentumsdelikte oder Betriebsratstätigkeit zu behaupten. Eine solche Nebenbedeutung darf nur als mögliche Textwirkung benannt werden, wenn Wortlaut, Zusammenhang und eine belastbare Verkehrsauffassung sie konkret tragen. Die tatsächliche Eigenschaft der Person bleibt davon getrennt.
+
+## 2. Ergebnis und Fortführung
+
+Dokumentiere Originalwortlaut und Fundstelle, naheliegende wörtliche Bedeutung, behauptete Nebenbedeutung, Kontext, Grad der Sicherheit und rechtliche Relevanz. Formuliere bei einer erheblichen Mehrdeutigkeit einen klaren Ersatzsatz, der nur belegte Tatsachen und Bewertungen enthält.
+
+Führe diesen Ersatztext in den laufenden Bericht, die Änderungsmatrix und das bestellte Dokument zurück. Frage nur nach einem Kontextumstand, der die Auslegung ändert; stelle unabhängige Teile fertig. Nach der Antwort prüfst du nur die offene Formulierung erneut und setzt den Auftrag ohne Neustart fort. Eine bloße Sammlung möglicher Codes ist kein Endprodukt.
 
 ---
 
@@ -346,26 +366,6 @@ Gib die vorhandene Reihenfolge, die tatsächlich relevanten Bezugsgruppen, die o
 ## 3. Fortführung des Auftrags
 
 Übernimm den Satz in den laufenden Prüfvermerk und die bestellte Neufassung oder das Schreiben. Frage nur nach einer Bezugsgruppe, wenn deren tatsächliche Relevanz das Ergebnis ändert; bearbeite die übrigen Punkte fertig. Nach der Antwort ergänzt du die offene Gruppe und setzt ohne erneute Gesamtaufnahme fort. Ist ein Dokument bestellt, darf die Bearbeitung nicht bei der Reihenfolgeanalyse enden.
-
----
-
-## Skill: `geheimcodes-katalog`
-
-_Prüft eine konkret behauptete verdeckte Aussage im Arbeitszeugnis auf einen Verstoß gegen das Klarheits- und Geheimzeichenverbot des § 109 Abs. 2 GewO. Liefert eine kontextbezogene Einordnung und Ersatztexte; nicht als allgemeine Code-Liste._
-
-# Auffällige Formulierungen und Geheimzeichen prüfen
-
-## 1. Rechtlicher Maßstab
-
-Prüfe den genauen Wortlaut im vollständigen Satz und im Zusammenhang des gesamten Zeugnisses. § 109 Abs. 2 Satz 2 GewO verbietet Merkmale oder Formulierungen, die dem Zweck nach eine andere Aussage über den Arbeitnehmer treffen als die aus äußerer Form oder Wortlaut ersichtliche. Nicht jede ungewöhnliche oder knappe Wendung ist deshalb ein Geheimzeichen. Nach BAG, Urteil vom 15. November 2011 – 9 AZR 386/10, darf etwa die Wendung „kennen gelernt“ nicht isoliert aus dem Kontext als versteckte Abwertung behandelt werden.
-
-Verwende keine tradierten Listen, um Alkohol, Krankheit, Belästigung, Konfliktneigung, Eigentumsdelikte oder Betriebsratstätigkeit zu behaupten. Eine solche Nebenbedeutung darf nur als mögliche Textwirkung benannt werden, wenn Wortlaut, Zusammenhang und eine belastbare Verkehrsauffassung sie konkret tragen. Die tatsächliche Eigenschaft der Person bleibt davon getrennt.
-
-## 2. Ergebnis und Fortführung
-
-Dokumentiere Originalwortlaut und Fundstelle, naheliegende wörtliche Bedeutung, behauptete Nebenbedeutung, Kontext, Grad der Sicherheit und rechtliche Relevanz. Formuliere bei einer erheblichen Mehrdeutigkeit einen klaren Ersatzsatz, der nur belegte Tatsachen und Bewertungen enthält.
-
-Führe diesen Ersatztext in den laufenden Bericht, die Änderungsmatrix und das bestellte Dokument zurück. Frage nur nach einem Kontextumstand, der die Auslegung ändert; stelle unabhängige Teile fertig. Nach der Antwort prüfst du nur die offene Formulierung erneut und setzt den Auftrag ohne Neustart fort. Eine bloße Sammlung möglicher Codes ist kein Endprodukt.
 
 ---
 

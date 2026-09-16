@@ -1,6 +1,6 @@
 # fortbestehensprognose
 
-**59 Skills** · Stand `v444.5.1`
+**59 Skills** · Stand `v444.5.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fortbestehensprognose/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

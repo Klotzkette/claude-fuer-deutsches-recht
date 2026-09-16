@@ -1,6 +1,6 @@
 ---
 name: zeugnisklarheit-objektiver-empfaengerhorizont
-description: "Prüft als Auffangprüfung sonstige konkrete Klarheits- oder Mehrdeutigkeitsfragen nach § 109 Abs. 2 GewO aus Sicht eines objektiven verständigen Zeugnislesers. Formuliert eindeutige Alternativen unter Wahrung des Formulierungsspielraums des Arbeitgebers."
+description: "Prüft als Auffangprüfung sonstige konkrete Klarheits- oder Mehrdeutigkeitsfragen nach Paragraf 109 Absatz 2 GewO aus Sicht eines objektiven verständigen Zeugnislesers. Formuliert eindeutige Alternativen unter Wahrung des Formulierungsspielraums des Arbeitgebers."
 ---
 
 # Zeugnisklarheit und objektiver Empfängerhorizont prüfen

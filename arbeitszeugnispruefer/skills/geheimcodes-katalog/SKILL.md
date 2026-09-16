@@ -1,6 +1,6 @@
 ---
 name: geheimcodes-katalog
-description: "Prüft eine konkret behauptete verdeckte Aussage im Arbeitszeugnis auf einen Verstoß gegen das Klarheits- und Geheimzeichenverbot des § 109 Abs. 2 GewO. Liefert eine kontextbezogene Einordnung und Ersatztexte; nicht als allgemeine Code-Liste."
+description: "Prüft eine konkret behauptete verdeckte Aussage im Arbeitszeugnis auf einen Verstoß gegen das Klarheits- und Geheimzeichenverbot nach Paragraf 109 Absatz 2 GewO. Liefert eine kontextbezogene Einordnung und Ersatztexte; nicht als allgemeine Code-Liste."
 ---
 
 # Auffällige Formulierungen und Geheimzeichen prüfen
