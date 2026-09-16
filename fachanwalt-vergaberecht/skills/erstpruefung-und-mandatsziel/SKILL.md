@@ -3,59 +3,40 @@ name: erstpruefung-und-mandatsziel
 description: "Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Fachanwalt Vergaberecht."
 ---
 
-# Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
+# 1. Vergaberechtlichen Auftrag und Ziel bestimmen
 
+## 1.1. Zweck und Eingaben
 
-## Normenanker
+Kläre aus Anfrage und Vergabeakte, welche Entscheidung der Auftraggeber, Bieter oder Beigeladene benötigt. Erstelle die verlangte Erstbewertung und arbeite bei einem Dokumentenauftrag bis zum ausformulierten Ergebnis weiter.
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Lies Bekanntmachung, Vergabeunterlagen, Bieterinformationen, Angebot, Vorabinformation und vorhandene Rügekorrespondenz. Entnimm daraus Gegenstand, Rolle, Verfahrensstand und Ziel; frage bereits bekannte Angaben nicht erneut ab. Fehlt ein entscheidender Teil, etwa die maßgebliche Leistungsbeschreibung oder Nichtabhilfeantwort, benenne ihn konkret.
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+## 1.2. Fachliche Einordnung
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Prüfe Auftraggebertyp, Auftragswert, Schätzzeitpunkt und aktuelle Schwelle. GWB, VgV, UVgO, SektVO, KonzVgV, VOB/A und einschlägige EU- beziehungsweise Landesregeln nach der tatsächlichen Vergabe zuordnen. Kein pauschaler Vergabekammerweg bei Unterschwellenvergaben.
 
-## Arbeitsweg
+Unterscheide Anforderungen an Eignung, Leistung und Zuschlagswertung. Bestimme anhand von Paragrafen 134, 135 und 160 Absatz 3 GWB die konkrete Fristlage und gegebenenfalls nach Paragraf 171 GWB den Beschwerdeweg. Keine neue Rügeaufnahme, wenn das Mandat bereits eine Stellungnahme im laufenden Nachprüfungsverfahren verlangt.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die vergaberechtlich einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+BGB-Normen sind nur bei passender zivilrechtlicher Frage zu prüfen: Paragrafen 241 Absatz 2 und 242 BGB für Pflichten und Treu und Glauben, Paragraf 280 Absatz 1 BGB für Schadensersatz, Paragraf 286 Absatz 1 BGB für Verzug sowie Paragrafen 195 und 199 Absatz 1 BGB für Verjährung. Paragrafen 253 Absatz 2 und 138 Absatz 1 ZPO betreffen den passenden Zivilprozess, nicht unterschiedslos jeden Vergabekammerantrag.
 
-**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
+## 1.3. Klären und fortsetzen
 
-## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
-- **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
+Bei einer beanstandeten Mindestanforderung prüfe deren Fassung und die zugehörige Angebotsstelle. Fehlt eine spätere Bieterinformation, fordere sie an und bewerte nach Eingang, ob die bisherige Argumentation noch trägt. Bei einer unklaren Wertung frage nach der dokumentierten Begründung und gleiche sie mit dem veröffentlichten Maßstab ab.
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Eine Antwort kann den Fehler bestätigen, eingrenzen oder widerlegen. Aktualisiere danach den bestellten Brief, Prüfvermerk oder Schriftsatz; keine Behauptung als Tatsache übernehmen, nur weil nun mehr Material vorliegt. Weitere kurze Rückfragen sind bei neuen entscheidenden Lücken zulässig, nicht zur Wiederholung geklärter Punkte.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+Bei einem Hindernis liefere die belastbaren Teile vorläufig und nenne den benötigten nächsten Beitrag. Eine rechtliche Bewertung wird nicht automatisch zur Rüge, Klage oder Veröffentlichung. Für Auftraggeber tatsächliche Entscheidungsgründe dokumentieren, für Bieter Rechtsverletzung und Zuschlagschance begründen.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Fachanwalt** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## 1.4. Quellen
 
-## Vergabe-Workbench-Boost v61.2
+Tragende Normen und Entscheidungen anhand amtlicher Quellen wie gesetze-im-internet.de, EUR-Lex und Gerichtsportalen prüfen. Andere Fundstellendienste können die Suche unterstützen, ersetzen nicht den überprüften Inhalt. Entscheidungen mit Gericht, Form, Datum, Aktenzeichen und konkreter Passage angeben; Literatur nur bei bereitgestelltem oder tatsächlich zugänglichem Text.
 
-- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
-- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
-- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
-- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+## 1.5. Ergebnis
+
+Liefere die gewünschte Beratung oder das bestellte Dokument unter dem vorgegebenen Dateinamen. Ohne konkrete Dokumentenbestellung erläutere Ergebnis, tragende Gründe, wesentliche Risiken und empfohlenes Vorgehen; keine Pflichtampel oder zusätzliche Tabellenserie. Im Mandantenbrief Fachbegriffe nur soweit nötig erklären, technische Quellenvermerke getrennt halten.
+
+Vollständige Sätze statt Gerüste; formatierte Dokumente in Times New Roman 11 pt und dezimaler Gliederung, sonst Exporthinweis. Externe Rügen, Anträge, Veröffentlichungen und Zuschläge nur mit Freigabe. Ohne Datei- oder Exportwerkzeug arbeite mit bereitgestellten Auszügen und liefere vollständigen Text; die Grenzen der Prüfung offenlegen.
+
+## 1.6. Beispiel
+
+Ein Bieter bestellt einen Mandantenbrief zur Frage, ob eine geforderte Referenz erfüllt ist. Eine Projektbeschreibung liegt vor, die Abnahmebestätigung fehlt. Kläre den entscheidenden Leistungsumfang anhand des verfügbaren Nachweises, frage gegebenenfalls gezielt nach und schreibe anschließend den Brief mit Empfehlung, nicht ungefragt einen Nachprüfungsantrag.

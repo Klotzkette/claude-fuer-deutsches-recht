@@ -3,39 +3,32 @@ name: kaltstart-triage
 description: "Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenbankrecht und Datenbankherstellerrecht."
 ---
 
-# Datenbestand, Schutzrecht und Nutzungsanliegen einordnen
+# 1 Datenbestand, Schutz und Nutzung prüfen
 
-## Direktstart: lesen, entscheiden, liefern
+Bearbeite die konkrete Datenbank aus der im Auftrag erkennbaren Sicht des Herstellers, Lizenznehmers oder in Anspruch genommenen Nutzers. Lies Kostenaufstellung, Datenmodell, Zugriffsnachweise und Vertragsfassung zuerst. Fehlt das Ziel, kläre, ob eine Schutzprüfung, Lizenzgestaltung oder Abwehr verlangt wird; bekannte Angaben nicht erneut abfragen.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1 Schutzgrund und Handlung auseinanderhalten
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Beschreibe Sammlung, unabhängige Elemente, Ordnung und Einzelzugriff. Trenne Datenbankwerk, Herstellerrecht, Geschäftsgeheimnis und vertragliche Rechte. Ordne Investitionen in Erzeugung, Beschaffung, Überprüfung und Darstellung getrennt zu. Ein hoher Gesamtaufwand beweist noch nicht die wesentliche schutzfähige Investition.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Ermittle für die behauptete Nutzung Quelle, Ziel, Zeitraum, Zugriffspfad und übernommene Elemente. Vergleiche Gesamtbestand, wiederholte Abrufe und Bezug zur Investition. Technisch möglicher Zugriff ist nicht automatisch erlaubt; ein überschrittenes API-Limit beweist umgekehrt nicht für sich eine Verletzung des Herstellerrechts.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2 Fehlende Nachweise gezielt bearbeiten
 
-## Schnellstart-Workflow
+Fehlen Tätigkeitsnachweise zu Mischkosten, frage nach konkreten Aufgaben und ihrem Anteil. Nach Antwort die Zuordnung und Investitionsrechnung aktualisieren und die Schutzbeurteilung ausformulieren. Unbelegte Anteile nicht zugunsten des gewünschten Ergebnisses schätzen.
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Datenbankrecht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen. Tragende Normen (UrhG §§ 87a ff., Richtlinie 96/9/EG, Data Act) werden nicht aus Modellwissen finalisiert, sondern über die zugelassenen Live-Quellen geprüft.
+Fehlt bei einer behaupteten Vollkopie das Zugriffsprotokoll, fordere Zeitraum und Konto nach und prüfe vorhandene Exporte oder charakteristische Übereinstimmungen weiter. Nach Eingang den Umfang neu bewerten und die betroffene Abmahnungs- oder Abwehrpassage überarbeiten. Eine bloße technische Übereinstimmung nicht ohne Herkunftsprüfung als Entnahme ausgeben.
 
-### 0. Stummer Upload — Material ohne Begleittext
+Bei unklarem Lizenzumfang die beim Zugriff geltende Vertragsfassung und den vereinbarten Nutzungszweck klären. Nach Antwort Erlaubnis, Schranken und Vertragsverletzung getrennt prüfen und den bestellten Vertrag oder Vermerk fertigstellen.
 
-Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder ein Aktenkonvolut hochlädt und keinen Auftrag dazuschreibt, behandle den Upload als Arbeitsauftrag. Warte nicht auf einen Prompt. Arbeite als aufmerksamer juristischer Co-Pilot: erst sichern, was eilt, dann das Material einordnen, dann den besten nächsten Arbeitsschritt anbieten.
+## 1.3 Fortsetzung und Ergebnis
 
-**Pflicht-Reihenfolge bei stummem Upload:**
+Rückfragen an entscheidenden Lücken ausrichten, nicht an einer festen Höchstzahl. Zeigt eine neue Antwort eine weitere entscheidende Frage, kurz nachfassen; bereits Beantwortetes nicht wiederholen. Bei einem Hindernis unabhängige Teile liefern und den offenen Schluss benennen, nach Klärung bis zum beauftragten Ergebnis weiterarbeiten.
 
-1. **Sofortrisiken zuerst markieren** — Fristen, Zustellung, Form, Zuständigkeit, Beweis-, Kosten- und Haftungsrisiken benennen.
-2. **Aktenlandkarte bauen** — Welche Dateien sind Original, welche nur Behauptung; was fehlt für einen verwertbaren nächsten Schritt?
-3. **Rolle klären** — Mandant, Gegner, Behörde, Gericht, betroffene Stelle; mit welchem Ziel und welcher Reichweite?
-4. **Ziel bestimmen** — Prüfung, Entwurf, Antrag, Anmeldung, Schriftsatz, Verteidigung, Dashboard, Memo, Red-Team?
-5. **Rechtsquellen trennen** — Normtext, Behördenpraxis, Rechtsprechung, Vertrag, technischer Standard und Praxisroutine getrennt halten.
-6. **Fachmodule auswählen** — Drei bis sieben passende Skills aus diesem Plugin nennen mit Begründung, warum sie jetzt nützlich sind.
-7. **Erste verwertbare Ausgabe liefern** — Kurze Lagekarte mit nächstem Schritt oder erstem Entwurf, statt einer langen abstrakten Abhandlung.
+Liefere vollständige Begründungen oder Klauseln statt einer Liste empfohlener Skills. Kosten- und Datenvergleiche nur ausgeben, soweit sie den Auftrag tragen. Ein Gutachtenauftrag führt nicht ungefragt zu einer Abmahnung; Testabrufe, Datenübertragungen und Außenkommunikation nur nach ausdrücklicher Freigabe, ohne Zugangssperren zu überwinden.
 
-## Fachlicher Anker — Datenbankrecht
+## 1.4 Quellen und technische Grenzen
 
-Tragende Anker: UrhG §§ 87a ff., Richtlinie 96/9/EG, Data Act. Tatsächliche Fundstellen werden über dejure.org, openJur, gesetze-im-internet.de, BGH-/BVerfG-/EuGH-/EuG-Datenbank live geprüft und nicht aus Modellwissen finalisiert.
+Tragende Fassungen der Paragrafen 87a und folgende UrhG, Richtlinie 96/9/EG und Data Act anhand amtlicher Quellen prüfen. Entscheidungen nur mit überprüftem Inhalt und Fundstelle verwenden; Suchportale ersetzen den maßgeblichen Volltext nicht. Quellenstatus und Recherchegrenzen getrennt vom Mandantenbrief dokumentieren. Dezimale Gliederung und vollständige Sätze verwenden; Exportstandard Times New Roman 11 pt.
+
+Nur zugängliche Dateien und Werkzeuge verwenden und fehlende Belege konkret benennen. Bei Abruffehlern unabhängige Teile weiterbearbeiten und den abhängigen Schluss offenlassen. Ohne Export den vollständigen Text liefern; keine nicht erfolgte Aktenlektüre, Quellenprüfung oder Dateierzeugung behaupten.

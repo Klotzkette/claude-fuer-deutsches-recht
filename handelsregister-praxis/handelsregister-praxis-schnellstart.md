@@ -1,10 +1,12 @@
 # 1. Handelsregister: Anmeldung und Vollzug klären
 
-Unterstütze mich bei einem konkreten Registervorgang. Prüfe den tatsächlichen Anmeldungsstand und erstelle ein verwendbares Vollzugsprodukt. Dieser Prompt setzt weder installierte Skills noch Zugriff auf andere Repository-Dateien voraus.
+Prüfe meinen Registervorgang und erstelle die beauftragte Stellungnahme, Nachreichungsantwort oder Vollzugsübersicht anhand der vorhandenen Urkunden und gerichtlichen Nachrichten.
 
 ## 1.1 Vorgang zuerst
 
-Erfasse Gesellschaft, Rechtsform, Registergericht, Registernummer, meine Rolle und gewünschte Eintragung. Unterscheide Neuanmeldung, Veränderung, Berichtigung und Löschung. Lies vorliegende Anmeldung, Beschluss, Vollmacht, Registerauszug und gerichtliche Nachricht. Halte Dokumentdatum, Eingang, Bekanntgabe und gesetzte Frist getrennt fest. Ein Entwurfsdatum ist kein Einreichungsnachweis. Frage fehlende entscheidende Angaben einmal gebündelt ab und bearbeite belegte Teile sofort. Beginne bei Folgeaufträgen nicht erneut mit der Aufnahme.
+Lies vorliegende Anmeldung, Beschluss, Vollmacht, Registerauszug und gerichtliche Nachricht. Entnimm daraus Gesellschaft, Rechtsform, Registergericht, Registernummer, meine Rolle und gewünschte Eintragung. Unterscheide Neuanmeldung, Veränderung, Berichtigung und Löschung. Halte Dokumentdatum, Eingang, Bekanntgabe und gesetzte Frist getrennt fest. Ein Entwurfsdatum ist kein Einreichungsnachweis. Beginne bei Folgeaufträgen nicht erneut mit der Aufnahme.
+
+Fehlt etwa die unterschriebene Anmeldung, der Bestellungsbeschluss oder der Bekanntgabenachweis, frage gezielt danach und erläutere dessen Bedeutung für Form, Vertretung oder Frist. Bearbeite unabhängige Teile bereits vorläufig. Nach Eingang gleiche den Nachweis mit der Beanstandung ab und vervollständige das bestellte Dokument. Zeigt sich dabei eine weitere entscheidende Lücke, frage hierzu nach, ohne geklärte Angaben erneut abzufragen.
 
 ## 1.2 Drei Ebenen nicht vermischen
 
@@ -20,8 +22,12 @@ Bewerte pro Punkt: Nachreichung möglich, neue Erklärung erforderlich, Rechtsau
 
 ## 1.4 Konkrete Arbeitsprodukte
 
-Liefere Standbericht und Vollzugsmatrix mit Hindernis, Rechtsgrundlage, Dokument, verantwortlicher Person, Form, Frist und Erledigungsbeleg. Entwirf passend dazu Nachreichungsantwort, begründete Verlängerungsbitte oder Beschwerdegerüst. Benenne Anlagen konkret; markiere fehlende Anlagen als noch zu beschaffen. Für ein Closing liste Bedingungen und Nachweise einzeln auf. Trenne interne Beschlussmängel von registergerichtlich zu prüfenden Nachweisen. Formuliere vollständige Sätze statt einer bloßen Überschriftenfolge.
+Liefere das bestellte Dokument vollständig ausformuliert. Eine Vollzugsübersicht enthält, soweit benötigt, Hindernis, Rechtsgrundlage, Dokument, verantwortliche Person, Form, Frist und Erledigungsbeleg. Eine Nachreichungsantwort erläutert, welchen Punkt welche beigefügte Urkunde erledigt; eine noch fehlende Anlage darf nicht als beigefügt bezeichnet werden.
+
+Verfasse eine Verlängerungsbitte oder Beschwerde nur bei entsprechendem Auftrag; eine rechtliche Prüfung verlangt nicht automatisch einen Rechtsbehelf. Für ein beauftragtes Closing liste Bedingungen und Nachweise einzeln auf. Trenne interne Beschlussmängel von registergerichtlich zu prüfenden Nachweisen. Der gewünschte Dateiname geht vor; nur ohne Dateivorgabe gilt `ergebnis.md`.
 
 ## 1.5 Prüfung und Freigabe
 
-Verifiziere aktuelle Normen amtlich, beginnend bei der konkreten Anmeldung und [Paragraf 382 FamFG](https://www.gesetze-im-internet.de/famfg/__382.html). Entscheidungen nur mit überprüfter Fundstelle und passendem Aussagegehalt. Ohne Recherchezugang kennzeichne offene Rechtsfragen, aber stelle den Aktenabgleich fertig. Keine eigenständige Einreichung, Erklärung oder Kontaktaufnahme. Ohne Export liefere Text. Beende die Bearbeitung mit den nächsten drei Vollzugsschritten statt einer neuen Modulauswahl. Nutze dezimale Überschriften und bei Dokumentexport Times New Roman in 11 Punkt. Die Werkstatt kann optional vertiefen.
+Verifiziere aktuelle Normen amtlich, beginnend bei der konkreten Anmeldung und [Paragraf 382 FamFG](https://www.gesetze-im-internet.de/famfg/__382.html). Entscheidungen nur mit überprüfter Fundstelle und passendem Aussagegehalt. Halte Recherchelücken in einer getrennten Arbeitsnotiz fest, nicht im Mandantenbrief. Prüfe vor Abschluss, ob neue Nachweise eingearbeitet und die beauftragten Texte fertig sind; bei einem Hindernis benenne den vorläufigen Stand und die konkret benötigte Ergänzung. Keine eigenständige Einreichung, Erklärung oder Kontaktaufnahme. Nutze dezimale Überschriften und bei Dokumentexport Times New Roman in 11 Punkt.
+
+Ohne Recherchezugang kennzeichne offene Rechtsfragen und bearbeite den möglichen Aktenabgleich; ohne Export liefere Text und behaupte keine Dateierzeugung. Dieser Prompt funktioniert ohne andere Repository-Dateien; die Werkstatt kann optional vertiefen.

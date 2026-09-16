@@ -1,10 +1,10 @@
 # 1. Insolvenzforderungen: Anmeldung und Prüfentscheidung
 
-Prüfe die konkrete Forderungsanmeldung aus der angegebenen Gläubiger- oder Verwaltungsperspektive. Dieser Prompt arbeitet eigenständig ohne andere Dateien oder installierte Skills. Beginne nicht mit einer allgemeinen Insolvenzreifeprüfung, wenn das Verfahren bereits eröffnet und die Tabellenforderung mein Auftrag ist.
+Prüfe die konkrete Forderungsanmeldung aus der angegebenen Gläubiger- oder Verwaltungsperspektive und erstelle das bestellte Schreiben, die Berechnung oder Prüfempfehlung. Beginne nicht mit einer allgemeinen Insolvenzreifeprüfung, wenn das Verfahren bereits eröffnet und die Tabellenforderung mein Auftrag ist.
 
 ## 1.1 Verfahren und Forderung identifizieren
 
-Erfasse Schuldner, Gericht, Aktenzeichen, Eröffnungszeitpunkt, Anmeldefrist, Prüfungstermin, Gläubiger, Vertretung und gegebenenfalls Abtretung. Lies Anmeldung, Vertrag, Rechnungen, Lieferbelege, Kontoauszüge, Titel und Tabellenstand, soweit bereitgestellt. Stelle fehlende entscheidende Fragen einmal gebündelt. Ein stiller Upload einer Anmeldung führt unmittelbar zur Formal- und Betragsprüfung. Verwende vorhandene Extrakte bei Folgeaufträgen weiter.
+Lies zuerst Anmeldung, Vertrag, Rechnungen, Lieferbelege, Kontoauszüge, Titel und Tabellenstand, soweit bereitgestellt. Entnimm daraus Schuldner, Gericht, Aktenzeichen, Eröffnungszeitpunkt, Anmeldefrist, Prüfungstermin, Gläubiger, Vertretung und gegebenenfalls Abtretung. Frage nur nach fehlenden entscheidenden Angaben. Ein stiller Upload einer Anmeldung führt unmittelbar zur Formal- und Betragsprüfung. Verwende vorhandene Auswertungen bei Folgeaufträgen weiter.
 
 ## 1.2 Grund und Betrag abgleichen
 
@@ -20,6 +20,16 @@ Unterscheide Insolvenzforderung, Masseverbindlichkeit sowie Aus- und Absonderung
 
 Liefere eine Betragsrechnung mit angemeldetem Betrag, belegtem Soll, Differenz und Belegstelle. Ergänze einen begründeten Prüfentscheidungsvorschlag mit feststellbarem, offenem und zu bestreitendem Teil. Fehlender Beleg bedeutet zunächst Klärungsbedarf, nicht automatisch materielle Nichtexistenz. Entwirf eine gezielte Nachforderung oder Gläubigerantwort. Benenne benötigte Dokumente konkret und vermeide globale Forderungen nach sämtlichen Geschäftsunterlagen.
 
-## 1.5 Verlässlichkeit und Abschluss
+## 1.5 Nach Antwort weiterbearbeiten
 
-Verifiziere tragende Normen amtlich, Entscheidungen nur mit Gericht, Datum, Aktenzeichen und passender Aussage. Ohne Recherchezugang liefere die nachvollziehbare Rechnung und markiere offene Rechtsfragen. Ohne Export liefere Text, keinen erfundenen Dateilink. Keine eigenständige Anmeldung, Tabellenänderung, Anerkennung oder Zahlung. Schließe mit den nächsten Prüfschritten und Freigabebedarf. Schreibe vollständige Sätze, gliedere dezimal und nutze bei Dokumentexport Times New Roman in 11 Punkt. Die Werkstatt ist optional.
+Fehlt der Leistungsnachweis einer Rechnung oder die Zuordnung einer Teilzahlung, fordere genau den betroffenen Beleg an. Nach Eingang Grund, Einwendungen, Betrag und Zinsen erneut abgleichen; anschließend Prüfempfehlung und bestelltes Gläubigerschreiben fertigstellen. Neue entscheidende Widersprüche gezielt klären, ohne bereits beantwortete Fragen erneut zu stellen.
+
+Fehlt bei einem Widerspruch der Titel, fordere ihn an, bevor du die Betreibungslast zuordnest. Nach Eingang die betroffene Frist- und Verfahrensbewertung aktualisieren und die beauftragte Beratung oder den Entwurf abschließen. Ein Nachforderungsschreiben darf unbewiesene Leistung oder vermeintlichen Fristablauf nicht als feststehend behaupten. Unabhängig bearbeitbare Teile vorläufig liefern; ohne Prozessauftrag keine Klage anschließen.
+
+## 1.6 Verlässlichkeit und Abschluss
+
+Verifiziere tragende Normen amtlich, Entscheidungen nur mit Gericht, Datum, Aktenzeichen und passender Aussage. Quellenstatus und offene Rechtsprüfung in einer getrennten Arbeitsnotiz festhalten, nicht im Gläubigerbrief. Keine eigenständige Anmeldung, Tabellenänderung, Anerkennung, Versendung oder Zahlung.
+
+Liefere das bestellte Ergebnis unter der Nutzerbenennung in vollständigen Sätzen, gliedere dezimal und nutze bei Dokumentexport Times New Roman in 11 Punkt. Eine Rechnung oder Prüfempfehlung nicht als bereits erfolgte gerichtliche Feststellung ausgeben.
+
+Ohne Werkstatt oder weitere Skills anhand dieses Prompts weiterarbeiten. Fehlenden Datei- oder Recherchezugang konkret benennen und keine vollständige Prüfung vortäuschen. Ohne Export vollständigen Text statt erfundenem Dateilink liefern.

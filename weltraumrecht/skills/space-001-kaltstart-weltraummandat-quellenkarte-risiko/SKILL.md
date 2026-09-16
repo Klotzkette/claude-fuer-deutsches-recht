@@ -1,56 +1,34 @@
 ---
 name: space-001-kaltstart-weltraummandat-quellenkarte-risiko
-description: "Für Weltraumrecht: Kaltstart Weltraummandat Quellenkarte und Risikocockpit: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Bereitet ein Weltraummandat aus Missionsunterlagen, Genehmigungen und Verträgen auf. Trennt Staatenrollen, verbindliches Recht und technische Empfehlungen und entwickelt den benötigten Genehmigungsfahrplan, Vertragsentwurf oder Haftungsvermerk bis zur vollständigen Fassung."
 ---
 
-# Weltraumrecht: Kaltstart Weltraummandat Quellenkarte und Risikocockpit
+# 1. Weltraummandat aus den Unterlagen bearbeiten
 
-## Aufgabe
+Beginne mit dem vorgelegten Auftrag und den einschlägigen Dateien. Erfasse Mission, vertretene Partei und bevorstehende Entscheidung aus Missionsbeschreibung, Bescheiden und Verträgen. Bereits beantwortete Fragen werden nicht erneut gestellt.
 
-Dieser Skill bearbeitet **Kaltstart Weltraummandat Quellenkarte und Risikocockpit** im Bereich **Weltraumrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+## 1.1. Rechtliche Rollen und Quellen zuordnen
 
-## Kaltstart in 6 Fragen
+Trenne Betreiber, Eigentümer, Hersteller und Startdienstleister von Startstaat, Registerstaat und zuständigem Genehmigungsstaat. Halte fest, welcher Beleg die jeweilige Zuordnung trägt und welche Rolle tatsächlich ungeklärt ist.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+Ordne die einschlägigen Quellen: UN-Vertrag, nationales Gesetz, Bescheid, privatrechtlicher Vertrag, technische Empfehlung oder politische Erklärung. Prüfe für jeden Staat die Vertragsbindung und für jedes Gesetz Inkrafttreten und zeitliche Anwendbarkeit. Keine allgemeine Zulassungspflicht aus einem noch nicht geltenden Gesetzgebungsvorhaben ableiten.
 
-## Prüfprogramm
+## 1.2. Den Auftrag ausführen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UN-Weltraumverträge und nationales Recht getrennt prüfen
-- Startstaat, Registerstaat, Betreiber, Launch Provider und Eigentümer trennen
-- Haftung, Versicherung, Frequenzen, Exportkontrolle und Cybersecurity immer zusammen denken
-- Bei Quellen: UNOOSA, EUR-Lex, ITU, BNetzA, DLR/BMWK bevorzugen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+Bei einer bevorstehenden Betriebsaufnahme entwickle den Genehmigungsfahrplan aus Tätigkeit, Behörde, Rechtsgrundlage, fehlendem Nachweis und zeitlicher Abhängigkeit. Wird ein Antrag verlangt, formuliere zusätzlich den Antrag mit Missionsdaten und Anlagenbezügen.
 
-## Typische Fallen
+Bei einem Vertrag prüfe Leistungsumfang, technische Schnittstellen, Verzögerung, Haftung und Versicherung anhand der tatsächlichen Fassung. Liefere ausformulierte Änderungen. Bei einem Schaden trenne den diplomatischen Anspruchsweg von privaten Ansprüchen und beziehe Schadensort, Kausalität und gegebenenfalls Verschulden auf die einschlägige Grundlage.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+Recherchiere nur die für den Auftrag entscheidenden offenen Rechtsfragen. Allgemeine deutsche Urteile ersetzen keinen einschlägigen weltraumrechtlichen Anker. Ohne verifizierte Fundstelle keine Entscheidung ergänzen.
 
-## Output
+## 1.3. Rückfragen in das Dokument zurückführen
 
-- Space-Legal-Memo
-- Genehmigungsfahrplan
-- Haftungsmatrix
-- Versicherungsliste
-- Vertragsredline
-- Behördenbrief
-- Board-Dashboard
+Frage nach dem konkreten fehlenden Beleg, etwa Startvertrag, Registermeldung, Police oder Telemetriebericht. Erläutere knapp, welcher Teil davon abhängt. Führe bereits bearbeitbare Abschnitte weiter.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+Nach Antwort ergänze den offenen Punkt, passe die betroffenen Verweise oder Bewertungen an und liefere die vollständige neue Fassung. Entsteht dadurch eine weitere erhebliche Unklarheit, kläre sie gezielt. Weder eine Fragenliste noch eine bloße Empfehlung, später einen Brief zu schreiben, beendet einen erteilten Entwurfsauftrag.
 
+## 1.4. Fertiges Dokument
+
+Verwende verständliche vollständige Sätze, dezimale Gliederung und Tabellen nur für konkrete Vergleiche. Eine beauftragte Stellungnahme darf abschließen, ohne ungefragt einen Rechtsstreit zu beginnen. Interne Quellen- und Freigabehinweise stehen getrennt vom Empfängertext.
+
+Übermittle keine Erklärung ohne ausdrücklichen Auftrag. Ohne Export liefere den vollständigen Text, ohne Quellenzugriff benenne die genau betroffene offene Frage. Unabhängige Teile sind weiterzubearbeiten.

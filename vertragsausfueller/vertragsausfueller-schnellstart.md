@@ -14,7 +14,7 @@ Suche sichtbare Platzhalter, leere Tabellenzellen, Inhaltssteuerelemente, Formul
 
 Erstelle eine Matrix mit Feld, bisherigem Inhalt, neuem Wert, Einheit, Quelle, Quellenstatus, weiteren Fundstellen und Freigabe. Partei, Vertretung und Unterzeichner sind verschiedene Felder. Einen Geschäftsführer nicht allein aus der E-Mail-Signatur als alleinvertretungsberechtigt behandeln. Fehlende Registerdaten und Vollmachten sichtbar lassen.
 
-Mappe jeden Term-Sheet-Punkt auf Klausel, Feld oder Anlage. Ein Punkt ohne passenden Ort wird als Ergänzungsbedarf aufgeführt, nicht heimlich in eine Haftungs- oder Kündigungsklausel eingearbeitet. Widersprüche zwischen Vorlage und Eckdaten mit beiden Fundstellen darstellen. Ausfüllentscheidung und juristische Wahlentscheidung getrennt protokollieren.
+Ordne jeden Term-Sheet-Punkt der passenden Klausel, dem Feld oder der Anlage zu. Ein Punkt ohne passenden Ort wird als Ergänzungsbedarf aufgeführt, nicht heimlich in eine Haftungs- oder Kündigungsklausel eingearbeitet. Widersprüche zwischen Vorlage und Eckdaten mit beiden Fundstellen darstellen. Ausfüllentscheidung und juristische Wahlentscheidung getrennt festhalten.
 
 ## 1.3. Konsistenz und Zahlen
 
@@ -26,10 +26,12 @@ Vergleiche Anlagenbezeichnungen mit tatsächlichen Anlagen, interne Verweise mit
 
 Fülle eindeutig belegte Werte aus. Offene Felder erhalten einen klaren Platzhalter und eine konkrete Rückfrage. Bei einem Preiswiderspruch darf der Entwurf nicht als unterschriftsreif erscheinen. Die übrigen Felder bleiben trotzdem bearbeitbar. Änderungen am Regelungsgehalt als Vorschlag außerhalb der Ausfüllfassung ausweisen.
 
-Liefere eine neue Ausfüllfassung, ein kurzes Ausfüllprotokoll und eine priorisierte Entscheidungsliste. Prüfe danach alle Fundstellen erneut, insbesondere Kopfzeilen, Anlagen und Unterschriftsblöcke. Bei DOCX auch Umbrüche, Tabellen, Verweise, sichtbare Altwerte und Öffnung der erzeugten Datei kontrollieren. Nur tatsächlich geprüfte Dateieigenschaften bestätigen; eine Textprüfung ersetzt keine Öffnungs- oder Sichtprüfung.
+Nach einer Antwort übernimm den bestätigten Wert an sämtlichen betroffenen Stellen. Prüfe Folgeänderungen: Eine geänderte Laufzeit betrifft auch Enddatum, Verlängerung und Kündigungstermin. Eine neue Preisangabe kann Netto-, Steuer- und Bruttobeträge verändern. Kläre einen dabei entstehenden entscheidenden Widerspruch gezielt, ohne die bereits beantworteten Fragen zu wiederholen.
+
+Liefere die vollständige neue Ausfüllfassung unter dem gewünschten Dateinamen. Wesentliche Entscheidungen und noch offene Punkte knapp daneben erläutern; keine umfangreichen Kontrolltabellen ungefragt mitliefern. Prüfe alle Fundstellen erneut, insbesondere Kopfzeilen, Anlagen und Unterschriftsblöcke. Bei DOCX auch Umbrüche, Tabellen, Verweise, sichtbare Altwerte und Öffnung der erzeugten Datei kontrollieren. Nur tatsächlich geprüfte Dateieigenschaften bestätigen; eine Textprüfung ersetzt keine Öffnungs- oder Sichtprüfung.
 
 ## 1.5. Grenzen
 
 Unterschriften, Vertretungsmacht, Freigaben und fehlende wirtschaftliche Parameter niemals erfinden. Keine Vertragsannahme, Versendung, Unterzeichnung oder Registereinreichung selbst auslösen. Form- oder Wirksamkeitsfragen, die durch die Änderungen entstehen, mit aktueller amtlicher Quelle prüfen und als gesonderte Rechtsprüfung ausweisen; nicht pauschal eine branchenfremde Frist übernehmen.
 
-Das Mini benötigt keine installierten Skills. Weitere Werkstatttexte sind ausschließlich optionale Vertiefung. Beende die Bearbeitung mit dem konkreten Teilprodukt und den entscheidungsbedürftigen Restpunkten, nicht mit einer wiederholten Intake-Schleife.
+Das Mini benötigt keine installierten Skills. Weitere Werkstatttexte sind ausschließlich optionale Vertiefung. Ein Teilentwurf ist bei offenen Angaben noch nicht die bestellte Endfassung. Nach deren Klärung die vorhandene Fassung weiterbearbeiten und ausgeben. Technische Hinweise und Recherchegrenzen getrennt vom Vertragstext mitteilen.

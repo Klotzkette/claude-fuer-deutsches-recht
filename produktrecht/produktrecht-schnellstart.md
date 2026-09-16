@@ -1,6 +1,8 @@
 # 1. Produktsicherheit und Haftung getrennt entscheiden
 
-Lies zuerst Produktbeschreibung, Prüfbericht, Beschwerden und den konkreten Auftrag. Erfasse Produkt, Charge, Softwareversion, Verkaufsstaaten, Vertriebszeitraum und Rolle des Nutzers. Hersteller, Einführer und Händler nicht austauschen. Priorisiere bei einem plausiblen Sicherheitsrisiko die Sicherungsentscheidung; warte mit deren Vorbereitung nicht auf eine vollständige Schadensermittlung. Rückfragen nur zu Angaben, die Umfang oder Art der nächsten Maßnahme wirklich verändern.
+Bereite anhand von Produktbeschreibung, Prüfberichten und Beschwerden die beauftragte Sicherheitsmaßnahme oder Haftungsbewertung vor. Bei einem plausiblen Sicherheitsrisiko hat die Vorbereitung der Sicherungsentscheidung Vorrang vor einer vollständigen Schadensermittlung.
+
+Erfasse aus den vorhandenen Unterlagen Produkt, Charge, Softwareversion, Verkaufsstaaten, Vertriebszeitraum und Rolle des Nutzers. Hersteller, Einführer und Händler nicht austauschen; bereits bekannte Angaben nicht erneut erfragen.
 
 ## 1.1. Betroffene Einheiten und Gefahr
 
@@ -20,4 +22,10 @@ Bei einem Haftungsauftrag Fehler, Schaden am Produkt, sonstigen Sachschaden, Per
 
 ## 1.4. Ergebnis kontrollieren
 
-Liefere den verlangten Rückrufentwurf, die Freigabevorlage oder Haftungsbewertung in vollständigen Sätzen. Ein ungelöstes erhebliches Risiko erlaubt keine vorbehaltlose Launch-Freigabe. Dokumentiere, welche technischen Annahmen den betroffenen Umfang tragen und welche Prüfung noch aussteht. Quellen mit Artikel beziehungsweise Paragraf und tatsächlichem Abrufdatum angeben; keine erfundenen Fristen oder Entscheidungen. Bei fehlendem Zugriff den Sicherheitsplan trotzdem aus den gesicherten Fakten vorbereiten und die rechtliche Lücke benennen. Formatiere dezimal, bei Export Times New Roman 11 pt. Werkstatt und Spezialskills sind optionale Ergänzungen, keine Voraussetzung.
+Fehlen belastbare Chargengrenzen, frage nach Produktions- und Prüfnachweisen; fehlt die Zahl ausgelieferter Geräte, fordere den betreffenden Vertriebsabgleich an. Bereite währenddessen Maßnahmen für den belegten Umfang vor und kennzeichne offen, welche Eingrenzung noch nicht abgesichert ist. Materialverfügbarkeit ist kein Nachweis der Unbedenklichkeit.
+
+Aktualisiere nach der Antwort betroffene Mengen, Risikobewertung und Empfängerkreise und schreibe den bestellten Rückruf, die Behördenantwort oder Haftungsbewertung fertig. Ein neu erkennbarer Vorfall in einer anderen Version kann eine weitere gezielte Nachfrage erfordern. Eine bloße Analyse oder Nachforderung beendet einen Dokumentenauftrag nicht; bei einem fortbestehenden Hindernis liefere den bearbeitbaren Teilstand und den konkret benötigten Nachweis.
+
+Ein ungelöstes erhebliches Risiko erlaubt keine vorbehaltlose Freigabe der Markteinführung. Prüfe vor Abschluss, welche technischen Annahmen den betroffenen Umfang tragen, welche Prüfung aussteht und ob der gewünschte Text vollständig ausformuliert ist. Eine externe Meldung, Veröffentlichung oder Versendung erfolgt nur nach ausdrücklicher Freigabe.
+
+Quellen mit Artikel beziehungsweise Paragraf und tatsächlichem Abrufdatum belegen; Recherche- und Zugriffshinweise getrennt vom Verbraucheranschreiben oder sonstigen Empfängertext halten. Bei fehlendem Zugriff den Sicherheitsplan aus gesicherten Fakten vorbereiten und die rechtliche Lücke benennen. Beachte den gewünschten Dateinamen; formatiere dezimal, bei Export Times New Roman 11 pt. Werkstatt und Spezialskills sind optionale Ergänzungen, keine Voraussetzung.

@@ -20,6 +20,13 @@ CASES = ["notariat-bautraegerkauf-parkhof-potsdam","notariat-grundschuld-bankauf
 CORE = ["kaltstart-triage","notariat-002-beurkundung-ubeglaubigung-richtig-einordnen","notariat-023-identitaetspruefung-videoident-praesenztermin","gmbh-gruendung-gesellschafterliste","notariat-032-kapitalerhoehung-bar-sache-bezugsrecht","notariat-006-hr-anmeldung-gf-bestellung-abberufung-vertretung","gmbh-anteile-uebertragen-verpfaenden","bautraegervertrag-mabv-familiengesellschaft","grundschuld-buchgrundschuld-treuhand","qualitaetsgate-signatur-notarielle"]
 
 
+def staff_boundary_present(text):
+    """Textlicher Schutzvertrag; kein Test tatsächlich ausgeführter Amtshandlungen."""
+    return bool(re.search(r"\b(?:Notariatsmitarbeiter\w*|Mitarbeiter\w*)\b", text)
+                and re.search(r"(?:Amtshandlungen|Amtstätigkeit|Freigaben)[^.\n]*bleiben beim Notar", text)
+                and "notariellen Prüfung" in text)
+
+
 def builder(filename):
     spec = importlib.util.spec_from_file_location(filename.replace('-', '_'), ROOT / 'scripts' / filename)
     module = importlib.util.module_from_spec(spec)
@@ -59,7 +66,8 @@ class NotariatswerkstattTests(unittest.TestCase):
         for kind in ('werkstatt', 'schnellstart'):
             text = (PLUGIN / f'notariat-alltag-{kind}.md').read_text(encoding='utf-8')
             with self.subTest(prompt=kind):
-                for anchor in ('Notariatsmitarbeiter', 'GmbHG Paragraf 53', 'Absatz 3', 'Paragraf 55 Absatz 1', 'Paragraf 1274', 'HGB Paragraf 12', 'MaBV Paragraf 3', 'Paragraf 794'):
+                self.assertTrue(staff_boundary_present(text), "Vorbereitung durch Mitarbeiter und vorbehaltene Amtshandlungen trennen")
+                for anchor in ('GmbHG Paragraf 53', 'Absatz 3', 'Paragraf 55 Absatz 1', 'Paragraf 1274', 'HGB Paragraf 12', 'MaBV Paragraf 3', 'Paragraf 794'):
                     self.assertIn(anchor, text)
                 self.assertNotIn('skills/', text)
                 self.assertIn('notariellen Prüfung', text)
@@ -70,6 +78,13 @@ class NotariatswerkstattTests(unittest.TestCase):
         self.assertNotIn('Einigungserklärung: Beurkundung nötig', legacy)
         entry = (PLUGIN / 'skills/kaltstart-triage/SKILL.md').read_text(encoding='utf-8')
         self.assertIn('nur den einen', entry)
+
+    def test_staff_boundary_requires_reservation_not_just_role_name(self):
+        valid = "Mitarbeiter bereiten Entwürfe zur notariellen Prüfung vor. Persönliche Amtshandlungen und notarielle Freigaben bleiben beim Notar."
+        self.assertTrue(staff_boundary_present(valid))
+        self.assertTrue(staff_boundary_present(valid.replace("Mitarbeiter", "Notariatsmitarbeiter")))
+        self.assertFalse(staff_boundary_present("Notariatsmitarbeiter bereiten Entwürfe zur notariellen Prüfung vor."))
+        self.assertFalse(staff_boundary_present(valid.replace("bleiben beim Notar", "übernimmt der Mitarbeiter")))
 
     def test_every_case_has_eight_separate_native_documents(self):
         for slug in CASES:

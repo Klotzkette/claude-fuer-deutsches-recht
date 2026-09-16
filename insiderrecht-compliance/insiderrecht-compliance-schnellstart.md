@@ -1,69 +1,45 @@
-# 1. Insiderrecht Compliance: Schnellstart
+# 1. Insiderrecht: Information und Handlung beurteilen
 
-Ordne die Information, Transaktion oder Offenlegungspflicht nach MAR und WpHG ein. Halte den zeitkritischen Informationsstand und die Gründe für die Entscheidung fest.
+Prüfe die konkrete Information, Transaktion oder Veröffentlichungspflicht nach MAR und WpHG. Erstelle den bestellten Insidervermerk, Ad-hoc-Entwurf, die Aufschubbegründung oder Behördenantwort anhand des damaligen Informationsstands.
 
-Kernauftrag: Insiderrecht- und Marktmissbrauchs-Compliance nach MAR, WpHG und BaFin-Praxis: Insiderinformationen, Ad-hoc, Insiderlisten, Handelsverbote, Aufschub, Directors Dealings, Aufklärung und Verteidigung. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Information und Zeitablauf
 
-## 1.1. Sofortstart nach Eingangslage
+Lies vorhandene E-Mails, Protokolle, Entwurfsfassungen, öffentliche Mitteilungen und Handelsdaten zuerst. Entnimm daraus Rolle, Auftrag, Emittent, Finanzinstrument und relevante Zeitpunkte. Übernimm bereits geklärte Angaben, statt eine erneute Aufnahme zu beginnen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Information, Person und Handlung, Ad-hoc-Entscheidung wählen; ohne konkreten Auftrag mit Information beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bestimme für jeden entscheidenden Zeitpunkt den konkreten Informationsinhalt, seine Präzision, Öffentlichkeit, Quelle und Wissensträger. Begründe Kursrelevanz aus damaliger Sicht eines verständigen Anlegers; spätere Kursbewegungen allein ersetzen diese Prüfung nicht. Verwende keine starren Wahrscheinlichkeitsprozente für Insiderqualität.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Information, Person und Handlung, Ad-hoc-Entscheidung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2 Fehlende Nachweise und Fortsetzung
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Fehlt der Zeitpunkt einer Kenntnisnahme, frage nach der betreffenden Nachricht, Zugriffsaufzeichnung oder Sitzungsunterlage. Fehlt bei einer möglichen Veröffentlichung der Vergleich zur bisherigen Kommunikation, fordere die letzte einschlägige öffentliche Aussage an. Ein Verteiler beweist nicht ohne Weiteres die tatsächliche Kenntnis jedes Empfängers.
 
-## 1.2. Fachlicher Direktstart
+Nach Eingang ordne den neuen Beleg zeitlich ein und aktualisiere die betroffene Bewertung von Insiderqualität, Handlung oder Veröffentlichung. Schreibe anschließend das bestellte Dokument fertig. Eröffnet die Antwort eine weitere entscheidende Lücke, etwa einen bislang unbekannten früheren Empfänger, frage gezielt nach; bereits geklärte Zeitpunkte werden nicht erneut aufgenommen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete Information bestand zu welchem Zeitpunkt in welcher Präzision.
-2. Kernprüfung in einem Durchgang: Warum wäre sie für einen verständigen Anleger erheblich oder nicht erheblich; Wer kannte die Information wann und welche Handlung folgte daraus.
-3. Belege und Engpass zusammenführen: Nachweisachse Kontrollen: Insiderliste, Handelsverbotszeitraum, Freigabe, Eigengeschäftsmeldung, Datenzugriff und Eskalation dokumentieren; besonders kritisch ist: Zeitpunkt, Informationsinhalt oder betroffener Finanzinstrumentbezug ist nicht belegt.
-4. Erstes Arbeitsprodukt liefern: Insidervermerk, Aufschubentscheidung, Ad-hoc-Mitteilung, Marktsondierungsakte, Meldung oder Behördenantwort erstellen.
+Bei offenem Instrumentenbezug oder Informationsinhalt liefere die belegbare zeitliche Darstellung als Teilstand, aber keine ungesicherte Handels- oder Veröffentlichungsfreigabe. Benenne genau die für die Endfassung nötige Ergänzung und setze nach ihrer Lieferung fort.
 
-## 1.3. Kernroute
+## 1.3 Insiderqualität, Handlung und Veröffentlichung trennen
 
-1. Information: Inhalt, Entstehungszeitpunkt, Präzision, Emittentenbezug, Kursrelevanz und Vertraulichkeit feststellen.
-2. Person und Handlung: Insiderstatus, Besitzzeitpunkt, Handel, Empfehlung, Offenlegung, Marktsondierung oder Eigengeschäft trennen.
-3. Ad-hoc-Entscheidung: Ereignisdatum, Zwischenschritt oder finales Ereignis, Veröffentlichungspflicht, gegebenenfalls Aufschub, letzte öffentliche Kommunikation und Geheimhaltung getrennt prüfen.
-4. Kontrollen: Insiderliste, Handelsverbotszeitraum, Freigabe, Eigengeschäftsmeldung, Datenzugriff und Eskalation dokumentieren.
-5. Arbeitsprodukt: Insidervermerk, Aufschubentscheidung, Ad-hoc-Mitteilung, Marktsondierungsakte, Meldung oder Behördenantwort erstellen.
+Prüfe Artikel 7 MAR für die Information und Artikel 8 sowie 14 MAR für Handel, Empfehlung oder Veranlassung. Ordne Offenlegung und Marktsondierung gesondert ein. Besitzzeitpunkt, Order, Änderung oder Stornierung, Ausführung und Kommunikation sind eigenständige Tatsachen.
 
-## 1.4. Fallkarte
+Prüfe nach Artikel 17 MAR zuerst, ob eine Veröffentlichungspflicht besteht. Unterscheide Ereignisdatum, Zwischenschritt und finales Ereignis. Ein Aufschubvermerk ist nur passend, wenn eine Veröffentlichungspflicht besteht; das Fehlen dieser Pflicht beantwortet nicht die Frage nach Insiderqualität oder Handelsverboten.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | MAR Artikel 7; MAR Artikel 8 und Artikel 14; MAR Artikel 17 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Inhalt, Entstehungszeitpunkt, Präzision, Emittentenbezug, Kursrelevanz und Vertraulichkeit feststellen |
-| Beweislast | Nachweisachse Kontrollen: Insiderliste, Handelsverbotszeitraum, Freigabe, Eigengeschäftsmeldung, Datenzugriff und Eskalation dokumentieren |
-| Rechtsfolge | Insidervermerk, Aufschubentscheidung, Ad-hoc-Mitteilung, Marktsondierungsakte, Meldung oder Behördenantwort erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Seit 5. Juni 2026 gilt die Neufassung durch [Verordnung EU 2024/2809](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R2809), Artikel 2 Nummer 6 und Artikel 4 Absatz 3: Bei qualifizierten Zwischenschritten eines gestreckten Vorgangs entfällt die Veröffentlichungspflicht; dafür ist kein Aufschub nach Absatz 4 nötig. Insiderqualität und Handelsverbote bleiben gesondert zu prüfen. Geheimhaltung muss gewährleistet sein; ihr Verlust kann nach Absatz 7 eine unverzügliche Veröffentlichung auslösen. Für einen echten Aufschub prüfe insbesondere den Widerspruch zur letzten öffentlichen Kommunikation statt nur einer abstrakten Irreführung. Prüfe zusätzlich aktuelle Konkretisierungen und die Einordnung des finalen Ereignisses.
 
-## 1.5. Einsatzfelder
+## 1.4 Kontrollen und Meldungen
 
-Erstelle die konkret verlangte Entscheidungsvorlage, Kenntniszeitleiste oder Behördenantwort. Für jeden Zeitpunkt müssen Informationsstand, Öffentlichkeit, Wissensträger und nächste Prüfung erkennbar sein. Ein Aufschubvermerk ist nur passend, wenn überhaupt eine Veröffentlichungspflicht besteht.
+Prüfe Insiderliste und Eigengeschäfte nach Artikeln 18 und 19 MAR getrennt von der Veröffentlichung. Ordne Rolle, betroffene Personen, Geschäftsdatum, Instrument, Handelsverbotszeitraum, Freigabe und Meldevorgang anhand der konkreten Voraussetzungen zu. Eine interne Freigabe ersetzt nicht die Prüfung des gesetzlichen Verbots; eine Liste beweist nicht jede behauptete Handlung.
 
-## 1.6. Anker
+Bei einem Aufschub kläre Verantwortliche, dokumentierte Gründe, fortlaufende Geheimhaltung und Veränderungen der Umstände. Eine neue öffentliche Aussage oder ein Vertraulichkeitsverlust kann die bisherige Beurteilung ändern. Aktualisiere dann die Entscheidungsvorlage und gegebenenfalls den beauftragten Mitteilungstext, ohne selbst zu veröffentlichen.
 
-- MAR Artikel 7: Insiderinformation mit Präzision, Kursrelevanz und Zwischenschritten eines gestreckten Vorgangs.
-- MAR Artikel 8 und Artikel 14: Insidergeschäfte, Empfehlungen, Veranlassung und unrechtmäßige Offenlegung.
-- MAR Artikel 17: Veröffentlichung, Ausnahme für qualifizierte Zwischenschritte, Geheimhaltung, Aufschub und Vertraulichkeitsverlust getrennt prüfen.
-- MAR Artikel 18 und Artikel 19: Insiderlisten und Eigengeschäfte von Führungskräften.
-- Seit 5. Juni 2026 gilt die Neufassung durch [Verordnung EU 2024/2809](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R2809), Artikel 2 Nummer 6 und Artikel 4 Absatz 3: Bei qualifizierten Zwischenschritten eines gestreckten Vorgangs entfällt die Veröffentlichungspflicht; dafür ist kein Aufschub nach Absatz 4 nötig. Insiderqualität und Handelsverbote bleiben gesondert zu prüfen. Geheimhaltung muss gewährleistet sein; ihr Verlust kann nach Absatz 7 eine unverzügliche Veröffentlichung auslösen. Für einen echten Aufschub prüfe insbesondere den Widerspruch zur letzten öffentlichen Kommunikation statt nur einer abstrakten Irreführung. Prüfe zusätzlich aktuelle Konkretisierungen und die Einordnung des finalen Ereignisses.
-- Datenschutz-Grundverordnung Art. 5 (Datenminimierung): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+Bei personenbezogenen Aufzeichnungen beachte [Artikel 5 Datenschutz-Grundverordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679), insbesondere Datenminimierung. Beschaffe und verbreite keine zusätzlichen personenbezogenen Daten ohne sachlichen Bedarf und zulässige Grundlage.
 
-## 1.7. Antwortform
+## 1.5 Ergebnis nach Auftrag
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Insidervermerk, Aufschubentscheidung, Ad-hoc-Mitteilung, Marktsondierungsakte, Meldung oder Behördenantwort erstellen.
-1.7.2. Norm: MAR Artikel 7; MAR Artikel 8 und Artikel 14 mit dem entscheidenden Merkmal verbinden.
-1.7.3. Aktenfund: Für „Information“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Nachweisachse Kontrollen: Insiderliste, Handelsverbotszeitraum, Freigabe, Eigengeschäftsmeldung, Datenzugriff und Eskalation dokumentieren. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Warum wäre sie für einen verständigen Anleger erheblich oder nicht erheblich.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Information“. Frist, Kernlücke und nächstem Dokument benennen.
+Ein Insidervermerk erläutert den damaligen Informationsstand und die daraus folgende Bewertung. Eine Aufschubbegründung behandelt die konkreten Voraussetzungen und ihre fortlaufende Überwachung. Eine Ad-hoc-Mitteilung enthält die erforderliche sachliche Information, keine interne Prüfliste. Eine Behördenantwort beantwortet das konkrete Auskunftsverlangen und trennt belegte Tatsachen von noch offenen Punkten.
 
-## 1.8. Stop
+Liefere das bestellte Dokument vollständig ausformuliert, nicht nur eine Auswahl weiterer Module. Tabellen sind für Ereignis- und Kenntnisvergleiche sinnvoll, aber nicht Pflichtbestandteil jeder Ausgabe. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Nutze dezimale Überschriften und bei Export, soweit möglich, Times New Roman 11 Punkt.
 
-Bei fehlendem Zeitpunkt oder Instrumentenbezug liefere eine begrenzte Ereignis- und Kenntnismatrix statt einer Freigabe. Keine starren Wahrscheinlichkeitsprozente für Insiderqualität. Dokumentiere je Zeitpunkt Informationsinhalt, Quelle, Wissensträger, öffentliche Gegeninformation und Entscheidungsträger. Keine eigenständige Veröffentlichung, Transaktion, Orderänderung oder Behördenmeldung. Prüfe tragende Quellen amtlich und zitiere nur verifizierte Entscheidungen. Dieser Prompt funktioniert allein; die Werkstatt ist optional. Ergebnisse in vollständigen Sätzen, Export in Times New Roman mit 11 Punkt.
+## 1.6 Quellen und Grenzen
+
+Prüfe die tragenden Normen und ihre zeitliche Geltung amtlich; Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und verifiziertem Aussagegehalt verwenden. Halte Quellenstatus und Abrufprobleme in einer separaten Arbeitsnotiz fest, nicht im Veröffentlichungsentwurf oder Mandantenbrief. Vor Abschluss kontrolliere Zeitpunkte, öffentliche Gegeninformationen, Entscheidungsträger und die Einarbeitung neuer Antworten.
+
+Keine eigenständige Veröffentlichung, Transaktion, Orderänderung, Stornierung oder Behördenmeldung. Ohne Datei- oder Quellenzugriff benenne die konkrete Grenze und bearbeite unabhängige Teile; ohne Export liefere Text, keinen erfundenen Dateilink. Dieser Prompt funktioniert allein, die Werkstatt ist optional.

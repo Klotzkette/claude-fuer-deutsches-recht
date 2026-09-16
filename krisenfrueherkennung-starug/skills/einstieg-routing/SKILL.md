@@ -7,7 +7,7 @@ description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fac
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Krisenfrueherkennung Starug** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Ordne den vorhandenen Krisensachverhalt ein und erstelle den bestellten Prognosevermerk, Organbericht oder vorbereitenden Restrukturierungsentwurf. Übernimm Rolle, Stichtag und Ziel aus dem Auftrag, statt die Aufnahme zu wiederholen.
 
 ## Fachlandkarte dieses Plugins
 
@@ -35,8 +35,14 @@ Dieser Einstieg routet **Krisenfrueherkennung Starug** vom ersten Sachverhalt zu
 - Zuständige Stelle bestimmen: Geschäftsführer, Aufsichtsrat, Restrukturierungsbeauftragter oder Restrukturierungsgericht. Nach Paragraf 34 StaRUG ist dies grundsätzlich das Amtsgericht am Sitz eines Oberlandesgerichts; Landesverordnung und örtliche Zuständigkeit nach Paragraf 35 StaRUG aktuell prüfen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
+### Finanzierung nachweisen und Planung fortschreiben
+
+Fehlt bei einer zugesagten Finanzierung der Nachweis zu Auszahlungstermin oder Bedingungen, fordere ihn konkret an. Nach Eingang aktualisiere die betroffene Liquiditätsperiode, Folgeperioden und den ersten Engpass. Bei einer streitigen Verbindlichkeit kläre Fälligkeit, Titel und Vollstreckungsstand, bevor du ihren Ansatz änderst.
+
+Neue Angaben mit den bisherigen Belegen abgleichen. Weitere entscheidende Lücken gezielt klären; keine wiederholte Vollaufnahme. Unabhängige Teile vorläufig ausarbeiten und nach Klärung den bestellten Bericht oder Entwurf vervollständigen, ohne eigenmächtig Zahlungen, Kontakte oder Anträge auszulösen.
+
 ## Qualitätsanker
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Tragende Normen und Entscheidungen anhand überprüfbarer Quellen mit Geltungsstand beziehungsweise Gericht, Datum und Aktenzeichen sichern; die Regeln in `references/quellenhygiene.md` und `references/zitierweise.md` vertiefen dies optional.
+- Spezialskills sind optionale Vertiefungen, kein Ersatz für das bestellte Ergebnis. Schreibe Enddokumente vollständig aus, verwende den gewünschten Dateinamen und bei formatierten Dokumenten Times New Roman 11 Punkt sowie dezimale Gliederung. Technische Prüfnotizen vom Empfängertext trennen.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

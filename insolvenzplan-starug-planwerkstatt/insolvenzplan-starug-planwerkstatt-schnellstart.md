@@ -1,10 +1,12 @@
 # 1. Insolvenzplan und Restrukturierungsplan: Zahlen und Wirkung
 
-Bearbeite den konkreten Planauftrag, nicht allgemein die gesamte Unternehmenskrise. Dieser Prompt enthält seinen Arbeitsweg selbst und funktioniert ohne installierte Skills. Stelle Insolvenzplan und StaRUG-Plan nicht als austauschbare Bezeichnungen dar.
+Erstelle oder prüfe das bestellte Planmodul, die Vergleichsrechnung oder die Abstimmungsauswertung. Unterscheide dabei Insolvenzplan und StaRUG-Plan, statt ungefragt die gesamte Unternehmenskrise neu aufzunehmen.
 
 ## 1.1 Verfahren und Datenbasis
 
-Erfasse Schuldner, Verfahrensart, Verfahrensstand, Stichtag, Ziel, verfügbare Liquidität und Entscheidungstermin. Lies Planentwurf, Forderungsliste, Sicherheitenübersicht, Finanzierung und Vergleichsrechnung. Bei Anzeichen eingetretener Insolvenzreife markiere den gesonderten dringlichen Prüfbedarf, ohne deswegen den belegbaren Planabgleich abzubrechen. Frage entscheidende Datenlücken einmal gebündelt ab; vorhandene Arbeitsergebnisse bei Folgeaufträgen weiterverwenden.
+Erfasse Schuldner, Verfahrensart, Verfahrensstand, Stichtag, Ziel, verfügbare Liquidität und Entscheidungstermin aus Planentwurf, Forderungsliste, Sicherheitenübersicht, Finanzierung und Vergleichsrechnung. Bei Anzeichen eingetretener Insolvenzreife markiere den gesonderten dringlichen Prüfbedarf, ohne deswegen den belegbaren Planabgleich abzubrechen. Verwende vorhandene Arbeitsergebnisse bei Folgeaufträgen weiter.
+
+Fehlt eine Finanzierungszusage oder weicht die Forderungsliste vom Stimmrechtsverzeichnis ab, frage nach dem konkreten Nachweis und dem maßgeblichen Stand. Nach Eingang aktualisiere betroffene Zahlungszeitpunkte, Quoten, Gruppenzuordnungen und Planformulierungen. Neue entscheidende Widersprüche kläre gezielt in einer weiteren Runde; frage bereits geklärte Beträge und Verfahrensdaten nicht erneut ab.
 
 ## 1.2 Planarchitektur prüfen
 
@@ -22,4 +24,8 @@ Erstelle je Gruppe die Liste der Stimmrechte, Ja, Nein, Nichtteilnahme und strei
 
 ## 1.5 Ausgabe und Freigabe
 
-Liefere das verlangte Planmodul, eine nachvollziehbare Vergleichsrechnung oder eine Abstimmungsmatrix mit begründetem Ergebnis. Verknüpfe Zahlen mit Anlagen und benenne Widersprüche zwischen Liquiditätsplan und Zahlungsversprechen. Entwirf konkrete Änderungsformulierungen statt leerer Kapitelüberschriften. Prüfe tragende Normen amtlich und Entscheidungen mit Gericht, Datum, Aktenzeichen und Aussage. Ohne Zugriff kennzeichne Rechts- und Datenlücken, aber liefere den belastbaren Teil. Keine eigenständige Planvorlage, Anzeige, Stimmabgabe oder Gläubigerzusage. Vollständige Sätze, dezimale Gliederung und bei Export Times New Roman in 11 Punkt. Die Werkstatt ist nur optional.
+Liefere das verlangte Planmodul, eine nachvollziehbare Vergleichsrechnung oder eine Abstimmungsmatrix mit begründetem Ergebnis. Verknüpfe Zahlen mit Anlagen und benenne Widersprüche zwischen Liquiditätsplan und Zahlungsversprechen. Entwirf konkrete Änderungsformulierungen statt leerer Kapitelüberschriften. Nach Klärung entscheidender Lücken stelle das bestellte Dokument fertig; eine Nachforderung allein ist kein Abschluss.
+
+Prüfe tragende Normen amtlich und Entscheidungen mit Gericht, Datum, Aktenzeichen und Aussage. Den Quellenstatus führe in einer getrennten Arbeitsnotiz, nicht als internes Prüfvokabular im Gläubigerbrief. Keine eigenständige Planvorlage, Anzeige, Stimmabgabe oder Gläubigerzusage. Verwende den gewünschten Dateinamen, vollständige Sätze, dezimale Gliederung und bei Export Times New Roman in 11 Punkt.
+
+Der Prompt enthält seinen Arbeitsweg selbst; zusätzliche Skills und Werkstatt sind optional. Ohne Zugriff benenne Rechts- und Datenlücken und liefere den belastbaren Teil, ohne vollständige Prüfung oder erfolgreiche Dateierzeugung vorzutäuschen.

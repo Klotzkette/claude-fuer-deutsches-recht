@@ -3,52 +3,47 @@ name: workflow-kaltstart-und-routing
 description: "Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzforderungsanmeldungsprüfung."
 ---
 
-# Kaltstart und Routing
+# 1. Forderungsanmeldung bearbeiten
 
-## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+Prüfe die konkrete Anmeldung aus der erkennbaren Gläubiger-, Schuldner- oder Verwaltungssicht. Bearbeite die bestellte Forderungsprüfung, Berechnung oder Erklärung weiter, statt nur einen anderen Skill vorzuschlagen.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## 1.1. Vorhandene Daten
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+Lies Anmeldung, Eröffnungsbeschluss, Belege, Titel und bisherigen Tabellenstand zuerst. Entnimm ihnen Verfahren, Rolle, Eröffnung, Frist, Prüfungstermin und gewünschten Bearbeitungsschritt. Bei fehlender entscheidender Angabe gezielt fragen; eine bereits bekannte Forderung nicht erneut aufnehmen.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## 1.2. Forderung einordnen
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+Prüfe Grund, Betrag und Gläubigerzuordnung nach Paragrafen 174 bis 177 InsO. Die Anmeldung richtet sich nach Paragraf 174 an den Insolvenzverwalter; tatsächlichen Übermittlungsweg und dessen Vorgaben beachten. Bei Verwaltungsauftrag Prüfung und Tabellenvorbereitung nach Paragrafen 175 und 176 InsO von einer bereits erfolgten Feststellung trennen.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+Nach Anspruchsgrund und Verfahrensbezug unterscheiden:
 
-## Routing-Weichen Forderungsanmeldung
-- **Rolle des Mandanten?**
-  - Gläubiger meldet an: §§ 174–177 InsO, formgerecht (Schriftsatz oder Online-Portal, je nach Gericht).
-  - Insolvenzverwalter prüft: §§ 175, 176 InsO Tabellenprüfung, Bestreiten Grund oder Rang.
-  - Schuldner bestreitet: § 178 Abs. 1 S. 2 InsO — wirkt nur gegen Vollstreckung nach Verfahrensaufhebung § 201 Abs. 2 InsO.
-- **Rangordnung sofort klären:**
-  - **Aussonderung** §§ 47 InsO: Eigentum, EV-Vorbehalt — kein Anmelden nötig, aber Geltendmachung gegen Verwalter.
-  - **Absonderung** §§ 49–52 InsO: Sicherungseigentum, Pfandrecht, Grundpfandrecht — nachrangige Anmeldung des Ausfalls (§ 52 InsO).
-  - **Masseverbindlichkeit** § 55 InsO: nach Verfahrenseröffnung entstandene Verbindlichkeiten — keine Anmeldung, direkter Anspruch gegen Verwalter.
-  - **Insolvenzforderung** § 38 InsO: einfach quotal — Standardanmeldung.
-  - **Nachrangige Forderung** § 39 InsO: Zinsen, Geldstrafen, Gesellschafterdarlehen § 39 Abs. 1 Nr. 5 InsO — nur auf besondere Aufforderung des Gerichts (§ 174 Abs. 3 InsO).
-- **Vorrechte / Insolvenzgeld?**
-  - Insolvenzgeld § 165 SGB III: Bundesagentur tritt in Lohnforderungen ein (3 Monate vor Eröffnung).
-  - Steuer/Sozialversicherung: kein Vorrecht im deutschen Recht — einfache Insolvenzforderung.
+- Insolvenzforderung nach Paragraf 38 InsO und Nachrang nach Paragraf 39 InsO; nachrangige Anmeldung nur bei besonderer gerichtlicher Aufforderung nach Paragraf 174 Absatz 3.
+- Aussonderung nach Paragraf 47 InsO und Absonderung nach Paragrafen 49 bis 52 InsO. Eigentum, Eigentumsvorbehalt, Pfandrecht oder Sicherungseigentum konkret prüfen. Eine Ausfallforderung nach Paragraf 52 ist nicht allein wegen der Sicherheit nachrangig.
+- Masseverbindlichkeit nach Paragraf 55 InsO anhand ihrer Entstehungsvoraussetzungen; ein Rechnungsdatum nach Eröffnung genügt nicht als Einordnung.
+- Bei Arbeitsentgelt Insolvenzgeld nach Paragraf 165 SGB III und möglichen Forderungsübergang gesondert prüfen. Steuer- oder Sozialversicherungsforderungen nicht pauschal nach Gläubigerart privilegieren oder ohne Entstehungsprüfung einordnen.
 
-## Eilige Trigger
-- **Anmeldefrist** § 28 InsO (Beschluss legt Frist fest, regelmäßig 4–6 Wochen): nach Ablauf ist Anmeldung als nachträgliche Anmeldung § 177 InsO möglich, Sondertermin erforderlich.
-- **Prüfungstermin** § 176 InsO: vor diesem Termin sollte Anmeldung vorliegen.
+## 1.3. Beleglücke und Fortsetzung
+
+Fehlen Leistung oder Zahlung zu einer bestimmten Position, genau diesen Nachweis anfordern. Nach Antwort Forderungsgrund und Einwendungen prüfen, Teilzahlung zuordnen, Zinsen und Gesamtsumme aktualisieren und das bestellte Schreiben beziehungsweise die Prüfempfehlung abschließen.
+
+Bei Widerspruch Titelstatus und widersprechende Person bestimmen. Schuldnerwiderspruch nach Paragraf 178 Absatz 1 Satz 2 und Paragraf 184 InsO von Verwalterbestreiten unterscheiden; spätere Vollstreckung nach Paragraf 201 Absatz 2 gesondert prüfen. Nach Eingang eines fehlenden Titels Betreibungslast und Frist neu beurteilen, nicht ungeprüft stets dem Gläubiger eine neue Klage aufgeben.
+
+Weitere Rückfragen sind bei neuen entscheidenden Lücken zulässig, bereits geklärte Angaben nicht wiederholen. Bearbeitbare Teile vorläufig liefern; fehlende Unterlagen nicht durch behauptete Tatsachen ersetzen.
+
+## 1.4. Fristen und Quellen
+
+Anmeldefrist aus dem Beschluss nach Paragraf 28 InsO übernehmen, keine pauschale Wochenzahl einsetzen. Bei späterer Anmeldung Paragraf 177 prüfen: besonderer Termin und schriftliches Verfahren unterscheiden, nicht automatisch einen Sondertermin behaupten. Prüfungstermin nach Paragraf 176 und andere Nachweis- oder Ausschlussfristen getrennt behandeln.
+
+Amtliche Normen vor Verwendung prüfen; die Einordnung von Anmeldung, Ausfall und nachträglicher Prüfung stützt sich auf [Paragraf 174](https://www.gesetze-im-internet.de/inso/__174.html), [Paragraf 52](https://www.gesetze-im-internet.de/inso/__52.html) und [Paragraf 177 InsO](https://www.gesetze-im-internet.de/inso/__177.html). Entscheidungen nur mit überprüftem Gericht, Datum, Aktenzeichen und Aussagegehalt; keine Literaturfundstellen aus Modellwissen. Optional ergänzt `references/zitierweise.md` die Zitierweise.
+
+## 1.5. Ergebnis
+
+Liefere die bestellte Anmeldung, nachvollziehbare Rechnung, Prüfempfehlung oder Gläubigerantwort in vollständigen Sätzen. Keine verpflichtende Ampel oder allgemeine Aufgabenmatrix, kein ungefragter Klageentwurf bei Beratungsauftrag. Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz halten, Nutzerdateinamen beachten.
+
+Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung; bei Text einen getrennten Exporthinweis geben. Anmeldung, Bestreiten, Anerkennung, Tabellenänderung, Zahlung und Versand nur nach ausdrücklicher Freigabe.
+
+## 1.6. Beispiel
+
+Eine Anmeldung enthält zwei Rechnungen und eine nicht zugeordnete Gutschrift. Frage nach dem zugehörigen Geschäft, prüfe die Antwort gegen die Belege und berichtige nur die betroffenen Beträge und Zinsen. Danach die verlangte Prüfempfehlung und gegebenenfalls Gläubigerantwort vollständig schreiben.
+
+Ohne zusätzliche Skills anhand dieses Ablaufs weiterarbeiten. Nicht lesbare Unterlagen und fehlenden Quellenzugriff konkret benennen; ohne Export vollständigen Text liefern.

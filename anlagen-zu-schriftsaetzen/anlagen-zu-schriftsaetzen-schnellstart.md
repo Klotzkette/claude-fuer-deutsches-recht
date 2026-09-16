@@ -4,15 +4,15 @@ Lies Nutzersachverhalt, Schriftsatz und vorhandene Anlagen zuerst. Führe den ko
 
 ## 1. Auftrag
 
-Lies den Schriftsatz, ordne genannte Anlagen anhand von Name, Format, Größe und Datum zu und öffne sie in Nummernfolge. Führe die Matrix fort; frage nur bei offenem Nummernkreis, Frist, Gericht oder Signaturweg.
+Lies Schriftsatz und Anlagen in Nummernfolge, führe ihre Zuordnung fort. Kläre entscheidende Lücken: fehlende Belege, widersprüchliche Fassungen, Nummernkreis, Frist, Gericht oder Signaturweg. Nur die betroffene Freigabe offenlassen.
 
 Versende niemals selbst. Das Endprodukt ist so vorbereitet, dass der verantwortliche Anwalt es nach eigener Schlussprüfung elektronisch versenden kann.
 
-## 2. Sofortausgabe
+## 2. Produktionsumfang
 
-Ohne konkreten Produktionsauftrag genügen zunächst Schriftsatzstand, Rolle, Gericht, Aktenzeichen, Frist, Anlagenzahl, Nummernlücke, Namensprofil und Stop-Punkt. Sonst direkt den verlangten Produktionsschritt ausführen.
+Entnimm den Produktionsumfang dem Auftrag und den Dateien. Fehlt etwa eine zitierte Rechnung, fordere sie mit Anlagenzeichen und Schriftsatzstelle an. Bearbeite die übrigen Dateien weiter. Nach Eingang gleiche Betrag und Datum ab und ergänze Verzeichnis, Stempel und Manifest. Neue entscheidende Widersprüche gezielt klären, beantwortete Fragen nicht wiederholen; bis zur Klärung nur die betroffene Freigabe offenlassen.
 
-Danach diese Matrix ausfüllen:
+Für den internen Abgleich kann diese Tabelle dienen; ausgeben nur bei Bedarf:
 
 | Position | Schriftsatzstelle | Datei | Beweisthema | Nummer | PDF/Stempel | Status |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -35,7 +35,7 @@ Ordne jede Datei genau einer Anlagenreferenz oder einer begründeten internen Ka
 - Beklagter: `B`.
 - Antragsteller oder Antragsgegner: erkennbare gerichtliche oder kanzleiinterne `AST`- oder `AG`-Logik.
 
-Replik, Duplik und weiterer Schriftsatz setzen den bisherigen Nummernkreis fort. Beginne nicht wieder bei 1. Bei fehlender Vorakte nur diese eine Weiche erfragen.
+Replik, Duplik und weiterer Schriftsatz setzen den bisherigen Nummernkreis fort. Beginne nicht wieder bei 1. Fehlt die Vorakte, fordere das letzte Anlagenverzeichnis an und prüfe danach die fortgesetzte Reihe.
 
 ### 3.4. PDF erzeugen
 
@@ -74,7 +74,7 @@ Paragraf 130a Absatz 5 ZPO knüpft den Eingang an die Speicherung auf der gerich
 
 ZPO Paragraf 130a Absatz 6 betrifft ein eingegangenes, aber technisch ungeeignetes Dokument. Die Ersatzeinreichung bei vorübergehender technischer Unmöglichkeit steht in [Paragraf 130d ZPO](https://www.gesetze-im-internet.de/zpo/__130d.html). Halte Fehlerzeit, betroffene Funktion, Fehlermeldung und Versuche fest. Keine Ersatzübermittlung allein aus einem unspezifischen Fehlerhinweis freigeben. Fallbezogene Rechtsprechung nur nach amtlicher Verifikation hinzunehmen.
 
-## 5. Stop-Ampel
+## 5. Freigabehindernisse
 
 Stoppe die Freigabe bei ungeklärter Frist oder Gericht, nicht finalem Hauptdokument, falschem Signaturweg, fehlender oder unleserlicher Anlage, widersprüchlichem Nummernkreis, aktivem PDF-Inhalt, verschlüsselter Datei oder nicht kontrollierter Konvertierung.
 
@@ -92,6 +92,6 @@ intern/
   Preflight-Bericht.md, Freigabevermerk.md, Eingangskontrolle.md
 ```
 
-Der interne Ordner wird nicht mitgesendet. Beende mit Stop-Liste oder ausformuliertem Freigabevermerk, gewähltem Signaturweg und genauer Eingangskontrolle.
+Den internen Ordner nicht mitsenden. Liefere die bestellten Dateien und den Freigabevermerk. Fehlende Stücke benennen und nach Eingang zur kontrollierten Endfassung weiterarbeiten. Ein Prüfauftrag löst keine Endproduktion aus.
 
 Optional vertieft [Schriftsatz-Anlagen-Mapping](skills/schriftsatz-anlagen-mapping/SKILL.md) die Zuordnung; ohne diese Datei genügt die Arbeitsfolge oben. Vermerke in vollständigen Sätzen mit dezimaler Gliederung und Leerzeilen ausgeben; Times New Roman 11 pt verwenden oder als Exporthinweis nennen. Tabellen dürfen für lesbare Spalten abweichen.

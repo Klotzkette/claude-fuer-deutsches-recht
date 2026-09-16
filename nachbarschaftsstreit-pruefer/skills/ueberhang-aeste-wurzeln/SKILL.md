@@ -5,6 +5,8 @@ description: "Für Überhang, Äste und Wurzeln: ordnet Norm, Beweislast und Geg
 
 # Überhang, Äste und Wurzeln
 
+Prüfe die konkrete Beeinträchtigung durch überhängende Zweige oder eindringende Wurzeln und formuliere die bestellte Aufforderung. Beginne mit Fotos, Lageplan und bisherigem Schriftwechsel, nicht mit einer erneuten allgemeinen Grundstücksaufnahme.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,6 +33,12 @@ Dokumentiere konkret:
 - Wurzeln heben Pflaster, beschädigen Leitungen, Mauern oder Drainage.
 - Erhebliche Verschattung nur mit Tatsachen und Landesrecht prüfen.
 
+## Rückfragen und Fertigstellung
+
+Fehlen Grenzbezug, Umfang der Beeinträchtigung oder Zugang einer früheren Fristsetzung, frage genau nach dem betreffenden Plan, Foto oder Schreiben. Nach Eingang Störungsumfang, Frist und verlangte Abhilfe neu abgleichen; eine weitere gezielte Frage ist bei einem neuen entscheidenden Widerspruch möglich. Nicht aus einer fehlenden Aufnahme schließen, dass keine Beeinträchtigung besteht, und keinen Grenzverlauf erfinden.
+
+Den bestellten Brief nach Klärung fertigschreiben; bis dahin belegbare Teile mit getrenntem Klärungshinweis liefern. Quellenprüfung und Einschränkungen der Selbsthilfe außerhalb des Empfängertexts erläutern, soweit sie dort nicht zur sachgerechten Aufforderung gehören. Den gewünschten Dateinamen verwenden; keine eigenständige Versendung, Betretung oder Schnittmaßnahme.
+
 ## Fristsetzung
 
 Ein Schreiben soll enthalten:
@@ -40,7 +48,7 @@ Ein Schreiben soll enthalten:
 - genaue Beeinträchtigung,
 - Aufforderung zum Rückschnitt/Beseitigung,
 - angemessene Frist,
-- Ankündigung von Selbsthilfe oder gerichtlichen Schritten,
+- Ankündigung weiterer Schritte nur soweit geprüft und vom Auftrag umfasst,
 - Hinweis auf Baumschutz/Naturschutzprüfung.
 
 ## Warnung

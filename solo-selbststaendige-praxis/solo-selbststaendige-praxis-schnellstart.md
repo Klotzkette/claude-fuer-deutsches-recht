@@ -1,6 +1,8 @@
 # 1. Solo-Selbstständige: Schnellstart
 
-Löse den konkreten betrieblichen Vorgang in verständlicher Sprache. Lies Angebot, Auftrag, Rechnung, Leistungsnachweis, Reklamation oder Behördenpost zuerst. Beginne bei einer offenen Rechnung nicht mit einem vollständigen Gründungsinterview. Liefere das verlangte Angebot, Antwortschreiben, Forderungsblatt oder den Liquiditätsplan.
+Löse den konkreten betrieblichen Vorgang in verständlicher Sprache und liefere das bestellte Angebot, Antwortschreiben oder den Liquiditätsplan. Eine offene Rechnung verlangt kein vollständiges Gründungsinterview.
+
+Lies Angebot, Auftrag, Rechnung, Leistungsnachweis, Reklamation oder Behördenpost zuerst. Übernimm bekannte Preise, Rollen und Termine aus den Unterlagen.
 
 ## 1.1. Tätigkeit und Auftrag
 
@@ -14,7 +16,7 @@ Ordne vereinbarten Umfang, gelieferte Fassung, Abnahme, Änderungswunsch und ger
 
 Beim Werkvertrag knüpft Paragraf 641 BGB die Vergütungsfälligkeit grundsätzlich an die Abnahme. Bei bestehendem Mangelbeseitigungsanspruch kann nach Absatz 3 ein angemessener Teil zurückbehalten werden, regelmäßig das Doppelte der erforderlichen Beseitigungskosten. Nicht jede Reklamation rechtfertigt die Einbehaltung der gesamten Rechnung. Quelle: https://www.gesetze-im-internet.de/bgb/__641.html
 
-Erstelle „Rechnungsposition / Vertragsgrund / Leistungsbeleg / Einwand / unstreitiger Betrag / streitiger Betrag / nächster Schritt“. Teilzahlungen mit Datum und Zuordnung abziehen. Verzug und Zinsen erst nach Prüfung von Fälligkeit, Mahnung oder einschlägiger Ausnahme berechnen.
+Ordne den Rechnungspositionen Vertragsgrund, Leistungsbeleg, Einwand und streitigen beziehungsweise unstreitigen Betrag zu; eine Tabelle nur bei Bedarf ausgeben. Teilzahlungen mit Datum und Zuordnung abziehen. Verzug und Zinsen erst nach Prüfung von Fälligkeit, Mahnung oder einschlägiger Ausnahme berechnen.
 
 ## 1.3. Praktische Betriebsfolge
 
@@ -24,7 +26,11 @@ Bei Liquiditätsengpass verfügbare Mittel, sichere Eingänge, unsichere Forderu
 
 ## 1.4. Ergebnis und Grenzen
 
-Liefere eine kurze Einordnung, einen vollständig formulierten Kundentext und eine konkrete nächste Handlung mit Datum oder offenem Termin. Keine Mahnung, Vertragsannahme, Steueranmeldung oder Zahlung selbst auslösen. Eine gebündelte Rückfrage nur für den nächsten entscheidenden Punkt; die übrigen Teile weiterbearbeiten.
+Fehlt die vereinbarte Leistungsbeschreibung, frage nach dem Angebot oder der konkreten Chatstelle. Bei einer Teilzahlung fordere Datum und Zuordnung an. Die belegten Teile des Entwurfs bereits ausarbeiten; eine vorhandene Rechnung beweist nicht schon die vollständige Leistung.
+
+Nach Eingang aktualisiere Leistungsumfang, Streitbetrag und gegebenenfalls Zinsen und schreibe das bestellte Dokument fertig. Neue entscheidende Lücken kurz und gezielt klären, ohne bekannte Angaben erneut abzufragen. Bei einem Liquiditätsauftrag genügt der begründete Plan; kein ungefragter Mahn- oder Klageentwurf.
+
+Liefere das verlangte Angebot, Schreiben oder Rechenergebnis vollständig unter dem gewünschten Dateinamen. Hinweise auf offene Steuer- oder Statusprüfung und technische Quellenvermerke gehören in eine separate Notiz, nicht in den Kundentext. Keine Mahnung, Vertragsannahme, Steueranmeldung oder Zahlung selbst auslösen.
 
 Quellen mit aktueller Normfassung belegen, Entscheidungen nur tatsächlich verifiziert zitieren. Unbekannte Steuer- oder Statusfolgen sichtbar lassen und gezielte fachliche Prüfung benennen, nicht jede Alltagsfrage an eine Vollberatung verweisen.
 

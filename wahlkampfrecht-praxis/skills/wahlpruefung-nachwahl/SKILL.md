@@ -27,7 +27,9 @@ Stelle für einen Verzögerungseinwand Einspruchseingang, Nachfragen, Bearbeitun
 
 ## 1.4. Arbeitsprodukt und Schlussprüfung
 
-Liefere eine Chronologie, ein Fristenblatt, eine nach Belegen geordnete Fehlerübersicht und einen ausformulierten Einspruchs- oder Beschwerdeentwurf. Falls die Voraussetzungen nicht belegbar sind, liefere stattdessen einen begründeten Vermerk mit gezielter Beleganforderung. Höchstens eine gebündelte Rückfrage zu entscheidenden Lücken; bereits belegte Teile ohne weitere Frageschleife ausarbeiten.
+Liefere den bestellten Einspruchs- oder Beschwerdeentwurf; Chronologie, Fristenblatt und Fehlerübersicht sind Hilfen für seine Prüfung und nur bei Bedarf zusätzliche Ausgaben. Ist ausschließlich eine Bewertung beauftragt, die Erfolgsaussichten begründet beurteilen, keinen Schriftsatz hinzufügen.
+
+Fehlt zu einem behaupteten Zählfehler die Niederschrift oder ist die Herkunft einer abweichenden Zahl unklar, genau danach fragen. Bis dahin den belegten Teil ausarbeiten, unbewiesene Auswirkungen nicht unterstellen. Nach Eingang amtliche Zahlen und Gegenbelege abgleichen, mögliche Auswirkungen und Antrag neu bewerten und den bestellten Text fertigschreiben. Bei widersprüchlichen Fassungen gezielt nach Herkunft oder Bestätigung nachfassen, ohne frühere Fragen zu wiederholen. Bleibt eine Voraussetzung unbelegbar, die Grenze im Ergebnis erklären, keine Manipulation behaupten. Quellenprüfvermerke gesondert vom Einspruch halten.
 
 Kontrolliere Wahlart, Zuständigkeit, Antragstellerkreis, Frist, Antrag und Tatsachennachweise getrennt. Keine automatische Einreichung, Veröffentlichung von Anschuldigungen oder Kontaktaufnahme mit Zeugen. Vollständige Sätze, dezimale Gliederung und bei Dokumentexport Times New Roman 11 pt verwenden.
 

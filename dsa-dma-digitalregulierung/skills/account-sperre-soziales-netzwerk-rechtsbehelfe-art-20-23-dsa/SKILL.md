@@ -7,9 +7,9 @@ description: "Prüft Kontosperre, Inhaltsentfernung, Reichweiten- oder Monetaris
 
 ## Direktauftrag
 
-Bearbeite Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA entlang der Digitale Plattformregulierung-Prüflinie: Vorgang: Meldung, Sperre, Ranking, Werbung, Empfehlungssystem, Händlernachverfolgung, Beschwerde oder behördliche Maßnahme erfassen. Arbeite die für diesen Gegenstand entscheidende Fachstation aus: Vorgang: Meldung, Sperre, Ranking, Werbung, Empfehlungssystem, Händlernachverfolgung, Beschwerde oder behördliche Maßnahme erfassen Maßgebliche Kontrollfrage: Welche konkrete technische und wirtschaftliche Funktion übt der Dienst aus.
+Prüfe die Kontosperre oder Inhaltsbeschränkung anhand der Plattformentscheidung, des betroffenen Inhalts und der Nutzungsbedingungen. Verfasse die bestellte interne Beschwerde, Beratung oder gerichtliche Antragsschrift; ein Beratungsauftrag berechtigt nicht zum Wechsel in ein Gerichtsverfahren.
 
-- Start: Vorhandene Dateien zuerst lesen und gesicherte Angaben übernehmen. Im Arbeitsmodus `Fallbearbeitung` unmittelbar mit dem Arbeitsprodukt beginnen: Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA-Prüfvermerk mit Ergebnis, Gegenposition, Beleglücken und nächstem Schritt.
+- Start: Vorhandene Dateien zuerst lesen und gesicherte Angaben übernehmen. Fehlen die vollständige Sperrmitteilung oder der beanstandete Beitrag samt Kontext, gezielt danach fragen. Nach Eingang die Sperrbegründung und die Gegenargumente aktualisieren und das bestellte Dokument fertigschreiben. Eine neue entscheidende Unklarheit darf eine weitere kurze Rückfrage auslösen; keine erneute Aufnahme bereits geklärter Angaben.
 - Tatbestand und Beweis: Ordne jedem entscheidungserheblichen Merkmal einen Aktenfund oder eine ausdrücklich bezeichnete Lücke zu; bloße Plausibilität ersetzt weder Vortrag noch Beweis.
 - Kernnormen: DSA Artikel 3 bis Artikel 6: Rollen, Vermittlungsdienste und Haftungsprivilegien nach Dienstetyp. DSA Artikel 20 bis Artikel 23: internes Beschwerdesystem, außergerichtliche Streitbeilegung, vertrauenswürdige Hinweisgeber und Missbrauchsschutz.
 - Rechtsprechung: EuGH, Urteil vom 12.07.2011 - C-324/09: L'Oréal gegen eBay betrifft die frühere unionsrechtliche Haftungs- und Unterlassungsordnung für Online-Marktplätze; die Aussage ist bei heutigen Fällen mit dem DSA abzugleichen.
@@ -79,14 +79,14 @@ Nutzer wird auf einer Online-Plattform gesperrt (Account-Sperre, Schattensperre,
 5. **Schadensersatz** bei nachweisbarem Vermögensschaden (entgangene Einnahmen, Folgeschäden); Geldentschädigung wegen Persönlichkeitsrechtsverletzung möglich, aber Hürden hoch
 6. **Erstattung** außergerichtlicher Rechtsanwaltskosten
 
-## Praktischer Mandantenfahrplan
+## Bearbeitung nach Auftrag und Verfahrensstand
 
 1. **Beweissicherung**: Screenshots, E-Mails, Sperrmitteilung, betroffene Beiträge archiviert (Wayback / lokale Speicherung)
 2. **Begründung anfordern** (falls nicht ausreichend nach Art. 17)
-3. **Interne Beschwerde** einlegen (Art. 20) — Frist und Inhalt dokumentieren
-4. **Parallele DSGVO-Auskunft** Art. 15 zu Sperrgrund und Profiling
-5. Bei Eilbedürftigkeit: **Eilantrag** vorbereiten; ADR-Schritt darf nicht vorausgesetzt werden, weil DSA Eilrechtsschutz nicht ausschließt
-6. ADR-Verfahren oder Klage je nach Aussicht und wirtschaftlichem Volumen
+3. Interne Beschwerde nach Art. 20 bei entsprechendem Auftrag ausformulieren; Frist und Inhalt dokumentieren. Eine tatsächliche Einreichung setzt Freigabe voraus.
+4. Prüfen, ob eine gesonderte DSGVO-Auskunft nach Art. 15 zu Sperrgrund und Profiling dem Ziel dient; nicht automatisch ein weiteres Verfahren beginnen.
+5. Bei Eilbedürftigkeit den konkreten drohenden Nachteil ermitteln und im beauftragten Eilantrag verarbeiten; ADR-Schritt darf nicht vorausgesetzt werden, weil DSA Eilrechtsschutz nicht ausschließt.
+6. ADR-Verfahren oder Klage anhand von Aussicht, wirtschaftlichem Volumen und Auftrag beurteilen. Geht eine Antwort der Plattform ein, deren Gründe mit den Belegen abgleichen und die betroffene Argumentation bis zur Endfassung überarbeiten. Bei fehlendem Nachweis nur die betroffenen Teile vorläufig lassen, nicht das gesamte Mandat abbrechen.
 
 ## Sonderfälle
 
@@ -138,12 +138,12 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ## Output-Template — Account-Sperre-Mandat
 
-**Adressat:** Gericht / Plattform — Tonfall: sachlich-juristisch
+Dieses Gerüst gilt nur für eine beauftragte gerichtliche Antragsschrift. Für eine interne Beschwerde die konkrete Entscheidung, den beanstandeten Inhalt, die Gründe gegen die Beschränkung und das verlangte Abhilfeziel in einem vollständigen Schreiben an die Plattform darstellen. Quellenprüfvermerke und technische Zugriffshinweise getrennt halten; weder das Gerüst noch bloße Stichworte sind ein Endprodukt.
 
 ```
 Verfügungsantrag / Klage wegen Account-Sperre [DATUM]
 Antragsteller/Klaeger: [NAME MANDANT, ANSCHRIFT]
-Antragsgegnerin/Beklagte: [PLATTFORM, EU-VERTRETER]
+Antragsgegnerin/Beklagte: [GEPRÜFTE VERTRAGSPARTEI, ANSCHRIFT]
 Az.: [AKTENZEICHEN]
 
 Sachverhalt:
@@ -162,9 +162,9 @@ Antrag: Wiederherstellung des Accounts / Inhalts unverzüglich
 Streitwert: [BETRAG EUR]
 ```
 
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+Vor Fertigstellung nur noch offene entscheidende Punkte klären:
+1. Wird die Wiederherstellung des Kontos, eines bestimmten Beitrags oder der Monetarisierung verlangt?
+2. Welche konkreten Nachteile und Zeitabläufe sind für eine behauptete Eilbedürftigkeit belegt?
+3. Ist nur die interne Beschwerde oder bereits ein gerichtlicher Entwurf beauftragt? Vorhandene Antworten übernehmen; Versand und Einreichung gesondert freigeben lassen.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -1,8 +1,8 @@
 # 1. System-Governance: Schnellstart
 
-Lies Systeminventar, Freigaben und Vorfallunterlagen gezielt. Bei einem Vorfall zuerst Kenntniszeitpunkt, betroffene Daten, fortdauernden Zugriff und zuständige Person erfassen; nicht vorher das gesamte Inventar neu aufbauen. Ohne Material höchstens eine gebündelte Frage. Bei Folgeaufträgen nur veränderte Funktionen und Fassungen neu prüfen. Dieser Prompt ist eigenständig; weitere Skills oder die Werkstatt sind optional. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen. Nach einem begründeten Ersatzversuch den belegten Teilstand liefern, keine erfolgreiche Prüfung oder Dateierzeugung vortäuschen.
+Erstelle für den konkreten KI-Einsatz die bestellte Betriebsentscheidung, Richtlinie, Vertragsfassung oder Vorfallantwort. Nutze vorhandenes Inventar, Anbieterunterlagen und bisherige Antworten, statt eine Gesamtinventur vorzuschalten.
 
-Überführe einen konkreten Einsatz in eine belastbare Betriebsentscheidung. Nutze Inventar, Anbieterunterlagen, Richtlinie und Vorfallvermerk. Rechtsstand: 10. September 2026. Keine Gesamtinventur vor einem bestimmten Freigabe- oder Krisenauftrag.
+Lies Systeminventar, Freigaben und Vorfallunterlagen auftragsbezogen. Bei einem Vorfall zuerst Kenntniszeitpunkt, betroffene Daten, fortdauernden Zugriff und zuständige Person erfassen. Frage nur nach entscheidenden fehlenden Angaben; bei Folgeaufträgen veränderte Funktionen und Fassungen prüfen. Die folgende Rechtsstanddarstellung bleibt auf dem Stand vom 10. September 2026; tragende Fragen vor Verwendung aktuell verifizieren.
 
 ## 1.1. Verantwortung und Entscheidung
 
@@ -34,10 +34,18 @@ Eine meldepflichtige Datenpanne bleibt nach [Artikel 33 der Datenschutz-Grundver
 
 ## 1.6. Ergebnis und Quellen
 
-Jede Maßnahme mit Risiko, Verantwortlichem, Beleg und Termin verbinden. Einen nutzbaren Beschluss samt Freigabegrenze schreiben, keine bloße Ampel. Folgewünsche am geänderten Systemteil bearbeiten. Quellen für unveränderte Fragen weiterverwenden.
+Jede Maßnahme mit Risiko, Verantwortlichem, Beleg und Termin verbinden. Das bestellte Dokument unter der Nutzerbenennung vollständig ausformulieren, keine bloße Ampel liefern. Folgewünsche am geänderten Systemteil bearbeiten. Quellen für unveränderte Fragen weiterverwenden; Quellenstatus und technische Prüfgrenzen in einer getrennten Arbeitsnotiz halten, nicht im Mandantenbrief.
 
 [Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html), [Datenschutz-Reformverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29). Ältere Datenschutzurteile sind keine Auslegung des neuen Artikels 4a. Vollständige Sätze, dezimale Gliederung, Times New Roman 11 pt.
 
-## 1.7. Freigabestopp ohne Bearbeitungsstillstand
+## 1.7. Nachweise ergänzen und Endfassung schreiben
 
-Freigabestopp bei ungeklärtem Verbot, fehlender Eingriffsbefugnis oder ungedecktem Datenweg. Den Managemententwurf mit konkreter Bedingung und Verantwortlichem weiterbearbeiten; kein vollständiger Neustart des Inventars. Keine eigenmächtige Meldung, Systemabschaltung oder Datenoffenlegung.
+Fehlen Eingriffsbefugnis oder konkrete Bedienmöglichkeit der Aufsicht, gezielt danach fragen. Nach Antwort Aufsichtsregel, Freigabebedingung und bestellte Arbeitsanweisung aktualisieren. Bei fehlender Anbieterinformation zu Zweck oder Änderung die betroffene Klausel benennen; nach Eingang Rolle und Pflicht prüfen und Vertragsfassung beziehungsweise Beschluss fertigstellen.
+
+Bei einem Vorfall fehlende Zugriffszeiten oder Datenkategorien gezielt nachfordern. Nach Antwort Chronologie, Risiko und Meldungsentwurf aktualisieren, ohne auf ein vollständiges Audit zu warten. Neue entscheidende Widersprüche erlauben weitere kurze Fragen; bereits Beantwortetes nicht erneut erheben. Belastbare Teile vorläufig liefern und offene Tatsachen nicht als bestätigt ausgeben.
+
+## 1.8. Freigabestopp ohne Bearbeitungsstillstand
+
+Freigabestopp bei ungeklärtem Verbot, fehlender Eingriffsbefugnis oder ungedecktem Datenweg. Den Managemententwurf mit konkreter Bedingung und Verantwortlichem weiterbearbeiten; kein vollständiger Neustart des Inventars. Keine eigenmächtige Meldung, Systemabschaltung, Versendung oder Datenoffenlegung.
+
+Ohne Werkstatt oder weitere Skills anhand dieses Prompts weiterarbeiten. Fehlenden Datei- oder Quellenzugriff konkret benennen; ohne Export vollständigen Text statt erfundenem Dateilink liefern.

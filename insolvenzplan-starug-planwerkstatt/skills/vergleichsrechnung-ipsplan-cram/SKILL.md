@@ -7,7 +7,9 @@ description: "Für Vergleichsrechnung: entwickelt Ziel, Vergleich und Eskalation
 
 ## Arbeitsbereich
 
-Vergleichsrechnung als Herzstuck des Plans erstellen: Planfall gegen Ohne-Plan-Szenario je Gruppe oder Klasse. §§ 220 229 InsO § 6 Abs. 2 StaRUG Schlechterstellungsverbot. Prüfraster: Masse Kosten Sicherheiten Anfechtung Organhaftung Planmehrwert Quoten je Gruppe Annahmenkennzeichnung. Output: Vergleichsrechnung Gruppenquoten Schlechterstellungsampel. Abgrenzung: nicht für integrierte Finanzplanung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstelle die beauftragte Vergleichsrechnung zwischen Planfall und begründetem Ohne-Plan-Szenario je Gruppe oder Klasse. Erläutere Quoten und mögliche Schlechterstellungen anhand der belegten Eingabewerte; eine integrierte Finanzplanung ist nicht Gegenstand dieses Skills.
+
+Prüfe Masse, Kosten, Sicherheiten, Anfechtung, Organhaftung und Planmehrwert und kennzeichne die verwendeten Annahmen. Rechtsanker sind Paragrafen 220 und 229 InsO sowie Paragraf 6 Absatz 2 StaRUG; die jeweilige Aussage ist am konkreten Verfahren zu prüfen.
 
 ## Arbeitsweg
 
@@ -20,7 +22,7 @@ Vergleichsrechnung als Herzstuck des Plans erstellen: Planfall gegen Ohne-Plan-S
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vergleichsrechnung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
+- Ergebnisumfang: Vergleichsrechnung mit Gruppenquoten, Zahlungszeitpunkten und begründeter wirtschaftlicher Gegenüberstellung. Liquiditätsstatus, Sicherheiten oder Anfechtungswerte nur insoweit ergänzen, wie sie diese Rechnung tragen; keine weiteren Verfahrensunterlagen ungefragt erstellen.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Startet bei
@@ -35,13 +37,13 @@ Vergleichsrechnung als Herzstuck des Plans erstellen: Planfall gegen Ohne-Plan-S
 1. Planfall und Ohne-Plan-Szenario sauber definieren; bei Fortführungsplan grundsätzlich Fortführung ohne Plan als Vergleich prüfen.
 2. Masse, Kosten, Sicherheiten, Sonderaktiva, Anfechtung, Organhaftung, Steuer und Planbeiträge einbeziehen.
 3. Quoten, Zahlpunkte, Zeitwert, Ausfall, Drittsicherheiten und Planmehrwert je Gruppe oder Klasse berechnen.
-4. Jede Annahme als Quelle, Schätzung oder offene Frage kennzeichnen.
+4. Belegte Werte, Schätzungen und offene Fragen unterscheiden. Fehlt etwa der aktuelle Verwertungswert einer Sicherheit, frage nach Bewertung und Stichtag; berechne davon unabhängige Positionen weiter. Nach Eingang aktualisiere Verteilungsmasse, Gruppenquoten und betroffene Planformulierungen. Neue entscheidende Abweichungen gezielt klären, ohne bereits beantwortete Fragen zu wiederholen.
 
 ## Ausgabe
 
 - Vergleichsrechnung
 - Gruppenquoten
-- Schlechterstellungsampel
+- Begründete Prüfung einer möglichen Schlechterstellung je betroffener Gruppe
 - Planmehrwertverteilung
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
@@ -61,11 +63,11 @@ Vergleichsrechnung als Herzstuck des Plans erstellen: Planfall gegen Ohne-Plan-S
 
 ## Rückfragen
 
-Wenn Angaben fehlen, stelle höchstens acht konkrete Fragen und gruppiere sie nach Zahlen, Recht, Stakeholdern und Verfahren. Bei Eilfällen liefere zuerst eine Minimalroute mit Stoppern.
+Frage nur nach fehlenden Werten oder Prämissen, die Quoten, Zahlungszeitpunkte oder die Vergleichsalternative verändern. Benenne die betroffene Rechenposition und den benötigten Nachweis; ein fehlendes Dokument beweist keinen Wert von null. Bei Eilfällen den belegbaren Teilstand liefern und nach Ergänzung die Rechnung und die bestellte Erläuterung abschließen. Weitergehende Rückfragen sind bei neuen entscheidenden Widersprüchen möglich.
 
 ## Arbeitsstil
 
-Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum eine Information wichtig ist, und macht aus unsortiertem Material einen belastbaren nächsten Arbeitsschritt.
+Erläutere die Rechnung ruhig und präzise mit nachvollziehbaren Zwischenschritten. Liefere das bestellte Dokument mit dem gewünschten Dateinamen; interne Quellenkontrollen gehören in eine getrennte Arbeitsnotiz und nicht als Schlagwörter in ein Gläubigerschreiben. Keine eigenständige Übermittlung, Planvorlage oder Zusage.
 
 ## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 

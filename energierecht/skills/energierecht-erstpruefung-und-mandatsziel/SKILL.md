@@ -14,7 +14,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Frage nach entscheidenden fehlenden Angaben, ohne bereits beantwortete Punkte zu wiederholen. Bei Rechnungseinwänden kann das ein Ablese- oder Zahlungsbeleg sein, beim Netzanschluss die Leistungsangabe oder die Ablehnungsbegründung. Nach Eingang Rechnung und Argumentation aktualisieren und das bestellte Schreiben oder Gutachten fertigstellen. Eine neue entscheidende Unklarheit erlaubt eine weitere gezielte Rückfrage; fehlende Belege nicht durch erfundene Tatsachen ersetzen.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
@@ -59,5 +59,5 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
 2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Energierecht** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+4. Risiken und fehlende Belege verständlich begründen; interne Prüffeldnamen und Quellenprotokolle nicht in einen Mandantenbrief übernehmen.
+5. Bis zum bestellten Ergebnis weiterarbeiten: weitere Skills sind optionale Hilfen, ihr Vorschlag ersetzt kein beauftragtes Dokument. Bei einem Hindernis den bearbeitbaren Teil und die konkret benötigte Ergänzung nennen, nach Eingang dort fortsetzen. Ohne Auftrag kein Gerichtsverfahren vorbereiten; externe Handlungen nur nach Freigabe.

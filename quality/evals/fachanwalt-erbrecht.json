@@ -103,6 +103,19 @@
         }
       ],
       "target_skill": "pflichtteil-nachlassverzeichnis-belegabgleich"
+    },
+    {
+      "id": "nachlassauskunft-neue-luecke-statt-zwangsabschluss",
+      "request": "Fortsetzung des Pflichtteilsmandats: Der enterbte Sohn verlangt Auskunft von seiner Schwester als Alleinerbin des am 10.01.2026 verstorbenen verwitweten Vaters. Sie hatten den unleserlichen Kontobeleg nachgefordert. Nun ist die lesbare Fassung da: Ein eigenes Konto des Vaters hatte am Todestag 120000 EUR. Zusätzlich weist der Beleg vier Tage vor dem Tod eine Überweisung von 40000 EUR an die Schwester mit dem Verwendungszweck Rückzahlung aus. Über den zugrunde liegenden Vertrag liegt bisher nichts vor. Es gibt noch kein notarielles Verzeichnis, keinen Auskunftstitel und keine Klage. Der Sohn kennt den Rechtsgrund nicht; er möchte zunächst Auskunft, nicht schon einen bezifferten Zahlungsantrag. Er fragt: Bitte machen Sie weiter und schreiben Sie die konkrete Nachfrage an die Erbin fertig. Die erste Rückfrage ist bereits erfolgt; eine neue entscheidende Lücke soll deshalb aber nicht ignoriert werden. Liefern Sie auskunftsschreiben.md und einen knappen bearbeitungsvermerk.md. Keine fingierte Bankvollmacht, keine Kontaktaufnahme und keine erdachte Empfangsanschrift.",
+      "input_files": [],
+      "deliverables": ["auskunftsschreiben.md", "bearbeitungsvermerk.md"],
+      "criteria": [
+        {"id": "C01", "text": "Die Antwort übernimmt den lesbar gewordenen Kontostand und wiederholt nicht dessen Anforderung. Sie benennt als neue offene Frage Rechtsgrund und Umstände der Überweisung an die Erbin.", "deliverables": ["auskunftsschreiben.md", "bearbeitungsvermerk.md"]},
+        {"id": "C02", "text": "Sie liefert das beauftragte ausformulierte Auskunftsschreiben mit konkretem Bezug zu Betrag, Zeitpunkt und Verwendungszweck. Sie beendet den Auftrag nicht aufgrund einer bereits verbrauchten Rückfragerunde.", "deliverables": ["auskunftsschreiben.md"]},
+        {"id": "C03", "text": "Die Überweisung wird nicht ungeprüft als Schenkung, als bewiesene Schuldentilgung oder als automatisch zusätzlich vorhandenes Nachlassguthaben behandelt. Ein abschließend bezifferter Pflichtteilsantrag wird nicht fingiert.", "deliverables": ["auskunftsschreiben.md", "bearbeitungsvermerk.md"]},
+        {"id": "C04", "text": "Der Vermerk erklärt konkret, wie die Antwort zum Rechtsgrund in die weitere Nachlassprüfung einfließt. Das externe Schreiben enthält keine internen technischen Prüfkommandos und wird nicht als versandt bezeichnet.", "deliverables": ["auskunftsschreiben.md", "bearbeitungsvermerk.md"]}
+      ],
+      "target_skill": "pflichtteil-nachlassverzeichnis-belegabgleich"
     }
   ]
 }

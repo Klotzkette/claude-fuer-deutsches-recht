@@ -3,48 +3,42 @@ name: workflow-kaltstart-und-routing
 description: "Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: gesellschaftsgründer — Gründungsassistent für deutsche."
 ---
 
-# Kaltstart und Routing
+# 1. Gründungsauftrag bearbeiten
 
-## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+## 1.1. Auftrag und Unterlagen
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Bearbeite die gewünschte Gründungsberatung oder Vertragsvorbereitung anhand vorhandener Abreden, Satzungsfassungen und Finanzierungsunterlagen. Entnimm daraus Rechtsform, Beteiligte, Kapital, Geschäftszweck und Gründungsstand; frage geklärte Angaben nicht erneut ab.
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+Eine bloße Frage nach der Rechtsform verlangt keine vollständige Notaraufnahme. Ein bereits bestellter Satzungsentwurf wird dagegen nicht durch eine Empfehlung anderer Skills ersetzt.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## 1.2. Fachlichen Weg bestimmen
 
-## Routing-Cheatsheet Gesellschaftsgründung
+Bei GmbH oder UG Form, Kapital und Anmeldung nach Paragrafen 2, 5, 5a und 7 GmbHG prüfen. Bei GmbH & Co. KG die beiden Gesellschaften und ihre jeweiligen Einlagen, Vertretungen und Registerschritte getrennt behandeln; HGB Paragrafen 161 ff. nicht durch GmbH-Regeln ersetzen.
 
-| Stichwort | Anschluss-Skill | Erste Norm |
-| --- | --- | --- |
-| "Welche Rechtsform?" | `spezial-gruendungsassistent-erstpruefung-und-mandatsziel` + `spezial-rechtsformwahl-behoerden-gericht-und-registerweg` | Haftung, Kapital, Notar |
-| "GmbH gründen" | `spezial-gmbh-fristen-form-und-zustaendigkeit` | Paragraf 5 GmbHG 25.000 EUR, Paragraf 2 GmbHG notariell |
-| "UG (haftungsbeschränkt)" | `spezial-gmbh-fristen-form-und-zustaendigkeit` | Paragraf 5a GmbHG 1 EUR, 25 % Thesaurierung |
-| "GmbH&Co.KG" | `gesellschaftsgruender-kg-und-gmbhcokg` | Paragraf 161 ff. HGB i.V.m. Paragraf 19 GmbHG |
-| "PartG mbB" | `spezial-partg-dokumentenmatrix-und-lueckenliste` | Paragraf 8 Abs. 4 PartGG, Berufshaftpflicht |
-| "Geschäftsführervertrag" | `spezial-geschaeftsfuehrervertrag-livequellen-check` | Paragraf 35 GmbHG i.V.m. Dienstvertrag |
-| "gGmbH gemeinnützig" | `spezial-ggmbh-risikoampel-und-gegenargumente` | Paragraf 51 ff. AO, Mustersatzung |
-| "Transparenzregister" | `gesellschaftsgruender-transparenzregister` | Paragraf 19 ff. GwG |
-| "Online-Gründung DiRUG" | `spezial-gmbh-fristen-form-und-zustaendigkeit` | Paragraf 2 Abs. 3 GmbHG, Sacheinlagen ausgeschlossen |
-| "GbR / eGbR MoPeG" | `spezial-partg-dokumentenmatrix-und-lueckenliste` + `gesellschaftsgruender-kg-und-gmbhcokg` | Paragraf 705 ff., 707 ff. BGB n.F. seit 1.1.2024 |
+Bei GbR oder eGbR BGB Paragrafen 705 ff. und 707 ff., bei PartG mbB Berufsrecht, Versicherung und Paragraf 8 Absatz 4 PartGG prüfen. Bei gGmbH die Gemeinnützigkeitsvoraussetzungen nach Paragrafen 51 ff. AO anhand der Satzung und Tätigkeit untersuchen. Online-Beurkundung nur nach den aktuellen gesetzlichen Voraussetzungen und dem konkreten Urkundengegenstand einplanen.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+Bei Geschäftsführerfragen Organstellung, Vertretung nach Paragraf 35 GmbHG und Dienstvertrag unterscheiden. Bei Transparenzregisterfragen Kontrollverhältnisse und einschlägige GwG-Pflichten prüfen, nicht nur eine Anteilsquote übernehmen.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+## 1.3. Fehlende Entscheidungen klären
+
+Fehlt bei einem Kapitalbetrag der Einzahlungsnachweis, frage nach der konkreten Buchung und Zuordnung. Nach Eingang den offenen Betrag und die Aussage zur Anmeldereife aktualisieren. Fehlt bei einem Sonderstimmrecht die Reichweite, kläre die betroffenen Entscheidungen und passe anschließend die Satzung und erforderlichen Beschlussregeln an.
+
+Neue Antworten können weitere entscheidende Lücken zeigen; dann gezielt nachfragen, ohne feste Fragenzahl und ohne Wiederholung. Angaben und wirksame Vereinbarungen unterscheiden. Bei einem Hindernis bearbeitbare Teile vorläufig liefern und nach Klärung bis zum bestellten Dokument fortsetzen.
+
+## 1.4. Quellen und optionale Fachskills
+
+Normen, Registervorgaben und tragende Entscheidungen anhand zugänglicher amtlicher Quellen prüfen. Entscheidungen nur mit Gericht, Form, Datum, Aktenzeichen und überprüfter Passage; keine Literaturfundstellen aus Modellwissen.
+
+Optional unterstützen `rechtsformwahl`, `gmbh-vorbereitung`, `ug-vorbereitung`, `kg-und-gmbhcokg`, `freiberufler-partg-gbr`, `geschaeftsfuehrervertrag`, `ggmbh-gemeinnuetzigkeit`, `transparenzregister` und `online-gruendung-dirug` den passenden Arbeitsschritt. Die Bearbeitung hängt nicht von ihrer Verfügbarkeit ab.
+
+## 1.5. Ergebnis und Grenzen
+
+Liefere das gewünschte Dokument unter dem vorgegebenen Dateinamen. Eine Beratung enthält Empfehlung und Folgen, ein Vertragsentwurf vollständige Regelungen und eine Notaranfrage geklärte Eckdaten mit konkretem Klärungsbedarf. Keine obligatorische Ampel oder zusätzliche Tabellenserie.
+
+Vollständige Sätze und dezimale Gliederung; formatierte Dokumente in Times New Roman 11 pt, sonst Exporthinweis. Recherchevermerke getrennt vom Empfängertext halten. Externe Erklärungen, Zahlungen und Einreichungen nur nach ausdrücklicher Freigabe.
+
+Ohne Zugriff konkrete Auszüge anfordern und unabhängige Teile weiterbearbeiten. Ohne Export vollständigen Text statt erfundener Dateilinks liefern. Nicht mögliche Prüfungen offenlegen, ohne fehlende Tatsachen zu ergänzen.
+
+## 1.6. Beispiel
+
+Für eine UG liegen Satzungsdaten und ein Kontoauszug vor, doch ein Teil des Kapitals wurde als Darlehen bezeichnet. Kläre die tatsächliche Einlageabrede, prüfe danach die Kapitalaufbringung und vervollständige die beauftragte Notaranfrage. Die Zahlung wird nicht allein wegen ihres Kontoeingangs als Einlage bestätigt.

@@ -19,7 +19,7 @@ Lies Vertrag einschließlich wirksamer Einbeziehung und Fassung der VOB/B, verei
 4. Ordne jeder Ressource je Tag verfügbare, produktive, umgesetzte und unproduktiv bereitgehaltene Kapazität zu. Abrechenbare Tage nicht bloß durch Abzug von Soll- vom Ist-Endtermin bestimmen. Personalkosten auf Ersatzbaustellen und dort gebundene Geräte nicht nochmals als vollständig stillstehend behandeln.
 5. Entwickle die Bemessungsgrundlage aus den auf unproduktiv bereitgehaltene Produktionsmittel entfallenden vereinbarten Vergütungsanteilen. Enthaltene allgemeine Geschäftskosten sowie Wagnis und Gewinn kenntlich machen; keine doppelten Zuschläge. Ersparnisse und anderweitige Verwendung nach Paragraf 642 Absatz 2 BGB berücksichtigen. Tatsächliche Kosten dienen als Beleg und Plausibilisierung, sind aber nicht alleiniger gesetzlicher Maßstab. Die Rechnung bereitet die angemessene Entschädigung vor, ersetzt nicht die gebotene Abwägung.
 6. Sonderliste für erst nach Ende des Annahmeverzugs angefallene Materialpreissteigerungen, Lohnerhöhungen, Beschleunigung und Wiederanlauf bilden. Nicht automatisch nach Paragraf 642 BGB zuschlagen; andere Anspruchsgrundlage mit eigener Pflicht-, Verschuldens- und Kausalitätsprüfung verlangen. Den Nachweis eines konkreten Kostennachteils nicht als zusätzliche Voraussetzung bereits des Anspruchsgrundes behandeln.
-7. Liefere Einzelpositionen als belegt, rechtlich streitig oder nicht quantifizierbar. Keine pauschale 50-Prozent-Quote bei Mitverantwortung. Höchstens eine gebündelte Rückfrage; Teilbewertung, Beleganforderung und Gutachterfragen sofort liefern. Keine Kündigung, Leistungsunterbrechung, Nachtragsbeauftragung oder Einreichung ohne ausdrücklichen Auftrag.
+7. Fehlen Einsatzzeiten, fordere Tagesnachweise der betroffenen Ressourcen an; fehlt die Kalkulation, frage nach den zugehörigen Vergütungsanteilen. Bearbeite die belegten Zeiten und Anspruchswege vorläufig weiter. Nach der Antwort aktualisiere die betroffenen Positionen, prüfe Ersatzbaustellen und Doppelzählungen erneut und passe die bestellte Begründung oder Erwiderung an. Neue entscheidende Widersprüche erlauben weitere kurze Rückfragen, nicht die Wiederholung bekannter Angaben. Führe danach bis zum bestellten Dokument fort. Keine pauschale 50-Prozent-Quote bei Mitverantwortung und keine Kündigung, Leistungsunterbrechung, Nachtragsbeauftragung oder Einreichung ohne ausdrückliche Freigabe.
 
 ## 1.3. Quellenpflicht
 
@@ -30,7 +30,9 @@ Prüfstand 14.09.2026. Optional ergänzt die [Zitierweise](../../references/ziti
 
 ## 1.4. Ausgabeformat
 
-Liefere `ergebnis.md` mit Sachverhalt, Störungszeitachse, Ressourcen- und Rechenmatrix, gesonderten Folgepositionen, Gegenargumenten und ausformulierter Anspruchsbegründung oder Erwiderung. Jede Zeile nennt Tage, Menge, Satz, Herkunft, Abzug und Anspruchsweg. Umsatzsteuer nicht pauschal auf jeden Schadens- oder Entschädigungsbetrag aufschlagen; Behandlung gesondert prüfen.
+Liefere die beauftragte Bewertung oder die vollständige Anspruchsbegründung beziehungsweise Erwiderung unter dem gewünschten Dateinamen; ohne Dateivorgabe nutze `ergebnis.md`. Füge die benötigte Rechnung mit Tagen, Menge, Satz, Herkunft, Abzug und Anspruchsweg bei. Zeit- und Ressourcenübersichten nur soweit sie das Ergebnis nachvollziehbar machen.
+
+Ein Gutachtenauftrag verlangt keinen ungefragten Klageentwurf. Folgepositionen und Gegenargumente getrennt behandeln. Umsatzsteuer nicht pauschal auf jeden Schadens- oder Entschädigungsbetrag aufschlagen; Behandlung gesondert prüfen. Quellenstatus und interne Kontrollschritte in einer getrennten Arbeitsnotiz führen.
 
 Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Skeletten, Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Ohne Exportfunktion vollständigen Text ausgeben.
 

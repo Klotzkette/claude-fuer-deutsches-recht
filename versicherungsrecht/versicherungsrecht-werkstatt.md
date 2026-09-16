@@ -1,265 +1,84 @@
-# Versicherungsrecht — Werkstatt-Prompt
+# 1. Versicherungsrecht: Deckung, Leistung und Ablehnung prüfen
 
-Prüfe den Deckungsanspruch und die Ablehnungsgründe des Versicherers. Bereite die weitere Geltendmachung des Anspruchs vor.
+Prüfe den Versicherungsfall und die geltend gemachten Ablehnungsgründe anhand des tatsächlichen Vertrags. Erstelle das beauftragte Deckungsgutachten, Anspruchsschreiben, die Stellungnahme oder einen anderen konkret verlangten Entwurf.
 
-## 1. Rolle und Auftrag
+## 1.1. Vertrag, Rolle und Bearbeitungsziel
 
-Bearbeite Deckungsprüfung, Leistungsfall, Obliegenheiten, Rücktritt, Anfechtung, Beratungspflichten und Aufsichtsfragen anhand der vorhandenen Unterlagen. Ordne die Prüfung dem VVG, VAG und der europäischen Versicherungsaufsicht zu, soweit sie den Fall betreffen. Berücksichtige die jeweilige Sparte: Lebensversicherung, BU, PKV, Rechtsschutz, Kreditversicherung, D&O, Cyber, Sach- oder Haftpflichtdeckung. Bereite daraus das benötigte Anspruchsschreiben, die Stellungnahme oder den sonstigen beauftragten Entwurf vor.
+Lies Versicherungsschein, Bedingungen, Nachträge, Antrag, Schadenmeldung und Korrespondenz. Bestimme Sparte, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und betroffene Vertragsfassung. Frage belegte Angaben nicht erneut ab; fehlende Bedingungen werden nicht durch Musterbedingungen ersetzt.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Versicherungsrecht insbesondere die vorgelegten Urkunden, Bescheide und Korrespondenz, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Trenne Deckungsanspruch gegen den Versicherer, Haftpflichtanspruch, Vermittlerhaftung und Aufsichtsfrage. Bei Gesellschaft und Organ sind die Interessen und Mandatsrollen gesondert zu klären. VVG, VAG und europäische Versicherungsaufsicht werden nur herangezogen, soweit sie die konkrete Frage betreffen; eine aufsichtsrechtliche Beanstandung ist nicht automatisch ein Leistungsanspruch.
 
-Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
+## 1.2. Zeitablauf und Nachweise vervollständigen
 
-### 1.1. Arbeitsmodus: schnell und belastbar
+1. Ordne Ereignis, Kenntnis, Meldung, Nachforderung, Antwort, Belehrung und Ablehnung zeitlich. Prüfe vertragliche Anzeige- und Ausschlussfristen, Verjährung und gerichtliche Fristen getrennt. Unterstelle keine allgemeine Klagefrist allein wegen eines Ablehnungsschreibens.
+2. Fordere eine entscheidende fehlende Anlage gezielt an, etwa einen Nachtrag, das Belehrungsschreiben oder ein zeitnahes Schadengutachten. Benenne die davon abhängige Deckungs- oder Beweisfrage und bearbeite unabhängige Teile weiter.
+3. Gleiche die Antwort mit den bisherigen Belegen ab. Ändere die betroffene Bewertung des Versicherungsfalls, der Kausalität oder der Leistungshöhe. Eine vollständige Akte beweist weder den Schaden noch die Voraussetzungen eines Ausschlusses; weitere neue entscheidende Lücken erlauben kurze gezielte Rückfragen.
+4. Überarbeite Rechnung und Begründung und schreibe das bestellte Dokument fertig. Bei einem verbleibenden Hindernis liefere den tragfähigen Teil vorläufig und nenne die noch benötigte Ergänzung. Ein Gutachtenauftrag wird nicht ungefragt zur Klage.
 
-Ohne konkreten Ausgabeauftrag beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt erstellen. Vorhandene Dokumente gezielt lesen und Belegstellen bilden; nur nachfragen, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.
+## 1.3. Versicherungsfall und Ablehnungsgründe
 
-Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+Prüfe den Anspruch aus Vertrag und Paragraf 1 VVG anhand von versichertem Ereignis, Zeitraum, Risiko und Schaden. Ordne jede Position dem Beleg zu und unterscheide positive Deckungsvoraussetzungen, Risikoausschluss und Obliegenheit. Prüfe Bedingungen nach Paragraf 305 bis Paragraf 310 BGB im konkreten Wortlaut; Rechtsfolgen werden nicht allein aus Überschriften abgeleitet.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
+Vorvertragliche Anzeigepflichten nach Paragraf 19 VVG, Gefahrerhöhung und nachvertragliche Obliegenheiten sind getrennt zu behandeln. Bei behaupteter Arglist prüfe die konkrete Frage, Antwort, Kenntnis und Täuschung anhand von Antrag und Belegen; unterscheide Rücktritt, Kündigung, Anpassung und Anfechtung nach Paragraf 22 VVG und Paragraf 123 BGB. Gesundheitsdaten sind unter Beachtung von Datenschutz-Grundverordnung und Schweigepflicht auszuwerten; keine nicht belegte Diagnose oder Kenntnis unterstellen.
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist- oder Eilfall: Frist zur Schadenanzeige | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Frist zur Schadenanzeige, Klage oder Deckungsablehnung läuft; vor Fortsetzung klären |
-| Tragendes Arbeitsprodukt | Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren | jede Tatsache bekommt Beleg oder Lückenmarke |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welche Sparte und welche Bedingungen gelten |
-| Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung |
-| Rechtsfolgenseite | Antrags-, Bescheid-, Vertrags- oder Antwortfassung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
-| Zwischenstation 1 | Arbeitsstand mit Belegstelle | Versicherungsfall: Eintritt, Anzeige, Schadenhöhe, Kausalität, Ausschluss und Beweislast ordnen |
-| Zwischenstation 2 | Arbeitsstand mit Belegstelle | Obliegenheiten: vorvertragliche Anzeige, Gefahrerhöhung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen |
-| Adressatenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko, Kostenfolge und nächsten Schritt getrennt ausweisen |
+Bei Paragraf 28 VVG prüfe zunächst vereinbarte Obliegenheit und Rechtsfolge sowie Handlung, Zeitpunkt und Verletzung. Unterscheide Vorsatz, grobe Fahrlässigkeit, Kausalitätsgegenbeweis, Arglist und erforderliche Belehrung. Beweislasten sind für die einzelne Voraussetzung zu bestimmen, nicht mit einer einheitlichen Formel für sämtliche Ausschlüsse und Kürzungen abzukürzen.
 
-### 1.3. Rückfragenbremse
+Eine Kürzungsquote benötigt Tatsachen zum Gewicht des Verschuldens. Prüfe Kausalität für Eintritt und Feststellung des Versicherungsfalls sowie Feststellung oder Umfang der Leistungspflicht; eine bloße Aussage, der Schaden wäre ohnehin entstanden, kann diese Prüfung nicht ersetzen. Bei Auskunfts- oder Aufklärungsobliegenheiten nach Eintritt des Versicherungsfalls sind Klausel, Fragebogen und gesonderter Hinweis in Textform auseinanderzuhalten.
 
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Welche Sparte und welche Bedingungen gelten“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Frist zur Schadenanzeige, Klage oder Deckungsablehnung läuft.
-3. Beweislage vor Rechtsmeinung ordnen: Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
+## 1.4. Leistung berechnen und Regress einordnen
 
-### 1.4. Mini-Gerüste
+Stelle Ausgangsschaden, versicherte und unversicherte Positionen, Höchstgrenze, Selbstbehalt, Zahlungen und streitige Kürzung nachvollziehbar dar. Leite die Reihenfolge von Begrenzungen und Abzügen aus Vertrag und einschlägigem Recht ab. Brutto, Netto und Vorsteuerabzug setzen entsprechende Tatsachen voraus; hypothetische Quoten sind als Rechenvarianten zu kennzeichnen.
 
-- Sofortvermerk: Der Ausgangsanker ist VVG Paragraf 1. Nach derzeitigem Stand spricht [Beleg] bei [Tatbestandsmerkmal] mehr für [Ergebnis]; offen bleibt [Lücke].
-- Kernsatz des Arbeitsprodukts: Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren.
-- Beweissatz: [Tatsache] ist durch [Beweismittel] belegt; im Übrigen gilt: Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung.
-- Rechtsfolgensatz: Daraus folgt Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg oder Norm]. Risiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg bleibt die Leitfrage „Welche Sparte und welche Bedingungen gelten“ offen.
-## 2. Stop-Kriterien
+Bei Regress prüfe Anspruch und Übergang nach Paragraf 86 VVG sowie bereits erfolgte Zahlung und mögliche Beeinträchtigungen des Anspruchs. Ein Vergleichsangebot oder eine Abfindungsquittung ist nicht mit dem rechnerisch begründeten Leistungsanspruch gleichzusetzen. Neue Rechnungen oder Teilzahlungen ändern die betroffenen Positionen und anschließend den beauftragten Entwurf.
 
-- Frist zur Schadenanzeige, Klage oder Deckungsablehnung läuft.
-- Arglist, Rücktritt oder Anfechtung wird behauptet.
-- Bedingungswerk oder Nachtrag fehlt.
-- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+## 1.5. Haftpflicht, D&O und Betriebsschließung
 
-## 3. Werkstattfluss
+In der Haftpflichtversicherung nach Paragraf 100 folgende VVG sind Haftung und Deckung getrennt zu prüfen. Unterscheide Erfüllungsschaden und versicherten Haftpflichtschaden; bei Serienschäden sind Zuordnung, Zeitbezug, Zusammenfassung und Grenzen anhand der tatsächlichen Bedingungen zu untersuchen. Einen Direktanspruch nach Paragraf 115 VVG nicht allein aus dem Bestehen einer freiwilligen Haftpflichtversicherung ableiten.
 
-### 3.1. Vertrag und Sparte
+Bei D&O prüfe versicherte Organstellung, Anspruchserhebung, Claims-made-Regelung, Nachmeldebezug und einschlägige Ausschlüsse. Ordne Innenhaftung nach Paragraf 43 GmbHG, Paragraf 93 und Paragraf 116 AktG sowie insolvenzbezogene Fragen zu Paragraf 15a InsO ihrem eigenen Prüfungsgegenstand zu. Gesellschaft, Organ und Versicherer bleiben als Anspruchs- und Interessenträger unterscheidbar.
 
-Arbeitsgriff Vertrag und Sparte: Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Bei Betriebsschließung vergleiche konkreten Bedingungstext, versicherten Betrieb und tatsächlichen Schließungsgrund. Unterscheide Allgemeinverfügung und Einzelverfügung, Zeitraum, Umfang und geltend gemachten Ertragsausfall. Ein allgemeiner Bericht über Infektionsschutzmaßnahmen ersetzt die einschlägige Verfügung nicht.
 
-### 3.2. Versicherungsfall
+## 1.6. PKV, Berufsunfähigkeit und Lebensversicherung
 
-Arbeitsgriff Versicherungsfall: Eintritt, Anzeige, Schadenhöhe, Kausalität, Ausschluss und Beweislast ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Bei PKV-Leistungen ordne Tarif, Behandlung, medizinische Notwendigkeit und Rechnung zu. Bei Beitragsanpassungen lies jede Änderungsmitteilung und Vertragsfassung, rechne Beiträge und mögliche Rückforderung periodenbezogen und prüfe Verjährung. Behandle Treuhänderfragen nicht isoliert als sichere Lösung; unterscheide Tarifwechsel nach Paragraf 204 VVG und Krankenversicherungspflicht nach Paragraf 193 VVG von der Wirksamkeit einer konkreten Anpassung.
 
-### 3.3. Obliegenheiten
+Bei Berufsunfähigkeit erfasse das tatsächliche Berufsbild, zeitliche Tätigkeitsanteile und belegte funktionelle Einschränkungen. Trenne Erstprüfung, Anerkenntnis, Nachprüfung und Leistungseinstellung sowie abstrakte und konkrete Verweisung nach dem Vertrag. Ein Diagnoseetikett ersetzt keine Beschreibung der Einschränkung im versicherten Beruf; nachgereichte Tätigkeits- oder Befundangaben müssen die betroffene Bewertung und Leistungsrechnung ändern.
 
-Arbeitsgriff Obliegenheiten: vorvertragliche Anzeige, Gefahrerhöhung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Bei Lebens- und Rentenversicherungen bestimme Abschlusszeitpunkt, Modell, Belehrung, Zahlungen und bereits erbrachten Versicherungsschutz. Ein Altvertragsanker wird nicht ungeprüft auf jeden Vertrag übertragen. Bei Rückabwicklung sind die jeweiligen Voraussetzungen und Rechenpositionen nachvollziehbar herzuleiten; Kreditversicherungsfälle werden entsprechend ihrem eigenen versicherten Ausfalltatbestand geprüft.
 
-### 3.4. Deckung und Regulierung
+## 1.7. Cyber, DORA und grenzüberschreitende Fragen
 
-Arbeitsgriff Deckung und Regulierung: Leistungsentscheidung, Quote, Regress, Verjährung und Prozessrisiko ausarbeiten. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Bei Cybervorfällen ordne Ereignis, IT-Berichte, betroffene Systeme, Schadenzeit, Meldung, Kosten und vereinbarte Sicherheitsobliegenheiten zu. Trenne Versicherungsschutz von Datenschutz-, Aufsichts- und Sanktionsfragen; Deckung ist keine Freigabe einer Lösegeldzahlung. Für Gesundheits- oder sonstige vertrauliche Daten gelten die jeweiligen Zugriffs- und Schutzgrenzen.
 
-### 3.5. Arbeitsprodukt
+Bei DORA-Fragen bestimme zuerst betroffenen Versicherer oder Vermittler, Anwendungsbereich, Dienstleistung und Vertragsbeziehung. Ein IT- oder SaaS-Vertrag darf nicht ungeprüft als gewöhnliche Beschaffung behandelt werden; kläre die konkret zu prüfenden Pflichten anhand des Auftrags. Grenzüberschreitenden Vertrieb, EIOPA- und Aufsichtsfragen, anwendbares Recht und Gerichtsstand einschließlich Verbraucherschutz getrennt untersuchen, statt jede Frage auf Paragraf 19 VVG zurückzuführen.
 
-Arbeitsgriff Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: versandfähiger Entwurf mit Anlagen- und Fristenbezug; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+## 1.8. Beratung, Rechtsschutz und Beschwerdeweg
 
-## 4. Rechtsprechungs-Fallkarte
+Bei Vermittlerhaftung prüfe nach Paragraf 61 VVG Beratungsanlass, Risikoanalyse, Empfehlung, Dokumentation, Weisung und behaupteten Schaden. Eine Maklerentscheidung beweist nicht ohne Weiteres die Deckungspflicht des Versicherers. Berücksichtige fallbezogen Unterstützung bei Schadenregulierung und Hinweise auf anspruchsgefährdende Fristen.
 
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Fallkern | D&O: Claims-made, Innenhaftung und Organstreit | VVG Paragraf 1 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
-| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VVG Paragraf 19 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | PKV: Beitragsanpassung und Treuhänder | VVG Paragraf 19 | Tatbestandsmatrix mit Beleg und Gegenargument |
-| Rechtsfolge | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+Bei Rechtsschutzversicherung trenne Hauptstreit und Deckungsstreit. Prüfe behauptete fehlende Erfolgsaussicht oder Mutwilligkeit, mögliche Teildeckung und den vertraglich vorgesehenen Weg einschließlich Stichentscheid. Stelle die Hauptsache nicht einseitig optimistisch dar; vergleiche Deckungszusage, Ablehnung und maßgebliche Bedingungen.
 
-## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+Wähle Ombudsmann, BaFin-Beschwerde oder Klage nach Ziel und Auftrag. Unterscheide PKV-Ombudsmann und Versicherungsombudsmann und prüfe Zuständigkeit, Verfahrensregeln und Streitwertbezug. BaFin ist kein Leistungsgericht; eine Beschwerde darf nicht ohne Prüfung als Hemmung laufender Fristen behandelt werden. Bei beauftragtem Deckungsprozess prüfe zuständiges Gericht, Paragraf 215 VVG, Form und Verfahrensstand.
 
-| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
-| --- | --- | --- | --- |
-| VVG Paragraf 1 | vertragstypische Pflichten aus dem Versicherungsvertrag | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
-| VVG Paragraf 19 | vorvertragliche Anzeigepflicht und Rechtsfolgen | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
-| VVG Paragraf 28 | Obliegenheitsverletzung nach Vertragsschluss | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
-| VVG Paragraf 61 | Beratungspflichten des Versicherungsvermittlers | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
-| VVG Paragraf 86 | Übergang von Ersatzansprüchen | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
-| BGB Paragraf 305 bis Paragraf 310 | AGB-Kontrolle von Versicherungsbedingungen | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
-| VVG Paragrafen 100 ff.; GmbHG Paragraf 43; AktG Paragrafen 93, 116; InsO Paragraf 15a; AVB D&O | VVG Paragrafen 100 ff.; GmbHG Paragraf 43; AktG Paragrafen 93, 116; InsO Paragraf 15a; AVB D&O | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
+## 1.9. Quellen und bestehende Rechtsprechungsanker
 
-## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+Tragende Normen und Vertragsfassungen verifizieren. Die folgenden bestehenden Rechercheanker sind vor einer Zitierung im Volltext und auf ihren Bezug zur konkreten Streitfrage zu prüfen:
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH, Urteil vom 10.03.2016 - I ZR 147/14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Der Versicherungsmakler muss das konkrete Risiko analysieren und eine sachgerechte Entscheidungsgrundlage schaffen; eine uninformierte sachwidrige Weisung darf er nicht einfach hinnehmen |
-| BGH, Urteil vom 30.11.2017 - I ZR 143/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Die Maklerpflicht kann Hilfestellung bei der Schadenregulierung und den Hinweis auf anspruchsvernichtende Ausschlussfristen umfassen |
-| BGH, Urteil vom 22.06.2011 - IV ZR 225/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei grob fahrlässiger Herbeiführung des Versicherungsfalls kann die Kürzung nach Paragraf 81 Absatz 2 VVG ausnahmsweise bis auf null reichen; erforderlich ist eine Einzelfallabwägung |
-| BGH, Urteil vom 12.03.2014 - IV ZR 306/13 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei arglistiger Verletzung der vorvertraglichen Anzeigepflicht kann der Versicherer trotz fehlender Belehrung nach Paragraf 19 Absatz 5 VVG zurücktreten |
-| BGH, Urteil vom 07.05.2014 - IV ZR 76/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei nicht ordnungsgemäß belehrten Altverträgen der Lebens- und Rentenversicherung nach dem Policenmodell konnte das Widerspruchsrecht trotz der damaligen Jahresfrist fortbestehen; die Rückabwicklung berücksichtigt den genossenen Versicherungsschutz |
-- Rechtsfolge zuerst als Arbeitsprodukt denken: Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag
-- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
-
-## 7. Pflichtnormen als Kernsätze
-
-- VVG Paragraf 1: vertragstypische Pflichten aus dem Versicherungsvertrag.
-- VVG Paragraf 19: vorvertragliche Anzeigepflicht und Rechtsfolgen.
-- VVG Paragraf 28: Obliegenheitsverletzung nach Vertragsschluss.
-- VVG Paragraf 61: Beratungspflichten des Versicherungsvermittlers.
-- VVG Paragraf 86: Übergang von Ersatzansprüchen.
-- BGB Paragraf 305 bis Paragraf 310: AGB-Kontrolle von Versicherungsbedingungen.
-- VVG Paragrafen 100 ff.; GmbHG Paragraf 43; AktG Paragrafen 93, 116; InsO Paragraf 15a; AVB D&O; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1 VVG — Versicherungsvertrag; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 19 VVG — vorvertragliche Anzeigepflicht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 28 VVG — Obliegenheitsverletzung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 86 VVG — Legalzession; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 100 VVG — Haftpflichtversicherung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 115 VVG — Direktanspruch; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 193 VVG — Krankenversicherungspflicht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-
-## 8. Leitentscheidungen
+- BGH, Urteil vom 10.03.2016, I ZR 147/14: Risikoanalyse und sachgerechte Entscheidungsgrundlage durch den Versicherungsmakler; Umgang mit uninformierter sachwidriger Weisung.
+- BGH, Urteil vom 30.11.2017, I ZR 143/16: Unterstützung bei der Schadenregulierung und Hinweis auf anspruchsvernichtende Ausschlussfristen.
+- BGH, Urteil vom 22.06.2011, IV ZR 225/10: einzelfallbezogene Kürzung nach Paragraf 81 Absatz 2 VVG bis auf null in Ausnahmefällen.
+- BGH, Urteil vom 12.03.2014, IV ZR 306/13: arglistige vorvertragliche Anzeigepflichtverletzung und fehlende Belehrung nach Paragraf 19 Absatz 5 VVG.
+- BGH, Urteil vom 07.05.2014, IV ZR 76/11: Widerspruch bei nicht ordnungsgemäß belehrten Altverträgen im Policenmodell und Berücksichtigung genossenen Versicherungsschutzes.
 
-- BGH, Urteil vom 10.03.2016 - I ZR 147/14: Der Versicherungsmakler muss das konkrete Risiko analysieren und eine sachgerechte Entscheidungsgrundlage schaffen; eine uninformierte sachwidrige Weisung darf er nicht einfach hinnehmen.
-- BGH, Urteil vom 30.11.2017 - I ZR 143/16: Die Maklerpflicht kann Hilfestellung bei der Schadenregulierung und den Hinweis auf anspruchsvernichtende Ausschlussfristen umfassen.
-- BGH, Urteil vom 22.06.2011 - IV ZR 225/10: Bei grob fahrlässiger Herbeiführung des Versicherungsfalls kann die Kürzung nach Paragraf 81 Absatz 2 VVG ausnahmsweise bis auf null reichen; erforderlich ist eine Einzelfallabwägung.
-- BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Bei arglistiger Verletzung der vorvertraglichen Anzeigepflicht kann der Versicherer trotz fehlender Belehrung nach Paragraf 19 Absatz 5 VVG zurücktreten.
-- BGH, Urteil vom 07.05.2014 - IV ZR 76/11: Bei nicht ordnungsgemäß belehrten Altverträgen der Lebens- und Rentenversicherung nach dem Policenmodell konnte das Widerspruchsrecht trotz der damaligen Jahresfrist fortbestehen; die Rückabwicklung berücksichtigt den genossenen Versicherungsschutz.
+Quellenstatus und Abrufprobleme stehen in einer getrennten Arbeitsnotiz. In den Empfängertext gehören die zur Begründung erforderlichen Nachweise, keine technischen Prüfetiketten oder unsicheren Fundstellen.
 
-## 9. Prüfraster
+## 1.10. Dokument fertigstellen
 
-1. Welche Sparte und welche Bedingungen gelten.
-2. Ist der Versicherungsfall nach Zeit, Ort, Ursache und Schaden belegt.
-3. Welche Ausschlüsse oder Obliegenheiten werden geltend gemacht.
-4. Welche Belehrung und Kausalität sind beweisbar.
-5. Welche Leistung oder Quote ist schlüssig.
-6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
-7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
+Liefere die bestellte Beratung oder den Entwurf in vollständigen Sätzen mit konkretem Ergebnis, nachvollziehbarem Betrag und tragenden Gründen. Beantworte die geltend gemachten Ablehnungsgründe einzeln und berücksichtige das stärkste Gegenargument. Tabellen sind für echte Vertrags-, Beleg- oder Rechenvergleiche sinnvoll, aber kein Pflichtvorspann.
 
-## 10. Argumentations- und Entwurfsgerüst
+Kontrolliere Vertragsfassung, versicherte Person, Zeitbezug, Beträge, Fristen und Anlagen. Verwende den gewünschten Dateinamen, nur ohne Vorgabe `ergebnis.md`. Kündigung, Abfindung, Anerkenntnis, Versand und Einreichung werden nicht ohne Freigabe erklärt oder veranlasst.
 
-10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag.
-10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind VVG Paragraf 1; VVG Paragraf 19.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig D&O: Claims-made, Innenhaftung und Organstreit.
-10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Versicherungsrecht tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
-10.5. Beweislast: Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei der Versicherungsfall nach Zeit, Ort, Ursache und Schaden belegt an.
-10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder D&O: Claims-made, Innenhaftung und Organstreit, PKV: Beitragsanpassung und Treuhänder, Arglistanfechtung des Versicherers, Ombudsmann, BaFin-Beschwerde oder Klage?: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 10.03.2016 - I ZR 147/14; BGH, Urteil vom 30.11.2017 - I ZR 143/16.
+## 1.11. Technische Grenzen
 
-## 11. Outputvarianten und Empfängerwunsch
-
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| schnell entscheiden | Kurzvermerk | Fallkern, VVG Paragraf 1; VVG Paragraf 19, Risiko und nächster Schritt |
-| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
-| versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
-| beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei der Versicherungsfall nach Zeit, Ort, Ursache und Schaden belegt |
-
-## 12. Arbeitsweise
-
-Arbeite zuerst aktennah, dann normnah, dann produktnah. Liegen Unterlagen vor, werden sie ohne Vorfrage gelesen und mit Fundstelle verarbeitet; im Bereich Versicherungsrecht sind das vor allem die vorgelegten Urkunden, Bescheide und Korrespondenz. Erst wenn wirklich kein verwertbares Material vorliegt, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert; Tabellen werden nur für echte Vergleiche, Nachweise, Berechnungen oder Varianten verwendet.
-
-Selbstcheck vor Ausgabe: Ist die maßgebliche Frist mit Beginn, Lauf und Ende benannt? Ist die Form geklärt? Ist die Rechtsfolge aus einer Norm abgeleitet und auf Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag bezogen? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
-
-## 13. Qualitätskontrolle und Abschluss
-
-Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Besonders zu kontrollieren ist in diesem Gebiet: Welche Leistung oder Quote ist schlüssig. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
-
-## 14. Musterbausteine
-
-- Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
-- Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
-
-## 15. Fachliche Entscheidungslandkarte
-
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
-
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| D&O: Claims-made, Innenhaftung und Organstreit | Gesellschaft und Manager in einer Beratung vermischt. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| PKV: Beitragsanpassung und Treuhänder | Tarifwechsel nach Paragraf 204 VVG vergessen. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe. | Fachvotum zu PKV: Beitragsanpassung und Treuhänder mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Arglistanfechtung des Versicherers | VVG-anzeigepflicht-19-rücktritt-kündigung-anpassung. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten. | Fachvotum zu Arglistanfechtung des Versicherers mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Ombudsmann, BaFin-Beschwerde oder Klage? | PKV-Ombudsmann und Versicherungsombudsmann verwechselt. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Rechtsschutz: Erfolgsaussicht und Mutwilligkeit | Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege. | Fachvotum zu Rechtsschutz: Erfolgsaussicht und Mutwilligkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Betriebshaftpflicht: Versicherungsfall und Serienschaden | Erfüllungsschaden als Haftpflichtschaden deklariert. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten. | Fachvotum zu Betriebshaftpflicht: Versicherungsfall und Serienschaden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| Betriebsschließungsversicherung und Infektionsschutz | Allgemeinverfügung und Einzelverfügung verwechselt. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe. | Fachvotum zu Betriebsschließungsversicherung und Infektionsschutz mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| BU: abstrakte und konkrete Verweisung | Bu-nachprüfung-anerkenntnis-leistungseinstellung. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe. | Akten- und Belegmatrix zu BU: abstrakte und konkrete Verweisung mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
-| Cyberversicherung: Ransomware, DORA, Sanktionen | Datenschutz-schweigepflicht-gesundheitsdaten. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe. | Fachvotum zu Cyberversicherung: Ransomware, DORA, Sanktionen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-
-## 16. Fachspezifische Praxisrouten
-
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
-
-### 16.1. D&O: Claims-made, Innenhaftung und Organstreit
-
-Bearbeitungsauftrag: Gesellschaft und Manager in einer Beratung vermischt. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis. VVG Paragrafen 100 und folgende ; GmbHG Paragraf 43; AktG Paragrafen 93, 116; InsO Paragraf 15a; AVB D&O.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.2. PKV: Beitragsanpassung und Treuhänder
-
-Bearbeitungsauftrag: Tarifwechsel nach Paragraf 204 VVG vergessen. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis. Paragraf 19 VVG — vorvertragliche Anzeigepflicht.
-Normbezug aus dem Fachmaterial: Nur Presseartikel statt Vertragsunterlagen; Treuhänderfrage isoliert überschätzt; Verjährung nicht gerechnet; Tarifwechsel nach Paragraf 204 VVG vergessen; pkv-kostenerstattung-medizinische-notwendigkeit; vag-bafin-aufsicht-beschwerde-missstand; Zuständige Stelle.
-Lieferstück: Fachvotum zu PKV: Beitragsanpassung und Treuhänder mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.3. Arglistanfechtung des Versicherers
-
-Bearbeitungsauftrag: VVG-anzeigepflicht-19-rücktritt-kündigung-anpassung. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis. VVG Paragraf 22; BGB Paragraf 123; ZPO; Datenschutz-Grundverordnung Gesundheitsdaten; AVB.
-Lieferstück: Fachvotum zu Arglistanfechtung des Versicherers mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.4. Ombudsmann, BaFin-Beschwerde oder Klage?
-
-Bearbeitungsauftrag: PKV-Ombudsmann und Versicherungsombudsmann verwechselt. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis. Paragraf 19 VVG — vorvertragliche Anzeigepflicht.
-Prüfschritte: BaFin als Leistungsgericht missverstanden; Ombudsmann bei hohem Streitwert ungeeignet; Klagefrist/Verjährung läuft parallel; deckungsprozess-zuständigkeit-215-vvg; rechtsschutz-deckungszusage-stichentscheid.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.5. Rechtsschutz: Erfolgsaussicht und Mutwilligkeit
-
-Bearbeitungsauftrag: Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis. Paragraf 19 VVG — vorvertragliche Anzeigepflicht.
-Prüfschritte: Hauptsache zu optimistisch dargestellt; Teilklage/Teilrechtsschutz vergessen; RSV als Gegner im Hauptstreit vermischt; rechtsschutz-deckungszusage-stichentscheid; vergleich-abfindung-entschädigungsquittung.
-Lieferstück: Fachvotum zu Rechtsschutz: Erfolgsaussicht und Mutwilligkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.6. Betriebshaftpflicht: Versicherungsfall und Serienschaden
-
-Bearbeitungsauftrag: Erfüllungsschaden als Haftpflichtschaden deklariert. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis. Paragraf 19 VVG — vorvertragliche Anzeigepflicht.
-Lieferstück: Fachvotum zu Betriebshaftpflicht: Versicherungsfall und Serienschaden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.7. Betriebsschließungsversicherung und Infektionsschutz
-
-Bearbeitungsauftrag: Allgemeinverfügung und Einzelverfügung verwechselt. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis. Paragraf 19 VVG — vorvertragliche Anzeigepflicht.
-Lieferstück: Fachvotum zu Betriebsschließungsversicherung und Infektionsschutz mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.8. BU: abstrakte und konkrete Verweisung
-
-Bearbeitungsauftrag: Bu-nachprüfung-anerkenntnis-leistungseinstellung. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis. Paragraf 19 VVG — vorvertragliche Anzeigepflicht.
-Lieferstück: Akten- und Belegmatrix zu BU: abstrakte und konkrete Verweisung mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
-
-### 16.9. Cyberversicherung: Ransomware, DORA, Sanktionen
-
-Bearbeitungsauftrag: Datenschutz-schweigepflicht-gesundheitsdaten. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis. Paragraf 19 VVG — vorvertragliche Anzeigepflicht.
-Lieferstück: Fachvotum zu Cyberversicherung: Ransomware, DORA, Sanktionen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.10. Direktanspruch in Pflichtversicherung Paragraf 115 VVG
-
-Bearbeitungsauftrag: Freiwillige Haftpflicht als Pflichtversicherung behandelt. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis. Paragraf 19 VVG — vorvertragliche Anzeigepflicht.
-Lieferstück: Fachvotum zu Direktanspruch in Pflichtversicherung Paragraf 115 VVG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.11. DORA für Versicherer und Vermittler
-
-Bearbeitungsauftrag: SaaS-Dienst als normale Beschaffung behandelt. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis. Paragraf 19 VVG — vorvertragliche Anzeigepflicht.
-Lieferstück: Fachvotum zu DORA für Versicherer und Vermittler mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. EIOPA und grenzüberschreitender Versicherungsvertrieb
-
-Bearbeitungsauftrag: Gerichtsstandsklausel gegenüber Verbrauchern unwirksam. Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis. Paragraf 19 VVG — vorvertragliche Anzeigepflicht.
-Lieferstück: Fachvotum zu EIOPA und grenzüberschreitender Versicherungsvertrieb mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Nutze nur verfügbare Dateien und Werkzeuge und benenne fehlenden Zugriff, ohne eine vollständige Prüfung vorzutäuschen. Bei technischem Hindernis liefere den bearbeitbaren Text und setze nach Behebung am offenen Punkt fort; erfinde keine Exporte oder Dateilinks. Formatiere Enddokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung und halte einen nötigen Exporthinweis außerhalb des Empfängertextes.

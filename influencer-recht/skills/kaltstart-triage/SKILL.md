@@ -7,24 +7,23 @@ description: "Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachsch
 
 ## Direktstart: lesen, entscheiden, liefern
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Prüfe den konkreten Beitrag oder Kooperationsvertrag anhand der vorhandenen Darstellung, Vergütungsabrede und Rechteunterlagen. Übernimm bekannte Angaben zu Rolle, Ziel und Veröffentlichungstermin, statt sie erneut abzufragen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+### Gegenleistung und Darstellung klären
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Fehlt die Absprache zu einem Geschenk oder die erste sichtbare Beitragsansicht, fordere genau diese Kommunikation oder Darstellung an. Gleiche die Antwort mit Vertrag und Beitrag ab und überarbeite Kennzeichnungsempfehlung und bestellte Textfassung. Neue entscheidende Unklarheiten erlauben weitere gezielte Fragen, nicht eine wiederholte Kampagnenaufnahme.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+### Rechte und Vertrag fertigstellen
+
+Fehlt die Lizenzreichweite für bezahlte Anzeigen, frage nach der konkreten Werbenutzung und dem Nachweis. Passe nach Eingang die betroffene Rechteklausel an und formuliere den bestellten Vertrag oder die Antwort fertig. Offene Rechte nicht als erteilt darstellen; ein Prüfauftrag führt nicht ungefragt zur Abmahnung.
 
 ## Schnellstart-Workflow
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Influencer- und Social-Media-Recht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen. Tragende Normen (UWG §§ 5, 5a, MStV § 22, TMG) werden nicht aus Modellwissen finalisiert, sondern über die zugelassenen Live-Quellen geprüft.
+Ordne den Auftrag der Kennzeichnungs-, Rechte-, Vertrags- oder Plattformprüfung zu. Tragende Normen (UWG §§ 5, 5a, MStV § 22, TMG) werden nicht aus Modellwissen finalisiert, sondern nach ihrem zeitlichen Anwendungsbereich über die zugelassenen Live-Quellen geprüft.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
-Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder ein Aktenkonvolut hochlädt und keinen Auftrag dazuschreibt, behandle den Upload als Arbeitsauftrag. Warte nicht auf einen Prompt. Arbeite als aufmerksamer juristischer Co-Pilot: erst sichern, was eilt, dann das Material einordnen, dann den besten nächsten Arbeitsschritt anbieten.
+Lies hochgeladene Beiträge und Verträge auch ohne Begleittext. Kläre den gewünschten Verwendungszweck, wenn er aus dem Material nicht hervorgeht und für das Ergebnis entscheidend ist. Der Upload allein ermächtigt nicht zu Veröffentlichung, Abmahnung oder Vertragsabschluss.
 
 **Pflicht-Reihenfolge bei stummem Upload:**
 
@@ -33,9 +32,13 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 3. **Rolle klären** — Mandant, Gegner, Behörde, Gericht, betroffene Stelle; mit welchem Ziel und welcher Reichweite?
 4. **Ziel bestimmen** — Prüfung, Entwurf, Antrag, Anmeldung, Schriftsatz, Verteidigung, Dashboard, Memo, Red-Team?
 5. **Rechtsquellen trennen** — Normtext, Behördenpraxis, Rechtsprechung, Vertrag, technischer Standard und Praxisroutine getrennt halten.
-6. **Fachmodule auswählen** — Drei bis sieben passende Skills aus diesem Plugin nennen mit Begründung, warum sie jetzt nützlich sind.
-7. **Erste verwertbare Ausgabe liefern** — Kurze Lagekarte mit nächstem Schritt oder erstem Entwurf, statt einer langen abstrakten Abhandlung.
+6. Einen passenden Fachskill optional nutzen; seine Benennung ersetzt nicht das bestellte Ergebnis.
+7. Den bestellten Text vollständig liefern. Bei einem Hindernis den begründbaren Teil vorläufig ausarbeiten und nach Eingang der konkret benötigten Angaben fortsetzen.
 
 ## Fachlicher Anker — Influencer- und Social-Media-Recht
 
 Tragende Anker: UWG §§ 5, 5a, MStV § 22, TMG. Tatsächliche Fundstellen werden über dejure.org, openJur, gesetze-im-internet.de, BGH-/BVerfG-/EuGH-/EuG-Datenbank live geprüft und nicht aus Modellwissen finalisiert.
+
+## Ausgabe und Grenzen
+
+Quellenstatus und technische Zugriffslücken getrennt vom Empfängertext dokumentieren. Vollständige Sätze, dezimale Gliederung und Times New Roman 11 pt beim Export, sonst entsprechender Exporthinweis. Keine Veröffentlichung, Unterlassungserklärung oder Einreichung eigenmächtig veranlassen.

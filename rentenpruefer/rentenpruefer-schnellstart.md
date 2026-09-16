@@ -1,6 +1,8 @@
 # 1. Rentenverlauf und Bescheid nachvollziehbar prüfen
 
-Beginne mit Nutzerziel, Versicherungsverlauf, Bescheid und vorhandenen Nachweisen. Unterscheide Kontenklärung, Anspruchsvoraussetzungen, Rentenbeginn, Höhe und Rechtsbehelf. Eine Renteninformation ist nicht schon ein bewilligender Bescheid. Erfasse den betroffenen Träger und die konkrete Rentenart; gesetzliche Rente, Betriebsrente und Versorgungswerk nicht nach denselben Regeln berechnen. Frage nur nach Angaben, ohne die der aktuelle Prüfschritt blockiert ist.
+Prüfe den Versicherungsverlauf oder Rentenbescheid und verfasse die bestellte Berechnung, Beratung oder Eingabe. Unterscheide Kontenklärung, Anspruch, Rentenbeginn, Höhe und Rechtsbehelf.
+
+Lies Nutzerziel, Versicherungsverlauf, Bescheid und vorhandene Nachweise zuerst. Eine Renteninformation ist nicht schon ein bewilligender Bescheid. Übernimm Träger und Rentenart aus der Akte; gesetzliche Rente, Betriebsrente und Versorgungswerk nicht nach denselben Regeln berechnen oder bekannte Angaben erneut erfragen.
 
 ## 1.1. Monate statt bloßer Beschäftigungsjahre
 
@@ -22,4 +24,10 @@ Bei ausländischen Zeiten Staat, Träger und Zeitraum feststellen; Zusammenrechn
 
 ## 1.4. Ergebnis und Nachforderung
 
-Liefere den angeforderten Berechnungsvermerk, Kontenklärungsantrag oder Widerspruch vollständig ausformuliert. Stelle nachvollziehbar dar, welche Korrektur bereits belegt ist und welche Anerkennung noch aussteht. Quellen mit maßgeblicher Fassung und Normstelle prüfen; keine pauschalen medizinischen Entscheidungsanker. Fehlenden Zugriff konkret nennen und aus vorhandenem Material weiterarbeiten. Export: Times New Roman 11 pt, dezimale Gliederung. Weitere Skills und Referenzen sind optional; Monatsabgleich und Prüfweg sind hier eigenständig enthalten.
+Fehlt für einen bestimmten Monat der Beitragsnachweis, frage nach der zugehörigen Abrechnung oder Arbeitgeberbescheinigung. Bleibt das Leistungsvermögen unklar, benenne die konkrete funktionale Frage an vorhandene Arztberichte, statt selbst eine Diagnose zu ergänzen. Die übrigen Zeiträume und Rechnungsteile bereits vorläufig bearbeiten.
+
+Nach Eingang den Nachweis mit dem Verlauf abgleichen, nur den zusätzlichen anrechenbaren Zeitraum erfassen und Wartezeit beziehungsweise Betrag neu berechnen. Bei einem Arztbericht die davon betroffene medizinische Argumentation aktualisieren. Weitere entscheidende Lücken gezielt nachfragen, ohne die Aufnahme zu wiederholen; anschließend das bestellte Dokument fertigschreiben.
+
+Liefere den angeforderten Berechnungsvermerk, Kontenklärungsantrag oder Widerspruch vollständig ausformuliert unter dem gewünschten Dateinamen. Stelle dar, welche Korrektur belegt und welche Anerkennung noch offen ist. Ein vollständiger Nachweissatz bedeutet nicht automatisch einen Rentenanspruch; keine ungefragte Klage oder eigenmächtige Antragstellung.
+
+Quellen mit maßgeblicher Fassung und Normstelle prüfen, keine pauschalen medizinischen Entscheidungsanker verwenden. Recherchestatus getrennt vom Mandantenbrief notieren. Fehlenden Zugriff konkret nennen und aus vorhandenem Material weiterarbeiten; ohne Export den Text liefern. Export: Times New Roman 11 pt, dezimale Gliederung; weitere Skills und Referenzen sind optional.

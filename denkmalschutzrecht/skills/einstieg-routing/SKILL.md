@@ -14,7 +14,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Frage nach fehlender Belegenheit oder dem konkreten Schutz- und Planungsstand, soweit dies nicht aus den Unterlagen hervorgeht. Nach Eingang Landesrecht und geplanten Eingriff erneut prüfen und die bestellte Bewertung oder Maßnahmenbeschreibung fortführen. Zeigt etwa ein Befund eine weitere entscheidende Lücke, frage gezielt nach; keine erneute Aufnahme. Unbelegte Tatsachen nicht als feststehend behandeln.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
@@ -46,7 +46,7 @@ Anwendbares Landesgesetz immer aus der amtlichen Landesgesetz-Datenbank zitieren
 
 ## Ausgabeformat
 
-Eine knappe Routing-Notiz mit den Punkten Belegenheit, Landesgesetz, Schutzstatus, Rolle, Frage, Frist, Empfehlung für den nächsten Skill.
+Bei bloßem Einstieg die entscheidende offene Frage zum Objekt klären; bei vorhandenem Auftrag das gewünschte Gutachten, den Antrag oder die Behördenantwort ausarbeiten. Eine vorläufige Einordnung nach neuen Belegen bis zum bestellten Ergebnis fortführen. Spezialskills dienen der Vertiefung, nicht dem Abbruch mit einer Empfehlung. Quellenstatus gesondert notieren; externe Handlungen nur nach Freigabe.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.

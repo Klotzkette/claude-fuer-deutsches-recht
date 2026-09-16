@@ -1,8 +1,10 @@
 # 1. Windenergieerlöse und höferechtliche Nachabfindung
 
-Prüfe für meinen Fall die Nachabfindung aus Windenergieerlösen für die einzelnen Abrechnungsperioden und gleiche Vertrag, Abrechnungen und Zahlungen ab. Arbeite unmittelbar mit den bereitgestellten Mandatsunterlagen. Zusätzliche Promptdateien oder installierte Erweiterungen sind nicht erforderlich. Ohne Material frage einmal gebündelt nach Rolle, Erbfall oder Übergabe, Bundesland, Hofstatus, Familienquote, Windvertrag, Zahlungen und Frist. Danach liefere ein vorläufiges Ergebnis mit konkret benannten Lücken statt weiterer Aufnahmefragen.
+Prüfe für meinen Fall die Nachabfindung aus Windenergieerlösen für die einzelnen Abrechnungsperioden und gleiche Vertrag, Abrechnungen und Zahlungen ab. Erstelle aus den bereitgestellten Mandatsunterlagen das bestellte Gutachten oder Schreiben.
 
 ## 1.1. Sachverhalt zuerst
+
+Entnimm Rolle, Erbfall oder Übergabe, Bundesland, Hofstatus, Quote, Zahlungen und Frist dem Material. Nur entscheidende fehlende Angaben gezielt erfragen.
 
 Lies Erb- oder Übergabeurkunde, Hofvermerk, Wertbescheid, Abfindungsvereinbarung, Windnutzungsvertrag und Nachträge sowie Betreiberabrechnungen und Kontoauszüge. Halte Erbfall, Vertragsabschluss, Nutzungsbeginn, Zahlungsperioden und Kenntnis getrennt fest. Keine Mandatsdaten öffentlich recherchieren.
 
@@ -16,6 +18,12 @@ Prüfe landwirtschaftsfremde Nutzung, längerfristigen Wegfall des höferechtlic
 
 Bilde das Zwanzigjahresfenster und die Abschläge nach mehr als zehn beziehungsweise fünfzehn Jahren. Stelle die Verwertungsperiode neben den Zufluss; teile übergreifende Perioden nachvollziehbar und kennzeichne ungeklärte Zuordnung. Auf bereinigte Grundlage Zeitabschlag und anschließend Quote anwenden. Vorabfindung und frühere Ergänzungszahlungen in einem fortlaufenden Anrechnungskonto nur einmal berücksichtigen. Keine fiktive Kapitalisierung der gesamten Vertragslaufzeit. Vertraglichen Verzicht separat prüfen.
 
+### 1.2.1. Fehlende Abrechnung und spätere Nachzahlung
+
+Fehlt eine Betreiberabrechnung oder der Zahlungsnachweis, benenne die konkrete Periode und fordere genau diese Unterlage an. Liefere inzwischen die belegten Perioden und die offene Rechenformel als vorläufigen Stand.
+
+Nach Eingang gleiche Soll, Abrechnung und Zufluss neu ab, korrigiere betroffenen Zeitabschlag und Anrechnung und schreibe das bestellte Dokument fertig. Entsteht etwa durch eine Nachzahlung ein neuer Zuordnungsstreit, frage gezielt nach dem Bezugszeitraum; beantwortete Fragen nicht wiederholen. Keine Zahlung oder Abzugstatsache aus einer Annahme ergänzen.
+
 ## 1.3. Rechtliche Anker
 
 Prüfe vor Verwendung aktuelle Normen und amtliche Entscheidungsfassung. Belege jede tragende Aussage mit Norm oder konkreter Fundstelle; Literatur nur bei vorliegender Quelle.
@@ -26,6 +34,8 @@ Prüfe vor Verwendung aktuelle Normen und amtliche Entscheidungsfassung. Belege 
 
 ## 1.4. Konkrete Lieferung
 
-Liefere `ergebnis.md`: Sachverhalt, Kurzantwort, Vertrags- und Zuflussmatrix, periodische Rechnung, Anrechnungskonto, stärkstes Gegenargument und ausformulierter Auskunfts- oder Erwiderungsentwurf. Offene Positionen erhalten Unterlage, Inhaber, Euro-Auswirkung und nächsten Schritt. Keine eigenmächtige Versendung, Zahlung, Vereinbarung oder Einreichung. Ein fehlender Beleg stoppt nur die betroffene Endbezifferung.
+Liefere das bestellte Gutachten oder vollständig ausformulierte Auskunfts-, Zahlungs- oder Erwiderungsschreiben unter dem gewünschten Dateinamen; nur ohne Benennung verwende `ergebnis.md`. Begründe das Ergebnis durch den erforderlichen Vertrags- und Zuflussabgleich, periodische Rechnung, einmalige Anrechnung und Würdigung des stärksten Einwands. Nicht sämtliche Tabellen unabhängig vom Auftrag ausgeben.
 
-Vollständige Sätze statt Skeletten; echte Umlaute und ß, Paragraf ausgeschrieben, nur dezimale Überschriften mit Leerzeilen. Formatstandard und Markdown-Exporthinweis: Times New Roman 11 pt. Ohne Quellenzugriff Prüfgrenze offenlegen; ohne Dateifunktion vollständigen Text statt erfundenem Link ausgeben.
+Offene Positionen mit fehlender Unterlage, Inhaber und Auswirkung gesondert notieren; Quellenstatus und interne Bearbeitungsvermerke gehören nicht in den Empfängerbrief. Nach Auskunftseingang bis zur bestellten Endfassung fortsetzen; ein Gutachtenauftrag führt nicht ungefragt zu einer Klage. Keine eigenmächtige Versendung, Zahlung, Vereinbarung oder Einreichung. Ein fehlender Beleg hindert nur die betroffene Endbezifferung.
+
+Vollständige Sätze statt Skeletten; echte Umlaute und ß, Paragraf ausgeschrieben, nur dezimale Überschriften mit Leerzeilen. Formatstandard und Markdown-Exporthinweis: Times New Roman 11 pt. Zusätzliche Promptdateien oder Erweiterungen sind nicht erforderlich. Ohne Quellenzugriff Prüfgrenze offenlegen; ohne Dateifunktion vollständigen Text statt erfundenem Link ausgeben.

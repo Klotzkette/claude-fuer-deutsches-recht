@@ -11,7 +11,7 @@ Bereite die Entscheidung über die finanziellen Voraussetzungen eines konkreten 
 
 ## 1.2. Eingaben
 
-Lies zuerst Titel und Staatsangehörigkeit des Stammberechtigten, Verwandtschaft, Alter und Aufenthaltsort aller Haushaltsmitglieder, Antrag und Behördenrechnung. Ziehe Mietvertrag, Lohnabrechnungen, Arbeitsverträge, Befristung und Probezeit, Leistungsbescheide, Unterhaltslasten und Krankenversicherungsnachweise hinzu. Erfasse Einreisetermin und vorgesehene Haushaltszusammensetzung. Stelle höchstens eine gebündelte Rückfrage und arbeite mit offen ausgewiesenen Szenarien weiter.
+Lies zuerst Titel und Staatsangehörigkeit des Stammberechtigten, Verwandtschaft, Alter und Aufenthaltsort aller Haushaltsmitglieder, Antrag und Behördenrechnung. Ziehe Mietvertrag, Lohnabrechnungen, Arbeitsverträge, Befristung und Probezeit, Leistungsbescheide, Unterhaltslasten und Krankenversicherungsnachweise hinzu. Erfasse Einreisetermin und vorgesehene Haushaltszusammensetzung, ohne geklärte Angaben erneut abzufragen. Fehlen die Vertragsverlängerung, der Versicherungsbeginn oder die künftig anfallende Miete, fordere den jeweiligen Nachweis gezielt an. Weise davon abhängige Szenarien als vorläufig aus.
 
 ## 1.3. Ablauf und Checkliste
 
@@ -31,7 +31,9 @@ Rechne mindestens eine gesicherte Grundlohnvariante und eine beleggestützte For
 
 Im Anwendungsbereich der Familienzusammenführungsrichtlinie dürfen Erwerbstätigenfreibeträge nicht ungeprüft aus einer sozialrechtlichen Leistungsrechnung zum Nachteil der Familie übertragen werden. Tatsächliche geringere Erwerbsaufwendungen gesondert nachweisen. Dokumentiere jede Abweichung von der Behördenrechnung mit Betrag, Rechtsgrund und Beleg. Prüfe verbleibende Ausnahmen und Abwägungsstoff getrennt vom Rechenergebnis.
 
-Keine Antragstellung, Rücknahme, Erklärung gegenüber Behörden oder Visumsbuchung ohne Freigabe. Bei drohendem Vollzug zuerst Schutzbedarf und Zuständigkeit kenntlich machen, nicht die ganze Bearbeitung abbrechen. Nach einem Gegencheck belastbaren Teilstand liefern.
+Gleiche eingehende Antworten mit den bisherigen Unterlagen ab und aktualisiere die betroffenen Monatsbeträge, die Behördenabweichung und die Nachhaltigkeitsprognose. Zeigt etwa ein neuer Vertrag einen späteren Arbeitsbeginn, kläre die Finanzierung der Zwischenmonate; wiederhole nicht die gesamte Aufnahme. Die Verfügbarkeit aller angeforderten Dateien beweist noch nicht, dass Lebensunterhalt und Nachhaltigkeit rechtlich gesichert sind. Liefere bei offenen entscheidenden Punkten einen vorläufigen Teilstand und setze nach ihrer Klärung bis zur bestellten Endfassung fort.
+
+Keine Antragstellung, Rücknahme, Erklärung gegenüber Behörden oder Visumsbuchung ohne Freigabe. Bei drohendem Vollzug zuerst Schutzbedarf und Zuständigkeit kenntlich machen, nicht die ganze Bearbeitung abbrechen.
 
 ## 1.4. Quellenpflicht
 
@@ -41,7 +43,11 @@ BVerwG, Urteil vom 16.11.2010, Az. 1 C 20.09, [amtlicher Volltext](https://www.b
 
 ## 1.5. Ausgabeformat
 
-Liefere `ergebnis.md` mit Sachverhalt, Anforderungsweiche, Personen- und Monatstabelle, Differenz zur Behördenrechnung, ausformuliertem Nachreichungsentwurf und höchstens fünf entscheidenden Nachweisen. Vollständige Sätze statt Skelette; Tabellen dienen dem Belegabgleich. Ausschließlich dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
+Liefere das bestellte Dokument unter dem gewünschten Dateinamen; ohne Vorgabe nutze `ergebnis.md`. Stelle Sachverhalt, rechtliche Anforderungen des Nachzugswegs, Haushaltsrechnung, Differenz zur Behördenrechnung und Prognose nachvollziehbar dar. Tabellen nur soweit für Rechnung und Belegabgleich erforderlich.
+
+Formuliere einen bestellten Nachreichungsentwurf vollständig aus; bei einem Gutachtenauftrag keine zusätzlichen Anträge entwerfen. Benenne fehlende entscheidende Nachweise konkret, ohne ihren Inhalt vorwegzunehmen. Quellenstatus und technische Prüfhinweise gesondert in einer Arbeitsnotiz, nicht im Behördenbrief.
+
+Vollständige Sätze statt Skelette; ausschließlich dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
 
 ## 1.6. Beispiele
 

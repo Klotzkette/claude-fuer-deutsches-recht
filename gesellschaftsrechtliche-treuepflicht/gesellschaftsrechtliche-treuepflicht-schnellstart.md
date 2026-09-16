@@ -4,21 +4,16 @@ Prüfe einen konkreten Gesellschafterkonflikt: Wer soll welches Verhalten schuld
 
 Kernauftrag: Großes Prüfplugin zur gesellschaftsrechtlichen Treuepflicht in GmbH, AG, SE, Personengesellschaft, Familiengesellschaft und Konzern: Stimmrecht, Minderheitenschutz, Gesellschafterliste, Einziehung, Ausschluss. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1.1. Sofortstart nach Eingangslage
+## 1.1. Konflikt und Unterlagen
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Gesellschaftsvertrag, Gesellschafterliste, Beschlussprotokoll und Handelsregisterauszug. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten wählen; ohne konkreten Auftrag mit Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Lies Satzung, Gesellschaftervereinbarung, Beteiligungsübersicht, Beschlussunterlagen und die Korrespondenz zum verlangten Verhalten. Bestimme daraus Rolle, konkrete Bindung, wirtschaftliche Belastung und gewünschten Ergebnistyp. Bekannte Angaben nicht erneut erfragen; bei einer Gutachtenbestellung keine ungefragte Klage oder Anteilsübertragung entwerfen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
-
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Frage nach entscheidenden Lücken auch bei vorhandenen Dateien. Ein Beschlussvorschlag belegt weder seine Notwendigkeit noch die Unzumutbarkeit einer Gegenstimme. Bearbeite die bereits begründbaren Teile vorläufig, ohne behauptete Verluste oder Sondervorteile als feststehend zu übernehmen.
 
 ## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
-2. Kernprüfung in einem Durchgang: Wer ist Organ, Gesellschafter, Vertreter oder wirtschaftlich Berechtigter; Welche Beschluss- oder Formanforderung ist Wirksamkeitsvoraussetzung.
+2. Bestimme Mitgliedschafts- und Organrolle sowie die betroffene Pflicht; trenne Beschluss- und Formanforderungen vom Vorwurf treuwidrigen Verhaltens.
 3. Belege und Engpass zusammenführen: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment; besonders kritisch ist: Notarielle Form oder Registerfrist ist ungeklärt.
 4. Erstes Arbeitsprodukt liefern: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
 
@@ -30,16 +25,11 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 4. Verlangtes Verhalten, Alternativen, Eilbedarf und passende Rechtsfolge des Treuepflichtverstoßes bestimmen.
 5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
 
-## 1.4. Fallkarte
+## 1.4. Nachweise zu Notwendigkeit und Belastung
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen |
-| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
-| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Fehlen bei einer verlangten Sanierungszustimmung Angaben zum drohenden Verlust oder zu Alternativen, frage nach Liquiditätsplanung, Finanzierungsangeboten und der konkreten Belastung des betroffenen Gesellschafters. Gleiche die Antwort mit den bisherigen Unterlagen ab und aktualisiere Notwendigkeits- und Zumutbarkeitsprüfung. Formuliere danach das bestellte Gutachten oder Aufforderungsschreiben fertig.
+
+Bei behaupteter Blockade zur Erlangung eines Sondervorteils frage nach der konkreten Forderung und ihrem Zusammenhang mit der Abstimmung. Eine neue Verhandlungsnachricht kann die Bewertung ändern oder eine weitere gezielte Frage erfordern; bereits geklärte Angaben bleiben Grundlage. Behauptete Motive nicht aus einer bloßen Gegenstimme ableiten.
 
 ## 1.5. Stimmfreiheit und Ausnahmebindung
 
@@ -56,14 +46,12 @@ Anker: BGH, Urteil vom 12. April 2016, II ZR 275/14, Randnummern 13 bis 19. Rand
 
 ## 1.7. Antwortform
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
-1.7.2. Regelungsanker: BGB Paragraf 705; HGB Paragraf 105 mit Risikozuweisung und Vollzug verbinden.
-1.7.3. Aktenfund: Für „Gesellschaftsform, Registerlage“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Ladungs- und Beschlussmängeln sowie der Vertretungsmacht.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Gesellschaftsform, Registerlage“. Frist, Kernlücke und nächstem Dokument benennen.
+Liefere das bestellte Gutachten, Schreiben oder den verlangten Beschluss- beziehungsweise Schriftsatzentwurf vollständig. Begründe die konkrete Pflicht, Gegeninteressen, Zumutbarkeit und Rechtsfolge; eine Interessenübersicht ergänzt die Begründung nur bei Bedarf. Prüfe vor Abschluss die Einarbeitung neuer Angaben und den stärksten Einwand. Bei fehlendem entscheidenden Nachweis den Teilstand kennzeichnen und nach Eingang bis zur bestellten Endfassung weiterarbeiten.
 
-## 1.8. Stop
+## 1.8. Grenzen
 
-Nur bei diesem Stop-Punkt unterbrechen: Notarielle Form oder Registerfrist ist ungeklärt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Eine vorhandene Werkstatt dient nur optional der Vertiefung. Liefere vollständige Sätze; Export: Times New Roman 11 pt, dezimale Gliederung. Keine eigenständige Einreichung, Erklärung oder Zahlung.
+Ungeklärte notarielle Form oder Registerfrist begrenzt den betroffenen Vollzug, nicht die gesamte Prüfung. Benenne die benötigte Klärung und bearbeite unabhängige Teile weiter. Eine vorhandene Werkstatt dient nur optional der Vertiefung. Liefere vollständige Sätze; Export: Times New Roman 11 pt, dezimale Gliederung. Keine eigenständige Einreichung, Erklärung oder Zahlung.
+
+## 1.9. Technische Grenzen
+
+Ohne Datei- oder Quellenzugriff die konkrete Lücke in einer getrennten Arbeitsnotiz benennen, nicht im Empfängertext. Bei Werkzeugfehlern einen begründeten Ersatzweg versuchen; ohne Export vollständigen Text liefern. Keine ungeprüfte Quelle, vollständige Aktenprüfung oder erfolgte Handlung vortäuschen.

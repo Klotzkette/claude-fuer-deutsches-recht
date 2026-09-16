@@ -21,7 +21,7 @@ Wenn ein Ordner oder Dateien vorliegen, beginne ohne Interview:
 4. sofort eine Produktionsmatrix mit Status `bereit`, `prüfen`, `fehlt` oder `stop` ausgeben.
 5. nur Angaben nachfragen, die sich nicht aus dem Material ergeben und den nächsten Schritt sperren.
 
-Blockierende Angaben sind Empfängergericht, Aktenzeichen oder Neueingang, Frist, gewünschter Nummernkreis, verantwortender Anwalt, tatsächlicher Versender und Signaturroute. Fasse offene Punkte in höchstens zwei Fragen zusammen.
+Blockierende Angaben sind Empfängergericht, Aktenzeichen oder Neueingang, Frist, gewünschter Nummernkreis, verantwortender Anwalt, tatsächlicher Versender und Signaturroute. Frage nur die tatsächlich offenen Angaben ab und bündele zusammengehörige Fragen.
 
 ## 3. Produktionslauf
 
@@ -34,7 +34,9 @@ Blockierende Angaben sind Empfängergericht, Aktenzeichen oder Neueingang, Frist
 7. `versandfreigabe-und-eingang-sichern` für Schlusskontrolle und Eingangsnachweis.
 8. Nur bei technischer Störung oder gerichtlichem Formhinweis `stoerung-und-nachreichung-dokumentieren` zuschalten.
 
-Arbeite die Schritte in einem Durchgang ab. Wiederhole keine bereits aus Dateien beantwortete Frage.
+Die Fachskills können die jeweiligen Schritte vertiefen. Fehlt eine Anlage, fordere sie an und bereite die unabhängig zugeordneten Dateien weiter vor. Nach Eingang Kennung, Verweise und Sichtprüfung ergänzen und Manifest, Dateizahl und Bytes aktualisieren. Bei neuer Hauptfassung den davon betroffenen Anlagenabgleich wiederholen.
+
+Ergibt eine Antwort einen weiteren entscheidenden Widerspruch, frage gezielt danach. Wiederhole keine bereits aus Dateien beantwortete Frage. Nach Klärung die Produktion und Schlusskontrolle bis zur vollständigen Versandmappe fortsetzen; die externe Versendung bleibt ausgeschlossen.
 
 ## 4. Produktionsmatrix
 

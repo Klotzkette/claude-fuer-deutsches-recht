@@ -1,6 +1,8 @@
 # 1. Marke, Ware und Vertriebsweg prüfen
 
-Lies zuerst Sachverhalt, Registerdaten, angegriffenes Angebot, Produktbilder und Lieferbelege. Bestimme Inhaber, Markenart, Schutzgebiet, Zeitrang und betroffene Waren. Verwechsle eine Markenanmeldung nicht mit nachgewiesenem Bestand eines Schutzrechts. Bearbeite Anmeldung, Kollision oder Durchsetzung entsprechend dem Auftrag; frage nur nach entscheidungsblockierenden Lücken.
+Bearbeite die beauftragte Anmeldung, Kollision oder Durchsetzung anhand von Registerdaten, Angeboten, Produktbildern und Lieferbelegen bis zum gewünschten Dokument. Lies vorhandene Unterlagen und Antworten zuerst.
+
+Bestimme Inhaber, Markenart, Schutzgebiet, Zeitrang und betroffene Waren. Verwechsle eine Markenanmeldung nicht mit nachgewiesenem Bestand eines Schutzrechts. Frage nur nach Angaben, die das Ergebnis tatsächlich verändern.
 
 ## 1.1. Zeichen und Verwendung
 
@@ -12,8 +14,18 @@ Trenne Fälschungsverdacht von echtem Parallelimport. Führe je Charge Seriennum
 
 Untersuche Umpackung, entfernte Kennzeichnungen, Reparaturen und konkrete Präsentation einzeln. Mache aus einem möglichen Verstoß gegen einen Händlervertrag nicht ohne eigene Prüfung eine Markenverletzung. Behaupte einen Imageschaden nicht lediglich wegen niedriger Preise. Beweisanforderungen und mögliche Besonderheiten der Beweislast anhand der konkreten Lieferkette amtlich prüfen.
 
+Fehlt die Rechnung zum ersten Inverkehrbringen einer Charge, frage nach genau diesem Nachweis. Bis zur Klärung weder Erschöpfung noch Fälschung als feststehend behaupten. Nach Eingang ordne die Rechnung der Ware zu, prüfe die betroffene Charge erneut und passe die Beanstandung oder Verteidigung an. Zeigt sich eine weitere entscheidende Lücke, frage kurz weiter; bereits geklärte Angaben nicht erneut erheben.
+
 ## 1.3. Plattform, Zoll oder Schreiben
 
 Sichere Angebotsadresse, Datum, Verkäuferkennung, Variante und Produktansicht. Begrenze Beanstandungen auf tatsächlich zugeordnete Angebote und Waren. Ordne bei mehreren Lieferwegen jede Charge gesondert ein. Plattformmeldung, Zollmaßnahme und gerichtliche Durchsetzung haben unterschiedliche Voraussetzungen; eine Meldung ist noch kein nachgewiesener Verletzungsbefund.
 
-Liefere das gewünschte ausformulierte Schreiben oder eine Prüfmatrix mit Ergebnis je Zeichen und Charge, tragenden Belegen und nächstem Schritt. Rechtsbehelfsfristen aus konkretem Verfahren und Bekanntgabe ableiten. Weitere Normen und Entscheidungen nur amtlich verifiziert verwenden. Optional vertieft `erschoepfung-parallelimport-graumarkt` die Herkunftsprüfung; ohne Zugriff reichen die vorstehenden Arbeitsschritte. Ohne Register- oder Exportzugriff offene Grenzen benennen, keine Recherche oder Datei behaupten. Export: Times New Roman, 11 pt, dezimale Gliederung.
+Fehlen für einen Benutzungsnachweis zeitlich zuordenbare Produktbelege, benenne die betroffene Ware und den relevanten Zeitraum. Nach der Antwort aktualisiere den belegten Umfang und die Begründung des bestellten Widerspruchs oder der Erwiderung. Eine Nachforderung allein beendet den Auftrag nicht.
+
+## 1.4. Bestelltes Ergebnis
+
+Liefere das gewünschte ausformulierte Schreiben oder Gutachten; eine Tabelle je Zeichen oder Charge nur, wenn sie die Prüfung tatsächlich unterstützt. Bei einem Hindernis den belastbaren Teil liefern und die konkret benötigte Antwort benennen, danach bis zur Endfassung fortsetzen. Ein Beratungsauftrag verlangt keinen ungefragten Klageentwurf.
+
+Rechtsbehelfsfristen aus konkretem Verfahren und Bekanntgabe ableiten. Weitere Normen und Entscheidungen nur amtlich verifiziert verwenden; Quellenstatus getrennt vom Mandantenbrief dokumentieren. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur der Standard ohne Vorgabe. Meldung, Anmeldung, Versand oder Einreichung nur nach ausdrücklicher Freigabe. Export: Times New Roman, 11 pt, dezimale Gliederung.
+
+Optional vertieft `erschoepfung-parallelimport-graumarkt` die Herkunftsprüfung; ohne Zugriff reichen die vorstehenden Arbeitsschritte. Bei fehlendem Register- oder Dateizugriff einen geeigneten anderen Weg versuchen und die verbleibende Lücke benennen. Keine nicht erfolgte Recherche oder Dateierzeugung behaupten.

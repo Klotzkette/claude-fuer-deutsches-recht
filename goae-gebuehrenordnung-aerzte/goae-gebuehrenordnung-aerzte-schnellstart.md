@@ -1,73 +1,45 @@
-# 1. GOÄ Gebührenordnung Ärzte — Schnellstart
+# 1. Privatärztliche Rechnung prüfen
 
-Wenn du das hier öffnest, willst du eine privatärztliche Rechnung ziffern-, faktor- und formgenau prüfen, begründen, korrigieren oder durchsetzen.
+Prüfe meine Arztrechnung anhand der abgerechneten Leistungen, Faktoren und Belege. Erstelle die beauftragte Berechnung, Korrekturfassung oder Antwort an Praxis, Patient oder Kostenträger.
 
-Kernauftrag: Private Arztrechnungen nach der GOÄ prüfen, erstellen, begründen, beanstanden und prozessual verwerten. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Rechnung und Behandlung lesen
 
-## 1.1. Sofortstart nach Eingangslage
+Lies die maßgebliche Rechnungsversion, vorhandene Behandlungsunterlagen, Honorar- oder Wahlleistungsvereinbarungen und bisherige Einwendungen. Entnimm daraus Leistungserbringer, Zahlungspflichtigen, Behandlungstage, Rechnungsbetrag und Ziel; bereits geklärte Angaben nicht erneut abfragen. PKV-Erstattung und ärztlicher Honoraranspruch sind verschiedene Fragen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Rechnung und Behandlung, Ziffernkette, Faktor und Betrag wählen; ohne konkreten Auftrag mit Rechnung und Behandlung beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Gleiche jede streitige Position mit Datum, Leistungsinhalt, Ziffer, Anzahl, Faktor und Betrag ab. Eine Rechnung belegt noch nicht allein die tatsächliche Leistungserbringung. Fehlende Dokumentation nicht durch eine vermutete Diagnose oder Behandlung ersetzen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Rechnung und Behandlung, Ziffernkette, Faktor und Betrag und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Leistung und Ziffer zuordnen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Prüfe Leistungslegende, Selbständigkeit, Ausschlüsse, Nebeneinanderberechnung und Zielleistungsprinzip. Bei Analogbewertung nach Paragraf 6 GOÄ tatsächliche Leistung und Vergleichsleistung anhand der einschlägigen Voraussetzungen begründen. Unbekannte Ziffern oder Leistungsinhalte nicht erfinden.
 
-## 1.2. Fachlicher Direktstart
+Fehlt die Grundlage eines Mehrfachansatzes, frage nach den betreffenden Behandlungsschritten und ihrer Dokumentation. Nach Eingang prüfen, ob selbständige Leistungen oder bereits enthaltene Bestandteile vorliegen. Ein neuer Arztbrief kann die Sachlage erläutern, beweist aber nicht automatisch jede streitige Position.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete ärztliche Leistung wurde wann, von wem und mit welcher Dokumentation erbracht.
-2. Kernprüfung in einem Durchgang: Welche Ziffer bildet die Leistung vollständig ab und welche Ausschluss- oder Zielleistungsregel greift; Welcher Schwellen- und Höchstsatz gilt und welche Besonderheit trägt den gewählten Faktor.
-3. Belege und Engpass zusammenführen: Nachweisachse Ziffernkette: Leistungsinhalt, Ausschlüsse, Zielleistung, Nebeneinanderberechnung, Analogansatz und Dokumentation positionsweise prüfen; besonders kritisch ist: Behandlungsdokumentation, Rechnungsversion oder zugrunde gelegte GOÄ-Ziffer fehlt.
-4. Erstes Arbeitsprodukt liefern: Rechnungszeile: Datum, Leistung, Ziffer, Anzahl, Faktor, Begründung, Betrag, Ausschluss, Dokumentationsfund und Korrektur.
-
-## 1.3. Kernroute
-
-1. Rechnung und Behandlung: Arzt, Zahlungspflichtiger, Behandlungsdatum, Leistung, Diagnosebezug, Rechnung, Fälligkeit und Einwendung erfassen.
-2. Ziffernkette: Leistungsinhalt, Ausschlüsse, Zielleistung, Nebeneinanderberechnung, Analogansatz und Dokumentation positionsweise prüfen.
-3. Faktor und Betrag: Leistungsgruppe, Schwellen- und Höchstsatz, individuelle Begründung, Punktzahl, Punktwert, Minderung und Rechenweg kontrollieren.
-4. Sonderweg: Honorarvereinbarung, Wahlleistung, Auslagen, Wegegeld, Basistarif, Beihilfe oder PKV-Erstattung getrennt bewerten.
-5. Arbeitsprodukt: korrigierte Rechnung, Ziffern- und Faktormatrix, Begründungstext, Einwendung, Zahlungsaufforderung oder Klagebaustein erstellen.
-
-## 1.4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GOÄ Paragraf 1; GOÄ Paragraf 2; GOÄ Paragraf 5 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Arzt, Zahlungspflichtiger, Behandlungsdatum, Leistung, Diagnosebezug, Rechnung, Fälligkeit und Einwendung erfassen |
-| Beweislast | Nachweisachse Ziffernkette: Leistungsinhalt, Ausschlüsse, Zielleistung, Nebeneinanderberechnung, Analogansatz und Dokumentation positionsweise prüfen |
-| Rechtsfolge | korrigierte Rechnung, Ziffern- und Faktormatrix, Begründungstext, Einwendung, Zahlungsaufforderung oder Klagebaustein erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 1.5. Faktorprüfung je Leistungsgruppe
+## 1.3. Faktor und Betrag prüfen
 
 Paragraf 5 GOÄ: Regelbereich bis 2,3 und Höchstsatz 3,5; für Abschnitte A, E und O bis 1,8 beziehungsweise 2,5; für Nummer 437 und Abschnitt M bis 1,15 beziehungsweise 1,3. Honorarvereinbarung und Sonderfälle separat prüfen. Eine Begründung hebt den einschlägigen Höchstsatz nicht auf.
 
-Paragraf 12 Absatz 3 verlangt bei Schwellenüberschreitung eine verständliche, auf die einzelne Leistung bezogene schriftliche Begründung. Erfasse fehlende Begründung, unzulässigen Faktor und Rechenfehler getrennt. Keine Behandlungserschwernis erfinden. Fordere die konkrete Erläuterung an und berechne nur ausdrücklich bezeichnete Korrekturvarianten. PKV-Erstattung und Honoraranspruch bleiben verschiedene Fragen.
+Paragraf 12 Absatz 3 verlangt bei Schwellenüberschreitung eine verständliche, auf die einzelne Leistung bezogene schriftliche Begründung. Fehlende Begründung, unzulässigen Faktor und Rechenfehler getrennt behandeln. Keine Behandlungserschwernis erfinden; frage nach der konkreten Schwierigkeit, dem Zeitaufwand oder den Ausführungsumständen und prüfe deren Bedeutung für die einzelne Leistung.
 
-## 1.6. Anker
+Berechne Punktzahl, Punktwert, Anzahl, Faktor, gegebenenfalls Minderung und Auslagen nachvollziehbar. Gegenrechnungen als begründete Korrektur oder ausdrücklich bedingte Variante ausweisen, nicht sämtliche Positionen pauschal auf einen Faktor reduzieren. Zahlungen und Gutschriften vom tatsächlich verbleibenden Anspruch abziehen.
 
-- GOÄ Paragraf 1: Vergütungen für berufliche Leistungen von Ärzten, soweit nicht Bundesgesetz etwas anderes bestimmt.
-- GOÄ Paragraf 2: abweichende Gebührenhöhe mit persönlicher Absprache, gesondertem Schriftstück, Pflichtinhalt und sachlichen Ausschlüssen.
-- GOÄ Paragraf 5: Gebührenrahmen, Schwellenwerte 2.3, 1.8 und 1.15 sowie Höchstsätze 3.5, 2.5 und 1.3.
-- GOÄ Paragraf 6 und Paragraf 6a: Analogbewertung und Minderung bei stationären Leistungen.
-- Paragraf 1 GOÄ definiert den Anwendungsbereich der Gebührenordnung für Ärzte: Berufliche Leistungen approbierter Ärzte gegenüber Privatpatienten und Selbstzahlern; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 87 SGB V: EBM für GKV-Vertragsärzte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 630a ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 630a–630h; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+## 1.4. Sonderfragen und Fortsetzung
 
-## 1.7. Antwortform
+Bei Honorarvereinbarung nach Paragraf 2 GOÄ Leistungsgruppe, persönliche Absprache, Zeitpunkt, gesondertes Schriftstück und Pflichtinhalt prüfen. Bei stationären Leistungen Paragraf 6a, bei Auslagen Paragraf 10 und bei Fälligkeit Paragraf 12 GOÄ gesondert anwenden. Wahlleistung, Wegegeld, Basis- oder Standardtarif und Beihilfe nur nach dem konkreten Fall beurteilen.
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: korrigierte Rechnung, Ziffern- und Faktormatrix, Begründungstext, Einwendung, Zahlungsaufforderung oder Klagebaustein erstellen.
-1.7.2. Norm: GOÄ Paragraf 1; GOÄ Paragraf 2 mit dem entscheidenden Merkmal verbinden.
-1.7.3. Aktenfund: Für „Rechnung und Behandlung“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Nachweisachse Ziffernkette: Leistungsinhalt, Ausschlüsse, Zielleistung, Nebeneinanderberechnung, Analogansatz und Dokumentation positionsweise prüfen. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Ziffer bildet die Leistung vollständig ab und welche Ausschluss- oder Zielleistungsregel greift.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Rechnungszeile“. Frist, Kernlücke und nächstem Dokument benennen.
+Arbeite nachgereichte Erläuterungen und Belege in die betroffenen Rechnungspositionen ein und berechne die Gesamtdifferenz erneut. Schreibe anschließend das bestellte Schreiben vollständig fertig. Zeigt die Antwort eine neue entscheidende Lücke, darf eine weitere kurze Rückfrage folgen; keine Wiederholung bereits geklärter Angaben.
 
-## 1.8. Stop
+Bei fehlenden Nachweisen die unabhängig prüfbaren Positionen vorläufig liefern und den konkret benötigten nächsten Beitrag nennen. Ein Prüfauftrag verlangt nicht automatisch eine Zahlungsaufforderung oder Klage. Auch eine vollständige Behandlungsakte ersetzt nicht die Prüfung der Abrechenbarkeit.
 
-Nur bei diesem Stop-Punkt unterbrechen: Behandlungsdokumentation, Rechnungsversion oder zugrunde gelegte GOÄ-Ziffer fehlt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Eine vorhandene Werkstatt dient nur optional der Vertiefung. Liefere vollständige Sätze; Export: Times New Roman 11 pt, dezimale Gliederung. Keine eigenständige Einreichung, Erklärung oder Zahlung.
+## 1.5. Rechtsrahmen und Quellen
+
+Prüfe GOÄ Paragrafen 1, 2, 4, 5, 6, 6a, 10 und 12 sowie die einschlägigen Leistungslegenden anhand des amtlichen Texts. Paragraf 1 regelt berufliche ärztliche Vergütung, soweit nicht Bundesgesetz etwas anderes bestimmt; vertragsärztliche GKV-Abrechnung nach Paragraf 87 SGB V und private Leistungen getrennt einordnen. Für Behandlungsvertrag und wirtschaftliche Information Paragrafen 630a bis 630h BGB, insbesondere Paragraf 630c, fallbezogen prüfen.
+
+Tragende Rechtsprechung nur mit überprüftem Inhalt, Gericht, Form, Datum und Aktenzeichen verwenden. Keine Fundstellen oder medizinischen Feststellungen erfinden. Maßgebliche Fassung und konkrete Leistungsgruppe vor der Berechnung kontrollieren.
+
+## 1.6. Ergebnis und Grenzen
+
+Liefere das bestellte Dokument unter dem gewünschten Dateinamen. Eine Rechnungskontrolle nennt geprüfte Position, Grund und Euro-Auswirkung; ein Patientenbrief erklärt Ergebnis und Empfehlung verständlich. Tabellen nur für tatsächliche Positionsvergleiche oder Rechnungen beifügen, nicht als obligatorische Ausgabe aller internen Prüfschritte.
+
+Prüfe vor Abschluss Restbetrag, Belegbezug, Fälligkeit, gegebenenfalls Verjährung und Einarbeitung neuer Antworten. Quellenvermerke und technische Lücken getrennt vom Empfängerbrief halten. Keine Rechnung versenden, Zahlung auslösen oder Klage einreichen ohne ausdrückliche Freigabe.
+
+Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Ohne Zugriff konkrete Auszüge anfordern und unabhängige Positionen bearbeiten; ohne Export vollständigen Text statt erfundener Links liefern. Weitere Skills und Werkstatttexte sind optional.

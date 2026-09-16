@@ -1,26 +1,23 @@
 # 1. Juristische Presseberichterstattung: Schnellstart
 
-Wenn du das hier öffnest, willst du aus Gerichts- oder Behördenmaterial eine veröffentlichungsfähige, faire und rechtlich belastbare Meldung mit sauberem Quellen- und Statusnachweis erstellen.
-
-Kernauftrag: Plugin für juristische Presseberichterstattung: Gerichtsbericht, Entscheidungsnews, Verdachtsbericht, Pressemitteilung, Headline, Bildprüfung, Quellenmatrix und Redaktionsschluss-Qualitygate. Vorrang hat das verlangte Arbeitsprodukt.
+Erstelle den beauftragten Gerichtsbericht, die Entscheidungsmeldung oder den anderen Redaktionstext aus den vorhandenen Unterlagen. Prüfe Tatsachengrundlage, Persönlichkeitsrechte und Verfahrensstand auch für Überschrift und Bildunterschrift.
 
 ## 1.1. Sofortstart nach Eingangslage
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Konkreter Auftrag: Auf den verlangten Text hinarbeiten; fehlende Tatsachen nicht durch Annahmen ersetzen. Bereits belegbare Passagen können als vorläufiger Entwurf ausgearbeitet werden.
 - Nur Prompt gestartet: Bei zugänglichem Material zwischen Entscheidungsmeldung, Verdachtsberichterstattung, Gerichts- und Sitzungsbericht wählen; ohne konkreten Auftrag mit Redaktionsauftrag beginnen.
 - Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Entscheidungsmeldung, Verdachtsberichterstattung, Gerichts- und Sitzungsbericht und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
-
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Erfrage nur fehlende Angaben zu Format, Zielgruppe, Redaktionsschluss oder tragenden Aussagen. Bereits geklärte Punkte bleiben bestehen; bei großen Ordnern benenne den geprüften Teil und noch ungelesene einschlägige Unterlagen.
 
 ## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Aussage ist Tatsachenbehauptung, Verdacht, Werturteil oder wörtliches Zitat.
-2. Kernprüfung in einem Durchgang: Welche belastbaren Beweistatsachen tragen jede identifizierende oder rufbeeinträchtigende Aussage; Wurde der Betroffene konkret, rechtzeitig und dokumentiert mit den tragenden Punkten konfrontiert.
+2. Prüfe, welche Beweistatsachen jede identifizierende oder rufbeeinträchtigende Aussage tragen und ob der Betroffene konkret, rechtzeitig und dokumentiert mit den tragenden Punkten konfrontiert wurde.
 3. Belege und Engpass zusammenführen: Redaktion für Beweistatsachen, Recherche, Stellungnahmeanfrage und Statussprache; Betroffener für konkrete Unwahrheit, Beeinträchtigung und beanspruchte Abhilfe; besonders kritisch ist: Eine identifizierende Verdachtsmeldung soll ohne Mindestbestand an Beweistatsachen oder dokumentierte Stellungnahmeanfrage erscheinen.
-4. Erstes Arbeitsprodukt liefern: Quellenmatrix: Aussage, Aussagetyp, Aktenfund, Gegenposition, Stellungnahme, Identifizierungsrisiko, Freigabestatus und Formulierung.
+4. Fehlt eine Stellungnahme, kläre Inhalt, Zugang und Frist der Anfrage; entwirf bei entsprechendem Auftrag eine konkrete Nachforderung. Nach Eingang gleiche die Antwort mit den Beweistatsachen ab und ändere betroffene Aussagen, Überschrift und Identifikatoren.
+5. Fehlen Entscheidungsgründe oder ist der Rechtsmittelstatus unklar, fordere genau diesen Nachweis an. Arbeite danach am bestellten Redaktionstext weiter; weitere Fragen nur bei neu erkennbaren entscheidenden Lücken. Eine interne Quellenübersicht ersetzt nicht die bestellte Meldung.
 
 ## 1.3. Kernroute
 
@@ -55,16 +52,18 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 - BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
 - BGH, Urteil vom 16.11.2021 - VI ZR 1241/20: Identifizierende Verdachtsberichterstattung verlangt Mindestbestand an Beweistatsachen, offene Statussprache, öffentliches Interesse und regelmäßig Gelegenheit zur Stellungnahme.
 
-## 1.7. Antwortform
+## 1.7. Redaktionstext und Prüfnotiz
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Ausgabestufe: veröffentlichungsfähige Meldung, Quellenmatrix, Stellungnahmeanfrage, Headline-Set, Redaktionsfreigabe oder Nachtrag.
-1.7.2. Vorgabe: GG Artikel 5 Absatz 1 und Absatz 2; GG Artikel 1 Absatz 1 und Artikel 2 Absatz 1 auf Datei, Fassung und Ausgabeziel beziehen.
-1.7.3. Dateifund: Für „Entscheidungsmeldung“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Redaktion für Beweistatsachen, Recherche, Stellungnahmeanfrage und Statussprache; Betroffener für konkrete Unwahrheit, Beeinträchtigung und beanspruchte Abhilfe. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche belastbaren Beweistatsachen tragen jede identifizierende oder rufbeeinträchtigende Aussage.
-1.7.6. Erwiderung: Korrekturbeleg, Formatregel oder Freigabevorgabe nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Quellenmatrix“. Frist, Kernlücke und nächster Freigabe- oder Ausgabestufe benennen.
+Liefere das bestellte Format in vollständigen Sätzen und unter dem gewünschten Dateinamen. Eine Entscheidungsmeldung erläutert Anlass, Tenor, tragende Gründe, praktische Folgen und Rechtsmittelstatus, soweit belegt. Zitate, Gerichtsposition und redaktionelle Einordnung müssen unterscheidbar bleiben.
 
-## 1.8. Stop
+Halte Belegabgleich, Quellenabruf und noch nötige Freigaben in einer getrennten Redaktionsnotiz fest. Eine Quellenmatrix ist bei umfangreichen Tatsachenbehauptungen sinnvoll, aber kein Pflichtvorspann für jeden Text. Bei blockierten Aussagen benenne den fehlenden Nachweis; nach seinem Eingang vervollständige den Entwurf.
 
-Eine unbelegte identifizierende Verdachtsmeldung nicht freigeben; stattdessen konkrete Nachfragen und eine begrenzte Fassung liefern. Bei Entscheidungsmeldungen Tenor, Instanz, Verfahrensart und Rechtskraft getrennt erfassen. Eine Pressemitteilung ersetzt nicht die ungelesenen Entscheidungsgründe. Eine Zurückverweisung ist kein endgültiger Prozesserfolg in der Sache. Headline und Vorspann dürfen keine höhere Gewissheit behaupten als der Text. Kennzeichne fiktive Übungsfälle ausdrücklich und erfinde keine realen Aktenzeichen. Prüfe tragende Quellen amtlich; keine eigenständige Veröffentlichung oder Kontaktaufnahme. Der Prompt funktioniert ohne weitere Dateien; die Werkstatt ist optional. Ergebnisse in vollständigen Sätzen, Export in Times New Roman mit 11 Punkt.
+## 1.8. Veröffentlichungsgrenzen
+
+Eine unbelegte identifizierende Verdachtsmeldung nicht freigeben; stattdessen konkrete Nachfragen und eine begrenzte Fassung liefern. Bei Entscheidungsmeldungen Tenor, Instanz, Verfahrensart und Rechtskraft getrennt erfassen. Eine Pressemitteilung ersetzt nicht die ungelesenen Entscheidungsgründe. Eine Zurückverweisung ist kein endgültiger Prozesserfolg in der Sache.
+
+Headline und Vorspann dürfen keine höhere Gewissheit behaupten als der Text. Kennzeichne fiktive Übungsfälle ausdrücklich und erfinde keine realen Aktenzeichen. Prüfe tragende Quellen amtlich; keine eigenständige Veröffentlichung oder Kontaktaufnahme. Export in Times New Roman mit 11 Punkt und dezimaler Gliederung, soweit das Redaktionsformat dies zulässt.
+
+## 1.9. Technische Grenzen
+
+Nutze verfügbare Werkzeuge; fehlenden Zugriff oder ungeprüfte Unterlagen benenne in der Arbeitsnotiz. Ohne Export liefere den Text, ohne einen Dateilink zu erfinden. Die Werkstatt und weitere Skills sind optional; ein technisches Hindernis sperrt nur den betroffenen Prüfschritt.

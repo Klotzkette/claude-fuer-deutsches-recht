@@ -9,17 +9,17 @@ description: "Für Erster Tag und erste Woche als Staatsanwältin oder Staatsanw
 
 Dieser Skill begleitet den Berufseinstieg in den ersten Tagen und der ersten Woche. Er ist bewusst praktisch gehalten und beantwortet die Frage, die am Anfang am dringendsten ist: Was muss ich heute tun, was kann warten, und wo darf ich auf keinen Fall einen Fehler machen. Der Skill ordnet die neue Rolle ein, sichert die übernommenen Akten gegen Fristen- und Haftpannen, führt durch die erste Eingangs- und Abschlussverfügung und benennt die typischen Anfängerfehler mit ihrem konkreten Vermeidungsweg.
 
-Der Skill ist Einstieg und Wegweiser, kein Lehrbuch. Sobald die konkrete Aufgabe feststeht, verweist er in den passenden Spezial-Skill desselben Plugins und liefert bei klarer Faktenlage sofort einen ersten verwendbaren Entwurf.
+Sobald die konkrete Aufgabe feststeht, bearbeite sie unmittelbar bis zum bestellten Vermerk oder Entwurf. Passende Spezialskills können optional unterstützen; ihr Durchlaufen ist keine Voraussetzung.
 
 ## 2. Eingaben
 
-Damit der Skill sofort arbeiten kann, werden zu Beginn höchstens drei Angaben erfragt, sofern sie sich nicht aus vorgelegten Unterlagen ergeben:
+Entnimm die folgenden Angaben zuerst den Unterlagen und dem Auftrag. Frage nur nach den Punkten, die für die konkrete Bearbeitung noch entscheidend fehlen:
 
 1. Rolle in dieser Woche: Dezernatsarbeit (Ermittlungs- und Abschlussverfügungen), Sitzungsdienst (Vertretung der Anklage in der Hauptverhandlung) oder Bereitschafts- und Eildienst (Festnahmen, richterliche Vorführungen, eilige Anordnungen außerhalb der Dienstzeit).
 2. Verfahrensstand des konkreten Vorgangs: frische Anzeige, laufendes Ermittlungsverfahren, abschlussreife Akte, anstehender Hauptverhandlungstermin oder Eilentscheidung.
 3. Gewünschtes Arbeitsprodukt: Eingangsverfügung, Ermittlungsauftrag, Abschlussverfügung, Anklageschrift, Strafbefehlsantrag, Sitzungsvorbereitung, Plädoyer-Gerüst oder Fristen- und Haftsachen-Cockpit.
 
-Liegen Akten, ein Aktenauszug, eine Anzeige oder ein polizeilicher Schlussbericht vor, werden diese zuerst ausgewertet; Rückfragen erfolgen nur zu echten Lücken.
+Liegen Akten, ein Aktenauszug, eine Anzeige oder ein polizeilicher Schlussbericht vor, werden diese zuerst ausgewertet. Fehlt etwa eine bezeichnete Vernehmung oder ein Zustellnachweis, fordere genau diese Unterlage an und bearbeite unabhängige Teile vorläufig weiter. Nach Eingang Verdachtsbewertung, Frist und betroffenen Entwurf aktualisieren; neu erkennbare entscheidende Widersprüche gezielt klären, ohne die Aufnahme zu wiederholen.
 
 ## 3. Ablauf und Checkliste
 
@@ -29,7 +29,7 @@ Zuerst wird die Rolle für diese Woche bestimmt, weil sie alles Weitere steuert.
 
 Als Dezernentin oder Dezernent leitet man eigenverantwortlich das Ermittlungsverfahren, steuert die Polizei nach Paragraf 161 und Paragraf 163 StPO und trifft die Abschlussentscheidung nach Paragraf 170 StPO. Beim Sitzungsdienst vertritt man in der Hauptverhandlung die Anklage, stellt Anträge und hält das Plädoyer; die Akte hat in der Regel jemand anderes ermittelt. Im Bereitschafts- und Eildienst entscheidet man unter Zeitdruck über die Beantragung von Untersuchungshaft nach den Paragrafen 112 ff. StPO, über die Vorführung nach Paragraf 128 StPO und über eilige Anordnungen, häufig mit der Annahme von Gefahr im Verzug.
 
-Bei der Übernahme eines Dezernats werden zuerst die kritischen Sachen gesichert: alle Haftsachen, alle Verfahren mit kurz bevorstehender Verjährung, alle Verfahren mit gerichtlich gesetzten oder selbst gesetzten Fristen und alle Sachen mit anstehendem Hauptverhandlungstermin. Diese Liste wird vor jeder inhaltlichen Arbeit erstellt.
+Bei der Übernahme eines Dezernats werden zuerst die kritischen Sachen geordnet: Haftsachen, kurz bevorstehende Verjährung, gerichtliche oder interne Fristen und anstehende Hauptverhandlungstermine. Bei einem Auftrag zu einer einzelnen Akte genügt deren Prüfung; keine dezernatsweite Liste als Vorbedingung verlangen.
 
 ### 3.2. Haftsachen und Fristen zuerst
 
@@ -45,9 +45,9 @@ Vor jeder Ermittlung steht der Anfangsverdacht nach Paragraf 152 Absatz 2 StPO: 
 
 Die Abschlussentscheidung folgt einem klaren Prüfungsweg. Der Entscheidungsbaum unter Ziffer 4 führt strukturiert von der Frage des hinreichenden Tatverdachts über die Opportunitätseinstellungen bis zur Wahl zwischen Strafbefehl und Anklage.
 
-### 3.5. Kommunikation und Stop
+### 3.5. Kommunikation und notwendige Vorlage
 
-Schließlich wird geklärt, mit wem kommuniziert werden muss: Polizei (Ermittlungsauftrag, Sachstand), Gericht (Antrag, Vorlage), Verteidigung (Akteneinsicht nach Paragraf 147 StPO, Verständigungssondierung), Verletzte und Nebenklage. Bei jedem Zweifel an Zuständigkeit, Befangenheit, Beweisverwertungsverbot, Pressebezug oder Amtshaftungsrisiko wird die Sache der Abteilungsleitung vorgelegt, statt im Alleingang zu entscheiden.
+Bestimme erforderliche Empfänger: Polizei für Ermittlungsauftrag oder Sachstand, Gericht für Antrag oder Vorlage, Verteidigung etwa zur Akteneinsicht nach Paragraf 147 StPO sowie Verletzte und Nebenklage. Bei ungeklärter Zuständigkeit, Befangenheit, Verwertbarkeit, Pressebezug oder Amtshaftungsrisiko bereite die erforderliche Abstimmung mit der Abteilungsleitung vor; behaupte keine bereits erfolgte Vorlage. Unabhängige Teile weiterbearbeiten und nach Klärung den bestellten Entwurf vervollständigen.
 
 ## 4. Entscheidungsbaum Abschlussentscheidung
 
@@ -131,7 +131,9 @@ Verfahrensdaten und dienstliche Geheimnisse werden ausschließlich nach den gelt
 
 9.1. Eine neue Dezernentin übernimmt am ersten Tag dreißig Akten. Der Skill erstellt zuerst eine Vorrangliste mit Haftsachen, Verjährungssachen und Fristsachen, liefert für die erste Haftsache einen Kontrollvermerk zur Frist nach Paragraf 121 StPO und schlägt für eine abschlussreife Bagatellakte den Entscheidungsbaum nach Ziffer 4 mit einer begründeten Empfehlung zu Paragraf 153a StPO vor.
 
-9.2. Ein Berufseinsteiger hat am dritten Tag Bereitschaftsdienst und wird zu einer Festnahme gerufen. Der Skill führt durch die Prüfung der Haftgründe nach Paragraf 112 StPO, die Vorführungsfrist nach Paragraf 128 StPO und die Verhältnismäßigkeit, benennt die Stop-Kriterien für eine Vorlage und liefert ein Gerüst für den Antrag auf Erlass eines Haftbefehls; vertieft wird über den Spezial-Skill `haftbefehl-und-u-haft-antrag`.
+9.2. Ein Berufseinsteiger hat am dritten Tag Bereitschaftsdienst und bearbeitet eine Festnahme. Der Skill prüft Haftgründe nach Paragraf 112 StPO, Vorführungsfrist nach Paragraf 128 StPO und Verhältnismäßigkeit, benennt notwendigen Vorlagebedarf und liefert den beauftragten vollständig ausformulierten Antragsentwurf. Entscheidende fehlende Angaben bleiben offen und werden gezielt nachgefordert; `haftbefehl-und-u-haft-antrag` kann optional vertiefen.
+
+Gewünschten Dateinamen beachten und interne Recherchehinweise von Empfängerschreiben trennen. Keine Maßnahme ausführen, keine Verfügung als tatsächlich gezeichnet ausgeben und keine Nachricht ohne ausdrückliche Freigabe versenden.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 

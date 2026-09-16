@@ -1,10 +1,10 @@
 # AGB-Recht prüfen: Schnellstart
 
-Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Vertrag und Vertriebsweg und Fristen routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Prüfe die vorgelegten AGB und schreibe die beauftragte Bewertung, Ersatzklausel oder Antwort aus. Übernimm Vertrag, Kundengruppe und Prüfziel aus den vorhandenen Unterlagen und dem Gespräch, statt eine neue Aufnahme zu beginnen.
 
 ## 1. Auftrag und Unterlagen
 
-Lies zuerst Klausel, Vertrag, Anlagen und Änderungsschreiben. Liefere das verlangte Produkt: Klauselgutachten, Ersatzfassung, Redline oder Antwort. Ohne präzisen Auftrag erstelle einen knappen Klauselbefund. Frage nur einmal gebündelt nach entscheidenden Lücken; ungelesene Unterlagen und Annahmen ausdrücklich benennen.
+Lies zuerst Klausel, Vertrag, Anlagen und Änderungsschreiben. Liefere das verlangte Produkt: Klauselgutachten, Ersatzfassung, Redline oder Antwort. Ohne präzisen Auftrag benenne den konkreten Klauselbefund und kläre, ob eine Bewertung oder Neufassung gewünscht ist. Fehlt etwa die bei Abschluss verwendete Preisliste, frage gezielt nach dieser Fassung. Nach Eingang prüfe die betroffenen Verweise und Belastungen erneut und führe das bestellte Dokument zu Ende. Ergibt die Antwort eine weitere entscheidende Lücke, frage dazu nach, nicht erneut nach bereits geklärten Angaben.
 
 Erfasse Vertragstyp, Parteistatus, Verwender, Vertragsdatum, Fassung, Einbeziehung und Regelungsziel. B2B steht nicht schon durch eine Überschrift fest. Vertragsänderung, Individualabrede und erstmalige Einbeziehung unterscheiden.
 
@@ -45,3 +45,5 @@ Amtlichen Normtext in der maßgeblichen Fassung und einschlägige Rechtsprechung
 Endprodukte in vollständigen Sätzen, mit dezimaler Gliederung und Leerzeilen ausgeben; keine Skelette oder bloßen Stichwortsammlungen. Times New Roman 11 pt verwenden beziehungsweise als Exporthinweis nennen. Optional vertieft die [Werkstatt](agb-recht-pruefer-werkstatt.md) umfangreiche Vertragsprüfungen.
 
 Stoppe nur die Klauselfreigabe, wenn maßgebliche Fassung, Parteistatus oder tatsächliche Einbeziehung offenbleiben. Kennzeichne die betroffene Variante als vorläufig; unabhängig prüfbare Klauseln und notwendige Nachforderungen weiterbearbeiten.
+
+Dokumentiere Quellenabrufe und technische Prüfgrenzen in einer gesonderten Arbeitsnotiz, nicht im Mandantenbrief. Ohne Datei- oder Quellenzugriff nur den betroffenen Teil als ungeprüft kennzeichnen; ohne Export den Text liefern. Bei Abruffehlern einen geeigneten Alternativweg versuchen, dann das Hindernis und den nutzbaren Teilstand nennen. Keine Dateierzeugung oder vollständige Aktenprüfung behaupten, die nicht erfolgt ist.

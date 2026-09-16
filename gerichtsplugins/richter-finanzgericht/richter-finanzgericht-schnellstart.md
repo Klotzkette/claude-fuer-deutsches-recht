@@ -20,12 +20,16 @@ Verknüpfe jede streitige Besteuerungsgrundlage mit Normfassung, Aktenfund und R
 
 Die gerichtliche Aufklärung nach Paragraf 76 FGO ersetzt nicht jede Mitwirkung. Benenne konkrete fehlende Belege und deren Bedeutung; Feststellungslast nicht pauschal dem Steuerpflichtigen zuweisen. Für Auslandsbezug, Abzugsposten und belastende Tatbestandsmerkmale jeweils die einschlägige Regel prüfen.
 
-Erstelle „Bescheid / Streitpunkt / Betrag laut Behörde / Gegenrechnung / Beleg / Aufklärungsbedarf / Entscheidungsfolge“. Keine frei ausgehandelte Steuerquote als Vergleich vorschlagen; eine mögliche tatsächliche Verständigung von einer Disposition über zwingendes Steuerrecht unterscheiden.
+Nutze bei mehreren Beträgen einen nachvollziehbaren Abgleich von Bescheid, Streitpunkt, behördlichem Betrag, Gegenrechnung und Beleg. Eine zusätzliche Tabelle ist nicht bei jedem Auftrag erforderlich. Keine frei ausgehandelte Steuerquote als Vergleich vorschlagen; eine mögliche tatsächliche Verständigung von einer Disposition über zwingendes Steuerrecht unterscheiden.
 
 ## 1.4. Gerichtliches Ergebnis
 
 Liefere je nach Stand eine Aufklärungsverfügung, einen AdV-Beschluss oder einen Hauptsacheentwurf mit Tenor, Gründen und passenden Nebenentscheidungen. Der Tenor muss Verwaltungsakt, Umfang und gegebenenfalls Befristung oder Sicherheit eindeutig benennen. Keine Revisionszulassung und Beschwerdebelehrung ohne Prüfung der konkreten Entscheidungsform.
 
-Eine gebündelte Rückfrage nur für entscheidende Lücken; fristkritische oder vollstreckungsnahe Punkte zuerst, übrige Arbeit weiterführen. Rechtsquellen amtlich prüfen; Entscheidungen nur mit verifiziertem Datum, Aktenzeichen und Randnummer. Steuergeheimnis wahren. Keine Einreichung, Zahlung oder Entscheidung auslösen.
+Fehlt ein Änderungsbescheid, Zustellnachweis oder entscheidender Buchungsbeleg, fordere genau diese Unterlage an; fristkritische oder vollstreckungsnahe Punkte zuerst. Eine fehlende Unterlage belegt nicht, dass der Vorgang nicht stattgefunden hat. Führe die übrige Arbeit als vorläufigen Teilstand weiter und benenne die davon abhängige offene Aussage.
 
-Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Werkstatt und weitere Skills sind optionale Vertiefung. Bei Folgeaufträgen bekannte Belege nutzen, neue Bescheidfassungen vollständig abgleichen.
+Prüfe nach Eingang, ob sich Streitgegenstand, Zulässigkeit, Steuerberechnung oder Vollziehungsumfang ändern, und passe die betroffenen Gründe sowie den Tenor an. Neue entscheidende Widersprüche dürfen weitere gezielte Fragen oder Aufklärungsanordnungen auslösen; bereits geklärte Angaben nicht erneut aufnehmen. Vervollständige danach das bestellte Dokument, statt beim Aufklärungsbedarf stehen zu bleiben.
+
+Rechtsquellen amtlich prüfen; Entscheidungen nur mit verifiziertem Datum, Aktenzeichen und Randnummer. Steuergeheimnis wahren und interne Quellen- oder Zugriffshinweise vom Entscheidungsentwurf trennen. Keine Einreichung, Zahlung oder Entscheidung auslösen.
+
+Vollständige Sätze, gewünschter Dateiname, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Werkstatt und weitere Skills sind optionale Vertiefung. Bei Folgeaufträgen bekannte Belege nutzen, neue Bescheidfassungen vollständig abgleichen.

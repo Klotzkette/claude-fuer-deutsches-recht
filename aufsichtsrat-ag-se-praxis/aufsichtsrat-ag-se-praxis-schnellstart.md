@@ -20,6 +20,8 @@ Nach [Paragraf 111 AktG](https://www.gesetze-im-internet.de/aktg/__111.html) ist
 
 3.5. Dokumentation: Maßgebliche Unterlagen mit Stand, offene Fragen, Antworten, Alternativen, Konfliktbehandlung, Abstimmungsverlauf und gefassten Beschluss getrennt protokollieren. Vorbereiteter Beschluss ist noch kein tatsächlich gefasster Beschluss. Verweigerte Zustimmung und mögliche weitere gesellschaftsrechtliche Schritte gesondert prüfen, nicht im Protokoll vorwegnehmen.
 
+Fehlt die Liquiditätswirkung der Investition, fordere die entsprechende Planung an, statt eine Zustimmung unter pauschalem Vorbehalt zu formulieren. Gleiche die Antwort mit Betrag, Finanzierung und Alternativen ab; danach vervollständige das beauftragte Votum oder den Beschlussvorschlag. Bleibt eine wesentliche Annahme unbelegt, frage gezielt hierzu nach oder begründe die noch fehlende Beschlussreife. Bereits beantwortete Fragen nicht wiederholen. Bei einem Protokollauftrag fehlende Angaben zum tatsächlichen Abstimmungsverlauf klären, keine Abstimmung aus dem Beschlussentwurf ableiten.
+
 ## 4. Weitere Organaufgaben
 
 Bei Vorstandsbestellung oder Abberufung Organstellung und Dienstvertrag getrennt erfassen. Bei Vergütung konkrete Leistung, Vergleichsmaßstab und Entscheidungszuständigkeit prüfen. Bei Abschlussprüfung Berichte, kritische Bilanzierungsfragen und Rückfragen an den Prüfer verbinden. Bei Krisensignalen Berichtstakt, Liquiditätsdaten und konkreten Aufklärungsauftrag verdichten; keine pauschale Haftungsfreizeichnung durch Dokumentation versprechen.
@@ -28,6 +30,6 @@ Optional vertieft [Zustimmungsvorbehalte](skills/zustimmungsvorbehalte/SKILL.md)
 
 ## 5. Lieferstück und Kontrolle
 
-Liefere ein ausformuliertes Votum und gegebenenfalls einen unmittelbar nutzbaren Beschlussentwurf. Verbinde jede tragende Bewertung mit Tatsache, Dokumentstelle, Rechtsmaßstab und verbleibendem Risiko. Rechtliche Haftungsmaßstäbe und Rechtsprechung fallbezogen amtlich prüfen, nicht aus einem pauschalen Business-Judgment-Verweis ableiten. Normfassung und bei Entscheidungen Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Randnummer nennen; die [Zitierweise](../references/zitierweise.md) ist optional.
+Liefere das bestellte Fragenpapier, Votum, Protokoll oder den Beschlussentwurf; zusätzliche Produkte nur, wenn sie zur konkreten Aufgabe gehören. Verbinde jede tragende Bewertung mit Tatsache, Dokumentstelle, Rechtsmaßstab und verbleibendem Risiko. Rechtliche Haftungsmaßstäbe und Rechtsprechung fallbezogen amtlich prüfen, nicht aus einem pauschalen Business-Judgment-Verweis ableiten. Normfassung und bei Entscheidungen Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Randnummer nennen; die [Zitierweise](../references/zitierweise.md) ist optional. Quellenstatus in einer gesonderten Arbeitsnotiz dokumentieren, nicht im Beschluss oder Mandantenbrief.
 
 Dezimale Gliederung, Leerzeilen und Times New Roman 11 pt beziehungsweise Exporthinweis verwenden. Ohne Export Text liefern; ungelesene Unterlagen und fehlende Beschlussbelege offenlegen. Nur die betroffene Entscheidung zurückstellen, das Fragenpapier trotzdem erstellen. Keine Sitzung, Unterzeichnung oder Registerhandlung als erfolgt behaupten.

@@ -1,6 +1,6 @@
 # 1. Strafakten für die Verteidigung aufbereiten
 
-Erstelle aus dem Nutzersachverhalt und den vorhandenen Akten sechs fortschreibbare, Excel-fähige Übersichten. Der Kernauftrag ist Erfassung und Strukturierung, nicht Anklageerhebung, Schuldentscheidung oder Verteidigungsprognose. Ein konkreter Teilauftrag hat Vorrang. Lies vorhandene Tabellen vor jeder Ergänzung; frage nur nach einer Lücke, die das verlangte Produkt tatsächlich blockiert.
+Bereite die vorhandene Strafakte in den beauftragten Übersichten auf und führe bereits angelegte Tabellen fort. Ohne eingegrenzten Teilauftrag sind sechs Excel-fähige Übersichten vorgesehen. Der Auftrag betrifft Erfassung und Strukturierung, nicht Anklageerhebung, Schuldentscheidung oder Verteidigungsprognose. Lies Akten und Tabellen, bevor du Angaben nachforderst.
 
 ## 2. Bestand und Fundstellen sichern
 
@@ -25,6 +25,8 @@ Erfasse Dateien, Bände, Blattbereiche, Nachlieferungen und Lesbarkeit. Untersch
 Optional vertiefen [Aktenaufbereitung](skills/aktenaufbereiter-strafrecht/SKILL.md) und [Tatkomplexe](skills/tatkomplexe-uebersicht/SKILL.md) das Gesamtprodukt beziehungsweise die Komplexordnung. Ohne diese Dateien nach den vorstehenden Regeln weiterarbeiten. Übernimm nur zum Erfassungsauftrag passende Schritte. Rechtsbewertung oder förmliche Entscheidungsentwürfe sind kein automatischer Anschluss.
 
 Vergleiche bei Nachlieferungen Dokumentkennung, Datum und Fundstelle. Kennzeichne neue Einträge und tatsächliche Korrekturen; erhalte alte Angaben und Kanzleianmerkungen nachvollziehbar. Ergänze neue Aussagen auch dann, wenn sie alten widersprechen. Prüfe Querverweise zwischen Personen, Tatkomplexen, Beziehungen und Chronologie. Führe fehlende Anlagen und nur erwähnte Vernehmungen als Lücken, nicht als gelesene Beweise.
+
+Fehlt ein Vernehmungsprotokoll, frage nach dem konkret bezeichneten Dokument; ist nur eine Seite unleserlich, fordere diese Seite erneut an. Sind zwei Personen nicht sicher zuzuordnen, frage nach dem unterscheidenden Merkmal und führe sie bis dahin getrennt. Nach der Antwort ergänze alle betroffenen Übersichten und prüfe ihre Querverweise erneut. Weitere gezielte Fragen sind möglich, wenn die Nachlieferung neue entscheidende Zuordnungsprobleme zeigt; bereits Geklärtes bleibt übernommen. Liefere währenddessen die belegten Tabellenzeilen und setze die Bearbeitung nach Eingang der fehlenden Angaben bis zur verlangten Tabellenfassung fort.
 
 ## 5. Ausgabe und Kontrolle
 

@@ -32,14 +32,12 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 2. Formuliere den Tatsachenkern jeder Beweisstelle.
 3. Ordne vorhandene Dateien zu und markiere unklare Zuordnungen.
 4. Prüfe, ob der Tatsachenvortrag im Schriftsatz selbst steht.
-5. Erzeuge Lücken-, Doppelungs- und Überhangliste.
+5. Fordere fehlende Anlagen unter Angabe der zitierten Schriftsatzstelle gezielt an. Kläre bei mehreren Fassungen, welche den Vortrag belegen soll; verwende vorhandene Antworten weiter.
+6. Prüfe nach Eingang die betroffene Behauptung erneut, aktualisiere Anlagenzeichen und Fundstelle und formuliere die notwendige Textkorrektur. Übernimm Änderungen am materiellen Vortrag erst nach Freigabe. Führe den bestellten Abgleich zu Ende; eine offene Anlage hält die übrige Zuordnung nicht auf.
 
 ## Ausgabe
 
-- Belegmatrix als Tabelle.
-- Liste „zitiert, aber Datei fehlt“.
-- Liste „Datei vorhanden, aber nicht eingeführt“.
-- Korrekturvorschläge für Schriftsatzanker.
+Liefere den korrigierten Anlagenabgleich mit einsetzbaren Textvorschlägen. Eine Tabelle ist sinnvoll, wenn mehrere Anlagen verglichen werden. Noch fehlende oder nicht eingeführte Dateien gesondert benennen, statt ungefragt mehrere Kontrolllisten auszugeben. Bei einem Hindernis den nutzbaren Teilstand liefern und nach Klärung vervollständigen.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.

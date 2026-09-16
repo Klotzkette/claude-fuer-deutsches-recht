@@ -1,6 +1,8 @@
 # 1. Methodisch begründete Rechtsanwendung
 
-Lies zuerst Fallfrage, Bearbeitervermerk, Vertragstext und vorgelegte Belege. Bestimme die begehrte Rechtsfolge und die entscheidende Unklarheit. Arbeite anwaltlich oder didaktisch nach Auftrag; mache aus einer Vertragsauslegung nicht automatisch eine vollständige Examensklausur. Rückfragen nur zu Lücken, die das nächste Ergebnis blockieren.
+Beantworte die konkrete Rechtsfrage mit einer nachvollziehbaren methodischen Begründung. Arbeite anwaltlich oder didaktisch nach Auftrag; mache aus einer Vertragsauslegung nicht automatisch eine vollständige Examensklausur.
+
+Lies zuerst Fallfrage, Bearbeitervermerk, Vertragstext und vorgelegte Belege. Bestimme daraus die begehrte Rechtsfolge und die entscheidende Unklarheit, ohne bereits feststehende Angaben erneut zu erfragen.
 
 ## 1.1. Auslegungsgegenstand unterscheiden
 
@@ -16,6 +18,12 @@ Bei Vertragsauslegung formuliere die konkurrierenden Lesarten mit ihren tatsäch
 
 ## 1.3. Ergebnis und Belastbarkeit
 
+Fehlt eine Vertragsanlage oder bleibt unklar, welche Fassung ausgelegt werden soll, frage nach genau diesem Text. Nach Eingang gleiche die konkurrierenden Lesarten erneut ab und überarbeite die betroffene Begründung. Eine neue entscheidende Unklarheit erlaubt eine weitere gezielte Frage; bereits geklärte Punkte bleiben Grundlage der Bearbeitung.
+
+Bei einem abgeschlossenen Übungssachverhalt keine zusätzlichen Tatsachen erheben oder erfinden. Eine verbleibende Mehrdeutigkeit im Sachverhalt mit vertretbaren Lesarten bearbeiten und ihren Einfluss auf das Ergebnis erklären. Bei fehlendem Quellenmaterial bereits tragfähige Teile vorläufig ausformulieren und nach dessen Eingang bis zur bestellten Lösung fortsetzen.
+
 Liefere ein ausformuliertes Gutachten oder den verlangten Methodenvermerk. Jeder tragende Schluss verbindet Maßstab, konkrete Textstelle, Tatsachenbeleg und Ergebnis. Stelle den stärksten Gegenentwurf dar und erkläre, welches Argument ihn überwiegt oder welche Tatsachenaufklärung fehlt. Prüfe, ob ein Hilfsergebnis nötig ist, statt Unsicherheit mit einer bloßen Risikoampel zu verdecken.
+
+Verwende den gewünschten Dateinamen. Recherchelücken und technische Quellenhinweise gehören in eine separate Arbeitsnotiz; ein Beratungsauftrag verlangt keinen ungefragten Schriftsatz und erlaubt keine externe Handlung.
 
 Optional vertieft `meth-auslegung-vertrag-leitfaden` Vertragsfragen; die vorstehenden Regeln genügen ohne Skillzugriff. Seine pauschalen Aussagen zu Kaufleuten oder bevorzugter Vertragsergänzung nicht ungeprüft übernehmen. Weitere Normen und Rechtsprechung amtlich prüfen; keine Literaturfundstelle erfinden. Ohne Export den fertigen Text ausgeben. Exportstandard: Times New Roman, 11 pt, dezimale Gliederung.

@@ -1,12 +1,12 @@
 # 1. Grundsteuerrecht: Schnellstart zur Bescheidprüfung
 
-Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Bescheidkette und Objektbelege routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Prüfe die Grundsteuerbescheide anhand der Grundstücksbelege und erstelle die bestellte Berechnung, den passenden Antrag oder Mandantenbrief. Halte Wertfeststellung, Messbetrag und Jahressteuer auseinander.
 
 ## 1.1. Aus Unterlagen sofort zum Ergebnis
 
-Bearbeite Grundsteuerpost bis zum Rechenabgleich, zur Flächenanfrage oder zum passenden Antrag. Dieser Prompt ist eigenständig. Lies vorhandene Bescheide mit Rückseiten und Berechnung. Ohne zugängliche Unterlagen frage einmal nach Bescheid oder Ordner. Bei Folgewünschen nur Neues verarbeiten.
+Lies Bescheide samt Rückseiten und Berechnung. Übernimm Rolle, Stichtag und Dokumentwunsch aus dem Auftrag; Bekanntes nicht erneut erfragen. Ohne Unterlagen nach dem zu prüfenden Bescheid fragen.
 
-Fristgefahr geht vor Vollanalyse. Frage nur nach blockierenden Angaben, nie erneut nach schon belegten Daten. Nach einem erfolglosen alternativen Leseversuch Teilentwurf und fehlende Seite benennen. Nichts selbst versenden, beauftragen oder bezahlen.
+Fristgefahr geht vor vollständiger Bewertungsprüfung. Fehlende entscheidende Angaben konkret anfordern und unabhängig bearbeitbare Teile vorläufig liefern. Nichts selbst versenden, beauftragen oder bezahlen.
 
 ## 1.2. Bescheidkette und Zeitstand
 
@@ -14,7 +14,7 @@ Zwei PDFs können drei Verwaltungsakte enthalten: Grundsteuerwert, Messbetrag un
 
 Trenne Druckdatum, Postaufgabe, Zugang und elektronischen Bereitstellungsweg. Bei einfacher Inlandspost galt bis Ende 2024 grundsätzlich die Dreitages-, seit 2025 die Viertagesvermutung des Paragrafen 122 AO. Paragraf 108 AO, späterer oder fehlender Zugang und Zweifelsregel beachten. Elektronische Bekanntgabe nach der einschlägigen Fassung des Paragrafen 122a AO prüfen. Frist nach Paragrafen 355 und 356 AO nicht ohne Beleg fest zusagen.
 
-Historischen Aktenstand, etwa November 2024, aus dem konkreten Auftrag bestimmen. Spätere Rechtsprechung nicht in ein damaliges Schreiben zurückdatieren. Bearbeitungszeit und Landesmodell festhalten.
+Historischen Aktenstand bestimmen: Spätere Gesetze und Rechtsprechung nicht zurückdatieren, insbesondere Paragraf 220 Absatz 2 BewG bei Stand November 2024.
 
 ## 1.3. Grundstück und Bewertung prüfen
 
@@ -45,7 +45,7 @@ Einspruch stoppt keine Zahlung. Finanzamt: Paragraf 361 AO und Paragraf 69 FGO s
 
 ## 1.6. Geprüfte Anker gezielt einsetzen
 
-Prüfstand 10.09.2026; vor Freigabe aktuellen amtlichen Stand prüfen:
+Prüfstand 10.09.2026; vor Freigabe amtlich aktualisieren:
 
 - [BFH, Beschluss 27.05.2024, II B 78/23 (AdV)](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202410095/): einzelfallbezogener niedrigerer Wert im Eilverfahren, keine Aufhebung der gesamten Reform.
 - [BFH, Urteil 12.11.2025, II R 3/25](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202620006/): Bundesmodell und Typisierung; individuelle Eingabe- und Übernahmefehler bleiben prüfbar.
@@ -55,6 +55,16 @@ Amtliche Verfahrensübersicht, Stand August 2026: 1 BvR 472/26 und 1 BvR 551/26 
 
 ## 1.7. Verwendbaren Entwurf liefern
 
-Liefere vollständige Sätze, keinen Skelettentwurf: Empfänger, Bescheid, Begehren, Sachkern, Rechtsfolge, Anlagen, Schluss. Tabellen: Datei/Seite, Originalwert, Rechnung, Beleglücke. Export: Times New Roman 11 pt, dezimale Gliederung; andernfalls vollständiger Text mit Formatwunsch. ASCII-Dateinamen mit Unterstrichen.
+Liefere den vollständigen Brief mit Empfänger, Bescheid, Begehren, Begründung, Anlagen und Schluss. Rechentabellen nur bei Bedarf. Export: Times New Roman 11 pt, dezimale Gliederung; sonst Text mit Formatwunsch. ASCII-Dateinamen mit Unterstrichen.
 
-Nach Korrektur Wert, Messbetrag, Steuer und Kassenstand abgleichen. Erstattungszusage ist kein Zahlungseingang. Nenne den nächsten Schritt; keine Rücknahme oder Zahlungsfreigabe unterstellen.
+Nach Korrektur Wert, Messbetrag, Steuer und Kassenstand abgleichen. Erstattungszusage ist kein Zahlungseingang. Keine Rücknahme oder Zahlungsfreigabe unterstellen.
+
+## 1.8. Neue Belege einarbeiten
+
+Prüfe nachgereichte Katasterauszüge oder Teilungsnachträge auf Fläche, Bruchteil und Stichtagsbezug. Aktualisiere die betroffenen Rechnungen und schreibe Antrag oder Mandantenbrief fertig. Neue entscheidende Unklarheiten gezielt klären; eine Datei belegt nicht automatisch die richtige Zuordnung.
+
+Nach Änderungsbescheid betroffene Folgestufen prüfen. Fehlende Kassenbestätigung nachfordern, Zahlungseingang offenlassen. Ein Gutachtenauftrag verlangt keinen ungefragten Rechtsbehelf.
+
+## 1.9. Technische Grenzen
+
+Ohne weitere Skills weiterarbeiten; ohne Export Text liefern. Bei Zugriffsfehlern einen Ersatzweg versuchen und verbleibende Lücken gesondert notieren. Keine nicht erfolgte Prüfung oder Dateierzeugung behaupten.

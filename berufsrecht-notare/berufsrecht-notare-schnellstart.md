@@ -1,6 +1,8 @@
 # 1 Notarielle Amtspflicht am Vorgang prüfen
 
-Beginne mit dem konkreten Beurkundungs-, Vollzugs-, Verwahrungs- oder Aufsichtsvorgang. Lies Nutzerangaben, Urkundenentwurf, Beteiligtenkorrespondenz und einschlägige Anweisung zuerst. Liefere den gewünschten Amtsvermerk, die Beteiligtenantwort oder Stellungnahme. Eine fehlende Nebenunterlage hindert nicht die Bearbeitung des gesicherten Teils; frage nur nach einer Lücke, die die vorgesehene Amtshandlung tatsächlich unvertretbar macht.
+Erstelle den bestellten Amtsvermerk, die Beteiligtenantwort oder Stellungnahme zum konkreten Beurkundungs-, Vollzugs-, Verwahrungs- oder Aufsichtsvorgang. Lies Nutzerangaben, Urkundenentwurf, Beteiligtenkorrespondenz und einschlägige Anweisung zuerst.
+
+Übernimm den erkennbaren Auftrag ohne erneute Aufnahme. Fehlende Unterlagen hindern nur die davon abhängigen Feststellungen; frage nach Lücken, die Bewertung oder Amtshandlung tatsächlich verändern.
 
 ## 1.1 Beteiligte statt einseitiger Mandatsrolle
 
@@ -12,14 +14,22 @@ Für [Paragraf 3 BeurkG](https://www.gesetze-im-internet.de/beurkg/__3.html) ord
 
 Halte fest, was vor der Beurkundung zur Vorbefassung gefragt und beantwortet wurde und welcher Vermerk erforderlich ist. Trenne Mitwirkungsverbot, Hinweispflicht und Rechtsfolge eines bereits geschehenen Fehlers. Behaupte nicht ohne weitere Prüfung, jede Pflichtverletzung mache die Urkunde unwirksam. Bei noch geplantem Termin liefere eine begründete Entscheidung zur eigenen Mitwirkung und eine sachliche Nachricht an alle betroffenen Beteiligten.
 
+Fehlen Inhalt oder Auftraggeberkreis einer Vorberatung, fordere die konkrete Vereinbarung oder Sachverhaltsauskunft an. Nach Eingang überarbeite Mitwirkungsprüfung und Beteiligtennachricht. Ergibt sich eine neue entscheidende personelle Verbindung, kläre sie gezielt nach; wiederhole nicht bereits beantwortete Fragen.
+
 ## 1.3 Belehrung und Vollzug belegen
 
 Bei einem Belehrungsvorwurf ermittle, welches Verständnisproblem bestand, welche Erklärung erfolgte und wie sie dokumentiert ist. Verwechsle die Wiedergabe einer Standardklausel nicht mit einem belegten Gespräch. Bei Sprachproblemen unterscheide Übersetzung, Verständnis und wirksame Erklärung. Verbraucherstatus und zeitliche Vorbereitung sind anhand des konkreten Geschäfts nach aktuellen amtlichen Regeln zu prüfen.
 
 Bei Vollzug und Verwahrung rekonstruiere die Anweisung: Wer hat sie erteilt, welche Bedingungen gelten, welcher Nachweis liegt vor und wer ist empfangsberechtigt? Vergleiche Urkunde, spätere Änderung und tatsächlichen Vollzugsstand. Eine einzelne Partei kann eine mehrseitige Bedingung nicht bloß durch ihre Zahlungsbitte ersetzen. Trenne fehlenden Nachweis von widerlegter Voraussetzung. Keine Auszahlung, Registereinreichung oder Änderung als erfolgt darstellen, wenn lediglich ein Entwurf vorliegt.
 
+Fehlt ein Auszahlungsnachweis oder widersprechen sich Anweisungen, formuliere die konkrete Nachforderung an die zuständigen Beteiligten und bereite unabhängig davon die belegte Sachverhaltsdarstellung vor. Nach der Antwort prüfe die Bedingungen erneut und vervollständige Vermerk oder Stellungnahme. Keine Auszahlungsreife und kein Belehrungsgespräch aus Annahmen konstruieren.
+
 ## 1.4 Nachvollziehbares Arbeitsprodukt
 
 Ordne jeden Befund einer konkreten Amtspflicht, Aktenstelle und Handlung zu. Ein Amtsvermerk dokumentiert tatsächlichen Ablauf und Bewertung, kein nachträglich erfundenes Beratungsgespräch. Bei Aufsichtspost bestimme zuständige Stelle, Verfahrensstufe und echte Frist; anwaltliche Rügerechtsbehelfe sind keine notarielle Standardroute. Entwirf die beauftragte Antwort in vollständigen Sätzen und begrenze die Offenlegung auf den erforderlichen, rechtlich geprüften Umfang.
 
-Prüfe weitere BNotO-, BeurkG-, Kosten- oder Vollzugsnormen in aktuellen amtlichen Primärquellen; Landesvorgaben nur für den betroffenen Amtsbereich. Entscheidungen mit überprüfbarer Fundstelle, nicht aus Erinnerung zitieren. Zusätzliche Skills und Referenzen sind optional, die Kernarbeit ist hier vollständig beschrieben. Keine externe Handlung ohne Auftrag. Nutze dezimale Überschriften und Times New Roman 11 pt beim Export.
+Bei einem Hindernis kennzeichne den belegten Teilstand und die konkret fehlende Antwort. Setze nach deren Eingang bis zum bestellten Dokument fort, nicht nur bis zu einer Maßnahmenliste. Quellenstatus und technische Prüfvermerke in einer gesonderten Arbeitsnotiz halten, nicht in der Beteiligtenantwort. Ein Gutachtenauftrag verlangt keine ungefragte Aufsichtsbeschwerde.
+
+Prüfe weitere BNotO-, BeurkG-, Kosten- oder Vollzugsnormen in aktuellen amtlichen Primärquellen; Landesvorgaben nur für den betroffenen Amtsbereich. Entscheidungen mit überprüfbarer Fundstelle, nicht aus Erinnerung zitieren. Zusätzliche Skills und Referenzen sind optional. Nutze dezimale Überschriften und Times New Roman 11 pt beim Export.
+
+Ohne Datei- oder Quellenzugriff benenne die konkrete Lücke; verfügbare Unterlagen nicht mit vollständiger Amtsprüfung gleichsetzen. Ohne Export vollständigen Text liefern und keine Dateierzeugung behaupten. Keine Auszahlung, Einreichung, Offenlegung oder Versendung ohne ausdrückliche Freigabe.

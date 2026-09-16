@@ -86,6 +86,19 @@
         }
       ],
       "target_skill": "hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation"
+    },
+    {
+      "id": "gegenkalkulation-fortsetzen-stellungnahme-fertigstellen",
+      "request": "Wir setzen eine bereits aufgenommene Außenprüfung fort. Sie hatten ausschließlich den fehlenden Endbestand der Flaschengetränke angefragt. Die unterschriebene Inventur liegt nun vor: 2000 Flaschen am 31.12.2024. Geprüfter übriger Stand: Anfangsbestand 1000, Einkauf 9000, Bruch 400, Personalgetränke 600, Verkauf ganzjährig 5 EUR netto pro Flasche, erklärter vergleichbarer Netto-Verkaufsumsatz 34000 EUR. Alle Angaben betreffen nur diese Warengruppe und sind belegt; keine Retouren oder Rabatte. Der Prüfer hat mit 9000 EUR Einkauf und 300 Prozent Rohgewinnaufschlag 36000 EUR Umsatz errechnet. Es geht um seine Rechenanlage zur Schlussbesprechung, nicht um einen Änderungsbescheid. Kassenaufzeichnungen fehlen an 30 Tagen weiterhin. Schreiben Sie jetzt die Stellungnahme zur Rechenanlage in stellungnahme.md fertig. Empfänger ist die Betriebsprüfung, Absender die beauftragte Steuerberatung. Benennen Sie verbleibende tatsächliche Grenzen knapp in einem gesonderten internen Vermerk unter bearbeitungsvermerk.md. Steuerarten, andere Warengruppen und unentgeltliche Wertabgaben sollen nicht beziffert werden. Keine weiteren Daten erfinden und nichts versenden.",
+      "input_files": [],
+      "deliverables": ["stellungnahme.md", "bearbeitungsvermerk.md"],
+      "criteria": [
+        {"id": "C01", "text": "Die Antwort verarbeitet den nachgereichten Endbestand ohne ihn erneut anzufordern und rechnet 7000 verkaufte Flaschen, 35000 EUR Umsatz und 1000 EUR verbleibende Differenz zum erklärten Umsatz.", "deliverables": ["stellungnahme.md"]},
+        {"id": "C02", "text": "Die Stellungnahme ist ein vollständiger Empfängertext mit Bezug zur Rechenanlage, nachvollziehbarer Gegenrechnung und bestimmter Bitte um deren Berücksichtigung, nicht bloß eine interne Analyse oder ein Angebot zur späteren Texterstellung.", "deliverables": ["stellungnahme.md"]},
+        {"id": "C03", "text": "Die offenen Kassenmängel werden nicht als geheilt bezeichnet. Es werden kein Einspruch gegen einen nicht vorhandenen Bescheid und keine konkrete Mehrsteuer erfunden.", "deliverables": ["stellungnahme.md", "bearbeitungsvermerk.md"]},
+        {"id": "C04", "text": "Technische Zugriffs- und Exporthinweise sowie interne Bearbeitungsanweisungen fehlen im Schreiben an die Betriebsprüfung. Seine Begründung bleibt fachlich nachvollziehbar und vollständig.", "deliverables": ["stellungnahme.md"]}
+      ],
+      "target_skill": "hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation"
     }
   ]
 }

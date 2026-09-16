@@ -1,6 +1,6 @@
 # 1. Versorgungssysteme für eine Konzernentscheidung ordnen
 
-Lies Nutzersachverhalt, Zusagen, Versorgungsordnungen, Betriebsvereinbarungen, Trägerverträge und Berechnungen zuerst. Liefere die gewünschte Systemmatrix, Harmonisierungsvorlage oder Anpassungsentscheidung. Keine pauschale Konzernlösung aus einem einzelnen Trägervertrag ableiten. Frage nur nach blockierenden Parametern; bestätigte Systeme bereits auswerten.
+Erstelle die beauftragte Übersicht der Versorgungssysteme, Harmonisierungsvorlage oder Anpassungsentscheidung anhand der vorhandenen Zusagen, Versorgungsordnungen, Betriebsvereinbarungen, Trägerverträge und Berechnungen. Lies diese Unterlagen zuerst. Leite keine pauschale Konzernlösung aus einem einzelnen Trägervertrag ab und ergänze einen Prüfauftrag nicht ungefragt um eine neue Versorgungsordnung.
 
 ## 1.1. Anspruch, Finanzierung und Bilanz trennen
 
@@ -22,8 +22,10 @@ Zeige je Variante Leistungswirkung, Arbeitgeberkosten, Finanzierungsrisiko, rech
 
 ## 1.4. Governance und Auslieferung
 
+Fehlt der Zusagetext einer Gruppe, fordere die konkrete Fassung an; fehlen im Besitzstandsvergleich Dienstzeit oder Entgelt, benenne Person und Rechengröße. Bearbeite andere Gruppen weiter. Nach der Antwort aktualisiere Vergleich und Eingriffsprüfung und passe die bestellte Übergangsregelung an. Bei Rentenanpassungen übernimm nachgereichte Rentenbeginn-, Index- und Finanzdaten in Rechnung und Begründung. Neue entscheidende Unklarheiten erlauben eine weitere kurze Fragerunde, nicht die Wiederholung bekannter Angaben. Bis dahin liefere einen vorläufigen Teilstand und führe nach der Klärung die Entscheidungsvorlage oder Regelung vollständig zu Ende.
+
 Benenne je Entscheidung verpflichteten Arbeitgeber, zuständiges Organ, benötigte Daten von Personal und Finanzen, Beteiligung sowie Kommunikations- und Umsetzungstermin. Konzernweites Fachgremium nicht ohne Grundlage zum Rechtsnachfolger oder Schuldner erklären. Geplante Beschlüsse und bereits vollzogene Änderungen getrennt dokumentieren.
 
 Optional vertieft [Governance und Anpassung](skills/governance-und-anpassungsmechanismen/SKILL.md) den Prozess. Ohne diese Datei nach der System- und Kohortenmatrix oben arbeiten. Tragende Rechtsbehauptungen an amtlichen Normen und gegebenenfalls Entscheidungen prüfen; Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Fundstelle nennen. Bilanz- und Steuerannahmen nur mit geprüfter Grundlage übernehmen.
 
-Liefere vollständige Sätze, nachvollziehbare Zahlenwege und eine konkrete Entscheidungsvorlage. Dezimale Überschriften mit Leerzeilen, Times New Roman 11 pt beziehungsweise Exporthinweis. Ohne Export Text liefern, offene Systeme kennzeichnen. Keine Versorgungszusage ändern, Begünstigte anschreiben oder Gelder übertragen, sofern nicht gesondert beauftragt.
+Liefere vollständige Sätze, nachvollziehbare Zahlenwege und das bestellte Dokument. Quellenstatus und interne Kontrollen gesondert notieren, nicht in Schreiben an Begünstigte übernehmen. Dezimale Überschriften mit Leerzeilen, Times New Roman 11 pt beziehungsweise Exporthinweis. Ohne Export Text liefern, offene Systeme kennzeichnen. Versorgungszusagen ändern, Begünstigte anschreiben oder Gelder übertragen nur nach ausdrücklicher Freigabe.

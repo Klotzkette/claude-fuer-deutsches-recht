@@ -4,7 +4,7 @@ Prüfe eine geplante oder angegriffene Einziehung eines GmbH-Anteils anhand von 
 
 ## 2. Sachverhalt zuerst
 
-Lies Auftrag, Satzung beim Anteilserwerb und heute, Liste, Beschlussentwurf oder Beschluss, Bewertungsabrede, Buchhaltung und Zahlungsplan. Erfasse Mandantenrolle, Erwerbsdatum, Einziehungsgrund, Zustimmung, Mehrheit, Stimmverbote, Bekanntgabe und laufende Fristen. Trenne Einziehung, Ausschluss, Abtretung und Kapitalherabsetzung. Frage höchstens einmal gebündelt nach entscheidenden Lücken und liefere sonst ein bedingtes Votum. Fehlende Zahlen sind nicht Null.
+Lies Auftrag, Satzung beim Anteilserwerb und heute, Liste, Beschlussentwurf oder Beschluss, Bewertungsabrede, Buchhaltung und Zahlungsplan. Erfasse Mandantenrolle, Erwerbsdatum, Einziehungsgrund, Zustimmung, Mehrheit, Stimmverbote, Bekanntgabe und laufende Fristen. Trenne Einziehung, Ausschluss, Abtretung und Kapitalherabsetzung. Fehlen Zahlen zum Beschlusstag oder verbindliche Finanzierungsunterlagen, frage gezielt danach und erläutere, welche Rechnung davon abhängt. Vorliegende Unterlagen können veraltet oder unvollständig sein; fehlende Zahlen sind nicht Null.
 
 ## 3. Drei getrennte Rechnungen
 
@@ -22,7 +22,15 @@ Rechne konkrete Alternativen wie nachgewiesenen Zuschuss oder tatsächlichen Ant
 
 ## 5. Ergebnis
 
-Erstelle `ergebnis.md` mit Sachverhalt, Stichtagsmatrix, Abfindungsrechnung, Buchwertbrücke, Liquiditätsplan und vollständig ausformulierter Gremienempfehlung. Benenne Finanzierungslücke und Bedingungen jeder Variante. Prüfe Summen und Doppelzählungen einmal und liefere anschließend Restfragen statt Rückfrageschleifen. Keine rechtsverbindliche Freigabe behaupten. Ohne Dateiexport vollständigen Text ausgeben.
+Erstelle die bestellte Entscheidungsvorlage mit nachvollziehbarer Abfindungsrechnung, Ermittlung des freien Vermögens und Zahlungsplan. Verwende den gewünschten Dateinamen, nur ohne Vorgabe `ergebnis.md`. Benenne Finanzierungslücke und Bedingungen jeder Variante; Tabellen dienen nur der Erläuterung dieser Rechnungen.
+
+### 5.1. Nachgereichte Finanzierung prüfen
+
+Liegt eine entscheidende Unterlage noch nicht vor, liefere die bereits begründbare Bewertung vorläufig. Gleiche nachgereichte Zahlen mit Stichtag und Buchhaltung ab, aktualisiere Vermögens- und Liquiditätsrechnung getrennt und formuliere die Gremienempfehlung fertig. Zeigt etwa eine Zuschusszusage neue Bedingungen, kläre diese gezielt, ohne beantwortete Fragen zu wiederholen.
+
+### 5.2. Endfassung kontrollieren
+
+Prüfe die geänderten Summen und Doppelzählungen vor Abschluss. Ein Beschlussentwurf entsteht nur bei entsprechendem Auftrag; keine rechtsverbindliche Freigabe behaupten.
 
 Vollständige Sätze statt Skeletten; echte Umlaute und ß, dezimale Überschriften, Paragraf ausschreiben. Times New Roman 11 pt für formatierten Export; bei Markdown ausdrücklicher Exporthinweis.
 
@@ -35,3 +43,7 @@ Prüfe Normfassung und spätere Rechtsprechung vor Verwendung. Keine Literatur o
 - [BGH, Urteil vom 10.05.2016, Az. II ZR 342/14](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=74863), amtliche Leitsätze: persönliche Haftung wegen treuwidriger Fortsetzung, nicht schon aufgrund späterer Zahlungssperre.
 
 Am 14.09.2026 amtliche Suchauszüge geprüft; direkte Volltextabrufe gesperrt. Weitergehende Aussagen erfordern Volltextnachprüfung, keine geprüften Randnummern vortäuschen.
+
+## 7. Technische Grenzen
+
+Fehlenden Datei- oder Quellenzugriff in einer getrennten Arbeitsnotiz benennen und mit dem lesbaren Material weiterarbeiten, ohne dessen Vollständigkeit zu unterstellen. Ohne Dateiexport den vollständigen Text ausgeben.

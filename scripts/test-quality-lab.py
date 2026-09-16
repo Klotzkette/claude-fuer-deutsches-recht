@@ -15,6 +15,24 @@ import quality_lab as lab
 
 
 class QualityLabTests(unittest.TestCase):
+    def test_optional_workshop_review_pins_the_reviewed_text(self):
+        workshop = self.plugin / "fachgebiet-werkstatt.md"
+        self.profile["workshop_review"] = {
+            "verdict": "revised", "reason": "Individueller Bearbeitungsweg",
+            "changes": [], "sha256": lab.digest(workshop.read_bytes()),
+        }
+        lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+        workshop.write_text("Veränderte Werkstatt", encoding="utf-8")
+        with self.assertRaisesRegex(lab.LabError, "Werkstatt-Prüfung.*verändert"):
+            lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+
+    def test_invalid_workshop_review_cannot_bypass_validation(self):
+        for review in ([], "reviewed", {}, {"verdict": "retained", "reason": "Geprüft", "sha256": "0" * 64}):
+            with self.subTest(review=review):
+                self.profile["workshop_review"] = review
+                with self.assertRaises(lab.LabError):
+                    lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+
     def setUp(self):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
@@ -152,6 +170,92 @@ class QualityLabTests(unittest.TestCase):
         result, _, _ = lab.inspect_run(run, self.root)
         self.assertEqual(result["status"], "unreviewed")
         self.assertGreaterEqual(len(result["findings"]), 2)
+
+    def test_clean_question_turn_without_document_is_not_completion(self):
+        for reason in lab.CLEAN_ENDS:
+            with self.subTest(reason=reason):
+                run = self.prepare("question-" + reason)
+                lab.save(run / "metrics.json", {**self.metrics, "finish_reason": reason})
+                (run / "output/rueckfrage.md").write_text(
+                    "Sind die 100 Euro als Gebühr bestätigt oder noch ungeklärt?", encoding="utf-8")
+                caller = Mock()
+                result = lab.evaluate(run, self.config, root=self.root, caller=caller)
+                self.assertEqual(result["status"], "unreviewed")
+                caller.assert_not_called()
+                self.assertFalse((run / "scores_dual.json").exists())
+
+    def test_preparation_preserves_individual_followup_and_export_rules(self):
+        instruction = (
+            "# 1. Buchungsabgleich\n\n"
+            "Frage bei einer ungeklärten Differenz nach dem Gebührenbeleg. "
+            "Wenn die Antwort stattdessen eine Teilzahlung nennt, verlange deren Buchungsdatum. "
+            "Übernimm die Nachreichung in den abschließenden Vermerk. "
+            "Ohne Export liefere den vollständigen Text hier, keinen erfundenen Dateilink.\n"
+        )
+        (self.plugin / "fachgebiet-werkstatt.md").write_text(instruction, encoding="utf-8")
+        run = self.prepare("followup-instructions", "werkstatt")
+        self.assertEqual((run / "input/instructions.md").read_bytes(), instruction.encode("utf-8"))
+        actual = (run / "input/request.txt").read_text(encoding="utf-8")
+        self.assertTrue(actual.startswith(self.profile["cases"][0]["request"]))
+        for criterion in self.profile["cases"][0]["criteria"]:
+            self.assertNotIn(criterion["text"], actual)
+
+    def test_recorded_followups_and_revised_document_reach_both_judges(self):
+        """Prüft Übergabe und Neubewertung mit Testdoubles, keinen Live-Dialog."""
+        case = self.profile["cases"][0]
+        case["request"] = (
+            "Erstelle ergebnis.md als abschließenden internen Buchungsvermerk. "
+            "Beschriebener Vorverlauf: Auf die Nachricht über 400 Euro Überweisung und "
+            "300 Euro Gutschrift wurde nach der Differenz gefragt. Antwort: Die Bank hat "
+            "100 Euro Gebühren schriftlich bestätigt. Zweite Rückfrage: Gab es eine "
+            "Gebührenerstattung oder spätere Gutschrift? Antwort: Nein, der endgültige "
+            "Auszug bestätigt weiterhin 300 Euro Gutschrift. Übernimm beide Antworten "
+            "in den Vermerk; weitere Unterlagen sind für diesen Zahlenabgleich nicht nötig."
+        )
+        case["criteria"] = [
+            {"id": "C01", "text": "Überweisung von 400 Euro und Gutschrift von 300 Euro werden getrennt dargestellt.", "deliverables": ["ergebnis.md"]},
+            {"id": "C02", "text": "Die bestätigten 100 Euro Gebühren erklären die Differenz; eine Erstattung wird nicht erfunden.", "deliverables": ["ergebnis.md"]},
+            {"id": "C03", "text": "Beide nachgereichten Antworten werden im abschließenden Vermerk verarbeitet statt erneut erfragt.", "deliverables": ["ergebnis.md"]},
+        ]
+        self.write_profile()
+        run = self.prepare("recorded-followups")
+        lab.save(run / "metrics.json", {**self.metrics, "finish_reason": "no_tool_calls"})
+        question = "Bitte bestätigen Sie noch einmal, ob die 100 Euro Gebühren sind."
+        final = (
+            "# 1. Abschließender Buchungsvermerk\n\n"
+            "Die Überweisung beträgt 400 Euro. Gutgeschrieben wurden 300 Euro. "
+            "Die Bankbestätigung ordnet die Differenz von 100 Euro den Gebühren zu. "
+            "Nach der zweiten Auskunft gab es weder eine Erstattung noch eine spätere "
+            "Gutschrift. Damit sind 400 Euro abzüglich 100 Euro gleich 300 Euro abgestimmt.\n"
+        )
+        output = run / "output/ergebnis.md"
+        output.write_text(question, encoding="utf-8")
+        inspection, _, _ = lab.inspect_run(run, self.root)
+        # Lesbarkeit ist nur die Eintrittsbedingung zur fachlichen Bewertung.
+        self.assertEqual(inspection["status"], "ready_for_judging")
+        self.assertNotIn("all_pass", inspection)
+
+        for expected_output, verdict in ((question, "fail"), (final, "pass")):
+            with self.subTest(verdict=verdict):
+                output.write_text(expected_output, encoding="utf-8")
+                if verdict == "pass":
+                    with self.assertRaisesRegex(lab.LabError, "Veralteter Bewertungsstand"):
+                        lab.compare([run], self.root)
+                seen = []
+
+                def recorded_judge(judge, prompt):
+                    payload = json.loads(prompt.split("\n", 1)[1])
+                    self.assertEqual(payload["request"], case["request"])
+                    self.assertEqual(payload["outputs"], {"ergebnis.md": expected_output})
+                    self.assertIn(payload["criterion"], [c["text"] for c in case["criteria"]])
+                    seen.append((judge["id"], payload["criterion"]))
+                    return json.dumps({"reasoning": "Vorab festgelegtes Testurteil für die technische Zustandsprüfung.",
+                                       "verdict": verdict, "evidence": expected_output})
+
+                result = lab.evaluate(run, self.config, root=self.root, caller=recorded_judge)
+                self.assertEqual(result["status"], "passed" if verdict == "pass" else "failed")
+                self.assertEqual(len(set(seen)), 6)
+                self.assertEqual(result["source_verification"], "not_independently_verified")
 
     def test_all_modes_prepare(self):
         for mode in lab.MODES:

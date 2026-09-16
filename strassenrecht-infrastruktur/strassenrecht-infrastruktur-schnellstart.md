@@ -1,6 +1,8 @@
 # 1. Straßenrecht und Infrastruktur: Schnellstart
 
-Bearbeite Widmung, Straßenbaulast, Sondernutzung, Zufahrt, Ausbau oder Planverfahren für einen konkreten Straßenabschnitt. Lies Widmungsakt, Karte, Register, Antrag und Bescheid zuerst. Liefere Straßenstatusblatt, Einwendung, Erlaubnisentwurf oder Kostenvermerk entsprechend dem Auftrag.
+Prüfe Widmung, Straßenbaulast, Sondernutzung, Zufahrt oder Bauvorhaben am konkreten Straßenabschnitt. Verfasse die bestellte Einwendung, den Erlaubnisentwurf oder Kostenvermerk.
+
+Lies Widmungsakt, Karte, Register, Antrag und Bescheid zuerst. Übernimm bereits geklärte Angaben zu Abschnitt, Rolle und Auftrag.
 
 ## 1.1. Straße und zuständige Stelle
 
@@ -20,7 +22,7 @@ Bestimme Umfang, Fläche, Dauer, verbleibenden Verkehrsraum, Sicherheitsbelange 
 
 Bei Bauvorhaben Planfeststellung, Plangenehmigung, sonstige Zulassung und bloße Unterhaltung voneinander abgrenzen. Betroffenheit, Beteiligungsunterlagen, Auslegung, Einwendungsfrist und Bekanntgabe mit Belegen erfassen. Fristen aus der konkreten Bekanntmachung und geltendem Fachrecht prüfen.
 
-Führe „Vorhabensteil / Rechtsgrund / betroffene Fläche oder Rechtsposition / Beleg / Einwand / Abhilfe“. Einwendungen auf konkrete Erreichbarkeit, Eigentum, Lärm, Umwelt oder Kosten beziehen. Nicht jede Verkehrsverlagerung begründet einen Anspruch auf unveränderte Straßenführung.
+Ordne jedem erheblichen Vorhabensteil Rechtsgrund, betroffene Fläche oder Rechtsposition, Beleg, Einwand und Abhilfe zu; eine Tabelle nur bei Bedarf ausgeben. Einwendungen auf konkrete Erreichbarkeit, Eigentum, Lärm, Umwelt oder Kosten beziehen. Nicht jede Verkehrsverlagerung begründet einen Anspruch auf unveränderte Straßenführung.
 
 Bei drohendem Vollzug statthaften Rechtsschutz und Zeitbedarf zuerst prüfen. Eine ungeklärte Straßenklasse begrenzt die rechtliche Schlussfolgerung, rechtfertigt aber keinen vollständigen Stillstand bei Beweissicherung und Tatsachenaufbereitung.
 
@@ -28,6 +30,10 @@ Bei drohendem Vollzug statthaften Rechtsschutz und Zeitbedarf zuerst prüfen. Ei
 
 Liefere den ausformulierten Antrag oder Vermerk mit Abschnitt, Maßnahme, zuständiger Stelle, Planbezug, Begründung und nächsten Schritten. Annahmen zu Breiten, Flächen und Fristen sichtbar kennzeichnen. Keine Erlaubnis, Sperrung, Bauausführung oder Zahlung tatsächlich auslösen.
 
-Eine gebündelte Rückfrage nur bei entscheidenden Lücken. Amtliche Bundes- und Landesnormen sowie Satzungen in der maßgeblichen Fassung prüfen. Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Fundstelle verwenden.
+Fehlt die Zuordnung eines Flurstücks zur Widmung, frage nach Widmungsplan oder Registerauszug. Bei einer Kostenposition fordere Aufmaß und vertraglichen Verteilungsschlüssel an. Nach Eingang aktualisiere Straßenstatus beziehungsweise Kostenrechnung und die betroffene Begründung des bestellten Dokuments.
+
+Neue entscheidende Widersprüche gezielt klären, ohne bekannte Angaben erneut aufzunehmen. Bis dahin tragfähige Teile vorläufig liefern und nach Antwort bis zur Endfassung fortsetzen. Ein vollständiger Plansatz belegt nicht die Rechtmäßigkeit des Vorhabens; kein ungefragter Eilantrag statt einer Beratung.
+
+Verwende den gewünschten Dateinamen. Amtliche Bundes- und Landesnormen sowie Satzungen in der maßgeblichen Fassung prüfen; Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Fundstelle verwenden. Quellenstatus und technische Lücken getrennt vom Empfängertext notieren.
 
 Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional. Folgeaufträge am bestätigten Straßenstatus fortführen, neue Pläne und Bescheide jedoch erneut abgleichen.

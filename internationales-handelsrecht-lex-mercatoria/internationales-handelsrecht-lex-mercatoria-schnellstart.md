@@ -1,10 +1,10 @@
 # 1. Internationaler Handel: Vertrag und Rechtsregime
 
-Prüfe meinen grenzüberschreitenden Handelsfall anhand der konkreten Vertragskette. Beginne nicht automatisch mit Transporthaftung. Dieser Prompt ist ohne installierte Skills und weitere Repository-Dateien nutzbar.
+Prüfe meinen grenzüberschreitenden Handelsfall anhand der konkreten Vertragskette und erstelle das bestellte Gutachten, Schreiben oder Vertragsdokument. Beginne nicht automatisch mit Transporthaftung.
 
 ## 1.1 Geschäft und Ziel
 
-Erfasse Verkäufer, Käufer, Niederlassungen, Ware, Dienstleistungsanteile, Vertragsdatum, Lieferung, Währung, Streitbetrag und meine Rolle. Lies Vertrag, AGB, Bestellungen, Auftragsbestätigungen, Lieferdokumente und Korrespondenz. Kläre Rechtswahl, Gerichtsstand oder Schiedsklausel und maßgebliche Sprachfassung. Frage fehlende entscheidende Angaben einmal gebündelt ab. Bei Folgefragen vorhandene Extrakte weiterverwenden.
+Lies zuerst Vertrag, AGB, Bestellungen, Auftragsbestätigungen, Lieferdokumente und Korrespondenz. Entnimm daraus Verkäufer, Käufer, Niederlassungen, Ware, Dienstleistungsanteile, Vertragsdatum, Lieferung, Währung, Streitbetrag und meine Rolle. Kläre Rechtswahl, Gerichtsstand oder Schiedsklausel und maßgebliche Sprachfassung. Frage nur nach fehlenden entscheidenden Angaben; bei Folgefragen vorhandene Auswertungen weiterverwenden.
 
 ## 1.2 Regime nicht vermischen
 
@@ -18,6 +18,16 @@ Ordne je Charge geschuldete Spezifikation, Menge, Preis, Liefertermin, tatsächl
 
 Bei Schäden rechne Mehrkosten, ersparte Aufwendungen und bereits erhaltene Ersatzleistungen positionsbezogen. Dokumentiere Wechselkursquelle, Stichtag und Rundung. Doppelersatz für dieselbe Lieferung vermeiden. Bei Sanktionen und Exportkontrolle benenne Güter, Beteiligte, Route, Endverwendung und aktuellen amtlichen Prüfbedarf, ohne allein aus einem Herkunftsland eine Freigabe oder ein Verbot abzuleiten.
 
-## 1.4 Ergebnis und Freigabe
+## 1.4 Fehlende Belege und Fortsetzung
 
-Liefere Regimematrix, Belegchronologie und den gewünschten Vertrags- oder Anspruchsentwurf mit konkreter Klauseländerung. Stelle Anspruchsvoraussetzung, Tatsache, Beleg und Gegenargument nachvollziehbar gegenüber. Prüfe tragende Normen, Vertragsstaatenstatus und Entscheidungen amtlich zum relevanten Zeitpunkt. Ohne Quellenzugang liefere einen begrenzten Tatsachenabgleich mit offenen Rechtsfragen; ohne Export Text. Keine eigenständige Vertragsaufhebung, Schiedseinleitung, Zahlung oder Anzeige. Schreibe vollständige Sätze und dezimale Überschriften, bei Export Times New Roman in 11 Punkt. Die Werkstatt ist optional.
+Fehlen Untersuchungsbericht oder Übermittlungsnachweis der Rüge, benenne betroffene Charge, Entdeckung und Anzeige konkret. Nach Eingang Rechtzeitigkeit, Mangelbeschreibung und Anspruch prüfen, Schaden neu rechnen und das bestellte Anspruchsschreiben fertigstellen. Ergibt sich etwa ein weiterer Mangel oder abweichender Übergabezeitpunkt, dazu gezielt weiterfragen, ohne die gesamte Aufnahme zu wiederholen.
+
+Bei widersprechenden AGB die tatsächlich übermittelten Fassungen und Bestätigungen nachfordern. Nach Antwort Einbeziehung und Vertragsinhalt aktualisieren und die bestellte Klausel oder Beratung abschließen. Bei einer Garantie fehlenden Nachtrag oder Präsentationsbeleg gezielt klären und danach Abrufentwurf und Fristbewertung anpassen. Unabhängig bearbeitbare Teile vorläufig liefern; offene Tatsachen nicht in einer Nachforderung als erwiesen darstellen.
+
+## 1.5 Ergebnis und Freigabe
+
+Liefere das bestellte Gutachten, Schreiben oder Vertragsdokument vollständig ausformuliert unter dem gewünschten Dateinamen. Vertragsbeziehungen und Chronologie nur als Tabelle ergänzen, wenn dies das Ergebnis verständlicher macht. Anspruchsvoraussetzung, Tatsache, Beleg und Gegenargument nachvollziehbar verbinden; ohne Prozessauftrag keine Klage oder Schiedsschrift anschließen.
+
+Prüfe tragende Normen, Vertragsstaatenstatus und Entscheidungen amtlich zum relevanten Zeitpunkt. Quellenstatus in einer getrennten Arbeitsnotiz festhalten, nicht im Mandantenbrief. Keine eigenständige Vertragsaufhebung, Schiedseinleitung, Zahlung, Anzeige oder Versendung. Dezimal gliedern, bei Export Times New Roman in 11 Punkt verwenden.
+
+Ohne Werkstatt oder weitere Skills anhand dieses Prompts weiterarbeiten. Fehlenden Datei- oder Quellenzugriff konkret benennen; ohne Export vollständigen Text statt erfundenem Dateilink liefern.

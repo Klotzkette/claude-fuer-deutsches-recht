@@ -1,6 +1,8 @@
 # 1. Hinzuschätzung mit einer belegten Gegenkalkulation prüfen
 
-Bearbeiten Sie die Hinzuschätzung meines bargeldintensiven Betriebs anhand der Prüfungsunterlagen. Erstellen Sie eine eigene Gegenkalkulation und eine ausformulierte Stellungnahme oder Einspruchsbegründung. Beginnen Sie beim Sachverhalt. Der Auftrag benötigt keine installierten Zusatzinhalte. Fragen Sie entscheidende Lücken einmal gebündelt ab; liefern Sie ansonsten einen gekennzeichneten Teilstand.
+Bearbeiten Sie die Hinzuschätzung meines bargeldintensiven Betriebs anhand der Prüfungsunterlagen bis zur bestellten Gegenkalkulation, Stellungnahme oder Einspruchsbegründung. Beginnen Sie beim Sachverhalt. Der Auftrag benötigt keine installierten Zusatzinhalte.
+
+Fragen Sie gezielt nach fehlenden Beständen, Preiszeiträumen oder Verfahrensunterlagen, soweit diese das Ergebnis verändern. Bearbeiten Sie die davon unabhängigen Teile weiter. Nach Eingang der Antwort aktualisieren Sie die betroffene Rechnung und deren Begründung im bestellten Dokument; verlangen Sie bereits belegte Angaben nicht erneut. Neue entscheidende Widersprüche dürfen weitere gezielte Rückfragen erfordern. Ein Teilstand oder ein Angebot zur späteren Texterstellung beendet den Dokumentenauftrag nicht.
 
 ## 2. Akten und Verfahrensstand
 
@@ -22,10 +24,12 @@ Stellen Sie kalkulierten und erklärten vergleichbaren Umsatz gegenüber. Leiten
 
 Am 14.09.2026 geprüft: [Paragraf 162 AO](https://www.gesetze-im-internet.de/ao_1977/__162.html), [Paragraf 361 AO](https://www.gesetze-im-internet.de/ao_1977/__361.html); BFH, Urteil vom 18.06.2025, Az. X R 19/21, [amtliche Leitsätze und Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/). Beachten Sie zuverlässigere Methoden und nachvollziehbare Begründung. Die ergänzenden Zweifel an der damaligen Richtsatzsammlung sind kein generelles Schätzungsverbot. Prüfen Sie maßgebliche Jahresfassungen und Fortentwicklung amtlich; keine erfundenen Richtsätze oder Literatur.
 
-Prüfen Sie Bescheid, Änderungsnorm, Rechtsbehelfsfrist und Vollziehung separat. Ein Einspruch stoppt die Zahlungspflicht nicht automatisch. Bei strafrechtlichem Risiko vor Erklärungen den Verfahrensschutz klären. Keine Selbstanzeige, Verständigung, Datenänderung oder Einreichung eigenmächtig vornehmen.
+Bestimmen Sie zunächst, ob eine Rechenanlage zur Außenprüfung oder bereits ein Bescheid vorliegt. Richten Sie die Stellungnahme an die Prüfungsrechnung; erfinden Sie keinen Änderungsbescheid als Gegenstand eines Einspruchs. Bei vorhandenem Bescheid prüfen Sie Änderungsnorm, Rechtsbehelfsfrist und Vollziehung separat. Ein Einspruch stoppt die Zahlungspflicht nicht automatisch. Bei strafrechtlichem Risiko vor Erklärungen den Verfahrensschutz klären. Keine Selbstanzeige, Verständigung, Datenänderung oder Einreichung eigenmächtig vornehmen.
 
 ## 5. Ausgabe
 
 Halten Sie für jede Korrektur fest, ob sie aus einem Rechenfehler, einer falschen Menge, einem unpassenden Preis oder einer methodischen Annahme folgt. Rechnen Sie bei streitigem Schwund mindestens den belegten Ansatz und den konkret behaupteten Alternativansatz, ohne diesen bereits als bewiesen zu behandeln. Eine Gegenrechnung nur für Getränke darf keine scheinbar abschließende Aussage über sämtliche Betriebseinnahmen erzeugen.
 
-Liefern Sie `ergebnis.md` mit Sachverhalt, Mängelmatrix, Prüferrechnung, Gegenkalkulation, Sensitivitätsrechnung, Herleitung der Steuerfolgen und einem vollständigen, auf die vertretene Seite abgestimmten Entwurf. Nennen Sie stärksten Einwand, fehlende Belege, Vollziehungsbedarf und Freigabe. Vollständige Sätze, keine Skelette; Export: Times New Roman, 11 pt, dezimale Gliederung.
+Liefern Sie das bestellte Dokument vollständig mit nachvollziehbarer Prüferrechnung, Gegenkalkulation und fallbezogener Begründung. Dateinamen, Empfänger und Umfang folgen dem Auftrag; `ergebnis.md` ist nur der Standard ohne andere Vorgabe. Tabellen dienen umfangreichen Mengenabgleichen, eine Sensitivitätsrechnung nur tatsächlich unsicheren Parametern. Beziffern Sie Steuerfolgen nur im beauftragten Umfang und auf ausreichender Datengrundlage.
+
+In die Stellungnahme gehören der Bezug zur Prüfungsrechnung, die begründete Korrektur und das konkrete Begehren. Erläutern Sie fortbestehende Kassenmängel, soweit sie für die Begründung erheblich sind. Interne Beleganforderungen, technische Exporthinweise und Freigabefragen gehören dagegen in eine getrennte Bearbeitungsnotiz, nicht in den Empfängertext. Ohne Exportmöglichkeit liefern Sie den vollständigen Text unter dem bestellten Dateinamen, keinen erfundenen Download. Exportstandard: Times New Roman, 11 pt, dezimale Gliederung.

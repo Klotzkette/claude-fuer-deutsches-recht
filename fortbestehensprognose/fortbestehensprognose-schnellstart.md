@@ -1,73 +1,52 @@
-# 1. Fortbestehensprognose — Schnellstart
+# 1. Fortbestehensprognose zum konkreten Stichtag
 
-Prüfe am konkreten Stichtag, ob die Finanzierung der Unternehmensfortführung über zwölf Monate überwiegend wahrscheinlich ist. Ein Restrukturierungsplan ist nur bei entsprechendem Auftrag nötig.
+Prüfe, ob die Unternehmensfortführung über zwölf Monate überwiegend wahrscheinlich ist, und erstelle die bestellte Prognosedokumentation. Lies die vorhandene Planung und ihre Belege zuerst; ein Restrukturierungsplan ist nur bei entsprechendem Auftrag nötig.
 
-Kernauftrag: Fortbestehensprognose Paragraf 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwölf-Monats-Liquidität. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Ausgangslage und dringende Prüfung
 
-## 1.1. Sofortstart nach Eingangslage
+Entnimm Rechtsträger, Stichtag, Rolle, Krisenanlass und gewünschtes Dokument dem Auftrag. Lies Abschlüsse, aktuelle Kontostände, Forderungen, fällige Verbindlichkeiten, Kreditbedingungen und Finanzierungszusagen. Bereits beantwortete Angaben nicht erneut erfragen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Krisenstadium, Prognose, Instrumentenwahl wählen; ohne konkreten Auftrag mit Krisenstadium beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Gegenwärtige Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung getrennt prüfen. Eine künftig auftretende Lücke begründet nicht allein heutige Zahlungsunfähigkeit; ein positiver Jahressaldo schließt eine akute Lücke nicht aus. Bei Hinweisen auf Insolvenzreife dringenden fachlichen Entscheidungsbedarf benennen und Antragspflicht sowie Zahlungen gesondert prüfen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Krisenstadium, Prognose, Instrumentenwahl und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Zwölf Monate durchrechnen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Beginne mit frei verfügbarer Anfangsliquidität. Rechne Einzahlungen und fällige Auszahlungen für jeden der nächsten zwölf Monate und zeige Tiefpunkt sowie erste Unterdeckung. Kritische Wochen zusätzlich verdichten; kurzfristiger Zahlungsfähigkeitsstatus und Zwölfmonatshorizont ersetzen einander nicht.
 
-## 1.2. Fachlicher Direktstart
+Fälligkeit, Steuer, Lohn, Material, Investition, Schuldendienst und Finanzierung belegbar zuordnen. Verfügungsbeschränkungen und Kreditabrufbedingungen beachten. Keine Kreditlinie zugleich als vorhandenen Bestand und künftigen Zufluss zählen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Liegt Insolvenzreife vor oder droht sie nur, und ab wann lief die Antragsfrist.
-2. Kernprüfung in einem Durchgang: Tragen Planungsrechnung und Prämissen die Fortbestehensprognose; Welches Instrument erreicht das Sanierungsziel mit dem geringsten Eingriff.
-3. Belege und Engpass zusammenführen: Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen; besonders kritisch ist: Zahlungsunfähigkeit ist eingetreten; Antragsfrist läuft, keine Zahlungen ohne Prüfung.
-4. Erstes Arbeitsprodukt liefern: Prognosevermerk: Stichtag, Planungshorizont, Prämissen, Liquiditätsverlauf, Ergebnis, Dokumentation.
+### 1.2.1. Fehlende Fälligkeiten nachfordern
 
-## 1.3. Kernroute
+Fehlt eine Lieferantenliste oder ein Zahlungsziel, fordere die konkreten Positionen samt Nachweisen an und bearbeite die übrige Planung vorläufig. Nach Eingang Fälligkeiten, Monats- und Wochensalden neu rechnen und den Prognosevermerk aktualisieren. Zeigt die Antwort eine weitere entscheidende Lücke, gezielt nachfragen, ohne bereits Beantwortetes zu wiederholen.
 
-1. Krisenstadium: Liquiditätsstatus, Prognosehorizont, Insolvenzreife und Antragspflichten feststellen.
-2. Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen.
-3. Instrumentenwahl: freie Sanierung, StaRUG-Rahmen, Eigenverwaltung oder Regelverfahren abwägen.
-4. Planarchitektur: Gruppen, Eingriffe, Vergleichsrechnung, Abstimmung und gerichtliche Bestätigung ordnen.
-5. Arbeitsprodukt: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren.
+## 1.3. Prämissen und Finanzierung
 
-## 1.4. Fallkarte
+Plausibilisiere Absatz, Preise, Kosten und Sanierungseffekte anhand tatsächlicher Entwicklung, Aufträgen und Belegen. Ein steigender Umsatz bei unverändertem Materialeinsatz oder höhere Personalkosten trotz Stellenabbaus braucht eine Erklärung. Keine künstliche Erfolgswahrscheinlichkeit oder obligatorische Zahl von Szenarien vorgeben.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | StaRUG Paragraf 1; InsO Paragraf 15a und Paragraf 15b; InsO Paragraf 17 bis Paragraf 19 |
-| Rechtsprechung | BGH, Urteil vom 23.01.2025 - IX ZR 229/22; BGH, Urteil vom 24.05.2005 - IX ZR 123/04 |
-| Tatbestand | Liquiditätsstatus, Prognosehorizont, Insolvenzreife und Antragspflichten feststellen |
-| Beweislast | Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen |
-| Rechtsfolge | Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Trenne verbindlich verfügbare Finanzierung von unverbindlicher Gesellschafterabsicht. Zeige Basis ohne ungesicherte Mittel und eine ausdrücklich bedingte Finanzierungsvariante. Ein Comfortletter ist nach seinem Inhalt zu prüfen, nicht allein nach seiner Überschrift.
 
-## 1.5. Liquiditätsbrücke statt Planüberschrift
+Fehlen bei einer Patronatserklärung Bonitätsnachweis oder Abrufbedingungen, fordere genau diese an. Nach Eingang Betrag, Zeitpunkt und Durchsetzbarkeit prüfen, Liquiditätsverlauf und Ergebnis ändern und das bestellte Dokument fertigstellen. Interne und externe Patronatserklärung, Stundung, Rangrücktritt und Verzicht haben nicht dieselbe Wirkung; Rangrücktritt schafft kein neues Geld.
 
-Beginne mit frei verfügbarer Anfangsliquidität. Rechne für jeden der nächsten zwölf Monate Einzahlungen und fällige Auszahlungen; zeige Tiefpunkt und erste Unterdeckung, nicht nur Jahressaldo oder bilanziellen Gewinn. Verdichte kritische Wochen zusätzlich. Ein kurzfristiger Liquiditätsstatus zur Zahlungsunfähigkeit ersetzt den Zwölfmonatshorizont nach Paragraf 19 Absatz 2 InsO nicht und umgekehrt.
+## 1.4. Deckungsstatus und Ergebnis
 
-Trenne verbindlich verfügbare Finanzierung von unverbindlichen Gesellschafterzusagen. Zeige Basisszenario ohne ungesicherte Mittel und ein ausdrücklich bedingtes Finanzierungsszenario. Eine erst künftig auftretende Lücke begründet nicht allein heutige Zahlungsunfähigkeit. Liefere Prognosevermerk mit Annahmen, Belegen, Sensitivitäten und Wiedervorlageanlass; keine eigenmächtigen Zahlungen oder Insolvenzanträge.
+Handelsbilanz, insolvenzrechtliche Vermögensdeckung und Liquiditätsplanung getrennt beurteilen. Vermögenswerte, stille Reserven und zusätzliche Verpflichtungen einzeln belegen. Eine negative Fortbestehensprognose allein bedeutet noch nicht Überschuldung; die fehlende Vermögensdeckung und die Voraussetzungen des Paragrafen 19 InsO sind gesondert zu prüfen.
 
-## 1.6. Anker
+Bei nicht geschlossener Finanzierungslücke Ergebnis und Unsicherheit klar benennen. Keine positive Prognose aus einer bloß erhofften Zusage bilden. Fehlende Unterlagen hindern nur die abhängige Schlussfolgerung; die belegten Berechnungen und erforderliche Nachforderung trotzdem liefern und nach Antwort fortsetzen.
 
-- StaRUG Paragraf 1: Krisenfrüherkennung und Krisenmanagement als Organpflicht.
-- InsO Paragraf 15a und Paragraf 15b: Antragspflicht und Zahlungen nach Insolvenzreife.
-- InsO Paragraf 17 bis Paragraf 19: Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung mit Fortbestehensprognose.
-- StaRUG Paragraf 29 ff.: Instrumente des Stabilisierungs- und Restrukturierungsrahmens.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko.
+## 1.5. Quellen und Abgrenzung
 
-## 1.7. Antwortform
+Am 15.09.2026 amtlich geprüft:
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren.
-1.7.2. Norm: StaRUG Paragraf 1; InsO Paragraf 15a und Paragraf 15b mit dem entscheidenden Merkmal verbinden.
-1.7.3. Aktenfund: Für „Krisenstadium“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Tragen Planungsrechnung und Prämissen die Fortbestehensprognose.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Prognosevermerk“. Frist, Kernlücke und nächstem Dokument benennen.
+- [Paragraf 19 InsO](https://www.gesetze-im-internet.de/inso/__19.html): Vermögensdeckung, Zwölfmonatsprognose und besondere nachrangige Gesellschafterforderungen.
+- [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html): Handeln ohne schuldhaftes Zögern; drei beziehungsweise sechs Wochen sind Höchstfristen, keine freie Wartezeit.
 
-## 1.8. Stop
+Weitere vorhandene Normeinstiege fallbezogen verifizieren: StaRUG Paragraf 1, InsO Paragrafen 15b und 17 bis 19 sowie für zusätzlichen Restrukturierungsauftrag StaRUG Paragrafen 29 und folgende. BGB Paragrafen 241 Absatz 2, 242 und 280 Absatz 1 nur bei konkreter Vertrags- oder Haftungsfrage heranziehen.
 
-Nur bei diesem Stop-Punkt unterbrechen: Zahlungsunfähigkeit ist eingetreten; Antragsfrist läuft, keine Zahlungen ohne Prüfung. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Eine vorhandene Werkstatt kann optional vertiefen; dieser Prompt funktioniert ohne sie. Liefere vollständige Sätze und beim Export Times New Roman 11 pt mit dezimaler Gliederung. Versende oder reiche nichts eigenständig ein.
+Bisherige Entscheidungsanker, vor Verwendung im amtlichen Volltext zu prüfen: BGH, Urteil vom 23.01.2025, IX ZR 229/22, zu streitigen Verbindlichkeiten und zum vorläufig vollstreckbaren Titel unter den dortigen Voraussetzungen; BGH, Urteil vom 24.05.2005, IX ZR 123/04, zu Zahlungsunfähigkeit und Zahlungsstockung. Kein pauschaler Prozessrisikoabschlag und keine ungeprüfte Übernahme von Schwellen. Keine Literatur oder Randnummern aus Erinnerung.
+
+## 1.6. Prognosevermerk fertigstellen
+
+Liefere das verlangte Dokument unter dem gewünschten Dateinamen. Der Prognosevermerk begründet Stichtag, Horizont, Prämissen, Liquiditätsverlauf und Ergebnis; nachvollziehbare Rechnungen können als Anlage folgen. Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz halten, nicht im Bankenanschreiben.
+
+Nach neuen Unterlagen betroffene Zahlen und Begründung abgleichen und bis zur bestellten Endfassung weiterarbeiten. Ein Prognoseauftrag führt nicht ungefragt zu StaRUG-Anzeige oder Insolvenzantrag. Keine Zahlungen, Zusagen, Verzichtserklärungen, Versendung oder Einreichung eigenmächtig veranlassen.
+
+Vollständige Sätze, Times New Roman 11 pt und dezimale Gliederung; bei Markdown Exporthinweis. Ohne weitere Skills hier weiterarbeiten. Nicht lesbare Belege konkret benennen und ohne Export vollständigen Text statt erfundenem Dateilink liefern.

@@ -3,56 +3,43 @@ name: legistik-auftragsaufnahme
 description: "Für Legistik-Auftragsaufnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Legistik-Auftragsaufnahme
+# 1. Legistischen Auftrag klären und ausführen
 
-> Erster Skill bei jedem neuen legistischen Vorhaben. Vor Normwahl, vor Entwurf, vor allem.
+## 1.1. Zweck und Anwendungsfall
 
-## Eingaben
+Kläre die noch offenen Entscheidungen des Normvorhabens und beginne anschließend mit dem bestellten Entwurf oder Prüfvermerk. Wiederhole keine Auftragsaufnahme, wenn Ziel, Normgeber und Ausgangsfassung bereits feststehen.
 
-- politische Vorgabe (Koalitionsvertrag, Kabinettsbeschluss, Landtagsantrag, Bürgermeisterbeschluss, Aufsichtsweisung)
-- Auftraggeber oder fachlicher Zulieferer (Hausleitung, Fachreferat, Fraktion, Gruppe, Abgeordnete, Land, Kommune, Kammer, Hochschule)
-- formaler Initiator und Adressat der Vorgabe (Bundestag, Bundesrat, Landtag, Stadtrat, Kammer-Vollversammlung, Landesregierung, Gemeinderat)
-- Bundesland und einschlägige Geschäftsordnung, wenn es kein reines Bundesvorhaben ist
+## 1.2. Eingaben
 
-## Arbeitsgrundlagen
+Lies politische Vorgabe, geltende Fassung und vorhandene Entwürfe. Übernimm bekannte Angaben zum Auftraggeber, fachlichen Zulieferer, formalen Initiator, Entscheidungsgremium und Termin. Bei Landes- oder kommunalen Vorhaben bestimme das Land und die einschlägige Geschäftsordnung aus den Unterlagen; frage nur nach fehlenden Angaben.
 
-- Art. 76 Abs. 1 GG: Gesetzesvorlagen können durch Bundesregierung, aus der Mitte des Bundestages oder durch den Bundesrat eingebracht werden.
-- Geschäftsordnung des Deutschen Bundestages, insbesondere Vorlagen von Mitgliedern des Bundestages und parlamentarische Antragsformen.
-- GGO: Regierungsinterne Vorbereitung, Ressortbeteiligung, Rechtsprüfung, Kabinettsvorlagen und Umgang mit Vorlagen aus dem Bundestag/Bundesrat.
-- Handbuch der Rechtsförmlichkeit des BMJ: Form, Sprache und Struktur von Gesetzes- und Verordnungsentwürfen der Bundesministerien.
-- Landesverfassung, Geschäftsordnung der Landesregierung, Geschäftsordnung des Landtags und Verkündungsrecht des jeweiligen Bundeslandes.
-- Gemeindeordnung, Kammergesetz, Hochschulgesetz oder Fachgesetz, wenn der Normgeber nicht Parlament oder Regierung ist.
+Eine politische Vorgabe kann aus einem Koalitionsvertrag, Beschluss, parlamentarischen Antrag oder einer Aufsichtsweisung stammen. Ihr Inhalt ersetzt weder Gesetzgebungskompetenz noch Ermächtigungsgrundlage.
 
-## Zentrale Normen (Paragrafenkette)
+## 1.3. Ablauf
 
-Art. 76 Abs. 1 GG (Initiativrecht Bundesregierung, Bundestag, Bundesrat) — Art. 70-74 GG (Gesetzgebungskompetenz) — Art. 80 GG (Rechtsverordnung) — Art. 28 Abs. 2 GG (kommunale Selbstverwaltung) — GGO (ministerieller Regierungsweg) — GO-BT und Landtags-Geschäftsordnungen (parlamentarischer Weg) — Landesverfassungen und Verkündungsrecht
+1. Bestimme das gewünschte Ergebnis: Normänderung, Formulierungshilfe, Prüfvermerk oder nichtnormative Maßnahme. Kläre unbestimmte politische Ziele anhand konkreter betroffener Fälle, ohne die Entscheidung selbst zu erfinden.
+2. Trenne formale Initiative, fachliche Zuarbeit und politische Verantwortung. Wähle den parlamentarischen, ministeriellen oder sonst einschlägigen Verfahrensweg; behandle eine Fraktionsvorlage nicht wie einen Regierungsentwurf.
+3. Prüfe Normart, Kompetenz, Ermächtigung und Termin. Fehlt eine tragfähige Grundlage, benenne den betroffenen Regelungsteil und frage nach der Entscheidung über eine rechtlich mögliche Alternative.
+4. Formuliere nach der Klärung die beauftragte Regelung oder Prüfung. Bei einer Entscheidung über Altverfahren aktualisiere beispielsweise Anwendungsbereich, Übergangsrecht und Begründung zusammen.
 
-## Ausgabe
+Weitere gezielte Fragen sind zulässig, wenn neue Angaben eine entscheidende Lücke offenlegen. Unabhängig bearbeitbare Teile können vorläufig geliefert werden; nach der Antwort wird der vorhandene Entwurf bis zum bestellten Ergebnis fortgeführt. Ein Auftragsblatt ist nur dann die Endausgabe, wenn genau dieses bestellt wurde.
 
-Strukturiertes Auftragsblatt als Markdown, das durch alle weiteren Skills mitgeführt wird.
+## 1.4. Quellenpflicht
 
-## Anschluss
+Prüfe insbesondere Artikel 76 Absatz 1 GG für die Gesetzesinitiative, Artikel 70 bis 74 GG für die Kompetenz, Artikel 80 GG für Rechtsverordnungen und Artikel 28 Absatz 2 GG im einschlägigen kommunalen Zusammenhang. Ziehe je nach Normgeber GGO, GO-BT, Landesverfassung, Landesgeschäftsordnungen, Verkündungsrecht sowie Gemeinde-, Kammer- oder Hochschulrecht heran.
 
-- `normhierarchie-routing` - welche Norm-Ebene ist richtig
-- `gesetzgebungskompetenz-pruefen` falls Gesetz
-- `verordnungsermaechtigung-art80` falls VO
-- `satzungskompetenz-pruefen` falls Satzung
+Das Handbuch der Rechtsförmlichkeit unterstützt Form, Sprache und Struktur im einschlägigen Anwendungsbereich. Prüfe die tatsächliche Fassung und verwende die Zitierregeln in references/zitierweise.md, soweit verfügbar; ein Verweis ersetzt keine Verifikation.
 
-## Stolperfallen
+Optional können normhierarchie-routing, gesetzgebungskompetenz-pruefen, verordnungsermaechtigung-art80 oder satzungskompetenz-pruefen vertiefen. Eine Ressortzuordnung oder digitale Darstellung der Regelungslogik ergänzt die Bearbeitung nur bei sachlichem Bedarf; fehlender Zugriff darauf verhindert die Fortsetzung hier nicht.
 
-1. Politische Vorgaben sind oft unscharf - Legist muss klären, nicht erfinden, sondern beim Auftraggeber nachfragen
-2. Politik will manchmal nicht eine Norm, sondern eine Geste - dann ist ein Schreiben oder Erlass besser als ein Gesetz
-3. Zeitvorgabe prüfen - oft ist eine Formulierungshilfe schneller als ein Referentenentwurf
-4. Bei parlamentarischen Vorhaben nicht Ministerium und Parlament verschmelzen: Formale Initiative, fachliche Zuarbeit und politische Verantwortung getrennt dokumentieren
-5. Bei Ländern nie mit Bundes-GGO allein arbeiten: Bundesland, Landesverfassung, Landtags-GO und Verkündungsblatt ausdrücklich abfragen
+## 1.5. Ausgabeformat und Grenzen
 
-## Anschluss an Ressort-Router
+Liefere das bestellte Dokument in vollständig ausformulierten Sätzen, nicht als leeres Textgerüst. Halte noch offene politische Entscheidungen vom fertigen Regelungstext getrennt. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur ein Standard ohne andere Vorgabe.
 
-Nach Aufnahme von Startbahn; Zielen und Eckdaten unmittelbar weiter zu **`legw-ressort-router`**.
-Dieser leitet auf den fachlich richtigen Heranfuehrungs-Skill `legw-ressort-<kuerzel>` und die
-ressorteigene Aufgaben- und Spezialkette. Ohne Ressort-Router bleibt die Materie ein blinder Fleck;
-Politikwissenschaftler bekommen erst dort das Sachfeld-Verstaendnis für Landwirtschaft; Chemie;
-Bauwesen; Verkehr und Co.
+Begleitdokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung; für den Normtext gelten die einschlägigen amtlichen Entwurfsformen mit begründeter Abweichung. Zusätzliche Abrufvermerke gehören in eine gesonderte Arbeitsnotiz.
 
-Wenn das Vorhaben digital-tauglich werden soll (Rulemap; BMJ-Initiative; SPRIND), zusaetzlich
-Anschluss an **`legw-rmap-grundlagen`** (didaktischer Einstieg in 10 RuleMapping-Skills, abschliessend `legw-rmap-anschluss-an-legw` als Rueckkopplung).
+Einbringung, Beteiligung oder Übermittlung nicht eigenmächtig veranlassen. Bei fehlendem Zugriff fordere die benötigte Fassung an; ohne Export liefere Text und behaupte keine nicht erfolgte Prüfung oder Dateierzeugung.
+
+## 1.6. Beispiel
+
+Eine Fraktion bestellt eine Änderungsvorlage zur Berichtspflicht, lässt aber offen, ob bereits laufende Berichtszeiträume erfasst werden sollen. Lies Ausgangsnorm und Antrag, frage nach dieser Abgrenzung und bearbeite die übrigen Änderungen vorläufig. Nach der Antwort stelle Änderungsbefehl, Übergang und Begründung gemeinsam fertig.

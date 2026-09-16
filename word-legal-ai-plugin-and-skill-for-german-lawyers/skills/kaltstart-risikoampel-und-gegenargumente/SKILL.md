@@ -1,53 +1,26 @@
 ---
 name: kaltstart-risikoampel-und-gegenargumente
-description: "Für Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Fristen- und Risikoampel."
+description: "Prüft einen juristischen Entwurf auf die entscheidenden Einwände und überarbeitet seine Begründung. Verbindet Tatsachen, Belege und Rechtsfolgen, klärt erhebliche Lücken und liefert die korrigierte Vertrags-, Brief- oder Schriftsatzfassung."
 ---
 
-# Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien
+# 1. Einwände prüfen und den Entwurf verbessern
 
-## Direktstart: lesen, entscheiden, liefern
+Lies vorhandenen Entwurf, Auftrag und Belege. Ermittle, welche Aussage oder Regelung angegriffen werden kann und welche Folge dies für den Empfänger hat. Keine allgemeine Risikoampel voranstellen, wenn eine konkrete Überarbeitung beauftragt ist.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1. Den tragenden Einwand bearbeiten
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Bei einem Vertrag Verpflichteten, Pflicht, Auslöser und Rechtsfolge abgleichen. Bei einem Anspruch Entstehung, Einwendungen und Durchsetzbarkeit anhand des konkreten Falls prüfen. Bei einem Schriftsatz tatsächliche Erklärung, rechtliche Wertung und Beweisangebot trennen; Paragraf 138 ZPO erlaubt kein unbelegtes Tatsachenerfinden.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Nutze nur einschlägige Normen. Schutzpflicht, Verzug, Verjährung und Antragsbestimmtheit sind verschiedene Fragen, kein bei jedem Dokument vollständig auszugebender Katalog. Rechtsprechung nur mit überprüfbarer Fundstelle und passendem Aussagegehalt einsetzen.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2. Fehlenden Beleg gezielt klären
 
-## Normenanker
+Fehlt etwa der Zugangsnachweis einer Mahnung, frage nach diesem Nachweis, bevor eine bestimmte Verzugsfolge als sicher formuliert wird. Bei widersprüchlichen Vertragsfassungen kläre die verwendete Version. Arbeite die unabhängigen Abschnitte weiter aus.
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Nach Antwort den Einwand neu würdigen und die betroffene Passage vollständig überarbeiten. Weitere entscheidende Lücken gezielt klären; bekannte Daten und beantwortete Fragen nicht erneut aufnehmen.
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+## 1.3. Korrigierte Fassung liefern
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Liefere das beauftragte Dokument mit der tragfähigen Argumentation, nicht nur eine Liste seiner Schwächen. Eine alternative Formulierung nur anbieten, wenn tatsächlich eine Entscheidung des Nutzers erforderlich ist. Annahmen nicht als feststehende Tatsachen ausgeben.
 
-## Spezialwissen: Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** AI, DE, EN, US, UK.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Kaltstart** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+Interne Risikobewertung und Quellenlücken getrennt vom Empfängertext halten. Gutachtenaufträge verlangen keine zusätzliche Klage. Dezimale Gliederung, vollständige Sätze und verständliche juristische Sprache verwenden. Ohne Dateiwerkzeug vollständigen Text liefern; nichts ohne Auftrag versenden.

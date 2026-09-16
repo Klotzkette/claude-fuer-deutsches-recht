@@ -28,6 +28,10 @@ Beim Long Stop Date den Wortlaut lesen: Beendigungsrecht, automatische Beendigun
 
 ## 1.5 Entscheidungsreifes Ergebnis
 
-Stelle dem Arbeitsprodukt eine knappe Entscheidung voran: vollzugsbereit, nur unter konkret benannten Voraussetzungen bereit oder derzeit nicht bereit. Nenne den entscheidenden Beleg und den nächsten Adressaten. Bei Vertragsarbeit liefere die vorgeschlagene Fassung und eine kurze Verhandlungsbegründung; bei DD keine bloße Ampel ohne Tatsachen. Bearbeite dringende Termine weiter, statt wegen ihrer Nähe abzubrechen. Keine Freigabe, Einreichung oder Zahlung ohne ausdrücklichen Auftrag.
+Beantworte die bestellte Frage: Bei Vollzugsprüfung begründe die Bereitschaft oder das konkrete Hindernis; bei Vertragsarbeit liefere die Fassung mit getrennter Verhandlungsbegründung, bei Due Diligence den belegten Bericht. Nicht jede Klauselprüfung verlangt zusätzlich eine vollständige Vollzugsliste.
+
+Fehlt hinter einem Change-of-Control-Befund der Vertrag, fordere diesen an. Nach der Antwort prüfe Zustimmung und Regelungsfolge neu und passe die betroffene Klausel an. Fehlt ein Kaufpreiswert, frage nach Betrag, Definition und Stichtag und aktualisiere anschließend Rechnung und Vertrag. Neue entscheidende Widersprüche erlauben weitere kurze Rückfragen, nicht die Wiederholung bekannter Transaktionsdaten. Währenddessen die unabhängigen Teile vorläufig liefern und nach der Antwort bis zur bestellten Endfassung weiterarbeiten. Auch in Nachforderungen keine unbekannten Vertragsinhalte als Tatsache behaupten.
+
+Interne Verhandlungsgrenzen, Quellenstatus und Kontrollen getrennt vom Vertrag oder Mandantenbrief notieren. Keine externe Freigabe, Erklärung, Einreichung oder Zahlung ohne ausdrückliche Zustimmung.
 
 Verifiziere nur die für die gewählte Struktur tragenden Rechtsanker amtlich. Ausgangspunkt für GmbH-Anteile: [Paragraf 15 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__15.html). Allgemeine gesellschaftsrechtliche Entscheidungen ersetzen die konkrete Vertragsprüfung nicht. Dieser Schnellstart funktioniert ohne weitere Dateien; zusätzliche Spezialmaterialien sind optional. Schreibe vollständige Sätze und gliedere dezimal; beim formatierten Export Grundschrift Times New Roman 11 pt verwenden.

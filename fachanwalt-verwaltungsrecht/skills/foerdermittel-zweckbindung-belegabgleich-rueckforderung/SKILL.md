@@ -9,7 +9,7 @@ Bearbeite einen drohenden oder verfügten Teilwiderruf samt Erstattung. Der Schw
 
 ## 2. Eingaben
 
-Lies Bewilligung, Änderungs- und Schlussbescheide, einbezogene Richtlinie und Nebenbestimmungen, Finanzierungsplan, Auszahlungen, Verwendungsnachweis, Einzelbelege, Prüfvermerke, Anhörung und Rückforderung. Erfasse Fördergeber, Land, Programm, Zeiträume, Finanzierungsart, Förderquote, Höchstbetrag, Zweckbindung und Bekanntgaben. Ohne entscheidende Unterlagen einmal gebündelt nachfragen; keine weiteren Fragerunden vor einem gekennzeichneten Teilstand.
+Lies Bewilligung, Änderungs- und Schlussbescheide, einbezogene Richtlinie und Nebenbestimmungen, Finanzierungsplan, Auszahlungen, Verwendungsnachweis, Einzelbelege, Prüfvermerke, Anhörung und Rückforderung. Erfasse Fördergeber, Land, Programm, Zeiträume, Finanzierungsart, Förderquote, Höchstbetrag, Zweckbindung und Bekanntgaben aus den vorhandenen Angaben. Fehlen entscheidende Nachweise, fordere sie kosten- oder bescheidbezogen an und liefere die unabhängig begründbaren Teile vorläufig. Vorhandene Dateien nicht ohne inhaltlichen Abgleich als vollständigen Verwendungsnachweis behandeln.
 
 ## 3. Ablauf und Beweislogik
 
@@ -19,7 +19,7 @@ Lies Bewilligung, Änderungs- und Schlussbescheide, einbezogene Richtlinie und N
 4. Rechne die Finanzierungsart nach: bei Anteilfinanzierung förderfähige Kosten mal Quote, begrenzt durch Höchstbetrag; Festbetrag oder Fehlbedarf nicht so behandeln. Zeige Behördenszenario und belegtes Gegenmodell. Auszahlung minus verbleibender Anspruch ergibt zunächst nur eine rechnerische Differenz, keine automatisch feststehende Erstattungspflicht.
 5. Prüfe Aufhebungsgrund, Umfang, Anhörung, Ermessen, atypische Umstände und zeitliche Wirkung. Bei der Jahresfrist Kenntnis und Entscheidungsreife je Widerrufsgrund dokumentieren, einschließlich Anhörung und Antwort. Nicht isoliert für jede Rechnung rechnen, wenn derselbe Grund den ganzen Bescheid betrifft; Prüfvermerk und ordnungsgemäße Anhörung nicht gleichsetzen.
 6. Prüfe Erstattungsfestsetzung und Zinsen gesondert. Ordne Kapitalbetrag, Wirksamkeitszeitpunkt, Zinszeitraum, wechselnden Basiszinssatz und mögliche Absehensgründe zu; ohne Zinssatzbelege nur Formel und Lücke. Rechtsbehelf und Eilrechtsschutz nach Vollziehbarkeit und Landesrecht bestimmen. Keine automatische Einordnung als öffentliche Abgabe und keine automatische Vollzugssperre behaupten.
-7. Liefere sofort einen freizugebenden Entwurf. Keine Rückzahlung, Anerkennung, Rechtsbehelfsrücknahme oder Einreichung selbst vornehmen.
+7. Prüfe nachgereichte Zahlungs- oder Projektbelege gegen den jeweiligen Kürzungsgrund. Aktualisiere Kostenanerkennung und Förderbetrag sowie die davon abhängigen Erstattungs- und Zinspositionen; vermeide eine doppelte Kürzung derselben Position. Frage bei einer neu erkennbaren entscheidenden Lücke, etwa einem abweichenden Bewilligungszeitraum, gezielt nach. Arbeite danach die bestellte Stellungnahme oder Rechtsbehelfsbegründung fertig und kontrolliere die geänderten Rechnungen und Fristen. Keine Rückzahlung, Anerkennung, Rechtsbehelfsrücknahme oder Einreichung selbst vornehmen.
 
 ## 4. Quellenpflicht
 
@@ -29,7 +29,9 @@ Maßgebliche Fassungen, Sonderrecht und gerichtliche Entwicklung bei Verwendung 
 
 ## 5. Ausgabeformat
 
-Erstelle `ergebnis.md` mit Sachverhalt, Bescheidkette, Zweck-Klausel-Beleg-Matrix, getrennter Differenz- und Rückforderungsprüfung, Kenntniszeitachse, Zinsprüfung und ausformulierter Stellungnahme oder Rechtsbehelfsbegründung. Vollständige Sätze, keine bloße Aufzählung oder Antragsskelette. Exportstandard: Times New Roman, 11 pt, dezimal. Freigabebedarf und zuständige Entscheidungsperson nennen.
+Erstelle die bestellte Stellungnahme oder Rechtsbehelfsbegründung mit Gegenrechnung sowie getrennter Aufhebungs-, Erstattungs- und Zinsprüfung. Verwende den gewünschten Dateinamen; nur ohne Vorgabe `ergebnis.md`. Erläutere die maßgebliche Bescheidfolge und den behördlichen Kenntnisstand; Tabellen zu Kosten und Nachweisen dienen der Begründung, nicht als zwingende Gliederung des Empfängertextes. Ein Gutachtenauftrag führt nicht ungefragt zur Klage.
+
+Quellenstatus und technische Grenzen getrennt dokumentieren. Vollständige Sätze, keine bloße Aufzählung oder Antragsskelette. Exportstandard: Times New Roman, 11 pt, dezimal. Freigabebedarf für externe Handlungen und zuständige Entscheidungsperson nennen.
 
 ## 6. Beispiel
 

@@ -26,8 +26,14 @@ Bei Beendigung Form, Zugang, Frist, Beteiligung und besonderen Schutz prüfen; d
 
 ## 1.4. Konkrete Lieferung
 
-Liefere „Vorgang / Rechts- oder Vertragsgrund / Beleg / Verantwortlicher / Freigabe / Termin / Textprodukt“. Der Außenbrief enthält keine internen Verdachtsbewertungen oder unnötigen Gesundheitsangaben. Ein Beteiligungsentwurf beschreibt die geplante Maßnahme vollständig statt bloß eine Zustimmung anzukreuzen.
+Liefere das bestellte Schreiben, die Vertragsfassung oder die begründete Entscheidungsvorlage. Ordne Verantwortlichkeit, Freigabe und Termin dem konkreten Personalvorgang zu, ohne eine interne Prüftabelle zur Pflichtausgabe zu machen. Der Außenbrief enthält keine internen Verdachtsbewertungen oder unnötigen Gesundheitsangaben. Ein Beteiligungsentwurf beschreibt die geplante Maßnahme vollständig statt bloß eine Zustimmung anzukreuzen.
 
-Fehlende kritische Angaben einmal gebündelt erfragen; unabhängige Arbeit weiterführen. Bei naher Frist zuerst den Sicherungs- oder Eskalationsschritt ausarbeiten. Keine Kündigung, Meldung, Systemfreigabe oder Zahlung tatsächlich auslösen.
+### 1.4.1. Abweichung oder fehlende Beteiligung klären
 
-Normen amtlich prüfen, Entscheidungen nur verifiziert zitieren. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Andere Werkstatt- oder Skilltexte sind optional; neue Vertrags- oder Softwarefassungen bei Folgeaufträgen gezielt nachprüfen.
+Fehlt bei einer Vergütungskorrektur der Zeitnachweis, frage nach dem betroffenen Monat und der konkreten Zeitbuchung. Nach Antwort Vertragsanspruch, Abrechnung und Zahlung neu abgleichen und Korrekturbetrag sowie Mitarbeiterschreiben anpassen. Fehlt bei einer Personalmaßnahme der Beteiligungsnachweis, fordere Anhörung und Antwort an; bloße Materialverfügbarkeit bedeutet noch keine ordnungsgemäße Beteiligung.
+
+### 1.4.2. Nach der Antwort fertigstellen
+
+Zeigt sich eine weitere entscheidende Lücke, kurz nachfragen, ohne bereits Geklärtes zu wiederholen. Unabhängige Teile vorläufig ausarbeiten und nach Klärung bis zum bestellten Text fortsetzen. Bei naher Frist den erforderlichen Sicherungs- oder Eskalationsschritt vorbereiten. Keine Kündigung, Meldung, Systemfreigabe oder Zahlung tatsächlich auslösen.
+
+Normen amtlich prüfen, Entscheidungen nur verifiziert zitieren. Quellenstatus gesondert notieren, nicht in Beschäftigtenschreiben übernehmen. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Vorgegebene Dateinamen verwenden; ergebnis.md nur ohne Dateiwunsch. Andere Werkstatt- oder Skilltexte sind optional; neue Vertrags- oder Softwarefassungen bei Folgeaufträgen gezielt nachprüfen.

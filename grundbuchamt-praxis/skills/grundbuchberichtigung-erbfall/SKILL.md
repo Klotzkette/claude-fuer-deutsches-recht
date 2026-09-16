@@ -5,6 +5,8 @@ description: "Für Grundbuchberichtigung nach Erbfall: ordnet Norm, Beweislast u
 
 # Grundbuchberichtigung nach Erbfall
 
+Prüfe den Nachweis der Erbfolge und verfasse das bestellte Berichtigungs- oder Nachreichungsschreiben. Lies Grundbuchauszug, Verfügung von Todes wegen, Eröffnungsniederschrift und vorhandene Beanstandung zuerst.
+
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -24,7 +26,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Bekannte Beteiligte, Blatt und Bearbeitungsziel übernehmen. Fehlt eine Eröffnungsniederschrift oder eine in der Beanstandung bezeichnete Urkunde, gezielt danach fragen; keine neue allgemeine Aufnahme beginnen.
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
@@ -43,5 +45,7 @@ GBO, GBV, FamFG-Aufgebotsrecht, BGB-Grundstücksrechte, notarielle Nachweislogik
 1. **Aktenlage sichern:** Liste vorhandene Dokumente, fehlende Nachweise, offene Originale, Register-/Grundbuchauszüge, Aktenzeichen, Datum, Beteiligte und Entscheidungsdruck.
 2. **Form und Zuständigkeit prüfen:** Trenne materielle Rechtslage, formelle Nachweise, elektronische Einreichung, Beglaubigung/Beurkundung, Übersetzung/Apostille und Zuständigkeit.
 3. **Hindernisse benennen:** Formuliere jedes Hindernis konkret: behebbar, streitig, riskant, rein redaktionell oder materiell-rechtlich.
-4. **Nächste Handlung erzeugen:** Liefere bei Bedarf Nachreichungsschreiben, Mandantenupdate, Checkliste, Fristenlog, Beschwerdegerüst oder Vollzugsmatrix.
+4. Nach Eingang des fehlenden Erbnachweises Inhalt, Form und konkrete Beanstandung neu abgleichen und das bestellte Schreiben fertigstellen. Neue entscheidende Widersprüche, etwa zu einer weiteren Verfügung, gezielt klären; bereits beantwortete Fragen nicht wiederholen. Bei einem Hindernis bearbeitbare Teile vorläufig liefern und nach der Antwort fortsetzen. Kein Beschwerdeentwurf ohne entsprechenden Auftrag und keine Einreichung ohne Freigabe.
 5. **Belegdisziplin:** Zitiere Normen nur, wenn sie zum Schritt passen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst ausdrücklich als zu verifizieren markieren.
+
+Quellenprüfvermerke und interne Nachweisübersichten getrennt vom Empfängertext halten. Weitere Skills sind optional; eine Checkliste ersetzt nicht das bestellte Schreiben.

@@ -6,21 +6,19 @@ Kernauftrag: Bereite Verfahren nach IFG-, Transparenz-, UIG-, VIG- und Presseaus
 
 ## 1.1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Zugangsziel, Anspruchsregime, Ausnahmen und Dritte wählen; ohne konkreten Auftrag mit Zugangsziel beginnen.
+- Dateien oder Ordner: Zugangsantrag, Behördenantwort, betroffene Dokumente, Drittstellungnahmen und Zustellnachweise im erforderlichen Umfang lesen.
+- Konkreter Auftrag: Den bestellten Antrag, Brief, Bescheidentwurf oder die Bewertung ausarbeiten; unbekannte Akteninhalte nicht unterstellen.
+- Nur Prompt gestartet: Rolle und Zugangsziel aus der Akte bestimmen; nur bei unklarem Auftrag nach dem gewünschten Ergebnis fragen.
 - Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Zugangsziel, Anspruchsregime, Ausnahmen und Dritte und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
-
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Bei unbestimmtem Zugangsziel frage nach Vorgang und Zeitraum. Fehlt die Begründung einer Schwärzung, fordere deren konkreten Schutzgrund an, ohne die geschützte Information vorwegzunehmen. Nach einer Antwort Antrag oder passagenbezogene Bewertung aktualisieren. Neue entscheidende Lücken gezielt klären, beantwortete Fragen nicht wiederholen.
 
 ## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche vorhandene amtliche Information wird in welchem Format von welcher Stelle begehrt.
-2. Kernprüfung in einem Durchgang: Welches Anspruchsregime ist gegenüber dieser Stelle und für diesen Informationsgegenstand vorrangig; Welcher Ausschlussgrund schützt welche konkrete Passage und ist Teilzugang möglich.
+2. Prüfe das für Stelle und Gegenstand einschlägige Anspruchsregime sowie Ausschlussgründe und möglichen Teilzugang je Passage.
 3. Belege und Engpass zusammenführen: Nachweisachse Zugangsziel: begehrte Information, Zeitraum, Format, Behörde, Aktenbestand und Verwendungszweck so konkret wie nötig bestimmen; besonders kritisch ist: Der Antrag verlangt erst eine neue Auswertung, statt vorhandene Informationen hinreichend bestimmbar zu bezeichnen.
-4. Erstes Arbeitsprodukt liefern: Informationsmatrix: Dokument oder Datensatz, Behörde, Anspruch, Fundzeitraum, Ausschlussgrund, Drittbezug, Teilzugang, Format und Gebühr.
+4. Das bestellte Dokument ausarbeiten. Eine Übersicht zu Dokumenten, Ausschlussgründen und Teilzugang nur bei Bedarf beifügen.
 
 ## 1.3. Kernroute
 
@@ -62,8 +60,14 @@ Formuliere einen bestimmbaren Antrag oder eine passagenbezogene Schwärzungsprü
 1.7.4. Beweis: Nachweisachse Zugangsziel: begehrte Information, Zeitraum, Format, Behörde, Aktenbestand und Verwendungszweck so konkret wie nötig bestimmen. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welches Anspruchsregime ist gegenüber dieser Stelle und für diesen Informationsgegenstand vorrangig.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Informationsmatrix“. Benenne die Frist, die offene Kernfrage und die dafür noch benötigte Unterlage.
+1.7.7. Abschluss: Das bestellte Dokument vollständig ausformulieren. Quellenstatus und interne Recherchehinweise gesondert vom Empfängertext dokumentieren; bei einem Gutachtenauftrag keinen zusätzlichen Rechtsbehelf entwerfen.
 
-## 1.8. Stop
+## 1.8. Fortsetzung und Grenzen
 
-Präzisiere bei einem zu weiten Begehren die vorhandenen Dokumente oder Datenfelder, statt die Bearbeitung abzubrechen. Trenne Dokumentenzugang von einer Pressefrage; verlange nicht bei jedem Zugang pauschal einen Verwendungszweck. Für Drittbezug beachte die Begründungsregel in [Paragraf 7 IFG](https://www.gesetze-im-internet.de/ifg/__7.html). Prüfe je geschützter Passage Teilzugang und Schwärzung statt vollständiger Ablehnung. Die Monatsregel in Absatz 5 ist eine Sollregel mit Vorbehalt der Drittbeteiligung, keine automatische Genehmigungsfiktion. Liefere Antrag, Schwärzungsmatrix oder Antwortentwurf mit konkretem Dokumentbezug. Prüfe tragende Quellen amtlich; keine erfundenen Entscheidungen und keine eigenständige Antragstellung oder Herausgabe. Der Prompt ist allein nutzbar, die Werkstatt optional. Ergebnisse in vollständigen Sätzen, Export in Times New Roman mit 11 Punkt.
+Präzisiere bei einem zu weiten Begehren die vorhandenen Dokumente oder Datenfelder, statt die Bearbeitung abzubrechen. Trenne Dokumentenzugang von einer Pressefrage; verlange nicht pauschal einen Verwendungszweck. Für Drittbezug beachte die Begründungsregel in [Paragraf 7 IFG](https://www.gesetze-im-internet.de/ifg/__7.html). Die Monatsregel in Absatz 5 ist eine Sollregel mit Vorbehalt der Drittbeteiligung, keine automatische Genehmigungsfiktion.
+
+Prüfe je geschützter Passage Teilzugang und Schwärzung. Bei entscheidender Lücke den tragfähigen Teil mit konkreter Nachforderung liefern; nach der Antwort Bewertung und bestelltes Schreiben bis zur Endfassung fortführen. Ein vollständig vorgelegtes Dokument ist nicht deshalb vollständig herauszugeben. Unbekannte Inhalte auch im Nachforderungsbrief nicht behaupten.
+
+Prüfe tragende Quellen amtlich; keine erfundenen Entscheidungen und keine eigenständige Antragstellung oder Herausgabe. Die Werkstatt ist optional. Vollständige Sätze; Export in Times New Roman mit 11 Punkt.
+
+Ohne Datei- oder Quellenzugriff die konkrete Lücke benennen und mit zugänglichen Belegen weiterarbeiten. Ohne Export Text liefern, keine Links erfinden oder erfolglose Abrufe unverändert wiederholen.

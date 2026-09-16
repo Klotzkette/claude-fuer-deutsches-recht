@@ -19,17 +19,17 @@ Bearbeite **Mondvertrag: Ressourcen-Governance und politische Akzeptanz** im Ber
 
 ## Thematischer Kontext
 
-- Moon Agreement 1979 (MA) – ambitioniertestes und gescheitertstes Weltraumdokument
+- Moon Agreement 1979 (MA): Vertragsbindung und materielle Ressourcenregeln getrennt prüfen.
 - Art. 11: Mond und Ressourcen als gemeinsames Erbe der Menschheit
 - Fehlendes internationales Ressourcenregime als zentrales Problem
-- Keine Ratifikation durch USA, Russland, China, EU-Staaten
+- Keine pauschale Aussage, dass kein EU-Staat Vertragspartei sei: Österreich und die Niederlande haben ratifiziert, Belgien ist beigetreten. Status des betroffenen Staates zum maßgeblichen Zeitpunkt einzeln prüfen.
 - Verhältnis zu Artemis Accords und ILRS-Programm
 
 ## Einschlägige Normen und Regelwerke
 
-- **MA Art. 11 Abs. 1**: Gemeinsames Erbe der Menschheit – keine Eigentumsrechte
-- **MA Art. 11 Abs. 3**: Explorations- und Nutzungsfreiheit; kommerzielle Extraktion erst nach Regime
-- **MA Art. 11 Abs. 5**: Pflicht zur Schaffung eines internationalen Ressourcenregimes
+- MA Artikel 11 Absatz 1: Mond und natürliche Ressourcen als gemeinsames Erbe der Menschheit.
+- MA Artikel 11 Absatz 3: Eigentumsausschluss an Oberfläche, Untergrund und Ressourcen an ihrem natürlichen Ort; nicht mit Eigentum an Raumfahrzeugen gleichsetzen.
+- MA Artikel 11 Absatz 4: Recht auf Erforschung und Nutzung nach Maßgabe des Vertrags. Absatz 5 verpflichtet zur Errichtung eines internationalen Regimes, wenn die Ausbeutung praktisch möglich zu werden beginnt. Reichweite für kommerzielle Entnahme nicht als unstreitiges pauschales Verbot darstellen; Artikel 11 Absatz 8 und die Proben- und Nutzungsregel des Artikels 6 Absatz 2 berücksichtigen.
 - **MA Art. 7**: Schutz der Mondumwelt
 - **MA Art. 14**: Staatliche Verantwortung für nichtstaatliche Aktivitäten
 - **US SPACE Act 2015**: Ressourceneigentum ohne Gebietsanspruch – Gegenentwurf zum MA
@@ -46,8 +46,8 @@ Bearbeite **Mondvertrag: Ressourcen-Governance und politische Akzeptanz** im Ber
 
 ## Prüfprogramm
 
-1. **Vertragsstatus**: Ist der betreffende Staat MA-Ratifizierer? Wenn nein → nur OST Art. II relevant
-2. **Aktivitätstyp**: Erkundung (frei) vs. Ressourcenextraktion (MA-Regime erforderlich, aber inexistent)?
+1. Vertragsstatus: Ratifikation, Beitritt und bloße Unterzeichnung unterscheiden. Ohne Bindung an den Mondvertrag bleiben die jeweils einschlägigen Vorschriften des OST und weiteren anwendbaren Rechts zu prüfen, nicht allein Artikel II OST.
+2. Aktivitätstyp: Wissenschaftliche Probenentnahme, missionsbezogene Nutzung und kommerzielle Ausbeutung unterscheiden. Artikel 6 Absatz 2 sowie Artikel 11 Absätze 3 bis 8 auf die konkrete Tätigkeit beziehen; streitige Auslegungen als solche kenntlich machen.
 3. **Nationales Ressourcenrecht**: SPACE Act, Luxemburger Gesetz oder nationales Äquivalent anwendbar?
 4. **Artemis Accords**: Hat Staat unterzeichnet? Safety Zones und Interoperabilitätspflichten prüfen
 5. **Umweltpflichten**: Art. 7 MA und Planetary Protection (OST Art. IX, COSPAR Policy) berücksichtigen
@@ -82,8 +82,8 @@ Bearbeite **Mondvertrag: Ressourcen-Governance und politische Akzeptanz** im Ber
 ## Typische Fallen
 
 - **MA nicht ratifiziert ≠ MA irrelevant**: Als Soft-Law-Quelle und für Auslegung von OST Art. II diskutiert
-- **Gemeinsames Erbe ≠ Verbot**: Art. 11 erlaubt Erkundung; blockiert nur kommerzielle Extraktion ohne Regime
-- **Sicherheitszonen ohne Rechtsgrundlage**: Artemis Accords-Zonen binden nur Unterzeichner; kein universelles Recht
+- Gemeinsames Erbe: Kein pauschaler Schluss auf ein unterschiedsloses Verbot jeder Ressourcenentnahme; konkrete Vertragsbestimmung, Tätigkeit und Auslegungsfrage benennen.
+- Sicherheitszonen: Politische Zusagen nach Abschnitt 11 der Artemis Accords von völkerrechtlichen Vertragspflichten und konkreten Umsetzungsinstrumenten trennen; keine allgemeine Gebietshoheit ableiten.
 - **Doppelstandard**: Staat kann OST ratifiziert haben, aber nationales Gesetz erlaubt Ressourceneigentum
 
 ## Qualitätssicherung
@@ -110,6 +110,8 @@ Bearbeite **Mondvertrag: Ressourcen-Governance und politische Akzeptanz** im Ber
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellen und Normen
+
+Am 16.09.2026 geprüft: [UN-Vertragsstatus, Kapitel XXIV Nummer 2](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXIV-2&chapter=24&clang=_en), insbesondere Österreich, Belgien und Niederlande; [amtlicher Vertragstext, Artikel 6 und 11, Seiten 29 und 31 bis 32](https://www.unoosa.org/pdf/publications/st_space_11rev2E.pdf).
 
 - Moon Agreement 1979: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html
 - Artemis Accords: https://www.nasa.gov/artemis-accords/

@@ -1,68 +1,45 @@
-# 1. Einigungsvertrag Vermögensrecht — Schnellstart
+# 1 Eigentum und Vermögenszuordnung aus den Akten klären
 
-Kläre die Eigentums- oder Zuordnungsfrage anhand der DDR- und Übergangsakten. Dokumentiere die historischen Veränderungen mit Quellen und bereite das benötigte Behörden- oder Grundbuchschreiben vor.
+Bearbeite die verlangte Eigentumsprüfung, Restitutionsfrage oder Zuordnung anhand der DDR-, Übergangs- und heutigen Akten. Lies vorhandene Urkunden, Bescheide, Registerunterlagen und Korrespondenz zuerst. Übernimm den bekannten Auftrag; ein Prüfvermerk verlangt nicht automatisch ein Behörden- oder Grundbuchschreiben.
 
-Ordne Volksvermögen, Parteivermögen, Treuhandvorgänge, Bodenreform und Mauergrundstücke nach Einigungsvertrag, DDR/BRD-Übergangsrecht und VermG ein und prüfe die Restitutionsfrage. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Objekt und Rechtswechsel bestimmen
 
-## 1.1. Sofortstart nach Eingangslage
+Ordne Grundstück, Gebäude, Betrieb und Beteiligte nach Datum und Urkunde zu. Verfolge Flurstücksänderungen, Eigentumswechsel, Rechtsträgerschaft, Nutzung und Verfügungsbefugnis getrennt. Historische Bezeichnungen nicht ungeprüft in heutige Rechtsbegriffe übertragen. Gleiche Fläche oder Adresse beweist keine Objektidentität.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Objekt und Zeitachse, Quellenkritik, Anspruchspfad wählen; ohne konkreten Auftrag mit Objekt und Zeitachse beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Unterscheide Grundbuch, Liegenschaftskarte, Rechtsträgernachweis, Enteignungsakt, Register, Treuhandvertrag und Bescheid nach ihrem Aussagewert. Besitz oder bloße Rechtsträgerschaft ist nicht Eigentum. Ein vollständiger Aktenordner beweist noch keine lückenlose Rechtsnachfolge.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Objekt und Zeitachse, Quellenkritik, Anspruchspfad und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Bei einem Upload ohne erkennbares Ziel zunächst den belegbaren Vorgang einordnen und die offene Zielentscheidung klären: heutige Eigentumslage, Altantrag, Zuordnung oder Rechtsschutz. Bekannte Angaben nicht erneut erheben.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 1.2 Fehlende Belege nachfordern und auswerten
 
-## 1.2. Fachlicher Direktstart
+Fehlt die Verbindung zwischen alter und heutiger Flurstücksnummer, frage nach Fortführungsnachweis oder Kartenunterlage. Nach Eingang Teilungen und Zusammenlegungen prüfen und Objektbeschreibung sowie betroffene Anspruchsbegründung aktualisieren.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Vermögensobjekt und welcher Rechtsträgerstatus bestanden am jeweils maßgeblichen Stichtag.
-2. Kernprüfung in einem Durchgang: Welcher Originalakt änderte Eigentum, Rechtsträgerschaft, Nutzung oder Verfügungsbefugnis; Welcher Anspruchspfad ist eröffnet und welcher ausdrücklich ausgeschlossen oder verfristet.
-3. Belege und Engpass zusammenführen: Nachweisachse Quellenkritik: Grundbuch, Liegenschaftskarte, Rechtsträgernachweis, Enteignungsakt, Register, Archivakte, Treuhandvertrag und Bescheid einordnen; besonders kritisch ist: Grundbuch, Flurstück, historischer Rechtsträger oder maßgeblicher Bescheid fehlt.
-4. Erstes Arbeitsprodukt liefern: Objektchronologie: Datum, Objekt, Eigentümer, Rechtsträger, Nutzung, Rechtsakt, Fundstelle, Rechtsfolge und offene Lücke.
+Liegt nur ein Bescheiddeckblatt vor, fordere Entscheidung, Anlagen und Zustellnachweis nach. Bearbeite die unabhängige Vorgeschichte weiter; nach Antwort Entscheidungssatz, Objektumfang und Frist neu beurteilen. Bei unklarer Rechtsnachfolge genau den fehlenden Register- oder Übertragungsakt erfragen.
 
-## 1.3. Kernroute
+Eine Archivanfrage bezeichnet gesuchte Urkunde, Objekt, Zeitraum und bekannte Stelle, ohne den behaupteten Rechtswechsel als feststehend auszugeben. Neue entscheidende Lücken dürfen weitere kurze Fragen auslösen; bereits Beantwortetes nicht wiederholen. Bei ausbleibendem Beleg tragfähige Teile liefern und den offenen Schluss benennen. Nach Klärung bis zum bestellten Dokument weiterarbeiten.
 
-1. Objekt und Zeitachse: Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel von Vorkriegszeit über DDR bis heute belegen.
-2. Quellenkritik: Grundbuch, Liegenschaftskarte, Rechtsträgernachweis, Enteignungsakt, Register, Archivakte, Treuhandvertrag und Bescheid einordnen.
-3. Anspruchspfad: Zuordnung, Restitution, Entschädigung, Sachenrechtsbereinigung, Berichtigung oder Sondergesetz strikt trennen.
-4. Verfahren und Einwand: Den historischen Antrag mit Eingangsbeleg und damals bestimmtem Objekt lesen. Spätere Belegergänzung nicht mit erstmaliger Anmeldung eines anderen Grundstücks gleichsetzen. Paragraf 30a VermG, Sonderregeln, Bestandskraft und Rechtsnachfolge getrennt prüfen; ein neu gefundenes Archivdokument öffnet nicht automatisch eine abgelaufene Ausschlussfrist.
-5. Arbeitsprodukt: Eigentumschronologie, Belegmappe, Archivanfrage, Behördenantrag, Widerspruch, Klage- oder Grundbuchunterlage erstellen.
+## 1.3 Anspruch und Verfahren auseinanderhalten
 
-## 1.4. Fallkarte
+Für Verwaltungs- und Finanzvermögen Artikel 21 und 22 Einigungsvertrag nach Zweckbestimmung und maßgeblichem Stichtag getrennt prüfen. VZOG-Zuordnung, Restitution nach VermG, Entschädigung, Sachenrechtsbereinigung und Grundbuchberichtigung sind unterschiedliche Wege.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | Einigungsvertrag Artikel 21 und Artikel 22; VermG Paragraf 1 ff; VZOG |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel von Vorkriegszeit über DDR bis heute belegen |
-| Beweislast | Nachweisachse Quellenkritik: Grundbuch, Liegenschaftskarte, Rechtsträgernachweis, Enteignungsakt, Register, Archivakte, Treuhandvertrag und Bescheid einordnen |
-| Rechtsfolge | Eigentumschronologie, Belegmappe, Archivanfrage, Behördenantrag, Widerspruch, Klage- oder Grundbuchunterlage erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Beim VermG Schädigungstatbestand, Berechtigung, Ausschluss, Rechtsnachfolge und mögliche Rückübertragung untersuchen. Für Bodenreform, Mauergrundstücke, Parteivermögen und Treuhandprivatisierung die jeweilige Sonderlage prüfen, statt eine Regel auf alle DDR-Vermögensvorgänge zu übertragen. SachenRBerG und EGBGB-Übergangsrecht für Nutzungsrechte und Gebäudeeigentum heranziehen.
 
-## 1.5. Ergebniswahl
+Beim Grundbuchproblem materielle Eigentumslage und urkundlichen Nachweis getrennt prüfen. Eine historische Chronologie ersetzt keine notwendige Urkunde. Bei Kommunalvermögen Nutzung, Aufgabe, Rechtsträger und Zuordnungsentscheidung belegen.
 
-Altantrag: Objektidentität und Ergänzungsmöglichkeit. Zuordnung: Rechtsträger, Nutzung und Stichtag. Grundbuchproblem: nachweisbare Eigentumskette und fehlende Urkunde. Jede Route endet mit einem konkreten Behörden- oder Beleganforderungsentwurf.
+## 1.4 Altanmeldung und Bestandskraft prüfen
 
-## 1.6. Anker
+Lies den historischen Antrag mit Eingangsbeleg und dem damals bestimmten Objekt. Spätere Belegergänzung nicht mit erstmaliger Anmeldung eines anderen Grundstücks gleichsetzen. [Paragrafen 30 und 30a VermG](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html), Sonderregeln, Bestandskraft und Rechtsnachfolge getrennt prüfen. Ein neu gefundenes Archivdokument öffnet nicht automatisch eine abgelaufene Ausschlussfrist.
 
-- Einigungsvertrag Artikel 21 und Artikel 22: Zuordnung von Verwaltungs- und Finanzvermögen nach Zweckbestimmung und Stichtagslage.
-- VermG Paragraf 1 ff.: vermögensrechtliche Ansprüche, Schädigungstatbestände, Ausschlüsse, Rückübertragung und Entschädigung.
-- VZOG: Feststellung und Zuordnung ehemals volkseigenen Vermögens sowie Bestandskraft der Zuordnungsentscheidung.
-- SachenRBerG und EGBGB-Übergangsrecht: Bereinigung dinglicher Nutzungs- und Gebäudeeigentumslagen.
-- [VermG, Paragrafen 30 und 30a](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html): Anmeldung, Ausschlussfristen und Sonderkonstellationen anhand des ursprünglichen Antrags prüfen. Eigentum und bloße Rechtsträgerschaft nicht gleichsetzen.
+Unterscheide Ausschlussfrist, Verjährung und Rechtsbehelfsfrist. Beginn und Ende am konkreten Auslöser festmachen; Hemmung, Wiedereinsetzung oder erneute Sachprüfung nicht ohne passende Grundlage zusagen. Fehlt der Zustellnachweis, die davon abhängige Fristberechnung begrenzen und nach Eingang erneuern.
 
-## 1.7. Antwortform
+## 1.5 Bestelltes Ergebnis ausformulieren
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Eigentumschronologie, Belegmappe, Archivanfrage, Behördenantrag, Widerspruch, Klage- oder Grundbuchunterlage erstellen.
-1.7.2. Norm: Einigungsvertrag Artikel 21 und Artikel 22; VermG Paragraf 1 ff mit dem entscheidenden Merkmal verbinden.
-1.7.3. Aktenfund: Für „Objekt und Zeitachse“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Nachweisachse Quellenkritik: Grundbuch, Liegenschaftskarte, Rechtsträgernachweis, Enteignungsakt, Register, Archivakte, Treuhandvertrag und Bescheid einordnen. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welcher Originalakt änderte Eigentum, Rechtsträgerschaft, Nutzung oder Verfügungsbefugnis.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Objektchronologie“. Frist, Kernlücke und nächstem Dokument benennen.
+Ein Prüfvermerk erläutert belegte Rechtswechsel, Anspruchsvoraussetzungen, stärksten Einwand und verbleibende Beweisfragen. Ein Behörden- oder Grundbuchentwurf enthält das bestimmte Begehren, die dafür belegten Tatsachen und erforderliche Anlagen. Eine Nachforderung bleibt auf die konkrete Urkunde beschränkt. Nicht ungefragt alle Ausgaben erzeugen.
 
-## 1.8. Stop
+Chronologien und Tabellen nur verwenden, wenn sie Objektidentität oder widersprechende Rechtsakte verständlicher machen. Keine erfundene Eigentumskette und keine Annahme als Tatsache ausgeben. Nach neuen Belegen die betroffenen Aussagen ändern und den verlangten Text fertigstellen, statt bei einer Unterlagenliste zu enden.
 
-Fehlende Urkunden verhindern nur den davon abhängigen Schluss. Liefere Objektidentitäts- und Antragschronologie mit gezieltem Archivbedarf, nicht eine erfundene Eigentumskette. Werkstatt optional. Keine Rückübertragung beantragen, Erklärung abgeben oder Grundbuchberichtigung veranlassen. Amtliche Quellen mit Fassung und Fundstelle prüfen; vollständige Sätze, dezimale Gliederung, bei Markdown Exporthinweis Times New Roman 11 pt.
+Tragende Normen und Entscheidungen amtlich mit maßgeblicher Fassung und Fundstelle prüfen. Quellenstatus und Recherchegrenzen in einer Arbeitsnotiz führen, nicht im Mandantenbrief. Werkstatt und weitere Skills sind optional; dieser Text bleibt eigenständig. Keine Archivbestellung, Rückübertragung, Erklärung oder Grundbuchberichtigung ohne ausdrückliche Freigabe veranlassen. Vollständige Sätze, dezimale Gliederung; Exportstandard Times New Roman 11 pt.
+
+## 1.6 Technische Grenzen
+
+Nur zugängliche Unterlagen und Werkzeuge verwenden; fehlende oder unlesbare Teile konkret benennen. Ein technischer Fehler lässt nur den abhängigen Schluss offen, nicht die weitere Arbeit an den belegten Teilen. Ohne Export den vollständigen Text liefern und keine nicht erfolgte Prüfung oder Dateierzeugung behaupten.

@@ -1,6 +1,8 @@
 # 1. Strafrichterlichen Arbeitsstand präzise entwickeln
 
-Lies den konkreten Auftrag, Anklage oder Strafbefehlsantrag, einschlägige Aktenstellen und vorhandene Sitzungsdokumentation. Die Rolle ist das Strafgericht, nicht die Staatsanwaltschaft. Erstelle den verlangten Beschluss, die Sitzungsverfügung oder den Urteilsbaustein; entwirf nicht ungefragt eine neue Anklage. Zuständigkeit, Besetzung, Verfahrensstand und besonders eilbedürftige Haftfragen vor der Sachprüfung erfassen. Fehlende Angaben nur erfragen, soweit sie den nächsten Schritt blockieren.
+Erstelle den beauftragten Beschluss, die Sitzungsverfügung oder den Urteilsentwurf anhand der Akte und des tatsächlichen Verfahrensstands. Die Rolle ist das Strafgericht, nicht die Staatsanwaltschaft; entwirf keine neue Anklage.
+
+Lies Anklage oder Strafbefehlsantrag, einschlägige Aktenstellen und vorhandene Sitzungsdokumentation zuerst. Erfasse Zuständigkeit, Besetzung und besonders eilbedürftige Haftfragen, ohne bereits geklärte Angaben erneut abzufragen.
 
 ## 1.1. Prüfungsmaßstab nach Verfahrensphase
 
@@ -22,4 +24,10 @@ Vor Abschluss der Beweisaufnahme kennzeichnen, welche Feststellung noch offen is
 
 ## 1.4. Rechtsfolge und gerichtlicher Entwurf
 
-Strafzumessung erst auf Grundlage der getragenen Feststellungen entwickeln. Strafrahmen, persönliche Umstände, Einzelstrafen, Gesamtstrafe und Bewährungsfrage getrennt prüfen; unbekannte Vorstrafen oder Einkünfte nicht ergänzen. Quellen und aktuelle Vorschriften für die konkrete Rechtsfolge verifizieren. Der vollständige Entwurf bleibt zur richterlichen Prüfung bestimmt und enthält keine fingierte Verkündung, Unterschrift oder Zustellung. Dezimal gliedern, Export in Times New Roman 11 pt. Andere Fachskills und Referenzen sind optional; Phasenmaßstab und Beweisprüfung stehen eigenständig in diesem Mini.
+Fehlt die Dokumentation zur Einführung eines Beweismittels, frage nach der konkreten Protokollstelle oder verlässlichen Ergänzung des Verhandlungsstands. Fehlt ein entscheidender persönlicher Umstand, fordere den entsprechenden Nachweis an. Bearbeite die übrigen Teile weiter; eine nicht vorgelegte Urkunde oder ein nicht dokumentierter Vorgang darf nicht als festgestellte Tatsache eingesetzt werden.
+
+Gleiche neue Angaben mit der bisherigen Akte ab und überarbeite die betroffenen Feststellungen, Würdigung und Rechtsfolgen. Zeigt sich eine weitere entscheidende Lücke, kläre sie gezielt oder bereite die erforderliche gerichtliche Aufklärung vor. Danach den bestellten Entwurf vervollständigen, statt mit einem bloßen Aufklärungsvermerk zu enden; bei fortbestehendem Hindernis den Teilstand und seine konkrete Grenze benennen.
+
+Strafzumessung erst auf Grundlage der getragenen Feststellungen entwickeln. Strafrahmen, persönliche Umstände, Einzelstrafen, Gesamtstrafe und Bewährungsfrage getrennt prüfen; unbekannte Vorstrafen oder Einkünfte nicht ergänzen. Quellen und aktuelle Vorschriften für die konkrete Rechtsfolge verifizieren. Der vollständige Entwurf bleibt zur richterlichen Prüfung bestimmt und enthält keine fingierte Verkündung, Unterschrift oder Zustellung.
+
+Interne Quellen- und Zugriffshinweise gesondert vom gerichtlichen Entwurf halten. Beachte den gewünschten Dateinamen; dezimal gliedern, Export in Times New Roman 11 pt. Andere Fachskills und Referenzen sind optional; Phasenmaßstab und Beweisprüfung stehen eigenständig in diesem Mini. Externe Verfahrenshandlungen bedürfen ausdrücklicher Freigabe.

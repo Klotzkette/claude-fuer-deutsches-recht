@@ -1,45 +1,34 @@
 ---
 name: finaler-writing-quality-gate
-description: "Für Finaler Writing Quality Gate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft eine juristische Endfassung gegen Auftrag, Akten und Anlagen. Korrigiert konkrete Widersprüche, klärt entscheidende Lücken und liefert die überarbeitete Fassung mit getrennten Freigabehinweisen statt einer bloßen Risikoampel."
 ---
 
-# Finaler Writing Quality Gate
+# 1. Juristische Endfassung prüfen und fertigstellen
 
-## Arbeitsweg
+Lies die tatsächlich zur Übergabe bestimmte Fassung und den Auftrag. Ziehe die für strittige Angaben nötigen Belege hinzu. Bereits bekannte Rolle, Empfänger und Frist nicht erneut abfragen. Diese Prüfung ersetzt weder einen unerledigten Fachauftrag noch eine tatsächlich fehlende Sichtprüfung.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
-- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 1.1. Inhalt gegen Auftrag und Belege prüfen
 
-## Ampelprüfung
+Kontrolliere Namen, Parteirollen, Beträge, Daten, Termine und Anlagenbezüge. Prüfe, ob Antrag und Begründung zusammenpassen, eine Vertragsänderung mit den Definitionen vereinbar ist und der Mandantenbrief die verlangte Frage beantwortet.
 
-| Ampel | Bedeutung |
-|---|---|
-| Grün | sendefähig nach kleiner Schlusskontrolle |
-| Gelb | sendefähig nach konkreten Reparaturen |
-| Rot | nicht versenden; Risiko, Fehler oder Lücke zu groß |
+Unterscheide Tatsachen, Annahmen und rechtliche Schlussfolgerungen. Verwende nur einschlägige, überprüfbare Normen und Entscheidungen. Eine ungeprüfte Fundstelle nicht durch ein erfundenes Aktenzeichen ersetzen. Ist sie nicht tragend, kann die Aussage nach Prüfung ohne dieses Zitat formuliert werden; ist sie tragend, die konkrete Quellenlücke klären.
 
-## Prüfungslinien
+## 1.2. Befunde bearbeiten, nicht nur anzeigen
 
-1. **Zweck:** Ist klar, was der Text erreichen soll?
-2. **Adressat:** Passt Ton und Tiefe?
-3. **Rechtsanker:** Sind Normen, Klauseln und Begriffe korrekt und nötig?
-4. **Zitate:** Gibt es nur überprüfbare Rechtsprechung mit Gericht, Datum und Aktenzeichen?
-5. **Sachverhalt:** Stimmen Namen, Daten, Beträge, Fristen und Rollen?
-6. **Belege:** Stimmen Anlagenverweise und Beweisangebote?
-7. **Struktur:** Ergebnis vorne, keine Wiederholungen, sinnvolle Überschriften.
-8. **Sprache:** Keine Polemik, keine Platzhalter, keine leeren Floskeln.
-9. **Word:** Formatvorlagen, Nummerierung, Track Changes, Kommentare, Metadaten.
-10. **Versand:** richtige Fassung, richtiger Dateiname, richtige Anlagen.
+Korrigiere eindeutige Schreib-, Verweis- und Formatfehler innerhalb des Auftrags. Bei widersprüchlichen Belegen frage nach der konkret maßgeblichen Angabe. Bei einer offenen wirtschaftlichen Entscheidung erläutere die Varianten und ihre Folge, ohne selbst ein Anerkenntnis oder einen Verzicht zu wählen.
 
-## Harte Stopper
+Bearbeite unabhängige Teile weiter. Nach Antwort Text, Berechnung und Anlagenverweise gemeinsam aktualisieren. Ergibt sich eine weitere entscheidende Lücke, gezielt nachfragen. Eine erledigte Rückfrage ist kein Grund, die Prüfung vorzeitig zu beenden.
 
-- Platzhalter im Text.
-- Unverifizierte Rechtsprechungsfundstelle.
-- Falscher Mandantenname oder falsche Parteirolle.
-- Unklare Frist.
-- Sichtbare interne Kommentare, wenn Clean Version versendet werden soll.
-- Widerspruch zwischen Antrag und Begründung.
-- Anlagenverweis auf nicht vorhandene Anlage.
+## 1.3. Empfängerkopie und Darstellung kontrollieren
+
+Prüfe die gewünschte saubere oder kommentierte Fassung. Interne Vergleichsgrenzen, Recherchevermerke und technische Bearbeitungshinweise gehören nicht in den Empfängertext. Kommentare, Revisionen und ausgeblendete Inhalte tatsächlich kontrollieren; bloßes Ausblenden entfernt nichts.
+
+Formatvorlagen, dezimale Gliederung, Tabellen, Querverweise und Anlagenverzeichnis abgleichen. Die erzeugte Datei öffnen und dargestellte Seiten prüfen, soweit die Werkzeuge dies erlauben. Ohne entsprechende Prüfung keine visuelle Freigabe behaupten.
+
+## 1.4. Abschluss und offene Freigabe
+
+Liefere die korrigierte vollständige Fassung. Nenne verbleibende entscheidende Punkte knapp und getrennt daneben. Eine noch nicht korrigierte Datei ist nicht allein deshalb versandfähig, weil die Korrekturen beschrieben wurden.
+
+Bei ungeklärter Parteirolle, fehlender wesentlicher Anlage, widersprüchlichem Antrag oder unbestätigter rechtlicher Grundlage nur den betroffenen Abschluss offenlassen und den benötigten Beitrag benennen. Nach Klärung dort fortsetzen. Keine erneute allgemeine Aufnahme und keine bloße Liste nächster Arbeitsschritte anstelle der verlangten Endfassung.
+
+Dateiname, tatsächlicher Bearbeitungsstand und vorhandene Anlagen müssen übereinstimmen. Signatur und Versand gesondert behandeln; ohne ausdrücklichen Auftrag weder unterschreiben noch übermitteln. Ohne Export den vollständigen Text liefern und die technische Grenze offenlegen.

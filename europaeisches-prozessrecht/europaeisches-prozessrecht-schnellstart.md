@@ -1,26 +1,21 @@
 # 1. Europäisches Prozessrecht — Schnellstart
 
-Wenn du das hier öffnest, willst du ein unionsprozessuales Verfahren sofort nach Gericht, Klageart, Frist, Sprache, Anlagen und Antragssatz ordnen.
+Erstelle den beauftragten unionsprozessualen Schriftsatz, die Vorlageanregung oder das Gutachten anhand der vorhandenen Verfahrensakte. Gericht, Verfahrensart, Frist und Parteirolle bestimmen die Bearbeitung, nicht ein vorgegebenes Standardprodukt.
 
 Kernauftrag: Europäisches Prozessrecht vor EuGH und EuG: Klagearten, Vorlage, e-Curia, Fristen, Rechtsschutz, Rechtsmittel, Intervention, Beweis, Kosten und Strategie. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1.1. Sofortstart nach Eingangslage
+## 1.1. Akte lesen und gezielt klären
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Verfahrensroute, Zuständigkeit und Rolle, Zulässigkeit wählen; ohne konkreten Auftrag mit Verfahrensroute beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Lies angegriffenen Akt, Schriftsätze, Zustellnachweise und Anlagen zuerst. Entnimm Gericht, Parteirolle und Ziel dem Auftrag; eine Partei benötigt keinen richterlichen Entscheidungsentwurf, eine Gutachtenanfrage keine ungefragte Klage.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Verfahrensroute, Zuständigkeit und Rolle, Zulässigkeit und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
-
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Fehlt der Zustellnachweis, fordere ihn an und rechne die betroffene Frist vorläufig in belegbaren Varianten. Fehlt bei einer Vorlageanregung der Zusammenhang mit der nationalen Entscheidung, frage nach dem konkreten Streitpunkt. Nach der Antwort aktualisiere Frist oder Entscheidungserheblichkeit und schreibe den bestellten Text fertig. Neue entscheidende Unklarheiten erlauben weitere kurze Fragen; bekannte Verfahrensdaten bleiben übernommen. Bei ausstehender Antwort liefere die unabhängigen Teile vorläufig und arbeite nach der Klärung weiter.
 
 ## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Verfahrensart ist einschlägig und welches Gericht ist zuständig.
-2. Kernprüfung in einem Durchgang: Welche Frist läuft und wodurch wurde sie ausgelöst; Welche Zulässigkeitsvoraussetzung ist am stärksten gefährdet.
+2. Prüfe Fristauslöser und gefährdete Zulässigkeitsvoraussetzungen; neue Zustell- oder Betroffenheitsbelege in die Prüfung einarbeiten.
 3. Belege und Engpass zusammenführen: Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie; besonders kritisch ist: Fristbeginn, Verfahrenssprache oder Zuständigkeit sind unklar; dann zuerst Fristen- und Zuständigkeitsblatt.
-4. Erstes Arbeitsprodukt liefern: Fristenblatt: Verfahrensart, Gericht, auslösender Akt, Zustellung, Fristende, e-Curia-Reserve und verantwortlicher Einreicher werden als Tabelle ausgegeben.
+4. Liefere das bestellte Dokument mit der benötigten Frist- und Anlageninformation. Eine Fristentabelle unterstützt die Bearbeitung, ersetzt aber keinen Schriftsatz.
 
 ## 1.3. Kernroute
 
@@ -39,7 +34,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 | Tatbestand | Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder EUIPO-Folgeweg festlegen |
 | Beweislast | Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie |
 | Rechtsfolge | Klageart, Antragssatz, e-Curia-Einreichung, Zwischenantrag, Rechtsmittel oder Kostenlinie |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+| Quellenstatus | In einer gesonderten Arbeitsnotiz, nicht im Mandantenbrief; unsichere Aktenzeichen nicht ergänzen |
 
 ## 1.5. Ergebniswahl
 
@@ -62,8 +57,8 @@ Direktklage: Zulässigkeitsvermerk und bestimmte Anträge. Vorlage: nationale An
 1.7.4. Beweis: Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Frist läuft und wodurch wurde sie ausgelöst.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Fristenblatt“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.7. Ausgabe: Das bestellte Dokument vollständig formulieren; Tabellen nur für benötigte Frist-, Anlagen- oder Belegvergleiche. Ist das Ziel offen, danach fragen statt eigenständig ein Verfahren auszuwählen.
 
-## 1.8. Stop
+## 1.8. Grenzen und Ausgabe
 
-Bei unklarer Zustellung Fristvarianten statt eines geratenen Enddatums liefern; jeweilige Verfahrensordnung einschließlich Fristverlängerungen prüfen. Keine pauschale Beweislast der Organe für jede Rechtmäßigkeitsfrage: Klagegrund und Verfahren bestimmen die Last. Werkstatt optional. Keine Einreichung oder Prozesshandlung auslösen. Ausformulierte Anträge, geprüfte Quellen, dezimale Gliederung und Markdown-Exporthinweis Times New Roman 11 pt.
+Bei unklarer Zustellung Fristvarianten statt eines geratenen Enddatums liefern; jeweilige Verfahrensordnung einschließlich Fristverlängerungen prüfen. Keine pauschale Beweislast der Organe für jede Rechtmäßigkeitsfrage: Klagegrund und Verfahren bestimmen die Last. Werkstatt optional. Einreichung und Prozesshandlung erfordern ausdrückliche Freigabe. Ausformulierte Anträge, geprüfte Quellen, dezimale Gliederung und Markdown-Exporthinweis Times New Roman 11 pt. Ohne Export Text liefern; ungelesene Unterlagen und nicht geprüfte Quellen getrennt benennen.

@@ -18,14 +18,22 @@ Ein Antrag auf Aussetzung ist nicht stets eine bereits eingetretene Aussetzung. 
 
 ## 1.3. Beleg- und Entscheidungslogik
 
-Führe „Akt / Urheber / Bekanntgabe / Beschwer / Fristschritt / Nachweis / zuständige Stelle / beantragte Abhilfe“. Gib an, welche Rechte, Tatsachen oder Verfahrensschritte konkret betroffen sind. Ein pauschales Missfallen am Dekret reicht nicht als ausgearbeitete Begründung.
+Ordne Akt, Urheber, Bekanntgabe, Beschwer und beantragte Abhilfe anhand der Urkunden zu. Prüfe für jeden erforderlichen Fristschritt den Nachweis und die zuständige Stelle; eine Übersicht nur ausgeben, wenn sie dem Auftrag dient. Gib an, welche Rechte, Tatsachen oder Verfahrensschritte konkret betroffen sind. Ein pauschales Missfallen am Dekret reicht nicht als ausgearbeitete Begründung.
 
 Bei Ehefragen Konsens, Form, Hindernis und staatlichen Familienstand trennen. Bei Straf- oder Schutzfällen Beweissicherung, zuständige kirchliche Stelle und mögliche staatliche Schutzpflichten gesondert prüfen. Keine Person zu einer Aussage drängen und keine kirchliche Klärung als Ersatz für akute Gefahrenabwehr darstellen.
 
 ## 1.4. Ergebnis und Arbeitsgrenzen
 
-Liefere einen ausformulierten Antrag, Rekursentwurf, kirchlichen Aktenvermerk oder verständlichen Ergebnisbrief mit konkretem Adressaten und nächstem Schritt. Keine Dispens, Eheentscheidung, Sanktion oder Rekursentscheidung selbst aussprechen. Bei unklarer Frist einmal gebündelt Bekanntgabe, Kenntnis und Hinderungsgrund erfragen; den gesicherten Textteil weiterbearbeiten.
+Liefere den beauftragten Antrag, Rekursentwurf, kirchlichen Aktenvermerk oder verständlichen Ergebnisbrief vollständig ausformuliert. Keine Dispens, Eheentscheidung, Sanktion oder Rekursentscheidung selbst aussprechen. Ein Beratungs- oder Lehranliegen nicht ungefragt in ein Verfahren überführen.
+
+### 1.4.1. Fehlende Bekanntgabe oder Urkunde klären
+
+Bei unklarer Frist frage gezielt nach Bekanntgabe, Kenntnis und einem möglichen Hinderungsgrund. Gleiche die Antwort mit Dekret und Zustellnachweis ab; aktualisiere danach Fristberechnung, zuständige Stelle und Antragsfassung. Bei Ehe- oder Registerfragen fordere gerade die fehlende Urkunde an, ohne aus ihrem Fehlen bereits den kirchlichen Status abzuleiten.
+
+### 1.4.2. Bis zum bestellten Text fortsetzen
+
+Zeigt die Antwort eine weitere entscheidende Lücke, frage hierzu kurz nach und wiederhole keine geklärten Angaben. Unabhängig bearbeitbare Teile vorläufig liefern; nach Klärung das bestellte Dokument fertigschreiben. Externe Kontakte und Einreichungen nur nach Freigabe. Ein vorgegebener Dateiname geht vor; ergebnis.md ist nur der Standard ohne Dateiwunsch.
 
 CIC, Änderungsrecht und Partikularrecht am amtlichen Text prüfen; deutsche Übersetzung und maßgeblichen lateinischen Text bei Auslegungsfragen abgleichen. Historische oder aufgehobene Regeln nicht als geltendes Recht ausgeben. Rechtsprechung nur tatsächlich verifiziert mit Gericht, Datum, Aktenzeichen und Fundstelle nutzen.
 
-Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Vertrauliche kirchliche und persönliche Daten schützen. Weitere Werkstatt- oder Skilltexte sind optional, nicht Voraussetzung; Folgeaufträge auf dem geprüften Stand fortsetzen.
+Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Vertrauliche kirchliche und persönliche Daten schützen. Quellenstatus und Abrufprobleme gesondert notieren, nicht in den Empfängerbrief übernehmen. Weitere Werkstatt- oder Skilltexte sind optional, nicht Voraussetzung; Folgeaufträge auf dem geprüften Stand fortsetzen.

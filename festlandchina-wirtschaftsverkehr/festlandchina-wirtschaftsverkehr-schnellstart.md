@@ -7,20 +7,18 @@ Gegenstand sind Wirtschaftsbeziehungen mit Festlandchina: Fabriken, Import, Expo
 ## 1.1. Sofortstart nach Eingangslage
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Auslands-Zergliederung, Forum, Anwendbares Recht wählen; ohne konkreten Auftrag mit Auslands-Zergliederung beginnen.
+- Konkreter Auftrag: Am bestellten Vertragsentwurf, Schreiben oder Gutachten arbeiten, keine allgemeine Länderübersicht voranstellen. Fehlende Tatsachen nicht durch Annahmen ersetzen.
+- Nur Prompt gestartet: Parteien, Geschäft und Bearbeitungsziel aus den Unterlagen bestimmen; fehlt das Ziel, danach fragen.
 - Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Auslands-Zergliederung, Forum, Anwendbares Recht und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
-
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Fehlende entscheidende Angaben gezielt erfragen, auch bei vorhandenen Unterlagen. Bereits beantwortete Fragen nicht wiederholen; bei neuen wesentlichen Widersprüchen kurz nachfassen.
 
 ## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Klausel regelt Forum und Recht, und ist sie wirksam vereinbart.
 2. Kernprüfung in einem Durchgang: Welches Gericht oder Schiedsgericht ist zuständig, und wo droht ein Parallelverfahren; Welches Sachrecht ist berufen, und gilt CISG oder nationales Recht.
 3. Belege und Engpass zusammenführen: Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden; besonders kritisch ist: Ein Sanktions- oder Exportkontrolltreffer steht im Raum; dann zuerst Compliance-Prüfung, kein Vollzugsschritt.
-4. Erstes Arbeitsprodukt liefern: Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
+4. Das bestellte Dokument ausarbeiten; Anerkennung, Vollstreckung und Zustellung nur bei entsprechendem Verfahrensziel behandeln. Sanktions- und Exportkontrollprüfung bleibt Voraussetzung eines betroffenen Vollzugsschritts.
 
 ## 1.3. Kernroute
 
@@ -52,16 +50,14 @@ Vor Bestellung: Vertragspartner, Zahlungsempfänger und Qualitätsnachweise. Ver
 - Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
 
-## 1.7. Antwortform
+## 1.7. Nachforderung und fertiges Dokument
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie.
-1.7.2. Norm: Brüssel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4 mit dem entscheidenden Merkmal verbinden.
-1.7.3. Aktenfund: Für „Auslands-Zergliederung“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welches Gericht oder Schiedsgericht ist zuständig, und wo droht ein Parallelverfahren.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich ein erster Überblick über die Auslandsbezüge. Benenne Frist, ungeklärten Auslandsbezug und nächstes benötigtes Dokument.
+Weichen Vertragspartner und Zahlungsempfänger voneinander ab, deren Identität und Rechtsbeziehung gezielt belegen lassen. Nach Eingang Parteibezeichnung, Zahlungsregelung und Risikobewertung aktualisieren und den bestellten Vertrag oder Beratungsbrief fertigstellen; eine fehlende Vollmacht nicht als erwiesene Vertretungslosigkeit behandeln.
 
-## 1.8. Stop
+Bei widersprüchlichen Sprachfassungen die vereinbarte maßgebliche Fassung und die konkret abweichende Klausel klären. Neue Angaben in Rechtswahl, Forum und Vertragsargumentation einarbeiten. Fehlt eine tragende Aussage zum chinesischen Recht, die genaue lokale Rechtsfrage zur Klärung benennen und den übrigen Text vorläufig ausarbeiten; nach verifizierter Antwort die betroffene Bewertung abschließen. Keine ungefragte Klage aus einem Vertragsprüfauftrag machen. Quellenprüfvermerke und technische Grenzen getrennt vom Empfängertext halten.
+
+## 1.8. Grenzen und Arbeitsmittel
 
 Bei Sanktionstreffer oder ungeklärtem Zahlungsempfänger keinen Vollzug empfehlen, aber Identitäts- und Vertragsmatrix liefern. Chinesisches Recht nur mit aktueller amtlicher lokaler Quelle als verifiziert ausgeben; sonst konkrete Fragen für örtliche Beratung. Werkstatt optional. Keine Zahlung, Bestellung oder Zustellung auslösen. Vollständige Sätze, Quellenstatus, dezimale Gliederung und Markdown-Exporthinweis Times New Roman 11 pt.
+
+Nur verfügbare Werkzeuge nutzen, fehlenden Zugriff konkret benennen. Bei technischen Fehlern einen sinnvollen Alternativweg versuchen, sonst den bearbeitbaren Stand sichern; ohne Export Text liefern, keinen Dateilink erfinden. Weitere Skills sind optional; ungeprüfte Teile nicht als freigegeben ausweisen.

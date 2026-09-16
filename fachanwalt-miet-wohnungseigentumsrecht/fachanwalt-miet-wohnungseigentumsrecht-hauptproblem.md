@@ -4,13 +4,13 @@ Prüfen Sie für meine vertretene Seite eine Modernisierungsmieterhöhung nach B
 
 ## 1.1. Sachverhalt zuerst
 
-Lesen Sie Vertrag, Ankündigung, Erhöhungserklärung mit Zugang, Schlussrechnungen, Abschläge, Gutschriften, Förderbescheide, Flächenverteilung und frühere Erhöhungen. Ordnen Sie Zustand und Alter der ersetzten Bauteile anhand von Fotos, Berichten und Angaben zu. Erfassen Sie Wohnfläche, Nettokaltmiete, Maßnahmendatum und vertretene Seite. Fehlt Entscheidendes, fragen Sie einmal gebündelt nach und liefern Sie die prüfbaren Teile bereits aus.
+Lesen Sie Vertrag, Ankündigung, Erhöhungserklärung mit Zugang, Schlussrechnungen, Abschläge, Gutschriften, Förderbescheide, Flächenverteilung und frühere Erhöhungen. Ordnen Sie Zustand und Alter der ersetzten Bauteile anhand von Fotos, Berichten und Angaben zu. Erfassen Sie Wohnfläche, Nettokaltmiete, Maßnahmendatum und vertretene Seite, ohne bekannte Angaben erneut zu erfragen. Fehlen etwa Zustandsnachweise oder die Zuordnung einer Förderung, fragen Sie gezielt danach und liefern Sie die bereits prüfbaren Teile vorläufig. Eine vorhandene Schlussrechnung belegt nicht automatisch Modernisierung und vollständige Umlagefähigkeit.
 
 ## 1.2. Prüf- und Rechenauftrag
 
 Bestimmen Sie zunächst die zeitlich geltende Fassung und das erklärte Verfahren: reguläre Umlage nach Paragraf 559 BGB, vereinfachtes Verfahren nach Paragraf 559c oder Mieterhöhung bei Einbau einer Heizungsanlage nach Paragraf 559e. Keine Mischung unterschiedlicher Pauschalen und Umlagesätze.
 
-Erstellen Sie ein Positionsbuch: Rechnung, Gewerk, technische Verbesserung, Betrag, Gutschrift, Erhaltungsanteil mit Schätzgrundlage, Zuschuss, Verteilerschlüssel, Wohnungsanteil und Beleg. Verhindern Sie die Doppelzählung von Abschlägen und Schlussrechnung. Ordnen Sie gemeinsame Gerüst- und Planungskosten sachlich zu. Neue Bauteile sind nicht allein deshalb Modernisierung; noch funktionsfähige alte Bauteile schließen Erhaltungsabzug nicht aus. Alter und Lebensdauer dürfen nicht ohne Begründung zu einer verbindlichen Quote verrechnet werden.
+Gleichen Sie die Rechnungspositionen ab: Rechnung, Gewerk, technische Verbesserung, Betrag, Gutschrift, Erhaltungsanteil mit Schätzgrundlage, Zuschuss, Verteilerschlüssel, Wohnungsanteil und Beleg. Verhindern Sie die Doppelzählung von Abschlägen und Schlussrechnung. Ordnen Sie gemeinsame Gerüst- und Planungskosten sachlich zu. Neue Bauteile sind nicht allein deshalb Modernisierung; noch funktionsfähige alte Bauteile schließen Erhaltungsabzug nicht aus. Alter und Lebensdauer dürfen nicht ohne Begründung zu einer verbindlichen Quote verrechnet werden.
 
 Prüfen Sie die Beweislast des Vermieters für Voraussetzungen und umlagefähige Kosten. Rechnen Sie im regulären Verfahren mit acht Prozent jährlich, geteilt durch zwölf; berücksichtigen Sie Zinsermäßigungen gesondert am jährlichen Erhöhungsbetrag. Vergleichen Sie ungekappte Erhöhung, bereits verbrauchten Sechsjahresrahmen und zulässigen Monatsbetrag. Heizungsanteile benötigen eine zusätzliche eigene Prüfung. Stellen Sie bei unsicherem Abzug belegte Varianten mit Monats- und Jahresdifferenz gegenüber.
 
@@ -24,4 +24,12 @@ Anker: BGH, Versäumnisurteil vom 17.06.2020, Az. VIII ZR 81/19, [amtlicher Voll
 
 ## 1.4. Ergebnis und Grenzen
 
-Liefern Sie `ergebnis.md`: kurzer Sachverhalt, begründetes Votum, Positionsbuch, Wohnungsrechnung, ausformulierter Einwendungs- oder Erläuterungsentwurf und konkrete Beleganforderungen. Nach einem Summen-, Quellen- und Fristencheck abschließen, keine Rückfrageschleife. Keine Erklärung versenden oder Zahlungen ändern. Vollständige Sätze, dezimale Überschriften, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt. Dieser Auftrag ist ohne installierte Zusatzmodule ausführbar.
+Liefern Sie die nachrechenbare Wohnungsrechnung und den bestellten Einwendungs- oder Erläuterungsentwurf unter dem gewünschten Dateinamen, ohne Vorgabe unter `ergebnis.md`. Begründen Sie die entscheidenden Abweichungen; Kostenaufstellungen ergänzen den Text, statt ihn zu ersetzen. Fehlen entscheidende Belege, benennen Sie diese konkret, ohne den noch unbekannten Zustand eines Bauteils oder die Förderzuordnung als Tatsache darzustellen.
+
+Prüfen Sie nachgereichte Fotos, Zustandsberichte oder Förderbescheide gegen die bisherigen Angaben. Aktualisieren Sie die betroffenen Rechnungspositionen, den Wohnungsanteil und den Monatsbetrag; formulieren Sie anschließend das Schreiben fertig. Zeigt sich eine neue entscheidende Unklarheit, etwa ein weiterer Verwendungszweck der Förderung, fragen Sie hierzu gezielt nach. Prüfen Sie die geänderten Summen und Fristen vor Abschluss. Keine Erklärung versenden oder Zahlungen ändern.
+
+Vollständige Sätze, dezimale Überschriften, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
+
+## 1.5. Technische Grenzen
+
+Dieser Auftrag ist ohne installierte Zusatzmodule ausführbar; ohne Exportwerkzeug liefern Sie den vollständigen Text. Fehlenden Datei- oder Quellenzugriff benennen Sie in einer gesonderten Arbeitsnotiz, nicht im Schreiben an die Gegenseite. Stellen Sie eine Teilprüfung nicht als vollständige Akten- oder Quellenprüfung dar.

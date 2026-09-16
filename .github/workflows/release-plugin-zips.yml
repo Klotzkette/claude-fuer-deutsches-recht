@@ -117,6 +117,7 @@ jobs:
           python3 scripts/generate-werkstatt-und-schnellstart-prompts.py
           python3 scripts/test-prompt-generator-excerpts.py
           python3 scripts/test-prompt-routing-scope.py
+          python3 scripts/test-prompt-workflow-preservation.py
           python3 scripts/refine-speed-and-elegance.py
           python3 scripts/test-portable-starts.py
           python3 scripts/inject-streitstoff-beitrag-gerichtsplugins.py

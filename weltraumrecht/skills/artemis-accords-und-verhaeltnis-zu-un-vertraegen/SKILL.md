@@ -20,18 +20,18 @@ Bearbeite **Artemis Accords und Verhältnis zu UN-Verträgen** im Bereich Weltra
 ## Thematischer Kontext
 
 - Artemis Accords (2020) – US-geführtes bilaterales Kooperationsrahmenwerk
-- Rechtsnatur: Executive Agreements, nicht ratifizierter Vertrag
-- § 8: Ressourcenextraktion als OST-kompatibel deklariert
-- § 9: Safety Zones – Sicherheitsbereiche um Mondmissionen
+- Rechtsnatur nach Abschnitt 1: politische Verpflichtungserklärung; rechtliche Bindungen aus gesonderten Umsetzungsinstrumenten getrennt prüfen.
+- Abschnitt 9: historisches Weltraumerbe; Abschnitt 10: Ressourcen und die dort erklärte Auslegung des Nichtaneignungsprinzips.
+- Abschnitt 11: Vermeidung schädlicher Beeinträchtigungen durch Information und Koordinierung einschließlich Sicherheitszonen.
 - Verhältnis zu OST Art. II, Art. IX und Moon Agreement
 - 37+ Unterzeichner 2024; China, Russland nicht dabei
 
 ## Einschlägige Normen und Regelwerke
 
-- **Artemis Accords § 3**: Interoperabilität: NASA-Standards als faktische Norm
-- **Artemis Accords § 8**: Ressourcenextraktion mit OST Art. II kompatibel
-- **Artemis Accords § 9**: Safety Zones: unilaterale Sicherheitszonen
-- **Artemis Accords § 13**: Exportkontrolle: ITAR, EAR, nationale Äquivalente einhalten
+- Artemis Accords Abschnitt 5: Bemühungen um gemeinsame und interoperable Standards; keine pauschale Vorgabe ausschließlich amerikanischer Standards.
+- Artemis Accords Abschnitt 10: Nach Auffassung der Unterzeichner ist Ressourcenentnahme nicht schon als solche nationale Aneignung nach Artikel II OST; die konkrete Tätigkeit bleibt am Vertrag zu prüfen.
+- Artemis Accords Abschnitt 11: Sicherheitszonen zur Information und Koordinierung; Umfang, Dauer und freier Zugang sind zu berücksichtigen, keine Gebietshoheit.
+- Artemis Accords Abschnitt 13: Schlussbestimmungen, keine eigenständige Exportkontrollregel. Technologietransfer nach dem tatsächlich anwendbaren Exportrecht und den Umsetzungsinstrumenten prüfen; Abschnitte 2 und 8 betreffen entsprechende Schnittstellen.
 - **OST Art. II**: Nichtaneignungsprinzip – Grenzlinie zu Safety Zones
 - **OST Art. IX**: Konsultationspflicht – Grundlage für Deconfliction-Verpflichtung
 
@@ -47,10 +47,10 @@ Bearbeite **Artemis Accords und Verhältnis zu UN-Verträgen** im Bereich Weltra
 ## Prüfprogramm
 
 1. **Unterzeichner-Status**: Hat betreffender Staat die Artemis Accords unterzeichnet?
-2. **Aktivität prüfen**: Ressourcenextraktion → § 8; Safety Zone → § 9; Interoperabilität → § 3
+2. Aktivität zuordnen: Interoperabilität Abschnitt 5, historisches Erbe Abschnitt 9, Ressourcen Abschnitt 10, Sicherheitszonen Abschnitt 11.
 3. **Widerspruch zu OST**: Kollidiert geplante Aktivität mit OST Art. II oder Art. IX?
 4. **China/Russland-Risiko**: Koordination mit Nicht-Unterzeichnern notwendig?
-5. **Export Controls**: § 13: ITAR/EAR/nationale Exportkontrolle bei Technologietransfer
+5. Exportkontrolle bei Technologietransfer gesondert nach ITAR, EAR oder einschlägigem nationalem beziehungsweise europäischem Recht prüfen; Abschnitt 13 ist hierfür keine Ermächtigungsgrundlage.
 6. **Safety Zone Deconfliction**: Konkrete Konsultationspflicht nach Art. IX OST einhalten
 
 ## Normencheck: Schicht für Schicht
@@ -84,7 +84,7 @@ Bearbeite **Artemis Accords und Verhältnis zu UN-Verträgen** im Bereich Weltra
 - **Safety Zones als Aneignung**: Exzessive Sicherheitszonen könnten Art. II OST verletzen
 - **Nur für Unterzeichner**: Artemis Accords schaffen keine universellen Rechtspflichten
 - **Exklusion China/Russland**: Parallelsystem ILRS; Fragmentierung des Weltraumrechts
-- **Technologiemonopol**: Interoperabilitätspflicht (§ 3) faktisch NASA-Standard-Dominanz
+- Interoperabilität: Abschnitt 5 und die konkret vereinbarten Standards prüfen; daraus keine automatische Bindung an alle Standards eines einzelnen Partners ableiten.
 
 ## Qualitätssicherung
 
@@ -103,6 +103,8 @@ Bearbeite **Artemis Accords und Verhältnis zu UN-Verträgen** im Bereich Weltra
 - Risikobewertung für Nicht-Unterzeichner-Kooperationen
 
 ## Quellen und Normen
+
+Am 16.09.2026 anhand der [amtlichen unterzeichneten Fassung](https://www3.nasa.gov/specials/artemis-accords/img/Artemis-Accords-signed-13Oct2020.pdf) geprüft: Abschnitte 1, 2, 5 und 8 bis 13, insbesondere Rechtsnatur und Zuordnung der Sachthemen.
 
 - Artemis Accords Text: https://www.nasa.gov/artemis-accords/
 - OST 1967: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html

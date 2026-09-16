@@ -17,16 +17,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
 ## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+1. Rolle, Ziel, Frist und Unterlagenlage aus Akte und Gespräch übernehmen; nur entscheidende Lücken nachfragen.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+3. Bei fehlendem Vorurteil oder Vollstreckungsstand den konkreten Nachweis anfordern. Nach Antwort Zäsur, Einbeziehung und Strafzumessungsbegründung aktualisieren; neue entscheidende Lücken gezielt nachfragen, ohne eine erneute Aufnahme.
+4. Den bestellten Strafzumessungsvermerk, das Plädoyer oder die Urteilsgründe vollständig ausarbeiten. Fachskills sind optional; ihre Empfehlung ersetzt keine Endfassung.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+## Ausgabe
+
+Strafrahmen, belegte Zumessungsumstände und konkrete Rechtsfolge begründet verbinden. Tabellen nur zur notwendigen Gegenüberstellung von Taten, Vorstrafen oder Berechnungen verwenden. Bei einem Hindernis unabhängig tragfähige Teile vorläufig liefern und nach Klärung bis zum bestellten Text fortsetzen; keine Strafentscheidung oder Verständigung selbst auslösen.
+
+Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Ein Nutzerdateiname geht vor; ergebnis.md nur ohne Dateiwunsch. Interne Quellen- und Prüfnotizen vom Empfängertext trennen.
 
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.

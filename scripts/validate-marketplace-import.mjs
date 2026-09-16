@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { createHash } from 'node:crypto';
 
 const root = process.cwd();
 const errors = [];
@@ -161,12 +162,31 @@ for (const entry of marketplace.plugins || []) {
     errors.push(`${rel(schnellstart)}: Schnellstart ist größer als 7500 Bytes`);
   }
   if (fs.existsSync(werkstatt)) {
-    const size = fs.statSync(werkstatt).size;
     const reviewPath = path.join(root, 'quality', 'evals', `${entry.name}.json`);
-    const review = fs.existsSync(reviewPath) ? readJson(reviewPath) : null;
-    const individuallyReviewed = review?.workshop_review && typeof review.workshop_review === 'object';
-    if (!individuallyReviewed && (size < 20 * 1024 || size > 48 * 1024)) {
-      errors.push(`${rel(werkstatt)}: Werkstatt-Größe außerhalb Zielkorridor (${size} Bytes)`);
+    const profile = fs.existsSync(reviewPath) ? readJson(reviewPath) : null;
+    const review = profile?.workshop_review;
+    if (review != null) {
+      const hash = createHash('sha256').update(fs.readFileSync(werkstatt)).digest('hex');
+      if (typeof review !== 'object' || Array.isArray(review)
+          || !['revised', 'retained'].includes(review.verdict)
+          || typeof review.reason !== 'string' || !review.reason.trim()
+          || !Array.isArray(review.changes ?? [])
+          || (review.changes ?? []).some(item => typeof item !== 'string' || !item.trim())
+          || new Set(review.changes ?? []).size !== (review.changes ?? []).length
+          || review.sha256 !== hash) {
+        errors.push(`${rel(werkstatt)}: Werkstatt-Prüfung ungültig oder seit Prüfung verändert`);
+      }
+    }
+    const size = fs.statSync(werkstatt).size;
+    if (size > 48 * 1024) errors.push(`${rel(werkstatt)}: Werkstatt ist größer als 48 KiB (${size} Bytes)`);
+    // Umfang ist kein Nachweis fachlicher Substanz; keine Mindestlänge erzwingen.
+    const text = readText(werkstatt);
+    if (!text.startsWith('# ') || (text.match(/^# /gm) || []).length !== 1) {
+      errors.push(`${rel(werkstatt)}: eindeutige H1 am Dateianfang fehlt`);
+    }
+    const sections = text.split(/^## [^\r\n]+\r?$/m).slice(1);
+    if (!sections.length || sections.some((section) => !section.replace(/<!--[^]*?-->/g, '').replace(/^#{1,6} .*$/gm, '').trim())) {
+      errors.push(`${rel(werkstatt)}: gegliederter Abschnitt mit Inhalt fehlt`);
     }
   }
   const readme = path.join(pluginRoot, 'README.md');

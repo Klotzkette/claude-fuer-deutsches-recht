@@ -1,6 +1,6 @@
 # 1. Fördermittelrückforderung aus Bescheid und Belegen prüfen
 
-Bearbeiten Sie meine drohende oder festgesetzte Fördermittelrückforderung. Beginnen Sie mit dem Sachverhalt und den Bescheiden, nicht mit einem Lehrbuchüberblick. Erstellen Sie ein Prüfmemorandum mit Gegenrechnung und ausformulierter Stellungnahme. Weitere installierte Inhalte sind nicht erforderlich. Stellen Sie einmal gebündelte Rückfragen zu entscheidenden Lücken; liefern Sie den belastbaren Teil trotzdem.
+Prüfen Sie meine drohende oder festgesetzte Fördermittelrückforderung anhand der Bescheide und Verwendungsnachweise. Erstellen Sie die beauftragte Gegenrechnung und ausformulierte Stellungnahme. Nutzen Sie bereits vorhandene Angaben und fragen Sie nur nach entscheidenden Lücken; liefern Sie die unabhängig begründbaren Teile vorläufig.
 
 ## 2. Unterlagen und Einordnung
 
@@ -26,4 +26,12 @@ Prüfstand 14.09.2026: [Paragraf 49 VwVfG](https://www.gesetze-im-internet.de/vw
 
 Prüfen Sie innerhalb der Erstattung gesondert einen geltend gemachten Wegfall der Bereicherung und die Einschränkungen nach Paragraf 49a Absatz 2 VwVfG. Allein der Verbrauch der Fördermittel ist kein tragfähiger pauschaler Einwand. Bei mehreren Bescheiden ordnen Sie jeden Teilbetrag genau seiner Bewilligung und Aufhebung zu. Eine Kostenposition darf nicht zugleich als vollständig nicht förderfähig und nochmals anteilig wegen desselben Mangels gekürzt werden. Nennen Sie für jede strittige Position den Beleg, dessen Nachreichung den Betrag oder die rechtliche Würdigung tatsächlich verändern kann.
 
-Liefern Sie `ergebnis.md` mit Sachverhalt, Bescheidkette, Belegmatrix, Gegenrechnung, Aufhebungs- und Zinsprüfung, Kenntniszeitachse und ausformulierter Stellungnahme. Nennen Sie stärksten Einwand, offene Unterlagen und kurzfristig erforderliche menschliche Entscheidung. Keine Rückzahlung, Anerkennung oder Einreichung eigenmächtig ausführen. Vollständige Sätze statt Skelette; Freigabeentwurf. Export: Times New Roman, 11 pt, dezimale Gliederung.
+Liefern Sie die bestellte Stellungnahme mit Gegenrechnung und begründeten Einwänden gegen Aufhebung, Erstattung und Zinsen unter dem gewünschten Dateinamen; ohne Vorgabe `ergebnis.md` verwenden. Erläutern Sie Bescheidfolge und behördlichen Kenntnisstand, soweit sie den Einwand tragen; Belegtabellen und Zeitübersichten nur im erforderlichen Umfang ergänzen.
+
+Fehlt für eine gekürzte Position der Zahlungsnachweis oder Projektbezug, fordern Sie diesen konkret an. Prüfen Sie nach Eingang, ob der Nachweis den Kürzungsgrund tatsächlich betrifft; aktualisieren Sie Kostenanerkennung, Förderbetrag und die davon abhängigen Erstattungs- oder Zinspositionen. Schreiben Sie anschließend die Stellungnahme fertig. Zeigt sich eine neue entscheidende Unklarheit, etwa die Zuordnung zu einem anderen Bewilligungszeitraum, fragen Sie hierzu gezielt nach. Fehlende Belege dürfen weder in der Rechnung noch im Nachforderungsschreiben als nachgewiesene Zweckverwendung behandelt werden.
+
+Prüfen Sie vor Abschluss geänderte Summen, Fristen und die Einarbeitung der Antworten. Keine Rückzahlung, Anerkennung oder Einreichung eigenmächtig ausführen. Vollständige Sätze statt Skelette; Freigabe nur für die externe Handlung, nicht für interne Weiterbearbeitung. Export: Times New Roman, 11 pt, dezimale Gliederung.
+
+## 6. Technische Grenzen
+
+Weitere installierte Inhalte sind nicht erforderlich; ohne Exportwerkzeug den vollständigen Text liefern. Fehlenden Datei- oder Quellenzugriff in einer getrennten Arbeitsnotiz benennen, nicht im Behördenschreiben. Nur tatsächlich geprüfte Unterlagen als geprüft bezeichnen.

@@ -14,14 +14,14 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Fehlt etwa der vollständige Beschwerdebescheid, fordere Tenor, Bekanntgabe und Rechtsbehelfsbelehrung an. Nach Eingang prüfe Rechtsweg und Frist erneut und vervollständige die bestellte Eingabe. Neue entscheidende Lücken dürfen gezielte Anschlussfragen auslösen, beantwortete Fragen nicht wiederholen. Belegte Tatsachen vorläufig weiterbearbeiten, aber keine Annahme als Befehlsinhalt oder Kenntnisdatum ausgeben.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
 ## Fachkern: Kaltstart Bundeswehrrecht
 - **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+- **Arbeitsprodukt:** Erstelle die bestellte Beschwerde, Stellungnahme oder begründete Bewertung in vollständigen Sätzen. Tabellen nur bei echtem Vergleichs- oder Berechnungsbedarf ergänzen; keine interne Risikoampel als Pflichtausgabe.
 
 ## Fachlicher Kontext
 
@@ -64,29 +64,17 @@ Tauglichkeit → [aerztliche-begutachtung-dienstfaehigkeit].
 
 ### Schritt 3 — Frist-Notfall
 
-WBO: 1 Monat ab Maßnahme — sofort messen.
-VwGO: 1 Monat Widerspruch/Klage — sofort messen.
-KSchG: 3 Wochen bei Kündigung.
-Vollzugsaussetzung § 9 WBO immer parallel beantragen.
+Die erste Wehrbeschwerde richtet sich nach [Paragraf 6 WBO](https://www.gesetze-im-internet.de/wbo/__6.html): frühestens nach Ablauf einer Nacht, innerhalb eines Monats nach Kenntnis vom Beschwerdeanlass. VwGO-Fristen für Widerspruch oder Klage nur bei einschlägigem Verfahrensweg prüfen; bei arbeitsrechtlicher Kündigung die Dreiwochenfrist nach KSchG gesondert beachten. Maßnahme, Kenntnis und Zustellung nicht gleichsetzen.
+
+Vorläufigen Schutz nach [Paragraf 3 WBO](https://www.gesetze-im-internet.de/wbo/__3.html) anhand des drohenden Nachteils prüfen und nur bei entsprechendem Auftrag einen konkreten Antrag ausformulieren. [Paragraf 9 WBO](https://www.gesetze-im-internet.de/wbo/__9.html) betrifft die Zuständigkeit für den Beschwerdebescheid, nicht die Vollzugsaussetzung. Keine Aussetzung als bereits erfolgt darstellen.
 
 ### Schritt 4 — Minimalpfad
 
-1. Frist sichern. 2. Dokumente sortieren. 3. Kernfrage beantworten. 4. Spezialprüfung vertiefen.
+1. Maßnahme und Frist anhand der Belege prüfen. 2. Entscheidende fehlende Nachweise gezielt anfordern. 3. Nach Antworten betroffene Frist, Rechnung oder Argumentation aktualisieren. 4. Das bestellte Dokument fertigstellen; kein ungefragter Prozess bei Beratungsauftrag.
 
 ## Arbeitsergebnisse
 
-Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
-
-- Kurzvermerk mit Risikoampel (grün/gelb/rot)
-- Prüfschema mit Tatbestandselementen und offenen Punkten
-- Fragenliste für Mandanten/Sachverhaltsgespräch
-- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
-- Dokumentenanforderungsliste
-- Nächster Schritt mit konkreter Frist
-
-- Routing-Tabelle: Problem → zuständiger Skill
-- Quick-Checklist: Frist-Notfall-Schritte
-- Minimalpfad-Karte: erste Orientierung
+Liefere das bestellte Gutachten oder den vollständigen Beschwerde-, Antrags- oder Stellungnahmeentwurf. Eine Nachforderung oder Skill-Empfehlung ersetzt diesen nicht. Bei einem Hindernis den belegten Teilstand vorläufig liefern und nach Eingang des konkreten Nachweises dort fortsetzen. Quellenstatus und technische Prüfvermerke gesondert notieren; externe Meldung oder Einreichung nur nach ausdrücklicher Freigabe.
 
 ## Qualitätsgate
 

@@ -7,11 +7,11 @@ description: "Für Echtes und unechtes Factoring Risikoverteilung: ordnet Norm, 
 
 ## Arbeitsbereich
 
-Echtes und unechtes Factoring Risikoverteilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüfe anhand des Factoringvertrags, wer das Risiko des Forderungsbestands und wer das Zahlungsausfallrisiko trägt. Verfasse die bestellte Vertragsbewertung, Rückgriffsprüfung oder Klausel. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Ordne die Quellen der tatsächlich betroffenen Frage zu.
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Rolle, Ziel und Frist zunächst aus Auftrag und Vertragsunterlagen übernehmen. Nur offene entscheidende Angaben nachfragen: insbesondere Rückgriffsklausel, Anlass einer Rückbelastung und zugehörige Forderung.
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
 - Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
@@ -20,7 +20,7 @@ Echtes und unechtes Factoring Risikoverteilung: prüft die einschlägigen Voraus
 ## Fachkern: Echtes und unechtes Factoring Risikoverteilung
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+- Ergebnis: Verfasse die bestellte Bewertung oder Vertragsregelung in vollständigen Sätzen. Eine Gegenüberstellung der übernommenen Risiken nur verwenden, wenn sie den Unterschied der konkreten Klauseln erklärt; keine interne Risikoampel als Pflichtausgabe.
 
 ## Worum geht es konkret
 
@@ -35,7 +35,7 @@ Die wichtigste Grundunterscheidung des Factoringrechts: **echtes Factoring** ver
 - Bilanzielle Frage: Soll Off-Balance erreicht werden (echtes Factoring) oder reicht Liquiditätszufluss (unechtes Factoring)?
 - Insolvenzfall des Kunden: Kann der Factor die Forderungen aussondern (echtes) oder absondern (unechtes)?
 
-Fragen zum Einstieg:
+Nur soweit nicht bereits aus Vertrag und Auftrag geklärt:
 - Wer trägt das Bonitätsrisiko (Factor oder Kunde)?
 - Wie ist die Rückgriffsmöglichkeit ausgestaltet (uneingeschränkt, eingeschränkt auf bestimmte Konstellationen)?
 - Welche bilanzielle Behandlung wird angestrebt?
@@ -63,6 +63,8 @@ Fragen zum Einstieg:
 5. **USt-Behandlung prüfen**: § 4 Nr. 8c UStG bei echtem Factoring; Beratungsleistung bei unechtem.
 6. **Insolvenzfolge planen**: Aussonderung (echt) versus Absonderung (unecht).
 7. **AGB-Kontrolle**: Klausel "Voll-Rückgriff im echten Factoring" wäre Vertragstyp-widrig.
+8. Fehlt der Grund einer Rückbelastung, fordere die betreffende Abrechnung und die Erklärung des Factors an. Gleiche neue Angaben mit der vertraglichen Risikoverteilung ab und aktualisiere Betrag, Begründung und die betroffene Klausel beziehungsweise das Antwortschreiben. Zeigt die Antwort einen weiteren entscheidenden Widerspruch, kläre diesen gezielt, ohne bereits beantwortete Fragen zu wiederholen. Unbekannte Ausfallgründe nicht als Tatsachen darstellen.
+9. Liefere bei einem Hindernis den belegbaren Teil vorläufig und benenne den benötigten Beitrag. Nach dessen Eingang bis zum bestellten Dokument weiterarbeiten; keine ungefragte Klage und keine Erklärung gegenüber Factor oder Debitor ohne Freigabe. Die Vorlage aller angeforderten Dateien ersetzt weder die rechtliche Einordnung noch eine erforderliche bilanzielle oder steuerliche Prüfung. Quellenstatus und offene Recherchepunkte gesondert vom Empfängertext dokumentieren.
 
 ## Trade-off-Matrix
 

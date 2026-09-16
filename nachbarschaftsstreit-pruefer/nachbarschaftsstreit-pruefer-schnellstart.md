@@ -1,8 +1,10 @@
 # 1. Grundstücksstörung konkret erfassen
 
-Lies Nutzersachverhalt, Lageplan, Fotos, Schriftwechsel und gegebenenfalls Grundbuchangaben zuerst. Bestimme Grundstücke, Eigentümer, Besitzer, Grenze und Bundesland. Erfinde keinen Grenzverlauf aus einer unscharfen Aufnahme. Stelle nur die Rückfrage, deren Antwort den nächsten Anspruch oder die geplante Maßnahme verändert; liefere den übrigen Ortsbefund bereits.
+Prüfe die konkrete Grundstücksstörung und erstelle das bestellte Schreiben oder die gewünschte Bewertung. Lies Sachverhalt, Lageplan, Fotos, Schriftwechsel und gegebenenfalls Grundbuchangaben zuerst.
 
 ## 1.1. Ortsbefund und Rechtsweg
+
+Bestimme Grundstücke, Eigentümer, Besitzer, Grenze und Bundesland aus den vorhandenen Angaben. Fehlen ein entscheidender Grenzbezug oder die konkrete Nutzungsauswirkung, frage gezielt nach Lageplan, Messpunkt oder Beschreibung; erfinde keinen Grenzverlauf aus einer unscharfen Aufnahme. Liefere den unabhängig belegbaren Befund bereits.
 
 Dokumentiere Einwirkung, Messpunkt, Maße, Richtung, Zeitpunkt, Dauer, Witterung und betroffene Nutzung. Trenne eigenen Augenschein von Nachbarbehauptungen. Bei Lärm oder Geruch Häufigkeit und konkrete Beeinträchtigung benennen; ein einzelner Spitzenwert oder ein allgemeines Ärgernis ersetzt nicht die Sachverhaltsprüfung. Bei Mauern, Zäunen und Bauten Grenzlage und Funktion klären, bevor Kosten oder Duldung zugeordnet werden.
 
@@ -18,4 +20,8 @@ Beschreibe etwa blockierten Weg, angehobenes Pflaster oder Kontakt mit dem Dach 
 
 Formuliere die Aufforderung mit identifizierbarer Pflanze oder Anlage, genauer Beeinträchtigung, verlangter Abhilfe und sachgerechtem Termin. Keine komplette Baumfällung fordern, wenn nur einzelne überhängende Zweige betroffen sind. Halte bestrittene Punkte und benötigte Vermessung, Fotos oder Zeugen fest. Eine Kostenforderung benötigt eine eigene Prüfung; nicht jede Selbsthilfemaßnahme automatisch dem Nachbarn berechnen.
 
-Optional vertieft `ueberhang-aeste-wurzeln` den Pflanzenfall; dieses Mini enthält die nötigen Kernschritte auch ohne Repositoryzugriff. Weitere Ansprüche und Entscheidungen nur nach amtlicher Prüfung anwenden. Ohne Export das vollständige Schreiben und den getrennten Prüfvorbehalt liefern. Export: Times New Roman, 11 pt, dezimale Gliederung.
+Nach Eingang eines Lageplans oder ergänzender Fotos überprüfe Grenzbezug, Störungsumfang und verlangte Abhilfe und passe das Schreiben an. Zeigt sich ein neuer entscheidender Widerspruch, frage nur dazu weiter; bekannte Ortsangaben nicht nochmals erfragen. Stelle den bestellten Brief fertig, statt bei einer Beweisliste zu enden. Eine fehlende Vermessung ist kein Beleg für die behauptete Grenze.
+
+Weitere Ansprüche und Entscheidungen nur nach amtlicher Prüfung anwenden; Quellenstatus und Prüfvorbehalte getrennt vom Nachbarbrief führen. Kein Betreten, Rückschnitt, Versand oder gerichtliches Vorgehen ohne gesonderte Freigabe; ein Beratungsauftrag verlangt keinen Klageentwurf.
+
+Optional vertieft `ueberhang-aeste-wurzeln` den Pflanzenfall; dieses Mini enthält die nötigen Kernschritte auch ohne Repositoryzugriff. Ohne Export das vollständige Schreiben liefern, ohne Dateierzeugung vorzutäuschen. Verwende den gewünschten Dateinamen; Export in Times New Roman, 11 pt und dezimaler Gliederung.

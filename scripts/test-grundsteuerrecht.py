@@ -20,6 +20,9 @@ CALCULATOR = PLUGIN / "scripts/rechenabgleich.py"
 SPEC = importlib.util.spec_from_file_location("grundsteuer_rechnung", CALCULATOR)
 MODULE = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(MODULE)
+AUDIT_SPEC = importlib.util.spec_from_file_location("grundsteuer_structure", ROOT / "scripts/audit-prompt-profile-routing.py")
+AUDIT = importlib.util.module_from_spec(AUDIT_SPEC)
+AUDIT_SPEC.loader.exec_module(AUDIT)
 SKILLS = {
     "bescheide-und-fristen-ordnen", "grundstueck-und-flaechen-abgleichen",
     "landesmodell-und-stichtag-bestimmen", "grundsteuerwert-nachrechnen",
@@ -83,6 +86,19 @@ class RechenabgleichTests(unittest.TestCase):
         self.assertEqual(Fraction(actual), Fraction(data["grundsteuerwert_eur"]) ** 2 / 1000)
 
 
+def historical_guard_present(text):
+    """Prüft eine ausdrückliche Zeitstandsgrenze, nicht die juristische Anwendung."""
+    for paragraph in re.split(r"\n\s*\n", text.lower()):
+        if not re.search(r"historisch\w*|november 2024", paragraph):
+            continue
+        if (re.search(r"rechtsprechung|entscheidung\w*|urteil\w*", paragraph)
+                and re.search(r"gesetz\w*|norm\w*|paragraf\w*", paragraph)
+                and re.search(r"später\w*", paragraph)
+                and re.search(r"\b(?:nicht|keine?\w*|weder)\b", paragraph)):
+            return True
+    return False
+
+
 class PaketTests(unittest.TestCase):
     def test_exactly_ten_independent_skills(self):
         paths = list((PLUGIN / "skills").glob("*/SKILL.md"))
@@ -112,14 +128,21 @@ class PaketTests(unittest.TestCase):
             text = (PLUGIN / f"grundsteuerrecht-{kind}.md").read_text()
             with self.subTest(kind=kind):
                 self.assertNotIn("skills/", text)
-                for anchor in ("II B 78/23", "II R 3/25", "II R 26/24", "November 2024", "1 BvR 472/26", "1 BvR 551/26", "Paragraf 351 Absatz 2", "Promille", "1,40"):
+                for anchor in ("II B 78/23", "II R 3/25", "II R 26/24", "1 BvR 472/26", "1 BvR 551/26", "Paragraf 351 Absatz 2", "Promille", "1,40"):
                     self.assertIn(anchor, text)
-                headings = [int(n) for n in re.findall(r"^## (\d+)\. ", text, re.M)]
-                self.assertEqual(headings, list(range(1, len(headings) + 1)))
+                self.assertTrue(historical_guard_present(text), "Historische Bearbeitung muss spätere Normen und Entscheidungen zeitlich abgrenzen")
+                self.assertEqual(AUDIT.individual_workshop_structure_problems(text), [])
                 if kind == "schnellstart":
                     self.assertLess(len(text.encode("utf-8")), 7500)
                 else:
                     self.assertLess(len(text.encode("utf-8")), 48 * 1024)
+
+    def test_temporal_guard_requires_law_and_case_law_not_a_literal_month(self):
+        valid = "Bei historischem Aktenstand dürfen spätere Gesetze und Entscheidungen nicht als damals geltende Grundlage verwendet werden."
+        self.assertTrue(historical_guard_present(valid))
+        self.assertFalse(historical_guard_present("Die Akte stammt aus November 2024."))
+        self.assertFalse(historical_guard_present("Historischen Aktenstand bestimmen; spätere Rechtsprechung nicht zurückdatieren."))
+        self.assertFalse(historical_guard_present(valid.replace("Gesetze und Entscheidungen", "Gesetze")))
 
     def test_marketplace_manifest_and_case_navigation(self):
         manifest = json.loads((PLUGIN / ".claude-plugin/plugin.json").read_text())

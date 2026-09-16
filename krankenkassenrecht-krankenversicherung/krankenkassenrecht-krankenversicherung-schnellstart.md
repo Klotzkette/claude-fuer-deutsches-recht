@@ -1,6 +1,6 @@
 # 1. Krankenversicherung: Leistungsweg und Erstattung prüfen
 
-Bearbeite den konkreten Streit um Behandlung, Hilfsmittel, Krankengeld, Beitrag oder Kostenerstattung. Beginne mit Versicherungsstatus und Leistungsunterlagen, nicht automatisch mit einem Widerspruch. Dieser Prompt funktioniert allein; Werkstatt und weitere Skills sind optional.
+Bearbeite den konkreten Streit um Behandlung, Hilfsmittel, Krankengeld, Beitrag oder Kostenerstattung bis zum bestellten Schreiben oder Gutachten. Beginne mit Versicherungsstatus und Leistungsunterlagen, nicht automatisch mit einem Widerspruch.
 
 ## 1.1. Versicherung und Entscheidung zuordnen
 
@@ -18,6 +18,8 @@ In der PKV [Paragraf 192 VVG](https://www.gesetze-im-internet.de/vvg_2008/BJNR26
 
 Gleiche Ablehnungsgrund und Befund punktgenau ab: fehlende Indikation, unzureichender Wirksamkeitsnachweis, andere Versorgungsform oder bloße Kostenbegrenzung verlangen unterschiedliche Antworten. Benenne die fehlende ärztliche Aussage, statt pauschal ein neues Gutachten zu verlangen. Streitig gebliebene medizinische Fragen als solche ausweisen, nicht selbst ergänzen.
 
+Fehlt etwa die Begründung, weshalb eine angebotene Versorgung nicht ausreicht, frage nach dem dazu vorhandenen Befund oder formuliere auf Auftrag eine gezielte ärztliche Anfrage. Nach Eingang prüfe, ob die Aussage den Ablehnungsgrund tatsächlich entkräftet, und arbeite sie in den Leistungsbrief ein. Bleibt dadurch eine weitere entscheidende Frage offen, kläre diese kurz; bereits beantwortete Fragen nicht wiederholen.
+
 ## 1.3. Rechnung und Zeitachse
 
 Erstelle eine Positionstabelle mit Rechnungsdatum, Leistungsdatum, Betrag, tariflich oder gesetzlich zu prüfendem Anteil, Zahlung und verbleibender Differenz. Rechenfolge für Quote, Obergrenze und Selbstbehalt aus der konkreten Regel ableiten; nicht frei wählen. Mehrere Erstattungsstellen nicht doppelt auf denselben Aufwand anrechnen.
@@ -26,6 +28,10 @@ Bei selbst beschaffter Leistung Antrag, Ablehnung, Beschaffung und Zahlung chron
 
 ## 1.4. Verwertbares Ergebnis
 
-Liefere zuerst den angeforderten Brief, Prüfvermerk oder Berechnungsstand. Danach nur die tragenden Gründe, offenen Befunde und den nächsten notwendigen Schritt. Ein PKV-Leistungsbrief begründet den Vertragsanspruch; ein GKV-Rechtsbehelf bezieht sich auf den bezeichneten Bescheid. Gesicherter Teilbetrag, streitiger Rest und Prozessrisiko bleiben unterscheidbar.
+Liefere den angeforderten Brief, Prüfvermerk oder die Berechnung in vollständigen Sätzen. Ein PKV-Leistungsbrief begründet den Vertragsanspruch; ein GKV-Rechtsbehelf bezieht sich auf den bezeichneten Bescheid. Gesicherter Teilbetrag, streitiger Rest und Prozessrisiko bleiben unterscheidbar. Eine beauftragte Beratung verlangt keinen zusätzlichen Klageentwurf.
 
-Keine eigenmächtige Kündigung, Tarifänderung, Leistungsbeschaffung, Klage oder Versendung. Aktuelle Normen und Entscheidungen amtlich prüfen; keine erfundenen Aktenzeichen oder allgemeinen Grundsicherungsurteile als Ersatz für den Versicherungsfall. Ohne Quellenzugriff nach einem begründeten Ersatzversuch den offenen Punkt nennen und den belegten Teil liefern. Vollständige Sätze; Export in Times New Roman mit 11 Punkt.
+Bei fehlendem Tarifnachtrag oder Krankengeldnachweis liefere den bereits belastbaren Teil und benenne genau den noch benötigten Beleg. Nach der Antwort aktualisiere Erstattungsquote, Zeitraum oder Begründung und schreibe das bestellte Dokument fertig; eine bloße Nachforderung erledigt den Auftrag nicht. Der gewünschte Dateiname geht vor, `ergebnis.md` ist nur der Standard ohne Dateiwunsch. Quellenstatus und technische Hinweise gehören in eine getrennte Arbeitsnotiz, nicht in den Mandantenbrief.
+
+Keine eigenmächtige Kündigung, Tarifänderung, Leistungsbeschaffung, Klage oder Versendung. Aktuelle Normen und Entscheidungen amtlich prüfen; keine erfundenen Aktenzeichen oder allgemeinen Grundsicherungsurteile als Ersatz für den Versicherungsfall. Export in Times New Roman mit 11 Punkt und dezimaler Gliederung.
+
+Dieser Prompt funktioniert allein; Werkstatt und weitere Skills sind optional. Ist eine Datei oder Quelle nicht lesbar, versuche einen geeigneten anderen Zugriff und benenne andernfalls die konkrete Lücke. Bearbeite den zugänglichen Teil weiter, ohne fehlende Unterlagen als geprüft auszugeben.

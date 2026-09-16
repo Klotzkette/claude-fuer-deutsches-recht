@@ -3,7 +3,7 @@ name: mandatsannahme-bei-kollidierenden-erfindern-kalt
 description: "Für Mandatsannahme bei Kollidierenden Erfindern Kalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Patentanwälte: mandatsannahme bei kollidierenden erfindern - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+# Mandatsannahme bei kollidierenden Erfinderinteressen
 
 ## Arbeitsweg
 
@@ -21,11 +21,11 @@ description: "Für Mandatsannahme bei Kollidierenden Erfindern Kalt: ordnet Norm
 
 ## Fallweichen dieser Speziallage
 
-1. Rolle, Ziel und Entscheidungsdruck klären.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
+1. Auftraggeber, Erfinder und Schutzrechtsinhaber anhand der vorliegenden Unterlagen unterscheiden und den bestellten Annahmevermerk vorbereiten.
+2. Frühere Beratung derselben Erfindung oder Schutzrechtsfamilie anhand Mandatsumfang und tatsächlicher Interessen prüfen; eine übereinstimmende Firmenbezeichnung allein beantwortet die Kollisionsfrage nicht.
+3. Fehlt der frühere Beratungsumfang, gezielt Vereinbarung oder Auskunft dazu anfordern. Keine unnötigen Erfindungsdetails zwischen Beteiligten offenlegen.
+4. Nach Antwort die betroffene Interessenlage neu bewerten und den Vermerk vervollständigen. Eine weitere entscheidende Verbindung kurz klären, ohne bereits beantwortete Fragen zu wiederholen.
+5. Bis zur Klärung keine Mandatsannahme freigeben, aber die belegten Teile ausformulieren. Externe Kontaktaufnahme nur mit Freigabe; Quellenprüfstatus separat halten.
 
 ## Prüfprogramm
 
@@ -33,4 +33,4 @@ description: "Für Mandatsannahme bei Kollidierenden Erfindern Kalt: ordnet Norm
 - **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
 - **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
 - **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
+- **Entscheidung:** Den bestellten Annahmevermerk oder die Mandantenantwort vollständig formulieren, mit begründeter Empfehlung und genau benannten verbleibenden Hindernissen.

@@ -1,70 +1,52 @@
-# 1. HOAI Leistungsphasen Praxis: Schnellstart
+# 1. HOAI: Leistungsumfang und Honorar prüfen
 
-Wenn du das hier öffnest, willst du Planungsleistung, Leistungsphase, Honorar, Nachtrag, Haftung und Bauüberwachung nach Vertragsstand und Projektbeleg ordnen.
+Prüfe meinen Architekten- oder Ingenieurvertrag anhand der beauftragten und nachgewiesenen Leistungen. Erstelle die gewünschte Honorarprüfung, den Nachtragsentwurf, Mängelvermerk oder Mandantenbrief.
 
-Kernauftrag: Bearbeite Fragen zu den HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung, Objektbetreuung, Honorar, Vertrag, Haftung, Nachträge. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Vertrag und Auftrag feststellen
 
-## 1.1. Sofortstart nach Eingangslage
+Lies zunächst Vertrag, Nachträge, Stufenabrufe, Planstände, Protokolle und Rechnungen, soweit sie für den Auftrag vorliegen. Entnimm daraus meine Rolle, das Projekt, Vertragsdatum, Leistungsbild und gewünschtes Ergebnis. Übernimm geklärte Angaben aus dem bisherigen Verlauf; stelle keine erneute Mandatsaufnahme voran.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Vertrag und Zeitstand, Leistungsstand, Honorar und Nachtrag wählen; ohne konkreten Auftrag mit Vertrag und Zeitstand beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Bestimme die anwendbare HOAI-Fassung und die vereinbarte Vergütung, bevor du Mindest- oder Basishonorarsätze beurteilst. Altverträge werden nicht pauschal nach der HOAI 2021 geprüft. Ordne Zielfindung, vereinbarten Planungserfolg und gegebenenfalls Stufenbeauftragung getrennt zu.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Vertrag und Zeitstand, Leistungsstand, Honorar und Nachtrag und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2 Fehlende Belege und Fortsetzung
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Fehlt der Abruf einer Vertragsstufe, frage nach der konkreten Beauftragung und Vertretungsmacht. Ist eine Leistung nur durch eine Rechnung bezeichnet, fordere den betreffenden Planstand oder Leistungsnachweis an. Eine Option ist kein Abruf; ein Phasenprozentsatz beweist weder Beauftragung noch vollständige Erfüllung.
 
-## 1.2. Fachlicher Direktstart
+Nach Eingang gleiche den neuen Beleg mit Vertrag und Abrechnung ab. Aktualisiere nur die betroffenen Leistungsanteile, Honorarpositionen oder Einwendungen und schreibe das beauftragte Dokument fertig. Ergibt sich ein neuer entscheidender Widerspruch, etwa zwischen Abrufdatum und abgerechnetem Planstand, frage gezielt dazu nach, ohne Beantwortetes zu wiederholen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche HOAI-Fassung und welche Vertragsregel gelten für den konkreten Zeitraum.
-2. Kernprüfung in einem Durchgang: Welcher werkvertragliche Erfolg und welche Leistungsphase wurden tatsächlich beauftragt; Welche Leistung ist erbracht, abgenommen, mangelhaft, geändert oder zusätzlich verlangt.
-3. Belege und Engpass zusammenführen: Beauftragung, Leistung, Abnahme, Honorarparameter, Mangel und Zahlung getrennt belegen. Darlegungs- und Beweislast nach Anspruch und Abnahmestand bestimmen, nicht pauschal alle Mängel dem Auftraggeber zuweisen. Bei unklarem Vertragsdatum keine Mindestsatz- oder Basishonoraraussage treffen.
-4. Erstes Arbeitsprodukt liefern: Leistungsstandsmatrix: Leistungsphase, Grundleistung, geschuldeter Erfolg, Planstand, Beleg, Erfüllungsgrad, Mangel und nächste Handlung.
+Bei weiterhin fehlendem Vertragsdatum ist ein belegter Leistungsabgleich möglich, aber keine sichere zeitabhängige Satzberechnung. Liefere diesen Teil vorläufig und benenne den konkret benötigten Nachweis. Materialverfügbarkeit ersetzt weder den Nachweis der Erfüllung noch die rechtliche Prüfung.
 
-## 1.3. Kernroute
+## 1.3 Leistung und Vergütung abgleichen
 
-1. Vertrag und Zeitstand: Abschlussdatum, HOAI-Fassung, Parteien, Objekt, Leistungsbild, Stufenabruf, Zielfindung und vereinbarter Erfolg erfassen.
-2. Leistungsstand: Leistungsphasen, Grund- und Besondere Leistungen, Teilleistungen, Planstände, Freigaben, Protokolle und offene Schnittstellen belegen.
-3. Honorar und Nachtrag: Honorarvereinbarung, anrechenbare Kosten, Honorarzone, Satz, Umbauzuschlag, Nebenkosten, Abschläge und Änderungsleistung berechnen.
-4. Haftung und Überwachung: Planungsfehler, Koordination, Vergabe, Bauüberwachung, Kostenfortschreibung, Mängelverfolgung, Kausalität und Mitverantwortung trennen.
-5. Arbeitsprodukt: Leistungsstandsmatrix, Honorarprüfung, Nachtragsangebot, Bedenkenhinweis, Mängelvermerk, Projektbericht oder Anspruchsschreiben erstellen.
+1. Ordne die tatsächlich übertragenen Leistungsphasen, Grund- und Besonderen Leistungen dem passenden Leistungsbild zu. Verknüpfe sie mit geschuldetem Erfolg, Planfassung, Übergabe, Freigabe und Abnahmestand. Übertrage Gebäudeprozentsätze nicht auf andere Leistungsbilder.
+2. Prüfe Honorarvereinbarung, anrechenbare Kosten, Honorarzone, Satz, übertragene Leistungsanteile, Umbauzuschlag und Nebenkosten. Zeige Eingabewerte, Fundstellen und Rechenschritte. Fehlende Einzelbelege rechtfertigen keine frei erfundenen Prozentkürzungen.
+3. Grenze geänderte oder zusätzlich verlangte Leistungen vom Vertragssoll ab. Prüfe Änderungsauftrag, Berechtigung des Anordnenden, Leistungs- und Zeitfolge sowie die Vergütungsgrundlage, bevor du ein Nachtragsangebot oder Anspruchsschreiben formulierst.
+4. Rechne Abschläge und sonstige belegte Zahlungen genau einmal an. Unterscheide Nettohonorar, Umsatzsteuer und bereits gezahlte Beträge; kennzeichne streitige Positionen statt sie stillschweigend als feststehend einzusetzen.
 
-## 1.4. Fallkarte
+Für Teilleistungen ist [Paragraf 8 HOAI](https://www.gesetze-im-internet.de/hoai_2013/__8.html) zu prüfen. Nur übertragene Leistungsphasen beziehungsweise Anteile übertragener Grundleistungen gehören in den entsprechenden Berechnungsumfang. Die rechtlichen Folgen nicht oder mangelhaft erbrachter Leistungen sind gesondert zu beurteilen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 650p und Paragraf 650q; BGB Paragraf 650r und Paragraf 650s; BGB Paragraf 633, Paragraf 634 und Paragraf 640 |
-| Rechtsprechung | Nur nach aktueller Prüfung des konkreten Alt- oder Neuvertrags verwenden; keine pauschale Rückwirkung annehmen |
-| Tatbestand | Abschlussdatum, HOAI-Fassung, Parteien, Objekt, Leistungsbild, Stufenabruf, Zielfindung und vereinbarter Erfolg erfassen |
-| Beweisfragen | Beauftragungsumfang, Abnahme und Anspruchsart zuerst bestimmen; daraus die konkrete Lastverteilung ableiten |
-| Rechtsfolge | Leistungsstandsmatrix, Honorarblatt, Nachtragsangebot, Bedenkenhinweis, Mängelvermerk oder Projektbericht |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.4 Mangel, Überwachung und Beweis
 
-## 1.5. Einsatzfelder
+Trenne Planungsfehler, Koordinationsfehler, Vergabeprobleme, Bauüberwachung und unternehmerische Ausführung. Bestimme Soll-Leistung, behauptete Abweichung, Kausalität, Schaden und mögliche Mitverantwortung. Kostenfortschreibung und Mängelverfolgung sind anhand der vereinbarten Aufgaben zu prüfen, nicht allein anhand einer Leistungsphasenüberschrift.
 
-Wähle Leistungsstandsmatrix, Honorarblatt oder Nachtragsabgleich nach Auftrag. Verknüpfe jede Position mit Vertragsstufe und konkretem Planstand; fehlende Einzelbelege nicht durch pauschale Phasenprozente ersetzen.
+Bestimme Darlegungs- und Beweislast nach Anspruch, Abnahme und Streitstand. Weise Mängel nicht pauschal dem Auftraggeber zur Beweisführung zu. Fehlt die technische Grundlage, formuliere eine konkrete Sachverständigenfrage oder Nachforderung; ersetze die technische Feststellung nicht durch eine juristische Behauptung.
 
-## 1.6. Anker
+## 1.5 Rechtsquellen
 
-- BGB Paragraf 650p und Paragraf 650q: Architekten- und Ingenieurvertrag, geschuldeter Erfolg und ergänzende Anwendung des Werkvertragsrechts.
-- BGB Paragraf 650r und Paragraf 650s: Sonderkündigungsrecht nach Zielfindung und Teilabnahme nach Abnahme der letzten Unternehmerleistung.
-- BGB Paragraf 633, Paragraf 634 und Paragraf 640: Planungsmangel, Mängelrechte und Abnahme.
-- HOAI Paragraf 3: Grundleistungen, Leistungsbilder und Leistungsphasen.
-- BGB Paragrafen 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- HOAI Paragraf 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- [Paragraf 8 HOAI](https://www.gesetze-im-internet.de/hoai_2013/__8.html): Nur übertragene Leistungsphasen beziehungsweise Anteile übertragener Grundleistungen in den Berechnungsumfang aufnehmen. Ein Phasenprozentsatz beweist weder vollständige Beauftragung noch vollständige Erfüllung. Bei Stufenverträgen je Stufe Abruf, Vertretungsmacht, Leistungsbeleg und Abrechnung abgleichen; eine bloße Option nicht als Abruf behandeln.
+Prüfe aktuelle beziehungsweise zeitlich einschlägige Normen amtlich und verwende Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und passendem Aussagegehalt. Eine Entscheidung zum Altvertrag trägt keine pauschale Aussage über Neuverträge.
 
-## 1.7. Antwortform
+- Paragrafen 650p und 650q BGB: Architekten- und Ingenieurvertrag, geschuldeter Erfolg und ergänzendes Werkvertragsrecht; Paragrafen 650p bis 650t insgesamt, soweit einschlägig.
+- Paragrafen 650r und 650s BGB: Sonderkündigung nach Zielfindung und Teilabnahme nach Abnahme der letzten Unternehmerleistung.
+- Paragrafen 633, 634 und 640 BGB: Mangel, Mängelrechte und Abnahme.
+- Paragraf 3 HOAI: Grundleistungen, Leistungsbilder und Leistungsphasen; die einschlägigen Honorarregeln nach Vertragsstand.
+- Paragraf 34 und Anlage 10 HOAI für Gebäude und Innenräume; andere Leistungsbilder eigenständig bestimmen.
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Leistungsstandsmatrix, Honorarblatt, Nachtragsangebot, Bedenkenhinweis, Mängelvermerk oder Projektbericht.
-1.7.2. Norm: BGB Paragraf 650p und Paragraf 650q; BGB Paragraf 650r und Paragraf 650s mit dem entscheidenden Merkmal verbinden.
-1.7.3. Aktenfund: Für „Vertrag und Zeitstand“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Leistung und Abnahme getrennt ausweisen; pauschale Prozentkürzungen bei fehlenden Einzelbelegen vermeiden. Bereits gezahlte Abschläge nur einmal abziehen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welcher werkvertragliche Erfolg und welche Leistungsphase wurden tatsächlich beauftragt.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Leistungsstandsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
+## 1.6 Ergebnis und Abschluss
 
-## 1.8. Stop
+Liefere das bestellte Ergebnis vollständig ausformuliert. Ein Honorarblatt erläutert die Rechnung, ein Nachtragsangebot die zusätzliche Leistung und Vergütung, ein Mandantenbrief Ergebnis und Handlungsoptionen. Eine Leistungsübersicht ist bei umfangreichem Abgleich hilfreich, aber keine Pflichtanlage jedes Briefs.
 
-Bei unklarer Vertragsfassung liefere den belegbaren Leistungsabgleich, aber keine sichere Satzberechnung. Prüfe Normen amtlich und Rechtsprechung mit Gericht, Datum, Aktenzeichen und Aussage. Keine eigenständige Abnahme, Nachtragsbeauftragung oder Zahlung. Dieser Prompt funktioniert ohne weitere Dateien; die Werkstatt ist optional. Ergebnisse in vollständigen Sätzen, Dokumentexport in Times New Roman mit 11 Punkt.
+Prüfe vor Abschluss Beträge, Belegzuordnung, Abnahmestand und neue Antworten. Trenne offene Tatsachen von offenen Rechtsfragen. Recherche- und Quellenstatus stehen erforderlichenfalls in einer gesonderten Arbeitsnotiz, nicht im Mandantenbrief. Nutzerseitige Dateinamen gehen vor; nur ohne Vorgabe kann `ergebnis.md` verwendet werden.
+
+Keine eigenständige Abnahme, Nachtragsbeauftragung, Zahlung oder Einreichung. Verwende dezimale Überschriften und bei Dokumentexport, soweit möglich, Times New Roman 11 Punkt.
+
+Ohne Datei- oder Quellenzugriff benenne die betroffene Prüfgrenze und bearbeite unabhängige Teile weiter; ohne Export liefere Text statt eines erfundenen Dateilinks. Dieser Prompt benötigt keine weiteren Dateien; die Werkstatt ist optional.

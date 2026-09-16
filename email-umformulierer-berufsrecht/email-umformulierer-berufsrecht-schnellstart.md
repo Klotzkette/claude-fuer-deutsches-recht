@@ -1,12 +1,16 @@
 # 1. Sachliche E-Mail mit unverändertem Rechtsstandpunkt
 
-Formuliere die vorgelegte E-Mail höflich, klar und bestimmt um. Erhalte den sachlichen Auftrag, streitige Positionen, Beträge, Fristen und Vorbehalte. Liefere zuerst die neue E-Mail, keine allgemeine Kammer- oder Berufsrechtsstellungnahme. Lies Entwurf und relevanten Gesprächsverlauf. Ohne Text frage einmal nach Original, Empfänger, Vertretungsverhältnis und gewünschtem Ziel.
+Formuliere die vorgelegte E-Mail höflich, klar und bestimmt um. Erhalte den sachlichen Auftrag, streitige Positionen, Beträge, Fristen und Vorbehalte.
+
+Liefere zuerst die neue E-Mail, keine allgemeine Kammer- oder Berufsrechtsstellungnahme. Lies Entwurf und relevanten Gesprächsverlauf; erfrage Original, Empfänger oder Ziel nur, soweit sie daraus nicht hervorgehen.
 
 ## 1.1. Tatsachen vor Tonkorrektur
 
 Trenne belegte Tatsachen, Behauptungen der Mandantschaft, rechtliche Bewertung und persönliche Angriffe. Ein Vorwurf wird nicht allein durch höfliche Sprache wahr. Übernimm keine strafrechtliche Beschuldigung als feststehend, wenn nur ein streitiger Zahlungsvorgang geschildert ist. Entferne unnötige Herabsetzungen, ohne zulässige nachdrückliche Interessenvertretung in ein Anerkenntnis zu verwandeln.
 
 Erfasse ausdrücklich: Wer schreibt in welcher Rolle an wen, was wird verlangt, welcher Betrag ist bestritten, welche Frist wurde tatsächlich gesetzt und welche Anlagen dürfen mitgesandt werden? Bezeichnungen und Daten aus dem Original erhalten; fehlende Angaben als klar bezeichnete Platzhalter führen. Kein neues Zahlungsangebot, keine Fristverlängerung und kein Verzicht allein zur freundlicheren Wirkung.
+
+Widersprechen sich Betrag oder Frist in Entwurf und Verlauf, frage nach der maßgeblichen Rechnung oder Aufforderung. Bearbeite unabhängig belegte Passagen vorläufig. Nach der Antwort ändere die betroffenen Angaben und Begründungen und stelle die E-Mail fertig. Neue entscheidende Lücken gezielt klären, bereits beantwortete Fragen nicht wiederholen; keine Annahme als Tatsache in die Außenfassung übernehmen.
 
 ## 1.2. Empfänger und Geheimnisse
 
@@ -22,7 +26,9 @@ Eine Entschuldigung für den Ton ist etwas anderes als ein Eingeständnis der Fo
 
 ## 1.4. Ausgabe und Kontrolle
 
-Liefere ergebnis.md mit der sendefähig formulierten, aber nicht versandten E-Mail. Danach höchstens eine kurze Änderungsnotiz: entfernte persönliche Angriffe, unverändert erhaltene Kernposition und offene Freigabefrage. Kontrolliere Original gegen Neufassung auf Betrag, Frist, Adressat, Anerkenntnis, Geheimnisse und neue Tatsachen. Keine Endlosschleife mit Tonvarianten; eine zweite Fassung nur auf Wunsch oder bei echter strategischer Alternative.
+Liefere die sendefähig formulierte, aber nicht versandte E-Mail unter dem gewünschten Dateinamen; ohne Benennung verwende `ergebnis.md`. Eine kurze getrennte Änderungsnotiz erläutert nötigenfalls entfernte Angriffe, erhaltene Position und offene Freigabefragen. Kontrolliere Original gegen Neufassung auf Betrag, Frist, Adressat, Anerkenntnis, Geheimnisse und neue Tatsachen. Weitere Tonvarianten nur auf Wunsch oder bei echter strategischer Alternative; sachlich notwendige Rückfragen und Weiterarbeit bleiben möglich.
+
+Bei fehlender Anlagenfreigabe frage gezielt nach der zulässigen Weitergabe und bereite den übrigen Text ohne behauptete Beifügung vor. Nach der Antwort aktualisiere Anlagenverweis und Empfängertext. Ein vorläufiger Teilstand oder eine Nachforderung ersetzt die bestellte Endfassung nicht. Quellenstatus und interne Prüfvermerke bleiben außerhalb der E-Mail; keine ungefragte Klage oder Beschwerde ergänzen.
 
 Quellenanker ist [Paragraf 43a BRAO](https://www.gesetze-im-internet.de/brao/BJNR005650959.html), insbesondere Verschwiegenheit und Sachlichkeitsgebot. Dessen konkrete Grenzen nicht mit einer allgemeinen Pflicht zur Widerspruchslosigkeit verwechseln. Neue Rechtsaussagen amtlich prüfen; Entscheidungen nur mit verifiziertem Gericht, Datum, Aktenzeichen und Fundstelle. Andere Berufsgesetze nur bei tatsächlich anderem Berufsstatus prüfen.
 

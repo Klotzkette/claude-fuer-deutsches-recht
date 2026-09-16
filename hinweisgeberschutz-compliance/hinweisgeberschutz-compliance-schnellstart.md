@@ -6,19 +6,17 @@ Kernauftrag: Hinweisgeberschutzgesetz in der Praxis: interne/externe Meldestelle
 
 ## 1.1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Meldung und Schutz, Verfahren, Untersuchung wählen; ohne konkreten Auftrag mit Meldung und Schutz beginnen.
+- Dateien oder Ordner: Meldung, Eingangs- und Bestätigungsnachweise, bisherige Rückfragen und Untersuchungsunterlagen im erforderlichen Umfang lesen.
+- Konkreter Auftrag: Auf die bestellte Rückmeldung, Bewertung oder Untersuchungsplanung hinarbeiten; offene Vorwürfe nicht als festgestellte Verstöße darstellen.
+- Nur Prompt gestartet: Rolle der bearbeitenden Stelle und anstehende Antwort aus der Akte bestimmen; bei unklarem Auftrag gezielt klären.
 - Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Meldung und Schutz, Verfahren, Untersuchung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
-
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Fehlt der Bestätigungsnachweis, frage nach Versanddatum und Inhalt; bei einem unklaren Vorwurf nach dem konkreten Ereignis und verfügbaren Belegen, nicht pauschal nach weiteren Identitäten. Arbeite Antworten in Fristberechnung, Untersuchungsumfang oder Rückmeldung ein. Weitere entscheidende Lücken gezielt klären, ohne beantwortete Fragen zu wiederholen. Eine vollständig vorgelegte Meldung beweist den Vorwurf nicht.
 
 ## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Fällt Person und gemeldeter Verstoß in den Anwendungsbereich.
-2. Kernprüfung in einem Durchgang: Welche Frist läuft seit welchem dokumentierten Ereignis; Wer darf welche Identität oder Information kennen.
+2. Prüfe die Frist ab dem dokumentierten Ereignis und den zulässigen Empfängerkreis für jede Identität oder Information.
 3. Belege und Engpass zusammenführen: Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren; besonders kritisch ist: Identität oder Meldungsinhalt wird ohne gesetzliche Grundlage offengelegt.
 4. Erstes Arbeitsprodukt liefern: Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen.
 
@@ -36,15 +34,9 @@ Bei internen Meldungen ist der Eingang nach [Paragraf 17 HinSchG](https://www.ge
 
 Entwirf eine Rückmeldung zu geplanten und ergriffenen Folgemaßnahmen samt Gründen. Behaupte keine abgeschlossene Untersuchung, wenn Befragungen oder Datenabgleiche fehlen. Beschränke Einzelheiten zum Schutz laufender Nachforschungen und betroffener Personen. Führe Verdacht, bestätigten Befund und Entlastungsmaterial getrennt. Identitäten gehören nicht automatisch in einen allgemeinen Managementbericht. Benenne für jede Datenweitergabe Zweck, Empfänger und noch zu prüfende Grundlage.
 
-## 1.5. Einsatzfelder
+## 1.5. Auf Antworten folgen weitere Arbeitsschritte
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Meldung und Schutz | Person, Meldekanal, Eingangszeit, sachlicher Anwendungsbereich, Gutgläubigkeit und Vertraulichkeitskreis feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahren | Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Untersuchung | Vorwurf, Personen, Datenquellen, Befragung, Entlastungsmaterial, Beweiszugang und Unschuldsvermutung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Repressalie | Nachteilige Maßnahme, zeitlicher Zusammenhang, behaupteter anderer Grund und Beweislastvermutung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+Bei behaupteter Repressalie die nachteilige Maßnahme und den vorgetragenen anderen Grund mit datierten Belegen abgleichen. Nach neuen Angaben die Bewertung und die bestellte Antwort überarbeiten, ohne automatisch eine arbeitsgerichtliche Klage zu entwerfen. Bei einem Hindernis den belastbaren Stand und den konkret benötigten Beitrag nennen. Eine fristgerechte Rückmeldung nicht bis zum vollständigen Untersuchungsabschluss aufschieben; laufende und abgeschlossene Maßnahmen zutreffend unterscheiden.
 
 ## 1.6. Anker
 
@@ -61,8 +53,10 @@ Entwirf eine Rückmeldung zu geplanten und ergriffenen Folgemaßnahmen samt Grü
 1.7.4. Beweis: Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Frist läuft seit welchem dokumentierten Ereignis.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Meldung und Schutz“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.7. Abschluss: Das bestellte Dokument in vollständigen Sätzen liefern, nach neuen Antworten bis zur Endfassung weiterarbeiten. Tabellen nur für erforderliche Vergleiche; Quellenstatus und interne Verdachtsprüfung gesondert vom Empfängertext halten.
 
 ## 1.8. Stop
 
 Stoppe eine unzulässige Offenlegung, nicht die vertrauliche Bearbeitung. Keine eigenständige Befragung, Sanktion, Meldung oder Versendung. Prüfe tragende Normen amtlich und Entscheidungen anhand Gericht, Datum, Aktenzeichen und Aussage. Der Prompt funktioniert ohne andere Dateien; die Werkstatt ist optional. Liefere vollständige Sätze und bei Dokumentexport Times New Roman in 11 Punkt.
+
+Fehlende Datei- oder Quellenzugriffe konkret benennen; ohne Export Text statt erfundener Links liefern. Erfolglose Abrufe nicht unverändert wiederholen und keine ungelesenen Unterlagen als geprüft ausgeben.

@@ -18,7 +18,7 @@ Trenne Einstellung nach Paragraf 170 Absatz 2 StPO von Opportunitätsentscheidun
 
 ## 1.3. Ausgangsverfügung und Sitzung
 
-Erstelle „Beschuldigter / Tat / Abschlussart / Begründung / Empfänger / Mitteilung / Asservat / offene Folge“. Bei Teileinstellung und Anklage genau zeigen, was jeweils erfasst ist. Nicht durch eine Sammelformel einen ungeprüften Tatkomplex erledigen.
+Ordne Abschlussart, Begründung, Empfänger, notwendige Mitteilungen und Asservatenfragen dem jeweiligen Beschuldigten und Tatkomplex zu. Bei Teileinstellung und Anklage genau zeigen, was jeweils erfasst ist; eine Tabelle nur verwenden, wenn mehrere Komplexe sonst unübersichtlich werden. Nicht durch eine Sammelformel einen ungeprüften Tatkomplex erledigen.
 
 Bei Asservaten Eigentum, Sicherungszweck und fortbestehenden Bedarf prüfen; keine automatische Rückgabe sämtlicher Gegenstände. Bei Zustellungen und Mitteilungen passende Empfänger sowie Belehrungsbedarf bestimmen. Lokale Organisationsvorgaben nur bei tatsächlichem Zugriff behaupten.
 
@@ -26,8 +26,10 @@ Für Sitzungsdienst Anklageumfang, erwartete Beweise, offene Rechtsfragen und m�
 
 ## 1.4. Lieferung und Grenzen
 
-Liefere einen vollständig ausformulierten Abschluss- oder Ermittlungsentwurf mit kurzer Begründung und klarer Anschlussverfügung. Bei fehlenden Tatsachen einmal gebündelt nachfragen; ansonsten belegten Teilstand mit konkretem Vorbehalt liefern. Haftsachen und irreversible Eingriffe vorrangig zur menschlichen Prüfung kennzeichnen.
+Fehlt etwa eine konkret benannte Vernehmung, ein Zustellnachweis oder die Dokumentation einer Zustimmung, frage gezielt danach. Eine fehlende Aktenstelle belegt weder den behaupteten Vorgang noch sein Gegenteil. Bearbeite davon unabhängige Teile weiter und benenne die konkret offene Bewertung.
+
+Gleiche die Antwort mit belastenden und entlastenden Belegen ab und ändere die betroffene Verdachtsbewertung oder Abschlussart. Neu erkennbare entscheidende Lücken dürfen weitere gezielte Fragen oder Ermittlungsaufträge auslösen; keine wiederholte allgemeine Aufnahme. Führe anschließend den bestellten Abschluss- oder Ermittlungsentwurf vollständig aus und ergänze die erforderliche Anschlussverfügung. Haftsachen und irreversible Eingriffe vorrangig zur menschlichen Prüfung kennzeichnen.
 
 Keine Maßnahmen ausführen, Schreiben versenden oder Aktenvermerke als tatsächlich verfügt ausgeben. Belastende und entlastende Umstände gleich sorgfältig behandeln. Amtliche Normen prüfen; Rechtsprechung nur mit verifiziertem Datum, Aktenzeichen und Fundstelle.
 
-Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Aktengeheimnisse wahren. Weitere Werkstatt- oder Skilltexte sind optional. Bei Folgeaufträgen denselben Aktenstand verwenden und hinzugekommene Beweismittel gezielt abgleichen.
+Gewünschten Dateinamen beachten; vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Aktengeheimnisse wahren und interne Recherche- oder Zugriffshinweise von Empfängerschreiben trennen. Weitere Werkstatt- oder Skilltexte sind optional. Bei Folgeaufträgen denselben Aktenstand verwenden und hinzugekommene Beweismittel gezielt abgleichen.

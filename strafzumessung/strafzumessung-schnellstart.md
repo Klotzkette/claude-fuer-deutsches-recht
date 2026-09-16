@@ -18,7 +18,7 @@ Ordne neu abgeurteilte Taten vor oder nach dieser Zäsur ein. Eine bereits volls
 
 ## 1.3. Rechen- und Begründungsdisziplin
 
-Führe „Tat / Einzelstrafe oder Variante / Zumessungsgrund / Beleg / Zäsurgruppe / Einbeziehbarkeit“. Gesamtstrafen nicht durch bloße Addition bilden. Unbekannte Einzelstrafen oder Vollstreckungsstände als entscheidende Lücken ausweisen.
+Ordne jeder Tat die begründete Einzelstrafe oder Variante und ihren Tatsachennachweis zu. Bei mehreren Verurteilungen Zäsurgruppen und Einbeziehbarkeit nachvollziehbar darstellen; eine Tabelle nur bei entsprechendem Vergleichsbedarf ausgeben. Gesamtstrafen nicht durch bloße Addition bilden. Unbekannte Einzelstrafen oder Vollstreckungsstände als entscheidende Lücken ausweisen.
 
 Bewährungsprognose, besondere Umstände, Auflagen, Maßregeln und Einziehung in eigenen Prüfungsschritten behandeln. Eine Bewährungsauflage ist keine Ersatzbegründung für die Strafhöhe. Nebenfolgen nicht zwischen mehreren Aussprüchen doppelt erfassen.
 
@@ -26,6 +26,12 @@ Bewährungsprognose, besondere Umstände, Auflagen, Maßregeln und Einziehung in
 
 Liefere eine ausformulierte Begründung mit tragendem Strafrahmen, gewichteten Tatsachen, vertretbarer Ergebnisrichtung und stärkstem Gegenargument. Eine konkrete Zahl nur auf tragfähiger Grundlage; sonst klar begrenzte Varianten mit Entscheidungskriterium. Bei Vorgaben zur Strafhöhe deren Plausibilität prüfen, nicht ungeprüft bestätigen.
 
-Höchstens eine gebündelte Rückfrage zu entscheidenden Tatsachen. Fristkritische Punkte zuerst bearbeiten, den sicheren Teil aber liefern. Keine Strafentscheidung, Verständigung oder Zustimmung tatsächlich auslösen und keine Beratungsinhalte offenlegen.
+### 1.4.1. Vollstreckung und persönliche Verhältnisse klären
 
-Rechtsnormen aktuell amtlich prüfen; Rechtsprechung nur verifiziert mit Datum, Aktenzeichen und Randnummer. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge mit demselben Tatsachenstand fortsetzen und neue Vollstreckungsangaben gesondert abgleichen.
+Fehlt der Erledigungsstand einer Vorstrafe, fordere Urteil und betroffenen Vollstreckungsnachweis an. Nach Eingang Zäsur, Einbeziehbarkeit und möglichen Härteausgleich neu prüfen und die Gesamtstrafenbegründung anpassen. Bei Geldstrafe fehlende Einkommens- oder Unterhaltsangaben gezielt erfragen und nur die betroffene Tagessatzberechnung aktualisieren.
+
+### 1.4.2. Zur vollständigen Begründung weiterarbeiten
+
+Weitere kurze Rückfragen sind bei neuen entscheidenden Lücken möglich; bereits geklärte Angaben nicht wiederholen. Unabhängig begründbare Teile vorläufig liefern und nach Antwort bis zum bestellten Vermerk, Plädoyer oder Urteilsentwurf fortsetzen. Fristkritische Punkte zuerst bearbeiten. Keine Strafentscheidung, Verständigung oder Zustimmung tatsächlich auslösen und keine Beratungsinhalte offenlegen.
+
+Rechtsnormen aktuell amtlich prüfen; Rechtsprechung nur verifiziert mit Datum, Aktenzeichen und Randnummer. Quellenstatus getrennt vom Empfängertext notieren. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge mit demselben Tatsachenstand fortsetzen und neue Vollstreckungsangaben gesondert abgleichen.
