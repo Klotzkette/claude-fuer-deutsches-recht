@@ -11,7 +11,7 @@ Erstelle eine belegbare Gegenrechnung zur Modernisierungsmieterhöhung nach Baua
 
 ## 1.2. Eingaben
 
-Lies zuerst Mietvertrag, Ankündigung, Erhöhungserklärung mit Zugang, Schlussrechnungen und Gutschriften, Förderbescheide, Flächenaufstellung, vorherige Erhöhungen der letzten sechs Jahre sowie Fotos und Zustandsberichte der ersetzten Bauteile. Erfasse vertretene Seite, Maßnahme, Abschlussdatum, bisherige Nettokaltmiete und gewünschtes Ergebnis. Fehlt Entscheidendes, stelle eine gebündelte Rückfrage; liefere daneben die prüfbaren Positionen.
+Lies zuerst Mietvertrag, Ankündigung, Erhöhungserklärung mit Zugang, Schlussrechnungen und Gutschriften, Förderbescheide, Flächenaufstellung, vorherige Erhöhungen der letzten sechs Jahre sowie Fotos und Zustandsberichte der ersetzten Bauteile. Erfasse vertretene Seite, Maßnahme, Abschlussdatum, bisherige Nettokaltmiete und gewünschtes Ergebnis aus den vorhandenen Angaben. Frage nach entscheidenden Lücken, etwa dem Zustand der alten Fenster oder dem Förderzweck eines Zuschusses; liefere daneben die prüfbaren Positionen vorläufig. Das Vorliegen einer Rechnung belegt noch nicht die Umlagefähigkeit aller darin aufgeführten Arbeiten.
 
 ## 1.3. Ablauf und Checkliste
 
@@ -19,7 +19,7 @@ Lies zuerst Mietvertrag, Ankündigung, Erhöhungserklärung mit Zugang, Schlussr
 
 Bestimme zeitlich anwendbares Recht und erklärtes Verfahren. Trenne reguläre Umlage nach Paragraf 559 BGB, vereinfachtes Verfahren nach Paragraf 559c und Mieterhöhung bei Einbau einer Heizungsanlage nach Paragraf 559e. Vermische deren Abzugsmodelle nicht. Prüfe Modernisierungsmerkmal und technische Verbesserung je Bauteil; ein neues Bauteil allein beweist keine Verbesserung. Trenne Duldungshärte, wirtschaftliche Härte, formelle Erläuterung und materielle Berechtigung.
 
-### 1.3.2. Positionsbuch
+### 1.3.2. Rechnungspositionen abgleichen
 
 Führe je Position Rechnungsnummer, Gewerk, Objekt, Gesamtbetrag, Gutschrift, Erhaltungsanteil, Begründung der Schätzung, Fördermittel, Umlageschlüssel, Wohnungsanteil und Belegstatus. Gleiche Abschläge gegen Schlussrechnungen ab; dieselbe Leistung darf nicht zweimal eingehen. Ordne gemischte Gerüst-, Planungs- und Baustellenkosten nachvollziehbar zu. Kennzeichne fehlende Nachweise, statt freie Prozentsätze als Befund auszugeben.
 
@@ -29,7 +29,7 @@ Beim regulären Verfahren berücksichtige Abnutzung auch bei noch funktionsfähi
 
 Rechne im regulären Verfahren nachvollziehbar: auf die Wohnung entfallende berücksichtigungsfähige Kosten mal acht Prozent geteilt durch zwölf. Zinsermäßigungen nach Paragraf 559a Absatz 2 sind getrennt auf Ebene des jährlichen Erhöhungsbetrags zu behandeln. Stelle ungekappte Erhöhung, verbleibenden Sechsjahresrahmen und zulässigen Monatsbetrag nebeneinander; Heizungsanteile erhalten eine zusätzliche gesonderte Prüfung. Prüfe Zugang, Erläuterung und Beginn nach Paragraf 559b. Ein Fehler einer trennbaren Maßnahme macht nicht ohne Prüfung die gesamte Erklärung unwirksam.
 
-Zeige bei unsicherem Erhaltungsabzug belegte Unter- und Obervariante mit Differenz pro Monat und Jahr. Veranlasse keine Zahlungsverweigerung, Kündigung, Erklärung oder Versendung. Schließe nach einem Quellen- und Rechencheck mit den entscheidungsrelevanten Lücken.
+Zeige bei unsicherem Erhaltungsabzug belegte Unter- und Obervariante mit Differenz pro Monat und Jahr. Fehlen Zustandsnachweise oder ein Förderbescheid, benenne den konkreten Nachweis und seinen Einfluss auf die Rechnung. Prüfe nach Eingang die betroffenen Kostenpositionen, rechne Wohnungsanteil und Monatsbetrag neu und arbeite das bestellte Einwendungs- oder Erläuterungsschreiben fertig. Lässt sich etwa ein Zuschuss nicht eindeutig einem Gewerk zuordnen, kläre diese neue Lücke gezielt; unbelegte Abzüge nicht mit Null gleichsetzen. Prüfe vor Abschluss Rechnung, Quellen und Fristen erneut soweit betroffen. Veranlasse keine Zahlungsverweigerung, Kündigung, Erklärung oder Versendung.
 
 ## 1.4. Quellenpflicht
 
@@ -39,7 +39,9 @@ Geprüfter Anker: BGH, Versäumnisurteil vom 17.06.2020, Az. VIII ZR 81/19, [amt
 
 ## 1.5. Ausgabeformat
 
-Liefere `ergebnis.md` mit Sachverhalt, Kurzvotum, Positionsbuch, nachrechenbarer Wohnungsrechnung, ausformulierter Einwendung oder Erläuterung als Entwurf und priorisierter Beleganforderung. Das Endprodukt besteht aus vollständigen Sätzen, nicht aus einem Schriftsatzskelett; Tabellen ergänzen die Begründung. Dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben; Exporthinweis: Times New Roman, 11 pt. Keine Doppelsterne im Fließtext.
+Liefere die bestellte Gegenrechnung und ausformulierte Einwendung oder Erläuterung unter dem gewünschten Dateinamen; ohne Vorgabe `ergebnis.md` verwenden. Eine nachrechenbare Kostenaufstellung ergänzt die Begründung; nicht jede interne Prüftabelle gehört in das Schreiben. Noch benötigte Belege konkret benennen, ohne die zu klärenden Tatsachen vorwegzunehmen.
+
+Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Das Endprodukt besteht aus vollständigen Sätzen, nicht aus einem Schriftsatzskelett. Dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben; Exporthinweis: Times New Roman, 11 pt. Keine Doppelsterne im Fließtext.
 
 ## 1.6. Beispiele
 

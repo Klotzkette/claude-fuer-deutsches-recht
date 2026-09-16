@@ -1,12 +1,12 @@
 # 1. Geldwäscheprüfung in Kanzlei, Unternehmen und Notariat
 
-Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Verpflichteter und Produkt und Risikoanalyse und KYC routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Prüfe den Vorgang aus der Akte und verfasse das bestellte Dokument. Geklärte Angaben nicht erneut aufnehmen.
 
-Rechtsstand: 8. September 2026; aktuelle Listen vor Freigabe prüfen.
+Rechtsstand: 8. September 2026; Listen aktualisieren.
 
 ## 1.1. Sofortstart
 
-Zuerst Auftrag, aktuelle Zahlungsnachricht, Vertrag und nötige Identitätsbelege lesen; höchstens fünf tragende Dateien, danach gezielt ergänzen. Akute Auszahlung, Grundbucheinreichung oder unverzügliche Meldeprüfung vor Organisationsarbeit behandeln. Ohne Material nach Rolle, Geschäft und Vollzug fragen. Fehlenden Listen- oder Registerzugriff niemals durch simulierte Treffer ersetzen.
+Lies Auftrag, Zahlungsnachrichten, Vertrag, Identitätsbelege und Eigentumskette. Auszahlung, Grundbucheinreichung oder unverzügliche Meldeprüfung vor Organisationsarbeit behandeln. Nur bei unklarem Ziel nach Rolle, Geschäft und Handlung fragen. Keine simulierten Listen- oder Registertreffer.
 
 ## 1.2. Die erste rechtliche Weiche
 
@@ -22,7 +22,7 @@ Eigentumskette als Tabelle mit Person, Gesellschaft, Kapital, Stimmen, Kontrolle
 
 PEP, EU-Hochrisikostaat und Sanktion sind verschiedene Befunde. Paragraf 15: passende Zusatzinformationen, erforderliche Leitungszustimmung und Überwachung. FATF-Liste nicht mit EU-Rechtsakt gleichsetzen. Namensgleichheit anhand Identifikatoren prüfen. Sanktionskontrolle nach konkreter Verordnung, nicht nach der GwG-Beteiligungsschwelle. Ohne aktuelle Quelle keine Entwarnung.
 
-## 1.4. Zahlungsbefund und branchenspezifische Grenze
+## 1.4. Zahlungen und Branchengrenzen
 
 Vertrag, Rechnung, Kontoauszug und Zahlung zusammenführen. Teilzahlungen nach Paragraf 1 Absatz 5 auf Verbindung prüfen. Überzahlung und Rückerstattung auf anderes Konto nicht nur saldieren. Herkunft der konkreten Mittel von allgemeiner Vermögensherkunft trennen.
 
@@ -46,6 +46,10 @@ Verordnung (EU) 2024/1624 gilt grundsätzlich ab 10. Juli 2027. Artikel 51 bis 5
 
 ## 1.7. Ausgabe und Quellen
 
-Liefere vollständig formulierten Prüfvermerk, Nachforderung, Zahlungsabgleich, Meldeentwurf, Vollzugsvorlage oder Umstellungsplan. Je Schluss: konkrete Tatsache, Originalbeleg, Normfassung und Rechtsfolge. Times New Roman 11 pt, dezimale Gliederung. Unterbrich eine Freigabe bei entscheidender Quellen- oder Beleglücke; liefere den bearbeitbaren Teil weiter. Kein pauschaler Beweislastsatz ersetzt die Prüfung.
+Fehlt eine Kontrollvereinbarung, frage nach Stimm- oder Sonderrechten; bei widersprüchlichen Zahlungen nach Betrag, Konto und Buchungsdatum. Gleiche Antworten mit der Akte ab und aktualisiere Prüfung oder Meldebegründung. Neue entscheidende Lücken gezielt klären, beantwortete Fragen nicht wiederholen. Ein eingegangener Beleg ist nicht automatisch ausreichend. Unverzügliche Meldungen nicht durch weitere Aufklärung verzögern.
+
+Liefere das bestellte Dokument ausformuliert; Tabellen nur bei Bedarf. Bei entscheidender Lücke die abhängige Freigabe offenhalten, den belegbaren Teil mit Nachforderung liefern und nach der Antwort bis zur Endfassung fortsetzen. Unbekannte Zahlungsumstände auch im Brief nicht behaupten. Quellenstatus und Verdachtsprüfung getrennt vom Außenbrief halten; Paragraf 47 beachten. Times New Roman 11 pt, dezimale Gliederung. Keine pauschale Beweislastregel.
 
 Amtliche Grundlagen: [GwG](https://www.gesetze-im-internet.de/gwg_2017/), [GwGMeldV](https://www.gesetze-im-internet.de/gwgmeldv/), [EU-Verordnung 2024/1624](https://eur-lex.europa.eu/eli/reg/2024/1624/oj/deu). EuGH C-37/20 und C-601/20 vom 22. November 2022 betrifft öffentlichen Registerzugang, nicht Wegfall der Eigentümerprüfung. C-305/05 vom 26. Juni 2007 ist Hintergrund zum anwaltlichen Verfahrensschutz, keine pauschale Meldebefreiung. Bei entscheidendem Zitat amtlichen Text verifizieren.
+
+Zugriffslücken benennen und mit zugänglichen Belegen weiterarbeiten. Ohne Export Text liefern; keine erfundenen Links oder unveränderten Abrufwiederholungen. Zusatzskills sind nicht erforderlich.

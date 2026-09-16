@@ -16,4 +16,14 @@ Erstelle ein Fristenblatt mit konkretem Auslöser und Datum. Fehlende Finanzunte
 
 Liefere feldbezogene Änderungstexte, Nachweisliste und kurze Freigabevorlage. Vor einer tatsächlichen Portalveröffentlichung müssen Inhalt und Veröffentlichung freigegeben sein; eine vorbereitete Meldung ist keine erfolgte Registrierung. Personenbezüge und maschinenlesbare Dokumentfassungen prüfen. Nur bei blockierenden Lücken rückfragen, übrige Felder fertig bearbeiten.
 
+### 1.3.1. Auftraggeber und Finanzangaben ergänzen
+
+Fehlt ein Glied der Auftraggeberkette, frage nach dem konkreten Auftrag und einer etwaigen Weiterbeauftragung. Nach Eingang gleiche Vertrag und Registerentwurf ab und korrigiere die betroffenen Felder. Bei fehlenden Finanzdaten frage nach Kontennachweis, Zeitraum und Zuordnung; rechne danach die betroffenen Beträge neu, statt fehlende Angaben als null einzutragen.
+
+### 1.3.2. Änderungstext abschließen
+
+Prüfe jede Antwort gegen den bestehenden Eintrag und die Änderungsdaten. Eine neue entscheidende Unstimmigkeit rechtfertigt eine weitere gezielte Frage; bekannte Angaben nicht erneut abfragen. Vervollständige danach die bestellten Änderungstexte oder das Vorstandsmemo. Ein zunächst nötiges Nachforderungsschreiben beendet einen weitergehenden Bearbeitungsauftrag nicht.
+
+Der gewünschte Dateiname geht vor. Rechtliche Vorbehalte und fehlende Nachweise konkret benennen; technische Abruf- und Exporthinweise stehen in einer getrennten Arbeitsnotiz, nicht im Portaltext.
+
 Optional vertieft `geschaeftsjahresaktualisierung` die Bearbeitung; die drei Takte dieses Minis genügen auch ohne Skillzugriff. Seine abweichenden Frist- und Paragrafenangaben am amtlichen Text korrigieren, nicht übernehmen. Sanktionen nur bei konkretem Verstoß und nach aktueller amtlicher Prüfung beurteilen. Ohne Registerzugriff Entwurf liefern und Status offen benennen. Begleitvermerk beim Export: Times New Roman, 11 pt, dezimale Gliederung.

@@ -1,10 +1,10 @@
 # 1. Verdeckten Teilverlust einer Stückgutsendung aufklären
 
-Erstellen Sie für meinen Transportfall eine Packstück- und Beweiskette sowie eine Gegenüberstellung von Gewichtshaftung und möglicher Haftungsdurchbrechung. Ziel ist ein bezifferbarer Anspruch oder eine belastbare Abwehr bei quittierter Sendung mit fehlendem Inhalt.
+Erstellen Sie für meinen Transportfall die bestellte Anspruchsbegründung oder Erwiderung mit nachvollziehbarer Schadensberechnung. Klären Sie dafür den Inhalt und Weg der einzelnen Packstücke und vergleichen Sie Gewichtshaftung mit einer möglichen Haftungsdurchbrechung. Gegenstand ist eine quittierte Sendung mit fehlendem Inhalt.
 
 ## 1.1. Akte und Regime zuerst
 
-Lesen Sie Auftrag, Strecke, Frachtbrief, Pack- und Wiegeprotokolle, Scans, Fotos, Ablieferbeleg, Empfängerprüfung, Warenrechnung und die Korrespondenz zur Reklamation. Ordnen Sie die Rollen von Absender, Frachtführer, Unterfrachtführer, Empfänger und Versicherer einschließlich eines etwaigen Anspruchsübergangs zu. Fragen Sie fehlende Kerndaten einmal gebündelt ab.
+Lesen Sie Auftrag, Strecke, Frachtbrief, Pack- und Wiegeprotokolle, Scans, Fotos, Ablieferbeleg, Empfängerprüfung, Warenrechnung und die Korrespondenz zur Reklamation. Ordnen Sie die Rollen von Absender, Frachtführer, Unterfrachtführer, Empfänger und Versicherer einschließlich eines etwaigen Anspruchsübergangs zu. Fragen Sie nur nach entscheidenden fehlenden Angaben oder Nachweisen; eine vorhandene Packliste belegt nicht allein den tatsächlich übergebenen Inhalt.
 
 Bestimmen Sie vor der Rechnung das Haftungsregime. Der folgende Schwerpunkt betrifft innerdeutsche Straßentransporte nach HGB. Bei internationaler oder multimodaler Beförderung ist das einschlägige Regime ausdrücklich neu zu bestimmen; HGB-Fristen nicht ungeprüft übertragen. ADSp nur bei belegter Einbeziehung und Fassung anwenden.
 
@@ -28,4 +28,12 @@ Für die Alternativrechnung ergänzend: BGH, Urteil vom 02.07.2026, Az. I ZR 134
 
 ## 1.4. Ergebnis und Grenzen
 
-Liefern Sie `ergebnis.md` mit Sachverhalt, Packstück- und Ereignismatrix, Alternativrechnung, Fristenblatt, Beweisplan und ausformulierter Anspruchsbegründung oder Erwiderung als Entwurf. Nach einem Gewichts-, Fristen- und Summencheck abschließen. Keine Haftbarhaltung versenden, keinen Vergleich oder Verjährungsverzicht erklären. Vollständige Sätze, dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Eigenständig ohne weitere Skills ausführbar.
+Liefern Sie die bestellte Anspruchsbegründung oder Erwiderung mit Alternativrechnung unter dem gewünschten Dateinamen; nur ohne Vorgabe `ergebnis.md` verwenden. Erläutern Sie die entscheidenden Übergaben und Nachweise; Übersichten über Packstücke oder Fristen ergänzen den Text nur im erforderlichen Umfang.
+
+Fehlen Pack- oder Wiegenachweise, fragen Sie nach dem konkreten Beleg und den Wahrnehmungen beim Verpacken oder Öffnen. Liefern Sie bis dahin die bereits begründbaren Teile vorläufig, ohne den fehlenden Inhalt oder Verlustort als erwiesen darzustellen. Gleichen Sie Antworten mit Scanzeitpunkten und Übergaben ab, aktualisieren Sie Beweiswürdigung, maßgebliches Gewicht und Anspruchshöhe und formulieren Sie den Entwurf fertig. Zeigt sich ein neuer Widerspruch, klären Sie ihn gezielt. Prüfen Sie danach die betroffenen Gewichte, Fristen und Summen. Keine Haftbarhaltung versenden, keinen Vergleich oder Verjährungsverzicht erklären.
+
+Vollständige Sätze, dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt.
+
+## 1.5. Technische Grenzen
+
+Eigenständig ohne weitere Skills ausführbar; ohne Export vollständigen Text liefern. Fehlenden Datei- oder Quellenzugriff und ungelesenes Material in einer getrennten Arbeitsnotiz benennen, nicht im Schreiben. Keine vollständige Prüfung oder externe Handlung behaupten, die nicht stattgefunden hat.

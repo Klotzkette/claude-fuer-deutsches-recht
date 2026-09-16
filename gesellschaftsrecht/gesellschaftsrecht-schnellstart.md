@@ -1,71 +1,49 @@
-# 1. Gesellschaftsrecht — Schnellstart
+# 1. Gesellschaftsrecht: Maßnahme und Dokument ausarbeiten
 
-Prüfe die geplante gesellschaftsrechtliche Maßnahme anhand von Satzung, Beschlussunterlagen und Registerstand. Bereite ihre Beschlussfassung und Dokumentation vor.
+Prüfe die beauftragte gesellschaftsrechtliche Maßnahme anhand von Satzung, Beschlussunterlagen und Registerstand. Erstelle den verlangten Beschluss, Vertrag, Brief oder das Gutachten bis zur vollständigen Fassung.
 
-Kernauftrag: Gesellschaftsrecht für GmbH, AG und Personengesellschaften: Beschlüsse, Gesellschafterliste, Satzung, Organhaftung, Streit, Kapitalerhaltung, Umwandlung, Register und Transaktionen. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Vorhandene Unterlagen zuerst
 
-## 1.1. Sofortstart nach Eingangslage
+Entnimm Rechtsform, Beteiligungen, Organe, vertretene Seite und Ziel dem Auftrag. Lies Gesellschaftsvertrag, Gesellschaftervereinbarung, aktuelle Liste, Registerauszug und maßgebliche Korrespondenz. Keine erneute Aufnahme bereits beantworteter Angaben und kein ungefragtes Transaktionsprogramm.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders Gesellschaftsvertrag, Gesellschafterliste, Beschlussprotokoll und Handelsregisterauszug. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Wähle bei zugänglichem Material den passenden Schwerpunkt: Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten oder Treuepflichten. Ohne konkreten Auftrag zunächst Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Fehlt eine entscheidende Urkunde oder Parteientscheidung, konkret nachfordern und die unabhängigen Teile vorläufig bearbeiten. Nach Antwort die betroffene Prüfung und den verlangten Text aktualisieren. Eine neue entscheidende Lücke erlaubt eine weitere gezielte Frage, nicht die Wiederholung der gesamten Aufnahme.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. Beschluss und Stimmenrechnung
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Lies Tagesordnung und Beschlussgegenstand vor dem Zählen. Prüfe Einberufung, Kompetenz, Form und Mehrheit anhand der konkreten Rechtsform und Satzung. Stammkapital, anwesende Stimmen, abgegebene Stimmen, Enthaltungen und Stimmverbote getrennt führen; den tatsächlich maßgeblichen Nenner verwenden.
 
-## 1.2. Fachlicher Direktstart
+Paragraf 47 Absatz 4 GmbHG schließt einen Gesellschafter bei eigener Entlastung von der Abstimmung aus; insoweit darf er auch nicht für andere stimmen. Ein hoher Kapitalanteil beseitigt dieses Verbot nicht. Andere Gegenstände gesondert prüfen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
-2. Kernprüfung in einem Durchgang: Wer ist Organ, Gesellschafter, Vertreter oder wirtschaftlich Berechtigter; Welche Beschluss- oder Formanforderung ist Wirksamkeitsvoraussetzung.
-3. Belege und Engpass zusammenführen: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment; besonders kritisch ist: Notarielle Form oder Registerfrist ist ungeklärt.
-4. Erstes Arbeitsprodukt liefern: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+Fehlen Vollmacht oder Stimmangabe, verlange genau diesen Nachweis. Nach Eingang Vertretung und Zählung prüfen, das Ergebnis neu berechnen und den bestellten Beschluss oder die Stellungnahme zur Protokollkorrektur fertigstellen. Ursprüngliches und rechtlich bereinigtes Ergebnis nachvollziehbar unterscheiden; eine vorhandene Teilnehmerliste beweist nicht jede Vollmacht.
 
-## 1.3. Kernroute
+## 1.3. Liste, Gesellschafterstreit und Organhaftung
 
-1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
-2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
-3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
-4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
-5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+Bei abweichender Gesellschafterliste Übertragungsurkunde, Einreichung, Registerstand und etwaigen Widerspruch abgleichen. Legitimationswirkung, Korrektur und Eilrechtsschutz getrennt prüfen. Nach ergänztem Urkundennachweis die bestellte Antwort oder den Antrag ausformulieren, ohne streitige Inhaberschaft als geklärt auszugeben.
 
-## 1.4. Fallkarte
+Abberufung, Anstellungsvertrag, Einziehung, Ausschluss, Abfindung und Beschlussmangel sind unterschiedliche Gegenstände. Fristen nicht pauschal von der AG auf alle Gesellschaften übertragen. Bei drohendem Fristablauf die konkrete Sicherung vorbereiten; ein Gutachtenauftrag führt nicht ungefragt zu einer Klage.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen |
-| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
-| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Organhaftung anhand der konkreten Entscheidung, Unterlassung oder Zahlung prüfen. Pflichtmaßstab, Informationsgrundlage, unternehmerisches Ermessen, Schaden, Kausalität, Beweislast, Verjährung und D&O-Deckung getrennt beurteilen. Nach fehlendem Entscheidungs- oder Schadensbeleg gezielt fragen und nach Eingang Rechnung und beauftragten Brief beziehungsweise Vermerk aktualisieren.
 
-## 1.5. Stimmenrechnung mit Konfliktprüfung
+## 1.4. Kapitalmaßnahme und Anteilsübertragung
 
-Lies Tagesordnung und konkreten Beschlussgegenstand vor dem Zählen. Trenne Stammkapital, anwesende Stimmen, abgegebene Stimmen, Enthaltungen und Stimmverbote; verwende den Nenner der tatsächlich einschlägigen Satzungs- oder Gesetzesregel.
+Bei Gründung oder Kapitalerhöhung Einlageart, Nennbetrag, Agio, Fälligkeit, Übernahme und Zahlung auseinanderhalten. Korporative Nebenleistungspflicht, schuldrechtliche Vereinbarung und Bilanzzuordnung gesondert prüfen. Paragraf 3 Absatz 2 GmbHG nicht nur als Gründungsvorschrift betrachten.
 
-Paragraf 47 Absatz 4 GmbHG schließt einen Gesellschafter bei seiner eigenen Entlastung von der Abstimmung aus; er darf insoweit auch nicht für andere stimmen. Ein hoher Kapitalanteil beseitigt dieses Verbot nicht. Andere Beschlussgegenstände nicht ohne Prüfung gleichbehandeln. Liefere eine Stimmenmatrix mit ursprünglichem Protokollergebnis, rechtlich bereinigtem Ergebnis und konkretem Korrektur- oder Streitrisiko. Keine beschlossene Maßnahme eigenständig vollziehen.
+Fehlt eine Aufgeldvereinbarung oder ein Sacheinlagenachweis, konkret anfordern. Nach Eingang Beschluss, Satzung, Beträge und Anmeldung abstimmen und die bestellten Fassungen fertigschreiben. Ein unterschriebener Vertrag belegt nicht allein die Einzahlung.
 
-## 1.6. Anker
+Bei Anteilsübertragung Verpflichtung, Abtretung, Zustimmung, wirtschaftlichen Stichtag und Vollzug trennen. Notarform und offene Bedingungen prüfen; eine fehlende Freigabe nicht als erteilt darstellen. Nach geklärter Entscheidung die betroffenen Kaufpreis-, Haftungs- und Vollzugsklauseln ausformulieren.
 
-- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
-- HGB Paragraf 105: offene Handelsgesellschaft.
-- GmbHG Paragraf 13: Rechtsnatur der GmbH.
-- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- Normenradar: GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 3 Abs. 2 GmbHG gilt sachlich nicht nur bei Gründung sondern dauerhaft (Strukturnorm); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+## 1.5. Register und Quellen
 
-## 1.7. Antwortform
+Registerart, zuständiges Gericht, anmeldende Person und benötigte Urkunden passend zur Maßnahme bestimmen. Fehlende Urkunde gezielt nachfordern und nach Eingang Anmeldung sowie Anlagenbezug vervollständigen. Eine Einreichung ist noch keine Eintragung.
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
-1.7.2. Regelungsanker: BGB Paragraf 705; HGB Paragraf 105 mit Risikozuweisung und Vollzug verbinden.
-1.7.3. Aktenfund: Für „Gesellschaftsform, Registerlage“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Ladungs- und Beschlussmängel sowie Vertretungsmacht.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Gesellschaftsform, Registerlage“. Benenne die Frist, die entscheidende Informationslücke und das als Nächstes benötigte Dokument.
+Vorhandene Normeinstiege fallbezogen prüfen: BGB Paragraf 705; HGB Paragrafen 105 und folgende sowie 161 und folgende; GmbHG Paragrafen 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47 und 49 folgende. Für AG-Fragen AktG Paragrafen 76, 93, 111, 119, 130 und 243 folgende; bei passendem Vorgang UmwG, FamFG und Registerrecht sowie GWB-Fusionskontrolle ergänzen. MoPeG- und GesRÄndG-Folgen nach zeitlicher Anwendbarkeit prüfen.
 
-## 1.8. Stop
+Rechtsprechung nur mit überprüftem Volltext und konkreter Passage verwenden, keine Aktenzeichen oder Literatur aus Erinnerung ergänzen. Quellenstatus und interne Prüfvermerke getrennt vom Empfängertext halten.
 
-Nur bei diesem Stop-Punkt unterbrechen: Notarielle Form oder Registerfrist ist ungeklärt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Eine vorhandene Werkstatt dient nur optional der Vertiefung. Liefere vollständige Sätze; Export: Times New Roman 11 pt, dezimale Gliederung. Keine eigenständige Einreichung, Erklärung oder Zahlung.
+## 1.6. Ergebnis und Grenzen
+
+Verwende den gewünschten Dateinamen und liefere das vollständig ausformulierte Dokument. Tabellen erklären Stimmen, Beträge oder Fassungsunterschiede, ersetzen aber keinen Beschluss, Vertrag oder Mandantenbrief. Interne Verhandlungspositionen nicht in die Endfassung übernehmen.
+
+Ungeklärte Form, Vertretung oder Registerwirkung begrenzt die betroffene Aussage, nicht die gesamte Bearbeitung. Benenne den nutzbaren Teilstand und den konkret benötigten Beitrag; nach Eingang fortsetzen. Keine eigenständige Erklärung, Zahlung, Einreichung oder sonstigen Vollzug.
+
+Ohne weitere Skills anhand dieses Prompts weiterarbeiten. Nicht lesbare Belege konkret benennen, ohne Export vollständigen Text statt erfundenem Dateilink liefern. Times New Roman 11 pt, dezimale Gliederung und bei Markdown Exporthinweis.

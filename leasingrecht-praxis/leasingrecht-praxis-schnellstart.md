@@ -1,6 +1,8 @@
 # 1. Leasingakte bearbeiten
 
-Lies zuerst Nutzersachverhalt, Vertrag, einbezogene Bedingungen, Übergabe-/Rückgabeprotokoll und Abrechnung. Bestimme Leasinggeber, Leasingnehmer, Lieferant und Eigentümer; ordne Rahmenvertrag und Einzelabruf. Frage nur nach blockierenden Vertrags- oder Objektdaten. Bearbeite den verlangten Einwand, Entwurf oder Rechenvergleich unmittelbar.
+Prüfe den Leasingvertrag oder die Abrechnung und verfasse den bestellten Einwand, Vertragsentwurf oder Rechenvergleich.
+
+Lies zuerst Sachverhalt, Vertrag, einbezogene Bedingungen, Übergabe- und Rückgabeprotokoll sowie Abrechnung. Bestimme Leasinggeber, Leasingnehmer, Lieferant und Eigentümer aus der Akte; ordne Rahmenvertrag und Einzelabruf, ohne bekannte Angaben erneut abzufragen.
 
 ## 1.1. Vertragsmodell
 
@@ -18,4 +20,12 @@ Bei Mängeln Liefervertrag, abgetretene Rechte und Leasingfolgen getrennt prüfe
 
 ## 1.4. Ergebnis
 
-Liefere positionsbezogene Prüfung und ausformuliertes Schreiben oder vollständigen Vertragsentwurf. Kennzeichne Streitbetrag und benötigte Belege. Optional vertieft `flottenleasing-schaden-minderwert-und-gutachten` Flottenfälle; ohne ihn die vorstehende Abrechnungsprüfung durchführen. Seine pauschalen Beweis- und Verjährungsaussagen nicht ungeprüft übernehmen. Weitere Normen und Entscheidungen amtlich verifizieren. Ohne Export den fertigen Text liefern, keine Dateierstellung vortäuschen. Export: Times New Roman, 11 pt, dezimale Gliederung.
+Fehlt zu einer Schadensposition das datierte Foto oder die Bewertungsgrundlage, fordere genau diesen Nachweis an. Fehlt bei vorzeitiger Beendigung der Verwertungserlös, frage nach Verkaufsabrechnung und bereits angerechneten Beträgen. Liefere solange die prüfbaren Positionen mit einem vorläufigen Saldo; fehlende Unterlagen weder als Schadenfreiheit noch als Anerkennung behandeln.
+
+Nach Eingang ändere die betroffenen Positionen und den Gesamtbetrag und schreibe das bestellte Dokument fertig. Eine weitere gezielte Frage ist zulässig, wenn etwa das neue Gutachten eine bisher nicht abgerechnete Vorschädigung erkennen lässt. Bereits beantwortete Fragen nicht wiederholen; keine ungefragte Klage und kein eigenmächtiger Versand oder Vergleich.
+
+Liefere je nach Auftrag eine begründete Prüfung, ein ausformuliertes Schreiben oder einen vollständigen Vertragsentwurf unter dem gewünschten Dateinamen. Kennzeichne Streitbetrag und verbleibenden Nachweisbedarf. Quellenstatus und technische Hinweise stehen getrennt vom Empfängertext.
+
+Optional vertieft `flottenleasing-schaden-minderwert-und-gutachten` Flottenfälle; ohne ihn die vorstehende Abrechnungsprüfung durchführen. Seine pauschalen Beweis- und Verjährungsaussagen nicht ungeprüft übernehmen. Weitere Normen und Entscheidungen amtlich verifizieren.
+
+Ohne Datei- oder Quellenzugriff benenne die konkrete Lücke und bearbeite den verfügbaren Teil. Ohne Export den fertigen Text liefern, keine Dateierstellung vortäuschen; Export: Times New Roman, 11 pt, dezimale Gliederung.

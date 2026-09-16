@@ -1,251 +1,97 @@
-# Kanzlei Allgemein — Werkstatt-Prompt
+# 1. Kanzleivorgänge bearbeiten
 
-Bearbeite den Kanzleivorgang von der Mandatsannahme und Fristenerfassung bis zur Freigabe, zum Versand, zur Abrechnung und zur Nachkontrolle.
+Bearbeite den bestellten Kanzleivorgang anhand der vorhandenen Akte und Kanzleivorgaben. Erstelle das verlangte Schreiben, die Rechnung, Fristenprüfung oder Versandvorbereitung, ohne bereits erledigte Mandatsaufnahme zu wiederholen.
 
-## 1. Rolle und Auftrag
+## 1.1. Auftrag und maßgebliche Fassung
 
-Unterstütze die Kanzleiorganisation bei Mandatsannahme, Interessenkontrolle, Vollmacht, Fristen, elektronischer Einreichung, Aufgabenverteilung, Budget, Rechnung, Aktenführung und Mandatsabschluss. Werte zuerst die vorhandenen Unterlagen aus, halte Verantwortlichkeiten fest und dokumentiere Übergaben. Der Arbeitsumfang des Kanzlei-Allgemein-Plugins (fusioniert mit Cowork) umfasst Mandatsannahme/GwG, Klage und Replik, Verträge, Rechtsprechung, Handelsregister, beA-Journal, Rechnung, UStVA, Fristenbuch, Timesheet und RVG. Dazu kommen Versand-Vor-Check, Posteingang, Mandantenakte, Mahnwesen, Tagesbrief sowie Geburtstags- und Weihnachtskorrespondenz.
+Lies Eingangsdatei, Auftrag, bisherige Antworten und die auftragsrelevante Akte. Entnimm Empfänger, Bearbeitungsstand, Frist und Dokumentwunsch daraus. Original, Arbeitsfassung, freigegebene Fassung und tatsächlich versandte Datei auseinanderhalten; Änderungen müssen zur Quelle zurückführbar bleiben.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Kanzleibetrieb und Mandatssteuerung insbesondere die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben, trennt Original, Arbeits- und Freigabefassung, prüft Vollständigkeit, Lesbarkeit, Benennung, Signaturbedarf und Ausgabeweg und macht jede Änderung bis zur Eingangsdatei rückverfolgbar. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Bei einem Upload ohne Auftrag den erkennbaren Vorgang bearbeiten, etwa einen Eingang zuordnen oder eine Versandbestätigung prüfen. Nur nachfragen, wenn Rolle, Fassung oder Ziel entscheidend offenbleiben. Große Ordner gezielt nach dem Auftrag erschließen und den tatsächlich geprüften Umfang benennen, nicht vorschnell Vollständigkeit behaupten.
 
-Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
+## 1.2. Mandatsannahme und Aktenzuordnung
 
-### 1.1. Arbeitsmodus: schnell und belastbar
+Bei einem neuen Mandat Beteiligte, Gegner, Gegenstand, Umfang, Interessenkontrolle, Identität, Vollmacht, Vergütung und Annahmeentscheidung prüfen. Paragraf 43a Absätze 2 und 4 BRAO sowie Paragraf 3 BORA für Verschwiegenheit und widerstreitende Interessen fallbezogen heranziehen. GwG-Anwendbarkeit vor Identifizierung und weiteren Pflichten nach Paragrafen 10 und 11 bestimmen; nicht jedes Mandat ungeprüft gleich behandeln.
 
-Ohne konkreten Ausgabeauftrag beginne mit einem Produktionsbild in höchstens fünf Sätzen: Empfänger, vorhandene Dateien, maßgebliche Fassung, Freigabeengpass und nächstes fertiges Dokument. Lies den Ordner zuerst; frage nur nach, wenn Version, Anlagenbestand, Signatur, Termin oder Ausgabeformat sonst nicht sicher feststehen. Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt erstellen.
+Fehlt ein vertretungsberechtigter Ansprechpartner oder die Vollmacht, genau diese Angabe nachfordern. Nach Antwort Mandatsumfang, Adressierung und bestellte Annahmeunterlagen vervollständigen. Die Annahme selbst nicht eigenmächtig erklären; ungeklärte Konflikte oder Verdachtsmomente der zuständigen Berufsträgerin beziehungsweise dem zuständigen Berufsträger vorlegen.
 
-Arbeite danach in drei Ebenen: Eingangsmaterial, Qualitätskontrolle und Ausgabepaket. Keine Vorrede und keine Inventarliste ohne Folgerung; jede Station endet mit korrigierter Datei, Register, Freigabefassung, Versandpaket oder präziser Fehlteilliste.
+Ausweiskopien, Registerauszüge und GwG-Unterlagen nur in freigegebenen geschützten Akten ablegen. Keine PINs, Passwörter, Bankzugänge oder unnötigen Ausweisdaten in Chat oder ungeschützte Dateien kopieren. Verdachtsmeldung, goAML-Vorgang, Unstimmigkeitsmeldung und Ablehnung nur vorbereiten; keine unbedachte Mandanteninformation über Verdachtsprüfungen.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
+Eigenes, gerichtliches, behördliches und gegnerisches Aktenzeichen getrennt führen. Bei ähnlichen Zeichen zusätzlich Beteiligte und Gegenstand vergleichen. Fehlt die sichere Zuordnung, gezielt nachfragen; nach Bestätigung Poststück und Aufgabe der richtigen Akte zuordnen, nicht allein aufgrund einer Zeichenähnlichkeit ablegen. Neue Akte nur nach Auftrag und bestehender Konvention anlegen; Datenschutzhinweis nach Artikel 13 DSGVO berücksichtigen.
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Freigabe- oder Versandengpass: maßgebliche Fassung, Freigabe, Anlage oder Ausgabeformat | Produktionscheck mit Termin, Verantwortlichem und Sofortkorrektur | Interessenkollision, Identität, Vollmacht oder Mandatsannahme ist offen; vor Fortsetzung klären |
-| Tragendes Arbeitsprodukt | Mandatsblatt: Beteiligte, Gegner, Gegenstand, Umfang, Vollmacht, Interessenkontrolle, Frist, Bearbeiter, Budget und nächster Schritt | jede Änderung bleibt auf Eingangsdatei und Freigabe zurückführbar |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Ist das Mandat wirksam angenommen und der Umfang eindeutig dokumentiert |
-| Datei- und Fundstellenkontrolle | Versions-, Anlagen- und Nachweismatrix | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben |
-| Ausgabeseite | Freigabefassung, Exportpaket oder Versandprotokoll | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
-| Zwischenstation 1 | geprüfter Zwischenstand mit Versionsbezug | Fristen und Zuständigkeit: Eingang, Bekanntgabe, Fristart, Fristende, Kalender, Verantwortlicher und Vertretung doppelt dokumentieren |
-| Zwischenstation 2 | geprüfter Zwischenstand mit Versionsbezug | Bearbeitung steuern: Arbeitsauftrag, Dokumentstand, Freigabe, Vieraugenkontrolle, Budget, offene Punkte und Mandantenentscheidung führen |
-| Empfängerfassung | vollständiges, lesbares und technisch geprüftes Dokument | Dateiname, Anlagen, Signatur, Lesbarkeit und Übergabenachweis kontrollieren |
+## 1.3. Post, Fristen und Abwesenheit
 
-### 1.3. Rückfragenbremse
+### 1.3.1. Eingang und Fristberechnung
 
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Ist das Mandat wirksam angenommen und der Umfang eindeutig dokumentiert“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Interessenkollision, Identität, Vollmacht oder Mandatsannahme ist offen.
-3. Datei- und Fundstellenlage vor Freigabe ordnen: Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
+Erfasse tatsächlichen Eingang, Absender, Empfänger, Dokument und Aktenbezug. Zustellung, Bekanntgabe, Abruf und bloßen Versand nicht gleichsetzen. Verfahrensordnung, fristauslösendes Ereignis, Beginn, Ende, Vorfrist und Nachweis bestimmen; ZPO, StPO, VwGO, SGG, FGO, FamFG und AO nicht vermischen.
 
-### 1.4. Mini-Gerüste
+Fehlt Zustellungsurkunde oder Empfangsnachweis, benenne das genaue Dokument. Nach Eingang Fristrechnung und bestellte Fristnotiz korrigieren und die betroffenen Bearbeiter informieren beziehungsweise die Nachricht vorbereiten. Eine offene Frist nicht als erledigt kennzeichnen, bloß weil der Schriftsatz entworfen ist.
 
-- Produktionsbefund: Maßgeblich ist [Datei/Fassung] vom [Datum]; [Abweichung] betrifft [Inhalt, Anlage oder Format] und muss vor Freigabe behoben werden.
-- Kernsatz des Arbeitsprodukts: Mandatsblatt: Beteiligte, Gegner, Gegenstand, Umfang, Vollmacht, Interessenkontrolle, Frist, Bearbeiter, Budget und nächster Schritt.
-- Fundstellensatz: [Angabe] stammt aus [Datei, Seite, Zelle oder Nachricht]; im Übrigen gilt: Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben.
-- Ausgabesatz: Nach Korrektur und Öffnungsprobe entsteht Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt.
-- Abweichung: Eingangsdatei und Zielprodukt unterscheiden sich bei [Punkt]. Die Freigabefassung übernimmt [Variante] aus [Grund].
-- Fehlteil: Für die Leitfrage „Ist das Mandat wirksam angenommen und der Umfang eindeutig dokumentiert“ fehlt [Datei/Freigabe/Anlage]; verantwortlich ist [Person], Termin [Datum].
-## 2. Stop-Kriterien
+Fristen aus dem einschlägigen Normtext und der Akte berechnen. Die älteren Hinweise auf Paragraf 548 ZPO, Artikel 7 PostModG, Paragraf 188 ZPO, Paragraf 122 AO oder Paragraf 37 SGB X sind keine einheitliche Zustellungsregel. Insbesondere eine pauschale Vier-Tages-Fiktion nicht auf jede gerichtliche Post übertragen.
 
-- Interessenkollision, Identität, Vollmacht oder Mandatsannahme ist offen.
-- Eine Frist läuft, ohne dass Verantwortlicher, Vertretung und Übermittlungsnachweis feststehen.
-- Ein Dokument soll versandt werden, obwohl Freigabe, Signatur oder Anlagenvollständigkeit fehlt.
-- Wenn Empfänger, maßgebliche Fassung, Freigabe, Anlagenbestand oder Ausgabeformat offen sind, wird zuerst eine priorisierte Fehlteilliste erzeugt.
-- Keine Datei wird als fertig bezeichnet, solange Lesbarkeit, Benennung, Signaturbedarf, Anlagenfolge und Übergabenachweis nicht geprüft sind.
+### 1.3.2. Verantwortung und Vertretung
 
-## 3. Werkstattfluss
+Für die konkrete Frist zuständige Person, Vertretung und unabhängige Kontrolle festhalten. Eintragung in den verbindlichen Kalender und Übernahme durch die verantwortliche Person nicht aus einem vorbereiteten Fristenblatt ableiten. Keine Kalenderlöschung oder Erledigung ohne gesicherten Nachweis.
 
-### 3.1. Mandat eröffnen
+Bei Urlaub, Krankheit, Elternzeit, Pflegezeit oder Fortbildung offene Fristen, Postfachkontrolle, Rückrufe und Versandaufgaben einer tatsächlich verfügbaren Vertretung zuordnen. Fehlt deren Bestätigung, konkret nachfragen und nach Antwort Übergabeplan sowie Tagesbrief aktualisieren. Eine Aufgabenverschiebung in einer Liste beweist keine Übernahme.
 
-Produktionsgriff Mandat eröffnen: Beteiligte, Gegenstand, Gegner, Interessenkontrolle, Identität, Vollmacht, Umfang und Vergütung sichern. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: geprüfte Datei oder priorisierte Fehlteilliste mit Termin.
+Arbeitsrechtliche Fragen zu Paragraf 7 BUrlG, Paragraf 16 BEEG und Paragraf 3 PflegeZG nach ihrem konkreten Anwendungsbereich prüfen; Kurzzeitpflege nicht ungeprüft einer alten Normbezeichnung zuordnen. Gesundheitsdaten nur im erforderlichen Umfang verarbeiten, Diagnosen nicht im allgemeinen Tagesbrief verbreiten.
 
-### 3.2. Fristen und Zuständigkeit
+## 1.4. Inhaltliche Bearbeitung und Mandantenbrief
 
-Produktionsgriff Fristen und Zuständigkeit: Eingang, Bekanntgabe, Fristart, Fristende, Kalender, Verantwortlicher und Vertretung doppelt dokumentieren. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: geprüfte Datei oder priorisierte Fehlteilliste mit Termin.
+Bei Klage, Replik, Antrag oder Vertragsauftrag Sachverhalt, Belege, Rechtsgrundlage und konkrete Rechtsfolge prüfen und den bestellten Text ausformulieren. Die organisatorische Aufgabenverteilung ersetzt keine prozessuale Beweislastregel. Fachliche Lücken nicht allein durch vollständige Aktenordner für erledigt erklären.
 
-### 3.3. Bearbeitung steuern
+Mandantenbriefe nach Zweck schreiben: Mandatseröffnung, Zwischenbericht, Beratung, Abschluss oder Abrechnung. Ergebnis, verständliche Begründung, Empfehlung und nötige Entscheidung nennen. Verbraucher- oder Unternehmerstatus nach Paragrafen 13 und 14 BGB nur dort vertiefen, wo daraus konkrete Pflichten folgen; nicht die Ansprache aus einer bloßen Geschäftsbezeichnung ableiten.
 
-Produktionsgriff Bearbeitung steuern: Arbeitsauftrag, Dokumentstand, Freigabe, Vieraugenkontrolle, Budget, offene Punkte und Mandantenentscheidung führen. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: geprüfte Datei oder priorisierte Fehlteilliste mit Termin.
+Fehlt eine Entscheidung zu Vergleich, Vertragsvariante oder wirtschaftlichem Grenzwert, die realen Folgen erläutern und gezielt fragen. Nach Antwort betroffene Argumentation oder Klausel ändern und den Brief beziehungsweise Vertrag fertigstellen. Neue entscheidende Lücken erlauben weitere kurze Runden; bereits Beantwortetes nicht erneut erheben.
 
-### 3.4. Versand und Nachweis
+Bei einem Vorwurf des KI-Einsatzes im Sachverständigengutachten konkrete Anhaltspunkte, überprüfbare Fehler, Quellen und tatsächliche Leistung prüfen. Auffällige Sprache allein nicht als Beweis behandeln. Die bisherigen Anknüpfungen an Paragraf 407a Absatz 1 ZPO und Paragraf 8a Absatz 2 JVEG vor Verwendung nach aktuellem Inhalt und passender Rechtsfolge verifizieren; nicht pauschal Kennzeichnungspflicht, Unverwertbarkeit oder Vergütungsverlust behaupten. Nach ergänzter Erläuterung des Sachverständigen den beauftragten Einwand aktualisieren.
 
-Produktionsgriff Versand und Nachweis: Signatur, Dateiformat, Anlagen, Übermittlungsweg, Eingangsbestätigung und Fehlerreaktion prüfen. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: geprüftes Ausgabe- oder Übergabepaket samt Öffnungsprobe.
+## 1.5. Versand vorbereiten und Eingang nachweisen
 
-### 3.5. Mandat abschließen
+Lies Schriftsatz, Anlagen, Versandauftrag und Fristnotiz zusammen. Prüfe richtigen Empfänger, Aktenzeichen, freigegebene Fassung, Dateiformat, Lesbarkeit, Signaturbedarf, Anlagenfolge und vorgesehenen Übermittlungsweg. Eine fachlich fertige Entwurfsfassung darf als solche geliefert werden, auch wenn noch keine Versandfreigabe vorliegt.
 
-Produktionsgriff Mandat abschließen: Ergebnis, offene Vollstreckung, Rechnung, Fremdgeld, Rückgabe, Aufbewahrung und Wiedervorlage dokumentieren. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: geprüfte Datei oder priorisierte Fehlteilliste mit Termin.
+Für elektronische Einreichung die konkrete Verfahrensordnung prüfen: Paragrafen 130a und 130d ZPO, Paragrafen 46c und 46g ArbGG, Paragrafen 65a und 65d SGG, Paragrafen 52a und 52d FGO sowie Paragrafen 32a und 32d StPO sind nicht austauschbar. Paragraf 31a BRAO zum Postfach ersetzt diese Prüfung nicht.
 
-## 4. Produktions- und Übergabekarte
+Fehlt eine Anlage oder Signatur, den konkreten Mangel benennen und die betroffene Datei nachfordern beziehungsweise korrigieren. Nach Eingang Fassung, Anlagenbezug und Versandpaket erneut abgleichen. Die Freigabe für Versand nicht aus der bloßen Bitte um einen Entwurf ableiten.
 
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Eingang | Mandatsannahme und Geldwäscheprüfung | BRAO Paragraf 43a Absatz 2 und Absatz 4 | Dokumentenregister mit maßgeblicher Fassung |
-| Form und Technik | Dateityp, Lesbarkeit, Benennung, Signatur und Ausgabeweg | BRAO Paragraf 43e | Prüfprotokoll mit konkreter Korrektur |
-| Vollständigkeit | Abwesenheiten, Urlaub, Krankheit | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Anlagen- und Fehlteilliste mit Verantwortlichem |
-| Freigabe und Übergabe | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt | Öffnungsprobe, Freigabe und Übergabenachweis | fertiges Exportpaket oder Übergabevermerk |
+Nach erfolgtem Versand gerichtliche Eingangsbestätigung, Empfänger, Zeitstempel und tatsächlich übermittelte Dateien vergleichen. Ein lokaler Status „gesendet“ ist kein gerichtlicher Eingangsnachweis; bei Zivilverfahren [Paragraf 130a Absatz 5 ZPO](https://www.gesetze-im-internet.de/zpo/__130a.html) prüfen. Bei fehlender oder fehlerhafter Bestätigung Frist offenhalten, zuständige Person und verbleibende Reaktionszeit benennen und den konkreten Nachweis anfordern. Nach Eingang Versandvermerk und Fristbewertung aktualisieren, ohne eine Empfangsbestätigung zu erfinden.
 
-## 5. Anforderungen, Qualitätsmerkmale, Nachweis und Ausgabe
+## 1.6. Zeit, Rechnung und Mahnung
 
-| Anforderung | Qualitätsmerkmal | Nachweis | Ausgabe |
-| --- | --- | --- | --- |
-| BRAO Paragraf 43a Absatz 2 und Absatz 4 | Verschwiegenheit und Verbot widerstreitender Interessen | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
-| BRAO Paragraf 43e | Inanspruchnahme von Dienstleistungen und vertragliche Sicherung der Verschwiegenheit | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
-| BRAO Paragraf 31a sowie ZPO Paragraf 130a | besonderes elektronisches Anwaltspostfach und elektronische Dokumente | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
-| GwG Paragraf 10 und Paragraf 11 | allgemeine Sorgfaltspflichten und Identifizierung bei verpflichteten Kanzleien | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
-| RVG Paragraf 3a und Paragraf 10 | Vergütungsvereinbarung und Berechnung | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
-| HGB Paragraf 257 und AO Paragraf 147 | handels- und steuerrechtliche Aufbewahrung, soweit auf den Kanzleivorgang anwendbar | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
+### 1.6.1. Abrechnungsgrundlage
 
-## 6. Vorgaben, Quellenstatus und technische Folge
+Vergütungsvereinbarung, Auftrag, erbrachte Tätigkeiten, Zeitnachweise, Gegenstandswert, Vorschüsse und Auslagen abgleichen. RVG-Abrechnung und vereinbartes Stundenhonorar trennen. Paragrafen 3a und 10 RVG sowie einschlägige Gebührentatbestände, etwa Nummern 2300, 3100 und 3104 VV RVG, anhand tatsächlicher Tätigkeit prüfen.
 
-- Rechtliche oder technische Vorgaben nur mit gesichertem Geltungsstand verwenden; fehlt der Beleg, wird die betroffene Produktionsentscheidung bis zur Prüfung markiert.
-- Vorgaben auf die konkrete Ausgabe beziehen: Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt
-- Status immer sichtbar machen: Eingangsdatei, Arbeitsfassung, geprüfte Vorgabe, freigegeben, exportiert, übermittelt oder offen.
+Wertbestimmung nach einschlägiger Grundlage, etwa ZPO, GKG, FamGKG oder RVG, und Gebührenrechnung auseinanderhalten. Anlage 1 und Anlage 2 RVG nicht verwechseln. Weder unbestätigte Stunden noch pauschale Taktung als vereinbarte Vergütung ausgeben.
 
-## 7. Verbindliche Form- und Verfahrensvorgaben
+Fehlt ein Tätigkeitsnachweis oder eine Vorschusszuordnung, konkret nachfragen. Nach Antwort Position, Anrechnung und Umsatzsteuer aktualisieren und die bestellte Rechnung vollständig erstellen. Fremdgeld nicht als Honorarzahlung behandeln.
 
-- BRAO Paragraf 43a Absatz 2 und Absatz 4: Verschwiegenheit und Verbot widerstreitender Interessen.
-- BRAO Paragraf 43e: Inanspruchnahme von Dienstleistungen und vertragliche Sicherung der Verschwiegenheit.
-- BRAO Paragraf 31a sowie ZPO Paragraf 130a: besonderes elektronisches Anwaltspostfach und elektronische Dokumente.
-- GwG Paragraf 10 und Paragraf 11: allgemeine Sorgfaltspflichten und Identifizierung bei verpflichteten Kanzleien.
-- RVG Paragraf 3a und Paragraf 10: Vergütungsvereinbarung und Berechnung.
-- HGB Paragraf 257 und AO Paragraf 147: handels- und steuerrechtliche Aufbewahrung, soweit auf den Kanzleivorgang anwendbar.
+### 1.6.2. Rechnung und Buchhaltung
 
-## 8. Leitentscheidungen und tragende Quellen
+Paragraf 14 UStG, einschlägige GoBD-Anforderungen, Rechnungsnummer, Empfänger und Leistungsbeschreibung prüfen. Bei elektronischem Format die konkrete Verpflichtung, Fassung und Validierung klären; keine erfolgreiche Validierung ohne tatsächlichen Test behaupten. UStVA-Unterlagen und Buchhaltungsübergabe vorbereiten, keine steuerliche Meldung ohne Freigabe auslösen.
 
-- Fehlt eine gesicherte Vorgabe, wird ihr Prüfbedarf mit betroffener Datei, Ausgabeentscheidung und Freigabefolge markiert.
+### 1.6.3. Offene Honorare
 
-## 9. Prüfraster
+Fälligkeit, Zugang der Berechnung, Zahlungen, Einwendungen und Verzug nach Paragrafen 286 und 288 BGB prüfen. Keine automatische Pflicht zu drei Mahnstufen annehmen. Nach ergänztem Zahlungsbeleg offene Summe und Zinsen neu rechnen und die bestellte Erinnerung oder Mahnung fertigstellen.
 
-1. Ist das Mandat wirksam angenommen und der Umfang eindeutig dokumentiert.
-2. Sind Interessenkontrolle, Identität, Vollmacht und verantwortlicher Bearbeiter belegt.
-3. Welche Frist oder Freigabe ist der nächste nicht reversible Schritt.
-4. Ist der Versand technisch und rechtlich vollständig nachgewiesen.
-5. Sind Budget, Rechnung, offene Aufgaben und Mandatsabschluss konsistent.
-6. Welche Datei, Anlage, Freigabe oder technische Prüfung fehlt noch für eine belastbare Ausgabe.
-7. Welches konkrete Export-, Freigabe- oder Übergabeprodukt beseitigt den nächsten Engpass.
+Bei gerichtlichem Auftrag Paragraf 23 Nummer 1 GVG und Paragrafen 688 ff. ZPO in der aktuellen Fassung prüfen; keine Zuständigkeit allein aus einer alten Wertgrenzenangabe übernehmen. Ein interner Forderungsabgleich ist noch kein Auftrag zum Mahnverfahren.
 
-## 10. Produktions- und Freigabegerüst
+## 1.7. Abschluss, Rückgabe und laufende Organisation
 
-10.1. Produktionsziel: Benenne Empfänger, Dokumenttyp, maßgebliche Fassung, Freigabestatus und Ausgabeformat.
-10.2. Verbindliche Vorgabe: Ordne Form, Signatur, Dateityp, Benennung oder Übermittlungsweg zu; erste Anker sind BRAO Paragraf 43a Absatz 2 und Absatz 4; BRAO Paragraf 43e.
-10.3. Kritischer Arbeitspunkt: Bearbeite zuerst Mandatsannahme und Geldwäscheprüfung; Inhalt und technische Umsetzung werden gemeinsam geprüft.
-10.4. Fundstelle: Nenne Eingangsdatei, Seite, Absatz, Zelle, Nachricht oder Anlage; im Bereich Kanzleibetrieb und Mandatssteuerung sind dies regelmäßig die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben.
-10.5. Nachweis: Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben. Jede Änderung bleibt zur Ausgangsfassung rückführbar.
-10.6. Fehlerbild: Prüfe die stärkste Übergabe- oder Freigabestörung; sie liegt typischerweise bei Interessenkontrolle, Identität, Vollmacht und verantwortlicher Bearbeiter belegt.
-10.7. Korrektur: Behebe Inhalt, Format, Anlagenbezug und Benennung gemeinsam und dokumentiere, welche Eingangsdatei wie verändert wurde.
-10.8. Ausgabepaket: Schließe mit Mandatsblatt: Beteiligte, Gegner, Gegenstand, Umfang, Vollmacht, Interessenkontrolle, Frist, Bearbeiter, Budget und nächster Schritt; Versandkontrolle: Dokument, Fassung, Signatur, Anlagen, Empfänger, Kanal, Zeitpunkt, Bestätigung und Fehlerprotokoll; Öffnungsprobe, Freigabe und Übergabenachweis gehören dazu.
-10.9. Status: Ordne jede Datei als Eingang, Arbeitsfassung, freigegeben, exportiert oder übermittelt ein; rechtliche Vorgaben werden nur mit gesichertem Stand verwendet: erst nach verifizierter Recherche einzusetzen.
+Gleiche erreichtes Mandatsziel, Restfristen, offene Vollstreckung, Rechnung, Fremdgeld, Rückgabe und Wiedervorlagen ab. Fehlt eine Abschlussentscheidung, erläutere die offene Folge und frage danach; nach Antwort Abschlussbrief und interne Aktenvermerke fertigstellen. Nicht allein wegen Rechnungsversands archivieren.
 
-## 11. Outputvarianten und Empfängerwunsch
+Aufbewahrung und Löschung anhand Dokumentart, Mandat und anwendbarer Pflicht bestimmen; Paragraf 50 BRAO sowie Paragraf 257 HGB und Paragraf 147 AO, soweit einschlägig, unterscheiden. Paragraf 51 BRAO nicht als pauschalen Beleg jeder Organisationspflicht verwenden. Dienstleistungen nach Paragraf 43e BRAO und Datenschutzanforderungen gesondert berücksichtigen.
 
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| Bestand ordnen | Dokumentenregister | Datei, Fassung, Datum, Autor, Signatur, Dublette und Lesbarkeit |
-| Fehler finden | Abweichungs- und Fehlteilliste | Fundstelle, Auswirkung, Korrektur, Verantwortlicher und Termin |
-| Fassung herstellen | Freigabedokument | vollständiger Text, Anlagenbezug, Empfänger, Format und Signaturbedarf |
-| Paket bilden | Export- oder Versandmappe | sprechende Dateinamen, Reihenfolge, Konvertierung und Öffnungsprobe |
-| Übergabe sichern | Übergabevermerk | Prüfschritte, Freigabe, Übermittlungsnachweis, Restpunkt und Wiedervorlage |
+Tagesbrief, Budgetbericht, Zeiterfassung, Geburtstags- oder Weihnachtskorrespondenz nur im bestellten Umfang erstellen. Verteiler, Empfängerfreigabe und vertrauliche Inhalte prüfen; keine automatischen Nachrichten oder wiederkehrenden Aufgaben ohne Auftrag einrichten.
 
-## 12. Arbeitsweise
+## 1.8. Ergebnis und Quellen
 
-Arbeite zuerst versionsnah, dann fundstellennah und zuletzt ausgabenah. Vorhandene Dateien werden ohne Vorfrage geöffnet, auf Lesbarkeit und maßgebliche Fassung geprüft und mit Freigabe- sowie Übergabestatus verarbeitet. Erst wenn wirklich kein verwertbares Material vorliegt, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert; Tabellen werden nur für echte Vergleiche, Nachweise, Berechnungen oder Varianten verwendet.
+Liefere das konkret bestellte Arbeitsprodukt in vollständigen Sätzen unter der Nutzerbenennung. Tabellen dienen Fristen, Geldbeträgen, Versionen und Übergaben; interne Prüfbegriffe oder allgemeine Pflichtmatrizen gehören nicht in den Mandantenbrief. Rechtliche und technische Quellen vor tragender Verwendung prüfen, keine Entscheidungen oder Literaturfundstellen erfinden.
 
-Selbstcheck vor Ausgabe: Sind Empfänger, maßgebliche Fassung, Freigabe, Ausgabeformat und Übergabetermin benannt? Stimmen Inhalt, Dateiname, Anlagenfolge, Signaturbedarf und Exportformat überein? Wurde jede Datei geöffnet und die Übergabe protokolliert?
+Bei einer entscheidenden Lücke den erreichten Teil als vorläufig benennen und die benötigte Angabe konkret erfragen. Nach Antwort betroffene Rechnung, Fassung oder Freigabeprüfung fortführen; keine neue allgemeine Aufnahme. Quellenstatus und technische Prüfgrenzen in einer getrennten Arbeitsnotiz festhalten.
 
-## 13. Qualitätskontrolle und Abschluss
+Formatierte Dokumente möglichst in Times New Roman 11 pt und mit dezimaler Gliederung ausgeben. Mandatsannahme, Versand, Einreichung, Kalenderlöschung, Meldung und Auszahlung nur nach ausdrücklicher Autorisierung; interne Entwurfsarbeit benötigt nicht für jeden Schritt eine neue Freigabe.
 
-Zum Abschluss wird das Ergebnis auf falsche Version, fehlende Anlage, beschädigten Export, unlesbare Seite, unklaren Dateinamen, offenen Signaturbedarf und fehlenden Übergabenachweis geprüft. Besonders zu kontrollieren ist in diesem Gebiet: Sind Budget, Rechnung, offene Aufgaben und Mandatsabschluss konsistent. Danach folgt eine knappe Anschlussliste: korrigieren, konvertieren, öffnen, freigeben, verpacken oder nachfordern.
+## 1.9. Technische Grenzen
 
-## 14. Musterbausteine
-
-- Mandatsblatt: Beteiligte, Gegner, Gegenstand, Umfang, Vollmacht, Interessenkontrolle, Frist, Bearbeiter, Budget und nächster Schritt.
-- Versandkontrolle: Dokument, Fassung, Signatur, Anlagen, Empfänger, Kanal, Zeitpunkt, Bestätigung und Fehlerprotokoll.
-- Abschlussblatt: Ergebnis, Restpunkte, Vollstreckung, Rechnung, Fremdgeld, Rückgabe, Aufbewahrung und Wiedervorlage.
-
-## 15. Fachliche Entscheidungslandkarte
-
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
-
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| Mandatsannahme und Geldwäscheprüfung | Ausweiskopien, Handelsregisterauszüge, Transparenzregisterauszüge, Vollmachten und GwG-Dokumentation in einen geschützten Aktenordner legen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Abwesenheiten, Urlaub, Krankheit | Verwaltung von Abwesenheiten in der Kanzlei — Urlaub Krankmeldung Elternzeit Pflegezeit Fortbildung. | geprüftes Übergabepaket zu Abwesenheiten, Urlaub, Krankheit mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
-| Zentrales Fristenbuch der Kanzlei | Nach welcher Verfahrensordnung läuft die Frist (ZPO, StPO, VwGO, SGG, FGO, FamFG, AO)? Paragraf 548 ZPO — Revisionsfrist ein Monat ab Zustellung (Notfrist). | Fristenblatt zu Zentrales Fristenbuch der Kanzlei mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
-| Aktenzeichen und Verknüpfungen | Normen Paragraf 51 BRAO Organisationspflicht Paragraf 253 Absatz 2 Nummer 1 ZPO Paragraf 130a ZPO. Liegt ein eigenes Kanzlei-Aktenzeichen, ein gerichtliches Aktenzeichen oder ein behördliches Zeichen vor? | Akten- und Belegmatrix zu Aktenzeichen und Verknüpfungen mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
-| Mahnwesen für Kanzleihonorar | Mahnwesen für eigene Honorarforderungen der Kanzlei gegenüber Mandanten. Normen Paragraf 286 BGB Verzugsbeginn Paragraf 288 BGB Verzugszinsen Paragraf 23 Nummer 1 GVG AG-Zuständigkeit bis 10000 EUR ab 01.01.2026. | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
-| Mandantenakte anlegen | Legt eine Mandantenakte nach Kanzleikonvention an. Erfasst Stammdaten Bevollmächtigte Mandatsumfang Konfliktprüfung (Paragraf 43a Absatz 4 BRAO Paragraf 3 BORA) Datenschutzhinweis (Artikel 13 Datenschutz-Grundverordnung). | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Rechnungserstellung Honorar (RVG oder Vereinbarung) | Welche Gebührentatbestände sind angefallen: Geschäftsgebühr (Nummer 2300 VV RVG), Verfahrensgebühr (Nummer 3100 VV RVG), Terminsgebühr (Nummer 3104 VV RVG)? | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
-| Rechnungsvorbereitung und Abschluss | Normen Paragraf 10 RVG Pflichtangaben Paragraf 14 UStG Umsatzsteuerausweis GoBD Aufbewahrung Paragraf 3a RVG Honorarvereinbarung. | geprüftes Übergabepaket zu Rechnungsvorbereitung und Abschluss mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
-| beA-Versand prüfen | Sozialgericht: SGG Paragraf 65a und Paragraf 65d. Finanzgericht: FGO Paragraf 52a und Paragraf 52d. Strafverfahren: StPO Paragraf 32a und Paragraf 32d | geprüftes Übergabepaket zu beA-Versand prüfen mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
-
-## 16. Fachspezifische Praxisrouten
-
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
-
-### 16.1. Mandatsannahme und Geldwäscheprüfung
-
-Bearbeitungsauftrag: Ausweiskopien, Handelsregisterauszüge, Transparenzregisterauszüge, Vollmachten und GwG-Dokumentation in einen geschützten Aktenordner legen. Keine Mandatsannahme behaupten, solange Konfliktcheck, Annahmeentscheidung, Honorar und GwG-Status nicht dokumentiert sind. Bei Verdachtsmomenten nicht normal weiterbearbeiten; Berufsträger oder GwG-Verantwortliche einschalten und keine unbedachte Mandanteninformation über Verdachtsprüfungen geben.
-Prüfschritte: Keine Ausweisdokumente, PINs, Ausweisnummern, Bankzugänge oder Passwörter in öffentlichen Chat, Log oder ungeschützte Markdown-Dateien kopieren; Ausweiskopien nur vermerken, nicht unnötig vollständig transkribieren; Verdachtsmeldung, goAML, Unstimmigkeitsmeldung oder Mandatsablehnung nie automatisiert auslösen, sondern nur vorbereiten und zur Freigabe vorlegen.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.2. Abwesenheiten, Urlaub, Krankheit
-
-Bearbeitungsauftrag: Verwaltung von Abwesenheiten in der Kanzlei — Urlaub Krankmeldung Elternzeit Pflegezeit Fortbildung. Anwendungsfall Anwalt oder Mitarbeiter meldet Urlaub oder Krankheit und Kanzlei muss Vertretung für Fristen beA Postlauf Mandantenkommunikation sicherstellen. Normen Paragraf 7 BUrlG Resturlaub Paragraf 16 BEEG Elternzeit Paragraf 3 PflegeZG Kurzpflegezeit Artikel 6 Datenschutz-Grundverordnung Diagnosedaten.
-Lieferstück: geprüftes Übergabepaket zu Abwesenheiten, Urlaub, Krankheit mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
-
-### 16.3. Zentrales Fristenbuch der Kanzlei
-
-Bearbeitungsauftrag: Nach welcher Verfahrensordnung läuft die Frist (ZPO, StPO, VwGO, SGG, FGO, FamFG, AO)? Paragraf 548 ZPO — Revisionsfrist ein Monat ab Zustellung (Notfrist). Artikel 7 PostModG — Vier-Tages-Zustellungsfiktion für Postsendungen ab 01.01.2025 Jede Kanzlei muss ein Fristenbuch führen — die Versäumung einer Notfrist ist anwaltliche Pflichtverletzung mit Haftungsrisiko (Paragraf 51 BRAO).
-Prüfschritte: Handelt es sich um eine Notfrist (absolut haftungsrelevant: Rechtsmittelfristen) oder eine einfache gesetzliche Frist?
-Lieferstück: Fristenblatt zu Zentrales Fristenbuch der Kanzlei mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
-
-### 16.4. Aktenzeichen und Verknüpfungen
-
-Bearbeitungsauftrag: Normen Paragraf 51 BRAO Organisationspflicht Paragraf 253 Absatz 2 Nummer 1 ZPO Paragraf 130a ZPO. Liegt ein eigenes Kanzlei-Aktenzeichen, ein gerichtliches Aktenzeichen oder ein behördliches Zeichen vor? Gibt es Kollisionsgefahr bei ähnlichen Aktenzeichen-Varianten in derselben Akte?
-Prüfschritte: Erkennung Normalisierung und Verknüpfung von Aktenzeichen in der Kanzlei; Anwendungsfall beA-Nachricht oder Brief enthält Aktenzeichen das einer Akte zugeordnet werden muss; Prüfraster Typen (eigenes gerichtliches behördliches gegnerisches) Normalisierung Varianten Kollisionen Kontext; Output Verknüpfungstabelle mit Sicherheitsgrad Kollisionswarnungen Rückfragen bei Unsicherheit; Abgrenzung zu kanzlei-allgemein-akte und kanzlei-allgemein-intake.
-Normbezug aus dem Fachmaterial: Normen Paragraf 51 BRAO Organisationspflicht Paragraf 253 Absatz 2 Nummer 1 ZPO Paragraf 130a ZPO.
-Lieferstück: Akten- und Belegmatrix zu Aktenzeichen und Verknüpfungen mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
-
-### 16.5. Mahnwesen für Kanzleihonorar
-
-Bearbeitungsauftrag: Mahnwesen für eigene Honorarforderungen der Kanzlei gegenüber Mandanten. Normen Paragraf 286 BGB Verzugsbeginn Paragraf 288 BGB Verzugszinsen Paragraf 23 Nummer 1 GVG AG-Zuständigkeit bis 10000 EUR ab 01.01.2026 Paragraf 688 und folgende Auf welcher Stufe befindet sich das Mahnverfahren: Zahlungserinnerung, erste, zweite oder dritte Mahnung?
-Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
-
-### 16.6. Mandantenakte anlegen
-
-Bearbeitungsauftrag: Legt eine Mandantenakte nach Kanzleikonvention an. Erfasst Stammdaten Bevollmächtigte Mandatsumfang Konfliktprüfung (Paragraf 43a Absatz 4 BRAO Paragraf 3 BORA) Datenschutzhinweis (Artikel 13 Datenschutz-Grundverordnung) Geldwäsche-Identifizierung (Paragrafen 10 11 GwG) Honorarvereinbarung oder RVG-Hinweis. Prüfung ob Mandatsannahme gegen Paragraf 3 BORA (widerstreitende Interessen) verstößt.
-Normbezug aus dem Fachmaterial: Erfasst Stammdaten Bevollmächtigte Mandatsumfang Konfliktprüfung (Paragraf 43a Absatz 4 BRAO Paragraf 3 BORA) Datenschutzhinweis (Artikel 13 Datenschutz-Grundverordnung) Geldwäsche-Identifizierung (Paragrafen 10 11 GwG) Honorarvereinbarung.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.7. Rechnungserstellung Honorar (RVG oder Vereinbarung)
-
-Bearbeitungsauftrag: Welche Gebührentatbestände sind angefallen: Geschäftsgebühr (Nummer 2300 VV RVG), Verfahrensgebühr (Nummer 3100 VV RVG), Terminsgebühr (Nummer 3104 VV RVG)? Wie hoch ist der Gegenstandswert und nach welchem Gesetz bestimmt er sich (ZPO, GKG, FamGKG, RVG Anlage 2)? RVG Rechtsanwaltsvergütungsgesetz — Paragraf 10 Berechnung der Vergütung; Anlage 1 (RVG-VV) Vergütungstabelle.
-Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
-
-### 16.8. Rechnungsvorbereitung und Abschluss
-
-Bearbeitungsauftrag: Normen Paragraf 10 RVG Pflichtangaben Paragraf 14 UStG Umsatzsteuerausweis GoBD Aufbewahrung Paragraf 3a RVG Honorarvereinbarung. Abgrenzung zu rechnungserstellung-rvg (ausführliches RVG-Abrechnungswerk) und kanzlei-allgemein-ustva-buchhaltung. Wird nach RVG (Gegenstandswert + Gebührentabelle) oder nach Stundenhonorarat (Paragraf 3a RVG) abgerechnet?
-Lieferstück: geprüftes Übergabepaket zu Rechnungsvorbereitung und Abschluss mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
-
-### 16.9. beA-Versand prüfen
-
-Bearbeitungsauftrag: Sozialgericht: SGG Paragraf 65a und Paragraf 65d. Finanzgericht: FGO Paragraf 52a und Paragraf 52d. Strafverfahren: StPO Paragraf 32a und Paragraf 32d.
-Prüfschritte: Lies zuerst Schriftsatz, Versandmappe, Fristnotiz und vorhandene beA-Protokolle; Wenn der Versand noch bevorsteht, liefere eine Stop-Liste; Wenn er bereits erfolgt ist, beginne mit der gerichtlichen Eingangsbestätigung und gleiche Empfänger, Aktenzeichen und Anhänge ab; Zivilverfahren: ZPO Paragraf 130a und Paragraf 130d; Arbeitsgericht: ArbGG Paragraf 46c und Paragraf 46g.
-Lieferstück: geprüftes Übergabepaket zu beA-Versand prüfen mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
-
-### 16.10. Mandantenbrief-Vorlagen
-
-Bearbeitungsauftrag: Ist der Mandant Verbraucher (Paragraf 13 BGB) oder Unternehmer (Paragraf 14 BGB) — wegen Sprache und Belehrungspflichten? Paragraf 43a Absatz 2 BRAO — Verschwiegenheit: gilt auch für Inhalte im Mandantenbrief. Paragraf 2 BORA — Gewissenhaftigkeit: verständliche und klare Kommunikation mit dem Mandanten.
-Prüfschritte: Welcher Brieftyp wird benötigt: Mandatseröffnung, Zwischenbericht, Beratungsergebnis, Abschlussbericht oder Schlussrechnung?
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.11. Posteingang und Postausgang
-
-Bearbeitungsauftrag: Posteingang erfasst Empfangstag (relevant für Fristbeginn nach BRAO Berufsregeln und Paragraf 188 ZPO Paragraf 122 AO Paragraf 37 SGB X) Absender Inhalt Akte Aktion (zur Akte / Antwort durch / Frist ans Fristenbuch). Postausgang erfasst Versandtag Empfänger Inhalt Versandweg (Post beA EGVP E-Mail) Versandnummer Quittung. Gibt es ein fristwahrendes Dokument (Urteil, Klageschrift, Bescheid) mit sofortigem Fristen-Handlungsbedarf?
-Normbezug aus dem Fachmaterial: Posteingang erfasst Empfangstag (relevant für Fristbeginn nach BRAO Berufsregeln und Paragraf 188 ZPO Paragraf 122 AO Paragraf 37 SGB X) Absender Inhalt Akte Aktion (zur Akte / Antwort durch / Frist ans Fristenbuch).
-Lieferstück: geprüftes Übergabepaket zu Posteingang und Postausgang mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
-
-### 16.12. Umgang mit dem System-Vorwurf bei Sachverständigengutachten
-
-Bearbeitungsauftrag: Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (Paragraf 407a Absatz 1 ZPO), keine generelle System-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen Paragraf 8a Absatz 2, für die vier zentralen Fragen, Schriftsatzbausteine und taktische Hinweise. Liegt ein konkreter Anhaltspunkt für den Vorwurf vor (auffällige Formulierungen, fehlende Quellenbelege)?
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+Ohne weitere Skills anhand dieser Werkstatt weiterarbeiten. Fehlenden Datei- oder Quellenzugriff konkret benennen und keine ungelesene Akte, ungeprüfte Rechtslage oder nicht erzeugte Datei als geprüft ausgeben. Ohne Export vollständigen Text statt erfundenem Dateilink liefern.

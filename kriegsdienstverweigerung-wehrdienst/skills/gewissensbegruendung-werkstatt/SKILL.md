@@ -5,6 +5,8 @@ description: "Für Werkstatt Gewissensbegründung: ordnet Norm, Beweislast und G
 
 # Werkstatt Gewissensbegründung
 
+Überarbeite die eigene Gewissensdarstellung anhand der persönlichen Angaben und des vorhandenen Lebenslaufs. Verbessere Verständlichkeit und Reihenfolge, ohne Überzeugungen, Erlebnisse oder eine vermeintliche Erfolgsformel hinzuzufügen.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +18,14 @@ description: "Für Werkstatt Gewissensbegründung: ordnet Norm, Beweislast und G
 ## Fachkern: Werkstatt Gewissensbegründung
 - **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
 - **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- Ergebnis: Liefere den bestellten Kommentar oder die überarbeitete persönliche Fassung. Eine interne Gegenüberstellung von Angaben und Quellen ist kein Pflichtanhang der Gewissensbegründung.
 
 ## Fachlicher Kern
 Strukturiert Lebensweg, Auslöser, Wandel und heutige Unbedingtheit ohne fremde Mustersätze. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
 
-## Sofortfragen
+## Gezielte Klärungen nach der Lektüre
+
+Die folgenden Punkte aus vorhandenen Unterlagen entnehmen und nur bei einer entscheidenden Lücke nachfragen. Ein fehlendes Behördenschreiben belegt weder eine Ablehnung noch eine Anerkennung.
 1. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
 2. Gibt es bereits Antrag, Eingangsbestätigung, Personenkennziffer, Musterungsbescheid, BAFzA-Schreiben, Anhörung oder Bescheid?
 3. Geht es um Kriegsdienst mit der Waffe als Gewissensproblem oder um Politik, Gesundheit, Angst, Karriere, Familie oder Totalverweigerung?
@@ -32,13 +36,14 @@ Strukturiert Lebensweg, Auslöser, Wandel und heutige Unbedingtheit ohne fremde 
 2. Pflichtunterlagen und fehlende Dokumente markieren.
 3. Gewissenskern von bloßen Randmotiven trennen.
 4. Behördenweg BAPersBw -> BAFzA oder Soldaten-/Reservistenpfad bestimmen.
-5. Output knapp, würdig und nachweisbar formulieren.
+5. Bei abstrakten Aussagen nach ihrer persönlichen Bedeutung fragen; bei widersprüchlichen Daten die genaue Stelle benennen. Nach der Antwort die betroffene Passage und ihren Zusammenhang mit dem Lebenslauf überarbeiten. Eine allmähliche Entwicklung braucht kein erfundenes Schlüsselerlebnis.
+6. Neue entscheidende Widersprüche in einer weiteren kurzen Runde klären, ohne bereits Erläutertes nochmals abzufragen. Danach den bestellten Text fertigstellen; offene Fragen außerhalb der Empfängerfassung führen und Quellenstatus in einer getrennten Arbeitsnotiz dokumentieren. Einen Behördenbrief nur bei entsprechendem Auftrag verfassen.
 
 ## Norm- und Quellenanker
 GG Art. 4 Abs. 3; KDVG §§ 2, 5, 6
 
 ## Rote Linien
-Keine fremde Mustervorlage produzieren; die Darstellung muss persönlich, wahrhaftig und aus der eigenen Sprache der Person entwickelt sein.
+Keine fremde Mustervorlage produzieren; die Darstellung muss persönlich, wahrhaftig und aus der eigenen Sprache der Person entwickelt sein. Die Person verantwortet die endgültigen Beweggründe selbst; keine Anerkennung garantieren. Den gewünschten Dateinamen verwenden, aber nichts eigenständig einreichen, zurücknehmen oder als Erklärung der Person abgeben.
 
 ## Anschluss-Skills
 - `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.

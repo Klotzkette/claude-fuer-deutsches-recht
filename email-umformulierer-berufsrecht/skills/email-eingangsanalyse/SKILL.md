@@ -9,13 +9,15 @@ description: "Für E-Mail-Eingangsanalyse: ordnet Norm, Beweislast und Gegenargu
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
 
-Analysiert einen eingegangenen E-Mail-Text systematisch auf emotionale Belastung, unsachliche Formulierungen und potenzielle berufsrechtliche Risiken. Er bildet die Grundlage für alle nachfolgenden Umformulierungsschritte.
+Lies eingegangene E-Mail und relevanten Verlauf, bestimme sachliches Anliegen und prüfe Ton sowie berufsrechtliche Risiken. Bei einem Antwort- oder Umformulierungsauftrag anschließend den bestellten Text ausarbeiten, nicht bei der Analyse aufhören.
 
 ## Triage zu Beginn
 1. Von wem stammt die E-Mail: Mandant, Gegner, gegnerischer Anwalt, Gericht, Behörde oder Unbekannter?
 2. Was ist der sachliche Kern der E-Mail — unabhaengig vom Tonfall?
 3. Enthalt die E-Mail strafrechtlich relevante Aeusserungen (Beleidigung § 185 StGB, Bedrohung § 241 StGB)?
-4. Soll die E-Mail beantwortet, weitergeleitet oder dokumentiert werden?
+4. Soll die E-Mail beantwortet, weitergeleitet oder dokumentiert werden? Nur nachfragen, wenn der Auftrag dies nicht bereits festlegt.
+
+Widersprechen sich im Verlauf Rechnungssumme oder gesetzte Frist, frage nach dem maßgeblichen Beleg. Bearbeite unabhängig gesicherte Passagen vorläufig; nach der Antwort Angaben und Argumentation aktualisieren und die bestellte E-Mail fertigstellen. Neue entscheidende Lücken gezielt klären, ohne beantwortete Angaben erneut aufzunehmen. Keine unbelegte Tatsache, neue Zusage oder Drohung ergänzen.
 
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot: verhindert Uebernahme aggressiven Tons aus Eingangskorrespondenz
@@ -29,7 +31,7 @@ Die Eingangsanalyse untersucht den Text auf vier Ebenen: sprachliche Auffälligk
 
 ## Konfliktgrad-Klassifikation
 
-Der Skill kategorisiert den Konfliktgrad in drei Stufen. Gering bedeutet: einzelne unhöfliche Formulierungen, sachlicher Kern erkennbar, kein persönlicher Angriff. Mittel bedeutet: mehrere emotionale Trigger, Vorwürfe an die Person, Drohgebärde oder Ultimatum. Hoch bedeutet: überwiegend unsachlich, persönliche Herabsetzung, Schimpfwörter oder strafrechtlich relevante Äußerungen.
+Für eine ausdrücklich bestellte Analyse kann der Konfliktgrad intern unterschieden werden: einzelne unhöfliche Stellen, persönliche Vorwürfe oder überwiegende Herabsetzung. Diese Einordnung ist kein Nachweis eines Rechtsverstoßes und gehört nicht als Pflichtfeld in die Antwort-E-Mail. Bei einem Schreibauftrag liefert die Analyse die Grundlage für einen sachlichen Ersatztext, nicht eine auszugebende Skala.
 
 ## Trigger-Kategorien
 
@@ -51,3 +53,5 @@ Die wichtigsten emotionalen Trigger sind: Großschreibung ganzer Wörter oder S�
 **Nachher (Analyse):** Konfliktgrad mittel-hoch. Trigger: Pauschalurteil, Kompetenzabsprache. Kern: Unerfüllte Zusage eines Mitarbeiters; Klärungsbedarf.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+Quellenstatus und interne Prüfvermerke gesondert halten. Bei einem Hindernis den konkreten Klärungsbedarf und belegten Teilstand benennen; nach Eingang bis zum bestellten Dokument weiterarbeiten. Versand, Weiterleitung oder eine rechtlich bindende Erklärung nur nach ausdrücklicher Freigabe.

@@ -14,7 +14,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Frage nach konkret fehlenden Anklageanlagen, Einlassungen oder Verfahrensnachweisen, die die Eröffnungsprüfung ändern. Fehlende Tatsachen nicht durch Annahmen ersetzen; unabhängige Tatkomplexe vorläufig weiterbearbeiten.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
@@ -35,15 +35,15 @@ StGB, StPO, GVG, JGG, BZRG, RVG
 
 1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
 2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
-3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
-4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
-5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
+3. Soweit zusätzlich beauftragt, Hauptverhandlung vorbereiten; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
+4. Für die weitere Verfahrensplanung Beweisaufnahme (Paragrafen 244 ff. StPO) und spätere Beweiswürdigung (Paragraf 261 StPO) unterscheiden; keine noch nicht erfolgte Erhebung oder Würdigung fingieren.
+5. Strafzumessung (Paragrafen 46 ff. StGB), Maßregeln (Paragrafen 61 ff. StGB) und Urteilsgründe (Paragraf 267 StPO) gehören zu einem entsprechenden Folgeauftrag, nicht automatisch zur Eröffnungsprüfung.
 6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
 7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+Liefere den bestellten Eröffnungsvermerk oder Beschlussentwurf vollständig ausformuliert. Verwende den gewünschten Dateinamen und halte technische Prüfnotizen getrennt vom förmlichen Text.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
@@ -69,6 +69,8 @@ Sucheinstiege; Aktenzeichen, Datum und Fundstelle werden vor produktiver Zitieru
 3. Verfahrenshindernisse, Verjährung, Strafklageverbrauch, Strafantrag und Zustellung vor Terminierung prüfen.
 4. Eröffnungsbeschluss, Nichteröffnung oder abweichende rechtliche Würdigung mit rechtlichem Gehör vorbereiten.
 5. Besetzung, Ladungen, Pflichtverteidigung und Verständigungstransparenz vor der Hauptverhandlung festhalten.
+
+Nach Eingang eines fehlenden Befunds dessen Inhalt mit Einlassung und bisherigen Beweisen abgleichen und nur die betroffene Verdachtsbewertung aktualisieren. Neue entscheidende Widersprüche gezielt klären; bereits beantwortete Fragen nicht wiederholen. Danach den bestellten Entwurf fertigstellen. Ein vorläufiger Stand bleibt als solcher kenntlich; Nutzerantworten ersetzen keine erforderliche gerichtliche Aufklärung oder Gehörsgewährung.
 
 ## Typische Fallstricke
 
@@ -101,7 +103,7 @@ Die Eröffnung des Hauptverfahrens wird abgelehnt, weil der hinreichende Tatverd
 - Rolle: Landgericht Strafkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eröffnungsentscheidung, Hauptverhandlungsplan, Beschluss oder Strafurteil; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
 - Pflichtstamm: Paragrafen 74, 76 GVG sowie Paragrafen 199, 203, 229, 244, 257c, 261, 267 StPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
 - Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+- Bei ungeklärtem Aktengeheimnis, richterlicher Unabhängigkeit, Geschäftsverteilung, Befangenheit, Zuständigkeit oder Grundrechtseingriff den abhängigen Schritt aussetzen und einen konkreten Vorlage- oder Prüfvermerk erstellen. Unabhängige Vorbereitung bleibt möglich; keine Ladung, Beweiserhebung, Freiheitsentziehung oder Entscheidung eigenmächtig ausführen.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 

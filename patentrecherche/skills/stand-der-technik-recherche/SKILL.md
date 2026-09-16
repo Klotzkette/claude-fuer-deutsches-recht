@@ -11,7 +11,7 @@ Recherche Stand der Technik vor eigener Patentanmeldung. Identifiziert anhand de
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Lies zuerst Erfindungsbeschreibung, Zeichnungen, bekannte Veröffentlichungen und den Rechercheauftrag. Übernimm den bereits festgelegten Untersuchungsgegenstand und Zeitrang; frage nur nach entscheidenden offenen Angaben.
 - Fristen und Eilrisiken zuerst markieren: EPÜ R. 36 Teilanmeldung, PatG § 41 Priorität 12 Monate, USPTO Provisional 12 Monate, EPO Recherchebericht typ. 6 Monate.
 - Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 139, EPÜ Art. 54, 56, 64, 69, 87 ff., Straßburger IPC-Abkommen, PCT, Espacenet-Datenbankzugriff, DEPATISnet-Bedingungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Patentanwalt, DPMA-Prüfer, EPO-Examiner, USPTO, WIPO, Wettbewerber.
@@ -102,13 +102,15 @@ Empfehlung an die Patentanwältin:
 
 > **Hinweis zur Recherche.** Diese Stand-der-Technik-Recherche ist eine KI-gestützte Vorrecherche und keine amtliche Recherche. Geheime ältere Anmeldungen (§ 3 Abs. 2 PatG / Art. 54 Abs. 3 EPÜ) sind erst nach Ablauf der 18-Monats-Frist erfassbar. Nicht-deutsche, nicht-englische und nicht-französische Volltexte werden nicht vollständig durchsucht. Die Bewertung als X/Y/A/P/E ist eine vorläufige Einschätzung — die amtliche Recherche durch DPMA oder EPA kann zu anderen Ergebnissen kommen.
 
-## Triage-Fragen vor Stand-der-Technik-Recherche
+## Fehlende Angaben klären und den Bericht fertigstellen
 
-Bevor die Recherche begonnen wird, klaere:
-1. Was ist der Prioritaetszeitpunkt — nach diesem Datum relevante Dokumente sind nicht massgeblich (§ 3 I PatG)?
-2. Gibt es bekannte Vorveröffentlichungen durch den Mandanten selbst (Messevortrag, Dissertation, Produktkatalog)?
-3. Sind Nicht-Patent-Literatur (NPL) — Aufsaetze, Normen, Konferenz-Proceedings — für das Technikgebiet besonders relevant?
-4. Welcher Fachmann ist massgeblich (IPC/CPC-basierte Einordnung des Technikgebiets)?
+Ist die technische Lehre nicht eindeutig, frage nach dem betroffenen Bauteil, seiner Verbindung oder einer Zeichnung. Fehlt der Beleg zum Zeitrang, fordere die betreffende Anmeldung oder Prioritätsunterlage an; behandle die zeitliche Einordnung bis dahin als vorläufig. Bereits erklärte Merkmale und beantwortete Fragen nicht erneut aufnehmen.
+
+Prüfe anhand der Akte, ob eigene Messevorträge, Dissertationen oder Produktkataloge bekannt sind. Nur soweit entscheidende Angaben fehlen, frage nach Inhalt, Datum und Zugänglichkeit dieser Veröffentlichung. Die gesonderte Behandlung älterer, später veröffentlichter Anmeldungen bleibt erforderlich.
+
+Überarbeite nach der Antwort die betroffenen Suchbegriffe, Merkmalszuordnungen und zeitlichen Bewertungen. Eine neu erkennbare entscheidende Lücke darf eine weitere gezielte Frage auslösen; führe anschließend den bestellten Recherchebericht zu Ende. Bis dahin liefere die belastbaren Teilbefunde mit der konkret noch offenen Bewertung, nicht bloß eine neue Fragenliste.
+
+Der Bericht erläutert die Befunde in vollständigen Sätzen; Trefferzahlen und Recherchezeichen ersetzen keine begründete Prüfung. Eine Anmeldung oder Kontaktaufnahme mit Dritten wird dadurch nicht beauftragt. Nutze den gewünschten Dateinamen und, soweit technisch möglich, Times New Roman 11 pt mit dezimaler Gliederung.
 
 ## Aktuelle Rechtsprechung
 

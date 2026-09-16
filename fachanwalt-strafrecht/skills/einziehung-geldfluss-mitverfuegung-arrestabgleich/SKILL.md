@@ -11,7 +11,7 @@ Prüfe eine Einziehungs- oder Arrestsumme anhand konkreter Transaktionen statt a
 
 ## 1.2. Eingaben
 
-Lies Anklage oder Tatvorwurf, Arrestbeschluss, Vollziehungsunterlagen, Urteil soweit vorhanden, Kontobelege, Barübergaben, Chats, Vernehmungen und Rückzahlungsnachweise. Erfasse vertretene Person, Verfahrensstand, betroffene Vermögenswerte und gewünschtes Produkt. Trenne Aktenfeststellung, Aussage und Mandantenangabe. Bei Lücken eine gebündelte Rückfrage, kein erfundener Geldfluss.
+Lies Anklage oder Tatvorwurf, Arrestbeschluss, Vollziehungsunterlagen, Urteil soweit vorhanden, Kontobelege, Barübergaben, Chats, Vernehmungen und Rückzahlungsnachweise. Erfasse vertretene Person, Verfahrensstand, betroffene Vermögenswerte und gewünschtes Produkt. Trenne Aktenfeststellung, Aussage und Mandantenangabe. Fehlende entscheidende Belege gezielt anfordern; vorhandene Kontodaten beweisen keine vollständige Zugriffskette. Keine Geldflüsse erfinden oder eine Einlassung zur Voraussetzung der internen Prüfung machen.
 
 ## 1.3. Ablauf und Checkliste
 
@@ -31,7 +31,7 @@ Trenne gegenständliche Einziehung, Wertersatz nach Paragraf 73c und vorläufige
 
 Berechne je Person und Tat sichere, streitige und nicht getragene Positionen sowie die Abweichung zur beantragten Summe. Einen im Bruttozufluss enthaltenen Tatlohn nicht zusätzlich aufschlagen. Zeige Überschneidungen zwischen Beteiligten ohne künstliche Gesamtsumme mehrfach abschöpfbarer Erträge. Prüfe beim Arrest dessen Betrag, tatsächliche Vollziehung, Sicherungsbedarf und Verhältnismäßigkeit gesondert; Schuldnachweis im Urteil und vorläufiger Verdachtsmaßstab sind nicht identisch.
 
-Keine Einlassung oder Verzichtserklärung eigenmächtig abgeben, keine Vermögensverschiebung vornehmen und keine Beschwerde einlegen. Liefere nach einem Summen- und Belegcheck die vertretbare Verteidigungsargumentation als Entwurf; fehlende Beweise bleiben offen.
+Keine Einlassung oder Verzichtserklärung eigenmächtig abgeben, keine Vermögensverschiebung vornehmen und keine Beschwerde einlegen. Nach Eingang fehlender Kontoauszüge oder Übergabeprotokolle die betroffenen Transaktionen verbinden, Zugriff und Gegenrechnung aktualisieren und den bestellten Verteidigungstext fertigstellen. Bei einer neuen entscheidenden Unklarheit, etwa widersprüchlichen Rückführungsbelegen, gezielt nachfassen; beantwortete Fragen nicht wiederholen. Bei einem Hindernis bearbeitbare Teile vorläufig liefern und nach der Antwort fortsetzen. Summen und Belege nach relevanten Ergänzungen erneut prüfen.
 
 ## 1.4. Quellenpflicht
 
@@ -43,7 +43,9 @@ Ergänzender Belegabgleich bei Sachbeute: BGH, Beschluss vom 04.08.2026, Az. 6 S
 
 ## 1.5. Ausgabeformat
 
-Liefere `ergebnis.md` mit Sachverhalt, Transaktionsbuch, personenbezogener Zurechnung, Gegenrechnung, Arrestvergleich, ausformulierter Verteidigungsstellungnahme und konkreter Nachweisliste. Keine bloße Rechentabelle als Endprodukt, keine Skelette. Dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
+Liefere begründete personenbezogene Zurechnung, nachvollziehbare Gegenrechnung und den bestellten Verteidigungstext. Der Nutzername für die Datei ist verbindlich; ohne Vorgabe `ergebnis.md` verwenden. Arrestvergleich nur bei betroffenem Arrest, Nachweisliste nur bei offenen Belegen; ein reiner Prüfauftrag verlangt keinen zusätzlichen Rechtsmittelentwurf.
+
+Quellenprüfvermerke getrennt vom Außenentwurf halten. Keine bloße Rechentabelle als Endprodukt, keine Skelette. Dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
 
 ## 1.6. Beispiele
 

@@ -1,71 +1,47 @@
-# 1. Europarecht Kompass — Schnellstart
+# 1 Unionsrechtlichen Fall bis zum bestellten Ergebnis bearbeiten
 
-Ordne den unionsrechtlichen Fall nach Anwendungsbereich, Normwirkung, Vorrang, Grundfreiheiten und Rechtsschutz. Prüfe dabei das Verhältnis zur nationalen Umsetzung.
+Prüfe die bezeichnete Maßnahme oder Normkollision anhand des Auftrags, der vorhandenen Entscheidungen, Verträge und Korrespondenz. Übernimm bekannte Beteiligte und Zielsetzung. Erstelle die verlangte Beratung, Stellungnahme, Umsetzungsklausel oder Vorlageanregung; ein Gutachtenauftrag ist kein Auftrag zur Direktklage.
 
-Kernauftrag: Prüfe Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen und Vorlageverfahren und bereite unionsrechtliche Texte vor. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1 Anwendungsbereich bestimmen
 
-## 1.1. Sofortstart nach Eingangslage
+Stelle konkrete Unionsnorm, Rechtsakt, Maßnahme, Mitgliedstaat oder Organ und maßgeblichen Zeitpunkt fest. Prüfe sachlichen, persönlichen, räumlichen und zeitlichen Anwendungsbereich. Binnenmarktbezug und Durchführung von Unionsrecht sind nicht dieselbe Frage.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Unionsbezug, Normwirkung, Materielle Prüfung wählen; ohne konkreten Auftrag mit Unionsbezug beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Ist bei einem Upload nur das Thema, nicht aber das Ziel erkennbar, kläre die offene Entscheidung: rechtliche Bewertung, nationale Umsetzung oder bestimmter Entwurf. Bekannte Angaben nicht erneut erheben und keine vollständige Liste aller europarechtlichen Verfahren voranstellen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Unionsbezug, Normwirkung, Materielle Prüfung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2 Wirkung der konkreten Norm prüfen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Unterscheide Primärrecht, Verordnung, Richtlinie, Beschluss und unverbindliche Hinweise. Bei Richtlinien Bestimmung, Umsetzungsfrist, nationale Umsetzung und Parteienverhältnis getrennt prüfen. Eine Richtlinie als solche begründet keine unmittelbaren Pflichten zulasten Privater. Vorrang allein ersetzt fehlende unmittelbare Wirkung nicht und ist nicht mit Nichtigkeit der nationalen Norm gleichzusetzen.
 
-## 1.2. Fachlicher Direktstart
+Unionsrechtskonforme Auslegung mit ihren Grenzen, gegebenenfalls eigenständig tragende Grundrechte und Staatshaftung als getrennte Wege prüfen. EuGH, Urteil vom 24.06.2019, C-573/17, [Popławski, Randnummern 60 bis 68](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0573), für die Unterscheidung von Vorrang und unmittelbarer Wirkung heranziehen; nicht jede Normkollision automatisch in einen Anspruch umwandeln.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Unionsnorm gilt sachlich, persönlich, räumlich und zeitlich.
-2. Kernprüfung in einem Durchgang: Welche Wirkung entfaltet sie im Verhältnis Staat zu Bürger oder zwischen Privaten; Welche nationale Norm oder Maßnahme kollidiert damit und welche Rechtsfolge folgt daraus.
-3. Belege und Engpass zusammenführen: Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit; besonders kritisch ist: Richtlinienbestimmung, Umsetzungsfrist oder Adressatenverhältnis ist unklar; dann keine unmittelbare Wirkung behaupten.
-4. Erstes Arbeitsprodukt liefern: Wirkungsmatrix: Unionsnorm, Rechtsakt, Bestimmtheit, Frist, Adressatenverhältnis, nationale Kollisionsnorm und Rechtsfolge.
+Fehlt die maßgebliche Fassung, fordere die bezeichnete Entscheidung oder den Änderungsakt nach. Ist die staatliche Einordnung des Gegenübers unklar, frage nach Trägerschaft und Aufgaben. Nach Antwort die rechtliche Einordnung überprüfen und die betroffenen Ausführungen neu fassen, statt die Angabe ungeprüft als Beweis zu behandeln.
 
-## 1.3. Kernroute
+## 1.3 Materielle Frage ausarbeiten
 
-1. Unionsbezug: Beteiligte, Maßnahme, Mitgliedstaat, Organ, Rechtsakt, Binnenmarktbezug und zeitlicher Anwendungsbereich feststellen.
-2. Normwirkung: Rechtsakt, konkrete Bestimmung, Umsetzungsfrist und Parteienverhältnis getrennt prüfen. Eine Richtlinie als solche begründet keine unmittelbaren Pflichten zulasten Privater. Vorrang allein ersetzt fehlende unmittelbare Wirkung nicht. Unionsrechtskonforme Auslegung mit ihren Grenzen, gegebenenfalls eigenständig tragende Grundrechte und Staatshaftung als getrennte Wege prüfen.
-3. Materielle Prüfung: Grundfreiheit, Diskriminierung, Beschränkung, Rechtfertigung, Verhältnismäßigkeit, Wettbewerb oder Beihilfe aufbauen.
-4. Rechtsschutz: nationales Verfahren, Vorlagefrage, Kommissionsverfahren, Unionsklage, Frist und vorläufigen Rechtsschutz bestimmen.
-5. Arbeitsprodukt: Europarechtsmemo, Vorlagefragen, Umsetzungscheck, Verhältnismäßigkeitsmatrix, Stellungnahme oder Schriftsatzbaustein erstellen.
+Bei Grundfreiheiten die konkrete Beschränkung oder Diskriminierung, Rechtfertigung und Verhältnismäßigkeit prüfen. Artikel 18, Artikel 34 bis 36, Artikel 45, 49, 56 und 63 AEUV nach betroffener Tätigkeit zuordnen. Nachweise zum grenzüberschreitenden Vorgang und zu geltend gemachten Rechtfertigungsgründen konkret benennen; keine pauschale Beweislastregel für alle unionsrechtlichen Verfahren verwenden.
 
-## 1.4. Fallkarte
+Bei Charta-Fragen zuerst Artikel 51 GRCh, dann betroffenes Recht und Artikel 52 GRCh prüfen. Ohne einschlägige Durchführung von Unionsrecht keine Bindung nationaler Stellen allein aus einem entfernten EU-Bezug ableiten.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | EUV Artikel 4 Absatz 3 und Artikel 5; EUV Artikel 19 und AEUV Artikel 267; AEUV Artikel 18, Artikel 34 bis Artikel 36, Artikel 45, Artikel 49 |
-| Rechtsprechung | EuGH, Urteil vom 05.02.1963 - 26/62; EuGH, Urteil vom 15.07.1964 - 6/64 |
-| Tatbestand | Beteiligte, Maßnahme, Mitgliedstaat, Organ, Rechtsakt, Binnenmarktbezug und zeitlicher Anwendungsbereich feststellen |
-| Beweislast | Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit |
-| Rechtsfolge | Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Kartellverbot, Missbrauchskontrolle und Beihilfe nach Artikeln 101, 102 und 107 AEUV auseinanderhalten. Bei Förderung Bewilligung, Begünstigung und beihilfenrechtliche Grundlage anhand der Unterlagen prüfen. Fehlt die tragende Förderregel, genau diese nachfordern; nach Eingang die Bewertung und gegebenenfalls beauftragte Klausel aktualisieren.
 
-## 1.5. Ergebniswahl
+## 1.4 Rechtsschutz passend wählen
 
-Normkollision: Wirkungsmatrix mit konkreter nationaler Folge. Grundfreiheit: Beschränkung und tragfähige Rechtfertigung. Umsetzung: Änderungsbedarf je nationaler Vorschrift. Rechtsschutz: nationaler Weg und gegebenenfalls Vorlagefrage, keine automatische Direktklage.
+Prüfe nationalen Rechtsschutz und gegebenenfalls Artikel 267 AEUV vor einer pauschalen Empfehlung zur Direktklage. Eine Vorlageanregung muss die Unionsnorm, nationale Konfliktlage, Entscheidungserheblichkeit und konkrete Auslegungs- oder Gültigkeitsfrage erkennen lassen. Vorlagebefugnis und Vorlagepflicht gesondert prüfen.
 
+Bei Artikel 263 AEUV Klagegegenstand, Klagebefugnis und Fristauslöser feststellen. Nationale Frist und unionsgerichtliche Frist nicht vermischen. Für andere Wege, etwa Untätigkeit, Staatshaftung oder Kommissionsbeschwerde, die jeweiligen Voraussetzungen prüfen; eine Beschwerde ersetzt nicht automatisch gerichtlichen Rechtsschutz.
 
-## 1.6. Anker
+## 1.5 Nach Antworten weiterarbeiten
 
-- EUV Artikel 4 Absatz 3 und Artikel 5: loyale Zusammenarbeit, Einzelermächtigung, Subsidiarität und Verhältnismäßigkeit.
-- EUV Artikel 19 und AEUV Artikel 267: wirksamer Rechtsschutz und Vorabentscheidungsverfahren.
-- AEUV Artikel 18, Artikel 34 bis Artikel 36, Artikel 45, Artikel 49, Artikel 56 und Artikel 63: Diskriminierungsverbot und Grundfreiheiten.
-- AEUV Artikel 101, Artikel 102 und Artikel 107: Kartellverbot, Missbrauchskontrolle und Beihilfenverbot.
-- Art. 263 AEUV — Nichtigkeitsklage; Fristen; Klagebefugnis privilegierter/nicht-privilegierter Klager; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 05.02.1963 - 26/62: Van Gend en Loos zur unmittelbaren Wirkung hinreichend klarer und unbedingter unionsrechtlicher Bestimmungen.
-- EuGH, Urteil vom 24.06.2019, C-573/17, [Popławski, Randnummern 60 bis 68](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0573): Vorrang und unmittelbare Wirkung unterscheiden; keine zusätzliche private Verpflichtung allein aus einer Richtlinie.
+Fehlt ein entscheidender Beleg, liefere die unabhängigen Teile und benenne den noch offenen Schluss. Frage nach der konkreten Normfassung, Organisationsunterlage oder tatsächlichen Rechtfertigungsgrundlage. Nach Antwort Anwendungsbereich, Wirkung oder Argumentation aktualisieren und das verlangte Dokument fertigschreiben.
 
-## 1.7. Antwortform
+Weitere kurze Runden sind zulässig, wenn neue Antworten entscheidende Lücken zeigen; bereits Beantwortetes nicht wiederholen. Eine Materialnachlieferung ist nicht automatisch ein vollständiger rechtlicher Nachweis. Keine ungeprüfte Annahme in einen Behörden- oder Mandantenbrief als Tatsache übernehmen.
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk.
-1.7.2. Norm: EUV Artikel 4 Absatz 3 und Artikel 5; EUV Artikel 19 und AEUV Artikel 267 mit dem entscheidenden Merkmal verbinden.
-1.7.3. Aktenfund: Für „Unionsbezug“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Wirkung entfaltet sie im Verhältnis Staat zu Bürger oder zwischen Privaten.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Wirkungsmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
+## 1.6 Quellen und Ausgabe
 
-## 1.8. Stop
+Artikel 4 Absatz 3 und Artikel 5 EUV für Zusammenarbeit und Kompetenzfragen sowie Artikel 19 EUV für Rechtsschutz nur bei konkretem Bezug einsetzen. Die bisherigen Anker EuGH, Urteil vom 05.02.1963, 26/62, Van Gend en Loos, und Urteil vom 15.07.1964, 6/64, Costa gegen ENEL, am amtlichen Text und auf ihre Tragweite prüfen. Tragende Normfassungen und weitere Entscheidungen amtlich verifizieren, keine Fundstellen erfinden.
 
-Bei unklarem Adressatenverhältnis eine Wirkungsmatrix mit bedingten Alternativen liefern. Auslegung, Nichtanwendung und Staatshaftung nicht zu einem automatischen Anspruch verbinden. Werkstatt optional. Keine Vorlage oder Klage selbst einreichen. Quellen amtlich mit Fassung und tragender Fundstelle prüfen; ausformulierter Endtext, dezimale Gliederung, Markdown-Exporthinweis Times New Roman 11 pt.
+Liefere eine ausformulierte Antwort auf die konkrete Frage. Normvergleiche oder Berechnungen nur ergänzen, soweit nötig; interne Prüftabellen sind kein Pflichtprodukt. Quellenstatus und Recherchegrenzen getrennt vom Mandantenbrief notieren. Werkstatt und weitere Skills sind optional; diese Anleitung ist eigenständig. Keine Vorlage, Klage, Notifikation oder sonstige Außenhandlung ohne ausdrückliche Freigabe. Dezimale Gliederung; beim Export Times New Roman 11 pt.
+
+## 1.7 Technische Grenzen
+
+Nur zugängliche Unterlagen und Werkzeuge verwenden; fehlende Teile konkret benennen. Technische Hindernisse lassen nur den abhängigen Schluss offen, nicht die übrige Bearbeitung. Ohne Export den vollständigen Text liefern und keine nicht erfolgte Prüfung oder Dateierzeugung behaupten.

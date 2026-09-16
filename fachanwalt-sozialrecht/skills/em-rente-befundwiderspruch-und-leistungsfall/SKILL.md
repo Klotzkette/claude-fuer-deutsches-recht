@@ -11,7 +11,7 @@ Erarbeite eine Beweisstrategie, wenn Reha-Bericht, Behandler und Gutachten versc
 
 ## 1.2. Eingaben
 
-Lies Bescheid, Widerspruchsbescheid und Zugang, Rentenantrag, Versicherungsverlauf, Reha-Entlassungsbericht, Gutachten und Verlaufsbefunde. Erfasse Geburtsdatum, frühere Tätigkeit, laufende Beschäftigung, Behandlung, Hilfsmittel, Wegefähigkeit und tatsächlich benötigte Pausen. Eine fehlende Unterlage löst eine gebündelte Nachfrage aus, keine Serie von Rückfragen.
+Lies Bescheid, Widerspruchsbescheid und Zugang, Rentenantrag, Versicherungsverlauf, Reha-Entlassungsbericht, Gutachten und Verlaufsbefunde. Entnimm daraus Geburtsdatum, frühere Tätigkeit, laufende Beschäftigung, Behandlung, Hilfsmittel, Wegefähigkeit und tatsächlich benötigte Pausen. Frage nur entscheidende offene Angaben nach, etwa den Befund hinter einer Stundenangabe oder den Versicherungsnachweis für streitige Monate.
 
 ## 1.3. Ablauf und Checkliste
 
@@ -29,7 +29,13 @@ Unter drei Stunden, drei bis unter sechs Stunden und mindestens sechs Stunden t�
 
 Lege für jeden medizinisch vertretbaren Eintrittszeitpunkt eine eigene Zeile an: fünfjähriger Rückschauzeitraum, Pflichtbeitragsmonate, allgemeine Wartezeit, mögliche Verlängerungszeiten nach Paragraf 43 Absatz 4 SGB VI und erforderlicher Beleg. Kalendermonate nicht durch Tagesquoten ersetzen; keine doppelte Monatszählung. Antragstag, Beginn der Krankheit, Eintritt der Erwerbsminderung und Rentenbeginn nicht gleichsetzen. Rentenbeginn und Befristung erst nach Feststellung der maßgeblichen Voraussetzungen beurteilen.
 
-Erstelle für jeden entscheidenden offenen Befund eine Beweisfrage und den Einfluss einer positiven beziehungsweise negativen Antwort auf Anspruch und Zeitfenster. Amtsermittlung ersetzt keine tragfähigen Feststellungen; benenne das Risiko verbleibender Nichterweislichkeit. Keine medizinische Diagnose erfinden, keine Untersuchung oder Klage eigenmächtig veranlassen. Eilbedarf prioritär bearbeiten, nach einem Plausibilitätscheck den entscheidungsfähigen Teil liefern.
+Erstelle für jeden entscheidenden offenen Befund eine Beweisfrage und erläutere den Einfluss einer positiven beziehungsweise negativen Antwort auf Anspruch und Zeitfenster. Amtsermittlung ersetzt keine tragfähigen Feststellungen; benenne das Risiko verbleibender Nichterweislichkeit. Keine medizinische Diagnose erfinden, keine Untersuchung oder Klage eigenmächtig veranlassen. Eilbedarf prioritär bearbeiten, ohne die weitere Sachprüfung abzubrechen.
+
+### 1.3.4. Befunde nachführen und Dokument fertigstellen
+
+Ordne nachgereichte Berichte dem jeweiligen Zeitraum zu. Erklärt ein Bericht die Stundenabweichung durch spätere Verschlechterung, prüfe den dadurch veränderten Eintrittszeitpunkt und rechne das Beitragsfenster erneut; bleibt die Abweichung ungeklärt, formuliere die konkrete ergänzende medizinische Frage. Beitragsnachweise können Versicherungslücken schließen, ersetzen aber keinen medizinischen Nachweis.
+
+Überarbeite nach jeder Antwort die betroffenen Passagen des bestellten Dokuments. Weitere gezielte Rückfragen sind zulässig, wenn neue entscheidende Lücken auftreten; keine wiederholte Fallaufnahme. Liefere bei einem Hindernis die belastbaren Teile vorläufig und setze nach Klärung bis zum bestellten Ergebnis fort. Eine beauftragte Beratung wird nicht ungefragt zur Klagebegründung.
 
 ## 1.4. Quellenpflicht
 
@@ -39,7 +45,9 @@ BSG, Urteil vom 11.12.2019, Az. B 13 R 7/18 R, [amtlicher Volltext](https://www.
 
 ## 1.5. Ausgabeformat
 
-Liefere `ergebnis.md` mit Sachverhalt, Befundchronologie, Widerspruchsmatrix, alternativen Beitragsfenstern, ausformulierter Begründung und konkreten Gutachterfragen. Keine bloße Diagnosenliste oder Schriftsatzskelette. Vollständige Sätze, dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
+Liefere das bestellte Dokument unter dem gewünschten Dateinamen; `ergebnis.md` gilt nur ohne Dateivorgabe. Füge Befundchronologie, Gegenüberstellung widersprüchlicher Aussagen, alternative Beitragsfenster und Gutachterfragen bei, soweit sie für den Auftrag erforderlich sind. Ein Mandantenbrief erläutert Ergebnis und Empfehlung; zusätzliche Recherchebelege und Quellenlücken stehen in einer getrennten Arbeitsnotiz.
+
+Keine bloße Diagnosenliste oder Schriftsatzskelette. Vollständige Sätze, dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt. Fehlen Datei- oder Exportwerkzeuge, arbeite mit bereitgestellten Auszügen und liefere den vollständigen Text; benenne deren Aussagegrenzen, ohne fehlende Tatsachen zu ergänzen.
 
 ## 1.6. Beispiele
 

@@ -1,6 +1,6 @@
 # 1. Memorandum als Entscheidungsgrundlage
 
-Erstelle aus dem Nutzersachverhalt und den vorhandenen Unterlagen unmittelbar das beauftragte Memorandum. Bestimme Empfänger, Entscheidungsfrage und Stichtag. Lies tragende Verträge, Korrespondenz und Belege zuerst. Frage nur nach blockierenden Widersprüchen; ein unvollständiger Nebenpunkt hindert nicht die Ausarbeitung der übrigen Prüfung.
+Erstelle das beauftragte Memorandum aus Nutzersachverhalt und vorhandenen Unterlagen. Bestimme Empfänger, Entscheidungsfrage und Stichtag aus dem Auftrag, bevor du fehlende Angaben erfragst.
 
 ## 1.1. Vier Teile als Arbeitsprodukt
 
@@ -12,6 +12,12 @@ Gib zu jeder tragenden Tatsache Dokument, Datum und vorhandene Seiten- oder Absc
 
 Ordne offene Punkte nach ihrer Auswirkung: Welche Antwort ändert sich bei welcher möglichen Aufklärung? Stelle gegebenenfalls zwei begründete Ergebnisse gegenüber. Ein nicht vorgelegter Anhang ist eine Lücke, keine Bestätigung des Hauptdokuments. Vorhandene Recherche und Aktenfunde in Folgefassungen wiederverwenden, soweit sie unverändert tragfähig sind.
 
+### 1.2.1. Nachgereichte Tatsachen verarbeiten
+
+Fehlt etwa die für eine Vertragsauslegung entscheidende Anlage, frage genau danach und benenne die betroffene Rechtsfrage. Nach Eingang gleiche Fassung und Datum ab, aktualisiere den Sachverhalt und prüfe die betroffene Kurzantwort samt Begründung neu. Entsteht ein entscheidender Widerspruch zur Korrespondenz, frage gezielt nach seiner Aufklärung; bereits geklärte Angaben nicht erneut aufnehmen.
+
+Unabhängige Fragen können vorläufig fertig beantwortet werden. Nach Klärung des Hindernisses das gesamte bestellte Memo abschließen, statt nur ein Analyse-Update zu liefern. Ein Gutachtenauftrag rechtfertigt keinen ungefragten Klage- oder Vertragsentwurf.
+
 ## 1.3. Begründung und Gegenprobe
 
 Leite den konkreten Prüfmaßstab aus dem Rechtsgebiet der Frage ab, nicht aus einer allgemeinen Kanzleihaftungs-Normenkette. Verbinde Voraussetzung, Tatsache und Schluss in vollständigen Sätzen. Stelle den stärksten entscheidungserheblichen Einwand dar und beantworte ihn anhand der Akte. Kontrolliere zuletzt jede Kurzantwort gegen den tatsächlichen Begründungsstand; keine uneingeschränkte Empfehlung bei offenem tragendem Punkt.
@@ -21,3 +27,5 @@ Rechtliche Aussagen anhand aktueller amtlicher Primärquellen prüfen. Entscheid
 ## 1.4. Ausgabe
 
 Liefere das fertige Memo mit Quellen bei den tragenden Aussagen und benannten nächsten Schritten. Optional hilft `memo-vier-teile-aufbau` bei der Vertiefung; maßgeblich bleibt der hier vollständig beschriebene Aufbau, auch ohne Repositoryzugriff. Ohne Export den vollständigen Text bereitstellen, keine Datei behaupten. Formatierter Export: Times New Roman, 11 pt, dezimale Gliederung mit Leerzeilen zwischen Überschrift und Inhalt.
+
+Verwende den gewünschten Dateinamen. Technische Abrufvermerke und Zugriffsgrenzen gehören in eine gesonderte Arbeitsnotiz, nicht als interne Prüffeldnamen in das Memo. Externe Übermittlung nur nach Freigabe.

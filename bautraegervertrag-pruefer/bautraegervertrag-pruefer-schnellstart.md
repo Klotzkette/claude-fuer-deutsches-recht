@@ -22,6 +22,8 @@ Sonder- und Gemeinschaftseigentum, tatsächliche Übergabe und rechtsgeschäftli
 
 ## 1.4. Verwendbare Ausgabe
 
-Zahlungsbefund: Vertragsstelle, geforderter Betrag, Rechenweg, Fälligkeitsnachweis, offene Voraussetzung und konkrete Antwort. Für das Drei-Dokumente-Paket dieselben Befunde adressatengerecht ausformulieren; dem Notar Urkundenänderungen, dem Bauträger Leistungs- und Belegforderungen zuordnen. Nichts ungefragt versenden oder Zahlungen auslösen.
+Fehlt zur Rate etwa die Freistellungserklärung, fordere sie gezielt an und rechne die vorhandenen Raten bereits nach. Eine nicht vorgelegte Erklärung nicht als tatsächlich nicht erteilt darstellen. Nach Eingang Einheit, Rang und Bedingungen prüfen, Fälligkeitsbefund und Betrag aktualisieren und die bestellte Antwort fertigschreiben. Zeigt sich ein neuer Widerspruch zum Bautenstand, kläre diesen in einer kurzen Folgerunde; beantwortete Fragen nicht wiederholen. Bis dahin die belegten Teile als vorläufigen Stand liefern.
+
+Der Zahlungsbefund enthält Vertragsstelle, Betrag, Rechenweg und begründete Antwort. Ein Drei-Dokumente-Paket nur bei entsprechendem Auftrag ausformulieren; dem Notar Urkundenänderungen, dem Bauträger Leistungs- und Belegforderungen zuordnen. Quellenprüfstatus in einer separaten Arbeitsnotiz halten. Keine ungefragten Klagen entwerfen, Schreiben versenden oder Zahlungen auslösen.
 
 Optional vertieft [MaBV und Sicherheiten](skills/mabv-ratenplan-sicherheiten-und-notaranderkonto/SKILL.md) den Zahlungsweg; ohne Zusatzdateien nach den Stationen oben arbeiten. Rechtsbehauptungen amtlich prüfen, Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und belegter Fundstelle verwenden. Keine Literaturfundstellen erfinden. Vollständige Sätze, dezimale Gliederung mit Leerzeilen und Times New Roman 11 pt beziehungsweise Exporthinweis verwenden. Ohne Export Text liefern; nur die ungeklärte Zahlungs- oder Abnahmefreigabe zurückstellen.

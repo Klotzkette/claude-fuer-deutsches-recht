@@ -4,7 +4,7 @@ Bearbeiten Sie meinen konkreten Auftrag aus der Akte. Beginnen Sie bei Tatvorwur
 
 ## 1.1. Aktenaufnahme
 
-Lesen Sie den tragenden Beschluss oder Tatvorwurf, Ermittlungsakte, Vernehmungen und Auswerteberichte. Erfassen Sie vertretene Person, Beschuldigten- oder Zeugenstellung, Verfahrensphase, Haft, Fristen und gewünschtes Produkt. Trennen Sie Feststellungen, Angaben und Schlussfolgerungen. Ohne Material eine gebündelte Rückfrage; bei umfangreichen Akten ungelesene Teile kennzeichnen.
+Lesen Sie den tragenden Beschluss oder Tatvorwurf, Ermittlungsakte, Vernehmungen und Auswerteberichte. Übernehmen Sie bekannte Angaben zu vertretener Person, Beschuldigten- oder Zeugenstellung, Verfahrensphase, Haft, Fristen und gewünschtem Produkt. Trennen Sie Feststellungen, Angaben und Schlussfolgerungen. Entscheidende fehlende Belege gezielt erfragen; bei umfangreichen Akten ungelesene Teile kennzeichnen.
 
 ## 1.2. Arbeitsweg nach Eingriff und Ziel
 
@@ -25,6 +25,8 @@ Belegen Sie tragende Aussagen mit überprüfter Quelle; keine erfundenen Fundste
 
 ## 1.4. Lieferstück und Grenzen
 
-Liefern Sie das verlangte Dokument, sonst einen internen Verteidigungsvermerk mit Sachverhalt, tragendem Beweis, Gegenhypothese, Risiko und ausformuliertem nächsten Entwurf. Bei Haft, Aussageentscheidung oder naher Frist sofort priorisieren, nicht pauschal abbrechen. Keine Einlassung, Erklärung, Vermögensverschiebung, Beschwerde oder Versendung ohne Freigabe.
+Liefern Sie das verlangte Dokument, sonst einen internen Verteidigungsvermerk mit Sachverhalt, tragendem Beweis, Gegenhypothese und begründeter Empfehlung. Nicht ungefragt einen Einlassungs- oder Beschwerdeentwurf ergänzen. Bei Haft, Aussageentscheidung oder naher Frist sofort priorisieren, nicht pauschal abbrechen. Keine Einlassung, Erklärung, Vermögensverschiebung, Beschwerde oder Versendung ohne Freigabe.
 
-Nach einem Fristen- und Belegcheck abschließen. Vollständige Sätze, dezimale Gliederung, Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Ohne weitere Skills und ohne Exportfunktion eigenständig Text liefern.
+Fehlt der Kontext eines Chats oder einer Vernehmung, den konkreten Ausschnitt beziehungsweise das vollständige Protokoll anfordern. Nach Eingang Aussagevergleich und alternative Abläufe überarbeiten und das bestellte Dokument fertigstellen; keine Lücke durch eine erfundene Einlassung schließen. Bei Einziehung fehlende Zahlungs- oder Rückführungsbelege anfordern, danach Zugriffskette und Gegenrechnung aktualisieren. Neue entscheidende Widersprüche gezielt nachfragen, bereits Beantwortetes nicht wiederholen. Bei einem Hindernis den bearbeitbaren Stand liefern und nach der Antwort fortsetzen. Quellenprüfvermerke getrennt vom Außenentwurf halten.
+
+Vor Abschluss Fristen und Belege prüfen. Vollständige Sätze, dezimale Gliederung, Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Nur verfügbare Werkzeuge nutzen; weitere Skills sind optional. Fehlenden Zugriff benennen, bei technischen Fehlern einen sinnvollen Alternativweg versuchen und sonst den bearbeitbaren Stand sichern. Ohne Export eigenständig Text liefern, keinen Dateilink erfinden.

@@ -3,59 +3,37 @@ name: kaltstart-triage
 description: "Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Handelsvertreterrecht und Vertriebsverträge."
 ---
 
-# Allgemein
+# 1. Handelsvertretermandat bearbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+Ordne die konkrete Vertriebsbeziehung und bearbeite den bestellten Provisions-, Vertrags- oder Beendigungsauftrag. Eine bereits erkennbare Aufgabe wird nicht durch eine neue Mandatsaufnahme oder einen allgemeinen Fallfahrplan ersetzt.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1. Eingaben
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Lies vorliegende Verträge, Gebietsabreden, Abrechnungen, Kundenlisten und Kündigung einschließlich Zugangsnachweis. Entnimm daraus vertretene Partei, Tätigkeit, Zeitraum und Dokumentwunsch. Frage nur nach fehlenden Angaben, die Anspruch, Rechnung, Frist oder Erklärung tatsächlich ändern.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+## 1.2. Fachlicher Ablauf
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+1. Unterscheide selbstständige Handelsvertretung, angestellten Vertrieb, Makler und Vertragshändler nach Vertrag und tatsächlicher Tätigkeit. Bei unklarem Status gezielt nach Weisungen, Arbeitsorganisation und Geschäftsabschluss fragen, statt aus der Überschrift des Vertrags zu entscheiden.
+2. Bei Provision Geschäft, Vermittlung oder Bezirkszuordnung, Ausführung, Basis, Satz und verbuchte Zahlung vergleichen. Fehlen Stornogrund oder Ausführungsdaten, konkrete Positionen nachfordern; nach Antwort Anspruch und Rechnung aktualisieren und den verlangten Brief oder Berechnungsvermerk ausformulieren.
+3. Bei Vertragsende Kündigung und Zugang, Endtermin, nachvertragliche Provision und Ausgleich auseinanderhalten. Fehlende Kundenerträge oder Anmeldungsnachweise gezielt erfragen; nach Eingang Fristbewertung und Ausgleichsrechnung fortführen, nicht bei der Nachforderung stehen bleiben.
+4. Bei Vertragsgestaltung Gebietsrechte, Vergütung, Informationspflichten, Laufzeit und Beendigung aufeinander abstimmen. Ändert eine Antwort den Vertriebskanal oder Kundenkreis, die davon betroffenen Klauseln überarbeiten und die bestellte Fassung fertigstellen.
 
-## Wofür dieser Arbeitsgang da ist
-Wer ist was, welche Geschäfte, welche Vergütung, welches Gebiet, welches Ende und welcher Anspruch.
+Weitere kurze Rückfragerunden sind zulässig, wenn eine Antwort eine neue entscheidende Lücke zeigt. Bereits geklärte Angaben nicht nochmals erheben. Bei Hindernissen den belastbaren Teil vorläufig liefern; fehlende Belege nicht durch vermeintlich sichere Annahmen ersetzen.
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+## 1.3. Recht und Belege
 
-## Kaltstartfragen
+Prüfe die einschlägigen Paragrafen 84 bis 92c HGB und die Richtlinie 86/653/EWG anhand amtlicher Quellen. Anspruch, Informationsrecht, Einwendung und Beweislast konkret zuordnen. Eine Geschäftsbezeichnung beweist ebenso wenig den Status wie eine Provisionssumme die Vollständigkeit eines Buchauszugs.
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+Entscheidungen nur mit überprüftem Gericht, Datum, Aktenzeichen und tragender Aussage verwenden; keine Literaturfundstellen aus Modellwissen. Die optional verfügbare `references/zitierweise.md` ergänzt die Zitierweise. Offene Rechtsprüfung und fehlende Geschäftsdaten in einer getrennten Arbeitsnotiz unterscheiden.
 
-## Arbeitslogik
+## 1.4. Ausgabe und Grenzen
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+Liefere die gewünschte Beratung, Berechnung, Vertragsklausel oder Erklärung vollständig ausformuliert. Ein Beratungsauftrag rechtfertigt keinen ungefragten Klageentwurf; ein bestellter Brief ist nicht durch einen Fahrplan erledigt. Tabellen nur für Geschäftsdaten, Rechnungen oder echte Varianten verwenden, keine Pflichtampeln oder internen Prüffeldnamen ausgeben.
 
-## Fachanker
+Die Nutzerbenennung für die Datei geht vor. Formatierte Dokumente möglichst in Times New Roman 11 pt und mit dezimaler Gliederung; bei Textausgabe einen getrennten Exporthinweis geben. Kündigung, Anmeldung, Versand oder Einreichung nur nach ausdrücklicher Freigabe veranlassen.
 
-- Primärer Anker: HGB §§ 84-92c; RL 86/653/EWG.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+## 1.5. Beispiel
 
-## Typische Stolperstellen
+Für eine Provisionsforderung fehlen bei drei Aufträgen die Ausführungsdaten. Fordere diese Angaben gezielt an und berechne zunächst nur die belegten Positionen. Nach Eingang die drei Aufträge prüfen, Gesamtdifferenz aktualisieren und das bestellte Forderungsschreiben fertigstellen; widersprüchliche Stornos gesondert klären.
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
-
-## Ergebnisformat
-
-Erzeuge bevorzugt: Fallfahrplan. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
-
-## Qualitätsfilter
-
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Ohne weitere Skills anhand dieses Ablaufs weiterarbeiten. Nicht zugängliche Dateien oder Quellen konkret benennen, keine erfolgte Prüfung vortäuschen. Ohne Export vollständigen Text liefern.

@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import json
 import re
 from pathlib import Path
 
@@ -120,17 +121,24 @@ def plugin_dirs() -> list[Path]:
 
 def prompt_files(suffix: str) -> list[Path]:
     out: list[Path] = []
-    protected = hand_curated_slugs()
     for directory in plugin_dirs():
-        profile_path = REPO / "quality" / "evals" / f"{directory.name}.json"
-        if profile_path.is_file():
-            from quality_lab import load, validate_profile
-            validate_profile(load(profile_path), directory.name, directory, REPO)
-            continue
-        if directory.name in protected:
+        if prompt_is_protected(directory):
             continue
         out.extend(sorted(directory.glob(f"*{suffix}")))
     return [p for p in out if p.is_file()]
+
+
+def prompt_is_protected(directory: Path) -> bool:
+    manifest_path = directory / ".claude-plugin" / "plugin.json"
+    slug = directory.name
+    if manifest_path.is_file():
+        slug = json.loads(manifest_path.read_text(encoding="utf-8")).get("name") or slug
+    profile_path = REPO / "quality" / "evals" / f"{slug}.json"
+    if profile_path.is_file():
+        from quality_lab import load, validate_profile
+        validate_profile(load(profile_path), slug, directory, REPO)
+        return True
+    return slug in hand_curated_slugs()
 
 
 def skill_files() -> list[Path]:
@@ -306,36 +314,46 @@ def normalize_werkstatt_final_check(text: str) -> str:
     return rebuilt.rstrip() + "\n"
 
 
-def refine_prompt(path: Path, kind: str) -> bool:
-    text = path.read_text(encoding="utf-8", errors="ignore")
-    original = text
+def transform_outside_fences(text: str, transform) -> str:
+    """Markdown-Beispiele unverändert lassen, einschließlich offener Codeblöcke."""
+    result = []
+    prose = []
+    fence = None
+    for line in text.splitlines(keepends=True):
+        if fence is not None:
+            result.append(line)
+            if re.fullmatch(r" {0,3}" + re.escape(fence[0]) + r"{" + str(len(fence)) + r",}[ \t]*(?:\r?\n)?", line):
+                fence = None
+            continue
+        opening = re.match(r" {0,3}(`{3,}|~{3,})([^\r\n]*)", line)
+        if opening and not (opening[1][0] == "`" and "`" in opening[2]):
+            result.append(transform("".join(prose)))
+            prose = []
+            fence = opening[1]
+            result.append(line)
+        else:
+            prose.append(line)
+    result.append(transform("".join(prose)))
+    return "".join(result)
 
-    if kind == "werkstatt":
-        text = normalize_werkstatt_headings(text)
-        text = text.replace(OLD_WERKSTATT_BLOCK, WERKSTATT_BLOCK)
-        text = normalize_werkstatt_headings(text)
-        text = STATION_PATTERN.sub(
-            "Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.",
-            text,
-        )
-        text = FIELD_PATTERN.sub(
-            "Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.",
-            text,
-        )
-        if "Schlusskontrolle für Tempo" in text:
-            text = normalize_werkstatt_final_check(text)
-        elif len(text.encode("utf-8")) < 12 * 1024:
-            text = text.rstrip() + "\n\n" + werkstatt_final_check_block(text)
-        if "Arbeitsmodus: schnell und belastbar" not in text:
-            text = insert_werkstatt_tempo_under_role(text)
-    else:
-        text = normalize_schnellstart_headings(text)
-        modern_start = "Sofortstart nach Eingangslage" in text
-        if "Schnellmodus" not in text and not modern_start:
-            candidate = insert_before_first_h2(text, SCHNELLSTART_BLOCK)
-            if len(candidate.encode("utf-8")) <= MAX_SCHNELLSTART_BYTES:
-                text = candidate
-        text = normalize_schnellstart_headings(text)
+
+def refine_prompt(path: Path, kind: str) -> bool:
+    if kind not in {"werkstatt", "schnellstart"}:
+        raise ValueError(f"Unbekannte Promptart: {kind}")
+    # Der Schutz gilt auch bei Direktaufruf, nicht nur bei der Dateiauswahl.
+    if prompt_is_protected(path.parent):
+        return False
+    text = path.read_text(encoding="utf-8")
+    original = text
+    # Nur vollständige historische Standardblöcke entfernen. Überschriften
+    # allein rechtfertigen weder das Ersetzen noch das Ergänzen eines Ablaufs.
+    obsolete = (OLD_WERKSTATT_BLOCK, WERKSTATT_BLOCK, WERKSTATT_ERGONOMY_BLOCK) if kind == "werkstatt" else (SCHNELLSTART_BLOCK,)
+    def remove_obsolete(prose):
+        for block in obsolete:
+            prose = re.sub(r"^" + re.escape(block), "", prose, flags=re.MULTILINE)
+        return prose
+
+    text = transform_outside_fences(text, remove_obsolete)
 
     if text != original:
         path.write_text(text, encoding="utf-8")
@@ -344,10 +362,11 @@ def refine_prompt(path: Path, kind: str) -> bool:
 
 
 def refine_skill(path: Path) -> bool:
-    text = path.read_text(encoding="utf-8", errors="ignore")
+    text = path.read_text(encoding="utf-8")
     # Der alte Zusatz erzwang auch bei einem konkreten Entwurf eine Vorabfassung.
     # Nur diesen vollständig bekannten Absatz entfernen, Fachabläufe erhalten.
-    updated = text.replace("\n\n" + DIREKTSTART_SENTENCE + "\n", "\n")
+    pattern = r"\n\n" + re.escape(DIREKTSTART_SENTENCE) + r"(?=\n|\Z)"
+    updated = transform_outside_fences(text, lambda prose: re.sub(pattern, "", prose))
     if updated == text:
         return False
     path.write_text(updated, encoding="utf-8")

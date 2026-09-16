@@ -1,6 +1,6 @@
 # 1. Neutralen Aktenauszug erstellen
 
-Bereite vorhandene Gerichtsunterlagen für Einarbeitung, Übergabe oder Terminsvorbereitung auf. Liefere einen neutralen Auszug, keine ungefragte Klage, Relation oder Urteilsfassung. Nutzersachverhalt und Dateien zuerst auswerten; nur nach blockierenden Lücken fragen. Ein gewünschter Teilauszug oder eine Fortschreibung hat Vorrang vor dem Vollformat.
+Bereite vorhandene Gerichtsunterlagen für Einarbeitung, Übergabe oder Terminsvorbereitung auf. Liefere einen neutralen Auszug, keine ungefragte Klage, Relation oder Urteilsfassung. Bestimme Umfang und Empfänger aus Nutzerauftrag und Dateien, bevor du nach fehlenden Angaben fragst. Ein gewünschter Teilauszug oder eine Fortschreibung hat Vorrang vor dem Vollformat.
 
 ## 2. Verfahren und Bestand bestimmen
 
@@ -20,18 +20,20 @@ Parteibezeichnungen dem tatsächlichen Verfahren anpassen; ein Straf- oder Verwa
 
 3.5. Verfahrenschronologie: Schriftsatzdatum, Eingang, Zustellung, Anträge, Hinweise, Beweisaufnahme und Entscheidungen getrennt erfassen. Geänderte Anträge mit Zeitpunkt festhalten, frühere Fassungen nicht zum aktuellen Begehren erklären. Termine und Fristen mit Fundstelle hervorheben. Fehlende Zustellung sperrt nur die davon abhängige Fristberechnung.
 
-3.6. Gegenüberstellung: Drei Tabellen zu Tatsachenvortrag, Beweismitteln und Rechtsargumenten liefern. Je Streitpunkt Position, Erwiderung und Fundstelle zuordnen. Beweisangebot, erhobener Beweis und protokolliertes Ergebnis sind verschiedene Bearbeitungsstände. Rechtsargumente als Position ihres Urhebers kennzeichnen, nicht als gesichertes Ergebnis ausgeben.
+3.6. Gegenüberstellung: Tatsachenvortrag, Beweismittel und Rechtsargumente getrennt darstellen; beim vollständigen Auszug eignen sich dafür drei Tabellen. Ein enger Teilauszug benötigt nur die einschlägige Gegenüberstellung. Je Streitpunkt Position, Erwiderung und Fundstelle zuordnen. Beweisangebot, erhobener Beweis und protokolliertes Ergebnis sind verschiedene Bearbeitungsstände. Rechtsargumente als Position ihres Urhebers kennzeichnen, nicht als gesichertes Ergebnis ausgeben.
 
 ## 4. Passende Vertiefung
 
 Optional stehen [Aktenauszug erstellen](skills/aktenauszug-erstellen/SKILL.md), [Sachverhaltschronologie](skills/sachverhaltschronologie/SKILL.md), [Verfahrenschronologie](skills/verfahrenschronologie/SKILL.md) und [Parteivortrag gegenüberstellen](skills/parteivortrag-gegenueberstellung/SKILL.md) bereit. Ohne diese Dateien reichen die sechs Bausteine oben als Arbeitsweg. Nur zum neutralen Auszug passende Schritte übernehmen; rechtliche Bewertung und Strategie nur auf gesonderten Auftrag.
 
-Bei Nachlieferungen vorhandene Fundstellen und unveränderte Inhalte weiterverwenden. Neue Anträge, Termine und Entscheidungen ergänzen, überholte Stände nachvollziehbar kennzeichnen. Widersprüche nicht still überschreiben.
+Fehlt die in einer Erwiderung erwähnte Klageschrift, frage nach dieser Datei und kennzeichne die nur mittelbar bekannte Position. Ist unklar, welcher Antrag noch gilt, bitte um das betreffende Protokoll oder die spätere Erklärung. Fehlt ein Zustellnachweis, frage gezielt danach und lasse nur die abhängige Fristberechnung offen. Erstelle die übrigen Teile weiter.
+
+Nach der Antwort die betroffene Position, Chronologie oder Frist und die daraus folgenden Aussagen aktualisieren. Ergibt sich dabei eine neue entscheidende Lücke, frage kurz weiter; bereits beantwortete Fragen nicht wiederholen. Vorhandene Fundstellen weiterverwenden und Widersprüche nicht still überschreiben. Setze den Auszug nach jeder Nachlieferung bis zur beauftragten vollständigen Fassung fort.
 
 ## 5. Ergebnis prüfen und ausgeben
 
 Prüfe, ob jeder wesentliche Antrag einer Fassung und jeder Tatsachenbefund einer Quelle zugeordnet ist. Nenne fehlende Anlagen, offene Zustellnachweise und den nächsten aktenkundigen Termin, ohne einen nicht belegten Termin zu erfinden. Der Auszug ersetzt nicht die eigene Aktenlektüre.
 
-Keine allgemeine Rechtsquellenliste für reine Aktenextraktion. Soll eine Rechtsbehauptung bewertet werden, verifiziere die konkrete amtliche Quelle; Aktenzitat und eigene Verifikation trennen. Norm mit maßgeblicher Fassung, Entscheidung mit Gericht, Entscheidungsform, Datum, Aktenzeichen und belegter Randnummer nennen. Die [Zitierweise](../references/zitierweise.md) ist optional, kein erforderliches Zusatzdokument.
+Keine allgemeine Rechtsquellenliste für reine Aktenextraktion. Soll eine Rechtsbehauptung bewertet werden, verifiziere die konkrete amtliche Quelle; Aktenzitat und eigene Verifikation trennen. Norm mit maßgeblicher Fassung, Entscheidung mit Gericht, Entscheidungsform, Datum, Aktenzeichen und belegter Randnummer nennen. Interne Recherchegrenzen gesondert vermerken, nicht ungefragt in einen Mandantenbrief übernehmen. Die [Zitierweise](../references/zitierweise.md) ist optional, kein erforderliches Zusatzdokument.
 
 Liefere vollständige Sätze, dezimale Überschriften und Leerzeilen. Verwende für formatierte Vermerke Times New Roman 11 pt oder nenne dies als Exporthinweis. Ohne Dateiexport den vollständigen Text liefern, keinen Dateilink erfinden. Fehlende Werkzeuge oder Teilakten begrenzen nur den betroffenen Schritt. Nichts ungefragt einreichen oder versenden.

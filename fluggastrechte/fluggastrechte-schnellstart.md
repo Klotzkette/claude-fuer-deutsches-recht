@@ -4,23 +4,17 @@ Prüfe anhand von Buchung, Flugverlauf und tatsächlicher Ankunftszeit Anspruch,
 
 Kernauftrag: Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspätung prüfen, außergewöhnliche Umstände, Distanz, Ausgleich, Forderungsschreiben, Mahnung und Klage. Vorrang hat das verlangte Arbeitsprodukt.
 
-## 1.1. Sofortstart nach Eingangslage
+## 1.1. Buchung und Auftrag auswerten
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Buchung und Reichweite, Ereignis und Zeit, Anspruch wählen; ohne konkreten Auftrag mit Buchung und Reichweite beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Lies Buchungsbestätigung, Bordkarten, Störungsmitteilung, Ersatzangebot, Zahlungs- und Kostenbelege sowie die Antwort des Luftfahrtunternehmens. Übernimm bekannte Angaben zu Reisenden, Strecke, Buchung und gewünschtem Dokument, statt sie erneut zu erfragen. Kläre einen offenen Auftrag nur, soweit er das Ergebnis verändert; eine Beratungsfrage führt nicht ungefragt zur Klage.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Buchung und Reichweite, Ereignis und Zeit, Anspruch und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Frage nach entscheidenden fehlenden Nachweisen auch dann, wenn Dateien vorliegen. Eine planmäßige Landezeit belegt nicht die tatsächliche Ankunft am Endziel. Liefere die bereits begründbaren Teile vorläufig, ohne einen offenen Zeitpunkt als Tatsache einzusetzen.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 1.2. Fehlende Angaben und Fortsetzung
 
-## 1.2. Fachlicher Direktstart
+Fehlt bei Verspätung die tatsächliche Ankunftszeit, frage nach Mitteilungen, Fotos oder konkreten Wahrnehmungen zur Türöffnung. Gleiche die Antwort mit dem Flugverlauf ab, berechne den Zeitverlust und die betroffene Ausgleichsposition neu und schreibe die Forderung oder Erwiderung fertig. Bei Annullierung kläre den Zugang der Mitteilung sowie angebotene Ersatzzeiten. Ergibt sich daraus eine neue entscheidende Unklarheit, frage dazu gezielt nach.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Gilt die VO (EG) 261/2004 für Abflug, Ankunft, Unternehmen und Buchungskette.
-2. Kernprüfung in einem Durchgang: Welche Störung liegt vor und wie groß ist die Verspätung am Endziel; Welche Distanzstufe, Kürzung und bereits erbrachte Leistung bestimmen den Betrag.
-3. Belege und Engpass zusammenführen: Darlegungs- und Nachweisfrage für Fluggastrechte: Welche Distanzstufe, Kürzung und bereits erbrachte Leistung bestimmen den Betrag; besonders kritisch ist: Buchung, ausführendes Luftfahrtunternehmen oder tatsächliche Ankunftszeit am Endziel ist nicht belegt.
-4. Erstes Arbeitsprodukt liefern: Flugmatrix: Segment, Flugnummer, Unternehmen, Planzeit, Istzeit, Störung, Ursache, Endzielverlust und Beleg.
+Beruft sich das Unternehmen pauschal auf außergewöhnliche Umstände, verlange eine konkrete Erläuterung von Ereignis, Flugbezug und Gegenmaßnahmen. Werte die Antwort aus und überarbeite die betroffene Argumentation; behandle die behauptete Ursache nicht ungeprüft als feststehend. Eine nachgewiesene Ausnahme beim Ausgleich beendet nicht automatisch die Prüfung von Betreuung und Erstattung.
 
 ## 1.3. Kernroute
 
@@ -30,16 +24,9 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 4. Entlastung: behauptetes Ereignis, externe Beherrschbarkeit, Ursächlichkeit und jede konkret zumutbare Maßnahme des Unternehmens prüfen.
 5. Verfahren: Anspruchsgegner, Abtretung, Verjährung oder Ausschlussfrist, Gerichtsstand, Belege und Zustellung ordnen.
 
-## 1.4. Fallkarte
+## 1.4. Beweis und Quellen
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | VO (EG) 261/2004 Artikel 3; VO (EG) 261/2004 Artikel 4 bis Artikel 7; VO (EG) 261/2004 Artikel 5 Absatz 3 |
-| Rechtsprechung | EuGH, Urteil vom 22.12.2008 - C-549/07; EuGH, Urteil vom 19.11.2009 - C-402/07 und C-432/07 |
-| Tatbestand | Fluggast, Buchungscode, ausführendes Unternehmen, Abflug, Ziel, einheitliche Buchung und Anwendungsbereich sichern |
-| Beweislast | Darlegungs- und Nachweisfrage für Fluggastrechte: Welche Distanzstufe, Kürzung und bereits erbrachte Leistung bestimmen den Betrag |
-| Rechtsfolge | Forderungsschreiben, Belegmatrix, Erwiderung auf Standardausrede, Mahnung, Klage oder Vergleich erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Ordne streitige Tatsachen und Nachweise dem jeweiligen Anspruch zu. Trenne Angaben der Reisenden, Bestätigungen des Unternehmens und eigene Berechnungen. VO (EG) 261/2004 Artikel 3, Artikel 4 bis Artikel 7 und Artikel 5 Absatz 3 sind fallbezogen zu prüfen. EuGH, Urteil vom 19.11.2009 - C-402/07 und C-432/07, nur nach amtlicher Prüfung der einschlägigen Aussage verwenden. Quellenstatus und offene Recherche gesondert notieren, nicht als Pflichtteil des Forderungsschreibens.
 
 ## 1.5. Ergebniswahl
 
@@ -60,14 +47,12 @@ Annullierung: Mitteilungsdatum und Ersatzzeiten. Verspätung: Endzielankunft und
 
 ## 1.7. Antwortform
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Forderungsschreiben, Belegmatrix, Erwiderung auf Standardausrede, Mahnung, Klage oder Vergleich erstellen.
-1.7.2. Norm: VO (EG) 261/2004 Artikel 3; VO (EG) 261/2004 Artikel 4 bis Artikel 7 mit dem entscheidenden Merkmal verbinden.
-1.7.3. Aktenfund: Für „Buchung und Reichweite“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Darlegungs- und Nachweisfrage für Fluggastrechte: Welche Distanzstufe, Kürzung und bereits erbrachte Leistung bestimmen den Betrag. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Störung liegt vor und wie groß ist die Verspätung am Endziel.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Flugmatrix“. Frist, Kernlücke und nächstem Dokument benennen.
+Liefere das bestellte Forderungsschreiben, die Erwiderung oder Beratung in vollständigen Sätzen mit konkreten Einzelbeträgen und Begründung. Eine Flugübersicht nur ergänzen, wenn mehrere Segmente oder Reisende sie sinnvoll machen. Prüfe vor Abschluss neue Angaben, Zahlungen und Kostenbelege gegen die Rechnung; eine Nachforderung ist kein Endprodukt. Nach Eingang an der betroffenen Stelle bis zur fertigen Fassung fortsetzen.
 
-## 1.8. Stop
+## 1.8. Grenzen
 
 Bei unklarer Ankunft belegte Zeitspanne und deren Betragsfolgen zeigen. Airline statt bloßem Buchungsportal als Anspruchsgegner prüfen; gegen eine Abtretung nicht nochmals im eigenen Namen verfügen. Werkstatt optional. Keine Buchung, Abtretung, Klage oder Forderung selbst versenden. Ausformulierte Forderung mit Einzelbeträgen, amtlicher Quellenprüfung, dezimaler Gliederung und Markdown-Exporthinweis Times New Roman 11 pt.
+
+## 1.9. Technische Grenzen
+
+Ohne Datei- oder Quellenzugriff die konkrete Lücke in einer getrennten Arbeitsnotiz benennen; ohne Export vollständigen Text liefern. Ohne weitere Skills hier weiterarbeiten und bei Werkzeugfehlern einen begründeten Ersatzweg versuchen. Ungelesene Unterlagen nicht als geprüft bezeichnen und keinen erfolgreichen Versand oder Dateiexport vortäuschen.

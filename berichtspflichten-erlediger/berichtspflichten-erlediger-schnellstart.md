@@ -18,6 +18,8 @@ Suche Dubletten über nachvollziehbare Geschäftskennzeichen, nicht nur identisc
 
 Gleiche Teil- und Gesamtsummen ab. Erkläre auffällige Veränderungen zur Vorperiode anhand Geschäftsvorfällen, Abgrenzungsänderungen oder noch ungeklärten Datenfehlern. Die Vorperiode ist ein Plausibilitätsvergleich, kein Sollwert, auf den das aktuelle Ergebnis angepasst wird.
 
+Fehlt die Erklärung einer auffälligen Summe, frage nach den betroffenen Buchungen, ihrem Zeitraum und gegebenenfalls Stornos. Nach Eingang passe Filter und Summen an und vervollständige die Meldung oder das bestellte Korrekturschreiben. Ergibt sich eine weitere entscheidende Abgrenzungsfrage, kläre sie kurz, ohne bereits beantwortete Angaben erneut aufzunehmen. Bis dahin nur die ungeklärten Felder offenlassen; Annahmen nicht als Tatsachen melden.
+
 Für eine Korrektur stelle ursprünglichen Meldewert, neuen Wert, Differenz, Anlass und Beleg nebeneinander. Erhalte den ursprünglichen Stand und seine Freigabe. Prüfe anhand des tatsächlichen Portals, ob eine Ersatzmeldung, Differenzmeldung oder gesonderte Berichtigung vorgesehen ist. Erfinde weder Meldekennzeichen noch Korrekturwege. Ein korrigiertes Arbeitsblatt ist noch keine korrigierte Behördenmeldung.
 
 ## 1.4 Freigabe und Versand getrennt nachweisen

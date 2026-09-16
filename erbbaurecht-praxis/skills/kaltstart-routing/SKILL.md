@@ -14,7 +14,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Frage gezielt nach fehlender Erbbauzinsklausel, letzter Anpassung oder dem für den Auftrag entscheidenden Zustimmungs- und Rangnachweis. Nach Eingang Inhalt und Reichweite prüfen, die betroffene Rechnung oder Vertragsfassung aktualisieren und das bestellte Schreiben fertigstellen. Weitere Fragen nur bei entscheidenden neuen Lücken, keine erneute Aufnahme. Unabhängige Teile vorläufig bearbeiten; aus einer angekündigten Zustimmung keine erteilte Zustimmung machen.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
@@ -48,5 +48,5 @@ ErbbauRG, GBO, GBV, BGB-Sachenrecht, Finanzierungs- und Vollzugspraxis des Erbba
 1. **Aktenlage sichern:** Liste vorhandene Dokumente, fehlende Nachweise, offene Originale, Register-/Grundbuchauszüge, Aktenzeichen, Datum, Beteiligte und Entscheidungsdruck.
 2. **Form und Zuständigkeit prüfen:** Trenne materielle Rechtslage, formelle Nachweise, elektronische Einreichung, Beglaubigung/Beurkundung, Übersetzung/Apostille und Zuständigkeit.
 3. **Hindernisse benennen:** Formuliere jedes Hindernis konkret: behebbar, streitig, riskant, rein redaktionell oder materiell-rechtlich.
-4. **Nächste Handlung erzeugen:** Liefere bei Bedarf Nachreichungsschreiben, Mandantenupdate, Checkliste, Fristenlog, Beschwerdegerüst oder Vollzugsmatrix.
+4. **Dokument fertigstellen:** Liefere das beauftragte Nachreichungsschreiben, die Mandantenantwort, Klauselfassung oder rechtliche Bewertung vollständig. Nach einer Antwort am bestehenden Ergebnis fortsetzen, nicht beim Beschwerdegerüst oder einer Skill-Empfehlung bleiben. Quellenstatus gesondert dokumentieren; externe Handlungen nur nach Freigabe.
 5. **Belegdisziplin:** Zitiere Normen nur, wenn sie zum Schritt passen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst ausdrücklich als zu verifizieren markieren.

@@ -7,20 +7,18 @@ Kernauftrag: Freistehendes Energierecht-Plugin für Stadtwerke, Versorger, Wärm
 ## 1.1. Sofortstart nach Eingangslage
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
+- Konkreter Auftrag: Am verlangten Schreiben, Vertrag oder Gutachten arbeiten; kein Lagebild oder Standardprodukt voranstellen. Fehlende Tatsachen nicht durch Annahmen ersetzen.
 - Nur Prompt gestartet: Bei zugänglichem Material zwischen Marktrolle und Anlage, Regelungsstand, Technik und Daten wählen; ohne konkreten Auftrag mit Marktrolle und Anlage beginnen.
 - Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Marktrolle und Anlage, Regelungsstand, Technik und Daten und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
-
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Fehlende Angaben nach ihrer Bedeutung für den konkreten Streit erfragen, auch wenn schon Unterlagen vorliegen. Vorhandene Antworten übernehmen; bei neu erkennbaren entscheidenden Lücken gezielt nachfassen.
 
 ## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Marktrolle, Netzebene, Anlage und Rechtsfassung bestimmen den Fall.
 2. Kernprüfung in einem Durchgang: Welche technischen Daten und Netzberechnungen tragen Anschluss, Kapazität oder Kosten; Welche gesetzliche Pflicht, Festlegung, Genehmigung oder Vertragsklausel regelt die konkrete Leistung.
 3. Belege und Engpass zusammenführen: Bei Rechnungseinwänden Zählernummer, Anfangs- und Endstand, Ableseart, Tarifzeitraum und gezahlte Abschläge abstimmen. Bei Anschlussfragen stattdessen Leistung, Netzebene, Begehren und Netzstudie sichern. Nicht für eine Haushaltsrechnung erst technische Projektdaten verlangen.
-4. Erstes Arbeitsprodukt liefern: Energieobjektblatt: Standort, Anlage, Leistung, Spannung, Marktrolle, Netz, Messung, Vertrag, Rechtsfassung und Frist.
+4. Das bestellte Ergebnis ausarbeiten: etwa Einwendung gegen die Jahresrechnung, Anschlussbegehren, Vertragsänderung oder rechtliche Bewertung. Eine technische Anlagenübersicht ist nur bei einem entsprechenden Projektauftrag erforderlich.
 
 ## 1.3. Kernroute
 
@@ -57,16 +55,14 @@ Lieferstreit: Vertrag, Zähler und Zahlungsabgleich. Netzanschluss: technische A
 - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
-## 1.7. Antwortform
+## 1.7. Fehlende Belege und Fortsetzung
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Anschlussdossier, Entgeltprüfung, Regulierungsantrag, Vertragsredline, Projekt-Risikomatrix oder Behördenstellungnahme erstellen.
-1.7.2. Norm: EnWG Paragraf 1; EnWG Paragraf 17 bis Paragraf 21a mit dem entscheidenden Merkmal verbinden.
-1.7.3. Aktenfund: Für „Marktrolle und Anlage“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Darlegungs- und Nachweisfrage für Energie-, Netz-, Wärme- und Projektregulierung: Welche gesetzliche Pflicht, Festlegung, Genehmigung oder Vertragsklausel regelt die konkrete Leistung. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche technischen Daten und Netzberechnungen tragen Anschluss, Kapazität oder Kosten.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Energieobjektblatt“. Halte fest, welche Frist läuft, welche Angabe zur Anlage oder Leistung fehlt und welches Dokument als Nächstes benötigt wird.
+Bei Rechnungseinwänden einen fehlenden Ablesebeleg, Tarifwechsel oder Zahlungsnachweis gezielt anfordern. Nach Eingang Verbrauch, Preiszeiträume und Abschläge neu abstimmen und den bestellten Brief mit den nachrechenbaren Beträgen fertigschreiben. Widerspricht die Ablesung einem Zählerwechselprotokoll, nur diesen Widerspruch nachfragen; keinen geschätzten Wert als Messwert behandeln.
 
-## 1.8. Stop
+Beim Netzanschluss fehlende Leistungsdaten oder die Begründung des Netzbetreibers anfordern. Nach Eingang Anschlussbegehren, technische Gegenargumente und Kostenbewertung aktualisieren und das verlangte Anschreiben oder Gutachten abschließen. Fehlende Netzstudien beweisen keine fehlende Kapazität. Ein Gutachtenauftrag führt nicht ungefragt zu einem Regulierungsantrag. Interne Berechnungs- und Quellenprüfvermerke getrennt vom Empfängertext halten. Bei einem Hindernis den bearbeitbaren Teil vorläufig liefern und nach der Antwort am offenen Punkt fortsetzen.
+
+## 1.8. Grenzen und Arbeitsmittel
 
 Bei fehlender Festlegung nur die abhängige Bewertung offenlassen. Liefere eine nachrechenbare Rechnung oder ein Anschlussdossier mit benanntem Engpass. Verbrauch mal Arbeitspreis und zeitanteiligen Grundpreis getrennt rechnen; Brutto und Netto nicht mischen. Werkstatt optional. Keine Versorgung kündigen, Zahlung stoppen oder Anlage schalten. Quellen amtlich prüfen, Endtext ausformulieren und dezimal gliedern; Markdown-Exporthinweis Times New Roman 11 pt.
+
+Nur verfügbare Werkzeuge nutzen und fehlenden Datei- oder Quellenzugriff konkret benennen. Bei technischen Fehlern einen sinnvollen Alternativweg versuchen, sonst den bearbeitbaren Stand sichern; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten und ungeprüfte Teile nicht als freigegeben ausweisen.

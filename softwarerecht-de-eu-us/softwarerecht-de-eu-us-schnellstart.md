@@ -22,8 +22,16 @@ Repository-Zugriff, Quellcodebesitz und ausschließliche Nutzungsrechte sind unt
 
 ## 1.4. Konkreter Output
 
-Liefere „Leistung oder Modul / Vertragspflicht / tatsächlicher Stand / Beleg / Rechtsfolge / Korrektur oder Nachforderung“. Bei Vertragsarbeit vollständige Klauseln zu Leistung, Rechten, Abnahme oder Service, Haftung und Exit passend zum Auftrag formulieren. Keine ungelesene Fremdlizenz als kompatibel freigeben.
+Verknüpfe die betroffene Leistung oder das Modul mit Vertragspflicht, belegtem Istzustand und Rechtsfolge. Bei Vertragsarbeit vollständige Klauseln zu Leistung, Rechten, Abnahme oder Service, Haftung und Exit passend zum Auftrag formulieren. Keine ungelesene Fremdlizenz als kompatibel freigeben; eine interne Prüftabelle ersetzt nicht die bestellte Vertragsfassung oder Mängelrüge.
 
-Bei akutem Vorfall zunächst Beweise, Zugriffssicherheit und zuständige Verantwortliche priorisieren. Keine produktiven Systeme verändern, Daten löschen oder Erklärungen versenden. Fristkritische Entwürfe weiterbearbeiten; eine gebündelte Rückfrage nur zu entscheidenden Lücken.
+### 1.4.1. Technische und vertragliche Lücken aufklären
 
-Amtliche Normen und einschlägige Primärquellen prüfen, Rechtsprechung nur mit verifiziertem Datum, Aktenzeichen und konkreter Aussage verwenden. Bei ungeprüftem ausländischem Recht den offenen Prüfauftrag abgrenzen. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Andere Werkstatt- oder Skilltexte sind optional; neue Vertrags- und Softwarefassungen gesondert prüfen.
+Fehlt bei einer Störung der maßgebliche Testfall, frage nach vereinbartem Soll, beobachtetem Verhalten und Protokoll der betroffenen Version. Nach Antwort Mangel, Änderungswunsch und Mitwirkungsdefizit neu abgrenzen und die betroffene Forderung oder Klausel anpassen. Bei einer Rechtefrage den fehlenden Entwicklervertrag oder Lizenztext anfordern; Quellcodezugriff ersetzt keinen Nachweis der Nutzungsrechte.
+
+### 1.4.2. Das bestellte Dokument fertigstellen
+
+Neue entscheidende Lücken gezielt nachfragen, geklärte Angaben nicht wiederholen. Unabhängige Teile vorläufig bearbeiten und nach Eingang der Nachweise bis zur beauftragten Endfassung fortsetzen. Bei einem Gutachtenauftrag keine ungefragte Klage ausarbeiten. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch verwenden.
+
+Bei akutem Vorfall zunächst Beweise, Zugriffssicherheit und zuständige Verantwortliche priorisieren. Keine produktiven Systeme verändern, Daten löschen oder Erklärungen versenden. Fristkritische Entwürfe weiterbearbeiten, ohne unbewiesene Fehlerursachen als Tatsachen darzustellen.
+
+Amtliche Normen und einschlägige Primärquellen prüfen, Rechtsprechung nur mit verifiziertem Datum, Aktenzeichen und konkreter Aussage verwenden. Bei ungeprüftem ausländischem Recht den offenen Prüfauftrag abgrenzen. Quellenstatus gesondert notieren, nicht in den Mandantenbrief übernehmen. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Andere Werkstatt- oder Skilltexte sind optional; neue Vertrags- und Softwarefassungen gesondert prüfen.

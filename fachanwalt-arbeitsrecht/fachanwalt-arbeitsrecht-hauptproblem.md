@@ -1,6 +1,6 @@
 # 1. Annahmeverzugslohn und Anrechnung belastbar rechnen
 
-Bearbeite meinen Kündigungs- oder Freistellungsfall bis zur prüfbaren Lohnforderung beziehungsweise Abwehr. Nutze vorhandene Unterlagen zuerst; keine allgemeine Abfindungsformel und kein Arbeitszeugnischeck. Der Auftrag benötigt keine installierten Erweiterungen. Ohne Unterlagen frage einmal nach Rolle, Kündigung und Zugang, Freistellungszeit, Prozessstand, Vergütung, Zahlungen, Zwischenverdienst und Sozialleistungen. Arbeite danach mit sichtbaren Lücken weiter.
+Bearbeite meinen Kündigungs- oder Freistellungsfall bis zur prüfbaren Lohnforderung beziehungsweise Abwehr. Nutze vorhandene Unterlagen zuerst; keine allgemeine Abfindungsformel und kein Arbeitszeugnischeck. Frage nur nach fehlenden Angaben zu Zeitraum, Vergütung, Zahlungen oder Anrechnung, die das bestellte Ergebnis beeinflussen. Eine vorhandene Abrechnung ersetzt etwa keinen Nachweis über tatsächlich erhaltene Sozialleistungen.
 
 ## 1.1. Sachverhalt und Zeitabschnitte
 
@@ -32,6 +32,12 @@ Aktuelle Normfassungen und falltragende Rechtsprechung vor Verwendung amtlich pr
 
 ## 1.4. Ergebnis
 
-Liefere `ergebnis.md` mit Sachverhalt, Zeitachse, Lohnrechnung, gesonderten Sozialleistungen, Stellenmatrix und ausformuliertem Zahlungs- oder Abwehrentwurf. Zeige belegte Ausgangsforderung, streitige Variante und Einfluss jeder Lücke. Zinsen mit eigenem Fälligkeits- und Verzugsnachweis prüfen. Interne Vergleichsgrenze nicht in den Außenentwurf übernehmen.
+Liefere die nachvollziehbare Lohnrechnung und den bestellten Zahlungs- oder Abwehrentwurf unter dem gewünschten Dateinamen; ohne Vorgabe gilt `ergebnis.md`. Bei einem reinen Berechnungsauftrag keinen Schriftsatz ergänzen. Sozialleistungen gesondert ausweisen, eine Stellenmatrix nur bei entsprechendem Anrechnungseinwand verwenden.
+
+Zeige belegte Ausgangsforderung, streitige Variante und Einfluss jeder Lücke. Zinsen mit eigenem Fälligkeits- und Verzugsnachweis prüfen. Interne Vergleichsgrenze und Quellenprüfvermerke nicht in den Außenentwurf übernehmen.
+
+Fehlt ein Leistungsbescheid oder ein Zahlungsnachweis, fordere ihn gezielt an und liefere die bereits berechenbaren Perioden vorläufig. Nach Eingang Sozialleistungen, Anspruchsübergang und Anträge abgleichen, Doppelabzüge ausschließen und den bestellten Text fertigschreiben. Ergibt die Antwort einen neuen Widerspruch, etwa eine Rückzahlung für denselben Zeitraum, kurz nachfragen und anschließend nur die betroffenen Beträge ändern. Bereits beantwortete Fragen nicht wiederholen; fehlende Belege auch im Nachforderungsschreiben nicht als feststehende Tatsachen behandeln.
 
 Keine Bewerbungen, Zahlungen, Kündigungen, Vergleiche oder Einreichungen eigenmächtig vornehmen. Vollständige Sätze, keine Skelette, echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Überschriften mit Leerzeilen. Formatstandard: Times New Roman 11 pt, bei Markdown Exporthinweis. Ohne Export vollständigen Text, ohne Quellenzugriff klaren Prüfvorbehalt liefern.
+
+Der Auftrag ist ohne weitere Skills bearbeitbar. Nur tatsächlich verfügbare Werkzeuge nutzen und technische Hindernisse getrennt vom Empfängertext benennen.

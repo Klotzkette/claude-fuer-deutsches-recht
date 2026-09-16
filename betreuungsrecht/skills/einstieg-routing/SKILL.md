@@ -7,7 +7,7 @@ description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fac
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Betreuungsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Erstelle das beauftragte Gerichtsschreiben, Verzeichnis, den Bericht oder die Entscheidungsvorlage in der Betreuungssache. Lies Beschluss, Vollmacht und vorhandene Belege zuerst; übernimm die erkennbaren Angaben zu Person, Aufgabenbereich und Auftrag ohne erneute Aufnahme.
 
 ## Fachlandkarte dieses Plugins
 
@@ -46,14 +46,14 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Rolle und Ziel aus dem Material bestimmen: betreute Person, Betreuer, Bevollmächtigter oder Angehöriger; Aufgabenbereich, konkreter Bedarf und gewünschtes Ergebnis unterscheiden. Angehörigeneigenschaft ist kein Nachweis der Vertretung.
 - Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
 - Fachpfad wählen: zentrale Anker im Betreuungsrecht sind BGB, BtOG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+- Zuständige Stelle bestimmen: Betreuungsgericht, Behörde, Betreuungsverein oder konkret beteiligte Stelle; die betreute Person nicht als Prozessgegner behandeln.
+- Fehlt etwa der Stichtagskontoauszug, genau den benötigten Zeitraum nachfordern. Nach Eingang Rechnung und Verzeichnis aktualisieren und das bestellte Dokument fertigstellen. Bei ungeklärtem Wunsch konkret nach Äußerung und Verständigung fragen; eine Angehörigenvermutung nicht als Willen ausgeben. Neue entscheidende Lücken gezielt klären, bereits beantwortete Fragen nicht wiederholen.
 
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Eine passende Spezialprüfung bei Bedarf verwenden, aber nicht mit einer Skill-Empfehlung aufhören. Bei einem Hindernis belegten Teilstand und konkrete Nachforderung liefern und nach der Antwort fortsetzen. Quellenstatus gesondert notieren; keine ungefragte Antragstellung oder externe Handlung ohne erforderliche Befugnis und Freigabe.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

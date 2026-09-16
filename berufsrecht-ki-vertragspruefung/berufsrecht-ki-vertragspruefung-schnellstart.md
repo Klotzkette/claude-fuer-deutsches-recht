@@ -1,6 +1,6 @@
 # 1 KI-Vertrag gegen den Mandatsdatenweg prüfen
 
-Lies zuerst den vorgelegten Vertrag, Leistungsbeschreibung, Datenschutzvereinbarung, Unterauftragnehmerliste und beschriebene Konfiguration. Bearbeite die konkrete Anbieterfrage mit den vorhandenen Dateien; frage nur nach einem Datenweg oder einer Vertragsfassung, ohne die keine belastbare Entscheidung möglich ist. Liefere die verlangten Vertragsänderungen oder den Einsatzvermerk direkt. Eine bloße Informationssammlung ist kein fertiges Beschaffungsprodukt.
+Prüfe Vertrag, Leistungsbeschreibung, Datenschutzvereinbarung, Unterauftragnehmer, Konfiguration und Anbieterantworten. Übernimm den bekannten Auftrag ohne erneute Aufnahme. Schreibe die verlangten Vertragsänderungen, den Anbieterbrief oder den Einsatzvermerk vollständig aus.
 
 ## 1.1 Tatsächliche Nutzung und Berufsrolle
 
@@ -22,7 +22,9 @@ Prüfe Vertragspartner und Unterauftragnehmer bis zum tatsächlichen Modell- und
 
 ## 1.4 Vertragsfassung und Entscheidung liefern
 
-Für jeden wesentlichen Befund liefere Ausgangsklausel oder genaue Fundstelle, konkreten Datenweg, Risiko und eine vollständige Ersatzklausel. Kennzeichne eine noch abzustimmende Frist als solche, statt sie als Anbieterzusage auszugeben. Unterscheide zwingende Einsatzgrenze, verhandelbare Risikoverteilung und Komfortwunsch. Stoppe nur die nicht tragfähig abgesicherte Nutzung; arbeite beispielsweise mit nicht vertraulichen Testdaten weiter, soweit der Auftrag das erlaubt.
+Beim Klauselauftrag liefere Ausgangsklausel, betroffenen Datenweg, Begründung und vollständige Ersatzfassung. Beim Gutachten beantworte die Einsatzfrage, ohne ungefragt sämtliche Klauseln neu zu schreiben. Kennzeichne abzustimmende Fristen; trenne Einsatzgrenze, verhandelbares Risiko und Komfortwunsch. Stelle nur die nicht abgesicherte Nutzung zurück; Tests mit nicht vertraulichen Daten nur im erlaubten Umfang.
+
+Fehlt der Umfang der No-Training-Zusage, frage nach Support, Protokollen und abgeleiteten Daten. Bei unklarem Drittstaatzugriff fordere Zugriffsort und Berechtigung an; bei fehlender Löschfrist die Regelung je Datenart. Nach Antwort Zusage und Vertrag abgleichen, betroffene Klausel oder Gutachtenpassage aktualisieren und das bestellte Dokument fertigschreiben. Neue entscheidende Lücken kurz nachfragen, Bekanntes nicht wiederholen. Bei einem Hindernis Teilstand liefern und nach Klärung fortsetzen; nachgereichte Angaben nicht ungeprüft als Tatsachen übernehmen.
 
 ## 1.5 Rechtsstand in Anbieterpflichten übersetzen
 
@@ -36,4 +38,4 @@ Nach [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/ki-mig/__2.html) ist
 
 Die [lokale Rechtsstandkarte](../references/digitaler-omnibus-2026.md) ist optional; die Kernregeln stehen hier. Ein Datenschutz-Reformvorschlag ist keine zusätzliche Trainingsbefugnis. Urteile nur für ihren überprüften Streitgegenstand verwenden.
 
-Weitere Skills und Referenzen sind optional; sämtliche Kernfragen dieser Prüfung stehen hier. Ohne technischen Zugriff keine Konfiguration als getestet bezeichnen. Keine Mandatsdaten ohne Freigabe an Dritte senden. Endprodukt in vollständigen Sätzen mit dezimaler Gliederung; Exportstandard Times New Roman 11 pt.
+Weitere Skills und Referenzen sind optional. Quellenstatus und Recherchegrenzen in einer Arbeitsnotiz führen, nicht im Mandantenbrief. Ohne technischen Zugriff keine Konfiguration als getestet bezeichnen; ohne Export den vollständigen Text liefern. Anbieterkommunikation, Vertragsannahme und Datenübertragung nur nach ausdrücklicher Freigabe. Vollständige Sätze, dezimale Gliederung; Exportstandard Times New Roman 11 pt.

@@ -3,157 +3,50 @@ name: kaltstart-triage
 description: "Für GOÄ Gebührenordnung für Ärzte — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# GOÄ Gebührenordnung für Ärzte — Allgemein
+# 1. GOÄ-Rechnung anhand der Unterlagen prüfen
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Zweck
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Ordne die vorgelegte privatärztliche Rechnung dem konkreten Prüfauftrag zu und erstelle das verlangte Ergebnis. Unterscheide Honoraranspruch, Patienteneinwendung und PKV- oder Beihilfeerstattung.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+## 1.2. Eingaben
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Lies Rechnungsversionen, Behandlungsunterlagen, Honorar- oder Wahlleistungsvereinbarung, Zahlungsbelege und Korrespondenz. Entnimm daraus Zahlungspflichtigen, Leistungserbringer, Behandlungstage und streitige Positionen; bekannte Angaben nicht erneut abfragen. Bei einem bloßen Upload die erkennbare Rechnungsfrage bearbeiten und nur ein tatsächlich unklar gebliebenes Ziel klären.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.3. Prüfung und Fortsetzung
 
-## Sofortstart
-Dieses Allgemein-Skill ist der Empfangstresen und Projektleiter des Plugins **GOÄ Gebührenordnung für Ärzte**. Es soll den Nutzer nicht belehren, sondern schnell arbeitsfähig machen: erst die Lage erfassen, dann den passenden Pfad wählen, dann direkt einen verwertbaren Output erzeugen.
+### 1.3.1. Position und Faktor
 
-**Plugin-Fokus:** Gebührenordnung für Ärzte mit Schwellenwerten, Steigerungssätzen, Analogabrechnung, Zielleistungsprinzip, Auslagen, Wahlleistungen, PKV/Beihilfe und Honorarstreit.
+Gleiche Leistungslegende, Dokumentation, Anzahl, Faktor und Betrag ab. Selbständige Leistungen, enthaltene Bestandteile, Ausschlüsse, Nebeneinanderberechnung und Analogbewertung getrennt prüfen. Fehlende medizinische Angaben nicht durch erfundene Diagnosen oder Behandlungsschritte ersetzen.
 
-## Bei stummem Upload
-Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-Mail, Registerauszug oder Aktenkonvolut hochlädt, behandle das als Auftrag.
+Für Paragraf 5 GOÄ die konkrete Leistungsgruppe bestimmen: allgemeine Schwelle 2,3 und Höchstsatz 3,5; Abschnitte A, E und O 1,8 beziehungsweise 2,5; Nummer 437 und Abschnitt M 1,15 beziehungsweise 1,3. Sonderfälle und wirksame Honorarvereinbarung separat prüfen. Eine Begründung ersetzt keinen zulässigen Höchstsatz.
 
-1. **Erkannt:** Dokumentart, Absender, Datum, Aktenzeichen, Beteiligte und Lebenssachverhalt nennen.
-2. **Frist zuerst:** Zustellung, Rechtsbehelf, Behördenfrist, Zahlungsziel, Ausschlussfrist oder Verjährungsrisiko markieren.
-3. **Einordnung:** Rechtsgebiet, Normengruppe, Behörde/Gericht und Arbeitstyp bestimmen.
-4. **Primärer Pfad:** den wahrscheinlich passenden Fachmodul aus diesem Plugin nennen und bei eindeutigem Treffer direkt anwenden.
-5. **Nur eine Rückfrage:** nur wenn ohne die Antwort ein falscher nächster Schritt droht.
+### 1.3.2. Nachweis klären
 
-## Intake in 60 Sekunden
-- Wer fragt: Anwalt, Rechtsabteilung, Unternehmen, Patient, Apotheke, Krankenhaus, Verbraucher, Behörde, Soldat, Familie oder Verband?
-- Was soll entstehen: Kurzprüfung, Memo, Schriftsatz, Antrag, Anzeige, Stellungnahme, Checkliste, Berechnung, Vertragsklausel, Behördenbrief oder Mandantenübersetzung?
-- Was eilt: Frist, Termin, Zustellung, Anhörung, Ausschlussfrist, Verjährung, Bußgeld, Widerruf, Gebührenrisiko oder Verfahrensschritt?
-- Welche Unterlagen liegen vor: Verträge, Bescheide, Rechnungen, Tabellen, Registerauszüge, Leitlinien, Formulare, E-Mails, Fotos, Chatverläufe?
-- Was ist unsicher: Tatsachen, Zahlen, Zuständigkeit, Rechtslage, technische Daten, Marktdefinition, medizinischer Sachverhalt oder Familien-/Versorgungsverlauf?
+Fehlt die Erläuterung einer Schwellenüberschreitung, frage nach konkreter Schwierigkeit, Zeitaufwand oder Ausführungsumständen der betroffenen Leistung. Fehlt bei Mehrfachansatz die Dokumentation, benenne die fraglichen Behandlungsschritte. Nach Eingang prüfen, ob die Antwort die Position tatsächlich trägt; das Vorliegen eines Arztbriefs allein genügt nicht.
 
-## Arbeitsmodus
-- **Schnelltriage:** Frist, Risiko, nächster Schritt.
-- **Aktenmodus:** Dokumente sortieren, Timeline, Belegmatrix und Lückenliste.
-- **Prüfmodus:** Tatbestand, Rechtsfolge, Gegenargumente, Risikoampel.
-- **Entwurfsmodus:** Antrag, Schriftsatz, Vertragsklausel, Behördenbrief, Mandantenmail, Vorstandsvorlage.
-- **Red-Team:** Ergebnis auf Halluzinationen, Quellen, Fristen, Zuständigkeit, Zahlen und Ton prüfen.
+Aktualisiere betroffene Rechnungszeilen und Restbetrag und schreibe den bestellten Brief oder Vermerk weiter. Weitere kurze Rückfragen sind bei neuen entscheidenden Lücken zulässig, nicht zur Wiederholung bereits geklärter Angaben. Bei einem Hindernis die unabhängig prüfbaren Positionen vorläufig liefern und nach Klärung bis zur Endfassung fortsetzen.
 
-## Passende Einstiegsrouten
-| Skill | Wann? |
-| --- | --- |
-| `goae-1-anwendungsbereich-berufliche-leistungen` | GOÄ § 1 Anwendungsbereich berufliche Leistungen |
-| `goae-2-abweichende-vereinbarung-honorarvereinbarung` | GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung |
-| `goae-3-verguetungen-gebuehren-entschaedigungen-auslagen` | GOÄ § 3 Vergütungen Gebühren Entschädigungen Auslagen |
-| `goae-4-selbstaendige-aerztliche-leistung-zielleistungsprinzip` | GOÄ § 4 selbständige ärztliche Leistung Zielleistungsprinzip |
-| `goae-5-bemessung-gebuehrenrahmen-2-3-1-8-1-15-schwelle` | GOÄ § 5 Bemessung Gebührenrahmen 2,3 1,8 1,15 Schwelle |
-| `goae-5a-bemessung-im-basistarif` | GOÄ § 5a Bemessung im Basistarif |
-| `goae-5b-standardtarif-pkv` | GOÄ § 5b Standardtarif PKV |
-| `goae-6-gebuehren-für-andere-leistungen-analogbewertung` | GOÄ § 6 Gebühren für andere Leistungen Analogbewertung |
-| `goae-6a-stationaere-minderung-25-prozent-15-prozent` | GOÄ § 6a stationäre Minderung 25 Prozent 15 Prozent |
-| `goae-7-entschaedigungen` | GOÄ § 7 Entschädigungen |
-| `goae-8-wegegeld` | GOÄ § 8 Wegegeld |
-| `goae-9-reiseentschaedigung` | GOÄ § 9 Reiseentschädigung |
-| `goae-10-ersatz-von-auslagen` | GOÄ § 10 Ersatz von Auslagen |
-| `goae-12-faelligkeit-und-rechnungspflicht` | GOÄ § 12 Fälligkeit und Rechnungspflicht |
-| `goae-14-zahlung-durch-öffentliche-leistungstraeger` | GOÄ § 14 Zahlung durch öffentliche Leistungsträger |
-| `abschnitt-a-beratungen-und-untersuchungen` | Abschnitt A Beratungen und Untersuchungen |
-| `abschnitt-b-grundleistungen-zuschlaege` | Abschnitt B Grundleistungen Zuschläge |
-| `abschnitt-c-nichtgebietsbezogene-sonderleistungen` | Abschnitt C nichtgebietsbezogene Sonderleistungen |
-| `laborleistungen-und-hoechstsatz-besonderheiten` | Laborleistungen und Höchstsatz Besonderheiten |
-| `m-iii-m-iv-labor-delegation-speziallabor` | M III M IV Labor Delegation Speziallabor |
-| `radiologie-schnittbild-zielleistung` | Radiologie Schnittbild Zielleistung |
-| `op-komplexe-narkose-assistenz-zuschlaege` | OP-Komplexe Narkose Assistenz Zuschläge |
-| `stationaere-privataerztliche-liquidation` | Stationäre privatärztliche Liquidation |
-| `wahlleistungsvereinbarung-krankenhaus-goae` | Wahlleistungsvereinbarung Krankenhaus GOÄ |
-| `belegarzt-und-konsiliararzt-abrechnung` | Belegarzt und Konsiliararzt Abrechnung |
-| `igel-aufklaerung-kosteninformation` | IGeL Aufklärung Kosteninformation |
-| `abrechnung-telemedizin-videosprechstunde-goae` | Abrechnung Telemedizin Videosprechstunde GOÄ |
-| `materialkosten-auslagen-abgrenzung-10-goae` | Materialkosten Auslagen Abgrenzung § 10 GOÄ |
-| `steigerungssatz-begruendung-individuell-patientenbezogen` | Steigerungssatz Begründung individuell patientenbezogen |
-| `mehrfachansatz-ausschluesse-nebeneinanderberechnung` | Mehrfachansatz Ausschlüsse Nebeneinanderberechnung |
-| `leistungskette-zielleistung-keine-aufspaltung` | Leistungskette Zielleistung keine Aufspaltung |
-| `analoge-bewertung-neue-verfahren-innovation` | Analoge Bewertung neue Verfahren Innovation |
-| `kosmetische-leistungen-medizinische-indikation` | Kosmetische Leistungen medizinische Indikation |
-| `zahnaerztliche-schnittstelle-goz-goae` | Zahnärztliche Schnittstelle GOZ GOÄ |
-| `psychotherapie-psychiatrie-gespraechsleistungen` | Psychotherapie Psychiatrie Gesprächsleistungen |
+### 1.3.3. Sonderfragen auswählen
 
-## Aktuelle Anschluss-Skills
+Honorarvereinbarung nach Paragraf 2 GOÄ, stationäre Minderung nach Paragraf 6a, Auslagen nach Paragraf 10 und Fälligkeit nach Paragraf 12 gesondert prüfen. Bei Wegegeld, Reiseentschädigung, Telemedizin, Labor, Radiologie, Operation, Psychotherapie oder zahnärztlicher Schnittstelle die tatsächliche Leistung und einschlägige besondere Regel beachten, nicht alle Fachgebiete als Pflichtprogramm ausgeben.
 
-Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wenn ein Nutzer nach dem Einstieg weitergeleitet werden soll, nimm bevorzugt diese Namen.
+Standardtarif und Basistarif unterscheiden. Paragraf 5a GOÄ betrifft besondere Fälle des Schwangerschaftsabbruchs, nicht den Basistarif; Zahlungen öffentlicher Leistungsträger stehen in Paragraf 11, nicht 14. Vorhandene Skillnamen mit abweichender Bezeichnung sind kein Rechtsnachweis.
 
-| Skill | Wann einsetzen? |
-| --- | --- |
-| `abrechnung-telemedizin-videosprechstunde-goae` | Abrechnung Telemedizin Videosprechstunde GOÄ: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§... |
-| `abschnitt-a-beratungen-und-untersuchungen` | Abschnitt A Beratungen und Untersuchungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 63... |
-| `abschnitt-b-grundleistungen-zuschlaege` | Abschnitt B Grundleistungen Zuschläge: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a f... |
-| `abschnitt-c-nichtgebietsbezogene-sonderleistungen` | Abschnitt C nichtgebietsbezogene Sonderleistungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertr... |
-| `abtretung-factoring-arzthonorar-datenschutz` | Abtretung Factoring Arzthonorar Datenschutz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§... |
-| `analogabrechnung-intake-6-goae` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Analogabrechnung Intake § 6 GOÄ. |
-| `analoge-bewertung-neue-verfahren-innovation` | Analoge Bewertung neue Verfahren Innovation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§... |
-| `arbeitsunfaehigkeitsbescheinigung-privatpatient` | Arbeitsunfähigkeitsbescheinigung Privatpatient: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag... |
-| `arztbrief-begruendung-nachfordern` | Arztbrief Begründung nachfordern: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., P... |
-| `arzthonorarprozess-dokumentenplan` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Arzthonorarprozess Dokumentenplan. |
-| `auslandsbehandlung-deutsche-goae-anwendung` | Auslandsbehandlung deutsche GOÄ Anwendung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 63... |
-| `begruendung-ueber-schwellenwert-redigieren` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Begründung über Schwellenwert redigieren. |
-| `beihilfe-einwendungen-und-differenzbetrag` | Beihilfe Einwendungen und Differenzbetrag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 63... |
-| `belegarzt-und-konsiliararzt-abrechnung` | Belegarzt und Konsiliararzt Abrechnung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a... |
-| `berufsrecht-ueberhoehte-liquidation` | Berufsrecht überhöhte Liquidation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff.,... |
-| `erstattung-pkv-vs-honoraranspruch-patient` | Erstattung PKV vs Honoraranspruch Patient: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 63... |
-| `faelligkeit-verzug-mahnung-honorarklage` | Fälligkeit Verzug Mahnung Honorarklage: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a... |
-| `gebuehrenrahmen-schwellenwert-ampel` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Gebührenrahmen Schwellenwert Ampel. |
-| `goae-1-anwendungsbereich-berufliche-leistungen` | GOÄ § 1 Anwendungsbereich berufliche Leistungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag... |
-| `goae-10-ersatz-von-auslagen` | GOÄ § 10 Ersatz von Auslagen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/B... |
-| `goae-12-faelligkeit-und-rechnungspflicht` | GOÄ § 12 Fälligkeit und Rechnungspflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630... |
-| `goae-14-zahlung-durch-öffentliche-leistungstraeger` | GOÄ § 14 Zahlung durch öffentliche Leistungsträger: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvert... |
-| `goae-2-abweichende-vereinbarung-honorarvereinbarung` | GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsve... |
-| `goae-3-verguetungen-gebuehren-entschaedigungen-auslagen` | GOÄ § 3 Vergütungen Gebühren Entschädigungen Auslagen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsv... |
-| `goae-4-selbstaendige-aerztliche-leistung-zielleistungsprinzip` | GOÄ § 4 selbständige ärztliche Leistung Zielleistungsprinzip: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behan... |
-| `goae-5-bemessung-gebuehrenrahmen-2-3-1-8-1-15-schwelle` | GOÄ § 5 Bemessung Gebührenrahmen 2 und 3 1 und 8 1 und 15 Schwelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB... |
-| `goae-5a-bemessung-im-basistarif` | GOÄ § 5a Bemessung im Basistarif: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., P... |
-| `goae-5b-standardtarif-pkv` | GOÄ § 5b Standardtarif PKV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Bei... |
-| `goae-6-gebuehren-für-andere-leistungen-analogbewertung` | GOÄ § 6 Gebühren für andere Leistungen Analogbewertung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungs... |
-| `goae-6a-stationaere-minderung-25-prozent-15-prozent` | GOÄ § 6a stationäre Minderung 25 Prozent 15 Prozent: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsver... |
-| `goae-7-entschaedigungen` | GOÄ § 7 Entschädigungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihil... |
-| `goae-8-wegegeld` | GOÄ § 8 Wegegeld: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Rege... |
-| `goae-9-reiseentschaedigung` | GOÄ § 9 Reiseentschädigung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Bei... |
-| `goae-rechnung-aus-pdf-extrahieren` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema GOÄ Rechnung aus PDF extrahieren. |
-| `goae-reform-referentenentwuerfe-beobachten` | GOÄ Reform Referentenentwürfe beobachten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630... |
-| `gutachten-atteste-bescheinigungen` | Gutachten Atteste Bescheinigungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff.,... |
-| `igel-aufklaerung-kosteninformation` | IGeL Aufklärung Kosteninformation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff.,... |
-| `kaltstart-goae-rechnung-pruefen` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Kaltstart GOÄ Rechnung prüfen. |
-| `klageerwiderung-honorarprozess` | Klageerwiderung Honorarprozess: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV... |
-| `kosmetische-leistungen-medizinische-indikation` | Kosmetische Leistungen medizinische Indikation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag... |
-| `laborleistungen-und-hoechstsatz-besonderheiten` | Laborleistungen und Höchstsatz Besonderheiten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §... |
-| `leistungskette-zielleistung-keine-aufspaltung` | Leistungskette Zielleistung keine Aufspaltung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §... |
-| `livecheck-goae-text-und-reformstand` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck GOÄ Text und Reformstand. |
-| `m-iii-m-iv-labor-delegation-speziallabor` | M III M IV Labor Delegation Speziallabor: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630... |
-| `mandantenmail-patient-freundlich-klar` | Mandantenmail Patient freundlich klar: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a f... |
-| `materialkosten-auslagen-abgrenzung-10-goae` | Materialkosten Auslagen Abgrenzung § 10 GOÄ: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§... |
-| `mehrfachansatz-ausschluesse-nebeneinanderberechnung` | Mehrfachansatz Ausschlüsse Nebeneinanderberechnung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvert... |
-| `minderjaehrige-einwilligung-rechnung-schuldner` | Minderjährige Einwilligung Rechnung Schuldner: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §... |
-| `notfall-behandlung-ausserhalb-sprechstunde` | Notfall Behandlung außerhalb Sprechstunde: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 63... |
-| `op-komplexe-narkose-assistenz-zuschlaege` | OP-Komplexe Narkose Assistenz Zuschläge: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a... |
-| `patientenbrief-und-einwendung-formulieren` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Patientenbrief und Einwendung formulieren. |
-| `plausibilitaetscheck-rechnung-mathematisch` | Plausibilitätscheck Rechnung mathematisch: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 63... |
-| `psychotherapie-psychiatrie-gespraechsleistungen` | Psychotherapie Psychiatrie Gesprächsleistungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag... |
-| `radiologie-schnittbild-zielleistung` | Radiologie Schnittbild Zielleistung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff.... |
-| `red-team-goae-rechnung-halluzinationscheck` | Red-Team GOÄ Rechnung Halluzinationscheck: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 63... |
-| `sachverstaendigenfragen-goae-streit` | Sachverständigenfragen GOÄ Streit: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff.,... |
-| `schlichtungsstelle-aerztekammer-honorarstreit` | Schlichtungsstelle Ärztekammer Honorarstreit: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§... |
-| `stationaere-privataerztliche-liquidation` | Stationäre privatärztliche Liquidation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a... |
-| `steigerungssatz-begruendung-individuell-patientenbezogen` | Steigerungssatz Begründung individuell patientenbezogen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlung... |
-| `tabellenexport-goae-pruefliste` | Tabellenexport GOÄ Prüfliste: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/B... |
-| `verjaehrung-aerztlicher-honoraranspruch` | Verjährung ärztlicher Honoraranspruch: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a f... |
-| `wahlleistungsvereinbarung-krankenhaus-goae` | Wahlleistungsvereinbarung Krankenhaus GOÄ: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 63... |
-| `wegegeld-besuch-mehrere-patienten` | Wegegeld Besuch mehrere Patienten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff.,... |
-| `zahnaerztliche-schnittstelle-goz-goae` | Zahnärztliche Schnittstelle GOZ GOÄ: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff.... |
+## 1.4. Quellen und optionale Fachprüfung
 
-<!-- END ACTUAL-SKILL-ROUTING -->
+Prüfe GOÄ samt Anlage in der maßgeblichen amtlichen Fassung und gegebenenfalls Paragrafen 630a ff. BGB. Entscheidungen nur mit Gericht, Form, Datum, Aktenzeichen und überprüfter Passage verwenden. Keine Literatur- oder Aktenzeichenangaben aus Modellwissen.
+
+Optional unterstützen `goae-rechnung-aus-pdf-extrahieren`, `mehrfachansatz-ausschluesse-nebeneinanderberechnung`, `steigerungssatz-begruendung-individuell-patientenbezogen`, `materialkosten-auslagen-abgrenzung-10-goae`, `erstattung-pkv-vs-honoraranspruch-patient` und `patientenbrief-und-einwendung-formulieren` die passende Aufgabe. Ohne weitere Skills eigenständig weiterarbeiten.
+
+## 1.5. Ausgabe und Grenzen
+
+Liefere das gewünschte Dokument mit dem vorgegebenen Dateinamen. Ein Patientenbrief erklärt Ergebnis und Empfehlung, eine Rechnungskontrolle die betroffene Position, ihren Grund und die Euro-Auswirkung. Tabellen nur für erforderliche Rechnungen und Vergleiche; keine Pflichtampel oder Tabelle aller Anschluss-Skills.
+
+Vollständige Sätze statt Gerüste, dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt, sonst Exporthinweis. Quellen- und Zugriffshinweise getrennt vom Empfängerbrief führen. Keine Rechnung versenden, Zahlung veranlassen oder Klage einreichen ohne Freigabe.
+
+Ohne Zugriff den konkreten Auszug anfordern und unabhängige Positionen bearbeiten. Ohne Export vollständigen Text liefern und keinen Dateilink erfinden. Nicht erfolgte Quellen- oder Aktenprüfung offen benennen.
+
+## 1.6. Beispiel
+
+Ein Patient bestellt einen Brief zu einer Rechnung mit erhöhtem Faktor und doppeltem Leistungsansatz. Frage fehlende Erläuterung und Dokumentation zu genau diesen Positionen nach. Prüfe nach Eingang beide Fragen getrennt, rechne den verbleibenden Betrag und schreibe den bestellten Brief fertig; eine PKV-Kürzung wird nicht automatisch zum Beweis der Unberechtigung.

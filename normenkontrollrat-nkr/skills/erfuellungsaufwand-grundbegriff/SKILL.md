@@ -16,7 +16,7 @@ Erfuellungsaufwand ist der **zentrale Prüfgegenstand des NKR**. Der Begriff ist
 - Ressort verwechselt Erfuellungsaufwand mit Buerokratiekosten
 - Diskussion mit BMF / BRH über Abgrenzung
 
-Keine Rueckfrage noetig.
+Für eine reine Begriffserklärung ist regelmäßig keine Rückfrage nötig. Bei Anwendung auf einen Entwurf zunächst die vorhandenen Pflichten und Kostenangaben lesen; nur entscheidende fehlende Bezugsgrößen oder Abgrenzungen gezielt klären.
 
 ## Rechtlicher und methodischer Rahmen
 
@@ -52,6 +52,8 @@ Erfuellungsaufwand umfasst alle erforderlichen:
 8. **Aggregation** über alle Adressatengruppen
 9. **Plausibilisierung** (Vergleich mit Referenzwerten)
 
+Fehlt eine Fallzahl oder ein Zeitwert, benenne die betroffene Rechnung und benötigte Quelle. Nach Eingang aktualisiere Jahresbetrag, Abgrenzung und den bestellten Text. Neue entscheidende Widersprüche erlauben weitere gezielte Fragen; fehlende Werte weder durch null noch durch unmarkierte Schätzungen ersetzen. Die fertige Erklärung oder Stellungnahme liefern, nicht bei einer Liste weiterer Module stehenbleiben.
+
 ## Abgrenzung zu benachbarten Kostenbegriffen
 
 | Begriff | Definition | Wer prüft? |
@@ -82,10 +84,12 @@ Erfuellungsaufwand umfasst alle erforderlichen:
 ## Mustertexte / Stellungnahme-Bausteine
 
 - "Der Erfuellungsaufwand bezeichnet gemäß Leitfaden BMI/NKR den gesamten messbaren Zeitaufwand und die Kosten, die durch Befolgung einer Vorschrift bei Buergern, Wirtschaft und Verwaltung entstehen."
-- "Das Vorhaben verursacht nach NKR-Schaetzung einen jaehrlichen Erfuellungsaufwand für die Wirtschaft in Höhe von [X] Mio EUR sowie einen einmaligen Umstellungsaufwand von [Y] Mio EUR."
+- "Nach der vorgelegten Berechnung verursacht das Vorhaben einen jährlichen Erfüllungsaufwand für die Wirtschaft von [X] Mio. EUR sowie einen einmaligen Umstellungsaufwand von [Y] Mio. EUR."
 - "Die Darstellung des Erfuellungsaufwands beschraenkt sich im Ressortentwurf auf Informationspflichten. Der NKR weist darauf hin, dass auch IT-Anpassungs- und Schulungskosten zum Erfuellungsaufwand gehoeren."
 
 ## Typische Fehler in Ressort-Entwuerfen
+
+Eine eigene Berechnung nicht als amtliche Schätzung oder gebilligte Stellungnahme ausgeben. Den gewünschten Dateinamen beachten und Quellenstatus sowie offene Prüffragen getrennt vom Empfängertext dokumentieren. Keine Veröffentlichung oder Übermittlung ohne gesonderte Freigabe.
 
 - Begriff "Buerokratiekosten" wird mit "Erfuellungsaufwand" gleichgesetzt
 - Sachkosten werden vergessen

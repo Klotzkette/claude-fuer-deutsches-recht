@@ -3,193 +3,55 @@ name: aktenauszug-erstellen
 description: "Für Aktenauszug Erstellen — Hauptworkflow: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Aktenauszug Erstellen — Hauptworkflow
+# 1. Aktenauszug erstellen
 
-## Arbeitsweg
+Erstelle den beauftragten neutralen Aktenauszug aus den vorhandenen Gerichtsunterlagen. Bei Einarbeitung, Übergabe oder Terminsvorbereitung stehen Verfahrensstand und belegte Positionen im Vordergrund, nicht eine ungefragte Prozessstrategie. Ein bestellter Teilauszug oder die Fortschreibung einer vorhandenen Fassung geht dem Vollformat vor.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: StPO § 147 Akteneinsicht im Ermittlungsverfahren auf Antrag, § 385 Abs. 3 Nebenkläger, ZPO § 299 jederzeit für Parteien, Bearbeitung i.d.R. 2-4 Wochen.
-- Tragende Normen verifizieren: ZPO §§ 299, 299a, StPO §§ 147, 385, 406e, VwGO § 100, SGG § 120, FamFG § 13, BORA § 19 (Akteneinsicht), Aktenordnung (AktO), AnwGH-Bescheinigungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 1.1. Eingaben und Umfang
 
-## Leitidee
+Lies Auftrag, Akte und vorhandenes Inhaltsverzeichnis zuerst. Bestimme Verfahrensart, Instanz, Empfänger und anstehenden Termin aus dem Material. Frage nur nach Angaben, die dort fehlen und für Umfang oder Inhalt erforderlich sind. Markiere fehlende Seiten und unterscheide Aktenblatt von PDF-Seite.
 
-Wer ein Gerichtsverfahren schnell erfassen muss — sei es beim Mandatswechsel, bei der Einarbeitung eines neuen Sachbearbeiters oder bei der Vorbereitung auf eine mündliche Verhandlung — benötigt einen strukturierten Überblick. Dieser Skill nimmt die gesamte Akte entgegen und erzeugt einen vollständigen Aktenauszug mit allen sechs Bausteinen.
+Die Bearbeitung beginnt auch bei Teilakten. Ein fehlendes Dokument ist kein Grund, bereits lesbare Teile unbearbeitet zu lassen. Eine noch nicht gelesene Gesamtakte darf nicht als vollständig ausgewertet bezeichnet werden.
 
-## Triage zu Beginn — kläre vor Erstellung des Aktenauszugs
+## 2. Auszug aufbauen
 
-1. Welche Verfahrensart liegt vor? (Zivilprozess, Arbeitsgericht, Verwaltungsgericht, Sozialrecht, Strafprozess)
-2. In welcher Instanz befindet sich das Verfahren? (Erstinstanz, Berufung, Revision)
-3. Liegen alle wesentlichen Schriftsätze vor oder nur Teilakten?
-4. Gibt es bereits einen Termin, dessen Vorbereitung im Vordergrund steht?
-5. Soll der Aktenauszug intern (anwaltlich) oder zur Übergabe an Mandant dienen?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+1. Verfahrensidentifikation: Gericht, Spruchkörper, Aktenzeichen, Beteiligte, Vertretungen, Instanz und aktenkundigen Streitwert nennen.
+2. Einleitung: Beteiligte, Streitgegenstand und Begehren in ein bis zwei Sätzen beschreiben. Eine nicht geprüfte Rechtsgrundlage nicht ergänzen.
+3. Zusammenfassung: Hintergrund, wesentliche Positionen, bisherige Entscheidungen und aktuellen Stand verständlich darstellen.
+4. Sachverhaltschronologie: Außerprozessuale Ereignisse mit Datum, Herkunft und Streitstatus ordnen. Parteivortrag nicht zur gerichtlichen Feststellung machen.
+5. Verfahrenschronologie: Schriftsätze, Eingang, Zustellung, Anträge, Hinweise, Beweise und Entscheidungen auseinanderhalten. Fristen und Termine mit Fundstelle hervorheben.
+6. Gegenüberstellung: Tatsachenvortrag, Beweismittel und Rechtsargumente je Streitpunkt vergleichen. Beim Vollformat sind getrennte Tabellen hilfreich; beim Teilauszug nur die benötigten Vergleiche liefern.
 
-## Zentrale Normen (Prozessrecht)
+Passe Beteiligtenbezeichnungen dem Verfahren an. Straf-, Verwaltungs- und Sozialakten nicht in ein zivilrechtliches Kläger-/Beklagtenschema zwingen. Beweisangebot, durchgeführte Beweisaufnahme und Ergebnis getrennt darstellen. Die Schritte können ohne zusätzliche Skills bearbeitet werden; passende Modus-, Chronologie- und Neutralitätsskills sind optionale Hilfen.
 
-- §§ 128-134 ZPO — Schriftliches und mündliches Verfahren, Schriftsätze
-- §§ 253-261 ZPO — Klageerhebung und Verfahrenseinleitung
-- §§ 355-455 ZPO — Beweisaufnahme (Sachverstaendige, Zeugen, Augenschein, Urkunden)
-- §§ 495a, 522, 540 ZPO — Vereinfachtes Verfahren, Berufungsverwerfung, Berufungsurteil
-- §§ 704-945 ZPO — Zwangsvollstreckung (Abschnitt relevant für Vollstreckungstitel in Akte)
-- § 91a ZPO — Kosten bei Erledigterklärung
-- § 139 ZPO — Materielle Prozessleitung, richterliche Hinweispflicht
+## 3. Lücken klären und Fassung fertigstellen
 
-## Voraussetzungen
+Fehlt eine Anlage, deren Inhalt bestritten wird, frage nach genau dieser Anlage. Beschreibe bis dahin die Behauptung und das Bestreiten mit ihren vorhandenen Fundstellen. Nach Eingang lies den Beleg, aktualisiere die Gegenüberstellung und passe die Zusammenfassung an.
 
-- Gerichtliche Akte oder wesentliche Teile davon (PDF, Word, maschinenlesbar)
-- Optional: Inhaltsverzeichnis der Akte
-- Optional: Hinweis auf die Verfahrensart (Zivil, Straf, Verwaltung, Arbeit, Sozial)
+Widersprechen sich Antragsfassungen, rekonstruiere zunächst die Reihenfolge. Bleibt die aktuelle Fassung unklar, frage nach dem betreffenden Protokoll oder Schriftsatz. Nach Klärung berichtige Einleitung und Verfahrenschronologie gemeinsam.
 
-## Sechs Bausteine des Aktenauszugs
+Ist eine Frist ohne Zustellnachweis nicht berechenbar, fordere den Nachweis gezielt an. Stelle den übrigen Auszug fertig und kennzeichne nur diese Berechnung als offen. Nach Nachlieferung ergänze die Frist und sämtliche davon betroffenen Angaben.
 
-### Baustein 1 — Verfahrensidentifikation
+Eine neue Antwort kann eine weitere kurze Rückfrage nötig machen. Bereits aus Akte oder Gespräch bekannte Angaben werden nicht erneut abgefragt. Bei einem fortbestehenden Hindernis liefere den nutzbaren Teil und benenne die konkret fehlende Information. Nach deren Eingang weiterarbeiten, bis die beauftragte Fassung vollständig ist.
 
-Gericht, Kammer/Senat, Aktenzeichen, Streitwert, Parteien mit Anwälten, Instanz, Verfahrensart.
+## 4. Rechtliche Einordnung und Quellen
 
-### Baustein 2 — Einleitungssatz
+Reine Aktenextraktion belegt Aussagen mit Aktenfundstellen. Wiedergegebene Rechtsauffassungen werden ihrem Urheber zugeordnet. Nur wenn zusätzlich eine rechtliche Prüfung bestellt ist, einschlägige Normen und Rechtsprechung eigenständig verifizieren. Keine ungefragte Klage oder Erfolgsprognose aus einem Zusammenfassungsauftrag ableiten.
 
-Ein bis zwei Sätze, die den Kern des Rechtsstreits nennen: Wer streitet mit wem worüber, welche Hauptnorm ist einschlägig.
+Für Aktenzugang je nach Rechtsweg Paragrafen 299 und 299a ZPO, Paragrafen 147, 385 und 406e StPO, Paragraf 100 VwGO, Paragraf 120 SGG oder Paragraf 13 FamFG prüfen; BORA Paragraf 19 und Aktenordnung nur im einschlägigen Zusammenhang heranziehen. Zuständige Stelle und Berechtigung konkret bestimmen. Akteneinsichtsanträge nur auf Auftrag entwerfen, nicht selbst einreichen.
 
-### Baustein 3 — Zusammenfassung (Absatz)
+Zivilprozessuale Prüfbereiche sind Paragrafen 128 bis 134 und 253 bis 261 ZPO für Verfahren und Klage, Paragrafen 355 bis 455 ZPO für Beweisaufnahme, Paragrafen 495a, 522 und 540 ZPO für die jeweils einschlägigen Verfahrensentscheidungen, Paragrafen 704 bis 945 ZPO bei Vollstreckungsfragen sowie Paragrafen 91a und 139 ZPO bei Erledigung und Hinweisen. Diese Bereiche sind keine Pflichtprüfung für jede Akte.
 
-Acht bis zehn Sätze: Hintergrund, Streitstand, prozessuale Lage, anstehende Verfahrenshandlungen.
+Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und überprüfter Aussage zitieren. Eine in der Akte enthaltene Fundstelle nicht als selbst verifiziert ausgeben. Interne Quellenprüfung und Recherchegrenzen in einer gesonderten Arbeitsnotiz dokumentieren, nicht im Mandantenbrief. Keine Modellwissen-Zitate oder erfundenen Fundstellen.
 
-### Baustein 4 — Sachverhaltschronologie
+## 5. Ausgabe und Abschlusskontrolle
 
-Chronologische Bullet-Liste aller wesentlichen außerprozessualen Tatsachen. Datum fettgedruckt vorangestellt.
+Liefere den vollständigen bestellten Auszug, nicht bloß eine Liste weiterer Arbeitsschritte. Prüfe intern Neutralität, Fundstellen, aktuelle Anträge und Termine. Unveränderte Passagen bei Fortschreibungen beibehalten; Widersprüche nicht still überschreiben. Ein Übergabevermerk kann ergänzend bisherigen Bearbeiter, Stand, nächste Frist, Termin und offene Aufgaben nennen, soweit belegt und benötigt.
 
-### Baustein 5 — Verfahrenschronologie
+Vollständige Sätze statt Stichwortskelette; Tabellen unterstützen die Darstellung. Ausschließlich dezimale Überschriften mit Leerzeilen. Formatierte Dokumente in Times New Roman 11 pt, bei Markdown entsprechender Exporthinweis. Der Auszug ersetzt nicht die eigene Aktenlektüre des verantwortlichen Bearbeiters.
 
-Chronologische Bullet-Liste der prozessualen Schritte. Fristen und Termine werden hervorgehoben.
+## 6. Beispiele und technische Grenzen
 
-### Baustein 6 — Tabellen (Parteivortrag / Beweismittel / Rechtsargumente)
+Bei einer bestellten Zusammenfassung des letzten Verhandlungstermins werte das Protokoll und die dort in Bezug genommenen Unterlagen aus; erstelle nicht nochmals ungefragt den gesamten Auszug. Beim Mandatswechsel kann dagegen eine vollständige Verfahrenschronologie entscheidend sein.
 
-Drei separate Tabellen im Markdown-Format mit Spalten für Klägerseite und Beklagtenseite.
-
-## Schritt-für-Schritt-Workflow
-
-1. **Akte sichten** — Inhaltsverzeichnis oder Seitenstruktur erfassen; fehlende Seiten markieren
-2. **Verfahrensart bestimmen** — aktiviere passenden Modus-Skill (Zivil/ArbG/VerwG/Sozial/Straf)
-3. **Verfahrensidentifikation extrahieren** (→ Skill `verfahrensidentifikation`)
-4. **Einleitungssatz formulieren** (→ Skill `einleitungssatz-generator`)
-5. **Zusammenfassungsabsatz schreiben** (→ Skill `verfahrenszusammenfassung-absatz`)
-6. **Sachverhalt chronologisch ordnen** (→ Skill `sachverhaltschronologie`)
-7. **Verfahrensschritte chronologisch ordnen** (→ Skill `verfahrenschronologie`)
-8. **Fristen hervorheben** (→ Skill `fristen-und-terminkalender`) — alle Notfristen mit ⚠️
-9. **Parteivortrag gegenüberstellen** (→ Skill `parteivortrag-gegenueberstellung`)
-10. **Beweismittel tabellarisch erfassen** (→ Skill `beweismittel-gegenueberstellung`)
-11. **Rechtsargumente tabellarisch erfassen** (→ Skill `rechtsargumente-gegenueberstellung`)
-12. **Neutralitätsprüfung** (→ Skill `neutralitaetspruefung`)
-13. **Strukturprüfung** (→ Skill `aktenauszug-strukturpruefung`)
-
-## Entscheidungsbaum — Verfahrensart
-
-```
-Liegt Akte vor?
- → Ja: Verfahrensart prüfen
- → Arbeitsgericht? → Skill arbeitsgerichtsverfahren-modus aktivieren
- → Verwaltungsgericht? → Skill verwaltungsprozess-modus aktivieren
- → Strafgericht? → Skill strafprozess-modus aktivieren
- → Sozialgericht? → Skill sozialgerichtsverfahren-modus aktivieren
- → Zivilgericht (LG/AG/OLG)? → Skill zivilprozess-modus aktivieren
- → Nein: Fehlende Unterlagen beim Mandanten anfordern; Notfrist prüfen
-```
-
-## Output-Format
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-```markdown
-### Aktenauszug — [Aktenzeichen]
-## Verfahrensidentifikation
-...
-
-## Einleitungssatz
-...
-
-## Zusammenfassung
-...
-
-## Sachverhaltschronologie
-- **TT.MM.JJJJ** Beschreibung
-- **TT.MM.JJJJ** Beschreibung
-
-## Verfahrenschronologie
-- **TT.MM.JJJJ** Beschreibung
-- ⚠️ **TT.MM.JJJJ — FRIST:** Beschreibung
-
-## Parteivortrag
-
-| Punkt | Klägerseite | Beklagtenseite |
-|---|---|---|
-
-## Beweismittel
-
-| Beweismittel | Klägerseite | Beklagtenseite |
-|---|---|---|
-
-## Rechtsargumente
-
-| Aspekt | Klägerseite | Beklagtenseite |
-|---|---|---|
-```
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — strukturierter Aktenauszug für Gericht | Vollformat nach den sechs Bausteinen unten |
-| Variante A — nur interne Einarbeitung noetig | Kurzform ohne Verfahrenschronologie; Bausteine 1-3 genügen |
-| Variante B — Eilsache; Zeit fehlt für vollstaendigen Auszug | Einleitungssatz + Sachverhaltschronologie priorisieren; Rest nachliefern |
-| Variante C — Parteivertreter hat bereits Zusammenfassung geliefert | Kritische Prüfung und Ergaenzung statt Neuerstellung |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Output-Template Übergabevermerk (intern)
-
-**Adressat:** Sachbearbeiter / aufnehmender Anwalt — Tonfall: sachlich-juristisch
-
-```
-ÜBERGABEVERMERK — [AKTENZEICHEN]
-Bearbeiter bisher: [NAME]
-Stand: [DATUM]
-
-Verfahren: [KURZBEZEICHNUNG]
-Nächste Frist: [DATUM + BEZEICHNUNG]
-Nächster Termin: [DATUM + ORT]
-Offene Aufgaben: [LISTE]
-
-Besonderheiten: [z.B. Beweissicherungsantrag gestellt, SV noch nicht bestellt]
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
-## Qualitätsgrundsätze
-
-- Keine Erfolgsprognose
-- Neutrale Sprache ohne Wertung
-- Alle Fristen und Termine hervorgehoben
-- Keine KI-Terminologie im Output
-
-## Hinweis
-
-Der Aktenauszug ersetzt nicht die eigene Aktenlektüre. Er ist ein strukturiertes Arbeits- und Kommunikationsmittel für den anwaltlichen Alltag und bedarf der Prüfung durch den verantwortlichen Rechtsanwalt.
-
-## Quellenkontrolle
-
-Ein Aktenauszug übernimmt Rechtsprechung nicht als bloße Aktenzeichenliste. Jede Entscheidung wird mit Gericht, Datum, Aktenzeichen, Fundstelle, Streitfrage, tragender Aussage und prozessualer Bedeutung erfasst. Akteneinsicht und Aktenzugang richten sich nach dem konkreten Verfahren, insbesondere Paragraf 299 ZPO, Paragraf 147 StPO, Paragraf 100 VwGO, Paragraf 120 SGG oder Paragraf 13 FamFG; Normen verschiedener Rechtswege nicht vermischen.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ohne lesbare Datei konkret um die fehlenden Seiten bitten. Ohne Exportfunktion den vollständigen Text liefern, keinen Download erfinden. Ein technischer Fehler begrenzt nur den abhängigen Schritt. Keine Aktenvollständigkeit oder Quellenprüfung behaupten, die nicht stattgefunden hat. Externe Anforderung, Einreichung oder Versendung nur nach ausdrücklicher Freigabe.

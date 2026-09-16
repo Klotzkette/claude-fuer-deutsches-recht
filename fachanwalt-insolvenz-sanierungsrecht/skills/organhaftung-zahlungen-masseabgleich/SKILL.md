@@ -9,7 +9,7 @@ Erstelle aus Kontoauszügen und Gegenleistungsbelegen eine prüfbare Berechnung 
 
 ## 2. Eingaben
 
-Lies Auftrag, Organbestellung, behaupteten Reifestichtag mit Statusbelegen, Insolvenzantrag und gerichtliche Anordnungen, sämtliche einschlägigen Konten, Rechnungen, Rückzahlungen, Gegenleistungen und Sanierungsdokumentation. Erfasse den tatsächlichen Zahlungstag sowie Buchungs- und Wertstellungsdatum getrennt. Kläre, ob die Zahlungen, auf die der Haftungsanspruch gestützt wird, vor oder seit dem 01.01.2021 liegen; historische Rechtslage nicht vermischen. Bei offenem Reifedatum rechne benannte Stichtagsvarianten. Höchstens eine gebündelte Nachfrage, dann Teilrechnung mit Restlücken.
+Lies Auftrag, Organbestellung, behaupteten Reifestichtag mit Statusbelegen, Insolvenzantrag und gerichtliche Anordnungen, sämtliche einschlägigen Konten, Rechnungen, Rückzahlungen, Gegenleistungen und Sanierungsdokumentation. Erfasse tatsächlichen Zahlungstag, Buchungs- und Wertstellungsdatum getrennt. Zahlungen vor und seit dem 01.01.2021 nach der jeweils einschlägigen Rechtslage prüfen. Bei offenem Reifedatum rechne benannte Stichtagsvarianten und frage nach den konkret fehlenden Fälligkeits-, Stundungs- oder Liquiditätsbelegen. Übernimm Antworten in Stichtag und Zeitfenster, ohne bereits bekannte Angaben erneut zu erheben.
 
 ## 3. Ablauf und Checkliste
 
@@ -33,7 +33,7 @@ Halte die historische Einzelzahlungsbetrachtung und den heutigen Einwand geringe
 
 ### 3.5. Abschluss
 
-Prüfe Summen, Zurechnung und Doppelanrechnungen einmal nach. Schließe mit belastbarem Betrag, streitigem Betrag, Beweisthemen und Verjährungsprüfung nach Paragraf 15b Absatz 7 InsO. Keine Insolvenz- oder Zahlungsanträge absenden, keine Zahlungen stoppen oder freigeben und keine Anerkenntnisse erklären.
+Fehlt ein Rückflussbeleg oder eine behauptete Verwalterzustimmung, fordere den konkreten Nachweis an. Aktualisiere nach der Antwort Zurechnung, Entlastung und Rechnung; prüfe die davon betroffenen Summen und Doppelanrechnungen erneut. Neue entscheidende Widersprüche erlauben weitere kurze Fragen. Liefere bei ausstehenden Belegen einen vorläufigen Teilstand und führe nach Klärung bis zur bestellten Bewertung oder vollständigen Anspruchs- beziehungsweise Verteidigungsfassung fort. Prüfe die Verjährung nach Paragraf 15b Absatz 7 InsO. Externe Anträge, Zahlungseingriffe und Anerkenntnisse erfordern ausdrückliche Freigabe.
 
 ## 4. Quellenpflicht
 
@@ -45,7 +45,9 @@ Beachte [Zitierweise](../../references/zitierweise.md), sofern verfügbar; prüf
 
 ## 5. Ausgabeformat
 
-Erstelle `ergebnis.md` mit Sachverhalt und Stichtagsannahmen, abgestimmtem Zahlungsjournal, Sorgfalts- und Entlastungsmatrix, Berechnungsvarianten sowie ausformulierter Anspruchs- oder Verteidigungspassage. Endprodukt in vollständigen Sätzen, keine Stichwortskelette. Dezimale Gliederung; Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Nicht geprüfte Konten und offene Volltexte ausdrücklich nennen.
+Erstelle das bestellte Gutachten oder den vollständigen Anspruchs- beziehungsweise Verteidigungstext, mit abgestimmtem Zahlungsjournal und erforderlichen Berechnungsvarianten. Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur die Vorgabe bei fehlendem Dateiwunsch. Sorgfalts- und Entlastungstabellen nur soweit für den Nachweis nötig; keine ungefragte Klage zu einem Bewertungsauftrag.
+
+Endprodukt in vollständigen Sätzen, keine Stichwortskelette. Dezimale Gliederung; Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Nicht geprüfte Konten, Quellenstatus und interne Kontrollen in einer gesonderten Arbeitsnotiz nennen, nicht im Mandantenbrief.
 
 ## 6. Beispiele
 

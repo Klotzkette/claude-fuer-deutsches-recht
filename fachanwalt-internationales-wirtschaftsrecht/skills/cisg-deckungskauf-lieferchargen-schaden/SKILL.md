@@ -9,7 +9,7 @@ Bereite einen grenzüberschreitenden Lieferstreit auf, in dem Ersatzbeschaffung,
 
 ## 2. Eingaben
 
-Lies Vertrag, AGB, Niederlassungen, Lieferplan, Spezifikation, Incoterms-Abrede, Rügen, Nachfrist- und Aufhebungserklärungen samt Zugang, Ersatzbestellungen, Lieferscheine, Rechnungen und Gutschriften. Erfasse Original- und Ersatzmenge, Qualität, Lieferort, Frachtverteilung, Währung, Vorsteuerabzug und Weiterverkaufsbelege. Frage nach entscheidenden Lücken einmal gebündelt; übrige Positionen sofort bearbeiten. Keine fehlende Erklärung als abgegeben behandeln.
+Lies Vertrag, AGB, Niederlassungen, Lieferplan, Spezifikation, Incoterms-Abrede, Rügen, Nachfrist- und Aufhebungserklärungen samt Zugang, Ersatzbestellungen, Lieferscheine, Rechnungen und Gutschriften. Übernimm bekannte Angaben zu Original- und Ersatzmenge, Qualität, Lieferort, Frachtverteilung, Währung, Vorsteuerabzug und Weiterverkauf. Frage nur nach entscheidenden Lücken und bearbeite die unabhängigen Positionen weiter. Keine fehlende Erklärung als abgegeben behandeln.
 
 ## 3. Ablauf und Checkliste
 
@@ -29,7 +29,9 @@ Ordne jede Ersatzposition genau einer ausgefallenen Charge zu. Eine Sammelrechnu
 
 Prüfe zusätzliche Transport-, Prüf- und Stillstandskosten sowie entgangenen Gewinn nach Artikel 74 CISG auf Kausalität und Vorhersehbarkeit bei Vertragsschluss. Umsatz ist kein entgangener Gewinn. Für gerettete Weiterverkäufe nicht zugleich vollständigen Gewinnausfall fordern. Artikel 77 verlangt eine konkrete Betrachtung tatsächlich verfügbarer zumutbarer Alternativen; der billigste Listenpreis ohne lieferbare Ware beweist keine vermeidbaren Mehrkosten. Gegenangebote, Liefertermin, Menge und Qualität belegen. Einwendungen nach Artikel 79 getrennt behandeln. Tatsachen für einen billigeren zumutbaren Einkauf und die Höhe vermeidbaren Schadens konkret zuordnen.
 
-### 3.5. Abschluss
+### 3.5. Fortsetzung und Kontrolle
+
+Fehlt die Aufteilung einer Sammelbestellung, frage nach ausgefallener Charge, Deckungsmenge und Vorratsanteil. Bei behauptet günstigerem Einkauf das konkrete Angebot mit Qualität, Menge und Lieferbarkeit klären. Nach Antwort Nachweis prüfen, Schadensrechnung erneuern und die betroffene Forderungs- oder Abwehrbegründung vollständig überarbeiten. Neue entscheidende Lücken kurz nachfragen; Bekanntes nicht wiederholen. Bei einem Hindernis tragfähige Teile liefern und nach Klärung bis zum beauftragten Ergebnis fortsetzen.
 
 Rechne belegten Kernbetrag und streitige Zusatzbeträge getrennt nach. Artikel 76 nicht zusätzlich auf bereits nach Artikel 75 abgerechnete Mengen anwenden. Rückzahlung einer Vorausleistung nach Aufhebung separat von der Preisdifferenz führen; offene Kaufpreisforderungen und Aufrechnung nicht stillschweigend saldieren. Zinsen nach Artikel 78 mit gesondert ermitteltem Zinssatz, nicht automatisch deutschem Verzugszins berechnen. Keine Aufrechnung, Rüge, Aufhebung oder Klage eigenmächtig versenden.
 
@@ -42,8 +44,14 @@ Beachte [Zitierweise](../../references/zitierweise.md), soweit vorhanden. Prüfe
 
 ## 5. Ausgabeformat
 
-Liefere `ergebnis.md` mit Sachverhalt, Erklärungszeitachse, Chargenabgleich, Preis- und Schadensrechnung, Gegenargumenten und vollständig ausformuliertem Forderungs- oder Verteidigungsentwurf. Tabellen enthalten Mengen, Einheiten, Formeln und Belege; sie ersetzen nicht das rechtliche Votum. Keine Skelette oder Halbsätze. Dezimale Gliederung, Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Unaufklärbare Mengen nicht schätzen, ohne die Annahme offenzulegen.
+Verwende den gewünschten Dateinamen; nur ohne Dateivorgabe gilt `ergebnis.md`. Liefere nachvollziehbaren Chargenabgleich, Preis- und Schadensrechnung sowie Gegenargumente. Einen Forderungs- oder Verteidigungsentwurf nur bei entsprechendem Auftrag vollständig ausformulieren. Tabellen enthalten Mengen, Einheiten, Formeln und Belege; sie ersetzen nicht die Begründung.
+
+Keine Skelette oder Halbsätze. Dezimale Gliederung, Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Rechenannahmen offenlegen und nicht als bewiesene Mengen in den Empfängertext übernehmen. Quellenstatus und Recherchegrenzen getrennt notieren.
 
 ## 6. Beispiele
 
 Passend: Ein Importeur muss Deckungskäufe aus drei Sammelrechnungen den ausgefallenen Abrufen zuordnen. Ebenfalls passend: Ein Lieferant bestreitet, dass ein teurerer Vorratseinkauf Ersatz seines Ausfalls war. Nicht passend sind ein isolierter Gerichtsstandsvertrag oder eine Warentarifierung.
+
+## 7. Technische Grenzen
+
+Nur zugängliche Unterlagen und Werkzeuge verwenden und fehlende Teile konkret benennen. Bei technischen Hindernissen die unabhängigen Positionen weiterbearbeiten. Ohne Export den vollständigen Text liefern; keine nicht erfolgte Quellenprüfung oder Dateierzeugung behaupten.

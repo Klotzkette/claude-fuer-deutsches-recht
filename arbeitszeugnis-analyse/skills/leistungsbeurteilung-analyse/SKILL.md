@@ -3,46 +3,38 @@ name: leistungsbeurteilung-analyse
 description: "Für Leistungsbeurteilung-Analyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
-# Leistungsbeurteilung-Analyse
+# 1. Leistungsbeurteilung im Zeugnis analysieren
 
-## Fachlicher Anker
+Lies das vollständige Zeugnis und die vorhandenen Tätigkeits- und Leistungsunterlagen. Beantworte die konkrete Frage zur Leistungsbewertung und liefere die bestellten Textvorschläge oder den Analysebericht. Eine bloße Analyse löst weder einen neuen Gesamtzeugnisentwurf noch eine Klage aus.
 
-- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+## 1.1. Bewertungsgrundlage
 
-## Geheimcode-Regeln
+Entnimm Tätigkeit, Zeitraum und gewünschte Prüfung dem vorhandenen Material. Trenne Fachkenntnis, Arbeitsweise, Qualität, Menge, Erfolg und Gesamtformel. Der grammatische Bezug entscheidet, welche Eigenschaft ein Verstärker wie „stets“ betrifft. Eine positive Verhaltensaussage verbessert nicht automatisch die Leistungsnote.
 
-| Formulierung | Bedeutung | Ampel |
-|---|---|---|
-| "stets sorgfältig und gewissenhaft" | Sehr hohe Qualität, Note 1-2 | Grün |
-| "sorgfältig und zuverlässig" | Gute Qualität, Note 2-3 | Grün |
-| "mit Sorgfalt erledigt" | Befriedigende Qualität, Note 3 | Orange |
-| "bemüht" | Guter Wille, unzureichende Ergebnisse, Note 4 | Rot |
-| "im Wesentlichen" | Einschränkung, Note 4 | Rot |
-| "hat unsere Erwartungen erfüllt" | Kodierte Note 4 | Rot |
-| "war in der Lage" | Impliziert Seltenheit, Note 3-4 | Orange |
-| "stets einsatzbereit" | Hohe Motivation, Note 1-2 | Grün |
-| "zeigte Engagement" | Mäßige Motivation, Note 3 | Orange |
-| "nach Anweisung" | Keine Eigeninitiative, Note 4 | Rot |
+## 2. Formulierungen im Zusammenhang prüfen
 
-## Beispiele
+Wörter wie „sorgfältig“, „zuverlässig“, „einsatzbereit“ und „Engagement“ beschreiben unterschiedliche Leistungsmerkmale. Ihr Fehlen oder Vorhandensein ergibt keine feste Einzelnotenrechnung. „Bemüht“ oder „im Wesentlichen“ können eine Einschränkung ausdrücken; benenne den vollständigen Satz und prüfe, ob daneben Ergebnisse bestätigt oder gerade offengelassen werden.
 
-**Beispiel 1 – Grün (Note 2):** "Herr Köhler verfügt über hervorragende Fachkenntnisse und setzte diese stets zuverlässig und sorgfältig ein. Sein Arbeitstempo war stets hoch, und er behielt auch in Stressphasen die Übersicht."
+„Hat unsere Erwartungen erfüllt“, „war in der Lage“ oder „nach Anweisung“ nicht automatisch als bestimmte schlechte Note ausgeben. Prüfe Aufgabe, übrige Bewertung und Satzbezug. Unterscheide eine ausdrückliche Bewertung von einer reinen Tätigkeitsbeschreibung. Keine Gesamtnote aus gemittelten Satznoten bilden.
 
-**Beispiel 2 – Orange (Note 3):** "Frau Lang erledigte die ihr übertragenen Aufgaben sorgfältig. Ihre Fachkenntnisse entsprachen den Anforderungen ihres Aufgabenbereichs."
+Eine farbliche Kennzeichnung kann die Begründung ergänzen, nicht ersetzen. Nenne Originalstelle, nachvollziehbare Lesart, verbleibende Unsicherheit und gegebenenfalls eine gezielte Alternative. Eine sprachlich ungünstige Wirkung ist noch kein nachgewiesener Berichtigungsanspruch.
 
-**Beispiel 3 – Rot (Note 4):** "Herr Meier war stets bemüht, seine Aufgaben zu erfüllen, und zeigte dabei durchgehend guten Willen."
+## 3. Nachweise erfragen und weiterarbeiten
 
-**Beispiel 4 – Rot (Note 5):** "Sie erledigte die ihr übertragenen Aufgaben im Wesentlichen zur Zufriedenheit und zeigte dabei Bemühen."
+Wünscht der Nutzer eine stärkere Erfolgsaussage, prüfe zuerst vorhandene Beurteilungen und Zielvereinbarungen. Fehlt der Nachweis, frage konkret nach Ergebnis, Zeitraum und Beleg. Nach der Antwort gleiche die Angaben ab, aktualisiere nur die betroffene Bewertung und schreibe den verlangten Bericht oder Formulierungsvorschlag fertig.
 
-**Beispiel 5 – Irreführend positiv:** "Er war in der Lage, auch anspruchsvolle Projekte erfolgreich abzuschließen." → Implikation: nur gelegentlich, Note 3-4.
+Ist eine Aufgabe unklar, frage nach der tatsächlichen Verantwortung, statt eine Führungsleistung zu erfinden. Ein neuer Widerspruch kann eine weitere kurze Frage rechtfertigen; bekannte Angaben nicht wiederholen. Ohne erreichbaren Nachweis liefere die tragfähigen Teile und kennzeichne die offene Aufwertung. Nach Nachlieferung bis zur bestellten vollständigen Fassung weiterarbeiten.
 
-## Rechtliche Einordnung und Normen
+## 4. Rechtsgrundlagen und Quellen
 
-- **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Grundlage aller Bewertungen
-- **Paragrafen 195, 199 BGB** — Verjährung drei Jahre ab Jahresende
+Prüfe Paragraf 109 GewO, ergänzend Paragraf 630 BGB bei einschlägigen Dienstverhältnissen und Paragraf 16 BBiG bei Auszubildenden. Bei beauftragter Durchsetzung die maßgebliche Frist, einschließlich Paragrafen 195 und 199 BGB, gesondert prüfen.
 
-## Aktuelle Rechtsprechung
+BAG, Urteil vom 15.11.2011, Az. 9 AZR 386/10, [amtliche Entscheidung](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/), Randnummern 15 und 16: objektiver Empfängerhorizont und Zusammenhang statt isolierter Geheimcode-Deutung. BAG, Urteil vom 18.11.2014, Az. 9 AZR 584/13, [amtliche Entscheidung](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/), zur Gesamtbewertung und Darlegung einer besseren Bewertung. Vor Verwendung die für den konkreten Befund tragende Passage verifizieren.
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Die Regeln in `references/quellenhygiene.md` und `references/zitierweise.md` sind optionale Vertiefungen. Ohne diese Dateien weiterarbeiten: keine erfundenen Entscheidungen oder Literatur; Gericht, Entscheidungsform, Datum, Aktenzeichen und überprüfte Passage nennen. Interne Quellenprüfung gesondert dokumentieren, nicht in ein Zeugnis oder einen Mandantenbrief übernehmen.
+
+## 5. Ausgabe und Grenzen
+
+Liefere eine verständliche, vollständig ausformulierte Bewertung mit den tatsächlich benötigten Textvorschlägen. Bei einem bestellten Berichtigungsschreiben nach Klärung der tragenden Tatsachen den Brief fertigstellen; nicht bei einer Codetabelle stehenbleiben. Keine unbelegten Tatsachen in Ersatzformulierungen übernehmen.
+
+Dezimale Überschriften mit Leerzeilen; Times New Roman 11 pt beziehungsweise Exporthinweis. Fehlende Lesbarkeit konkret benennen und die übrigen Absätze bearbeiten. Ohne Export den vollständigen Text liefern, keine Datei erfinden. Externe Versendung nur nach ausdrücklicher Freigabe.

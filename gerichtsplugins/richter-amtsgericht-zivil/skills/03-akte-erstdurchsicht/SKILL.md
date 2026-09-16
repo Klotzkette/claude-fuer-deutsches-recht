@@ -23,14 +23,14 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 1. Klage und Verteidigung in Stationen ordnen; unstreitigen Tatbestand und streitige Punkte herausarbeiten.
 2. Schlüssigkeit der Klage prüfen: ist der Klägervortrag anspruchsausfüllend?
 3. Erheblichkeit der Verteidigung prüfen: greifen Einwendungen oder Einreden bei unterstellter Wahrheit durch?
-4. Über streitige erhebliche Tatsachen Beweis erheben; freie Beweiswürdigung nach Paragraf 286 ZPO begründen.
-5. Tenor, Streitwert (Paragraf 3 ZPO), Kosten und vorläufige Vollstreckbarkeit (Paragrafen 708 ff. ZPO) bestimmen; Berufungsfähigkeit (Paragraf 511 ZPO) im Blick behalten.
+4. Über streitige erhebliche Tatsachen erforderliche Beweiserhebung vorbereiten; tatsächlich erhobene Beweise nach Paragraf 286 ZPO würdigen, keine Erhebung fingieren.
+5. Soweit beauftragt und entscheidungsreif, Tenor, Streitwert (Paragraf 3 ZPO), Kosten und vorläufige Vollstreckbarkeit (Paragrafen 708 ff. ZPO) bestimmen; Berufungsfähigkeit (Paragraf 511 ZPO) im Blick behalten.
 6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
 7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+Liefere die bestellte Verfügung oder den ausformulierten Erstdurchsichtsvermerk, nicht nur Prüfungspunkte. Nutzerseitige Dateinamen gehen vor; technische Arbeitsnotizen getrennt halten.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
@@ -52,6 +52,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 3. Verfahrensart festlegen: schriftliches Vorverfahren, früher erster Termin, Paragraf 495a ZPO oder Sonderzuständigkeit.
 4. Fristen und Kostenvorschuss so verfügen, dass Zustellung und Verteidigungsanzeige ohne Rückfrage laufen können.
 5. Erste richterliche Verfügung mit Hinweisen, Wiedervorlage und konkretem nächsten Aktenzweck abschließen.
+
+Fehlt eine erwähnte Anlage oder ein Zustellnachweis, frage genau danach. Nach Eingang die betroffene Frist, Tatsachenzuordnung und Verfügung aktualisieren. Neue entscheidende Widersprüche gezielt klären, ohne die Aufnahme zu wiederholen; unabhängige Teile vorläufig bearbeiten und nach Ergänzung die bestellte Fassung fertigstellen. Eine Nutzerantwort ersetzt keine gerichtliche Gehörsgewährung.
 
 ## Typische Fallstricke
 
@@ -84,7 +86,7 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 - Rolle: Amtsgericht Zivilsachen. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Urteil, Hinweisverfügung, Beweisbeschluss oder Vergleichsvorschlag; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
 - Pflichtstamm: Paragrafen 23, 71 GVG sowie Paragrafen 139, 495a, 286, 313 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
 - Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+- Bei ungeklärtem Aktengeheimnis, richterlicher Unabhängigkeit, Geschäftsverteilung, Befangenheit, Zuständigkeit oder Grundrechtseingriff den betroffenen Schritt aussetzen und eine konkrete Vorlage- oder Prüfverfügung entwerfen. Unabhängige Vorbereitung bleibt möglich; keine Verfügung, Zustellung oder Entscheidung eigenmächtig ausführen.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 

@@ -9,7 +9,7 @@ Bereite materielle Langzeitfolgen eines Behandlungsfehlers so auf, dass sich die
 
 ## 2. Eingaben
 
-Lies Behandlungszeitachse, Haftungsanerkenntnis oder streitige Haftungsbegründung, Befunde, Gutachten, Haushaltsbeschreibung, frühere Aufgabenverteilung, Hilfstätigkeitsprotokolle, Rechnungen und Leistungsbescheide. Erfasse Haushaltspersonen und Alter, Wohnfläche, Erwerbstätigkeit, Vorerkrankungen, stationäre Zeiten, Rehabilitation und tatsächliche Restfähigkeiten. Gesundheitsdaten nur im zugelassenen Mandatskontext verarbeiten. Ohne tragfähige Kausalitätsbasis bedingte Rechnung, keine medizinische Schlussfolgerung; höchstens eine gebündelte Rückfrage.
+Lies Behandlungszeitachse, Haftungsanerkenntnis oder streitige Haftungsbegründung, Befunde, Gutachten, Haushaltsbeschreibung, frühere Aufgabenverteilung, Hilfstätigkeitsprotokolle, Rechnungen und Leistungsbescheide. Erfasse Haushaltspersonen und Alter, Wohnfläche, Erwerbstätigkeit, Vorerkrankungen, stationäre Zeiten, Rehabilitation und tatsächliche Restfähigkeiten. Gesundheitsdaten nur im zugelassenen Mandatskontext verarbeiten. Ohne tragfähige Kausalitätsbasis bedingt rechnen, keine medizinische Schlussfolgerung behaupten. Entscheidende fehlende Angaben gezielt erfragen; vorhandene Krankenakten beweisen nicht automatisch den behaupteten Hilfeumfang.
 
 ## 3. Ablauf und Checkliste
 
@@ -33,7 +33,9 @@ Ordne jede Sozialleistung ihrem Zweck, Zeitraum, Leistungsverpflichteten und üb
 
 ### 3.5. Zukunft und Abschluss
 
-Vergangenheit von laufendem und zukünftigem Mehrbedarf trennen. Für Zukunftsschäden Dauer, Prognoseunsicherheit, Rentenweg und mögliche Feststellung prüfen. Keine Lebenszeitsumme mit erfundener Lebenserwartung oder Abzinsung ausgeben; eine Kapitalisierung verlangt belegte Annahmen und rechtliche Prüfung. Prüfe einmal Stundenüberschneidung, Wochenumrechnung, Preisgrundlage und Leistungskongruenz. Keine Abfindung, Schweigepflichtentbindung, Leistungsbeantragung oder Vergleichsannahme eigenmächtig erklären.
+Vergangenheit von laufendem und zukünftigem Mehrbedarf trennen. Für Zukunftsschäden Dauer, Prognoseunsicherheit, Rentenweg und mögliche Feststellung prüfen. Keine Lebenszeitsumme mit erfundener Lebenserwartung oder Abzinsung ausgeben; eine Kapitalisierung verlangt belegte Annahmen und rechtliche Prüfung. Stundenüberschneidung, Wochenumrechnung, Preisgrundlage und Leistungskongruenz auch nach neuen Belegen für die betroffenen Positionen kontrollieren. Keine Abfindung, Schweigepflichtentbindung, Leistungsbeantragung oder Vergleichsannahme eigenmächtig erklären.
+
+Fehlt die Aufschlüsselung einer Pflegerechnung, die Haushalts- und Pflegeanteile gezielt anfordern. Nach Eingang Doppelansätze entfernen, Sozialleistungen und Eigenanspruch aktualisieren und den bestellten Text fertigstellen. Weicht der nachgereichte Leistungsbescheid zeitlich vom Hilfsprotokoll ab, genau diesen Widerspruch klären und anschließend neu rechnen. Weitere kurze Rückfragerunden sind bei neuen entscheidenden Lücken zulässig; keine bereits beantworteten Fragen wiederholen. Bei einem Hindernis bearbeitbare Teile vorläufig liefern und nach der Antwort fortsetzen, nicht beim Nachforderungsvermerk enden.
 
 ## 4. Quellenpflicht
 
@@ -46,7 +48,9 @@ Beachte [Zitierweise](../../references/zitierweise.md), soweit verfügbar. Mediz
 
 ## 5. Ausgabeformat
 
-Erstelle `ergebnis.md` mit Sachverhalt, Haftungsvorbehalt, Tätigkeits- und Zeitmatrix, Stundenrechnung, Pflegeabgrenzung, Kongruenzmatrix, Eigenanspruch und ausformulierter Zahlungs- oder Erwiderungspassage. Die Begründung besteht aus vollständigen Sätzen; reine Rechentabellen oder Skelette sind kein Endprodukt. Dezimale Gliederung, Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Medizinische und rechtliche Restfragen gesondert benennen.
+Erstelle begründete Stundenrechnung, Pflegeabgrenzung, Leistungszuordnung, Haftungsvorbehalt und Eigenanspruch. Den bestellten Zahlungs- oder Erwiderungstext ausformulieren; ein reiner Berechnungsauftrag verlangt keinen zusätzlichen Schriftsatz. Verwende den vom Nutzer gewünschten Dateinamen; fehlt er, gilt `ergebnis.md`.
+
+Nur die zum Verständnis erforderlichen Tabellen beifügen und Quellenprüfvermerke getrennt vom Empfängertext halten. Die Begründung besteht aus vollständigen Sätzen; reine Rechentabellen oder Skelette sind kein Endprodukt. Dezimale Gliederung, Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Medizinische und rechtliche Restfragen gesondert benennen.
 
 ## 6. Beispiele
 

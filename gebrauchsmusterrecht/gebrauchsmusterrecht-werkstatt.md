@@ -6,21 +6,19 @@ Bereite die Anmeldung oder Abzweigung eines Gebrauchsmusters für die technische
 
 Bereite Anmeldung, Abzweigung, Recherche oder Durchsetzung eines Gebrauchsmusters aus den vorhandenen Unterlagen vor. Prüfe Neuheitsschonfrist, Schutzanspruch, Schutzbereich, Verletzung, Löschung und einstweiligen Rechtsschutz entsprechend dem Auftrag. Berücksichtige GebrMG, DPMA-Anmeldung, Recherche nach Paragraf 7 GebrMG, BPatG-Beschwerde, Lizenz und Freedom-to-Operate (FTO) sowie das Ziel eines schnellen Schutzes technischer Produkte.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Gebrauchsmusterrecht insbesondere die vorgelegten Urkunden, Bescheide und Korrespondenz, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
-
-Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
+Ordne Schutzansprüche, Beschreibung, Zeichnungen, Registerdaten und Vorveröffentlichungen der konkreten technischen Lehre zu. Trenne Anmeldung, Rechtsbestandsprüfung und Verletzungsprüfung nach dem Auftrag. Eintragungsurkunde und Recherchebericht ersetzen nicht die materielle Prüfung; interne Merkmalsübersichten unterstützen das Ergebnis, ohne jede Prüfstation zu einem eigenen Ausgabeprodukt zu machen.
 
 ### 1.1. Arbeitsmodus: schnell und belastbar
 
-Ohne konkreten Ausgabeauftrag beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt erstellen. Vorhandene Dokumente gezielt lesen und Belegstellen bilden; nur nachfragen, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.
+Nutze die vorhandenen Angaben zu Rechteinhaber, Produkt, Anspruchsfassung und gewünschtem Ergebnis. Kläre einen offenen Verwendungszweck nur, soweit er die Bearbeitung verändert; aus einem Rechtsbestands- oder FTO-Gutachten wird nicht ungefragt eine Abmahnung.
 
-Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+Fehlen Inhalt oder Datum einer Vorveröffentlichung, frage nach dem konkret zugänglichen Dokument oder der beschriebenen Benutzung. Prüfe nach Eingang Offenbarungsumfang und betroffene Anspruchsmerkmale neu und formuliere das bestellte Gutachten fertig. Bei einer Abzweigung fehlende Ursprungsunterlagen und amtliche Verfahrensdaten anfordern; nach Eingang Frist, Offenbarungsgrundlage und Anspruchsfassung abgleichen. Eine neue entscheidende Veröffentlichung kann weitere gezielte Fragen erfordern, nicht eine erneute vollständige Aufnahme.
 
 ### 1.2. Ausgabeformate für schnelle Lieferung
 
 | Bedarf | Sofortausgabe | Qualitätsgriff |
 | --- | --- | --- |
-| Frist- oder Eilfall: Abzweigungs- | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Abzweigungs-, Prioritäts- oder Schonfrist ist offen; vor Fortsetzung klären |
+| Drohender Ablauf einer Abzweigungs-, Prioritäts- oder Schonfrist | Frist und erforderlichen Sicherungsschritt vorrangig prüfen | Fehlenden Datumsnachweis anfordern; unabhängig bearbeitbare technische Fragen fortsetzen |
 | Tragendes Arbeitsprodukt | Arbeitsprodukt: Anmeldung, Abzweigungserklärung, Rechercheauftrag, Löschungsantrag, Abmahnung, Klage oder Verfügungsantrag erstellen | jede Tatsache bekommt Beleg oder Lückenmarke |
 | Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Ist die technische Lehre als Gebrauchsmustergegenstand zulässig oder als Verfahren ausgeschlossen |
 | Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Inhaber für eingetragenen Anspruch, Rechtsbestand und Verletzung; Gegner für Löschungsgrund, Vorbenutzung, Erschöpfung oder sonstige Einrede |
@@ -29,7 +27,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 | Zwischenstation 2 | Arbeitsstand mit Belegstelle | Rechtsbestand: Recherche, Neuheit, erfinderischen Schritt, Offenbarung, Erweiterung und Löschungsangriff dokumentieren |
 | Adressatenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko, Kostenfolge und nächsten Schritt getrennt ausweisen |
 
-### 1.3. Rückfragenbremse
+### 1.3. Fehlende technische und zeitliche Angaben
 
 1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Ist die technische Lehre als Gebrauchsmustergegenstand zulässig oder als Verfahren ausgeschlossen“ aus; frage erst danach gezielt nach.
 2. Der Engpass dieses Gebiets hat Vorrang: Abzweigungs-, Prioritäts- oder Schonfrist ist offen.
@@ -37,27 +35,23 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
 5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
 
-### 1.4. Mini-Gerüste
+### 1.4. Vom Merkmalsnachweis zur fertigen Fassung
 
-- Sofortvermerk: Der Ausgangsanker ist GebrMG Paragraf 1 bis Paragraf 3. Nach derzeitigem Stand spricht [Beleg] bei [Tatbestandsmerkmal] mehr für [Ergebnis]; offen bleibt [Lücke].
-- Kernsatz des Arbeitsprodukts: Arbeitsprodukt: Anmeldung, Abzweigungserklärung, Rechercheauftrag, Löschungsantrag, Abmahnung, Klage oder Verfügungsantrag erstellen.
-- Beweissatz: [Tatsache] ist durch [Beweismittel] belegt; im Übrigen gilt: Inhaber für eingetragenen Anspruch, Rechtsbestand und Verletzung; Gegner für Löschungsgrund, Vorbenutzung, Erschöpfung oder sonstige Einrede.
-- Rechtsfolgensatz: Daraus folgt Anmeldung, Abzweigung, Recherche, Löschung, Unterlassung, Auskunft, Schadensersatz oder einstweilige Verfügung.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg oder Norm]. Risiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg bleibt die Leitfrage „Ist die technische Lehre als Gebrauchsmustergegenstand zulässig oder als Verfahren ausgeschlossen“ offen.
-## 2. Stop-Kriterien
+Ist ein Merkmal der angegriffenen Vorrichtung auf Fotos nicht erkennbar, frage gezielt nach technischer Dokumentation oder einer konkreten Beschreibung des Bauteils. Nach Eingang den Merkmalsvergleich und die betroffene Verletzungsbewertung aktualisieren. Eine neu beschriebene Eigenschaft nicht ohne Offenbarungsprüfung in einen Anmeldeanspruch aufnehmen. Bis zur Klärung den begründbaren Teil vorläufig liefern und den unbekannten Aufbau nicht als Tatsache darstellen.
 
-- Abzweigungs-, Prioritäts- oder Schonfrist ist offen.
-- Der Verfügungsantrag stützt sich nur auf die ungeprüfte Eintragung und nicht auf eine Rechtsbestandsprüfung.
-- Ein Verfahrensanspruch oder eine gegenüber der Ursprungsanmeldung unzulässig erweiterte Fassung wird vorgeschlagen.
-- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+## 2. Grenzen der Bearbeitung
+
+- Offene Abzweigungs-, Prioritäts- oder Schonfrist vorrangig klären; keine rechtzeitige Anmeldung behaupten, unabhängige Teile aber weiterbearbeiten.
+- Einen Verfügungsantrag nicht allein auf die ungeprüfte Eintragung stützen; fehlende Rechtsbestandsprüfung konkret nachholen.
+- Einen unzulässigen Verfahrensanspruch oder eine unzulässig erweiterte Fassung nicht als verwendbare Endfassung ausgeben; eine belegte zulässige Alternative nur im Rahmen des Auftrags prüfen.
+- Sind Identität, Vollmacht, Fristbeginn oder Verfahrensstand offen, den konkreten Nachweis anfordern und die betroffenen Aussagen vorläufig halten.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
 ### 3.1. Schutzweg und Frist
 
-Arbeitsgriff Schutzweg und Frist: Eigenanmeldung oder Abzweigung, Priorität, Erledigung der Patentanmeldung, Schonfrist und maximale Schutzdauer sichern. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: Fristen- und Verfahrensblatt mit Sofortmaßnahme; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Bestimme Eigenanmeldung oder Abzweigung, Priorität, Erledigung der Patentanmeldung, Schonfrist und maximale Schutzdauer aus den maßgeblichen Unterlagen. Fehlt ein amtliches Verfahrensdatum, fordere den Nachweis an und prüfe nach Eingang die betroffene Frist neu. Eine Dateierstellung oder ein Registerauszug mit unklarem Stand ersetzt keinen Fristauslöser.
 
 ### 3.2. Schutzgegenstand
 
@@ -65,7 +59,7 @@ Arbeitsgriff Schutzgegenstand: technische Lehre, zulässiger Sachanspruch, ausge
 
 ### 3.3. Rechtsbestand
 
-Arbeitsgriff Rechtsbestand: Recherche, Neuheit, erfinderischen Schritt, Offenbarung, Erweiterung und Löschungsangriff dokumentieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Prüfe Recherche, Neuheit, erfinderischen Schritt, Offenbarung, Erweiterung und geltend gemachten Löschungsgrund merkmalsbezogen. Nachgereichte Vorveröffentlichungen auf Inhalt und Zeitpunkt prüfen und nur die betroffenen Bewertungen ändern. Formuliere das bestellte Rechtsbestandsgutachten mit begründeter Antwort, nicht bloß einer Trefferliste.
 
 ### 3.4. Schutzbereich und Verletzung
 
@@ -73,7 +67,7 @@ Arbeitsgriff Schutzbereich und Verletzung: Anspruch, Beschreibung, Zeichnungen, 
 
 ### 3.5. Arbeitsprodukt
 
-Arbeitsgriff Arbeitsprodukt: Anmeldung, Abzweigungserklärung, Rechercheauftrag, Löschungsantrag, Abmahnung, Klage oder Verfügungsantrag erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: versandfähiger Entwurf mit Anlagen- und Fristenbezug; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Erstelle das bestellte Gutachten, die Anspruchsfassung, Anmeldung, Abzweigungserklärung oder den verlangten Schriftsatz vollständig. Eine fehlende technische oder zeitliche Angabe führt zur gezielten Nachfrage und vorläufigen Bearbeitung der übrigen Teile. Nach Eingang Offenbarung, Frist oder Merkmalszuordnung aktualisieren und die Endfassung fertigstellen; keine ungefragte Durchsetzung beginnen.
 
 ## 4. Rechtsprechungs-Fallkarte
 
@@ -101,7 +95,7 @@ Arbeitsgriff Arbeitsprodukt: Anmeldung, Abzweigungserklärung, Rechercheauftrag,
 | --- | --- | --- |
 | BGH, Beschluss vom 20.06.2006 - X ZB 27/05 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Demonstrationsschrank verlangt auch beim erfinderischen Schritt eine wertende Prüfung der technischen Lehre aus Sicht des Fachmanns |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Anmeldung, Abzweigung, Recherche, Löschung, Unterlassung, Auskunft, Schadensersatz oder einstweilige Verfügung
-- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
+- Rechtliche Nachweise den tragenden Aussagen zuordnen; Quellenstatus und offene Recherche in einer getrennten Arbeitsnotiz dokumentieren, nicht im Empfängertext.
 
 ## 7. Pflichtnormen als Kernsätze
 
@@ -135,7 +129,7 @@ Arbeitsgriff Arbeitsprodukt: Anmeldung, Abzweigungserklärung, Rechercheauftrag,
 10.5. Beweislast: Inhaber für eingetragenen Anspruch, Rechtsbestand und Verletzung; Gegner für Löschungsgrund, Vorbenutzung, Erschöpfung oder sonstige Einrede. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei Abzweigungs-, Prioritäts- und Schonfrist anhand amtlicher Daten eingehalten an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Anmeldung, Abzweigung, Recherche, Löschung, Unterlassung, Auskunft, Schadensersatz oder einstweilige Verfügung; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Anspruchsfassung Gebrauchsmuster, Abzweigung Aus Patentanmeldung, Arbeitnehmererfindung und Inhaberschaft, Beschreibung und Zeichnungen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Arbeitsprodukt: Liefere das bestellte Dokument mit fachüblichen Überschriften. Merkmalsvergleich und Offenbarungsübersicht dienen der Begründung, nicht als zwingende Gliederung jedes Schreibens. Eine Fragenliste ersetzt keine bestellte Anspruchsfassung oder ein Gutachten.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Beschluss vom 20.06.2006 - X ZB 27/05.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -150,13 +144,13 @@ Arbeitsgriff Arbeitsprodukt: Anmeldung, Abzweigungserklärung, Rechercheauftrag,
 
 ## 12. Arbeitsweise
 
-Arbeite zuerst aktennah, dann normnah, dann produktnah. Liegen Unterlagen vor, werden sie ohne Vorfrage gelesen und mit Fundstelle verarbeitet; im Bereich Gebrauchsmusterrecht sind das vor allem die vorgelegten Urkunden, Bescheide und Korrespondenz. Erst wenn wirklich kein verwertbares Material vorliegt, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert; Tabellen werden nur für echte Vergleiche, Nachweise, Berechnungen oder Varianten verwendet.
+Lies vorhandene technische und amtliche Unterlagen zuerst. Frage auch bei vorhandenen Dateien nach entscheidenden Lücken, etwa der ursprünglichen Zeichnung oder dem Inhalt einer Vorveröffentlichung. Gleiche Antworten mit Anspruchsfassung und bisherigen Belegen ab und überarbeite die betroffene Prüfung. Neue entscheidende Lücken dürfen weitere gezielte Fragen auslösen; bekannte Angaben nicht wiederholt erheben. Tabellen nur für echte Merkmalsvergleiche, Nachweise oder Fristberechnungen verwenden.
 
 Selbstcheck vor Ausgabe: Ist die maßgebliche Frist mit Beginn, Lauf und Ende benannt? Ist die Form geklärt? Ist die Rechtsfolge aus einer Norm abgeleitet und auf Anmeldung, Abzweigung, Recherche, Löschung, Unterlassung, Auskunft, Schadensersatz oder einstweilige Verfügung bezogen? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
 ## 13. Qualitätskontrolle und Abschluss
 
-Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Besonders zu kontrollieren ist in diesem Gebiet: Welche konkrete Benutzung fällt in den nach Paragraf 12a GebrMG ausgelegten Schutzbereich. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
+Prüfe vor Abschluss Anspruchsfassung, Offenbarungsgrundlage, Fristen, Merkmalszuordnung, Belege und gegebenenfalls Schutzbereich nach Paragraf 12a GebrMG. Kontrolliere die Einarbeitung neuer Angaben und die Vollständigkeit des bestellten Dokuments. Bei einem Hindernis den begründbaren Teil vorläufig liefern und nach Eingang des konkret benötigten Nachweises fortsetzen. Anmeldung, Abmahnung oder Einreichung nicht eigenmächtig veranlassen.
 
 ## 14. Musterbausteine
 
@@ -222,9 +216,9 @@ Lieferstück: Fachvotum zu Chemie Biotech und Stoffschutz mit Tatbestandsmerkmal
 
 ### 16.7. China Utility Model Vergleich
 
-Bearbeitungsauftrag: Bearbeite China Utility Model Vergleich: abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. Fixiere gesicherten Streitstand, Interessen, Mindestziel und objektive Kriterien, rechne Kosten- und Vollstreckungsrisiko und formuliere Vergleichskorridor, Rückfallposition, Regelungspunkte, Vollmacht und belastbaren Vollzug.
+Vergleiche für den genannten Zielmarkt oder Produktionsort den gewünschten Schutzweg mit dem deutschen Gebrauchsmuster. Bestimme technische Lehre, Anmeldestand und Vergleichsfragen aus den Unterlagen. Ein Rechtsvergleich ist kein Auftrag zu Vergleichsverhandlungen mit einem Gegner; ausländische Rechtsfragen nur auf geprüfter Grundlage beantworten und verbleibenden lokalen Prüfbedarf kennzeichnen.
 Prüfschritte: China ist Zielmarkt oder Produktionsort; Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen; Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern; Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt; Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-Lieferstück: Verhandlungsblatt zu China Utility Model Vergleich mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
+Liefere die bestellte rechtsvergleichende Stellungnahme mit nachvollziehbaren Unterschieden und offenen Fragen für die lokale Beratung, keinen ungefragten Vergleichsvertrag.
 
 ### 16.8. Computerprogramm und Verfahrensausschluss
 
@@ -255,3 +249,7 @@ Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gege
 Bearbeitungsauftrag: Bearbeite Klageanträge Verletzung: abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg. Fachstation: Schutzbereich und Verletzung: Anspruch, Beschreibung, Zeichnungen, angegriffene Ausführung, Ausnahmen und Einreden vergleichen.
 Prüfschritte: Eine Verletzungsklage wird vorbereitet; Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen; Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern; Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt; Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+
+## 17. Technische Grenzen
+
+Nutze verfügbare Werkzeuge und arbeite ohne weitere Skills hier weiter. Bei Abruf- oder Exportfehlern einen begründeten Ersatzweg versuchen und ein verbleibendes Hindernis getrennt vom Empfängertext benennen. Ohne Export vollständigen Text liefern; keine Dateierzeugung oder vollständige Akten- und Quellenprüfung behaupten, die nicht stattgefunden hat. Unveränderte Belege weiterverwenden, neue Fassungen und widersprechende Nachweise erneut prüfen.

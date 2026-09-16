@@ -115,6 +115,19 @@
         }
       ],
       "target_skill": "zugewinn-vermoegensbelege-stichtage-abgleichen"
+    },
+    {
+      "id": "zugewinn-fortsetzung-nach-bankauskunft",
+      "request": "Setzen Sie die bereits begonnene Bearbeitung fort. Ich vertrete Frau Keller gegen ihren geschiedenen Ehemann. Deutscher gesetzlicher Güterstand, Zustellung des Scheidungsantrags am 02.06.2026, Rechtskraft am 15.08.2026. Diese Daten und die Eigentumsverhältnisse sind geprüft und bleiben unverändert. Anfangsvermögen und privilegierte Erwerbe sind bei beiden null. Das schuldenfreie Endvermögen meiner Mandantin beträgt 50000 EUR; beim Ehemann waren 170000 EUR nachgewiesen. Sie hatten gezielt die Bestätigung zu einem weiteren, ihm allein gehörenden Depot angefordert. Hier ist die Antwort: Die Bank bestätigt zusätzlich 30000 EUR zum 02.06.2026. Der Wert ist in den 170000 EUR noch nicht enthalten. Es gibt keine Schulden, streitigen Hinzurechnungen, sonstigen Vermögenswerte oder Zahlungen auf den Ausgleich. Bitte stellen Sie jetzt die Berechnung fertig und schreiben Sie einen verständlichen Brief an Frau Keller mit dem Ergebnis und einer konkreten Empfehlung zum weiteren außergerichtlichen Vorgehen. Noch kein Schreiben an den Gegner und keine Klage. Geben Sie den Brief in mandantenbrief.md und nur erforderliche interne Hinweise in bearbeitungsvermerk.md aus. Die Quelle einer bereits geprüften Rechtsaussage braucht nicht als technischer Abrufvermerk im Mandantenbrief zu stehen.",
+      "input_files": [],
+      "deliverables": ["mandantenbrief.md", "bearbeitungsvermerk.md"],
+      "criteria": [
+        {"id": "C01", "text": "Die neue Bankauskunft wird eingearbeitet: Endvermögen des Ehemanns 200000 EUR, Differenz 150000 EUR, Ausgleich zugunsten der Mandantin 75000 EUR. Es erfolgt keine erneute Aufnahme bereits beantworteter Stichtags- oder Eigentumsfragen.", "deliverables": ["mandantenbrief.md"]},
+        {"id": "C02", "text": "Der Brief ist mit Anrede, verständlicher Erläuterung der Rechnung und konkreter Empfehlung vollständig ausformuliert. Er bleibt nicht bei einer Tabelle oder bei der Ankündigung, einen Brief schreiben zu können.", "deliverables": ["mandantenbrief.md"]},
+        {"id": "C03", "text": "Der Mandantenbrief enthält keine technische Arbeitsanweisung, keine vorgegebene Prüffeldsprache wie Stichtagskarte oder Kernbeleg und keine Erklärung über fehlende Exportwerkzeuge. Rechtlich erforderliche Vorbehalte dürfen in verständlicher Sprache enthalten sein.", "deliverables": ["mandantenbrief.md"]},
+        {"id": "C04", "text": "Es wird weder eine Klage noch ein bereits versandtes Gegnerschreiben behauptet. Die berechnete Empfehlung ist von einer noch freizugebenden Außenhandlung getrennt.", "deliverables": ["mandantenbrief.md", "bearbeitungsvermerk.md"]}
+      ],
+      "target_skill": "zugewinn-vermoegensbelege-stichtage-abgleichen"
     }
   ]
 }

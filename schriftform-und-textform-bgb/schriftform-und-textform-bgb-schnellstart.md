@@ -26,8 +26,12 @@ Gerichtliche Einreichungen nach Paragraf 130a ZPO und anderen Prozessordnungen g
 
 ## 1.4. Ergebnis und sichere Korrektur
 
-Liefere „Erklärung / Formgrund / vorliegende Fassung / Signatur / Zugang / Befund / noch möglicher Korrekturschritt“. Formmangel, Zugangslücke und ungeprüfte Technik erhalten getrennte Ergebnisse. Ist die Frist offen, zeige eine rechtzeitig prüfbare Alternative; verspreche keine rückwirkende Reparatur.
+Begründe den Formbefund anhand der konkreten Erklärung, Formgrundlage, Fassung, Signatur und Zugangsnachweise. Formmangel, Zugangslücke und ungeprüfte Technik erhalten getrennte Ergebnisse. Ist die Frist offen, zeige eine rechtzeitig prüfbare Alternative; verspreche keine rückwirkende Reparatur. Eine Tabelle ist nur bei mehreren Fassungen oder Übermittlungswegen nötig.
 
-Ein Entwurf enthält den vollständigen Erklärungstext mit sichtbaren Platzhaltern für fehlende Angaben. Nichts selbst unterschreiben, absenden oder als wirksam erklären, wenn eine tragende Voraussetzung fehlt. Höchstens eine gebündelte Rückfrage; die davon unabhängigen Teile weiterbearbeiten.
+Fehlt die signierte Originaldatei, der vollständige Nachtrag oder ein Empfangsnachweis, fordere genau diese Unterlage an. Das Fehlen eines Prüfberichts belegt nicht, dass die Signatur ungültig ist. Bearbeite unabhängige Teile weiter und kennzeichne, welche Aussage vorläufig bleibt.
 
-Aktuelle amtliche Normen und gegebenenfalls verifizierte Entscheidungen mit Datum, Aktenzeichen und Randnummer verwenden. Ohne technische Prüfung keine Zertifikatsvalidierung behaupten. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Andere Werkstatt- oder Skilltexte sind optional; neue Fassungen bei Folgeaufträgen erneut auf Vollständigkeit prüfen.
+Gleiche die Antwort mit der tatsächlich versandten Fassung ab und aktualisiere Formbewertung, Zugangszeitpunkt und noch möglichen Korrekturweg. Zeigt sich eine weitere entscheidende Lücke, frage gezielt nach, ohne bekannte Angaben erneut zu erheben. Schreibe danach den bestellten Vermerk oder korrigierten Erklärungstext fertig; eine bloße Analyse ersetzt keinen beauftragten Entwurf.
+
+Der Entwurf enthält den vollständigen Erklärungstext mit sichtbaren Platzhaltern für noch fehlende Angaben. Nichts selbst unterschreiben oder absenden; eine tragende offene Voraussetzung verhindert die vorbehaltlose Wirksamkeitsbestätigung, nicht die weitere Entwurfsarbeit.
+
+Aktuelle amtliche Normen und gegebenenfalls verifizierte Entscheidungen mit Datum, Aktenzeichen und Randnummer verwenden. Ohne technische Prüfung keine Zertifikatsvalidierung behaupten; interne Recherchehinweise getrennt vom Empfängertext halten. Beachte den gewünschten Dateinamen; vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Andere Werkstatt- oder Skilltexte sind optional; neue Fassungen bei Folgeaufträgen erneut auf Vollständigkeit prüfen.

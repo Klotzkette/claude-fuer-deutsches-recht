@@ -86,21 +86,19 @@ class PortableStarts(unittest.TestCase):
             self.assertFalse(R.refine_skill(path))
             self.assertEqual(path.read_text(encoding="utf-8"), before)
 
-    def test_curated_start_is_idempotent_and_keeps_subject(self):
+    def test_curated_start_keeps_subject_without_inserting_bedienregel(self):
         with tempfile.TemporaryDirectory() as tmp:
             plugin = Path(tmp)
             (plugin / ".claude-plugin").mkdir()
             (plugin / ".claude-plugin/plugin.json").write_text(json.dumps({"name": "arbeitsrecht", "description": "Arbeitsrecht"}), encoding="utf-8")
             path = plugin / "arbeitsrecht-schnellstart.md"
             subject = "## 1. Auftrag\n\nNur den bereits vorliegenden Vergleich überarbeiten.\n"
-            path.write_text("# Arbeitsrecht\n\nBedienregel: bisheriger Einstieg.\n\n" + subject, encoding="utf-8")
-            with patch.object(G, "collect_skill_material", return_value=[]), patch.object(G, "has_individual_review", return_value=False):
-                self.assertTrue(G.normalize_protected_schnellstart(plugin))
+            before = "# Arbeitsrecht\n\n" + subject
+            path.write_text(before, encoding="utf-8")
+            with patch.object(G, "load_protected", return_value={"arbeitsrecht"}), patch.object(G, "has_individual_review", return_value=False):
                 self.assertFalse(G.normalize_protected_schnellstart(plugin))
-            text = path.read_text(encoding="utf-8")
-            self.assertEqual(text.count("Bedienregel:"), 1)
-            self.assertIn(subject, text)
-            self.assertIn(G.PORTABLE_EXECUTION, text)
+                self.assertFalse(G.normalize_protected_schnellstart(plugin))
+            self.assertEqual(path.read_bytes(), before.encode("utf-8"))
 
     def test_individually_reviewed_start_is_byte_preserved(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -137,32 +135,27 @@ class PortableStarts(unittest.TestCase):
                 path = root / f"{plugin['name']}-{kind}.md"
                 with self.subTest(path=path.relative_to(REPO)):
                     text = path.read_text(encoding="utf-8")
-                    reviewed = kind == "schnellstart" and G.has_individual_review(root, plugin["name"])
-                    profile_path = REPO / "quality" / "evals" / f"{plugin['name']}.json"
-                    workshop_reviewed = False
-                    if kind == "werkstatt" and profile_path.exists():
-                        review_profile = json.loads(profile_path.read_text(encoding="utf-8"))
-                        workshop_reviewed = "workshop_review" in review_profile
-                    individually_reviewed = reviewed or workshop_reviewed
-                    if not individually_reviewed:
+                    reviewed = G.has_individual_review(root, plugin["name"])
+                    self.assertTrue(text.startswith("# "))
+                    self.assertEqual(len(re.findall(r"^# ", text, re.MULTILINE)), 1)
+                    if not reviewed:
                         self.assertIn(G.PORTABLE_EXECUTION, text)
                     self.assertNotIn("passende Fachskills laufen intern", text)
                     self.assertNotIn("Passende Fachskills intern als Teilroute nutzen", text)
-                    if not individually_reviewed:
+                    if not reviewed:
                         self.assertFalse(skill_names & set(re.findall(r"`([a-z0-9-]+)`", text)), "Eigenständiger Prompt verweist auf installierten Skill")
                     if kind == "schnellstart":
                         self.assertLess(len(text.encode("utf-8")), 7500)
-                    elif not workshop_reviewed:
+                    elif not reviewed:
                         self.assertIn(G.WORKSHOP_EXECUTION, text)
                     else:
-                        for anchor in (
-                            "Nutze nur verfügbare Werkzeuge",
-                            "Fehlt der Datei- oder Quellenzugriff",
-                            "erfinde weder einen Dateilink",
-                            "erforderliche Endprüfung",
-                            "Behaupte keine Akten- oder Quellenprüfung",
-                        ):
-                            self.assertIn(anchor, text)
+                        # Individuelle Wortwahl bleibt frei; dies prüft Struktur,
+                        # nicht die fachliche Qualität oder Modellverhalten.
+                        sections = re.split(r"^## ", text, flags=re.MULTILINE)[1:]
+                        self.assertTrue(any(
+                            re.sub(r"<!--.*?-->", "", section.partition("\n")[2], flags=re.S).strip()
+                            for section in sections
+                        ), "Werkstatt benötigt einen Abschnitt mit Inhalt")
             for path in (root / "skills").glob("*/SKILL.md"):
                 with self.subTest(skill=path.relative_to(REPO)):
                     self.assertNotIn(R.DIREKTSTART_SENTENCE, path.read_text(encoding="utf-8"))

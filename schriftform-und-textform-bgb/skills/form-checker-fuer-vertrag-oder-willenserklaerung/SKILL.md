@@ -5,15 +5,19 @@ description: "Für Form-Checker — Vertrag oder Willenserklärung: ordnet Norm,
 
 # Form-Checker — Vertrag oder Willenserklärung
 
+Prüfe die konkrete Erklärung und ihre vollständige Fassung auf Form und Zugang. Lies Vertrag, Nachträge, Signaturdatei und Empfangsnachweis zuerst und erstelle den bestellten Prüfvermerk oder korrigierten Entwurf.
+
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Übernimm Erklärenden, Vertretung, Empfänger, Rechtsgeschäft und Ziel aus den Unterlagen; kläre nur entscheidende offene Angaben.
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Triage — kläre vor dem Check
+## Rechtliche Prüfung anhand der Unterlagen
+
+Die folgenden Fragen sind selbst zu prüfen, nicht als juristischer Fragebogen an den Nutzer zurückzugeben. Fehlende Tatsachen oder Dokumente werden dagegen konkret nachgefordert.
 
 1. **Rechtsgeschäftstyp:** Welches Rechtsgeschäft soll geprüft werden (Kaufvertrag, Mietvertrag, Kündigung, Bürgschaft, Grundstückskauf)?
 2. **Gesetzliches oder vertragliches Formerfordernis:** Ist die Form gesetzlich vorgeschrieben oder nur vertraglich vereinbart (Paragraf 127 BGB)?
@@ -30,10 +34,8 @@ description: "Für Form-Checker — Vertrag oder Willenserklärung: ordnet Norm,
 - Paragraf 623 BGB (Kündigungsschutz Arbeitsrecht — Schriftformzwang)
 
 ## Rechtsprechung
-1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Rechtsgrundlagen
 
@@ -144,6 +146,8 @@ SCHRITT 4 — Sicherungs-Workflow
 
 ## Templates
 
+Die folgenden Übersichten und Klauseln ersetzen weder die Spezialnormprüfung noch die Prüfung von AGB, Individualabrede und zeitlicher Anwendung. Eine Klausel wird nur auf Auftrag und nach Anpassung an den konkreten Vertrag vorgeschlagen.
+
 ### Schnell-Referenz Form-Tabelle
 
 | Rechtsgeschäft | Mindestform | Empfohlene Form |
@@ -181,3 +185,9 @@ kann nur durch eine schriftliche Vereinbarung beider Parteien verzichtet werden.
 - **Formfreiheit vs. Formklausel**: Auch wenn das Gesetz keine Form vorschreibt, kann ein vertraglich vereinbartes Schriftformerfordernis gelten (Paragraf 127 BGB). Immer den Vertrag auf Schriftformklauseln prüfen.
 - Paragraf 305b BGB: Individuelle Abreden gehen AGB einschließlich einer doppelten Formklausel vor. Eine solche Klausel ist kein verlässlicher Ausschluss mündlicher Individualabreden; BGH, Beschluss vom 25. Januar 2017, XII ZR 69/16.
 - **Formhierarchie**: Wer Textform hat, hat noch keine Schriftform. Wer Schriftform hat, hat automatisch auch Textform gewahrt.
+
+## Fehlende Nachweise und Endfassung
+
+Fehlt die tatsächlich versandte signierte Datei oder ist ein Nachtrag unvollständig, fordere diese konkrete Fassung an. Bewerte technische Ungeprüftheit getrennt von einem nachgewiesenen Formmangel und vom fehlenden Zugangsbeleg. Nach Eingang betroffene Form- und Zugangsprüfung sowie den Korrekturentwurf aktualisieren; neue entscheidende Widersprüche gezielt klären, statt die Aufnahme zu wiederholen.
+
+Liefere den bestellten Vermerk oder Erklärungstext in vollständigen Sätzen. Ein offener Nachweis darf einen vorläufigen Teilstand erfordern, beendet aber nicht die weitere Bearbeitung nach seiner Bereitstellung. Beachte gewünschten Dateinamen, dezimale Gliederung und soweit möglich Times New Roman 11 pt; interne Quellen- und Technikvermerke vom Empfängertext trennen. Keine Unterschrift, Versendung oder rückwirkende Heilung fingieren.

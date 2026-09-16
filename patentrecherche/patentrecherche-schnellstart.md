@@ -1,6 +1,8 @@
 # 1. Patentrecherche nachvollziehbar durchführen
 
-Beginne mit dem Nutzerauftrag und den vorhandenen technischen Unterlagen, nicht mit einer allgemeinen Patentberatung. Unterscheide Recherche zum Stand der Technik, Neuheitsprüfung, Überwachung und Recherche zur Benutzungsfreiheit. Bei einer Neuheitsrecherche ist der maßgebliche Zeitrang entscheidend; bei Benutzungsfreiheit zusätzlich das konkrete Produkt, Absatzgebiet und der aktuelle Schutzrechtsstand. Frage nur nach Angaben, die den Suchraum oder die Bewertung tatsächlich blockieren.
+Recherchiere anhand des Auftrags und der vorhandenen technischen Unterlagen die relevanten Veröffentlichungen und begründe ihre Bedeutung für die untersuchte Technik. Unterscheide dabei Recherche zum Stand der Technik, Neuheitsprüfung, Überwachung und Recherche zur Benutzungsfreiheit.
+
+Bei einer Neuheitsrecherche ist der maßgebliche Zeitrang entscheidend; bei Benutzungsfreiheit zusätzlich das konkrete Produkt, Absatzgebiet und der aktuelle Schutzrechtsstand. Übernimm bereits mitgeteilte Angaben, statt sie erneut abzufragen.
 
 ## 1.1. Aus Technik Suchbegriffe ableiten
 
@@ -20,4 +22,10 @@ Fasse verwandte Dokumente zur Übersicht zusammen, ohne sie als technisch oder r
 
 ## 1.4. Bericht mit belastbarer Reichweite
 
-Liefere den verlangten Bericht mit Suchprotokoll, relevanten Treffern, Merkmalsbefunden und begründeter Priorisierung der nächsten Recherche. Trenne nachgewiesene Offenbarung, technische Auslegung und offene Quelle. Benenne konkret nicht untersuchte Datenbanken, Sprachen, Zeiträume und noch nicht veröffentlichte Schutzrechtsrisiken statt einer Vollständigkeitsgarantie. Quellen und Registerstände mit Abrufdatum angeben; amtliche Normen vor rechtlichen Aussagen verifizieren. Das Ergebnis besteht aus vollständigen Sätzen, Tabellen dienen dem Nachweis. Export: Times New Roman 11 pt, dezimale Gliederung. Weitere Recherche-Skills sind optional; Suchaufbau, Dokumentenprüfung und Bericht funktionieren mit diesem Mini allein.
+Fehlt eine Zeichnung oder bleibt eine technische Verbindung unklar, frage nach genau dieser Ausführung. Ist der Zeitrang ungeklärt, fordere den betreffenden Anmelde- oder Prioritätsbeleg an. Bearbeite bereits abgrenzbare Merkmale weiter und benenne, welche Bewertung bis zur Antwort vorläufig bleibt; fehlender Volltext belegt keine fehlende Offenbarung.
+
+Arbeite die Antwort in Merkmalsgliederung und Suchabfragen ein, prüfe betroffene Treffer erneut und vervollständige den bestellten Bericht. Ergibt sich etwa eine weitere Ausführungsform oder ein abweichender Prioritätsbezug, kläre die dadurch entscheidende neue Frage. Wechsle nicht ungefragt von einer Neuheitsrecherche zu einem Anmeldungsentwurf oder einer umfassenden Benutzungsfreiheitsprüfung.
+
+Liefere den verlangten Bericht mit Suchprotokoll, relevanten Treffern, Merkmalsbefunden und begründeter Priorisierung weiterer Recherche, soweit diese noch nötig ist. Trenne nachgewiesene Offenbarung, technische Auslegung und offene Quelle. Benenne konkret nicht untersuchte Datenbanken, Sprachen, Zeiträume und noch nicht veröffentlichte Schutzrechtsrisiken statt einer Vollständigkeitsgarantie. Quellen und Registerstände mit Abrufdatum angeben; amtliche Normen vor rechtlichen Aussagen verifizieren.
+
+Das Ergebnis besteht aus vollständigen Sätzen; Tabellen dienen dem Nachweis. Beachte den gewünschten Dateinamen und trenne technische Zugriffsprobleme vom Empfängertext. Export: Times New Roman 11 pt, dezimale Gliederung. Weitere Recherche-Skills sind optional; Suchaufbau, Dokumentenprüfung und Bericht funktionieren mit diesem Mini allein.

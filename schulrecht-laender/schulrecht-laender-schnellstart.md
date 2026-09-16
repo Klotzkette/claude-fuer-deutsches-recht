@@ -1,6 +1,8 @@
 # 1. Schulrecht der Länder: Schnellstart
 
-Bearbeite den konkreten Schulvorgang aus der im Auftrag genannten Perspektive. Lies Schreiben, Bescheid, Schulordnung, Protokoll und Bekanntgaben zuerst. Nicht ungefragt in Hochschulzulassung oder Forschungsförderung wechseln. Liefere Antrag, Stellungnahme, Rechtsbehelfsentwurf oder schulische Entscheidungsvorlage.
+Bearbeite den konkreten Schulvorgang aus der beauftragten Perspektive und verfasse den verlangten Antrag, die Stellungnahme oder Entscheidungsvorlage. Nicht ungefragt in Hochschulzulassung oder Forschungsförderung wechseln.
+
+Lies Schreiben, Bescheid, Schulordnung, Protokoll und Bekanntgaben zuerst. Übernimm vorhandene Angaben zu Beteiligten und Auftrag, statt sie erneut abzufragen.
 
 ## 1.1. Land, Schule und Betroffenheit
 
@@ -20,13 +22,17 @@ Bei Inklusion oder Nachteilsausgleich Bedarf, konkrete Barriere und geeignete Ma
 
 ## 1.3. Frist und Beweislage
 
-Erstelle „Maßnahme / Landesnorm / Entscheidungsträger / Bekanntgabe / Beleg / Einwand / passende Abhilfe“. Erfasse Unterrichtsausschluss, Prüfung oder Schuljahresbeginn kalendarisch. Eine laufende Frist verlangt zuerst einen Sicherungsentwurf, nicht Stillstand bis zur vollständigen Akte.
+Ordne Maßnahme, Landesnorm, Entscheidungsträger, Bekanntgabe, Beleg, Einwand und passende Abhilfe ein; eine Übersicht nur bei Bedarf ausgeben. Erfasse Unterrichtsausschluss, Prüfung oder Schuljahresbeginn kalendarisch. Eine laufende Frist verlangt zuerst einen Sicherungsentwurf, nicht Stillstand bis zur vollständigen Akte.
 
 Trenne Eilrechtsschutz gegen Vollziehung von einem vorläufigen Leistungsbegehren. Begründe Dringlichkeit mit konkret ausfallendem Unterricht, Prüfung oder Förderung. Keine sichere Neubewertung, Aufnahme oder Aussetzung ohne Prüfung der jeweiligen Voraussetzungen versprechen.
 
 ## 1.4. Ausformuliertes Ergebnis
 
-Liefere den verlangten Text mit Person, Schule, Regelungsgegenstand, Sachverhalt, konkreten Einwänden, Antrag und Anlagenbezug. Bei unvollständigem Material eine gebündelte Rückfrage zu Land, Maßnahme, Bekanntgabe und nächstem Termin; den belastbaren Teil sofort liefern.
+Fehlt bei einem Unterrichtsausschluss das Anhörungsprotokoll, fordere diesen Nachweis an; bei einer Notenrüge die betroffene Arbeit samt Korrektur. Frage nicht erneut nach bereits bekannten Grunddaten. Liefere den belegten Teil vorläufig, ohne fehlende Dokumente als Beweis für einen Verfahrens- oder Bewertungsfehler zu behandeln.
+
+Nach Eingang aktualisiere die konkrete Einwendung und die begehrte Abhilfe. Zeigt die Antwort eine weitere entscheidende Lücke, kläre diese gezielt und schreibe anschließend das bestellte Dokument fertig. Ein Beratungsauftrag führt nicht ungefragt zur Klage.
+
+Liefere den verlangten Text mit Person, Schule, Regelungsgegenstand, Sachverhalt, konkreten Einwänden, Antrag und Anlagenbezug unter dem gewünschten Dateinamen. Technische Quellenvermerke stehen gesondert, nicht im Eltern- oder Mandantenbrief.
 
 Amtliche Landesfassung und einschlägige Ordnung auf Geltung am Ereignistag prüfen. Entscheidungen nur nach Verifikation von Gericht, Datum, Aktenzeichen und Fundstelle verwenden. Fehlenden Zugriff offenlegen. Keine Anträge einreichen, Schule kontaktieren oder Entscheidungen auslösen.
 

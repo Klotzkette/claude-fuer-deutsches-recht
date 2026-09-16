@@ -3,61 +3,44 @@ name: legistik-erstpruefung-und-mandatsziel
 description: "Für Legistik: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Legistik-Werkstatt. Route: legistik-erstpruefung-und-mandatsziel."
 ---
 
-# Legistik: Erstprüfung, Rollenklärung und Mandatsziel
+# 1. Normvorhaben prüfen und zum bestellten Ergebnis führen
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Zweck und Anwendungsfall
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Prüfe den vorgelegten Regelungsauftrag auf Zuständigkeit, rechtliche Tragfähigkeit und noch nötige Entscheidungen. Arbeite anschließend das verlangte Dokument aus, statt mit einer Empfehlung weiterer Skills abzuschließen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+## 1.2. Eingaben
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Lies Referentenentwurf, Drucksache, geltende Fassung, Synopse und bereits vorliegende Stellungnahmen nach ihrem Bezug zum Auftrag. Übernimm bekannte Angaben zu Initiator, Normgeber, Verfahrensstand, Termin und gewünschter Ausgabe. Fordere nicht pauschal alle denkbaren Unterlagen an.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+Unterscheide politische Zielvorgabe und rechtlich gesicherte Ausgangslage. Ein Ressortvorschlag belegt weder die erforderliche Zustimmung noch eine Haushaltsdeckung.
 
-## Normenanker
+## 1.3. Prüfung und Fortsetzung
 
-Arbeitsfokus: **Legistik: Erstprüfung, Rollenklärung und Mandatsziel**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+1. Bestimme Normart und Verfahren. Prüfe Gesetzesinitiative, Kompetenz und bei einer Rechtsverordnung die Ermächtigung. Ein parlamentarisches Vorhaben verlangt nicht automatisch eine ministerielle Ressortabstimmung.
+2. Gleiche Regelungsziel und Text ab. Fehlt die Entscheidung über Adressaten, Ausnahme oder Altverfahren, frage mit Bezug auf die konkrete Vorschrift danach. Formuliere keine vermeintlich beschlossene politische Lösung.
+3. Prüfe Folgen und Vollzug anhand von Aufwandsschätzung, Vollzugsdaten und Stellungnahmen. Fehlt etwa die jährliche Fallzahl, fordere deren Grundlage an; nach Eingang ändere Berechnung und Begründung gemeinsam.
+4. Bearbeite wesentliche Gegenargumente zu Kompetenz, Grundrechten, Unionsrecht, Vollzug und Aufwand. Unterscheide Tatsachenlücken, rechtliche Zweifel und politische Abwägung.
+5. Überarbeite nach den Antworten den bestellten Normtext, Änderungsantrag oder Prüfvermerk vollständig. Bei neuen entscheidenden Lücken gezielt nachfragen; bereits geklärte Angaben nicht wieder aufnehmen.
 
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung.
-- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
-- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss.
-- `Art. 80 Abs. 1 GG` — Verordnungsermächtigung.
-- `Art. 84 Abs. 1 GG` — Verwaltungsvollzug.
-- `§ 42 Abs. 1 GGO` — Gesetzgebungsvorhaben.
-- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
-- `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
-- `§ 45 GGO` — Beteiligung.
-- `§ 46 GGO` — Rechtsförmlichkeit.
+Prüfe Beteiligungs- und Verfahrensfristen nach der anwendbaren Geschäftsordnung und dem tatsächlichen Vorgang. Verwende keine einheitlichen Vierwochenfristen für Ressorts und Normenkontrollrat und keine unvollständige Bundesratsfrist ohne Prüfung von Artikel 76 GG. Kann ein geplanter Termin nicht eingehalten werden, benenne das konkrete Hindernis, statt notwendige Beteiligung als erledigt darzustellen.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+## 1.4. Quellenpflicht
 
-## Arbeitsweg
+Verifiziere die einschlägigen Regelungen, insbesondere Artikel 20 Absatz 3, Artikel 76 bis 78, Artikel 80 und Artikel 84 Absatz 1 GG. Für ministerielle Bundesvorhaben prüfe die einschlägigen GGO-Regelungen, darunter Paragraf 42 zur Gestaltung, Paragraf 43 zur Begründung, Paragraf 44 zu Gesetzesfolgen sowie Paragrafen 45 und 46 zu Beteiligung und Rechtsprüfung.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GGO Ressortbeteiligung i.d.R. 4 Wochen, NKR-Stellungnahme 4 Wochen, Bundesrat 1. Durchgang 6 Wochen / 9 Wochen, Vermittlungsausschuss nach Bedarf.
-- Tragende Normen verifizieren: GGO §§ 40-49 (Rechtsetzungsverfahren), Handbuch der Rechtsförmlichkeit (BMJ), NKR-Gesetz, BGleiG, IT-Konsolidierungs-Konzept, eNorm-Standard, GG Art. 76, 77, 78 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Ressort (BMJ und Fachressort), Bundeskanzleramt, Bundesrat, NKR, Bundestagsausschüsse, Bundesregierung, Wissenschaftliche Dienste, Lobbyregister.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Referentenentwurf, BT-Drucksache, Gesetzesfolgenabschätzung, NKR-Stellungnahme, Verbändeanhörungs-Stellungnahme, Synopse, Erfüllungsaufwandsberechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Berücksichtige Handbuch der Rechtsförmlichkeit, NKRG und bei entsprechendem Sachbezug BGleiG sowie digitale Verfahrens- oder Dokumentvorgaben. XML ist ein Darstellungsformat, keine Rechtsgrundlage. Bei Landesvorhaben sind die landeseigenen Regeln maßgeblich.
 
-## Spezialwissen: Legistik: Erstprüfung, Rollenklärung und Mandatsziel
-- **Normen-/Quellenanker:** XML.
+Nutze amtliche Quellen und verifizierte Entscheidungen; keine ungelesenen Datenbankfundstellen. Beachte references/zitierweise.md, soweit verfügbar. Zusätzliche Recherche- und Abrufvermerke bleiben außerhalb des Normtextes in einer Arbeitsnotiz.
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## 1.5. Ausgabe und Grenzen
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+Liefere das verlangte Dokument in vollständigen Sätzen; Tabellen oder Stichwortsammlungen ersetzen weder Normtext noch Begründung. Stelle nur die für den Auftrag erforderlichen Vergleiche dar. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist lediglich ein Standard ohne andere Vorgabe.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Legistik** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+Sind entscheidende Vorgaben noch offen, liefere tragfähige Teile vorläufig und benenne die benötigte Entscheidung. Setze nach Eingang am vorhandenen Text fort. Begleitdokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung; amtliche Normformate können begründet abweichen.
+
+Beteiligung, Einbringung oder Veröffentlichung benötigen ausdrückliche Freigabe. Optionale Fachskills dürfen die Fortsetzung nicht ersetzen; bei fehlendem Zugriff fordere die nötige Fassung an, ohne ungelesene Inhalte als geprüft auszugeben. Ohne Export liefere den Text.
+
+## 1.6. Beispiel
+
+Ein Ministerium bestellt die Endfassung eines Entwurfs zur vereinfachten Meldung; eine Stellungnahme bestreitet die bisher angesetzte Fallzahl. Prüfe deren Grundlage, frage gegebenenfalls nach den Vollzugsdaten und rechne nach Eingang den Aufwand neu. Ändere betroffene Begründung und Regelung und liefere die Endfassung, nicht nur einen Hinweis auf den Widerspruch.

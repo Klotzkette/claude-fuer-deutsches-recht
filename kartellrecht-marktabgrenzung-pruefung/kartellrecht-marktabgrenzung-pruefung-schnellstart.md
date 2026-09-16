@@ -1,12 +1,14 @@
 # 1. Kartellrecht: Marktgrenzen und Anteile belastbar prüfen
 
-Prüfe die behauptete Marktabgrenzung anhand tatsächlicher Ausweichmöglichkeiten und nachvollziehbarer Daten. Markt, Marktmacht und konkretes Verhalten sind getrennte Prüfungsschritte. Der Prompt funktioniert ohne weitere Dateien; Werkstatt und Skills sind optional. Vorrang hat das verlangte Memo, die Gegenprüfung oder Berechnung.
+Prüfe die behauptete Marktabgrenzung anhand tatsächlicher Ausweichmöglichkeiten und nachvollziehbarer Daten. Erstelle das verlangte Memo, die Gegenprüfung oder Berechnung; trenne dabei Markt, Marktmacht und konkretes Verhalten.
 
 ## 1.1. Sachverhalt und Prüfzweck
 
 Lies zunächst Produktbeschreibung, Kundendaten, Angebotsvergleiche und vorhandene Marktstudien. Bestimme Unternehmen, betroffene Kundengruppen, Zeitraum, Gebiet und Anlass: Zusammenschluss, Missbrauch, Kooperation oder Schadensersatz. Frage nur nach Lücken, die eine Marktgrenze oder den nächsten Verfahrensschritt ändern. Bei laufender Behördenfrist diese mit Quelle und zuständiger Person voranstellen.
 
-Übernimm eine Branchenbezeichnung, interne Vertriebsregion oder Produktkategorie nicht ungeprüft als relevanten Markt. Halte die vom Auftraggeber behauptete Abgrenzung und höchstens zwei ernsthafte Alternativen auseinander. Konzernumsatz, Produktumsatz und Marktvolumen dürfen nicht ohne Abgleich miteinander verrechnet werden.
+Übernimm eine Branchenbezeichnung, interne Vertriebsregion oder Produktkategorie nicht ungeprüft als relevanten Markt. Halte die behauptete Abgrenzung und ernsthafte, durch den Fall gestützte Alternativen auseinander. Konzernumsatz, Produktumsatz und Marktvolumen dürfen nicht ohne Abgleich miteinander verrechnet werden.
+
+Fehlt beispielsweise der Zeitraum einer Marktstudie oder der Nachweis einer tatsächlich verfügbaren Lieferalternative, frage genau danach. Bearbeite die unabhängig belegbaren Teile vorläufig. Nach Eingang überprüfe die betroffene Marktgrenze, rechne die Anteile gegebenenfalls neu und schreibe das bestellte Memo oder Antwortschreiben fertig. Eine neue entscheidende Lücke kann eine gezielte Folgefrage erfordern; bereits Geklärtes wird nicht erneut abgefragt.
 
 ## 1.2. Substitution belegen
 
@@ -24,6 +26,10 @@ Berechne Anteile mit einheitlichem Zeitraum, Gebiet, Produktumfang und Maßstab:
 
 ## 1.4. Ergebnis und nächste Prüfung
 
-Liefere einen kurzen Befund, eine Substitutionsmatrix und eine nachrechenbare Anteilskalkulation. Begründe Ein- und Ausschluss jedes entscheidenden Produkts oder Gebiets mit Beleg und Gegenargument. Benenne die eine zusätzliche Erhebung, die die offene Marktgrenze am ehesten klärt. Kein vollständiger Theorievortrag und keine beliebige Ausweitung auf alle Kartellrechtsgebiete.
+Liefere das bestellte Ergebnis vollständig ausformuliert. Ergänze eine Gegenüberstellung von Ersatzprodukten oder eine Anteilskalkulation, soweit der Auftrag sie erfordert; nicht jede Antwort benötigt alle Tabellen. Begründe Ein- und Ausschluss jedes entscheidenden Produkts oder Gebiets mit Beleg und Gegenargument. Benenne gezielt die noch erforderliche Erhebung, wenn eine offene Marktgrenze das Ergebnis beeinflusst. Fehlende Daten werden weder durch erfundene Mengen noch durch unterstelltes Kundenverhalten ersetzt.
 
-Keine eigenmächtige Behördenanmeldung, Zusage, Kronzeugenmeldung oder Kontaktaufnahme mit Wettbewerbern. Aktuelle Normen und Entscheidungen amtlich prüfen; ungeklärte Quellen nicht als bestätigt ausgeben. Bei fehlendem Abruf nach einem begründeten Ersatzversuch mit dem belegten Teilstand abschließen. Vollständige Sätze; Export in Times New Roman mit 11 Punkt.
+Prüfe vor Abschluss Datenbasis, Rechenschritte und die Einarbeitung neuer Antworten. Eine reine Marktanalyse ist kein Auftrag zur Klage oder Behördenanmeldung. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Quellenstatus und Recherchegrenzen gehören in eine gesonderte Arbeitsnotiz, nicht in einen Mandantenbrief.
+
+Keine eigenmächtige Behördenanmeldung, Zusage, Kronzeugenmeldung oder Kontaktaufnahme mit Wettbewerbern. Aktuelle Normen und Entscheidungen amtlich prüfen; ungeklärte Quellen nicht als bestätigt ausgeben. Nutze dezimale Überschriften und bei Export, soweit möglich, Times New Roman 11 Punkt.
+
+Bei fehlendem Zugriff benenne die betroffene Prüfgrenze und arbeite an unabhängigen Teilen weiter; nach einer ergänzten Quelle überprüfe die davon abhängige Aussage. Ohne Export liefere Text; der Prompt funktioniert ohne weitere Dateien, Werkstatt und Skills sind optional.

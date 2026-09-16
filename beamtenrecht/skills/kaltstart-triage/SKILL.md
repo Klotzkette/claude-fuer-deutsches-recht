@@ -3,40 +3,34 @@ name: kaltstart-triage
 description: "Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Beamtenrecht."
 ---
 
-# Allgemein
+# 1. Beamtenrechtlichen Auftrag aufnehmen und ausarbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+Lies den Nutzerauftrag und die vorhandenen Urkunden, Bescheide, Beurteilungen und Gutachten. Bestimme Status, Dienstherr, Bundesland, Maßnahme und gewünschtes Dokument aus diesen Unterlagen. Frage diese Angaben nicht erneut ab, wenn sie schon feststehen.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 2. Fachlichen Weg wählen
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Trenne Bundes-, Landes-, Richter-, Soldaten- und Tarifbeschäftigtenrecht. Ordne Verwaltungsakt, Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation zu. Prüfe im einschlägigen Recht Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Bei bevorstehender Ernennung den Termin und den Sicherungsbedarf vorrangig prüfen. Bei Ruhestand, Beihilfe, Pflege, Heilfürsorge oder gesetzlicher Rente die jeweils betroffenen Berechnungen getrennt halten. Verfahrensfragen wie Anhörung, Akteneinsicht, Frist, Widerspruch und Eilrechtsschutz richten sich nach Maßnahme und Auftrag, nicht nach einem pauschalen Klageablauf.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 3. Lücken gezielt klären und fortsetzen
 
-## Pflichtfragen
+Fehlt im Auswahlverfahren der Auswahlvermerk, frage nach ihm und der Ernennungsmitteilung. Nach Eingang die beanstandeten Kriterien mit Beurteilungen und Auswahlchance abgleichen und den bestellten Befund oder Eilantrag überarbeiten. Ein fehlender Vermerk verhindert nicht die Vorbereitung des beauftragten dringenden Sicherungsschritts.
 
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk, Versorgungsauskunft, Beihilfebescheid, PKV-Schreiben, Auswahlvermerk?
+Fehlt bei Dienstunfähigkeit die Beschreibung der tatsächlich auszuübenden Aufgaben, frage nach dieser Grundlage. Nach Antwort die funktionellen Einschränkungen und Gutachterfragen neu zuordnen und die Stellungnahme fertigstellen; eine Diagnose nicht selbst zur Feststellung der Dienstunfähigkeit machen.
 
-## Prüfprogramm
+Fehlt bei Versorgung oder Beihilfe eine Berechnungsposition, fordere den betreffenden Bescheidteil oder Nachweis an. Nach Eingang die betroffene Rechnung korrigieren und den verlangten Brief oder Antrag vollständig formulieren. Die Nachforderung setzt nicht voraus, dass die behauptete Position schon belegt ist.
 
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Pension/Beihilfe-Sonderroute:** Bei Ruhestand, Krankheit, Pflege, Heilfürsorge oder gesetzlicher Rente sofort in die Versorgungsskills routen; bei Bewerbungs- oder Beförderungsstreit die Konkurrentenschutzskills mit Eilrechtsschutz vorschalten.
-6. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
+Weitere kurze Rückfragen stellen, wenn neue Antworten entscheidende Lücken zeigen. Bekanntes nicht erneut abfragen. Bei einem fortbestehenden Hindernis den tragfähigen Teilstand liefern und nach Klärung weiterarbeiten, bis das bestellte Dokument fertig ist.
 
-## Erweiterte Spezialrouten
+## 4. Passendes Ergebnis
 
-- **Pension und Versorgung:** `pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv`, `versorgungsakte-dokumentenintake-und-berechnung`, `pension-und-gesetzliche-rente-55-beamtvg`.
-- **Krankheitskosten:** `krankheitskosten-beihilfe-pkv-widerspruch`, `pflege-beihilfe-pflegeversicherung-beamte`, `heilfürsorge-ruhestand-pkv-anwartschaft`.
-- **Konkurrentenschutz:** `konkurrentenschutz-sofortprogramm-einzelgerechtigkeit`, `konkurrentenschutz-auswahlvermerk-und-akteneinsicht`, `konkurrentenschutz-nach-ernennung-schadensersatz`.
+Ein Gutachten beantwortet die gestellte Frage mit Begründung, ohne ungefragte Klage. Ein Schreiben oder Rechtsbehelf wird vollständig ausformuliert; eine Fragenliste allein erledigt diesen Auftrag nicht. Tabellen nur für tatsächlich nötige Vergleiche und Rechnungen, nicht als obligatorische interne Fallkarte ausgeben.
+
+Optionale Vertiefungen sind die vorhandenen Versorgungsskills, etwa `pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv` und `versorgungsakte-dokumentenintake-und-berechnung`, sowie `krankheitskosten-beihilfe-pkv-widerspruch` und `konkurrentenschutz-auswahlvermerk-und-akteneinsicht`. Ohne diese Zusatzdateien den konkreten Fall anhand der vorstehenden Schritte weiterbearbeiten.
+
+## 5. Quellen und Grenzen
+
+Normen in der maßgeblichen Bundes- oder Landesfassung amtlich prüfen. Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und belegter Passage zitieren. Interne Quellenprüfung und Recherchegrenzen gesondert notieren, nicht in den Mandantenbrief übernehmen. Materielle und verfahrensrechtliche Voraussetzungen bleiben trotz verfügbarer Akte eigenständig zu prüfen.
+
+Externe Einreichung, Aktenanforderung oder Kommunikation nur nach ausdrücklicher Freigabe. Nur vorhandene Unterlagen und Werkzeuge nutzen, fehlende Seiten benennen und unabhängige Teile weiterbearbeiten. Ohne Export vollständigen Text liefern, keinen Link erfinden. Vollständige Sätze, dezimale Überschriften mit Leerzeilen; Times New Roman 11 pt beziehungsweise Exporthinweis.

@@ -22,8 +22,18 @@ Liefere eine nachrechenbare Tabelle mit Eingaben, Zwischenschritten und Summenpr
 
 Stelle den erwarteten Effekt, die Voraussetzung und den zuständigen Entscheider gegenüber. Eine Liquiditätsvorschau ist nicht automatisch eine insolvenzrechtliche Feststellung. Bei entsprechenden Warnsignalen die erforderliche gesonderte Prüfung priorisieren; aus einer Wochenlücke allein keine rechtliche Diagnose ableiten. Vergütungs-, Berufs-, Datenschutz- und Arbeitsrechtsfragen nur bei konkretem Bezug aus amtlichen aktuellen Quellen prüfen.
 
+### 1.3.1. Zahlungs- und Kostendaten nachreichen
+
+Fehlt für einen erheblichen Posten der Zahlungstermin, frage nach Fälligkeit, Einwand und vorhandener Zahlungszusage. Nach der Antwort aktualisiere die betroffene Woche und alle folgenden Endbestände; vergleiche den neuen Engpass mit dem bisherigen Ergebnis. Bei einer Profitabilitätsfrage kläre stattdessen fehlende Zeiterfassung oder Kostenzuordnung und rechne nur die betroffene Periode neu.
+
+### 1.3.2. Entscheidungsvorlage fertigstellen
+
+Prüfe neue Angaben gegen Buchhaltung und Ausgangslisten. Zeigt sich eine weitere entscheidende Differenz, frage gezielt nach, ohne die Aufnahme zu wiederholen. Bis zur Klärung bleiben betroffene Werte vorläufig; danach vervollständige die bestellte Vorlage einschließlich Rechnung, Empfehlung und Zuständigkeit.
+
 ## 1.4. Übergabe und Grenzen
 
 Die Ausgabe enthält Kurzbefund, Rechnung, Datenlücken und eine Entscheidungsvorlage mit Verantwortlichem und Überprüfungstermin. Trenne beschlossen, vorgeschlagen und noch ungeklärt. Bei Folgeaufträgen unveränderte Daten weiterverwenden und nur neue Werte oder Annahmen neu rechnen.
 
-Keine eigenmächtigen Überweisungen, Entnahmen, Mahnungen, Honoraränderungen oder Personalmaßnahmen. Ohne Exportmöglichkeit eine lesbare Tabelle im Text liefern; keinen erzeugten Dateilink behaupten. Nach einer begrenzten Gegenprobe abschließen, nicht beliebig weitere Kennzahlen sammeln. In vollständigen Sätzen schreiben; Export in Times New Roman mit 11 Punkt.
+Keine eigenmächtigen Überweisungen, Entnahmen, Mahnungen, Honoraränderungen oder Personalmaßnahmen. Schließe ab, wenn die bestellte Entscheidungsvorlage vorliegt und rechnerisch geprüft ist; keine zusätzlichen Kennzahlen ohne Entscheidungsbezug sammeln. Nutzerseitige Dateinamen gehen vor, technische Quellen- und Exporthinweise stehen getrennt vom Empfängertext.
+
+Ohne Exportmöglichkeit eine lesbare Tabelle im Text liefern; keinen erzeugten Dateilink behaupten. In vollständigen Sätzen schreiben; Export in Times New Roman mit 11 Punkt und dezimaler Gliederung.

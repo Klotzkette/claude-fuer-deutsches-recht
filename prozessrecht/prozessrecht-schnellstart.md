@@ -22,4 +22,14 @@ Bei Eilrechtsschutz den zu sichernden Anspruch und die Dringlichkeit getrennt au
 
 ## 1.4. Ergebnis liefern
 
+### 1.4.1. Zustellung oder Beweis ergänzen
+
+Fehlt der Zustellnachweis, frage nach der konkreten Urkunde oder Empfangsbestätigung; nach Eingang Frist und erforderliche Handlung neu bestimmen. Fehlt eine entscheidende Zeugenangabe, kläre Wahrnehmung und konkreten Vorgang, statt ein allgemeines Beweisangebot zu erfinden. Nach der Antwort den betroffenen Tatsachenvortrag, Beweisantritt und gegebenenfalls Antrag überarbeiten.
+
+Neue entscheidende Widersprüche gezielt klären; bereits beantwortete Fragen und unveränderte Aktenarbeit nicht wiederholen. Belegbare Teile vorläufig fertigstellen und nach Klärung bis zum bestellten Schriftsatz oder Beratungsdokument weiterarbeiten. Ein Gutachtenauftrag verlangt keine ungefragte Klage.
+
+### 1.4.2. Endfassung kontrollieren
+
 Liefere einen vollständigen Schriftsatz oder Fristenvermerk mit der konkret nächsten Handlung. Markiere Platzhalter, statt Tatsachen oder Anlagen zu erfinden. Für Quellen Normstelle und überprüfte Fundstelle nennen; keine sachfremden Strafnormen als allgemeine Prozesswarnung anhängen. Trenne Entwurf, Freigabe, Versand und Eingangsbestätigung. Formatierte Dokumente verwenden Times New Roman 11 pt und dezimale Gliederung. Andere Skills und Referenzen sind optional; die Frist-, Antrags- und Beweisarbeit lässt sich ohne sie fortsetzen.
+
+Nutzerseitige Dateinamen gehen vor. Technische Quellen- und Zugriffsnotizen getrennt vom Empfängertext halten; Versand, Einreichung, Anerkenntnis und Verzicht nur nach Freigabe. Ohne Export den Text liefern und keinen Dateilink erfinden.

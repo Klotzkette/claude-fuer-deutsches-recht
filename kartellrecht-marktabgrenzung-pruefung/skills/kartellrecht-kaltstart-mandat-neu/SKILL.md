@@ -3,40 +3,35 @@ name: kartellrecht-kaltstart-mandat-neu
 description: "Für Kartellrecht Kaltstart Mandat neu: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
-# Kartellrecht Kaltstart Mandat neu
+# 1. Kartellrechtsmandat anhand der Unterlagen klären
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1 Zweck
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Bestimme den konkreten kartellrechtlichen Auftrag und bearbeite die verlangte Beratung, Vertragsprüfung oder Stellungnahme. Eine neue Mandatsaufnahme ist nicht nötig, wenn Rolle, Sachverhalt und Ziel bereits feststehen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+## 1.2 Eingaben
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Lies vorgelegte Verträge, Nachrichten, Marktdaten, Bescheide und Beschlüsse. Entnimm Beteiligte, betroffene Produkte, Gebiet, Zeitraum und Verfahrensstand. Kläre nur noch offene entscheidende Angaben; drohende Fristen oder irreversible Schritte werden anhand des konkreten Vorgangs geprüft.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.3 Bearbeitung
 
-## Fachkern: Kartellrecht Kaltstart Mandat neu
-- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
-- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+1. Trenne Marktdefinition, Verhalten, Schwellen, Wirkungen und Verfahrensfragen. Ordne Artikel 101 beziehungsweise 102 AEUV, GWB, Verordnung EG 1/2003, FKVO oder Vertikal-Gruppenfreistellung nach dem Anlass zu; DMA- und DSA-Schnittstellen nur bei tatsächlichem Bezug.
+2. Bei einer Marktfrage prüfe Austauschbarkeit und Datenbasis. Fehlt ein Beleg für Kundenwechsel oder eine Umsatzabgrenzung, frage gezielt danach. Nach Antwort aktualisiere die betroffene Marktgrenze oder Anteilskalkulation.
+3. Bei einem Verhaltensvorwurf frage nach konkreter Klausel, Kommunikation oder Umsetzung, soweit diese noch fehlt. Prüfe Tatbestand, mögliche Ausnahme und die stärkste sachliche Gegenposition; unterstelle nicht aus einer Produktähnlichkeit oder einem hohen Anteil einen Verstoß.
+4. Schreibe nach Klärung das beauftragte Dokument fertig. Ergibt sich aus neuen Angaben eine weitere entscheidende Lücke, frage gezielt weiter, ohne bereits Beantwortetes erneut aufzunehmen. Bei einem Hindernis liefere die unabhängigen Teile vorläufig und benenne die benötigte Ergänzung.
 
-## Startfragen
-- Was soll sofort entstehen: Kurztriage, Aktenplan, Fragenliste, Memo, Schriftsatz, Vertrag, Formular oder Mandantenbrief?
-- Wo drohen Fristen, Formerfordernisse, Bußgelder, Gebührennachteile, Verfahrensfehler oder irreversible Schritte?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## 1.4 Quellen und Nachweise
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+Prüfe tragende Normen, Behördenpraxis und Formulare amtlich und in der passenden Fassung. Rechtsprechung benötigt verifiziertes Gericht, Datum, Aktenzeichen und Aussagegehalt. Ordne jede tragende Tatsachenbehauptung einem Beleg zu; fehlende Evidenz wird nicht durch Modellwissen ersetzt. Zitierhinweise in `references/zitierweise.md` sind optional nutzbar.
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## 1.5 Ergebnis
+
+Liefere das bestellte Memo, den Brief, Vertragstext oder Schriftsatz in vollständigen Sätzen. Tabellen sind bei echten Markt-, Beleg- oder Variantenvergleichen sinnvoll, aber keine Pflichtausgabe. Eine reine Bewertung wird nicht ohne Auftrag zu Klage, Zusage oder Kronzeugenmeldung erweitert.
+
+Prüfe Fristen, Zuständigkeit, Beweislast, Zahlen und alle neuen Antworten vor Abschluss. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Dokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung; Recherchegrenzen stehen in einer getrennten Arbeitsnotiz.
+
+## 1.6 Beispiel und Grenzen
+
+Bei einem beanstandeten Gebietsschutz lies zunächst die Vertragsklausel und ihre tatsächliche Handhabung. Fehlt eine Auskunft zur betroffenen Kundengruppe, kläre diese und überarbeite danach die beauftragte rechtliche Bewertung oder Vertragsfassung.
+
+Externe Kommunikation und rechtsverbindliche Schritte benötigen ausdrückliche Freigabe. Ohne Datei- oder Quellenzugriff benenne den betroffenen Teil; ohne Export liefere Text. Weitere Skills sind optional.

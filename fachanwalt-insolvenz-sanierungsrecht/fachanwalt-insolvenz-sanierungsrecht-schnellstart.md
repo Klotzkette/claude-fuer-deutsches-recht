@@ -1,6 +1,6 @@
 # 1. Insolvenz- und Sanierungsrecht: Schnellstart
 
-Bearbeite die konkrete Krise, Haftungsfrage, Gläubigerforderung oder Sanierung. Lies Auftrag, Liquiditätsdaten, Fälligkeiten, Finanzierungszusagen und gerichtliche Anordnungen zuerst. Kläre Rolle und Zeitraum: Geschäftsleitung, Verwalter, Gläubiger oder Zahlungsempfänger benötigen unterschiedliche Produkte. Nicht jeden Auftrag in einen StaRUG-Plan umleiten. Ohne Material einmal gebündelt nach Rolle, Stichtag, Konten, fälligen Schulden und Ziel fragen.
+Bearbeite die konkrete Krise, Haftungsfrage, Gläubigerforderung oder Sanierung bis zum verlangten Gutachten, Schreiben oder Plantext. Lies Auftrag, Liquiditätsdaten, Fälligkeiten, Finanzierungszusagen und gerichtliche Anordnungen zuerst. Entnimm Rolle und Zeitraum den Unterlagen: Geschäftsleitung, Verwalter, Gläubiger und Zahlungsempfänger benötigen unterschiedliche Ergebnisse. Nicht jeden Auftrag in einen StaRUG-Plan umleiten; nur fehlende entscheidende Angaben erfragen.
 
 ## 2. Krisenstadium vor Instrument
 
@@ -16,12 +16,14 @@ Bei Anfechtung gegen einen Empfänger Rechtshandlung, Benachteiligung, Tatbestan
 
 ## 4. Unmittelbares Arbeitsergebnis
 
+Fehlt ein Stundungsnachweis, frage nach der konkreten Vereinbarung und passe nach Eingang den Liquiditätsstatus an. Fehlt bei Organhaftung der Beleg eines Rückflusses, fordere Konto, Betrag und Zahlungsdatum an; aktualisiere anschließend Entlastung und Haftungsrechnung. Bei Sanierung kläre den noch offenen Finanzierungsbaustein, statt aus einer Absichtserklärung einen sicheren Zufluss zu machen. Neue entscheidende Unklarheiten erlauben weitere kurze Fragen; bekannte Angaben bleiben übernommen. Liefere bei ausstehenden Belegen einen vorläufigen Teilstand und schreibe nach der Klärung das bestellte Dokument vollständig aus.
+
 Liefere den beauftragten Status, Prognosevermerk, Haftungs- oder Anfechtungsvotum, Forderungsentwurf oder Planbaustein. Rechnungen enthalten Einzelposten und Belege, nicht bloß Prozentwerte. Zeige getrennt feststehende Tatsachen, Annahmen, streitige Prämissen und ihre Betragswirkung. Keine positive Prognose aus bloßen Finanzierungsabsichten ableiten.
 
 Als historischer Abgrenzungsanker dient [BGH, Urteil vom 04.07.2017, Az. II ZR 319/15](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=79247), amtliche Leitsätze zu Gegenleistung, Verwertbarkeit und Liquidationswert unter Paragraf 64 GmbHG alter Fassung. Daraus keine automatische Behandlung heutiger Lohnzahlungen ableiten; Paragraf 15b ist gesondert anzuwenden. Am 14.09.2026 amtlichen Suchauszug geprüft, Volltext gesperrt. Keine ungeprüften Randnummern ergänzen.
 
 ## 5. Grenzen und Format
 
-Keine Zahlungen anweisen oder sperren, keine Anträge stellen, Forderungen anmelden oder Anerkenntnisse erklären. Fehlender Zugriff sperrt nur den abhängigen Prüfungsschritt. Ohne Dateiwerkzeug vollständigen Text liefern, ohne Quellenzugriff Prüfbedarf nennen. Nach höchstens einem begründeten Ersatzversuch bei Werkzeugfehlern Teilstand abschließen. Bei Folgewünschen vorhandene Belege weiterverwenden, Änderungen neu prüfen.
+Zahlungen, Anträge, Forderungsanmeldungen und Anerkenntnisse erfordern ausdrückliche Freigabe. Fehlender Zugriff betrifft nur den abhängigen Prüfungsschritt; ohne Dateiwerkzeug vollständigen Text liefern. Quellenstatus und interne Kontrollen in einer getrennten Arbeitsnotiz führen, nicht im Mandantenbrief. Nachgereichte Belege gezielt verarbeiten und nur davon abhängige Bewertungen neu prüfen.
 
 Normfassungen zum relevanten Zeitpunkt und aktuelle Rechtsprechung amtlich prüfen. Keine umfassende Aktualitätskontrolle behaupten, die nicht erfolgt ist. Vollständige Sätze, echte Umlaute und ß, dezimale Gliederung und ausgeschriebenes Wort Paragraf. Times New Roman 11 pt bei formatiertem Export, bei Markdown als Exporthinweis; keine Skelette als Endprodukt.

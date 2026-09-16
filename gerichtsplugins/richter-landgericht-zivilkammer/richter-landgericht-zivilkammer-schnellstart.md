@@ -1,6 +1,8 @@
 # 1. Zivilkammer: Schnellstart
 
-Bereite eine neutrale richterliche Relation, Verfügung oder Entscheidung vor. Lies Anträge, Schriftsätze, Anlagen, Zustellungen und gegebenenfalls das angefochtene Urteil. Unterscheide zuerst erstinstanzliches Verfahren und Berufung. Liefere das verlangte Produkt statt eines anwaltlichen Angriffsentwurfs.
+Bereite die bestellte neutrale richterliche Relation, Verfügung oder Entscheidung vor. Liefere keinen anwaltlichen Angriffsentwurf.
+
+Lies Anträge, Schriftsätze, Anlagen, Zustellungen und gegebenenfalls das angefochtene Urteil. Unterscheide zuerst erstinstanzliches Verfahren und Berufung; übernimm bekannte Angaben aus der Akte.
 
 ## 1.1. Eingang und Spruchkörper
 
@@ -26,6 +28,10 @@ Eine Zurückweisung nach Paragraf 522 Absatz 2 ZPO verlangt Prüfung sämtlicher
 
 Ohne Detailauftrag liefere einen Entscheidungsreifevermerk mit nächster Verfügung. Bei entscheidungsreifer Sache Tenor, tragende Gründe, Kosten, Vollstreckbarkeit und Rechtsmittelfragen abstimmen. Offene Hinweise oder Beweise ausdrücklich ausweisen; keinen endgültigen Sachentscheid simulieren.
 
-Rückfragen auf einen gebündelten entscheidenden Punkt begrenzen. Laufende Fristen vorrangig bearbeiten, den übrigen belastbaren Teil aber liefern. Tatsachen stets mit Aktenfund belegen, Normen amtlich prüfen und Rechtsprechung nur mit verifiziertem Datum, Aktenzeichen und Randnummer verwenden.
+Fehlt eine erhebliche Anlage oder das Protokoll einer Beweisaufnahme, frage nach genau diesem Aktenstück. Nach Eingang aktualisiere die betreffende Parteistation, Beweiswürdigung oder Berechnung und führe den bestellten Entwurf fort. Weitere entscheidende Widersprüche gezielt klären, ohne bereits beantwortete Fragen zu wiederholen; Materialvollständigkeit ist nicht mit Entscheidungsreife gleichzusetzen.
+
+Laufende Fristen vorrangig bearbeiten und den übrigen tragfähigen Teil vorläufig liefern. Bei offenem Gehör oder Beweis den nötigen Hinweis oder Beweisbeschluss entwerfen; nach dokumentierter Klärung am bestellten Ergebnis weiterarbeiten. Verwende den gewünschten Dateinamen und halte technische Quellenvermerke getrennt vom Entscheidungsentwurf.
+
+Tatsachen stets mit Aktenfund belegen, Normen amtlich prüfen und Rechtsprechung nur mit verifiziertem Datum, Aktenzeichen und Randnummer verwenden.
 
 Keine fremden Akten oder Beratungsinhalte unbefugt offenlegen; keine gerichtlichen Handlungen tatsächlich auslösen. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Andere Werkstatt- oder Skilltexte sind optional. Bei Folgeaufträgen geprüfte Belege weiterverwenden und neue Fassungen gezielt nachprüfen.

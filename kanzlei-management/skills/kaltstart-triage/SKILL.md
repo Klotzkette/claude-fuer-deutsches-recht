@@ -5,20 +5,20 @@ description: "Für Kaltstart Kanzlei-Management: routet Rolle, Frist, Unterlagen
 
 # Kaltstart Kanzlei-Management
 
-## Direktstart: lesen, entscheiden, liefern
+## 1. Auftrag und vorhandene Zahlen
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Bestimme aus Auftrag und vorhandenem Material die anstehende Betriebsentscheidung. Erfasse, soweit dafür erforderlich:
 
 - Frist oder Sofortrisiko.
 - erkannte Rolle, Zielrichtung und Verfahrensstand.
 - tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+- das bestellte Ergebnis und die dafür noch fehlenden Daten.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Frage gezielt nach Daten, die Rechnung oder Empfehlung ändern. Fehlt Material vollständig, benenne die für diese Entscheidung erforderlichen Unterlagen, etwa Offene-Posten-Liste und Bankbestand für die Liquidität. Annahmen dürfen als Szenario dienen, nicht als feststehende Buchhaltungsdaten.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+Arbeite auf die verlangte Entscheidungsvorlage, Berechnung oder Organisationsanweisung hin. Ein passender Fachskill ist optional; eine Weiterleitung oder Datenlückenliste allein erledigt den Auftrag nicht.
 
-## Normenanker
+## 2. Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
@@ -35,18 +35,18 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Fachkern: Kaltstart Kanzlei-Management
+## 3. Betriebswirtschaftliche Prüfung
 
-- **Managementproblem (Kaltstart Kanzlei-Management):** Executive Cockpit mit Rollen, Zahlen, Menschenrisiken und nächster Entscheidung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
-- **Kennzahlenanker:** Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen verwenden.
-- **Governance-Weiche:** Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage.
-- **Arbeitsprodukt:** Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
+- Verwende Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen. Erläutere die verwendete Kennzahl und ihre Bezugsperiode, statt Abkürzungen als Gliederung vorzugeben.
+- Trenne Rechnung, politische Interessen im Partnerkreis und rechtliche Grenzen. Zahlungswirksamkeit, Personalbelastung und Mandatsgeheimnis sind eigenständige Entscheidungskriterien.
+- Fehlt ein erheblicher Zahlungseingang, frage nach Fälligkeit und Zahlungsnachweis. Nach der Antwort rechne betroffene Wochen und Folgebestände neu; bei Kapazitätsfragen aktualisiere verfügbare Stunden und Auslastung anhand belegter Abwesenheiten.
+- Prüfe neue Angaben auf Widersprüche und kläre entscheidende Differenzen in kurzen Folgerunden. Danach vervollständige das bestellte Dokument, statt mit einer bloßen Empfehlung für weitere Analyse zu enden.
 
-## Ausgangspunkt
+## 4. Entscheidungskontext
 
-Executive Cockpit mit Rollen, Zahlen, Menschenrisiken und nächster Entscheidung. Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter Liquiditätslogik.
+Berücksichtige Partnerkreis, angestellte Berufsträger, Assistenz und Verwaltung sowie Mandantenbeziehungen, Verschwiegenheit und RVG/BRAO-Grenzen. Bestimme, wer über die vorgeschlagene Maßnahme entscheiden darf; keine eigenmächtigen Zahlungen oder Personalmaßnahmen.
 
-## Erste Abfragen
+## 4.1. Nur offene Angaben klären
 
 1. Wer fragt: Managing Partner, Management Committee, COO, CFO, HR, Finance, Praxisgruppenleitung oder externer Berater?
 2. Welche Zahlen liegen vor: Umsatz, UBT, FTE, Utilization, WIP, offene Posten, DSO, Realization, Write-offs, Pipeline, Headcount, Fluktuation?
@@ -54,25 +54,27 @@ Executive Cockpit mit Rollen, Zahlen, Menschenrisiken und nächster Entscheidung
 4. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR?
 5. Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
 
-## Standard-Output
+## 5. Ausgabe nach Auftrag
 
-Erzeuge:
+Die Entscheidungsvorlage enthält die für den Auftrag erforderlichen Bestandteile:
 
-- Kurzbefund in fünf Sätzen.
+- einen knappen begründeten Befund.
 - Fakten- und Datenlückenliste.
-- Dashboard oder Matrix mit Ampel nur dort, wo sie eine Entscheidung erleichtert.
-- Drei Optionen: defensiv, ausgewogen, mutig.
-- Empfehlung mit Owner, Frist, Review-Datum und Kommunikationsvorschlag.
+- eine nachrechenbare Darstellung mit Quellen, Zeitraum und Summenprobe.
+- tatsächlich verfügbare Optionen mit finanzieller Wirkung und Voraussetzungen, ohne künstliche Dreiteilung.
+- eine Empfehlung mit Verantwortlichem, Frist und Überprüfungstermin.
 
-## Rote Flaggen
+Schreibe das verlangte Enddokument vollständig aus; Kennzahlen und Tabellen ersetzen seine Begründung nicht. Nutzerseitige Dateinamen und Empfängerwünsche gehen vor. Bei formatierten Dokumenten Times New Roman 11 Punkt und dezimale Gliederung verwenden; technische Prüfhinweise getrennt halten.
+
+## 6. Plausibilitätskontrolle
 
 - WIP wird wie Umsatz behandelt, obwohl keine Rechnung gestellt ist.
 - Utilization steigt, aber Realization, Ausbildung und Stimmung fallen.
-- Rabatte werden als Beziehungspflege verkauft, ohne Scope oder Gegenleistung.
-- Partnerpolitik ersetzt Daten oder Daten werden zur Partnerpolitik hübsch gebogen.
-- Associates arbeiten dauerhaft am Limit, während die Kanzlei von Kultur spricht.
-- Das Dashboard sieht edel aus, beantwortet aber keine Managementfrage.
+- Rabatte sind nicht durch Leistungsumfang oder Gegenleistung erklärt.
+- Daten werden selektiv verwendet, um eine bereits festgelegte Entscheidung zu stützen.
+- Dauerhafte Überlastung wird bei Personal- und Kapazitätsentscheidungen nicht berücksichtigt.
+- Die Darstellung beantwortet die konkrete Managementfrage nicht.
 
-## Quellen- und Compliance-Hygiene
+## 7. Quellen und Prüfgrenzen
 
 Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiegenheit, Interessenkollision, Datenschutz, KI-/Cloud-Tooling, beA/ERV und Fristen nie aus Modellgefühl entscheiden. BRAO, BORA, RVG, DSGVO/BDSG, § 203 StGB und Verfahrensrecht live prüfen oder ausdrücklich als Prüfpunkt markieren. Keine erfundenen Rechtsprechungs-, Literatur- oder Paywall-Fundstellen.

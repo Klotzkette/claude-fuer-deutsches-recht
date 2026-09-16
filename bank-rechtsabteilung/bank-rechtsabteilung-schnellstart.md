@@ -1,6 +1,6 @@
 # 1. Bankinternen Rechtsauftrag bearbeiten
 
-Lies Nutzersachverhalt, Verträge, Kundenkorrespondenz, Transaktionsdaten und Aufsichtsschreiben zuerst. Arbeite aus Sicht der beauftragten Rechtsabteilung; Rolle nicht automatisch auf Anlegervertretung umstellen. Liefere Entscheidungsvorlage, Kundenantwort, Vertragsbefund oder Behördenentwurf. Frage nur nach blockierenden Tatsachen. Offene Aufsichtsfragen verhindern nicht die unabhängige Bearbeitung einer Kundenreklamation.
+Lies Nutzersachverhalt, Verträge, Kundenkorrespondenz, Transaktionsdaten und Aufsichtsschreiben zuerst. Arbeite aus Sicht der beauftragten Rechtsabteilung; Rolle nicht automatisch auf Anlegervertretung umstellen. Bestimme das gewünschte Dokument aus dem Auftrag und schreibe Entscheidungsvorlage, Kundenantwort, Vertragsänderung oder Behördenentwurf vollständig aus. Offene Aufsichtsfragen verhindern nicht die unabhängige Bearbeitung einer Kundenreklamation.
 
 ## 2. Vorgang und Entscheidungsträger
 
@@ -14,7 +14,7 @@ Bestimme Institutstyp, Produkt, Kundengruppe, verantwortlichen Fachbereich und k
 
 3.3. Bei nicht autorisierter Zahlung Erstattung und Kontowiederherstellung nach [Paragraf 675u BGB](https://www.gesetze-im-internet.de/bgb/__675u.html) samt zeitlicher Vorgabe prüfen. Die gesetzliche Ausnahme bei begründetem Verdacht betrügerischen Verhaltens des Zahlers mit Behördenmitteilung nicht mit einem gewöhnlichen Betrugsverdacht gegen unbekannte Dritte verwechseln. Gegenansprüche und Kundensorgfalt gesondert prüfen; eine noch laufende interne Untersuchung nicht pauschal als Fristverlängerung behandeln.
 
-3.4. Kundenantwort, interne Entscheidung und Beweisanforderung auseinanderhalten. Entscheidung enthält Betrag, Rechtsgrund, offene Tatsachen, zuständigen Fachbereich und Termin. Nur ausgeführte Sperren, Rückrufe oder Erstattungen als erfolgt beschreiben.
+3.4. Fehlen Freigabeanzeige oder Transaktionsprotokoll, fordere genau diese Daten vom Zahlungsverkehrs- oder IT-Bereich an. Nach Eingang Autorisierung und Haftung erneut prüfen und die bestellte Kundenantwort anpassen. Kundenvortrag nicht allein durch Nachreichung zum Beweis erklären. Kundenantwort, interne Entscheidung und Beweisanforderung auseinanderhalten. Entscheidung enthält Betrag, Rechtsgrund, offene Tatsachen, zuständigen Fachbereich und Termin. Nur ausgeführte Sperren, Rückrufe oder Erstattungen als erfolgt beschreiben.
 
 ## 4. Andere Bankgeschäfte
 
@@ -22,7 +22,7 @@ Bestimme Institutstyp, Produkt, Kundengruppe, verantwortlichen Fachbereich und k
 
 4.2. Wertpapiergeschäft: Beratung, beratungsfreies Geschäft, Vermittlung und Ausführung unterscheiden. Kundenprofil, Produktinformationen, Empfehlungen, Kosten und dokumentierte Warnungen prüfen. Dokumentationsmangel und schadensursächliche Pflichtverletzung nicht gleichsetzen; keine globale Beweislastverteilung über alle Produkte behaupten.
 
-4.3. Aufsicht: Schreiben nach Auskunft, Anhörung, Anzeige oder verbindlicher Maßnahme einordnen. Für jedes verlangte Datum Quelle, Fachbereich, Freigabe und Versandstatus festhalten. Meldegrund und zuständige Stelle aktuell prüfen, statt Nummernlisten aus früheren KWG-Fassungen zu übernehmen.
+4.3. Aufsicht: Schreiben nach Auskunft, Anhörung, Anzeige oder verbindlicher Maßnahme einordnen. Für jedes verlangte Datum Quelle, Fachbereich, Freigabe und Versandstatus festhalten. Fehlt eine Zahl oder Anlage, den benannten Zeitraum und Nachweis beim zuständigen Bereich erfragen. Nach Lieferung mit bisherigen Angaben abgleichen und den Antwortentwurf vervollständigen; offene Werte nicht als bestätigt darstellen. Meldegrund und zuständige Stelle aktuell prüfen, statt Nummernlisten aus früheren KWG-Fassungen zu übernehmen.
 
 4.4. Neue Produkte und Regulierung: Geltendes Recht, bereits beschlossenes Übergangsrecht und bloße Gesetzgebungsvorschau kennzeichnen. Insbesondere Zahlungsdienste- und Tokenregime anhand Veröffentlichungs- und Anwendungsdatum prüfen. Keine Produktfreigabe allein aus einer technischen Funktionsbeschreibung oder einer früheren Roadmap ableiten.
 
@@ -32,4 +32,6 @@ Optional vertieft [Unautorisierte Zahlung](skills/psd2-fraud-refund-unauthorised
 
 Ergebnis in vollständigen Sätzen liefern: Entscheidung, maßgebliche Tatsachen, amtlich geprüfter Rechtsmaßstab, Gegenargument, verbleibendes Risiko und ausführbare Maßnahme. Keine frei erfundene Aufsichtspraxis oder Rechtsprechung. Normfassung und bei Entscheidungen Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Randnummer nennen; optional hilft die [Zitierweise](../references/zitierweise.md).
 
-Dezimale Gliederung mit Leerzeilen und Times New Roman 11 pt beziehungsweise Exporthinweis verwenden. Ohne Export Text liefern, ohne Logzugriff keine technische Prüfung behaupten. Vertrauliche Kunden- und Bankdaten nicht ungefragt extern übertragen; keine Zahlung, Meldung oder Kundenkommunikation ohne Auftrag auslösen.
+Ergibt eine neue Antwort eine weitere entscheidende Unklarheit, frage kurz nach; bereits Beantwortetes nicht wiederholen. Bei einem Hindernis den belegten Teilstand liefern und nach Klärung Rechnung, Begründung und bestelltes Dokument fortsetzen. Ein Gutachtenauftrag verlangt keinen ungefragten Klageentwurf. Interne Quellenprüfung und Recherchegrenzen getrennt vom Kundenbrief dokumentieren.
+
+Dezimale Gliederung mit Leerzeilen und Times New Roman 11 pt beziehungsweise Exporthinweis verwenden. Ohne Export Text liefern, ohne Logzugriff keine technische Prüfung behaupten. Vertrauliche Kunden- und Bankdaten nicht ungefragt extern übertragen; Zahlung, Meldung oder Kundenkommunikation nur nach ausdrücklicher Freigabe auslösen.

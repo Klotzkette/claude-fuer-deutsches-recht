@@ -3,53 +3,43 @@ name: kaltstart-internationaler-handelsfall
 description: "Für Kaltstart: Internationaler Handelsfall: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
-# Kaltstart: Internationaler Handelsfall
+# 1. Internationalen Handelsfall prüfen
 
-## Direktstart: lesen, entscheiden, liefern
+Bestimme für den beauftragten Handelsfall Vertragsinhalt, anwendbares Recht und das konkrete Anspruchs- oder Gestaltungsziel. Erstelle anschließend die gewünschte Beratung, Klausel oder Erklärung.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1. Vertrag und Niederlassungen
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Lies vorhandene Vertragsfassungen, AGB, Bestellungen, Lieferbelege und Korrespondenz. Erfasse Niederlassungen, Ware und Dienstleistungsanteile, Rechtswahl, Schiedsklausel, Gerichtsstand und maßgebliche Sprache aus der Akte. Bei mehreren Niederlassungen den Bezug nach Artikel 10 CISG prüfen; nur entscheidende Lücken nachfragen.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+## 1.2. Rechtsregeln auseinanderhalten
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+- CISG Artikel 1: Anwendung nach Niederlassungen, Vertragsstaatenstatus und gegebenenfalls kollisionsrechtlicher Verweisung prüfen.
+- CISG Artikel 6: Einen behaupteten Ausschluss anhand Wortlaut, Auslegung und Zusammenhang untersuchen; weder jeden Verweis auf deutsches Recht als Ausschluss noch ausschließlich eine bestimmte Formulierung als wirksam behandeln.
+- Rom-I-Verordnung 593/2008 Artikel 3 und 4: Rechtswahl, deren Zeitpunkt und mangels Rechtswahl maßgebliches Statut bestimmen.
+- Brüssel-Ia-Verordnung 1215/2012, insbesondere Artikel 25: internationale Zuständigkeit und Gerichtsstandsvereinbarung getrennt vom materiellen Vertragsrecht prüfen.
+- Incoterms 2020: konkrete Klausel, etwa EXW, FCA, FOB oder CIF, benannten Ort und Einbeziehung feststellen; Gefahr und Kosten nicht mit Eigentumsübergang gleichsetzen.
+- UNIDROIT Principles 2016 Artikel 1.1 und Handelsbräuche nach Artikel 9 CISG: rechtliche Funktion und Nachweis prüfen, nicht als automatisch geltendes staatliches Recht ausgeben.
 
-## Worum es geht
+Das frühere Aktenzeichen VIII ZR 304/00 ist nur ein Recherchehinweis, kein hier bestätigter Beleg für einen bestimmten CISG-Ausschluss. Amtlichen Volltext, Fallfrage und Aussagegehalt vor Zitierung prüfen.
 
-Beim Einstieg in einen internationalen Handelsfall müssen Rechtsordnung, anwendbares Einheitsrecht und Trade-Usage rasch identifiziert werden. Das CISG gilt kraft Vertragsstaatenrecht automatisch (Art. 1 CISG) und kann nur explizit ausgeschlossen werden (Art. 6 CISG). Incoterms-Klauseln regeln Gefahr- und Kostenübergang, ersetzen aber kein Vertragsstatut.
+## 1.3. Konkrete Streitfrage bearbeiten
 
-## Kernnormen / Kernquellen
+Bei Container- oder Massengut Lieferort, Umschlag, Beförderung und tatsächliche Übergabe mit der gewählten Incoterms-Klausel vergleichen. Den Erfüllungsort für Zuständigkeit nicht allein aus einem Klauselkürzel ableiten. Bei zweisprachigem Vertrag Vorrangklausel und abweichende Aussagen konkret gegenüberstellen.
 
-- **CISG Art. 1**: Anwendung bei Niederlassungen in verschiedenen Vertragsstaaten oder IPR-Verweis
-- **CISG Art. 6**: Parteiautonomie — Ausschluss oder Abweichung vom CISG
-- **Rom I VO (EG) 593/2008 Art. 3**: Rechtswahl; Art. 4 subsidiäres Statut
-- **Brüssel Ia VO (EU) 1215/2012**: Gerichtsstand; Art. 25 Gerichtsstandsvereinbarung
-- **Incoterms 2020**: EXW, FCA, FOB, CIF — ICC-Publikation 2019
-- **UNIDROIT Principles 2016 Art. 1.1**: Vertragsfreiheit als lex-mercatoria-Basis
+Bei Schadensersatz nach Artikeln 74 bis 77 CISG Schaden, Vorhersehbarkeit, Begrenzung und vertragliche Pauschalierung gesondert prüfen. Fehlende Ersatzbeschaffungs- oder Kostenbelege gezielt anfordern; nach Eingang Rechnung und bestelltes Anspruchsschreiben aktualisieren. Keine doppelte Erstattung derselben Schadensposition vorsehen.
 
-## Schlüsselbegriffe
+Fehlt bei der Rechtswahlprüfung eine ausgetauschte Vertragsfassung, genau diese anfordern. Nach Antwort Einbeziehung und Auslegung erneut beurteilen und die bestellte Vertragsfassung oder Beratung fertigstellen. Weitere kurze Fragen sind bei neuen entscheidenden Widersprüchen zulässig; bereits geklärte Angaben nicht wiederholen.
 
-- Niederlassungsprinzip (CISG Art. 1 Abs. 1 lit. a vs. lit. b)
-- Opting-out vs. opting-in CISG
-- Anknüpfungsmoment bei mehreren Niederlassungen (CISG Art. 10)
-- Rechtswahl-Timing (Pre-dispute vs. Post-dispute)
-- Trade Usage (CISG Art. 9)
+## 1.4. Quellen und Ergebnis
 
-## Typische Streitfragen / Anwendungsfälle
+Tragende Normen, Vertragsstaatenstatus und Entscheidungen anhand amtlicher Quellen prüfen. Private Regelwerke nur aus verfügbarer Originalquelle oder bereitgestellter Fassung verwenden; optional ergänzt `references/zitierweise.md` die Zitierweise. Quellenstatus getrennt vom Mandantenbrief dokumentieren.
 
-1. Gilt CISG, obwohl Vertrag deutsches Recht wählt? (Nein, wenn Ausschluss klar — BGH VIII ZR 304/00)
-2. Welche Incoterms-Klausel passt zu Containerware vs. Bulk-Ware?
-3. Wo ist der Erfüllungsort bei CIF-Klausel für Brüssel-Ia-Zwecke?
-4. Wie interagiert CISG-Schadensersatz (Art. 74-77) mit Liquidated-Damages-Klausel?
-5. Welche Sprache gilt bei Vertrag mit englischem und chinesischem Text?
+Liefere das bestellte Dokument vollständig ausformuliert unter dem gewünschten Dateinamen. Bei Blockern den belastbaren Teil als vorläufig kennzeichnen und den konkret benötigten Beitrag nennen; nach dessen Eingang fortsetzen. Ein Gutachten verlangt keinen ungefragten Klageentwurf, ein Briefauftrag ist nicht mit einer Regimeübersicht erledigt.
 
-## Methodik
+Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, sonst mit getrenntem Exporthinweis. Keine eigenmächtige Vertragsaufhebung, Zahlung, Versendung oder Schiedseinleitung.
 
-- Erst Niederlassungen der Parteien klären → CISG-Anwendbarkeit nach Art. 1
-- Dann Rechtswahl und CISG-Ausschluss prüfen
-- Incoterms-Klausel als Kostentrenner, nicht als Eigentumsübertragungsregel lesen
-- ICC-Schiedsklausel auf Konnexität zur Rechtswahl prüfen
+## 1.5. Beispiel
+
+Ein deutscher Käufer und österreichischer Verkäufer streiten über eine mangelhafte Lieferung; der Vertrag wählt deutsches Recht. Prüfe CISG und Ausschluss gesondert, gleiche Lieferung, Untersuchung und Anzeige ab und fordere nur den fehlenden Rügenachweis an. Nach Antwort Anspruch und Betrag aktualisieren und das bestellte Schreiben ausarbeiten.
+
+Ohne weitere Skills anhand dieses Ablaufs weiterarbeiten. Fehlenden Datei- oder Quellenzugriff konkret benennen; ohne Export vollständigen Text statt erfundenem Dateilink liefern.

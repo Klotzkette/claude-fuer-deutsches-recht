@@ -24,6 +24,8 @@ Bei Honoraren verbinde die tatsächliche Leistung mit Vereinbarung, Abrechnung u
 
 ## 1.4 Praktischer Abschluss
 
-Liefere den beauftragten Brief, Übergabevermerk oder die Weisung in vollständigen Sätzen. Eine Begleittabelle darf Dokument, Rechtsbewertung, Frist und nächsten Verantwortlichen verbinden. Trenne vorhandene Freigabe von vorgeschlagener Handlung. Eine Kammerantwort benötigt die echte Verfahrensstufe und den konkreten Vorwurf; kein vorschnelles Anerkenntnis.
+Liefere den beauftragten Brief, Übergabevermerk oder die Weisung in vollständigen Sätzen. Fehlt bei der Herausgabe die Zuordnung einer Datei oder der Nachweis offener Gebühren, frage gezielt danach. Prüfe nach Eingang Dokumentkategorie, Forderung und drohenden Nachteil erneut und ändere die betroffene Passage des Übergabeschreibens. Ist die Übernahme einer laufenden Frist noch unbestätigt, kläre diesen Punkt gesondert; weder Übergabe noch Verantwortungsübernahme erfinden. Weitere Fragen nur bei entscheidenden neuen Lücken, bekannte Angaben übernehmen. Einen vorläufigen Teilstand nach der Antwort bis zum bestellten Dokument ergänzen.
+
+Eine Begleittabelle darf erforderliche Dokumente, Rechtsbewertung, Fristen und Verantwortliche verbinden. Trenne vorhandene Freigabe von vorgeschlagener Handlung. Eine Kammerantwort benötigt die echte Verfahrensstufe und den konkreten Vorwurf; kein vorschnelles Anerkenntnis. Quellenstatus und technische Prüfgrenzen stehen in einer gesonderten Arbeitsnotiz, nicht im Brief.
 
 Rechtsbehauptungen und benötigte Entscheidungen in amtlichen Primärquellen verifizieren. Bei nicht erreichbarer Quelle den offenen Teil eingrenzen, statt eine Freigabe zu erfinden. Weitere Skills oder Referenzen sind optional; die Bearbeitung funktioniert mit dieser Anleitung allein. Keine Herausgabe oder Behördenmitteilung ohne Auftrag und Empfängerprüfung. Dezimale Gliederung und Times New Roman 11 pt beim Export.

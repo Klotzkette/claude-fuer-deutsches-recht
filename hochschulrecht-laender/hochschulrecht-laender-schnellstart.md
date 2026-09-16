@@ -1,10 +1,10 @@
 # 1. Hochschulrecht: Landesrecht, Ordnung und Entscheidung
 
-Bearbeite mein konkretes Hochschulproblem anhand des betroffenen Landes und der maßgeblichen Hochschulordnung. Dieser Prompt ist eigenständig nutzbar. Er setzt weder installierte Skills noch weitere Repository-Dateien voraus.
+Bearbeite mein konkretes Hochschulproblem anhand des betroffenen Landes und der maßgeblichen Hochschulordnung. Erstelle die bestellte Beratung, Gremienvorlage oder begründete Erklärung.
 
 ## 1.1 Institution und Verfahrensstand
 
-Erfasse Bundesland, Hochschule, öffentliche oder private Trägerschaft, Status der betroffenen Person, Studiengang oder Gremium und gewünschtes Ergebnis. Lies Bescheid, Ordnung, Einladung, Protokoll oder Vertrag zuerst. Unterscheide eine bloße Information von einer verbindlichen Entscheidung. Halte Bekanntgabe, Rechtsbehelfsbelehrung, Semestertermine und tatsächliche Eilfolgen gesondert fest. Frage entscheidende Lücken einmal gebündelt ab. Bei Folgeaufträgen verwende vorhandene Tatsachen weiter.
+Lies Bescheid, Ordnung, Einladung, Protokoll oder Vertrag zuerst. Entnimm daraus Bundesland, Hochschule, Trägerschaft, Status, Studiengang oder Gremium und gewünschtes Ergebnis. Unterscheide eine bloße Information von einer verbindlichen Entscheidung. Halte Bekanntgabe, Rechtsbehelfsbelehrung, Semestertermine und tatsächliche Eilfolgen gesondert fest. Frage nur nach entscheidenden fehlenden Angaben; bei Folgeaufträgen vorhandene Tatsachen weiterverwenden.
 
 ## 1.2 Passenden Weg wählen
 
@@ -20,6 +20,16 @@ Artikel 5 Absatz 3 GG schützt Wissenschaft, Forschung und Lehre. Nutze ihn als 
 
 Liefere nach Auftrag einen Satzungscheck, ein Gremienmemo, einen begründeten Antrag oder einen Rechtsschutzentwurf. Stelle jede tragende Beanstandung mit Tatsachenfund, Normfassung, Gegenargument und möglicher Folge dar. Unterscheide fehlenden Nachweis von feststehendem Verfahrensfehler. Zeige, welches zusätzliche Dokument eine offene Weiche entscheidet. Bei Gremienbeschlüssen nenne etwa Einladungsverteiler, Mitgliederliste, Anwesenheitsliste und Abstimmungsprotokoll; bei Prüfungen Bewertungsunterlagen und maßgeblichen Bearbeitervermerk.
 
-## 1.5 Quellen und Freigabe
+## 1.5 Nach Unterlagenzugang fortsetzen
 
-Prüfe Landesrecht in amtlichen Landesportalen und Hochschulsatzungen in der offiziellen Bekanntmachung. Der Bundesanker ist [Artikel 5 GG](https://www.gesetze-im-internet.de/gg/art_5.html). Entscheidungen nur mit geprüftem Gericht, Datum, Aktenzeichen und tragender Aussage verwenden. Ohne Zugriff dokumentiere die konkret fehlende Fassung und liefere den belegbaren Teil. Erfinde keine landesweit einheitlichen Fristen, Notenansprüche oder Zulassungsgarantien. Keine eigenständige Einreichung, Gremienentscheidung oder Kontaktaufnahme. Schreibe vollständige Sätze mit dezimaler Gliederung; bei Dokumentexport Times New Roman in 11 Punkt. Die Werkstatt ist nur eine optionale Vertiefung.
+Fehlen bei einer Prüfung Aufgabe, Bearbeitung oder Korrekturanmerkungen, benenne die konkret benötigten Teile und entwirf auf Wunsch das Akteneinsichtsbegehren. Nach Eingang jeden Einwand an der tatsächlichen Bewertung prüfen und die bestellte Stellungnahme oder Rechtsbehelfsbegründung fertigstellen. Ein neuer entscheidender Widerspruch in der Prüferantwort erlaubt eine weitere gezielte Nachfrage, keine wiederholte Aufnahme.
+
+Bei Gremienfragen fehlende Anwesenheits- oder Stimmenangaben erfragen; nach Antwort Beschlussfähigkeit und Mehrheit neu beurteilen und das Memo beziehungsweise die Vorlage abschließen. Bei ungeklärter Ordnungsfassung die Bekanntmachung nachfordern und anschließend betroffene Voraussetzungen und Fristen aktualisieren. Bereits belastbare Teile vorläufig liefern; fehlenden Nachweis nicht als erwiesenen Fehler darstellen.
+
+## 1.6 Quellen und Freigabe
+
+Prüfe Landesrecht in amtlichen Landesportalen und Hochschulsatzungen in der offiziellen Bekanntmachung. Der Bundesanker ist [Artikel 5 GG](https://www.gesetze-im-internet.de/gg/art_5.html). Entscheidungen nur mit geprüftem Gericht, Datum, Aktenzeichen und tragender Aussage verwenden. Quellenstatus in einer gesonderten Arbeitsnotiz festhalten, nicht im Mandantenbrief. Erfinde keine landesweit einheitlichen Fristen, Notenansprüche oder Zulassungsgarantien.
+
+Liefere das bestellte Ergebnis unter der Nutzerbenennung in vollständigen Sätzen mit dezimaler Gliederung; bei Dokumentexport Times New Roman in 11 Punkt. Ohne entsprechenden Auftrag keinen Klageentwurf anschließen. Keine eigenständige Einreichung, Gremienentscheidung oder Kontaktaufnahme.
+
+Ohne weitere Skills oder Werkstatt anhand dieses Prompts weiterarbeiten. Fehlenden Datei- oder Quellenzugriff und die betroffene Prüfung konkret benennen. Ohne Export vollständigen Text statt erfundenem Dateilink liefern.

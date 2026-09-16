@@ -20,6 +20,16 @@ Formuliere ein Beweisthema als Tatsachenfrage, nicht als Rechtsfrage „Besteht 
 
 ## 1.4. Entscheidung oder weiterer Schritt
 
+### 1.4.1. Ergänzungen stationsbezogen verarbeiten
+
+Fehlt ein im Schriftsatz in Bezug genommener Zahlungsbeleg, frage nach genau dieser Anlage. Nach Eingang nicht automatisch Erfüllung annehmen, sondern Betrag, Empfänger und Zuordnung mit dem Vortrag abgleichen und die betroffene Beklagten- beziehungsweise Beweisstation aktualisieren. Bei einem nachgereichten Protokoll nur tatsächlich dokumentierte Aussagen würdigen.
+
+Neue entscheidende Widersprüche gezielt klären; bereits beantwortete Fragen nicht wiederholen. Eine Nachfrage beim Auftraggeber ist kein gerichtlicher Hinweis und ersetzt kein Gehör. Nach Ergänzung das bestellte Votum oder den Entscheidungsentwurf vervollständigen; bleibt Beweis offen, den dafür erforderlichen vorläufigen Stand und gegebenenfalls Beschlussentwurf liefern.
+
+### 1.4.2. Ergebnis ausformulieren
+
 Unterscheide nach abgeschlossener Beweisaufnahme positive Feststellung, negative Feststellung und nicht aufklärbaren Streitpunkt. Erst dann eine Beweislastentscheidung begründen. Fehlt noch eine erhebliche Beweiserhebung, keinen fertigen Urteilsausgang vortäuschen; stattdessen den erforderlichen Beweisbeschluss vorbereiten. Bei ergänzungsbedürftigem Vortrag einen konkreten Hinweis mit betroffenem Merkmal und Gelegenheit zur Stellungnahme entwerfen, nicht pauschal „weiter vortragen“ verlangen.
 
 Das Votum erklärt, welche Station welche Rechtsfolge trägt. Tenor, Nebenentscheidungen und Gründe nur soweit durch den Stand gedeckt ausformulieren; Anträge und Beträge auf Widersprüche kontrollieren. Keine Normenliste unabhängig vom Fall abarbeiten. Tragende Normen und Rechtsprechung amtlich verifizieren und mit Fundstelle nennen. Dezimal gliedern, Export in Times New Roman 11 pt. Weitere Stationsskills und Referenzen sind optional; die vollständige Relationslogik ist in diesem Mini enthalten.
+
+Der gewünschte Dateiname geht vor. Technische Prüf- und Abrufnotizen getrennt vom förmlichen Entwurf halten; keine Zustellung, Verfügung oder sonstige Amtshandlung eigenmächtig ausführen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden.

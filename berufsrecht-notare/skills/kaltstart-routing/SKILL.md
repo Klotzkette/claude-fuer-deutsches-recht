@@ -14,7 +14,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Fehlen etwa Vorberatungsauftrag, Vollmacht oder Auszahlungsanweisung, fordere den konkret benötigten Nachweis an. Bearbeite davon unabhängige, belegte Teile vorläufig weiter; Annahmen sind kein Nachweis einer Mitwirkungsbefugnis oder Auszahlungsreife. Nach Eingang überarbeite die betroffene Prüfung und den bestellten Vermerk oder Antworttext. Neue entscheidende Lücken erlauben gezielte Anschlussfragen, nicht die Wiederholung der Aufnahme.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
@@ -24,7 +24,7 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
 3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
 4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
+5. Das bestellte Dokument vollständig ausformulieren; bei einem Hindernis Teilstand und konkrete Nachforderung liefern und nach der Antwort dort bis zur Endfassung fortsetzen. Eine Skill-Empfehlung ersetzt die Bearbeitung nicht.
 
 ## Prüf- und Arbeitslogik
 
@@ -32,7 +32,7 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 - **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+- **Praxisentscheidung:** Den angeforderten Amtsvermerk, die Beteiligtenantwort oder Stellungnahme fertigstellen. Quellenstatus und technische Grenzen gesondert notieren, nicht in den Empfängertext kopieren. Keine ungefragte Beschwerde, Auszahlung, Einreichung oder Offenlegung; externe Handlungen nur nach ausdrücklicher Freigabe.
 
 ## Normen & Rechtsprechung
 

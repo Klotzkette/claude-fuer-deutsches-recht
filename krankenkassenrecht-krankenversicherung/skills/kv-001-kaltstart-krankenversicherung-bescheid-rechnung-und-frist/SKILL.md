@@ -3,54 +3,40 @@ name: kv-001-kaltstart-krankenversicherung-bescheid-rechnung-und-frist
 description: "Für Krankenversicherung: Kaltstart Krankenversicherung Bescheid Rechnung und Frist: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Fristen- und Risikoampel."
 ---
 
-# Krankenversicherung: Kaltstart Krankenversicherung Bescheid Rechnung und Frist
+# 1. Bescheid, Rechnung und Leistungsfrist prüfen
 
-## Aufgabe
+## 1.1. Auftrag und Versicherungsweg
 
-Dieser Skill bearbeitet **Kaltstart Krankenversicherung Bescheid Rechnung und Frist** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Prüfe die vorliegende Leistungsablehnung oder Rechnung und erarbeite die bestellte Beratung oder das gewünschte Schreiben. Lies vorhandene Anträge, Bescheide, Tarifunterlagen und bisherigen Antworten, bevor du fehlende Angaben erfragst.
 
-## Kaltstart in 6 Fragen
+Unterscheide GKV-Sachleistung, PKV-Kostenerstattung, Krankentagegeld, Pflege und Beihilfe. Ein PKV-Ablehnungsschreiben ist kein sozialrechtlicher Bescheid. Erfasse bei der GKV Zugang und Rechtsbehelfsbelehrung; prüfe bei der PKV den Vertragsanspruch und die dafür maßgeblichen Fristen. Eine dringende Behandlung erfordert die gesonderte Prüfung des Eilbedarfs, nicht automatisch einen gerichtlichen Antrag.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## 1.2. Entscheidende Unterlagen
 
-## Prüfprogramm
+Ordne die Ablehnungsgründe den betroffenen Leistungen und Zeiträumen zu. Ermittle aus den vorhandenen Unterlagen Versicherungsstatus, beantragte Versorgung, Behandlungstermin, Kosten und bisherige Zahlungen. Bei privater Versicherung müssen Versicherungsschein, tatsächlich vereinbarter Tarif und Nachträge zusammenpassen; Musterbedingungen nicht als Vertragsinhalt unterstellen.
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+Fehlt eine entscheidende Angabe, frage nach genau diesem Beleg: etwa dem Zugangsdatum für den Rechtsbehelf, dem Tarifnachtrag für die Quote oder der ärztlichen Begründung für eine abgelehnte Versorgung. Vorhandene Antworten bleiben Grundlage der weiteren Arbeit.
 
-## Typische Fallen
+## 1.3. Anspruch, Nachweis und Berechnung
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+Prüfe SGB V, SGB X und SGG für den gesetzlichen Leistungsweg sowie VVG und Tarifbedingungen für den privaten Anspruch getrennt. Medizinische Notwendigkeit, Wirtschaftlichkeit und versicherter Leistungsumfang sind verschiedene Fragen. Eine Verordnung beweist nicht ohne Weiteres alle Anspruchsvoraussetzungen; medizinische Einschätzungen nicht selbst ersetzen.
 
-## Output
+Wenn ein Befund die Wahl der Behandlung nicht erklärt, benenne die fehlende ärztliche Aussage. Nach Eingang gleiche sie mit dem Ablehnungsgrund ab und überarbeite die betroffene Argumentation. Fehlt anschließend noch eine entscheidende Information, frage gezielt weiter statt den Auftrag nach einer festen Zahl von Runden abzubrechen.
 
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
+Bei Rechnungen berechne erst den erstattungsfähigen Aufwand, dann nach der konkreten Regel Quote, Grenze, Selbstbehalt und offene Differenz. Nachgereichte Zahlungen oder Tarifbelege führen zur neuen Berechnung. Bei Krankengeld gleiche Arbeitsunfähigkeitsfeststellungen und Versicherungszeiten taggenau ab, ohne eine fehlende Bescheinigung mit einem erwiesenen Anspruchsausschluss gleichzusetzen.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+## 1.4. Quellen und Prüfgrenzen
 
+Tragende Normen und Entscheidungen anhand amtlicher Quellen prüfen; die Zitierweise richtet sich bei verfügbarem Zugriff nach `references/zitierweise.md`. Zuständigkeit, Form, Frist und Beweisfragen für den gewählten Anspruch klären, nicht als unverbundene Pflichtberichte ausgeben. Keine Diagnosen, Therapieabbrüche oder allgemeinen Grundsicherungsurteile als Ersatz für die Prüfung des Versicherungsfalls.
+
+## 1.5. Bestelltes Ergebnis fertigstellen
+
+Liefere je nach Auftrag die Bescheidanalyse, den Widerspruch, den Eilantragsentwurf, den PKV-Leistungsbrief, die Befundanforderung oder eine verständliche Beratung. Nicht alle Dokumente gleichzeitig erzeugen. Bei einem Hindernis den belegten Teil vorläufig ausarbeiten und die benötigte Antwort benennen; danach Anspruch, Rechnung und Text bis zur bestellten Endfassung fortführen.
+
+Das Endprodukt besteht aus vollständig ausformulierten Sätzen, nicht aus einer Gliederung oder Stichwortsammlung. Nutzerbenennung geht vor; ohne Dateiwunsch ist `ergebnis.md` möglich. Quellenstatus und offene technische Fragen stehen gesondert, nicht im Empfängerbrief. Formatierte Dokumente verwenden Times New Roman 11 Punkt und dezimale Gliederung; bei Markdown den Formatwunsch als Exporthinweis angeben. Versand, Einreichung oder rechtsgeschäftliche Erklärung nur nach ausdrücklicher Freigabe.
+
+## 1.6. Beispiel und Zugriff
+
+Bei einer gekürzten Hilfsmittelrechnung zunächst Tarifgrundlage und medizinische Begründung der Kürzung auseinanderhalten. Erklärt eine nachgereichte Stellungnahme den individuellen Versorgungsbedarf, prüfe ihre Bedeutung für den Anspruch und überarbeite den Leistungsbrief; ein verbleibender tariflicher Höchstbetrag ist davon getrennt zu behandeln.
+
+Ist eine Datei nicht lesbar, versuche einen geeigneten anderen Zugriff oder fordere den benötigten Ausschnitt an. Arbeite am zugänglichen Teil weiter und behaupte keine Prüfung fehlender Unterlagen.

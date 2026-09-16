@@ -6,29 +6,27 @@ Kernauftrag: Bearbeite Factoring und Forderungskauf einschließlich Aufsichtsrec
 
 ## 1.1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Aktenkern, Anspruch, Einwendungen wählen; ohne konkreten Auftrag mit Aktenkern beginnen.
+- Dateien oder Ordner: Factoringvertrag, Ankaufsliste, Abtretungen, Rechnungen, Leistungs- und Zahlungsnachweise sowie Debitorenkorrespondenz für den Auftrag auswerten.
+- Konkreter Auftrag: Auf das verlangte Dokument hinarbeiten; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+- Nur Prompt gestartet: Rolle und gewünschtes Ergebnis aus der Akte bestimmen; bleibt das Ziel unklar, gezielt zwischen Forderungsprüfung, Vertragsberatung und Abrechnung klären.
 - Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Aktenkern, Anspruch, Einwendungen und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
-
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Fehlt die Annahme einer Ankaufsliste, frage nach dem konkreten Ankaufnachweis; bei einer Zahlung an den Anschlusskunden nach Buchungsdatum und Kenntnis des Debitors. Gleiche Antworten mit der betroffenen Rechnung ab und aktualisiere Inhaberschaft und Saldo. Zeigt der neue Beleg eine konkurrierende Zession oder weitere Zahlung, kläre diese gezielt, ohne die Aufnahme zu wiederholen. Die bloße Vorlage einer vollständigen Liste beweist nicht den Erwerb jeder Forderung.
 
 ## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Forderung ist aus welchem Vertrag fällig.
-2. Kernprüfung in einem Durchgang: Welche Belege tragen Leistung, Rechnung, Zugang und Verzug; Welche Einwendungen sind substantiiert und beweisbar.
+2. Prüfe, welche Belege Leistung, Forderungserwerb, Rechnung, Zugang und Verzug tragen und welche Einwendungen substantiiert sind.
 3. Belege und Engpass zusammenführen: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung; besonders kritisch ist: Verjährung, Ausschlussfrist oder Zuständigkeit ist unklar.
-4. Erstes Arbeitsprodukt liefern: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen.
+4. Erstelle die bestellte Forderungsbewertung, Abrechnung, Vertragsfassung oder das konkrete Schreiben. Keine zusätzliche Klage zu einem Beratungsauftrag.
 
 ## 1.3. Kernroute
 
 1. Aktenkern: Factoringvertrag, Forderungsliste, Ankauf beziehungsweise Annahme, Abtretung, frühere Globalzession, Abtretungsverbot und Anzeige samt Zugang chronologisch erfassen. Jede Rechnung eindeutig identifizieren; Kaufpreiszahlung allein belegt nicht jede behauptete Abtretung.
 2. Anspruch: Bruttoforderung gegen den Debitor getrennt von Ankaufpreis, Sicherheitseinbehalt, Gebühren und Rückgriff gegen den Anschlusskunden rechnen. Delkredererisiko und Veritätsrisiko anhand des Vertrags unterscheiden; echte und unechte Gestaltung nicht aus dem Dateinamen ableiten.
 3. Einwendungen: Leistung und Fälligkeit sowie fortbestehende Debitoreneinwendungen prüfen. Zahlung an den Altgläubiger mit Abtretungs- und Kenntniszeitpunkt abgleichen; dieselbe Zahlung nicht bei Debitor und Anschlusskunde doppelt verlangen.
-4. Prozess und Titel: Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen.
-5. Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen.
+4. Bei einem Prozess- oder Vollstreckungsauftrag Zuständigkeit, Beweise, Anlagen und gegebenenfalls Titel prüfen; sonst bei der bestellten Beratung oder Vertragsprüfung bleiben.
+5. Nach neuen Belegen die betroffenen Beträge und Argumente aktualisieren und das gewünschte Dokument fertigschreiben. Während einer entscheidenden Beleglücke den tragfähigen Teil vorläufig liefern und die benötigte Antwort benennen.
 
 ## 1.4. Fallkarte
 
@@ -59,14 +57,16 @@ Factor: Ankauf- und Abtretungskette mit offenem Saldo. Debitor: Einwendungen, Ke
 
 ## 1.7. Antwortform
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag.
+1.7.1. Ergebnis: Rolle, geprüfte Forderung oder Vertragsfrage und die konkrete Antwort auf den Auftrag benennen.
 1.7.2. Norm: BGB Paragraf 241 und Paragraf 280; BGB Paragraf 286 und Paragraf 288 mit dem entscheidenden Merkmal verbinden.
 1.7.3. Aktenfund: Für „Aktenkern“ Tatsache, Datum und Fundstelle nennen.
 1.7.4. Beweis: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Belege tragen Leistung, Rechnung, Zugang und Verzug.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Aktenkern“. Frist, Kernlücke und nächstem Dokument benennen.
+1.7.7. Abschluss: Das verlangte Dokument in vollständigen Sätzen liefern. Interne Belegtabellen nur bei Erklärungsbedarf beifügen; Quellenstatus gesondert vom Debitorenbrief dokumentieren.
 
-## 1.8. Stop
+## 1.8. Grenzen
 
 Unklare Zession sperrt nur die abschließende Aktivlegitimation; Zahlungsabgleich und konkrete Nachforderung sofort liefern. Bei Geschäftsmodellprüfung aufsichtsrechtliche Erlaubnisfrage gesondert recherchieren, keinen Freibrief aus Forderungskauf ableiten. Werkstatt optional. Keine Abtretungsanzeige oder Zahlungsanweisung versenden. Vollständige Sätze, geprüfte amtliche Quellen, dezimale Gliederung und Markdown-Exporthinweis Times New Roman 11 pt.
+
+Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen und mit zugänglichen Belegen weiterarbeiten. Ohne Export Text statt eines erfundenen Dateilinks liefern; erfolglose Abrufe nicht unverändert wiederholen. Fehlende Zusatzskills verhindern die Bearbeitung hier nicht.

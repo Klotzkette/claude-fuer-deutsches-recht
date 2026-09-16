@@ -9,7 +9,7 @@ Rechtsstand 10. September 2026: COM(2025) 837, Verfahren 2025/0360(COD), ist noc
 
 ## Eingaben
 
-Das Modell benötigt:
+Entnimm die folgenden Angaben zuerst den Vorfallsberichten und vorhandenen Nachrichten. Frage nur entscheidende Lücken gezielt nach; eine unvollständige Forensik verhindert nicht den Entwurf einer gekennzeichneten Erstmeldung. Nach Antwort Risiko, Zahlen, Maßnahmen und Nachmeldung aktualisieren und die bestellte Fassung vervollständigen. Neue wesentliche Widersprüche kurz klären, bereits beantwortete Fragen nicht wiederholen.
 
 - **Beschreibung des Vorfalls**: Was ist wann und wie passiert? (Zeitpunkt der Entdeckung, vermutlicher Zeitpunkt des Eintritts)
 - **Art der betroffenen Daten**: Kategorien (Art. 9/10 DSGVO?), Datenmenge, Anzahl betroffener Personen (geschätzt)
@@ -79,10 +79,7 @@ EDSA, Guidelines 9/2022 on personal data breach notification under GDPR, angenom
 
 ## Ausgabeformat
 
-- **Risiko-Einschätzungsmatrix** (Tabelle): Datenkategorien × Risikograd × Meldepflicht × Benachrichtigungspflicht.
-- **Meldeformular-Entwurf** (strukturierter Text nach Art. 33 Abs. 3 DSGVO).
-- **Betroffenenbrief** (klare Sprache nach Art. 34 Abs. 2 DSGVO).
-- **Internes Incident-Protokoll** (für Dokumentationspflicht Art. 33 Abs. 5 DSGVO).
+Liefere den beauftragten Meldeformular-Entwurf nach Artikel 33 Absatz 3 DSGVO oder die Betroffenenbenachrichtigung nach Artikel 34 Absatz 2 DSGVO vollständig. Einen Betroffenenbrief nicht allein deshalb erstellen, weil eine Behördenmeldung vorbereitet wird; die jeweilige Entscheidung gesondert prüfen. Risikobewertung und Quellenprüfstatus im internen Vorfallsvermerk halten. Tatsächliche Übermittlung nur nach ausdrücklicher Freigabe, nicht schon aufgrund des Entwurfsauftrags.
 
 ## Beispiel
 

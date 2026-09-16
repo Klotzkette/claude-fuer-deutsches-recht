@@ -19,7 +19,7 @@ Bearbeite das Thema **Lunar Base Governance: Safety Zones und Interoperabilität
 
 ## Thematischer Schwerpunkt
 
-Das Rechtsgebiet berührt folgende Kernthemen: Lunar Base Governance, Safety Zones, Interoperabilität. Relevante Normen: Artemis Accords § 9, OST Art. VIII/IX, ILRS.
+Prüfe für Mondbasen Sicherheitszonen nach Abschnitt 11 und Interoperabilität nach Abschnitt 5 der Artemis Accords; Abschnitt 9 betrifft historisches Weltraumerbe. Trenne diese politische Erklärung von Artikel VIII und IX OST sowie den konkret einschlägigen ILRS-Kooperationsinstrumenten. Abschnittszuordnung am 16.09.2026 anhand der [amtlichen Artemis-Fassung](https://www3.nasa.gov/specials/artemis-accords/img/Artemis-Accords-signed-13Oct2020.pdf) geprüft.
 
 ## Kaltstart in 6 Fragen
 

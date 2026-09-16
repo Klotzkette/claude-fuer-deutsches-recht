@@ -1,41 +1,35 @@
 ---
 name: kaltstart-triage
-description: "Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Weltraumrecht."
+description: "Ordnet ein Raumfahrtvorhaben anhand von Mission, Betreiber, Start- und Registerstaat ein. Beginnt mit vorhandenen Unterlagen, klärt entscheidende Lücken und führt die Bearbeitung zum benötigten Antrag, Vertragsentwurf oder Haftungsvermerk fort."
 ---
 
-# Raumfahrtvorhaben und einschlägige Rechtsordnung bestimmen
+# 1. Raumfahrtvorhaben einordnen und die Bearbeitung beginnen
 
-## Direktstart: lesen, entscheiden, liefern
+Lies die bezeichnete Missionsbeschreibung, den Vertrag oder Bescheid zuerst. Übernimm bereits bekannte Angaben. Bei einem konkreten Auftrag beginne dessen Bearbeitung; liefere nicht zunächst einen allgemeinen Fragenkatalog.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1. Die anstehende Entscheidung erkennen
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Geht es um Start oder Betrieb, einen Vertrag, eine Transaktion oder einen bereits eingetretenen Schaden? Bestimme aus dem Material, wen der Nutzer vertritt und welches Dokument gebraucht wird. Nur wenn dies unklar bleibt, frage gezielt danach.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Unterscheide Betreiber, Eigentümer, Hersteller und Startdienstleister von Startstaat, Registerstaat und Genehmigungsstaat. Objektkennung, Startort, Orbit und Bodenstation sind je nach Auftrag zu erfassen. Ein Registereintrag begründet nicht automatisch Eigentum des Registerstaats.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2. Den fachlichen Schritt ausführen
 
-## Schnellstart-Workflow
+- Vor Start: prüfe konkrete Zulassungsvoraussetzungen, vorhandene Bescheide, Frequenzen und fehlende technische Nachweise. Bereite den verlangten Antrag oder die Behördenanfrage vor.
+- Bei Vertragsfragen: lies technische Anlagen mit, prüfe Leistungsumfang und Risikoverteilung und formuliere die erforderlichen Änderungen.
+- Nach einem Schaden: ordne Ereignis, Schadensort, Staatenrollen und Belege zu. Trenne zwischenstaatliche Haftung von privaten Ansprüchen und entwirf die verlangte Erklärung.
+- Bei Kooperation oder Mondmission: trenne verbindliche Verträge, politische Erklärungen und technische Empfehlungen und beantworte die konkrete Rechtsfrage.
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Weltraumrecht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen. Tragende Normen (WeltraumG, Outer Space Treaty, ESA-Übereinkommen) werden nicht aus Modellwissen finalisiert, sondern über die zugelassenen Live-Quellen geprüft.
+Nutze einen passenden Fachskill, wenn er verfügbar ist; eine Liste vorgeschlagener Skills ist noch keine Bearbeitung. Ohne weitere Skills führe den gewählten Schritt selbst aus.
 
-### 0. Stummer Upload — Material ohne Begleittext
+## 1.3. Lücken klären und zur Fassung fortsetzen
 
-Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder ein Aktenkonvolut hochlädt und keinen Auftrag dazuschreibt, behandle den Upload als Arbeitsauftrag. Warte nicht auf einen Prompt. Arbeite als aufmerksamer juristischer Co-Pilot: erst sichern, was eilt, dann das Material einordnen, dann den besten nächsten Arbeitsschritt anbieten.
+Fehlt eine entscheidende Angabe, benenne das benötigte Dokument oder die konkrete Entscheidung. Bearbeite unabhängige Teile weiter. Nach Antwort ergänze die offene Stelle, prüfe davon abhängige Angaben und liefere die vollständige aktualisierte Fassung. Eine neue entscheidende Lücke darf eine weitere gezielte Rückfrage auslösen.
 
-**Pflicht-Reihenfolge bei stummem Upload:**
+Maßgebliche Ausgangspunkte sind die UN-Weltraumverträge und das jeweils anwendbare nationale Recht. Ein Gesetzgebungsentwurf ist kein geltendes Zulassungsgesetz. Zitiere nur belegte Normen und Entscheidungen, die tatsächlich zur Frage passen.
 
-1. **Sofortrisiken zuerst markieren** — Fristen, Zustellung, Form, Zuständigkeit, Beweis-, Kosten- und Haftungsrisiken benennen.
-2. **Aktenlandkarte bauen** — Welche Dateien sind Original, welche nur Behauptung; was fehlt für einen verwertbaren nächsten Schritt?
-3. **Rolle klären** — Mandant, Gegner, Behörde, Gericht, betroffene Stelle; mit welchem Ziel und welcher Reichweite?
-4. **Ziel bestimmen** — Prüfung, Entwurf, Antrag, Anmeldung, Schriftsatz, Verteidigung, Dashboard, Memo, Red-Team?
-5. **Rechtsquellen trennen** — Normtext, Behördenpraxis, Rechtsprechung, Vertrag, technischer Standard und Praxisroutine getrennt halten.
-6. **Fachmodule auswählen** — Drei bis sieben passende Skills aus diesem Plugin nennen mit Begründung, warum sie jetzt nützlich sind.
-7. **Erste verwertbare Ausgabe liefern** — Kurze Lagekarte mit nächstem Schritt oder erstem Entwurf, statt einer langen abstrakten Abhandlung.
+## 1.4. Abschluss und Grenzen
 
-## Fachlicher Anker — Weltraumrecht
+Liefere den beauftragten Antrag, Vertragsentwurf, Brief oder Vermerk in vollständigen Sätzen. Halte interne Prüfpunkte vom Empfängertext getrennt. Eine Teilfassung mit fehlender Startkonfiguration ist nicht uneingeschränkt fertig.
 
-Tragende Anker: WeltraumG, Outer Space Treaty, ESA-Übereinkommen. Tatsächliche Fundstellen werden über dejure.org, openJur, gesetze-im-internet.de, BGH-/BVerfG-/EuGH-/EuG-Datenbank live geprüft und nicht aus Modellwissen finalisiert.
+Keine Erklärung ohne Auftrag versenden. Fehlt Datei- oder Quellenzugriff, benenne die konkrete Grenze und setze mit den verfügbaren Teilen fort. Ohne Export liefere den vollständigen Text.

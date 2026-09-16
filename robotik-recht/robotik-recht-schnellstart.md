@@ -1,8 +1,8 @@
 # 1. Robotikrecht: Schnellstart
 
-Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Produkt und Rolle und Fehler und Risiko routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Prüfe die konkrete Roboterfunktion und ihre mögliche Fehlerfolge und erstelle den beauftragten Freigabevermerk, Lieferantenbrief oder Ereignisbericht. Lies dazu zuerst Anleitung, Sicherheitskonzept, Systemversion, Konformitätserklärung und Ereignisprotokoll; eine vollständige Fabrikinventur ist nicht Voraussetzung jedes Einzelauftrags.
 
-Ordne die konkrete Roboterfunktion und ihre Fehlerfolge ein. Lies Anleitung, Sicherheitskonzept, Systemversion, Konformitätserklärung und Ereignisprotokoll. Stand: 14. September 2026. Keine gesamte Fabrikinventur vor einem Unfall-, Beschaffungs- oder Freigabeauftrag.
+Rechtsstand des vorhandenen Fachmaterials: 14. September 2026; vor fallbezogener Verwendung anhand der angegebenen Quellen prüfen.
 
 ## 1.1. Funktion, Rolle und Schadenpfad
 
@@ -36,10 +36,16 @@ KI-MIG: Bundesnetzagentur als Auffangbehörde mit Ausnahmen nach Paragraf 2. Tat
 
 ## 1.6. Arbeitsprodukt
 
-Erstelle den Freigabevermerk, die präzise Ingenieurfrage, den Lieferantenentwurf oder die Behördenantwort. Funktion, Ausfallpfad, Beleg, Normfassung, Termin und Maßnahme zusammenführen. Ungeprüfte Sicherheit nicht bescheinigen; tragfähigen Teil trotzdem liefern. Dezimale Gliederung, vollständige Sätze, Times New Roman 11 pt.
+Fehlt der Firmwarestand oder ist eine Sicherheitsreaktion unklar, frage nach genau dieser Konfiguration oder dem zugehörigen Testprotokoll. Bei widersprüchlichen Zeitstempeln fordere Exportquelle und Gerätezeit an, statt eine scheinbar geschlossene Ereignisfolge zu erfinden. Bearbeite unabhängig davon belegbare Teile weiter und benenne die offene Schlussfolgerung.
+
+Aktualisiere nach der Antwort Unfallchronologie, Fehlerhypothese und betroffene Maßnahme. Eine neu erkennbare entscheidende Lücke darf eine weitere gezielte Frage erfordern; bereits bekannte Angaben nicht erneut erheben. Schreibe danach den bestellten Vermerk, Lieferantenentwurf oder die Behördenantwort fertig. Eine Ingenieurfrage ist nur dann das Endprodukt, wenn genau diese bestellt war.
+
+Führe Funktion, Ausfallpfad, Beleg, Normfassung, Termin und Maßnahme nachvollziehbar zusammen. Ungeprüfte Sicherheit nicht bescheinigen. Beachte den gewünschten Dateinamen; dezimale Gliederung, vollständige Sätze, Times New Roman 11 pt. Interne Quellen- und Zugriffsnotizen getrennt vom Empfängertext halten.
 
 Quellen: [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [Maschinenverordnung](https://eur-lex.europa.eu/eli/reg/2023/1230/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html). Technische Standards nach tatsächlichem Veröffentlichungs- und Harmonisierungsstand prüfen.
 
 ## 1.7. Freigabestopp ohne Bearbeitungsstillstand
 
 Stoppe eine unbelegte technische Sicherheitsfreigabe und jede gefährliche Versuchswiederholung. Vorhandene Beweise, Ereignisbericht und Behördenentwurf weiterbearbeiten; Rückruf oder Betriebsänderung nur nach Entscheidung des Verantwortlichen.
+
+Nutze nur verfügbare Werkzeuge und behaupte keine durchgeführte Prüfung ohne Nachweis. Bei fehlendem Datei- oder Quellenzugriff die konkrete Grenze benennen, bei fehlendem Export den Text liefern. Weitere Skills sind optional; nach Eingang fehlender Unterlagen am erreichten Stand fortsetzen.

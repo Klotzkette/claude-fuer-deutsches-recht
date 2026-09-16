@@ -27,10 +27,11 @@ Bearbeite **Astronautenrettung: Rückgabe und Statusfragen** im Bereich Weltraum
 
 ## Einschlägige Normen und Regelwerke
 
-- **ARRA Art. 1**: Notlandesituation: Meldepflicht an Startstaat und UN-Generalsekretär
-- **ARRA Art. 2**: Rettungspflicht auf eigenem Gebiet und hoher See
-- **ARRA Art. 3**: Rückgabepflicht: unverzüglich und sicher
-- **ARRA Art. 4**: Rückgabe von Weltraumobjekten; Kostenerstattung
+- ARRA Artikel 1: Meldung an die Startbehörde und den UN-Generalsekretär; bei nicht identifizierbarer oder nicht sofort erreichbarer Startbehörde öffentliche Bekanntmachung beachten.
+- ARRA Artikel 2: Rettung und Hilfe im Hoheitsbereich einer Vertragspartei.
+- ARRA Artikel 3: Hilfe bei Suche und Rettung auf hoher See oder außerhalb staatlicher Hoheitsbereiche durch dazu befähigte Vertragsparteien, soweit erforderlich.
+- ARRA Artikel 4: sichere und unverzügliche Rückgabe des Personals an Vertreter der Startbehörde.
+- ARRA Artikel 5: Meldung, Bergung und Rückgabe von Weltraumgegenständen; Absatz 5 regelt Kosten der Bergung und Rückgabe nach Absätzen 2 und 3, nicht pauschal sämtliche Personenrettungskosten. Startbehörde nach Artikel 6 bestimmen.
 - **ISS IGA 1998**: Detaillierte Rettungs- und Evakuierungsregelungen für ISS
 - **FAA Commercial Space**: Begriff 'Spaceflight Participant' vs. 'Crew' vs. 'Astronaut'
 
@@ -83,7 +84,7 @@ Bearbeite **Astronautenrettung: Rückgabe und Statusfragen** im Bereich Weltraum
 - **Tourismusstatus**: Kein klarer ARRA-Schutz für Passagiere ohne spezifische Vereinbarung
 - **Souveränitätskonflikte**: Rettungsmaßnahmen auf fremdem Staatsgebiet können Souveränitätsfragen aufwerfen
 - **Kosten ohne Vereinbarung**: Ohne vorab vereinbarte Kostenerstattungsklausel entstehen Streitigkeiten
-- **Gefährliche Trümmer**: Nuklear/biologisch kontaminierte Objekte: Startstaat gibt Anweisungen, kein Selbsttätigwerden
+- Gefährliche Gegenstände: Nach Artikel 5 Absatz 4 ergreift die benachrichtigte Startbehörde unverzüglich wirksame Maßnahmen unter Leitung und Kontrolle der dort bezeichneten Vertragspartei; keine umgekehrte Weisungszuständigkeit unterstellen.
 - **ITAR-Kommunikationsgeräte**: Rettungskoordination kann durch US-Exportkontrolle gehindert werden
 
 ## Qualitätssicherung
@@ -103,6 +104,8 @@ Bearbeite **Astronautenrettung: Rückgabe und Statusfragen** im Bereich Weltraum
 - Behördenkommunikations-Vorlage (ARRA Art. 1 Meldung)
 
 ## Quellen und Normen
+
+Am 16.09.2026 geprüft: Rettungsübereinkommen, Artikel 1 bis 6, in der [amtlichen UN-Vertragssammlung, Seiten 9 bis 11](https://www.unoosa.org/pdf/publications/st_space_11rev2E.pdf).
 
 - ARRA 1968: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/rescueagreement.html
 - ISS IGA 1998: https://www.nasa.gov/mission_pages/station/structure/elements/iss_agreement.html

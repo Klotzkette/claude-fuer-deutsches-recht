@@ -1,6 +1,6 @@
 # 1. Apothekenfall am konkreten Vorgang bearbeiten
 
-Lies Nutzersachverhalt und vorhandene Erlaubnisse, Rezepte, Abgabebelege, Herstellungsprotokolle, Beanstandungen oder Abrechnungsunterlagen zuerst. Liefere die verlangte SOP, Aufsichtsantwort, Vertragsprüfung oder Retaxationserwiderung. Frage nur nach einer Lücke, die das konkrete Ergebnis blockiert. Bei reinem Einstieg den betroffenen Vorgang und die nächste erforderliche Handlung aus dem Material bestimmen, nicht sämtliche Apothekenregime abfragen.
+Bearbeite die verlangte SOP, Aufsichtsantwort, Vertragsprüfung oder Retaxationserwiderung anhand des Nutzersachverhalts und der vorhandenen Erlaubnisse, Rezepte, Abgabebelege, Herstellungsprotokolle, Beanstandungen oder Abrechnungsunterlagen. Übernimm bereits geklärte Angaben. Bei reinem Einstieg den betroffenen Vorgang und das benötigte Dokument klären, nicht sämtliche Apothekenregime abfragen.
 
 ## 2. Prüfwege auseinanderhalten
 
@@ -16,6 +16,8 @@ Lies Nutzersachverhalt und vorhandene Erlaubnisse, Rezepte, Abgabebelege, Herste
 
 2.6. Aufsicht: Anhörung, verbindliche Verfügung und bloße Bitte um Unterlagen unterscheiden. Für jede Beanstandung Befund, vorhandenen Nachweis, bereits getroffene Maßnahme und offenen Schritt festhalten. Noch nicht ausgeführte Maßnahmen als geplant bezeichnen.
 
+Fehlt bei einer Retaxation der konkrete Abgabe- oder Störungsnachweis, frage danach und erläutere, welche Beanstandung davon abhängt. Nach Eingang korrigiere die betroffenen Beträge und Argumente und schreibe die beauftragte Erwiderung fertig. Fehlt bei einer Aufsichtsantwort der Umsetzungsnachweis, kläre, was tatsächlich erledigt wurde; überarbeite anschließend die Darstellung der Maßnahmen. Neue entscheidende Lücken erlauben weitere kurze Rückfragen. Unabhängige Teile bereits ausarbeiten und nach der Antwort fortsetzen, ohne die Aufnahme zu wiederholen.
+
 ## 3. Konkrete Werkzeuge wählen
 
 Optional vertiefen [Arzneimittelabgabe](skills/arzneimittelabgabe-verschreibungspflicht/SKILL.md), [Retaxationsabwehr](skills/retaxationsabwehr-nullretax/SKILL.md) und [Aufsichtsbeanstandung](skills/beanstandung-durch-aufsichtsbehoerde-anhoerung/SKILL.md) den Vorgang. Ohne diese Dateien mit den Prüfwegen oben arbeiten. Detailangaben zu Notfallabgabe, Fristen und Dokumentation nicht ungeprüft übernehmen; maßgeblich bleiben Sachverhalt und amtlich geprüfte Vorschriften.
@@ -26,4 +28,4 @@ Patientengefahr, Fälschungs- oder Qualitätsverdacht sperren die betroffene Abg
 
 Jede rechtliche Bewertung mit passender amtlicher Quelle belegen; die [Zitierweise](../references/zitierweise.md) ist optional. Normfassung und bei Entscheidungen Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Randnummer angeben. Produktinformationen, Vertragsfassungen und zeitabhängige Sonderregeln nur in tatsächlich geprüfter Fassung verwenden. Keine universelle Normenliste oder unbestimmte ständige Rechtsprechung als Beleg.
 
-Endprodukt in vollständigen Sätzen mit dezimaler Gliederung und Leerzeilen liefern; Times New Roman 11 pt beziehungsweise Exporthinweis verwenden. Fehlende Dateien und ungeprüfte Annahmen beim jeweiligen Ergebnis kennzeichnen. Ohne Export den Text ausgeben, ohne Dateizugriff keine erfolgte Aktenprüfung behaupten. Gesundheitsdaten nicht ungefragt extern übertragen; nichts ohne Auftrag versenden.
+Endprodukt in vollständigen Sätzen mit dezimaler Gliederung und Leerzeilen liefern; Times New Roman 11 pt beziehungsweise Exporthinweis verwenden. Quellenstatus und technische Grenzen in einer gesonderten Arbeitsnotiz festhalten, nicht in den Brief an Mandant, Aufsicht oder Kostenträger kopieren. Inhaltlich offene Tatsachen im Entwurf kenntlich machen. Ohne Export den Text ausgeben, ohne Dateizugriff keine erfolgte Aktenprüfung behaupten. Gesundheitsdaten nicht ungefragt extern übertragen; externe Kontaktaufnahme und Versand nur nach Freigabe.

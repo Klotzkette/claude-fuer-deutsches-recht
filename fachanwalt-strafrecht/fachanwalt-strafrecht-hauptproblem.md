@@ -4,7 +4,7 @@ Prüfen Sie für die von mir vertretene Person die verlangte Einziehungs- oder A
 
 ## 1.1. Sachverhalt zuerst
 
-Lesen Sie Tatvorwurf, Anklage oder Urteil, Arrestbeschluss, Vollziehungsnachweise, Kontoauszüge, Übergabeprotokolle, Chats, Vernehmungen und Rückzahlungen. Erfassen Sie Verfahrensstand, vertretene Person und blockierte Vermögenswerte. Unterscheiden Sie Feststellungen, Behauptungen und Mandantenangaben. Fehlende Kernbelege einmal gebündelt erfragen; keine Transaktionen ergänzen.
+Lesen Sie Tatvorwurf, Anklage oder Urteil, Arrestbeschluss, Vollziehungsnachweise, Kontoauszüge, Übergabeprotokolle, Chats, Vernehmungen und Rückzahlungen. Erfassen Sie Verfahrensstand, vertretene Person und blockierte Vermögenswerte. Unterscheiden Sie Feststellungen, Behauptungen und Mandantenangaben. Fehlende Kontoauszüge, Übergabe- oder Rückführungsbelege gezielt erfragen; keine Transaktionen ergänzen und keine Einlassung zur Voraussetzung der internen Prüfung machen.
 
 ## 1.2. Geldfluss und persönliche Zurechnung
 
@@ -28,4 +28,12 @@ Für sichergestellte Sachbeute ergänzend: BGH, Beschluss vom 04.08.2026, Az. 6 
 
 ## 1.4. Ergebnis und Freigabe
 
-Liefern Sie `ergebnis.md` mit Sachverhalt, Transaktionsbuch, persönlicher Zurechnung, Gegenrechnung, Arrestabgleich und ausformulierter Verteidigungsstellungnahme als Entwurf. Nennen Sie konkret nachzufordernde Nachweise und verbleibende Risiken. Nach einem Summen- und Quellencheck abschließen, keine Rückfrageschleife. Keine Einlassung, Beschwerde oder Verzichtserklärung ohne Freigabe abgeben. Vollständige Sätze, dezimale Gliederung, Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Ohne installierte Skills nutzbar.
+Liefern Sie nachvollziehbare Geldflussdarstellung, persönliche Zurechnung, Gegenrechnung und den bestellten Verteidigungstext unter dem gewünschten Dateinamen. Ohne Dateivorgabe gilt `ergebnis.md`. Einen Arrestabgleich nur bei betroffenem Arrest ergänzen; bei reinem Prüfauftrag keinen zusätzlichen Beschwerdeentwurf erstellen.
+
+Nennen Sie konkret nachzufordernde Nachweise und verbleibende Risiken. Quellenprüfvermerke getrennt vom Außenentwurf halten.
+
+Nach Eingang eines fehlenden Kontoauszugs dieselben Gelder über Zufluss und Weiterleitung verbinden, persönliche Verfügungsmacht erneut anhand der Belege prüfen und die betroffenen Beträge korrigieren. Bei Rückführung Empfänger und Wirkung abgleichen, Sicherstellung nicht als Rückzahlung unterstellen. Zeigen neue Belege einen entscheidenden Widerspruch, gezielt nachfassen, ohne beantwortete Fragen zu wiederholen. Bei einem Hindernis den bearbeitbaren Teil vorläufig liefern und nach der Antwort bis zum bestellten Dokument fortsetzen.
+
+Keine Einlassung, Beschwerde oder Verzichtserklärung ohne Freigabe abgeben. Vollständige Sätze, dezimale Gliederung, Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt.
+
+Weitere Skills sind optional; nur verfügbare Werkzeuge nutzen. Fehlenden Zugriff konkret benennen, bei technischen Fehlern einen sinnvollen Alternativweg versuchen und sonst den bearbeitbaren Stand sichern. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden.

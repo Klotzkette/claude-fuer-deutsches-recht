@@ -1,12 +1,16 @@
 # 1 Betreuung aus Bedarf, Wunsch und Nachweis bearbeiten
 
-Nutze zuerst den konkreten Auftrag und vorhandene Betreuungsbeschlüsse, Vollmachten, Schreiben und Belege. Liefere das verlangte Gerichtsschreiben, Verzeichnis oder die Entscheidungsvorlage unmittelbar. Erfasse betreute Person, handelnde Person, Aufgabenbereich und aktuellen Verfahrensstand. Eine Angehörigeneigenschaft allein ist keine nachgewiesene Vertretungsmacht. Frage nur nach einer für die konkrete Handlung entscheidenden Lücke.
+Erstelle das verlangte Gerichtsschreiben, Verzeichnis oder die Entscheidungsvorlage. Nutze zuerst den konkreten Auftrag und vorhandene Betreuungsbeschlüsse, Vollmachten, Schreiben und Belege; bereits geklärte Angaben nicht erneut erfragen.
+
+Erfasse betreute Person, handelnde Person, Aufgabenbereich und aktuellen Verfahrensstand. Eine Angehörigeneigenschaft allein ist keine nachgewiesene Vertretungsmacht.
 
 ## 1.1 Unterstützung vor Stellvertretung
 
 Prüfe bei Bestellung oder Erweiterung den konkreten rechtlichen Unterstützungsbedarf und andere Hilfen nach [Paragraf 1814 BGB](https://www.gesetze-im-internet.de/bgb/__1814.html). Eine Diagnose allein beschreibt noch keinen Aufgabenbereich. Trenne tatsächliche Alltagshilfe von rechtlicher Vertretung und berücksichtige vorhandene Vollmachten. Eine Betreuung darf nicht allein aus Bequemlichkeit für Dritte erweitert werden.
 
 Nach [Paragraf 1821 BGB](https://www.gesetze-im-internet.de/bgb/__1821.html) sind Wünsche festzustellen und rechtliche Selbstbesorgung zu unterstützen; Vertretungsmacht nur soweit erforderlich einsetzen. Unterscheide aktuellen Wunsch, frühere Äußerung und lediglich vermutete Präferenz von Angehörigen. Prüfe eine Abweichung anhand der gesetzlichen Voraussetzungen, nicht anhand eigener Vorstellungen eines vernünftigen Lebens. Dokumentiere Gesprächsinhalt und Quelle, ohne ein Gespräch zu erfinden.
+
+Fehlt ein belastbarer Wunsch, frage nach konkreter Äußerung und Verständigungsmöglichkeit. Bearbeite unabhängig gesicherte Angaben vorläufig weiter. Nach der Antwort passe Unterstützungsbedarf, Alternativen und den bestellten Text an. Zeigt sich ein weiterer entscheidender Widerspruch, kläre ihn gezielt nach, ohne beantwortete Fragen zu wiederholen.
 
 ## 1.2 Konkrete Handlung und Genehmigung
 
@@ -20,8 +24,14 @@ Prüfe Genehmigungen für die beabsichtigte Maßnahme nach aktuellen amtlichen N
 
 Rechne Konten, Bargeld, Forderungen, Eigentumsanteile und Schulden nachvollziehbar zusammen. Kontoauszug und Sparbuch können dieselbe Position belegen; vermeide Doppelzählungen. Monatliche Rente ist kein zusätzlicher Vermögensbestand, sofern sie bereits im Kontosaldo enthalten ist. Unsicherer Eigentumsanteil oder fehlender Beleg bleibt sichtbar. Eine Richtigkeits- und Vollständigkeitsversicherung ist als vom Betreuer zu prüfender Erklärungstext vorzubereiten, nicht als bereits abgegeben zu behaupten.
 
+Fehlt der Auszug zum Bestellungsstichtag, fordere genau diesen Zeitraum an. Nach Eingang gleiche Saldo und Bewegungen ab, korrigiere die betroffenen Summen und vervollständige das Verzeichnis. Ein heutiger Kontostand oder eine Schätzung darf nicht als belegtes Anfangsvermögen erscheinen.
+
 ## 1.4 Bericht und Abschluss
 
 Trenne Anfangsverzeichnis, laufende Rechnungslegung, persönlichen Bericht und Aufwendungs- oder Vergütungsantrag. Für den angeforderten Zeitraum ordne Maßnahmen, Kontakte, Wünsche, Veränderungen und noch erforderliche Betreuung den tatsächlichen Belegen zu. Keine standardisierte positive Entwicklung erfinden. Verweise im Gerichtsschreiben auf die konkret beigefügten oder noch fehlenden Nachweise.
 
-Weitere Normen und benötigte Entscheidungen amtlich prüfen; ältere Entscheidungen nur nach Abgleich mit dem heutigen Recht verwenden. Optionale Skills und Referenzen können vertiefen, sind aber keine Voraussetzung. Ohne Export Text und Tabellen liefern, keinen erfundenen Dateilink. Keine gerichtliche Einreichung ohne Auftrag. Endprodukte in vollständigen Sätzen, dezimal gegliedert und beim Export in Times New Roman 11 pt.
+Bei einer entscheidenden Lücke liefere einen gekennzeichneten Teilstand und den konkret benötigten nächsten Beitrag. Nach dessen Eingang aktualisiere Rechnung, Genehmigungsprüfung oder Berichtsabschnitt und arbeite bis zum bestellten Dokument weiter; keine ungefragten Anträge bei bloßem Beratungsauftrag. Quellenstatus und technische Prüfvermerke gesondert halten, nicht in das Gerichtsschreiben kopieren.
+
+Weitere Normen und benötigte Entscheidungen amtlich prüfen; ältere Entscheidungen nur nach Abgleich mit dem heutigen Recht verwenden. Optionale Skills und Referenzen können vertiefen, sind aber keine Voraussetzung. Endprodukte in vollständigen Sätzen, dezimal gegliedert und beim Export in Times New Roman 11 pt.
+
+Ohne Export Text und gegebenenfalls Tabellen liefern, keinen erfundenen Dateilink. Ungelesene Unterlagen benennen und verfügbare Dateien nicht als Nachweis rechtlicher Vollständigkeit behandeln. Keine Einreichung, Auszahlung, Kündigung oder Offenlegung ohne erforderliche Befugnis und ausdrückliche Freigabe.

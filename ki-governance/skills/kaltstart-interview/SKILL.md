@@ -3,215 +3,52 @@ name: kaltstart-interview
 description: "Für Erstgespräch digitale Werkzeuge-Governance: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Erstgespräch KI-Governance
+# 1. KI-Governance erfassen und konkretisieren
 
-## Direktstart: lesen, entscheiden, liefern
+Erarbeite das beauftragte Governance-Profil oder die konkrete Systementscheidung aus vorhandenen Richtlinien, Verträgen und bisherigen Angaben. Die Rolle wird je System bestimmt, nicht pauschal für das gesamte Unternehmen.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1. Vorhandenes Profil
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Lies eine vorhandene, freigegebene `CLAUDE.md` und `unternehmens-profil.md` nur im auftragsrelevanten Umfang. Bestätigte Unternehmensangaben weiterverwenden; fehlende Platzhalter gezielt klären, nicht automatisch neu beginnen. Ein Profil nur bei entsprechendem Auftrag schreiben oder ändern, einen Neustart nicht aus einem einzelnen lückenhaften Feld ableiten.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Entnimm Branche, Sitz, Rechtsordnungen, tatsächliche Systeme, geplante Einsätze und Verantwortliche den Unterlagen. KI-Nutzungsrichtlinie, Folgenabschätzungen, Anbieterverträge, Inventar und Freigabeliste zuerst lesen. Bei einem Vorfall Kenntniszeitpunkt und betroffene Funktion vor einer umfassenden Profilerfassung bearbeiten.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2. Systembezogene Rolle
 
-## Zweck
+Nach Artikeln 2 und 3 der Verordnung (EU) 2024/1689 Anbieter, Betreiber, Importeur, Händler und Bevollmächtigten unterscheiden. Eigene Produkte und intern genutzte Fremdsoftware können unterschiedliche Rollen auslösen. Zweckänderung, Eigenmarke und tatsächliche Konfiguration prüfen; die bloße Bezeichnung im Vertrag reicht nicht.
 
-Ermittelt im Erstgespräch, wie das Unternehmen im KI-Ökosystem positioniert
-ist — als Anbieter, Betreiber, Importeur oder Händler gem. Art. 3 KI-VO
-(Verordnung (EU) 2024/1689) — und welche Rechtsregime tatsächlich anwendbar
-sind. Ergebnis wird als Praxisprofil in die Plugin-Konfiguration geschrieben
-und von allen anderen Skills gelesen.
+Fehlen Angaben zu Veränderungsrechten oder tatsächlicher Nutzung, genau diese nachfordern. Nach Antwort Rolle, betroffene Pflichten und bestellte Anbieterregel oder Betriebsentscheidung aktualisieren. Artikel 9 bis 15, 25, 26, 27 bis 29 nach ihrer konkreten Funktion prüfen; die alte pauschale Zuordnung sämtlicher Artikel 25 bis 29 zu Betreiberpflichten nicht ungeprüft fortschreiben.
 
-Anbieter- und Betreiberpflichten nach dem AI Act sind grundverschieden:
-Art. 9–15 KI-VO betreffen Anbieter, Art. 25–29 KI-VO Betreiber. Das
-Erstgespräch klärt die Rolle systembezogen (nicht unternehmensweit).
+Eingebettete oder informell genutzte Funktionen nur aus konkreten Angaben ins Inventar aufnehmen. Nicht dokumentierte Nutzung als solche kennzeichnen; keine generischen Beispielszenarien als reale Systeme eintragen. Interviews liefern Angaben, nicht automatisch Belege für den tatsächlichen Betrieb.
 
-## Eingaben
+## 1.3. Rechtsregime und Verantwortliche
 
-- Unternehmensname, Branche, Sitz und operative Jurisdiktionen
-- Rolle im KI-Lieferkette per AI Act (Art. 3 KI-VO)
-- Bestehende KI-Nutzungsrichtlinie, KI-Folgenabschätzungen, Anbieterverträge
-- KI-Inventar oder Freigabe-/Sperrliste, soweit vorhanden
-- Regulatorischer Anwendungsbereich (AI Act, DSGVO, DSA, Sektoren)
-- Governance-Team, Eskalationsmatrix, Datenschutzbeauftragter
+Verbote nach Artikel 5, Hochrisikopfade nach Artikel 6 einschließlich Anhängen, Transparenz und gestaffelte Geltung systembezogen prüfen. Die aktuelle Änderungsfassung einschließlich 2026/1744 berücksichtigen; alte pauschale Stichtagslisten nicht übernehmen. Bewerbungsfilter, HR-Zusammenfassung, Kundendienstentwurf und Spesenprüfung nach ihrer tatsächlichen Entscheidungswirkung unterscheiden.
 
-## Rechtlicher Rahmen
+DSGVO Artikel 22 nach automatisierter Einzelentscheidung und deren Wirkung prüfen, nicht jede Dokumentenklassifizierung automatisch darunter fassen. Artikel 35 für Datenschutz-Folgenabschätzung gesondert untersuchen. Datenschutzbeauftragte nach Artikeln 37 ff. DSGVO und die Zuständigkeit des Governance-Teams konkret bestimmen.
 
-**Kernvorschriften**
+GeschGehG Paragrafen 2 und 4, UrhG Paragraf 44b, BSIG, DSA Artikel 27 und 38 sowie sektorale Regeln wie MaRisk, MDR/IVDR oder SGB V nur bei passendem Anwendungsbereich vertiefen. Bei Mitarbeiterüberwachung oder -bewertung Paragraf 87 Absatz 1 Nummer 6 BetrVG gesondert prüfen. Kundenverträge können zusätzliche Pflichten enthalten, ersetzen aber keine gesetzliche Prüfung.
 
-- **Verordnung (EU) 2024/1689 (AI Act)**: In Kraft 01.08.2024; gestaffelte
- Anwendbarkeit. Art. 3: Anbieter, Betreiber, Importeur, Händler, bevoll-
- mächtigter Vertreter. Art. 5: verbotene Praktiken (ab 02.02.2025). Art. 6
- i.V.m. Anhang III: Hochrisiko-KI. Art. 9–15: Anbieterpflichten. Art. 25–29:
- Betreiberpflichten.
-- **DSGVO Art. 22**: Automatisierte Einzelentscheidungen; Widerspruchsrecht
-- **GeschGehG §§ 2, 4**: Schutz von Geschäftsgeheimnissen bei Trainingsdaten.
-- **UrhG § 44b**: Text-und-Data-Mining-Schranke bei KI-Training.
-- **BSI-Gesetz (BSIG)**: KI-Systeme in kritischer Infrastruktur.
-- **§ 87 Abs. 1 Nr. 6 BetrVG**: Mitbestimmung des Betriebsrats bei KI-Tools
- zur Mitarbeiterüberwachung/-bewertung.
+## 1.4. Gezielte Gesprächsrunden
 
-**Leitentscheidungen**
+Frage nach der konkret offenen Funktion, betroffenen Personengruppe, menschlichen Kontrolle oder Datenweitergabe, nicht nach einem pauschalen gewünschten Risikoniveau. Bei ungeklärter Aufsicht Befugnis, praktische Eingriffsmöglichkeit und Vertretung erheben. Nach Antwort Aufsichtsregel und Arbeitsanweisung in das bestellte Profil oder Dokument einarbeiten.
 
- Automatisiertes Profiling als Art. 22 Abs. 1 DSGVO-Entscheidung, wenn
- KI-Note maßgebliche Grundlage für Drittentscheidung ist.
- maßstäbe für automatisierte Informationssysteme, übertragbar auf KI.
- Vergessen I): Grundrechtliche Schutzpflichten gegenüber algorithmischen
- Systemen.
+Zeigt eine Antwort eine neue entscheidende Lücke, kurz weiterfragen; bestätigte Unternehmensdaten nicht wiederholen. Belastbare Teile vorläufig liefern und fehlende Nachweise konkret benennen. Ein Anbietervertrag oder Einweisungsplan beweist nicht, dass eine Kontrolle tatsächlich umgesetzt wird.
 
-**Kommentare**
+Zuständigkeiten nach Person oder Funktion für Rechtsprüfung, Datenschutz, Betrieb, Anbietervertrag und Geschäftsentscheidung festhalten. Fehlenden fachlichen Prüfbedarf offenlegen, aber zulässige Entwurfsarbeit nicht für jeden Zwischenschritt unterbrechen. Anbindungen nur nach tatsächlichem Test als funktionsfähig bezeichnen; keine Konfiguration mit erfolgreichem Zugriff gleichsetzen.
 
-- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 3 Rn. 12 ff.
- (Anbieter/Betreiber-Begriff).
-- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 5 ff.
-- Hoffmann-Riem (Hrsg.), Big Data, KI und das Recht, 2021, S. 45 ff.
-- Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2024,
- Teil IV Rn. 88 ff.
+## 1.5. Quellen
 
-*Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im Einzelfall.*
+Tragende Aussagen anhand amtlicher Rechtsquellen prüfen; Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und passendem Aussagegehalt. Die früheren fragmentarischen Hinweise auf Profiling, Informationssysteme und „Vergessen I“ sind keine zitierfähigen Entscheidungen. Keine fehlenden Aktenzeichen aus Modellwissen ergänzen.
 
-## Ablauf
+Vorhandene Literaturhinweise sind ausschließlich Rechercheansätze, keine hier verifizierten Fundstellen: Wendehorst/Grinzinger, AI Act, erste Auflage 2024, Artikel 3; Ehmann/Selmayr, DS-GVO, dritte Auflage 2024, Artikel 22; Hoffmann-Riem, Big Data, KI und das Recht, 2021; Spindler/Schuster, Recht der elektronischen Medien, vierte Auflage 2024. Bibliografie und Passage nur bei bereitgestellter Quelle oder lizenziertem Zugriff prüfen und dann zitieren. Optional ergänzt `references/zitierweise.md` die Zitierweise.
 
-**Schritt 0 — Vorabprüfung**
+## 1.6. Ergebnis und Beispiel
 
-1. `CLAUDE.md` lesen: fehlt → Erstgespräch starten; enthält `[PLATZHALTER]`
- → Neustart anbieten; vollständig ausgefüllt → überspringen (außer `--neu`).
-2. Geteiltes Unternehmensprofil (`unternehmens-profil.md`) prüfen: vorhanden →
- Einzeiler zur Bestätigung, Unternehmensfragen überspringen.
-3. Installations-Scope: bei Projekt-Scope einmaligen Hinweis ausgeben.
+Liefere das bestellte Profil, die Entscheidungsvorlage oder Vertragsfassung in vollständigen Sätzen unter der gewünschten Dateibenennung. System, Zweck, Rolle, konkrete Pflicht, Verantwortlicher und erforderliche nächste Prüfung müssen verständlich zusammenpassen. Keine obligatorische Risikoampel oder bloße Liste interner Feldnamen ausgeben.
 
-**Schritt 1 — Eröffnung und Kurzwahl**
+Bei einem Softwarehersteller eigene Klassifizierungslösung und intern verwendeten Schreibassistenten getrennt prüfen. Fehlt die Beschreibung der Wirkung einer Kundenentscheidung, gezielt nachfragen; nach Antwort insbesondere Artikel 22 DSGVO und die Systemeinordnung aktualisieren und den bestellten Vermerk fertigstellen.
 
-Kurzstart (2 Min.): Rolle, Organisationsumfeld, Integrationscheck,
-regulatorischer Anwendungsbereich; Konfiguration mit `[STANDARD]`-Markern.
-Vollständig (15 Min.): vollständiger Gesprächsablauf unten.
+Quellenstatus und auf Interviewangaben beruhende Unsicherheit getrennt vom Empfängertext dokumentieren. Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, sonst mit gesondertem Exporthinweis. Meldung, Offenlegung, Abschaltung und Versand nur nach ausdrücklicher Freigabe.
 
-**Schritt 2 — Wer nutzt das Plugin? Organisationsumfeld?**
-
-Rolle: (1) Jurist/Syndikusrechtsanwalt (§ 46 BRAO), (2) Nicht-Jurist mit
-Anwaltszugang, (3) Nicht-Jurist ohne. Bei 2/3 einmalig erklären:
-Ausgaben als Aktenpaket für anwaltliche Prüfung, nicht als
-abschließende Rechtsauskunft.
-
-Integrationscheck: nur `✓` bei erfolgreich getesteter Verbindung; `⚪`
-konfiguriert-ungeprüft; `✗` nicht vorhanden.
-
-**Schritt 3 — Anbieter, Betreiber oder beides? (Art. 3 KI-VO)**
-
-Rollen systembezogen ermitteln. KI-Inventar: 1–3 Systeme sofort eintragen
-oder auf später verschieben. Schatten-KI aktiv ansprechen (eingebettete
-KI in genehmigten Tools, informell genutzte Tools, nicht bekannte
-Anbieter-KI). Alles Entdeckte mit `[UNDOKUMENTIERT — TRIAGE AUSSTEHEND]`
-ins Register.
-
-**Schritt 4 — Regulatorischer Anwendungsbereich**
-
-Nicht annehmen; tatsächlichen Anwendungsbereich recherchieren:
-AI Act (Anhang III Hochrisiko, Art. 5 Verbote, gestaffelte Anwendbarkeit);
-DSGVO Art. 22 (Scoring, HR, Kreditvergabe); DSA Art. 27/38 (Empfehlungs-
-systeme sehr großer Plattformen); Sektoren (BaFin MaRisk, MDR/IVDR);
-§ 87 BetrVG bei Mitarbeiter-KI; vertragliche Anforderungen von Kunden.
-
-**Schritt 5 — Anwendungsfall-Register und Rote Linien**
-
-Szenarien für Betreiber: Bewerbungs-Screening (Hochrisiko nach Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 lit. a),
-HR-Zusammenfassungen, Kundendienst-Entwürfe, Spesen-Anomalieerkennung.
-Rote-Linien-Frage: "Was wäre automatisch Nein?" Verbotene Praktiken
-nach Art. 5 KI-VO als Ausgangspunkt (Social Scoring, subliminale
-Manipulation, Echtzeitbiometrie, Emotionserkennung am Arbeitsplatz).
-
-**Schritt 6 — Governance und Eskalation**
-
-Governance-Team-Größe; Anbietervertrags-Eigentümer; Datenschutzbeauftragter
-(§ 37 ff. DSGVO); Eskalationspfad (namentlich oder nach Funktion: GC,
-Datenschutzbeauftragter, Geschäftsführung).
-
-**Schritt 7 — Quelldokumente**
-
-KI-Nutzungsrichtlinie; Folgenabschätzung; KI-Anbieterverträge (AVV + KI-Annex);
-KI-Inventar; Freigabe-/Sperrliste. Bei fehlendem Dokument: Basispraxisprofil
-aus Gesprächsangaben, alle Abschnitte als `[ANGABEN AUS INTERVIEW]` kennzeichnen.
-
-## Beispiel
-
-Mittelständischer Softwarehersteller (500 MA, Sitz Deutschland, Kunden EU/UK):
-- Als Anbieter einer KI-gestützten Dokumentenklassifizierungslösung → Anbieter
- nach Art. 3 Nr. 3 KI-VO; ggf. Hochrisiko nach Anhang III.
-- Intern KI-Schreibassistenten → Betreiberrolle Art. 3 Nr. 4 KI-VO.
-- DSGVO Art. 22 relevant weil Dokumentenklassifizierung für Kunden automatisch.
-- Praxisprofil mit Anbieterpflichten (Art. 9–15 KI-VO) als Schwerpunkt.
-
-## Risiken und typische Fehler
-
-- Builder/Betreiber-Frage nicht überspringen; bei "beides" die Seite mit
- größerer Governance-Last zuerst bearbeiten.
-- Kein Regime annehmen; tatsächlichen Anwendungsbereich recherchieren.
-- Anwendungsfall-Register nie aus generischen Positionen befüllen; bei
- Interview-Angaben: `[POSITIONEN AUS INTERVIEW — als Ausgangspunkt]`.
-- Schatten-KI ernst nehmen: ein Register ohne informell genutzte Tools lügt.
-- KI-Governance- und Datenschutz-Interview nicht vermischen.
-
-## Quellenpflicht
-
-- **AI Act Art. 3, 5, 6 i.V.m. Anhang III, 9–15, 25–29** — VO (EU) 2024/1689.
-- **DSGVO Art. 22** bei automatisierten Einzelentscheidungen.
-- **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 3 Rn. 12 ff.**
-- **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 5 ff.**
-- Ausgaben auf Basis von Gesprächsangaben: `[ANGABEN AUS INTERVIEW —
- anwaltliche Prüfung empfohlen]` kennzeichnen.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Definitionen Anbieter / Betreiber
-- Art. 5 KI-VO — verbotene Praktiken (ab 02.02.2025)
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 9-15 KI-VO — Anbieterpflichten
-- Art. 25-29 KI-VO — Betreiberpflichten
-
-## Triage zu Beginn
-1. Handelt das Unternehmen als Anbieter, Betreiber, Importeur oder Haendler (Art. 3 KI-VO)?
-2. Welche KI-Systeme sind bereits produktiv — und welche sind in Planung?
-3. Welche Regimes sind anwendbar — KI-VO, DSGVO, DSA, sektorale Regeln (BSIG, SGB V)?
-4. Gibt es bereits eine KI-Nutzungsrichtlinie oder Folgenabschaetzungen?
-5. Wer ist im Governance-Team — KI-Beauftragter, DSB, Betriebsrat, Eskalationskette?
-
-## Output-Template — Praxisprofil-Ersterfassung
-**Adressat:** KI-Beauftragter / Rechtsabteilung — Tonfall: strukturiert, vollstaendig
-```
-PRAXISPROFIL KI-GOVERNANCE — ERSTERFASSUNG
-[DATUM] — [UNTERNEHMEN / NAME MANDANT]
-
-1. UNTERNEHMENS-PROFIL
- Branche: [BRANCHE]
- Jurisdiktionen: [LAENDER]
- KI-Rolle nach Art. 3 KI-VO: [ANBIETER / BETREIBER / IMPORTEUR / HAENDLER]
-
-2. KI-INVENTAR (Einstieg)
- | System | Zweck | Rolle | Risikoklasse | Status |
- |---|---|---|---|---|
- | [SYSTEM 1] | [ZWECK] | [ROLLE] | [KLASSE] | [STATUS] |
-
-3. REGULATORISCHER FUSSABDRUCK
- - KI-VO: [Anwendbar — Hochrisiko: Ja/Nein / Nicht anwendbar]
- - DSGVO Art. 22: [Anwendbar / Nicht anwendbar]
- - DSA: [Anwendbar / Nicht anwendbar]
- - Sektorale Regeln: [BSIG / SGB V / ...]
-
-4. GOVERNANCE-TEAM
- KI-Beauftragter: [NAME]
- DSB: [NAME]
- Eskalation: [NAME / ROLLE]
-
-5. RISIKOEINSTELLUNG: [KONSERVATIV / MITTIG / PROGRESSIV]
-
-6. NAECHSTE SCHRITTE
- 1. [MASSNAHME bis DATUM]
-
-Erstellt: [NAME], [DATUM]
-Naechste Pruefung: [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ohne weitere Skills oder Profilzugriff anhand dieses Ablaufs weiterarbeiten. Fehlende Dateien und Quellen konkret benennen; ohne Export vollständigen Text liefern.
