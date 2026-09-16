@@ -1,3 +1,7 @@
+# v444.5.2 - Aktivierungssignale releasefest
+
+Die drei neuen Auswahlbeschreibungen mit Bezug auf § 109 Absatz 2 GewO verwenden nun die vom globalen Aktivierungsaudit verlangte ausgeschriebene Paragrafenform. Die fachlichen Skilltexte bleiben unverändert. Ein zusätzlicher Regressionstest verhindert, dass das unzulässige Zeichen erneut in die Auswahlbeschreibungen gelangt. Version 444.5.2 veröffentlicht damit den vollständigen Arbeitszeugnis-Workflow aus v444.5.1 mit bestandener Release-Pipeline.
+
 # v444.5.1 - Arbeitszeugnisprüfung bis zur Endfassung
 
 ## 1. Lesbare Werkstatt- und Schnellstart-Prompts

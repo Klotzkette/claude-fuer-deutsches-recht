@@ -1,6 +1,6 @@
 ---
 name: doppelboeden-und-verneinungen
-description: "Prüft sprachliche Verneinungen, Vorbehalte und Relativierungen im Arbeitszeugnis nach § 109 Abs. 2 GewO. Bewertet ihre Aussage im Gesamtzusammenhang und formuliert eine eindeutige, tatsachengestützte Alternative."
+description: "Prüft sprachliche Verneinungen, Vorbehalte und Relativierungen im Arbeitszeugnis nach Paragraf 109 Absatz 2 GewO. Bewertet ihre Aussage im Gesamtzusammenhang und formuliert eine eindeutige, tatsachengestützte Alternative."
 ---
 
 # Verneinungen und mehrdeutige Formulierungen prüfen
