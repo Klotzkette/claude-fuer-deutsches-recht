@@ -1,3 +1,7 @@
+# v444.5.3 - Arbeitszeugnisprüfung ohne Statuskopf
+
+Werkstatt, Schnellstart und Plugin beginnen unmittelbar mit dem beauftragten Prüfbericht, Entwurf oder einer notwendigen gebündelten Rückfrage samt gesichertem Teil. Datei-, Rollen-, Quellen- und Bearbeitungsdaten werden intern eingeordnet, nicht als technischer Statuskopf vorangestellt. Auch der generierte README-Einstieg und der Megaprompt folgen dieser Vorgabe. Der vollständige Workflow mit Rückfragen, bedingten Fassungen und Fortsetzung bleibt erhalten; gezielte Regressionstests sichern den direkten Einstieg ab.
+
 # v444.5.2 - Aktivierungssignale releasefest
 
 Die drei neuen Auswahlbeschreibungen mit Bezug auf § 109 Absatz 2 GewO verwenden nun die vom globalen Aktivierungsaudit verlangte ausgeschriebene Paragrafenform. Die fachlichen Skilltexte bleiben unverändert. Ein zusätzlicher Regressionstest verhindert, dass das unzulässige Zeichen erneut in die Auswahlbeschreibungen gelangt. Version 444.5.2 veröffentlicht damit den vollständigen Arbeitszeugnis-Workflow aus v444.5.1 mit bestandener Release-Pipeline.

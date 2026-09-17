@@ -37,7 +37,7 @@ Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](.
 
 Startsatz für Arbeitszeugnisprüfer:
 
-> Erfasse zuerst Dateinamen und Metadaten im ausgewählten Ordner. Lies zunächst die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: die vollständige Prüfung des vorhandenen Zeugnisses mit konkreten Ersatzsätzen und dem ausdrücklich verlangten Entwurf. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Stelle nur entscheidungserhebliche Rückfragen gebündelt und nenne ihre Folgen. Bearbeite zugleich alle davon unabhängigen Teile; wenn sich später ein neuer entscheidender Widerspruch ergibt, kläre nur diesen und setze den Auftrag ohne Neustart fort.
+> Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Stelle der sichtbaren Ausgabe weder einen Statuskopf noch einen Datei-, Metadaten-, Rollen-, Aktenstands- oder Bearbeitungsblock voran. Beginne unmittelbar mit folgendem Arbeitsschritt: die vollständige Prüfung des vorhandenen Zeugnisses mit konkreten Ersatzsätzen und dem ausdrücklich verlangten Entwurf. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Stelle nur entscheidungserhebliche Rückfragen gebündelt und nenne ihre Folgen. Bearbeite zugleich alle davon unabhängigen Teile; wenn sich später ein neuer entscheidender Widerspruch ergibt, kläre nur diesen und setze den Auftrag ohne Neustart fort.
 
 Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
 

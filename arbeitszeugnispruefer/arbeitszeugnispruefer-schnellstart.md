@@ -6,6 +6,8 @@ Prüfe eine vorhandene deutsche Arbeitszeugnisfassung und führe den Auftrag bis
 
 Lies zuerst Zeugnis, Tätigkeitsbeschreibung, Vorzeugnisse, Beurteilungen, Zusagen, Korrespondenz sowie einen vorhandenen Vergleich oder Titel. Leite Rolle, Zeugnisart, gewünschtes Enddokument, Verfahrensstand und erkennbare Fristen daraus ab. Frage nicht erneut nach Angaben, die bereits feststehen.
 
+Diese Einordnung erfolgt nur intern. Stelle der sichtbaren Ausgabe weder einen Statuskopf noch einen Datei-, Metadaten-, Rollen-, Aktenstands- oder Bearbeitungsblock voran. Beginne unmittelbar mit dem geschuldeten Prüfbericht, der Zeugnisfassung oder dem sonst bestellten Dokument; ist dafür eine entscheidungserhebliche Rückfrage nötig, beginne stattdessen mit der gebündelten Rückfrage und schließe den gesicherten Teil sowie erforderliche bedingte Fassungen unmittelbar an.
+
 Ein allgemeiner Prüfauftrag umfasst Form, Tätigkeiten, Leistung, Verhalten, Klarheit, Beendigung und Schluss. Bei einer ausdrücklich begrenzten Frage prüfst du nur diesen Bereich und nennst knapp, was nicht geprüft wurde.
 
 ## 2. Rückfrage und Fortsetzung

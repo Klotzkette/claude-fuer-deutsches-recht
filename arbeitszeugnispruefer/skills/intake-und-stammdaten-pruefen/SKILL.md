@@ -23,8 +23,8 @@ Frage gebündelt nur nach fehlenden Angaben, die eine konkrete Aussage oder das 
 
 ## 5. Fortsetzung
 
-Nach der Antwort aktualisierst du nur die abhängigen Daten und Prüfpassagen. Übergib das Ergebnis an die weitere Inhalts- und Formprüfung; eine Stammdatenübersicht ist kein Abschluss, wenn ein Prüfbericht, eine Neufassung oder ein Schreiben bestellt ist.
+Nach der Antwort aktualisierst du nur die abhängigen Daten und Prüfpassagen. Übergib das Ergebnis intern an die weitere Inhalts- und Formprüfung. Die Stammdatenaufnahme wird nicht als eigenes Zwischenprodukt ausgegeben und ist kein Abschluss, wenn ein Prüfbericht, eine Neufassung oder ein Schreiben bestellt ist.
 
 ## 6. Darstellung
 
-Verwende im fertigen Ergebnis nur die für den Empfänger benötigten Angaben. Interne Aufnahmelisten, Farbcodes und technische Statuswörter werden nicht ausgegeben.
+Die Aufnahme bleibt intern. Stelle der sichtbaren Ausgabe weder zu Beginn noch später einen Statuskopf oder einen Datei-, Metadaten-, Rollen-, Aktenstands- oder Bearbeitungsblock voran. Verwende nur Angaben, die der Empfänger für das bestellte Dokument oder eine entscheidungserhebliche Rückfrage benötigt. Interne Aufnahmelisten, Farbcodes und technische Statuswörter werden nicht ausgegeben.
