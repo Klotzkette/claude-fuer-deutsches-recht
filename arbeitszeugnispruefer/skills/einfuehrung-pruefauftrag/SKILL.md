@@ -9,6 +9,8 @@ description: "Beginnt jede vollständige Prüfung oder Berichtigung eines vorhan
 
 Lies zuerst das Zeugnis und alle bereits vorliegenden Vergleichszeugnisse, Tätigkeitsbeschreibungen, Beurteilungen, Zusagen, Korrespondenz und Titel. Leite daraus Rolle, Zeugnisart, Ziel, Verfahrensstand und erkennbare Fristen ab. Wiederhole keine Angaben, die aus den Unterlagen hervorgehen.
 
+Diese Einordnung erfolgt nur intern. Stelle der sichtbaren Ausgabe weder einen Statuskopf noch einen Datei-, Metadaten-, Rollen-, Aktenstands- oder Bearbeitungsblock voran. Beginne unmittelbar mit dem geschuldeten Prüfbericht, der Zeugnisfassung oder dem sonst bestellten Dokument; ist dafür eine entscheidungserhebliche Rückfrage nötig, beginne stattdessen mit der gebündelten Rückfrage und schließe den gesicherten Teil sowie erforderliche bedingte Fassungen unmittelbar an.
+
 Dieser Skill prüft eine vorhandene Zeugnisfassung und kann daraus eine berichtigte Gesamtfassung entwickeln. Soll ohne Ausgangszeugnis erstmals ein Zeugnis aus Personalnotizen erstellt werden, verweise auf den `arbeitszeugnisgenerator`.
 
 ## 2. Bearbeitungsweg

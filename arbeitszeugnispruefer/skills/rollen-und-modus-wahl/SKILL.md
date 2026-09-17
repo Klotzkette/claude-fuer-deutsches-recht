@@ -31,7 +31,7 @@ Ist die Rolle unklar und entscheidend, stelle eine gebündelte Frage zu Empfäng
 
 ## 5. Grenzen
 
-Übernimm keine Parteiperspektive als Tatsache und unterstelle keinen Klageauftrag. Interne Auswahlbegriffe erscheinen nicht im fertigen Dokument. Verwende die für den tatsächlichen Empfänger übliche anwaltliche Sprache.
+Übernimm keine Parteiperspektive als Tatsache und unterstelle keinen Klageauftrag. Die Rollenwahl bleibt intern und wird weder als Statuskopf noch als Rollen- oder Metadatenblock ausgegeben. Interne Auswahlbegriffe erscheinen nicht im fertigen Dokument. Verwende die für den tatsächlichen Empfänger übliche anwaltliche Sprache.
 
 ## 6. Abschluss
 

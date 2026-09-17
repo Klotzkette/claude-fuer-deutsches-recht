@@ -307,6 +307,16 @@ def quickstart_section(plugin_name: str, directory: Path) -> str:
     title = readme_title(directory, plugin_name)
     product = first_product(directory, plugin_name)
     detail = relative_link(directory, REPO / "skills-index" / f"{plugin_name}.md")
+    start_rule = (
+        "Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen "
+        "Belegfragen. Stelle der sichtbaren Ausgabe weder einen Statuskopf noch einen Datei-, "
+        "Metadaten-, Rollen-, Aktenstands- oder Bearbeitungsblock voran. Beginne unmittelbar mit "
+        f"folgendem Arbeitsschritt: {product}."
+        if plugin_name == "arbeitszeugnispruefer"
+        else "Erfasse zuerst Dateinamen und Metadaten im ausgewählten Ordner. Lies zunächst die für "
+        "den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. "
+        f"Beginne mit folgendem Arbeitsschritt: {product}."
+    )
     question_rule = (
         "Stelle nur entscheidungserhebliche Rückfragen gebündelt und nenne ihre Folgen. "
         "Bearbeite zugleich alle davon unabhängigen Teile; wenn sich später ein neuer entscheidender "
@@ -325,7 +335,7 @@ def quickstart_section(plugin_name: str, directory: Path) -> str:
 
 Startsatz für {title}:
 
-> Erfasse zuerst Dateinamen und Metadaten im ausgewählten Ordner. Lies zunächst die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: {product}. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. {question_rule}
+> {start_rule} Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. {question_rule}
 
 Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen."""
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "arbeitszeugnispruefer",
-  "reviewed_on": "2026-09-15",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
@@ -40,25 +40,27 @@
     }
   ],
   "mini_review": {
-    "sha256": "82f1d7f9e4b05df95fa57ea35bf8e0ef993c08ef31a1e4d83b1dcbce20d20584",
+    "sha256": "bd3df61b5c67af863ec0a6fa742d7cc2a0b2576680fdef49eb3dbd8e98fdb6e2",
     "verdict": "revised",
     "reason": "Vollständig neu gefasst: Der Schnellstart liest Unterlagen zuerst, verzweigt nach Rolle und Ziel, behandelt Rückfragen als Zwischenstufe und führt jeden Auftrag bis zum bestellten Dokument fort.",
     "changes": [
       "Abbruchregeln und interne Werkstattbegriffe entfernt.",
       "Rückfrage-, Varianten- und Fortsetzungslogik verbindlich gemacht.",
       "Starre Geheimcode-, Schlussformel- und Personenreihenfolgeregeln durch eine kontextbezogene Prüfung ersetzt.",
-      "Prüfbericht, Neufassung, Berichtigungsaufforderung sowie Gerichts- und Arbeitgeberzweig mit jeweils eigenem Abschluss definiert."
+      "Prüfbericht, Neufassung, Berichtigungsaufforderung sowie Gerichts- und Arbeitgeberzweig mit jeweils eigenem Abschluss definiert.",
+      "Vorgelagerte Status-, Rollen-, Datei- und Metadatenköpfe ausgeschlossen."
     ]
   },
   "workshop_review": {
-    "sha256": "cbb931f86d4f1ac0e0c206d0331f15ae95857414b7a74dc37b5f17dba82ae404",
+    "sha256": "1e3ae7b9706e48132d4d01d0dada400416e929e0b65c2718703fae6a558710fc",
     "verdict": "revised",
     "reason": "Die Werkstatt wurde vollständig redigiert und bewusst unterhalb der generischen Mindestgröße gehalten, weil eine knappe fachliche Bearbeitungsfolge die frühere Wiederholung von Gerüsten und Praxisrouten ersetzt.",
     "changes": [
       "Unterlagenlektüre, Rückfragen, Verzweigungen und Fortsetzung in einer einheitlichen Bearbeitungsfolge verbunden.",
       "Empfänger- und produktbezogene Abschlüsse statt wiederholter Zwischenprodukte festgelegt.",
       "Fachliche Regeln zu Note, Klarheit, Auslassungen, Form und Schlussformel kontextbezogen gefasst.",
-      "Technische Ausführungsgrenzen und externe Freigabegrenze erhalten."
+      "Technische Ausführungsgrenzen und externe Freigabegrenze erhalten.",
+      "Vorgelagerte Status-, Rollen-, Datei- und Metadatenköpfe ausgeschlossen."
     ]
   },
   "selection": {
@@ -144,6 +146,14 @@
         {
           "id": "C04",
           "text": "Keine Datei endet mit einem bloßen Menü, einer pauschalen Ampelbewertung oder dem Angebot, das bestellte Dokument erst später zu erstellen.",
+          "deliverables": [
+            "pruefbericht.md",
+            "aufforderung.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Keine Ausgabe beginnt mit einem Status-, Rollen-, Datei- oder Metadatenblock. Die entscheidungserhebliche Rückfrage führt unmittelbar in den gesicherten Berichtsteil und die bedingten Fassungen.",
           "deliverables": [
             "pruefbericht.md",
             "aufforderung.md"
