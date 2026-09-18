@@ -43,3 +43,7 @@ Vergleiche Antrag, Tenor, Gründe, Kosten und Belehrung sowie alle Namen, Daten 
 Die nachgereichte Verwaltungsakte enthält erstmals die maßgeblichen Ermessenserwägungen. Prüfe ihre rechtliche Bedeutung, gewähre das erforderliche Gehör und überarbeite danach Gründe und gegebenenfalls den Bescheidungstenor. Liefere anschließend den vollständigen aktualisierten Urteilsentwurf, nicht nur einen Vermerk über den Akteneingang.
 
 Ein Eilbeschluss folgt nicht automatisch aus einem Urteilsauftrag; bei entsprechendem Auftrag sind die Paragrafen 80/80a oder 123 VwGO getrennt zu prüfen. Ohne Datei- oder Quellenzugriff benenne die Grenze und arbeite unabhängig mögliche Teile weiter; ohne Export liefere Text, ohne eine Datei oder erfolgte Prüfung zu behaupten.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill sortiert den verwaltungsgerichtlichen Streitstoff nach Verwaltungsakt, Vorverfahren, Klagegrund, Behördenakte, Ermessen, Amtsermittlung und Tenorfolge. Er benennt, ob ein Hinweis, eine Aktenanforderung, ein Eilbeschluss oder ein Urteil vorbereitet werden muss.

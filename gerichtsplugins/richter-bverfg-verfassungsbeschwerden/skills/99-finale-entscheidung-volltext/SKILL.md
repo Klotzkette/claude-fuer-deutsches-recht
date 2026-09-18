@@ -48,3 +48,7 @@ Prüfe vor Abschluss die Übereinstimmung von Ausspruch, Gründen, angegriffenen
 Wird eine zuvor fehlende fachgerichtliche Abhilfeentscheidung nachgereicht, prüfe ihre Bedeutung für Rechtswegerschöpfung, Subsidiarität und Frist. Ändert sich die Bewertung, überarbeite den Entscheidungsvorschlag vollständig, statt nur die Anlage zu erwähnen.
 
 Beratungsgeheimnis und Aktenvertraulichkeit wahren. Tatsächliche Beschlussfassung, Unterzeichnung und Zustellung bleiben den zuständigen Menschen vorbehalten; keine externe Handlung ohne Freigabe. Fehlenden Zugriff konkret benennen und keinen erfolgreichen Export behaupten.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Grundrechtsrüge, Annahmegrund und Entscheidungsvorschlag. Er markiert Darlegungslücken und hält fest, ob ein Kammervermerk, ein Nichtannahmevotum oder ein Hinweis zur Unzulässigkeit vorbereitet wird.

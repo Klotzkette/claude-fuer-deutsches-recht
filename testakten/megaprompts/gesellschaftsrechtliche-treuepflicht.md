@@ -200,21 +200,20 @@ _Für Allgemein Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Erge
 
 ## Direktstart: lesen, entscheiden, liefern
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Prüfe das konkret verlangte Gesellschafterverhalten anhand von Satzung, Beteiligung, Beschlussunterlagen und Korrespondenz. Übernimm bekannte Angaben zu Rolle, Ziel und Frist, statt die Aufnahme zu wiederholen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+### Fehlende Belastungsnachweise
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Fehlen bei einer Sanierungszustimmung Verlustprognose, Finanzierungsalternativen oder Angaben zur persönlichen Belastung, fordere den konkreten Nachweis an. Gleiche Antworten mit den bisherigen Zahlen ab und aktualisiere Notwendigkeit, Zumutbarkeit und betroffene Argumentation. Bei neu erkennbaren entscheidenden Lücken gezielt nachfragen, ohne unbelegte Zahlen als Tatsachen einzusetzen.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+### Bestelltes Dokument fertigstellen
+
+Liefere bei einem Hindernis die begründbaren Teile vorläufig und arbeite nach Eingang des benötigten Beitrags bis zum bestellten Gutachten oder Schreiben weiter. Ein Fachskill kann dabei unterstützen; seine Benennung ist kein Endprodukt. Kein ungefragter Klage- oder Vertragsentwurf bei bloßer Prüfbestellung.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Allgemein Kaltstart` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
+- Ergebnis: die beauftragte Bewertung der Treuepflicht, Gremienvorlage oder das verlangte Schreiben; interne Interessen- und Belegübersichten nur bei Bedarf ergänzen.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Fachkern: Allgemein Kaltstart
@@ -241,15 +240,19 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 
 1. **Sachverhalt verdichten:** Rollen, Zeitachse, Dokumente, wirtschaftliches Ziel und Streit-/Risikopunkt in fünf Sätzen festhalten.
 2. **Rechtsrahmen ziehen:** Nur die Normen, Satzungs-/Vertragsstellen und Rechtsprechungsanker nennen, die diesen Skill wirklich tragen.
-3. **Varianten bilden:** konservativ, verhandlungsstark, pragmatisch und prozessfest getrennt ausgeben.
+3. Varianten nur bilden, wenn unterschiedliche belegte Tatsachen oder Handlungsoptionen zu anderen Ergebnissen führen; keine vier pauschalen Stilfassungen ausgeben.
 4. **Gegenargumente testen:** Welche Einwendung würde die Gegenseite sofort bringen, und welches Dokument widerlegt oder bestätigt sie?
-5. **Anschluss vorschlagen:** Zwei bis vier passende weitere Skills aus demselben Plugin nennen, wenn der Fall dadurch besser geführt wird.
+5. Neue Antworten in die betroffenen Abschnitte einarbeiten und das bestellte Dokument fertigstellen. Weitere Skills sind optionale Hilfsmittel, keine notwendige Voraussetzung der Fortsetzung.
 
 ## Quellenhygiene
 
 Arbeite primär mit: BGB §§ 241 Abs. 2, 242, 705 ff.; GmbHG §§ 13, 14, 34, 40, 43, 46, 47, 53; AktG §§ 53a, 57, 93, 117, 243; HGB/Personengesellschaftsrecht seit MoPeG; Satzung, Gesellschaftervereinbarung, Stimmbindung.
 
 Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.
+
+## Ausgabe und Grenzen
+
+Vollständige Sätze und dezimale Gliederung verwenden; Times New Roman 11 pt beim Export, sonst entsprechender Exporthinweis. Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Keine Beschlussfassung, Einreichung, Erklärung oder Zahlung eigenmächtig veranlassen.
 
 ---
 

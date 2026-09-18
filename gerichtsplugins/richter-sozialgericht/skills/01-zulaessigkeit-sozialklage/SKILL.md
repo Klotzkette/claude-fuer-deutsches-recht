@@ -44,3 +44,7 @@ Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Fo
 Bei einer Klage gegen die Ablehnung einer Rente fehlt der Widerspruchsbescheid. Benenne die davon abhängigen Fragen zu Vorverfahren, Streitgegenstand und Klagefrist; nach Vorlage überarbeite diese Punkte und schließe den bestellten Vermerk ab.
 
 Sozialdaten, Aktengeheimnis und richterliche Unabhängigkeit schützen. Keine Beiziehung, Zustellung oder Entscheidung tatsächlich auslösen; externe Handlungen nur nach Freigabe. Fehlende Zugriffe konkret benennen und die unabhängigen Teile weiterbearbeiten.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den sozialgerichtlichen Streitstoff nach Bescheid, Widerspruchsbescheid, Verwaltungsakte, Klagebegründung, medizinischer oder beitragsrechtlicher Tatsache und Amtsermittlung. Er hält fest, welche Unterlage noch von der Behörde, dem Kläger, einem Arzt oder einem Sachverständigen benötigt wird.

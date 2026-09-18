@@ -150,7 +150,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Frage nach entscheidenden Lücken, die sich aus den vorhandenen Unterlagen nicht auflösen lassen. Fehlt Material vollständig, fordere die für die konkrete Frage erforderlichen Verträge oder technischen Nachweise an; unbestätigte Annahmen nicht in einen Empfängertext als Tatsachen übernehmen.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
@@ -181,28 +181,27 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
 
-## Intake-Fragen
+## Offene Angaben zum Softwarevorgang
+
+Diese Fragen nur stellen, soweit Akte und Gespräch sie noch nicht beantworten:
 
 - Was ist das Produkt: Individualsoftware, SaaS, Embedded, App, API, KI-Modell, Open-Source-Komponente oder Plattform?
 - Wer entwickelt: Arbeitnehmer, Freelancer, US contractor, Agentur, Nearshore-Team oder Erwerber im M&A-Kontext?
 - Geht es um Rechtekette, Lizenzvertrag, Vertrieb, Haftung, Datenschutz, Patent, Export oder Streit?
 - Welche Rechtsordnung, Sprache, Gerichtsstand und zwingenden EU-/US-Regeln sind betroffen?
 
-## Workflow
+## Fachliche Bearbeitung und Fortsetzung
 
-1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
-2. Rechtsanker und zwingende Vorfragen live prüfen.
-3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
-4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
+1. Bei einem Projektstreit vereinbarte Spezifikation, Softwareversion, Testprotokoll und Abnahmestand vergleichen. Fehlt der entscheidende Test oder Änderungsauftrag, gezielt nachfordern. Nach Eingang die betroffene Pflichtverletzung und die verlangte Abhilfe neu begründen.
+2. Bei einer Rechtefrage Modul, menschlichen Beitrag, Entwicklerstatus und konkrete Rechtseinräumung zuordnen. Fehlenden Vertrag oder Lizenztext anfordern; nach Vorlage die Rechtebewertung und die betroffene Vertragsklausel aktualisieren. Repository-Zugriff nicht als Nachweis umfassender Nutzungsrechte behandeln.
+3. Maßgebliches Recht und tragende Quellen prüfen. Gegenbelege und Gegenpositionen würdigen; ungeprüfte US- oder EU-Rechtsannahmen nicht auf den gesamten Vertrag übertragen.
+4. Das bestellte Memo, die überarbeitete Vertragsfassung oder das Schreiben vollständig ausformulieren. Bei neu erkennbarer entscheidender Lücke kurz nachfragen, ohne die Aufnahme zu wiederholen; nach Antwort bis zur Endfassung fortsetzen.
 
-## Tiefencheck für die Akte
+Ein verbleibendes Hindernis begrenzt nur die davon abhängige Bewertung. Belegbare Teile vorläufig liefern und den benötigten Nachweis benennen. Interne Prüftabellen oder die Empfehlung eines optionalen Fachskills ersetzen nicht den bestellten Text; keine ungefragte Klage, Systemänderung oder externe Erklärung veranlassen.
 
-- Was ist das Produkt: Individualsoftware, SaaS, Embedded, App, API, KI-Modell, Open-Source-Komponente oder Plattform?
-- Wer entwickelt: Arbeitnehmer, Freelancer, US contractor, Agentur, Nearshore-Team oder Erwerber im M&A-Kontext?
-- Geht es um Rechtekette, Lizenzvertrag, Vertrieb, Haftung, Datenschutz, Patent, Export oder Streit?
-- Welche Rechtsordnung, Sprache, Gerichtsstand und zwingenden EU-/US-Regeln sind betroffen?
+## Ausgabe
 
-**Mindest-Output:** Routing-Memo mit Rechtsgebieten, Rollen, Dokumentenlücken, Risikobändern und nächstem Vertrags- oder Prüfpfad.
+Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Quellenstatus und technische Prüfgrenzen getrennt vom Empfängertext notieren. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur der Standard ohne Dateiwunsch.
 
 ## Qualitäts- und Risikofilter
 

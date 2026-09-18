@@ -44,3 +44,7 @@ Kontrolliere die Übereinstimmung von Anmeldung, Urkunden, Gründen und Verfügu
 Wird ein zunächst fehlender Vertretungsnachweis vorgelegt, prüfe seinen Inhalt und ändere die Zwischenverfügung nicht bloß redaktionell: Entscheide im Entwurf, ob die Anmeldung nun eintragungsreif ist oder welches konkrete Hindernis verbleibt.
 
 Aktengeheimnis und richterliche Unabhängigkeit wahren; Unterzeichnung und Registervollzug bleiben den zuständigen Menschen vorbehalten. Externe Übermittlung nur nach ausdrücklicher Freigabe. Fehlende Zugriffe und nicht erzeugte Dateien offen benennen.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkunde, Vertretungsnachweis, Registerstand, Eintragungshindernis und Zwischenverfügung. Er trennt behebbare Formmängel von materiellen Hindernissen und benennt die nächste Registerverfügung.

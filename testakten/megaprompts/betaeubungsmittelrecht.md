@@ -139,71 +139,41 @@ Ausgangspunkt für dieses Plugin: Tatnachweis beim Staat; Verteidigung markiert 
 
 _Für Betäubungsmittelrecht - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Betäubungsmittelrecht - Allgemeiner Einstieg
+# 1 Betäubungsmittelrechtlichen Vorgang bearbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+Lies den vorhandenen Auftrag und die einschlägigen Unterlagen, bevor du nachfragst. Unterscheide Strafverteidigung, Therapie und Vollstreckung, ärztliche Verschreibung, Apothekenbetrieb und betriebliche Erlaubnis. Liefere das dazu bestellte Ergebnis; ein Gutachtenauftrag ist kein Auftrag für einen Rechtsbehelf.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1 Stoff, Tätigkeit und Beleg bestimmen
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Ermittle Stoff, Zubereitung, Zeitpunkt, Umgangsform und beteiligte Personen. Prüfe zuerst, ob BtMG, KCanG oder MedCanG einschlägig ist. Ordne Sicherstellungsprotokoll, Wirkstoffgutachten, Erlaubnis oder Verschreibung dem konkreten Vorgang zu. Nettomenge, Wirkstoffgehalt und Tatzuordnung getrennt behandeln, nicht sämtliche Funde pauschal addieren.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Bei einem Strafvorwurf Tatnachweis, belastende und entlastende Beweise sowie Verwertungsfragen prüfen. Haft, unmittelbar bevorstehende Vernehmung und Rechtsmittelfrist zuerst bearbeiten, ohne unabhängige Prüfungen einzustellen. Keine Einlassung erfinden und keine Beweisbeseitigung empfehlen.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2 Lücken klären und den Entwurf fortführen
 
-## Normenanker
+Fehlt ein Wirkstoffbefund, fordere den zugehörigen Laborbericht und die Asservatzuordnung an. Berechne bis dahin keine Wirkstoffmenge mit erfundener Reinheit. Nach Eingang Messgröße und Probenumfang prüfen, Rechnung aktualisieren und die betroffenen Tatbestands- und Rechtsfolgenausführungen neu fassen.
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Bei einer Apothekenabweichung den fehlenden Wareneingangs-, Abgabe- oder Vernichtungsbeleg erfragen, statt sofort unerlaubte Weitergabe anzunehmen. Nach Antwort Bestand erneut abstimmen und die verlangte Stellungnahme fertigschreiben. Bei Therapiefragen Aufnahmebestätigung und Kostenzusage getrennt prüfen; nachgereichte Unterlagen müssen die jeweilige Voraussetzung tatsächlich belegen.
 
-- `§ 1 BtMG` — Betäubungsmittelbegriff und Anlagenbezug.
-- `§ 3 BtMG` — Erlaubnispflicht.
-- `§ 29 Abs. 1 BtMG` — Grundtatbestaende.
-- `§ 29a Abs. 1 BtMG` — nicht geringe Menge/Abgabe an Minderjaehrige.
-- `§ 30 Abs. 1 BtMG` — Verbrechenstatbestaende.
-- `§ 30a Abs. 1 BtMG` — bewaffnete/organisierte Konstellationen.
-- `§ 31 BtMG` — Aufklaerungshilfe.
-- `§ 35 BtMG` — Zurueckstellung der Strafvollstreckung.
-- `§ 36 BtMG` — Anrechnung Therapie.
-- `§ 94 StPO` — Sicherstellung/Beschlagnahme.
+Rückfragen auf entscheidende Lücken richten und nach neuen Antworten erforderlichenfalls kurz fortsetzen. Bekanntes nicht erneut erheben. Bei ausbleibendem Beleg tragfähige Teile liefern und den offenen Schluss genau kennzeichnen; nach Klärung bis zum bestellten Vermerk, Antrag oder Brief weiterarbeiten.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+## 1.3 Normen passend zum Vorgang prüfen
 
-## Startfragen
+Maßgebliche Fassung anhand amtlicher Quellen prüfen:
 
-1. Wer nutzt das Plugin: Laie, Verband, Kanzlei, Behörde, Unternehmen, Presse, Verwaltung oder Fachabteilung?
-2. Welche Entscheidung steht jetzt an und welche Frist läuft?
-3. Welche Dokumente liegen vor, welche fehlen und welche Quelle muss live geprüft werden?
-4. Welche Behörde, welches Gericht, welches Register oder welcher private Akteur ist betroffen?
-5. Soll am Ende ein Antrag, ein Widerspruch, eine Klage-/Eilantragslinie, ein Dashboard, ein Memo oder ein Schreiben entstehen?
+- Paragraf 1 BtMG für Stoff- und Anlagenbezug, Paragraf 3 BtMG für Erlaubnisse.
+- Paragraf 29 Absatz 1 und Paragraf 29a Absatz 1 BtMG für die jeweils behauptete Umgangsform und Qualifikation.
+- Paragraf 30 Absatz 1 BtMG sowie Paragraf 30a BtMG für die konkret behaupteten erschwerenden Umstände; Bandenbezug nach Absatz 1 und Waffenbezug nach Absatz 2 Nummer 2 des Paragrafen 30a nicht vermischen.
+- Paragraf 31 BtMG für Aufklärungshilfe sowie Paragrafen 35 und 36 BtMG für Zurückstellung und Therapieanrechnung.
+- Paragraf 94 StPO für Sicherstellung und Beschlagnahme; Rechtmäßigkeit und Verwertbarkeit getrennt prüfen.
 
-## Workflow
+Zahlenwerte zur nicht geringen Menge nur mit einschlägiger verifizierter Rechtsprechung verwenden. Entscheidungen mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle belegen, nicht aus ungeprüften Datenbankfundstellen ergänzen.
 
-1. Sachverhalt in Akte, Normpfad, Zuständigkeit, Frist, Beweis und Ziel zerlegen.
-2. Die einschlägige Norm nicht aus dem Gedächtnis final behaupten, sondern als Live-Check gegen amtliche Quelle markieren.
-3. Ablehnungs-, Kosten-, Zuständigkeits- und Beweisrisiken offen in einer Ampel führen.
-4. Bei Mehr-Ebenen-Recht immer Bund, Land, Kommune, EU/international und Spezialgesetz trennen.
-5. Ausgabe mit konkretem nächsten Schritt, offenen Rückfragen und einer kurzen Fassung für Nichtjuristen schließen.
+## 1.4 Ergebnis und Grenzen
 
-## Typische Ausgaben
+Formuliere das beauftragte Dokument vollständig, mit der notwendigen Mengenrechnung oder Beweiszuordnung, aber ohne Pflichtausgabe interner Prüflisten. Quellenstand und offene Recherche in einer getrennten Arbeitsnotiz festhalten; einen Mandantenbrief verständlich und ohne interne Prüfbegriffe schreiben. Keine Kontaktaufnahme, Einreichung oder sonstige Außenhandlung ohne ausdrückliche Freigabe. Dezimale Gliederung und vollständige Sätze; Exportstandard Times New Roman 11 pt.
 
-- Prüfvermerk mit Normpfad und Live-Check-Liste
-- Fristen- und Zuständigkeitsmatrix
-- Entwurf für Antrag, Widerspruch, Klagebaustein oder Behördenbrief
-- Dashboard-/Tracker-Eintrag mit Status, Risiko und nächster Aktion
-
-## Red Flags
-
-- blindes Zitieren nicht verifizierter Rechtsprechung oder alter Gesetzesstände
-- falsche Behörde, falscher Rechtsweg oder unbemerkte Spezialzuständigkeit
-- Gebühren-, Frist-, Präklusions-, Geheimschutz-, Datenschutz- oder Drittbetroffenenproblem
-- politisch klingende Bewertung ohne saubere Rechtsgrundlage und Beleglogik
-
-## Quellen- und Qualitätsregel
-
-Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen mit Datum/Aktenzeichen und frei prüfbaren Quellen arbeiten. Literatur, Datenbanken hinter Paywalls und Fundstellen ohne Nutzerquelle nicht behaupten. Wenn Landesrecht, EU-Recht oder ausländisches Recht berührt ist, den Rechtsstand ausdrücklich live prüfen und die Ausgabe als Arbeitsfassung kennzeichnen.
+Nur zugängliche Unterlagen verwenden und fehlende Seiten konkret benennen. Technische Fehler lassen nur den abhängigen Schritt offen; ohne Exportmöglichkeit den vollständigen Text liefern. Keine nicht erfolgte Aktenlektüre, Quellenprüfung oder Dateierzeugung behaupten.
 
 ---
 

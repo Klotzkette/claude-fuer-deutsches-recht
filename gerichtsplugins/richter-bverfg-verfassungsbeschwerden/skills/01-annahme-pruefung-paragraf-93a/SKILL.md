@@ -50,3 +50,7 @@ Nutzerdateinamen gehen vor; `ergebnis.md` ist nur eine Ausweichbezeichnung. Form
 Wird eine Gehörsverletzung behauptet, gleiche den bezeichneten Vortrag mit Entscheidung und fachgerichtlichem Abhilfeverfahren ab. Nach Vorlage einer zunächst fehlenden Entscheidung überarbeite Subsidiaritätsprüfung und Annahmevotum, statt nur einen weiteren Skill zu empfehlen.
 
 Beratungsgeheimnis, Aktenvertraulichkeit und richterliche Unabhängigkeit wahren. Entscheidung, Abstimmung, Unterzeichnung oder Zustellung nicht simulieren; externe Handlungen nur nach ausdrücklicher Freigabe. Fehlende Zugriffe konkret benennen und davon unabhängige Teile weiterbearbeiten.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Grundrechtsrüge, Annahmegrund und Entscheidungsvorschlag. Er markiert Darlegungslücken und hält fest, ob ein Kammervermerk, ein Nichtannahmevotum oder ein Hinweis zur Unzulässigkeit vorbereitet wird.

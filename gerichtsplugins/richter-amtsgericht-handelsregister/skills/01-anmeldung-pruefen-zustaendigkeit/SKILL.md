@@ -50,3 +50,7 @@ Bei entscheidenden Lücken die belastbaren Teile als vorläufigen Entwurf liefer
 Fehlt bei einem Geschäftsführerwechsel der Bestellungsbeschluss, entwirf die konkrete Nachforderung. Nach seiner Vorlage gleiche Bestellungsdatum und Vertretungsregel mit der Anmeldung ab und vervollständige die gewünschte Eintragungsverfügung oder begründe das verbliebene Hindernis.
 
 Aktengeheimnis, richterliche Unabhängigkeit und menschliche Letztentscheidung wahren. Keine Unterschrift, Eintragung oder Einleitung eines Verfahrens simulieren; externe Handlungen bedürfen ausdrücklicher Freigabe. Unlesbare Unterlagen oder fehlende Zugriffe konkret benennen und die unabhängigen Teile weiterbearbeiten.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkunde, Vertretungsnachweis, Registerstand, Eintragungshindernis und Zwischenverfügung. Er trennt behebbare Formmängel von materiellen Hindernissen und benennt die nächste Registerverfügung.

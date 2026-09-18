@@ -39,3 +39,7 @@ Beachte die Ausformulierungspflicht und den Formatstandard: vollständige Sätze
 Ein Umgangsantrag enthält unterschiedliche Angaben zum Aufenthaltsort und ein Jugendamtsbericht fehlt. Kläre den zuständigkeitsrelevanten Aufenthalt anhand der vorhandenen Akte beziehungsweise gezielter Nachfrage und bereite die erforderliche Anhörungsverfügung vor. Nach Eingang von Bericht und Anhörungsergebnis arbeite die verlangte Umgangsentscheidung aus, ohne ungeklärte Aussagen als Feststellungen zu übernehmen.
 
 Der Skill 02-ehesache-scheidung-paragraf-1565 ist nur bei einer passenden Ehesache eine optionale Vertiefung, keine notwendige Folgestation jedes Familienverfahrens. Fehlende Werkzeuge hindern nur abhängige Schritte; ohne Export liefere Text und behaupte keine Datei oder Prüfung, die nicht erzeugt beziehungsweise durchgeführt wurde.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.

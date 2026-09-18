@@ -142,16 +142,15 @@ _Für Haushaltsrecht BHO Bund und Länder - Allgemeiner Einstieg: routet Rolle, 
 
 ## Direktstart: lesen, entscheiden, liefern
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Prüfe die konkrete Ausgabe, Verpflichtung oder Wirtschaftlichkeitsentscheidung aus Haushaltsplan, Titelvermerken, Bewirtschaftungsstand und Vertragsunterlagen. Nutze bekannte Angaben zu Haushaltsebene, Jahr und Dokumentwunsch, statt sie erneut abzufragen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+### Fehlende Zahlungs- und Bindungsdaten
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Fordere einen fehlenden Zahlungsplan oder Stand offener Bindungen konkret an. Gleiche neue Angaben mit bereits geleisteten Ausgaben ab, rechne verfügbaren Betrag und Folgejahresbedarf neu und arbeite den bestellten Vermerk fertig. Bei neu erkennbaren entscheidenden Lücken gezielt weiterfragen; eine vorhandene Tabelle belegt nicht automatisch eine Ermächtigung.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+### Vergleichsrechnung fortführen
+
+Fehlen Betriebskosten oder Nutzungsdauer einer Alternative, frage nach dem betroffenen Eingabewert und seiner Grundlage. Aktualisiere nach Eingang Vergleichsrechnung und Empfehlung. Ein passender Fachskill ist eine optionale Hilfe, seine Benennung kein Endprodukt; fehlende Werte nicht mit Null ersetzen.
 
 ## Normenanker
 
@@ -181,16 +180,15 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 1. Sachverhalt in Akte, Normpfad, Zuständigkeit, Frist, Beweis und Ziel zerlegen.
 2. Die einschlägige Norm nicht aus dem Gedächtnis final behaupten, sondern als Live-Check gegen amtliche Quelle markieren.
-3. Ablehnungs-, Kosten-, Zuständigkeits- und Beweisrisiken offen in einer Ampel führen.
+3. Risiken mit konkreter Auswirkung auf Ermächtigung, Kosten oder Entscheidung benennen; keine interne Ampel als Pflichtausgabe.
 4. Bei Mehr-Ebenen-Recht immer Bund, Land, Kommune, EU/international und Spezialgesetz trennen.
-5. Ausgabe mit konkretem nächsten Schritt, offenen Rückfragen und einer kurzen Fassung für Nichtjuristen schließen.
+5. Nachgereichte Angaben einarbeiten und das bestellte Ergebnis vollständig formulieren. Bei einem Hindernis den begründbaren Teil vorläufig liefern und nach Eingang des benötigten Beitrags fortsetzen.
 
-## Typische Ausgaben
+## Ausgabe nach Auftrag
 
-- Prüfvermerk mit Normpfad und Live-Check-Liste
-- Fristen- und Zuständigkeitsmatrix
-- Entwurf für Antrag, Widerspruch, Klagebaustein oder Behördenbrief
-- Dashboard-/Tracker-Eintrag mit Status, Risiko und nächster Aktion
+Liefere den bestellten Prüfvermerk, die Wirtschaftlichkeitsuntersuchung, den Bescheidentwurf oder die ausdrücklich gewünschte Übersicht. Ein Prüfauftrag verlangt keine ungefragte Klage oder Kassenanordnung. Rechenanlagen ergänzen die vollständige Begründung; technische Grenzen und Quellenstatus stehen getrennt vom Empfängertext.
+
+Dezimale Gliederung und Times New Roman 11 pt beim Export, sonst entsprechender Exporthinweis. Keine Mittelbindung, Zahlung oder Bescheidversendung eigenmächtig veranlassen.
 
 ## Red Flags
 

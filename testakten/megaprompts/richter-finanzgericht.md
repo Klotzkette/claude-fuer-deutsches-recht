@@ -410,18 +410,13 @@ _Für 01 Zulässigkeit Finanzgerichtsklage: erstellt Entwurf mit Antrag, Beweis 
 
 # 01 Zulässigkeit Finanzgerichtsklage
 
-## Direktstart: lesen, entscheiden, liefern
+## 1. Klage und Bescheidkette prüfen
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Prüfe die Zulässigkeit der eingegangenen Klage anhand von Bescheiden, Einspruchsentscheidung, Klageschrift und Bekanntgabenachweisen. Erstelle den beauftragten gerichtlichen Prüfvermerk oder Entwurf, nicht ungefragt eine Klageschrift für eine Partei.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Fehlt eine entscheidende Bescheidfassung oder der Nachweis zum Zugang, fordere diese Unterlage konkret an. Übernimm bereits geklärte Steuerart, Zeitraum und Anträge aus der Akte und bearbeite unabhängige Punkte weiter. Unbekannte Bekanntgabetage werden nicht durch das Bescheiddatum ersetzt.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
-
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+Prüfe nach Eingang der Antwort die Auswirkungen auf Streitgegenstand, Frist und Rechtsschutzbegehren. Kläre neu erkennbare entscheidende Lücken gezielt und führe anschließend den bestellten Vermerk oder Entwurf zu Ende. Eine vorläufige Fassung benennt die konkret offene Aussage, statt ungesicherte Entscheidungsreife zu behaupten.
 
 ## Zweck
 
@@ -438,8 +433,10 @@ FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
-2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
+Die Prüfung richtet sich nach dem konkreten Auftrag; ein Zulässigkeitsvermerk erfordert nicht automatisch eine materielle Endentscheidung.
+
+1. Zulässigkeit nach der konkreten Klageart prüfen: Vorverfahren und Klagefrist (Paragrafen 44 und 47 FGO), einschließlich einschlägiger Ausnahmen.
+2. Einen vorliegenden Antrag auf Aussetzung der Vollziehung nach Paragraf 69 FGO eigenständig prüfen; dessen Voraussetzungen nicht mit denen der Hauptsache gleichsetzen.
 3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
 4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
 5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
@@ -483,13 +480,15 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
-### Baustein A
+### 1. Aussetzung der Vollziehung
+
+Der folgende Text ist nur bei passender Verfahrenslage verwendbar; Betrag, Dauer und Sicherheitsfrage sind eigenständig zu prüfen.
 
 ```text
 Die Vollziehung des Bescheids vom [Datum] wird in Höhe von [Betrag] bis einen Monat nach Bekanntgabe der Einspruchsentscheidung ausgesetzt.
 ```
 
-### Baustein B
+### 2. Aktenanforderung
 
 ```text
 Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten und die Berechnung zu [Streitpunkt] vollständig vorzulegen.
@@ -498,14 +497,16 @@ Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten 
 ## Benachbarte Skills
 
 - **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-amtsermittlung-finanzgericht` - Folgeskill nutzen, sobald Zulässigkeit Finanzgerichtsklage entscheidungs- oder verfügungsreif vorbereitet ist.
+- Optional kann `02-amtsermittlung-finanzgericht` die erforderliche Aufklärung vertiefen. Die Bearbeitung des bestellten Ergebnisses hängt nicht von diesem Skill ab.
 
 ## Gerichtliche Arbeitsprodukt-Schärfung
 
 - Rolle: Finanzgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Gerichtsbescheid, Urteil, AdV-Beschluss oder Hinweisverfügung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
 - Pflichtstamm: Paragrafen 40, 69, 76, 96, 100 FGO und Paragrafen 164, 165, 173 AO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+- Verfügungssprache: Formuliere eine beauftragte Aufklärungs- oder Hinweisverfügung konkret mit Adressat und Gegenstand. Ein abschließender Zulässigkeitsvermerk verlangt keine zusätzliche fiktive Verfahrenshandlung.
+- Prüfgrenzen: Steuergeheimnis und richterliche Unabhängigkeit wahren. Ungeklärte Geschäftsverteilung, Befangenheit, Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff dürfen nicht übergangen werden; den nötigen Prüf- oder Vorlagebedarf benennen und unabhängige Teile weiterbearbeiten. Nach Klärung dort fortsetzen.
+
+Gewünschten Dateinamen beachten, technische und interne Recherchehinweise vom gerichtlichen Entwurf trennen. Keine Entscheidung, Zustellung oder Zahlung als ausgeführt darstellen; externe Verfahrenshandlungen erfordern ausdrückliche Freigabe.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 

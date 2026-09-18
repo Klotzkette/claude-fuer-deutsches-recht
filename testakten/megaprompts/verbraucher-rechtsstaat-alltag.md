@@ -336,7 +336,7 @@ _Prüft Bescheide zu steuerlichem Kindergeld, sozialrechtlichem Kindergeld und K
 
 Dieser Skill prüft Ablehnungs-, Aufhebungs-, Änderungs- und Erstattungsbescheide der Familienkasse. Er bestimmt vor jeder Sachprüfung, ob steuerrechtliches Kindergeld nach dem Einkommensteuergesetz, sozialrechtliches Kindergeld nach dem Bundeskindergeldgesetz oder Kinderzuschlag nach dem Bundeskindergeldgesetz betroffen ist. Diese Weiche entscheidet über Anspruchsgrundlage, Verfahren, Rechtsbehelf und Rechtsweg.
 
-Vorhandene Bescheide, Anträge, Nachweise und Zahlungsübersichten sind zuerst vollständig auszulesen. Nur wenn danach eine entscheidende Angabe fehlt, ist höchstens eine gebündelte Rückfrage zu stellen.
+Vorhandene Bescheide, Anträge, Nachweise und Zahlungsübersichten zuerst vollständig auslesen. Fehlen etwa der Ausbildungsnachweis für einen streitigen Monat oder die für den Kinderzuschlag verwendeten Einkommensbelege, genau diese Unterlagen anfordern. Nach Eingang Zeitraum, Anspruch und Berechnung neu abgleichen und die bestellte Rechtsbehelfsbegründung oder Beratung fertigstellen. Ergibt die Antwort einen entscheidenden Widerspruch zum Berechnungsbogen, kurz nachfassen; bereits beantwortete Angaben nicht wiederholen. Auch eine umfangreiche Akte rechtfertigt keine Annahmen über Haushaltsaufnahme oder Zufluss.
 
 ## 2. Verfahrensweiche
 
@@ -371,7 +371,7 @@ Vorhandene Bescheide, Anträge, Nachweise und Zahlungsübersichten sind zuerst v
 
 ## 5. Arbeitsprodukte
 
-Je nach Rolle und Verfahrensstand entsteht unmittelbar eines der folgenden Produkte:
+Auftrag, Rolle und Verfahrensstand bestimmen das benötigte Produkt; nicht alle folgenden Dokumente gleichzeitig erzeugen:
 
 1. ein fristwahrender Einspruch nach der AO oder Widerspruch nach dem SGG mit eindeutigem Antrag, Bescheidbezug und vorbehaltener Begründung;
 2. eine ausformulierte Begründung mit Monatsmatrix, Tatbestandsmerkmalen, Belegen und Gegenargumenten;
@@ -379,7 +379,7 @@ Je nach Rolle und Verfahrensstand entsteht unmittelbar eines der folgenden Produ
 4. ein Antrag auf Aussetzung der Vollziehung oder sozialgerichtlichen Eilrechtsschutz, sofern Einziehung, Aufrechnung oder existenzielle Nachteile konkret drohen;
 5. aus Behördensicht ein Bescheid- oder Abhilfeentwurf mit bestimmtem Verfügungssatz, festgestelltem Sachverhalt, nachvollziehbarer Berechnung, tragender Begründung und zutreffender Rechtsbehelfsbelehrung.
 
-Das Endprodukt ist vollständig ausformuliert. Ein formatiertes Dokument verwendet, soweit technisch möglich, Times New Roman in 11 Punkt und ausschließlich dezimale Gliederung.
+Eine Nachweisliste oder vorläufige Begründung ist nur ein Zwischenstand, wenn die vollständige Begründung bestellt ist. Nach Eingang der Unterlagen betroffene Monate und Beträge aktualisieren und den Text abschließen. Ein Beratungsauftrag führt nicht ungefragt zu einem Eilantrag; Einreichungen nur nach Freigabe. Quellenprüfvermerke und technische Grenzen getrennt vom Empfängertext halten. Das Endprodukt ist vollständig ausformuliert. Ein formatiertes Dokument verwendet, soweit technisch möglich, Times New Roman in 11 Punkt und ausschließlich dezimale Gliederung.
 
 ## 6. Quellenpflicht
 

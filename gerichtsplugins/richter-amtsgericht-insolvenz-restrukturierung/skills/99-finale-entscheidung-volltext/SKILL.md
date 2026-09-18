@@ -46,3 +46,7 @@ Sachliche deutsche Gerichtssprache, echte Umlaute, ausgeschriebenes Wort Paragra
 Ändert eine ergänzende Bankauskunft die verfügbaren Mittel, rechne die betroffenen Positionen neu und prüfe, ob der bisher vorbereitete Eröffnungsausspruch noch trägt. Passe Feststellungen und Begründung gemeinsam an.
 
 Bei unlesbaren Akten einen geeigneten anderen Zugriff versuchen oder den benötigten Ausschnitt anfordern. Zugängliche Teile weiterbearbeiten; keine vollständige Aktenprüfung oder erfolgreiche Dateierzeugung behaupten.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Antrag, Gläubigerstellung, Forderung, Eröffnungsgrund, Sicherungsbedarf, Schuldnereinwand und Beschlussfolge. Er macht sichtbar, ob eine Aufklärungsverfügung, Sicherungsmaßnahme, Gutachterbestellung, Eröffnung oder Abweisung vorzubereiten ist.

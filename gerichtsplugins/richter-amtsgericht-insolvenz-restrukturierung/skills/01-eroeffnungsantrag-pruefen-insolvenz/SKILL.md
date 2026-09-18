@@ -50,3 +50,7 @@ Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Tec
 Wird eine Gläubigerforderung nach Antragstellung beglichen, prüfe die übrigen Voraussetzungen und den weiteren Eröffnungsgrund statt automatisch Unzulässigkeit anzunehmen. Nach einer ergänzenden Schuldnerstellungnahme die betroffenen Feststellungen und die bestellte Entscheidung aktualisieren.
 
 `02-sicherungsmassnahmen-vor-eroeffnung` ist eine optionale Vertiefung bei konkretem Sicherungsbedarf, kein zwingender Folgeschritt jedes Antrags. Bei fehlendem Zugriff einen geeigneten anderen Weg versuchen oder den entscheidenden Ausschnitt anfordern; zugängliche Teile weiterbearbeiten und keine vollständige Prüfung behaupten.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Antrag, Gläubigerstellung, Forderung, Eröffnungsgrund, Sicherungsbedarf, Schuldnereinwand und Beschlussfolge. Er macht sichtbar, ob eine Aufklärungsverfügung, Sicherungsmaßnahme, Gutachterbestellung, Eröffnung oder Abweisung vorzubereiten ist.

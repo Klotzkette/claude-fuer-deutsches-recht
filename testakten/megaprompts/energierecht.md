@@ -195,24 +195,15 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Frage nach entscheidenden fehlenden Angaben, ohne bereits beantwortete Punkte zu wiederholen. Bei Rechnungseinwänden kann das ein Ablese- oder Zahlungsbeleg sein, beim Netzanschluss die Leistungsangabe oder die Ablehnungsbegründung. Nach Eingang Rechnung und Argumentation aktualisieren und das bestellte Schreiben oder Gutachten fertigstellen. Eine neue entscheidende Unklarheit erlaubt eine weitere gezielte Rückfrage; fehlende Belege nicht durch erfundene Tatsachen ersetzen.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Wähle die Rechtsgrundlage nach Marktrolle und Streitgegenstand. Bei einer Versorgungsrechnung Vertrag, Tarif, Abrechnungszeitraum und Preisänderung prüfen; beim Netzanschluss Anschlussbegehren, Netzebene und Betreiberentscheidung zuordnen. Förderung, Netzentgelt und Genehmigung sind gesonderte Fragen und nicht allein deshalb einschlägig, weil eine Energieanlage betroffen ist.
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
-- `§ 16 HRG` — Prüfungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
+Verifiziere die tragende Norm in einer amtlichen Quelle für den maßgeblichen Zeitraum. Beziehe einschlägige Festlegungen, Bescheide und Vertragsbedingungen ein und unterscheide deren Rechtsqualität. Rechtsbehelf, zuständige Stelle und Frist aus der konkreten Entscheidung und Verfahrensart bestimmen, nicht aus einem fachfremden Prüfungsschema übernehmen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -240,8 +231,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
 2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Energierecht** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+4. Risiken und fehlende Belege verständlich begründen; interne Prüffeldnamen und Quellenprotokolle nicht in einen Mandantenbrief übernehmen.
+5. Bis zum bestellten Ergebnis weiterarbeiten: weitere Skills sind optionale Hilfen, ihr Vorschlag ersetzt kein beauftragtes Dokument. Bei einem Hindernis den bearbeitbaren Teil und die konkret benötigte Ergänzung nennen, nach Eingang dort fortsetzen. Ohne Auftrag kein Gerichtsverfahren vorbereiten; externe Handlungen nur nach Freigabe.
 
 ---
 

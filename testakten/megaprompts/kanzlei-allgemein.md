@@ -449,118 +449,55 @@ oder Hilfskräfte beteiligt waren.
 
 _Für /kanzlei-allgemein:kanzlei-cowork-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# /kanzlei-allgemein:kanzlei-cowork-kaltstart-interview
+# 1. Kanzleikonfiguration einrichten
 
-## Direktstart: lesen, entscheiden, liefern
+Erstelle oder ergänze das beauftragte Kanzleiprofil anhand bestehender Konventionen. Bei einem einzelnen Mandatsauftrag verwende vorhandene Vorgaben, statt ein vollständiges Einrichtungsinterview voranzustellen.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1. Vorhandene Konfiguration lesen
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Prüfe bei entsprechendem Auftrag die vorhandene Datei `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/CLAUDE.md`. Vollständig bestätigte Angaben weiterverwenden; offene Platzhalter und widersprüchliche Einstellungen gezielt klären. Eine vorhandene Datei nicht allein wegen fehlender Platzhalter als sachlich richtig bestätigen.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Nur die freigegebene Konfiguration ändern. Kein Profil löschen, keine Integration verbinden und keine Mandantenakte anlegen, wenn dies nicht beauftragt ist.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2. Offene Einstellungen fachlich klären
 
-## Triage zu Beginn
-1. Existiert bereits eine CLAUDE.md-Konfigurationsdatei oder wird erstmalig eingerichtet?
-2. Welche Rechtsform hat die Kanzlei (Einzelanwalt, GbR, PartG, GmbH, AG) und wie viele Anwaelte?
-3. Welche Buchhaltungssoftware ist im Einsatz (DATEV, Lexware, sevDesk, RA-MICRO, Advoware) oder keine?
-4. Sind beA, E-Mail-Integration und Fristenbuch bereits eingerichtet oder müssen diese konfiguriert werden?
+### 1.2.1. Kanzlei und Akten
 
-## Zentrale Normen
-- §§ 43, 43a BRAO — Allgemeine Berufspflichten: gelten ab Kanzleigruendung
-- § 31a BRAO — beA-Einrichtungspflicht: sofort bei Zulassung
-- § 51 BRAO — Berufshaftpflichtversicherung: Pflichtnachweis bei Kanzleigruendung
-- § 8 PartGG — Haftungsstruktur in der Partnerschaftsgesellschaft
+Rechtsform, Standort, Kammerbezirk, Anwälte, Mitarbeiterrollen und Sekretariat nur soweit erforderlich erheben. Rechtsgebiete, Mandantenstruktur und Fachzuständigkeiten den konkreten Abläufen zuordnen. Paragrafen 43, 43a und 51 BRAO sowie Paragraf 8 PartGG nach der jeweiligen Organisationsfrage prüfen.
 
-## Ablauf
+Bestehendes Aktennummernsystem und Verzeichniskonvention verwenden. Der technische Aktenpfad bleibt `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/mandate/<az>/`; mögliche vorhandene Unterordner sind `01_stammdaten 02_korrespondenz 03_schriftsaetze 04_anlagen 05_fristen 06_honorar`. Abweichungen nicht ohne Auftrag vereinheitlichen.
 
-1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/CLAUDE.md` prüfen.
-2. Falls vorhanden ohne Platzhalter: bestätigen.
-3. Andernfalls Interview unten durchführen.
+### 1.2.2. Postfach, Versand und Fristen
 
-## Kaltstart-Interview
+Tatsächliche beA-Verfügbarkeit, Berechtigungen, Signaturmittel und weitere Kanäle wie EGVP, Post oder sicherer Mandantenzugang klären. Paragraf 31a BRAO und konkrete elektronische Einreichungspflicht auseinanderhalten; kein pauschales Einrichtungsdatum für sämtliche Pflichten übernehmen.
 
-### 1. Kanzleiprofil
+Verbindlichen Fristenkalender, Kontrolle, Vertretung und Vorfristen aus der Kanzleivorgabe bestimmen. Eine typische Fünf-Tage-Vorfrist nicht als verbindliche Einstellung erfinden. Fehlt die verantwortliche Person, gezielt fragen; nach Antwort Kalender- und Versandablauf gemeinsam aktualisieren.
 
-- **Rechtsform** Einzelanwalt / Sozietät GbR / Partnerschaftsgesellschaft / Rechtsanwalts-GmbH / Rechtsanwalts-AG
-- **Anzahl Anwälte** und Mitarbeiterstellen
-- **Sekretariat** vorhanden ja / nein Anzahl Stellen
-- **Standort** Ort und Kammerbezirk
+### 1.2.3. Honorar, Buchhaltung und Mahnung
 
-### 2. Rechtsgebiete und Schwerpunkte
+RVG-Abrechnung, Honorarvereinbarung, Stundensätze, Zeitnachweise, Zwischenrechnungen und Freigabe unterscheiden. Vorhandene Software und Übergabe an die Steuerkanzlei berücksichtigen. RVG, insbesondere Vergütungsverzeichnis und Gebührentabelle, sowie erforderliche Rechnungsregeln nach ihrer tatsächlichen Funktion prüfen.
 
-- Liste der Rechtsgebiete der Kanzlei.
-- Hauptmandantenstamm (B2B / B2C / öffentliche Hand / Mischung).
-- Fachanwaltsbezeichnungen der Anwälte.
+Mahnpraxis, Zahlungsabgleich und Entscheidung über gerichtliche Schritte klären, ohne automatisch feste Mahnstufen oder Gebühren anzunehmen. Für UStVA Zeitraum, zuständiges Fachsystem und Verantwortliche festhalten; keine Meldung aus einer bloßen Profilbestellung ableiten.
 
-### 3. Aktenstruktur
+### 1.2.4. Mandantenpflege und Datenschutz
 
-- **Aktennummernsystem** (z. B. `<Jahr>/<lfd. Nr.>` oder `<Rechtsgebiet>-<Jahr>-<Nr>`)
-- **Verzeichnis-Konvention** unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/mandate/<az>/`
-- **Standardunterordner** wie `01_stammdaten 02_korrespondenz 03_schriftsaetze 04_anlagen 05_fristen 06_honorar`
+Geburtstags-, Weihnachts- und Newsletterverteiler nur auf Wunsch einbeziehen. Freigegebene Empfänger, Kanal und Datenschutz prüfen; keine Nachricht automatisch versenden. Artikel 5, 6 und 9 DSGVO für die jeweiligen Daten sowie Artikel 28 bei Auftragsverarbeitung unterscheiden.
 
-### 4. beA und Versandwege
+## 1.3. Rückfragen und fertiges Profil
 
-- **beA-Profil** vorhanden (Pflicht für RA seit 01.01.2022)
-- **Signaturkarte** vorhanden und gültig
-- **EGVP** zusätzlich verwendet
-- **Versandwege** beA (Behörde Gericht RA-zu-RA) / Post / Mandanten-E-Mail / sicherer Mandantenübergang
+Stelle kurze zusammenhängende Fragen nur zu offenen Entscheidungen des beauftragten Bereichs. Nach Antwort betroffene Einstellungen und Folgeabläufe aktualisieren, etwa Rechnungsfreigabe nach Wechsel der Buchhaltung. Zeigt die Antwort eine weitere entscheidende Lücke, gezielt nachfragen; bestätigte Angaben nicht erneut abfragen.
 
-### 5. Fristenbuch und Tagesbrief
+Liefere das vereinbarte Profil in vollständigen verständlichen Sätzen unter dem gewünschten Dateinamen oder im beauftragten bestehenden Pfad. Noch offene Teile als vorläufig kennzeichnen; nach Ergänzung fertigstellen. Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, sonst mit getrenntem Exporthinweis.
 
-- **Fristenbuch** zentral (Pflicht nach BRAO-Berufsregeln)
-- **Vorfrist-Standard** (typisch fünf Tage vor Hauptfrist)
-- **Tagesbrief** vom Sekretariat morgens ja / nein
+## 1.4. Quellen, Beispiel und Grenzen
 
-### 6. Honorarpraxis
+Tragende Normen und aktuelle technische Vorgaben prüfen; Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage. Optional ergänzt `references/zitierweise.md` die Zitierweise. Quellenstatus nicht in Mandantenkorrespondenz übernehmen.
 
-- **Standardabrechnung** RVG / Honorarvereinbarung / Mischung
-- **RVG-Software** vorhanden (DATEV RA-MICRO Advoware) ja / nein
-- **Rechnungsstellung** Zeitpunkt (Mandatsende oder Zwischenrechnungen)
-- **Honorarvereinbarung** Stundensätze typisch
+Bei Wechsel des verbindlichen Fristenkalenders die Zuständigkeit für Übertragung und Kontrolle klären. Danach die betroffenen Profilabschnitte ausarbeiten, ohne vorhandene Fristen ungefragt zu verschieben oder zu löschen.
 
-### 7. Mahnpraxis
+Optional unterstützen `/kanzlei-allgemein:fristenbuch-fuehren`, `/kanzlei-allgemein:sekretariats-tagesbrief` und `/kanzlei-allgemein:versand-vor-check` passende Folgeaufgaben. Vor Versand Identität, Freigabe, Empfänger, Signatur und Anlagen selbst prüfen; kein Skillverweis ersetzt die Kontrolle. Außenhandlungen verbleiben in anwaltlicher Verantwortung und benötigen ausdrückliche Freigabe.
 
-- Mahnstufen (zwei Stufen / drei Stufen)
-- Mahnfristen und Mahngebuehren
-- Eskalation: Inkasso / Klage / Vergleich
-
-### 8. Mandantenpflege
-
-- **Geburtstags-Verteiler** ja / nein
-- **Weihnachtskarten** Verteiler (digital / Post)
-- **Newsletter** Mandantenrundschreiben
-
-### 9. Buchhaltung
-
-- **Software** DATEV / Lexware / sevDesk / SAP / RA-MICRO Finanz / sonstig
-- **Steuerberater** der Kanzlei mit Name Kontakt
-- **USt-Voranmeldung** monatlich / vierteljaehrlich
-
-## Ausgabe
-
-Profil wird geschrieben. Nächste sinnvolle Skills:
-
-- `/kanzlei-allgemein:fristenbuch-fuehren` — Hauptfristen pflegen
-- `/kanzlei-allgemein:sekretariats-tagesbrief` — Tagesbrief morgens
-- `/kanzlei-allgemein:versand-vor-check` — vor jedem Versand
-
-## Rechtlicher Rahmen
-
-- **BRAO** § 43a Verschwiegenheit § 50 Aktenführung § 51 Berufshaftpflicht § 31a beA-Pflicht
-- **RVG** Gebührentabelle Anlage 1 Anlage 2 VV RVG
-- **BORA** Berufsordnung der Rechtsanwälte (BRAK)
-- **DSGVO** Art. 5 6 9 Auftragsverarbeitung Art. 28
-
-## Hinweise
-
-Mandantenkommunikation und folgenreiche Versandhandlungen verbleiben in anwaltlicher Verantwortung. Vor jedem Versand `versand-vor-check`.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ohne diese Ressourcen anhand des vorliegenden Ablaufs weiterarbeiten. Fehlenden Zugriff konkret benennen; ohne Export vollständigen Text liefern.
 
 ---
 
@@ -568,43 +505,41 @@ Mandantenkommunikation und folgenreiche Versandhandlungen verbleiben in anwaltli
 
 _Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kanzlei-Allgemein._
 
-# Kaltstart und Routing
+# 1. Kanzleivorgang zum Ergebnis führen
 
-## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+Bearbeite den erkennbaren Mandats-, Fristen-, Schreib- oder Abrechnungsauftrag anhand der vorhandenen Akte. Wähle den passenden fachlichen Weg, ohne dem Nutzer zunächst ein allgemeines Auswahlmenü aufzuerlegen.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## 1.1. Eingaben
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+Lies Eingang, Auftrag und maßgebliche Dateien zuerst. Übernimm Rolle, Ziel, Aktenzeichen, Termin und bekannten Sachstand. Nur entscheidende Lücken nachfragen; vorhandenes Material nicht nochmals anfordern.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## 1.2. Bearbeitung
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+Bei neuer Mandatsanfrage Interessenkonflikt, Umfang, Annahmeentscheidung, Vollmacht und Vergütung prüfen. Paragraf 43a Absatz 4 BRAO, Paragraf 49b BRAO und Paragraf 3a RVG nach ihrer tatsächlichen Regelung anwenden. Die früheren pauschalen Zuordnungen „Mandat schriftlich nach Paragraf 49b“ und „Verschwiegenheit nach Paragraf 4 BORA“ nicht ungeprüft übernehmen.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+Bei Fristauftrag Auslöser, Verfahrensordnung, Fristende, Beleg, Verantwortlichen und Vertretung klären. Fehlt ein Zustellungsnachweis, gezielt nachfordern; nach Eingang rechnen, Fristnotiz aktualisieren und die verlangte Nachricht fertigstellen. Technische Versandbestätigung nicht mit gerichtlichem Eingang gleichsetzen.
 
-## Kanzlei-Kaltstart
-- **Mandatsannahme:** § 43a Abs. 4 BRAO Interessenkonflikt prüfen, § 49b BRAO Mandatsverhältnis schriftlich vereinbaren, § 4 BORA Verschwiegenheit klären.
-- **Vergütung sofort klären:** RVG-Vergütung als Default; Honorarvereinbarung schriftlich (§ 3a RVG); Hinweis auf voraussichtliche Kosten (§ 49b Abs. 5 BRAO).
-- **Zuständigkeit / Fachbereich:** Allgemein- oder Fachanwaltsmandat? Bei Sachverhalt mit Spezialnorm-Bedarf an entsprechendes Fachanwaltsplugin verweisen.
-- **Mandantenkommunikation:** Erstgespräch dokumentieren (§ 50 BRAO Handakte), Sachstandsmail innerhalb 48 h, Klartext über Erfolgsaussichten.
-- Falle: Kostenhinweis nach § 49b Abs. 5 BRAO vergessen — kann zu Honorarverlust führen.
+Bei Rechnung oder Kostenbrief Auftrag, Vergütungsgrundlage, Tätigkeit, Vorschüsse und Zahlungen vergleichen. Fehlende Zuordnung einer Zahlung erfragen; nach Antwort Rechnung und bestelltes Schreiben korrigieren. Kostenhinweise nach Paragraf 49b Absatz 5 BRAO fallbezogen prüfen, nicht pauschal einen vollständigen Honorarverlust behaupten.
+
+Bei Schriftsatz- oder Vertragsauftrag die Sachprüfung durchführen und den Text vollständig ausarbeiten. Fachliche Spezialisierung bei Bedarf hinzuziehen, aber nicht bei einem bloßen Skillverweis stehen bleiben.
+
+## 1.3. Fortsetzung
+
+Antworten mit den Belegen abgleichen und nur die betroffenen Rechnungen, Argumente oder Vertragsbestimmungen aktualisieren. Neue entscheidende Lücken gezielt weiterklären, bereits Beantwortetes nicht wiederholen. Bei Blockern den belastbaren Teil vorläufig liefern; Annahmen nicht als Tatsachen in Nachforderungen schreiben.
+
+Mandantengespräche und maßgebliche Entscheidungen nach Paragraf 50 BRAO aktenbezogen dokumentieren. Eine Sachstandsnachricht nach tatsächlicher Dringlichkeit und vereinbarter Frist erstellen; keine universelle 48-Stunden-Regel erfinden.
+
+## 1.4. Quellen und Ausgabe
+
+Tragende Normen amtlich prüfen; Entscheidungen nur mit überprüftem Gericht, Datum, Aktenzeichen und Aussagegehalt. Literatur nicht aus Modellwissen zitieren; optional ergänzt `references/zitierweise.md` die Zitierweise. Quellenstatus getrennt vom Empfängertext halten.
+
+Liefere das bestellte Dokument in vollständigen Sätzen unter dem gewünschten Dateinamen, ohne Pflichtampel oder interne Bearbeitungsmatrix. Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, sonst mit getrenntem Exporthinweis. Gutachten nicht ungefragt durch Klageentwurf erweitern.
+
+## 1.5. Beispiel und Grenzen
+
+Bei einer Versandprüfung fehlt Anlage K3. Fordere genau diese Anlage an, gleiche sie nach Eingang mit Schriftsatz und Anlagenverzeichnis ab und liefere das vervollständigte Versandpaket. Die Mandatsaufnahme nicht neu beginnen und den Versand nicht ohne Freigabe auslösen.
+
+Mandatsannahme, Einreichung, Zahlung und Kalenderlöschung nur nach ausdrücklicher Autorisierung. Ohne weitere Skills hier weiterarbeiten; fehlenden Zugriff benennen und ohne Export vollständigen Text liefern.
 
 ---
 

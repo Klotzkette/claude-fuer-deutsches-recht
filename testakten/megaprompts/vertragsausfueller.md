@@ -9,18 +9,18 @@ Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `vertragsausfueller
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Vertragsausfüller ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet …
 2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
 3. **vertragsausfueller-erstpruefung-und-mandatsziel** — Für Vertragsausfüller: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Erge…
-4. **vaf-mehrsprachige-vertraege-spezial** — Für VAF: Mehrsprachige Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
-5. **mehrsprachige-vertraege-spezial** — Für VAF: Mehrsprachige Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
-6. **vaf-fremdsprachige-vertraege-bilingual** — Für Bilinguale Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schrit…
-7. **fremdsprachige-vertraege-bilingual** — Für Bilinguale Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schrit…
-8. **neue-rueckfragen-strippen** — Für Neue: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenk…
-9. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
-10. **erkennen-schriftsatz-brief-und-memo-bausteine** — Für Erkennen: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schrif…
-11. **erzeugen-red-fassungen-sonderfall-felder** — Für Erzeugen: Red-Team und Qualitätskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte …
-12. **track-mandantenkommunikation-entscheidungsvorlage** — Für Track: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandant…
-13. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
-14. **mandantenkommunikation-redteam-qualitygate** — Für Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristen…
-15. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+4. **rueckfrageninterview** — Klärt fehlende oder widersprüchliche Angaben einer Vertragsvorlage anhand von Term Sheet, Korrespondenz und Anlagen. Füh…
+5. **vaf-mehrsprachige-vertraege-spezial** — Für VAF: Mehrsprachige Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+6. **mehrsprachige-vertraege-spezial** — Für VAF: Mehrsprachige Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+7. **vaf-fremdsprachige-vertraege-bilingual** — Für Bilinguale Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schrit…
+8. **fremdsprachige-vertraege-bilingual** — Für Bilinguale Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schrit…
+9. **neue-rueckfragen-strippen** — Für Neue: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenk…
+10. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+11. **erkennen-schriftsatz-brief-und-memo-bausteine** — Für Erkennen: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schrif…
+12. **erzeugen-red-fassungen-sonderfall-felder** — Für Erzeugen: Red-Team und Qualitätskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte …
+13. **track-mandantenkommunikation-entscheidungsvorlage** — Für Track: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandant…
+14. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+15. **mandantenkommunikation-redteam-qualitygate** — Für Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristen…
 
 ---
 
@@ -234,6 +234,47 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `rueckfrageninterview`
+
+_Klärt fehlende oder widersprüchliche Angaben einer Vertragsvorlage anhand von Term Sheet, Korrespondenz und Anlagen. Führt Antworten in alle betroffenen Felder und die vollständige Ausfüllfassung zurück, ohne ungefragt Vertragsbedingungen zu ändern._
+
+# 1. Fehlende Vertragsangaben klären und die Ausfüllung fortsetzen
+
+Bearbeite die noch offenen Stellen einer vorhandenen Vertragsvorlage. Lies zunächst die Vorlage, das Term Sheet und bereits gegebene Antworten; eine erneute allgemeine Aufnahme ist nicht erforderlich.
+
+## 1.1. Die entscheidende Frage bestimmen
+
+Unterscheide fehlende Daten, widersprüchliche Angaben und echte Wahlentscheidungen. Frage beispielsweise nach dem bestätigten Mietbeginn, wenn Vertrag und Übergabeplan verschiedene Termine nennen. Frage nicht pauschal nach allen Fristen oder sämtlichen Vertragsrisiken.
+
+Nenne bei einem Widerspruch beide konkreten Angaben mit Fundstelle. Bei einer Wahlklausel erläutere die Wirkung der zur Entscheidung stehenden Alternativen, ohne eine davon als schon vereinbart einzutragen. Angaben zu Partei, Vertretung, Gegenstand, Preis und Laufzeit benötigen einen belastbaren Bezug zur Vorlage.
+
+Fehlt überhaupt die Vorlage, bitte um diese und die vorhandenen Eckdaten. Ein als Ausfüllung bezeichneter Auftrag darf nicht stillschweigend zur Neuerstellung beliebiger Vertragsbedingungen werden.
+
+## 1.2. Während einer offenen Frage weiterarbeiten
+
+Fülle unabhängig belegte Felder aus und kennzeichne nur die tatsächlich offene Stelle im vorläufigen Entwurf. Keine unbekannten Beträge, Freigaben, Unterschriften oder Vertretungsbefugnisse erfinden.
+
+Bündle zusammengehörige Fragen in einer kurzen Runde. Eine Frage muss entweder ein Feld klären oder eine erforderliche Entscheidung ermöglichen. Bei einer neuen entscheidenden Lücke darf eine weitere Runde folgen; bereits beantwortete Punkte nicht wiederholen.
+
+## 1.3. Antworten in die Vertragsfassung übernehmen
+
+1. Gleiche die Antwort mit den vorliegenden Fassungen ab. Eine neue E-Mail ersetzt nicht automatisch eine bereits freigegebene Vereinbarung.
+2. Übernimm die bestätigte Angabe in alle Wiederholungen, Anlagenbezüge und Unterschriftsfelder, soweit sie dort denselben Inhalt betrifft.
+3. Prüfe abhängige Werte: monatlicher oder jährlicher Preis, Nettobetrag und Steuer, Laufzeit und Kündigungstermin. Die Antwort auf eine Zahlenfrage ersetzt keine Zustimmung zu einer neuen Klausel.
+4. Führe die bestellte Ausfüllfassung zu Ende. Bei einem neu erkannten Widerspruch nur diesen klären; bei ausreichend geklärtem Sachverhalt keine weitere Bestätigungsrunde einschieben.
+
+Originaldateien nicht überschreiben. Vergleichsfassung oder Änderungsverfolgung nur bei entsprechendem Auftrag erstellen. Ist dieser bereits erteilt, nicht erneut dieselbe Freigabe einholen.
+
+## 1.4. Ausgabe und Quellen
+
+Liefere den vollständig ausgefüllten Vertrag beziehungsweise die bestellte aktualisierte Fassung. Eine Fragenliste oder eine Datenübersicht allein erfüllt diesen Auftrag nicht. Erforderliche Rückfragen und Hinweise an den Auftraggeber außerhalb des Vertragstextes halten. Gewünschte Dateinamen und Vorlagenformate beachten.
+
+Rechtliche Zweifelsfragen gesondert behandeln und nur einschlägige aktuelle Normen heranziehen, etwa zur Auslegung nach Paragrafen 133 und 157 BGB oder zur AGB-Kontrolle nach Paragrafen 305 bis 310 BGB. Keine pauschale Widerrufs- oder Verjährungsfrist für sämtliche Vertragstypen annehmen. Quellen und Entscheidungen nur nach tatsächlicher Prüfung mit konkretem Bezug zur offenen Frage angeben.
+
+Neue Klauseltexte vollständig ausformulieren; neue Abschnitte dezimal gliedern. Bei freier Dokumentgestaltung Times New Roman 11 pt verwenden, verbindliche Vorlagenformate erhalten. Ohne Dateiwerkzeug den vollständigen Text liefern und fehlende Layoutprüfung getrennt benennen. Nichts eigenmächtig versenden, unterzeichnen oder als angenommen erklären.
 
 ---
 
@@ -772,50 +813,6 @@ Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **vertragsausfuel
 - **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
 - **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
 - **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
-
----
-
-## Skill: `quellen-livecheck`
-
-_Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Vertragsausfüller._
-
-# Rechtsquellen-Livecheck
-
-## Einsatzlage
-
-Dieser Quellen-Livecheck für **Vertragsausfueller** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
-
-## Fachlandkarte dieses Plugins
-
-- `altvertraege-dokumentenmatrix-und-lueckenliste` — Altvertraege Dokumentenmatrix und Lueckenliste
-- `altvertrag-nachziehen` — Altvertrag Nachziehen
-- `ausdruecklicher-fristennotiz-und-naechster-schritt` — Ausdruecklicher Fristennotiz und Naechster Schritt
-- `batch-modus-docx-stripper-einfuehrung` — Batch Modus Docx Stripper Einfuehrung
-- `bsag-mietvertrag-klauselentscheidung` — Bsag Mietvertrag Klauselentscheidung
-- `changes-beweislast-docx-erkennen` — Changes Beweislast Docx Erkennen
-- `clean-output` — Clean Output
-- `docx-stripper` — Docx Stripper
-- `docx-tatbestand-beweis-und-belege` — Docx Tatbestand Beweis und Belege
-- `einfuehrung-prozess` — Einfuehrung Prozess
-- `erkennen-schriftsatz-brief-und-memo-bausteine` — Erkennen Schriftsatz Brief und Memo Bausteine
-- `erzeugen-red-fassungen-sonderfall-felder` — Erzeugen RED Fassungen Sonderfall Felder
-- `fassungen-sonderfall-und-edge-case` — Fassungen Sonderfall und Edge Case
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
-
-## Arbeitsweg
-
-- Tragende Normen (BGB §§ 133, 157, 305–310, 311b, 311c, 433, 488, 535, 631, 651a, 765, AGB-Recht, NachwG, FormularG) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
-- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
-- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
-- Dynamische Bereiche im Vertragsausfüller (Lückenschluss in Verträgen) (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
-- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
-
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---
 

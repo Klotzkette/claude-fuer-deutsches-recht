@@ -421,51 +421,47 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 
 _Für Prüfung: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
-# Prüfung: Erstprüfung, Rollenklärung und Mandatsziel
+# 1. Planfassung, Betroffenheit und Rechtsschutz prüfen
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Auftrag und Planunterlagen
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Erarbeite zum vorgelegten Bauleitplan die bestellte Beratung, Rüge oder Antragsschrift. Lies Planzeichnung, textliche Festsetzungen, Bekanntmachung, Begründung, Umweltbericht und bereits vorhandene Stellungnahmen zuerst.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Bestimme Gemeinde, Planfassung, Grundstück und Schutzziel. Antragsteller können sich in ihrer Rechtsposition unterscheiden; Eigentümer, Gemeinde und Verband nicht nach einer einheitlichen unbesehenen Formel behandeln. Stehen Rolle und Anliegen fest, keine erneute Aufnahme beginnen.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+## 1.2. Zwei Fristen und richtige Empfänger
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+Prüfe Statthaftigkeit, Antragsbefugnis, zuständiges OVG oder VGH und Jahresfrist nach Paragraf 47 Absatz 2 VwGO anhand der Bekanntmachung. Satzungsbeschluss und Veröffentlichung nicht gleichsetzen. Bei anderen untergesetzlichen Normen die landesrechtliche Eröffnung gesondert prüfen.
 
-## Arbeitsweg
+Davon getrennt die Rüge nach Paragraf 215 BauGB behandeln: konkrete Fehlerkategorie, Hinweis, schriftliche Darlegung gegenüber der Gemeinde und Zugang. Nicht jeden materiellen Fehler der gleichen Rügefolge unterwerfen und fehlende Hinweise nicht pauschal auf die gerichtliche Antragsfrist übertragen.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: VwGO § 47 Abs. 2 Antrag 1 Jahr nach Bekanntmachung, BauGB § 3 Abs. 2 Auslegung 1 Monat, Einwendungen 1 Monat, § 215 BauGB Rüge formeller/materieller Fehler 1 Jahr.
-- Tragende Normen verifizieren: VwGO § 47, BauGB §§ 1, 1a, 2, 3, 4, 4a, 10, 13, 13a, 13b, 30, 34, 35, BImSchG, BNatSchG, UVPG, EU-Plan-UP-RL 2001/42 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Eigentümer, Gemeinde, Verband), Gemeinde als Antragsgegnerin, OVG/VGH (zuständig), BVerwG (4. Senat), Träger öffentlicher Belange.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bebauungsplan, Begründung mit Umweltbericht, Abwägungsmaterial, Beteiligungsstellungnahmen, Satzungsbeschluss, Normenkontrollantrag, Eilantrag § 47 Abs. 6 VwGO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Fehlt die vollständige Bekanntmachung oder ein Zugangsbeleg, frage nach diesem Dokument. Nach Eingang aktualisiere Fristberechnung, Empfänger und bestellten Text. Keine feste Höchstzahl von Fragen; neue entscheidende Lücken kurz klären, bekannte Angaben weiterverwenden.
 
-## Spezialwissen: Prüfung: Erstprüfung, Rollenklärung und Mandatsziel
-- **Normen-/Quellenanker:** VwGO, OVG.
+## 1.3. Fehler und Nachweise bearbeiten
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Vergleiche Festsetzung und Rechtsgrundlage sowie Begründung und Abwägungsmaterial. Trenne Ermittlung, Bewertung und Abwägungsergebnis. Benenne den betroffenen Belang mit Beleg und möglicher Auswirkung, statt nur einen abstrakten Abwägungsfehler zu behaupten.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+Bei Beteiligungsfragen die maßgebliche Fassung von BauGB Paragrafen 3, 4 und 4a prüfen. Aktuell verlangt Paragraf 3 Absatz 2 eine Internetveröffentlichung für einen Monat, mindestens 30 Tage, gegebenenfalls länger, sowie zusätzliche Zugangsmöglichkeiten; eine pauschale „Auslegung von einem Monat“ bildet die Prüfung nicht vollständig ab.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Prüfung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+Fehlt ein artenschutz- oder immissionsbezogener Bericht, benenne die konkrete offene Untersuchungsfrage. Nach der Antwort prüfe den behaupteten Mangel erneut und ändere die betroffene Rüge oder Antragsbegründung. Ein unvollständiger Aktenbestand ist nicht bereits der Beweis eines rechtswidrigen Plans.
 
-## Vertiefung bei Bedarf
+## 1.4. Rechtsrahmen und Grenzen
 
-- Bei `spezial-pruefung-erstpruefung-und-mandatsziel` beziehungsweise Pruefung: Erstprüfung, Rollenklärung und Mandatsziel: [die zusätzliche Vertiefung laden](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/normenkontrolle-bauleitplanung/skills/pruefung-erstpruefung-und-mandatsziel/references/vertiefung-spezial-pruefung-erstpruefung-und-mandatsziel.md).
+Je nach Streitpunkt BauGB Paragrafen 1, 1a, 2, 3, 4, 4a und 10 sowie vereinfachte oder beschleunigte Verfahren nach Paragrafen 13 und 13a prüfen. Übergangsfragen zu Paragraf 13b gesondert verifizieren. Paragrafen 30, 34 und 35 BauGB, BImSchG, BNatSchG, UVPG und Plan-UP-Richtlinie 2001/42/EG nur bei konkretem Bezug ergänzen.
+
+Tragende Normen und Entscheidungen amtlich prüfen; `references/zitierweise.md` bei Zugriff beachten. Beachtlichkeit und Planerhaltung nicht überspringen. Für Eilrechtsschutz nach Paragraf 47 Absatz 6 VwGO drohenden Vollzug und Dringlichkeit anhand tatsächlicher Belege darlegen, nicht allein aus der behaupteten Planunwirksamkeit folgern.
+
+## 1.5. Ergebnis bis zur Endfassung
+
+Liefere das verlangte Dokument vollständig ausformuliert. Bei einem Hindernis den belastbaren Teil und den benötigten nächsten Beitrag benennen; nach dessen Eingang weiterarbeiten, nicht bei einer Lückenliste stehenbleiben. Ein Gutachtenauftrag verlangt keinen ungefragten Antrag.
+
+Nutzerdateinamen gehen vor; `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise getrennt vom Empfängertext dokumentieren. Formatierte Dokumente verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Markdown als Exporthinweis. Versand oder Einreichung nur nach ausdrücklicher Freigabe.
+
+## 1.6. Beispiel und optionale Vertiefung
+
+Ist streitig, ob ein Lärmgutachten veröffentlicht wurde, frage nach dem damaligen Veröffentlichungsstand und gleiche ihn mit Bekanntmachung und Gutachtenfassung ab. Danach die konkrete Beteiligungsrüge ausformulieren; weder fehlende Veröffentlichung noch Unbeachtlichkeit ohne Prüfung behaupten.
+
+Optional ist [die zusätzliche Vertiefung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/normenkontrolle-bauleitplanung/skills/pruefung-erstpruefung-und-mandatsziel/references/vertiefung-spezial-pruefung-erstpruefung-und-mandatsziel.md) für eine passende Spezialfrage nutzbar. Ohne Zugriff nach diesem Ablauf weiterarbeiten. Bei unlesbaren Unterlagen einen geeigneten anderen Weg versuchen oder den entscheidenden Ausschnitt anfordern; keine vollständige Prüfung behaupten.
 
 ---
 

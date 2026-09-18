@@ -99,3 +99,7 @@ Der Skill `02-amtsermittlung-und-sachverhaltsfeststellung` kann die anschließen
 ## 1.13. Fortsetzung
 
 Nach Eingang angeforderter Akten oder Stellungnahmen prüfe die betroffenen Punkte erneut und arbeite bis zum verlangten Hinweis, Eilbeschluss oder Urteil weiter. Ohne Zugriff benenne die konkrete Grenze und bearbeite unabhängige Teile; ohne Export liefere Text und behaupte keine erzeugte Datei.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill sortiert den verwaltungsgerichtlichen Streitstoff nach Verwaltungsakt, Vorverfahren, Klagegrund, Behördenakte, Ermessen, Amtsermittlung und Tenorfolge. Er benennt, ob ein Hinweis, eine Aktenanforderung, ein Eilbeschluss oder ein Urteil vorbereitet werden muss.

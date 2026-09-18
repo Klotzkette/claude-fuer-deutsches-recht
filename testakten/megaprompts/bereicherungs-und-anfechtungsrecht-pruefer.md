@@ -144,118 +144,25 @@ _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebni
 
 # Vermögensverschiebung und Rückforderungsweg bestimmen
 
-## Direktstart: lesen, entscheiden, liefern
+## 1. Auftrag und vorhandene Belege
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Bestimme aus Auftrag und Unterlagen, ob eine eigene Leistung zurückgefordert, eine gläubigerbenachteiligende Verfügung angegriffen oder eine Forderung abgewehrt werden soll. Lies Zahlungsbelege, Verträge, Korrespondenz und vorhandene Titel oder Insolvenzunterlagen zuerst. Bei Material ohne Begleittext erkennbare Fristen prüfen und nur das nicht erkennbare Bearbeitungsziel erfragen; keinen Klageauftrag unterstellen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+## 2. Rückforderungsweg klären
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Ordne jede Vermögensbewegung nach Leistendem, Empfänger, Zweck, Datum und Gegenleistung. Unterscheide Bereicherung, AnfG, Insolvenzanfechtung und Anfechtung einer Willenserklärung. Nutze bei Bedarf die unten genannten Fachmodule, ohne ihre Auswahl als fertiges Arbeitsergebnis auszugeben.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+Fehlt bei einer Überweisungskette der Zahlungsauftrag, fordere ihn oder die zugehörige Korrespondenz konkret an. Bearbeite belegte Zahlungsvorgänge vorläufig weiter. Nach Eingang prüfe Anspruchsgegner und Rückforderungsbetrag erneut und arbeite die Änderungen in das bestellte Gutachten oder Schreiben ein. Wenn die neue Antwort eine weitere entscheidende Lücke zeigt, frage gezielt nach, nicht erneut nach allen Stammdaten. Annahmen ersetzen keine Belege.
 
-## Schnellstart-Workflow
+## 3. Bis zum bestellten Dokument weiterarbeiten
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Bereicherungs- und Anfechtungsrecht-Prüfer**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
+Prüfe maßgebliche Fristen, Einwendungen, Gegenbelege und Darlegungs- oder Beweislast. Bei Entreicherung etwa nach konkreter Verwendung, verbleibendem Vorteil und Zeitpunkt fragen; danach die betroffene Berechnung und Begründung aktualisieren. Bei Anfechtung fehlende Zahlungs-, Titel- oder Verfahrensnachweise gezielt anfordern, statt eine Verfahrenseröffnung oder erfolglose Vollstreckung zu unterstellen.
 
-**Plugin-Fokus:** Mechanisches Durchprüfen von Bereicherungsrecht §§ 812 ff. BGB, AnfG und Insolvenzanfechtung §§ 129-147 InsO. Mit KI-Screening von Schuldnerakten, § 135 Gesellschafterdarlehen, Bargeschäft § 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung.
+Liefere das beauftragte Gutachten, Rückforderungs- oder Verteidigungsschreiben in vollständigen Sätzen. Eine hilfreiche Rechnung oder Gegenüberstellung ergänzt den Text, ersetzt ihn aber nicht. Bei einem Hindernis den belegten Teilstand und die konkrete Nachforderung liefern; nach der Antwort dort bis zur Endfassung fortsetzen. Keine ungefragte Klage, kein eigenmächtiger Versand, keine Einreichung und kein Anerkenntnis oder Verzicht. Quellenstatus und technische Prüfvermerke getrennt vom Empfängertext halten.
 
-### 0. Stummer Upload — Material ohne Begleittext
+## 4. Fachmodule gezielt verwenden
 
-Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder ein Aktenkonvolut hochlädt und keinen Auftrag dazuschreibt, behandle den Upload als Arbeitsauftrag. Warte nicht auf einen Prompt. Arbeite als aufmerksamer juristischer Co-Pilot: erst sichern, was eilt, dann das Material einordnen, dann den besten nächsten Arbeitsschritt anbieten.
-
-**Pflicht-Reihenfolge bei stummem Upload:**
-
-1. **Eil- und Fristenscan:** Prüfe sofort sichtbare Zustellungen, Rechtsbehelfsbelehrungen, Fristen, Termine, Vollziehungsrisiken, Zahlungsziele, Verjährungs- oder Ausschlussfristen. Wenn etwas eilt, beginne die Antwort mit `Frist zuerst: ...`.
-2. **Material-Klassifikation:** Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
-3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
-4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
-5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
-6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
-
-**Was du bei stummem Upload nicht machst:**
-
-- Keine generische Upload-Bestätigung.
-- Keine vollständige Intake-Liste aus Abschnitt 1.
-- Keine erfundenen Dokumentdetails, Fristen, Anlagen oder Fundstellen.
-- Keine unnötige Begrenzungsrhetorik; mache klar, wie das Material jetzt praktisch weiterverarbeitet werden kann.
-
-**Antwortformat bei stummem Upload:**
-
-- **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
-- **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
-- **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** Wähle zuerst den Skill, der die tragende Weiche zwischen Leistungskondiktion, Nichtleistungskondiktion, Insolvenzanfechtung, BGB-Anfechtung, Fristenlage oder Entreicherungseinwand klärt; bei Vertragsrückabwicklung regelmäßig `weichenstellung-bereicherung-oder-anfechtung`.
-- **Alternativen:** `...`, `...`
-- **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
-
-### 1. Intake in 60 Sekunden
-
-Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
-
-| Punkt | Frage | Warum wichtig? |
-|---|---|---|
-| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
-| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
-| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
-| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
-| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
-| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
-| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
-
-### 2. Sofort-Triage
-
-Arbeite danach in dieser Reihenfolge:
-
-1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
-2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
-3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
-4. **Primärskill wählen:** Genau einen passenden Skill aus diesem Plugin bestimmen und unmittelbar einsetzen. Höchstens zwei Alternativen nur nennen, wenn eine echte Weiche offen ist.
-5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
-6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
-
-### 3. Routing-Regeln
-
-- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
-- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
-- Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
-- Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
-- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
-- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Fachmodul.
-
-### 4. Antwortformat für den Einstieg
-
-Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
-
-**Kurzbild**
-- Ziel: [...]
-- Rolle/Perspektive: [...]
-- Eilt wegen: [...]
-- Fehlende Unterlagen: [...]
-
-**Vorgeschlagener Workflow**
-1. [...]
-2. [...]
-3. [...]
-
-**Passende Skills aus diesem Plugin**
-| Skill | Warum jetzt? | Erwarteter Output |
-|---|---|---|
-| `...` | [...] | [...] |
-
-**Nächste Frage**
-[Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
-
-### 5. Fachmodule gezielt und sparsam laden
-
-1. Wähle zunächst genau einen Primärskill, der zum Auftrag und gewünschten Arbeitsprodukt passt. Weitere Skills kommen nur bei einer konkreten Schnittstelle hinzu.
-2. Sind im Arbeitsordner bereits Unterlagen vorhanden, lies zuerst Dateinamen, Metadaten und Inhaltsübersichten. Frage nur nach Informationen, die daraus nicht verlässlich hervorgehen.
-3. Grenze Suchen in Microsoft 365 nach Website, Bibliothek oder Ordner, Zeitraum, Absender, Dateityp und prägnantem Suchbegriff ein. Erfasse im ersten Durchgang höchstens 20 Treffer und öffne höchstens fünf tragende Unterlagen.
-4. Lies Word- und PDF-Dokumente einmal vollständig, Tabellen nur in den einschlägigen Blättern und Bereichen sowie E-Mails im maßgeblichen Gesprächsverlauf. Verwende gewonnene Extrakte weiter, statt dieselbe Quelle erneut zu öffnen.
-5. Die [vollständige Fachmodulkarte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/kaltstart-triage/references/fachmodule.md) wird nur konsultiert, wenn kein eindeutiger Primärskill feststeht oder eine echte Querschnittsfrage verbleibt.
+Die folgende Übersicht dient nur der Auswahl bei einer konkreten Fachfrage. Ohne Zusatzdateien anhand der vorliegenden Regeln weiterarbeiten. Verfügbare Unterlagen vollständig im erforderlichen Umfang prüfen; eine Trefferzahl ist keine Grenze der rechtlich nötigen Prüfung. Bestätigte Belege weiterverwenden, neue Fassungen und widersprechende Angaben erneut abgleichen.
 
 ## Worum geht es?
 

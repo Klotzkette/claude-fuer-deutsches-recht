@@ -41,7 +41,7 @@ Für einen neuen Ordner, Zahlungsalarm oder eine knappe Frage zur Prävention. E
 
 ## 2. Eingaben
 
-Auftrag, jüngste Zahlungsnachricht und nötige Mandats- oder Kundendaten lesen. Höchstens fünf tragende Dateien im ersten Durchgang, bei Eigentumsketten gezielt Zwischenstufen ergänzen. Ohne Auftrag mit rechtlicher Rolle und nächster erkennbarer Handlung beginnen. Ohne verwertbares Material höchstens eine gebündelte Rückfrage zu Geschäft und Zeitpunkt.
+Lies den Auftrag, die Zahlungsnachrichten und die für den Vorgang erforderlichen Mandats- oder Kundendaten einschließlich der belegten Eigentumskette. Übernimm bereits geklärte Angaben aus der Akte. Ist das gewünschte Ergebnis nicht erkennbar, frage nach Rolle, Geschäft und anstehender Handlung; beginne keine Meldung oder Auszahlung auf Grundlage eines vermuteten Auftrags.
 
 ## 3. Ablauf
 
@@ -61,11 +61,11 @@ Eine heute anstehende Auszahlung, Grundbucheinreichung oder Meldung vor Organisa
 | Bereits abgegangene Meldung | [Nichtdurchführung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-transaktionsstopp-freeze/SKILL.md) | Frist und andere Hindernisse |
 | Vorbereitung auf 2027 | [EU-Umstellung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/geldwaeschepraevention-aml-kyc/skills/eu-geldwaescherecht-umstellung-2027/SKILL.md) | Datierter Änderungsplan |
 
-Nur den einen passenden Fachskill und seine benötigte Referenz laden. Anschlussfragen dort bearbeiten, nicht erneut den Eingang durchlaufen.
+Beginne mit dem passenden Fachskill und seiner benötigten Referenz. Weitere Fachfragen desselben Vorgangs dort anschließen, ohne die Aufnahme zu wiederholen. Fehlt eine Zwischenstufe der Eigentumskette, frage gezielt nach Beteiligung, Kontrolle und dem zugehörigen Nachweis. Widersprechen sich Zahlungsbestätigung und Kontobeleg, kläre Betrag, Absender, Empfänger und Buchungsdatum. Trenne fehlende Unterlagen von tatsächlichen Widersprüchen und bewerte neue Antworten zusammen mit den bisherigen Belegen; ein nun zugängliches Dokument macht die Prüfung nicht automatisch vollständig.
 
-### 3.3. Technischen Ausfall auffangen
+### 3.3. Zum verlangten Ergebnis weiterarbeiten
 
-Vorhandenen Auszug samt Datum nutzen; aktuelle Abfrage als Lücke notieren. Ohne Export ausformulierten Text liefern. Nach einem erfolglosen Alternativabruf nicht endlos wiederholen. Keine simulierte Freigabe oder erfundene goAML-Bestätigung.
+Aktualisiere nach jeder entscheidenden Antwort die betroffene Kundenprüfung, Zahlungsbewertung oder Meldebegründung. Zeigt sie eine weitere erhebliche Lücke, frage dazu nach, ohne bereits Beantwortetes erneut abzufragen. Liefere währenddessen die belastbaren Teile als vorläufigen Stand und benenne, was vor der Endfassung noch geklärt werden muss. Formuliere anschließend das bestellte Prüfergebnis, Nachforderungsschreiben oder den Meldeentwurf vollständig aus; eine Analyse allein erledigt keinen Schreibauftrag. Auch ein Nachforderungsschreiben darf unbekannte Beteiligungen oder Zahlungsumstände nicht als Tatsachen darstellen. Meldung, Auszahlung oder Einreichung nicht eigenmächtig veranlassen.
 
 ## 4. Quellenpflicht
 
@@ -73,11 +73,15 @@ Vorhandenen Auszug samt Datum nutzen; aktuelle Abfrage als Lücke notieren. Ohne
 
 ## 5. Ausgabeformat
 
-Verlangtes Arbeitsprodukt in vollständigen Sätzen; ohne Formatwunsch kurzer Vermerk mit Vorgang, Handlung, Beleg und entscheidender Lücke. Times New Roman 11 pt, dezimale Gliederung. Kein vorgelagertes Inhaltsverzeichnis aller Skills.
+Verlangtes Arbeitsprodukt in vollständigen Sätzen; ohne Formatwunsch kurzer Vermerk mit Sachverhalt, Bewertung, Empfehlung und offenen Fragen. Times New Roman 11 pt, dezimale Gliederung. Kein vorgelagertes Inhaltsverzeichnis aller Skills. Abrufstatus und technische Prüfhinweise stehen in einer gesonderten Arbeitsnotiz, nicht im Empfängerschreiben.
 
 ## 6. Beispiele
 
 „Verkäufer bestätigt Eingang, heute einreichen?“ führt zur notariellen Zahlungsprüfung. Ein Rückzahlungswunsch auf ein fremdes Konto führt zum Zahlungsbefund und gegebenenfalls zur Meldeprüfung, nicht zur Schulungsplanung.
+
+## 7. Technische Grenzen
+
+Bei ausgefallenem Registerzugang einen vorhandenen Auszug mit seinem Datum auswerten und die fehlende aktuelle Abfrage kenntlich machen; erfolglose Abrufe nicht unverändert wiederholen. Ohne Export den ausformulierten Text liefern. Keine simulierte Freigabe oder erfundene goAML-Bestätigung.
 
 ---
 

@@ -1,6 +1,6 @@
 # 1. Geldwäscheprüfung in Kanzlei, Unternehmen und Notariat
 
-Prüfe den Vorgang aus der Akte und verfasse das bestellte Dokument. Geklärte Angaben nicht erneut aufnehmen.
+Prüfe die Akte und verfasse das bestellte Dokument. Geklärte Angaben nicht erneut erfragen.
 
 Rechtsstand: 8. September 2026; Listen aktualisieren.
 

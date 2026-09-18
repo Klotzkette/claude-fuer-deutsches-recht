@@ -46,3 +46,7 @@ Kontrolliere Bescheiddaten, Leistungszeiträume, Beträge und Übereinstimmung v
 Wird in einer Erwerbsminderungssache ein abweichender Eintrittszeitpunkt medizinisch belegt, prüfe auch die davon betroffenen versicherungsrechtlichen Voraussetzungen und den Rentenbeginn erneut. Der nachgereichte Befund darf nicht nur im Tatbestand ergänzt werden, während Tenor und Berechnung unverändert bleiben.
 
 Sozial- und Gesundheitsdaten sowie Beratungsgeheimnis schützen. Unterzeichnung, Verkündung und Zustellung nicht simulieren; externe Handlungen nur nach ausdrücklicher Freigabe. Fehlende Zugriffe und nicht erzeugte Dateien offen benennen.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den sozialgerichtlichen Streitstoff nach Bescheid, Widerspruchsbescheid, Verwaltungsakte, Klagebegründung, medizinischer oder beitragsrechtlicher Tatsache und Amtsermittlung. Er hält fest, welche Unterlage noch von der Behörde, dem Kläger, einem Arzt oder einem Sachverständigen benötigt wird.

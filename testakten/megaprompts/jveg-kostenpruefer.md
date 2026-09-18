@@ -151,43 +151,41 @@ Ausgangspunkt für dieses Plugin: Berechtigter für Heranziehung, Fristwahrung, 
 
 _Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: JVEG-Kostenprüfer._
 
-# Einstieg und Routing
+# 1. JVEG-Anspruch prüfen und ausarbeiten
 
-## Einsatzlage
+## 1.1 Zweck
 
-Dieser Einstieg routet **Jveg Kostenpruefer** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Ordne den konkreten Vergütungs- oder Entschädigungsanspruch ein und erstelle das bestellte Rechenergebnis, die Stellungnahme oder den Antrag. Die Auswahl eines weiteren Skills ist kein Ersatz für die Bearbeitung.
 
-## Fachlandkarte dieses Plugins
+## 1.2 Eingaben
 
-- `aktenstripper` — Aktenstripper
-- `anspruchsberechtigung-antragsgenerator` — Anspruchsberechtigung Antragsgenerator
-- `antragsgenerator` — Antragsgenerator
-- `belegfeste-formular-portal-und-einreichung` — Belegfeste Formular Portal und Einreichung
-- `beschwerde-dolmetscher-sonderfall` — Beschwerde Dolmetscher Sonderfall
-- `dolmetscher-sonderfall-und-edge-case` — Dolmetscher Sonderfall und Edge Case
-- `dolmetscher-uebersetzer` — Dolmetscher Übersetzer
-- `dolmetscher-uebersetzer-fahrtkosten` — Dolmetscher Übersetzer Fahrtkosten
-- `dolmetscherkosten-zahlen-schwellen-und-berechnung` — Dolmetscherkosten Zahlen Schwellen und Berechnung
-- `fahrtkosten` — Fahrtkosten
-- `fahrtkosten-festsetzung-interessen` — Fahrtkosten Festsetzung Interessen
-- `festsetzung-beschwerde` — Festsetzung Beschwerde
-- `festsetzung-mehrparteien-konflikt-und-interessen` — Festsetzung Mehrparteien Konflikt und Interessen
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+Lies Heranziehung, Tätigkeitsnachweis, Abrechnung, Eingangsbeleg und gegebenenfalls Kürzungsmitteilung oder Beschluss. Bestimme Anspruchsberechtigten, Rolle, Tätigkeit, Zeitraum und Ziel aus den Unterlagen. Eine bereits geklärte Aufnahme wird nicht wiederholt.
 
-## Arbeitsweg
+## 1.3 Ablauf
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Jveg Kostenpruefer sind JVEG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+1. Prüfe Paragrafen 1 und 2 JVEG: Anspruchsberechtigung, tätigkeitsabhängiger Beginn der dreimonatigen Geltendmachungsfrist und nachgewiesener Eingang. Das Rechnungsdatum allein genügt nicht; Mehrfachheranziehung und Sonderfälle gesondert prüfen.
+2. Fehlt etwa der Eingang des Gutachtens oder die Aufschlüsselung einer Zeitposition, frage genau danach. Bearbeite den unabhängig belegten Rechenteil bereits. Nach Antwort aktualisiere die betroffene Frist oder Position und vervollständige das gewünschte Dokument.
+3. Ordne Honorar, Fahrtkosten, Aufwand, Verdienstausfall und Zahlungen der jeweiligen Rolle zu. Ein Zeuge wird nicht nach den Sachverständigenhonoraren vergütet; medizinische Honorargruppen gelten nicht für jedes Sachgebiet.
+4. Bei einer Kürzung prüfe den konkreten Grund, Gegenbeleg und gesetzlichen Tatbestand. Nach neuen Belegen passe Rechnung und Begründung gemeinsam an. Ergibt sich dabei eine weitere entscheidende Lücke, frage gezielt nach, ohne Geklärtes zu wiederholen.
+5. Prüfe für einen beauftragten Rechtsbehelf gerichtliche Entscheidung, Zuständigkeit, Beschwerdewert, Zulassung und Übergangsrecht. Keine allgemeine Zweiwochenfrist aus einem anderen JVEG-Verfahren übernehmen. Eine Rechnungsprüfung ist nicht automatisch ein Auftrag zur Beschwerde.
 
-## Qualitätsanker
+## 1.4 Vertiefung und Quellen
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+Für die jeweilige Frage können vorhandene Spezialskills optional unterstützen, etwa `fahrtkosten`, `dolmetscher-uebersetzer` oder `festsetzung-beschwerde`. Prüfe deren Aussagen am aktuellen beziehungsweise zeitlich einschlägigen amtlichen JVEG-Text; eine Verweisung ersetzt keinen eigenen Abgleich. Hinweise in `references/quellenhygiene.md` und `references/zitierweise.md` sind ergänzend nutzbar.
+
+Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Aussagegehalt verwenden. Ordne die maßgebliche Gesetzesfassung nach den Übergangsregeln zu und trenne Quellenstatus von der rechtlichen Begründung des Empfängertexts.
+
+## 1.5 Ergebnis
+
+Liefere das bestellte Dokument vollständig ausformuliert. Ein Rechenblatt enthält Tätigkeit, Datum, Dauer, Satz, Betrag, Beleg und Zahlungen und erläutert streitige Ansätze. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden.
+
+Bei einem offenen Nachweis liefere den belegten Teil vorläufig, benenne die konkrete Ergänzung und setze nach Antwort bis zur Endfassung fort. Dokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung. Keine eigenständige Einreichung.
+
+## 1.6 Beispiel
+
+Ein Sachverständiger möchte eine Kürzung der Reisezeit beantworten. Vergleiche Auftrag, Termin, Fahrtbelege und tatsächliche Zeit; fordere nur fehlende entscheidende Angaben an. Nach Klärung rechne die Position neu und verfasse die beauftragte Erwiderung mit zutreffenden Anlagen.
+
+Fehlender Datei- oder Quellenzugriff begrenzt den abhängigen Teil, nicht die gesamte Bearbeitung. Ohne Export liefere Text; andere Repository-Dateien sind keine Voraussetzung.
 
 ---
 
@@ -732,43 +730,44 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 _Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: JVEG-Kostenprüfer._
 
-# Kaltstart und Routing
+# 1. JVEG-Abrechnung bis zum gewünschten Dokument bearbeiten
 
-## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+## 1.1 Zweck
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Prüfe den vorgelegten Vergütungs- oder Entschädigungsvorgang und arbeite bis zur bestellten Abrechnung, Kürzungserwiderung oder zum Antrag weiter. Beginne mit den vorhandenen Unterlagen, nicht mit einem allgemeinen Fragenkatalog.
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+## 1.2 Eingaben und Frist
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+Entnimm Auftrag beziehungsweise Ladung, Tätigkeitsnachweis, Rechnung und gerichtlicher Nachricht die Rolle, heranziehende Stelle, Zeitpunkte und das Ziel. Unterscheide Sachverständige, Dolmetscher, Übersetzer, Zeugen und ehrenamtliche Richter. Ein Privatauftrag ist nicht ohne Weiteres eine JVEG-Heranziehung.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+Prüfe die Dreimonatsfrist nach Paragraf 2 JVEG am tätigkeitsabhängigen Auslöser. Bei schriftlichem Gutachten kommt es auf den Eingang bei der beauftragenden Stelle an, nicht pauschal auf das Rechnungsdatum oder einen angenommenen Auftragsabschluss. Prüfe weitere Heranziehungen, Verlängerung, Belehrung und Wiedereinsetzung nur nach den einschlägigen Voraussetzungen.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+## 1.3 Rechnung und Nachfragen
 
-## JVEG-spezifischer Kaltstart
-- **Wer reicht ein?** Sachverständiger (§ 9 JVEG), Dolmetscher/Übersetzer (§ 11), Zeuge (§ 19), ehrenamtlicher Richter (§ 16).
-- **Welche Honorargruppe?** M1 (einfach), M2 (durchschnittlich), M3 (überdurchschnittlich); maßgeblich ist Beweisbeschluss bzw. Anordnung des Gerichts (§ 9 Abs. 1 S. 2 JVEG).
-- **Frist?** § 2 Abs. 1 JVEG: Antrag binnen drei Monaten nach Beendigung des Auftrags, sonst Erlöschen des Anspruchs.
-- **Auszahlungsweg?** Festsetzung durch Urkundsbeamten (§ 4 JVEG); Beschwerde gegen Festsetzung (§ 4 Abs. 3 JVEG: zweiwöchige Frist, Beschwerdewert über 200 EUR).
-- Häufige Falle: Stundensatz aus dem Privatauftrag wird auf JVEG-Rechnung übertragen — nur die JVEG-Honorargruppen sind hier maßgeblich.
+1. Ordne jede geltend gemachte Leistung ihrem gesetzlichen Tatbestand und Zeitstand zu. Sachverständigen- und Dolmetscherhonorar richten sich nach Paragraf 9, Übersetzungen nach Paragraf 11; die medizinischen Honorargruppen sind keine allgemeine Einteilung aller Sachverständigenleistungen.
+2. Gleiche Stunden, erforderliche Reise- und Wartezeiten, Auslagen, Umsatzsteuer und Zahlungen mit Nachweisen ab. Prüfe Rundung nach der jeweiligen Anspruchsgruppe und verhindere Doppelansätze.
+3. Fehlt ein Fristnachweis oder die Erläuterung einer konkreten Kostenposition, frage gezielt danach. Nach Eingang ändere die betroffene Rechnung oder Argumentation und verfasse das bestellte Dokument fertig.
+4. Zeigt die Antwort eine neue entscheidende Lücke, etwa eine bereits geleistete Teilzahlung, kläre nur diese. Bei fortbestehendem Hindernis liefere den unabhängigen Teil vorläufig und benenne die für die Endfassung benötigte Ergänzung; setze nach Antwort dort fort.
+
+## 1.4 Kürzung und Festsetzung
+
+Prüfe eine Kürzung anhand ihres konkreten Grundes, insbesondere Paragraf 8a JVEG bei Pflichtverletzung oder Kostenüberschreitung. Materialverfügbarkeit ersetzt nicht Erforderlichkeit und Erstattungsfähigkeit. Ein frei verlangter privater Stundensatz ist keine ausreichende Vergütungsgrundlage; prüfe gegebenenfalls besondere Vergütung nach Paragraf 13 oder eine Vereinbarung nach Paragraf 14.
+
+Trenne Abrechnung beziehungsweise Zahlstellenmitteilung von gerichtlicher Festsetzung nach Paragraf 4. Für die Beschwerde sind Beschluss, Zuständigkeit, Beschwerdewert, Zulassung und gegebenenfalls weitere Beschwerde zu prüfen. Die aktuelle Wertgrenze liegt bei mehr als 300 Euro; für frühere Heranziehungen beachte Paragraf 25. Keine pauschale Zweiwochenfrist für die Beschwerde nach Paragraf 4 annehmen.
+
+## 1.5 Quellen und Ausgabe
+
+Prüfe tragende Normen und Sätze amtlich in der maßgeblichen Fassung einschließlich Paragrafen 24 und 25 JVEG. Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Aussagegehalt verwenden; keine Literaturfundstellen aus Erinnerung. Ergänzende Zitierhinweise in `references/zitierweise.md` sind optional nutzbar.
+
+Liefere das beauftragte Ergebnis in vollständigen Sätzen und mit nachvollziehbarer Rechnung, nicht als bloße Auswahl weiterer Module. Ein Prüfauftrag wird nicht ungefragt zum Beschwerdeentwurf. Quellenstatus steht erforderlichenfalls in einer separaten Arbeitsnotiz, nicht im Mandantenbrief.
+
+Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung. Einreichung und Außenkommunikation benötigen ausdrückliche Freigabe.
+
+## 1.6 Beispiel
+
+Ein Zeuge verlangt die Prüfung einer Entschädigung, Fahrtbeleg und Ladung liegen vor, der tatsächliche Verdienstausfall ist offen. Prüfe die übrigen Positionen und frage nach Ausfall und Berechnungsgrundlage. Nach Antwort ergänze den Betrag nach der zutreffenden Anspruchsregel und stelle den bestellten Antrag oder Prüfvermerk fertig.
+
+Ohne Datei- oder Quellenzugriff benenne die konkrete Grenze und bearbeite unabhängige Teile. Ohne Export liefere Text; weitere Skills sind keine Voraussetzung.
 
 ---
 

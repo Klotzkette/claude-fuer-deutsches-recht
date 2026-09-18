@@ -660,7 +660,7 @@ Bereite den Zahlungsstreit nach einer Designverletzung auf. Gleiche Verkaufsdate
 
 ## 2. Eingaben
 
-Lies zuerst Auftrag, Register- und Titelunterlagen, Rechnungslegung, Einzelrechnungen, Gutschriften, Warenwirtschaft und Kostenkonten. Erfasse Parteirolle, Schutzrecht, konkrete Produkte, Gebiet, Verletzungszeitraum, Verschulden, Bindungsumfang eines Feststellungstitels und bereits gewählte Berechnungsmethode. Kennzeichne nicht gelesene Daten und streitige Aussagen. Frage höchstens einmal gebündelt nach den für den Betrag entscheidenden Lücken; liefere im Übrigen einen bedingten Entwurf.
+Lies zuerst Auftrag, Register- und Titelunterlagen, Rechnungslegung, Einzelrechnungen, Gutschriften, Warenwirtschaft und Kostenkonten. Erfasse Parteirolle, Schutzrecht, konkrete Produkte, Gebiet, Verletzungszeitraum, Verschulden, Bindungsumfang eines Feststellungstitels und bereits gewählte Berechnungsmethode. Kennzeichne nicht gelesene Daten und streitige Aussagen. Fehlende Rechnungen, Retourenbelege oder Kostenaufteilungen gezielt anfordern; Materialverfügbarkeit beweist nicht die Vollständigkeit der Rechnungslegung. Bearbeitbare Positionen vorläufig berechnen, fehlende Tatsachen nicht unterstellen.
 
 ## 3. Ablauf und Checkliste
 
@@ -678,7 +678,7 @@ Prüfe nach Paragraf 42 Absatz 2 DesignG, welcher Gewinn durch die Verletzung er
 
 ### 3.4. Beweis und Abschluss
 
-Ordne jeder streitigen Rechenzeile Anspruchsvoraussetzung, Darlegung, Gegenbeleg und Auswirkung zu. Unterscheide Auskunft über Herkunft und Vertriebswege nach Paragraf 46 DesignG von ergänzender Rechnungslegung für den Schaden nach Paragraf 242 BGB; keinen unbegrenzten Datenraumzugang unterstellen. Benenne konkret fehlende Rechnungen oder Kostenbelege. Rechne Summen und Varianten einmal unabhängig nach. Danach liefere Ergebnis und Restlücken, keine Wiederholungsschleife. Keine Forderung versenden, keinen Methodenverzicht oder Vergleich eigenmächtig erklären.
+Ordne jeder streitigen Rechenzeile Anspruchsvoraussetzung, Darlegung, Gegenbeleg und Auswirkung zu. Unterscheide Auskunft über Herkunft und Vertriebswege nach Paragraf 46 DesignG von ergänzender Rechnungslegung für den Schaden nach Paragraf 242 BGB; keinen unbegrenzten Datenraumzugang unterstellen. Nach Eingang fehlender Rechnungen oder Kostenbelege die zugehörigen Verkäufe, Abzüge und Zurechnungsszenarien aktualisieren und Summen unabhängig nachrechnen. Zeigt eine Gutschrift einen neuen Widerspruch zur Artikelzuordnung, gezielt nachfassen; bereits beantwortete Fragen nicht wiederholen. Anschließend den bestellten Forderungs- oder Erwiderungstext fertigschreiben. Keine Forderung versenden, keinen Methodenverzicht oder Vergleich eigenmächtig erklären.
 
 ## 4. Quellenpflicht
 
@@ -690,7 +690,11 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Erstelle `ergebnis.md` mit Sachverhalt, Anspruchsrahmen, Mengenabgleich, Kostenentscheidungen, nachvollziehbarer Herleitung des Betrags, Zurechnungsszenarien und ausformulierter Forderungs- oder Erwiderungspassage. Tabellen ergänzen die Begründung, ersetzen sie nicht. Das Endprodukt besteht aus vollständigen Sätzen, nicht aus Skeletten oder Halbsätzen. Ausschließlich dezimale Überschriften; Times New Roman 11 pt bei formatiertem Export, sonst ausdrücklicher Exporthinweis. Beleglücken und Freigabevorbehalt nennen.
+Erstelle Anspruchsrahmen, Mengenabgleich, Kostenentscheidungen, nachvollziehbare Herleitung des Betrags und Zurechnungsszenarien. Den bestellten Forderungs- oder Erwiderungstext ausformulieren; ein reiner Berechnungsauftrag verlangt keinen zusätzlichen Schriftsatz. Ein vorgegebener Dateiname ist maßgeblich, andernfalls `ergebnis.md` verwenden.
+
+Tabellen ergänzen die Begründung, ersetzen sie nicht. Quellenprüfvermerke getrennt vom Außenentwurf halten. Das Endprodukt besteht aus vollständigen Sätzen, nicht aus Skeletten oder Halbsätzen. Ausschließlich dezimale Überschriften; Times New Roman 11 pt bei formatiertem Export, sonst ausdrücklicher Exporthinweis.
+
+Bei einem Hindernis den vorläufigen Stand und benötigten Beitrag nennen, nach Eingang bis zur Endfassung fortsetzen. Ist kein Dateiexport möglich, den bestellten Forderungs- oder Erwiderungstext mit der erforderlichen Mengen-, Kosten- und Gewinnrechnung vollständig in der Antwort ausgeben; keinen Download behaupten.
 
 ## 6. Beispiele
 

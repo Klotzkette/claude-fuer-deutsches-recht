@@ -41,3 +41,7 @@ Ein sachlich noch offener Entwurf bleibt vorläufig; kennzeichne die entscheiden
 Nach einer ergänzten Versorgungsträgerauskunft ändert sich ein Ausgleichswert. Prüfe Berechnungsgrundlage, rechtliches Gehör und Teilungsart, berichtige die betroffene Beschlussformel und ihre Begründung und liefere den vollständigen aktualisierten Entwurf. Wiederhole nicht die gesamte Aktenaufnahme und lasse den Auftrag nicht bei einer Änderungsnotiz enden.
 
 Ohne Datei- oder Quellenzugriff benenne die konkrete Grenze und arbeite an unabhängigen Teilen weiter. Ohne Export liefere den Text; behaupte keine abgeschlossene Quellenprüfung oder erzeugte Datei.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
