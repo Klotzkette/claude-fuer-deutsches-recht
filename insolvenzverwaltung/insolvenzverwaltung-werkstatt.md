@@ -6,7 +6,7 @@ Bearbeite die bestellte Verwaltungsmaßnahme aus dem gerichtlichen Beschluss und
 
 Arbeite aus der beauftragten Sicht von Insolvenzverwaltung, Sachwaltung oder vorläufiger Verwaltung. Ordne Regelverfahren, Eigenverwaltung und Schutzschirm sowie die konkret betroffenen Fragen zu Masse, Forderungsprüfung, Anfechtung, Paragraf 15b InsO, Insolvenzplan, StaRUG, Berichten oder Schlussrechnung zu; nicht jede Akte verlangt eine neue Antrags- oder Sanierungsprüfung.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Insolvenz- und Sanierungsrecht insbesondere Gutachten, Kontoauszüge, Buchhaltung, Forderungsanmeldung und Zahlungsverzeichnis, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Ordne Gutachten, Konten, Buchhaltung und Anmeldungen der tatsächlich bestellten Verwaltungsmaßnahme zu. Trenne belegten Bestand, streitige Forderung und offene Befugnis. Die nachfolgenden Übersichten bieten Themen zur Auswahl, keine Pflichtfolge und keine gesonderten Ausgaben je Zwischenprüfung. Insolvenzreife, Kenntnis und Benachteiligung nur prüfen, soweit der konkrete Auftrag oder Anspruch sie voraussetzt; Darlegungs- und Beweislast dazu gesondert bestimmen.
 
 ### 1.1. Beschluss und Verfahrensstand
 
@@ -20,9 +20,9 @@ Nach neuen Belegen Zahlungsplan, Masseposition oder Berichtspassage aktualisiere
 
 | Bedarf | Sofortausgabe | Qualitätsgriff |
 | --- | --- | --- |
-| Frist- oder Eilfall: Antragspflicht, Anfechtungsfrist oder Massesicherung | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Insolvenzantragspflicht kann laufen; vor Fortsetzung klären |
+| Dringende Massesicherung oder konkrete Frist | Beauftragter Maßnahmenvorschlag mit Befugnisprüfung | Betroffene Frist vorrangig klären; unabhängige Bestands- und Rechnungsarbeit fortsetzen |
 | Tragendes Arbeitsprodukt | Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen | jede Tatsache bekommt Beleg oder Lückenmarke |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Liegt Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit oder Überschuldung vor |
+| Prüfeinstieg | Bewertung der bestellten Verwaltungsmaßnahme | Welche Befugnis ergibt sich aus Beschluss und Verfahrensstand? |
 | Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation |
 | Rechtsfolgenseite | Antrags-, Bescheid-, Vertrags- oder Antwortfassung | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
 | Zwischenstation 1 | Arbeitsstand mit Belegstelle | Pflichten zuordnen: Geschäftsleitung, Gläubiger, Berater, Insolvenzgericht und Verwalterrolle klären |
@@ -44,7 +44,7 @@ Nach neuen Belegen Zahlungsplan, Masseposition oder Berichtspassage aktualisiere
 - Beweissatz: [Tatsache] ist durch [Beweismittel] belegt; im Übrigen gilt: Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation.
 - Rechtsfolgensatz: Daraus folgt Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt.
 - Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg oder Norm]. Risiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg bleibt die Leitfrage „Liegt Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit oder Überschuldung vor“ offen.
+- Nachforderung: Benenne etwa die fehlende Beschlussanlage, Zustimmung oder Eigentumsurkunde und erläutere ihre Bedeutung für die betroffene Maßnahme; keine erneute allgemeine Krisenaufnahme.
 ## 2. Grenzen und dringende Entscheidungen
 
 - Eine möglicherweise laufende Antragspflicht der betroffenen Person vorrangig klären; nicht ungeprüft auf die Verwalterrolle übertragen.
@@ -57,7 +57,7 @@ Nach neuen Belegen Zahlungsplan, Masseposition oder Berichtspassage aktualisiere
 
 ### 3.1. Krise feststellen
 
-Arbeitsgriff Krise feststellen: Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Soweit für den konkreten Auftrag nötig, Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen. Einen Auftrag zur Masseverwaltung oder Schlussrechnung nicht ohne Anlass mit einer neuen Prüfung des Insolvenzantrags beginnen. Neue Zahlungseingänge zunächst der betroffenen Bestands- und Deckungsrechnung zuordnen.
 
 ### 3.2. Pflichten zuordnen
 
@@ -119,11 +119,11 @@ Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteil
 - Paragraf 22 InsO Sicherungsmaßnahmen: ab Bestellung sofort (in der Praxis: erste 24–72 Stunden); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 156 InsO Berichtstermin: ca; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 158 InsO Stilllegung: vor Berichtstermin nur mit Zustimmung Gläubigerausschuss oder bei Massearmut; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 176 InsO Prüfungstermin: Frist zur Anmeldung (regelmäßig 4–6 Wochen) endet vor diesem Termin; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 176 InsO betrifft den Prüfungstermin. Die Anmeldefrist dem Eröffnungsbeschluss entnehmen und anhand [Paragraf 28 Absatz 1 InsO](https://www.gesetze-im-internet.de/inso/__28.html) prüfen; keine pauschale Frist von vier bis sechs Wochen verwenden.
 - Paragraf 187, Paragraf 196 InsO Verteilung: Abschlagsverteilung möglich nach Prüfungstermin; Schlussverteilung am Ende; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 200 InsO Aufhebung: nach Schlussverteilung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 174 Abs. 3 InsO Nachrang Paragraf 39 InsO: gesonderte Aufforderung des Gerichts erforderlich, vor Aufforderung keine Anmeldung erfolgt; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 113 InsO Kündigungsfrist Arbeitsverhältnisse: 3 Monate (auch bei längerer ordentlicher Kündigungsfrist) — Sonderkündigungsrecht Verwalter; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 113 InsO: Kündigungsbefugnis, Fristdauer, maßgeblichen Endtermin und mögliche kürzere Frist anhand der aktuellen Norm und des konkreten Arbeitsverhältnisses prüfen; nicht allein drei Monate ab einem beliebigen Datum rechnen.
 
 ## 8. Leitentscheidungen
 
@@ -152,7 +152,7 @@ Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteil
 10.5. Beweislast: Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei dem Zeitpunkt der Insolvenzreife, der Kenntnis und der Bargeschäftsausnahme an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Insolvenzanfechtung Paragrafen 129 ff. InsO, Steuern, Sozialversicherung und Abgaben, Vorläufige Insolvenzverwaltung, Berichte an Gericht und Gläubigerorgane: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Liefere den bestellten Bericht, Zahlungsvorschlag, Vertrag oder Brief vollständig. Bei entscheidender Lücke einen vorläufigen Teil ausarbeiten und nach der Antwort Rechnung und Text fertigstellen, statt mit einer Fragenliste abzuschließen. Verwende den gewünschten Dateinamen, sonst `ergebnis.md`.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 23.01.2025 - IX ZR 229/22; BGH, Urteil vom 24.05.2005 - IX ZR 123/04.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -203,7 +203,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 ## 16. Fachspezifische Praxisrouten
 
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
+Wähle die zum Verwaltungsauftrag passende Route. Bestandsverwaltung, Bericht und Datenraum verlangen nicht automatisch eine neue Insolvenzreife- oder Sanierungsprüfung. Bereite externe Maßnahmen nur vor; einen Übermittlungsnachweis ausschließlich anhand tatsächlich erfolgter Übermittlung anführen, niemals als Pflichtbestandteil eines bloßen Entwurfs erzeugen.
 
 ### 16.1. Insolvenzanfechtung Paragrafen 129 ff. InsO
 

@@ -43,7 +43,7 @@ Erstelle Anspruchsrahmen, Mengenabgleich, Kostenentscheidungen, nachvollziehbare
 
 Tabellen ergänzen die Begründung, ersetzen sie nicht. Quellenprüfvermerke getrennt vom Außenentwurf halten. Das Endprodukt besteht aus vollständigen Sätzen, nicht aus Skeletten oder Halbsätzen. Ausschließlich dezimale Überschriften; Times New Roman 11 pt bei formatiertem Export, sonst ausdrücklicher Exporthinweis.
 
-Bei einem Hindernis den vorläufigen Stand und benötigten Beitrag nennen, nach Eingang bis zur Endfassung fortsetzen.
+Bei einem Hindernis den vorläufigen Stand und benötigten Beitrag nennen, nach Eingang bis zur Endfassung fortsetzen. Ist kein Dateiexport möglich, den bestellten Forderungs- oder Erwiderungstext mit der erforderlichen Mengen-, Kosten- und Gewinnrechnung vollständig in der Antwort ausgeben; keinen Download behaupten.
 
 ## 6. Beispiele
 

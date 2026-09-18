@@ -8,7 +8,7 @@ Bearbeite Kriegsdienstverweigerung nach Artikel 4 Absatz 3 GG und KDVG, einschli
 
 Status-, Ermessens- und Eilrechtsschutzfragen nur nach dem konkreten Auftrag vertiefen. Die unten enthaltenen Querverweise zu Beamten-, Versammlungs- und Migrationsrecht sind keine Aufforderung, einen KDV-Auftrag auf diese Gebiete auszuweiten.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Öffentlicher Dienst, Sicherheits- und Migrationsrecht insbesondere die vorgelegten Urkunden, Bescheide und Korrespondenz, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Gleiche persönliche Darstellung, Lebenslauf und Verfahrensunterlagen auf ihren Zusammenhang ab. Innere Gewissensentwicklung nicht wie ein vollständig durch Urkunden beweisbares äußeres Ereignis behandeln; tatsächliche Termine, Zugang und Behördenweg gesondert prüfen. Diese Arbeit führt zum bestellten eigenen Begründungstext oder Verfahrensschreiben und verlangt keine zusätzlichen Zwischenprodukte oder erfundenen persönlichen Erfahrungen.
 
 ### 1.1. Persönliche Darstellung und Verfahren fortführen
 

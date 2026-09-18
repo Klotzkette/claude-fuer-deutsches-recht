@@ -1,17 +1,15 @@
 {
   "schema_version": 1,
   "plugin": "rechtstheorie-rechtsphilosophie",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die alte Fassung behandelte Anspruchsgrundlagen und Klausuraufbau statt Geltung, Durchsetzung, Rechtfertigung und Argumentrekonstruktion.",
+    "reason": "Vollständig gelesen: Argumentrekonstruktion trennt Geltung, Wirkung und Rechtfertigung; fehlender Originaltext wird nicht durch ein angebliches Zitat ersetzt.",
     "changes": [
-      "Geltung, Wirksamkeit und moralische Rechtfertigung als getrennte Analysefragen ausgestaltet.",
-      "Prämissenprüfung, Gegenbeispiel und faire Theoriegegenüberstellung ergänzt.",
-      "Unnötigen Gegenwartsnormenstamm entfernt."
+      "Nachgelieferte Passagen verändern These und Prämissen und führen zum fertigen Essayabschnitt; weder Rechtsprechung noch Anspruchsprüfung wird für abstrakte Logik erzwungen."
     ],
-    "sha256": "4def91aa727ec289eee676873b10636739cd5a8f2407194bcd003f1e67192b49"
+    "sha256": "d59a5ddd5040a905f08f1cf500bd151800e2c2d0d031499b300c34b169e71afd"
   },
   "selection": {
     "positive": [
@@ -56,5 +54,13 @@
       ],
       "target_skill": "rechtsbegriff-und-geltung"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die gesamte Werkstatt einschließlich historischer, ökonomischer und ausbildungsbezogener Fragen wurde gelesen. Theorievergleich bleibt eine begründete Textarbeit statt Prozessvorbereitung.",
+    "changes": [
+      "Originalpassagen und Wirkungsdaten führen zur gezielten Überarbeitung der Argumentation; Quellenanforderung und Vergleichstabelle ersetzen nicht den bestellten ausformulierten Text."
+    ],
+    "sha256": "d44fbe34aa89e46f6a13ba444822b2430a08687a87ac2568f7c8124b0d4402bb"
+  }
 }

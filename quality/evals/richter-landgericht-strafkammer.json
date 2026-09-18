@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-landgericht-strafkammer",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stpo/__203.html",
@@ -10,14 +10,12 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Der alte Mini verwechselte Anklagearbeit mit gerichtlicher Eröffnungs- und Urteilsprüfung.",
-    "changes": [
-      "Zwischenverfahren und Hauptverhandlungsüberzeugung getrennt.",
-      "Einführung von Beweisen und Entlastungsprüfung konkretisiert."
-    ],
-    "sha256": "78aa50efcd6f522226a2ce3045aa85557f9c4cf34164e37153a55e06d8d0e4ea"
+    "verdict": "retained",
+    "reason": "Am 18. September vollständig gelesen. Protokollnachweis und Vollstreckungsstand führen zur gezielten Ergänzung von Beweiswürdigung und Gesamtstrafe; gerichtliche Aufklärung wird nicht durch Nutzerantwort ersetzt. Keine Anklagearbeit oder fingierte Beweise. Keine neue Quellenverifikation oder Live-Modellprüfung.",
+    "changes": [],
+    "sha256": "32b08a1f4be533f7a4b0937dd560bb6b2dcac6abec659289d255f59e7d4fcf5c"
   },
+  "workshop_review": {"verdict":"revised","reason":"Am 18. September gesamten Text geprüft. Eröffnung, Hauptverhandlung und Rechtsfolgen bleiben getrennt; Einführungsnachweise und Vorverurteilungen werden konkret nachgefordert und in den bestellten Entwurf eingearbeitet. Ein Herkunftshinweis zum Ausgangsmaterial war noch redaktionell statt sachlich formuliert.","changes":["Verweis auf Paragrafen 76 ff. als unmittelbare sachliche Anwendungsprüfung statt Bearbeitungsgeschichte formuliert","Gerichtliche Rollenführung, konkrete Fortsetzung und amtliche Freigabegrenzen unverändert erhalten"],"sha256":"07b99a0d3401583ff8baa67ab2ac30950f6412cd09e99cd545b9f62e0011a686"},
   "selection": {
     "positive": [
       "Erstellen Sie einen Eröffnungsvermerk für die Strafkammer.",

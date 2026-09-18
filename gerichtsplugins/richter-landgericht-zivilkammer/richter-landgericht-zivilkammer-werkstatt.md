@@ -18,7 +18,7 @@ Nach Eingang ergänze die betroffene Parteistation oder Beweiswürdigung und arb
 
 | Bedarf | Sofortausgabe | Qualitätsgriff |
 | --- | --- | --- |
-| Frist- oder Entscheidungsengpass: Antrag, Gehör, Entscheidungsreife oder förmliche Frist | Verfahrensblatt mit Sofortverfügung oder Sicherungsmaßnahme | Eine Notfrist oder Verkündungsfrist läuft; Fristenkontrolle vor Inhaltsarbeit; vor Fortsetzung klären |
+| Laufende Not- oder Verkündungsfrist | Konkrete Frist und erforderlichen Verfügungsentwurf vorbereiten | Fehlenden Zustellnachweis gezielt anfordern; unabhängige Inhaltsarbeit fortsetzen |
 | Tragendes Arbeitsprodukt | Relationszeile: Anspruch, Klägervortrag, Bestreiten, Beweislast, Beweismittel, Ergebnis | jede Feststellung erhält Parteivortrag, Aktenfund oder Beweisergebnis |
 | Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Ist die Klage schlüssig und das Bestreiten erheblich |
 | Beweis- und Aktenarbeit | Vortrags-, Beweis- und Entscheidungsreifematrix | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle |
@@ -43,12 +43,12 @@ Nach Eingang ergänze die betroffene Parteistation oder Beweiswürdigung und arb
 - Entscheidungssatz: Aus [Norm und Subsumtion] folgt Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren.
 - Gegenposition: Der stärkste Gegenantrag oder die abweichende Würdigung lautet [Position]. Sie scheitert oder greift durch, weil [Beleg, Beweislast oder Norm].
 - Aufklärungspunkt: Für die Leitfrage „Ist die Klage schlüssig und das Bestreiten erheblich“ fehlt [Vortrag/Beweis/Gehör]; nächste Verfügung: [Text] bis [Datum].
-## 2. Stop-Kriterien
+## 2. Fristen und Entscheidungsreife
 
 - Eine Notfrist oder Verkündungsfrist läuft; Fristenkontrolle vor Inhaltsarbeit.
 - Ohne gebotenen Hinweis droht eine Überraschungsentscheidung.
 - Der Beweisbeschluss wäre Ausforschung; erst Schlüssigkeit klären.
-- Wenn Antrag, Parteistellung, Zuständigkeit, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine gerichtliche oder prozessuale Lückenliste erzeugt.
+- Fehlen Antrag, Parteistellung, Zuständigkeit, Fristbeginn oder Verfahrensstand, frage nach dem konkreten Aktenstück oder entwirf den erforderlichen Hinweis. Nach dokumentierter Klärung den bestellten Entwurf fortführen; unabhängige Teile nicht bis dahin zurückhalten.
 - Ein Entscheidungsentwurf markiert fehlendes Gehör, offenen Beweis und ungeklärte Zulässigkeit, statt Entscheidungsreife nur zu behaupten.
 
 ## 3. Werkstattfluss
@@ -92,7 +92,7 @@ Entscheidungsgriff Arbeitsprodukt: Hinweisverfügung, Beweisbeschluss, Vergleich
 | ZPO Paragraf 300 ff. und Paragraf 313 | Endurteil und Urteilsinhalt | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren |
 | ZPO Paragraf 278 | gütliche Streitbeilegung und Güteverhandlung | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren |
 | GVG Paragraf 21e ff | Geschäftsverteilung und gesetzlicher Richter | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren |
-| Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen | Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren |
+| ZPO Paragraf 495a | Anwendungsbereich und Gehör gesondert prüfen, kein allgemeiner Verfahrensweg der Zivilkammer | Prozesslage und etwaigen Verhandlungsantrag aus der Akte feststellen | Keine ungeprüfte Übernahme eines amtsgerichtlichen Verfahrensmodells |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Entscheidungswirkung
 
@@ -108,7 +108,7 @@ Entscheidungsgriff Arbeitsprodukt: Hinweisverfügung, Beweisbeschluss, Vergleich
 - ZPO Paragraf 300 ff. und Paragraf 313: Endurteil und Urteilsinhalt.
 - ZPO Paragraf 278: gütliche Streitbeilegung und Güteverhandlung.
 - GVG Paragraf 21e ff.: Geschäftsverteilung und gesetzlicher Richter.
-- Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 495a ZPO: Anwendungsbereich, geltende Wertgrenze und Gehör prüfen; nicht als allgemeine Verfahrensbefugnis der Zivilkammer behandeln.
 - Paragrafen 313, 313a ZPO; Paragrafen 91 ff; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 139 ZPO: Hinweise früh, konkret und aktenkundig; keine Überraschungsentscheidung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 286 ZPO: freie Beweiswürdigung mit Gesamtwürdigung aller erheblichen Indizien; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -179,10 +179,10 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Berufungsverfahren Paragraf 511 ff | Statthaftigkeit und funktionelle Zuständigkeit klären: Berufungssumme über sechshundert Euro oder Zulassung (Paragraf 511 ZPO), Landgericht als Berufungsgericht nach Paragraf 119 GVG. | Entscheidungsbaustein zu Berufungsverfahren Paragraf 511 ff mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
+| Berufungsverfahren Paragraf 511 ff | Beschwerdewert oder Zulassung nach der maßgeblichen Fassung des Paragrafen 511 ZPO; Zuständigkeit der Zivilkammer nach Paragraf 72 GVG prüfen | Berufungsvermerk mit Zulässigkeit, Prüfungsumfang und konkretem Entscheidungs- oder Hinweisentwurf |
 | Frühe Erste Verfügung Paragraf 139 | Frühe Erste Verfügung Paragraf 139: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
 | Große Relation Zivilrecht | Große Relation Zivilrecht: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
-| Finale Entscheidung als Volltext (Urteil Zivilkammer) | ZPO; Paragrafen 708, 709 ZPO für vorläufige Vollstreckbarkeit beim Landgericht. Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
+| Finale Entscheidung als Volltext (Urteil Zivilkammer) | Entscheidungsreife sowie Paragrafen 708, 709 ZPO prüfen; vorbereitende Skills sind optional, die Prüfung kann unmittelbar aus der Akte erfolgen | Vollständiger Urteilsentwurf mit Streitstoff, Beweiswürdigung und Nebenentscheidungen |
 | Vergleich und Mediation | Vergleich und Mediation: Anerkenntnis, Säumnis, Vergleich, Erledigung und Klagerücknahme als unterschiedliche Prozesslagen trennen. | Verhandlungsblatt zu Vergleich und Mediation mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug |
 | Zeugenbeweis und Parteivernehmung | Zeugenbeweis und Parteivernehmung: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen. | Beweismatrix zu Zeugenbeweis und Parteivernehmung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
 | Beweisbeschluss und Sachverständiger | Beweisbeschluss und Sachverständiger: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen. Sachverständigenbeweis nur bei Fachfrage anordnen. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
@@ -195,7 +195,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 ### 16.1. Berufungsverfahren Paragraf 511 ff
 
-Bearbeitungsauftrag: Statthaftigkeit und funktionelle Zuständigkeit klären: Berufungssumme über sechshundert Euro oder Zulassung (Paragraf 511 ZPO), Landgericht als Berufungsgericht nach Paragraf 119 GVG. Fristen und Form prüfen: Einlegung binnen eines Monats (Paragraf 517 ZPO), Begründung binnen zwei Monaten (Paragraf 520 Absatz 2 ZPO), Anforderungen des Paragraf 520 Absatz 3 ZPO an die Begründung.
+Bearbeitungsauftrag: Prüfe Statthaftigkeit, Beschwerdewert oder Zulassung nach der für den Fall maßgeblichen Fassung des Paragrafen 511 ZPO einschließlich Übergangsrecht. Der am 18.09.2026 abgerufene [amtliche Text](https://www.gesetze-im-internet.de/zpo/__511.html) nennt einen Wert über 1.000 Euro; alte Verfahren nicht ungeprüft danach beurteilen. Die Berufungszuständigkeit der Zivilkammer nach [Paragraf 72 GVG](https://www.gesetze-im-internet.de/gvg/__72.html) prüfen, einschließlich besonderer Zuständigkeiten. Einlegungs- und Begründungsfrist nach Paragrafen 517 und 520 ZPO anhand der Zustell- und Verfahrensdaten berechnen; die Anforderungen an die Begründung gesondert prüfen.
 Lieferstück: Entscheidungsbaustein zu Berufungsverfahren Paragraf 511 ff mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.2. Frühe Erste Verfügung Paragraf 139
@@ -237,17 +237,17 @@ Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streit
 
 ### 16.8. Entscheidungsvorschlag Kammer
 
-Bearbeitungsauftrag: Entscheidungsvorschlag Kammer: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann. Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
+Bearbeitungsauftrag: Bestimme Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen. Prüfe Rechtsmittel, Beschwer und Zulassung. Im Berufungsverfahren den Prüfungsumfang nach Paragrafen 513, 529 und 531 ZPO gesondert begründen; keine voraussetzungslose Wiederholung der ersten Instanz.
 Lieferstück: Entscheidungsbaustein zu Entscheidungsvorschlag Kammer mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.9. Kostenentscheidung und Streitwert
 
-Bearbeitungsauftrag: Kostenentscheidung und Streitwert: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen. Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
+Bearbeitungsauftrag: Prüfe Kosten und Streitwert anhand von Anträgen, Erledigungsumfang und Entscheidungsart. Stimme Hauptsache, Zinsen, Nebenforderungen, Kosten und Vollstreckbarkeit ab; Streitwertfestsetzung gesondert behandeln. Berufungsspezifische Entscheidungen nicht ungeprüft aus einem erstinstanzlichen Muster übernehmen.
 Lieferstück: Entscheidungsbaustein zu Kostenentscheidung und Streitwert mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.10. Urteil Großes Zivilurteil
 
-Bearbeitungsauftrag: Urteil Großes Zivilurteil: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann. Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
+Bearbeitungsauftrag: Bei Entscheidungsreife das bestellte Urteil mit vollständiger Begründung und abgestimmten Nebenentscheidungen verfassen. Bei einer Berufung neue Tatsachen, Bindung an Feststellungen und konkrete Angriffe nach Paragrafen 513, 529 und 531 ZPO prüfen, statt den Fall kommentarlos neu aufzurollen. Offenes Gehör oder ausstehende Beweise nicht durch erfundene Ergebnisse ersetzen.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
 ### 16.11. Eingang und Besetzung

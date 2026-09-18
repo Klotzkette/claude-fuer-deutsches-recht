@@ -3,59 +3,39 @@ name: vorstand-ciso-kaltstart
 description: "Für Vorstand Ciso Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Vorstand Ciso Kaltstart
+# 1. Entscheidung der Geschäftsleitung zur Cybersicherheit vorbereiten
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Zweck
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Erstelle die bestellte Entscheidungsvorlage oder den Leitungsbericht zur Cybersicherheit. Kläre dafür Verantwortung, Budget, Umsetzung und Nachweis, ohne operative Aufgaben und Leitungspflichten gleichzusetzen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+## 1.2. Eingaben
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Lies Geschäftsverteilung, vorhandene Beschlüsse, Risikoberichte, Maßnahmenplan, Budget und die entscheidenden technischen Nachweise. Übernimm bekannte Angaben zu Einrichtung, betroffenen Diensten, CISO und Geschäftsleitung. Frage nur nach fehlenden entscheidenden Angaben.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.3. Ablauf
 
-## Wofür dieser Arbeitsgang da ist
-Rollen klären, Wer entscheidet was, Budget, Eskalationswege, Berichtslinien und persönliche Haftungsrisiken.
+1. Prüfe die Betroffenheit und das anwendbare Regime. Bei NIS2/BSIG untersuche insbesondere Paragrafen 28, 30 und 38 BSIG; bei Finanzunternehmen die einschlägige DORA-Abgrenzung.
+2. Ordne jeder erforderlichen Maßnahme Entscheidung, operative Verantwortung, Finanzierung und Überwachung zu. Trenne gesetzliche Pflicht, Vertragsanforderung und freiwilliges Verbesserungsziel.
+3. Fehlt ein Umsetzungsnachweis, frage nach dem konkreten Test, Beschluss oder Protokoll. Ein verabschiedetes Konzept belegt keine funktionierende Sicherung oder Wiederherstellung.
+4. Nach Eingang ändere Befund, verbleibendes Risiko und Entscheidungsvorschlag. Stelle die verlangte Vorlage mit nachvollziehbarem Budget- und Terminbedarf fertig; eine Liste offener Fragen ist kein Endprodukt.
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Bei einem laufenden Vorfall priorisiere Melde- und Handlungsfristen, ohne den gesamten langfristigen Maßnahmenplan vorzuschalten. Ergibt eine Antwort eine neue entscheidende Lücke, frage gezielt nach. Bereits geklärte Rollen oder Maßnahmen werden nicht erneut aufgenommen.
 
-## Kaltstartfragen
+## 1.4. Quellenpflicht
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+Prüfe Umsetzungs-, Überwachungs- und Schulungspflichten nach Paragraf 38 BSIG im konkreten Anwendungsbereich. Persönliche Haftung ist anhand Pflichtverletzung, Verschulden, Schaden und der einschlägigen gesellschaftsrechtlichen Regeln zu prüfen, nicht pauschal aus einem Vorfall abzuleiten.
 
-## Arbeitslogik
+Verifiziere tragende Normen und Entscheidungen; keine ungelesenen Literatur- oder Datenbankfundstellen. Beachte references/zitierweise.md, soweit verfügbar. Zusätzliche Abrufvermerke gehören in eine getrennte Arbeitsnotiz.
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+## 1.5. Ausgabe und Grenzen
 
-## Fachanker
+Liefere den bestellten Bericht oder Beschlussentwurf in vollständigen Sätzen. Benenne tatsächlichen Stand, erforderliche Entscheidung und offene Nachweise; erzwinge keinen pauschalen 100-Tage-Plan. Tabellen sind nur für konkrete Maßnahmen, Kosten oder Verantwortlichkeiten sinnvoll.
 
-- Primärer Anker: NIS-2 Governance, BSIG 2025, Organisationspflichten.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+Bei einer entscheidenden Lücke liefere unabhängige Teile vorläufig und setze nach Antwort bis zur Endfassung fort. Nutzerseitige Dateinamen haben Vorrang; ergebnis.md ist ein möglicher Standard. Formatierte Dokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung.
 
-## Typische Stolperstellen
+Beschlussfassung, Budgetfreigabe, externe Meldungen oder technische Eingriffe nicht eigenmächtig veranlassen oder als erfolgt darstellen. Bei fehlendem Zugriff frage nach dem benötigten Auszug; ohne Export liefere Text. Andere Skills sind optional.
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+## 1.6. Beispiel
 
-## Ergebnisformat
-
-Erzeuge bevorzugt: Fragenkatalog und 100-Tage-Roadmap. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
-
-## Qualitätsfilter
-
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Der Vorstand bestellt eine Vorlage zur Wiederherstellungsvorsorge; ein Test ist angekündigt, sein Ergebnis fehlt. Frage nach Prüfumfang und Ergebnis, kennzeichne die Wiederherstellbarkeit bis dahin als nicht nachgewiesen und bearbeite die übrige Vorlage weiter. Nach Eingang überarbeite Risiko, Budgetbedarf und Beschlussvorschlag und liefere die fertige Vorlage.

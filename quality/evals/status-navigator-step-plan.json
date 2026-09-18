@@ -1,17 +1,21 @@
 {
   "schema_version": 1,
   "plugin": "status-navigator-step-plan",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini ist eine dokumentengestützte Status- und Ablaufhilfe, kein pauschaler Rechtsgutachtengenerator. Neue materiell-rechtliche Aussagen wurden nicht eingeführt.",
+    "reason": "Vollständig gelesen: Versionsklärung und Nachlieferung führen zum aktualisierten Register und Schrittplan. Die pauschale Forderung nach Freigabe vor jedem Export widersprach jedoch der zulässigen Übergabe einer Arbeitsfassung und konnte den Abschluss unnötig blockieren.",
     "changes": [
-      "Dokumentversion, Freigabe und behaupteten Sachstand getrennt.",
-      "Abhängigkeiten, Verantwortliche und nächste drei Schritte statt Endlosschleifen festgelegt.",
-      "Vorhandene Originale und widersprechende Stände ausdrücklich geschützt."
+      "Freigegebenen Export von einer ausdrücklich gekennzeichneten Arbeitsfassung getrennt; deren Erstellung und Prüfungsübergabe ohne vorgetäuschte Freigabe ermöglicht."
     ],
-    "sha256": "a7e4edb018076fb0a63a173054be24fc0a587aec66b62f52f8b5aa8534be4909"
+    "sha256": "b17163058624e927d20cc2d4fc9f6958708aa52ca84ce127bd9d2c5865d34b57"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Vollständig gelesen: Die Werkstatt trennt bereits bestätigten Export und fertige Arbeitsfassung, schützt Originale und führt nach Freigabenachweis oder Anlagenlieferung den Versionsvergleich fort. Statusbericht und beauftragte Dokumentherstellung sind ausdrücklich unterschieden; rechtliche Wirksamkeit wird nicht aus Dateiverfügbarkeit abgeleitet.",
+    "changes": [],
+    "sha256": "91e3a0c1c09ee86d5a83f9ae17d0ecbcbb644cb870ce1b1a67c9d9c6f9a87ec9"
   },
   "selection": {
     "positive": [

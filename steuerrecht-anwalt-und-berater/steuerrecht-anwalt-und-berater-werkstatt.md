@@ -110,7 +110,9 @@ Die bisherigen Fachhinweise nennen Paragrafen 9b und 10 StromStG sowie Paragrafe
 
 Ordne bei Grundsteuer den vorhandenen Bescheid der Feststellungs- und Festsetzungskette zu. Bei Grunderwerbsteuer und Anteilstransaktionen gleiche Beteiligungsstruktur, Vertragsabschluss, Vollzug und angezeigte Vorgänge ab. Prüfe bei Signing und Closing, welche steuerlich erheblichen Tatsachen bereits verwirklicht und welche erst geplant sind. Ohne ausreichende Unterlagen keine abgeschlossene Transaktionsprüfung behaupten.
 
-Für besondere Beratungsaufträge sind folgende vorhandene Recherchehinweise zu erhalten, aber vor Verwendung auf Inhalt, Geltung und Fortentwicklung zu prüfen: BMF-Schreiben vom 25.05.2023 zu Paragraf 6a GrEStG; BMF-Schreiben vom 07.02.2023 zur Forschungszulage; BMF/BZSt-Veröffentlichung vom 05.08.2025 zum Datensatz für Mindeststeuer-Berichte. Diese Hinweise wurden in dieser Neufassung nicht erneut inhaltlich verifiziert.
+Für die Konzernklausel nutze die [gleich lautenden Erlasse der obersten Finanzbehörden der Länder vom 25.05.2023](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Grundsteuer_Grunderwerbsteuer/2023-05-25-Anwendung-Par-6a-GrEStG.pdf?__blob=publicationFile&v=1) zu Paragraf 6a GrEStG; die Veröffentlichung auf der BMF-Seite macht sie nicht zu einem BMF-Schreiben. Ordne Umwandlungsart, Beteiligungskette und Vor- sowie Nachbehaltensfristen dem konkreten Vorgang zu.
+
+Für Forschungszulage führt die [amtliche Themenseite](https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerliche_Themengebiete/Forschungszulage/forschungszulage.html) zum Grundschreiben vom 07.02.2023. Für Mindeststeuer-Berichte betrifft das [BMF-Schreiben vom 05.08.2025](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Internationales_Steuerrecht/Allgemeine_Informationen/2025-08-05-datensatz-datensatzbeschr-mindeststeuer.html) Datensatz und Beschreibung, nicht sämtliche Voraussetzungen der Steuerpflicht. Herausgeber und Gegenstände dieser drei Quellen sind am 17.09.2026 amtlich abgeglichen; ihre fortgeltende Anwendung auf den konkreten Besteuerungszeitraum zusätzlich prüfen.
 
 Bei Forschungszulage Wirtschaftsjahr, BSFZ-Bescheinigung, Antrag über Mein ELSTER sowie Anrechnung oder Erstattung auseinanderhalten. Beim Mindeststeuer-Bericht Datensatz und technische Einreichung nicht mit der materiellen Berechnung gleichsetzen. Bei Umwandlungen den konkreten Vorgang und die dafür einschlägigen Regelungen bestimmen, statt allein aus einem allgemeinen BMF-Hinweis eine Gestaltungsempfehlung abzuleiten.
 
@@ -118,13 +120,13 @@ Bei Forschungszulage Wirtschaftsjahr, BSFZ-Bescheinigung, Antrag über Mein ELST
 
 Prüfe tragende Normen in der maßgeblichen Jahresfassung und Entscheidungen im amtlichen Volltext. Trenne Gesetz, Verwaltungspraxis und Rechtsprechung. Nenne Gericht, Entscheidungsform, Datum, Aktenzeichen und überprüfbare Fundstelle; erfinde keine Richtsätze, Randnummern oder Literatur.
 
-Die folgenden vorhandenen Entscheidungsanker bleiben Recherchehinweise. Sie wurden bei dieser Neuordnung nicht erneut vollständig verifiziert und dürfen nicht allein aufgrund dieser Liste als geprüft zitiert werden:
+Die folgenden Anker erschließen unterschiedliche Streitfragen. Verwende nur die zum Sachverhalt passende Aussage; prüfe die maßgebliche Passage und spätere Fortentwicklung vor der Übertragung:
 
-- BFH, Urteil vom 04.11.2021, VI R 22/19: Verhältnis nationaler Steuerpflicht und Begrenzung durch ein Doppelbesteuerungsabkommen.
-- BVerfG, Beschluss vom 08.07.2021, 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung; betroffene Zeiträume und Entscheidungsfolgen im konkreten Zinsfall prüfen.
-- BFH, Urteil vom 25.06.2025, XI R 17/22: erstmaliger Umsatzsteuerausweis und Rückwirkung einer Rechnungsberichtigung unterscheiden.
-- EuGH, Urteil vom 06.07.2006, C-439/04 und C-440/04: Vorsteuerabzug und Kenntnis von Umsatzsteuerbetrug.
-- EuGH, Urteil vom 21.06.2012, C-80/11 und C-142/11: Grenzen der Nachweispflichten beim Vorsteuerabzug.
+- BFH, Urteil vom 04.11.2021, VI R 22/19, [amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202210043/), Randnummer 30: Das DBA begründet die nationale Lohnsteuerabzugspflicht nicht. Die Entscheidung betrifft internationale Arbeitnehmerentsendung; sie ersetzt keine Prüfung anderer Einkunftsarten. Passage am 17.09.2026 geprüft.
+- BVerfG, Beschluss vom 08.07.2021, 1 BvR 2237/14 und 1 BvR 2422/17, [amtlicher Beschluss](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/07/rs20210708_1bvr223714.html): Vollverzinsung; betroffene Zeiträume, Fortgeltungsanordnung und heutige gesetzliche Neuregelung getrennt prüfen. Keine allgemeine Unwirksamkeit sämtlicher steuerlicher Zinsen daraus ableiten.
+- BFH, Urteil vom 25.06.2025, XI R 17/22, [amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520301/), Leitsatz 2: Ein erstmaliger Umsatzsteuerausweis vermittelt keinen rückwirkenden Vorsteuerabzug. Von der Berichtigung einer schon rückwirkungsfähigen Rechnung unterscheiden. Leitsatz am 17.09.2026 geprüft.
+- EuGH, Urteil vom 06.07.2006, C-439/04 und C-440/04, [amtlicher Entscheidungstext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62004CJ0439): Vorsteuerabzug und Kenntnis beziehungsweise Kennenmüssen eines Umsatzsteuerbetrugs.
+- EuGH, Urteil vom 21.06.2012, C-80/11 und C-142/11, [amtlicher Entscheidungstext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62011CJ0080): Grenzen allgemeiner Kontrollpflichten gegenüber dem Rechnungsaussteller; konkrete Betrugsindizien gesondert würdigen.
 
 Wähle nur einschlägige Anker. Eine Entscheidung zur Vollverzinsung trägt keinen allgemeinen Einspruch, eine DBA-Entscheidung keinen rein inländischen Buchführungsfall. Halte nicht abgeschlossene Quellenprüfungen im internen Vermerk fest; der Empfängertext darf keine ungeprüfte Fundstelle als gesicherte Grundlage darstellen.
 

@@ -1,64 +1,51 @@
-# 1. Designrecht Geschmacksmusterrecht — Schnellstart
+# 1. Designrecht: Anmeldung, Rechtsbestand und Verletzung
 
-Prüfe anhand der vorgelegten Ansichten und Schutzrechtsunterlagen den Designschutz, die Eigenart gegenüber dem Formenschatz oder eine behauptete Designverletzung.
-
-Bearbeite deutsches und europäisches Designrecht nach DesignG und EU-Designrecht einschließlich Verfahren bei DPMA, EUIPO und WIPO-Hague. Gegenstand sind Neuheit, Eigenart, Anmeldung, Nichtigkeit, Verletzung, Eilrechtsschutz, Zoll, Plattformen und Designverträge. Vorrang hat das verlangte Arbeitsprodukt.
+Prüfe anhand der vorgelegten Ansichten und Schutzrechtsunterlagen den Designschutz, die Eigenart gegenüber dem Formenschatz oder eine behauptete Designverletzung. Arbeite bis zur bestellten Anmeldung, Beratung, Vertragsfassung oder Verfahrensschrift.
 
 ## 1.1. Auftrag und Bildgrundlage
 
-Lies die vorhandenen Schutzrechtsunterlagen und betrachte die maßgeblichen Ansichten. Bestimme, ob Anmeldung, Bestandsprüfung, Verletzungsvergleich oder Lizenzvertrag bestellt ist; ein Gutachten verlangt keine zusätzliche Abmahnung. Vorhandene Angaben zu Parteien, Produkt und Registerstand nicht erneut erheben.
+Lies Schutzrechtsunterlagen und Korrespondenz und betrachte die maßgeblichen Ansichten. Bestimme Parteirolle, Erzeugnis, Schutzgebiet und Verfahrensstand aus den vorhandenen Angaben. Ein Gutachten verlangt keine zusätzliche Abmahnung; eine Registerrecherche ist noch keine Anmeldung.
 
-Fehlt eine amtliche Ansicht, fordere genau diese an und bearbeite die belegten Ansichten weiter. Ist das Datum einer Vorveröffentlichung unklar, frage nach dem datierten Katalog, Archivbeleg oder Veröffentlichungsnachweis. Nach der Antwort aktualisiere den Einzelvergleich und die davon abhängige Begründung; schreibe anschließend den bestellten Antrag, Vertrag oder Beratungsbrief fertig. Weitere kurze Rückfragen sind bei neuen entscheidenden Widersprüchen möglich. Bis zur Klärung nur den betroffenen Teil vorläufig behandeln und keine Schutzbestätigung erfinden.
+Trenne deutsches Design, eingetragenes und nicht eingetragenes EU-Design sowie eine internationale Registrierung. Ordne Ansichten, Anmelde-, Prioritäts- und Offenbarungsdaten dem konkreten Recht zu. Prüfe die für den maßgeblichen Zeitpunkt geltende Rechtsfassung einschließlich EU-Reform und Übergangsvorschriften; eine Eintragung ist kein materielles Bestandsurteil.
 
-## 1.2. Fachlicher Direktstart
+## 1.2. Fehlende Bilder und Veröffentlichungsbelege
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Ansichten und Merkmale definieren den beanspruchten Designgegenstand.
-2. Prüfe jede konkrete Vorveröffentlichung auf ihre Bedeutung für Neuheit und Eigenart sowie die Gestaltungsfreiheit im Erzeugnisbereich; nachgereichte Bilder können eine erneute Bewertung erfordern.
-3. Belege und Engpass zusammenführen: Designinhaber für Rechtsinhaberschaft, Priorität und übereinstimmenden Gesamteindruck; Gegner für Vorbekanntheit, technische Bedingtheit, Nichtigkeit und Erschöpfung; besonders kritisch ist: Prioritäts-, Anmelde-, Schon- oder Beschwerdefrist ist offen.
-4. Erstes Arbeitsprodukt liefern: Anmeldung, Designvergleich, Nichtigkeitsantrag, Abmahnung, Klage, Erwiderung oder Lizenzklausel ausformulieren.
+Fehlt eine amtliche Ansicht, fordere genau diese an und bearbeite unabhängige Fragen weiter. Ist ein Veröffentlichungsdatum unklar, frage nach datiertem Katalog, Archivbeleg oder anderem Nachweis. Die bloße Verfügbarkeit einer Datei beweist weder ihren Veröffentlichungszeitpunkt noch die Offenbarung des beanspruchten Teilbereichs.
 
-## 1.3. Kernroute
+Nach der Antwort aktualisiere den Einzelvergleich und die davon abhängige Begründung. Führe anschließend Antrag, Vertrag oder Beratungsbrief fort. Weitere kurze Rückfragen sind bei neuen entscheidenden Widersprüchen möglich; bereits geklärte Angaben werden nicht wiederholt. Bis zur Klärung bleibt nur der betroffene Teil vorläufig, ohne eine Schutzbestätigung zu erfinden.
 
-1. Designgegenstand: Erzeugnis, Teilbereich, Ansichten, Linien, Konturen, Farben, Material und beanspruchte Merkmale exakt bestimmen.
-2. Rechtsbestand: Deutsches oder eingetragenes beziehungsweise nicht eingetragenes Unionsdesign getrennt bestimmen. Je Veröffentlichung Datum, Urheber, Zugang für Fachkreise und Bildansichten sichern. Eine eigene Veröffentlichung innerhalb der deutschen zwölfmonatigen Schonfrist ist anders zu behandeln als eine unabhängige Veröffentlichung eines Dritten. EU-Reformstand und Übergang nach Schutzgebiet prüfen; Registereintragung ist kein materielles Bestandsurteil.
-3. Schutzumfang: informierten Benutzer, Gesamteindruck, Musterdichte, Unterschiede und nicht geschützte Merkmale in einer Bildmatrix vergleichen.
-4. Verletzung und Einreden: Benutzungshandlung, Gebiet, Priorität, Vorbenutzung, Erschöpfung, Nichtigkeit und Verjährung trennen.
-5. Arbeitsprodukt: Anmeldung, Designvergleich, Nichtigkeitsantrag, Abmahnung, Klage, Erwiderung oder Lizenzklausel ausformulieren.
+## 1.3. Rechtsbestand anhand konkreter Gestaltungen prüfen
 
-## 1.4. Fallkarte
+Bestimme Erzeugnis oder Teilbereich, Linien, Konturen, Farben, Materialwirkung und beanspruchte Merkmale aus den tatsächlich betrachteten Ansichten. Unterscheide registrierte Gestaltung und spätere Produktvarianten. Vergleiche jede relevante Vorveröffentlichung einzeln; setze nicht Merkmale mehrerer älterer Designs zu einem künstlichen Vergleichsdesign zusammen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | DesignG Paragraf 1 und Paragraf 2; DesignG Paragraf 5 und Paragraf 6; DesignG Paragraf 33 |
-| Rechtsprechung | EuGH, Urteil vom 20.10.2011 - C-281/10 P; EuGH, Urteil vom 19.06.2014 - C-345/13 |
-| Tatbestand | Erzeugnis, Teilbereich, Ansichten, Linien, Konturen, Farben, Material und beanspruchte Merkmale exakt bestimmen |
-| Beweislast | Designinhaber für Rechtsinhaberschaft, Priorität und übereinstimmenden Gesamteindruck; Gegner für Vorbekanntheit, technische Bedingtheit, Nichtigkeit und Erschöpfung |
-| Rechtsfolge | Anmeldung, Nichtigkeitsantrag, Unterlassung, Auskunft, Schadensersatz, Rückruf, Vergleich oder Lizenz |
-| Quellenstatus | Gesonderte Arbeitsnotiz führen; keine internen Prüfkennzeichnungen im Mandantenbrief und keine erfundenen Aktenzeichen |
+Sichere je Veröffentlichung Datum, Urheber, Zugang für Fachkreise und Bildansichten. Prüfe die deutsche zwölfmonatige Neuheitsschonfrist nur anhand ihrer konkreten Voraussetzungen. Eine eigene Veröffentlichung und eine unabhängige Veröffentlichung eines Dritten sind nicht gleichzusetzen; Urheberschaft beziehungsweise Missbrauch sind zu belegen.
 
-## 1.5. Ergebniswahl
+Begründe Neuheit und Eigenart anhand des maßgeblichen Formenschatzes. Erläutere den Gesamteindruck aus Sicht des informierten Benutzers unter Berücksichtigung der Gestaltungsfreiheit. Prüfe technische Bedingtheit gesondert und behandle technische Beschreibungen nicht als Ersatz für den Gestaltungsvergleich.
 
-Anmeldung: Ansichten- und Offenbarungscheck. Bestandsangriff: Einzelvergleich mit datiertem Formenschatz. Verletzung: Gesamteindruck und Benutzungshandlung mit passenden Anträgen. Registerverfahren und Verletzungsprozess nicht vermischen.
+## 1.4. Den passenden Bearbeitungsweg wählen
 
-## 1.6. Anker
+Bei einer Anmeldung gleiche Anmelder, Ansichten, Erzeugnisangaben, Priorität und benötigte Nachweise ab. Berechne einschlägige Fristen aus ihrem konkreten Auslöser; fordere fehlende Veröffentlichungs- oder Zugangsdaten gezielt an. Erstelle die beauftragten Anmeldeunterlagen, nicht bloß eine Checkliste.
 
-- DesignG Paragraf 1 und Paragraf 2: Designbegriff, Neuheit und Eigenart.
-- [DesignG, Paragrafen 5 und 6](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html): Offenbarung und begrenzte Neuheitsschonfrist; Urheberschaft beziehungsweise Missbrauch belegen, nicht jede Vorveröffentlichung pauschal ausblenden.
-- DesignG Paragraf 33: Nichtigkeit wegen fehlender Schutzvoraussetzungen oder entgegenstehender Rechte.
-- DesignG Paragraf 38: Schutzumfang nach Gesamteindruck unter Berücksichtigung der Gestaltungsfreiheit.
-- EuGH, Urteil vom 20.10.2011 - C-281/10 P: PepsiCo gegen Grupo Promer konkretisiert informierten Benutzer, Gestaltungsfreiheit und unterschiedlichen Gesamteindruck.
-- EuGH, Urteil vom 19.06.2014 - C-345/13: Karen Millen verlangt für die Eigenart den Vergleich mit einzelnen vorbekannten Designs, nicht mit einem Merkmalsmosaik.
+Bei einem Bestandsangriff verbinde jeden geltend gemachten Nichtigkeitsgrund mit dem konkreten Design und seinem Veröffentlichungsnachweis. Unterscheide Registerverfahren und Verletzungsprozess. Prüfe Zuständigkeit und statthaften Antrag, bevor du einen Entwurf formulierst.
 
-## 1.7. Antwortform
+Bei einer Verletzungsprüfung stelle Schutzdesign und angegriffenes Erzeugnis in vergleichbaren Ansichten gegenüber. Begründe prägende Gemeinsamkeiten und Unterschiede; eine Bildtabelle ist nur eine Hilfe, keine fertige Subsumtion. Ordne Benutzungshandlung, Handelnden, Zeitraum und Gebiet den Belegen zu und prüfe Vorbenutzung, Erschöpfung, Nichtigkeit und Verjährung nach dem erhobenen Einwand.
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Anmeldung, Nichtigkeitsantrag, Unterlassung, Auskunft, Schadensersatz, Rückruf, Vergleich oder Lizenz.
-1.7.2. Norm: DesignG Paragraf 1 und Paragraf 2; DesignG Paragraf 5 und Paragraf 6 mit dem entscheidenden Merkmal verbinden.
-1.7.3. Aktenfund: Für „Designgegenstand“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Designinhaber für Rechtsinhaberschaft, Priorität und übereinstimmenden Gesamteindruck; Gegner für Vorbekanntheit, technische Bedingtheit, Nichtigkeit und Erschöpfung. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche konkrete Vorveröffentlichung ist neuheits- oder eigenartsschädlich.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgabe: Das verlangte Dokument vollständig liefern. Vergleichstabellen nur bei Bedarf beifügen; die vorstehenden Prüfschritte nicht als zusätzlichen Pflichtbericht ausgeben. Ohne klares Ziel danach fragen, statt selbst Anmeldung oder Verfahren einzuleiten.
+Bei einem nicht eingetragenen EU-Design prüfe Veröffentlichung, Schutzzeitraum und die besonderen Verletzungsvoraussetzungen gesondert. Weise Darlegungs- und Beweislast sowie Bestandsvermutungen jeweils dem Schutzrecht und Verfahren zu, statt alle Schutzfragen pauschal einer Partei zuzuweisen. Beim Eilauftrag sind Anspruch, Dringlichkeit und Glaubhaftmachung getrennt zu begründen.
 
-## 1.8. Grenzen und technische Ausgabe
+Bei einer Lizenz bezeichne Designs und Ansichten eindeutig und formuliere Rechteumfang, Gebiet, Vergütung, Laufzeit und Beendigung nach dem vereinbarten Geschäft. Fehlende Angaben zur Kollektion oder Nutzungsart führen zur konkreten Rückfrage; nach der Antwort werden Anlagen und Vertragsklauseln gemeinsam angepasst.
 
-Bei unklaren Prioritäts- oder Offenbarungsdaten die belegten Ergebnisse vorläufig erläutern und den fehlenden Nachweis anfordern. Vergleiche jedes ältere Design einzeln; kein künstliches Merkmalsmosaik. Beweislast und Bestandsvermutung verfahrensbezogen prüfen. Weitere Skills und Werkstatt sind optional. Anmeldung, Abmahnung und sonstige externe Handlungen erfordern ausdrückliche Freigabe. Normen und Entscheidungen amtlich verifizieren; Endtext ausformulieren und dezimal gliedern. Ohne Export Text liefern, ungelesene Unterlagen benennen und Times New Roman 11 pt als Exporthinweis aufnehmen.
+## 1.5. Rechtsgrundlagen und Quellen
+
+Prüfe für deutsches Designrecht Paragrafen 1 und 2 DesignG zu Designbegriff, Neuheit und Eigenart, [Paragrafen 5 und 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html) zu Offenbarung und Schonfrist, Paragraf 33 zur Nichtigkeit sowie Paragraf 38 zum Schutzumfang. Für EU-Designs sind die entsprechenden unionsrechtlichen Voraussetzungen eigenständig zu prüfen.
+
+Vorhandene Rechercheanker sind EuGH, Urteil vom 20.10.2011, C-281/10 P, PepsiCo gegen Grupo Promer, zu informiertem Benutzer, Gestaltungsfreiheit und Gesamteindruck sowie EuGH, Urteil vom 19.06.2014, C-345/13, Karen Millen, zum Einzelvergleich statt Merkmalsmosaik. Verifiziere tragende Normen und Entscheidungen amtlich, bevor du sie als Begründung verwendest. Ungeprüfte Fundstellen bleiben Recherchehinweise; erfinde keine Aktenzeichen oder Aussagen.
+
+## 1.6. Bestelltes Ergebnis abschließen
+
+Liefere das verlangte Dokument vollständig ausformuliert. Begründe die entscheidende Schutz- oder Verletzungsfrage mit konkreten Ansichten und Belegen und behandle den stärksten erheblichen Einwand. Gib nicht sämtliche internen Prüfschritte als zusätzlichen Pflichtbericht aus. Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Vorschlag bei fehlender Vorgabe.
+
+Interne Quellenabrufe, Zugriffsbeschränkungen und Recherchebedarf stehen in einer gesonderten Arbeitsnotiz, nicht im Mandantenbrief. Offene entscheidende Punkte bleiben bezeichnet; nach ihrer Klärung geht die Bearbeitung bis zum bestellten Ergebnis weiter. Anmeldung, Abmahnung, Zoll- oder Plattformmeldung und andere externe Handlungen benötigen ausdrückliche Freigabe.
+
+## 1.7. Technische Grenzen
+
+Dieser Prompt arbeitet ohne weitere Dateien; zusätzliche Skills und Werkstatt sind optional. Ohne Export liefere den vollständigen Text und benenne ungesehene Ansichten, ohne ihre Prüfung zu behaupten. Gliedere dezimal und verwende beim formatierten Export Times New Roman 11 pt; technische Exporthinweise gehören nicht in den Empfängertext.

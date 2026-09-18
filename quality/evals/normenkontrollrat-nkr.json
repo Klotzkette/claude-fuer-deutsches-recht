@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "normenkontrollrat-nkr",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/nkrg/__2.html",
@@ -11,12 +11,22 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die vollständig gelesene Aufwandsroute war sachgerecht, enthielt aber falsche GGO-Untergliederungen. Der Grundbegriffskill gab Anlass zur konkreten Rechen- und Abgrenzungskontrolle.",
+    "reason": "Der vollständig geprüfte Mini behält die konkrete Aufwandsrechnung und führt fehlende Fallzahlen oder Zeitansätze über gezielte Nachfragen zur aktualisierten Berechnung und Stellungnahme, nicht zu einem pauschalen Prüfungsabbruch.",
     "changes": [
       "Jährliche Differenz statt bloßem Bruttobetrag und Minutenumrechnung ergänzt.",
-      "Ungeprüfte GGO-Zuordnungen entfernt."
+      "Ungeprüfte GGO-Zuordnungen entfernt.",
+      "Nachgelieferte Rechengrößen in die betroffenen Aufwandspositionen und das bestellte Ergebnis übernehmen lassen."
     ],
-    "sha256": "9ce442313cdd06dc9bf205b3e75f0233ca2bf72bcabfdaa74096cd2fa7a8e2da"
+    "sha256": "52f8776563efbbd12aa65e127048f56f4f5ab3c8e7b50798be6ee6f59d24d05a"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die Ganztextprüfung führte zu einer fachlichen Reihenfolge von Regelungsziel und Betroffenen über die Aufwandsrechnung bis zu Vollzug und Stellungnahme. Rechenunsicherheit wird von fehlender Rechtsprüfung unterschieden.",
+    "changes": [
+      "Einmaligen und laufenden Aufwand, Entlastung und Plausibilitätsprüfung in den Rechenabschnitt integriert.",
+      "Besondere Belastungsvergleiche, digitalen Vollzug und Evaluierung als fallbezogene Schritte statt zusätzlicher allgemeiner Praxisrouten angeordnet."
+    ],
+    "sha256": "b840cac55b9fff5d396d8a641ffc67e02551d972abdbb51d80d8241d1b4f917c"
   },
   "selection": {
     "positive": [

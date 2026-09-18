@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-verkehrsrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__249.html",
@@ -16,13 +16,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Alttext enthielt mehrfach reiserechtliche Beweislast für Verspätung und außergewöhnliche Umstände. Für Reparaturkürzungen fehlte die zentrale Unterscheidung zwischen Anspruchssaldo, Werklohnsaldo und Zahlungsempfänger.",
+    "reason": "Mini vollständig gelesen: Zahlungsmitteilung ändert Schadensersatz- und Werklohnsaldo getrennt; fehlende Messunterlagen werden nicht als Messfehler gewertet und blockieren keine fristwahrende Vorbereitung.",
     "changes": [
-      "Fachfremde Reiserechtsformulierungen entfernt.",
-      "Unfallhaftpflicht, Kasko, Bußgeld, Straf- und Fahrerlaubnisverfahren getrennt.",
-      "Zahlungskonten und Werkstattrisiko ergänzt; Fristdruck in Sicherungsentwurf statt Abbruch umgesetzt."
+      "Nach neuer Zahlung Empfänger und Restforderung aktualisieren und Regulierungsschreiben fertigstellen lassen.",
+      "Unfall, Bußgeld, Strafsache und Fahrerlaubnis mit eigenen Nachweisen und Fristen bearbeitet."
     ],
-    "sha256": "f933abb15ee69d2ec910af29e157f81339087ea3ac5d58e6d23a6e610c35f4de"
+    "sha256": "b71bae92b9e579b9eab5a485a9923bb8849777fe7cd56651e336f55bfafae8af"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "retained",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [],
+    "prompt_path": "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-hauptproblem.md",
+    "prompt_sha256": "2eed3406126a3620051bbcc0a42359c4d67b6e6fc8c3a40192c19e6f524ce5c4",
+    "skill_path": "fachanwalt-verkehrsrecht/skills/werkstattrechnung-kuerzung-zahlungswege/SKILL.md",
+    "skill_sha256": "b56696a67371c40d0feaf6703ffe63a8f738e7e3ed4705570d7844f848d1ce49"
   },
   "selection": {
     "positive": [
@@ -75,5 +85,15 @@
       ],
       "target_skill": "werkstattrechnung-kuerzung-zahlungswege"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Gesamte Werkstatt einschließlich Kasko, Personenschaden und Fahrerlaubnis gelesen. Konkrete Foto-, Zahlungs-, Gutachten- und Zustellungsnachweise führen jeweils zu aktualisierter Rechnung oder Verteidigung statt zu einem allgemeinen Abbruch.",
+    "changes": [
+      "Zahlung an Geschädigten von Tilgung der Werkstattrechnung getrennt und beide Salden fortgeschrieben.",
+      "Nach neuen medizinischen oder Einkommensbelegen die betroffenen Schadenspositionen berichtigen lassen.",
+      "Vorhandene fachfremde Altverweise nicht als aktuelle Rechtsgrundlage bestätigt; focus_review erhalten."
+    ],
+    "sha256": "e8790fac163f3b7a5dfb4ad57e78c65608962f43033fe07ab4f0d1aa38fc205d"
+  }
 }

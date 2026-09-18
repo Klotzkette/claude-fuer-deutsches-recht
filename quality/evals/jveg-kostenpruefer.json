@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "jveg-kostenpruefer",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/jveg/__6.html",
@@ -26,13 +26,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die vorhandene Kostenroute ist brauchbar. Rundung und Fristbeginn waren nicht präzise genug; ungesicherte Entscheidungsanker wurden nicht fortgeschrieben.",
+    "reason": "Der ganze Mini wurde auf Fristbeginn, Zeitblöcke und Schlussrundung geprüft.",
     "changes": [
-      "Zeitblöcke vor der Schlussrundung zusammenführen.",
-      "Gutachteneingang statt Rechnungsdatum als maßgeblichen Ausgangspunkt prüfen.",
-      "Reise-, Übersetzungs- und besondere Aufwandspositionen getrennt zuordnen."
+      "Fehlende Eingangs- oder Tätigkeitsnachweise klären und danach die streitigen Kostenpositionen neu berechnen."
     ],
-    "sha256": "7b7014fdbbd40f4275c9cb9a2b3963d5b0a8ce6a9b469c8c7d421a85ab77dc1a"
+    "sha256": "a85ee19481ca4c32a8a0662035d60de253ada2020a11cc8986aa9e04566c881d"
   },
   "selection": {
     "positive": [
@@ -49,11 +47,31 @@
       "id": "reisezeit-und-uebernachtung-richtig-zuordnen",
       "request": "Korrigiere in ergebnis.md ein JVEG-Rechenblatt für einen gerichtlich herangezogenen Sachverständigen. Erforderlich und belegt sind 70 Minuten fachliche Tätigkeit und 50 Minuten Reisezeit insgesamt. Der maßgebliche Stundensatz von 100 Euro ist unstreitig. Für eine notwendige auswärtige Übernachtung sind 80 Euro nach den einschlägigen Reisekostenregeln unstreitig erstattungsfähig. Weitere Kosten und Umsatzsteuer fallen im Fall nicht an. Ein Vorschuss von 50 Euro wurde gezahlt. Der Entwurf setzt zwei Stunden Gesamthonorar an und daneben nochmals eine Stunde Reisezeit unter Paragraf 10 JVEG; die Übernachtung steht unter Paragraf 11. Prüfe Betrag und Normzuordnung, ohne einen Antrag einzureichen.",
       "input_files": [],
-      "deliverables": ["ergebnis.md"],
+      "deliverables": [
+        "ergebnis.md"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Tätigkeit und Reisezeit ergeben gemeinsam zwei Stunden und 200 Euro; Reisezeit wird nicht ein zweites Mal vergütet.", "deliverables": ["ergebnis.md"]},
-        {"id": "C02", "text": "Die Zeitvergütung wird Paragraf 8 Absatz 2 in Verbindung mit dem maßgeblichen Honorarsatz und die Übernachtung Paragraf 6 Absatz 2 zugeordnet, nicht den falschen Paragrafen 10 und 11.", "deliverables": ["ergebnis.md"]},
-        {"id": "C03", "text": "Die Ausgabe berechnet 280 Euro Gesamtvergütung und 230 Euro Restbetrag nach Vorschuss, ohne zusätzliche Auslagen oder Umsatzsteuer zu erfinden.", "deliverables": ["ergebnis.md"]}
+        {
+          "id": "C01",
+          "text": "Tätigkeit und Reisezeit ergeben gemeinsam zwei Stunden und 200 Euro; Reisezeit wird nicht ein zweites Mal vergütet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Zeitvergütung wird Paragraf 8 Absatz 2 in Verbindung mit dem maßgeblichen Honorarsatz und die Übernachtung Paragraf 6 Absatz 2 zugeordnet, nicht den falschen Paragrafen 10 und 11.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Ausgabe berechnet 280 Euro Gesamtvergütung und 230 Euro Restbetrag nach Vorschuss, ohne zusätzliche Auslagen oder Umsatzsteuer zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
       ],
       "target_skill": "rechenblatt"
     },
@@ -89,5 +107,13 @@
       ],
       "target_skill": "rechenblatt"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständige Werkstatt wurde auf Sachverständige, Dolmetscher, Übersetzer und weitere Entschädigte gelesen.",
+    "changes": [
+      "Anspruchsfrist, Fahrtkosten, Zeitversäumnis und gerichtliche Festsetzung richtig zugeordnet; Übergangsrecht bei Betragsgrenzen berücksichtigt."
+    ],
+    "sha256": "652aac0e5f11e0fe43c2e063917dbdd380eeaf79d00e0f19b32f2f11ea238274"
+  }
 }

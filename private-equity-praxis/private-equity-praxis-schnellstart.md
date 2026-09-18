@@ -1,12 +1,16 @@
 # 1. Private Equity: Vertrag, Zahlenmodell und Vollzug verbinden
 
-Arbeite aus Auftrag und vorhandenen Fonds-, Finanzierungs- oder Transaktionsunterlagen. Bestimme Sponsor, Fonds, Erwerbsvehikel, Zielgesellschaft, Management und Kreditgeber getrennt. Lies die für die konkrete Entscheidung maßgebliche Vertragsfassung samt Anlagen zuerst. Ein Fondsgründungsauftrag braucht keine allgemeine Unternehmenskaufprüfung; ein Kaufpreisabgleich keine abstrakte Fondsregulierung. Rückfragen nur bei einer blockierenden Lücke, sonst unmittelbar den verlangten Vermerk oder Klauselentwurf liefern.
+Erarbeite aus den vorhandenen Fonds-, Finanzierungs- oder Transaktionsunterlagen den bestellten Vermerk oder Vertragsentwurf. Lies die maßgebliche Vertragsfassung samt Anlagen und bisherigen Antworten zuerst.
+
+Bestimme Sponsor, Fonds, Erwerbsvehikel, Zielgesellschaft, Management und Kreditgeber getrennt. Ein Fondsgründungsauftrag braucht keine allgemeine Unternehmenskaufprüfung; ein Kaufpreisabgleich keine abstrakte Fondsregulierung. Frage nur nach fehlenden Angaben, die das Ergebnis verändern.
 
 ## 1.1. Kaufpreislogik nachrechnen
 
 Stelle fest, ob ein fester Kaufpreis auf historischem Abschluss mit Abflussschutz oder eine Anpassung anhand Vollzugszahlen vereinbart ist. Kombiniere diese Mechanismen nicht stillschweigend. Bei Vollzugsabrechnung Unternehmenswert, Finanzschulden, liquide Mittel und Betriebskapital anhand der Vertragsdefinitionen überleiten. Jede Position darf nur einmal wirken; Darlehen, Transaktionskosten und ausgeschüttete Mittel besonders auf Doppelzählung prüfen. Rechenweg, Vorzeichen, Währung und Stichtag offenlegen.
 
 Bei einer Locked Box die geschlossene Vermögensbasis am vereinbarten Stichtag bestimmen und jeden späteren Abfluss nach Empfänger, Betrag, Datum und Ausnahmeregel prüfen. Eine Zahlung an den Verkäufer ist nicht allein deshalb erlaubt, weil sie schon im Datenraum erwähnt wurde. Erlaubte Abflüsse müssen zur vereinbarten Kategorie, Höhe und gegebenenfalls zum Zeitraum passen. Bei gedeckelten Ausnahmen nur den tatsächlich gedeckten Teil ausnehmen. Nicht jede gewöhnliche Betriebsausgabe ist ein verbotener Abfluss.
+
+Fehlt eine Buchungszuordnung oder die Anlage zu erlaubten Abflüssen, fordere genau diesen Nachweis an. Nach der Antwort rechne Kaufpreis oder Erstattungsbetrag neu und ändere die bestellte Klausel oder Zahlungsanforderung. Neue entscheidende Widersprüche kurz klären, bekannte Vertragsdaten nicht erneut abfragen.
 
 ## 1.2. Risiko in einen Mechanismus übersetzen
 
@@ -20,4 +24,10 @@ Finanzierungszusage, Auszahlungsvoraussetzungen und tatsächliche Valutierung ge
 
 ## 1.4. Entscheidungsreifes Ergebnis
 
-Liefere den beauftragten Abgleich, vollständige Vertragsklausel oder Gremienvorlage mit konkreter wirtschaftlicher Folge. Zahlen aus dem Nutzertext sind Vertragsannahmen, keine gesetzlichen Regeln. Rechtliche Anker und Entscheidungen nur nach amtlicher Verifikation verwenden; fremde Formularwerke nicht ohne bereitgestellten Text nachbilden. Offene Definitionen und fehlende Nachweise einzeln kennzeichnen, übrige Arbeit fortsetzen. Kein automatischer Vollzug, Versand oder Zahlungsauftrag. Dezimale Gliederung, Export in Times New Roman 11 pt. Weitere Spezialskills sind ausschließlich optional; die Zahlen- und Risikoprüfung steht vollständig in diesem Mini.
+Liefere den beauftragten Abgleich, die vollständige Vertragsklausel oder Gremienvorlage mit konkreter wirtschaftlicher Folge. Zahlen aus dem Nutzertext sind Vertragsannahmen, keine gesetzlichen Regeln. Rechtliche Anker und Entscheidungen nur nach amtlicher Verifikation verwenden; fremde Formularwerke nicht ohne bereitgestellten Text nachbilden.
+
+Fehlt eine Finanzierungsfreigabe oder eine Erlösdefinition, benenne den konkreten Nachweis und liefere den belastbaren Teil. Nach der Antwort aktualisiere Auszahlung, Verteilungsrechnung und betroffenen Text bis zum bestellten Ergebnis. Eine Nachforderung allein beendet den Auftrag nicht; ein Gutachtenauftrag verlangt keinen ungefragten Prozessentwurf.
+
+Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus getrennt vom Empfängertext halten; Vollzug, Versand und Zahlungsauftrag nur nach ausdrücklicher Freigabe. Dezimale Gliederung, Export in Times New Roman 11 pt.
+
+Weitere Spezialskills sind ausschließlich optional; die Zahlen- und Risikoprüfung steht vollständig in diesem Mini. Bei fehlendem Zugriff einen geeigneten anderen Weg versuchen und die konkrete Lücke nennen. Keine nicht erfolgte Recherche oder Dateierzeugung behaupten.

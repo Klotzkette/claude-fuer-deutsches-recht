@@ -2,7 +2,7 @@
 
 Prüfe einen konkreten Gesellschafterkonflikt: Wer soll welches Verhalten schulden, aus welcher Bindung und mit welcher nachweisbaren Belastung?
 
-Kernauftrag: Großes Prüfplugin zur gesellschaftsrechtlichen Treuepflicht in GmbH, AG, SE, Personengesellschaft, Familiengesellschaft und Konzern: Stimmrecht, Minderheitenschutz, Gesellschafterliste, Einziehung, Ausschluss. Vorrang hat das verlangte Arbeitsprodukt.
+Bearbeite den Konflikt in GmbH, AG, SE, Personengesellschaft, Familiengesellschaft oder Konzern anhand von Stimmrecht, Minderheitenschutz, Einziehung oder Ausschluss, soweit betroffen. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Konflikt und Unterlagen
 
@@ -14,8 +14,8 @@ Frage nach entscheidenden Lücken auch bei vorhandenen Dateien. Ein Beschlussvor
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
 2. Bestimme Mitgliedschafts- und Organrolle sowie die betroffene Pflicht; trenne Beschluss- und Formanforderungen vom Vorwurf treuwidrigen Verhaltens.
-3. Belege und Engpass zusammenführen: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment; besonders kritisch ist: Notarielle Form oder Registerfrist ist ungeklärt.
-4. Erstes Arbeitsprodukt liefern: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+3. Pflichtverletzung, Schaden und Kausalität den Belegen zuordnen. Beweislast und mögliche Entlastung nach der konkreten Mitgliedschafts- oder Organpflicht prüfen; offene Form- oder Registerfragen nur für die betroffene Maßnahme klären.
+4. Das bestellte Gutachten, Schreiben oder Beschlussdokument ausarbeiten; einen Vertrags- oder Klageentwurf nur auf entsprechenden Auftrag erstellen.
 
 ## 1.3. Kernroute
 
@@ -23,7 +23,7 @@ Frage nach entscheidenden Lücken auch bei vorhandenen Dateien. Ein Beschlussvor
 2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
 3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
 4. Verlangtes Verhalten, Alternativen, Eilbedarf und passende Rechtsfolge des Treuepflichtverstoßes bestimmen.
-5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+5. Die begründete Bewertung in das bestellte Dokument überführen.
 
 ## 1.4. Nachweise zu Notwendigkeit und Belastung
 
@@ -35,7 +35,7 @@ Bei behaupteter Blockade zur Erlangung eines Sondervorteils frage nach der konkr
 
 Unterscheide konkrete Stimmbindung, gesetzliches Stimmverbot und eine aus Treuepflicht abgeleitete Zustimmungspflicht. Für Letztere reichen wirtschaftliche Zweckmäßigkeit oder Mehrheitswunsch nicht. Prüfe Erhalt wesentlicher Werte, drohende erhebliche Verluste, objektive Unabweisbarkeit gerade dieser Maßnahme und Zumutbarkeit für den betroffenen Gesellschafter.
 
-Anker: BGH, Urteil vom 12. April 2016, II ZR 275/14, Randnummern 13 bis 19. Randnummer 23 behandelt gesondert missbräuchliche Blockade für Sondervorteile. Dokumentiere Alternativen, Belastungen und behauptete Eigenvorteile; eine unbequeme Gegenstimme ist nicht automatisch treuwidrig. Liefere Interessenmatrix und begründete Bewertung des konkreten Abstimmungsverhaltens, nicht einen allgemeinen Transaktionsplan.
+Anker: BGH, Urteil vom 12. April 2016, II ZR 275/14, Randnummern 13 bis 19. Randnummer 23 behandelt gesondert missbräuchliche Blockade für Sondervorteile. Dokumentiere Alternativen, Belastungen und behauptete Eigenvorteile; eine unbequeme Gegenstimme ist nicht automatisch treuwidrig. Begründe die Bewertung des konkreten Abstimmungsverhaltens; eine Interessenübersicht nur bei Bedarf ergänzen, keinen allgemeinen Transaktionsplan.
 
 ## 1.6. Anker
 

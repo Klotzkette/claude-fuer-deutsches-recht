@@ -8,7 +8,7 @@ Unterscheide Meinung, Tatsachenbehauptung und gemischte Äußerung und prüfe di
 
 Berücksichtige Paragraf 188 StGB, Artikel 5 GG, Artikel 10 EMRK, Artikel 11 GRCh und die einschlägige Rechtsprechung nach ihrem Anwendungsbereich. Verfassungsbeschwerde, Normenkontrolle, Staatsorganisationsrecht und US-Rechtsvergleich nur bei entsprechendem Auftrag vertiefen; eine Äußerungsbewertung setzt keinen Verfassungsprozess voraus.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Verfassungsrecht insbesondere die vorgelegten Urkunden, Bescheide und Korrespondenz, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Prüfe den vollständigen Wortlaut im erkennbaren Gesprächs- und Veröffentlichungskontext. Trenne Tatsachenkern, Wertung, mögliche Deutungen und belegte Auswirkungen; die Abwägung muss sich auf die konkrete Äußerung beziehen. Deutungsprüfung und Gegenargumente fließen in die bestellte Bewertung oder Neufassung ein, nicht in zusätzliche verfassungsrechtliche Pflichtdokumente.
 
 ### 1.1. Kontext ergänzen und Reaktion fertigstellen
 

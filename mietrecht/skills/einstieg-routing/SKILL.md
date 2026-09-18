@@ -3,40 +3,39 @@ name: einstieg-routing
 description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mietrecht."
 ---
 
-# Einstieg und Routing
+# 1. Mietrechtliche Unterlagen zum Ergebnis führen
 
-## Einsatzlage
+## 1.1. Zweck
 
-Dieser Einstieg routet **Mietrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Bearbeite die aus den vorhandenen Unterlagen erkennbare Miet- oder Wohnungseigentumsfrage. Stelle den verlangten Brief, Vermerk oder Schriftsatz fertig, statt lediglich auf weitere Bearbeitungsschritte zu verweisen.
 
-## Fachlandkarte dieses Plugins
+## 1.2. Eingaben
 
-- `amtlichen-amtsgericht-sonderfall` — Amtlichen Amtsgericht Sonderfall
-- `amtsgericht-sonderfall-und-edge-case` — Amtsgericht Sonderfall und Edge Case
-- `ausschliesslich-dokumentenmatrix-und-lueckenliste` — Ausschließlich Dokumentenmatrix und Lueckenliste
-- `betriebskostenabrechnung-belege-und-formelpruefer` — Betriebskostenabrechnung Belege und Formelpruefer
-- `bundesland-datenerhebung-grossstadt` — Bundesland Datenerhebung Grossstadt
-- `datenerhebung-zahlen-schwellen-und-berechnung` — Datenerhebung Zahlen Schwellen und Berechnung
-- `eigenbedarfskuendigung-erstellen` — Eigenbedarfskuendigung Erstellen
-- `erstellung-fehlerkatalog` — Erstellung Fehlerkatalog
-- `grossstadt-mietspiegel-und-kappung` — Grossstadt Mietspiegel und Kappung
-- `klageentwurf-amtsgericht-miet-gewerbemiete` — Klageentwurf Amtsgericht Miet Gewerbemiete
-- `klageentwurf-beweislast-und-darlegungslast` — Klageentwurf Beweislast und Darlegungslast
-- `lage-ausstattung-mahnung-zahlungsverzug` — Lage Ausstattung Mahnung Zahlungsverzug
-- `mahnung-zahlungsverzug-mieter` — Mahnung Zahlungsverzug Mieter
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+Lies Vertrag, Abrechnung, Kündigung oder Beschluss einschließlich der entscheidenden Anlagen. Übernimm bekannte Angaben zu vertretener Seite, Objekt, Nutzungsart und Verfahren. Bei fehlendem Auftrag frage nach dem gewünschten Ergebnis; ein Dokument allein begründet keinen Prozessauftrag.
 
-## Arbeitsweg
+## 1.3. Ablauf
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: § 573c BGB Kündigung 3 Monate, § 558b BGB Zustimmung Mieterhöhung Ende 2. Folgemonat, § 24 Abs. 4 WEG Ladung 3 Wochen, § 556 BGB Nebenkostenabrechnung 12 Monate.
-- Fachpfad wählen: zentrale Anker im Mietrecht und WEG-Recht sind BGB §§ 535, 536, 543, 558, 558a, 558b, 573, 573c, 574, 556, 556a, 556b, BetrKV, WEG §§ 24, 25, 27. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Vermieter, Mieter, Hausverwaltung, WEG-Verwaltung, Amtsgericht der Belegenheit, Mieterverein, Eigentümergemeinschaft.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+- Bei Abrechnung prüfe Vertrag, Gesamtkosten, Verteilung und Vorauszahlungen. Fehlt ein Beleg, frage nach der betreffenden Position; nach Eingang korrigiere Betrag und Einwendungsschreiben.
+- Bei Mieterhöhung bestimme Erhöhungsart, Berechnungsgrundlage und Zugang. Prüfe bei Paragraf 558b BGB das Ende des zweiten Kalendermonats nach Zugang sowie gegebenenfalls die anschließende Klagefrist. Nach neuen Angaben zu Ausstattung oder Berechnung überarbeite Miethöhe und bestellte Erklärung zusammen.
+- Bei Kündigung trenne Grund, Form, Zugang, ordentliche und außerordentliche Folgen sowie mögliche Einwendungen. Eine pauschale Dreimonatsfrist ersetzt keine Prüfung nach Paragraf 573c BGB.
+- Bei Wohnungseigentum prüfe Beschlussinhalt, Zuständigkeit, Einladung und Fristen nach den einschlägigen WEG-Regeln. Übertrage keine mietvertraglichen Fristen auf eine Beschlussanfechtung.
 
-## Qualitätsanker
+Bearbeite unabhängig tragfähige Teile vorläufig, wenn entscheidende Angaben fehlen. Nach Antworten prüfe die neuen Belege und setze am Entwurf fort. Weitere gezielte Fragen sind erlaubt, wenn neue entscheidende Lücken entstehen; bereits beantwortete Fragen werden nicht wiederholt.
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+## 1.4. Quellen und Vertiefung
+
+Prüfe die konkret einschlägigen Normen, insbesondere Paragrafen 535, 536, 543, 556 bis 556b, 558 bis 558b, 573, 573c und 574 BGB, BetrKV und WEG. Beachte references/quellenhygiene.md und references/zitierweise.md, soweit verfügbar. Verwende Entscheidungen nur nach Verifikation von Quelle und Aussageumfang.
+
+Optional unterstützen betriebskostenabrechnung-belege-und-formelpruefer, eigenbedarfskuendigung-erstellen, grossstadt-mietspiegel-und-kappung oder mahnung-zahlungsverzug-mieter die jeweilige Vertiefung. Ein Klageentwurf ist nur bei entsprechendem Auftrag sachgerecht. Fehlender Skillzugriff verhindert die Bearbeitung hier nicht.
+
+## 1.5. Ausgabe und Grenzen
+
+Liefere das bestellte Dokument vollständig ausformuliert. Keine Pflichtübersichten oder bloßen Textgerüste; Tabellen nur für tatsächliche Berechnung oder Vergleich. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur ein Standard ohne andere Vorgabe.
+
+Zusätzliche Recherchevermerke gehören in eine getrennte Notiz, nicht in den Empfängerbrief. Formatierte Dokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung. Externe Erklärungen, Versand und Einreichung benötigen ausdrückliche Freigabe.
+
+Bei fehlendem Zugriff fordere die benötigte Passage an und bearbeite unabhängige Teile weiter. Ohne Export liefere Text und behaupte keine nicht erfolgte Datei- oder Quellenprüfung.
+
+## 1.6. Beispiel
+
+Ein Eigentümer verlangt eine Prüfung eines Beschlusses, legt aber nur die Einladung vor. Frage nach Beschlusstext und Beschlussdatum und prüfe die Einladung bereits anhand ihres Inhalts. Nach Eingang stelle die Beschlussprüfung fertig, ohne ungefragt eine Klage einzureichen oder zu entwerfen.

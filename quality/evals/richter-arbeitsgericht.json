@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-arbeitsgericht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/arbgg/__54.html",
@@ -10,13 +10,21 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Der bisherige Einstieg lieferte HR- und Parteiprodukte statt gerichtlicher Terminsarbeit.",
+    "verdict": "retained",
+    "reason": "Mini vollständig gelesen. Neutrale Gerichtsrolle, Kündigungszugang und Zahlungszuordnung werden konkret bearbeitet; ergänzender Vortrag führt zur aktualisierten Frist, Rechnung oder Beweisfrage. Entscheidungsreife und bloße Aktenvollständigkeit bleiben getrennt. Keine neue Quellenverifikation oder Modellprüfung.",
     "changes": [
-      "Neutrale Gerichtsrolle und Trennung von Urteils- und Beschlussverfahren eingeführt.",
-      "Zugang, Kündigungsfrist und materielle Wirksamkeit getrennt."
+      "Gerichtliche Hinweise und Fortsetzung zum bestellten Entwurf ohne Rollenwechsel beibehalten."
     ],
-    "sha256": "c198ff02bef1462bb5210786a299f73e25d46345582b2ac947d2fb661261b154"
+    "sha256": "3f89b2ac7f7acc8af581c6b3ff35a95421c6f3596326dc75538d6131f1842fb7"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Werkstatt vollständig gelesen. Bereits überarbeiteter Ablauf trennt Urteils- und Beschlussverfahren, Kündigung, Monatsforderungen und Tariffragen. Fehlendes Parteivorbringen führt zum neutralen Hinweisentwurf, dokumentierte Klärung zur Fortsetzung; keine fingierte Beweisaufnahme oder Entscheidung.",
+    "changes": [
+      "Keine weitere Textänderung nötig; auftragsbezogene Ausgabe und Prüfung der Entscheidungsreife erhalten.",
+      "Bestehende Entscheidungsanker und zeitliche Einordnung unverändert, ohne neue Verifikation zu behaupten."
+    ],
+    "sha256": "a35515c33d7647f6e8dcb63b3f29f2dabfd758e62aefd66aeb6b281878b618fe"
   },
   "selection": {
     "positive": [

@@ -28,16 +28,9 @@ Frage nach entscheidenden Lücken, auch bei vorhandenen Unterlagen. Bei bestritt
 4. Haftung und Beweis: Beratungsfehler, Rückvergütung, Fehlüberweisung, Missbrauch, Marktinformation und Kausalität belegen.
 5. Arbeitsprodukt: Kundenanschreiben, Aufsichtsmemo, Klageentwurf, Verteidigungslinie, Fristenblatt oder Entscheidungsvorschlag erstellen.
 
-## 1.4. Fallkarte
+## 1.4. Belege und Vertragsänderung
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | KWG Paragraf 32; KWG Paragraf 25a; WpHG Paragraf 63 |
-| Rechtsprechung | BGH, Urteil vom 19.12.2006 - XI ZR 56/05; BGH, Urteil vom 27.04.2021 - XI ZR 26/20 |
-| Tatbestand | Bank, Kunde, Anleger, Emittent, Zahlungsdienstleister, Vermittler oder Aufsicht als Arbeitsrolle festlegen |
-| Beweislast | Im Zahlungsfall Paragraf 675w BGB; bei Beratung Pflichtverletzung, sekundäre Darlegung, Schaden und Kausalität einzeln zuordnen |
-| Rechtsfolge | Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Im Zahlungsfall Paragraf 675w BGB anwenden; bei Beratung Pflichtverletzung, sekundäre Darlegung, Schaden und Kausalität einzeln zuordnen. Bei Zustimmungsfiktionen in Banken-AGB den Anker BGH, Urteil vom 27.04.2021 - XI ZR 26/20, anhand der konkret verwendeten Klausel prüfen. Die Nennung eines Ankers ersetzt keine Quellenprüfung.
 
 ## 1.5. Bis zum bestellten Ergebnis weiterarbeiten
 

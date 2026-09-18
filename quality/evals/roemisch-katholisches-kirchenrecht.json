@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "roemisch-katholisches-kirchenrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.vatican.va/archive/cod-iuris-canonici/deu/documents/cic_libro7_cann1732-1739_ge.html",
@@ -10,13 +10,18 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Allgemeine kirchliche und staatliche Anker wurden durch eine eigenständig ausführbare kanonische Verfahrensspur ergänzt.",
+    "verdict": "retained",
+    "reason": "Am 18. September vollständig gelesen: Rücknahmebegehren, Rekurs und Aussetzung bleiben getrennt; fehlende Bekanntgabeunterlagen führen zur gezielten Nachfrage und anschließenden Überarbeitung des bestellten Entwurfs.",
     "changes": [
-      "Zehn- und fünfzehntägige Schritte getrennt.",
-      "Kirchliche Rechtsentscheidung, pastorale Empfehlung und staatliche Wirkung abgegrenzt."
+      "Keine weitere Textänderung: Unterscheidung kirchlicher Entscheidung und staatlicher Wirkung sowie Nutzfristen erhalten."
     ],
-    "sha256": "ea4be020e91f73901e1afbff4e3815f0b851f458e67ea89fa65913ae9cfd0124"
+    "sha256": "71a1496c229d2682da07dd91eb564e848b48a7976af3ab73162c70c58737c9d0"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Vollständige Textprüfung am 18. September: Die Werkstatt unterscheidet Verwaltungsrekurs, Eheverfahren, Vermögen und kirchlichen Dienst. Nach Eingang von Dekret, Bekanntgabenachweis oder Urkunde wird die betroffene Prüfung fortgesetzt; eine kirchliche Entscheidung wird nicht selbst ausgesprochen.",
+    "changes": ["Keine weitere Änderung an den fachbezogenen Verzweigungen oder Quellen; keine erneute Rechtsquellenprüfung und kein Live-Modelltest."],
+    "sha256": "2f4314f4ee2b33d9ddabd72f94aba6e652d928e6cd2b6a826e798e4b4f2e4d94"
   },
   "selection": {
     "positive": [

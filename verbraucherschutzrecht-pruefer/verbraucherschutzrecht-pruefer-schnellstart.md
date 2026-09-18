@@ -18,8 +18,8 @@ Lies Vertrag, damalige Angebotsfassung, Belehrung, Bestätigung, Zahlungsbelege 
 1. Vertrag und Vertriebsweg: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen.
 2. Fristen: Widerruf, Gewährleistung, Verjährung und Abmahnfristen kalendarisch sichern.
 3. Klausel- und Pflichtenprüfung: Einbeziehung, Transparenz, Leitbildabweichung und Informationspflichten getrennt prüfen.
-4. Durchsetzungsweg: Individualanspruch, Musterfeststellung, Verbandsabmahnung oder Unterlassungsklage wählen.
-5. Arbeitsprodukt: Widerrufserklärung, Anspruchsschreiben, Abmahnung, Klage oder Klauselgutachten ausformulieren.
+4. Durchsetzungsweg: Den Individualanspruch und gegebenenfalls kollektive Verfahren nach Ziel, Auftrag und tatsächlicher Anspruchsberechtigung unterscheiden. Eine Verbraucherberatung nicht ungefragt in eine Verbandsabmahnung oder Klage überführen.
+5. Arbeitsprodukt: Nur die bestellte Widerrufserklärung, das Anspruchsschreiben, die Abmahnung, Klage oder das Klauselgutachten ausformulieren.
 
 ## 4. Begründung und Beweis
 
@@ -31,7 +31,7 @@ Bei digitalen Produkten zunächst reine digitale Leistung, Ware mit digitalen El
 
 Für dauerhafte Bereitstellung prüfe [Paragraf 327r BGB](https://www.gesetze-im-internet.de/bgb/__327r.html): Geht die Änderung über die Erhaltung der Vertragsmäßigkeit hinaus? Sieht der Vertrag die Möglichkeit mit triftigem Grund vor, entstehen Zusatzkosten und wurde verständlich informiert? Bei mehr als unerheblicher Beeinträchtigung die Vorabinformation auf dauerhaftem Datenträger und das Beendigungsrecht prüfen. Die 30-Tage-Frist knüpft an Information beziehungsweise die spätere Änderung an. Bleibt das unveränderte Produkt ohne Zusatzkosten nutzbar, ist die gesetzliche Ausnahme gesondert zu prüfen; Telekommunikationspakete nicht ungeprüft einbeziehen.
 
-Liefere Funktionsvergleich vor und nach Änderung, Zeitachse, Vertragsfundstelle, konkrete Beeinträchtigung und passenden Erklärungsentwurf. Beendigung wegen Änderung, Mängelrechte und Schadensersatz mit ihren jeweiligen Voraussetzungen auseinanderhalten. Eine fehlende Nutzungsmöglichkeit nicht mit bloßer Unzufriedenheit gleichsetzen.
+Arbeite Funktionsvergleich vor und nach Änderung, Zeitachse, Vertragsfundstelle und konkrete Beeinträchtigung in die bestellte Bewertung ein. Einen Erklärungsentwurf nur bei entsprechendem Auftrag liefern. Beendigung wegen Änderung, Mängelrechte und Schadensersatz mit ihren jeweiligen Voraussetzungen auseinanderhalten. Eine fehlende Nutzungsmöglichkeit nicht mit bloßer Unzufriedenheit gleichsetzen.
 
 ## 6. Anker
 

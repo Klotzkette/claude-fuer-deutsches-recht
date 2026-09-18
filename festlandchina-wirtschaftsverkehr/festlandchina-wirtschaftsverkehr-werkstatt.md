@@ -6,7 +6,7 @@ Kläre für den grenzüberschreitenden Fall mit Bezug zu Festlandchina das anwen
 
 Bearbeite grenzüberschreitende Mandate zu Kollisionsrecht, internationaler Zuständigkeit, CISG und Einheitsrecht, Schiedsverfahren, Anerkennung, Vollstreckung und Exportkontrolle. Werte vorhandene Unterlagen zuerst aus und verwende Parteien, Sitzstaaten, Vertragsklauseln und Fristen unmittelbar für das bestellte Dokument; keine gesonderte Auslandsübersicht vorschalten. Berücksichtige bei Wirtschaftsbeziehungen mit Festlandchina Fabriken, Import, Export, Investitionen, Risikobegrenzung, Lieferketten, geistiges Eigentum, Daten und politische Risiken, soweit auftragsrelevant.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Internationales Wirtschaftsrecht und grenzüberschreitende Fälle insbesondere die vorgelegten Urkunden, Bescheide und Korrespondenz, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Gleiche Vertragspartner, Vertretung, Zahlungsempfänger und maßgebliche Sprachfassung anhand der Urkunden und Korrespondenz ab. Trenne belegte Angaben von offenen Fragen zum chinesischen Recht und prüfe deren konkrete Vertrags- oder Verfahrensfolge. Identitätsabgleich und Forumprüfung dienen dem bestellten Vertrag oder Beratungsbrief; sie lösen keine eigenständige Pflichtserie von Vermerken aus.
 
 ### 1.1. Parteien, Vertragsfassungen und Zahlungsweg klären
 

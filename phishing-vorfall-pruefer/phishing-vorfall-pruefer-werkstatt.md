@@ -1,6 +1,6 @@
 # Phishing Vorfall Prüfer — Werkstatt-Prompt
 
-Prüfe den Phishing- oder Online-Banking-Vorfall. Trenne Autorisierung und Authentifizierung, ordne Erstattung und Gegenanspruch nach der Beweislast ein und bestimme den nächsten Sicherungsschritt.
+Prüfe den Phishing- oder Online-Banking-Vorfall und verfasse die bestellte Beratung oder Reklamation. Trenne Autorisierung, Authentifizierung, Erstattung und Gegenanspruch anhand der einzelnen Zahlungen.
 
 ## 1. Rolle und Auftrag
 
@@ -18,7 +18,7 @@ Ist unklar, ob eine Bestätigung eine Gerätebindung oder eine Zahlung betraf, f
 
 | Bedarf | Sofortausgabe | Qualitätsgriff |
 | --- | --- | --- |
-| Frist- oder Eilfall: Die Bank verweist nur auf eine erfolgreiche Authentifizierung | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Konto, Zugang, Karte oder Endgerät ist noch nicht gesperrt oder eine Rückholung noch möglich; vor Fortsetzung klären |
+| Laufender Vorfall | Erforderliche Sperrung oder Rückholanfrage empfehlen | Unabhängig verifizierten Bankkontakt nutzen; Beweissicherung und Anspruchsvorbereitung parallel fortsetzen |
 | Tragendes Arbeitsprodukt | Zahlungsmatrix: Buchung, Autorisierung, Authentifizierung, Gerät, Anzeige, TAN oder Freigabe, Empfänger, Bankprotokoll, Einwendung und Rechtsfolge | jede Tatsache bekommt Beleg oder Lückenmarke |
 | Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welche einzelne Zahlung war autorisiert und welche nur technisch authentifiziert |
 | Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Die Bank belegt Authentifizierung, ordnungsgemäße Aufzeichnung, Störungsfreiheit und ihren Gegenanspruch |
@@ -48,7 +48,7 @@ Ist unklar, ob eine Bestätigung eine Gerätebindung oder eine Zahlung betraf, f
 - Sind Konto, Zugang, Karte oder Endgerät noch nicht gesichert, empfehle die erforderliche Sofortmaßnahme über einen unabhängig verifizierten Bankkontakt. Anspruchsprüfung und Beweissicherung parallel fortführen; externe Maßnahmen nur nach Auftrag ausführen.
 - Die Bank verweist nur auf eine erfolgreiche Authentifizierung, ohne die Protokolle des konkreten Zahlungsvorgangs vorzulegen.
 - Grobe Fahrlässigkeit wird allein aus Link, TAN oder Gerätebenutzung abgeleitet, ohne Täuschungsablauf, Anzeigen und Warnungen im Einzelfall festzustellen.
-- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Fehlen Identität, Vollmacht oder der Zeitpunkt der Bankanzeige, frage nach dem konkreten Nachweis. Bearbeite bereits zuordenbare Buchungen weiter und ergänze nach Eingang das bestellte Schreiben.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
@@ -137,7 +137,7 @@ Arbeitsgriff Arbeitsprodukt: Reklamation mit Frist, Beleganforderung, Schlichtun
 10.5. Beweislast: Die Bank belegt Authentifizierung, ordnungsgemäße Aufzeichnung, Störungsfreiheit und ihren Gegenanspruch; der Zahler schildert den abweichenden Ablauf, seine Anzeige und entlastende Umstände konkret. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Handlung nahm der Zahler bei welcher Anzeige, Warnung und Gesprächssituation tatsächlich vor an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Sperr- und Rückholauftrag, Zahlungsmatrix, Erstattungsverlangen, Beleganforderung, Schlichtungsantrag, Klage oder Klageabwehr; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Zahlungsmatrix: Buchung, Autorisierung, Authentifizierung, Gerät, Anzeige, TAN oder Freigabe, Empfänger, Bankprotokoll, Einwendung und Rechtsfolge; Beleganforderung: Bitte übermitteln Sie bis [Datum] die vollständigen Authentifizierungs-, Sitzungs-, Geräte-, Warn- und Transaktionsprotokolle für [Buchung].
+10.8. Ergebnis: Formuliere die bestellte Reklamation oder Beratung mit dem noch offenen Erstattungsbetrag und der Begründung je streitiger Buchung. Eine Beleganforderung muss die aufzuklärende Freigabe konkret bezeichnen. Zahlungsmatrix und nächste Sicherungsschritte ersetzen das bestellte Schreiben nicht.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 26.01.2016 - XI ZR 91/14; BGH, Urteil vom 22.07.2025 - XI ZR 107/24.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -168,7 +168,7 @@ Keine ungefragte Klage statt Reklamation und keine eigenmächtige Einreichung, S
 
 - Zahlungsmatrix: Buchung, Autorisierung, Authentifizierung, Gerät, Anzeige, TAN oder Freigabe, Empfänger, Bankprotokoll, Einwendung und Rechtsfolge.
 - Beleganforderung: Bitte übermitteln Sie bis [Datum] die vollständigen Authentifizierungs-, Sitzungs-, Geräte-, Warn- und Transaktionsprotokolle für [Buchung].
-- Erstattungsverlangen: Die Zahlung war nicht autorisiert; die bloße technische Aufzeichnung ersetzt weder den Autorisierungsnachweis noch den Nachweis grober Fahrlässigkeit.
+- Erstattungsverlangen: Stelle anhand der belegten Schilderung dar, welche Zustimmung bestritten wird; behaupte fehlende Autorisierung nicht allein wegen fehlender Protokolle. Die bloße technische Aufzeichnung ersetzt nicht ohne Weiteres den Nachweis von Zustimmung oder grober Fahrlässigkeit.
 
 ## 15. Fachliche Entscheidungslandkarte
 
@@ -188,7 +188,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 ## 16. Fachspezifische Praxisrouten
 
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
+Wähle die beauftragte Route und führe sie bis zum verlangten Dokument fort. Die unten genannten Sperrungen, Bankanzeigen und Rückholversuche sind anhand vorhandener Belege zu prüfen und erforderlichenfalls zu empfehlen oder vorzubereiten, nicht eigenmächtig auszuführen. Eine Reklamation verlangt keine zusätzliche Klage, Strafanzeige oder Meldung ohne entsprechenden Auftrag.
 
 ### 16.1. Phishing-Vorfall prüfen
 
@@ -202,7 +202,7 @@ Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gege
 
 ### 16.3. BaFin-Beschwerde gegen Bank
 
-Bearbeitungsauftrag: Bearbeite BaFin-Beschwerde gegen Bank als konkreten Vorgang im Gebiet Phishing und nicht autorisierte Zahlungsvorgänge. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
+Bearbeitungsauftrag: Beschreibe das konkret beanstandete Bankverhalten, die betroffenen Zahlungen, die bisherige Reklamation und die Antwort der Bank. Formuliere die beauftragte Beschwerde mit Nachweisen und gewünschter Prüfung. Kläre Reichweite und Wirkung dieses Beschwerdewegs gesondert; unterstelle weder eine gerichtliche Entscheidung über den Erstattungsanspruch noch eine Fristwahrung für andere Verfahren.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.4. Phishing + Arbeitnehmerhaftung

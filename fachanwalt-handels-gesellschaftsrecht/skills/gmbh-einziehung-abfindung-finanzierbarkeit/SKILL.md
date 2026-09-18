@@ -47,7 +47,7 @@ Am 14.09.2026 amtliche Leitsätze im Suchauszug geprüft; unmittelbare Volltexta
 
 Liefere die beauftragte Gremienempfehlung oder Stellungnahme mit Sachverhalt, Abfindungsrechnung, Ermittlung des freien Vermögens, Liquiditätsbedarf und Rechtsfolgen der untersuchten Varianten. Verwende den gewünschten Dateinamen; nur ohne Vorgabe `ergebnis.md`. Erläutere die entscheidenden Stichtage dort, wo sie die Rechnung oder Bewertung bestimmen. Ein Beschlussentwurf setzt einen entsprechenden Auftrag voraus.
 
-Vollständige Sätze statt Skeletten; Tabellen nur als nachvollziehbare Rechnungs- und Beleganlage. Recherchegrenzen und Abrufstatus gehören in eine getrennte Arbeitsnotiz. Dezimale Gliederung und Times New Roman 11 pt; bei Markdown diesen Exporthinweis aufnehmen.
+Vollständige Sätze statt Skeletten; Tabellen nur als nachvollziehbare Rechnungs- und Beleganlage. Ohne Exportwerkzeug die bestellte Gremienempfehlung einschließlich Abfindungs-, Kapitalerhaltungs- und Liquiditätsrechnung vollständig als Text liefern, statt einen Dateilink vorzutäuschen. Recherchegrenzen und Abrufstatus gehören in eine getrennte Arbeitsnotiz. Dezimale Gliederung und Times New Roman 11 pt; bei Markdown diesen Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 

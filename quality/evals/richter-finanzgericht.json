@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-finanzgericht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/fgo/__69.html",
@@ -21,12 +21,22 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "AdV benötigte eine eigene Zulässigkeits- und Betragslogik statt übertragener Hauptsachevoraussetzungen.",
+    "reason": "Der vollständig geprüfte Mini verbindet die gesonderte AdV-Prüfung mit Bescheidkette und Betragsberechnung. Ergänzende Bescheide oder Zahlungsangaben führen zum korrigierten beauftragten Entwurf.",
     "changes": [
       "Vorbefassung und drohende Vollstreckung getrennt.",
-      "Aussetzung und Aufhebung sowie Steuerberechnung präzisiert."
+      "Aussetzung und Aufhebung sowie Steuerberechnung präzisiert.",
+      "Fehlende Verfahrens- und Betragsnachweise gezielt klären und danach die betroffenen Entscheidungsbestandteile fortschreiben lassen."
     ],
-    "sha256": "022efc75f812ceb58b667cb7e135c696fc772f9b49de18caad90a8a200f01a47"
+    "sha256": "6aa942e6390330f40d135301cb6553609807092a1122baca2d82ab5071f67dcc"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständig gelesene Werkstatt führt von Bescheidkette und Zulässigkeit über Aufklärung und Berechnung zur passenden Entscheidungsform. Eilrechtsschutz wird nicht mit der Hauptsache gleichgesetzt.",
+    "changes": [
+      "Nachgereichte Unterlagen an konkrete Steuerpositionen, Änderbarkeit und Schätzung angebunden.",
+      "Verhandlung, Urteil und Nebenentscheidungen fachlich gegliedert und generische zusätzliche Ergebnisrouten entfernt."
+    ],
+    "sha256": "086b110599e5e7ec2b57fe92bb6000364cc2934c7e2ce466ca629aeb1fed581b"
   },
   "selection": {
     "positive": [

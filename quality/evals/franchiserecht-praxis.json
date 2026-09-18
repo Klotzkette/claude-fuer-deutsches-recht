@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "franchiserecht-praxis",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720",
@@ -11,14 +11,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt benennt Franchise-Risiken, das Mini bot dagegen ein generisches Vertragsgerüst als Endprodukt an.",
+    "reason": "Vollständig geprüft: Gebühren, Handbuch und Standortannahmen führen nach Klärung zur Vertragsfassung; neue Ausstiegskorrespondenz zum bestellten Brief. Kein weiterer Mini-Eingriff nötig.",
     "changes": [
       "Gebühren, Standortprognose und Handbuchänderungen konkretisiert.",
       "Preisempfehlung mit Sanktionen von unverbindlicher Empfehlung getrennt.",
       "Vollständigen Vertragsentwurf statt Gerüst verlangt."
     ],
-    "sha256": "f8022fa6d26e33391c2a9c04227b045476fdef84dd33505e18d8854351e5c359"
+    "sha256": "dfd0a3ae3130b988a3f2e0e30a6468fbda639f8528a67c3b8afd5b6b5f8785a7"
   },
+  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung bestätigte die Wege für Systemleistung, Prognose und Ausstieg; die pauschale Produktpflicht nach jeder Station blieb widersprüchlich.","changes":["Systemzusagen und Prognosen getrennt; Berechnungen und Alternativklauseln auf die bestellte Prüfung oder Vertragsfassung begrenzt."],"sha256":"5f5c6f6fc7b43e864ccf3133c930ffad1c50a18ed14aea84c7d59b621763bcc7"},
   "selection": {
     "positive": [
       "Prüfe die Preis- und Bezugsbindung im Handbuch unseres Franchise-Systems.",

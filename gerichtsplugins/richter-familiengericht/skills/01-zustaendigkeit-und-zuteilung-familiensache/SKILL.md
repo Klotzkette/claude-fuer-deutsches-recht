@@ -3,97 +3,39 @@ name: 01-zustaendigkeit-und-zuteilung-familiensache
 description: "Für 01 Zuständigkeit und Zuteilung Familiensache: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# 01 Zuständigkeit und Zuteilung Familiensache
+# 1. Familiensache einordnen und Eingangsverfügung vorbereiten
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Zweck und Auftrag
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Prüfe, welches familiengerichtliche Verfahren vorliegt und welche Verfügung als Nächstes erforderlich ist. Arbeite aus Sicht des Gerichts und mit der vorhandenen Akte, nicht als Parteiberater.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+## 1.2. Eingaben
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Lies Antrag, Erwiderung, Zustellungsnachweise, frühere Entscheidungen, Geschäftsverteilung und vorhandene Auskünfte. Übernimm geklärte Beteiligtenangaben, Aufenthaltsorte, Anträge und Termine. Frage nur nach fehlenden Angaben, die Zuständigkeit, Beteiligung, Frist oder Schutzbedarf tatsächlich beeinflussen.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.3. Verfahren und Fortsetzung
 
-## Zweck
+1. Ordne den Gegenstand nach den Paragrafen 111 und 112 FamFG ein. Prüfe sachliche Zuständigkeit nach den Paragrafen 23a und 23b GVG, örtliche Zuständigkeit nach der für diesen Gegenstand geltenden Regel und internationale Zuständigkeit bei Auslandsbezug. Die Ehesachenregel des Paragrafen 122 FamFG gilt nicht allgemein. Bei sonstigen Familiensachen beachte Paragraf 266 FamFG. Abgabe und Verweisung sind unterschiedliche Maßnahmen; prüfe ihre jeweilige Grundlage, statt beide pauschal auf Paragraf 4 FamFG zu stützen.
+2. Trenne Amtsverfahren, Antragsverfahren und Verbund nach Paragraf 137 FamFG. Beachte die Ausschlüsse und ZPO-Verweisung in Paragraf 113 FamFG, insbesondere für Amtsermittlung und Verfahrenskostenhilfe. Paragraf 76 FamFG ist nicht ungeprüft für jede Verfahrensart einzusetzen.
+3. Bestimme notwendige Beteiligte, Vertretung, Anwaltszwang, erforderliche Anhörungen und Auskünfte. In Kindschaftssachen prüfe insbesondere die Paragrafen 155, 158, 159, 160 und 162 FamFG. Die Kindesanhörung darf nicht durch eine pauschale Altersgrenze ersetzt werden. Plane Jugendamtsanhörung und Beteiligtenstellung getrennt.
+4. Bei Gewalt, Gefährdung oder Entführungsrisiko bereite die Eilprüfung nach Paragraf 49 FamFG vorrangig vor. Eine ungeklärte Zuständigkeit oder Befangenheit wird mit einer konkreten Prüf- oder Vorlageverfügung bearbeitet, nicht durch eine fingierte Sachentscheidung übergangen.
+5. Fehlt ein Zustellungs- oder Aufenthaltsnachweis, fordere diesen gezielt an. Nach Eingang berichtige Zuständigkeitsbegründung und Fristen. Fehlen Einkommen, Versorgungsauskunft oder Kindesanhörung, formuliere die passende Aufklärungs- oder Terminverfügung; nach deren Ergebnis setze die Bearbeitung bis zum beauftragten Beschluss fort. Neue entscheidende Lücken erlauben weitere gezielte Fragen, keine erneute vollständige Aufnahme.
+6. Prüfe vor Abschluss Gehör, Entscheidungsreife und Reichweite des verlangten Dokuments. Ein Vergleich nach Paragraf 156 FamFG darf Schutzfragen nicht verdrängen. Kosten, etwa nach Paragraf 243 FamFG, Wirksamkeit und Vollstreckung folgen der konkreten Sache.
 
-Prüfung Zuständigkeit Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG, örtliche Zuständigkeit Paragrafen 122-124 FamFG, Geschaeftsverteilung; Verbund Paragraf 137 FamFG bei Scheidung; Verfahrenskostenhilfe Paragraf 76 FamFG
+## 1.4. Quellen und Grenzen
 
-## Rolle
+Prüfe FamFG, BGB, ZPO, VersAusglG, GewSchG, FamGKG und gegebenenfalls RVG sowie internationale Instrumente in ihrem jeweiligen Anwendungsbereich. Das Haager Kinderschutzübereinkommen und die Brüssel-IIb-Verordnung sind keine allgemeinen Zuständigkeitsregeln für jede Familienforderung. Sichere tragende Normen und Entscheidungen amtlich; eine Angabe wie „ständige Rechtsprechung“ ersetzt keinen überprüften Nachweis.
 
+Kontrollstelle für die Verfahrensunterscheidung: https://www.gesetze-im-internet.de/famfg/__113.html. Soweit verfügbar, kann references/zitierweise.md ergänzend genutzt werden. Familienakten bleiben vertraulich; prüfe insbesondere die berührten Pflichten nach Paragraf 353b StGB und Paragraf 43 DRiG nach ihrem konkreten Anwendungsbereich.
 
-Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
+## 1.5. Ausgabe
 
-## Rechtsrahmen
+Liefere die gewünschte Eingangs-, Hinweis-, Anhörungs- oder Vorlageverfügung vollständig ausformuliert mit Adressaten, Gegenstand, Frist und Wiedervorlage. Ein beauftragter Beschluss enthält bestimmte Aussprüche, Gründe und passende Nebenentscheidungen; eine bloße Liste von Prüfungspunkten genügt nicht. Bei entscheidenden Lücken kennzeichne den bereits ausgearbeiteten Teil als vorläufig und benenne die konkrete Ergänzung.
 
-FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindschaftsrecht), UnterhaltsR (Paragrafen 1601 ff. BGB), FamGKG, RVG, Haager Kinderschutzübereinkommen, EuEheVO, Bruessel IIb
+Beachte die Ausformulierungspflicht und den Formatstandard: vollständige Sätze, dezimale Gliederung, möglichst Times New Roman 11 pt. Nutzerdateinamen gehen vor. Quellenabrufstatus steht in einer getrennten Arbeitsnotiz. Die richterliche Entscheidung bleibt dem zuständigen Menschen vorbehalten; Zustellung und andere externe Handlungen benötigen Freigabe.
 
-## Pflichtschritte
+## 1.6. Beispiel und optionale Vertiefung
 
-1. Verfahrensgegenstand und Verfahrensart einordnen (Familienstreitsache oder Verfahren der freiwilligen Gerichtsbarkeit nach FamFG).
-2. Erforderliche Beteiligte und Mitwirkende einbinden (Verfahrensbeistand Paragraf 158 FamFG, Jugendamt, Sachverständige).
-3. Termin und Anhörungen durchführen (Kindesanhörung Paragraf 159 FamFG, Anhörung der Eltern); Amtsermittlung (Paragraf 26 FamFG) wahren.
-4. Kindeswohl, Unterhalt, Versorgungsausgleich oder Gewaltschutz nach dem einschlägigen materiellen Recht prüfen.
-5. Beschluss mit Begründung fassen; Kosten (FamGKG), Wirksamkeit und Vollstreckung regeln.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+Ein Umgangsantrag enthält unterschiedliche Angaben zum Aufenthaltsort und ein Jugendamtsbericht fehlt. Kläre den zuständigkeitsrelevanten Aufenthalt anhand der vorhandenen Akte beziehungsweise gezielter Nachfrage und bereite die erforderliche Anhörungsverfügung vor. Nach Eingang von Bericht und Anhörungsergebnis arbeite die verlangte Umgangsentscheidung aus, ohne ungeklärte Aussagen als Feststellungen zu übernehmen.
 
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- Paragrafen 23b GVG sowie 111, 112 und 151 FamFG: Zuständigkeit und Verfahrensart entscheiden, ob Amtsbetrieb, Antragsverfahren oder Familienstreitsache vorliegt.
-- Paragraf 113 FamFG: ZPO-Vorschriften gelten in Familienstreitsachen nur nach Maßgabe der Verweisung.
-- Paragraf 266 FamFG: Sonstige Familiensachen verlangen eine präzise Abgrenzung zu allgemeinem Zivilprozess und Güterrecht.
-- Ständige Rechtsprechung zur funktionellen Zuständigkeit in Familiensachen: Verfahrensgegenstand, Beteiligte und Verbundfähigkeit sind vor Sachprüfung zu klären; konkrete Fundstelle vor produktiver Zitierung verifizieren.
-- Paragraf 4 FamFG: Abgabe und Verweisung sind nur tragfähig, wenn Zuständigkeit und Kindeswohlgesichtspunkte aktenbezogen begründet werden.
-
-## Prüfungsschema in Stufen
-
-1. Zuständigkeit und Zuteilung Familiensache: Familiensache, Verfahrensart, örtliche Zuständigkeit und Beteiligte zuerst bestimmen.
-2. Amtsverfahren, Antragsverfahren, Verbund und Folgesachen sauber trennen.
-3. Anhörungen, Jugendamt, Verfahrensbeistand, Sachverständige und Auskunftsanordnungen terminlich steuern.
-4. Vergleichs- und Einigungsoptionen prüfen, ohne Schutz- oder Kindeswohlfragen zu relativieren.
-5. Beschluss mit Tenor, Gründen, Kosten, Rechtsbehelfsbelehrung und Vollstreckungshinweis fassen.
-
-## Typische Fallstricke
-
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
-```
-
-### Baustein B
-
-```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
-```
-
-## Benachbarte Skills
-
-- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-ehesache-scheidung-paragraf-1565` - Folgeskill nutzen, sobald Zuständigkeit und Zuteilung Familiensache entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
+Der Skill 02-ehesache-scheidung-paragraf-1565 ist nur bei einer passenden Ehesache eine optionale Vertiefung, keine notwendige Folgestation jedes Familienverfahrens. Fehlende Werkzeuge hindern nur abhängige Schritte; ohne Export liefere Text und behaupte keine Datei oder Prüfung, die nicht erzeugt beziehungsweise durchgeführt wurde.

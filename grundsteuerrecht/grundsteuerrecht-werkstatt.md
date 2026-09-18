@@ -116,7 +116,7 @@ Bei Bestandskraft prüfe die konkrete Korrekturgrundlage: Paragraf 129 AO für o
 
 Prüfe daneben Fortschreibung nach Paragraf 222 BewG. Die Wertgrenze von mehr als 15000 Euro betrifft die Wertfortschreibung, nicht unterschiedslos jede Art- oder Zurechnungsfortschreibung. Fehlerbeseitigung und tatsächliche Veränderung haben unterschiedliche Zeitpunkte. Künftig richtige Besteuerung bedeutet nicht automatisch Rückzahlung für alle vergangenen Jahre. Wiedereinsetzung nach Paragraf 110 AO verlangt einen eigenen Tatsachenvortrag; bloßes spätes Entdecken eines Rechtsproblems garantiert sie nicht.
 
-Der Brief enthält Betreff mit Bescheid, Objekt und Aktenzeichen, Anrede, Antrag, konkrete Abweichung, Gegenbeleg, Rechtsgrundlage, Anlagen und Schluss. Interne Zweifel und Freigabevermerke gehören nicht ungeprüft in den Außenbrief. Eine Quellenlücke wird offen bezeichnet, nicht mit einer ausgedachten Entscheidung gefüllt.
+Der Brief enthält Betreff mit Bescheid, Objekt und Aktenzeichen, Anrede, Antrag, konkrete Abweichung, Gegenbeleg, Rechtsgrundlage, Anlagen und Schluss. Interne Zweifel, Quellenlücken und Freigabevermerke gehören in die getrennte Arbeitsnotiz. Unbelegte rechtliche Aussagen nicht durch eine ausgedachte Entscheidung absichern.
 
 ## 11. Zahlung und Eilrechtsschutz parallel sichern
 
@@ -128,7 +128,7 @@ Belege ernstliche Zweifel durch den konkreten Fehler und seinen Umfang. Bei Här
 
 Wird ein Grundlagenbescheid ausgesetzt, sind die Folgen für Folgebescheide nach Paragraf 361 Absatz 3 AO und Paragraf 69 Absatz 2 FGO zu kontrollieren. Fordere die Umsetzung konkret an. Eine angekündigte Aussetzung ist noch keine bestätigte Entscheidung, und eine Entscheidung ist noch kein korrigierter Kassenstand. Keine eigenmächtige Zahlungseinstellung, keine Rückgabe einer Lastschrift und keine Änderung von Kontodaten.
 
-## 12. Rechtsprechung mit Fallkarte statt Zitatsammlung
+## 12. Rechtsprechung nach Modell und Verfahrensart
 
 Prüfstand dieser Anker: 10. September 2026. Öffne für die aktuelle Freigabe die amtliche Quelle und prüfe, ob eine spätere Entscheidung oder Erledigung vorliegt. Nutze die folgenden Entscheidungen nur für ihre konkrete Aussage:
 
@@ -138,11 +138,11 @@ Prüfstand dieser Anker: 10. September 2026. Öffne für die aktuelle Freigabe d
 | [BFH, Urteil vom 12.11.2025, II R 3/25](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202620006/) | Bundesmodell: Typisierung und konkreter Angriff gegen Bewertungsgrundlagen sauber unterscheiden. | Jeder Berliner Bescheid sei deshalb in seinen Daten und Rechenwegen richtig. |
 | [BFH, Urteil vom 22.04.2026, II R 26/24](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610124/) | Baden-Württemberg: Bodenwertmodell und eigener niedrigerer Nachweis. | Das Urteil liefere die Bewertungsregeln für eine Berliner Eigentumswohnung. |
 
-Formuliere zu jeder verwendeten Entscheidung eine kleine Fallkarte: Gericht, Art, Datum, Aktenzeichen, amtlicher Volltext, entscheidender Sachverhalt, tragender Rechtssatz, Vergleichspunkt und Übertragungsgrenze. Randnummern nur aus überprüftem Volltext, nicht aus der Zählung einer Suchergebnisdarstellung. Bei bloßer Pressemitteilung genau diesen Quellenstatus nennen.
+Prüfe zu jeder verwendeten Entscheidung Gericht, Art, Datum, Aktenzeichen, amtlichen Volltext, entscheidenden Sachverhalt, tragenden Rechtssatz und Übertragungsgrenze. Halte Quellenstatus und Recherchebedarf in der Arbeitsnotiz fest; keine zusätzliche Übersicht im Außenbrief verlangen. Randnummern nur aus überprüftem Volltext, nicht aus der Zählung einer Suchergebnisdarstellung. Eine Pressemitteilung nicht als gelesenen Volltext ausgeben.
 
 Die amtliche [BFH-Übersicht](https://www.bundesfinanzhof.de/de/anhaengige-verfahren/im-fokus-grundsteuer/), Stand August 2026, nennt unter anderem die Verfassungsbeschwerden 1 BvR 472/26 gegen II R 3/25 und 1 BvR 551/26 gegen II R 25/24. Diese Verfahrensnummern sind keine stattgebenden Entscheidungen. Eine passende anhängige Rechtsfrage kann für Paragraf 363 Absatz 2 Satz 2 AO relevant sein. Prüfe Identität der Frage und aktuellen Status; halte konkrete Flächen- oder Übernahmefehler außerhalb einer pauschalen Verfassungsdebatte bearbeitbar.
 
-Ein gescheiterter Abruf rechtfertigt keine erfundene Aktualitätsbestätigung. Liefere den Entwurf mit präzisem Quellenvorbehalt und arbeite an belegten Tatsachen weiter. BGH- oder allgemeine Immobilienurteile nur ergänzen, wenn ihre konkrete Aussage die steuerliche Frage wirklich trägt; bloße Bekanntheit ersetzt keine Zuständigkeit oder Passung.
+Ein gescheiterter Abruf rechtfertigt keine erfundene Aktualitätsbestätigung. Dokumentiere den Quellenvorbehalt getrennt vom Entwurf und arbeite an belegten Tatsachen weiter; eine ungeklärte Rechtsfrage bleibt auch in der Empfehlung offen. BGH- oder allgemeine Immobilienurteile nur ergänzen, wenn ihre konkrete Aussage die steuerliche Frage wirklich trägt; bloße Bekanntheit ersetzt keine Zuständigkeit oder Passung.
 
 ## 13. Gerichtlichen Entwurf und Verfahrensruhe unterscheiden
 
@@ -180,62 +180,7 @@ Lies den Entwurf danach aus Empfängersicht. Er muss erkennen können, welcher B
 
 Schließe ab, wenn das bestellte Produkt vollständig vorliegt und neue Angaben eingearbeitet sind. Bleibt eine entscheidende Lücke, liefere den begründbaren Teil vorläufig und benenne den konkret benötigten Beitrag. Nach dessen Eingang Bescheidzuordnung, Rechnung und betroffene Begründung aktualisieren; weitere gezielte Fragen sind bei neu erkennbaren entscheidenden Lücken möglich. Beginne nicht erneut bei null, wenn nur eine Behördenantwort oder ein Katasterauszug hinzukommt.
 
-<!-- BEGIN fachrouten-werkstatt (autogen) -->
-## 17. Fachspezifische Praxisrouten
 
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
-
-### 17.1. Verfügungssätze und Zugang
-
-Bearbeitungsauftrag: Zähle Verwaltungsakte statt Dateien. Wert, Messbetrag und Jahressteuer mit eigenen Stichtagen, Zugangsbelegen und Belehrungen registrieren. Die neue Jahressteuer erneuert keine alte Wert-Einspruchsfrist.
-Lieferstück: Bescheidregister und bei Fristgefahr sofortiger bestimmter Erstentwurf.
-
-### 17.2. Wohnung, Bruchteil und Fläche
-
-Bearbeitungsauftrag: Trenne Zurechnung an der Wohnung, Miteigentumsbruch, gesamte Bodenfläche und Wohnfläche. Eine Pflasterfuge ersetzt kein Kataster; eine abgeschriebene Verwaltungs-CSV keinen unabhängigen Beleg.
-Lieferstück: Flächenvergleich mit Quellen und gezielter Anforderung von Kataster oder Teilungsnachtrag.
-
-### 17.3. Landesmodell und Steuerjahr
-
-Bearbeitungsauftrag: Die Grundstückslage bestimmt die Bewertungsregeln. Berliner Jahressteuer kommt hier vom Finanzamt. Historischen Aktenstand nicht mit erst später eingeführten Normen oder Entscheidungen vermengen.
-Lieferstück: zeitlich und örtlich passender Normenvermerk mit konkreter Rechenroute.
-
-### 17.4. Ertragswert und Rundung
-
-Bearbeitungsauftrag: Bei einschlägigem Wohngrundstück Tabellenmiete, Mietstufe, Kosten, Restnutzungsdauer, Vervielfältiger und Bodenabzinsung prüfen. Mindestwert nach BewG Paragraf 251 und Schlussrundung nach Paragraf 230 gesondert rechnen.
-Lieferstück: nachrechenbare Bewertung mit Originalwerten, Formeln und offenem Rundungsbedarf.
-
-### 17.5. Niedrigerer gemeiner Wert
-
-Bearbeitungsauftrag: BewG Paragraf 220 Absatz 2: Grundsteuerwert mindestens 1.40 mal nachgewiesener gemeiner Wert. Gesamte Einheit, Stichtag, Nachweisqualifikation und Änderbarkeit prüfen; nicht auf Landesmodelle übertragen.
-Lieferstück: Schwellenvergleich und wirtschaftlich begründete Gutachteranfrage als Entwurf.
-
-### 17.6. Messbetrag und Jahressteuer
-
-Bearbeitungsauftrag: Wert mal Promille geteilt durch 1000; Messbetrag mal Hebesatz geteilt durch 100. Rechnerischen, festgesetzten und im Jahresbescheid übernommenen Messbetrag nicht stillschweigend angleichen.
-Lieferstück: Übernahmeabgleich mit Rohprodukten, Bescheidwerten und Ratenkontrolle.
-
-### 17.7. Einspruch oder Korrektur
-
-Bearbeitungsauftrag: AO Paragraf 351 Absatz 2: Fehler an richtiger Stufe verfolgen. Bei Bestandskraft konkreten Korrekturtatbestand und BewG Paragraf 222 prüfen; keine pauschale Rückwirkung versprechen.
-Lieferstück: bestimmter, vollständig begründeter Behördenbrief mit wirklichen Anlagen.
-
-### 17.8. Fälligkeit und Eilantrag
-
-Bearbeitungsauftrag: Einspruch und Ruhen stoppen keine Zahlung. Finanzamtsroute nach AO Paragraf 361 und FGO Paragraf 69 von kommunaler Route nach VwGO Paragraf 80 trennen; drohende Vollstreckung vor Vollanalyse bearbeiten.
-Lieferstück: Eilentwurf mit Betrag, Zweifeln oder Härtebelegen und getrenntem Zahlungsstand.
-
-### 17.9. Klage oder Verfahrensruhe
-
-Bearbeitungsauftrag: II R 3/25 betrifft Bundesmodell, II R 26/24 Baden-Württemberg. Anhängige Verfassungsbeschwerde ist kein stattgebendes Urteil. Status und identische Rechtsfrage vor Ruhensantrag prüfen.
-Lieferstück: begründete Verfahrenswahl und Klage- oder Ruhensantrag ohne pauschale Prozessgarantie.
-
-### 17.10. Änderung und Erstattung
-
-Bearbeitungsauftrag: AO Paragrafen 175, 182 und 184: Wirkung auf Folgeakte kontrollieren. Neue Festsetzung, angekündigte Erstattung und tatsächlicher Zahlungseingang getrennt führen.
-Lieferstück: Alt-Neu-Abgleich, offene Kassenpunkte und vollständiger Mandantenbrief.
-<!-- END fachrouten-werkstatt (autogen) -->
-
-## 18. Technische Grenzen
+## 17. Technische Grenzen
 
 Ohne weitere Skills hier weiterarbeiten und ohne Export vollständigen Text liefern. Bei Abruf- oder Exportfehlern einen geeigneten Ersatzweg versuchen und verbleibende unlesbare Dateien oder Quellenlücken gesondert benennen. Keine vollständige Akten- oder Quellenprüfung und keine Dateierzeugung behaupten, die nicht stattgefunden hat. Unveränderte Belege weiterverwenden, geänderte Fassungen und widersprechende Nachweise neu prüfen; technische Hinweise gehören nicht in den Empfängertext.

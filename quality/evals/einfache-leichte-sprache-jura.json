@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "einfache-leichte-sprache-jura",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgg/__11.html",
@@ -26,12 +26,17 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini war ein fachfremdes allgemeines Subsumtionsschema; der Kernskill enthält dagegen sinnvolle Übertragungsregeln, aber auch unzutreffende Normverweise.",
+    "reason": "Aktuellen Mini vollständig gelesen. Mehrdeutige Bezüge und fehlende Seiten führen zur gezielten Klärung und anschließenden Überarbeitung der Adressatenfassung. Die noch feste Benennung ergebnis.md widersprach dem Vorrang des Nutzerdateiwunschs. Keine neue Rechtsquellen- oder Live-Modellprüfung.",
     "changes": [
-      "Adressatenfassung statt Gutachten zum Hauptoutput gemacht.",
-      "Fristen, Modalverben und Ausnahmen gesichert; keine Zertifizierung behauptet."
+      "ergebnis.md ausdrücklich zum Standard nur bei fehlendem Dateiwunsch gemacht."
     ],
-    "sha256": "53bf29445f0f65a627ce7c848b047d9516894f4c75434c38d681e7dc2d1348cc"
+    "sha256": "4b54976a662089f925f0d3ac25591608aef15363e9e2d56ab244205b3f937c36"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Werkstatt vollständig gelesen. Ausgangstext, Bedingungen und Wahlrechte bleiben Vergleichsmaßstab; die acht fachbezogenen Übertragungswege erzwingen weder neue Gutachten noch Rechtsbehelfe. Rückmeldungen führen zur konkreten Satzüberarbeitung und erneuten Inhaltskontrolle. Zielgruppenprüfung und Zertifizierung werden nicht vorgetäuscht. Keine neue rechtliche Verifikation oder Live-Modellprüfung.",
+    "changes": [],
+    "sha256": "1c56ea13e8e2fb051f3a61ed25adc156859399340c3494eb89cb48daa8495b3d"
   },
   "selection": {
     "positive": [

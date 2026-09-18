@@ -14,28 +14,8 @@ Lies die vorhandenen Bescheide und den dokumentierten Auftrag, ohne bekannte Ver
 
 Fehlt der Bekanntgabe- oder Zustellnachweis, frage danach und prüfe die betroffene Rechtsbehelfsfrist nach Eingang neu. Fehlen Tatsachen zum drohenden Vollzug, fordere Terminankündigung und Angaben zu den konkreten Folgen an; aktualisiere danach Dringlichkeit und Antragsbegründung und formuliere den bestellten Eilantrag fertig. Zeigt die Antwort eine neue entscheidende Lücke, etwa eine bereits erfolgte Umsetzung, kläre diese in einer weiteren kurzen Runde.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist- oder Eilfall: Widerspruchsfrist, sofortige Vollziehung oder Eilantrag | Dringlichen Sicherungsschritt zur Entscheidung vorbereiten | Zugang und Vollzugsstand sofort klären; unabhängig prüfbare Teile fortsetzen |
-| Tragendes Arbeitsprodukt | Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen | jede Tatsache bekommt Beleg oder Lückenmarke |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welche Handlungsform liegt vor |
-| Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
-| Rechtsfolgenseite | Antrags-, Bescheid-, Vertrags- oder Antwortfassung | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| Zwischenstation 1 | Arbeitsstand mit Belegstelle | Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen |
-| Zwischenstation 2 | Arbeitsstand mit Belegstelle | Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen |
-| Adressatenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko, Kostenfolge und nächsten Schritt getrennt ausweisen |
-
-### 1.3. Rückfragen nach Aktenauswertung
-
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Welche Handlungsform liegt vor“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Sofortvollzug oder Vollstreckung steht unmittelbar bevor.
-3. Beweislage vor Rechtsmeinung ordnen: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
-
-### 1.4. Nachgereichte Belege verarbeiten
+### 1.2. Nachgereichte Belege verarbeiten
 
 Bei einer Fördermittelrückforderung frage nach dem Zahlungs- oder Projektbeleg zur konkret gekürzten Kostenposition. Prüfe nach Eingang, ob er den angeführten Kürzungsgrund tatsächlich entkräftet; passe Kostenanerkennung, Gegenrechnung und Stellungnahme entsprechend an. Eine vorhandene Rechnung oder ein übermittelter Ordner beweist nicht automatisch zweckgerechte Verwendung. Auch im Nachforderungsschreiben keine noch unbekannten Tatsachen vorwegnehmen.
 
@@ -69,34 +49,8 @@ Prüfe aufschiebende Wirkung und deren Entfallen, bevor du den passenden Eilrech
 
 Formuliere das bestellte Widerspruchsschreiben, die Klage, den Eilantrag, die Bescheidprüfung oder den Vergleichsvorschlag vollständig. Bei einem Hindernis liefere die unabhängig begründbaren Teile vorläufig und benenne den konkret benötigten Beitrag. Nach dessen Eingang an den betroffenen Abschnitten fortsetzen; eine Nachforderung ersetzt die bestellte Endfassung nicht.
 
-## 4. Rechtsprechungs-Fallkarte
 
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Fallkern | Vergleichsverhandlungs-Strategie für Verwaltungsrechtsstreitigkeiten | VwVfG Paragraf 35 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
-| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anfechtungsklage | VwVfG Paragraf 28 | Tatbestandsmatrix mit Beleg und Gegenargument |
-| Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
-
-## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
-
-| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
-| --- | --- | --- | --- |
-| VwVfG Paragraf 35 | Verwaltungsakt als zentrale Handlungsform | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| VwVfG Paragraf 28 | Anhörung Beteiligter | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| VwVfG Paragraf 40 | Ermessen und Ermessensgrenzen | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| VwGO Paragraf 42 | Anfechtungs- und Verpflichtungsklage | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| VwGO Paragraf 80 Absatz 5 | Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| VwGO Paragraf 123 | einstweilige Anordnung | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| Paragraf 839 BGB ART 34 GG | Paragraf 839 BGB ART 34 GG | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-
-## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
-
-- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
-- Rechtsfolge zuerst als Arbeitsprodukt denken: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur
-- Nachweise den tragenden Aussagen zuordnen; Quellenstatus und offene Recherche in einer getrennten Arbeitsnotiz dokumentieren, nicht in einer Stellungnahme an die Behörde.
-
-## 7. Pflichtnormen als Kernsätze
+## 4. Pflichtnormen als Kernsätze
 
 - VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
 - VwVfG Paragraf 28: Anhörung Beteiligter.
@@ -113,145 +67,62 @@ Formuliere das bestellte Widerspruchsschreiben, die Klage, den Eilantrag, die Be
 - Paragraf 80 Abs. 2 Satz 1 Nr. 1 VwGO — Die aufschiebende Wirkung entfällt bei der Anforderung von öffentlichen Abgaben und Kosten; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 28, 39 VwVfG — Anhörung vor belastendem Verwaltungsakt und Begründungspflicht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
-## 8. Leitentscheidungen
+## 5. Leitentscheidungen
 
 - Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
-## 9. Prüfraster
 
-1. Welche Handlungsform liegt vor.
-2. Welche Klage- oder Antragsart ist statthaft.
-3. Welche formellen Fehler können geheilt werden und welche nicht.
-4. Welche Ermessensfehler oder Abwägungsdefizite tragen den Angriff.
-5. Welche vorläufige Regelung ist im Eilverfahren erforderlich.
-6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
-7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
-
-## 10. Argumentations- und Entwurfsgerüst
-
-10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.
-10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind VwVfG Paragraf 35; VwVfG Paragraf 28.
-10.3. Tatbestandsmerkmal: Prüfe den für die konkrete Maßnahme entscheidenden Punkt; Vergleichsverhandlungen sind nur bei entsprechendem Ziel eine Bearbeitungsroute.
-10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Verwaltungsrecht tragen regelmäßig Bescheid, Zustellungsnachweis, Behördenakte und Anhörungsvermerk den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
-10.5. Beweislast: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei Zuständigkeit, Anhörung, Ermessensausübung und Verhältnismäßigkeit an.
-10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Liefere das bestellte Dokument mit fachüblichen Überschriften. Die nachfolgenden Praxisrouten bestimmen nicht dessen Gliederung; Prüfmatrizen und Fristenübersichten ergänzen es nur bei Bedarf. Ein Prüfvermerk ist keine fertige Klageschrift, wenn diese bestellt wurde.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
-
-## 11. Outputvarianten und Empfängerwunsch
-
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| schnell entscheiden | Kurzvermerk | Fallkern, VwVfG Paragraf 35; VwVfG Paragraf 28, Risiko und nächster Schritt |
-| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
-| versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
-| beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei Zuständigkeit, Anhörung, Ermessensausübung und Verhältnismäßigkeit |
-
-## 12. Arbeitsweise
+## 6. Arbeitsweise
 
 Lies vorhandene Bescheide, Zustellungsnachweise, Behördenakte und Anhörung, bevor du Fragen stellst. Entscheidend ist ihre Aussage zum Streitpunkt, nicht die bloße Verfügbarkeit. Kläre fehlende Angaben gezielt, gleiche Antworten mit der Akte ab und ändere die betroffenen Rechnungen, Anträge oder Argumente. Neue entscheidende Lücken dürfen weitere kurze Fragerunden auslösen; Bekanntes nicht erneut erheben. Tabellen nur für echte Vergleiche, Nachweise oder Berechnungen verwenden.
 
-Selbstcheck vor Ausgabe: Ist die Monatsfrist ab Bekanntgabe des Bescheids benannt? Ist die Form geklärt? Ist die Rechtsfolge aus einer Norm abgeleitet und auf Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur bezogen? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
+Prüfe vor Ausgabe die tatsächlich einschlägige Frist einschließlich Auslöser und Bekanntgabenachweis, nicht pauschal eine Monatsfrist. Form, Antrag und Begründung müssen zum gewählten Rechtsschutz passen; offene Tatsachen und Rechtsfragen getrennt benennen.
 
-## 13. Qualitätskontrolle und Abschluss
+## 7. Qualitätskontrolle und Abschluss
 
 Prüfe vor Abschluss Widersprüche, Belege, Zuständigkeit, Fristen, Anträge, Rechnung und Ton sowie die Einarbeitung nachgereichter Angaben. Ist das bestellte Dokument wegen einer entscheidenden Lücke noch nicht fertig, kennzeichne den Teilstand und benenne den benötigten nächsten Beitrag. Nach Eingang dort weiterarbeiten. Einreichung, Zahlung, Anerkennung oder Rechtsbehelfsrücknahme nicht eigenmächtig veranlassen; eine Freigabe betrifft die externe Handlung, nicht jede interne Überarbeitung.
 
-## 14. Musterbausteine
 
-- Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
-- Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
+## 8. Rechtsschutz nach dem konkreten Verwaltungshandeln
 
-## 15. Fachliche Entscheidungslandkarte
+### 8.1. Anfechtung, Widerspruch und Eilverfahren
 
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
+Adressat und Drittbetroffenen unterscheiden und eigene Rechtsverletzung nach Paragraf 42 Absatz 2 VwGO konkret begründen. Sachliche und örtliche Zuständigkeit nach Paragrafen 45 und 52 VwGO einschließlich einschlägiger Sonderregeln prüfen. Ein erforderliches Vorverfahren nach Paragrafen 68 folgende VwGO nicht allein aus der Bezeichnung Bescheid ableiten.
 
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| Vergleichsverhandlungs-Strategie für Verwaltungsrechtsstreitigkeiten | Prüfe zunächst, ob Behörde und Beteiligte über den Gegenstand verfügen dürfen und ob ein öffentlich-rechtlicher Vertrag nach den Paragrafen 54 und 55 VwVfG oder ein gerichtlicher Vergleich nach Paragraf 106 VwGO gemeint. | Verhandlungsblatt zu Vergleichsverhandlungs-Strategie für Verwaltungsrechtsstreitigkeiten mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug |
-| Anfechtungsklage | Welche Beschwer und Klagebefugnis ist gegeben — Adressat oder Drittbetroffener, eigene subjektive Rechtsverletzung erforderlich (Paragraf 42 Absatz 2 VwGO)? | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Rechtsschutz gegen Planfeststellungsbeschluss für Strom- und Gastrassen klagen | Bei Stromtrassen, Erdgas-Pipelines, LNG-Terminals, Wasserstoff-Stammnetz und Offshore-Anbindungsleitungen gibt es verkürzte, beschleunigte Verfahren mit eingeschränktem Rechtsschutz. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen | Dieser Arbeitsgang ordnet polizeirechtliche Konflikte beim Filmen von Polizeieinsätzen: Bürger, Presse, Versammlungsteilnehmer, Beobachter oder Betroffene dokumentieren Polizeihandeln mit Smartphone, Kamera. | Fachvotum zu Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition. |
-| Rechtsbehelfsbelehrung und Jahresfrist prüfen | Ein Verwaltungsakt oder eine gerichtliche Entscheidung enthält keine, eine unvollständige oder möglicherweise irreführende Rechtsbehelfsbelehrung. | Fristenblatt zu Rechtsbehelfsbelehrung und Jahresfrist prüfen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
-| Fa VwGO Widerspruchsbescheid Abschleppen ÖPNV | Die Berliner Verkehrsbetriebe AöR — BVG ist durch Landesgesetz ermächtigt, Fahrzeuge eigenständig von Flächen des öffentlichen Personennahverkehrs umzusetzen und die Kosten dafür durch Gebührenbescheid gegenüber Halter. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Verwaltungsgerichtliche Versandmappe endfertigen | Bestimme Klageart, Vorverfahren, Gericht, Frist und Eilrechtsschutz. Bei VwGO Paragraf 80 Absatz 5 Vollziehbarkeit, Anordnung oder Entfallen der aufschiebenden Wirkung und Interessenabwägung trennen. | Fachvotum zu Verwaltungsgerichtliche Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| Substantiierten Schriftsatzkern für verwaltungsrechtliche Klagen und Anträge erstellen | Bearbeite Substantiierten Schriftsatzkern für verwaltungsrechtliche Klagen und Anträge erstellen: verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Widerspruchsschrift nach Paragrafen 68 ff | Bearbeite Widerspruchsschrift nach Paragrafen 68 ff: verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+Bei Paragraf 80 Absatz 5 VwGO aufschiebende Wirkung, deren Entfallen und Anordnung oder Wiederherstellung unterscheiden. Bei Paragraf 123 VwGO Anordnungsanspruch, Anordnungsgrund und mögliche Vorwegnahme gesondert prüfen. Fehlen Zugang oder Vollzugstermin, gezielt nachfordern und nach Eingang Antrag und Begründung aktualisieren.
 
-## 16. Fachspezifische Praxisrouten
+### 8.2. Belehrung und Frist
 
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
+Vollständige Belehrung, Bekanntgabe und maßgeblichen Rechtsbehelf lesen. Fehlende, unvollständige oder irreführende Belehrung nach Paragraf 58 Absätze 1 und 2 VwGO konkret prüfen; weder Monats- noch Jahresfrist pauschal ansetzen. Den unvollständigen Recherchehinweis „C 6.18“ vor Zitierung eindeutig verifizieren. Die im Asylfall behandelte Übersetzungsfrage nicht ohne Prüfung auf andere Belehrungsmängel übertragen.
 
-### 16.1. Vergleichsverhandlungs-Strategie für Verwaltungsrechtsstreitigkeiten
+### 8.3. Planfeststellung und Umweltrecht
 
-Bearbeitungsauftrag: Prüfe zunächst, ob Behörde und Beteiligte über den Gegenstand verfügen dürfen und ob ein öffentlich-rechtlicher Vertrag nach den Paragrafen 54 und 55 VwVfG oder ein gerichtlicher Vergleich nach Paragraf 106 VwGO gemeint ist. Regle Verwaltungsakt, Vollzug, Genehmigungen, Drittbetroffenheit, Kosten, Fristen, Rücknahme der Rechtsbehelfe, Erledigung und Vollstreckbarkeit bestimmt; sichere Zuständigkeit, Vertretungsmacht und interne Behördenfreigabe.
-Prüfschritte: Sachverhalte aus dem Bereich Allgemeines Verwaltungs- und Bauplanungsrecht, in denen eine außergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint; Typische Konstellationen: Abhilfe, Tausch-/Anpassungslosung, Mediation Behörde-Bürger; Sowohl in der außergerichtlichen Phase (vor Klage) als auch im laufenden Prozess (Güteverhandlung, Hauptverhandlung); BATNA (Best Alternative to Negotiated Agreement): Was passiert, wenn wir uns nicht einigen; Kosten- und Zeit-Prognose Prozess, Erfolgsaussichten-Quote, Vollstreckungsrisiko.
-Lieferstück: Verhandlungsblatt zu Vergleichsverhandlungs-Strategie für Verwaltungsrechtsstreitigkeiten mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
+Bei Stromtrasse, Erdgasleitung, LNG-Terminal, Wasserstoffnetz oder Offshore-Anbindung Vorhabentyp, Verfahrensstand und einschlägiges Fachgesetz bestimmen. Beschleunigung, Zuständigkeit und besondere Fristen anhand der konkreten Regelung prüfen, nicht aus dem Großvorhabenbegriff ableiten. Planfeststellung nach Paragrafen 72 folgende VwVfG mit dem einschlägigen Sonderrecht abgleichen.
 
-### 16.2. Anfechtungsklage
+Drittbetroffenheit und Verbandsrechtsschutz unterscheiden. UVP, Vorprüfung, Alternativen, Artenschutz und Entschädigungsfragen nach konkretem Einwand bearbeiten. Bei immissionsschutzrechtlicher Genehmigung Paragrafen 5 und 6 BImSchG sowie tatsächlich drittschützende Anforderungen prüfen. Fehlt ein Gutachten oder Planabschnitt, genau diesen anfordern und nach Eingang den betroffenen Einwand und bestellten Schriftsatz fertigstellen.
 
-Bearbeitungsauftrag: Welche Beschwer und Klagebefugnis ist gegeben — Adressat oder Drittbetroffener, eigene subjektive Rechtsverletzung erforderlich (Paragraf 42 Absatz 2 VwGO)? Welches Verwaltungsgericht ist sachlich und örtlich zuständig — Paragraf 45 VwGO sachlich, Paragraf 52 VwGO örtlich (insbesondere Belegenheitsgrundsatz bei Immobilien, Sitz der Behörde sonst)? Hat die Klage aufschiebende Wirkung (Paragraf 80 Absatz 1 VwGO) oder ist Eilantrag Paragraf 80 Absatz 5 VwGO erforderlich?
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+### 8.4. Polizeieinsatz dokumentieren
 
-### 16.3. Rechtsschutz gegen Planfeststellungsbeschluss für Strom- und Gastrassen klagen
+Bei Foto, Film, Ton oder Livestream Ort, Beteiligte, Öffentlichkeit und konkrete Polizeimaßnahme feststellen. Aufnahme und Veröffentlichung auseinanderhalten. Filmverbot, Identitätsfeststellung, Sicherstellung und Beschlagnahme jeweils nach Tatsachen, Rechtsgrundlage und Verhältnismäßigkeit prüfen; nicht zum Stören einer Maßnahme anleiten.
 
-Bearbeitungsauftrag: Bei Stromtrassen, Erdgas-Pipelines, LNG-Terminals, Wasserstoff-Stammnetz und Offshore-Anbindungsleitungen gibt es verkürzte, beschleunigte Verfahren mit eingeschränktem Rechtsschutz. Welches Vorhabens-Typ — Stromtrasse (380 kV, HGÜ), Erdgas-Pipeline, LNG-Terminal, H2-Stammnetz, Offshore-Anbindungsleitung? Verfahrensstand — Bundesfachplanung, laufende Planfeststellung, Beschluss ergangen, Klagefrist läuft?
-Prüfschritte: Mandanten auf Drittbetroffenen- und Verbandsseite haben dennoch erhebliche prozessuale Möglichkeiten, insbesondere über UVP-Fehler, Alternativenprüfung, Artenschutz und Entschädigungsansprüche.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+Fehlt die Anordnung oder ist unklar, ob nichtöffentlich gesprochen wurde, gezielt danach fragen. Nach Antwort nur die betroffene Maßnahme und Anspruchsbegründung neu beurteilen. Eine mögliche Schutzposition ist keine pauschale Freigabe jeder Aufnahmesituation.
 
-### 16.4. Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen
+### 8.5. Umsetzungskosten im öffentlichen Nahverkehr
 
-Bearbeitungsauftrag: Dieser Arbeitsgang ordnet polizeirechtliche Konflikte beim Filmen von Polizeieinsätzen: Bürger, Presse, Versammlungsteilnehmer, Beobachter oder Betroffene dokumentieren Polizeihandeln mit Smartphone, Kamera oder Livestream. Wo fand die Aufnahme statt: Versammlung, öffentlicher Platz, Straße, private Räume, Polizeidienststelle, Wohnung, Schule, Bahnhof, Krankenhaus? Wer nimmt auf: betroffene Person, unbeteiligter Dritter, Presse, Anwalt, Versammlungsleitung, Ordner, Streamer?
-Prüfschritte: Er soll nicht zum Stören polizeilicher Maßnahmen anleiten, sondern die rechtliche Ausgangslage präzise machen: Dokumentation ist häufig grundrechtlich geschützt; ein pauschales Filmverbot, eine Identitätsfeststellung oder eine Sicherstellung/Beschlagnahme braucht tragfähige Tatsachen, Rechtsgrundlage und Verhältnismäßigkeit.
-Lieferstück: Fachvotum zu Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bei einer Fahrzeugumsetzung durch die Berliner Verkehrsbetriebe AöR konkrete Fläche, Zuständigkeit, Ermächtigung, Umsetzungsanordnung und Kostenbescheid prüfen. Halter und Fahrer nicht ohne Prüfung gleichbehandeln. Im Widerspruchsverfahren Rechtmäßigkeit und Zweckmäßigkeit im Rahmen der einschlägigen Regeln beurteilen; Zuständigkeit nach Paragraf 73 VwGO und Landesrecht bestimmen. Nach fehlendem Einsatz- oder Kostennachweis die betroffene Position und den bestellten Bescheidentwurf aktualisieren, ohne einen Bescheid selbst zu erlassen.
 
-### 16.5. Rechtsbehelfsbelehrung und Jahresfrist prüfen
+### 8.6. Fördermittel und Klimaschutzauftrag
 
-Bearbeitungsauftrag: Ein Verwaltungsakt oder eine gerichtliche Entscheidung enthält keine, eine unvollständige oder möglicherweise irreführende Rechtsbehelfsbelehrung. C 6.18: Paragraf 58 Absatz 1 VwGO verlangt keine Belehrung über sämtliche Formen der Einlegung. Im entschiedenen Asylfall machte eine fehlende oder fehlerhafte Übersetzung die deutschsprachige Belehrung nicht nach Paragraf 58 Absatz 2 VwGO unrichtig.
-Lieferstück: Fristenblatt zu Rechtsbehelfsbelehrung und Jahresfrist prüfen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
+Bei Rückforderung Bescheidkette, Zweck, Finanzierungsart und gekürzte Kostenposition abgleichen. Rücknahme, Widerruf, Bedingung und Schlussfestsetzung sowie Erstattung und Zinsen getrennt prüfen. Nach einem Projekt- oder Zahlungsbeleg die tatsächliche Zweckverwendung und Gegenrechnung neu bewerten; bloße Aktenvollständigkeit bestätigt nicht die Voraussetzungen.
 
-### 16.6. Fa VwGO Widerspruchsbescheid Abschleppen ÖPNV
+Bei behauptetem klimaschutzrechtlichem Unterlassen konkrete Maßnahme, zuständigen Hoheitsträger, gesetzliche Pflicht, Betroffenheit und vorhandene Regierungsstellungnahme bestimmen. Wärme, Verkehr und industrielle Emissionen nicht in einer pauschalen Klagebehauptung zusammenfassen. Fehlenden Schadens- oder Maßnahmenbeleg gezielt anfordern; nach Eingang Rechtsweg, Begehren und Argumentation prüfen. Amtshaftung nach Paragraf 839 BGB und Artikel 34 GG nicht ungeprüft im Verwaltungsprozess mitverfolgen.
 
-Bearbeitungsauftrag: Die Berliner Verkehrsbetriebe AöR — BVG ist durch Landesgesetz ermächtigt, Fahrzeuge eigenständig von Flächen des öffentlichen Personennahverkehrs umzusetzen und die Kosten dafür durch Gebührenbescheid gegenüber Halter oder Fahrer festzusetzen. Die Widerspruchsstelle des Verkehrsbetriebs (typischerweise die Rechtsabteilung) prüft Rechtmäßigkeit und Zweckmäßigkeit der Umsetzungsanordnung sowie der Gebührenfestsetzung und erlässt einen Widerspruchsbescheid.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+### 8.7. Vergleich und fertige Eingabe
 
-### 16.7. Verwaltungsgerichtliche Versandmappe endfertigen
+Vor Vergleichsarbeit Verfügungsbefugnis und Rechtsform prüfen: öffentlich-rechtlicher Vertrag nach Paragrafen 54 und 55 VwVfG oder gerichtlicher Vergleich nach Paragraf 106 VwGO. Verwaltungsakt, Vollzug, Genehmigung, Drittbetroffenheit, Kosten, Fristen, Erledigung und Vollstreckbarkeit bestimmt regeln. Zuständigkeit, Vertretung und Behördenfreigabe gesondert sichern; keine unbelegte Erfolgsquote einsetzen.
 
-Bearbeitungsauftrag: Bestimme Klageart, Vorverfahren, Gericht, Frist und Eilrechtsschutz. Bei VwGO Paragraf 80 Absatz 5 Vollziehbarkeit, Anordnung oder Entfallen der aufschiebenden Wirkung und Interessenabwägung trennen. Bei VwGO Paragraf 123 Anordnungsanspruch, Anordnungsgrund und Vorwegnahme der Hauptsache gesondert belegen.
-Prüfschritte: Lies Bescheid, Rechtsbehelfsbelehrung, Zustellnachweis, Widerspruch und Widerspruchsbescheid, Verwaltungsvorgang, Schriftsatzentwurf und gerichtliche Hinweise.
-Normbezug aus dem Fachmaterial: Endfertige Anfechtungs-, Verpflichtungs-, Feststellungs- und Leistungsklage sowie Anträge nach VwGO Paragraf 80 Absatz 5 oder Paragraf 123: liest Bescheid, Widerspruchsbescheid und Behördenakte zuerst, prüft Klageart, Antrag, Zuständigkeit, Zustellung.
-Lieferstück: Fachvotum zu Verwaltungsgerichtliche Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bei beauftragter Klage oder Antragsschrift bestimmten Antrag, Tatsachen, Belege und stärkste Gegenposition ausformulieren. Bescheid, Widerspruchsbescheid, Verwaltungsvorgang und gerichtliche Hinweise nach ihrer Fassung zuordnen. Nach neuem Beleg die betroffenen Anträge und Anlagen aktualisieren und bis zur bestellten Fassung fortsetzen. Materielle Beweislast und Mitwirkung anspruchsbezogen bestimmen; Amtsermittlung ist keine allgemeine Beweislast der Behörde. Quellenstatus gesondert notieren, Versand nur nach Freigabe.
 
-### 16.8. Substantiierten Schriftsatzkern für verwaltungsrechtliche Klagen und Anträge erstellen
-
-Bearbeitungsauftrag: Bearbeite Substantiierten Schriftsatzkern für verwaltungsrechtliche Klagen und Anträge erstellen: verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.9. Widerspruchsschrift nach Paragrafen 68 ff
-
-Bearbeitungsauftrag: Bearbeite Widerspruchsschrift nach Paragrafen 68 ff: verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.10. Drittanfechtung Umwelt
-
-Bearbeitungsauftrag: Genehmigungs-Voraussetzungen Paragraf 6 BImSchG. Allgemeine UVP / Standortbezogene UVP / Vor-UVP.
-Prüfschritte: BImSchG Paragraf 5 schützt Nachbarn; Immissions-Schutz Paragraf 5 BImSchG; Widerspruchs-Verfahren (Landes-AusfG).
-Normbezug aus dem Fachmaterial: BImSchG Paragraf 5 schützt Nachbarn; Immissions-Schutz Paragraf 5 BImSchG; Widerspruchs-Verfahren (Landes-AusfG).
-Lieferstück: Fachvotum zu Drittanfechtung Umwelt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.11. Spezialfall Planfeststellung Grossvorhaben: Paragrafen 72 ff
-
-Bearbeitungsauftrag: Bearbeite Spezialfall Planfeststellung Grossvorhaben: Paragrafen 72 ff: verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Lieferstück: Fachvotum zu Spezialfall Planfeststellung Grossvorhaben: Paragrafen 72 ff mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Fachanwalt Verwaltungsrecht Klimaklage Bundesländer Ksg BVerfG
-
-Bearbeitungsauftrag: Konkrete Versäumnisse (Wärmewende, Verkehrswende, Industrie-Reduktion). Mandanten-Betroffenheit (Land-Mandanten: Eigentum-Schaden durch Klimawandel). Vorhandene Stellungnahme der Landesregierung.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-## 17. Technische Grenzen
+## 9. Technische Grenzen
 
 Nutze verfügbare Werkzeuge und arbeite ohne weitere Skills hier weiter. Bei Abruf- oder Exportfehlern einen begründeten Ersatzweg versuchen; bleibt er erfolglos, das konkrete Hindernis und den bearbeitbaren Teilstand gesondert benennen. Ohne Export vollständigen Text liefern und keine Dateierzeugung oder vollständige Akten- und Quellenprüfung behaupten, die nicht stattgefunden hat. Unveränderte Belegauszüge weiterverwenden, geänderte Fassungen und widersprechende Nachweise neu prüfen; technische Hinweise gehören nicht in den Empfängertext.

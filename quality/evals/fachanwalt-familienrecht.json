@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-familienrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__1378.html",
@@ -36,13 +36,24 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Zugewinnpassage blieb hinter der notwendigen Abstimmung von Auskunftsstichtag, tatsächlichen Beständen und Bewegungen zurück. Verbindlich formulierte lokale Referenzverweise beeinträchtigten die Eigenständigkeit des Downloads.",
+    "reason": "Vollständige Schlusslektüre: Unterhaltsmonate, Zugewinnstichtage und einzelne Versorgungsanrechte bleiben getrennt; gezielte Antworten führen zur korrigierten Rechnung und bestellten Außenfassung.",
     "changes": [
-      "Eigentumsanteile, tatsächliche Darlehensvaluta und stichtagsfremde Auszüge ausdrücklich getrennt.",
-      "Umbuchungen und Tilgungen gegen doppelte Verlustzählung abgesichert.",
-      "Erfüllende Trennungsauskunft und den verifizierten Beschluss XII ZB 558/23 ergänzt; Referenzzugriff optional formuliert."
+      "Sonderzahlungs- und Stichtagsbelege mit Neuberechnung und Brief oder Antrag verbunden.",
+      "Neue entscheidende Lücken erlauben Anschlussfragen ohne erneute Aufnahme.",
+      "Rechenanlagen ersetzen den bestellten Mandantenbrief nicht."
     ],
-    "sha256": "fcdd8a4a207ebeb7bc59228de38eb2ffc5603ef52af1e5ccf3686b1c3b2f2e92"
+    "sha256": "dfedcb1b9e6a8decea6ae93c0a8ea620c89194fe79ef2d0584f2b5eaa1cf77f1"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "retained",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [],
+    "prompt_path": "fachanwalt-familienrecht/fachanwalt-familienrecht-hauptproblem.md",
+    "prompt_sha256": "1276ce7e63e7ecbf32e3288dc80082bd58d37102f632c816991db372fb6202bf",
+    "skill_path": "fachanwalt-familienrecht/skills/zugewinn-vermoegensbelege-stichtage-abgleichen/SKILL.md",
+    "skill_sha256": "4bce2d3ec02d5210e0a9f958b3d81d2c4a8e183f0c5389e0160279b41998372b"
   },
   "selection": {
     "positive": [
@@ -120,14 +131,52 @@
       "id": "zugewinn-fortsetzung-nach-bankauskunft",
       "request": "Setzen Sie die bereits begonnene Bearbeitung fort. Ich vertrete Frau Keller gegen ihren geschiedenen Ehemann. Deutscher gesetzlicher Güterstand, Zustellung des Scheidungsantrags am 02.06.2026, Rechtskraft am 15.08.2026. Diese Daten und die Eigentumsverhältnisse sind geprüft und bleiben unverändert. Anfangsvermögen und privilegierte Erwerbe sind bei beiden null. Das schuldenfreie Endvermögen meiner Mandantin beträgt 50000 EUR; beim Ehemann waren 170000 EUR nachgewiesen. Sie hatten gezielt die Bestätigung zu einem weiteren, ihm allein gehörenden Depot angefordert. Hier ist die Antwort: Die Bank bestätigt zusätzlich 30000 EUR zum 02.06.2026. Der Wert ist in den 170000 EUR noch nicht enthalten. Es gibt keine Schulden, streitigen Hinzurechnungen, sonstigen Vermögenswerte oder Zahlungen auf den Ausgleich. Bitte stellen Sie jetzt die Berechnung fertig und schreiben Sie einen verständlichen Brief an Frau Keller mit dem Ergebnis und einer konkreten Empfehlung zum weiteren außergerichtlichen Vorgehen. Noch kein Schreiben an den Gegner und keine Klage. Geben Sie den Brief in mandantenbrief.md und nur erforderliche interne Hinweise in bearbeitungsvermerk.md aus. Die Quelle einer bereits geprüften Rechtsaussage braucht nicht als technischer Abrufvermerk im Mandantenbrief zu stehen.",
       "input_files": [],
-      "deliverables": ["mandantenbrief.md", "bearbeitungsvermerk.md"],
+      "deliverables": [
+        "mandantenbrief.md",
+        "bearbeitungsvermerk.md"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Die neue Bankauskunft wird eingearbeitet: Endvermögen des Ehemanns 200000 EUR, Differenz 150000 EUR, Ausgleich zugunsten der Mandantin 75000 EUR. Es erfolgt keine erneute Aufnahme bereits beantworteter Stichtags- oder Eigentumsfragen.", "deliverables": ["mandantenbrief.md"]},
-        {"id": "C02", "text": "Der Brief ist mit Anrede, verständlicher Erläuterung der Rechnung und konkreter Empfehlung vollständig ausformuliert. Er bleibt nicht bei einer Tabelle oder bei der Ankündigung, einen Brief schreiben zu können.", "deliverables": ["mandantenbrief.md"]},
-        {"id": "C03", "text": "Der Mandantenbrief enthält keine technische Arbeitsanweisung, keine vorgegebene Prüffeldsprache wie Stichtagskarte oder Kernbeleg und keine Erklärung über fehlende Exportwerkzeuge. Rechtlich erforderliche Vorbehalte dürfen in verständlicher Sprache enthalten sein.", "deliverables": ["mandantenbrief.md"]},
-        {"id": "C04", "text": "Es wird weder eine Klage noch ein bereits versandtes Gegnerschreiben behauptet. Die berechnete Empfehlung ist von einer noch freizugebenden Außenhandlung getrennt.", "deliverables": ["mandantenbrief.md", "bearbeitungsvermerk.md"]}
+        {
+          "id": "C01",
+          "text": "Die neue Bankauskunft wird eingearbeitet: Endvermögen des Ehemanns 200000 EUR, Differenz 150000 EUR, Ausgleich zugunsten der Mandantin 75000 EUR. Es erfolgt keine erneute Aufnahme bereits beantworteter Stichtags- oder Eigentumsfragen.",
+          "deliverables": [
+            "mandantenbrief.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Brief ist mit Anrede, verständlicher Erläuterung der Rechnung und konkreter Empfehlung vollständig ausformuliert. Er bleibt nicht bei einer Tabelle oder bei der Ankündigung, einen Brief schreiben zu können.",
+          "deliverables": [
+            "mandantenbrief.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Mandantenbrief enthält keine technische Arbeitsanweisung, keine vorgegebene Prüffeldsprache wie Stichtagskarte oder Kernbeleg und keine Erklärung über fehlende Exportwerkzeuge. Rechtlich erforderliche Vorbehalte dürfen in verständlicher Sprache enthalten sein.",
+          "deliverables": [
+            "mandantenbrief.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Es wird weder eine Klage noch ein bereits versandtes Gegnerschreiben behauptet. Die berechnete Empfehlung ist von einer noch freizugebenden Außenhandlung getrennt.",
+          "deliverables": [
+            "mandantenbrief.md",
+            "bearbeitungsvermerk.md"
+          ]
+        }
       ],
       "target_skill": "zugewinn-vermoegensbelege-stichtage-abgleichen"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt einschließlich vollständigem Arbeitsanhang und sämtlichen Ergebnisalternativen gelesen. Die Abschnitte sind auftragsbezogen und enthalten konkrete Versions-, Zahlungs- und Auskunftsabgleiche statt eines verpflichtenden Gesamtkatalogs.",
+    "changes": [
+      "Nach neuer Gehalts- oder Trägerauskunft betroffene Monate beziehungsweise Anrechte prüfen und Stellungnahme fortschreiben lassen.",
+      "Schenkung und Darlehen nicht allein aus einer Überweisung ableiten; Stichtagsbilanz nach Nachweis korrigieren.",
+      "Bestellten Text von internen Varianten und Versandfreigabe getrennt; vorhandenes focus_review unverändert erhalten."
+    ],
+    "sha256": "20d97bf06944c18a7465464884b8b30ec48c524b141dbb2eeb527cead1e0c82f"
+  }
 }

@@ -1,3 +1,25 @@
+# v444.6.0 - Fachliche Arbeitsabläufe bis zur fertigen Fassung
+
+## 1. Rückfragen führen zum bestellten Dokument
+
+Werkstatt- und Schnellstart-Prompts sowie die fachlichen Schwerpunktaufträge unterscheiden vorhandene Angaben, entscheidungserhebliche Lücken und den gewünschten Empfängertext. Nachgereichte Belege werden in die betroffenen Rechnungen, Begründungen und Entwürfe eingearbeitet. Ein beauftragtes Schreiben endet nicht bei einer Analyse oder dem Angebot, es später zu verfassen. Ein reiner Gutachtenauftrag führt umgekehrt nicht ungefragt zu einer Klage. Fachliche Varianten ersetzen allgemeine Pflichtmatrizen und interne Ausgabebegriffe.
+
+## 2. Dokumentbearbeitung und Quellen präzisieren
+
+Ausfüllung, rechtliche Neugestaltung, Änderungsverfolgung und Versandfreigabe bleiben getrennt. Kurze Änderungsvereinbarungen benötigen keine künstliche Vertragsvollstruktur; technische Exporthinweise gehören nicht in den Empfängertext. Weltraumrechtliche Vertragsrollen, Artemis-Abschnitte und Rückgabevorschriften sind genauer abgegrenzt. Im Steuerrecht sind Bekanntgabe, gerichtlicher Rechtsschutz, Beteiligungsschwellen und Verwaltungsquellen präzisiert. Amtliche BFH-Nachweise grenzen nationale Steuerpflicht und DBA sowie erstmaligen Steuerausweis und Rechnungsberichtigung ab.
+
+Der Factoring-Risikovergleich trennt Forderungskauf, Forderungseinzug und wirtschaftliche Zurechnung. Die unzutreffende pauschale Umsatzsteuerbefreiung für echtes Factoring und die automatische bilanzielle Ausbuchung sind korrigiert; amtliche Quellen belegen die Abgrenzung.
+
+## 3. Individuelle Texte vor Generatorverlust schützen
+
+Generatoren dürfen individuell geprüfte Texte nicht mit allgemeinen Abschnitten überschreiben, zur Erfüllung einer Mindestlänge auffüllen oder am Ende abschneiden. Eine überschrittene Schnellstartgrenze führt zur Fehlermeldung statt zum Verlust des Dokumentabschlusses. Die Werkstattprüfung bewertet Struktur und Obergrenze statt einer künstlichen Mindestwortmenge. Zusätzliche Regressionen sichern direkte Generatoraufrufe, wiederholte Verarbeitung, Bytegrenzen und individuelle Prüfsummen.
+
+Der Hauptverzeichnis-Generator führt die Versionsangabe des Testakten-Verzeichnisses mit. Fehlende oder doppelte Versionszeilen werden gemeldet; ein Versionswechsel lässt nicht mehr unbemerkt den alten Stand im Aktenindex zurück. Versions- und Profilfehler werden im Releaseablauf bereits vor dem zeitaufwendigen PDF-Build geprüft. Der Rechtsprechungsprüfer unterscheidet den Entscheidungsnamen ARAG vom Wortbestandteil in Paragraf.
+
+## 4. Prüfung und Aussagegrenzen
+
+Vorbereitete Fortsetzungsfälle behandeln unter anderem nachgereichte Vermögensbelege, ungeklärte Nachlasszahlungen, eine korrigierte Inventur und eine bereits geklärte Vertragsänderung. Sie sind keine tatsächlich ausgeführten mehrstufigen Modellgespräche. Individuelle Prüfprofile dokumentieren die jeweilige Fassung; eine Prüfsumme ist keine juristische Zertifizierung. Installierbare Schwerpunkt-Skills bleiben von den separaten Markdown-Downloads getrennt. Die eigentlichen Testakten bleiben unverändert.
+
 # v444.5.3 - Arbeitszeugnisprüfung ohne Statuskopf
 
 Werkstatt, Schnellstart und Plugin beginnen unmittelbar mit dem beauftragten Prüfbericht, Entwurf oder einer notwendigen gebündelten Rückfrage samt gesichertem Teil. Datei-, Rollen-, Quellen- und Bearbeitungsdaten werden intern eingeordnet, nicht als technischer Statuskopf vorangestellt. Auch der generierte README-Einstieg und der Megaprompt folgen dieser Vorgabe. Der vollständige Workflow mit Rückfragen, bedingten Fassungen und Fortsetzung bleibt erhalten; gezielte Regressionstests sichern den direkten Einstieg ab.

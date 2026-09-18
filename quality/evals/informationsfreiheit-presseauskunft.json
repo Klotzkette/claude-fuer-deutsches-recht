@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "informationsfreiheit-presseauskunft",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/ifg/__7.html",
@@ -10,14 +10,16 @@
     }
   ],
   "mini_review": {
+    "verdict": "retained",
+    "reason": "Aktuellen Mini vollständig gelesen. Vorgang und Zeitraum werden gezielt präzisiert; ergänzte Schutzgründe ändern die betroffene Schwärzungsbewertung. Teilzugang, Pressefrage und regimespezifische Bearbeitungsregel bleiben getrennt. Keine weitere Abbruchstelle gefunden; Quellenstand nicht erneut verifiziert, kein Live-Modelltest.",
+    "changes": [],
+    "sha256": "6d3ee5937cdea6c95926bde2e569a5a9413b598989f9d34e9a2e19ef93c6c5b6"
+  },
+  "workshop_review": {
     "verdict": "revised",
-    "reason": "Die gute Regimeauswahl wurde durch eine pauschale Monatsfrist und falsche Zuordnung der Gebühren zu Paragrafen 7 bis 9 geschwächt.",
-    "changes": [
-      "Monatsregel differenziert und Gebühren separat verortet.",
-      "Passagenbezogenen Teilzugang statt Totalablehnung konkretisiert.",
-      "Pressefrage und Dokumentenzugang unterschieden."
-    ],
-    "sha256": "f2e56ac967c64b3cfb86e485b56d315c87b62a8788f011cb55e73bebd3f3fd9f"
+    "reason": "Werkstatt vollständig gelesen. Alte Monatsfrist, Gebührenzuordnung und obligatorische Verfahrensprodukte widersprachen dem differenzierten Mini und dem Auftragsvorrang. Diese Stellen angeglichen, ohne die vorhandenen Schutzgründe und Fachrouten neu zu konzipieren. Keine erneute Quellenverifikation und kein Live-Modelltest.",
+    "changes": ["Unbestimmtes Begehren führt zur Präzisierung statt zum pauschalen Stopp.", "Regimespezifische Bearbeitungsregel und gesonderte Gebührenprüfung übernommen.", "Passagenbezogene Schutzprüfung positiv formuliert; interne Übersicht und Gesamtakte nicht mehr als obligatorisches Endprodukt behandelt.", "Nutzerdateiname und Fertigstellung nach Ergänzung ausdrücklich berücksichtigt."],
+    "sha256": "213f23786e4f355053f664a61628f3762fb0e9c9c5d5018210f4bcb887de11f9"
   },
   "selection": {
     "positive": [

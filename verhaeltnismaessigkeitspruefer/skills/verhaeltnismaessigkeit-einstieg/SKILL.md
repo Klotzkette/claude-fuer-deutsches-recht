@@ -14,7 +14,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Frage nur entscheidende Lücken in Maßnahme, Zweck, Belastung oder Wirkungsnachweis nach. Fehlt Material, fordere die konkrete Begründung oder Datengrundlage an; offene Annahmen nicht als Tatsachen einer abschließenden Abwägung ausgeben.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
@@ -83,5 +83,8 @@ Die deutsche Lösung bleibt stets an Grundgesetz und BVerfG-Rechtsprechung gebun
 
 ## Methodischer Hinweis
 
-Der Prüfer ersetzt nicht das eigene Urteil. Er reicht ein Geruest und
-benennt die Stellen, an denen Wertung erforderlich ist.
+Die genannten Fachskills sind optionale Vertiefungen. Liefere die bestellte Abwägung, Maßnahmenfassung oder Lehranalyse vollständig begründet; ein Schema allein genügt nur, wenn gerade ein Schema verlangt wurde. Keine Verfassungsbeschwerde aus einer bloßen materiellen Prüfungsfrage ableiten.
+
+Fehlt der Nachweis einer zusätzlichen Schutzwirkung, frage nach den konkreten Daten oder Prognoseannahmen. Nach Antwort Eignung, mildere Mittel und Angemessenheit neu vergleichen und die betroffenen Argumente ändern. Zeigt sich eine weitere entscheidende Lücke, gezielt nachfragen, ohne bereits Geklärtes zu wiederholen.
+
+Unabhängig begründbare Teile vorläufig liefern und nach Klärung bis zum bestellten Ergebnis fortsetzen. Keine Maßnahme selbst erlassen oder aufheben. Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden; Nutzerdateinamen vor ergebnis.md als bloßem Standard. Interne Quellen- und Prüfnotizen getrennt vom Empfängertext halten.

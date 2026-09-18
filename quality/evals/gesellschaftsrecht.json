@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "gesellschaftsrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__47.html",
@@ -11,13 +11,12 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Beschlussroute aus Werkstatt und Skill war erkennbar, aber die Stimmenzählung blieb abstrakt und wurde durch einen überlangen Normenkatalog verdrängt.",
+    "reason": "Vollständig gelesen: Stimmenrechnung, Listenlage und Kapitalmaßnahme führen nach konkretem Nachweis zum bestellten Beschluss oder Vertrag; ein Teilnehmerverzeichnis wird nicht mit Vollmachtsnachweis gleichgesetzt.",
     "changes": [
-      "Eigene Entlastung und Stimmverbot konkretisiert.",
-      "Kapital, abgegebene Stimmen und Enthaltungen getrennt.",
-      "Unübersichtlichen Spezialnormenblock gekürzt."
+      "Nach Vollmacht oder Stimmangabe Ergebnis neu berechnen und Protokollkorrektur ausformulieren lassen.",
+      "Aufgeldvereinbarung und Sacheinlagenachweis mit abgestimmten Beträgen, Beschluss und Anmeldung verbunden."
     ],
-    "sha256": "1c4cedab70bc19b366ac09471c6abb227badf8849571cc49541884763cf2eb8a"
+    "sha256": "be4ca4e88cb83d2ed5b29d73b2766e0e110c1f88afdd40d75b941f39c02401b2"
   },
   "selection": {
     "positive": [
@@ -62,5 +61,15 @@
       ],
       "target_skill": "gesellschafterbeschluss"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig einschließlich Normeinstiegen gelesen. Beschlussmängel, Organhaftung, Kapital und Registervollzug bleiben getrennte Aufträge; fehlende Urkunde begrenzt die abhängige Aussage statt alle Entwurfsarbeit.",
+    "changes": [
+      "Entscheidungs- und Schadensbelege mit Haftungsbewertung sowie Rechnung verknüpft.",
+      "Parteientscheidungen zu Kaufpreis und Vollzug in zusammenhängende Vertragsfassung überführen lassen.",
+      "Einreichung von Eintragung und interne Varianten von Endvertrag getrennt; keine neue Prüfung der alten Normliste behauptet."
+    ],
+    "sha256": "53dc949fb3cf5add49f52caa9b9aeda14bf07442dbc1d9effe4b0dc6cbaa0a36"
+  }
 }

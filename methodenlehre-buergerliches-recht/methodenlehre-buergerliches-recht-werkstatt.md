@@ -18,7 +18,7 @@ Fehlt der auszulegende Text oder eine ausdrücklich einbezogene Anlage, fordere 
 
 | Bedarf | Sofortausgabe | Qualitätsgriff |
 | --- | --- | --- |
-| Methodischer Engpass: Aufgabenfrage, Bewertungsmaßstab oder belastbare Datengrundlage | Prüfblatt mit Frage, Maßstab, Quellenlücke und nächstem Teilprodukt | Abgabefrist oder Bearbeitungszeit ist fast erschöpft; erst Gerüst, dann Feinschliff; vor Fortsetzung klären |
+| Knappe Bearbeitungszeit | Zunächst die entscheidenden Argumente ausformulieren | Fehlende Anlagen gezielt erfragen; belegte Prüfungsteile währenddessen fortsetzen |
 | Tragendes Arbeitsprodukt | Gutachtensatz: Obersatz, Definition, Subsumtion mit Sachverhaltszitat, Zwischenergebnis | jeder tragende Befund erhält Quelle, Maßstab oder Rechenweg |
 | Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Was ist die exakte Fallfrage und welche Rechtsfolge wird begehrt |
 | Evidenzarbeit | Quellen-, Argument- oder Rechenmatrix | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe |
@@ -48,7 +48,7 @@ Fehlt der auszulegende Text oder eine ausdrücklich einbezogene Anlage, fordere 
 - Bei knapper Bearbeitungszeit zuerst die entscheidenden Prüfungsteile ausformulieren; eine interne Gliederung ersetzt nicht die bestellte Lösung.
 - Der Bearbeitervermerk schließt Teile aus; nichts Ausgeschlossenes prüfen.
 - Eine Quelle ist nicht verifizierbar; ohne Beleg keine Fußnote.
-- Wenn Aufgabenstellung, Bewertungsmaßstab, Quellenstand oder Abgabeformat offen sind, wird zuerst eine begrenzte Arbeitsannahme mit Klärungspunkt formuliert.
+- Ist die konkrete Fallfrage oder der auszulegende Text unklar, frage gezielt danach. Eine Arbeitsannahme darf weder den Auftrag ersetzen noch zusätzliche Tatsachen in einen abgeschlossenen Übungssachverhalt einführen.
 - Vertretbare Gegenansichten und unsichere Quellen werden ausgewiesen; ein vorläufiger Befund wird nicht als gesichertes Endergebnis ausgegeben.
 
 ## 3. Werkstattfluss
@@ -139,7 +139,7 @@ Arbeitsgriff Arbeitsprodukt: Gutachten, Hausarbeit mit Fußnoten oder Lernübers
 10.5. Evidenz: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe. Trenne Befund, Annahme und Schlussfolgerung.
 10.6. Gegenhypothese: Prüfe die stärkste alternative Erklärung oder Bewertung; sie setzt typischerweise bei welche Anspruchsgrundlagen kommen in welcher Reihenfolge in Betracht an.
 10.7. Belastbarkeit: Antworte mit Gegenbeleg, Kontrollrechnung, methodischem Unterschied oder begrenzter Aussage; ein bloßes Etikett genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Gutachtensatz: Obersatz, Definition, Subsumtion mit Sachverhaltszitat, Zwischenergebnis; Meinungsstreit: Ansicht eins mit Argument, Ansicht zwei mit Argument, Stellungnahme mit tragendem Grund und einem ausdrücklich benannten nächsten Prüf- oder Redaktionsschritt.
+10.8. Ergebnis: Führe die tragenden Gutachtensätze und gegebenenfalls den entscheidungserheblichen Meinungsstreit zum verlangten Gesamtergebnis zusammen. Eine Liste weiterer Redaktionsschritte oder ein einzelnes Zwischenergebnis ersetzt die bestellte Lösung nicht.
 10.9. Quellenstatus: Trenne Primärquelle, Sekundärquelle, Aktenfund, Datengrundlage und offene Recherche; erste Anker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -156,7 +156,7 @@ Arbeitsgriff Arbeitsprodukt: Gutachten, Hausarbeit mit Fußnoten oder Lernübers
 
 Bei nachgereichtem Verhandlungsmaterial prüfe, welche Parteivorstellung tatsächlich erkennbar war und welche nur behauptet wird. Bei neuem Gesetzgebungsmaterial prüfe, welchen Beitrag es zur konkreten Lesart leistet. Passe die betroffene Argumentation an, ohne alle zuvor beantworteten Fragen neu aufzurollen.
 
-Zeigt das Material eine weitere entscheidende Lücke, frage dazu gezielt nach. Bis dahin tragfähige Teile vorläufig ausformulieren und Unsicherheit von einer bloß noch nicht beschafften Quelle unterscheiden. Vergleichstabellen sind nur nötig, wenn sie konkurrierende Argumente verständlicher machen.
+Zeigt nachgereichtes Material eine weitere entscheidende Quellen- oder Textlücke, frage dazu gezielt nach. Im abgeschlossenen Übungssachverhalt bleibt dagegen die vorgegebene Tatsachengrundlage verbindlich. Bis zur Ergänzung tragfähige Teile vorläufig ausformulieren; Vergleichstabellen nur ausgeben, wenn sie konkurrierende Argumente verständlicher machen.
 
 Selbstcheck vor Ausgabe: Sind Aufgabenstellung, Bewertungsmaßstab, Quellenstand und Abgabetermin benannt? Ist jeder tragende Befund belegt oder als Annahme markiert? Wurde die stärkste Gegenhypothese geprüft? Entspricht das Produkt dem Bewertungs- und Ausgabeformat?
 
@@ -204,7 +204,7 @@ Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründu
 
 ### 16.3. Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive)
 
-Bearbeitungsauftrag: Du argumentierst mit einer Generalklausel (Paragraf 138 BGB, Paragraf 242 BGB, Paragraf 826 BGB, „wichtiger Grund", „Treu und Glauben") und musst ihre Auffangstellung begründen. Du strukturierst ein Memo, einen internen Vermerk oder einen Schriftsatz. Du musst eine Lücke schließen (Analogie, teleologische Reduktion, Erst-Recht-Schluss, Umkehrschluss).
+Bearbeitungsauftrag: Prüfe bei einer Argumentation mit Generalklauseln wie Paragrafen 138, 242 oder 826 BGB zunächst das Verhältnis zu spezielleren Regeln. Begründe im bestellten Vermerk oder Schriftsatz, ob überhaupt eine Lücke besteht und welche Methode für das konkrete Problem tragfähig ist. Eine Analogie, teleologische Reduktion oder ein Schluss aus einer anderen Regelung ist nicht allein deshalb zulässig, weil das gewünschte Ergebnis sonst ausbleibt.
 Lieferstück: Teilbefund zu Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive) mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
 ### 16.4. Begründung, Anhörung und Adressatenfähigkeit

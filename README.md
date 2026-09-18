@@ -18,7 +18,7 @@ Für besonders arbeitsintensive Mandate gibt es [fachliche Schwerpunktaufträge]
 
 Das [Qualitätslabor für alle Plugins](./QUALITY.md) trennt Dateiprüfung, tatsächliche Skill-Auswahl und Bewertung erzeugter Arbeitsergebnisse. Fachlich geprüfte Mini-Prompts und vorbereitete Prüffälle sind keine bereits bestandenen Modelltests. [Durchführung, zwei unabhängige Prüfer und Fehlerdiagnose](./quality/README.md) erklären, wie konkrete Client-Läufe bewertet werden; ungeprüfte Quellen und fehlende Zugänge bleiben sichtbar. Diese Entwicklungsprüfungen laufen nicht zusätzlich bei jedem Mandatsaufruf.
 
-English: [Focused workflows](./SCHWERPUNKTE.md) offer a specific skill and a standalone Markdown prompt for substantial specialist assignments. The [quality laboratory](./quality/README.md#17-english-summary) distinguishes prepared cases, structural checks and actual model evaluations; it does not claim that unexecuted client tests have passed.
+English: [Focused workflows](./SCHWERPUNKTE.md) offer a specific skill and a standalone Markdown prompt for substantial specialist assignments. The [quality laboratory](./quality/README.md#18-english-summary) distinguishes prepared cases, structural checks and actual model evaluations; it does not claim that unexecuted client tests have passed.
 
 ## Schnell arbeiten, auch in einer anderen Oberfläche
 
@@ -112,7 +112,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Skills (SKILL.md)** | 22433: [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 337 zentral / 340 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v444.5.3` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v444.6.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads

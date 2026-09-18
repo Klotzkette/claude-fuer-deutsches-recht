@@ -63,7 +63,7 @@ Die folgenden Anker stammen aus dem Fachmaterial. Ihre Auflistung bestätigt wed
 - BtOG: Registrierung, Eignung, Qualität und Aufgaben der Betreuungsbehörde und Betreuungsvereine.
 - Paragraf 1821 Abs. 1 BGB — Wunschbindung auch in Vermögensfragen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 1823 BGB — Vertretungsmacht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1835 BGB — Aufwendungsersatz; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 1835 BGB: Vermögensverzeichnis bei Vermögensverwaltung; die frühere Zuordnung zum Aufwendungsersatz nicht als geltendes Recht übernehmen.
 - Paragraf 1838 BGB — Vermögenssorge; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 1848 BGB — Rechnungslegung/Vermögensübersicht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 1863 BGB — Berichtspflichten gegenüber dem Betreuungsgericht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.

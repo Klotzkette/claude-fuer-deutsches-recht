@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "memorandums-ersteller",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__271.html",
@@ -10,13 +10,21 @@
     }
   ],
   "mini_review": {
+    "verdict": "retained",
+    "reason": "Mini vollständig schlussgelesen und unverändert beibehalten: Der Vier-Teile-Aufbau, quellenbezogene Tatsachentrennung und gezielte Nachforderung einer Vertragsanlage führen nach deren Eingang zur erneuten Prüfung der Kurzantwort und zur vollständigen Memo-Endfassung. Keine Pflicht zur ungefragten Klage oder Vertragsfassung; Dateiwunsch und getrennte technische Arbeitsnotiz sind berücksichtigt.",
+    "changes": [],
+    "sha256": "265e78a078818859125216ad0bae9ba8805279f084dff43cab3c6cb5905c2acc"
+  },
+  "workshop_review": {
     "verdict": "revised",
-    "reason": "Der ganze Mini nannte den Vier-Teile-Aufbau im Kernauftrag, lieferte aber beliebige Produkte und eine Subsumtionszeile. Auch der gelesene Aufbauskill hält den speziellen Aufbau nicht durch.",
+    "reason": "Werkstatt vollständig schlussgelesen: Die späteren Tabellen verlangten entgegen dem Memoauftrag Subsumtionszeilen, einen Rechtsmittelschriftsatz oder eine Verhandlungsfassung. Doppelte allgemeine Anhänge und fachliche Varianten sind zu einem konsistenten Ablauf bis zum Vier-Teile-Memo zusammengeführt.",
     "changes": [
-      "Vier Teile mit korrespondierenden Ein-Satz-Fragen und Antworten verbindlich gemacht.",
-      "Dokumentreferenzen und Auswirkungen offener Tatsachen in die Sacharbeit aufgenommen."
+      "Pflichtmatrizen und beliebige Teilprodukte durch Sachverhalt, Fragen, zugeordnete Kurzantworten und begründete rechtliche Ausführungen ersetzt; interne Kontrollen bleiben Hilfsmittel.",
+      "Nachreichung, Widerspruchsaufklärung und Aktualisierung betroffener Antworten mit anschließender Gesamtfassung verbunden; fehlende Längenvorgabe erzeugt keinen Gesamtstopp.",
+      "Rechtsmittel-, Haftungs-, Rechtsprechungs-, Transaktions-, Compliance- und Auslandsvarianten fachlich eingeordnet, ohne ungefragten Schriftsatz oder Vertragsentwurf.",
+      "Allgemeine Normenkette und pauschale Beweislastzuweisung nicht mehr als universellen Prüfmaßstab vorgegeben; Quellenprüfung, Vertraulichkeit und technische Grenzen bewahrt."
     ],
-    "sha256": "0df17590cc1466d87b5d1b9a97aed0fcbeeb78e31da1536b789d5c5c88fd3492"
+    "sha256": "d1447809bfe5b6372b8fcf8c3b6282d547816c43b963d30a121ba8abb58ccd41"
   },
   "selection": {
     "positive": [

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "wahlkampfrecht-praxis",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/partg/__25.html",
@@ -26,14 +26,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini und Werkstatt waren eine Verfassungsbeschwerdeschablone; der Großspendenskill bietet dagegen passende Kampagnenrollen und Finanzprüfung.",
+    "reason": "Der Mini trennt Kampagnenrollen und Spendenschwellen sachgerecht; Nachforderung und anschließende Fertigstellung sowie operative Freigabe mussten deutlicher getrennt werden.",
     "changes": [
-      "Konkrete Aktion und Rollen statt Beschwerdegegenstand",
-      "Aktuelle Einzelspenden- und Jahresschwellen getrennt",
-      "Freigabeweg für Finanzierung, Plakate und Online-Werbung"
+      "Fehlende Herkunftsnachweise und Standortgenehmigungen gezielt nachfordern",
+      "Nach Antwort Annahmeprüfung oder Standortbewertung und bestellten Text aktualisieren",
+      "Rechtliche Empfehlung von tatsächlicher operativer Freigabe getrennt"
     ],
-    "sha256": "0237d554866893c1d41c1e3efecf7b0743c3f1afc9abd2e4d71e6df8d93fdd6d"
+    "sha256": "fc987e60e6e3dbaaa3a5627b90a9c52f17123721707c95232be60145017202d6"
   },
+  "workshop_review": {"verdict":"revised","reason":"Ganztextprüfung zeigte doppelte allgemeine Routen trotz konkreter Spenden- und Neutralitätsabschnitte.","changes":["Finanzierung, Plakatierung, digitale Werbung, Amtsressourcen und Wahltag als getrennte Abläufe aufgebaut","Agenturverträge, Teamstatus und Beweisarchivierung ihren tatsächlichen Aufgaben zugeordnet","Unabhängige Aktionen weiterprüfen und nach Nachweisen Meldung oder Behördenantwort fertigstellen"],"sha256":"1838c6522c3621adead86c0cffcd174c62d7daac92c86cc13f68f4003ff2fd89"},
   "selection": {
     "positive": [
       "Prüfe unseren Spendeneingang auf unverzügliche Meldung und Jahresausweis.",

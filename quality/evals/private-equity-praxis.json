@@ -1,17 +1,15 @@
 {
   "schema_version": 1,
   "plugin": "private-equity-praxis",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Das bisherige allgemeine M&A-Raster enthielt keinen belastbaren Zahlenabgleich und sachfremde GbR-Rechtsprechung; der Spezialskill verlangt Konsistenz zwischen Zahlenmodell und SPA.",
+    "reason": "Vollständig gelesen: Locked Box und Closing Accounts werden nicht vermischt; Kapitalquote und Erlösrang bleiben getrennt.",
     "changes": [
-      "Locked Box und Vollzugsabrechnung getrennt.",
-      "Abflussausnahmen, Deckelung und Doppelzählung konkretisiert.",
-      "Finanzierung und Managementerlös als eigene Zahlungsmechanismen ergänzt."
+      "Buchungen, erlaubte Abflüsse und Finanzierungsantworten werden nachgerechnet und in Klausel oder Zahlungsanforderung eingearbeitet; keine automatische Vollzugsfreigabe."
     ],
-    "sha256": "e4d307e7813c469cd12bf741268b342e3cb431edbee375724f65989b91ac58c2"
+    "sha256": "a6784a6141b6afef650aeb8d3dce46641a6b6174f1998172b68fb425985a2e58"
   },
   "selection": {
     "positive": [
@@ -56,5 +54,13 @@
       ],
       "target_skill": "locked-box-completion-accounts"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die gesamte Werkstatt einschließlich Fondsregulierung, Finanzierung und Entscheidungsankern wurde gelesen. Außen-GbR II ZR 331/00 und ARAG/Garmenbeck II ZR 175/95 sind korrekt getrennte Rechercheansätze.",
+    "changes": [
+      "Kapitalabruf, Waterfall, Kaufpreis und Vollzug besitzen eigene Fortsetzungswege. Vorhandene getrennte Entscheidungszuordnung bleibt erhalten; keine neue Verifikation alter Quellen behauptet."
+    ],
+    "sha256": "49ae462b43766f934f2232f9ca7107ac9e3a0bdb47324f423e7c72b4c5746486"
+  }
 }

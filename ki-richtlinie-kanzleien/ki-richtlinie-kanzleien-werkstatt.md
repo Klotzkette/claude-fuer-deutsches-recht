@@ -8,7 +8,7 @@ Erstelle die beauftragte Nutzungsrichtlinie für Kanzlei oder Rechtsabteilung od
 
 Berücksichtige Mandatsannahme, Interessenkontrolle, Vollmacht, Fristen, elektronische Einreichung, Aufgabenverteilung, Budget, Rechnung, Aktenführung und Mandatsabschluss, soweit dort Systeme eingesetzt werden. Diese Abläufe sind Gegenstand der Richtlinie, keine Pflicht zur erneuten Mandatsaufnahme. Grundlage sind BRAO, BORA, Datenschutz-Grundverordnung, Regulierungsrahmen sowie die einschlägigen BRAK- und DAV-Hinweise.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Kanzleibetrieb und Mandatssteuerung insbesondere die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben, trennt Original, Arbeits- und Freigabefassung, prüft Vollständigkeit, Lesbarkeit, Benennung, Signaturbedarf und Ausgabeweg und macht jede Änderung bis zur Eingangsdatei rückverfolgbar. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Ordne jede Richtlinienregel einer tatsächlichen Tätigkeit, einem Werkzeug und einer verantwortlichen Person zu. Gleiche Vertragsbedingungen und Einstellungen mit der vorgesehenen Datennutzung ab und halte Änderungen gegenüber der Ausgangsfassung nachvollziehbar. Die Prüfung führt zum bestellten Richtlinienabschnitt; Mandatsblatt, Rechnung oder Übergabevermerk sind keine zusätzlichen Pflichtprodukte dieses Auftrags.
 
 ### 1.1. Bestehende Regeln gezielt fortschreiben
 

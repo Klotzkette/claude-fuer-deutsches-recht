@@ -60,13 +60,13 @@ Rekonstruiere Beschaffung, Prüfung, Lagerung, Herstellung und Freigabe anhand v
 
 Fehlen etwa Angaben zur Zusammensetzung, Stabilität oder fachlichen Freigabe, fordere diese gezielt an. Schreibe die belegbaren organisatorischen Teile weiter, erfinde aber keine pharmazeutischen Prüfergebnisse. Nach Eingang die betroffene Herstellungsanweisung oder Stellungnahme vervollständigen und Widersprüche zu Chargen- oder Abgabedaten auflösen.
 
-Bei einem möglichen Schaden Vertrags- und Deliktshaftung nach Paragrafen 280 und 823 BGB von arzneimittelrechtlicher Haftung unterscheiden. Den vorhandenen Prüfhinweis auf Paragraf 84 AMG nur nach Klärung seiner Voraussetzungen und einer gegebenenfalls behaupteten Analogie verwenden; eine Herstellungsabweichung allein trägt keine pauschale Haftungsaussage. Medizinische oder pharmazeutische Fachentscheidungen bleiben der zuständigen Person vorbehalten.
+Bei einem möglichen Schaden Vertrags- und Deliktshaftung nach Paragrafen 280 und 823 BGB von arzneimittelrechtlicher Haftung unterscheiden. Paragraf 84 AMG nur nach Klärung seiner Voraussetzungen und einer gegebenenfalls behaupteten Analogie heranziehen; eine Herstellungsabweichung allein trägt keine pauschale Haftungsaussage. Medizinische oder pharmazeutische Fachentscheidungen bleiben der zuständigen Person vorbehalten.
 
 ## 1.5. Aufsichtsbeanstandung und Sanktion auseinanderhalten
 
 Lies das Schreiben daraufhin, ob eine Anhörung, Auskunft, Mängelbeseitigung, Ordnungsverfügung oder ein Sanktionsverfahren betroffen ist. Prüfe die Anhörung nach Paragraf 28 VwVfG einschließlich ihres konkreten Anwendungsbereichs; nicht jede belastende Maßnahme ohne Prüfung ihrer Voraussetzungen gleich behandeln. Ordne mögliche Verstöße nach ApoG, ApBetrO, AMG oder BtMG der tatsächlich beanstandeten Handlung zu.
 
-Bei Ordnungswidrigkeiten kommen die im Fachmaterial genannten Paragrafen 97 AMG, 32 BtMG und 25 ApoG nur nach tatbestandlicher Prüfung in Betracht. Trenne Betriebsverantwortung, individuelles Verhalten und etwaige strafrechtliche Vorwürfe. Die Beseitigung eines Mangels ist nicht automatisch ein Eingeständnis sämtlicher behaupteter Verstöße.
+Bei Ordnungswidrigkeiten die Voraussetzungen der Paragrafen 97 AMG, 32 BtMG und 25 ApoG am konkreten Vorwurf prüfen. Trenne Betriebsverantwortung, individuelles Verhalten und etwaige strafrechtliche Vorwürfe. Die Beseitigung eines Mangels ist nicht automatisch ein Eingeständnis sämtlicher behaupteter Verstöße.
 
 Für die Aufsichtsantwort stelle Beanstandung, belegten Ablauf, Ursachenklärung und bereits umgesetzte Maßnahmen zusammen. Frage bei einer behaupteten Abhilfe nach Datum, verantwortlicher Person und Nachweis. Nach der Antwort unterscheide im Text klar zwischen erledigten Maßnahmen und verbindlich geplanten Schritten; eine beabsichtigte Schulung darf nicht als durchgeführt erscheinen.
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "schriftsatz-versandwerkstatt",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
@@ -10,14 +10,18 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Ein Dateiname mit final darf weder die konkrete Freigabe noch den Nachweis gerichtlichen Eingangs ersetzen.",
+    "verdict": "retained",
+    "reason": "Am 18. September vollständig gelesen: Fassungsauswahl, Signaturroute und gerichtliche Eingangsbestätigung sind getrennt. Fehlende Anlagen oder Freigaben verhindern nicht die unabhängig mögliche Vorbereitung; nach Klärung wird die Versandmappe fertiggestellt.",
     "changes": [
-      "Freigabe an die konkrete Dokumentfassung gebunden.",
-      "Versandstatus und positive Eingangsbestätigung getrennt.",
-      "Allgemeine Einstiegssätze zugunsten des Größenlimits gestrafft."
+      "Keine weitere Mini-Änderung; konkrete Freigabe und Eingangsnachweis bleiben erforderlich."
     ],
-    "sha256": "2e11aa89c6ccb3216b78f4481f1cea0d9608fbfe7e7f8dc012142fe0dc22b98a"
+    "sha256": "844a9b96b3da9aa7eb61a56b48470db31e92fa5c413d7f9ecbe3c86cd57a2462"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vollständig am 18. September geprüft: Der Ablauf führt von Quellenaufnahme über Konvertierung und Anlagenabgleich zur Freigabevorbereitung. Ein freigegebenes Deckblatt widersprach bisher der ausnahmslos verlangten unveränderten Seitenzahl.",
+    "changes": ["Seitenzahlinvarianz auf die Stempelung begrenzt; zusätzliche Deckblätter werden gesondert gezählt, Quellseiten bleiben erhalten.", "Dateiliste ausdrücklich zur Freigabe vorbereiten statt eine erteilte Freigabe vorwegzunehmen. Keine neue Quellenverifikation oder Live-Modellprüfung."],
+    "sha256": "a446eed305890e7a87ec99aff9a0215aa6bdad5d17aec2d368a04fcb56825a19"
   },
   "selection": {
     "positive": [

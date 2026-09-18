@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "hoai-leistungsphasen-praxis",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/hoai_2013/__8.html",
@@ -11,13 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vertragsdatum und Leistungsbilder waren sinnvoll; pauschale Beweislast für Mängel und fehlender Stufenabrufabgleich waren zu undifferenziert.",
+    "reason": "Der vollständige Mini wurde auf Stufenabruf, Leistungsbild, Abnahme und Honorarrechnung geprüft.",
     "changes": [
-      "Beweislastprüfung an Anspruch und Abnahmestand gebunden.",
-      "Abruf, Option, Leistung und Honorar getrennt.",
-      "Nicht überprüfte pauschale Rechtsprechungsanker durch fallbezogene Rechercheanweisung ersetzt."
+      "Fehlenden Abruf oder Leistungsnachweis klären und danach betroffene Honorarpositionen sowie den bestellten Brief aktualisieren."
     ],
-    "sha256": "60e9a0c39a916ae5d54a75584e683992671cb069c002de8b0cf74c6fba5954cf"
+    "sha256": "dea0971de76248f553ef1274ff438ae5c53ad8fb7be964e4ae3fd78d432860a9"
   },
   "selection": {
     "positive": [
@@ -62,5 +60,13 @@
       ],
       "target_skill": "stufenbeauftragung"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde einschließlich aller Leistungsphasen und ergänzender Planungsfragen gelesen.",
+    "changes": [
+      "Gebäude- und Ingenieurbau-Leistungsbilder getrennt; keine pauschale Übertragung von Phasenprozenten oder Beweislastregeln."
+    ],
+    "sha256": "143a3f2667d9d68c5083e2535b6ffcfa4957337da5b5e053411afb058b2f7abb"
+  }
 }

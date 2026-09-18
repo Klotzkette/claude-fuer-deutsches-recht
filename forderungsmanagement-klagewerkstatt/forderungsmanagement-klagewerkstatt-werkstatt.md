@@ -6,7 +6,7 @@ Prüfe anhand der Forderungsakte, ob eine Klage vorbereitet werden kann, welche 
 
 Bearbeite die bestellte Forderungsprüfung, Mahnung, Zahlungsklage oder Vollstreckungsvorbereitung aus der vorhandenen Akte. Prüfe Vertrag, Leistung, Fälligkeit, Verzug und Einwendungen und begründe die Empfehlung auch bei streitigen Positionen. Eine interne Klageempfehlung ersetzt weder das verlangte Dokument noch die Freigabe zur Einreichung. Einen Gutachtenauftrag nicht ungefragt zur Klage erweitern.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Forderungsmanagement insbesondere die vorgelegten Urkunden, Bescheide und Korrespondenz, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Trenne gesicherte Tatsachen, Behauptungen und offene Punkte. Prüfe Anspruch, Frist, Form, Belege und stärkste Gegenposition für das bestellte Dokument; interne Zwischenprüfungen verlangen keine gesonderte Ausgabe. Die folgenden Übersichten sind Auswahlhilfen, keine Pflichtgliederung. Darlegungs- und Beweislast sind je streitiger Voraussetzung und Einwendung zu bestimmen; die verkürzten Merksätze ersetzen diese Zuordnung nicht.
 
 ### 1.1. Forderung und fehlende Nachweise bestimmen
 
@@ -18,7 +18,7 @@ Nach einer Antwort Saldo, Fälligkeit, Zinszeiträume oder Anspruchsbegründung 
 
 | Bedarf | Sofortausgabe | Qualitätsgriff |
 | --- | --- | --- |
-| Frist- oder Eilfall: GmbH-Gesellschafterhaftung wird ohne eigenständige Anspruchsgrundlage | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Verjährung, Ausschlussfrist oder Zuständigkeit ist unklar; vor Fortsetzung klären |
+| Drohende Verjährung oder Ausschlussfrist | Fristberechnung und beauftragter Sicherungsentwurf | Offene Berechnungsgrundlage gezielt klären; unabhängige Forderungspositionen weiterbearbeiten |
 | Tragendes Arbeitsprodukt | Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen | jede Tatsache bekommt Beleg oder Lückenmarke |
 | Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welche Forderung ist aus welchem Vertrag fällig |
 | Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung |
@@ -47,7 +47,7 @@ Nach einer Antwort Saldo, Fälligkeit, Zinszeiträume oder Anspruchsbegründung 
 
 - Verjährung, Ausschlussfrist und Zuständigkeit bei Unklarheit vorrangig klären; unabhängig davon den Forderungsabgleich fortführen.
 - Fehlende Fälligkeits-, Zugangs- oder Abnahmebelege konkret nachfordern. Unbelegte Tatsachen auch in einem Nachforderungsschreiben nicht voraussetzen.
-- GmbH-Gesellschafterhaftung wird ohne eigenständige Anspruchsgrundlage verfolgt.
+- Eine persönliche Forderung gegen GmbH-Gesellschafter benötigt eine eigenständige Anspruchsgrundlage; die Gesellschaftsschuld allein genügt als Begründung nicht.
 - Unklare Identität, Vollmacht, Fristbeginn oder Verfahrenslage gezielt klären und ihre Bedeutung für das Dokument benennen; nicht mit einer Lückenliste abschließen.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
@@ -144,7 +144,7 @@ Arbeitsgriff Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Verglei
 10.5. Beweislast: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Belege tragen Leistung, Rechnung, Zugang und Verzug an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Mietrückstand – Zahlungsklage Wohnraum, Zahlungsklage-Versandmappe endfertigen, Klagewerkstatt — Laufzeit aus eigenem Skill, Kostenfeststellungsklage nach Zahlung auf die Forderung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Ergebnis: Liefere das bestellte Schreiben oder Gutachten vollständig. Eine offene Frage führt zunächst zu einem vorläufigen Teilstand und nach der Antwort zur Fertigstellung, nicht zum Abschluss mit einer Fragenliste. Verwende den gewünschten Dateinamen, sonst `ergebnis.md`.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11; BGH, Urteil vom 04.05.2011 - VIII ZR 171/10.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -184,7 +184,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Klagewerkstatt — Laufzeit aus eigenem Skill | Ist das hauseigene Klage-Plugin (klagewerkstatt-[kanzlei]) installiert — enthält es assets/vorlagen-leer/standardklage.md und references/hausregeln.json? | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Kostenfeststellungsklage nach Zahlung auf die Forderung | Dieser Arbeitsgang gehört in jede Zahlungsklage-Akte, sobald nach Klageeinreichung etwas passiert, das die Hauptforderung erledigt: Zahlung, Aufrechnung, Stundungseinwand, dauerhafte Einrede, Unmöglichkeit oder Wegfall. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Verjährung prüfen | Bearbeite Verjährung prüfen: vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Fachvotum zu Verjährung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Vollstreckungsbescheid und Folgen | Verspäteter Einspruch → unzulässig (Paragraf 700 Absatz 2 ZPO). Vollstreckungsklausel erforderlich (Paragraf 724 ZPO): Antrag beim Mahngericht, einfache oder qualifizierte Klausel. | Fachvotum zu Vollstreckungsbescheid und Folgen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Vollstreckungsbescheid und Folgen | Zustellung, Einspruchsfrist und gegebenenfalls Wiedereinsetzung prüfen; Klauselbedarf nach Paragraf 796 Absatz 1 ZPO bestimmen. | Begründete Empfehlung oder beauftragter Vollstreckungsentwurf, keine automatische Vollstreckung |
 | Zinsberechnung Paragraf 288 BGB | Fälligkeit der Forderung (Paragraf 271 BGB, Paragraf 641 BGB, Paragraf 271a BGB). Mahnung (Paragraf 286 Absatz 1 BGB) oder Entbehrlichkeit (Paragraf 286 Absatz 2 BGB) oder 30-Tage-Regel (Paragraf 286 Absatz 3 BGB). | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
 | Zuständigkeitsprüfung | Bearbeite Zuständigkeitsprüfung: vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Klagewerkstatt — Lernlauf aus eigenen Mustern | Schritt 1 — Kanzlei-Profil Einmal abfragen und merken: Kanzleiname, Rechtsanwältin/Rechtsanwalt mit Anschrift, BeA-SAFE-ID, AGB-Klausel zum Gerichtsstand. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
@@ -226,8 +226,8 @@ Lieferstück: Fachvotum zu Verjährung prüfen mit Tatbestandsmerkmalen, Aktenfu
 
 ### 16.6. Vollstreckungsbescheid und Folgen
 
-Bearbeitungsauftrag: Verspäteter Einspruch → unzulässig (Paragraf 700 Absatz 2 ZPO). Vollstreckungsklausel erforderlich (Paragraf 724 ZPO): Antrag beim Mahngericht, einfache oder qualifizierte Klausel. Vor Erlass: nochmalige Belehrung (Paragraf 692 Absatz 1 Nummer 5 ZPO bei MB, gilt fort).
-Prüfschritte: Er ist Vollstreckungstitel und ermöglicht direkte Zwangsvollstreckung; Ablauf der 6-Monats-Frist: Mahnbescheid verliert Wirkung; neuer Mahnbescheid möglich (mit erneuter Verjährungshemmung Paragraf 204 BGB); Antrag VB nicht zu spät stellen – sonst neue Hemmung erforderlich; VB sofort vollstrecken (insbesondere Konto- oder Lohnpfändung), Vermögensauskunft beantragen.
+Prüfe Zustellung, Einspruchsfrist und gegebenenfalls Wiedereinsetzung anhand des konkreten Verfahrensstands und Paragraf 700 ZPO. Nach [Paragraf 796 Absatz 1 ZPO](https://www.gesetze-im-internet.de/zpo/__796.html) braucht der Vollstreckungsbescheid eine Klausel nur bei Vollstreckung für einen anderen Gläubiger oder gegen einen anderen Schuldner als im Bescheid bezeichnet; Paragraf 724 ZPO nicht pauschal anwenden. Die Belehrung nach Paragraf 692 Absatz 1 Nummer 5 ZPO anhand des tatsächlich zugestellten Mahnbescheids prüfen.
+Kontrolliere rechtzeitigen Antrag auf Vollstreckungsbescheid, Wirkung des Mahnbescheids und Verjährungshemmung nach Paragraf 204 BGB anhand der jeweiligen Voraussetzungen und Daten. Bereite Konto- oder Lohnpfändung beziehungsweise Vermögensauskunft nur bei entsprechendem Auftrag vor. Ein Vollstreckungstitel löst keine eigenmächtige Vollstreckung aus.
 Lieferstück: Fachvotum zu Vollstreckungsbescheid und Folgen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.7. Zinsberechnung Paragraf 288 BGB
@@ -258,8 +258,8 @@ Lieferstück: Fachvotum zu Forderungsaufnahme mit Tatbestandsmerkmalen, Aktenfun
 
 ### 16.11. Mahnbescheid online
 
-Bearbeitungsauftrag: Strategische und technische Anleitung zum gerichtlichen Mahnverfahren Paragrafen 688-703d ZPO als kostengünstige Alternative zur Klage. Zustellung im Inland möglich (Ausnahme EuMVVO für EU-Auslandsfälle). Nummer 2: gegenseitige Verträge mit offener Gegenleistung.
-Prüfschritte: Anspruch auf Zahlung bestimmten Geldbetrages in Euro; Forderung ist nicht von Gegenleistung abhängig oder Gegenleistung erbracht; 12 % übersteigt den Basiszinssatz nicht; Ausgeschlossen Paragraf 688 Absatz 2 ZPO:; Ausschließlich das zentrale Mahngericht des Landes, in dem der Gläubiger seinen allgemeinen Gerichtsstand hat: Bei Gläubiger im Ausland: Wahl unter den Mahngerichten (Paragraf 689 Absatz 2 ZPO), AG Wedding (Berlin) für ausl.
+Prüfe das gerichtliche Mahnverfahren nach Paragraf 688 bis Paragraf 703d ZPO als Alternative zur Klage: bestimmter Geldbetrag in Euro, Gegenleistung und gesetzliche Ausschlüsse. Die Zinsgrenze in [Paragraf 688 Absatz 2 Nummer 1 ZPO](https://www.gesetze-im-internet.de/zpo/__688.html) betrifft die dort bezeichneten Verbraucherkreditverträge, nicht jede Forderung. Auslandszustellung nach Absatz 3 gesondert prüfen; sie ist nicht allein über das Europäische Mahnverfahren möglich.
+Bestimme das zuständige Mahngericht nach [Paragraf 689 ZPO](https://www.gesetze-im-internet.de/zpo/__689.html) und landesrechtlicher Zuweisung. Fehlt dem Antragsteller ein allgemeiner Gerichtsstand im Inland, ist das Amtsgericht Wedding ausschließlich zuständig; es besteht kein freies Wahlrecht unter Mahngerichten. Entwurf und tatsächliche Antragstellung auseinanderhalten.
 Lieferstück: Fachvotum zu Mahnbescheid online mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.12. Verbraucherklage RDG-Grenzen

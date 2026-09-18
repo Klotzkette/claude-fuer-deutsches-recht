@@ -1,16 +1,19 @@
 {
   "schema_version": 1,
   "plugin": "juristische-sprache-deutsch-als-zweitsprache",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [],
   "mini_review": {
+    "verdict": "retained",
+    "reason": "Aktuellen Mini vollständig gelesen. Unklare Pronomen und fehlende Passagen führen zu gezielten Verständnisfragen und anschließender Textüberarbeitung. Bedingungen und Verneinungen bleiben erhalten; Sprachauftrag führt weder zu ungefragter Klage noch erfundenen Tatsachen. Keine erneute Quellen- oder Live-Modellprüfung.",
+    "changes": [],
+    "sha256": "ed37d4228d016efd5c6fd1db80dce929424a1c7b053f758b337d7257fb53e054"
+  },
+  "workshop_review": {
     "verdict": "revised",
-    "reason": "Die frühere generische Rechtsprüfung wurde durch sprachliche Erklärung mit Erhalt des Aussagegehalts ersetzt. Keine neue materielle Rechtsaussage; daher keine Norm als scheinbar geprüfte Quelle aufgeführt.",
-    "changes": [
-      "Negationen, Bedingungen, Daten und Verfahrensstand beim Vereinfachen erhalten.",
-      "Textverständnis von Rechtsberatung und beglaubigter Übersetzung abgegrenzt."
-    ],
-    "sha256": "dd1ff119dd8f9dbfcc13a04cc20b7ab45dfe7f1eb7e67c5bbbf92947a65c582a"
+    "reason": "Werkstatt vollständig gelesen. Methodische Pflichtausgaben widersprachen der Sprachhilfe; einzelne Warnworterklärungen stellten rechtlich prüfbedürftige Folgen absolut dar. Diese Vorgaben begrenzt beziehungsweise in konkrete Prüfhinweise umgestellt, ohne neue rechtliche Verifikation zu behaupten. Bestehende weitere Fachhinweise bleiben vor Verwendung rechtlich zu prüfen. Kein Live-Modelltest.",
+    "changes": ["Ausgangstext statt generischer Gutachtenproduktion zum Maßstab gemacht; Erklärung und vollständiger Antworttext haben Vorrang.", "Subsumtionsabschluss durch auftragsgemäße Endfassung und Fortsetzung nach Verständnisfrage ersetzt.", "Pauschalen Frist-, Verzichts-, Versöhnungs- und Schweigensfolgen ihre unbelegte Absolutheit genommen; offene Rechtsprüfung benannt."],
+    "sha256": "6afb4e8ab1b4f1604ae48ea5c37f40932576a11127e8c591a17c09e35fe0f9af"
   },
   "selection": {
     "positive": [

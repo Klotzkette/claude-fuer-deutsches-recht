@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "schulrecht-laender",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://recht.nrw.de/lrgv/gesetz/01082025-schulgesetz-fuer-das-land-nordrhein-westfalen-schulgesetz-nrw-schulg/",
@@ -10,14 +10,16 @@
     }
   ],
   "mini_review": {
+    "verdict": "retained",
+    "reason": "Vollständig gelesen: Der Mini bestimmt Land und Schulmaßnahme, fordert bei Ausschluss den Anhörungsnachweis und bei Notenrüge die konkrete Arbeit nach. Antworten führen zur aktualisierten Einwendung und zum bestellten Dokument; fehlende Unterlagen werden nicht als bewiesener Verfahrensfehler behandelt. Keine weitere Änderung erforderlich.",
+    "changes": [],
+    "sha256": "02ac4278982702d32629e9e2b7b6af18553578c0c83781ecb4c0886c570ec959"
+  },
+  "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Einordnung muss an Bundesland, konkrete Schulmaßnahme und Eilbedarf anknüpfen; ein allgemeiner Bildungsrechtsdialog genügt nicht.",
-    "changes": [
-      "Landesrecht und Art der Maßnahme vor den Rechtsbehelf gestellt.",
-      "NRW-Regeln ausdrücklich auf NRW begrenzt.",
-      "Anhörung, Zuständigkeit und Vollzug getrennt geprüft."
-    ],
-    "sha256": "85a6527c8cf64bbb37972450c88ca5e165a6162b99c805ba246174cd816495c3"
+    "reason": "Die vollständige Schlusslektüre bestätigte fachbezogene Fortsetzung für Aufnahme, Förderung, Bewertung, Ordnungsmaßnahme und Beförderungskosten. In der Nachforderung stand jedoch fehlende Anhörung statt fehlender Nachweis, obwohl der folgende Text diese Unterscheidung verlangt.",
+    "changes": ["Nachforderung ausdrücklich auf den Anhörungsnachweis bezogen und den Schluss von fehlendem Dokument auf unterbliebene Anhörung ausgeschlossen."],
+    "sha256": "5e89bec53ef184ee480b4ad2da86f9de21111ff64563c659f8fd3889e9b5e68a"
   },
   "selection": {
     "positive": [

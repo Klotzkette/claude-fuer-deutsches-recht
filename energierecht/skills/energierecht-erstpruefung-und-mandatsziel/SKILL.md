@@ -20,18 +20,9 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Wähle die Rechtsgrundlage nach Marktrolle und Streitgegenstand. Bei einer Versorgungsrechnung Vertrag, Tarif, Abrechnungszeitraum und Preisänderung prüfen; beim Netzanschluss Anschlussbegehren, Netzebene und Betreiberentscheidung zuordnen. Förderung, Netzentgelt und Genehmigung sind gesonderte Fragen und nicht allein deshalb einschlägig, weil eine Energieanlage betroffen ist.
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
-- `§ 16 HRG` — Prüfungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
+Verifiziere die tragende Norm in einer amtlichen Quelle für den maßgeblichen Zeitraum. Beziehe einschlägige Festlegungen, Bescheide und Vertragsbedingungen ein und unterscheide deren Rechtsqualität. Rechtsbehelf, zuständige Stelle und Frist aus der konkreten Entscheidung und Verfahrensart bestimmen, nicht aus einem fachfremden Prüfungsschema übernehmen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

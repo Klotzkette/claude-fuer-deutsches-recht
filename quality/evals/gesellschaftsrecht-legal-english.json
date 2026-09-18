@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "gesellschaftsrecht-legal-english",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__16.html",
@@ -16,14 +16,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vorhandene Cap-Table-Skill unterscheidet wirtschaftliches Szenario und Liste, das bisherige Mini enthielt fast ausschließlich allgemeine Gesellschaftsrechtsprüfung.",
+    "reason": "Vollständig geprüft: Definitionen, Sprachfassungen und Beteiligungsnenner werden bis zur fertigen Übersetzung oder Erklärung bearbeitet. Die auftragsabhängige Fortsetzung bleibt unverändert.",
     "changes": [
       "Eigenständigen Übersetzungs- und Erklärungsablauf ausgearbeitet.",
       "Bedeutungserhalt bei Modalverben und Rechtsordnungen verankert.",
       "Fully-diluted-Nenner und virtuelle Ansprüche von echten Anteilen getrennt."
     ],
-    "sha256": "a1343ca8d942bba0ea8a65987bf9b555f1ffccb5ba74d84ba6863ac497bc1bd5"
+    "sha256": "8198268f1cf09dd454206b5d49f4e6c4cf05351f1e3ed26971dbdbd2bb30ff6d"
   },
+  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung zeigte trotz passender Fortsetzung einen pauschalen Stopp bei Form- oder Registerfragen und eine Stationsproduktpflicht.","changes":["Unabhängige Übersetzungsarbeit fortsetzen und nach Antwort die betroffene Passage aktualisieren lassen.","Terminologie und Zahlenprüfung dem Zieltext oder der Lernfrage statt zusätzlichen Vollzugsdokumenten zugeordnet."],"sha256":"41c1ca555929b62a99cf4acd161bece78ddcc21cdd22eb7662f88e71cb68da7b"},
   "selection": {
     "positive": [
       "Erkläre einem englischsprachigen Investor den Unterschied zwischen Cap Table und Gesellschafterliste.",

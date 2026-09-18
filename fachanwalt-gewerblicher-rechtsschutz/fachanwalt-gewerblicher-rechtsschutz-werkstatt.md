@@ -6,7 +6,7 @@ Bearbeite den konkreten Konflikt um Marke, Patent, Design, Know-how oder Wettbew
 
 Prüfe anhand der vorhandenen Unterlagen Anspruchsgrundlage, Registerlage, Priorität, Rechtsbestand, Verletzung und Lizenzumfang im gewerblichen Rechtsschutz nach FAO Paragraf 14k. Berücksichtige MarkenG, DesignG, UWG, PatG, GebrMG und UrhG-Bezüge. Bereite je nach Auftrag eine Markenanmeldung bei DPMA oder EUIPO, eine UWG-Abmahnung nach Paragrafen 8 ff. UWG, Eilrechtsschutz, Verletzungsklage oder Berechnung des lizenzanalogen Schadensersatzes vor und beziehe parallele Verfahren ein.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Gewerblicher Rechtsschutz insbesondere die vorgelegten Urkunden, Bescheide und Korrespondenz, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Prüfe Schutzrecht, konkrete Verletzungsform und geltend gemachte Rechtsfolge anhand der Register- und Verletzungsbelege. Trenne offene Rechteketten, streitige Benutzung und nachgewiesene Handlungen; Einwände und Beweisfragen am jeweiligen Merkmal beurteilen. Zeichenvergleich und Schadensrechnung dienen der bestellten Abmahnung, Erwiderung oder Bewertung und verlangen nicht jeweils ein gesondertes Ergebnisdokument.
 
 ### 1.1. Schutzrecht und Verletzungsform abgleichen
 

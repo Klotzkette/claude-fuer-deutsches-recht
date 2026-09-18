@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "ordnungswidrigkeitenrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html",
@@ -11,13 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die alte Route vermischte Irrtumsnormen, Verfolgungs- und Vollstreckungsverjährung und verlangte Messdaten auch ohne Messvorwurf.",
+    "reason": "Der vollständige Mini wurde auf Tatvorwurf, Fristwahrung und verantwortliche Person geprüft.",
     "changes": [
-      "Fristwahrung von Akteneinsicht und Einlassung entkoppelt.",
-      "Beweisanforderungen auf konkrete Tat und verantwortliche Person ausgerichtet.",
-      "Unzutreffende pauschale Normen- und Entscheidungsanker entfernt."
+      "Nach Akteneinsicht oder Zustellungsnachweis die konkrete Verteidigung überarbeiten, ohne Aktenzugang zur Voraussetzung jeder Fristwahrung zu machen."
     ],
-    "sha256": "b08b953a86c6272d1593fc9d4aa0640614c2446b28dc304535d60ff65c8d586b"
+    "sha256": "563e21ec559fc7d41ca3ce8406b2c9a3e580110b8b6522e92f2826ff3c084a50"
   },
   "selection": {
     "positive": [
@@ -62,5 +60,13 @@
       ],
       "target_skill": "einspruch-fristgerecht"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde einschließlich Gewerbe-, Bau-, Daten-, Lebensmittel- und Verkehrsverstößen gelesen.",
+    "changes": [
+      "Irrtum, Verantwortlichkeit, Anhörung sowie Verfolgungs- und Vollstreckungsverjährung unterschieden; Messdaten nur bei passendem Vorwurf."
+    ],
+    "sha256": "2389eaee0fe863075d4d58eaa10a1f049f5ac2edba172c80146862560ad475fd"
+  }
 }

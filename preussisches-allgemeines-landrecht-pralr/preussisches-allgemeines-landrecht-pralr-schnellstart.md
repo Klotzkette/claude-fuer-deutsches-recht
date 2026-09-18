@@ -1,14 +1,14 @@
-# PrALR: Schnellstart
+# 1. PrALR: Historische Rechtsfrage bearbeiten
 
-Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt ausführen; sonst zu Textzeuge, Stichtag und Geltung und Person, Stand und Handlungsfähigkeit routen. Große Ordner: Teilstand und offene Dateien. Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, geänderte Fassungen neu prüfen. Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Untersuche die vorgelegte historische Rechtsfrage anhand des tatsächlich verfügbaren Textes. Erstelle die bestellte Quellenanalyse, Synopse, Fallbewertung oder Lehrunterlage.
 
-## 1. Mit der konkreten Frage beginnen
+## 1.1. Mit der konkreten Frage beginnen
 
 Vorhandenen Scan, Vertrag, Registerauszug oder Aktenvermerk zuerst lesen. Festhalten: Was soll geklärt werden, für welchen historischen Ort und Zeitpunkt und in welcher Ausgabe? Das verlangte Ergebnis liefern, etwa eine Normkarte, Textsynopse oder historische Fallbewertung. Nicht jeden Auftrag in eine Normkarte umformen.
 
 Fehlt Material, nur die entscheidende Lücke gebündelt erfragen. Beispiel: „Für welchen Ort und welches Jahr soll die Regel geprüft werden, und liegt die betreffende Textseite vor?“ Ein offener Textzeuge verhindert ein gesichertes Zitat, aber nicht die Benennung des nächsten sinnvollen Quellenzugriffs.
 
-## 2. Den passenden Arbeitsweg nehmen
+## 1.2. Den passenden Arbeitsweg nehmen
 
 Alle folgenden Links sind optionale Vertiefungen. Ohne weitere Dateien die jeweilige Sacharbeit hier ausführen: Titelblatt und Systemstelle abgleichen, unsichere Lesung kennzeichnen, Ort und Stichtag bestimmen und erst danach den historischen Text auf die belegten Tatsachen anwenden.
 
@@ -23,19 +23,19 @@ Alle folgenden Links sind optionale Vertiefungen. Ohne weitere Dateien die jewei
 
 Die Fachmaterialien innerhalb dieser Skills nur optional zur tatsächlich auftretenden Teilfrage nachladen. Mehrere frühere Fassungen sind keine zusätzlichen Auswahloptionen.
 
-## 3. Fachliche Fehlgriffe vermeiden
+## 1.3. Fachliche Fehlgriffe vermeiden
 
 Der optionale [Quellenprüfvermerk](references/historische-quellenpruefung.md) enthält frühere Befunde, ersetzt aber nicht die Prüfung der tatsächlich verwendeten historischen Quelle.
 
-3.1. Besitz, Eigentum und Eigentumsverfolgung sind verschiedene Suchfragen. Eine alte Dateibezeichnung ersetzt nicht den Titel im Gesetz.
+1.3.1. Besitz, Eigentum und Eigentumsverfolgung sind verschiedene Suchfragen. Eine alte Dateibezeichnung ersetzt nicht den Titel im Gesetz.
 
-3.2. Bei historischen Personenstatusfragen Grundregel, Ausnahme und Drittinteressen gemeinsam lesen. Einen ausgewählten Satz nicht zur unbeschränkten Entscheidungsfreiheit umdeuten. Historische Begriffe als Quellenbegriffe kennzeichnen, nicht als heutige Personenbezeichnung übernehmen.
+1.3.2. Bei historischen Personenstatusfragen Grundregel, Ausnahme und Drittinteressen gemeinsam lesen. Einen ausgewählten Satz nicht zur unbeschränkten Entscheidungsfreiheit umdeuten. Historische Begriffe als Quellenbegriffe kennzeichnen, nicht als heutige Personenbezeichnung übernehmen.
 
-3.3. Bei behaupteten Statusänderungen durch Ortswechsel Anwendungsgebiet, Einreiseumstände, Bindungen und Ausnahmen aus dem vollständigen Text ermitteln. Der isolierte Begriff einer Befreiung beweist noch nicht deren Zeitpunkt und Reichweite.
+1.3.3. Bei behaupteten Statusänderungen durch Ortswechsel Anwendungsgebiet, Einreiseumstände, Bindungen und Ausnahmen aus dem vollständigen Text ermitteln. Der isolierte Begriff einer Befreiung beweist noch nicht deren Zeitpunkt und Reichweite.
 
-3.4. Eine historische Entschädigungsregel beweist für sich weder ihre Anwendung auf einen bestimmten Schaden noch einen heutigen Anspruch. Entstehung, späteres Zwischenrecht und heutige Durchsetzbarkeit als getrennte Fragen behandeln.
+1.3.4. Eine historische Entschädigungsregel beweist für sich weder ihre Anwendung auf einen bestimmten Schaden noch einen heutigen Anspruch. Entstehung, späteres Zwischenrecht und heutige Durchsetzbarkeit als getrennte Fragen behandeln.
 
-## 4. Ergebnis und Grenzen sichtbar machen
+## 1.4. Ergebnis ausarbeiten und nach Quellenzugang fortsetzen
 
 Ein knapper Quellenbefund kann so beginnen:
 
@@ -43,7 +43,11 @@ Ein knapper Quellenbefund kann so beginnen:
 
 Eine historische Fallbewertung ergänzt die tatsächliche Anwendung, den stärksten Gegenbefund und das begründete Ergebnis. Tabellen dienen Vergleichen oder Nachweisen; das Endprodukt besteht aus ausformulierten Sätzen.
 
-## 5. Quellen und Format
+Fehlt etwa die Folgeseite mit einer Ausnahme, frage nach genau dieser Seite und arbeite die bereits lesbaren Teile vorläufig aus. Nach Eingang prüfe die Ausnahme im Zusammenhang und ändere Zitat, Auslegung und Fallbewertung gemeinsam. Eröffnet der neue Text eine weitere entscheidende Geltungsfrage, kläre sie gezielt; bereits bestimmte Ausgabe und Fundstelle werden nicht erneut abgefragt.
+
+Setze am bestehenden Text fort, bis die bestellte Analyse oder Lehrunterlage fertig ist. Eine heutige Anschlussfrage wird nur bei entsprechendem Auftrag zusätzlich untersucht. Nutzerseitige Dateinamen haben Vorrang; ergebnis.md ist nur ein möglicher Standard.
+
+## 1.5. Quellen und Format
 
 Nur neue oder entscheidend verwendete historische Primärstellen gezielt verifizieren. Keine pauschale Recherche zu geltendem Recht und kein festes Gegenwartsjahr erzwingen. Eine tatsächliche heutige Anschlussfrage benötigt dagegen eine eigene aktuelle Quellenprüfung.
 
@@ -52,3 +56,5 @@ Ausgabe, Teil, Titel, Paragraf und Seite nennen; Originalzitat, Transkription un
 Exportstandard: Times New Roman 11 pt, dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt.
 
 Stoppe die Behauptung einer gesicherten historischen Rechtsfolge, solange entscheidende Fassung oder Geltungsraum offen sind. Liefere den belegten Textbefund und die konkrete Quellenlücke; moderne Normen dürfen die fehlende historische Quelle nicht ersetzen.
+
+Weitere Recherche- und Abrufvermerke stehen getrennt vom bestellten Empfängertext; die für eine Quellenanalyse erforderlichen Nachweise bleiben Bestandteil der Analyse. Ohne Zugriff bitte um den konkreten Scan oder Auszug, ohne Export liefere Text. Behaupte keine Prüfung ungelesener Originale und veranlasse keine externe Anfrage, Veröffentlichung oder Einreichung ohne Freigabe.

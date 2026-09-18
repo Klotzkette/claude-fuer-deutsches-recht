@@ -1,31 +1,77 @@
 {
   "schema_version": 1,
   "plugin": "urteilsbauer-relationsmacher",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
-    {"url": "https://www.gesetze-im-internet.de/zpo/__286.html", "checked_on": "2026-09-14", "supports": "Amtlicher Suchabruf: Würdigung des gesamten Verhandlungs- und Beweisstoffs sowie Angabe der leitenden Überzeugungsgründe."},
-    {"url": "https://www.gesetze-im-internet.de/rpflg_1969/__11.html", "checked_on": "2026-09-14", "supports": "Amtlicher Suchabruf: allgemeiner Rechtsbehelf vorrangig; Erinnerung nur unter den Voraussetzungen und Ausnahmen der weiteren Absätze."}
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__286.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Suchabruf: Würdigung des gesamten Verhandlungs- und Beweisstoffs sowie Angabe der leitenden Überzeugungsgründe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rpflg_1969/__11.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Suchabruf: allgemeiner Rechtsbehelf vorrangig; Erinnerung nur unter den Voraussetzungen und Ausnahmen der weiteren Absätze."
+    }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Relation und der gelesene Beweiswürdigungs-Skill sind passend, aber Mini und Werkstatt widersprachen sich bei Pflicht-Erstprodukten und endgültiger Entscheidungsrolle. Behauptete Fundstellen waren unbrauchbar.",
-    "changes": ["Entwurfscharakter durchgehend klargestellt", "Pflichtinventur bei gezieltem Auftrag aufgehoben", "Erfundene persönliche Zeugeneindrücke ausgeschlossen", "Pauschale Erinnerung und behauptete Rechtsprechungsfundstellen korrigiert"],
-    "sha256": "62437e48adbb54f9c8436d8c8ed7c6c1795563a81f7017dbbdb301ff61fb4e1d"
+    "reason": "Vollständige Textprüfung am 18. September: Vollständig gelesen: Die allgemeine Fallkarte wiederholte Normen, Tatbestand und Beweislast und nannte beliebige Ausgaben neben dem bereits konkreten Auftrag.",
+    "changes": [
+      "Doppelte allgemeine Fallkarte entfernt; ihre fachlichen Regeln stehen bereits in den Relationsschritten und Quellenabschnitten. Überschriften fortlaufend nummeriert."
+    ],
+    "sha256": "d165398fdf09c36de20adcd2fa625eda03865364a3009786e9cf511a623a2512"
   },
   "selection": {
-    "positive": ["Formuliere aus Protokoll und richterlich mitgeteilter Würdigung den Beweisabschnitt eines Urteilsentwurfs.", "Erstelle eine Relation mit Schlüssigkeit, Erheblichkeit und offenen Beweisfragen."],
-    "negative": ["Schreibe einen parteilichen Mahnbrief ohne gerichtlichen Entscheidungsentwurf.", "Berechne lediglich eine Anwaltsrechnung nach RVG."]
-  },
-  "cases": [{
-    "id": "widersprechende-zeugen-ohne-richterwertung",
-    "request": "Erstelle in ergebnis.md nur den möglichen Beweiswürdigungsabschnitt und die noch notwendigen Rückfragen, keine vollständige Akteninventur. In einem Zivilprozess ist streitig, ob am 3. März 2026 eine Kiste mit 20 Bauteilen übergeben wurde. Zeuge A sagt laut Protokoll, er habe die geschlossene Kiste übergeben, den Inhalt aber nicht geprüft. Zeugin B sagt, am Empfang sei eine leere Kiste angekommen. Ein Lieferschein trägt eine unleserliche Unterschrift; die Beklagte bestreitet deren Zuordnung. Beide Zeugen wurden vernommen. Die Richterin hat noch keinen persönlichen Eindruck oder Überzeugungsstand mitgeteilt. Weitere Belege sind nicht vorhanden. Die Klägerin trägt nach bereits abgeschlossener rechtlicher Prüfung die Beweislast für die Lieferung der Bauteile.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id": "C01", "text": "Das Ergebnis unterscheidet Übergabe einer Kiste vom Nachweis ihres Inhalts und würdigt den Widerspruch zwischen A und B als offen.", "deliverables": ["ergebnis.md"]},
-      {"id": "C02", "text": "Es erfindet weder persönliche Glaubwürdigkeit noch einen gerichtlichen Überzeugungsstand und kennzeichnet den entscheidenden Abschnitt als von richterlicher Wertung abhängig.", "deliverables": ["ergebnis.md"]},
-      {"id": "C03", "text": "Der unleserliche Lieferschein wird nicht ohne Prüfung einer Person zugeordnet; eine etwaige Beweislastfolge wird nur bedingt für den verbleibenden Nichtnachweis erläutert.", "deliverables": ["ergebnis.md"]}
+    "positive": [
+      "Formuliere aus Protokoll und richterlich mitgeteilter Würdigung den Beweisabschnitt eines Urteilsentwurfs.",
+      "Erstelle eine Relation mit Schlüssigkeit, Erheblichkeit und offenen Beweisfragen."
     ],
-    "target_skill": "beweiswuerdigung-mit-richter-input"
-  }]
+    "negative": [
+      "Schreibe einen parteilichen Mahnbrief ohne gerichtlichen Entscheidungsentwurf.",
+      "Berechne lediglich eine Anwaltsrechnung nach RVG."
+    ]
+  },
+  "cases": [
+    {
+      "id": "widersprechende-zeugen-ohne-richterwertung",
+      "request": "Erstelle in ergebnis.md nur den möglichen Beweiswürdigungsabschnitt und die noch notwendigen Rückfragen, keine vollständige Akteninventur. In einem Zivilprozess ist streitig, ob am 3. März 2026 eine Kiste mit 20 Bauteilen übergeben wurde. Zeuge A sagt laut Protokoll, er habe die geschlossene Kiste übergeben, den Inhalt aber nicht geprüft. Zeugin B sagt, am Empfang sei eine leere Kiste angekommen. Ein Lieferschein trägt eine unleserliche Unterschrift; die Beklagte bestreitet deren Zuordnung. Beide Zeugen wurden vernommen. Die Richterin hat noch keinen persönlichen Eindruck oder Überzeugungsstand mitgeteilt. Weitere Belege sind nicht vorhanden. Die Klägerin trägt nach bereits abgeschlossener rechtlicher Prüfung die Beweislast für die Lieferung der Bauteile.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis unterscheidet Übergabe einer Kiste vom Nachweis ihres Inhalts und würdigt den Widerspruch zwischen A und B als offen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Es erfindet weder persönliche Glaubwürdigkeit noch einen gerichtlichen Überzeugungsstand und kennzeichnet den entscheidenden Abschnitt als von richterlicher Wertung abhängig.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der unleserliche Lieferschein wird nicht ohne Prüfung einer Person zugeordnet; eine etwaige Beweislastfolge wird nur bedingt für den verbleibenden Nichtnachweis erläutert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "beweiswuerdigung-mit-richter-input"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Textprüfung am 18. September: Die vollständige Werkstatt führt von Anträgen und Relationsstationen über richterlichen Input zu Tenor und Gründen. Fehlende Wertung öffnet nur den abhängigen Abschnitt; keine Verkündung oder Zustellung wird vorweggenommen.",
+    "changes": [
+      "Keine weitere Werkstattänderung; Entscheidungsreife, Beweislast und gerichtliche Wertung bleiben getrennt."
+    ],
+    "sha256": "56644bd7224d6b0e2f936114c0e55a296653b594131eff5bc7a79a7f8e2e4c60"
+  }
 }

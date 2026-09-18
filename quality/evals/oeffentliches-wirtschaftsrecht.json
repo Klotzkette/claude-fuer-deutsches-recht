@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "oeffentliches-wirtschaftsrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gwb/BJNR252110998.html",
@@ -10,14 +10,22 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Der bisherige Schnellstart behandelte vorwiegend Gewerbeuntersagung statt der Projekt-, Kooperations- und Beteiligungsarbeit des Plugins.",
+    "verdict": "retained",
+    "reason": "Mini vollständig gelesen. Er verlangt konkrete Kontrollrechte und Tätigkeitsdaten, berechnet nach deren Eingang neu und führt zur bestellten Projektentscheidung statt zur ungefragten Gewerbeuntersagung. Keine neue rechtliche Verifikation oder Live-Modellprüfung.",
     "changes": [
-      "Projektbeziehungen und Risikozuweisung ergänzt.",
-      "Inhouse-Prüfung mit echter Tätigkeitsquote und Kontrollnachweis aufgebaut.",
-      "Kommunalrecht, Finanzierung und Beihilfe als separate Entscheidungstore eingeordnet."
+      "Inhouse-Nachweise, Finanzierungsprüfung und gezielte Fortsetzung unverändert beibehalten."
     ],
-    "sha256": "4750ebef00c34e03c60fc2a73bb0ffe4b8c6b3e3166be7a7220787bbd3f04d61"
+    "sha256": "6c7c2cbde862587b7a7d2369aef51d76c0fe4849361ecfb1a01509d22f0365c4"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig gelesen. Frühe Eilanweisungen und der obligatorisch wirkende Aktenoutput kollidierten mit dem später bereits begrenzten Projektauftrag. Eng korrigiert; ausführliche Übersichtsstruktur und Quellenanker erhalten, keine neue fachrechtliche Gesamtprüfung.",
+    "changes": [
+      "Betriebsschließung nur bei tatsächlichem Anlass priorisiert, kein pauschaler Stopp vor Fortsetzung.",
+      "Fehlende Zustell- und Vertretungsnachweise werden konkret nachgefragt, unabhängige Teile fortgeführt.",
+      "Projektvorlage oder Anhörungsantwort statt bloßem nächsten Schritt; Routenlisten sind keine Pflichtausgaben."
+    ],
+    "sha256": "5cd93469f88e99e387470da4a07255ef11e214db3bf62d143812b58d29dcaa95"
   },
   "selection": {
     "positive": [

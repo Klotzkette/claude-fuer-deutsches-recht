@@ -15,17 +15,6 @@ import quality_lab as lab
 
 
 class QualityLabTests(unittest.TestCase):
-    def test_optional_workshop_review_pins_the_reviewed_text(self):
-        workshop = self.plugin / "fachgebiet-werkstatt.md"
-        self.profile["workshop_review"] = {
-            "verdict": "revised", "reason": "Individueller Bearbeitungsweg",
-            "changes": [], "sha256": lab.digest(workshop.read_bytes()),
-        }
-        lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
-        workshop.write_text("Veränderte Werkstatt", encoding="utf-8")
-        with self.assertRaisesRegex(lab.LabError, "Werkstatt-Prüfung.*verändert"):
-            lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
-
     def test_invalid_workshop_review_cannot_bypass_validation(self):
         for review in ([], "reviewed", {}, {"verdict": "retained", "reason": "Geprüft", "sha256": "0" * 64}):
             with self.subTest(review=review):
@@ -139,6 +128,87 @@ class QualityLabTests(unittest.TestCase):
         with self.assertRaisesRegex(lab.LabError, "verändert"):
             self.prepare()
         self.assertFalse((self.base / "run").exists())
+
+    def add_focus_review(self):
+        self.profile["selection"]["target_skill"] = "belegabgleich"
+        review = {"reviewed_on": "2026-09-14", "method": "desk_review",
+                  "verdict": "retained", "reason": "Belegabgleich bis zum Dokument gelesen",
+                  "changes": []}
+        for kind, relative in (("prompt", "fachgebiet-hauptproblem.md"),
+                               ("skill", "skills/belegabgleich/SKILL.md")):
+            path = self.plugin / relative
+            review[f"{kind}_path"] = path.relative_to(self.root).as_posix()
+            review[f"{kind}_sha256"] = lab.digest(path.read_bytes())
+        self.profile["focus_review"] = review
+        return review
+
+    def test_optional_focus_review_and_legacy_profile(self):
+        lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+        self.add_focus_review()
+        lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+        self.write_profile()
+        self.assertEqual(lab.audit(self.root)[1], [])
+        self.assertIn("Nicht ausgeführt", lab.catalog(lab.audit(self.root)[0], self.root))
+
+    def test_focus_review_pins_both_files(self):
+        review = self.add_focus_review()
+        for kind in ("prompt", "skill"):
+            with self.subTest(kind=kind):
+                path = self.root / review[f"{kind}_path"]
+                original = path.read_bytes()
+                path.write_bytes(original + b"\n")
+                with self.assertRaisesRegex(lab.LabError, "Schwerpunkt.*verändert"):
+                    lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+                path.write_bytes(original)
+
+    def test_focus_review_rejects_invalid_metadata(self):
+        valid = copy.deepcopy(self.add_focus_review())
+        invalid = {"method": [None, "live", "model_evaluation", []],
+                   "reviewed_on": [None, "2026-02-30", "9999-01-01", "20260914"],
+                   "reason": [None, " ", []], "verdict": ["pass", "certified", []],
+                   "changes": [None, [""]],
+                   "prompt_sha256": [None, "A" * 64, "0" * 64],
+                   "skill_sha256": [None, "a" * 63, "0" * 64]}
+        for field, values in invalid.items():
+            for value in values:
+                with self.subTest(field=field, value=value):
+                    self.profile["focus_review"] = {**valid, field: value}
+                    with self.assertRaises(lab.LabError):
+                        lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+        for value in (None, [], "reviewed", {}):
+            self.profile["focus_review"] = value
+            with self.assertRaises(lab.LabError):
+                lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+
+    def test_focus_review_requires_exact_paths_and_target(self):
+        review = self.add_focus_review()
+        for kind in ("prompt", "skill"):
+            key = f"{kind}_path"
+            original = review[key]
+            for value in (None, "other/" + original, "./" + original,
+                          str(self.root / original), "fachgebiet/../" + original,
+                          review["skill_path" if kind == "prompt" else "prompt_path"]):
+                with self.subTest(kind=kind, path=value):
+                    review[key] = value
+                    with self.assertRaises(lab.LabError):
+                        lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+            review[key] = original
+        del self.profile["selection"]["target_skill"]
+        with self.assertRaisesRegex(lab.LabError, "selection.target_skill"):
+            lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+
+    def test_focus_review_rejects_missing_file_and_external_symlink(self):
+        review = self.add_focus_review()
+        path = self.root / review["prompt_path"]
+        content = path.read_bytes()
+        path.unlink()
+        with self.assertRaisesRegex(lab.LabError, "Datei fehlt"):
+            lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+        outside = self.base / "outside.md"
+        outside.write_bytes(content)
+        path.symlink_to(outside)
+        with self.assertRaisesRegex(lab.LabError, "Symlink"):
+            lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
 
     def test_malformed_nested_profile_is_reported_by_audit(self):
         edits = (

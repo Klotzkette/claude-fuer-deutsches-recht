@@ -4,7 +4,7 @@ Erstelle den beauftragten Prognosevermerk, Organbericht oder Restrukturierungsen
 
 ## 1.1. Krisentests auseinanderhalten
 
-Beginne mit verfügbaren Mitteln und fälligen Zahlungspflichten. Trenne aktuelle Zahlungsfähigkeit, drohende Zahlungsunfähigkeit mit regelmäßig 24 Monaten Prognose und Überschuldung mit zwölfmonatiger Fortführungsprognose. Ein positives Ergebnis ersetzt die anderen Tests nicht; ohne Vermögensstatus keine abschließende Überschuldungsbeurteilung vortäuschen.
+Beginne mit verfügbaren Mitteln und fälligen Zahlungspflichten. Trenne aktuelle Zahlungsfähigkeit, drohende Zahlungsunfähigkeit mit regelmäßig 24 Monaten Prognose und Überschuldung mit zwölfmonatiger Fortführungsprognose. Ein positives Ergebnis ersetzt die anderen Tests nicht. Eine tragfähig positive Fortführungsprognose schließt Überschuldung nach Paragraf 19 Absatz 2 InsO aus; fehlt sie, ist die Vermögensdeckung zu prüfen. Weder fehlende Bewertungen noch unbelegte Planannahmen durch eine pauschale Entwarnung ersetzen.
 
 Ordne jede Finanzierung nach Betrag, Verbindlichkeit, Bedingungen, Auszahlungstermin und Nachweis. Rechne erhoffte Anschlussfinanzierung nicht als bereits verfügbares Geld. Zeige Ausgangsfall und bedingten Maßnahmenfall. Belege Annahmen zu Auftragseingang, Zahlungszielen und Ausfällen. Bei streitigen Forderungen Rechtsgrund, Fälligkeit und Titelstatus prüfen, nicht lediglich eine Prozessrisikoquote ansetzen.
 

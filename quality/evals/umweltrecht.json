@@ -1,28 +1,72 @@
 {
   "schema_version": 1,
   "plugin": "umweltrecht",
-  "reviewed_on": "2026-09-14",
-  "sources": [{"url": "https://www.gesetze-im-internet.de/bimschg/__13.html", "checked_on": "2026-09-14", "supports": "Geöffneter amtlicher Volltext: Ausnahme wasserrechtlicher Erlaubnisse und Bewilligungen von der Konzentrationswirkung."}],
+  "reviewed_on": "2026-09-18",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bimschg/__13.html",
+      "checked_on": "2026-09-14",
+      "supports": "Geöffneter amtlicher Volltext: Ausnahme wasserrechtlicher Erlaubnisse und Bewilligungen von der Konzentrationswirkung."
+    }
+  ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini und Werkstatt blieben bei allgemeiner Genehmigungsprüfung; der Immissionsschutz-Kernskill enthielt zudem nicht belastbare pauschale Fristensätze. Der Mini erhält eine eigenständige Zulassungsmatrix statt vertragsrechtlicher Fremdanker.",
-    "changes": ["Konzentrationswirkung auf Paragraf 13 und Ausnahmen präzisiert", "Wasserentnahme als eigenständige Zulassungsfrage ergänzt", "Fachfremde BGB-Anker und unbezogene Rechtsprechung entfernt", "Wiederholte Einsatzfeldtabelle gekürzt"],
-    "sha256": "e1a638d4a62b05870e903b582ddc9dc51edc134d1a1272e147c643649bcef38d"
+    "reason": "Mini vollständig auf Genehmigungsumfang, Wasserrecht und fehlende Gutachten gelesen; Konzentrationsgrenzen bleiben ausdrücklich erhalten.",
+    "changes": [
+      "Fehlende Erlaubnis oder belastbare Gutachtengrundlage gezielt klären, danach Bewertung und bestelltes Dokument fortführen; keine automatische Einwendung als Pflichtausgabe."
+    ],
+    "sha256": "974074f778c68084889ef127da63e8ad0c31cf1e0e01d67dd596de5cf58fa725"
   },
   "selection": {
-    "positive": ["Prüfe, welche Zulassungen für unsere Anlage trotz BImSchG-Bescheid fehlen.", "Vergleiche Betriebsbeschreibung, Wasserentnahme und Genehmigungsnebenbestimmungen für den geplanten Start."],
-    "negative": ["Berechne die Miete für eine Industriehalle ohne Umweltauflagen.", "Prüfe ausschließlich die Anerkennung eines Umweltverbands für eine Verbandsklage."]
-  },
-  "cases": [{
-    "id": "anlage-ohne-wassererlaubnis",
-    "request": "Erstelle in ergebnis.md eine Zulassungsmatrix und eine Entscheidungsvorlage zum geplanten Betriebsstart am 1. Oktober 2026. Die Betreiberin hat einen BImSchG-Genehmigungsbescheid vom 1. September für eine Beschichtungsanlage. Der verfügende Teil genehmigt Errichtung und Betrieb einschließlich baulicher Anlagen. Für Prozesswasser sollen jährlich 30.000 Kubikmeter Grundwasser aus einem eigenen Brunnen entnommen werden. Der Bescheid erwähnt den Brunnen nur in der Betriebsbeschreibung; eine wasserrechtliche Erlaubnis oder Bewilligung ist weder enthalten noch separat erteilt. Die Wasserbehörde bestätigt, dass ein Erlaubnisantrag noch nicht eingegangen ist. Die Geschäftsführung meint, die Konzentrationswirkung erledige sämtliche Zulassungen. Weitere Dokumente liegen nicht vor; die genannten Inhalte sind vollständig.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id": "C01", "text": "Das Ergebnis behandelt die wasserrechtliche Erlaubnis beziehungsweise Bewilligung als von Paragraf 13 BImSchG ausgenommene Entscheidung und lehnt die behauptete Vollabdeckung ab.", "deliverables": ["ergebnis.md"]},
-      {"id": "C02", "text": "Die bloße Erwähnung des Brunnens in der Betriebsbeschreibung wird nicht als Erlaubniserteilung ausgelegt; 30.000 Kubikmeter und Starttermin werden der offenen Zulassungsposition zugeordnet.", "deliverables": ["ergebnis.md"]},
-      {"id": "C03", "text": "Die Vorlage benennt die fehlende wasserrechtliche Prüfung und Abstimmung als Betriebsrisiko, ohne eine Bewilligung zu erfinden oder eine automatische Gesamtnichtigkeit des Anlagenbescheids zu behaupten.", "deliverables": ["ergebnis.md"]}
+    "positive": [
+      "Prüfe, welche Zulassungen für unsere Anlage trotz BImSchG-Bescheid fehlen.",
+      "Vergleiche Betriebsbeschreibung, Wasserentnahme und Genehmigungsnebenbestimmungen für den geplanten Start."
     ],
-    "target_skill": "immissionsschutz-bimschg"
-  }]
+    "negative": [
+      "Berechne die Miete für eine Industriehalle ohne Umweltauflagen.",
+      "Prüfe ausschließlich die Anerkennung eines Umweltverbands für eine Verbandsklage."
+    ]
+  },
+  "cases": [
+    {
+      "id": "anlage-ohne-wassererlaubnis",
+      "request": "Erstelle in ergebnis.md eine Zulassungsmatrix und eine Entscheidungsvorlage zum geplanten Betriebsstart am 1. Oktober 2026. Die Betreiberin hat einen BImSchG-Genehmigungsbescheid vom 1. September für eine Beschichtungsanlage. Der verfügende Teil genehmigt Errichtung und Betrieb einschließlich baulicher Anlagen. Für Prozesswasser sollen jährlich 30.000 Kubikmeter Grundwasser aus einem eigenen Brunnen entnommen werden. Der Bescheid erwähnt den Brunnen nur in der Betriebsbeschreibung; eine wasserrechtliche Erlaubnis oder Bewilligung ist weder enthalten noch separat erteilt. Die Wasserbehörde bestätigt, dass ein Erlaubnisantrag noch nicht eingegangen ist. Die Geschäftsführung meint, die Konzentrationswirkung erledige sämtliche Zulassungen. Weitere Dokumente liegen nicht vor; die genannten Inhalte sind vollständig.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis behandelt die wasserrechtliche Erlaubnis beziehungsweise Bewilligung als von Paragraf 13 BImSchG ausgenommene Entscheidung und lehnt die behauptete Vollabdeckung ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die bloße Erwähnung des Brunnens in der Betriebsbeschreibung wird nicht als Erlaubniserteilung ausgelegt; 30.000 Kubikmeter und Starttermin werden der offenen Zulassungsposition zugeordnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Vorlage benennt die fehlende wasserrechtliche Prüfung und Abstimmung als Betriebsrisiko, ohne eine Bewilligung zu erfinden oder eine automatische Gesamtnichtigkeit des Anlagenbescheids zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "immissionsschutz-bimschg"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig über Genehmigung, Wasser, Abfall, Boden, Naturschutz, Umweltinformationen und Unternehmenspflichten gelesen; falscher Rechtsprechungsanker und Normdetail aufgefallen.",
+    "changes": [
+      "BVerwG-Pressemitteilung 79/2023 nicht mehr als Klimaentscheidung verwenden; Störfall-Schwellen den Spalten 4/5 zuordnen, Umweltverfahren und private Ansprüche trennen und überholte pauschale Fristen nicht als geltend ausgeben."
+    ],
+    "sha256": "1009ef17dba9b6e2034c34d5e87294fc025fbb19e6ff50333cdf426020d5acf7"
+  }
 }

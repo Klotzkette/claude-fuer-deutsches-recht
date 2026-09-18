@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "subsumtions-pruefer",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__287.html",
@@ -11,13 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Subsumtionskontrolle muss Normvoraussetzung, Tatsachenbasis und Schlussfolgerung offenlegen und darf fehlerhafte Beweisformeln nicht fortschreiben.",
+    "reason": "Vollständig gelesen; die konkrete Vier-Schritt-Prüfung war tragfähig, die einmalige Rückfrage und feste Tabellenform passten nicht zu ergänzungsbedürftigen Fallpassagen.",
     "changes": [
-      "Vorgegebene Klausurtatsachen von streitigen Aktenbehauptungen getrennt.",
-      "Unbelegte Zwischenschlüsse gezielt markiert.",
-      "Pauschale Ausschöpfungsformel zur Schadensschätzung korrigiert."
+      "Gezielte Fortsetzung nach neuer Fallpassage bis zur korrigierten Subsumtion ergänzt; keine verpflichtende Matrix, Nutzerdateiname und getrennte Arbeitsnotiz klargestellt."
     ],
-    "sha256": "b2d1c8ed56f744eb77e57fcff31d6c245298f4386ed5b07ae192fb5053e6341c"
+    "sha256": "4da547f80b78bd23d0620667cff8629e81779810701748a6c0be6a342f2ef353"
   },
   "selection": {
     "positive": [
@@ -62,5 +60,13 @@
       ],
       "target_skill": "rechtsfolge-bestimmen-einreden-interaktiver"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt enthielt widersprechende Vorgaben zu Gutachten- und Urteilsstil, automatische Schriftsätze und die dem Mini widersprechende Einschränkung des Paragrafen 287 ZPO.",
+    "changes": [
+      "Methodische Prüfung, Beweisfragen, Grundrechte, Unionsrecht und Fristen nach Aufgabenbezug geordnet; keine pauschale Hausarbeit oder Einreichung. Widerspruch zur Schadensschätzung anhand amtlichen Normtexts ausgeräumt; offene Altverallgemeinerungen ausdrücklich zur konkreten Prüfung gestellt."
+    ],
+    "sha256": "16e1806f21eede15753442cfcc589a1a935bb23f36e4b9b78dc8df4d6fbf07ce"
+  }
 }

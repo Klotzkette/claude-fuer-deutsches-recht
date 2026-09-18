@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "pruefungsrecht-hochschule",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.bverwg.de/de/280618B2B57.17.0",
@@ -10,14 +10,21 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Der alte Mini vermischte Schulrecht, Förderung und Hochschulprüfung und lieferte keine belegbezogene Bewertungsrüge.",
+    "verdict": "retained",
+    "reason": "Mini vollständig schlussgelesen. Konkrete Korrekturbemerkung und abgegebene Antwort tragen die Rüge; fehlende Seiten und Störungsnachweise werden gezielt nachgefordert und in die Endfassung eingearbeitet. Keine neue Rechtsverifikation oder Live-Modellprüfung.",
     "changes": [
-      "Korrekturbemerkung, abgegebene Antwort und Seitenbeleg verbunden.",
-      "Überdenken, Rechtsschutzfrist und passende Fehlerfolge getrennt.",
-      "Verifizierten Maßstab des Bewertungsspielraums statt Zulassungsrecht eingebaut."
+      "Belegbezogene Bewertungsrüge, eigenständige Fristenprüfung und auftragsgemäße Endfassung unverändert erhalten."
     ],
-    "sha256": "5a53fc2a874fd60d0ada46c0f38b1d09ae0e03b6d1a010368b51e3c05b4168a3"
+    "sha256": "e1d070d7c2ed1dc15d159910880747868e37a9187202887936acb9971ea5ee80"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Werkstatt vollständig gelesen. Bereits überarbeitete Fassung unterscheidet mündliche Prüfung, Technikstörung, Krankheit, Nachteilsausgleich, Täuschung und Versuchszählung. Nachfragen ändern die konkrete Rüge und Rechtsfolge; Tabellen und Prozessentwürfe sind nicht obligatorisch.",
+    "changes": [
+      "Keine weitere Textänderung erforderlich; konkrete Nachforderungswege und Fortsetzung bis zum bestellten Dokument beibehalten.",
+      "Vorhandene Quellenanker erhalten, ohne deren früheren Prüfzeitpunkt zu erneuern."
+    ],
+    "sha256": "d840acad80d83e921c2a8260927b1c611e812d1bd1802643777ce1753d63bddc"
   },
   "selection": {
     "positive": [

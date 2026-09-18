@@ -3,70 +3,44 @@ name: kaltstart-triage
 description: "Für Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Allgemeiner Einstieg
+# 1. Rechtstheoretische Argumentation ausarbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Ausgangsfrage und Text
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Untersuche den vorliegenden Text oder Gedankengang und liefere die verlangte Begriffsanalyse, Kritik oder Theoriegegenüberstellung. Lies Aufgabenstellung und bisherige Notizen zuerst; ein philosophischer Auftrag verlangt weder automatisch eine praktische Rechtsfrage noch einen Schriftsatz.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Bestimme, ob Geltung, Auslegung, Rechtsfortbildung, Moral, Demokratie, Macht oder Institutionen im Mittelpunkt stehen. Nur nach fehlender Passage, Ausgabe oder Zielsetzung fragen, wenn sie die Analyse verändert. Bereits erklärte Präferenzen und beantwortete Fragen weiterverwenden.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+## 1.2. Argument statt Autorenetikett
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+Rekonstruiere These, Prämissen und Schlussfolgerung. Trenne Beschreibung, moralische Rechtfertigung, rechtliche Geltung und tatsächliche Wirkung. Eine selbst ergänzte Brückenprämisse ausdrücklich kennzeichnen; Autorität oder Schulzugehörigkeit ersetzt kein Argument.
 
-## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Allgemeiner Einstieg` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
-- **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
-- **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
-- **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+Kelsen, Dworkin, Rechtsrealismus oder Diskurstheorie nur anhand der verwendeten Texte zuordnen. Bei Kelsen-orientierter Analyse Normerzeugung und Bewertung, bei Dworkin-orientierter Analyse Regeln, Prinzipien und Integrität untersuchen. Die Schlagworte sind keine bereits verifizierten Werkaussagen.
 
-## Sofort klären
+Bei Larenz und Canaris System- und Wertungsargumente kritisch prüfen. Larenz’ nationalsozialistische Verstrickung und konkrete Ordnungsdenkfiguren historisch belegen, nicht unterschiedslos allen Autoren zuschreiben. Gegenprüfung auf autoritäre, dezisionistische oder scheinobjektive Begründungen bedeutet nachvollziehbare Kritik, nicht eine vorweg feststehende Widerlegung.
 
-1. Geht es um Geltung, Auslegung, Rechtsfortbildung, Moral, Demokratie, System, Macht, Sprache, Präjudiz oder Abwägung?
-2. Welche Norm, Entscheidung, Vertragsklausel, Verwaltungspraxis oder Dogmatik steht im Zentrum?
-3. Wer braucht den Output: Anwalt, Gericht, Mandant, Ministerium, Unternehmen, Wissenschaft oder Öffentlichkeit?
-4. Welche Gefahr besteht: Scheinobjektivität, Scheinlogik, Literaturautorität, Methodenbeliebigkeit, Machtblindheit oder Übertheoretisierung?
+## 1.3. Fehlende Passage und Fortsetzung
 
-## Theorie mit Bodenhaftung
+Fehlt der Textbeleg für eine zugeschriebene Position, frage gezielt danach und analysiere die vorliegende Paraphrase vorläufig als Nutzerfassung. Nach Eingang der Passage prüfe, ob These und Kontext stimmen, korrigiere die Rekonstruktion und schreibe den bestellten Abschnitt fertig.
 
-Jede rechtstheoretische Antwort beginnt mit einer praktischen Rechtsfrage und endet mit einer brauchbaren Argumentkarte:
+Bleibt eine entscheidende Mehrdeutigkeit, darf eine weitere kurze Frage folgen. Kein Abbruch nach zwei Rückfragen und keine neue allgemeine Theorieeinführung nach jeder Antwort. Ein Gegenbeispiel muss dieselben Voraussetzungen betreffen wie die geprüfte Behauptung.
 
-| Schritt | Prüfpunkt | Ausgabe |
-| --- | --- | --- |
-| Ausgangsnorm | Welche Norm, Entscheidung oder Institution wird gedeutet? | Textanker |
-| Methode | Wortlaut, System, Zweck, Geschichte, Prinzip, Präjudiz oder Abwägung? | Methodenmatrix |
-| Theorie | Positivismus, Integrität, Rechtsrealismus, Diskurstheorie, Machtkritik? | Deutungsangebot |
-| Risiko | Wo drohen Scheinlogik, Autoritätsargument, politische Verdeckung oder Beliebigkeit? | Red-Team |
-| Nutzwert | Was folgt für Schriftsatz, Urteil, Gesetzgebung, Vertrag oder Verwaltung? | Formulierungsbaustein |
+## 1.4. Rechtsanwendung nur bei entsprechendem Auftrag
 
-Theorie ist hier kein Schmuck. Sie soll ein rechtliches Problem ordnen, einen blinden Fleck sichtbar machen oder eine Begründung besser tragen.
+Bei einer konkreten Rechtsfrage Norm, Kompetenz, Verfahren und Grundrechtsbezug bestimmen. Theoretische Deutung und zusätzliche positivrechtliche Grundlage getrennt prüfen. Politische oder moralische Präferenzen nicht als geltendes Recht ausgeben.
 
-## Arbeitsprogramm
+Je nach Problem Artikel 1 Absatz 1, 20 Absatz 3, 19 Absatz 4 und 97 Absatz 1 GG, BGB Paragrafen 133, 157 und 242, Paragraf 1 StGB, Artikel 6 Absatz 1 EMRK oder Artikel 47 GRCh amtlich verifizieren. Diese Vorschriften sind keine Pflichtliste eines abstrakten Essays. Wortlaut, System, Zweck und Geschichte begründet verwenden, statt eine Methodenmatrix allein als Ergebnis zu liefern.
 
-1. Ordne die Frage einem Theoriecluster zu.
-2. Kläre, ob die Theorie eine praktische Rechtsfrage löst oder nur den Hintergrund erklärt.
-3. Schlage zwei bis fünf Fachmodule vor.
-4. Liefere eine knappe Arbeitskarte.
+## 1.5. Quellen und Ergebnis
 
-## Regelungs- und Quellenanker
+Historische Positionen und Zitate anhand der tatsächlich zugänglichen Originalquelle prüfen. Literatur nur aus bereitgestelltem oder zulässig verifiziertem Zugriff verwenden; keine erfundenen Fundstellen. Bei echten Rechtsbehauptungen amtliche Texte und Entscheidungen prüfen, `references/zitierweise.md` bei Zugriff beachten.
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Liefere die bestellte Analyse in vollständigen Sätzen mit These, tragenden Gründen, stärkstem Einwand und begrenztem Fazit. Eine Tabelle kann den Vergleich unterstützen, aber nicht die Argumentation ersetzen. Bei einem Hindernis den belastbaren Teil und die benötigte Quelle nennen; nach deren Eingang bis zum bestellten Text fortsetzen.
 
-- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
-- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
-- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
-- `§ 133 BGB` — Auslegung von Willenserklaerungen.
-- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
-- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
-- `§ 1 StGB` — Bestimmtheit im Strafrecht.
-- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
-- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise gesondert halten. Formatierte Texte verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Markdown als Exporthinweis. Veröffentlichung oder Einreichung nur nach ausdrücklicher Freigabe.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+## 1.6. Beispiel und Zugriff
+
+Behauptet ein Text, eine Regel sei wegen ihrer Effizienz gerecht, prüfe die fehlende normative Brückenprämisse. Wird später ein Verteilungsmaßstab nachgereicht, überarbeite die Kritik an diesem Maßstab und nicht an der inzwischen ergänzten Ausgangslücke.
+
+Optionale Fachskills nur für eine tatsächlich nötige Vertiefung nutzen, keine verpflichtende Auswahl von zwei bis fünf Modulen ausgeben. Bei fehlendem Zugriff einen geeigneten anderen Weg versuchen und die konkrete Lücke benennen; keine nicht gelesene Originalquelle als geprüft ausweisen.

@@ -22,7 +22,7 @@ Bei Fremdgeld rekonstruiere Eingang, Empfangsberechtigung, Weiterleitung und ver
 
 ## 1.4 Ergebnis und Begrenzung
 
-Erstelle einen kurzen begründeten Freigabe- oder Ablehnungsvermerk und den gewünschten ausformulierten Text. Verbinde Pflicht, konkrete Tatsache, Beleg und praktische Folge. Trenne Rechtsverstoß, organisatorisches Risiko und bloßen Verbesserungswunsch. Besteht ein Kammerverfahren, benenne dessen tatsächliche Stufe und Frist, statt aus jeder Berufsfrage eine Rügeverteidigung zu machen.
+Erstelle den bestellten Vermerk, Vertrag oder Brief vollständig. Bei einer Annahmeentscheidung begründe die Freigabe oder Ablehnung; ein zusätzlicher Vermerk ist nicht bei jedem Textauftrag nötig. Verbinde Pflicht, konkrete Tatsache, Beleg und praktische Folge. Trenne Rechtsverstoß, organisatorisches Risiko und bloßen Verbesserungswunsch. Besteht ein Kammerverfahren, benenne dessen tatsächliche Stufe und Frist, statt aus jeder Berufsfrage eine Rügeverteidigung zu machen.
 
 Fehlt beim Kollisionsvergleich der frühere Auftragsgegenstand, frage danach, ohne vertrauliche Inhalte unnötig offenzulegen. Fehlt beim Dienstleister eine Zugriffs- oder Unterauftragnehmerregelung, fordere die konkrete Vertragsanlage an. Nach der Antwort passe Bewertung und Formulierung an und schreibe den bestellten Vermerk, Vertrag oder Brief fertig. Neue entscheidende Unklarheiten erlauben weitere kurze Rückfragen; Bekanntes wird nicht erneut erhoben. Bis zur Klärung liefere einen vorläufigen Teilstand, keine scheinbar endgültige Freigabe. Auch eine Nachforderung darf unbekannte Inhalte nicht als feststehend voraussetzen.
 

@@ -194,7 +194,7 @@ Bei einer Schiedsabrede Schiedsort, Recht der Abrede und Hauptvertragsstatut unt
 
 Die Empfehlung unterscheidet zwischen rechtlicher Beanstandung, unbewiesenem Sachverhalt und wirtschaftlich vertretbarer Verhandlungsoption. Eine niedrige Risikostufe braucht eine Begründung; sie darf nicht allein aus Marktüblichkeit oder dem Fehlen bekannter Klagen entstehen. Bei erheblicher Unsicherheit keine Scheingenauigkeit durch Prozentwerte erzeugen. Benenne, welches Dokument oder welche Entscheidung die Einschätzung ändern würde.
 
-Die abschließende Fassung muss den zuletzt geprüften Wortlaut enthalten. Vergleiche insbesondere die Begründung mit dem tatsächlich vorgeschlagenen Text: Ausnahmen, Fristen und geschützte Ansprüche dürfen nicht nur im Memo stehen. Quellen in ihrer Tragweite einordnen und Abrufstand festhalten; nicht für alle Vertragsarten dieselbe Entscheidung anführen. Die in diesem Kern ergänzten Normen wurden am 05.09.2026 amtlich abgeglichen; für einen späteren Auftrag die maßgebliche Fassung erneut prüfen. Die Fachreferenzen bleiben selektive Vertiefungen, keine Pflichtlektüre für jeden Fall.
+Die abschließende Fassung muss den zuletzt geprüften Wortlaut enthalten. Vergleiche insbesondere die Begründung mit dem tatsächlich vorgeschlagenen Text: Ausnahmen, Fristen und geschützte Ansprüche dürfen nicht nur im Memo stehen. Quellen in ihrer Tragweite einordnen und Abrufstand festhalten; nicht für alle Vertragsarten dieselbe Entscheidung anführen. Prüfe die für Vertragsdatum und Prüfauftrag maßgebliche Normfassung. Die Fachreferenzen bleiben selektive Vertiefungen, keine Pflichtlektüre für jeden Fall.
 
 
 ## 13. Technische Grenzen

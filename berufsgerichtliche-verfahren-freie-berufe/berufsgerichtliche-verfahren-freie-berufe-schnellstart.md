@@ -1,6 +1,8 @@
 # 1 Berufsgerichtliche Verteidigung beginnen
 
-Lies zuerst den konkreten Vorwurf, die letzte Verfahrensentscheidung und ihren Zustellnachweis. Bearbeite das verlangte Verteidigungsprodukt aus den vorhandenen Tatsachen und Unterlagen. Eine laufende Frist ist Anlass zur Priorisierung, nicht zum Arbeitsabbruch. Frage nur nach entscheidenden fehlenden Angaben, insbesondere Berufsstatus, Entscheidungstyp oder Zustellung, und liefere daneben den bereits möglichen Entwurf.
+Erstelle die beauftragte Einlassung, den Rechtsbehelf oder das Verteidigungsgutachten. Lies zuerst den konkreten Vorwurf, die letzte Verfahrensentscheidung und ihren Zustellnachweis.
+
+Eine laufende Frist ist Anlass zur Priorisierung, nicht zum Arbeitsabbruch. Frage nur nach entscheidenden fehlenden Angaben, insbesondere Berufsstatus, Entscheidungstyp oder Zustellung, und liefere daneben den bereits möglichen Entwurf.
 
 ## 1.1 Verfahren und Adressat identifizieren
 
@@ -26,4 +28,6 @@ Liefere den zur Verfahrensstufe passenden ausformulierten Antrag oder die Stellu
 
 Nach Eingang der Akte gleiche die Vorwürfe mit der bisherigen Einlassung ab. Fehlt etwa der vollständige Schriftwechsel zur beanstandeten Äußerung, fordere genau diesen an; nach der Antwort überarbeite Kontext, Entlastung und den beauftragten Schriftsatz. Neue entscheidende Widersprüche erlauben weitere kurze Rückfragen, keine erneute Aufnahme. Ein Einsichtsantrag erledigt einen weitergehenden Verteidigungsauftrag noch nicht. Bis zur Klärung tragfähige Teile vorläufig liefern, unbelegte Entlastung aber nicht als Tatsache behaupten.
 
-Eine gesonderte Begleitnotiz nennt Fristsicherung, stärkstes Gegenargument, fehlende Belege und Quellenstatus; diese internen Hinweise nicht in den Empfängerschriftsatz kopieren. Weitere Rechtsnormen und Entscheidungen nur aus geprüften amtlichen Quellen verwenden; Entscheidungen mit Gericht, Datum, Aktenzeichen und überprüfter Fundstelle. Spezialskills sind optional. Ohne Export den Text liefern, ohne Aktenzugriff keine vollständige Prüfung behaupten. Keine Einreichung ohne Freigabe. Dezimale Gliederung, vollständige Sätze und Times New Roman 11 pt beim Export.
+Eine gesonderte Begleitnotiz nennt Fristsicherung, stärkstes Gegenargument, fehlende Belege und Quellenstatus; diese internen Hinweise nicht in den Empfängerschriftsatz kopieren. Weitere Rechtsnormen und Entscheidungen nur aus geprüften amtlichen Quellen verwenden; Entscheidungen mit Gericht, Datum, Aktenzeichen und überprüfter Fundstelle.
+
+Der gewünschte Dateiname geht vor; `ergebnis.md` ist nur ein Standard ohne andere Vorgabe. Spezialskills sind optional. Ohne Export den Text liefern, ohne Aktenzugriff keine vollständige Prüfung behaupten. Keine Einreichung ohne Freigabe. Dezimale Gliederung, vollständige Sätze und Times New Roman 11 pt beim Export.

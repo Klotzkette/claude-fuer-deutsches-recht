@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-sozialgericht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/sgg/__86b.html",
@@ -11,12 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Parteianspruchssprache und Leistungsbescheide passten nicht zur gerichtlichen Rolle.",
+    "reason": "Der vollständige Mini wurde auf gerichtliche Aufklärung, Eilbedarf und Weiterarbeit nach Befund- oder Zahlungsnachweis geprüft.",
     "changes": [
-      "Neutralen Aufklärungs- und Beschlussweg eingeführt.",
-      "Anspruch, Dringlichkeit und monatliche Leistungsdaten getrennt."
+      "Einmalige Rückfragegrenze durch konkrete Befund- und Monatsfragen ersetzt; nach Antwort das bestellte gerichtliche Dokument vervollständigen."
     ],
-    "sha256": "fe5def63e791836e2f888af4ae19bc4ecfed221cbe7827a94906b33fff9c1647"
+    "sha256": "ac03d3499829547f244bad401376b1627bc8a281c429b78a928c98aa19dd0ea7"
   },
   "selection": {
     "positive": [
@@ -61,5 +60,13 @@
       ],
       "target_skill": "03-eilrechtsschutz-paragraf-86b"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde auf neutralen gerichtlichen Ablauf statt Parteiwiderspruch oder Leistungsbescheid geprüft.",
+    "changes": [
+      "Medizinische, rentenrechtliche und monatliche Berechnungswege erhalten; gerichtliche Amtsermittlung, Feststellungslast, Eilentscheidung und Kostenregime getrennt."
+    ],
+    "sha256": "e1482dbd750296274acf60e29342fcbdd59cf41528c4fe0020101d08b27da2b9"
+  }
 }

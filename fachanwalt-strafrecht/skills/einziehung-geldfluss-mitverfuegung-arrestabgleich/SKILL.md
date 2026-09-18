@@ -45,7 +45,7 @@ Ergänzender Belegabgleich bei Sachbeute: BGH, Beschluss vom 04.08.2026, Az. 6 S
 
 Liefere begründete personenbezogene Zurechnung, nachvollziehbare Gegenrechnung und den bestellten Verteidigungstext. Der Nutzername für die Datei ist verbindlich; ohne Vorgabe `ergebnis.md` verwenden. Arrestvergleich nur bei betroffenem Arrest, Nachweisliste nur bei offenen Belegen; ein reiner Prüfauftrag verlangt keinen zusätzlichen Rechtsmittelentwurf.
 
-Quellenprüfvermerke getrennt vom Außenentwurf halten. Keine bloße Rechentabelle als Endprodukt, keine Skelette. Dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
+Quellenprüfvermerke getrennt vom Außenentwurf halten. Keine bloße Rechentabelle als Endprodukt, keine Skelette. Ohne Exportwerkzeug die beauftragte Verteidigungsbewertung oder den Entwurf einschließlich der Gegenrechnung vollständig in der Antwort ausgeben; nur erzeugte Dateien verlinken. Dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
 
 ## 1.6. Beispiele
 

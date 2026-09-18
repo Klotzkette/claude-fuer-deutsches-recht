@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "erbbaurecht-praxis",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/erbbauv/__9a.html",
@@ -15,13 +15,12 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Der Mini war überwiegend Grundstückskauf- und Auflassungsroutine statt Erbbaurecht.",
+    "verdict": "retained",
+    "reason": "Vollständig am 18. September gelesen: Ursprungsklausel, letzte Zinsanpassung und Rangnachweise führen zu gezielter Neuberechnung und fertiger Vertrags- oder Antwortfassung.",
     "changes": [
-      "Erbbaugrundbuch, Wohnanteil und Erbbauzins zum Kern gemacht.",
-      "Auflassung nicht länger pauschaler Vollzugsschritt."
+      "Keine weitere Änderung der Mini-Fassung."
     ],
-    "sha256": "3939246b3991ec8ac2f23db51396733df96e4748358df6dfa39e6de3458e5c8a"
+    "sha256": "c8caf4e5f96ec15b5b04f32e59fada574762bf83daea685861c2627cd2127f35"
   },
   "selection": {
     "positive": [
@@ -66,5 +65,15 @@
       ],
       "target_skill": "erbbauzinsanpassung-paragraph-9a"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Textprüfung am 18. September: Im vollständig gelesenen Altteil wurden Auflassung und gerichtliche Entscheidungsform ungeprüft auf Erbbaurecht und kommunale Vorlage übertragen; Tabellenpflichten widersprachen dem Auftrag.",
+    "changes": [
+      "Grundstücks- und Erbbaurechtsvollzug anhand der bereits im Mini enthaltenen Ausnahme getrennt.",
+      "Kommunale Vorlage als Beschlussvorschlag mit wirtschaftlichen Folgen statt gerichtlichem Tenor gefasst.",
+      "Zins, Rang, Sicherheiten, Kontrollwechsel, Betreiberpflichten und Beendigung erhalten; doppelte Schablonen entfernt."
+    ],
+    "sha256": "9eef7f4a73071e5d538cbcdb28df07092e5564cbd2693ceafde1c2037b507044"
+  }
 }

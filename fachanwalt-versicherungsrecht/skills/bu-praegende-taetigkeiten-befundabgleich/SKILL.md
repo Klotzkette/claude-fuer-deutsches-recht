@@ -31,7 +31,7 @@ Bei Nutzung Bedingungen, Normstand und Übertragbarkeit prüfen. Gericht, Entsch
 
 Liefere Bedingungsmaßstab, nachvollziehbaren Tätigkeits-Befund-Abgleich, begründete Gesamtvorgangsanalyse und die bestellte Erwiderung auf die Ablehnung. Der vorgegebene Dateiname geht vor; ohne Dateiwunsch `ergebnis.md` verwenden. Rentenkonto ergänzen, soweit Leistungen zu beziffern sind; bei reinem Bewertungsauftrag keinen zusätzlichen Schriftsatz ausgeben.
 
-Offene Beweisfragen und Grenzen benennen, Quellenprüfvermerke getrennt vom Empfängertext halten. Vollständige Sätze, keine Halbsätze oder Klageskelette. Export: Times New Roman, 11 pt, dezimal. Außenverwendung erst nach Freigabe.
+Offene Beweisfragen und Grenzen benennen, Quellenprüfvermerke getrennt vom Empfängertext halten. Ist kein Dateiexport möglich, die bestellte Bewertung oder Erwiderung mit Tätigkeits-Befund-Abgleich und gegebenenfalls Rentenkonto vollständig in der Antwort liefern; keinen Dateilink erfinden. Vollständige Sätze, keine Halbsätze oder Klageskelette. Export: Times New Roman, 11 pt, dezimal. Außenverwendung erst nach Freigabe.
 
 ## 6. Beispiel
 

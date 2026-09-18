@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "produktrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R0988",
@@ -11,13 +11,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die alte Fassung enthielt ungesicherte Meldezuständigkeiten und ersetzte bei Gefahr die eigentliche Sicherheitsarbeit durch einen Stopp.",
+    "reason": "Der vollständig geprüfte Mini verlangt bei Gefahr konkrete Sicherheitsarbeit und trennt gesicherte Chargenangaben von offenen Nachweisen. Ergänzungen führen zur Überarbeitung des beauftragten Rückruf- oder Behördentextes.",
     "changes": [
       "Chargen- und Mengenabgleich sowie Rücknahme und Rückruf unterschieden.",
       "Direktinformation, Behördenmeldung und Rückrufinhalt anhand GPSR konkretisiert.",
-      "Ungeprüfte ProdSG- und Bußgeldanker entfernt."
+      "Ungeprüfte ProdSG- und Bußgeldanker entfernt.",
+      "Gezielte Nachforderung mit der Fortsetzung der Sicherheitsbewertung und Dokumenterstellung verbunden."
     ],
-    "sha256": "b87b7da5172b59a2af96fb28bfb0d5d9442eae01e3e6b5bfacf81ac1987da83c"
+    "sha256": "3a0175a18ee1e23204cae708aa205b1b6fc26e375b05c3982bce7078b3947017"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die Ganztextüberarbeitung ordnet Konformität, Gefahr, Lieferkette und Korrekturmaßnahmen in einen zusammenhängenden Arbeitsablauf ein. Haftung, Gewährleistung und Regress bleiben getrennte Prüfungen.",
+    "changes": [
+      "Digitale Bestandteile, Anleitung und Produktbeobachtung an die jeweilige Sicherheitsprüfung angebunden.",
+      "Rückruf und Marktüberwachungsantwort bis zum bestellten Text fortgeführt; externe Meldung und Freigabe nicht mit dem Entwurf gleichgesetzt."
+    ],
+    "sha256": "c8adcf863e008a98f33ff9de1a10389a09b3f3752beb425f1b810fa7981427ca"
   },
   "selection": {
     "positive": [

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-vergaberecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gwb/__127.html",
@@ -36,13 +36,22 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Alttext unterstellte ein Bietermandat und bot Inhouse-Entscheidungen als allgemeine Rügeanker. Der Stoppsatz bei drohendem Zuschlag ließ die notwendige Sicherungsarbeit offen.",
+    "reason": "Mini und Wertungsfokuspaar wurden vollständig auf Kriterien, Punkteberechnung und Rangfolge geprüft.",
     "changes": [
-      "Rollen- und verfahrensabhängigen Einstieg einschließlich Unterschwelle ergänzt.",
-      "Punktespiegel mit Originalformel und Belegkontrolle statt allgemeiner Wertungsfloskeln eingeführt.",
-      "Rüge, Wartefrist und Information durch die Vergabekammer klar getrennt."
+      "Fehlende Wertungsunterlagen gezielt nachfordern und danach Punkte, Rang und bestellte Rüge oder Beratung aktualisieren."
     ],
-    "sha256": "0ef7a54d2872e2165df18d61c2f0ca0f111748f8a0f829c4a7be7bfe9a1301c2"
+    "sha256": "16730da68054ce449a47445371b7dfa79561c4fabc35ca757a0cf75ea3496ce4"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "retained",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [],
+    "prompt_path": "fachanwalt-vergaberecht/fachanwalt-vergaberecht-hauptproblem.md",
+    "prompt_sha256": "31eb777e9d83c468c9f63c29c59788a85d57667c46b01d3f4c8dd9bf86013afa",
+    "skill_path": "fachanwalt-vergaberecht/skills/angebotswertung-punktespiegel-rangfolgenkontrolle/SKILL.md",
+    "skill_sha256": "0c42f7a9570546325c961f1c4a22fa402e8101cad714eab182b0052dc98e7e46"
   },
   "selection": {
     "positive": [
@@ -95,5 +104,13 @@
       ],
       "target_skill": "angebotswertung-punktespiegel-rangfolgenkontrolle"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde auf Bieter- und Auftraggeberrollen sowie Rechtsschutzwege gelesen.",
+    "changes": [
+      "Rüge, Informations- und Wartefristen getrennt; Inhouse- und Registerfragen nur passend zum tatsächlichen Vorgang behandelt."
+    ],
+    "sha256": "9c01f505c9cc763045f262994c5c59eb05b7b486d64e6622437e2ce41391f341"
+  }
 }

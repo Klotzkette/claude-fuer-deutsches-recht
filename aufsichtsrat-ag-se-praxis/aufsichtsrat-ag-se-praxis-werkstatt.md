@@ -1,252 +1,91 @@
-# Aufsichtsrat AG SE Praxis — Werkstatt-Prompt
+# 1. Aufsichtsratsentscheidungen vorbereiten und dokumentieren
 
-Bereite die Entscheidung oder Überwachungsmaßnahme des Aufsichtsrats vor und dokumentiere ihre rechtlichen Voraussetzungen, die Entscheidungsgrundlage und den Beschluss.
+Erstelle das beauftragte Votum, Informationsverlangen, den Beschlussentwurf, Vertrag oder Bericht für die konkrete Aufsichtsratsaufgabe. Unterscheide Überwachung, Zustimmung und eigene Organentscheidung von der Geschäftsführung des Vorstands.
 
-## 1. Rolle und Auftrag
+## 1.1. Organstruktur und Unterlagen
 
-Bereite die beauftragte Aufsichtsratsaufgabe in AG oder SE vor: Überwachung, Informationsverlangen, Bestellung oder Abberufung des Vorstands, Vergütung, Ausschussarbeit oder Protokoll. Lies Satzung, Geschäftsordnung, Vorstandsvorlage und Sitzungsunterlagen; übernimm bekannte Rollen und Ziele aus dem Gespräch.
+Lies Satzung, Geschäftsordnungen, Zustimmungskatalog, Vorstandsvorlage und einschlägige Sitzungsunterlagen zuerst. Übernimm bekannte Rolle, Ziel, Termin und Dokumentwunsch. Fehlt nur der Ausgabeauftrag, kläre, ob ein Fragenpapier, ein Entscheidungsvotum, ein Beschluss oder ein Protokoll benötigt wird; erhebe nicht die gesamte Gesellschaft erneut.
 
-Untersuche Kompetenz, Informationsgrundlage, Interessenkonflikte und Beschlussvoraussetzungen für die konkrete Aufgabe. Unterscheide Überwachung und Geschäftsführung sowie vorbereitete und tatsächlich gefasste Beschlüsse. Keine Anteilsübertragung oder Klage vorbereiten, wenn nur ein Organvotum bestellt ist.
+Bestimme AG oder SE, dualistische oder monistische Struktur, Börsennotierung, Mitbestimmung, Gremienbesetzung und Ausschusszuständigkeit. Bei der monistischen SE keine unveränderte Vorstands-/Aufsichtsratsstruktur unterstellen. Satzung, Organbeschluss und schuldrechtliche Vereinbarung sind unterschiedliche Regelungsebenen.
 
+Andere Gesellschaftsformen nur bei einer tatsächlichen Schnittstelle prüfen. Paragraf 705 BGB, Paragraf 105 HGB sowie Paragrafen 13, 15 und 43 GmbHG betreffen GbR, OHG beziehungsweise GmbH und sind keine allgemeinen Ausgangsnormen der AG-Aufsichtsratsarbeit. Ein Organvotum verlangt weder einen Anteilsübertragungsvertrag noch einen Klageentwurf.
 
-### 1.1. Arbeitsmodus: schnell und belastbar
+## 1.2. Information vor Entscheidung
 
-Fehlt ein konkreter Auftrag, kläre anhand der vorliegenden Tagesordnung, ob Fragen an den Vorstand, ein Votum, Beschlussentwurf oder Protokoll benötigt werden. Bei einer Investitionsvorlage ohne Finanzierungsnachweis fordere diesen gezielt an. Nach Eingang prüfe Finanzierung und Liquiditätswirkung gegen die bisherige Vorlage und arbeite das Ergebnis in das bestellte Dokument ein.
+Erfasse Geschäft, Betrag, wirtschaftlichen Zweck, Finanzierung, Liquiditätswirkung, wesentliche Risiken und ernsthaft erwogene Alternativen. Prüfe, auf welchen Daten und Annahmen die Vorlage beruht und welche Folgen ein Unterlassen hätte. Ein umfangreiches Sitzungspaket kann trotzdem eine entscheidende Information nicht enthalten.
 
-Ergibt sich aus einer Antwort ein neuer erheblicher Widerspruch, frage gezielt dazu nach; bekannte Angaben nicht erneut erheben. Bei fehlendem Abstimmungsnachweis einen Protokollentwurf nicht als tatsächlichen Beschluss ausgeben. Unabhängige Teile vorläufig liefern und nach Klärung bis zum bestellten Ergebnis fortsetzen. Die folgenden Prüfübersichten sind interne Auswahlhilfen, keine Pflichtausgaben.
+Berichtsanlässe, Berichtstiefe, Nachfragen und Sonderberichte anhand [Paragraf 90 AktG](https://www.gesetze-im-internet.de/aktg/__90.html) prüfen. Bei einem Informationsverlangen eines einzelnen Mitglieds die gesetzliche Adressierung an das Gremium beachten. Formuliere die konkret benötigte Auskunft mit Gegenstand und erforderlichem Zeitraum statt allgemein alle Unterlagen anzufordern.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
+Fehlt beispielsweise die Finanzierung einer Investition, fordere Finanzierungsnachweis und Liquiditätsplanung an. Bearbeite Geschäftsbeschreibung und belegte Risiken inzwischen weiter. Nach Eingang gleiche Betrag, Zahlungszeitpunkte und Annahmen mit der bisherigen Vorlage ab und aktualisiere das bestellte Votum. Zeigt die Antwort einen neuen wesentlichen Widerspruch, frage dazu nach, ohne bereits geklärte Angaben zu wiederholen.
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Zeitkritischer Entwurfs- oder Vollzugspunkt: Beschlussanfechtung, Ladung oder Handelsregisterfrist | Termin- und Entscheidungsmatrix mit sofortigem Entwurfsgriff | Notarielle Form oder Registerfrist ist ungeklärt; vor Fortsetzung klären |
-| Tragendes Arbeitsprodukt | Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen | jede Regelung erhält Geschäftsziel, Rechtswirkung und Vollzugsbezug |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall |
-| Deal- und Nachweisarbeit | Klausel-, Risiko- und Vollzugsmatrix | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
-| Regelungsseite | Klausel, Redline, Beschluss oder Closing-Fassung | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| Zwischenstation 1 | Entwurfsstand mit offener Entscheidung | Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen |
-| Zwischenstation 2 | Entwurfsstand mit offener Entscheidung | Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen |
-| Entscheidungsvorlage | verhandlungsfähige Empfehlung mit Fassungsvarianten | Wirtschaftsziel, Rechtswirkung, Risiko und Vollzug zusammenführen |
+Bei Krisensignalen die Aufklärung auf belastbare Liquiditätsdaten, Entwicklung seit dem letzten Bericht und konkrete Gegenmaßnahmen richten. Berichtstakt und Folgebefassung anhand der Lage begründen; weder ein Protokoll noch eine formelhafte Berichtsanforderung beseitigt eine Krise oder Haftung.
 
-### 1.3. Rückfragenbremse
+## 1.3. Zustimmungsvorbehalt und Beschlussreife
 
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Notarielle Form oder Registerfrist ist ungeklärt.
-3. Dokumentstand und Risikozuweisung vor Formulierung ordnen: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
+Vergleiche das konkrete Geschäft mit dem Wortlaut des Zustimmungskatalogs. Bestimme Schwelle, Bezugsgröße, Zusammenrechnung, Ausnahmen und Zeitpunkt. Eine interne Wertgrenze ist keine gesetzliche allgemeine Grenze. Ein bereits abgeschlossenes Geschäft wirft andere Fragen auf als eine noch bevorstehende Investition.
 
-### 1.4. Votum und Beschluss verständlich formulieren
+Prüfe [Paragraf 111 AktG](https://www.gesetze-im-internet.de/aktg/__111.html), insbesondere Absatz 4: Zustimmungsvorbehalte ersetzen keine Übertragung der Geschäftsführung. Der Aufsichtsrat entscheidet über die ihm zustehende Zustimmung, nicht automatisch über die operative Durchführung oder Vertretung der Gesellschaft.
 
-Das Votum erläutert, welches Geschäft zur Entscheidung steht, welche Informationen vorliegen und warum Zustimmung, Ablehnung oder Vertagung empfohlen wird. Der Beschlussentwurf bezeichnet Geschäft, Umfang und gegebenenfalls bestimmte Bedingungen. Interne Prüfbegriffe und pauschale Haftungsformeln nicht in den Beschlusstext übernehmen; konkrete Haftungsfragen getrennt begründen. Die unten genannten Normen anderer Gesellschaftsformen nur bei entsprechendem Fallbezug prüfen.
-## 2. Stop-Kriterien
+Wäge Zustimmung, Ablehnung, Vertagung und hinreichend bestimmte Bedingungen anhand der Informationslage ab. Eine Bedingung darf die entscheidende offene Risikoprüfung nicht unbemerkt dem Vorstand überlassen. Fehlt die Finanzierungsgrundlage, begründe die erforderliche Nachforderung oder fehlende Beschlussreife statt pauschal eine Zustimmung „nach pflichtgemäßem Ermessen“ zu formulieren.
 
-- Notarielle Form oder Registerfrist ist ungeklärt.
-- Organhaftung, Insolvenznähe oder Interessenkonflikt steht im Raum.
-- Gesellschafterliste, Vollmacht oder Beschlussfassung ist widersprüchlich.
-- Wenn Parteirolle, Vertretungsmacht, wirtschaftlicher Parameter, Gremienfreigabe oder Dokumentstand offen sind, wird zuerst eine Entscheidungsliste mit Auswirkung auf den Entwurf erzeugt.
-- Offene Verhandlungspunkte, Bedingungen und Vollzugsvoraussetzungen bleiben im Entwurf sichtbar; sie werden nicht stillschweigend als vereinbart behandelt.
+Das Votum benennt Geschäft, Informationsgrundlage, entscheidende Risiken und Empfehlung. Der Beschlussentwurf bezeichnet Geschäft, Umfang und konkrete Bedingungen. Interne Prüffelder, pauschale Haftungsformeln und ein gerichtlicher Tenor gehören nicht in den Beschlusstext.
 
-## 3. Werkstattfluss
+## 1.4. Beschlussfähigkeit, Konflikte und Protokoll
 
-### 3.1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen
+Prüfe Besetzung, Einberufung, Tagesordnung, Teilnahme, Beschlussfähigkeit, Abstimmungsform und Mehrheit anhand der einschlägigen aktien- oder SE-rechtlichen Regeln sowie Satzung und Geschäftsordnung. Ausschussvorbereitung und Entscheidung des Gesamtgremiums auseinanderhalten. Keine Abstimmung aus einem vorbereiteten Beschlussvorschlag ableiten.
 
-Entwurfsgriff Prüfstation: Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Regelung samt Variante und Vollzugsschritt; die Rückfallposition bleibt sichtbar.
+Erfasse konkrete Beziehungen zu Vertragspartnern, Beratern oder betroffenen Organmitgliedern. Offenlegung, Zugang zu Unterlagen, Teilnahme an Beratung und Abstimmung jeweils gesondert prüfen. Aus einer Rollenüberschneidung nicht ohne Prüfung eine universelle Stimmsperre ableiten.
 
-### 3.2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen
+Fehlt der Nachweis über Teilnahme oder Abstimmung, frage nach Sitzungsnotiz, Anwesenheitsliste oder dokumentiertem Ergebnis. Formuliere den übrigen Protokollentwurf weiter, ohne den offenen Vorgang als tatsächlich geschehen auszugeben. Nach Eingang den Wortlaut des gefassten Beschlusses, Stimmenverhältnis und Konfliktbehandlung abgleichen und das Protokoll fertigstellen.
 
-Entwurfsgriff Prüfstation: Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Regelung samt Variante und Vollzugsschritt; die Rückfallposition bleibt sichtbar.
+Dokumentiere Unterlagen mit Fassung und Datum, wesentliche Fragen und Antworten, Alternativen, verbleibende Unklarheiten und tatsächliche Beschlüsse. Ein Protokoll hält den Vorgang fest; es schafft keine fehlende Entscheidungskompetenz und ersetzt keine unterbliebene Befassung. Rechtsbehelfe oder eine Anfechtung nur bei entsprechendem Auftrag untersuchen.
 
-### 3.3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen
+## 1.5. Geschäftsordnung und Vorstandsangelegenheiten
 
-Entwurfsgriff Prüfstation: Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Regelung samt Variante und Vollzugsschritt; die Rückfallposition bleibt sichtbar.
+Für die Geschäftsordnung des Vorstands Satzung, Bestellung, Ressortverteilung und Aufsichtsratsbeschlüsse abgleichen. Gesamtleitung nach Paragraf 76 AktG, Geschäftsordnung und Beschlussfassung nach Paragraf 77 AktG, Vertretung nach Paragraf 78 AktG, Berichte nach Paragraf 90 AktG und Zustimmungsvorbehalte nach Paragraf 111 Absatz 4 AktG zusammenführen. Interne Geschäftsführungsbefugnis und äußere Vertretungsmacht bleiben getrennt.
 
-### 3.4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen
+Formuliere Zuständigkeiten, Informationswege, Konfliktlösung und Eilbefassung so, dass sie zusammenpassen. Fehlt etwa eine Regelung zur Vertretung während einer Abwesenheit, frage gezielt nach der vorhandenen Organbesetzung und Ressortabdeckung. Nach der Antwort die betroffenen Klauseln anpassen, nicht den gesamten Bestellungsprozess neu beginnen.
 
-Entwurfsgriff Prüfstation: Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Regelung samt Variante und Vollzugsschritt; die Rückfallposition bleibt sichtbar.
+Bei Bestellung, Abberufung und Vorstandsvertrag Organstellung und Dienstvertrag getrennt prüfen. Vertragsentwürfe regeln die tatsächlich beauftragten Punkte, insbesondere Aufgaben, Vergütung, Laufzeit, Beendigung und erforderliche Nebenpflichten. Die Änderung eines Vertrags ist nicht automatisch eine organschaftliche Bestellung oder Abberufung.
 
-### 3.5. Arbeitsprodukt
+Bei einem Ersuchen im Zusammenhang mit Mutterschutz, Elternzeit oder Pflege nach Paragraf 84 Absatz 3 AktG Verhinderungsgrund, gewünschten Zeitraum, Vorstandsbesetzung und Dienstvertrag auswerten. Prüfe Beginn und Ende, Leitungs- und Vertretungsfähigkeit, Wiederbestellung, Registerbezug, Vergütung und Kommunikation jeweils eigenständig. Ein fehlender Zeitraum oder eine ungeklärte Ressortvertretung führt zur konkreten Rückfrage; nach Klärung Beschluss und gegebenenfalls Vertragsnachtrag vollständig ausarbeiten.
 
-Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Regelung samt Variante und Vollzugsschritt; die Rückfallposition bleibt sichtbar.
+## 1.6. Abschluss, Nachhaltigkeit und Bericht an die Hauptversammlung
 
-## 4. Regelungs- und Vollzugsfallkarte
+Beim Jahresabschluss und Lagebericht die vorgelegten Fassungen, Prüfungsberichte, kritischen Bilanzierungsfragen und offenen Antworten des Vorstands oder Prüfers abgleichen. Unterscheide fachliche Bewertung, noch erforderliche Information und die konkrete Organentscheidung. Ein Entwurf darf keine erfolgte Prüfung oder Billigung behaupten, die nicht nachgewiesen ist.
 
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Geschäfts- und Regelungskern | Aufsichtsrat Bank: KWG-Fit-and-Proper-Anforderungen | BGB Paragraf 705 | Entwurfsvermerk mit Ziel- und Rückfallposition |
-| Mechanik und Fassung | Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf | HGB Paragraf 105 | Klausel oder Redline mit Varianten |
-| Nachweis und Freigabe | Geschäftsordnung Vorstand | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Gremien-, Bedingungs- und Dokumentenmatrix |
-| Vollzug | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich | Verantwortlicher, Termin und Erfüllungsnachweis | Signing-, Closing- oder Registerliste |
+Ist beispielsweise eine wesentliche Bewertungsannahme nicht erläutert, fordere ihre Herleitung und die dazugehörige Prüfungsfeststellung an. Arbeite die belegten Teile der Stellungnahme weiter aus. Nach Eingang Auswirkungen auf Bewertung, Entscheidungsvorschlag und Bericht an die Hauptversammlung nachvollziehen und die bestellte Fassung fertigstellen.
 
-## 5. Rechtsanker, Regelungsmechanik, Nachweis und Vollzug
+Bei Nachhaltigkeitsberichterstattung nach CSRD zunächst Anwendungsbereich, Berichtszeitraum und aktuell geltende Vorgaben prüfen. Unternehmensdaten, Nachweise, Prüfungsumfang und Aufgaben des Aufsichtsrats unterscheiden. Keine Berichtspflicht oder Übergangsfrist aus einer ungeprüften früheren Fassung übernehmen.
 
-| Rechtsanker | Regelungsmechanik | Nachweis und Freigabe | Vollzugsfolge |
-| --- | --- | --- | --- |
-| BGB Paragraf 705 | Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| HGB Paragraf 105 | offene Handelsgesellschaft | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| GmbHG Paragraf 13 | Rechtsnatur der GmbH | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| GmbHG Paragraf 15 | Übertragung von Geschäftsanteilen | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsführer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| AktG Paragraf 93 | Sorgfaltspflicht und Verantwortlichkeit des Vorstands | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| Paragraf 93/Paragraf 116 AktG | Business Judgment Rule nur bei informierter, interessenfreier, unternehmerischer Entscheidung | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+Der Bericht an die Hauptversammlung beschreibt die tatsächlich ausgeübte Überwachung und Befassung. Sitzungen, Ausschussarbeit, Prüfungshandlungen und Entscheidungen anhand der Unterlagen darstellen; nicht aus einer allgemeinen Checkliste als erfolgt ergänzen. Eine fehlende Protokollstelle gezielt nachfordern und den betroffenen Berichtsteil danach vervollständigen.
 
-## 6. Rechtsprechungsanker, Quellenstatus und Risikozuweisung
+## 1.7. Eigenhaftung und Entscheidungsgrundlage
 
-- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
-- Rechtsfolge zuerst als Arbeitsprodukt denken: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich
-- Quellenstatus gesondert dokumentieren: Aktenfund, geprüfter Normtext, belegte Rechtsprechung oder offene Prüfung. Abrufstatus und technische Hinweise nicht in Beschluss oder Mandantenbrief übernehmen.
+Bei einem Haftungsauftrag Pflichtenkreis, Verhalten, Pflichtverletzung, Zurechnung, Kausalität und Schaden auseinanderhalten. Ordne jeder entscheidenden Behauptung den konkreten Beleg und der Anspruchsgrundlage die jeweils geltende Darlegungs- und Beweislast zu. Die Beweislast nicht pauschal für sämtliche Organhaftungsfragen gleichsetzen.
 
-## 7. Pflichtnormen und Vollzugsanker
+Paragrafen 93 und 116 AktG bilden einschlägige Prüffelder. Die Business Judgment Rule nicht auf jede Aufsichtsratsaufgabe übertragen: Informationsgrundlage, Interessenfreiheit und unternehmerischer Entscheidungscharakter sind gesondert zu prüfen. Rechtlich gebundene Entscheidungen und unternehmerische Abwägungen auseinanderhalten.
 
-- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
-- HGB Paragraf 105: offene Handelsgesellschaft.
-- GmbHG Paragraf 13: Rechtsnatur der GmbH.
-- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
-- AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
-- Paragraf 93/Paragraf 116 AktG: Business Judgment Rule nur bei informierter, interessenfreier, unternehmerischer Entscheidung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 90 AktG als Mindestlinie nutzen: Berichtsanlässe, Berichtstiefe, Nachfragen, Sonderberichte und Eskalation bei Ausweichen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 25d Abs. 1 KWG – Anforderungen an Mitglieder des Aufsichtsorgans: Zuverlässigkeit, ausreichende Sachkunde zur Wahrnehmung der Kontrollfunktion; eigenverantwortliche Beurteilung von Entscheidungen der Geschäftsleitung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 25d Abs. 3 KWG – Kollektiver Sachverstand des Aufsichtsorgans: Gesamtgremium muss Kenntnisse in Bankgeschäft, Risikomanagement, Rechnungslegung, Vergütung, Regulierung und IT abdecken; Eignungsmatrix erforderlich; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 25d Abs. 8 KWG – Mandatshöchstzahl: bei bedeutenden Instituten (Paragraf 1 Abs. 3c KWG) maximal 1 Exekutivmandat + 2 Nicht-Exekutivmandate oder 4 Nicht-Exekutivmandate; Konzernprivileg zählt als ein Mandat; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 25d Abs. 9 KWG – Vergütungsausschuss: Pflicht bei bedeutenden Instituten; mindestens 3 Mitglieder; Unabhängigkeit; Überwachung Vergütungspolitik (InstVergV); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 25d Abs. 11 KWG – Risikoausschuss: Pflicht bei bedeutenden Instituten; Risikostrategie, Risikoappetit, ICAAP/ILAAP-Überwachung; Bericht an Gesamtgremium; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 36 Abs. 3 KWG – Abberufung von Aufsichtsratsmitgliedern durch BaFin: bei dauerhafter Ungeeignetheit oder Unzuverlässigkeit; BaFin-Anhörungspflicht; Klagerecht beim VG Frankfurt; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+Untersuche bei Fallbezug Einwendungen, Mitverantwortung, Verjährung, Versicherung und bezifferte Folgen. Fehlt ein Schadensbeleg, frage nach Berechnung und zugrunde liegender Zahlung oder Vermögensentwicklung. Nach der Antwort die betroffenen Schadenspositionen und das Gutachten aktualisieren; keine unbekannten Beträge ergänzen.
 
-## 8. Leitentscheidungen
+Ein Haftungsmemo beantwortet den Prüfauftrag begründet. Ein Anspruchsschreiben oder eine Klage nur bei entsprechender Bestellung ausarbeiten. Dokumentation ist wichtig, aber keine pauschale Haftungsfreistellung.
 
-- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
+## 1.8. Besonderheiten beaufsichtigter Institute
 
-## 9. Prüfraster
+Bankaufsichtliche Anforderungen nur bei einem tatsächlich betroffenen Institut hinzunehmen. Prüfe nach Paragraf 25d KWG Zuverlässigkeit, Sachkunde, zeitliche Verfügbarkeit, Mandate, kollektive Eignung und erforderliche Ausschüsse anhand der aktuellen Normfassung. Bestimme für die konkrete Mandats- oder Ausschussfrage den einschlägigen Absatz und prüfe dessen Anwendungsbereich, Ausnahmen und Anforderungen; pauschale Mandatshöchstzahlen ersetzen diese Zuordnung nicht.
 
-1. Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
-2. Wer ist Organ, Gesellschafter, Vertreter oder wirtschaftlich Berechtigter.
-3. Welche Beschluss- oder Formanforderung ist Wirksamkeitsvoraussetzung.
-4. Welche Haftungsnorm und welcher Schaden sind konkret.
-5. Welcher Vollzugsschritt ist noch offen.
-6. Welcher wirtschaftliche Parameter, Beschluss, Beleg oder Verhandlungspunkt fehlt noch für die Regelung.
-7. Welche Klausel, Redline, Entscheidungsvorlage oder Vollzugshandlung löst den nächsten Deal-Engpass.
+Gleiche Lebensläufe, Mandatsübersicht, Zeitbudget und dokumentierte Kenntnisse mit den konkreten Aufgaben ab. Bankgeschäft, Risikomanagement, Rechnungslegung, Vergütung, Regulierung und IT nach dem Anforderungsprofil des Gremiums berücksichtigen. Fehlende Erfahrung nicht allein durch eine ausgefüllte Eignungstabelle als vorhanden behandeln.
 
-## 10. Regelungs-, Verhandlungs- und Vollzugsgerüst
+EBA/GL/2021/06 und das BaFin-Merkblatt zum Aufsichtsorgan sind vorhandene Rechercheansätze; deren aktuelle Geltung und konkreten Inhalt vor einer tragenden Verwendung prüfen. Bei Fragen zu Paragraf 36 Absatz 3 KWG Maßnahme, Zuständigkeit, Anhörung und Rechtsschutz fallbezogen untersuchen, nicht aus einer allgemeinen Ortsangabe ableiten.
 
-10.1. Regelungsziel: Benenne Parteien, Geschäftsziel, gewünschte Rechtswirkung und Vollzugszustand: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
-10.2. Rechtsrahmen: Bestimme die einschlägige aktien- oder SE-rechtliche Grundlage und die maßgeblichen Satzungsregeln. BGB Paragraf 705 und HGB Paragraf 105 betreffen die unten bezeichneten anderen Gesellschaftsformen, nicht den allgemeinen Einstieg in eine Aufsichtsratsprüfung.
-10.3. Gegenstand: Bearbeite die tatsächlich anstehende Organaufgabe. Bankaufsichtliche Anforderungen nur bei einem betroffenen Institut hinzunehmen.
-10.4. Dokumentstand: Nenne Fassung, Datum, Klausel, Datenraumfund, Beschluss oder Q&A-Antwort; im Bereich Gesellschaftsrecht tragen regelmäßig Gesellschaftsvertrag, Gesellschafterliste, Beschlussprotokoll und Handelsregisterauszug den Nachweis.
-10.5. Nachweis und Freigabe: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment. Zeige die Folge eines offenen Parameters oder fehlenden Beschlusses.
-10.6. Gegenposition: Formuliere die stärkste Verhandlungsposition der anderen Seite; sie setzt typischerweise bei Ladungs- und Beschlussmängeln sowie der Vertretungsmacht an.
-10.7. Rückfallposition: Antworte mit konkreter Alternativfassung, Preis- oder Vollzugsausgleich und zeige die Auswirkung auf Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
-10.8. Entwurf und Vollzug: Schließe mit Ausgabe entlang der Kernfelder Aufsichtsrat Bank: KWG-Fit-and-Proper-Anforderungen, Geschäftsordnung Vorstand, Mutterschutz Elternzeit Pflege 84 Abs 3, Dokumentationsstandard: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt; Verantwortlicher, Termin, Bedingung und Erfüllungsnachweis sind ausformuliert.
-10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
+Fehlt beispielsweise die vollständige Mandatsübersicht, fordere betroffene Mandate und Zeitaufwand gezielt an. Nach Eingang Eignungsbewertung und beauftragte Kommunikation anpassen. Eine Vorbereitung ist keine behördliche Eignungsbestätigung und keine Ermächtigung zur Meldung.
 
-## 11. Outputvarianten und Empfängerwunsch
+## 1.9. Endfassung und Quellen
 
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| schnell entscheiden | Deal- oder Regelungsvermerk | Ziel, BGB Paragraf 705; HGB Paragraf 105, Risikozuweisung und nächster Entwurfsgriff |
-| verhandeln | Positionsmatrix | Ausgangsfassung, Ziel, Rückfallposition, Begründung und Tauschmasse |
-| formulieren | Klausel oder Redline | Tatbestand, Mechanik, Rechtsfolge, Nachweis, Frist und Rechtsbehelf |
-| beschließen | Gremienvorlage | Kompetenz, Informationsgrundlage, Interessenkonflikt, Beschlusstext und Auftrag |
-| vollziehen | Signing- oder Closing-Liste | Bedingung, Dokument, Verantwortlicher, Termin, Freigabe und Nachweis |
+Prüfe, ob die verlangte Fassung tatsächlich vorliegt und neue Antworten eingearbeitet sind. Liefere ein vollständig ausformuliertes Votum, Informationsverlangen, Protokoll, einen Vertrag oder Beschlussentwurf, nicht bloß eine Liste weiterer Arbeitsschritte. Bei einem Hindernis den bearbeitbaren Teil und die konkrete noch benötigte Angabe nennen; nach ihrer Klärung dort fortsetzen.
 
-## 12. Arbeitsweise
+Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Standard ohne andere Vorgabe. Formatierte Dokumente soweit möglich in Times New Roman 11 pt und dezimal gestalten. Beschlussfassung, Unterzeichnung, Versand und Registerhandlungen weder erfinden noch ohne ausdrückliche Freigabe ausführen.
 
-Lies vorhandene Vorlagen und Beschlüsse, bevor du fehlende Informationen erfragst. Auch bei umfangreichem Material können entscheidende Nachweise fehlen. Fragen dienen der Klärung dieser Punkte; nach jeder Antwort die betroffene Beurteilung und Dokumentfassung aktualisieren. Tabellen nur für erforderliche Vergleiche, Berechnungen oder Nachweise ausgeben.
+Tragende Normen und Rechtsprechung anhand überprüfbarer Quellen sichern. Entscheidungen nur mit sicherem Gericht, Datum, Aktenzeichen und nachvollziehbarem Inhalt verwenden; ansonsten die konkrete Rechtsfrage als offen behandeln. Quellenstatus und technische Einschränkungen gesondert dokumentieren, nicht in den Beschluss oder Empfängerbrief übernehmen.
 
-Selbstcheck vor Ausgabe: Sind Vertragsstand, Entscheidungskompetenz, Verhandlungstermin und Vollzugszeitpunkt benannt? Sind wirtschaftliches Ziel, Rechtswirkung, Risikozuweisung und Vollzug deckungsgleich? Sind offene Punkte, Fassungsvarianten und Gremienfreigaben sichtbar?
-
-## 13. Qualitätskontrolle und Abschluss
-
-Zum Abschluss wird das Ergebnis auf widersprüchliche Definitionen, offene Parameter, unklare Risikozuweisung, fehlende Kompetenz, unerfüllbare Frist und lückenhaften Vollzug geprüft. Besonders zu kontrollieren ist in diesem Gebiet: Welcher Vollzugsschritt ist noch offen. Danach folgt eine knappe Anschlussliste: entscheiden, redlinen, beschließen, nachfordern, vollziehen oder als offenen Punkt ausweisen.
-
-## 14. Musterbausteine
-
-- Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
-- Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
-
-## 15. Fachliche Entscheidungslandkarte
-
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
-
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| Aufsichtsrat Bank: KWG-Fit-and-Proper-Anforderungen | Prüfe die bankaufsichtsrechtlichen Anforderungen an Aufsichtsratsmitglieder von KWG-Instituten nach Paragraf 25d KWG. | Kontrollvermerk zu Aufsichtsrat Bank: KWG-Fit-and-Proper-Anforderungen mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
-| Geschäftsordnung Vorstand | Gleiche Satzung, Vorstandsbestellung, Geschäftsverteilung und Aufsichtsratsbeschlüsse ab. | Entwurfsbaustein zu Geschäftsordnung Vorstand mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-| Mutterschutz Elternzeit Pflege 84 Abs 3 | Lege Ersuchen des Vorstandsmitglieds, Verhinderungsgrund, gewünschten Zeitraum, Vorstandsbesetzung, Ressortabdeckung und Dienstvertrag nebeneinander. | Entwurfsbaustein zu Mutterschutz Elternzeit Pflege 84 Abs 3 mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-| Dokumentationsstandard | Bearbeite Dokumentationsstandard: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Eigenhaftung Aufsichtsrat | Bearbeite Eigenhaftung Aufsichtsrat: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Entscheidungsvorlage Check | Bearbeite Entscheidungsvorlage Check: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| HV Bericht Aufsichtsrat | Bearbeite HV Bericht Aufsichtsrat: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Kontrollvermerk zu HV Bericht Aufsichtsrat mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
-| Jahresabschluss und Lagebericht | Bearbeite Jahresabschluss und Lagebericht: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Entwurfsbaustein zu Jahresabschluss und Lagebericht mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-| Nachhaltigkeitsbericht Csrd | Bearbeite Nachhaltigkeitsbericht Csrd: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Entwurfsbaustein zu Nachhaltigkeitsbericht Csrd mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-
-## 16. Fachspezifische Praxisrouten
-
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
-
-### 16.1. Aufsichtsrat Bank: KWG-Fit-and-Proper-Anforderungen
-
-Bearbeitungsauftrag: Prüfe die bankaufsichtsrechtlichen Anforderungen an Aufsichtsratsmitglieder von KWG-Instituten nach Paragraf 25d KWG. Paragraf 25d Absatz 1 KWG – Anforderungen an Mitglieder des Aufsichtsorgans: Zuverlässigkeit, ausreichende Sachkunde zur Wahrnehmung der Kontrollfunktion; eigenverantwortliche Beurteilung von Entscheidungen der Geschäftsleitung. Paragraf 25d Absatz 3 KWG – Kollektiver Sachverstand des Aufsichtsorgans: Gesamtgremium muss Kenntnisse in Bankgeschäft, Risikomanagement, Rechnungslegung, Vergütung, Regulierung und IT abdecken.
-Prüfschritte: Er verknüpft die Eignungsanforderungen (Zuverlässigkeit, Sachverstand, Zeitbudget) mit den Mandatshöchstzahlen, dem kollektiven Sachverstand und der BaFin-Kommunikation; Grundlage sind Paragraf 25d KWG, EBA/GL/2021/06 und das BaFin-Merkblatt Aufsichtsorgan.
-Normbezug aus dem Fachmaterial: Prüfe die bankaufsichtsrechtlichen Anforderungen an Aufsichtsratsmitglieder von KWG-Instituten nach Paragraf 25d KWG; Er verknüpft die Eignungsanforderungen (Zuverlässigkeit, Sachverstand, Zeitbudget) mit den Mandatshöchstzahlen, dem kollektiven Sachverstand und der BaFin-Kommunikation.
-Lieferstück: Kontrollvermerk zu Aufsichtsrat Bank: KWG-Fit-and-Proper-Anforderungen mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
-
-### 16.2. Geschäftsordnung Vorstand
-
-Bearbeitungsauftrag: Gleiche Satzung, Vorstandsbestellung, Geschäftsverteilung und Aufsichtsratsbeschlüsse ab. Regle Gesamtleitung nach Paragraf 76 AktG, Geschäftsordnung und Beschlussfassung nach Paragraf 77 AktG, Vertretung nach Paragraf 78 AktG, Berichte nach Paragraf 90 AktG und Zustimmungsvorbehalte nach Paragraf 111 Absatz 4 AktG; trenne interne Geschäftsführungsbefugnis von äußerer Vertretungsmacht und liefere beschlussfähige Fassung samt Konflikt- und Eilregel.
-Lieferstück: Entwurfsbaustein zu Geschäftsordnung Vorstand mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.3. Mutterschutz Elternzeit Pflege 84 Abs 3
-
-Bearbeitungsauftrag: Lege Ersuchen des Vorstandsmitglieds, Verhinderungsgrund, gewünschten Zeitraum, Vorstandsbesetzung, Ressortabdeckung und Dienstvertrag nebeneinander. Bereite den Aufsichtsratsbeschluss nach Paragraf 84 Absatz 3 AktG mit Beginn und Ende, gesicherter Leitungs- und Vertretungsfähigkeit, Wiederbestellung, Registermeldung, Vergütung und Kommunikation vor; trenne die organschaftliche Bestellung strikt vom Dienstvertrag.
-Lieferstück: Entwurfsbaustein zu Mutterschutz Elternzeit Pflege 84 Abs 3 mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.4. Dokumentationsstandard
-
-Bearbeitungsauftrag: Bearbeite Dokumentationsstandard: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Formuliere jede entscheidungserhebliche Behauptung, ordne Originalfundstelle, Beweisführer, Beweismittel, Echtheit, Bestreiten, Zugangsrecht und Beweismaß zu und übersetze die verbleibende Lücke in eine konkrete Beschaffungs- oder Beweishandlung.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.5. Eigenhaftung Aufsichtsrat
-
-Bearbeitungsauftrag: Bearbeite Eigenhaftung Aufsichtsrat: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.6. Entscheidungsvorlage Check
-
-Bearbeitungsauftrag: Bearbeite Entscheidungsvorlage Check: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.7. HV Bericht Aufsichtsrat
-
-Bearbeitungsauftrag: Bearbeite HV Bericht Aufsichtsrat: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
-Lieferstück: Kontrollvermerk zu HV Bericht Aufsichtsrat mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
-
-### 16.8. Jahresabschluss und Lagebericht
-
-Bearbeitungsauftrag: Bearbeite Jahresabschluss und Lagebericht: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
-Lieferstück: Entwurfsbaustein zu Jahresabschluss und Lagebericht mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.9. Nachhaltigkeitsbericht Csrd
-
-Bearbeitungsauftrag: Bearbeite Nachhaltigkeitsbericht Csrd: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
-Lieferstück: Entwurfsbaustein zu Nachhaltigkeitsbericht Csrd mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.10. Vorstandsvertrag
-
-Bearbeitungsauftrag: Bearbeite Vorstandsvertrag: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.11. Beschlussfähigkeit
-
-Bearbeitungsauftrag: Bearbeite Beschlussfähigkeit: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
-Lieferstück: begründete Beurteilung der Beschlussfähigkeit und bei Auftrag ein darauf abgestimmter Beschluss- oder Protokollentwurf, kein gerichtlicher Tenor.
-
-### 16.12. Haftungsradar
-
-Bearbeitungsauftrag: Bearbeite Haftungsradar: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-## 17. Technische Grenzen
-
-Ohne weitere Skills hier weiterarbeiten; ohne Export den Text liefern. Bei fehlendem Datei- oder Quellenzugriff den betroffenen Prüfpunkt in einer Arbeitsnotiz kennzeichnen und einen geeigneten Alternativweg versuchen, ohne erfolgreiche Abrufe oder vollständige Prüfung zu behaupten. Unabhängige Teile weiterbearbeiten und neue Fassungen erneut prüfen. Beschlüsse, Unterzeichnung, Versand oder Registerhandlungen nur nach ausdrücklicher Freigabe ausführen, nie als erfolgt erfinden.
+Ohne weitere Skills hier weiterarbeiten; deren Verfügbarkeit ist keine Voraussetzung. Bei fehlendem Zugriff die konkrete Unterlage oder Quelle benennen und unabhängige Teile bearbeiten. Ohne Export den vollständigen Text liefern, keine erzeugte Datei oder erfolgte Prüfung behaupten. Neue oder widersprechende Fassungen erneut abgleichen, unveränderte belegte Auszüge weiterverwenden.

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-familiengericht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/famfg/__113.html",
@@ -11,12 +11,24 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Pauschale Amtsermittlung und fachfremde Anklage-/Strafbefehlsprodukte waren für Familiensachen falsch.",
+    "reason": "Mini vollständig gelesen: Die Verfahrensunterscheidung und Stichtagsprüfung waren tragfähig, aber die Begrenzung auf eine Rückfrage widersprach der nötigen Fortsetzung bei fehlenden Einkommens- und Vermögensbelegen.",
     "changes": [
-      "Verfahrensweiche nach Paragraf 113 und Beschlussrolle klargestellt.",
-      "Zugewinn mit Vermögenspositionen, Belegen und Stichtagen konkretisiert."
+      "Starre Rückfragegrenze durch gezielte Klärung neuer entscheidender Lücken ersetzt.",
+      "Nach Eingang von Einkommens-, Zahlungs- oder Stichtagsbelegen betroffene Rechnung und Beschlussentwurf aktualisieren lassen.",
+      "Quellenstatus vom Beschlusstext getrennt und Nutzerdateinamen vor ergebnis.md gestellt."
     ],
-    "sha256": "6868a387c39980b764b85275c1b377bf60e975cd25a07bc36a4478a5f3f8c5c9"
+    "sha256": "f121c02aec969854ad0644c1241130e4b834720e8206c078f9a78eb54f075d68"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig gelesen und nach Überarbeitung nochmals vollständig geprüft: Doppelte Themenrouten und pauschale Vorgaben zu Amtsermittlung, Anhörung und Beschwerde verdeckten die unterschiedlichen Familienverfahren.",
+    "changes": [
+      "Verfahrensbezogene Aufklärung und gezielte Fortsetzung bis zum bestellten Beschluss zusammengeführt.",
+      "Kindschaft, Gefährdung, Unterhalt, Zugewinn und Versorgungsausgleich in eigene Bearbeitungsabschnitte mit Belegen und Anschlussentscheidungen eingeordnet.",
+      "Entscheidung ohne mündliche Verhandlung von Gehörsausnahmen sowie Beschwerdefrist und Abhilfebefugnis nach Entscheidungsart getrennt.",
+      "Unverifizierte ältere Rechtsprechungsangaben als Recherchehinweise erhalten; technische Grenzen ans Ende gestellt."
+    ],
+    "sha256": "a9d17dfa38a9142391f4cda901d34112a013831a99ad08c33224f7714ddf37e9"
   },
   "selection": {
     "positive": [

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "seerecht-schifffahrtsrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/hgb/__504.html",
@@ -11,13 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Seefracht verlangt eigene Beteiligten- und Haftungslogik; Landfrachtgrenzen und unpassende Schiffbauverweise führen fehl.",
+    "reason": "Mini vollständig zu Schiff, Beteiligten, Haftungsgrenze und Nachweisen gelesen; eine Pflichtmatrix und einmalige Rückfrage verhinderten den passenden Abschluss.",
     "changes": [
-      "Vertragspartner, Schiff, Flagge und Register getrennt erhoben.",
-      "Seefrachtgrenze mit Packstück- und Gewichtsvergleich konkretisiert.",
-      "Schiffsidentität und Sicherungsbedarf statt allgemeiner Transportabfrage priorisiert."
+      "Fehlende Identitäts-, Container- und Gewichtsbelege gezielt nachfordern, nach Antwort Haftungsberechnung und verlangtes Dokument aktualisieren; Dateiname und Auftrag gehen vor."
     ],
-    "sha256": "39b537dc21dd7a6ab1544e4608413a5bd5242c069cf1e8652f7c014164a96eb1"
+    "sha256": "6f8b6eb7eba8a1187d10a8a39f2be6932d941c5516601445fb50af42dc577b4b"
   },
   "selection": {
     "positive": [
@@ -62,5 +60,13 @@
       ],
       "target_skill": "kaltstart-schifffahrtsmandat"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Ganze Werkstatt einschließlich der zwölf See- und Schifffahrtsthemen geprüft; doppelte Standardrouten und sachlich falsche Normzuordnungen gefunden.",
+    "changes": [
+      "Schiffskauf, Register, Charter, Haftung, Versicherung, Bergung und weitere vorhandene Themen geordnet; SchRG 2/3, VVG 209 und HGB 480/576/577 abgegrenzt, unbelegte Pauschalzuordnungen entfernt."
+    ],
+    "sha256": "654611f364740dccc341c5e204ae46d683c313953131348376ca997d35dcccb4"
+  }
 }

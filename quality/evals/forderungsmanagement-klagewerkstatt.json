@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "forderungsmanagement-klagewerkstatt",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__286.html",
@@ -11,13 +11,18 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt verlangt eine belegte Klageentscheidung; das Mini vermischte Zahlungsanspruch und Schadensersatz und enthielt sachfremde beziehungsweise ungenaue VOB-Anker.",
+    "reason": "Aktuellen Mini vollständig gelesen. Der allgemeine Auftragsvorrang wurde noch durch einen vorgeschriebenen Klageentwurf oder bloße Nachforderung unterlaufen. Die Beweislastmerksätze waren zu pauschal. Redaktionelle Fortsetzungsprüfung, kein Live-Modelltest.",
     "changes": [
-      "Verbraucherhinweis und einseitiges Rechnungsziel differenziert.",
-      "Forderungskonto mit Teilzahlungen und Zeitpunkt der Rechtsverfolgungskosten ergänzt.",
-      "Unpassende Miet- und VOB-Anker entfernt."
+      "Rechnung in das tatsächlich bestellte Dokument überführen; Nachforderung ausdrücklich als Zwischenschritt behandeln.",
+      "Pauschale Beweislast für sämtliche Einwendungen durch konkrete Zuordnung ersetzt."
     ],
-    "sha256": "e52108c0de1f80abaf4d249ece6ab0c66cc0b199dad9c4dbdc12c938b39bf44f"
+    "sha256": "28f0c077bbddb217aa8b3b0c0270fe8f644e51086ef2f4d0297edc05b9278c29"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Gesamte Werkstatt einschließlich Praxisrouten gelesen. Vorhandene Übersichten bleiben Auswahlhilfen, keine Pflichtausgaben. Konkrete Widersprüche betrafen Abschluss mit Fragenliste, automatisches Vollstrecken, Klauselbedarf und Mahnverfahren. Paragrafen 688, 689 und 796 ZPO am 18.09.2026 im amtlichen Einzelnormtext gelesen; übrige Quellen nicht erneut verifiziert. Bestehende ausführliche Übersichtsstruktur nicht neu geschrieben; kein Live-Modelltest.",
+    "changes": ["Pflichtausgaben und Fragenlistenabschluss dem bestellten Dokument untergeordnet; Nutzerdateiname priorisiert.", "Widersprüchliche Gesellschafterhaftungsanweisung und pauschalen Bearbeitungsstopp entfernt.", "Klauselbedarf beim Vollstreckungsbescheid nach Paragraf 796 begrenzt und eigenmächtige Vollstreckung ausgeschlossen.", "Auslandszustellung, Verbraucherkreditzinsgrenze und ausschließliche Zuständigkeit des Amtsgerichts Wedding korrigiert."],
+    "sha256": "808e484f89d3d28999878262b64131e68dfeea83f9f055a5642eaf1bde046e63"
   },
   "selection": {
     "positive": [

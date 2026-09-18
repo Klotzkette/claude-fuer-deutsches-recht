@@ -1,10 +1,66 @@
 {
-  "schema_version": 1, "plugin": "aktenauszug-gerichtsverfahren", "reviewed_on": "2026-09-14", "sources": [],
-  "mini_review": {"sha256":"cd447f8fe60f3541360ea25463369c5b27638c8e65ae8bb9cecbe70af71758cf","verdict": "revised", "reason": "Der vollständig gelesene Mini verlangte eine prozessfähige Route und förmliche Entscheidungen statt des im Hauptworkflow beschriebenen neutralen Sechs-Bausteine-Auszuges. Werkstatt und Hauptworkflow wurden auf diese Abweichung abgeglichen.", "changes": ["Neutrale Verfahrensidentifikation, Zusammenfassung und getrennte Chronologien als Hauptprodukt hergestellt.", "Antragsfassungen, Tatsachenvortrag, Beweisangebot und Beweisergebnis ausdrücklich getrennt.", "Unpassende ZPO-Pflichtanker und pauschalen Fristenstopp entfernt."]},
-  "selection": {"positive": ["Erstellen Sie zur Mandatsübergabe einen neutralen Auszug aus den Gerichtsunterlagen.", "Stellen Sie die wechselnden Parteivorträge und Beweisangebote mit Fundstellen gegenüber."], "negative": ["Formulieren Sie eine Klageerwiderung mit eigener Verteidigungsstrategie.", "Erstellen Sie sechs Excel-Register einer strafrechtlichen Ermittlungsakte für die Verteidigung."]},
-  "cases": [{"id": "zahlungsklage-antragsaenderung", "request": "Erstellen Sie ergebnis.md als neutralen vollständigen Aktenauszug für die interne Übergabe. Vollständiger verfügbarer Bestand: LG Bonn, 3 O 999/26, Klägerin Nord GmbH gegen Süd GmbH, erste Instanz. Klageschrift vom 01.08.2026, Blatt 1 bis 4: 18000 Euro Kaufpreis für Maschine, Lieferung laut Klägerin am 15.06.2026; Beweisangebot Zeugin Eva Kurz. Erwiderung vom 20.08.2026, Blatt 12 bis 15: Beklagte behauptet Lieferung erst am 25.06.2026 und einen Funktionsmangel, beantragt Abweisung und bietet ein Sachverständigengutachten an. Schriftsatz der Klägerin vom 01.09.2026, Blatt 20: reduziert den Zahlungsantrag wegen einer Zahlung auf 15000 Euro; zur Lieferzeit keine neue Erklärung. Verfügung vom 08.09.2026, Blatt 23: Gericht weist auf fehlende nähere Mangelbeschreibung hin und bestimmt Termin am 15.10.2026. Kein Beweisbeschluss, keine Vernehmung, kein Gutachten und kein Zustellnachweis liegen vor. Anwälte und Streitwertbeschluss sind nicht mitgeteilt.", "input_files": [], "deliverables": ["ergebnis.md"], "criteria": [
-    {"id": "C01", "text": "Stellt den aktuellen Antrag auf 15000 Euro neben die frühere Fassung, ohne den Reduktionsgrund zu einer nicht belegten gerichtlichen Entscheidung auszubauen.", "deliverables": ["ergebnis.md"]},
-    {"id": "C02", "text": "Trennt die beiden behaupteten Lieferdaten und die Beweisangebote von festgestellten Tatsachen und tatsächlich erhobenen Beweisen.", "deliverables": ["ergebnis.md"]},
-    {"id": "C03", "text": "Erstellt getrennte Sachverhalts- und Verfahrenschronologien sowie Gegenüberstellungen und behandelt den Hinweis vom 08.09. nicht als Sachentscheidung.", "deliverables": ["ergebnis.md"]}
-  ], "target_skill": "aktenauszug-erstellen"}]
+  "schema_version": 1,
+  "plugin": "aktenauszug-gerichtsverfahren",
+  "reviewed_on": "2026-09-18",
+  "sources": [],
+  "mini_review": {
+    "sha256": "0d0a8fc1b14bc6b2787709c46923ebe4cc13a4180ac5aeee9b4d397baae53917",
+    "verdict": "revised",
+    "reason": "Der vollständige Mini wurde auf den neutralen Aktenauszug und die Fortsetzung nach fehlenden Verfahrensunterlagen geprüft.",
+    "changes": [
+      "Fehlende Schriftsätze, Protokolle und Zustellungsbelege gezielt nachfordern; nach Eingang den Auszug aktualisieren."
+    ]
+  },
+  "selection": {
+    "positive": [
+      "Erstellen Sie zur Mandatsübergabe einen neutralen Auszug aus den Gerichtsunterlagen.",
+      "Stellen Sie die wechselnden Parteivorträge und Beweisangebote mit Fundstellen gegenüber."
+    ],
+    "negative": [
+      "Formulieren Sie eine Klageerwiderung mit eigener Verteidigungsstrategie.",
+      "Erstellen Sie sechs Excel-Register einer strafrechtlichen Ermittlungsakte für die Verteidigung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zahlungsklage-antragsaenderung",
+      "request": "Erstellen Sie ergebnis.md als neutralen vollständigen Aktenauszug für die interne Übergabe. Vollständiger verfügbarer Bestand: LG Bonn, 3 O 999/26, Klägerin Nord GmbH gegen Süd GmbH, erste Instanz. Klageschrift vom 01.08.2026, Blatt 1 bis 4: 18000 Euro Kaufpreis für Maschine, Lieferung laut Klägerin am 15.06.2026; Beweisangebot Zeugin Eva Kurz. Erwiderung vom 20.08.2026, Blatt 12 bis 15: Beklagte behauptet Lieferung erst am 25.06.2026 und einen Funktionsmangel, beantragt Abweisung und bietet ein Sachverständigengutachten an. Schriftsatz der Klägerin vom 01.09.2026, Blatt 20: reduziert den Zahlungsantrag wegen einer Zahlung auf 15000 Euro; zur Lieferzeit keine neue Erklärung. Verfügung vom 08.09.2026, Blatt 23: Gericht weist auf fehlende nähere Mangelbeschreibung hin und bestimmt Termin am 15.10.2026. Kein Beweisbeschluss, keine Vernehmung, kein Gutachten und kein Zustellnachweis liegen vor. Anwälte und Streitwertbeschluss sind nicht mitgeteilt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Stellt den aktuellen Antrag auf 15000 Euro neben die frühere Fassung, ohne den Reduktionsgrund zu einer nicht belegten gerichtlichen Entscheidung auszubauen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt die beiden behaupteten Lieferdaten und die Beweisangebote von festgestellten Tatsachen und tatsächlich erhobenen Beweisen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erstellt getrennte Sachverhalts- und Verfahrenschronologien sowie Gegenüberstellungen und behandelt den Hinweis vom 08.09. nicht als Sachentscheidung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "aktenauszug-erstellen"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde auf neutrale Dokumentauswertung statt Parteistrategie oder gerichtliche Eigenentscheidung durchgesehen.",
+    "changes": [
+      "Anträge, Vortrag und Beweisergebnis getrennt; aus Nachreichungen den bestellten Auszug fertigstellen."
+    ],
+    "sha256": "efc212f5e3b02cd129fbc9e6a223962c02a02d3c96ee1117c9ace20c3cfd683a"
+  }
 }

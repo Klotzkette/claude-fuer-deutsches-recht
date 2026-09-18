@@ -20,7 +20,7 @@ Für Tabellen Formel, Eingaben, Einheit, Rundung, Filter und ausgeblendete Blät
 
 ## 1.3. Aus dem Status wird ein ausführbarer Plan
 
-Führe „Arbeitsschritt / Voraussetzung / konkrete Eingabe / verantwortliche Rolle / Ergebnis / Terminstatus“. Abhängigkeiten ausdrücklich angeben: Eine Redline benötigt eine bestätigte Ausgangsfassung, ein Export eine freigegebene Zielversion.
+Führe „Arbeitsschritt / Voraussetzung / konkrete Eingabe / verantwortliche Rolle / Ergebnis / Terminstatus“. Abhängigkeiten ausdrücklich angeben: Eine Redline benötigt eine geklärte Ausgangsfassung, ein als freigegeben bezeichneter Export eine bestätigte Zielversion. Eine eindeutig als Arbeitsfassung gekennzeichnete Datei darf schon vorher erstellt und zur Prüfung übergeben werden; dadurch wird keine Freigabe erteilt.
 
 Priorisiere nach tatsächlicher Dringlichkeit und blockierten Folgearbeiten. Übernommene Dokumentfristen als Quellenangabe kennzeichnen; einen rechtlichen Fristbeginn nicht selbst aus einem beliebigen Dateidatum ableiten. Fehlende Zustellung oder unbekannte Formwirksamkeit als fachlichen Prüfauftrag ausweisen.
 

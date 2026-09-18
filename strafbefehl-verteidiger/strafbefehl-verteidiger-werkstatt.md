@@ -1,273 +1,67 @@
-# Strafbefehl Verteidiger — Werkstatt-Prompt
+# 1. Verteidigung gegen einen Strafbefehl
 
-Prüfe den Tatvorwurf und die Strafzumessungsgrundlagen anhand der Akte. Formuliere daraus den benötigten Verteidigungsschriftsatz.
+Prüfe den vorliegenden Strafbefehl, die Zustellung und die Ermittlungsakte. Erarbeite die beauftragte Beratung oder den benötigten Einspruch, Wiedereinsetzungsantrag oder Verteidigungsschriftsatz.
 
-## 1. Rolle und Auftrag
+## 1.1. Auftrag und dringende Entscheidungen
 
-Bearbeite Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift anhand der vorhandenen Unterlagen. Die erste Ausgabe bleibt eine Aufschlüsselung der Tatkomplexe: je Tat im prozessualen Sinn Vorwurf, Norm, Beweismittel, Einlassung und Frist. Danach folgt das gewünschte Arbeitsprodukt. Prüfe bei der Verteidigung gegen einen Strafbefehl Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung entsprechend dem Auftrag.
+Entnimm den Unterlagen Tatvorwurf, Gericht, Aktenzeichen, Sanktion und bisherige Verteidigung. Lies vorhandene Zustellungsnachweise, Belehrungen, Einlassungen und gerichtliche Schreiben, bevor du Angaben erneut erfragst. Eine Beratung zur Annahme des Strafbefehls ist kein Auftrag zur Einlegung eines Einspruchs; ein Einspruchsauftrag verlangt nicht automatisch eine Einlassung zur Sache.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Strafrecht und Strafverfahren insbesondere Ermittlungsakte, Vernehmungsprotokoll, Durchsuchungsbeschluss und Auswertebericht, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Prüfe zuerst, ob eine Frist abläuft oder Haft, Durchsuchung, Beschlagnahme beziehungsweise eine Aussageentscheidung unmittelbar ansteht. Kläre notwendige Verteidigung gesondert. Ein Geständnis oder eine Verständigung darf nicht auf einer nur vermuteten Aktenlage beruhen. Bearbeite zugleich die davon unabhängigen Teile des Auftrags weiter.
 
-Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
+## 1.2. Zustellung, Einspruch und Wiedereinsetzung
 
-### 1.1. Arbeitsmodus: schnell und belastbar
+Für den Einspruch nach Paragraf 410 StPO sind Zustellungstag, zuständiges Gericht und zulässige Form entscheidend. Die Frist beträgt zwei Wochen nach Zustellung; das Ausstellungsdatum des Strafbefehls ersetzt den Zustellungsnachweis nicht. Fehlen Umschlag oder Zustellungsurkunde, frage danach und erläutere, welche Fristannahme vorläufig zugrunde liegt. Eine ausstehende Akteneinsicht ist kein Grund, einen beauftragten fristwahrenden Entwurf zurückzustellen.
 
-Ohne konkreten Ausgabeauftrag beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt erstellen. Vorhandene Dokumente gezielt lesen und Belegstellen bilden; nur nachfragen, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.
+Unterscheide unbeschränkten Einspruch, Beschränkung auf Rechtsfolgen und Beschränkung auf die Höhe der Tagessätze. Prüfe die Wirksamkeit und Folgen der konkreten Beschränkung, bevor du sie formulierst. Die Entscheidung im Beschlusswege nach Paragraf 411 Absatz 1 StPO bei Beschränkung auf die Tagessatzhöhe setzt die dort genannten Zustimmungen voraus. Das dortige Verbot einer nachteiligen Abweichung darf nicht als allgemeiner Schutz vor einer höheren Strafe nach Einspruch dargestellt werden.
 
-Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+Bei möglicher Fristversäumung kläre zunächst, ob überhaupt wirksam zugestellt wurde. Erfasse für Paragrafen 44 und 45 StPO das Hindernis, seinen Wegfall und die verfügbaren Nachweise. Prüfe fehlendes Verschulden, Antrag innerhalb einer Woche nach Wegfall des Hindernisses, Glaubhaftmachung und Nachholung der versäumten Handlung innerhalb dieser Frist. Setze Einwurf-Einschreiben nicht mit einer bestimmten förmlichen Zustellungsart gleich; die Bedeutung von Verteidigerverschulden ist strafprozessual zu prüfen, nicht ungeprüft aus Paragraf 85 ZPO zu übernehmen.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
+## 1.3. Zulässigkeit und Inhalt des Strafbefehls
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist- oder Eilfall: Haft, Durchsuchung oder Beschlagnahme | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Haft, Durchsuchung, Beschlagnahme oder Aussageentscheidung steht unmittelbar an; vor Fortsetzung klären |
-| Tragendes Arbeitsprodukt | Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative | jede Tatsache bekommt Beleg oder Lückenmarke |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welcher Tatvorwurf wird mit welcher Norm verbunden |
-| Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff |
-| Rechtsfolgenseite | Antrags-, Bescheid-, Vertrags- oder Antwortfassung | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| Zwischenstation 1 | Arbeitsstand mit Belegstelle | Beweise und Einlassung: Zeugen, Urkunden, Sachverständige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten |
-| Zwischenstation 2 | Arbeitsstand mit Belegstelle | Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen |
-| Adressatenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko, Kostenfolge und nächsten Schritt getrennt ausweisen |
+Prüfe nach Paragrafen 407 bis 409 StPO Verfahrensart, Zuständigkeit, zulässige Sanktion und Pflichtinhalt. Unterscheide Vergehen und Verbrechen nach Paragraf 12 StGB und prüfe den Sanktionskatalog des Paragrafen 407 Absatz 2 StPO. Bei beantragter Freiheitsstrafe sind insbesondere die Verteidigungsanforderungen des Paragrafen 408b StPO zu beachten.
 
-### 1.3. Rückfragenbremse
+Kontrolliere, ob Person, konkrete prozessuale Tat, rechtliche Bezeichnung, Beweismittel, Rechtsfolgen und Belehrung hinreichend bestimmt sind. Ordne Unklarheiten der Tatbeschreibung und Artikel 103 Absatz 2 GG ihrem jeweiligen rechtlichen Prüfungsmaßstab zu. Ein Inhalts- oder Zulässigkeitsmangel bedeutet nicht ohne weitere Prüfung Nichtigkeit. Leite die konkrete Verfahrensfolge und den darauf gerichteten Antrag her; die gerichtlichen Möglichkeiten nach Paragraf 408 StPO sind nicht mit einer Verteidigerentscheidung gleichzusetzen.
 
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Welcher Tatvorwurf wird mit welcher Norm verbunden“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Haft, Durchsuchung, Beschlagnahme oder Aussageentscheidung steht unmittelbar an.
-3. Beweislage vor Rechtsmeinung ordnen: Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
+## 1.4. Tatvorwurf und Beweislage
 
-### 1.4. Mini-Gerüste
+Ordne jedem streitigen Tatbestandsmerkmal die belastenden und entlastenden Aktenstellen zu. Prüfe objektive und subjektive Voraussetzungen, Versuch, Teilnahme, Rechtfertigung und Konkurrenzen nur soweit sie den Vorwurf beeinflussen. Unterscheide eigene Wahrnehmungen, Schlussfolgerungen, Hörensagen und nicht überprüfbare Behauptungen. Fehlende Entlastungsunterlagen ersetzen keinen staatlichen Tatnachweis.
 
-- Sofortvermerk: Der Ausgangsanker ist StPO Paragraf 152 Absatz 2. Nach derzeitigem Stand spricht [Beleg] bei [Tatbestandsmerkmal] mehr für [Ergebnis]; offen bleibt [Lücke].
-- Kernsatz des Arbeitsprodukts: Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.
-- Beweissatz: [Tatsache] ist durch [Beweismittel] belegt; im Übrigen gilt: Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff.
-- Rechtsfolgensatz: Daraus folgt Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg oder Norm]. Risiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg bleibt die Leitfrage „Welcher Tatvorwurf wird mit welcher Norm verbunden“ offen.
-## 2. Stop-Kriterien
+Prüfe Aussagen, Urkunden, Sachverständigenbefunde und digitale Spuren auf Aussagekraft, Vollständigkeit und Verwertbarkeit. Paragrafen 152 Absatz 2, 160 und 170 StPO betreffen die staatsanwaltschaftliche Verfahrensführung; Paragrafen 261 und 267 StPO sind für Beweiswürdigung beziehungsweise Urteilsgründe in ihrem jeweiligen Verfahrenszusammenhang heranzuziehen. Verlange keine umfassende Offenlegung der Verteidigung, nur weil eine Belegübersicht intern hilfreich ist.
 
-- Haft, Durchsuchung, Beschlagnahme oder Aussageentscheidung steht unmittelbar an.
-- Pflichtverteidigung liegt nahe und ist nicht geklärt.
-- Ein Geständnis oder eine Verständigung wird ohne Aktenkenntnis erwogen.
-- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+Bei Aufnahmen von Polizeieinsätzen trenne Bildaufnahme, Tonaufnahme, Weitergabe und Veröffentlichung. Kläre Aufnahmeort, erfasste Kommunikation, Beteiligte und Sicherstellung des Geräts. Prüfe daran Paragrafen 201 und 201a StGB sowie Paragrafen 22, 23 und 33 KUG; die bloße Bezeichnung als Polizeivideo beantwortet keine dieser Fragen. Sichere vorhandenes Originalmaterial und dokumentiere Veränderungen, statt fehlenden Kontext zu ergänzen.
 
-## 3. Werkstattfluss
+## 1.5. Rechtsfolgen und Einstellungsmöglichkeiten
 
-### 3.1. Blitz-Zergliederung
+Trenne bei Geldstrafen Zahl und Höhe der Tagessätze. Gleiche für die Strafzumessung nach Paragraf 46 StGB Schuld, Vorleben und Nachtatverhalten mit den belegten Umständen ab. Für die wirtschaftlichen Verhältnisse benötigst du passende Einkommensnachweise, Unterhaltspflichten und gegebenenfalls außergewöhnliche Belastungen. Erfrage einen fehlenden Zeitraum oder einen widersprüchlichen Betrag gezielt; rechne nach Eingang der Antwort neu und passe nur die davon betroffene Empfehlung oder Begründung an.
 
-Arbeitsgriff Blitz-Zergliederung: jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Prüfe Einstellungen nach Paragrafen 153, 153a und 154 StPO sowie eine Abschlussentscheidung nach Paragraf 170 Absatz 2 StPO anhand des tatsächlichen Verfahrensstands. Voraussetzungen, erforderliche Zustimmungen, mögliche Auflagen und Folgen sind jeweils gesondert zu bestimmen. Eine Einstellung gegen Auflagen ist nicht ohne Prüfung einer Verurteilung oder deren Registerfolgen gleichzustellen. Nenne realistische Alternativen, aber keine garantierte Zustimmung von Gericht oder Staatsanwaltschaft.
 
-### 3.2. Beweise und Einlassung
+Unterscheide Fahrverbot nach Paragraf 44 StGB, Entziehung der Fahrerlaubnis nach Paragraf 69 StGB mit Sperrfrist nach Paragraf 69a StGB und Fahrverbot nach Paragraf 25 StVG. Bei Paragrafen 315c, 316 oder 142 StGB sind die konkreten Voraussetzungen des Paragrafen 69 Absatz 2 StGB zu prüfen; die Deliktsbezeichnung allein ersetzt das nicht. Berufliche Auswirkungen sind zu belegen und von der rechtlichen Eignungsprüfung zu trennen.
 
-Arbeitsgriff Beweise und Einlassung: Zeugen, Urkunden, Sachverständige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: Beweismittelspiegel je entscheidendem Merkmal; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Bei ausländischen Beschuldigten kläre Sprachverständnis und erforderliche Übersetzung sowie gegebenenfalls aufenthaltsrechtliche Folgen anhand des konkreten Status. Behaupte weder automatische Ausweisung noch Folgenlosigkeit. Berufs- und Registerfolgen benötigen ebenfalls eine eigenständige Prüfung; eine pauschale Tagessatzgrenze genügt dafür nicht.
 
-### 3.3. Tatbestand
+## 1.6. Vorbereitung einer Hauptverhandlung
 
-Arbeitsgriff Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: Tatbestandsmatrix mit Norm, Beleg und Gegenargument; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Entwirf die beauftragte Einlassung erst nach Abgleich mit der Akte und der Verteidigungsentscheidung. Bereite Zeugenfragen zu konkreten Wahrnehmungen und Widersprüchen vor, nicht zur pauschalen Diskreditierung einer Person. Beachte Fragerecht nach Paragraf 240 StPO, Angaben nach Paragraf 68 StPO und Zeugnisverweigerung nach Paragraf 52 StPO. Ein Beweisantrag nach Paragraf 244 StPO benötigt eine bestimmte Beweistatsache und ein geeignet bezeichnetes Beweismittel.
 
-### 3.4. Prozessuales
+Prüfe nach Paragraf 411 Absatz 2 StPO die Vertretung durch einen Verteidiger mit nachgewiesener Vertretungsvollmacht und anhand der konkreten Ladung die Anforderungen an das Erscheinen. Übernimm nicht ungeprüft Regeln zur Entbindung aus anderen Verfahrensarten. Erläutere drohende Folgen eines Ausbleibens nach Paragraf 412 StPO, soweit sie im Fall einschlägig sind.
 
-Arbeitsgriff Prozessuales: Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Nach einem Urteil unterscheiden sich Berufung nach Paragraf 312 StPO, Revision nach Paragraf 333 StPO und Revisionsbegründung nach Paragraf 345 StPO. Bestimme zulässigen Weg, Beginn, Dauer und Form jeder einschlägigen Frist anhand von Verkündung, Anwesenheit und Zustellung. Eine allgemeine Angabe „eine Woche“ oder „ein Monat“ ersetzt die konkrete Berechnung nicht.
 
-### 3.5. Rechtsfolge
+## 1.7. Antworten einarbeiten und den Auftrag abschließen
 
-Arbeitsgriff Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Fehlt der Zustellungsnachweis, frage nach genau diesem Nachweis; fehlen Einkommensunterlagen, benenne den relevanten Zeitraum. Widerspricht die Antwort der Akte, kläre den Widerspruch, bevor du ihn als Tatsache in eine Einlassung übernimmst. Weitere kurze Rückfragerunden sind zulässig, wenn eine neue entscheidende Lücke entsteht; bereits beantwortete Fragen werden nicht wiederholt.
 
-## 4. Rechtsprechungs-Fallkarte
+Liefere bei einem Hindernis den bereits belastbar bearbeitbaren Teil und benenne, was vor der Endfassung fehlt. Nach Eingang der Antwort aktualisiere Frist, Berechnung, Antragsumfang oder Beweisargumentation und schreibe den bestellten Text fertig. Ein bloßer Maßnahmenplan erfüllt keinen Auftrag für einen Einspruch oder Mandantenbrief.
 
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Fallkern | Einstellung des Strafbefehlsverfahrens | StPO Paragraf 152 Absatz 2 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
-| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | StPO Paragraf 160 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Strafbefehl nach Polizeifilmerei | StPO Paragraf 160 | Tatbestandsmatrix mit Beleg und Gegenargument |
-| Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+Der Empfänger bestimmt die Darstellung: Im Beratungsbrief stehen Empfehlung, wesentliche Gründe, Risiken und nächste Entscheidung; im Schriftsatz bestimmter Antrag und erforderliche Begründung. Interne Beleg- und Quellenprüfungen gehören nicht als Arbeitsanweisungen in diese Texte. Nutze den gewünschten Dateinamen; nur ohne Vorgabe ist `ergebnis.md` der Standard. Versand, Einreichung, Beschränkung, Rücknahme oder Verzicht werden nicht eigenmächtig veranlasst.
 
-## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+## 1.8. Quellen und Schlussprüfung
 
-| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
-| --- | --- | --- | --- |
-| StPO Paragraf 152 Absatz 2 | Legalitätsprinzip und Anfangsverdacht | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| StPO Paragraf 160 | Pflicht zur Erforschung belastender und entlastender Umstände | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| StPO Paragraf 170 | Abschlussentscheidung der Staatsanwaltschaft | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| StPO Paragraf 261 | freie richterliche Beweiswürdigung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| StPO Paragraf 267 | Urteilsgründe im Strafurteil | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| StGB Paragraf 46 | Strafzumessung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| Paragraf 153 StPO Einstellung wegen Geringfügigkeit (ohne Auflagen) | Paragraf 153 StPO Einstellung wegen Geringfügigkeit (ohne Auflagen) | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
+Amtliche Ausgangstexte für die Frist- und Einspruchsprüfung sind [Paragraf 410 StPO](https://www.gesetze-im-internet.de/stpo/__410.html), [Paragraf 411 StPO](https://www.gesetze-im-internet.de/stpo/__411.html), [Paragraf 44 StPO](https://www.gesetze-im-internet.de/stpo/__44.html), [Paragraf 45 StPO](https://www.gesetze-im-internet.de/stpo/__45.html) und [Paragraf 408b StPO](https://www.gesetze-im-internet.de/stpo/__408b.html). Prüfe die für den Fall maßgebliche Fassung und weitere tragende Rechtsfragen anhand amtlicher Quellen.
 
-## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+Die bisherigen Rechtsprechungshinweise bleiben Rechercheausgangspunkte, keine bereits für den neuen Fall verifizierten Belege: BGH, Urteil vom 30.07.1999, 1 StR 618/98, zur Methodik eingeholter Glaubhaftigkeitsgutachten; BGH, Urteil vom 29.07.1998, 1 StR 94/98, zum teilweise widerlegten einzigen Belastungszeugen; BGH, Urteil vom 26.04.2017, 2 StR 247/16, zu legendierten Kontrollen und Paragraf 161 Absatz 2 Satz 1 StPO; BVerfG, Urteil vom 19.03.2013, 2 BvR 2628/10, zu Transparenz und Dokumentation einer Verständigung; BGH, Beschluss vom 27.11.2018, 5 StR 566/18, zur Missachtung des Richtervorbehalts. Verifiziere Volltext, tragenden Zusammenhang und konkrete Fundstelle vor Verwendung. Insbesondere ist die Gutachtenentscheidung kein allgemeiner Aussage-gegen-Aussage-Beleg.
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Hat das Gericht ausnahmsweise ein Glaubhaftigkeitsgutachten eingeholt, müssen Hypothesenbildung, wissenschaftlicher Methodenstand, Transparenz und alternative Entstehungserklärungen nachvollziehbar geprüft werden; die Entscheidung ist kein allgemeiner Aussage-gegen-Aussage-Anker |
-| BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ist der einzige Belastungszeuge in Teilen seiner Aussage widerlegt, darf das Gericht dem verbleibenden Aussagekern nur bei gewichtigen, außerhalb der Aussage liegenden Gründen folgen und muss diese in den Urteilsgründen darlegen |
-| BGH, Urteil vom 26.04.2017 - 2 StR 247/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Für sogenannte legendierte Kontrollen besteht kein allgemeiner Vorrang der StPO vor dem Gefahrenabwehrrecht; die strafprozessuale Verwertbarkeit präventiv gewonnener Beweise richtet sich nach StPO Paragraf 161 Absatz 2 Satz 1 |
-| BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Verständigung im Strafverfahren verlangt Transparenz und Dokumentation |
-| BGH, Beschluss vom 27.11.2018 - 5 StR 566/18 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ein Beweisverwertungsverbot kommt in Betracht, wenn der Richtervorbehalt bei einer Durchsuchung bewusst missachtet oder in gleichgewichtig grober Weise verkannt wird |
-- Rechtsfolge zuerst als Arbeitsprodukt denken: Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag
-- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
-
-## 7. Pflichtnormen als Kernsätze
-
-- StPO Paragraf 152 Absatz 2: Legalitätsprinzip und Anfangsverdacht.
-- StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
-- StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
-- StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- StPO Paragraf 267: Urteilsgründe im Strafurteil.
-- StGB Paragraf 46: Strafzumessung.
-- Paragraf 153 StPO Einstellung wegen Geringfügigkeit (ohne Auflagen); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 153a StPO Einstellung gegen Auflagen (Geldbuße, gemeinnützige Arbeit, Schadenswiedergutmachung) - oft strategisch besser als Verständigung, weil keine Verurteilung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 154 StPO Teilstellung bei Tatmehrheit; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 407-412 StPO — Strafbefehlsverfahren; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 409 StPO — Pflichtinhalt des Strafbefehls; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 410 StPO — Einspruch, Frist und beschränkter Einspruch; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 411 StPO — Hauptverhandlung nach Einspruch; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 412 StPO — Verwerfung des Einspruchs bei Ausbleiben; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-
-## 8. Leitentscheidungen
-
-- BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Hat das Gericht ausnahmsweise ein Glaubhaftigkeitsgutachten eingeholt, müssen Hypothesenbildung, wissenschaftlicher Methodenstand, Transparenz und alternative Entstehungserklärungen nachvollziehbar geprüft werden; die Entscheidung ist kein allgemeiner Aussage-gegen-Aussage-Anker.
-- BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Ist der einzige Belastungszeuge in Teilen seiner Aussage widerlegt, darf das Gericht dem verbleibenden Aussagekern nur bei gewichtigen, außerhalb der Aussage liegenden Gründen folgen und muss diese in den Urteilsgründen darlegen.
-- BGH, Urteil vom 26.04.2017 - 2 StR 247/16: Für sogenannte legendierte Kontrollen besteht kein allgemeiner Vorrang der StPO vor dem Gefahrenabwehrrecht; die strafprozessuale Verwertbarkeit präventiv gewonnener Beweise richtet sich nach StPO Paragraf 161 Absatz 2 Satz 1.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10: Verständigung im Strafverfahren verlangt Transparenz und Dokumentation.
-- BGH, Beschluss vom 27.11.2018 - 5 StR 566/18: Ein Beweisverwertungsverbot kommt in Betracht, wenn der Richtervorbehalt bei einer Durchsuchung bewusst missachtet oder in gleichgewichtig grober Weise verkannt wird.
+Kontrolliere vor Ausgabe Einspruchsumfang, Frist, Vollmacht, Form, Rechenwerte, behauptete Tatsachen und Widersprüche zwischen Empfehlung und Antrag. Das Endprodukt besteht aus vollständigen Sätzen und verwendet dezimale Gliederung; formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt. Recherchegrenzen und Exporthinweise stehen getrennt vom Empfängertext.
 
-## 9. Prüfraster
-
-1. Welcher Tatvorwurf wird mit welcher Norm verbunden.
-2. Welche Tatsache wird durch welches Beweismittel getragen.
-3. Welche Beweisverwertungs- oder Aussageprobleme sind entscheidend.
-4. Welche Einlassungs- oder Antragsstrategie ist prozessual sauber.
-5. Welche Rechtsfolge ist nach Schuld, Vorleben und Nachtatverhalten naheliegend.
-6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
-7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
-
-## 10. Argumentations- und Entwurfsgerüst
-
-10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag.
-10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind StPO Paragraf 152 Absatz 2; StPO Paragraf 160.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Einstellung des Strafbefehlsverfahrens.
-10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Strafrecht und Strafverfahren tragen regelmäßig Ermittlungsakte, Vernehmungsprotokoll, Durchsuchungsbeschluss und Auswertebericht den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
-10.5. Beweislast: Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei Beweisverwertungsverboten, Aussagekonstanz und alternativen Geschehensabläufen an.
-10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Einstellung des Strafbefehlsverfahrens, Strafbefehl nach Polizeifilmerei, Zeugen-Befragungsstrategie in der Hauptverhandlung, Nebenfolgen Fahrerlaubnis im Strafbefehl: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 30.07.1999 - 1 StR 618/98; BGH, Urteil vom 29.07.1998 - 1 StR 94/98.
-
-## 11. Outputvarianten und Empfängerwunsch
-
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| schnell entscheiden | Kurzvermerk | Fallkern, StPO Paragraf 152 Absatz 2; StPO Paragraf 160, Risiko und nächster Schritt |
-| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
-| versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
-| beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei Beweisverwertungsverboten, Aussagekonstanz und alternativen Geschehensabläufen |
-
-## 12. Arbeitsweise
-
-Arbeite zuerst aktennah, dann normnah, dann produktnah. Liegen Unterlagen vor, werden sie ohne Vorfrage gelesen und mit Fundstelle verarbeitet; im Bereich Strafrecht und Strafverfahren sind das vor allem Ermittlungsakte, Vernehmungsprotokoll, Durchsuchungsbeschluss und Auswertebericht. Erst wenn wirklich kein verwertbares Material vorliegt, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert; Tabellen werden nur für echte Vergleiche, Nachweise, Berechnungen oder Varianten verwendet.
-
-Selbstcheck vor Ausgabe: Ist die Frist für Einspruch, Revision oder Haftprüfung benannt? Ist die Form geklärt? Ist die Rechtsfolge aus einer Norm abgeleitet und auf Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag bezogen? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
-
-## 13. Qualitätskontrolle und Abschluss
-
-Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Besonders zu kontrollieren ist in diesem Gebiet: Welche Rechtsfolge ist nach Schuld, Vorleben und Nachtatverhalten naheliegend. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
-
-## 14. Musterbausteine
-
-- Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
-- Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
-
-## 15. Fachliche Entscheidungslandkarte
-
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
-
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| Einstellung des Strafbefehlsverfahrens | Einstellung im Strafbefehlsverfahren: Paragraf 153 StPO (Geringfügigkeit ohne Auflage) Paragraf 153a StPO (mit Auflage) Paragraf 170 Absatz 2 StPO (Einstellung mangels hinreichenden Tatverdachts). | Fachvotum zu Einstellung des Strafbefehlsverfahrens mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Strafbefehl nach Polizeifilmerei | Strafbefehl wegen Filmens oder Fotografierens von Polizeieinsätzen, Versammlungen oder Kontrollen: prüft Paragraf 201 StGB, Paragraf 201a StGB, KunstUrhG/KUG Paragrafen 22 bis 23 sowie Paragraf 33, Beweissicherung. | Fachvotum zu Strafbefehl nach Polizeifilmerei mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Zeugen-Befragungsstrategie in der Hauptverhandlung | Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschüttern oder Entlastungszeugen fördern. Prüfraster Glaubwürdigkeitsanalyse Aussage-Konstanz Vorhalt frühere Aussage Fragerecht Paragraf 240 StPO. | Beweismatrix zu Zeugen-Befragungsstrategie in der Hauptverhandlung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
-| Nebenfolgen Fahrerlaubnis im Strafbefehl | Fahrerlaubnisentzug Paragraf 69 StGB und Fahrverbot Paragraf 44 StGB im Strafbefehl. Abgrenzung Paragraf 25 StVG (OWi-Fahrverbot). Fahrverbot (Paragraf 44 StGB) oder Fahrerlaubnisentzug (Paragraf 69 StGB)? | Fachvotum zu Nebenfolgen Fahrerlaubnis im Strafbefehl mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| StBV: Einspruch Strafbefehl | Bearbeite StBV: Einspruch Strafbefehl: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Rechtsmittel nach Urteil im Strafbefehlsverfahren | Berufung Paragraf 312 StPO (Frist 1 Woche schriftlich). Revision Paragraf 333 StPO (Frist 1 Woche Rechtsfehler). Revisionsbegründung Paragraf 345 StPO 1 Monat | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Wiedereinsetzung nach versäumter Einspruchsfrist — Paragraf 44 StPO | Bei Einwurf-Einschreiben (Paragraf 180 ZPO) gilt Zustellung als bewirkt; Mandant kann spätere Kenntnisnahme nachweisen. Paragraf 85 ZPO analoge Anwendung. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| StBV: Strafbefehl Ausländer | Bearbeite StBV: Strafbefehl Ausländer: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Fachvotum zu StBV: Strafbefehl Ausländer mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Zulässigkeit des Strafbefehls — Paragraf 407 StPO | Zulässigkeit des Strafbefehls nach Paragraf 407 StPO. — Strafbefehl ist nur bei Vergehen zulässig (Paragraf 407 Absatz 1 Satz 1 StPO). | Fachvotum zu Zulässigkeit des Strafbefehls — Paragraf 407 StPO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-
-## 16. Fachspezifische Praxisrouten
-
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
-
-### 16.1. Einstellung des Strafbefehlsverfahrens
-
-Bearbeitungsauftrag: Einstellung im Strafbefehlsverfahren: Paragraf 153 StPO (Geringfügigkeit ohne Auflage) Paragraf 153a StPO (mit Auflage) Paragraf 170 Absatz 2 StPO (Einstellung mangels hinreichenden Tatverdachts). — Paragraf 153 StPO nur bei geringer Schuld und fehlendem öffentlichen Interesse; Paragraf 153a StPO bei schwereren Fällen mit Auflagen. — Paragraf 153 StPO bei fehlendem öffentlichen Interesse; Paragraf 153a bei Vorstrafe nur ausnahmsweise.
-Normbezug aus dem Fachmaterial: Einstellung im Strafbefehlsverfahren: Paragraf 153 StPO (Geringfügigkeit ohne Auflage) Paragraf 153a StPO (mit Auflage) Paragraf 170 Absatz 2 StPO (Einstellung mangels hinreichenden Tatverdachts); BZR-Eintrag bei Paragraf 153a.
-Lieferstück: Fachvotum zu Einstellung des Strafbefehlsverfahrens mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.2. Strafbefehl nach Polizeifilmerei
-
-Bearbeitungsauftrag: Strafbefehl wegen Filmens oder Fotografierens von Polizeieinsätzen, Versammlungen oder Kontrollen: prüft Paragraf 201 StGB, Paragraf 201a StGB, KunstUrhG/KUG Paragrafen 22 bis 23 sowie Paragraf 33, Beweissicherung, Tonspur, Veröffentlichung, Beschlagnahme des Smartphones, Einspruch, Einlassung und Verteidigungsstrategie. Die Arbeit beginnt nicht mit Empörung, sondern mit einer kühlen Sortierung: Was wurde aufgenommen?
-Normbezug aus dem Fachmaterial: Strafbefehl wegen Filmens oder Fotografierens von Polizeieinsätzen, Versammlungen oder Kontrollen: prüft Paragraf 201 StGB, Paragraf 201a StGB, KunstUrhG/KUG Paragrafen 22 bis 23 sowie Paragraf 33, Beweissicherung, Tonspur, Veröffentlichung, Beschlagnahme des Smartphones.
-Lieferstück: Fachvotum zu Strafbefehl nach Polizeifilmerei mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.3. Zeugen-Befragungsstrategie in der Hauptverhandlung
-
-Bearbeitungsauftrag: Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschüttern oder Entlastungszeugen fördern. Prüfraster Glaubwürdigkeitsanalyse Aussage-Konstanz Vorhalt frühere Aussage Fragerecht Paragraf 240 StPO. Normen Paragraf 68 StPO Zeugenpflichten Paragraf 52 StPO Zeugnisverweigerungsrecht Paragraf 244 StPO Beweisanträge.
-Normbezug aus dem Fachmaterial: Prüfraster Glaubwürdigkeitsanalyse Aussage-Konstanz Vorhalt frühere Aussage Fragerecht Paragraf 240 StPO.
-Lieferstück: Beweismatrix zu Zeugen-Befragungsstrategie in der Hauptverhandlung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
-
-### 16.4. Nebenfolgen Fahrerlaubnis im Strafbefehl
-
-Bearbeitungsauftrag: Fahrerlaubnisentzug Paragraf 69 StGB und Fahrverbot Paragraf 44 StGB im Strafbefehl. Abgrenzung Paragraf 25 StVG (OWi-Fahrverbot). Fahrverbot (Paragraf 44 StGB) oder Fahrerlaubnisentzug (Paragraf 69 StGB)?
-Normbezug aus dem Fachmaterial: Fahrerlaubnisentzug Paragraf 69 StGB und Fahrverbot Paragraf 44 StGB im Strafbefehl; Regelentziehung Paragraf 69 Absatz 2 StGB bei Paragrafen 315c 316 142 StGB; Sperrfrist Paragraf 69a StGB.
-Lieferstück: Fachvotum zu Nebenfolgen Fahrerlaubnis im Strafbefehl mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.5. StBV: Einspruch Strafbefehl
-
-Bearbeitungsauftrag: Bearbeite StBV: Einspruch Strafbefehl: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.6. Rechtsmittel nach Urteil im Strafbefehlsverfahren
-
-Bearbeitungsauftrag: Berufung Paragraf 312 StPO (Frist 1 Woche schriftlich). Revision Paragraf 333 StPO (Frist 1 Woche Rechtsfehler). Revisionsbegründung Paragraf 345 StPO 1 Monat.
-Normbezug aus dem Fachmaterial: Berufung Paragraf 312 StPO (Frist 1 Woche schriftlich); Revision Paragraf 333 StPO (Frist 1 Woche Rechtsfehler); Revisionsbegründung Paragraf 345 StPO 1 Monat.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.7. Wiedereinsetzung nach versäumter Einspruchsfrist — Paragraf 44 StPO
-
-Bearbeitungsauftrag: Bei Einwurf-Einschreiben (Paragraf 180 ZPO) gilt Zustellung als bewirkt; Mandant kann spätere Kenntnisnahme nachweisen. Paragraf 85 ZPO analoge Anwendung; aber: bei Verschulden des Gerichts (fehlerhafte Belehrung) kein Verschulden. Gleichzeitiger Einspruch: Wiedereinsetzungsantrag immer mit gleichzeitigem Einspruch verbinden (Paragraf 45 Absatz 2 Satz 2 StPO).
-Prüfschritte: Kein Verschulden erforderlich (Paragraf 44 Satz 1 StPO): kein schuldhaftes Versäumnis des Mandanten oder seines Verteidigers.
-Normbezug aus dem Fachmaterial: Kein Verschulden erforderlich (Paragraf 44 Satz 1 StPO): kein schuldhaftes Versäumnis des Mandanten oder seines Verteidigers.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.8. StBV: Strafbefehl Ausländer
-
-Bearbeitungsauftrag: Bearbeite StBV: Strafbefehl Ausländer: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Lieferstück: Fachvotum zu StBV: Strafbefehl Ausländer mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. Zulässigkeit des Strafbefehls — Paragraf 407 StPO
-
-Bearbeitungsauftrag: Zulässigkeit des Strafbefehls nach Paragraf 407 StPO. — Strafbefehl ist nur bei Vergehen zulässig (Paragraf 407 Absatz 1 Satz 1 StPO); Verbrechen (Paragraf 12 Absatz 1 StGB, Mindeststrafe 1 Jahr) schließen Strafbefehl aus. Überschreitet die vorgeschlagene Sanktion den Rahmen des Paragraf 407 Absatz 2 StPO?
-Prüfschritte: Sanktionskatalog Paragraf 407 Absatz 2 StPO; Sachliche Zuständigkeit Amtsgericht; Keine Beweisprobleme die Hauptverhandlung erfordern; Ablehnung durch Richter Paragraf 408 Absatz 3 StPO; Nichtigkeit bei Zulässigkeitsmängeln.
-Normbezug aus dem Fachmaterial: Zulässigkeit des Strafbefehls nach Paragraf 407 StPO; Sanktionskatalog Paragraf 407 Absatz 2 StPO; Ablehnung durch Richter Paragraf 408 Absatz 3 StPO.
-Lieferstück: Fachvotum zu Zulässigkeit des Strafbefehls — Paragraf 407 StPO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.10. Hauptverhandlung nach Einspruch — Paragraf 411 StPO
-
-Bearbeitungsauftrag: Hauptverhandlung nach Paragraf 411 StPO bei Einspruch. Erscheinungspflicht klären: Mandant erscheinungspflichtig (Paragraf 411 Absatz 2 StPO); Antrag auf Entbindung möglich wenn Sachverhalt unstreitig und nur Rechtsfolgen streitig. — Jeder Beweisantrag braucht konkretes Beweisthema und bestimmtes Beweismittel (Paragraf 244 Absatz 3 StPO).
-Normbezug aus dem Fachmaterial: Hauptverhandlung nach Paragraf 411 StPO bei Einspruch; Beweisanträge Paragraf 244 StPO; Strafzumessung Paragraf 46 StGB.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.11. StBV: Strafbefehl-Prüfung
-
-Bearbeitungsauftrag: Bearbeite StBV: Strafbefehl-Prüfung: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.12. Strafbefehlsinhalt prüfen — Paragraf 409 StPO
-
-Bearbeitungsauftrag: Prüfe Strafbefehl auf Pflichtinhalt nach Paragraf 409 StPO (7 Mindestangaben) und identifiziert Nichtigkeitsgründe. — Paragraf 409 Absatz 1 Nummer 3 StPO verlangt Angabe der gesetzlichen Merkmale und des angewandten Strafgesetzes. — Bestimmtheitsgrundsatz Artikel 103 Absatz 2 GG; eine pauschale Datumsangabe ("in 2022 mehrfach") kann die Tat unzureichend individualisieren.
-Normbezug aus dem Fachmaterial: Prüfe Strafbefehl auf Pflichtinhalt nach Paragraf 409 StPO (7 Mindestangaben) und identifiziert Nichtigkeitsgründe; Tatbeschreibung Bestimmtheitsgrundsatz Artikel 103 Absatz 2 GG.
-Lieferstück: Fachvotum zu Strafbefehlsinhalt prüfen — Paragraf 409 StPO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Fehlender Datei- oder Quellenzugriff begrenzt nur die davon abhängige Prüfung; benenne die konkrete Lücke und arbeite mit dem vorhandenen Material weiter. Ohne Export liefere den vollständigen Text, aber keinen erfundenen Dateilink. Weitere Skills und Referenzen sind optionale Hilfen, keine Voraussetzung dieser Bearbeitung.

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "schadensregulierung",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/vvg_2008/__86.html",
@@ -11,13 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die fachlich dichte Unternehmens- und Versichererperspektive blieb erhalten; nach Kaskozahlung war die Gläubigertrennung noch zu konkretisieren.",
+    "reason": "Mini vollständig auf Haftung, Deckung, Rückgriff und Fortsetzung nach Schadenbelegen gelesen; die fachlichen Berechnungs- und Beweisregeln bleiben erhalten.",
     "changes": [
-      "Leistungsabrechnung, Übergangsbetrag und Restanspruch ergänzt.",
-      "Keine Abfindung fremder übergegangener Forderungen ohne Berechtigung.",
-      "Allgemeine Bedienhinweise für das Byte-Limit gekürzt."
+      "Starre Rückfragebegrenzung durch gezielte Nachforderung von Befund, Schadenbeleg oder Deckungsunterlage ersetzt; Antwort in Positionen und bestelltem Schreiben weiterverarbeiten, Dateiwunsch beachten."
     ],
-    "sha256": "42322423010d04d8c66558f1dae89269b05fe90786c727f2730fbd612105f8e0"
+    "sha256": "2c8c890abdacdcb9aec8d77d4b3360c505be89d6acbd736ec4177a4437c52411"
   },
   "selection": {
     "positive": [
@@ -62,5 +60,13 @@
       ],
       "target_skill": "regress-und-anspruchsuebergang"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt einschließlich Schlussabschnitten vollständig geprüft; die zusätzliche Routensammlung wiederholte die bereits ausgeführten Schadenwege.",
+    "changes": [
+      "Doppelte Schlussrouten entfernt, konkrete Schadenbearbeitung erhalten und Nachforderung mit Fertigstellung verbunden; Quellenstatus von Außenbriefen getrennt."
+    ],
+    "sha256": "fc5920f034e2a7c961533cf23f496570d5d14cc80d7f0f94183bb7c9f1ec72f6"
+  }
 }

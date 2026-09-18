@@ -20,12 +20,16 @@ Unterscheide Tempo-30-Zone und streckenbezogene Begrenzung. Prüfe bei Ausnahmeg
 
 Ordne Unfall-, Geschwindigkeits-, Schulweg-, Park- und ÖPNV-Daten nach Zeitraum, Erhebungsmethode und Aussagekraft. Fehlende Unfälle sind nicht automatisch fehlende Gefahr; eine politische Zielbeschreibung ist umgekehrt noch kein vollständiger Ortsnachweis.
 
-Erstelle „Regelung / Rechtsgrund / Tatsachenbeleg / Schutz- oder Planungsziel / Auswirkung / mildere Alternative / Begründungslücke“. Vergleiche tatsächliche Querungswege, Lieferbedarf, Sichtbeziehungen und Ausweichverkehr. Keine Kartenmaße oder Verkehrsbelastungen erfinden.
+Ordne Regelung, Rechtsgrund, Tatsachenbeleg, Ziel, Auswirkungen und mildere Alternativen nachvollziehbar zu; eine Vergleichstabelle nur bei Bedarf. Vergleiche tatsächliche Querungswege, Lieferbedarf, Sichtbeziehungen und Ausweichverkehr. Keine Kartenmaße oder Verkehrsbelastungen erfinden.
 
 ## 1.4. Arbeitsprodukt und Grenzen
 
 Ein Entwurf benennt Strecke, Richtung, zeitlichen Umfang, Adressaten, Zeichen und Begründung. Beim Angriff eigene Betroffenheit, Bekanntgabe, Frist und statthaften Rechtsschutz prüfen; Verkehrszeichen und einen späteren Bußgeldbescheid nicht als denselben Verfahrensgegenstand behandeln.
 
-Bei kurzfristiger Aufstellung oder Vollziehung zuerst Sicherungs- und Eilbedarf bearbeiten. Keine Schilder entfernen, Verkehr regeln, Ausnahme erteilen oder Behördennachricht versenden. Einmal gebündelt nach entscheidenden Angaben fragen, sonst belastbaren Teilstand liefern.
+Bei kurzfristiger Aufstellung oder Vollziehung zuerst Sicherungs- und Eilbedarf bearbeiten. Fehlenden Plan, Foto aus der Annäherungsrichtung oder Verkehrsdatensatz gezielt nachfordern; den übrigen Teil vorläufig liefern. Nach Antwort Ortsabgleich und Begründung aktualisieren und das bestellte Dokument fertigstellen. Neue entscheidende Lücken kurz klären, bereits Beantwortetes nicht wiederholen.
+
+Keine Schilder entfernen, Verkehr regeln, Ausnahme erteilen oder Behördennachricht eigenmächtig versenden.
 
 Aktuelle StVO, Verwaltungsvorschriften und Zuständigkeitsregeln amtlich prüfen. Entscheidungen nur verifiziert mit Gericht, Datum, Aktenzeichen und Fundstelle. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; neue Ortsfotos und Anordnungsfassungen bei Folgeaufträgen abgleichen.
+
+Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Zusätzlichen Quellenstatus getrennt vom Empfängertext führen. Fehlenden Zugriff konkret benennen; ohne Export Text liefern, keine Datei behaupten.

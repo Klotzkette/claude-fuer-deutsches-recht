@@ -1,31 +1,77 @@
 {
   "schema_version": 1,
   "plugin": "umweltschutzverband-verbandsklage",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
-    {"url": "https://www.gesetze-im-internet.de/umwrg/BJNR281600006.html", "checked_on": "2026-09-14", "supports": "Amtlicher Suchauszug zu Paragraf 2 Absatz 1: eigene Rechtsverletzung nicht erforderlich, Aufgabenbereich und fallgruppenabhängige Beteiligungsvoraussetzungen."},
-    {"url": "https://www.gesetze-im-internet.de/umwrg/__6.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: zehn Wochen ab Klageerhebung für Tatsachen und Beweismittel, begrenzte Verlängerungsmöglichkeit und Sonderrechtsvorbehalte."}
+    {
+      "url": "https://www.gesetze-im-internet.de/umwrg/BJNR281600006.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Suchauszug zu Paragraf 2 Absatz 1: eigene Rechtsverletzung nicht erforderlich, Aufgabenbereich und fallgruppenabhängige Beteiligungsvoraussetzungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwrg/__6.html",
+      "checked_on": "2026-09-14",
+      "supports": "Geöffneter Volltext: zehn Wochen ab Klageerhebung für Tatsachen und Beweismittel, begrenzte Verlängerungsmöglichkeit und Sonderrechtsvorbehalte."
+    }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Die Anerkennungs- und Beteiligungsachse war passend. Mini und gelesener Anerkennungs-Skill enthielten jedoch Erbrecht als Fremdkörper; konkrete Begründungsfrist und Unterscheidung eigener Rechte fehlten.",
-    "changes": ["Erbrecht entfernt", "Eigene Rechte und fallgruppenabhängige Beteiligung getrennt", "Zehnwochenfrist mit Auslöser und Sonderrechtsprüfung ergänzt", "Optionale Werkstatt und Freigabegrenze klargestellt"],
-    "sha256": "5f849804ce0dfc7b6486c5d3a1f2144b0355d51016402d95cfb4de483a713c9a"
+    "verdict": "retained",
+    "reason": "Mini vollständig gelesen: Anerkennungs-, Bekanntmachungs- und Fachbeitragslücken führen bereits zu gezielten Nachforderungen und nach Antwort zur bestellten Stellungnahme oder Antragsschrift; keine starre Rückfragegrenze gefunden.",
+    "changes": [
+      "Keine Textänderung erforderlich; fallgruppenbezogene Verbandsbefugnis, getrennte Beteiligungs-, Klage- und Begründungsfristen sowie vorläufige Bearbeitung bei fehlenden Gutachten beibehalten."
+    ],
+    "sha256": "017800c9d35071aa57d01a5c2afceca4e96b634cd7f5d3dbe31ce5b88f93a076"
   },
   "selection": {
-    "positive": ["Prüfe unsere Verbandsklagebefugnis gegen die Zulassung einer UVP-pflichtigen Anlage.", "Erstelle für unseren anerkannten Umweltverband eine Fristen- und Beweismittelkarte nach Klageerhebung."],
-    "negative": ["Vertrete einen einzelnen Nachbarn ausschließlich wegen seiner privaten Lärmbetroffenheit.", "Entwirf die Vereinssatzung eines Sportvereins."]
-  },
-  "cases": [{
-    "id": "verband-begruendungsfrist-ohne-grundeigentum",
-    "request": "Erstelle ergebnis.md als interne Prozessvorlage. Unser nach Paragraf 3 UmwRG anerkannter Verein hat satzungsgemäß Gewässerschutz im gesamten betroffenen Bundesland zum Zweck. Am 1. Juli 2026 wurde nach anwaltlicher Prüfung fristgerecht Klage gegen die Genehmigung einer UVP-pflichtigen Industrieanlage erhoben. Die Einordnung unter Paragraf 1 Absatz 1 Satz 1 Nummer 1 UmwRG ist unstreitig; Sonderrecht gilt nicht. Wir waren zur Beteiligung berechtigt und hatten eine fachliche Stellungnahme abgegeben. Kein Mitglied besitzt ein Nachbargrundstück. Die Klageschrift enthält bislang nur den Antrag; die Gewässergutachten sollen erst am 20. September vorliegen. Heute ist der 14. September 2026. Ein Verlängerungsantrag oder gerichtlicher Hinweis liegt nicht vor. Bitte prüfe Zulässigkeitsrisiken und die zeitkritischen nächsten Arbeitsschritte, ohne Schriftsätze zu versenden.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id": "C01", "text": "Fehlendes Nachbargrundeigentum wird nicht als Ausschlussgrund der Verbandsklage gewertet; Anerkennung, Aufgabenbereich und Beteiligung werden am Sachverhalt geprüft.", "deliverables": ["ergebnis.md"]},
-      {"id": "C02", "text": "Die Vorlage erkennt die grundsätzlich am 9. September 2026 abgelaufene Zehnwochenfrist ab Klageerhebung und unterscheidet sie von der bereits gewahrten Klagefrist.", "deliverables": ["ergebnis.md"]},
-      {"id": "C03", "text": "Das Ergebnis warnt vor dem Warten auf den 20. September und prüft die gesetzlichen Voraussetzungen für verspätetes Vorbringen, ohne wegen ausstehender Gutachten eine automatische Verlängerung oder Zulassung zuzusagen.", "deliverables": ["ergebnis.md"]}
+    "positive": [
+      "Prüfe unsere Verbandsklagebefugnis gegen die Zulassung einer UVP-pflichtigen Anlage.",
+      "Erstelle für unseren anerkannten Umweltverband eine Fristen- und Beweismittelkarte nach Klageerhebung."
     ],
-    "target_skill": "anerkennung-und-klagebefugnis-pruefen"
-  }]
+    "negative": [
+      "Vertrete einen einzelnen Nachbarn ausschließlich wegen seiner privaten Lärmbetroffenheit.",
+      "Entwirf die Vereinssatzung eines Sportvereins."
+    ]
+  },
+  "cases": [
+    {
+      "id": "verband-begruendungsfrist-ohne-grundeigentum",
+      "request": "Erstelle ergebnis.md als interne Prozessvorlage. Unser nach Paragraf 3 UmwRG anerkannter Verein hat satzungsgemäß Gewässerschutz im gesamten betroffenen Bundesland zum Zweck. Am 1. Juli 2026 wurde nach anwaltlicher Prüfung fristgerecht Klage gegen die Genehmigung einer UVP-pflichtigen Industrieanlage erhoben. Die Einordnung unter Paragraf 1 Absatz 1 Satz 1 Nummer 1 UmwRG ist unstreitig; Sonderrecht gilt nicht. Wir waren zur Beteiligung berechtigt und hatten eine fachliche Stellungnahme abgegeben. Kein Mitglied besitzt ein Nachbargrundstück. Die Klageschrift enthält bislang nur den Antrag; die Gewässergutachten sollen erst am 20. September vorliegen. Heute ist der 14. September 2026. Ein Verlängerungsantrag oder gerichtlicher Hinweis liegt nicht vor. Bitte prüfe Zulässigkeitsrisiken und die zeitkritischen nächsten Arbeitsschritte, ohne Schriftsätze zu versenden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Fehlendes Nachbargrundeigentum wird nicht als Ausschlussgrund der Verbandsklage gewertet; Anerkennung, Aufgabenbereich und Beteiligung werden am Sachverhalt geprüft.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Vorlage erkennt die grundsätzlich am 9. September 2026 abgelaufene Zehnwochenfrist ab Klageerhebung und unterscheidet sie von der bereits gewahrten Klagefrist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Ergebnis warnt vor dem Warten auf den 20. September und prüft die gesetzlichen Voraussetzungen für verspätetes Vorbringen, ohne wegen ausstehender Gutachten eine automatische Verlängerung oder Zulassung zuzusagen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "anerkennung-und-klagebefugnis-pruefen"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Werkstatt vollständig einschließlich Aktenzugang, UVP, Arten- und Habitatschutz, Fehlerfolge, Eilrechtsschutz und Abschluss gelesen. Nachgereichte Unterlagen werden ausdrücklich in Rüge, Frist und Antrag eingearbeitet; Beratung löst keinen ungefragten Prozessentwurf aus.",
+    "changes": [
+      "Keine Textänderung erforderlich; fachliche Fortsetzungswege und Kennzeichnung vorhandener Rechtsprechungsansätze ohne Behauptung frischer Verifikation erhalten."
+    ],
+    "sha256": "d14747e99baab1c0599e5375bb68126d8f885df7b641c2006092721a1055ffdd"
+  }
 }

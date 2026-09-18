@@ -7,7 +7,7 @@ Das [Prüfverzeichnis](../QUALITY.md) erfasst für jedes Marketplace-Plugin konk
 | Prüfung | Aussage | Keine Aussage über |
 | --- | --- | --- |
 | Strukturvalidator | Dateien, Namen, Verweise, Format und Paketgrenzen stimmen | tatsächliche Auswahl oder juristische Qualität |
-| Individuelle Mini-Prüfung | Fachlicher Zuschnitt wurde redaktionell geprüft | Ergebnisqualität in jedem Client |
+| Individuelle Textprüfung | Der bezeichnete Mini-, Werkstatt- oder Schwerpunkttext wurde redaktionell geprüft | Ergebnisqualität in jedem Client |
 | Beobachtete Auswahl | Ein konkreter Client hat bei einer konkreten Anfrage einen Skill gewählt oder nicht gewählt | Richtigkeit des erzeugten Dokuments |
 | Ergebnisbewertung | Zwei unabhängige Prüfmodelle bewerten die tatsächlich erzeugten Dateien gegen fachliche Kriterien | unabhängige Rechtsquellenprüfung oder anwaltliche Freigabe |
 
@@ -20,6 +20,8 @@ Profil und Fall-ID stehen in `quality/evals/<plugin>.json`. Dieser Ordner enthä
 `mini_review.sha256` ist verpflichtend und enthält den SHA256-Fingerprint der endgültigen Mini-Datei als 64 kleine Hexadezimalzeichen, berechnet über die unveränderten Dateibytes einschließlich Zeilenenden. Fehlende, ungültige oder abweichende Fingerprints verhindern die Profilfreigabe und Vorbereitung neuer Läufe. Bestehende eingefrorene Läufe bleiben an ihren damaligen Eingabebestand und Fall gebunden, nicht an spätere Mini-Fassungen oder deren neue Prüfvermerke. Zusätzliche Dateien oder Ordner im vorbereiteten Eingabeordner machen den Lauf ungültig.
 
 Eine zusätzlich dokumentierte Einzelprüfung der Werkstatt steht in `workshop_review` mit Begründung, Änderungen und `sha256`. Ist dieser Prüfvermerk vorhanden, muss auch seine Prüfsumme zur aktuellen Werkstatt-Datei passen. Die Prüfsumme bestätigt nur die Identität des redaktionell geprüften Textes, nicht einen bestandenen Modelllauf. Nach inhaltlichen Änderungen zuerst erneut prüfen und erst danach den Vermerk aktualisieren; ein bloßes Neuberechnen der Prüfsumme ersetzt die Prüfung nicht.
+
+Für ein gemeinsam geprüftes Hauptproblem-Paar enthält `focus_review` beide Dateipfade, `prompt_sha256` und `skill_sha256` sowie Datum, Begründung und Änderungen. Der Skill muss genau dem in `selection.target_skill` benannten Schwerpunkt entsprechen; der Prompt muss zum selben Plugin gehören. Die Methode `desk_review` bezeichnet ausschließlich die Textprüfung. Abweichende Dateien, Pfade oder Prüfsummen werden abgewiesen. Ein fehlender Schwerpunktvermerk in einem älteren Profil wird nicht als bestandene Paarprüfung ausgegeben.
 
 ```bash
 python3 scripts/quality-lab.py audit

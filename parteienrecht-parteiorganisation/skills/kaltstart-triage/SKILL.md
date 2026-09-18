@@ -3,52 +3,42 @@ name: kaltstart-triage
 description: "Für Parteienrecht — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Parteienrecht — Allgemein
+# 1. Parteivorgang zum bestellten Ergebnis führen
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Anliegen und Regelwerk
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Bearbeite die vorgelegte Wahl-, Mitgliedschafts-, Aufstellungs- oder Finanzierungsfrage. Lies Satzung, Wahl- oder Schiedsordnung, Einladung, Protokoll und Korrespondenz zuerst; Rolle und Auftrag nicht erneut erfragen, wenn sie feststehen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Bestimme Gebietsverband, Organ, betroffene Person und maßgebliche Fassung. Satzung und Gesetz gemeinsam prüfen; eine Satzungsregel kann zwingendes Parteienrecht nicht verdrängen. Ohne Auftrag bei einem bloßen Upload den erkennbaren Vorgang und eine konkrete Frage zum gewünschten Ergebnis nennen, nicht automatisch ein Verfahren einleiten.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+## 1.2. Wahl oder Mitgliedsmaßnahme
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+Bei einer internen Wahl Ladung, Stimmrecht, Wählbarkeit, Wahlmodus und Mehrheit anhand der geltenden Regeln prüfen. Vorstandswahl und die gesetzlich bezeichneten Vertreterwahlen sind nach Paragraf 15 PartG geheim; Kandidatenaufstellung für staatliche Wahlen gesondert behandeln.
 
-## Einstieg
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
+Fehlt bei knapper Mehrheit die Zahl gültiger Stimmen oder ein Anwesenheitswechsel, frage nach dem konkreten Protokollbefund. Nach der Antwort rechne neu und vollende den bestellten Wahlvermerk. Keinen anderen Wahlablauf nachträglich in das Protokoll schreiben.
 
-1. Welche Rolle hat die betroffene Person oder Organisation?
-2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
-3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
-4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
+Bei Sanktion oder Ausschluss Vorwurf, Beleg, Anhörung und Entscheidungsorgan trennen. Paragrafen 10 und 14 PartG sowie die Schiedsordnung bestimmen die einschlägigen Voraussetzungen und Verfahren. Fehlt der Wortlaut einer beanstandeten Äußerung, frage danach; nach Eingang die Stellungnahme oder den Schiedsantrag ausarbeiten. Neue entscheidende Lücken dürfen weitere kurze Rückfragen auslösen, bekannte Angaben nicht wiederholen.
 
-## Arbeitsworkflow
-1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
-2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
-3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
-4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
+## 1.3. Außenwahl und Finanzierung
 
-## Parteienrechtlicher Normenkanon
+Bei Wahlvorschlägen die konkrete Wahlart bestimmen: BWahlG/BWO, Landeswahl- und Kommunalwahlrecht oder EuWG/EuWO. Beteiligungsanzeige, Aufstellung, Unterschriften, amtliche Formulare und Abgabefristen anhand aktueller amtlicher Angaben prüfen. Parteiinterne Wahl und staatliche Zulassung nicht gleichsetzen.
 
-- **GG:** Art. 21 Abs. 1 (Parteienprivileg, innerparteiliche Demokratie), Abs. 2 (Verbot, BVerfG-Monopol § 13 Nr. 2 BVerfGG), Abs. 3 (Finanzierungsausschluss), Abs. 4 (Verfahren BVerfG); Art. 38 Abs. 1 (Wahlrechtsgrundsätze).
-- **PartG:** §§ 1, 2 (Begriff Partei, Zweck); § 6 (Satzung Mindestinhalt); §§ 7–9 (Gebietsverbände, Organe); §§ 10–14 (Aufnahme, Rechte und Pflichten der Mitglieder, Parteiausschluss); §§ 17 ff. (Wahlvorschläge: Personenauswahl als Pflicht-Demokratieverfahren); §§ 23–25 (Rechenschaftsbericht, Spenden, sanktionsbewehrte Pflichten); § 31a–c (Sanktionen, strafbewehrte Verbote unzulässiger Spenden).
-- **BWahlG/BWO**, **LWahlG/LWO** je Bundesland, **KomWG/KomWO** für kommunale Wahlen; **EuWG/EuWO** für Europawahl.
-- **AbgG** (Bund) und Landes-AbgG für Mandatsausübung; Verhaltensregeln BT (Anlage 1 GO-BT).
-- **BVerfGG:** §§ 13 Nr. 2, 43–47 (Parteiverbot); § 32 (EA).
-- **Praxis-Hinweis:** Satzung ist gleichberechtigte Primärquelle neben Gesetz; bei Konflikt mit zwingenden PartG-Normen gehen letztere vor (§ 6 Abs. 2 PartG).
+Bei Zuwendungen Geldgeber, Empfänger, Betrag, Herkunft und Gegenleistung aus Bank- und Vertragsbelegen bestimmen. Fehlt eine Sponsoringvereinbarung, diese gezielt nachfordern; nach der Antwort Einordnung und Rechenschaftsposition ändern und den bestellten Vermerk fertigstellen. Aktuelle Schwellen und Sanktionen im PartG prüfen statt alte Muster zu übernehmen.
 
-## Vorsichtsregel
-Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
+## 1.4. Quellen und fachliche Grenzen
 
-## Quellen- und Aktualitätsregel
-- Parteiengesetz live prüfen
-- Bundeswahlgesetz/Bundeswahlordnung und Bundeswahlleiterin live prüfen
-- jeweiliges Landeswahl-/Kommunalwahl-/Abgeordnetenrecht live prüfen
-- Parteien- und Gebietsverbandssatzung als Primärquelle
-- Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen
-- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+Artikel 21 GG und PartG Paragrafen 1, 2 und 6 bis 16 bilden je nach Vorgang den organisatorischen Rahmen. Aufstellung, Finanzierung, Rechenschaft und Sanktionen nach den jeweils einschlägigen Vorschriften ab Paragraf 17 prüfen; eine ungenaue Sammelzuordnung von Paragrafen 31a bis 31c ersetzt keine Prüfung strafrechtlicher oder finanzieller Folgen.
+
+Abgeordnetenrecht nur bei entsprechendem Auftrag anhand Artikel 38 GG, AbgG oder Landesrecht und der geltenden Verhaltensregeln prüfen; alte Hinweise auf eine Anlage der Geschäftsordnung nicht ungeprüft als aktuellen Standort übernehmen. Parteiverbot und Finanzierungsausschluss nach Artikel 21 GG und BVerfGG, insbesondere Paragrafen 13 Nummer 2, 43 ff. und gegebenenfalls 32, sind gesonderte Verfahren.
+
+Amtliche Normen, Wahlleitungsangaben und die tatsächlich geltende Parteisatzung verifizieren; Rechtsprechung nur mit überprüftem Gericht, Datum, Aktenzeichen und tragender Aussage. `references/zitierweise.md` bei Zugriff beachten. Keine unnötigen Gesundheits-, Familien- oder Finanzdaten und keine unbelegten Schuldeingeständnisse in Empfängertexte aufnehmen.
+
+## 1.5. Fertigstellung und Beispiel
+
+Liefere die bestellte Einladung, Stellungnahme, Beschlussvorlage oder Beratung vollständig ausformuliert. Bei einem Hindernis den belegten Teil und genau den benötigten Beitrag benennen; nach dessen Eingang fortsetzen. Eine Rückfrage oder Auswahlliste weiterer Skills ist nicht das Endprodukt.
+
+Beispiel: Ein Mitglied soll wegen Beitragsrückstands nicht abstimmen dürfen, legt aber einen Zahlungsbeleg vor. Prüfe dessen Zuordnung und die Satzungsregel, aktualisiere den Rückstand und die konkrete Stimmrechtsbewertung und schreibe den bestellten Vermerk fertig.
+
+Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus getrennt vom Empfängertext halten. Formatierte Texte verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Markdown als Exporthinweis. Versand, verbindliche Erklärung und Einreichung nur nach ausdrücklicher Freigabe.
+
+Bei fehlendem Datei- oder Quellenzugriff einen geeigneten anderen Weg versuchen und die verbleibende Lücke nennen. Zugängliche Teile weiterbearbeiten, keine vollständige Prüfung oder Dateierzeugung vortäuschen.

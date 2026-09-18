@@ -1,7 +1,85 @@
 {
-  "schema_version":1,"plugin":"betreuungsrecht","reviewed_on":"2026-09-14",
-  "sources":[{"url":"https://www.gesetze-im-internet.de/bgb/__1814.html","checked_on":"2026-09-14","supports":"Erforderlichkeit der Betreuung und Berücksichtigung anderer Hilfen."},{"url":"https://www.gesetze-im-internet.de/bgb/__1821.html","checked_on":"2026-09-14","supports":"Unterstützte Selbstbesorgung, erforderlicher Vertretungseinsatz und Wünsche mit gesetzlichen Grenzen."},{"url":"https://www.gesetze-im-internet.de/bgb/__1835.html","checked_on":"2026-09-14","supports":"Vermögensverzeichnis zum Bestellungszeitpunkt, Einnahmen und Ausgaben, Belegpflicht und spätere Ergänzung."}],
-  "mini_review":{"sha256":"5f8373042ae70f8b6b866396c592b516ae21fb04f1c15c062ca8f5b5a2ad072d","verdict":"revised","reason":"Der Mini hatte passende Wunsch- und Bedarfsansätze, aber einen falschen Altanker zu Paragraf 1835. Auch der Vermögensverzeichnisskill ordnete diese Norm falsch zu; die eigenständige Mini-Prüfung korrigiert dies ohne Skilländerung.","changes":["Vermögensverzeichnis mit Bestellungsstichtag und Ergänzungspfad konkretisiert.","Wunsch, Vertretungsmacht und Genehmigung unterschieden.","Ungeprüfte Rechtsprechungsliste durch anlassbezogene Quellenprüfung ersetzt."]},
-  "selection":{"positive":["Erstellen Sie mein erstes Vermögensverzeichnis für die betreute Person aus den Kontoständen bei Bestellung.","Prüfen Sie, ob eine geplante Wohnungsaufgabe vom Betreuungsauftrag und den erforderlichen Genehmigungen gedeckt ist."],"negative":["Berechnen Sie den Kindesunterhalt nach einer Trennung.","Erstellen Sie die Erbschaftsteuererklärung ohne Bezug zu einer laufenden Betreuung."]},
-  "cases":[{"id":"anfangsbestand-und-spaetere-erbschaft","request":"Frau Dorn wurde am 1. September 2026 zur Betreuerin von Herrn Seidel mit dem Aufgabenbereich Vermögenssorge bestellt. Zum Bestellungszeitpunkt bestanden Giroguthaben 4200 Euro, Sparguthaben 10000 Euro, Bargeld 180 Euro und eine unstreitige Darlehensschuld von 2000 Euro. Monatliche Rente 1650 Euro, Miete 620 Euro und Versicherungen 80 Euro sind regelmäßige Einnahmen beziehungsweise Ausgaben. Am 10. September erhielt Seidel zusätzlich 5000 Euro aus einer Erbschaft. Kontoauszüge und Darlehensbestätigung liegen Dorn vor, sind aber hier nicht angehängt. Erstellen Sie auf Basis dieser Angaben einen Entwurf des Vermögensverzeichnisses und ein Begleitschreiben an das Betreuungsgericht zum 14. September. Kennzeichnen Sie die noch beizufügenden Nachweise; behaupten Sie keine eigene Einsicht in diese Belege.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Der Anfangsbestand wird auf den 1. September bezogen, mit Aktiva von 14380 Euro und gesonderter Schuld von 2000 Euro; eine etwaige Nettoangabe beträgt 12380 Euro.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Die 5000 Euro Erbschaft werden als späterer Hinzuerwerb beziehungsweise Ergänzung erfasst, nicht rückwirkend in den Anfangsbestand oder als regelmäßiges Einkommen eingeordnet.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Regelmäßige Einnahmen und Ausgaben stehen getrennt vom Vermögensbestand. Das Begleitschreiben benennt die noch beizufügenden Belege und gibt eine Versicherung nicht als bereits persönlich abgegeben aus.","deliverables":["ergebnis.md"]}],"target_skill":"vermoegensverzeichnis-start"}]
+  "schema_version": 1,
+  "plugin": "betreuungsrecht",
+  "reviewed_on": "2026-09-18",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1814.html",
+      "checked_on": "2026-09-14",
+      "supports": "Erforderlichkeit der Betreuung und Berücksichtigung anderer Hilfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1821.html",
+      "checked_on": "2026-09-14",
+      "supports": "Unterstützte Selbstbesorgung, erforderlicher Vertretungseinsatz und Wünsche mit gesetzlichen Grenzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1835.html",
+      "checked_on": "2026-09-14",
+      "supports": "Vermögensverzeichnis zum Bestellungszeitpunkt, Einnahmen und Ausgaben, Belegpflicht und spätere Ergänzung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Vollständig gelesen: Wunschermittlung, Aufgabenbereich und Bestellungsstichtag führen zu gezielter Ergänzung und fertigem Verzeichnis oder Gerichtsschreiben, ohne Angehörigenangaben als Willen zu fingieren.",
+    "changes": [
+      "Nach konkreter Wunschäußerung Unterstützungsbedarf und Text aktualisieren lassen.",
+      "Stichtagsauszug nachfordern und danach Salden sowie Verzeichnis korrigieren; verfügbares Material nicht als vollständige Betreuungskontrolle behandeln."
+    ],
+    "sha256": "8c476ab494b9ba0ced925d8c80b5eddd8395bf32727ee3b26b01b356f3118808"
+  },
+  "selection": {
+    "positive": [
+      "Erstellen Sie mein erstes Vermögensverzeichnis für die betreute Person aus den Kontoständen bei Bestellung.",
+      "Prüfen Sie, ob eine geplante Wohnungsaufgabe vom Betreuungsauftrag und den erforderlichen Genehmigungen gedeckt ist."
+    ],
+    "negative": [
+      "Berechnen Sie den Kindesunterhalt nach einer Trennung.",
+      "Erstellen Sie die Erbschaftsteuererklärung ohne Bezug zu einer laufenden Betreuung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "anfangsbestand-und-spaetere-erbschaft",
+      "request": "Frau Dorn wurde am 1. September 2026 zur Betreuerin von Herrn Seidel mit dem Aufgabenbereich Vermögenssorge bestellt. Zum Bestellungszeitpunkt bestanden Giroguthaben 4200 Euro, Sparguthaben 10000 Euro, Bargeld 180 Euro und eine unstreitige Darlehensschuld von 2000 Euro. Monatliche Rente 1650 Euro, Miete 620 Euro und Versicherungen 80 Euro sind regelmäßige Einnahmen beziehungsweise Ausgaben. Am 10. September erhielt Seidel zusätzlich 5000 Euro aus einer Erbschaft. Kontoauszüge und Darlehensbestätigung liegen Dorn vor, sind aber hier nicht angehängt. Erstellen Sie auf Basis dieser Angaben einen Entwurf des Vermögensverzeichnisses und ein Begleitschreiben an das Betreuungsgericht zum 14. September. Kennzeichnen Sie die noch beizufügenden Nachweise; behaupten Sie keine eigene Einsicht in diese Belege.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Anfangsbestand wird auf den 1. September bezogen, mit Aktiva von 14380 Euro und gesonderter Schuld von 2000 Euro; eine etwaige Nettoangabe beträgt 12380 Euro.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die 5000 Euro Erbschaft werden als späterer Hinzuerwerb beziehungsweise Ergänzung erfasst, nicht rückwirkend in den Anfangsbestand oder als regelmäßiges Einkommen eingeordnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Regelmäßige Einnahmen und Ausgaben stehen getrennt vom Vermögensbestand. Das Begleitschreiben benennt die noch beizufügenden Belege und gibt eine Versicherung nicht als bereits persönlich abgegeben aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "vermoegensverzeichnis-start"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Gesamte Werkstatt einschließlich Altverweisen gelesen. Ein verbleibender Widerspruch zwischen Vermögensverzeichnis und alter Zuordnung von Paragraf 1835 zum Aufwendungsersatz wurde gezielt beseitigt.",
+    "changes": [
+      "Paragraf 1835 als Vermögensverzeichnis bezeichnet und alte Zuordnung ausdrücklich ausgeschlossen.",
+      "Vorhandene Fortsetzung nach Wunschklärung, Beschluss- und Kontoauszugnachreichung bestätigt.",
+      "Bericht, Genehmigung und Vermögensrechnung bleiben unterschiedliche Produkte; weitere Altverweise weiterhin nur als Prüfbedarf."
+    ],
+    "sha256": "3ff9cb3373eb59b931afd68edc06b5a7a0983dcb6631e0f47635e11bbeab0918"
+  }
 }

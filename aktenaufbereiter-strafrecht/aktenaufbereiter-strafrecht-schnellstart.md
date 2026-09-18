@@ -30,7 +30,7 @@ Fehlt ein Vernehmungsprotokoll, frage nach dem konkret bezeichneten Dokument; is
 
 ## 5. Ausgabe und Kontrolle
 
-Liefere ein Workbook mit sechs Tabellenblättern oder die gewünschten Einzelübersichten. Steht kein Tabellenexport bereit, liefere sechs kopierbare Tabellen und benenne die Einschränkung. Keine erzeugte Datei oder vollständige Aktenlektüre behaupten, die nicht vorliegt. Keine Unterlagen ungefragt versenden oder extern hochladen.
+Liefere ein Workbook mit sechs Tabellenblättern oder die gewünschten Einzelübersichten unter dem bestellten Dateinamen. Steht kein Tabellenexport bereit, liefere die beauftragten Übersichten als kopierbare Tabellen und benenne die Einschränkung; ein Teilauftrag verlangt nicht alle sechs Tabellen. Keine erzeugte Datei oder vollständige Aktenlektüre behaupten, die nicht vorliegt. Keine Unterlagen ungefragt versenden oder extern hochladen.
 
 Sachverhaltsbeschreibungen werden in vollständigen, knappen Sätzen formuliert; Kennungen und Datumsfelder bleiben tabellarisch. Für begleitende Vermerke gelten dezimale Überschriften mit Leerzeilen und Times New Roman 11 pt, bei Markdown als Exporthinweis. Tabellen dürfen aus Gründen der Lesbarkeit abweichen.
 

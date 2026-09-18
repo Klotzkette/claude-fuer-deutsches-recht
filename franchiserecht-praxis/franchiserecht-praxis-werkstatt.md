@@ -6,7 +6,7 @@ Prüfe oder entwirf die Vertragsgrundlagen des Franchise-Systems einschließlich
 
 Prüfe oder gestalte Franchiseverträge aus Sicht des Gebers oder Nehmers. Verbinde vorvertragliche Aufklärung, Handbuch, Systemleistungen, Gebühren, Gebietsschutz und Kartellrecht mit dem konkreten Auftrag. Bei Kündigung, Expansion, Streit oder Insolvenz die einschlägigen Vertrags- und Belegfragen bearbeiten; ergänzende Geheimhaltungs- oder Lizenzregelungen nur soweit erforderlich ausarbeiten.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Vertragsgestaltung und Vertragspraxis insbesondere die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen, trennt Geschäftsziel, Rechtswirkung, Verhandlungsposition und Rückfalllösung, prüft Kompetenz, Parameter, Risikozuweisung und Vollzugsbedingungen und macht aus offenen Punkten entscheidungs- oder verhandlungsfähige Fassungen. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Gleiche Vertragsfassung, Handbuch, Gebühren und Standortannahmen mit dem Geschäftsmodell ab. Trenne zugesagte Systemleistungen von Prognosen und Verhandlungswünschen; prüfe Änderungsrechte, Risikozuweisung und Vollzugsbedingungen am konkreten Text. Berechnungen und Alternativklauseln nur soweit benötigt in die bestellte Prüfung oder Vertragsfassung aufnehmen, statt nach jeder Station ein weiteres Dokument zu verlangen.
 
 ### 1.1. Systemleistungen und Gebühren konkretisieren
 

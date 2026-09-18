@@ -6,7 +6,7 @@ Bearbeite den konkreten Abstimmungsbedarf zwischen Kanzlei und Mandantschaft zu 
 
 Organisiere den Mandatsverlauf für Kanzlei, Mandant und Rechtsabteilung. Werte vorhandene Unterlagen zu Mandatsannahme, Interessenkontrolle, Vollmacht, Fristen, elektronischer Einreichung, Aufgabenverteilung, Budget, Rechnung, Aktenführung und Abschluss zuerst aus. Berücksichtige Vorgaben für externe Rechtsberatung (OCG), Statusübersichten und Prozessführung. Kläre Erwartungen und Zuständigkeiten für die Zusammenarbeit; dokumentiere Verantwortlichkeiten und Übergaben.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Kanzleibetrieb und Mandatssteuerung insbesondere die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben, trennt Original, Arbeits- und Freigabefassung, prüft Vollständigkeit, Lesbarkeit, Benennung, Signaturbedarf und Ausgabeweg und macht jede Änderung bis zur Eingangsdatei rückverfolgbar. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Trenne vereinbarten Auftrag, Arbeitsfassung und tatsächliche Freigabe. Prüfe Kostenstand und Änderungswünsche anhand der belegten Vereinbarungen und führe sie im bestellten Bericht oder Brief zusammen. Die nachfolgenden Übersichten sind Auswahlhilfen, kein obligatorisches Mandats- oder Übergabepaket für jede Anfrage.
 
 ### 1.1. Vereinbarung und Änderungsbedarf
 
@@ -20,7 +20,7 @@ Eine vollständige Budgetdatei beweist nicht die Genehmigung des Inhalts. Intern
 
 | Bedarf | Sofortausgabe | Qualitätsgriff |
 | --- | --- | --- |
-| Freigabe- oder Versandengpass: maßgebliche Fassung, Freigabe, Anlage oder Ausgabeformat | Produktionscheck mit Termin, Verantwortlichem und Sofortkorrektur | Interessenkollision, Identität, Vollmacht oder Mandatsannahme ist offen; vor Fortsetzung klären |
+| Offene Annahme- oder Freigabegrundlage | Konkrete Klärung von Auftrag, befugter Person und Beleg | Unzulässige Handlung zurückstellen; zulässige unabhängige Vorbereitung weiterführen |
 | Tragendes Arbeitsprodukt | Mandatsblatt: Beteiligte, Gegner, Gegenstand, Umfang, Vollmacht, Interessenkontrolle, Frist, Bearbeiter, Budget und nächster Schritt | jede Änderung bleibt auf Eingangsdatei und Freigabe zurückführbar |
 | Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Ist das Mandat wirksam angenommen und der Umfang eindeutig dokumentiert |
 | Datei- und Fundstellenkontrolle | Versions-, Anlagen- und Nachweismatrix | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben |
@@ -48,8 +48,8 @@ Eine vollständige Budgetdatei beweist nicht die Genehmigung des Inhalts. Intern
 ## 2. Grenzen von Bearbeitung und Versand
 
 - Offene Interessenkollision, Identität, Vollmacht oder Mandatsannahme konkret klären; unzulässige Mandatsbearbeitung nicht durch einen bloßen Dateinachweis rechtfertigen.
-- Eine Frist läuft, ohne dass Verantwortlicher, Vertretung und Übermittlungsnachweis feststehen.
-- Ein Dokument soll versandt werden, obwohl Freigabe, Signatur oder Anlagenvollständigkeit fehlt.
+- Bei laufender Frist Verantwortlichen und Vertretung klären und den tatsächlichen Übermittlungsstand prüfen; einen bloßen Entwurf nicht als fristwahrend darstellen.
+- Vor Versand Freigabe, erforderliche Signatur und Anlagenvollständigkeit prüfen; fehlende Versandfreigabe hindert nicht die interne Fertigstellung.
 - Bei unklarem Empfänger, Fassungsstand, Freigabe oder Anlagenbestand gezielt nachfragen und unabhängig davon bearbeitbare Teile vorläufig erstellen.
 - Einen fertigen Entwurf von freigegebener, signierter und tatsächlich übermittelter Fassung unterscheiden. Fehlender Versandnachweis verhindert eine Versandbestätigung, nicht die interne Fertigstellung des Textes.
 
@@ -57,15 +57,15 @@ Eine vollständige Budgetdatei beweist nicht die Genehmigung des Inhalts. Intern
 
 ### 3.1. Mandat eröffnen
 
-Produktionsgriff Mandat eröffnen: Beteiligte, Gegenstand, Gegner, Interessenkontrolle, Identität, Vollmacht, Umfang und Vergütung sichern. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: geprüfte Datei oder priorisierte Fehlteilliste mit Termin.
+Bei Mandatsbeginn Beteiligte, Gegenstand, Gegner, Interessenkontrolle, Identität, Vollmacht, Umfang und Vergütung aus den Unterlagen bestimmen. Bereits dokumentierte Angaben bei späteren Budget- oder Berichtsaufträgen übernehmen. Fehlende entscheidende Vereinbarung nachfordern und anschließend die bestellte Annahmeunterlage vervollständigen.
 
 ### 3.2. Fristen und Zuständigkeit
 
-Produktionsgriff Fristen und Zuständigkeit: Eingang, Bekanntgabe, Fristart, Fristende, Kalender, Verantwortlicher und Vertretung doppelt dokumentieren. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: geprüfte Datei oder priorisierte Fehlteilliste mit Termin.
+Ordne Eingang, Bekanntgabe, Fristart und Fristende dem verantwortlichen Bearbeiter und seiner Vertretung zu. Gleiche Kalender und Nachweis ab; bei Abweichung den betroffenen Zeitpunkt gezielt klären. Eine Fehlteilliste überbrückt die Lücke, ersetzt aber nicht die nach Klärung fertigzustellende Fristeninformation oder Sicherungsvorlage.
 
 ### 3.3. Bearbeitung steuern
 
-Produktionsgriff Bearbeitung steuern: Arbeitsauftrag, Dokumentstand, Freigabe, Vieraugenkontrolle, Budget, offene Punkte und Mandantenentscheidung führen. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: geprüfte Datei oder priorisierte Fehlteilliste mit Termin.
+Gleiche Arbeitsauftrag, Dokumentstand, Budget und letzte Mandantenentscheidung ab. Prüfe, welche Freigabe und Gegenkontrolle für die konkrete Änderung vereinbart ist. Nach ergänzter Kostenfreigabe die betroffenen Beträge und Leistungen im bestellten Bericht aktualisieren, nicht das gesamte Mandat erneut aufnehmen.
 
 ### 3.4. Versand und Nachweis
 
@@ -73,7 +73,7 @@ Produktionsgriff Versand und Nachweis: Signatur, Dateiformat, Anlagen, Übermitt
 
 ### 3.5. Mandat abschließen
 
-Produktionsgriff Mandat abschließen: Ergebnis, offene Vollstreckung, Rechnung, Fremdgeld, Rückgabe, Aufbewahrung und Wiedervorlage dokumentieren. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: geprüfte Datei oder priorisierte Fehlteilliste mit Termin.
+Prüfe beim Abschluss Ergebnis, offene Vollstreckung, Rechnung, Fremdgeld, Rückgabe, Aufbewahrung und Wiedervorlage, soweit im Mandat betroffen. Verfasse den bestellten Abschlussbrief oder Übergabevermerk. Noch fehlende Angaben genau benennen und nach Eingang einarbeiten; keinen erfolgten Versand oder eine Rückgabe ohne Nachweis bestätigen.
 
 ## 4. Produktions- und Übergabekarte
 
@@ -133,7 +133,7 @@ Produktionsgriff Mandat abschließen: Ergebnis, offene Vollstreckung, Rechnung, 
 10.5. Nachweis: Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben. Jede Änderung bleibt zur Ausgangsfassung rückführbar.
 10.6. Fehlerbild: Prüfe die stärkste Übergabe- oder Freigabestörung; sie liegt typischerweise bei Interessenkontrolle, Identität, Vollmacht und verantwortlicher Bearbeiter belegt.
 10.7. Korrektur: Behebe Inhalt, Format, Anlagenbezug und Benennung gemeinsam und dokumentiere, welche Eingangsdatei wie verändert wurde.
-10.8. Ausgabepaket: Schließe mit Mandatsblatt: Beteiligte, Gegner, Gegenstand, Umfang, Vollmacht, Interessenkontrolle, Frist, Bearbeiter, Budget und nächster Schritt; Versandkontrolle: Dokument, Fassung, Signatur, Anlagen, Empfänger, Kanal, Zeitpunkt, Bestätigung und Fehlerprotokoll; Öffnungsprobe, Freigabe und Übergabenachweis gehören dazu.
+10.8. Liefere das bestellte Budgetmemo, die Rechnungserläuterung, Vereinbarung oder den Übergabevermerk vollständig. Ein zusätzliches Mandatsblatt oder Exportpaket nur bei entsprechendem Bedarf erstellen. Öffnungsprobe, Freigabe und Übergabe ausschließlich als erfolgt dokumentieren, wenn sie tatsächlich stattgefunden haben.
 10.9. Status: Ordne jede Datei als Eingang, Arbeitsfassung, freigegeben, exportiert oder übermittelt ein; rechtliche Vorgaben werden nur mit gesichertem Stand verwendet: erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -184,7 +184,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 ## 16. Fachspezifische Praxisrouten
 
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
+Wähle die Route nach dem bereits erkennbaren Auftrag. Wiederhole die dort aufgeführten Aufnahmefragen nicht, wenn Ziel, Budget oder gewünschtes Dokument feststehen. Ein genanntes Übergabepaket ist nur bei beauftragter Übergabe erforderlich; bei einer Budget-E-Mail genügen vollständiger Entwurf und nötige Rechnung. Fehlende entscheidende Freigaben gezielt klären und danach bis zum bestellten Dokument fortsetzen.
 
 ### 16.1. Rechnungsstreit deeskalieren
 

@@ -1,6 +1,6 @@
 # 1. Bauzeitentschädigung aus konkreter Vorhaltung
 
-Bewerte meine Bauzeitforderung wegen fehlender Mitwirkung des Bestellers und erstelle die bestellte Bezifferung, Anspruchsbegründung oder Abwehr. Lies Vertrag, Termine, Hindernisbelege und vorhandene Berechnungen zuerst. Schwerpunkt sind tatsächliche Vorhaltung und die Abgrenzung späterer Kostenfolgen. Frage nur nach noch entscheidenden Angaben; ein Bewertungsauftrag verlangt keinen zusätzlichen Klageentwurf. Dieser Prompt benötigt keine installierten Erweiterungen.
+Bewerte meine Bauzeitforderung wegen fehlender Mitwirkung des Bestellers und erstelle die bestellte Bezifferung, Anspruchsbegründung oder Abwehr. Schwerpunkt sind tatsächliche Vorhaltung und die Abgrenzung späterer Kostenfolgen.
 
 ## 1.1. Sachverhalt und Störung
 
@@ -27,10 +27,12 @@ Vor Verwendung Normfassung, Vertragsbezug und amtliche Rechtsprechung prüfen. K
 
 ## 1.4. Konkretes Arbeitsprodukt
 
-Fehlen Einsatzzeiten, fordere die Tagesnachweise für die konkret betroffenen Beschäftigten oder Geräte an. Fehlt die Kalkulation, frage nach den Vergütungsanteilen der betreffenden Ressourcen und bewerte Zeiten und Anspruchsgrund bereits vorläufig. Nach der Antwort rechne die betroffenen Positionen neu, kontrolliere Ersatzbaustellen und Doppelzählungen und passe die Anspruchsbegründung oder Erwiderung an. Neue entscheidende Widersprüche erlauben weitere kurze Rückfragen; bekannte Projektdaten nicht erneut abfragen. Führe nach der Klärung bis zum bestellten Dokument fort. Auch Nachforderungen dürfen unbekannten Stillstand nicht als feststehend voraussetzen.
+Fehlen Einsatzzeiten, fordere die Tagesnachweise für die konkret betroffenen Beschäftigten oder Geräte an. Fehlt die Kalkulation, frage nach den Vergütungsanteilen der betreffenden Ressourcen und bewerte Zeiten und Anspruchsgrund bereits vorläufig. Nach der Antwort rechne die betroffenen Positionen neu, kontrolliere Ersatzbaustellen und Doppelzählungen und passe die Anspruchsbegründung oder Erwiderung an.
+
+Neue entscheidende Widersprüche erlauben weitere kurze Rückfragen; bekannte Projektdaten nicht erneut abfragen. Führe nach der Klärung bis zum bestellten Dokument fort. Auch Nachforderungen dürfen unbekannten Stillstand nicht als feststehend voraussetzen. Ein Bewertungsauftrag verlangt keinen zusätzlichen Klageentwurf.
 
 Liefere die beauftragte Bewertung oder den vollständigen Forderungs- beziehungsweise Erwiderungstext unter dem gewünschten Dateinamen; ohne Dateivorgabe nutze `ergebnis.md`. Füge die benötigte Rechnung mit Menge, Tagen, Satz, Beleg, Abzug und Anspruchsweg bei. Zeit- und Ressourcenübersichten nur soweit für die Nachvollziehbarkeit erforderlich.
 
 Folgepositionen und stärkstes Gegenargument gesondert behandeln. Keine pauschale Quote bei Mitverantwortung. Quellenstatus und interne Kontrollen bleiben in einer getrennten Arbeitsnotiz, nicht im Mandantenbrief.
 
-Keine Kündigung, Arbeitsunterbrechung, Nachtragsbeauftragung, Versendung oder Einreichung ohne ausdrücklichen Auftrag. Vollständige Sätze statt Skeletten, echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Überschriften mit Leerzeilen. Formatstandard: Times New Roman 11 pt und Markdown-Exporthinweis. Ohne Dateifunktion Text ausgeben; ohne Quellenzugriff die verbleibende Prüfung klar benennen.
+Keine Kündigung, Arbeitsunterbrechung, Nachtragsbeauftragung, Versendung oder Einreichung ohne ausdrückliche Freigabe. Dieser Prompt benötigt keine installierten Erweiterungen; ohne Dateifunktion liefere den vollständigen Text und benenne ohne Quellenzugriff die verbleibende Prüfung. Verwende vollständige Sätze, echte Umlaute und ß, Paragraf ausgeschrieben und dezimale Überschriften mit Leerzeilen. Bei formatierten Dokumenten gilt Times New Roman 11 pt; notwendige Exporthinweise stehen getrennt vom Empfängertext.

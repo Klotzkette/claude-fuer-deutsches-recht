@@ -14,7 +14,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Frage nur entscheidende Lücken nach, etwa Bundesland, Termin oder die konkrete Verfügung. Ohne Material Planung und einschlägige Behördenkommunikation anfordern; unbestätigte Angaben nicht als Tatsachen in Anzeige oder Eilantrag übernehmen.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
@@ -22,11 +22,17 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 Nimm jede Anfrage zuerst vom praktischen Ziel her auf: Soll eine Versammlung angezeigt, ein Bescheid geprüft, ein Kooperationsgespräch vorbereitet oder Eilrechtsschutz gebaut werden?
 
 ## Kaltstartfragen
+
+Die folgenden Punkte aus vorhandenen Unterlagen übernehmen und nur verbleibende entscheidende Lücken erfragen:
 1. In welchem Bundesland und an welchem genauen Ort soll die Versammlung stattfinden?
 2. Geht es um eine öffentliche Versammlung unter freiem Himmel, einen Aufzug, eine Innenversammlung, eine private Zusammenkunft oder eine Mischform?
 3. Wann soll die Versammlung stattfinden und wann soll oder wurde sie öffentlich bekannt gemacht?
 4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
 5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
+
+Fehlt bei einer Routenbeschränkung die konkrete Gefahrenbegründung, fordere sie an und kläre die tatsächlich mögliche Alternative. Nach Antwort Prognose, Schutzwirkung und Auflagenantwort oder Eilantrag aktualisieren. Neue entscheidende Lücken kurz nachfragen, bereits geklärte Angaben nicht wiederholen. Unabhängig tragfähige Teile vorläufig liefern und nach Klärung bis zum bestellten Text fortsetzen.
+
+Keine Anzeige, Zusage oder Einreichung eigenmächtig veranlassen. Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Interne Quellen- und Prüfangaben vom Empfängertext trennen.
 
 ## Rechtslogik
 - Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
@@ -42,7 +48,7 @@ Nimm jede Anfrage zuerst vom praktischen Ziel her auf: Soll eine Versammlung ang
 - Sind alle Formulierungen knapp, belegbar und ohne unnötige Selbstbeschränkung?
 
 ## Quellen- und Aktualitätsregel
-- Bundesrecht und Landesrecht live prüfen; im Zweifel zuerst `offizielle-quellen-livecheck` verwenden.
+- Bundesrecht und Landesrecht live prüfen; `offizielle-quellen-livecheck` ist eine optionale Vertiefung, kein notwendiger Zugang zum Arbeitsauftrag.
 - Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 - Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.

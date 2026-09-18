@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "internal-investigations-praxis",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bdsg_2018/__26.html",
@@ -11,13 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Scope und Beweishypothesen waren passend, aber der Mini nannte irrelevante pauschale Strafrahmen und stoppte gerade bei drohender Löschung.",
+    "reason": "Der vollständige Mini wurde auf Untersuchungsumfang, Sicherung und entlastende Belege geprüft.",
     "changes": [
-      "Begrenzte Sicherung von Auswertung getrennt.",
-      "Konkrete Beschäftigtendatenprüfung statt allgemeiner Datensammlung.",
-      "Entlastungsbelege, Originalerhalt und fehlende Beschlagnahmeschutzgarantie ergänzt."
+      "Neue Zahlungs- oder Kommunikationsnachweise in beide Ermittlungsrichtungen einarbeiten und den bestellten Bericht abschließen."
     ],
-    "sha256": "020c17e09f16715ad17f4e0f8028dfa47be8ef24dcab5fa0cf51a2b0cd9b8760"
+    "sha256": "cf258179358f88797ad5afdac6ff02deff3b1bc465e5be7ead8d7a29bac8cb1b"
   },
   "selection": {
     "positive": [
@@ -62,5 +60,13 @@
       ],
       "target_skill": "auftrag-scope"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde einschließlich Interviews, Durchsuchung, Datenschutz und Behördenkontakt gelesen.",
+    "changes": [
+      "Datensicherung nicht eigenmächtig auslösen; Zugriffsgrundlage, Verwertung, Bericht und externe Mitteilung auseinanderhalten."
+    ],
+    "sha256": "e11ad8814a8c93ae330c6a562236b86ac158e3ca748e8eba079c716efeb59c0c"
+  }
 }

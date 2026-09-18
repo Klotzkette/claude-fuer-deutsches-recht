@@ -1,6 +1,6 @@
 # Schadensregulierung für Unternehmen und Haftpflichtversicherer
 
-Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
+Prüfe Haftung, Deckung und Schadenpositionen aus der beauftragten Unternehmens- oder Versichererperspektive und erstelle das gewünschte Schreiben. Lies die vorhandene Schadenakte zuerst.
 
 ## 1. Auftrag und Einstieg
 
@@ -125,7 +125,7 @@ ZPO Paragraf 286 und Paragraf 287 regeln unterschiedliche Beweismaßstäbe. Die 
 
 Mitverschulden erfordert konkrete Umstände und deren Ursächlichkeit. Eine Warnansage beweist nicht, dass der Fahrgast sie hörte oder erst danach den Ausstieg begann. Eine Jacke mit weiterem Saum ist nicht schon für sich ein rechtlich relevantes Fehlverhalten. Ebenso darf ein belegtes bewusstes Hineingreifen in eine sich schließende Tür nicht ignoriert werden. Keine Standardquote von 25, 50 oder 75 Prozent ohne tragfähige Tatsachen und Begründung.
 
-Bei fortbestehender Unklarheit nenne die eine Aufklärung, die die Entscheidung tatsächlich verändern kann. Ist sie unverhältnismäßig aufwendig, stelle die begrenzte wirtschaftliche Vergleichsüberlegung daneben. Trenne juristische Haftungsbewertung und wirtschaftliche Entscheidung; ein vertretbarer Kulanzbetrag ist kein Beweis für eine bestimmte Rechtslage.
+Bei fortbestehender Unklarheit benenne die konkret entscheidende Aufklärung. Nach einem Befund, Zahlungsbeleg oder einer Antwort des Versicherers aktualisiere nur die betroffenen Schadenpositionen, Anspruchsinhaber oder Deckungsfragen und schreibe das bestellte Dokument fertig. Neue entscheidende Lücken gezielt klären, bereits beantwortete Fragen nicht wiederholen. Ist weitere Aufklärung unverhältnismäßig aufwendig, stelle eine begrenzte wirtschaftliche Vergleichsüberlegung daneben; Kulanz ist kein Beweis für eine bestimmte Rechtslage.
 
 ## 9. Versicherung vom ersten Tag an einbinden
 
@@ -245,7 +245,7 @@ BGH, Urteil vom 18.02.2014, VI ZR 383/12, amtliche Leitsätze a bis c: Bei behö
 
 Amtliche Ausgangsquellen sind die Einzelnormen bei Gesetze im Internet: BGB Paragraf 241, Paragraf 249 bis Paragraf 254, Paragraf 278, Paragraf 280, Paragraf 426, Paragraf 779, Paragraf 823 und Paragraf 831; HaftPflG Paragraf 1, Paragraf 4, Paragraf 6, Paragraf 9, Paragraf 10 und Paragraf 13; VVG Paragraf 86, Paragraf 100 bis Paragraf 106 und Paragraf 115; SGB X Paragraf 116; EntgFG Paragraf 6; BOStrab Paragraf 43 und Paragraf 54. StVG und ProdHaftG nur im einschlägigen Teilvorgang ergänzen.
 
-Für jede verwendete Entscheidung Gericht, Datum, Aktenzeichen, Randnummer, amtliche Fundstelle, tragende Aussage und Übertragungsgrenze festhalten. Volltext geprüft, nur Leitsatz geprüft und noch nicht verifiziert sind unterschiedliche Status. Keine neuere Entscheidung erfinden, nur um einen aktuellen Jahresstand zu suggerieren. Die beiden Fallkarten sind methodische Ausgangspunkte, keine Behauptung einer vollständigen Rechtsprechungsrecherche. Vor rechtlicher Endfreigabe Rechtsstand und relevante Fortentwicklung nachprüfen. Ohne Zugriff die Aussage mit genau begrenztem Vorbehalt kennzeichnen.
+Für jede verwendete Entscheidung Gericht, Datum, Aktenzeichen, Randnummer, amtliche Fundstelle, tragende Aussage und Übertragungsgrenze festhalten. Volltext geprüft, nur Leitsatz geprüft und noch nicht verifiziert sind unterschiedliche Status. Keine neuere Entscheidung erfinden, nur um einen aktuellen Jahresstand zu suggerieren. Die Fallkarten sind methodische Ausgangspunkte, keine vollständige Rechtsprechungsrecherche. Vor rechtlicher Endfreigabe Rechtsstand und Fortentwicklung prüfen. Zusätzliche Quellenstatushinweise getrennt vom Außenbrief führen.
 
 ## 17. Ausgaben nach dem tatsächlichen Bedarf
 
@@ -269,58 +269,6 @@ Prüfe, ob der richtige Rechtsträger, Anspruch, Schaden und Gläubiger zusammen
 
 Prüfe die Wirkung des konkreten Textes: bloße Auskunft, Anerkenntnis, Vergleich, Teilzahlung oder endgültige Abfindung. Stimmen Vollmacht und Freigabestatus? Bleiben Drittansprüche und ungeklärte Zukunftsschäden richtig behandelt? Steht ein tatsächlich überwachbarer nächster Schritt fest? Wenn ein Punkt offen ist, liefere trotzdem das unabhängig fertige Arbeitsprodukt und benenne genau die Sperre. Keine endlose Wiederholung derselben Nachfrage und keine Freigabe aus bloßer Ermüdung.
 
-<!-- BEGIN fachrouten-werkstatt (autogen) -->
-## 19. Fachspezifische Praxisrouten
+## 19. Technische Grenzen
 
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
-
-### 19.1. Vorfall und Bearbeiterrolle
-
-Bearbeitungsauftrag: Ordne Meldung, Kenntnistag, Rechtsträger und benötigten Entwurf zu. Als Unternehmen VVG Paragraf 104 beachten; als bereits regulierender Versicherer keine Anzeige an sich selbst erzeugen.
-Lieferstück: rollenrichtiger Erstentwurf mit Ereignis, gefährdeten Belegen, Zuständigkeit und offenem Deckungsstand.
-
-### 19.2. Türprotokoll und flüchtige Belege
-
-Bearbeitungsauftrag: Bezeichne Kamera, Wagen, Tür, Originalzeit und gefährdetes Zeitfenster. Halte Uhrversatz, fehlende Bilder und Grenzen eines nachträglichen Türtests getrennt fest.
-Lieferstück: präzise Sicherungsanforderung und Ereignisfolge mit Originalzeiten, Quellen und Beobachtungslücken.
-
-### 19.3. Betreiber oder Hersteller
-
-Bearbeitungsauftrag: Prüfe Schienenbetrieb nach HaftPflG Paragraf 1 getrennt von Kraftfahrzeug-, Vertrags-, Delikts- und Produkthaftung. Eine mögliche Herstellerverantwortung ersetzt keine Prüfung des Betreiberanspruchs.
-Lieferstück: begründeter Haftungsvermerk mit konkreter Rollenverteilung, Tatbestandsmerkmalen und beweisbaren Einwendungen.
-
-### 19.4. Kleidung und Nebenkosten
-
-Bearbeitungsauftrag: Gleiche Kaufpreis, Alter, Zustand, Reparaturangebot und Restnutzung ab. Trenne tatsächlich bezahlte Fahrten von bloßen Listen und ein Angebot von einer Rechnung.
-Lieferstück: nachrechenbare materielle Positionsrechnung mit Vorzahlungen und gezielter Belegnachforderung.
-
-### 19.5. Verletzung und spätere Angst
-
-Bearbeitungsauftrag: Trenne Erstbefund, Verlauf, Patientenschilderung und fachliche Diagnose. Nutze VI ZR 937/20 für die Gesamtbemessung, nicht als Betragsvergleich; ordne VI ZR 168/21 als mittelbaren Schockschaden ein.
-Lieferstück: medizinisch abgegrenzter Schadenvermerk mit offener Prognose und begründetem weiteren Aufklärungsbedarf.
-
-### 19.6. Krankenkasse und Arbeitgeber
-
-Bearbeitungsauftrag: Prüfe Leistungsart und Zeitraum nach SGB X Paragraf 116 und EntgFG Paragraf 6. Ein eigener Sach- oder Schmerzensgeldanspruch wird nicht allein durch die Krankenversicherung übertragen.
-Lieferstück: Gläubiger- und Zahlungstabelle sowie Antwort auf eine noch unbezifferte Regressanmeldung.
-
-### 19.7. Zwischenantwort und Teilregulierung
-
-Bearbeitungsauftrag: Schreibe aus dem tatsächlichen Bearbeitungsstand. Grenze eine Zahlung auf bestimmte Positionen und ihre Anrechnung ein, ohne offene Personenschäden oder fremde Ansprüche heimlich mitzuerledigen.
-Lieferstück: adressierter, ausformulierter Antwortbrief mit konkretem nächsten Termin und zutreffendem Freigabestatus.
-
-### 19.8. Abfindung und Abschlussnachweis
-
-Bearbeitungsauftrag: Prüfe Vergleichsumfang, Zukunftsschäden, Vollmacht, Deckungsstand und bestätigte Zahlungsdaten. Halte offene Regressvorgänge und Verjährungsfragen auch nach einer Teilzahlung sichtbar.
-Lieferstück: ausformulierter Vergleich mit interner Freigabevorlage und Abschlussnotiz anhand tatsächlicher Annahme- und Zahlungsbelege.
-
-### 19.9. Haftpflichtversicherer führt die Regulierung
-
-Bearbeitungsauftrag: Trenne Deckung, Haftung und Außenbefugnis. VVG Paragraf 100 und Paragraf 101 erfassen Freistellung und Abwehr; Paragraf 106 ist keine allgemeine Zahlungsfrist ab Erstmeldung. Reserve intern halten und Besichtigung mit Umfang, Termin und Kostenfreigabe vorbereiten.
-Lieferstück: interne Regulierungsvorlage und davon getrennter Außenbrief mit bezeichnetem Versicherungsnehmer und freigegebenen Positionen.
-
-### 19.10. Fahrzeugschaden beim Abschleppen
-
-Bearbeitungsauftrag: Trenne Anordnung, Kosten und Ausführungsschaden. Ermittle öffentlichen oder privaten Auftraggeber, Obhutskette und Vorschäden. VI ZR 383/12 betrifft den hoheitlichen Auftrag; Zeichen 224 ist kein allgemeines Haltverbot und Falschparken keine automatische Mithaftung am Abschleppschaden.
-Lieferstück: begründeter Rollen- und Schadenvermerk mit gezielter Besichtigungsanforderung, Reparaturabgleich und offenem Versicherungsweg.
-<!-- END fachrouten-werkstatt (autogen) -->
+Nur verfügbare Werkzeuge nutzen; fehlenden Zugriff oder unlesbare Unterlagen konkret benennen und unabhängige Teile weiterbearbeiten. Ohne Export den Text liefern, keine Datei oder erfolgreiche Sicherung behaupten. Nutzerdateinamen gehen vor; andere Skills sind optional, und externe Handlungen erfordern weiterhin ausdrückliche Freigabe.

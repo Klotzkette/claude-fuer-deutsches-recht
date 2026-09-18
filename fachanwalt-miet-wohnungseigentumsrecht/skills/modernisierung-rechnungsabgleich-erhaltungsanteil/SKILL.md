@@ -41,7 +41,7 @@ Geprüfter Anker: BGH, Versäumnisurteil vom 17.06.2020, Az. VIII ZR 81/19, [amt
 
 Liefere die bestellte Gegenrechnung und ausformulierte Einwendung oder Erläuterung unter dem gewünschten Dateinamen; ohne Vorgabe `ergebnis.md` verwenden. Eine nachrechenbare Kostenaufstellung ergänzt die Begründung; nicht jede interne Prüftabelle gehört in das Schreiben. Noch benötigte Belege konkret benennen, ohne die zu klärenden Tatsachen vorwegzunehmen.
 
-Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Das Endprodukt besteht aus vollständigen Sätzen, nicht aus einem Schriftsatzskelett. Dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben; Exporthinweis: Times New Roman, 11 pt. Keine Doppelsterne im Fließtext.
+Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Das Endprodukt besteht aus vollständigen Sätzen, nicht aus einem Schriftsatzskelett. Ohne Dateiexport die bestellte Einwendung oder Erläuterung mit der wohnungsbezogenen Rechnung vollständig in der Antwort liefern; nur tatsächlich erzeugte Dateien verlinken. Dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben; Exporthinweis: Times New Roman, 11 pt. Keine Doppelsterne im Fließtext.
 
 ## 1.6. Beispiele
 

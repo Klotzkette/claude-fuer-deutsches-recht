@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "selbstvertreter-amtsgericht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__276.html",
@@ -11,13 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ein Selbstvertreter benötigt fristbezogene Parteischritte statt richterlicher Bearbeitungslogik oder automatischer Versäumnisannahmen.",
+    "reason": "Vollständig gelesen; der brauchbare Parteischriftsatz brauchte eine ausdrückliche Fortsetzung nach Zustell- und Zahlungsnachweisen statt einer einzelnen Rückfrage.",
     "changes": [
-      "Verteidigungsanzeige und inhaltliche Erwiderung getrennt.",
-      "Zustellung und gerichtliche Verfügung als Fristgrundlage hervorgehoben.",
-      "Konkreten Entwurf ohne behauptete Einreichung vorgesehen."
+      "Antworten werden in Frist, Restbetrag und Schriftsatz eingearbeitet; weitere entscheidende Fragen erlaubt, Nutzerdateiname und getrennte Arbeitsnotiz klargestellt."
     ],
-    "sha256": "3d9f8216247d33b849c64468f4dcda8b0142b9da546fd84d906dd69afab2a302"
+    "sha256": "9bb28e2a4653d36cef47f04a62aa487af859cd0a8d7c201066bd61fb8b12ef80"
   },
   "selection": {
     "positive": [
@@ -62,5 +60,13 @@
       ],
       "target_skill": "klageerwiderung-fristen-274-zpo"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt enthielt eine widersprechende Richterrolle, Pflichtrelationen und doppelte Routen. Verbrauchergerichtsstand, Vorschusswirkung und Übergang zur Berufungsgrenze waren zudem verkürzt dargestellt.",
+    "changes": [
+      "Auf Parteischreiben umgestellt; alle konkreten Wege zu Beweisen, Kostenhilfe, Termin, Einreichung, Berufung und Vollstreckung zusammengeführt. Gerichtliche Entscheidungen werden gelesen, nicht als eigene Urteile ausgegeben; eng betroffene Normen amtlich geprüft, bestehende Profilquellen unverändert."
+    ],
+    "sha256": "2a5761f4ad76a4114f47f52190ae16b24346b88a31ede392fc95841a5ef737bf"
+  }
 }

@@ -37,7 +37,7 @@ Das bestellte Gutachten oder den vollständigen Reklamations- beziehungsweise Ve
 
 Ein Gutachtenauftrag verlangt keinen ungefragten Klageentwurf. Quellenstatus, technische Grenzen und interne Risiken getrennt vom Empfängertext dokumentieren.
 
-Ausformulierungspflicht: vollständige Sätze, keine Skelette. Formatstandard: Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen und Exporthinweis bei Markdown. Nur tatsächlich erzeugte Dateien verlinken.
+Ausformulierungspflicht: vollständige Sätze, keine Skelette. Formatstandard: Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen und Exporthinweis bei Markdown. Ohne Dateiexport den bestellten Reklamations- oder Verteidigungstext samt erforderlicher Zahlungsrechnung vollständig in der Antwort liefern. Nur tatsächlich erzeugte Dateien verlinken.
 
 ## 1.5. Beispiele
 

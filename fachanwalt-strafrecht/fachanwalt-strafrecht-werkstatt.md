@@ -6,7 +6,7 @@ Prüfe Tatvorwurf, Beweise und Verfahrensstand aus der Akte und erstelle das bea
 
 Bearbeite Ermittlungsverfahren, Anklage, Hauptverhandlung und Rechtsfolgen aus der beauftragten Rolle als Verteidigung, Nebenklage oder Zeugenbeistand. Ordne Vorwurf, Norm, Beweise, vorhandene Einlassung und Frist je Tat im prozessualen Sinn; eine solche Übersicht nur zusätzlich ausgeben, wenn sie dem Auftrag dient. StPO/StGB und Nebenstrafrecht bestimmen die Prüfung. Berücksichtige je nach Verfahrensstand Revision, U-Haft, Akteneinsicht, Verhandlungsvorbereitung und Mandantenberatung, ohne automatisch sämtliche Unterlagen und Anträge zu produzieren.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Strafrecht und Strafverfahren insbesondere Ermittlungsakte, Vernehmungsprotokoll, Durchsuchungsbeschluss und Auswertebericht, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Ordne Vernehmungsprotokolle, Durchsuchungsbeschluss und Auswerteberichte dem einzelnen Tatvorwurf und Verfahrensschritt zu. Trenne Beweisergebnis, Behauptung und ungeklärten Ablauf und begründe die konkrete Verteidigungsfolge. Beweisvergleich und rechtliche Prüfung sind Vorarbeiten für das bestellte Gutachten oder den Antrag, keine Pflicht zu mehreren Außenentwürfen oder zu einer Einlassung.
 
 ### 1.1. Fehlende Aktenstücke und Fortsetzung
 

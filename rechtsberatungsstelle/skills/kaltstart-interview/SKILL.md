@@ -3,158 +3,60 @@ name: kaltstart-interview
 description: "Für /kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle."
 ---
 
-# /kaltstart-interview
+# 1. Beratungsstelle einrichten oder gezielt weiterentwickeln
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Zweck
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Erstelle das bestellte Organisationsprofil für eine neue oder bestehende Beratungsstelle. Überarbeite bei einem Änderungsauftrag nur die betroffenen Abläufe, statt eine vollständige Neueinrichtung zu erzwingen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+## 1.2. Eingaben
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Lies vorhandenes Profil, Trägervorgaben, Beratungsangebot und bekannte Zuständigkeiten. Eine vorhandene CLAUDE.md kann als technische Konfigurationsdatei dienen, wenn ihre Bearbeitung beauftragt ist; sie ist keine Voraussetzung für ein Organisationskonzept. Übernimm bereits festgelegte Angaben zu Träger, Ort, Fachbereichen und Personal.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.3. Organisation schrittweise bestimmen
 
-## Triage zu Beginn
-1. Handelt es sich um eine Neugründung oder eine grundlegende Neuausrichtung der bestehenden Beratungsstelle?
-2. Welche Rechtsgrundlage gilt für die Beratungsstellenarbeit: § 6 Abs. 2 Nr. 2 RDG, § 8 RDG oder Tätigkeit unter zugelassenem Anwalt?
-3. Welche Fachbereiche sollen von Anfang an eingerichtet werden (Mietrecht, Sozialrecht, Aufenthaltsrecht)?
-4. Ist bereits eine CLAUDE.md vorhanden, die abschnittsweise ueberarbeitet werden soll?
+### 1.3.1. Befugnis und Träger
 
-## Zentrale Normen
-- § 6 Abs. 2 Nr. 2 RDG — Voraussetzungen für erlaubnisfreie Rechtsberatung in Beratungsstellen: Anleitungserfordernis und Unentgeltlichkeit
-- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des Anleiters: muss von Beginn an organisatorisch sichergestellt werden
-- § 203 Abs. 4 StGB — Einbeziehung Dritter (Studenten): Verschwiegenheitsvereinbarungen als Pflichtbestandteil der Ersteinrichtung
-- Art. 30 DSGVO — Verarbeitungsverzeichnis: muss vor Beginn der Datenverarbeitung erstellt werden
+Prüfe die tatsächliche Rechtsgrundlage: Paragraf 6 Absatz 2 RDG für entsprechende unentgeltliche Beratung, Paragraf 7 für einschlägige Vereinigungen oder Paragraf 8 für öffentliche und öffentlich anerkannte Stellen. Die Bezeichnung „Law Clinic“, „Verbraucherberatung“ oder „Pro Bono“ allein ersetzt diese Prüfung nicht.
 
-## Berufsrechtlicher Rahmen
+Bei Paragraf 6 Absatz 2 RDG muss die Leistung außerhalb enger persönlicher Beziehungen durch eine befugte Person, eine Person mit Befähigung zum Richteramt oder unter deren Anleitung erfolgen. Kläre tatsächliche Einweisung, Fortbildung, Einzelfallmitwirkung, Erreichbarkeit und Vertretung. Eine vorformulierte Bestätigung ist kein Nachweis gelebter Anleitung.
 
-- § 6 Abs. 2 Nr. 2 RDG: Die Organisation der Anleitungsstruktur muss sicherstellen, dass der Volljurist tatsächlich in der Lage ist, die Studentenn anzuleiten. "Formelle" Aufsicht ohne tatsächliche Prüfung genügt nicht; vgl. Krenzler, in: Krenzler (Hrsg.), RDG, 2. Aufl. 2021, § 6 Rn. 52.
-- § 43a Abs. 2 BRAO: Verschwiegenheitsorganisation muss bereits bei Einrichtung der Beratungsstelle mitgedacht werden (kein Mandantendaten-Upload in nicht abgesicherte Systeme).
-- § 203 Abs. 4 StGB: Einbeziehung Dritter (Studenten, externe IT) erfordert vertragliche Absicherung.
+### 1.3.2. Fachbereiche und Grenzen
 
-## Ablauf
+Übernimm die gewünschten Bereiche, etwa Asyl- und Aufenthaltsrecht, Sozialrecht, Miete, Verbraucherrecht, Arbeit oder Familie. Prüfe, welche personelle Sachkunde und welche Übergabewege dafür vorhanden sind. Ein weiter Beratungsumfang erfordert passende Anleitung; Straf- oder Gerichtsverfahren benötigen eine gesonderte Befugnis- und Kapazitätsprüfung.
 
-### Schritt 0: Bestehendes Profil prüfen
+Fehlt etwa eine Vertretung für eilbedürftige Aufenthaltsfälle, frage nach erreichbarer Zuständigkeit oder externer Kooperation. Nach Antwort passe Leistungsumfang, Vertretung und Fristenablauf gemeinsam an.
 
-Ist eine `CLAUDE.md` vorhanden?
-- Ja: "Ihr Profil ist bereits eingerichtet. Möchten Sie (a) das Profil anzeigen, (b) einen Abschnitt überarbeiten, oder (c) komplett neu starten (`--redo`)?"
-- Nein: Mit Schritt 1 beginnen.
+### 1.3.3. Prüfung und Lernen
 
-### Schritt 1: Beratungsstellentyp
+Lege nach Einzelfallbedarf fest, welche Entwürfe vor externer Verwendung geprüft werden müssen und wer bei knappen Fristen entscheidet. Unterscheide Fallaufnahme, internen Vermerk, Rechtsrat, Rechtsbehelf und Semesterübergabe. Ein technisches Freigabefeld ersetzt keine inhaltliche Mitwirkung.
 
-> Welche Art von Beratungsstelle richten Sie ein?
+Für Lehrsituationen kann die Beratungsstelle zwischen vollständigem Muster mit Besprechung, angeleiteter Ausarbeitung und fragender Lernbegleitung wählen. Ein real bestellter Mandantenbrief darf dadurch nicht als bloßes Textgerüst enden. Kläre eine abweichende pädagogische Vorgabe nur, wenn sie den Auftrag tatsächlich betrifft.
 
-Optionen (Mehrfachauswahl möglich):
-1. **Universitäre Refugee Law Clinic (RLC)** – Schwerpunkt Asyl/Aufenthaltsrecht; § 6 II Nr. 2 RDG
-2. **Studentische Rechtsberatung allgemein** – SGB II, Mietrecht, Verbraucherrecht; § 6 II Nr. 2 RDG
-3. **AnwVer / DAV Pro-Bono-Programm** – Zugelassene Anwälte, kein RDG-Problem
-4. **Verbraucherzentrale** – § 8 Abs. 1 Nr. 4 RDG (Sondererlaubnis)
-5. **Wohlfahrtsverband / Sozialberatung** (AWO, Caritas, Diakonie, DRK, Paritätischer) – § 8 Abs. 1 Nr. 4 RDG
-6. **Sonstiges** – Bitte beschreiben.
+### 1.3.4. Vertraulichkeit und Infrastruktur
 
-Erfasse auch: Hochschule / Trägerin, Stadt, seit wann aktiv, Anzahl aktiver Studentenr pro Semester.
+Bestimme Aktenzugriff, sichere Kommunikation, Rollen externer IT-Anbieter, Aufbewahrung und Löschung. Prüfe DSGVO, gegebenenfalls Artikel 28 und 30, sowie berufs- und strafrechtliche Verschwiegenheit nach der tatsächlichen Einbindung. Weder jeder Cloud-Anbieter noch jeder Datensatz ist ohne Prüfung derselben Kategorie zuzuordnen.
 
-### Schritt 2: Rechtsgrundlage bestätigen
+Paragraf 50 BRAO sieht für anwaltliche Handakten grundsätzlich sechs Jahre ab Ablauf des Kalenderjahres der Auftragsbeendigung vor, nicht pauschal fünf Jahre. Prüfe Anwendungsbereich, weitere Pflichten und Ausnahmen, bevor ein Löschkonzept festgelegt wird. Fehlen Anbietervereinbarung oder Zugriffsrollen, frage danach und aktualisiere nach Eingang die konkrete organisatorische Regel.
 
-Je nach Typ aus Schritt 1:
+### 1.3.5. Kontakte und Übergabe
 
-| Typ | Rechtsgrundlage | Pflichten |
-|---|---|---|
-| RLC / studentische Beratung | § 6 Abs. 2 Nr. 2 RDG | Unentgeltlichkeit, Anleitung durch Volljurist zwingend |
-| Verbraucherzentrale | § 8 Abs. 1 Nr. 4 RDG | Trägergebundene Erlaubnis; keine Einzelfallklage |
-| Sozialberatung (Verbände) | § 8 Abs. 1 Nr. 4 RDG | Satzungsgemäßer Auftrag erforderlich |
-| Pro-Bono (zugelassene Anwälte) | § 1 BRAO (volle Zulassung) | BRAO/BORA voll anwendbar |
+Erfasse passende Behörden, Gerichte, Dolmetschdienste und externe Beratung aus dem tatsächlichen örtlichen Angebot, etwa BAMF, Ausländerbehörde, Jobcenter oder Sozial- und Verwaltungsgericht. Verifiziere Zuständigkeiten; keine Kontaktstelle erfinden.
 
-> Bestätigen Sie: "Alle Beratungsleistungen erfolgen unentgeltlich. Die Studentenn stehen unter meiner tatsächlichen Anleitung. Ich nehme meine Aufsichtspflicht wahr." (§ 6 II Nr. 2 RDG)
+Regle den Semesterwechsel mit bestätigter Nachfolge, Zwischenvertretung, offenen Fristen und Mandanteninformation. Bei fehlender Nachfolge benenne die Zuweisungsentscheidung statt einen Fallabschluss vorzutäuschen.
 
-### Schritt 3: Fachbereiche
+## 1.4. Quellenpflicht
 
-> Welche Rechtsgebiete deckt Ihre Beratungsstelle ab?
+Prüfe RDG Paragrafen 6 bis 8 sowie einschlägige Datenschutz-, Verschwiegenheits- und Aufbewahrungsregeln amtlich. Keine ungeprüften Kommentarstellen oder pauschalen Pflichtzitate. Beachte references/zitierweise.md, soweit verfügbar.
 
-Optionen (Mehrfachauswahl):
-- [ ] Asyl- und Flüchtlingsrecht (AsylG, AufenthG)
-- [ ] Aufenthaltsrecht allgemein (AufenthG, FreizügG/EU)
-- [ ] SGB II / Bürgergeld
-- [ ] SGB XII / Grundsicherung im Alter
-- [ ] SGB IX / Eingliederungshilfe (inkl. § 76b SGB IX Geflüchtete)
-- [ ] Rentenrecht / SGB VI
-- [ ] Mietrecht (privat)
-- [ ] Mietrecht (Sozialwohnung / WoBindG)
-- [ ] Verbraucherrecht / AGB
-- [ ] Arbeitsrecht (Kündigung, KSchG)
-- [ ] Familienrecht (Unterhalt, Sorgerecht)
-- [ ] Strafrecht (nur eingeschränkt – an Fachanwälte verweisen)
-- [ ] Sonstiges: [Freitext]
+## 1.5. Ausgabe und Fortsetzung
 
-### Schritt 4: Aufsichtsmodell
+Liefere das beauftragte Profil oder Organisationskonzept in vollständigen Sätzen mit konkret benannten Abläufen. Fehlende Entscheidungen bleiben gekennzeichnet; nach Antwort ändere die betroffenen Regeln und stelle das Dokument fertig. Weitere kurze Rückfragen sind zulässig, wenn neue entscheidende Lücken auftreten; bekannte Angaben werden nicht erneut erhoben.
 
-> Wie möchten Sie das Aufsichtsmodell einrichten?
+Nutzerseitige Dateinamen und ausdrücklich beauftragte technische Pfade gehen vor. Ohne Dateivorgabe kann ergebnis.md verwendet werden. Formatierte Dokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung; zusätzliche Abrufvermerke stehen getrennt.
 
-**Prüfungsgates (Default, anpassbar):**
+Weitere Fachleitfäden und Einarbeitung können optional ergänzen. Ohne Zugriff fordere die benötigte Vorgabe an, ohne Export liefere Text; behaupte keine erfolgte Einrichtung von Zugängen oder Freigaben. Externe Handlungen benötigen ausdrücklichen Auftrag.
 
-| Dokument | Default-Gate |
-|---|---|
-| Widerspruch (Fristen < 2 Wochen) | Sofortige Anleiterkonsultation |
-| Widerspruch (Frist > 2 Wochen) | Anleiter prüft vor Versand |
-| Klageschrift | Anleiter prüft und gibt frei (zwingend) |
-| Mandantenbrief mit Rechtsrat | Anleiter prüft vor Versand |
-| Intake-Protokoll | Anleiter nimmt Kenntnis |
-| Memo / Rechtsgutachten | Anleiter prüft inhaltlich |
-| Semesterübergabe | Anleiter muss bestätigen |
+## 1.6. Beispiel
 
-Anleiter kann Gates verschärfen (z. B. alle Dokumente) oder – für erfahrene Studenten – für bestimmte Routinedokumente lockern.
-
-### Schritt 5: Pädagogikhaltung
-
-> Wie lernen Studenten bei Ihnen am besten?
-
-| Haltung | Beschreibung | Geeignet für |
-|---|---|---|
-| **Ausführen** | Das System erstellt vollständige Entwürfe; Studenten analysieren und übergeben | Erfahrene Studenten (3.–5. Sem.), Routinedokumente |
-| **Anleiten** | Das System gibt Struktur und Schlüsselpunkte; Studenten füllen aus | Mittelstufe (2.–3. Sem.) |
-| **Lehren** | Das System stellt nur Fragen; Studenten erarbeiten Lösung | Anfangssemester, neue Fachgebiete |
-
-Default für gesamte Beratungsstelle + ggf. Übersteuern je Fachbereich / Dokumenttyp.
-
-### Schritt 6: Verschwiegenheitsorganisation
-
-> Wie ist die IT-Infrastruktur organisiert?
-
-- Werden Mandantendaten in einem Cloud-System verarbeitet? → Auftragsverarbeitungsvertrag (AVV) nach Art. 28 DSGVO erforderlich.
-- Wer hat Zugang zu den Mandantenakten?
-- Wie werden Akten nach 5 Jahren gelöscht (§ 50 BRAO Aufbewahrungspflicht)?
-- Einweisung der Studentenn in Verschwiegenheitspflichten? → Empfehlung: Schriftliche Verpflichtungserklärung zu § 203 StGB.
-
-### Schritt 7: Örtliche Besonderheiten
-
-> Welche örtlichen Kontexte sind wichtig?
-
-- Zuständige BAMF-Außenstelle?
-- Zuständige Ausländerbehörde?
-- Jobcenter-Bezirke / Träger (kommunal oder BA)?
-- Sozialgerichte / Verwaltungsgerichte mit Zuständigkeit?
-- Kooperationspartner (Dolmetscherdienste, andere Beratungsstellen, Pro-Bono-Initiativen)?
-- Qualifizierter Mietspiegel vorhanden? (Relevant: Berlin, Hamburg, München, Frankfurt, Köln)
-
-### Schritt 8: CLAUDE.md schreiben
-
-Ausgabe: vollständige, aktualisierte `CLAUDE.md` mit allen erhobenen Konfigurationswerten. Struktur wie im CLAUDE.md-Template vorgegeben.
-
-Anschließend empfehlen:
-- `/rechtsberatungsstelle:leitfaden-erstellen` für jeden konfigurierten Fachbereich
-- `/rechtsberatungsstelle:einarbeitung` – Testlauf aus Studentenn-Perspektive
-
-## Risiken / typische Fehler
-
-- **Anleitungsstruktur nur auf dem Papier:** § 6 Abs. 2 Nr. 2 RDG verlangt tatsächliche, nicht nur formelle Anleitung. Ein Anleiter, der monatlich einmal ins Büro schaut, genügt nicht.
-- **Fachbereiche zu weit gefasst:** Eine Beratungsstelle, die alles anbietet, kann nichts gut anbieten. Lieber weniger Bereiche mit klarer Gate-Struktur als viele Bereiche mit Qualitätslücken.
-- **IT-Sicherheit nicht mitgedacht:** Cloud-Systeme ohne AVV verletzen DSGVO Art. 28. Besonders kritisch bei Asylsuchenden (Art. 9 DSGVO: besondere Kategorien).
-- **Semesterwechsel nicht organisiert:** Ohne klare Übergaberegeln fallen Mandate zwischen den Semestern durch. `/rechtsberatungsstelle:semester-übergabe` muss im Ablaufplan verankert sein.
-
----
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Eine bestehende Beratungsstelle will künftig Mietfälle bearbeiten; die bisherige Anleitung deckt nur Sozialrecht ab. Frage nach der fachlich zuständigen Person und Vertretung, statt das gesamte Profil neu aufzunehmen. Nach Klärung ergänze Annahmegrenzen, Prüfablauf und Übergabe und liefere die vollständige geänderte Fassung.

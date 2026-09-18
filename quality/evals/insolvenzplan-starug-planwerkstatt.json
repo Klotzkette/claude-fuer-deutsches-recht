@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "insolvenzplan-starug-planwerkstatt",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__244.html",
@@ -16,14 +16,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der alte Mini war ein Prognoseeinstieg und bot keine belastbare Planabstimmung.",
+    "reason": "Vollständig geprüft: Geklärte Finanzierung und Forderungsstände führen zu neuen Quoten und Stimmgewichten sowie zur abgestimmten Planfassung. Der Mini verlangt keine erfundene Zustimmung und bleibt unverändert.",
     "changes": [
       "Planinhalt, Vergleichsrechnung und Finanzierung konkretisiert.",
       "Abstimmungsnenner und Mehrheiten beider Verfahren getrennt.",
       "Gruppenmehrheit nicht mit Bestätigung oder automatischem Cram-down gleichgesetzt."
     ],
-    "sha256": "7dc9255ff2fc27728e50592ff2b8fafc791d8a56bb9ca0b448907fa6fa406454"
+    "sha256": "e7cdd088ba4819c100c07e9c44da95cb0987931f0e02837bff29cebe98e791ae"
   },
+  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung bestätigte Rückfragen zu Finanzierung und Stimmrechten; die allgemeine Stationsproduktpflicht widersprach der konsistenten Fertigstellung des bestellten Planmoduls.","changes":["Forderungen, Sicherheiten und Vergleichsrechnung in Planmodul und erforderliche Anlagen führen lassen.","Belegte Zusagen von Annahmen und offenen Zustimmungen getrennt; zusätzliche Pflichtprodukte nach jedem Schritt ausgeschlossen."],"sha256":"bde86fc7376d8754069e89b8d64d0d6cac0efe50710dd2f123c94c665b9aecc2"},
   "selection": {
     "positive": [
       "Rechne die Gruppenmehrheiten unseres Insolvenzplans nach.",

@@ -33,7 +33,9 @@ Halte die historische Einzelzahlungsbetrachtung und den heutigen Einwand geringe
 
 ### 3.5. Abschluss
 
-Fehlt ein Rückflussbeleg oder eine behauptete Verwalterzustimmung, fordere den konkreten Nachweis an. Aktualisiere nach der Antwort Zurechnung, Entlastung und Rechnung; prüfe die davon betroffenen Summen und Doppelanrechnungen erneut. Neue entscheidende Widersprüche erlauben weitere kurze Fragen. Liefere bei ausstehenden Belegen einen vorläufigen Teilstand und führe nach Klärung bis zur bestellten Bewertung oder vollständigen Anspruchs- beziehungsweise Verteidigungsfassung fort. Prüfe die Verjährung nach Paragraf 15b Absatz 7 InsO. Externe Anträge, Zahlungseingriffe und Anerkenntnisse erfordern ausdrückliche Freigabe.
+Fehlt ein Rückflussbeleg oder eine behauptete Verwalterzustimmung, fordere den konkreten Nachweis an. Aktualisiere nach der Antwort Zurechnung, Entlastung und Rechnung; prüfe die davon betroffenen Summen und Doppelanrechnungen erneut. Neue entscheidende Widersprüche erlauben weitere kurze Fragen.
+
+Liefere bei ausstehenden Belegen einen vorläufigen Teilstand und führe nach Klärung bis zur bestellten Bewertung oder vollständigen Anspruchs- beziehungsweise Verteidigungsfassung fort. Prüfe die Verjährung nach Paragraf 15b Absatz 7 InsO. Externe Anträge, Zahlungseingriffe und Anerkenntnisse erfordern ausdrückliche Freigabe.
 
 ## 4. Quellenpflicht
 
@@ -47,7 +49,7 @@ Beachte [Zitierweise](../../references/zitierweise.md), sofern verfügbar; prüf
 
 Erstelle das bestellte Gutachten oder den vollständigen Anspruchs- beziehungsweise Verteidigungstext, mit abgestimmtem Zahlungsjournal und erforderlichen Berechnungsvarianten. Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur die Vorgabe bei fehlendem Dateiwunsch. Sorgfalts- und Entlastungstabellen nur soweit für den Nachweis nötig; keine ungefragte Klage zu einem Bewertungsauftrag.
 
-Endprodukt in vollständigen Sätzen, keine Stichwortskelette. Dezimale Gliederung; Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Nicht geprüfte Konten, Quellenstatus und interne Kontrollen in einer gesonderten Arbeitsnotiz nennen, nicht im Mandantenbrief.
+Endprodukt in vollständigen Sätzen, keine Stichwortskelette. Ohne Dateiexport die bestellte Bewertung oder den Entwurf samt Zahlungsabgleich und erforderlicher Rechnung vollständig in der Antwort bereitstellen; keine nicht erzeugte Datei verlinken. Dezimale Gliederung; Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Nicht geprüfte Konten, Quellenstatus und interne Kontrollen in einer gesonderten Arbeitsnotiz nennen, nicht im Mandantenbrief.
 
 ## 6. Beispiele
 

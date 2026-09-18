@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "dsa-dma-digitalregulierung",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2022/2065/oj/deu",
@@ -11,13 +11,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Rollenmatrix war brauchbar, ließ konkrete Größen- und Verfahrensfolgen aber hinter abstrakten EU-Gerichtswegen zurück.",
+    "reason": "Vollständig geprüft: Nach Vorlage des Beitrags oder einer Warnung wird die Sperrbeschwerde aktualisiert und fertiggestellt. Dienstfunktion und Benennung bleiben getrennt; kein weiterer Mini-Eingriff nötig.",
     "changes": [
       "Beschwerdezugang und Mitteilungstag konkretisiert.",
       "Gatekeeper-Benennung von DSA-Plattformstatus getrennt."
     ],
-    "sha256": "c2e954f08d65d17e8f37baa9747b9d9ba890cdd868a0b4f88f18701399d81e86"
+    "sha256": "2f24518fca07f8dfefe33d55dea7b36b81e4a1e0f683bdde89e85150f9c5ce6e"
   },
+  "workshop_review": {"verdict":"revised","reason":"Die vollständig gelesene Werkstatt enthält bereits konkrete Fortsetzung für Sperrfälle und Anbieterprüfung; die Stationsproduktpflicht widersprach dem Einzelauftrag.","changes":["Einzelne Pflichtbefunde in die bestellte Beschwerde oder Behördenantwort führen lassen, statt eine zusätzliche Regulierungsakte vorzuschreiben."],"sha256":"1d8fca5bfad4c00d665f691f1c3dfb14f33d03efa19d4b592c244be805e4dc03"},
   "selection": {
     "positive": [
       "Prüfe das interne Beschwerdesystem unserer Onlineplattform.",

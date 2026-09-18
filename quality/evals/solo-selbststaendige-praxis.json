@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "solo-selbststaendige-praxis",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__641.html",
@@ -10,14 +10,16 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Eine konkrete Kundenreklamation braucht Abnahme-, Zahlungs- und Mängellogik statt einer allgemeinen Gründungsabfrage.",
-    "changes": [
-      "Auftragsumfang, Abnahme und offene Rechnung zusammengeführt.",
-      "Einbehalt aus konkreten Mängelbeseitigungskosten statt pauschaler Totalverweigerung geprüft.",
-      "Kundenantwort und Forderungsübersicht als sofortige Ergebnisse festgelegt."
-    ],
-    "sha256": "8410db553008a6791f6970202a0c4cd8044a67fd3a0ec0d83d1576ed59474c78"
+    "verdict": "retained",
+    "reason": "Vollständig gelesen: Leistungsbeschreibung und Teilzahlung werden gezielt nachgefordert und anschließend in Streitbetrag, Zinsen und Kundenschreiben eingearbeitet. Der Liquiditätsauftrag bleibt ein Plan ohne ungefragte Mahnung; Steuer- und Statusfragen werden getrennt behandelt. Kein Fortsetzungswiderspruch festgestellt.",
+    "changes": [],
+    "sha256": "29e98515e5a90a9b5d6b4111533fe3129de5f387ae9d7df4650966bda5073f4f"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Die vollständig gelesene Werkstatt führt von Auftrag und Leistungsnachweisen über Reklamation und Zahlungen zur fertigen Antwort. Neue Kosten- oder Rechtebelege verändern nur betroffene Vertrags- und Rechnungspositionen; Steuer, Status, Marketing und Auslandsfragen bleiben fallabhängig. Kein zusätzlicher Stopp oder obligatorischer Prozessentwurf gefunden.",
+    "changes": [],
+    "sha256": "418b5617c2c9e836c564f1b32911476bc1e884170ab75ef4f5fffc76270e809c"
   },
   "selection": {
     "positive": [

@@ -18,6 +18,8 @@ Verordnung (EU) 2026/1744 gilt seit 27. Juli 2026. Artikel 113 verschiebt Kapite
 
 Artikel 4 bleibt kontextgerechte Kompetenzförderung, ohne Garantie eines bestimmten individuellen Niveaus oder gesetzliche Zertifikatspflicht. Vorhandene Einweisung nutzen und konkrete Lücken schließen. Menschliche Hochrisikoaufsicht nach Artikel 26 Absatz 2 gesondert prüfen.
 
+COM(2025) 837 im Verfahren 2025/0360(COD) ist dagegen ein offener Vorschlag. Daraus weder eine geltende 96-Stunden-Meldefrist noch eine allgemeine datenschutzrechtliche Trainingserlaubnis ableiten; den Verfahrensstand vor einer späteren Anwendung erneut prüfen.
+
 ## 1.4. Daten und synthetische Inhalte auseinanderhalten
 
 Artikel 4a betrifft sensible Daten zur Bias-Erkennung und -Korrektur, nicht Deepfakes. Absatz 1 für Hochrisikoanbieter; Absatz 2 erweitert den Kreis nur unter weiteren Bedingungen. Strikte Notwendigkeit, fehlende gleich wirksame andere Daten, Nutzungsbeschränkung, geschützte dokumentierte Zugriffe, keine Weitergabe und früheste Löschung belegen. Keine allgemeine Trainingserlaubnis; Datenschutzprüfung fortführen.

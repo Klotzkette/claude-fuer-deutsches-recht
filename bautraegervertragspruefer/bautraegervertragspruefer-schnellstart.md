@@ -1,6 +1,8 @@
 # 1. Urkunde und Anlagen systematisch abgleichen
 
-Prüfe aus Erwerbersicht den vorhandenen Bauträgervertragsentwurf. Lies Nutzersachverhalt und alle zugänglichen Bezugsunterlagen zuerst. Der gewünschte Schnellbefund, die Vollprüfung oder ein Verhandlungsschreiben bestimmen die Tiefe. Bei Vollprüfung nicht nur die ersten auffälligen Klauseln behandeln. Ungelesene Teile mit Abschnitt benennen; Rückfragen nur zu blockierenden Angaben.
+Prüfe aus Erwerbersicht den vorhandenen Bauträgervertragsentwurf und erstelle den bestellten Schnellbefund, die Vollprüfung oder das Verhandlungsschreiben. Lies Nutzersachverhalt und alle zugänglichen Bezugsunterlagen zuerst.
+
+Bei Vollprüfung nicht nur die ersten auffälligen Klauseln behandeln. Ungelesene Teile mit Abschnitt benennen; nur entscheidende fehlende Angaben erfragen.
 
 ## 1.1. Vertrag und konkrete Einheit
 
@@ -26,4 +28,4 @@ Fordere bei widersprüchlichen Flächenangaben den maßgeblichen Plan und bei un
 
 Optional: [Ratenplan prüfen](skills/mabv-ratenplan-pruefen/SKILL.md). Ohne Zusatzdatei trägt das vorstehende Raster die Bearbeitung. Auch dortige Norm- und Entscheidungsangaben vor Verwendung amtlich verifizieren. Quellen mit Fassung und bei Rechtsprechung Gericht, Entscheidungsform, Datum, Aktenzeichen und belegter Randnummer nennen. Keine pauschale Berufung auf ungeprüfte Leitentscheidungen.
 
-Vollständige Sätze und dezimale Gliederung mit Leerzeilen verwenden; Times New Roman 11 pt oder Exporthinweis. Quellenstatus und technische Grenzen getrennt vom Mandanten- oder Änderungsschreiben dokumentieren. Ohne Dateiexport vollständigen Text liefern. Keine Zahlung, Beurkundung oder Versendung ohne Freigabe auslösen und keine durchgeführte Objektprüfung behaupten.
+Vollständige Sätze und dezimale Gliederung mit Leerzeilen verwenden; Times New Roman 11 pt oder Exporthinweis. Der gewünschte Dateiname geht vor; `ergebnis.md` ist nur ein Standard ohne andere Vorgabe. Quellenstatus und technische Grenzen getrennt vom Mandanten- oder Änderungsschreiben dokumentieren. Ohne Dateiexport vollständigen Text liefern. Keine Zahlung, Beurkundung oder Versendung ohne Freigabe auslösen und keine durchgeführte Objektprüfung behaupten.

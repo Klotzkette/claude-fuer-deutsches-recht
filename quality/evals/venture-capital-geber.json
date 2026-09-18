@@ -1,28 +1,72 @@
 {
   "schema_version": 1,
   "plugin": "venture-capital-geber",
-  "reviewed_on": "2026-09-14",
-  "sources": [{"url": "https://www.gesetze-im-internet.de/gmbhg/__55.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: Form der Übernahmeerklärung bei Kapitalerhöhung; Cap-Table-Rechnung ersetzt den rechtlichen Vollzug nicht."}],
+  "reviewed_on": "2026-09-18",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__55.html",
+      "checked_on": "2026-09-14",
+      "supports": "Geöffneter Volltext: Form der Übernahmeerklärung bei Kapitalerhöhung; Cap-Table-Rechnung ersetzt den rechtlichen Vollzug nicht."
+    }
+  ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Mini und Werkstatt waren überwiegend auf Unternehmenskauf zugeschnitten. Der gelesene Cap-Table-Skill nennt Verwässerung, lieferte im Mini aber keine konkrete Rechenlogik.",
-    "changes": ["Primärfinanzierung und Sekundärerwerb getrennt", "Pre-Money, Post-Money, Pool und wandelbare Instrumente als Rechenbasis ergänzt", "DD-Befund mit Finanzierungsbedingung verbunden", "Fachferne Standardentscheidungen und starre Zweiwochen-Stopregel entfernt"],
-    "sha256": "1eb4f68246be37af4f05e27bf4c27bf00e2d65a55954746b4cb28ee36611006a"
+    "verdict": "retained",
+    "reason": "Mini vollständig gelesen: Pool- und Wandlungsunterlagen werden konkret nachgefordert; nach Antwort sind Verwässerung, Erlösrechnung und Klausel bis zur Endfassung zu aktualisieren. Cap Table und rechtlicher Vollzug bleiben getrennt.",
+    "changes": [
+      "Keine Textänderung erforderlich; Pre-/Post-Money-Rechnung, getrennte Kapitalbasis und Freigabegrenzen unverändert beibehalten."
+    ],
+    "sha256": "294ca394905c87684dc58f6a7cb56c95720f0b749d6a257b14269514ca56fd1e"
   },
   "selection": {
-    "positive": ["Rechne die Verwässerung unseres VC-Tickets einschließlich der Poolaufstockung vor der Runde nach.", "Bereite eine Investitionsvorlage mit Cap Table, Kontrollrechten und Closing-Lücken vor."],
-    "negative": ["Erstelle ausschließlich die Steuererklärung eines privaten Aktionärs.", "Prüfe einen vollständigen Asset Deal ohne Finanzierungsrunde oder Minderheitsbeteiligung."]
-  },
-  "cases": [{
-    "id": "pool-pre-money-verwasserung",
-    "request": "Erstelle ergebnis.md als Investitionsvorlage mit rechnerischem Cap Table. Die Gründer halten zusammen 8.000 wirtschaftliche Recheneinheiten. Das Term Sheet definiert 8 Millionen Euro Pre-Money ausdrücklich einschließlich eines vor der Runde neu einzurichtenden Pools von 2.000 weiteren Recheneinheiten. Ein Investor zahlt 2 Millionen Euro ausschließlich als Primärkapital. Es gibt keine Wandeldarlehen, weiteren Optionen, Transaktionskosten oder Sekundärverkäufe. Die Einheiten sind nur eine Bewertungsrechnung, keine behaupteten GmbH-Nennbeträge. Zeige Preis pro Einheit, neue Investoreneinheiten, Quoten und die erforderliche Abgrenzung zum rechtlichen Vollzug. Es liegen noch keine notariellen Erklärungen vor.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id": "C01", "text": "Die Rechnung verwendet 10.000 Einheiten vor der Runde und 800 Euro je Einheit; der Investor erhält rechnerisch 2.500 Einheiten.", "deliverables": ["ergebnis.md"]},
-      {"id": "C02", "text": "Die Post-Runden-Quoten werden mit Gründer 64 Prozent, Pool 16 Prozent und Investor 20 Prozent konsistent auf 12.500 Einheiten berechnet.", "deliverables": ["ergebnis.md"]},
-      {"id": "C03", "text": "Das Ergebnis setzt die Recheneinheiten nicht mit Nennkapital gleich und behauptet ohne formgerechte Übernahme und weitere Vollzugsprüfung keinen bereits entstandenen Geschäftsanteil.", "deliverables": ["ergebnis.md"]}
+    "positive": [
+      "Rechne die Verwässerung unseres VC-Tickets einschließlich der Poolaufstockung vor der Runde nach.",
+      "Bereite eine Investitionsvorlage mit Cap Table, Kontrollrechten und Closing-Lücken vor."
     ],
-    "target_skill": "cap-table-grundlagen"
-  }]
+    "negative": [
+      "Erstelle ausschließlich die Steuererklärung eines privaten Aktionärs.",
+      "Prüfe einen vollständigen Asset Deal ohne Finanzierungsrunde oder Minderheitsbeteiligung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "pool-pre-money-verwasserung",
+      "request": "Erstelle ergebnis.md als Investitionsvorlage mit rechnerischem Cap Table. Die Gründer halten zusammen 8.000 wirtschaftliche Recheneinheiten. Das Term Sheet definiert 8 Millionen Euro Pre-Money ausdrücklich einschließlich eines vor der Runde neu einzurichtenden Pools von 2.000 weiteren Recheneinheiten. Ein Investor zahlt 2 Millionen Euro ausschließlich als Primärkapital. Es gibt keine Wandeldarlehen, weiteren Optionen, Transaktionskosten oder Sekundärverkäufe. Die Einheiten sind nur eine Bewertungsrechnung, keine behaupteten GmbH-Nennbeträge. Zeige Preis pro Einheit, neue Investoreneinheiten, Quoten und die erforderliche Abgrenzung zum rechtlichen Vollzug. Es liegen noch keine notariellen Erklärungen vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Rechnung verwendet 10.000 Einheiten vor der Runde und 800 Euro je Einheit; der Investor erhält rechnerisch 2.500 Einheiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Post-Runden-Quoten werden mit Gründer 64 Prozent, Pool 16 Prozent und Investor 20 Prozent konsistent auf 12.500 Einheiten berechnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Ergebnis setzt die Recheneinheiten nicht mit Nennkapital gleich und behauptet ohne formgerechte Übernahme und weitere Vollzugsprüfung keinen bereits entstandenen Geschäftsanteil.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "cap-table-grundlagen"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Werkstatt vollständig einschließlich Gründerbindung, Syndikat, Aufsicht, Vollzug und Portfoliobericht gelesen. Fehlende IP-Übertragung, Leaver-Regel oder Vollzugsgenehmigung führen bereits zur passenden Nachfrage und anschließenden Fertigstellung.",
+    "changes": [
+      "Keine Textänderung erforderlich; keine Pflicht zum vollständigen Erwerbspaket oder fester Risikozahl, belegabhängige Rechnungen und auftragsbezogene Vertragsfassungen bleiben erhalten."
+    ],
+    "sha256": "fdec1ad8754a332295a51086576a42ad759255bf5c77ddc936ebd162604a8471"
+  }
 }

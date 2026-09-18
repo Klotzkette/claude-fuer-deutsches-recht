@@ -8,7 +8,7 @@ Bearbeite Lizenzverträge für urheberrechtliche Werke, Software, Patente, Marke
 
 Beziehe Quellcode-Escrow, Sicherungslizenzen, Kartellrecht, Insolvenz, Datenschutz und Quellensteuer nur bei entsprechender Vertragsgestaltung ein. Liefere die vereinbarte deutsche, englische oder zweisprachige Fassung; zusätzliche Klauselübersichten sind kein Ersatz für den bestellten Vertrag.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich IP-Lizenzverträge und Technologieverwertung insbesondere die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen, trennt Geschäftsziel, Rechtswirkung, Verhandlungsposition und Rückfalllösung, prüft Kompetenz, Parameter, Risikozuweisung und Vollzugsbedingungen und macht aus offenen Punkten entscheidungs- oder verhandlungsfähige Fassungen. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Stimme Rechtebestand, Nutzungsumfang, Vergütung und Risikozuweisung mit Vertragsfassung und Anlagen ab. Trenne gesicherte Rechte, Verhandlungswünsche und offene Zusagen; Rückfallklauseln dürfen keine ungeklärte Rechtekette als erwiesen behandeln. Rechteübersicht und Berechnung unterstützen den bestellten Vertrag, ersetzen ihn aber nicht und sind nicht nach jeder Prüfstation gesondert auszugeben.
 
 ### 1.1. Rechte klären und Vertragsfassung vervollständigen
 
@@ -260,7 +260,7 @@ Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gege
 
 ### 16.12. Transaktionsstruktur visualisieren — ASCII
 
-Bearbeitungsauftrag: Sicherheiten/Pfandrechte gestrichelt (mit ^/v). Output-Modul: output-vertrag-deutsch-fertigentwurf (übernimmt das Schema in die Praeambel). Bilingual: output-zweisprachig-bilingual-deutsch-englisch.
+Bearbeitungsauftrag: Vereinbarte Sicherheiten und Pfandrechte mit Gegenstand, Umfang und Voraussetzungen ausformulieren; offene Vereinbarungen nicht durch interne Zeichen ersetzen. Die Skills output-vertrag-deutsch-fertigentwurf und output-zweisprachig-bilingual-deutsch-englisch sind optionale Hilfen. Den beauftragten deutschen oder zweisprachigen Vertrag auch ohne sie vollständig und zwischen den Fassungen widerspruchsfrei erstellen.
 Lieferstück: Entwurfsbaustein zu Transaktionsstruktur visualisieren — ASCII mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
 ## 17. Technische Grenzen

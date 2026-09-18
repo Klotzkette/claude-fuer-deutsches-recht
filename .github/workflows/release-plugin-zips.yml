@@ -34,6 +34,11 @@ jobs:
       - name: Python-Abhängigkeiten installieren
         run: python3 -m pip install -r requirements.txt
 
+      - name: Versionsstände und Prüfprofile vor dem PDF-Build prüfen
+        run: |
+          python3 scripts/validate-root-readme-overview.py
+          python3 scripts/quality-lab.py audit
+
       - name: Layoutgetreue Office-PDF-Konvertierung bereitstellen
         run: |
           sudo apt-get update

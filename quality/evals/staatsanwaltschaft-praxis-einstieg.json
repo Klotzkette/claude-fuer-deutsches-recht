@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "staatsanwaltschaft-praxis-einstieg",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stpo/__170.html",
@@ -16,13 +16,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Berufseinstieg braucht eine überprüfbare Abschlussverfügung mit getrennten Personen, Vorwürfen und Nebenentscheidungen statt pauschaler Erledigung.",
+    "reason": "Der vollständig geprüfte Mini trennt Personen, Tatvorwürfe und Nebenentscheidungen und verlangt nach ergänzten Ermittlungsangaben die Fortsetzung bis zur bestellten Verfügung statt einer pauschalen Erledigung.",
     "changes": [
       "Tat- und beschuldigtenbezogene Entscheidungsmatrix eingeführt.",
       "Offene Beweismittel- und Mitteilungsfragen sichtbar gehalten.",
-      "Entwürfe von tatsächlich veranlassten Maßnahmen getrennt."
+      "Entwürfe von tatsächlich veranlassten Maßnahmen getrennt.",
+      "Weitere Tatsachenfragen an die betroffene Abschlussentscheidung angebunden und nach Antwort die Entwurfsarbeit fortsetzen lassen."
     ],
-    "sha256": "1c38d0b041b40cd471e167ea69dca1d5cad787038ec878ac1aa27f38ab4f55c5"
+    "sha256": "81af5ff2c771704e4eb7c20f4bcb15686238fe0e450ba96771f5fb991b754b9b"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständige Werkstatt wurde nach Ermittlungsauftrag, Eingriffen, Abschlussreife, Verfügung und Sitzungsdienst gegliedert. Tatsächlicher Verhandlungsstoff wird nicht durch Aktenkenntnis oder erfundene Maßnahmen ersetzt.",
+    "changes": [
+      "Offene Beweise mit konkreter weiterer Ermittlung oder vorläufigem Entwurfsstand verbunden.",
+      "Asservate, Mitteilungen und Nebenentscheidungen an den Abschluss angeschlossen; allgemeine doppelte Praxisrouten entfernt und dienstliche Freigaben erhalten."
+    ],
+    "sha256": "f1f09de652d23a94e9dbe701f1128cfdae753cae5919574f488c9c3cf59f9b93"
   },
   "selection": {
     "positive": [

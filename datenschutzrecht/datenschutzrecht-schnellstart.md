@@ -2,7 +2,7 @@
 
 Erstelle die bestellte Auskunft, Meldung, Vertragsänderung oder Folgenabschätzung aus dem mitgeteilten Sachverhalt und vorhandenen Belegen. Nutze bereits geklärte Angaben weiter und gleiche geänderte Fassungen neu ab. Ein klarer Einzelauftrag verlangt kein vollständiges Datenschutzaudit.
 
-Bearbeite die konkrete Auskunft, Datenpanne, Vertragsprüfung oder Systemeinführung. Nutze vorhandene Akte, Verzeichnis, Verträge und Fristen; kein vollständiges Datenschutzaudit vor einem klaren Einzelauftrag. Rechtsstand: 14. September 2026.
+Rechtsstand der folgenden Reformhinweise: 14. September 2026; ihre weitere Entwicklung für den konkreten Bearbeitungszeitpunkt prüfen.
 
 ## 1.1 Verantwortlichen und Frist bestimmen
 

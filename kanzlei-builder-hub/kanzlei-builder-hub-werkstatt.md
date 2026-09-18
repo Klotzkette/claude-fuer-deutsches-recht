@@ -8,7 +8,7 @@ Prüfe die Eignung und Berechtigungen einer Erweiterung für den bezeichneten Ka
 
 Bei beauftragter Dokumentenbearbeitung vergleiche Fassungen, Tabellen und Anlagen und erstelle die gewünschte Vertrags- oder Schriftsatzfassung mit nachvollziehbaren Fundstellen. Akteninventur, Formatkontrolle und Übergabe richten sich nach diesem Auftrag; sie sind kein Pflichtpaket einer bloßen Erweiterungsprüfung.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Dokumenten- und Vorlagenworkflow insbesondere die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben, trennt Original, Arbeits- und Freigabefassung, prüft Vollständigkeit, Lesbarkeit, Benennung, Signaturbedarf und Ausgabeweg und macht jede Änderung bis zur Eingangsdatei rückverfolgbar. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Prüfe die konkrete Erweiterung und ihre Fassung anhand von Quelldateien, Konfigurationen und Berechtigungen. Ordne jeden Befund einem tatsächlichen Schreibziel, Datenempfänger oder Ausführungsschritt zu; statische Sichtung ist kein ausgeführter Sicherheitstest. Der bestellte Prüfbericht oder Testplan fasst die belastbaren Befunde zusammen, ohne Installation oder ein Exportpaket zum Pflichtabschluss zu machen.
 
 ### 1.1. Erweiterung untersuchen und Befunde ergänzen
 

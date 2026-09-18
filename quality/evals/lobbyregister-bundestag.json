@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "lobbyregister-bundestag",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/lobbyrg/__2.html",
@@ -16,12 +16,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständige Mini und der gelesene Geschäftsjahresskill ordneten Aktualisierung falsch zu; der Mini enthielt zudem ein abgebrochenes Ausnahmenfragment.",
+    "reason": "Mini vollständig schlussgelesen: Die drei Aktualisierungstakte und die Fortsetzung nach Auftraggeber- oder Finanznachweisen sind tragfähig. Die pauschale Lieferung von Änderungstexten samt Listen widersprach jedoch dem ebenfalls vorgesehenen Vorstandsmemo; die Ausgabe ist jetzt auftragsbezogen.",
     "changes": [
-      "Aktualisierung auf Paragraf 3 Absatz 3 mit drei Takten berichtigt.",
-      "Feldbezogene Änderungs- und Freigabematrix statt allgemeiner Fallkarte eingeführt."
+      "Änderungstexte oder Vorstandsmemo nach Auftrag; Nachweisliste und Freigabevorlage nur bei Bedarf.",
+      "Versionsbezogenen Hinweis auf Fehler eines Ergänzungsskills durch den Vorrang amtlich geprüfter Fristen ersetzt; optionalen Zugriff und eigenständigen Ablauf bewahrt."
     ],
-    "sha256": "fef7131abf071ff5f70731e080bbc36340c0f6b393ffd3f2431b52b1c8186d77"
+    "sha256": "c446526858eaac24a3e0bc42d1d55de3a92e9b34ae81bfdf00d23463e9faa7bd"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig schlussgelesen: Doppelte Tabellen und Praxisrouten verlangten beliebige Zwischenprodukte, enthielten einen Gesamtstopp bei Zweigniederlassungen und widersprachen den Aktualisierungstakten des Minis. Die fachlichen Themen sind nun nach Registerprüfung, Feldern, Aktualisierung, Veröffentlichung und konkretem Verfahrensauftrag geordnet.",
+    "changes": [
+      "Generische Pflichtausgaben und doppelte Routen zusammengeführt; nach gezielten Nachforderungen werden betroffene Felder und das bestellte Dokument fertiggestellt.",
+      "Aktualisierungszuordnung zu Paragraf 3 Absatz 3 berichtigt und pauschalen Vierwochenrichtwert entfernt; Paragraf 4 als Registerführung und Bestätigung eingeordnet.",
+      "Adressatenbezogene Ausnahmen, Organisationsprüfung und abgestufte Bußgeldhöchstbeträge anhand der amtlichen Paragrafen 1 bis 5 und 7 LobbyRG abgeglichen.",
+      "Abgeordnetenentscheidung nur als möglicher verfassungsrechtlicher Kontext belassen; öffentliche Registertexte, interne Quellennotizen und Freigabe getrennt."
+    ],
+    "sha256": "ed713ba8e28119adfd8b859a582045df801510963fa83776ba532e29ba6a13b4"
   },
   "selection": {
     "positive": [

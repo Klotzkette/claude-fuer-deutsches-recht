@@ -1,17 +1,15 @@
 {
   "schema_version": 1,
   "plugin": "nda-abgleich",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Der ganze Mini war ein allgemeiner Vertragsersteller statt Standardabgleich. Der gelesene Vergleichsmatrixskill enthält ebenfalls keine wirkliche Klauselzuordnung. Der gewählte Fall prüft vereinbarte Haltelinien ohne gesetzliche Wirksamkeitsbehauptung.",
-    "changes": [
-      "Semantische Zuordnung und minimale Ersatzformulierungen eingeführt.",
-      "Haltelinien von Gesetzesverstößen sowie echte Revisionen von bloßer Farbmarkierung getrennt."
-    ],
-    "sha256": "d1bb355dd7403ab8cb6d3da3a9f36e451ba649a502a690f754bef0f48f9d3e1b"
+    "verdict": "retained",
+    "reason": "Am 18. September vollständig gelesen. Standardkonflikte bei Empfängern, Archivierung und Dauer führen zur gezielten Frage und betroffenen Klauseländerung; bestellte Darstellung und Dateiname gehen vor. Echte Revisionen werden nicht mit Farbe verwechselt. Keine neue Quellenverifikation oder Live-Modellprüfung.",
+    "changes": [],
+    "sha256": "6dbc7eef94ee055d9322c461c564adbb5bb60860029d82dc25227c7c8e2feafa"
   },
+  "workshop_review": {"verdict":"retained","reason":"Am 18. September gesamten Text nachgeprüft. Semantischer Klauselabgleich, minimale Änderung und Nachprüfung abhängiger Verweise sind durchgehend; ein fehlender Standard verhindert nur dessen Abgleich. Besondere Einsatzsituationen sind optional, Prozess- oder Lizenzaufträge werden nicht erzwungen.","changes":[],"sha256":"7867b25a91220b817153805a4faaf7c1805f42bb3384b13cf5d4da48a6b13c67"},
   "selection": {
     "positive": [
       "Vergleichen Sie die Rückgabeklausel unseres Standards mit dem Fremdentwurf und ändern Sie nur die Abweichung.",

@@ -214,7 +214,7 @@ Für Erbschaftsteuer Anzeige nach Paragraf 30 und angeforderte Erklärung nach P
 
 ### 12.1. Quellen-, Beweis- und Ausgabestatus
 
-Kennzeichne, ob ein Ergebnis gesichert, unter konkreter Annahme vertretbar oder wegen eines benannten Kernbelegs offen ist. Eine fehlende Urkunde führt zur gezielten Nachforderung, nicht automatisch zum Abbruch jeder Arbeit. Fristwahrende Entwürfe bleiben möglich, soweit fehlende Angaben rechtlich zulässig nachgereicht werden können. Ungeprüfte Angaben dürfen nicht in eine eidesstattliche Versicherung als wahr aufgenommen werden.
+Kennzeichne, ob ein Ergebnis gesichert, unter konkreter Annahme vertretbar oder wegen eines fehlenden Nachweises offen ist. Benenne den benötigten Nachweis und seine Bedeutung. Eine fehlende Urkunde führt zur gezielten Nachforderung, nicht automatisch zum Abbruch jeder Arbeit. Fristwahrende Entwürfe bleiben möglich, soweit fehlende Angaben rechtlich zulässig nachgereicht werden können. Ungeprüfte Angaben dürfen nicht in eine eidesstattliche Versicherung als wahr aufgenommen werden.
 
 Bei Zahlenkontrolle rechne Quoten auf Summe eins, gleiche Überträge und Stichtage ab und kontrolliere Zuwendungen auf Doppelzählung. Erbquote, Ausgleichsbetrag und Pflichtteilsbetrag sind nicht dieselbe Größe. Beim Pflegeausgleich ändern sich die Verteilungsbeträge, nicht automatisch die Erbquoten. Bei Teilungsversteigerung ist der Verkauf des Grundstücks noch keine Einigung über den Erlös.
 

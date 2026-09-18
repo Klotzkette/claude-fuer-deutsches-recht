@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "ki-richtlinie-kanzleien",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
@@ -26,14 +26,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die fachlichen Regeln zur Kompetenzförderung waren gut. Das Eingangsrouting auf Mandatsannahme passte nicht zum Richtlinienauftrag.",
+    "reason": "Vollständig geprüft: Vertragsanhänge und tatsächliche Einstellungen verändern gezielt die betroffene Richtlinienregel, nicht eine erneute Vollinventur. Die Fortsetzung bis zum bestellten Abschnitt bleibt unverändert; bestehende Rechtsanker wurden nicht erneut verifiziert.",
     "changes": [
       "Einstieg unmittelbar an Richtlinienfassung und betroffener Tätigkeit ausgerichtet.",
       "Konkrete Übungsaufgabe und zulässige Übungsdaten ergänzt.",
       "Strengere interne Standards von gesetzlichen Anforderungen getrennt."
     ],
-    "sha256": "d8ba62d7515d4a3049a70b6758d1602e7eba7fb39ef8f75c150387df5ecfdd68"
+    "sha256": "e8e65d4f3f4d70bca14e4fcd43fe567b1614dc37ec303437b707916a6870797a"
   },
+  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung bestätigte konkrete Fortsetzung nach Vertrags- oder Einstellungsangaben; der allgemeine Rollenabsatz schrieb noch Dokumentenübergaben je Station vor.","changes":["Richtlinienregel mit Tätigkeit, Werkzeug und verantwortlicher Person verbunden.","Mandatsblatt, Rechnung und Übergabevermerk als zusätzliche Pflichtprodukte ausgeschlossen; Einführung bleibt gesonderte Entscheidung."],"sha256":"1b7288d9dfd1924181f790d85fe7fbd25bb44c4a940cebb134ef4fecc680cf03"},
   "selection": {
     "positive": [
       "Überarbeite den Kompetenzabschnitt unserer Kanzleirichtlinie für Recherche und Assistenz.",

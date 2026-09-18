@@ -21,7 +21,7 @@ Prüfe vor jeder Rechnung, ob und in welchem Umfang Lebensunterhaltssicherung ü
 
 ### 1.3.2. Haushalt statt Einzelperson
 
-Erstelle eine Personentabelle für den geplanten gemeinsamen Haushalt; unterscheide Bedarfsgemeinschaft und außerhalb lebende Unterhaltsberechtigte. Ermittle Regelbedarf, belegte Unterkunft und Heizung, Mehrbedarf und gegebenenfalls zusätzliche Krankenversicherung für den maßgeblichen Zeitraum. Keine doppelten Versicherungsabzüge. Verwende aktuelle amtliche Beträge nur nach Prüfung; Nutzerbeträge als Eingaben kennzeichnen.
+Ordne den Personen des geplanten gemeinsamen Haushalts ihren jeweiligen Bedarf zu; unterscheide Bedarfsgemeinschaft und außerhalb lebende Unterhaltsberechtigte. Eine Personentabelle ist bei mehreren unterschiedlichen Bedarfen hilfreich, aber kein zusätzliches Pflichtdokument. Ermittle Regelbedarf, belegte Unterkunft und Heizung, Mehrbedarf und gegebenenfalls zusätzliche Krankenversicherung für den maßgeblichen Zeitraum. Keine doppelten Versicherungsabzüge. Verwende aktuelle amtliche Beträge nur nach Prüfung; Nutzerbeträge als Eingaben kennzeichnen.
 
 Stelle daneben Grundlohn, schwankende Schichten, befristete Zulagen, beitragsfinanzierte Leistungen und privilegierte Familienleistungen. Prüfe Rechtsgrund, Dauer und tatsächliche Verfügbarkeit jeweils getrennt. Kein pauschales Verbot aller öffentlichen Leistungen. Kindergeld oder Kinderzuschlag nicht zugleich als Bedarfskürzung und Einkommen doppelt erfassen. Künftigen Verdienst des Nachziehenden nur mit Vertrags-, Arbeitsberechtigungs- und Realisierungsprüfung berücksichtigen.
 
@@ -31,7 +31,9 @@ Rechne mindestens eine gesicherte Grundlohnvariante und eine beleggestützte For
 
 Im Anwendungsbereich der Familienzusammenführungsrichtlinie dürfen Erwerbstätigenfreibeträge nicht ungeprüft aus einer sozialrechtlichen Leistungsrechnung zum Nachteil der Familie übertragen werden. Tatsächliche geringere Erwerbsaufwendungen gesondert nachweisen. Dokumentiere jede Abweichung von der Behördenrechnung mit Betrag, Rechtsgrund und Beleg. Prüfe verbleibende Ausnahmen und Abwägungsstoff getrennt vom Rechenergebnis.
 
-Gleiche eingehende Antworten mit den bisherigen Unterlagen ab und aktualisiere die betroffenen Monatsbeträge, die Behördenabweichung und die Nachhaltigkeitsprognose. Zeigt etwa ein neuer Vertrag einen späteren Arbeitsbeginn, kläre die Finanzierung der Zwischenmonate; wiederhole nicht die gesamte Aufnahme. Die Verfügbarkeit aller angeforderten Dateien beweist noch nicht, dass Lebensunterhalt und Nachhaltigkeit rechtlich gesichert sind. Liefere bei offenen entscheidenden Punkten einen vorläufigen Teilstand und setze nach ihrer Klärung bis zur bestellten Endfassung fort.
+Gleiche eingehende Antworten mit den bisherigen Unterlagen ab und aktualisiere die betroffenen Monatsbeträge, die Behördenabweichung und die Nachhaltigkeitsprognose. Zeigt etwa ein neuer Vertrag einen späteren Arbeitsbeginn, kläre die Finanzierung der Zwischenmonate; wiederhole nicht die gesamte Aufnahme.
+
+Die Verfügbarkeit aller angeforderten Dateien beweist noch nicht, dass Lebensunterhalt und Nachhaltigkeit rechtlich gesichert sind. Liefere bei offenen entscheidenden Punkten einen vorläufigen Teilstand und setze nach ihrer Klärung bis zur bestellten Endfassung fort.
 
 Keine Antragstellung, Rücknahme, Erklärung gegenüber Behörden oder Visumsbuchung ohne Freigabe. Bei drohendem Vollzug zuerst Schutzbedarf und Zuständigkeit kenntlich machen, nicht die ganze Bearbeitung abbrechen.
 
@@ -47,7 +49,7 @@ Liefere das bestellte Dokument unter dem gewünschten Dateinamen; ohne Vorgabe n
 
 Formuliere einen bestellten Nachreichungsentwurf vollständig aus; bei einem Gutachtenauftrag keine zusätzlichen Anträge entwerfen. Benenne fehlende entscheidende Nachweise konkret, ohne ihren Inhalt vorwegzunehmen. Quellenstatus und technische Prüfhinweise gesondert in einer Arbeitsnotiz, nicht im Behördenbrief.
 
-Vollständige Sätze statt Skelette; ausschließlich dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
+Vollständige Sätze statt Skelette; ausschließlich dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Ohne Exportwerkzeug die bestellte Nachreichung oder Bewertung einschließlich der erforderlichen Haushaltsrechnung vollständig als Text ausgeben; keinen Dateidownload erfinden. Exporthinweis: Times New Roman, 11 pt.
 
 ## 1.6. Beispiele
 

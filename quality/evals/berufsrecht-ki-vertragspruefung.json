@@ -1,19 +1,128 @@
 {
-  "schema_version":1,"plugin":"berufsrecht-ki-vertragspruefung","reviewed_on":"2026-09-14",
-  "sources":[{"url":"https://www.gesetze-im-internet.de/brao/__43e.html","checked_on":"2026-09-14","supports":"Erforderlicher Zugang, sorgfältige Auswahl, Textform, Geheimhaltung, weitere Personen, Auslandsleistung und Verhältnis zum Datenschutz."},{"url":"https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de","checked_on":"2026-09-14","supports":"Artikel 1 Nummern 5 und 6 zu Kompetenz und Verzerrungskorrektur sowie Nummer 40 zu den getrennten Hochrisiko-Anwendungsdaten."},{"url":"https://www.gesetze-im-internet.de/ki-mig/__2.html","checked_on":"2026-09-14","supports":"Bundesnetzagentur als Auffangbehörde und ausdifferenzierte sektorale sowie Landeszuständigkeiten."}],
-  "mini_review":{"verdict":"revised","reason":"Die brauchbare Datenwegprüfung wurde anhand des No-Training-Spezialskills verdichtet. Die zunächst entfernte Rechtsstandkarte war eine Regression; nach erneutem Abgleich mit lokaler Referenz und amtlichen Änderungstexten ist sie als konkrete Anbieter- und Fristenklauselarbeit wieder enthalten.","changes":["Bestehende Datenweg- und Zweckunterscheidung erhalten und operationalisiert.","Retention je Datenart, Supportzugriff und Vertragsende konkretisiert.","Verordnung 2026/1744, Artikel 4a, getrennte Hochrisikofristen und KI-MIG-Ausnahmen in Vertragsprüfung und Zusagen eingebunden."],"sha256":"aaca24f358bafbd066cf99d1a2e5f9e0a6d1532ed33010e8528313f6b17a291e"},
-  "selection":{"positive":["Prüfen Sie, ob die No-Training-Zusage unseres KI-Dienstes trotz einer Produktverbesserungsklausel für anwaltliche Mandatsdaten trägt.","Überarbeiten Sie Support-, Unterauftragnehmer- und Löschklauseln für einen KI-Vertrag unserer Kanzlei."],"negative":["Klassifizieren Sie ein medizinisches KI-Produkt unabhängig von Kanzleigeheimnissen nach der KI-Verordnung.","Programmieren Sie einen lokalen Textklassifikator ohne Vertrags- oder Berufsrechtsprüfung."]},
-  "cases":[{"id":"no-training-und-inhaltslogs","request":"Eine deutsche Anwaltskanzlei möchte einen KI-Dienst zur internen Zusammenfassung vertraulicher Mandatsakten beschaffen. Die Vertriebszusage lautet: Kein Modelltraining mit Ihren Daten, Speicherung in der EU. Der Vertragsentwurf erlaubt jedoch die Nutzung von Eingaben und Ausgaben zur allgemeinen Produktverbesserung und hält vollständige Inhaltslogs 90 Tage vor. Support darf weltweit zugreifen; Standorte und Unterauftragnehmer sind nicht benannt. Eine Datenschutzvereinbarung liegt vor, enthält aber keine gesonderte Verpflichtung zum Berufsgeheimnis. Die Kanzlei will eine begrenzte Pilotnutzung mit öffentlichen Mustertexten sofort prüfen und Mandatsdaten erst nach tragfähiger Klärung einsetzen. Erstellen Sie einen kurzen Beschaffungsvermerk, vollständige Ersatzklauseln zu Zweck, Support und Löschung sowie priorisierte Anbieterfragen. Behaupten Sie keine selbst durchgeführte technische Prüfung.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Der Vermerk erkennt, dass ausgeschlossenes Modelltraining die vertraglich erlaubte allgemeine Produktverbesserung und Inhaltslogs nicht beseitigt; die Ersatzklausel grenzt diese Nutzungen wirksam voneinander ab.","deliverables":["ergebnis.md"]},{"id":"C02","text":"EU-Speicherung wird nicht mit ausschließlich europäischem Zugriff gleichgesetzt; der Entwurf fordert konkret Standort-, Empfänger- und Geheimhaltungsklärung für Support und weitere Personen.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Das Ergebnis unterscheidet den Pilot mit öffentlichen Texten von der noch nicht freigegebenen Nutzung vertraulicher Akten und behandelt die Datenschutzvereinbarung nicht als alleinige berufsrechtliche Freigabe.","deliverables":["ergebnis.md"]},{"id":"C04","text":"Die Löschregel unterscheidet produktive Inhalte, Protokolle und Sicherungen und formuliert eine umsetzbare Begrenzung statt einer unbelegten Zusage bereits vorhandener Sofortlöschung.","deliverables":["ergebnis.md"]}],"target_skill":"ki-no-training-modellverbesserung-telemetrie"},{
-    "id":"anbieterzusage-bias-und-hochrisikofristen",
-    "request":"Eine deutsche Anwaltskanzlei verhandelt am 14. September 2026 einen Vertrag über einen internen KI-Assistenten. Die Kernleistung wird nicht als Hochrisikosystem angeboten. Zusätzlich bietet der Dienst ein separat aktivierbares Bewerberbewertungsmodul an, das im Entwurf als Anhang-III-System eingeordnet ist. Ein optionales Produktmodul ist nach übereinstimmender bisheriger Einordnung ein Hochrisikosystem nach Artikel 6 Absatz 1 in Verbindung mit Anhang I. Beide Module sollen erst nach gesonderter Freigabe in Betrieb gehen. Der Anbieter schreibt: Seit Verordnung 2026/1744 dürfen sämtliche Mandatsdaten einschließlich Gesundheitsdaten zur allgemeinen Verbesserung und Bias-Prüfung an unsere Forschungspartner weitergegeben werden; Artikel 4a regelt nur Deepfakes. Sämtliche Compliance-Nachweise liefern wir einheitlich am 2. August 2028. Für jede Aufsicht einschließlich Datenschutz ist ausschließlich die Bundesnetzagentur zuständig. Die Kanzlei will keine allgemeinen Produktverbesserungsrechte einräumen und eine Zusage für Nachweise rechtzeitig vor dem jeweils maßgeblichen Einsatz erhalten. Erstelle ergebnis.md mit konkret ausformulierten Ersatzklauseln zu Datenzweck, Bias-Verarbeitung, Nachweisfristen und Behördenkooperation sowie einer kurzen Verhandlungsbegründung. Die abgegrenzte Einstufung der beiden Zusatzmodule kann für diesen Auftrag zugrunde gelegt werden; eine technische oder medizinprodukterechtliche Zertifizierung ist nicht beauftragt.",
-    "input_files":[],
-    "deliverables":["ergebnis.md"],
-    "criteria":[
-      {"id":"C01","text":"Die Ersatzklausel unterbindet die pauschale Weitergabe sensibler Mandatsdaten und grenzt eine allenfalls zulässige Bias-Verarbeitung nach dem einschlägigen Absatz des Artikels 4a mit Notwendigkeit, Alternativenprüfung, Zugriffsschutz und Löschung von allgemeiner Verbesserung ab.","deliverables":["ergebnis.md"]},
-      {"id":"C02","text":"Die Nachweisregel differenziert für die bezeichneten Hochrisikopfade den 2. Dezember 2027 und den 2. August 2028, nimmt Artikel 6 Absatz 5 von der bezeichneten Verschiebung aus und bindet Nachweise an rechtzeitige Bereitstellung vor dem tatsächlichen Einsatz statt pauschaler Vertagung aller Pflichten.","deliverables":["ergebnis.md"]},
-      {"id":"C03","text":"Die Behördenklausel behandelt die Bundesnetzagentur als Auffangbehörde mit einschlägigen Sonderzuständigkeiten und hält Datenschutzaufsicht daneben aufrecht; sie bestätigt keine ausschließliche Zuständigkeit für alle Module und Verfahren.","deliverables":["ergebnis.md"]},
-      {"id":"C04","text":"Die Begründung ordnet Artikel 4a der begrenzten Bias-Datenverarbeitung und Deepfakes Artikel 50 Absatz 4 zu, ohne diese Prüfung durch einen allgemeinen Rechtsvortrag oder eine Freigabe vertraulicher Akten zu ersetzen.","deliverables":["ergebnis.md"]}
+  "schema_version": 1,
+  "plugin": "berufsrecht-ki-vertragspruefung",
+  "reviewed_on": "2026-09-18",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
+      "checked_on": "2026-09-14",
+      "supports": "Erforderlicher Zugang, sorgfältige Auswahl, Textform, Geheimhaltung, weitere Personen, Auslandsleistung und Verhältnis zum Datenschutz."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 1 Nummern 5 und 6 zu Kompetenz und Verzerrungskorrektur sowie Nummer 40 zu den getrennten Hochrisiko-Anwendungsdaten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ki-mig/__2.html",
+      "checked_on": "2026-09-14",
+      "supports": "Bundesnetzagentur als Auffangbehörde und ausdifferenzierte sektorale sowie Landeszuständigkeiten."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Mini wurde vollständig einschließlich seiner konkreten Reform- und Vertragsklauselpassagen gelesen.",
+    "changes": [
+      "Datenwege und fehlende Anbieterzusagen gezielt klären; Reformpassagen und getrennte Fristen erhalten."
     ],
-    "target_skill":"ai-act-rollen-kanzlei-provider-deployer-api"
-  }]
+    "sha256": "918766af94ebb1c10af9995bc29f4786398cb8567f5093c73628c1fbd2d4859d"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie, ob die No-Training-Zusage unseres KI-Dienstes trotz einer Produktverbesserungsklausel für anwaltliche Mandatsdaten trägt.",
+      "Überarbeiten Sie Support-, Unterauftragnehmer- und Löschklauseln für einen KI-Vertrag unserer Kanzlei."
+    ],
+    "negative": [
+      "Klassifizieren Sie ein medizinisches KI-Produkt unabhängig von Kanzleigeheimnissen nach der KI-Verordnung.",
+      "Programmieren Sie einen lokalen Textklassifikator ohne Vertrags- oder Berufsrechtsprüfung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "no-training-und-inhaltslogs",
+      "request": "Eine deutsche Anwaltskanzlei möchte einen KI-Dienst zur internen Zusammenfassung vertraulicher Mandatsakten beschaffen. Die Vertriebszusage lautet: Kein Modelltraining mit Ihren Daten, Speicherung in der EU. Der Vertragsentwurf erlaubt jedoch die Nutzung von Eingaben und Ausgaben zur allgemeinen Produktverbesserung und hält vollständige Inhaltslogs 90 Tage vor. Support darf weltweit zugreifen; Standorte und Unterauftragnehmer sind nicht benannt. Eine Datenschutzvereinbarung liegt vor, enthält aber keine gesonderte Verpflichtung zum Berufsgeheimnis. Die Kanzlei will eine begrenzte Pilotnutzung mit öffentlichen Mustertexten sofort prüfen und Mandatsdaten erst nach tragfähiger Klärung einsetzen. Erstellen Sie einen kurzen Beschaffungsvermerk, vollständige Ersatzklauseln zu Zweck, Support und Löschung sowie priorisierte Anbieterfragen. Behaupten Sie keine selbst durchgeführte technische Prüfung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Vermerk erkennt, dass ausgeschlossenes Modelltraining die vertraglich erlaubte allgemeine Produktverbesserung und Inhaltslogs nicht beseitigt; die Ersatzklausel grenzt diese Nutzungen wirksam voneinander ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "EU-Speicherung wird nicht mit ausschließlich europäischem Zugriff gleichgesetzt; der Entwurf fordert konkret Standort-, Empfänger- und Geheimhaltungsklärung für Support und weitere Personen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Ergebnis unterscheidet den Pilot mit öffentlichen Texten von der noch nicht freigegebenen Nutzung vertraulicher Akten und behandelt die Datenschutzvereinbarung nicht als alleinige berufsrechtliche Freigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Die Löschregel unterscheidet produktive Inhalte, Protokolle und Sicherungen und formuliert eine umsetzbare Begrenzung statt einer unbelegten Zusage bereits vorhandener Sofortlöschung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "ki-no-training-modellverbesserung-telemetrie"
+    },
+    {
+      "id": "anbieterzusage-bias-und-hochrisikofristen",
+      "request": "Eine deutsche Anwaltskanzlei verhandelt am 14. September 2026 einen Vertrag über einen internen KI-Assistenten. Die Kernleistung wird nicht als Hochrisikosystem angeboten. Zusätzlich bietet der Dienst ein separat aktivierbares Bewerberbewertungsmodul an, das im Entwurf als Anhang-III-System eingeordnet ist. Ein optionales Produktmodul ist nach übereinstimmender bisheriger Einordnung ein Hochrisikosystem nach Artikel 6 Absatz 1 in Verbindung mit Anhang I. Beide Module sollen erst nach gesonderter Freigabe in Betrieb gehen. Der Anbieter schreibt: Seit Verordnung 2026/1744 dürfen sämtliche Mandatsdaten einschließlich Gesundheitsdaten zur allgemeinen Verbesserung und Bias-Prüfung an unsere Forschungspartner weitergegeben werden; Artikel 4a regelt nur Deepfakes. Sämtliche Compliance-Nachweise liefern wir einheitlich am 2. August 2028. Für jede Aufsicht einschließlich Datenschutz ist ausschließlich die Bundesnetzagentur zuständig. Die Kanzlei will keine allgemeinen Produktverbesserungsrechte einräumen und eine Zusage für Nachweise rechtzeitig vor dem jeweils maßgeblichen Einsatz erhalten. Erstelle ergebnis.md mit konkret ausformulierten Ersatzklauseln zu Datenzweck, Bias-Verarbeitung, Nachweisfristen und Behördenkooperation sowie einer kurzen Verhandlungsbegründung. Die abgegrenzte Einstufung der beiden Zusatzmodule kann für diesen Auftrag zugrunde gelegt werden; eine technische oder medizinprodukterechtliche Zertifizierung ist nicht beauftragt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Ersatzklausel unterbindet die pauschale Weitergabe sensibler Mandatsdaten und grenzt eine allenfalls zulässige Bias-Verarbeitung nach dem einschlägigen Absatz des Artikels 4a mit Notwendigkeit, Alternativenprüfung, Zugriffsschutz und Löschung von allgemeiner Verbesserung ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Nachweisregel differenziert für die bezeichneten Hochrisikopfade den 2. Dezember 2027 und den 2. August 2028, nimmt Artikel 6 Absatz 5 von der bezeichneten Verschiebung aus und bindet Nachweise an rechtzeitige Bereitstellung vor dem tatsächlichen Einsatz statt pauschaler Vertagung aller Pflichten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Behördenklausel behandelt die Bundesnetzagentur als Auffangbehörde mit einschlägigen Sonderzuständigkeiten und hält Datenschutzaufsicht daneben aufrecht; sie bestätigt keine ausschließliche Zuständigkeit für alle Module und Verfahren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Die Begründung ordnet Artikel 4a der begrenzten Bias-Datenverarbeitung und Deepfakes Artikel 50 Absatz 4 zu, ohne diese Prüfung durch einen allgemeinen Rechtsvortrag oder eine Freigabe vertraulicher Akten zu ersetzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "ai-act-rollen-kanzlei-provider-deployer-api"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde auf Anbieterprüfung, Vertragsbearbeitung und berufsrechtliche Grenzen geprüft.",
+    "changes": [
+      "Vertragliche Nachforderungen führen zur überarbeiteten Klauselfassung; technische Resilienz vom fachlichen Eingang getrennt."
+    ],
+    "sha256": "64dd674c8e5d899d362a45deb1e7cc17070e3e0698ec213eb6af056ecb2bee61"
+  }
 }

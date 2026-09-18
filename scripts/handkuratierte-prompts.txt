@@ -2,15 +2,14 @@
 #
 # Plugins (Slug, einer je Zeile), deren Werkstatt- und Schnellstart-Markdown
 # von Hand gepflegt werden. Der Generator generate-werkstatt-und-schnellstart-prompts.py
-# überschreibt den Haupttext dieser Dateien NICHT. Er erneuert nur den klar
-# markierten fachmaterialspezifischen Vertiefungsblock im Werkstatt-Prompt und
-# überspringt den Schnellstart. So gehen handkuratierte Stationen, Prüfraster und
-# Bausteine bei einem späteren Generatorlauf nicht verloren.
+# überspringt beide Dateien vollständig, auch vorhandene Vertiefungsblöcke.
+# Individuelle Prüfprofile unter quality/evals schützen die zugehörigen Prompts
+# ebenfalls; veraltete Prüfsummen brechen den Lauf ab, statt Texte zu ersetzen.
 #
 # Eine Zeile, die mit einem Doppelkreuz beginnt, ist ein Kommentar und wird ignoriert.
 # Leere Zeilen werden ignoriert.
 #
-# Eintrag entfernen, wenn ein Plugin wieder vollautomatisch generiert werden soll.
+# Eintrag allein zu entfernen hebt den Schutz durch ein Prüfprofil nicht auf.
 
 mietrecht
 arbeitsrecht

@@ -14,7 +14,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Frage nach der konkret fehlenden Originalfassung, Rechteübertragung oder Nutzung, wenn sie das Ergebnis bestimmt. Fehlende Nachweise sind keine Tatsachenannahmen. Nach Eingang prüfe die betroffene Schutz-, Lizenz- oder Verletzungsfrage erneut und arbeite bis zum bestellten Ergebnis weiter; neue entscheidende Widersprüche dürfen weitere kurze Rückfragen auslösen.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
@@ -58,11 +58,9 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 | 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
 | 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
 
-## Typische Outputs
+## Ergebnis
 
-- Routing-Memo mit 3 bis 7 Anschluss-Skills
-- Dokumenten- und Beweisnachforderung
-- Risikoampel und nächster belastbarer Arbeitsschritt
+Liefere die bestellte Abmahnungsantwort, Lizenzklausel oder begründete Prüfung in vollständigen Sätzen. Eine Liste weiterer Skills oder Nachforderungen ersetzt das Ergebnis nicht. Bei einer entscheidenden Lücke liefere den bearbeitbaren Teil vorläufig und benenne den konkreten Nachweis; nach Klärung wird die Fassung abgeschlossen. Interne Recherchehinweise bleiben vom Empfängertext getrennt. Nutzerdateinamen gehen vor; ohne Vorgabe ist `ergebnis.md` der Standard. Formatierte Texte verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung.
 
 ## Qualitätsfilter
 

@@ -8,7 +8,7 @@ Verbinde im bestellten Plan die Sanierungsmaßnahmen mit Vergleichsrechnung, Gru
 
 Unterscheide darstellenden und gestaltenden Teil samt Anlagen. Beziehe Abstimmung, Cram-down, Minderheitenschutz, gerichtliches Verfahren und Vollzug nach dem jeweiligen Verfahren und Auftrag ein. Ein Auftrag zur Vergleichsrechnung verlangt nicht automatisch sämtliche Planunterlagen.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Sanierung, StaRUG und Krisenfrüherkennung insbesondere die vorgelegten Urkunden, Bescheide und Korrespondenz, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Stimme Forderungen, Sicherheiten, Finanzierung und Vergleichsrechnung auf das konkrete Planverfahren ab. Belegte Zusagen von Annahmen und noch offenen Zustimmungen trennen; Gruppen, Stimmrechte und Rechtsfolgen anhand des maßgeblichen Verfahrensrechts prüfen. Die Ergebnisse gehören konsistent in das bestellte Planmodul und seine erforderlichen Anlagen, nicht in zusätzliche Pflichtprodukte nach jedem Prüfschritt.
 
 ### 1.1. Planfassung und Berechnungsgrundlagen fortführen
 

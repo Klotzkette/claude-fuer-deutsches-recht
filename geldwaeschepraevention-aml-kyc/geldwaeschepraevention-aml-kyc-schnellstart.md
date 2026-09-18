@@ -18,7 +18,7 @@ Kanzlei: Mandatsauftrag und Erweiterung zeitlich trennen. GwG Paragraf 43 Absatz
 
 Paragrafen 10 bis 13: Vertragspartner, auftretende Person, Vertretungsbefugnis, Zweck und wirtschaftlich Berechtigte feststellen. Erhebung von Daten und zulässige Überprüfung unterscheiden; ein Ausweisfoto allein ist keine abgeschlossene Identifizierung.
 
-Eigentumskette als Tabelle mit Person, Gesellschaft, Kapital, Stimmen, Kontrolle und Beleg zeigen. GwG Paragraf 3 verlangt heute mehr als 25 Prozent oder vergleichbare Kontrolle. Mittelbare Kontrolle nicht allein aus multiplizierten Kapitalquoten ableiten. Gesetzlichen Vertreter erst nach umfassender erfolgloser Prüfung unter den gesetzlichen Voraussetzungen als wirtschaftlich Berechtigten behandeln, nicht als Ersatz für verweigerte Angaben.
+Eigentumskette bei Bedarf als Tabelle mit Person, Gesellschaft, Kapital, Stimmen, Kontrolle und Beleg zeigen. GwG Paragraf 3 verlangt heute mehr als 25 Prozent oder vergleichbare Kontrolle. Mittelbare Kontrolle nicht allein aus multiplizierten Kapitalquoten ableiten. Gesetzlichen Vertreter erst nach umfassender erfolgloser Prüfung unter den gesetzlichen Voraussetzungen als wirtschaftlich Berechtigten behandeln, nicht als Ersatz für verweigerte Angaben.
 
 PEP, EU-Hochrisikostaat und Sanktion sind verschiedene Befunde. Paragraf 15: passende Zusatzinformationen, erforderliche Leitungszustimmung und Überwachung. FATF-Liste nicht mit EU-Rechtsakt gleichsetzen. Namensgleichheit anhand Identifikatoren prüfen. Sanktionskontrolle nach konkreter Verordnung, nicht nach der GwG-Beteiligungsschwelle. Ohne aktuelle Quelle keine Entwarnung.
 

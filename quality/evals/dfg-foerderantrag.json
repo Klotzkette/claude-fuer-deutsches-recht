@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "dfg-foerderantrag",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/sachbeihilfe/formulare-merkblaetter",
@@ -11,12 +11,12 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Ressourcenroute war sinnvoll; der Kernskill enthält jedoch pauschale Budgetquoten und Erfolgserwartungen, die nicht in den Mini übernommen werden dürfen.",
+    "reason": "Mini vollständig gelesen: Forschungsfrage, Datenzugang und Stellenanteil führen zu unterschiedlichen gezielten Nachfragen und danach zu Methoden-, Zeitplan- oder Budgetkorrektur statt einer allgemeinen Förderübersicht.",
     "changes": [
-      "Vollzeitäquivalent-Monate und belegte Sätze eingeführt.",
-      "Abgeschnittenen Datenschutzanker ersetzt; keine erfundenen Bewilligungsquoten."
+      "Methodenlücke mit beobachtbarem Erkenntnisziel und anschließendem Antragstext verbunden.",
+      "Personalpositionen nach Ergänzung von Satz oder Stellenanteil neu berechnen lassen; fehlender Formularstand sperrt nur Einreichreife."
     ],
-    "sha256": "d406ea691ef48e42d5c32ec7e2f9446df4519a81f45560f958d4c1f6a5af25e6"
+    "sha256": "c6f18a3759909eacbe356970dd702505d692481b26400a5571550bf5aaef11bf"
   },
   "selection": {
     "positive": [
@@ -61,5 +61,15 @@
       ],
       "target_skill": "dfg-finanzplan-module-personal-geraete"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Gesamte Werkstatt einschließlich Wiedereinreichung und Formalia geprüft. Forschungsunsicherheit bleibt wissenschaftlicher Inhalt; technische Quellenvermerke, pauschale Bewilligungsquoten und juristische Pflichtfelder werden nicht in den Antrag gedrängt.",
+    "changes": [
+      "Daten- und Kooperationszusage von Anfrage getrennt und nach Antwort Arbeitspakete samt Ressourcen angepasst.",
+      "Gutachterkritik mit sachlicher Änderung und konkreter Antwort verbunden.",
+      "Bestellten Antragsteil von einem ungefragten Gesamtpaket unterschieden; bestehende Programmangaben weiterhin aktuell zu prüfen."
+    ],
+    "sha256": "2ac6eeaeb702660b65b87ca25f93bf49d91492ee85a1fae73ab7d53118861ab1"
+  }
 }

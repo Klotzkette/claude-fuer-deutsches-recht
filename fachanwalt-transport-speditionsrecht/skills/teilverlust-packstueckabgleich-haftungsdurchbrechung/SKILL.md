@@ -47,7 +47,7 @@ Für die getrennten Berechnungswege: BGH, Urteil vom 02.07.2026, Az. I ZR 134/25
 
 Liefere die bestellte Anspruchsbegründung oder Erwiderung mit bezifferter Alternativrechnung unter dem gewünschten Dateinamen, ohne Vorgabe unter `ergebnis.md`. Packstück- und Ereignisübersichten sowie Fristenaufstellungen nur als benötigte Erläuterung ergänzen; ein reiner Prüfauftrag führt nicht ungefragt zur Klage. Offene Nachweise und ihr Einfluss auf das Ergebnis bleiben kenntlich.
 
-Technische Grenzen und Quellenstatus stehen in einer getrennten Arbeitsnotiz. Vollständige Sätze statt Stichwortskelette. Dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
+Technische Grenzen und Quellenstatus stehen in einer getrennten Arbeitsnotiz. Ohne Dateiexport den bestellten Text mit Packstückabgleich und den erforderlichen Haftungsberechnungen vollständig in der Antwort bereitstellen, nicht nur einen Dateinamen oder angeblichen Download. Vollständige Sätze statt Stichwortskelette. Dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
 
 ## 1.6. Beispiele
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "startup-hr-personalabteilung-berlin",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/betrvg/__87.html",
@@ -10,14 +10,12 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Eine Personalabteilung muss konkrete Einführungsschritte und Beteiligungen prüfen, nicht Berliner Standortangaben mit materieller Zulässigkeit verwechseln.",
+    "verdict": "retained",
+    "reason": "Vollständige Textprüfung am 18. September: Zeitnachweis und Beteiligungsantwort führen zur erneuten Abrechnung beziehungsweise Maßnahmeprüfung und anschließend zum Beschäftigtenschreiben.",
     "changes": [
-      "Personalmaßnahme, Betriebsrat und Vollzugsstand vor allgemeinen HR-Fragen erhoben.",
-      "Arbeitszeiterfassung von zusätzlicher Überwachung getrennt.",
-      "Beteiligung und Datenschutz als getrennte Freigabevoraussetzungen dargestellt."
+      "Keine weitere Änderung der vollständig gelesenen Mini-Fassung."
     ],
-    "sha256": "c09398405a6c2964bd9dd84f6ee5bc2126761644c968f59bd52088dde5c05e79"
+    "sha256": "aef569751a96e8c5985951cf3f7a5408f1bbb7c13b0e1ed1f9a29450fd300b7f"
   },
   "selection": {
     "positive": [
@@ -62,5 +60,13 @@
       ],
       "target_skill": "berlin-kaltstart-routing-hr-command-center"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Textprüfung am 18. September: Alle Abschnitte einschließlich Beschwerden und Austritt gelesen: Payroll-Buchung, Kündigung und Systemfreigabe bleiben vorbehalten. Neue Antworten führen zum fertigen Beteiligungstext statt erneuter Personalaufnahme.",
+    "changes": [
+      "Keine weitere Änderung; Brutto/Netto, Beteiligung und sensible Personaldaten bleiben getrennt."
+    ],
+    "sha256": "6d380a4e5c070ab8b60b718a83dc3d67e2b9d7624843d147d06251f1f52a835a"
+  }
 }

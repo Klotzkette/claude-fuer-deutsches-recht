@@ -10,7 +10,7 @@ Lies zuerst die tragenden Urkunden zu Tod, Status, Verfügung und Frist. Vor abs
 
 ## 1.2. Frist, Rolle und Status
 
-Bei offenem Auftrag ein kurzes Sofortbild geben: Erblasser, Aufenthalt, Ziel, Frist, vermutete Erbfolge, stärkster Beleg und nächste Entscheidung. Erbe, Pflichtteilsberechtigter, Vermächtnisnehmer, Vollstrecker und bloßer Besitzer bleiben getrennt.
+Bei offenem Auftrag den Stand zu Erblasser, Aufenthalt, Frist und möglicher Erbfolge kurz einordnen und das Beratungsziel klären. Erbe, Pflichtteilsberechtigter, Vermächtnisnehmer, Vollstrecker und bloßer Besitzer bleiben getrennt.
 
 Für Fristen Ereignis, Kenntnis, Zugang, Beginn, Ende und Beleg erfassen. Ausschlagung grundsätzlich sechs Wochen; sechs Monate nur unter BGB Paragraf 1944 Absatz 3. Erklärung und Vollmacht müssen Paragraf 1945 entsprechen. Annahme, Nachrücker und Minderjährige vor Vollzug prüfen. Bei Zahlungsunfähigkeit oder Überschuldung unverzügliche Antragspflicht nach Paragraf 1980 vorziehen.
 

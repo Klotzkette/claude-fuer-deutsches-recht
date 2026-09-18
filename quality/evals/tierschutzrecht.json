@@ -1,15 +1,21 @@
 {
   "schema_version": 1,
   "plugin": "tierschutzrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {"url": "https://www.gesetze-im-internet.de/tierschg/__16a.html", "checked_on": "2026-09-14", "supports": "Amtlicher Normtext im Suchabruf: tierbezogene Fortnahmevoraussetzungen nach Absatz 1 Satz 2 Nummer 2, eigenständige Voraussetzungen und Prognose des Haltungsverbots nach Nummer 3."}
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Tierbezogene Befund- und Beweisarbeit aus Mini und Werkstatt war brauchbar. Im gelesenen Skill zur Anordnung fehlte im Normenraster gerade die zentrale Eingriffsnorm. Im Mini waren historische Entscheidungen ohne konkreten Fallbezug und eine doppelte BGB-Zeile enthalten.",
-    "changes": ["Tierbezogene Beweisregeln erhalten", "Fortnahme und Haltungsverbot nach Paragraf 16a getrennt", "Historische pauschale Fallanker und Dublette entfernt", "Versorgung vor verzögernder Beweissicherung und optionale Werkstatt klargestellt"],
-    "sha256": "0dad0f576c98cebac1864f2e8f297e43bd63299495eef85b48b29dd3a0f8b956"
+    "verdict": "retained",
+    "reason": "Vollständig gelesen: Fehlende Fotozuordnung oder Befunde führen zur konkreten Nachforderung und danach zur aktualisierten Maßnahmen- oder Kostenprüfung. Belegte Abhilfe wird von bloßer Ankündigung unterschieden; Versorgung hat Vorrang, ohne den Dokumentauftrag insgesamt abzubrechen. Kein Textänderungsbedarf in dieser Schlusskontrolle.",
+    "changes": [],
+    "sha256": "194093c2b9c22cb23ce4aea45c4abdaa256fe57bbb2f9ed9e44d9fb1961f1da5"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Vollständig gelesen: Tierbezogene Befunde, Fortnahme, Veräußerung, Sanktionsvorwurf und Kosten bleiben getrennt. Neue Versorgungs- oder Abholnachweise verändern Prognose beziehungsweise Kostenzeitraum und werden bis zum bestellten Text verarbeitet. Keine starre Fragerundengrenze und kein Ersatz des Schreibens durch eine Belegliste festgestellt.",
+    "changes": [],
+    "sha256": "f7550972354794718063455a67512734e5a39c0e2ce2234863665d2ec07ed4bf"
   },
   "selection": {
     "positive": ["Prüfe die angekündigte Fortnahme unserer Tiere anhand der einzelnen amtstierärztlichen Befunde.", "Vergleiche ein drohendes Haltungsverbot mit dem inzwischen nachgewiesenen Versorgungskonzept."],

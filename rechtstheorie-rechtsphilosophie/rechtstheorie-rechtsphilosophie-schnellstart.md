@@ -1,6 +1,8 @@
 # 1. Rechtstheoretische Argumente am konkreten Problem prüfen
 
-Beginne mit dem vorgelegten Text, Streitpunkt oder Entscheidungsproblem. Bestimme, ob der Nutzer eine Begriffsanalyse, einen Theorievergleich, eine Kritik oder einen ausformulierten argumentativen Abschnitt braucht. Erzwinge weder eine zivilrechtliche Anspruchsprüfung noch den Gutachtenstil für einen philosophischen Essay. Frage nur nach fehlendem Material, ohne das gerade die behauptete Position nicht rekonstruiert werden kann; entwickle aus einem vollständigen Nutzerargument sofort die Analyse.
+Untersuche den vorgelegten Text, Streitpunkt oder das Entscheidungsproblem und verfasse die verlangte Begriffsanalyse, Kritik oder Argumentation. Lies vorhandenes Material und bisherige Antworten zuerst.
+
+Erzwinge weder eine zivilrechtliche Anspruchsprüfung noch den Gutachtenstil für einen philosophischen Essay. Frage nur nach fehlendem Material, das für die konkrete Rekonstruktion entscheidend ist; entwickle aus einem vollständigen Nutzerargument sofort die Analyse.
 
 ## 1.1. Ebenen auseinanderhalten
 
@@ -14,6 +16,8 @@ Formuliere die tragende These, ausdrücklich gegebene Prämissen und die Schluss
 
 Bei einem Theorievergleich dieselbe Frage und denselben Beispielsfall für beide Positionen verwenden. Nicht eine ausgearbeitete Position mit einer Karikatur der anderen vergleichen. Stelle den stärksten Einwand dar und prüfe, ob die Erwiderung die These verteidigt oder sie unbemerkt abschwächt. Ein Gegenbeispiel muss die behaupteten Voraussetzungen erfüllen, sonst testet es eine andere Aussage.
 
+Fehlt die Textstelle für eine zugeschriebene Position, frage nach Passage und Ausgabe und bearbeite die vorhandene Paraphrase vorläufig als solche. Nach der Antwort gleiche These und Prämissen mit dem Wortlaut ab, korrigiere die betroffene Rekonstruktion und schreibe den bestellten Abschnitt fertig. Weitere entscheidende Kontextlücken gezielt klären, bereits beantwortete Fragen nicht wiederholen.
+
 ## 1.3. Praxisbezug ohne Scheinzwang
 
 Bei Gesetzgebung oder Rechtsanwendung offenlegen, welche Folgerung aus dem theoretischen Ansatz gewonnen werden soll: etwa ein bestimmter Auslegungsmaßstab, eine institutionelle Zuständigkeit oder die Berücksichtigung von Folgen. Prüfe die zusätzliche rechtliche Grundlage gesondert. Eine Effizienzsteigerung kann ein relevantes Argument sein, aber die Auswahl des Effizienzmaßstabs und die Verteilung von Kosten bleiben erklärungsbedürftig.
@@ -22,4 +26,8 @@ Bei behaupteten Sachzwängen mögliche Handlungsalternativen und Informationsgre
 
 ## 1.4. Präzise Textfassung liefern
 
-Das Ergebnis enthält eine klare These, nachvollziehbare Begründung, Gegenargument und begrenztes Fazit. Eine Tabelle kann Vergleichsachsen ordnen, ersetzt aber nicht die ausformulierte Argumentation. Für abstrakte logische Prüfung keine Rechtsprechung erzwingen. Historische Zuschreibungen anhand der Originaltexte, heutige Rechtsbehauptungen anhand amtlicher Quellen verifizieren; ohne Zugriff die Zuschreibung offenlassen. Dezimal gliedern, Export in Times New Roman 11 pt. Weiterführende Skills und Referenzen sind optional; die Ebenentrennung und Argumentprüfung stehen vollständig hier.
+Das Ergebnis enthält eine klare These, nachvollziehbare Begründung, Gegenargument und begrenztes Fazit. Eine Tabelle kann Vergleichsachsen ordnen, ersetzt aber nicht die ausformulierte Argumentation. Bei einem Hindernis den tragfähigen Teil und die benötigte Passage benennen; nach Eingang bis zum bestellten Text fortsetzen, nicht bei einer Quellenanforderung stehenbleiben.
+
+Für abstrakte logische Prüfung keine Rechtsprechung erzwingen. Historische Zuschreibungen anhand der Originaltexte, heutige Rechtsbehauptungen anhand amtlicher Quellen verifizieren; ohne Zugriff die Zuschreibung offenlassen. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Technische Quellenstatus getrennt von der Argumentation halten. Dezimal gliedern, Export in Times New Roman 11 pt; Veröffentlichung und Einreichung nur mit ausdrücklicher Freigabe.
+
+Weiterführende Skills und Referenzen sind optional; die Ebenentrennung und Argumentprüfung stehen vollständig hier. Bei fehlendem Zugriff einen geeigneten anderen Weg versuchen und die konkrete Lücke nennen. Keine gelesene Originalquelle oder erzeugte Datei behaupten, die tatsächlich nicht vorliegt.

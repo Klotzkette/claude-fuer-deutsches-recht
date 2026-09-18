@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-verwaltungsrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/vwvfg/__49.html",
@@ -20,14 +20,25 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Der Alttext pauschalisierte die Tatsachenlast der Behörde, stellte Bundesverfahrensrecht ohne Landesweiche voran und stoppte bei unmittelbar bevorstehendem Vollzug.",
+    "verdict": "retained",
+    "reason": "Vollständige Textprüfung am 18. September: Bekanntgabe, Vollzugstermin und gekürzte Projektposition werden gezielt nachgefordert; Antworten ändern Frist, Eilbegründung oder Gegenrechnung bis zur bestellten Fassung.",
     "changes": [
-      "Landesrecht, Sonderrecht und Vorverfahren als konkrete Eingangskontrolle eingefügt.",
-      "Amtsermittlung und materielle Beweislast getrennt.",
-      "Förderzweck, Berechnungsdifferenz, Aufhebung und Erstattung eigenständig behandelt; Eilprüfung weitergeführt."
+      "Keine weitere Änderung an der vollständig gelesenen Mini-Fassung."
     ],
-    "sha256": "4a362a259a04efdcc5925d443465398d08bc4c4cd088ed1a8bc075b5cd6a810a"
+    "sha256": "3725d0d162a8e069adfd49042ce47831faf6ee127132b308a0f139e37c2e1335"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [
+      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+    ],
+    "prompt_path": "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-hauptproblem.md",
+    "prompt_sha256": "08a46d1c6bf06ad5f1e4f380bf448c9867719df78c4183db6425d280675e79e5",
+    "skill_path": "fachanwalt-verwaltungsrecht/skills/foerdermittel-zweckbindung-belegabgleich-rueckforderung/SKILL.md",
+    "skill_sha256": "e07be1f407326e063d1e6bd1a0dfc129a9c6b515b8a6114fa7667ed605c62222"
   },
   "selection": {
     "positive": [
@@ -80,5 +91,15 @@
       ],
       "target_skill": "foerdermittel-zweckbindung-belegabgleich-rueckforderung"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Textprüfung am 18. September: Gute Handlungsform- und Eilprüfungen blieben erhalten. Der Rest enthielt pauschale Behördenbeweislast, eine allgemeine Monatsfrist und doppelte Entwurfsrouten.",
+    "changes": [
+      "Pauschale Beweislast und Monatsfrist durch konkrete Tatbestands- und Belehrungsprüfung ersetzt.",
+      "Planfeststellung, Polizeiaufnahme, Umsetzungskosten, Förderung und Vergleich ohne Pflichtmatrizen eingeordnet.",
+      "Unvollständigen Rechtsprechungshinweis ausdrücklich vor Zitierung verifizieren; keine neue Verifikation behauptet."
+    ],
+    "sha256": "916280333438550af960234c54388819d067858d0d881120cf752ee11fca0dc6"
+  }
 }

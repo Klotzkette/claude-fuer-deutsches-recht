@@ -6,7 +6,7 @@ Prüfe den Leasingvertrag oder die Abrechnung und verfasse das bestellte Schreib
 
 Bearbeite Leasing, Sale-and-lease-back, Equipment Finance, Fahrzeugflotten und IT-Leasing aus den vorhandenen Vertrags- und Abrechnungsunterlagen. Bestimme zunächst, ob Vertragsgestaltung, Rückgabeabrechnung, Leistungsstörung oder Insolvenz betroffen ist. Beziehe Vertraulichkeits-, Lizenz- oder Vertriebsvereinbarungen nur ein, soweit sie zum konkreten Leasinggeschäft und Auftrag gehören.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Vertragsgestaltung und Vertragspraxis insbesondere die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen, trennt Geschäftsziel, Rechtswirkung, Verhandlungsposition und Rückfalllösung, prüft Kompetenz, Parameter, Risikozuweisung und Vollzugsbedingungen und macht aus offenen Punkten entscheidungs- oder verhandlungsfähige Fassungen. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Trenne Vertragsgestaltung und Prüfung eines bereits abgerechneten Vorgangs. Bei Gestaltung Geschäftsziel, Parameter und Risikozuweisung abstimmen; bei Rückgabe oder Kündigung Belege und einzelne Forderungspositionen abgleichen. Die folgenden Übersichten bieten mögliche Prüfungen, keine Pflichtausgaben je Zwischenstation. Ein Abrechnungseinwand erfordert weder Neuvertrag noch allgemeine Geheimhaltungsvereinbarung.
 
 ### 1.1. Vertragsstand und fehlende Nachweise
 
@@ -18,8 +18,8 @@ Bei Rückgabeschäden fordere fehlende Fotos oder die konkrete Minderwertberechn
 
 | Bedarf | Sofortausgabe | Qualitätsgriff |
 | --- | --- | --- |
-| Zeitkritischer Entwurfs- oder Vollzugspunkt: Dokumentstand, Verhandlungsparameter, Gremienfreigabe oder Vollzug | Termin- und Entscheidungsmatrix mit sofortigem Entwurfsgriff | Der Vertragszweck oder die Leistungsbeschreibung ist unklar; ohne sie kein Klauseltext; vor Fortsetzung klären |
-| Tragendes Arbeitsprodukt | Vertragsgerüst: Präambel, Definitionen, Leistung, Vergütung, Laufzeit, Haftung, Geheimhaltung, Schlussbestimmungen | jede Regelung erhält Geschäftsziel, Rechtswirkung und Vollzugsbezug |
+| Fehlender Objekt- oder Abrechnungsparameter | Konkrete Nachfrage nach Merkmal, Foto oder Rechenwert | Nur abhängige Position vorläufig lassen; übrige Rechnung oder Regelung weiterbearbeiten |
+| Bestelltes Ergebnis | Vollständiger Vertragsentwurf, Abrechnungseinwand oder Gutachten | Umfang folgt dem Auftrag; kein bloßes Vertragsgerüst |
 | Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welche Hauptleistungspflichten müssen subsumtionsfähig beschrieben sein |
 | Deal- und Nachweisarbeit | Klausel-, Risiko- und Vollzugsmatrix | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar |
 | Regelungsseite | Klausel, Redline, Beschluss oder Closing-Fassung | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
@@ -71,7 +71,7 @@ Entwurfsgriff Kontrolle: AGB-Festigkeit, Transparenz, Kollision mit zwingendem R
 
 ### 3.5. Arbeitsprodukt
 
-Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Regelung samt Variante und Vollzugsschritt; die Rückfallposition bleibt sichtbar.
+Formuliere bei Gestaltungsauftrag die erforderlichen Vertragsregelungen vollständig. Bei Abrechnungsauftrag liefere stattdessen die positionsbezogene Bewertung und das bestellte Schreiben. Eine Teiländerung muss nicht den gesamten Vertrag wiederholen; nach ergänztem Parameter die betroffene Klausel oder Rechnung aktualisieren und fertigstellen.
 
 ## 4. Regelungs- und Vollzugsfallkarte
 
@@ -92,7 +92,7 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 | GeschGehG | Schutz von Geschäftsgeheimnissen und angemessene Geheimhaltungsmaßnahmen | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
 | UrhG Paragraf 31 ff | Einräumung von Nutzungsrechten und Zweckübertragungsgedanke | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
 | HGB Paragraf 84 ff. als Wertungsrahmen für Vertriebs- und Franchisemodelle | HGB Paragraf 84 ff. als Wertungsrahmen für Vertriebs- und Franchisemodelle | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
-| Paragrafen 108, 109 InsO | Insolvenzverwalter kann Vertrag fortführen oder kündigen | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
+| Paragrafen 103, 108 und 109 InsO | Anwendbare Regel nach Objekt, Schuldnerseite und Erfüllungsstand bestimmen | Vertrag und Eröffnungsbeschluss | Bestellte insolvenzbezogene Bewertung, kein automatischer Neuvertrag |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Risikozuweisung
 
@@ -108,7 +108,7 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 - GeschGehG: Schutz von Geschäftsgeheimnissen und angemessene Geheimhaltungsmaßnahmen.
 - UrhG Paragraf 31 ff.: Einräumung von Nutzungsrechten und Zweckübertragungsgedanke.
 - HGB Paragraf 84 ff. als Wertungsrahmen für Vertriebs- und Franchisemodelle.
-- Paragrafen 108, 109 InsO: Insolvenzverwalter kann Vertrag fortführen oder kündigen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 103, 108 und 109 InsO: Wahlrecht, Fortbestand und Kündigung nach ihrem jeweiligen Anwendungsbereich getrennt prüfen.
 - Paragrafen 535–548 BGB: Mietrecht analog; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 506–509 BGB: Verbraucherleasing; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 398 BGB: Abtretung der Gewährleistungsansprüche; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -140,7 +140,7 @@ Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definit
 10.5. Nachweis und Freigabe: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar. Zeige die Folge eines offenen Parameters oder fehlenden Beschlusses.
 10.6. Gegenposition: Formuliere die stärkste Verhandlungsposition der anderen Seite; sie setzt typischerweise bei welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest an.
 10.7. Rückfallposition: Antworte mit konkreter Alternativfassung, Preis- oder Vollzugsausgleich und zeige die Auswirkung auf vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
-10.8. Entwurf und Vollzug: Schließe mit Vertragsgerüst: Präambel, Definitionen, Leistung, Vergütung, Laufzeit, Haftung, Geheimhaltung, Schlussbestimmungen; NDA-Kern: Vertrauliche Information, erlaubte Nutzung, Empfängerkreis, Dauer, Rückgabe, Sanktion; Verantwortlicher, Termin, Bedingung und Erfüllungsnachweis sind ausformuliert.
+10.8. Schreibe das bestellte Dokument fertig: bei Rückgabe die begründete Stellungnahme zum Saldo, bei Vertragsgestaltung die vollständigen Regelungen. Keine automatische zusätzliche Vertraulichkeitsvereinbarung und kein Gerüst als Endfassung. Offene entscheidende Frage klären und nach Antwort dort fortsetzen.
 10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -203,8 +203,7 @@ Lieferstück: Entwurfsbaustein zu Immobilienleasing: Erbbaurecht und Grundbuch m
 ### 16.2. Insolvenz des Leasingnehmers: Aussonderung und Fortführung
 
 Bearbeitungsauftrag: Bearbeite Insolvenz des Leasingnehmers: Aussonderung und Fortführung entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen.
-Prüfschritte: Paragraf 47 InsO: Aussonderung (LG als Eigentümer); Paragraf 108 InsO: Fortbestand bestimmter Verträge (Miet-/Leasingverträge); Paragraf 109 InsO: Wahlrecht des Insolvenzverwalters bei Verträgen; Paragrafen 38, 55 InsO: Insolvenzforderung vs; Paragraf 21 II Nummer 5 InsO: Vorläufige Insolvenzverwaltung, Anordnung des Aussonderungsverbots Leasingverträge über unbewegliche Sachen (Immobilien) laufen gemäß Paragraf 108 I InsO grundsätzlich mit Wirkung für die Masse fort.
-Normbezug aus dem Fachmaterial: Paragraf 47 InsO: Aussonderung (LG als Eigentümer); Paragraf 108 InsO: Fortbestand bestimmter Verträge (Miet-/Leasingverträge); Paragraf 109 InsO: Wahlrecht des Insolvenzverwalters bei Verträgen; Paragrafen 38, 55 InsO: Insolvenzforderung vs.
+Prüfe Eigentum und Aussonderung nach Paragraf 47 InsO, mögliche vorläufige Anordnungen nach Paragraf 21 Absatz 2 Nummer 5 sowie Rang nach Paragrafen 38 und 55 InsO getrennt. Bestimme anhand von Gegenstand und Erfüllungsstand, ob Paragraf 103 oder die Sonderregeln der Paragrafen 108 und 109 einschlägig sind. Paragraf 109 nicht als allgemeines Wahlrecht für jeden Leasingvertrag ausgeben. Fehlenden Beschluss oder Objektbeleg konkret nachfordern und danach die betroffene Fortführungs- oder Herausgabebewertung aktualisieren.
 Lieferstück: Entwurfsbaustein zu Insolvenz des Leasingnehmers: Aussonderung und Fortführung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
 ### 16.3. Konzerninternes Leasing: Transfer Pricing und Verrechnungspreise
@@ -262,7 +261,7 @@ Lieferstück: Entwurfsbaustein zu Leasing beweglicher Sachen Router mit Geschäf
 ### 16.11. Grenzüberschreitendes Leasing: UNIDROIT und Rechtswahl
 
 Bearbeitungsauftrag: Bearbeite Grenzüberschreitendes Leasing: UNIDROIT und Rechtswahl entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen.
-Prüfschritte: UNIDROIT-Übereinkommen: Gilt für Finanzierungsleasing, wenn LG und LN in verschiedenen Vertragsstaaten ansässig sind; Deutschland ist kein Vertragsstaat → gilt nur, wenn Parteien Recht eines Vertragsstaats gewählt haben (z.B; England bis Brexit, Frankreich, USA/einzelne Staaten); Regelt: Rechte und Pflichten aus Leasingdreieck (Lieferant, LG, LN); Artikel 8: LN kann Ansprüche gegen Lieferant direkt geltend machen (wie Paragraf398 BGB).
+Prüfe den sachlichen und räumlichen Anwendungsbereich des UNIDROIT-Übereinkommens anhand seines amtlichen Texts und des aktuellen Vertragsstaatenstands. Sitz von Leasinggeber, Leasingnehmer und Lieferant sowie Rechtswahl getrennt feststellen; Brexit oder die bloße Wahl ausländischen Rechts nicht als ausreichenden Anwendungsnachweis behandeln. Lieferantenansprüche im Leasingdreieck anhand der tatsächlich einschlägigen Vorschrift prüfen, nicht durch einen ungeprüften Vergleich mit Paragraf 398 BGB ersetzen.
 Lieferstück: Entwurfsbaustein zu Grenzüberschreitendes Leasing: UNIDROIT und Rechtswahl mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
 ### 16.12. IT-Leasing: Hardware, Software und Cloud-Bundle

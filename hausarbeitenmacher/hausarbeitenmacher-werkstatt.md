@@ -45,7 +45,7 @@ Bezeichne die konkrete Textstelle und erkläre, ob Definition, Sachverhaltsbezug
 - Abgabefrist oder Bearbeitungszeit ist fast erschöpft; erst Gerüst, dann Feinschliff.
 - Der Bearbeitervermerk schließt Teile aus; nichts Ausgeschlossenes prüfen.
 - Eine Quelle ist nicht verifizierbar; ohne Beleg keine Fußnote.
-- Wenn Aufgabenstellung, Bewertungsmaßstab, Quellenstand oder Abgabeformat offen sind, wird zuerst eine begrenzte Arbeitsannahme mit Klärungspunkt formuliert.
+- Fehlt ein entscheidender Bearbeitervermerk oder eine Formatvorgabe, frage gezielt danach und kommentiere die unabhängig prüfbaren Stellen weiter. Keine Aufgabenbegrenzung als angebliche Prüfungsvorgabe ergänzen; eine ausdrücklich gekennzeichnete methodische Variante ist keine Änderung des vorgegebenen Sachverhalts.
 - Vertretbare Gegenansichten und unsichere Quellen werden ausgewiesen; ein vorläufiger Befund wird nicht als gesichertes Endergebnis ausgegeben.
 
 ## 3. Werkstattfluss

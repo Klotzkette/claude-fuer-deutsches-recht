@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-medizinrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__249.html",
@@ -36,14 +36,28 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der bisherige Schnellstart schrieb dem Behandler pauschal Beweislast für Dokumentation und Standard zu und blieb auf der Schadensseite abstrakt. Die Neufassung differenziert die gesetzlichen Vermutungen und führt Haushalt, Pflege und Leistungsträger eigenständig zusammen.",
+    "reason": "Vollständig geprüft: Befunde und Haushalts- oder Pflegebelege werden gezielt nachgefordert und in Bewertung, Rechnung und bestellten Anspruchstext eingearbeitet. Die bestehende Fassung bleibt unverändert; medizinische Kausalität wird nicht erfunden.",
     "changes": [
       "Pauschale Beweislastformel durch die konkreten Wirkungen des Paragrafen 630h ersetzt.",
       "Haushaltsstunden, Pflegeleistungen und Sozialleistungskongruenz mit Doppelansatzkontrolle aufgenommen.",
       "Fehlende medizinische Kausalität als Vorbehalt statt Stillstand behandelt; optionalen Vertiefungslink und Grenzen für Gesundheitsdaten ergänzt."
     ],
-    "sha256": "5c341f1939b8fabe277bbbf05f0553a03b8722f8f8251839b022bdc33395639e"
+    "sha256": "a13ca046b97c13f43a5c71d3e92d3adb89598f3f26e4354df9d9a63d03499bc3"
   },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [
+      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+    ],
+    "prompt_path": "fachanwalt-medizinrecht/fachanwalt-medizinrecht-hauptproblem.md",
+    "prompt_sha256": "b2ccc0a2e5b0ba74a4460777d99108a478d70d96e7acbbed964a61551300b5ba",
+    "skill_path": "fachanwalt-medizinrecht/skills/behandlungsfolgen-haushalt-pflege-abgleich/SKILL.md",
+    "skill_sha256": "436433c69286fa094039ed93443a26644aeb9f7dd1be19a61242f483a334b57b"
+  },
+  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung bestätigte Fortsetzung bei Behandlungs- und Leistungsfragen; die allgemeine Stationsproduktpflicht passte nicht zur einzelnen Beratung oder Anspruchsbegründung.","changes":["Zeitachse und Gutachterfragen nur soweit auftragsnötig übernehmen lassen; Befunde, Behauptungen und offene Fachfragen getrennt gehalten."],"sha256":"115526c87b7b16afda7059ff4bf13b48cbba73ec8d7233ef9cedd8592cd3eb55"},
   "selection": {
     "positive": [
       "Nach einer Operationsfolge brauchen wir eine zeitabschnittsweise Rechnung über Haushaltshilfe und Angehörigenpflege mit Abgleich der Kassenleistungen.",

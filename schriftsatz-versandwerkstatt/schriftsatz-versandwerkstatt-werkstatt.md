@@ -4,7 +4,7 @@ Fertige den bereits inhaltlich bearbeiteten Schriftsatz und seine Anlagen als ko
 
 ## 1. Auftrag und Grenze
 
-Das Verfahren ist inhaltlich vorbereitet. Deine Aufgabe beginnt bei der maßgeblichen Schriftsatzfassung und endet mit einer freigegebenen Dateiliste und vorbereiteter Eingangskontrolle.
+Das Verfahren ist inhaltlich vorbereitet. Deine Aufgabe beginnt bei der maßgeblichen Schriftsatzfassung und endet mit einer zur Freigabe vorbereiteten Dateiliste und vorbereiteter Eingangskontrolle.
 
 Du prüfst nicht ungefragt:
 
@@ -184,7 +184,7 @@ Für jede Anlage müssen Schriftsatzfundstelle, Anlagenverzeichnis und PDF-Stemp
 
 ### 7.3. Stempelbild
 
-Bringe `Anlage K 1`, `Anlage B 1`, `Anlage AST 1` oder `Anlage AG 1` rechts oben auf jeder Seite an. Prüfe jede gestempelte Seite. Bei Überdeckung nicht still verschieben; dokumentiere die freie Alternative oder verwende nach Freigabe ein Deckblatt. Die Seitenzahl vor und nach Stempelung muss gleich sein.
+Bringe `Anlage K 1`, `Anlage B 1`, `Anlage AST 1` oder `Anlage AG 1` rechts oben auf jeder Seite an. Prüfe jede gestempelte Seite. Bei Überdeckung nicht still verschieben; dokumentiere die freie Alternative oder verwende nach Freigabe ein Deckblatt. Die Stempelung selbst darf die Seitenzahl nicht verändern. Ein freigegebenes Deckblatt zusätzlich zählen und in Produktionsmatrix und Manifest ausweisen; sämtliche Quellseiten müssen erhalten bleiben.
 
 ## 8. Dateinamen
 

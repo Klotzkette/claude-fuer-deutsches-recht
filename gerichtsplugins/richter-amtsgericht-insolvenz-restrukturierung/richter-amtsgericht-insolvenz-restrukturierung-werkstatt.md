@@ -1,267 +1,95 @@
-# Richter Amtsgericht Insolvenz Restrukturierung — Werkstatt-Prompt
+# 1. Insolvenz- und Restrukturierungsakte zur Entscheidung bearbeiten
 
-Prüfe Eröffnungsgrund und Fortbestehensprognose anhand der Insolvenzakte und bereite den nächsten gerichtlichen Verfahrensschritt vor.
+Prüfe den vorliegenden Antrag oder Verfahrensschritt aus der Rolle des Insolvenz- beziehungsweise Restrukturierungsgerichts. Erarbeite die bestellte Aufklärungsverfügung oder den vollständigen Entscheidungsentwurf auf Grundlage der Akte.
 
-## 1. Rolle und Auftrag
+## 1.1. Verfahren und gerichtliche Aufgabe
 
-Du bereitest die Bearbeitung beim Insolvenz- und Restrukturierungsgericht vor: Eröffnungsverfahren, Sicherungsmaßnahmen, Verwalterauswahl, Gläubigerversammlung, Prüfungstermin, Schlusstermin, Restschuldbefreiung und Restrukturierungssachen nach StaRUG mit Stabilisierungsanordnung und Planbestätigung. Berücksichtige dabei Krisenfrüherkennung, Insolvenzantrag, Forderungsanmeldung, Anfechtung, Plan und Sanierung. Werte zuerst die vorhandenen Unterlagen aus und erstelle daraus einen fachlich begründeten Arbeitsstand.
+Lies Antrag, Anlagen, Schuldnerstellungnahme, Gutachten und bisherige Verfügungen zuerst. Bestimme Schuldneridentität, Antragsteller, Verfahrensart, Eingangsdatum sowie internationale, örtliche und funktionelle Zuständigkeit. Geschäftsverteilung, Unabhängigkeit, Befangenheit und Aktengeheimnis beachten; die gerichtliche Rolle nicht in Beratung der Geschäftsleitung oder Anspruchsverfolgung des Verwalters wechseln.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Insolvenz- und Sanierungsrecht insbesondere Gutachten, Kontoauszüge, Buchhaltung, Forderungsanmeldung und Zahlungsverzeichnis, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Die Antragspflicht nach Paragraf 15a InsO ist von Zulässigkeit und Begründetheit des vorliegenden Antrags zu unterscheiden. Krisenfrüherkennung nach StaRUG Paragraf 1 ist nicht selbst das gerichtliche Entscheidungsprogramm. Bei unklarer Zuständigkeit die konkrete Prüfung oder Vorlage vorbereiten und andere unabhängig bearbeitbare Teile fortführen.
 
-Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
+## 1.2. Eigen- und Gläubigerantrag
 
-### 1.1. Arbeitsmodus: schnell und belastbar
+Prüfe beim Eigenantrag Antragsberechtigung, Vertretung und erforderliche Unterlagen nach Paragrafen 13 bis 15 InsO. Beim Gläubigerantrag rechtliches Interesse, Forderung und Glaubhaftmachung des Eröffnungsgrunds nach [Paragraf 14 InsO](https://www.gesetze-im-internet.de/inso/__14.html) getrennt behandeln. Eine Rechnung oder ein Titel belegt nicht zugleich einen allgemeinen Liquiditätsstatus.
 
-Ohne konkreten Ausgabeauftrag beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt erstellen. Vorhandene Dokumente gezielt lesen und Belegstellen bilden; nur nachfragen, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.
+Wird die Gläubigerforderung nach Antragstellung bezahlt, den Antrag nicht allein deshalb für unzulässig erklären. Schuldneranhörung bei zulässigem Antrag, weitere Prüfung des Eröffnungsgrunds und Kostenfolge sind unterschiedliche Schritte. Zahlung, Antragsrücknahme und Erledigung nicht ohne entsprechende Erklärung gleichsetzen.
 
-Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+Fehlt der Beleg zur Gläubigerforderung oder eine notwendige Vertretungsunterlage, benenne genau diesen Punkt in der Aufklärungsverfügung. Nach Eingang prüfe die betreffende Voraussetzung erneut und arbeite am bestellten Entscheidungsentwurf weiter. Neue entscheidende Lücken dürfen eine weitere gezielte Aufklärung erfordern; bereits geklärte Daten nicht nochmals erheben.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
+## 1.3. Eröffnungsgrund und Kostendeckung
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist- oder Eilfall: Antragspflicht, Anfechtungsfrist oder Massesicherung | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Insolvenzantragspflicht kann laufen; vor Fortsetzung klären |
-| Tragendes Arbeitsprodukt | Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen | jede Tatsache bekommt Beleg oder Lückenmarke |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Liegt Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit oder Überschuldung vor |
-| Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation |
-| Rechtsfolgenseite | Antrags-, Bescheid-, Vertrags- oder Antwortfassung | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
-| Zwischenstation 1 | Arbeitsstand mit Belegstelle | Pflichten zuordnen: Geschäftsleitung, Gläubiger, Berater, Insolvenzgericht und Verwalterrolle klären |
-| Zwischenstation 2 | Arbeitsstand mit Belegstelle | Antrag und Sicherung: Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten |
-| Adressatenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko, Kostenfolge und nächsten Schritt getrennt ausweisen |
+Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung nach Paragrafen 16 bis 19 InsO auseinanderhalten und ihre Verfügbarkeit für die jeweilige Antragsart prüfen. Bilanzverlust, negative Prognose und fehlende Liquidität sind nicht dasselbe. Fällige Verpflichtungen, verfügbare Mittel und gesicherte Zuflüsse stichtagsbezogen abgleichen.
 
-### 1.3. Rückfragenbremse
+Prüfe das Gutachtenergebnis anhand seiner Zahlen, Annahmen und Belege. Bei einem Widerspruch zwischen Kontoauszug und Gutachten die konkrete Position aufklären lassen. Nach der Antwort Rechnung und rechtliche Beurteilung aktualisieren, statt lediglich das Wort „insolvent“ zu übernehmen.
 
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Liegt Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit oder Überschuldung vor“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Insolvenzantragspflicht kann laufen.
-3. Beweislage vor Rechtsmeinung ordnen: Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
+Die gerichtliche Ermittlung nach Paragraf 5 InsO nicht durch eine pauschale Beweislastverteilung zwischen Geschäftsleitung und Verwalter ersetzen. Fehlende Fälligkeiten, weitere Vollstreckungen oder behauptete Finanzierungen als einzelne Aufklärungspunkte formulieren. Eröffnungsgrund, Verfahrenskostendeckung und gegebenenfalls Abweisung mangels Masse nach Paragraf 26 InsO getrennt prüfen.
 
-### 1.4. Mini-Gerüste
+## 1.4. Sicherung und Eröffnung
 
-- Sofortvermerk: Der Ausgangsanker ist InsO Paragraf 17. Nach derzeitigem Stand spricht [Beleg] bei [Tatbestandsmerkmal] mehr für [Ergebnis]; offen bleibt [Lücke].
-- Kernsatz des Arbeitsprodukts: Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen.
-- Beweissatz: [Tatsache] ist durch [Beweismittel] belegt; im Übrigen gilt: Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation.
-- Rechtsfolgensatz: Daraus folgt Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg oder Norm]. Risiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg bleibt die Leitfrage „Liegt Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit oder Überschuldung vor“ offen.
-## 2. Stop-Kriterien
+Richte Maßnahmen nach Paragraf 21 InsO an einer konkreten drohenden Vermögensveränderung aus. Benenne Gegenstand, Risiko, Geeignetheit und erforderlichen Umfang. Nicht jeden Antrag mit Verfügungsverbot, Postsperre und Zwangsmaßnahmen verbinden; vorläufige Verwaltung und Verfahrenseröffnung unterscheiden.
 
-- Insolvenzantragspflicht kann laufen.
-- Masseschmälernde Zahlung steht bevor.
-- Haftung der Geschäftsleitung ist nicht geprüft.
-- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+Fehlt der Nachweis einer angekündigten Veräußerung, frage nach dem konkreten Vorgang oder bereite die passende gerichtliche Aufklärung vor. Nach der Antwort die Maßnahme begrenzen, ergänzen oder verwerfen und den bestellten Beschluss ausformulieren. Ein offener Eingriffspunkt darf nicht als sicher festgestellte Gefahr erscheinen.
 
-## 3. Werkstattfluss
+Beim Eröffnungsbeschluss nach Paragraf 27 InsO Antrag, Grund und Kostendeckung mit dem tatsächlichen Entscheidungsstand verbinden. Bei der Verwalterauswahl Eignung, Geschäftskunde, Unabhängigkeit, Interessenkonflikte und Beteiligungsrechte des vorläufigen Gläubigerausschusses prüfen. Keine unbekannte Person als bestellt einsetzen.
 
-### 3.1. Krise feststellen
+Der vorhandene Hinweis auf BVerfG 1 BvR 2530/04 ist vor Zitierung mit Datum und amtlichem Volltext zu sichern und auf die Auswahlfrage zu begrenzen. Er ersetzt nicht den einzelfallbezogenen Auswahlvermerk nach Paragraf 56 InsO.
 
-Arbeitsgriff Krise feststellen: Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+## 1.5. Eigenverwaltung und Schutzschirm
 
-### 3.2. Pflichten zuordnen
+Prüfe Eigenverwaltungsplanung, Liquiditätsplanung, Gläubigernachteile, Sachwalterrolle, Masseverbindlichkeiten und mögliche Aufhebungsgründe getrennt nach Paragrafen 270 ff. InsO. Die aktuellen Vorschriften der vorläufigen Eigenverwaltung und des Schutzschirms nicht mit alten Nummern gleichsetzen.
 
-Arbeitsgriff Pflichten zuordnen: Geschäftsleitung, Gläubiger, Berater, Insolvenzgericht und Verwalterrolle klären. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+[Paragraf 270d InsO](https://www.gesetze-im-internet.de/inso/__270d.html) regelt den Schutzschirm und verlangt die dort bezeichnete Bescheinigung und Voraussetzungen. Ein bloßer Verweis auf Paragraf 270b als heutige Schutzschirmnorm genügt nicht. Bescheinigung, Antrag und gerichtliche Ermächtigung jeweils nachweisen.
 
-### 3.3. Antrag und Sicherung
+Fehlt eine belastbare Planung, fordere die konkrete Zahlen- oder Maßnahmenangabe nach. Nach Eingang die Voraussetzungen und den Beschlussumfang neu prüfen; keine pauschale Wiederholung des gesamten Eröffnungsprogramms.
 
-Arbeitsgriff Antrag und Sicherung: Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Die bisherigen Rechercheansätze BGH IX ZB 41/21 zur Anfechtbarkeit einer Aufhebung der vorläufigen Eigenverwaltung und IX ZR 167/16 zu Masseverbindlichkeiten in der vorläufigen Eigenverwaltung vor Verwendung amtlich verifizieren. Verfahrenszeitpunkt und damalige Rechtslage beachten, keinen allgemeinen Rechtsbehelf oder eine automatische Ermächtigung daraus ableiten.
 
-### 3.4. Forderung und Tabelle
+## 1.6. Versammlung, Tabelle und Restschuldbefreiung
 
-Arbeitsgriff Forderung und Tabelle: Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Bei Gläubigerversammlung, Berichts-, Prüfungs- oder Schlusstermin Verfahrensphase, Zuständigkeit, Beteiligung, Tagesordnung und tatsächlich zu treffende Entscheidung bestimmen. Geordnete Willensbildung und Abstimmung sicherstellen. Den vorhandenen Hinweis BGH IX ZB 65/10 nur nach Verifikation für den passenden Vorgang verwenden.
 
-### 3.5. Anfechtung und Plan
+Anmeldung nach Paragraf 174 InsO, Bestreiten, Tabellenfeststellung, Stimmrecht und Verteilung getrennt behandeln. Sicherheiten, Aussonderung und Rang nicht aus einer bloßen Forderungsbezeichnung übernehmen. Das Gericht ersetzt nicht ohne Weiteres den erforderlichen Feststellungsprozess.
 
-Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Bei Restschuldbefreiung Versagungsantrag, Antragsberechtigung, geltend gemachten Grund, Glaubhaftmachung, Gehör und zeitlich anwendbare Gesetzesfassung prüfen. Fehlt der entscheidende Beleg einer behaupteten Pflichtverletzung, gezielt aufklären; nach der Antwort die Würdigung und den bestellten Beschluss fertigstellen. Eine ältere Entscheidung zur Wohlverhaltensphase trägt nicht automatisch den aktuellen Versagungsgrund.
 
-## 4. Rechtsprechungs-Fallkarte
+## 1.7. Insolvenzplan
 
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Fallkern | StaRUG Restrukturierungssache Anzeigen | InsO Paragraf 17 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
-| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | InsO Paragraf 18 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Eröffnungsbeschluss und Verwalterbestellung | InsO Paragraf 18 | Tatbestandsmatrix mit Beleg und Gegenargument |
-| Rechtsfolge | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+Prüfe darstellenden und gestaltenden Teil, Vergleichsrechnung, Gruppenbildung, Abstimmung, Minderheitenschutz und Bestätigung anhand des konkreten Plans. Gerichtliche Rechtmäßigkeitsprüfung, insbesondere nach Paragraf 250 InsO, von einer freien wirtschaftlichen Zweckmäßigkeitsbewertung trennen.
 
-## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+Fehlt die Finanzierung einer Kompensation oder eine tragfähige Vergleichszahl, benenne die konkrete Lücke. Nach Eingang berechne die betroffenen Befriedigungsaussichten neu und überarbeite den Bestätigungs- oder Zurückweisungsentwurf. Bei natürlichen Personen erforderliche Einkommens-, Vermögens- und Familienangaben nur im sachlich nötigen Umfang berücksichtigen.
 
-| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
-| --- | --- | --- | --- |
-| InsO Paragraf 17 | Zahlungsunfähigkeit | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
-| InsO Paragraf 18 | drohende Zahlungsunfähigkeit | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
-| InsO Paragraf 19 | Überschuldung | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
-| InsO Paragraf 129 bis Paragraf 147 | Insolvenzanfechtung | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
-| InsO Paragraf 174 | Forderungsanmeldung | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
-| StaRUG Paragraf 1 | Krisenfrüherkennungspflichten | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
-| Paragrafen 27, 270, 270b InsO für Eröffnung, Eigenverwaltung und Schutzschirm | Paragrafen 27, 270, 270b InsO für Eröffnung, Eigenverwaltung und Schutzschirm; Paragrafen 38, 39 FamFG für Beschlussform; Paragrafen 31 ff | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
+Die bisherigen Hinweise BGH IX ZB 13/16, IX ZB 49/17 und IX ZB 6/21 betreffen Minderheitenschutz, Verfahrensmängel und Vergleichsgrundlagen. Vor Zitierung Datum, Volltext und konkrete Aussage prüfen; die Kurznummern allein sind keine vollständigen Entscheidungsnachweise.
 
-## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+## 1.8. Restrukturierungssache
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH, Urteil vom 23.01.2025 - IX ZR 229/22 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko |
-| BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus |
-| BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten |
-| BGH, Urteil vom 06.05.2021 - IX ZR 72/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können |
-| BGH, Urteil vom 10.02.2022 - IX ZR 148/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag |
-- Rechtsfolge zuerst als Arbeitsprodukt denken: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt
-- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
-
-## 7. Pflichtnormen als Kernsätze
-
-- InsO Paragraf 17: Zahlungsunfähigkeit.
-- InsO Paragraf 18: drohende Zahlungsunfähigkeit.
-- InsO Paragraf 19: Überschuldung.
-- InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
-- InsO Paragraf 174: Forderungsanmeldung.
-- StaRUG Paragraf 1: Krisenfrüherkennungspflichten.
-- Paragrafen 27, 270, 270b InsO für Eröffnung, Eigenverwaltung und Schutzschirm; Paragrafen 38, 39 FamFG für Beschlussform; Paragrafen 31 ff; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 13, 14, 15a und 16 bis 19 InsO: Antrag, Antragspflicht und Eröffnungsgründe sauber trennen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 21 InsO: Sicherungsmaßnahmen nur erforderlich, geeignet und verhältnismäßig; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 27 InsO: Eröffnungsbeschluss mit Verwalterbestellung und Wirkungen klar fassen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 270 ff; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-
-## 8. Leitentscheidungen
-
-- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko.
-- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
-- BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
-- BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können.
-- BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag.
+Anzeige nach StaRUG Paragrafen 31 bis 35, beantragtes Instrument, Planbetroffenheit und jeweilige Voraussetzungen eigenständig bestimmen. Eine Restrukturierungsanzeige ist keine Insolvenzverfahrenseröffnung. Insolvenzplan und Restrukturierungsplan nicht vermischen.
 
-## 9. Prüfraster
+Bei Stabilisierung Paragrafen 49 bis 59 StaRUG nach Anwendungsbereich, Reichweite, Dauer und betroffenen Vollstreckungs- oder Verwertungshandlungen prüfen. Keine Maßstäbe aus Anfechtung, Restschuldbefreiung oder Verwalterauswahl übertragen. Fehlen Finanzierungsnachweis oder Angaben zur konkreten Maßnahme, gezielt nachfordern und nach Eingang den Entwurf aktualisieren.
 
-1. Liegt Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit oder Überschuldung vor.
-2. Welche Frist oder Pflicht trifft welche Person.
-3. Welche Zahlung oder Sicherheit ist anfechtbar.
-4. Welche Forderung ist mit welchem Rang anzumelden.
-5. Welche Sanierungsoption ist realistisch belegbar.
-6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
-7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
+Bei Planbestätigung und Rechtsbehelf insbesondere die einschlägigen Voraussetzungen, Gruppen und Vergleichsrechnung prüfen. Für eine Schlechterstellungsfrage realistische Alternativszenarien mit den Planannahmen vergleichen; nicht eine günstigere Alternative ohne Zahlen behaupten.
 
-## 10. Argumentations- und Entwurfsgerüst
+Den vorhandenen Hinweis BVerfG 1 BvR 418/25 vor Zitierung amtlich verifizieren. Die beschriebene Nichtannahme wegen unzureichender Substantiierung ist keine allgemeine Bestätigung der Verfassungsmäßigkeit des StaRUG, des materiellen Plans, eines Bezugsrechtsausschlusses oder einer gruppenübergreifenden Entscheidung. Sie trägt auch keine allgemeine Aussage zur Zulässigkeit der Anzeige.
 
-10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt.
-10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind InsO Paragraf 17; InsO Paragraf 18.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig StaRUG Restrukturierungssache Anzeigen.
-10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Insolvenz- und Sanierungsrecht tragen regelmäßig Gutachten, Kontoauszüge, Buchhaltung, Forderungsanmeldung und Zahlungsverzeichnis den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
-10.5. Beweislast: Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei dem Zeitpunkt der Insolvenzreife, der Kenntnis und der Bargeschäftsausnahme an.
-10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder StaRUG Restrukturierungssache Anzeigen, Eröffnungsbeschluss und Verwalterbestellung, Finale Entscheidung als Volltext (Beschluss Insolvenz oder Restrukturierung), Insolvenzplan Bestätigen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 23.01.2025 - IX ZR 229/22; BGH, Urteil vom 24.05.2005 - IX ZR 123/04.
+## 1.9. Weitere bestehende Rechercheansätze
 
-## 11. Outputvarianten und Empfängerwunsch
+Nur bei tatsächlicher Entscheidungserheblichkeit nach amtlicher Volltextprüfung verwenden:
+- BGH, Urteil vom 23.01.2025, IX ZR 229/22: streitige Verbindlichkeiten und vorläufig vollstreckbare Titel im Liquiditätsstatus.
+- BGH, Urteil vom 24.05.2005, IX ZR 123/04: Zahlungsstockung, Lückenhöhe und zeitliche Entwicklung; keine automatische Prozentfreigabe.
+- BGH, Urteil vom 19.12.2017, II ZR 88/16: innerhalb des Betrachtungszeitraums fällig werdende Verbindlichkeiten und Bestreiten von Passiva.
+- BGH, Urteil vom 06.05.2021, IX ZR 72/20, sowie Urteil vom 10.02.2022, IX ZR 148/19: Anfechtungsfragen zu Vorsatz, Kenntnis und Zahlungseinstellung. Nicht als pauschale Voraussetzungen jeder Eröffnungsentscheidung einsetzen.
+- BGH IX ZB 208/05: einzelfallbezogener Sicherungsbedarf.
+- BGH IX ZB 164/06: Zuständigkeit bei späterer Verlegung des Interessenmittelpunkts; Datum, damaligen Rechtsrahmen und Bezug zum aktuellen Verfahren prüfen.
 
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| schnell entscheiden | Kurzvermerk | Fallkern, InsO Paragraf 17; InsO Paragraf 18, Risiko und nächster Schritt |
-| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
-| versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
-| beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei dem Zeitpunkt der Insolvenzreife, der Kenntnis und der Bargeschäftsausnahme |
+Anfechtung nach Paragrafen 129 bis 147 InsO nur im tatsächlich betroffenen gerichtlichen Zusammenhang untersuchen. Insolvenzgericht, Prozessgericht und Verwalter haben unterschiedliche Aufgaben; keine parteiliche Anspruchsbegründung als gerichtlichen Eröffnungsvermerk ausgeben.
 
-## 12. Arbeitsweise
+## 1.10. Entscheidungsentwurf abschließen
 
-Arbeite zuerst aktennah, dann normnah, dann produktnah. Liegen Unterlagen vor, werden sie ohne Vorfrage gelesen und mit Fundstelle verarbeitet; im Bereich Insolvenz- und Sanierungsrecht sind das vor allem Gutachten, Kontoauszüge, Buchhaltung, Forderungsanmeldung und Zahlungsverzeichnis. Erst wenn wirklich kein verwertbares Material vorliegt, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert; Tabellen werden nur für echte Vergleiche, Nachweise, Berechnungen oder Varianten verwendet.
+Liefere die bestellte Verfügung oder Entscheidung in vollständigen Sätzen mit passendem Ausspruch, Tatsachengrundlage, Würdigung, Begründung und erforderlichen Nebenentscheidungen. Im Insolvenzverfahren gilt ergänzend die ZPO nach [Paragraf 4 InsO](https://www.gesetze-im-internet.de/inso/__4.html); die alten pauschalen Verweise auf FamFG Paragrafen 38 und 39 nicht als allgemeine Beschlussgrundlage übernehmen.
 
-Selbstcheck vor Ausgabe: Ist die Antrags-, Anfechtungs- oder Anmeldefrist benannt? Ist die Form geklärt? Ist die Rechtsfolge aus einer Norm abgeleitet und auf Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt bezogen? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
+Rechtsbehelf, Bekanntmachung, Zustellung und weitere Verfahrensschritte für die konkrete Entscheidung prüfen. Kein allgemeiner Zivilurteilstenor mit stets gleicher Vollstreckbarkeitsentscheidung. Fehlende Namen, Termine oder entscheidende Feststellungen nicht erfinden; der Entwurf bleibt zur richterlichen Prüfung bestimmt und ist keine erlassene Entscheidung.
 
-## 13. Qualitätskontrolle und Abschluss
+Bei einem Hindernis den belegten Teil und die konkrete erforderliche Aufklärung liefern. Nach Eingang die betroffene Rechnung oder Würdigung aktualisieren und bis zum bestellten vollständigen Dokument fortsetzen. Andere vorbereitende Skills sind optional, kein zwingender Durchlauf vor der Ausformulierung.
 
-Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Besonders zu kontrollieren ist in diesem Gebiet: Welche Sanierungsoption ist realistisch belegbar. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
+Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Technische Quellenstatus getrennt vom Entscheidungstext halten; rechtliche Nachweise stehen an der sachlich passenden Stelle. Texte beim Export in Times New Roman 11 Punkt und dezimaler Gliederung, bei Markdown mit Exporthinweis. Erlass, Zustellung und Veröffentlichung nur durch die zuständigen Personen nach ausdrücklicher Freigabe.
 
-## 14. Musterbausteine
-
-- Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
-- Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
-
-## 15. Fachliche Entscheidungslandkarte
-
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
-
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| StaRUG Restrukturierungssache Anzeigen | Maßgeblich sind zunächst StaRUG Paragrafen 31 bis 35, der konkrete Verfahrensstand, die drohende Zahlungsunfähigkeit und die Vollständigkeit der Anzeige. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
-| Eröffnungsbeschluss und Verwalterbestellung | BvR 2530/04: Der Bewerber um das Amt des Insolvenzverwalters hat aus Artikel 3 Absatz 1 GG einen Anspruch auf fehlerfreie Ausübung des Auswahlermessens nach InsO Paragraf 56 Absatz 1. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
-| Finale Entscheidung als Volltext (Beschluss Insolvenz oder Restrukturierung) | Bearbeite Finale Entscheidung als Volltext (Beschluss Insolvenz oder Restrukturierung): liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
-| Insolvenzplan Bestätigen | IX ZB 13/16: Ein offensichtlich erfolgreicher Minderheitenschutzantrag kann die Zurückweisung schon in der Vorprüfung tragen. | Fachvotum zu Insolvenzplan Bestätigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Eigenverwaltung und Schutzschirm | IX ZB 41/21: Die Aufhebung der vorläufigen Eigenverwaltung auf Antrag des vorläufigen Gläubigerausschusses ist nicht mit der sofortigen Beschwerde anfechtbar. | Fachvotum zu Eigenverwaltung und Schutzschirm mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Gläubigerversammlung und Prüfungstermin | IX ZB 65/10: Eine Gläubigerversammlung ist so durchzuführen, dass geordnete Willensbildung und Abstimmung möglich sind. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Restschuldbefreiung und Schlusstermin | Im Schlusstermin Versagungsantrag, Antragsberechtigung, Versagungsgrund, Glaubhaftmachung, rechtliches Gehör und die zeitlich anwendbare Fassung der InsO einzeln ausweisen. | Fristenblatt zu Restschuldbefreiung und Schlusstermin mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
-| Sicherungsmaßnahmen Vor Eröffnung | IX ZB 208/05: Das Insolvenzgericht prüft von Amts wegen anhand des Einzelfalls, ob und welche Sicherungsmaßnahmen erforderlich sind, um gläubigernachteilige Vermögensveränderungen bis zur Eröffnungsentscheidung. | Fachvotum zu Sicherungsmaßnahmen Vor Eröffnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Eröffnungsantrag Prüfen Insolvenz | Bearbeite Eröffnungsantrag Prüfen Insolvenz: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-
-## 16. Fachspezifische Praxisrouten
-
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
-
-### 16.1. StaRUG Restrukturierungssache Anzeigen
-
-Bearbeitungsauftrag: Maßgeblich sind zunächst StaRUG Paragrafen 31 bis 35, der konkrete Verfahrensstand, die drohende Zahlungsunfähigkeit und die Vollständigkeit der Anzeige. BvR 418/25: Die Nichtannahmeentscheidung zur Bestätigung eines Restrukturierungsplans betrifft die Substantiierung einer Verfassungsbeschwerde und trägt keine allgemeine Aussage über Zulässigkeit oder Erfolg einer Anzeige nach StaRUG Paragraf 31. StaRUG Restrukturierungssache Anzeigen: StarUG-Voraussetzungen, drohende Zahlungsunfähigkeit und Planbetroffenheit zuerst prüfen.
-Prüfschritte: Für die bloße Anzeige der Restrukturierungssache wird kein fachfremder höchstrichterlicher Anker behauptet; 1 BvR 418/25: Die Nichtannahmeentscheidung zur Bestätigung eines Restrukturierungsplans betrifft die Substantiierung einer Verfassungsbeschwerde und trägt keine allgemeine Aussage über Zulässigkeit oder Erfolg einer Anzeige nach StaRUG Paragraf 31.
-Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
-
-### 16.2. Eröffnungsbeschluss und Verwalterbestellung
-
-Bearbeitungsauftrag: BvR 2530/04: Der Bewerber um das Amt des Insolvenzverwalters hat aus Artikel 3 Absatz 1 GG einen Anspruch auf fehlerfreie Ausübung des Auswahlermessens nach InsO Paragraf 56 Absatz 1. Auswahlvermerk und Eröffnungsbeschluss müssen Einzelfalleignung, Geschäftskunde, Unabhängigkeit, Interessenkonflikte und die gesetzlichen Beteiligungsrechte des vorläufigen Gläubigerausschusses getrennt dokumentieren. Eröffnungsbeschluss und Verwalterbestellung: Antrag, Antragsbefugnis, Insolvenzgrund und Massekostendeckung zuerst prüfen.
-Prüfschritte: 1 BvR 2530/04: Der Bewerber um das Amt des Insolvenzverwalters hat aus Artikel 3 Absatz 1 GG einen Anspruch auf fehlerfreie Ausübung des Auswahlermessens nach InsO Paragraf 56 Absatz 1.
-Normbezug aus dem Fachmaterial: 1 BvR 2530/04: Der Bewerber um das Amt des Insolvenzverwalters hat aus Artikel 3 Absatz 1 GG einen Anspruch auf fehlerfreie Ausübung des Auswahlermessens nach InsO Paragraf 56 Absatz 1.
-Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
-
-### 16.3. Finale Entscheidung als Volltext (Beschluss Insolvenz oder Restrukturierung)
-
-Bearbeitungsauftrag: Bearbeite Finale Entscheidung als Volltext (Beschluss Insolvenz oder Restrukturierung): liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
-Prüfschritte: Paragrafen 27, 270, 270b InsO für Eröffnung, Eigenverwaltung und Schutzschirm; Paragrafen 38, 39 FamFG für Beschlussform; Paragrafen 31 und folgende StaRUG für Restrukturierungsplan; Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein; Rubrum mit allen Parteien, Vertretern und Aktenzeichen.
-Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
-
-### 16.4. Insolvenzplan Bestätigen
-
-Bearbeitungsauftrag: IX ZB 13/16: Ein offensichtlich erfolgreicher Minderheitenschutzantrag kann die Zurückweisung schon in der Vorprüfung tragen; eine Kompensationsregelung muss finanziert sein und die Schlechterstellung vollständig ausgleichen. IX ZB 49/17: Ein wesentlicher Verfahrensmangel genügt, wenn sein Einfluss auf die Planannahme ernsthaft möglich ist; die gerichtliche Prüfung nach InsO Paragraf 250 ist von einer wirtschaftlichen Zweckmäßigkeitskontrolle zu trennen.
-Prüfschritte: IX ZB 6/21: Der darstellende Teil muss einen sachgerechten Vergleich der Befriedigungsaussichten mit dem Regelverfahren ermöglichen und bei natürlichen Personen die für die Prognose erforderlichen Einkommens-, Vermögens- und Familienverhältnisse offenlegen.
-Lieferstück: Fachvotum zu Insolvenzplan Bestätigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.5. Eigenverwaltung und Schutzschirm
-
-Bearbeitungsauftrag: IX ZB 41/21: Die Aufhebung der vorläufigen Eigenverwaltung auf Antrag des vorläufigen Gläubigerausschusses ist nicht mit der sofortigen Beschwerde anfechtbar; die Entscheidung betont die Gläubigerautonomie als tragendes Steuerungsprinzip. Prüfvermerk und Tenor trennen Eigenverwaltungsplanung, Liquiditätsplanung, Nachteile für Gläubiger, Sachwalterrolle, Ermächtigungen zu Masseverbindlichkeiten und Aufhebungsgründe. Eigenverwaltung und Schutzschirm: Antrag, Antragsbefugnis, Insolvenzgrund und Massekostendeckung zuerst prüfen.
-Prüfschritte: IX ZR 167/16: Im vorläufigen Eigenverwaltungsverfahren begründet der Schuldner auch außerhalb des damaligen Schutzschirmverfahrens Masseverbindlichkeiten nur im Umfang einer gerichtlichen Ermächtigung.
-Lieferstück: Fachvotum zu Eigenverwaltung und Schutzschirm mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.6. Gläubigerversammlung und Prüfungstermin
-
-Bearbeitungsauftrag: IX ZB 65/10: Eine Gläubigerversammlung ist so durchzuführen, dass geordnete Willensbildung und Abstimmung möglich sind; bei bestrittenen Forderungen sind Tabellenfeststellung, Stimmrecht und eine etwaige planbedingte Klagefrist sauber zu trennen. Gläubigerversammlung und Prüfungstermin: Verfahrensphase, Beteiligtenrechte und konkrete Beschlusszuständigkeit festlegen. Gläubigerrechte, Prüfungstermin, Schlusstermin, Restschuldbefreiung und Versagungsgründe getrennt prüfen.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.7. Restschuldbefreiung und Schlusstermin
-
-Bearbeitungsauftrag: Im Schlusstermin Versagungsantrag, Antragsberechtigung, Versagungsgrund, Glaubhaftmachung, rechtliches Gehör und die zeitlich anwendbare Fassung der InsO einzeln ausweisen; eine alte Wohlverhaltensphasenentscheidung ersetzt diese Prüfung nicht. Restschuldbefreiung und Schlusstermin: Verfahrensphase, Beteiligtenrechte und konkrete Beschlusszuständigkeit festlegen. Gläubigerrechte, Prüfungstermin, Schlusstermin, Restschuldbefreiung und Versagungsgründe getrennt prüfen.
-Lieferstück: Fristenblatt zu Restschuldbefreiung und Schlusstermin mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
-
-### 16.8. Sicherungsmaßnahmen Vor Eröffnung
-
-Bearbeitungsauftrag: IX ZB 208/05: Das Insolvenzgericht prüft von Amts wegen anhand des Einzelfalls, ob und welche Sicherungsmaßnahmen erforderlich sind, um gläubigernachteilige Vermögensveränderungen bis zur Eröffnungsentscheidung zu verhindern. IX ZB 164/06: Das bei Antragseingang international und örtlich zuständige Insolvenzgericht bleibt für Eröffnung und Sicherungsmaßnahmen zuständig, wenn der Schuldner den Mittelpunkt seiner hauptsächlichen Interessen erst danach verlegt.
-Lieferstück: Fachvotum zu Sicherungsmaßnahmen Vor Eröffnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. Eröffnungsantrag Prüfen Insolvenz
-
-Bearbeitungsauftrag: Bearbeite Eröffnungsantrag Prüfen Insolvenz: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.10. Prozessuale Kniffe und Rechtsprechungsanker
-
-Bearbeitungsauftrag: Bearbeite Prozessuale Kniffe und Rechtsprechungsanker: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Lieferstück: Fachvotum zu Prozessuale Kniffe und Rechtsprechungsanker mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.11. StaRUG Planbestätigung und Folgen
-
-Bearbeitungsauftrag: BvR 418/25: Die Verfassungsbeschwerde gegen die Bestätigung des Restrukturierungsplans wurde wegen unzureichender Substantiierung nicht zur Entscheidung angenommen; die Nichtannahme trifft weder eine allgemeine Aussage zur Verfassungsmäßigkeit des StaRUG noch zur materiellen Richtigkeit des Plans. Für eine Beschwerde nach StaRUG Paragraf 66 Absatz 2 Nummer 3 sind realistische günstigere Alternativszenarien konkret darzustellen und mit der Vergleichsrechnung des Plans auseinanderzusetzen.
-Prüfschritte: 1 BvR 418/25: Die Verfassungsbeschwerde gegen die Bestätigung des Restrukturierungsplans wurde wegen unzureichender Substantiierung nicht zur Entscheidung angenommen; Diesen prozessualen Maßstab nicht in eine allgemeine Bestätigung von Kapitalherabsetzung, Bezugsrechtsausschluss oder gruppenübergreifender Mehrheitsentscheidung umdeuten.
-Lieferstück: Fachvotum zu StaRUG Planbestätigung und Folgen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. StaRUG Stabilisierungsanordnung
-
-Bearbeitungsauftrag: Primär zu prüfen sind StaRUG Paragrafen 49 bis 59 und die aktuelle Fassung der betroffenen Vollstreckungs- und Verwertungssperren. StaRUG Stabilisierungsanordnung: StarUG-Voraussetzungen, drohende Zahlungsunfähigkeit und Planbetroffenheit zuerst prüfen. Stabilisierungsanordnung, Planabstimmung und Planbestätigung nach Eingriffsgewicht und Gläubigergruppen trennen.
-Prüfschritte: Für Voraussetzungen, Reichweite und Dauer der Stabilisierungsanordnung werden keine Entscheidungen aus Insolvenzanfechtung, Restschuldbefreiung oder Verwalterauswahl übertragen; nicht amtlich verifizierte Instanzrechtsprechung bleibt unzitiert.
-Lieferstück: Fachvotum zu StaRUG Stabilisierungsanordnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bei fehlendem Akten- oder Quellenzugriff einen geeigneten anderen Weg versuchen und die verbleibende Lücke nennen. Zugängliche Teile weiterbearbeiten, keine vollständige Prüfung oder Dateierzeugung behaupten.

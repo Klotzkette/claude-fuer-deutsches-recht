@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "einigungsvertrag-vermoegensrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/vermg/__30a.html",
@@ -11,12 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Objektchronologie war geeignet, die entscheidende Abgrenzung zwischen alter Anmeldung und neuem Objekt aber zu abstrakt.",
+    "reason": "Der vollständige Mini wurde auf Objektidentität, historische Anmeldung und heutige Aktenlage geprüft.",
     "changes": [
-      "Historischen Antrag und Objektbestimmung verlangt.",
-      "Archivfund nicht als automatische Fristöffnung behandelt."
+      "Nach Flurstücks- oder Zustellungsnachweis die betroffene Objekt- und Fristbewertung aktualisieren."
     ],
-    "sha256": "6fd60bccf8c82350e05e2003998d0990aa8da15a6c68708b324dac3b5ba679ab"
+    "sha256": "c170bf4384ca50eec5492fd983e0826c3341cd7f438e3beafc976334e294e757"
   },
   "selection": {
     "positive": [
@@ -61,5 +60,13 @@
       ],
       "target_skill": "restitution-oder-entschaedigung"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde auf die unterschiedlichen Zuordnungs-, Rückübertragungs- und Bereinigungswege gelesen.",
+    "changes": [
+      "Objektchronologie und Nachweislücken fachlich eingeordnet; Archivfund nicht als automatische Wiedereröffnung einer Frist behandelt."
+    ],
+    "sha256": "309ccf2b00bbefca6e274da8542cb62b5c54e8dc56400f14b148f5c3a654222d"
+  }
 }

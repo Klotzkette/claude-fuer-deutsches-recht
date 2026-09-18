@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-bank-kapitalmarktrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2014/XI_ZR__91-14.pdf?__blob=publicationFile&v=1",
@@ -36,13 +36,24 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die bisherige pauschale Beweislastbeschreibung passte weder für alle Anlageberatungsstreitigkeiten noch für technisch authentifizierte Zahlungsaufträge. Transaktionsbezogene Beweise und Teilrückflüsse fehlten.",
+    "reason": "Vollständige Textprüfung am 18. September: Vollständig gelesen: Freigabeanzeige und Rückflussnachweis werden je Transaktion ausgewertet; die allgemeine Fallkarte wiederholte bereits enthaltene Regeln.",
     "changes": [
-      "Anspruchsspezifische Beweislast statt pauschaler Bankverantwortung formuliert.",
-      "Autorisierung, technische Authentifizierung und Schadensersatzgegenanspruch getrennt.",
-      "Teilrückflüsse, Sperrzeitpunkt und nicht automatische Selbstbeteiligung ergänzt."
+      "Doppelte Fallkarte durch konkrete Beleg- und Vertragsänderungsprüfung ersetzt; vorhandenen Entscheidungsanker erhalten."
     ],
-    "sha256": "a72be869bc7e76c6f5bf39907197bb112264e6f3692b7d0d810d21cc49463a44"
+    "sha256": "0fa1d5b43d1066991169b1abe629b78894fc84be77ae849c29379a9a75e01f9c"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [
+      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+    ],
+    "prompt_path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md",
+    "prompt_sha256": "e9cb17829304c95871d6c14aaa1ce0bc2908e5c3fe29edebb95add4e5314c5c5",
+    "skill_path": "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md",
+    "skill_sha256": "96ad2b2b1760e4ad3fc8718fcc3be036c711e10e112006fef80e385a5298b05f"
   },
   "selection": {
     "positive": [
@@ -109,5 +120,15 @@
       ],
       "target_skill": "onlineueberweisungen-autorisierung-beweiskette"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Textprüfung am 18. September: Pauschale Bankbeweislast und Pflichtausgaben widersprachen der konkreten Zahlungs- beziehungsweise Beratungsprüfung. Sämtliche Abschnitte einschließlich Kaution, Akkreditiv und Versand wurden gelesen.",
+    "changes": [
+      "Doppelte Tabellen und Schablonen entfernt; Autorisierung, Gegenanspruch, Beratung und Aufsicht getrennt.",
+      "Kosten-, Schlichtungs- und Aufsichtsschwellen auf das einschlägige Verfahren begrenzt statt pauschaler Vorgaben.",
+      "Vorhandene Rechtsprechungsanker erhalten; keine erneute amtliche Verifikation behauptet."
+    ],
+    "sha256": "5d1085261725d4f19162e7d8e61dec95919e510aad6bfc1edd662484a76e178e"
+  }
 }

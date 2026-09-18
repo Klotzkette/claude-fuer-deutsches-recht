@@ -5,7 +5,7 @@ description: "Für Deutsche juristische Zitierweise anwenden (v4.1): ordnet Norm
 
 # Deutsche juristische Zitierweise anwenden (v4.1)
 
-Dieser Skill verkörpert die Klotzkette-Hauszitierweise in der Fassung v4.1. Aktiviere ihn, sobald juristische Quellen zitiert, geprüft oder umformatiert werden — in Memos, Schriftsätzen, Mandantenkommunikation oder Belegapparaten. Der Skill ist zuerst eine Halluzinationsbremse: keine Fundstelle ohne echte Quelle.
+Prüfe und vereinheitliche die juristischen Zitate im vorgelegten Text nach der Hauszitierweise. Lies Text und vorhandene Quellen zuerst; fehlende Fundstellen werden nicht aus Erinnerung ergänzt.
 
 ## Pragmatik vs. Wissenschaft (Vorbemerkung)
 
@@ -55,9 +55,7 @@ Zulässige Form:
 
 **Schema:** `<Herausgeber/Behörde>, <Titel>, <Datum oder Stand>, <Fundstelle>, <Pinpoint>, ggf. <URL>`
 
-- Deutscher Bundestag, Beschlussempfehlung, BT-Drucks. 20/9123, S. 14 ([dserver.bundestag.de](https://dserver.bundestag.de/btd/20/091/2009123.pdf)).
-- BMF-Schreiben v. 12.03.2024 – Az. IV C 6 – S 2144/19/10003 :003, BStBl. I 2024, 421 Rn. 8 ([bundesfinanzministerium.de](https://www.bundesfinanzministerium.de/)).
-- BaFin, Merkblatt zu § 32 KWG, Stand März 2024, Ziff. III.2 ([bafin.de](https://www.bafin.de/)).
+Bei Bundestagsdrucksachen Dokumentart, Drucksachennummer und Seite am Original prüfen. Bei einem Behördenschreiben Datum, Aktenzeichen, Titel und konkrete Fundstelle aus dem tatsächlich vorliegenden Dokument übernehmen; eine Behördenstartseite belegt keine bestimmte Passage.
 
 Wo kein Pinpoint vergeben ist, ist das Datum verpflichtend; eine Ziff./Abschnittsüberschrift, wenn das Dokument sie trägt.
 
@@ -131,7 +129,11 @@ In Deutschland besteht keine Präjudizienbindung; das BVerfG bindet nach § 31 B
 
 ## Vertiefung
 
-Die vollständige Hauszitierweise steht in `references/zitierweise.md`. Lies sie als verbindliche Pflicht vor jedem Zitat.
+Die vorhandene `references/zitierweise.md` kann optional vertiefen. Ohne Zugriff anhand der hier enthaltenen Regeln weiterarbeiten, statt die Zitierprüfung abzubrechen.
+
+## Fortsetzung und Ergebnis
+
+Fehlt eine Randnummer oder Auflagenangabe, fordere den betreffenden Auszug an. Nach Eingang das Zitat und seine Unterstützung für die konkrete Aussage prüfen; neue entscheidende Widersprüche gezielt klären. Den bereits prüfbaren Text vorläufig bearbeiten und nach Klärung die bestellte Fassung fertigstellen. Prüfvermerke und offene Quellenfragen getrennt vom Empfängertext führen. Nutzerdateinamen gehen vor; `ergebnis.md` nur ohne Vorgabe. Ausformulierte Texte bestehen aus vollständigen Sätzen und verwenden dezimale Gliederung sowie bei formatierter Ausgabe soweit möglich Times New Roman 11 pt.
 
 ## Verknüpfung mit anderen Plugins
 

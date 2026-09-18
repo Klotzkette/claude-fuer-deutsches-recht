@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-landgericht-zivilkammer",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=3",
@@ -40,13 +40,22 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Amtsgerichtliches Standardraster ließ die eigenständige Berufungsprüfung vermissen.",
+    "verdict": "retained",
+    "reason": "Mini vollständig gelesen. Erste Instanz, Berufungsbindung und neues Vorbringen sind bereits getrennt; fehlende Anlagen führen zu konkreter Nachforderung und zur Fortsetzung der betroffenen Parteistation. Kein Pflichtdateiname oder fingiertes Beweisergebnis. Kein Live-Modelltest.",
     "changes": [
-      "Erstinstanz und Berufung getrennt.",
-      "Neues Vorbringen nach Zulassungsgrund statt pauschaler Präklusion behandelt."
+      "Eigenständige Berufungsprüfung und Fortsetzung bis zum bestellten richterlichen Entwurf beibehalten."
     ],
-    "sha256": "be7a1d86b8a02ab58e6fa2431f0a97454db086bd444f3332cfb59cef22cd46af"
+    "sha256": "b42032f1f814100a2bbac1b50e8ddecd8b017fc4d11f4d3a9bdc6bc0870d97c6"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig gelesen. Alte Tabelle verlangte Vorbereitungsskills; spätere Routen behandelten Berufungsbindungen wie erste Instanz und nannten überholte Wertgrenze sowie falschen Zuständigkeitsanker. Paragrafen 511 und 495a ZPO sowie 72 GVG am 18.09.2026 amtlich abgerufen; übrige Quellenanker nicht neu verifiziert, bisherige sources-Daten unverändert.",
+    "changes": [
+      "Skillvoraussetzung entfernt und fehlende Aktenstücke mit gezielter Fortsetzung statt pauschalem Stopp verbunden.",
+      "Berufungswert nach maßgeblicher Fassung einschließlich Übergangsprüfung; Zuständigkeit nach Paragraf 72 GVG statt 119 GVG.",
+      "Berufungsrouten unterscheiden Bindung und neues Vorbringen; Paragraf 495a ZPO nicht als allgemeine Kammerbefugnis dargestellt."
+    ],
+    "sha256": "aeb1f58f80375af91e86c9413af727945c6c56351383449774ff0bafa69999b7"
   },
   "selection": {
     "positive": [

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-amtsgericht-insolvenz-restrukturierung",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__14.html",
@@ -21,13 +21,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die bisherige Anfechtungs- und Haftungsroute verfehlte den gerichtlichen Eröffnungsauftrag und vermischte Rollen und Prüfungsmaßstäbe.",
+    "reason": "Vollständig gelesen: Die gerichtliche Rolle bleibt von Geschäftsleitung und Verwalter getrennt; Zahlung auf die Gläubigerforderung beendet nicht automatisch die Antragsprüfung.",
     "changes": [
-      "Eigenantrag und Gläubigerantrag getrennt.",
-      "Nachträgliche Forderungserfüllung und weitere Eröffnungsprüfung ausdrücklich behandelt.",
-      "Amtsermittlung und konkret begründete Sicherungsmaßnahmen in den Mittelpunkt gestellt."
+      "Gutachtenwidersprüche lösen konkrete Aufklärung und anschließende Neuberechnung aus; der bestellte Entscheidungsentwurf wird fortgesetzt, ohne Entscheidungsreife vorzutäuschen."
     ],
-    "sha256": "aa15ab06642f17b122ddd41bf8e92f521da605746c646422b31afa040ebd860c"
+    "sha256": "287e046401fec7985dab75c3593db8a7d65c1d742932d50b57fcd5088d7b2b9e"
   },
   "selection": {
     "positive": [
@@ -72,5 +70,13 @@
       ],
       "target_skill": "01-eroeffnungsantrag-pruefen-insolvenz"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt einschließlich Eigenverwaltung, Plan, Restrukturierung und Entscheidungsform wurde gelesen. Amtsermittlung wird nicht durch eine pauschale parteiliche Beweislasttabelle ersetzt.",
+    "changes": [
+      "Aufklärung führt jeweils zur erneuten Prüfung von Eröffnungsgrund, Sicherungsumfang oder Planvergleich; Entwurf und richterlicher Erlass bleiben getrennt. Bestehende Recherchevorbehalte bleiben erhalten."
+    ],
+    "sha256": "98e67a8649cfae92985a53df03a0c2f5687823a6e57e9024c9e966d420b65705"
+  }
 }

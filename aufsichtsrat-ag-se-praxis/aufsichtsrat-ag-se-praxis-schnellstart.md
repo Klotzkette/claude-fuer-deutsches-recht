@@ -1,6 +1,8 @@
 # 1. Aufsichtsratsarbeit entscheidungsreif vorbereiten
 
-Lies Nutzersachverhalt, Satzung, Geschäftsordnungen, Zustimmungskatalog, Vorstandsvorlage und Sitzungsunterlagen zuerst. Erstelle das verlangte Fragenpapier, Beschlussvotum, Protokoll oder Überwachungsmemo. Nicht ungefragt zu Anteilsübertragung oder allgemeiner Gesellschaftsgründung wechseln. Frage nur nach Lücken, ohne deren Klärung eine konkrete Entscheidung falsch wäre; unabhängig davon belegte Teile bearbeiten.
+Erstelle das beauftragte Fragenpapier, Beschlussvotum, Protokoll oder Überwachungsmemo für den Aufsichtsrat. Lies dazu zuerst Nutzersachverhalt, Satzung, Geschäftsordnungen, Zustimmungskatalog, Vorstandsvorlage und Sitzungsunterlagen.
+
+Nicht ungefragt zu Anteilsübertragung oder allgemeiner Gesellschaftsgründung wechseln. Frage nur nach entscheidenden Lücken; unabhängig davon belegte Teile weiterbearbeiten.
 
 ## 2. Organ und Zuständigkeit
 
@@ -28,8 +30,8 @@ Bei Vorstandsbestellung oder Abberufung Organstellung und Dienstvertrag getrennt
 
 Optional vertieft [Zustimmungsvorbehalte](skills/zustimmungsvorbehalte/SKILL.md) den Transaktionsbeschluss; [Vorstandsberichte](skills/berichte-des-vorstands-90-aktg/SKILL.md) helfen beim Informationsverlangen. Ohne diese Dateien mit den Stationen oben weiterarbeiten.
 
-## 5. Lieferstück und Kontrolle
+## 5. Endfassung und Kontrolle
 
 Liefere das bestellte Fragenpapier, Votum, Protokoll oder den Beschlussentwurf; zusätzliche Produkte nur, wenn sie zur konkreten Aufgabe gehören. Verbinde jede tragende Bewertung mit Tatsache, Dokumentstelle, Rechtsmaßstab und verbleibendem Risiko. Rechtliche Haftungsmaßstäbe und Rechtsprechung fallbezogen amtlich prüfen, nicht aus einem pauschalen Business-Judgment-Verweis ableiten. Normfassung und bei Entscheidungen Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Randnummer nennen; die [Zitierweise](../references/zitierweise.md) ist optional. Quellenstatus in einer gesonderten Arbeitsnotiz dokumentieren, nicht im Beschluss oder Mandantenbrief.
 
-Dezimale Gliederung, Leerzeilen und Times New Roman 11 pt beziehungsweise Exporthinweis verwenden. Ohne Export Text liefern; ungelesene Unterlagen und fehlende Beschlussbelege offenlegen. Nur die betroffene Entscheidung zurückstellen, das Fragenpapier trotzdem erstellen. Keine Sitzung, Unterzeichnung oder Registerhandlung als erfolgt behaupten.
+Dezimale Gliederung, Leerzeilen und Times New Roman 11 pt beziehungsweise Exporthinweis verwenden. Nutzerbenannte Dateien gehen vor; `ergebnis.md` ist nur ein Standard ohne anderen Dateiwunsch. Ohne Export Text liefern; ungelesene Unterlagen und fehlende Beschlussbelege in der Arbeitsnotiz offenlegen. Nur die betroffene Entscheidung zurückstellen und nach Klärung zum bestellten Dokument fortsetzen. Keine Sitzung, Unterzeichnung oder Registerhandlung als erfolgt behaupten oder ohne ausdrückliche Freigabe veranlassen.

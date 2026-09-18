@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fashion-law-moderecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2011/1007/oj/deu",
@@ -11,12 +11,12 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Einstieg führte Modeaufträge pauschal in eine allgemeine Schutzrechtsakte und ignorierte Produktkennzeichnung.",
+    "reason": "Vollständige Schlusslektüre: Fehlende Stückliste, Werbebeleg und Nutzungsrecht lösen unterschiedliche Nachforderungen aus; danach wird Etikett, Shoptext oder Vertragsfassung fertiggestellt, nicht automatisch abgemahnt.",
     "changes": [
-      "Eigene Produktfreigaberoute mit Stückliste und Shopansicht ergänzt.",
-      "Tierische Bestandteile und gesonderte Werbenachweise konkretisiert."
+      "Artikelbezogene Materialnachweise mit vollständig korrigiertem Etikett und Shoptext verbunden.",
+      "Model-Einwilligung, Urheberrecht und kanalbezogene Lizenz getrennt; unbelegte Werbeaussage nicht durch neue Behauptung ersetzt."
     ],
-    "sha256": "447cd29b55d04d0e9b15703f8455a8659b789ffa7e96e3372d6aa416243f7487"
+    "sha256": "e1b908aaf11af0ba1e0947d3d06dc79ef190f09a481c285c7a7bbf7a32156d8b"
   },
   "selection": {
     "positive": [
@@ -61,5 +61,15 @@
       ],
       "target_skill": "textilkennzeichnung-eu-upcycling-repair"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Alle Werkstattabschnitte einschließlich Produktpass, Lieferkette und Handelspartnerkrise gelesen. Der Ablauf bleibt produkt- und auftragsbezogen und enthält keine verpflichtende Schutzrechtsgesamtprüfung.",
+    "changes": [
+      "Nachgereichte Rechteübertragung oder Lizenz mit Schutzumfang beziehungsweise Kampagnenfassung abgeglichen.",
+      "Lieferanten-, Chargen- und Bestandsbelege gezielt nachfordern und betroffene Behörden- oder Händlerantwort vervollständigen lassen.",
+      "Gute konkrete Abschnitte beibehalten; keine zusätzliche Rechtsrecherche oder Live-Prüfung behauptet."
+    ],
+    "sha256": "7495f2ee63eaa30cae3c59e7cceba5b5fee8aadf6292bf76a0bdadcd6d77f586"
+  }
 }

@@ -1,6 +1,6 @@
 # 1. Schadensregulierung für Unternehmen und Haftpflichtversicherer
 
-Lies die Schadenunterlagen zuerst. Nenne bei großen Beständen den geprüften Teilstand. Fehlende Angaben einmal gebündelt erfragen; unabhängige Positionen weiterbearbeiten. Folgeaufträge fortsetzen, neue Belege prüfen. Fehlenden Zugriff offenlegen; keine Dateien oder Freigaben erfinden.
+Prüfe den Schaden aus Unternehmens- oder Versicherersicht und erstelle das bestellte Schreiben. Lies vorhandene Schadenunterlagen zuerst.
 
 ## 1.1. Sofort zum Arbeitsprodukt
 
@@ -40,12 +40,14 @@ Je Position: Forderung, Beleg, Kausalität, Prüfwert, Vorzahlung, Rest. BGB Par
 
 Verletzung: Befund, Behandlung, Schmerzen, Verlauf und Alltagseinschränkung. Keine Diagnose erfinden. Bei bewiesener Körperverletzung kann Angst ohne zusätzliche Diagnose in die Gesamtbemessung eingehen. Selbständige psychische Gesundheitsverletzung nach Krankheitswert und Kausalität prüfen.
 
-BGH, Urteil vom 15.02.2022, VI ZR 937/20: Schmerzensgeld insgesamt, nicht taggenau; kein Betragsmaßstab für leichte Abschürfungen. BGH, Urteil vom 06.12.2022, VI ZR 168/21: mittelbarer Schockschaden mit psychischer Störung von Krankheitswert, kein U-Bahn-Türfall. Quellenstatus nennen; amtlichen Volltext, Reichweite und Fortentwicklung vor Rechtsfreigabe prüfen, keine Fundstellen erfinden.
+BGH, Urteil vom 15.02.2022, VI ZR 937/20: Gesamtbemessung statt Tagessatz, kein Betragsvergleich für Abschürfungen. BGH, Urteil vom 06.12.2022, VI ZR 168/21: mittelbarer Schockschaden mit Krankheitswert, kein U-Bahn-Türfall. Amtlichen Volltext und Fortentwicklung vor Verwendung prüfen; Quellenstatus separat, nicht im Außenbrief.
 
 SGB X Paragraf 116, EntgFG Paragraf 6 und VVG Paragraf 86: Übergänge positions- und zeitraumbezogen prüfen. Krankenkasse erhält nicht automatisch Hose oder Schmerzensgeld; Arbeitsunfähigkeit ist kein automatischer eigener Verdienstausfall. Kaskomeldung ist noch keine Kaskoleistung. Bei bereits gezahlter Kaskoleistung den Übergangsbetrag mit Leistungsabrechnung belegen und Restforderung sowie Selbstbehalt getrennt ausweisen. Eine Abfindung des Eigentümers umfasst ohne Berechtigung keine bereits übergegangene Forderung des Sachversicherers. Keine Doppelzahlung; Selbstbehalt und Restansprüche gesondert führen.
 
 ## 1.7. Antwort und kontrollierter Abschluss
 
-Außenbrief mit Absenderrolle, Vertretenem, Datum, Vorgang, Anrede und nächstem Schritt. Nur entscheidende Belege nachfordern. Reserve und interne Freigabe nicht mitsenden. Ablehnung positionsweise begründen. Teilzahlung mit Betrag und Anrechnung; Vergleich nach BGB Paragraf 779 mit Parteien, Umfang, Frist und Kosten ausformulieren. Zukunfts- und fremde Ansprüche nicht heimlich miterledigen.
+Fehlenden Befund, Schadenbeleg oder Kaskoabrechnung gezielt nachfordern. Nach Antwort Positionen, Gläubiger und Restbetrag aktualisieren und das bestellte Schreiben fertigstellen. Neue entscheidende Lücken kurz klären, Bekanntes nicht erneut erfragen.
 
-Konto, Anspruchsinhaber und Vollmacht prüfen. Bei Lücken Zahlung stoppen; nichts selbst versenden, unterschreiben oder bezahlen. BGB Paragraf 195, Paragraf 199, Paragraf 203 und Paragraf 212: Verjährung, Hemmung und Neubeginn unterscheiden. Abschluss nur mit Erledigungsbeleg, offener Rest mit Wiedervorlage. Vollständige Sätze, Times New Roman 11 pt soweit möglich, dezimale Gliederung. Offene Punkte sperren nicht den fertigen Rest.
+Außenbrief mit Rolle, Vertretenem, Datum, Vorgang und Anrede. Reserve und interne Freigabe nicht mitsenden. Ablehnung positionsweise begründen; Teilzahlung mit Betrag und Anrechnung. Vergleich nach BGB Paragraf 779 mit Parteien, Umfang, Frist und Kosten ausformulieren. Zukunfts- und fremde Ansprüche nicht heimlich miterledigen.
+
+Konto, Anspruchsinhaber und Vollmacht prüfen. Bei Lücken keine Zahlung; externe Handlung nur nach Freigabe. BGB Paragrafen 195, 199, 203 und 212: Verjährung, Hemmung und Neubeginn unterscheiden. Erledigung nur mit Beleg; offenen Rest weiterführen. Vollständige Sätze, möglichst Times New Roman 11 pt, dezimale Gliederung. Nutzerdateiname geht vor. Fehlenden Zugriff offenlegen; keine Dateien erfinden.

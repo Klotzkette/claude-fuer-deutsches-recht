@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "kommunalrecht-laender",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://recht.nrw.de/lrgv/gesetz/01112025-gemeindeordnung-fuer-das-land-nordrhein-westfalen-go-nrw-bekanntmachung-der/",
@@ -10,14 +10,16 @@
     }
   ],
   "mini_review": {
+    "verdict": "retained",
+    "reason": "Aktuellen Mini vollständig gelesen. Einladung, Zugang und Anwesenheit beim einzelnen Tagesordnungspunkt werden gezielt geklärt; Antworten ändern Frist, Stimmenrechnung und Dokument. Rechnerische Mehrheit bleibt von umfassender Rechtmäßigkeit getrennt, NRW-Beispiel wird nicht verallgemeinert. Keine neue Quellen- oder Live-Modellprüfung.",
+    "changes": [],
+    "sha256": "bb964ee2c635349a20cf8784122a8f7f77841a65570a1e6624d57d8adc5bf266"
+  },
+  "workshop_review": {
     "verdict": "revised",
-    "reason": "Die landesrechtliche Grundroute bleibt erhalten. Die Mehrheitsprüfung war jedoch nur ein Stichwort und die Verweisung auf Bundesverfahrensrecht zu pauschal.",
-    "changes": [
-      "Getrennte Nenner für Anwesenheit und Stimmenmehrheit ergänzt.",
-      "Konkrete NRW-Regel ausdrücklich nicht bundesweit verallgemeinert.",
-      "Rechnerisches Ergebnis von gesamter Beschlussrechtmäßigkeit getrennt."
-    ],
-    "sha256": "a4c0c82b4663af28c3fda374865983e44ea8ea0527cc01457549d4149e76a054"
+    "reason": "Gesamte Werkstatt gelesen. Ein pauschaler Fortsetzungsstopp und obligatorische Beschlussakten widersprachen den bereits konkreten Nachforderungswegen zu Einladung, Stimmen und Gebühren. Diese Stellen gezielt begrenzt; Landesrechts- und Fachthemen erhalten. Keine erneute amtliche Verifikation oder Live-Modellprüfung.",
+    "changes": ["Fehlende Hauptsatzung sperrt nur die abhängige Bewertung, nicht belegte Sitzungstatsachen und Rechnungen.", "Lückenliste durch gezielte Frage mit anschließender Fertigstellung ersetzt.", "Sitzungskontrolle und vollständige Beschlussakte nicht mehr als obligatorische Ausgabe behandelt; Dokument nach Auftrag fertigstellen."],
+    "sha256": "cf94036e29c8936ef8c17cc79b8816e632122500c5d49717dd1ea1cbd9454f7a"
   },
   "selection": {
     "positive": [

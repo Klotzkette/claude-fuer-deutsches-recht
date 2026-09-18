@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "kanzlei-builder-hub",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
@@ -11,14 +11,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der bisherige Dokumenteninventurtext verfehlte die Prüfung und Freigabe fremder Erweiterungen. Der bestehende Security-Skill bietet den passenden Zielbereich, aber keinen ausreichend konkreten technischen Ablauf.",
+    "reason": "Vollständig geprüft: Fehlende Komponenten und Berechtigungsangaben werden nachgefordert und in Prüfbericht oder Testplan eingearbeitet. Statische Prüfung, tatsächlicher Test und produktive Aktivierung bleiben getrennt; kein weiterer Mini-Eingriff nötig.",
     "changes": [
       "Herkunft, Version, Zugriffe und Datenflüsse als Entscheidungsgrundlage eingeführt.",
       "Synthetischer Test, Abbruchkriterium und Produktivfreigabe getrennt.",
       "Fremde Dateianweisungen als Untersuchungsmaterial statt Befehle behandelt."
     ],
-    "sha256": "cfc6f803288251908567cae15bd59125c660d4bae7c936f1a62c43c98a852fc7"
+    "sha256": "54c5eaf9a5452d88e9bcae5fc1d873a9929e50a4ee1095716d35629a58cafd26"
   },
+  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung zeigte im Rollenabsatz noch allgemeinen Dokumentenexport statt Erweiterungsprüfung und eine Stationsproduktpflicht. Dies widersprach dem bereits konkreten Sicherheitsablauf.","changes":["Quelldateien, Berechtigungen, Schreibziele und Datenempfänger als tatsächlichen Prüfgegenstand benannt.","Prüfbericht oder Testplan ohne automatische Installation und Exportpaket abschließen lassen; statische Sichtung nicht als Test ausgegeben."],"sha256":"19f003e7e4edb1883680f554c014f347b184838e015cc27ff2dc53f6b1d19cf0"},
   "selection": {
     "positive": [
       "Prüfe die Rechte einer vorgeschlagenen Erweiterung vor Kanzleieinsatz.",

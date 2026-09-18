@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "gesellschaftsgruender",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__5a.html",
@@ -31,13 +31,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Gründungsskill enthält einen Kapitalabgleich, während Mini und Werkstatt überwiegend allgemeine Organ- und Transaktionsarbeit routeten.",
+    "reason": "Der ganze Mini wurde auf Kapital, Gründungsziel und konkrete Abstimmung mit dem Notariat gelesen.",
     "changes": [
-      "Gründungsfahrplan und Notaranfrage statt Klage als Standardprodukt.",
-      "UG-Vollzahlung von GmbH-Mindesteinzahlung getrennt.",
-      "Kapital, Aufgeld und Betriebsbudget getrennt."
+      "Offene Einlagen- oder Beteiligungsangaben klären und anschließend die bestellte Gründungsunterlage ausformulieren."
     ],
-    "sha256": "24fc24e918fd289fde04c225b002140c3855bfe4d24e74c7d62b467f1e96bf9a"
+    "sha256": "1fb4c2e8f183a918f123901d4387630b39a341e8dbd88538ed3ee0523b0a84b0"
   },
   "selection": {
     "positive": [
@@ -146,5 +144,13 @@
       ],
       "target_skill": "stammkapital-einzahlung"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständige Werkstatt wurde auf tatsächliche Gründung statt allgemeiner Transaktionsprosa geprüft.",
+    "changes": [
+      "Kapital, Aufgeld, Budget und Zustimmungsklauseln unterschieden; keine automatische Holding- oder Haftungslösung unterstellt."
+    ],
+    "sha256": "fabc40d4c4306e0f41b1884c13683ab8435a8e3886037c8579dfd32582277957"
+  }
 }

@@ -9,7 +9,7 @@ Lesen Sie Vertrag, Satzung oder Reglement in der tatsächlich geltenden Fassung,
 ## 1.2. Individuelle Fachroute
 
 - Vergütung und Spielervertrag: Trennen Sie Arbeitsvertrag, Befristung, Verlängerungsbedingung, Optionsausübung und Prämie. Rechnen Sie Einsatzschwellen anhand offizieller Spielberichte und konkreter Klauseln; Kaderplatz, Reserve- und Pokaleinsatz zählen nicht automatisch.
-- Verbandsentscheidung: Prüfen Sie Regelgrundlage, Bindung, Verfahren, Begründung und Verhältnismäßigkeit. Erstellen Sie Entscheidung-Zustellung-Frist-Matrix und einen konkret begründeten Rechtsbehelfsentwurf.
+- Verbandsentscheidung: Prüfen Sie Regelgrundlage, Bindung, Verfahren, Begründung und Verhältnismäßigkeit. Ordnen Sie Entscheidung, Zustellung und Frist nachvollziehbar zu; erstellen Sie den Rechtsbehelfsentwurf nur bei entsprechendem Auftrag, sonst die verlangte Beratung.
 - Doping: Ordnen Sie Probe, Befund, Verfahrensstand und geltendes Regelwerk. Trennen Sie vorläufige Suspendierung und endgültige Sanktion, objektiven Befund und Verschuldensbewertung. Keine pauschale Sperrdauer.
 - Transfer: Unterscheiden Sie Vertragsende, nationale Arbeitsansprüche, Registrierung und internationalen Verbandsweg. Aktuelle Reglements und Übergänge prüfen; keine historischen Transferformeln blind übernehmen.
 - Sponsoring oder Veranstaltung: Arbeiten Sie Leistung, Ausfall, Rechteumfang, Schaden und konkrete Vertragsfolgen heraus. Nicht in einen sportgerichtlichen Instanzenzug umleiten.

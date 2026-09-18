@@ -15,35 +15,6 @@ Lies zuerst Auftrag und vorhandene Shopunterlagen. Fehlt die Bestellansicht unmi
 
 Bei Abmahnung fehlende beanstandete Fassung und Unterlassungstext anfordern. Nach deren Prüfung die Verteidigung und gegebenenfalls Korrekturvorschläge aktualisieren. Neue entscheidende Lücken erlauben weitere kurze Fragen; bekannte Angaben nicht erneut aufnehmen. Unabhängige Teile vorläufig liefern und nach der Antwort das bestellte Schreiben oder Gutachten abschließen, keinen ungefragten Eilantrag erstellen.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
-
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist- oder Eilfall: Buttonlösung | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Live-Shop, AGB-Version, Checkout-Screenshots oder Zeitstempel fehlen; vor Fortsetzung klären |
-| Tragendes Arbeitsprodukt | bestellte Shopbewertung, vollständige Ersatztexte oder Abmahnantwort | Befund mit konkreter Ansicht und rechtlicher Folge verbinden |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welche Nutzerrolle, Produktart und konkrete Bildschirmstrecke bestimmen die Pflichten |
-| Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen |
-| Rechtsfolgenseite | Antrags-, Bescheid-, Vertrags- oder Antwortfassung | Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen |
-| Zwischenstation 1 | Arbeitsstand mit Belegstelle | Vertragsschluss: Angebot, Pflichtinformationen, Schaltfläche, Preis, Zusatzleistung, Zahlung, Bestätigung und AGB-Einbeziehung prüfen |
-| Zwischenstation 2 | Arbeitsstand mit Belegstelle | Leistungsregime: Ware, digitale Leistung, Ware mit digitalem Element, Abo, Marktplatzrolle, Aktualisierung und Mangelrechte zuordnen |
-| Adressatenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko, Kostenfolge und nächsten Schritt getrennt ausweisen |
-
-### 1.3. Rückfragenbremse
-
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Welche Nutzerrolle, Produktart und konkrete Bildschirmstrecke bestimmen die Pflichten“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Live-Shop, AGB-Version, Checkout-Screenshots oder Zeitstempel fehlen.
-3. Beweislage vor Rechtsmeinung ordnen: Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
-
-### 1.4. Mini-Gerüste
-
-- Sofortvermerk: Der Ausgangsanker ist BGB Paragraf 312 ff. und EGBGB Artikel 246a. Nach derzeitigem Stand spricht [Beleg] bei [Tatbestandsmerkmal] mehr für [Ergebnis]; offen bleibt [Lücke].
-- Kernsatz des Arbeitsprodukts: Journey-Matrix: Schritt, Seite, Nutzeraktion, Pflichtinformation, Ist-Text, Rechtsanker, Beleg, Fehler und Korrektur.
-- Beweissatz: [Tatsache] ist durch [Beweismittel] belegt; im Übrigen gilt: Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen.
-- Rechtsfolgensatz: Daraus folgt Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg oder Norm]. Risiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg bleibt die Leitfrage „Welche Nutzerrolle, Produktart und konkrete Bildschirmstrecke bestimmen die Pflichten“ offen.
 ## 2. Grenzen der Freigabe
 
 - Fehlen Livezugriff, AGB-Fassung, Screenshots oder Zeitstempel, die betroffene Aussage eingrenzen und den konkreten Nachweis anfordern. Vorliegende Texte unabhängig davon prüfen, keine ungeprüfte Shopfreigabe erteilen.
@@ -52,56 +23,8 @@ Bei Abmahnung fehlende beanstandete Fassung und Unterlassungstext anfordern. Nac
 - Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
-## 3. Werkstattfluss
 
-### 3.1. Nutzerstrecke aufnehmen
-
-Arbeitsgriff Nutzerstrecke aufnehmen: Gerät, URL, Land, Sprache, Nutzerrolle, Produkt, Warenkorb, Checkout, Bestätigung, Konto und Kündigung mit Screenshots sichern. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
-
-### 3.2. Vertragsschluss
-
-Arbeitsgriff Vertragsschluss: Angebot, Pflichtinformationen, Schaltfläche, Preis, Zusatzleistung, Zahlung, Bestätigung und AGB-Einbeziehung prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
-
-### 3.3. Leistungsregime
-
-Arbeitsgriff Leistungsregime: Ware, digitale Leistung, Ware mit digitalem Element, Abo, Marktplatzrolle, Aktualisierung und Mangelrechte zuordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
-
-### 3.4. Durchsetzung und Beweis
-
-Arbeitsgriff Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: Beweismittelspiegel je entscheidendem Merkmal; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
-
-### 3.5. Arbeitsprodukt
-
-Arbeitsgriff Arbeitsprodukt: Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: versandfähiger Entwurf mit Anlagen- und Fristenbezug; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
-
-## 4. Rechtsprechungs-Fallkarte
-
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Fallkern | Fernabsatzvertrag Paragraf 312c BGB | BGB Paragraf 312 ff. und EGBGB Artikel 246a | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
-| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 312j und Paragraf 312k | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | OSS und IOSS im E-Commerce | BGB Paragraf 312j und Paragraf 312k | Tatbestandsmatrix mit Beleg und Gegenargument |
-| Rechtsfolge | Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen | Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
-
-## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
-
-| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
-| --- | --- | --- | --- |
-| BGB Paragraf 312 ff. und EGBGB Artikel 246a | Verbrauchervertrag, Fernabsatz, Information, Bestätigung und Widerruf | Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen | Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen |
-| BGB Paragraf 312j und Paragraf 312k | Bestellschaltfläche und Kündigung von Verbraucherverträgen im elektronischen Geschäftsverkehr | Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen | Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen |
-| BGB Paragraf 327 ff. sowie Paragraf 433, Paragraf 434, Paragraf 475b und Paragraf 475c | digitale Produkte und Waren mit digitalen Elementen | Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen | Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen |
-| DDG Paragraf 5 | allgemeine Informationspflichten geschäftsmäßiger digitaler Dienste | Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen | Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen |
-| UWG Paragraf 3, Paragraf 5, Paragraf 5a, Paragraf 8 und Paragraf 13 sowie PAngV | Marktverhalten, Irreführung, Information, Durchsetzung und Preise | Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen | Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen |
-| DSA und Plattform-to-Business-Verordnung | Rollen- und Plattformpflichten nach Dienst und Nutzergruppe | Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen | Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen |
-| Paragraf 312c BGB | Fernabsatzvertrag | Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen | Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen |
-
-## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
-
-- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
-- Rechtsfolge zuerst als Arbeitsprodukt denken: Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen
-- Quellenstatus in einer gesonderten Arbeitsnotiz dokumentieren: Aktenfund, geprüfter Normtext, belegte Rechtsprechung oder offene Prüfung. Nicht in Mandantenbrief, Verbrauchertext oder Abmahnantwort kopieren.
-
-## 7. Pflichtnormen als Kernsätze
+## 3. Pflichtnormen als Kernsätze
 
 - BGB Paragraf 312 ff. und EGBGB Artikel 246a: Verbrauchervertrag, Fernabsatz, Information, Bestätigung und Widerruf.
 - BGB Paragraf 312j und Paragraf 312k: Bestellschaltfläche und Kündigung von Verbraucherverträgen im elektronischen Geschäftsverkehr.
@@ -118,141 +41,68 @@ Arbeitsgriff Arbeitsprodukt: Checkout-Matrix, UX-Korrekturen, AGB-Redline, Wider
 - Paragraf 475 BGB — Verbrauchsgüterkauf; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 6 Abs. 1 Datenschutz-Grundverordnung — Rechtsgrundlage Datenverarbeitung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
-## 8. Leitentscheidungen
+## 4. Leitentscheidungen
 
 - Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
-## 9. Prüfraster
 
-1. Welche Nutzerrolle, Produktart und konkrete Bildschirmstrecke bestimmen die Pflichten.
-2. Wann und mit welchem Text kommt der Vertrag zustande und welcher Gesamtpreis wird unmittelbar vorher gezeigt.
-3. Welche Informations-, Update-, Widerrufs- oder Kündigungspflicht ist technisch tatsächlich umgesetzt.
-4. Welche Version, URL, Zeit und Nutzeraktion ist durch Screenshot, Log oder Testkauf beweisbar.
-5. Welche konkrete Text- oder Oberflächenänderung beseitigt den Verstoß ohne neue Inkonsistenz.
-6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
-7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
-
-## 10. Argumentations- und Entwurfsgerüst
-
-10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen.
-10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BGB Paragraf 312 ff. und EGBGB Artikel 246a; BGB Paragraf 312j und Paragraf 312k.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Fernabsatzvertrag Paragraf 312c BGB.
-10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Onlinehandel, Plattformen und digitale Verbraucherprozesse tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
-10.5. Beweislast: Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei wann und mit welchem Text kommt der Vertrag zustande und welcher Gesamtpreis wird unmittelbar vorher gezeigt an.
-10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Gib die bestellte Bewertung, Belehrung, Klauselfassung oder Antwort vollständig aus. Für eine Korrektur konkrete Ansicht, bisherigen Text, Ersatztext und Umsetzungskriterium verbinden; keine „Journey-Matrix“ als Pflichtausgabe. Bei Mängelfragen Produkt, Bereitstellung, Update, Frist und Abhilfe getrennt begründen.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
-
-## 11. Outputvarianten und Empfängerwunsch
-
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| schnell entscheiden | Kurzvermerk | Fallkern, BGB Paragraf 312 ff. und EGBGB Artikel 246a; BGB Paragraf 312j und Paragraf 312k, Risiko und nächster Schritt |
-| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
-| versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
-| beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort. |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei wann und mit welchem Text kommt der Vertrag zustande und welcher Gesamtpreis wird unmittelbar vorher gezeigt |
-
-## 12. Arbeitsweise
+## 5. Arbeitsweise
 
 Prüfe Inhalt und Version vorhandener Unterlagen vor der Rückfrage. Fehlende entscheidende Ansichten oder Umsetzungsnachweise auch bei umfangreichem Material gezielt erfragen. Nach einer neuen Fassung Widersprüche zwischen Checkout, Bestätigung und Bedingungen erneut prüfen und den bestellten Text aktualisieren. Tabellen nur für erforderliche Vergleiche; eine Analyse ersetzt keinen bestellten Brief.
 
 Selbstcheck vor Ausgabe: Ist die maßgebliche Frist mit Beginn, Lauf und Ende benannt? Ist die Form geklärt? Ist die Rechtsfolge aus einer Norm abgeleitet und auf Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte. bezogen? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
-## 13. Qualitätskontrolle und Abschluss
+## 6. Qualitätskontrolle und Abschluss
 
 Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Besonders zu kontrollieren ist in diesem Gebiet: Welche konkrete Text- oder Oberflächenänderung beseitigt den Verstoß ohne neue Inkonsistenz. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 14. Musterbausteine
 
-- Journey-Matrix: Schritt, Seite, Nutzeraktion, Pflichtinformation, Ist-Text, Rechtsanker, Beleg, Fehler und Korrektur.
-- Produktregime: Produkt, Vertragsart, Bereitstellung, Update, Mangel, Frist, Abhilfe, Rücktritt oder Minderung und Beweis.
-- Abmahnakte: Antragsteller, Fundstelle, Handlung, Norm, Beweis, Wiederholungsgefahr, Erklärung, Kosten und Umsetzungsnachweis.
+## 7. Shopablauf und konkrete Korrektur
 
-## 15. Fachliche Entscheidungslandkarte
+### 7.1. Fernabsatz und Nutzerrolle
 
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
+Bestimme Verbraucher- oder Unternehmerstellung, Vertriebsweg und Produktart nach Paragraf 312c BGB. Webshop, Telefon, E-Mail, Messenger und Social Commerce nach dem tatsächlichen Ablauf prüfen; organisierten Vertrieb und Einzelgeschäft unterscheiden. Informationspflichten nach Artikel 246a EGBGB, Widerruf nach Paragraf 312g und elektronische Bestellpflichten nach Paragrafen 312i und 312j BGB jeweils nach ihrem Anwendungsbereich beurteilen.
 
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| Fernabsatzvertrag Paragraf 312c BGB | Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der unter ausschließlicher Verwendung von Fernkommunikationsmitteln (Internet, Telefon, E-Mail) und im Rahmen eines organisierten. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| OSS und IOSS im E-Commerce | Ordne grenzüberschreitende B2C-Umsätze dem Union-OSS nach Paragraf 18j UStG, dem IOSS nach Paragraf 18k UStG oder dem allgemeinen Besteuerungsverfahren zu. | Fachvotum zu OSS und IOSS im E-Commerce mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Impressum / Anbieterkennzeichnung nach DDG | Mai 2024 ist das Digitale-Dienste-Gesetz (DDG) in Kraft und ersetzt das TMG. Paragraf 5 DDG regelt die Anbieterkennzeichnungspflicht für geschäftsmäßige, in der Regel gegen Entgelt angebotene Telemedien. | Fachvotum zu Impressum / Anbieterkennzeichnung nach DDG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| AGB im Online-Shop – Einbeziehung Paragraf 305 BGB | Allgemeine Geschäftsbedingungen (AGB) werden nur Vertragsbestandteil, wenn sie wirksam einbezogen wurden (Paragraf 305 II BGB) und einer Inhaltskontrolle. | Fachvotum zu AGB im Online-Shop – Einbeziehung Paragraf 305 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| Widerrufsrecht Verbraucher Paragrafen 355 312g BGB | Bei Fernabsatz- und außerhalb von Geschäftsräumen geschlossenen Verträgen steht dem Verbraucher ein Widerrufsrecht von 14 Tagen zu. | Fachvotum zu Widerrufsrecht Verbraucher Paragrafen 355 312g BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| Abmahnung UWG Unterlassungserklärung | Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
-| Gewährleistung digitale Produkte Warenkauf Paragrafen 327 ff 434 ff BGB | Zuerst trennen: reine digitale Inhalte/Dienstleistungen nach Paragrafen 327 und folgende BGB, Ware mit digitalen Elementen nach Paragrafen 475b, 475c BGB oder klassischer Warenkauf nach Paragrafen 433, 434 BGB. | Fachvotum zu Gewährleistung digitale Produkte Warenkauf Paragrafen 327 ff 434 ff BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
-| Shop Check Checkout Widerruf Impressum | Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Button-Lösung Paragraf 312j BGB | Bearbeite Button-Lösung Paragraf 312j BGB als konkreten Vorgang im Gebiet Onlinehandel, Plattformen und digitale Verbraucherprozesse | Fachvotum zu Button-Lösung Paragraf 312j BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+### 7.2. Bildschirmansichten und Vertragsschluss
 
-## 16. Fachspezifische Praxisrouten
+Gerät, URL, Land, Sprache, Produkt, Warenkorb, Checkout, Bestätigung, Konto und Kündigungsweg der geprüften Version zuordnen. Vor dem verbindlichen Klick sichtbare Übersicht und Schaltfläche sichern. Gesamtpreis, Versand, Laufzeit und Zusatzleistung einzeln prüfen. Paragraf 312j Absatz 4 BGB knüpft an Absatz 3 an; nicht jeden Informationsfehler automatisch als fehlenden Vertrag behandeln.
 
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
+Fehlt die entscheidende Ansicht, gezielt nachfordern und nach Eingang Befund und Ersatztext aktualisieren. Die Ausnahme für individuelle Kommunikation nicht pauschal auf individuell ausgehandelte Dienstleistungen übertragen. Keine Testbestellung ohne Freigabe ausführen.
 
-### 16.1. Fernabsatzvertrag Paragraf 312c BGB
+### 7.3. Anbieter und Geschäftsbedingungen
 
-Bearbeitungsauftrag: Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der unter ausschließlicher Verwendung von Fernkommunikationsmitteln (Internet, Telefon, E-Mail) und im Rahmen eines organisierten Vertriebssystems geschlossen wird (Paragraf 312c BGB). Er löst zahlreiche besondere Pflichten aus: Informationspflichten (Artikel 246a EGBGB), Widerrufsrecht (Paragraf 312g BGB), Button-Lösung (Paragraf 312j BGB), Bestellbestätigung (Paragraf 312i BGB). Der Skill ordnet die Voraussetzungen und das Zusammenspiel der Folgepflichten.
-Prüfschritte: Wer sind die Vertragsparteien (Verbraucher, Unternehmer); Welche Vertriebsform (Webshop, Telefon, E-Mail, Messenger, Social Commerce); Vertragstyp (Waren, digitale Inhalte, Dienstleistung, Mischformen); Ist es ein organisierter Vertriebsweg oder Einzelgeschäft; Welche Information wurde wann wie gegeben.
-Normbezug aus dem Fachmaterial: Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der unter ausschließlicher Verwendung von Fernkommunikationsmitteln (Internet, Telefon, E-Mail) und im Rahmen eines organisierten Vertriebssystems geschlossen wird (Paragraf 312c BGB).
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+Anbieterkennzeichnung nach Paragraf 5 DDG sowie bei journalistisch-redaktionellem Inhalt Paragraf 18 MStV prüfen. Tatsächlichen Anbieter, Kontakt und gegebenenfalls Verantwortlichen aus den Unternehmensangaben ableiten.
 
-### 16.2. OSS und IOSS im E-Commerce
+AGB-Einbeziehung nach Paragraf 305 Absatz 2 BGB von Inhaltskontrolle und Rechtsfolge einer unwirksamen Klausel trennen. Prüfe den tatsächlich angebotenen Text und Zugriff vor Abschluss. Fehlt die damalige AGB-Fassung, anfordern und nach Eingang Lieferung, Mängelhaftung, Eigentumsvorbehalt und Streitbeilegung im konkreten Vertrag abgleichen.
 
-Bearbeitungsauftrag: Ordne grenzüberschreitende B2C-Umsätze dem Union-OSS nach Paragraf 18j UStG, dem IOSS nach Paragraf 18k UStG oder dem allgemeinen Besteuerungsverfahren zu. Ist der Empfänger Unternehmer oder ein in Paragraf 3a Absatz 5 Satz 1 UStG bezeichneter Nichtunternehmer? Wird aus einem EU-Mitgliedstaat oder unmittelbar aus dem Drittlandsgebiet geliefert?
-Prüfschritte: Erstelle eine Umsatzmatrix je Bestimmungsland, eine Fristenübersicht und eine Liste der fehlenden Transaktionsnachweise; Verbrauchervertragsrecht gehört nicht zum Kern dieses Skills; Lies zuerst Shop-Export, Rechnungen, Zahlungsdaten, Versandnachweise, Retouren, Plattformabrechnungen und bisherige Umsatzsteuererklärungen; Frage danach nur zu offenen Weichen.
-Lieferstück: Fachvotum zu OSS und IOSS im E-Commerce mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+### 7.4. Widerruf und Kündigung
 
-### 16.3. Impressum / Anbieterkennzeichnung nach DDG
+Voraussetzungen, Ausnahmen nach Paragraf 312g Absatz 2 BGB, Belehrung, Fristbeginn und Folgen nach Paragrafen 355 und 357 BGB gesondert prüfen. Keine Vierzehntagesrechnung ohne maßgebliches Ereignis und Informationsstand beginnen. Nach fehlendem Zustell- oder Belehrungsnachweis fragen und anschließend den Rückabwicklungsbetrag und Antworttext ändern.
 
-Bearbeitungsauftrag: Mai 2024 ist das Digitale-Dienste-Gesetz (DDG) in Kraft und ersetzt das TMG. Paragraf 5 DDG regelt die Anbieterkennzeichnungspflicht für geschäftsmäßige, in der Regel gegen Entgelt angebotene Telemedien. Zusätzlich greifen Paragraf 18 MStV (Telemedien mit journalistisch-redaktionellem Charakter).
-Lieferstück: Fachvotum zu Impressum / Anbieterkennzeichnung nach DDG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Beim Kündigungsbutton nach Paragraf 312k BGB Abschlussfähigkeit, Anwendungsbereich, Erreichbarkeit, Eingaben und Bestätigung anhand der gesamten Strecke prüfen. Hindernisse beim Widerruf oder bei Kündigung nicht nur sprachlich, sondern nach ihrer tatsächlichen Wirkung bewerten. Irreführende Voreinstellungen oder erschwerende Gestaltung konkret benennen und eine umsetzbare Korrektur formulieren.
 
-### 16.4. AGB im Online-Shop – Einbeziehung Paragraf 305 BGB
+### 7.5. Ware und digitales Produkt
 
-Bearbeitungsauftrag: Allgemeine Geschäftsbedingungen (AGB) werden nur Vertragsbestandteil, wenn sie wirksam einbezogen wurden (Paragraf 305 II BGB) und einer Inhaltskontrolle. Im Online-Shop entscheidet die Einbeziehung über die gesamte Vertragsgrundlage (Lieferung, Mängelhaftung, Eigentumsvorbehalt, Streitbeilegung). Der Skill ordnet Einbeziehung, Klauseltypen und Inhaltskontrolle.
-Lieferstück: Fachvotum zu AGB im Online-Shop – Einbeziehung Paragraf 305 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Digitale Inhalte und Dienstleistungen nach Paragrafen 327 folgende BGB von Waren mit digitalen Elementen nach Paragrafen 475b und 475c und sonstigem Warenkauf nach Paragrafen 433 und 434 BGB trennen. Bereitstellung, Update, Mangel, Anzeige und Abhilfe mit Nachweisen verbinden. Die Regelfrist nach Paragraf 438 Absatz 1 Nummer 3 BGB nicht ungeprüft auf alle digitalen Ansprüche übertragen. Nach fehlendem Update- oder Liefernachweis die betroffene Rechtsfolge und verlangte Abhilfe neu bestimmen.
 
-### 16.5. Widerrufsrecht Verbraucher Paragrafen 355 312g BGB
+### 7.6. Abmahnung und Durchsetzung
 
-Bearbeitungsauftrag: Bei Fernabsatz- und außerhalb von Geschäftsräumen geschlossenen Verträgen steht dem Verbraucher ein Widerrufsrecht von 14 Tagen zu. Der Skill ordnet Voraussetzungen, Ausnahmen (Paragraf 312g II BGB), Rechtsfolgen und Belehrungspflichten. Sind Ausnahmen einschlägig (Paragraf 312g II BGB)?
-Lieferstück: Fachvotum zu Widerrufsrecht Verbraucher Paragrafen 355 312g BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Anspruchsberechtigung, konkrete Ansicht und Handlung, Verstoß, Wiederholungsgefahr, Unterlassungsumfang, Kosten und Frist prüfen. Werbung, Preis, Tracking und Plattformpflichten nicht in einem pauschalen Shopbefund vermischen. Fehlende beanstandete Fassung und Erklärung anfordern; danach die bestellte Antwort und gegebenenfalls Ersatztexte fertigstellen. Eine technische Korrektur beweist nicht ohne Weiteres die Erledigung sämtlicher Unterlassungsfragen. Keine Erklärung abgeben oder Verfahren ohne Auftrag einleiten.
 
-### 16.6. Abmahnung UWG Unterlassungserklärung
+### 7.7. Grenzüberschreitender Shop
 
-Bearbeitungsauftrag: Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten. Einordnen: Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten. Tatbestand in Elemente zerlegen: Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als [offen: .] markieren.
-Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
+Zielland, Sprache, Liefergebiet, Vertragsparteien und Plattformrolle aus dem tatsächlichen Angebot bestimmen. Verbraucherrecht, Datenschutz, DSA und Plattform-to-Business-Verordnung nach ihrem jeweiligen Anwendungsbereich prüfen. Nach einer geänderten Landesfassung des Shops Preis, Bedingungen, Bestätigung und mobile Ansicht erneut vergleichen; die Freigabe einer Version gilt nicht automatisch für alle Länder.
 
-### 16.7. Gewährleistung digitale Produkte Warenkauf Paragrafen 327 ff 434 ff BGB
+### 7.8. Umsatzsteuerliche Sonderverfahren
 
-Bearbeitungsauftrag: Zuerst trennen: reine digitale Inhalte/Dienstleistungen nach Paragrafen 327 und folgende BGB, Ware mit digitalen Elementen nach Paragrafen 475b, 475c BGB oder klassischer Warenkauf nach Paragrafen 433, 434 BGB. Die Regelfrist für kaufrechtliche Mängelansprüche beträgt nach Paragraf 438 Absatz 1 Nummer 3 BGB zwei Jahre.
-Lieferstück: Fachvotum zu Gewährleistung digitale Produkte Warenkauf Paragrafen 327 ff 434 ff BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Grenzüberschreitende B2C-Umsätze nach Empfängerstellung, Bestimmungsland und Versandursprung dem Union-OSS nach Paragraf 18j UStG, dem IOSS nach Paragraf 18k UStG oder dem allgemeinen Verfahren zuordnen. Den Empfängerbezug nach Paragraf 3a Absatz 5 Satz 1 UStG im jeweils betroffenen Umsatz prüfen.
 
-### 16.8. Shop Check Checkout Widerruf Impressum
+Shop-Export, Rechnungen, Zahlungen, Versand, Retouren, Plattformabrechnungen und bisherige Erklärungen abgleichen. Fehlt ein Transaktionsnachweis, genau diesen nachfordern und nach Eingang Umsatzzuordnung, Rechnung und Fristübersicht ändern. Die steuerliche Zuordnung ist von der verbraucherrechtlichen Shopprüfung getrennt zu begründen; keine Erklärung selbst abgeben.
 
-Bearbeitungsauftrag: Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten. Einordnen: Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten. Tatbestand in Elemente zerlegen: Jedes Tatbestandsmerkmal einzeln prüfen.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+### 7.9. Ersatztexte abschließen
 
-### 16.9. Button-Lösung Paragraf 312j BGB
+Bisherigen Text, konkrete Ansicht, Ersatzfassung und Umsetzungskriterium verbinden. Nach bestätigtem Umbau Checkout, AGB, Bestätigung, Widerruf und Kündigung auf Widersprüche prüfen. Eine technische Umsetzung nur als erfolgt bezeichnen, wenn sie belegt ist. Quellenstatus und Versionsvorbehalte gesondert dokumentieren; der bestellte Empfängertext enthält die fachliche Begründung, nicht interne Prüffeldnamen.
 
-Bearbeitungsauftrag: Bearbeite Button-Lösung Paragraf 312j BGB als konkreten Vorgang im Gebiet Onlinehandel, Plattformen und digitale Verbraucherprozesse.
-Lieferstück: Fachvotum zu Button-Lösung Paragraf 312j BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.10. Kündigungsbutton Paragraf 312k BGB
-
-Bearbeitungsauftrag: Bearbeite Kündigungsbutton Paragraf 312k BGB als konkreten Vorgang im Gebiet Onlinehandel, Plattformen und digitale Verbraucherprozesse.
-Lieferstück: Fachvotum zu Kündigungsbutton Paragraf 312k BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.11. Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht
-
-Bearbeitungsauftrag: Bearbeite Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht als konkreten Vorgang im Gebiet Onlinehandel, Plattformen und digitale Verbraucherprozesse.
-Lieferstück: Fachvotum zu Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Rechtsabteilung: Dark Patterns und Verbraucherwiderruf
-
-Bearbeitungsauftrag: Bearbeite Rechtsabteilung: Dark Patterns und Verbraucherwiderruf als konkreten Vorgang im Gebiet Onlinehandel, Plattformen und digitale Verbraucherprozesse.
-Lieferstück: Fachvotum zu Rechtsabteilung: Dark Patterns und Verbraucherwiderruf mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-## 17. Technische Grenzen
+## 8. Technische Grenzen
 
 Ohne weitere Skills mit den vorliegenden Ansichten und Texten weiterarbeiten; ohne Export den Text liefern. Bei Abruffehlern einen geeigneten Alternativweg versuchen und verbleibende Versions- oder Quellenlücken gesondert dokumentieren. Keine vollständige Prüfung oder erfolgte technische Umsetzung behaupten; neue Fassungen erneut prüfen. Testkauf, Vertragsschluss, Liveänderung und Versand nur nach Freigabe ausführen.

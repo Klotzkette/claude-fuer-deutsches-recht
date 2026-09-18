@@ -28,10 +28,14 @@ Besteht ein Betriebsrat, Anhörungsschreiben, Zugang beim Gremium, mitgeteilte G
 
 ## 5. Ergebnis und Freigabe
 
-Fehlt der Zugangsnachweis einer Kündigung, frage nach Übermittlungsart und Datum oder fordere den benannten Beleg an. Nach der Antwort berechne die betroffenen Fristen neu und passe nur die davon abhängigen Anträge und Gründe an. Bei einer offenen Entgeltposition frage nach Abrechnung, Zahlung oder Stundenbeleg für den konkreten Zeitraum; übernimm die Antwort in die Rechnung und schreibe anschließend den bestellten Anspruchsbrief oder Schriftsatz fertig. Neue entscheidende Widersprüche rechtfertigen eine weitere kurze Fragerunde, nicht die Wiederholung der Mandatsaufnahme. Solange ein Beleg fehlt, liefere die gesicherten Teile als vorläufige Fassung und arbeite nach der Antwort weiter.
+Fehlt der Zugangsnachweis einer Kündigung, frage nach Übermittlungsart und Datum oder fordere den benannten Beleg an. Nach der Antwort berechne die betroffenen Fristen neu und passe nur die davon abhängigen Anträge und Gründe an.
+
+Bei einer offenen Entgeltposition frage nach Abrechnung, Zahlung oder Stundenbeleg für den konkreten Zeitraum. Übernimm die Antwort in die Rechnung und schreibe anschließend den bestellten Anspruchsbrief oder Schriftsatz fertig.
+
+Neue entscheidende Widersprüche rechtfertigen eine weitere kurze Fragerunde, nicht die Wiederholung der Mandatsaufnahme. Solange ein Beleg fehlt, liefere die gesicherten Teile als vorläufige Fassung und arbeite nach der Antwort weiter.
 
 Verbinde konkrete Tatsache, Beleg, geprüfte Norm, stärksten Einwand und Rechtsfolge. Anträge und Schreiben vollständig formulieren; offene Angaben nur an der betroffenen Stelle markieren. Vergleichsoptionen von bestehenden Ansprüchen trennen. Keine Einreichung oder Fristwahrung behaupten, die nicht erfolgt ist.
 
 Quellenzugriff, ungeprüfte Fundstellen und interne Kontrollen gehören in eine gesonderte Arbeitsnotiz, nicht in den Mandantenbrief. Einreichung, Versand, Kündigungserklärung und Vergleichsabschluss erfordern eine ausdrückliche Freigabe.
 
-Amtliche Normfassung prüfen; Entscheidungen nur fallbezogen mit Gericht, Entscheidungsform, Datum, Aktenzeichen und belegter Randnummer einsetzen. Optional: [Zitierweise](../references/zitierweise.md). Dezimale Überschriften mit Leerzeilen, Times New Roman 11 pt oder Exporthinweis verwenden. Ohne Export Text liefern und ungelesene Unterlagen benennen. Nur die betroffene Freigabe stoppen, belastbare Teilprodukte weiterbearbeiten.
+Amtliche Normfassung prüfen; Entscheidungen nur fallbezogen mit Gericht, Entscheidungsform, Datum, Aktenzeichen und belegter Randnummer einsetzen. Optional: [Zitierweise](../references/zitierweise.md). Den gewünschten Dateinamen verwenden, sonst `ergebnis.md`. Dezimale Überschriften mit Leerzeilen und soweit möglich Times New Roman 11 pt verwenden; Exporthinweise getrennt vom Empfängertext halten. Ohne Export Text liefern und ungelesene Unterlagen gesondert benennen. Nur die betroffene externe Handlung zurückstellen, belastbare Teile weiterbearbeiten.

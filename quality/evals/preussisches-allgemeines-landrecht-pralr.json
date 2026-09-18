@@ -1,16 +1,15 @@
 {
   "schema_version": 1,
   "plugin": "preussisches-allgemeines-landrecht-pralr",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der individuelle historische Arbeitsweg war brauchbar, verlangte aber weitere Dateien für zentrale Schritte und präsentierte frühere Quellenbefunde als gesichert.",
+    "reason": "Der vollständige historische Mini wurde auf Edition, Geltung und Ausnahmeprüfung gelesen.",
     "changes": [
-      "Alle Querverweise ausdrücklich optional gemacht und Arbeitsregeln im Mini ergänzt.",
-      "Konkrete unerneuert belegte Altanker durch eigenständige Regeln zur Text-, Geltungs- und Ausnahmenprüfung ersetzt."
+      "Nach ergänzter Quellenseite die konkrete historische Deutung revidieren und das bestellte Lehr- oder Argumentationsergebnis liefern."
     ],
-    "sha256": "dabe141da97e8626152f83a2246760586749a52b071ff9534b7399498410c944"
+    "sha256": "ecbdaca3cc4ba6ba6eb44293d2b0ca7cfcfb87b1775326e2484da07cd603637e"
   },
   "selection": {
     "positive": [
@@ -55,5 +54,13 @@
       ],
       "target_skill": "textzeugen-vergleichen"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt mit ihren historischen Sachgebieten wurde gelesen; gute Quellenarbeit blieb erhalten.",
+    "changes": [
+      "Doppelte angehängte Themenroute entfernt und eigenständige historische Informationen integriert; keine moderne Klage als Pflichtausgabe."
+    ],
+    "sha256": "a4e0c1889d9c84d631d508dfb5ac0cf5b0d7ad763e8b049738b25197a755f389"
+  }
 }

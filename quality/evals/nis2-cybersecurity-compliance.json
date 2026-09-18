@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "nis2-cybersecurity-compliance",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bsig_2025/__32.html",
@@ -11,12 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständige Mini und Meldestellenskill verwenden alte BSIG-Verweise; die Incident-Arbeit blieb abstrakt.",
+    "reason": "Der ganze Mini wurde auf Kenntniszeitpunkt, Meldestufen und tatsächlichen Incident-Stand geprüft.",
     "changes": [
-      "Kenntniszeitpunkt und aktuelle Meldekaskade konkretisiert.",
-      "Technische Erkenntnislücken von Meldepflicht und erfolgter Meldung getrennt."
+      "Nach technischen Erkenntnissen Risikobewertung und vorbereitete Meldung aktualisieren; keine erfolgte Übermittlung behaupten."
     ],
-    "sha256": "90e98c1aceb86ac9a07768252bc08a0be9247edb3c92d952af549c1f26779748"
+    "sha256": "bf3b711884369985016e6a6b6adbee0391d596075d87f3c85b9b4533dc80f73e"
   },
   "selection": {
     "positive": [
@@ -61,5 +60,13 @@
       ],
       "target_skill": "bsi-meldestelle-formular"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständige Werkstatt wurde einschließlich KRITIS, Cloud, DORA, Backups und Forensik gelesen.",
+    "changes": [
+      "Aktuelle BSIG-Aufgaben statt pauschaler Altverweise; NIST-CSF-Governance und fortdauernde Vorfälle passend eingeordnet."
+    ],
+    "sha256": "73f2ccd698aed9728f20db469d1d291f10304695b1e37c3ce69a10acfdcf0f45"
+  }
 }

@@ -2,7 +2,7 @@
 
 Bearbeite die Anmeldung oder Abzweigung eines Gebrauchsmusters, die Prüfung seines Rechtsbestands oder seine Durchsetzung anhand der konkreten technischen Erfindung.
 
-Kernauftrag: Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach Paragraf 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Schnellschutz. Vorrang hat das verlangte Arbeitsprodukt.
+Berücksichtige GebrMG, DPMA-Anmeldung, Recherche nach Paragraf 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz und FTO, soweit für den Auftrag relevant. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Technische Unterlagen und Auftrag
 
@@ -14,8 +14,8 @@ Fehlen entscheidende Unterlagen, benenne die konkrete Lücke: etwa die ursprüng
 
 1. Leitfrage aus Akte und Auftrag festlegen: Ist die technische Lehre als Gebrauchsmustergegenstand zulässig oder als Verfahren ausgeschlossen.
 2. Prüfe Abzweigungs-, Prioritäts- und Schonfrist anhand amtlicher Daten sowie den Stand der Technik merkmalsbezogen. Neue entscheidende Belege können eine erneute Prüfung der betroffenen Aussage erfordern.
-3. Belege und Engpass zusammenführen: Inhaber für eingetragenen Anspruch, Rechtsbestand und Verletzung; Gegner für Löschungsgrund, Vorbenutzung, Erschöpfung oder sonstige Einrede; besonders kritisch ist: Abzweigungs-, Prioritäts- oder Schonfrist ist offen.
-4. Erstes Arbeitsprodukt liefern: Anmeldung, Abzweigungserklärung, Rechercheauftrag, Löschungsantrag, Abmahnung, Klage oder Verfügungsantrag erstellen.
+3. Belege zu Anspruch, Rechtsbestand, Verletzung und Einreden nach dem tatsächlich betroffenen Verfahren zuordnen. Offene Abzweigungs-, Prioritäts- oder Schonfrist vorrangig klären.
+4. Das bestellte Gutachten, die Anmeldung, Abzweigungserklärung oder den beauftragten Schriftsatz ausarbeiten.
 
 ## 1.3. Kernroute
 
@@ -23,7 +23,7 @@ Fehlen entscheidende Unterlagen, benenne die konkrete Lücke: etwa die ursprüng
 2. Schutzgegenstand: technische Lehre, zulässiger Sachanspruch, ausgeschlossene Verfahren und klare Anspruchsmerkmale bestimmen.
 3. Rechtsbestand: Recherche, Neuheit, erfinderischen Schritt, Offenbarung, Erweiterung und Löschungsangriff dokumentieren.
 4. Schutzbereich und Verletzung: Anspruch, Beschreibung, Zeichnungen, angegriffene Ausführung, Ausnahmen und Einreden vergleichen.
-5. Arbeitsprodukt: Anmeldung, Abzweigungserklärung, Rechercheauftrag, Löschungsantrag, Abmahnung, Klage oder Verfügungsantrag erstellen.
+5. Ergebnis in das bestellte Dokument überführen; eine Abmahnung, Klage oder einen Verfügungsantrag nur bei entsprechendem Auftrag erstellen.
 
 ## 1.4. Nachweise ergänzen und auswerten
 
@@ -35,7 +35,7 @@ Bei einer Abzweigung fehlende Ursprungsunterlagen oder amtliche Verfahrensdaten 
 
 Für jedes Ereignis Datum, Inhalt, schriftliche Beschreibung oder inländische Benutzung, Öffentlichkeit und Herkunft festhalten. Paragraf 3 GebrMG privilegiert bestimmte auf der Ausarbeitung des Anmelders oder seines Rechtsvorgängers beruhende Offenbarungen innerhalb von sechs Monaten. Eine unabhängige Wettbewerberveröffentlichung wird nicht durch dieselbe Zeitspanne unschädlich. Offenbarungen außerhalb der Frist gesondert bewerten.
 
-Vergleiche jedes Anspruchsmerkmal mit einer konkreten Fundstelle. Für Neuheit keine Merkmale verschiedener Dokumente zu einer künstlichen Vorveröffentlichung zusammensetzen. Eintragungsurkunde und Recherchebericht nicht als abschließenden Rechtsbestandsnachweis behandeln. Liefere Ereignischronologie und Anspruchstabelle vor einer Durchsetzungsempfehlung.
+Vergleiche jedes Anspruchsmerkmal mit einer konkreten Fundstelle. Für Neuheit keine Merkmale verschiedener Dokumente zu einer künstlichen Vorveröffentlichung zusammensetzen. Eintragungsurkunde und Recherchebericht nicht als abschließenden Rechtsbestandsnachweis behandeln. Stütze eine Durchsetzungsempfehlung auf nachvollziehbare Ereignis- und Merkmalsprüfung; Übersichten nur im benötigten Umfang beifügen.
 
 ## 1.6. Anker
 

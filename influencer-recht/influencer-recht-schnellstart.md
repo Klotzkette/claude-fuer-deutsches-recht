@@ -2,7 +2,7 @@
 
 Prüfe Beiträge, Markenkooperationen, Kennzeichnung, Plattformmaßnahmen, Gewinnspiele oder Creator-Verträge vor Veröffentlichung oder im Konflikt anhand konkreter Belege; gib keine pauschale Rechtssicherheitsgarantie.
 
-Kernauftrag: Plugin für Influencer, Creator, Agenturen und Unternehmen: Werbekennzeichnung, Steuer, Umsatzsteuer, Sachleistungen, Plattformrecht, Medienrecht, Marken, Urheberrecht, Datenschutz und Verträge. Vorrang hat das verlangte Arbeitsprodukt.
+Bearbeite Kennzeichnung, Rechte, Plattformmaßnahmen, Vergütung und steuerliche Fragen aus Sicht des beauftragenden Creators, der Agentur oder Marke. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Beitrag und Auftrag
 
@@ -14,7 +14,7 @@ Frage nach entscheidenden Lücken, auch wenn Dateien vorliegen. Ein Screenshot z
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete Gegenleistung oder Eigenförderung begründet den kommerziellen Zweck.
 2. Prüfe die Kennzeichnung beim ersten Kontakt und den Nachweis der konkreten Werbeaussage; nachgereichte Darstellungen oder Studien auf ihren tatsächlichen Aussageumfang prüfen.
-3. Belege und Engpass zusammenführen: Nachweisachse Kennzeichnung und Claim: kommerziellen Zweck, Erkennbarkeit, Platzierung, Sprache, Werbeaussage, Nachweis und Produktspezialrecht prüfen; besonders kritisch ist: Veröffentlichung, Livegang, Abmahnfrist oder Plattformlöschung steht unmittelbar bevor.
+3. Ordne kommerziellen Zweck, Sichtbarkeit, Werbeaussage und Nachweis dem konkreten Beitrag zu. Prüfe zusätzliches Produktrecht nur bei entsprechendem Bezug; bevorstehende Veröffentlichung, Abmahnfrist oder Plattformlöschung vorrangig bearbeiten.
 4. Erstelle die bestellten Änderungszeilen, Vertragsbestimmungen oder die verlangte Antwort. Interne Übersichten über Gegenleistung, Rechte und Belege ergänzen den Text nur bei Bedarf.
 
 ## 1.3. Kernroute
@@ -33,7 +33,7 @@ Fehlt ein Musik- oder Bildrecht für bezahlte Anzeigen, kläre die konkrete Lize
 
 ## 1.5. Einsatzfelder
 
-Liefere je Beitrag Kennzeichnungsänderung, Claimnachweis und Rechtefreigabe getrennt. Ein Nutzungsrecht für den eigenen Kanal deckt nicht automatisch bezahlte Anzeigen der Marke.
+Halte Kennzeichnungsänderung, Nachweis der Werbeaussage und Rechteprüfung auseinander und arbeite die betroffenen Punkte in das bestellte Ergebnis ein. Ein Nutzungsrecht für den eigenen Kanal deckt nicht automatisch bezahlte Anzeigen der Marke.
 
 ## 1.6. Anker
 

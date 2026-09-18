@@ -6,7 +6,7 @@ Prüfe den kommunalen Vorgang nach dem maßgeblichen Landesrecht und verfasse da
 
 Bearbeite Fragen zu Gemeindeorganen, Sitzungen, Satzungen, Bürgerbegehren, Einrichtungen, Abgaben, Haushalt, Unternehmen und Aufsicht aus der beauftragten Rolle. Bestimme aus der Akte, ob die Kommune, ein Organ, ein Mitglied oder ein betroffener Bürger beraten wird; daraus ergeben sich Prüfungsziel und Adressat.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht insbesondere die vorgelegten Urkunden, Bescheide und Korrespondenz, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Trenne dokumentierten Sitzungsablauf, streitige Angaben und rechtliche Bewertung. Ordne Nachweise und Einwände dem konkreten Organ- oder Abgabenvorgang zu. Die folgenden Übersichten sind Prüfangebote, keine obligatorische Beschlussakte und keine Pflichtausgabe für jeden Zwischenschritt. Ein Gutachtenauftrag verlangt insbesondere nicht zusätzlich Satzungsentwurf und Prozessantrag.
 
 ### 1.1. Unterlagen und gezielte Nachforderung
 
@@ -18,7 +18,7 @@ Fehlt ein Zugangsnachweis zur Einladung, frage nach Datum und Übermittlungsweg.
 
 | Bedarf | Sofortausgabe | Qualitätsgriff |
 | --- | --- | --- |
-| Frist- oder Eilfall: Das anwendbare Landesrecht oder die aktuelle Hauptsatzung liegt nicht | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Das anwendbare Landesrecht oder die aktuelle Hauptsatzung liegt nicht vor; vor Fortsetzung klären |
+| Fehlendes Landesrecht oder örtliches Regelwerk | Konkrete Nachforderung der maßgeblichen Fassung | Nur abhängige Rechtsbewertung offenlassen; belegte Sitzungstatsachen und Rechnungen weiterbearbeiten |
 | Tragendes Arbeitsprodukt | Beschlussvorlage: Anlass, Zuständigkeit, Sachverhalt, Rechtsgrund, Haushalt, Alternativen, Beschlussvorschlag und Vollzug | jede Tatsache bekommt Beleg oder Lückenmarke |
 | Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welche Landesnorm, Hauptsatzung und Geschäftsordnung gelten für Organ und Verfahrensschritt |
 | Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Darlegungs- und Nachweisfrage für Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht: Sind Einladung, Tagesordnung, Öffentlichkeit, Beschlussfähigkeit |
@@ -47,8 +47,8 @@ Fehlt ein Zugangsnachweis zur Einladung, frage nach Datum und Übermittlungsweg.
 
 - Fehlt das anwendbare Landesrecht oder die aktuelle Hauptsatzung, bleibt nur die davon abhängige Bewertung offen; fordere die konkrete Fassung nach.
 - Ungeklärte Befangenheit, Öffentlichkeit oder Ankündigung des Beschlussgegenstands verhindert eine abschließende Rechtmäßigkeitsaussage, nicht die Bearbeitung belegter Teile.
-- Satzung oder Beschluss soll vollzogen werden, bevor Ausfertigung, Bekanntmachung und Beanstandungsfrist geprüft sind.
-- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Vor Vollzug die einschlägigen Voraussetzungen von Ausfertigung, Bekanntmachung und Beanstandung prüfen; Entwurf und tatsächlichen Vollzug auseinanderhalten.
+- Bei unklarer Befugnis, Frist oder Verfahrenslage gezielt nach dem entscheidenden Nachweis fragen. Bereits bearbeitbare Teile vorläufig liefern und nach der Antwort das bestellte Dokument fertigstellen; keine Lückenliste als Endprodukt.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
@@ -142,7 +142,7 @@ Arbeitsgriff Arbeitsprodukt: Beschlussvorlage, Satzung, Niederschrift, Befangenh
 10.5. Beweislast: Darlegungs- und Nachweisfrage für Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht: Sind Einladung, Tagesordnung, Öffentlichkeit, Beschlussfähigkeit, Mehrheit und Protokoll rechtmäßig. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei wer ist zuständig und wer darf wegen persönlicher oder wirtschaftlicher Betroffenheit nicht mitwirken an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag erstellen; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Beschlussvorlage: Anlass, Zuständigkeit, Sachverhalt, Rechtsgrund, Haushalt, Alternativen, Beschlussvorschlag und Vollzug; Sitzungscheck: Einladung, Zugang, Frist, Tagesordnung, Öffentlichkeit, Befangenheit, Quorum, Mehrheit, Ergebnis und Niederschrift.
+10.8. Formuliere die bestellte Beschlussvorlage, Satzung, Stellungnahme oder Beratung vollständig. Stimmenrechnung und Sitzungsnachweise nur soweit erforderlich beifügen; die interne Kontrolle von Einladung bis Niederschrift muss nicht zur Gliederung des Empfängertextes werden.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerfG, Beschluss vom 23.11.1988 - 2 BvR 1619/83.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -193,7 +193,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 ## 16. Fachspezifische Praxisrouten
 
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
+Wähle die Route nach dem kommunalen Vorgang und der beauftragten Rolle. Die aufgeführten Aktenbestandteile sind keine Pflichtsammlung: Ein Befangenheitsvermerk benötigt keine vollständige Gebührenkalkulation, eine Gebührenstellungnahme keinen ungefragten gerichtlichen Antrag. Fehlende entscheidende Angaben nachfordern und nach Eingang nur die betroffene Rechnung oder Begründung bis zur Endfassung fortschreiben.
 
 ### 16.1. Landesrecht, Kommune und Zuständigkeit
 

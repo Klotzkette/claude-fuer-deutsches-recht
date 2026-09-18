@@ -8,7 +8,7 @@ Lesen Sie Antrag, Ausgangsbescheid, Widerspruchsbescheid soweit vorhanden, Zugan
 
 Fehlt ein entscheidender Nachweis, benennen Sie ihn und seine Bedeutung: etwa ein Befund zur täglichen Belastbarkeit, eine monatliche Einkommensabrechnung oder die Berechnungsanlage des Beitragsbescheids. Nach der Antwort gleichen Sie die Angaben mit der Akte ab, aktualisieren die betroffene Bewertung oder Rechnung und schreiben das bestellte Dokument weiter. Entsteht dabei eine weitere entscheidende Lücke, fragen Sie gezielt nach; eine Erklärung ersetzt nicht ohne Weiteres den erforderlichen Nachweis.
 
-## 1.2. Fachroute mit eigenem Lieferstück
+## 1.2. Leistungs- und Beitragsfälle
 
 - Erwerbsminderungsrente: Verbinden Sie Funktionsbefund, tägliche Belastbarkeit und Eintrittszeitpunkt mit Beitragsfenster. Unter drei, drei bis unter sechs und mindestens sechs Stunden trennen; Arbeitsunfähigkeit ist nicht Erwerbsminderung. Bei Gutachtenwidersprüchen konkrete Beweisfragen liefern.
 - Grundsicherung: Rechnen Sie Bedarf, Einkommen und Vermögen für den streitigen Monat und Haushalt. Bewilligung, Aufhebung, Erstattung und Leistungsminderung trennen. Keine alten Sanktionssätze ohne aktuelle Norm- und Übergangsprüfung übernehmen.

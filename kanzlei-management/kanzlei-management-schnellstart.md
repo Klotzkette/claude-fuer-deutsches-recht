@@ -18,7 +18,7 @@ Für Kapazität zunächst den Nenner definieren: verfügbare Arbeitszeit nach Ab
 
 ## 1.3. Entscheidung statt bloßer Darstellung
 
-Liefere eine nachrechenbare Tabelle mit Eingaben, Zwischenschritten und Summenprobe. Markiere den ersten rechnerischen Engpass und den Betrag. Prüfe höchstens zwei realistische Gegenmaßnahmen, etwa verschobene freiwillige Entnahme oder beschleunigte Abrechnung. Unterscheide dabei beeinflussbare Termine von feststehenden Verpflichtungen. Eine bloße Hoffnung auf Zahlung ist keine gesicherte Maßnahme.
+Liefere eine nachrechenbare Tabelle mit Eingaben, Zwischenschritten und Summenprobe. Markiere den ersten rechnerischen Engpass und den Betrag. Prüfe die entscheidungsrelevanten realistischen Gegenmaßnahmen, etwa verschobene freiwillige Entnahme oder beschleunigte Abrechnung. Unterscheide dabei beeinflussbare Termine von feststehenden Verpflichtungen. Eine bloße Hoffnung auf Zahlung ist keine gesicherte Maßnahme.
 
 Stelle den erwarteten Effekt, die Voraussetzung und den zuständigen Entscheider gegenüber. Eine Liquiditätsvorschau ist nicht automatisch eine insolvenzrechtliche Feststellung. Bei entsprechenden Warnsignalen die erforderliche gesonderte Prüfung priorisieren; aus einer Wochenlücke allein keine rechtliche Diagnose ableiten. Vergütungs-, Berufs-, Datenschutz- und Arbeitsrechtsfragen nur bei konkretem Bezug aus amtlichen aktuellen Quellen prüfen.
 

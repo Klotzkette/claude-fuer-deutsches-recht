@@ -11,7 +11,7 @@ Ordnet einen neuen PrALR-Auftrag nach Quelle, historischer Frage und gewünschte
 
 ## 2. Eingaben
 
-Vorhandene Akte oder Textstelle, Erkenntnisziel, historischer Ort und Zeitraum. Vorhandenes Material zuerst lesen. Nur eine entscheidende Lücke gebündelt nachfragen; ungesicherte Angaben sichtbar offenlassen.
+Vorhandene Akte oder Textstelle, Erkenntnisziel, historischer Ort und Zeitraum. Lies vorhandenes Material zuerst und übernimm bereits geklärte Angaben. Frage gezielt nach entscheidenden Lücken; ungesicherte Angaben bleiben offen.
 
 ## 3. Ablauf
 
@@ -19,13 +19,15 @@ Vorhandene Akte oder Textstelle, Erkenntnisziel, historischer Ort und Zeitraum. 
 
 Material zuerst lesen. Bei unklarem Auftrag nur nach der ergebnisentscheidenden Lücke fragen. Textproblem, damalige Fallanwendung und heutige Anschlussfrage unterscheiden; keine Frist oder Geldforderung unterstellen. Andere Rechtsgebiete nur bei einer tatsächlichen Anschlussfrage heranziehen.
 
+Fehlt etwa die Folgeseite mit einer Ausnahme, frage nach dieser Seite und bearbeite die lesbaren Teile vorläufig. Nach Eingang prüfe die Ausnahme im Zusammenhang und ändere Lesung, Auslegung und Fallbewertung gemeinsam. Ergibt sich eine neue entscheidende Geltungsfrage, kläre sie in einer weiteren kurzen Runde; frage nicht erneut nach bereits bestimmter Ausgabe und Fundstelle.
+
 ### 3.2. Zeit- und Geltungsgrenze
 
 Maßstab sind Ort, Zeit und konkrete Fassung des historischen Falls. Heutiges Recht nur bei ausdrücklich verlangtem Vergleich oder einer tatsächlichen Anschlussfrage gesondert prüfen. Kein festes Gegenwartsjahr und kein allgemeiner BGB-Normenradar. Normtext, damalige Anwendungspraxis und spätere Rezeption getrennt ausweisen.
 
 ### 3.3. Vertiefung bei Bedarf
 
-Die folgenden Materialien sind bewahrte frühere Arbeitsentwürfe, keine zusätzlichen auswählbaren Skills und keine geprüften Primärquellen. Nur die zur konkreten Teilfrage passende Datei laden, nicht alle Fassungen vorsorglich. Fachfremde Normenradare wurden entfernt; verbliebene Altzitate, Fristen und Falllösungen müssen vor Verwendung verifiziert werden.
+Die folgenden optionalen Materialien sind bewahrte frühere Arbeitsentwürfe, keine zusätzlichen auswählbaren Skills und keine geprüften Primärquellen. Nur die zur konkreten Teilfrage passende Datei laden, nicht alle Fassungen vorsorglich. Ohne Zugriff anhand der vorstehenden Quellen- und Geltungsprüfung weiterarbeiten; verbliebene Altzitate, Fristen und Falllösungen müssen vor Verwendung verifiziert werden.
 
 - Bei Fragen zu „PrALR - Allgemeiner Einstieg“: [Fachmaterial](references/allgemein.md).
 - Bei Fragen zu „PrALR - Allgemeiner Einstieg“: [ergänzende Fassung 2](references/kaltstart-triage.md).
@@ -41,6 +43,10 @@ Die folgenden Materialien sind bewahrte frühere Arbeitsentwürfe, keine zusätz
 ## 5. Ausgabeformat
 
 Das verlangte Arbeitsprodukt in vollständigen, ausformulierten Sätzen liefern; keine Skelette, Halbsätze oder reine Stichwortausgabe. Gesicherten Textbefund, historische Bewertung, Gegenbefund und offene Quelle erkennbar trennen. Tabellen nur für echte Vergleiche oder Belege verwenden. Formatierte Dokumente: Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown als Exporthinweis nennen.
+
+Nach neuen Quellen am bestehenden Entwurf bis zur bestellten Analyse oder Lehrunterlage weiterarbeiten. Ein heutiger Schriftsatz ist nur bei entsprechender Anschlussfrage zu erstellen. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist ein möglicher Standard ohne andere Vorgabe.
+
+Zusätzliche Abrufvermerke können getrennt stehen; zum Auftrag gehörende Quellenkritik bleibt im Ergebnis. Ohne Zugriff fordere die benötigte Passage an, ohne Export liefere Text und behaupte keine ungelesene Originalprüfung. Externe Anfragen, Veröffentlichungen oder Einreichungen benötigen Freigabe.
 
 ## 6. Beispiel
 

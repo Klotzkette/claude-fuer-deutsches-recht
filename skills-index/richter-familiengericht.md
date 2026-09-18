@@ -1,6 +1,6 @@
 # richter-familiengericht
 
-**14 Skills** · Stand `v444.5.3`
+**14 Skills** · Stand `v444.6.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gerichtsplugins/richter-familiengericht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

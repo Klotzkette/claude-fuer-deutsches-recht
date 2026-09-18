@@ -3,101 +3,44 @@ name: 99-finale-entscheidung-volltext
 description: "Für Finale Entscheidung als Volltext (Beschluss Handelsregister): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Finale Entscheidung als Volltext (Beschluss Handelsregister)
+# 1 Registerentscheidung vollständig ausformulieren
 
-## Zweck
+Erstelle aus der Registerakte den beauftragten vollständigen Entscheidungsentwurf. Unterscheide Eintragungsverfügung, Zwischenverfügung und ablehnenden Beschluss; der Entwurf ersetzt weder die gerichtliche Entscheidung noch den Vollzug.
 
-Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern als versandfertigen Volltext im richtigen Layout — so, wie er das Gericht verlassen würde. Die Entscheidung wird zur Unterschrift fertig gebaut: mit Rubrum, vollständigem Tenor, Tatbestand oder Sachverhalt, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung.
+## 1.1 Unterlagen und Entscheidungsreife
 
-Gegenstand: Beschluss in einer Handelsregistersache.
+Lies Anmeldung, Urkunden, Registerstand, bisherige Verfügungen und Antworten. Nutze vorhandene Prüfungen, soweit sie zur aktuellen Akte passen. Andere Skills müssen nicht zuvor durchlaufen werden.
 
-## Rechtlicher Rahmen
+Kläre fehlende entscheidende Angaben gezielt, etwa den Inhalt einer angekündigten Urkunde oder die Reaktion auf eine konkrete Zwischenverfügung. Fehlende Namen oder Daten sichtbar markieren; eine ungeklärte materielle Voraussetzung nicht durch einen Platzhalter als erfüllt darstellen.
 
-Paragrafen 8 ff. HGB; Paragrafen 374 ff. FamFG (Registerverfahren); Paragrafen 38, 39 FamFG für Beschlussform und Begründung.
+## 1.2 Entscheidungsform bestimmen
 
-## Eingangsvoraussetzungen
+Prüfe Paragrafen 8 ff. HGB und 374 ff. FamFG im konkreten Registervorgang. Nach Paragraf 382 FamFG sind Stattgabe durch Eintragung, ablehnender Beschluss und Zwischenverfügung zu unterscheiden. Eine vorbereitete Eintragung ist noch nicht vollzogen.
 
-Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein. Insbesondere müssen vorliegen:
+Bei einem behebbaren Hindernis benenne Mangel, Rechtsgrundlage, Abhilfe und angemessene Frist. Nicht jedem Hindernis ungeachtet seiner Behebbarkeit eine Nachfrist zuordnen. Bei einer Zurückweisung erläutere die fehlende Eintragungsvoraussetzung und den bisherigen Verfahrensgang.
 
-- Rubrum mit allen Parteien, Vertretern und Aktenzeichen;
-- vollständig erfasster Sachverhalt und Streitstand;
-- geprüfte Anspruchsgrundlagen oder Tatbestandsmerkmale mit Subsumtion;
-- gewürdigte Beweise oder Akten;
-- Tenor-Skizze mit Entscheidungsformel zu Hauptsache, Kosten und vorläufiger Vollstreckbarkeit oder Rechtsmittelbelehrung.
+## 1.3 Volltext schreiben
 
-Fehlt eines dieser Stücke, weist der Skill darauf hin und unterbricht die Volltext-Erstellung, bevor er Phantasie produziert.
+Bezeichne Gericht, Aktenzeichen, Beteiligte und Gegenstand zutreffend. Verwende nur tatsächliche Entscheidungsdaten; keine Verkündung oder Unterschrift erfinden. Der Verfügungssatz muss die konkrete Anmeldung erfassen, statt nur allgemein eine antragsgemäße Eintragung zu behaupten.
 
-## Aufbau des Volltextes
+Stelle den entscheidungserheblichen Sachverhalt und die tragenden Gründe knapp dar. Ordne streitige Angaben und Urkunden den geprüften Voraussetzungen zu. Prüfe bei einem Beschluss Form und Belehrung nach Paragrafen 38 und 39 FamFG sowie die einschlägigen Kostenregeln. Zivilprozessuale Formeln zur vorläufigen Vollstreckbarkeit oder strafrechtliche Feststellungen gehören nicht automatisch in eine Registerentscheidung.
 
-### 1. Briefkopf und Rubrum
+## 1.4 Nach Antworten weiterarbeiten
 
-Gerichtsbezeichnung in der ersten Zeile (zum Beispiel „Amtsgericht München"), Aktenzeichen, Verkündungsdatum, vollständiges Rubrum mit Parteien, Prozessbevollmächtigten, Streitgegenstand und Spruchkörper.
+Ist nur ein Teil entscheidungsreif, liefere diesen als vorläufigen Entwurf und stelle die konkret verbleibende Frage. Nach Eingang einer Urkunde oder Antwort aktualisiere die betroffene Voraussetzung, Gründe und Verfügungssatz zusammen.
 
-### 2. Tenor (Entscheidungsformel)
+Erledigte Hindernisse nicht wiederholen. Ergibt sich eine neue entscheidende Unklarheit, frage gezielt nach; ansonsten den bestellten Volltext abschließen. Gehör, Beschwerdegegenstand und erforderliche Abhilfeprüfung anhand des tatsächlichen Verfahrensstands kontrollieren.
 
-Der Tenor wird vollständig ausformuliert. Er ist die rechtskraftfähige Anordnung. Beispiel für diesen Spruchkörper:
+## 1.5 Quellen, Form und Abschluss
 
-1. Die Eintragung wird antragsgemaess vorgenommen.
-2. Die Kosten der Eintragung traegt die Antragstellerin.
+Verifiziere tragende Normen und Entscheidungen amtlich; optional ergänzt `references/zitierweise.md` die Zitierweise. Zusätzliche Recherche- und Bearbeitungsvermerke getrennt vom Entscheidungstext halten.
 
-Der Tenor enthält zwingend: Hauptausspruch zur Sache, Kostenentscheidung, ggf. Aussprache zur vorläufigen Vollstreckbarkeit, ggf. Streitwertfestsetzung.
+Liefere vollständige, präzise Sätze mit echten Umlauten und ausgeschriebenem Paragraf. Dezimal gliedern; bei formatierten Dokumenten möglichst Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Default.
 
-### 3. Tatbestand oder Sachverhalt
+Kontrolliere die Übereinstimmung von Anmeldung, Urkunden, Gründen und Verfügungssatz sowie die erforderlichen Kosten- und Belehrungsangaben. Eine noch entscheidungserhebliche Lücke verhindert die Bezeichnung als unterschriftsreife Endfassung, nicht die Bearbeitung aller übrigen Teile.
 
-Knappe, sachlich-distanzierte Darstellung des unstreitigen Sachverhalts und des streitigen Parteivortrags. Bei Beschlüssen entsprechend „Gründe I."; bei Strafurteilen die Feststellungen zum Tatgeschehen. Verwende den Imperfekt für Geschehensschilderung, das Präsens für Antrag und Verfahrensstand.
+## 1.6 Beispiel und Grenzen
 
-### 4. Entscheidungsgründe
+Wird ein zunächst fehlender Vertretungsnachweis vorgelegt, prüfe seinen Inhalt und ändere die Zwischenverfügung nicht bloß redaktionell: Entscheide im Entwurf, ob die Anmeldung nun eintragungsreif ist oder welches konkrete Hindernis verbleibt.
 
-Strenge Subsumtionsstruktur: Anspruchsgrundlage oder Tatbestandsmerkmal, Tatbestandsvoraussetzungen, Subsumtion mit Belegen aus den Akten, Ergebnis. Einreden und Einwendungen am Ende der jeweiligen Prüfungsebene. Bei Strafurteilen Beweiswürdigung und Strafzumessung getrennt darstellen.
-
-### 5. Nebenentscheidungen
-
-Kosten, vorläufige Vollstreckbarkeit, Streitwertfestsetzung. Bei Familien- und Sozialsachen die jeweils einschlägigen Kostenregeln.
-
-### 6. Rechtsmittelbelehrung
-
-Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat. Niemals weglassen, niemals abkuerzen.
-
-### 7. Unterschriftenzeile
-
-Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
-
-## Prozessuale Glanzkontrolle
-
-Vor der finalen Entscheidung wird zwingend geprüft:
-
-1. Eintragung, Zwischenverfügung und Zurückweisung sind sauber getrennt.
-2. Das Hindernis ist konkret, behebbar oder unbehebbar eingeordnet und mit Frist versehen.
-3. Anhörung und rechtliches Gehör sind gewahrt.
-4. Der Prüfungsumfang ersetzt keine streitige Zivilentscheidung.
-5. Beschwerde und Abhilfe werden mit tragender Begründung behandelt.
-
-## Format und Stil
-
-- Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).
-- Sachlich, knapp, in deutscher Gerichtssprache.
-- Generisches Maskulinum.
-- Paragrafenzeichen ausgeschrieben als „Paragraf".
-- Aktenzeichen Punkt- oder Schrägstrich-Stil, niemals Komma.
-- Keine Doppelsterne für Fettschrift im Fliesstext.
-
-## Ergebnis
-
-Ein vollständiger, versandfertiger Entscheidungstext, der von Rubrum bis Unterschrift alles enthält. Der Spruchkörper kann ihn unterschreiben — oder vor der Unterschrift redaktionell pruefen. Bei offenen Lückenpunkten bleibt der Volltext stehen, die Lücken werden in eckigen Klammern markiert und am Ende in einer Lücken-Liste zusammengefasst.
-
-## Eigenkontrolle
-
-Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
-
-1. Stimmt der Tenor mit den Entscheidungsgründen überein?
-2. Ist die Kostenentscheidung folgerichtig?
-3. Ist die Rechtsmittelbelehrung vollständig und richtig?
-4. Sind alle Parteibezeichnungen einheitlich?
-5. Sind alle Daten, Aktenzeichen und Betraege widerspruchsfrei?
-6. Sind alle Lückenpunkte explizit markiert?
-
-Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkunde, Vertretungsnachweis, Registerstand, Eintragungshindernis und Zwischenverfügung. Er trennt behebbare Formmängel von materiellen Hindernissen und benennt die nächste Registerverfügung.
+Aktengeheimnis und richterliche Unabhängigkeit wahren; Unterzeichnung und Registervollzug bleiben den zuständigen Menschen vorbehalten. Externe Übermittlung nur nach ausdrücklicher Freigabe. Fehlende Zugriffe und nicht erzeugte Dateien offen benennen.

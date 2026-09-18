@@ -1,7 +1,72 @@
 {
-  "schema_version":1,"plugin":"betaeubungsmittelrecht","reviewed_on":"2026-09-14",
-  "sources":[{"url":"https://www.gesetze-im-internet.de/btmg_1981/__29a.html","checked_on":"2026-09-14","supports":"Nicht geringe Menge als eigenes Merkmal der dort genannten Tatvarianten; keine Grenzwerte im Gesetzestext."}],
-  "mini_review":{"sha256":"858ea6d31bc37863655ee595ce86a066e8f4efee5b5e8b13f65c3e2750a2e632","verdict":"revised","reason":"Der vollständige Mini enthielt allgemeines Strafprozessrouting und Glaubhaftigkeitsentscheidungen, aber keine belastbare Stoff- und Mengenarbeit. Der Kokain-Mengenskill wurde für eine konkrete Asservat- und Laborprüfung ausgewertet.","changes":["Stoffrecht, Handlung und Nachweis getrennt.","Brutto-, Netto- und Wirkstoffmenge mit Bezugsgröße und Unsicherheit konkretisiert.","Grenzwerte an gesonderte amtliche Rechtsprechungsverifikation gebunden statt ungeprüft vorgegeben." ]},
-  "selection":{"positive":["Prüfen Sie den Vorwurf einer nicht geringen Kokainmenge anhand von Sicherstellung und Laborbericht.","Bewerten Sie eine betäubungsmittelrechtliche Verschreibungsdokumentation in unserer ärztlichen Praxis."],"negative":["Prüfen Sie einen allgemeinen Betrugsvorwurf ohne Stoffbezug.","Erstellen Sie eine Werbekampagne für Nahrungsergänzungsmittel ohne arzneimittelrechtliche Fragestellung."]},
-  "cases":[{"id":"nettomenge-ohne-laborwert","request":"Gegen Herrn Adler wird wegen Besitzes von Kokain in nicht geringer Menge ermittelt. Das Sicherstellungsprotokoll nennt einen Beutel mit weißem Pulver, 12 Gramm einschließlich Verpackung. Das Verpackungsgewicht wurde nicht ermittelt. Ein Schnelltest reagierte positiv auf Kokain; ein Laborbericht ist noch nicht vorhanden. Der Polizeivermerk setzt die 12 Gramm als reine Kokainmenge an. Adler hat sich nicht geäußert. Es gibt keine Angaben zu Verkauf, weiteren Asservaten oder einer Erlaubnis. Erstellen Sie für die Verteidigung einen internen Prüfvermerk und eine gezielte Anforderung der noch nötigen Untersuchungsunterlagen. Keine Einlassung formulieren und keine Reinheit schätzen.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Der Vermerk behandelt 12 Gramm einschließlich Verpackung nicht als Nettostoff- oder reine Wirkstoffmenge und legt die fehlenden Bezugsgrößen offen.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Die positive Schnelltestreaktion wird nicht als quantitativer Laborbefund behandelt; angefordert werden konkret Nettowägung und quantitative Wirkstoffbestimmung samt Probenzuordnung.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Das Ergebnis lässt den qualifizierten Mengennachweis offen, ohne daraus automatisch erwiesene Unschuld, Handel oder ein Geständnis abzuleiten; es enthält keine erfundene Reinheitsannahme.","deliverables":["ergebnis.md"]}],"target_skill":"kokain-menge-einordnen"}]
+  "schema_version": 1,
+  "plugin": "betaeubungsmittelrecht",
+  "reviewed_on": "2026-09-18",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/btmg_1981/__29a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Nicht geringe Menge als eigenes Merkmal der dort genannten Tatvarianten; keine Grenzwerte im Gesetzestext."
+    }
+  ],
+  "mini_review": {
+    "sha256": "c1d768f121410e42fc1bfa258d66b39a6cc5f1748c19970209637b8ff561dcfe",
+    "verdict": "revised",
+    "reason": "Der vollständige Mini wurde auf Asservat-, Stoff- und Wirkstoffbezug statt pauschaler Strafrechtsrouten geprüft.",
+    "changes": [
+      "Nach Labor- oder Mengenklärung die betroffenen Berechnungen und Verteidigungsausführungen fortführen."
+    ]
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie den Vorwurf einer nicht geringen Kokainmenge anhand von Sicherstellung und Laborbericht.",
+      "Bewerten Sie eine betäubungsmittelrechtliche Verschreibungsdokumentation in unserer ärztlichen Praxis."
+    ],
+    "negative": [
+      "Prüfen Sie einen allgemeinen Betrugsvorwurf ohne Stoffbezug.",
+      "Erstellen Sie eine Werbekampagne für Nahrungsergänzungsmittel ohne arzneimittelrechtliche Fragestellung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "nettomenge-ohne-laborwert",
+      "request": "Gegen Herrn Adler wird wegen Besitzes von Kokain in nicht geringer Menge ermittelt. Das Sicherstellungsprotokoll nennt einen Beutel mit weißem Pulver, 12 Gramm einschließlich Verpackung. Das Verpackungsgewicht wurde nicht ermittelt. Ein Schnelltest reagierte positiv auf Kokain; ein Laborbericht ist noch nicht vorhanden. Der Polizeivermerk setzt die 12 Gramm als reine Kokainmenge an. Adler hat sich nicht geäußert. Es gibt keine Angaben zu Verkauf, weiteren Asservaten oder einer Erlaubnis. Erstellen Sie für die Verteidigung einen internen Prüfvermerk und eine gezielte Anforderung der noch nötigen Untersuchungsunterlagen. Keine Einlassung formulieren und keine Reinheit schätzen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Vermerk behandelt 12 Gramm einschließlich Verpackung nicht als Nettostoff- oder reine Wirkstoffmenge und legt die fehlenden Bezugsgrößen offen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die positive Schnelltestreaktion wird nicht als quantitativer Laborbefund behandelt; angefordert werden konkret Nettowägung und quantitative Wirkstoffbestimmung samt Probenzuordnung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Ergebnis lässt den qualifizierten Mengennachweis offen, ohne daraus automatisch erwiesene Unschuld, Handel oder ein Geständnis abzuleiten; es enthält keine erfundene Reinheitsannahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "kokain-menge-einordnen"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständige Werkstatt wurde einschließlich ihrer Stoff-, Therapie- und Apothekenthemen gelesen.",
+    "changes": [
+      "Laborbezogene Beweisfragen eingebaut; Bandenbezug und bewaffnetes Handeltreiben nicht als identische Qualifikation behandelt."
+    ],
+    "sha256": "34391ddbdab2d4254e4bd20cc982e8f798123d04b6d82d7fab2f32670c25c1c9"
+  }
 }

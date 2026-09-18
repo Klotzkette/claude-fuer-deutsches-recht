@@ -13,7 +13,7 @@ Fehlen die einschlägige Ordnungsfassung oder ein Zustellnachweis, fordere genau
 ## 1.2. Vom Nachweis zum fertigen Schreiben
 
 1. Ordne streitige Angaben dem konkreten Vorfall, Protokoll oder Bewertungsbestandteil zu. Bereits bekannte Grunddaten nicht erneut erfragen.
-2. Benenne die entscheidende Lücke, etwa fehlende Anhörung, nicht vorgelegte Klassenarbeit oder unklare Dauer einer Maßnahme. Frage danach, statt pauschal die ganze Schulakte zu verlangen.
+2. Benenne die entscheidende Lücke, etwa einen fehlenden Anhörungsnachweis, eine nicht vorgelegte Klassenarbeit oder die unklare Dauer einer Maßnahme. Frage danach, statt pauschal die ganze Schulakte zu verlangen; aus einem fehlenden Nachweis keine unterbliebene Anhörung ableiten.
 3. Nach Eingang gleiche neue Angaben mit bisherigen Belegen und Gegenposition ab. Aktualisiere die betroffene Einwendung, Frist, Kostenrechnung oder beantragte Anpassung.
 4. Schreibe das bestellte Dokument fertig. Ergibt die Antwort eine weitere entscheidende Lücke, kläre sie in einer kurzen weiteren Runde; bis dahin den tragfähigen Teil vorläufig liefern.
 

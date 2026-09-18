@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "hochschulrecht-laender",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gg/art_5.html",
@@ -11,13 +11,12 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der bisherige Mini vermischte Schul- und Hochschulrecht und lieferte unabhängig vom Vorgang eine Widerspruchsbegründung.",
+    "reason": "Mini vollständig geprüft: Ordnungsfassung, Bewertung und Gremienstimmen werden konkret nachgefordert; fehlender Nachweis wird nicht mit erwiesenem Verfahrensfehler verwechselt.",
     "changes": [
-      "Institution, Landesrecht und maßgebliche Satzungsfassung vorgezogen.",
-      "Gremien- und Satzungsarbeit neben Prüfungsrecht eigenständig erschlossen.",
-      "Rechtsbehelf nicht mehr pauschal vorgegeben; Eilprüfung statt Bearbeitungsabbruch."
+      "Nach Prüfungsakteneinsicht Einwände an der tatsächlichen Korrektur prüfen und Begründung fertigstellen lassen.",
+      "Nach Anwesenheits- oder Stimmenangaben Mehrheit neu bewerten; Bekanntmachung statt PDF-Datum für Fassungsabgleich verwenden."
     ],
-    "sha256": "40539efa897a601c2b2e4a68448f515baea0d3db3469f30beb3e8a6b0947fd51"
+    "sha256": "aa63f44317a5ecb7124f1d5049f5b260eff566a3a972c247a33cab23b644cb1a"
   },
   "selection": {
     "positive": [
@@ -62,5 +61,15 @@
       ],
       "target_skill": "grundordnung-und-satzung"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Alle Abschnitte von Studium bis Forschungsorganisation und Schluss gelesen. Landesrechtliche Zuordnung bleibt erhalten; Anerkennung, Förderung, Transfer und Gremienfragen haben jeweils passende Fortsetzungen.",
+    "changes": [
+      "Nach Modulbeschreibungen Anerkennungsbegehren und nach Verwendungsnachweis Rückforderungsbetrag beziehungsweise Stellungnahme aktualisieren lassen.",
+      "Rechtevereinbarung und Transferempfänger gezielt klären, ohne ungeprüfte Freigabe.",
+      "Beratung nicht automatisch um Rechtsbehelf erweitert; gute konkrete Fassung beibehalten."
+    ],
+    "sha256": "e6011eb32e118e1876508e666d93e526160529f75330c16039ac843a3e7737c1"
+  }
 }

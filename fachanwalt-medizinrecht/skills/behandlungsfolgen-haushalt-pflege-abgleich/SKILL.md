@@ -50,7 +50,7 @@ Beachte [Zitierweise](../../references/zitierweise.md), soweit verfügbar. Mediz
 
 Erstelle begründete Stundenrechnung, Pflegeabgrenzung, Leistungszuordnung, Haftungsvorbehalt und Eigenanspruch. Den bestellten Zahlungs- oder Erwiderungstext ausformulieren; ein reiner Berechnungsauftrag verlangt keinen zusätzlichen Schriftsatz. Verwende den vom Nutzer gewünschten Dateinamen; fehlt er, gilt `ergebnis.md`.
 
-Nur die zum Verständnis erforderlichen Tabellen beifügen und Quellenprüfvermerke getrennt vom Empfängertext halten. Die Begründung besteht aus vollständigen Sätzen; reine Rechentabellen oder Skelette sind kein Endprodukt. Dezimale Gliederung, Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Medizinische und rechtliche Restfragen gesondert benennen.
+Nur die zum Verständnis erforderlichen Tabellen beifügen und Quellenprüfvermerke getrennt vom Empfängertext halten. Die Begründung besteht aus vollständigen Sätzen; reine Rechentabellen oder Skelette sind kein Endprodukt. Ist ein Export nicht möglich, das bestellte Dokument mit Haushalts- und Pflegeschadensrechnung vollständig als Antworttext ausgeben; keinen angeblichen Dateilink anbieten. Dezimale Gliederung, Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Medizinische und rechtliche Restfragen gesondert benennen.
 
 ## 6. Beispiele
 

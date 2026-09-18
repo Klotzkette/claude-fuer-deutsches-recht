@@ -10,7 +10,7 @@ Paragraf 7 SGB IV nennt Weisungsgebundenheit und Eingliederung als Anhaltspunkte
 
 ## 1.2. Indizien gewichten
 
-Führe „Indiz / Vereinbarung / tatsächliche Praxis / Beleg / Richtung / Gewicht / Gegenargument“. Prüfe Zeit- und Ortsvorgaben, Arbeitsorganisation, Austauschbarkeit, eigene Preisgestaltung, Ausfallrisiko, Personal und Betriebsmittel. Ein hoher Stundensatz allein macht keine unternehmerische Tätigkeit.
+Vergleiche Vereinbarung, tatsächliche Praxis und Beleg für jedes entscheidende Indiz und begründe dessen Gewicht samt Gegenargument. Eine Tabelle nur verwenden, wenn sie den Vergleich erleichtert. Prüfe Zeit- und Ortsvorgaben, Arbeitsorganisation, Austauschbarkeit, eigene Preisgestaltung, Ausfallrisiko, Personal und Betriebsmittel. Ein hoher Stundensatz allein macht keine unternehmerische Tätigkeit.
 
 Bei Geschäftsführern gesellschaftsrechtlich durchsetzbare Rechtsmacht anhand der Satzung prüfen, nicht nur familiären Einfluss oder tatsächliche Rücksichtnahme. Bei Lehrkräften einschlägiges Übergangsrecht zeitbezogen gesondert prüfen; eine Übergangsregel nicht als allgemeines Statusurteil verstehen.
 
@@ -28,6 +28,8 @@ Widerspruchsfrist und Vollziehungswirkung nach Art des Bescheids unterscheiden. 
 
 Liefere ein gewogenes Gesamtbild mit stärkstem Gegenindiz und konkreter Nachforderung, nicht bloß eine Anzahl positiver und negativer Merkmale. Benenne, welche Änderung der Praxis das Ergebnis tatsächlich verändern könnte; keine rückdatierten Verträge oder fingierten Unternehmermerkmale empfehlen.
 
-Bei entscheidenden Lücken einmal gebündelt nachfragen und unabhängige Teile weiterbearbeiten. Fristdruck priorisieren, aber keinen vollständigen Bearbeitungsstopp auslösen. Keine Meldung, Statusbeantragung oder Zahlung selbst vornehmen.
+Fehlen Dienstpläne, Vertretungsnachweise oder die maßgebliche Satzung, gezielt danach fragen und unabhängige Teile vorläufig bearbeiten. Nach Antwort Indiziengewichtung oder Beitragsrechnung aktualisieren und den bestellten Vermerk oder Schriftsatz fertigstellen. Neue entscheidende Lücken kurz klären, bekannte Daten nicht erneut erheben. Fristdruck priorisieren; keine Meldung, Statusbeantragung oder Zahlung selbst vornehmen.
 
 Amtliche Normfassung und zeitlich einschlägige Entscheidungen prüfen; keine Berufsgruppenurteile ohne übertragbaren Sachverhalt zitieren. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge auf dem dokumentierten Praxisstand fortführen.
+
+Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Zusätzliche Quellenstatushinweise getrennt vom Empfängertext führen. Fehlenden Zugriff konkret benennen und keine erzeugte Datei oder externe Freigabe behaupten.

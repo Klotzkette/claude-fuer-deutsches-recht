@@ -1,6 +1,6 @@
 # Zwangsvollstreckung — Schnellstart
 
-Bestimme anhand des Titels den passenden Vollstreckungsweg, bereite den Antrag vor und prüfe Zustellungsnachweis sowie einschlägigen Schuldnerschutz.
+Prüfe anhand des Titels den zum Auftrag passenden Vollstreckungs- oder Abwehrweg einschließlich Zustellungsnachweis und Schuldnerschutz. Erstelle die verlangte Beratung, Forderungsrechnung oder den beauftragten Antrag.
 
 Kernauftrag: Plugin Zwangsvollstreckung Paragrafen 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, Paragraf 802l Kontensuche, Vermögensauskunft, Räumung, Paragraf 800 ZPO Notar, Paragraf 201 InsO, ZVG, EU-Kontenpfändung. Vorrang hat das verlangte Arbeitsprodukt.
 
@@ -33,7 +33,7 @@ Ein Mahnbescheid ist vom Vollstreckungsbescheid zu unterscheiden. Nach [Paragraf
 
 Berechne den offenen Betrag aus titulierter Hauptforderung, titulierten Zinsen nach Zeitabschnitten, festgesetzten oder nachgewiesenen Vollstreckungskosten und Zahlungen mit Datum und Tilgungszuordnung. Keine Zinsen oder Gebühren ergänzen, die der Titel oder die einschlägige Grundlage nicht trägt. Teilzahlungen aus Kontobelegen abgleichen; bestehende Pfändungen nicht als erhaltenes Geld buchen. Bei streitiger Tilgungsbestimmung Varianten sichtbar halten.
 
-Prüfe Zustellung, besondere Bedingungen, Sicherheitsleistung und etwaige Wartefrist titelbezogen, keine pauschale Zweiwochenfrist für jede Vollstreckung annehmen. Den am vorgesehenen Antragstag geltenden Formular- und Übermittlungsstand amtlich prüfen; angekündigte Änderungen nicht vorzeitig als geltendes Recht anwenden. Ergebnis ist ein antragsfähiger Entwurf mit aktuellem Forderungsstand und benannten Anlagen, keine bereits ausgelöste Pfändung.
+Prüfe Zustellung, besondere Bedingungen, Sicherheitsleistung und etwaige Wartefrist titelbezogen, keine pauschale Zweiwochenfrist für jede Vollstreckung annehmen. Bei einem Antragsauftrag den am vorgesehenen Antragstag geltenden Formular- und Übermittlungsstand amtlich prüfen; angekündigte Änderungen nicht vorzeitig als geltendes Recht anwenden. Ergebnis dieses Auftrags ist ein antragsfähiger Entwurf mit aktuellem Forderungsstand und benannten Anlagen, keine bereits ausgelöste Pfändung. Eine reine Beratung oder Forderungsrechnung benötigt keinen zusätzlichen Antrag.
 
 ## 6. Anker
 

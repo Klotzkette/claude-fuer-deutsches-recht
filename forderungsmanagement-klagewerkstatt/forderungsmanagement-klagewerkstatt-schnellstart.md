@@ -17,8 +17,8 @@ Fehlt ein Leistungsnachweis, frage nach der konkreten Lieferung oder Abnahme und
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Forderung ist aus welchem Vertrag fällig.
 2. Prüfe, welche Belege Leistung, Rechnung, Zugang und Verzug tragen und welche Einwendungen substantiiert sind.
-3. Belege und Engpass zusammenführen: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung; besonders kritisch ist: Verjährung, Ausschlussfrist oder Zuständigkeit ist unklar.
-4. Erstes Arbeitsprodukt liefern: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen.
+3. Ordne Darlegung und Beweis der konkreten Anspruchsvoraussetzung oder Einwendung zu; eine pauschale Last für sämtliche Einwendungen genügt nicht. Unklare Verjährung, Ausschlussfrist oder Zuständigkeit vorrangig klären.
+4. Erstelle das bestellte Mahnschreiben, Gutachten, den Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag.
 
 ## 1.3. Kernroute
 
@@ -35,7 +35,7 @@ Fehlt ein Leistungsnachweis, frage nach der konkreten Lieferung oder Abnahme und
 | Normenanker | BGB Paragraf 241 und Paragraf 280; BGB Paragraf 286 und Paragraf 288; BGB Paragraf 362 |
 | Rechtsprechung | BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11; BGH, Urteil vom 04.05.2011 - VIII ZR 171/10 |
 | Tatbestand | Vertrag, Bestellung, Lieferung, Abnahme, Rechnung, Mahnung, Zahlung und Einwendung chronologisch ordnen |
-| Beweislast | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung |
+| Beweislast | Für jede streitige Voraussetzung und Einwendung gesondert bestimmen, einschließlich einschlägiger Vermutungen |
 | Rechtsfolge | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
@@ -43,7 +43,7 @@ Fehlt ein Leistungsnachweis, frage nach der konkreten Lieferung oder Abnahme und
 
 Ordne jede Position einer konkreten Anspruchsgrundlage zu; Paragraf 280 BGB ersetzt keinen vertraglichen Zahlungsanspruch. Trenne Fälligkeit und Verzug. Bei Verbrauchern setzt der Dreißigtageverzug nach Paragraf 286 Absatz 3 BGB den besonderen Rechnungshinweis voraus. Ein einseitig auf die Rechnung gedrucktes Zahlungsziel ist nicht ohne Weiteres eine vertragliche Kalenderbestimmung.
 
-Rechne Hauptforderung, zweckbestimmte Teilzahlungen, Zinszeiträume und Rechtsverfolgungskosten getrennt. Prüfe, ob Verzug bereits vor der kostenverursachenden Beauftragung bestand. Liefere Forderungskonto und begründeten Klageentwurf oder eine konkrete Nachforderung; auch streitige Ansprüche sind prüfbar. Eine interne Klageempfehlung ist keine Einreichungsvollmacht.
+Rechne Hauptforderung, zweckbestimmte Teilzahlungen, Zinszeiträume und Rechtsverfolgungskosten getrennt. Prüfe, ob Verzug bereits vor der kostenverursachenden Beauftragung bestand. Verwende die Rechnung im bestellten Schreiben oder Gutachten; einen Klageentwurf nur bei entsprechendem Auftrag liefern. Eine Nachforderung ist ein Zwischenschritt, kein Ersatz für das nach Klärung fertigzustellende Dokument. Eine interne Klageempfehlung ist keine Einreichungsvollmacht.
 
 ## 1.6. Anker
 
@@ -59,7 +59,7 @@ Rechne Hauptforderung, zweckbestimmte Teilzahlungen, Zinszeiträume und Rechtsve
 1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag.
 1.7.2. Norm: BGB Paragraf 241 und Paragraf 280; BGB Paragraf 286 und Paragraf 288 mit dem entscheidenden Merkmal verbinden.
 1.7.3. Aktenfund: Für „Aktenkern“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung. Offene Folgen aussprechen.
+1.7.4. Beweis: Darlegungs- und Beweislast für die konkret streitige Tatsache bestimmen und die Folgen fehlender Belege erklären.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Belege tragen Leistung, Rechnung, Zugang und Verzug.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
 1.7.7. Abschluss: Das bestellte Schreiben oder Gutachten vollständig ausformulieren. Tabellen nur für erforderliche Abrechnungen und Vergleiche beifügen; Quellenstatus und interne Gegenprüfung getrennt vom Empfängertext halten.

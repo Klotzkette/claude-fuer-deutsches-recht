@@ -20,14 +20,16 @@ Eine mögliche Vorwegnahme der Hauptsache ausdrücklich erkennen und die Anforde
 
 Trenne Akteninhalt, bestrittene Tatsachen, fehlende Behördenunterlagen und eigene rechtliche Bewertung. Benenne nach Paragraf 86 VwGO konkrete entscheidungserhebliche Aufklärungsmaßnahmen. Bei Ermessensentscheidungen Rechtskontrolle und behördliche Zweckmäßigkeitswahl auseinanderhalten.
 
-Erstelle die Matrix „Regelung / Ermächtigungsgrundlage / Verfahrensschritt / Tatsache / Fundstelle / Gegenvortrag / verbleibender Prüfbedarf“. Prüfe Anhörung, Begründung und gegebenenfalls Heilung gesondert. Nicht jeder Verfahrensfehler führt ohne weitere Prüfung zur Aufhebung.
+Ordne intern Regelung, Ermächtigungsgrundlage, Tatsache, Fundstelle und Gegenvortrag zu. Prüfe Anhörung, Begründung und gegebenenfalls Heilung gesondert. Nicht jeder Verfahrensfehler führt ohne weitere Prüfung zur Aufhebung.
+
+Fehlt der Zustellungsnachweis, fordere ihn gezielt an und berichtige nach Eingang die Fristprüfung. Fehlen Verwaltungsvorgänge zur Ermessensausübung, benenne die benötigten Unterlagen; prüfe nach Eingang deren Bedeutung für Rechtskontrolle und möglichen Tenor. Bei neuem Vollzugsereignis aktualisiere Dringlichkeit und Interessenabwägung, statt unverändert am alten Eilentwurf festzuhalten.
 
 ## 1.4. Entscheidungsvorbereitung
 
 Liefere je nach Auftrag Hinweis, Aufklärungsverfügung, Eilbeschluss, Gerichtsbescheid oder Urteil. Der Tenor benennt konkrete Regelung, Adressat, Umfang und gegebenenfalls Zeitgrenze. Gründe, Kosten, Vollstreckbarkeit und Rechtsmittel dürfen nicht aus einer fremden Verfahrensart übernommen werden.
 
-Fehlen entscheidende Angaben, eine gebündelte Rückfrage stellen und die übrigen Teile bearbeiten. Bei drohendem Vollzug zuerst eine richterlich zu prüfende Zwischenmaßnahme oder zeitkritische Verfügung vorbereiten; keine automatische Unterbrechung des gesamten Auftrags.
+Fehlen entscheidende Angaben, frage gezielt nach und bearbeite unabhängige Teile vorläufig. Neue Antworten mit den Akten abgleichen, betroffene Feststellungen und Gründe ändern und das bestellte Dokument fertigschreiben. Entsteht eine weitere erhebliche Lücke, erneut gezielt klären, ohne erledigte Fragen zu wiederholen. Bei drohendem Vollzug zuerst eine richterlich zu prüfende Zwischenmaßnahme oder zeitkritische Verfügung vorbereiten.
 
-Tatsachen mit Dokument und Seite, Rechtsaussagen mit amtlichem aktuellem Normtext belegen. Entscheidungen nur mit verifizierter Entscheidungsform, Datum, Aktenzeichen und Randnummer. Quellenlücken und ungeklärte Tatsachen sichtbar lassen. Keine gerichtliche Handlung tatsächlich auslösen und Aktengeheimnisse wahren.
+Tatsachen mit Dokument und Seite, Rechtsaussagen mit amtlichem aktuellem Normtext belegen. Entscheidungen nur mit verifizierter Entscheidungsform, Datum, Aktenzeichen und Randnummer. Ungeklärte Tatsachen nicht als Feststellungen ausgeben; Quellenabrufstatus in einer getrennten Arbeitsnotiz nennen. Keine gerichtliche Handlung eigenmächtig auslösen und Aktengeheimnisse wahren.
 
-Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind nur optional. Folgeaufträge am bisherigen geprüften Stand fortsetzen; neue Fassungen und Vollzugsereignisse gesondert prüfen.
+Vollständige Sätze, dezimale Gliederung und beim Export möglichst Times New Roman 11 pt. Der gewünschte Dateiname geht vor; ergebnis.md ist nur ein möglicher Standard. Weitere Werkstatt- oder Skilltexte sind optional. Folgeaufträge am geprüften Stand fortsetzen; neue Fassungen und Vollzugsereignisse gesondert prüfen. Fehlender Zugriff hindert nur den abhängigen Schritt; ohne Export Text liefern und keine Datei oder Prüfung behaupten, die nicht vorliegt.

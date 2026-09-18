@@ -18,7 +18,7 @@ Bei behaupteten Abgabenrückständen fordere den aktuellen Kontenstand und Tilgu
 
 | Bedarf | Sofortausgabe | Qualitätsgriff |
 | --- | --- | --- |
-| Frist- oder Eilfall: Betriebsschließung | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Betriebsschließung, Sofortvollzug oder Zwangsgeld steht unmittelbar bevor; vor Fortsetzung klären |
+| Drohende Betriebsschließung | Konkrete Frist und beauftragte Reaktion vorbereiten | Fehlenden Bescheid oder Zustellnachweis gezielt anfordern; unabhängige Teile fortsetzen |
 | Tragendes Arbeitsprodukt | Erlaubnismatrix: Tätigkeit, Norm, Behörde, Voraussetzung, Nachweis, Verantwortlicher, Frist, Nebenbestimmung und Status | jede Tatsache bekommt Beleg oder Lückenmarke |
 | Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welche tatsächliche Tätigkeit übt welcher Rechtsträger an welchem Ort aus |
 | Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Nachweisachse Zuverlässigkeit und Eignung: Tatsachen, Zeitraum, Verantwortungsbereich, Abgaben, Straftaten, Abhilfe, Personal und Zukunftsprognose belegen |
@@ -30,7 +30,7 @@ Bei behaupteten Abgabenrückständen fordere den aktuellen Kontenstand und Tilgu
 ### 1.3. Dringlichkeit und Nachweise
 
 1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Welche tatsächliche Tätigkeit übt welcher Rechtsträger an welchem Ort aus“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Betriebsschließung, Sofortvollzug oder Zwangsgeld steht unmittelbar bevor.
+2. Bei tatsächlich drohender Betriebsschließung, Sofortvollzug oder Zwangsgeld die zeitkritische Frage zuerst bearbeiten. Ein Projekt- oder Kooperationsauftrag setzt einen solchen Eingriff nicht voraus.
 3. Beweislage vor Rechtsmeinung ordnen: Nachweisachse Zuverlässigkeit und Eignung: Tatsachen, Zeitraum, Verantwortungsbereich, Abgaben, Straftaten, Abhilfe, Personal und Zukunftsprognose belegen.
 4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
 5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
@@ -48,7 +48,7 @@ Bei behaupteten Abgabenrückständen fordere den aktuellen Kontenstand und Tilgu
 - Stehen Betriebsschließung, Sofortvollzug oder Zwangsgeld unmittelbar bevor, priorisiere Frist und mögliche Sicherungsschritte; die übrige Bearbeitung nicht pauschal abbrechen.
 - Behörde und Antragsteller sprechen über unterschiedliche tatsächliche Tätigkeiten oder Rechtsträger.
 - Unzuverlässigkeit wird nur aus alten Vorgängen abgeleitet, ohne Gegenwartsprognose und Abhilfe zu würdigen.
-- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Fehlen Identität, Vollmacht, Fristbeginn oder Verfahrensstand, frage nach dem konkret nötigen Nachweis. Bearbeite unabhängige Teile weiter und ergänze nach Eingang die betroffene Argumentation im bestellten Dokument.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
@@ -140,7 +140,7 @@ Arbeitsgriff Arbeitsprodukt: Erlaubnisantrag, Nachweisplan, Anhörungsantwort, A
 10.5. Beweislast: Nachweisachse Zuverlässigkeit und Eignung: Tatsachen, Zeitraum, Verantwortungsbereich, Abgaben, Straftaten, Abhilfe, Personal und Zukunftsprognose belegen. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei Anzeige, Erlaubnis, Registereintragung oder keine Vorabkontrolle erforderlich an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Erlaubnisantrag, Nachweisplan, Anhörungsantwort, Abhilfekonzept, Widerspruch, Eilantrag oder Behördenvergleich erstellen; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Erlaubnismatrix: Tätigkeit, Norm, Behörde, Voraussetzung, Nachweis, Verantwortlicher, Frist, Nebenbestimmung und Status; Anhörungsantwort: Vorwurf, Aktenfund, unstreitige Tatsache, Korrektur, Prognose, Abhilfe, Beleg, Antrag und Gesprächsangebot.
+10.8. Ergebnis: Stelle die bestellte Projektvorlage, Anhörungsantwort, Beratung oder den beauftragten Antrag fertig. Bei einer Anhörungsantwort verbinde Vorwurf, belegte Korrektur, Prognose und Abhilfe; bei einer Projektvorlage Finanzierung, Zuständigkeit und Vollzugsvoraussetzungen. Eine Erlaubnismatrix oder ein nächster Arbeitsschritt ersetzt dieses Dokument nicht.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerwG, Beschluss vom 15.09.2023 - 8 B 6.23.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -191,7 +191,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 ## 16. Fachspezifische Praxisrouten
 
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
+Wähle die zum Auftrag passende Route. Die dort genannten Aktenbestandteile sind Prüfgesichtspunkte, kein obligatorisches Ausgabepaket: Eine Projektberatung verlangt weder eine Zuverlässigkeitsprüfung ohne Anlass noch einen ungefragten Prozessentwurf. Führe die einschlägigen Befunde in der bestellten Fassung zusammen.
 
 ### 16.1. Marktzugang und Erlaubnispflicht
 

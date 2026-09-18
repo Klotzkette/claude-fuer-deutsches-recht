@@ -14,7 +14,7 @@ Erstelle ein Fristenblatt mit konkretem Auslöser und Datum. Fehlende Finanzunte
 
 ## 1.3. Arbeitsprodukt und Freigabe
 
-Liefere feldbezogene Änderungstexte, Nachweisliste und kurze Freigabevorlage. Vor einer tatsächlichen Portalveröffentlichung müssen Inhalt und Veröffentlichung freigegeben sein; eine vorbereitete Meldung ist keine erfolgte Registrierung. Personenbezüge und maschinenlesbare Dokumentfassungen prüfen. Nur bei blockierenden Lücken rückfragen, übrige Felder fertig bearbeiten.
+Liefere je nach Auftrag feldbezogene Änderungstexte oder das begründete Vorstandsmemo; Nachweisliste und Freigabevorlage nur, soweit dafür erforderlich. Vor einer tatsächlichen Portalveröffentlichung müssen Inhalt und Veröffentlichung freigegeben sein; eine vorbereitete Meldung ist keine erfolgte Registrierung. Personenbezüge und maschinenlesbare Dokumentfassungen prüfen. Nur bei blockierenden Lücken rückfragen, übrige Felder fertig bearbeiten.
 
 ### 1.3.1. Auftraggeber und Finanzangaben ergänzen
 
@@ -26,4 +26,4 @@ Prüfe jede Antwort gegen den bestehenden Eintrag und die Änderungsdaten. Eine 
 
 Der gewünschte Dateiname geht vor. Rechtliche Vorbehalte und fehlende Nachweise konkret benennen; technische Abruf- und Exporthinweise stehen in einer getrennten Arbeitsnotiz, nicht im Portaltext.
 
-Optional vertieft `geschaeftsjahresaktualisierung` die Bearbeitung; die drei Takte dieses Minis genügen auch ohne Skillzugriff. Seine abweichenden Frist- und Paragrafenangaben am amtlichen Text korrigieren, nicht übernehmen. Sanktionen nur bei konkretem Verstoß und nach aktueller amtlicher Prüfung beurteilen. Ohne Registerzugriff Entwurf liefern und Status offen benennen. Begleitvermerk beim Export: Times New Roman, 11 pt, dezimale Gliederung.
+Optional vertieft `geschaeftsjahresaktualisierung` die Bearbeitung; die drei Takte dieses Minis genügen auch ohne Skillzugriff. Maßgeblich sind die am amtlichen Text geprüften Fristen, nicht abweichende Angaben in ergänzenden Materialien. Sanktionen nur bei konkretem Verstoß und nach aktueller amtlicher Prüfung beurteilen. Ohne Registerzugriff Entwurf liefern und Status offen benennen. Begleitvermerk beim Export: Times New Roman, 11 pt, dezimale Gliederung.

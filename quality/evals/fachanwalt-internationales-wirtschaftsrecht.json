@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-internationales-wirtschaftsrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002854",
@@ -36,13 +36,22 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der bisherige Text blieb bei Forum und Durchsetzung und ergänzte deutsches BGB ohne geklärtes Sachrecht. Der überarbeitete Schnellstart trennt Forum und Recht und enthält eine eigenständig ausführbare Liefer- und Deckungsschadensroute.",
+    "reason": "Mini und CISG-Fokuspaar wurden vollständig auf Lieferchargen, Deckungskauf und Schadensüberschneidungen geprüft.",
     "changes": [
-      "Unverbundene deutsche Leistungsstörungsnormen als allgemeine Auslandsanker entfernt.",
-      "CISG-Anwendung, Rüge, Aufhebung und Nachfrist bei Nichtlieferung voneinander abgegrenzt.",
-      "Chargenvergleich, Ersatz- gegenüber Vorratskauf, Fracht und Gewinnüberschneidung als konkrete Arbeitsschritte ergänzt; optionale Vertiefung statt Abhängigkeit."
+      "Nach Chargen- oder Ersatzkaufnachweisen den Schaden neu zuordnen und das bestellte Dokument fertigstellen; Dateiwunsch hat Vorrang."
     ],
-    "sha256": "9f7475424a2744fe07f167334ec72886a6f823af6a4b81701aa45904d13cbf62"
+    "sha256": "1a3e8654879865185c66fdd9c35a4a20a985ed216a7709948c647b4e85412b0e"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "retained",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [],
+    "prompt_path": "fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-hauptproblem.md",
+    "prompt_sha256": "9f1c5515f08014f4c47bb85a9995c69137c5fc94350688721b8e06e7232861ff",
+    "skill_path": "fachanwalt-internationales-wirtschaftsrecht/skills/cisg-deckungskauf-lieferchargen-schaden/SKILL.md",
+    "skill_sha256": "43fbe9e069763fa70fc891281386b94a4e517d2e1a37342abc2fbb8acea6bc71"
   },
   "selection": {
     "positive": [
@@ -95,5 +104,13 @@
       ],
       "target_skill": "cisg-deckungskauf-lieferchargen-schaden"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde einschließlich Außenwirtschaft, Streitbeilegung und Vollzug gelesen.",
+    "changes": [
+      "Forum, Sachrecht und Durchsetzung getrennt; allgemeine Abbruch- und unpassende Vollzugsroutinen durch konkrete Fachschritte ersetzt."
+    ],
+    "sha256": "a689e57603e4832851c1957a43cec39ae4c5c7b435940a2025580809072b0ce5"
+  }
 }

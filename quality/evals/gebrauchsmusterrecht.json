@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "gebrauchsmusterrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gebrmg/__3.html",
@@ -11,13 +11,13 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Schutzwegroute entspricht der Werkstatt, aber der konkrete Herkunfts- und Datumsabgleich für die Schonfrist fehlte.",
+    "reason": "Vollständige Textprüfung am 18. September 2026: Die Offenbarungs- und Nachforderungslogik war tragfähig; daneben verlangten allgemeine Ausgabeanweisungen ungefragt Durchsetzungstexte und zwingende Tabellen.",
     "changes": [
-      "Eigene Offenbarung von unabhängiger Wettbewerberveröffentlichung getrennt.",
-      "Merkmalsvergleich und Offenbarungsprotokoll als greifbare Ergebnisse ergänzt.",
-      "Eintragung nicht als abschließenden Rechtsbestandsnachweis behandelt."
+      "Ausgabe auf bestelltes Gutachten, Anspruchsfassung oder beauftragten Schriftsatz begrenzt.",
+      "Darlegungs- und Beweisfragen dem betroffenen Verfahren zugeordnet; Offenbarungsübersichten nur nach Bedarf ausgeben.",
+      "Schonfrist, unabhängige Wettbewerberoffenbarung und Merkmalsvergleich unverändert erhalten."
     ],
-    "sha256": "e0fe8bc80048744841bc091c839de9d6babed6385e78afa2e291d2ffd1502398"
+    "sha256": "265f8ade8ed7dae27b8f8e185855a717ef5bc0eca97076883dab618310380f36"
   },
   "selection": {
     "positive": [
@@ -62,5 +62,16 @@
       ],
       "target_skill": "neuheitsschonfrist-eigene-offenbarung"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vollständige Werkstattprüfung am 18. September 2026: Der Schlussblock wiederholte allgemeine Prüfprosa und behandelte den Verfahrensausschluss wie eine Fristenfrage. Anmeldung, Berechtigung, Rechtsbestand und Verletzung brauchten getrennte Arbeitswege.",
+    "changes": [
+      "Doppelte Ausgabetabellen und Routen entfernt; konkrete Offenbarungs-, Abzweigungs- und Merkmalsnachforderungen bis zur bestellten Fassung geführt.",
+      "Verfahrens- und Softwareausschluss anhand des beanspruchten Gegenstands prüfen lassen statt Fristenprosa.",
+      "Paragraf 13 nicht als pauschalen Inhaberschaftsnachweis behandeln; Rechtekette anhand der Unterlagen prüfen.",
+      "Normen- und Entscheidungsanker erhalten; Quellenkontrolle nicht als frisch durchgeführt dargestellt."
+    ],
+    "sha256": "1fa1f0dabf2e8fc601d0e426680d4c356f0e5a610cb52c1ae9a5c000d098a10c"
+  }
 }

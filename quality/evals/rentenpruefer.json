@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "rentenpruefer",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/sgb_6/__51.html",
@@ -10,14 +10,21 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Die alte Übersicht wiederholte Rentenarten und lieferte keinen prüfbaren Monatsabgleich für die Kontenklärung.",
+    "verdict": "retained",
+    "reason": "Mini vollständig gelesen. Monatsüberschneidungen, anerkannte Zeiten und neue Nachweise bleiben getrennt; Nachlieferungen ändern Wartezeit, Betrag oder medizinische Argumentation und anschließend das bestellte Schreiben. Keine neue Quellenverifikation oder Live-Modellprüfung.",
     "changes": [
-      "Überschneidende Beitragszeiträume und zusätzliche Kalendermonate getrennt.",
-      "Wartezeit, Anspruchsbeginn und Rentenhöhe als eigene Rechnungen angelegt.",
-      "Belegstatus und konkrete Korrekturforderung statt pauschalem Rechtsweg ergänzt."
+      "Monatsabgleich, gezielte Nachforderung und Fortsetzung zur auftragsgemäßen Endfassung beibehalten."
     ],
-    "sha256": "08ab3487cdf178f21d98f92617e11388ba0f6a0ccda11e0a5d72a86c8eb70e78"
+    "sha256": "bd1988882ed20561b34f508a36b6df7d58c6f034cc91ee779873f37f6301fe58"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Werkstatt vollständig schlussgelesen. Bereits überarbeitete Fassung verbindet Monatsprüfung, Rentenformel und funktionale medizinische Nachweise mit konkreter Fortsetzung. Gesetzliche, betriebliche, private und ausländische Versorgung werden nicht vermischt; keine Pflicht-Versandmappe oder ungefragte Klage.",
+    "changes": [
+      "Keine weitere Textänderung nötig; Archivantworten, Arztberichte und Berechnungsnachweise werden schon in den bestellten Entwurf eingearbeitet.",
+      "Bestehende Quellenanker unverändert; frühere Quellenprüfdaten nicht erneuert."
+    ],
+    "sha256": "91e389548ebb7667715e128999090041b3cb501ff6646390f08f8658333071a4"
   },
   "selection": {
     "positive": [

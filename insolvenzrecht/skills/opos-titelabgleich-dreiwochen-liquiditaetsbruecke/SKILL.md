@@ -39,7 +39,7 @@ Bei Verwendung zeitlich maßgebliche Rechtslage prüfen. Gericht, Entscheidungsf
 
 Erstelle die bestellte Entscheidungsvorlage mit OP-Überleitung, Titelprüfung, Anfangsstatus, Dreiwochenrechnung und gegebenenfalls Gegenrechnung. Verwende den gewünschten Dateinamen; ohne Vorgabe `ergebnis.md`. Benenne den konkreten Handlungsbedarf, ohne ungefragt einen Insolvenzantrag zu entwerfen.
 
-Vollständige Sätze, keine Gutachtenskelette; jede Zahl mit Quelle und Stichtag. Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Exportstandard: Times New Roman, 11 pt, dezimal. Datenstand und Grenzen der Beurteilung nennen.
+Vollständige Sätze, keine Gutachtenskelette; jede Zahl mit Quelle und Stichtag. Ohne Dateiexport die Entscheidungsvorlage mit OP-Überleitung und Dreiwochenrechnung vollständig in der Antwort ausgeben; keinen Download einer nicht erzeugten Datei anbieten. Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Exportstandard: Times New Roman, 11 pt, dezimal. Datenstand und Grenzen der Beurteilung nennen.
 
 ## 6. Beispiel
 

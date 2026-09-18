@@ -17,7 +17,7 @@ Fehlen technische Produktmerkmale, frage nach Zeichnung, Muster oder Beschreibun
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welches Schutzrecht oder Lauterkeitsrecht trägt welchen Antrag.
 2. Prüfe Aktiv- und Passivlegitimation sowie Rechtekette; benenne fehlende Register-, Prioritäts-, Benutzungs- oder Geheimhaltungsbelege konkret.
-3. Belege und Engpass zusammenführen: Anspruchsteller für Schutzrecht, Rechtekette, Verletzung und Dringlichkeit; Gegner für Rechtsbestand, Lizenz, Erschöpfung, Verfall oder sonstige Einrede; besonders kritisch ist: Schutzrecht, Inhaber, Registerstand oder konkrete Verletzungsform ist nicht identifiziert.
+3. Darlegungs- und Beweislast nach Schutzrecht, streitigem Merkmal und Einrede bestimmen. Unbekannten Inhaber, Registerstand oder Verletzungsform gezielt klären, unabhängige Fragen weiterbearbeiten.
 4. Erstes Arbeitsprodukt liefern: Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unterlassungserklärung, Antrag, Erwiderung, Vergleich oder Lizenz erstellen.
 
 ## 1.3. Kernroute
@@ -36,7 +36,7 @@ Leite jede Rechtsfolge aus dem betroffenen Schutzrecht und der konkreten Handlun
 
 Bei einem Parallelimport zuerst echte Ware, Charge, Erstvertrieb, Gebiet und Zustimmung belegen. Paragraf 24 MarkenG knüpft Erschöpfung an ein Inverkehrbringen durch den Inhaber oder mit seiner Zustimmung im EU-/EWR-Raum an. Echtheit allein ersetzt diese territoriale Voraussetzung nicht. Veränderungen oder Verschlechterungen als mögliche berechtigte Widerspruchsgründe gesondert prüfen.
 
-Für Patent, Design und Marke jeweils den eigenen Schutzgegenstand vergleichen; kein Zeichenvergleich als Ersatz für technische Anspruchsmerkmale. Liefere je angegriffener Handlung eine Rechts- und Belegmatrix. Eine fehlende Registerprüfung bleibt offen, nicht negativ. Bei Eilverfügungen Erlass, Bekanntgabe und erforderliche Vollziehung getrennt dokumentieren.
+Für Patent, Design und Marke jeweils den eigenen Schutzgegenstand vergleichen; kein Zeichenvergleich als Ersatz für technische Anspruchsmerkmale. Eine Rechts- und Belegmatrix nur ausgeben, wenn sie den konkreten Vergleich verständlicher macht. Eine fehlende Registerprüfung bleibt offen, nicht negativ. Bei Eilverfügungen Erlass, Bekanntgabe und erforderliche Vollziehung getrennt dokumentieren.
 
 ## 1.6. Anker
 
@@ -52,7 +52,7 @@ Für Patent, Design und Marke jeweils den eigenen Schutzgegenstand vergleichen; 
 1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz.
 1.7.2. Norm: MarkenG Paragraf 14, PatG Paragraf 139 und DesignG Paragraf 42; UWG Paragraf 3, Paragraf 4 und Paragraf 8 mit dem entscheidenden Merkmal verbinden.
 1.7.3. Aktenfund: Für „Rechtsposition“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Anspruchsteller für Schutzrecht, Rechtekette, Verletzung und Dringlichkeit; Gegner für Rechtsbestand, Lizenz, Erschöpfung, Verfall oder sonstige Einrede. Offene Folgen aussprechen.
+1.7.4. Beweis: Lasten und Vermutungen der konkret streitigen Voraussetzung zuordnen; keine einheitliche Lastverteilung für alle Schutzrechte behaupten. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Wer ist aktiv- und passivlegitimiert und welche Rechtekette ist belegt.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
 1.7.7. Abschluss: Das verlangte Dokument vollständig ausformulieren. Vergleiche oder Tabellen nur beifügen, wenn sie die konkrete Begründung oder Berechnung erläutern.

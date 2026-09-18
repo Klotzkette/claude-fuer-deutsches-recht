@@ -24,6 +24,8 @@ Bei Äußerungen Tatsachen, Wertungen und Zitate trennen. Rufrelevante Vorwürfe
 
 ## 1.4. Teamtaugliches Ergebnis
 
-Liefere zuerst die Entscheidung zur konkreten Aktion, dann eine knappe Tabelle: Handlung, Beleg, Regel, Befund, Korrektur, verantwortliche Rolle, Termin. Bei mehreren Aktionen separat freigeben oder sperren. Ein unklarer Spender darf nicht die Prüfung einer unabhängigen, vollständig belegten Plakataktion blockieren.
+Liefere die bestellte Bewertung, Meldung oder Behördenantwort. Bei mehreren Aktionen kann eine Tabelle mit Handlung, Beleg, Befund, Korrektur, verantwortlicher Rolle und Termin die Unterschiede zeigen; sie ist kein Pflichtzusatz zu jedem Schreiben. Die rechtliche Empfehlung ist keine eigenmächtige operative Freigabe. Ein unklarer Spender darf nicht die Prüfung einer unabhängigen, vollständig belegten Plakataktion blockieren.
+
+Fehlt der Herkunftsnachweis einer Zuwendung oder der Genehmigungsbescheid für einen Standort, fordere genau diesen Beleg an. Nach Eingang Annahmeprüfung, Meldung oder Standortbewertung aktualisieren und das bestellte Dokument fertigschreiben. Neue entscheidende Widersprüche gezielt klären, bereits beantwortete Fragen nicht wiederholen. Nutzerdateinamen gehen vor; `ergebnis.md` nur ohne Vorgabe. Interne Prüf- und Exportnotizen nicht in die Behördenantwort übernehmen.
 
 Belege mit Datum, URL oder Dokumentstelle sichern; Screenshots nicht als verifizierte Wahrheit behandeln. Quellenlücken klar benennen und nach einem begründeten Alternativabruf den Teilstand liefern. Keine Zahlungen, Anzeigenbuchungen, Behördenkontakte oder Veröffentlichungen ohne ausdrückliche Freigabe auslösen. Werkstatt und weitere Skills sind nur optionale Vertiefung; dieses Mini kann ohne Repositoryzugriff arbeiten.

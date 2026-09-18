@@ -1,14 +1,15 @@
 {
   "schema_version":1,
   "plugin":"berichtspflichten-erlediger",
-  "reviewed_on":"2026-09-14",
+  "reviewed_on":"2026-09-17",
   "sources":[],
   "mini_review":{
     "verdict":"revised",
-    "reason":"Meldeinventar und Datenlinie waren brauchbar, aber mehrfach wiederholt; ein pauschaler Stopp bei weniger als fünf Arbeitstagen hinderte gerade die fristkritische Sacharbeit. Der Audit-Trail-Skill wurde für die konkrete Freigabe- und Korrekturspur herangezogen, nicht für seine pauschalen Fachrechtsfristen.",
-    "changes":["Feldherkunft, Periodenabgrenzung, Einheiten und Dublettenprüfung ausführbar beschrieben.","Korrekturstand, Freigabe und Eingangsquittung getrennt.","Unbelegte fachübergreifende Fristen durch Prüfung der konkreten Meldevorgabe ersetzt."],
-    "sha256":"0cffe802871545f2c585d758fe89afcbace1282935d0ea99284f4800d54be21f"
+    "reason":"Erneut vollständig gelesen: Feldherkunft und Übermittlungsstatus sind konkret; die überarbeitete Abweichungsklärung führt nach Buchungsnachweisen bis zur Meldung oder Berichtigung.",
+    "changes":["Auffällige Summen anhand betroffener Buchungen und Stornos nachfordern.","Nach Antwort Filter und Summen korrigieren und bestellte Meldung vervollständigen.","Ungeklärte Felder offenhalten, ohne unabhängige Datenarbeit zu stoppen."],
+    "sha256":"cd8a9de51534d79fd33dd415eea71c3930a609dbd3225e28e85c75960feb858e"
   },
+  "workshop_review":{"verdict":"revised","reason":"Ganztextprüfung zeigte trotz verbessertem Einstieg doppelte Produktionsrouten und Melderegister als unpassendes Standardergebnis.","changes":["Feldzuordnung, Plausibilisierung, Korrektur und bestätigten Eingang als durchgehenden Ablauf gegliedert","Statistik, Außenwirtschaft, Umwelt, Arbeitsschutz und Offenlegung mit ihren konkreten Abgrenzungen erhalten","Antworten bis zur vollständigen Meldung einarbeiten; interne Nachweise von Behördenantwort trennen"],"sha256":"5332c56a8b9b3e13066efdfe82f586cbebc4c177be5f0be36f3d8ba93a960955"},
   "selection":{
     "positive":["Ordnen Sie die Umsatzdaten den Feldern unseres amtlichen Erhebungsbogens zu und erstellen Sie eine Freigabevorlage.","Bereiten Sie die Berichtigung einer bereits abgegebenen Mengenmeldung mit nachvollziehbarer Differenz und Nachweisspur vor."],
     "negative":["Schreiben Sie einen werblichen Geschäftsbericht ohne Meldepflicht oder Datenübermittlung.","Verteidigen Sie uns gegen einen bereits erlassenen kartellrechtlichen Bußgeldbescheid."]

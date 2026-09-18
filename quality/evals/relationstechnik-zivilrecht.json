@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "relationstechnik-zivilrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__362.html",
@@ -15,15 +15,12 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Die alte Stationenliste blieb repetitiv und verlangte einen Normenpflichtstamm unabhängig vom Streitstoff.",
-    "changes": [
-      "Schlüssigkeit unter Wahrunterstellung von Beweisbarkeit getrennt.",
-      "Erhebliche Einwendung, Beweisthema und Folge bei offenem Ergebnis konkretisiert.",
-      "Beweisaufnahme und richterlichen Entscheidungsvorschlag gegen fingierte Feststellungen abgegrenzt."
-    ],
-    "sha256": "edd8c548462f21f91b9be8f32d458db08ba196e87cb0755f6a7bd98f9516b13c"
+    "verdict": "retained",
+    "reason": "Am 18. September vollständig gelesen. Zahlungsbeleg und Protokoll werden stationsbezogen ergänzt, ohne Erfüllung oder Zeugenaussage vorwegzunehmen. Nutzerantwort ersetzt kein Gehör; offene Beweisaufnahme führt zum passenden vorläufigen Entwurf. Keine neue Quellenverifikation oder Live-Modellprüfung.",
+    "changes": [],
+    "sha256": "fd2e0a837a78b35635882bdb724542f3447a219ba7bc19f39124ac02eb38ce60"
   },
+  "workshop_review": {"verdict":"retained","reason":"Am 18. September gesamten Text geprüft. Klägerstation, Beklagtenstation, Beweislast und Beweiswürdigung bleiben getrennt; nachgereichte Zahlung aktualisiert nur betroffene Stationen. Einzelstationsauftrag erzwingt kein Vollurteil, Urteilsausgang wird bei fehlendem Gehör oder Beweis nicht fingiert. Kein widersprechender Schlussblock gefunden.","changes":[],"sha256":"f721f5b625e7005f750c4ac37f31f6b283cfccdcc68327d31d9b68314ec98b7e"},
   "selection": {
     "positive": [
       "Erstelle eine Beweisstation zu einer bestrittenen Barzahlung.",

@@ -31,7 +31,7 @@ Maßgebliche Fassungen, Sonderrecht und gerichtliche Entwicklung bei Verwendung 
 
 Erstelle die bestellte Stellungnahme oder Rechtsbehelfsbegründung mit Gegenrechnung sowie getrennter Aufhebungs-, Erstattungs- und Zinsprüfung. Verwende den gewünschten Dateinamen; nur ohne Vorgabe `ergebnis.md`. Erläutere die maßgebliche Bescheidfolge und den behördlichen Kenntnisstand; Tabellen zu Kosten und Nachweisen dienen der Begründung, nicht als zwingende Gliederung des Empfängertextes. Ein Gutachtenauftrag führt nicht ungefragt zur Klage.
 
-Quellenstatus und technische Grenzen getrennt dokumentieren. Vollständige Sätze, keine bloße Aufzählung oder Antragsskelette. Exportstandard: Times New Roman, 11 pt, dezimal. Freigabebedarf für externe Handlungen und zuständige Entscheidungsperson nennen.
+Quellenstatus und technische Grenzen getrennt dokumentieren. Ohne Exportwerkzeug die bestellte Stellungnahme oder Rechtsbehelfsbegründung einschließlich Fördermittelgegenrechnung vollständig als Antworttext liefern; nur tatsächlich erzeugte Dateien verlinken. Vollständige Sätze, keine bloße Aufzählung oder Antragsskelette. Exportstandard: Times New Roman, 11 pt, dezimal. Freigabebedarf für externe Handlungen und zuständige Entscheidungsperson nennen.
 
 ## 6. Beispiel
 

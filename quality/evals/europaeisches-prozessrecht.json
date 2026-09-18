@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "europaeisches-prozessrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2024/2019/oj/deu",
@@ -11,12 +11,19 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Verfahrenskarte ließ die seit 2024 geänderte Vorabentscheidungszuständigkeit und den Unterschied zwischen Parteianregung und gerichtlichem Ersuchen offen.",
+    "reason": "Ganztextreview: Der Mini enthielt mehrfach eine pauschale Organbeweislast, obwohl die Schlussregel ihr widersprach, sowie redundante Pflichtausgaben. Parteianregung und gerichtliches Ersuchen blieben getrennt; keine erneute Quellenverifikation oder Live-Modellprüfung.",
     "changes": [
-      "Zentralen Eingang und Weiterleitung erläutert.",
-      "Pauschale Organbeweislast durch klagegrundbezogene Prüfung begrenzt."
+      "Direktklage, Rechtsmittel und Vorlage mit eigenen Folgefragen und passenden Dokumenten gegliedert.",
+      "Widersprüchliche pauschale Beweislastsätze entfernt; Frist- und Betroffenheitsbelege werden nach Eingang eingearbeitet.",
+      "Anlagen- und Quellenkontrolle von Empfängertext getrennt; Dateiname bleibt Nutzerentscheidung."
     ],
-    "sha256": "79717187d3b196132dc509c56fa8dcd19d933fece9253abcd35ad3eaf696ea5c"
+    "sha256": "f33d4ff23eebd8790eb6ded178493157792d29ebd26f4170639a8312fdbda5ac"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständig gelesene Werkstatt setzte Parteiaufträge mehrfach mit richterlichen Verfügungen gleich und duplizierte zwölf Routen. Die Neugliederung folgt dem tatsächlichen Verfahren; keine neue Quellenverifikation und kein Live-Modelltest.",
+    "changes": ["Direkte Klagen, Vorlage, Eilrechtsschutz, Intervention und Rechtsmittel fachlich getrennt und mit konkreter Fortsetzung verbunden.","Vertraulichkeit gegenüber verschiedenen Beteiligten und e-Curia-Einreichungsfassung eigenständig behandelt.","Mündliches Plädoyer nicht mehr als automatischen Vergleichsauftrag beschrieben; pauschale Urteilsmuster und Pflichtfristentabellen entfernt."],
+    "sha256": "10ee330598156fe40c9da907145213122036acbda6ef1c9da550cce9e30ce3a5"
   },
   "selection": {
     "positive": [

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-urheber-medienrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
@@ -31,13 +31,32 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der bisherige Einstieg setzte Marke und Werk zu eng gleich und wiederholte Nichtbenutzung als generische Einrede. Er brach bei Eilmaßnahmen ab und trennte Anspruchshöhe nicht von Reaktionsformen.",
+    "reason": "Ganztextreview: Der differenzierte Mini hatte noch einen langen Einstiegsabsatz und eine missverständliche Verkürzung zum Verhältnis von Marke und Werk. Fachliche Nutzungsschritte und Lizenzbelege blieben erhalten; keine erneute Verifikation der bisherigen Quellen und kein Live-Modelltest.",
     "changes": [
-      "Urheber-, Bildnis- und Äußerungsrecht als eigene Routen getrennt.",
-      "Freie Lizenzpreise, Nachlizenzierung und Benennungszuschläge getrennt.",
-      "Eilfall in priorisierten Freigabeentwurf statt Arbeitsabbruch übersetzt; Mini eigenständig formuliert."
+      "Kurzen Einstieg und dezimale Untergliederung hergestellt; Markenrecht von zusätzlichem Werkschutz eines Bildes unterschieden.",
+      "Dokumentfertigstellung, optionale Tabellen und interne Quellenkontrolle in lesbare Absätze getrennt.",
+      "Nutzerdateinamen priorisiert; Exporthinweise außerhalb des Empfängertextes gehalten."
     ],
-    "sha256": "51e4533822df7c864cf26aa22c0b613cc0559b0d0d997c61e75b30abff0a54cf"
+    "sha256": "035b3c02279a0326a2e9c06a9d7fb10e91c0f326be91944f83e6e07c20e55fba"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständig gelesene Werkstatt wiederholte generische Routen und enthielt unzutreffende pauschale Frist- und Zuständigkeitsangaben. Paragraf 924 ZPO und Paragraf 129 VGG wurden am 17.09.2026 amtlich gelesen; keine neue Prüfung der übrigen Altquellen oder Live-Modellprüfung.",
+    "changes": ["Schutz, Rechtekette, Nutzung, Text und Data Mining, Äußerungen, Abmahnung und Vergütung als fachliche Arbeitsphasen gegliedert.","Pauschale 14-Tage-Widerspruchsfrist entfernt und besondere OLG-Zuständigkeit nach Paragraf 129 VGG auf die erfassten Streitfälle begrenzt.","Nutzungs- und Vergleichsbelege führen zu aktualisierter Einzelrechnung und anschließend zum bestellten Schreiben; Gegendarstellung nicht durch Vergleichsklauseln ersetzt."],
+    "sha256": "a04abe881f3e6350658f86a6924136bf1b4c8adb6965e0a5df177b94b6442074"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [
+      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+    ],
+    "prompt_path": "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-hauptproblem.md",
+    "prompt_sha256": "7ca3d2c7cbf746f3d5c502ee14a74bbb8cf7efa557504047013914d265b44f22",
+    "skill_path": "fachanwalt-urheber-medienrecht/skills/fotolizenzen-nutzungsmatrix-schadensberechnung/SKILL.md",
+    "skill_sha256": "bd4c94bf5c7c1768abaa58e5d150ab1332a8d7f3516dfa408e7609cff382c8d9"
   },
   "selection": {
     "positive": [

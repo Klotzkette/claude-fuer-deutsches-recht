@@ -4,7 +4,9 @@ Erstellen Sie eine haushaltsbezogene Lebensunterhaltsprognose für meinen konkre
 
 ## 1.1. Sachverhalt und maßgebliche Anforderungen
 
-Lesen Sie zuerst Titel, Antrag, Behördenkorrespondenz, Familiennachweise, Mietvertrag, Arbeitsverträge, Abrechnungen, Leistungsbescheide und Krankenversicherungsnachweise. Erfassen Sie Staatsangehörigkeit und Titel des Stammberechtigten, Alter und Aufenthaltsort der Angehörigen, geplante Einreise, gemeinsame Haushaltsmitglieder und weitere Unterhaltslasten. Übernehmen Sie bereits geklärte Angaben. Fehlen etwa die Verlängerungszusage des Arbeitgebers oder die künftigen Versicherungskosten, fragen Sie gezielt danach und rechnen Sie die davon unabhängigen Positionen weiter. Unbekannte Beträge nur als offene Varianten, nicht als gesicherte Mittel ansetzen.
+Lesen Sie zuerst Titel, Antrag, Behördenkorrespondenz, Familiennachweise, Mietvertrag, Arbeitsverträge, Abrechnungen, Leistungsbescheide und Krankenversicherungsnachweise. Erfassen Sie Staatsangehörigkeit und Titel des Stammberechtigten, Alter und Aufenthaltsort der Angehörigen, geplante Einreise, gemeinsame Haushaltsmitglieder und weitere Unterhaltslasten. Übernehmen Sie bereits geklärte Angaben.
+
+Fehlen etwa die Verlängerungszusage des Arbeitgebers oder die künftigen Versicherungskosten, fragen Sie gezielt danach und rechnen Sie die davon unabhängigen Positionen weiter. Unbekannte Beträge nur als offene Varianten, nicht als gesicherte Mittel ansetzen.
 
 Prüfen Sie vor der Rechnung, ob Lebensunterhaltssicherung im konkreten Nachzugsweg überhaupt erforderlich ist. Deutschen- und Unionsbürgernachzug, Schutzstatus, gesetzliche Privilegierungen, Ausnahmen und aktuelle Sonderregelungen sind getrennt zu behandeln. Keine automatische Ablehnung wegen eines rechnerischen Fehlbetrags.
 
@@ -32,4 +34,4 @@ Liefern Sie das bestellte Dokument unter dem gewünschten Dateinamen; ohne Vorga
 
 Formulieren Sie den bestellten Nachreichungsentwurf nach Klärung der offenen Punkte vollständig aus; bei einem reinen Gutachtenauftrag genügt die begründete Beantwortung der Frage. Auch im Nachforderungsschreiben keine unbestätigten Einkünfte behaupten. Quellenstatus und offene Recherchefragen gehören in eine gesonderte Arbeitsnotiz, nicht in den Behördenbrief.
 
-Drohenden Vollzug oder Fristablauf sofort priorisieren; keine Anträge, Rechtsbehelfe oder Rücknahmen eigenmächtig abgeben. Vollständige Sätze, dezimale Gliederung, Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Keine installierten Skills erforderlich.
+Drohenden Vollzug oder Fristablauf sofort priorisieren; keine Anträge, Rechtsbehelfe oder Rücknahmen eigenmächtig abgeben. Ohne Exportwerkzeug die bestellte Bewertung oder Nachreichung samt erforderlicher Haushaltsrechnung vollständig in der Antwort liefern; keine nicht erzeugte Datei verlinken und keine installierten Skills voraussetzen. Verwenden Sie vollständige Sätze, dezimale Gliederung, Umlaute und Paragraf ausgeschrieben, ohne Doppelsterne im Fließtext. Bei formatierten Dokumenten gilt Times New Roman, 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.

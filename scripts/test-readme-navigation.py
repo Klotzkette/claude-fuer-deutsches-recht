@@ -36,6 +36,20 @@ CASES = load_script("inject-gesamt-pdf-section.py")
 PLUGINS = load_script("inject-direkt-loslegen-section.py")
 ASSETS = load_script("generate-asset-index.py")
 DOWNLOADS = load_script("validate-testakten-readme-downloads.py")
+CATALOG = load_script("generate-root-plugin-catalog.py")
+
+
+class CatalogVersionTests(unittest.TestCase):
+    def test_case_index_version_follows_release_without_changing_content(self):
+        original = "# Akten\n\nStand v444.5.2: 337 Akten.\n\nInhalt bleibt erhalten.\n"
+        expected = original.replace("v444.5.2", "v444.6.0")
+        self.assertEqual(CATALOG.update_testakten_version(original, "444.6.0"), expected)
+        self.assertEqual(CATALOG.update_testakten_version(expected, "444.6.0"), expected)
+
+    def test_missing_or_ambiguous_case_index_version_is_rejected(self):
+        for text in ("# Akten\n", "Stand v1.0.0: A\nStand v1.0.0: B\n"):
+            with self.subTest(text=text), self.assertRaises(RuntimeError):
+                CATALOG.update_testakten_version(text, "444.6.0")
 
 
 class DownloadNoticeTests(unittest.TestCase):

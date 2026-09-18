@@ -6,7 +6,7 @@ Kläre Kaufmannseigenschaft, Vertretung und Handelsgeschäft nach HGB. Bereite d
 
 Bearbeite den konkreten Auftrag zu Kaufmannseigenschaft, Firma, Registerpublizität, Vertretung oder Handelsgeschäft aus den vorhandenen Unterlagen. Dazu gehören Handelskauf, Handelsvertreter, Makler, Kommission, Fracht, Spedition, Lager, Handelsbücher und OHG/KG einschließlich Statuswechsel von GbR zu OHG. Verfasse die bestellte Beratung, Vertragsregelung, Rüge, Abrechnung oder Registervorlage; nicht vorsorglich eine Klage.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Handelsrecht insbesondere die vorgelegten Urkunden, Bescheide und Korrespondenz, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Unterscheide belegtes Handelsgeschäft, Parteibehauptung und offene Liefer- oder Vertretungsfrage. Führe die Prüfung im bestellten Dokument zusammen; weder jede Zwischenprüfung noch jeder Themenbereich verlangt eine eigene Ausgabe. Die folgenden Übersichten sind Auswahlhilfen, keine verpflichtende Tabellenserie.
 
 ### 1.1. Geschäft und entscheidende Belege
 
@@ -18,7 +18,7 @@ Ordne neue Antworten dem betroffenen Geschäft zu. Aktualisiere Rügebewertung, 
 
 | Bedarf | Sofortausgabe | Qualitätsgriff |
 | --- | --- | --- |
-| Frist- oder Eilfall: Kaufmannsstatus oder Vertretungsmacht wird nur aus der Geschäftsbezeic | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Kaufmannsstatus oder Vertretungsmacht wird nur aus der Geschäftsbezeichnung abgeleitet; vor Fortsetzung klären |
+| Offener Kaufmannsstatus oder unklare Vertretungsmacht | Gezielte Nachfrage nach Register- oder Vollmachtsbeleg | Betroffene Bewertung vorläufig lassen; Lieferchronologie und sonstige unabhängige Punkte weiterbearbeiten |
 | Tragendes Arbeitsprodukt | Arbeitsprodukt: Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen | jede Tatsache bekommt Beleg oder Lückenmarke |
 | Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Wer ist aus welchem Grund Kaufmann und welche Registerlage ist veröffentlicht |
 | Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Nachweisachse Vertretung: Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen |
@@ -46,7 +46,7 @@ Ordne neue Antworten dem betroffenen Geschäft zu. Aktualisiere Rügebewertung, 
 ## 2. Grenzen und Fristen
 
 - Kaufmannsstatus oder Vertretungsmacht nicht aus der Geschäftsbezeichnung ableiten; den fehlenden Nachweis gezielt anfordern und unabhängige Fragen weiterbearbeiten.
-- HGB-Sonderrecht wird angewandt, ohne beiderseitiges Handelsgeschäft oder Vertragstyp zu prüfen.
+- HGB-Sonderrecht erst nach Prüfung seines Anwendungsbereichs einsetzen; insbesondere Vertragstyp und gegebenenfalls beiderseitiges Handelsgeschäft bestimmen.
 - Unsichere Rüge-, Kündigungs-, Provisions- oder Ausgleichsfristen vorrangig anhand ihrer Auslöser und Belege klären.
 - Bei unklarer Identität, Vollmacht oder Verfahrenslage die konkrete Bedeutung benennen und nachfragen; eine Lückenliste ist kein Abschluss des Schreibauftrags.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
@@ -128,12 +128,12 @@ Arbeitsgriff Arbeitsprodukt: Registeranmeldung, Vertragsklausel, Rüge, Provisio
 
 10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen.
 10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind HGB Paragraf 1 bis Paragraf 6; HGB Paragraf 15 und Paragraf 17 bis Paragraf 37.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB.
+10.3. Bestimme den entscheidenden Punkt des konkreten Geschäfts: etwa Rügezeitpunkt, Umfang einer Prokura oder Wirkung einer Firmenfortführung. Eine reine Vertretungsfrage verlangt keine vorgelagerte Mängelprüfung.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Handelsrecht tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Nachweisachse Vertretung: Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei wer handelte mit welcher Vertretungsmacht und welcher Rechtsschein greift an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB, Handelskauf-Fristenampel, Firma Paragrafen 17 ff. HGB, Rechtsabteilung: Kaufmännisches Bestätigungsschreiben im Konzernalltag: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Formuliere die bestellte Rüge, Vertragsregelung, Abrechnung oder Beratung fertig. Bei fehlender entscheidender Angabe liefere einen vorläufigen Teil und setze nach der Antwort fort; eine Fragenliste ersetzt das Dokument nicht. Verwende den gewünschten Dateinamen, sonst `ergebnis.md`.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -222,7 +222,7 @@ Unterscheide den Auftrag: Ein Gutachten beantwortet die handelsrechtliche Frage 
 
 ### 16.9. Registerakte und Lückenliste
 
-Bearbeitungsauftrag: Bearbeite Registerakte und Lückenliste entlang der Handelsrecht-Prüflinie: Status und Register: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
+Bestimme Unternehmensträger, Firma, Registerstand, Eintragung und Bekanntmachung. Ordne die bestellte Anmeldung der zuständigen Stelle, dem Pflichtigen, Auslöser und erforderlichen Inhalt zu. Fehlt ein Beleg, fordere ihn konkret an und vervollständige danach die Vorlage. Einen Übermittlungsnachweis nur bei tatsächlich erfolgter Einreichung ausweisen; ein vorbereiteter Entwurf darf keinen Versand behaupten.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
 ### 16.10. Firmenfortführung Paragrafen 21-25 HGB

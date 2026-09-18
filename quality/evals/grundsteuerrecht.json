@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "grundsteuerrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/ao_1977/__351.html",
@@ -10,14 +10,14 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Das individuelle Mini unterscheidet Bescheidketten und Landesmodelle bereits richtig. Ein fest eingetragener historischer Aktenname war für einen eigenständigen allgemeinen Download jedoch unpassend.",
+    "verdict": "retained",
+    "reason": "Vollständige Textprüfung am 18. September 2026: Der Schnellstart führt bereits von Bescheidstufe und Bekanntgabe über Grundstücksbelege zur getrennten Rechnung und nachgereichten Endfassung. Keine weitere Textänderung erforderlich.",
     "changes": [
-      "Fest vorgegebenen Aktenstand durch Ermittlung aus dem jeweiligen Auftrag ersetzt.",
-      "Bestehende getrennte Berechnungs- und Rechtsbehelfsrouten erhalten.",
-      "Historischen Aktenstand November 2024 als konkreten Schutz vor rückdatierten späteren Urteilen erhalten."
+      "Getrennte Behandlung von Wert, Messbetrag, Jahressteuer und Zahlungsstand beibehalten.",
+      "Historischen Zeitstand, Landesmodell und Fortsetzung nach Teilungs- oder Katasterbeleg erhalten.",
+      "Vorhandenen Quellenprüfstand nicht als neu bestätigt ausgegeben."
     ],
-    "sha256": "0e3b5bd841267d0af5444733439fc0f00c313f33a2b3a09013bd95f40813a7ad"
+    "sha256": "00d1253ee96ea9a37c0eb8149035237f4bc144412026f99304b0a8cd0bf89a9e"
   },
   "selection": {
     "positive": [
@@ -62,5 +62,15 @@
       ],
       "target_skill": "einspruch-und-aenderungsantrag-entwerfen"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vollständige Werkstattprüfung am 18. September 2026: Die Abschnitte 1 bis 16 enthalten einen eigenständigen Grundsteuerablauf. Der angehängte Routenblock wiederholte ihn vollständig und verlangte erneut Zusatzprodukte; Quellenhinweise waren teilweise noch dem Außenbrief zugeordnet.",
+    "changes": [
+      "Doppelten Schlussblock entfernt; sämtliche dortigen Grundsteuerregeln verbleiben in den fachlichen Hauptabschnitten.",
+      "Entscheidungsprüfung als Arbeitsprüfung statt verpflichtender Fallkarten-Ausgabe formuliert.",
+      "Quellenlücken und Freigabevermerke der getrennten Arbeitsnotiz zugeordnet; materielle Unsicherheit in der Empfehlung nicht verschwiegen."
+    ],
+    "sha256": "1fa1f36a74cb9f42615b275811cb00ccad7ecd9ce463d3cd668f3ab3407f9e40"
+  }
 }

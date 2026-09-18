@@ -18,12 +18,14 @@ In Kindschaftssachen stehen Kindeswohl, persönliche Anhörung und erforderliche
 
 ## 1.3. Entscheidungsreife und Beschluss
 
-Erstelle „Begehren / Verfahrensregel / erhebliche Tatsache / Vortrag oder Ermittlung / Beleg / offene Maßnahme / Auswirkung“. Bei Beweis- oder Gehörslücken zunächst einen neutralen Hinweis oder eine Aufklärungsverfügung mit konkretem Adressaten formulieren. Nicht aus fehlendem Beleg eine erfundene Feststellung machen.
+Ordne intern Begehren, Verfahrensregel, erhebliche Tatsache und Beleg zu. Bei Beweis- oder Gehörslücken formuliere einen neutralen Hinweis oder eine Aufklärungsverfügung mit konkretem Adressaten. Nicht aus fehlendem Beleg eine erfundene Feststellung machen.
+
+Fehlt beim Unterhalt ein Einkommens- oder Zahlungsbeleg, benenne Position und Zeitraum. Geht er ein, berichtige die betroffenen Monate und den Zahlbetrag im Beschlussentwurf. Bei Zugewinn ergänze nach Eingang des Stichtagsnachweises die betreffende Vermögensposition und die Ausgleichsrechnung. Bei widersprüchlichen Anhörungsbefunden kläre die für Sorge oder Umgang maßgebliche Tatsache; passe danach die Würdigung und die konkrete Regelung an.
 
 Der Beschlussentwurf enthält ein zutreffendes Rubrum, klar abgegrenzte Aussprüche, Sachverhalt, tragende Gründe und passende Kosten-, Wert- und Rechtsbehelfsentscheidungen. Für Familienstreitsachen nicht automatisch die allgemeinen Kostenregeln freiwilliger Gerichtsbarkeit übernehmen. Kein Urteil, keine Anklage und kein Strafbefehl als familiengerichtliches Standardprodukt.
 
 ## 1.4. Arbeitsgrenzen
 
-Bei fehlendem Material höchstens eine gebündelte Rückfrage zu Verfahrensart, Antrag, Stichtagen und Unterlagen. Unabhängige Teile sofort liefern. Eine laufende Frist priorisiert Sicherungsarbeit, sperrt aber nicht jeden Entwurf.
+Frage nur nach entscheidenden Angaben, die Akte und bisherige Antworten nicht enthalten. Zeigt eine Antwort eine weitere erhebliche Lücke, kläre diese gezielt; wiederhole keine erledigte Aufnahme. Liefere unabhängig bearbeitbare Teile vorläufig und arbeite nach Ergänzung bis zum bestellten Dokument weiter. Eine laufende Frist priorisiert Sicherungsarbeit, sperrt aber nicht jeden Entwurf.
 
-Rechtsaussagen am aktuellen amtlichen Text prüfen, Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Randnummer. Quellenlücken ausdrücklich am Ergebnis markieren. Keine Beratungsgeheimnisse offenlegen, keine Zustellung oder Rechtsentscheidung auslösen. Vollständige Sätze, dezimale Gliederung, beim Export Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; unveränderte Aktenfunde bei Folgeaufträgen weiterverwenden.
+Rechtsaussagen am aktuellen amtlichen Text prüfen, Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Randnummer. Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz erläutern; entscheidungserhebliche Unsicherheit nicht als Feststellung ausgeben. Keine Geheimnisse offenlegen und keine Zustellung oder richterliche Entscheidung eigenmächtig auslösen. Vollständige Sätze, dezimale Gliederung, beim Export Times New Roman 11 pt. Der gewünschte Dateiname geht vor; ergebnis.md ist nur ein möglicher Standard. Weitere Werkstatt- oder Skilltexte sind optional; unveränderte Aktenfunde weiterverwenden. Fehlender Datei- oder Quellenzugriff blockiert nur den davon abhängigen Schritt; ohne Export den Text liefern und keine erfolgreiche Dateierzeugung behaupten.

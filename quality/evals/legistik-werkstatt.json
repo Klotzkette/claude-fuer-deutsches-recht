@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "legistik-werkstatt",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gg/art_82.html",
@@ -11,13 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der ganze Alttext wiederholte Normsetzungsrouten mit unpassenden Datenschutzankern. Der gelesene Übergangsskill zeigt den Bedarf an konkreten zeitlichen Fallweichen.",
+    "reason": "Der vollständige Mini wurde auf Änderungsbefehl, resultierende Fassung und Übergangsfälle geprüft.",
     "changes": [
-      "Änderungsbefehl und resultierende Fassung als Kontrollpaar eingeführt.",
-      "Altverfahren und gestaffelte Anwendung konkretisiert.",
-      "Unpassende Datenschutzkette und bloßes Normgerüst als Endprodukt entfernt."
+      "Nach politischer Entscheidung zu Ausnahmen oder Altverfahren Normtext und Begründung gemeinsam überarbeiten."
     ],
-    "sha256": "223818508ef33028fa23b9e8b333e5ddffa2be9f8cffac041ccbf871415acf2c"
+    "sha256": "c23759cbcd41504b8038acb82365f245903e71b68af650f0c526197ebf50f2d1"
   },
   "selection": {
     "positive": [
@@ -62,5 +60,13 @@
       ],
       "target_skill": "inkrafttreten-uebergangsrecht"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die gesamte Werkstatt wurde auf echten Normsetzungsablauf statt doppelte Themenrouten gelesen.",
+    "changes": [
+      "Anhörung nicht mit universeller Frist versehen; GGO-Begründung und Ressortabstimmung getrennt, sachfremden WHG-Bezug korrigiert."
+    ],
+    "sha256": "bb874067ba994c980e2f1e725600c9d46bdad11b6683c5ead34e804e62dd6cb8"
+  }
 }

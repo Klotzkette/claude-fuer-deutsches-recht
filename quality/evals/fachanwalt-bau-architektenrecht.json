@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-bau-architektenrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR__33-19.pdf?__blob=publicationFile&v=1",
@@ -16,13 +16,32 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Schnellstart beschrieb die Mängelbeweislast ohne ausreichende Abnahmeabhängigkeit und ließ die Abgrenzung zwischen konkreter Vorhaltung und bloß verlängerter Gesamtbauzeit offen.",
+    "reason": "Ganztextreview: Die fachlich brauchbaren Abnahme- und Vorhaltungsregeln standen noch zwischen mehrfach wiederholten Kernrouten und Ergebnistabellen. Der Mini wurde nach Bauakte, Nachforderung und konkretem Anspruch gegliedert; keine erneute Quellenverifikation oder Live-Modellprüfung.",
     "changes": [
-      "Beweislast abhängig von Anspruch und Abnahmestand formuliert.",
-      "Ressourcen, Störtage, Ersparnisse und anderweitigen Einsatz als eigene Prüfdaten aufgenommen.",
-      "Spätere Folgekosten und Doppelzählungen gegenüber der Entschädigung abgegrenzt."
+      "Doppelte Einsatzfeldtabellen und Antwortschablone entfernt, fachliche Abschnitte zu Abnahme, Mangel, Nachtrag und Planung erhalten.",
+      "Fehlende Anordnung, Abnahmeerklärung oder Tagesnachweise führen zu gezielter Nachfrage und anschließender Änderung des bestellten Dokuments.",
+      "Ressourcenrechnung, Ersatzbaustellen und Trennung späterer Folgekosten erhalten; Dateinamen dem Nutzer überlassen."
     ],
-    "sha256": "1991f3a2207a11d8c6e7483159539cc70e8552999a4cae8d2c24f16b965f1818"
+    "sha256": "1d19cca9ea02a5c289e9b95127e891eb526b2b378ccceb4682d1f2d651e487fc"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständig gelesene Werkstatt wiederholte Baufragen in Tabellen und zwölf schematischen Routen und übertrug Anzeige- und Beweislastsätze zu pauschal. Der Gesamttext wurde nach den Anspruchs- und Projektfragen geordnet; keine neue Quellenverifikation oder Live-Modellprüfung.",
+    "changes": ["Abnahme, Mängel, Nachträge, Vorhaltung, Architektenhonorar und Bauträgerfragen in konkrete Bearbeitungswege überführt.","Städtebauliche Bindungen, Denkmalschutz und Nachbarrecht erhalten; unvollständige alte Entscheidungsangaben ausdrücklich als ungeprüfte Recherchehinweise bezeichnet.","Bauprozessanlagen und technische Übermittlung von materiellen Nachweislücken getrennt; nach neuen Belegen bis zur bestellten Endfassung fortsetzen."],
+    "sha256": "2209bff10c868acf8c9dcace4c035705ead4eab5a0668e7884bf794240ebe7bb"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [
+      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+    ],
+    "prompt_path": "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-hauptproblem.md",
+    "prompt_sha256": "0becfff08b5ba3e9d7253eb85326c7bef9d9a35f10fbb1748b1af62af155471e",
+    "skill_path": "fachanwalt-bau-architektenrecht/skills/bauzeitentschaedigung-vorhaltung-und-folgezeiten/SKILL.md",
+    "skill_sha256": "3b77441bfdf731f486c015a91dab3d7e708f774127f32cb7ea11d0ef2d894394"
   },
   "selection": {
     "positive": [

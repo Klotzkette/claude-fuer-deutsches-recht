@@ -3,103 +3,46 @@ name: 99-finale-entscheidung-volltext
 description: "Für Finale Entscheidung als Volltext (Urteil Sozialgericht): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Finale Entscheidung als Volltext (Urteil Sozialgericht)
+# 1 Sozialgerichtliche Entscheidung ausformulieren
 
-## Zweck
+Erstelle den bestellten vollständigen Entscheidungsentwurf anhand der vorhandenen Akte und Prüfungen. Der Text bleibt ein Entwurf zur menschlichen Entscheidung, auch wenn er vollständig ausformuliert ist.
 
-Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern als versandfertigen Volltext im richtigen Layout — so, wie er das Gericht verlassen würde. Die Entscheidung wird zur Unterschrift fertig gebaut: mit Rubrum, vollständigem Tenor, Tatbestand oder Sachverhalt, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung.
+## 1.1 Entscheidungsgrundlage
 
-Gegenstand: Urteil des Sozialgerichts.
+Lies Klage oder Antrag, Bescheidkette, Verwaltungsakte, Beteiligtenvortrag und Beweisergebnisse. Bestimme Streitgegenstand und Teilzeiträume. Vorbereitende Skills sind optional; ihr vorheriger Aufruf ist keine Voraussetzung.
 
-## Rechtlicher Rahmen
+Prüfe statthafte Entscheidungsform, notwendige Beiladung, Vorverfahren, Klagefrist und rechtliches Gehör. Paragrafen 125 und 136 SGG für das Urteil sowie die jeweils einschlägigen Regeln für Gerichtsbescheid oder Beschluss anwenden. Keine mündliche Verhandlung oder Beratung erfinden.
 
-Paragrafen 125, 136 SGG für Urteilsaufbau; Paragraf 193 SGG für Kostenentscheidung im sozialgerichtlichen Verfahren.
+## 1.2 Fehlende Tatsachen und Fortsetzung
 
-## Eingangsvoraussetzungen
+Fehlt ein entscheidender Befund, Zahlungsnachweis oder Bescheid, benenne die konkrete Aufklärungsfrage. Liefere die unabhängig tragfähigen Teile als vorläufigen Entwurf; eine ungeklärte Anspruchsvoraussetzung nicht durch einen Platzhalter als erfüllt behandeln.
 
-Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein. Insbesondere müssen vorliegen:
+Nach Eingang der Antwort die betroffene medizinische Würdigung, Monatsberechnung oder prozessuale Bewertung aktualisieren. Anschließend Tenor und Gründe gemeinsam anpassen und das bestellte Dokument fertigstellen. Weitere gezielte Fragen sind zulässig, wenn neue Angaben entscheidende Widersprüche zeigen; erledigte Ermittlungen nicht wiederholen.
 
-- Rubrum mit allen Parteien, Vertretern und Aktenzeichen;
-- vollständig erfasster Sachverhalt und Streitstand;
-- geprüfte Anspruchsgrundlagen oder Tatbestandsmerkmale mit Subsumtion;
-- gewürdigte Beweise oder Akten;
-- Tenor-Skizze mit Entscheidungsformel zu Hauptsache, Kosten und vorläufiger Vollstreckbarkeit oder Rechtsmittelbelehrung.
+## 1.3 Tenor, Tatbestand und Gründe
 
-Fehlt eines dieser Stücke, weist der Skill darauf hin und unterbricht die Volltext-Erstellung, bevor er Phantasie produziert.
+Bezeichne Sozialgericht, Aktenzeichen, Beteiligte und Streitgegenstand zutreffend. Der Tenor muss genau erfassen, welcher Bescheid in welcher Fassung aufgehoben oder geändert wird und welche Leistung für welchen Zeitraum zugesprochen wird. Einen Rentenbeginn nicht aus einem allgemeinen Beispiel übernehmen.
 
-## Aufbau des Volltextes
+Stelle Sachverhalt, Anträge und entscheidungserheblichen Vortrag knapp dar. Würdige das Gesamtergebnis nach Paragraf 128 SGG nachvollziehbar; Amtsermittlung, Beteiligtenvortrag und eigene Überzeugungsbildung trennen. Medizinische Diagnose, Funktion und rechtliche Anspruchsvoraussetzung nicht gleichsetzen.
 
-### 1. Briefkopf und Rubrum
+Ermessensfehler und gegebenenfalls Ermessensreduzierung auf Null konkret begründen. Artikel 103 Absatz 1 GG und das Verbot der Überraschungsentscheidung beachten; der vorhandene Suchanker BVerfG, Beschluss vom 19. Mai 1992, 1 BvR 986/91, ist vor Verwendung im amtlichen Volltext zu prüfen.
 
-Gerichtsbezeichnung in der ersten Zeile (zum Beispiel „Amtsgericht München"), Aktenzeichen, Verkündungsdatum, vollständiges Rubrum mit Parteien, Prozessbevollmächtigten, Streitgegenstand und Spruchkörper.
+## 1.4 Eilentscheidung und Nebenentscheidungen
 
-### 2. Tenor (Entscheidungsformel)
+Bei Paragraf 86b SGG den zutreffenden Absatz bestimmen. Anordnungsanspruch, Anordnungsgrund und gegebenenfalls Folgenabwägung getrennt begründen; Reichweite und zeitliche Begrenzung einer vorläufigen Anordnung müssen aus dem Tenor hervorgehen.
 
-Der Tenor wird vollständig ausformuliert. Er ist die rechtskraftfähige Anordnung. Beispiel für diesen Spruchkörper:
+Kosten nach dem einschlägigen Regime prüfen: Paragraf 193 SGG gilt nicht unterschiedslos bei Paragraf 197a SGG. Statthaftes Rechtsmittel, Zulassungsfragen, Frist, Form und Adressat für die konkrete Entscheidung kontrollieren. Keine allgemeine zivilprozessuale Vollstreckbarkeitsformel oder sachfremde Strafzumessung ergänzen.
 
-1. Der Bescheid der Beklagten vom [Datum] in Gestalt des Widerspruchsbescheides vom [Datum] wird aufgehoben.
-2. Die Beklagte wird verurteilt, dem Kläger ab dem [Datum] eine Rente wegen voller Erwerbsminderung zu gewaehren.
-3. Die Beklagte hat dem Kläger die notwendigen außergerichtlichen Kosten zu erstatten.
+## 1.5 Quellen, Ausgabe und Schlussprüfung
 
-Der Tenor enthält zwingend: Hauptausspruch zur Sache, Kostenentscheidung, ggf. Aussprache zur vorläufigen Vollstreckbarkeit, ggf. Streitwertfestsetzung.
+Tragende Normen und Entscheidungen amtlich verifizieren; optional ergänzt `references/zitierweise.md` die Zitierweise. Zusätzliche Recherche- und Bearbeitungsvermerke getrennt vom gerichtlichen Text führen.
 
-### 3. Tatbestand oder Sachverhalt
+Liefere vollständige Sätze mit echten Umlauten, ausgeschriebenem Paragraf und dezimaler Gliederung. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt. Nutzerdateinamen haben Vorrang; `ergebnis.md` ist nur eine Ausweichbezeichnung.
 
-Knappe, sachlich-distanzierte Darstellung des unstreitigen Sachverhalts und des streitigen Parteivortrags. Bei Beschlüssen entsprechend „Gründe I."; bei Strafurteilen die Feststellungen zum Tatgeschehen. Verwende den Imperfekt für Geschehensschilderung, das Präsens für Antrag und Verfahrensstand.
+Kontrolliere Bescheiddaten, Leistungszeiträume, Beträge und Übereinstimmung von Tenor und Gründen. Noch entscheidungserhebliche Lücken verhindern die Kennzeichnung als unterschriftsreife Endfassung, nicht die Bearbeitung der übrigen Teile.
 
-### 4. Entscheidungsgründe
+## 1.6 Beispiel und Grenzen
 
-Strenge Subsumtionsstruktur: Anspruchsgrundlage oder Tatbestandsmerkmal, Tatbestandsvoraussetzungen, Subsumtion mit Belegen aus den Akten, Ergebnis. Einreden und Einwendungen am Ende der jeweiligen Prüfungsebene. Bei Strafurteilen Beweiswürdigung und Strafzumessung getrennt darstellen.
+Wird in einer Erwerbsminderungssache ein abweichender Eintrittszeitpunkt medizinisch belegt, prüfe auch die davon betroffenen versicherungsrechtlichen Voraussetzungen und den Rentenbeginn erneut. Der nachgereichte Befund darf nicht nur im Tatbestand ergänzt werden, während Tenor und Berechnung unverändert bleiben.
 
-### 5. Nebenentscheidungen
-
-Kosten, vorläufige Vollstreckbarkeit, Streitwertfestsetzung. Bei Familien- und Sozialsachen die jeweils einschlägigen Kostenregeln.
-
-### 6. Rechtsmittelbelehrung
-
-Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat. Niemals weglassen, niemals abkuerzen.
-
-### 7. Unterschriftenzeile
-
-Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
-
-## Prozessuale Glanzkontrolle
-
-Vor der finalen Entscheidung wird zwingend geprüft:
-
-1. Rechtsschutzart, Antrag und Tenor passen zusammen.
-2. Amtsermittlung, Beteiligtenvortrag und Beweiswürdigung sind getrennt dargestellt.
-3. Notwendige Beiladung, Vorverfahren, Klagefrist, Statthaftigkeit und Rechtsschutzbedürfnis sind sichtbar erledigt.
-4. Eilrechtsschutz trennt Anspruch, Grund, Folgenabwägung und Reichweite der Anordnung.
-5. Ermessensfehler werden als Ausfall, Fehlgebrauch, Überschreitung oder Reduktion auf Null benannt.
-6. Artikel 103 Absatz 1 GG und das Verbot der Überraschungsentscheidung sind geprüft; BVerfG, 19.05.1992 - 1 BvR 986/91 dient als Anker.
-
-## Format und Stil
-
-- Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).
-- Sachlich, knapp, in deutscher Gerichtssprache.
-- Generisches Maskulinum.
-- Paragrafenzeichen ausgeschrieben als „Paragraf".
-- Aktenzeichen Punkt- oder Schrägstrich-Stil, niemals Komma.
-- Keine Doppelsterne für Fettschrift im Fliesstext.
-
-## Ergebnis
-
-Ein vollständiger, versandfertiger Entscheidungstext, der von Rubrum bis Unterschrift alles enthält. Der Spruchkörper kann ihn unterschreiben — oder vor der Unterschrift redaktionell pruefen. Bei offenen Lückenpunkten bleibt der Volltext stehen, die Lücken werden in eckigen Klammern markiert und am Ende in einer Lücken-Liste zusammengefasst.
-
-## Eigenkontrolle
-
-Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
-
-1. Stimmt der Tenor mit den Entscheidungsgründen überein?
-2. Ist die Kostenentscheidung folgerichtig?
-3. Ist die Rechtsmittelbelehrung vollständig und richtig?
-4. Sind alle Parteibezeichnungen einheitlich?
-5. Sind alle Daten, Aktenzeichen und Betraege widerspruchsfrei?
-6. Sind alle Lückenpunkte explizit markiert?
-
-Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill ordnet den sozialgerichtlichen Streitstoff nach Bescheid, Widerspruchsbescheid, Verwaltungsakte, Klagebegründung, medizinischer oder beitragsrechtlicher Tatsache und Amtsermittlung. Er hält fest, welche Unterlage noch von der Behörde, dem Kläger, einem Arzt oder einem Sachverständigen benötigt wird.
+Sozial- und Gesundheitsdaten sowie Beratungsgeheimnis schützen. Unterzeichnung, Verkündung und Zustellung nicht simulieren; externe Handlungen nur nach ausdrücklicher Freigabe. Fehlende Zugriffe und nicht erzeugte Dateien offen benennen.

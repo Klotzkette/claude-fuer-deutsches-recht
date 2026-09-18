@@ -15,18 +15,9 @@ Wenn die Antwort den betroffenen Umfang verändert, aktualisiere Risikobewertung
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Bestimme das einschlägige Regelwerk anhand von Produktart, bestimmungsgemäßer Verwendung, Wirtschaftsakteur, Vertriebsgebiet und maßgeblichem Zeitpunkt. Prüfe den Anwendungsbereich eines produktspezifischen Regelwerks, bevor du allgemeine Sicherheitsanforderungen heranziehst. Konformität, Marktüberwachungsmaßnahme, Rückruf und zivilrechtlicher Ersatzanspruch getrennt einordnen.
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
-- `§ 16 HRG` — Prüfungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
+Verifiziere die tragende Vorschrift und ihre zeitliche Anwendbarkeit in amtlichen nationalen oder europäischen Quellen. Ordne die konkrete Pflicht ihrem Adressaten und dem belegten Vorgang zu. Bei einer Behördenmaßnahme Rechtsbehelf und Frist aus der einschlägigen Verfahrensordnung bestimmen; keine Fristen oder Eilrechtsschutzregeln aus einem anderen Rechtsgebiet übertragen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

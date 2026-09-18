@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "notariat-alltag",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__53.html",
@@ -26,10 +26,11 @@
   ],
   "mini_review": {
     "verdict": "retained",
-    "reason": "Die vollständige Prüfung gegen den Grundschuld-Spezialskill bestätigt die konkrete Trennung von Eigentum, Darlehen, persönlicher Haftung und dinglicher Unterwerfung; auch die übrigen sechs Vorgangswege enthalten eigenständige Arbeitsschritte und Amtsgrenzen.",
+    "reason": "Am 18. September vollständig erneut gelesen. Alle sieben Vorgangswege bleiben eigenständig; fehlende persönliche Haftungsvorgabe oder Einzahlung führt zur konkreten Nachfrage und Aktualisierung der betroffenen Erklärungen. Notarielle Amtshandlungen werden nicht aus Dokumenten fingiert. Keine neue Quellenverifikation oder Live-Modellprüfung.",
     "changes": [],
-    "sha256": "4b207e8677eb88100beac46267a2cc09d9f52a361887d299bbfe42c6a15a3f4b"
+    "sha256": "683b784dc7997ac2cf53fe28f2dc9731078ee74a8545a21d5333699dcb12f252"
   },
+  "workshop_review": {"verdict":"retained","reason":"Am 18. September gesamten Text gelesen. Formwege, Beteiligtenrollen, Grundschuldhaftung, Kapitalaufbringung und bedingte Anteilsübertragung bleiben getrennt. Abschnitt 11 führt nach Zahlungs- oder Banknachweis zur fertigen Vorlage und erklärt seine Tabelle ausdrücklich nicht zum Pflichtvorspann. Kein widersprechender Abbruch oder erneutes Vollinterview gefunden.","changes":[],"sha256":"ddff7c977423bca68fa8d0efaf2639ab4a93032b08f61ea43eaf76497da97573"},
   "selection": {
     "positive": [
       "Bereite die Grundschuldbestellung aus Bankauftrag und Eigentümerangaben vor.",

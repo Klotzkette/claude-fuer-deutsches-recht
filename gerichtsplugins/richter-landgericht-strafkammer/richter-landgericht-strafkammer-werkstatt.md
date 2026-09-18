@@ -50,7 +50,7 @@ Strafrahmen und Strafzumessung nach StGB Paragraf 46 anhand festgestellter Tatsa
 
 Bei Gesamtstrafen Vorverurteilungen mit Tatzeit, Entscheidungsdatum und Vollstreckungsstand aufnehmen. Fehlt letzterer, den konkreten Nachweis anfordern und nach Eingang die Gesamtstrafenprüfung aktualisieren. Bereits geklärte Tatkomplexe nicht neu aufnehmen.
 
-Maßregeln nach StGB Paragraf 61 einschließlich einer gegebenenfalls zu prüfenden Sicherungsverwahrung, Einziehung nach Paragrafen 73 ff. und sonstige Nebenfolgen getrennt behandeln. Den im Ausgangsmaterial enthaltenen weiteren Verweis auf Paragrafen 76 ff. nur nach Prüfung seines konkreten Regelungsgegenstands verwenden, nicht als pauschalen Ersatz der Maßregelvoraussetzungen. Voraussetzungen, Tatsachengrundlage und Tenor müssen für jede Rechtsfolge zusammenpassen.
+Maßregeln nach StGB Paragraf 61 einschließlich einer gegebenenfalls zu prüfenden Sicherungsverwahrung, Einziehung nach Paragrafen 73 ff. und sonstige Nebenfolgen getrennt behandeln. Paragrafen 76 ff. nur nach Prüfung ihres konkreten Regelungsgegenstands heranziehen, nicht als pauschalen Ersatz der Maßregelvoraussetzungen. Voraussetzungen, Tatsachengrundlage und Tenor müssen für jede Rechtsfolge zusammenpassen.
 
 ## 1.6. Entscheidung und Fortsetzung
 

@@ -49,7 +49,7 @@ BAG, Urteil vom 16.01.2018, Az. 7 AZR 312/16, [amtlicher Volltext](https://www.b
 
 Liefere das beauftragte Gutachten, Forderungs- oder Erwiderungsschreiben unter dem gewünschten Dateinamen; nur ohne Benennung verwende `ergebnis.md`. Begründe Bestands- und Zahlungsfolgen getrennt. Einsatzkonto, Schwellenrechnung und Motivvergleich nur im erforderlichen Umfang ausgeben; interne Prüffelder sind keine Pflichtüberschriften. Ein Gutachtenauftrag verlangt keinen ungefragten Klageentwurf.
 
-Offene Tatsachen nicht als bewiesen darstellen; Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz festhalten. Nach angeforderten Belegen die Rechnung und Begründung aktualisieren und bis zum bestellten Ergebnis fortsetzen. Vollständige Sätze, keine Schriftsatzskelette. Dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext; Exporthinweis: Times New Roman, 11 pt.
+Offene Tatsachen nicht als bewiesen darstellen; Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz festhalten. Nach angeforderten Belegen die Rechnung und Begründung aktualisieren und bis zum bestellten Ergebnis fortsetzen. Ohne Dateiexport das bestellte Gutachten oder Schreiben mit Einsatz- und Prämienrechnung vollständig als Antworttext liefern; keinen Download vortäuschen. Vollständige Sätze, keine Schriftsatzskelette. Dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext; Exporthinweis: Times New Roman, 11 pt.
 
 ## 1.6. Beispiele
 

@@ -34,6 +34,22 @@ def module(name, filename):
 G = module("workflow_generator", "generate-werkstatt-und-schnellstart-prompts.py")
 R = module("workflow_refiner", "refine-speed-and-elegance.py")
 A = module("workflow_routing_audit", "audit-prompt-profile-routing.py")
+S = module("workflow_law_sentinels", "validate-current-law-sentinels.py")
+
+
+class CitationSentinelTests(unittest.TestCase):
+    def test_arag_name_is_not_part_of_paragraf(self):
+        sentinel = next(item for item in S.SENTINELS if item.label.startswith("II ZR 331/00"))
+        for text in (
+            "II ZR 331/00: Außen-GbR; BGB Paragrafen 705 ff. berücksichtigen.",
+            "Paragraf 705 BGB: II ZR 331/00.",
+            "II ZR 331/00: Außen-GbR.\nII ZR 175/95: ARAG/Garmenbeck.",
+        ):
+            with self.subTest(text=text):
+                self.assertIsNone(sentinel.pattern.search(text))
+        for text in ("II ZR 331/00: ARAG/Garmenbeck", "ARAG-Garmenbeck, II ZR 331/00"):
+            with self.subTest(text=text):
+                self.assertIsNotNone(sentinel.pattern.search(text))
 
 
 class WorkflowPreservation(unittest.TestCase):

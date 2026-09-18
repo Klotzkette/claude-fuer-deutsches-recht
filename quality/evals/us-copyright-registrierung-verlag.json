@@ -1,28 +1,72 @@
 {
   "schema_version": 1,
   "plugin": "us-copyright-registrierung-verlag",
-  "reviewed_on": "2026-09-14",
-  "sources": [{"url": "https://www.copyright.gov/title17/92chap4.html", "checked_on": "2026-09-14", "supports": "Geöffneter amtlicher Volltext: Sections 408, 410(d), 411 und 412 trennen Schutz, effektives Registrierungsdatum, Prozesszugang und Einschränkung bestimmter Remedies samt Dreimonatsausnahme."}],
+  "reviewed_on": "2026-09-18",
+  "sources": [
+    {
+      "url": "https://www.copyright.gov/title17/92chap4.html",
+      "checked_on": "2026-09-14",
+      "supports": "Geöffneter amtlicher Volltext: Sections 408, 410(d), 411 und 412 trennen Schutz, effektives Registrierungsdatum, Prozesszugang und Einschränkung bestimmter Remedies samt Dreimonatsausnahme."
+    }
+  ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Werk- und Registrierungsfelder waren brauchbar. Werkstatt und Litigation-Skill nennen Zeitpunkte, erläutern aber die Dreimonatsausnahme und den Unterschied zwischen Zertifikat und effektivem Datum im Mini nicht ausreichend.",
-    "changes": ["Werkbezogene Registrierungszeitachse ergänzt", "Schutz, Klagevoraussetzung und Remedies getrennt", "Section 412 samt Dreimonatsausnahme konkretisiert", "Keine automatische Anspruchslosigkeit bei gesperrten gesetzlichen Schadensersatzbeträgen"],
-    "sha256": "323865323399c4f496cd195eb9ba2208731123865cf045ae7da155eb92ad72e9"
+    "reason": "Mini vollständig gelesen; die brauchbare Trennung von Schutz, Registrierung und Rechtsfolgen stand neben starrem Einmal-Rückfragenlimit und Pflicht-Worksheet.",
+    "changes": [
+      "Rechteurkunde, Veröffentlichungsnachweis und Office Action als konkrete Rückfragefälle eingebunden; nach Antwort Formular oder bestellten Entwurf fertigstellen, Registrierungstiming erhalten."
+    ],
+    "sha256": "0fb95a2b895be63cb1647a1af5704cdf3ba3c2d384c71a0eeb963a620f2f7f79"
   },
   "selection": {
-    "positive": ["Prüfe das Registrierungstiming unserer US-Buchausgabe für statutory damages und attorney's fees.", "Erstelle ein Registration Worksheet mit Werkfassung, Claimant, Deposit und effektivem Datum."],
-    "negative": ["Prüfe ausschließlich das deutsche Zitatrecht in einer Buchrezension.", "Bereite einen US-Markenantrag für den Verlagsnamen vor."]
-  },
-  "cases": [{
-    "id": "registrierung-innerhalb-dreimonatsfenster",
-    "request": "Erstelle in ergebnis.md ein Remedies-Memo für unseren US-Verlag. Ein unstreitig geschütztes United States work wurde erstmals am 1. Juni 2026 veröffentlicht. Die dokumentierte unlizenzierte Vervielfältigung begann am 10. Juni. Antrag, korrekte Gebühr und vollständiges Deposit gingen am 20. August beim Copyright Office ein und wurden später sämtlich als ordnungsgemäß anerkannt. Das Zertifikat wurde am 10. September erteilt und nennt den 20. August als effective date. Heute ist der 14. September. Es gab keine Preregistration; die Rechtekette ist unstreitig. Bitte bewerte, ob das Registrierungstiming statutory damages und attorney's fees ausschließt. Schadenshöhe und gerichtliche Ermessensentscheidung sollen nicht vorweggenommen werden.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id": "C01", "text": "Das Ergebnis verwendet den 20. August als effektives Registrierungsdatum und nicht den Tag der Zertifikatserteilung.", "deliverables": ["ergebnis.md"]},
-      {"id": "C02", "text": "Es erkennt die Registrierung innerhalb von drei Monaten nach Erstveröffentlichung und behandelt die vor Registrierung begonnene Verletzung nicht pauschal als Sperre nach Section 412.", "deliverables": ["ergebnis.md"]},
-      {"id": "C03", "text": "Die fehlende zeitliche Sperre wird nicht mit einem sicheren Zuspruch oder einer festen Schadenshöhe gleichgesetzt; Prozessvoraussetzung und Remedies bleiben getrennt.", "deliverables": ["ergebnis.md"]}
+    "positive": [
+      "Prüfe das Registrierungstiming unserer US-Buchausgabe für statutory damages und attorney's fees.",
+      "Erstelle ein Registration Worksheet mit Werkfassung, Claimant, Deposit und effektivem Datum."
     ],
-    "target_skill": "litigation-readiness-section-411-412"
-  }]
+    "negative": [
+      "Prüfe ausschließlich das deutsche Zitatrecht in einer Buchrezension.",
+      "Bereite einen US-Markenantrag für den Verlagsnamen vor."
+    ]
+  },
+  "cases": [
+    {
+      "id": "registrierung-innerhalb-dreimonatsfenster",
+      "request": "Erstelle in ergebnis.md ein Remedies-Memo für unseren US-Verlag. Ein unstreitig geschütztes United States work wurde erstmals am 1. Juni 2026 veröffentlicht. Die dokumentierte unlizenzierte Vervielfältigung begann am 10. Juni. Antrag, korrekte Gebühr und vollständiges Deposit gingen am 20. August beim Copyright Office ein und wurden später sämtlich als ordnungsgemäß anerkannt. Das Zertifikat wurde am 10. September erteilt und nennt den 20. August als effective date. Heute ist der 14. September. Es gab keine Preregistration; die Rechtekette ist unstreitig. Bitte bewerte, ob das Registrierungstiming statutory damages und attorney's fees ausschließt. Schadenshöhe und gerichtliche Ermessensentscheidung sollen nicht vorweggenommen werden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis verwendet den 20. August als effektives Registrierungsdatum und nicht den Tag der Zertifikatserteilung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Es erkennt die Registrierung innerhalb von drei Monaten nach Erstveröffentlichung und behandelt die vor Registrierung begonnene Verletzung nicht pauschal als Sperre nach Section 412.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die fehlende zeitliche Sperre wird nicht mit einem sicheren Zuspruch oder einer festen Schadenshöhe gleichgesetzt; Prozessvoraussetzung und Remedies bleiben getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "litigation-readiness-section-411-412"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig einschließlich aller Deposit-, Rechte- und Verwertungsthemen geprüft; doppelte Fallkarten und Standardrouten erschwerten die Bearbeitung.",
+    "changes": [
+      "Werkumfang, Rechtekette, Antrag, Deposit, Office Action und Verletzungsfolgen zusammenhängend geordnet; alle vorhandenen Spezialthemen erhalten, keine automatische Klage und keine pauschale Deposit-Kopienzahl."
+    ],
+    "sha256": "4c13fd648c8b8380cf03c7b43061add8ffb97c1b9285802a1e1fb1c979c67c18"
+  }
 }

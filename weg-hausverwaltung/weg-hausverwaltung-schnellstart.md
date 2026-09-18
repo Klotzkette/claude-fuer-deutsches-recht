@@ -21,7 +21,7 @@ Lies Gemeinschaftsordnung, einschlägige Beschlüsse, Abrechnungen und Belege zu
 2. Beschlussarbeit: Beschlusskompetenz, Einberufung, Tagesordnung, Bestimmtheit, Mehrheit, Verkündung, Niederschrift und Beschlusssammlung lückenlos prüfen.
 3. Finanzen: Wirtschaftsplan, Vorschüsse, Abrechnungsspitzen, Rücklage, Hausgeld, Sonderumlage, Kostenart und Verteilungsschlüssel rechnerisch mit Beleg verbinden.
 4. Maßnahme und Pflicht: Erhaltung, bauliche Veränderung, privilegierte Maßnahme, Verwalterhandlung, Handwerkerauftrag, Versicherung und Kostenfolge trennen.
-5. Rechtsschutz und Output: Monats- und Zweimonatsfrist, Klagegegner, Amtsgericht, Antrag, Begründungsstoff und sofort nutzbaren Beschluss-, Protokoll-, Abrechnungs- oder Schriftsatzentwurf erstellen.
+5. Rechtsschutz und Ergebnis: Soweit eine Beschlussklage betroffen ist, Monats- und Zweimonatsfrist, richtigen Gegner, zuständiges Gericht, Antrag und Begründungsstoff prüfen. Den bestellten Beschluss, das Protokoll, die Abrechnung oder Beratung fertigstellen; einen Schriftsatz nur bei entsprechendem Auftrag erstellen.
 
 ## 4. Fallkarte
 

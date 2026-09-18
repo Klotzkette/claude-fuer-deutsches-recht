@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-sportrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/tzbfg/__14.html",
@@ -26,14 +26,25 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der bisherige Standardausgang war eine Sportfallkarte mit Verbandsentscheidung; arbeitsvertragliche Optionen und Prämien benötigten einen eigenen Zugang ohne pauschalen Verbandsinstanzenzug.",
+    "reason": "Mini vollständig gelesen. In der Verbandsroute bestand noch ein unbedingter Auftrag zum Rechtsbehelfsentwurf, der dem späteren Vorrang des Beratungsauftrags widersprach.",
     "changes": [
-      "Arbeitsvertrag, Verlängerungsbedingung, Optionsausübung und Prämie getrennt.",
-      "Offizielle Spielberichte und konkreten Klauselwortlaut als Rechengrundlage verlangt.",
-      "Staatliche, vertragliche und verbandliche Fristen voneinander abgegrenzt.",
-      "Fehlende Regelfassung als offene Prüffrage statt globalem Arbeitsabbruch behandelt."
+      "Rechtsbehelfsentwurf ausdrücklich an entsprechenden Auftrag gebunden; sonst verlangte Beratung liefern.",
+      "Vorhandene Fortsetzung nach Spielbericht und Zustellungsnachweis erhalten; Option und Prämie bleiben getrennte Rechnungen."
     ],
-    "sha256": "4bbca4ac781bf231e0f93956bf6fb717c25ebdd09b0249c5ceda448fc4dd3316"
+    "sha256": "89fe0aa70cb1ef729d018ec2b10490ceee804f3ecbdf4f64cab941d9ef6949a8"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [
+      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+    ],
+    "prompt_path": "fachanwalt-sportrecht/fachanwalt-sportrecht-hauptproblem.md",
+    "prompt_sha256": "46d9173681504b08d875394b69a38502237e22b126fe4640aa0bd58ca6f2881f",
+    "skill_path": "fachanwalt-sportrecht/skills/spielereinsaetze-optionsschwelle-praemienbeweis/SKILL.md",
+    "skill_sha256": "c81af676ffe956eecbbf4f86f46e4b8de3a07e18fc651bf619713f2b213109eb"
   },
   "selection": {
     "positive": [
@@ -86,5 +97,15 @@
       ],
       "target_skill": "spielereinsaetze-optionsschwelle-praemienbeweis"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig einschließlich CAS, Transfer, Doping, E-Sport und Abschluss gelesen. Vertrags-, Verbands- und staatliche Wege bleiben getrennt und neue Belege führen zu konkreten Textänderungen.",
+    "changes": [
+      "Spielbericht und Trainernachricht mit Einsatzanrechnung und Kausalitätsprüfung verknüpft.",
+      "Labor- oder Zustellungsnachweis gezielt nachfordern und Stellungnahme beziehungsweise Rechtsbehelf fertigstellen lassen.",
+      "Keine pauschale CAS-Frist, Sperrdauer oder ungefragte Verbandsroute bei Sponsoring; bestehendes focus_review erhalten."
+    ],
+    "sha256": "3404240c92fa9778db06af01319413597c71a585285d529b5e37e4f3c5e34ac2"
+  }
 }

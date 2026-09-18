@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-handels-gesellschaftsrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__34.html",
@@ -25,14 +25,25 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Der alte Einstieg führte auch Handelsmandate pauschal zu einer gesellschaftsrechtlichen Maßnahme und behandelte Organbeweislast unterschiedslos. Der neue Einstieg erhält unterschiedliche Fachrouten und macht die Finanzierbarkeit der Einziehung eigenständig bearbeitbar.",
+    "verdict": "retained",
+    "reason": "Vollständige Textprüfung am 18. September: Rügezugang, Provisionsunterlagen und Finanzierungsbedingungen führen zum aktualisierten Schreiben beziehungsweise zur getrennten Vermögens- und Liquiditätsrechnung.",
     "changes": [
-      "Handelskauf und Handelsvertretermandat ausdrücklich von Beschlussarbeit getrennt.",
-      "Einheitliche Organbeweislastformel entfernt und auf die konkrete Anspruchsnorm zurückgeführt.",
-      "Abfindung, freies Vermögen und Liquidität samt Stichtagen voneinander getrennt; fehlende Form sperrt nur den Vollzug."
+      "Keine weitere Änderung an der vollständig gelesenen Mini-Fassung."
     ],
-    "sha256": "5d27a53dff15b17d83ae7da660d3815d5397624d0cece2c41f1fc053c3b5a40b"
+    "sha256": "053c0b2a681697b2ebb1b018a80207a4a5b56e3b28727e1a8a00110258e821b1"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [
+      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+    ],
+    "prompt_path": "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-hauptproblem.md",
+    "prompt_sha256": "4bc0be282bd3e186e174ae218360cef1a63c9c5f7c50a43b5400c425b45b4daf",
+    "skill_path": "fachanwalt-handels-gesellschaftsrecht/skills/gmbh-einziehung-abfindung-finanzierbarkeit/SKILL.md",
+    "skill_sha256": "c29f9ceb71c4833278af5bde3e13496cb0c7e1ab30802e8cce66a636a19f6044"
   },
   "selection": {
     "positive": [
@@ -85,5 +96,15 @@
       ],
       "target_skill": "gmbh-einziehung-abfindung-finanzierbarkeit"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Textprüfung am 18. September: Gute Arbeitsschritte und Informationsrechtsprüfung blieben erhalten. Wiederholte Beweislast- und Ausgabetabellen sowie der pauschale Beginn mit Versandvorbereitung widersprachen dem konkreten Handels- oder Gesellschaftsauftrag.",
+    "changes": [
+      "Doppelte Tabellen und generische Ausgaberouten entfernt; vorhandene spezifische Abschnitte beibehalten.",
+      "Organhaftung, Vertrag, Register, Kapitalerhaltung und Handelsgeschäft fachbezogen verbunden.",
+      "Registeranmeldung von tatsächlicher Übermittlung und Eintragung getrennt."
+    ],
+    "sha256": "fe423c487f8cdc011662189499a938a633627193b7d9101d4d448069eb42451d"
+  }
 }

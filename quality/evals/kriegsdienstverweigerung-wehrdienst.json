@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "kriegsdienstverweigerung-wehrdienst",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/wehrpflg/__2.html",
@@ -26,14 +26,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der alte Schnellstart behandelte Versammlungs-, Beamten- und Migrationsrecht statt der Gewissensdarstellung und des KDV-Verfahrens.",
+    "reason": "Vollständig geprüft: Persönliche Erläuterungen werden behutsam in die eigene Begründung eingearbeitet und mit Lebenslauf und Schreiben abgeglichen. Neue Widersprüche führen zu gezielten Fragen, nicht erfundenen Erlebnissen; Mini unverändert beibehalten.",
     "changes": [
       "Eigene Beweggründe, Lebenslauf und tatsächlichen Status in den Mittelpunkt gestellt.",
       "Behutsame Redaktion ohne erfundene Erlebnisse oder Anerkennungsgarantie.",
       "Antragseingang, Weiterleitung und Entscheidung getrennt; keine Befugnis zum Fernbleiben suggeriert."
     ],
-    "sha256": "600d060b82a3684a6727d9e81d434458c73ae70455f0114624fb08942b116ef1"
+    "sha256": "981a5db000e6023c8d38f3f75f10b58dad82da89149cef6dda5b9c31ffc3f83d"
   },
+  "workshop_review": {"verdict":"revised","reason":"Die vollständig gelesene Werkstatt enthält die persönliche Redaktionsfortsetzung; der allgemeine Rollenabsatz behandelte dagegen einen breiten Verwaltungsfall mit Stationsproduktpflicht.","changes":["Gewissensentwicklung von äußerlich belegbaren Terminen und Verfahrensdaten getrennt.","Bestellten Begründungstext oder Verfahrensbrief statt zusätzlicher Zwischenprodukte verlangt; keine persönlichen Erfahrungen ergänzen lassen."],"sha256":"6566da5fc5790b6136b46e0e7e6b8d63f31bfdd6a446aef47933c744c5fe7db9"},
   "selection": {
     "positive": [
       "Prüfe meine eigene KDV-Begründung auf Widersprüche zum Lebenslauf.",

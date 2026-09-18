@@ -14,7 +14,7 @@ Prüfe Rechtsweg sowie sachliche, örtliche, internationale und funktionelle Zus
 
 Für jede entscheidende Frist Auslöser, Zustellungsart, Beleg, Beginn, Dauer, Ende und erforderliche Handlung bestimmen. Nach ZPO Paragrafen 166 und folgende mögliche Zustellungsfragen und Heilung gesondert prüfen. Verfügungsdatum, Zustellung und tatsächliches Lesen sind verschiedene Ereignisse. Kalender und Feiertage kontrollieren; Verlängerungsantrag und bewilligte Verlängerung auseinanderhalten.
 
-Im schriftlichen Vorverfahren ZPO Paragraf 276 beachten: Verteidigungsanzeige und Klageerwiderung getrennt prüfen. Die im Mini erläuterte zweiwöchige Notfrist bei Inlandszustellung wird durch eine längere Erwiderungsfrist nicht verschoben; bei Auslandszustellung die Sonderregel prüfen. Säumnis und ein etwaiger Einspruch nach ZPO Paragrafen 339 ff. richten sich nach dem konkreten Verfahrensstand.
+Im schriftlichen Vorverfahren ZPO Paragraf 276 beachten: Verteidigungsanzeige und Klageerwiderung getrennt prüfen. Die zweiwöchige Notfrist bei Inlandszustellung wird durch eine längere Erwiderungsfrist nicht verschoben; bei Auslandszustellung die Sonderregel prüfen. Säumnis und ein etwaiger Einspruch nach ZPO Paragrafen 339 ff. richten sich nach dem konkreten Verfahrensstand.
 
 ### 1.2.1. Fehlenden Zustellnachweis nachfordern
 

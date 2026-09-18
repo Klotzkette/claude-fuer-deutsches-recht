@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "handelsrecht-hgb",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/hgb/__377.html",
@@ -10,14 +10,16 @@
     }
   ],
   "mini_review": {
+    "verdict": "retained",
+    "reason": "Aktuellen Mini vollständig gelesen. Untersuchung, Entdeckung und Absendung werden je Charge getrennt; nachgereichte Prüfprotokolle ändern Rügebewertung und Rechnung. Der Text verlangt die bestellte Rüge oder Antwort und keine ungefragte Klage; Belegverfügbarkeit wird nicht als Mangelnachweis behandelt. Keine weitere Korrektur nötig, keine neue Quellen- oder Live-Modellprüfung.",
+    "changes": [],
+    "sha256": "8cec2181abfac92efc77a08d9a3c1918cc860285190e9b29469b2ace7d116422"
+  },
+  "workshop_review": {
     "verdict": "revised",
-    "reason": "Bisherige Tabellen wiederholten Register- und Vertretungsrouten, ohne die Rüge zeitlich prüfbar zu machen.",
-    "changes": [
-      "Lieferungsbezogene Untersuchungs- und Versandchronologie ergänzt.",
-      "Rechtzeitige Absendung ausdrücklich von Zugang getrennt; starre Rügetage ausgeschlossen.",
-      "Eigenständige Ergebnisarbeit und optionale Werkstatt klargestellt."
-    ],
-    "sha256": "fc26ba6102526cec9656e5d46084e3616c760d67a7670b62c18ef0ba7f6aa881"
+    "reason": "Werkstatt vollständig gelesen. Einzelne Altanweisungen verlangten trotz auftragsbezogenem Einstieg eigene Zwischenprodukte, einen pauschalen Stopp bei unklarer Vertretung und einen Übermittlungsnachweis schon zur Registervorlage. Diese Widersprüche gezielt bereinigt; die umfangreiche Themenübersicht nicht neu geschrieben. Keine erneute rechtliche Quellenverifikation oder Live-Modellprüfung.",
+    "changes": ["Zwischenprodukte und Übersichten ausdrücklich nicht obligatorisch; fehlende Vollmacht hindert nicht den unabhängigen Lieferabgleich.", "HGB-Anwendungsprüfung und auftragsbezogenen Fachpunkt klargestellt; kein Vorrang der Mängelroute in jedem Fall.", "Fragenlistenabschluss durch Fortsetzung zum Dokument ersetzt und Übermittlungsnachweis an tatsächliche Einreichung gebunden."],
+    "sha256": "798393aed7d6b9ccb79aa43ad8cca0bdea0abf4a390d7344e755b37c9eced3b8"
   },
   "selection": {
     "positive": [

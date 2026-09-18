@@ -6,7 +6,7 @@ Bereite eine nüchterne Schilderung für Polizei oder Staatsanwaltschaft vor. Li
 
 Erfasse Ereignis, Ort, Zeitpunkt, Beteiligte und Quelle jeder Angabe. Trenne eigene Beobachtung, fremde Aussage, Vermutung und rechtliche Einordnung. Entlastende Umstände und plausible Alternativen aufnehmen. Eine ausgebliebene Vertragserfüllung allein nicht als sicher bewiesenen Betrug bezeichnen.
 
-Führe „Tatsache / Kenntnisquelle / Originalbeleg / Unsicherheit / möglicher Ermittlungsansatz“. Screenshots mit Datum und Kontext sichern, Originalnachrichten erhalten. Keine heimlichen Aufnahmen, fremden Kontozugriffe oder unzulässigen Recherchen zur Beweisbeschaffung anleiten.
+Ordne jeder wesentlichen Tatsache Kenntnisquelle, Originalbeleg und verbleibende Unsicherheit zu; eine Tabelle nur bei hilfreichem Vergleich verwenden. Screenshots mit Datum und Kontext sichern, Originalnachrichten erhalten. Keine heimlichen Aufnahmen, fremden Kontozugriffe oder unzulässigen Recherchen zur Beweisbeschaffung anleiten.
 
 ## 1.2. Anzeige und Strafantrag unterscheiden
 
@@ -28,4 +28,6 @@ Prüfe insbesondere wissentlich falsche Verdächtigungen nach Paragraf 164 StGB 
 
 Bei akuter Gefahr auf unmittelbare Hilfe durch zuständige Stellen hinweisen und den Entwurf nicht als Ersatz für Gefahrenabwehr darstellen. Bei eigener möglicher Tatbeteiligung Aussage- und Beratungsbedarf markieren. Nichts selbst einreichen, Zeugen kontaktieren oder Strafanträge zurücknehmen.
 
-Fehlende kritische Angaben einmal gebündelt erfragen, übrigen belastbaren Teil liefern. Normen amtlich prüfen; Entscheidungen nur nach tatsächlicher Verifikation zitieren. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional. Folgeaufträge mit bisherigen Belegen fortsetzen, neue Nachrichten im Kontext abgleichen.
+Fehlt etwa der Kenntniszeitpunkt, eine Zahlung oder der Zusammenhang einer Nachricht, frage gezielt danach und liefere den bereits belegten Teil. Nach der Antwort Frist, Schaden und Chronologie aktualisieren und die bestellte Anzeige fertigstellen. Neue entscheidende Lücken kurz klären, ohne beantwortete Fragen zu wiederholen; Ungewissheiten bleiben auch im Nachforderungsschreiben als solche erkennbar.
+
+Nutzerdateinamen gehen vor; technische Quellenhinweise getrennt vom Anzeigetext halten. Normen amtlich prüfen; Entscheidungen nur nach tatsächlicher Verifikation zitieren. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional. Folgeaufträge mit bisherigen Belegen fortsetzen, neue Nachrichten im Kontext abgleichen.

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "ki-vo-ai-act-pruefer",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
@@ -21,13 +21,12 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die bestehenden Rollen- und Übergangsregeln werden erhalten. Für Veröffentlichungsaufträge war der konkrete Einstieg und das Verhältnis technischer zu sichtbarer Kennzeichnung zu präzisieren.",
+    "reason": "Mini vollständig gelesen. Die vorhandene Fortsetzung nach System- und Versionsnachweisen bleibt erhalten; die Abgrenzung des offenen Datenschutz-Reformvorschlags fehlte im eigenständig nutzbaren Mini.",
     "changes": [
-      "Inhalt und Kanal vor unnötiger vollständiger Hochrisikoakte prüfen.",
-      "Redaktionelle Textausnahme nicht auf synthetische Videos übertragen.",
-      "Anbieternachweis und Betreiberhinweis als getrennte Ergebnisse vorsehen."
+      "COM(2025) 837 ausdrücklich als offenen Vorschlag abgegrenzt; keine vorweggenommene Meldefrist oder allgemeine Trainingserlaubnis.",
+      "Bestehende Regeln zu Artikel 50, Anbieter-Bestandsschutz und gezielten Folgerückfragen beibehalten."
     ],
-    "sha256": "f7fbd8132ac923383989b3dbf919a0c9be1c1d1b1605d2ed88a9f280004c4d40"
+    "sha256": "953515459c84f1daf6d9f675eaa89b98579d36c6ff2121336ef1b0f4ec49230c"
   },
   "selection": {
     "positive": [
@@ -72,5 +71,16 @@
       ],
       "target_skill": "transparenz-deepfake-synthetic-content-art-50"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig gelesen. Generische Ausgabe- und Routentabellen verlangten zusätzliche Produkte und widersprachen der bereits vorhandenen Fortsetzungsregel; Registrierung und CE enthielten falsche Normzuordnungen.",
+    "changes": [
+      "Doppelte Ausgaberouten zu einem auftragsbezogenen Ablauf mit gezielten Nachforderungen und fertigem Dokument zusammengeführt.",
+      "CE Artikel 48 von Erklärung Artikel 47 getrennt; Artikel 49 Absatz 4 nicht mehr als Anhang-I-Registrierungsvorschrift dargestellt.",
+      "Geltende Änderungsverordnung, KI-MIG und offene Datenschutzreform getrennt erhalten; besondere Vertrags-, Datenschutz-, GPAI- und Grundrechtsthemen weiter enthalten.",
+      "Quellenvermerke vom Empfängertext getrennt; keine automatische Meldung, Abschaltung oder Registrierung."
+    ],
+    "sha256": "40075d993b6a9596116e51ad15638beef361e701bb4fcf40a2719bace2a8034f"
+  }
 }

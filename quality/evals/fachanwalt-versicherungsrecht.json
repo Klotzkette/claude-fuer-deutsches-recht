@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-versicherungsrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/vvg_2008/__172.html",
@@ -21,14 +21,28 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der bisherige Mini verwendete Maklerhaftungsentscheidungen als allgemeine Deckungsanker und wies dem Versicherer pauschal alle Voraussetzungen einer Kürzung zu. Eine unbestimmte Frist zur Deckungsablehnung diente als Stoppsignal.",
+    "reason": "Vollständig geprüft: Neue Klausel- und Schadenbelege fließen in Deckung und Leistungshöhe ein; bei BU werden Tätigkeiten mit Funktionsbefunden verbunden. Die Fortsetzung bis zum Schreiben bleibt unverändert.",
     "changes": [
       "Bedingungsfassung und konkrete Sparte vorangestellt.",
       "Beweislast bei Obliegenheiten differenziert und pauschale Klagefrist nach Ablehnung vermieden.",
       "BU-Tätigkeiten und Funktionsbefunde mit der konkreten Police verbunden; Freigabe statt Fristenabbruch vorgesehen."
     ],
-    "sha256": "db335c178868421633a6132d8fc5309e99292c8beeb907d0d7412b7769433ff8"
+    "sha256": "42133d2330011fb120a911ed8b467c606919d38ff54dfdd68fed102630b23f5c"
   },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [
+      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+    ],
+    "prompt_path": "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-hauptproblem.md",
+    "prompt_sha256": "2acff0577fb1053d8fe6b164e984ff9663515e3cb3423bd4162596c758a01f77",
+    "skill_path": "fachanwalt-versicherungsrecht/skills/bu-praegende-taetigkeiten-befundabgleich/SKILL.md",
+    "skill_sha256": "b9ce13fec055d61fd3bf43ab5ad024f84455e1071b2b78cff686d1ea456803db"
+  },
+  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung bestätigte Fortsetzung nach Police und BU-Funktionsbefund; die allgemeine Produktpflicht nach jeder Station widersprach dem Einzelauftrag.","changes":["Klauselvergleich und Leistungsberechnung dem Gutachten oder Schreiben zugeordnet; fehlende Unterlagen von fehlender Deckung unterschieden."],"sha256":"914fe359d95d382942382cb740507ca41c3c558b7fdec281c730d9a9630c65bd"},
   "selection": {
     "positive": [
       "Der Versicherer zählt nur die ausgefallenen Arbeitsstunden. Prüfen Sie, ob ein nicht mehr möglicher Aufbau den gesamten Arbeitsvorgang prägt.",

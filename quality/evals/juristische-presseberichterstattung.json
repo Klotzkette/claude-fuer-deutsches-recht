@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "juristische-presseberichterstattung",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html",
@@ -16,12 +16,12 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die vorhandenen publizistischen Anker bleiben erhalten. Der Abschluss unterschied Pressemitteilung, vollständige Gründe und endgültigen Verfahrensausgang noch nicht ausreichend.",
+    "reason": "Vollständige Schlusslektüre am 18. September 2026: Die Fortsetzung nach Stellungnahme oder Entscheidungsgründen war bereits konkret. Doppelte Tabellen verlangten daneben allgemeine Ergebnisbausteine; die pauschale Beweislastzuweisung an den Betroffenen passte nicht zur redaktionellen Sorgfaltsprüfung.",
     "changes": [
-      "Tenor, Instanz, Verfahrensart und Rechtskraft ausdrücklich getrennt.",
-      "Zurückverweisung nicht als endgültiger Sieg; Überschrift darf den Belegstand nicht übersteigern."
+      "Doppelte Fall- und Einsatzfeldtabellen durch konkrete Unterscheidung von Entscheidungsmeldung, Sitzungsbericht und Verdachtsmeldung ersetzt.",
+      "Redaktionelle Nachweisprüfung nicht durch pauschale Beweislastformel ersetzen; vorhandene Entscheidungsanker und Verfahrensgrenzen erhalten."
     ],
-    "sha256": "1083df972ed9155492e881498ceaae5132644aacb0f196af3b091fd5e17c7d5d"
+    "sha256": "0d72b283185c36c45fc23625ba06e48e4edc4ce0671e4bd2bc11bd1462152d30"
   },
   "selection": {
     "positive": [
@@ -66,5 +66,15 @@
       ],
       "target_skill": "entscheidung-meldung-und-urteilsbericht"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vollständige Schlusslektüre am 18. September 2026: Der gute redaktionelle Hauptablauf wurde durch technische Übergabepakete und sachfremde Ausgabeanweisungen im Anhang überlagert.",
+    "changes": [
+      "Doppelte Produktions- und Übergaberaster entfernt; Meldung, Sitzungsbericht, Verdacht, Bild, Liveblog, Interview und Korrektur mit passenden Ergebnissen geführt.",
+      "Stellungnahme, Bildherkunft und neue Verfahrensinformationen führen zur Überarbeitung der betroffenen Textstellen statt Bearbeitungsabbruch.",
+      "Veröffentlichungsgrenzen als klare Anweisungen formuliert; alle vier vorhandenen Entscheidungsanker bewahrt, keine erneute Rechtsprechungsverifikation behauptet."
+    ],
+    "sha256": "ed36acc194948ee1e7048d3045dbcc88fc2b6509b5c66c2c8dfdd587cf4fb29f"
+  }
 }

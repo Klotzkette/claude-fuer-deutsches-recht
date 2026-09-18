@@ -15,238 +15,105 @@ Lies Auftrag, Mandatsvereinbarung und betroffene Korrespondenz vor jeder Rückfr
 
 Bei unklarer Mandatsbeendigung kläre, welche Erklärung oder Frist tatsächlich übernommen wurde. Eine neue Antwort kann eine weitere gezielte Nachfrage erfordern; bekannte Angaben nicht wiederholen. Unabhängige Teile vorläufig schreiben, aber aus einer Versandankündigung keine erfolgte Übergabe oder neue Zuständigkeit ableiten. Nach Klärung das bestellte Dokument fertigstellen, statt beim Arbeitsplan zu bleiben.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
-
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist- oder Eilfall: Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchun | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchung steht im Raum; vor Fortsetzung klären |
-| Tragendes Arbeitsprodukt | Kammer-Stellungnahme: Sachverhalt, betroffene Pflicht, Rechtslage, Entlastung, Ergebnis, Anlagen | jede Tatsache bekommt Beleg oder Lückenmarke |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welches Berufsgesetz und welche Satzungsnorm tragen den Vorwurf oder die Gestaltung |
-| Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| Rechtsfolgenseite | Antrags-, Bescheid-, Vertrags- oder Antwortfassung | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| Zwischenstation 1 | Arbeitsstand mit Belegstelle | Pflichtenprüfung: Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten |
-| Zwischenstation 2 | Arbeitsstand mit Belegstelle | Aufsichts- und Verfahrenslage: Kammerverfahren, Rüge, Missbilligung, berufsgerichtliches Verfahren und Parallelität zum Strafverfahren ordnen |
-| Adressatenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko, Kostenfolge und nächsten Schritt getrennt ausweisen |
-
-### 1.3. Rückfragenbremse
-
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Welches Berufsgesetz und welche Satzungsnorm tragen den Vorwurf oder die Gestaltung“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchung steht im Raum.
-3. Beweislage vor Rechtsmeinung ordnen: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
-
-### 1.4. Mini-Gerüste
-
-- Sofortvermerk: Der Ausgangsanker ist BRAO Paragraf 43a und Paragraf 43e. Nach derzeitigem Stand spricht [Beleg] bei [Tatbestandsmerkmal] mehr für [Ergebnis]; offen bleibt [Lücke].
-- Kernsatz des Arbeitsprodukts: Kammer-Stellungnahme: Sachverhalt, betroffene Pflicht, Rechtslage, Entlastung, Ergebnis, Anlagen.
-- Beweissatz: [Tatsache] ist durch [Beweismittel] belegt; im Übrigen gilt: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
-- Rechtsfolgensatz: Daraus folgt Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg oder Norm]. Risiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg bleibt die Leitfrage „Welches Berufsgesetz und welche Satzungsnorm tragen den Vorwurf oder die Gestaltung“ offen.
 ## 2. Grenzen der Ausführung
 
 - Laufende Kammer- oder Gerichtsfristen priorisieren; bei drohender Durchsuchung die nötige Verteidigungsabstimmung benennen. Dies verhindert nicht die Bearbeitung unabhängiger Teile.
-- Verschwiegenheitspflichtige Daten sollen an Dritte oder in Tools ohne Rechtsgrundlage.
-- Eine Interessenkollision ist möglich, aber noch nicht geprüft und dokumentiert.
+- Verschwiegenheitspflichtige Daten nicht ohne Rechtsgrundlage an Dritte oder Werkzeuge weitergeben; den zulässigen Umfang der konkreten Verarbeitung klären.
+- Bei möglicher Interessenkollision Beteiligte und Mandatsgegenstände prüfen, bevor eine Freigabe erteilt wird.
 - Bei unklarer Identität, Vollmacht, Frist oder Verfahrensstufe den konkreten Nachweis erfragen; keine Herausgabe oder Einreichung auf vermuteter Grundlage ausführen.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
-## 3. Werkstattfluss
 
-### 3.1. Berufsträger und Pflichtenkreis
+## 3. Pflichtnormen als Kernsätze
 
-Arbeitsgriff Berufsträger und Pflichtenkreis: Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
-
-### 3.2. Pflichtenprüfung
-
-Arbeitsgriff Pflichtenprüfung: Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: Tatbestandsmatrix mit Norm, Beleg und Gegenargument; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
-
-### 3.3. Aufsichts- und Verfahrenslage
-
-Arbeitsgriff Aufsichts- und Verfahrenslage: Kammerverfahren, Rüge, Missbilligung, berufsgerichtliches Verfahren und Parallelität zum Strafverfahren ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: Fristen- und Verfahrensblatt mit Sofortmaßnahme; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
-
-### 3.4. Risikoabschätzung
-
-Arbeitsgriff Risikoabschätzung: Sanktionsrahmen, Registerfolgen, Versicherungsfragen und Mandatsauswirkungen bewerten. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
-
-### 3.5. Arbeitsprodukt
-
-Arbeitsgriff Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: versandfähiger Entwurf mit Anlagen- und Fristenbezug; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
-
-## 4. Rechtsprechungs-Fallkarte
-
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Fallkern | Aktenführung | BRAO Paragraf 43a und Paragraf 43e | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
-| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BRAO Paragraf 45 und Paragraf 46 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Berufsgericht und Disziplinarverfahren | BRAO Paragraf 45 und Paragraf 46 | Tatbestandsmatrix mit Beleg und Gegenargument |
-| Rechtsfolge | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
-
-## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
-
-| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
-| --- | --- | --- | --- |
-| BRAO Paragraf 43a und Paragraf 43e | Grundpflichten, Verschwiegenheit und Inanspruchnahme von Dienstleistern | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| BRAO Paragraf 45 und Paragraf 46 | Tätigkeitsverbote und Syndikusrechtsanwälte | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| BORA und FAO | Berufsordnung und Fachanwaltschaften als Satzungsrecht der Kammern | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| BNotO Paragraf 14 und Paragraf 17 | Amtspflichten und Gebührenbindung des Notars | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| StBerG Paragraf 57 und WPO Paragraf 43 | Berufspflichten der Steuerberater und Wirtschaftsprüfer | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| PAO | Berufsrecht der Patentanwaltschaft einschließlich Verschwiegenheit und Kammeraufsicht | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| StGB Paragraf 203 | Strafbewehrter Schutz anvertrauter Geheimnisse | Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren | Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-
-## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
-
-- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
-- Rechtsfolge zuerst als Arbeitsprodukt denken: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren
-- Quellenstatus gesondert festhalten: Aktenfund, geprüfter Normtext, belegte Rechtsprechung oder offene Prüfung. Interne Prüfbegriffe und Abrufhinweise gehören nicht in den Mandantenbrief.
-
-## 7. Pflichtnormen als Kernsätze
-
-- BRAO Paragraf 43a und Paragraf 43e: Grundpflichten, Verschwiegenheit und Inanspruchnahme von Dienstleistern.
-- BRAO Paragraf 45 und Paragraf 46: Tätigkeitsverbote und Syndikusrechtsanwälte.
-- BORA und FAO: Berufsordnung und Fachanwaltschaften als Satzungsrecht der Kammern.
-- BNotO Paragraf 14 und Paragraf 17: Amtspflichten und Gebührenbindung des Notars.
-- StBerG Paragraf 57 und WPO Paragraf 43: Berufspflichten der Steuerberater und Wirtschaftsprüfer.
-- PAO: Berufsrecht der Patentanwaltschaft einschließlich Verschwiegenheit und Kammeraufsicht.
+- StBerG Paragraf 57 und BOStB: Berufspflichten der Steuerberater; den konkreten Pflichtenkreis aus Status und Tätigkeit bestimmen.
+- Andere Berufsrechte nur bei tatsächlichem Bezug heranziehen: BRAO Paragrafen 43a, 43e, 45 und 46 sowie BORA und FAO für anwaltliche Fragen, BNotO Paragrafen 14 und 17 für notarielle Aufgaben, WPO Paragraf 43 für Wirtschaftsprüfer und PAO für Patentanwälte. Diese Vorschriften ersetzen nicht den steuerberatungsrechtlichen Maßstab.
 - StGB Paragraf 203: Strafbewehrter Schutz anvertrauter Geheimnisse.
 - Paragraf 80 AO — Bevollmächtigte und Beistand; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 153 AO — Berichtigungspflicht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 370 AO — Steuerhinterziehung als Risikogrenze; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 203 Abs. 1 Nr. 3 StGB — Verschwiegenheit; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
-## 8. Leitentscheidungen
+## 4. Leitentscheidungen
 
 - Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
-## 9. Prüfraster
 
-1. Welches Berufsgesetz und welche Satzungsnorm tragen den Vorwurf oder die Gestaltung.
-2. Ist die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor.
-3. Welche Kollisionsprüfung ist dokumentiert und wer hat wann geprüft.
-4. Welche Aufsichts- oder Sanktionsstufe droht realistisch und mit welcher Frist.
-5. Welches Dokument beendet den Vorgang gegenüber Kammer, Mandant oder Gericht.
-6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
-7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
-
-## 10. Argumentations- und Entwurfsgerüst
-
-10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
-10.2. Tragende Regel: Ordne den konkreten Streitpunkt dem Steuerberatungsrecht zu. Die oben genannten BRAO Paragrafen 43a, 43e, 45 und 46 sind keine pauschalen Ausgangsnormen eines Steuerberatungsmandats; andere Berufsrechte nur bei tatsächlichem Bezug prüfen.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Aktenführung.
-10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Berufsrecht der rechts- und wirtschaftsberatenden Berufe tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
-10.5. Beweislast: Nachweisachse Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor an.
-10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Kammer-Stellungnahme: Sachverhalt, betroffene Pflicht, Rechtslage, Entlastung, Ergebnis, Anlagen; Kollisionsvermerk: Beteiligte, frühere Mandate, Prüfweg, Ergebnis, Freigabe mit Datum und Zeichner.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
-
-## 11. Outputvarianten und Empfängerwunsch
-
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| schnell entscheiden | Kurzvermerk | Fallkern, BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46, Risiko und nächster Schritt |
-| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
-| versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
-| beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor |
-
-## 12. Arbeitsweise
+## 5. Arbeitsweise
 
 Prüfe vorhandene Unterlagen auf ihren Inhalt, nicht nur auf Vorhandensein. Frage gezielt nach entscheidenden Lücken und verarbeite die Antwort in der betroffenen Prüfung und Dokumentfassung. Eine Begleittabelle zur Übergabe ist nur nötig, wenn Dokumente, Fristen oder Verantwortlichkeiten sonst unübersichtlich bleiben. Das gewünschte Schreiben in vollständigen Sätzen fertigstellen.
 
-Selbstcheck vor Ausgabe: Ist die maßgebliche Frist mit Beginn, Lauf und Ende benannt? Ist die Form geklärt? Ist die Rechtsfolge aus einer Norm abgeleitet und auf Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren bezogen? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
+Prüfe vor Ausgabe, ob Mandatsumfang, Bekanntgabe, Frist und tatsächlich übernommene Aufgaben übereinstimmen. Der Übergabebrief muss dieselben Dokumente und Verantwortlichkeiten nennen wie der belegte Bearbeitungsstand; offene Tatsachen und offene Rechtsfragen getrennt kennzeichnen.
 
-## 13. Qualitätskontrolle und Abschluss
+## 6. Qualitätskontrolle und Abschluss
 
-Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Besonders zu kontrollieren ist in diesem Gebiet: Welches Dokument beendet den Vorgang gegenüber Kammer, Mandant oder Gericht. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
+Kontrolliere abschließend, ob neue Antworten eingearbeitet und der bestellte Brief oder Vermerk vollständig ausformuliert ist. Nur entscheidende offene Nachweise als Nachforderung benennen; nach deren Eingang dort fortsetzen. Der gewünschte Dateiname geht vor, `ergebnis.md` ist nur ein Standard ohne andere Vorgabe.
 
-## 14. Musterbausteine
 
-- Kammer-Stellungnahme: Sachverhalt, betroffene Pflicht, Rechtslage, Entlastung, Ergebnis, Anlagen.
-- Kollisionsvermerk: Beteiligte, frühere Mandate, Prüfweg, Ergebnis, Freigabe mit Datum und Zeichner.
-- Verschwiegenheitsfreigabe: Geheimnis, Empfänger, Zweck, Rechtsgrundlage oder Einwilligung, Grenzen.
+## 7. Fachspezifische Praxisrouten
 
-## 15. Fachliche Entscheidungslandkarte
+Wähle den zum Auftrag gehörenden Abschnitt. Erforderliche Nachweise gezielt anfordern, Antworten in die betroffene Bewertung einarbeiten und das bestellte Dokument fertigstellen; nicht sämtliche Abschnitte als Pflichtausgaben abarbeiten.
 
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
-
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| Aktenführung | Ordne die Unterlagen nach StBerG, BOStB, StBVV und AO in Original, Bearbeitungsstand, Frist, Zugriffsrecht, Verschwiegenheit, Aufbewahrung und Herausgabe. | Akten- und Belegmatrix zu Aktenführung mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
-| Berufsgericht und Disziplinarverfahren | Zerlege den Vorwurf nach StBerG, BOStB, StBVV und AO in konkrete Berufspflicht, Tatsachenbasis, Verschulden, Anhörung, Akteneinsicht, mögliche Maßnahme und Rechtsbehelf. | Fachvotum zu Berufsgericht und Disziplinarverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Berufshaftpflicht | Bestimme Pflichtenkreis und Auftragsumfang nach StBerG, BOStB, StBVV und AO, trenne Pflichtverletzung, Kausalität und Schaden, sichere Verjährung und Versicherungsanzeige und baue für Mandatsumfang, Bekanntgabe, Frist. | Fachvotum zu Berufshaftpflicht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Entscheidungsvorlage | Verdichte Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung anhand von StBerG, BOStB, StBVV und AO zu einer Entscheidungsvorlage mit gesichertem Sachverhalt, Pflichtenkreis. | Fachvotum zu Entscheidungsvorlage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Fristenkontrolle | Baue aus StBerG, BOStB, StBVV und AO und der konkreten Zustellung oder Verfahrenshandlung ein Fristenblatt mit Beginn, Ende, Vorfrist, Verantwortlichem, Gegenkontrolle, Ausgangsnachweis und Wiedereinsetzungsreserve. | Fristenblatt zu Fristenkontrolle mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
-| Berufsausübungsgesellschaft | Prüfe nach StBerG, BOStB, StBVV und AO zulässige Gesellschafter und Geschäftsleitung, berufliche Unabhängigkeit, Mehrheit, Firma, Register, Versicherung, interne Konfliktregeln und Vollzug der Berufsausübungsgesellschaft | Fachvotum zu Berufsausübungsgesellschaft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Beteiligtenkommunikation | Bearbeite Beteiligtenkommunikation anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis. | Fachvotum zu Beteiligtenkommunikation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Fachbezeichnung | Bearbeite Fachbezeichnung anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition. | Fachvotum zu Fachbezeichnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Fortbildung | Bearbeite Fortbildung anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko. | Fachvotum zu Fortbildung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-
-## 16. Fachspezifische Praxisrouten
-
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
-
-### 16.1. Aktenführung
+### 7.1. Aktenführung
 
 Bearbeitungsauftrag: Ordne die Unterlagen nach StBerG, BOStB, StBVV und AO in Original, Bearbeitungsstand, Frist, Zugriffsrecht, Verschwiegenheit, Aufbewahrung und Herausgabe; sichere für Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung einen prüfbaren Akten- und Übergabenachweis.
-Lieferstück: Akten- und Belegmatrix zu Aktenführung mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
+Bei Herausgabeverlangen Dokumentarten und Zurückbehaltung nach Paragraf 66 StBerG prüfen. Fehlt die Zuordnung einer Datei, frage gezielt nach Herkunft und Zweck; nach Klärung den konkreten Übergabetext aktualisieren. Eine Belegübersicht nur ausgeben, soweit sie für die Übergabe benötigt wird.
 
-### 16.2. Berufsgericht und Disziplinarverfahren
+### 7.2. Berufsgericht und Disziplinarverfahren
 
 Bearbeitungsauftrag: Zerlege den Vorwurf nach StBerG, BOStB, StBVV und AO in konkrete Berufspflicht, Tatsachenbasis, Verschulden, Anhörung, Akteneinsicht, mögliche Maßnahme und Rechtsbehelf; ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung den einzelnen Vorwürfen und Belegen zu.
-Lieferstück: Fachvotum zu Berufsgericht und Disziplinarverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Schreibe die zur Verfahrensstufe passende Stellungnahme oder den bestellten Rechtsbehelf. Fehlt Aktenkenntnis, zunächst Einsicht vorbereiten und anschließend den Vorwurf mit den Belegen abgleichen; der Einsichtsantrag beendet den Verteidigungsauftrag nicht.
 
-### 16.3. Berufshaftpflicht
+### 7.3. Berufshaftpflicht
 
 Bearbeitungsauftrag: Bestimme Pflichtenkreis und Auftragsumfang nach StBerG, BOStB, StBVV und AO, trenne Pflichtverletzung, Kausalität und Schaden, sichere Verjährung und Versicherungsanzeige und baue für Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung eine belastbare Anspruchs- und Verteidigungsmatrix.
-Lieferstück: Fachvotum zu Berufshaftpflicht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Liefere die beauftragte Haftungsbewertung oder Versicherungsanzeige. Fehlt etwa der Bekanntgabenachweis, fordere ihn an und aktualisiere danach Frist, Pflichtverletzung und Kausalität; eine versäumte Frist oder Deckung nicht unterstellen.
 
-### 16.4. Entscheidungsvorlage
+### 7.4. Entscheidungsvorlage
 
 Bearbeitungsauftrag: Verdichte Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung anhand von StBerG, BOStB, StBVV und AO zu einer Entscheidungsvorlage mit gesichertem Sachverhalt, Pflichtenkreis, Handlungsalternativen, Berufsrisiko, Kosten, Freigabe und dokumentiertem nächsten Schritt.
-Lieferstück: Fachvotum zu Entscheidungsvorlage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Die Vorlage beantwortet die konkrete Entscheidungsfrage mit begründeter Empfehlung und erforderlichen Alternativen. Eine reine Liste weiterer Prüfschritte ersetzt die bestellte Bewertung nicht.
 
-### 16.5. Fristenkontrolle
+### 7.5. Fristenkontrolle
 
 Bearbeitungsauftrag: Baue aus StBerG, BOStB, StBVV und AO und der konkreten Zustellung oder Verfahrenshandlung ein Fristenblatt mit Beginn, Ende, Vorfrist, Verantwortlichem, Gegenkontrolle, Ausgangsnachweis und Wiedereinsetzungsreserve; ordne dabei Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung.
-Lieferstück: Fristenblatt zu Fristenkontrolle mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
+Halte offene Bekanntgabe oder unbestätigte Verantwortungsübernahme ausdrücklich fest. Nach Eingang des Nachweises Fristberechnung und bestelltes Übergabe- oder Mandantenschreiben aktualisieren; keine automatische Übernahme durch den Nachfolger behaupten.
 
-### 16.6. Berufsausübungsgesellschaft
+### 7.6. Berufsausübungsgesellschaft
 
 Bearbeitungsauftrag: Prüfe nach StBerG, BOStB, StBVV und AO zulässige Gesellschafter und Geschäftsleitung, berufliche Unabhängigkeit, Mehrheit, Firma, Register, Versicherung, interne Konfliktregeln und Vollzug der Berufsausübungsgesellschaft.
-Lieferstück: Fachvotum zu Berufsausübungsgesellschaft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Formuliere die beauftragte Prüfung oder Vertragsänderung aus den tatsächlichen Beteiligungs- und Leitungsverhältnissen. Bei fehlender Gesellschafter- oder Versicherungsunterlage gezielt nachfordern und danach die betroffenen Klauseln fertigstellen.
 
-### 16.7. Beteiligtenkommunikation
+### 7.7. Beteiligtenkommunikation
 
 Bearbeitungsauftrag: Bearbeite Beteiligtenkommunikation anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
-Lieferstück: Fachvotum zu Beteiligtenkommunikation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Der bestellte Brief nennt Sachstand, begründetes Anliegen und erforderliche nächste Handlung. Interne Quellenprotokolle bleiben außerhalb des Empfängertexts.
 
-### 16.8. Fachbezeichnung
+### 7.8. Fachbezeichnung
 
 Bearbeitungsauftrag: Bearbeite Fachbezeichnung anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
-Lieferstück: Fachvotum zu Fachbezeichnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Prüfe konkrete Bezeichnung, Qualifikationsnachweis und verwendetes Medium. Nach Ergänzung eines fehlenden Nachweises die Bewertung und gegebenenfalls den bestellten Außendarstellungstext aktualisieren.
 
-### 16.9. Fortbildung
+### 7.9. Fortbildung
 
 Bearbeitungsauftrag: Bearbeite Fortbildung anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
-Lieferstück: Fachvotum zu Fortbildung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Gleiche maßgeblichen Zeitraum und Anforderungen mit den tatsächlichen Teilnahmebelegen ab. Fehlende Belege gezielt nachfordern und anschließend den bestellten Nachweis oder die Kammerantwort ausformulieren, ohne eine Teilnahme zu erfinden.
 
-### 16.10. Geldwäsche und KYC
+### 7.10. Geldwäsche und KYC
 
 Bearbeitungsauftrag: Bearbeite Geldwäsche und KYC anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
-Lieferstück: Fachvotum zu Geldwäsche und KYC mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bestimme die einschlägigen geldwäscherechtlichen Anforderungen für Tätigkeit und Beteiligte gesondert. Fehlende Identitäts- oder Berechtigungsnachweise nicht durch Annahmen ersetzen; nach Eingang die konkrete Prüfung fortsetzen, ohne eigenmächtig eine Meldung auszulösen.
 
-### 16.11. Homeoffice
+### 7.11. Homeoffice
 
 Bearbeitungsauftrag: Bearbeite Homeoffice anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
-Lieferstück: Fachvotum zu Homeoffice mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Prüfe tatsächliche Zugriffsrechte, sichere Ablage, Vertretung und Fristenorganisation. Fehlt der Nachweis einer eingerichteten Kontrolle, frage nach deren Umsetzung; eine geplante Weisung nicht als bereits gelebte Organisation darstellen.
 
-### 16.12. Honorar, Gebühren und Vergütung
+### 7.12. Honorar, Gebühren und Vergütung
 
 Bearbeitungsauftrag: Prüfe Auftrag, Vergütungsabrede, gesetzlichen Gebührenmaßstab, Vorschuss, Fälligkeit, Abrechnung, Aufklärung und Einwendungen nach StBerG, BOStB, StBVV und AO; rechne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung mit belegten Werten nach.
-Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
+Rechne die konkret abgerechneten Leistungen mit belegten Werten nach. Nach Klärung einer streitigen Leistung die Gebührenberechnung und das bestellte Rechnungserläuterungs- oder Forderungsschreiben aktualisieren; Herausgabefragen getrennt beurteilen.
 
-## 17. Technische Grenzen
+## 8. Technische Grenzen
 
 Ohne weitere Skills hier weiterarbeiten; ohne Export den Text liefern. Bei Zugriffsproblemen einen geeigneten Alternativweg versuchen und verbleibende Prüfgrenzen in einer Arbeitsnotiz offenlegen, keine vollständige Akten- oder Quellenprüfung behaupten. Neue Fassungen und widersprechende Belege erneut prüfen. Datenherausgabe, Behördenmitteilung und Versand nur nach Freigabe und Empfängerprüfung ausführen.

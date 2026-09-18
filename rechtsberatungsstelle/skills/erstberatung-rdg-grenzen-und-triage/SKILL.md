@@ -3,41 +3,38 @@ name: erstberatung-rdg-grenzen-und-triage
 description: "Für Erstberatung mit RDG-Grenzen und Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Erstberatung mit RDG-Grenzen und Triage
+# 1 Erstberatung und Beratungsbefugnis
 
-## Direktstart: lesen, entscheiden, liefern
+Prüfe das Anliegen der ratsuchenden Person und erarbeite die bestellte Erstberatung oder das benötigte Schreiben innerhalb der Befugnisse der Beratungsstelle. Lies vorhandene Bescheide, Verträge und frühere Beratungsschritte zuerst.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1 Eingaben und Zuständigkeit
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Entnimm der Akte Beratungsziel, Gegenpartei, Verfahrensstand und anstehende Fristen. Kläre nur fehlende Angaben zur Trägerschaft, zur tatsächlich verantwortlichen qualifizierten Person und zum übernommenen Beratungsumfang.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Unentgeltlichkeit allein ersetzt keine Prüfung der Beratungsbefugnis. Prüfe bei Paragraf 6 RDG die Voraussetzungen und die erforderliche qualifizierte Erbringung oder Anleitung; bei Mitgliedsverbänden oder anerkannten Stellen können Paragrafen 7 oder 8 RDG maßgeblich sein. Eine studentische Bearbeitung ist nicht ohne Weiteres zur gerichtlichen Vertretung befugt.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2 Dringlichkeit und Nachweise
 
-## Arbeitsweg
+Bei einem Bescheid fehlen häufig Umschlag, Zustellungsnachweis oder vollständige Rechtsbehelfsbelehrung. Frage nach dem konkreten fehlenden Stück und prüfe nach Eingang den Fristbeginn erneut. Verwechsle eine bald ablaufende Frist nicht mit einer Befugnis der Beratungsstelle, selbst einzureichen.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Bei Zahlungsforderungen ordne Vertrag, Rechnung und Zahlungen einander zu. Fehlt ein Zahlungsnachweis, kläre Datum, Betrag und Empfänger; behandle die behauptete Zahlung bis zur Klärung nicht als bewiesen. Bei Leistungsablehnungen bestimme den streitigen Zeitraum und die tatsächlich angeführten Ablehnungsgründe.
 
-## Einstieg
-Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
+## 1.3 Beratung ausarbeiten und fortsetzen
 
-1. Wer handelt in welcher Rolle und gegen wen?
-2. Welches praktische Ziel soll erreicht werden?
-3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
-4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
-5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
+Prüfe die entscheidenden Voraussetzungen mit Belegen, Gegenargumenten und Beweislast. Reicht der Beratungsumfang aus, formuliere die gewünschte Antwort oder den Brief vollständig. Ein weiterer Fachskill kann optional unterstützen, ersetzt aber weder die Bearbeitung noch das bestellte Ergebnis.
 
-## Arbeitsworkflow
-1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
-2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **Erstberatung mit RDG-Grenzen und Triage** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
-4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
-5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+Ist eine entscheidende Tatsache offen, liefere die belastbaren Teile vorläufig und stelle die dazu passende Frage. Nach der Antwort aktualisiere Frist, Berechnung oder rechtliche Begründung und vervollständige das Dokument. Weitere kurze Rückfragen sind zulässig, wenn neue Angaben eine entscheidende Lücke zeigen; bereits Geklärtes nicht erneut erheben.
+
+Liegt die Sache außerhalb der Befugnis oder Kompetenz, erläutere konkret, welcher Teil anwaltliche oder andere qualifizierte Hilfe benötigt. Bereite die Übergabe mit Sachstand, Frist und benötigten Unterlagen vor, ohne eine Mandatsübernahme durch Dritte zu behaupten.
+
+## 1.4 Quellen und Ergebnis
+
+Prüfe tragende Normen und Entscheidungen in amtlichen Quellen. Die optionalen Hinweise in `references/zitierweise.md` können die Zitierweise ergänzen. Nicht verifizierte Fundstellen nicht als gesichert ausgeben.
+
+Liefere den beauftragten Beratungsvermerk oder Brief in vollständigen Sätzen, nicht nur eine Bewertungsskala oder Liste weiterer Skills. Nutzerseitige Dateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden nach Möglichkeit Times New Roman 11 pt und dezimale Gliederung. Interne Quellen-, Freigabe- und Bearbeitungshinweise stehen getrennt vom Empfängertext.
+
+## 1.5 Beispiel und Grenzen
+
+Bei einer Ablehnung einer Sozialleistung kläre den fehlenden Zustellungsbeleg, gleiche die Begründung mit den eingereichten Einkommensunterlagen ab und schreibe nach der Antwort den bestellten Beratungsbrief fertig. Einen Widerspruch nur auf entsprechenden Auftrag vorbereiten; Versand und Einreichung erfordern eine gesonderte Freigabe.
+
+Nicht lesbare Unterlagen konkret benennen und einen lesbaren Auszug anfordern. Vertrauliche Daten nur in freigegebenen Umgebungen verarbeiten; fehlende Zugriffe, Prüfung durch die Anleitung und externe Handlungen nicht als erledigt darstellen.

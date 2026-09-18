@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "verfassungsrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {"url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/es20260723_2bve000423.html", "checked_on": "2026-09-15", "supports": "Amtlicher Urteilstenor, Leitsatz und einschlägige Begründungspassagen vom 23.07.2026, 2 BvE 4/23: Anträge verworfen, Antragsbefugnis nicht substantiiert dargelegt; kein subjektives Recht auf öffentliche Anhörungen. Frühere Eilanordnung ersetzt die Hauptsacheprüfung nicht."},
     {"url": "https://www.gesetze-im-internet.de/gg/art_94.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: aktuelle Zuständigkeitsordnung, Verfassungsbeschwerde in Absatz 1 Nummer 4a."},
@@ -9,10 +9,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini, Werkstatt und gelesener Subsidiaritäts-Skill enthalten die passende Rügelogik, aber eine veraltete GG-Zuordnung und schematische staatliche Beweislast. Die fristgerechte Begründung wurde nicht ausreichend konkretisiert.",
-    "changes": ["Artikel 94 statt alter Artikel-93-Zuordnung", "Erhebung und Begründung innerhalb der Frist hervorgehoben", "Rügematrix mit tragendem Entscheidungsgrund ergänzt", "Pauschale Beweislastformel und historische Standardanker entfernt"],
-    "sha256": "438f7eb26d8f65ac51864a701ba563f08cabf0b4038ae6ae2d64627232140d94"
+    "reason": "Die Rügelogik und Artikel-94-Zuordnung bleiben erhalten; der umgangssprachliche Einstieg und Ein-Frage-Deckel passten nicht zur Arbeit an vollständigen Beschwerden.",
+    "changes": ["Konkreten Prüfauftrag an den Anfang gestellt", "Fehlenden Entscheidungszugang und fachgerichtlichen Vortrag mit erneuter Rügeprüfung verbunden", "Gutachtenauftrag von Beschwerdeschrift und internen Notizen getrennt"],
+    "sha256": "48d5f45feadbecf90c507b1d692ae1b15b0f2409c8909512cbb1c9cb037c651b"
   },
+  "workshop_review": {"verdict":"revised","reason":"Ganztextprüfung zeigte doppelte Grundrechtstabellen, unpassende Beschwerdezulässigkeit bei Gesetzgebungsgutachten und eine pauschal ausgeschlossene Landesregierung im Parteienverfahren.","changes":["Verfahrenswahl, Beschwerde, Gesetzgebung, Organstreit und Parteienverfahren getrennt gegliedert","Artikel 94 GG und begrenzte Antragsbefugnis nach Paragraf 43 Absatz 2 BVerfGG anhand amtlicher Texte abgeglichen","Fehlenden Vortrag bis zur vollständigen Rügebegründung weiterbearbeiten; Quellenlisten nicht als bereits verifiziert darstellen"],"sha256":"424021cb6bf0a4445b3b1fdab40d019aeba8885da6a9205064a25eaf2db02200"},
   "selection": {
     "positive": ["Prüfe den vollständigen Begründungsstand meiner Urteilsverfassungsbeschwerde vor Fristablauf.", "Ordne Hoheitsakt, fachgerichtliche Rüge und spezifischen Grundrechtsfehler in einer Zulässigkeitsmatrix."],
     "negative": ["Schreibe eine gewöhnliche zivilrechtliche Berufung ohne Verfassungsrüge.", "Vergleiche nur drei mildere Verwaltungsmaßnahmen ohne verfassungsgerichtliches Verfahren."]

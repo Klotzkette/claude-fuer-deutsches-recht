@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "strafanzeige-vorbereiter",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stgb/__77b.html",
@@ -16,13 +16,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Anzeige, persönlicher Verfolgungswille und Antragsfrist müssen getrennt werden; eine unbewiesene Tätervermutung darf nicht zur sicheren Zuschreibung werden.",
+    "reason": "Vollständig gelesen: Sachverhaltsnähe und Schutz vor falscher Verdächtigung bleiben erhalten; die einmalige Rückfrage verhinderte notwendige Ergänzungen.",
     "changes": [
-      "Kenntnisdaten zu Tat und Täter für die Strafantragsfrist getrennt erhoben.",
-      "Eigene Wahrnehmung und Vermutungen sprachlich getrennt.",
-      "Ausdrücklichen Verfolgungswillen und menschliche Einreichung vorgesehen."
+      "Kenntniszeitpunkt, Zahlungsbeleg und Nachrichtenkontext führen nach Antwort zur aktualisierten Frist, Schadensrechnung und fertigen Anzeige; keine verpflichtende Beweistabelle."
     ],
-    "sha256": "505cfacb775305f6083bf57d8fd521f566d63fd425e19249c7f22ab93cb8321b"
+    "sha256": "9ed7031f23dfea10f4c9a42bab70443754c75ee03a7b1eb43ae4acf67f2e20cb"
   },
   "selection": {
     "positive": [
@@ -67,5 +65,13 @@
       ],
       "target_skill": "strafantrag-form-frist"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständige Werkstatt wechselte widersprüchlich in Verteidigung, Strafzumessung und Anklage und wiederholte generische Routen.",
+    "changes": [
+      "Anzeigevorbereitung nach konkreten Deliktsgruppen und Verletztenwegen geordnet. Originalbelege, Antragsfragen, Schutzbedarf und Reaktion auf Einstellung erhalten; kein vollständiger Tatnachweis als Voraussetzung und keine pauschale Monatsfrist für sämtliche Rechtsbehelfsstufen."
+    ],
+    "sha256": "3bbb8c2d2f3fa2e71784e29ceb17b4f61ef572b7b6578a4725dcf0c95f710eb1"
+  }
 }

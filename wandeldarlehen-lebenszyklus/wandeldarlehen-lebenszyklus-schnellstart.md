@@ -1,6 +1,6 @@
 # 1. Wandeldarlehen: Wandelereignis, Preis und Vollzug abgleichen
 
-Bearbeite das konkrete Wandeldarlehen einer GmbH oder UG aus Sicht der Gesellschaft oder des Darlehensgebers. Liefere Vertragsparameter, Wandlungsrechnung und einen getrennten Vollzugsplan. Unternehmenskauf, Garantiekatalog und Datenraumprüfung sind kein Ersatz für die Darlehensmechanik.
+Prüfe oder gestalte das konkrete Wandeldarlehen einer GmbH oder UG aus Sicht der Gesellschaft oder des Darlehensgebers. Erstelle die beauftragte Vertragsfassung, Wandlungsrechnung oder Vollzugsunterlage; eine reine Berechnungsfrage verlangt kein vollständiges Transaktionspaket.
 
 ## 1.1. Vertrag und Ereignis
 
@@ -12,7 +12,7 @@ Trenne Finanzierung, Laufzeitende, Verkauf und Liquidation. Stelle für das tats
 
 Berechne Kapital und wandelbare Zinsen getrennt. Zinsbeginn, Ende, Ein- oder Ausschluss von Stichtagen und Nenner nur aus dem Vertrag ableiten. Fünf Prozent und act/360 sind keine gesetzlichen Standardwerte. Bereits gezahlte Zinsen, Teilrückzahlungen und nicht wandelbare Forderungen sichtbar abziehen oder gesondert führen. Jede Zahl erhält Quelle, Einheit und Stichtag.
 
-Bei fehlender Zinstagekonvention eine Rechenvariante ausdrücklich als Annahme kennzeichnen und den Unterschied beziffern. Nicht durch wiederholte Rückfragen jede Rechnung verhindern: Den sicher bestimmbaren Kapitalanteil und die offene Zinskomponente liefern.
+Fehlt die Zinstagekonvention, frage nach der einschlägigen Klausel oder ergänzenden Vereinbarung. Berechne inzwischen den sicher bestimmbaren Kapitalanteil; eine Zinsvariante bleibt ausdrücklich vorläufig. Übernimm nach Eingang des Nachweises die vereinbarte Konvention und aktualisiere Wandlungsbetrag, Anteilszahl und Beteiligungsquoten.
 
 ## 1.3. Preis und Beteiligung
 
@@ -30,6 +30,14 @@ Amtlicher Einstieg: [Paragraf 55 GmbHG](https://www.gesetze-im-internet.de/gmbhg
 
 ## 1.5. Ausgabe und Grenzen
 
-Liefere ein Ereignisvotum, eine nachrechenbare Parameter- und Ergebnistabelle, Sensitivitäten nur für wirklich streitige Werte und eine Vollzugsliste mit Zuständigkeit und Freigabe. Auf Wunsch einen abgestimmten Vertragsentwurf ergänzen; nichts versenden, wandeln oder unterzeichnen.
+Beantworte die beauftragte Frage zum Wandelereignis und liefere die dafür erforderliche nachrechenbare Tabelle. Sensitivitäten sind nur für wirklich streitige Werte erforderlich; bei einem Vollzugsauftrag ergänze Zuständigkeiten, Bedingungen und Nachweise. Einen bestellten Vertragsentwurf oder Beschluss vollständig ausformulieren, nicht durch eine Prüfliste ersetzen.
 
-Nur entscheidende Rückfragen bündeln. Ohne Export vollständige Tabellen im Text ausgeben, ohne Quellenzugriff offene Rechtsfragen markieren. Der eigenständige Arbeitsgang steht hier; Werkstatt und weitere Skills sind ausschließlich optionale Vertiefung.
+### 1.5.1. Fehlende Vertragsparameter klären
+
+Ist der Nenner unklar, frage konkret nach der Behandlung des Optionspools oder der anderen Darlehen. Fehlt der Zugang einer Wandlungserklärung, fordere die Nachricht mit Zugangsnachweis an, statt ein Ausübungsdatum zu unterstellen. Neue Angaben nur in die betroffenen Preise, Fristen und Texte einarbeiten; zeigt die Antwort eine weitere entscheidende Lücke, gezielt nachfragen, ohne die Aufnahme zu wiederholen.
+
+### 1.5.2. Bis zum bestellten Dokument weiterarbeiten
+
+Liefere bei einem Hindernis den bearbeitbaren Teil mit klar bezeichnetem Vorbehalt und setze nach Klärung dort fort. Prüfe zum Abschluss, ob Rechnung und Vertrags- oder Beschlusstext dieselben Parameter verwenden. Nutzerbenannte Dateien gehen vor; `ergebnis.md` ist nur ein Standard bei fehlendem Dateiwunsch. Nichts versenden, wandeln, unterzeichnen oder anmelden ohne ausdrückliche Freigabe.
+
+Ohne Export das vollständige Ergebnis im Text ausgeben; ohne Quellenzugriff offene Rechtsfragen in einer getrennten Arbeitsnotiz markieren. Keine erzeugte Datei oder erfolgte Rechtsprüfung behaupten, die nicht vorliegt. Werkstatt und weitere Skills sind ausschließlich optionale Vertiefung.
