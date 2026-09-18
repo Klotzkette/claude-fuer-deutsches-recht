@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "steuerrecht-anwalt-und-berater",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/ao_1977/__162.html",
@@ -17,17 +17,43 @@
       "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/",
       "checked_on": "2026-09-14",
       "supports": "BFH, Urteil vom 18.06.2025, Az. X R 19/21: Leitsätze 1 bis 6 und Gründe im amtlichen Volltext geprüft; Befugnis, Methodenwahl und nachvollziehbare Schätzung unterscheiden. Zweifel an der bisherigen Richtsatzsammlung ausdrücklich ergänzend und nicht tragend."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202210043/",
+      "checked_on": "2026-09-17",
+      "supports": "Randnummer 30: Das DBA begründet nicht selbst eine nationale Lohnsteuerabzugspflicht; Fallkontext internationale Arbeitnehmerentsendung."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520301/",
+      "checked_on": "2026-09-17",
+      "supports": "Leitsatz 2: Erstmaliger Umsatzsteuerausweis ist von rückwirkender Rechnungsberichtigung zu unterscheiden."
+    },
+    {
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Grundsteuer_Grunderwerbsteuer/2023-05-25-Anwendung-Par-6a-GrEStG.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-17",
+      "supports": "Herausgeber sind die obersten Finanzbehörden der Länder; Gegenstand ist die Anwendung von Paragraf 6a GrEStG."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der bisherige Mini lenkte einen allgemeinen Bescheidauftrag in internationale Steuernormen und allgemeine Entscheidungen zur Vollverzinsung. Die Rechenprüfung der Hinzuschätzung und die Trennung vom Vollziehungsbedarf blieben abstrakt.",
+    "reason": "Bescheidprüfung, Außenprüfung und Rechenauftrag führen nach gezielter Belegnachforderung zum jeweils bestellten Empfängertext. Eine Prüfungsrechnung wird nicht zum erfundenen Änderungsbescheid.",
     "changes": [
-      "Bescheidkette, Bekanntgabeweg und Jahresfassung an den Anfang gestellt.",
-      "Auslandsroute auf tatsächlichen Auslandsbezug begrenzt.",
-      "Schätzungsbefugnis, Methode, Menge, Preis und Steuerfolgen getrennt; Einspruch nicht mit Aussetzung gleichgesetzt."
+      "Inventurantwort in Mengen, Umsatzdifferenz und vollständige Stellungnahme einarbeiten",
+      "Bekanntgabe, Einspruch und Vollziehungsbedarf getrennt prüfen",
+      "Interne Export- und Freigabehinweise außerhalb des Empfängertextes halten"
     ],
-    "sha256": "0dbc185bec7e3ad0ea3eb8df605af4b5f036c393bade2b3c4c02dfbdef5d7067"
+    "sha256": "f825d84debd0b8c74b6da26cd86a204ca717f6db51495ae4560a4937a5a4c03d"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "retained",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [],
+    "prompt_path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
+    "prompt_sha256": "2b480064a1af2026b627699d53099f2ba153656fe41e5721a6ffa92754e3b2d0",
+    "skill_path": "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
+    "skill_sha256": "532156a91bfb83b700ab6de48232dcfc8f34ca0305368b249eccf5c5147456fc"
   },
   "selection": {
     "positive": [
@@ -86,6 +112,57 @@
         }
       ],
       "target_skill": "hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation"
+    },
+    {
+      "id": "gegenkalkulation-fortsetzen-stellungnahme-fertigstellen",
+      "request": "Wir setzen eine bereits aufgenommene Außenprüfung fort. Sie hatten ausschließlich den fehlenden Endbestand der Flaschengetränke angefragt. Die unterschriebene Inventur liegt nun vor: 2000 Flaschen am 31.12.2024. Geprüfter übriger Stand: Anfangsbestand 1000, Einkauf 9000, Bruch 400, Personalgetränke 600, Verkauf ganzjährig 5 EUR netto pro Flasche, erklärter vergleichbarer Netto-Verkaufsumsatz 34000 EUR. Alle Angaben betreffen nur diese Warengruppe und sind belegt; keine Retouren oder Rabatte. Der Prüfer hat mit 9000 EUR Einkauf und 300 Prozent Rohgewinnaufschlag 36000 EUR Umsatz errechnet. Es geht um seine Rechenanlage zur Schlussbesprechung, nicht um einen Änderungsbescheid. Kassenaufzeichnungen fehlen an 30 Tagen weiterhin. Schreiben Sie jetzt die Stellungnahme zur Rechenanlage in stellungnahme.md fertig. Empfänger ist die Betriebsprüfung, Absender die beauftragte Steuerberatung. Benennen Sie verbleibende tatsächliche Grenzen knapp in einem gesonderten internen Vermerk unter bearbeitungsvermerk.md. Steuerarten, andere Warengruppen und unentgeltliche Wertabgaben sollen nicht beziffert werden. Keine weiteren Daten erfinden und nichts versenden.",
+      "input_files": [],
+      "deliverables": [
+        "stellungnahme.md",
+        "bearbeitungsvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Antwort verarbeitet den nachgereichten Endbestand ohne ihn erneut anzufordern und rechnet 7000 verkaufte Flaschen, 35000 EUR Umsatz und 1000 EUR verbleibende Differenz zum erklärten Umsatz.",
+          "deliverables": [
+            "stellungnahme.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Stellungnahme ist ein vollständiger Empfängertext mit Bezug zur Rechenanlage, nachvollziehbarer Gegenrechnung und bestimmter Bitte um deren Berücksichtigung, nicht bloß eine interne Analyse oder ein Angebot zur späteren Texterstellung.",
+          "deliverables": [
+            "stellungnahme.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die offenen Kassenmängel werden nicht als geheilt bezeichnet. Es werden kein Einspruch gegen einen nicht vorhandenen Bescheid und keine konkrete Mehrsteuer erfunden.",
+          "deliverables": [
+            "stellungnahme.md",
+            "bearbeitungsvermerk.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Technische Zugriffs- und Exporthinweise sowie interne Bearbeitungsanweisungen fehlen im Schreiben an die Betriebsprüfung. Seine Begründung bleibt fachlich nachvollziehbar und vollständig.",
+          "deliverables": [
+            "stellungnahme.md"
+          ]
+        }
+      ],
+      "target_skill": "hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die Werkstatt trennt Verfahrensstand und konkrete Steuerfrage. Buchführung, Schätzung, Umsatzsteuer, Haftung, internationale Besteuerung und Betriebsvermögen haben fachbezogene Arbeitsschritte statt einer allgemeinen Pflichtliste.",
+    "changes": [
+      "Vier-Tages-Regel, Voraussetzungen der Untätigkeitsklage und gerichtliche Aussetzung genauer abgegrenzt",
+      "Beteiligungsschwelle von mehr als 25 Prozent und Poolvoraussetzungen getrennt",
+      "Ländererlasse zu Paragraf 6a GrEStG richtig bezeichnet und einschlägige BFH-Passagen amtlich verlinkt"
+    ],
+    "sha256": "6e48db7a807406e0e8632e30f4616f8e3853fa9c1066ed82af77a743d13f85a1"
+  }
 }

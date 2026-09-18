@@ -619,7 +619,7 @@ SENTINELS = (
     Sentinel(
         "II ZR 331/00 fälschlich als ARAG/Garmenbeck bezeichnet",
         re.compile(
-            r"II\s+ZR\s+331/00.{0,140}ARAG|ARAG.{0,140}II\s+ZR\s+331/00",
+            r"II\s+ZR\s+331/00.{0,140}\bARAG\b|\bARAG\b.{0,140}II\s+ZR\s+331/00",
             re.IGNORECASE,
         ),
     ),

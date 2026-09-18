@@ -13,13 +13,13 @@ Lies zuerst Erbfall- oder Übergabedatum, Bundesland, Hofstatus, Familienübersi
 
 ## 1.2. Ablauf und Checkliste
 
-1. Erstelle eine Tatsachenkarte mit Anspruchsteller, Verpflichtetem, Quote, Hofstatus und maßgeblicher Gesetzesfassung. Hofeigenschaft und Hofeswert nicht allein aus aktuellem Grundbuch oder Steuerbescheid rückschließen; Paragraf 19 HöfeO und zeitlich anwendbares Recht prüfen.
+1. Bestimme Anspruchsteller, Verpflichteten, Quote, Hofstatus und maßgebliche Gesetzesfassung aus den vorhandenen Unterlagen; keine erneute Aufnahme bereits geklärter Angaben. Hofeigenschaft und Hofeswert nicht allein aus aktuellem Grundbuch oder Steuerbescheid rückschließen; Paragraf 19 HöfeO und zeitlich anwendbares Recht prüfen.
 2. Rekonstruiere das Zwanzigjahresfenster. Trenne dieses vom Verjährungslauf nach Paragraf 13 Absatz 9 HöfeO. Ordne jede Periode vor oder nach den Schwellen von mehr als zehn beziehungsweise fünfzehn Jahren ein. Übergreifende Abrechnungen mit offen ausgewiesener Zuordnung teilen; ein später Zahlungseingang darf die Verwertungsperiode nicht stillschweigend ersetzen.
 3. Prüfe landwirtschaftsfremde Nutzung, längerfristigen Wegfall des höferechtlichen Zwecks und erheblichen Gewinn. Landwirtschaftliche Restnutzung schließt den Anspruch nicht allein aus. Den Gewinn nicht ohne Prüfung mit dem gesamten Betreiberumsatz gleichsetzen. Der Betreiberumsatz ist gegebenenfalls nur die Bemessungsgröße des geschuldeten Nutzungsentgelts.
 4. Führe je Vertragsperiode die Spalten Vertragsformel, Sollentgelt, Abrechnung, Zufluss, Differenz, Anspruchsgrund und Beleg. Ist das Mindestentgelt eine Untergrenze, rechne den höheren Betrag aus Mindestentgelt und Beteiligung, nicht deren Summe. Gesonderte Entgelte nur addieren, soweit der Vertrag sie zusätzlich vorsieht. Offene Forderungen, Prognosen und tatsächliche Erlöse getrennt führen.
 5. Leite die Nachabfindungsgrundlage aus sämtlichen einschlägigen Nutzungsentgelten ab, nicht nur aus Fundament- und Wegeflächen. Öffentliche Abgaben, Eigenleistungen und Billigkeitsabzüge einzeln begründen und belegen. Keine automatische Übernahme aller Betriebsausgaben oder einer pauschalen Verhandlungsvergütung. Umsatzsteuer getrennt ausweisen und ihre Behandlung vor Bezifferung klären.
 6. Wende den passenden Zeitabschlag auf die bereinigte periodische Grundlage an, dann die allgemeine Erb- oder Wertquote. Führe Vorabfindung und bereits erfüllte Ergänzungen in einem fortlaufenden Anrechnungskonto; denselben Betrag nicht in jedem Jahr erneut abziehen. Prüfe vertraglichen Verzicht und dessen Reichweite. Keine erfundene Kapitalisierung zukünftiger Erlöse.
-7. Liefere die belegte Rechnung sofort. Stelle höchstens eine gebündelte Rückfrage zu ergebnisentscheidenden Lücken. Bei fehlenden Zahlen liefern Formel, Teilrechnung und gezielte Auskunft weiter Nutzen; endgültige Bezifferung bleibt insoweit offen. Keine automatische Zahlungsaufforderung versenden, keinen Vergleich schließen und keinen gerichtlichen Antrag einreichen.
+7. Fehlt eine Betreiberabrechnung oder ein Zahlungsnachweis, fordere die konkrete Periode an und liefere die belegten Perioden sowie offene Formel vorläufig. Nach Eingang gleiche Soll, Abrechnung und Zufluss ab, ändere betroffenen Zeitabschlag und Anrechnung und vervollständige das bestellte Gutachten oder Schreiben. Eine neue entscheidende Lücke, etwa der Bezugszeitraum einer Nachzahlung, erlaubt eine gezielte Anschlussfrage; bereits beantwortete Fragen nicht wiederholen. Keine Zahlung, Quote oder Abzugstatsache erfinden. Keine automatische Zahlungsaufforderung versenden, keinen Vergleich schließen und keinen gerichtlichen Antrag einreichen.
 
 ## 1.3. Quellenpflicht
 
@@ -31,7 +31,9 @@ Prüfstand 14.09.2026; vor fallbezogener Verwendung aktualisieren. Optional vert
 
 ## 1.4. Ausgabeformat
 
-Liefere `ergebnis.md` mit Sachverhalt, begründeter Kurzantwort, Vertrags- und Zuflussabgleich, periodischer Nachabfindungsrechnung, Anrechnungskonto, stärkstem Einwand und ausformuliertem Auskunfts- oder Erwiderungsentwurf. Jede offene Position erhält Unterlage, Inhaber und Auswirkung auf die Rechnung. Ende mit nächstem Schritt und Verantwortlichem.
+Liefere das bestellte Gutachten oder vollständig ausformulierte Auskunfts-, Zahlungs- oder Erwiderungsschreiben unter dem gewünschten Dateinamen. Nur ohne Dateiwunsch verwende `ergebnis.md`. Vertrags- und Zuflussabgleich, periodische Rechnung, Anrechnung und stärksten Einwand im erforderlichen Umfang nachvollziehbar begründen; keine obligatorische Sammlung aller Tabellen.
+
+Offene Positionen mit Unterlage, Inhaber und Rechenauswirkung gesondert notieren. Quellenstatus und interne Prüfvermerke nicht in den Empfängerbrief übernehmen. Nach ergänzten Unterlagen bis zum bestellten Dokument weiterarbeiten, bei einem reinen Gutachtenauftrag nicht ungefragt prozessieren; externe Erklärungen nur nach ausdrücklicher Freigabe.
 
 Ausformulierungspflicht: vollständige Sätze, keine Skelette oder Halbsätze als Endprodukt. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown entsprechender Exporthinweis. Ohne Dateifunktion vollständigen Text statt erfundenem Download liefern.
 

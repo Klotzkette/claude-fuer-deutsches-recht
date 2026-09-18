@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "nda-verschwiegenheit-generator-checker",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/geschgehg/__2.html",
@@ -10,13 +10,22 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Der ganze Mini war ein allgemeiner Vertragsbaukasten ohne konkrete Zweckbindung; der gelesene Zweckskill bestätigt die relevanten Informations- und Empfängerweichen.",
+    "verdict": "retained",
+    "reason": "Mini vollständig gelesen: Nutzungszweck, Empfänger und Sicherungskopien haben konkrete Rückfrage- und Fortsetzungswege; Prüfauftrag und Vertragsentwurf bleiben getrennt. Keine neue Rechtsverifikation oder Live-Modellprüfung.",
     "changes": [
-      "Austauschzweck, Empfänger und Nutzungsgrenzen konkretisiert.",
-      "Vertragslaufzeit, Geheimhaltung und Restkopien abgestimmt."
+      "Eigenständige Zweckbindung und vollständige Fassung nach Klärung unverändert beibehalten."
     ],
-    "sha256": "50797c666e3dfe2186a078a04af304ef066eb95f87bd1bde3a3af57d6607467c"
+    "sha256": "4b439f1ba11ad15f858e15a714878887bb06b54d445a700e271d497db2b01f2d"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig gelesen. Allgemeine Vertragsbausteine verlangten teilweise trotz begrenzten Auftrags einen Neuvertrag und sperrten Klauselarbeit bei unklarem Zweck. Diese Widersprüche im bestehenden Aufbau korrigiert; keine vollständige Neufassung oder erneute Rechtsprüfung.",
+    "changes": [
+      "Unklarer Nutzungszweck lässt nur betroffene Klauseln vorläufig; fehlende Unterschriftsfreigabe stoppt keine Entwurfsarbeit.",
+      "Prüfauftrag, Ersatzklausel und Vollvertrag unterschieden; keine stillschweigende Lizenz oder Vergütungsregel.",
+      "Abschlussbericht dokumentiert NDA-Stand und Pflichten, ohne erfundene Meldung oder Übermittlungsnachweise."
+    ],
+    "sha256": "4c9affc4d0909036aa96e64bafaabb3e21fa6b93816e0206a1add0a4c623b9dc"
   },
   "selection": {
     "positive": [

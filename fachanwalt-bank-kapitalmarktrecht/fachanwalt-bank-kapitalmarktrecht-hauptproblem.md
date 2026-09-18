@@ -1,6 +1,6 @@
 # 1. Bestrittene Onlineüberweisungen rekonstruieren
 
-Prüfe meinen Fall nicht autorisierter Onlineüberweisungen aus Kundensicht oder zur Anspruchsabwehr. Erstelle eine Beweiskette je Zahlung und eine nachvollziehbare Erstattungsrechnung. Der Auftrag funktioniert ohne installierte Erweiterungen. Lies bereitgestellte Unterlagen zuerst; fehlen sie, frage einmal gebündelt nach Rolle, Kontostatus, Beträgen, Freigabeablauf, Anzeigetext, Reklamation, Sperre und Rückflüssen. Danach liefere einen Teilstand statt einer Frageschleife.
+Prüfe die bestrittenen Onlineüberweisungen aus der beauftragten Sicht und schreibe die verlangte Reklamation, Verteidigung oder rechtliche Bewertung. Lies bereitgestellte Unterlagen zuerst und übernimm bereits geklärte Angaben. Rekonstruiere jede Zahlung und berechne den offenen Erstattungsbetrag; frage nur nach entscheidenden Lücken im Freigabeablauf, Anzeigetext, Sperrzeitpunkt oder Rückfluss.
 
 ## 1.1. Tatsachen sichern
 
@@ -20,6 +20,8 @@ Prüfe den Bankgegenanspruch nach Paragraf 675v BGB separat: Pflicht, konkrete V
 
 Rechne je Transaktion Belastung minus endgültigem Rückfluss. Vorläufige Gutschriften, Rückholungen, Gebühren und Gegenforderungen getrennt ausweisen; keine doppelte Erstattung. Zinsen und Nebenforderungen eigenständig begründen.
 
+Fehlt der Freigabetext einer bestimmten Überweisung, formuliere eine darauf beschränkte Nachforderung. Nach Eingang gleiche die Anzeige mit Kundenangaben, Gerät und Transaktion ab; prüfe Autorisierung und Gegenanspruch erneut und aktualisiere die Rechnung sowie die betroffene Briefpassage. Ist etwa unklar, ob eine Gutschrift endgültig ist, frage hierzu nach. Weitere kurze Runden sind bei entscheidenden neuen Lücken möglich, ohne bekannte Angaben zu wiederholen. Unabhängig belegte Teile vorläufig liefern und nach Klärung bis zum bestellten Dokument weiterarbeiten; ein fehlender Banknachweis beweist nicht automatisch den behaupteten Kundenablauf.
+
 Wird zusätzlich Schadensersatz nach Artikel 82 Absatz 1 der Datenschutz-Grundverordnung verlangt, benenne den behaupteten Datenschutzverstoß, den konkreten Schaden und die Belege für deren ursächlichen Zusammenhang gesondert. Die Erstattungsprüfung nach Paragraf 675u BGB ersetzt diese Prüfung nicht.
 
 ## 1.3. Verifizierbare Anker
@@ -32,6 +34,8 @@ Vor Verwendung aktuelle Normen und amtliche Entscheidung prüfen. Keine erfunden
 
 ## 1.4. Lieferung und Grenze
 
-Liefere `ergebnis.md` mit Sachverhalt, Zahlungstabelle, Freigabeketten, Erstattungsrechnung, gesonderten Gegenansprüchen und einem ausformulierten Reklamations- oder Verteidigungsentwurf. Jede offene Zahlung erhält den entscheidenden fehlenden Beleg und dessen Auswirkung. Nenne den nächsten Schritt, ohne Sperre, Überweisung, Anzeige, Versendung oder Einreichung eigenmächtig auszulösen.
+Liefere das bestellte Dokument unter dem gewünschten Dateinamen; nur ohne Vorgabe `ergebnis.md` verwenden. Bei Reklamations- oder Verteidigungsauftrag den vollständigen Empfängertext schreiben; Zahlungstabelle, Erstattungsrechnung und gesonderte Gegenanspruchsprüfung nur soweit erforderlich beifügen. Bei Gutachtenauftrag die Frage begründet beantworten, keine ungefragte Klage ergänzen.
+
+Offene Zahlungen mit fehlendem Beleg und Auswirkung kennzeichnen. Quellenstatus, technische Prüfgrenzen und interne Risiken in einer gesonderten Arbeitsnotiz festhalten, nicht im Mandantenbrief. Sperre, Überweisung, Anzeige, Versand oder Einreichung nur nach Freigabe auslösen.
 
 Vollständige Sätze statt Skeletten, echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Überschriften mit Leerzeilen. Formatstandard: Times New Roman 11 pt und Exporthinweis bei Markdown. Ohne Werkzeuge vollständigen Text mit klaren Recherchegrenzen liefern; keine Dateilinks erfinden.

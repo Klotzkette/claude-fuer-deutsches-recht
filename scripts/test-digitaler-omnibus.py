@@ -2,6 +2,7 @@
 """Sichert datierte Reformhinweise, lokale Quellen und eigenständige Prompts."""
 
 from pathlib import Path
+import importlib.util
 import re
 import unittest
 from quality_lab import load, validate_profile
@@ -15,6 +16,16 @@ PLUGINS = (
     "robotik-recht",
 )
 REFERENCE = "references/digitaler-omnibus-2026.md"
+SPEC = importlib.util.spec_from_file_location("omnibus_structure", ROOT / "scripts/audit-prompt-profile-routing.py")
+STRUCTURE = importlib.util.module_from_spec(SPEC)
+SPEC.loader.exec_module(STRUCTURE)
+
+
+def optional_skill_link_errors(text):
+    """Nur den Linkvertrag prüfen, keine fachliche Eigenständigkeit simulieren."""
+    return [paragraph for paragraph in re.split(r"\n\s*\n", text)
+            if re.search(r"\]\([^)]*skills/", paragraph)
+            and not re.search(r"\boptional\w*\b", paragraph, re.I)]
 
 
 class OmnibusTests(unittest.TestCase):
@@ -42,20 +53,38 @@ class OmnibusTests(unittest.TestCase):
                         self.assertIn(token, text)
                     self.assertIn("2. Dezember 2027", text)
                     self.assertIn("2. August 2028", text)
-                    review_path = ROOT / "quality/evals" / f"{plugin}.json"
-                    reviewed_mini = kind == "schnellstart" and review_path.is_file()
-                    if reviewed_mini:
-                        validate_profile(load(review_path), plugin, ROOT / plugin)
-                    else:
-                        self.assertNotIn("skills/", text)
+                    self.assertEqual(optional_skill_link_errors(text), [])
                     self.assertNotIn("../../references/", text)
-                    headings = [int(n) for n in re.findall(r"^## (\d+)\. ", text, re.M)]
-                    if not reviewed_mini:
-                        self.assertEqual(headings, list(range(1, len(headings) + 1)))
+                    self.assertEqual(STRUCTURE.individual_workshop_structure_problems(text), [])
                     if kind == "schnellstart":
                         self.assertLess(len(text.encode("utf-8")), 7500)
                     else:
                         self.assertLess(len(text.encode("utf-8")), 48 * 1024)
+
+    def test_individual_review_hashes_remain_required(self):
+        for plugin in PLUGINS:
+            review_path = ROOT / "quality/evals" / f"{plugin}.json"
+            if review_path.is_file():
+                with self.subTest(plugin=plugin):
+                    validate_profile(load(review_path), plugin, ROOT / plugin)
+
+    def test_structural_checks_allow_decimal_variants_but_reject_damage(self):
+        for text in (
+            "# Titel\n\n## 1. Auftrag\n\nText.\n",
+            "# 1. Titel\n\n## 1.1. Auftrag\n\nText.\n\n## 2. Ergebnis\n\nText.\n",
+        ):
+            self.assertEqual(STRUCTURE.individual_workshop_structure_problems(text), [])
+        for text in (
+            "# Titel\n\n## A. Auftrag\n\nText.\n",
+            "# Titel\n\n## 1. Auftrag\n\nText.\n\n## 1. Ergebnis\n\nText.\n",
+            "# Titel\n\n## 1. Auftrag\n\n",
+        ):
+            self.assertTrue(STRUCTURE.individual_workshop_structure_problems(text))
+
+    def test_skill_links_must_be_explicitly_optional(self):
+        self.assertFalse(optional_skill_link_errors("Der optionale [Fokus](skills/fokus/SKILL.md) vertieft die Prüfung."))
+        self.assertTrue(optional_skill_link_errors("Lade zuerst den [Fokus](skills/fokus/SKILL.md)."))
+        self.assertTrue(optional_skill_link_errors("Optionale Hinweise.\n\nLade den [Fokus](skills/fokus/SKILL.md)."))
 
     def test_primary_sources_and_proposal_status(self):
         text = (ROOT / REFERENCE).read_text()

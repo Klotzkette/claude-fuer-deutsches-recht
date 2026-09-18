@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "leasingrecht-praxis",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__538.html",
@@ -20,14 +20,16 @@
     }
   ],
   "mini_review": {
+    "verdict": "retained",
+    "reason": "Aktuellen Mini vollständig gelesen. Fehlende Fotos, Minderwertgrundlagen oder Verwertungserlöse führen zum vorläufigen Positionssaldo und nach Ergänzung zum fertigen Einwand. Vertragsmodell, Gebrauchsschaden und Insolvenz werden getrennt geprüft; fehlende Belege sind keine Schadenfreiheit. Keine neue Quellen- oder Live-Modellprüfung.",
+    "changes": [],
+    "sha256": "e9d629a42b08462dc12656c01620ec3c235a2c333f9e1f6f0b32bd86a1fdf296"
+  },
+  "workshop_review": {
     "verdict": "revised",
-    "reason": "Der Schnellstarter behandelte Leasing wie einen beliebigen Lizenzvertrag. Der gelesene Flottenskill enthält Schadensarbeit, aber pauschale Beweis- und Verjährungsfolgen.",
-    "changes": [
-      "Kilometer-, Restwert- und Schadenabrechnung getrennt.",
-      "Objektbezogene Belege und doppelte Schadensberechnung behandelt.",
-      "Insolvenzprüfung an Erfüllungsstand und Gegenstand gebunden."
-    ],
-    "sha256": "bd4ff17e2a51849def890fe980105cce0ad76a366ef27853c773421c6fd9c0ef"
+    "reason": "Werkstatt vollständig gelesen. Allgemeine Vertragsgerüste und zusätzliche NDA-Vorgaben widersprachen Abrechnungsaufträgen; fehlende Parameter wurden teilweise zum Gesamtstopp. Diese konkreten Stellen begrenzt. Ungeprüfte Insolvenz- und UNIDROIT-Pauschalen in fallbezogene Normprüfungen umgestellt; keine neue amtliche Verifikation behauptet. Übrige Fachhinweise bleiben vor Verwendung zu prüfen, kein Live-Modelltest.",
+    "changes": ["Abrechnungseinwand und Vertragsgestaltung als unterschiedliche Endprodukte behandelt; keine Pflicht zum Neuvertrag oder zusätzlicher NDA.", "Fehlenden Objektparameter nur auf abhängige Position bezogen und Fertigstellung nach Ergänzung verlangt.", "Insolvenzregeln nach Gegenstand und Erfüllungsstand getrennt; ungesicherte Vertragsstaatenbeispiele nicht fortgeschrieben."],
+    "sha256": "9c107098a66fbee216ce4a7f688a347d50572f2dec3c5e49a0d0974b450eedc9"
   },
   "selection": {
     "positive": [

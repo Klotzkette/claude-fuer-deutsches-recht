@@ -1,31 +1,77 @@
 {
   "schema_version": 1,
   "plugin": "vereinsrecht-vereinsmanager",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
-    {"url": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html", "checked_on": "2026-09-14", "supports": "Amtlicher Suchauszug zu Paragraf 32: bezeichnete Beschlussgegenstände, Mehrheit abgegebener Stimmen, hybride und rein virtuelle Versammlung sowie Hinweis zur Rechtsausübung."},
-    {"url": "https://www.gesetze-im-internet.de/bgb/__73.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: gerichtlicher Entzug der Rechtsfähigkeit bei weniger als drei Mitgliedern statt automatischer Auflösung."}
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Suchauszug zu Paragraf 32: bezeichnete Beschlussgegenstände, Mehrheit abgegebener Stimmen, hybride und rein virtuelle Versammlung sowie Hinweis zur Rechtsausübung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__73.html",
+      "checked_on": "2026-09-14",
+      "supports": "Geöffneter Volltext: gerichtlicher Entzug der Rechtsfähigkeit bei weniger als drei Mitgliedern statt automatischer Auflösung."
+    }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Vereinsstatus- und Satzungsachse ist brauchbar. Der Mini behauptete automatische Auflösung bei Mitgliederverlust. Der gelesene Einberufungsskill enthält zusätzlich unzutreffende Pauschalen zur virtuellen Versammlung und Zugangsfiktion, die nicht übernommen werden.",
-    "changes": ["Rechtsfähigkeitsentzug statt automatischer Auflösung", "Virtuelle und hybride Versammlungsgrundlage getrennt", "Keine pauschale Dreitages-Zugangsfiktion", "Abstimmungsnenner und konkrete Tagesordnung ergänzt"],
-    "sha256": "7d01143af290a6f8afd0543c81da60e32d3481c9c6fa615c831d916f93c20445"
+    "reason": "Mini vollständig gelesen; einmalige Rückfrage und standardisierte Fallkarte standen neben brauchbaren konkreten Regeln zu Einladung, virtueller Versammlung und Stimmenmehrheit.",
+    "changes": [
+      "Rückfragegrenze durch Satzungs-, Einladungs- und Protokollnachforderungen mit anschließender Fertigstellung ersetzt; konkrete Versammlungsregeln erhalten, Ausgabe nach Auftrag statt Pflichtschema."
+    ],
+    "sha256": "d5137fc7c53418fa547bdf4b6830ed3cc97c2ce5b62131b2d09ed9e1297179e5"
   },
   "selection": {
-    "positive": ["Prüfe unsere Einladung zu einer rein virtuellen Mitgliederversammlung anhand der Satzung.", "Erstelle einen Beschluss- und Abstimmungscheck für die nächste Vereinsversammlung."],
-    "negative": ["Prüfe die Hauptversammlung einer börsennotierten Aktiengesellschaft.", "Berechne allein die Umsatzsteuer einer Vereinsveranstaltung."]
-  },
-  "cases": [{
-    "id": "virtuelle-versammlung-ohne-grundlage",
-    "request": "Erstelle ergebnis.md als Freigabeprüfung einer noch nicht versandten Einladung. Unser eingetragener Verein hat 42 Mitglieder. Die gültige Satzung enthält keine Abweichung von Paragraf 32 BGB und keine Regel für rein virtuelle Versammlungen. Die Mitglieder haben bisher keinen Beschluss zu künftigen virtuellen Versammlungen gefasst. Der Vorstand möchte erstmals ausschließlich per Video tagen, ohne physischen Versammlungsort. Der Einladungsentwurf nennt nur Datum, Uhrzeit und Link, keine Ausübung von Antrags- oder Stimmrechten. Unter dem Tagesordnungspunkt Verschiedenes soll eine wesentliche Satzungsänderung beschlossen werden. Bitte benenne Freigabehindernisse und konkret mögliche Korrekturen; keine Einladung versenden.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id": "C01", "text": "Die rein virtuelle Einladung wird ohne Satzungsgrundlage oder vorgängigen Mitgliederbeschluss nicht allein durch Vorstandsbeschluss freigegeben; hybride Teilnahme wird als anderer gesetzlicher Weg unterschieden.", "deliverables": ["ergebnis.md"]},
-      {"id": "C02", "text": "Der Entwurf verlangt eine konkrete Beschreibung der elektronischen Ausübung der Mitgliederrechte statt des bloßen Videolinks.", "deliverables": ["ergebnis.md"]},
-      {"id": "C03", "text": "Die wesentliche Satzungsänderung unter Verschiedenes wird als unzureichend angekündigt behandelt und eine konkret bezeichnete Tagesordnung mit erneuter Fristprüfung vorgeschlagen.", "deliverables": ["ergebnis.md"]}
+    "positive": [
+      "Prüfe unsere Einladung zu einer rein virtuellen Mitgliederversammlung anhand der Satzung.",
+      "Erstelle einen Beschluss- und Abstimmungscheck für die nächste Vereinsversammlung."
     ],
-    "target_skill": "mitgliederversammlung-einberufung"
-  }]
+    "negative": [
+      "Prüfe die Hauptversammlung einer börsennotierten Aktiengesellschaft.",
+      "Berechne allein die Umsatzsteuer einer Vereinsveranstaltung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "virtuelle-versammlung-ohne-grundlage",
+      "request": "Erstelle ergebnis.md als Freigabeprüfung einer noch nicht versandten Einladung. Unser eingetragener Verein hat 42 Mitglieder. Die gültige Satzung enthält keine Abweichung von Paragraf 32 BGB und keine Regel für rein virtuelle Versammlungen. Die Mitglieder haben bisher keinen Beschluss zu künftigen virtuellen Versammlungen gefasst. Der Vorstand möchte erstmals ausschließlich per Video tagen, ohne physischen Versammlungsort. Der Einladungsentwurf nennt nur Datum, Uhrzeit und Link, keine Ausübung von Antrags- oder Stimmrechten. Unter dem Tagesordnungspunkt Verschiedenes soll eine wesentliche Satzungsänderung beschlossen werden. Bitte benenne Freigabehindernisse und konkret mögliche Korrekturen; keine Einladung versenden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die rein virtuelle Einladung wird ohne Satzungsgrundlage oder vorgängigen Mitgliederbeschluss nicht allein durch Vorstandsbeschluss freigegeben; hybride Teilnahme wird als anderer gesetzlicher Weg unterschieden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Entwurf verlangt eine konkrete Beschreibung der elektronischen Ausübung der Mitgliederrechte statt des bloßen Videolinks.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die wesentliche Satzungsänderung unter Verschiedenes wird als unzureichend angekündigt behandelt und eine konkret bezeichnete Tagesordnung mit erneuter Fristprüfung vorgeschlagen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "mitgliederversammlung-einberufung"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig einschließlich aller Schlussrouten gelesen. Beschlussvorlagen wurden als gerichtliche Entscheidungen behandelt, Mittelverwendungsfragen als Rechtsbehelfe; Mitgliederverlust wurde entgegen dem Mini als automatische Auflösung bezeichnet.",
+    "changes": [
+      "Vereinsinterne Beschlüsse, Mitgliedschaft, Vorstand, Register und Gemeinnützigkeit getrennt; Paragraf 73 BGB als gerichtliches Entzugsverfahren berichtigt, Umlaufbeschluss und Nachforderung bis zur fertigen Fassung konkretisiert; doppelte Standardrouten entfernt."
+    ],
+    "sha256": "7da21dee3a3054f24445fb411a1ef131d6afc5d29aa215a09208e583e911077e"
+  }
 }

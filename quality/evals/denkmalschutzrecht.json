@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "denkmalschutzrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-bayern.de/Content/Document/BayDSchG-6",
@@ -10,13 +10,12 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Werkstatt und Kernskill verallgemeinern Erlaubnispflichten; die aktuelle Landesfassung verlangt vorgelagerte Ausnahmeprüfung.",
+    "verdict": "retained",
+    "reason": "Vollständig am 18. September gelesen: Substanzbefund und Kosten-/Fördernachweise führen zur geänderten Maßnahmenbeschreibung und Zumutbarkeitsrechnung; Landesrecht und Bewilligung werden nicht vermutet.",
     "changes": [
-      "Bayerische Freistellungen und Konzentration konkretisiert.",
-      "Fehlenden Landesnachweis nicht mehr zum vollständigen Arbeitsstopp gemacht."
+      "Keine weitere Änderung der Mini-Fassung."
     ],
-    "sha256": "0c7ada9b4b14001747568af0ff33c74c219a42cb0d5fe7105b3b709396c4caa6"
+    "sha256": "3249b2a9a5f2ea35c0c56da3353715f0e4cb09155ee1abe9eec214df9dee15b6"
   },
   "selection": {
     "positive": [
@@ -61,5 +60,15 @@
       ],
       "target_skill": "erlaubnis-pflichtige-massnahmen"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Textprüfung am 18. September: Der gesamte Werkstatttext enthielt neben guten Fortsetzungsregeln landesübergreifende Pauschalbehauptungen und doppelte Pflichtprodukte. Erlaubnisversagung und belastende Verfügung waren im Rechtsschutz nicht sauber getrennt.",
+    "changes": [
+      "Erlaubnistatbestand, Ausnahmen und Verfahrensweg am konkreten Landesrecht prüfen.",
+      "Fundanzeige und Eigentumszuordnung getrennt; keine ungeprüfte universelle Schatzregalzuordnung.",
+      "Objekt-, Kosten-, Steuer- und regionale Welterbethemen erhalten, doppelte Schablonen entfernt und Gliederung berichtigt."
+    ],
+    "sha256": "afd9a9755f6baa67843fc65c152f3660ca7faf4ed81f139567d1f5155d559213"
+  }
 }

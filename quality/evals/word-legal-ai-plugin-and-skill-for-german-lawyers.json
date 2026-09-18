@@ -1,6 +1,109 @@
 {
- "schema_version":1,"plugin":"word-legal-ai-plugin-and-skill-for-german-lawyers","reviewed_on":"2026-09-14","sources":[],
- "mini_review":{"verdict":"revised","reason":"Allgemeine Dokumenteninventur war brauchbar, aber Finish, echte Revisionen und Sichtprüfung fehlten gegenüber dem Layoutskill.","changes":["Änderungsverfolgung von bloßer Farbe getrennt","Kommentare, versteckte Inhalte und Felder ergänzt","Ausgabeprüfung nur bei tatsächlichem Werkzeugzugriff bestätigen"],"sha256":"fa5cab61863dffdf37d02d6451f6fe468cf7755b15415feaf8968325c99904c8"},
- "selection":{"positive":["Prüfe die saubere Versandfassung auf Kommentare, Revisionen und Querverweise.","Erstelle ein makrofreies Dokumentfinish mit nachvollziehbarem Prüfprotokoll."],"negative":["Berechne ausschließlich eine Versicherungsentschädigung aus Vertragsbedingungen.","Erstelle ein 3D-Diagramm für eine Messreihe ohne Dokumentenbezug."]},
- "cases":[{"id":"markup-ohne-dateizugriff","request":"Liefere ergebnis.md als Freigabevermerk und konkrete Korrekturliste. Nur folgende vollständige Prüfnotiz liegt vor, keine DOCX-Datei: Neue Haftungsklausel ist rot eingefärbt, Änderungsverfolgung war ausgeschaltet. Ein interner Kommentar nennt unsere maximale Vergleichssumme. Die Inhaltsübersicht nennt Abschnitt 4, der im Text nach Umnummerierung Abschnitt 5 heißt; ein Querverweis blieb auf 4. Gewünscht ist eine saubere externe Lesefassung, die Haftungsänderung ist aber noch nicht freigegeben. Die Originaldatei darf nicht verändert werden. Beurteile den Stand, ohne einen erfolgten Export oder eine Öffnungsprüfung zu behaupten.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Erkennt rote Schrift nicht als echte Änderungsverfolgung und übernimmt die unfreigegebene Haftungsänderung nicht als verbindlich akzeptiert.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Sperrt externe Freigabe wegen internem Kommentar und fordert dessen tatsächliche Entfernung sowie Aktualisierung beider Verweise.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Liefert konkrete Korrekturen und eine neue separate Ausgabefassung als nächsten Schritt, ohne Dateierzeugung oder Sichtprüfung ohne Datei vorzutäuschen.","deliverables":["ergebnis.md"]}],"target_skill":"word-dokument-finish-und-layout"}]
+  "schema_version": 1,
+  "plugin": "word-legal-ai-plugin-and-skill-for-german-lawyers",
+  "reviewed_on": "2026-09-17",
+  "sources": [],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Dokumentbearbeitung führt vom vorhandenen Entwurf über die konkret nötige Entscheidung zur vollständigen neuen Fassung. Layoutauftrag, rechtliche Änderung und tatsächlicher Export bleiben getrennt.",
+    "changes": [
+      "Vertrag, Schriftsatz, Mandantenbrief und zweisprachige Fassung mit eigenen Arbeitsschritten versehen",
+      "Antworten in Text, Definitionen und Anlagen fortführen statt die Aufnahme neu zu beginnen",
+      "Echte Revisionen, Empfängerkopie, Metadaten und tatsächliche Sichtprüfung unterscheiden"
+    ],
+    "sha256": "491da44a256b12eb750cd67d3bba89ae66d8a252789b6b6fd0cbd598f07e6a61"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die Werkstatt verbindet konkrete Schreibaufträge mit Kommentarbearbeitung und Dateifertigstellung. Allgemeine Tabellenpflichten und nicht beauftragte rechtliche Umschreibungen wurden durch dokumentbezogene Entscheidungen ersetzt.",
+    "changes": [
+      "Vertragsregelungen, gerichtlichen Vortrag und Mandantenkommunikation getrennt behandeln",
+      "Inhaltliche Freigabe, Lesefassung, Änderungsverfolgung und Versand unterscheiden",
+      "Ohne Export vollständigen Text liefern; keine Dateierzeugung oder Sichtprüfung vortäuschen"
+    ],
+    "sha256": "c17bb956d3963842411c76d69fc2ad6ab718fe5500d6678fb995ea9f50b066c7"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die saubere Versandfassung auf Kommentare, Revisionen und Querverweise.",
+      "Erstelle ein makrofreies Dokumentfinish mit nachvollziehbarem Prüfprotokoll."
+    ],
+    "negative": [
+      "Berechne ausschließlich eine Versicherungsentschädigung aus Vertragsbedingungen.",
+      "Erstelle ein 3D-Diagramm für eine Messreihe ohne Dokumentenbezug."
+    ]
+  },
+  "cases": [
+    {
+      "id": "markup-ohne-dateizugriff",
+      "request": "Liefere ergebnis.md als Freigabevermerk und konkrete Korrekturliste. Nur folgende vollständige Prüfnotiz liegt vor, keine DOCX-Datei: Neue Haftungsklausel ist rot eingefärbt, Änderungsverfolgung war ausgeschaltet. Ein interner Kommentar nennt unsere maximale Vergleichssumme. Die Inhaltsübersicht nennt Abschnitt 4, der im Text nach Umnummerierung Abschnitt 5 heißt; ein Querverweis blieb auf 4. Gewünscht ist eine saubere externe Lesefassung, die Haftungsänderung ist aber noch nicht freigegeben. Die Originaldatei darf nicht verändert werden. Beurteile den Stand, ohne einen erfolgten Export oder eine Öffnungsprüfung zu behaupten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt rote Schrift nicht als echte Änderungsverfolgung und übernimmt die unfreigegebene Haftungsänderung nicht als verbindlich akzeptiert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Sperrt externe Freigabe wegen internem Kommentar und fordert dessen tatsächliche Entfernung sowie Aktualisierung beider Verweise.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert konkrete Korrekturen und eine neue separate Ausgabefassung als nächsten Schritt, ohne Dateierzeugung oder Sichtprüfung ohne Datei vorzutäuschen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "word-dokument-finish-und-layout"
+    },
+    {
+      "id": "aenderungsvereinbarung-nach-geklaertem-termin",
+      "request": "Erstelle jetzt die vollständige kurze Änderungsvereinbarung in ergebnis.md. Der unveränderte Beratungsvertrag vom 02.03.2026 besteht zwischen Alster Handel GmbH, vertreten durch Geschäftsführer Jan Seidel, und Nora Beck. Beide haben sich ausschließlich darauf geeinigt, den in Ziffer 4 vereinbarten Abgabetermin 30.09.2026 auf 15.10.2026 zu verschieben. Du hattest nachgefragt, ob auch die Vergütung oder andere Fristen geändert werden sollen. Unsere abschließende Antwort lautet: Nein, ausschließlich der Abgabetermin wird geändert, alles andere bleibt unverändert. Beide unterschreiben eigenhändig; Ort und Unterzeichnungsdatum werden bei Unterzeichnung eingetragen. Keine weiteren Anlagen oder Dateien stehen bereit. Wir brauchen keine neue Gesamtfassung, keine Klauselbewertung, keine echte Word-Datei und keinen Versand. Gib den unterschriftsfähigen Vereinbarungstext aus; eine etwaige technische Exportnotiz steht außerhalb dieses Textes.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "target_skill": "writing-einstieg-routing",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Liefert die vollständige Änderungsvereinbarung mit beiden Parteien, eindeutigem Bezug auf den Vertrag vom 02.03.2026 und Änderung der Ziffer 4 vom 30.09.2026 auf den 15.10.2026.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Lässt Vergütung und alle übrigen Vertragsbestimmungen unverändert und führt keine neuen Haftungs-, Kündigungs-, Gerichtsstands- oder Leistungsklauseln ein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Übernimmt die abschließende Antwort ohne erneute Grundabfrage oder ein bloßes Angebot, später den Text zu schreiben; lässt nur Ort und Unterzeichnungsdatum ausdrücklich zur Eintragung offen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Enthält passende Unterschriftsbereiche und hält technische Exporthinweise außerhalb des Vereinbarungstextes; behauptet keine erzeugte DOCX, erfolgte Unterschrift oder Versendung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ]
 }

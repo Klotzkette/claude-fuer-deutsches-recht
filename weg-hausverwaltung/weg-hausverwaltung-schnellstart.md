@@ -6,21 +6,14 @@ Kernauftrag: Bearbeite Beschlüsse, Eigentümerversammlung, Protokoll, Beschluss
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Gemeinschaft und Gegenstand, Beschlussarbeit, Finanzen wählen; ohne konkreten Auftrag mit Gemeinschaft und Gegenstand beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
-
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Gemeinschaft und Gegenstand, Beschlussarbeit, Finanzen und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
-
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Lies Gemeinschaftsordnung, einschlägige Beschlüsse, Abrechnungen und Belege zuerst. Entnimm ihnen Gemeinschaft, Einheit, Rolle, Ziel und Zeitpunkte; frage bekannte Angaben nicht erneut ab. Prüfe laufende Beschlussklagefristen vorrangig, ohne davon unabhängige Rechen- oder Entwurfsarbeit abzubrechen.
 
 ## 2. Fachlicher Direktstart
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Gemeinschaft, Einheit, Vereinbarung und Beschlusslage bestimmen den Vorgang.
-2. Kernprüfung in einem Durchgang: Besteht Beschlusskompetenz und ist der Beschluss bestimmt, ordnungsmäßig vorbereitet und mit dem richtigen Mehrheitserfordernis gefasst; Welche Kostenart, Abrechnungsspitze oder Maßnahme trifft welchen Eigentümer nach welchem Schlüssel.
-3. Belege und Engpass zusammenführen: Die Gemeinschaft belegt Beschlusstext, ordnungsmäßige Vorbereitung, Kostenposition, Schlüssel und Fälligkeit; besonders kritisch ist: Die Monatsfrist oder Zweimonatsfrist des WEG Paragraf 45 kann laufen.
-4. Erstes Arbeitsprodukt liefern: Beschlussentwurf: Kompetenzgrundlage, konkrete Maßnahme, Kostenrahmen, Verteilungsschlüssel, Fälligkeit, Vollzugsbefugnis und Dokumentationsauftrag.
+1. Ordne Beschlusstext, Kostenposition oder Maßnahme der konkreten Einheit und dem geltenden Schlüssel zu. Prüfe Kompetenz, Bestimmtheit, Vorbereitung und erforderliche Mehrheit anhand der Unterlagen.
+2. Fehlt ein Vorschussbeschluss, Buchungsbeleg oder Angebot, fordere genau diesen Nachweis an und benenne die abhängige Rechnung oder Regelung.
+3. Gleiche die Antwort mit dem bisherigen Stand ab und aktualisiere Betrag, Verteilung oder Beschlusstext. Materialverfügbarkeit bedeutet nicht Wirksamkeit oder Richtigkeit; neue entscheidende Widersprüche erlauben weitere kurze Rückfragen, ohne bekannte Angaben erneut aufzunehmen.
+4. Schreibe das bestellte Dokument fertig. Bei verbleibendem Hindernis liefere den tragfähigen Teil vorläufig und benenne die konkrete Ergänzung. Ein Prüfauftrag führt nicht ungefragt zur Beschlussklage.
 
 ## 3. Kernroute
 
@@ -28,7 +21,7 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 2. Beschlussarbeit: Beschlusskompetenz, Einberufung, Tagesordnung, Bestimmtheit, Mehrheit, Verkündung, Niederschrift und Beschlusssammlung lückenlos prüfen.
 3. Finanzen: Wirtschaftsplan, Vorschüsse, Abrechnungsspitzen, Rücklage, Hausgeld, Sonderumlage, Kostenart und Verteilungsschlüssel rechnerisch mit Beleg verbinden.
 4. Maßnahme und Pflicht: Erhaltung, bauliche Veränderung, privilegierte Maßnahme, Verwalterhandlung, Handwerkerauftrag, Versicherung und Kostenfolge trennen.
-5. Rechtsschutz und Output: Monats- und Zweimonatsfrist, Klagegegner, Amtsgericht, Antrag, Begründungsstoff und sofort nutzbaren Beschluss-, Protokoll-, Abrechnungs- oder Schriftsatzentwurf erstellen.
+5. Rechtsschutz und Ergebnis: Soweit eine Beschlussklage betroffen ist, Monats- und Zweimonatsfrist, richtigen Gegner, zuständiges Gericht, Antrag und Begründungsstoff prüfen. Den bestellten Beschluss, das Protokoll, die Abrechnung oder Beratung fertigstellen; einen Schriftsatz nur bei entsprechendem Auftrag erstellen.
 
 ## 4. Fallkarte
 
@@ -44,7 +37,7 @@ Vergleiche je Einheit den nach maßgeblichem Schlüssel zugeordneten Jahresbetra
 
 Prüfe Einnahmen und Ausgaben, Schlüssel und Einzelzuordnung anhand der Belege; Rücklagenbewegungen gesondert behandeln. Bei jedem Fehler berechnen, ob und wie er die Zahlungspflicht verändert. Das Rechenwerk, der Beschluss über Nachschüsse oder Vorschussanpassung und der Vermögensbericht sind unterschiedliche Gegenstände. Ein bloßes Etikett „Abrechnung genehmigt“ weder automatisch für nichtig halten noch ungeprüft freigeben.
 
-Amtlicher Normtext: [WEG, Paragraf 28](https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html). Ergebnis ist ein korrigiertes Abrechnungsblatt mit ausformulierter Beschlussfassung, Betrag je Einheit, Bezugsanlage und gesondertem Rückstandsvermerk.
+Amtlicher Normtext: [WEG, Paragraf 28](https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html). Bei beauftragter Korrektur erstelle das Abrechnungsblatt mit Betrag je Einheit, Bezugsanlage und gesondertem Rückstandsvermerk sowie die verlangte Beschlussfassung. Ist nur ein Eigentümerbrief bestellt, erläutere darin die konkrete Zahlungsfolge statt ungefragt sämtliche Verwaltungsunterlagen auszugeben.
 
 
 ## 6. Anker
@@ -56,16 +49,14 @@ Amtlicher Normtext: [WEG, Paragraf 28](https://www.gesetze-im-internet.de/woeigg
 - BGH, Urteil vom 19.07.2024 - V ZR 102/23: Ein nach dem 30.11.2020 als Genehmigung der Gesamt- und Einzelabrechnungen formulierter Beschluss ist regelmäßig auf Nachschüsse und Vorschussanpassungen auszulegen.
 - BGH, Urteil vom 20.09.2024 - V ZR 195/23: Ein Fehler der Jahresabrechnung trägt die Ungültigerklärung des Beschlusses nach WEG Paragraf 28 Absatz 2 nur, wenn er sich auf Abrechnungsspitze und Zahlungspflicht auswirkt.
 
-## 7. Antwortform
+## 7. Endfassung
 
-7.1. Ergebnis: Rolle, Ziel und konkrete Zahlungs- oder Verwaltungsfolge nennen.
-7.2. Norm: WEG Paragraf 9a und Paragraf 18; WEG Paragraf 19 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Gemeinschaft und Gegenstand“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Die Gemeinschaft belegt Beschlusstext, ordnungsmäßige Vorbereitung, Kostenposition, Schlüssel und Fälligkeit. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Besteht Beschlusskompetenz und ist der Beschluss bestimmt, ordnungsmäßig vorbereitet und mit dem richtigen Mehrheitserfordernis gefasst.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Beschlussentwurf“. Nenne die Frist, die entscheidende Lücke in den Verwaltungsunterlagen und das nächste benötigte Dokument.
+Liefere den bestellten Beschluss, Vermerk oder Eigentümerbrief in vollständigen Sätzen mit konkreter Verwaltungs- oder Zahlungsfolge und tragender Begründung. Prüfe das stärkste Gegenargument und die fallbezogenen Darlegungs- und Beweisfragen. Kontrolliere Einheit, Schlüssel, Summen, Beschlusswortlaut, Fristen und Anlagen.
 
-## 8. Stop
+Verwende den gewünschten Dateinamen, sonst `ergebnis.md`. Verifiziere die herangezogenen Rechtsprechungsanker vor Zitierung; Quellenstatus und technische Prüfhinweise gehören in eine gesonderte Arbeitsnotiz, nicht in den Empfängertext.
+
+## 8. Freigabe und technische Grenzen
 
 Laufende Beschlussklagefristen lösen vorrangige Fristprüfung aus, keinen Arbeitsabbruch. Nur ungeklärte Teilbeträge oder Freigaben sperren; belegte Rechenarbeit fortsetzen. Keine Einladung, Beschlussverkündung, Zahlungsaufforderung oder Klage selbst versenden. Die Werkstatt ist optionale Vertiefung, kein notwendiger Zugriff.
+
+Nutze nur verfügbare Unterlagen und benenne fehlenden Zugriff, ohne Vollständigkeit vorzutäuschen. Ohne Export liefere Text statt eines erfundenen Links und setze nach Behebung am offenen Punkt fort. Formatiere Dokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung; Exporthinweise bleiben außerhalb des Empfängertextes.

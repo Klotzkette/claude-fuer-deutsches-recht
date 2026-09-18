@@ -1,8 +1,10 @@
 # 1. Äußerung im Zusammenhang prüfen
 
-Beginne mit dem exakten Wortlaut, dem sichtbaren Gesprächs- oder Veröffentlichungskontext und dem konkreten Auftrag. Sichere Sprecher, Betroffenen, Adressatenkreis, Datum, Medium und Reichweite. Zitate vollständig von Zusammenfassungen trennen. Eine einzelne zugespitzte Vokabel nicht ohne Kontext bewerten. Frage nur nach Angaben, die Deutung oder beantragte Rechtsfolge tatsächlich blockieren.
+Prüfe die konkrete Äußerung im Gesprächs- oder Veröffentlichungskontext und liefere die bestellte Bewertung, Antwort oder Neufassung. Beginne mit dem exakten Wortlaut und den vorhandenen Screenshots oder Dateien.
 
 ## 1.1. Aussagegehalt bestimmen
+
+Sichere Sprecher, Betroffenen, Adressatenkreis, Datum, Medium und Reichweite. Zitate vollständig von Zusammenfassungen trennen; eine einzelne zugespitzte Vokabel nicht ohne Kontext bewerten. Fehlt der vorausgehende Beitrag oder ein entscheidender Beleg zum Tatsachenkern, frage genau danach, nicht nach einer erneuten Vollerzählung.
 
 Beschreibe, welchen Sinn ein verständiges Publikum aus Wortlaut und erkennbaren Begleitumständen entnimmt. Prüfe, ob der Aussagekern einem Wahrheitsbeweis zugänglich ist oder eine Bewertung ausdrückt. Bei gemischten Äußerungen Tatsachenkern und Wertung herausarbeiten, ohne durch künstliche Zerstückelung den Gesamtsinn zu verändern. Ein vorangestelltes meines Erachtens macht einen konkreten Zahlungsvorwurf nicht automatisch zum reinen Werturteil.
 
@@ -16,6 +18,8 @@ Trenne zivilrechtliche Unterlassung oder Berichtigung von Strafbarkeit und Straf
 
 ## 1.3. Nutzbares Ergebnis
 
-Liefere die verlangte Bewertung, Antwort oder risikoreduzierte Neufassung. Für jede kritische Passage Aussagegehalt, Beleglage und verbleibendes Risiko begründen. Eine Neufassung muss den belegten Sachkern erhalten und darf eine unbelegte Beschuldigung nicht nur sprachlich kaschieren. Bestehende Screenshots und Dateien zuerst auswerten, keine erneute Vollerzählung verlangen.
+Nach Eingang des fehlenden Kontexts oder Belegs überprüfe Deutung und Abwägung und passe die betroffene Passage an. Zeigt die Ergänzung eine neue entscheidende Mehrdeutigkeit, frage gezielt weiter; bereits geklärte Angaben nicht wiederholen. Liefere bis dahin den belegbaren Teilstand und anschließend die bestellte Bewertung oder Antwort vollständig.
 
-Optional vertieft `meinung-tatsache-abgrenzung` die Einordnung; dieses Mini funktioniert ohne Skillzugriff. Ohne Quellenzugriff die nicht verifizierte Rechtsfolge offenlassen, den sprachlichen Befund trotzdem liefern. Den Text vollständig ausformulieren; beim Export Times New Roman, 11 pt und dezimale Gliederung verwenden.
+Begründe für jede kritische Passage Aussagegehalt, Beleglage und verbleibendes Risiko. Eine Neufassung muss den belegten Sachkern erhalten und darf eine unbelegte Beschuldigung nicht nur sprachlich kaschieren. Quellenstatus und interne Prüfung getrennt vom Empfängertext dokumentieren. Keine Veröffentlichung, Löschung, Kontaktaufnahme oder Einreichung ohne Freigabe.
+
+Optional vertieft `meinung-tatsache-abgrenzung` die Einordnung; dieses Mini funktioniert ohne Skillzugriff. Ohne Quellenzugriff die nicht verifizierte Rechtsfolge offenlassen, den sprachlichen Befund trotzdem liefern. Verwende den gewünschten Dateinamen; beim Export Times New Roman, 11 pt und dezimale Gliederung verwenden, ohne eine nicht erfolgte Dateierzeugung zu behaupten.

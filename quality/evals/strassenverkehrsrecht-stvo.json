@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "strassenverkehrsrecht-stvo",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stvo_2013/__45.html",
@@ -11,13 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ein pauschaler Verweis auf eine qualifizierte Gefahrenlage übergeht die aktuelle Ermächtigungs- und Ausnahmestruktur.",
+    "reason": "Mini vollständig auf Anordnung, Ausnahme und Nachweise gelesen; differenzierte Regeln zu Paragraf 45 StVO beibehalten.",
     "changes": [
-      "Konkreten Anordnungszweck vor die Prüfung des Absatzes 9 gestellt.",
-      "Ausnahmen einschließlich Absatz 10 ausdrücklich einbezogen.",
-      "Sicherheit und Leichtigkeit anhand tatsächlicher Verkehrsflächen geprüft."
+      "Pflichttabelle und einmalige Rückfrage durch plan-, foto- und datenbezogene Nachforderung mit anschließender Fertigstellung ersetzt."
     ],
-    "sha256": "66513f0be0b1f3dcddda4175ddf55bb82d4dbd36bcda44dc3e8227df768fac47"
+    "sha256": "9f49406866a9d4381d61b030c3758e7fe3623be80a0d12fde9c765f83f83b742"
   },
   "selection": {
     "positive": [
@@ -62,5 +60,13 @@
       ],
       "target_skill": "verkehrsrechtliche-anordnung-pruefen"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Ganze Werkstatt auf Beschilderung, Parken, Schulwege, Baustellen und Ausnahmegenehmigungen geprüft; Standardkapitel wiederholten dieselben Arbeitsschritte.",
+    "changes": [
+      "Anordnungstatbestand, örtliche Tatsachen, Planungsgrundlage und Verfahren getrennt; konkrete Fallzweige statt doppelter Routen und kein automatischer OWi- oder Klageentwurf."
+    ],
+    "sha256": "578c8d91236566d15f29b0fd9331d80ddd9935bdd59e31a18b1144cd96749e05"
+  }
 }

@@ -1,6 +1,8 @@
 # 1. Öffentliches Wirtschaftsrecht: Projekt und Träger entscheiden
 
-Bearbeite den konkreten Auftrag aus Sachverhalt und vorhandenen Projektunterlagen. Dieses Mini verbindet öffentliche Aufgabe, kommunales Unternehmen, Beschaffung, Finanzierung und private Projektpartner. Beginne nicht mit einer Gewerbeuntersagung, wenn es um eine kommunale Kooperation geht. Lies Gesellschaftsvertrag, Leistungsbeschreibung, Beschlussvorlage und Finanzierungsmodell nach ihrer Bedeutung für die Entscheidung. Frage nur nach Angaben, ohne die gerade diese Entscheidung nicht belastbar vorbereitet werden kann.
+Prüfe die geplante öffentliche Kooperation oder Projektfinanzierung und verfasse die bestellte Entscheidungsvorlage oder Vertragsregel. Verbinde dabei öffentliche Aufgabe, Trägerstruktur, Beschaffung und Finanzierung.
+
+Lies Gesellschaftsvertrag, Leistungsbeschreibung, Beschlussvorlage und Finanzierungsmodell nach ihrer Bedeutung für die Entscheidung. Übernimm bekannte Rollen und Ziele aus dem Auftrag; beginne bei einer kommunalen Kooperation nicht mit einer Gewerbeuntersagung.
 
 ## 1.1. Leistungs- und Beteiligungsbild
 
@@ -20,4 +22,12 @@ Kommunalrechtliche Zulässigkeit anhand des betroffenen Landes, Aufgabenbezugs, 
 
 ## 1.4. Entscheidungsvorlage liefern
 
-Liefere die angeforderte Vorlage oder Vertragsregel vollständig ausformuliert. Ohne Formatvorgabe: Projektentscheidung, tragende Befunde, verbleibende Genehmigungs- und Vergabeschritte sowie wirtschaftliche Folgen. Begründe einen nicht tragfähigen Direktauftrag anhand des konkreten fehlenden Merkmals und zeige den nächsten prüfbaren Weg. Keine Freigabe oder Beschlussfassung fingieren. Quellen vor Verwendung amtlich prüfen und mit URL und Normstelle angeben; ohne Zugriff den betroffenen Befund als ungeprüft kennzeichnen. Formatiere dezimal, bei Export Times New Roman 11 pt. Weitere Werkstatt- oder Skilldateien sind ausschließlich optionale Vertiefungen; diese Prüfung funktioniert ohne sie.
+Fehlt die Zuordnung der Umsätze zu betrauten Tätigkeiten, fordere die Auftrags- und Erlösaufteilung für den maßgeblichen Zeitraum an. Fehlen Kontrollrechte, frage nach Gesellschaftsvertrag und einschlägigen Zustimmungsvorbehalten. Ein fehlender Beleg wird nicht durch die Annahme ersetzt, alle Umsätze oder Entscheidungen seien kommunal zuzurechnen.
+
+Nach Eingang berechne den Tätigkeitsanteil neu beziehungsweise ergänze die Kontrollprüfung und passe die Empfehlung zum Direktauftrag an. Ergibt sich daraus eine weitere entscheidende Lücke, frage gezielt nach; bekannte Angaben nicht erneut aufnehmen. Bereits tragfähige Teile der Vorlage vorläufig ausarbeiten und nach Klärung bis zum bestellten Ergebnis fortsetzen.
+
+Liefere die angeforderte Vorlage oder Vertragsregel vollständig ausformuliert unter dem gewünschten Dateinamen. Ohne Formatvorgabe eignen sich Projektentscheidung, tragende Befunde, verbleibende Genehmigungs- und Vergabeschritte sowie wirtschaftliche Folgen. Begründe einen nicht tragfähigen Direktauftrag anhand des konkreten fehlenden Merkmals und zeige den nächsten prüfbaren Weg, ohne ungefragte Organisationsreform oder Klage.
+
+Keine Freigabe, Beschlussfassung oder Auftragsvergabe fingieren oder eigenmächtig veranlassen. Quellen vor Verwendung amtlich prüfen und mit URL und Normstelle in einer getrennten Arbeitsnotiz dokumentieren; ohne Zugriff den betroffenen Befund als ungeprüft kennzeichnen. Formatiere dezimal, bei Export Times New Roman 11 pt.
+
+Weitere Werkstatt- oder Skilldateien sind ausschließlich optionale Vertiefungen; diese Prüfung funktioniert ohne sie. Ohne Dateizugriff die konkrete Lücke nennen; ohne Export den fertigen Text statt eines erfundenen Dateilinks liefern.

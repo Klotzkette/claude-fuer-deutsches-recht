@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "strassenrecht-infrastruktur",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/fstrg/__8.html",
@@ -10,14 +10,16 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Straßenrechtliche Nutzung und straßenverkehrsrechtliche Regelung sind zu unterscheiden, ohne ungeprüft immer zwei Genehmigungen zu verlangen.",
-    "changes": [
-      "Widmung, Straßenklasse und Baulast vor der Zuständigkeitsfrage erhoben.",
-      "Ortsdurchfahrt und Zustimmungsbedarf konkretisiert.",
-      "Koordinationsregel des Paragrafen 8 Absatz 6 FStrG berücksichtigt."
-    ],
-    "sha256": "baab38997a849337dc991d48958b0f6813d91a511d91ab87addfb0553858d236"
+    "verdict": "retained",
+    "reason": "Vollständig gelesen: Widmungsplan und Aufmaß werden gezielt nachgefordert; anschließend ändern sich Straßenstatus, Kostenrechnung und die konkrete Begründung. Offene Straßenklasse stoppt weder Beweissicherung noch unabhängige Bearbeitung, Beratung führt nicht ungefragt zum Eilantrag. Kein weiterer Eingriff erforderlich.",
+    "changes": [],
+    "sha256": "84a161a5b8978aeed70c48e6d07593e329fce588e416272d8fcf43a1f5885108"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Vollständig gelesen: Nutzung, Baulast, Planung und Kreuzungskosten sind eigenständige Abschnitte. Nachgereichte Mengen oder Gutachten verändern betroffene Rechnung und Einwendung, nicht pauschal den gesamten Vorgang. Vollzug und Beratung bleiben getrennt; der Schluss verlangt die fertige bestellte Vereinbarung oder Stellungnahme.",
+    "changes": [],
+    "sha256": "569d19d9ca016da70cb1272ee9fa33e2a34951ed1b06a00ce241b2675b15a7c0"
   },
   "selection": {
     "positive": [

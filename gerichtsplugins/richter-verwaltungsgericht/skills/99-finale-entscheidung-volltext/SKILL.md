@@ -3,103 +3,46 @@ name: 99-finale-entscheidung-volltext
 description: "Für Finale Entscheidung als Volltext (Urteil Verwaltungsgericht): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Finale Entscheidung als Volltext (Urteil Verwaltungsgericht)
+# 1. Verwaltungsgerichtsurteil vollständig ausarbeiten
 
-## Zweck
+## 1.1. Auftrag
 
-Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern als versandfertigen Volltext im richtigen Layout — so, wie er das Gericht verlassen würde. Die Entscheidung wird zur Unterschrift fertig gebaut: mit Rubrum, vollständigem Tenor, Tatbestand oder Sachverhalt, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung.
+Erstelle das beauftragte Urteil als vollständigen Entwurf zur richterlichen Prüfung. Beginne mit der vorhandenen Akte und den bereits geklärten Fragen; vorbereitende Skills sind keine zwingende Voraussetzung.
 
-Gegenstand: Urteil des Verwaltungsgerichts.
+## 1.2. Eingaben und offene Punkte
 
-## Rechtlicher Rahmen
+Lies Rubrum, Anträge, angegriffene Bescheide, Bekanntgabenachweise, Vorverfahren, Verwaltungsakte, Protokolle und Beweisergebnisse. Bestimme Streitgegenstand, Verfahrensstand und maßgeblichen Zeitpunkt. Trenne Beteiligtenvortrag, Aktenfund und gerichtliche Feststellung.
 
-Paragrafen 113, 114 VwGO; Paragrafen 117, 118 VwGO für Urteilsaufbau; Paragraf 154 VwGO für Kosten; Paragraf 167 VwGO i.V.m. ZPO für Vollstreckbarkeit.
+Fehlt eine entscheidende Behördenunterlage oder ein Gehörsschritt, formuliere die konkrete Aufklärungs- oder Hinweisverfügung. Liefere unabhängig tragfähige Teile vorläufig. Nach Eingang prüfe die Ergänzung, berichtige Feststellungen und Würdigung und schreibe das Urteil zu Ende. Weitere gezielte Fragen sind möglich, wenn eine neue erhebliche Lücke entsteht; eine vollständige Neuaufnahme unterbleibt.
 
-## Eingangsvoraussetzungen
+## 1.3. Urteil und Nebenentscheidungen
 
-Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein. Insbesondere müssen vorliegen:
+1. Erstelle die richtige Gerichtsbezeichnung, Aktenzeichen, Beteiligten- und Vertreterangaben sowie die Angaben zu den mitwirkenden Richtern. Erfinde keine Verkündung, Unterschrift oder Besetzung.
+2. Stimme den Hauptausspruch auf das Begehren ab. Bei Anfechtung prüfe Aufhebung und gegebenenfalls Teilaufhebung nach Paragraf 113 Absatz 1 VwGO. Bei Verpflichtung unterscheide Vornahme- und Bescheidungstenor nach Absatz 5; ein fehlender Sachverhaltsnachweis ersetzt nicht die Prüfung der Spruchreife.
+3. Stelle im Tatbestand den wesentlichen Sach- und Streitstand mit den Anträgen gedrängt dar. Beziehe dich nur zulässig und verständlich auf Unterlagen. Fremde Vorgaben zu Strafurteilen oder familiengerichtlichen Beschlüssen sind hier nicht anzuwenden.
+4. Begründe Zulässigkeit und Begründetheit mit entscheidenden Tatsachen, Beweiswürdigung und Rechtsmaßstab. Prüfe Vorverfahren, Frist, notwendige Beiladung und Rechtsschutzbedürfnis. Amtsermittlung und materielle Beweislast sind zu unterscheiden.
+5. Kontrolliere Ermessen nach Paragraf 114 VwGO, ohne behördliche Zweckmäßigkeit zu ersetzen. Ermessensausfall, Fehlgebrauch und Überschreitung sind von einer möglichen Ermessensreduzierung auf Null zu trennen.
+6. Formuliere Kostenentscheidung, Vollstreckbarkeit und gegebenenfalls gesonderte Streitwertentscheidung nach den einschlägigen Regeln, insbesondere Paragrafen 154 und 167 VwGO in Verbindung mit ZPO. Teilweises Obsiegen muss sich in den Nebenentscheidungen wiederfinden.
+7. Prüfe Rechtsmittelzulassung und die vollständige Belehrung nach der Entscheidungsart, insbesondere anhand der Paragrafen 124 und 124a VwGO. Frist, Form, Vertretung und zuständige Stelle dürfen nicht aus einem beliebigen Muster übernommen werden.
+8. Prüfe nach Paragraf 117 VwGO die Urteilsbestandteile und Unterschriftsanforderungen; der Unterschrift ehrenamtlicher Richter bedarf es dort nicht. Paragraf 118 VwGO betrifft die Berichtigung offenbarer Unrichtigkeiten, nicht die nachträgliche sachliche Änderung eines Urteils.
 
-- Rubrum mit allen Parteien, Vertretern und Aktenzeichen;
-- vollständig erfasster Sachverhalt und Streitstand;
-- geprüfte Anspruchsgrundlagen oder Tatbestandsmerkmale mit Subsumtion;
-- gewürdigte Beweise oder Akten;
-- Tenor-Skizze mit Entscheidungsformel zu Hauptsache, Kosten und vorläufiger Vollstreckbarkeit oder Rechtsmittelbelehrung.
+## 1.4. Gehör und Quellen
 
-Fehlt eines dieser Stücke, weist der Skill darauf hin und unterbricht die Volltext-Erstellung, bevor er Phantasie produziert.
+Prüfe Artikel 103 Absatz 1 Grundgesetz und vermeide Überraschungsentscheidungen. Der vorhandene Hinweis BVerfG, 19.05.1992 – 1 BvR 986/91 bleibt ein Rechercheansatz; Entscheidungsform, Inhalt und einschlägige Randnummer sind vor Zitierung amtlich zu verifizieren.
 
-## Aufbau des Volltextes
+Amtliche Kontrollstellen: https://www.gesetze-im-internet.de/vwgo/__113.html, https://www.gesetze-im-internet.de/vwgo/__117.html und https://www.gesetze-im-internet.de/vwgo/__118.html. Nutze references/zitierweise.md nur ergänzend, soweit verfügbar. Quellenabrufstatus steht in einer getrennten Arbeitsnotiz, nicht im Urteil.
 
-### 1. Briefkopf und Rubrum
+## 1.5. Ausgabe und Kontrolle
 
-Gerichtsbezeichnung in der ersten Zeile (zum Beispiel „Amtsgericht München"), Aktenzeichen, Verkündungsdatum, vollständiges Rubrum mit Parteien, Prozessbevollmächtigten, Streitgegenstand und Spruchkörper.
+Liefere das Urteil in vollständigen, ausformulierten Sätzen, nicht als Tenorskizze oder Prüfungsliste. Beachte Ausformulierungspflicht und Formatstandard: dezimale Gliederung, echte Umlaute, ausgeschriebenes „Paragraf“, keine Doppelsterne im Fließtext und möglichst Times New Roman 11 pt. Der gewünschte Dateiname geht vor.
 
-### 2. Tenor (Entscheidungsformel)
+Vergleiche Antrag, Tenor, Gründe, Kosten und Belehrung sowie alle Namen, Daten und Beträge. Ein Entwurf mit entscheidender Tatsachenlücke bleibt vorläufig; markierte Platzhalter rechtfertigen keine Behauptung der Entscheidungsreife. Unterzeichnung, Entscheidung und externe Bekanntgabe bleiben dem zuständigen Gericht vorbehalten.
 
-Der Tenor wird vollständig ausformuliert. Er ist die rechtskraftfähige Anordnung. Beispiel für diesen Spruchkörper:
+## 1.6. Beispiel
 
-1. Der Bescheid der Beklagten vom [Datum] wird aufgehoben.
-2. Die Beklagte wird verpflichtet, über den Antrag der Klägerin unter Beachtung der Rechtsauffassung des Gerichts erneut zu entscheiden.
-3. Die Kosten des Verfahrens traegt die Beklagte.
-4. Das Urteil ist hinsichtlich der Kosten vorläufig vollstreckbar.
+Die nachgereichte Verwaltungsakte enthält erstmals die maßgeblichen Ermessenserwägungen. Prüfe ihre rechtliche Bedeutung, gewähre das erforderliche Gehör und überarbeite danach Gründe und gegebenenfalls den Bescheidungstenor. Liefere anschließend den vollständigen aktualisierten Urteilsentwurf, nicht nur einen Vermerk über den Akteneingang.
 
-Der Tenor enthält zwingend: Hauptausspruch zur Sache, Kostenentscheidung, ggf. Aussprache zur vorläufigen Vollstreckbarkeit, ggf. Streitwertfestsetzung.
-
-### 3. Tatbestand oder Sachverhalt
-
-Knappe, sachlich-distanzierte Darstellung des unstreitigen Sachverhalts und des streitigen Parteivortrags. Bei Beschlüssen entsprechend „Gründe I."; bei Strafurteilen die Feststellungen zum Tatgeschehen. Verwende den Imperfekt für Geschehensschilderung, das Präsens für Antrag und Verfahrensstand.
-
-### 4. Entscheidungsgründe
-
-Strenge Subsumtionsstruktur: Anspruchsgrundlage oder Tatbestandsmerkmal, Tatbestandsvoraussetzungen, Subsumtion mit Belegen aus den Akten, Ergebnis. Einreden und Einwendungen am Ende der jeweiligen Prüfungsebene. Bei Strafurteilen Beweiswürdigung und Strafzumessung getrennt darstellen.
-
-### 5. Nebenentscheidungen
-
-Kosten, vorläufige Vollstreckbarkeit, Streitwertfestsetzung. Bei Familien- und Sozialsachen die jeweils einschlägigen Kostenregeln.
-
-### 6. Rechtsmittelbelehrung
-
-Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat. Niemals weglassen, niemals abkuerzen.
-
-### 7. Unterschriftenzeile
-
-Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
-
-## Prozessuale Glanzkontrolle
-
-Vor der finalen Entscheidung wird zwingend geprüft:
-
-1. Rechtsschutzart, Antrag und Tenor passen zusammen.
-2. Amtsermittlung, Beteiligtenvortrag und Beweiswürdigung sind getrennt dargestellt.
-3. Notwendige Beiladung, Vorverfahren, Klagefrist, Statthaftigkeit und Rechtsschutzbedürfnis sind sichtbar erledigt.
-4. Eilrechtsschutz trennt Anspruch, Grund, Folgenabwägung und Reichweite der Anordnung.
-5. Ermessensfehler werden als Ausfall, Fehlgebrauch, Überschreitung oder Reduktion auf Null benannt.
-6. Artikel 103 Absatz 1 GG und das Verbot der Überraschungsentscheidung sind geprüft; BVerfG, 19.05.1992 - 1 BvR 986/91 dient als Anker.
-
-## Format und Stil
-
-- Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).
-- Sachlich, knapp, in deutscher Gerichtssprache.
-- Generisches Maskulinum.
-- Paragrafenzeichen ausgeschrieben als „Paragraf".
-- Aktenzeichen Punkt- oder Schrägstrich-Stil, niemals Komma.
-- Keine Doppelsterne für Fettschrift im Fliesstext.
-
-## Ergebnis
-
-Ein vollständiger, versandfertiger Entscheidungstext, der von Rubrum bis Unterschrift alles enthält. Der Spruchkörper kann ihn unterschreiben — oder vor der Unterschrift redaktionell pruefen. Bei offenen Lückenpunkten bleibt der Volltext stehen, die Lücken werden in eckigen Klammern markiert und am Ende in einer Lücken-Liste zusammengefasst.
-
-## Eigenkontrolle
-
-Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
-
-1. Stimmt der Tenor mit den Entscheidungsgründen überein?
-2. Ist die Kostenentscheidung folgerichtig?
-3. Ist die Rechtsmittelbelehrung vollständig und richtig?
-4. Sind alle Parteibezeichnungen einheitlich?
-5. Sind alle Daten, Aktenzeichen und Betraege widerspruchsfrei?
-6. Sind alle Lückenpunkte explizit markiert?
-
-Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+Ein Eilbeschluss folgt nicht automatisch aus einem Urteilsauftrag; bei entsprechendem Auftrag sind die Paragrafen 80/80a oder 123 VwGO getrennt zu prüfen. Ohne Datei- oder Quellenzugriff benenne die Grenze und arbeite unabhängig mögliche Teile weiter; ohne Export liefere Text, ohne eine Datei oder erfolgte Prüfung zu behaupten.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 

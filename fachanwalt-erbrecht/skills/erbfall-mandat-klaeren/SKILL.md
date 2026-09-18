@@ -17,13 +17,15 @@ Sterbe- und Personenstandsurkunden, letzte Verfügungen, Zustellungen, Vollmacht
 
 1. Vorsorge, Erbfallabwicklung und Streit unterscheiden. Erblasser, Todesdatum, gewöhnlichen Aufenthalt, Staatsangehörigkeit, Berufungsgrund und Rolle sichern; Besitz oder Kontovollmacht beweisen keine Erbenstellung.
 
-2. Bei Upload ohne Auftrag Materialart, erkennbare Frist und sinnvolles Erstprodukt nennen. Bei leerer Akte höchstens eine gebündelte Rückfrage zu Ziel, Familie, Verfügung und Kenntnisdaten stellen.
+2. Bei Upload ohne Auftrag die erkennbare Erbfallsituation und dringliche Frist einordnen; das noch offene Mandatsziel gezielt erfragen. Bei leerer Akte zunächst die für die konkrete Entscheidung benötigten Familien-, Verfügungs- und Kenntnisdaten klären, nicht sämtliche Angaben unabhängig vom Auftrag verlangen.
 
 3. Frist- und Haftungsrisiken vorziehen. Ergebnisoffene Ausschlagung, Anfechtung und Insolvenz nicht durch Standardbearbeitung verzögern.
 
 4. Stammbaum, Verfügungskette und Vermögensübersicht vorläufig bilden. Sichere Tatsachen, Behauptungen, Schlussfolgerungen und fehlende Belege trennen. Fortsetzungen verwenden den vorhandenen Stand ohne Neustart.
 
-5. Einen primären Fachauftrag wählen und dessen Erstprodukt liefern. Die Entscheidung samt stärkstem Gegenargument, fehlendem Kernbeleg und nächster verantwortlicher Person dokumentieren.
+5. Den geklärten Fachauftrag bearbeiten und das verlangte Ergebnis ausformulieren. Fehlt etwa ein eröffnetes Testament, die vollständige Verfügung und Eröffnungsmitteilung nachfordern; bei unklarer Verwandtschaft die betreffende Personenstandsurkunde. Nach Eingang Urkundeninhalt, Erbenstellung und betroffene Fristberechnung neu prüfen und die Beratung oder den beauftragten Entwurf fortsetzen. Eine neue entscheidende Lücke darf eine weitere kurze Rückfrage auslösen; Bekanntes nicht erneut erheben.
+
+6. Bei ausbleibenden Nachweisen die tragfähigen Teile liefern und genau benennen, welche Aussage noch nicht möglich ist. Nach Klärung bis zum bestellten Dokument weiterarbeiten. Eine nachgereichte Übersicht ersetzt weder den Nachweis einer Erbenstellung noch die Prüfung ihrer rechtlichen Folgen.
 
 ### 3.1. Referenzen gezielt laden
 
@@ -39,7 +41,7 @@ Es gilt die [Zitierweise](../../../references/zitierweise.md). Tragende Normfass
 
 ## 5. Ausgabeformat
 
-Erstentscheidung mit Fristenblatt, Rollen- und Urkundenmatrix sowie konkreter Nachforderung oder Mandantenbrief. Keine Erbquote als gesichert ausgeben, solange Status oder Verfügungslage entscheidend offen sind.
+Liefere je nach Auftrag die begründete Beratung, eine gezielte Unterlagenanforderung oder den vollständigen Mandantenbrief. Fristenübersicht und Urkundenvergleich nur ergänzen, soweit sie zum Verständnis oder zur Kontrolle erforderlich sind. Keine Erbquote als gesichert ausgeben, solange Status oder Verfügungslage entscheidend offen sind. Quellenstatus und offene Recherche in einer gesonderten Arbeitsnotiz führen, nicht im Brieftext. Ausschlagung, Anfechtung, Antragstellung oder andere Außenhandlungen nicht eigenmächtig vornehmen; ein Beratungsauftrag ist kein Auftrag zur Abgabe einer Erklärung.
 
 Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "robotik-recht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
@@ -11,12 +11,22 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die individuellen Reformpassagen waren tragfähig; die Unfallbeweissicherung benötigte konkretere Provenienzregeln.",
+    "reason": "Der vollständig geprüfte Mini verbindet Unfallbeweise, Gerätezeit und Systemstand mit der weiteren Bearbeitung des konkreten Robotikauftrags. Die Textprüfung ist keine erneute Verifikation sämtlicher vorhandener Reformangaben.",
     "changes": [
       "Reforminhalt zu 2026/1744, Artikel 4a und Terminen erhalten.",
-      "Gerätezeit, Firmware, Hash, Übergaben und Originalkopien ergänzt."
+      "Gerätezeit, Firmware, Hash, Übergaben und Originalkopien ergänzt.",
+      "Fehlende technische Nachweise gezielt nachfordern und die betroffene Bewertung sowie den bestellten Text aktualisieren lassen."
     ],
-    "sha256": "9e792d11d2a9f8eca43f944f4dbf382ae3589b508da70bc44b50a5fef330e0e1"
+    "sha256": "e50e277813acfe5fca6b3491f9a991d327a5659d9e90d4f13d518c2715cccace"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die Ganztextüberarbeitung ordnet Unfallbeweise, Sicherheitsfunktionen, Maschinenrecht und Betrieb in einen fachlichen Ablauf ein. Besondere Einsatzfelder bleiben fallabhängig; vorhandene Rechtsanker sind nicht allein durch diesen Review frisch verifiziert.",
+    "changes": [
+      "Nachfragen zu Systemstand und Unfallablauf mit der Fortsetzung von Haftungsprüfung und Entwurf verbunden.",
+      "Mensch-Roboter-Interaktion, Datenzugang, Medizinrobotik und Rückruf in passende Abschnitte integriert statt generische Zusatzrouten anzuhängen."
+    ],
+    "sha256": "28bdc86e5a38907e7f65ff2e512ef8f17a593ce92a8023ea54779dc1854537e3"
   },
   "selection": {
     "positive": [

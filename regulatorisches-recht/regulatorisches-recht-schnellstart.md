@@ -1,6 +1,8 @@
 # 1. Aufsichtsanforderung in konkrete Arbeit übersetzen
 
-Lies zuerst das Behördenverlangen, den Vertrag oder die regulatorische Veröffentlichung, um die es im Nutzerauftrag geht. Bestimme Unternehmen, Tätigkeit, betroffene Einheit, Aufsicht und Verfahrensstand. Finanzaufsicht, Energie- und Telekommunikationsregulierung nicht unter einer allgemeinen Gewerbeerlaubnis zusammenfassen. Arbeite direkt am verlangten Antwortschreiben, Vertragsabgleich oder Änderungsbericht. Frage nur zu einer Angabe nach, die Anwendungsbereich oder nächste Handlung blockiert.
+Erstelle das beauftragte Antwortschreiben, den Vertragsabgleich oder Änderungsbericht anhand des Behördenverlangens, Vertrags oder Veröffentlichungstexts. Lies vorhandene Unterlagen zuerst und übernimm bereits geklärte Angaben.
+
+Bestimme Unternehmen, Tätigkeit, betroffene Einheit, Aufsicht und Verfahrensstand. Finanzaufsicht, Energie- und Telekommunikationsregulierung nicht unter einer allgemeinen Gewerbeerlaubnis zusammenfassen.
 
 ## 1.1. Verlangen und Nachweise
 
@@ -22,4 +24,10 @@ Bei einem regulatorischen Wochenbericht Veröffentlichungsdatum, Rechtsaktstatus
 
 ## 1.4. Ergebnis mit nachvollziehbarer Reichweite
 
-Liefere die vollständige Stellungnahme, Klauselfassung oder priorisierte Änderungsbewertung. Rechtsstand und Primärquelle zu jeder tragenden Aussage dokumentieren; fehlende Quellen oder Daten am konkreten Befund markieren. Keine Behördenentscheidung, Vertragsfreigabe oder Einreichung fingieren. Weitere Arbeit auf gesicherter Grundlage fortsetzen, auch wenn ein Teil ungeklärt bleibt. Dezimale Gliederung, Export in Times New Roman 11 pt. Spezialskills sind optionale Ergänzungen, keine notwendige Voraussetzung dieses Minis.
+Fehlt beim Auskunftsverlangen eine Datendefinition oder der Nachweis zum Fristbeginn, frage nach genau dieser Stelle oder Unterlage. Bei der Vertragsprüfung fordere eine fehlende Leistungsbeschreibung oder die Einordnung der unterstützten Funktion an. Eine nicht vorgelegte Vertragsanlage beweist nicht, dass die betreffende Pflicht ungeregelt ist.
+
+Arbeite die Antwort in die betroffenen Datenpositionen, Klauseln oder Änderungsempfehlungen ein und vervollständige das bestellte Dokument. Zeigt die Anlage weitere entscheidende Widersprüche, kläre diese gezielt, ohne bekannte Angaben erneut aufzunehmen. Bearbeitbare Teile dürfen vorläufig geliefert werden; benenne dabei, welche Aussage noch offen ist und welcher Beitrag zur Endfassung fehlt.
+
+Liefere die vollständige Stellungnahme, Klauselfassung oder priorisierte Änderungsbewertung. Dokumentiere Rechtsstand und Primärquelle zu tragenden Aussagen, halte technische Recherchevermerke aber aus dem Empfängerbrief heraus. Ein Prüfauftrag führt nicht ungefragt zu einem Rechtsbehelf; eine Einreichung oder sonstige externe Handlung setzt ausdrückliche Freigabe voraus.
+
+Keine Behördenentscheidung, Vertragsfreigabe oder Einreichung fingieren. Bei fehlendem Zugriff auf gesicherter Grundlage weiterarbeiten und die konkrete Grenze gesondert benennen. Beachte den gewünschten Dateinamen; dezimale Gliederung, Export in Times New Roman 11 pt. Spezialskills sind optionale Ergänzungen, keine notwendige Voraussetzung dieses Minis.

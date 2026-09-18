@@ -1,46 +1,131 @@
 {
-  "schema_version":1,"plugin":"verlagsrecht-buchpreisbindung","reviewed_on":"2026-09-14",
-  "sources":[{"url":"https://www.gesetze-im-internet.de/buchprg/__3.html","checked_on":"2026-09-14","supports":"Letztabnehmerpreisbindung und Ausnahme für gebrauchte Bücher."},{"url":"https://www.gesetze-im-internet.de/buchprg/__7.html","checked_on":"2026-09-14","supports":"Absatz 1 Nummer 4: Beschädigung oder sonstiger Fehler und Kennzeichnung; keine eigenständige Remittendenausnahme."},{"url":"https://www.gesetze-im-internet.de/buchprg/__5.html","checked_on":"2026-09-14","supports":"Preisfestsetzung und Veröffentlichung von Endpreisänderungen durch Verleger oder Importeur."},{"url":"https://www.gesetze-im-internet.de/buchprg/__8.html","checked_on":"2026-09-14","supports":"Aufhebung nach veröffentlichtem Verleger- oder Importeurakt; Frist knüpft an erstes Erscheinen an, nicht an Lagerdauer einzelner Exemplare."},{"url":"https://www.gesetze-im-internet.de/buchprg/__9.html","checked_on":"2026-09-14","supports":"Unterlassung und verschuldensabhängiger Schadensersatz bei Preisbindungsverstößen."}],
-  "mini_review":{"verdict":"revised","reason":"Gute Rechte- und Verwertungskette erhalten; Teilskill behauptet fälschlich eine Remittendenausnahme unter Paragraf 6. Mini enthielt zudem verkürzte Vergütungs- und Zweitveröffentlichungsanker.","changes":["Zustandsgruppen und Erlösprüfung statt doppelter Einsatzfeldtabelle","Ausnahme nach Paragraf 7 mit tatsächlichem Fehler verknüpft","Verkürzte Zweitveröffentlichungsaussage entfernt"],"sha256":"4391566bda889f780e3d93396f1fe6aec0cbffeac6b036d914edbd589f4fe5b5"},
-  "selection":{"positive":["Prüfe, welche zurückgesandten Bücher wir als Mängelexemplare verbilligt verkaufen dürfen.","Gleiche Print- und E-Book-Rechte mit unserem Autorenvertrag ab."],"negative":["Lektoriere ausschließlich Rechtschreibung und Satzbau meines Manuskripts.","Berechne Schadensersatz nach einem Verkehrsunfall."]},
-  "cases":[{"id":"remission-ohne-schaden","request":"Schreibe ergebnis.md für die Vertriebsleitung. Wir verkaufen neue preisgebundene Bücher an Endkunden in Deutschland; Ladenpreis 30 Euro, keine Preisaufhebung. Eine Buchhandlung hat 100 unverkaufte Exemplare zurückgesandt. Vollprüfung: 70 sind einwandfrei, 30 haben eingerissene Einbände mit belegter Wertminderung. Alle 100 tragen jetzt einen Mängelexemplarstempel. Geplant ist ein Verkauf zu je 10 Euro. Prüfe die Gruppen und die möglichen Erlöse, keine Aktion freischalten.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Lehnt die Preisunterschreitung für die 70 einwandfreien Rücksendungen ab; Stempel und Remission allein tragen keine Ausnahme.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Ordnet die beschädigten und gekennzeichneten 30 Exemplare Paragraf 7 Absatz 1 Nummer 4 BuchPrG zu, nicht einer erfundenen Remittendenausnahme.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Weist 300 Euro für die rabattfähige Gruppe und 2100 Euro bei Ladenpreisverkauf der übrigen Gruppe aus; gibt nicht alle 100 für 1000 Euro frei.","deliverables":["ergebnis.md"]}],"target_skill":"maengelexemplar-remittenden-und-preisbindung"},
-{
-  "id": "stempel-ohne-mangel-und-mangel-ohne-stempel",
-  "request": "Schreibe ergebnis.md als Preisfreigabevermerk für einen Verlag. Die gebundene Neuauflage kostet 28 Euro, eine Preisänderung oder Aufhebung ist nicht veröffentlicht. 40 unverkaufte Rücksendungen sollen im eigenen Onlineshop an Endkunden für je 8 Euro verkauft werden. Die lückenlose Stückprüfung dokumentiert Gruppe A: 25 völlig unbeschädigte Exemplare mit Stempel Remittend. Gruppe B: 15 Exemplare mit stark eingerissenen Einbänden und Wertminderung, bislang ohne jede Kennzeichnung am Buch; nur der geplante Angebotstext sagt Mängelexemplar. Kein Exemplar wurde zuvor an einen Endkunden verkauft. Prüfe die aktuelle Freigabe und notwendige Schritte je Gruppe, berechne den Erlös bei 28 Euro für Gruppe A und bei dem gewünschten Rabatt für Gruppe B nach Erledigung etwaiger Voraussetzungen. Keine Angebote ändern.",
-  "input_files": [],
-  "deliverables": [
-    "ergebnis.md"
-  ],
-  "criteria": [
+  "schema_version": 1,
+  "plugin": "verlagsrecht-buchpreisbindung",
+  "reviewed_on": "2026-09-18",
+  "sources": [
     {
-      "id": "C01",
-      "text": "Verweigert Gruppe A den Rabatt allein aufgrund von Rücksendung und Remittendenstempel, ohne einen tatsächlichen Mangel oder Gebrauchtbuchstatus zu fingieren.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/buchprg/__3.html",
+      "checked_on": "2026-09-14",
+      "supports": "Letztabnehmerpreisbindung und Ausnahme für gebrauchte Bücher."
     },
     {
-      "id": "C02",
-      "text": "Lässt Gruppe B trotz dokumentierten Mangels noch nicht als rabattfähig passieren, weil die Kennzeichnung am Exemplar fehlt; beschreibt deren Ergänzung als Voraussetzung, nicht bloß einen Hinweis im Shop.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/buchprg/__7.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 1 Nummer 4: Beschädigung oder sonstiger Fehler und Kennzeichnung; keine eigenständige Remittendenausnahme."
     },
     {
-      "id": "C03",
-      "text": "Berechnet 700 Euro für Gruppe A und nach Kennzeichnung 120 Euro für Gruppe B, zusammen 820 Euro, statt die gesamte Charge für 320 Euro freizugeben.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/buchprg/__5.html",
+      "checked_on": "2026-09-14",
+      "supports": "Preisfestsetzung und Veröffentlichung von Endpreisänderungen durch Verleger oder Importeur."
     },
     {
-      "id": "C04",
-      "text": "Stützt die Ausnahme auf Paragraf 7 Absatz 1 Nummer 4 BuchPrG und behauptet weder eine eigenständige Remittendenausnahme nach Paragraf 6 noch ein Bußgeld nach einem Paragrafen 13 BuchPrG.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/buchprg/__8.html",
+      "checked_on": "2026-09-14",
+      "supports": "Aufhebung nach veröffentlichtem Verleger- oder Importeurakt; Frist knüpft an erstes Erscheinen an, nicht an Lagerdauer einzelner Exemplare."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/buchprg/__9.html",
+      "checked_on": "2026-09-14",
+      "supports": "Unterlassung und verschuldensabhängiger Schadensersatz bei Preisbindungsverstößen."
     }
   ],
-  "target_skill": "maengelexemplar-remittenden-und-preisbindung"
-}]
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Mini vollständig gelesen; konkrete Zustandsgruppen- und Erlösprüfung war brauchbar, wurde aber von einmaliger Rückfrage, Pflicht-Rechteübersicht und bloßem Hinweis auf das nächste Dokument begrenzt.",
+    "changes": [
+      "Lizenz-, Absatz- und Zustandsnachweise als gezielte Rückfragen mit anschließender Vertrags-, Rechnungs- oder Briefbearbeitung eingebunden; Preisprüfung nach tatsächlichem Mangel und Kennzeichnung erhalten."
+    ],
+    "sha256": "554678b996eb0cd921e755ebf164655a9b648497e7c9670d71e80d32b7bd87e8"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe, welche zurückgesandten Bücher wir als Mängelexemplare verbilligt verkaufen dürfen.",
+      "Gleiche Print- und E-Book-Rechte mit unserem Autorenvertrag ab."
+    ],
+    "negative": [
+      "Lektoriere ausschließlich Rechtschreibung und Satzbau meines Manuskripts.",
+      "Berechne Schadensersatz nach einem Verkehrsunfall."
+    ]
+  },
+  "cases": [
+    {
+      "id": "remission-ohne-schaden",
+      "request": "Schreibe ergebnis.md für die Vertriebsleitung. Wir verkaufen neue preisgebundene Bücher an Endkunden in Deutschland; Ladenpreis 30 Euro, keine Preisaufhebung. Eine Buchhandlung hat 100 unverkaufte Exemplare zurückgesandt. Vollprüfung: 70 sind einwandfrei, 30 haben eingerissene Einbände mit belegter Wertminderung. Alle 100 tragen jetzt einen Mängelexemplarstempel. Geplant ist ein Verkauf zu je 10 Euro. Prüfe die Gruppen und die möglichen Erlöse, keine Aktion freischalten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Lehnt die Preisunterschreitung für die 70 einwandfreien Rücksendungen ab; Stempel und Remission allein tragen keine Ausnahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ordnet die beschädigten und gekennzeichneten 30 Exemplare Paragraf 7 Absatz 1 Nummer 4 BuchPrG zu, nicht einer erfundenen Remittendenausnahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Weist 300 Euro für die rabattfähige Gruppe und 2100 Euro bei Ladenpreisverkauf der übrigen Gruppe aus; gibt nicht alle 100 für 1000 Euro frei.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "maengelexemplar-remittenden-und-preisbindung"
+    },
+    {
+      "id": "stempel-ohne-mangel-und-mangel-ohne-stempel",
+      "request": "Schreibe ergebnis.md als Preisfreigabevermerk für einen Verlag. Die gebundene Neuauflage kostet 28 Euro, eine Preisänderung oder Aufhebung ist nicht veröffentlicht. 40 unverkaufte Rücksendungen sollen im eigenen Onlineshop an Endkunden für je 8 Euro verkauft werden. Die lückenlose Stückprüfung dokumentiert Gruppe A: 25 völlig unbeschädigte Exemplare mit Stempel Remittend. Gruppe B: 15 Exemplare mit stark eingerissenen Einbänden und Wertminderung, bislang ohne jede Kennzeichnung am Buch; nur der geplante Angebotstext sagt Mängelexemplar. Kein Exemplar wurde zuvor an einen Endkunden verkauft. Prüfe die aktuelle Freigabe und notwendige Schritte je Gruppe, berechne den Erlös bei 28 Euro für Gruppe A und bei dem gewünschten Rabatt für Gruppe B nach Erledigung etwaiger Voraussetzungen. Keine Angebote ändern.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verweigert Gruppe A den Rabatt allein aufgrund von Rücksendung und Remittendenstempel, ohne einen tatsächlichen Mangel oder Gebrauchtbuchstatus zu fingieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Lässt Gruppe B trotz dokumentierten Mangels noch nicht als rabattfähig passieren, weil die Kennzeichnung am Exemplar fehlt; beschreibt deren Ergänzung als Voraussetzung, nicht bloß einen Hinweis im Shop.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Berechnet 700 Euro für Gruppe A und nach Kennzeichnung 120 Euro für Gruppe B, zusammen 820 Euro, statt die gesamte Charge für 320 Euro freizugeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Stützt die Ausnahme auf Paragraf 7 Absatz 1 Nummer 4 BuchPrG und behauptet weder eine eigenständige Remittendenausnahme nach Paragraf 6 noch ein Bußgeld nach einem Paragrafen 13 BuchPrG.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "maengelexemplar-remittenden-und-preisbindung"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig einschließlich aller Ausgabe-, Vertriebs- und Konfliktrouten gelesen. Doppelte Standardkapitel enthielten zudem Widersprüche zur Preisbindung und verkürzte Aussagen zu Zweitveröffentlichung und Rückruf.",
+    "changes": [
+      "Rechtekette, Formate, Honorar, Open Access, Exemplarzustand und Rechtsdurchsetzung zusammenhängend geordnet; Preisaufhebung Paragraf 8, Ansprüche Paragraf 9 und Bucheinsicht Paragraf 10 BuchPrG zugeordnet; keine pauschale Händler-Preissenkung, starre Dringlichkeitsfrist oder automatische Zweitveröffentlichung."
+    ],
+    "sha256": "3463b3e1afe03a8e9df1d012661205d7c4c66601e9c27c26acd8dbfb8acc42a3"
+  }
 }

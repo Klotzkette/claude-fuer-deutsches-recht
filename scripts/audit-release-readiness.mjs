@@ -51,10 +51,17 @@ assert(/^\d+\.\d+\.\d+$/.test(String(marketplace.version || '')), 'Marketplace: 
 
 const oldReadmePhrases = [
   'Alternative ohne Plugin-Setup',
-  'höchstens 7500 Zeichen',
-  'hoechstens 7500 Zeichen',
   'Spar-Alternative',
 ];
+
+function hasObsoleteLengthInstruction(text) {
+  // Dateigrößen beschreiben den Prompt, nicht die Länge seiner Fachantwort.
+  const withoutArtifactLimits = text.replace(
+    /\b(?:Hauptproblem-Prompt|Markdown-Prompt|Markdown-Download|Schnellstart-Prompt)\s+mit\s+h(?:ö|oe)chstens 7500 Zeichen(?: und Bytes)?/gu,
+    '',
+  );
+  return /h(?:ö|oe)chstens 7500 Zeichen/u.test(withoutArtifactLimits);
+}
 
 const pluginSources = [];
 for (const entry of marketplace.plugins) {
@@ -84,7 +91,14 @@ for (const entry of marketplace.plugins) {
   assert(fs.existsSync(schnellstart), `${entry.name}: Schnellstart-Markdown fehlt`);
   if (fs.existsSync(werkstatt)) {
     const size = fs.statSync(werkstatt).size;
-    assert(size >= 20 * 1024 && size <= 48 * 1024, `${rel(werkstatt)}: Werkstatt-Größe außerhalb Zielkorridor (${size} Bytes)`);
+    assert(size <= 48 * 1024, `${rel(werkstatt)}: Werkstatt ist größer als 48 KiB (${size} Bytes)`);
+    // Technische Struktur prüfen, nicht Textvolumen als Fachqualität ausgeben.
+    const text = readText(werkstatt);
+    assert(text.startsWith('# ') && (text.match(/^# /gm) || []).length === 1,
+      `${rel(werkstatt)}: eindeutige H1 am Dateianfang fehlt`);
+    const sections = text.split(/^## [^\r\n]+\r?$/m).slice(1);
+    assert(sections.length > 0 && sections.every((section) => section.replace(/<!--[^]*?-->/g, '').replace(/^#{1,6} .*$/gm, '').trim()),
+      `${rel(werkstatt)}: gegliederter Abschnitt mit Inhalt fehlt`);
   }
   if (fs.existsSync(schnellstart)) {
     const size = fs.statSync(schnellstart).size;
@@ -131,6 +145,7 @@ for (const file of markdownFiles) {
   for (const phrase of oldReadmePhrases) {
     assert(!text.includes(phrase), `${rel(file)}: alter Download-Text gefunden`);
   }
+  assert(!hasObsoleteLengthInstruction(text), `${rel(file)}: alte Ausgabekürzung auf 7500 Zeichen gefunden`);
 }
 
 const forbiddenFetchWords = ['scra' + 'pe', 'scra' + 'ping', 'cra' + 'wl', 'cra' + 'wling'];

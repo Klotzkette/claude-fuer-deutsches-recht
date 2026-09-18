@@ -3,101 +3,51 @@ name: 99-finale-entscheidung-volltext
 description: "Für Finale Entscheidung als Volltext (Beschluss oder Urteil BVerfG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Finale Entscheidung als Volltext (Beschluss oder Urteil BVerfG)
+# 1 Verfassungsgerichtliche Entscheidung ausformulieren
 
-## Zweck
+Erstelle den bestellten vollständigen Entscheidungsentwurf aus der Verfassungsbeschwerdeakte und den vorhandenen Prüfungen. Der Text bleibt ein Entwurf zur menschlichen Entscheidung, auch wenn er redaktionell vollständig ist.
 
-Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern als versandfertigen Volltext im richtigen Layout — so, wie er das Gericht verlassen würde. Die Entscheidung wird zur Unterschrift fertig gebaut: mit Rubrum, vollständigem Tenor, Tatbestand oder Sachverhalt, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung.
+## 1.1 Entscheidungsgrundlage
 
-Gegenstand: Entscheidung des Bundesverfassungsgerichts.
+Lies Beschwerde, angegriffene Hoheitsakte, fachgerichtlichen Vortrag und bisherige Voten. Bestimme Gegenstand, Rügen, Verfahrensstand und gewünschte Entscheidungsform. Andere Skills müssen nicht zuvor durchlaufen werden.
 
-## Rechtlicher Rahmen
+Prüfe Zulässigkeit, Annahme nach Paragrafen 93a ff. BVerfGG und erforderliche Begründetheitsfragen getrennt. Entscheidend ist die spezifische Verfassungsverletzung, nicht eine erneute allgemeine Fachrechtsprüfung. Kammer- oder Senatsbefugnis einschließlich Paragraf 93c BVerfGG ausdrücklich prüfen.
 
-Paragrafen 90 ff. BVerfGG; Paragrafen 93a ff. BVerfGG für Annahme; Paragraf 95 BVerfGG für Tenor bei Erfolg.
+## 1.2 Lücken klären und weiterarbeiten
 
-## Eingangsvoraussetzungen
+Fehlt ein entscheidender Nachweis zu Zustellung, fachgerichtlichem Rechtsbehelf oder gerügtem Vortrag, benenne genau die benötigte Ergänzung. Arbeite die übrigen Teile als vorläufigen Entwurf aus; ungeklärte Voraussetzungen nicht als erfüllt unterstellen.
 
-Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein. Insbesondere müssen vorliegen:
+Nach der Antwort aktualisiere betroffene Rüge, Frist oder Annahmeprüfung und passe Gründe sowie Ausspruch gemeinsam an. Weitere Fragen nur bei neuen entscheidenden Lücken. Sobald die Grundlagen ausreichen, den bestellten Entscheidungstext fertigstellen.
 
-- Rubrum mit allen Parteien, Vertretern und Aktenzeichen;
-- vollständig erfasster Sachverhalt und Streitstand;
-- geprüfte Anspruchsgrundlagen oder Tatbestandsmerkmale mit Subsumtion;
-- gewürdigte Beweise oder Akten;
-- Tenor-Skizze mit Entscheidungsformel zu Hauptsache, Kosten und vorläufiger Vollstreckbarkeit oder Rechtsmittelbelehrung.
+## 1.3 Ausspruch und Gründe
 
-Fehlt eines dieser Stücke, weist der Skill darauf hin und unterbricht die Volltext-Erstellung, bevor er Phantasie produziert.
+Bezeichne Bundesverfassungsgericht, zuständiges Entscheidungsgremium, Aktenzeichen, Beschwerdeführer und angegriffenen Hoheitsakt zutreffend. Keine Verkündung, Abstimmung oder Unterzeichnung erfinden.
 
-## Aufbau des Volltextes
+Bei Stattgabe den konkreten Ausspruch nach Paragraf 95 BVerfGG prüfen: verletzte Grundgesetzbestimmung, beanstandete Handlung oder Unterlassung und gegebenenfalls Aufhebung sowie Zurückverweisung. Den Adressaten einer Auslagenerstattung anhand der einschlägigen Regelung bestimmen; nicht automatisch die Bundesrepublik Deutschland einsetzen.
 
-### 1. Briefkopf und Rubrum
+Bei Nichtannahme internen Prüfvermerk und Beschlusstext trennen. Paragraf 93d Absatz 1 BVerfGG sieht keine Begründungspflicht für die Nichtannahme vor und regelt die Unanfechtbarkeit der dort genannten Entscheidungen. Keine unpassende fachgerichtliche Rechtsmittelbelehrung oder zivilprozessuale Vollstreckbarkeitsformel anfügen.
 
-Gerichtsbezeichnung in der ersten Zeile (zum Beispiel „Amtsgericht München"), Aktenzeichen, Verkündungsdatum, vollständiges Rubrum mit Parteien, Prozessbevollmächtigten, Streitgegenstand und Spruchkörper.
+Soweit Gründe auszuformulieren sind, stelle entscheidungserheblichen Sachverhalt, Rügen, verfassungsrechtlichen Maßstab und Anwendung auf den Fall nachvollziehbar dar. Strafzumessung oder familiengerichtliche Nebenentscheidungen sind keine allgemeinen Bestandteile dieses Dokuments.
 
-### 2. Tenor (Entscheidungsformel)
+## 1.4 Eilantrag und Nebenentscheidungen
 
-Der Tenor wird vollständig ausformuliert. Er ist die rechtskraftfähige Anordnung. Beispiel für diesen Spruchkörper:
+Bei einem Antrag nach Paragraf 32 BVerfGG die Eilprüfung eigenständig ausarbeiten. Soweit eine Folgenabwägung erforderlich ist, beide hypothetischen Verläufe anhand der belegten Folgen gegenüberstellen. Die Zuständigkeit für die konkrete Anordnung gesondert prüfen.
 
-1. Das Urteil des [Gericht] vom [Datum] (Az.) verletzt die Beschwerdefuehrerin in ihrem Grundrecht aus Artikel [...] des Grundgesetzes.
-2. Es wird aufgehoben. Die Sache wird an das [Gericht] zurückverwiesen.
-3. Die Bundesrepublik Deutschland hat der Beschwerdefuehrerin die notwendigen Auslagen zu erstatten.
+Kosten, Auslagen, Bindungswirkung und sonstige Nebenentscheidungen nur aufnehmen, soweit sie für die konkrete Entscheidungsart vorgesehen sind. Keine allgemeine Streitwert- oder Vollstreckbarkeitsroutine übernehmen.
 
-Der Tenor enthält zwingend: Hauptausspruch zur Sache, Kostenentscheidung, ggf. Aussprache zur vorläufigen Vollstreckbarkeit, ggf. Streitwertfestsetzung.
+## 1.5 Quellen und Ausgabe
 
-### 3. Tatbestand oder Sachverhalt
+Tragende Normen und Entscheidungen amtlich prüfen und mit überprüfbaren Fundstellen belegen; `references/zitierweise.md` kann optional ergänzen. Zusätzliche Quellenstatus- und Bearbeitungsvermerke gehören nicht in den Entscheidungstext.
 
-Knappe, sachlich-distanzierte Darstellung des unstreitigen Sachverhalts und des streitigen Parteivortrags. Bei Beschlüssen entsprechend „Gründe I."; bei Strafurteilen die Feststellungen zum Tatgeschehen. Verwende den Imperfekt für Geschehensschilderung, das Präsens für Antrag und Verfahrensstand.
+Schreibe vollständige Sätze, echte Umlaute, ausgeschriebenen Paragraf und dezimale Überschriften. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt. Der Nutzerdateiname geht vor; ohne Vorgabe kann `ergebnis.md` verwendet werden.
 
-### 4. Entscheidungsgründe
+Prüfe vor Abschluss die Übereinstimmung von Ausspruch, Gründen, angegriffenen Entscheidungen und Zuständigkeit. Fehlende entscheidende Grundlagen verhindern eine Kennzeichnung als unterschriftsreife Endfassung, nicht die weitere Bearbeitung.
 
-Strenge Subsumtionsstruktur: Anspruchsgrundlage oder Tatbestandsmerkmal, Tatbestandsvoraussetzungen, Subsumtion mit Belegen aus den Akten, Ergebnis. Einreden und Einwendungen am Ende der jeweiligen Prüfungsebene. Bei Strafurteilen Beweiswürdigung und Strafzumessung getrennt darstellen.
+## 1.6 Beispiel und Grenzen
 
-### 5. Nebenentscheidungen
+Wird eine zuvor fehlende fachgerichtliche Abhilfeentscheidung nachgereicht, prüfe ihre Bedeutung für Rechtswegerschöpfung, Subsidiarität und Frist. Ändert sich die Bewertung, überarbeite den Entscheidungsvorschlag vollständig, statt nur die Anlage zu erwähnen.
 
-Kosten, vorläufige Vollstreckbarkeit, Streitwertfestsetzung. Bei Familien- und Sozialsachen die jeweils einschlägigen Kostenregeln.
-
-### 6. Rechtsmittelbelehrung
-
-Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat. Niemals weglassen, niemals abkuerzen.
-
-### 7. Unterschriftenzeile
-
-Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
-
-## Prozessuale Glanzkontrolle
-
-Vor der finalen Entscheidung wird zwingend geprüft:
-
-1. Zulässigkeit, Annahmefähigkeit und Begründetheit sind getrennt.
-2. Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Frist sind vollständig abgearbeitet.
-3. Die spezifische Verfassungsverletzung ist herausgearbeitet; bloßes Fachrecht wird nicht als Verfassungsrecht ausgegeben.
-4. Bei Eilanträgen nach Paragraf 32 BVerfGG ist die Folgenabwägung eigenständig und nicht als verkürzte Hauptsache formuliert.
-5. Tenor, Bindungswirkung, Zurückverweisung und Kosten sind eindeutig.
-
-## Format und Stil
-
-- Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).
-- Sachlich, knapp, in deutscher Gerichtssprache.
-- Generisches Maskulinum.
-- Paragrafenzeichen ausgeschrieben als „Paragraf".
-- Aktenzeichen Punkt- oder Schrägstrich-Stil, niemals Komma.
-- Keine Doppelsterne für Fettschrift im Fliesstext.
-
-## Ergebnis
-
-Ein vollständiger, versandfertiger Entscheidungstext, der von Rubrum bis Unterschrift alles enthält. Der Spruchkörper kann ihn unterschreiben — oder vor der Unterschrift redaktionell pruefen. Bei offenen Lückenpunkten bleibt der Volltext stehen, die Lücken werden in eckigen Klammern markiert und am Ende in einer Lücken-Liste zusammengefasst.
-
-## Eigenkontrolle
-
-Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
-
-1. Stimmt der Tenor mit den Entscheidungsgründen überein?
-2. Ist die Kostenentscheidung folgerichtig?
-3. Ist die Rechtsmittelbelehrung vollständig und richtig?
-4. Sind alle Parteibezeichnungen einheitlich?
-5. Sind alle Daten, Aktenzeichen und Betraege widerspruchsfrei?
-6. Sind alle Lückenpunkte explizit markiert?
-
-Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+Beratungsgeheimnis und Aktenvertraulichkeit wahren. Tatsächliche Beschlussfassung, Unterzeichnung und Zustellung bleiben den zuständigen Menschen vorbehalten; keine externe Handlung ohne Freigabe. Fehlenden Zugriff konkret benennen und keinen erfolgreichen Export behaupten.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 

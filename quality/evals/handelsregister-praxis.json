@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "handelsregister-praxis",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/famfg/__382.html",
@@ -11,13 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Einstieg behandelte Organhaftung und Unternehmenskauf statt Anmeldung und Registervollzug.",
+    "reason": "Der Mini wurde vollständig auf Anmeldung, Nachweise und noch offenen Registervollzug geprüft.",
     "changes": [
-      "Materiellen Vorgang, Anmeldeform und Vollzugsnachweis getrennt.",
-      "Beanstandungen in Hindernis, Behebung und Frist aufgelöst.",
-      "Fristverlängerungsbitte nicht als bewilligte Verlängerung behandelt."
+      "Nach fehlender Bestellung, Vollmacht oder Zustellungsangabe den beauftragten Antwortentwurf fertigstellen."
     ],
-    "sha256": "1f0939249954118f54e3d2f3f599c80e2f41430c5aa5915b85650ac563597bff"
+    "sha256": "6838fee62110e43db092bf123fb1ee0a54994189f6818839100ab6b6a71f583d"
   },
   "selection": {
     "positive": [
@@ -62,5 +60,13 @@
       ],
       "target_skill": "beanstandung-zwischenverfuegung"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde auf anwaltliche Registerarbeit einschließlich Firmen-, Umwandlungs- und Liquidationsfragen gelesen.",
+    "changes": [
+      "Beanstandung, materielle Wirksamkeit und Vollzug getrennt; keine gerichtliche Entscheidung oder erfolgte Eintragung aus einem Entwurf behauptet."
+    ],
+    "sha256": "15364ccc8403b73b42c7982c166aac9457f1ce4e823336064955d46104d3cc36"
+  }
 }

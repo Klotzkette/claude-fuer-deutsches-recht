@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-erbrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1",
@@ -31,13 +31,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Schnellstart benötigte einen belastbaren Stichtags- und Verzeichnisabgleich statt einer nur allgemeinen Auskunftsroutine; lokale Referenzverweise waren für einen allein heruntergeladenen Prompt zu verbindlich.",
+    "reason": "Mini, Hauptproblem und Pflichtteilsfokus wurden vollständig auf Stichtags- und Belegabgleich gelesen.",
     "changes": [
-      "Todestagsbestände, spätere Kontobewegungen und Doppelabzüge konkret unterschieden.",
-      "Verzeichnislücke, Bewertungsstreit und Sorgfaltszweifel als unterschiedliche Fehlerklassen ergänzt.",
-      "Keinen allgemeinen Beleganspruch aus Paragraf 2314 BGB unterstellt; lokale Referenzen ausdrücklich optional gemacht und Kernregeln eingebettet."
+      "Nach Konten-, Schenkungs- oder Bewertungsangaben neu rechnen und den bestellten Brief abschließen; Nutzerdateiname geht vor.",
+      "In der Schlusskontrolle den internen Ausdruck Sofortbild durch kurze Einordnung von Erbfall und Beratungsziel ersetzt."
     ],
-    "sha256": "b9bfb0d5113966ee27341930e570ac4b5a3f85f680d8350f534099f896dab0a8"
+    "sha256": "2f75772e6fb499ee4a0d7cac4d5ae78f7d152f3d4ff04dcc8130ff0c54743982"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "retained",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [],
+    "prompt_path": "fachanwalt-erbrecht/fachanwalt-erbrecht-hauptproblem.md",
+    "prompt_sha256": "b666d190393bc2bf6f149aef792be935ecb5d65f9d5d1f8fa98b91ca62263eab",
+    "skill_path": "fachanwalt-erbrecht/skills/pflichtteil-nachlassverzeichnis-belegabgleich/SKILL.md",
+    "skill_sha256": "68e3825a08d3f5453d92c5baec78fe6f2fe4d1dd87212fc328687382b35166a1"
   },
   "selection": {
     "positive": [
@@ -103,6 +113,58 @@
         }
       ],
       "target_skill": "pflichtteil-nachlassverzeichnis-belegabgleich"
+    },
+    {
+      "id": "nachlassauskunft-neue-luecke-statt-zwangsabschluss",
+      "request": "Fortsetzung des Pflichtteilsmandats: Der enterbte Sohn verlangt Auskunft von seiner Schwester als Alleinerbin des am 10.01.2026 verstorbenen verwitweten Vaters. Sie hatten den unleserlichen Kontobeleg nachgefordert. Nun ist die lesbare Fassung da: Ein eigenes Konto des Vaters hatte am Todestag 120000 EUR. Zusätzlich weist der Beleg vier Tage vor dem Tod eine Überweisung von 40000 EUR an die Schwester mit dem Verwendungszweck Rückzahlung aus. Über den zugrunde liegenden Vertrag liegt bisher nichts vor. Es gibt noch kein notarielles Verzeichnis, keinen Auskunftstitel und keine Klage. Der Sohn kennt den Rechtsgrund nicht; er möchte zunächst Auskunft, nicht schon einen bezifferten Zahlungsantrag. Er fragt: Bitte machen Sie weiter und schreiben Sie die konkrete Nachfrage an die Erbin fertig. Die erste Rückfrage ist bereits erfolgt; eine neue entscheidende Lücke soll deshalb aber nicht ignoriert werden. Liefern Sie auskunftsschreiben.md und einen knappen bearbeitungsvermerk.md. Keine fingierte Bankvollmacht, keine Kontaktaufnahme und keine erdachte Empfangsanschrift.",
+      "input_files": [],
+      "deliverables": [
+        "auskunftsschreiben.md",
+        "bearbeitungsvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Antwort übernimmt den lesbar gewordenen Kontostand und wiederholt nicht dessen Anforderung. Sie benennt als neue offene Frage Rechtsgrund und Umstände der Überweisung an die Erbin.",
+          "deliverables": [
+            "auskunftsschreiben.md",
+            "bearbeitungsvermerk.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Sie liefert das beauftragte ausformulierte Auskunftsschreiben mit konkretem Bezug zu Betrag, Zeitpunkt und Verwendungszweck. Sie beendet den Auftrag nicht aufgrund einer bereits verbrauchten Rückfragerunde.",
+          "deliverables": [
+            "auskunftsschreiben.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Überweisung wird nicht ungeprüft als Schenkung, als bewiesene Schuldentilgung oder als automatisch zusätzlich vorhandenes Nachlassguthaben behandelt. Ein abschließend bezifferter Pflichtteilsantrag wird nicht fingiert.",
+          "deliverables": [
+            "auskunftsschreiben.md",
+            "bearbeitungsvermerk.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Der Vermerk erklärt konkret, wie die Antwort zum Rechtsgrund in die weitere Nachlassprüfung einfließt. Das externe Schreiben enthält keine internen technischen Prüfkommandos und wird nicht als versandt bezeichnet.",
+          "deliverables": [
+            "auskunftsschreiben.md",
+            "bearbeitungsvermerk.md"
+          ]
+        }
+      ],
+      "target_skill": "pflichtteil-nachlassverzeichnis-belegabgleich"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständige Werkstatt wurde auf Nachlassbearbeitung und widersprüchliche Fortsetzungsregeln geprüft.",
+    "changes": [
+      "Doppelten Abschlussabschnitt entfernt; fehlende Auskunft, Bewertung und spätere Zahlungsbearbeitung unterschieden.",
+      "Offenen Nachweis und dessen Bedeutung unmittelbar benennen statt des internen Begriffs Kernbeleg."
+    ],
+    "sha256": "62d2755d4d969461ff6e0b8affb5f6296cc6609454c932b5c6cb3f0db9929b2f"
+  }
 }

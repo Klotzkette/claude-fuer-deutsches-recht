@@ -1,14 +1,15 @@
 {
   "schema_version": 1,
   "plugin": "urheberrecht-de-eu",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [{"url": "https://www.gesetze-im-internet.de/urhg/__51.html", "checked_on": "2026-09-14", "supports": "Geöffneter amtlicher Volltext: veröffentlichtes Werk, Zitatzweck und durch diesen gerechtfertigter Umfang statt allgemeiner Prozentfreigabe."}],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini und Werkstatt vermischten Urheberrecht mit Marken und Nichtbenutzung. Der gelesene Schranken-Skill stellte bereits Zweck und Umfang heraus; der Mini macht diese Prüfung jetzt ohne Pflichtverweise konkret.",
-    "changes": ["Markenroute und pauschale Nichtbenutzungseinrede entfernt", "Zitatzweck, Umfang und eigene Auseinandersetzung operationalisiert", "Dublette und pauschale historische Entscheidungsanker entfernt", "Unterlassungserklärung und Plattformmeldung unter Freigabevorbehalt gestellt"],
-    "sha256": "9a29a3f4b9110a31aa611c18401389eb3b3031877f1d152d2605aea42b1cfebe"
+    "reason": "Schutzgegenstand und Zitatprüfung sind konkret, der Ein-Frage-Deckel konnte aber die Klärung einer unvollständigen Rechtekette vorzeitig beenden.",
+    "changes": ["Gezielte Klärung einzelner Rechtekettenglieder mit erneuter Nutzungsbewertung verbunden", "Bestellten Brief oder Vertrag nach Antwort fertigstellen", "Interne Quellenprüfung und Dateinamen vom Empfängertext getrennt"],
+    "sha256": "adf269d7f9338f1689ebadbd9fd50f778706aff964f6d23cf0aa0237337d2e5b"
   },
+  "workshop_review": {"verdict":"revised","reason":"Ganztextprüfung zeigte wiederholte Anspruchstabellen, markenrechtliche Nichtbenutzung und starre Rückfragegrenzen.","changes":["Schutz, Rechtekette, Nutzung, Schranken und Rechtsfolgen als zusammenhängenden Ablauf aufgebaut","Software, Musik, Sampling, Vergütung und System-Klauseln in die jeweilige Fachprüfung eingeordnet","Fortsetzung bei fehlender Unterlizenz bis zum bestellten Dokument ausdrücklich geregelt"],"sha256":"ced4b3c45fe56639f0470ac86c4e6f2936b418adae0fa227131072edada463e2"},
   "selection": {
     "positive": ["Prüfe die fremden Textauszüge in unserer Rezension auf einen tragfähigen Zitatzweck.", "Ordne für unseren Upload Nutzungsrechte, Lizenzkette und mögliche Schranken zu."],
     "negative": ["Prüfe die Nichtbenutzungseinrede gegen eine eingetragene Marke.", "Bereite ausschließlich die Registrierung eines US-Werks beim dortigen Copyright Office vor."]

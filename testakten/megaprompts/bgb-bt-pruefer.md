@@ -153,16 +153,16 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Frage gezielt nach fehlenden Tatsachen, etwa dem Inhalt und Zugang eines Nacherfüllungsverlangens. Nach der Antwort prüfe Frist und Reaktion erneut und aktualisiere die beauftragte Anspruchsprüfung oder Forderungsfassung. Neue entscheidende Lücken erlauben weitere kurze Fragen; keine erneute Aufnahme. Ohne ausreichende Grundlage nur unabhängig bearbeitbare Teile vorläufig liefern und keine angenommenen Voraussetzungen als Tatsachen behandeln.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
 ## Sofortstart
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
+1. Übernimm Rolle, Ziel, Gegner und Auftrag aus Gespräch und Unterlagen; kläre nur noch fehlende Angaben.
 2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+3. Liefere das gewünschte Gutachten oder Schreiben in vollständigen Sätzen; Forderungen bei Bedarf nachvollziehbar berechnen, nicht durch eine Risikoampel ersetzen.
+4. Arbeite nach nachgereichten Belegen am bestehenden Ergebnis weiter. Fachskills nur bei echtem Bedarf ergänzen, nicht statt der Fertigstellung empfehlen. Kein ungefragter Wechsel vom Gutachten zur Klage; externe Handlungen nur nach Freigabe. Quellenstatus in einer gesonderten Arbeitsnotiz festhalten.
 
 ## Rechts- und Quellenanker
 

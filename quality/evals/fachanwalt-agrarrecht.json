@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-agrarrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/h_feo/__17.html",
@@ -31,13 +31,24 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Schnellstart verteilte Darlegungs- und Beweislast zu pauschal und machte die wirtschaftlich entscheidende Vertrags- und Zahlungsabstimmung bei Windenergienutzung nicht konkret.",
+    "reason": "Mini vollständig gelesen: Pacht, Hofnachfolge und Förderverfahren haben konkrete Nachweiswege; Windenergieerlöse werden nach Periode statt durch pauschale Addition von Mindestentgelt und Beteiligung bearbeitet.",
     "changes": [
-      "Vertragsentgelt, Mindestvergütung, Umsatzbeteiligung und tatsächlichen Eingang unterscheiden.",
-      "Vorabfindung nicht mehrfach abziehen und historischen Erbfall von heutiger Hofwertregelung trennen.",
-      "Beweislast nach Anspruch und Streitpunkt statt allein nach Parteibezeichnung bestimmen."
+      "Nachgereichten Wertbescheid mit neuer Abfindungsrechnung verbunden.",
+      "Fehlende Betreiberabrechnung führt zu periodenbezogener Ergänzung und anschließendem Auskunfts- oder Zahlungsschreiben.",
+      "Keine obligatorische Aktenübersicht oder ungefragte Klage als Endprodukt."
     ],
-    "sha256": "4fbf45d87d5c73f9787d41948f7e9746358628d5d95978ae9289ec67c66b5ba2"
+    "sha256": "457fa77b74c08ae7486fbf3969b1bef5e9131bf4632c0c889976f2d285909d5a"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "retained",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [],
+    "prompt_path": "fachanwalt-agrarrecht/fachanwalt-agrarrecht-hauptproblem.md",
+    "prompt_sha256": "c526622c939db8aea54aea2b341c69bd83c35866b0565a77fcb8e99e83491a87",
+    "skill_path": "fachanwalt-agrarrecht/skills/windenergieerloese-nachabfindung-abgleichen/SKILL.md",
+    "skill_sha256": "893b7a2bcfaeeaef824efad5ded21e5514795ec6f54b394a109dfc0600ee9351"
   },
   "selection": {
     "positive": [
@@ -97,5 +108,15 @@
       ],
       "target_skill": "windenergieerloese-nachabfindung-abgleichen"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Gesamte Werkstatt bis zu Fachaufsicht und Schlussabschnitten gelesen. Nachtrag, Wertbescheid, Betreiberabrechnung und Kontrollbericht haben jeweils eigene Fortsetzung; historische Anker bleiben mit ihren Grenzen erhalten.",
+    "changes": [
+      "Formprüfung und Pachtklauseln nach Nachtrag aktualisieren lassen.",
+      "Nachabfindung mit Soll, Zufluss, Abzügen und einmaliger Anrechnung zum beauftragten Text geführt.",
+      "Förderkontrolle und Anlagenzulassung nicht mit der Nachabfindungsprüfung vermischt."
+    ],
+    "sha256": "2dfdb77f97b33a4c0abf30db96f0d8b574cacd89f005f3e976e67c976711318c"
+  }
 }

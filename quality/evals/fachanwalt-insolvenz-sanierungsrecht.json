@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-insolvenz-sanierungsrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__15b.html",
@@ -31,13 +31,32 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der frühere Schnellstart beschränkte den Einstieg auf Vorinsolvenz und Prognose und wiederholte diese Route auch für andere Mandate. Der neue Text führt Organhaftung, Anfechtung und Forderungsarbeit getrennt aus und verdeutlicht den fehlenden Schonfristcharakter der Antragsfristen.",
+    "reason": "Ganztextreview: Die differenzierten Regeln zu Insolvenzreife, Organhaftung und Anfechtung waren brauchbar; Einstieg und Fortsetzung standen noch in langen Absätzen. Lesbarkeit und Dateivorgabe wurden präzisiert, ohne den dokumentierten alten Quellenstatus zu erneuern; kein Live-Modelltest.",
     "changes": [
-      "Rollenbezogenen Einstieg statt ausschließlicher StaRUG- und Prognoseroute eingeführt.",
-      "Antrag ohne schuldhaftes Zögern und gesetzliche Höchstfristen ausdrücklich auseinandergehalten.",
-      "Zahlungsjournal, Sorgfaltsprüfung und geringeren Gläubigerschaden getrennt; historische Gegenleistungsrechtsprechung zeitlich begrenzt."
+      "Auftrag und Aktenprüfung vom kurzen Einstieg getrennt und Überschriften hierarchisch gegliedert.",
+      "Stundungs-, Rückfluss- und Finanzierungsnachfragen von der anschließenden Dokumentfertigstellung lesbar getrennt.",
+      "Nutzerdateinamen priorisiert; historische Gegenleistungsrechtsprechung und fehlender Schonfristcharakter unverändert erhalten."
     ],
-    "sha256": "e0e41fc3a0610d9e19320c7030f25a4baf0107fdfa5d742c6d462941fa29a5a5"
+    "sha256": "b57b68dac45d2c8f8b6aa81263b52fd7543d3d109b7e4945cc214b7e9046ee59"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständig gelesene Werkstatt wiederholte Prognosebausteine auch für Anfechtung und Restschuldbefreiung und enthielt zwölf schematische Anschlussrouten. Neu gegliedert nach tatsächlichem Mandat; keine erneute Quellenverifikation oder Live-Modellprüfung.",
+    "changes": ["Liquiditäts- und Prognoseprüfung, Zahlungshaftung, Sanierungsinstrumente, Plan, Anfechtung und Restschuldbefreiung eigenständig behandelt.","Stundungs- und Finanzierungsantworten führen zu angepasster Rechnung und vollständigem bestellten Text; fehlende Planung stoppt unabhängige Teile nicht.","Anfechtungsklage nicht länger wie ein Rechtsbehelf gegen eine Entscheidung beschrieben; bestehende unvollständige Entscheidungsnachweise als Recherchehinweise begrenzt."],
+    "sha256": "d601eb1302f058e97d40293d8ac634188f2a83849091e2fc7822d0c133513c40"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [
+      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+    ],
+    "prompt_path": "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-hauptproblem.md",
+    "prompt_sha256": "c2c448619b65b01a09f266e28229223308c9bcf8ae73b9a41cca190b39fe7d38",
+    "skill_path": "fachanwalt-insolvenz-sanierungsrecht/skills/organhaftung-zahlungen-masseabgleich/SKILL.md",
+    "skill_sha256": "028f7b368eaf2135a88ed9c9fdf5bf875968d4a7613f6de5dd9aa2fd94c5198c"
   },
   "selection": {
     "positive": [

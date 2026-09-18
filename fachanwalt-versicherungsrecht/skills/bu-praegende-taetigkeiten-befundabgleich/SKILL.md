@@ -9,7 +9,7 @@ Erstelle einen Vermerk zur Beweislage der Berufsunfähigkeit, wenn die isolierte
 
 ## 2. Eingaben
 
-Lies Police, maßgebliche Bedingungen, Nachträge, Leistungsantrag, Ablehnung, Berufsbeschreibung, Arbeitsnachweise und Befunde. Erfasse Tätigkeit in gesunden Tagen, Wochenstunden, Pausen, typische und atypische Wochen, körperliche und kognitive Anforderungen, organisatorische Befugnisse sowie Beginn der Einschränkungen. Diagnosen und Gesundheitsdaten nur im erforderlichen Umfang verarbeiten. Einmal gebündelt nachfragen, dann einen offenen, aber verwertbaren Entwurf liefern.
+Lies Police, maßgebliche Bedingungen, Nachträge, Leistungsantrag, Ablehnung, Berufsbeschreibung, Arbeitsnachweise und Befunde. Erfasse Tätigkeit in gesunden Tagen, Wochenstunden, Pausen, typische und atypische Wochen, körperliche und kognitive Anforderungen, organisatorische Befugnisse sowie Beginn der Einschränkungen. Diagnosen und Gesundheitsdaten nur im erforderlichen Umfang verarbeiten. Fehlende entscheidende Angaben zum Arbeitsablauf oder Funktionsbefund gezielt erfragen, bekannte Angaben nicht wiederholen. Eine umfangreiche Befundsammlung ersetzt keinen Nachweis der tatsächlichen Berufsausübung.
 
 ## 3. Ablauf und Beweislogik
 
@@ -19,6 +19,7 @@ Lies Police, maßgebliche Bedingungen, Nachträge, Leistungsantrag, Ablehnung, B
 4. Berechne eine rein zeitliche Ausfallquote nur als Kontrollgröße. Untersuche zusätzlich, ob ein nicht mehr ausführbarer Arbeitsschritt den gesamten beruflich sinnvollen Vorgang verhindert. Keine frei erfundenen Gewichtungsfaktoren und keine automatische Voll-BU wegen eines einzelnen Ausfalls. Prüfe realistische Arbeitsteilung und bei Selbstständigen die konkret vereinbarten Umorganisationsmaßstäbe.
 5. Behandle Verweisung nach der Police, nicht mit der Behauptung, abstrakte Verweisung sei stets verboten. Trenne Einwände aus vorvertraglichen Angaben, Obliegenheiten und Nachprüfung vom Tätigkeitsbeweis; keine Übertragung ihrer Beweislast auf den BU-Eintritt.
 6. Stelle Rentenmonate nach vertraglichem Beginn, Monatsbetrag, Dynamik, Karenz und Zahlungen dar. Beitragsbefreiung und Rückerstattung gesondert ausweisen. Verzugsbeginn nicht mit Erkrankungsbeginn gleichsetzen; Zukunftsleistungen nicht ungeprüft kapitalisieren. Keine Klage erheben, Gutachten beauftragen oder Schweigepflichtentbindung erklären.
+7. Nach ergänzender Tätigkeitsbeschreibung oder ärztlicher Antwort die betroffenen Arbeitsvorgänge und Zeiträume neu abgleichen und die bestellte Erwiderung fertigstellen. Bei einem neuen entscheidenden Widerspruch, etwa zwischen Belastbarkeit und behaupteter Delegation, kurz nachfassen; beantwortete Fragen nicht wiederholen. Bei einem Hindernis bearbeitbare Teile vorläufig liefern und nach Eingang fortsetzen. Keine eigene Diagnose oder unbelegte Tätigkeitsverteilung einsetzen, auch nicht in Nachforderungen.
 
 ## 4. Quellenpflicht
 
@@ -28,7 +29,9 @@ Bei Nutzung Bedingungen, Normstand und Übertragbarkeit prüfen. Gericht, Entsch
 
 ## 5. Ausgabeformat
 
-Liefere `ergebnis.md` mit Sachverhalt, Bedingungsauszug, Tätigkeits-Befund-Matrix, Zeitkontrolle, begründeter Gesamtvorgangsanalyse, Rentenkonto und ausformulierter Erwiderung auf die Ablehnung. Ergänze priorisierte Beweisfragen und offene Grenzen. Vollständige Sätze, keine Halbsätze oder Klageskelette. Export: Times New Roman, 11 pt, dezimal. Außenverwendung erst nach Freigabe.
+Liefere Bedingungsmaßstab, nachvollziehbaren Tätigkeits-Befund-Abgleich, begründete Gesamtvorgangsanalyse und die bestellte Erwiderung auf die Ablehnung. Der vorgegebene Dateiname geht vor; ohne Dateiwunsch `ergebnis.md` verwenden. Rentenkonto ergänzen, soweit Leistungen zu beziffern sind; bei reinem Bewertungsauftrag keinen zusätzlichen Schriftsatz ausgeben.
+
+Offene Beweisfragen und Grenzen benennen, Quellenprüfvermerke getrennt vom Empfängertext halten. Ist kein Dateiexport möglich, die bestellte Bewertung oder Erwiderung mit Tätigkeits-Befund-Abgleich und gegebenenfalls Rentenkonto vollständig in der Antwort liefern; keinen Dateilink erfinden. Vollständige Sätze, keine Halbsätze oder Klageskelette. Export: Times New Roman, 11 pt, dezimal. Außenverwendung erst nach Freigabe.
 
 ## 6. Beispiel
 

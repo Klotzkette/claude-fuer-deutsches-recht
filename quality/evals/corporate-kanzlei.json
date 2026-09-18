@@ -1,12 +1,18 @@
 {
   "schema_version": 1,
   "plugin": "corporate-kanzlei",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [{"url":"https://www.gesetze-im-internet.de/gmbhg/__15.html","checked_on":"2026-09-14","supports":"Notarielle Form von GmbH-Anteilsabtretung und Verpflichtung zur Abtretung; Signing ist anhand der konkreten Bedingungen vom Vollzug zu trennen."}],
-  "mini_review": {"sha256":"8e6f7c57f02bd1c1085054ed40501622bcecf294f0fda9e6aff829cf826b81dc",
+  "mini_review": {"sha256":"1cdb38a056e53a7856cd695c3de0ce3a1b61526551065e365de60cb90c572fd3",
     "verdict": "revised",
-    "reason": "Der bisherige Mini wiederholte Struktur und DD mehrfach, wählte unabhängig vom Auftrag eine Garantiekatalog-Zeile und enthielt transaktionsferne Rechtsprechung. Der abgeglichene Closing-Spezialskill behandelt den Long-Stop-Ablauf zu pauschal als automatischen Rücktritt; das eigenständige Mini verlangt stattdessen Vertragsauslegung.",
-    "changes": ["DD-Befunde mit konkreten Risikoallokationen und Vertragsfolgen verbunden.","Erfüllung und Verzicht sowie Signing, Zahlungsauftrag und Zahlungseingang getrennt.","Bedingungsnachweise, Verzichtsbefugnis und Long-Stop-Klausel zum Kern des Closing-Trackers gemacht."]
+    "reason": "Ganztextreview: Die differenzierte Closing-Prüfung blieb erhalten; die bisher verpflichtende Bedingungstabelle passte jedoch nicht zu jedem Klauselauftrag. Sprach- und Ablaufprüfung ohne erneute rechtliche Quellenverifikation oder Live-Modelltest.",
+    "changes": ["Bedingungstabelle auf den Umfang einer beauftragten Vollzugsprüfung begrenzt.","Rückfragen zu Change of Control und Kaufpreis von der anschließenden Fertigstellung lesbar getrennt.","Nutzerdateinamen vor ergebnis.md gestellt; Unterscheidung von Erfüllung, Verzicht und Zahlungseingang erhalten."]
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständig gelesene Werkstatt wiederholte Vertrags- und Vollzugstabellen sowie zwölf schematische Routen. Diese wurden fachlich in den Transaktionsablauf integriert; keine neue Quellenverifikation und kein Live-Modelltest.",
+    "changes": ["Datenraumprüfung mit konkreten Preis-, Garantie-, Freistellungs- und Bedingungsfolgen verbunden.","Wandeldarlehen, Umwandlung, Restrukturierung und Registerarbeit als eigenständige Prüfungszweige erhalten.","Nachgereichte Kaufpreis- und Zustimmungsbelege führen zur Anpassung und vollständigen Vertragsfassung statt zu einem weiteren Pflichtbericht."],
+    "sha256": "4833292b7e81e3ba3c574d0327b2d19c36dfc41a4b9d51b43d01784b5b9856c5"
   },
   "selection": {
     "positive": ["Erstelle aus unserem unterschriebenen Anteilskaufvertrag und den Freigaben den Closing-Tracker für den Erwerber.","Übersetze den DD-Befund über eine bekannte Umwelthaftung in eine konkrete Risikozuweisung für den SPA."],

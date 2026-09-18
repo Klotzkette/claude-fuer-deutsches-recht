@@ -1,17 +1,16 @@
 {
   "schema_version": 1,
   "plugin": "kanzlei-management",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der alte Text wiederholte die allgemeine Mandatsannahme statt der Managementaufgabe. Änderungen betreffen betriebliche Rechen- und Entscheidungslogik, keine neue rechtliche Schwelle oder Diagnose.",
+    "reason": "Vollständige Schlusslektüre am 18. September 2026: Liquiditäts-, Kapazitäts- und Profitabilitätsrechnung einschließlich Fortsetzung waren bereits individuell. Nur die starre Höchstzahl von zwei Gegenmaßnahmen beschränkte die sachgerechte Entscheidung unnötig.",
     "changes": [
-      "Liquidität, Forderung und nicht abgerechnete Arbeit unterschieden.",
-      "Wochenübertrag, Zahlungsdatum, Fremdgeldabgrenzung und Szenarien konkretisiert.",
-      "Entscheidungsvorlage statt generischer Mandatsakte."
+      "Starre Zwei-Maßnahmen-Grenze durch entscheidungsrelevante realistische Gegenmaßnahmen ersetzt.",
+      "Fremdgeld, Wochenübertrag, fehlende Zahlungsdaten und Trennung von Vorschau und Insolvenzdiagnose unverändert erhalten."
     ],
-    "sha256": "22c946b7c141ddaba56da26da3511738ea6c045eecbf70eec665abdb07c940db"
+    "sha256": "ca78f273f2c3bfb80db98c9ceb30b3967bc162ce178002e7d3c0060e279a88b4"
   },
   "selection": {
     "positive": [
@@ -56,5 +55,15 @@
       ],
       "target_skill": "cashflow-13-wochen"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vollständige Schlusslektüre am 18. September 2026: Allgemeine Mandatsaufnahme und Übergabepakete widersprachen dem betriebswirtschaftlichen Auftrag. Die Schlussrouten enthielten wiederholte Managementprosa statt konkreter Entscheidungswege.",
+    "changes": [
+      "Betriebsentscheidungen von Mandatsorganisation getrennt; Mandatsblatt und Versandprüfung nur bei entsprechendem Auftrag.",
+      "Liquidität, Kapazität, Honorar, Partnerstruktur, Pflichten, Datenpanne, Systeme und Nachhaltigkeit mit eigenen Datenfragen und Fortsetzung bis zur Vorlage geführt.",
+      "Keine feste Zahl von Optionen, keine erfundenen Folgewochen und keine Behauptung bereits erfolgter Kontrolle oder Übermittlung."
+    ],
+    "sha256": "9181e147040334bc0b6de686e8275e05375a502faf2c1a33599a44408a232c46"
+  }
 }

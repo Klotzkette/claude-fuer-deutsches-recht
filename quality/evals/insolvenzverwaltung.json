@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "insolvenzverwaltung",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__22.html",
@@ -10,14 +10,16 @@
     }
   ],
   "mini_review": {
+    "verdict": "retained",
+    "reason": "Aktuellen Mini vollständig gelesen. Beschluss und konkrete Rolle bestimmen Befugnisse; nachgereichte Konten und Eigentumsnachweise ändern Deckung beziehungsweise Verwertungsempfehlung. Fehlende Zustimmung bleibt offen, hindert aber keine unabhängige Arbeit. Das bestellte Dokument wird nach der Antwort fertiggestellt. Keine neue Rechtsquellen- oder Live-Modellprüfung des Minis.",
+    "changes": [],
+    "sha256": "ce0223f423fdb6f4e637ff6f0c4470ffb1f212cb5e9a96c1afd3e621f0ccff82"
+  },
+  "workshop_review": {
     "verdict": "revised",
-    "reason": "Der Mini führte zur Insolvenzreife und enthielt unvollständige oder pauschale Terminanker statt Beschlussauswertung.",
-    "changes": [
-      "Vorläufige Verwaltung, Regelverwaltung und Sachwaltung getrennt.",
-      "Befugnisse am Beschlusstenor festgemacht.",
-      "Massebestand, Zahlungsrang und dokumentierte Freigabe eingeführt."
-    ],
-    "sha256": "fc1480221e34187b64ce5909d8cdc3cb7f780813c161a910a6c89d4ce45ca425"
+    "reason": "Gesamte Werkstatt gelesen. Alte Krisen- und Antragsschemata widersprachen dem beschlussbezogenen Verwaltungsauftrag; pauschale Anmeldefrist und Pflichtübermittlungsnachweise waren ebenfalls unpassend. Paragraf 28 InsO am 18.09.2026 amtlich gelesen; Abruf von Paragraf 113 scheiterte, deshalb dort konkrete Normprüfung statt vermeintlich vollständiger Fristregel. Übrige Quellen unverändert, kein Live-Modelltest.",
+    "changes": ["Insolvenzreifeprüfung auf den tatsächlichen Auftrags- oder Anspruchsbedarf begrenzt; unabhängige Massearbeit fortsetzen.", "Anmeldefrist am Eröffnungsbeschluss ausgerichtet und unvollständige Kündigungsfrist als konkrete Prüfaufgabe formuliert.", "Fragenliste nicht als Dokumentabschluss zugelassen; Übermittlungsnachweis setzt tatsächliche Übermittlung voraus."],
+    "sha256": "3f3e2818421a502562afa398e428ec618b2061f05b8fc1ede849ffd113036650"
   },
   "selection": {
     "positive": [

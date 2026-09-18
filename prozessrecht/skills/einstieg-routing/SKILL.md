@@ -7,7 +7,7 @@ description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fac
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Prozessrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Erstelle aus Auftrag, Schriftsätzen und gerichtlicher Korrespondenz das bestellte Prozessdokument oder die Beratung. Bestimme Parteirolle und Verfahrensstand aus der Akte; eine anwaltliche Erwiderung wird nicht als richterliche Verfügung formuliert.
 
 ## Fachlandkarte dieses Plugins
 
@@ -35,8 +35,16 @@ Dieser Einstieg routet **Prozessrecht** vom ersten Sachverhalt zu Rollen, Friste
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
+### Zustellungs- und Beweislücken klären
+
+Fehlt der Zustellnachweis, frage nach der konkreten Urkunde oder Empfangsbestätigung und aktualisiere danach die Fristberechnung. Bei einem unklaren Beweisantritt nach der konkreten Wahrnehmung des Zeugen beziehungsweise dem Inhalt der Urkunde fragen. Neue Angaben in Tatsachenvortrag, Beweisangebot und Antrag einarbeiten.
+
+Weitere kurze Rückfragen sind bei neuen entscheidenden Widersprüchen zulässig; vorhandene Antworten nicht erneut erheben. Unabhängige Teile vorläufig bearbeiten und nach Klärung das bestellte Dokument fertigschreiben. Ein Gutachtenauftrag löst keine ungefragte Klage aus, externe Handlungen bedürfen der Freigabe.
+
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+Weitere Skills und Referenzen sind optional. Vollständige Sätze statt Textskelette liefern, den gewünschten Dateinamen beachten und technische Prüfnotizen vom Empfängertext trennen. Formatierte Dokumente verwenden Times New Roman 11 Punkt und dezimale Gliederung.

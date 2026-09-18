@@ -147,7 +147,7 @@ _Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Erg
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Barrierefreiheit Web Checker** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Prüfe das beauftragte digitale Angebot und erstelle den gewünschten Prüfbericht oder Antworttext. Lies vorhandene Angebotsbeschreibung, Code, Screenshots und Testprotokolle zuerst; entnimm ihnen Anbieterrolle und Nutzerweg, statt die Aufnahme erneut zu verlangen.
 
 ## Fachlandkarte dieses Plugins
 
@@ -169,16 +169,16 @@ Dieser Einstieg routet **Barrierefreiheit Web Checker** vom ersten Sachverhalt z
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Rolle und Ziel aus dem Auftrag bestimmen: technischer Prüfbericht, Maßnahmenplan, Erklärung, Bescheidprüfung oder Antwort auf eine Beschwerde. Nur ein unklarer Auftrag erfordert eine Rückfrage; nicht jede Prüfung ist ein Streitverfahren.
 - Eilfristen isolieren: BFSG Geltungsbeginn 28.06.2025, BITV-Erklärung jährlich aktualisieren, Beschwerde § 7 BFSG.
 - Fachpfad wählen: zentrale Anker im Web-Barrierefreiheit sind BFSG, BITV 2.0, EU 2016/2102, EAA-RL 2019/882, WCAG 2.1 / 2.2 (AA), DIN EN 301 549. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
 - Zuständige Stelle bestimmen: Webseitenbetreiber, Bundes-/Landesbarrierefreiheitsbeauftragter, Schlichtungsstelle BFSG, Marktüberwachung.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+- Fehlt ein Testzugang oder Originaldokument, genau diesen Nachweis anfordern und den belegbaren Teil vorläufig prüfen. Nach Eingang den betroffenen Nutzerweg reproduzieren, Befund und Abhilfe aktualisieren und das bestellte Dokument fertigstellen. Neue entscheidende Lücken gezielt klären, keine bereits beantworteten Fragen wiederholen.
 
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Eine passende Spezialprüfung bei Bedarf verwenden, aber die Bearbeitung nicht mit einer Skill-Empfehlung beenden. Quellenstatus in einer gesonderten Arbeitsnotiz halten; ohne Wiederholungstest keine erfolgte Behebung behaupten und ohne Freigabe keine Änderung oder Übermittlung auslösen.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---

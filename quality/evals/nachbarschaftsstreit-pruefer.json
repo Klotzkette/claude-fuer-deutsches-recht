@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "nachbarschaftsstreit-pruefer",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__910.html",
@@ -11,12 +11,22 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der ganze Mini hatte einen brauchbaren Ortsbefund, aber keine konkrete Überhangentscheidung. Der gelesene Pflanzenskill zeigt Fristsetzung und Nutzungsbeeinträchtigung als tragende Weichen.",
+    "reason": "Der vollständig geprüfte Mini verbindet Ortsbefund und Überhangprüfung nun mit gezielter Nachforderung und der Fertigstellung des bestellten Nachbarschreibens; Schnitt und Betreten bleiben gesondert zu prüfen.",
     "changes": [
       "Zweige und Wurzeln unterschieden und Beeinträchtigung konkretisiert.",
-      "Schnittfreigabe von Frist, örtlichen Schutzregeln und Zugang getrennt."
+      "Schnittfreigabe von Frist, örtlichen Schutzregeln und Zugang getrennt.",
+      "Neue Angaben zum Grundstück und zur Einwirkung in die betroffene Prüfung und das beauftragte Schreiben einarbeiten lassen."
     ],
-    "sha256": "e4e88ca0dcec49016bb471f78a27d564e922722d88bb98a0c10d2661a9bc4eb6"
+    "sha256": "49521a6a6017c06526dad390f9e7991ae7e3fd4474e7f92810878ce2393c4480"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständige Werkstatt wurde nach Ortsbefund, Anspruch und Duldung sowie Schreiben oder Verfahren gegliedert. Pflanzen, Einfriedung, Immissionen, Überbau und Notweg behalten jeweils eigene Prüfungen statt allgemeiner Praxisrouten.",
+    "changes": [
+      "Fehlenden Grenz- oder Einwirkungsnachweis gezielt klären und anschließend Aufforderung oder Einigung fertigstellen lassen.",
+      "Schlichtung, Beweissicherung und Klage vom konkreten Auftrag abhängig gemacht und doppelte allgemeine Ausgabetabellen entfernt."
+    ],
+    "sha256": "ccaca10ff8cf22e1f1d037c7a1317026c0c61709227073b305723b838eacc9c2"
   },
   "selection": {
     "positive": [

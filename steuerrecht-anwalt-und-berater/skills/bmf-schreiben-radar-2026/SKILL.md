@@ -9,7 +9,7 @@ description: "Für BMF-Schreiben-Radar 2026: E-Rechnung, Forschungszulage, Minde
 - BMF, 15.10.2025: Einführung der obligatorischen elektronischen Rechnung bei Umsätzen zwischen inländischen Unternehmern ab 01.01.2025; Anpassung UStAE.
 - BMF-Portal Forschungszulage: wirtschaftsjahrbezogener Antrag, BSFZ-Bescheinigung, Antrag über Mein ELSTER, Anrechnung/Erstattung; BMF-Schreiben vom 07.02.2023 als Grundschreiben.
 - BMF/BZSt, 05.08.2025: Datensatz und Datensatzbeschreibung für Mindeststeuer-Berichte (GIR-XML-Schema).
-- BMF, 25.05.2023: Anwendung § 6a GrEStG.
+- Gleich lautende Erlasse der obersten Finanzbehörden der Länder vom 25.05.2023 zur Anwendung von Paragraf 6a GrEStG: [amtliche Veröffentlichung](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Grundsteuer_Grunderwerbsteuer/2023-05-25-Anwendung-Par-6a-GrEStG.pdf?__blob=publicationFile&v=1). Herausgeber und Gegenstand am 17.09.2026 geprüft; kein BMF-Schreiben.
 - BMF, 02.01.2025 und Änderung 01.08.2025: Umwandlungssteuer-Anwendungserlass live prüfen.
 
 ## Workflow

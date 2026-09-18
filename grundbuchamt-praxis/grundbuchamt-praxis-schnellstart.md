@@ -11,16 +11,14 @@ Kernauftrag: Praxisplugin für Grundbuchamt, Grundbuchauszug und grundbuchtaugli
 - Nur Prompt gestartet: Bei zugänglichem Material zwischen Objekt und Beteiligte, Rechtsgeschäft und Form, Grundbuch und Rang wählen; ohne konkreten Auftrag mit Objekt und Beteiligte beginnen.
 - Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage stellen: zum Objekt und den Beteiligten, zum Rechtsgeschäft und seiner Form, zum Grundbuchstand und Rang sowie zum Empfänger. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
-
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Fehlende entscheidende Angaben zu Blatt, Antrag, Urkunde oder Beanstandung gezielt erfragen. Vorhandene Antworten übernehmen; neue wesentliche Widersprüche erlauben weitere kurze Fragen.
 
 ## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welches dingliche oder schuldrechtliche Ziel soll mit welchem Rechtsgeschäft erreicht werden.
 2. Kernprüfung in einem Durchgang: Welche Form, Zustimmung, Genehmigung oder Vollmacht ist Wirksamkeits- oder Vollzugsvoraussetzung; Welche Eintragung, Belastung oder Rangstelle trägt oder gefährdet das Ziel.
 3. Belege und Engpass zusammenführen: Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte; besonders kritisch ist: Grundbuchstand, Vertretungsmacht oder Identität des Verfügenden ist nicht sicher belegt.
-4. Erstes Arbeitsprodukt liefern: Grundbuchmatrix: Abteilung, laufende Nummer, Recht, Berechtigter, Rang, Löschungsweg, benötigte Urkunde und Risiko.
+4. Das bestellte Gutachten, Nachreichungsschreiben oder die Zwischenverfügungsantwort ausarbeiten. Eine Grundbuchübersicht nur ergänzen, soweit sie für die konkrete Rang- oder Nachweisfrage hilfreich ist.
 
 ## 1.3. Kernroute
 
@@ -58,16 +56,14 @@ Bei Erbfolge erlaubt Paragraf 35 Absatz 1 Satz 2 GBO grundsätzlich die öffentl
 - Paragraf 1113 Abs. 1 BGB — Hypothek; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1191 Abs. 1 BGB — Grundschuld; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
-## 1.7. Antwortform
+## 1.7. Nachweis ergänzen und Antwort fertigstellen
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix.
-1.7.2. Norm: BGB Paragraf 311b; BGB Paragraf 873 und Paragraf 925 mit dem entscheidenden Merkmal verbinden.
-1.7.3. Aktenfund: Für „Objekt und Beteiligte“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Form, Zustimmung, Genehmigung oder Vollmacht ist Wirksamkeits- oder Vollzugsvoraussetzung.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Grundbuchmatrix“. Nenne die Frist, die entscheidende Nachweislücke und die als Nächstes benötigte Unterlage.
+Fehlt bei der Berichtigung nach Erbfall die Eröffnungsniederschrift, diese gezielt anfordern und den vorhandenen Testamentstext bereits prüfen. Nach Eingang Erbfolge und Nachweisform abgleichen und das bestellte Berichtigungs- oder Nachreichungsschreiben fertigstellen. Ergibt sich ein entscheidender Widerspruch zu einer weiteren Verfügung, genau diesen klären; nicht nochmals sämtliche Unterlagen verlangen.
 
-## 1.8. Stop
+Bei einer Zwischenverfügung jede Beanstandung mit der betroffenen Urkunde verbinden. Fehlende Vollmachtsausfertigung oder Genehmigung gezielt nachfordern, danach die betroffene Voraussetzung und die Antwort aktualisieren. Fehlender Nachweis ist nicht automatisch fehlende Rechtsmacht. Bei einem Hindernis nur abhängige Teile vorläufig lassen und nach der Antwort fortsetzen; ein Gutachtenauftrag verlangt keine Beschwerde. Quellenprüfvermerke getrennt vom Empfängertext halten.
 
-Nur bei diesem Stop-Punkt unterbrechen: Grundbuchstand, Vertretungsmacht oder Identität des Verfügenden ist nicht sicher belegt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Eine vorhandene Werkstatt dient nur optional der Vertiefung. Liefere vollständige Sätze; Export: Times New Roman 11 pt, dezimale Gliederung. Keine eigenständige Einreichung, Erklärung oder Zahlung.
+## 1.8. Grenzen und Arbeitsmittel
+
+Ungeklärten Grundbuchstand, Rang oder Vertretungsmacht nicht als gesichert ausgeben; nur die betroffene Bewertung und Freigabe offenlassen. Werkstatt und weitere Skills sind optional. Vollständige Sätze; Export: Times New Roman 11 pt, dezimale Gliederung. Keine eigenständige Einreichung, Erklärung oder Zahlung.
+
+Nur verfügbare Werkzeuge nutzen und fehlenden Zugriff konkret benennen. Bei technischen Fehlern einen sinnvollen Alternativweg versuchen, sonst den bearbeitbaren Stand sichern; ohne Export Text liefern, keinen Dateilink erfinden. Ungeprüfte Teile nicht als freigegeben ausweisen.

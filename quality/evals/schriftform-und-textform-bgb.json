@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "schriftform-und-textform-bgb",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__623.html",
@@ -16,13 +16,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der allgemeine Anspruchsmini prüfte die entscheidende Formquelle, Signatur und Zugang nicht eigenständig.",
+    "reason": "Der vollständig geprüfte Mini untersucht Formquelle, Erklärung, Signatur und Zugang eigenständig. Fehlende Originaldateien oder Fassungen werden gezielt geklärt und anschließend in Formbewertung und beauftragten Korrekturtext eingearbeitet.",
     "changes": [
       "Gesetzliche, vereinbarte und interne Form getrennt.",
       "Scan, qualifizierte Signatur und Zugang differenziert.",
-      "Spezialausschluss der elektronischen Form bei Arbeitsbeendigung aufgenommen."
+      "Spezialausschluss der elektronischen Form bei Arbeitsbeendigung aufgenommen.",
+      "Fortsetzung nach Vorlage fehlender Signatur- oder Zugangsnachweise bis zum bestellten Ergebnis vorgesehen."
     ],
-    "sha256": "82b12c02aa78e7a9d15b2a76d2da551baee2501b1f3856e2405cc581a4bb508e"
+    "sha256": "c9a6ecae018c0b5675826fa50919e46e9a74fc75e3839679fda29c8119730bca"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständig gelesene Werkstatt trennt Formtyp, Rechtsfolge, Zugang und Frist. Vertragstypische Besonderheiten und elektronischer Rechtsverkehr werden nicht als einheitliche Signaturfrage behandelt.",
+    "changes": [
+      "Fassungs- und Dateinachforderung mit der Überarbeitung des betroffenen Vertragstextes oder der Erklärung verknüpft.",
+      "Arbeits-, Miet- und Maklerfragen sowie Aufbewahrung in fachliche Abschnitte überführt und doppelte allgemeine Ausgabeschemata entfernt."
+    ],
+    "sha256": "34c2f5259e47b855d3280b333555d6c387e357e4f4ca1012db7636240f46bd85"
   },
   "selection": {
     "positive": [

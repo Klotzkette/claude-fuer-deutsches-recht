@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "mittelstand-corporate-ma",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
@@ -11,12 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der gesamte Mini enthielt eine M&A-Route, aber keinen konkreten Vollzugsnachweis. Der gelesene Bedingungsskill vermischt vertragliche Fristen mit pauschalen gesetzlichen Folgen.",
+    "reason": "Vollständig gelesen: Vertragsbefund, Kaufpreisrechnung und Vollzugsnachweis werden getrennt und bis zur beauftragten Fassung bearbeitet.",
     "changes": [
-      "Bedingung, Nachweis und Verzichtsbefugnis getrennt.",
-      "Kaufpreis-Doppelzählung und unbelegte Vollzugsfreigaben als konkrete Kontrollen eingeführt."
+      "Buchungsantworten verändern Kaufpreis und Restzahlung; Bank- und Gremiennachweise führen zur aktualisierten Vollzugsliste statt zum Ende nach einer Nachforderung."
     ],
-    "sha256": "7e7939d16b546232ceb195c00f6c0196c2be3d192e8635eac2778d2a95228979"
+    "sha256": "c99d5c324b2a8b82300dd3774c7779bf191d9ead65a6c71380cc6803a616ab7f"
   },
   "selection": {
     "positive": [
@@ -61,5 +60,13 @@
       ],
       "target_skill": "signing-closing-conditions"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die gesamte Werkstatt einschließlich Personal, Beirat, Krise und Rechtsprechungsgrenzen wurde gelesen. Unterzeichnung ersetzt weder Bedingungseintritt noch Zahlung.",
+    "changes": [
+      "Datenraumbefunde führen zu konkreter Garantie, Freistellung oder Bedingung; neue Nachweise werden in Klausel und Gremienvorlage eingearbeitet, ohne zusätzliche Pflichtberichte."
+    ],
+    "sha256": "0bfa53cffe97cf77035a50a57f9efccf922f40e7f7d4f506d361170ea94ace59"
+  }
 }

@@ -3,89 +3,52 @@ name: kaltstart-triage
 description: "Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Hochschulrecht der Bundesländer."
 ---
 
-# Allgemein
+# 1. Hochschulrechtlichen Auftrag bearbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+Prüfe die beauftragte Hochschulentscheidung oder Vereinbarung landes- und satzungsbezogen. Erarbeite aus vorhandenen Unterlagen die gewünschte Beratung, Gremienvorlage, Vertragsfassung oder den begründeten Antrag.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1. Eingaben und Verfahrensstand
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Lies Bescheid, Ordnung, Protokoll, Bewertung oder Vertrag zuerst. Entnimm Bundesland, Einrichtung, Rolle, Verfahren, Bekanntgabe und Ziel den Dateien und bisherigen Antworten. Fehlende Angaben nur erfragen, wenn sie Zuständigkeit, Frist, Anspruch oder Ergebnis beeinflussen.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Eine E-Mail kann rechtlich anders einzuordnen sein als ihre Überschrift vermuten lässt; Inhalt und Entscheidungswirkung prüfen. Nahe Prüfungs-, Semester- oder Besetzungstermine zuerst berücksichtigen. Keine vollständige Neuaufnahme bei bereits klarem Mandat.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2. Fachliche Bearbeitung
 
-## Normenanker
+### 1.2.1. Norm und Verfahren
 
-Arbeitsfokus: **Allgemein**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Landeshochschulgesetz, Verordnung, Grundordnung, Prüfungs-, Fakultäts- oder Berufungsordnung und Einzelentscheidung unterscheiden. Fassung, Bekanntmachung, Inkrafttreten und Übergang prüfen. Wissenschaftsfreiheit, Selbstverwaltung, Ministerialaufsicht und Haushaltsbindung getrennt beurteilen.
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Ausbildungs- und Berufszugang.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Prüfungen.
-- `§ 16 HRG` — Prüfungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruch.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
+Artikel 5 Absatz 3 Satz 1, Artikel 12 Absatz 1 und Artikel 3 Absatz 1 GG sowie die im Ausgangsmaterial genannten Paragrafen 2, 4, 7, 15 und 16 HRG nur nach Prüfung ihrer einschlägigen aktuellen Bedeutung heranziehen. Landesrecht und konkrete Ordnung werden dadurch nicht ersetzt. Paragraf 70 Absatz 1 und Paragraf 123 Absatz 1 VwGO nach statthaftem Verfahren und Rechtsschutzziel anwenden, nicht reflexhaft Widerspruch oder Eilantrag vorsehen.
 
+### 1.2.2. Prüfung, Zulassung und Status
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Bei Prüfungsstreit Aufgaben, Bearbeitung, Korrektur und Bewertungsmaßstab vergleichen. Fehlt die bewertete Arbeit, diese gezielt anfordern oder das bestellte Akteneinsichtsschreiben erstellen. Nach Eingang Verfahrens-, Tatsachen- und Bewertungsfragen trennen und die beauftragte Begründung fertigstellen, ohne einen bestimmten Notenanspruch zu versprechen.
 
-## Wofür dieser Arbeitsgang da ist
+Bei Zulassung oder Exmatrikulation Voraussetzungen, Nachweise, Anhörung und Bekanntgabe prüfen. Nach ergänztem Leistungs- oder Zahlungsnachweis Statusbewertung aktualisieren und das bestellte Schreiben ausformulieren. Bei gesundheitlichen oder technischen Hindernissen Attest beziehungsweise Protokoll nur im erforderlichen Umfang erfragen und dem konkreten Nachteilsausgleich oder Verfahrenseinwand zuordnen.
 
-Kommandocenter für Hochschulgesetz, Satzung, Gremien, Zulassung, Studium, Personal, Forschung, Drittmittel und Aufsicht.
+### 1.2.3. Gremien, Personal und Forschung
 
-Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
+Bei Gremien Statusgruppen, Mitgliedschaft, Einladung, Befangenheit, Beschlussfähigkeit, Abstimmung und Zuständigkeit abgleichen. Fehlt eine Anwesenheitsliste, gezielt nachfordern; danach die erforderliche Mehrheit prüfen und Beschlussvorlage oder Beratung fertigstellen.
 
-## Spezialfokus
+Bei Drittmitteln, Berufung und Forschung Rechtekette, Ausstattung, Publikationsfreiheit, Haushaltsbindung und Dokumentation untersuchen. Fehlt eine Zusage oder Rechtevereinbarung, nach ihrem Wortlaut und der erklärenden Stelle fragen. Nach Antwort die betroffenen Vertragsbestimmungen oder Empfehlungen überarbeiten, statt beim Hinweis auf eine Lücke stehen zu bleiben.
 
-- **Konkreter Auftrag:** Startet Hochschulrecht für Universitäten, Hochschulen, Studenten, Lehrer, Kanzler, Präsidien und Rechtsabteilungen.
-- **Erste Trennlinie:** Ist das Problem wirklich Allgemein, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
-- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
-- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
-- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
+## 1.3. Quellen und Belege
 
-### Typische Fallen in diesem Gebiet
+Aktuelles Landesrecht und Satzungen aus amtlichen Portalen beziehungsweise offiziellen Bekanntmachungen prüfen. Akte, Protokoll, Bewertungsbogen, Beschluss, E-Mail, Attest oder IT-Nachweis mit Fundstelle einer konkreten Aussage zuordnen. Darlegungs- und Nachweisanforderungen nach dem jeweiligen Verfahren bestimmen, nicht aus einem anderen Hochschulbereich übertragen.
 
-- Landeshochschulgesetz, Grundordnung, Fakultäts-/Prüfungs-/Berufungsordnung und konkrete Gremienbeschlüsse strikt trennen.
-- Wissenschaftsfreiheit, Selbstverwaltungsrecht, Ministerialaufsicht und Haushaltsbindung jeweils gesondert abprüfen.
-- Bei Gremienfragen immer Statusgruppen, Befangenheit, Einladung, Beschlussfähigkeit, Protokoll und Zuständigkeit kontrollieren.
-- Bei Drittmitteln, Berufungen und Forschung nie ohne Rechtekette, Publikationsfreiheit, Compliance und Dokumentationsspur arbeiten.
+Entscheidungen nur mit geprüftem Gericht, Datum, Aktenzeichen und tragender Passage verwenden; keine blinden Literaturzitate. Die optional verfügbare `references/zitierweise.md` ergänzt die Zitierweise. Ungeprüfte Normfassung und fehlende Tatsache in einer getrennten Arbeitsnotiz auseinanderhalten.
 
-## Kaltstartfragen
+## 1.4. Fortsetzung und Endfassung
 
-- In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
-- Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
-- Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
-- Welche Tatsachen sind belegt und welche werden nur behauptet?
+Bei entscheidenden Lücken den belastbaren Teil vorläufig liefern und konkret erklären, welche Angabe noch benötigt wird. Antwort und vorhandene Belege abgleichen, betroffene Anträge oder Wertungen aktualisieren und bis zum bestellten Ergebnis weiterarbeiten. Weitere gezielte Rückfragen sind bei neuen entscheidenden Lücken zulässig; bereits Beantwortetes nicht erneut abfragen.
 
-## Arbeitslogik
+Das Ergebnis ist eine ausformulierte Beratung oder das bestellte Dokument, kein obligatorischer Fahrplan mit internen Prüffeldnamen. Eine kurze Rechtsauskunft verlangt keinen ungefragten Prozessentwurf. Empfängertexte von Quellenstatus und technischen Arbeitsnotizen trennen; Nutzerdateinamen beachten.
 
-1. **Normenkette bauen:** Landesrecht, untergesetzliche Verordnung, Satzung/Ordnung und konkrete Entscheidung trennen.
-2. **Verfahrensstand klären:** Antrag, Anhörung, Bescheid, Widerspruch, Remonstration, Eilverfahren, Klage oder interne Gremienphase einordnen.
-3. **Rechtspositionen sortieren:** Grundrechte, Teilhaberechte, Chancengleichheit, Selbstverwaltung, Elternrechte, Fürsorge, Datenschutz und Gleichbehandlung abgleichen.
-4. **Beweis prüfen:** Akte, Protokoll, Bewertungsbogen, Konferenzbeschluss, E-Mail, ärztliches Attest, Nachteilsausgleich oder IT-Log einer konkreten Aussage zuordnen.
-5. **Output liefern:** Entscheidungsvorlage, Widerspruch, Antrag, Fristenliste, Akteneinsichtsantrag, Gesprächsleitfaden, Klage-/Eilantragsgerüst oder Gremienmemo.
+Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung ausgeben, bei Text einen getrennten Exporthinweis geben. Keine Stichwortskelette als Endfassung. Einreichung, Kontaktaufnahme und verbindliche Gremienhandlung nur nach ausdrücklicher Freigabe.
 
-## Fachanker
+## 1.5. Beispiel
 
-- Primäre Anker: HRG, Hochschulgesetze der Länder, Wissenschaftsfreiheit Art. 5 Abs. 3 GG.
-- Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
+Ein Student bestellt einen Brief zur abgelehnten Leistungsanerkennung; vorhanden sind Bescheid und Leistungsübersicht, nicht die Modulbeschreibung. Benenne die betroffenen Module und frage gezielt nach deren Inhalt und Prüfungsform. Nach Eingang Vergleich und Begründung überarbeiten und den Brief fertigstellen, ohne die bloße Zahl gleicher Leistungspunkte mit nachgewiesener Gleichwertigkeit gleichzusetzen.
 
-## Typische Fehler
-
-- Bundesland oder Prüfungsordnung wird übersehen.
-- Eine E-Mail wird wie ein Verwaltungsakt behandelt oder ein Verwaltungsakt nur wie eine Information.
-- Bewertungs- und pädagogische Spielräume werden entweder zu weit oder zu eng verstanden.
-- Fristen laufen, während nur über Fairness diskutiert wird.
-
-## Ergebnisformat
-
-Erzeuge bevorzugt: Hochschulrechts-Fahrplan. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+Ohne weitere Skills anhand dieses Ablaufs weiterarbeiten. Fehlenden Datei- oder Quellenzugriff benennen und keine vollständige Prüfung behaupten. Ohne Export den vollständigen Text liefern.

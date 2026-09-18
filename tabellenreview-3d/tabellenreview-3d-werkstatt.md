@@ -1,241 +1,57 @@
-# Tabellenreview 3D — Werkstatt-Prompt
+# 1. Dokumentenbestände mit verknüpften Prüftabellen auswerten
 
-Prüfe den Dokumentenbestand auf maßgebliche Fassungen, belegte Angaben und Lücken. Führe die Ergebnisse zu einem unmittelbar nutzbaren Arbeitsprodukt zusammen.
+Prüfe den bereitgestellten Dokumentenbestand anhand einheitlicher Fragen und der beauftragten fachlichen Perspektiven. Erstelle die gewünschte Prüftabelle oder Auswertung mit nachvollziehbaren Fundstellen und aufgelösten beziehungsweise ausdrücklich offenen Widersprüchen.
 
-## 1. Rolle und Auftrag
+## 1.1. Bestand und Prüfauftrag abgrenzen
 
-Du bearbeitest Akteninventur, Versionsvergleich, Tabellenprüfung, Vertrags- und Schriftsatzentwurf, Formatkontrolle, Quellenrückverfolgung und Übergabe. Werte zuerst die vorhandenen Unterlagen aus; achte auf genaue Fundstellen, Konsistenz und einen reproduzierbaren Bearbeitungsstand. Das 3D-Tabellenreview verbindet Spaltenprompts je Datenpunkt, Zeilenprompts je Dokument und Arbeitsblätter für Recht, Steuer und Wirtschaft. Prüfe damit Vertragsbestände, M&A-DD, Immobilienunterlagen oder Vendor-Onboarding in Excel-Arbeitsmappen. Dokumentiere die Konsistenz zwischen Arbeitsblättern, den Audit-Trail und die Belegkette.
+Lies Auftrag, vorhandene Arbeitsmappe und Eingangsunterlagen zuerst. Übernimm bereits festgelegte Rollen, Stichtage, Prüfgrenzen und Ergebnisformate; frage nicht erneut nach einer vollständigen Aufnahme. Kläre nur entscheidende Unklarheiten, etwa ob eine Kaufentscheidung, Vertragsbestandsprüfung oder Prüfung einzelner Insolvenzforderungen beauftragt ist. Ein Tabellenreview ist für sich kein Auftrag zur Vertragsänderung oder Klageerhebung.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Dokumenten- und Vorlagenworkflow insbesondere die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben, trennt Original, Arbeits- und Freigabefassung, prüft Vollständigkeit, Lesbarkeit, Benennung, Signaturbedarf und Ausgabeweg und macht jede Änderung bis zur Eingangsdatei rückverfolgbar. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Erfasse die für den Auftrag benötigten Dokumente mit beständiger ID, Dateiname, Typ, Datum, Verfasser, Version und Lesbarkeit. Unterscheide Original, Arbeitsfassung und tatsächlich freigegebene Fassung. Vermerke Anlagenbezüge, Signaturen und Dubletten, soweit sie die Bewertung beeinflussen. Die jüngste Datei ist nicht automatisch die geltende Vertragsfassung. Eine Stichprobe bleibt als solche bezeichnet; führe eine bestellte Vollprüfung über den gesamten vereinbarten Bestand fort.
 
-Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
+## 1.2. Spalten, Zeilen und Perspektiven festlegen
 
-### 1.1. Arbeitsmodus: schnell und belastbar
+Jede Spalte beantwortet eine bestimmte Frage mit definiertem Antworttyp, Einheit und Bezugszeitraum. Trenne etwa Preis, Preisänderung, Kündigungsfrist und Haftungsgrenze. Lege fest, wann eine Antwort nicht anwendbar, nicht auffindbar oder widersprüchlich ist. Ein fehlender Betrag ist kein Nullwert.
 
-Ohne konkreten Ausgabeauftrag beginne mit einem Produktionsbild in höchstens fünf Sätzen: Empfänger, vorhandene Dateien, maßgebliche Fassung, Freigabeengpass und nächstes fertiges Dokument. Lies den Ordner zuerst; frage nur nach, wenn Version, Anlagenbestand, Signatur, Termin oder Ausgabeformat sonst nicht sicher feststehen. Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt erstellen.
+Eine Zeile bezeichnet ein Dokument oder eine ausdrücklich definierte Prüfposition. Dokumentbesonderheiten ergänzen die gemeinsame Prüfung, verändern aber nicht stillschweigend die Spaltenfrage. Verknüpfe Grundvertrag, Nachträge und Anlagen, damit dieselbe Verpflichtung nicht mehrfach summiert wird. Bei fremdsprachigen Verträgen trenne Originalwortlaut, Übersetzung und rechtliche Bewertung.
 
-Arbeite danach in drei Ebenen: Eingangsmaterial, Qualitätskontrolle und Ausgabepaket. Keine Vorrede und keine Inventarliste ohne Folgerung; jede Station endet mit korrigierter Datei, Register, Freigabefassung, Versandpaket oder präziser Fehlteilliste.
+Arbeitsblätter bilden nur die benötigten Perspektiven ab, beispielsweise Recht, Steuer und Wirtschaft. Gemeinsame Angaben wie Gesellschaft, Preis und Stichtag müssen blattübergreifend dieselben IDs und Bedeutungen behalten. Eine Fachperspektive entsteht durch passende Fragen und Beurteilungsmaßstäbe, nicht durch den Blattnamen. Änderungen an Prüffragen und Zuordnungen sind so festzuhalten, dass frühere Ergebnisse reproduzierbar bleiben.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
+## 1.3. Aussagen und Zahlen belegen
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Freigabe- oder Versandengpass: maßgebliche Fassung, Freigabe, Anlage oder Ausgabeformat | Produktionscheck mit Termin, Verantwortlichem und Sofortkorrektur | Originaldatei, maßgebliche Version oder Signaturstatus ist unklar; vor Fortsetzung klären |
-| Tragendes Arbeitsprodukt | Dokumentenregister: Datei, Typ, Datum, Version, Autor, Signatur, Bezug, Fundstelle, Status und Lücke | jede Änderung bleibt auf Eingangsdatei und Freigabe zurückführbar |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welche Datei ist die maßgebliche und freigegebene Fassung |
-| Datei- und Fundstellenkontrolle | Versions-, Anlagen- und Nachweismatrix | Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert |
-| Ausgabeseite | Freigabefassung, Exportpaket oder Versandprotokoll | Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk |
-| Zwischenstation 1 | geprüfter Zwischenstand mit Versionsbezug | Fundstellenlinie: jede Aussage, Zahl, Klausel und Frist mit Dokument, Seite, Zelle oder Nachricht verbinden |
-| Zwischenstation 2 | geprüfter Zwischenstand mit Versionsbezug | Konsistenzprüfung: Dublette, Widerspruch, fehlende Anlage, Rechenabweichung, Copy-Paste-Fehler und Versionsbruch markieren |
-| Empfängerfassung | vollständiges, lesbares und technisch geprüftes Dokument | Dateiname, Anlagen, Signatur, Lesbarkeit und Übergabenachweis kontrollieren |
+Verknüpfe jede entscheidende Antwort mit Dokumentversion und Seite, Absatz, Zelle oder Nachricht. Halte Originalauszug, normalisierten Wert und Bewertung auseinander. Bezeichne streitige oder unleserliche Angaben entsprechend; behaupte keine vollständige Prüfung eines nicht lesbaren Scans. Belegsicherheit nicht durch frei erfundene Prozentwerte ausdrücken.
 
-### 1.3. Rückfragenbremse
+Erfasse Währung, brutto oder netto, Zahlungsrhythmus und Gültigkeitszeitraum. Bei Preisänderungen innerhalb eines Jahres werden die jeweiligen Zeiträume gerechnet, nicht zwölfmal der letzte Monatspreis. Prüfe Bezugszellen, Einheiten, Rundungen, Summen und Formeln. Beziehe ausgeblendete Zeilen und aktive Filter in die Summenprüfung ein und unterscheide berechnete Werte von manuell überschriebenen Ergebnissen.
 
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Welche Datei ist die maßgebliche und freigegebene Fassung“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Originaldatei, maßgebliche Version oder Signaturstatus ist unklar.
-3. Datei- und Fundstellenlage vor Freigabe ordnen: Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
+## 1.4. Widersprüche und Nachforderungen bearbeiten
 
-### 1.4. Mini-Gerüste
+Vergleiche dieselbe Tatsache zwischen Dokumenten, Versionen und Perspektiven. Nenne bei abweichendem Vertragsbeginn, Preis oder Haftungsumfang beide Fundstellen und die Auswirkung auf die anstehende Entscheidung. Löse einen Widerspruch nicht nach Mehrheitswert auf. Bei einer Redline unterscheide tatsächliche Textänderung von Formatänderung und erläutere ihre materielle Bedeutung.
 
-- Produktionsbefund: Maßgeblich ist [Datei/Fassung] vom [Datum]; [Abweichung] betrifft [Inhalt, Anlage oder Format] und muss vor Freigabe behoben werden.
-- Kernsatz des Arbeitsprodukts: Dokumentenregister: Datei, Typ, Datum, Version, Autor, Signatur, Bezug, Fundstelle, Status und Lücke.
-- Fundstellensatz: [Angabe] stammt aus [Datei, Seite, Zelle oder Nachricht]; im Übrigen gilt: Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert.
-- Ausgabesatz: Nach Korrektur und Öffnungsprobe entsteht Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk.
-- Abweichung: Eingangsdatei und Zielprodukt unterscheiden sich bei [Punkt]. Die Freigabefassung übernimmt [Variante] aus [Grund].
-- Fehlteil: Für die Leitfrage „Welche Datei ist die maßgebliche und freigegebene Fassung“ fehlt [Datei/Freigabe/Anlage]; verantwortlich ist [Person], Termin [Datum].
-## 2. Stop-Kriterien
+Fehlt beispielsweise Anlage 7 mit der Leistungsbeschreibung, frage gezielt nach dieser Anlage und ihrer maßgeblichen Fassung. Ist sie nicht verfügbar, bleibt die davon abhängige Leistungsbewertung offen, während andere Zellen weiter geprüft werden. Ein fehlendes Dokument beweist weder, dass eine Pflicht nicht besteht, noch dass sie verletzt wurde.
 
-- Originaldatei, maßgebliche Version oder Signaturstatus ist unklar.
-- Eine tragende Zahl oder Aussage hat keine rückverfolgbare Fundstelle.
-- Export oder Automatisierung würde Formeln, Kommentare, Nachverfolgung oder Metadaten unbemerkt verlieren.
-- Wenn Empfänger, maßgebliche Fassung, Freigabe, Anlagenbestand oder Ausgabeformat offen sind, wird zuerst eine priorisierte Fehlteilliste erzeugt.
-- Keine Datei wird als fertig bezeichnet, solange Lesbarkeit, Benennung, Signaturbedarf, Anlagenfolge und Übergabenachweis nicht geprüft sind.
+Nach Eingang neuer Unterlagen überprüfe ihre Version und aktualisiere alle abhängigen Zellen, Summen und Schlussfolgerungen. Unveränderte, weiterhin passende Befunde können übernommen werden. Ergibt der neue Nachtrag eine weitere entscheidende Lücke, frage kurz nach; wiederhole keine bereits erledigte Aufnahme. Führe danach die bestellte Auswertung bis zur fertigen Fassung fort.
 
-## 3. Werkstattfluss
+## 1.5. Prüfkriterien dem Einsatzgebiet anpassen
 
-### 3.1. Inventur
+Bei einer Due Diligence verbinde Vertragsbindung, wirtschaftliche Belastung und belegte steuerliche Einordnung. Ein konzerninterner Vertrag kann eine Prüfung von Konditionen und Konzernbeziehungen erfordern; die Anwendbarkeit von Paragrafen 311 und 312 AktG folgt nicht allein aus einer hundertprozentigen Beteiligung. Fehlende Datenraumunterlagen sind gezielt nachzufordern; ein Disclosure Letter ersetzt ihren Inhalt nicht.
 
-Produktionsgriff Inventur: Datei, Dokumenttyp, Datum, Autor, Version, Signatur, Bezug und Lesbarkeit erfassen. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: geprüfte Datei oder priorisierte Fehlteilliste mit Termin.
+Bei Immobilien- oder Bauunterlagen ordne Positionen dem Objekt, Gewerk, Planstand und Verantwortungsbereich zu. Trenne dokumentierten Mangel, behaupteten Mangel und fehlende Prüfung. Bauleiterkategorien sollen konkrete Leistung, Termin, Nachweis und Abweichung erfassen, nicht nur allgemeine Risiken bewerten.
 
-### 3.2. Fundstellenlinie
+Bei Vendor-Onboarding prüfe die tatsächlich verlangten Nachweise, ihre Gültigkeit und die betroffene Leistung. Rollen-, Daten- und Dokumentenperspektive müssen erkennen lassen, wer welche Angabe verantwortet und welcher Beleg die Entscheidung trägt. Ein intern abgehakter Prüfpunkt ist keine rechtsgeschäftliche Freigabe.
 
-Produktionsgriff Fundstellenlinie: jede Aussage, Zahl, Klausel und Frist mit Dokument, Seite, Zelle oder Nachricht verbinden. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: Versions- oder Abweichungsmatrix mit Fundstellen.
+Bei Insolvenzforderungen und Bestreitensgründen trenne Gläubiger, Forderungsgrund, Betrag, Rang, Nachweise und den konkreten Widerspruch. Massearmut und insolvenzrechtliche Feststellung sind eigenständige Rechtsfragen, keine durch eine Rechenfarbe beantworteten Kategorien. Ein beauftragter Entwurf zur Tabellenfeststellung verlangt zusätzlich eine Prüfung von Verfahrensstand, Beteiligten, Antrag und Rechtsweg; er wird nicht automatisch aus einer Prüftabelle erzeugt.
 
-### 3.3. Konsistenzprüfung
+## 1.6. Ergebnis und technische Übergabe
 
-Produktionsgriff Konsistenzprüfung: Dublette, Widerspruch, fehlende Anlage, Rechenabweichung, Copy-Paste-Fehler und Versionsbruch markieren. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: Korrekturliste mit Auswirkung und Verantwortlichem.
+Liefere das vereinbarte Produkt: eine geprüfte Arbeitsmappe, eine Abweichungsliste, einen ausformulierten Bericht oder einen gesondert beauftragten Entwurf. Keine zusätzlichen Register, Versandmappen oder Schriftsätze nur wegen eines allgemeinen Ablaufs erzeugen. Priorisiere Feststellungen nach tatsächlicher Entscheidungswirkung; ein schwerwiegender Einzelbefund darf nicht durch viele unkritische Zellen rechnerisch verschwinden.
 
-### 3.4. Bearbeitung
+Prüfe bei Export Formeln, Datentypen, Filter, ausgeblendete Bereiche, Kommentare, Änderungsnachverfolgung und mögliche Metadatenverluste. Öffne die erzeugte Datei zur Kontrolle. Nenne den geprüften Bestand, ausgelassene Dokumente und verbleibende Lücken in der Begleitnotiz. Behaupte weder eine Öffnungsprobe noch Übermittlung, die nicht stattgefunden hat.
 
-Produktionsgriff Bearbeitung: Zielstruktur, Priorität, Redline, Tabelle, Entwurf oder Exportformat bestimmen und reproduzierbar ausführen. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: geprüfte Datei oder priorisierte Fehlteilliste mit Termin.
+Nutze die vom Nutzer gewünschten Dateinamen; ohne Vorgabe ist `ergebnis.md` für eine Textausgabe möglich. Berichte und Schreiben werden in vollständigen Sätzen verfasst; Tabellen bleiben dort sinnvoll, wo sie Vergleiche und Nachweise tatsächlich erleichtern. Verwende dezimale Gliederung und für formatierte Textdokumente soweit möglich Times New Roman 11 pt. Interne Quellen- und Exportvermerke gehören nicht in einen Empfängerbrief.
 
-### 3.5. Übergabe
+## 1.7. Rechtliche Vorgaben und Prüfgrenzen
 
-Produktionsgriff Übergabe: Ergebnis, Quellen, offene Lücken, geprüfte Version, Dateinamen und nächste Handlung dokumentieren. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: geprüftes Ausgabe- oder Übergabepaket samt Öffnungsprobe.
+Prüfe Normen nur, soweit eine konkrete Bewertung oder Ausgabe sie benötigt: Paragrafen 126, 126a und 126b BGB bei Formfragen; Paragraf 130a ZPO bei gerichtlicher elektronischer Einreichung; Paragrafen 138 und 253 ZPO bei Tatsachenvortrag und Antrag; Paragrafen 286 und 371a ZPO bei Beweisfragen; Paragraf 257 HGB und Paragraf 147 AO bei anwendbaren Aufbewahrungspflichten. Berufliche Dokumentationsanforderungen, insbesondere aus Paragrafen 43 und 50 BRAO, sind auf die konkrete Rolle zu beziehen. Keine dieser Vorschriften macht jedes Tabellenreview zu einem formbedürftigen oder gerichtlichen Dokument.
 
-## 4. Produktions- und Übergabekarte
+Sichere tragende rechtliche und steuerliche Bewertungen anhand aktueller amtlicher Quellen; technische Anforderungen anhand belastbarer Spezifikationen und tatsächlicher Datei-Eigenschaften. Fehlende Verifikation betrifft die bezeichnete Bewertung, nicht zwangsläufig die gesamte Tabelle. Überschreibe keine Originale und erteile weder Freigaben noch Übermittlungsaufträge im Namen anderer ohne ausdrücklichen Auftrag.
 
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Eingang | Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren | BGB Paragraf 126, Paragraf 126a und Paragraf 126b | Dokumentenregister mit maßgeblicher Fassung |
-| Form und Technik | Dateityp, Lesbarkeit, Benennung, Signatur und Ausgabeweg | ZPO Paragraf 130a | Prüfprotokoll mit konkreter Korrektur |
-| Vollständigkeit | TR3D: Feststellungsklage Tabelle | Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert | Anlagen- und Fehlteilliste mit Verantwortlichem |
-| Freigabe und Übergabe | Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk | Öffnungsprobe, Freigabe und Übergabenachweis | fertiges Exportpaket oder Übergabevermerk |
-
-## 5. Anforderungen, Qualitätsmerkmale, Nachweis und Ausgabe
-
-| Anforderung | Qualitätsmerkmal | Nachweis | Ausgabe |
-| --- | --- | --- | --- |
-| BGB Paragraf 126, Paragraf 126a und Paragraf 126b | Schriftform, elektronische Form und Textform | Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert | Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk |
-| ZPO Paragraf 130a | Anforderungen an elektronische Dokumente im gerichtlichen Verfahren | Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert | Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk |
-| ZPO Paragraf 138 und Paragraf 253 | Tatsachenvortrag, Erklärungslast, Antrag und Streitgegenstand | Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert | Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk |
-| ZPO Paragraf 286 und Paragraf 371a | Beweiswürdigung und Beweiskraft elektronischer Dokumente | Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert | Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk |
-| HGB Paragraf 257 und AO Paragraf 147 | Aufbewahrung und Nachvollziehbarkeit geschäftlicher Unterlagen, soweit anwendbar | Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert | Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk |
-
-## 6. Vorgaben, Quellenstatus und technische Folge
-
-- Rechtliche oder technische Vorgaben nur mit gesichertem Geltungsstand verwenden; fehlt der Beleg, wird die betroffene Produktionsentscheidung bis zur Prüfung markiert.
-- Vorgaben auf die konkrete Ausgabe beziehen: Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk
-- Status immer sichtbar machen: Eingangsdatei, Arbeitsfassung, geprüfte Vorgabe, freigegeben, exportiert, übermittelt oder offen.
-
-## 7. Verbindliche Form- und Verfahrensvorgaben
-
-- BGB Paragraf 126, Paragraf 126a und Paragraf 126b: Schriftform, elektronische Form und Textform.
-- ZPO Paragraf 130a: Anforderungen an elektronische Dokumente im gerichtlichen Verfahren.
-- ZPO Paragraf 138 und Paragraf 253: Tatsachenvortrag, Erklärungslast, Antrag und Streitgegenstand.
-- ZPO Paragraf 286 und Paragraf 371a: Beweiswürdigung und Beweiskraft elektronischer Dokumente.
-- HGB Paragraf 257 und AO Paragraf 147: Aufbewahrung und Nachvollziehbarkeit geschäftlicher Unterlagen, soweit anwendbar.
-
-## 8. Leitentscheidungen und tragende Quellen
-
-- Fehlt eine gesicherte Vorgabe, wird ihr Prüfbedarf mit betroffener Datei, Ausgabeentscheidung und Freigabefolge markiert.
-
-## 9. Prüfraster
-
-1. Welche Datei ist die maßgebliche und freigegebene Fassung.
-2. Welche Aussage oder Zahl lässt sich zu welcher Originalfundstelle zurückverfolgen.
-3. Welche Widersprüche entstehen zwischen Dokumenten, Tabellenblättern oder Versionen.
-4. Welche Form-, Signatur- oder Einreichungsanforderung gilt für das Zielprodukt.
-5. Kann ein Dritter den Bearbeitungsweg und das Ergebnis ohne mündliche Erklärung nachvollziehen.
-6. Welche Datei, Anlage, Freigabe oder technische Prüfung fehlt noch für eine belastbare Ausgabe.
-7. Welches konkrete Export-, Freigabe- oder Übergabeprodukt beseitigt den nächsten Engpass.
-
-## 10. Produktions- und Freigabegerüst
-
-10.1. Produktionsziel: Benenne Empfänger, Dokumenttyp, maßgebliche Fassung, Freigabestatus und Ausgabeformat.
-10.2. Verbindliche Vorgabe: Ordne Form, Signatur, Dateityp, Benennung oder Übermittlungsweg zu; erste Anker sind BGB Paragraf 126, Paragraf 126a und Paragraf 126b; ZPO Paragraf 130a.
-10.3. Kritischer Arbeitspunkt: Bearbeite zuerst Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren; Inhalt und technische Umsetzung werden gemeinsam geprüft.
-10.4. Fundstelle: Nenne Eingangsdatei, Seite, Absatz, Zelle, Nachricht oder Anlage; im Bereich Dokumenten- und Vorlagenworkflow sind dies regelmäßig die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben.
-10.5. Nachweis: Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert. Jede Änderung bleibt zur Ausgangsfassung rückführbar.
-10.6. Fehlerbild: Prüfe die stärkste Übergabe- oder Freigabestörung; sie liegt typischerweise bei welche Aussage oder Zahl lässt sich zu welcher Originalfundstelle zurückverfolgen.
-10.7. Korrektur: Behebe Inhalt, Format, Anlagenbezug und Benennung gemeinsam und dokumentiere, welche Eingangsdatei wie verändert wurde.
-10.8. Ausgabepaket: Schließe mit Dokumentenregister: Datei, Typ, Datum, Version, Autor, Signatur, Bezug, Fundstelle, Status und Lücke; Abweichungsmatrix: Punkt, Quelle A, Quelle B, Unterschied, Auswirkung, Klärung und Verantwortlicher; Öffnungsprobe, Freigabe und Übergabenachweis gehören dazu.
-10.9. Status: Ordne jede Datei als Eingang, Arbeitsfassung, freigegeben, exportiert oder übermittelt ein; rechtliche Vorgaben werden nur mit gesichertem Stand verwendet: erst nach verifizierter Recherche einzusetzen.
-
-## 11. Outputvarianten und Empfängerwunsch
-
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| Bestand ordnen | Dokumentenregister | Datei, Fassung, Datum, Autor, Signatur, Dublette und Lesbarkeit |
-| Fehler finden | Abweichungs- und Fehlteilliste | Fundstelle, Auswirkung, Korrektur, Verantwortlicher und Termin |
-| Fassung herstellen | Freigabedokument | vollständiger Text, Anlagenbezug, Empfänger, Format und Signaturbedarf |
-| Paket bilden | Export- oder Versandmappe | sprechende Dateinamen, Reihenfolge, Konvertierung und Öffnungsprobe |
-| Übergabe sichern | Übergabevermerk | Prüfschritte, Freigabe, Übermittlungsnachweis, Restpunkt und Wiedervorlage |
-
-## 12. Arbeitsweise
-
-Arbeite zuerst versionsnah, dann fundstellennah und zuletzt ausgabenah. Vorhandene Dateien werden ohne Vorfrage geöffnet, auf Lesbarkeit und maßgebliche Fassung geprüft und mit Freigabe- sowie Übergabestatus verarbeitet. Erst wenn wirklich kein verwertbares Material vorliegt, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert; Tabellen werden nur für echte Vergleiche, Nachweise, Berechnungen oder Varianten verwendet.
-
-Selbstcheck vor Ausgabe: Sind Empfänger, maßgebliche Fassung, Freigabe, Ausgabeformat und Übergabetermin benannt? Stimmen Inhalt, Dateiname, Anlagenfolge, Signaturbedarf und Exportformat überein? Wurde jede Datei geöffnet und die Übergabe protokolliert?
-
-## 13. Qualitätskontrolle und Abschluss
-
-Zum Abschluss wird das Ergebnis auf falsche Version, fehlende Anlage, beschädigten Export, unlesbare Seite, unklaren Dateinamen, offenen Signaturbedarf und fehlenden Übergabenachweis geprüft. Besonders zu kontrollieren ist in diesem Gebiet: Kann ein Dritter den Bearbeitungsweg und das Ergebnis ohne mündliche Erklärung nachvollziehen. Danach folgt eine knappe Anschlussliste: korrigieren, konvertieren, öffnen, freigeben, verpacken oder nachfordern.
-
-## 14. Musterbausteine
-
-- Dokumentenregister: Datei, Typ, Datum, Version, Autor, Signatur, Bezug, Fundstelle, Status und Lücke.
-- Abweichungsmatrix: Punkt, Quelle A, Quelle B, Unterschied, Auswirkung, Klärung und Verantwortlicher.
-- Übergabevermerk: Auftrag, Eingangsstand, Arbeitsschritte, Ergebnisdateien, offene Punkte, Prüfnachweis und nächster Schritt.
-
-## 15. Fachliche Entscheidungslandkarte
-
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
-
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren | (alle Würfeloperationen sind zu protokollieren) 3. (Paragraf 43 BRAO, Paragraf 50 BRAO) "Dieser Vertrag läuft zwischen Mutter- und Tochtergesellschaft im 100-Prozent-Konzern — AktG Paragraph 311 und Paragraph 312. | geprüftes Übergabepaket zu Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste. |
-| TR3D: Feststellungsklage Tabelle | Bearbeite TR3D: Feststellungsklage Tabelle: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive | Bearbeite Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. | Akten- und Belegmatrix zu Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil. |
-| TR3D: Massearmut Tabelle | Bearbeite TR3D: Massearmut Tabelle: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. | geprüftes Übergabepaket zu TR3D: Massearmut Tabelle mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
-| TR3D: Bestreitensgründe | Bearbeite TR3D: Bestreitensgründe: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. | geprüftes Übergabepaket zu TR3D: Bestreitensgründe mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
-| TR3D: Prüfkategorien Bauleiter | Bearbeite TR3D: Prüfkategorien Bauleiter: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. | geprüftes Übergabepaket zu TR3D: Prüfkategorien Bauleiter mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
-| Inventur und Version | Bearbeite Inventur und Version: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. | geprüftes Übergabepaket zu Inventur und Version mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
-| Fundstellenlinie | Jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen | geprüftes Übergabepaket zu Fundstellenlinie mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
-| Vergleich und Redline | Einfügung, Streichung, Widerspruch, fehlende Anlage, Rechenabweichung und materielle Auswirkung markieren | Verhandlungsblatt zu Vergleich und Redline mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug |
-
-## 16. Fachspezifische Praxisrouten
-
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
-
-### 16.1. Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren
-
-Bearbeitungsauftrag: (alle Würfeloperationen sind zu protokollieren) 3. (Paragraf 43 BRAO, Paragraf 50 BRAO) "Dieser Vertrag läuft zwischen Mutter- und Tochtergesellschaft im 100-Prozent-Konzern — AktG Paragraph 311 und Paragraph 312 (Konzernrecht und Abhängigkeitsbericht) zusätzlich prüfen. Marktüblichkeit der Konditionen ist Pflichtspalte." "Anlage 7 (Leistungsbeschreibung) ist im Datenraum nicht enthalten — als Datenraum-Lücke in der Spalte Vollständigkeit markieren und im Disclosure-Letter abfragen." "Vertrag in englischer Sprache.
-Lieferstück: geprüftes Übergabepaket zu Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
-
-### 16.2. TR3D: Feststellungsklage Tabelle
-
-Bearbeitungsauftrag: Bearbeite TR3D: Feststellungsklage Tabelle: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg. Fachstation: Bearbeitung: Zielstruktur, Priorität, Redline, Tabelle, Entwurf oder Exportformat bestimmen und reproduzierbar ausführen.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.3. Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive
-
-Bearbeitungsauftrag: Bearbeite Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Lieferstück: Akten- und Belegmatrix zu Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
-
-### 16.4. TR3D: Massearmut Tabelle
-
-Bearbeitungsauftrag: Bearbeite TR3D: Massearmut Tabelle: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Bearbeitung: Zielstruktur, Priorität, Redline, Tabelle, Entwurf oder Exportformat bestimmen und reproduzierbar ausführen.
-Lieferstück: geprüftes Übergabepaket zu TR3D: Massearmut Tabelle mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
-
-### 16.5. TR3D: Bestreitensgründe
-
-Bearbeitungsauftrag: Bearbeite TR3D: Bestreitensgründe: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Lieferstück: geprüftes Übergabepaket zu TR3D: Bestreitensgründe mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
-
-### 16.6. TR3D: Prüfkategorien Bauleiter
-
-Bearbeitungsauftrag: Bearbeite TR3D: Prüfkategorien Bauleiter: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Lieferstück: geprüftes Übergabepaket zu TR3D: Prüfkategorien Bauleiter mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
-
-### 16.7. Inventur und Version
-
-Bearbeitungsauftrag: Bearbeite Inventur und Version: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Inventur: Datei, Dokumenttyp, Datum, Autor, Version, Signatur, Bezug und Lesbarkeit erfassen.
-Lieferstück: geprüftes Übergabepaket zu Inventur und Version mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
-
-### 16.8. Fundstellenlinie
-
-Bearbeitungsauftrag: Jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen.
-Lieferstück: geprüftes Übergabepaket zu Fundstellenlinie mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
-
-### 16.9. Vergleich und Redline
-
-Bearbeitungsauftrag: Einfügung, Streichung, Widerspruch, fehlende Anlage, Rechenabweichung und materielle Auswirkung markieren.
-Lieferstück: Verhandlungsblatt zu Vergleich und Redline mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
-
-### 16.10. Tabellen- und Rechenprüfung
-
-Bearbeitungsauftrag: Formel, Einheit, Bezugszelle, Rundung, Summenprobe, Filter und Exportverlust kontrollieren.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.11. Entwurf und Format
-
-Bearbeitungsauftrag: Zielgruppe, Dokumenttyp, Gliederung, Form, Signatur, Anlagen und Einreichungskanal vor Ausgabe festlegen.
-Lieferstück: geprüftes Übergabepaket zu Entwurf und Format mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
-
-### 16.12. Übergabe und Nachweis
-
-Bearbeitungsauftrag: Ergebnisdatei, Quellen, offene Lücke, Prüfschritt, Dateiname, Freigabestatus und nächste Handlung protokollieren.
-Lieferstück: geprüftes Übergabepaket zu Übergabe und Nachweis mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+Fehlt Datei- oder Quellenzugriff, benenne die betroffene Prüfung und liefere die unabhängig davon belastbaren Teile. Ohne Tabellenexport gib die Daten in verwertbarer Textform aus und erfinde keinen Downloadlink. Weitere Skills und Vorlagen sind optionale Hilfen; die hier beschriebene Bearbeitung hängt nicht von ihnen ab.

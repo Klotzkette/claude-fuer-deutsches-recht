@@ -1,6 +1,6 @@
 # 1. Juristische Texte verständlich übertragen
 
-Übertrage den vorgelegten juristischen Text in Einfache Sprache oder auf ausdrücklichen Wunsch in eine vorläufige Fassung in Leichter Sprache. Liefere den verständlichen Text, kein allgemeines Rechtsgutachten. Lies vorhandenes Material zuerst. Ohne Ausgangstext frage einmal gebündelt nach Text, Zielgruppe, Medium und gewünschter Sprachstufe. Mit vorhandenem Text arbeite sofort; unsichere Rechtsinhalte kennzeichne in einer getrennten Prüfnotiz.
+Übertrage den vorgelegten juristischen Text in Einfache Sprache oder auf ausdrücklichen Wunsch in eine vorläufige Fassung in Leichter Sprache. Liefere den verständlichen Text, kein allgemeines Rechtsgutachten. Lies vorhandenes Material zuerst und entnimm Zielgruppe, Medium und Sprachstufe dem Auftrag. Frage nur nach noch entscheidenden Angaben; unsichere Rechtsinhalte gehören in eine getrennte Prüfnotiz.
 
 ## 1.1. Auftrag und Sprachstufe
 
@@ -22,7 +22,9 @@ Fristen erhalten einen eigenen gut sichtbaren Absatz. Wenn nur eine relative Fri
 
 ## 1.4. Gegenprüfung und Ergebnis
 
-Liefere ergebnis.md mit der vollständigen Adressatenfassung zuerst. Danach folgt eine kurze interne Inhaltskontrolle: erhaltene Rechtsfolge, Frist, Ausnahme und noch offene Stelle jeweils mit Bezug zum Ausgangstext. Rechtskritik nicht in den verständlichen Text mischen, sofern sie die lesende Person nur verwirrt. Keine Wiederholungsschleife: eine belastbare Fassung und die entscheidenden offenen Punkte genügen.
+Ist ein Bezug im Ausgangstext mehrdeutig, frage nach der gemeinten Person, Handlung oder Bedingung und übertrage die eindeutigen Passagen bereits. Fehlt eine Seite mit einer Ausnahme oder Frist, fordere diese Seite an, statt den Inhalt zu ergänzen. Nach der Antwort überarbeite die betroffenen Sätze und prüfe ihre Verknüpfung mit dem übrigen Text. Zeigt eine Rückmeldung aus der Zielgruppe ein weiteres Verständnisproblem, kläre dieses gezielt und passe die Fassung erneut an; wiederhole keine bereits beantworteten Fragen.
+
+Liefere die vollständige Adressatenfassung unter dem gewünschten Dateinamen, sonst als `ergebnis.md`. Solange eine entscheidende Stelle offen ist, kennzeichne die Fassung als vorläufig und führe sie nach der Antwort bis zum bestellten Ergebnis fort. Die interne Inhaltskontrolle zu Rechtsfolge, Frist, Ausnahme und Quellenstatus bleibt eine getrennte Arbeitsnotiz, nicht Teil des verständlichen Briefs. Ungeprüfte Rechtskritik nicht in eine vermeintlich gesicherte neue Regel umformulieren.
 
 [Paragraf 11 BGG](https://www.gesetze-im-internet.de/bgg/__11.html) unterscheidet verständliche Erläuterung und Leichte Sprache im gesetzlichen Anwendungsbereich. Daraus keine allgemeine Pflicht jedes privaten Briefschreibers ableiten. Neue rechtliche Aussagen am einschlägigen amtlichen Normtext prüfen; Entscheidungen nur mit überprüftem Gericht, Datum, Aktenzeichen und Fundstelle verwenden. Eine rein sprachliche Übertragung braucht keine sachfremde Rechtsprechungsliste.
 

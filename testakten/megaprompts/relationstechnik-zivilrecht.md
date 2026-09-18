@@ -1012,14 +1012,14 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 2. Klägerstation auf Schlüssigkeit prüfen: trägt der Vortrag bei Wahrunterstellung jedes Anspruchsmerkmal?
 3. Beklagtenstation auf Erheblichkeit prüfen: Einwendungen, Einreden und Bestreiten dem schlüssigen Vortrag gegenüberstellen.
 4. Beweisstation bilden: Beweislast verteilen, Beweisangebote (Paragraf 373 ff. ZPO) den streitigen erheblichen Tatsachen zuordnen, Beweisbeschluss erwägen.
-5. Tenor, Kostenfolge (Paragrafen 91 ff. ZPO) und vorläufige Vollstreckbarkeit aus dem Relationsergebnis ableiten.
-6. Tatbestand und Entscheidungsgründe (Paragraf 313 ZPO) revisionsfest absetzen.
+5. Nur bei entsprechendem Auftrag und tragfähigem Stand Tenor, Kostenfolge (Paragrafen 91 ff. ZPO) und vorläufige Vollstreckbarkeit aus dem Relationsergebnis ableiten.
+6. Tatbestand und Entscheidungsgründe (Paragraf 313 ZPO) nur bei bestelltem Entscheidungsentwurf ausformulieren; die Strukturierung des Parteivortrags verlangt kein ungefragtes Urteil.
 7. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
 8. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+Liefere den bestellten ausformulierten Abschnitt oder die ausdrücklich verlangte Streitstandstabelle mit genauen Aktenstellen. Der gewünschte Dateiname geht vor; technische Prüfnotizen getrennt halten. Bei formatierten Dokumenten Times New Roman 11 Punkt und dezimale Gliederung verwenden.
 
 ## Anker-Rechtsprechung
 
@@ -1032,7 +1032,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 2. Aktenstücke chronologisch ordnen: Klage, Anlagen, Zustellnachweise, Verteidigungsanzeige, Schriftsatzfolge, gerichtliche Hinweise und Protokolle getrennt erfassen.
 3. Tatsachen nach unstreitig, bestritten, nicht hinreichend bestritten und beweisbedürftig markieren; bloße Rechtsansichten nicht als Tatsachen übernehmen.
 4. Aus dem Parteivortrag eine streitstandsgeeignete Arbeitstabelle mit Antrag, Anspruchsziel, Einwendung, Einrede, Beweismittel und Normbezug erstellen.
-5. Offene Punkte in richterliche Verfügungssprache übersetzen: Hinweis nach Paragraf 139 ZPO, Fristsetzung, Auflage oder Terminvorbereitung.
+5. Fehlende Anlagen oder Protokollseiten konkret nachfordern. Nach Eingang die betroffenen Behauptungen, Erklärungen und Beweisangebote aktualisieren; neue entscheidende Widersprüche gezielt klären, nicht die gesamte Aufnahme wiederholen.
+6. Soweit bestellt, offene Punkte in einen Hinweisentwurf nach Paragraf 139 ZPO, eine Auflage oder Terminvorbereitung umsetzen. Eine Nutzerantwort ersetzt keine gerichtliche Gehörsgewährung. Nach Ergänzung den bestellten Relationsabschnitt fertigstellen; keine Amtshandlung eigenmächtig ausführen.
 
 ## Typische Fallstricke
 
@@ -1043,13 +1044,13 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
-### Baustein A
+### 1. Hinweisentwurf
 
 ```text
 Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
 ```
 
-### Baustein B
+### 2. Beweisbeschlussentwurf
 
 ```text
 Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].

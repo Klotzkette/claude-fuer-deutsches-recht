@@ -1,10 +1,12 @@
 # 1. Einsätze, Vertragsoption und Prämien nachweisen
 
-Prüfen Sie meinen deutschen Profifußballfall, in dem Einsatzschwellen über Verlängerung und Vergütung entscheiden. Erstellen Sie ein belegtes Einsatzkonto und eine getrennte Bestands- und Zahlungsbewertung. Der wirtschaftliche Schwerpunkt ist die zusätzliche Saison beziehungsweise streitige Prämie, nicht eine allgemeine Vertragsdurchsicht.
+Prüfen Sie meinen deutschen Profifußballfall, in dem Einsatzschwellen über Verlängerung und Vergütung entscheiden. Erstellen Sie ein belegtes Einsatzkonto und eine getrennte Bestands- und Zahlungsbewertung.
 
 ## 1.1. Vertrag und Tatsachen zuerst
 
-Lesen Sie Vertrag, Nachträge, Optionsmitteilung, offizielle Spielberichte, Trainingszuordnung, medizinische Einsatzfreigaben und Trainerkorrespondenz. Erfassen Sie vertretene Seite, Liga, Vertragsende, Saison, genauen Schwellenwortlaut, automatische Verlängerung oder Option mit Ausübungsfrist und Ausschlussklauseln. Fragen Sie fehlende Kernangaben einmal gebündelt ab; keine lange Interviewfolge.
+Der wirtschaftliche Schwerpunkt ist die zusätzliche Saison beziehungsweise streitige Prämie, nicht eine allgemeine Vertragsdurchsicht.
+
+Lesen Sie Vertrag, Nachträge, Optionsmitteilung, offizielle Spielberichte, Trainingszuordnung, medizinische Einsatzfreigaben und Trainerkorrespondenz. Entnehmen Sie vertretene Seite, Liga, Vertragsende, Saison, genauen Schwellenwortlaut, automatische Verlängerung oder Option mit Ausübungsfrist und Ausschlussklauseln dem Material. Fragen Sie nur nach fehlenden Angaben, die Einsatzanrechnung, Frist oder Anspruch beeinflussen.
 
 ## 1.2. Einsatzkonto und Vereitelungsprüfung
 
@@ -20,6 +22,12 @@ Berechnen Sie sichere Prämien, streitige Zusatzprämien und nominellen Bruttove
 
 Prüfen Sie Vertragsende und gegebenenfalls Dreiwochenfrist nach Paragraf 17 TzBfG getrennt von Optionsausübung, Ausschlussfristen und Verjährung. Keine beliebige Verbands- oder Schiedsfrist auf arbeitsgerichtliche Ansprüche übertragen.
 
+### 1.2.1. Fehlende Spielberichte und Trainerangaben
+
+Fehlt ein entscheidender Spielbericht, fordern Sie ihn für die konkrete Begegnung an und rechnen die belegten Einsätze vorläufig. Nach Eingang prüfen Sie Minuten und Anrechnung, aktualisieren Verlängerungs- und Prämienschwellen getrennt und schreiben das bestellte Dokument fertig.
+
+Bleibt eine Nachricht zu den Aufstellungsgründen ohne Kontext, fragen Sie nach dem konkreten Verlauf oder Gegenbeleg. Eine neue entscheidende Lücke darf eine weitere gezielte Frage auslösen; bereits geklärte Tatsachen nicht erneut aufnehmen. Fehlende Motive nicht durch eine unterstellte Sparanweisung ersetzen.
+
 ## 1.3. Quellen
 
 Startpunkte: [Paragraf 162 BGB](https://www.gesetze-im-internet.de/bgb/__162.html), [Paragraf 17 TzBfG](https://www.gesetze-im-internet.de/tzbfg/__17.html). Weitere Vertrags- und Vergütungsnormen am Fall live prüfen.
@@ -28,4 +36,8 @@ BAG, Urteil vom 16.01.2018, Az. 7 AZR 312/16, [amtlicher Volltext](https://www.b
 
 ## 1.4. Arbeitsergebnis und Grenzen
 
-Liefern Sie `ergebnis.md` mit Sachverhalt, Einsatzkonto, Schwellenrechnung, Beweismatrix, getrennten wirtschaftlichen Szenarien, Fristenblatt und ausformuliertem Forderungs- oder Erwiderungsentwurf. Kennzeichnen Sie offen bleibende Motive statt Erfolg zu garantieren. Nach einem Rechen- und Klauselcheck abschließen. Keine Option ausüben, Forderung anmelden oder Klage einreichen. Vollständige Sätze, dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Keine Zusatzmodule erforderlich.
+Liefern Sie das beauftragte Gutachten, Forderungs- oder Erwiderungsschreiben unter dem gewünschten Dateinamen; ohne Benennung verwenden Sie `ergebnis.md`. Begründen Sie Vertragsbestand und Zahlungsansprüche getrennt. Einsatzkonto, Schwellenrechnung und Belegvergleich nur im erforderlichen Umfang erläutern oder als Anlage beifügen. Ein Gutachtenauftrag verlangt keinen ungefragten Zahlungsantrag.
+
+Kennzeichnen Sie offen bleibende Motive statt Erfolg zu garantieren. Nach neuen Antworten Klausel, Statistik, Rechnung und Text erneut abgleichen und bis zum bestellten Ergebnis weiterarbeiten. Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz halten. Keine Option ausüben, Forderung anmelden, Erklärung versenden oder Klage einreichen.
+
+Vollständige Sätze, dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Keine Zusatzmodule erforderlich; ohne Export den vollständigen Text liefern und keine Dateilinks erfinden.

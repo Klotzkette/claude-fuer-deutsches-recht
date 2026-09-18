@@ -19,7 +19,7 @@ Zuerst Kontovertrag, Verbraucher- oder Unternehmerstatus, Belastungen, Reklamati
 4. Prüfe den Nachweis nach Paragraf 675w BGB: Authentifizierung, Aufzeichnung, Verbuchung und Störungsfreiheit. Fordere vorgangsbezogen vorhandene Freigabeanzeigen, Geräte-Registrierungsprotokolle, Sitzungszuordnung, starke Kundenauthentifizierung und unterstützende Beweismittel an. IP-Adresse oder erfolgreiches Verfahren allein identifiziert nicht notwendig den zustimmenden Menschen. Kein pauschaler Anspruch auf den gesamten Quellcode des Banksystems.
 5. Prüfe den Gegenanspruch nach Paragraf 675v BGB getrennt: konkrete Pflicht, Handlung, subjektiver Vorwurf, Kausalität und Schaden. Warntext, Sichtbarkeit, Täuschungssituation und individuelles Verständnis würdigen. Weder Phishing automatisch als grob fahrlässig noch die erfolgreiche Authentifizierung als Entlastung behandeln. Absätze 2, 4 und 5, insbesondere fehlende starke Kundenauthentifizierung und Nutzung nach Sperranzeige, vor Haftungsbetrag prüfen. 50 EUR sind kein pauschaler Selbstbehalt jeder Reklamation.
 6. Rechne je Vorgang Belastung minus endgültiger Rückfluss gleich offener Erstattungsbetrag. Vorläufige Gutschrift, endgültige Erstattung, Rückholung und Bankgegenforderung getrennt buchen. Zinsen und Gebühren nur mit eigenem Grund und Nachweis. Dasselbe Geld nicht zweimal verlangen oder abziehen.
-7. Höchstens eine gebündelte Rückfrage zu ausschlaggebenden Lücken. Liefere danach begründete Positionen und gezielte Beleganforderung; nur die unsichere Zahlung bleibt offen. Keine Kontosperre, Überweisung, Strafanzeige, Klage oder Kommunikation eigenmächtig veranlassen.
+7. Fordere bei fehlender Freigabeanzeige die Unterlage zur konkreten Zahlung an. Nach Eingang Anzeige, Geräte- und Transaktionszuordnung mit der Kundendarstellung abgleichen, Autorisierung und Gegenanspruch erneut prüfen und Rechnung sowie bestellten Empfängertext aktualisieren. Bleibt etwa die Endgültigkeit eines Rückflusses unklar, hierzu gezielt nachfragen. Weitere kurze Runden bei entscheidenden neuen Lücken zulassen, keine erneute Aufnahme. Unabhängig belegte Zahlungen vorläufig bearbeiten und nach Klärung bis zum beauftragten Ergebnis fortsetzen; fehlende Bankunterlagen nicht als Beweis eines ungesicherten Kundenablaufs behandeln. Kontosperre, Überweisung, Strafanzeige, Klage oder Kommunikation nur nach Freigabe veranlassen.
 
 Bei zusätzlich geltend gemachtem Schadensersatz nach Artikel 82 Absatz 1 der Datenschutz-Grundverordnung prüfe den behaupteten Datenschutzverstoß, den konkreten Schaden und deren ursächlichen Zusammenhang anhand gesonderter Belege. Leite die Kausalität nicht allein aus dem Ergebnis der Erstattungsprüfung nach Paragraf 675u BGB ab.
 
@@ -33,9 +33,11 @@ Optional ergänzt die [Zitierweise](../../references/zitierweise.md) die Quellen
 
 ## 1.4. Ausgabeformat
 
-`ergebnis.md` enthält Sachverhalt, Überweisungstabelle, Beweisketten mit konkreten Lücken, Erstattungsrechnung, Gegenanspruchsprüfung und ausformulierten Reklamations- oder Verteidigungsentwurf. Jede Tatsachenvariante nennt den entscheidenden Beleg und ihre finanzielle Auswirkung. Internes Risiko nicht ungeprüft in das Außenschreiben übernehmen.
+Das bestellte Gutachten oder den vollständigen Reklamations- beziehungsweise Verteidigungstext unter dem gewünschten Dateinamen liefern; ohne Vorgabe `ergebnis.md` verwenden. Überweisungstabelle, Erstattungsrechnung und Gegenanspruchsprüfung nur in erforderlichem Umfang beifügen. Jede entscheidende Tatsachenvariante nennt Belegbedarf und finanzielle Auswirkung.
 
-Ausformulierungspflicht: vollständige Sätze, keine Skelette. Formatstandard: Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen und Exporthinweis bei Markdown. Nur tatsächlich erzeugte Dateien verlinken.
+Ein Gutachtenauftrag verlangt keinen ungefragten Klageentwurf. Quellenstatus, technische Grenzen und interne Risiken getrennt vom Empfängertext dokumentieren.
+
+Ausformulierungspflicht: vollständige Sätze, keine Skelette. Formatstandard: Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen und Exporthinweis bei Markdown. Ohne Dateiexport den bestellten Reklamations- oder Verteidigungstext samt erforderlicher Zahlungsrechnung vollständig in der Antwort liefern. Nur tatsächlich erzeugte Dateien verlinken.
 
 ## 1.5. Beispiele
 

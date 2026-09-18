@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "krankenhausrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/khg/__8.html",
@@ -11,13 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der institutionsbezogene Einstieg ist brauchbar. Die Förderroute brauchte einen Status- und Finanzierungsabgleich; sachfremde pauschale Aufbewahrungsanker wurden entfernt.",
+    "reason": "Der vollständige Mini wurde auf Planaufnahme, Förderstatus und belegte Finanzierungslücke geprüft.",
     "changes": [
-      "Planaufnahme, Investitionsprogramm, Förderbescheid und Auszahlung getrennt.",
-      "Finanzierungslücke aus belegten Mitteln statt Förderhoffnungen rechnen.",
-      "Keine einheitliche Förderquote oder Verwendungsnachweisfrist unterstellen."
+      "Fehlende Plananlagen, Personal- oder Kostenangaben gezielt klären und danach das gewünschte Schreiben vervollständigen."
     ],
-    "sha256": "86fa7ca40f096254ea89dc17bfbae71a7b01dc0f4677508d084eeb82754f8bff"
+    "sha256": "9660526780bfaa97477a3fe57c4fbec59f27aa5af8b89cf96ec1919e8adf712c"
   },
   "selection": {
     "positive": [
@@ -62,5 +60,13 @@
       ],
       "target_skill": "investitionsfoerderung-einzelfoerderung"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde einschließlich Budget, Pflege, Notfall, Qualität und Patientenschnittstellen gelesen.",
+    "changes": [
+      "Pflegebudget und Sicherstellungszuschläge zutreffend zugeordnet; pauschale Finanzierungs- und Aufbewahrungsbehauptungen entfernt."
+    ],
+    "sha256": "b2766fe2ccb7fcfcdf9d3902cb95f9c370852be13a3c2bbd5a662a73a8da9e9a"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "handelsvertreterrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/hgb/__87c.html",
@@ -11,13 +11,12 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der alte Mini führte zuerst durch Kaufmannsstatus und Register statt durch das konkrete Provisionsverhältnis.",
+    "reason": "Mini vollständig gelesen: Ausführungs- und Stornodaten werden geschäftsbezogen ergänzt; Provision, nachvertraglicher Anspruch und Ausgleich bleiben getrennt.",
     "changes": [
-      "Geschäftsbezogenen Soll-Ist-Abgleich eingeführt.",
-      "Abrechnung, Buchauszug, Auskunft und Einsicht differenziert.",
-      "Ausgleich von nachvertraglicher Provision und pauschaler Jahresprovision abgegrenzt."
+      "Neue Geschäftsdaten mit Anspruchszuordnung, Sollprovision und fertiggestelltem Schreiben verbunden.",
+      "Zugangsnachweis der Ausgleichsanmeldung von fehlenden Berechnungsdaten unterschieden."
     ],
-    "sha256": "961576da7de0e0e7d070a8ca714559f44fefe74b99183d672c52666176288eb1"
+    "sha256": "2a16674996138ec269f7f9f2ff2e5b69e311b3685bb6f019635668b9763c93e7"
   },
   "selection": {
     "positive": [
@@ -62,5 +61,15 @@
       ],
       "target_skill": "abrechnung-und-buchauszug"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Gesamte Werkstatt einschließlich CRM, Delkredere und Auslandsbezug gelesen. Informationsrechte werden nicht als pauschale Datensammlung behandelt; Nachforderung führt zur konkreten Berechnung oder Vertragsregel.",
+    "changes": [
+      "Buchauszug, ergänzende Auskunft und Einsicht nach Voraussetzungen getrennt.",
+      "Nach Rückgabe-, Wettbewerbs- oder Delkrederevereinbarung betroffene Haftung und Außenfassung aktualisieren lassen.",
+      "Alte Fristen- und Datenherausgabezuordnungen ausdrücklich weiter als Prüfbedarf geführt."
+    ],
+    "sha256": "5280687fd4adae64e6600d53992c993082ea7b54b214ed3c32062a08fca78e27"
+  }
 }

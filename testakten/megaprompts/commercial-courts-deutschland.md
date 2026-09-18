@@ -388,13 +388,15 @@ _Für Forumwahl gegenüber Schiedsgericht: ordnet Norm, Beweislast und Gegenargu
 
 ## Einstieg
 
-Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
+Lies Vereinbarungen und Verfahrensunterlagen zuerst. Kläre nur die danach offenen, für die Forumwahl entscheidenden Punkte:
 
 1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
 2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
 3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
 4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
-5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
+5. Fehlt die vollständige Fassung der maßgeblichen Gerichtsstands- oder Schiedsvereinbarung?
+
+Nach Eingang prüfe Bindung und tatsächliche Wahlmöglichkeiten erneut und aktualisiere die Empfehlung. Neue entscheidende Vollstreckungs- oder Sprachfragen kurz klären, ohne beantwortete Angaben zu wiederholen. Liefere das bestellte Forumgutachten vollständig; Tabellen sind nur Vergleiche, keine Pflichtausgabe. Keine Klage oder Prozesshandlung allein aus der Forumempfehlung ableiten. Quellenprüfstatus separat dokumentieren.
 
 ## Arbeitsworkflow
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "festlandchina-wirtschaftsverkehr",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2012/1215/oj/deu",
@@ -11,13 +11,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die allgemeine IPR-Routine stellte Brüssel-Ia zu pauschal vor einen Festlandchinafall und ließ Vertragspartneridentität offen.",
+    "reason": "Vollständig geprüft: Geklärte Vertragspartner, Zahlungsempfänger und Sprachfassungen werden bis zum bestellten Vertrag oder Beratungsbrief verarbeitet. Die individuelle China-Prüfung bleibt unverändert.",
     "changes": [
       "Registernamen, Handelsgesellschaft und Zahlungsempfänger getrennt.",
       "Drittstaatenbeklagte und lokale Anerkennung gesondert geprüft."
     ],
-    "sha256": "f6a513588f14606c821168c3518c34520ebcab30e8aeed56656cf737fba98fd3"
+    "sha256": "5ab1db29e1c7734cca9ef4a196777349181950032ceceb91db1f0ca0117c80f3"
   },
+  "workshop_review": {"verdict":"revised","reason":"Die vollständige Prüfung bestätigte Fragen zu Identität und Sprachfassungen; die zusätzliche Stationsproduktpflicht passte nicht zum einzelnen Vertragsauftrag.","changes":["Identitätsabgleich und Forumprüfung in das bestellte Dokument führen lassen; offene lokale Rechtsfragen von belegten Parteiangaben getrennt."],"sha256":"52208838ad5f14d1e68d336e736a6fbe0076677c054ccf8bf5f0b4cbfb1ee8ee"},
   "selection": {
     "positive": [
       "Prüfe Vertragspartner und Zahlungsweg beim Einkauf in Shenzhen.",

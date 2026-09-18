@@ -706,8 +706,8 @@ def workflow_selfcheck(profile: ThemenProfil) -> str:
 def workflow_method_text(profile: ThemenProfil) -> str:
     family = workflow_family(profile)
     common_end = (
-        "Erst wenn wirklich kein verwertbares Material vorliegt, werden höchstens vier "
-        "gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert; Tabellen "
+        "Fehlende entscheidende Angaben werden gezielt erfragt. "
+        "Jede Antwort wird in ganzen Sätzen formuliert; Tabellen "
         "werden nur für echte Vergleiche, Nachweise, Berechnungen oder Varianten verwendet."
     )
     if family == "source":
@@ -1000,7 +1000,7 @@ def schnellstart_bedienlogik(
         f"- Nur Prompt gestartet: Bei zugänglichem Material zwischen {minimum} wählen; ohne konkreten Auftrag mit {route} beginnen.",
         "- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.",
         "",
-        f"Ohne verwertbares Material höchstens eine gebündelte Frage zu {minimum} und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.",
+        f"Fehlende Angaben zu {minimum} und Empfänger gezielt klären. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.",
         "",
         PORTABLE_EXECUTION,
         "",
@@ -1065,7 +1065,7 @@ def werkstatt_ergonomy_text(profile: ThemenProfil) -> str:
     }.get(family, "Arbeitsstand mit Belegstelle")
 
     rows = [
-        f"| {words['priority_label']}: {eilname} | {words['priority_output']} | {engpass}; vor Fortsetzung klären |",
+        f"| {words['priority_label']}: {eilname} | {words['priority_output']} | {engpass}; nur den davon abhängigen Schritt zurückstellen, unabhängige Teile weiterbearbeiten. Fehlende Angaben gezielt klären und nach der Antwort den betroffenen Teil bis zum bestellten Dokument fortsetzen |",
         f"| Tragendes Arbeitsprodukt | {produkt} | {trace_requirement} |",
         f"| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | {einstieg} |",
         f"| {words['proof_label']} | {words['proof_output']} | {beweis} |",
@@ -7435,16 +7435,6 @@ def build_werkstatt(
         lines += [""] + practice_routes_lines(routes, 16)
 
     text = "\n".join(lines).strip() + "\n"
-    if len(text.encode("utf-8")) < 12 * 1024 and "Ausgabeformate für schnelle Lieferung" not in text:
-        text = text.replace(
-            "\n".join(WERKSTATT_TEMPO_BLOCK).rstrip(),
-            "\n".join(WERKSTATT_TEMPO_BLOCK).rstrip() + "\n\n" + werkstatt_ergonomy_text(profile).rstrip(),
-            1,
-        )
-    if len(text.encode("utf-8")) < 12 * 1024 and "Schlusskontrolle für Tempo" not in text:
-        text = text.rstrip() + "\n\n" + werkstatt_final_check_block(text).rstrip() + "\n"
-    if len(text.encode("utf-8")) < 12 * 1024 and "Vertiefungsmodus für belastbare Ausgabe" not in text:
-        text = text.rstrip() + "\n\n" + werkstatt_depth_block(text).rstrip() + "\n"
     return sanitize(compact_werkstatt(text))
 
 
@@ -7497,24 +7487,7 @@ def compact_schnellstart(text: str) -> str:
     if byte_len(text) <= MAX_FAST:
         return text
 
-    def shorten_kernroute(match: re.Match[str]) -> str:
-        lines = match.group(0).splitlines()
-        steps = [line for line in lines if re.match(r"^\d+\. ", line)]
-        return "\n## 3. Kernroute\n\n" + "\n".join(steps[:4]) + "\n"
-
-    text = re.sub(
-        r"\n## 3\. Kernroute\n\n(?:\d+\..*\n)+",
-        shorten_kernroute,
-        text,
-        count=1,
-    )
-    if byte_len(text) <= MAX_FAST:
-        return text
-
-    text = re.sub(r"\nZielprodukt:.*\n", "\n", text, count=1)
-    if byte_len(text) <= MAX_FAST:
-        return text
-
+    # Kernroute und Zielprodukt sind keine entbehrlichen Kürzungsreserven.
     raise ValueError(
         f"Schnellstart lässt sich nicht vollständig unter {MAX_FAST} Bytes verdichten: "
         f"{byte_len(text)} Bytes"
@@ -7684,7 +7657,7 @@ def build_schnellstart(
         "",
         "## 8. Stop",
         "",
-        f"Nur bei diesem Stop-Punkt unterbrechen: {clean(profile.stop[0], 170).rstrip('.') if profile.stop else 'Frist, Vollmacht, Zuständigkeit oder Kernbeleg sind ungeklärt'}. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Für die Vertiefung dient die Werkstatt desselben Plugins.",
+        f"Bei diesem Hindernis den abhängigen Arbeitsschritt zurückstellen: {clean(profile.stop[0], 170).rstrip('.') if profile.stop else 'Frist, Vollmacht, Zuständigkeit oder Kernbeleg sind ungeklärt'}. Den übrigen belegten Teil liefern und die benötigte Klärung benennen. Nach ihrer Antwort den betroffenen Schritt wieder aufnehmen. Die Werkstatt desselben Plugins ist eine optionale Vertiefung, keine Voraussetzung.",
         "",
     ]
     text = sanitize("\n".join(lines).strip() + "\n")
@@ -7934,6 +7907,8 @@ def enrich_protected_werkstatt(plugin_dir: Path) -> bool:
 
     mf = manifest(plugin_dir)
     slug = mf.get("name") or plugin_dir.name
+    if has_individual_review(plugin_dir, slug) or slug in load_protected():
+        return False
     path = plugin_dir / f"{slug}-werkstatt.md"
     if not path.exists():
         return False
@@ -7983,6 +7958,8 @@ def normalize_protected_schnellstart(plugin_dir: Path) -> bool:
         if not 2500 <= path.stat().st_size < 7500:
             raise ValueError(f"{slug}: individuell geprüfter Schnellstart außerhalb der Größengrenzen")
         return False
+    if slug in load_protected():
+        return False
     before = path.read_text(encoding="utf-8", errors="ignore")
     updated = ensure_title_first(prose_umlauts(before))
     updated = re.sub(
@@ -8002,7 +7979,7 @@ def normalize_protected_schnellstart(plugin_dir: Path) -> bool:
     guide = (
         "Bedienregel: Dateien und Ordner zuerst gezielt lesen. Konkrete Aufträge direkt "
         f"ausführen; sonst zu {routes} routen. Große Ordner: Teilstand und offene Dateien. "
-        "Ohne Material höchstens eine gebündelte Frage. Folgewunsch ohne Neustart, "
+        "Fehlende entscheidende Angaben gezielt klären. Folgewunsch ohne Neustart, "
         "geänderte Fassungen neu prüfen. " + PORTABLE_EXECUTION
     )
     title_end = updated.find("\n")
@@ -8046,10 +8023,6 @@ def main() -> int:
             skipped_slugs.append(slug)
             continue
         if slug in protected:
-            # Der Haupttext bleibt handkuratiert. Nur der klar markierte,
-            # fachmaterialspezifische Vertiefungsblock wird reproduzierbar ergänzt.
-            written += int(enrich_protected_werkstatt(plugin_dir))
-            written += int(normalize_protected_schnellstart(plugin_dir))
             skipped += 1
             skipped_slugs.append(slug)
             continue
@@ -8058,6 +8031,10 @@ def main() -> int:
         schnell = build_schnellstart(plugin_dir, skill_material)
         if byte_len(schnell) > MAX_FAST:
             problems.append(f"{slug}: Schnellstart {byte_len(schnell)} Bytes")
+            continue
+        if byte_len(werkstatt) > MAX_WERKSTATT:
+            problems.append(f"{slug}: Werkstatt {byte_len(werkstatt)} Bytes")
+            continue
         (plugin_dir / f"{slug}-werkstatt.md").write_text(werkstatt, encoding="utf-8")
         (plugin_dir / f"{slug}-schnellstart.md").write_text(schnell, encoding="utf-8")
         written += 2

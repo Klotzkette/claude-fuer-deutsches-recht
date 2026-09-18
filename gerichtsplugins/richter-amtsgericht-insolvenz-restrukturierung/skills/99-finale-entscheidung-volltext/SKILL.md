@@ -3,102 +3,49 @@ name: 99-finale-entscheidung-volltext
 description: "Für Finale Entscheidung als Volltext (Beschluss Insolvenz oder Restrukturierung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Finale Entscheidung als Volltext (Beschluss Insolvenz oder Restrukturierung)
+# 1. Insolvenz- oder Restrukturierungsbeschluss vollständig entwerfen
 
-## Zweck
+## 1.1. Entscheidungsauftrag und Aktenstand
 
-Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern als versandfertigen Volltext im richtigen Layout — so, wie er das Gericht verlassen würde. Die Entscheidung wird zur Unterschrift fertig gebaut: mit Rubrum, vollständigem Tenor, Tatbestand oder Sachverhalt, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung.
+Formuliere die konkret beauftragte gerichtliche Entscheidung als vollständigen Entwurf zur richterlichen Prüfung. Lies Antrag, Aktenfeststellungen, Anhörungen, Gutachten und vorhandenen Tenorentwurf; andere Skills müssen nicht zuvor durchlaufen werden.
 
-Gegenstand: Beschluss in einer Insolvenz- oder Restrukturierungssache.
+Bestimme, ob Eröffnung, Sicherung, Eigenverwaltung, Schutzschirm, Planbestätigung oder eine andere Verfahrensentscheidung ansteht. Ein vollständiger Text ist keine erlassene Entscheidung. Nicht für jeden Beschluss eine aus Zivilurteilen übernommene Kosten-, Vollstreckbarkeits- und Streitwertformel verwenden.
 
-## Rechtlicher Rahmen
+## 1.2. Fehlende Grundlage aufklären
 
-Paragrafen 27, 270, 270b InsO für Eröffnung, Eigenverwaltung und Schutzschirm; Paragrafen 38, 39 FamFG für Beschlussform; Paragrafen 31 ff. StaRUG für Restrukturierungsplan.
+Gleiche Antrag, Zuständigkeit, Eröffnungsgrund und Kostendeckung getrennt ab. Bei Sicherungsmaßnahmen konkretes Risiko, Geeignetheit und Umfang feststellen. Bei Planentscheidungen Vergleichsrechnung, Beteiligung und Einwendungen prüfen.
 
-## Eingangsvoraussetzungen
+Fehlt eine entscheidende Zahl oder Anhörung, benenne die erforderliche gerichtliche Aufklärung und arbeite den bereits tragfähigen Textteil vorläufig aus. Nach Eingang der Antwort aktualisiere Feststellungen, Würdigung und Ausspruch und vollende den bestellten Beschluss. Neue entscheidende Lücken dürfen weitere gezielte Fragen erfordern; keine erfundenen Tatsachen und kein pauschaler Abbruch des gesamten Dokuments.
 
-Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein. Insbesondere müssen vorliegen:
+## 1.3. Passender Rechtsrahmen
 
-- Rubrum mit allen Parteien, Vertretern und Aktenzeichen;
-- vollständig erfasster Sachverhalt und Streitstand;
-- geprüfte Anspruchsgrundlagen oder Tatbestandsmerkmale mit Subsumtion;
-- gewürdigte Beweise oder Akten;
-- Tenor-Skizze mit Entscheidungsformel zu Hauptsache, Kosten und vorläufiger Vollstreckbarkeit oder Rechtsmittelbelehrung.
+Für Eröffnung Paragraf 27 InsO, für Eigenverwaltung Paragrafen 270 ff. und für den Schutzschirm die aktuelle Regelung in Paragraf 270d InsO prüfen. Restrukturierungssachen und Planinstrumente nach den jeweils einschlägigen StaRUG-Vorschriften behandeln.
 
-Fehlt eine dieser Grundlagen, weist der Skill darauf hin und unterbricht die Volltext-Erstellung, statt fehlende Inhalte zu erfinden.
+Für das Insolvenzverfahren gilt ergänzend die ZPO nach Paragraf 4 InsO. FamFG Paragrafen 38 und 39 nicht ungeprüft als allgemeine Grundlage dieser Beschlüsse verwenden. Rechtliche Aussagen, Rechtsbehelf und Fristen am geltenden amtlichen Text verifizieren; `references/zitierweise.md` bei Zugriff beachten.
 
-## Aufbau des Volltextes
+## 1.4. Entscheidungsaufbau
 
-### 1. Briefkopf und Rubrum
+Verwende die zutreffende Gerichtsbezeichnung, Aktenzeichen und Beteiligtenangaben aus der Akte. Datum und Namen nicht erfinden. Rubrum, Ausspruch, Gründe, erforderliche Nebenentscheidungen und Belehrung richten sich nach dem konkreten Verfahren; Strafurteils- oder Familiensachenbausteine gehören nicht hierher.
 
-Gerichtsbezeichnung in der ersten Zeile (zum Beispiel „Amtsgericht München"), Aktenzeichen, Verkündungsdatum, vollständiges Rubrum mit Parteien, Prozessbevollmächtigten, Streitgegenstand und Spruchkörper.
+Formuliere den Ausspruch bestimmt und widerspruchsfrei. Beim Eröffnungsentwurf Schuldner, Eröffnungsgrund, Verwalterbestellung sowie tatsächlich erforderliche Aufforderungen, Termine und Bekanntmachungsangaben anhand der geprüften Voraussetzungen aufnehmen. Eine unbekannte Person nicht als bestellt ausweisen.
 
-### 2. Tenor (Entscheidungsformel)
+Stelle in den Gründen feststehenden Sachverhalt, Einwendungen, Belege und rechtliche Würdigung nachvollziehbar dar. Offene Streitpunkte nicht in vermeintlich unstreitige Feststellungen umwandeln. Bei einer abweichenden Gutachtenbewertung die tragende Begründung ausführen, nicht nur das Ergebnis austauschen.
 
-Der Tenor wird vollständig ausformuliert. Er ist die rechtskraftfähige Anordnung. Beispiel für diesen Spruchkörper:
+Rechtsbehelf, Frist, Form, Adressat und erforderliche Belehrung für gerade diese Entscheidung prüfen. Kein nicht statthaftes Rechtsmittel erfinden. Unterschriftszeile und gegebenenfalls Vertretungsvermerk nur anhand tatsächlicher Angaben vorbereiten.
 
-1. Über das Vermögen der Schuldnerin wird das Insolvenzverfahren eröffnet.
-2. Zum Insolvenzverwalter wird Rechtsanwalt N.N. bestellt.
-3. Die Insolvenzgläubiger werden aufgefordert, ihre Forderungen bis zum [Datum] anzumelden.
-4. Erster Berichts- und Prüfungstermin wird auf den [Datum, Uhrzeit] anberaumt.
+## 1.5. Kontrolle und Endfassung
 
-Der Tenor enthält zwingend: Hauptausspruch zur Sache, Kostenentscheidung, ggf. Aussprache zur vorläufigen Vollstreckbarkeit, ggf. Streitwertfestsetzung.
+Kontrolliere Übereinstimmung von Ausspruch und Gründen, zutreffende Beteiligte, Beträge, Daten, Bedingungen und Nebenentscheidungen. Neue Antworten müssen in allen betroffenen Abschnitten berücksichtigt sein. Materiell entscheidende offene Punkte verhindern die Bezeichnung als entscheidungsreif, nicht die weitere Ausarbeitung des belastbaren Teils.
 
-### 3. Tatbestand oder Sachverhalt
+Liefere den vollständig ausformulierten Entwurf, keine bloße Gliederung oder Votumsliste. Nutzerdateinamen gehen vor; `ergebnis.md` ist nur ein Standard ohne Vorgabe. Technische Quellenstatus und verbleibende Bearbeitungshinweise separat, nicht als Teil der Entscheidungsgründe ausgeben.
 
-Knappe, sachlich-distanzierte Darstellung des unstreitigen Sachverhalts und des streitigen Parteivortrags. Bei Beschlüssen entsprechend „Gründe I."; bei Strafurteilen die Feststellungen zum Tatgeschehen. Verwende den Imperfekt für Geschehensschilderung, das Präsens für Antrag und Verfahrensstand.
+Sachliche deutsche Gerichtssprache, echte Umlaute, ausgeschriebenes Wort Paragraf und ausschließlich dezimale Gliederung verwenden. Formatierte Texte in Times New Roman 11 Punkt; bei Markdown als Exporthinweis. Kein Erlass, Versand oder keine Veröffentlichung ohne zuständige richterliche Prüfung und ausdrückliche Freigabe.
 
-### 4. Entscheidungsgründe
+## 1.6. Beispiel und Zugriff
 
-Strenge Subsumtionsstruktur: Anspruchsgrundlage oder Tatbestandsmerkmal, Tatbestandsvoraussetzungen, Subsumtion mit Belegen aus den Akten, Ergebnis. Einreden und Einwendungen am Ende der jeweiligen Prüfungsebene. Bei Strafurteilen Beweiswürdigung und Strafzumessung getrennt darstellen.
+Ändert eine ergänzende Bankauskunft die verfügbaren Mittel, rechne die betroffenen Positionen neu und prüfe, ob der bisher vorbereitete Eröffnungsausspruch noch trägt. Passe Feststellungen und Begründung gemeinsam an.
 
-### 5. Nebenentscheidungen
-
-Kosten, vorläufige Vollstreckbarkeit, Streitwertfestsetzung. Bei Familien- und Sozialsachen die jeweils einschlägigen Kostenregeln.
-
-### 6. Rechtsmittelbelehrung
-
-Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat. Niemals weglassen, niemals abkuerzen.
-
-### 7. Unterschriftenzeile
-
-Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
-
-## Prozessuale Glanzkontrolle
-
-Vor der finalen Entscheidung wird zwingend geprüft:
-
-1. Antrag, Eröffnungsgrund, Zuständigkeit, Gläubigerinteresse und Massekostendeckung sind getrennt.
-2. Sicherungsmaßnahmen nach Paragraf 21 InsO sind erforderlich, geeignet, verhältnismäßig und befristet.
-3. Gutachtenauftrag, Anhörung und vorläufige Verwaltung sind aktenkundig begründet.
-4. Eigenverwaltung, Schutzschirm, Plan oder Restrukturierungspfad werden nicht vermischt.
-5. Beschlusswirkungen, Bekanntmachung, Rechtsmittel und Vollzug sind eindeutig.
-
-## Format und Stil
-
-- Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).
-- Sachlich, knapp, in deutscher Gerichtssprache.
-- Generisches Maskulinum.
-- Paragrafenzeichen ausgeschrieben als „Paragraf".
-- Aktenzeichen Punkt- oder Schrägstrich-Stil, niemals Komma.
-- Keine Doppelsterne für Fettschrift im Fliesstext.
-
-## Ergebnis
-
-Ein vollständiger, versandfertiger Entscheidungstext, der von Rubrum bis Unterschrift alles enthält. Der Spruchkörper kann ihn unterschreiben — oder vor der Unterschrift redaktionell pruefen. Bei offenen Lückenpunkten bleibt der Volltext stehen, die Lücken werden in eckigen Klammern markiert und am Ende in einer Lücken-Liste zusammengefasst.
-
-## Eigenkontrolle
-
-Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
-
-1. Stimmt der Tenor mit den Entscheidungsgründen überein?
-2. Ist die Kostenentscheidung folgerichtig?
-3. Ist die Rechtsmittelbelehrung vollständig und richtig?
-4. Sind alle Parteibezeichnungen einheitlich?
-5. Sind alle Daten, Aktenzeichen und Betraege widerspruchsfrei?
-6. Sind alle Lückenpunkte explizit markiert?
-
-Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+Bei unlesbaren Akten einen geeigneten anderen Zugriff versuchen oder den benötigten Ausschnitt anfordern. Zugängliche Teile weiterbearbeiten; keine vollständige Aktenprüfung oder erfolgreiche Dateierzeugung behaupten.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 

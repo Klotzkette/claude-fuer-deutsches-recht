@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "geldwaeschepraevention-aml-kyc",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gwg_2017/__3.html",
@@ -11,11 +11,17 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Das bereits individuell ausgearbeitete Mini trennt heutige Eigentümerprüfung, Sanktionskontrolle und Zukunftsrecht. Insbesondere verhindert es die im Beteiligungsbaum fehleranfällige reine Quotenmultiplikation; diese Kernregel bleibt erhalten.",
+    "reason": "Aktuellen Mini vollständig gelesen. Nachforderungen zu Kontrolle und Zahlung führen zur aktualisierten Prüfung, ohne unverzügliche Meldungen zu verzögern. Die Pflicht zur Eigentümertabelle widersprach noch der bedarfsbezogenen Ausgabe. Rechtsstand und Quellen wurden nicht erneut verifiziert; kein Live-Modelltest.",
     "changes": [
-      "Fachlichen Text erhalten; Überschriftenhierarchie dezimal vereinheitlicht."
+      "Tabellarische Eigentumskette nur bei Bedarf verlangt; fachliche Kontrollprüfung unverändert erhalten."
     ],
-    "sha256": "75501866986072a5a36091dcf7b2aae9da5be1616f4342169881f9472a1c9502"
+    "sha256": "30ffe4a46971a5c0066995ba59b1250d35f0148439e9b8d4e7dfcc0d6ecb6257"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig einschließlich des angehängten Routenkatalogs gelesen. Die zwölf Schlussrouten wiederholten bereits ausgearbeitete Prüfungen und verlangten zusätzliche Arbeitsprodukte. Verpflichtetenstatus, Beratungswissen, Zahlung, Meldung, Frist und Zukunftsrecht sind im Haupttext vollständig vorhanden; gezielte Nachfragen führen dort zum bestellten Dokument. Keine erneute rechtliche Verifikation oder Live-Modellprüfung.",
+    "changes": ["Redundanten Routenkatalog entfernt; sämtliche fachlichen Themen und Quellen im Hauptablauf erhalten.", "Technische Grenzen unmittelbar an die Schlusskontrolle angeschlossen."],
+    "sha256": "77e64ad4fae8e8f3f12f4f9efae5b3fd95e47895c75f09643eabfbf5e11ddf6f"
   },
   "selection": {
     "positive": [

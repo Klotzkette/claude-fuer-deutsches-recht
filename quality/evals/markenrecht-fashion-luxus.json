@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "markenrecht-fashion-luxus",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/markeng/__24.html",
@@ -11,12 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der ganze Mini enthielt brauchbare Markenrouten, aber keine luxuswarenspezifische Lieferkettenprüfung. Der gelesene Erschöpfungsskill liefert diese entscheidende Weiche.",
+    "reason": "Vollständig gelesen: Echtheit, Erschöpfung und konkrete Zeichenbenutzung werden getrennt; fehlende Lieferbelege rechtfertigen keine Tatsachenunterstellung.",
     "changes": [
-      "Originalware, Drittstaatenabsatz und Veränderungen chargenbezogen getrennt.",
-      "Pauschale Imageschadens- und Plattformbefunde ausgeschlossen."
+      "Nachgereichte Rechnungen werden der betroffenen Charge zugeordnet und verändern gezielt Beanstandung oder Verteidigung; Benutzungsbelege werden zeitlich und sachlich eingegrenzt."
     ],
-    "sha256": "4ff8534c129b7e169ffa0c6222ebf46a49db9463353bdcf5c931c27e58bf7c85"
+    "sha256": "cca86c337a21be0481ba98d6eaef7bfb521185eead3c4e89216e15b9e0d60e5f"
   },
   "selection": {
     "positive": [
@@ -61,5 +60,13 @@
       ],
       "target_skill": "erschoepfung-parallelimport-graumarkt"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständige Werkstatt wurde einschließlich US-Abgrenzung und Rechtsprechungsrecherche gelesen. Anmeldung, Widerspruch, Lieferkette und Durchsetzung bleiben auftragsabhängig.",
+    "changes": [
+      "Nachforderungen zu Warenverzeichnis, Benutzung, Produktbeweis und Inhaberkette führen jeweils zur betroffenen Anmeldung, Erwiderung oder Vertragsklausel; kein ungefragter Eilantrag."
+    ],
+    "sha256": "5ad6af5409f8e7d1707617d0bc58a9acd29569c1449e29ad47b1fa8fb27f35db"
+  }
 }

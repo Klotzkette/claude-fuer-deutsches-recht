@@ -1,10 +1,12 @@
 # 1. Widersprüchliche Erwerbsminderungsbefunde auflösen
 
-Erstellen Sie für meinen Rentenfall eine medizinisch und zeitlich nachvollziehbare Beweisstrategie. Verbinden Sie widersprüchliche Reha- und Gutachtenaussagen mit möglichen Eintrittszeitpunkten der Erwerbsminderung und den jeweiligen Beitragsfenstern. Liefern Sie ein konkretes Arbeitsprodukt, keinen allgemeinen Rentenvortrag.
+Bearbeiten Sie meinen Rentenfall anhand der widersprüchlichen Reha- und Gutachtenaussagen. Verbinden Sie die möglichen Eintrittszeitpunkte der Erwerbsminderung mit den jeweiligen Beitragsfenstern und erstellen Sie das beauftragte Dokument.
 
 ## 1.1. Akte zuerst
 
-Lesen Sie Antrag, Bescheide mit Zugang, Versicherungsverlauf, Reha-Bericht, Gutachten und zeitnahe Verlaufsbefunde. Erfassen Sie Alter, bisherigen Beruf, aktuelle Tätigkeit, Behandlung, Pausen, Wegefähigkeit und beantragten Zeitraum. Trennen Sie Mandantenangaben von ärztlichen Feststellungen. Fehlt ein entscheidender Beleg, stellen Sie eine gebündelte Frage und bearbeiten Sie den übrigen Sachverhalt weiter.
+Lesen Sie Antrag, Bescheide mit Zugang, Versicherungsverlauf, Reha-Bericht, Gutachten und zeitnahe Verlaufsbefunde. Entnehmen Sie daraus Alter, bisherigen Beruf, aktuelle Tätigkeit, Behandlung, Pausen, Wegefähigkeit und beantragten Zeitraum. Trennen Sie Mandantenangaben von ärztlichen Feststellungen; bereits geklärte Angaben nicht erneut erfragen.
+
+Fehlt etwa die Befundgrundlage einer Stundenangabe, fragen Sie nach dem zugehörigen Bericht und dem erfassten Zeitraum. Fehlen Beitragsmonate, fordern Sie den entsprechenden Versicherungsnachweis an. Bearbeiten Sie unabhängig davon beurteilbare Teile vorläufig weiter.
 
 ## 1.2. Befund- und Stichtagsabgleich
 
@@ -18,6 +20,10 @@ Bilden Sie für jeden medizinisch vertretbaren Leistungsfall ein eigenes Beitrag
 
 Benennen Sie für die verbleibenden Lücken Beweisfrage, erreichbaren Nachweis und Auswirkung auf Anspruch und Zeitpunkt. Amtsermittlung ersetzt keine gesicherte Tatsachengrundlage. Prüfen Sie Rechtsbehelf und Eilbedarf gesondert, ohne allein wegen Eile abzubrechen.
 
+### 1.2.1. Nach neuen Angaben fortsetzen
+
+Ordnen Sie einen nachgereichten Befund seinem Untersuchungszeitraum zu und prüfen Sie, ob er den bisherigen Widerspruch erklärt oder eine neue medizinische Frage aufwirft. Ändert sich der vertretbare Eintrittszeitpunkt, berechnen Sie das Beitragsfenster neu. Ergänzen Sie anschließend den bestellten Mandantenbrief, Beweisplan oder die Rechtsbehelfsbegründung bis zur ausformulierten Endfassung. Weitere kurze Rückfragen sind zulässig, wenn die Antwort eine neue entscheidende Lücke zeigt; wiederholen Sie keine beantworteten Fragen und behandeln Sie Annahmen nicht als bewiesene Tatsachen.
+
 ## 1.3. Amtliche Anker
 
 Prüfen Sie [Paragraf 43 SGB VI](https://www.gesetze-im-internet.de/sgb_6/__43.html) und [Paragraf 103 SGG](https://www.gesetze-im-internet.de/sgg/__103.html) sowie fallbezogen die aktuellen Normen für Rentenbeginn, Befristung und Rechtsbehelfsfristen.
@@ -26,4 +32,8 @@ BSG, Urteil vom 11.12.2019, Az. B 13 R 7/18 R, [amtlicher Volltext](https://www.
 
 ## 1.4. Ergebnis
 
-Liefern Sie `ergebnis.md` mit Sachverhalt, Befundchronologie, konkreter Widerspruchsmatrix, alternativen Beitragsfenstern, ausformulierter Widerspruchs- oder Klagebegründung als Entwurf und gezielten Gutachterfragen. Tabellen ergänzen vollständige Sätze, ersetzen sie nicht. Nach einem Zeitachsen- und Quellencheck abschließen. Keine Klage, Untersuchung oder medizinische Maßnahme eigenmächtig veranlassen. Dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Eigenständig ohne weitere Skills nutzbar.
+Verwenden Sie den gewünschten Dateinamen; nur ohne Dateivorgabe ist `ergebnis.md` der Standard. Wählen Sie die für den Auftrag nötigen Bestandteile: Befundchronologie, Gegenüberstellung widersprüchlicher Aussagen, alternative Beitragsfenster oder konkrete Gutachterfragen. Bei einem Beratungsauftrag erläutern Sie Ergebnis und Empfehlung verständlich; eine Widerspruchs- oder Klagebegründung entsteht nur bei entsprechendem Auftrag. Tabellen ergänzen vollständige Sätze, ersetzen sie nicht.
+
+Kontrollieren Sie Zeitachsen, Rechnung und Begründung vor der Endfassung. Bleibt ein entscheidender Nachweis offen, kennzeichnen Sie den Teilstand und setzen nach seinem Eingang dort fort. Zusätzliche Recherchebelege und Quellenlücken stehen in einer gesonderten Arbeitsnotiz, nicht im Mandantenbrief. Keine Klage, Untersuchung oder medizinische Maßnahme eigenmächtig veranlassen.
+
+Dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Ohne Exportwerkzeug liefern Sie den vollständigen Text; der Prompt ist ohne weitere Skills nutzbar.

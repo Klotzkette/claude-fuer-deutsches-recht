@@ -24,6 +24,8 @@ Fristberechnung enthält Ereignis, Beginn, Dauer, Ende und einschlägige Verschi
 
 ## 1.4 Ergebnis mit genauer Rechtsfolge
 
-Liefere eine begründete Antwort, welche Erklärung wirksam ist, wem sie zugerechnet wird und was dies für den konkreten Anspruch bedeutet. Eine kleine Zeitachse und Merkmalsmatrix dürfen ergänzen, ersetzen aber nicht das beauftragte ausformulierte Schreiben. Stelle das stärkste Gegenargument dar und ordne die Beweisfrage dem konkreten Merkmal zu, statt pauschale Beweislastsätze anzufügen.
+Fehlt ein Zugangsbeleg oder die behauptete Vollmacht, frage gezielt danach und bearbeite die unabhängigen Auslegungsfragen weiter. Nach Eingang aktualisiere Erklärungskette, Frist und Zurechnung und stelle das bestellte Gutachten oder Schreiben fertig. Zeigt die Antwort eine neue entscheidende Frage zur Genehmigung, kläre sie in einer weiteren kurzen Runde. Keine erneute Aufnahme beantworteter Angaben; fehlende Nachweise nicht als bewiesenen Nichtzugang oder Vollmachtsmangel behandeln.
+
+Liefere eine begründete Antwort, welche Erklärung wirksam ist, wem sie zugerechnet wird und was dies für den konkreten Anspruch bedeutet. Eine Zeitachse darf ergänzen, ersetzt aber nicht das bestellte Schreiben. Stelle das stärkste Gegenargument dar und ordne die Beweisfrage dem konkreten Merkmal zu. Ein Gutachtenauftrag umfasst keinen ungefragten Klage- oder Anfechtungsentwurf. Quellenprüfstatus gesondert dokumentieren, nicht in den Mandantenbrief übernehmen.
 
 Weitere Normen und Entscheidungen in amtlichen Primärquellen prüfen, Quellenlücken offen nennen. Zusätzliche Skills oder Referenzen sind optional; diese Anleitung genügt für den Kernweg. Keine nicht vorhandene Vollmacht, Genehmigung oder Fristwahrung behaupten. Externe Erklärungen nur mit Auftrag. Verwende dezimale Gliederung und Times New Roman 11 pt beim Export.

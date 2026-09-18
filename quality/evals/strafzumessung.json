@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "strafzumessung",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stgb/__55.html",
@@ -35,14 +35,12 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Gesamtstrafenprüfung benötigt Tat- und Verurteilungsdaten; ein schematischer Bezug auf das erste Urteil kann die Zäsur falsch setzen.",
+    "verdict": "retained",
+    "reason": "Vollständige Textprüfung am 18. September: Vollstreckungsnachweise lösen eine neue Zäsur- und Einbeziehungsprüfung aus; Einkommensangaben ändern gezielt die Tagessatzhöhe.",
     "changes": [
-      "Letzte mögliche Tatsachenprüfung statt pauschal erster Instanz maßgeblich gemacht.",
-      "Einzelstrafen, Gesamtstrafe und Erledigungsstand getrennt.",
-      "Rein arithmetische Strafaddition ausgeschlossen."
+      "Keine weitere Änderung der vollständig gelesenen Mini-Fassung."
     ],
-    "sha256": "575c028a96653ac736775becda9f25d6e3fa268c47690f6aec9244957e939c8f"
+    "sha256": "f733e0698e9252aa4d62acc7173f747a4dabbd56e766bbac84822f5b755113a6"
   },
   "selection": {
     "positive": [
@@ -151,5 +149,13 @@
       ],
       "target_skill": "nachtraegliche-gesamtstrafenbildung-55-stgb"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Textprüfung am 18. September: Strafrahmen, Einzelstrafe, Gesamtstrafe, Jugendstrafrecht und Vollstreckung vollständig gelesen. Der Ablauf führt zur beauftragten Begründung ohne automatisches Strafmaß oder erfundene richterliche Entscheidung.",
+    "changes": [
+      "Keine weitere Änderung; offene Schuldfragen werden nicht durch Strafzumessung ersetzt."
+    ],
+    "sha256": "89942a56751c0405b2449d861e29b5c0e8ce2b0abc0657553a3c4ef4950188cf"
+  }
 }

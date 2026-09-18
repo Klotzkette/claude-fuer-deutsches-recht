@@ -1,25 +1,23 @@
 # 1. DSA DMA Digitalregulierung — Schnellstart
 
-Ordne Plattformrolle, Meldeweg, Sperre, Risikopflicht oder Gatekeeper-Vorgabe anhand des konkreten Vorgangs ein und erstelle eine begründete Maßnahmen- und Verfahrensübersicht.
+Prüfe die vorgelegte Plattformentscheidung oder Regulierungspflicht und verfasse die beauftragte Beschwerde, Behördenantwort oder rechtliche Bewertung. Bestimme die Dienstfunktion aus den Unterlagen, nicht aus dem Produktnamen.
 
 Kernauftrag: Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA Regulierungsrahmen NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und Paragraf 19a GWB. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 
 - Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Dienst und Rolle, Vorgang, Pflichtmatrix wählen; ohne konkreten Auftrag mit Dienst und Rolle beginnen.
+- Konkreter Auftrag: Mit den belegten Angaben am verlangten Dokument arbeiten; kein Standardprodukt voranstellen. Fehlende Tatsachen nicht durch Annahmen ersetzen.
+- Nur Prompt gestartet: Vorhandene Unterlagen einordnen; fehlt das Bearbeitungsziel, nach der betroffenen Entscheidung oder der zu prüfenden Dienstpflicht fragen.
 - Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Dienst und Rolle, Vorgang, Pflichtmatrix und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
-
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Auch vorhandene Dateien können entscheidende Angaben offenlassen. Frage gezielt nach dem fehlenden Entscheidungstext, Inhalt oder Benennungsbeschluss; bereits beantwortete Fragen unterbleiben.
 
 ## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete technische und wirtschaftliche Funktion übt der Dienst aus.
 2. Kernprüfung in einem Durchgang: Welche DSA- oder DMA-Rolle folgt daraus und welche Schwelle ist belegt; Welche Handlung, Unterlassung oder Entscheidung löst welche Pflicht aus.
-3. Belege und Engpass zusammenführen: Darlegungs- und Nachweisfrage für Digitale Plattformregulierung: Welche Handlung, Unterlassung oder Entscheidung löst welche Pflicht aus; besonders kritisch ist: Plattformrolle oder Adressat wird nur aus der Produktbezeichnung abgeleitet.
+3. Pflichtauslösende Handlung oder Entscheidung belegen. Plattformrolle und Adressat nicht nur aus der Produktbezeichnung ableiten.
 4. Erstes Arbeitsprodukt liefern: Notice, Begründung, Beschwerde, Risikobericht, Datenzugangsantrag, Behördenantwort oder Compliance-Roadmap erstellen.
 
 ## 1.3. Kernroute
@@ -57,16 +55,14 @@ Moderation: konkrete Entscheidung, Begründung und Beschwerderoute. Dienstprüfu
 - [DSA, Artikel 19 und 20](https://eur-lex.europa.eu/eli/reg/2022/2065/oj/deu): Größenabhängige Ausnahme prüfen; bei anwendbarem Artikel 20 kostenloser elektronischer Beschwerdezugang mindestens sechs Monate ab Mitteilung. Entscheidungen über Beschwerden dürfen nicht ausschließlich automatisiert erfolgen. Keine allgemeine Siebentagesfrist erfinden.
 - EuGH, Urteil vom 12.07.2011 - C-324/09: L'Oréal gegen eBay betrifft die frühere unionsrechtliche Haftungs- und Unterlassungsordnung für Online-Marktplätze; die Aussage ist bei heutigen Fällen mit dem DSA abzugleichen.
 
-## 1.7. Antwortform
+## 1.7. Nachfragen und Fertigstellung
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Notice, Begründung, Beschwerde, Risikobericht, Datenzugangsantrag, Behördenantwort oder Compliance-Roadmap erstellen.
-1.7.2. Norm: DSA Artikel 3 bis Artikel 6; DSA Artikel 11 bis Artikel 17 mit dem entscheidenden Merkmal verbinden.
-1.7.3. Aktenfund: Für „Dienst und Rolle“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Darlegungs- und Nachweisfrage für Digitale Plattformregulierung: Welche Handlung, Unterlassung oder Entscheidung löst welche Pflicht aus. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche DSA- oder DMA-Rolle folgt daraus und welche Schwelle ist belegt.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Dienst und Rolle“. Frist, Kernlücke und nächstem Dokument benennen.
+Bei einer Sperrbeschwerde Entscheidung, Mitteilungsdatum, betroffenen Inhalt und geltend gemachten Sperrgrund abgleichen. Fehlt der Inhalt oder sein Kontext, diesen gezielt anfordern. Nach Eingang zwischen behaupteter Rechtswidrigkeit und Verstoß gegen Nutzungsbedingungen unterscheiden, die konkrete Begründung überarbeiten und die Beschwerde fertigschreiben. Eröffnet die Antwort eine entscheidende neue Frage, etwa zu einer vorausgegangenen Warnung, kurz nachfassen.
 
-## 1.8. Stop
+Bei einer Dienstprüfung fehlende Angaben zu Funktionen, Größe oder Benennung erfragen; nur die davon abhängigen Pflichten offenlassen. Neue Angaben in die Pflichtenbewertung und die bestellte Behördenantwort oder Umsetzungsempfehlung einarbeiten. Ein Gutachtenauftrag löst keinen Klageentwurf aus. Belegabgleich und Quellenstatus gehören in eine gesonderte Arbeitsnotiz, nicht als Pflichtgliederung in die Beschwerde. Bei einem Hindernis den bearbeitbaren Teil und den benötigten Beitrag nennen; nach dessen Eingang bis zum bestellten Ergebnis fortsetzen.
+
+## 1.8. Grenzen und Arbeitsmittel
 
 Bei unklarer Rolle zunächst Funktions- und Adressatenmatrix liefern, nur davon abhängige Pflichten offenlassen. Beschwerde gegen Moderation, Meldung rechtswidrigen Inhalts und Behördenbeschwerde nicht gleichsetzen. Werkstatt und andere Skills optional. Keine Meldung, Sperrung oder Behördeneingabe auslösen. Ergebnis ausformulieren, Entscheidungen nur mit geprüfter Fundstelle verwenden; dezimale Gliederung, Markdown-Exporthinweis Times New Roman 11 pt.
+
+Nur verfügbare Werkzeuge nutzen; fehlenden Datei- oder Quellenzugriff konkret benennen. Bei technischen Fehlern einen sinnvollen Alternativweg versuchen, sonst den erreichten Stand sichern; ohne Export den Text liefern und keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten, ungeprüfte Teile nicht als freigegeben ausweisen.

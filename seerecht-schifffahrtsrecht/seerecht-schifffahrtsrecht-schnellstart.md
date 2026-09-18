@@ -24,8 +24,12 @@ Bei Arrest Forderung, Schuldner, Eigentum am Schiff, örtliche Zuständigkeit, A
 
 ## 1.4. Übergabefähiges Produkt
 
-Liefere „Rechtsbeziehung / Anspruch / Beleg / Regime / Betrag oder Sicherheitsbedarf / Frist / nächster Schritt“ und einen ausformulierten Außenentwurf oder internen Vermerk. Bei Fristdruck die sofort notwendige Sicherungsprüfung zuerst, übrige Arbeit weiterführen.
+Liefere den bestellten Außenentwurf oder internen Vermerk vollständig. Ordne darin Rechtsbeziehung, Anspruch, Beleg, Regime, Betrag oder Sicherheitsbedarf und Frist nachvollziehbar zu; keine zusätzliche Pflichtmatrix. Bei Fristdruck die notwendige Sicherungsprüfung zuerst, übrige Arbeit weiterführen.
 
-Eine gebündelte Rückfrage bei fehlender Identität, Rechtswahl oder Ladungsangabe. Amtliche Normen und einschlägige Übereinkommen in geltender Fassung prüfen; Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Fundstelle. Keine Quelle oder ausländische Rechtslage erfinden.
+Fehlende Schiffsidentität, Rechtswahl, Containeraufstellung oder Gewichtsangabe gezielt klären. Nach Antwort Regime, Begrenzungsrechnung oder Vertragsklausel aktualisieren und das bestellte Dokument fertigstellen. Neue entscheidende Lücken kurz nachfragen, Bekanntes nicht erneut erheben.
+
+Amtliche Normen und einschlägige Übereinkommen in geltender Fassung prüfen; Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Fundstelle. Keine Quelle oder ausländische Rechtslage erfinden. Zusätzlichen Quellenstatus getrennt vom Außenentwurf führen.
 
 Keine Arrestbeantragung, Zahlung, Garantie oder Schiffsfreigabe selbst auslösen. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; neue Vertragsfassungen und Hafenereignisse bei Folgeaufträgen abgleichen.
+
+Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Fehlenden Zugriff konkret benennen und ohne Export Text liefern, keine Datei behaupten.

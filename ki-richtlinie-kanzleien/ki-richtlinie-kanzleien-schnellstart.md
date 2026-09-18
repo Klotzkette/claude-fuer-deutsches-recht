@@ -1,12 +1,16 @@
 # 1. Kanzleirichtlinie: Schnellstart
 
-Beginne mit der vorhandenen Richtlinienfassung und dem konkret betroffenen Arbeitsablauf. Ein Änderungsauftrag zur Einweisung braucht keine neue Mandatsannahme. Ordne jede vorgeschlagene Regel einem Werkzeug, einer Tätigkeit und einer verantwortlichen Person zu. Ohne Material höchstens eine gebündelte Frage; danach einen begrenzten Entwurf mit sichtbaren Annahmen liefern. Dieser Prompt funktioniert allein; Werkstatt und weitere Skills sind optional. Nur verfügbare Werkzeuge nutzen. Nach einem erfolglosen begründeten Ersatzweg den belegten Teilstand liefern; keine Quellenprüfung oder Dateierzeugung behaupten, die nicht stattgefunden hat.
+Erstelle oder ändere die Richtlinie für den tatsächlichen Einsatz in der Kanzlei. Beginne mit der vorhandenen Fassung und dem konkret betroffenen Arbeitsablauf; ein Änderungsauftrag zur Einweisung braucht keine neue Mandatsannahme.
 
-Erstelle oder ändere die Richtlinie für den tatsächlichen Einsatz. Lies vorhandene Richtlinie, Toolvertrag und Arbeitsablauf zuerst. Stand: 10. September 2026. Nicht erneut interviewen, wenn Aufgaben und Zuständigkeiten dokumentiert sind.
+Stand des vorhandenen Fachmaterials: 10. September 2026.
 
 ## 1.1. Den Kanzleialltag abbilden
 
-Trenne Recherche, Entwurfsarbeit, Mandantenkommunikation, Personalentscheidungen und Veröffentlichungen. Wer gibt Daten ein, wer prüft, wer verantwortet und wer verschickt? Schreibe sofort den angefragten Abschnitt; Inventar und Schulungsplan nur ergänzen, soweit die konkrete Regel sie benötigt.
+Lies Richtlinie, Toolvertrag und dokumentierten Arbeitsablauf zuerst. Trenne Recherche, Entwurfsarbeit, Mandantenkommunikation, Personalentscheidungen und Veröffentlichungen. Ordne jede vorgeschlagene Regel einem Werkzeug, einer Tätigkeit und einer verantwortlichen Person zu; bereits dokumentierte Aufgaben nicht erneut abfragen.
+
+Fehlen Angaben zu Training, Speicherort oder Prüfung vor dem Versand, frage gezielt nach der betreffenden Einstellung oder Zuständigkeit. Nach der Antwort passe Datenregel, Kontrollschritt und betroffenen Richtlinienabschnitt an. Neue entscheidende Unklarheiten in einer kurzen weiteren Runde klären; eine fehlende Vertragsanlage nicht als Beleg zulässiger Datennutzung behandeln.
+
+Schreibe den angefragten Abschnitt vollständig aus. Inventar und Schulungsplan nur ergänzen, soweit die konkrete Regel sie benötigt; unabhängige Abschnitte auch bei einer offenen Nachforderung bearbeiten.
 
 ## 1.2. Kompetenzförderung
 
@@ -36,10 +40,14 @@ Bei Datenpannen Artikel 33 weiter mit unverzüglicher Meldung, möglichst binnen
 
 ## 1.6. Ausliefern
 
-Eine lesbare Richtlinie mit ausformulierten Regeln und kurzen Änderungsgründen liefern. Bestehende Abschnitte nicht ohne Anlass neu schreiben. Dezimale Gliederung, Times New Roman 11 pt; verbindliche Einführung und Versand erst nach Freigabe.
+Liefere die bestellte Richtlinie oder den geänderten Abschnitt mit ausformulierten Regeln und kurzen Änderungsgründen. Bestehende Abschnitte nicht ohne Anlass neu schreiben; nach ergänzten Angaben die betroffenen Regelungen fertigstellen. Verwende den gewünschten Dateinamen, dezimale Gliederung und Times New Roman 11 pt. Verbindliche Einführung und Versand erst nach Freigabe.
+
+Quellenstatus und verbleibende Prüfaufträge in einer getrennten Arbeitsnotiz führen, nicht als interne Schlagwörter im Richtlinientext.
 
 Quellen: [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html), [Datenschutz-Reformverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29). Keine ältere Sorgfaltsentscheidung als Urteil zum neuen Artikel 4 ausgeben.
 
 ## 1.7. Freigabestopp ohne Bearbeitungsstillstand
 
 Stoppe die verbindliche Einführung eines Richtlinienabschnitts, wenn er eine ungeklärte Datenoffenlegung oder Veröffentlichung erlauben würde. Sichere Teile und konkrete Ersatzfassung liefern; die gesamte Richtlinienarbeit nicht deshalb anhalten.
+
+Dieser Prompt funktioniert allein; Werkstatt und weitere Skills sind optional. Nutze nur verfügbare Werkzeuge und liefere nach einem erfolglosen begründeten Ersatzweg den belegten Teilstand mit konkretem Hindernis. Keine Quellenprüfung oder Dateierzeugung behaupten, die nicht stattgefunden hat; nach Behebung des Hindernisses die betroffene Prüfung fortsetzen.

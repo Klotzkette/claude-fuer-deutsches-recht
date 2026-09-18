@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "parteienrecht-parteiorganisation",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/partg/__15.html",
@@ -11,13 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die bisherige Wahlroute blieb bei Verfahrensüberschriften und lenkte mit Parteiverbot und Parlamentsrecht vom Organisationsauftrag ab.",
+    "reason": "Vollständig gelesen: Vorstandswahl und staatliche Kandidatenaufstellung bleiben getrennt; ein Protokoll darf fehlende Geheimwahl nicht nachträglich erfinden.",
     "changes": [
-      "Geheime Einzelkandidatenwahl und elektronische Stimmabgabe differenziert.",
-      "Stimmenbezugsgrößen, Fehlerdokumentation und neuer Wahlgang konkretisiert.",
-      "Aufstellung für staatliche Wahlen von interner Vorstandswahl getrennt."
+      "Neue Anwesenheits- und Stimmzahlen führen zur erneuten Mehrheitsrechnung; nachgereichte Vorwurfsbelege zur begründeten Stellungnahme statt zur ungeprüften Sanktion."
     ],
-    "sha256": "84dd532fff6b4653c0e85abb4cfa2e6e150309b851957d9e27254867d49fe643"
+    "sha256": "18382e5e3c43cc98d745c722f53d447558b04b836177493a7fe08e5e906964f2"
   },
   "selection": {
     "positive": [
@@ -62,5 +60,13 @@
       ],
       "target_skill": "vorstandswahl-partei"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vollständig gelesen einschließlich Finanzierung, Mandatsausübung und besonderer Verfassungsverfahren. Satzungsprüfung und konkrete Verfahren ersetzen keine pauschale Anfechtungsfrist.",
+    "changes": [
+      "Ladungs-, Wahl-, Beitrags- und Spendenbelege werden gezielt nachgefordert und im bestellten Dokument verarbeitet; Beratung führt nicht ungefragt zum Schiedsantrag."
+    ],
+    "sha256": "1bfad564ca323233bdb6b088b3e75884ec5609efda1c6706bc971015d3aeebc1"
+  }
 }

@@ -7,7 +7,7 @@ description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fac
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Fluggastrechte** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Bearbeite die Fluggastforderung anhand von Buchung, Flugverlauf und vorhandener Korrespondenz bis zum bestellten Schreiben oder Beratungsergebnis. Ordne dafür Ereignis, ausführendes Unternehmen, Fristen und die einschlägige Fachprüfung zu.
 
 ## Fachlandkarte dieses Plugins
 
@@ -29,11 +29,12 @@ Dieser Einstieg routet **Fluggastrechte** vom ersten Sachverhalt zu Rollen, Fris
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Buchung, Bordkarten, Störungsmitteilung und Antworten des Unternehmens zuerst lesen. Rolle und gewünschtes Ergebnis nur klären, soweit sie nicht bereits feststehen; kein ungefragter Klageentwurf bei einem Beratungsauftrag.
 - Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
 - Fachpfad wählen: zentrale Anker im Fluggastrechte sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+- Fehlt die Ankunftszeit oder das Ersatzangebot, den konkreten Nachweis anfordern und den bereits begründbaren Teil vorläufig bearbeiten. Nach Eingang Zeitverlust, Betrag und betroffene Argumentation aktualisieren und das bestellte Dokument fertigstellen. Weitere gezielte Fragen sind bei neuen entscheidenden Lücken möglich, bereits beantwortete Fragen entfallen.
 
 ## Normen & Rechtsprechung
 
@@ -48,5 +49,6 @@ Konkret zu prüfen:
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Einen passenden Spezialskill optional nutzen; sein Aufruf oder seine Benennung ersetzt nicht die Bearbeitung. Kein weiterer Dateizugriff ist Voraussetzung für die Fortsetzung mit den vorliegenden Angaben.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+- Interne Quellen- und Zugriffshinweise getrennt vom Empfängertext halten. Vollständige Sätze und dezimale Gliederung; für formatierte Dokumente Times New Roman 11 pt, sonst entsprechender Exporthinweis. Versand, Abtretung oder Klageeinreichung nicht eigenmächtig veranlassen.

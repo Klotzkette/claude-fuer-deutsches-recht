@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-miet-wohnungseigentumsrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__559.html",
@@ -35,15 +35,25 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Der frühere Einstieg erklärte jeden Vorgang zum Zahlungsverzug, lieferte dann WEG-Beschlussprüfung und verwendete Schönheitsreparaturentscheidungen als allgemeine Fallanker.",
+    "verdict": "retained",
+    "reason": "Vollständige Textprüfung am 18. September: Neue Zahlungen, Zustandsberichte und Förderbelege werden gezielt eingearbeitet; danach werden Monatsbetrag, Kündigungsbewertung oder bestellte Einwendung fertiggestellt.",
     "changes": [
-      "Vertragsart und konkreten Auftrag vor der Fachroute verankert.",
-      "Individuelle Outputs für Mietkonto, Betriebskosten, Mangel, Modernisierung und WEG eingeführt.",
-      "Pauschalen Abbruch bei drohender Räumung durch priorisierte Schutzvorbereitung ersetzt.",
-      "Kostenbezogenen amtlichen Anker mit begrenzter Tragweite und eigenständige Quellenregeln eingebaut."
+      "Keine weitere Änderung an der vollständig gelesenen Mini-Fassung."
     ],
-    "sha256": "bd66a9c4eeb409d996c6bc42599f32bfdceab67ace23af0c61f21103ea5f375c"
+    "sha256": "65064701c7bee60c2173b6ac2ce2cb1175402ddda11acbe4d9ca02afe4e09f7c"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [
+      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+    ],
+    "prompt_path": "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-hauptproblem.md",
+    "prompt_sha256": "d3832f7750f12265b8e1bdf6c963cd77dbd82a710183f1c95675a079e2e04a6e",
+    "skill_path": "fachanwalt-miet-wohnungseigentumsrecht/skills/modernisierung-rechnungsabgleich-erhaltungsanteil/SKILL.md",
+    "skill_sha256": "5f61cba4c94fd531b9e57baefb0abf6201b38bbc244b17a3bdca99d9d2eeeab1"
   },
   "selection": {
     "positive": [
@@ -96,5 +106,15 @@
       ],
       "target_skill": "modernisierung-rechnungsabgleich-erhaltungsanteil"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Textprüfung am 18. September: Vollständige Prüfung einschließlich Nachlauf: CO₂- und Hausmeisterkosten wurden noch mit Kündigungsroutinen vermischt; pauschale Beweislasttabellen widersprachen der merkmalsbezogenen Prüfung.",
+    "changes": [
+      "Gute Schritte zu Mietkonto, Mangel und WEG erhalten; doppelte Schablonen entfernt.",
+      "Betriebskosten, Hausmeisterleistungen und CO₂-Rechnung auf ihre konkreten Belege begrenzt.",
+      "WEG-Klageauftrag von gerichtlichem Tenor getrennt; ungeklärte Normbezeichnung Anlage 3 nicht als Beleg übernommen."
+    ],
+    "sha256": "28eef4336e18e6534c53b947ffedc02f03023d290cc25411e27e73ead1e39330"
+  }
 }

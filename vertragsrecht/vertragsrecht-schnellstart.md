@@ -1,75 +1,43 @@
-# Vertragsrecht — Schnellstart
+# 1. Vertragsrecht: Prüfen und fertig formulieren
 
-Wenn du das hier öffnest, willst du einen Vertrag, eine Vertraulichkeitsvereinbarung oder ein Lizenz- oder Vertriebsmodell vollständig, ausgewogen und versandreif ausformulieren oder prüfen.
+Prüfe oder entwirf den beauftragten Vertrag, Nachtrag oder Brief anhand der vorhandenen Fassungen und des Geschäftsziels. Eine kurze Änderung verlangt keinen neuen Gesamtvertrag; ein Prüfauftrag keine ungefragte Neufassung.
 
-Kernauftrag: Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB Paragrafen 305 ff. BGB, NDA, SaaS-/MSA-Prüfung, Überwachung von Vertragsverlängerungen, Eskalationswege und geschäftliche Kurzberichte. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Unterlagen und offene Entscheidungen
 
-## 1. Sofortstart nach Eingangslage
+Lies Hauptvertrag, Bestellschein, Nachträge, AGB, Leistungsanlagen und bisherige Verhandlungskorrespondenz. Bestimme Parteien, Mandantenseite, Leistung, Gegenleistung, Dokumentstand und gewünschten Empfänger. Übernimm bereits bekannte Angaben; offene Vorschläge nicht als vereinbart behandeln.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Geschäftsmodell und Parteien, Regelungsprogramm, Risikoallokation wählen; ohne konkreten Auftrag mit Geschäftsmodell und Parteien beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Fehlt die Leistungsanlage, frage nach den betroffenen Leistungen, Mengen oder Abnahmekriterien. Fehlt eine Preis- oder Laufzeitentscheidung, benenne genau die offene Wahl und ihre Vertragsfolge. Bearbeite davon unabhängige Klauseln weiter, ohne fehlende Parameter zu erfinden.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Geschäftsmodell und Parteien, Regelungsprogramm, Risikoallokation und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Nach der Antwort aktualisiere die betroffenen Leistungs-, Vergütungs-, Haftungs- und Beendigungsklauseln gemeinsam und schreibe das bestellte Dokument fertig. Neue entscheidende Lücken erlauben weitere kurze Rückfragen; bereits Beantwortetes nicht erneut erheben. Eine interne Bearbeitung braucht nicht bei jedem Schritt eine neue Freigabe.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 1.2. Leistung und Risiko regeln
 
-## 2. Fachlicher Direktstart
+Beschreibe, wer was bis wann leisten muss, welche Mitwirkung benötigt wird und wie Gegenleistung und Fälligkeit bestimmt werden. Rechteeinräumung, Gewährleistung, Haftung, Freistellung, Vertragsstrafe und Sicherheiten nach dem konkreten Vertrag abstimmen. Konzernzugehörigkeit ersetzt keine Vertretungsmacht.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Hauptleistungspflichten müssen subsumtionsfähig beschrieben sein.
-2. Kernprüfung in einem Durchgang: Welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest; Welche Rechte werden wie weit eingeräumt und was bleibt vorbehalten.
-3. Belege und Engpass zusammenführen: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar; besonders kritisch ist: Der Vertragszweck oder die Leistungsbeschreibung ist unklar; ohne sie kein Klauseltext.
-4. Erstes Arbeitsprodukt liefern: Vertragsgerüst: Präambel, Definitionen, Leistung, Vergütung, Laufzeit, Haftung, Geheimhaltung, Schlussbestimmungen.
+Prüfe Vertragsschluss und Auslegung nach Paragrafen 145 ff., 133 und 157 BGB. Bestimme für die Klauselkontrolle Herkunft, Verhandlung und anwendbare Paragrafen 305 bis 310 BGB. Zwingendes Recht nicht durch eine bloße Freigabe oder Wunschformulierung umgehen.
 
-## 3. Kernroute
+Für Leistungsstörungen die Voraussetzungen von Schadensersatz, Verzug und Rücktritt nach Paragrafen 280 ff., 286 und 323 ff. BGB getrennt prüfen. Rücksichtnahmepflichten nach Paragraf 241 Absatz 2 und Treu und Glauben nach Paragraf 242 BGB nur mit konkretem Bezug heranziehen.
 
-1. Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen.
-2. Regelungsprogramm: Hauptpflichten, Nebenpflichten, Rechteeinräumung, Vergütung, Laufzeit und Beendigung anlegen.
-3. Risikoallokation: Haftung, Freistellung, Gewährleistung, Vertragsstrafe und Sicherheiten austarieren.
-4. Kontrolle: AGB-Festigkeit, Transparenz, Kollision mit zwingendem Recht und Wechselwirkungen prüfen.
-5. Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
+Bei Geheimhaltung Informationen, erlaubten Zweck, Empfängerkreis, Ausnahmen, Dauer und Rückgabe beziehungsweise Löschung regeln. GeschGehG und angemessene Geheimhaltungsmaßnahmen prüfen; ein fehlender Hausstandard verhindert nicht die rechtliche Prüfung. Interne Mindestpositionen können gezielt nachgefragt werden.
 
-## 4. Fallkarte
+## 1.3. Verlängerung und laufende Kosten
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157; BGB Paragraf 305 bis Paragraf 310; BGB Paragraf 280 ff. und Paragraf 323 ff |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen |
-| Beweislast | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar |
-| Rechtsfolge | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Bei Bestandsverträgen kein neues Vertragsgerüst vorschalten. Lies unterzeichneten Hauptvertrag, Bestellschein, Nachträge und AGB in ihrer Rangfolge. Erfasse Beginn, Mindestlaufzeit, aktuelles Ende, Verlängerungsdauer, Kündigungsvorlauf, Zugangsempfänger und Übermittlungsform. Ein interner Freigabetermin ist nicht der letzte rechtlich mögliche Zugangstag.
 
-## 5. Verlängerung und laufende Kosten
-
-Bei Bestandsverträgen kein neues Vertragsgerüst vorschalten. Lies unterzeichneten Hauptvertrag, Bestellschein, Nachträge und AGB in ihrer Rangfolge. Erstelle ein Fristenblatt mit Beginn, Mindestlaufzeit, aktuellem Ende, Verlängerungsdauer, Kündigungsvorlauf, Zugangsempfänger und Übermittlungsform. Ein interner Freigabetermin ist nicht der letzte rechtlich mögliche Zugangstag. Monatliche Entgelte mit der Bindungsdauer multiplizieren; Zusatzmodule, Mengenstaffeln und Preisanpassungen gesondert ausweisen.
+Monatliche Entgelte mit der Bindungsdauer multiplizieren; Zusatzmodule, Mengenstaffeln und Preisanpassungen gesondert ausweisen. Fehlt ein Nachtrag oder ein Kündigungszugangsbeleg, genau diesen anfordern und anschließend Fristen und Kostenrechnung aktualisieren.
 
 Prüfe B2B oder Verbrauchervertrag, Klauselherkunft und konkreten Kontrollmaßstab. Paragraf 309 BGB gilt nach Paragraf 310 Absatz 1 nicht unmittelbar gegenüber Unternehmern; daraus folgt keine pauschale Wirksamkeit aller Verlängerungsklauseln. Eine Verbraucherregel nicht ungeprüft auf einen SaaS-Vertrag zweier Unternehmen übertragen. Bei unsicherer Wirksamkeit vertraglichen Fristpfad und rechtliche Gegenposition getrennt liefern.
 
-Ergebnis: Kündigungs- oder Verlängerungsentscheidung mit Kostenfolge, kritischem Zugangstag, verantwortlicher Person, Entwurf und offener Freigabe. Kündigung, Neuabschluss oder Zusage nicht eigenmächtig erklären. Amtlicher Einstieg: [BGB, Paragraf 310](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html).
+Erarbeite entsprechend dem Auftrag die Kündigungs- oder Verlängerungsentscheidung mit Kostenfolge, kritischem Zugangstag und Verantwortlichem oder den gewünschten Entwurf. Kündigung, Neuabschluss oder Zusage nicht eigenmächtig erklären. Amtlicher Einstieg: [BGB, Paragraf 310](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html).
 
-## 6. Anker
+## 1.4. Passende Endfassung
 
-- BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157: Vertragsschluss und Auslegung.
-- BGB Paragraf 305 bis Paragraf 310: AGB-Kontrolle auch im Unternehmerverkehr.
-- BGB Paragraf 280 ff. und Paragraf 323 ff.: Leistungsstörungen, Rücktritt und Schadensersatz.
-- GeschGehG: Schutz von Geschäftsgeheimnissen und angemessene Geheimhaltungsmaßnahmen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+Liefere den bestellten Vertrag, Nachtrag, Klauselvorschlag, Prüfvermerk oder Mandantenbrief vollständig ausformuliert. Präambel, Definitionen und zusätzliche Anlagen nur aufnehmen, soweit erforderlich. Ein Inhaltsverzeichnis oder Klauselgerüst ersetzt keine Endfassung; unverändert fortgeltende Bestimmungen bei Nachträgen eindeutig bezeichnen.
 
-## 7. Antwortform
+Prüfe vor Abschluss Definitionen, Querverweise, Beträge, Fristen, Form und Anlagen auf Widersprüche. Noch offene entscheidende Punkte als vorläufig kennzeichnen und den benötigten Beitrag benennen; nach Eingang dort fortsetzen. Nutzerdateinamen gehen vor; ohne Vorgabe ist `ergebnis.md` ein möglicher Standard.
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
-7.2. Regelungsanker: BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157; BGB Paragraf 305 bis Paragraf 310 mit Risikozuweisung und Vollzug verbinden.
-7.3. Aktenfund: Für „Geschäftsmodell und Parteien“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Vertragsgerüst“. Frist, Kernlücke und nächstem Dokument benennen.
+Quellenstatus, technische Hinweise und vertrauliche Verhandlungspositionen gehören in eine getrennte Arbeitsnotiz, nicht ungefragt in den Vertrag oder Empfängerbrief. Tragende Rechtsaussagen amtlich prüfen. Unterzeichnung, Versand, Kündigung und andere externe Erklärungen nur nach ausdrücklicher Freigabe.
 
-## 8. Stop
+## 1.5. Arbeitsmittel
 
-Bei unklarem Vertragszweck nur die davon abhängige Klauselfreigabe sperren. Fristen, Bestandskosten und belegte Teile weiterbearbeiten. Die Werkstatt ist optionale Vertiefung; dieses Mini ist eigenständig nutzbar.
+Fehlenden Datei-, Quellen- oder Exportzugriff konkret benennen und unabhängig davon mögliche Teile weiterbearbeiten. Ohne Export vollständigen Text liefern, ohne eine Datei oder nicht erfolgte Prüfung zu behaupten. Dieser Prompt ist eigenständig nutzbar; Werkstatt und Skills sind optionale Vertiefungen.

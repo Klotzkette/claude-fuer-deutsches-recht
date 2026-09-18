@@ -1,48 +1,136 @@
 {
   "schema_version": 1,
   "plugin": "verkehrsowi-verteidiger",
-  "reviewed_on": "2026-09-14",
-  "sources": [{"url":"https://www.gesetze-im-internet.de/owig_1968/__67.html","checked_on":"2026-09-14","supports":"Zwei Wochen ab Zustellung, Einspruch bei erlassender Verwaltungsbehörde; Beschränkung möglich."},{"url":"https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/11/rk20201112_2bvr161618.html","checked_on":"2026-09-14","supports":"Amtlich indexierter Beschlusstext geprüft: faires Verfahren aus Artikel 2 Absatz 1 mit Artikel 20 Absatz 3 GG; Zugang zu vorhandenen Informationen außerhalb der Bußgeldakte, kein pauschales Verwertungsverbot."},{"url":"https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/06/rk20230620_2bvr116720.html","checked_on":"2026-09-14","supports":"Amtlich indexierter Beschlusstext geprüft: Nichtannahme mangels substantiierter Darlegung einer Pflicht zur Vorhaltung oder Schaffung zusätzlicher Beweismittel; nicht mit Herausgabe vorhandener Informationen gleichsetzen."},{"url":"https://www.gesetze-im-internet.de/owig_1968/__47.html","checked_on":"2026-09-14","supports":"Verfolgungsermessen und Einstellung im Bußgeldverfahren statt staatsanwaltschaftlicher Anklage als Standardroute."},{"url":"https://www.gesetze-im-internet.de/owig_1968/__71.html","checked_on":"2026-09-14","supports":"Gerichtliches Verfahren nach zulässigem Einspruch; Besonderheiten des OWiG gehen vor."},{"url":"https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html","checked_on":"2026-09-14","supports":"Amtlich indexierter Paragraf 17: Bemessung der Geldbuße anhand Bedeutung, Vorwurf und gegebenenfalls wirtschaftlichen Verhältnissen."}],
-  "mini_review": {"verdict":"revised","reason":"Mini und Werkstatt verwendeten Anklage, Bewährung und Strafzumessung statt Verkehrs-OWi-Prüfung; Messskill verleitet zu pauschalem Verwertungsverbot.","changes":["Bescheid- und Zustellprüfung vorangestellt","Rohwert, Toleranz und vorgeworfenen Wert getrennt","Fahreridentifizierung und konkrete Datenlücken statt automatischer Verwertungsrüge"],"sha256":"2bf55d516ba7b436098208aa61ffe517ebc83955476741ff2311ac640237ab1f"},
-  "selection":{"positive":["Rechne die Werte meines Geschwindigkeitsbescheids nach und benenne Messaktenlücken.","Prüfe Zustellung und Einspruchsweg für diesen Verkehrsbußgeldbescheid."],"negative":["Berechne meinen Reparaturschaden nach einem Auffahrunfall.","Entwirf eine Anklageschrift wegen vorsätzlicher Körperverletzung."]},
-  "cases":[{"id":"toleranz-bereits-abgezogen","request":"Erstelle ergebnis.md als Verteidigungsvermerk. Der Bußgeldbescheid der Stadt L wurde mir nachweislich am 4. September 2026 zugestellt. Heute ist der 14. September. Tat: innerorts erlaubte 50 km/h, Rohmesswert 83 km/h, laut Bescheid bereits abgezogene Toleranz 3 km/h, vorgeworfen 80 km/h. Ich bin Halterin, das kleine Foto zeigt kein erkennbares Gesicht. Wer gefahren ist, weiß ich derzeit nicht. Messprotokoll und Originalfoto fehlen. Es wurde noch nichts eingereicht. Prüfe Zahlen, Frist und sinnvolle nächste Schritte, ohne eine Erklärung zu versenden.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Berechnet 30 km/h Überschreitung aus 80 minus 50 und zieht nicht erneut drei km/h ab.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Nennt den 18. September 2026 als Einspruchsfrist und die erlassende Stadtbehörde als Adressatin; wartet damit nicht auf Akteneinsicht.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Lässt Fahreridentität offen und fordert Originalfoto sowie zweckbezogene Messunterlagen an, ohne Haltereigenschaft als Tatnachweis oder Aktenlücke als automatische Einstellung zu behandeln.","deliverables":["ergebnis.md"]}],"target_skill":"verkehrsowi-messverfahren-geschwindigkeit"},
-{
-  "id": "vorhandene-unterlagen-und-nie-gespeicherte-daten",
-  "request": "Erstelle ergebnis.md als begründeten Verteidigungsvermerk mit Entwurf einer gezielten Nachforderung. Gegen einen Geschwindigkeitsbescheid wurde rechtzeitig Einspruch eingelegt; das Verfahren liegt noch bei der Bußgeldbehörde, ein Gerichtstermin steht nicht fest. Fahrer und bereits abgezogene Toleranz sind unstreitig. Die Behörde bestätigt schriftlich, dass ein Wartungsprotokoll zum eingesetzten Gerät für den Tag vor der Messung vorhanden ist, verweigert es aber allein mit der Begründung, es gehöre nicht zur Bußgeldakte. Wir hatten es unter Hinweis auf einen im Messprotokoll vermerkten Neustart am Messtag angefordert. Zur zusätzlich verlangten Rohsignaldatei bestätigt die technische Dokumentation, dass die eingesetzte Software diese Daten nie gespeichert hat; es gibt keinen Anhaltspunkt für nachträgliche Löschung. Weitere Messfehler sind derzeit nicht belegt. Die Mandantin fragt, ob beides zwingend zur Unverwertbarkeit und zum Freispruch führt. Nichts einreichen.",
-  "input_files": [],
-  "deliverables": [
-    "ergebnis.md"
-  ],
-  "criteria": [
+  "reviewed_on": "2026-09-18",
+  "sources": [
     {
-      "id": "C01",
-      "text": "Unterscheidet das nachweislich vorhandene Wartungsprotokoll von der nie gespeicherten Rohsignaldatei und behandelt die zweite Lücke nicht als verweigerte Herausgabe existenter Daten.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__67.html",
+      "checked_on": "2026-09-14",
+      "supports": "Zwei Wochen ab Zustellung, Einspruch bei erlassender Verwaltungsbehörde; Beschränkung möglich."
     },
     {
-      "id": "C02",
-      "text": "Begründet den Zugang zum Wartungsprotokoll mit dem konkreten zeitlichen und sachlichen Zusammenhang sowie dem Verteidigungsinteresse; die bloße Nichtaufnahme in die Akte wird nicht als ausreichende Ablehnung übernommen.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/11/rk20201112_2bvr161618.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlich indexierter Beschlusstext geprüft: faires Verfahren aus Artikel 2 Absatz 1 mit Artikel 20 Absatz 3 GG; Zugang zu vorhandenen Informationen außerhalb der Bußgeldakte, kein pauschales Verwertungsverbot."
     },
     {
-      "id": "C03",
-      "text": "Leitet weder aus der Verweigerung noch aus der Nichtspeicherung automatisch ein Verwertungsverbot oder einen Freispruch ab und stellt die Nichtannahmeentscheidung von 2023 nicht als umfassendes Sachurteil dar.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/06/rk20230620_2bvr116720.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlich indexierter Beschlusstext geprüft: Nichtannahme mangels substantiierter Darlegung einer Pflicht zur Vorhaltung oder Schaffung zusätzlicher Beweismittel; nicht mit Herausgabe vorhandener Informationen gleichsetzen."
     },
     {
-      "id": "C04",
-      "text": "Liefert eine gezielte Nachforderung und einen am behördlichen Einspruchsverfahren orientierten nächsten Schritt, nicht Anklage, Bewährung oder Strafzumessung als Standardprodukt; behauptet keine Einreichung.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__47.html",
+      "checked_on": "2026-09-14",
+      "supports": "Verfolgungsermessen und Einstellung im Bußgeldverfahren statt staatsanwaltschaftlicher Anklage als Standardroute."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__71.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gerichtliches Verfahren nach zulässigem Einspruch; Besonderheiten des OWiG gehen vor."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlich indexierter Paragraf 17: Bemessung der Geldbuße anhand Bedeutung, Vorwurf und gegebenenfalls wirtschaftlichen Verhältnissen."
     }
   ],
-  "target_skill": "verkehrsowi-messverfahren-geschwindigkeit"
-}]
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Mini vollständig gelesen; gute Trennung von Rohwert, Toleranz und Vorwurf erhalten, aber starres Ausgabepaket aufgelöst.",
+    "changes": [
+      "Zustellnachweis, Originalfoto und Messprotokoll gezielt nachfordern, anschließend Frist oder Beweisbewertung aktualisieren und gewünschtes Dokument fertigstellen."
+    ],
+    "sha256": "a2befc79fbb8a6f67d23bd70c4276cea828e1c65b76ea00cf5fe8c657259861d"
+  },
+  "selection": {
+    "positive": [
+      "Rechne die Werte meines Geschwindigkeitsbescheids nach und benenne Messaktenlücken.",
+      "Prüfe Zustellung und Einspruchsweg für diesen Verkehrsbußgeldbescheid."
+    ],
+    "negative": [
+      "Berechne meinen Reparaturschaden nach einem Auffahrunfall.",
+      "Entwirf eine Anklageschrift wegen vorsätzlicher Körperverletzung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "toleranz-bereits-abgezogen",
+      "request": "Erstelle ergebnis.md als Verteidigungsvermerk. Der Bußgeldbescheid der Stadt L wurde mir nachweislich am 4. September 2026 zugestellt. Heute ist der 14. September. Tat: innerorts erlaubte 50 km/h, Rohmesswert 83 km/h, laut Bescheid bereits abgezogene Toleranz 3 km/h, vorgeworfen 80 km/h. Ich bin Halterin, das kleine Foto zeigt kein erkennbares Gesicht. Wer gefahren ist, weiß ich derzeit nicht. Messprotokoll und Originalfoto fehlen. Es wurde noch nichts eingereicht. Prüfe Zahlen, Frist und sinnvolle nächste Schritte, ohne eine Erklärung zu versenden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Berechnet 30 km/h Überschreitung aus 80 minus 50 und zieht nicht erneut drei km/h ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Nennt den 18. September 2026 als Einspruchsfrist und die erlassende Stadtbehörde als Adressatin; wartet damit nicht auf Akteneinsicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Lässt Fahreridentität offen und fordert Originalfoto sowie zweckbezogene Messunterlagen an, ohne Haltereigenschaft als Tatnachweis oder Aktenlücke als automatische Einstellung zu behandeln.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "verkehrsowi-messverfahren-geschwindigkeit"
+    },
+    {
+      "id": "vorhandene-unterlagen-und-nie-gespeicherte-daten",
+      "request": "Erstelle ergebnis.md als begründeten Verteidigungsvermerk mit Entwurf einer gezielten Nachforderung. Gegen einen Geschwindigkeitsbescheid wurde rechtzeitig Einspruch eingelegt; das Verfahren liegt noch bei der Bußgeldbehörde, ein Gerichtstermin steht nicht fest. Fahrer und bereits abgezogene Toleranz sind unstreitig. Die Behörde bestätigt schriftlich, dass ein Wartungsprotokoll zum eingesetzten Gerät für den Tag vor der Messung vorhanden ist, verweigert es aber allein mit der Begründung, es gehöre nicht zur Bußgeldakte. Wir hatten es unter Hinweis auf einen im Messprotokoll vermerkten Neustart am Messtag angefordert. Zur zusätzlich verlangten Rohsignaldatei bestätigt die technische Dokumentation, dass die eingesetzte Software diese Daten nie gespeichert hat; es gibt keinen Anhaltspunkt für nachträgliche Löschung. Weitere Messfehler sind derzeit nicht belegt. Die Mandantin fragt, ob beides zwingend zur Unverwertbarkeit und zum Freispruch führt. Nichts einreichen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet das nachweislich vorhandene Wartungsprotokoll von der nie gespeicherten Rohsignaldatei und behandelt die zweite Lücke nicht als verweigerte Herausgabe existenter Daten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Begründet den Zugang zum Wartungsprotokoll mit dem konkreten zeitlichen und sachlichen Zusammenhang sowie dem Verteidigungsinteresse; die bloße Nichtaufnahme in die Akte wird nicht als ausreichende Ablehnung übernommen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Leitet weder aus der Verweigerung noch aus der Nichtspeicherung automatisch ein Verwertungsverbot oder einen Freispruch ab und stellt die Nichtannahmeentscheidung von 2023 nicht als umfassendes Sachurteil dar.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert eine gezielte Nachforderung und einen am behördlichen Einspruchsverfahren orientierten nächsten Schritt, nicht Anklage, Bewährung oder Strafzumessung als Standardprodukt; behauptet keine Einreichung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "verkehrsowi-messverfahren-geschwindigkeit"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig einschließlich aller Schlussrouten gelesen; pauschale Toleranz, falscher Fahrtenbuchverweis und fehlerhafte Entbindungsangabe widersprachen der konkreten Prüfung.",
+    "changes": [
+      "Messdatenzugangsanker erhalten; Toleranz gerätebezogen prüfen, Fahrtenbuch Paragraf 31a StVZO zuordnen, Entbindung nach Paragraf 73 Absatz 2 OWiG und Blutentnahme-Ausnahmen berücksichtigen; doppelte Standardrouten entfernt."
+    ],
+    "sha256": "e1138567dee2c4860741e632fe69410cf6f88e1b1cf0fffb37db96ef65dc07ea"
+  }
 }

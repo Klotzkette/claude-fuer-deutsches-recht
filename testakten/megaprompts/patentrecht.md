@@ -148,7 +148,7 @@ _Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Erg
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Patentrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Bestimme aus Auftrag, Anspruchsfassung und technischen Unterlagen, ob eine Anmeldung, Bescheidserwiderung, Verletzungs- oder Bestandsprüfung bestellt ist. Arbeite auf dieses Dokument hin, statt nur einen Spezialskill zu benennen.
 
 ## Fachlandkarte dieses Plugins
 
@@ -175,11 +175,19 @@ Dieser Einstieg routet **Patentrecht** vom ersten Sachverhalt zu Rollen, Fristen
 - Zuständige Stelle bestimmen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPO, BPatG, BGH X. Senat, UPC.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
+### Technische Lücken und Fortsetzung
+
+Fehlt der Nachweis eines Produktmerkmals, frage nach der konkreten Zeichnung, Messung oder Funktionsprüfung. Nach Eingang aktualisiere den Merkmalsvergleich und die daraus folgende Bewertung. Beim Anspruchsentwurf eine unklare Offenbarungsgrundlage gezielt nachfordern; technische Plausibilität ersetzt keine ursprüngliche Offenbarung.
+
+Neue Widersprüche zur Produkt- oder Patentfassung gezielt klären, ohne bekannte Angaben erneut aufzunehmen. Unabhängige Teile vorläufig bearbeiten und nach der Antwort das bestellte Dokument vollständig ausformulieren. Keine ungefragte Abmahnung, Klage oder Einreichung; externe Handlungen bedürfen der Freigabe.
+
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+Spezialskills und Referenzen sind optionale Vertiefungen. Tragende Quellen selbst prüfen, keine Fundstellen erfinden. Nutzerseitige Dateinamen gehen vor; bei formatierten Dokumenten Times New Roman 11 Punkt und dezimale Gliederung verwenden, technische Arbeitsnotizen vom Empfängertext trennen.
 
 ---
 

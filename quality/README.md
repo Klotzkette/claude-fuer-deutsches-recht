@@ -7,7 +7,7 @@ Das [Prüfverzeichnis](../QUALITY.md) erfasst für jedes Marketplace-Plugin konk
 | Prüfung | Aussage | Keine Aussage über |
 | --- | --- | --- |
 | Strukturvalidator | Dateien, Namen, Verweise, Format und Paketgrenzen stimmen | tatsächliche Auswahl oder juristische Qualität |
-| Individuelle Mini-Prüfung | Fachlicher Zuschnitt wurde redaktionell geprüft | Ergebnisqualität in jedem Client |
+| Individuelle Textprüfung | Der bezeichnete Mini-, Werkstatt- oder Schwerpunkttext wurde redaktionell geprüft | Ergebnisqualität in jedem Client |
 | Beobachtete Auswahl | Ein konkreter Client hat bei einer konkreten Anfrage einen Skill gewählt oder nicht gewählt | Richtigkeit des erzeugten Dokuments |
 | Ergebnisbewertung | Zwei unabhängige Prüfmodelle bewerten die tatsächlich erzeugten Dateien gegen fachliche Kriterien | unabhängige Rechtsquellenprüfung oder anwaltliche Freigabe |
 
@@ -18,6 +18,10 @@ Die Zustände `prepared`, `unreviewed`, `needs_review`, `failed` und `passed` we
 Profil und Fall-ID stehen in `quality/evals/<plugin>.json`. Dieser Ordner enthält Bewertungserwartungen und darf dem bearbeitenden System nicht als Fallmaterial zugänglich gemacht werden. Es entstehen keine neuen Lösungshinweise in den Übungsakten.
 
 `mini_review.sha256` ist verpflichtend und enthält den SHA256-Fingerprint der endgültigen Mini-Datei als 64 kleine Hexadezimalzeichen, berechnet über die unveränderten Dateibytes einschließlich Zeilenenden. Fehlende, ungültige oder abweichende Fingerprints verhindern die Profilfreigabe und Vorbereitung neuer Läufe. Bestehende eingefrorene Läufe bleiben an ihren damaligen Eingabebestand und Fall gebunden, nicht an spätere Mini-Fassungen oder deren neue Prüfvermerke. Zusätzliche Dateien oder Ordner im vorbereiteten Eingabeordner machen den Lauf ungültig.
+
+Eine zusätzlich dokumentierte Einzelprüfung der Werkstatt steht in `workshop_review` mit Begründung, Änderungen und `sha256`. Ist dieser Prüfvermerk vorhanden, muss auch seine Prüfsumme zur aktuellen Werkstatt-Datei passen. Die Prüfsumme bestätigt nur die Identität des redaktionell geprüften Textes, nicht einen bestandenen Modelllauf. Nach inhaltlichen Änderungen zuerst erneut prüfen und erst danach den Vermerk aktualisieren; ein bloßes Neuberechnen der Prüfsumme ersetzt die Prüfung nicht.
+
+Für ein gemeinsam geprüftes Hauptproblem-Paar enthält `focus_review` beide Dateipfade, `prompt_sha256` und `skill_sha256` sowie Datum, Begründung und Änderungen. Der Skill muss genau dem in `selection.target_skill` benannten Schwerpunkt entsprechen; der Prompt muss zum selben Plugin gehören. Die Methode `desk_review` bezeichnet ausschließlich die Textprüfung. Abweichende Dateien, Pfade oder Prüfsummen werden abgewiesen. Ein fehlender Schwerpunktvermerk in einem älteren Profil wird nicht als bestandene Paarprüfung ausgegeben.
 
 ```bash
 python3 scripts/quality-lab.py audit
@@ -104,6 +108,14 @@ Die Offline-Prüfungen laufen vor dem Release; sie rufen keine kostenpflichtigen
 
 Exit-Code `0` bedeutet: der ausdrücklich gewählte Vorgang wurde erfolgreich ausgeführt. Bei `prepare` oder `audit` ist das keine fachliche Freigabe. Exit-Code `1` bezeichnet einen negativen Befund; `2` bezeichnet eine nicht abgeschlossene oder noch fachlich zu entscheidende Bewertung. Der bisherige Aktenbestandsprüfer bietet `--structural-only` für technische CI-Prüfungen; offene menschliche Kriterien werden weiterhin ausdrücklich ausgewiesen.
 
-## 1.7. English summary
+## 1.7. Fortsetzung nach Rückfragen prüfen
+
+Die zusätzlichen Fortsetzungsfälle im Familien-, Erb- und Steuerrecht enthalten einen bereits erreichten Bearbeitungsstand und eine neue Antwort. Sie prüfen, ob die Antwort berücksichtigt, die betroffene Rechnung oder Auskunft fortgeschrieben und das bestellte Schreiben tatsächlich ausformuliert wird. Eine zweite entscheidende Lücke darf nicht deshalb unbeachtet bleiben, weil schon einmal nachgefragt wurde. Der Empfängertext muss von internen Prüf- und Exporthinweisen getrennt bleiben.
+
+Diese Fälle werden als ein Arbeitsauftrag mit beschriebenem Vorverlauf vorbereitet. Sie sind kein automatisch ausgeführter Mehr-Runden-Dialog. Für eine echte Gesprächsprüfung im verwendeten Client die Angaben schrittweise übermitteln, den unveränderten Verlauf sichern und prüfen: Wird die richtige Frage gestellt? Wird ihre Antwort verwendet? Entsteht ohne erneute Aufnahme das gewünschte Dokument? Bleibt bei fehlendem Beleg nur der davon abhängige Teil offen? Ohne diesen aufgezeichneten Client-Lauf keine bestandene Gesprächsprüfung behaupten.
+
+Ein fachliches Gutachten kann das beauftragte Endprodukt sein. Ein verlangter Brief, Vertrag oder Schriftsatz ist dagegen nicht durch eine Analyse, eine Tabelle oder die Ankündigung seiner späteren Erstellung ersetzt. Die Bewertung richtet sich nach dem konkreten Auftrag, nicht nach der Anzahl von Überschriften, Rückfragen oder Dateien.
+
+## 1.8. English summary
 
 This laboratory separates package validation, observed skill selection and evaluation of actual work products. A prepared test is not a passing model run. Only expose the input directory to the working client; keep assessment criteria outside its accessible workspace. Use two independently configured judges, preserve failures and disagreements, and compare identical cases with recorded client versions, model versions, timing and artifact hashes. Automated agreement does not independently verify legal sources or authorize filing. Remote evaluation is opt-in and may incur provider charges.

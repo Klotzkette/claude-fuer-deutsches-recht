@@ -5,48 +5,40 @@ description: "Für Notariat im Alltag: Kaltstart Urkundenvorgang und Vollzugscoc
 
 # Notariat im Alltag: Kaltstart Urkundenvorgang und Vollzugscockpit
 
-## Aufgabe
+## 1. Auftrag
 
-Dieser Skill bearbeitet **Kaltstart Urkundenvorgang und Vollzugscockpit** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Bereite den bestellten Urkundenvorgang für die notarielle Prüfung vor. Lies Auftrag, aktuellen Entwurf sowie einschlägige Register-, Grundbuch- oder Bankunterlagen und bestimme die noch nötigen Erklärungen und Nachweise.
 
-## Kaltstart in 6 Fragen
+## 2. Fehlende Angaben und Fortsetzung
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+Entnimm Beteiligte, Geschäft, Entwurfsstand, Termin und gewünschtes Dokument den vorhandenen Unterlagen. Erfrage nur entscheidende Lücken: etwa einen Vertretungsnachweis, die Bankvorgabe zur persönlichen Haftung oder den Zahlungsbeleg zur Kapitalaufbringung.
 
-## Prüfprogramm
+Nach Eingang neue Angaben mit den bisherigen Belegen abgleichen. Betroffene Personen, Erklärungen, Beträge und Anlagen aktualisieren; neue entscheidende Widersprüche gezielt klären. Unabhängige Teile vorläufig bearbeiten und danach den bestellten Entwurf fertigstellen, ohne die Aufnahme zu wiederholen.
+
+## 3. Prüfung
 
 - Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
 - BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
 - Form, Belehrung, Identität, Vertretung und Vollzug trennen
 - Register- und Grundbuchtauglichkeit gesondert prüfen
 - Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Zuständigkeit, Form, Frist und Vollzug getrennt prüfen; nur die für das bestellte Dokument erforderlichen Ergebnisse ausgeben.
 - Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
 - Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
-## Typische Fallen
+## 4. Kontrolle
 
 - Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
 - Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
 - Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
 - Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-## Output
+## 5. Ergebnis
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+Liefere nach Auftrag den Urkunden- oder Anmeldeentwurf, das Mandantenanschreiben, die Registerantwort, Kostenprüfung oder Vollzugsliste. Enddokumente werden vollständig ausformuliert, nicht als Stichwortgerüst ausgegeben. Nutzerseitige Dateinamen gehen vor; bei formatierten Dokumenten Times New Roman 11 Punkt und dezimale Gliederung verwenden. Technische Prüfhinweise getrennt vom Urkundentext halten.
 
-## Notariatsvertiefung
+## 6. Notarielle Amtsgrenzen
 
-Bei **Kaltstart Urkundenvorgang und Vollzugscockpit** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+Prüfe die für den Vorgang erforderliche Folge von Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung und Register- oder Grundbuchvollzug. Dokumentiere Kosten und Wiedervorlage, soweit einschlägig. Identitätsfeststellung, Belehrung, Beglaubigung und Beurkundung nicht aus einem Scan ableiten oder als erfolgt fingieren; persönliche Amtshandlungen bleiben beim Notar. Keine eigenmächtige Einreichung, Fälligkeitsmitteilung oder Zahlung.
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+Bei Register- und Grundbuchvorgängen konkret benennen, welcher Nachweis in welcher Form fehlt: Original, beglaubigte Abschrift, Ausfertigung, Apostille beziehungsweise Legalisation, Übersetzung oder elektronisch signierte Datei. Fehlenden Zugriff offenlegen; keine erfolgreiche Prüfung oder Dateierzeugung behaupten, die nicht stattgefunden hat.

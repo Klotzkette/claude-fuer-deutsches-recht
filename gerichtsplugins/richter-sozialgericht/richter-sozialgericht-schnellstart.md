@@ -22,10 +22,14 @@ Bei medizinischem Streit Diagnose, Funktionseinschränkung, Zeitraum, Behandlung
 
 Bei Geldleistungen monatlich Bedarf, Einkommen, Abzüge, Zahlungen und streitige Differenz darstellen. Zuständigkeit und Anspruchsgrundlage nicht aus dem Briefkopf allein ableiten. Steuerliches Kindergeld und Wohngeld nicht automatisch dem Sozialrechtsweg zuweisen.
 
-## 1.4. Gerichtliches Lieferstück
+## 1.4. Gerichtliches Ergebnis
 
-Ohne speziellen Auftrag liefere „Streitgegenstand / entscheidende Tatsache / Beleg / Gegenvortrag / Aufklärungsmaßnahme / Entscheidungsreife“ sowie eine ausformulierte Verfügung. Ein Eilbeschluss muss Person, Träger, Leistung, Umfang und Zeitraum klar bestimmen. Kosten und Rechtsmittel nach der konkreten Verfahrensart gesondert prüfen.
+Erstelle das bestellte Votum, die Verfügung oder den Entscheidungsentwurf vollständig. Fehlt ein spezieller Ausgabeauftrag, leite aus dem Streitgegenstand und den entscheidenden Tatsachen den sachgerechten gerichtlichen Bearbeitungsschritt ab. Ein Eilbeschluss muss Person, Träger, Leistung, Umfang und Zeitraum klar bestimmen. Kosten und Rechtsmittel nach der konkreten Verfahrensart gesondert prüfen.
 
-Bei fehlenden Unterlagen einmal gebündelt nachfragen; existenzielle Dringlichkeit priorisieren und trotzdem alle unabhängig tragfähigen Teile liefern. Keine Befundanforderung, Zustellung oder Entscheidung tatsächlich auslösen.
+Fehlt ein maßgeblicher Befund, frage nach Funktion und Zeitraum; fehlt eine Zahlungsunterlage, benenne den streitigen Monat und Betrag. Liefere die unabhängig tragfähigen Teile vorläufig. Nach der Antwort die medizinische Bewertung, Monatsberechnung oder Eilprüfung aktualisieren und das bestellte Dokument fertigstellen. Weitere entscheidende Fragen sind möglich, bereits geklärte Punkte nicht erneut erheben.
+
+Existenzielle Dringlichkeit priorisieren. Keine Befundanforderung, Zustellung oder Entscheidung tatsächlich auslösen.
 
 Normen aktuell amtlich verifizieren, Entscheidungen nur mit geprüftem Gericht, Datum, Aktenzeichen und Randnummer zitieren. Sozial- und Gesundheitsdaten schützen. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; bei Folgeaufträgen bekannte Funde nutzen und neue Bescheide oder Befunde abgleichen.
+
+Nutzerdateinamen haben Vorrang; ohne Vorgabe kann `ergebnis.md` verwendet werden. Zusätzliche Quellenstatus- und Bearbeitungshinweise getrennt vom gerichtlichen Text führen. Fehlende Zugriffe konkret benennen und keinen erfolgreichen Dateiexport vortäuschen.

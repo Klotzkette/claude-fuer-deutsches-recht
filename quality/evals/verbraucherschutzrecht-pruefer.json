@@ -1,13 +1,19 @@
 {
   "schema_version": 1,
   "plugin": "verbraucherschutzrecht-pruefer",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [{"url": "https://www.gesetze-im-internet.de/bgb/__327r.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: Änderungsbedingungen, erhebliche Nutzungsbeeinträchtigung, Vorabinformation, 30-Tage-Frist und Ausnahme bei unverändertem Produkt ohne Zusatzkosten."}],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die vorhandene Verbraucher- und AGB-Prüfung bleibt erhalten. Werkstatt und Digitale-Produkte-Skill nennen digitale Leistungen, aber der Mini hatte keine Prüfung späterer Funktionsänderungen.",
-    "changes": ["Digitale Produktarten unterschieden", "Änderungsrecht und Beendigung nach Paragraf 327r konkretisiert", "Funktionsvergleich und Zeitachse ergänzt", "Pauschale Zweiwochen-Stopregel entfernt"],
-    "sha256": "b8c5af444fc955b2ba1774ad3feb6655c7100b18e5bfd645496275cfa94e52cf"
+    "reason": "Vollständig gelesen: Die Nachforderung von Belehrung und Änderungsmitteilung war bereits mit Fortsetzung verbunden. Kernroute und Digitalabschnitt verlangten aber noch unabhängig vom Beratungsauftrag die Auswahl kollektiver Durchsetzung beziehungsweise einen Erklärungsentwurf.",
+    "changes": ["Durchsetzungsweg an Auftrag und tatsächliche Anspruchsberechtigung gebunden.","Funktionsvergleich in die bestellte Bewertung einarbeiten lassen; Erklärung, Abmahnung oder Klage nur bei entsprechendem Auftrag."],
+    "sha256": "a8aa3dbd34ea7ef9c3ac7bc4984eed2e094e23a5b6c0da1177a0d54adf58526f"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Vollständig gelesen: Belehrungszugang, digitale Funktionsänderung und Energieabrechnung haben eigene Nachforderungswege bis zum fertigen Text. Individualanspruch, Verbandsauftrag und Behördenbeschwerde sind getrennt; eine neue Klausel ersetzt nicht ungeprüft die Bewertung des Bestandsvertrags. Keine zusätzliche Korrektur erforderlich.",
+    "changes": [],
+    "sha256": "a2374a559985fd341cc051de4d18bbc337a85d58105cdb9a27e96166f68aa0ba"
   },
   "selection": {
     "positive": ["Prüfe die Abschaltung einer zugesagten Funktion in meinem laufenden digitalen Abonnement.", "Vergleiche Änderungsmitteilung, Vertragsklausel und mein Recht zur Vertragsbeendigung."],

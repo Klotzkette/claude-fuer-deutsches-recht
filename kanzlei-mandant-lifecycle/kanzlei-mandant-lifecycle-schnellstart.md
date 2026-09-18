@@ -26,6 +26,10 @@ Bei Abschluss oder Kanzleiwechsel eine Übergabeliste erstellen: Arbeitsergebnis
 
 ## 1.4. Abschlusskontrolle
 
-Liefere das angeforderte Memo, den Bericht oder E-Mail-Entwurf mit einer kleinen Rechnung und einem Entscheidungsprotokoll. Jede Zusage braucht Datum, Quelle und befugte Person. Kennzeichne Vorschläge, offene Entscheidungen und tatsächliche Freigaben unterschiedlich. Verwende keine erfundenen Erfolgsaussichten oder rechtlichen Fundstellen.
+Liefere das angeforderte Memo, den Bericht oder E-Mail-Entwurf vollständig ausformuliert. Rechnung und Entscheidungsübersicht nur beifügen, soweit sie die konkrete Abweichung erklären. Jede Zusage braucht Datum, Quelle und befugte Person; Vorschläge, offene Entscheidungen und tatsächliche Freigaben unterscheiden. Keine erfundenen Erfolgsaussichten oder Fundstellen.
 
-Keine eigenmächtige Budgeterhöhung, Mandatsbeendigung, Rechnungskürzung oder Versendung. Fehlt eine Unterlage, liefere den belastbaren Teil und genau die dadurch offene Entscheidung. Kein endloses Onboarding bei Folgeaufträgen. Vollständige Sätze; Export in Times New Roman mit 11 Punkt.
+Fehlt die Freigabe für eine Zusatzleistung, frage nach der betreffenden Nachricht und der Entscheidungsbefugnis. Bei abweichenden Zeitlisten kläre nur die betroffenen Buchungen. Arbeite Antworten in Kostenprognose, Leistungsumfang und Entwurf ein; neue entscheidende Widersprüche gezielt klären, ohne die Mandatsaufnahme zu wiederholen.
+
+Bei einem Hindernis den belastbaren Teil und den benötigten Beitrag nennen. Nach dessen Eingang bis zum bestellten Bericht oder Brief weiterarbeiten. Eine vollständig vorliegende Budgetfassung beweist noch keine Genehmigung; auch im Nachforderungsschreiben keine unbekannte Zusage behaupten.
+
+Keine eigenmächtige Budgeterhöhung, Mandatsbeendigung, Rechnungskürzung oder Versendung. Quellenstatus und interne Prüfhinweise gesondert vom Mandantenbrief halten. Vollständige Sätze; Export in Times New Roman mit 11 Punkt.

@@ -308,103 +308,46 @@ Dieser Skill sortiert den verwaltungsgerichtlichen Streitstoff nach Verwaltungsa
 
 _Für Finale Entscheidung als Volltext (Urteil Verwaltungsgericht): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Finale Entscheidung als Volltext (Urteil Verwaltungsgericht)
+# 1. Verwaltungsgerichtsurteil vollständig ausarbeiten
 
-## Zweck
+## 1.1. Auftrag
 
-Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern als versandfertigen Volltext im richtigen Layout — so, wie er das Gericht verlassen würde. Die Entscheidung wird zur Unterschrift fertig gebaut: mit Rubrum, vollständigem Tenor, Tatbestand oder Sachverhalt, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung.
+Erstelle das beauftragte Urteil als vollständigen Entwurf zur richterlichen Prüfung. Beginne mit der vorhandenen Akte und den bereits geklärten Fragen; vorbereitende Skills sind keine zwingende Voraussetzung.
 
-Gegenstand: Urteil des Verwaltungsgerichts.
+## 1.2. Eingaben und offene Punkte
 
-## Rechtlicher Rahmen
+Lies Rubrum, Anträge, angegriffene Bescheide, Bekanntgabenachweise, Vorverfahren, Verwaltungsakte, Protokolle und Beweisergebnisse. Bestimme Streitgegenstand, Verfahrensstand und maßgeblichen Zeitpunkt. Trenne Beteiligtenvortrag, Aktenfund und gerichtliche Feststellung.
 
-Paragrafen 113, 114 VwGO; Paragrafen 117, 118 VwGO für Urteilsaufbau; Paragraf 154 VwGO für Kosten; Paragraf 167 VwGO i.V.m. ZPO für Vollstreckbarkeit.
+Fehlt eine entscheidende Behördenunterlage oder ein Gehörsschritt, formuliere die konkrete Aufklärungs- oder Hinweisverfügung. Liefere unabhängig tragfähige Teile vorläufig. Nach Eingang prüfe die Ergänzung, berichtige Feststellungen und Würdigung und schreibe das Urteil zu Ende. Weitere gezielte Fragen sind möglich, wenn eine neue erhebliche Lücke entsteht; eine vollständige Neuaufnahme unterbleibt.
 
-## Eingangsvoraussetzungen
+## 1.3. Urteil und Nebenentscheidungen
 
-Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein. Insbesondere müssen vorliegen:
+1. Erstelle die richtige Gerichtsbezeichnung, Aktenzeichen, Beteiligten- und Vertreterangaben sowie die Angaben zu den mitwirkenden Richtern. Erfinde keine Verkündung, Unterschrift oder Besetzung.
+2. Stimme den Hauptausspruch auf das Begehren ab. Bei Anfechtung prüfe Aufhebung und gegebenenfalls Teilaufhebung nach Paragraf 113 Absatz 1 VwGO. Bei Verpflichtung unterscheide Vornahme- und Bescheidungstenor nach Absatz 5; ein fehlender Sachverhaltsnachweis ersetzt nicht die Prüfung der Spruchreife.
+3. Stelle im Tatbestand den wesentlichen Sach- und Streitstand mit den Anträgen gedrängt dar. Beziehe dich nur zulässig und verständlich auf Unterlagen. Fremde Vorgaben zu Strafurteilen oder familiengerichtlichen Beschlüssen sind hier nicht anzuwenden.
+4. Begründe Zulässigkeit und Begründetheit mit entscheidenden Tatsachen, Beweiswürdigung und Rechtsmaßstab. Prüfe Vorverfahren, Frist, notwendige Beiladung und Rechtsschutzbedürfnis. Amtsermittlung und materielle Beweislast sind zu unterscheiden.
+5. Kontrolliere Ermessen nach Paragraf 114 VwGO, ohne behördliche Zweckmäßigkeit zu ersetzen. Ermessensausfall, Fehlgebrauch und Überschreitung sind von einer möglichen Ermessensreduzierung auf Null zu trennen.
+6. Formuliere Kostenentscheidung, Vollstreckbarkeit und gegebenenfalls gesonderte Streitwertentscheidung nach den einschlägigen Regeln, insbesondere Paragrafen 154 und 167 VwGO in Verbindung mit ZPO. Teilweises Obsiegen muss sich in den Nebenentscheidungen wiederfinden.
+7. Prüfe Rechtsmittelzulassung und die vollständige Belehrung nach der Entscheidungsart, insbesondere anhand der Paragrafen 124 und 124a VwGO. Frist, Form, Vertretung und zuständige Stelle dürfen nicht aus einem beliebigen Muster übernommen werden.
+8. Prüfe nach Paragraf 117 VwGO die Urteilsbestandteile und Unterschriftsanforderungen; der Unterschrift ehrenamtlicher Richter bedarf es dort nicht. Paragraf 118 VwGO betrifft die Berichtigung offenbarer Unrichtigkeiten, nicht die nachträgliche sachliche Änderung eines Urteils.
 
-- Rubrum mit allen Parteien, Vertretern und Aktenzeichen;
-- vollständig erfasster Sachverhalt und Streitstand;
-- geprüfte Anspruchsgrundlagen oder Tatbestandsmerkmale mit Subsumtion;
-- gewürdigte Beweise oder Akten;
-- Tenor-Skizze mit Entscheidungsformel zu Hauptsache, Kosten und vorläufiger Vollstreckbarkeit oder Rechtsmittelbelehrung.
+## 1.4. Gehör und Quellen
 
-Fehlt eines dieser Stücke, weist der Skill darauf hin und unterbricht die Volltext-Erstellung, bevor er Phantasie produziert.
+Prüfe Artikel 103 Absatz 1 Grundgesetz und vermeide Überraschungsentscheidungen. Der vorhandene Hinweis BVerfG, 19.05.1992 – 1 BvR 986/91 bleibt ein Rechercheansatz; Entscheidungsform, Inhalt und einschlägige Randnummer sind vor Zitierung amtlich zu verifizieren.
 
-## Aufbau des Volltextes
+Amtliche Kontrollstellen: https://www.gesetze-im-internet.de/vwgo/__113.html, https://www.gesetze-im-internet.de/vwgo/__117.html und https://www.gesetze-im-internet.de/vwgo/__118.html. Nutze references/zitierweise.md nur ergänzend, soweit verfügbar. Quellenabrufstatus steht in einer getrennten Arbeitsnotiz, nicht im Urteil.
 
-### 1. Briefkopf und Rubrum
+## 1.5. Ausgabe und Kontrolle
 
-Gerichtsbezeichnung in der ersten Zeile (zum Beispiel „Amtsgericht München"), Aktenzeichen, Verkündungsdatum, vollständiges Rubrum mit Parteien, Prozessbevollmächtigten, Streitgegenstand und Spruchkörper.
+Liefere das Urteil in vollständigen, ausformulierten Sätzen, nicht als Tenorskizze oder Prüfungsliste. Beachte Ausformulierungspflicht und Formatstandard: dezimale Gliederung, echte Umlaute, ausgeschriebenes „Paragraf“, keine Doppelsterne im Fließtext und möglichst Times New Roman 11 pt. Der gewünschte Dateiname geht vor.
 
-### 2. Tenor (Entscheidungsformel)
+Vergleiche Antrag, Tenor, Gründe, Kosten und Belehrung sowie alle Namen, Daten und Beträge. Ein Entwurf mit entscheidender Tatsachenlücke bleibt vorläufig; markierte Platzhalter rechtfertigen keine Behauptung der Entscheidungsreife. Unterzeichnung, Entscheidung und externe Bekanntgabe bleiben dem zuständigen Gericht vorbehalten.
 
-Der Tenor wird vollständig ausformuliert. Er ist die rechtskraftfähige Anordnung. Beispiel für diesen Spruchkörper:
+## 1.6. Beispiel
 
-1. Der Bescheid der Beklagten vom [Datum] wird aufgehoben.
-2. Die Beklagte wird verpflichtet, über den Antrag der Klägerin unter Beachtung der Rechtsauffassung des Gerichts erneut zu entscheiden.
-3. Die Kosten des Verfahrens traegt die Beklagte.
-4. Das Urteil ist hinsichtlich der Kosten vorläufig vollstreckbar.
+Die nachgereichte Verwaltungsakte enthält erstmals die maßgeblichen Ermessenserwägungen. Prüfe ihre rechtliche Bedeutung, gewähre das erforderliche Gehör und überarbeite danach Gründe und gegebenenfalls den Bescheidungstenor. Liefere anschließend den vollständigen aktualisierten Urteilsentwurf, nicht nur einen Vermerk über den Akteneingang.
 
-Der Tenor enthält zwingend: Hauptausspruch zur Sache, Kostenentscheidung, ggf. Aussprache zur vorläufigen Vollstreckbarkeit, ggf. Streitwertfestsetzung.
-
-### 3. Tatbestand oder Sachverhalt
-
-Knappe, sachlich-distanzierte Darstellung des unstreitigen Sachverhalts und des streitigen Parteivortrags. Bei Beschlüssen entsprechend „Gründe I."; bei Strafurteilen die Feststellungen zum Tatgeschehen. Verwende den Imperfekt für Geschehensschilderung, das Präsens für Antrag und Verfahrensstand.
-
-### 4. Entscheidungsgründe
-
-Strenge Subsumtionsstruktur: Anspruchsgrundlage oder Tatbestandsmerkmal, Tatbestandsvoraussetzungen, Subsumtion mit Belegen aus den Akten, Ergebnis. Einreden und Einwendungen am Ende der jeweiligen Prüfungsebene. Bei Strafurteilen Beweiswürdigung und Strafzumessung getrennt darstellen.
-
-### 5. Nebenentscheidungen
-
-Kosten, vorläufige Vollstreckbarkeit, Streitwertfestsetzung. Bei Familien- und Sozialsachen die jeweils einschlägigen Kostenregeln.
-
-### 6. Rechtsmittelbelehrung
-
-Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat. Niemals weglassen, niemals abkuerzen.
-
-### 7. Unterschriftenzeile
-
-Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
-
-## Prozessuale Glanzkontrolle
-
-Vor der finalen Entscheidung wird zwingend geprüft:
-
-1. Rechtsschutzart, Antrag und Tenor passen zusammen.
-2. Amtsermittlung, Beteiligtenvortrag und Beweiswürdigung sind getrennt dargestellt.
-3. Notwendige Beiladung, Vorverfahren, Klagefrist, Statthaftigkeit und Rechtsschutzbedürfnis sind sichtbar erledigt.
-4. Eilrechtsschutz trennt Anspruch, Grund, Folgenabwägung und Reichweite der Anordnung.
-5. Ermessensfehler werden als Ausfall, Fehlgebrauch, Überschreitung oder Reduktion auf Null benannt.
-6. Artikel 103 Absatz 1 GG und das Verbot der Überraschungsentscheidung sind geprüft; BVerfG, 19.05.1992 - 1 BvR 986/91 dient als Anker.
-
-## Format und Stil
-
-- Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).
-- Sachlich, knapp, in deutscher Gerichtssprache.
-- Generisches Maskulinum.
-- Paragrafenzeichen ausgeschrieben als „Paragraf".
-- Aktenzeichen Punkt- oder Schrägstrich-Stil, niemals Komma.
-- Keine Doppelsterne für Fettschrift im Fliesstext.
-
-## Ergebnis
-
-Ein vollständiger, versandfertiger Entscheidungstext, der von Rubrum bis Unterschrift alles enthält. Der Spruchkörper kann ihn unterschreiben — oder vor der Unterschrift redaktionell pruefen. Bei offenen Lückenpunkten bleibt der Volltext stehen, die Lücken werden in eckigen Klammern markiert und am Ende in einer Lücken-Liste zusammengefasst.
-
-## Eigenkontrolle
-
-Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
-
-1. Stimmt der Tenor mit den Entscheidungsgründen überein?
-2. Ist die Kostenentscheidung folgerichtig?
-3. Ist die Rechtsmittelbelehrung vollständig und richtig?
-4. Sind alle Parteibezeichnungen einheitlich?
-5. Sind alle Daten, Aktenzeichen und Betraege widerspruchsfrei?
-6. Sind alle Lückenpunkte explizit markiert?
-
-Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+Ein Eilbeschluss folgt nicht automatisch aus einem Urteilsauftrag; bei entsprechendem Auftrag sind die Paragrafen 80/80a oder 123 VwGO getrennt zu prüfen. Ohne Datei- oder Quellenzugriff benenne die Grenze und arbeite unabhängig mögliche Teile weiter; ohne Export liefere Text, ohne eine Datei oder erfolgte Prüfung zu behaupten.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 
@@ -788,35 +731,35 @@ Dieser Skill sortiert den verwaltungsgerichtlichen Streitstoff nach Verwaltungsa
 
 _Für 01 Zulässigkeit Verwaltungsklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
-# 01 Zulässigkeit Verwaltungsklage
+# 1. Zulässigkeit der Verwaltungsklage
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Auftrag und vorhandene Akte
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Prüfe aus Sicht des Verwaltungsgerichts, ob über das erhobene Begehren sachlich entschieden werden kann. Lies Klage, Bescheid, Widerspruch und Bekanntgabenachweise und bestimme:
 
 - Frist oder Sofortrisiko.
 - erkannte Rolle, Zielrichtung und Verfahrensstand.
 - tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+- erforderlichen gerichtlichen Hinweis oder die nächste Verfügung.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Fehlt ein Bekanntgabenachweis oder bleibt das Rechtsschutzziel unklar, frage nach genau diesem Punkt. Nach Antwort berichtige Fristprüfung oder Antragsauslegung und arbeite am bestellten Dokument weiter. Entsteht eine neue entscheidende Lücke, kläre sie gezielt; bereits beantwortete Fragen bleiben erledigt. Nicht belegte Annahmen dürfen weder als Zugang noch als Parteibegehren ausgegeben werden.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+Liefere je nach Auftrag Zulässigkeitsvermerk, Hinweis oder Entscheidungsentwurf. Bei offenem Beweis arbeite unabhängige Teile vorläufig aus und benenne die konkrete Aufklärungsmaßnahme; ein beauftragter Entwurf endet nicht bei der Fragenliste.
 
-## Zweck
+## 1.2. Gegenstand
 
-Zulässigkeit der Klage: Verwaltungsrechtsweg Paragraf 40 VwGO, Klagearten Paragrafen 42 113 (Anfechtung Verpflichtung Feststellung), Klagebefugnis, Vorverfahren Paragraf 68, Frist Paragraf 74
+Prüfe Verwaltungsrechtsweg nach Paragraf 40 VwGO, Klageart nach den Paragrafen 42 und 43 VwGO, Klagebefugnis, Vorverfahren nach Paragraf 68 und Frist nach Paragraf 74 VwGO. Paragraf 113 VwGO betrifft die möglichen Entscheidungsfolgen und ersetzt nicht die Bestimmung der Klageart.
 
-## Rolle
+## 1.3. Gerichtliche Rolle
 
 
 Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei ehrenamtlichen Richtern, Einzelrichter nach Paragraf 6 VwGO). Anfechtung, Verpflichtung, Asylklage, Eilverfahren.
 
-## Rechtsrahmen
+## 1.4. Rechtsrahmen
 
-VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG)
+Prüfe VwGO, einschlägiges Verwaltungsverfahrensrecht, Grundgesetz, GKG, gegebenenfalls RVG und das betroffene Fachgesetz, etwa BImSchG, BauGB, AsylG oder AufenthG. Die bisherige Angabe „BVerwGG“ nicht ungeprüft als geltende Verfahrensgrundlage übernehmen.
 
-## Pflichtschritte
+## 1.5. Zulässigkeit prüfen
 
 1. Statthafte Klageart aus dem Rechtsschutzziel bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs- oder allgemeine Leistungsklage); den Antrag nach Paragraf 88 VwGO auslegen, ohne das Begehren umzudeuten. Votum: statthaft / nicht statthaft / umzustellen.
 2. Verwaltungsrechtsweg nach Paragraf 40 VwGO nach dem Streitgegenstand bestimmen, nicht aus dem Behördenrubrum ableiten; Sonderzuweisungen markieren. Votum: eröffnet / nicht eröffnet.
@@ -826,26 +769,22 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 6. Beteiligten- und Prozessfähigkeit sowie allgemeines Rechtsschutzbedürfnis abschließend prüfen. Bei Unzulässigkeitsrisiko Hinweis, Anhörung oder Gerichtsbescheid (Paragraf 84 VwGO) vorbereiten.
 7. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; jede Norm, jedes Aktenzeichen und jede Frist vor Verwendung in amtlichen oder frei zugänglichen Quellen verifizieren.
 
-## Output
+## 1.6. Ausgabe
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+Liefere das bestellte Dokument vollständig ausformuliert. Ein gerichtlicher Hinweis bezeichnet die erhebliche Frage, den Adressaten und die Frist; ein Entscheidungsentwurf beantwortet die geklärten Zulässigkeitsfragen mit Gründen. Technischer Quellenstatus und noch benötigte Angaben stehen in einer getrennten Arbeitsnotiz. Der Nutzerdateiname geht vor; ergebnis.md ist lediglich ein möglicher Standard.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+Beachte Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Stichwortlisten, dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt. Kennzeichne fehlende Angaben deutlich, ohne sie durch erfundene Tatsachen zu ersetzen. Bei reiner Textausgabe steht der Exporthinweis getrennt vom gerichtlichen Dokument.
 
-## Anker-Rechtsprechung
+## 1.7. Rechtsprechung verifizieren
+
+Die folgenden vorhandenen Suchansätze sind keine neu verifizierten Leitsätze. Prüfe amtlichen Volltext, Verfahrenskontext und Übertragbarkeit vor Zitierung; insbesondere darf ein Maßstab aus einem anderen Rechtsgebiet nicht allein wegen ähnlicher Eilbedürftigkeit verallgemeinert werden.
 
 - BVerfG, Beschluss vom 12.05.2005 - 1 BvR 569/05, frei nachweisbar über bundesverfassungsgericht.de/dejure: Effektiver Eilrechtsschutz verlangt eine Folgenabwägung, wenn die Hauptsache nicht rechtzeitig geklärt werden kann.
 - Ständige Rechtsprechung des BVerfG zu Art. 19 Abs. 4 GG: Effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle, besonders bei grundrechtsintensiven Verwaltungsakten; ein konkretes Aktenzeichen wird vor produktiver Zitierung verifiziert.
 - BVerwG, Beschluss vom 13.09.2011 - 1 VR 1.11, frei nachweisbar über Rechtsprechung-im-Internet/dejure: Eilrechtsschutz muss summarische Rechtmäßigkeitsprüfung und Interessenabwägung nachvollziehbar verbinden.
 - Ständige Rechtsprechung des BVerwG zur Ermessenskontrolle nach Paragraf 114 VwGO: Das Gericht prüft Ermessensnichtgebrauch, Ermessensfehlgebrauch, Ermessensüberschreitung und Verfahrensfehler; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet verifiziert.
 
-## Prüfungsschema in Stufen
+## 1.8. Abschluss der Zulässigkeitsprüfung
 
 1. Zulässigkeit Verwaltungsklage: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist, Beteiligtenfähigkeit und Rechtsschutzbedürfnis prüfen.
 2. Rechtsweg und Zuständigkeit nicht aus dem Behördenrubrum ableiten, sondern nach Streitgegenstand bestimmen.
@@ -853,38 +792,41 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 4. Klageantrag nach erkennbarem Rechtsschutzziel auslegen, ohne das Begehren umzudeuten.
 5. Bei Unzulässigkeitsrisiko Hinweis, Anhörung oder Gerichtsbescheid sorgfältig vorbereiten.
 
-## Typische Fallstricke
+## 1.9. Besondere Grenzen
 
 - Anfechtungsklage, Verpflichtungsklage und Feststellungsklage werden aus dem Antrag nicht sauber herausgelesen.
 - Eilrechtsschutz nach Paragraf 80 Abs. 5 VwGO wird mit Paragraf 123 VwGO vermischt.
 - Ermessen wird durch eigene Zweckmaessigkeitserwaegungen ersetzt.
 - Aktengeheimnis und Amtsverschwiegenheit nach Paragraf 353b StGB und Paragraf 43 DRiG begrenzen jede externe Verarbeitung.
 
-## Tenor-Bausteine bzw. Beschluss-Bausteine
+## 1.10. Formulierungsbeispiele
 
-### Baustein A
+### 1.10.1. Nur bei passender Eilentscheidung
 
 ```text
 Die aufschiebende Wirkung der Klage gegen den Bescheid vom [Datum] wird angeordnet, soweit [Regelungsteil]. Im Übrigen wird der Antrag abgelehnt.
 ```
 
-### Baustein B
+### 1.10.2. Gezielte Aktenanforderung
 
 ```text
 Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stellungnahme zu [Ermessensausübung/Anhörung/Zuständigkeit] binnen [Frist] gebeten.
 ```
 
-## Benachbarte Skills
+## 1.11. Optionale Vertiefung
 
-- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-amtsermittlung-und-sachverhaltsfeststellung` - Folgeskill nutzen, sobald Zulässigkeit Verwaltungsklage entscheidungs- oder verfügungsreif vorbereitet ist.
+Der Skill `02-amtsermittlung-und-sachverhaltsfeststellung` kann die anschließende Aufklärung ergänzen. Er ist keine Voraussetzung, um hier das verlangte Dokument fertigzustellen.
 
-## Gerichtliche Arbeitsprodukt-Schärfung
+## 1.12. Gerichtliche Verantwortung
 
 - Rolle: Verwaltungsgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eilbeschluss, Gerichtsbescheid, Urteil, Hinweis oder Vergleichsvorschlag; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
 - Pflichtstamm: Paragrafen 42, 80, 80a, 86, 88, 113, 123 VwGO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
 - Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+- Bei ungeklärter Zuständigkeit, Befangenheit oder einem unaufgeklärten Grundrechtseingriff bereite die konkrete Prüf- oder Vorlageverfügung vor. Das hindert unabhängig mögliche Aufklärung nicht. Entscheidung und Zustellung bleiben dem zuständigen Gericht vorbehalten; keine externe Handlung ohne Freigabe.
+
+## 1.13. Fortsetzung
+
+Nach Eingang angeforderter Akten oder Stellungnahmen prüfe die betroffenen Punkte erneut und arbeite bis zum verlangten Hinweis, Eilbeschluss oder Urteil weiter. Ohne Zugriff benenne die konkrete Grenze und bearbeite unabhängige Teile; ohne Export liefere Text und behaupte keine erzeugte Datei.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 

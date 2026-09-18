@@ -29,12 +29,13 @@ Vor jeder Bearbeitung muss klar sein, welches Material existiert, woher es kommt
 
 ## Schneller Arbeitsmodus
 
-- Erst klären: Produktart, Adressat, Verwendungsort, Frist und Freigabeperson. Wenn Angaben fehlen, mit einer kurzen Arbeitsannahme starten und offene Punkte sichtbar markieren.
-- Trenne belegte Angaben aus Manuskript/Metadaten von redaktionellen Vorschlaegen. Keine Autorenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
-- Liefere zuerst eine nutzbare Arbeitsfassung, danach eine kurze Prüfliste für Herstellung, Marketing, Vertrieb, Justiziariat oder Autoren.
+- Produktart, Adressat, Verwendungsort, Frist und Freigabeperson zuerst den vorhandenen Unterlagen entnehmen. Nur entscheidende Lücken nachfragen; eine fehlende Rechtefreigabe nicht als erteilt annehmen.
+- Trenne belegte Angaben aus Manuskript und Metadaten von redaktionellen Vorschlägen. Keine Autorenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
+- Nach Eingang der fehlenden Manuskriptfassung oder Bildfreigabe die betroffenen Textstellen und Verwendungsrechte abgleichen. Neue entscheidende Unklarheiten gezielt nachfragen und anschließend den beauftragten Beitrag oder die Autorenantwort fertigstellen, nicht nur weitere Schritte auflisten.
+- Ausformulierte Texte in vollständigen Sätzen liefern; technische Prüfnotizen getrennt halten. Nutzerdateinamen gehen vor, `ergebnis.md` nur ohne Vorgabe. Formatierte Texte verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Veröffentlichung und Autorenanschreiben nur nach Freigabe.
 
-## Qualitaetsgate
+## Schlussprüfung
 
 - Ist der Text für den konkreten Kanal verwendbar?
 - Sind Rechte, Quellen, Namen, Titel, Preis, Termine und Freigaben als belegt oder offen markiert?
-- Gibt es genau die naechsten Schritte mit Owner, Frist und Eskalation?
+- Sind verbleibende Nachforderungen konkret bezeichnet und den zuständigen Personen mit benötigtem Termin zugeordnet?

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "normenkontrolle-bauleitplanung",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/vwgo/__47.html",
@@ -16,12 +16,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der ganze Mini enthielt Planerhonorar-Beweislast und Bauüberwachungsprodukte. Der Jahresfristskill zeigt die notwendige Trennung von gerichtlichem Antrag und Gemeinderüge.",
+    "reason": "Vollständig gelesen: Gerichtlicher Antrag und gemeindliche Rüge haben getrennte Frist- und Zugangsnachweise; offene Bekanntmachung beendet nicht die Planprüfung.",
     "changes": [
-      "Fremde Honorarroute entfernt.",
-      "Zwei Fristen, konkreten Planfehler und Betroffenheit zum Kern gemacht."
+      "Nachgereichte Bekanntmachung und Gutachten führen zu aktualisierter Frist, Fehlerbewertung und bestelltem Rüge- oder Antragstext."
     ],
-    "sha256": "a68af116a7ab0eede60bd2ac954f9b90114077553e6e5e999337efeeff946922"
+    "sha256": "2fdc86fc06f1fe34ae3f116b4437c09d7e6000c2de301639c1f86fc00ff18678"
   },
   "selection": {
     "positive": [
@@ -66,5 +65,13 @@
       ],
       "target_skill": "jahresfrist-47-abs-2-vwgo"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständige Werkstatt wurde einschließlich Vertragsabgrenzung, anderer Satzungen und Schlusskontrolle gelesen. Planerhonorarregeln werden nicht zur Normenkontrolle verallgemeinert.",
+    "changes": [
+      "Festsetzungs-, Beteiligungs- und Abwägungsfragen werden anhand konkreter Unterlagen fortgesetzt; Eilrechtsschutz bleibt auftragsabhängig und Planfehler werden auf ihre Rechtsfolge geprüft."
+    ],
+    "sha256": "a9da9d19a3934dbdb6fc5548b88d8785ddf96f4169b1ae2566394eb774c1ce52"
+  }
 }

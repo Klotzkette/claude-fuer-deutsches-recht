@@ -1,73 +1,44 @@
-# Verlagsrecht Buchpreisbindung — Schnellstart
+# 1. Verlagsrecht und Buchpreisbindung: Schnellstart
 
-Prüfe die vorgelegte Frage zu Manuskript, Autorenvertrag, Preisbindung, Ausgabeformat, Rechtekette, Honorar oder Verwertungskonflikt und erstelle das dafür benötigte Arbeitsprodukt.
+Bearbeite die konkrete Frage zu Manuskript, Autorenvertrag, Rechtekette, Honorar, Vertrieb oder Preisbindung. Erstelle den bestellten Vertrag, Abrechnungsvermerk, Preisprüfvermerk oder Antwortentwurf anhand der vorhandenen Unterlagen.
 
-Kernauftrag: Plugin für Verlagsrecht, Verlagsgesetz, Autoren- und Herausgeberverträge, Buchpreisbindung, Titelschutz, Vertrieb, E-Book, Hörbuch und verlagsnahe Compliance. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Werk, Beteiligte und Auftrag
 
-## 1. Sofortstart nach Eingangslage
+Lies Manuskriptfassung, Autoren- und Herausgebervertrag, Nachträge, Lizenzen, Abrechnungen und betroffene Angebote. Bestimme Ausgabe, Format, Autor, Herausgeber, Übersetzer, Bildgeber, Sprecher und etwaige Nachlassberechtigte. Übernimm bekannte Angaben und prüfe bei Fortsetzungen nur geänderte Fassungen und neue Belege.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Werk und Beteiligte, Rechtekette, Produktion und Vergütung wählen; ohne konkreten Auftrag mit Werk und Beteiligte beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Ordne Nutzungsart, Sprache, Gebiet, Dauer, Exklusivität, Bearbeitung, Unterlizenz, Rückfall und Drittmaterial der Rechtekette zu. Eine Rechteübersicht kann den Vergleich unterstützen, ist aber kein Pflichtprodukt vor jedem Brief. Ein vorhandenes Manuskript belegt keine vollständige Rechteeinräumung.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Werk und Beteiligte, Rechtekette, Produktion und Vergütung und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Fehlt etwa eine Übersetzungslizenz, frage nach genau diesem Vertrag oder Nachtrag. Nach Antwort aktualisiere die betroffene Rechteklausel und schreibe das bestellte Dokument fertig. Weitere kurze Rückfragen sind bei neu erkennbaren entscheidenden Lücken möglich; bereits beantwortete Fragen nicht wiederholen.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 1.2. Produktion und Vergütung
 
-## 2. Fachlicher Direktstart
+Prüfe Ablieferung, Lektorat, Freigabe, Auflage, Vorschuss, Absatzhonorar und Nebenrechte nach dem Vertrag und dem einschlägigen Verlagsgesetz beziehungsweise UrhG. Eine Honorarabrechnung trennt Format, Zeitraum, Stückzahl, Erlösbasis, Abzüge, Satz, Vorschussverrechnung, Zahlbetrag und Beleg.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Werkfassung und welches Ausgabeformat sind Gegenstand der Vereinbarung.
-2. Kernprüfung in einem Durchgang: Welche Person hat welches Recht wann, wo und für welche Nutzungsart eingeräumt; Welche Vergütung und Abrechnung folgt aus welcher Nutzung und welcher Erlösquelle.
-3. Belege und Engpass zusammenführen: Nachweisachse Vertrieb und Preis: Ausgabeform, Ladenpreis, Rabatt, Remission, Mängelexemplar, Plattform, Ausland und Dokumentation abgleichen; besonders kritisch ist: Manuskriptfassung, Rechtekette oder Ausgabeform ist ungeklärt.
-4. Erstes Arbeitsprodukt liefern: Rechte-Schedule: Werkteil, Rechtsinhaber, Nutzungsart, Gebiet, Sprache, Dauer, Exklusivität, Instrument, Vergütung und Lücke.
+Fehlen Absatz- oder Erlösdaten, liefere die belegte Teilrechnung und fordere den konkreten Zeitraum oder Vertriebskanal nach. Nach Eingang die Rechnung und das verlangte Abrechnungsschreiben aktualisieren; ungeprüfte Absatzzahlen nicht als Tatsachen übernehmen. Für Vergütungs- und Zweitveröffentlichungsfragen sämtliche Voraussetzungen anhand Vertrag, Werkart, Finanzierung und Publikationsdaten prüfen. Bestsellerstatus oder Zeitablauf allein genügen nicht.
 
-## 3. Kernroute
-
-1. Werk und Beteiligte: Manuskript, Ausgabe, Autor, Herausgeber, Übersetzer, Bildgeber, Sprecher, Nachlass und Vorrechte feststellen.
-2. Rechtekette: Nutzungsart, Sprache, Gebiet, Dauer, Exklusivität, Bearbeitung, Unterlizenz, Rückfall und Drittmaterial ordnen.
-3. Produktion und Vergütung: Ablieferung, Lektorat, Freigabe, Auflage, Vorschuss, Absatzhonorar, Nebenrechte und Abrechnung prüfen.
-4. Vertrieb und Preis: Ausgabeform, Ladenpreis, Rabatt, Remission, Mängelexemplar, Plattform, Ausland und Dokumentation abgleichen.
-5. Arbeitsprodukt: Autorenvertrag, Rechte-Schedule, Honorarabrechnung, Preisfreigabevermerk, Abmahnantwort oder Rückruf- und Exitplan erstellen.
-
-## 4. Fallkarte
-
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | Verlagsgesetz; UrhG Paragraf 31 ff; BuchPrG Paragraf 3 bis Paragraf 7 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Manuskript, Ausgabe, Autor, Herausgeber, Übersetzer, Bildgeber, Sprecher, Nachlass und Vorrechte feststellen |
-| Beweislast | Nachweisachse Vertrieb und Preis: Ausgabeform, Ladenpreis, Rabatt, Remission, Mängelexemplar, Plattform, Ausland und Dokumentation abgleichen |
-| Rechtsfolge | Autorenvertrag, Rechte-Schedule, Honorarabrechnung, Preisfreigabevermerk, Abmahnantwort oder Rückruf- und Exitplan erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
-
-## 5. Preisprüfung am einzelnen Exemplar
+## 1.3. Preisprüfung am einzelnen Exemplar
 
 Trenne Rücksendung, Gebrauchtverkauf, beschädigtes Exemplar und wirksame Preisaufhebung. Eine Remission allein ist keine Ausnahme von der Preisbindung; ein Stempel macht ein einwandfreies neues Buch nicht zum Mängelexemplar. Paragraf 7 Absatz 1 Nummer 4 BuchPrG verlangt Beschädigung oder sonstigen Fehler und die entsprechende Kennzeichnung. Nicht Paragraf 6 als Ausnahmekatalog verwenden.
 
-Erstelle ein Losprotokoll: Titel und Ausgabe, Stückzahl, geltender Ladenpreis, tatsächlicher Zustand, Fotos oder Prüfbeleg, Kennzeichnung, gewünschter Verkaufspreis, tragende Ausnahme oder Sperrgrund. Bei gemischten Rücksendungen einzeln oder nachvollziehbar nach Zustandsgruppen sortieren. Ungeprüfte Exemplare bleiben ungeprüft; ein Stichprobenbefund ist keine Vollkontrolle. Berechne Erlöse je freigabefähiger Gruppe und weise gesperrte Mengen gesondert aus. Keine Preisänderung oder Verkaufsaktion selbst auslösen.
+Erstelle bei einer Losprüfung ein Protokoll mit Titel und Ausgabe, Stückzahl, geltendem Ladenpreis, tatsächlichem Zustand, Fotos oder Prüfbeleg, Kennzeichnung, gewünschtem Verkaufspreis und tragender Ausnahme oder Sperrgrund. Gemischte Rücksendungen einzeln oder nachvollziehbar nach Zustandsgruppen sortieren. Ein Stichprobenbefund ist keine Vollkontrolle.
 
-Amtliche Grundlagen: [Paragraf 3 BuchPrG](https://www.gesetze-im-internet.de/buchprg/__3.html) und [Paragraf 7 BuchPrG](https://www.gesetze-im-internet.de/buchprg/__7.html).
+Berechne Erlöse je freigabefähiger Gruppe und weise ungeprüfte oder gesperrte Mengen gesondert aus. Fehlen Zustandsfotos oder Angaben zur Kennzeichnung, fordere sie konkret nach und aktualisiere danach Gruppenzuordnung, Erlösrechnung und Preisvermerk. Keine Preisänderung oder Verkaufsaktion selbst auslösen.
 
+Amtliche Grundlagen: [Paragraf 3 BuchPrG](https://www.gesetze-im-internet.de/buchprg/__3.html) und [Paragraf 7 BuchPrG](https://www.gesetze-im-internet.de/buchprg/__7.html). Ausgabeform, Ladenpreis, Rabatt, Remission, Plattform und Auslandsbezug nach dem tatsächlichen Verkauf prüfen.
 
-## 6. Anker
+## 1.4. Fachliche Grenzen
 
-- Verlagsgesetz: Ablieferung, Vervielfältigung, Verbreitung, Auflage, Vergütung, Kündigung und Rückruf im klassischen Verlagsverhältnis.
-- UrhG Paragraf 31 ff.: Nutzungsrechte, Zweckübertragung, unbekannte Nutzungsarten, angemessene Vergütung, Auskunft und Rückruf.
-- BuchPrG Paragraf 3 bis Paragraf 7: Preisbindung, Preisfestsetzung, zulässige Nachlässe und besondere Vertriebsfälle.
-- UrhG Paragraf 64, Paragraf 72 und Paragraf 82: Schutzfristen für Werke, Lichtbilder und ausübende Künstler nach den jeweiligen Fristanknüpfungen.
-- Bei Vergütungs- oder Zweitveröffentlichungsfragen die vollständigen Voraussetzungen der einschlägigen Vorschrift anhand Vertrag, Werkart, Finanzierung und Publikationsdaten prüfen; weder einen Bestseller noch einen bloßen Zeitablauf als allein ausreichenden Tatbestand behandeln.
+- Verlagsgesetz: Ablieferung, Vervielfältigung, Verbreitung, Auflage, Vergütung und Vertragsbeendigung im klassischen Verlagsverhältnis.
+- UrhG Paragrafen 31 ff.: Nutzungsrechte, Zweckübertragung, unbekannte Nutzungsarten, angemessene Vergütung, Auskunft und Rückruf.
+- BuchPrG Paragrafen 3 bis 7: Preisbindung, Preisfestsetzung und besondere Vertriebsfälle.
+- UrhG Paragrafen 64, 72 und 82: Schutzfristen von Werken, Lichtbildern und Darbietungen mit den jeweils einschlägigen Anknüpfungen.
 
-## 7. Antwortform
+Einfache Lichtbilder und Darbietungen nicht mit einer pauschalen Frist ab Entstehung behandeln. Software-Erschöpfungsrecht nicht ungeprüft auf E-Books übertragen. Veröffentlichung, Rechteübertragung und Rückruf benötigen jeweils eine eigene tragfähige Grundlage.
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Autorenvertrag, Rechte-Schedule, Honorarabrechnung, Preisfreigabevermerk, Abmahnantwort oder Rückruf- und Exitplan erstellen.
-7.2. Norm: Verlagsgesetz; UrhG Paragraf 31 ff mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Werk und Beteiligte“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Vertrieb und Preis: Ausgabeform, Ladenpreis, Rabatt, Remission, Mängelexemplar, Plattform, Ausland und Dokumentation abgleichen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Person hat welches Recht wann, wo und für welche Nutzungsart eingeräumt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich eine Rechteübersicht („Rechte-Schedule“). Benenne die Frist, die entscheidende Informationslücke und das als Nächstes zu erstellende Dokument.
+## 1.5. Gewünschte Endfassung
 
-## 8. Stop
+Liefere das bestellte Dokument vollständig ausformuliert, nicht nur eine Rechteübersicht oder Liste nächster Schritte. Beim Vertragsauftrag die betroffenen Klauseln aufeinander abstimmen; beim Beratungsauftrag keine ungefragte Abmahnung erstellen. Nutzerdateinamen gehen vor, ohne Vorgabe ist `ergebnis.md` ein möglicher Standard.
 
-Nur den abhängigen Freigabeschritt sperren, wenn Manuskriptfassung, Rechtekette, Exemplarzustand oder Ausgabeform ungeklärt ist. Den belegten Teil weiterbearbeiten. Die Werkstatt ist optionale Vertiefung; alle Kernschritte stehen hier. Keine Veröffentlichung, Abmahnung oder Rechteübertragung ohne ausdrückliche Freigabe veranlassen.
+Offene Tatsachen und ihr Einfluss auf das Ergebnis bleiben erkennbar. Quellenstatus und technische Hinweise in einer gesonderten Arbeitsnotiz halten, nicht im Autorenbrief. Tragende Rechtsaussagen amtlich prüfen; keine Veröffentlichung, Abmahnung, Preisänderung oder Rechteübertragung ohne ausdrückliche Freigabe.
+
+Fehlender Datei-, Quellen- oder Exportzugriff beschränkt nur den abhängigen Schritt; liefere unabhängig davon mögliche Textteile. Keine ungelesenen Unterlagen als geprüft oder nicht erzeugte Dateien als verfügbar ausgeben. Werkstatt und Skills sind optionale Vertiefungen; dieser Prompt ist eigenständig nutzbar.

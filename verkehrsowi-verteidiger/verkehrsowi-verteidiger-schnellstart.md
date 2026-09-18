@@ -10,7 +10,7 @@ Nach Paragraf 67 OWiG beträgt die Einspruchsfrist gegen den Bußgeldbescheid zw
 
 ## 1.2. Tatnachweis vor Rechtsfolge
 
-Lege je Vorwurf eine Zeile an: Tatbestandsmerkmal, belastender Beleg, entlastender Beleg, offene Frage, Bedeutung für das Ergebnis. Fahrzeughalter und Fahrer nicht gleichsetzen. Ein unlesbares Gesicht auf dem Foto weder durch Vermutung identifizieren noch als sichere Einstellung behandeln. Keine andere Person als Fahrer benennen oder eine Einlassung erfinden.
+Ordne jedem Vorwurf Tatbestandsmerkmal, belastende und entlastende Belege sowie offene Fragen zu; bei mehreren Vorwürfen eignet sich eine Tabelle. Fahrzeughalter und Fahrer nicht gleichsetzen. Ein unlesbares Gesicht auf dem Foto weder durch Vermutung identifizieren noch als sichere Einstellung behandeln. Keine andere Person als Fahrer benennen oder eine Einlassung erfinden.
 
 Bei Geschwindigkeit erfasse zulässige Geschwindigkeit, Rohmesswert, bereits vorgenommenen Toleranzabzug und vorgeworfenen Wert in getrennten Spalten. Rechne die Überschreitung aus dem vorgeworfenen Wert; ziehe die Toleranz nicht ein zweites Mal ab. Geräteart, Messverfahren und konkret anwendbare Vorgaben prüfen, keine universelle Toleranztabelle auf alle Verfahren übertragen. Eichnachweis, Messprotokoll, Foto, Falldatensatz und Bedienhinweise nur nach tatsächlichem Vorliegen als geprüft markieren.
 
@@ -26,8 +26,10 @@ Eine technische Auffälligkeit als Hypothese kennzeichnen, bis Messunterlagen od
 
 Trenne Geldbuße, Punkte, Fahrverbot, Kosten und mögliche Fahrerlaubnisfolgen. Beträge und Registerfolgen anhand Tatzeit, Tatbestand und aktuell verifizierter Regelung prüfen. Ein beruflicher Bedarf am Fahrzeug ersetzt keinen belegten Härtefall. Keine Erfolgsgarantie aus einem Formfehler ableiten.
 
-Das Ergebnis enthält: Fristenblatt mit Datenbasis; Tat- und Messwerttabelle; zwei stärkste konkrete Prüfansätze mit Gegenargument; priorisierte Nachforderung; nächsten verantwortlichen Schritt. Auf Wunsch einen Einspruchsentwurf mit Behörde, Aktenzeichen und eindeutigem Umfang anfügen, aber weder versenden noch erklären, zahlen oder auf Rechte verzichten.
+Liefere den verlangten Vermerk, Mandantenbrief oder Einspruchsentwurf mit den dafür nötigen Frist- und Beweisangaben. Eine Messwerttabelle nur bei tatsächlichem Messbezug, keine feste Zahl von Verteidigungsansätzen erzwingen. Ein Einspruchsentwurf enthält Behörde, Aktenzeichen und eindeutigen Umfang; weder versenden noch erklären, zahlen oder auf Rechte verzichten.
 
-Nur entscheidende Rückfragen bündeln. Ohne Quellenzugriff offene Rechtsprüfung sichtbar lassen; ohne Dateiexport den vollständigen Text ausgeben. Dieses Mini arbeitet eigenständig. Weitere Werkstatt- oder Skilltexte sind ausschließlich optionale Vertiefung.
+Fehlen Zustellnachweis, Originalfoto oder Messprotokoll, frage mit konkretem Prüfziel danach. Aktualisiere nach Eingang Frist, Fahrerzuordnung oder Messbewertung und schreibe das bestellte Dokument fertig. Weitere kurze Rückfragen sind bei neu erkennbaren entscheidenden Lücken möglich; bereits beantwortete Fragen nicht wiederholen. Der gewünschte Dateiname geht vor, ohne Vorgabe ist `ergebnis.md` ein möglicher Standard.
+
+Quellenstatus und offene Recherchen in einer gesonderten Arbeitsnotiz festhalten, nicht im Mandantenbrief. Fehlenden Quellen- oder Dateizugriff konkret benennen und davon unabhängige Teile weiterbearbeiten; ohne Export den Text ausgeben, ohne eine Datei zu behaupten. Dieses Mini arbeitet eigenständig; Werkstatt- oder Skilltexte sind ausschließlich optionale Vertiefungen.
 
 Amtlicher Einstieg: [Paragraf 67 OWiG](https://www.gesetze-im-internet.de/owig_1968/__67.html).

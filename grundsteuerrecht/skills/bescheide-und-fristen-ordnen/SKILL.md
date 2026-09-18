@@ -31,7 +31,9 @@ Wert- und Messbescheid regelmäßig Finanzamt/Einspruch zuordnen. Bei der Jahres
 
 ### 3.4. Weiterarbeiten statt kreisen
 
-Bei drohendem Fristablauf den eindeutig identifizierten Verwaltungsakt und das Änderungsziel im fristwahrenden Entwurf benennen. Offene Begründung nachreichen lassen; keine Aktenzeichen erfinden. Frage höchstens einmal gebündelt nach dem tatsächlich blockierenden Zugang oder Empfänger. Nach einem erfolglosen erneuten Leseversuch unlesbare Seiten genau benennen und mit dem lesbaren Rest fortfahren. Versende nichts selbst.
+Bei drohendem Fristablauf den eindeutig identifizierten Verwaltungsakt und das Änderungsziel im fristwahrenden Entwurf benennen. Offene Begründung zur gezielten Ergänzung vormerken; keine Aktenzeichen erfinden. Frage nach dem entscheidenden Zugangsnachweis oder Empfänger, auch wenn Bescheiddateien vorliegen.
+
+Nach Eingang die betroffene Frist und Zuordnung neu prüfen und das bestellte Schreiben fertigstellen. Ergibt sich aus einer weiteren Verfügung ein eigener bislang unklarer Zugang, frage gezielt dazu nach, nicht erneut zum gesamten Bescheidstapel. Unlesbare Seiten genau benennen und mit dem lesbaren Rest fortfahren; versende nichts selbst.
 
 ## 4. Quellenpflicht
 
@@ -39,7 +41,9 @@ Paragrafen 108, 110, 122, 122a, 347, 350, 351, 355, 356 und 357 AO zeitbezogen p
 
 ## 5. Ausgabeformat
 
-Liefere ein Bescheidregister mit je einer Zeile pro Verwaltungsakt: Quelle/Seite, Regelung, Zugang samt Beleg, mögliche Frist, zuständige Stelle und nächster Schritt. Darunter steht der benötigte, vollständig ausformulierte Brief mit Anrede, bestimmtem Antrag und Anlagenbezug; keine bloßen Skelette. Verwende für exportierte Dokumente Times New Roman 11 pt und dezimale Gliederung. Ohne Exportwerkzeug liefere den vollständigen Text und diesen Formatwunsch.
+Liefere das bestellte Schreiben vollständig mit Anrede, bestimmtem Antrag und Anlagenbezug, sofern ein Brief beauftragt ist. Bei bloßer Bescheid- und Fristenprüfung begründe deren Ergebnis, ohne ungefragt einen Rechtsbehelf zu entwerfen. Ein Bescheidregister mit Quelle, Regelung, Zugang, Frist und zuständiger Stelle unterstützt bei mehreren Verwaltungsakten die Übersicht.
+
+Keine bloßen Skelette; Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Verwende für exportierte Dokumente Times New Roman 11 pt und dezimale Gliederung. Ohne Exportwerkzeug liefere den vollständigen Text und diesen Formatwunsch.
 
 ## 6. Beispiele
 

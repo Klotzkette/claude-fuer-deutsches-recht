@@ -151,13 +151,15 @@ Ausgangspunkt für dieses Plugin: Wer sich auf Unionsrecht beruft, belegt Anwend
 
 _Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Europarecht-Kompass für deutsche Juristen._
 
-# Einstieg und Routing
+# 1 Unionsrechtlichen Auftrag einordnen und bearbeiten
 
-## Einsatzlage
+## 1.1 Einsatzlage
 
-Dieser Einstieg routet **Europarecht Kompass** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Lies vorhandenen Auftrag und Unterlagen und übernimm bekannte Beteiligte, Maßnahme und Zielsetzung. Kläre nur die offene Frage, ob eine Normwirkung, Grundfreiheit, Umsetzung oder ein bestimmter Rechtsschutzentwurf geprüft werden soll. Bearbeite das verlangte Ergebnis unmittelbar, statt zuerst weitere Module auszuwählen.
 
-## Fachlandkarte dieses Plugins
+## 1.2 Optionale Vertiefung
+
+Die folgenden Skills sind optionale Hilfen; ihre Auswahl ersetzt nicht die Bearbeitung des Auftrags.
 
 - `anrufung-red-team-und-qualitaetskontrolle` — Anrufung RED Team und Qualitaetskontrolle
 - `anschluss-router` — Anschluss Router
@@ -175,19 +177,23 @@ Dieser Einstieg routet **Europarecht Kompass** vom ersten Sachverhalt zu Rollen,
 - `dokumente-intake` — Dokumente Intake
 - `output-waehlen` — Output Waehlen
 
-## Arbeitsweg
+## 1.3 Arbeitsweg
 
 - Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
 - Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Europarecht Kompass sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Anwendungsbereich und Normwirkung der konkreten unionsrechtlichen Bestimmung prüfen. Maßgebliche Fassung und Rechtsprechung in EUR-Lex und amtlichen Gerichtsquellen nachlesen; Suchportale ersetzen den Volltext nicht.
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+- Fehlt die staatliche oder private Einordnung des Gegenübers, frage nach Trägerschaft und Aufgaben; bei unklarer zeitlicher Geltung nach der angewandten Fassung. Nach Antwort die betroffene Wirkungsprüfung und Argumentation aktualisieren und das bestellte Dokument fertigschreiben. Weitere kurze Fragen sind bei neuen entscheidenden Lücken zulässig; Bekanntes nicht erneut erheben. Bei einem Hindernis unabhängige Teile liefern und nach Klärung fortsetzen.
 
-## Qualitätsanker
+## 1.4 Quellen, Ausgabe und Grenzen
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Tragende Normen und Entscheidungen verifizieren, keine Fundstellen aus Modellwissen ergänzen. Die Referenzen `references/quellenhygiene.md` und `references/zitierweise.md` sind optional.
+- Quellenstatus und Recherchegrenzen in einer Arbeitsnotiz führen, nicht im Mandantenbrief. Ein Prüfauftrag löst keine ungefragte Klage aus; externe Schritte erfordern ausdrückliche Freigabe.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+Das verlangte Ergebnis in vollständigen Sätzen und dezimaler Gliederung liefern; Tabellen nur bei sachlichem Bedarf, Exportstandard Times New Roman 11 pt. Fehlende Belege nicht durch Annahmen als Tatsachen ersetzen.
+
+Nur zugängliche Unterlagen und Werkzeuge verwenden und nicht lesbare Teile konkret benennen. Bei technischen Hindernissen unabhängige Teile weiterbearbeiten und ohne Exportmöglichkeit den vollständigen Text liefern; keine nicht erfolgte Prüfung behaupten.
 
 ---
 
@@ -195,9 +201,9 @@ Dieser Einstieg routet **Europarecht Kompass** vom ersten Sachverhalt zu Rollen,
 
 _Für Europarecht: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Europarecht: Erstprüfung, Rollenklärung und Mandatsziel
+# 1 Europarechtlichen Auftrag klären und ausarbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1 Vorhandenen Stand verwenden
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
@@ -206,22 +212,23 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Übernimm bekannte Rolle und Zielsetzung. Fehlt Material, frage nach der konkret betroffenen Maßnahme, Normfassung oder Verfahrensunterlage. Ohne diesen Nachweis nur den abhängigen Schluss offenlassen; keine Annahme als Tatsache ausgeben.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
-## Arbeitsweg
+## 1.2 Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: AEUV Art. 263 Nichtigkeitsklage 2 Monate, Art. 265 Untätigkeitsklage 2 Monate, Art. 267 Vorlage jederzeit, Vertragsverletzungsverfahren Art. 258 unbefristet.
+- Fristen anhand von Verfahrensart und konkretem Auslöser prüfen. Bei Artikel 263 AEUV Bekanntgabe beziehungsweise maßgeblichen Fristbeginn, bei Artikel 265 AEUV Aufforderung und anschließende Verfahrensfristen unterscheiden. Artikel 267 AEUV setzt ein geeignetes gerichtliches Verfahren und eine entscheidungserhebliche Frage voraus; eine Kommissionsbeschwerde nach Artikel 258 AEUV ersetzt keine Fristwahrung im nationalen Verfahren.
 - Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267, 288, 340), GRCh, EU-VO (Beispiele 2016/679 DSGVO, 2024/1689 KI-VO, 139/2004 FKVO), EU-Richtlinien, EuGH-Rechtsprechung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267 AEUV, Nichtigkeitsklage, Beschwerde an EU-KOM, Stellungnahme im Vertragsverletzungsverfahren, Notifizierung, EuGH-Urteilsbeleg — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Europarecht: Erstprüfung, Rollenklärung und Mandatsziel
-- **Normen-/Quellenanker:** EU.
+## 1.3 Nach fehlenden Belegen weiterarbeiten
 
-## Fallweichen
+Ist unklar, ob der Gegner dem Staat zuzurechnen ist, frage nach Trägerschaft und Aufgaben. Fehlt bei einer Fördermaßnahme die beihilfenrechtliche Grundlage, fordere den Bescheid oder die einschlägige Regelung nach. Nach Antwort Tatsachengrundlage und rechtliche Einordnung prüfen, die betroffene Argumentation aktualisieren und das bestellte Dokument fertigschreiben. Neue entscheidende Lücken gezielt nachfragen, Bekanntes nicht wiederholen. Bei einem Hindernis die tragfähigen Teile liefern und nach Klärung fortsetzen.
+
+## 1.4 Auftrag intern abgleichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
@@ -230,12 +237,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
 5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+## 1.5 Ergebnis und Kontrolle
+1. Sachverhalt, Rollen und zeitlichen Anwendungsbereich anhand der Unterlagen feststellen; eine Tabelle nur bei echtem Vergleichsbedarf ausgeben.
 2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Europarecht** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+4. Die konkrete Rechtsfolge mit Gegenargument und Beweisgrenze begründen. Interne Prüfbegriffe und Farbschemata nicht als Pflichtausgabe verwenden.
+5. Die beauftragte Beratung, Stellungnahme oder Vorlageanregung vollständig ausformulieren. Weitere Skills sind optional; ihre Auswahl erledigt den Auftrag nicht. Ein Gutachtenauftrag führt nicht ungefragt zur Klage.
+
+Quellenstatus und Recherchegrenzen in einer gesonderten Arbeitsnotiz führen, nicht im Mandantenbrief. Keine Außenhandlung ohne ausdrückliche Freigabe. Vollständige Sätze und dezimale Gliederung; beim Export Times New Roman 11 pt.
+
+Nur zugängliche Unterlagen und Werkzeuge verwenden und fehlende Teile konkret benennen. Bei technischen Fehlern unabhängige Teile weiterbearbeiten; ohne Export den vollständigen Text liefern und keine nicht erfolgte Prüfung behaupten.
 
 ---
 
@@ -320,12 +331,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 _Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Europarecht-Kompass für deutsche Juristen._
 
-# Kaltstart und Routing
+# 1 Unionsrechtliche Bearbeitung beginnen und fortsetzen
 
-## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+## 1.1 Aufgabe
+Bearbeite die konkrete Normkollision, Grundfreiheit oder Rechtsschutzfrage anhand des vorhandenen Auftrags. Übernimm bekannte Rolle und Zielsetzung; eine Auswahl weiterer Skills ist kein Endergebnis.
 
-## Kaltstart
+## 1.2 Vorhandenes Material
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
 1. Wer fragt in welcher Rolle?
@@ -333,13 +344,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+## 1.3 Bearbeitung
+1. Rolle, Ziel, Frist und Unterlagenlage aus dem vorhandenen Stand bestimmen; nur entscheidende Lücken erfragen.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+3. Bei unklarer Adressatenstellung nach Trägerschaft und Aufgaben fragen; bei fehlender Umsetzungsgrundlage die nationale Vorschrift oder maßgebliche Fassung nachfordern. Nach Antwort Normwirkung und konkrete Rechtsfolge neu prüfen und den bestellten Text fortschreiben.
+4. Die verlangte Beratung, Stellungnahme oder Vorlageanregung fertigstellen. Weitere kurze Rückfragen sind bei neuen entscheidenden Lücken zulässig; Bekanntes nicht erneut erheben. Bei einem Hindernis unabhängige Teile liefern und nach Klärung fortsetzen.
 
-## Unionsrechtliches Routing (typische Weichen)
+## 1.4 Unionsrechtliche Fragen unterscheiden
 
 - **Grundfreiheiten (AEUV):** Warenverkehr Art. 34, 36; Niederlassung Art. 49; Dienstleistung Art. 56; Kapital Art. 63; Arbeitnehmer Art. 45; steuerliche Diskriminierung Art. 110 AEUV.
 - **Diskriminierungsverbot Art. 18 AEUV** (subsidiär, wenn keine Grundfreiheit greift).
@@ -352,17 +363,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - **Beihilfen Art. 107–109 AEUV:** Anmeldepflicht, Stand-Still, Rückforderung; AGVO 651/2014 prüfen.
 - **Charta der Grundrechte (GRCh)** anwendbar nur "bei der Durchführung des Rechts der Union" (Art. 51 GRCh; EuGH C-617/10 Åkerberg Fransson).
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+## 1.5 Ergebnis
+Liefere das bestellte Dokument in vollständigen Sätzen. Normvergleiche oder Berechnungen nur ergänzen, soweit sie nötig sind. Ein Prüfauftrag löst keine ungefragte Klage aus; weitere Skills sind optional. Nicht belegte Tatsachen und offene Rechtsfragen unterscheiden. Quellenstatus und Recherchegrenzen getrennt vom Mandantenbrief führen; keine Außenhandlung ohne ausdrückliche Freigabe.
 
-## Quellenregel
+## 1.6 Quellen und technische Grenzen
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+Dezimale Gliederung verwenden; Exportstandard Times New Roman 11 pt. Nur zugängliche Unterlagen und Werkzeuge verwenden und fehlende Teile genau benennen. Bei technischen Fehlern unabhängige Teile weiterbearbeiten; ohne Export den vollständigen Text liefern und keine nicht erfolgte Prüfung behaupten.
 
 ---
 

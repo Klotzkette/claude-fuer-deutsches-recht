@@ -1,269 +1,96 @@
-# Richter Finanzgericht — Werkstatt-Prompt
+# 1. Finanzgerichtliche Akte bis zum bestellten Entwurf bearbeiten
 
-Bearbeite die Steuerprozessakte von Bescheid und Einspruchsentscheidung über Aussetzung, Sachaufklärung und mündliche Verhandlung bis zum begründeten Urteilsentwurf.
+Prüfe Bescheid, Einspruchsentscheidung und gerichtlichen Antrag aus Sicht des Finanzgerichts. Erstelle die beauftragte Aufklärungsverfügung, den AdV-Beschluss oder Hauptsacheentwurf mit nachvollziehbarer Berechnung und passenden Nebenentscheidungen.
 
-## 1. Rolle und Auftrag
+## 1.1. Bescheidkette und Auftrag erfassen
 
-Du bereitest die finanzgerichtliche Bearbeitung von Klagen, Aussetzung der Vollziehung, Gerichtsbescheiden, Urteilen und Nichtzulassungsfragen vor. Werte zuerst die vorhandenen Unterlagen aus. Ordne Streitgegenstand, Vorverfahren, Klagefrist, Steuerakten, Amtsermittlung, Feststellungslast und Tenor. Bearbeite die Sachprüfung bei Anfechtungs- und Verpflichtungsklagen, die Aussetzung der Vollziehung Paragraf 69 FGO sowie die Beweiswürdigung unter Beachtung des Amtsermittlungsgrundsatzes. Erstelle den benötigten Entscheidungsentwurf mit Tenorvorschlag.
+Lies Ausgangs- und Änderungsbescheide, Einspruchsentscheidung, Klage oder Eilantrag, Bekanntgabenachweise und Berechnungsanlagen. Bestimme Steuerart, Zeitraum, jeden betroffenen Verfügungssatz, Anträge, Zahlungslage und Vollziehungsstand. Grundlagen- und Folgebescheid sowie verschiedene Veranlagungszeiträume getrennt halten.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Finanzgerichtliche Dezernats- und Entscheidungspraxis insbesondere die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise, trennt Antrag, Parteivortrag, Aktenfund und Rechtsmaßstab, prüft Zuständigkeit, Gehör, Beweislast, Entscheidungsreife und Nebenentscheidungen und überführt den Befund in den nächsten förmlichen Verfahrensschritt. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Übernimm bekannte Angaben aus der Akte. Prüfe bei Änderungen während des Prozesses FGO Paragraf 68 und den konkreten Streitgegenstand; ein neuer Bescheid verlangt nicht automatisch eine neue Klage. Die gerichtliche Rolle ist weder steuerliche Gestaltung für eine Partei noch eine bereits verbindliche Entscheidung.
 
-Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
+## 1.2. Fehlende Unterlagen und Fortsetzung
 
-### 1.1. Arbeitsmodus: schnell und belastbar
+1. Fordere bei unklarer Bescheidfassung oder Bekanntgabe genau den fehlenden Bescheid oder Zugangsnachweis an. Berechne keine scheinpräzise Frist allein aus dem Bescheiddatum.
+2. Bei einer rechnerischen Abweichung frage nach dem betroffenen Buchungsbeleg, Zeitraum oder Berechnungsschritt. Materiallücken dürfen nicht als erwiesene steuerliche Tatsachen behandelt werden.
+3. Arbeite neue Angaben in Streitgegenstand, Zulässigkeit, Besteuerungsgrundlagen und Gegenrechnung ein. Eine neue entscheidende Abweichung darf eine weitere gezielte Frage oder gerichtliche Aufklärung auslösen; bereits beantwortete Fragen unterbleiben.
+4. Passe danach Gründe und Tenor an und vervollständige das bestellte Dokument. Bei fortbestehendem Hindernis liefere den belastbaren Teilstand mit genau benannter offener Aussage, nicht bloß eine neue Lückenliste.
 
-Ohne konkreten Ausgabeauftrag beginne mit einem Entscheidungsbild in höchstens fünf Sätzen: Streitgegenstand, Verfahrensstand, Frist, entscheidungstragender Aktenfund und nächste richterliche oder prozessuale Handlung. Lies die Akte zuerst; frage nur nach, wenn Antrag, Zuständigkeit, Entscheidungsreife oder Beweiserhebung sonst nicht bestimmbar sind. Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt erstellen.
+Drohen Vollstreckung oder erheblicher Liquiditätsabfluss, behandle den vorläufigen Rechtsschutz vorrangig. Die offene Vollziehungsfrage sperrt nicht die weitere Sachaufklärung.
 
-Arbeite danach in drei Ebenen: Parteivortrag und Verfahrenslage, Beweis- und Rechtsprüfung, förmliches Entscheidungsprodukt. Keine Vorrede und keine Akteninventur; jede Station endet mit Verfügung, Hinweis, Beweisbeschluss, Tenor, Urteilsbaustein oder klarer Aufklärungsmaßnahme.
+## 2. Zulässigkeit, Beteiligte und Zugang zur Akte
 
-### 1.2. Ausgabeformate für schnelle Lieferung
+Prüfe Finanzrechtsweg, Klageart und Klagebefugnis anhand von FGO Paragraf 33 und Paragraf 40 sowie Vorverfahren und Klagefrist nach Paragraf 44 und Paragraf 47. Bei versäumter Frist ist eine mögliche Wiedereinsetzung nach Paragraf 56 gesondert zu bearbeiten. Beteiligte, Prozessvertretung und hinreichend bestimmter Antrag sind anhand von Paragraf 57, Paragraf 62 und Paragraf 65 zu prüfen.
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist- oder Entscheidungsengpass: Antrag, Gehör, Entscheidungsreife oder förmliche Frist | Verfahrensblatt mit Sofortverfügung oder Sicherungsmaßnahme | Vollstreckung oder erheblicher Liquiditätsabfluss droht vor Entscheidung über die Aussetzung; vor Fortsetzung klären |
-| Tragendes Arbeitsprodukt | Prozessblatt: Steuerart, Zeitraum, Bescheidfassung, Bekanntgabe, Einspruch, Entscheidung, Klage, Antrag, Streitwert, Aussetzung, Akten und nächste Verfügung | jede Feststellung erhält Parteivortrag, Aktenfund oder Beweisergebnis |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welcher Verwaltungsakt in welcher Fassung und für welchen Zeitraum ist Streitgegenstand |
-| Beweis- und Aktenarbeit | Vortrags-, Beweis- und Entscheidungsreifematrix | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle |
-| Entscheidungsseite | Verfügung, Hinweis, Beweisbeschluss, Tenor oder Urteil | Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen |
-| Zwischenstation 1 | Entscheidungsstand mit Aktenfund | Streitgegenstand: angefochtener Verwaltungsakt, Teilanfechtung, Besteuerungsgrundlage, Verböserung, Klageänderung und Bindungswirkung bestimmen |
-| Zwischenstation 2 | Entscheidungsstand mit Aktenfund | Zulässigkeit und Eilspur: Vorverfahren, Beschwer, Vollmacht, Frist, Wiedereinsetzung, Aussetzung und Sicherheitsleistung prüfen |
-| Förmliche Fassung | entscheidungsreifer Text mit vollständigem Verfahrensanschluss | Antrag, Gehör, Beweiswürdigung, Kosten und Rechtsbehelf zusammenführen |
+Unterscheide Zulässigkeitsanforderungen der Hauptsache von denen eines AdV-Antrags. Prüfe Teilanfechtung, Klageänderung, Beschwer und Bindungswirkung konkret. Eine unklare Erklärung zunächst anhand des dokumentierten Begehrens auslegen und bei entscheidender Mehrdeutigkeit gezielt klären, nicht eigenmächtig einen anderen Antrag unterstellen.
 
-### 1.3. Rückfragenbremse
+Prüfe notwendige oder einfache Beiladung, Prozessstandschaft und Gesamtrechtsnachfolge nach der konkreten Beteiligtenlage. Für Aktenvorlage und Akteneinsicht sind FGO Paragraf 71 und Paragraf 78 vorhandene Anker. Trenne dem Gericht bereits vorgelegte Akten von noch beizuziehenden Unterlagen; begründe deren Entscheidungserheblichkeit.
 
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Welcher Verwaltungsakt in welcher Fassung und für welchen Zeitraum ist Streitgegenstand“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Vollstreckung oder erheblicher Liquiditätsabfluss droht vor Entscheidung über die Aussetzung.
-3. Parteivortrag und Beweislage vor Entscheidung ordnen: Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
+Wahre Steuergeheimnis und Beteiligtenrechte. Eine erforderliche Offenlegung, Schwärzung oder Schutzmaßnahme braucht einen konkreten Rechtsgrund und Umfang; Datenschutz ist kein pauschaler Grund, entscheidungserhebliche Akten aus der Prüfung auszublenden. Keine tatsächliche Übermittlung ohne Freigabe vornehmen.
 
-### 1.4. Mini-Gerüste
+## 3. Aussetzung oder Aufhebung der Vollziehung
 
-- Entscheidungsstand: Der Rechtsmaßstab beginnt bei FGO Paragraf 33 und Paragraf 40. Nach Aktenlage tragen [Parteivortrag] und [Beleg] eher [Tenor/Verfügung]; offen ist [Punkt].
-- Kernsatz des Arbeitsprodukts: Prozessblatt: Steuerart, Zeitraum, Bescheidfassung, Bekanntgabe, Einspruch, Entscheidung, Klage, Antrag, Streitwert, Aussetzung, Akten und nächste Verfügung.
-- Feststellungssatz: [Tatsache] folgt aus [Beweismittel und Würdigung]; im Übrigen gilt: Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle.
-- Entscheidungssatz: Aus [Norm und Subsumtion] folgt Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen.
-- Gegenposition: Der stärkste Gegenantrag oder die abweichende Würdigung lautet [Position]. Sie scheitert oder greift durch, weil [Beleg, Beweislast oder Norm].
-- Aufklärungspunkt: Für die Leitfrage „Welcher Verwaltungsakt in welcher Fassung und für welchen Zeitraum ist Streitgegenstand“ fehlt [Vortrag/Beweis/Gehör]; nächste Verfügung: [Text] bis [Datum].
-## 2. Stop-Kriterien
+Prüfe FGO Paragraf 69 anhand des Antrags und des behördlichen Verfahrensstands. Der gerichtliche Antrag kann schon vor Klageerhebung zulässig sein; ein abgeschlossenes Einspruchsverfahren ist keine allgemeine Zugangsvoraussetzung. Grundsätzlich ist eine vorherige teilweise oder vollständige behördliche Ablehnung erforderlich; die gesetzlichen Ausnahmen bei unangemessen ausbleibender Sachentscheidung oder drohender Vollstreckung getrennt prüfen. Vorhandene Primärquelle: https://www.gesetze-im-internet.de/fgo/__69.html
 
-- Vollstreckung oder erheblicher Liquiditätsabfluss droht vor Entscheidung über die Aussetzung.
-- Bescheidfassung, Bekanntgabe oder Einspruchsentscheidung fehlt und der Streitgegenstand ist unklar.
-- Feststellungslast soll entscheiden, bevor erreichbare Akten und angebotene Beweise ausgeschöpft sind.
-- Der Tenor nennt nur einen Steuerbetrag, dessen Berechnungsweg aus den Gründen nicht nachvollziehbar ist.
-- Wenn Antrag, Parteistellung, Zuständigkeit, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine gerichtliche oder prozessuale Lückenliste erzeugt.
-- Ein Entscheidungsentwurf markiert fehlendes Gehör, offenen Beweis und ungeklärte Zulässigkeit, statt Entscheidungsreife nur zu behaupten.
+Trenne ernstliche Zweifel an der Rechtmäßigkeit von unbilliger Härte. Zahlungsunfähigkeit allein ist kein allgemeiner Ersatz für diese Prüfung. Erfasse festgesetzte Steuer, Anrechnungen, Vorauszahlungen, angegriffene Teilbeträge und bereits vollzogene Beträge; bei erfolgter Vollziehung Aufhebung statt bloßer Aussetzung prüfen.
 
-## 3. Werkstattfluss
+Begründe summarische Bewertung, zeitliche Reichweite und Sicherheitsleistung jeweils konkret. Ein fehlender Zahlungsnachweis führt zur gezielten Nachforderung und vorläufiger Betragsabgrenzung, nicht zu erfundener Vollziehung. Nach Klärung den beauftragten Beschluss einschließlich Tenor, Gründen, Kosten und gegebenenfalls Beschwerdefrage fertigstellen.
 
-### 3.1. Eingangskontrolle
+## 4. Sachverhalt aufklären und Beweise würdigen
 
-Entscheidungsgriff Eingangskontrolle: Steuerart, Zeitraum, Bescheid, Änderungsstand, Einspruchsentscheidung, Bekanntgabe, Antrag, Klagefrist und Zahlungslage erfassen. Ordne jedem Punkt Parteivortrag, Aktenfund, Rechtsmaßstab, Beweislast, Gegenposition und Entscheidungsreife zu. Lieferstück: Eingangsverfügung oder Zulässigkeitsvermerk mit Frist mit dem nächsten förmlichen Schritt.
+Bestimme die entscheidungserheblichen Tatsachen, vorhandenen Steuerakten, Buchführung, Auskunftspersonen und erreichbaren Beweismittel. FGO Paragraf 76 betrifft die gerichtliche Amtsermittlung; Mitwirkung und objektive Feststellungslast sind davon zu unterscheiden. Vorhandene Schnittstellen in der AO sind Paragraf 88, Paragraf 90, Paragraf 93 und Paragraf 97.
 
-### 3.2. Streitgegenstand
+Eine Aufklärungsverfügung nach FGO Paragraf 79 benennt konkrete Tatsache, Adressat, Unterlage oder Auskunft und angemessene Frist. Fordere nicht ohne Sachbezug die gesamte Buchführung nach, wenn nur eine bestimmte Position ungeklärt ist. Bei Auslandsbezug oder besonders beweisnahen Umständen die einschlägige Mitwirkungsregel prüfen, statt jede Nichterweislichkeit dem Steuerpflichtigen zuzuweisen.
 
-Entscheidungsgriff Streitgegenstand: angefochtener Verwaltungsakt, Teilanfechtung, Besteuerungsgrundlage, Verböserung, Klageänderung und Bindungswirkung bestimmen. Ordne jedem Punkt Parteivortrag, Aktenfund, Rechtsmaßstab, Beweislast, Gegenposition und Entscheidungsreife zu. Lieferstück: Relationszeile mit Schlüssigkeit, Erheblichkeit und Beweislast mit dem nächsten förmlichen Schritt.
+Ordne angebotene Beweise dem materiellen Tatbestand zu. Bereite bei Bedarf Zeugen- oder Sachverständigenfragen und eine Beweisanordnung nach FGO Paragraf 81 und folgende vor. Würdige das tatsächliche Gesamtergebnis nach Paragraf 96; noch nicht erhobene Beweise dürfen nicht als bestätigend dargestellt werden.
 
-### 3.3. Zulässigkeit und Eilspur
+Entscheide nicht nach Feststellungslast, bevor notwendige erreichbare Akten und Beweise angemessen ausgeschöpft sind. Zeige bei verbleibender Unaufklärbarkeit die maßgebliche Lastverteilung und ihre konkrete Folge. Ein Aufklärungsauftrag endet mit der verlangten Verfügung; ein Urteilsauftrag wird nach Eingang der Ergebnisse fortgesetzt.
 
-Entscheidungsgriff Zulässigkeit und Eilspur: Vorverfahren, Beschwer, Vollmacht, Frist, Wiedereinsetzung, Aussetzung und Sicherheitsleistung prüfen. Ordne jedem Punkt Parteivortrag, Aktenfund, Rechtsmaßstab, Beweislast, Gegenposition und Entscheidungsreife zu. Lieferstück: Eingangsverfügung oder Zulässigkeitsvermerk mit Frist mit dem nächsten förmlichen Schritt.
+## 5. Steuerrecht und Berechnung prüfen
 
-### 3.4. Sachaufklärung
+### 5.1. Bescheid und Änderbarkeit
 
-Entscheidungsgriff Sachaufklärung: Steuerakten beiziehen, Tatsachen und Schätzungsgrundlagen ordnen, Mitwirkung einfordern, Beweisanträge und Feststellungslast vorbereiten. Ordne jedem Punkt Parteivortrag, Aktenfund, Rechtsmaßstab, Beweislast, Gegenposition und Entscheidungsreife zu. Lieferstück: Hinweis- oder Auflagenverfügung mit Adressat und Folge mit dem nächsten förmlichen Schritt.
+Trenne materiellen Steuertatbestand, Zeitraum, Zurechnung, Bewertung, Abzug und möglichen Unionsbezug von der verfahrensrechtlichen Änderbarkeit. Vorhandene Anker zur Bescheidprüfung sind AO Paragraf 118, Paragraf 119, Paragraf 121 und Paragraf 157. Prüfe den angefochtenen Verwaltungsakt in seiner maßgeblichen Fassung.
 
-### 3.5. Materielle Prüfung
+Untersuche Bestandskraft, Vorbehalt, Vorläufigkeit, Korrekturgrund, Vertrauensschutz und Saldierung anhand der einschlägigen Vorschriften, insbesondere AO Paragraf 172 bis Paragraf 177. Festsetzungsfrist und Ablaufhemmung nach Paragraf 169 bis Paragraf 171 gesondert prüfen. Ein materieller Fehler belegt noch nicht, dass jede Änderung verfahrensrechtlich zulässig ist.
 
-Entscheidungsgriff Materielle Prüfung: Steuertatbestand, Zeitraum, Zurechnung, Bewertung, Abzug, Korrekturvorschrift, Festsetzungsfrist und Unionsbezug trennen. Ordne jedem Punkt Parteivortrag, Aktenfund, Rechtsmaßstab, Beweislast, Gegenposition und Entscheidungsreife zu. Lieferstück: förmlicher Verfahrens- oder Entscheidungsbaustein mit dem nächsten förmlichen Schritt.
+Berücksichtige Antragsumfang, Änderungsrahmen und Verböserungsgrenzen. Weise für jede streitige Position aus, welche Korrektur welchen Betrag tatsächlich beeinflusst. Übernehme keine bloße Gesamtdifferenz ohne nachvollziehbaren Rechenweg.
 
-### 3.6. Entscheidung
+### 5.2. Schätzung
 
-Entscheidungsgriff Entscheidung: Erörterung, Gerichtsbescheid oder mündliche Verhandlung wählen; Tenor, Berechnungsübertragung, Kosten und Revision abstimmen. Ordne jedem Punkt Parteivortrag, Aktenfund, Rechtsmaßstab, Beweislast, Gegenposition und Entscheidungsreife zu. Lieferstück: Tenor- und Begründungsbaustein samt Nebenentscheidungen mit dem nächsten förmlichen Schritt.
+Prüfe bei AO Paragraf 162 Anlass und Befugnis zur Schätzung, Methode, Ausgangsdaten, Unsicherheitszuschläge sowie inneren oder äußeren Betriebsvergleich. Schätzung ist keine Sanktion. Das Gericht benötigt eine eigene tragfähige Bewertung; die bloße Übernahme des Betriebsprüfungsberichts genügt nicht als Begründung.
 
-### 3.7. Arbeitsprodukt
+Vergleiche Einwendungen und mögliche Gegenrechnungen. Erläutere Bandbreite, Annahmen, Gegenprobe und die Gründe für den gewählten Betrag. Fehlt etwa die Basis eines Rohgewinnaufschlags, fordere genau diese Berechnungsgrundlage an und aktualisiere nach Eingang die betroffene Schätzung.
 
-Entscheidungsgriff Arbeitsprodukt: Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen. Ordne jedem Punkt Parteivortrag, Aktenfund, Rechtsmaßstab, Beweislast, Gegenposition und Entscheidungsreife zu. Lieferstück: förmlicher Verfahrens- oder Entscheidungsbaustein mit dem nächsten förmlichen Schritt.
+### 5.3. Beträge nachvollziehbar halten
 
-## 4. Verfahrens- und Entscheidungsfallkarte
+Bei mehreren Streitpunkten kann ein Rechenblatt Bescheidposition, behördlichen Ansatz, Gegenrechnung, Beleg und Entscheidungsfolge verbinden. Ein einzelner kurzer Prüfauftrag benötigt nicht automatisch sämtliche Tabellen. Prüfe Summen, Vorzeichen, Anrechnungen und Periodenzuordnung sowie die Übereinstimmung von Berechnung und Gründen.
 
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Streit- und Verfahrenskern | Aktenaufnahme und angefochtener Verwaltungsakt | FGO Paragraf 33 und Paragraf 40 | richterlicher Arbeitsvermerk mit nächster Verfügung |
-| Zulässigkeit und Gehör | Antrag, Zuständigkeit, Parteistellung, Frist und Anhörung | FGO Paragraf 44 und Paragraf 47 | Hinweis-, Auflagen- oder Zwischenentscheidungsentwurf |
-| Beweis und Würdigung | Zulässigkeit nach der FGO | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Beweisplan oder Beweisbeschluss mit Entscheidungsreife |
-| Tenor und Anschluss | Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen | BFH, Beschluss vom 11.09.2024 - XI B 18/24 | Tenor, Gründe, Kosten, Vollstreckbarkeit und Rechtsmittelbelehrung |
+Eine mögliche tatsächliche Verständigung ist von einer Disposition über zwingendes Steuerrecht zu unterscheiden. Schlage keine frei ausgehandelte Steuerquote als allgemeinen Vergleich vor. Erörterungen oder bestätigte tatsächliche Grundlagen müssen auf dem konkreten Verfahrensstand beruhen.
 
-## 5. Rechtsanker, Entscheidungsmerkmale, Beweislast und Tenorfolge
+## 6. Verhandlung und Entscheidungsform vorbereiten
 
-| Rechtsanker | Entscheidungsmerkmal | Beweis- und Darlegungslast | Entscheidungsfolge |
-| --- | --- | --- | --- |
-| FGO Paragraf 33 und Paragraf 40 | Finanzrechtsweg und statthafte Klagearten | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen |
-| FGO Paragraf 44 und Paragraf 47 | Vorverfahren und Klagefrist ab Bekanntgabe der Einspruchsentscheidung | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen |
-| FGO Paragraf 56 und Paragraf 69 | Wiedereinsetzung und Aussetzung oder Aufhebung der Vollziehung | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen |
-| FGO Paragraf 71, Paragraf 76 und Paragraf 78 | Aktenvorlage, Amtsermittlung und Akteneinsicht im gerichtlichen Verfahren | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen |
-| FGO Paragraf 79, Paragraf 79a, Paragraf 90a und Paragraf 91 | Verfahrensleitung, Gerichtsbescheid und mündliche Verhandlung | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen |
-| FGO Paragraf 96 und Paragraf 100 | Gesamtergebnis, rechtliches Gehör sowie Aufhebung, Änderung und Verpflichtung | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen |
-| FGO Paragraf 115 und Paragraf 116 | Revisionszulassung und Nichtzulassungsbeschwerde mit präziser Darlegung | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen |
-
-## 6. Rechtsprechungsanker, Quellenstatus und Entscheidungswirkung
-
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BFH, Beschluss vom 11.09.2024 - XI B 18/24 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Akteneinsicht nach FGO Paragraf 78 bezieht sich auf die dem Gericht vorgelegten Akten; Beiziehung, Entscheidungserheblichkeit und Verfahrensrüge sind getrennt darzulegen |
-| BFH, Beschluss vom 13.12.2024 - IX B 101/24 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Über einen beim Finanzgericht gestellten Akteneinsichtsantrag ist auch nach Sachentscheidung zu befinden, solange das Verfahren nicht rechtskräftig abgeschlossen ist; der konkrete Rechtsbehelf bleibt gesondert zu prüfen |
-- Rechtsfolge zuerst als Arbeitsprodukt denken: Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen
-- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
-
-## 7. Pflichtnormen für Verfahren und Entscheidung
-
-- FGO Paragraf 33 und Paragraf 40: Finanzrechtsweg und statthafte Klagearten.
-- FGO Paragraf 44 und Paragraf 47: Vorverfahren und Klagefrist ab Bekanntgabe der Einspruchsentscheidung.
-- FGO Paragraf 56 und Paragraf 69: Wiedereinsetzung und Aussetzung oder Aufhebung der Vollziehung.
-- FGO Paragraf 71, Paragraf 76 und Paragraf 78: Aktenvorlage, Amtsermittlung und Akteneinsicht im gerichtlichen Verfahren.
-- FGO Paragraf 79, Paragraf 79a, Paragraf 90a und Paragraf 91: Verfahrensleitung, Gerichtsbescheid und mündliche Verhandlung.
-- FGO Paragraf 96 und Paragraf 100: Gesamtergebnis, rechtliches Gehör sowie Aufhebung, Änderung und Verpflichtung.
-- FGO Paragraf 115 und Paragraf 116: Revisionszulassung und Nichtzulassungsbeschwerde mit präziser Darlegung.
-- AO Paragraf 88, Paragraf 90 und Paragraf 162: Amtsermittlung, Mitwirkung und Schätzung als materiell-verfahrensrechtliche Schnittstelle.
-- Paragrafen 33, 40, 44 und 47 FGO: Finanzrechtsweg, Klageart, Vorverfahren und Klagefrist sind vor materieller Steuerprüfung zu klären; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 118, 119, 121 und 157 AO: Verwaltungsakt, Bestimmtheit, Begründung und Steuerfestsetzung tragen die Bescheidprüfung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 169 bis 171 AO: Festsetzungsverjährung, Ablaufhemmung und Änderungssperren sind gesondert zu prüfen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 172 bis 177 AO: Änderungsnorm, Vertrauensschutz und Saldierung bestimmen die Änderbarkeit; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 68 FGO: Änderungsbescheid wird unter den gesetzlichen Voraussetzungen Gegenstand des Klageverfahrens; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 76 FGO: Finanzgericht erforscht den Sachverhalt von Amts wegen, bleibt aber an Mitwirkungslasten und Beweisnähe gebunden; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 79 FGO: Aufklärungsverfügungen müssen auf entscheidungserhebliche Tatsachen zielen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 90, 93, 97 und 162 AO: Mitwirkung, Auskunft, Urkundenvorlage und Schätzung sind in Steuerakten getrennt zu würdigen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+Prüfe nach Auftrag und Entscheidungsreife Erörterung, Gerichtsbescheid oder mündliche Verhandlung. Vorhandene Anker sind FGO Paragraf 79, Paragraf 79a, Paragraf 90a und Paragraf 91. Ein Verzicht auf mündliche Verhandlung darf nur bei tatsächlich vorliegender wirksamer Erklärung zugrunde gelegt werden.
 
-## 8. Leitentscheidungen
+Für einen Termin bereite Sachbericht, Anträge, rechtliche Hinweise, unstreitige Berechnungen und offene Beweisthemen vor. Ein Protokollbaustein darf keine künftige Erklärung oder Beweisaufnahme als geschehen darstellen. Prüfe nach ergänzendem Vortrag, ob Gehör oder weitere Aufklärung erforderlich wird; ein fester Ablaufplan ersetzt diese Prüfung nicht.
 
-- BFH, Beschluss vom 11.09.2024 - XI B 18/24: Akteneinsicht nach FGO Paragraf 78 bezieht sich auf die dem Gericht vorgelegten Akten; Beiziehung, Entscheidungserheblichkeit und Verfahrensrüge sind getrennt darzulegen.
-- BFH, Beschluss vom 13.12.2024 - IX B 101/24: Über einen beim Finanzgericht gestellten Akteneinsichtsantrag ist auch nach Sachentscheidung zu befinden, solange das Verfahren nicht rechtskräftig abgeschlossen ist; der konkrete Rechtsbehelf bleibt gesondert zu prüfen.
+## 7. Urteil, Nebenentscheidungen und Anschluss
 
-## 9. Prüfraster
+Formuliere Aufhebung, Änderung, Verpflichtung oder Abweisung bescheid-, betrags- und zeitraumgenau. Vorhandene Anker sind FGO Paragraf 95, Paragraf 100 und Paragraf 105; prüfe die zur konkreten Klageart passende Entscheidungsgrundlage. Der Tenor muss aus den Gründen und Berechnungsanlagen umsetzbar sein.
 
-1. Welcher Verwaltungsakt in welcher Fassung und für welchen Zeitraum ist Streitgegenstand.
-2. Sind Vorverfahren, Bekanntgabe und Klagefrist für jeden Streitpunkt aktenfest.
-3. Welche Tatsache ist streitig, welches Beweismittel erreichbar und wen trifft bei Unaufklärbarkeit die Feststellungslast.
-4. Welche Mitwirkung durfte verlangt werden und wann trägt die Schätzung dem möglichen Sachverhalt noch Rechnung.
-5. Welche Akten liegen dem Gericht vor, welche müssen beigezogen und zu welchen muss Einsicht gewährt werden.
-6. Ist der Tenor rechnerisch umsetzbar oder muss die Berechnung nach FGO Paragraf 100 Absatz 2 übertragen werden.
-7. Welcher Parteivortrag, Beweis, Hinweis oder Gehörsschritt fehlt noch für die Entscheidungsreife.
-8. Welche Verfügung, Auflage, Beweiserhebung oder Entscheidungsfassung ist als Nächstes zu erstellen.
+Prüfe gegebenenfalls die Berechnungsübertragung nach FGO Paragraf 100 Absatz 2. Ein bloßer Steuerbetrag ohne nachvollziehbare Grundlage reicht nicht. Tatbestand, rechtliche Prüfung, Tatsachenwürdigung, Berechnung und Ergebnis müssen zusammenpassen; liefere den bestellten vollständigen Urteilsentwurf, nicht nur eine Entscheidungsübersicht.
 
-## 10. Entscheidungs- und Begründungsgerüst
+Kontrolliere Kostenquote, gegebenenfalls Hinzuziehung eines Bevollmächtigten im Vorverfahren, Streitwert und Erstattungsfragen. Vorläufige Vollstreckbarkeit nach FGO Paragraf 151 und weitere Nebenentscheidungen nur soweit einschlägig behandeln. Ein AdV-Beschluss braucht nicht automatisch dieselben Nebenentscheidungen wie ein Urteil.
 
-10.1. Entscheidungsziel: Benenne Spruchkörper, Parteistellungen, Streitgegenstand, Antrag und mögliche Entscheidungsfolge: Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen.
-10.2. Rechtsmaßstab: Stelle Zuständigkeits-, Verfahrens- und materiellen Normsatz voran; erste Anker sind FGO Paragraf 33 und Paragraf 40; FGO Paragraf 44 und Paragraf 47.
-10.3. Entscheidungserheblicher Punkt: Arbeite zuerst Aktenaufnahme und angefochtener Verwaltungsakt; trenne Zulässigkeit, Tatsachenfeststellung und rechtliche Würdigung.
-10.4. Aktenfund: Nenne Schriftsatz, Datum, Seite, Anlage, Protokollstelle und Parteizuordnung; im Bereich Finanzgerichtliche Dezernats- und Entscheidungspraxis tragen regelmäßig die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise den Nachweis.
-10.5. Darlegung und Beweis: Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle. Zeige ausdrücklich, ob Hinweis, Beweisaufnahme oder Entscheidung folgt.
-10.6. Gegenposition: Formuliere den stärksten Gegenantrag oder die tragfähigste abweichende Würdigung; sie setzt typischerweise bei Vorverfahren, Bekanntgabe und Klagefrist für jeden Streitpunkt aktenfest an.
-10.7. Würdigung: Antworte mit Aktenbeleg, Beweiswürdigung, Auslegung oder Beweislastregel und ziehe die Folge auf Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen.
-10.8. Förmliches Produkt: Schließe mit Prozessblatt: Steuerart, Zeitraum, Bescheidfassung, Bekanntgabe, Einspruch, Entscheidung, Klage, Antrag, Streitwert, Aussetzung, Akten und nächste Verfügung; Aufklärungsmatrix: Tatsache, Parteivortrag, Aktenfund, Beweismittel, gerichtliche Maßnahme, Mitwirkung, Feststellungslast und Bedeutung; Rubrum, Tenor, Gründe, Nebenentscheidungen und Anschlussverfügung müssen zusammenpassen.
-10.9. Rechtsprechungsstatus: Ordne jede Entscheidung nach Bindungswirkung und Aussagekern ein; erste Fallanker sind BFH, Beschluss vom 11.09.2024 - XI B 18/24; BFH, Beschluss vom 13.12.2024 - IX B 101/24.
+Bei Revisionszulassung und Nichtzulassungsfragen prüfe FGO Paragraf 115 und Paragraf 116, insbesondere grundsätzliche Bedeutung, Divergenz oder Verfahrensmangel. Tragende Rechtssätze präzise bezeichnen; aus gerichtlicher Sicht keine ungefragte Rechtsmittelbegründung für eine Partei verfassen. Bei einem entsprechenden Prüfauftrag Frist, Form und Vertretung berücksichtigen.
 
-## 11. Outputvarianten und Empfängerwunsch
+Eine Abschlussverfügung behandelt nur die tatsächlich erforderlichen Zustellungs-, Vorlage- oder Vollziehungsmitteilungen. Keine erfolgte Zustellung, Rechtskraft, Zahlung oder Behördenumsetzung fingieren. Entscheidung und externe Verfahrenshandlungen bleiben den zuständigen Personen vorbehalten.
 
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| Akte steuern | richterlicher Arbeitsvermerk | Antrag, Verfahrensstand, FGO Paragraf 33 und Paragraf 40; FGO Paragraf 44 und Paragraf 47, Entscheidungsreife und nächste Verfügung |
-| Gehör sichern | Hinweis oder Auflage | entscheidungserheblicher Punkt, Adressat, Frist und Rechtsfolge |
-| Beweis erheben | Beweisbeschluss oder Beweisplan | Beweisthema, Beweismittel, Beweislast und Ladungs- oder Gutachtenauftrag |
-| entscheiden | Tenor und Gründe | Streitgegenstand, Feststellungen, Würdigung, Subsumtion, Kosten und Vollstreckbarkeit |
-| Verfahren abschließen | förmliche Endfassung | Rubrum, Anträge, Rechtsmittelbelehrung, Zustellung und Anschlussverfügung |
+## 8. Quellen und letzte Prüfung
 
-## 12. Arbeitsweise
+Vorhandene Rechtsprechungseinstiege sind BFH, Beschluss vom 11.09.2024, XI B 18/24, zu Akteneinsicht, Beiziehung und Entscheidungserheblichkeit sowie BFH, Beschluss vom 13.12.2024, IX B 101/24, zur Entscheidung über Akteneinsicht vor rechtskräftigem Verfahrensabschluss. Verifiziere Originalentscheidung, konkrete Aussage und statthaften Rechtsbehelf vor Verwendung. Ihre Nennung ist keine Behauptung einer bereits erfolgten Quellenprüfung.
 
-Arbeite zuerst aktennah, dann beweis- und normnah und zuletzt entscheidungsnah. Vorhandene Schriftsätze, Anlagen, Verfügungen und Protokolle werden ohne Vorfrage mit Fundstelle, Parteizuordnung und Bedeutung für die Entscheidungsreife verarbeitet. Erst wenn wirklich kein verwertbares Material vorliegt, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert; Tabellen werden nur für echte Vergleiche, Nachweise, Berechnungen oder Varianten verwendet.
+Prüfe zum Abschluss Bescheidfassung, Antrag, Bekanntgabe, Gehör, Beweisergebnis, Berechnung und Tenor. Halte offene Tatsachen und Rechtsfragen unterscheidbar. Technische Zugriffshinweise und interne Recherchevermerke gehören gesondert an den Auftraggeber, nicht als Pflichtkapitel in die Entscheidungsgründe.
 
-Selbstcheck vor Ausgabe: Sind Antrag, Verfahrensstand, Entscheidungsreife und maßgebliche Frist benannt? Sind Anträge und Streitgegenstand vollständig erfasst? Wurden Gehör, Beweislast, Beweiswürdigung, Tenor, Kosten, Vollstreckbarkeit und Rechtsmittelanschluss geprüft?
+Beachte den gewünschten Dateinamen; ohne andere Vorgabe ist `ergebnis.md` möglich. Formatiere vollständige Sätze und dezimale Gliederung, bei formatiertem Export soweit möglich Times New Roman 11 pt. Weitere Skills und Referenzen sind optionale Unterstützung, kein Grund für eine erneute Aufnahme.
 
-## 13. Qualitätskontrolle und Abschluss
-
-Zum Abschluss wird das Ergebnis auf unvollständige Anträge, Gehörsfehler, falsche Zuständigkeit, offenen Beweis, widersprüchliche Feststellungen, Tenorfehler und fehlende Nebenentscheidungen geprüft. Besonders zu kontrollieren ist in diesem Gebiet: Ist der Tenor rechnerisch umsetzbar oder muss die Berechnung nach FGO Paragraf 100 Absatz 2 übertragen werden. Danach folgt eine knappe Anschlussliste: verfügen, hinweisen, Beweis erheben, entscheiden, zustellen oder wiedervorlegen.
-
-## 14. Musterbausteine
-
-- Prozessblatt: Steuerart, Zeitraum, Bescheidfassung, Bekanntgabe, Einspruch, Entscheidung, Klage, Antrag, Streitwert, Aussetzung, Akten und nächste Verfügung.
-- Aufklärungsmatrix: Tatsache, Parteivortrag, Aktenfund, Beweismittel, gerichtliche Maßnahme, Mitwirkung, Feststellungslast und Bedeutung.
-- Aussetzungsbeschluss: Antrag, Zulässigkeit, ernstliche Zweifel oder Härte, Einwendungen, Interessen, Sicherheit, Tenor, Kosten und Beschwerde.
-- Urteil: Tenor, Tatbestand, Zulässigkeit, Steuerrechtsprüfung, Korrekturrecht, Tatsachenwürdigung, Berechnung, Kosten und Revision.
-
-## 15. Fachliche Entscheidungslandkarte
-
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
-
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| Aktenaufnahme und angefochtener Verwaltungsakt | Erfasse Steuerart, Zeitraum, Bescheid, Änderungsbescheid, Einspruchsentscheidung, Bekanntgabe, Anträge, Besteuerungsgrundlagen, Steuerakte und Vollziehungsstand; trenne jeden Verfügungssatz und Verfahrensabschnitt. | finanzgerichtliches Eingangsblatt mit Bescheidkette, Anträgen, Fristen, Aktenanforderung, Streitwert und erster Verfügung |
-| Zulässigkeit nach der FGO | Prüfe Finanzrechtsweg, Klageart, Klagebefugnis, Vorverfahren, Klagefrist, Beteiligte, Prozessvertretung und bestimmten Antrag nach FGO Paragrafen 33, 40, 44, 47, 57, 62 und 65. | Zulässigkeitsvotum mit Bekanntgaberechnung, Antrag, Heilungs- oder Hinweisbedarf und prozessualer Folge |
-| Aussetzung der Vollziehung | Prüfe Antrag bei Behörde oder Gericht, Zugangsvoraussetzungen, ernstliche Zweifel, unbillige Härte, Sicherheitsleistung, Teilbeträge und rückwirkende Aufhebung der Vollziehung nach Paragraf 69 FGO. | vollständiger AdV-Beschluss mit Streitbetrag, summarischer Prüfung, Sicherheitsfrage, Kosten und Anschlussverfügung |
-| Amtsermittlung und Mitwirkung | Bestimme entscheidungserhebliche Tatsachen, Mitwirkungssphäre, Steuerakten, Buchführung, Auskunftspersonen und erreichbare Beweismittel. | richterlicher Ermittlungsplan mit Beweisthema, Aktenfund, Auflage, Beweismittel, Frist und Auswirkung bei Nichterweislichkeit |
-| Schätzung und Besteuerungsgrundlagen | Prüfe Schätzungsbefugnis, Schätzungsmethode, Ausgangsdaten, Unsicherheitszuschläge, inneren und äußeren Betriebsvergleich und Ergebnisrahmen nach Paragraf 162 AO. | Schätzungsvotum mit Datengrundlage, Rechenweg, Bandbreite, Einwendungen, Gegenprobe und tenorierbarem Betrag |
-| Beweisaufnahme und Feststellungslast | Ordne jede streitige Tatsache dem materiellen Steuertatbestand, Beweismittel und der objektiven Feststellungslast zu. | Beweismatrix und beschlussfähige Beweisanordnung mit Beweisthema, Beweismaß, Kosten und Anschlussentscheidung |
-| Änderungsnormen und Verböserungsgrenze | Prüfe Bestandskraft, Vorbehalt, Vorläufigkeit, Korrekturvorschrift der AO, Änderungsrahmen des Klageverfahrens und Bindung an den angefochtenen Verwaltungsakt; trenne Fehlergrund und zulässige Rechtsfolge. | Änderungsmatrix mit Bescheidposition, Korrekturgrund, Frist, Betrag, Gegenposition und Entscheidungsgrenze |
-| Beteiligte, Beiladung und Steuergeheimnis | Prüfe notwendige oder einfache Beiladung, Prozessstandschaft, Gesamtrechtsnachfolge, Akteneinsicht, Schutz steuerlicher Daten und Umfang der Beteiligtenrechte nach FGO und AO; dokumentiere jede Offenlegung. | Beteiligten- und Schutzverfügung mit Rechtsgrund, Umfang, Schwärzung, Zustellung und Rechtsbehelf |
-| Mündliche Verhandlung und Erörterung | Bereite Sachbericht, Anträge, Hinweise, unstreitige Berechnungszeilen, Beweisthemen, Verständigungsmöglichkeiten und Protokoll vor; kläre Verzicht auf mündliche Verhandlung nur ausdrücklich und wirksam. | Terminsmappe mit Streitpunkten, Rechenblatt, Hinweisen, Fragen, Protokollbausteinen und Entscheidungsalternativen |
-
-## 16. Fachspezifische Praxisrouten
-
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
-
-### 16.1. Aktenaufnahme und angefochtener Verwaltungsakt
-
-Bearbeitungsauftrag: Erfasse Steuerart, Zeitraum, Bescheid, Änderungsbescheid, Einspruchsentscheidung, Bekanntgabe, Anträge, Besteuerungsgrundlagen, Steuerakte und Vollziehungsstand; trenne jeden Verfügungssatz und Verfahrensabschnitt.
-Lieferstück: finanzgerichtliches Eingangsblatt mit Bescheidkette, Anträgen, Fristen, Aktenanforderung, Streitwert und erster Verfügung.
-
-### 16.2. Zulässigkeit nach der FGO
-
-Bearbeitungsauftrag: Prüfe Finanzrechtsweg, Klageart, Klagebefugnis, Vorverfahren, Klagefrist, Beteiligte, Prozessvertretung und bestimmten Antrag nach FGO Paragrafen 33, 40, 44, 47, 57, 62 und 65.
-Lieferstück: Zulässigkeitsvotum mit Bekanntgaberechnung, Antrag, Heilungs- oder Hinweisbedarf und prozessualer Folge.
-
-### 16.3. Aussetzung der Vollziehung
-
-Bearbeitungsauftrag: Prüfe Antrag bei Behörde oder Gericht, Zugangsvoraussetzungen, ernstliche Zweifel, unbillige Härte, Sicherheitsleistung, Teilbeträge und rückwirkende Aufhebung der Vollziehung nach Paragraf 69 FGO.
-Lieferstück: vollständiger AdV-Beschluss mit Streitbetrag, summarischer Prüfung, Sicherheitsfrage, Kosten und Anschlussverfügung.
-
-### 16.4. Amtsermittlung und Mitwirkung
-
-Bearbeitungsauftrag: Bestimme entscheidungserhebliche Tatsachen, Mitwirkungssphäre, Steuerakten, Buchführung, Auskunftspersonen und erreichbare Beweismittel; steuere Sachaufklärung nach Paragraf 76 FGO, ohne Feststellungslast und Mitwirkung zu vermengen.
-Lieferstück: richterlicher Ermittlungsplan mit Beweisthema, Aktenfund, Auflage, Beweismittel, Frist und Auswirkung bei Nichterweislichkeit.
-
-### 16.5. Schätzung und Besteuerungsgrundlagen
-
-Bearbeitungsauftrag: Prüfe Schätzungsbefugnis, Schätzungsmethode, Ausgangsdaten, Unsicherheitszuschläge, inneren und äußeren Betriebsvergleich und Ergebnisrahmen nach Paragraf 162 AO; das Gericht muss eine eigene tragfähige Überzeugung bilden.
-Lieferstück: Schätzungsvotum mit Datengrundlage, Rechenweg, Bandbreite, Einwendungen, Gegenprobe und tenorierbarem Betrag.
-
-### 16.6. Beweisaufnahme und Feststellungslast
-
-Bearbeitungsauftrag: Ordne jede streitige Tatsache dem materiellen Steuertatbestand, Beweismittel und der objektiven Feststellungslast zu; formuliere Beweisbeschluss, Zeugen- oder Sachverständigenfragen und Würdigung nach FGO Paragrafen 81 und folgende sowie 96.
-Lieferstück: Beweismatrix und beschlussfähige Beweisanordnung mit Beweisthema, Beweismaß, Kosten und Anschlussentscheidung.
-
-### 16.7. Änderungsnormen und Verböserungsgrenze
-
-Bearbeitungsauftrag: Prüfe Bestandskraft, Vorbehalt, Vorläufigkeit, Korrekturvorschrift der AO, Änderungsrahmen des Klageverfahrens und Bindung an den angefochtenen Verwaltungsakt; trenne Fehlergrund und zulässige Rechtsfolge.
-Lieferstück: Änderungsmatrix mit Bescheidposition, Korrekturgrund, Frist, Betrag, Gegenposition und Entscheidungsgrenze.
-
-### 16.8. Beteiligte, Beiladung und Steuergeheimnis
-
-Bearbeitungsauftrag: Prüfe notwendige oder einfache Beiladung, Prozessstandschaft, Gesamtrechtsnachfolge, Akteneinsicht, Schutz steuerlicher Daten und Umfang der Beteiligtenrechte nach FGO und AO; dokumentiere jede Offenlegung.
-Lieferstück: Beteiligten- und Schutzverfügung mit Rechtsgrund, Umfang, Schwärzung, Zustellung und Rechtsbehelf.
-
-### 16.9. Mündliche Verhandlung und Erörterung
-
-Bearbeitungsauftrag: Bereite Sachbericht, Anträge, Hinweise, unstreitige Berechnungszeilen, Beweisthemen, Verständigungsmöglichkeiten und Protokoll vor; kläre Verzicht auf mündliche Verhandlung nur ausdrücklich und wirksam.
-Lieferstück: Terminsmappe mit Streitpunkten, Rechenblatt, Hinweisen, Fragen, Protokollbausteinen und Entscheidungsalternativen.
-
-### 16.10. Urteil und Tenor im Steuerstreit
-
-Bearbeitungsauftrag: Formuliere Aufhebung, Änderung, Verpflichtung oder Abweisung betrags- und zeitraumgenau; stimme Tatbestand, Entscheidungsgründe, Berechnungsanlage, Kosten und vorläufige Vollstreckbarkeit mit FGO Paragrafen 95, 100, 105 und 151 ab.
-Lieferstück: absetzungsreifes Urteil mit eindeutigem Steuerbetrag, Berechnungsgrundlage, Kosten und Zustellungsverfügung.
-
-### 16.11. Revision und Nichtzulassungsbeschwerde
-
-Bearbeitungsauftrag: Prüfe Beschwer, Zulassungsgründe, Divergenz, grundsätzliche Bedeutung, Verfahrensmangel, Frist, Form und Vertretungszwang nach FGO Paragrafen 115 und folgende; bezeichne tragende Rechtssätze präzise.
-Lieferstück: Rechtsmittelvermerk mit Zulassungsfrage, Fristenblatt, Divergenz- oder Verfahrensrüge und Aktenvorlage.
-
-### 16.12. Kosten, Streitwert und Vollzug
-
-Bearbeitungsauftrag: Kontrolliere Kostenquote, Hinzuziehung eines Bevollmächtigten im Vorverfahren, Streitwert, Erstattungsfähigkeit, Vollziehung nach Entscheidung und erforderliche Mitteilung an Finanzbehörde oder Vollstreckungsstelle.
-Lieferstück: Nebenentscheidungs- und Vollzugsblatt mit Berechnung, Kostentenor, Empfängern, Zustellung und Erledigungskontrolle.
+Nutze nur verfügbare Werkzeuge und wahre Steuer- und Aktengeheimnis. Bei fehlendem Export liefere den Text; bei fehlendem Zugriff benenne die konkret betroffene Prüfung und bearbeite unabhängige Teile weiter. Nach Eingang fehlender Unterlagen setze am erreichten Stand fort, ohne nicht durchgeführte Prüfungen oder Verfahrenshandlungen zu behaupten.

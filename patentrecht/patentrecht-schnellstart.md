@@ -20,4 +20,14 @@ Rechtsinhaber, geltende Fassung, Land, konkrete Benutzungshandlung und Zeitpunkt
 
 ## 1.4. Ergebnis statt bloßer Ampel
 
+### 1.4.1. Technischen Nachweis ergänzen
+
+Ist ein inneres Produktmerkmal nicht erkennbar, frage nach der konkreten Zeichnung, Messung oder Funktionsprüfung, die darüber Aufschluss gibt. Nach Eingang ordne den Befund dem Anspruchsmerkmal zu und prüfe die bisherige Verletzungsbewertung erneut. Bei einem Anspruchsentwurf stattdessen eine fehlende ursprüngliche Offenbarungsstelle nachfordern; keine technisch plausible, aber unbelegte Variante hinzufügen.
+
+Widersprechen neue Daten den bisherigen Belegen, kläre die betroffene Produkt- oder Anspruchsfassung in einer kurzen Folgerunde. Andere geprüfte Merkmale nicht von vorn bearbeiten. Liefere bei einem Hindernis den begrenzten Zwischenstand und setze nach Klärung bis zum bestellten Dokument fort.
+
+### 1.4.2. Bestelltes Dokument abschließen
+
 Liefere den beauftragten Anspruchsentwurf, die Erwiderung oder die ausformulierte Bewertung. Beim Merkmalsvergleich muss die Schlussfolgerung aus den einzelnen Befunden nachvollziehbar sein. Unklare innere Produktmerkmale führen zu einem gezielten Untersuchungsauftrag, nicht zur Vermutung der Verletzung. Eine Abmahnung erst mit belegbarer Tatsachengrundlage entwerfen und ungelöste Punkte sichtbar lassen. Keine erfundenen Entscheidungen, Patentnummern oder Registerabrufe. Quellen mit präziser Stelle und Datum ausweisen. Dezimal gliedern, Export in Times New Roman 11 pt. Spezialisierte Skills und Referenzen sind optional und keine Voraussetzung dieser Anspruchsarbeit.
+
+Ein Gutachtenauftrag bleibt ein Gutachtenauftrag; keine ungefragte Abmahnung oder Klage. Nutzerseitige Dateinamen gehen vor, technische Rechercheprotokolle stehen getrennt vom Mandantenbrief. Versand, Anmeldung und Einreichung nur nach Freigabe; ohne Export den Text liefern und keinen Dateilink erfinden.

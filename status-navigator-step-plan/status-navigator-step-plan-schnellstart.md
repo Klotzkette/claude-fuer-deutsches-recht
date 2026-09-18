@@ -1,6 +1,8 @@
 # 1. Dokumentenstatus und Schrittplan: Schnellstart
 
-Überführe den vorhandenen Dokumentenbestand in einen nachvollziehbaren Arbeitsstand. Dies ist Dokumentenverarbeitung, keine eigenständige rechtliche Bewertung von Ansprüchen oder Fristen. Lies die für den Auftrag tragenden Dateien zuerst. Liefere Register, Abweichungsmatrix oder Schrittplan statt eines allgemeinen Rechtsgutachtens.
+Erstelle aus dem vorhandenen Bestand das bestellte Dokumentenregister, den Fassungsvergleich oder Schrittplan. Dies ist Dokumentenverarbeitung, keine eigenständige rechtliche Bewertung von Ansprüchen oder Fristen.
+
+Lies die für den Auftrag tragenden Dateien zuerst und übernimm bereits geklärte Fassungen und Ausgabeziele. Ein allgemeines Rechtsgutachten gehört nicht zu diesem Auftrag.
 
 ## 1.1. Bestand und Arbeitsziel
 
@@ -18,11 +20,11 @@ Für Tabellen Formel, Eingaben, Einheit, Rundung, Filter und ausgeblendete Blät
 
 ## 1.3. Aus dem Status wird ein ausführbarer Plan
 
-Führe „Arbeitsschritt / Voraussetzung / konkrete Eingabe / verantwortliche Rolle / Ergebnis / Terminstatus“. Abhängigkeiten ausdrücklich angeben: Eine Redline benötigt eine bestätigte Ausgangsfassung, ein Export eine freigegebene Zielversion.
+Führe „Arbeitsschritt / Voraussetzung / konkrete Eingabe / verantwortliche Rolle / Ergebnis / Terminstatus“. Abhängigkeiten ausdrücklich angeben: Eine Redline benötigt eine geklärte Ausgangsfassung, ein als freigegeben bezeichneter Export eine bestätigte Zielversion. Eine eindeutig als Arbeitsfassung gekennzeichnete Datei darf schon vorher erstellt und zur Prüfung übergeben werden; dadurch wird keine Freigabe erteilt.
 
 Priorisiere nach tatsächlicher Dringlichkeit und blockierten Folgearbeiten. Übernommene Dokumentfristen als Quellenangabe kennzeichnen; einen rechtlichen Fristbeginn nicht selbst aus einem beliebigen Dateidatum ableiten. Fehlende Zustellung oder unbekannte Formwirksamkeit als fachlichen Prüfauftrag ausweisen.
 
-Keine endlose Aufgabenliste erstellen. Liefere zuerst die nächsten drei ausführbaren Schritte und die tatsächlich blockierten Entscheidungen. Ein fehlendes Original sperrt nur Aussagen, die dieses Original voraussetzen; lesbare Vergleichsteile weiterbearbeiten.
+Priorisiere die tatsächlich ausführbaren Schritte und benenne blockierte Entscheidungen mit ihrer Voraussetzung, statt alle denkbaren Aufgaben aufzulisten. Ein fehlendes Original sperrt nur Aussagen, die dieses Original voraussetzen; lesbare Vergleichsteile weiterbearbeiten.
 
 ## 1.4. Übergabe
 
@@ -30,4 +32,8 @@ Das Ergebnis enthält Bestandsumfang, geprüfte Fassungen, Abweichungen, offene 
 
 Rechtliche Spezialfragen nur auf ausdrücklichen Auftrag und mit gesonderter Quellenprüfung bearbeiten. Dokumentenstatus ist keine Beweislastregel der ZPO. Für die technische Unterscheidung elektronischer Einreichung und bloßer Dateiverfügbarkeit kann Paragraf 130a ZPO geprüft werden: https://www.gesetze-im-internet.de/zpo/__130a.html
 
-Eine gebündelte Rückfrage zu maßgeblicher Fassung oder Ausgabeziel, wenn nötig. Keine Dateien löschen, Originale überschreiben, Freigaben erteilen oder externe Nachrichten versenden. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional. Folgeaufträge auf dem dokumentierten Bestand fortsetzen und nur hinzugekommene Fassungen neu abgleichen.
+Ist bei zwei Fassungen unklar, welche gelten soll, frage nach der maßgeblichen Freigabenachricht. Nach Eingang aktualisiere Versionszuordnung, betroffene Abweichungen und die davon abhängigen Arbeitsschritte. Zeigt sich eine weitere entscheidende Lücke, etwa eine abweichende Anlage zur bestätigten Fassung, frage gezielt danach; bekannte Angaben nicht erneut aufnehmen.
+
+Erstelle anschließend das bestellte Register oder Dokument fertig unter dem gewünschten Dateinamen. Verbleibende Lücken in einer Übergabenotiz erklären; Dokumentenverfügbarkeit nicht als rechtliche Vollständigkeit ausgeben. Keine Dateien löschen, Originale überschreiben, Freigaben erteilen oder externe Nachrichten versenden.
+
+Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; ohne Zugriff die konkrete Lücke nennen und zugängliche Teile bearbeiten, ohne Export den Text liefern.

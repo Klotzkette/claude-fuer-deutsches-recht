@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "ki-governance",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
@@ -26,13 +26,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die aktuellen Rechtsstandsweichen sind bereits differenziert. Der Einstieg und die Vorfallbearbeitung brauchten einen eigenständigen, zeitbezogenen Arbeitsweg.",
+    "reason": "Der vollständig gelesene Schnellstart trennt Systemfreigabe, Anbieterrolle und Datenschutzvorfall. Fehlende Angaben lösen eine gezielte Nachforderung aus, nicht eine verpflichtende Gesamtinventur.",
     "changes": [
-      "Kenntniszeit, Erstverdacht und fortdauernden Zugriff vor Gesamtinventur gestellt.",
-      "Datenschutz- und KI-Vorfallwege getrennt.",
-      "Keine eigenmächtige Meldung oder Systemabschaltung; optionale Vertiefung ausdrücklich."
+      "Anbieterantworten und Vorfalldaten werden in die konkrete Freigabeunterlage oder den Meldungsentwurf eingearbeitet; eigenmächtige Meldung und Abschaltung bleiben ausgeschlossen."
     ],
-    "sha256": "59680d604097fb85a299b38972b73d45f5d912487ed6cecad66d95226079a55d"
+    "sha256": "31223b677253ffe1890e7462759eabc1d476c43b59c7a7d43d58201ef6cc8190"
   },
   "selection": {
     "positive": [
@@ -77,5 +75,13 @@
       ],
       "target_skill": "ki-incident-management-art-73"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die gesamte Werkstatt einschließlich Reformbezügen und Recherchegrenzen wurde gelesen. Rollenprüfung, menschliche Aufsicht, Vertragszusagen und Vorfallbearbeitung bleiben unterschiedliche Arbeitsaufträge.",
+    "changes": [
+      "Nachgelieferte Zweckbestimmung, Eingriffsbefugnisse oder Protokolle führen zur betroffenen Vertragsklausel, Arbeitsanweisung oder Vorfallbewertung. Bestehende Quellenstände wurden nicht als neu verifiziert ausgegeben."
+    ],
+    "sha256": "d9dfc798d9c09e8c76ba50574eaaa92f31c4c74c4324f5504b0bdf526fe8a8be"
+  }
 }

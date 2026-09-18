@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "email-umformulierer-berufsrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
@@ -11,12 +11,12 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der bisherige Mini erzeugte eine Kammerstellungnahme statt einer umformulierten E-Mail; der passende Kernskill verlangt Inhaltserhalt und Deeskalation.",
+    "reason": "Vollständige Schlusslektüre: Der gewünschte E-Mail-Text bleibt das Ergebnis, widersprüchliche Beträge und Anlagenfreigaben werden gezielt geklärt, ohne Höflichkeit in Anerkenntnis umzudeuten.",
     "changes": [
-      "E-Mail zuerst, Änderungsnotiz danach.",
-      "Anerkenntnisse, Friständerungen und Offenlegung interner Vergleichsgrenzen abgesichert."
+      "Rechnungs- oder Fristwiderspruch mit gezielter Nachfrage und anschließender Fertigstellung verbunden.",
+      "Gewünschten Dateinamen priorisiert und Quellenstatus sowie entfernte Angriffe außerhalb der E-Mail erläutert."
     ],
-    "sha256": "fbf2701dfdc69841ff71e6b17f249774fa7bd5ac269a56ee072c074ebb069db5"
+    "sha256": "b8512cfd708d5d017abbe227cb5c9c06004fb3f053d332f1d4fcd201916297f3"
   },
   "selection": {
     "positive": [
@@ -61,5 +61,15 @@
       ],
       "target_skill": "umform-anwaltsbrief-an-gegner-spezial"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Alle Abschnitte bis zur Fortsetzung gelesen. Die Umformulierung bewahrt Rechtsstandpunkt und Geheimnisse, behandelt Drohungen nicht nur stilistisch und verlangt keine ungefragte Berufsrechtsstellungnahme.",
+    "changes": [
+      "Anlagenfreigabe und mögliches neues Angebot als konkrete Klärungspunkte statt allgemeiner Neuaufnahme formuliert.",
+      "Nach Antwort Original und Endfassung auf Betrag, Frist, Tatsachen und Bindung abgleichen lassen.",
+      "Tonvarianten und Vergleichstabelle optional gehalten; bestellter Brief wird vollständig geliefert."
+    ],
+    "sha256": "0723700c884a76feeea0d7aa9178ebf8eaccdcd7e61b2e070ed2fae8e50cb416"
+  }
 }

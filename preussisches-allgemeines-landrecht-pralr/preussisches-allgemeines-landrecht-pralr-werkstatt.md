@@ -1,6 +1,6 @@
 # PrALR: Werkstatt für historische Rechtsfragen
 
-Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
+Untersuche die beauftragte historische Rechtsfrage anhand der verfügbaren Quellen und formuliere das gewünschte Ergebnis aus. Eine Quellenanalyse, ein Fallgutachten und eine Lehrunterlage verlangen unterschiedliche Darstellungen.
 
 ## 1. Das Erkenntnisziel festlegen
 
@@ -8,9 +8,15 @@ Eine Quellenedition, ein historisches Gutachten und ein heutiger Schriftsatz ben
 
 Bei der Frage nach damaligem Recht gilt der historische Stichtag. Bei einer Rezeptionsfrage werden Ausgangsregel und spätere Übernahme getrennt belegt. Bei behaupteter heutiger Fortgeltung folgt eine zusätzliche Rechtsüberleitungskette. Ähnlichkeit einer Formulierung genügt für keine dieser Übergänge.
 
+Übernimm bereits geklärte Angaben und lies vorhandene Unterlagen vor Rückfragen. Fehlt eine entscheidende Datierung, ein Textausschnitt oder die örtliche Zuordnung, frage gezielt danach. Nach Eingang prüfe den neuen Beleg und aktualisiere die betroffene Lesung, Geltungsprüfung oder Fallbewertung bis zum bestellten Ergebnis; weitere kurze Runden sind zulässig, wenn eine neue entscheidende Lücke entsteht.
+
+Alle folgenden Skill- und Referenzlinks sind optionale Vertiefungen. Ohne Zugriff gelten die hier beschriebenen Quellen- und Prüfungsschritte; fehlende Altmaterialien dürfen nicht zum pauschalen Abbruch führen.
+
 ## 2. Den Textzeugen sichern
 
 2.1. Titelblatt, Druckjahr, Band, Teil und konkrete Seite erfassen. Dateiname, PDF-Metadatum und bibliografische Identität sind nicht dasselbe.
+
+Den Entwurf von 1792 und das Gesetzbuch von 1794 anhand des Textzeugen unterscheiden. Historische Orthografie im Originalzitat bewahren; jede eigene Normalisierung als solche kenntlich machen.
 
 2.2. Die gesuchte Stelle über Inhaltsverzeichnis, Register und Nachbarvorschriften bestimmen. Die [Normenbibliothek](skills/pralr-normenbibliothek/SKILL.md) liefert Suchhilfen, keinen Ersatz für den Primärtext.
 
@@ -40,6 +46,12 @@ Ein Vertrag, ein Erbfall und ein späterer Prozess können unterschiedliche maß
 | Strafe und Verfahren | Strafnorm, Zurechnung, Strafandrohung, Prozessrecht und Vollzug nicht vermischen. |
 
 Für den einzelnen Punkt nur die sachnächste Fachanleitung und nötige Referenz lesen. Allgemeine Überblicke und spezielle Rechtsfolgenprüfungen werden nicht alle vorsorglich geladen.
+
+Bei Sachen- und Nachbarfragen Gewahrsam, Erwerbsart, Grenze, Nutzung, Dienstbarkeit und Abwehrrecht anhand der zeitlich einschlägigen Quellen prüfen. Kataster, Hypothekenbuch, Vertrag und behauptete Observanz haben unterschiedliche Aussagekraft.
+
+Bei Schaden Handlung, Verschulden, Kausalität, Zufall, Mitverursachung und Ersatzumfang sowie einschlägige Sonderregeln für Amt, Gewerbe, Hausverband oder Tierhaltung auseinanderhalten. Ehe- und Familienfragen benötigen gegebenenfalls eigene Prüfung von Vermögensordnung, Unterhalt, Trennung, Vormundschaft und Behördenaufsicht. Eine historische Erbprüfung unterscheidet Berufung, Form und Fähigkeit, Vermächtnis, Pflichtteilsschutz, Verwaltung und Schuldenhaftung; partikulares Lehns- oder Familienrecht setzt einen Geltungsnachweis voraus.
+
+Bei Policey und guter Ordnung historischen Begriff, zuständige Obrigkeit, Eingriffsmittel und damaligen Rechtsschutz prüfen. Für Aufopferungsfragen die Einleitung Paragrafen 74 und 75 im Wortlaut und Zusammenhang lesen und spätere Fortwirkung eigenständig belegen. Heutige Begriffe oder Anspruchsvoraussetzungen ersetzen die historische Prüfung nicht.
 
 ## 5. Mit Altmaterialien arbeiten
 
@@ -287,68 +299,8 @@ Fehlt eine Datierung, nach der maßgeblichen Ausfertigung suchen; fehlt die Ausn
 
 Im Abschluss genau sagen, was nicht geprüft wurde. Dazu können ein zweiter Druck, tatsächliche Gerichtspraxis, örtliches Sonderrecht oder spätere Fortgeltung gehören. Keine automatische Weiterrecherche in sämtlichen diesen Richtungen anordnen. Die nächste Vertiefung folgt dem Nutzerauftrag und dem entscheidenden Erkenntnisdefizit.
 
-<!-- BEGIN fachrouten-werkstatt (autogen) -->
-## 19. Fachspezifische Praxisrouten
+Ist die benötigte Quelle nachgereicht, bleibe nicht bei der Nachforderung stehen: prüfe ihre Aussage und vervollständige das bestellte Gutachten, die Synopse oder Lehrunterlage. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur ein möglicher Standard. Zusätzliche Abrufvermerke können getrennt stehen, während die zum Erkenntnisziel gehörende Quellenkritik im Ergebnis bleibt.
 
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
+## 19. Technische und externe Grenzen
 
-### 19.1. Ausgabe, Druck und Textzeuge sichern
-
-Bearbeitungsauftrag: Bestimme 1792er Entwurf oder Gesetzbuch von 1794, Band, Teil, Titel, Paragraf, Druck, Scan und Seitenbild; vergleiche OCR mit dem Faksimile, bewahre historische Orthografie im Zitat und dokumentiere jede stillschweigende Modernisierung.
-Lieferstück: Textzeugenprotokoll mit Ausgabe, Druck, Band, Seitenbild, OCR-Abweichung, historischer Orthografie, eigener Normalisierung und zitierfähiger Fundstelle.
-
-### 19.2. Geltungsraum und Rechtsquellenhierarchie
-
-Bearbeitungsauftrag: Kläre Stichtag, preußisches Gebiet, Provinz, Personenstand, lokales Statut, Partikularrecht und subsidiäres gemeines Recht; behandle das PrALR weder vor seinem Inkrafttreten noch nach seiner Ablösung als automatisch anwendbar.
-Lieferstück: Geltungsmatrix mit Ort, Provinz, Stichtag, Personenstand, Partikularrecht, subsidiärer Quelle, Vorrang und begründetem Anwendungsbefund.
-
-### 19.3. Normnavigator durch Teil, Titel und Paragraf
-
-Bearbeitungsauftrag: Lege aus der Sachfrage eine Suchroute durch Einleitung, Ersten oder Zweiten Teil und einschlägigen Titel an; lies Nachbarparagrafen, Definitionen, Ausnahmen und Verweisungen mit und liefere Fundstelle samt stabilem Link zum Digitalisat.
-Lieferstück: Normenpfad mit Einleitung, Teil, Titel, Abschnitt, Paragraf, Nachbarvorschriften, Definitionen, Ausnahmen, Verweisungen und Digitalisatfundstelle.
-
-### 19.4. Person, Stand und Handlungsfähigkeit
-
-Bearbeitungsauftrag: Ordne natürliche und juristische Person, Stand, Geschlecht, Alter, Hausverband, Vormundschaft und öffentlich-rechtliche Bindung im damaligen System; trenne historische Rechtslage, gesellschaftliche Machtordnung und heutige verfassungsrechtliche Bewertung.
-Lieferstück: historische Statusmatrix mit Person, Stand, Alter, Geschlecht, Hausverband, Handlungsfähigkeit, Vormundschaft, Quelle und getrenntem Gegenwartsbefund.
-
-### 19.5. Besitz, Eigentum und Nachbarordnung
-
-Bearbeitungsauftrag: Prüfe Gewahrsam, Besitz, Eigentum, Erwerbsart, Grundstücksbezug, Grenze, Nutzung, Dienstbarkeit und Abwehrrecht anhand des Ersten Teils; gleiche Kataster, Hypothekenbuch, Vertrag und örtliche Observanz ab, ohne heutiges Grundbuchrecht einzusetzen.
-Lieferstück: Sachen- und Nachbarrechtskarte mit Grundstück, Gewahrsam, Besitz, Erwerb, Eigentum, Grenze, Dienstbarkeit, Observanz, Abwehrrecht und Urkundenbeleg.
-
-### 19.6. Willenserklärung und Vertrag
-
-Bearbeitungsauftrag: Bestimme Vertragstyp, Parteien, Fähigkeit, Erklärung, Form, Auslegung, Irrtum, Leistung, Gefahr, Gewährleistung und Beendigung aus den einschlägigen Titeln des Ersten Teils; kennzeichne, wo spätere BGB-Begriffe nur Vergleich und nicht historische Norm sind.
-Lieferstück: historisches Vertragsvotum mit Vertragstyp, Fähigkeit, Erklärung, Form, Leistung, Gefahr, Gewährleistung, Beendigung und gekennzeichnetem BGB-Vergleich.
-
-### 19.7. Schadensersatz und unerlaubte Handlung
-
-Bearbeitungsauftrag: Rekonstruiere verletztes Recht, Handlung, Verschulden, Kausalität, Zufall, Mitverursachung und Ersatzumfang aus dem PrALR; prüfe Sonderregeln für Amt, Gewerbe, Hausverband oder Tierhaltung und vermeide eine rückwirkende BGB-Generalklausel.
-Lieferstück: Schadensmatrix mit verletztem Recht, Handlung, Verschulden, Kausalität, Zufall, Mitverursachung, Sonderregel, Ersatzumfang und Originalfundstelle.
-
-### 19.8. Ehe, Familie und Vormundschaft
-
-Bearbeitungsauftrag: Ordne Eheschließung, Vermögensordnung, elterliche Gewalt, Unterhalt, Trennung, Vormundschaft und Behördenaufsicht der konkreten Zeit und Konfession zu; stelle diskriminierende Statusfolgen offen dar und trenne sie von heutiger Rechtslage.
-Lieferstück: familienrechtliche Zeitstandskarte mit Konfession, Eheschließung, Vermögensordnung, Gewaltverhältnis, Unterhalt, Vormundschaft, Aufsicht und offener Gegenwartsdistanz.
-
-### 19.9. Erbfolge und letztwillige Verfügung
-
-Bearbeitungsauftrag: Prüfe gesetzliche Folge, Testament, Form, Fähigkeit, Erbeinsetzung, Vermächtnis, Pflichtteilsschutz, Nachlassverwaltung und Schuldenhaftung mit Personen- und Vermögensbelegen; berücksichtige partikulares Lehns- oder Familienrecht nur bei nachgewiesener Geltung.
-Lieferstück: historische Erbfolgetafel mit Stamm, Berufungsgrund, Form, Fähigkeit, Erbeinsetzung, Vermächtnis, Pflichtteilsschutz, Haftung und partikularrechtlichem Vorbehalt.
-
-### 19.10. Polizeirecht und gute Ordnung
-
-Bearbeitungsauftrag: Arbeite für den Zweiten Teil, Titel 17, den historischen Polizeibegriff, zuständige Obrigkeit, Gefahr- oder Ordnungszweck, Eingriffsmittel und damaligen Rechtsschutz heraus; übertrage die Generalklausel nicht ungeprüft auf heutiges Polizei- und Ordnungsrecht.
-Lieferstück: Polizeirechtsmemo zum damaligen Begriff mit Obrigkeit, Ordnungszweck, Tatbestand, Eingriffsmittel, zeitgenössischem Rechtsschutz und getrennter heutiger Vergleichsebene.
-
-### 19.11. Aufopferung und Fortwirkung
-
-Bearbeitungsauftrag: Sichere den Wortlaut der Einleitung Paragrafen 74 und 75, bestimme Eingriff, Gemeinwohlbezug, besonderes Opfer und Ausgleich im historischen Fall und zeichne die spätere dogmatische Fortwirkung nur mit eigenständigem heutigen Rechtsanker nach.
-Lieferstück: Aufopferungssynopse mit Originalwortlaut, Eingriff, Gemeinwohl, besonderem Opfer, Ausgleich, historischer Anwendung und eigenständig belegter Fortwirkung.
-
-### 19.12. Historisches Fallgutachten und Ablösung
-
-Bearbeitungsauftrag: Löse den Fall stichtagsbezogen mit Geltungsrecht, Originalfundstelle, Tatbestand, Beweis, Rechtsfolge und zeitgenössischem Verfahrensweg; schließe mit einer Transformationskarte zu Reichsrecht, BGB-Einführungsgesetz oder Landesrecht, ohne Ergebnisse zu vermengen.
-Lieferstück: vollständiges PrALR-Fallgutachten mit Stichtag, Geltung, Originalfundstelle, historischer Subsumtion, Beweis, Rechtsfolge, Verfahrensweg und getrennter Ablösungskarte.
-<!-- END fachrouten-werkstatt (autogen) -->
+Bei fehlendem Zugriff fordere die konkret benötigte Seite oder Fassung an und bearbeite unabhängig belegbare Teile vorläufig. Ohne Export liefere Text; behaupte keine Faksimileprüfung, vollständige Kollation oder Dateierzeugung, die nicht stattgefunden hat. Externe Anfragen, Veröffentlichungen und Einreichungen benötigen ausdrückliche Freigabe.

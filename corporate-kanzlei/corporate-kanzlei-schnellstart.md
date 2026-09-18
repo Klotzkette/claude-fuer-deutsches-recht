@@ -1,6 +1,6 @@
-# 1 Corporate Kanzlei: Vom Befund zum Vertrags- und Vollzugsprodukt
+# 1 Corporate Kanzlei: Transaktionen prüfen und Verträge ausarbeiten
 
-Bearbeite die vorgelegte Transaktion aus Sicht der bezeichneten Partei. Liefere das verlangte Term Sheet, Due-Diligence-Kapitel, den Vertragstext, die Gremienvorlage oder die Vollzugsunterlagen unmittelbar. Die Transaktionsübersicht soll Entscheidungen und Abhängigkeiten sichtbar machen, nicht zusätzliche Berichtslasten erzeugen. Nutze zuerst Sachverhalt und vorhandene Fassungen; frage nur nach Angaben, ohne die gerade die verlangte Entscheidung nicht tragfähig wäre.
+Bearbeite die vorgelegte Transaktion aus Sicht der bezeichneten Partei bis zum verlangten Term Sheet, Due-Diligence-Kapitel, Vertragstext oder zu den bestellten Gremien- und Vollzugsunterlagen. Nutze zuerst den vorhandenen Sachverhalt und die Vertragsfassungen.
 
 ## 1.1 Transaktion und Arbeitsstand festhalten
 
@@ -16,7 +16,7 @@ Bei einer Klausel liefere ausformuliert den verpflichteten Rechtsträger, Auslö
 
 ## 1.3 Vollzugsbedingungen einzeln nachweisen
 
-Erstelle für jede Bedingung eine Zeile mit Klausel, Begünstigtem, Verantwortlichem, notwendigem Nachweis, Fälligkeit, Status und nächster Handlung. Verwende getrennte Statuswerte: offen, Nachweis in Prüfung, erfüllt, wirksam erlassen oder streitig. Ein vorbereitetes Zertifikat ist kein unterzeichnetes Zertifikat; eine beantragte Freigabe ist keine Freigabe. Prüfe behördliche Bedingungen einschließlich Auflagen und Vollzugsverboten nach dem tatsächlich einschlägigen Regime. Ein privater Verzicht ersetzt keine gesetzlich notwendige Freigabe.
+Bei beauftragter Vollzugsprüfung ordne jeder betroffenen Bedingung Klausel, Begünstigten, Verantwortlichen, notwendigen Nachweis und Fälligkeit zu. Unterscheide offene, noch zu prüfende, erfüllte, wirksam erlassene und streitige Bedingungen; eine Tabelle ist nur bei entsprechendem Umfang nötig. Ein vorbereitetes Zertifikat ist kein unterzeichnetes Zertifikat; eine beantragte Freigabe ist keine Freigabe. Prüfe behördliche Bedingungen einschließlich Auflagen und Vollzugsverboten nach dem tatsächlich einschlägigen Regime. Ein privater Verzicht ersetzt keine gesetzlich notwendige Freigabe.
 
 Leite Verzichtsbefugnis und Form aus dem SPA ab. Eine mündliche Zustimmung eines Mitarbeiters genügt nicht ohne Prüfung von Vertretungsmacht und vereinbarter Form. Halte einen Verzicht als eigenen Beleg fest und ändere nicht nachträglich den Status zu „erfüllt“. Bei einer Change-of-Control-Zustimmung prüfe den richtigen Vertragspartner, Umfang und etwaige Bedingungen der Zustimmung.
 
@@ -28,6 +28,12 @@ Beim Long Stop Date den Wortlaut lesen: Beendigungsrecht, automatische Beendigun
 
 ## 1.5 Entscheidungsreifes Ergebnis
 
-Stelle dem Arbeitsprodukt eine knappe Entscheidung voran: vollzugsbereit, nur unter konkret benannten Voraussetzungen bereit oder derzeit nicht bereit. Nenne den entscheidenden Beleg und den nächsten Adressaten. Bei Vertragsarbeit liefere die vorgeschlagene Fassung und eine kurze Verhandlungsbegründung; bei DD keine bloße Ampel ohne Tatsachen. Bearbeite dringende Termine weiter, statt wegen ihrer Nähe abzubrechen. Keine Freigabe, Einreichung oder Zahlung ohne ausdrücklichen Auftrag.
+Beantworte die bestellte Frage: Bei Vollzugsprüfung begründe die Bereitschaft oder das konkrete Hindernis; bei Vertragsarbeit liefere die Fassung mit getrennter Verhandlungsbegründung, bei Due Diligence den belegten Bericht. Nicht jede Klauselprüfung verlangt zusätzlich eine vollständige Vollzugsliste.
+
+Fehlt hinter einem Change-of-Control-Befund der Vertrag, fordere diesen an. Nach der Antwort prüfe Zustimmung und Regelungsfolge neu und passe die betroffene Klausel an. Fehlt ein Kaufpreiswert, frage nach Betrag, Definition und Stichtag und aktualisiere anschließend Rechnung und Vertrag.
+
+Neue entscheidende Widersprüche erlauben weitere kurze Rückfragen, nicht die Wiederholung bekannter Transaktionsdaten. Liefere währenddessen die unabhängigen Teile vorläufig und arbeite nach der Antwort bis zur bestellten Endfassung weiter. Behaupte auch in Nachforderungen keine unbekannten Vertragsinhalte als Tatsache. Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur der Vorschlag bei fehlender Vorgabe.
+
+Interne Verhandlungsgrenzen, Quellenstatus und Kontrollen getrennt vom Vertrag oder Mandantenbrief notieren. Keine externe Freigabe, Erklärung, Einreichung oder Zahlung ohne ausdrückliche Zustimmung.
 
 Verifiziere nur die für die gewählte Struktur tragenden Rechtsanker amtlich. Ausgangspunkt für GmbH-Anteile: [Paragraf 15 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__15.html). Allgemeine gesellschaftsrechtliche Entscheidungen ersetzen die konkrete Vertragsprüfung nicht. Dieser Schnellstart funktioniert ohne weitere Dateien; zusätzliche Spezialmaterialien sind optional. Schreibe vollständige Sätze und gliedere dezimal; beim formatierten Export Grundschrift Times New Roman 11 pt verwenden.

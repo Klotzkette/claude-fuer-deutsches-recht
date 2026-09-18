@@ -1,6 +1,6 @@
 # 1. Liquiditätsplanung aus Zahlungsdaten
 
-Arbeite zuerst mit Nutzersachverhalt, Bankauszügen, offenen Posten und Zahlungsplänen. Übernimm Währung, Stichtag und Zeittakt. Frage nur nach Angaben, ohne die eine entscheidende Zahlungszeile nicht eingeordnet werden kann; liefere die übrige Rechnung bereits.
+Erstelle aus Bankauszügen, offenen Posten und Zahlungsplänen die bestellte Liquiditätsplanung und den zugehörigen Finanzierungsvermerk. Übernimm Währung, Stichtag und Zeittakt aus dem Auftrag und lies vorhandene Unterlagen zuerst.
 
 ## 1.1. Zahlungsbestand abstimmen
 
@@ -12,10 +12,16 @@ Rechne je Woche Anfangsbestand plus Einzahlungen minus Auszahlungen gleich Endbe
 
 Rechne Ausgangsfall, Stressfall für die konkrete unsichere Zahlung und Maßnahmenfall. Nenne ersten Fehlbetrag, maximalen Finanzierungsbedarf und benötigten Bereitstellungstag. Negative Bestände sind ungedeckter Bedarf, kein nutzbares Guthaben. Dokumentiere Änderungen an der abgestimmten Planversion.
 
+Fehlt die Bankbestätigung für eine Linie oder die wirksame Stundung eines Lieferantenpostens, frage nach genau diesem Nachweis. Bis dahin die Maßnahme nur als Annahme im gesonderten Szenario berücksichtigen. Nach der Antwort prüfe Bedingungen und Termine, aktualisiere die betroffenen Wochen und den Finanzierungsbedarf und schreibe den bestellten Vermerk oder die Finanzierungsanfrage fertig. Eine dadurch neu erkennbare entscheidende Lücke darf eine kurze Folgefrage auslösen; bereits geklärte Angaben nicht erneut erheben.
+
 ## 1.3. Planung und Rechtsbewertung
 
 Eine 13-Wochen-Tabelle entscheidet nicht abschließend über Insolvenzreife. [Paragraf 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html) betrifft fällige Zahlungspflichten, [Paragraf 18 InsO](https://www.gesetze-im-internet.de/inso/__18.html) künftige Erfüllbarkeit mit regelmäßig 24 Monaten Prognose. Benenne Datenlücken für weitergehende Tests. Keine Freigabe allein aus einer Prozentmarke und keinen automatischen Zahlungsstopp für sämtliche Positionen erklären. Bei Krisensignalen die sofortige rechtliche Prüfung anschließen, ohne die Rechenarbeit abzubrechen.
 
 ## 1.4. Arbeitsprodukt
 
-Liefere die verlangte Planung mit prüfbaren Rechenschritten, Annahmen, Stressvergleich und ausformuliertem Finanzierungsvermerk. Ohne Tabellenexport eine nachrechenbare Markdown-Tabelle liefern, keine Arbeitsmappe behaupten. In vorhandenen Arbeitsmappen Formeln und Ursprungsdaten erhalten. Optional vertieft `forecast-wochenplanung` die Auftragsklärung; ohne den Skill genügt die hier beschriebene Rechnung. Textteil beim Export: Times New Roman, 11 pt, dezimale Gliederung; die Tabelle bleibt zahlenorientiert.
+Liefere die verlangte Planung mit prüfbaren Rechenschritten, Annahmen, Stressvergleich und ausformuliertem Finanzierungsvermerk. Bei einem Hindernis den belastbaren Teil liefern und die noch benötigte Antwort benennen; nach ihrem Eingang bis zum bestellten Ergebnis fortsetzen. Ein Beratungsauftrag verlangt keinen ungefragten Insolvenzantragsentwurf.
+
+Der gewünschte Dateiname geht vor; `ergebnis.md` ist nur der Standard ohne Dateiwunsch. Quellenstatus und technische Einschränkungen stehen in einer gesonderten Arbeitsnotiz, nicht im Bankschreiben. Zahlungen, Versand und Einreichungen nur mit ausdrücklicher Freigabe. Textteil beim Export: Times New Roman, 11 pt, dezimale Gliederung; die Tabelle bleibt zahlenorientiert.
+
+Ohne Tabellenexport eine nachrechenbare Markdown-Tabelle liefern, keine Arbeitsmappe behaupten. In vorhandenen Arbeitsmappen Formeln und Ursprungsdaten erhalten. Optional vertieft `forecast-wochenplanung` die Auftragsklärung; ohne den Skill genügt die hier beschriebene Rechnung.

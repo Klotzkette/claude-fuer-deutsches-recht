@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "regulatorisches-recht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2554",
@@ -11,13 +11,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die bisherige Aufsichtsroute blieb abstrakt und der DORA-Spezialskill vermischte gesetzliche Mindestanforderungen mit eigenen Preis- und Fristvorgaben.",
+    "reason": "Der vollständig geprüfte Mini bearbeitet einzelne Auskunftspositionen und Vertragsanforderungen statt nur einen allgemeinen Aufsichtsstatus auszugeben. Nachgereichte Daten sollen die konkrete Antwort oder Klausel ändern.",
     "changes": [
       "Auskunftspositionen, Teilantworten und Verlängerungsstatus konkretisiert.",
       "DORA-Vorfallunterstützung mit zwei zulässigen Kostenmodellen erklärt.",
-      "Gesetzliche Mindestvorgaben und verhandelbare Klauselgestaltung getrennt."
+      "Gesetzliche Mindestvorgaben und verhandelbare Klauselgestaltung getrennt.",
+      "Antworten auf entscheidende Nachfragen bis zur fertigen Stellungnahme oder Vertragsfassung weiterverarbeiten lassen."
     ],
-    "sha256": "c5a92888c6b4654a5163ed9c0e4cbd926554a7cef7d9bcb01ca7f53a00152f58"
+    "sha256": "6f689308fea2f10992525a4acb8760febeb42e6414e23a1b01b6aa285f8a9bd6"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständige Werkstatt führt vom konkreten Aufsichtsverlangen über Fristen, Auskunftsreichweite und Geheimnisschutz zur Antwortfassung. Finanzaufsicht, DORA und weitere Spezialaufträge werden nicht als obligatorische Zusatzprüfungen ausgegeben.",
+    "changes": [
+      "Teilantwort, Nachforderung und Fortsetzung an die betroffene Auskunftsposition gebunden.",
+      "Regulatorische Änderungen und Richtlinienarbeit eigenständig gegliedert; allgemeine doppelte Arbeits- und Ausgabetabellen entfernt."
+    ],
+    "sha256": "59124035866cdf184f09afebc6d5ecbc0f638f61c1309f68aab9504e047bce16"
   },
   "selection": {
     "positive": [

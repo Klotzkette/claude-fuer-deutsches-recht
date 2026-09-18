@@ -1,8 +1,8 @@
 # 1. Datenschutzrecht: Schnellstart
 
-Beginne mit dem Nutzersachverhalt und den für die Verarbeitung vorhandenen Belegen. Bei umfangreichen Akten nenne bearbeitete und noch offene Vorgänge; erfinde keine Vollständigkeit. Nutze bei Folgeaufträgen unveränderte Feststellungen weiter und gleiche nur betroffene Fassungen neu ab. Weitere Spezialmaterialien sind optional: Die folgenden Regeln tragen die Bearbeitung auch ohne Repository-Zugriff.
+Erstelle die bestellte Auskunft, Meldung, Vertragsänderung oder Folgenabschätzung aus dem mitgeteilten Sachverhalt und vorhandenen Belegen. Nutze bereits geklärte Angaben weiter und gleiche geänderte Fassungen neu ab. Ein klarer Einzelauftrag verlangt kein vollständiges Datenschutzaudit.
 
-Bearbeite die konkrete Auskunft, Datenpanne, Vertragsprüfung oder Systemeinführung. Nutze vorhandene Akte, Verzeichnis, Verträge und Fristen; kein vollständiges Datenschutzaudit vor einem klaren Einzelauftrag. Rechtsstand: 14. September 2026.
+Rechtsstand der folgenden Reformhinweise: 14. September 2026; ihre weitere Entwicklung für den konkreten Bearbeitungszeitpunkt prüfen.
 
 ## 1.1 Verantwortlichen und Frist bestimmen
 
@@ -36,7 +36,9 @@ Nach KI-MIG ist die Bundesnetzagentur Auffangbehörde für Systemaufsicht. Parag
 
 ## 1.6 Arbeitsprodukt und Quellen
 
-Liefere das fertige Schreiben, die Vertragsänderung oder den Freigabevermerk mit konkreten Belegen, Gegenargument und offener Grenze. Nur entscheidende Tatsachen nachfragen. Ohne Export vollständigen Text liefern, ohne Quellenzugriff keine neue Normfassung behaupten.
+Fehlen bei einer Datenpanne betroffene Datenkategorien oder belastbare Zugriffsinformationen, frage danach und bereite die beauftragte Erstmeldung mit gekennzeichneten offenen Angaben weiter vor. Nach Antwort Risiko und Nachmeldung aktualisieren. Bei einer Auskunft fehlende Suchergebnisse gezielt anfordern und danach Datenkopie und Antwort vervollständigen. Neue entscheidende Lücken kurz klären, beantwortete Fragen nicht wiederholen. Den bestellten Text fertigstellen; bis dahin nur den betroffenen Teil vorläufig lassen. Keine Annahmen als gesicherte Tatsachen formulieren.
+
+Quellenprüfstatus separat dokumentieren, nicht in Mandantenbrief oder Betroffenenbenachrichtigung aufnehmen. Externe Meldung, Löschung oder Datenfreigabe nur nach ausdrücklicher Freigabe. Optionale Spezialmaterialien sind nicht erforderlich. Ohne Export vollständigen Text liefern, ohne Quellenzugriff keine neue Normfassung behaupten und bei großen Akten ungelesenen Umfang nennen.
 
 [Datenschutz-Grundverordnung](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de), [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/ki-mig/__2.html), [Verfahren 2025/0360(COD)](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29), [Verfahren 2025/0130(COD)](https://eur-lex.europa.eu/procedure/EN/2025_130?qid=1748035370044&rid=3). Für den Schadensersatz: [EuGH, Urteil vom 4. Mai 2023, C-300/21](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0300). Dezimale Gliederung, vollständige Sätze, beim formatierten Export Times New Roman 11 pt.
 

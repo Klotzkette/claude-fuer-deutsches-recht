@@ -3,61 +3,37 @@ name: fortbestehensprognose-erstpruefung-und-mandatsziel
 description: "Für Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
-# Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel
+# 1. Fortbestehensprognose: Erstprüfung und Mandatsziel
 
-## Direktstart: lesen, entscheiden, liefern
+Erstelle die bestellte Prognosebeurteilung oder Geschäftsführungsunterlage aus der vorhandenen Planung. Prüfe zuerst den konkreten Stichtag und erkennbare akute Liquiditätsprobleme.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1. Eingaben
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Lies Abschlüsse, BWA, Kontostände, Forderungen, fällige Verbindlichkeiten, integrierte Planung und Finanzierungszusagen. Entnimm Rechtsträger, Rolle, Krisenanlass und gewünschtes Dokument dem Auftrag. Keine erneute Aufnahme bereits beantworteter Angaben.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+## 1.2. Prüfung und Fortsetzung
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+1. Unterscheide gegenwärtige Zahlungsfähigkeit, Zwölfmonatsprognose und insolvenzrechtlichen Deckungsstatus. Eine negative Prognose allein beweist keine fehlende Vermögensdeckung.
+2. Rechne aus verfügbarer Anfangsliquidität Einzahlungen und fällige Auszahlungen über zwölf Monate; kritische Wochen zusätzlich prüfen. Tragende Annahmen mit Belegen abgleichen.
+3. Fehlt etwa eine Fälligkeit oder Kreditabrufbedingung, fordere den konkreten Nachweis an und bearbeite unabhängige Positionen vorläufig. Nach Antwort Betrag, Zahlungszeitpunkt und Saldo korrigieren und die Prognosebegründung aktualisieren.
+4. Zeigt die Antwort eine weitere entscheidende Lücke, frage gezielt nach und setze danach bis zum bestellten Dokument fort. Keine künstliche Höchstzahl von Fragen, aber auch keine wiederholte Aufnahme.
 
-## Normenanker
+Eine verfügbare Planung ist nicht automatisch plausibel. Unverbindliche Unterstützung, durchsetzbaren Finanzierungsanspruch und tatsächlichen Zufluss auseinanderhalten. Ein Rechtsanwalt, Steuerberater, Wirtschaftsprüfer, Bank oder Gesellschafter erhält die für seinen konkreten Auftrag bestimmte Unterlage, nicht denselben internen Prüfkatalog.
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+## 1.3. Rechtsgrundlagen und dringende Grenzen
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
-- `§ 16 HRG` — Prüfungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
+[Paragraf 19 InsO](https://www.gesetze-im-internet.de/inso/__19.html) und [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html) wurden am 15.09.2026 amtlich geprüft. Überschuldungsprüfung und Antragspflicht nach dem betroffenen Rechtsträger und tatsächlichen Eintrittszeitpunkt beurteilen. Die drei beziehungsweise sechs Wochen des Paragrafen 15a sind Höchstfristen; Handeln ohne schuldhaftes Zögern bleibt erforderlich.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Bei Anzeichen von Insolvenzreife dringende fachliche Entscheidung und gesonderte Zahlungsprüfung benennen. Die Bearbeitung nicht wegen fehlender Unterlagen vollständig einstellen, aber keine Entwarnung erteilen. Nachgeforderte Finanzierungsnachweise ändern nur die tatsächlich betroffenen Schlussfolgerungen.
 
-## Arbeitsweg
+StaRUG Paragrafen 1 und 102 sowie HGB Paragraf 252 Absatz 1 Nummer 2 fallbezogen verifizieren. IDW S 11, IDW PS 800 oder IDW S 6 nur bei tatsächlich zugänglicher Fassung und passendem Auftrag verwenden; keine Standardanforderungen aus Erinnerung. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Passage zitieren.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
-- Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Die bisher enthaltenen Hochschul- und Prüfungsrechtsnormen begründen keine Fortbestehensprognose und werden nicht als deren Prüfprogramm verwendet. Auslands- oder Sonderrecht nur bei konkretem Sachbezug ergänzen.
 
-## Spezialwissen: Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel
-- **Normen-/Quellenanker:** InsO, IDW, StaRUG.
+## 1.4. Ergebnis
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Liefere die bestellte Beurteilung unter der Nutzerbenennung mit Stichtag, Horizont, begründeten Prämissen, nachvollziehbarer Rechnung und Ergebnis. Ein Gutachtenauftrag verlangt keinen ungefragten Restrukturierungsplan. Quellenstatus und technische Grenzen getrennt notieren; keine interne Risikoampel als Pflichtüberschrift des Empfängertextes.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+Ein fehlender Beleg führt zum bezeichneten Teilstand und zur konkreten Nachforderung, nicht zum endgültigen Arbeitsabbruch. Nach Eingang die betroffene Rechnung und das Dokument fertigstellen. Vollständige Sätze, Times New Roman 11 pt und dezimale Gliederung; bei Markdown Exporthinweis.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Fortbestehensprognose** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+Ohne weitere Skills anhand dieser Regeln weiterarbeiten und ohne Dateifunktion den vollständigen Text liefern. Keine Zahlungen, Erklärungen, Versendung oder Einreichung ohne ausdrückliche Freigabe.

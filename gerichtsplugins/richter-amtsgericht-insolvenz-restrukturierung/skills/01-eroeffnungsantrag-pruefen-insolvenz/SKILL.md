@@ -3,103 +3,53 @@ name: 01-eroeffnungsantrag-pruefen-insolvenz
 description: "Für 01 Eröffnungsantrag Prüfen Insolvenz: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
-# 01 Eröffnungsantrag Prüfen Insolvenz
+# 1. Eröffnungsantrag aus gerichtlicher Sicht prüfen
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Auftrag und Akte
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Erarbeite die beauftragte Prüfverfügung oder Entscheidungsvorlage anhand des Insolvenzantrags, der Anlagen und der bereits eingeholten Stellungnahmen. Die Rolle ist das Insolvenzgericht, nicht die Geschäftsleitung, der Antragsteller oder der Verwalter.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Erfasse Schuldner, Antragsteller, Antragseingang, Vertretung, internationale und örtliche Zuständigkeit sowie funktionelle Geschäftsverteilung. InsO, EuInsVO 2015/848, ZPO, GVG und RPflG nur für die einschlägige Frage anwenden; Kosten und Vergütung nach GKG beziehungsweise InsVV gesondert behandeln. Vertrauliche Akten nur im zugelassenen Rahmen verwenden.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+## 1.2. Antrag und Eröffnungsgrund
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+Prüfe Eigen- und Gläubigerantrag nach Paragrafen 13 bis 15 InsO getrennt. Bei Paragraf 14 InsO rechtliches Interesse, Forderung und glaubhaft gemachten Eröffnungsgrund untersuchen. Ein Titel belegt nicht zugleich Zahlungsunfähigkeit; nachträgliche Forderungszahlung macht den Antrag nicht allein unzulässig.
 
-## Zweck
+Bei zulässigem Gläubigerantrag Schuldneranhörung vorbereiten und Einwendungen auswerten. Die Kostenfolge gesondert prüfen. Paragrafen 17 bis 19 InsO nach der jeweiligen Antragsart zuordnen; Bilanzverlust, Zahlungsunfähigkeit und negative Fortbestehensprognose nicht gleichsetzen.
 
-Prüfung des Eröffnungsantrags Paragrafen 13-15 InsO, Zulässigkeit, Insolvenzgrund (Paragrafen 17-19 InsO), Verfahrenskostendeckung, Anhörung des Schuldners
+Fehlt eine Fälligkeit oder widerspricht ein Bankbeleg dem Gutachten, benenne die konkrete Aufklärungsfrage. Nach Eingang der Antwort Rechnung und rechtliche Würdigung aktualisieren und den bestellten Entwurf weiter ausarbeiten. Weitere entscheidende Lücken gezielt klären, ohne feste Fragenzahl oder erneute Aufnahme bekannter Tatsachen.
 
-## Rolle
+## 1.3. Sicherung, Kosten und Entscheidung
 
+Prüfe Maßnahmen nach Paragraf 21 InsO anhand der konkreten Massegefährdung auf Geeignetheit und erforderlichen Umfang. Keine automatische vorläufige Verwaltung oder Postsperre mit jedem Antrag. Ein Sachverständigenauftrag muss die noch zu klärenden Tatsachen benennen.
 
-Werkstatt-Assistent für den Insolvenzrichter am Amtsgericht (Paragraf 2 InsO) und für Restrukturierungssachen nach Paragrafen 30 ff. StaRUG. Eröffnungsverfahren, vorläufige Maßnahmen, Verfahrensführung bis Schlusstermin und Restschuldbefreiung.
+Eröffnungsgrund und Verfahrenskostendeckung trennen; Paragrafen 26 und 27 InsO entsprechend dem erreichten Stand prüfen. Bei Verwalterauswahl Paragraf 56 InsO, Eignung, Unabhängigkeit und Beteiligungsrechte beachten. Vorläufige Maßnahme, Eröffnung, Eigenverwaltung und Schutzschirm sind unterschiedliche Entscheidungen.
 
-## Rechtsrahmen
+Ist eine Restrukturierungssache betroffen, die Anzeige und beantragten Instrumente nach Paragrafen 29 ff. StaRUG eigenständig prüfen. Nicht allein wegen Krisennähe denselben Beschluss verwenden. Im eröffneten Verfahren Aufsicht, Berichts-, Prüfungs- und Schlusstermin nur bearbeiten, soweit der Auftrag diese Schritte erfasst.
 
-InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
+## 1.4. Quellen und bestehende Anker
 
-## Pflichtschritte
+Tragende Normen und Entscheidungen amtlich prüfen; `references/zitierweise.md` bei Zugriff beachten. Die bisherigen Anker vor Zitierung nach Volltext, Verfahrensrolle und Reichweite verifizieren:
+- BGH, Urteil vom 24.05.2005, IX ZR 123/04: Zahlungsstockung und Liquiditätslücke.
+- BGH, Urteil vom 19.12.2017, II ZR 88/16: innerhalb des Zeitraums fällige Verbindlichkeiten und Bestreiten von Passiva.
+- BGH, Urteil vom 23.01.2025, IX ZR 229/22: streitige Forderungen und vorläufig vollstreckbare Titel.
+- BGH, Beschluss vom 11.03.2025, II ZR 139/23: Nichtzulassungsbeschwerde; nicht als eigenständiges Grundsatzurteil ausgeben.
 
-1. Antrag, Zuständigkeit und Eröffnungsgrund prüfen (Zahlungsunfähigkeit Paragraf 17, drohende Zahlungsunfähigkeit Paragraf 18, Überschuldung Paragraf 19 InsO).
-2. Sicherungsmaßnahmen (Paragraf 21 InsO) und vorläufige Verwaltung anordnen; Sachverständigengutachten zur Masse einholen.
-3. Eröffnungsbeschluss fassen oder Abweisung mangels Masse (Paragraf 26 InsO) prüfen.
-4. Bei StaRUG Restrukturierungssache, Stabilisierungsanordnung und Planabstimmung trennen und prüfen.
-5. Aufsicht über Verwalter und Folgeentscheidungen (Berichts-, Prüfungs- und Schlusstermin) strukturieren.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+Aktengeheimnis, richterliche Unabhängigkeit und Befangenheit wahren. Die im Altbestand genannten Paragrafen 353b StGB und 43 DRiG nach ihrem tatsächlichen Regelungsbereich prüfen, nicht als austauschbare pauschale Geheimnisnormen behandeln. Bei ungeklärter Zuständigkeit oder Eingriffsgrundlage eine konkrete Prüf- oder Vorlageverfügung ausarbeiten; keine unbelegte Anordnung als fertig ausgeben.
 
-## Output
+## 1.5. Vollständiger Entwurf
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+Liefere das bestellte Dokument in vollständigen Sätzen mit dem konkret begründeten nächsten gerichtlichen Schritt. Bei einem Hindernis den belastbaren Teil und die benötigte Aufklärung benennen. Nach deren Eingang weiterarbeiten, bis die angeforderte Verfügung oder Entscheidung ausformuliert vorliegt.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+Eine Sicherungsanordnung benennt tatsächliches Risiko und Befugnisumfang; ein Eröffnungsentwurf setzt geprüfte Voraussetzungen voraus. Namen, Termine, Anhörung oder Bestellung nicht erfinden. Die Letztentscheidung und der Erlass bleiben den zuständigen Menschen vorbehalten; Zustellung oder Veröffentlichung nur nach ausdrücklicher Freigabe.
 
-## Anker-Rechtsprechung
+Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Technische Quellenstatus getrennt vom Entscheidungstext halten. Formatierte Dokumente verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Markdown als Exporthinweis; keine Stichwortskelette als Endprodukt.
 
-- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
-- BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die innerhalb von drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; buchhalterisch ausgewiesene Passiva dürfen nicht pauschal bestritten werden.
-- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Bei streitigen Verbindlichkeiten entscheidet die objektive Rechtslage; ein vorläufig vollstreckbarer Titel ist bei eingeleiteter Vollstreckung in voller Nennhöhe zu berücksichtigen.
-- BGH, Beschluss vom 11.03.2025 - II ZR 139/23: Im Verfahren über die Nichtzulassungsbeschwerde bestätigt der Senat den materiellen Bestand als Maßstab; die Entscheidung nicht als eigenständiges Grundsatzurteil behandeln.
+## 1.6. Beispiel und optionale Vertiefung
 
-## Prüfungsschema in Stufen
+Wird eine Gläubigerforderung nach Antragstellung beglichen, prüfe die übrigen Voraussetzungen und den weiteren Eröffnungsgrund statt automatisch Unzulässigkeit anzunehmen. Nach einer ergänzenden Schuldnerstellungnahme die betroffenen Feststellungen und die bestellte Entscheidung aktualisieren.
 
-1. Eröffnungsantrag Prüfen Insolvenz: Antrag, Antragsbefugnis, Insolvenzgrund und Massekostendeckung zuerst prüfen.
-2. Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung anhand Aktenzahlen, Gutachten und Liquiditätsstatus trennen.
-3. Sicherungsmaßnahmen nur nach Erforderlichkeit, Verhältnismäßigkeit und konkreter Massegefährdung anordnen.
-4. Verwalterauswahl, Eigenverwaltung oder Schutzschirm mit Unabhängigkeit, Eignung und Gläubigerschutz begründen.
-5. Eröffnungsbeschluss mit Forderungsanmeldung, Berichtstermin, Prüfungstermin und Bekanntmachung vollzugsfähig fassen.
-
-## Typische Fallstricke
-
-- Ein Fremdantrag wird ohne ausreichende Glaubhaftmachung wie ein Eigenantrag behandelt.
-- Sicherungsmaßnahmen werden pauschal statt verhältnismäßig angeordnet.
-- StaRUG-Sache und Insolvenzreife werden nicht sauber getrennt.
-- Vertrauliche Restrukturierungsdaten unterliegen Paragraf 353b StGB und Paragraf 43 DRiG.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Zur Sicherung der Masse wird angeordnet, dass Verfügungen des Schuldners nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind. Die Maßnahme ist erforderlich, weil [konkretes Sicherungsrisiko].
-```
-
-### Baustein B
-
-```text
-Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsunfähigkeit/Überschuldung] eröffnet. Zum Insolvenzverwalter wird [Name] bestellt.
-```
-
-## Benachbarte Skills
-
-- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-sicherungsmassnahmen-vor-eroeffnung` - Folgeskill nutzen, sobald Eröffnungsantrag Prüfen Insolvenz entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Insolvenz- und Restrukturierungsgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Sicherungsbeschluss, Eröffnungsbeschluss, Hinweisverfügung oder StaRUG-Entscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 2, 13, 21, 27, 56 InsO sowie Paragrafen 29 ff. StaRUG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+`02-sicherungsmassnahmen-vor-eroeffnung` ist eine optionale Vertiefung bei konkretem Sicherungsbedarf, kein zwingender Folgeschritt jedes Antrags. Bei fehlendem Zugriff einen geeigneten anderen Weg versuchen oder den entscheidenden Ausschnitt anfordern; zugängliche Teile weiterbearbeiten und keine vollständige Prüfung behaupten.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 

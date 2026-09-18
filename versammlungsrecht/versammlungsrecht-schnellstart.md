@@ -1,73 +1,43 @@
-# Versammlungsrecht — Schnellstart
+# 1. Versammlungsrecht: Schnellstart
 
-Wenn du das hier öffnest, willst du eine Versammlung anzeigen, schützen, mit Auflagen durchführen, verbieten oder im Eilverfahren verteidigen.
+Bearbeite die Anzeige, Auflagenprüfung oder den beauftragten Eilrechtsschutz für die konkrete Versammlung. Lies Planung, Behördenkorrespondenz und Verfügung zuerst und liefere das gewünschte Schreiben oder Schutzkonzept.
 
-Kernauftrag: Praxisplugin für Versammlungsrecht und Versammlungsfreiheit: Anzeige unter freiem Himmel, Landesrecht, Behörde, Fristen, Spontan- und Eilversammlung, Ordner, Kooperationsgespräch, Auflagen, Verbot, Eilrechtsschutz. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Versammlung, Landesrecht und Zeitachse
 
-## 1. Sofortstart nach Eingangslage
+Übernimm Veranstalter, Leitung, Thema, Ort, Route, Beginn, Ende und erwartete Teilnehmerzahl aus Akte und Gespräch. Kläre Bundesland, Öffentlichkeit und Durchführung unter freiem Himmel oder in geschlossenen Räumen. Prüfe Artikel 8 GG und das einschlägige Landesversammlungsgesetz beziehungsweise fortgeltende Bundesrecht; eine private Zusammenkunft nicht ohne Prüfung gleichbehandeln.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Versammlung und Zeit, Anzeige und Kooperation, Gefahrenprognose wählen; ohne konkreten Auftrag mit Versammlung und Zeit beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Erfasse geplante öffentliche Bekanntgabe, tatsächliche Bekanntgabe, Behördeneingang und Versammlungsbeginn getrennt. Soweit Bundesrecht gilt, knüpft Paragraf 14 VersammlG an 48 Stunden vor Bekanntgabe an, nicht an den Versammlungsbeginn. Landesrecht sowie Eil- und Spontanversammlung gesondert prüfen. Anzeige ist kein Genehmigungsantrag; Verspätung führt nicht automatisch zum Verbot.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Versammlung und Zeit, Anzeige und Kooperation, Gefahrenprognose und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Quelle: [Paragraf 14 VersammlG](https://www.gesetze-im-internet.de/versammlg/__14.html).
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+## 1.2. Gefahr, Friedlichkeit und mildere Maßnahmen
 
-## 2. Fachlicher Direktstart
+Ordne jeder behaupteten Gefahr aktuelle Tatsachen, Quelle, betroffene Personen und konkretes Verhalten zu. Thema oder Vermutung allein ersetzen keine Gefahrenprognose. Verhalten einer Gegendemonstration nicht ohne Tatsachen der eigenen Versammlung zurechnen; nicht jede Behinderung bedeutet Unfriedlichkeit.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Liegt eine geschützte Versammlung vor und welches Landesgesetz gilt.
-2. Kernprüfung in einem Durchgang: Welche konkrete Gefahr ist durch welche aktuelle Tatsache belegt; Welche kooperative oder mildere Maßnahme reduziert die Gefahr ohne den Versammlungszweck auszuhöhlen.
-3. Belege und Engpass zusammenführen: Nachweisachse Gefahrenprognose: konkrete Tatsachen, Quellen, Störer, Gewaltbezug, Verkehrs- und Schutzbelange sowie Trennkonzept prüfen; besonders kritisch ist: Versammlungstermin liegt in unter einer Woche oder eine kurzfristige Auflage ist zugegangen.
-4. Erstes Arbeitsprodukt liefern: Versammlungsblatt: Veranstalter, Leitung, Thema, Route, Zeiten, Teilnehmer, Gegenlage, Kommunikation und Frist.
+Prüfe Auflagen einzeln nach Schutzgut, Rechtsgrundlage, Gefahr, Eignung, Erforderlichkeit und Angemessenheit. Vergleiche ernsthaft mögliche Alternativen: Ordner, Absperrung, Zeitfenster, Streckenabschnitt, Lautsprecherbegrenzung, Pufferzone oder Rettungsweg. Benenne Ort, Personal, Zeitbedarf und Schutzwirkung, statt nur pauschal Kooperation anzubieten.
 
-## 3. Kernroute
+Gewalt, Zwangslagen, blockierte Rettungswege und persönliche Sanktionsrisiken gesondert prüfen. Polizei- und Ordnungsrecht nicht ungeprüft an die Stelle versammlungsspezifischer Regeln setzen. Ein Sicherheitskonzept darf den kommunikativen Zweck nicht ohne Begründung aushöhlen.
 
-1. Versammlung und Zeit: Veranstalter, Leitung, Thema, Ort, Route, Beginn, Ende, Teilnehmerzahl und Gegenversammlung feststellen.
-2. Anzeige und Kooperation: Zuständigkeit, Eingangszeit, Kommunikationsweg, Auflagenentwurf, Schutzbedarf und Alternativen sichern.
-3. Gefahrenprognose: konkrete Tatsachen, Quellen, Störer, Gewaltbezug, Verkehrs- und Schutzbelange sowie Trennkonzept prüfen.
-4. Maßnahme und Rechtsschutz: Auflage, Verbot, Auflösung, Sofortvollzug, Termin und statthaften Eilantrag ordnen.
-5. Arbeitsprodukt: Anzeige, Kooperationsprotokoll, Auflagenantwort, Schutzkonzept, Eilantrag oder Einsatznachbereitung erstellen.
+## 1.3. Fehlende Planung oder Prognose klären
 
-## 4. Fallkarte
+Fehlt bei einer Routenauflage der konkrete Gefahrenbeleg, frage nach Verfügung, Lagebegründung und dem betroffenen Streckenabschnitt. Fehlt die praktische Umsetzbarkeit einer Alternative, kläre etwa verfügbare Ordner oder freie Rettungswege. Nach Antwort Gefahrenbewertung, mildere Mittel und die betroffene Passage des Schreibens aktualisieren.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 8; Versammlungsgesetz des zuständigen Landes; Polizei- und Ordnungsrecht des Landes |
-| Rechtsprechung | Nur zur konkret streitigen Maßnahme amtlich verifizierte Entscheidungen verwenden |
-| Tatbestand | Veranstalter, Leitung, Thema, Ort, Route, Beginn, Ende, Teilnehmerzahl und Gegenversammlung feststellen |
-| Beweislast | Nachweisachse Gefahrenprognose: konkrete Tatsachen, Quellen, Störer, Gewaltbezug, Verkehrs- und Schutzbelange sowie Trennkonzept prüfen |
-| Rechtsfolge | Anzeige, Kooperationsprotokoll, Auflagenantwort, Schutzkonzept, Eilantrag oder Einsatznachbereitung erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Zeigt eine Antwort eine weitere entscheidende Lücke, kurz nachfragen, ohne bereits geklärte Angaben erneut aufzunehmen. Unabhängig tragfähige Teile vorläufig ausarbeiten; nach Klärung bis zur bestellten Anzeige, Auflagenantwort oder Antragsschrift weiterarbeiten. Eine nicht bestätigte Personal- oder Schutzmaßnahme nicht als zugesagt darstellen.
 
-## 5. Zeitachse und Eilprodukt
+## 1.4. Rechtsschutz vor dem Termin
 
-Erfasse geplante öffentliche Bekanntgabe, tatsächliche Bekanntgabe, Behördeneingang und Versammlungsbeginn getrennt. Soweit Bundesrecht gilt, knüpft Paragraf 14 VersammlG an 48 Stunden vor Bekanntgabe an, nicht an den Versammlungsbeginn. Landesrecht und Besonderheiten einer Eil- oder Spontanversammlung gesondert prüfen. Die Anzeige nicht als Genehmigungsantrag behandeln und aus Verspätung kein automatisches Verbot ableiten.
+Bei kurzfristiger Beschränkung Verfügung, Zugang, Vollziehbarkeit und zuständiges Gericht unverzüglich aus den Unterlagen bestimmen. Paragraf 80 Absatz 5 VwGO vom vorbeugenden oder leistungsbezogenen Rechtsschutz nach Paragraf 123 VwGO unterscheiden; bei besonders angeordnetem Sofortvollzug geht es um Wiederherstellung. Eine allgemeine Beschwerde an die Behörde nicht als gesicherte Fristwahrung behandeln.
 
-Bei kurzfristiger Beschränkung noch in derselben Bearbeitung Verfügung, Zustellung, Vollziehbarkeit, konkrete Gefahr und erreichbares Gericht ordnen. Ein Antrag nach Paragraf 80 Absatz 5 VwGO ist vom vorbeugenden oder leistungsbezogenen Rechtsschutz zu unterscheiden; bei besonders angeordnetem Sofortvollzug geht es um Wiederherstellung. Mildere Maßnahmen mit Ort, Personal, Zeitbedarf und Schutzwirkung konkretisieren. Eine Gegendemonstration nicht ohne Tatsachen der eigenen Versammlung als Gewaltbereitschaft zurechnen.
+Der bestellte Eilantrag nennt Beteiligte, Antragsgegner, angegriffene Regelung, Termin, konkreten Antrag und tragende Belege. Gefahrenprognose, Verhältnismäßigkeit und erforderliche Folgenabwägung am Streitpunkt ausarbeiten. Ein naher Termin verlangt Eilbearbeitung, keinen pauschalen Abbruch. Anzeigen, Gerichtsanträge und Zusagen niemals selbst versenden.
 
-Quellen: [Paragraf 14 VersammlG](https://www.gesetze-im-internet.de/versammlg/__14.html), [Paragraf 80 VwGO](https://www.gesetze-im-internet.de/vwgo/__80.html).
+Quelle: [Paragraf 80 VwGO](https://www.gesetze-im-internet.de/vwgo/__80.html).
 
-## 6. Anker
+## 1.5. Dokumentation und fertige Ausgabe
 
-- GG Artikel 8: Versammlungsfreiheit für friedliche Versammlungen ohne Waffen.
-- Versammlungsgesetz des zuständigen Landes oder Bundes-Versammlungsgesetz: Anzeige, Leitung, Auflagen, Verbot und Auflösung.
-- Polizei- und Ordnungsrecht des Landes: nur für nicht versammlungsspezifische Gefahren oder nach Ende des versammlungsrechtlichen Schutzbereichs.
-- VwGO Paragraf 80 Absatz 5 und Paragraf 123: eiliger Rechtsschutz vor dem Versammlungstermin.
-- Paragraf 23 KunstUrhG kann Veröffentlichungen rechtfertigen, insbesondere bei Zeitgeschehen und Versammlungen; Paragraf 23 Abs. 2 KunstUrhG verlangt aber weiter eine Interessenabwägung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 201 StGB betrifft nichtöffentlich gesprochene Worte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+Ordne Kooperationsstand, Eingangsbelege und mögliche offene Verfahren nachvollziehbar. Bei Fotos und Filmen Herstellung und Veröffentlichung unterscheiden; Paragraf 23 KunstUrhG einschließlich Absatz 2 fallbezogen prüfen. Paragraf 201 StGB betrifft nichtöffentlich gesprochene Worte. Teilnehmer- und Ordnerdaten nicht unnötig erfassen oder verbreiten.
 
-## 7. Antwortform
+Liefere das bestellte Dokument vollständig ausformuliert, nicht lediglich eine interne Gefahren- oder Fristentabelle. Im Ergebnis müssen Route, Zeiten, behauptete Gefahr und vorgeschlagene Alternative zusammenpassen. Nutzerdateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden.
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Anzeige, Kooperationsprotokoll, Auflagenantwort, Schutzkonzept, Eilantrag oder Einsatznachbereitung erstellen.
-7.2. Norm: GG Artikel 8; Versammlungsgesetz des zuständigen Landes mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Versammlung und Zeit“ Tatsache, Datum und Fundstelle nennen.
-7.4. Beweis: Nachweisachse Gefahrenprognose: konkrete Tatsachen, Quellen, Störer, Gewaltbezug, Verkehrs- und Schutzbelange sowie Trennkonzept prüfen. Offene Folgen aussprechen.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche konkrete Gefahr ist durch welche aktuelle Tatsache belegt.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Versammlungsblatt“. Frist, Kernlücke und nächstem Dokument benennen.
+## 1.6. Quellen und technische Grenzen
 
-## 8. Stop
-
-Ein naher Termin löst Eilbearbeitung aus, keinen Arbeitsabbruch. Nur unbelegte Schlussfolgerungen sperren und den nutzbaren Entwurf mit offenen Punkten liefern. Anzeigen, Gerichtsanträge und Zusagen an die Behörde nicht selbst versenden. Die Werkstatt ist optionale Vertiefung; dieses Mini benötigt keine weiteren Dateien.
+Tragendes Bundes- und Landesrecht sowie Rechtsprechung amtlich prüfen; nur verifizierte Entscheidungen mit einschlägiger Aussage verwenden. Quellenstatus getrennt vom Behörden- oder Mandantenbrief notieren. Bei Abruffehlern einen geeigneten Alternativweg versuchen und ungelesene Dateien oder verbleibende Prüflücken benennen; ohne Export den vollständigen Text liefern. Werkstatt und Skills sind optionale Vertiefungen, keine Voraussetzung.

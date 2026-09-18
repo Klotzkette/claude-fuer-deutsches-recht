@@ -169,65 +169,56 @@ Liefere je Verfahren einen Versandordner mit Hauptdokument, Pflichtanlagen, Stic
 
 _Für Anwalts-Dashboard Fachanwalt Insolvenz- und Sanierungsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Anwalts-Dashboard Fachanwalt Insolvenz- und Sanierungsrecht
+# 1. Insolvenz- und Sanierungsmandat einordnen
 
-> Antragspflicht, Eigenverwaltung, Anfechtung, Restrukturierung: Der Antrag ist ohne schuldhaftes Zögern zu stellen; drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung sind nur Höchstfristen.
->
-> Sie sehen unten die Sofort-Triage. Keine Rückfragen, bis die Tabelle steht. Wenn die Akte 80 % trägt, gehen wir direkt zum Anschluss-Skill — Sie entscheiden, ob.
+Bearbeite die beauftragte Krisen-, Sanierungs- oder Haftungsfrage anhand der vorhandenen Akte. Bestimme den passenden rechtlichen Prüfungsweg und führe ihn bis zum verlangten Gutachten, Schreiben oder Antragstext fort.
 
-## Sofort-Triage
+## 1.1. Auftrag und Unterlagen
 
-| Punkt | Schnellprüfung | Standardquelle / Hilfsweg |
-| --- | --- | --- |
-| Rolle | Wen vertrete ich? (Mandant · Gegenseite · Mehrere) | Mandantenmail, Vertretungsbestellung |
-| Verfahrensstand | Vorprozessual · außergerichtlich · Klage · Rechtsmittel · Vollstreckung | Vorhandene Schriftsätze, Eingangsstempel |
-| Eilfrist | **Paragraf 15a Absatz 1 InsO:** Antrag ohne schuldhaftes Zögern, höchstens drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung. **Paragraf 270d InsO:** Schutzschirm nur bei drohender Zahlungsunfähigkeit oder Überschuldung und fehlender Zahlungsunfähigkeit. | Objektiven Eintritt des Insolvenzgrunds und gerichtliche Bekanntmachungen dokumentieren |
-| Hauptanspruch | Antragspflicht §§ 15a, 17 ff. InsO · Anfechtung §§ 129 ff. InsO · GF-Haftung § 64 GmbHG a. F. / § 15b InsO n. F. · Gläubigeranfechtung AnfG außerhalb Insolvenz · Schutzschirm § 270d InsO · Eigenverwaltung § 270 InsO · StaRUG (Stabilisierungs- und Restrukturierungsrahmen). | Sachverhaltsabgleich mit Tatbestandsmerkmalen |
-| Zuständigkeit | Insolvenzgericht nach Paragraf 3 InsO bestimmen. Restrukturierungsgericht ist nach Paragraf 34 StaRUG grundsätzlich das Amtsgericht am Sitz eines Oberlandesgerichts; landesrechtliche Konzentration und die örtliche Zuständigkeit nach Paragraf 35 StaRUG aktuell prüfen. Anfechtungsklage gegen Gläubiger: Amts- oder Landgericht nach Zuständigkeit und Streitwert. | Gesetz, Landesverordnung, Register, Gerichtsverzeichnis |
+Lies Mandantenauftrag, Vertretungsnachweis, Liquiditäts- und Buchhaltungsdaten, Verträge sowie vorhandene Schriftsätze und gerichtliche Anordnungen. Kläre aus diesen Unterlagen, ob Geschäftsleitung, Schuldner, Gläubiger oder Verwalter beraten wird und ob Antragstellung oder Verfahrenseröffnung bereits erfolgt sind. Frage nicht erneut danach, wenn die Akte diese Angaben enthält.
 
-## Risiko-Ampel
+Unterscheide Insolvenzreife, Antragspflicht, Zahlungshaftung, Anfechtung und Sanierung. Der Zugang zu Unterlagen belegt nicht deren Vollständigkeit oder die Richtigkeit einer Prognose. Eine feste Materialquote und eine vorgelagerte Pflicht-Tabelle sind keine Voraussetzung der Bearbeitung.
 
-- **Frist:** Paragraf 15a InsO verlangt den Antrag ohne schuldhaftes Zögern; drei Wochen ab Zahlungsunfähigkeit und sechs Wochen ab Überschuldung sind nur Höchstfristen. Antrag und Planung der Eigenverwaltung nach Paragraf 270a InsO, vorläufige Anordnung nach Paragraf 270b InsO und Schutzschirm nach Paragraf 270d InsO nur bei erfüllten Voraussetzungen vorbereiten.
-- **Beweislage:** 🔴 Zahlungsunfähigkeit § 17 II InsO: 3-Wochen-Liquiditätsstatus. Buchhaltungs- und Bankkontodaten sichern. 🟠 Überschuldung § 19 II InsO: Fortbestehensprognose dokumentieren.
-- **Wirtschaftlich:** 🔴 Zahlungen nach Insolvenzreife unter Paragraf 15b InsO einzeln erfassen und nur nach dessen Maßstab fortführen. 🟠 Bei Paragraf 133 InsO den Grundzeitraum von zehn Jahren, den Vierjahreszeitraum für Sicherung oder Befriedigung und die Sonderregeln der Absätze 3 und 4 auseinanderhalten.
+## 1.2. Dringliche Prüfung und gezielte Fortsetzung
 
-## Anschluss-Skills (Router)
+Bei Hinweisen auf Zahlungsunfähigkeit prüfe Paragraf 17 InsO anhand von Fälligkeiten, verfügbaren Mitteln und der maßgeblichen kurzfristigen Entwicklung. Bei Überschuldung prüfe Paragraf 19 InsO mit der Fortbestehensprognose. Nach Paragraf 15a InsO ist ein erforderlicher Antrag ohne schuldhaftes Zögern zu stellen; drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung sind nur Höchstfristen.
 
-| Wenn der Fall trägt … | dann Skill | Erwartung |
-| --- | --- | --- |
-| Fortbestehensprognose anwerfen | `insanw-fortbestehensprognose-workflow` | Liquiditätsplan 12 Monate, IDW S 11, Beweisdokument |
-| Eigenverwaltung / Schutzschirm Paragraf 270d InsO | `insanw-eigenverwaltung-schutzschirm-spezial` | Eigenverwaltungsplanung, Bescheinigung, Planvorlagefrist, Sachwalter |
-| **Antragspflicht Paragraf 15a InsO** | `inso-p015a-antragspflicht-bei-juristischen-personen-und-rechtsfa` | unverzüglicher Antrag, Drei-/Sechswochen-Höchstfrist, Organhaftung, Strafrecht |
-| Anfechtungsmandat (Gläubiger / Verwalter) | `insanw-anfechtungsmandat-leitfaden` | Tatbestände §§ 129 ff. InsO, Verteidigungsstrategie |
-| Konzerninsolvenz / Gruppenkoordination | `insanw-konzerninsolvenz-koordination-spezial` | Gruppen-Gerichtsstand § 3a InsO, Koordinationsverfahren |
+Fehlt ein Stundungsnachweis oder ist eine Finanzierungszusage bedingt, frage nach genau dieser Vereinbarung und ihrer Verfügbarkeit. Aktualisiere nach Eingang Status, Prognose und zeitliche Bewertung. Bei Zahlungshaftung fordere fehlende Konto-, Gegenleistungs- oder Zustimmungsbelege an und passe die betroffene Position an.
 
-## Norm-Radar
+Weitere kurze Fragen sind zulässig, wenn die Antwort eine neue entscheidende Lücke zeigt; wiederhole keine bereits beantworteten Fragen. Bearbeite unabhängige Teile vorläufig und setze nach Klärung bis zum bestellten Dokument fort. Eine akute Pflicht verlangt eine klare Warnung und priorisierte Vorbereitung, keine eigenmächtige Antragstellung oder Zahlungssperre.
 
-- **Paragraf 15a InsO** — Insolvenzantragspflicht ohne schuldhaftes Zögern; höchstens drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung
-- **§ 17 InsO** — Zahlungsunfähigkeit
-- **§ 19 InsO** — Überschuldung
-- **§ 270 InsO** — Eigenverwaltung; § 270d Schutzschirm
-- **Paragraf 133 InsO** — zehnjähriger Grundzeitraum; vier Jahre, wenn die Handlung Sicherung oder Befriedigung gewährt oder ermöglicht; Absatz 3 und 4 gesondert prüfen
-- **§ 15b InsO** — Zahlungsverbot nach Insolvenzreife
+## 1.3. Sachgerechten Prüfungsweg wählen
 
-## Genau eine Rückfrage (nur wenn nötig)
+- Bei Fortbestehensfragen prüfe Planung, Prämissen und Finanzierung über den maßgeblichen Zeitraum. Eine zwölfmonatige Planung und gegebenenfalls einschlägige fachliche Standards müssen auf den konkreten Prognoseauftrag bezogen werden; eine handelsrechtliche Fortführungsannahme ersetzt die insolvenzrechtliche Prüfung nicht.
+- Bei Eigenverwaltung unterscheide Antrag und Planung nach Paragraf 270a InsO, vorläufige Anordnung nach Paragraf 270b und Schutzschirm nach Paragraf 270d InsO. Prüfe Schutzschirmvoraussetzungen, Bescheinigung, Planvorlagefrist und Sachwalter gesondert; Zahlungsunfähigkeit schließt den Schutzschirm aus.
+- Bei Organhaftung ordne Zahlungen nach Zeitpunkt und Rechtslage Paragraf 64 GmbHG alter Fassung beziehungsweise Paragraf 15b InsO zu. Prüfe jede Zahlung und Entlastung; nicht pauschal alle Einnahmen gegen Ausgaben rechnen.
+- Bei Anfechtung bestimme Handlung, Deckungsart, Benachteiligung und Kenntnis. Prüfe Paragrafen 129 ff. InsO, insbesondere die unterschiedlichen Zeiträume und Sonderregeln des Paragrafen 133 sowie Paragraf 142. Gläubigeranfechtung nach dem AnfG außerhalb eines Insolvenzverfahrens ist gesondert einzuordnen.
+- Bei Konzerninsolvenz prüfe Gruppen-Gerichtsstand nach Paragraf 3a InsO und ein mögliches Koordinationsverfahren, ohne Vermögen oder Haftung der Gesellschaften gleichzusetzen.
+- Bei StaRUG prüfe Instrumentenzugang, betroffene Rechte und Planbedarf erst nach Bestimmung des Krisenstadiums.
 
-> Stehen wir **vor** der Antragstellung (Beratung GF / Sanierung) oder **nach** Verfahrenseröffnung (Verwalter, Gläubiger, Anfechtung)?
+Bestimme das Insolvenzgericht nach Paragraf 3 InsO. Für das Restrukturierungsgericht sind Paragrafen 34 und 35 StaRUG sowie mögliche landesrechtliche Konzentrationen zu prüfen. Eine Anfechtungsklage gegen einen Empfänger folgt ihrer eigenen sachlichen und örtlichen Zuständigkeit.
 
-Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt den passenden Anschluss-Skill arbeiten.
+## 1.4. Optionale fachliche Vertiefungen
 
-## Leitentscheidungs-Anker (Such-Wegweiser, keine fertigen Zitate)
+Vorhandene Spezialskills können ergänzen: `insanw-fortbestehensprognose-workflow`, `insanw-eigenverwaltung-schutzschirm-spezial`, `inso-p015a-antragspflicht-bei-juristischen-personen-und-rechtsfa`, `insanw-anfechtungsmandat-leitfaden` und `insanw-konzerninsolvenz-koordination-spezial`. Ihr Aufruf ersetzt nicht die Bearbeitung des bestellten Ergebnisses. Bei fehlendem Zugriff arbeite mit den hier beschriebenen fachlichen Schritten weiter und benenne nur die tatsächlich offene Frage.
 
-- **Verwertung und Betriebsveräußerung** — Paragrafen 159, 160 und 163 InsO nach Verfahrensstand, Sicherungsrechten, Beschlusslage und dokumentiertem Marktprozess prüfen. Einen Haftungsanker nach Paragraf 60 InsO nur verwenden, wenn Sachverhalt, Pflichtenkreis und tragende Aussage der Entscheidung tatsächlich passen.
-- **Vorsatzanfechtung und Bargeschäft** — Paragraphen 133 und 142 InsO tatbestandsbezogen prüfen; erst nach Festlegung von Handlung, Deckungsart, Benachteiligung und Kenntnis die passende Entscheidung des IX. Zivilsenats auswählen.
-- **Insolvenzantragspflicht und Zahlungsverbot** — Paragraphen 15a und 15b InsO strikt nach Pflichtigem, Insolvenzgrund, Frist, Zahlung und Privilegierung trennen.
-- **Geschäftsveräußerung im Ganzen** — EuGH, Urteil vom 27.11.2003 - C-497/01 (Zita Modes): Übertragung einer selbständigen wirtschaftlichen Einheit, die fortgeführt werden kann. EuGH, Urteil vom 10.11.2011 - C-444/10 (Schriever): Erforderlichkeit mitübertragener Betriebsgrundlagen, insbesondere von Räumen, hängt von Art und Umständen der Tätigkeit ab.
+## 1.5. Quellen und Verwertung
 
-> Diese Anker sind Sucheinstieg. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief die konkrete Entscheidung in der amtlichen Quelle öffnen und Datum, Aktenzeichen, Randnummer sowie Übertragbarkeit auf den festgestellten Sachverhalt prüfen. Kuratierte Anker-Sammlung in `references/leitentscheidungen-anker.md`.
+Prüfe tragende Normen und Entscheidungen amtlich. Für Betriebsverwertung sind Paragrafen 159, 160 und 163 InsO nach Verfahrensstand, Sicherungsrechten, Beschlusslage und dokumentiertem Marktprozess zu prüfen. Ein Haftungsanker nach Paragraf 60 InsO muss zum konkreten Pflichtenkreis passen.
 
-## Hinweis
+Bei einer Geschäftsveräußerung im Ganzen dienen EuGH, Urteil vom 27.11.2003, C-497/01, Zita Modes, und EuGH, Urteil vom 10.11.2011, C-444/10, Schriever, als bestehende Rechercheanker zur wirtschaftlichen Einheit und zu erforderlichen Betriebsgrundlagen. Verifiziere Aussage und Übertragbarkeit, bevor daraus eine steuerliche Behandlung abgeleitet wird.
 
-Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Mandat; der Skill liefert die Karte. Quellenhygiene nach `references/quellenhygiene.md`, Zitierform nach `references/zitierweise.md`. Die Konvention dieses Einstiegs-Dashboards steht in `references/anwalts-dashboard-konvention.md`.
+Die lokalen Materialien `references/leitentscheidungen-anker.md`, `references/quellenhygiene.md`, `references/zitierweise.md` und `references/anwalts-dashboard-konvention.md` sind optionale Hilfen. Ungeprüfte Fundstellen bleiben Recherchehinweise; Quellenstatus gehört in eine gesonderte Arbeitsnotiz, nicht in den Mandantenbrief.
+
+## 1.6. Ausgabe und Grenzen
+
+Liefere das verlangte Gutachten, Schreiben, die Berechnung oder den Antrag vollständig ausformuliert. Tabellen dienen nur benötigten Zahlungs-, Fristen- oder Vergleichsrechnungen. Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Vorschlag ohne Vorgabe. Ein Gutachtenauftrag führt nicht ungefragt zu einer Klage oder einem Sanierungsplan.
+
+Anträge, Zahlungen, Anerkenntnisse und externe Mitteilungen benötigen ausdrückliche Freigabe. Ohne Export liefere den vollständigen Text und behaupte keine nicht erfolgte Übermittlung oder Quellenprüfung. Verwende dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
+
+## 1.7. Beispiele
+
+Ein Geschäftsführer legt offene Posten und eine nur angekündigte Kreditlinie vor: Kläre deren Bindung, aktualisiere die Liquiditätsprüfung und verfasse die bestellte Beratung. Ein Zahlungsempfänger erhält eine Anfechtungsforderung: Prüfe seine konkreten Vorgänge und Einwendungen und schreibe die beauftragte Erwiderung, ohne stattdessen einen Restrukturierungsplan zu erstellen.
 
 ---
 
@@ -803,7 +794,7 @@ Erstelle aus Kontoauszügen und Gegenleistungsbelegen eine prüfbare Berechnung 
 
 ## 2. Eingaben
 
-Lies Auftrag, Organbestellung, behaupteten Reifestichtag mit Statusbelegen, Insolvenzantrag und gerichtliche Anordnungen, sämtliche einschlägigen Konten, Rechnungen, Rückzahlungen, Gegenleistungen und Sanierungsdokumentation. Erfasse den tatsächlichen Zahlungstag sowie Buchungs- und Wertstellungsdatum getrennt. Kläre, ob die Zahlungen, auf die der Haftungsanspruch gestützt wird, vor oder seit dem 01.01.2021 liegen; historische Rechtslage nicht vermischen. Bei offenem Reifedatum rechne benannte Stichtagsvarianten. Höchstens eine gebündelte Nachfrage, dann Teilrechnung mit Restlücken.
+Lies Auftrag, Organbestellung, behaupteten Reifestichtag mit Statusbelegen, Insolvenzantrag und gerichtliche Anordnungen, sämtliche einschlägigen Konten, Rechnungen, Rückzahlungen, Gegenleistungen und Sanierungsdokumentation. Erfasse tatsächlichen Zahlungstag, Buchungs- und Wertstellungsdatum getrennt. Zahlungen vor und seit dem 01.01.2021 nach der jeweils einschlägigen Rechtslage prüfen. Bei offenem Reifedatum rechne benannte Stichtagsvarianten und frage nach den konkret fehlenden Fälligkeits-, Stundungs- oder Liquiditätsbelegen. Übernimm Antworten in Stichtag und Zeitfenster, ohne bereits bekannte Angaben erneut zu erheben.
 
 ## 3. Ablauf und Checkliste
 
@@ -827,7 +818,9 @@ Halte die historische Einzelzahlungsbetrachtung und den heutigen Einwand geringe
 
 ### 3.5. Abschluss
 
-Prüfe Summen, Zurechnung und Doppelanrechnungen einmal nach. Schließe mit belastbarem Betrag, streitigem Betrag, Beweisthemen und Verjährungsprüfung nach Paragraf 15b Absatz 7 InsO. Keine Insolvenz- oder Zahlungsanträge absenden, keine Zahlungen stoppen oder freigeben und keine Anerkenntnisse erklären.
+Fehlt ein Rückflussbeleg oder eine behauptete Verwalterzustimmung, fordere den konkreten Nachweis an. Aktualisiere nach der Antwort Zurechnung, Entlastung und Rechnung; prüfe die davon betroffenen Summen und Doppelanrechnungen erneut. Neue entscheidende Widersprüche erlauben weitere kurze Fragen.
+
+Liefere bei ausstehenden Belegen einen vorläufigen Teilstand und führe nach Klärung bis zur bestellten Bewertung oder vollständigen Anspruchs- beziehungsweise Verteidigungsfassung fort. Prüfe die Verjährung nach Paragraf 15b Absatz 7 InsO. Externe Anträge, Zahlungseingriffe und Anerkenntnisse erfordern ausdrückliche Freigabe.
 
 ## 4. Quellenpflicht
 
@@ -839,7 +832,9 @@ Beachte [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/
 
 ## 5. Ausgabeformat
 
-Erstelle `ergebnis.md` mit Sachverhalt und Stichtagsannahmen, abgestimmtem Zahlungsjournal, Sorgfalts- und Entlastungsmatrix, Berechnungsvarianten sowie ausformulierter Anspruchs- oder Verteidigungspassage. Endprodukt in vollständigen Sätzen, keine Stichwortskelette. Dezimale Gliederung; Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Nicht geprüfte Konten und offene Volltexte ausdrücklich nennen.
+Erstelle das bestellte Gutachten oder den vollständigen Anspruchs- beziehungsweise Verteidigungstext, mit abgestimmtem Zahlungsjournal und erforderlichen Berechnungsvarianten. Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur die Vorgabe bei fehlendem Dateiwunsch. Sorgfalts- und Entlastungstabellen nur soweit für den Nachweis nötig; keine ungefragte Klage zu einem Bewertungsauftrag.
+
+Endprodukt in vollständigen Sätzen, keine Stichwortskelette. Ohne Dateiexport die bestellte Bewertung oder den Entwurf samt Zahlungsabgleich und erforderlicher Rechnung vollständig in der Antwort bereitstellen; keine nicht erzeugte Datei verlinken. Dezimale Gliederung; Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Nicht geprüfte Konten, Quellenstatus und interne Kontrollen in einer gesonderten Arbeitsnotiz nennen, nicht im Mandantenbrief.
 
 ## 6. Beispiele
 

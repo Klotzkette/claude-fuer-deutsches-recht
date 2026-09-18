@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "forschungszulage-antragstellung",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/fzulg/__3.html",
@@ -11,14 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die vorhandene Arbeitspaketroute passt zur Werkstatt, ließ aber die rechnerische Trennung zwischen FuE-Zeit und übriger Projektarbeit offen.",
+    "reason": "Der vollständige Mini wurde auf FuE-Zeit, Personalaufwand und Vorhabenbeginn geprüft.",
     "changes": [
-      "Personalaufwand über Gesamtstunden und belegte FuE-Stunden zugeordnet.",
-      "Vorhabenbeginn für Gemeinkosten von Antragsjahr getrennt.",
-      "BSFZ-Bescheinigung und finanzielle Bemessung getrennt.",
-      "Allgemeine Abtretungs- und Insolvenzanker zugunsten der Dateigrenze gestrafft; FuE-Rechenlogik erhalten."
+      "Fehlende Arbeitspaket- oder Stundennachweise gezielt klären und danach die finanzielle Zuordnung aktualisieren."
     ],
-    "sha256": "b242ede4d35a67cd9aeee249b3d325e196d0ae338899d9f811a462ec46de8247"
+    "sha256": "99aaf874b939635a094351aad1f3ab3ae7b756f06185abbc2d03f892b8a7a4e1"
   },
   "selection": {
     "positive": [
@@ -63,5 +60,13 @@
       ],
       "target_skill": "bemessungsgrundlage-2026"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde auf technische Förderfähigkeit und getrennte steuerliche Bemessung geprüft.",
+    "changes": [
+      "Keine starre Drei-von-fünf-Frascati-Regel; BSFZ-Bescheinigung, Kostenbasis und zeitabhängige Ansätze getrennt."
+    ],
+    "sha256": "6f942040ca4e1434ebdd33ca0068b166e65e7d24d0dd0182cce63fdce9fa1fed"
+  }
 }

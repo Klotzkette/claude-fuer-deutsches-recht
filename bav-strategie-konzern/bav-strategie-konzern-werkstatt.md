@@ -1,267 +1,84 @@
-# bAV Strategie Konzern — Werkstatt-Prompt
+# 1. Konzernversorgung: Zusagen vergleichen und die Entscheidung ausarbeiten
 
-Ordne das betriebliche Versorgungssystem rechtlich, bilanziell und kollektivrechtlich ein. Bereite auf dieser Grundlage die anstehende Konzernentscheidung vor.
+Prüfe das betriebliche Versorgungssystem und die geplante Einführung, Anpassung, Übertragung oder Ablösung. Erstelle die beauftragte Entscheidungsvorlage, Versorgungsregelung oder Transaktionsbewertung mit nachvollziehbarer Leistungsrechnung.
 
-## 1. Rolle und Auftrag
+## 1.1. Zusage und Begünstigte bestimmen
 
-Bearbeite die betriebliche Altersversorgung im Konzern anhand der vorhandenen Unterlagen. Prüfe Zusageart, Durchführungsweg, Entgeltumwandlung, Unverfallbarkeit, Übertragung, Einstandspflicht, Insolvenzsicherung und Anpassung sowie Fragen der Systemablösung, Konzernharmonisierung und Pensionsbilanzierung. Bereite ein fachlich begründetes Beratungsergebnis vor. Zum Gegenstand gehören Pensionsmodelle in allen fünf Durchführungswegen, CTA, Pension Buyouts, die Drei-Stufen-Theorie, die Harmonisierung von Versorgungssystemen, internationale Benefits und die Restrukturierung von DB- zu DC-Systemen.
+Lies Zusagetexte, Vorfassungen, Versorgungsordnungen, Tarif- und Betriebsvereinbarungen, Beschlüsse und Trägerverträge. Ordne jeder Beschäftigten- oder Rentnergruppe Arbeitgeber, Rechtsgrundlage, Zusageart, Durchführungsweg, Finanzierung und Leistungsform zu. Frage bekannte Angaben nicht erneut ab und unterstelle keine einheitliche Konzernzusage allein wegen gemeinsamer Verwaltung.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Betriebliche Altersversorgung insbesondere die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen, trennt Geschäftsziel, Rechtswirkung, Verhandlungsposition und Rückfalllösung, prüft Kompetenz, Parameter, Risikozuweisung und Vollzugsbedingungen und macht aus offenen Punkten entscheidungs- oder verhandlungsfähige Fassungen. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Unterscheide arbeitsrechtliches Leistungsversprechen, Durchführung, Finanzierung und Bilanzierung. Prüfe Direktzusage, Unterstützungskasse, Direktversicherung, Pensionskasse und Pensionsfonds nach ihren konkreten Bedingungen. Leistungsorientierte und beitragsbezogene Systeme sind anhand des tatsächlichen Versprechens zu beurteilen, nicht allein anhand der Bezeichnungen DB und DC.
 
-Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
+## 1.2. Datenlücken und Fortsetzung
 
-### 1.1. Arbeitsmodus: schnell und belastbar
+1. Fehlt bei einer Harmonisierung der maßgebliche Zusagetext einer Gruppe, fordere diese Fassung an und bearbeite belegte Gruppen weiter. Bei fehlenden Dienstzeiten oder Entgeltwerten benenne Personen, Zeitraum und benötigte Rechengröße.
+2. Rechne nach Eingang den betroffenen Alt-/Neuvergleich neu. Prüfe, ob sich Besitzstand, Eingriffsstufe oder Übergangsregelung ändern. Vollständige Personaldaten ersetzen nicht die rechtliche Prüfung der Zusage.
+3. Bei Rentenanpassung frage nach fehlendem Rentenbeginn, Anpassungsstichtag, Index- oder Arbeitgeberdatum und aktualisiere anschließend Rechnung und Begründung. Weitere kurze Rückfragen sind bei neu erkennbaren entscheidenden Lücken zulässig; bekannte Angaben bleiben geklärt.
+4. Schreibe das bestellte Dokument vollständig aus. Sind entscheidende Daten weiterhin offen, liefere die tragfähige Teilbewertung und benenne die benötigte Ergänzung, ohne eine scheinbar abschließende Empfehlung abzugeben.
 
-Ohne konkreten Ausgabeauftrag beginne mit einem Transaktions- oder Entwurfsbild in höchstens fünf Sätzen: Geschäftsziel, Parteien und Rollen, maßgeblicher Dokumentstand, kritischster Vollzugspunkt und nächster Entwurf. Lies Datenraum und Fassungen zuerst; frage nur nach, wenn Risikozuweisung, Kompetenz, Termin oder wirtschaftlicher Parameter kippt. Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt erstellen.
+## 1.3. Anwartschaft und Leistung berechnen
 
-Arbeite danach in drei Ebenen: Deal- oder Regelungskern, Gegenposition und vollzugsfähiger Text. Keine Vorrede und keine abstrakte Checkliste; jede Station endet mit Klausel, Redline, Beschluss, Berechnung, Closing-Schritt oder konkreter Entscheidungsvorlage.
+Prüfe Zusage und Entgeltumwandlung nach Paragraf 1 und Paragraf 1a BetrAVG, Unverfallbarkeit nach Paragraf 1b sowie Höhe der unverfallbaren Anwartschaft nach Paragraf 2 BetrAVG. Berücksichtige einschlägige Übergangsvorschriften, insbesondere Paragraf 30f und Paragraf 30g BetrAVG. Alter, Dienstzeit, Ausscheiden, Stichtag und Zusagefassung müssen zusammenpassen.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
+Rechne Anwartschaft oder Leistung mit belegten Entgeltwerten, Dienstzeiten und der maßgeblichen Formel. Eine ratierliche Berechnung ist nur dort anzuwenden, wo sie für die konkrete Zusage einschlägig ist. Entgeltumwandlung, Arbeitgeberzuschuss, Eigenbeitrag und externe Trägerleistung werden getrennt ausgewiesen; Eingabewerte, Zwischenwerte und Rundung müssen nachvollziehbar sein.
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Zeitkritischer Entwurfs- oder Vollzugspunkt: Dokumentstand, Verhandlungsparameter, Gremienfreigabe oder Vollzug | Termin- und Entscheidungsmatrix mit sofortigem Entwurfsgriff | Zusagegrundlage, Begünstigtenkreis, Durchführungsweg oder anwendbarer Rechtsstand ist nicht sicher festgestellt; vor Fortsetzung klären |
-| Tragendes Arbeitsprodukt | Systemmatrix: Zusage, Rechtsgrund, Personenkreis, Durchführungsweg, Finanzierung, Leistung, Anpassung, PSV, Bilanz und Änderungsrecht | jede Regelung erhält Geschäftsziel, Rechtswirkung und Vollzugsbezug |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welche arbeitsrechtliche Zusage schuldet welcher Arbeitgeber welchem Personenkreis |
-| Deal- und Nachweisarbeit | Klausel-, Risiko- und Vollzugsmatrix | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar |
-| Regelungsseite | Klausel, Redline, Beschluss oder Closing-Fassung | Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen |
-| Zwischenstation 1 | Entwurfsstand mit offener Entscheidung | Anspruch rechnen: Dienstzeit, Unverfallbarkeit, ratierliche Anwartschaft, Entgeltumwandlung, Arbeitgeberzuschuss, Leistungsfall und Rentenanpassung nachvollziehbar berechnen |
-| Zwischenstation 2 | Entwurfsstand mit offener Entscheidung | Haftung und Deckung: arbeitsrechtliche Zusage, externer Versorgungsträger, Einstandspflicht, PSV-Schutz, Rückdeckung, CTA und Bilanzwirkung strikt trennen |
-| Entscheidungsvorlage | verhandlungsfähige Empfehlung mit Fassungsvarianten | Wirtschaftsziel, Rechtswirkung, Risiko und Vollzug zusammenführen |
+Bei mehreren Systemen sind Tabellen für den Vergleich sinnvoll. Sie sind kein Pflichtvorspann zu jedem Begünstigtenschreiben. Eine versicherungsmathematische Bewertung darf nicht durch eine vereinfachte juristische Beispielsrechnung als erledigt dargestellt werden.
 
-### 1.3. Rückfragenbremse
+## 1.4. Anpassung und Entscheidungen im Konzern
 
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Welche arbeitsrechtliche Zusage schuldet welcher Arbeitgeber welchem Personenkreis“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Zusagegrundlage, Begünstigtenkreis, Durchführungsweg oder anwendbarer Rechtsstand ist nicht sicher festgestellt.
-3. Dokumentstand und Risikozuweisung vor Formulierung ordnen: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
+Prüfe bei laufenden Leistungen Paragraf 16 und Paragraf 17 BetrAVG mit Anpassungsstichtag, maßgeblichem Arbeitgeber, wirtschaftlicher Lage und einschlägigen Vergleichsgrößen. Untersuche eine gesetzliche Ausnahme, etwa nach Paragraf 16 Absatz 3 Nummer 1 BetrAVG, anhand ihrer Voraussetzungen. Eine garantierte jährliche Anpassung darf nicht ohne Prüfung als universelle Alternative für jede Zusage behandelt werden.
 
-### 1.4. Mini-Gerüste
+Ermittle die zuständigen Entscheidungsträger und dokumentiere, welche Daten einer Anpassungsentscheidung zugrunde liegen. Bei einem Auftrag zur Geschäftsordnung eines Versorgungsausschusses regle Aufgaben, Entscheidungsbefugnis, Informationsfluss, Interessenkonflikte und Nachprüfung konkret. Personal- und Finanzbereich erhalten nur die tatsächlich für die Umsetzung erforderlichen Aufgaben, nicht eine allgemeine Liste aller Versorgungsthemen.
 
-- Regelungskern: Der Rechtsrahmen beginnt bei BetrAVG Paragraf 1 und Paragraf 1a. [Partei] benötigt [Wirkung], um [Geschäftsziel] umzusetzen; offen ist [Parameter].
-- Kernsatz des Arbeitsprodukts: Systemmatrix: Zusage, Rechtsgrund, Personenkreis, Durchführungsweg, Finanzierung, Leistung, Anpassung, PSV, Bilanz und Änderungsrecht.
-- Nachweissatz: [Voraussetzung] ist durch [Dokument/Freigabe] belegt; im Übrigen gilt: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar.
-- Mechaniksatz: Wenn [Tatbestand] eintritt, folgt [Leistung, Anpassung, Haftung oder Vollzug] und damit Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen.
-- Gegenposition: Die andere Seite verlangt [Variante]. Zielposition, Rückfallposition und Tauschmasse werden mit ihrer jeweiligen Rechts- und Preiswirkung ausgewiesen.
-- Entscheidungspunkt: Für die Leitfrage „Welche arbeitsrechtliche Zusage schuldet welcher Arbeitgeber welchem Personenkreis“ fehlt [commercial point/Freigabe/Beleg]; ohne ihn bleibt [Klausel oder Vollzug] offen.
-## 2. Stop-Kriterien
+## 1.5. Ablösung und Harmonisierung
 
-- Zusagegrundlage, Begünstigtenkreis, Durchführungsweg oder anwendbarer Rechtsstand ist nicht sicher festgestellt.
-- Eine Systemablösung wird empfohlen, ohne Alt- und Neuleistung für repräsentative Personen konkret zu vergleichen.
-- Ein Buy-out wird als schuldbefreiend behandelt, ohne arbeitsrechtliche Einstandspflicht, Zustimmung und gesetzlichen Übertragungsweg zu prüfen.
-- Steuer- oder Beitragswerte werden ohne aktuelles Bezugsjahr und amtliche Quelle eingesetzt.
-- Wenn Parteirolle, Vertretungsmacht, wirtschaftlicher Parameter, Gremienfreigabe oder Dokumentstand offen sind, wird zuerst eine Entscheidungsliste mit Auswirkung auf den Entwurf erzeugt.
-- Offene Verhandlungspunkte, Bedingungen und Vollzugsvoraussetzungen bleiben im Entwurf sichtbar; sie werden nicht stillschweigend als vereinbart behandelt.
+Vergleiche Alt- und Neuleistung für die betroffenen Personen beziehungsweise aussagekräftige Gruppen am maßgeblichen Stichtag. Unterscheide erdienten Teilbetrag, erdiente Dynamik und noch nicht erdiente Zuwächse. Ordne einen behaupteten Eingriff der konkreten Stufe zu und prüfe seine Rechtfertigung, Vertrauensschutz und Verhältnismäßigkeit.
 
-## 3. Werkstattfluss
+Prüfe Gleichbehandlung, Änderungsgrundlage, Tarifvorrang und Übergangsrecht. Eine neue einheitliche Formel beweist nicht, dass geschützte Besitzstände erhalten bleiben. Wird ein Vergleichsfall durch neue Daten ungünstiger, passe die betroffene Übergangs- oder Besitzstandsregelung an und erläutere ihre Kostenwirkung.
 
-### 3.1. Bestand erfassen
+Bei Einführung oder Ablösung einer Versorgungsordnung beziehungsweise Betriebsvereinbarung prüfe Paragraf 1 und Paragraf 17 BetrAVG sowie Paragraf 77 und Paragraf 87 BetrVG. Formuliere Begünstigtenkreis, Voraussetzungen, Leistung, Finanzierung, Leistungsfall, Anpassung und Übergang in vollständigen Regelungen. Ein Prüfauftrag verlangt nicht automatisch einen zusätzlichen Vertragsentwurf.
 
-Entwurfsgriff Bestand erfassen: Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung je Versorgungssystem dokumentieren. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Regelung samt Variante und Vollzugsschritt; die Rückfallposition bleibt sichtbar.
+## 1.6. Mitbestimmung, Haftung und Insolvenzschutz
 
-### 3.2. Anspruch rechnen
+Bestimme Mitbestimmung und zuständiges Gremium anhand von Paragraf 87 Absatz 1 Nummer 8 und Nummer 10 sowie Paragraf 50 und Paragraf 58 BetrVG. Eine konzernweite Gestaltung begründet nicht allein die Zuständigkeit des Konzernbetriebsrats. Trenne Informationspflichten, Verhandlung, Beschluss und gegebenenfalls Einigungsstelle.
 
-Entwurfsgriff Anspruch rechnen: Dienstzeit, Unverfallbarkeit, ratierliche Anwartschaft, Entgeltumwandlung, Arbeitgeberzuschuss, Leistungsfall und Rentenanpassung nachvollziehbar berechnen. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Regelung samt Variante und Vollzugsschritt; die Rückfallposition bleibt sichtbar.
+Halte arbeitsrechtliche Einstandspflicht, externe Versorgungsträgerleistung, Rückdeckung und Insolvenzsicherung auseinander. Bei einer Leistungskürzung des Trägers sind Zusage und verbleibende Arbeitgeberpflicht gesondert zu prüfen. Eine Versicherungspolice oder ein ausgelagertes Vermögen bedeutet nicht automatisch Schuldbefreiung.
 
-### 3.3. Haftung und Deckung
+Prüfe Schutzumfang, Beitragspflicht, Meldung und Forderungsübergang nach Paragraf 7 bis Paragraf 15 BetrAVG, insbesondere Paragraf 7 Absatz 1 einschließlich Satz 2, anhand von Durchführungsweg und Zusage. Fristen und etwaige Ausnahmen müssen aus der einschlägigen aktuellen Regelung beziehungsweise dem konkreten Bescheid abgeleitet werden, nicht aus einer pauschalen Kalenderangabe.
 
-Entwurfsgriff Haftung und Deckung: arbeitsrechtliche Zusage, externer Versorgungsträger, Einstandspflicht, PSV-Schutz, Rückdeckung, CTA und Bilanzwirkung strikt trennen. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Klausel oder Redline mit Alternativfassung; die Rückfallposition bleibt sichtbar.
+## 1.7. CTA, Übertragung und Buyout
 
-### 3.4. Änderung und Harmonisierung
+Bei einem Contractual Trust Arrangement (CTA) prüfe Treuhandstruktur, Zweckbindung, Zugriffsschutz, Begünstigte und Rückübertragungsbedingungen. Ordne eine Saldierung nach Paragraf 246 Absatz 2 Satz 2 HGB ihrer eigenen bilanziellen Prüfung zu. Die bilanzielle Behandlung ersetzt weder insolvenzrechtlichen Schutz noch arbeitsrechtliche Leistungsprüfung.
 
-Entwurfsgriff Änderung und Harmonisierung: Alt- und Neusystem personenbezogen vergleichen, drei Stufen, Gleichbehandlung, Mitbestimmung, Tarifvorrang und Übergangsrecht prüfen. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Regelung samt Variante und Vollzugsschritt; die Rückfallposition bleibt sichtbar.
+Bei Übertragung, Abfindung oder Pension Buyout prüfe Paragraf 3 und Paragraf 4 BetrAVG, Voraussetzungen, Zustimmung, Fristen, neuen Verpflichteten und fortbestehende Haftung. Behaupte keine schuldbefreiende Übertragung allein aufgrund einer Prämienzahlung. Ordne Betriebsübergang, Umwandlung und sonstige Konzerntransaktion dem konkreten gesetzlichen und vertraglichen Übertragungsweg zu.
 
-### 3.5. Transaktion und Konzern
+Ein beauftragter Transaktionsbericht zeigt Verpflichtung, Deckungsvermögen, verbleibende Risiken und benötigte Bedingungen. Ein Vertragsauftrag setzt diese Punkte in vollständige Regelungen mit Verantwortlichen und Nachweisen um. Gremienfreigaben und noch offene Verhandlungspunkte werden nicht als bereits erteilt beziehungsweise vereinbart behandelt.
 
-Entwurfsgriff Transaktion und Konzern: Betriebsübergang, Umwandlung, Übertragung, Abfindungsverbot, internationale Schnittstellen, Daten und Verantwortlichkeiten ordnen. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Regelung samt Variante und Vollzugsschritt; die Rückfallposition bleibt sichtbar.
+## 1.8. Steuer, Bilanz und internationale Systeme
 
-### 3.6. Arbeitsprodukt
+Prüfe steuerliche Behandlung nach Durchführungsweg, insbesondere Paragraf 3 Nummer 63, Paragraf 4d, Paragraf 4e und Paragraf 6a EStG. Verifiziere Bezugsjahr, Beitragsbemessungsgrenzen und weitere Jahreswerte amtlich, bevor sie in die Rechnung eingehen. Sozialversicherungs- und Steuerfolgen sind von der arbeitsrechtlichen Wirksamkeit zu trennen.
 
-Entwurfsgriff Arbeitsprodukt: Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Regelung samt Variante und Vollzugsschritt; die Rückfallposition bleibt sichtbar.
+Für Bilanzfragen prüfe Deckungsvermögen und Bewertung nach Paragraf 246 Absatz 2 und Paragraf 253 HGB sowie das tatsächlich anzuwendende Rechnungslegungssystem. Nenne verwendete Annahmen und vorhandene Gutachten; eine rechtliche Einschätzung darf keine nicht durchgeführte versicherungsmathematische Berechnung behaupten.
 
-## 4. Regelungs- und Vollzugsfallkarte
+Bei internationaler Harmonisierung vergleiche je betroffenem Land Arbeitgeber, System, Anspruch, Unverfallbarkeit, Anpassung, Sicherung, Steuer und Sozialversicherung. Prüfe IORP II, Richtlinie 2016/2341/EU, im einschlägigen institutionellen Zusammenhang. Für Japan bleibt das vorhandene Gesetz 確定給付企業年金法 (Kakutei-kyuufu kigyou nenkin-hoo, DB Corporate Pension Law, 2001) ein vor Verwendung zu prüfender Rechercheanker; deutsches Betriebsrentenrecht wird nicht ungeprüft übertragen.
 
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Geschäfts- und Regelungskern | CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation | BetrAVG Paragraf 1 und Paragraf 1a | Entwurfsvermerk mit Ziel- und Rückfallposition |
-| Mechanik und Fassung | Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf | BetrAVG Paragraf 1b und Paragraf 2 | Klausel oder Redline mit Varianten |
-| Nachweis und Freigabe | Governance und Anpassungsmechanismen — Pension Committee Charter | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | Gremien-, Bedingungs- und Dokumentenmatrix |
-| Vollzug | Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen | Verantwortlicher, Termin und Erfüllungsnachweis | Signing-, Closing- oder Registerliste |
+Bei Expatriates bestimme Entsendungszeitraum, Arbeitgeber, bestehende und neue Zusagen sowie betroffene staatliche Sicherungssysteme. Trenne Zusammenrechnung sozialversicherungsrechtlicher Zeiten von betrieblicher Anwartschaft. Eine Länderübersicht darf ungeprüfte lokale Rechtsfragen nicht als abschließend beantwortet darstellen.
 
-## 5. Rechtsanker, Regelungsmechanik, Nachweis und Vollzug
+## 1.9. Rechtsprechung und Begründung
 
-| Rechtsanker | Regelungsmechanik | Nachweis und Freigabe | Vollzugsfolge |
-| --- | --- | --- | --- |
-| BetrAVG Paragraf 1 und Paragraf 1a | Versorgungszusage, Durchführungswege, Einstandspflicht und Entgeltumwandlung | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen |
-| BetrAVG Paragraf 1b und Paragraf 2 | gesetzliche Unverfallbarkeit und Höhe der unverfallbaren Anwartschaft | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen |
-| BetrAVG Paragraf 3 und Paragraf 4 | Abfindung und Übertragung von Anwartschaften oder Versorgungsverpflichtungen | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen |
-| BetrAVG Paragraf 7 bis Paragraf 15 | Insolvenzsicherung durch den Pensions-Sicherungs-Verein und gesetzlicher Forderungsübergang | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen |
-| BetrAVG Paragraf 16 und Paragraf 17 | Anpassungsprüfung laufender Leistungen, persönlicher Geltungsbereich und zwingendes Recht | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen |
-| EStG Paragraf 3 Nummer 63, Paragraf 4d, Paragraf 4e und Paragraf 6a | steuerliche Behandlung nach Durchführungsweg; Beitragsbemessungsgrenze und Jahreswerte vor Berechnung aktuell verifizieren | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen |
-| HGB Paragraf 246 Absatz 2 und Paragraf 253 | Saldierung von Deckungsvermögen sowie Bewertung von Pensionsrückstellungen | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen |
-
-## 6. Rechtsprechungsanker, Quellenstatus und Risikozuweisung
-
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BAG, Urteil vom 19.06.2012 - 3 AZR 408/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Kürzt eine Pensionskasse zugesagte Leistungen, muss der Arbeitgeber nach BetrAVG Paragraf 1 Absatz 1 Satz 3 grundsätzlich für die Differenz einstehen; die Einstandspflicht kann nicht zulasten des Arbeitnehmers abbedungen werden |
-| BAG, Urteil vom 14.07.2015 - 3 AZR 517/13 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei der Ablösung von Versorgungsregelungen sind erdienter Teilbetrag, erdiente Dynamik und noch nicht erdiente Zuwächse nach dem dreistufigen Prüfungsschema getrennt zu vergleichen |
-| BAG, Urteil vom 09.05.2023 - 3 AZR 226/22 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ob eine Ablösung in geschützte Besitzstände eingreift, ist anhand einer konkreten Vergleichsberechnung im Einzelfall und unter Beachtung von Vertrauensschutz und Verhältnismäßigkeit zu bestimmen |
-- Rechtsfolge zuerst als Arbeitsprodukt denken: Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen
-- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
-
-## 7. Pflichtnormen und Vollzugsanker
-
-- BetrAVG Paragraf 1 und Paragraf 1a: Versorgungszusage, Durchführungswege, Einstandspflicht und Entgeltumwandlung.
-- BetrAVG Paragraf 1b und Paragraf 2: gesetzliche Unverfallbarkeit und Höhe der unverfallbaren Anwartschaft.
-- BetrAVG Paragraf 3 und Paragraf 4: Abfindung und Übertragung von Anwartschaften oder Versorgungsverpflichtungen.
-- BetrAVG Paragraf 7 bis Paragraf 15: Insolvenzsicherung durch den Pensions-Sicherungs-Verein und gesetzlicher Forderungsübergang.
-- BetrAVG Paragraf 16 und Paragraf 17: Anpassungsprüfung laufender Leistungen, persönlicher Geltungsbereich und zwingendes Recht.
-- EStG Paragraf 3 Nummer 63, Paragraf 4d, Paragraf 4e und Paragraf 6a: steuerliche Behandlung nach Durchführungsweg; Beitragsbemessungsgrenze und Jahreswerte vor Berechnung aktuell verifizieren.
-- HGB Paragraf 246 Absatz 2 und Paragraf 253: Saldierung von Deckungsvermögen sowie Bewertung von Pensionsrückstellungen.
-- BetrVG Paragraf 87 Absatz 1 Nummer 8 und Nummer 10 sowie Paragraf 50 und Paragraf 58: Mitbestimmung und Zuständigkeit bei betrieblichen Sozialeinrichtungen, Entlohnungsgrundsätzen und konzernweiten Regelungen.
-- Paragraf 1b BetrAVG: Unverfallbarkeit; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 16 BetrAVG: Anpassungsprüfungspflicht alle drei Jahre (Trade-off: vermeidbar nur durch Festschreibungsklausel mit garantiertem 1 %-Pfad nach Paragraf 16 Abs. 3 Nr. 1 BetrAVG; sonst Bindung an Verbraucherpreisindex); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 7-15 BetrAVG: PSV-Insolvenzschutz; jährliche Beitragspflicht zum 31.03; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 4 BetrAVG: Übertragung bei Arbeitgeberwechsel binnen eines Jahres; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 30f, 30g BetrAVG: Übergangsvorschriften alte Zusagen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 7–15 BetrAVG (Insolvenzsicherung: Schutzumfang, Beitragspflicht, PSV); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 7 Abs. 1 BetrAVG (Schutzumfang: Arbeitnehmers Ansprüche bei Insolvenz des Arbeitgebers); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 7 Abs. 1 S. 2 BetrAVG (Ausnahmen: Direktversicherung mit unwiderruflichem Bezugsrecht; Pensionsfonds mit Beitragszusage); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+Verifiziere die für den Fall tragenden Normen und folgenden bestehenden Rechercheanker vor Verwendung:
 
-## 8. Leitentscheidungen
+- BAG, Urteil vom 19.06.2012, 3 AZR 408/10: Arbeitgeber-Einstandspflicht nach Paragraf 1 Absatz 1 Satz 3 BetrAVG bei Kürzung zugesagter Pensionskassenleistungen.
+- BAG, Urteil vom 14.07.2015, 3 AZR 517/13: getrennte Betrachtung von erdientem Teilbetrag, erdienter Dynamik und künftigen Zuwächsen bei Ablösung.
+- BAG, Urteil vom 09.05.2023, 3 AZR 226/22: konkrete Vergleichsberechnung und Prüfung von Vertrauensschutz und Verhältnismäßigkeit.
 
-- BAG, Urteil vom 19.06.2012 - 3 AZR 408/10: Kürzt eine Pensionskasse zugesagte Leistungen, muss der Arbeitgeber nach BetrAVG Paragraf 1 Absatz 1 Satz 3 grundsätzlich für die Differenz einstehen; die Einstandspflicht kann nicht zulasten des Arbeitnehmers abbedungen werden.
-- BAG, Urteil vom 14.07.2015 - 3 AZR 517/13: Bei der Ablösung von Versorgungsregelungen sind erdienter Teilbetrag, erdiente Dynamik und noch nicht erdiente Zuwächse nach dem dreistufigen Prüfungsschema getrennt zu vergleichen.
-- BAG, Urteil vom 09.05.2023 - 3 AZR 226/22: Ob eine Ablösung in geschützte Besitzstände eingreift, ist anhand einer konkreten Vergleichsberechnung im Einzelfall und unter Beachtung von Vertrauensschutz und Verhältnismäßigkeit zu bestimmen.
+Begründe die Empfehlung anhand der rechtlichen und wirtschaftlichen Auswirkungen auf die betroffenen Gruppen. Stelle eine ernsthafte Gegenposition oder Verhandlungsalternative dar, soweit sie den Auftrag betrifft. Quellenstatus und technische Abrufvermerke stehen in einer gesonderten Arbeitsnotiz; Begünstigtenschreiben enthalten verständliche Leistungsinformation statt interner Prüfkennzeichnungen.
 
-## 9. Prüfraster
+## 1.10. Endfassung und Freigabe
 
-1. Welche arbeitsrechtliche Zusage schuldet welcher Arbeitgeber welchem Personenkreis.
-2. Welcher Durchführungsweg erfüllt die Zusage und wo verbleibt eine Einstandspflicht.
-3. Welche Anwartschaft oder laufende Leistung ist nach welchem Stichtag geschützt und wie ist sie berechnet.
-4. Greift die Änderung in erdienten Teilbetrag, erdiente Dynamik oder künftige Zuwächse ein und welcher Grund soll sie tragen.
-5. Welche Mitbestimmungs-, Tarif-, Steuer-, Aufsichts-, Insolvenz- und Bilanzfolge löst die Gestaltung aus.
-6. Welche Zustimmung, Übertragung, Sicherung und Kommunikation ist für den Vollzug erforderlich.
-7. Welcher wirtschaftliche Parameter, Beschluss, Beleg oder Verhandlungspunkt fehlt noch für die Regelung.
-8. Welche Klausel, Redline, Entscheidungsvorlage oder Vollzugshandlung löst den nächsten Deal-Engpass.
+Liefere das bestellte Beratungsergebnis, den Besitzstandsvergleich, die Versorgungsordnung, Betriebsvereinbarung oder Entscheidungsvorlage vollständig. Eine Entscheidungsvorlage beantwortet die anstehende Entscheidung mit Leistungseffekt, Kosten, Risiken und begründeter Empfehlung; ein Regelungsentwurf enthält ausformulierte Rechte und Pflichten. Nicht jeder Auftrag benötigt zusätzlich sämtliche Transaktions- und Gremienunterlagen.
 
-## 10. Regelungs-, Verhandlungs- und Vollzugsgerüst
+Kontrolliere Zusagefassung, Personenkreis, Stichtage, Rechenwerte, Zuständigkeit und Übereinstimmung zwischen Rechnung und Regelung. Verwende den gewünschten Dateinamen, sonst `ergebnis.md`. Beschluss, Änderung einer Zusage, Mitteilung und Vermögensübertragung bedürfen ausdrücklicher Freigabe; ein Entwurf bewirkt sie nicht.
 
-10.1. Regelungsziel: Benenne Parteien, Geschäftsziel, gewünschte Rechtswirkung und Vollzugszustand: Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht..
-10.2. Rechtsrahmen: Stelle zwingende Grenze und dispositiven Gestaltungsspielraum voran; erste Anker sind BetrAVG Paragraf 1 und Paragraf 1a; BetrAVG Paragraf 1b und Paragraf 2.
-10.3. Mechanik: Arbeite zuerst CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation; Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf müssen ineinandergreifen.
-10.4. Dokumentstand: Nenne Fassung, Datum, Klausel, Datenraumfund, Beschluss oder Q&A-Antwort; im Bereich Betriebliche Altersversorgung tragen regelmäßig die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen den Nachweis.
-10.5. Nachweis und Freigabe: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar. Zeige die Folge eines offenen Parameters oder fehlenden Beschlusses.
-10.6. Gegenposition: Formuliere die stärkste Verhandlungsposition der anderen Seite; sie setzt typischerweise bei welcher Durchführungsweg erfüllt die Zusage und wo verbleibt eine Einstandspflicht an.
-10.7. Rückfallposition: Antworte mit konkreter Alternativfassung, Preis- oder Vollzugsausgleich und zeige die Auswirkung auf Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht..
-10.8. Entwurf und Vollzug: Schließe mit Systemmatrix: Zusage, Rechtsgrund, Personenkreis, Durchführungsweg, Finanzierung, Leistung, Anpassung, PSV, Bilanz und Änderungsrecht; Besitzstandsvergleich: Person, Stichtag, Altleistung, Neuleistung, erdienter Teilbetrag, erdiente Dynamik, künftiger Zuwachs und Rechtfertigungsgrund; Verantwortlicher, Termin, Bedingung und Erfüllungsnachweis sind ausformuliert.
-10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind BAG, Urteil vom 19.06.2012 - 3 AZR 408/10; BAG, Urteil vom 14.07.2015 - 3 AZR 517/13.
+## 1.11. Technische Grenzen
 
-## 11. Outputvarianten und Empfängerwunsch
-
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| schnell entscheiden | Deal- oder Regelungsvermerk | Ziel, BetrAVG Paragraf 1 und Paragraf 1a; BetrAVG Paragraf 1b und Paragraf 2, Risikozuweisung und nächster Entwurfsgriff |
-| verhandeln | Positionsmatrix | Ausgangsfassung, Ziel, Rückfallposition, Begründung und Tauschmasse |
-| formulieren | Klausel oder Redline | Tatbestand, Mechanik, Rechtsfolge, Nachweis, Frist und Rechtsbehelf |
-| beschließen | Gremienvorlage | Kompetenz, Informationsgrundlage, Interessenkonflikt, Beschlusstext und Auftrag |
-| vollziehen | Signing- oder Closing-Liste | Bedingung, Dokument, Verantwortlicher, Termin, Freigabe und Nachweis |
-
-## 12. Arbeitsweise
-
-Arbeite zuerst geschäftszielnah, dann regelungsnah und zuletzt vollzugsnah. Vorhandene Fassungen, Datenraumunterlagen und Beschlüsse werden ohne Vorfrage gelesen und auf Risikozuweisung, Kompetenz, Parameter und Abhängigkeiten bezogen. Erst wenn wirklich kein verwertbares Material vorliegt, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert; Tabellen werden nur für echte Vergleiche, Nachweise, Berechnungen oder Varianten verwendet.
-
-Selbstcheck vor Ausgabe: Sind Vertragsstand, Entscheidungskompetenz, Verhandlungstermin und Vollzugszeitpunkt benannt? Sind wirtschaftliches Ziel, Rechtswirkung, Risikozuweisung und Vollzug deckungsgleich? Sind offene Punkte, Fassungsvarianten und Gremienfreigaben sichtbar?
-
-## 13. Qualitätskontrolle und Abschluss
-
-Zum Abschluss wird das Ergebnis auf widersprüchliche Definitionen, offene Parameter, unklare Risikozuweisung, fehlende Kompetenz, unerfüllbare Frist und lückenhaften Vollzug geprüft. Besonders zu kontrollieren ist in diesem Gebiet: Welche Zustimmung, Übertragung, Sicherung und Kommunikation ist für den Vollzug erforderlich. Danach folgt eine knappe Anschlussliste: entscheiden, redlinen, beschließen, nachfordern, vollziehen oder als offenen Punkt ausweisen.
-
-## 14. Musterbausteine
-
-- Systemmatrix: Zusage, Rechtsgrund, Personenkreis, Durchführungsweg, Finanzierung, Leistung, Anpassung, PSV, Bilanz und Änderungsrecht.
-- Besitzstandsvergleich: Person, Stichtag, Altleistung, Neuleistung, erdienter Teilbetrag, erdiente Dynamik, künftiger Zuwachs und Rechtfertigungsgrund.
-- Entscheidungsvorlage: Zielbild, Optionen, Arbeitnehmerwirkung, Kosten, Bilanz, Steuer, Mitbestimmung, Vollzug, Risiko und Empfehlung.
-
-## 15. Fachliche Entscheidungslandkarte
-
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
-
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation | Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen. | Akten- und Belegmatrix zu CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil. |
-| Governance und Anpassungsmechanismen — Pension Committee Charter und Paragraf 16 BetrAVG | BAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie. Paragraf 16 BetrAVG (Anpassungsprüfungspflicht; Ermessen; wirtschaftliche Lage). | Kontrollvermerk zu Governance und Anpassungsmechanismen — Pension Committee Charter und Paragraf 16 BetrAVG mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist. |
-| Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen | BAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie. | Entwurfsbaustein zu Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante. |
-| Country-by-Country Benefits-Matrix für Konzerne | Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen. | Entwurfsbaustein zu Country-by-Country Benefits-Matrix für Konzerne mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-| Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive | Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung | Abgrenzung: nicht steuerliche Behandlung Paragraf 6a EStG. Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen. | Entwurfsbaustein zu Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante. |
-| Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen | BAV-Problem: Paragrafen 1 17 BetrAVG, Paragrafen 77 87 BetrVG. bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte | Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßigkeit. bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Internationale Harmonisierung Konzern-BAV | Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen. | Entwurfsbaustein zu Internationale Harmonisierung Konzern-BAV mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-
-## 16. Fachspezifische Praxisrouten
-
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
-
-### 16.1. CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation
-
-Bearbeitungsauftrag: Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen. bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie. HGB Paragraf 246 Absatz 2 S. 2 (Saldierungsgebot: Deckungsvermögen gegen Pensionsrückstellungen bei Zweckbindung und Insolvenzschutz).
-Lieferstück: Akten- und Belegmatrix zu CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
-
-### 16.2. Governance und Anpassungsmechanismen — Pension Committee Charter und Paragraf 16 BetrAVG
-
-Bearbeitungsauftrag: BAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie. Paragraf 16 BetrAVG (Anpassungsprüfungspflicht; Ermessen; wirtschaftliche Lage). Paragraf 1 BetrAVG (Begriffe; Versorgungszusagen).
-Lieferstück: Kontrollvermerk zu Governance und Anpassungsmechanismen — Pension Committee Charter und Paragraf 16 BetrAVG mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
-
-### 16.3. Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen
-
-Bearbeitungsauftrag: BAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie. Paragrafen 1b, 2 BetrAVG (Unverfallbarkeit, m/n-tel-Berechnung — Grundlage für Besitzstand). Paragraf 16 BetrAVG (Anpassungspflicht — bleibt auch nach Systemwechsel bestehen).
-Lieferstück: Entwurfsbaustein zu Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.4. Country-by-Country Benefits-Matrix für Konzerne
-
-Bearbeitungsauftrag: Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen. bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie. Je Land — kurze Übersicht (Details je Skill internationale-harmonisierung-konzern-bav und japan-bav-und-corporate-pension-iorp).
-Lieferstück: Entwurfsbaustein zu Country-by-Country Benefits-Matrix für Konzerne mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.5. Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive
-
-Bearbeitungsauftrag: Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen. bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie. 確定給付企業年金法 (Kakutei-kyuufu kigyou nenkin-hoo — DB Corporate Pension Law, 2001): Gesetz über Defined Benefit-Unternehmensrenten.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.6. Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung
-
-Bearbeitungsauftrag: Abgrenzung: nicht steuerliche Behandlung Paragraf 6a EStG. Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen. bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
-Normbezug aus dem Fachmaterial: Abgrenzung: nicht steuerliche Behandlung Paragraf 6a EStG.
-Lieferstück: Entwurfsbaustein zu Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.7. Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen
-
-Bearbeitungsauftrag: BAV-Problem: Paragrafen 1 17 BetrAVG, Paragrafen 77 87 BetrVG. bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie. Paragrafen 1–30g BetrAVG (vollständig relevant).
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.8. Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte
-
-Bearbeitungsauftrag: Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßigkeit. bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie. Paragrafen 1, 2, 16 BetrAVG (Unverfallbarkeit, Berechnung, Anpassung).
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.9. Internationale Harmonisierung Konzern-BAV
-
-Bearbeitungsauftrag: Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen. bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie. IORP II (EU-Richtlinie 2016/2341/EU) — Einrichtungen der betrieblichen Altersversorgung, insb.
-Lieferstück: Entwurfsbaustein zu Internationale Harmonisierung Konzern-BAV mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.10. Mitbestimmung — Betriebsrat und Einigungsstelle bei BAV
-
-Bearbeitungsauftrag: Prüfraster: Mitbestimmungstatbestände, Informationspflichten, Einigungsstelle. Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen. bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
-Lieferstück: Verhandlungsblatt zu Mitbestimmung — Betriebsrat und Einigungsstelle bei BAV mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
-
-### 16.11. Pension Buyout Strukturierung und De-Risking
-
-Bearbeitungsauftrag: Prüfraster: Buyout-Voraussetzungen, Versicherungslösungen, Bilanzbereinigung. Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen. bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
-Lieferstück: Entwurfsbaustein zu Pension Buyout Strukturierung und De-Risking mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.12. Expatriate-Pensionsplanung und Totalization
-
-Bearbeitungsauftrag: Abgrenzung: nicht nationaler Durchführungsweg. Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen. bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
-Lieferstück: Entwurfsbaustein zu Expatriate-Pensionsplanung und Totalization mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
+Nutze verfügbare Unterlagen und Werkzeuge und benenne ungelesene Dokumente, ohne vollständige Quellen- oder Rechenprüfung vorzutäuschen. Bei technischem Hindernis liefere den bearbeitbaren Text und setze nach Behebung am offenen Punkt fort; erfinde keine Exporte oder Dateilinks. Formatiere Enddokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung und halte einen nötigen Exporthinweis außerhalb des Empfängertextes.

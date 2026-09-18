@@ -3,46 +3,41 @@ name: kaltstart-bussgeldverfahren
 description: "Für Kaltstart Bussgeldverfahren: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Kaltstart Bussgeldverfahren
+# 1. Vom Bußgeldbescheid zur bestellten Verteidigung
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Zweck
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Bearbeite den konkreten Bußgeldvorgang bis zum bestellten Einspruch, Vermerk oder Begründungsschreiben. Trenne fristgebundene Schritte und Tatsacheneinlassung.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+## 1.2. Eingaben
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Lies Bescheid oder Anhörung, Zustellnachweis, Auftrag und vorhandene Aktenauszüge. Übernimm bekannte Angaben zu Person, Unternehmen, Behörde, Tatzeit und Vorwurf. Bei einer gerichtlichen Entscheidung prüfe stattdessen den passenden Rechtsmittelweg.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.3. Ablauf
 
-## Normenanker
+1. Bestimme Verfahrensstufe, Adressat und Frist. Fehlt das Zustelldatum, frage nach Umschlag oder Empfangsnachweis; stelle unabhängig davon den eindeutig zuordenbaren Entwurf her.
+2. Prüfe Tatbestand und Belege. Bei Unterlassen kläre Pflicht und Handlungsmöglichkeit, bei Unternehmensbezug konkrete Verantwortlichkeit und gegebenenfalls Verbandsgeldbuße.
+3. Fordere fehlende Akteninformationen gezielt an. Messdaten sind nur bei passendem Messvorwurf erforderlich; bei Gewerbe-, Datenschutz-, Umwelt-, Tier- oder Zollvorwürfen bestimmt die Spezialnorm den Belegbedarf.
+4. Nach Akteneingang aktualisiere Tatbewertung, Verjährungsrechnung und Sanktionsprüfung und formuliere das bestellte Dokument vollständig aus.
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Unterscheide Geldbuße, Einziehung, Nebenfolgen, Einstellung und Verwarnung. Rechne nicht denselben wirtschaftlichen Vorteil mehrfach an. Bei Abgabe an Staatsanwaltschaft oder Gericht bestimme den tatsächlichen Verfahrensgrund; unterstelle keine bereits erfolgte Abgabe.
 
-- `§ 1 OWiG` — Begriff der Ordnungswidrigkeit.
-- `§ 8 OWiG` — Begehen durch Unterlassen.
-- `§ 9 OWiG` — Handeln für einen anderen.
-- `§ 17 OWiG` — Höhe der Geldbusse.
-- `§ 30 OWiG` — Verbandsgeldbusse.
-- `§ 31 OWiG` — Verjährung.
-- `§ 47 OWiG` — Opportunitaetsprinzip.
-- `§ 55 OWiG` — Anhörung des Betroffenen.
-- `§ 66 OWiG` — Inhalt des Bussgeldbescheids.
-- `§ 67 OWiG` — Einspruch.
+## 1.4. Quellenpflicht
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- OWiG, StPO-Verweisung, Bußgeldbescheid, Einspruch, Verjährung
-- Verbandsgeldbuße, Einziehung, Opportunität, Verwarnung
-- Amtsgericht, Staatsanwaltschaft, Rechtsbeschwerde
-- Spezialmaterien: Verkehr, Datenschutz, Gewerbe, Umwelt, Tier, Zoll
+Prüfe insbesondere Paragrafen 1, 8, 9, 17, 30, 31 bis 33, 47, 55, 66 und 67 OWiG sowie einschlägige StPO-Verweisungen und Spezialrecht. Rechtsbeschwerde ist nach den dafür geltenden Voraussetzungen gesondert zu behandeln.
 
-## Prüfroutine
+Verifiziere tragende Aussagen anhand amtlicher Quellen. Entscheidungen benötigen Gericht, Datum, Aktenzeichen und überprüften Aussageumfang; keine ungelesenen Datenbank- oder Literaturzitate. Beachte references/zitierweise.md, soweit verfügbar.
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## 1.5. Ergebnis und Fortsetzung
+
+Liefere nur die bestellte Ausgabe in vollständigen Sätzen, nicht automatisch mehrere Eskalationswege oder ein bloßes Textgerüst. Bei einem Beratungsauftrag ist ein ungefragter Rechtsbehelfsentwurf nicht erforderlich. Nutzerseitige Dateinamen haben Vorrang; ergebnis.md ist ein möglicher Standard.
+
+Bei einer entscheidenden Lücke liefere belegbare Teile vorläufig und stelle die benötigte Frage. Nach Antwort arbeite am vorhandenen Entwurf weiter; weitere kurze Fragen sind zulässig, wenn neue entscheidende Unklarheiten entstehen. Behauptungen bleiben von nachgewiesenen Tatsachen getrennt.
+
+Zusätzliche Recherchevermerke gehören nicht in den Mandantenbrief. Formatierte Dokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung. Externe Erklärungen, Einreichung, Rücknahme oder Beschränkung benötigen ausdrückliche Freigabe.
+
+Optionale Fachskills können ergänzen. Ohne Zugriff fordere die benötigte Passage an; ohne Export liefere Text und behaupte keinen erfolgreichen Versand.
+
+## 1.6. Beispiel
+
+Der Einspruch soll fristwahrend vorbereitet werden, die Ermittlungsakte fehlt noch. Erstelle nach Prüfung von Bescheid und Zustellung den Einspruch ohne ungefragte Sachverhaltseinlassung. Wird anschließend eine Begründung bestellt und die Akte vorgelegt, prüfe deren Belege und liefere die ausformulierte Begründung statt einer bloßen Aktenzusammenfassung.

@@ -6,21 +6,19 @@ Untersuche das Schutzrechtsportfolio oder den Konflikt um Marke, Patent, Design,
 
 Prüfe Anspruchsgrundlage, Registerlage, Priorität, Rechtsbestand, Verletzung, Eilrechtsschutz, Lizenz und parallele Verfahren anhand der vorhandenen Unterlagen. Bearbeite je nach Auftrag DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnungen einschließlich Versand und Reaktion, Open-Source-Compliance, Prüfung von IP-Klauseln und Schutzrechtsfristen. Führe die Befunde im angeforderten Entwurf oder Vermerk zusammen.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Gewerblicher Rechtsschutz insbesondere die vorgelegten Urkunden, Bescheide und Korrespondenz, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Trenne belegte Nutzung, Parteibehauptung und offenen Register- oder Lizenznachweis. Bestimme Darlegungs- und Beweislast nach dem jeweiligen Schutzrecht, Merkmal und einschlägigen Vermutungen; die verkürzten Merksätze der Übersichten ersetzen diese Prüfung nicht. Interne Zwischenprüfungen verlangen keine gesonderten Ausgaben. Entscheidend bleibt das bestellte Gutachten, Schreiben oder die Vertragsfassung.
 
-Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
+### 1.1. Auftrag, Schutzrecht und Handlung bestimmen
 
-### 1.1. Arbeitsmodus: schnell und belastbar
+Lies Auftrag, Schutzrechtsunterlagen, Registerauszüge, Lizenzen und die konkret angegriffene Nutzung. Übernimm bereits geklärte Rolle und Ziele. Bei fehlendem Produktmerkmal fordere Zeichnung, Muster oder technische Beschreibung an; beim Parallelimport den Beleg zum Erstvertrieb der konkreten Charge. Ein Gutachten zur Nutzungsmöglichkeit oder eine Vertragsprüfung führt nicht ungefragt zu Abmahnung oder Klage.
 
-Ohne konkreten Ausgabeauftrag beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt erstellen. Vorhandene Dokumente gezielt lesen und Belegstellen bilden; nur nachfragen, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.
-
-Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+Ordne neue Antworten der betroffenen Handlung zu und aktualisiere Merkmalsvergleich, Rechtekette, Erschöpfungsprüfung oder Klausel. Zeigt sich dabei ein weiterer entscheidender Widerspruch, kläre ihn gezielt, ohne beantwortete Fragen zu wiederholen. Die Vollständigkeit der Dateien ersetzt nicht die Prüfung von Rechtsbestand und Verletzung. Übersichten dienen der Begründung, nicht als Pflichtausgabe für jeden internen Prüfschritt.
 
 ### 1.2. Ausgabeformate für schnelle Lieferung
 
 | Bedarf | Sofortausgabe | Qualitätsgriff |
 | --- | --- | --- |
-| Frist- oder Eilfall: Eilrechtsschutz wird erwogen | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Schutzrecht, Inhaber, Registerstand oder konkrete Verletzungsform ist nicht identifiziert; vor Fortsetzung klären |
+| Eilrechtsschutz wird erwogen | Beauftragter Sicherungsentwurf mit Fristprüfung | Fehlenden Register- oder Verletzungsnachweis gezielt klären; unabhängige Teile weiterbearbeiten |
 | Tragendes Arbeitsprodukt | Arbeitsprodukt: Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unterlassungserklärung, Antrag, Erwiderung, Vergleich oder Lizenz erstellen | jede Tatsache bekommt Beleg oder Lückenmarke |
 | Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welches Schutzrecht oder Lauterkeitsrecht trägt welchen Antrag |
 | Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Anspruchsteller für Schutzrecht, Rechtekette, Verletzung und Dringlichkeit; Gegner für Rechtsbestand, Lizenz, Erschöpfung, Verfall oder sonstige Einrede |
@@ -29,7 +27,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 | Zwischenstation 2 | Arbeitsstand mit Belegstelle | Verletzung und Beweis: konkrete Handlung, Merkmals- oder Zeichenvergleich, Kenntnis, Beweissicherung und Geheimnisschutz verbinden |
 | Adressatenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko, Kostenfolge und nächsten Schritt getrennt ausweisen |
 
-### 1.3. Rückfragenbremse
+### 1.3. Belege und weitere Klärung
 
 1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Welches Schutzrecht oder Lauterkeitsrecht trägt welchen Antrag“ aus; frage erst danach gezielt nach.
 2. Der Engpass dieses Gebiets hat Vorrang: Schutzrecht, Inhaber, Registerstand oder konkrete Verletzungsform ist nicht identifiziert.
@@ -45,12 +43,12 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Rechtsfolgensatz: Daraus folgt Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz.
 - Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg oder Norm]. Risiko: [niedrig/mittel/hoch].
 - Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg bleibt die Leitfrage „Welches Schutzrecht oder Lauterkeitsrecht trägt welchen Antrag“ offen.
-## 2. Stop-Kriterien
+## 2. Grenzen der Bewertung
 
-- Schutzrecht, Inhaber, Registerstand oder konkrete Verletzungsform ist nicht identifiziert.
-- Eilrechtsschutz wird erwogen, ohne Dringlichkeit und Rechtsbestand getrennt zu prüfen.
-- Mehrere Schutzrechte werden in einem Antrag vermischt, ohne Tatbestand und Rechtsfolge einzeln auszuweisen.
-- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Bei unklarem Schutzrecht, Inhaber, Registerstand oder Verletzungsform den konkret fehlenden Nachweis anfordern und davon unabhängige Fragen vorläufig bearbeiten.
+- Bei Eilrechtsschutz Dringlichkeit und Rechtsbestand getrennt prüfen.
+- Mehrere Schutzrechte nicht ohne getrennte Zuordnung von Tatbestand und Rechtsfolge in einem Antrag vermischen.
+- Unklare Identität, Vollmacht, Frist oder Verfahrenslage gezielt klären; nicht mit einer bloßen Lückenliste abschließen.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
@@ -100,7 +98,7 @@ Arbeitsgriff Arbeitsprodukt: Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unter
 
 - Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz
-- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
+- Quellenstatus und interne Recherchehinweise gesondert vom Empfängertext dokumentieren; tragende Nachweise im Gutachten oder Schriftsatz passend belegen.
 
 ## 7. Pflichtnormen als Kernsätze
 
@@ -136,12 +134,12 @@ Arbeitsgriff Arbeitsprodukt: Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unter
 
 10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz.
 10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind MarkenG Paragraf 14, PatG Paragraf 139 und DesignG Paragraf 42; UWG Paragraf 3, Paragraf 4 und Paragraf 8.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Ordnungsmittelantrag (Paragraf 890 ZPO) nach Unterlassungstitel.
+10.3. Beginne mit der entscheidenden Voraussetzung des konkreten Auftrags: etwa territorialer Reichweite, technischem Merkmal oder Zeichenvergleich. Ein Ordnungsmittelantrag nach Paragraf 890 ZPO setzt einen entsprechenden Auftrag und die Prüfung des bestehenden Titels voraus.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Gewerblicher Rechtsschutz tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Anspruchsteller für Schutzrecht, Rechtekette, Verletzung und Dringlichkeit; Gegner für Rechtsbestand, Lizenz, Erschöpfung, Verfall oder sonstige Einrede. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei wer ist aktiv- und passivlegitimiert und welche Rechtekette ist belegt an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Ordnungsmittelantrag (Paragraf 890 ZPO) nach Unterlassungstitel, Urheberrechtliche Abmahnung – Paragraf 97a UrhG, Notice-and-Take-Down / Meldeverfahren, Verfügungs-Versandmappe endfertigen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Ergebnis: Schreibe das bestellte Dokument fertig. Eine Fragenliste ist nur ein Zwischenschritt bei entscheidender Lücke; nach Antwort gezielt fortsetzen. Verwende den gewünschten Dateinamen, sonst `ergebnis.md`. Gerichtliche Entscheidungsentwürfe nur bei entsprechendem Rollenauftrag erstellen.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -156,13 +154,13 @@ Arbeitsgriff Arbeitsprodukt: Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unter
 
 ## 12. Arbeitsweise
 
-Arbeite zuerst aktennah, dann normnah, dann produktnah. Liegen Unterlagen vor, werden sie ohne Vorfrage gelesen und mit Fundstelle verarbeitet; im Bereich Gewerblicher Rechtsschutz sind das vor allem die vorgelegten Urkunden, Bescheide und Korrespondenz. Erst wenn wirklich kein verwertbares Material vorliegt, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert; Tabellen werden nur für echte Vergleiche, Nachweise, Berechnungen oder Varianten verwendet.
+Lies die erforderlichen Schutzrechts- und Nutzungsbelege vor Rückfragen. Wird eine Lizenz nachgereicht, prüfe Gebiet, Nutzungsart und Verfolgungsbefugnis neu; wird eine andere Produktfassung gezeigt, ändere den betroffenen Merkmalsvergleich. Kläre neue entscheidende Lücken gezielt. Ein Registerauszug beweist keine Verletzung und ein vollständiges Produktfoto nicht zwingend dessen technische Eigenschaften. Tabellen nur für erforderliche Vergleiche, Nachweise oder Berechnungen verwenden.
 
 Selbstcheck vor Ausgabe: Ist die maßgebliche Frist mit Beginn, Lauf und Ende benannt? Ist die Form geklärt? Ist die Rechtsfolge aus einer Norm abgeleitet und auf Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz bezogen? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
 ## 13. Qualitätskontrolle und Abschluss
 
-Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Besonders zu kontrollieren ist in diesem Gebiet: Welche Verfahrensreihenfolge schützt Frist, Beweis und Verhandlungsposition. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
+Kontrolliere Schutzgegenstand, konkrete Nutzungsform, Reichweite des Begehrens, Fristen, Belege und Ton. Liefere das bestellte Gutachten, Schreiben oder die Vertragsfassung vollständig ausformuliert. Bei einem Hindernis den tragfähigen Teil und den konkret benötigten Beitrag nennen; nach dessen Eingang die betroffene Begründung aktualisieren und fertigschreiben. Auch im Nachforderungsbrief keine ungesicherte Nutzung behaupten. Einreichung, Erklärung, Zahlung oder Löschung nur nach ausdrücklicher Freigabe.
 
 ## 14. Musterbausteine
 
@@ -192,7 +190,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 ### 16.1. Ordnungsmittelantrag (Paragraf 890 ZPO) nach Unterlassungstitel
 
-Bearbeitungsauftrag: Bearbeite Ordnungsmittelantrag (Paragraf 890 ZPO) nach Unterlassungstitel: schutzrecht, Inhaber, Priorität, Registerstand, Verletzung, Beweis, Eilbedarf und parallele Anspruchsgrundlagen getrennt prüfen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
+Prüfe den bestehenden Unterlassungstitel, seine Reichweite und den konkret behaupteten neuen Verstoß. Ordne Handlung und Zeitpunkt dem Titel zu und fordere fehlende Zustellungs- oder Verstoßnachweise gezielt an. Formuliere den bestellten Ordnungsmittelantrag oder die Erwiderung; keine Vertragsklausel als Ersatz.
 Prüfschritte: Paragraf 890 Absatz 1 ZPO – Vollstreckung eines Unterlassungsurteils durch Ordnungsgeld (bis 250.000 EUR) oder Ordnungshaft (bis sechs Monate pro Verstoß); Paragraf 890 Absatz 2 ZPO – Androhungsgebot: Ordnungsmittel dürfen nur vollstreckt werden, wenn sie vorab angedroht wurden; Paragraf 891 ZPO – Verfahren bei Ordnungsmittelantrag: Antrag des Gläubigers, rechtliches Gehör des Schuldners, Beschluss des Vollstreckungsgerichts; Paragraf 928 ZPO – Anwendbarkeit der allgemeinen Vollstreckungsvorschriften auf EV; Paragraf 936 ZPO – Anwendbarkeit der Arrestvorschriften.
 Normbezug aus dem Fachmaterial: Paragraf 890 Absatz 1 ZPO – Vollstreckung eines Unterlassungsurteils durch Ordnungsgeld (bis 250.000 EUR) oder Ordnungshaft (bis sechs Monate pro Verstoß).
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
@@ -206,8 +204,8 @@ Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgru
 
 ### 16.3. Notice-and-Take-Down / Meldeverfahren
 
-Bearbeitungsauftrag: (kein Argument) → fragen: "Sollen wir eine Meldung senden, auf eine eingegangene reagieren oder eine Gegenvorstellung formulieren?" Haftung des Hostproviders / Vermittlerdienstleister:. Paragraf 10 DDG / Paragraf 10 TMG — Haftungsprivileg für Hostprovider: Haftung erst bei Kenntnis und Nichtentfernen nach Hinweis (Notice-and-Take-Down-Mechanismus). Artikel 16 DSA (Digital Services Act, EU 2022/2065) — Meldeverfahren für Plattformen mit mehr als 45 Mio.
-Prüfschritte: Senden + Kontext oder Pfad zur Meldungsunterlage; --reagieren + Pfad zur oder eingefügte eingegangene Meldung; Paragraf 7 Absatz 1 DDG / Paragraf 7 Absatz 1 TMG (Paragraf 10 TMG a.F.) — Kein Hostprovider ist verpflichtet, gespeicherte Inhalte zu überwachen; erst nach Kenntnis von konkreter Rechtsverletzung entsteht Handlungspflicht (Reaktionspflicht nach BGH-Rspr.).
+Entnimm der Akte, ob eine Meldung, Antwort oder Gegenvorstellung bestellt ist; frage nur bei offenem Ziel. Prüfe Dienstekategorie, konkrete Veröffentlichung, Rechtebeleg und Kenntnisstand. Bestimme den Anwendungsbereich von Artikel 16 DSA anhand der aktuellen amtlichen Fassung, statt ihn ungeprüft auf sehr große Plattformen zu beschränken.
+Haftungsprivileg, Überwachungspflichten und Reaktionspflicht anhand des zeitlich anwendbaren DSA und DDG prüfen. Historische TMG-Verweise nicht durch bloßen Austausch der Gesetzesabkürzung fortschreiben. Nachgereichte URL, Rechtekette oder Meldungsantwort in die betroffene Begründung einarbeiten und den bestellten Text fertigstellen; Versand nur nach Freigabe.
 Lieferstück: Fachvotum zu Notice-and-Take-Down / Meldeverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Verfügungs-Versandmappe endfertigen
@@ -218,7 +216,7 @@ Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streit
 
 ### 16.5. GewR: Einstweilige Verfügung – Eilverfahren Spezial
 
-Bearbeitungsauftrag: Bearbeite GewR: Einstweilige Verfügung – Eilverfahren Spezial: schutzrecht, Inhaber, Priorität, Registerstand, Verletzung, Beweis, Eilbedarf und parallele Anspruchsgrundlagen getrennt prüfen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
+Prüfe Schutzrecht, konkrete Verletzungsform und Eilbedarf getrennt. Verfasse für die beauftragte Partei den Verfügungsantrag, die Schutzschrift oder Erwiderung mit konkretem Begehren und Glaubhaftmachung. Einen gerichtlichen Entscheidungsentwurf nur bei entsprechendem Rollen- und Ausgabeauftrag erstellen.
 Prüfschritte: Paragrafen 935, 940 ZPO – Verfügungsanspruch und Verfügungsgrund als Doppelvoraussetzung der einstweiligen Verfügung; Paragraf 937 Absatz 2 ZPO – Beschlussverfügung ohne mündliche Verhandlung bei Dringlichkeit; Paragraf 920 ZPO – Glaubhaftmachung; eidesstattliche Versicherung als zentrales Beweismittel; Paragraf 938 ZPO – Ermessen des Gerichts bei Ausgestaltung des Tenors.
 Normbezug aus dem Fachmaterial: Paragrafen 935, 940 ZPO – Verfügungsanspruch und Verfügungsgrund als Doppelvoraussetzung der einstweiligen Verfügung; Paragraf 937 Absatz 2 ZPO – Beschlussverfügung ohne mündliche Verhandlung bei Dringlichkeit; Paragraf 920 ZPO – Glaubhaftmachung.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
@@ -242,8 +240,8 @@ Lieferstück: Fachvotum zu Freedom – Schriftsatz, Brief und Memo-Bausteine mit
 
 ### 16.9. Anmeldung – Behörden, Gerichte und Registerwege
 
-Bearbeitungsauftrag: Formular D/A 95xx (Markenanmeldung), D/P 1000 (Patentanmeldung), D/GM 50xx (Gebrauchsmuster). Sitz: Alicante, Spanien Website: euipo.europa.eu Verfahrenssprache: Eine der fünf EUIPO-Sprachen (Deutsch möglich); zweite Sprache wird automatisch festgelegt. Sitz: München (Haupt), Den Haag, Berlin, Wien Website: epo.org Besonderheit: EP-Patent muss nach Erteilung in Nationalstaaten validiert werden; Fristen und Kosten je Land unterschiedlich.
-Prüfschritte: Sitz: München (Haupt), Jena und Berlin (Zweigstellen) Website: dpma.de Wichtige Formulare:; Elektronische Einreichung bevorzugt; DPMA bietet dpmaregister.dpma.de als Einreichungsportal.
+Bestimme Schutzrecht, territoriales Ziel und zuständiges Amt. Prüfe aktuelle Formulare und Sprachwahl unmittelbar bei DPMA, EUIPO oder EPA; insbesondere die zweite EUIPO-Sprache nicht als automatisch festgelegt voraussetzen. Bei europäischem Patent die gewählte Schutzwirkung, erforderliche nationale Schritte, Fristen und Kosten gesondert klären.
+DPMAregister dient der Registerrecherche. Nach den [amtlichen Anmeldeinformationen](https://www.dpma.de/service/elektronische_anmeldung/index.html) stehen DPMAdirektPro und DPMAdirektWeb je nach Schutzrecht und Verfahren zur Verfügung; Voraussetzungen und Geheimschutz vor der Wahl des Übermittlungswegs prüfen. Keine Anmeldung als erfolgt darstellen, solange nur der Entwurf vorliegt.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
 ### 16.10. Klausel – Beweislast und Darlegungslast im IP-Recht
@@ -258,7 +256,9 @@ Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkei
 
 ### 16.12. Mehrparteien-Konstellationen und Interessenkonflikte
 
-Bearbeitungsauftrag: Ausschließlicher Lizenznehmer hat eigenes Klagerecht, wenn Lizenz entsprechende Klausel enthält (Paragraf 30 Absatz 3 MarkenG). [ ] Art der Lizenz: Ausschließlich oder nicht ausschließlich? [ ] Lizenzvertrag: Regelung zur Verletzungsverfolgung vorhanden?
-Prüfschritte: Szenario: Markeninhaber hat exklusive Lizenz an Unternehmen B vergeben; Nicht-ausschließlicher Lizenznehmer: Kein eigenständiges Klagerecht; muss Markeninhaber zur Klageerhebung auffordern; Problem: Wenn Lizenznehmer klagt, muss Markeninhaber häufig als Partei beigeladen werden; Abstimmung Markeninhaber / Lizenznehmer vor Klageerhebung.
-Normbezug aus dem Fachmaterial: Rechtslage:; Ausschließlicher Lizenznehmer hat eigenes Klagerecht, wenn Lizenz entsprechende Klausel enthält (Paragraf 30 Absatz 3 MarkenG).
-Lieferstück: Fachvotum zu Mehrparteien-Konstellationen und Interessenkonflikte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Lies Lizenzvertrag und Korrespondenz: Ist die Lizenz ausschließlich, welche Verfolgungsbefugnis ist vereinbart und liegt eine Zustimmung oder Aufforderung an den Inhaber vor? Prüfe Klagebefugnis und Beteiligungsmöglichkeiten anhand von Paragraf 30 MarkenG in aktueller amtlicher Fassung. Weder jede ausschließliche Lizenz noch jede fehlende Vertragsklausel entscheidet diese Frage allein; keine pauschale Beiladungspflicht behaupten.
+Ergebnis: Die bestellte Bewertung der Verfolgungsbefugnis und Abstimmung zwischen Inhaber und Lizenznehmer; bei Schreibauftrag die benötigte Anfrage oder Vereinbarung ausformulieren, ohne eine ungeklärte Zustimmung als erteilt darzustellen.
+
+## 17. Technische Grenzen
+
+Ohne Register-, Datei- oder Quellenzugriff die konkrete Lücke benennen und mit zugänglichen Belegen weiterarbeiten; keine ungelesenen Unterlagen als geprüft ausgeben. Fehlende Zusatzskills verhindern die Bearbeitung hier nicht. Bei Exportfehlern Text statt erfundener Dateilinks liefern und erfolglose Abrufe nicht unverändert wiederholen.

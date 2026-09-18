@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "methodenlehre-buergerliches-recht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__133.html",
@@ -20,13 +20,22 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Der vollständig gelesene Mini war auf Klausuraufbau verengt und enthielt sachfremde Verjährungs- und Zuständigkeitsanker. Der Vertragsauslegungsskill bietet konkrete Gegenlesarten, aber auch unbelegte kaufmännische Pauschalen.",
+    "verdict": "retained",
+    "reason": "Mini vollständig gelesen: Er trennt Tatsachenfeststellung, Vertrags- und Gesetzesauslegung und unterscheidet Nachforderungen im Mandat vom abgeschlossenen Übungssachverhalt. Fortsetzung und gewünschter Dateiname sind bereits klar. Keine neue Quellenverifikation oder Modellprüfung.",
     "changes": [
-      "Erklärungsauslegung, Gesetzesauslegung und Tatsachenfeststellung getrennt.",
-      "Methodenargumente an Text, Vorgeschichte und Gegenlesart gebunden."
+      "Konkrete Gegenlesarten, Textnachforderung und ausformuliertes Gesamtergebnis beibehalten."
     ],
-    "sha256": "f7c152192005a35c1889f9df72a00ea53feaa29f105ff15f037d83ee702c619d"
+    "sha256": "ca371fa1ca09149fdd19a4a883aff37de2dcd607da386fb22adb0fa27bba07f7"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig gelesen. Die allgemeine Nachfrageregel und der Abschluss mit einem Zwischenergebnis widersprachen teilweise der bereits guten Trennung von Ausbildungs- und Beratungsauftrag. Gezielte Korrektur statt erneuter Gesamtfassung; sonstige methodische Beispiele nicht neu rechtlich verifiziert.",
+    "changes": [
+      "Bei abgeschlossenen Übungssachverhalten auch im späteren Ablauf keine zusätzlichen Tatsachenfragen.",
+      "Knappe Bearbeitungszeit führt zur Ausformulierung der entscheidenden Teile, nicht zum Abbruch vor Fortsetzung.",
+      "Gesamtergebnis statt bloßem Redaktionsschritt; Rechtsfortbildung setzt begründeten Bedarf voraus."
+    ],
+    "sha256": "522d3a8768b87a401e72a6e31e9e5472906a1a5c9dda923ccc54a10eff683375"
   },
   "selection": {
     "positive": [

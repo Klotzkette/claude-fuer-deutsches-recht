@@ -3,169 +3,64 @@ name: kaltstart
 description: "Für Deal-Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
-# Deal-Kaltstart
+# 1. Unternehmenskauf aus den vorhandenen Unterlagen bearbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Auftrag und Dokumentstand
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Erarbeite für die vertretene Käufer-, Verkäufer- oder Zielgesellschaft die verlangte Vertragsprüfung, Klausel oder Entscheidungsvorlage. Lies Term Sheet, aktuelle Vertragsfassung, Datenraumbefunde und vorhandene Antworten zuerst, statt eine neue Mandatsaufnahme zu beginnen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Falls vorhanden, nutze den bestehenden Arbeitsbereich `~/.config/claude-fuer-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/` mit `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und Dokumentenlog. Ohne diesen Bereich mit den bereitgestellten Unterlagen weiterarbeiten. Nur offene Angaben zu Rolle, Zielgesellschaft, Transaktion, Zeitplan oder Ausgabe erfragen, soweit sie den nächsten fachlichen Schritt verändern.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Unterscheide Käufer- und Verkäuferseite, strategischen Erwerb und Finanzinvestor, privaten und öffentlichen Erwerb, Krisenerwerb und Ausgliederung. Materialitätsgrenzen, W&I-Annahmen, Budget, Zuständigkeiten und Freigaben aus den tatsächlichen Vorgaben entnehmen; fehlende Werte nicht durch vermeintliche Standards ersetzen.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2. Befund und Vertragsfolge
 
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Deal-Kaltstart` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+Ordne wesentliche Aussagen Dokument, Fassung, Datum und Datenraumfund zu. Trenne rechtlichen Befund, wirtschaftliche Bewertung und gewünschte Risikozuweisung. Interne Felder wie `deal_name`, `rolle`, `deal_phase`, `target`, `gegenpartei`, `jurisdiktionen`, `frist_oder_closing`, `materiality_threshold`, `owner` und `source_tag` dienen nur einer vorhandenen Aktenstruktur, nicht als Pflichtüberschriften im Mandantenbrief.
 
-## Fachkern: Deal-Kaltstart
-- **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
-- **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
+Bestimme, ob der Befund eine Garantie, konkrete Freistellung, Kaufpreisanpassung, Vollzugsbedingung oder spätere Integrationsmaßnahme verlangt. Prüfe Offenlegung, Wissensqualifikation, Haftungsgrenzen und Verjährung an der Vertragsfassung. Ein bloßer Datenraumverweis ersetzt keine hinreichend konkrete Offenlegung.
 
-## Wann wird dieser Skill aufgerufen
-Typische Auslöser:
-- "Ich habe hier Deal-Kaltstart und brauche einen belastbaren nächsten Schritt."
-- "Bitte prüfe das für einen Unternehmenskauf oder -verkauf aus Sicht von Käufer, Verkäufer oder Zielgesellschaft."
-- "Mach daraus eine kurze Mandantenunterlage mit Risiken, offenen Punkten und To-dos."
-- "Welche Dokumente, Registerauszüge, Freigaben oder Fristen fehlen noch?"
+Fehlt der Nachweis eines bekannten Risikos, stelle eine auf diesen Vertrag oder Betrag bezogene Frage. Nach der Antwort ändere Befund und Absicherung und formuliere die bestellte Klausel vollständig aus. Zeigt sich eine neue entscheidende Unklarheit, frage gezielt weiter; eine feste Zahl von Rückfragen gilt nicht.
 
-Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` oder `/mittelstand-corporate-ma:matter-file`. Wenn der Nutzer nur eine kurze Unternehmer-E-Mail will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
+## 1.3. Kompetenz und Vollzug
 
-## Voraussetzungen und Kontext laden
-Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
+Prüfe Gesellschaftsform, zuständiges Organ, Vertretung, Zustimmungsvorbehalte und die konkrete Satzungsregel. Informelle Absprachen zwischen Familie, Geschäftsleitung, Hausbank oder Beirat sind nicht automatisch rechtliche Freigaben. Organpflichten und Minderheitenposition nur für den betroffenen Entscheidungsschritt vertiefen; ARAG/Garmenbeck ist kein Universalanker.
 
-Benötigte Unterlagen:
-- Mandatsanfrage, Konfliktcheck, Rollenmatrix, Budget und Deal-Timeline.
-- Kommunikationskanäle, Vertraulichkeitsstufen, Review-Gates und Eskalationspfade.
-- Vorlagen für Deal-Karte, Workstream-Plan, Unternehmer-Statusbericht und Billing Narrative.
+Bei GmbH-Anteilen Form, Gesellschafterliste und Berechtigung nach Paragrafen 15, 16 und 40 GmbHG auseinanderhalten. Ein Vertragsentwurf belegt noch keine notarielle Unterzeichnung. Bei einer anderen gesellschaftsrechtlichen Maßnahme die tatsächlich einschlägige Form und Registerwirkung prüfen; alte pauschale Hinweise auf Paragraf 2 GmbHG oder HGB Paragrafen 29 bis 33 tragen nicht jede Transaktion.
 
-Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `gegenpartei`, `jurisdiktionen`, `frist_oder_closing`, `materiality_threshold`, `owner`, `source_tag`.
+Fehlt eine Bank-, Vermieter- oder Gremienzustimmung, benenne die betroffene Bedingung und den benötigten Nachweis. Nach Eingang prüfe dessen Reichweite und aktualisiere Vollzugsliste, Zeitplan und bestelltes Dokument. Die Eintragung „erledigt“ oder eine angekündigte Zahlung ersetzt keinen Erfüllungsbeleg.
 
-## Workflow
-1. **Deal-Kontext fixieren.** Bestimme Rolle, Phase, Transaktionsstruktur, Zielgesellschaft und Entscheidungsempfänger. Wenn Rolle oder Phase fehlen, frage genau eine Rückfrage; bei Fristdruck arbeite mit `[Annahme - prüfen]` weiter.
-2. **Quellen inventarisieren.** Liste alle Dokumente mit Datum, Version, Quelle, Datenraum-ID und Vertraulichkeitsstufe. Markiere Uploads als `[Mandant]`, öffentliche Register als `[Register]`, Gerichts-/Behördenquellen als `[Primärquelle]` und Modellwissen als `[Modellwissen - prüfen]`.
-3. **Mittelstandsrealität abbilden.** Prüfe, ob Gesellschafter, Geschäftsführung, Familie, Hausbank, Steuerberater, Notar oder Beirat faktisch mitentscheiden. Dokumentiere informelle Absprachen als Risiko, nicht als Rechtsgrundlage.
-4. **Materiality-Schwelle setzen.** Fehlt eine vertragliche Schwelle, arbeite mit pragmatischer Ampel: Dealbreaker, Kaufpreis-/Freistellungsfolge, Closing-Bedingung, Disclosure-only, Housekeeping.
-5. **Normenprüfung durchführen.** Prüfe die unten genannten Normgruppen bezogen auf den konkreten Deal-Schritt: Wirksamkeit, Zustimmung, Vollzugshindernis, Haftung, Offenlegung, Frist, Beweisquelle.
-6. **Belegkette bauen.** Jede wesentliche Aussage braucht Quelle, Dokument, Fundstelle und Unsicherheitsmarker. Keine Fundstelle erfinden. Wenn ein Registerauszug, eine BGH-/EuGH-Entscheidung oder Behördenpraxis nicht abrufbar ist, steht `[zu verifizieren]`.
-7. **Risikomatrix erstellen.** Gib pro Punkt aus: Sachverhalt, Rechtsfrage, Norm, Subsumtion, Risikoampel, wirtschaftliche Auswirkung, empfohlene Aktion, Owner, Deadline und Folge-Skill.
-8. **Draft oder Review-Gate wählen.** Wenn die Tatsachen reichen, liefere den gewünschten Output. Wenn nicht, liefere eine Information-Request-Liste oder ein kurzes Partner-/Mandantenmemo mit genau den offenen Entscheidungen.
-9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Mandantenmail, Notarcheckliste oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
-10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
+Fusionskontrolle, Investitionsprüfung, Kapitalmarktrecht, Sanktionen und branchenspezifische Genehmigungen nur bei konkretem Bezug prüfen. Bei Paragraf 41 GWB Zusammenschluss, Anwendungsbereich und Freigabestand feststellen; vertraglicher Verzicht beseitigt keine gesetzliche Vollzugsgrenze. Ungeklärte regulatorische Voraussetzungen hindern die betroffene Umsetzung, nicht jede interne Entwurfsarbeit.
 
-## Prüfraster im Gutachtenstil
-**Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite wirtschaftlich sinnvoll steuerbar ist.
+## 1.4. Mandats- und Informationsgrenzen
 
-**1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
+Mandatsannahme, Interessenwiderstreit, Verschwiegenheit und Vergütung anhand BRAO Paragrafen 43a und 49b sowie BORA Paragraf 3 prüfen. GwG Paragrafen 10 ff. nur im einschlägigen Anwendungsbereich anwenden. Beratungs- und Haftungsfragen nach BGB Paragrafen 675 und 280 sowie die im Altbestand genannte Einordnung nach Paragraf 611a BGB anhand des tatsächlichen Vertragsverhältnisses überprüfen, nicht pauschal zuordnen.
 
-**2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- BRAO § 43a, BORA § 3 und BRAO § 49b für Verschwiegenheit, Konflikt und Honorar.
-- GwG §§ 10 ff. für Mandatsannahme und wirtschaftlich Berechtigte.
-- DSGVO Art. 5, 6, 25 und 32 für Datenminimierung, Rollen und Sicherheit.
-- BGB §§ 611a, 675 und 280 für Beratungs- und Haftungsrahmen.
+Personenbezogene und vertrauliche Daten zweckgebunden verarbeiten; DSGVO Artikel 5, 6, 25 und 32 und vereinbarte Datenraumregeln beachten. Freigabe für KI-Werkzeuge, beschränkte Empfängerkreise, abgeschottete Prüfbereiche und gegebenenfalls Insiderlisten berücksichtigen. Unterlagen nicht ohne Berechtigung in andere Mandate übernehmen.
 
-**3. Organ- und Zuständigkeitsprüfung.** Nur wenn der konkrete Arbeitsschritt eine Organentscheidung vorbereitet, Zuständigkeit, Zustimmungsvorbehalte, Interessenkonflikte, Informationsgrundlage und Dokumentation prüfen. Der fachlich passende Haftungs- oder Board-Paper-Skill liefert die dafür einschlägige Rechtsprechung; ARAG/Garmenbeck ist kein Universalanker.
+Steuerliche, kartellrechtliche, sanktionsrechtliche oder ausländische Rechtsfragen nicht ohne erforderliche Spezialprüfung als abschließend gelöst ausgeben. Zuständigkeiten zwischen Recht, Steuern, Finanzierung und operativer Prüfung festhalten. Hohe Risiken und externe Weitergabe bleiben den vorgesehenen fachlichen Freigaben unterworfen; für jeden internen Rechenschritt ist keine neue Freigabe nötig.
 
-**4. Register- und Gesellschafterlistenlogik.** Nur bei GmbH-Anteilen, Einziehung, Vollmachtskette oder streitiger Legitimation Paragraf 16 und 40 GmbHG sowie Registerstand und materielle Berechtigung getrennt prüfen. Ohne solche Title- oder Legitimationsfrage diesen Prüfstrang auslassen.
+## 1.5. Bis zum bestellten Dokument weiterarbeiten
 
-**5. Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen, Bankzustimmung, Vermieterzustimmung oder branchenspezifische Genehmigungen berührt sind, muss das Ergebnis lauten: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld-, Nichtigkeits- oder Kündigungsfolge?
+Liefere die gewünschte Beratung, Vertragsfassung, Änderungskommentierung oder Gremienvorlage in vollständigen Sätzen. Eine kurze Unternehmer-E-Mail verlangt keine zusätzliche Prüfarchitektur. Eine Nachforderung ist ein Zwischenschritt: den belegten Teil vorläufig liefern und nach der Antwort die betroffenen Regelungen bis zur Endfassung fortführen.
 
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+Prüfe vor Abschluss Dokumentstand, Definitionen, Parameter, Befunde, Bedingungen, Termine und alle neuen Antworten. Offene rechtliche und tatsächliche Fragen getrennt benennen, keine falsche Vollzugsfreigabe. Bei gewollter Aktenpflege `history.md` und gegebenenfalls `fristen.yaml` entsprechend dem Auftrag aktualisieren; nicht ungefragt ein neues Mandatsprofil anlegen.
 
-**Zwischenergebnis:** Formuliere als Ampel: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet im Mittelstand regelmäßig: nicht unterschreiben, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner, Steuerteam oder Spezialist freigegeben hat.
+Der Nutzerdateiname geht vor; `ergebnis.md` ist nur ein Standard ohne Vorgabe. Interne Quellenstatus gehören in eine separate Arbeitsnotiz, nicht in den Empfängertext. Ausformulierte Dokumente verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Markdown als Exporthinweis. Keine bloßen Stichwortskelette und keine automatische Außenkommunikation, Zahlung oder Einreichung.
 
-## Output-Module
-- **Mandantenvermerk:** Kurzbild, Sachverhalt, Normen, Subsumtion, Risikoampel, Empfehlung.
-- **Issue List:** Finding, Quelle, Risiko, Vertragsfolge, Kaufpreis-/Freistellungsfolge, Owner, Deadline.
-- **Information Request:** konkrete Fragen an Mandant, Gegenseite, Steuerberater, Notar oder Datenraum-Team.
-- **Drafting-Anschluss:** Klauselvorschlag, Markup-Kommentar, Disclosure-Punkt, CP-Formulierung oder Mandantenmail.
-- **Matter-Update:** kurzer Eintrag für `history.md` und ggf. Frist-/Owner-Eintrag für `fristen.yaml`.
+## 1.6. Quellen und optionale Hilfen
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+Tragende Normen aus GmbHG, HGB, BGB, UmwG und je nach Transaktion WpÜG, GWB oder AWG amtlich prüfen. Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und tragender Passage verwenden; keine erfundenen Randnummern oder Blindzitate aus Kommentaren. `references/zitierweise.md` bei Zugriff beachten.
 
-## Quellen und Zitierregel
-Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Quellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und Link auf `dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu` oder `eur-lex.europa.eu`. Keine BeckRS-Alleinzitate, keine anwalt24-Belege, keine erfundenen Randnummern. Quellen-Tags: `[Mandant]`, `[Register]`, `[BGH-Datenbank]`, `[dejure.org]`, `[EUR-Lex]`, `[Web-Recherche - prüfen]`, `[Modellwissen - prüfen]`.
+Die folgenden vorhandenen Verweise sind optional und ersetzen nicht die Bearbeitung:
+- `/mittelstand-corporate-ma:deal-intake` für tatsächlich noch fehlende Mandatsdaten.
+- `/mittelstand-corporate-ma:matter-file` für beauftragte Aktenpflege.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` für konkurrierende Teilaufgaben.
+- `/mittelstand-corporate-ma:steps-plan-pmo` für den Transaktionszeitplan.
+- `/mittelstand-corporate-ma:mittelstand-corporate-ma-datenraum-aufbau` für konkrete Datenraum- und Zugangsfragen.
+- `assets/templates/deal-kaltstart-profil.md` und `assets/templates/authority-matrix.md` als anpassbare Vorlagen.
 
-## Hand-Off zu anderen Skills
-Nach diesem Skill weiter mit:
-- `/mittelstand-corporate-ma:deal-intake` - wenn das Mandatsprofil, Rollen, Fristen und Budget sauber aufgenommen werden müssen.
-- `/mittelstand-corporate-ma:matter-file` - wenn Deal-Karte, Workstreams, Fristen und Dokumentenlog in eine laufende Akte geschrieben werden sollen.
-- `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` - wenn mehrere Workstreams konkurrieren und der nächste Primärpfad neu bestimmt werden muss.
-- `/mittelstand-corporate-ma:steps-plan-pmo` - wenn Termine, CPs, Freigaben und Owner in einen belastbaren Transaktionsplan müssen.
-- `/mittelstand-corporate-ma:mittelstand-corporate-ma-datenraum-aufbau` - wenn Dokumente, Datenraumlücken oder Clean-Room-Fragen der nächste Engpass sind.
+## 1.7. Beispiel und Zugriff
 
-## Was dieser Arbeitsgang nicht macht
-- Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.
-- Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Datenraumteilnehmer oder Mandant aus.
-- Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
-- Er vermischt nicht DD-Finding, Vertragsrisiko und wirtschaftliche Bewertung; diese Ebenen bleiben getrennt.
-- Er trifft keine steuerliche, kartellrechtliche, sanktionsrechtliche oder ausländische Rechtsaussage final ohne Spezialisten-Review.
-- Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
+Bestätigt die Bank eine Zustimmung nur unter einer zusätzlichen Sicherheit, ist die ursprüngliche Bedingung nicht ohne Prüfung erfüllt. Kläre die verlangte Sicherheit, passe Vertrags- und Vollzugstext an und vollende die bestellte Mandanteninformation.
 
-## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
-
-## Bisheriger Skill-Kern, integriert und weiterzuverwenden
-
-### Deal-Kaltstart
-
-## Arbeitsmodus
-
-- Deal-Playbook abfragen: Buy-side/Sell-side, PE/Strategic, Private/Public, Distressed, Carve-out.
-- Standard-Schwellen erfassen: Materiality, red flag, escalation, W&I, board reporting.
-- Datenquellen erfassen: VDR, Excel, HRB, Bundesanzeiger, Kapitalmarkt, interne Präzedenzfälle.
-- Ergebnis als Deal-Profil ablegen.
-
-## Rote Schwellen
-
-- Keine Mandatsannahme oder Konfliktprüfung.
-- Keine Festlegung, welche Daten in KI-Werkzeuge dürfen.
-- Unklare Rollen zwischen Recht, Tax, Finance, ESG und Commercial.
-
-## Standardausgabe
-
-- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
-- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
-- Offene Punkte mit verantwortlicher Person, Frist und Eskalationsstufe.
-- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
-
-## Übergabe an andere Skills
-
-- Komplexe Eingänge zuerst an `mittelstand-corporate-ma-kommandocenter` zurückspielen.
-- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
-- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
-
-## Vorlagen
-
-- assets/templates/deal-kaltstart-profil.md
-- assets/templates/authority-matrix.md
-
-## Rechtliche Einbettung und Praxiswissen
-
-### Normen und Quellen im M&A-Kontext
-- § 43a BRAO — anwaltliche Sorgfaltspflichten: vollstaendige Mandatsfuehrung; Unterlassen kann Haftung ausloesen
-- §§ 675, 280 BGB — Beratungsvertrag und Schadensersatz: Anwalt haftet bei Pflichtverletzung; gilt auch für Organisation und Kommunikation
-- § 2 GmbHG; § 15 GmbHG — gesellschaftsrechtliche Grundlagen GmbH: relevant für alle Corporate-Mandate
-- §§ 29-33 HGB — Handelsregisterpublizitaet: Wissen über eintragungspflichtige Tatsachen wird konstruktiv zugerechnet
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### Qualitaetssicherung
-- Alle Ergebnisse: Human-in-the-loop bei High-Risk-Findings
-- Senior Review vor Weiterleitung an Mandant oder Gegenseite
-- Dokumentation: Datum, Bearbeiter, Version, Freigabe
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Bei fehlendem Datei- oder Quellenzugriff einen geeigneten anderen Weg versuchen und die verbleibende Lücke benennen. Ohne Export den ausformulierten Text liefern, keine erzeugte Datei oder vollständige Recherche behaupten.

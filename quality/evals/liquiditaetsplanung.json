@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "liquiditaetsplanung",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__17.html",
@@ -16,12 +16,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der gesamte Schnellstarter bot Datenraum- und Insolvenzschlagwörter statt fortgeschriebener Zahlungsrechnung; auch forecast-wochenplanung enthält hauptsächlich Auftragsklärung.",
+    "reason": "Vollständig gelesen: Bank- und Stundungsnachweise werden nicht mit verfügbarem Geld gleichgesetzt; die Antwort wird in die betroffenen Planwochen eingerechnet.",
     "changes": [
-      "Wochenfortschreibung, Kreditlinienabgrenzung und unterwöchige Fälligkeit ergänzt.",
-      "Stressfall und Maßnahmenfall mit konkretem Finanzierungsbedarf eingeführt."
+      "Finanzierungsanfrage und Vermerk werden nach bestätigten Bedingungen abgeschlossen; die 13-Wochen-Planung ersetzt keine Insolvenzprüfung."
     ],
-    "sha256": "1685959ac9de529291ac74e1b497b56b25f7354bcd04fbe32b1011bdfcc255c7"
+    "sha256": "fd3680383db071cd83b4e1c1fd25899074c2f801e263bbc72c0172c7f6e0264e"
   },
   "selection": {
     "positive": [
@@ -66,5 +65,13 @@
       ],
       "target_skill": "forecast-wochenplanung"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständige Werkstatt verbindet Zahlungsabstimmung, unterwöchige Engpässe, Szenarien und Finanzierung ohne pauschalen Zahlungsstopp.",
+    "changes": [
+      "Neue Zahlungstermine und Zusagen führen zur erneuten Rechnung und zum bestellten Bankschreiben. Antragspflichten und Sanierungsoptionen bleiben von der operativen Planung getrennt."
+    ],
+    "sha256": "b66b7ee7efe08dde1664be41340dffff5d07ad8a84e0cdb63f98cb11a13ce685"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "influencer-recht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/uwg_2004/__5a.html",
@@ -11,13 +11,12 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Content- und Rechteprüfung waren passend, aber die Einleitung versprach Rechtssicherheit und die Agenturregel unterstellte eine pauschale HGB-Analogie.",
+    "reason": "Vollständige Schlusslektüre am 18. September 2026: Die konkreten Nachforderungen zu Gegenleistung und Anzeigenlizenz waren tragfähig; allgemeine Nachweisbegriffe und eine pauschale Dreifachausgabe erschwerten den auftragsbezogenen Abschluss.",
     "changes": [
-      "Garantie und automatische Analogie entfernt.",
-      "Gegenleistungsbilanz mit Eigen- und Fremdwerbung ergänzt.",
-      "Werbelabel von Musiklizenz und Claimprüfung getrennt."
+      "Einstieg auf konkrete Creator-, Agentur- oder Markenperspektive begrenzt.",
+      "Interne Kennzeichnungs-, Aussage- und Rechteprüfung in das bestellte Ergebnis überführt statt stets drei separate Freigabeprodukte zu verlangen."
     ],
-    "sha256": "4991488829ac1250fbb406baae74c0a165565f856409811c4d9c5a20c3e0e7b3"
+    "sha256": "3e0df851b036da56a33a09a06673589871d22f1e2e293974ce494060f39cb8b4"
   },
   "selection": {
     "positive": [
@@ -62,5 +61,17 @@
       ],
       "target_skill": "infl-002-werbekennzeichnung-instagram-story-reel-tiktok-youtube"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vollständige Schlusslektüre am 18. September 2026: Der Anhang wiederholte allgemeine Ausgaberaster und widersprach teilweise den Grenzen des Haupttexts. Accountsperren, Lizenzumfang, Bildrechte und Gewerbeanzeige enthielten konkrete Fehlzuordnungen.",
+    "changes": [
+      "Doppelte Tabellen und Routen durch fachliche Abläufe für Beitrag, Vertrag, Rechte, Plattform, Agentur, Steuer, Community und Gesundheitswerbung ersetzt; nach Nachweisen bis zum bestellten Text fortsetzen.",
+      "DSA-Artikel 17 und 20 Absatz 6 getrennt; Paragraf 241a BGB nicht als pauschale Sperrgrundlage verwendet. Amtlich abgeglichen: https://eur-lex.europa.eu/eli/reg/2022/2065/oj/deu und https://www.gesetze-im-internet.de/bgb/__241a.html .",
+      "Lizenzumfang anhand Paragraf 31 Absatz 5 UrhG und Namensnennung nach Paragraf 13 UrhG konkretisiert; keine automatische einmalige Nutzung oder ausnahmsloses Verzichtsverbot. Amtlich abgeglichen: https://www.gesetze-im-internet.de/urhg/__31.html und https://www.gesetze-im-internet.de/urhg/__13.html .",
+      "Paragraf 24 KUG als behördliche Bildnisverwendung eingeordnet und erfundene Vierwochenfrist der Gewerbeanzeige beseitigt. Amtlich abgeglichen: https://www.gesetze-im-internet.de/kunsturhg/__24.html und https://www.gesetze-im-internet.de/gewo/__14.html .",
+      "E-Mail-Werbung anhand Paragraf 7 UWG mit Ausnahmen prüfen lassen statt falscher Absatzzuordnung: https://www.gesetze-im-internet.de/uwg_2004/__7.html . Bestehende Quellenprüfdaten unverändert; keine vollständige Neuprüfung sämtlicher Rechtsgebiete behauptet."
+    ],
+    "sha256": "cea434178299a526734c1de1e1265dddc114f9ca0ec7f657724c12de2456c4ac"
+  }
 }

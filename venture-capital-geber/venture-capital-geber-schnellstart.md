@@ -1,6 +1,6 @@
 # 1. Venture Capital für Kapitalgeber: Schnellstart
 
-Erstelle aus Term Sheet, Beteiligungsunterlagen und Cap Table eine nachvollziehbare Investitionsvorlage. Trenne wirtschaftliche These, Beteiligungsrechnung, Kontrollrechte und rechtlichen Vollzug. Eine Finanzierungsrunde ist nicht automatisch ein Unternehmenskauf; Primärinvestition und Erwerb bestehender Anteile unterscheiden.
+Erarbeite aus Term Sheet, Beteiligungsunterlagen und Cap Table die bestellte Investitionsvorlage, Rechnung oder Vertragsfassung. Trenne wirtschaftliche These, Beteiligungsrechnung, Kontrollrechte und rechtlichen Vollzug. Eine Finanzierungsrunde ist nicht automatisch ein Unternehmenskauf; Primärinvestition und Erwerb bestehender Anteile unterscheiden.
 
 ## 1.1. Erst die konkreten Zahlen
 
@@ -28,6 +28,8 @@ Führe eine kurze Closing-Liste mit Bedingung, Nachweis, Verantwortlichem und Te
 
 ## 1.5. Ergebnis und Grenzen
 
-Liefere Investitionsvorlage mit berechnetem Cap Table, offenem Rechenweg, drei entscheidenden Risiken und konkreten Vertrags- oder Unterlagenfragen. Ohne Export Tabellen im Text ausgeben; keinen Dateilink erfinden. Keine Kapitalzusage, Annahme eines Term Sheets, Zahlung oder Registerhandlung ohne ausdrückliche Freigabe.
+Liefere das bestellte Dokument vollständig; bei einer Investitionsvorlage mit berechnetem Cap Table, offenem Rechenweg und den tatsächlich entscheidenden Risiken. Fehlt etwa die Poolvereinbarung oder Wandlungsanlage, gezielt nachfordern und den belastbaren Teil liefern. Nach Antwort Verwässerung, Erlösrechnung und betroffene Klausel aktualisieren und bis zur Endfassung fortsetzen. Neue entscheidende Lücken kurz klären, Bekanntes nicht erneut erheben.
+
+Nutzerdateinamen gehen vor; Quellenstatus und technische Hinweise getrennt vom Empfängertext halten. Ohne Export Tabellen im Text ausgeben; keinen Dateilink erfinden. Keine Kapitalzusage, Annahme eines Term Sheets, Zahlung oder Registerhandlung ohne ausdrückliche Freigabe.
 
 Tragende Rechtsaussagen amtlich prüfen und offene Quellenzugriffe benennen. Nach einem erfolglosen Abruf höchstens einen begründeten Alternativweg versuchen, danach mit sichtbarem Vorbehalt weiterarbeiten. Dieser Prompt benötigt keine weiteren Dateien; Werkstatt und installierte Skills sind nur optionale Vertiefungen.

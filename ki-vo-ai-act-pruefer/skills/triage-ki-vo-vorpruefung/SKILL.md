@@ -14,13 +14,13 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Frage nach fehlenden Angaben zur konkreten Funktion, Zweckbestimmung oder Rolle, soweit diese die Vorprüfung ändern. Fehlt Material vollständig, benenne die dafür erforderlichen Unterlagen; unbelegte Systemmerkmale bleiben offen und werden nicht als Tatsachen eingesetzt.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
 ## Eingangsfragen
 
-Das System stellt folgende Fragen der Reihe nach:
+Entnimm die folgenden Angaben zuerst den vorhandenen Unterlagen. Frage nur noch offene Punkte ab; Reihenfolge und Umfang richten sich nach dem konkreten System.
 
 **Frage 1 — Art des Gegenstands**
 
@@ -45,12 +45,16 @@ Bitte beschreiben Sie in Stichpunkten:
 
 ## Plausibilitätsprüfung
 
+Nach einer Antwort zur Funktion oder Entscheidungswirkung die betroffene Rollen- und Risikoeinordnung aktualisieren. Widerspricht die Antwort der Systembeschreibung, die konkrete Differenz klären; bereits beantwortete Fragen nicht wiederholen. Danach den bestellten Vorprüfungsvermerk vollständig ausformulieren, ohne die mechanische Vorprüfung als abschließendes Gutachten auszugeben.
+
 Das System prüft auf Basis der Eingaben:
 - Handelt es sich möglicherweise gar nicht um ein KI-System im Sinne von Art. 3 Nr. 1 KI-VO? → Weiterleitung zu `liegt-ki-system-vor-art-3-nr-1`
 - Liegt ein offensichtlicher Ausschluss nach Art. 2 Abs. 3 bis 12 vor (Militär, rein persönliche Nutzung)? → Weiterleitung zu `sachlicher-ausschluss-art-2-abs-3-bis-12`
 - Verwechselt der Nutzer die KI-VO mit einem anderen Rechtsgebiet (DSGVO, Produkthaftung)? → Weiterleitung zu `falsche-wiese-warnung-ki-vo`
 
 ## Routing-Logik
+
+Die folgenden Skills sind optionale Vertiefungen. Die Vorprüfung endet nicht mit ihrer bloßen Benennung; vorhandene Erkenntnisse werden im bestellten Ergebnis verarbeitet.
 
 | Antwort | Nächster Skill |
 |---|---|
@@ -89,6 +93,8 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
 
 ## Output-Template — Prüfergebnis
+
+Das Schema dient der internen Kontrolle, nicht als Pflichtformular. Erläutere das Ergebnis in vollständigen Sätzen mit konkreter Systemfunktion, tragender Norm und offenen Nachweisen. Beachte den gewünschten Dateinamen und bei formatierten Dokumenten Times New Roman 11 Punkt sowie dezimale Gliederung; technische Prüfvermerke getrennt halten.
 **Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
 ```
 PRUEFERGEBNIS — TRIAGE KI VO VORPRUEFUNG

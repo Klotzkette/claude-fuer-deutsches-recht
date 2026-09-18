@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "europarecht-kompass",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0573",
@@ -11,12 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Wirkungsmatrix blieb ohne konkrete Grenze horizontaler Richtlinienwirkung zu abstrakt.",
+    "reason": "Der vollständige Mini wurde auf Rechtswirkung, Beteiligtenkonstellation und bestelltes Ergebnis geprüft.",
     "changes": [
-      "Vorrang, unmittelbare Wirkung und Auslegung getrennt.",
-      "Aktuellen tragfähigen Entscheidungsanker ergänzt."
+      "Fehlenden nationalen Verfahrensstand klären und die betroffene unionsrechtliche Argumentation fortführen."
     ],
-    "sha256": "b171708d14a382afcf1c16d36953c631de29f330242849a4dea1dc2802fd35ed"
+    "sha256": "dcb76a609475076ad2829bd13fd6277fb14ed7acac6ec6f6f9a920731c04487d"
   },
   "selection": {
     "positive": [
@@ -61,5 +60,13 @@
       ],
       "target_skill": "europarecht-richtlinie-umsetzung-simulation"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die gesamte Werkstatt wurde auf unmittelbare Wirkung, Vorrang und Auslegung durchgesehen.",
+    "changes": [
+      "Keine automatische horizontale Richtlinienwirkung; passende Rechtsfolge und Dokumentabschluss statt bloßer Themenweiterleitung."
+    ],
+    "sha256": "24768fbede98d1227bd2c7686372b00e1d78652bf6e53f5f0f8408306ccc0e42"
+  }
 }

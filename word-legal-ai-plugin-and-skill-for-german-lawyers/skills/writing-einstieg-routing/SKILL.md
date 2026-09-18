@@ -1,41 +1,26 @@
 ---
 name: writing-einstieg-routing
-description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Word-Workflows für deutsche Juristen."
+description: "Wählt für einen konkreten juristischen Schreibauftrag den passenden Bearbeitungsweg: Vertragsänderung, Schriftsatz, Mandantenbrief oder zweisprachige Fassung. Verarbeitet vorhandene Entwürfe und Rückfragen bis zum ausformulierten Dokument."
 ---
 
-# Einstieg und Routing
+# 1. Den juristischen Schreibauftrag ausführen
 
-## Einsatzlage
+Lies Auftrag, Entwurf und maßgebliche Belege zuerst. Bestimme daraus Dokumenttyp, Empfänger und gewünschte Änderung. Frage nur nach einer fehlenden entscheidenden Vorgabe; beginne nicht mit einer Liste aller verfügbaren Skills.
 
-Dieser Einstieg routet **Word Legal Ai Plugin And Skill For German Lawyers** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+## 1.1. Fachlich passender Einstieg
 
-## Fachlandkarte dieses Plugins
+Bei Verträgen Leistung, Voraussetzungen und Rechtsfolge präzisieren; bei vorhandenen Klauseln nicht ungefragt den ganzen Vertrag neu entwerfen. Bei Schriftsätzen Antrag, tragenden Sachverhalt und Beweismittel verbinden. Bei Mandantenbriefen Ergebnis und Empfehlung verständlich erläutern. Bei zweisprachigen Fassungen Rechtsordnung und Sprachvorrang sowie abweichende Definitionen prüfen.
 
-- `anspruchsgrundlage-rechtsfolge-b2b-klauseln` — Anspruchsgrundlage Rechtsfolgen B2b Vs
-- `anwaltsschreiben-aussergerichtlich-argumentationsarchitektur` — Anwaltsschreiben Aussergerichtlich Argumentationsarchitektur
-- `bilingual-drafting-cowork-cloud` — Bilingual Drafting Cowork Cloud
-- `bilinguales-writing-englische-vertraege` — Bilinguales Writing Englische Verträge
-- `boilerplate-klauseln-definitionen-klauseln` — Boilerplate Klauseln Definitionen Klauseln
-- `defensive-drafting-deutscher-kanzleistil` — Defensive Drafting Deutscher Kanzleistil
-- `dokumentarchitektur-vertrag-englischer-vertrag` — Dokumentarchitektur Vertrag Englischer Vertrag
-- `drafting-prinzipien-finaler-writing` — Drafting Prinzipien Finaler Writing
-- `entwurfscheck-aktenabgleich-red-team` — Entwurfscheck Aktenabgleich Red Team
-- `force-majeure-geheimhaltung-nda` — Force Majeure Geheimhaltung Nda
-- `german-agb-konforme` — German Agb Konforme
-- `gutachten-internes-ip-rechteuebertragung` — Gutachten Internes Ip Rechteuebertragung
-- `haftungsausschluss-haftungsbegrenzung-klageerwiderung` — Haftungsausschluss Haftungsbegrenzung Klageerwiderung
-- `kaltstart-drafting-kommandocenter` — Kaltstart Drafting Kommandocenter
+Verwende einen tatsächlich vorhandenen passenden Fachskill, wenn dies nötig ist, und arbeite anschließend selbst weiter. Ohne weiteres Modul ist der Auftrag anhand der verfügbaren Unterlagen zu bearbeiten.
 
-## Arbeitsweg
+## 1.2. Rückfrage und Fortsetzung
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Word Legal Ai Plugin And Skill For German Lawyers sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+Bei einem Widerspruch zwischen Term Sheet und Entwurf frage nach der gewollten Vereinbarung. Bei fehlendem Beweis benenne das konkrete Aktenstück. Nach Antwort Text und abhängige Verweise aktualisieren. Neue entscheidende Lücken erlauben weitere gezielte Fragen, keine wiederholte Gesamtaufnahme.
 
-## Qualitätsanker
+Rechtliche Aussagen anhand einschlägiger Normen und belegter Entscheidungen prüfen. Ein Layoutauftrag verlangt keine künstlichen Rechtsprechungsanker. Offene Quellenprüfung bleibt außerhalb des Empfängertextes.
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+## 1.3. Abschluss
+
+Liefere vollständige Sätze und das bestellte Dokument, nicht nur seine Gliederung oder die Ankündigung eines späteren Entwurfs. Ein Gutachten kann das Endprodukt sein; eine Klage entsteht nur bei entsprechendem Auftrag. Nutze dezimale Gliederung und den gewünschten Dateinamen.
+
+Bei Word-Ausgabe Formatvorlagen, Verweise und dargestellte Seiten prüfen. Ohne Export vollständigen Text liefern und die Grenze benennen. Keine Freigabe, Signatur oder Übermittlung ohne ausdrücklichen Auftrag behaupten.

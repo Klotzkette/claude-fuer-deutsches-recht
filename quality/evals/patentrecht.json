@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "patentrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/patg/__14.html",
@@ -10,14 +10,12 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Das generische Rechercheduplikat führte keinen lückenlosen Vergleich der geltenden Anspruchsfassung mit konkreten Produktbelegen durch.",
-    "changes": [
-      "Anspruchsversion, Offenbarungsgrundlage und einzelne Produktmerkmale ins Zentrum gestellt.",
-      "Fehlendes Merkmal und gesonderte Äquivalenzprüfung unterschieden; ungesicherte Entscheidungsanker entfernt."
-    ],
-    "sha256": "c820fd3f974b5da02524537e75ed34fc4719763685ecde565be3d96ca7d37943"
+    "verdict": "retained",
+    "reason": "Am 18. September vollständig gelesen. Innere Produktmerkmale führen zur konkreten Zeichnungs- oder Versuchsnachfrage, Anspruchsänderungen zur Offenbarungsprüfung; danach wird der bestellte Entwurf fertiggestellt. Keine Funktionsähnlichkeit als Verletzungsersatz und kein ungefragter Prozessauftrag. Keine neue Quellenverifikation oder Live-Modellprüfung.",
+    "changes": [],
+    "sha256": "56066735bc72f76ec76e05e88d7b191eb136f62886591b63980e3e92e9909a53"
   },
+  "workshop_review": {"verdict":"retained","reason":"Am 18. September gesamten Text geprüft. Erfindungsaufnahme, Bestand, Verletzung, FTO und Lizenz bleiben verschiedene Aufträge. Fehlende ursprüngliche Stütze, Produktversion und Vorbenutzungsunterlagen führen zur passenden Nachforderung und aktualisierten Endfassung; kein widersprechender generischer Schlussblock gefunden.","changes":[],"sha256":"d2832c6d931e8915a2956523494992ea93cfcff50064b245d02a4cc928bd102d"},
   "selection": {
     "positive": [
       "Prüfe mein Produkt anhand des geltenden Patentanspruchs auf Verletzung.",

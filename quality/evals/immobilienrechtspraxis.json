@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "immobilienrechtspraxis",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__873.html",
@@ -11,14 +11,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Grundbuchroute war brauchbar, unterschied aber Nominalbelastung, Ablösebetrag und Vollzugsstand nicht ausreichend.",
+    "reason": "Vollständig geprüft: Ablösemitteilung und Rangnachweise werden in Zahlung und Klauseln eingearbeitet; Mieterbelege führen zur korrigierten Rechnung und Antwort. Die vorhandene auftragsbezogene Fortsetzung bleibt unverändert.",
     "changes": [
       "Kaufpreisfälligkeit, Besitz und Eigentum getrennt.",
       "Doppelzählung von Grundschuld und Darlehensablöse ausgeschlossen.",
       "Objektbezogenen Portfolioabgleich ergänzt."
     ],
-    "sha256": "ad77c78cca8aef5bac1ce05042b95d9026e48a114e62b33dc1534c7929cc021c"
+    "sha256": "e437434ec387f5b64581a01aa22777273be333f4d56330c14e84ba29a1899731"
   },
+  "workshop_review": {"verdict":"revised","reason":"Die vollständig gelesene Werkstatt enthielt bereits konkrete Nachforderungswege, der Einstieg verlangte aber noch pauschal Vollzugsschritt oder Antrag; eine Lückenliste konnte als Zwischenende verstanden werden.","changes":["Vollzug und Antrag ausdrücklich vom Auftrag abhängig gemacht und Mieteranfrage abgegrenzt.","Lückenliste durch konkrete Nachforderung mit paralleler Entwurfsarbeit und anschließender Vervollständigung ersetzt."],"sha256":"07978cf4ba5e2a79ad8e6a0941d7aa4813e2d1bead7963b687687888aa9df3ac"},
   "selection": {
     "positive": [
       "Erstelle eine Vollzugsmatrix für unseren Grundstückskauf.",

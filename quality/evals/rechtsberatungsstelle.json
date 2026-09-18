@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "rechtsberatungsstelle",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/rdg/__6.html",
@@ -11,13 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der alte Schnellstart war ein allgemeiner Subsumtionshelfer ohne Anleitung, Beratungsumfang und Übergabeverantwortung.",
+    "reason": "Der vollständige Mini wurde auf RDG-Anleitung, Beratungsumfang und Semesterübergabe geprüft.",
     "changes": [
-      "Anleitungsmodell und außergerichtlichen Beratungsumfang konkretisiert.",
-      "Semesterwechsel mit Fristübernahme, Freigabestatus und erreichbarer Vertretung ausgestaltet.",
-      "Ungeprüfte Aufbewahrungs- und Statusbehauptungen aus dem Spezialmaterial nicht übernommen."
+      "Nach Zustellungsbeleg oder bestätigter Nachfolge Frist und Verantwortung aktualisieren und das bestellte Schreiben fertigstellen."
     ],
-    "sha256": "c22b22b0f3b7f20c312cf0455173893240dee6e532715c6102e1be7a34129d61"
+    "sha256": "a0d4dd5e5bb3391b6f7ab7220ae4c20cd88f83e58be6a087523af243fefd64d7"
   },
   "selection": {
     "positive": [
@@ -62,5 +60,13 @@
       ],
       "target_skill": "semester-uebergabe"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die gesamte Werkstatt wurde auf Beratungsbefugnis, Finanzierung, Anleitung und Übergabe gelesen.",
+    "changes": [
+      "RDG-Tatbestände getrennt; nachträglichen Beratungshilfeantrag berücksichtigt und fremde Hochschulrechtsroutine nicht allgemein vorausgesetzt."
+    ],
+    "sha256": "1198c89e470560efe3bef2b99b4e2884070785f388b599f7190db37d17c1e160"
+  }
 }

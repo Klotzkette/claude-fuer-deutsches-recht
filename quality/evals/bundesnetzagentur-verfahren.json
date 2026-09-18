@@ -1,7 +1,87 @@
 {
-  "schema_version":1,"plugin":"bundesnetzagentur-verfahren","reviewed_on":"2026-09-14",
-  "sources":[{"url":"https://www.gesetze-im-internet.de/enwg_2005/__75.html","checked_on":"2026-09-14","supports":"Beschwerde gegen Regulierungsentscheidungen und ausschließliche oberlandesgerichtliche Zuständigkeit."},{"url":"https://www.gesetze-im-internet.de/enwg_2005/__78.html","checked_on":"2026-09-14","supports":"Einlegung beim Beschwerdegericht, getrennte Einlegungs- und Begründungsfristen sowie anwaltliche Unterzeichnung."},{"url":"https://www.gesetze-im-internet.de/enwg_2005/__84.html","checked_on":"2026-09-14","supports":"Gerichtliche Akteneinsicht und Schutz von Geschäftsgeheimnissen als verfahrensstufenbezogene Regel."},{"url":"https://www.gesetze-im-internet.de/ki-mig/__2.html","checked_on":"2026-09-14","supports":"Auffangzuständigkeit der Bundesnetzagentur und fachliche sowie landesbezogene Ausnahmen für KI-Marktüberwachung."}],
-  "mini_review":{"sha256":"1389b031f7381769d3aa862019a9846fdef310bccde442cae4b5c538a1ead90b","verdict":"revised","reason":"Der vollständige Mini enthielt sachfremde Gewerbeuntersagung und unzutreffende Normzuordnungen zu Verbandsklage und Verwaltungsgericht. Der Netzentgelt-Rechtsmittelskill wurde gegen den tatsächlichen EnWG-Weg geprüft.","changes":["Sektor, Verfahrensstufe und Rechtsweg getrennt.","EnWG-Einlegung und Begründung mit unterschiedlichen Fristauslösern konkretisiert.","Datenfelder und Geheimnisschutz sowie KI-MIG-Ausnahmen aufgenommen."]},
-  "selection":{"positive":["Prüfen Sie den Rechtsbehelf gegen einen zugestellten Netzentgeltbeschluss der Bundesnetzagentur.","Erstellen Sie eine begründete Antwort auf ein sektorspezifisches Auskunftsersuchen mit Geschäftsgeheimnissen."],"negative":["Führen Sie einen gewöhnlichen Kaufpreisprozess gegen einen Stromkunden ohne Regulierungsentscheidung.","Prüfen Sie eine kommunale Gewerbeuntersagung ohne Bundesnetzagenturbezug."]},
-  "cases":[{"id":"enwg-einlegung-und-begruendung","request":"Die Netz GmbH war Beteiligte eines EnWG-Regulierungsverfahrens. Der abschließende Beschluss der Bundesnetzagentur über ihre Netzentgelte wurde ihr am 3. September 2026 zugestellt. Am 14. September bittet sie um einen Rechtsmittelvermerk. Sie möchte sich gegen die nicht anerkannte Kostenposition von 80000 Euro wenden; die Detailbegründung soll später anhand der Kostenunterlagen entstehen. Ein Mitarbeiter schlägt einen Widerspruch bei der Behörde und anschließend Klage beim Verwaltungsgericht vor. Ein Rechtsanwalt ist beauftragt, hat aber noch nichts eingereicht. Erstellen Sie die richtige Verfahrensroute und einen Entwurf zur Einlegung mit offen markiertem gerichtlichem Aktenzeichen. Eilrechtsschutz und inhaltliche Berechtigung der Kostenposition sollen gesondert vorbehalten bleiben.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Das Ergebnis wählt die EnWG-Beschwerde zum zuständigen Oberlandesgericht und nicht allgemeinen Widerspruch mit Verwaltungsgerichtsklage.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Es trennt die Monatsfrist ab Zustellung für die Einlegung von der Monatsfrist ab tatsächlicher Einlegung für die Begründung und nennt das Beschwerdegericht als Einreichungsstelle.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Der Entwurf bezeichnet den Beschluss und die angegriffene Kostenposition, wahrt die anwaltliche Einreichungsanforderung und erfindet weder eine bereits eingereichte Beschwerde noch vollständige Kostenbelege oder automatische Vollzugshemmung.","deliverables":["ergebnis.md"]}],"target_skill":"energie-regulierungsakte-netzentgelte-strom-rechtsmittel-check"}]
+  "schema_version": 1,
+  "plugin": "bundesnetzagentur-verfahren",
+  "reviewed_on": "2026-09-18",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/enwg_2005/__75.html",
+      "checked_on": "2026-09-14",
+      "supports": "Beschwerde gegen Regulierungsentscheidungen und ausschließliche oberlandesgerichtliche Zuständigkeit."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/enwg_2005/__78.html",
+      "checked_on": "2026-09-14",
+      "supports": "Einlegung beim Beschwerdegericht, getrennte Einlegungs- und Begründungsfristen sowie anwaltliche Unterzeichnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/enwg_2005/__84.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gerichtliche Akteneinsicht und Schutz von Geschäftsgeheimnissen als verfahrensstufenbezogene Regel."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ki-mig/__2.html",
+      "checked_on": "2026-09-14",
+      "supports": "Auffangzuständigkeit der Bundesnetzagentur und fachliche sowie landesbezogene Ausnahmen für KI-Marktüberwachung."
+    }
+  ],
+  "mini_review": {
+    "sha256": "4baf77785707faaf73224811af383a1c448fb284792a3ea6b3ee07fd58d4a9c8",
+    "verdict": "revised",
+    "reason": "Der Mini wurde vollständig auf sektorabhängige Rechtswege, Fristauslöser und Geheimnisschutz geprüft.",
+    "changes": [
+      "Fehlende Verfügung oder Bekanntgabe gezielt klären und den passenden beauftragten Verfahrensentwurf fortsetzen."
+    ]
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie den Rechtsbehelf gegen einen zugestellten Netzentgeltbeschluss der Bundesnetzagentur.",
+      "Erstellen Sie eine begründete Antwort auf ein sektorspezifisches Auskunftsersuchen mit Geschäftsgeheimnissen."
+    ],
+    "negative": [
+      "Führen Sie einen gewöhnlichen Kaufpreisprozess gegen einen Stromkunden ohne Regulierungsentscheidung.",
+      "Prüfen Sie eine kommunale Gewerbeuntersagung ohne Bundesnetzagenturbezug."
+    ]
+  },
+  "cases": [
+    {
+      "id": "enwg-einlegung-und-begruendung",
+      "request": "Die Netz GmbH war Beteiligte eines EnWG-Regulierungsverfahrens. Der abschließende Beschluss der Bundesnetzagentur über ihre Netzentgelte wurde ihr am 3. September 2026 zugestellt. Am 14. September bittet sie um einen Rechtsmittelvermerk. Sie möchte sich gegen die nicht anerkannte Kostenposition von 80000 Euro wenden; die Detailbegründung soll später anhand der Kostenunterlagen entstehen. Ein Mitarbeiter schlägt einen Widerspruch bei der Behörde und anschließend Klage beim Verwaltungsgericht vor. Ein Rechtsanwalt ist beauftragt, hat aber noch nichts eingereicht. Erstellen Sie die richtige Verfahrensroute und einen Entwurf zur Einlegung mit offen markiertem gerichtlichem Aktenzeichen. Eilrechtsschutz und inhaltliche Berechtigung der Kostenposition sollen gesondert vorbehalten bleiben.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis wählt die EnWG-Beschwerde zum zuständigen Oberlandesgericht und nicht allgemeinen Widerspruch mit Verwaltungsgerichtsklage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Es trennt die Monatsfrist ab Zustellung für die Einlegung von der Monatsfrist ab tatsächlicher Einlegung für die Begründung und nennt das Beschwerdegericht als Einreichungsstelle.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Entwurf bezeichnet den Beschluss und die angegriffene Kostenposition, wahrt die anwaltliche Einreichungsanforderung und erfindet weder eine bereits eingereichte Beschwerde noch vollständige Kostenbelege oder automatische Vollzugshemmung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "energie-regulierungsakte-netzentgelte-strom-rechtsmittel-check"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde auf Energie-, Telekommunikations- und sonstige Zuständigkeitsunterschiede gelesen.",
+    "changes": [
+      "Sektorspezifische Verfahrenswege statt pauschalem Verwaltungsgerichtsweg; Datenfelder und vertrauliche Fassungen im Ablauf zugeordnet."
+    ],
+    "sha256": "ba0fe8a2c6dd0e81b716b8c212aa5762fb0e1ba176d6328ea5ea872a9351e0a1"
+  }
 }

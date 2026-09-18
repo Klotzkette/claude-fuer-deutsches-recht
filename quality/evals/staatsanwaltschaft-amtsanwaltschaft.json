@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "staatsanwaltschaft-amtsanwaltschaft",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stpo/__160.html",
@@ -16,13 +16,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Erstdurchsicht muss einen objektiven Ermittlungsauftrag ergeben und darf zivilrechtliche Nichterfüllung nicht mit nachgewiesenem Betrug gleichsetzen.",
+    "reason": "Vollständig gelesen: Die objektive Ermittlungsrolle war zutreffend, aber eine einzelne gebündelte Rückfrage und Pflichtmatrix verkürzten die Weiterbearbeitung.",
     "changes": [
-      "Belastende und entlastende Tatsachen gleichrangig erfasst.",
-      "Konkrete Beweisziele und zuständige Entscheidungen getrennt.",
-      "Kein eigenmächtiger Erlass gerichtlicher Zwangsmaßnahmen."
+      "Nach Rücklauf werden Belastung, Entlastung und betroffene Rechnung neu gewürdigt und der beauftragte Abschlussentwurf vollendet; Tabellen nur bei Vergleich."
     ],
-    "sha256": "8c8fba70771f8bca90137f134c8a5e195205d4c38db340b4aa37802a3ff49071"
+    "sha256": "62fa2c8970a0f74da1518999dd8e831d8a9fb365daf8111fd9406b5c35fbb921"
   },
   "selection": {
     "positive": [
@@ -67,5 +65,13 @@
       ],
       "target_skill": "01-akte-erstdurchsicht-und-anfangsverdacht"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt enthielt Verteidigerformeln, drei feste Eingangsfragen und doppelte Abschlussrouten neben brauchbarer Sachleitung.",
+    "changes": [
+      "Sachleitung, Eingriffe, Schutzrechte, Beweiswürdigung, Abschluss und Sitzung zusammenhängend geordnet; alle konkreten Fachwege erhalten. Rücklauf führt zum bestellten Dokument; Strafbefehlsantrag bleibt Antrag, kein staatsanwaltschaftlich erlassener Strafbefehl."
+    ],
+    "sha256": "b89986678d7755173d8048de47113c20d016bcf4de70ffaae88e0607cf18bd1d"
+  }
 }

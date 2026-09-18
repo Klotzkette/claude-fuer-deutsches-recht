@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "gesellschaftsrechtliche-treuepflicht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1",
@@ -11,13 +11,13 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vorhandene Entscheidungsskill verlangt Liveprüfung; das Mini nannte bislang keinen konkreten Maßstab für die Bindung einer Gegenstimme.",
+    "reason": "Vollständige Textprüfung am 18. September 2026: Sanierungszustimmung und Sondervorteilsblockade waren konkret geführt; andere Absätze verlangten dennoch Transaktions- oder Klageprodukte und übertrugen Organhaftungsformeln pauschal.",
     "changes": [
-      "Amtlichen Entscheidungsmaßstab für Zustimmungspflicht ergänzt.",
-      "Stimmbindung, Stimmverbot und Treuepflicht getrennt.",
-      "Interessenmatrix statt allgemeinem Transaktionsplan als Konfliktprodukt."
+      "Dokumentwahl konsequent am Auftrag ausgerichtet, keine automatische Anteilsübertragung oder Klage.",
+      "Mitgliedschafts- und Organpflicht für Beweisfragen getrennt; Interessenübersicht nur bei Bedarf.",
+      "Maßstab und Fundstelle II ZR 275/14 unverändert erhalten."
     ],
-    "sha256": "75a0ba9e54f8ffd26f7b5f16d853b08de8740d83d3c0aa5c2cfb69adff65d3ba"
+    "sha256": "715aeb2649c2b1f771ad01293c9a7f10c625bd6259e0ace02f674a2615ffa838"
   },
   "selection": {
     "positive": [
@@ -62,5 +62,15 @@
       ],
       "target_skill": "bgh-ii-zr-275-14-media-saturn"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vollständige Werkstattprüfung am 18. September 2026: Wiederholte Transaktionsraster und Entscheidungsentwürfe passten nicht zu jedem Treuepflichtgutachten. Die vorhandenen Verzweigungen zu Sanierung und Blockade wurden erhalten und im Schlussblock konsequent fortgeführt.",
+    "changes": [
+      "Doppelte Deal-, Ausgabe- und Routenblöcke entfernt; Stimmbindung, Fernbleiben, Gleichbehandlung und Beschlussrechtsschutz getrennt geführt.",
+      "Bei Boykott konkrete Teilnahme- und Motivbelege verlangen statt Fernbleiben als Schädigungsabsicht zu behandeln.",
+      "Compliance-Bericht und Abschlussbericht nicht automatisch als gesetzliche Meldung ausgeben; Nachforderungen bis zum bestellten Text fortsetzen."
+    ],
+    "sha256": "66aec7c6009b0467303abf6fbb93685e248daca375df3fe12067dd989fecb688"
+  }
 }

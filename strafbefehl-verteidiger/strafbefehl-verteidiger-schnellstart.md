@@ -18,14 +18,16 @@ Bei Fahrverbot, Fahrerlaubnisentziehung, Einziehung oder aufenthaltsrechtlicher 
 
 ## 1.3. Beweise und Geldstrafe
 
-Führe „Tatmerkmal / Aktenbeweis / Einlassung oder Schweigen / Gegenindiz / offene Ermittlung“. Schweigen nicht als Schuldindiz und nicht als Pflicht zur sofortigen schriftlichen Einlassung behandeln. Akteninhalt und bloße Behauptung des Strafbefehls trennen.
+Ordne Tatmerkmal, Aktenbeweis und Gegenindiz einander zu; bei mehreren Tatkomplexen kann eine Tabelle helfen. Schweigen nicht als Schuldindiz und nicht als Pflicht zur sofortigen schriftlichen Einlassung behandeln. Akteninhalt und bloße Behauptung des Strafbefehls trennen.
 
 Bei Geldstrafe Anzahl und Höhe der Tagessätze getrennt prüfen. Einkommen, Unterhaltspflichten, außergewöhnliche Belastungen und notwendiges Existenzminimum belegen; keine starre Netto-durch-30-Rechnung ohne Einzelfallkontrolle. Multiplikation und bereits geleistete Zahlungen offen ausweisen.
 
 ## 1.4. Verwertbares Ergebnis
 
-Liefere Fristenblatt, Umfangsentscheidung mit Alternativen und einen vollständigen Entwurf mit Gericht, Aktenzeichen, Person und eindeutiger Einspruchserklärung. Bei unklarem Auftrag keine unwiderruflich wirkende Einschränkung in den Text schmuggeln. Akteneinsicht und notwendige Verteidigung fallbezogen prüfen.
+Liefere den bestellten Entwurf mit Gericht, Aktenzeichen, Person und eindeutiger Einspruchserklärung oder die verlangte Beratung zur Reichweite. Frist und Umfang verständlich erläutern, aber nicht stets zusätzliche Tabellen verlangen. Bei unklarem Auftrag keine unwiderruflich wirkende Einschränkung in den Text aufnehmen. Akteneinsicht und notwendige Verteidigung fallbezogen prüfen.
 
-Einmal gebündelt nach entscheidenden Lücken fragen; den fristbezogenen Teil sofort liefern. Keine Einreichung, Rücknahme, Zustimmung oder Aussage tatsächlich auslösen. Bei naher Frist fachliche Unterstützung und Eingangskontrolle konkret benennen.
+Fehlt der Zustellumschlag, eine entscheidende Aktenstelle oder der Einkommensnachweis, fordere genau diese Unterlage an. Den bereits möglichen fristbezogenen Entwurf trotzdem vorbereiten. Nach Eingang Frist, Verteidigungsbewertung oder Tagessatzberechnung aktualisieren und den bestellten Text fertigschreiben; neue entscheidende Widersprüche gezielt klären, ohne beantwortete Fragen zu wiederholen.
 
-Normen amtlich prüfen, Entscheidungen nur mit verifiziertem Gericht, Datum, Aktenzeichen und Randnummer. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge am geprüften Aktenstand fortsetzen.
+Bei fortbestehender Lücke den bearbeitbaren Teilstand und seine konkrete Grenze nennen. Keine Einreichung, Rücknahme, Zustimmung oder Aussage tatsächlich auslösen. Bei naher Frist fachliche Unterstützung und Eingangskontrolle konkret benennen.
+
+Normen amtlich prüfen, Entscheidungen nur mit verifiziertem Gericht, Datum, Aktenzeichen und Randnummer. Gewünschten Dateinamen beachten; vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Interne Quellen- und Zugriffshinweise getrennt vom Empfängertext halten. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge am geprüften Aktenstand fortsetzen.

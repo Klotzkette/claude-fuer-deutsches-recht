@@ -1,7 +1,77 @@
 {
- "schema_version":1,"plugin":"beamtenrecht","reviewed_on":"2026-09-14",
- "sources":[{"url":"https://www.gesetze-im-internet.de/gg/art_33.html","checked_on":"2026-09-14","supports":"Eignung, Befähigung und fachliche Leistung als Auswahlmaßstab."},{"url":"https://www.gesetze-im-internet.de/vwgo/__123.html","checked_on":"2026-09-14","supports":"Vorläufige Sicherung bei drohender Vereitelung eines Rechts."}],
- "mini_review":{"sha256":"bb4959545978eb5b34abcc730e9f25dfd499e1c05715075c8bd84abbc184510e","verdict":"revised","reason":"Ganz gelesen und mit konkurrentenstreit-eilverfahren abgeglichen. Der Mini blieb bei Statuslisten und pauschalem Stopp; konkrete Auswahlchance und Eilsicherung fehlten.","changes":["Vergleich von Profil, Beurteilungen und Auswahlbegründung konkretisiert.","Auswahlanspruch, Ernennungswunsch und Eilgrund getrennt."]},
- "selection":{"positive":["Prüfen Sie die Auswahlentscheidung gegen eine Bundesbeamtin vor Ernennung des Konkurrenten.","Formulieren Sie Fragen zum amtsärztlichen Gutachten eines Landesbeamten."],"negative":["Erheben Sie Kündigungsschutzklage für einen Tarifbeschäftigten.","Prüfen Sie die Anerkennung eines privaten Berufszertifikats ohne öffentliches Amt."]},
- "cases":[{"id":"bund-auswahl-dienstalter","request":"Erstellen Sie ergebnis.md als Eilvorbereitung für eine Bundesbeamtin in Bonn. Sie und ihr Konkurrent haben dasselbe Statusamt und denselben aktuellen Beurteilungszeitraum. Sie erhielt neun Punkte, er acht. Beide erfüllen das veröffentlichte Anforderungsprofil. Die Auswahlmitteilung vom 11.09.2026 begründet seine Auswahl ausschließlich mit fünf Jahren längerer Dienstzeit. Seine Ernennung ist für den 21.09.2026 angekündigt. Heute ist 14.09.2026; eine Stillhaltezusage liegt nicht vor. Die Beamtin möchte eine erneute rechtmäßige Auswahl. Formulieren Sie Sicherungsziel, wesentliche Einwände und konkrete nächste Schritte ohne erfolgte Einreichung zu behaupten.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Beanstandet den alleinigen Rückgriff auf Dienstalter trotz des mitgeteilten Leistungsvergleichs und verlangt keine automatische eigene Ernennung.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Behandelt die angekündigte Ernennung als konkreten Eilgrund und bereitet vorläufige Sicherung statt bloßes Abwarten auf Akteneinsicht vor.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Trennt Anordnungsanspruch und Eilgrund mit den jeweils vorhandenen Tatsachen und kennzeichnet fehlende Auswahlunterlagen.","deliverables":["ergebnis.md"]}],"target_skill":"konkurrentenstreit-eilverfahren"}]
+  "schema_version": 1,
+  "plugin": "beamtenrecht",
+  "reviewed_on": "2026-09-18",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_33.html",
+      "checked_on": "2026-09-14",
+      "supports": "Eignung, Befähigung und fachliche Leistung als Auswahlmaßstab."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
+      "checked_on": "2026-09-14",
+      "supports": "Vorläufige Sicherung bei drohender Vereitelung eines Rechts."
+    }
+  ],
+  "mini_review": {
+    "sha256": "d7669afeb6e3d1b671e406b789bc1c5f5811ed7154d1485e3a316e76fdbb8ebc",
+    "verdict": "revised",
+    "reason": "Der gesamte Mini wurde auf Auswahl-, Gesundheits- und Zustellungsnachweise geprüft.",
+    "changes": [
+      "Nach Antwort die betroffene Auswahlbewertung oder Frist prüfen und das beauftragte Schreiben fertigstellen."
+    ]
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie die Auswahlentscheidung gegen eine Bundesbeamtin vor Ernennung des Konkurrenten.",
+      "Formulieren Sie Fragen zum amtsärztlichen Gutachten eines Landesbeamten."
+    ],
+    "negative": [
+      "Erheben Sie Kündigungsschutzklage für einen Tarifbeschäftigten.",
+      "Prüfen Sie die Anerkennung eines privaten Berufszertifikats ohne öffentliches Amt."
+    ]
+  },
+  "cases": [
+    {
+      "id": "bund-auswahl-dienstalter",
+      "request": "Erstellen Sie ergebnis.md als Eilvorbereitung für eine Bundesbeamtin in Bonn. Sie und ihr Konkurrent haben dasselbe Statusamt und denselben aktuellen Beurteilungszeitraum. Sie erhielt neun Punkte, er acht. Beide erfüllen das veröffentlichte Anforderungsprofil. Die Auswahlmitteilung vom 11.09.2026 begründet seine Auswahl ausschließlich mit fünf Jahren längerer Dienstzeit. Seine Ernennung ist für den 21.09.2026 angekündigt. Heute ist 14.09.2026; eine Stillhaltezusage liegt nicht vor. Die Beamtin möchte eine erneute rechtmäßige Auswahl. Formulieren Sie Sicherungsziel, wesentliche Einwände und konkrete nächste Schritte ohne erfolgte Einreichung zu behaupten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Beanstandet den alleinigen Rückgriff auf Dienstalter trotz des mitgeteilten Leistungsvergleichs und verlangt keine automatische eigene Ernennung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt die angekündigte Ernennung als konkreten Eilgrund und bereitet vorläufige Sicherung statt bloßes Abwarten auf Akteneinsicht vor.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt Anordnungsanspruch und Eilgrund mit den jeweils vorhandenen Tatsachen und kennzeichnet fehlende Auswahlunterlagen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "konkurrentenstreit-eilverfahren"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständige Werkstatt wurde auf Statusbezug und tatsächlich erforderliche Eilsicherung durchgesehen.",
+    "changes": [
+      "Auswahlvermerk und medizinische Grundlagen in den Ablauf eingebunden; begrenzte Dienstfähigkeit nicht mit Dienstunfähigkeit gleichgesetzt."
+    ],
+    "sha256": "7f19761ce887abf522fc7e4a915ecd2e259cdd4aa222526d91faa994f84d591d"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "kartellrecht-marktabgrenzung-pruefung",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/C/2024/1645/oj?locale=de",
@@ -16,13 +16,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der breite Kartellrechtsablauf enthielt kaum konkrete Marktdefinitionsarbeit. Im Kernskill genannte starre Elastizitätswerte wurden nicht übernommen.",
+    "reason": "Der vollständige Mini wurde auf Substitutionsbelege, Bezugszeitraum und konsistente Marktanteilsnenner geprüft.",
     "changes": [
-      "Substitutionsbelege und Kundenperspektive konkretisiert.",
-      "Einheitlicher Nenner, Zeitraum und alternative Marktgrenzen für Anteile vorgeschrieben.",
-      "Marktbeherrschungsvermutung von Missbrauch und Schadenshöhe getrennt."
+      "Fehlende Umsatz- oder Kundenangaben klären und danach die betroffenen Marktgrenzen und Anteile neu berechnen."
     ],
-    "sha256": "fd8fb1915dfb896ebaa42340c72114d9bb66813b76464f250900982b3eb26e4d"
+    "sha256": "98ae5cc8328b4d7f4693161adcc643d4413622d96aa16eb7387b86ad59e707a5"
   },
   "selection": {
     "positive": [
@@ -67,5 +65,13 @@
       ],
       "target_skill": "produktmarkt-nachfragesubstitution"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde einschließlich Plattformen, Zusammenschlüssen und internationaler Abgrenzung gelesen.",
+    "changes": [
+      "Keine starre Zahl von Alternativmärkten oder Studien; nationale Vermutung nicht als Missbrauchsnachweis behandelt."
+    ],
+    "sha256": "a6ac98e4e3a47e0fbed1eec1ec80d1bb3d6f2576882ca6931da3ca1f53d4c33b"
+  }
 }

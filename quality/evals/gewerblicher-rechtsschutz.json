@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "gewerblicher-rechtsschutz",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/markeng/__24.html",
@@ -11,13 +11,18 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die schutzrechtsbezogene Werkstattfolge ist brauchbar; das Mini ließ die Erschöpfung abstrakt und enthielt abgebrochene Vollziehungsanker.",
+    "reason": "Aktuellen Mini vollständig gelesen. Schutzrechtsbezogene Einzelprüfung widersprach noch pauschalen Beweislastsätzen und einer verpflichtenden Matrix je Handlung. Gezielte Fragen zu Produktmerkmal und Erstvertrieb sowie Fortsetzung bleiben erhalten. Keine neue Quellen- oder Live-Modellprüfung des Minis.",
     "changes": [
-      "Originalware, Erstvertrieb und EU-/EWR-Zustimmung getrennt.",
-      "Unvollständige Verfahrenszitate entfernt.",
-      "Schutzgegenstandsvergleich nicht zwischen Marke und Patent austauschbar gemacht."
+      "Beweislast nach Schutzrecht und konkreter Voraussetzung bestimmen statt Lasten pauschal zuzuweisen.",
+      "Rechts- und Belegmatrix nur bei tatsächlichem Vergleichsbedarf ausgeben."
     ],
-    "sha256": "e7fcedbdc2ae6a2c9b05c4073438c88b68c8f7cff83c6078ac7212a44f1b8dc1"
+    "sha256": "3e7b3c3c7ba5522d48aaffe22a3936a81aa8ad795d62a4d1248ec32aad1c02f0"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig gelesen. Widersprüche lagen in pauschalen Zwischenprodukten, Fragenlistenabschluss, fehlender Rollenbegrenzung gerichtlicher Entwürfe und überholten Verfahrensbehauptungen. DPMA-Anmeldeinformationen am 18.09.2026 amtlich gelesen. DSA-Abruf war blockiert, Paragraf 30 MarkenG nicht abrufbar; diese Altbehauptungen daher in konkrete Verifikationsaufträge umgestellt, nicht als neu verifiziert bestätigt. Vorhandene ausführliche Übersichten nicht vollständig neu geschrieben; kein Live-Modelltest.",
+    "changes": ["Zwischenprüfungen dem bestellten Dokument untergeordnet; Fragenlistenabschluss und pauschalen Fortsetzungsstopp aufgelöst.", "Eilprüfung und getrennte Anspruchszuordnung positiv formuliert statt als gegenteilige Handlungsanweisung.", "DPMAregister von elektronischer Anmeldung getrennt.", "Ungeprüfte DSA-Größenschwelle, fortgeschriebene TMG-Verweise und pauschale Lizenznehmerbefugnisse durch konkrete Quellenprüfung ersetzt."],
+    "sha256": "c9518050ff112840417d63466daafd625cba0bb6f04ef73582822767483b0429"
   },
   "selection": {
     "positive": [

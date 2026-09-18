@@ -20,7 +20,9 @@ Lies Todesdatum, Erbstatut, Personenstand, Verfügung und Nichterbenstellung, s�
 5. Prüfe jede behauptete Nachlassschuld nach Entstehung, Rechtsgrund, Gläubiger, Zahlung und Abzugsfähigkeit für den Pflichtteil. Pauschale Pflegevergütung ohne Vereinbarung ist nicht automatisch eine Schuld. Vermächtnisse oder der zu berechnende Pflichtteil dürfen die eigene Basis nicht ungeprüft mindern. Steuerliche Abzugsregeln nicht übernehmen.
 6. Klassifiziere den Fehler und leite nur den passenden Weg ab: fehlende Ermittlungen oder ausgelassene Gruppen können Ergänzung tragen; begründete Sorgfaltszweifel führen zur Prüfung nach Paragraf 260 Absatz 2 BGB; reine Wertlücken zur Wertermittlung. Notarielle Eigenrecherche anhand konkreter Spuren prüfen. Paragraf 2314 vermittelt keinen pauschalen Anspruch auf sämtliche Belege wie Paragraf 1379 BGB. Beschaffungsweg und Umfang jeder Unterlagenanforderung begründen.
 7. Rechne unstreitige reale Masse und Abweichungsvarianten: Aktiva minus zulässige Passiva, darauf Pflichtteilsquote. Für jede Korrektur finanzielle Wirkung zeigen. Schenkungen als separate mögliche Ergänzungsmasse mit Vollzugsdatum, Gegenleistung, Nutzungsrecht und eigener Prüfung führen, nicht als noch vorhandenes Guthaben addieren. Anrechnung und Ausgleichung bei Hinweisen gesondert prüfen.
-8. Liefere nach höchstens einer gebündelten Rückfrage die Teilrechnung und eine bestimmte Nachforderung. Verjährung und titulierte Erfüllung gesondert behandeln; eine bloße Aufforderung nicht als sichere Hemmung ausgeben. Keine Erklärungen, Vergleiche, Bankanfragen oder Vollstreckung eigenmächtig veranlassen.
+8. Fehlt für die Rückrechnung eine Buchungsliste, fordere den Zeitraum zwischen Todestag und Saldo nach; bei Pflegevergütung die behauptete Vereinbarung und Leistungsgrundlage. Nach Antwort Nachweis und Abzugsfähigkeit prüfen, die Rechnung erneuern und die bestellte Nachforderung oder Erwiderung vollständig überarbeiten. Bei reiner Wertlücke gezielt Wertermittlung klären statt ein neues Verzeichnis zu verlangen.
+9. Bei neuen entscheidenden Lücken kurz weiterfragen; Bekanntes nicht erneut erheben. Bleibt ein Nachweis aus, die tragfähigen Teile und den konkret offenen Schluss liefern. Nach Klärung bis zum bestellten Ergebnis fortsetzen. Nachgereichte Angaben nicht ungeprüft als Tatsachen oder vollständige Erfüllung behandeln.
+10. Verjährung und titulierte Erfüllung gesondert behandeln; eine bloße Aufforderung nicht als sichere Hemmung ausgeben. Keine Erklärungen, Vergleiche, Bankanfragen oder Vollstreckung eigenmächtig veranlassen.
 
 ## 1.3. Quellenpflicht
 
@@ -31,10 +33,16 @@ Optional ergänzt die [Zitierweise](../../references/zitierweise.md) die Quellen
 
 ## 1.4. Ausgabeformat
 
-`ergebnis.md` enthält Sachverhalt, Abweichungstabelle mit Euro-Auswirkung, belegte Ausgangs- und Variantenrechnung, nach Fehlerart getrennte Nachforderung und einen ausformulierten Briefentwurf an den Erben. Bei Titel zusätzlich begründete Verfahrensempfehlung, kein automatischer Vollstreckungsantrag.
+Verwende den gewünschten Dateinamen; nur ohne Dateivorgabe gilt `ergebnis.md`. Das Ergebnis enthält den nachvollziehbaren Abgleich mit Euro-Auswirkung, die belegte Ausgangs- und erforderliche Variantenrechnung sowie die beauftragte Nachforderung oder Erwiderung. Bei einem reinen Berechnungsauftrag keinen zusätzlichen Brief erstellen.
+
+Bei Titel dessen Umfang und Erfüllung begründet würdigen, keinen automatischen Vollstreckungsantrag liefern. Quellenstatus und Recherchegrenzen in einer getrennten Arbeitsnotiz führen, nicht im Brieftext.
 
 Ausformulierungspflicht: vollständige Sätze, keine Skelette. Formatstandard: Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Nur tatsächlich erzeugte Dateien verlinken.
 
 ## 1.5. Beispiele
 
 Das Verzeichnis verwendet den Kontosaldo einen Monat nach dem Tod und zieht eine unbelegte Pflegeforderung ab. Rekonstruiere den Todestag anhand vollständiger Buchungen und zeige die Pflichtteilswirkung des bestrittenen Abzugs. Eine separate unbekannte Bankverbindung verlangt Ermittlungen, keinen erfundenen Guthabenansatz.
+
+## 1.6. Technische Grenzen
+
+Nur zugängliche Unterlagen und Werkzeuge verwenden; fehlende Seiten oder Buchungszeiträume genau benennen. Technische Hindernisse lassen nur den abhängigen Schluss offen; ohne Export den vollständigen Text liefern. Keine nicht erfolgte Quellenprüfung oder Dateierzeugung behaupten.

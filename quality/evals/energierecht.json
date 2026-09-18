@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "energierecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/enwg_2005/__111a.html",
@@ -11,13 +11,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Marktrollenstruktur war brauchbar, erzwang aber auch für Haushaltsrechnungen ein technisches Projektblatt und enthielt einen Satzabbruch.",
+    "reason": "Vollständig geprüft: Ablese- und Zahlungsbelege führen zur neuen Rechnung und zum Einwendungsbrief; Leistungsdaten zum angepassten Anschlussbegehren. Die vorhandene Fortsetzung bleibt unverändert.",
     "changes": [
       "Verbrauchs- und Abschlagsabgleich ergänzt.",
       "Konkrete Verbraucherbeschwerde statt pauschaler Projektdatenabfrage."
     ],
-    "sha256": "8e0fb47cd15e2d5c04de3e6880f60d73ad18480554954224d2f69959d1351b00"
+    "sha256": "a04a95d102cc2a8de0e28b8ce200956568aff24b4dabd38cec32e1509ec107df"
   },
+  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung bestätigte Rechnung und Anschluss als unterschiedliche Aufträge; eine zusätzliche Stationsproduktpflicht blieb widersprüchlich.","changes":["Messwerte, Schätzungen und streitige Annahmen unterschieden; Rechenblätter und technische Vergleiche als Hilfen des bestellten Dokuments gefasst."],"sha256":"560a44fbc6685aef3acf09911159b11ab3e6cf6548ce961c42d90630c1475fc4"},
   "selection": {
     "positive": [
       "Prüfe eine Stromrechnung anhand der Zählerstände.",

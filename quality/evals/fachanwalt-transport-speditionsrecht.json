@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-transport-speditionsrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/hgb/__431.html",
@@ -30,15 +30,25 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Der alte Schnellstart bezeichnete die Beteiligtenaufnahme als Beweislastprüfung und erklärte bereits eine in zwei Wochen ablaufende Frist zum Abbruchgrund. Die verschiedenen Folgen von Anzeige und Verjährung waren nicht unterscheidbar.",
+    "verdict": "retained",
+    "reason": "Vollständige Textprüfung am 18. September: Pack-, Wiege- und Regressnachweise ändern nur den betroffenen Zeitraum, Betrag oder Fristlauf; das bestellte Schreiben wird nach Klärung fertiggestellt.",
     "changes": [
-      "Regimewahl vor Gewichtsrechnung und Fristen gestellt.",
-      "Packinhalt, Quittung, Scans und Manipulationsbelege individuell verbunden.",
-      "Vermutungswirkung der Verlustanzeige von Erlöschen beim Lieferverzug und Verjährung getrennt.",
-      "Regressglieder separat erfasst und konkrete Fristsicherung zur Freigabe statt Arbeitsabbruch verlangt."
+      "Keine weitere Änderung an der vollständig gelesenen Mini-Fassung."
     ],
-    "sha256": "d79594cc360cf3f5ee60825f7213d41a0b80b85df8063fa46421b1de8186aeab"
+    "sha256": "083dfe690c7246e3ae1e4bcde9e1d4c501ce2ca957fbe1724ebf5ee4503d224f"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [
+      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+    ],
+    "prompt_path": "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-hauptproblem.md",
+    "prompt_sha256": "42695ded448406b0794f2a0b22440f224f9997cc16342f553ebeaafcceecc994",
+    "skill_path": "fachanwalt-transport-speditionsrecht/skills/teilverlust-packstueckabgleich-haftungsdurchbrechung/SKILL.md",
+    "skill_sha256": "8023fefa11e1f9194389c23e12daf09f80420a3bc9b1a9ee9ef37a09513e64b5"
   },
   "selection": {
     "positive": [
@@ -98,5 +108,15 @@
       ],
       "target_skill": "teilverlust-packstueckabgleich-haftungsdurchbrechung"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Textprüfung am 18. September: Der gesamte Werkstatttext enthielt trotz guter Eingangsschritte noch die pauschale Aussage, versäumte Reklamation vernichte den Anspruch, und fachfremde Standardausgaben.",
+    "changes": [
+      "Anzeigewirkung, Lieferverzug und Verjährung entsprechend der vorhandenen Mini-Abgrenzung getrennt.",
+      "CMR-Grenze nicht als vorgegeben zu durchbrechendes Hindernis behandelt; Regime und Nachweise entscheiden.",
+      "Automatisierung, Speditionsrolle und Versicherung getrennt prüfen; doppelte Pflichtprodukte entfernt."
+    ],
+    "sha256": "403acc5c5e5c342bbb585dad995809eec09d7f12300eb9027ee247f0201b9d8d"
+  }
 }

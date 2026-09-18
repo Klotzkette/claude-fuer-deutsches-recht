@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "softwarerecht-de-eu-us",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/urhg/__69b.html",
@@ -15,14 +15,12 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Vertragsrolle, Liefermodell und Rechtekette müssen vor Rechtsraumetiketten und pauschalen Lizenzannahmen stehen.",
+    "verdict": "retained",
+    "reason": "Vollständige Textprüfung am 18. September: Testprotokoll und Entwicklervertrag werden gezielt nachgefordert; Antworten ändern nur die betroffene Mangelbewertung oder Rechtseinräumung bis zur bestellten Fassung.",
     "changes": [
-      "B2B und Verbrauchervertrag getrennt.",
-      "Arbeitnehmerprogramme von freier Entwicklung abgegrenzt.",
-      "Vertragsumfang, Rechtekette und Drittkomponenten als konkrete Prüfobjekte aufgenommen."
+      "Keine weitere Änderung der vollständig gelesenen Mini-Fassung."
     ],
-    "sha256": "22ba6830772be959239635a809db7d59879bcb99d1411df55140f28b6a79681f"
+    "sha256": "3f431caf902203bd8e730a8a741fdfea5cd9d8bd5076264f4f5a7f07f1229501"
   },
   "selection": {
     "positive": [
@@ -67,5 +65,13 @@
       ],
       "target_skill": "kaltstart-triage"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Textprüfung am 18. September: Die gesamte Werkstatt trennt Leistungssoll, Abnahme, Rechtekette, Daten und Export. Fehlende technische Nachweise sperren keine unabhängig mögliche Vertragsarbeit; Quellcodezugriff wird nicht als Vollrechteerwerb behandelt.",
+    "changes": [
+      "Keine weitere Änderung; Vertrags- und Softwareversionen sowie konkrete Lizenztexte bleiben maßgeblich."
+    ],
+    "sha256": "8c4eec0a69b8eacbc910c4bd3776e93e9f49a44ccf75edddeb3b3bf701355892"
+  }
 }

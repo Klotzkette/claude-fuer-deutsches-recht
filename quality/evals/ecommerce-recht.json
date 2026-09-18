@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "ecommerce-recht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__312j.html",
@@ -15,13 +15,12 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Die konkrete Nutzerstrecke bleibt erhalten. Der Kernskill vermischt aber die Rechtsfolgen der Informations- und Buttonpflicht und beschreibt die Ausnahme zu weit.",
+    "verdict": "retained",
+    "reason": "Vollständig am 18. September gelesen: Nachgereichte Bestellansicht wird nach Gerät, Datum und Fassung geprüft; Antworten führen zu fertigen Ersatztexten oder Abmahnantwort.",
     "changes": [
-      "Absätze 2, 3 und 4 getrennt.",
-      "Ausnahme individueller Kommunikation präzisiert und belegbasierte Prüfung ohne Live-Shop ermöglicht."
+      "Keine weitere Änderung der Mini-Fassung."
     ],
-    "sha256": "1f4cb350761edfcb1dd5c098bacc80546b3582e5e13a62239c165ae7da7cb32b"
+    "sha256": "6b045f502d321d317e2c109920a66f69406489a6dcfe9b20b417cbb3bf73e7fc"
   },
   "selection": {
     "positive": [
@@ -98,5 +97,15 @@
       ],
       "target_skill": "button-loesung-312j-bgb"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Textprüfung am 18. September: Vollständig gelesen: Pflicht-Journey-Matrix und doppelte Routentabellen verdrängten konkrete Korrekturen. Einbeziehung, Inhaltskontrolle und Produktregime waren teilweise verkürzt.",
+    "changes": [
+      "Doppelte Schablonen durch zusammengeführte vorhandene Shopprüfungen ersetzt.",
+      "Button- und Informationspflicht wie im Mini getrennt; Kündigung, Widerruf, digitale Ware und OSS/IOSS eigenständig gehalten.",
+      "Versionsabgleich führt zu fertigen Ersatztexten; Quellenstatus bleibt außerhalb des Empfängertexts."
+    ],
+    "sha256": "67cfd3fe117e3a35fc6f384ddbfdc753096578ab911c84dcd8623bbe4c147941"
+  }
 }

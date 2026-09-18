@@ -186,33 +186,19 @@ _Für Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: routet Ro
 
 # Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel
 
-## Direktstart: lesen, entscheiden, liefern
+## 1. Produkt und Auftrag einordnen
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Prüfe anhand der Produktunterlagen und Vorfallberichte, welche Sicherheits-, Haftungs- oder Konformitätsfrage beantwortet werden soll. Beginne mit dem bestellten Bericht oder Entwurf und bereite bei erkennbarer Gefahr zuerst die erforderliche Sicherungsentscheidung vor.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Übernimm bekannte Rolle, Produktversion, Charge und Vertriebsgebiete aus der Akte. Fehlt eine entscheidende Angabe, frage nach dem konkreten Produktionsnachweis, Prüfbericht oder Vorfallbeleg; ersetze sie nicht durch eine als Tatsache behandelte Annahme. Ein fehlender Sicherheitsnachweis bedeutet weder erwiesene Gefahr noch erwiesene Sicherheit.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
-
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+Wenn die Antwort den betroffenen Umfang verändert, aktualisiere Risikobewertung, Maßnahmen und Text. Kläre dabei neu erkennbare entscheidende Lücken gezielt und arbeite anschließend bis zum bestellten Ergebnis weiter. Bereits belastbare Teile können vorläufig ausgegeben werden; eine Nachforderung allein erledigt keinen Dokumentenauftrag.
 
 ## Normenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Bestimme das einschlägige Regelwerk anhand von Produktart, bestimmungsgemäßer Verwendung, Wirtschaftsakteur, Vertriebsgebiet und maßgeblichem Zeitpunkt. Prüfe den Anwendungsbereich eines produktspezifischen Regelwerks, bevor du allgemeine Sicherheitsanforderungen heranziehst. Konformität, Marktüberwachungsmaßnahme, Rückruf und zivilrechtlicher Ersatzanspruch getrennt einordnen.
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
-- `§ 16 HRG` — Prüfungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
+Verifiziere die tragende Vorschrift und ihre zeitliche Anwendbarkeit in amtlichen nationalen oder europäischen Quellen. Ordne die konkrete Pflicht ihrem Adressaten und dem belegten Vorgang zu. Bei einer Behördenmaßnahme Rechtsbehelf und Frist aus der einschlägigen Verfahrensordnung bestimmen; keine Fristen oder Eilrechtsschutzregeln aus einem anderen Rechtsgebiet übertragen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -236,12 +222,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
 5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Produktrechtliche** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Bearbeitung abschließen
+
+Unterscheide Produktsicherheitsmaßnahme und Haftungsanerkenntnis. Ordne Fehlerhypothese, Nutzung, Schaden und Kausalität den jeweiligen Belegen zu; lege unbekannte Chargengrenzen oder widersprüchliche Prüfergebnisse offen, statt eine scheinbar eindeutige Freigabe auszugeben.
+
+Schreibe die verlangte Behördenantwort, Verbraucherinformation oder Bewertung in vollständigen Sätzen fertig. Tabellen nur für erforderliche Mengenabgleiche, Nachweise oder Varianten verwenden; interne Risikokennzeichnungen nicht zur Pflichtgliederung des Empfängertexts machen. Beachte gewünschten Dateinamen und soweit möglich Times New Roman 11 pt mit dezimaler Gliederung.
+
+Weitere Fachskills sind optionale Unterstützung, kein Anlass zum Abbruch oder zur erneuten Aufnahme. Versand, Meldung und Veröffentlichung bedürfen einer ausdrücklichen Freigabe. Technische Zugriffslücken und noch ungeprüfte Rechtsfragen gesondert an den Auftraggeber berichten.
 
 ---
 

@@ -3,53 +3,32 @@ name: workflow-kaltstart-und-routing
 description: "Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung."
 ---
 
-# Kaltstart und Routing
+# 1 Auftrag zur Prüfung eines KI-Anbieters bearbeiten
 
-## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+Prüfe den vorgesehenen KI-Einsatz anhand der vorhandenen Vertragsfassung und des tatsächlichen Datenwegs. Übernimm Berufsrolle, Anbieter, Einsatzzweck und gewünschten Umfang aus Auftrag und Unterlagen; frage diese Angaben nicht erneut ab. Ist nur ein Vertrag ohne erkennbare Zielsetzung vorhanden, benenne eine konkrete auffällige Regelung und kläre, ob ein Gutachten, Vertragsänderungen oder ein Anbieterbrief gewünscht ist.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## 1.1 Berufsrolle und Nutzung zuordnen
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+Unterscheide anwaltliche, steuerberatende, wirtschaftsprüfende, notarielle und patentanwaltliche Tätigkeit. Prüfe die jeweils einschlägige Dienstleisterregelung: Paragraf 43e BRAO, Paragraf 62a StBerG, Paragraf 50a WPO, Paragraf 26a BNotO oder [Paragraf 39c PAO](https://www.gesetze-im-internet.de/patanwo/__39c.html). Übertrage nicht sämtliche Voraussetzungen einer Berufsordnung auf eine andere. Für anwaltliche Mandatsdaten außerdem Paragraf 43a Absatz 2 BRAO beachten.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+Zeichne nach, welche Geheimnisse oder personenbezogenen Daten durch Eingaben, Anhänge, Protokolle und Supportzugriffe offengelegt werden können. Trenne Vertragszusage, technische Einstellung und tatsächlich belegte Nutzung. Prüfe Paragraf 203 StGB eigenständig; eine Verschwiegenheitsklausel allein beantwortet nicht sämtliche Voraussetzungen einer zulässigen Offenbarung. Auftragsverarbeitung nach Artikel 28 DSGVO und die einschlägigen Anforderungen der KI-Verordnung getrennt behandeln.
 
-## Routing-Diagnose Berufsrecht-KI
-- **"Rechtsanwalt prüft KI-Tool"** → § 43e BRAO (Schweigepflicht / Mandantengeheimnis), § 203 StGB strafrechtliche Schweigepflicht, AVV Art. 28 DSGVO.
-- **"Steuerberater prüft KI-Tool"** → § 62a StBerG (entspricht § 43e BRAO), § 203 StGB.
-- **"Wirtschaftsprüfer prüft KI-Tool"** → § 50a WPO, § 203 StGB.
-- **"Notar prüft KI-Tool"** → § 26a BNotO (Verschwiegenheit), § 203 StGB; Vorsicht bei Urkundeninhalten.
-- **"Patentanwalt"** → § 39a PAO, § 203 StGB.
-- **"KI-System verarbeitet Mandantendaten"** → kumulativ: § 203 StGB (strafrechtlich), § 43a Abs. 2 BRAO (berufsrechtlich), Art. 28 DSGVO (AVV), ggf. KI-VO.
-- **"Externer KI-Anbieter (US-Cloud)"** → § 203 Abs. 3 StGB "Mitwirkende" (seit 2017) plus DSGVO-Drittlandstransfer.
+## 1.2 Fehlende Angaben gezielt klären
 
-## Praxis-Tipp
-Die Erweiterung des § 203 Abs. 3 StGB von 2017 ("sonstige mitwirkende Personen") legitimiert die Einbindung externer Dienstleister — aber nur mit angemessener Verpflichtung zur Verschwiegenheit. Bei US-Cloud-Anbietern reicht Standard-AVV nicht: zusätzlich US-Cloud-Act-Risiko (Lawful Access) im TIA dokumentieren.
+Fehlt die Leistungsbeschreibung, frage nach der konkreten Verarbeitung, nicht allgemein nach allen Vertragsunterlagen. Fehlt bei einem US-Bezug die Zugriffskette, fordere Angaben zu Vertragspartner, Modellbetreiber, Supportstandorten und Zugriffsrechten an. Prüfe danach Drittlandtransfers und behördliche Zugriffsmöglichkeiten anhand der tatsächlichen Konstellation; ein EU-Rechenzentrum oder ein Standardvertrag zur Auftragsverarbeitung erledigt diese Prüfung nicht.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+Ist eine No-Training-Zusage vorgelegt, die Qualitätskontrolle und Support ausnimmt, frage nach Inhalt, Zweck, Speicherdauer und Zugriff auf diese Daten. Gleiche die Antwort mit den Vertragsausnahmen ab. Überarbeite anschließend die betroffene Klausel oder Gutachtenpassage; eine Anbieterantwort ist zunächst eine Angabe, nicht der Nachweis ihrer technischen Umsetzung.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+Weitere kurze Rückfragen sind zulässig, wenn neue Antworten eine entscheidende Lücke zeigen. Bereits geklärte Punkte nicht wiederholen. Bei ausbleibender Antwort bearbeite die unabhängigen Teile und benenne genau, welcher Schluss noch nicht möglich ist. Nach Klärung bis zum bestellten Ergebnis fortsetzen.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+## 1.3 Das bestellte Ergebnis fertigstellen
+
+Liefere beim Gutachten eine begründete Beurteilung des konkreten Einsatzes mit erforderlichen Bedingungen. Beim Klauselauftrag formuliere Ersatzklauseln vollständig und ordne sie der Ausgangsfassung zu. Beim Anbieterbrief frage nur entscheidungserhebliche, bisher unbeantwortete Punkte ab; behaupte darin weder eine ungeklärte Vertragsverletzung noch eine ungesicherte Produkteigenschaft.
+
+Eine Tabelle ist nur erforderlich, wenn sie etwa unterschiedliche Vertragsfassungen oder Datenwege verständlicher macht. Andere Fachskills können optional zur Vertiefung eingesetzt werden; ihre Auswahl ist kein eigenes Endprodukt. Quellenstand, unbestätigte Tatsachen und verbleibende Recherchegrenzen gehören in eine gesonderte Arbeitsnotiz, nicht in den Brieftext. Keine Kontaktaufnahme, Vertragsannahme oder Übertragung vertraulicher Daten ohne ausdrückliche Freigabe.
+
+## 1.4 Quellen und technische Grenzen
+
+Tragende Normen, Behördenhinweise und Entscheidungen anhand aktueller amtlicher Quellen prüfen; Entscheidungen nur mit überprüftem Gericht, Datum, Aktenzeichen und Inhalt verwenden. Keine Fundstellen aus nicht eingesehenen Kommentaren oder Datenbanken ergänzen. Vollständige Sätze und dezimale Gliederung verwenden; beim Export Times New Roman 11 pt.
+
+Nur verfügbare Werkzeuge und lesbare Unterlagen verwenden und nicht zugängliche Bestandteile konkret benennen. Scheitert ein Abruf, einen sachgerechten Alternativzugang prüfen und nur den davon abhängigen Prüfungsschritt offenlassen. Ohne Exportmöglichkeit den vollständigen Text liefern; keine Prüfung oder Dateierzeugung vortäuschen.

@@ -1,6 +1,6 @@
 # 1. Digitales Angebot nachvollziehbar prüfen
 
-Lies Nutzerauftrag, vorhandenen Code, Prüfprotokolle, Screenshots und Angebotsbeschreibung zuerst. Prüfe den beauftragten Nutzerweg, nicht ungefragt die gesamte Organisation. Liefere reproduzierbare Befunde mit Nutzerwirkung, Abhilfe und Wiederholungstest. Frage nur nach blockierenden Angaben. Ohne Browserzugriff vorhandene Belege analysieren, aber keine eigene Live-Prüfung behaupten.
+Prüfe den beauftragten Nutzerweg und erstelle den gewünschten Prüfbericht, Maßnahmenplan oder Antworttext mit reproduzierbaren Befunden, Nutzerwirkung, Abhilfe und Wiederholungstest. Lies dafür Nutzerauftrag, vorhandenen Code, Prüfprotokolle, Screenshots und Angebotsbeschreibung zuerst; prüfe nicht ungefragt die gesamte Organisation.
 
 ## 2. Umfang und Maßstab festlegen
 
@@ -28,8 +28,14 @@ Je Fehler URL oder Komponente, Zustand, Umgebung, Reproduktionsschritte, erwarte
 
 Abhilfe konkret auf Verhalten ausrichten: etwa erreichbare Schließen-Schaltfläche und sinnvoller Fokus-Rücksprung statt „Barrierefreiheit verbessern“. Wiederholungstest mit demselben Nutzerweg festlegen. Automatische Prüfung und manuelle Abnahme getrennt dokumentieren. Keine Abnahme ohne tatsächlich wiederholten Test erteilen.
 
+Fehlt zur Reproduktion ein Testkonto, eine Originaldatei oder der betroffene Fehlerzustand, fordere genau diesen Zugang oder Beleg an. Beschreibe inzwischen nur das nachgewiesene Verhalten. Nach Eingang prüfe den betroffenen Nutzerweg und aktualisiere Befund und Abhilfe. Nach einer gemeldeten Korrektur verlange den geänderten Stand und wiederhole den Test; ein bloßer Umsetzungshinweis beweist keinen Erfolg. Neue entscheidende Lücken dürfen gezielte Anschlussfragen auslösen, erledigte Fragen nicht erneut stellen.
+
 ## 5. Auslieferung und optionale Vertiefung
 
 Optional vertieft [Tastatur, Fokus, Navigation](skills/tastatur-fokus-ueberwachungsstelle/SKILL.md) die manuelle Prüfung. Ohne diese Datei mit Abschnitt 3 arbeiten. Ein fertiger Bericht enthält Prüfgrenzen, priorisierte Tickets, offene Tests und gegebenenfalls getrennte rechtliche Einordnung. Konformitätsunterlagen oder Erklärungen nur mit belegtem Umfang erstellen, nicht aus einer Stichprobe als Vollkonformität ableiten.
 
-Rechtliche Behauptungen an amtlichen Quellen, technische Kriterien an der maßgeblichen Standardspezifikation verifizieren. Tatsächlich geprüfte Fassung, Abschnitt und URL nennen; keine erfundenen Testergebnisse. Optional: [Zitierweise](../references/zitierweise.md). Vollständige Sätze, dezimale Gliederung mit Leerzeilen und Times New Roman 11 pt beziehungsweise Exporthinweis verwenden. Ohne Export Text liefern. Keine Website ändern, Veröffentlichung vornehmen oder Verbraucherantwort versenden, sofern nicht beauftragt.
+Arbeite nach ergänzten Angaben bis zum bestellten Bericht oder Antworttext weiter. Bei einem Hindernis liefere den belegten vorläufigen Stand und die konkret fehlende Antwort; weder eine Nachforderung noch eine Ticketliste ersetzt einen bestellten Brief. Prüfgrenzen gehören in den Auditbericht, interne Quellenstatusvermerke dagegen in eine gesonderte Arbeitsnotiz, nicht in die Verbraucherantwort. Eine technische Prüfung führt nicht ungefragt zu einem Rechtsbehelf.
+
+Rechtliche Behauptungen an amtlichen Quellen, technische Kriterien an der maßgeblichen Standardspezifikation verifizieren. Tatsächlich geprüfte Fassung, Abschnitt und URL nennen; keine erfundenen Testergebnisse. Optional: [Zitierweise](../references/zitierweise.md). Vollständige Sätze, dezimale Gliederung mit Leerzeilen und Times New Roman 11 pt beziehungsweise Exporthinweis verwenden.
+
+Ohne Browserzugriff vorhandene Belege analysieren, aber keine eigene Live-Prüfung behaupten; vorhandene Dateien sind kein Vollständigkeitsnachweis. Ohne Export Text liefern. Keine Website ändern, Veröffentlichung vornehmen oder Verbraucherantwort versenden, sofern nicht ausdrücklich freigegeben.

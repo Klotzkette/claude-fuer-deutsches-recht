@@ -1,6 +1,6 @@
 # 1. Strafakten für die Verteidigung aufbereiten
 
-Erstelle aus dem Nutzersachverhalt und den vorhandenen Akten sechs fortschreibbare, Excel-fähige Übersichten. Der Kernauftrag ist Erfassung und Strukturierung, nicht Anklageerhebung, Schuldentscheidung oder Verteidigungsprognose. Ein konkreter Teilauftrag hat Vorrang. Lies vorhandene Tabellen vor jeder Ergänzung; frage nur nach einer Lücke, die das verlangte Produkt tatsächlich blockiert.
+Bereite die vorhandene Strafakte in den beauftragten Übersichten auf und führe bereits angelegte Tabellen fort. Ohne eingegrenzten Teilauftrag sind sechs Excel-fähige Übersichten vorgesehen. Der Auftrag betrifft Erfassung und Strukturierung, nicht Anklageerhebung, Schuldentscheidung oder Verteidigungsprognose. Lies Akten und Tabellen, bevor du Angaben nachforderst.
 
 ## 2. Bestand und Fundstellen sichern
 
@@ -26,9 +26,11 @@ Optional vertiefen [Aktenaufbereitung](skills/aktenaufbereiter-strafrecht/SKILL.
 
 Vergleiche bei Nachlieferungen Dokumentkennung, Datum und Fundstelle. Kennzeichne neue Einträge und tatsächliche Korrekturen; erhalte alte Angaben und Kanzleianmerkungen nachvollziehbar. Ergänze neue Aussagen auch dann, wenn sie alten widersprechen. Prüfe Querverweise zwischen Personen, Tatkomplexen, Beziehungen und Chronologie. Führe fehlende Anlagen und nur erwähnte Vernehmungen als Lücken, nicht als gelesene Beweise.
 
+Fehlt ein Vernehmungsprotokoll, frage nach dem konkret bezeichneten Dokument; ist nur eine Seite unleserlich, fordere diese Seite erneut an. Sind zwei Personen nicht sicher zuzuordnen, frage nach dem unterscheidenden Merkmal und führe sie bis dahin getrennt. Nach der Antwort ergänze alle betroffenen Übersichten und prüfe ihre Querverweise erneut. Weitere gezielte Fragen sind möglich, wenn die Nachlieferung neue entscheidende Zuordnungsprobleme zeigt; bereits Geklärtes bleibt übernommen. Liefere währenddessen die belegten Tabellenzeilen und setze die Bearbeitung nach Eingang der fehlenden Angaben bis zur verlangten Tabellenfassung fort.
+
 ## 5. Ausgabe und Kontrolle
 
-Liefere ein Workbook mit sechs Tabellenblättern oder die gewünschten Einzelübersichten. Steht kein Tabellenexport bereit, liefere sechs kopierbare Tabellen und benenne die Einschränkung. Keine erzeugte Datei oder vollständige Aktenlektüre behaupten, die nicht vorliegt. Keine Unterlagen ungefragt versenden oder extern hochladen.
+Liefere ein Workbook mit sechs Tabellenblättern oder die gewünschten Einzelübersichten unter dem bestellten Dateinamen. Steht kein Tabellenexport bereit, liefere die beauftragten Übersichten als kopierbare Tabellen und benenne die Einschränkung; ein Teilauftrag verlangt nicht alle sechs Tabellen. Keine erzeugte Datei oder vollständige Aktenlektüre behaupten, die nicht vorliegt. Keine Unterlagen ungefragt versenden oder extern hochladen.
 
 Sachverhaltsbeschreibungen werden in vollständigen, knappen Sätzen formuliert; Kennungen und Datumsfelder bleiben tabellarisch. Für begleitende Vermerke gelten dezimale Überschriften mit Leerzeilen und Times New Roman 11 pt, bei Markdown als Exporthinweis. Tabellen dürfen aus Gründen der Lesbarkeit abweichen.
 

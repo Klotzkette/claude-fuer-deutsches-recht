@@ -9,7 +9,7 @@ Ordne ein B2B-Einführungsprojekt, bei dem Schlussrechnung, Fehlerbehebung und v
 
 ## 2. Eingaben
 
-Lies Vertrag, Leistungsbeschreibung und priorisierte Fassungen, Zahlungsplan, Änderungsvereinbarungen, Vollmachten, Testprotokolle, Tickets, Abnahmeaufforderungen und Korrespondenz. Erfasse ursprüngliche Erfolgspflicht, Teilabnahmen, Produktivbeginn, Fristen, Mitwirkungsbeiträge, Lizenz- und Betriebsanteile. Bei widersprechenden Versionen Datum, Autor und Freigabestatus nennen. Nur einmal gebündelt nach entscheidenden Lücken fragen; sofort einen bedingten Projektvermerk liefern.
+Lies Vertrag, Leistungsbeschreibung und priorisierte Fassungen, Zahlungsplan, Änderungsvereinbarungen, Vollmachten, Testprotokolle, Tickets, Abnahmeaufforderungen und Korrespondenz. Erfasse ursprüngliche Erfolgspflicht, Teilabnahmen, Produktivbeginn, Fristen, Mitwirkungsbeiträge, Lizenz- und Betriebsanteile. Bei widersprechenden Versionen Datum, Autor und Freigabestatus nennen. Entnimm Parteirolle und bestelltes Dokument dem vorhandenen Auftrag. Fehlende entscheidende Belege gezielt anfordern; die unabhängigen Positionen bis dahin bearbeiten, ohne eine neue Mandatsaufnahme zu beginnen.
 
 ## 3. Ablauf und Checkliste
 
@@ -20,6 +20,8 @@ Ordne Implementierung, Anpassung, Datenmigration, Beratung und laufenden Betrieb
 ### 3.2. Tickets und Nachträge
 
 Klassifiziere jedes Ticket begründet als ursprüngliche Leistung, Fehlerbehebung, zusätzliche Änderung oder offenes Mitwirkungsproblem. Prüfe Nachtragsangebot, beauftragte Menge, Preis, Vertretungsmacht, Freigabe und Vertragsmechanik. Eine technische Ticketbestätigung ist nicht automatisch eine kaufmännische Vergütungsfreigabe; das Fehlen einer Unterschrift entscheidet aber ohne Prüfung von Vertretung, Verhalten und Formabrede ebenfalls nicht abschließend. Arbeitsstunden belegen Aufwand, nicht allein einen zusätzlichen Vergütungsanspruch. Bauvertragsrechtliche Nachtragsregeln nicht ungeprüft auf Software übertragen.
+
+Fehlt die behauptete Änderungsfreigabe, verlange den betreffenden Vorgang einschließlich handelnder Person und vereinbartem Preis. Nach Eingang Ticketzuordnung, Vergütungsgrund und Schlussrechnung aktualisieren. Beantwortet der Vorgang etwa die technische Freigabe, aber nicht die behauptete Vertretungsmacht, kläre diese neue entscheidende Lücke gesondert. Bereits beantwortete Fragen nicht wiederholen; anschließend den bestellten Rechnungsbrief oder die gutachterliche Beurteilung fertigstellen.
 
 ### 3.3. Prüfung der Abnahme
 
@@ -33,7 +35,7 @@ Vor Abnahme grundsätzlich Erfüllung und allgemeines Leistungsstörungsrecht pr
 
 ### 3.5. Beweis und Abschluss
 
-Sichere eine reproduzierbare Fehlerbeschreibung mit Version, Datenbasis, Schritten, erwarteter und tatsächlicher Ausgabe; personenbezogene Testdaten minimieren. Benenne konkret erforderliche technische Gutachterfragen ohne einen technischen Befund zu erfinden. Prüfe einmal Belegketten, Summen und Alternativen. Keine produktiven Systeme verändern, keine Abnahme oder Kündigung erklären und keine Zahlung zurückhalten oder anweisen; nur Entwürfe und Entscheidungsvorlagen erstellen.
+Sichere eine reproduzierbare Fehlerbeschreibung mit Version, Datenbasis, Schritten, erwarteter und tatsächlicher Ausgabe; personenbezogene Testdaten minimieren. Benenne konkret erforderliche technische Gutachterfragen ohne einen technischen Befund zu erfinden. Fehlt ein Testprotokoll, fordere den maßgeblichen Test und seine Bedingungen an; nach dem Befund Abnahmebewertung, Abhilfe und Rechnung berichtigen. Belegketten, Summen und Text auch nach neuen Antworten abgleichen. Keine produktiven Systeme verändern, keine Abnahme oder Kündigung erklären und keine Zahlung zurückhalten oder anweisen; nur Entwürfe und Entscheidungsvorlagen erstellen.
 
 ## 4. Quellenpflicht
 
@@ -45,7 +47,11 @@ Nutze [Zitierweise](../../references/zitierweise.md), sofern verfügbar, und pr�
 
 ## 5. Ausgabeformat
 
-Erstelle `ergebnis.md` mit Sachverhalt, einer Tabelle zum Abgleich von vereinbarter Leistung, Tickets und Nachträgen, Abnahmezeitachse, nachvollziehbarer Vergütungsrechnung, Beweisbedarf und ausformuliertem Schreiben zur Abnahme- oder Rechnungsfrage. Vollständige Sätze statt Skeletten, keine unbelegten Erledigungsbestätigungen. Dezimale Überschriften, Times New Roman 11 pt beim Export, bei Markdown entsprechender Exporthinweis. Freigabe und Zugang bleiben bei der Mandatsverantwortung.
+Erstelle das bestellte Schreiben zur Abnahme- oder Rechnungsfrage beziehungsweise Gutachten unter dem gewünschten Dateinamen. Nur ohne Benennung verwende `ergebnis.md`. Vergütungsrechnung, Leistungs- und Ticketvergleich sowie Abnahmedaten nur im erforderlichen Umfang erläutern oder als Anlage beifügen; ein Gutachtenauftrag verlangt keinen zusätzlichen Forderungsbrief.
+
+Ein vorhandener Beleg ersetzt nicht die Prüfung von Vertragsbindung, Vertretungsmacht oder Fälligkeit. Annahmen und streitige Behauptungen dürfen nicht als bestätigte Tatsachen in das Empfängerdokument gelangen. Quellenstatus und technische Grenzen in einer gesonderten Arbeitsnotiz festhalten. Bei fehlender Unterlage den brauchbaren Teilstand und die konkrete Nachforderung liefern, danach bis zur bestellten Endfassung weiterarbeiten.
+
+Vollständige Sätze statt Skeletten, keine unbelegten Erledigungsbestätigungen. Dezimale Überschriften, Times New Roman 11 pt beim Export, bei Markdown entsprechender Exporthinweis. Externe Erklärungen und Versand bedürfen ausdrücklicher Freigabe; ohne Dateifunktion den vollständigen Text liefern.
 
 ## 6. Beispiele
 

@@ -9,7 +9,7 @@ Rekonstruiere die Zuschlagswertung einer oberschwelligen Liefer- oder Dienstleis
 
 ## 2. Eingaben
 
-Lies Bekanntmachung, sämtliche maßgeblichen Kriterienfassungen und Bieterinformationen, eigenes Angebot, verfügbaren Wertungsvermerk, Vorabinformation und Rügekorrespondenz. Erfasse Rolle, Verfahrensart, Schätzzeitpunkt, Auftraggebertyp, Auftragswert, Angebotsfrist, Kenntnis je Fehler, Absendung der Vorabinformation, Nichtabhilfezugang und Zuschlagsstand. Nicht zugängliche Konkurrenzangebote nicht erfinden; Geheimschutz und geschwärzte Fassungen beachten. Eine gebündelte Rückfrage genügt, dann Teilstand mit Lücken.
+Lies Bekanntmachung, sämtliche maßgeblichen Kriterienfassungen und Bieterinformationen, eigenes Angebot, verfügbaren Wertungsvermerk, Vorabinformation und Rügekorrespondenz. Entnimm daraus Rolle, Verfahrensart, Schätzzeitpunkt, Auftraggebertyp, Auftragswert, Angebotsfrist, Kenntnis je Fehler, Absendung der Vorabinformation, Nichtabhilfezugang und Zuschlagsstand. Nicht zugängliche Konkurrenzangebote nicht erfinden; Geheimschutz und geschwärzte Fassungen beachten. Frage nur entscheidende offene Angaben nach und erhebe geklärte Daten nicht erneut.
 
 ## 3. Ablauf und Kontrolllogik
 
@@ -19,6 +19,12 @@ Lies Bekanntmachung, sämtliche maßgeblichen Kriterienfassungen und Bieterinfor
 4. Verbinde jede beanstandete Qualitätsnote mit Angebotsstelle, Kriterium, dokumentierter Begründung und zulässigem Vergleich. Unterscheide Rechenfehler, falsche Tatsachengrundlage, Ungleichbehandlung und bloße andere Wertung. Fehlende ausdifferenzierte Notendefinitionen begründen nicht automatisch Rechtswidrigkeit. Den Beurteilungsspielraum nicht durch eigene freie Benotung ersetzen.
 5. Berechne nachvollziehbare Szenarien ausschließlich für belegte Fehler: Ausgangswertung, reine Rechenkorrektur, bedingte Neubewertung. Zeige Punktedifferenz zum führenden Angebot und möglichen Rangwechsel. Unbekannte Konkurrenzdaten führen zu einer Bedingung, nicht zu einem behaupteten Zuschlagsanspruch.
 6. Ordne jeden Fehler seiner Rügefrist zu. Trenne Paragraf 160 Absatz 3 GWB, Wartefrist nach Paragraf 134 und Zuschlagsverbot nach Paragraf 169 GWB. Eine Rüge stoppt den Zuschlag nicht automatisch; bei Zeitdruck sofort Entwurf und menschlichen Handlungsbedarf liefern, nicht die Bearbeitung abbrechen. Weder Rüge noch Antrag selbst versenden.
+
+### 3.1. Wertung nach neuen Angaben aktualisieren
+
+Fehlt eine Formel oder maßgebliche Kriterienfassung, frage nach der betreffenden Vergabeunterlage oder Bieterinformation. Bei einer nicht erläuterten Qualitätsnote fordere die konkrete Wertungsbegründung an. Prüfe nach Eingang, ob ein Rechenfehler, eine unzutreffende Tatsachengrundlage oder lediglich eine andere vertretbare Bewertung vorliegt; das Vorliegen weiterer Dokumente beweist noch keinen Verstoß.
+
+Berechne betroffene Punkte und Rangfolgenszenarien neu und arbeite die Ergebnisse in das bestellte Dokument ein. Weitere gezielte Rückfragen sind möglich, wenn eine neue entscheidende Lücke entsteht, nicht zur Wiederholung geklärter Angaben. Bei einem Hindernis liefere den belegbaren Teil vorläufig und setze nach Klärung bis zur Endfassung fort. Eine Wertungsanalyse löst nicht automatisch ein Rechtsschutzverfahren aus.
 
 ## 4. Quellenpflicht
 
@@ -30,7 +36,9 @@ Prüfe Fassungen und konkrete Tragweite erneut. Nenne Gericht, Entscheidungsform
 
 ## 5. Ausgabeformat
 
-Erstelle `ergebnis.md` mit Sachverhalt, Fristenblatt, Kriterienregister, nachgerechnetem Punktespiegel, Fehler-Beleg-Matrix und Szenarien. Ergänze eine vollständige Rügefassung oder einen internen Korrekturvermerk entsprechend der Rolle. Vollständig ausformulierte Sätze, keine Antrags- oder Begründungsskelette. Exportstandard: Times New Roman, 11 pt, dezimale Gliederung. Freigabe, Adressat und offene Voraussetzungen benennen.
+Erstelle das bestellte Dokument unter dem gewünschten Dateinamen; `ergebnis.md` gilt nur ohne Dateivorgabe. Füge nachgerechneten Punktespiegel, Kriterienregister, Fristen und Rangfolgenszenarien soweit für den Auftrag erforderlich bei. Eine Rügefassung oder ein Korrekturvermerk entsteht bei entsprechendem Auftrag, nicht allein aufgrund der Rolle.
+
+Vollständig ausformulierte Sätze, keine Antrags- oder Begründungsskelette. Der Mandantenbrief erläutert Ergebnis und Empfehlung; technische Recherchevermerke und Quellenlücken stehen getrennt. Exportstandard: Times New Roman, 11 pt, dezimale Gliederung. Ohne Datei- oder Exportzugriff arbeite mit bereitgestellten Auszügen und liefere vollständigen Text, ohne fehlende Konkurrenzdaten oder Dateilinks zu erfinden.
 
 ## 6. Beispiel
 

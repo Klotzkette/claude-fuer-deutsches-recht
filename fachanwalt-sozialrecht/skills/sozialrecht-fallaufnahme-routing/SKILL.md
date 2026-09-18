@@ -3,127 +3,60 @@ name: sozialrecht-fallaufnahme-routing
 description: "Für Master-Routing-Skill der sozialrechtlichen Kanzlei: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Master-Routing-Skill der sozialrechtlichen Kanzlei
+# 1. Sozialrechtlichen Fall bearbeiten
 
+## 1.1. Zweck
 
-## Arbeitsweg
+Ordne einen sozialrechtlichen Auftrag anhand von Bescheid, Leistungsziel und Verfahrensstand ein. Führe die nötigen Fachprüfungen durch und erstelle das bestellte Dokument; eine Liste von Skills ist kein Ersatz dafür.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: Nur das im Skill betroffene Sozialgesetzbuch und die konkrete Verfahrensnorm heranziehen. Widerspruchsfrist nach Paragraf 84 SGG, Klagefrist nach Paragraf 87 SGG und einstweiliger Rechtsschutz nach Paragraf 86b SGG strikt trennen; Rechtsweg, Statthaftigkeit, aufschiebende Wirkung und Rechtsmittel gesondert prüfen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 1.2. Akte und offene Angaben
 
-**Fokus:** Master-Routing-Skill der sozialrechtlichen Kanzlei. Nimmt einen frischen Fall an und entscheidet in drei Schritten welche weiteren Skills wann gezogen werden. Schritt 1 Fristlage (bescheid-frist-quick-check) Schritt 2 Bescheidart und Rechtsgebiet (Buergergeld SGB II Hilfsmittel SGB V Eingliederungshilfe SGB IX Pflegegrad SGB XI Erwerbsminderung SGB VI Schwerbehinderung SGB IX Teil 3) Schritt 3 Verfahrensstand (Erstantrag Widerspruch Klage Eilantrag) und Mandantensituation (PKH bedurftig Eilbedarf). Endet mit einer konkreten Skill-Reihenfolge für den vorliegenden Fall und einem Aktenanlage-Eintrag. Reduziert das Plugin von siebzehn Einzelskills auf eine einzige Einstiegsfrage.
+Lies vorhandene Anfragen, Bescheide, Zugangsnachweise, Widersprüche und gerichtliche Schreiben. Ermittle betroffene Person, Leistungsträger, Zeitraum und gewünschtes Ergebnis daraus. Bei mehreren Familienmitgliedern trenne Ansprüche und Fristen; frage bekannte Angaben nicht erneut ab.
 
-### Master-Routing — Sozialrechtskanzlei
+Fehlen der tatsächliche Zugang, die angegriffene Regelung oder das Ziel, kläre nur diese offenen Punkte. Bei akuter Existenznot, dringendem Hilfsmittelbedarf oder ausfallender Pflege beziehungsweise Schulbegleitung benenne die konkrete drohende Folge und die erreichbaren Belege. Eile bestimmt die Reihenfolge, beendet aber nicht die Bearbeitung.
 
-## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Master-Routing — Sozialrechtskanzlei` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
-- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## 1.3. Fachlicher Ablauf
 
-Du bist die zentrale Triage. Nach diesem Skill weiss die Anwältin, **welche Skills in welcher Reihenfolge zu ziehen** sind. Nie wieder "welches Werkzeug zuerst?" — diese Frage beantwortest du.
+### 1.3.1. Frist und Verfahren bestimmen
 
-## Eingangs-Frage an Mandantin oder Anwältin
+Prüfe Bekanntgabe und Belehrung, Widerspruch nach Paragraf 84 SGG, Klage nach Paragraf 87 SGG sowie aufschiebende Wirkung und Eilrechtsschutz nach Paragrafen 86a und 86b SGG. Nicht allein aus dem Bescheiddatum rechnen. Der optionale Skill `bescheid-frist-quick-check` kann unterstützen.
 
-Stelle die folgenden vier Fragen, sofort und kompakt, eine nach der anderen — keine Sammelabfrage:
+Bei möglicher Fristversäumung Grund, Dauer und Wegfall des Hindernisses klären und die Voraussetzungen von Paragraf 67 SGG prüfen. Keine starre Zweiwochenweiche zwischen Wiedereinsetzung und Überprüfungsantrag verwenden: Die Wiedereinsetzungsfrist knüpft an den Wegfall des Hindernisses an. Einen Überprüfungsantrag nach Paragraf 44 SGB X gesondert auf Anwendungsbereich, Voraussetzungen und Nutzen prüfen, nicht automatisch als Ersatz für einen Rechtsbehelf.
 
-1. **Datum des Bescheids und Datum des Zugangs?** (oder: kein Bescheid, sondern Erstantrag)
-2. **Welche Behörde, welche Leistung?** (Jobcenter, Krankenkasse, DRV, Versorgungsamt, Sozialhilfeträger, Jugendamt, Pflegekasse)
-3. **Verfahrensstand?** (noch nichts unternommen / Widerspruch läuft / Widerspruchsbescheid da / Klage läuft / Eilbedarf)
-4. **Bedraengnis?** (sofortige Existenznot, Hilfsmittel dringend, Verlust Schulplatz, Kündigung Wohnung wegen Heizkostenstreit, Pflege bricht zusammen)
+### 1.3.2. Passende Fachprüfung wählen
 
-## Entscheidungsbaum
+- Grundsicherung: Nach Paragrafen 19 ff. SGB II streitige Monate, Haushalt, Bedarf und Zuflüsse abgleichen; optional `sgb-ii-bescheid`.
+- Hilfsmittel: Funktionsbedarf, vorhandene Versorgung und Ablehnungsgrund nach Paragraf 33 SGB V sowie gegebenenfalls Paragrafen 47 ff. SGB IX prüfen; optional `hilfsmittelantrag-pruefen`.
+- Schulbegleitung: konkreten Unterstützungsbedarf, Stundenumfang und Trägerzuständigkeit nach Paragrafen 90 ff. SGB IX beziehungsweise Paragraf 35a SGB VIII abgrenzen; optional `eingliederungshilfe-schule`.
+- Pflegegrad: Alltagshilfe und Modulbewertungen nach Paragrafen 14 und 15 SGB XI gegenüberstellen; optional `pflegegrad-widerspruch`.
+- Erwerbsminderungsrente: Leistungsbild, Eintrittszeitpunkt und Versicherungszeiten nach Paragrafen 43 und 240 SGB VI prüfen; optional `erwerbsminderungsrente`.
+- Schwerbehinderung: Funktionsbeeinträchtigungen und Bewertung nach Paragraf 152 SGB IX und VersMedV prüfen; optional `gdb-schwerbehinderung`.
+- Asylbewerberleistungen: konkrete Regelung nach Paragrafen 1a bis 3 AsylbLG und Bescheidgrundlage prüfen; keine automatische Übernahme des SGB-II-Maßstabs.
 
-### Schritt 1 — Fristlage zuerst
+Medizinische Fragen, wirtschaftliche Voraussetzungen und Statusfragen getrennt bearbeiten. Bei Versicherungsstatus die tatsächliche Eingliederung, Weisungen, Rechtsmacht und das Unternehmerrisiko prüfen, nicht bloß den Vertragstitel.
 
-Ziehe **`bescheid-frist-quick-check`** sofort. Ergebnisse:
+### 1.3.3. Nachfordern und fortsetzen
 
-| Fristlage | Sofortiger nächster Skill |
-|---|---|
-| Frist offen, mehr als 14 Tage | `bescheidanalyse` → `widerspruch-formulieren` |
-| Frist offen, weniger als 14 Tage | `widerspruch-formulieren` (Kurzfassung) parallel `akteneinsicht-anfordern` |
-| Frist verstrichen, weniger als 14 Tage drüber | `widerspruch-formulieren` plus Wiedereinsetzung § 67 SGG |
-| Frist verstrichen, mehr als 14 Tage | Prüfen Überprüfungsantrag § 44 SGB X — eigenständiger Pfad |
-| Eilbedarf (Existenz, Hilfsmittel, Schule) | `eilantrag-sozialrecht` **parallel** zum Widerspruch |
+Fehlt ein Modulbogen im Pflegegutachten, frage genau danach und vergleiche nach Eingang die streitige Alltagshilfe mit der Bewertung. Fehlt bei Grundsicherung ein Zuflussnachweis, kläre Zahlungsdatum und Zweck und rechne den betroffenen Monat neu. Bei Erwerbsminderung einen Widerspruch zwischen Befund und Stundenangabe durch konkrete medizinische Fragen klären, nicht durch eine eigene Diagnose.
 
-### Schritt 2 — Bescheidart und Rechtsgebiet
+Arbeite neue Antworten in Rechnung, Beweiswürdigung und den bestellten Text ein. Eine weitere entscheidende Lücke rechtfertigt eine kurze Anschlussfrage, aber keine erneute Gesamtaufnahme. Amtsermittlung ersetzt weder die Unterscheidung zwischen Angabe und Nachweis noch die Prüfung verbleibender Nichterweislichkeit.
 
-Mappe das Rechtsgebiet auf den Fachmodul:
+### 1.3.4. Begleitende Aufgaben auswählen
 
-| Rechtsgebiet | Fachmodul | Hauptnormen |
-|---|---|---|
-| Bürgergeld SGB II | `buergergeld-pruefen` | §§ 19 ff. SGB II |
-| Hilfsmittel SGB V (Rollstuhl, Hörhilfe, Lift) | `hilfsmittelantrag-pruefen` | § 33 SGB V, §§ 47 ff. SGB IX |
-| Schulbegleitung Eingliederungshilfe SGB IX | `eingliederungshilfe-schule` | §§ 90 ff. SGB IX, § 35a SGB VIII |
-| Pflegegrad SGB XI | `pflegegrad-widerspruch` | §§ 14, 15 SGB XI, MD-Begutachtung |
-| Erwerbsminderungsrente SGB VI | `erwerbsminderungsrente-pruefen` | §§ 43, 240 SGB VI |
-| Schwerbehinderung GdB Merkzeichen | `schwerbehindertenausweis-gdb` | § 152 SGB IX, VersMedV |
-| Asylbewerberleistungen | (allgemein `bescheidanalyse` plus `widerspruch-formulieren`) | §§ 1a–3 AsylbLG |
+Akteneinsicht für fehlende entscheidende Bestandteile vorbereiten, nicht automatisch erneut bei bereits vollständiger Akte. PKH und Beratungshilfe nur bei entsprechendem Bedarf und Auftrag prüfen. Anlagen nach tatsächlichen Belegbezügen ordnen; die bloße Zahl der Dateien löst kein eigenes Verfahren aus. Bei Verständnisschwierigkeiten den Mandantenbrief sprachlich anpassen, ohne rechtliche Voraussetzungen wegzulassen.
 
-### Schritt 3 — Verfahrensstand und Mandantensituation
+## 1.4. Quellen
 
-Lege fest, ob folgende Querschnitt-Skills heute noch anzustoßen sind:
+Normen und tragende Entscheidungen anhand zugänglicher Quellen prüfen; Entscheidungen mit Gericht, Form, Datum, Aktenzeichen und einschlägiger Passage angeben. Amtlicher Bezug für die Wiedereinsetzung: [Paragraf 67 SGG](https://www.gesetze-im-internet.de/sgg/__67.html). Unverifizierte Fundstellen und Literatur aus Modellwissen nicht übernehmen.
 
-- **`akteneinsicht-anfordern`** — bei jedem Bescheid mit medizinischer oder gutachterlicher Grundlage, sofort parallel
-- **`pkh-erfolgsaussicht-pruefen`** plus **`prozesskostenhilfe-antrag`** — wenn Klage absehbar und Mandant bedurftig
-- **`fristenbuch-sozialrecht`** — Eintrag noch heute, kein Tag später
-- **`anlagen-erstellen`** — sobald drei oder mehr Belege im Spiel sind
-- **`mandantenbrief-leichte-sprache`** — wenn Mandant Bescheid nicht versteht oder kognitive Beeintraechtigung vorliegt
+## 1.5. Ergebnis und Endkontrolle
 
-## Output-Format
+Liefere den bestellten Brief, Antrag oder Vermerk unter dem gewünschten Dateinamen. Ohne Dokumentenauftrag erläutere Streitgegenstand, Fristlage, Beweislage und begründete Empfehlung in einem kurzen Vermerk. Interne Bearbeitungsreihenfolgen und Quellenkontrollen sind keine Pflichtgliederung des Empfängertextes.
 
-Liefere eine **Routing-Karte** im folgenden Format:
+Bei offenen entscheidenden Nachweisen liefere einen erkennbaren Teilstand und setze nach Eingang bis zum bestellten Ergebnis fort. Prüfe vor Abschluss insbesondere richtige Person, Zeitraum, Zuständigkeit, Frist und Einarbeitung neuer Angaben. Versand, Einreichung, Vergleich oder Verzicht nur mit ausdrücklicher Freigabe; eine interne Überarbeitung benötigt keine neue Erlaubnis.
 
-```
-ROUTING-KARTE — Az [intern] — [Mandant] — [Datum]
+Vollständige Sätze, keine Stichwortskelette; ausschließlich dezimale Gliederung. Formatierte Dokumente verwenden Times New Roman 11 pt, sonst Exporthinweis. Ohne Zugriff oder Export liefere den bearbeitbaren Text und benenne die konkreten Einschränkungen getrennt vom Mandantenbrief, ohne erfolgreiche Datei- oder Quellenprüfung vorzutäuschen.
 
-Fristlage: [offen / knapp / verstrichen / Eilbedarf]
-Rechtsgebiet: [SGB X]
-Verfahrensstand: [Erstbescheid / Widerspruch / Klage]
-Eilbedarf: [ja / nein, Begruendung]
+## 1.6. Beispiel
 
-REIHENFOLGE HEUTE
-1. [Skill A] — Ergebnis = X
-2. [Skill B] — Ergebnis = Y
-3. Fristenbuch-Eintrag
-
-REIHENFOLGE DIESE WOCHE
-4. [Skill C]
-5. [Skill D]
-
-PARALLEL
-- Akteneinsicht (ja/nein + Begruendung)
-- PKH (ja/nein)
-- Eilantrag (ja/nein)
-
-MANDANTENINFORMATION
-- Naechste Rueckmeldung an Mandant bis [Datum]
-- Pflichtinfo: [Frist X laeuft am Y ab]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Anwendungsbeispiel — Familie Tannenberg
-
-In der Testakte `sozialrecht-rollstuhl-tannenberg` liegen vier Fälle in einer Familie. Wende die Routing-Karte je Fall einmal an. Du wirst sehen: vier sehr unterschiedliche Pfade trotz einem Plugin.
-
-## Hinweise
-
-- Du sprichst die Anwältin direkt an, nicht den Mandanten.
-- Nie raten — wenn ein Datum fehlt, frage nach.
-- Wiedereinsetzung § 67 SGG ist Ausnahme, kein Standardpfad. Wirklich nur bei unverschuldeter Verzoegerung.
-- Bei jeder Routing-Karte: **schreibe einen kurzen Aktenvermerk für die Akte** (zwei bis vier Sätze).
-- Wenn mehrere Familienmitglieder betroffen sind: ein Routing-Karte je Person, kein Sammeleintrag.
-
-## Aktuelle Rechtsprechung — Routing-Grundlagen
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Für ein Kind ist Schulbegleitung ab Schuljahresbeginn streitig, während bei einem Elternteil ein Pflegegradverfahren läuft. Ordne Unterlagen und Fristen getrennt zu. Fehlt für die Schulbegleitung die Beschreibung der konkreten Unterstützungssituationen, frage sie nach und vervollständige anschließend den dafür bestellten Entwurf; der Pflegefall wird dadurch nicht ungefragt zum zweiten Dokumentenauftrag.

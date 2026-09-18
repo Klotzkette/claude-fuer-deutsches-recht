@@ -139,34 +139,43 @@ Ausgangspunkt für dieses Plugin: Tatnachweis beim Staat; Verteidigung markiert 
 
 _Für Kaltstart Internal Investigation: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Kaltstart Internal Investigation
+# 1. Interne Untersuchung auftragsbezogen bearbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1 Zweck
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Prüfe den konkreten Untersuchungsanlass und verfasse den bestellten Untersuchungsplan, Interviewleitfaden oder Bericht. Bereite Sicherungs- und Untersuchungsmaßnahmen vor, ohne sie eigenmächtig auszulösen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+## 1.2 Eingaben
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Lies Auftrag, Hinweis, bisherige Berichte und vorliegende Belege zuerst. Entnimm Mandant, Auftraggeber, betroffene Personen, Zeitraum, Fragestellung und Empfänger aus diesen Unterlagen. Übernimm bereits geklärte Angaben; frage nur entscheidende Lücken nach.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.3 Bearbeitung und Fortsetzung
 
-## Ziel
+1. Grenze Auftrag und Befugnisse ab. Prüfe Interessenkonflikte und bestimme, wer neue Datenquellen, Personen oder Zeiträume freigeben muss. Eine neue Verdachtsangabe erweitert die Untersuchung nicht automatisch.
+2. Bei drohender Löschung bereite einen rechtlich begrenzten Sicherungsvorschlag vor. Trenne Sicherung und Auswertung und prüfe Rechtsgrundlage, Verhältnismäßigkeit, Beteiligungsrechte und Zugriffskreis. Kein automatischer Löschstopp und keine vollständige Kopie aller Konten.
+3. Formuliere überprüfbare Tatsachenfragen und suche auch entlastende Belege. Fehlt etwa eine Zahlungsfreigabe oder die Herkunft einer Datei, fordere genau den entsprechenden Nachweis an. Behauptung, Suchtreffer und Interviewaussage sind nach ihrer tatsächlichen Aussagekraft zu beurteilen.
+4. Gleiche neue Angaben mit der bisherigen Beweislage ab. Überarbeite die betroffene Feststellung und schreibe das bestellte Dokument weiter. Ergibt sich ein neuer entscheidender Widerspruch, frage gezielt nach, ohne bereits beantwortete Punkte zu wiederholen.
+5. Bleibt eine zulässige Erhebung oder ein Beleg aus, liefere die unabhängig bearbeitbaren Teile vorläufig und benenne den konkret benötigten nächsten Beitrag. Nach Klärung setze bis zur Endfassung fort.
 
-Erzwinge eine prüfbare Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+## 1.4 Fachliche Grenzen und Quellen
 
-## Arbeitsprogramm
+Prüfe Organpflichten, Arbeitsrecht, Datenschutz und Hinweisgeberschutz nach der konkreten Maßnahme. Insbesondere Paragraf 26 BDSG ist bei Beschäftigtendaten nicht als pauschale Untersuchungserlaubnis zu behandeln. Interne Mitwirkungspflichten, Selbstbelastungsrisiken und strafprozessuale Rechte sind gesondert zu beurteilen.
 
-- Anlass, Mandant, Auftraggeber und mögliche Betroffene klären.
-- Untersuchungsziel eng formulieren.
-- Sofort Legal Hold, Datenfreeze und Kommunikationsdisziplin setzen.
+Schweigen im Interview ist kein Schuldeingeständnis. Verändere keine Originalbelege und rekonstruiere keine fehlenden Aussagen. Ein anwaltlicher Auftrag garantiert keinen Beschlagnahmeschutz; Mandat, Gewahrsam und Verfahren müssen geprüft werden.
 
-## Ausgabe
+Verifiziere tragende Normen amtlich. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarem Aussagegehalt; keine unverifizierten Literatur- oder Datenbankzitate. Zitierhinweise in `references/zitierweise.md` sind optional nutzbar.
 
-Erzeuge Untersuchungsplan, Interviewleitfaden, Risikoampel, Board Memo oder Verteidigungsdossier. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+## 1.5 Ausgabe
+
+Liefere das bestellte Dokument vollständig ausformuliert. Ein Bericht trennt Feststellungen, entlastende Umstände und Unsicherheit; ein Interviewleitfaden enthält konkrete, ergebnisoffene Fragen. Interne Quellen- und Zugriffsvermerke stehen getrennt vom Empfängerbrief.
+
+Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente nutzen soweit möglich Times New Roman 11 Punkt und dezimale Gliederung. Datenerhebung, Befragung, Kündigung, Anzeige und Weitergabe benötigen ausdrückliche Freigabe.
+
+## 1.6 Beispiel
+
+Ein Hinweis behauptet eine unzulässige Beraterzahlung, Rechnung und Vertrag liegen vor. Prüfe Leistung, Zahlungsfluss und Freigabe und fordere nur die fehlenden entscheidenden Belege an. Nach Eingang aktualisiere die Feststellung und vervollständige den beauftragten Bericht, ohne den Vorwurf vorweg als erwiesen darzustellen.
+
+Ohne zugängliche Datei oder Quelle benenne die konkrete Prüfgrenze und bearbeite unabhängige Teile. Ohne Export liefere Text; weitere Skills sind keine Voraussetzung.
 
 ---
 

@@ -3,100 +3,49 @@ name: kaltstart-routing
 description: "Für Kanzlei-Allgemein Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Kanzlei-Allgemein-Plugin Kaltstart
+# 1. Kanzleiarbeit einrichten oder fortsetzen
 
-## Direktstart: lesen, entscheiden, liefern
+Bearbeite den konkreten Kanzleiauftrag mit den vorhandenen Konventionen und Unterlagen. Ein Kanzleiprofil wird nur bei beauftragter Ersteinrichtung oder gezielter Änderung erstellt, nicht vor jeder Rechnung oder Versandprüfung erneut abgefragt.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1. Vorhandene Vorgaben
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Lies freigegebene Kanzleivorgaben zu Aktenzeichen, Eingangskanälen, Fristenkalender, Verantwortlichen, Vergütung und Ausgabewegen. Entnimm Kanzleiform, Rechtsgebiete und typische Mandate daraus. Ein gewünschter Neustart rechtfertigt keine ungefragte Löschung bestehender Profile.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Bei einem konkreten Mandatsauftrag unmittelbar mit dessen Material arbeiten. Fehlt etwa die maßgebliche Vertragsfassung oder Zuordnung eines Zahlungseingangs, genau diese Lücke klären und danach das bestellte Dokument fertigstellen.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2. Ersteinrichtung nach Arbeitsbereichen
 
-## Triage zu Beginn
-1. Handelt es sich um eine Ersteinrichtung oder ein Plugin-Reset (Profil loeschen und neu beginnen)?
-2. Welchen Kanzleityp haben wir: Einzelanwalt, Buerogemeinschaft, Sozietaet, PartG, GmbH, Rechtsabteilung?
-3. Welche Rechtsgebiete und Mandatsarten sind typisch für diese Kanzlei?
-4. Sind beA, E-Mail, DMS oder Buchhaltungssoftware bereits vorhanden und angebunden?
+Nur noch offene, für den beauftragten Bereich erforderliche Entscheidungen klären:
 
-## Zentrale Normen
-- §§ 43, 43a BRAO — Allgemeine Berufspflichten: gelten ab erstem Mandatstag
-- § 51 BRAO — Pflichtversicherung: muss bei Kanzleigruendung bestehen
-- § 31a BRAO — beA-Nutzungspflicht: sofort bei Zulassung
-- § 8 PartGG — Haftung in der Partnerschaftsgesellschaft: wichtig für Kanzleistruktur-Entscheidung
+- Akten und Annahme: Aktenzeichenschema, Ordner, Konfliktprüfung, Identität, Vollmacht, Umfang, Datenschutz, gegebenenfalls KI-Hinweis, Vergütung und Vorschuss.
+- Fristen und Post: verbindlicher Kalender, Eingangskanäle, Vorfristen, Kontrolle, Vertretung, beA-Journal und Versandfreigabe.
+- Abrechnung: RVG oder Vereinbarung, Zeitnachweis, vereinbarte Taktung, Rollen, Rechnungsnummern, Korrekturen, E-Rechnung und Validierung.
+- Buchhaltung: Konten, Betriebsausgaben, Vorsteuer, UStVA-Zeitraum und Übergabe an Fachsystem oder Steuerkanzlei.
+- Personal: Zuständigkeiten, Zugänge, Arbeitsverträge, Abwesenheiten, Vertretung sowie Lohn- und Sozialversicherungsübergabe.
+- Technische Anbindung: tatsächlich verfügbare Textverarbeitung, E-Mail, DMS, Kalender, beA und Buchhaltung; Testdaten, pseudonymisierte oder reale Mandatsdaten unterscheiden.
 
-## Pflichtfragen
+Fragen in kurzen zusammenhängenden Runden stellen. Ändert eine Antwort etwa den verbindlichen Kalender, nur Fristenübertragung und Verantwortlichkeiten nachziehen. Ergibt sich eine neue entscheidende Lücke, gezielt nachfragen; bereits bestätigte Einstellungen nicht erneut erheben.
 
-Einmalig am Anfang fragen:
+## 1.3. Organisatorische und rechtliche Grenzen
 
-1. Kanzleityp: Einzelanwalt, Bürogemeinschaft, Sozietät, PartG, GmbH, Rechtsabteilung.
-2. Rechtsgebiete und typische Mandatsarten.
-3. Arbeitsmodus: Kommandocenter zuerst, Fachmodule direkt oder Simulation.
-4. Aktenzeichen-Schema.
-5. Eingangskanäle: Brief, Fax, beA, E-Mail, Telefonnotiz, SMS, iMessage, WhatsApp, Telegram, Teams, Screenshot, Upload-Ordner.
-6. Fristenkalender: welches System ist verbindlich, wer kontrolliert, welche Vorfristen.
-7. Honorar: RVG, Stundenhonorar, Pauschale, Vorschuss, Rechtsschutz.
-8. Mandatsannahme: Konfliktcheck, Aktenanlage, Aktenzeichen, Kontoblatt, Vorschuss, Mandatsvereinbarung, Datenschutz, KI-Hinweis.
-9. GwG: Kataloggeschäfte, Identifizierung, wirtschaftlich Berechtigte, PEP, Hochrisiko, Verdachtsfall, BRAK-Dokumentationsbögen, goAML-Status.
-10. Output: Standardwege für Mandant, Gericht, Behörde, Gegner, Versicherung.
-11. beA: nur vorbereiten, Versandcheck führen, Nachrichtenjournal sichern, ZIP-Archive herunterladen und entpacken oder technische Versandunterstützung möglich.
-12. Zeiterfassung: Taktung, Mindestzeiteinheit, Bearbeiterrollen, Narrative-Stil, Rechnungsfreigabe.
-13. Rechnung: Rechnungsnummernkreis, Pflichtangaben, GoBD-Ablage, E-Rechnungsformat, XRechnung, ZUGFeRD, Validierung, Korrekturrechnung.
-14. Buchhaltung: Eingangsrechnungen, Betriebsausgaben, Vorsteuer, UStVA-Zeitraum, ELSTER oder Steuerkanzlei.
-15. HR: Mitarbeiterstamm, Rollen, Arbeitsverträge, Urlaub, Krankheit, Fehlzeiten, Fortbildung, Zugänge.
-16. Lohn/SV: Lohnsoftware oder Steuerkanzlei, ELStAM, Lohnsteuer-Anmeldung, SV-Meldungen, Minijobs, Bonus, Gratifikation.
-17. Kanzleikalender: Fristen, Termine, Postlauf, beA, Urlaub, Krankheit, Payroll, UStVA, Jour fixe.
-18. Integrationen: Word, Outlook, beA, Fax, Messenger, DMS, Fristenkalender, Buchhaltung, ELSTER, Kalender.
-19. Simulationsmodus: fehlende Integrationen anschließen oder realistisch simulieren.
-20. Output-Turbo: Klage, Replik, Antrag, Vertragsentwurf, Rechtsprechungsrecherche, Handelsregisterabruf, Anlagenverzeichnis.
-21. Begleitmodus: knappe Hinweise, junge-Anwalt-Menüführung, Schreib-Canvas, Substanzcheck.
-22. Datenschutz-Sicherheitsstufe: Testdaten, pseudonymisierte Mandate, echte Mandate.
+Paragrafen 43 und 43a BRAO für Berufspflichten, Paragraf 51 BRAO für Versicherung, Paragraf 31a BRAO für das Postfach und Paragraf 8 PartGG bei entsprechender Kanzleistruktur konkret prüfen. Technische Postfachverfügbarkeit, aktive Einreichungspflicht und geeigneter Übermittlungsweg sind unterschiedliche Fragen.
 
-## Sichere Defaults
+Ohne bestätigte Vorgabe kein verbindliches Aktenzeichenformat, keine feste Zeitabrechnung und keine automatische Vorfrist erfinden. Vorschläge als Vorschläge kennzeichnen. Mandatsannahme nur bei dokumentierter Entscheidung und erforderlicher Konflikt- und GwG-Prüfung als erfolgt behandeln; Verdachtsmomente nicht stillschweigend erledigen.
 
-Wenn der Nutzer nichts vorgibt:
+beA-PINs, Token und Passwörter nicht im Chat verarbeiten. Journal, Archiv und Empfangsbekenntnis nur nach tatsächlichem Vorgang dokumentieren; Zustimmung zu einer Entwurfsarbeit ist keine Versandfreigabe. Fristenübertragung in den verbindlichen Kalender kontrollieren, nicht aus der Erstellung einer Notiz ableiten.
 
-- Aktenzeichen: `JAHR-RECHTSGEBIET-LFDNR`.
-- Fristen: Hauptfrist plus Vorfrist; Übertragung in verbindlichen Kanzleikalender ausdrücklich bestätigen lassen.
-- Versand: keine automatische Versendung, nur Entwurf und Versandcheck.
-- beA: keine PINs oder Token im Chat; bei beA-Connect Journal, Screenshot, ZIP-Archiv, entpackte Nachricht und EB-Entscheidung protokollieren.
-- Zeit: 6-Minuten-Takt mit kurzer, mandantenfähiger Narrative.
-- Rechnung: Entwurf und GoBD-Protokoll vorbereiten, finale Rechnung erst nach Freigabe; E-Rechnung nur mit Validierungsvermerk.
-- Integrationen: nichts heimlich verbinden; bei fehlendem Anschluss Simulationsmodus anbieten.
-- Begleitmodus: freundlich, verzeihend, kurze hilfreiche Hinweise statt Daueralarm.
-- Mandatsannahme/GwG: keine Annahme ohne dokumentierten Konfliktcheck, Annahmeentscheidung, GwG-Anwendbarkeitsprüfung und Kontoblatt. GwG-Verdacht nie still normalisieren.
-- UStVA: nur vorbereiten und Übergabe an ELSTER, Buchhaltung oder Steuerkanzlei markieren.
-- HR: Personal- und Lohnworkflows nur vorbereiten; keine stille Lohnabrechnung, keine SV- oder Lohnsteuerübermittlung ohne Fachsystem und Freigabe.
-- Kanzleikalender: Fristen, Abwesenheiten und Payroll-/UStVA-Stichtage zusammen anzeigen.
-- Kommandocenter: immer zuerst Ziel, Ampel und nächste drei Schritte ausgeben, wenn der Nutzer keinen Fachmodul nennt.
+Rechnungen, UStVA, Lohn- und Sozialversicherungsmeldungen nur im beauftragten Umfang vorbereiten. Versand, Meldung, Zahlung und Systemanbindung brauchen ausdrückliche Autorisierung sowie erforderliches Fachsystem und Freigabe. Simulation nur auf Wunsch und sichtbar getrennt vom realen Mandatsstand.
 
-## Ausgabe
+## 1.4. Fertiges Ergebnis
 
-Ein `Kanzlei-Lebenszyklus-Profil` mit:
+Bei Einrichtungsauftrag ein verständliches Kanzleiprofil mit den tatsächlich vereinbarten Abläufen liefern; offene Entscheidungen mit ihrer Auswirkung nennen. Kein Pflichtpaket aus Ampeln, „Turbo“-Regeln und allen denkbaren Checklisten. Bei Einzelauftrag stattdessen die bestellte Rechnung, den Brief, Fristenvermerk oder die Versandvorbereitung ausarbeiten.
 
-- Konventionen.
-- Sicherheitsgattern.
-- Ordnerstruktur.
-- Integrationsstatus.
-- Simulationsregeln.
-- Begleitmodus-Regeln.
-- Kommandocenter-Regeln.
-- HR- und Payroll-Grundregeln.
-- Mandatsannahme-, GwG- und Kontoblatt-Regeln.
-- Kanzleikalender-Struktur.
-- Qualitätsgate-Modus.
-- Schriftsatz- und Vertrags-Turbo-Regeln.
-- Rechtsprechungsrecherche- und Ablageregeln.
-- Standard-Checklisten.
-- Offenen Punkten, die noch nicht sicher entschieden sind.
+Fehlt eine entscheidende Freigabe oder Angabe, belastbaren Teil vorläufig liefern. Nach Antwort den betroffenen Ablauf oder Text aktualisieren und das bestellte Ergebnis abschließen. Nutzerdateinamen beachten; vollständige Sätze und bei formatierten Dokumenten möglichst Times New Roman 11 pt sowie dezimale Gliederung verwenden.
 
-## Übergabe
+Tragende Rechtsquellen amtlich prüfen, Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und Aussagegehalt. Optional ergänzt `references/zitierweise.md` die Zitierweise. Quellenstatus und technische Grenzen getrennt vom Mandantenbrief halten.
 
-Danach an `kanzlei-allgemein-kommandocenter`, `kanzlei-allgemein-integrationen-simulation`, `kanzlei-allgemein-freundlicher-copilot`, `kanzlei-allgemein-kanzleikalender`, `kanzlei-allgemein-intake` und bei neuer Akte an `kanzlei-allgemein-mandatsannahme-gwg`, sobald ein Eingang oder eine neue Akte vorliegt.
+## 1.5. Beispiel und optionale Vertiefung
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Für die Vorbereitung einer Honorarrechnung fehlen zwei Zeitnachweise. Fordere die konkreten Tätigkeiten und Zeiten an, gleiche die Antwort mit der Vereinbarung ab und vervollständige die Rechnung. Frage nicht zuvor erneut nach Kanzleiform, Eingangskanälen und Urlaubsplanung.
+
+Optional unterstützen `kanzlei-allgemein-kommandocenter`, `kanzlei-allgemein-integrationen-simulation`, `kanzlei-allgemein-freundlicher-copilot`, `kanzlei-allgemein-kanzleikalender`, `kanzlei-allgemein-intake` und `kanzlei-allgemein-mandatsannahme-gwg` passende Teilaufgaben. Ohne diese Ressourcen anhand dieses Ablaufs weiterarbeiten. Fehlenden Zugriff konkret benennen; ohne Export vollständigen Text liefern.

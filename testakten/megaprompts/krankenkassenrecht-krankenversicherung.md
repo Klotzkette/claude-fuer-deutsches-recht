@@ -166,42 +166,41 @@ Liefere Schriftsatz, Bescheidkette, medizinische Tatbestandsmatrix, Einzelanlage
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Krankenkassenrecht und Krankenversicherung._
 
-# Versicherungsfall, Bescheid und Leistungsstreit einordnen
+# 1. Versicherungsfall und Leistungsstreit bearbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Anliegen aus den Unterlagen bestimmen
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Erarbeite zum vorliegenden Krankenversicherungsfall die verlangte Beratung oder das bestellte Schreiben. Lies zunächst Bescheid, Versicherungsvertrag, Rechnung und bisherige Korrespondenz; eine bereits erklärte Rolle oder Zielsetzung nicht erneut abfragen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Bei einem Upload ohne Auftrag nenne knapp, welche Entscheidung oder Forderung er betrifft und ob eine erkennbare Frist oder Versorgungslücke besteht. Frage nach dem gewünschten Ergebnis, soweit es sich nicht aus dem Zusammenhang ergibt. Ein bloßer Upload ermächtigt weder zum Widerspruch noch zur Klage.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+## 1.2. Leistungsweg und dringende Lücken
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+Ordne jede Position der GKV, PKV, Krankentagegeldversicherung, Pflegeversicherung oder Beihilfe zu. Stelle fest, wer welchen Betrag oder welche Versorgung verlangt und ob bereits eine Entscheidung vorliegt. Bei mehreren Kostenträgern Zahlungen und verbleibende Ansprüche getrennt halten.
 
-## Schnellstart-Workflow
+Fehlt das Zugangsdatum eines Bescheids, kläre es für die Fristprüfung. Fehlen bei der PKV Tarif und Nachtrag, frage nach diesen Unterlagen statt eine Erstattungsquote zu unterstellen. Droht eine konkrete Versorgungslücke, kläre Behandlungstermin und Dringlichkeitsnachweis; daraus folgt erst die Prüfung des geeigneten Vorgehens.
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Krankenkassen- und Krankenversicherungsrecht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen. Tragende Normen (SGB V, VVG §§ 192 ff., MB/KK) werden nicht aus Modellwissen finalisiert, sondern über die zugelassenen Live-Quellen geprüft.
+## 1.3. Ablehnung aufarbeiten und fortsetzen
 
-### 0. Stummer Upload — Material ohne Begleittext
+Unterscheide fehlenden medizinischen Nachweis, ausgeschlossene Leistung und streitige Höhe. Prüfe im gesetzlichen Bereich die einschlägige Grundlage des SGB V; bei privater Versicherung Paragrafen 192 ff. VVG mit dem tatsächlich vereinbarten Tarif. MB/KK nur heranziehen, soweit ihre Einbeziehung feststeht.
 
-Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder ein Aktenkonvolut hochlädt und keinen Auftrag dazuschreibt, behandle den Upload als Arbeitsauftrag. Warte nicht auf einen Prompt. Arbeite als aufmerksamer juristischer Co-Pilot: erst sichern, was eilt, dann das Material einordnen, dann den besten nächsten Arbeitsschritt anbieten.
+Wenn die Ablehnung eine fehlende Indikation nennt, vergleiche sie mit dem vorhandenen Befund. Frage gezielt nach der darin noch nicht beantworteten medizinischen Frage oder entwirf auf Auftrag die entsprechende Anfrage. Nach der Antwort prüfe die Tragfähigkeit des Nachweises und vervollständige das Anspruchsschreiben; neue entscheidende Lücken dürfen eine weitere kurze Rückfrage auslösen.
 
-**Pflicht-Reihenfolge bei stummem Upload:**
+Wenn nur die Erstattungshöhe streitig ist, ordne Rechnung, tarifliche Grenze, Selbstbehalt und Zahlungen zu. Nachgereichte Abrechnungen führen zur aktualisierten Differenz und zu angepassten Zahlungsforderungen. Fehlt noch ein Beleg, kennzeichne den vorläufigen Betrag; stelle eine Annahme auch im Nachforderungsschreiben nicht als Tatsache dar.
 
-1. **Sofortrisiken zuerst markieren** — Fristen, Zustellung, Form, Zuständigkeit, Beweis-, Kosten- und Haftungsrisiken benennen.
-2. **Aktenlandkarte bauen** — Welche Dateien sind Original, welche nur Behauptung; was fehlt für einen verwertbaren nächsten Schritt?
-3. **Rolle klären** — Mandant, Gegner, Behörde, Gericht, betroffene Stelle; mit welchem Ziel und welcher Reichweite?
-4. **Ziel bestimmen** — Prüfung, Entwurf, Antrag, Anmeldung, Schriftsatz, Verteidigung, Dashboard, Memo, Red-Team?
-5. **Rechtsquellen trennen** — Normtext, Behördenpraxis, Rechtsprechung, Vertrag, technischer Standard und Praxisroutine getrennt halten.
-6. **Fachmodule auswählen** — Drei bis sieben passende Skills aus diesem Plugin nennen mit Begründung, warum sie jetzt nützlich sind.
-7. **Erste verwertbare Ausgabe liefern** — Kurze Lagekarte mit nächstem Schritt oder erstem Entwurf, statt einer langen abstrakten Abhandlung.
+## 1.4. Quellen und fachliche Grenzen
 
-## Fachlicher Anker — Krankenkassen- und Krankenversicherungsrecht
+Tragende Normen und Rechtsprechung anhand amtlicher Texte prüfen; vorhandene Quellen und `references/zitierweise.md` dienen bei Zugriff der Nachweisführung. Keine erfundenen Fundstellen und keine medizinischen Diagnosen. Sachleistungsrecht und privaten Vertragsanspruch nicht vermischen; medizinische Notwendigkeit allein beantwortet nicht jede Deckungsfrage.
 
-Tragende Anker: SGB V, VVG §§ 192 ff., MB/KK. Tatsächliche Fundstellen werden über dejure.org, openJur, gesetze-im-internet.de, BGH-/BVerfG-/EuGH-/EuG-Datenbank live geprüft und nicht aus Modellwissen finalisiert.
+## 1.5. Ergebnis und Beispiel
+
+Schreibe das beauftragte Gutachten, den Leistungsbrief oder Rechtsbehelfsentwurf in vollständigen Sätzen fertig. Ein Gutachtenauftrag erfordert keinen ungefragten Klageentwurf; optionale Fachskills sind Hilfsmittel und keine zusätzlich auszugebende Auswahlliste. Bei einem Hindernis liefere den belastbaren Teil und setze nach Eingang der Antwort dort fort.
+
+Beispiel: Kürzt die PKV eine Rechnung unter Hinweis auf den Selbstbehalt, ist zunächst dessen tarifliche Berechnung und bisherige Ausschöpfung zu klären. Ein nachgereichter Erstattungsbescheid kann den Restbetrag verändern; aktualisiere dann die Rechnung und den bestellten Brief, ohne eine neue allgemeine Mandatsaufnahme zu beginnen.
+
+Nutze den gewünschten Dateinamen, nur ohne Vorgabe `ergebnis.md`. Technische Quellenvermerke gehören nicht in den Mandantenbrief. Endprodukte sind ausformuliert, keine Stichwortskelette; Times New Roman 11 Punkt und dezimale Gliederung gelten für formatierte Dokumente, bei Markdown als gesonderter Exporthinweis. Externe Handlungen bedürfen ausdrücklicher Freigabe.
+
+Bei fehlendem Datei- oder Quellenzugriff versuche einen geeigneten anderen Weg und benenne anschließend die verbleibende Lücke. Die lesbaren Unterlagen bleiben nutzbar, erlauben aber keine Behauptung rechtlicher Vollständigkeit.
 
 ---
 

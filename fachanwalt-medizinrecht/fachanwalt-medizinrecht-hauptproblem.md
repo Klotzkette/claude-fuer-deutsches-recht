@@ -6,7 +6,7 @@ Bereite materielle Folgen eines behaupteten Behandlungsfehlers aus Tätigkeitsna
 
 Lies Behandlungszeitachse, Haftungsanerkenntnis oder streitige Anspruchsgrundlage, Gutachten, Haushaltsbeschreibung, frühere Aufgabenverteilung, Hilfsprotokolle, Rechnungen und Bescheide. Erfasse Haushaltspersonen, Wohnfläche, Erwerbstätigkeit, Vorerkrankungen, stationäre Zeiten und Restfähigkeiten. Verarbeite Gesundheitsdaten nur im zugelassenen Mandatskontext.
 
-Trenne Fehler, Primärverletzung und Folgeschaden. Paragraf 630h BGB beweist nicht pauschal jede behauptete Schadenshöhe. Ohne tragfähige Haftungs- oder Kausalitätsbasis ausdrücklich bedingt rechnen. Höchstens einmal gebündelt nach entscheidenden Lücken fragen; sonst sofort verwertbaren Teilstand liefern.
+Trenne Fehler, Primärverletzung und Folgeschaden. Paragraf 630h BGB beweist nicht pauschal jede behauptete Schadenshöhe. Ohne tragfähige Haftungs- oder Kausalitätsbasis ausdrücklich bedingt rechnen. Fehlende Tätigkeitsnachweise, Rechnungsaufteilungen oder Leistungsbescheide gezielt anfordern; umfangreiche Behandlungsunterlagen ersetzen diese Angaben nicht.
 
 ## 3. Haushalt und Pflege auseinanderhalten
 
@@ -20,11 +20,15 @@ Erfasse persönliche Hilfe wie Körperpflege, Transfers und notwendige Begleitun
 
 Ordne Sozialleistungen nach Zweck und Zeitraum zu. Paragraf 116 SGB X ist kein pauschaler Abzug aller Kassenleistungen: Kongruenz und Anspruchsübergang müssen für jede Position geprüft werden. Pflegegeld, Sachleistung und Haushaltshilfe nicht unterschiedslos behandeln. Bereits bestehende Leistungspflicht kann relevant sein, nicht erst Zahlungseingang. Zeige Gesamtschaden, übergegangenen Anteil, verbleibenden Eigenanspruch und Zahlungen des Schädigers getrennt. Keine doppelten Kürzungen bei Haftungsquoten.
 
-Trenne Vergangenheit und künftigen Mehrbedarf. Für Zukunftsschäden Prognose, Rente und Feststellungsbedarf prüfen. Keine Lebenszeitsumme mit erfundener Dauer oder Abzinsung; Kapitalabfindung verlangt rechtliche und rechnerische Grundlagen. Einmal Stundenüberschneidung, Wochenumrechnung und Leistungskongruenz nachprüfen, danach Ergebnis liefern.
+Trenne Vergangenheit und künftigen Mehrbedarf. Für Zukunftsschäden Prognose, Rente und Feststellungsbedarf prüfen. Keine Lebenszeitsumme mit erfundener Dauer oder Abzinsung; Kapitalabfindung verlangt rechtliche und rechnerische Grundlagen. Stundenüberschneidung, Wochenumrechnung und Leistungskongruenz kontrollieren; neue Belege erfordern eine erneute Prüfung der betroffenen Positionen.
 
 ## 5. Ergebnis
 
-Erstelle `ergebnis.md` mit Sachverhalt und Haftungsvorbehalt, Tätigkeits- und Zeitmatrix, Haushalts- und Pflegerechnung, Leistungszuordnung, Eigenanspruch und vollständig ausformulierter Zahlungs- oder Erwiderungspassage. Ungeklärte medizinische Fragen, fehlende Bescheide und ungesicherte Preise ausdrücklich nennen. Keine Endlosschleifen, kein eigenmächtiger Versand. Ohne Exportmöglichkeit vollständigen Text ausgeben.
+Erstelle die nachvollziehbare Haushalts- und Pflegerechnung, Leistungszuordnung und den verbleibenden Eigenanspruch sowie den bestellten Zahlungs- oder Erwiderungstext. Der gewünschte Dateiname geht vor; `ergebnis.md` nur ohne Dateivorgabe verwenden. Bei reinem Berechnungsauftrag keinen zusätzlichen Schriftsatz entwerfen.
+
+Ungeklärte medizinische Fragen, fehlende Bescheide und ungesicherte Preise ausdrücklich nennen; interne Quellenprüfvermerke getrennt vom Außenentwurf halten.
+
+Fehlt die Aufteilung einer Pflegerechnung, genau nach den dort enthaltenen Haushaltsleistungen fragen. Nach Eingang Stundenüberschneidungen beseitigen, Leistungszuordnung und Eigenanspruch neu berechnen und das bestellte Schreiben fertigstellen. Zeigt ein nachgereichter Bescheid einen abweichenden Leistungszeitraum, diesen gezielt klären und die betroffenen Perioden nochmals abgleichen. Keine Wiederholung geklärter Fragen und keine unbelegten Tatsachen in Nachforderungen. Bei einem Hindernis bearbeitbare Teile vorläufig liefern und nach der Antwort fortsetzen. Kein eigenmächtiger Versand.
 
 Vollständige Sätze statt Skeletten, echte Umlaute und ß, dezimale Überschriften, Paragraf ausschreiben. Times New Roman 11 pt beim Export, in Markdown als Exporthinweis.
 
@@ -37,3 +41,7 @@ Prüfe amtliche Normfassungen und einschlägige Rechtsprechung vor Verwendung; k
 - [BGH, Urteil vom 03.02.2009, Az. VI ZR 183/08](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=47069), amtlicher Leitsatz: Tabellenorientierung beim Haushaltsführungsschaden, soweit keine abweichenden konkreten Gesichtspunkte vorliegen. Kein aktueller Stundensatz und keine spezielle Arzthaftungsentscheidung.
 
 Am 14.09.2026 amtlichen BGH-Suchauszug geprüft; Volltextabruf gesperrt. Keine Randnummer oder umfassende Aktualitätsprüfung behaupten.
+
+## 7. Technische Arbeitsgrenzen
+
+Weitere Skills sind optional; nur verfügbare Werkzeuge nutzen. Bei fehlendem Zugriff die konkrete Lücke nennen, bei technischem Fehler einen sinnvollen Alternativweg versuchen und sonst den bearbeitbaren Stand sichern. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden.

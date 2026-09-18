@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-sozialrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/sgb_6/__43.html",
@@ -26,14 +26,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der frühere Einstieg war auf Leistungsablehnung und Medizin verengt, enthielt isolierte Grundsicherungs-Sanktionsdetails ohne fallbezogene Fassungsprüfung und erklärte Existenznot zum Abbruchgrund.",
+    "reason": "Mini und Erwerbsminderungs-Fokuspaar wurden vollständig einschließlich der zeitbezogenen Sanktionspassagen gelesen.",
     "changes": [
-      "Beiträge und Versicherungsstatus als eigene Route ergänzt.",
-      "Stundenkategorien und medizinische Funktionsbelege statt bloßer Diagnosen priorisiert.",
-      "Vorläufige Leistung und aufschiebende Wirkung im Eilrechtsschutz getrennt.",
-      "Sanktionsdetails durch fallbezogene aktuelle Normprüfung ersetzt und Eilbearbeitung statt Arbeitsabbruch verlangt."
+      "Neue Befunde mit Stundenvermögen und Leistungsfall abgleichen, betroffene Versicherungszeiten neu prüfen und den Brief vervollständigen.",
+      "Abschnittsüberschrift benennt Leistungs- und Beitragsfälle statt einer internen Lieferstück-Bezeichnung."
     ],
-    "sha256": "afbda27733541b78876edfdeb6b1f927b1a999e846f2c474e460c678735c7203"
+    "sha256": "b6d4278056684cf229a54ef523843283d9323aaf55c88a88e2d47c7e9a188fbf"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "retained",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [],
+    "prompt_path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-hauptproblem.md",
+    "prompt_sha256": "da862698991029e5d6a4b8f2e3723db92370d55b20099d0d145e5b7c2998dcf5",
+    "skill_path": "fachanwalt-sozialrecht/skills/em-rente-befundwiderspruch-und-leistungsfall/SKILL.md",
+    "skill_sha256": "59c0f909a4f2e7396bd710735341cc9841f77f8be8484a07f0afe929125c31d9"
   },
   "selection": {
     "positive": [
@@ -86,5 +95,13 @@
       ],
       "target_skill": "em-rente-befundwiderspruch-und-leistungsfall"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die gesamte Werkstatt wurde auf Leistungs-, Beitrags- und Verfahrenswege geprüft.",
+    "changes": [
+      "Wohngeld-Rechtsweg, Untätigkeit und Wiedereinsetzung differenziert; existenzielle Dringlichkeit führt zur passenden Bearbeitung statt zum Abbruch."
+    ],
+    "sha256": "20aeff218ab96474b9bea5ad7bcbd93aa0da64b20b273a7e41f27aae75011735"
+  }
 }

@@ -1,6 +1,8 @@
 # 1. Hochschulprüfung konkret überprüfen
 
-Arbeite aus Bescheid, Prüfungsleistung, Bewertungsbogen, Prüfungsordnung und Nutzerauftrag. Bestimme Hochschule, Studiengang, Bundesland, Prüfungsart und Versuchszahl. Eine Modulnote, endgültiges Nichtbestehen und Exmatrikulation sind verschiedene Entscheidungen. Beginne mit dem verlangten Einwendungsschreiben oder Prüfvermerk; keine allgemeine Schul- oder Förderrechtsprüfung voranstellen. Frage nur nach einer Angabe, ohne die der nächste rechtliche Schritt nicht bestimmt werden kann.
+Prüfe die angegriffene Hochschulprüfung und verfasse das bestellte Einwendungsschreiben oder Gutachten. Eine allgemeine Schul- oder Förderrechtsprüfung ist dafür nicht erforderlich.
+
+Lies Bescheid, Prüfungsleistung, Bewertungsbogen und Prüfungsordnung. Bestimme Hochschule, Studiengang, Bundesland, Prüfungsart und Versuchszahl aus den Unterlagen; bereits bekannte Angaben nicht erneut erfragen. Eine Modulnote, endgültiges Nichtbestehen und Exmatrikulation sind verschiedene Entscheidungen.
 
 ## 1.1. Entscheidung und Frist sichern
 
@@ -20,4 +22,10 @@ Bei Krankheit Verlauf, Prüfungsbeginn, Kenntnis und Mitteilung dokumentieren. E
 
 ## 1.4. Ausformuliertes Ergebnis
 
-Liefere das beantragte Schreiben mit präzisen Einwendungen, Belegen und einer zur Fehlerart passenden Rechtsfolge. Unzufriedenheit allein trägt keine Bewertungsrüge. Fehlende Akteneinsicht als konkrete Nachforderung formulieren, gesicherte Einwendungen aber bereits ausarbeiten. Aktuelle Originalordnungen und amtliche Entscheidungen verwenden; fehlenden Zugriff und offene Fristgrundlagen sichtbar kennzeichnen. Keine erfundene Zusage des Prüfungsamts oder automatische Notenanhebung. Dezimal gliedern, Export in Times New Roman 11 pt. Weitere Skills sind optionale Vertiefungen; dieses Mini enthält den eigenständigen Prüfungsweg.
+Fehlt die Korrekturbemerkung zu einer beanstandeten Antwort, fordere die konkrete Seite samt Bewertung an. Bei einer technischen Störung kläre Zeitpunkt, Dauer, Meldung und vorhandenen Uploadnachweis. Gesicherte Einwendungen bereits ausarbeiten; nicht aus einer fehlenden Aktenseite auf einen Bewertungsfehler schließen.
+
+Nach Eingang vergleiche Antwort und Bewertung erneut beziehungsweise ergänze den Störungsverlauf. Überarbeite die betroffene Rüge und die passende Rechtsfolge und schreibe das bestellte Dokument fertig. Neue entscheidende Widersprüche gezielt klären, ohne die Aufnahme zu wiederholen; Fristen und Eilbedarf währenddessen weiter beachten.
+
+Liefere das beantragte Schreiben mit präzisen Einwendungen, Belegen und einer zur Fehlerart passenden Rechtsfolge unter dem gewünschten Dateinamen. Unzufriedenheit allein trägt keine Bewertungsrüge. Keine erfundene Zusage des Prüfungsamts, automatische Notenanhebung oder ungefragte Klage; Versand und Einreichung nur nach Freigabe.
+
+Aktuelle Originalordnungen und amtliche Entscheidungen verwenden. Fehlenden Quellenzugriff und offene Fristgrundlagen in einer getrennten Arbeitsnotiz kennzeichnen; ohne Export den Text liefern. Dezimal gliedern, Export in Times New Roman 11 pt; weitere Skills sind optionale Vertiefungen.

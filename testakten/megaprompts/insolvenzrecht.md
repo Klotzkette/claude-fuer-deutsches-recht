@@ -877,7 +877,7 @@ Stimme widersprüchliche Offene-Posten-Listen mit Titeln, Fälligkeiten und tats
 
 ## 2. Eingaben
 
-Lies stichtagsbezogene OP-Listen, Konten, freie Kreditlinien, Rechnungen, Zahlungsvereinbarungen, Titel, Zustellungen, Vollstreckungsmaßnahmen und gesicherte Zuflüsse. Erfasse Rechtsträger, Rolle, Stichtag, Datenstand, Beurteilungszweck und bereits laufende Pflichten. Eine gebündelte Rückfrage bei entscheidenden Lücken, dann Teilrechnung mit klarer Unsicherheit. Originaldaten niemals überschreiben.
+Lies stichtagsbezogene OP-Listen, Konten, freie Kreditlinien, Rechnungen, Zahlungsvereinbarungen, Titel, Zustellungen, Vollstreckungsmaßnahmen und gesicherte Zuflüsse. Erfasse Rechtsträger, Rolle, Stichtag, Datenstand, Beurteilungszweck und bereits laufende Pflichten aus den vorhandenen Angaben. Frage nach entscheidenden Lücken und liefere unabhängig prüfbare Teile vorläufig; vorhandene Listen nicht als vollständig unterstellen. Originaldaten niemals überschreiben.
 
 ## 3. Ablauf und Rechenlogik
 
@@ -889,6 +889,12 @@ Lies stichtagsbezogene OP-Listen, Konten, freie Kreditlinien, Rechnungen, Zahlun
 6. Würdige Zahlungseinstellung eigenständig. Ein rechnerisch günstiger Endtag beseitigt weder frühere Insolvenzreife noch Organpflichten automatisch. Keine starre Entwarnung aus einem einzelnen Prozentwert; Reichweite der gewählten Methode und fehlende Daten nennen. Überschuldung und drohende Zahlungsunfähigkeit getrennt halten.
 7. Bei möglicher Antragspflicht unverzüglich Entscheidung und Prüfung durch die verantwortliche Person anstoßen. Dreiwochenhöchstfrist ist keine freie Wartezeit. Keine Zahlung priorisieren oder ausführen, keinen Antrag stellen und keine Stundung vereinbaren.
 
+### 3.1. Nachgereichte Daten abstimmen
+
+Fordere fehlende Kontoauszüge, Abrufbedingungen oder Vollstreckungsnachweise postenbezogen an. Gleiche Antworten mit den ursprünglichen Buchungen ab und aktualisiere den jeweiligen Bestand, die Fälligkeit oder gesicherte Verfügbarkeit. Eine neue entscheidende Finanzierungsbedingung erlaubt eine weitere gezielte Frage; bereits geklärte Daten bleiben Grundlage.
+
+Rechne danach Anfangsstatus und betroffene Dreiwochenabschnitte neu, ohne Zahlungen doppelt abzuziehen. Formuliere die bestellte Entscheidungsvorlage fertig und prüfe geänderte Summen sowie Zeiträume. Offene Nachweise nicht als Tatsachen in die Rechnung oder ein Nachforderungsschreiben übernehmen.
+
 ## 4. Quellenpflicht
 
 Am 14.09.2026 geprüft: [Paragraf 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html), [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html).
@@ -899,7 +905,9 @@ Bei Verwendung zeitlich maßgebliche Rechtslage prüfen. Gericht, Entscheidungsf
 
 ## 5. Ausgabeformat
 
-Erstelle `ergebnis.md` mit Sachverhalt, OP-Überleitung, Titelprüfung, Anfangsstatus, Dreiwochenbrücke, Gegenrechnung und ausformulierter Entscheidungsvorlage mit Eskalationsbedarf. Vollständige Sätze, keine Gutachtenskelette; jede Zahl mit Quelle und Stichtag. Exportstandard: Times New Roman, 11 pt, dezimal. Datenstand und Freigabevorbehalt nennen.
+Erstelle die bestellte Entscheidungsvorlage mit OP-Überleitung, Titelprüfung, Anfangsstatus, Dreiwochenrechnung und gegebenenfalls Gegenrechnung. Verwende den gewünschten Dateinamen; ohne Vorgabe `ergebnis.md`. Benenne den konkreten Handlungsbedarf, ohne ungefragt einen Insolvenzantrag zu entwerfen.
+
+Vollständige Sätze, keine Gutachtenskelette; jede Zahl mit Quelle und Stichtag. Ohne Dateiexport die Entscheidungsvorlage mit OP-Überleitung und Dreiwochenrechnung vollständig in der Antwort ausgeben; keinen Download einer nicht erzeugten Datei anbieten. Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Exportstandard: Times New Roman, 11 pt, dezimal. Datenstand und Grenzen der Beurteilung nennen.
 
 ## 6. Beispiel
 

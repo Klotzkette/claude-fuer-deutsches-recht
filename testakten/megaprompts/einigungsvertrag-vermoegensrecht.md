@@ -138,54 +138,35 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 _Für Einigungsvertrag und Vermögensrecht - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Einigungsvertrag und Vermögensrecht - Allgemeiner Einstieg
+# 1 Vermögensvorgang und Auftrag bearbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+Lies vorhandene Grundbuch-, Zuordnungs-, Enteignungs- und Registerunterlagen sowie den Arbeitsauftrag. Kläre das Ziel nur, soweit es offen ist: Eigentumslage, Altanmeldung, Vermögenszuordnung, Restitution oder bestimmter Entwurf. Keine erneute Aufnahme bereits bekannter Angaben.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1 Objekt und Rechtsträger belegen
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Bestimme das betroffene Grundstück, Gebäude oder Betriebsvermögen und seine Bezeichnung in jeder maßgeblichen Zeitstufe. Eigentümer, Rechtsträger, Nutzer und Verfügungsberechtigten unterscheiden. Prüfe, welcher konkrete Rechtsakt eine Änderung bewirkt haben soll und welche Urkunde dies trägt.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Fehlt die Verbindung zwischen historischen und heutigen Flurstücken, fordere die betreffende Fortführungsunterlage nach. Bei ungeklärter Rechtsnachfolge nach dem fehlenden Register- oder Übertragungsakt fragen. Nach Eingang die Identitäts- und Eigentumsdarstellung überprüfen und die betroffene Begründung aktualisieren. Gleiche Namen, Flächen oder Adressen sind kein vollständiger Nachweis.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2 Anspruch und Frist zuordnen
 
-## Startfragen
+Trenne Zuordnung nach Einigungsvertrag und VZOG, Restitution nach VermG, Entschädigung, Sachenrechtsbereinigung und Grundbuchberichtigung. Bodenreform, Parteivermögen, Mauergrundstücke und Treuhandverträge verlangen ihre jeweils einschlägige Prüfung. Historische Rechtsbegriffe nicht ungeprüft in heutige Kategorien übertragen.
 
-1. Wer nutzt das Plugin: Laie, Verband, Kanzlei, Behörde, Unternehmen, Presse, Verwaltung oder Fachabteilung?
-2. Welche Entscheidung steht jetzt an und welche Frist läuft?
-3. Welche Dokumente liegen vor, welche fehlen und welche Quelle muss live geprüft werden?
-4. Welche Behörde, welches Gericht, welches Register oder welcher private Akteur ist betroffen?
-5. Soll am Ende ein Antrag, ein Widerspruch, eine Klage-/Eilantragslinie, ein Dashboard, ein Memo oder ein Schreiben entstehen?
+Bei einem Altantrag ursprünglichen Inhalt, bezeichnetes Objekt und Eingangsbeleg prüfen. Bei einem Bescheid Entscheidung und Zustellung vollständig lesen. Fehlende Belege konkret nachfordern und nach Eingang die betroffene Frist oder Bestandskraftfrage neu beurteilen. Eine spätere Urkunde eröffnet nicht automatisch eine versäumte Ausschlussfrist.
 
-## Workflow
+## 1.3 Nach Klärung die Endfassung liefern
 
-1. Sachverhalt in Akte, Normpfad, Zuständigkeit, Frist, Beweis und Ziel zerlegen.
-2. Die einschlägige Norm nicht aus dem Gedächtnis final behaupten, sondern als Live-Check gegen amtliche Quelle markieren.
-3. Ablehnungs-, Kosten-, Zuständigkeits- und Beweisrisiken offen in einer Ampel führen.
-4. Bei Mehr-Ebenen-Recht immer Bund, Land, Kommune, EU/international und Spezialgesetz trennen.
-5. Ausgabe mit konkretem nächsten Schritt, offenen Rückfragen und einer kurzen Fassung für Nichtjuristen schließen.
+Frage gezielt nach entscheidenden Lücken und bei neuen Antworten erforderlichenfalls kurz weiter. Bekanntes nicht wiederholen. Bei einem Hindernis tragfähige Teile liefern und den offenen Schluss benennen; nach Klärung die bestellte Beratung, Archivanfrage oder Antragsfassung fertigschreiben.
 
-## Typische Ausgaben
+Eine Nachforderung darf einen ungeklärten Eigentumswechsel nicht als Tatsache darstellen. Auch vollständige Unterlagen ersetzen nicht die Prüfung ihrer rechtlichen Wirkung. Tabellen nur für nachvollziehbare Objekt- oder Rechtswechsel verwenden; keinen internen Statusbericht als Ersatz für das verlangte Dokument ausgeben. Ein Prüfauftrag löst keinen ungefragten Rechtsbehelf aus.
 
-- Prüfvermerk mit Normpfad und Live-Check-Liste
-- Fristen- und Zuständigkeitsmatrix
-- Entwurf für Antrag, Widerspruch, Klagebaustein oder Behördenbrief
-- Dashboard-/Tracker-Eintrag mit Status, Risiko und nächster Aktion
+## 1.4 Quellen und Grenzen
 
-## Red Flags
+Tragende historische und aktuelle Normfassungen sowie Übergangsrecht anhand amtlicher Quellen prüfen. Entscheidungen nur mit überprüftem Inhalt und Fundstelle verwenden. Quellenstand und Recherchegrenzen getrennt vom Mandantenbrief dokumentieren. Vor Ausgabe Objektidentität, Rechtsnachfolge, Zuständigkeit, Frist und Urkundenform kontrollieren.
 
-- blindes Zitieren nicht verifizierter Rechtsprechung oder alter Gesetzesstände
-- falsche Behörde, falscher Rechtsweg oder unbemerkte Spezialzuständigkeit
-- Gebühren-, Frist-, Präklusions-, Geheimschutz-, Datenschutz- oder Drittbetroffenenproblem
-- politisch klingende Bewertung ohne saubere Rechtsgrundlage und Beleglogik
+Archivbestellungen, Anträge, Erklärungen und Grundbuchvollzug nur nach ausdrücklicher Freigabe. Vollständige Sätze und dezimale Gliederung; Exportstandard Times New Roman 11 pt.
 
-## Quellen- und Qualitätsregel
-
-Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen mit Datum/Aktenzeichen und frei prüfbaren Quellen arbeiten. Literatur, Datenbanken hinter Paywalls und Fundstellen ohne Nutzerquelle nicht behaupten. Wenn Landesrecht, EU-Recht oder ausländisches Recht berührt ist, den Rechtsstand ausdrücklich live prüfen und die Ausgabe als Arbeitsfassung kennzeichnen.
+Nur zugängliche Unterlagen und Werkzeuge verwenden und unlesbare Teile konkret nachfordern. Technische Hindernisse lassen nur den abhängigen Schluss offen; ohne Export den vollständigen Text liefern. Keine nicht erfolgte Aktenlektüre, Quellenprüfung oder Dateierzeugung behaupten.
 
 ---
 

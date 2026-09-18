@@ -318,189 +318,63 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 _Für Mandat Triage Sozialrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Neues sozialrechtliches Mandat: Sekretariat oder Anwalt muss Sachgebiet klären und zum richtigen Skill weiterleiten
+# 1. Sozialrechtlichen Auftrag aus der Akte bestimmen
 
+## 1.1. Zweck und Anwendungsfall
 
-## Direktstart: lesen, entscheiden, liefern
+Bestimme bei einem neuen sozialrechtlichen Vorgang die Leistung oder Beitragsfrage, die Fristlage und den erforderlichen Bearbeitungsweg. Arbeite anschließend am bestellten Ergebnis weiter, statt lediglich einen anderen Skill zu empfehlen.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.2. Vorhandene Angaben nutzen
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Lies die Anfrage und vorhandene Bescheide, Anträge, Zugangsnachweise und gerichtliche Schreiben. Entnimm daraus betroffene Person, Vertretung, Leistungsträger, Regelung, Zeitraum, Ziel und Verfahrensstand; erhebe bereits bekannte Stammdaten nicht erneut. Bei mehreren Personen oder Leistungen führe die jeweiligen Ansprüche und Fristen getrennt.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Frage nur nach entscheidenden offenen Punkten. Fehlt beispielsweise der Widerspruchsbescheid, kläre, ob bislang nur ein Ausgangsbescheid vorliegt; fehlt ein Zugangsnachweis, frage nach dem tatsächlichen Empfang und dem verfügbaren Beleg. Ohne Unterlagen fordere die für die konkrete Frage nötigen Dokumente an und kennzeichne bis dahin die begrenzte Tatsachengrundlage.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.3. Verfahren und Fachprüfung
 
-## Arbeitsweg
+### 1.3.1. Rechtsweg, Frist und Eile
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: Nur das im Skill betroffene Sozialgesetzbuch und die konkrete Verfahrensnorm heranziehen. Widerspruchsfrist nach Paragraf 84 SGG, Klagefrist nach Paragraf 87 SGG und einstweiliger Rechtsschutz nach Paragraf 86b SGG strikt trennen; Rechtsweg, Statthaftigkeit, aufschiebende Wirkung und Rechtsmittel gesondert prüfen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Prüfe Widerspruch nach Paragraf 84 SGG, Klage nach Paragraf 87 SGG sowie Belehrung und Fristberechnung anhand des konkreten Bescheids. Paragrafen 86a und 86b SGG für aufschiebende Wirkung beziehungsweise einstweiligen Rechtsschutz unterscheiden. Nicht jede benachbarte Sozialleistung gehört vor das Sozialgericht; bei Wohngeld, Ausbildungsförderung, Kindergeld und beamtenrechtlicher Versorgung Rechtsgrundlage und Rechtsweg eigenständig bestimmen.
 
-**Fokus:** Neues sozialrechtliches Mandat: Sekretariat oder Anwalt muss Sachgebiet klären und zum richtigen Skill weiterleiten. Eingangs-Triage Sozialrecht SGB I-XIV. Prüfraster: Sachgebiet (SGB II Buergergeld SGB V Krankenversicherung SGB VI Rente SGB IX Reha SGB XI Pflege SGB XII Sozialhilfe SGB VII Unfall) Sofort-Fristen Widerspruch 1 Monat § 84 SGG Klage 1 Monat § 87 SGG Untätigkeitsklage 6 Monate § 88 SGG. Output: Routing-Entscheidung mit Folge-Skill und Fristen. Abgrenzung zu mandanten-intake (Stammdaten) und sozialrecht-fallaufnahme-routing (Master-Routing).
+Bei Untätigkeit unterscheidet Paragraf 88 SGG sechs Monate seit Antrag und drei Monate seit Widerspruch, jeweils unter Berücksichtigung eines zureichenden Grundes. Die drei Monate sind keine Sonderfrist für Eilfälle. Wiedereinsetzung nach Paragraf 67 SGG beziehungsweise Paragraf 27 SGB X richtet sich nach dem betroffenen Verfahren und Hindernis, nicht pauschal nach dem Alter des Bescheids.
 
-### Mandat-Triage Sozialrecht
+Existenznot, Versorgungsausfall oder unmittelbar fehlende Schulbegleitung priorisieren. Erfrage die konkrete drohende Folge und erreichbare aktuelle Belege; entwirf einen Eilantrag nur im Rahmen des Auftrags. Keine feste Bearbeitungsstunde oder Erfolgsgarantie versprechen.
 
-## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat-Triage Sozialrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
-- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+### 1.3.2. Leistung oder Beitrag
 
-## Ablauf — sieben Fragen
+Ordne den Vorgang fachlich zu: Grundsicherung, Arbeitsförderung, Kranken-, Renten- oder Unfallversicherung, Kinder- und Jugendhilfe, Rehabilitation und Teilhabe, Pflege, Sozialhilfe, Schwerbehindertenrecht oder Soziales Entschädigungsrecht. Asylbewerberleistungen, Wohngeld, Ausbildungsförderung und Familienleistungen benötigen ihre eigenen Normen und Verfahrensregeln.
 
-### Frage 1 — Sachgebiet?
+Bei Erwerbsminderung Befund, Funktionsfähigkeit und Versicherungszeiten verbinden; eine Diagnose nicht in eine Stundenangabe umdeuten. Bei Pflege die tatsächliche Alltagshilfe mit den bewerteten Modulen vergleichen. Bei Grundsicherung Monate, Bedarf und Zuflüsse berechnen; bei Beiträgen Tätigkeit, tatsächliche Durchführung und Bemessungsgrundlage prüfen. Ein Beitragsfall löst keine allgemeine medizinische Prüfung aus.
 
-- **SGB II** Bürgergeld (vormals ALG II Hartz IV)
-- **SGB III** Arbeitsförderung (Arbeitslosengeld I)
-- **SGB V** Gesetzliche Krankenversicherung
-- **SGB VI** Gesetzliche Rentenversicherung
-- **SGB VII** Gesetzliche Unfallversicherung
-- **SGB VIII** Kinder- und Jugendhilfe
-- **SGB IX** Rehabilitation Schwerbehindertenrecht Eingliederungshilfe
-- **SGB X** Verfahrensrecht Verwaltungsverfahren
-- **SGB XI** Soziale Pflegeversicherung
-- **SGB XII** Sozialhilfe
-- **AsylbLG** Asylbewerberleistungs-Recht
-- **BAföG** Ausbildungsförderung
-- **WoGG** Wohngeld
-- **KindG** Kindergeld
-- **Familien- und Erziehungsgeld** BEEG ElterngeldPlus
-- **SchwbR** Schwerbehindertenrecht (in SGB IX integriert)
-- **Versorgungsrecht** Bundesversorgungsgesetz BVG
-- **Beamtenrecht-versorgung** parallel zu SGB
+### 1.3.3. Neue Angaben einarbeiten
 
-### Frage 2 — Mandantenrolle?
+Fehlt die Berechnungsanlage, fordere sie an und gleiche nach Eingang die angesetzten Monate und Beträge ab. Fehlt die Grundlage einer medizinischen Bewertung, frage nach dem betreffenden Bericht; nach Eingang konkretisiere Beweisfragen oder Begründung. Amtsermittlung, Mitwirkung und Folgen unaufklärbarer Tatsachen getrennt beurteilen, Angaben nicht ungeprüft als Nachweis behandeln.
 
-- Antragsteller / Leistungsberechtigter
-- Behörde (Erstattungsansprüche)
-- Familienangehöriger
-- Pflegeperson
-- Arzt / Heilberufler (KV-Streit)
-- Krankenkasse
-- Sozialleistungs-Träger
+Setze die Bearbeitung nach Antworten bis zum bestellten Brief, Vermerk oder Rechtsbehelfsentwurf fort. Neue entscheidende Lücken dürfen kurze weitere Rückfragen auslösen; keine festen Fragegrenzen und keine Wiederholung beantworteter Punkte. Bei einem Hindernis die unabhängig beurteilbaren Teile vorläufig liefern.
 
-### Frage 3 — Vorgang?
+### 1.3.4. Vertretung und Kosten
 
-- Antrag-Stellung
-- Bescheid erhalten — Widerspruch erwogen
-- Widerspruchsverfahren läuft
-- Klage am SG erhoben
-- Berufung LSG
-- Revision BSG
-- Eilantrag § 86b SGG
-- Schwerbehinderten-Feststellungs-Verfahren
-- Erstattungs-Streit zwischen Leistungs-Trägern
-- Beitragsrechtlicher Streit
-- Versicherungs-Pflicht / -Status
+Prüfe Vollmacht und Interessenkollision tatsächlich, nicht mit der Annahme, ein Streit gegen eine Behörde sei unproblematisch. Nach Paragraf 73 SGG können Beteiligte vor Sozialgericht und Landessozialgericht selbst auftreten; die Vertretungsvorgaben vor dem Bundessozialgericht gesondert prüfen. Kosten, Beratungshilfe und Prozesskostenhilfe am konkreten Verfahren und den wirtschaftlichen Verhältnissen beurteilen, nicht pauschal zusagen.
 
-### Frage 4 — Akute Eilbedürftigkeit?
+Klärungsbedarf zu Sprache oder verständlicher Kommunikation aus dem konkreten Bedarf ableiten. Aktenanlage, Fristenbucheintrag oder PKH-Antrag nur entsprechend dem Auftrag vorbereiten; keine eigenmächtigen Einreichungen oder Verfahrenshandlungen.
 
-- **Bürgergeld-Wegfall** existenzbedrohlich
-- **Krankenversicherungs-Schutz** verloren
-- **Hilfsmittel** lebenswichtig nicht bewilligt
-- **Eingliederungshilfe** Schule beginnt
-- **Wohnungsverlust** wegen Mietkosten-Übernahme
-- **Klage-Frist** ein Monat läuft
-- **Untätigkeit** sechs Monate erreicht — Klage statthaft
+## 1.4. Quellen und optionale Vertiefung
 
-### Frage 5 — Stand?
+Prüfe aktuelle Fassungen und tragende Aussagen anhand zugänglicher Quellen. Amtliche Einstiegspunkte: [Paragraf 88 SGG](https://www.gesetze-im-internet.de/sgg/__88.html), [Paragraf 73 SGG](https://www.gesetze-im-internet.de/sgg/__73.html) und [Paragraf 67 SGG](https://www.gesetze-im-internet.de/sgg/__67.html). Daneben sind je nach Fall Paragrafen 66, 84, 86a, 86b und 87 SGG sowie Paragrafen 27, 37 und 65 SGB X und das einschlägige Leistungsrecht zu prüfen.
 
-- Beratung vor Antrag
-- Antrag gestellt — wartet auf Bescheid
-- Bescheid liegt vor — Widerspruchsfrist offen
-- Widerspruchsbescheid — Klage Frist offen
-- Klage erhoben
-- LSG / BSG
-- Verfassungsbeschwerde
-- Eilantrag SG
+Optional vertiefen die vorhandenen Skills `bescheidanalyse`, `widerspruch-sozialleistung`, `sgb-ii-bescheid`, `hilfsmittelantrag-pruefen`, `eingliederungshilfe-schule`, `erwerbsminderungsrente`, `gdb-schwerbehinderung`, `eilantrag-sozialrecht` und `klage-sozialgericht` den jeweiligen Auftrag. Für Akteneinsicht, Fristen, Anlagen und PKH gibt es ebenfalls Fachskills; deren Verfügbarkeit ist keine Voraussetzung zum Weiterarbeiten.
 
-### Frage 6 — Frist?
+Entscheidungen nur mit Gericht, Form, Datum, Aktenzeichen und überprüfter Passage verwenden. Literatur, etwa zum SGG, nur aus bereitgestellter oder tatsächlich zugänglicher Quelle, keine Fundstellen aus Modellwissen.
 
-- **Widerspruchsfrist** ein Monat § 84 SGG
-- **Bei fehlender Rechtsbehelfsbelehrung** ein Jahr § 66 SGG
-- **Klagefrist** ein Monat § 87 SGG
-- **Untätigkeitsklage** sechs Monate § 88 SGG (drei Monate in Eilfällen)
-- **Eilantrag** § 86b SGG keine starre Frist aber zeitnah
-- **Wiedereinsetzung** § 27 SGB X ein Monat
+## 1.5. Ergebnis
 
-### Frage 7 — Wirtschaftliche Verhältnisse?
+Liefere das gewünschte Dokument mit dem vorgegebenen Dateinamen. Ohne konkreten Dokumentenauftrag genügt ein ausformulierter Vermerk zu Streitgegenstand, Frist, Beweislage und Empfehlung; nicht automatisch Mandatsvereinbarung, PKH-Antrag und Klage zusätzlich erstellen. Ein Beratungsbrief nennt Ergebnis und nächste Schritte verständlich, technische Quellen- und Zugriffshinweise stehen gesondert.
 
-- PKH wahrscheinlich
-- Beratungshilfe vor Klage
-- Anwaltszwang nur ab LSG (kein erstinstanzlich)
-- Streitwert geringe Bedeutung (SG-Verfahren weitgehend gerichtskostenfrei)
+Vollständige Sätze statt Stichwortskelette; Tabellen nur für notwendige Vergleiche oder Berechnungen. Dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt, sonst entsprechender Exporthinweis. Ohne Datei- oder Exportwerkzeuge arbeite mit bereitgestelltem Text, kennzeichne fehlende Belege und liefere keinen erfundenen Downloadlink.
 
-## Routing-Matrix
+## 1.6. Beispiel
 
-| Sachgebiet | Folge-Skill |
-|---|---|
-| Erst-Intake Stammdaten | `mandanten-intake` |
-| Bescheid analyse | `bescheidanalyse` |
-| Widerspruch formulieren | `widerspruch-formulieren` |
-| Bürgergeld prüfen | `buergergeld-pruefen` |
-| Hilfsmittelantrag | `hilfsmittelantrag-pruefen` |
-| Eingliederungshilfe Schule | `eingliederungshilfe-schule` |
-| Eilantrag Sozialrecht | `eilantrag-sozialrecht` |
-| Klage Sozialgericht | `klage-sozialgericht` |
-| PKH-Antrag | `prozesskostenhilfe-antrag` |
-| Akteneinsicht anfordern | `akteneinsicht-anfordern` |
-| Akteneinsicht auswerten | `akteneinsicht-auswerten` |
-| Anlagen erstellen | `anlagen-erstellen` |
-| Fristenbuch | `fristenbuch-sozialrecht` |
-| Frist-Berechnung Zustellung | `widerspruchsfrist-und-zustellung-sgb` |
-| Schwerbehinderten GdB | (Skill schwerbehinderten-feststellung — perspektivisch) |
-| Erwerbsminderung | (Skill erwerbsminderungs-rente — perspektivisch) |
-
-## Mandatsannahme
-
-- **Konflikt-Check** häufig unproblematisch (Behörde vs. Bürger)
-- **PKH bzw. Beratungshilfe** häufig
-- **Streitwert / Kostenrisiko** SG-Verfahren gerichtskostenfrei für Versicherte
-- **Sprachbedarf** Dolmetscher bei Migrationshintergrund
-
-## Eskalation
-
-- **Telefon-Sofort** Bürgergeld-Wegfall existenzbedrohlich
-- **Binnen einer Stunde** Eilantrag § 86b SGG
-- **Heute** Widerspruchs-Frist heute / morgen
-- **Diese Woche** Klage Erstentwurf
-
-## Ausgabe
-
-- `triage-protokoll-sozialrecht.md`
-- Aktenanlage mit Verweis auf `mandanten-intake`
-- Frist im Fristenbuch
-- PKH-Antrag-Entwurf wenn relevant
-- Mandatsvereinbarung
-- Empfehlung Folge-Skill
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellen
-
-- SGG §§ 66 84 86a 86b 87 88
-- SGB X §§ 27 37 65
-- SGB I — XII
-- AsylbLG BAföG WoGG BEEG
-- BSG Std.Spruch
-- Krasney/Udsching SGG
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-
-## Aktuelle Rechtsprechung — allgemeine Verfahrensgrundsätze
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein Pflegegrad wurde abgelehnt, der Bescheid und das Gutachten liegen vor, aber die Unterstützung beim nächtlichen Toilettengang ist unklar. Frage gezielt nach Häufigkeit und Hilfe, gleiche die Antwort mit der Modulbewertung ab und schreibe danach den bestellten Mandantenbrief oder Widerspruch fertig. Eine schon dokumentierte Bekanntgabe wird nicht erneut abgefragt.
 
 ---
 
@@ -783,7 +657,7 @@ Erarbeite eine Beweisstrategie, wenn Reha-Bericht, Behandler und Gutachten versc
 
 ## 1.2. Eingaben
 
-Lies Bescheid, Widerspruchsbescheid und Zugang, Rentenantrag, Versicherungsverlauf, Reha-Entlassungsbericht, Gutachten und Verlaufsbefunde. Erfasse Geburtsdatum, frühere Tätigkeit, laufende Beschäftigung, Behandlung, Hilfsmittel, Wegefähigkeit und tatsächlich benötigte Pausen. Eine fehlende Unterlage löst eine gebündelte Nachfrage aus, keine Serie von Rückfragen.
+Lies Bescheid, Widerspruchsbescheid und Zugang, Rentenantrag, Versicherungsverlauf, Reha-Entlassungsbericht, Gutachten und Verlaufsbefunde. Entnimm daraus Geburtsdatum, frühere Tätigkeit, laufende Beschäftigung, Behandlung, Hilfsmittel, Wegefähigkeit und tatsächlich benötigte Pausen. Frage nur entscheidende offene Angaben nach, etwa den Befund hinter einer Stundenangabe oder den Versicherungsnachweis für streitige Monate.
 
 ## 1.3. Ablauf und Checkliste
 
@@ -801,7 +675,13 @@ Unter drei Stunden, drei bis unter sechs Stunden und mindestens sechs Stunden t�
 
 Lege für jeden medizinisch vertretbaren Eintrittszeitpunkt eine eigene Zeile an: fünfjähriger Rückschauzeitraum, Pflichtbeitragsmonate, allgemeine Wartezeit, mögliche Verlängerungszeiten nach Paragraf 43 Absatz 4 SGB VI und erforderlicher Beleg. Kalendermonate nicht durch Tagesquoten ersetzen; keine doppelte Monatszählung. Antragstag, Beginn der Krankheit, Eintritt der Erwerbsminderung und Rentenbeginn nicht gleichsetzen. Rentenbeginn und Befristung erst nach Feststellung der maßgeblichen Voraussetzungen beurteilen.
 
-Erstelle für jeden entscheidenden offenen Befund eine Beweisfrage und den Einfluss einer positiven beziehungsweise negativen Antwort auf Anspruch und Zeitfenster. Amtsermittlung ersetzt keine tragfähigen Feststellungen; benenne das Risiko verbleibender Nichterweislichkeit. Keine medizinische Diagnose erfinden, keine Untersuchung oder Klage eigenmächtig veranlassen. Eilbedarf prioritär bearbeiten, nach einem Plausibilitätscheck den entscheidungsfähigen Teil liefern.
+Erstelle für jeden entscheidenden offenen Befund eine Beweisfrage und erläutere den Einfluss einer positiven beziehungsweise negativen Antwort auf Anspruch und Zeitfenster. Amtsermittlung ersetzt keine tragfähigen Feststellungen; benenne das Risiko verbleibender Nichterweislichkeit. Keine medizinische Diagnose erfinden, keine Untersuchung oder Klage eigenmächtig veranlassen. Eilbedarf prioritär bearbeiten, ohne die weitere Sachprüfung abzubrechen.
+
+### 1.3.4. Befunde nachführen und Dokument fertigstellen
+
+Ordne nachgereichte Berichte dem jeweiligen Zeitraum zu. Erklärt ein Bericht die Stundenabweichung durch spätere Verschlechterung, prüfe den dadurch veränderten Eintrittszeitpunkt und rechne das Beitragsfenster erneut; bleibt die Abweichung ungeklärt, formuliere die konkrete ergänzende medizinische Frage. Beitragsnachweise können Versicherungslücken schließen, ersetzen aber keinen medizinischen Nachweis.
+
+Überarbeite nach jeder Antwort die betroffenen Passagen des bestellten Dokuments. Weitere gezielte Rückfragen sind zulässig, wenn neue entscheidende Lücken auftreten; keine wiederholte Fallaufnahme. Liefere bei einem Hindernis die belastbaren Teile vorläufig und setze nach Klärung bis zum bestellten Ergebnis fort. Eine beauftragte Beratung wird nicht ungefragt zur Klagebegründung.
 
 ## 1.4. Quellenpflicht
 
@@ -811,7 +691,9 @@ BSG, Urteil vom 11.12.2019, Az. B 13 R 7/18 R, [amtlicher Volltext](https://www.
 
 ## 1.5. Ausgabeformat
 
-Liefere `ergebnis.md` mit Sachverhalt, Befundchronologie, Widerspruchsmatrix, alternativen Beitragsfenstern, ausformulierter Begründung und konkreten Gutachterfragen. Keine bloße Diagnosenliste oder Schriftsatzskelette. Vollständige Sätze, dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
+Liefere das bestellte Dokument unter dem gewünschten Dateinamen; `ergebnis.md` gilt nur ohne Dateivorgabe. Füge Befundchronologie, Gegenüberstellung widersprüchlicher Aussagen, alternative Beitragsfenster und Gutachterfragen bei, soweit sie für den Auftrag erforderlich sind. Ein Mandantenbrief erläutert Ergebnis und Empfehlung; zusätzliche Recherchebelege und Quellenlücken stehen in einer getrennten Arbeitsnotiz.
+
+Keine bloße Diagnosenliste oder Schriftsatzskelette. Vollständige Sätze, dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt. Fehlen Datei- oder Exportwerkzeuge, arbeite mit bereitgestellten Auszügen und liefere den vollständigen Text; benenne deren Aussagegrenzen, ohne fehlende Tatsachen zu ergänzen.
 
 ## 1.6. Beispiele
 

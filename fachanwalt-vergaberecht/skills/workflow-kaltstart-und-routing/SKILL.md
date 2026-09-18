@@ -3,55 +3,42 @@ name: workflow-kaltstart-und-routing
 description: "Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Vergaberecht."
 ---
 
-# Kaltstart und Routing
+# 1. Vergabeauftrag einordnen und bearbeiten
 
-## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+## 1.1. Aufgabe und Akte
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Bestimme aus Anfrage und vorhandenen Unterlagen Rolle, Verfahrensstand und gewünschtes Ergebnis. Bearbeite anschließend die konkrete Vergabefrage bis zum bestellten Dokument, nicht nur bis zu einer Skill-Empfehlung.
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+Lies Bekanntmachung, maßgebliche Vergabeunterlagen, Angebot, Wertungsvermerk und Korrespondenz soweit vorhanden. Frage bekannte Angaben nicht erneut ab. Fehlen etwa die Absendung der Vorabinformation oder die geltende Kriterienfassung, frage genau danach und nicht pauschal nach einer neuen vollständigen Mandatsaufnahme.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## 1.2. Verfahren bestimmen
 
-## Vergaberechtliches Routing (Schwellenwerte & Rechtswege)
+Prüfe Auftraggeber, Gegenstand, Schätzwert und Schätzzeitpunkt. Verwende für Paragraf 106 GWB die aktuell maßgebliche Schwelle aus amtlicher Quelle, keine undatierte Zahl. Unterscheide allgemeine Vergabe, SektVO, KonzVgV, VSVgV sowie Bauvergabe und Unterschwelle.
 
-- **Oberhalb EU-Schwellenwert** (§ 106 GWB i. V. m. VO (EU) 2024/…) **— GWB-Vergaberecht:** Rüge (§ 160 Abs. 3 GWB) → Nachprüfungsantrag Vergabekammer (§ 161 GWB) → sofortige Beschwerde OLG-Vergabesenat (§ 171 GWB).
-- **Unterhalb EU-Schwellenwert — Haushaltsvergaberecht:** UVgO/VOB/A 1. Abschnitt; primärer Rechtsschutz vor Zivilgericht (UWG, § 826 BGB analog); kein GWB-Nachprüfungsverfahren.
-- **Sektoren (Energie, Wasser, Verkehr):** SektVO; eigene Schwellenwerte (443.000 Euro).
-- **Konzessionen:** KonzVgV; Schwellenwert 5.538.000 Euro.
-- **Verteidigung/Sicherheit:** VSVgV.
-- **Verfahrensarten (§ 119 GWB):** offen, nicht-offen, Verhandlung, wettbewerblicher Dialog, Innovationspartnerschaft.
-- **De-facto-Vergabe (ohne Bekanntmachung):** § 135 GWB — 30 Tage ab Kenntnis, max. 6 Monate nach Vertragsschluss.
-- **Schadensersatz nach Zuschlag:** § 181 GWB für entgangenen Aufwand; § 280 BGB nicht ausreichend bei eigenständigem Vergaberegime.
+Oberhalb der einschlägigen Schwelle die Voraussetzungen von Rüge, Nachprüfungsantrag und sofortiger Beschwerde nach Paragrafen 160, 161 und 171 GWB prüfen, nicht automatisch sämtliche Schritte veranlassen. Unterhalb der Schwelle UVgO beziehungsweise VOB/A erster Abschnitt, Landesrecht und konkreten Rechtsschutz bestimmen; keine pauschale Anspruchsgrundlage aus UWG oder Paragraf 826 BGB unterstellen. Die Verfahrensarten nach Paragraf 119 GWB anhand der tatsächlichen Voraussetzungen abgrenzen.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+Für Paragrafen 134, 135 und 160 Absatz 3 GWB die jeweiligen Fristauslöser getrennt erfassen. Bei einer De-facto-Vergabe sind Information über den Vertragsschluss und Bekanntmachung für Paragraf 135 GWB zu prüfen, nicht bloß eine beliebige Kenntnis. Zuschlagsverbot und Rügefrist nicht gleichsetzen.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+## 1.3. Fachliche Fortsetzung
 
+Bei Eignungsfragen veröffentlichte Anforderung und Nachweis vergleichen; fehlt die Verfügbarkeit fremder Mittel, frage nach der Verpflichtungserklärung und prüfe danach die Eignungsleihe neu. Bei Wertungsfragen Formel und dokumentierte Bewertung nachrechnen; eine neue Begründung zur Konzeptnote kann den Angriff eingrenzen, beweist aber nicht allein dessen Berechtigung.
 
-## Vergabe-Workbench-Boost v61.2
+Arbeite Antworten in den betroffenen Vermerk, Brief oder Schriftsatz ein. Entsteht eine weitere entscheidende Lücke, frage gezielt weiter; bereits geklärte Angaben bleiben Grundlage. Bei einem Hindernis liefere den belastbaren Teil vorläufig und setze nach Eingang fehlender Informationen bis zum bestellten Ergebnis fort.
 
-- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
-- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
-- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
-- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+Für Auftraggeber ursprüngliche Dokumentation, spätere Erläuterung und Neubewertung unterscheiden. Für Bieter Rechtsverletzung und Auswirkung auf die Zuschlagschance konkret begründen. Nach Zuschlag einen Schadensersatzauftrag eigenständig prüfen: Paragraf 181 GWB betrifft unter seinen Voraussetzungen Angebots- oder Teilnahmekosten und lässt weitergehende Ansprüche unberührt; keinen pauschalen Ausschluss von BGB-Ansprüchen behaupten.
+
+## 1.4. Quellen
+
+Aktuelle Normen, EU- und Landesrecht sowie tragende Entscheidungen anhand tatsächlich zugänglicher Quellen prüfen. Amtliche Bezugspunkte: [Paragraf 135 GWB](https://www.gesetze-im-internet.de/gwb/__135.html) und [Paragraf 181 GWB](https://www.gesetze-im-internet.de/gwb/__181.html). Entscheidungen nur mit Gericht, Form, Datum, Aktenzeichen und überprüfter Passage, Literatur nur aus bereitgestellter oder lizenzierter zugänglicher Quelle.
+
+## 1.5. Ergebnis und Grenzen
+
+Liefere das verlangte Dokument mit dem gewünschten Dateinamen. Ein Wertungsvermerk, eine Rüge und ein Mandantenbrief haben unterschiedliche Zwecke; nicht stets sämtliche Tabellen und Entwürfe ausgeben. Fachbegriffe bei Bedarf knapp erklären, ohne einen vorgeschalteten Lehrvortrag.
+
+Vollständige Sätze statt Textbausteinreste; Quellenlücken und technische Prüfvermerke getrennt vom Empfängertext halten. Formatierte Dokumente in Times New Roman 11 pt mit dezimaler Gliederung, sonst Exporthinweis. Versand, Antragseinreichung, Veröffentlichung oder Zuschlag nur nach ausdrücklicher Freigabe.
+
+Ohne Dateizugriff fordere die konkret benötigten Auszüge an; ohne Export liefere vollständigen Text. Fehlende Werkzeuge blockieren nur abhängige Schritte, nicht die übrige Bearbeitung. Eine nicht durchgeführte Quellen- oder Aktenprüfung niemals als erledigt darstellen.
+
+## 1.6. Beispiel
+
+Der Auftraggeber verlangt eine Stellungnahme zu einer Rüge gegen die Qualitätswertung. Die Wertungsbegründung fehlt zunächst; frage sie gezielt nach. Vergleiche nach Eingang die Begründung mit Kriterien und Angebotsstellen und schreibe die Stellungnahme fertig, ohne rückwirkend eine andere ursprüngliche Begründung zu erfinden.

@@ -418,12 +418,32 @@ def decimal_heading_problems(text: str) -> list[str]:
     return problems
 
 
+def individual_workshop_structure_problems(text: str) -> list[str]:
+    """Dateistruktur ohne Mindestvolumen oder vorgeschriebene Fachüberschriften."""
+    problems = []
+    if not text.startswith("# ") or len(re.findall(r"^# ", text, flags=re.M)) != 1:
+        problems.append("eindeutige H1 am Dateianfang fehlt")
+    sections = re.split(r"^## [^\r\n]+\r?$", text, flags=re.M)[1:]
+    if not sections or any(not re.sub(r"^#{1,6} .*$", "", re.sub(r"<!--.*?-->", "", part, flags=re.S), flags=re.M).strip() for part in sections):
+        problems.append("gegliederter Abschnitt mit Inhalt fehlt")
+    numbers = []
+    for label in re.findall(r"^#{2,6} (.+)$", text, flags=re.M):
+        number = re.match(r"(\d+(?:\.\d+)*)(?:\.)?\s+\S", label)
+        if number is None:
+            problems.append(f"nicht dezimale Überschrift: {label}")
+        else:
+            numbers.append(tuple(map(int, number.group(1).split('.'))))
+    if not numbers or numbers != sorted(set(numbers)):
+        problems.append("fehlende, doppelte oder ungeordnete Abschnittsnummern")
+    return problems
+
+
 def source_anchor_problems() -> list[str]:
     problems: list[str] = []
     for root, forbidden_bits in SOURCE_FORBIDDEN:
         files = [root] if root.is_file() else sorted(root.rglob("*.md"))
         for path in files:
-            text = path.read_text(encoding="utf-8", errors="ignore")
+            text = path.read_text(encoding="utf-8")
             for bit in forbidden_bits:
                 if bit in text:
                     problems.append(
@@ -497,11 +517,28 @@ def main() -> int:
                 )
             if kind == "schnellstart" and size > 7500:
                 problems.append(f"{path.relative_to(REPO)}: {size} Bytes statt höchstens 7500")
-            if kind == "werkstatt" and not individual_review and not 20 * 1024 <= size <= 48 * 1024:
+            if kind == "werkstatt" and size > 48 * 1024:
                 problems.append(
-                    f"{path.relative_to(REPO)}: {size} Bytes außerhalb 20 bis 48 KiB"
+                    f"{path.relative_to(REPO)}: {size} Bytes statt höchstens 48 KiB"
                 )
-            if kind == "werkstatt" and not individual_review:
+            if kind == "werkstatt":
+                for issue in individual_workshop_structure_problems(text):
+                    problems.append(f"{path.relative_to(REPO)}: {issue}")
+                review_path = REPO / "quality" / "evals" / f"{slug}.json"
+                if review_path.is_file():
+                    try:
+                        # Validiert auch einen vorhandenen Werkstatt-Hash;
+                        # er ersetzt weder Strukturprüfung noch Größenlimit.
+                        validate_profile(load(review_path), slug, plugin_dir, REPO)
+                    except (ValueError, OSError, TypeError, KeyError) as exc:
+                        problems.append(f"{path.relative_to(REPO)}: individuelle Prüfung ungültig: {exc}")
+                if review_path.is_file() or slug in protected:
+                    # Keine feste Routenzahl oder Pflichtbausteine in individuell
+                    # bearbeiteten Werkstätten. Fachbewertung bleibt gesondert.
+                    for marker in PROMPT_ASSERTIONS.get(slug, {}).get("forbidden", ()):
+                        if marker in text:
+                            problems.append(f"{path.relative_to(REPO)}: falscher Anker {marker!r}")
+                    continue
                 if re.search(r"^## \d+\. \d+(?:\.\d+)*\. ", text, flags=re.M):
                     problems.append(
                         f"{path.relative_to(REPO)}: mehrfach nummerierte Hauptüberschrift"

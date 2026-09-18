@@ -3,168 +3,64 @@ name: kaltstart-triage
 description: "Für Krankenhausrecht — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Krankenhausrecht — Allgemein
+# 1. Krankenhausrechtlichen Vorgang einordnen und bearbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Zweck und Anwendungsfall
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Bestimme anhand der Unterlagen, welche krankenhausrechtliche Frage entschieden werden muss, und erarbeite das verlangte Ergebnis. Trenne institutionelle Fragen des Krankenhauses von einem individuellen Behandlungsfehlerfall.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+## 1.2. Eingaben und Auftrag
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Lies die maßgeblichen Bescheide, Anlagen, Vereinbarungen und Abrechnungen. Übernimm bekannte Angaben zu Einrichtung, Standort, Land, Zeitraum, Empfänger und Verfahrensstand. Bei einem Upload ohne erkennbaren Auftrag benenne knapp den erkennbaren Vorgang und frage nach dem gewünschten Ergebnis; unterstelle keinen Klage- oder Versandauftrag.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+Prüfe laufende Fristen anhand der zugehörigen Bekanntgabe oder Zustellung. Frage nach dem Zugangsnachweis, wenn davon die Fristberechnung abhängt, und bearbeite währenddessen die unabhängig belegbaren Fragen.
 
-## Sofortstart
-Dieses Allgemein-Skill ist der Empfangstresen und Projektleiter des Plugins **Krankenhausrecht**. Es soll den Nutzer nicht belehren, sondern schnell arbeitsfähig machen: erst die Lage erfassen, dann den passenden Pfad wählen, dann direkt einen verwertbaren Output erzeugen.
+## 1.3. Fachlichen Ablauf wählen
 
-**Plugin-Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
+### 1.3.1. Planung und Leistungsberechtigung
 
-## Bei stummem Upload
-Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-Mail, Registerauszug oder Aktenkonvolut hochlädt, behandle das als Auftrag.
+Vergleiche Planbescheid, Zulassung, Versorgungsvertrag und beanspruchte Leistung. Prüfe Bedarf, Auswahl, Personal, Kooperation und Qualitätsanforderungen für den betroffenen Standort und Zeitraum. Fehlt etwa die Leistungsgruppenzuweisung, fordere sie an; nach Eingang passe die Begründung des bestellten Antrags oder Gutachtens an.
 
-1. **Erkannt:** Dokumentart, Absender, Datum, Aktenzeichen, Beteiligte und Lebenssachverhalt nennen.
-2. **Frist zuerst:** Zustellung, Rechtsbehelf, Behördenfrist, Zahlungsziel, Ausschlussfrist oder Verjährungsrisiko markieren.
-3. **Einordnung:** Rechtsgebiet, Normengruppe, Behörde/Gericht und Arbeitstyp bestimmen.
-4. **Primärer Pfad:** den wahrscheinlich passenden Fachmodul aus diesem Plugin nennen und bei eindeutigem Treffer direkt anwenden.
-5. **Nur eine Rückfrage:** nur wenn ohne die Antwort ein falscher nächster Schritt droht.
+Optional vertiefen die vorhandenen Skills landeskrankenhausplan-aufnahme-herausnahme-aenderung und leistungsgruppen-und-qualitaetskriterien-reformlogik diese Prüfung. Eine Weiterverweisung ersetzt die Bearbeitung nicht.
 
-## Intake in 60 Sekunden
-- Wer fragt: Anwalt, Rechtsabteilung, Unternehmen, Patient, Apotheke, Krankenhaus, Verbraucher, Behörde, Soldat, Familie oder Verband?
-- Was soll entstehen: Kurzprüfung, Memo, Schriftsatz, Antrag, Anzeige, Stellungnahme, Checkliste, Berechnung, Vertragsklausel, Behördenbrief oder Mandantenübersetzung?
-- Was eilt: Frist, Termin, Zustellung, Anhörung, Ausschlussfrist, Verjährung, Bußgeld, Widerruf, Gebührenrisiko oder Verfahrensschritt?
-- Welche Unterlagen liegen vor: Verträge, Bescheide, Rechnungen, Tabellen, Registerauszüge, Leitlinien, Formulare, E-Mails, Fotos, Chatverläufe?
-- Was ist unsicher: Tatsachen, Zahlen, Zuständigkeit, Rechtslage, technische Daten, Marktdefinition, medizinischer Sachverhalt oder Familien-/Versorgungsverlauf?
+### 1.3.2. Förderung und Budget
 
-## Arbeitsmodus
-- **Schnelltriage:** Frist, Risiko, nächster Schritt.
-- **Aktenmodus:** Dokumente sortieren, Timeline, Belegmatrix und Lückenliste.
-- **Prüfmodus:** Tatbestand, Rechtsfolge, Gegenargumente, Risikoampel.
-- **Entwurfsmodus:** Antrag, Schriftsatz, Vertragsklausel, Behördenbrief, Mandantenmail, Vorstandsvorlage.
-- **Red-Team:** Ergebnis auf Halluzinationen, Quellen, Fristen, Zuständigkeit, Zahlen und Ton prüfen.
+Unterscheide Investitionsförderung, laufende Betriebskosten, Pflegebudget und Vorhaltevergütung. Gleiche Kosten, bewilligte Förderung und zugesagte weitere Finanzierung ab. Eine Planaufnahme ersetzt keinen konkreten Finanzierungsnachweis.
 
-## Passende Einstiegsrouten
-| Skill | Wann? |
-| --- | --- |
-| `krankenhausfinanzierungsgesetz-khg-grundstruktur` | Krankenhausfinanzierungsgesetz KHG Grundstruktur |
-| `landeskrankenhausplan-aufnahme-herausnahme-aenderung` | Landeskrankenhausplan Aufnahme Herausnahme Änderung |
-| `planfeststellungsbescheid-rechtsbehelf-und-eilrechtsschutz` | Planfeststellungsbescheid Rechtsbehelf und Eilrechtsschutz |
-| `investitionsfoerderung-einzelfoerderung-pauschalfoerderung` | Investitionsförderung Einzelförderung Pauschalförderung |
-| `khentgg-budgetverhandlung-drg-pepp-abgrenzung` | KHEntgG Budgetverhandlung DRG PEPP Abgrenzung |
-| `pflegebudget-vereinbarung-nachweis-risiken` | Pflegebudget Vereinbarung Nachweis Risiken |
-| `vorhalteverguetung-leistungsgruppen-krankenhausreform` | Vorhaltevergütung Leistungsgruppen Krankenhausreform |
-| `leistungsgruppen-und-qualitaetskriterien-reformlogik` | Leistungsgruppen und Qualitätskriterien Reformlogik |
-| `sektorenuebergreifende-versorgung-level-ii-klinik` | Sektorenübergreifende Versorgung Level Ii Klinik |
-| `hybrid-drg-115f-sgb-v` | Hybrid-DRG § 115f SGB V |
-| `ambulantes-operieren-115b-sgb-v` | Ambulantes Operieren § 115b SGB V |
-| `entlassmanagement-39-abs-1a-sgb-v` | Entlassmanagement § 39 Abs. 1a SGB V |
-| `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung` | MD-Prüfung Krankenhausabrechnung Prüfverfahrensvereinbarung |
-| `strukturpruefung-ops-und-md` | Strukturprüfung OPS und MD |
-| `mindestmengen-g-ba-qualitaetssicherung` | Mindestmengen G-BA Qualitätssicherung |
-| `notfallstufen-und-sicherstellungszuschlaege` | Notfallstufen und Sicherstellungszuschläge |
-| `zentren-zuschlaege-besondere-aufgaben` | Zentren Zuschläge besondere Aufgaben |
-| `krankenhausapotheke-arzneimittelversorgung` | Krankenhausapotheke Arzneimittelversorgung |
-| `krankenhaushygiene-ifsg-landesrecht` | Krankenhaushygiene IfSG Landesrecht |
-| `medizinprodukterecht-betreiberpflichten-mdr-mpbetreibv` | Medizinprodukterecht Betreiberpflichten MDR MPBetreibV |
-| `patientenrechte-behandlungsvertrag-aufklaerung` | Patientenrechte Behandlungsvertrag Aufklärung |
-| `wahlleistungsvereinbarung-chefarzt-leistungskette` | Wahlleistungsvereinbarung Chefarzt Leistungskette |
-| `belegarzt-honorar-und-krankenhausvertrag` | Belegarzt Honorar und Krankenhausvertrag |
-| `datenschutz-krankenhaus-patientenakte-forschung` | Datenschutz Krankenhaus Patientenakte Forschung |
-| `telemedizin-im-krankenhaus-und-fernbehandlung` | Telemedizin im Krankenhaus und Fernbehandlung |
-| `krankenhaus-mvz-gruendung-zulassung-compliance` | Krankenhaus-MVZ Gründung Zulassung Compliance |
-| `zuweiserverguetung-antikorruption-299a-299b-stgb` | Zuweiservergütung Antikorruption §§ 299a 299b StGB |
-| `vergaberecht-krankenhaus-einkauf-bau-it` | Vergaberecht Krankenhaus Einkauf Bau IT |
-| `personaluntergrenzen-pflege-ppugv` | Personaluntergrenzen Pflege PpUGV |
-| `arbeitszeit-bereitschaftsdienst-rufdienst` | Arbeitszeit Bereitschaftsdienst Rufdienst |
-| `rettungsdienst-schnittstelle-aufnahme-pflicht` | Rettungsdienst Schnittstelle Aufnahme Pflicht |
-| `triage-notaufnahme-ueberlastung-dokumentation` | Triage Notaufnahme Überlastung Dokumentation |
-| `psychiatrie-psychkg-unterbringung-fixierung` | Psychiatrie PsychKG Unterbringung Fixierung |
-| `kinder-und-jugendmedizin-besondere-versorgung` | Kinder- und Jugendmedizin besondere Versorgung |
-| `geburtshilfe-haftung-hebammen-schnittstelle` | Geburtshilfe Haftung Hebammen Schnittstelle |
+Für eine Budgetposition bestimme Entgeltregime, Jahr, Leistungsmenge und Berechnungsgrundlage. Fehlt die Kostenaufteilung, frage gezielt danach und aktualisiere nach Eingang die Rechnung sowie den Verhandlungsentwurf. Optional eignen sich investitionsfoerderung-einzelfoerderung-pauschalfoerderung, pflegebudget-vereinbarung-nachweis-risiken und vorhalteverguetung-leistungsgruppen-krankenhausreform zur Vertiefung.
 
-## Aktuelle Anschluss-Skills
+### 1.3.3. Behandlung, Abrechnung und Prüfung
 
-Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wenn ein Nutzer nach dem Einstieg weitergeleitet werden soll, nimm bevorzugt diese Namen.
+Trenne Versorgungsberechtigung, medizinische Erforderlichkeit, tatsächlich erbrachte Leistung, Kodierung und Prüfverfahren. Bei Hybrid-DRG oder ambulantem Operieren prüfe die für das Behandlungsjahr maßgeblichen Voraussetzungen, statt aus der Bezeichnung des Falls auf die Vergütung zu schließen.
 
-| Skill | Wann einsetzen? |
-| --- | --- |
-| `ambulantes-operieren-115b-sgb-v` | Ambulantes Operieren § 115b SGB V: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlin... |
-| `arbeitszeit-bereitschaftsdienst-rufdienst` | Arbeitszeit Bereitschaftsdienst Rufdienst: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-... |
-| `barrierefreiheit-krankenhauskommunikation` | Barrierefreiheit Krankenhauskommunikation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-... |
-| `belegarzt-honorar-und-krankenhausvertrag` | Belegarzt Honorar und Krankenhausvertrag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-R... |
-| `blutprodukte-transfusionsrecht-dokumentation` | Blutprodukte Transfusionsrecht Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-... |
-| `compliance-system-klinik-einkauf-forschung-spenden` | Compliance-System Klinik Einkauf Forschung Spenden: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformsta... |
-| `datenschutz-krankenhaus-patientenakte-forschung` | Datenschutz Krankenhaus Patientenakte Forschung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand,... |
-| `dokumentation-aufbewahrung-beweislast` | Dokumentation Aufbewahrung Beweislast: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Rich... |
-| `dora-und-it-dienstleister-soweit-einschlaegig` | DORA und IT-Dienstleister soweit einschlägig: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-... |
-| `entlassmanagement-39-abs-1a-sgb-v` | Entlassmanagement § 39 Abs. 1a SGB V: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richt... |
-| `forschung-studien-ethikkommission-datenschutz` | Forschung Studien Ethikkommission Datenschutz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G... |
-| `fristen-planung-budget-md-schiedsstelle` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fristen Planung Budget MD Schiedsstelle. |
-| `geburtshilfe-haftung-hebammen-schnittstelle` | Geburtshilfe Haftung Hebammen Schnittstelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-B... |
-| `gewaltschutz-sicherheitsdienst-hausverbot` | Gewaltschutz Sicherheitsdienst Hausverbot: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-... |
-| `haftpflichtfall-krankenhaus-gutachtenstrategie` | Haftpflichtfall Krankenhaus Gutachtenstrategie: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand,... |
-| `hybrid-drg-115f-sgb-v` | Hybrid-DRG § 115f SGB V: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Lande... |
-| `insolvenz-eines-krankenhauses-versorgungssicherung` | Insolvenz eines Krankenhauses Versorgungssicherung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformsta... |
-| `intensivmedizin-beatmung-verlegung` | Intensivmedizin Beatmung Verlegung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtli... |
-| `investitionsfoerderung-einzelfoerderung-pauschalfoerderung` | Investitionsförderung Einzelförderung Pauschalförderung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Refo... |
-| `kaltstart-krankenhausrecht` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Kaltstart Krankenhausrecht. |
-| `khentgg-budgetverhandlung-drg-pepp-abgrenzung` | KHEntgG Budgetverhandlung DRG PEPP Abgrenzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G... |
-| `kinder-und-jugendmedizin-besondere-versorgung` | Kinder- und Jugendmedizin besondere Versorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand,... |
-| `klage-gegen-budgetbescheid-oder-schiedsstellenentscheidung` | Klage gegen Budgetbescheid oder Schiedsstellenentscheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/R... |
-| `klinikakten-und-bescheide-sortieren` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Klinikakten und Bescheide sortieren. |
-| `klinikverbund-fusion-kartell-vergabe-planungsrecht` | Klinikverbund Fusion Kartell Vergabe Planungsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformsta... |
-| `kommunale-klinik-beihilfe-und-eu-beihilfen` | Kommunale Klinik Beihilfe und EU-Beihilfen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA... |
-| `krankenhaus-mvz-gruendung-zulassung-compliance` | Krankenhaus-MVZ Gründung Zulassung Compliance: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G... |
-| `krankenhausapotheke-arzneimittelversorgung` | Krankenhausapotheke Arzneimittelversorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA... |
-| `krankenhausdigitalisierung-khzg-it-sicherheit` | Krankenhausdigitalisierung KHZG IT-Sicherheit: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G... |
-| `krankenhausfinanzierungsgesetz-khg-grundstruktur` | Krankenhausfinanzierungsgesetz KHG Grundstruktur: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand... |
-| `krankenhaushygiene-ifsg-landesrecht` | Krankenhaushygiene IfSG Landesrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtl... |
-| `krankenhausreform-leistungsgruppen-routing` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Krankenhausreform Leistungsgruppen Routing. |
-| `krankenhausseelsorge-besuchsrecht-hausrecht` | Krankenhausseelsorge Besuchsrecht Hausrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-B... |
-| `kritis-krankenhaus-bsi-gesetz-nis2` | KRITIS Krankenhaus BSI-Gesetz NIS2: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtli... |
-| `landesaufsicht-krankenhausaufsicht-beanstandung` | Landesaufsicht Krankenhausaufsicht Beanstandung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand,... |
-| `landeskrankenhausplan-aufnahme-herausnahme-aenderung` | Landeskrankenhausplan Aufnahme Herausnahme Änderung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformst... |
-| `landesrecht-und-bundesrecht-trennen` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Landesrecht und Bundesrecht trennen. |
-| `leistungsgruppen-und-qualitaetskriterien-reformlogik` | Leistungsgruppen und Qualitätskriterien Reformlogik: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformst... |
-| `livequellen-g-ba-bmg-land-pruefen` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livequellen G-BA BMG Land prüfen. |
-| `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung` | MD-Prüfung Krankenhausabrechnung Prüfverfahrensvereinbarung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/... |
-| `medizinprodukterecht-betreiberpflichten-mdr-mpbetreibv` | Medizinprodukterecht Betreiberpflichten MDR MPBetreibV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Refor... |
-| `mindestmengen-g-ba-qualitaetssicherung` | Mindestmengen G-BA Qualitätssicherung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Rich... |
-| `notfallstufen-und-sicherstellungszuschlaege` | Notfallstufen und Sicherstellungszuschläge: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA... |
-| `output-vorstandsvorlage-behoerdenbrief-klage` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Output Vorstandsvorlage Behördenbrief Klage. |
-| `patientenbeschwerde-und-risikomanagement` | Patientenbeschwerde und Risikomanagement: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-R... |
-| `patientenrechte-behandlungsvertrag-aufklaerung` | Patientenrechte Behandlungsvertrag Aufklärung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G... |
-| `personaluntergrenzen-pflege-ppugv` | Personaluntergrenzen Pflege PpUGV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlin... |
-| `pflegebudget-vereinbarung-nachweis-risiken` | Pflegebudget Vereinbarung Nachweis Risiken: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA... |
-| `planfeststellungsbescheid-rechtsbehelf-und-eilrechtsschutz` | Planfeststellungsbescheid Rechtsbehelf und Eilrechtsschutz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/R... |
-| `privatisierung-betriebsuebergang-traegerwechsel` | Privatisierung Betriebsübergang Trägerwechsel: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G... |
-| `psychiatrie-psychkg-unterbringung-fixierung` | Psychiatrie PsychKG Unterbringung Fixierung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-B... |
-| `qualitaets-und-strukturvorgaben-intake` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Qualitäts- und Strukturvorgaben Intake. |
-| `qualitaetsbericht-veroeffentlichungspflichten` | Qualitätsbericht Veröffentlichungspflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-B... |
-| `rettungsdienst-schnittstelle-aufnahme-pflicht` | Rettungsdienst Schnittstelle Aufnahme Pflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G... |
-| `schiedsstellenverfahren-krankenhausentgelt` | Schiedsstellenverfahren Krankenhausentgelt: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA... |
-| `sektorenuebergreifende-versorgung-level-ii-klinik` | Sektorenübergreifende Versorgung Level Ii Klinik: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand... |
-| `strahlenschutz-radiologie-nuklearmedizin` | Strahlenschutz Radiologie Nuklearmedizin: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-R... |
-| `strukturpruefung-ops-und-md` | Strukturprüfung OPS und MD: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, La... |
-| `telemedizin-im-krankenhaus-und-fernbehandlung` | Telemedizin im Krankenhaus und Fernbehandlung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G... |
-| `transplantationsrecht-koordination` | Transplantationsrecht Koordination: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtli... |
-| `triage-notaufnahme-ueberlastung-dokumentation` | Triage Notaufnahme Überlastung Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-... |
-| `vergaberecht-krankenhaus-einkauf-bau-it` | Vergaberecht Krankenhaus Einkauf Bau IT: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Ri... |
-| `vorhalteverguetung-leistungsgruppen-krankenhausreform` | Vorhaltevergütung Leistungsgruppen Krankenhausreform: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reforms... |
-| `wahlleistungsvereinbarung-chefarzt-leistungskette` | Wahlleistungsvereinbarung Chefarzt Leistungskette: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstan... |
-| `zentren-zuschlaege-besondere-aufgaben` | Zentren Zuschläge besondere Aufgaben: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richt... |
-| `zuweiserverguetung-antikorruption-299a-299b-stgb` | Zuweiservergütung Antikorruption §§ 299a 299b StGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformsta... |
+Fehlt ein für die Kürzung entscheidender Leistungsnachweis, fordere ihn an. Nach Eingang prüfe, ob er den Einwand tatsächlich entkräftet, und schreibe die bestellte Abrechnungserwiderung fertig. Optional unterstützen md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung, strukturpruefung-ops-und-md und hybrid-drg-115f-sgb-v.
 
-<!-- END ACTUAL-SKILL-ROUTING -->
+### 1.3.4. Betrieb, Personal und Patientenrechte
 
-## Normen & Rechtsprechung
+Ordne Fragen zu Notfallversorgung, Hygiene, Arzneimittelversorgung, Medizinprodukten und Personalorganisation dem konkreten Ablauf und Verantwortungsbereich zu. Beziehe Arbeitszeit, Pflegepersonal, Rettungsdienst, Entlassmanagement oder besondere Versorgungsbereiche nur ein, soweit sie den Auftrag berühren.
 
-Konkret zu prüfen:
+Bei Behandlung, Aufklärung, Dokumentation, Einsicht oder Datenschutz kläre den konkreten Vorgang und die benötigten Belege. Trenne daraus folgende Patientenrechte von institutionellen Finanzierungsfragen. Für Apothekenversorgung, Wahlleistungen, Belegärzte, MVZ, Forschung, Einkauf oder Kooperation prüfe die jeweils betroffene Vereinbarung und gegebenenfalls Antikorruptions- oder Vergabefragen, nicht pauschal sämtliche Nebengebiete.
 
-- §§ 1-23 KHG (Krankenhausfinanzierung)
-- §§ 107-114 SGB V (Krankenhaus)
-- KHEntgG (Entgeltgesetz)
-- §§ 17a-17d KHG (DRG, Pflege, Investitionen)
+### 1.3.5. Verhandlung und Verfahren
+
+Unterscheide Aufsichtsantwort, Budgetverhandlung, Schiedsstellenverfahren und gerichtlichen Rechtsschutz nach Streitgegenstand und angegriffenem Akt. Formuliere einen gerichtlichen Antrag nur bei entsprechendem Auftrag. Für ein Schiedsstellenverfahren erfasse gescheiterte Einigung, streitige Position, Berechnung und Anlagen; optional kann schiedsstellenverfahren-krankenhausentgelt vertiefen.
+
+## 1.4. Nachweise und Quellen
+
+Ordne entscheidende Tatsachen ihren Belegen zu und kennzeichne streitige oder ungeklärte Angaben. Benenne, welche Partei oder Stelle die jeweilige Voraussetzung darlegen oder nachweisen muss und welche Folge ein fehlender Nachweis hat. Behandle den stärksten Einwand gegen die vorgeschlagene Lösung.
+
+Prüfe die einschlägigen Bestimmungen von KHG, KHEntgG, BPflV, SGB V, Landesrecht und G-BA-Vorgaben in der zeitlich maßgeblichen Fassung. Nutze die Zitierregeln in references/zitierweise.md, soweit verfügbar. Reformvorhaben und Übergangsregelungen sind von geltendem Dauerrecht zu unterscheiden; Entscheidungen und konkrete Jahresvorgaben müssen überprüfbar belegt sein.
+
+## 1.5. Fortsetzung, Ausgabe und Grenzen
+
+Frage gezielt nach entscheidenden Lücken, nicht erneut nach bereits bekannten Angaben. Arbeite nach jeder Antwort an der betroffenen Rechnung, Begründung oder Vertragsregelung weiter. Zeigt die Antwort eine weitere entscheidende Unklarheit, kläre diese in einer weiteren kurzen Runde.
+
+Liefere bei einem Hindernis die bearbeitbaren Teile als vorläufig und benenne den benötigten Beitrag zur Endfassung. Sobald die Grundlage reicht, erstelle das bestellte Dokument in vollständigen Sätzen; bloße Übersichten, Stichworte und Textgerüste sind kein Ersatz. Gib nicht automatisch sämtliche Tabellen oder möglichen Anträge aus.
+
+Nutzerseitige Dateinamen gehen vor; ergebnis.md kann ohne andere Vorgabe verwendet werden. Formatierte Dokumente folgen Times New Roman, 11 Punkt und dezimaler Gliederung. Zusätzliche Recherche- und Abrufvermerke stehen getrennt vom Empfängertext.
+
+Keine externe Beantragung, Einreichung, Mittelverwendung oder sonstige Erklärung ohne ausdrückliche Freigabe. Ohne Zugriff fordere die benötigte Passage an und behaupte keine ungelesenen Inhalte als geprüft; ohne Export liefere Text. Optionale Fachskills sind keine Voraussetzung für die Fortsetzung hier.
+
+## 1.6. Beispiel
+
+Eine Klinik legt einen Planbescheid vor und bestellt eine Stellungnahme zur eingeschränkten Leistungserbringung. Lies Bescheid und vorhandene Anlagen; fehlt die maßgebliche Zuordnung, fordere diese gezielt an und bearbeite die übrige Begründung vorläufig. Nach Eingang vergleiche die tatsächliche Einschränkung mit der beantragten Leistung und stelle die Stellungnahme fertig, ohne ungefragt eine Klage zu entwerfen.

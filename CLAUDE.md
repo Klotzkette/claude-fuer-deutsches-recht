@@ -10,7 +10,7 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Wenn du in diesem Re
 
 ## Methodik
 
-- Standard ist der **Gutachtenstil** für interne Memos und Mandantenbriefe mit Begründungsanspruch.
+- Gutachten und interne rechtliche Prüfungen erläutern zweifelhafte Voraussetzungen im Gutachtenstil. Mandantenbriefe nennen Ergebnis, verständliche Begründung und Handlungsempfehlung; sie müssen nicht die gesamte interne Subsumtion wiedergeben.
 - **Urteilsstil** für Schriftsätze, Beschlüsse, knappe Vermerke.
 - Anspruchsgrundlagenprüfung in der Reihenfolge: Vertrag – c.i.c. – GoA – dinglich – Delikt – Bereicherung.
 - Auslegung nach den vier klassischen Methoden (grammatikalisch, systematisch, historisch, teleologisch) zzgl. verfassungs- und unionsrechtskonformer Auslegung.
@@ -19,7 +19,7 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Wenn du in diesem Re
 ## Quellen und Zitierweise
 
 - **Verbindlich:** [`references/zitierweise.md`](./references/zitierweise.md).
-- Jede juristische Aussage wird belegt.
+- Tragende rechtliche Aussagen anhand überprüfter Quellen absichern. Gerichtliche Schriftsätze und Gutachten enthalten die erforderlichen Nachweise an der passenden Stelle. Mandantenbriefe erläutern die Entscheidung verständlich; zusätzliche Recherchebelege und Abrufvermerke können im getrennten internen Vermerk stehen. Keine Fundstellen oder technischen Quellenprotokolle nur zur Verlängerung des Empfängertextes einfügen.
 - Rechtsprechung: Gericht, Entscheidungsform, Datum, Aktenzeichen, Fundstelle, Randnummer.
 - Kommentare: Bearbeiter, "in:" Kommentar, Auflage, Jahr (ggf. Stand), Norm, Randnummer.
 - Aufsätze: Autor, Zeitschrift, Jahrgang, Anfangsseite (konkrete Seite).
@@ -32,7 +32,7 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Wenn du in diesem Re
 Diese Regel gilt **dauerhaft und für jedes Werkzeug**, das in diesem Repository arbeitet. Sie ist nicht verhandelbar.
 
 - **Grundschrift für Enddokumente:** Schriftsätze, Klagen, Klageerwiderungen, Repliken, Dupliken, Anträge, Memos, Vermerke, Verträge, Beschlüsse, Urteilsentwürfe, Verfügungen, Mandantenbriefe und vergleichbare Arbeitsprodukte werden, soweit technisch möglich, in **Times New Roman, Schriftgröße 11 pt** ausgegeben. Überschriften dürfen fett und abgestuft sein, bleiben aber in derselben Schriftfamilie.
-- **Exporthinweis bei Markdown oder Chat-Ausgabe:** Wenn das System kein echtes DOCX/PDF formatiert, muss es den Formatwunsch ausdrücklich im Arbeitsprodukt oder Exporthinweis aufnehmen: Times New Roman, 11 pt, dezimale Gliederung.
+- **Exporthinweis bei Markdown oder Chat-Ausgabe:** Wenn das System kein echtes DOCX/PDF formatiert, den Formatwunsch in einem getrennten Exporthinweis nennen: Times New Roman, 11 pt, dezimale Gliederung. Technische Hinweise gehören nicht in den versandfertigen Brief, Vertrag oder Schriftsatz. Keine tatsächlich nicht erzeugte Formatierung oder Datei behaupten.
 - **Abweichungen nur mit Grund:** Amtliche Formulare, gerichtliche Hausformate, Mandantentemplates oder Tabellenlayouts dürfen abweichen, wenn der Skill die Abweichung benennt und erklärt.
 - **Ausschließlich dezimale Gliederung:** `1`, dann `1.1`, dann `1.1.1`, dann `1.1.1.1` und so weiter, beliebig tief.
 - **Niemals** römische Ziffern (`I`, `II`), Großbuchstaben (`A`, `B`, `C`), Kleinbuchstaben (`a`, `b`) oder gemischte Verlags-Gliederungen (`A. I. 1. a) aa)`). Genau diese Schemata sind verboten, weil man sich darin nicht zurechtfindet.
@@ -78,7 +78,7 @@ Diese Regel gilt **ausnahmslos und für alle Zeiten** für jedes Dokument, das e
 
 - **Vollständig ausformuliert.** Endprodukte werden in vollständigen, grammatikalisch sauberen Sätzen geliefert. Stichworte, Halbsätze, Aufzählungs-Skelette, leere Klauselrümpfe oder reine Informationssammlungen sind als Endprodukt **verboten**. Eine Klausel besteht aus mindestens einem vollständigen Satz, der die Rechtsfolge konkret und subsumtionstauglich anordnet.
 - **Crisp und prägnant.** „Vollständig" heißt nicht „aufgebläht". Jeder Satz trägt; rhetorische Füllstücke sind zu vermeiden. Klarheit, juristische Präzision und Lesbarkeit für den Mandanten und das Gericht haben absoluten Vorrang vor Wortzahl.
-- **Keine Skelett-Verträge.** Ein Endvertrag ohne Präambel, ohne Definitionen, ohne ausformulierte Hauptpflichten, ohne Leistungsstörungsrecht, ohne Schlussbestimmungen ist kein Endprodukt, sondern eine Gliederung. Solche Skelette gehören in den Skill als Zwischenergebnis, nicht in die Ausgabe an die Nutzerin.
+- **Keine Skelett-Verträge.** Die für den konkreten Vertrag erforderlichen Vereinbarungen vollständig ausformulieren, insbesondere Leistungsgegenstand, Pflichten, vereinbarte Gegenleistung und erforderliche Rechtsfolgen. Präambel, Definitionen und weitere Klauseln nur aufnehmen, soweit sie für diesen Vertrag nötig oder beauftragt sind. Eine kurze Änderungsvereinbarung muss nicht den gesamten Ausgangsvertrag wiederholen; unverändert fortgeltende Regelungen eindeutig bezeichnen. Eine bloße Gliederung ersetzt keine Endfassung.
 - **Platzhalter sauber markieren.** Wo Mandantsangaben fehlen, werden klar lesbare Platzhalter gesetzt (`[Name der Mandantin]`, `[Betrag in EUR]`, `[Datum TT.MM.JJJJ]`) — nicht aber Sinnsätze weggelassen. Der umgebende Text bleibt vollständig.
 - **Frage-Antwort-Phase ist Vorbereitung, nicht Endprodukt.** Die Rückfrage-Phase eines Skills dient der Erhebung fehlender Tatsachen. Sobald genug Tatsachen vorliegen, wird das Endprodukt in **ganzer Sprache** geliefert — nicht in Stichworten, die der Mandant selbst zu Sätzen ausbauen müsste.
 - **Strenge Regelung bei neuen Plugins und Skills.** Jedes neu erzeugte Plugin oder Skill, das ein Endprodukt erstellt, muss diese Ausformulierungspflicht im eigenen Ausgabeformat-Block (Innenstruktur Nummer 5) ausdrücklich umsetzen. Das Skill-Werkzeug muss bei jeder Erzeugung darauf prüfen, ob das Ergebnis ausformuliert ist; bei Skelett-Charakter ist das Endprodukt zu verwerfen und in vollständiger Sprache neu zu produzieren.
@@ -124,9 +124,13 @@ Diese Regel gilt **ausnahmslos und für alle Zeiten** für jedes Dokument, das e
 
 Ziel jedes Skills ist die **Produktion eines Dokuments oder Arbeitsergebnisses**, nicht ein langer Chat-Vortrag. Halte dich daran:
 
-- **Erste Antwort: knapp.** Nicht mehr als nötig, um den Sachverhalt einzuordnen und – falls nötig – **eine einzige gezielte Rückfrage** zu stellen.
+- Erste Antwort: knapp. Vorhandene Unterlagen zuerst lesen. Nur Angaben erfragen, die für den konkreten Auftrag fehlen; zusammengehörige Fragen bündeln. Keine erneute Mandatsaufnahme, wenn Auftrag, Rolle und Sachverhalt bereits feststehen.
 - **Keine vorgelagerten Theorie-Vorträge.** Keine ausführliche Norm-Wiederholung, kein Lehrbuch-Intro, keine Selbsterklärung, was der Skill jetzt gleich tun wird. Tu es direkt.
-- **Sofort zur Dokumentenerzeugung übergehen,** sobald die nötigsten Eingaben vorliegen. Lieber ein erster Entwurf mit klaren "[noch zu klären: …]"-Platzhaltern als eine Rückfrage-Schleife.
+- Zum beauftragten Ergebnis weiterarbeiten. Sobald die nötigen Angaben vorliegen, den gewünschten Entwurf oder die Beratung ausarbeiten. Noch offene entscheidende Angaben nicht durch erfundene Tatsachen ersetzen. Bereits bearbeitbare Teile dürfen vorläufig geliefert werden; kenntlich machen, welche Frage vor der Endfassung noch beantwortet werden muss.
+- Antworten führen zum nächsten Arbeitsschritt. Neue Angaben mit den vorhandenen Belegen abgleichen und nur die betroffenen Rechnungen, Anträge oder Vertragsbestimmungen ändern. Ergibt sich daraus eine weitere entscheidende Lücke, gezielt nachfragen. Es gibt keine starre Höchstzahl von Rückfragerunden; bereits beantwortete Fragen, wiederholte Aufnahmen und Rückfragen ohne Einfluss auf das Ergebnis unterbleiben.
+- Verfahrensstand und Auftrag bestimmen die Fortsetzung. Fehlende Auskunft kann zunächst ein Auskunftsschreiben erfordern; nach ihrem Eingang kann daraus eine Berechnung und anschließend ein Zahlungsantrag werden. Ein streitiger Nachweis kann eine Beweisfrage oder eine bedingte Argumentation erfordern. Nicht ungefragt in ein Gerichtsverfahren wechseln, wenn nur ein Gutachten oder eine Vertragsprüfung beauftragt ist. Ein Gutachten ist fertig, wenn es die gestellte Frage begründet beantwortet; eine Dokumentenbestellung ist nicht mit einer bloßen Analyse erledigt.
+- Interne Prüfung und Empfängertext trennen. Belegabgleich, Quellenprüfung und Berechnungen dienen der Bearbeitung. In Briefe, Schriftsätze und Verträge gehören nur die für ihren Empfänger erforderlichen Inhalte. Technische Arbeitsanweisungen, Dateizugriffsgrenzen und Prüfvermerke stehen gegebenenfalls in einer gesonderten Notiz an den Auftraggeber, nicht im versandfähigen Dokument. Fachübliche Überschriften verwenden und keine internen Prüffeldnamen als Pflichtgliederung ausgeben.
+- Endfassung statt Arbeitsabbruch. Vor Abschluss kontrollieren, ob das verlangte Ergebnis tatsächlich vorliegt, neue Angaben eingearbeitet und offene entscheidende Punkte erkennbar sind. Bei einem Hindernis den erreichten Stand und den konkret benötigten nächsten Beitrag nennen; nach dessen Eingang dort fortsetzen. Eine Freigabe ist nur für die beauftragte externe Handlung erforderlich, nicht für jeden internen Bearbeitungsschritt. Versand, Einreichung, Anerkenntnis oder Verzicht nie eigenmächtig veranlassen.
 - **Ausnahmen – hier darf und soll ausführlich gearbeitet werden:**
   - Echte Subsumtion / Gutachtenstil-Prüfung einer Anspruchsgrundlage.
   - Vergleichstabellen, Gegenüberstellungen, Zitatketten, Chronologien.

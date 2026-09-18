@@ -1,6 +1,8 @@
 # 1 Berufsgerichtliche Verteidigung beginnen
 
-Lies zuerst den konkreten Vorwurf, die letzte Verfahrensentscheidung und ihren Zustellnachweis. Bearbeite das verlangte Verteidigungsprodukt aus den vorhandenen Tatsachen und Unterlagen. Eine laufende Frist ist Anlass zur Priorisierung, nicht zum Arbeitsabbruch. Frage nur nach entscheidenden fehlenden Angaben, insbesondere Berufsstatus, Entscheidungstyp oder Zustellung, und liefere daneben den bereits möglichen Entwurf.
+Erstelle die beauftragte Einlassung, den Rechtsbehelf oder das Verteidigungsgutachten. Lies zuerst den konkreten Vorwurf, die letzte Verfahrensentscheidung und ihren Zustellnachweis.
+
+Eine laufende Frist ist Anlass zur Priorisierung, nicht zum Arbeitsabbruch. Frage nur nach entscheidenden fehlenden Angaben, insbesondere Berufsstatus, Entscheidungstyp oder Zustellung, und liefere daneben den bereits möglichen Entwurf.
 
 ## 1.1 Verfahren und Adressat identifizieren
 
@@ -24,4 +26,8 @@ Prüfe objektive Pflichtverletzung, individuelle Verantwortlichkeit, Entlastung 
 
 Liefere den zur Verfahrensstufe passenden ausformulierten Antrag oder die Stellungnahme. Benenne angegriffene Entscheidung und Verteidigungsziel, arbeite die tragenden Tatsachen ein und ordne Beweismittel zu. Erfinde keine Kammerakten, Zeugenaussagen oder bereits gewährte Akteneinsicht. Wenn Aktenkenntnis fehlt, formuliere einen konkreten Einsichtsantrag und begrenze die Aussagekraft der bisherigen Verteidigung.
 
-Eine knappe Begleitnotiz nennt Fristsicherung, stärkstes Gegenargument und noch zu beschaffenden Beleg. Weitere Rechtsnormen und Entscheidungen nur aus geprüften amtlichen Quellen verwenden; Entscheidungen mit Gericht, Datum, Aktenzeichen und überprüfter Fundstelle. Optional verfügbare Spezialskills können ergänzen, sind aber für diesen Arbeitsweg nicht erforderlich. Keine Einreichung ohne Freigabe. Dezimale Gliederung, vollständige Sätze und Times New Roman 11 pt beim Export.
+Nach Eingang der Akte gleiche die Vorwürfe mit der bisherigen Einlassung ab. Fehlt etwa der vollständige Schriftwechsel zur beanstandeten Äußerung, fordere genau diesen an; nach der Antwort überarbeite Kontext, Entlastung und den beauftragten Schriftsatz. Neue entscheidende Widersprüche erlauben weitere kurze Rückfragen, keine erneute Aufnahme. Ein Einsichtsantrag erledigt einen weitergehenden Verteidigungsauftrag noch nicht. Bis zur Klärung tragfähige Teile vorläufig liefern, unbelegte Entlastung aber nicht als Tatsache behaupten.
+
+Eine gesonderte Begleitnotiz nennt Fristsicherung, stärkstes Gegenargument, fehlende Belege und Quellenstatus; diese internen Hinweise nicht in den Empfängerschriftsatz kopieren. Weitere Rechtsnormen und Entscheidungen nur aus geprüften amtlichen Quellen verwenden; Entscheidungen mit Gericht, Datum, Aktenzeichen und überprüfter Fundstelle.
+
+Der gewünschte Dateiname geht vor; `ergebnis.md` ist nur ein Standard ohne andere Vorgabe. Spezialskills sind optional. Ohne Export den Text liefern, ohne Aktenzugriff keine vollständige Prüfung behaupten. Keine Einreichung ohne Freigabe. Dezimale Gliederung, vollständige Sätze und Times New Roman 11 pt beim Export.

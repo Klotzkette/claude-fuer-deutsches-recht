@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-verwaltungsgericht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
@@ -11,12 +11,24 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Guter Dezernatseinstieg wurde erhalten, pauschales Vorwegnahmeverbot und unvollständige Normverweise ersetzt.",
+    "reason": "Mini vollständig gelesen: Eilwege und maßgeblicher Zeitpunkt waren differenziert, die Fortsetzung nach nachgereichtem Zustellungsnachweis oder Verwaltungsvorgang blieb jedoch zu unbestimmt.",
     "changes": [
-      "Eilwege anhand des Begehrens getrennt.",
-      "Anspruch und Dringlichkeit sowie Reichweite des Tenors konkretisiert."
+      "Nachgereichte Bekanntgabe- und Ermessensunterlagen ausdrücklich in Fristprüfung, Würdigung und Tenor einarbeiten lassen.",
+      "Neue Vollzugsereignisse mit erneuter Dringlichkeitsprüfung verbunden.",
+      "Gezielte weitere Klärung und Fertigstellung des bestellten Dokuments statt einmaliger Rückfrage vorgesehen; Quellenstatus getrennt."
     ],
-    "sha256": "b8545c4a40284abd013f870c0a2ec955e729080c2bf4c8fa4fd5c05b6ae14c7f"
+    "sha256": "7f02e5b475fab7e4b51d385cace764597c14234554c303528ff8e42ed71a148d"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig gelesen und nach Überarbeitung nochmals vollständig geprüft: Wiederholte Tabellen, Musterfragmente und zwei parallele Routenkapitel ersetzten einen durchgehenden gerichtlichen Bearbeitungsablauf.",
+    "changes": [
+      "Begehren, Eilrechtsschutz, Aktenaufklärung, materielle Prüfung und Entscheidung zu einem fortlaufenden Arbeitsgang gegliedert.",
+      "Fehlende Vollzugs- und Behördenunterlagen mit konkreter Nachforderung und anschließender Anpassung von Abwägung und Tenor verbunden.",
+      "Anfechtung, Vornahme und Bescheidung sowie Urteilsinhalt und Berichtigung offenbarer Unrichtigkeiten unterschieden.",
+      "Vorhandene ältere Rechtsprechungsanker als noch zu prüfende Recherchehinweise erhalten; keine frische Verifikation dieser Entscheidungen behauptet."
+    ],
+    "sha256": "b7c7ffdf149b9b35d35b67d5f3de1e144d1ac5d16ee477d3a149f7b40b8ad194"
   },
   "selection": {
     "positive": [

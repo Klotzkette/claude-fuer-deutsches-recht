@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "patentrecherche",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/patg/BJNR201170936.html",
@@ -11,12 +11,22 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der alte Mini duplizierte Patentrecht statt Suchläufe, Trefferbelege und Recherchegrenzen konkret anzuleiten; der Berichts-Spezialskill verlangt gerade deren Dokumentation.",
+    "reason": "Der vollständig geprüfte Mini behandelt Suchläufe, Offenbarungsstellen und Recherchegrenzen eigenständig. Fehlende technische Merkmale oder Zeitangaben führen zu gezielter Klärung und danach zum aktualisierten Recherchebericht.",
     "changes": [
       "Suchprotokoll, Offenbarungsstellen und Datenbankzugriffsgrenzen eingebaut.",
-      "Priorität, Veröffentlichung und territoriale Familienprüfung getrennt."
+      "Priorität, Veröffentlichung und territoriale Familienprüfung getrennt.",
+      "Fortsetzung nach technischen Ergänzungen bis zum beauftragten Bericht oder Entwurf vorgesehen."
     ],
-    "sha256": "7242182ceeec6ba9e4846aea9d540d4033923f661aac48df37ae1ed599d343df"
+    "sha256": "977275d67d527f4a1a5b85d586e6d0c5b0f8e83f7170d6583637b3879897c47c"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständig gelesene Werkstatt wurde entlang Recherche, Trefferprüfung, Zeitrang und Rechtsstand neu gegliedert. Neuheitsprüfung und Benutzungsfreiheit werden nicht als austauschbare Rechercheziele behandelt.",
+    "changes": [
+      "Technische Rückfragen mit der Überarbeitung der Suchstrategie und Merkmalsauswertung verbunden.",
+      "Bescheidantwort, Einspruch, Verletzungsverfahren und Lizenzfragen nur als beauftragte Anschlussarbeit aufgenommen; allgemeine doppelte Routen entfernt."
+    ],
+    "sha256": "cf39c388f84f70bf5cde8e134589ae2e72be5de939964db1a40a8f06efab202b"
   },
   "selection": {
     "positive": [

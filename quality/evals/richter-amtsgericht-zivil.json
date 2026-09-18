@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-amtsgericht-zivil",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__495a.html",
@@ -10,14 +10,12 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Fehlerhafte Warnformel zum Ermessenverfahren und unscharfe Beweislast durch richterliche Relation ersetzt.",
-    "changes": [
-      "Schlüssigkeit, Erheblichkeit und Beweisbedürftigkeit getrennt.",
-      "Aktuelle Grenze und mündlichen Verhandlungsantrag aufgenommen."
-    ],
-    "sha256": "c6022e4543fbc67b2ebd565a33629821d3173642b45284a5e3b6e1c95f24b062"
+    "verdict": "retained",
+    "reason": "Am 18. September vollständig gelesen. Richterrolle, Gehör und noch erforderliche Beweisaufnahme bleiben klar; nachgereichte Zahlungsbelege ändern Zuordnung, Zinsen und Kosten statt einen Urteilsausgang vorwegzunehmen. Keine neue Quellenverifikation oder Live-Modellprüfung.",
+    "changes": [],
+    "sha256": "4864fbf4eb4acf1ee68a31a658f1e30fcb86d2077a840360d5c5305da7e6a610"
   },
+  "workshop_review": {"verdict":"retained","reason":"Am 18. September gesamten Text geprüft. Schlüssigkeit, Hinweise, Beweiswürdigung und Entscheidungsreife sind aufeinander abgestimmt; einzelne Aufträge erzwingen kein Urteil. Nachgereichte Belege werden gezielt eingearbeitet, und Nutzerantworten ersetzen keine gerichtlichen Verfahrenshandlungen. Kein widersprechender generischer Schluss gefunden.","changes":[],"sha256":"238cc4bfcc2105b9c5f80d76404418546bab296c83bc15d939c6b1df542a4315"},
   "selection": {
     "positive": [
       "Erstellen Sie als Amtsrichter eine Relation zur bestrittenen Kaufpreisforderung.",

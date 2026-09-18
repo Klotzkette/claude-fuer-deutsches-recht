@@ -14,13 +14,13 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Frage gezielt nach fehlenden Kontaktangaben, Auftraggebern oder Änderungsdaten, wenn sie Pflicht oder Eintrag verändern. Fehlende Tatsachen bleiben offen; vorhandene Unterlagen zuerst lesen und keine Annahmen in Registerfelder übernehmen.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
 ## Schnellstart-Workflow
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Lobbyregister Bundestag**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
+Bestimme aus Kontaktvermerken und vorhandenem Eintrag, ob eine Pflichtprüfung, Registrierung, Änderung oder Antwort an die registerführende Stelle bestellt ist. Arbeite auf dieses Ergebnis hin; die Auswahl weiterer Skills ist nur eine optionale Vertiefung.
 
 **Plugin-Fokus:** Lobbyregister-Bundestag-Superplugin mit 50 geführten Skills für Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstößen und Fristen nach LobbyRG.
 
@@ -35,7 +35,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
 4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
 5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
-6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
+6. **Gezielte Rückfragen:** Kläre fehlende Angaben zum konkreten Kontakt oder Datenfeld. Nach der Antwort den betroffenen Eintrag aktualisieren; weitere Fragen nur bei neuen entscheidenden Lücken.
 
 **Was du bei stummem Upload nicht machst:**
 
@@ -51,7 +51,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 - **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
 - **Primärer Pfad:** Wähle nach Aktenlage den nächsten passenden Skill und begründe in einem Satz, welche Frist, Zuständigkeit, Beweislast oder welches Arbeitsprodukt dadurch geklärt wird.
 - **Alternativen:** `...`, `...`
-- **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
+- **Nächster Schritt:** [bestellten Entwurf bearbeiten oder konkret fehlenden Nachweis erfragen]
 
 ### 1. Intake in 60 Sekunden
 
@@ -75,7 +75,7 @@ Arbeite danach in dieser Reihenfolge:
 2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
 3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
 4. **Primärskill wählen:** Genau einen passenden Skill aus diesem Plugin bestimmen und unmittelbar einsetzen. Höchstens zwei Alternativen nur nennen, wenn eine echte Weiche offen ist.
-5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
+5. **Zum Dokument weiterarbeiten:** Fehlt die Auftraggeberkette, Vertrag oder Weiterbeauftragung gezielt nachfordern. Fehlt ein Finanzbeleg, Zeitraum und Zuordnung klären. Nach Eingang die betroffenen Registerfelder beziehungsweise Berechnungen ändern und die bestellte Fassung vervollständigen.
 6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
 
 ### 3. Routing-Regeln
@@ -89,7 +89,7 @@ Arbeite danach in dieser Reihenfolge:
 
 ### 4. Antwortformat für den Einstieg
 
-Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
+Nur bei noch unklarem Auftrag kann die folgende Übersicht helfen. Bei klarem Auftrag direkt an den bestellten Feldtexten, der Stellungnahme oder dem Memo arbeiten; keine Skilltabelle als Pflichtvorspann ausgeben.
 
 **Kurzbild**
 - Ziel: [...]
@@ -263,6 +263,8 @@ Das Plugin adressiert alle Normen der §§ 1 bis 7 LobbyRG sowie ergaenzende Mat
 - Portal-Konten werden ohne Zwei-Personen-Freigabeprozess betrieben, was bei Personalwechseln zu Kontrollverlust fuehrt.
 
 ## Quellen und Aktualitaet
+
+Liefere bestellte Enddokumente in vollständigen Sätzen unter dem gewünschten Dateinamen. Offene wesentliche Angaben begrenzen nur die betroffenen Teile; nach ihrer Klärung weiterarbeiten. Portaländerung und externe Kontaktaufnahme nur nach Freigabe. Technische Prüfnotizen getrennt halten; formatierte Begleitdokumente in Times New Roman 11 Punkt mit dezimaler Gliederung.
 
 - Stand: 05/2026
 - Lobbyregistergesetz (LobbyRG) in der Fassung nach dem Änderungsgesetz vom 15.01.2024 (in Kraft 01.03.2024). Wesentliche Neuerungen: Adressatenkreis ab Referatsleiterebene; konkrete Angabe der Regelungsvorhaben und betroffenen Bereiche; Upload-Pflicht für Stellungnahmen und Gutachten von grundsaetzlicher Bedeutung; Uebergangsfrist Bestandseintraege 01.03.2024 bis 30.06.2024.

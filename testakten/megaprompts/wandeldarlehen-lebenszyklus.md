@@ -145,13 +145,13 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Pflichtverletzung, Schade
 
 _Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Wandeldarlehen-Lebenszyklus._
 
-# Einstieg und Routing
+# 1. Wandeldarlehen und Bearbeitungsauftrag einordnen
 
-## Einsatzlage
+## 1.1. Auftrag
 
-Dieser Einstieg routet **Wandeldarlehen Lebenszyklus** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Lies Vertrag, Nachträge und Unterlagen zum Wandelereignis und bearbeite die beauftragte Vertrags-, Rechen- oder Vollzugsfrage. Bereits bekannte Parteirollen, Konditionen und Termine nicht erneut abfragen.
 
-## Fachlandkarte dieses Plugins
+## 1.2. Optionale Vertiefungen
 
 - `begleitet-erstpruefung-und-mandatsziel` — Begleitet Erstpruefung und Mandatsziel
 - `beurkundungserfordernis-pruefung` — Beurkundungserfordernis Prüfung
@@ -169,19 +169,18 @@ Dieser Einstieg routet **Wandeldarlehen Lebenszyklus** vom ersten Sachverhalt zu
 - `dokumente-intake` — Dokumente Intake
 - `output-waehlen` — Output Waehlen
 
-## Arbeitsweg
+## 1.3. Vom Vertragsstand zum Ergebnis
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Wandeldarlehen Lebenszyklus sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+1. Bestimme aus dem Material Gesellschaft, Darlehensgeber, Vertragsfassung, Auszahlung und aktuelles Ereignis. Bei offenem Auftrag kläre, ob ein Vertragsentwurf, eine Wandlungsrechnung oder Unterlagen für das Notariat benötigt werden.
+2. Prüfe Ausübungsfrist und Zugang anhand der Klausel und Nachricht. Trenne die vertragliche Wandlungserklärung von Beschluss, Übernahmeerklärung und Registervollzug.
+3. Fehlt etwa die Definition des vollverwässerten Nenners, frage nach Optionspool und weiteren Darlehen. Berechne belegte Teile vorläufig weiter; eine angenommene Poolgröße ist keine feststehende Vertragsgröße.
+4. Nach der Antwort aktualisiere Preis, neue Anteile, Beteiligungsquoten und betroffene Texte. Bei einer neu erkennbaren entscheidenden Lücke gezielt nachfragen; sonst bis zum bestellten Dokument fortsetzen.
 
-## Qualitätsanker
+## 1.4. Quellen und Ausgabe
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+Tragende Normen und Rechtsprechung anhand überprüfbarer Quellen sichern; `references/quellenhygiene.md` und `references/zitierweise.md` können ergänzend herangezogen werden. Kein Quellenstatusprotokoll in den Empfängerbrief aufnehmen. Die genannten Spezialskills sind optional und ersetzen nicht die Weiterbearbeitung.
+
+Liefere den bestellten Vertrag, Beschluss oder Brief in vollständigen Sätzen, die Rechnung mit Formeln und Belegen. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Keine Erklärung, Zahlung oder Registeranmeldung ohne ausdrückliche Freigabe veranlassen; eine Rechentabelle bestätigt keine wirksam entstandene Beteiligung.
 
 ---
 

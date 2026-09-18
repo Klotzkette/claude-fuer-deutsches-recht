@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "phishing-vorfall-pruefer",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__675w.html",
@@ -15,14 +15,22 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Die vorhandene Zahlungskette war fachlich passend, wurde aber mehrfach wiederholt und führte bei noch nötiger Sicherung zum Arbeitsstopp.",
+    "verdict": "retained",
+    "reason": "Mini vollständig gelesen. Einzelzahlung, Geräteaktivierung, Rückholung und Gegenanspruch werden getrennt; neue Protokolle führen zur aktualisierten Begründung und zum fertigen Schreiben. Sicherung läuft parallel. Keine neue Rechtsverifikation oder Live-Modellprüfung.",
     "changes": [
-      "Gerätebindung, Login und Zahlungsfreigabe konkret getrennt.",
-      "Transaktionsbezogene Beleganforderung und parallele Sicherung statt Gesamtstopp ergänzt.",
-      "Gesetzlichen Beweisanker 675w ausdrücklich aufgenommen."
+      "Konkrete Protokollnachforderung und Bereinigung des offenen Erstattungsbetrags beibehalten."
     ],
-    "sha256": "9bc62161385942fe685a1440e97b1bf3f76cefa45874f455273a4012658db951"
+    "sha256": "b6808a144c896c6ee2934ed696e97bebe4ed4fe5c3af3eeb984348eda42afae9"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig gelesen. Ein früher Sicherungsstopp, der Abschluss mit nächstem Schritt und ein kategorischer Erstattungssatz widersprachen dem belegbezogenen Ablauf. Diese Stellen gezielt korrigiert, vorhandene Normen und Entscheidungsanker nicht neu verifiziert.",
+    "changes": [
+      "Sicherungsempfehlung und Anspruchsvorbereitung parallel statt Abbruch; fehlende Anzeigenachweise konkret nachfordern.",
+      "Bestellte Reklamation mit offenem Betrag statt bloßer Matrix oder nächstem Schritt.",
+      "Fehlende Protokolle begründen keine erfundene fehlende Zustimmung; Beschwerdeauftrag von gerichtlicher Anspruchsentscheidung getrennt."
+    ],
+    "sha256": "bc6b1115b62f4ad52a624c3f8ac1c5d2e92161dca401eac58721678a41c4dd51"
   },
   "selection": {
     "positive": [

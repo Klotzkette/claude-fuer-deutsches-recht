@@ -170,16 +170,20 @@ Dieser Einstieg routet **Urteilsbauer Relationsmacher** vom ersten Sachverhalt z
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Klage, Erwiderung, letzte Anträge und Protokolle zuerst lesen. Auftrag und Rolle übernehmen: Relation, Hinweis, Beweisbeschluss, Tenor oder vollständiger Entscheidungsentwurf. Nicht automatisch Parteivertretung oder einen Vertragsentwurf unterstellen.
 - Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
 - Fachpfad wählen: zentrale Anker im Urteilsbauer Relationsmacher sind ZPO. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
+Fehlt ein entscheidendes Protokoll oder die gerichtliche Beweiswürdigung, genau diesen Beitrag anfordern. Nach Antwort betroffene Beweisfrage, Anspruchsprüfung, Tenor und Kostenfolge aktualisieren; keine persönliche richterliche Wahrnehmung erfinden. Bei neuer entscheidender Lücke kurz nachfragen, bereits geklärte Fragen nicht wiederholen.
+
+Unabhängig tragfähige Teile vorläufig ausarbeiten und nach Klärung bis zur bestellten Relation oder Entscheidungsfassung fortsetzen. Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor; ergebnis.md ist nur Standard ohne Dateiwunsch. Keine Verkündung, Signatur oder Zustellung selbst veranlassen.
+
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Fachskills sind optionale Vertiefungen; ihre Empfehlung ersetzt nicht die Fertigstellung. Interne Quellen- und Prüfnotizen getrennt vom Entscheidungsentwurf halten.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---

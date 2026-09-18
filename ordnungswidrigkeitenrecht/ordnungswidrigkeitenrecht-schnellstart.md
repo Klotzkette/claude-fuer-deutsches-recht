@@ -1,6 +1,8 @@
 # 1. Bußgeldverfahren aus Tat und Verfahrensstand bearbeiten
 
-Lies zuerst Auftrag, Anhörung oder Bescheid samt Zustellnachweis und vorhandene Belege. Arbeite am verlangten Einspruch, Aktenvermerk oder Beweisantrag; stelle keinen allgemeinen Vortrag voran. Erfasse Betroffenen, erlassende Behörde, Aktenzeichen, behauptete Handlung, Tatzeit und Verfahrensstand. Anhörung, Bußgeldbescheid und gerichtliche Entscheidung sind verschiedene Ausgangspunkte. Frage nur zu einer Lücke nach, die das aktuelle Arbeitsprodukt blockiert; fehlende Ermittlungsakten verhindern nicht automatisch einen fristwahrenden Entwurf.
+Bearbeite das Bußgeldverfahren und erstelle den verlangten Einspruch, Aktenvermerk oder Beweisantrag. Lies zuerst Auftrag, Anhörung oder Bescheid samt Zustellnachweis und vorhandene Belege.
+
+Übernimm bekannte Angaben zu Betroffenem, Behörde, Aktenzeichen, behaupteter Handlung und Tatzeit. Anhörung, Bußgeldbescheid und gerichtliche Entscheidung sind verschiedene Ausgangspunkte. Frage gezielt nach entscheidenden Lücken; fehlende Ermittlungsakten verhindern nicht automatisch einen fristwahrenden Entwurf.
 
 ## 1.1. Frist und Einlassung entkoppeln
 
@@ -20,4 +22,16 @@ Für Verjährungsfragen Tatbeendigung, einschlägige Dauer und jede behauptete U
 
 ## 1.4. Verwertbares Ergebnis
 
-Liefere einen vollständigen Schriftsatz oder eine begründete Tatbestands- und Beweisanalyse. Bei ungesicherter Sachlage kann der Einspruch ohne Sachverhaltseinlassung vorbereitet und die spätere Begründung nach Akteneinsicht geplant werden. Kennzeichne offene Angaben unmittelbar am betroffenen Punkt. Verwende nur tatsächlich gelesene amtliche Normtexte oder Entscheidungen mit überprüfter Fundstelle; keine pauschalen Rechtsprechungsanker. Export: Times New Roman 11 pt und dezimale Gliederung. Weitere Skills oder Werkstattdateien sind optional; ohne sie anhand dieser Tat-, Frist- und Beweisprüfung weiterarbeiten.
+Liefere das bestellte Dokument: einen vollständigen Schriftsatz, Mandantenbrief oder eine begründete Prüfung. Bei ungesicherter Sachlage kann der Einspruch ohne Sachverhaltseinlassung vorbereitet werden. Eine nur beauftragte Prüfung verlangt keinen zusätzlichen Einspruchsentwurf.
+
+Fehlt etwa der Nachweis einer behaupteten Meldepflichtverletzung, frage gezielt nach Meldung, Eingangsbeleg und tatsächlicher Zuständigkeit. Nach Eingang prüfe, ob der Beleg die konkrete Pflicht erfüllt oder nur einen anderen Vorgang betrifft, und überarbeite die bestellte Begründung. Ergeben sich neue entscheidende Lücken, kläre sie in weiteren kurzen Runden, ohne bereits beantwortete Fragen zu wiederholen.
+
+Nach Akteneinsicht arbeite am bestehenden Entwurf weiter: gleiche Behördenvorwurf und entlastende Angaben ab, aktualisiere Verjährungsrechnung und Argumentation und stelle das verlangte Dokument fertig. Bei einer verbleibenden Blockade liefere unabhängig tragfähige Teile vorläufig und benenne den konkret benötigten Beitrag. Keine Annahmen als Tatsachen in eine Nachforderung oder Einlassung übernehmen.
+
+## 1.5. Quellen und Arbeitsgrenzen
+
+Verwende nur tatsächlich gelesene amtliche Normtexte oder Entscheidungen mit überprüfter Fundstelle; keine pauschalen Rechtsprechungsanker. Zusätzliche Recherche- und Abrufvermerke bleiben in einer getrennten Arbeitsnotiz statt im Mandantenbrief. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur ein möglicher Standard.
+
+Einreichung, Rücknahme, Beschränkung und sonstige externe Erklärungen benötigen ausdrückliche Freigabe. Weitere Skills oder Werkstattdateien sind optional; ohne sie anhand dieser Tat-, Frist- und Beweisprüfung weiterarbeiten.
+
+Bei fehlendem Zugriff fordere die benötigte Unterlage oder Passage an und bearbeite unabhängige Teile, ohne ungelesene Akten als geprüft auszugeben. Ohne Export liefere Text; formatierte Dokumente verwenden Times New Roman, 11 pt und dezimale Gliederung.

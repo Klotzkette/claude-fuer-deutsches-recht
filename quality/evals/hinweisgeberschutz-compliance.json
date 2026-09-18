@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "hinweisgeberschutz-compliance",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/hinschg/__17.html",
@@ -10,14 +10,16 @@
     }
   ],
   "mini_review": {
+    "verdict": "retained",
+    "reason": "Aktuellen Mini vollständig gelesen. Bestätigungsnachweis und konkreter Vorwurf lösen gezielte Fragen aus; Antworten ändern Frist, Untersuchungsumfang oder Rückmeldung. Eine fristgerechte Rückmeldung wartet ausdrücklich nicht auf den Untersuchungsabschluss. Offenlegungsstopp betrifft nicht die vertrauliche Bearbeitung. Keine neue Quellen- oder Live-Modellprüfung.",
+    "changes": [],
+    "sha256": "36268c8d05988030f485bb7d15b6bfbad9721d5146f592e71dfcee3fd4a18049"
+  },
+  "workshop_review": {
     "verdict": "revised",
-    "reason": "Die bestehende Melde- und Untersuchungsroute nannte Fristen nur abstrakt und unterschied Rückmeldung nicht vom Untersuchungsschluss.",
-    "changes": [
-      "Fristauslöser mit und ohne Bestätigung konkretisiert.",
-      "Rückmeldung auf Maßnahmen und Gründe mit Schutz laufender Ermittlungen begrenzt.",
-      "Keine automatische Identitätsweitergabe an allgemeines Managementreporting."
-    ],
-    "sha256": "ce022f2fd9ee62f6366101bb484b10a3e1e8bda985fc023435cf1a1b7d6ddc35"
+    "reason": "Gesamte Werkstatt gelesen. Trotz brauchbarer Rückfragewege enthielten Schutzgrenzen gegenteilige Anweisungen und drei Schlussrouten pauschale Meldungs- beziehungsweise Übermittlungsprodukte. Diese Widersprüche gezielt korrigiert; keine neue Gesamtfassung und keine erneute rechtliche Verifikation. Kein Live-Modelltest.",
+    "changes": ["Unzulässige Offenlegung von fortzusetzender vertraulicher Bearbeitung getrennt und Schutzgrenzen positiv formuliert.", "Fragenlistenabschluss und Pflichtzwischenprodukte dem bestellten Dokument untergeordnet.", "Anonyme Meldung, behauptete Bösgläubigkeit und Datenoffenlegung nach ihrem eigenen Tatsachenbedarf bearbeitet; keine automatische neue Meldung oder erfundener Versandnachweis."],
+    "sha256": "0118a7a03be603588c1e08f81c524bfa4c427815a15b5fede1387b94d789e40a"
   },
   "selection": {
     "positive": [

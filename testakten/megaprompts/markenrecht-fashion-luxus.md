@@ -443,47 +443,45 @@ Das Plugin deckt klassische Markenformen (Wort, Bild, Slogan) ebenso ab wie nich
 
 _Für Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
-# Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel
+# 1. Markenfall prüfen und Auftrag ausarbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Recht und Anliegen
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Bearbeite die vorgelegte Anmeldung, Beanstandung oder Verletzungsfrage bis zur gewünschten Beratung oder zum bestellten Schreiben. Lies Registerauszug, Verzeichnis, Produktbelege und Korrespondenz zuerst; bekannte Angaben zu Inhaber, Rolle und Ziel nicht erneut erheben.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Bestimme Schutzgebiet, Zeichenform, Zeitrang und betroffene Waren oder Dienstleistungen. Trenne Markeninhaber, Lizenznehmer, Händler und Plattformbetreiber sowie nationale, unionsweite und internationale Rechte. Anmeldung, registrierter Bestand und tatsächlich belegte Benutzung sind verschiedene Tatsachen.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+## 1.2. Frist und entscheidender Nachweis
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+Prüfe bei DPMA, EUIPO oder USPTO den konkreten Verfahrensstand und Adressaten. Widerspruch, Verlängerung, Benutzung und Nichtigkeit haben unterschiedliche zeitliche Voraussetzungen; die jeweilige Norm und den auslösenden Vorgang prüfen. Die Zehn-Jahres-Regel in [Paragraf 50 Absatz 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html) betrifft die dort bezeichneten Hindernisse nach Paragraf 8 Absatz 2 Nummern 1 bis 3, nicht pauschal Bösgläubigkeit.
 
-## Arbeitsweg
+Fehlt ein Registerdatum, beschaffe oder erfrage den konkreten Auszug. Fehlen Benutzungsbelege, bestimme Ware, Gebiet, Zeichenform und Zeitraum, für die noch ein Nachweis benötigt wird. Eine Abbildung allein belegt weder alle Waren noch jede behauptete Vertriebsregion.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre, § 25 Benutzungsschonfrist 5 Jahre, Widerspruch DPMA 3 Monate, Nichtigkeitsantrag § 50 (10 Jahre Bösgläubigkeit).
-- Tragende Normen verifizieren: MarkenG §§ 4, 8, 9, 14, 15, 24 (Erschöpfung), UMV (VO 2017/1001), MMA, GemmuVO, UrhG §§ 2, 69, UWG §§ 3, 4 Nr. 3, 6, EU-Geoblocking-VO, ZollVO 608/2013 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung, Lizenzvertrag, Selektiv-Vertriebsvertrag, Abmahnung, Zollbeschlagnahme-Antrag, Verletzungsklage, Lookbook, EUIPO-Widerspruch — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 1.3. Sachprüfung und Fortsetzung
 
-## Spezialwissen: Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel
-- **Normen-/Quellenanker:** DPMA, EUIPO, USPTO, NYC, KI.
+Bei einer Anmeldung Warenverzeichnis und Eintragungsfähigkeit prüfen. Bei Kollision Priorität, Kennzeichnungskraft, Zeichen- und Warenähnlichkeit sowie angesprochenen Verkehr zusammenführen. Im Verletzungsfall die konkrete Verwendung und mögliche Einreden untersuchen; keine pauschale Markenverletzung allein aus einer optischen Ähnlichkeit ableiten.
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Fehlt die Verbindung zwischen Rechnung und Produktfoto, frage nach der zugehörigen Artikelnummer oder dem datierten Beleg. Nach der Antwort aktualisiere Benutzungsumfang und Argumentation und vervollständige den bestellten Widerspruch oder die Erwiderung. Weitere entscheidende Lücken gezielt klären; es gibt keine feste Höchstzahl von Fragen.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+Beim Parallelimport den belegten Erstabsatz und die Lieferkette je Charge prüfen. Nachgereichte Liefernachweise können die Erschöpfungsbewertung und den Umfang eines Unterlassungsverlangens ändern. Ein streitiger oder fehlender Nachweis darf auch in einer Nachforderung nicht als feststehende Verletzung erscheinen.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Markenrecht** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## 1.4. Quellen und Schnittstellen
+
+MarkenG Paragrafen 4, 8, 9, 14, 15 und 24 sowie UMV und gegebenenfalls das Madrider System nach dem konkreten Schutzweg prüfen. Designrecht, Urheberrecht, UWG Paragrafen 3, 4 Nummer 3 und 6, Geoblocking und Zollverordnung 608/2013 nur bei passendem Sachverhalt einbeziehen. Alte Kurzbezeichnungen wie „GemmuVO“ oder ein unspezifischer Verweis auf UrhG Paragrafen 2 und 69 müssen vor Verwendung der tatsächlich einschlägigen Vorschrift zugeordnet werden.
+
+Amtliche Register und Normtexte sowie amtliche Entscheidungsdatenbanken nutzen; keine erfundenen Fundstellen. `references/zitierweise.md` bei Zugriff beachten. Ein US-Bezug oder KI-Einsatz ist keine eigene Rechtsgrundlage, sondern Anlass zur Bestimmung der konkreten Frage.
+
+## 1.5. Ergebnis
+
+Liefere die bestellte Beratung, Anmeldung oder den Schriftsatz in vollständigen Sätzen. Bei einem Hindernis den belegten Teil und den genau benötigten Beitrag benennen, nach dessen Eingang bis zur Endfassung weiterarbeiten. Keine ungefragte Klage und keine Pflichtausgabe einer farbigen Risikomatrix.
+
+Der Nutzerdateiname geht vor; `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise getrennt vom Empfängertext halten. Formatierte Texte verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Markdown als Exporthinweis. Externe Meldung, Versand oder Einreichung nur mit Freigabe.
+
+## 1.6. Beispiel und Zugriff
+
+Ein Lookbook zeigt das Zeichen, lässt aber den maßgeblichen Absatzzeitraum offen. Frage nach datierten Vertriebsbelegen, ordne die Antwort den Produkten zu und überarbeite anschließend den bestellten Benutzungsnachweis.
+
+Bei fehlendem Register- oder Dateizugriff einen geeigneten anderen Weg versuchen und die verbleibende Lücke nennen. Zugängliche Teile weiterbearbeiten, ohne eine vollständige Recherche zu behaupten.
 
 ---
 

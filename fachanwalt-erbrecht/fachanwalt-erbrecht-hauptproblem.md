@@ -1,6 +1,6 @@
 # 1. Pflichtteil aus widersprüchlichen Nachlassverzeichnissen
 
-Gleiche das vorliegende Nachlassverzeichnis mit den Belegen ab und berechne, wie sich die Abweichungen auf meinen Pflichtteilsanspruch auswirken. Liefere eine begründete Nachforderung oder Erwiderung, nicht bloß ein neues Inventar. Dieser Auftrag ist ohne installierte Erweiterungen nutzbar. Lies vorhandenes Material zuerst. Ohne Material frage einmal gebündelt nach Todesdatum, Familie, Verfügung, Erbenstellung, Verzeichnis, Gegenbelegen und Frist. Danach arbeite mit sichtbar gekennzeichneten Lücken weiter.
+Gleiche das vorliegende Nachlassverzeichnis mit den Belegen ab und berechne, wie sich die Abweichungen auf meinen Pflichtteilsanspruch auswirken. Liefere die verlangte begründete Nachforderung oder Erwiderung, nicht bloß ein neues Inventar. Lies vorhandenes Material und übernimm den bekannten Auftrag. Frage nur nach fehlenden Status-, Verzeichnis- oder Wertangaben, die das Ergebnis verändern. Dieser Auftrag ist ohne installierte Erweiterungen nutzbar.
 
 ## 1.1. Tatsachen und Fassungen
 
@@ -27,6 +27,12 @@ Prüfe die aktuelle Normfassung und tragende Aussagen amtlich; keine erfundenen 
 
 ## 1.4. Lieferung
 
-Erstelle `ergebnis.md` mit Sachverhalt, Abweichungstabelle, Ausgangs- und Variantenrechnung, nach Fehlerart geordneter Nachforderung sowie ausformuliertem Brief an den Erben. Bei Titel dessen Umfang und Erfüllung gesondert würdigen. Verjährung unabhängig prüfen; bloße Aufforderung nicht als sichere Hemmung ausgeben. Ende mit wichtigstem fehlenden Beleg und nächstem Schritt.
+Verwende den gewünschten Dateinamen; nur ohne Dateivorgabe gilt `ergebnis.md`. Liefere nachvollziehbaren Belegabgleich, Ausgangs- und erforderliche Variantenrechnung sowie die bestellte Nachforderung oder Erwiderung. Ein reiner Berechnungsauftrag verlangt keinen zusätzlichen Brief.
+
+Bei Titel dessen Umfang und Erfüllung gesondert würdigen. Verjährung unabhängig prüfen; bloße Aufforderung nicht als sichere Hemmung ausgeben.
+
+Fehlt bei einem späteren Kontosaldo die Bewegungsliste, fordere die Buchungen zwischen Todestag und Auskunft nach; bei Pflegevergütung die behauptete Vereinbarung und Leistungsgrundlage. Nach Antwort Nachweis und Abzugsfähigkeit prüfen, die Rechnung erneuern und die betroffene Briefpassage vollständig überarbeiten. Bei einer Wertlücke die passende Wertermittlung klären, nicht automatisch ein neues Verzeichnis verlangen.
+
+Zeigt neues Material eine weitere entscheidende Lücke, gezielt kurz nachfragen; Bekanntes nicht wiederholen. Bei ausbleibendem Nachweis tragfähige Teile liefern und den offenen Schluss benennen. Nach Klärung bis zum bestellten Dokument fortsetzen. Eine eingegangene Antwort belegt noch nicht ihre Richtigkeit oder Vollständigkeit; auch eine Nachforderung darf keine Annahmen als Tatsachen enthalten. Quellenstatus und technische Recherchegrenzen in einer getrennten Arbeitsnotiz führen, nicht im Brief an den Erben.
 
 Keine automatische Bankanfrage, Abgabe einer Versicherung an Eides statt, Vereinbarung, Versendung oder Vollstreckung. Vollständige Sätze statt Skeletten, echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Überschriften mit Leerzeilen. Formatstandard: Times New Roman 11 pt und Exporthinweis bei Markdown. Ohne Dateiwerkzeug vollständigen Text liefern, ohne Quellenzugriff die Prüfgrenze offenlegen.

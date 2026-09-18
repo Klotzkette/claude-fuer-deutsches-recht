@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "schoeffen-handelsrichter-praxis",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gvg/__105.html",
@@ -11,12 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Straf- und Zivilbeweis wurden im alten Rollenraster nicht hinreichend getrennt.",
+    "reason": "Vollständig gelesen; die starre Grenze einer Rückfrage widersprach der erforderlichen Klärung von Verfahrensrolle und zulässig mitteilbarem Sachverhalt.",
     "changes": [
-      "Handelsrichter und Schöffen mit eigenem Verfahrensbezug bearbeitet.",
-      "Private Kenntnis, Neutralitätsmitteilung und Beratungsgeheimnis konkretisiert."
+      "Rückfragendeckel entfernt und Fortsetzung bis zur Fragenliste oder Mitteilung ergänzt; Beobachtung und Bewertung ohne verpflichtende Tabelle getrennt."
     ],
-    "sha256": "7d6125d25dec46d66d93cec2822415eff436a355ad1880a13415b15c84ae1a65"
+    "sha256": "2d47013e870161eae232fc720865bc6c05dcde7283f1cdae831c18030b045710"
   },
   "selection": {
     "positive": [
@@ -61,5 +60,13 @@
       ],
       "target_skill": "kaltstart-routing"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständige Werkstatt verlangte trotz Beratungsgeheimnis pauschale richterliche Endprodukte und einen verpflichtenden Skill-Durchlauf; doppelte Routen wiederholten dieselben Leerformeln.",
+    "changes": [
+      "Rollenbezogene Vorbereitung für Straf-, Jugend-, Handels- und Verwaltungsverfahren zusammengeführt; digitale Beweise, Bilanzfragen und Neutralitätsmitteilung erhalten. Entscheidungsentwürfe auf zulässigen ausdrücklichen Auftrag begrenzt; Beratung und Abstimmung bleiben geschützt."
+    ],
+    "sha256": "c8d2990b647cf1d7ba24c2b4f92703d3822cfd9088b3a667a886e168be8083a3"
+  }
 }

@@ -14,13 +14,13 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Fehlen Bescheid oder Zustellnachweis, fordere genau diese Unterlagen an. Bereite den belegbaren Teil des verlangten Rechtsbehelfs vorläufig vor; nach Eingang Frist, Verfahrensweg und Entwurf aktualisieren. Weitere entscheidende Lücken gezielt klären, ohne beantwortete Fragen zu wiederholen. Annahmen sind kein Nachweis für Zustellung, Verstoß oder Verschulden.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
 ## Aufgabe
 
-Anhörung, Bußgeldbescheid, Art.-58-Anordnung, Verwaltungsstreit und Gerichtsphase in zehn Minuten trennen.
+Ordne Anhörung, Bußgeldbescheid, Artikel-58-Anordnung, Verwaltungsstreit und Gerichtsphase anhand der vorhandenen Unterlagen zu und erstelle das bestellte Dokument.
 
 Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft DSGVO Art. 58/83, BDSG § 41, OWiG und die über § 46 OWiG einbezogene StPO und klärt zuerst Verfahrensstand, Behörde, Zustellung, Frist, Beweisstand und gewünschtes Arbeitsprodukt.
 
@@ -44,10 +44,10 @@ Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sank
 
 1. **Spur trennen.** Bußgeld nach Art. 83 DSGVO/§ 41 BDSG/OWiG ist nicht dasselbe wie Verwaltungsrechtsschutz gegen Art.-58-Anordnungen nach § 20 BDSG. Parallelspuren getrennt führen.
 2. **Frist sichern.** Einspruchs- und Rechtsbehelfsfristen sofort mit Zustellnachweis notieren; weiche Behördenfristen separat behandeln.
-3. **Akteneinsicht und Beweisstand.** Keine endgültige Tatsachenstellungnahme ohne Akteneinsicht, wenn ein Bußgeldverfahren erkennbar ist. Technische Behauptungen anhand Logs, Systemarchitektur und Verantwortlichkeiten prüfen.
+3. **Akteneinsicht und Beweisstand.** Keine endgültige Tatsachenstellungnahme ohne nötige Akteneinsicht, wenn ein Bußgeldverfahren erkennbar ist. Fristwahrenden Einspruch und erforderliche Pflichtmeldung dennoch rechtzeitig vorbereiten. Nach Akteneingang technische Behauptungen mit Protokollen, Systemarchitektur und Verantwortlichkeiten abgleichen und die beauftragte Begründung weiter ausarbeiten.
 4. **Materiell prüfen.** DSGVO-Norm, Verantwortlichenrolle, Pflichtverletzung, Vorsatz/Fahrlässigkeit, Art.-83-Bemessung oder Art.-58-Ermessensausübung sauber subsumieren.
 5. **Taktisch schreiben.** Kooperativ, aber geschützt: keine unnötigen Schuldeingeständnisse, keine nicht belegten Behauptungen, keine Vermischung von Datenschutzberatung und Verteidigung.
-6. **Nächsten Schritt auswerfen.** Immer mit Risikoampel, konkreten Unterlagen, Freigabeentscheidung und empfohlenen Anschlussskills schließen.
+6. **Bestelltes Dokument fertigstellen.** Nach ergänzten Nachweisen Tatbewertung, Bemessung und Argumentation aktualisieren und den verlangten Entwurf vollständig ausformulieren. Bei einem Hindernis belegten Teilstand und konkrete Nachforderung liefern und nach der Antwort fortsetzen. Keine Pflicht-Risikoampel oder Skill-Liste ausgeben; Quellenstatus und technische Prüfvermerke gesondert halten. Keine ungefragte Klage und keine externe Erklärung ohne ausdrückliche Freigabe.
 
 ## Typische Fehler, die der Skill vermeiden muss
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "strafbefehl-verteidiger",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stpo/__410.html",
@@ -16,13 +16,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ein Wunsch nach geringerer Geldstrafe ist keine informierte Ermächtigung zur Beschränkung des Einspruchs oder Garantie gegen Verschlechterung.",
+    "reason": "Der vollständig geprüfte Mini behandelt Zustellung, Einspruchsumfang und Tagessatzfragen getrennt und setzt die Verteidigungsarbeit nach gezielten Nachfragen bis zum beauftragten Schreiben fort. Ein Minderungswunsch wird nicht als Beschränkungsvollmacht behandelt.",
     "changes": [
       "Zustellung und Einspruchsumfang als erste Entscheidungspunkte aufgenommen.",
       "Tagessatzhöhe von Schuldfrage und Tagessatzanzahl getrennt.",
-      "Sonderverfahren nach Paragraf 411 von regulärer Hauptverhandlung abgegrenzt."
+      "Sonderverfahren nach Paragraf 411 von regulärer Hauptverhandlung abgegrenzt.",
+      "Neue Zustellungs- und Einkommensnachweise in Fristprüfung, Berechnung und bestellten Entwurf übernehmen lassen."
     ],
-    "sha256": "0c80a47cdf38a8ea06d101c6b9301097a0cfc9294ab574fb99806c28c3ffaec0"
+    "sha256": "0bb74427fa11ed6a22c5e6e140bde237e1b1020fd0d685ee9f0612570a6d401b"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die Ganztextüberarbeitung führt von Zustellung und Einspruch über Tatvorwurf und Rechtsfolgen zur beauftragten Verteidigungsschrift. Wiedereinsetzung, Beschränkung und Hauptverhandlung haben eigene Voraussetzungen und Risiken.",
+    "changes": [
+      "Zustellungs- und Einkommenslücken gezielt nachfordern und nach Antwort die betroffenen Frist- oder Rechtsfolgenabschnitte weiterbearbeiten lassen.",
+      "Sonderentscheidung zur Tagessatzhöhe von der regulären Hauptverhandlung getrennt und generische zusätzliche Praxisrouten entfernt."
+    ],
+    "sha256": "8e81003c35ed724385da888a4bc554f5cb937c57f945f64a103d181f8fa3dbe1"
   },
   "selection": {
     "positive": [

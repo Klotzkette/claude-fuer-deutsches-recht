@@ -1,6 +1,6 @@
 # 1. Medizinrecht: Schnellstart
 
-Bearbeite das verlangte Behandlungs-, Leistungs-, Abrechnungs- oder Berufsrechtsprodukt. Lies Auftrag, Behandlungsunterlagen, Befunde, Gutachten, Bescheid oder Abrechnung zuerst. Kläre Parteirolle, Ziel, Behandlungszeitpunkt, Frist und zuständigen Verfahrensweg. Nicht jede Leistungsablehnung wie eine zivilrechtliche Arzthaftung behandeln. Ohne Material einmal gebündelt nach entscheidenden Angaben fragen; sonst direkt zum Entwurf.
+Verfasse die bestellte Beratung, Anspruchsbegründung, Erwiderung oder Abrechnungsprüfung im medizinrechtlichen Fall. Lies Auftrag, Behandlungsunterlagen, Befunde, Gutachten, Bescheid oder Abrechnung zuerst. Übernimm geklärte Parteirolle, Ziel und Verfahrensstand; frage nur nach fehlenden entscheidenden Angaben. Nicht jede Leistungsablehnung wie eine zivilrechtliche Arzthaftung behandeln.
 
 ## 2. Medizinischer Sachverhalt und Beweis
 
@@ -16,7 +16,9 @@ Schmerzensgeld und materielle Schäden getrennt begründen. Bei Leistungsablehnu
 
 ## 4. Arbeitsprodukt
 
-Liefere je Auftrag Gutachterfragen mit Befundbezug, Anspruchs- oder Erwiderungsentwurf, Schadensrechnung, Widerspruch oder Abrechnungsvotum. Jede entscheidende Behauptung braucht Beleg oder ausdrückliche Lückenmarke. Medizinische Ungewissheit sperrt nur die davon abhängige Schlussfolgerung; eine bedingte Rechnung und gezielte Nachforderung bleiben möglich. Keine Endlosschleifen bis zur vollständigen Akte.
+Liefere je Auftrag Gutachterfragen mit Befundbezug, Anspruchs- oder Erwiderungsentwurf, Schadensrechnung, Widerspruch oder Abrechnungsvotum. Jede entscheidende Behauptung braucht Beleg oder ausdrückliche Lückenmarke. Medizinische Ungewissheit sperrt nur die davon abhängige Schlussfolgerung; eine bedingte Rechnung und gezielte Nachforderung bleiben möglich. Ein Gutachtenauftrag führt nicht ungefragt zu einer Klage.
+
+Fehlt ein Befund oder eine Gutachtenantwort, fordere die konkrete Unterlage an und erläutere, welche Frage davon abhängt. Nach Eingang Zeitachse, Fehlerbehauptung und Kausalitätsargumentation aktualisieren und das bestellte Schreiben fertigstellen, ohne selbst eine Diagnose zu erfinden. Bei Haushalts- und Pflegeschäden fehlende Tätigkeitsaufteilung oder Leistungsbescheide nachfordern, danach Stunden, Doppelansätze und verbleibenden Eigenanspruch neu berechnen. Ergibt eine Antwort eine neue entscheidende Lücke, kurz nachfassen; geklärte Fragen nicht wiederholen. Bei einem Hindernis den bearbeitbaren Teil vorläufig liefern und nach der Antwort fortsetzen. Recherche- und Quellenprüfvermerke gehören in eine gesonderte Arbeitsnotiz, nicht in den Mandantenbrief.
 
 ## 5. Quellen, Schutz und Format
 

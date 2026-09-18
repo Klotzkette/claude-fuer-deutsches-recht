@@ -4,7 +4,7 @@ Bearbeite einen Zahlungsstreit aus der Verletzung eines deutschen eingetragenen 
 
 ## 2. Sachverhalt zuerst
 
-Lies Auftrag, Register- und Titelunterlagen, Rechnungslegung, Einzelrechnungen, Gutschriften und Kostenkonten. Bestimme Parteirolle, Produkt, Gebiet, Zeitraum, Verschulden, Titelbindung und bisherige Methodenwahl. Trenne feststehende Tatsachen, streitige Angaben und Beleglücken. Frage höchstens einmal gebündelt nach den entscheidenden fehlenden Angaben; liefere sonst einen bedingten Entwurf. Ungelesene Daten nicht als geprüft ausgeben.
+Lies Auftrag, Register- und Titelunterlagen, Rechnungslegung, Einzelrechnungen, Gutschriften und Kostenkonten. Bestimme Parteirolle, Produkt, Gebiet, Zeitraum, Verschulden, Titelbindung und bisherige Methodenwahl. Trenne feststehende Tatsachen, streitige Angaben und Beleglücken. Fehlen Rechnungen, Retourenbelege oder die Zuordnung einer Kostenposition, genau danach fragen und die übrigen Positionen vorläufig bearbeiten. Ungelesene Daten nicht als geprüft ausgeben.
 
 ## 3. Mengen und Kosten abstimmen
 
@@ -20,7 +20,11 @@ Vergleiche konkrete Schadensberechnung oder Lizenzanalogie nur als Alternativen,
 
 ## 5. Ergebnis liefern
 
-Erstelle `ergebnis.md` mit Sachverhalt, Anspruchsrahmen, Mengen- und Kostenmatrix, Formeln, Belegen, sicherem Kernbetrag, streitigen Varianten und einer vollständig ausformulierten Forderungs- oder Erwiderungspassage. Kontrolliere Summen, Retouren und Doppelansätze einmal; danach Ergebnis mit Restlücken liefern, keine Endlosschleife. Keine Forderung versenden, keinen Vergleich oder Methodenverzicht erklären. Ohne Dateiexport den vollständigen Text liefern, keinen Download erfinden.
+Erstelle die nachvollziehbare Mengen- und Kostenrechnung mit Anspruchsrahmen, belegtem Betrag, streitigen Varianten und dem bestellten Forderungs- oder Erwiderungstext. Verwende den gewünschten Dateinamen, ohne Vorgabe `ergebnis.md`. Bei reinem Berechnungsauftrag keinen zusätzlichen Schriftsatz erzeugen.
+
+Kontrolliere Summen, Retouren und Doppelansätze; neue Angaben erfordern eine erneute Kontrolle der betroffenen Positionen. Interne Quellenprüfvermerke getrennt vom Außenentwurf halten. Keine Forderung versenden, keinen Vergleich oder Methodenverzicht erklären.
+
+Nach Eingang einer fehlenden Gutschrift die zugehörige Verkaufszeile und Kostenbehandlung abgleichen, Gewinn und Zurechnungsszenarien aktualisieren und den bestellten Text fertigschreiben. Zeigt sich eine doppelt erfasste Retoure oder eine abweichende Artikelnummer, gezielt nachfassen, ohne beantwortete Fragen zu wiederholen. Bei einem Hindernis den bearbeitbaren Stand und die benötigte Ergänzung nennen und nach Eingang fortsetzen. Eine Nachforderung darf ungeklärte Verkäufe oder Kosten nicht als bewiesen voraussetzen.
 
 Nutze vollständige Sätze, echte Umlaute und ß, dezimale Überschriften und ausgeschriebenes Wort Paragraf. Keine bloßen Skelette. Formatierter Export: Times New Roman 11 pt; bei Markdown diesen Exporthinweis aufnehmen.
 
@@ -31,3 +35,7 @@ Prüfe vor Verwendung die maßgebliche Fassung und spätere Rechtsprechung anhan
 - [Paragraf 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html): Schadensersatz und Berechnungsalternativen.
 - [Paragraf 287 ZPO](https://www.gesetze-im-internet.de/zpo/__287.html): tatsächliche Grundlage der Schätzung.
 - [BGH, Urteil vom 02.11.2000, Az. I ZR 246/98, Gemeinkostenanteil](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=22971), amtlicher Leitsatz: unmittelbare Gemeinkostenzurechnung und eigene Vertriebsleistungen. Historisch zu Paragraf 14a GeschmMG, nicht zur heutigen Normfassung. Am 14.09.2026 amtlichen Suchauszug geprüft; Volltextabruf gesperrt. Keine ungeprüfte Randnummer oder vollständige Aktualitätsprüfung behaupten.
+
+## 7. Technische Arbeitsgrenzen
+
+Weitere Skills sind optional; nur verfügbare Werkzeuge nutzen. Fehlenden Zugriff konkret benennen, bei technischen Fehlern einen sinnvollen Alternativweg versuchen und sonst den bearbeitbaren Stand sichern. Ohne Export vollständigen Text liefern, keinen Download erfinden.

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "datenschutzrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {"url":"https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de","checked_on":"2026-09-14","supports":"Artikel 12, 28, 30, 33 und 34: Antwortfrist, Auftragsverarbeitung, Verzeichnis auch bei regelmäßiger Verarbeitung kleiner Unternehmen sowie Meldungsinhalt, 72 Stunden und gesonderte Benachrichtigung."},
     {"url":"https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0300","checked_on":"2026-09-14","supports":"EuGH, Urteil vom 4. Mai 2023, C-300/21: Verstoß allein reicht für Schadensersatz nicht; keine abstrakte Erheblichkeitsschwelle für immateriellen Schaden."},
@@ -10,11 +10,12 @@
     {"url":"https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29","checked_on":"2026-09-14","supports":"COM(2025) 837 ist weiterhin ein laufendes Reformverfahren, keine geltende 96-Stunden-Frist."},
     {"url":"https://eur-lex.europa.eu/procedure/EN/2025_130?qid=1748035370044&rid=3","checked_on":"2026-09-14","supports":"COM(2025) 501 gehört zum noch laufenden Verfahren 2025/0130/COD; vorgeschlagene Erleichterungen nicht vorwegnehmen."}
   ],
-  "mini_review": {"sha256":"a42ac6756d583c3ddcfae9187dafc55858c57d2391eec8524bf36c8070331e14",
+  "mini_review": {"sha256":"d9fa1852da6f170473aeded16130482b2c0f2a23cad27fd5841b02592fd2773d",
     "verdict": "revised",
-    "reason": "Die jüngere Fassung enthielt eine differenzierte und erhaltenswerte Reformkarte. Der Abgleich mit dem Datenpannen-Spezialskill zeigte Ergänzungsbedarf beim unmittelbar nutzbaren Inhalt der Erstmeldung, nicht Bedarf für eine neue allgemeine Datenschutzeinführung.",
-    "changes": ["Erstmeldungsfelder, Schätzungen, Nachlieferung und gesonderten Betroffenenbrief ergänzt.","COM(2025) 837 und COM(2025) 501 sowie Artikel 4a, Kompetenzförderung, Hochrisikofristen und getrennte Aufsicht erhalten.","Allgemeine Bedienformel durch sachbezogenen Aktenstart ersetzt und Zusatzmaterial ausdrücklich optional gemacht."]
+    "reason": "Vollständig geprüft: Datenpanne und Auskunft werden nach ergänzten Angaben bis zum bestellten Dokument fortgeführt. Doppelten Auftragseinstieg gekürzt; vorhandene Reformangaben nicht erneut rechtlich verifiziert.",
+    "changes": ["Erstmeldungsfelder, Schätzungen, Nachlieferung und gesonderten Betroffenenbrief ergänzt.","COM(2025) 837 und COM(2025) 501 sowie Artikel 4a, Kompetenzförderung, Hochrisikofristen und getrennte Aufsicht erhalten.","Allgemeine Bedienformel durch sachbezogenen Aktenstart ersetzt und Zusatzmaterial ausdrücklich optional gemacht.","Doppelten Auftragseinstieg gekürzt und den Stand der bestehenden Reformhinweise kenntlich gemacht."]
   },
+  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung zeigte noch verpflichtende Stationsausgaben und eine Auslagerung der Sanktionsverteidigung im Widerspruch zum Einzelauftrag.","changes":["Zusatzplugin ausdrücklich optional gemacht.","Prozessentwurf bei Sammelklagenprävention vom Auftrag abhängig gemacht; keine eigenen Pflichtdokumente je Prüfschritt."],"sha256":"c1a7fc7e4da04c88735e576d9543bd9dad80b8f0ac085c8a66fef10022e943e9"},
   "selection": {
     "positive": ["Bereite nach einem Fehlversand von Patientenunterlagen die Erstmeldung und die Betroffeneninformation vor.","Prüfe, ob wir bei achtzig Beschäftigten die laufende Lohnabrechnung aus unserem Verarbeitungsverzeichnis entfernen dürfen."],
     "negative": ["Lege gegen einen bereits zugestellten Datenschutz-Bußgeldbescheid Einspruch ein und entwickle die Verteidigungsstrategie.","Prüfe ausschließlich das Datenbankherstellerrecht an nicht personenbezogenen Geodaten."]

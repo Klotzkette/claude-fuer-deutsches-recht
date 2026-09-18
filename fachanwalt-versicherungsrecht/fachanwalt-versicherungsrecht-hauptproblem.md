@@ -1,6 +1,6 @@
 # 1. Berufsunfähigkeit aus Tätigkeit und Befund belegen
 
-Prüfen Sie meine private BU-Leistungsablehnung anhand des tatsächlich zuletzt gesund ausgeübten Berufs. Liefern Sie einen Vermerk zur Beweislage und eine vollständige Erwiderung, keine allgemeine theoretische Einführung. Sie benötigen keine weiteren installierten Inhalte. Fragen Sie fehlende Kerndaten einmal gebündelt ab und arbeiten Sie im Übrigen mit klar gekennzeichneten Lücken.
+Prüfen Sie meine private BU-Leistungsablehnung anhand des tatsächlich zuletzt gesund ausgeübten Berufs. Liefern Sie die bestellte Bewertung oder vollständige Erwiderung, keine allgemeine theoretische Einführung. Fehlende entscheidende Angaben zu Tätigkeit, Funktionsbefund oder Bedingungsfassung gezielt erfragen; bereits geklärte Angaben übernehmen.
 
 ## 2. Sachverhalt zuerst
 
@@ -26,4 +26,12 @@ Am 14.09.2026 verifizierte Anker: [Paragraf 172 VVG](https://www.gesetze-im-inte
 
 Bilden Sie bei wechselnden Beschwerden getrennte Verlaufsabschnitte. Zeigen Sie, welcher Befund für welchen Zeitraum trägt und ob das Tätigkeitsbild zwischenzeitlich geändert wurde. Widersprechende Arztangaben dürfen nicht durch Mittelwertbildung aufgelöst werden. Benennen Sie stattdessen die konkrete fachliche Frage und den benötigten Nachweis. Fragen an den Arbeitgeber sollen tatsächliche Abläufe, Vertretungsmöglichkeiten und Aufgabenverteilung betreffen; die versicherungsrechtliche BU-Bewertung bleibt davon getrennt. Ein ärztlicher Prozentwert ohne Bezug zu diesen Abläufen ist nicht die vollständige Begründung.
 
-Erstellen Sie `ergebnis.md`: Sachverhalt, Vertragsmaßstab, Tätigkeits-Befund-Matrix, Zeitkontrolle, Gesamtvorgangsanalyse, Rentenberechnung und ausformulierte Erwiderung. Nennen Sie stärkste Gegenposition, Beweisfragen und verbleibende Unsicherheit. Keine Schweigepflichtentbindung, Beauftragung, Klage oder Erklärung eigenmächtig abgeben. Vollständige Sätze, keine Skelette; Entwurf zur Freigabe. Export: Times New Roman, 11 pt, dezimale Gliederung.
+Erstellen Sie Vertragsmaßstab, nachvollziehbaren Tätigkeits- und Befundabgleich, Gesamtvorgangsanalyse und die beauftragte Erwiderung. Verwenden Sie den gewünschten Dateinamen, ohne Vorgabe `ergebnis.md`. Rentenberechnung ergänzen, soweit Leistungen zu beziffern sind; einen reinen Bewertungsauftrag nicht in einen Klageentwurf umwandeln.
+
+Nennen Sie stärkste Gegenposition, Beweisfragen und verbleibende Unsicherheit. Quellenprüfvermerke getrennt vom Empfängertext halten.
+
+Fehlt der Zusammenhang zwischen einer Funktionsgrenze und dem Arbeitsablauf, gezielt nach Befund oder tatsächlicher Aufgabenfolge fragen. Nach Eingang die betroffenen Teilhandlungen, Gesamtvorgänge und Rentenmonate überarbeiten und die bestellte Erwiderung fertigschreiben. Zeigt sich ein neuer Widerspruch zwischen Arztbericht und Tätigkeitsbeschreibung, die konkrete Frage nachfassen, nicht alle Eingaben erneut erheben. Bei einem Hindernis den bearbeitbaren Teil vorläufig liefern und nach der Antwort fortsetzen. Auch im Nachforderungsschreiben keine unbelegte Einschränkung voraussetzen.
+
+Keine Schweigepflichtentbindung, Beauftragung, Klage oder Erklärung eigenmächtig abgeben. Vollständige Sätze, keine Skelette; Entwurf zur Freigabe. Export: Times New Roman, 11 pt, dezimale Gliederung.
+
+Weitere Skills sind optional; nur verfügbare Werkzeuge nutzen. Fehlenden Zugriff konkret benennen, bei technischen Fehlern einen sinnvollen Alternativweg versuchen und sonst den bearbeitbaren Stand sichern. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden.

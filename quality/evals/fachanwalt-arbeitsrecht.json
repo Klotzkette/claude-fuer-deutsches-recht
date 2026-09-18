@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-arbeitsrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.bundesarbeitsgericht.de/presse/annahmeverzugsverguetung-kein-auskunftsanspruch-zu-bewerbungen-auf-stellenangebote/",
@@ -41,14 +41,26 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Schnellstart lenkte auch andere Mandate auf einen Kündigungsschutzantrag und enthielt einen nicht belastbar belegten neuen Entscheidungsverweis. Die wirtschaftliche Lohnrechnung blieb hinter der Fristenprüfung zurück.",
+    "reason": "Vollständig geprüft: Ergänzte Zustellungs- und Anhörungsangaben verändern die Kündigungsbewertung, Lohnbelege die periodengenaue Rechnung. Die Fortsetzung bis zum Brief oder Schriftsatz bleibt erhalten; keine neue Quellenprüfung behauptet.",
     "changes": [
       "Auftragsabhängige Ergebnisse statt automatischem Kündigungsschutzantrag.",
       "Verifizierten Freistellungsanker 5 AZR 127/24 mit zeitlicher Reichweitengrenze aufgenommen.",
       "Lohnzeiträume, tatsächlichen Erwerb und Brutto-Netto-Behandlung von Sozialleistungen getrennt."
     ],
-    "sha256": "c69d1fb6700e9bd17a198dd1fcc21035df28faa42db254875d6c127516430569"
+    "sha256": "b9771739630f5456c373932dbba9786e078e5b90bc565f8ad3a0cd76edcaf6b8"
   },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "retained",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [],
+    "prompt_path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-hauptproblem.md",
+    "prompt_sha256": "c8f9bbf1ace6de90b185cae0cac558188cadf4844aa8a51dade513f21a319658",
+    "skill_path": "fachanwalt-arbeitsrecht/skills/annahmeverzugslohn-zeitraeume-und-anrechnung/SKILL.md",
+    "skill_sha256": "8bdc4ae57863ee27f5169906538e202728fdda4e71ea8431cc624a8883ef4a36"
+  },
+  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung nutzte die vorhandenen Kündigungs- und Lohnverzweigungen; die allgemeine Stationsproduktpflicht widersprach dem einzelnen Auftrag.","changes":["Kündigungsprüfung und Lohnberechnung dem bestellten Brief, Vertrag oder Schriftsatz zugeordnet und zusätzliche Stationsdokumente ausgeschlossen."],"sha256":"c9dac7a8dc121e7883d2e1ebd4648319d2682ccc939cfa17a772647eb291534b"},
   "selection": {
     "positive": [
       "Berechne den Annahmeverzugslohn nach unwirksamer Kündigung mit Zwischenverdienst und Arbeitslosengeld.",

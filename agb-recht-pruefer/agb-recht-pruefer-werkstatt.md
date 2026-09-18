@@ -1,6 +1,6 @@
 # AGB-Recht prüfen und gestalten: Werkstatt
 
-Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
+Prüfe die vereinbarten oder geplanten Geschäftsbedingungen und liefere das beauftragte Gutachten, die überarbeitete Vertragsfassung oder die begründete Antwort. Lies dafür zunächst die vorhandenen Verträge und bisherigen Absprachen.
 
 ## 1. Arbeitsauftrag aus dem Vertrag ableiten
 
@@ -8,7 +8,7 @@ Lies die vorgelegten Vertragsfassungen, Anlagen, Bestellabläufe und Korresponde
 
 Erfasse Verwender, Vertragspartner und Status, Vertragsart, Vertragsdatum, anwendbares Recht, Klauselfassung, tatsächliche Verwendung und wirtschaftliches Ziel. Trenne gesicherte Tatsachen, Parteibehauptungen und fehlende Unterlagen. Fundstellen enthalten Dokument, Datum und Seite oder Klauselnummer. Verhandlungsspuren prüfen, bevor eine Individualabrede angenommen wird.
 
-Bei fehlendem Material eine gebündelte Rückfrage stellen. Bei großen Ordnern einen belastbaren Teilstand liefern und ungelesene Dateien benennen. Folgeaufträge auf dem bisherigen Akten- und Quellenstand bearbeiten.
+Fehlt die maßgebliche Vertragsfassung, fordere sie gezielt an; ist das Aushandeln streitig, frage nach den konkreten Änderungsvorschlägen oder Verhandlungsprotokollen. Nach der Antwort aktualisiere Einbeziehung, Auslegung und die betroffene Ersatzfassung. Weitere kurze Rückfragen sind bei neu erkennbaren entscheidenden Lücken möglich, ohne bereits beantwortete Fragen zu wiederholen. Bei einem Hindernis liefere die unabhängig prüfbaren Teile vorläufig und setze anschließend bis zum bestellten Dokument fort. Folgeaufträge auf dem bisherigen Akten- und Quellenstand bearbeiten.
 
 ## 2. Prüfung entlang der Streitfrage
 
@@ -34,7 +34,17 @@ Bei fehlendem Material eine gebündelte Rückfrage stellen. Bei großen Ordnern 
 
 Arbeitsverträge über die [arbeitsrechtliche Vertiefung](skills/agb-im-arbeitsvertrag-310-abs-4-vertieft/SKILL.md), Vertriebsbedingungen über [Händlerverträge](skills/haendlervertrag-agb/SKILL.md), Rahmenarchitektur über [MSA](skills/msa-rahmenvertrag/SKILL.md) bearbeiten. Mandatsbedingungen und Vereinsverhältnisse erfordern ihren eigenen sachlichen Maßstab; keine allgemeinen Gebühren- oder Vereinsnormen ohne Fallbezug laden.
 
-Abtretung, Annahme- und Leistungsfristen sowie Beweislast und Zugang bleiben besondere Klauselaufgaben. Die passenden Fachskills nur bei betroffenen Klauseln hinzunehmen. Ihr Quellenstand ist fallbezogen zu verifizieren, nicht aus dem Vorhandensein eines Skills abzuleiten.
+### 4.1. Arbeitsverträge vom kollektiven Regelwerk unterscheiden
+
+Nach Paragraf 310 Absatz 4 Satz 1 BGB unterliegen Tarifverträge, Betriebsvereinbarungen und Dienstvereinbarungen nicht der AGB-Kontrolle; bei Arbeitsverträgen sind nach Satz 2 die Besonderheiten des Arbeitsrechts angemessen zu berücksichtigen. Ermittle deshalb zuerst, aus welchem Regelwerk die beanstandete Pflicht stammt. Bei einer Versetzungsklausel vergleiche den Wortlaut mit dem Weisungsrecht aus Paragraf 106 Satz 1 GewO. Den vorhandenen Rechtsprechungsanker 10 AZR 275/09 nur nach Quellenprüfung heranziehen: Entspricht der Vorbehalt erkennbar dem gesetzlichen Weisungsrecht, sind Inhaltskontrolle und verbleibende Unklarheits- oder Transparenzfragen zu unterscheiden.
+
+### 4.2. Abtretung, Bindungsdauer und Nachweise prüfen
+
+Bei einer Abtretungsregel benenne die betroffenen Forderungen, das Verbot oder Zustimmungserfordernis und dessen praktische Wirkung für die Vertragsparteien. Prüfe die konkrete Klausel am einschlägigen Maßstab, statt aus dem Stichwort Abtretung bereits eine Unwirksamkeit abzuleiten. Fehlt die betroffene Forderungsart, frage danach und passe anschließend Bewertung und Ersatztext an.
+
+Bei Annahme- und Leistungsfristen nach Paragraf 308 BGB untersuche, wie lange der Kunde an sein Angebot gebunden bleibt und wann die Leistung geschuldet ist. Stelle Fristbeginn, Dauer, Verlängerungsgründe und das berechtigte Planungsinteresse anhand des Vertragsablaufs fest. Das Ergebnis ist eine begründete Klauselbewertung oder eine neu formulierte Fristregelung, kein prozessuales Fristenblatt.
+
+Bei Beweislast- und Zugangsklauseln nach Paragraf 309 BGB unterscheide tatsächlichen Zugang, vertragliche Fiktion, Empfangsbestätigung und Verlagerung des Nachweisrisikos. Vergleiche die Regelung mit den vorhandenen Bestell- und Kommunikationsnachweisen. Die passenden Fachskills können optional vertiefen; ihr Vorhandensein ersetzt keine fallbezogene Quellenprüfung.
 
 ## 5. Rechtsfolge und Durchsetzung
 
@@ -46,9 +56,9 @@ Klauselausfall begründet nicht automatisch Rückzahlung. Dafür [Rückabwicklun
 
 [Zitierweise](../references/zitierweise.md) beachten. Nur einschlägige amtliche Normen und Entscheidungen laden; geltende und zum Vertragsschluss maßgebliche Fassung unterscheiden. Gericht, Entscheidungsform, Datum, Aktenzeichen, konkrete Randnummer und Abrufdatum angeben. Auslandsrecht, Übergangsrecht und Rechtsprechungsübertragung ausdrücklich absichern. Keine Literaturfundstellen aus dem Gedächtnis und keine pauschalen Normenradare.
 
-Das Gutachten verbindet Norm, Aktenfund, Subsumtion, stärkste Gegenposition und Ergebnis. Eine Redline ergänzt den Originaltext um die vollständige Ersatzfassung und eine knappe Begründung; Rückfallposition und Freigabebedarf nur soweit erforderlich. Offene Tatsachen und offene Rechtsfragen getrennt benennen. Am Ende Empfehlung, verbleibendes Risiko und nächsten konkreten Schritt nennen.
+Das Gutachten verbindet Norm, Aktenfund, Subsumtion, stärkste Gegenposition und Ergebnis. Eine Redline ergänzt den Originaltext um die vollständige Ersatzfassung und eine knappe Begründung; Rückfallposition und Freigabebedarf nur soweit erforderlich. Offene Tatsachen und offene Rechtsfragen getrennt benennen. Die nachfolgenden Prüfschritte sind keine Pflichtliste auszugebender Tabellen oder Zwischenprodukte. Gib das bestellte Dokument aus, nicht interne Bezeichnungen wie Klauselampel. Quellenstatus und Abrufprobleme gehören in eine gesonderte Arbeitsnotiz, nicht in den Mandantenbrief.
 
-Endprodukte vollständig ausformulieren; Skelette, Halbsätze und reine Aufzählungen sind kein Ergebnis. Interne Memos und begründete Mandantenbriefe im Gutachtenstil, knappe Vermerke und Schriftsätze im Urteilsstil. Ausschließlich dezimale Gliederung mit Leerzeilen, Times New Roman 11 pt; bei Markdown diesen Formatstandard als Exporthinweis aufnehmen.
+Endprodukte vollständig ausformulieren; Skelette, Halbsätze und reine Aufzählungen sind kein Ergebnis. Interne Memos begründen zweifelhafte Voraussetzungen im Gutachtenstil; Mandantenbriefe nennen verständlich Ergebnis, Begründung und Empfehlung. Knappe Vermerke und Schriftsätze im Urteilsstil verfassen. Ausschließlich dezimale Gliederung mit Leerzeilen, Times New Roman 11 pt; bei Markdown diesen Formatstandard als Exporthinweis aufnehmen. Einen vorgegebenen Dateinamen verwenden; nur ohne Dateiwunsch ist ergebnis.md der Standard.
 
 ## 7. Vertragsfassung, Einbeziehung und Individualabrede nachweisen
 
@@ -57,6 +67,8 @@ Endprodukte vollständig ausformulieren; Skelette, Halbsätze und reine Aufzähl
 Stelle zunächst fest, welcher Text überhaupt geprüft wird: Angebot, Bestellung, Bestätigung, Rahmenvertrag, Leistungsbeschreibung, Preisblatt, Kundenportal und späterer Nachtrag können verschiedene Fassungen enthalten. Erfasse zu jeder entscheidenden Regelung den Wortlaut, die Version, den Zeitpunkt ihrer Bereitstellung und den behaupteten Einigungsakt. Eine heute erreichbare Internetseite beweist nicht, welche Bedingungen beim damaligen Abschluss abrufbar waren. Ein interner Freigabevermerk beweist keine Kundenzustimmung.
 
 Bei mehreren Dokumenten genügt keine Liste ihrer Dateinamen. Ordne die einzelnen Regelungsgegenstände zu: Welche Quelle bestimmt Lieferumfang, Entgelt, Abnahme, Haftung und Kündigung? Wo werden Bedingungen eines anderen Unternehmens einbezogen? Prüfe, ob eine vereinbarte Rangfolge den konkreten Widerspruch erfasst oder nur allgemein den Rahmenvertrag bevorzugt. Eine Rangfolgeklausel ersetzt weder die Einbeziehung der nachrangigen Anlage noch die Prüfung einer vorrangigen Individualabrede.
+
+Bei kollidierenden Einkaufs- und Verkaufsbedingungen stelle Angebot, Gegenangebot, Bestätigung und tatsächliche Vertragsdurchführung gegenüber. Benenne die konkret widersprechenden Regelungen und prüfe Vertragsschluss und verbleibenden Vertragsinhalt getrennt. Fehlt eine damals verwendete Fassung, fordere gerade diese an; die zuletzt übersandten Bedingungen nicht allein wegen ihrer zeitlichen Reihenfolge als vereinbart behandeln.
 
 ### 7.2. Einbeziehung aus dem tatsächlichen Abschlussablauf ableiten
 
@@ -136,6 +148,12 @@ Frage zuerst, auf welchem Mechanismus die Änderung beruhen soll: bereits verein
 
 Bei einer Zustimmungsfiktion Frist, besonderen Hinweis und inhaltliche Reichweite separat prüfen. BGH, Urteil vom 27.04.2021, Az. XI ZR 26/20, Randnummern 18 bis 32 und 38 bis 40, zeigt, weshalb ein unbeschränkter Austausch des Vertragsgefüges nicht durch Mitteilung und Kündigungsmöglichkeit legitimiert wird. Bei Zahlungsdiensten zusätzlich Paragraf 675g BGB prüfen; dessen Zweimonatsvorlauf ist keine allgemeine Frist für sämtliche Branchen. Die [Bankreferenz](skills/vertragsaenderung-durch-zustimmung-pruefen/references/bankbedingungen.md) trennt die Zahlungsdiensteregelung von der AGB-Kontrolle.
 
+### 10.4. Leistungsänderungen im Rahmenvertrag ausarbeiten
+
+Unterscheide einen gemeinsam zu vereinbarenden Änderungsauftrag von einem einseitigen Änderungsvorbehalt. Bei Händler-, Rahmen- und Konzernverträgen kläre, wer Änderungen verlangen und genehmigen darf und welche Auswirkungen auf Leistungsumfang, Vergütung, Termine und Mitwirkung entstehen. Prüfe einseitige Leistungs- oder Prozessänderungen anhand der Paragrafen 305c, 307 und 308 Nummer 4 BGB sowie der Paragrafen 242 und 314 BGB, soweit einschlägig.
+
+Fehlt die Beschreibung der Mehrleistung oder ihrer Kosten, fordere diese an, bevor eine Zustimmung oder Mehrvergütung als feststehend behandelt wird. Nach Eingang gleiche den Änderungsauftrag mit Leistungsanlage, Rangfolge und bestehenden Zusagen ab. Formuliere bei entsprechendem Auftrag die Änderung und das dazugehörige Annahmeverfahren vollständig; eine interne Freigabe im Konzern ist nicht automatisch die Zustimmung des Vertragspartners.
+
 ## 11. Ausfallumfang, Ersatzrecht und Durchsetzungsziel trennen
 
 ### 11.1. Vom Unwirksamkeitsgrund zum verbleibenden Vertrag
@@ -176,72 +194,9 @@ Bei einer Schiedsabrede Schiedsort, Recht der Abrede und Hauptvertragsstatut unt
 
 Die Empfehlung unterscheidet zwischen rechtlicher Beanstandung, unbewiesenem Sachverhalt und wirtschaftlich vertretbarer Verhandlungsoption. Eine niedrige Risikostufe braucht eine Begründung; sie darf nicht allein aus Marktüblichkeit oder dem Fehlen bekannter Klagen entstehen. Bei erheblicher Unsicherheit keine Scheingenauigkeit durch Prozentwerte erzeugen. Benenne, welches Dokument oder welche Entscheidung die Einschätzung ändern würde.
 
-Die abschließende Fassung muss den zuletzt geprüften Wortlaut enthalten. Vergleiche insbesondere die Begründung mit dem tatsächlich vorgeschlagenen Text: Ausnahmen, Fristen und geschützte Ansprüche dürfen nicht nur im Memo stehen. Quellen in ihrer Tragweite einordnen und Abrufstand festhalten; nicht für alle Vertragsarten dieselbe Entscheidung anführen. Die in diesem Kern ergänzten Normen wurden am 05.09.2026 amtlich abgeglichen; für einen späteren Auftrag die maßgebliche Fassung erneut prüfen. Die Fachreferenzen bleiben selektive Vertiefungen, keine Pflichtlektüre für jeden Fall.
+Die abschließende Fassung muss den zuletzt geprüften Wortlaut enthalten. Vergleiche insbesondere die Begründung mit dem tatsächlich vorgeschlagenen Text: Ausnahmen, Fristen und geschützte Ansprüche dürfen nicht nur im Memo stehen. Quellen in ihrer Tragweite einordnen und Abrufstand festhalten; nicht für alle Vertragsarten dieselbe Entscheidung anführen. Prüfe die für Vertragsdatum und Prüfauftrag maßgebliche Normfassung. Die Fachreferenzen bleiben selektive Vertiefungen, keine Pflichtlektüre für jeden Fall.
 
-<!-- BEGIN fachrouten-werkstatt (autogen) -->
-## 13. Fachspezifische Praxisrouten
 
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
+## 13. Technische Grenzen
 
-### 13.1. Agb im Arbeitsvertrag 310 Abs 4 Vertieft
-
-Bearbeitungsauftrag: Bearbeite Agb im Arbeitsvertrag 310 Abs 4 Vertieft entlang der Verbraucherrecht und Verbandsdurchsetzung-Prüflinie: Vertrag und Vertriebsweg: Vertragstyp, Verbrauchereigenschaft, Vertriebssituation und Belehrungslage feststellen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
-Prüfschritte: Paragraf 310 Absatz 4 Satz 1 BGB: Tarifverträge, Betriebsvereinbarungen und Dienstvereinbarungen unterliegen nicht der AGB-Kontrolle; Paragraf 310 Absatz 4 Satz 2 BGB: bei Arbeitsverträgen ist auf die Besonderheiten des Arbeitsrechts angemessen Rücksicht zu nehmen; Klausel "Der Arbeitgeber kann den Arbeitnehmer an einen anderen Arbeitsort versetzen" ist im Regelfall transparenzbedürftig; 10 AZR 275/09: Entspricht der Versetzungsvorbehalt erkennbar dem Weisungsrecht aus Paragraf 106 Satz 1 GewO, findet keine Angemessenheitskontrolle nach Paragraf 307 Absatz 1 Satz 1 BGB statt; Unklarheit und Transparenz bleiben zu prüfen.
-Normbezug aus dem Fachmaterial: Paragraf 310 Absatz 4 Satz 1 BGB: Tarifverträge, Betriebsvereinbarungen und Dienstvereinbarungen unterliegen nicht der AGB-Kontrolle; Paragraf 310 Absatz 4 Satz 2 BGB: bei Arbeitsverträgen ist auf die Besonderheiten des Arbeitsrechts angemessen Rücksicht zu nehmen.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 13.2. Händlervertrag AGB
-
-Bearbeitungsauftrag: AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Absatz 1 S. 2 BGB), Inhaltskontrolle (Paragrafen 307-309 BGB), Rechtsfolge (Paragraf 306 BGB) und Prozess-/Verbandsrisiko sauber trennen. Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen. Normenstand sichern: Vor tragenden Aussagen BGB Paragrafen 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 13.3. MSA Rahmenvertrag
-
-Bearbeitungsauftrag: Klauselproblem (MSA Rahmenvertrag): prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Absatz 1 S. 2 BGB), Inhaltskontrolle (Paragrafen 307-309 BGB), Rechtsfolge (Paragraf 306 BGB) und Prozess-/Verbandsrisiko sauber trennen. Normenstand sichern: Vor tragenden Aussagen BGB Paragrafen 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 13.4. Rechtsabteilung: Change-Control-Klauseln im Konzernvertrag
-
-Bearbeitungsauftrag: Klauselproblem (Rechtsabteilung: Change-Control-Klauseln im Konzernvertrag): Einseitige Leistungs- und Prozessänderungen werden in komplexen Konzern-Frameworks auf Zumutbarkeit und Governance geprüft. AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Absatz 1 S. 2 BGB), Inhaltskontrolle (Paragrafen 307-309 BGB), Rechtsfolge (Paragraf 306 BGB) und Prozess-/Verbandsrisiko sauber trennen. Paragrafen 305c, 307, 308 Nummer 4 BGB; Paragraf 242 BGB; Paragraf 314 BGB.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 13.5. UKlaG Unterlassung Verbandsklage
-
-Bearbeitungsauftrag: Klauselproblem (UKlaG Unterlassung Verbandsklage): prüft die AGB-Kontrolle quellenstreng entlang BGB Paragrafen 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Absatz 1 S. 2 BGB), Inhaltskontrolle (Paragrafen 307-309 BGB), Rechtsfolge (Paragraf 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 13.6. VDuG Abhilfeklage AGB Schnittstelle
-
-Bearbeitungsauftrag: Klauselproblem (VDuG Abhilfeklage AGB Schnittstelle): prüft die AGB-Kontrolle quellenstreng entlang BGB Paragrafen 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Absatz 1 S. 2 BGB), Inhaltskontrolle (Paragrafen 307-309 BGB), Rechtsfolge (Paragraf 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 13.7. Abmahnung Reagieren
-
-Bearbeitungsauftrag: Klauselproblem (Abmahnung Reagieren): macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Absatz 1 S. 2 BGB), Inhaltskontrolle (Paragrafen 307-309 BGB), Rechtsfolge (Paragraf 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
-
-### 13.8. Abtretung
-
-Bearbeitungsauftrag: Klauselproblem (Abtretung): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Absatz 1 S. 2 BGB), Inhaltskontrolle (Paragrafen 307-309 BGB), Rechtsfolge (Paragraf 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-Lieferstück: Fachvotum zu Abtretung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 13.9. Annahme- und Leistungsfristen nach Paragraf 308 BGB
-
-Bearbeitungsauftrag: Klauselproblem (Annahmefrist Leistungsfrist 308): prüft die AGB-Kontrolle quellenstreng entlang BGB Paragrafen 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Absatz 1 S. 2 BGB), Inhaltskontrolle (Paragrafen 307-309 BGB), Rechtsfolge (Paragraf 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-Lieferstück: Fristenblatt zu Annahme- und Leistungsfristen nach Paragraf 308 BGB mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
-
-### 13.10. Battle of Forms AGB Kollision
-
-Bearbeitungsauftrag: Klauselproblem (Battle of Forms AGB Kollision): prüft die AGB-Kontrolle quellenstreng entlang BGB Paragrafen 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Absatz 1 S. 2 BGB), Inhaltskontrolle (Paragrafen 307-309 BGB), Rechtsfolge (Paragraf 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-Lieferstück: Fachvotum zu Battle of Forms AGB Kollision mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 13.11. Beweislast, Zugang und Klauselverbote nach Paragraf 309 BGB
-
-Bearbeitungsauftrag: Klauselproblem (Beweislast und Zugang 309): prüft die AGB-Kontrolle quellenstreng entlang BGB Paragrafen 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Absatz 1 S. 2 BGB), Inhaltskontrolle (Paragrafen 307-309 BGB), Rechtsfolge (Paragraf 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 13.12. Change Reqüst
-
-Bearbeitungsauftrag: Klauselproblem (Change Reqüst): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Absatz 1 S. 2 BGB), Inhaltskontrolle (Paragrafen 307-309 BGB), Rechtsfolge (Paragraf 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-Lieferstück: Fachvotum zu Change Reqüst mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-<!-- END fachrouten-werkstatt (autogen) -->
+Alle Skill- und Referenzlinks sind optionale Vertiefungen; ohne Zugriff anhand der hier beschriebenen Prüfung weiterarbeiten und ohne Exportmöglichkeit den vollständigen Text statt eines erfundenen Dateilinks liefern. Bei Abruffehlern einen geeigneten Alternativweg versuchen, verbleibende Quellenlücken und ungelesene Akten in einer gesonderten Arbeitsnotiz benennen. Große Akten sachlich gruppieren, belegte Fundstellen weiterverwenden und neue Fassungen oder Widersprüche erneut prüfen. Fehlende Werkzeuge begrenzen nur die davon abhängigen Schritte; keine nicht erfolgte Aktenprüfung, Quellenprüfung oder Dateierzeugung behaupten.

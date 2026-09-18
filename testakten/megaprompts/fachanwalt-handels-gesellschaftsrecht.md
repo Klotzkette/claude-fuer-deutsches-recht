@@ -528,7 +528,7 @@ Bereite eine geplante oder angegriffene Einziehung vor, deren Abfindung die Gese
 
 ## 2. Eingaben
 
-Lies zuerst Satzung in der beim Anteilserwerb geltenden und der aktuellen Fassung, Erwerbsdatum, Gesellschafterliste, Beschluss oder Entwurf, Bewertungsabrede, Stichtagszahlen und Zahlungsplan. Kläre Mandantenrolle, Einziehungsgrund, Zustimmung, Stimmrechte, Bekanntgabe, laufendes Verfahren und gewünschte Alternative. Erfasse Buchwerte, Schulden, Rückstellungen, bisher ungebuchte Verluste, liquide Mittel, gesicherte Kreditlinien und Finanzierungszusagen. Eine gebündelte Rückfrage genügt; fehlende Zahlen als offene Position behandeln, nicht mit Null ersetzen.
+Lies zuerst Satzung in der beim Anteilserwerb geltenden und der aktuellen Fassung, Erwerbsdatum, Gesellschafterliste, Beschluss oder Entwurf, Bewertungsabrede, Stichtagszahlen und Zahlungsplan. Kläre Mandantenrolle, Einziehungsgrund, Zustimmung, Stimmrechte, Bekanntgabe, laufendes Verfahren und gewünschte Alternative nur, soweit diese Angaben noch fehlen. Erfasse Buchwerte, Schulden, Rückstellungen, bisher ungebuchte Verluste, liquide Mittel, gesicherte Kreditlinien und Finanzierungszusagen. Fordere fehlende Stichtagszahlen oder Bedingungen einer Finanzierungszusage gezielt an; fehlende Zahlen als offene Position behandeln, nicht mit Null ersetzen.
 
 ## 3. Ablauf und Checkliste
 
@@ -540,7 +540,7 @@ Trenne Einziehung, Ausschluss, Abtretung und Kapitalherabsetzung. Prüfe Satzung
 
 Wende nur die konkret vereinbarte und auf Wirksamkeit geprüfte Bewertungsregel an. Leite Unternehmenswert, Beteiligungsquote, Zu- und Abschläge, Zinsen und Fälligkeiten belegbezogen her. Nennbetrag ist nicht automatisch Abfindungswert. Bei streitiger Klausel zeige deren Rechenfolge und eine begründete Alternativbewertung, ohne fiktive Markt-Multiplikatoren einzusetzen.
 
-### 3.3. Kapitalerhaltungsbrücke
+### 3.3. Freies Vermögen am Beschlusstag
 
 Ermittle zu fortgeführten handelsrechtlichen Buchwerten das Reinvermögen vor Abfindung: Aktiva minus Schulden und Rückstellungen. Freier Betrag ist das Reinvermögen abzüglich Stammkapital; eine negative Differenz als Unterbilanz ausweisen. Verhindere Doppelzählung einer schon passivierten Abfindungsverbindlichkeit durch eine offen erläuterte Überleitungsrechnung. Nicht realisierte stille Reserven nicht einfach addieren. Prüfe den gesamten Abfindungsanspruch, nicht nur die erste Rate. Stelle fest, ob schon bei Beschlussfassung feststeht, dass die Zahlung nicht aus freiem Vermögen möglich ist; dann Nichtigkeitsrisiko nach dem Anker ausdrücklich behandeln.
 
@@ -550,7 +550,7 @@ Erstelle daneben einen Zahlungsplan mit freien Zahlungsmitteln und fälligen üb
 
 ### 3.5. Haftung und Abschluss
 
-Unterscheide anfängliche Beschlussnichtigkeit, spätere Auszahlungssperre und mögliche persönliche Haftung verbleibender Gesellschafter. Letztere folgt nicht automatisch aus der bloßen Nichtzahlung; treuwidrige Fortsetzung und Insolvenzlage gesondert prüfen. Liefere ein Votum mit bedingten Varianten und Beleganforderungen nach einem Summencheck. Keine Einziehung erklären, Liste ändern, Zahlung auslösen oder Beurkundung veranlassen.
+Unterscheide anfängliche Beschlussnichtigkeit, spätere Auszahlungssperre und mögliche persönliche Haftung verbleibender Gesellschafter. Letztere folgt nicht automatisch aus der bloßen Nichtzahlung; treuwidrige Fortsetzung und Insolvenzlage gesondert prüfen. Bei fehlenden Belegen gib ein vorläufiges Votum mit konkret benötigten Angaben. Prüfe eingehende Buchhaltungsdaten auf Stichtagsbezug und Doppelzählungen; aktualisiere danach Abfindung, freies Vermögen oder Liquiditätsplan jeweils nur insoweit, wie die neuen Angaben sie betreffen. Bleibt eine neu erkennbare Bedingung der Finanzierung offen, frage dazu nach. Arbeite anschließend die bestellte Empfehlung aus, statt bei einer Belegliste stehenzubleiben. Keine Einziehung erklären, Liste ändern, Zahlung auslösen oder Beurkundung veranlassen.
 
 ## 4. Quellenpflicht
 
@@ -564,7 +564,9 @@ Am 14.09.2026 amtliche Leitsätze im Suchauszug geprüft; unmittelbare Volltexta
 
 ## 5. Ausgabeformat
 
-Liefere `ergebnis.md`: Sachverhalt, Stichtagsmatrix, Abfindungsrechnung, Buchwertbrücke, Liquiditätsplan, Rechtsfolgen je Variante und ausformulierte Gremienempfehlung mit Freigabebedingungen. Vollständige Sätze statt Skeletten; Tabellen nur als nachvollziehbare Rechnungs- und Beleganlage. Dezimale Gliederung und Times New Roman 11 pt; bei Markdown diesen Exporthinweis aufnehmen.
+Liefere die beauftragte Gremienempfehlung oder Stellungnahme mit Sachverhalt, Abfindungsrechnung, Ermittlung des freien Vermögens, Liquiditätsbedarf und Rechtsfolgen der untersuchten Varianten. Verwende den gewünschten Dateinamen; nur ohne Vorgabe `ergebnis.md`. Erläutere die entscheidenden Stichtage dort, wo sie die Rechnung oder Bewertung bestimmen. Ein Beschlussentwurf setzt einen entsprechenden Auftrag voraus.
+
+Vollständige Sätze statt Skeletten; Tabellen nur als nachvollziehbare Rechnungs- und Beleganlage. Ohne Exportwerkzeug die bestellte Gremienempfehlung einschließlich Abfindungs-, Kapitalerhaltungs- und Liquiditätsrechnung vollständig als Text liefern, statt einen Dateilink vorzutäuschen. Recherchegrenzen und Abrufstatus gehören in eine getrennte Arbeitsnotiz. Dezimale Gliederung und Times New Roman 11 pt; bei Markdown diesen Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 

@@ -11,7 +11,7 @@ Bearbeite den Teilverlust einer wertvollen Sendung trotz quittierter Ablieferung
 
 ## 1.2. Eingaben
 
-Lies Frachtauftrag, Transportstrecke und Verkehrsträger, Frachtbrief, Packliste, Packprotokoll, Wiegedaten, Scans, Fotos, Empfängerprotokoll, Warenrechnung und Reklamation. Erfasse Auftraggeber, Frachtführer, Unterfrachtführer, Empfänger und gegebenenfalls Versicherer mit Anspruchsübergang. Kläre fehlendes Mindestmaterial einmal gebündelt und liefere den gesicherten Teil.
+Lies Frachtauftrag, Transportstrecke und Verkehrsträger, Frachtbrief, Packliste, Packprotokoll, Wiegedaten, Scans, Fotos, Empfängerprotokoll, Warenrechnung und Reklamation. Erfasse Auftraggeber, Frachtführer, Unterfrachtführer, Empfänger und gegebenenfalls Versicherer mit Anspruchsübergang aus den vorhandenen Angaben. Frage nach entscheidenden fehlenden Nachweisen und liefere daneben die gesicherten Teile vorläufig. Unterscheide Sollinhalt laut Packliste und tatsächlich belegten Ausgangsinhalt.
 
 ## 1.3. Ablauf und Checkliste
 
@@ -33,7 +33,7 @@ Ermittle Wert am Ort und zur Zeit der Übernahme, Menge, Restwert und Nebenkoste
 
 Nach Paragraf 438 HGB unterscheiden: äußerlich erkennbarer Schaden bei Ablieferung, verdeckter Schaden innerhalb von sieben Tagen und Lieferfristüberschreitung innerhalb von 21 Tagen. Fehlende Verlustanzeige begründet eine Vermutung, nicht den automatischen Anspruchsuntergang des Verlustanspruchs. Verjährung nach Paragraf 439 mit Beginn, Anspruchserhebung, Ablehnung und deren Zugang separat erfassen; Wiederholung desselben Anspruchs hemmt nicht erneut. Für jedes Regressglied eine eigene Zeile führen.
 
-Keine Haftbarhaltung versenden, keinen Vergleich schließen und keine Verjährungsverzichtserklärung abgeben. Nach einem Gewichts-, Summen- und Fristencheck Beweisplan und Entwurf liefern.
+Fehlen Wiege- oder Packnachweise, fordere sie packstückbezogen an und kläre, wer den Inhalt zu welchem Zeitpunkt wahrgenommen hat. Nachgereichte Unterlagen gegen Scan- und Übergabezeiten abgleichen; danach Verlustzeitraum, maßgebliches Gewicht, Schadensrechnung und betroffene Haftungsargumentation aktualisieren. Ergibt sich etwa ein abweichender Öffnungszeitpunkt, frage gezielt nach, ohne den übrigen Transport erneut aufzunehmen. Schreibe anschließend die bestellte Anspruchsbegründung oder Erwiderung fertig und prüfe die geänderten Gewichte, Summen und Fristen. Keine Haftbarhaltung versenden, keinen Vergleich schließen und keine Verjährungsverzichtserklärung abgeben.
 
 ## 1.4. Quellenpflicht
 
@@ -45,7 +45,9 @@ Für die getrennten Berechnungswege: BGH, Urteil vom 02.07.2026, Az. I ZR 134/25
 
 ## 1.5. Ausgabeformat
 
-Liefere `ergebnis.md` mit Sachverhalt, Packstück- und Ereignismatrix, bezifferter Alternativrechnung, Fristenblatt und ausformulierter Anspruchsbegründung oder Erwiderung als Entwurf. Vollständige Sätze statt Stichwortskelette. Dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
+Liefere die bestellte Anspruchsbegründung oder Erwiderung mit bezifferter Alternativrechnung unter dem gewünschten Dateinamen, ohne Vorgabe unter `ergebnis.md`. Packstück- und Ereignisübersichten sowie Fristenaufstellungen nur als benötigte Erläuterung ergänzen; ein reiner Prüfauftrag führt nicht ungefragt zur Klage. Offene Nachweise und ihr Einfluss auf das Ergebnis bleiben kenntlich.
+
+Technische Grenzen und Quellenstatus stehen in einer getrennten Arbeitsnotiz. Ohne Dateiexport den bestellten Text mit Packstückabgleich und den erforderlichen Haftungsberechnungen vollständig in der Antwort bereitstellen, nicht nur einen Dateinamen oder angeblichen Download. Vollständige Sätze statt Stichwortskelette. Dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
 
 ## 1.6. Beispiele
 

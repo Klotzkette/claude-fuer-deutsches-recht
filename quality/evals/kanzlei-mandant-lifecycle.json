@@ -1,17 +1,19 @@
 {
   "schema_version": 1,
   "plugin": "kanzlei-mandant-lifecycle",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [],
   "mini_review": {
+    "verdict": "retained",
+    "reason": "Aktuellen Mini vollständig gelesen. Rechnung, offene Arbeit und Restprognose werden ohne Doppelzählung abgeglichen; eine neue Freigabe ändert Umfang, Kosten und Brief. Warnschwelle gilt nicht als Ausgabenermächtigung und Budgetkonflikt nicht als stiller Bearbeitungsabbruch. Keine weitere Korrektur erforderlich; keine neue Quellen- oder Live-Modellprüfung.",
+    "changes": [],
+    "sha256": "b1d89d4b29e5594fcf36bd1bd19f0379d607658d55736a5dafbe3fd9d7a980a3"
+  },
+  "workshop_review": {
     "verdict": "revised",
-    "reason": "Die wiederholte Mandatsaufnahme beantwortete Budget- und Freigabekonflikte nicht. Die neue Rechenlogik beruht auf konkreten Vereinbarungen; keine neue allgemeine Vergütungsrechtsbehauptung.",
-    "changes": [
-      "Genehmigtes Budget, Prognose und Entscheidungsbefugnis getrennt.",
-      "Rechnung, offene Arbeit und Restaufwand ohne Doppelzählung zusammengeführt.",
-      "Änderungsantrag und sachliche Mandanteninformation als konkrete Produkte ergänzt."
-    ],
-    "sha256": "8a602d8307c717c9c3a2e25f44485b6a1c5caa0fbbd05728e9d40b81dd12569a"
+    "reason": "Gesamte Werkstatt gelesen. Die sachgerechte Budgetfortsetzung wurde noch durch Pflichtpakete, Fehlteillisten als Endprodukte und wiederholte Aufnahmefragen überlagert. Diese Widersprüche gezielt bereinigt; vorhandene Vergütungs-, Datenschutz- und Übergabethemen erhalten. Keine neue Rechtsquellenverifikation oder Live-Modellprüfung.",
+    "changes": ["Annahme, Fristen, Bearbeitungssteuerung und Abschluss führen zum bestellten Dokument statt zur bloßen Fehlteilliste.", "Versandhindernis von interner Fertigstellung getrennt; tatsächliche Freigabe und Übermittlung nicht vorausgesetzt.", "Mandatsblatt und Übergabepaket auf passenden Auftrag begrenzt; bekannte Angaben in den Fachrouten nicht erneut abfragen."],
+    "sha256": "a6789b7eaf59e5c11ea4a67d531df24f666bcb0bc89074dfe08ad0601481c882"
   },
   "selection": {
     "positive": [

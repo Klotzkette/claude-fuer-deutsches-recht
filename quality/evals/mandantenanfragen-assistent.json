@@ -1,16 +1,15 @@
 {
   "schema_version": 1,
   "plugin": "mandantenanfragen-assistent",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der ganze Schnellstarter verlangte Subsumtion statt der im Kernauftrag beschriebenen organisatorischen E-Mail. Auch der gelesene Erstantwortskill ist zu allgemein; für diesen Schreibauftrag ist kein Rechtsanker erforderlich.",
+    "reason": "Der vollständige Mini wurde auf organisatorische Erstantwort statt ungefragter Rechtsberatung geprüft.",
     "changes": [
-      "Versandfertige Erstantwort mit Anrede, Termintelefon und gezielter Unterlagenbitte eingeführt.",
-      "Doppelte Sachverhaltsabfrage sowie erfundene Annahme-, Fristen- und Kostenzusagen ausgeschlossen."
+      "Nur fehlende Termin- oder Unterlagenangaben klären und anschließend die bestellte E-Mail fertigschreiben."
     ],
-    "sha256": "702f01f400aac369359ab3d2be128f1bf250b05c0c2fa42f0928e412df3c1624"
+    "sha256": "1ce5d1231459edae939649e71e92a4e99f00d163c957d15caa300ec3f3551128"
   },
   "selection": {
     "positive": [
@@ -55,5 +54,13 @@
       ],
       "target_skill": "erstantwort-foermlich-mail"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde einschließlich Vertraulichkeit, Mandatsstatus, Sprache und Kontaktorganisation gelesen.",
+    "changes": [
+      "Keine erfundene Termin-, Kosten- oder Mandatszusage; rechtliche Vertiefung nur bei passendem Auftrag."
+    ],
+    "sha256": "5455dfc6490de15e08d69307c96ddd9babd58794479751a61adae1512766936d"
+  }
 }

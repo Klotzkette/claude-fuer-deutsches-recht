@@ -3,40 +3,37 @@ name: einstieg-routing
 description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kartellrecht — Marktabgrenzungsprüfung."
 ---
 
-# Einstieg und Routing
+# 1. Kartellrechtlichen Prüfauftrag bearbeiten
 
-## Einsatzlage
+## 1.1 Zweck
 
-Dieser Einstieg routet **Kartellrecht Marktabgrenzung Prüfung** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Prüfe die konkrete Markt-, Verhaltens- oder Transaktionsfrage und erstelle das beauftragte Ergebnis. Eine bloße Auswahl weiterer Skills erledigt den Auftrag nicht.
 
-## Fachlandkarte dieses Plugins
+## 1.2 Ausgangspunkt
 
-- `1-gwb-kartellverbot-nationale-pruefung` — 1 GWB Kartellverbot Nationale Prüfung
-- `19a-gwb-relative-abuse-economic` — 19A GWB Relative Abuse Economic
-- `abuse-of-economic-dependence` — Abuse OF Economic Dependence
-- `aeuv-behoerden-gericht-und-registerweg` — Aeuv Behoerden Gericht und Registerweg
-- `algorithmic-collusion-ai-pricing` — Algorithmic Collusion AI Pricing
-- `alleinvertrieb-kundengruppen-alternative` — Alleinvertrieb Kundengruppen Alternative
-- `alternative-marktdefinition-eng` — Alternative Marktdefinition ENG
-- `alternative-marktdefinition-weit` — Alternative Marktdefinition Weit
-- `angebotsumstellung-evidenz-flags-red-team-korrektur` — Angebotsumstellung Evidenz Flags RED Team Korrektur
-- `anmeldepflicht-joint-venture` — Anmeldepflicht Joint Venture
-- `einstieg-schnelltriage-fallrouting` — Anschluss
-- `art-101-aeuv-kooperationspruefung-einstieg` — ART 101 Aeuv Kooperationspruefung Einstieg
-- `art-101-aeuv-tatbestand-vereinbarung-beschluss-abgestimmte-verha` — ART 101 Aeuv Tatbestand Vereinbarung Beschluss Abgestimmte Verha
-- `dokumente-intake` — Dokumente Intake
-- `output-waehlen` — Output Waehlen
+Lies Produktbeschreibung, Verträge, Markt- und Umsatzdaten sowie behördliche Schreiben zuerst. Bestimme daraus Rolle, Unternehmen, Zeitraum, betroffene Märkte und Anlass: Kooperation, Missbrauch, Zusammenschluss oder Schadensersatz. Frage Bekanntes nicht erneut ab; sichere bei einer Behördenfrist deren konkreten Auslöser und Nachweis.
 
-## Arbeitsweg
+## 1.3 Bearbeitung
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Kartellrecht Marktabgrenzung Prüfung sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+1. Trenne Marktdefinition, Marktstellung und Verhalten. Eine Branchenbezeichnung ersetzt keine Prüfung tatsächlicher Ausweichmöglichkeiten. Anteilskalkulationen benötigen einheitlichen Zeitraum, Produktumfang, Gebiet und Maßstab.
+2. Fehlt der Zeitraum einer Marktstudie oder die Verfügbarkeit eines Ersatzprodukts, frage gezielt danach. Nach Antwort passe Marktgrenze und gegebenenfalls Anteilskalkulation an und vervollständige das bestellte Memo.
+3. Bei einem Vertrags- oder Verhaltensvorwurf ordne konkrete Klausel, Kommunikation und Umsetzung Paragraf 1 GWB beziehungsweise Artikel 101 AEUV oder den einschlägigen Missbrauchsregeln zu. Prüfe Ausnahme und Gegenargument, ohne aus einem hohen Anteil allein einen Verstoß abzuleiten.
+4. Ergibt ein neuer Beleg eine entscheidende Folgefrage, etwa eine abweichende Kundengruppe oder frühere Vertragsfassung, kläre genau diese. Bei einem Hindernis liefere den unabhängigen Teil vorläufig und setze nach Ergänzung bis zum gewünschten Ergebnis fort.
 
-## Qualitätsanker
+## 1.4 Vertiefung und Quellen
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+Vorhandene Spezialskills wie `alternative-marktdefinition-eng`, `alternative-marktdefinition-weit` oder `art-101-aeuv-kooperationspruefung-einstieg` können optional unterstützen. Sie ersetzen weder den Belegabgleich noch die amtliche Prüfung von Normen und aktueller Behördenpraxis. Hinweise in `references/quellenhygiene.md` und `references/zitierweise.md` sind ergänzend nutzbar.
+
+Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Aussagegehalt verwenden. Leitlinien sind von Urteilen zu unterscheiden. Zusätzlicher Quellenstatus gehört in eine Arbeitsnotiz, nicht in den Mandantenbrief.
+
+## 1.5 Ergebnis
+
+Liefere das bestellte Memo, die Berechnung, Vertragsprüfung oder Stellungnahme in vollständigen Sätzen. Tabellen dienen echten Daten- oder Alternativenvergleichen, nicht einer obligatorischen Prüffeldsammlung. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden.
+
+Dokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung. Keine ungefragte Klage, Anmeldung oder Zusage; externe Kommunikation benötigt ausdrückliche Freigabe.
+
+## 1.6 Beispiel
+
+Ein Unternehmen behauptet einen bundesweiten Markt, die Studie erfasst aber nur regionale Lieferungen. Kläre Lieferalternativen und Abdeckung der Studie und rechne nach Ergänzung die ernsthaften Varianten neu. Verfasse daraus die beauftragte Marktstellungnahme, ohne fehlende Volumina zu erfinden.
+
+Ohne Datei- oder Quellenzugriff benenne die konkrete Grenze und bearbeite unabhängige Teile. Ohne Export liefere Text; andere Repository-Dateien sind keine Voraussetzung.

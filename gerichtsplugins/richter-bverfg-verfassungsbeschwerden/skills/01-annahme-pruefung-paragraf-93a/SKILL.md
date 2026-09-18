@@ -3,96 +3,53 @@ name: 01-annahme-pruefung-paragraf-93a
 description: "Für 01 Annahme Prüfung Paragraf 93A: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
-# 01 Annahme Prüfung Paragraf 93A
+# 1 Annahme einer Verfassungsbeschwerde prüfen
 
-## Direktstart: lesen, entscheiden, liefern
+Erstelle aus der eingegangenen Beschwerde ein begründetes Annahmevotum oder den bestellten Kammervermerk. Lies Beschwerdeschrift, angegriffene Entscheidungen und vorgelegten fachgerichtlichen Vortrag zuerst; verfasse keine Beschwerde aus Parteisicht.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1 Eingaben und Zulässigkeit
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Bestimme Beschwerdeführer, Hoheitsakte, Rügen und begehrten Ausspruch. Prüfe Beschwerdebefugnis, Rechtswegerschöpfung, materielle Subsidiarität und die konkret einschlägige Frist nach Paragraf 93 BVerfGG. Unterscheide Urteilsverfassungsbeschwerde, Normangriff und Eilantrag.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Substantiierung nach Paragrafen 23 und 92 BVerfGG anhand der konkreten Rügen, tragenden Entscheidungsgründe und Aktenfundstellen prüfen. Fachgerichtliche Gehörsrüge und sonstige zumutbare Abhilfemöglichkeiten fallbezogen berücksichtigen. Eine Lücke im bereitgestellten Material nicht ohne Prüfung mit einem Darlegungsmangel der Beschwerde gleichsetzen.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2 Annahme und verfassungsrechtliche Frage
 
-## Zweck
+Prüfe die Annahmevoraussetzungen nach Paragraf 93a Absatz 2 BVerfGG eigenständig: grundsätzliche verfassungsrechtliche Bedeutung oder angezeigte Durchsetzung der geschützten Rechte, einschließlich eines besonders schweren Nachteils. Eine bloße Wiederholung der Begründetheitsprüfung ersetzt diese Einordnung nicht.
 
-Annahmevoraussetzungen Paragraf 93a Abs. 2 BVerfGG: grundsaetzliche verfassungsrechtliche Bedeutung lit. a, Durchsetzung der Grundrechte lit. b, schwerer Nachteil; Verhaeltnis von Annahmeprüfung und Begründetheit
+Bestimme den einschlägigen Grundrechtsmaßstab und prüfe die behauptete spezifische Verfassungsverletzung. Das Bundesverfassungsgericht ist keine zusätzliche allgemeine Rechtsmittelinstanz. Schutzbereich, Eingriff, Rechtfertigung und Verhältnismäßigkeit nur passend zur jeweiligen Rüge untersuchen.
 
-## Rolle
+## 1.3 Fehlende Unterlagen und Fortsetzung
 
+Fehlt eine angegriffene Entscheidung oder ein Zustellungsbeleg, benenne das konkrete Dokument und seinen Einfluss auf Annahmevotum oder Zulässigkeit. Bearbeite die übrigen Rügen bereits vorläufig.
 
-Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
+Nach Eingang die betroffene Fristberechnung oder Argumentation aktualisieren und den bestellten Vermerk fertigstellen. Neue entscheidende Unklarheiten gezielt nachfragen, bereits geklärte Tatsachen nicht erneut erheben. Nachgereichte Arbeitsunterlagen nicht automatisch als rechtzeitige Beschwerdebegründung werten.
 
-## Rechtsrahmen
+## 1.4 Entscheidungsbefugnis und Eilfragen
 
-GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
+Prüfe Kammer- und Senatsbefugnisse nach Paragrafen 93b bis 93d BVerfGG sowie die einschlägige Zuständigkeitsverteilung. Für eine stattgebende Kammerentscheidung insbesondere die Voraussetzungen des Paragrafen 93c BVerfGG erläutern; bloße Plausibilität reicht nicht.
 
-## Pflichtschritte
+Bei einem Eilantrag nach Paragraf 32 BVerfGG drohendes Ereignis und irreversible Folgen gesondert prüfen. Soweit eine Folgenabwägung geboten ist, beide hypothetischen Verläufe gegenüberstellen. Dringlichkeit nicht mit Hauptsachenerfolg gleichsetzen.
 
-1. Zulässigkeit prüfen: Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist (Paragraf 93 BVerfGG).
-2. Annahmevoraussetzungen (Paragraf 93a BVerfGG) prüfen: grundsätzliche Bedeutung oder Durchsetzung von Grundrechten.
-3. Betroffenes Grundrecht prüfen: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung und Verhältnismäßigkeit.
-4. Einstweilige Anordnung (Paragraf 32 BVerfGG) bei schweren Nachteilen erwägen.
-5. Votum mit Begründung und Tenorvorschlag aus Sicht des wissenschaftlichen Mitarbeiters formulieren.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+## 1.5 Quellen und Ausgabe
 
-## Output
+Tragende Normen und Entscheidungen amtlich verifizieren; optional ergänzt `references/zitierweise.md` die Zitierweise. Bestehende Suchanker nur bei sachlichem Bezug und nach Volltextprüfung mit Randnummer verwenden:
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+- BVerfG, Urteil vom 15. Januar 1958, 1 BvR 400/51, BVerfGE 7, 198: Lüth, Bedeutung der Grundrechte für das Fachrecht.
+- BVerfG, Urteil vom 11. Juni 1958, 1 BvR 596/56, BVerfGE 7, 377: Apothekenurteil, Berufsfreiheit.
+- BVerfG, Beschluss vom 24. Februar 1971, 1 BvR 435/68, BVerfGE 30, 173: Mephisto, Kunstfreiheit und Persönlichkeitsschutz.
+- BVerfG, Urteil vom 15. Dezember 1983, 1 BvR 209/83 und weitere, BVerfGE 65, 1: Volkszählung, informationelle Selbstbestimmung.
+- BVerfG, Urteil vom 5. Juni 1973, 1 BvR 536/72, BVerfGE 35, 202: Lebach, Berichterstattung und Resozialisierung.
 
-## Anker-Rechtsprechung
+Liefere ein vollständig ausformuliertes Votum mit Annahmebegründung, zuständigem Entscheidungsgremium und Vorschlag. Ein äußerer Nichtannahmebeschluss muss nicht die gesamte interne Prüfung wiedergeben; Paragraf 93d Absatz 1 BVerfGG beachten. Keine automatische Anschlussverfügung bei jedem Vermerk verlangen.
 
-- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
-- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
-- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
-- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
-- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
+Nutzerdateinamen gehen vor; `ergebnis.md` ist nur eine Ausweichbezeichnung. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt und dezimale Gliederung. Zusätzliche Quellenstatushinweise vom gerichtlichen Text trennen.
 
-## Prüfungsschema in Stufen
+## 1.6 Beispiel und Grenzen
 
-1. Annahme Prüfung Paragraf 93A: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
-2. Substantiierung an konkreten Grundrechten, angegriffenen Entscheidungen und fachgerichtlichem Vortrag messen.
-3. Anhörungsrüge, fachgerichtliche Abhilfe und sonstige zumutbare Rechtsbehelfe vor Annahme prüfen.
-4. Annahmegründe nach Paragraf 93a BVerfGG getrennt von offensichtlicher Unzulässigkeit oder Unbegründetheit behandeln.
-5. Votum mit Kammerzuständigkeit, Entscheidungsvorschlag und offenem Prüfbedarf abschließen.
+Wird eine Gehörsverletzung behauptet, gleiche den bezeichneten Vortrag mit Entscheidung und fachgerichtlichem Abhilfeverfahren ab. Nach Vorlage einer zunächst fehlenden Entscheidung überarbeite Subsidiaritätsprüfung und Annahmevotum, statt nur einen weiteren Skill zu empfehlen.
 
-## Typische Fallstricke
-
-- Fachrechtlicher Fehler wird ohne spezifische Grundrechtsverletzung als Verfassungsverstoß behandelt.
-- Subsidiaritaet wird nur formal, nicht materiell geprüft.
-- Eilantrag nach Paragraf 32 BVerfGG wird ohne Doppelhypothese begründet.
-- Vorlagen und Beratungsunterlagen unterliegen Paragraf 353b StGB und Paragraf 43 DRiG.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
-```
-
-### Baustein B
-
-```text
-Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
-```
-
-## Benachbarte Skills
-
-- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-substantiierungs-pruefung-paragraf-92` - Folgeskill nutzen, sobald Annahme Prüfung Paragraf 93A entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Bundesverfassungsgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervermerk, Nichtannahmebeschluss, Annahmevotum oder Senatsvorlage; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 23, 90, 92, 93a, 93b, 93c BVerfGG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+Beratungsgeheimnis, Aktenvertraulichkeit und richterliche Unabhängigkeit wahren. Entscheidung, Abstimmung, Unterzeichnung oder Zustellung nicht simulieren; externe Handlungen nur nach ausdrücklicher Freigabe. Fehlende Zugriffe konkret benennen und davon unabhängige Teile weiterbearbeiten.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 

@@ -198,100 +198,47 @@ Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkund
 
 _Für Finale Entscheidung als Volltext (Beschluss Handelsregister): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Finale Entscheidung als Volltext (Beschluss Handelsregister)
+# 1 Registerentscheidung vollständig ausformulieren
 
-## Zweck
+Erstelle aus der Registerakte den beauftragten vollständigen Entscheidungsentwurf. Unterscheide Eintragungsverfügung, Zwischenverfügung und ablehnenden Beschluss; der Entwurf ersetzt weder die gerichtliche Entscheidung noch den Vollzug.
 
-Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern als versandfertigen Volltext im richtigen Layout — so, wie er das Gericht verlassen würde. Die Entscheidung wird zur Unterschrift fertig gebaut: mit Rubrum, vollständigem Tenor, Tatbestand oder Sachverhalt, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung.
+## 1.1 Unterlagen und Entscheidungsreife
 
-Gegenstand: Beschluss in einer Handelsregistersache.
+Lies Anmeldung, Urkunden, Registerstand, bisherige Verfügungen und Antworten. Nutze vorhandene Prüfungen, soweit sie zur aktuellen Akte passen. Andere Skills müssen nicht zuvor durchlaufen werden.
 
-## Rechtlicher Rahmen
+Kläre fehlende entscheidende Angaben gezielt, etwa den Inhalt einer angekündigten Urkunde oder die Reaktion auf eine konkrete Zwischenverfügung. Fehlende Namen oder Daten sichtbar markieren; eine ungeklärte materielle Voraussetzung nicht durch einen Platzhalter als erfüllt darstellen.
 
-Paragrafen 8 ff. HGB; Paragrafen 374 ff. FamFG (Registerverfahren); Paragrafen 38, 39 FamFG für Beschlussform und Begründung.
+## 1.2 Entscheidungsform bestimmen
 
-## Eingangsvoraussetzungen
+Prüfe Paragrafen 8 ff. HGB und 374 ff. FamFG im konkreten Registervorgang. Nach Paragraf 382 FamFG sind Stattgabe durch Eintragung, ablehnender Beschluss und Zwischenverfügung zu unterscheiden. Eine vorbereitete Eintragung ist noch nicht vollzogen.
 
-Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein. Insbesondere müssen vorliegen:
+Bei einem behebbaren Hindernis benenne Mangel, Rechtsgrundlage, Abhilfe und angemessene Frist. Nicht jedem Hindernis ungeachtet seiner Behebbarkeit eine Nachfrist zuordnen. Bei einer Zurückweisung erläutere die fehlende Eintragungsvoraussetzung und den bisherigen Verfahrensgang.
 
-- Rubrum mit allen Parteien, Vertretern und Aktenzeichen;
-- vollständig erfasster Sachverhalt und Streitstand;
-- geprüfte Anspruchsgrundlagen oder Tatbestandsmerkmale mit Subsumtion;
-- gewürdigte Beweise oder Akten;
-- Tenor-Skizze mit Entscheidungsformel zu Hauptsache, Kosten und vorläufiger Vollstreckbarkeit oder Rechtsmittelbelehrung.
+## 1.3 Volltext schreiben
 
-Fehlt eines dieser Stücke, weist der Skill darauf hin und unterbricht die Volltext-Erstellung, bevor er Phantasie produziert.
+Bezeichne Gericht, Aktenzeichen, Beteiligte und Gegenstand zutreffend. Verwende nur tatsächliche Entscheidungsdaten; keine Verkündung oder Unterschrift erfinden. Der Verfügungssatz muss die konkrete Anmeldung erfassen, statt nur allgemein eine antragsgemäße Eintragung zu behaupten.
 
-## Aufbau des Volltextes
+Stelle den entscheidungserheblichen Sachverhalt und die tragenden Gründe knapp dar. Ordne streitige Angaben und Urkunden den geprüften Voraussetzungen zu. Prüfe bei einem Beschluss Form und Belehrung nach Paragrafen 38 und 39 FamFG sowie die einschlägigen Kostenregeln. Zivilprozessuale Formeln zur vorläufigen Vollstreckbarkeit oder strafrechtliche Feststellungen gehören nicht automatisch in eine Registerentscheidung.
 
-### 1. Briefkopf und Rubrum
+## 1.4 Nach Antworten weiterarbeiten
 
-Gerichtsbezeichnung in der ersten Zeile (zum Beispiel „Amtsgericht München"), Aktenzeichen, Verkündungsdatum, vollständiges Rubrum mit Parteien, Prozessbevollmächtigten, Streitgegenstand und Spruchkörper.
+Ist nur ein Teil entscheidungsreif, liefere diesen als vorläufigen Entwurf und stelle die konkret verbleibende Frage. Nach Eingang einer Urkunde oder Antwort aktualisiere die betroffene Voraussetzung, Gründe und Verfügungssatz zusammen.
 
-### 2. Tenor (Entscheidungsformel)
+Erledigte Hindernisse nicht wiederholen. Ergibt sich eine neue entscheidende Unklarheit, frage gezielt nach; ansonsten den bestellten Volltext abschließen. Gehör, Beschwerdegegenstand und erforderliche Abhilfeprüfung anhand des tatsächlichen Verfahrensstands kontrollieren.
 
-Der Tenor wird vollständig ausformuliert. Er ist die rechtskraftfähige Anordnung. Beispiel für diesen Spruchkörper:
+## 1.5 Quellen, Form und Abschluss
 
-1. Die Eintragung wird antragsgemaess vorgenommen.
-2. Die Kosten der Eintragung traegt die Antragstellerin.
+Verifiziere tragende Normen und Entscheidungen amtlich; optional ergänzt `references/zitierweise.md` die Zitierweise. Zusätzliche Recherche- und Bearbeitungsvermerke getrennt vom Entscheidungstext halten.
 
-Der Tenor enthält zwingend: Hauptausspruch zur Sache, Kostenentscheidung, ggf. Aussprache zur vorläufigen Vollstreckbarkeit, ggf. Streitwertfestsetzung.
+Liefere vollständige, präzise Sätze mit echten Umlauten und ausgeschriebenem Paragraf. Dezimal gliedern; bei formatierten Dokumenten möglichst Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Default.
 
-### 3. Tatbestand oder Sachverhalt
+Kontrolliere die Übereinstimmung von Anmeldung, Urkunden, Gründen und Verfügungssatz sowie die erforderlichen Kosten- und Belehrungsangaben. Eine noch entscheidungserhebliche Lücke verhindert die Bezeichnung als unterschriftsreife Endfassung, nicht die Bearbeitung aller übrigen Teile.
 
-Knappe, sachlich-distanzierte Darstellung des unstreitigen Sachverhalts und des streitigen Parteivortrags. Bei Beschlüssen entsprechend „Gründe I."; bei Strafurteilen die Feststellungen zum Tatgeschehen. Verwende den Imperfekt für Geschehensschilderung, das Präsens für Antrag und Verfahrensstand.
+## 1.6 Beispiel und Grenzen
 
-### 4. Entscheidungsgründe
+Wird ein zunächst fehlender Vertretungsnachweis vorgelegt, prüfe seinen Inhalt und ändere die Zwischenverfügung nicht bloß redaktionell: Entscheide im Entwurf, ob die Anmeldung nun eintragungsreif ist oder welches konkrete Hindernis verbleibt.
 
-Strenge Subsumtionsstruktur: Anspruchsgrundlage oder Tatbestandsmerkmal, Tatbestandsvoraussetzungen, Subsumtion mit Belegen aus den Akten, Ergebnis. Einreden und Einwendungen am Ende der jeweiligen Prüfungsebene. Bei Strafurteilen Beweiswürdigung und Strafzumessung getrennt darstellen.
-
-### 5. Nebenentscheidungen
-
-Kosten, vorläufige Vollstreckbarkeit, Streitwertfestsetzung. Bei Familien- und Sozialsachen die jeweils einschlägigen Kostenregeln.
-
-### 6. Rechtsmittelbelehrung
-
-Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat. Niemals weglassen, niemals abkuerzen.
-
-### 7. Unterschriftenzeile
-
-Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
-
-## Prozessuale Glanzkontrolle
-
-Vor der finalen Entscheidung wird zwingend geprüft:
-
-1. Eintragung, Zwischenverfügung und Zurückweisung sind sauber getrennt.
-2. Das Hindernis ist konkret, behebbar oder unbehebbar eingeordnet und mit Frist versehen.
-3. Anhörung und rechtliches Gehör sind gewahrt.
-4. Der Prüfungsumfang ersetzt keine streitige Zivilentscheidung.
-5. Beschwerde und Abhilfe werden mit tragender Begründung behandelt.
-
-## Format und Stil
-
-- Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).
-- Sachlich, knapp, in deutscher Gerichtssprache.
-- Generisches Maskulinum.
-- Paragrafenzeichen ausgeschrieben als „Paragraf".
-- Aktenzeichen Punkt- oder Schrägstrich-Stil, niemals Komma.
-- Keine Doppelsterne für Fettschrift im Fliesstext.
-
-## Ergebnis
-
-Ein vollständiger, versandfertiger Entscheidungstext, der von Rubrum bis Unterschrift alles enthält. Der Spruchkörper kann ihn unterschreiben — oder vor der Unterschrift redaktionell pruefen. Bei offenen Lückenpunkten bleibt der Volltext stehen, die Lücken werden in eckigen Klammern markiert und am Ende in einer Lücken-Liste zusammengefasst.
-
-## Eigenkontrolle
-
-Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
-
-1. Stimmt der Tenor mit den Entscheidungsgründen überein?
-2. Ist die Kostenentscheidung folgerichtig?
-3. Ist die Rechtsmittelbelehrung vollständig und richtig?
-4. Sind alle Parteibezeichnungen einheitlich?
-5. Sind alle Daten, Aktenzeichen und Betraege widerspruchsfrei?
-6. Sind alle Lückenpunkte explizit markiert?
-
-Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+Aktengeheimnis und richterliche Unabhängigkeit wahren; Unterzeichnung und Registervollzug bleiben den zuständigen Menschen vorbehalten. Externe Übermittlung nur nach ausdrücklicher Freigabe. Fehlende Zugriffe und nicht erzeugte Dateien offen benennen.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 
@@ -478,95 +425,53 @@ Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkund
 
 _Für 01 Anmeldung Prüfen Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# 01 Anmeldung Prüfen Zuständigkeit
+# 1 Registeranmeldung prüfen
 
-## Direktstart: lesen, entscheiden, liefern
+Prüfe Anmeldung, Anlagen und Registerstand und erstelle den beauftragten gerichtlichen Vermerk oder Verfügungsentwurf. Eine erneute Aufnahme bekannter Angaben oder eine Beratung der anmeldenden Partei ist nicht erforderlich.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1 Eingaben und Zuständigkeit
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Bestimme Registerart, Gesellschaftsform, Sitz, Registerblatt und angemeldete Tatsache. Prüfe die Zuständigkeit nach dem FamFG und die funktionelle Verteilung nach dem RPflG; Paragraf 17 RPflG enthält Richtervorbehalte und ist keine pauschale Zuständigkeitszuweisung an den Rechtspfleger.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Lies Anmeldung, Beglaubigung, Vertretungsnachweis und vorgeschriebene Anlagen. Prüfe die konkrete Form nach Paragraf 12 HGB. Für GmbH, AG, Genossenschaft, Partnerschaft und Verein gelten unterschiedliche materielle Anforderungen nach GmbHG, AktG, GenG, PartGG beziehungsweise BGB; HRV und FamFG ergänzend einbeziehen.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2 Eintragungsvoraussetzungen und Hindernisse
 
-## Zweck
+Gleiche jede beantragte Eintragung mit Urkunde und aktuellem Registerstand ab. Prüfe bei einer Firma die Anforderungen der Paragrafen 17 ff. HGB einschließlich der registerbezogenen Unterscheidbarkeit. Bei einer GmbH-Gesellschafterliste die Vorgaben des Paragrafen 40 GmbHG gesondert behandeln; die Listenaufnahme ist keine abschließende Entscheidung über Anteilseigentum.
 
-Prüfung der Anmeldung: Formerfordernis (notarielle Beglaubigung Paragraf 12 HGB), Aktivlegitimation, Vollständigkeit der Anlagen, örtliche und sachliche Zuständigkeit Paragraf 376 FamFG i.V.m. RPflG
+Fehlt eine Anlage, frage nach genau dieser Urkunde, nicht erneut nach sämtlichen Gründungsunterlagen. Unterscheide fehlenden Nachweis, widersprüchlichen Inhalt und materielles Hindernis. Bei behebbaren Hindernissen eine Zwischenverfügung nach Paragraf 382 Absatz 4 FamFG mit konkretem Abhilfeweg und angemessener Frist entwerfen.
 
-## Rolle
+Nach Eingang der Antwort prüfen, welche Mängel beseitigt sind. Neue entscheidende Widersprüche gezielt klären; erledigte Fragen nicht wiederholen. Die davon unabhängigen Teile weiterbearbeiten und danach die bestellte Verfügung fertigstellen.
 
+## 1.3 Entscheidung und weitere Verfahren
 
-Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2 RPflG. Eintragung, Zwischenverfügung, Zurückweisung, FamFG-Beschwerde.
+Unterscheide Eintragung, Zwischenverfügung und ablehnenden Beschluss. Die Eintragung wird nach Paragraf 382 Absatz 1 FamFG erst mit dem Registervollzug wirksam; ein Entwurf darf keinen Vollzug behaupten. Bei einer Zurückweisung Gründe und erforderliche Belehrung ausarbeiten.
 
-## Rechtsrahmen
+Anhörung, Amtslöschung, Zwangsgeld und Beschwerde sind eigenständige Verfahrensschritte. Ein Zwangsgeldverfahren nach Paragraf 14 HGB und Paragrafen 388 ff. FamFG nur bei entsprechendem Gegenstand und geprüften Voraussetzungen vorbereiten. Bei Beschwerde neues Vorbringen, Abhilfe und Vorlage prüfen.
 
-HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
+Ungeklärte Zuständigkeit, Befangenheit oder fehlendes rechtliches Gehör konkret als Entscheidungsproblem benennen. Kein pauschaler Abbruch der übrigen Aktenauswertung; die menschliche Klärung oder Entscheidung aber nicht ersetzen.
 
-## Pflichtschritte
+## 1.4 Quellen und Rechtsprechung
 
-1. Anmeldung und Eintragungsgrundlage prüfen; Form und notarielle Beglaubigung (Paragraf 12 HGB) sowie Vertretungsnachweis kontrollieren.
-2. Materielle Eintragungsfähigkeit und Firmenrecht (Paragrafen 17 ff. HGB) prüfen.
-3. Bei behebbaren Hindernissen Zwischenverfügung mit angemessener Frist erlassen.
-4. Eintragungsverfügung erlassen oder Anmeldung mit Begründung zurückweisen.
-5. Bei Verstößen Zwangsgeldverfahren (Paragraf 14 HGB, Paragrafen 388 ff. FamFG) einleiten.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+Tragende Aussagen amtlich verifizieren. Folgende bestehende Suchanker betreffen unterschiedliche Fragen der Gesellschafterliste und sind vor fallbezogener Verwendung im Volltext samt Randnummer zu prüfen:
 
-## Output
+- BGH, Beschluss vom 20. September 2011, II ZB 17/10: Liste mit nur angekündigten Veränderungen; nicht als allgemeine Ermächtigung zur umfassenden Streitentscheidung verwenden.
+- BGH, Beschluss vom 17. Dezember 2013, II ZB 6/13: Einreichung durch einen Basler Notar und Gleichwertigkeit ausländischer Beurkundung.
+- BGH, Beschluss vom 26. Juni 2018, II ZB 12/16: zeitliche Anwendung geänderter Anforderungen an eine noch nicht aufgenommene Gesellschafterliste.
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+Amtliche Sucheinstiege: [II ZB 17/10](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&nr=58010), [II ZB 6/13](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&nr=66653), [II ZB 12/16](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&nr=86392). Eine bloße Trefferanzeige ersetzt keine vollständige Prüfung der Gründe. `references/zitierweise.md` ist optional.
 
-## Anker-Rechtsprechung
+## 1.5 Ausgabe
 
-- BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche Streitentscheidung.
-- BGH, Beschluss vom 17.12.2013 - II ZB 6/13, frei nachweisbar über dejure/openJur: Registerrechtliche Formprüfung, materielle Eintragungsvoraussetzungen und Beschwerdegegenstand sind getrennt zu behandeln.
-- BGH, Beschluss vom 26.06.2018 - II ZB 12/16, frei nachweisbar über dejure/openJur: Die Gesellschafterliste hat registerrechtliche Legitimationswirkung, klärt aber die materielle Anteilsinhaberschaft nicht endgültig.
-- Ständige Rechtsprechung zu Paragrafen 382 ff. FamFG: Zwischenverfügung, Zurückweisung und Beschwerde sind streng nach behebbaren und unbehebbaren Eintragungshindernissen zu trennen; konkretes Aktenzeichen vor Verwendung über das Bundesrechtsprechungsportal verifizieren.
+Liefere das bestellte Dokument in vollständigen Sätzen mit konkretem Ergebnis, erforderlicher Begründung und gegebenenfalls Nachforderung oder Wiedervorlage. Keine automatische Anschlussverfügung bei einem bloßen Prüfvermerk verlangen. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt und dezimale Gliederung.
 
-## Prüfungsschema in Stufen
+Bei entscheidenden Lücken die belastbaren Teile als vorläufigen Entwurf liefern und die benötigte Ergänzung separat nennen. Interne Quellenstatushinweise vom gerichtlichen Text trennen. Der optionale Skill `02-firmenrecht-pruefen` kann eine tatsächlich offene Firmenfrage vertiefen, ist aber keine Pflichtstation.
 
-1. Anmeldung Prüfen Zuständigkeit: Registerzweck, Publizitätswirkung und konkreten Entscheidungstyp festlegen.
-2. Anhörung, Amtslöschung, Zwangsgeld oder Beschwerde nicht vermengen.
-3. Eintragungshindernisse nach behebbar, unbehebbar und beweisbedürftig ordnen.
-4. Entscheidungssatz registerfähig, knapp und vollzugsorientiert formulieren.
-5. Rechtsmittel, Abhilfe und Geschäftsstelle mit klarer Wiedervorlage steuern.
+## 1.6 Beispiel und Grenzen
 
-## Typische Fallstricke
+Fehlt bei einem Geschäftsführerwechsel der Bestellungsbeschluss, entwirf die konkrete Nachforderung. Nach seiner Vorlage gleiche Bestellungsdatum und Vertretungsregel mit der Anmeldung ab und vervollständige die gewünschte Eintragungsverfügung oder begründe das verbliebene Hindernis.
 
-- Zwischenverfügung wird genutzt, obwohl das Hindernis nicht behebbar ist.
-- Gesellschafterlistenstreit wird wie eine zivilprozessuale Eigentumsentscheidung behandelt.
-- Firmenrechtliche Unterscheidbarkeit wird nur sprachlich, nicht registerbezirklich geprüft.
-- Registerakten enthalten vertrauliche Unterlagen; Paragraf 353b StGB und Paragraf 43 DRiG bleiben Sperren.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Es wird darauf hingewiesen, dass der Eintragung derzeit [konkretes Hindernis] entgegensteht. Das Hindernis kann binnen [Frist] durch Vorlage von [Unterlage] in registerfähiger Form behoben werden.
-```
-
-### Baustein B
-
-```text
-Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwischenverfügung vom [Datum] nicht nachgewiesen ist.
-```
-
-## Benachbarte Skills
-
-- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-firmenrecht-pruefen` - Folgeskill nutzen, sobald Anmeldung Prüfen Zuständigkeit entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Registergericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Zwischenverfügung, Eintragung, Zurückweisung oder Beschwerdevorlage; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 8, 12, 16 HGB, Paragrafen 382 ff. FamFG und Paragrafen 40, 78 GmbHG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+Aktengeheimnis, richterliche Unabhängigkeit und menschliche Letztentscheidung wahren. Keine Unterschrift, Eintragung oder Einleitung eines Verfahrens simulieren; externe Handlungen bedürfen ausdrücklicher Freigabe. Unlesbare Unterlagen oder fehlende Zugriffe konkret benennen und die unabhängigen Teile weiterbearbeiten.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "luftrecht-flughafenrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/luftvg/__6.html",
@@ -15,13 +15,22 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Der gesamte Mini ordnete Objektarten sinnvoll, blieb bei Fachbelegen allgemein und enthielt sachfremde Insolvenzketten. Der Planungsskill verlangt sogar Pfandrechtsunterlagen unabhängig vom Fall.",
+    "verdict": "retained",
+    "reason": "Mini vollständig schlussgelesen: Betriebsänderung, Prognosevergleich und gezielte Nachforderung führen bereits zum bestellten Dokument; keine pauschalen Register- oder Fristpflichten. Keine neue rechtliche Quellenprüfung und kein Live-Modelltest.",
     "changes": [
-      "Baulichen und betrieblichen Änderungsvergleich eingeführt.",
-      "Pauschale Registeranforderungen und Rechtsbehelfsannahmen ausgeschlossen."
+      "Bestehende fallbezogene Genehmigungsprüfung und Fortsetzung unverändert beibehalten."
     ],
-    "sha256": "4071e7b49659a429c051fa4631aa3728b9a3b201c77d9f0439e08998be0ca0a0"
+    "sha256": "cdb3085a45a2082b24c71023661565721e8a33b31bcfdf540d3a82d25ae49495"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig gelesen. Ältere Routen widersprachen der fallbezogenen Register-, Lärm- und Fristenprüfung im Mini. Diese Widersprüche gezielt bereinigt; ausführliche Übersichtsstruktur nicht vollständig neu geschrieben. Sonstige Fachhinweise bleiben vor Verwendung am geltenden Recht zu prüfen.",
+    "changes": [
+      "Lärmwerte und Anspruchsberechtigung nicht mehr pauschal vorgegeben, sondern an Festsetzung und Flugplatzart gebunden.",
+      "Sachfremde Registerpflichten bei Bodenabfertigung, Drohnen und Ersatzteillagern sowie pauschale Rechtsbehelfsfristen entfernt.",
+      "Fehlende Angaben führen zu konkreter Nachforderung und Fortsetzung; bestelltes Dokument statt obligatorischem Dossier oder bloß nächstem Schritt."
+    ],
+    "sha256": "940dc7222d014db197792f87491fe31fda11fc1d7a135483b97384d9bbc9b680"
   },
   "selection": {
     "positive": [

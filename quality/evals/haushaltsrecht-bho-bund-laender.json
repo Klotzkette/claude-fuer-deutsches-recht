@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "haushaltsrecht-bho-bund-laender",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bho/__38.html",
@@ -10,14 +10,13 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Die vorhandene Titelroute war brauchbar, enthielt aber keine überprüfbare Trennung von Jahresmitteln und Verpflichtungen.",
+    "verdict": "retained",
+    "reason": "Vollständige Textprüfung am 18. September 2026: Der Mini trennt Jahresmittel, offene Bindungen und Folgejahresermächtigung und aktualisiert nach Zahlungsplan oder Betriebskostennachweis die Rechnung und den bestellten Vermerk. Kein weiterer Eingriff erforderlich.",
     "changes": [
-      "Jahresmatrix und Schutz vor doppeltem Abzug bezahlter Bindungen ergänzt.",
-      "BHO-Anwendung gegenüber Landes- und Kommunalrecht abgegrenzt.",
-      "Fehlende Ermächtigung stoppt nur Freigabe, nicht Tatsachenarbeit."
+      "Schutz vor doppeltem Abzug bereits bezahlter Bindungen und automatischer BHO-Anwendung auf Länder erhalten.",
+      "Fehlende Ermächtigung begrenzt weiterhin die Freigabeempfehlung, nicht die unabhängige Tatsachenarbeit."
     ],
-    "sha256": "b7d029c7336677b6e8d5b69154c23420871c937c526c30dd0e7614f4123efe9b"
+    "sha256": "be26ce078b2535d5142d183a5f25cb7f953485f3810522fd63b3774af35e5000"
   },
   "selection": {
     "positive": [
@@ -62,5 +61,15 @@
       ],
       "target_skill": "verpflichtungsermaechtigung-titel-prue"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vollständige Werkstattprüfung am 18. September 2026: Allgemeine Tabellen und zwölf wiederholte Anforderungen einer vollständigen Haushaltsakte widersprachen der auftragsbezogenen Ausgabe. Zwei Grenzpunkte waren bloße Zustandsbeschreibungen statt klarer Prüfanweisungen.",
+    "changes": [
+      "Doppelte Raster entfernt und fachliche Inhalte in sieben Schritte von Titel und Folgejahren bis Rechnungsprüfung zusammengeführt.",
+      "Wirtschaftlichkeit, Vergabe, Zuwendung, Zahlungsprüfung und Rückforderung jeweils mit eigenen Nachweisen und Fortsetzung geführt.",
+      "Vollzugsgrenzen als klare Anweisungen formuliert; keine Zahlung, Bewilligung oder Abhilfe als bereits erfolgt dargestellt."
+    ],
+    "sha256": "2b1121e033ab4cde2f108e2a11e93b3d0c38966c0b63b538547c4a696776ed4f"
+  }
 }

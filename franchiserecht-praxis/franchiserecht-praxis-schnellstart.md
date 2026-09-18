@@ -11,16 +11,14 @@ Kernauftrag: Wirtschaftsrechtliches Plugin für Franchise-Systeme: vorvertraglic
 - Nur Prompt gestartet: Bei zugänglichem Material zwischen Geschäftsmodell und Parteien, Regelungsprogramm, Risikoallokation wählen; ohne konkreten Auftrag mit Geschäftsmodell und Parteien beginnen.
 - Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Geschäftsmodell und Parteien, Regelungsprogramm, Risikoallokation und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
-
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Fehlende entscheidende Angaben zu Gebühren, Systemleistungen, Gebiet oder Vertragsende gezielt erfragen, auch bei vorhandenen Unterlagen. Bekannte Antworten übernehmen; neue wesentliche Widersprüche erlauben eine weitere kurze Runde.
 
 ## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Hauptleistungspflichten müssen subsumtionsfähig beschrieben sein.
 2. Kernprüfung in einem Durchgang: Welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest; Welche Rechte werden wie weit eingeräumt und was bleibt vorbehalten.
-3. Belege und Engpass zusammenführen: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar; besonders kritisch ist: Der Vertragszweck oder die Leistungsbeschreibung ist unklar; ohne sie kein Klauseltext.
-4. Erstes Arbeitsprodukt liefern: vollständig ausformulierter Vertragsentwurf mit klar markierten offenen Parametern.
+3. Systemleistungen, Gebühren und Befugnisse mit Vertrag und Handbuch abgleichen. Unbekannte Parameter nicht als vereinbart behandeln; die betroffene Regelung offenlassen und gezielt klären.
+4. Den bestellten Vertragsentwurf, Prüfvermerk oder Brief ausformulieren; bei einer Einzelklauselprüfung keinen vollständigen Neuvertrag erzwingen.
 
 ## 1.3. Kernroute
 
@@ -58,16 +56,14 @@ Prüfe Preisbindung nach Artikel 4 Buchstabe a der Verordnung (EU) 2022/720: Ein
 - ZPO Paragrafen 935, 940 für Eilrechtsschutz, wenn Marken, Know-how, Kundendaten oder irreführende Fortnutzung sofort gestoppt werden sollen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGB Paragrafen 305 ff., besonders Paragrafen 307 bis 309: Transparenz, unangemessene Benachteiligung, überraschende Klauseln, einseitige Leistungsänderung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
-## 1.7. Antwortform
+## 1.7. Nachfordern und fertigstellen
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Regelungsfolge: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
-1.7.2. Regelungsanker: BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157; BGB Paragraf 305 bis Paragraf 310 mit Risikozuweisung und Vollzug verbinden.
-1.7.3. Aktenfund: Für „Geschäftsmodell und Parteien“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Risikozuweisung nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Vertragsentwurf“. Frist, Kernlücke und nächstem Dokument benennen.
+Fehlen der Gebührenkalkulation Umsatzdefinition oder Handbuchfassung, genau diese Angaben anfordern. Nach Eingang Gebühren, Pflichtinvestitionen und Änderungsbefugnisse neu abgleichen und die bestellte Klausel oder Vertragsfassung fertigschreiben. Widerspricht eine Standortprognose den Vergleichsbetrieben, Datenbasis und Zeitraum gezielt klären; eine prognostizierte Rendite nicht als garantiert behandeln.
 
-## 1.8. Stop
+Bei einem Ausstiegsauftrag Kündigungsgrund, Abmahnung, Zugang und noch laufende Systempflichten prüfen. Fehlende Korrespondenz nachfordern, danach die betroffene Bewertung und den bestellten Brief aktualisieren. Ein Gutachtenauftrag löst keine Kündigung und keinen Klageentwurf aus. Bei einem Hindernis die übrigen Teile vorläufig liefern und nach der Antwort fortsetzen. Interne Verhandlungsgrenzen und Quellenprüfvermerke getrennt vom Empfängertext halten.
 
-Nur bei diesem Stop-Punkt unterbrechen: Der Vertragszweck oder die Leistungsbeschreibung ist unklar; ohne sie kein Klauseltext. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Eine vorhandene Werkstatt kann optional vertiefen; dieser Prompt funktioniert ohne sie. Liefere vollständige Sätze und beim Export Times New Roman 11 pt mit dezimaler Gliederung. Versende oder reiche nichts eigenständig ein.
+## 1.8. Grenzen und Arbeitsmittel
+
+Ungeklärte Leistungen oder Vertragszwecke nicht erfinden; nur die abhängige Regelung offenlassen. Werkstatt und weitere Skills sind optional. Vollständige Sätze, beim Export Times New Roman 11 pt und dezimale Gliederung; keine eigenmächtige Erklärung oder Einreichung.
+
+Nur verfügbare Werkzeuge nutzen, fehlenden Zugriff konkret benennen. Bei technischen Fehlern einen sinnvollen Alternativweg versuchen, sonst den bearbeitbaren Stand sichern; ohne Export Text liefern, keinen Dateilink erfinden. Ungeprüfte Teile nicht als freigegeben ausweisen.

@@ -149,43 +149,39 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 _Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle._
 
-# Einstieg und Routing
+# 1 Anliegen der Rechtsberatungsstelle bearbeiten
 
-## Einsatzlage
+Ordne das vorgelegte Anliegen dem Beratungsumfang der Stelle zu und arbeite bis zur beauftragten Beratung oder zum gewünschten Schreiben. Nutze vorhandene Unterlagen, statt die ratsuchende Person erneut vollständig zu befragen.
 
-Dieser Einstieg routet **Rechtsberatungsstelle** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+## 1.1 Beratungsauftrag und Dringlichkeit
 
-## Fachlandkarte dieses Plugins
+Bestimme aus der Akte Beratungsziel, Gegenüber und Verfahrensstand. Prüfe, welche konkrete Frist durch einen Bescheid, eine Kündigung oder eine Zahlungsaufforderung ausgelöst sein könnte. Fehlt der vollständige Bescheid oder der Zugangsnachweis, fordere dieses Dokument gezielt an und kennzeichne die vorläufige Fristbewertung.
 
-- `anlaufstellen-beweislast-anleiter-bono` — Anlaufstellen Beweislast Anleiter Bono
-- `anleiter-formular-portal-und-einreichung` — Anleiter Formular Portal und Einreichung
-- `anleiter-pruefwarteschlange` — Anleiter Prüfwarteschlange
-- `anpassen` — Anpassen
-- `anschluss-router` — Anschluss Router
-- `bono-erstpruefung-und-mandatsziel` — Bono Erstpruefung und Mandatsziel
-- `briefe-erstberatung-rdg-konform` — Briefe Erstberatung RDG Konform
-- `einarbeitung` — Einarbeitung
-- `einfache-sprache-briefe` — Einfache Sprache Briefe
-- `entwurf-einarbeitung-einfache-sprache` — Entwurf Einarbeitung Einfache Sprache
-- `erstberatung-rdg-grenzen-und-triage` — Erstberatung RDG Grenzen und Triage
-- `erzeugung-leitfaden-erstellen-mandanten` — Erzeugung Leitfaden Erstellen Mandanten
-- `fristen-fristenkontrolle-rdg` — Fristen Fristenkontrolle RDG
-- `dokumente-intake` — Dokumente Intake
-- `output-waehlen` — Output Waehlen
+Kläre fehlende Angaben zur Beratungsbefugnis des Trägers und zur qualifizierten Anleitung nach dem einschlägigen RDG-Tatbestand. Die Befugnis zur Beratung ersetzt keine Befugnis zur gerichtlichen Vertretung.
 
-## Arbeitsweg
+## 1.2 Passenden Arbeitsgang ausführen
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Rechtsberatungsstelle sind RDG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+Für die Prüfung des Beratungsumfangs kann optional `erstberatung-rdg-grenzen-und-triage` unterstützen. Bei fehlenden Unterlagen ist `dokumente-intake`, bei einer konkreten Frist `fristen-fristenkontrolle-rdg` eine optionale Vertiefung. Das Benennen eines Skills beendet die Bearbeitung nicht.
 
-## Qualitätsanker
+Bei einem Briefauftrag prüfe Anspruch oder Einwendung und schreibe den Brief aus. Optional helfen `briefe-erstberatung-rdg-konform` oder `einfache-sprache-briefe`; verständliche Sprache darf rechtliche Vorbehalte und Fristen nicht verschleiern. Eine erforderliche Prüfung durch die Anleitung kann mit `anleiter-pruefwarteschlange` vorbereitet, aber nicht als tatsächlich erfolgt behauptet werden.
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+## 1.3 Fehlende Angaben und Fortsetzung
+
+Fehlt ein anspruchsrelevanter Beleg, benenne ihn mit seinem Zweck: etwa Kontoauszug zur Zahlung oder vollständiger Bescheid zur Ablehnungsbegründung. Liefere bereits belastbare Teile vorläufig. Nach Eingang der Antwort aktualisiere die betroffene Begründung oder Rechnung und vervollständige das bestellte Dokument.
+
+Weitere Fragen nur, wenn die neue Antwort eine entscheidende Unklarheit erkennen lässt. Bei Überschreitung der Beratungsbefugnis bereite eine konkrete Übergabe mit Frist, Sachstand und benötigten Unterlagen vor, ohne eine fremde Mandatsübernahme zu unterstellen.
+
+## 1.4 Quellen und Ergebnis
+
+Tragende Rechtsaussagen in amtlichen Quellen prüfen; optionale Ergänzungen stehen in `references/quellenhygiene.md` und `references/zitierweise.md`. Nicht überprüfte Fundstellen nicht als gesichert behandeln.
+
+Liefere vollständige Sätze statt einer bloßen Weiterleitungsliste. Der gewünschte Dateiname geht vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt und dezimale Gliederung. Interne Quellen- und Freigabehinweise vom Empfängertext trennen.
+
+## 1.5 Beispiel und Grenzen
+
+Liegt eine Kündigung vor, kläre nur die noch fehlenden Angaben zu Zugang und Vertrag, prüfe den passenden rechtlichen Weg und schreibe danach den bestellten Beratungsbrief. Ein Gerichtsverfahren nicht ohne Auftrag vorbereiten.
+
+Vertrauliche Daten nur in freigegebenen Umgebungen verarbeiten. Nicht lesbare Dokumente konkret nachfordern; Versand oder Einreichung nur nach ausdrücklicher Freigabe.
 
 ---
 
@@ -193,64 +189,41 @@ Dieser Einstieg routet **Rechtsberatungsstelle** vom ersten Sachverhalt zu Rolle
 
 _Für Bono: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
-# Bono: Erstprüfung, Rollenklärung und Mandatsziel
+# 1 Pro-bono-Anliegen prüfen und Beratung ausarbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+Bearbeite die konkrete Rechtsfrage der ratsuchenden Person und formuliere die beauftragte Beratung oder das gewünschte Schreiben. Die unentgeltliche Bearbeitung bestimmt nicht das Sachgebiet: Eine studentische Beratungsstelle bearbeitet nicht automatisch einen Hochschulrechtsfall.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1 Auftrag aus der Akte bestimmen
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Lies vorhandene Korrespondenz, Bescheide und Verträge. Halte für die Bearbeitung fest, welches praktische Ziel verfolgt wird, wer beraten wird und ob bereits ein Verfahren läuft. Frage nur nach entscheidenden fehlenden Angaben; eine erneute Aufnahme bekannter Daten unterbleibt.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Prüfe vor der Übernahme, ob der Träger und die eingesetzte qualifizierte Person die konkrete Beratung nach dem RDG leisten dürfen. Unentgeltliche Rechtsdienstleistungen nach Paragraf 6 RDG, Mitgliederberatung nach Paragraf 7 RDG und berechtigte Stellen nach Paragraf 8 RDG sind zu unterscheiden. Ein Beratungsauftrag ist keine unbegrenzte Vertretungsvollmacht.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2 Fachfrage und Nachweise bearbeiten
 
-## Normenanker
+Bei einer Forderung prüfe Vertrag, Leistung, Fälligkeit und Einwendungen; gleiche Zahlungen mit dem verlangten Betrag ab. Fehlt eine Rechnung oder ist eine Zahlung streitig, fordere genau diesen Nachweis an und trenne behauptete von belegten Beträgen.
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Bei einem Bescheid prüfe vollständigen Inhalt, Zugang, Rechtsbehelfsbelehrung und den betroffenen Zeitraum. Fehlt der Zugangsnachweis, frage nach Zustellungsart und Datum, statt eine endgültige Frist zu erfinden. Bei drohendem Rechtsverlust benenne zugleich den erforderlichen qualifizierten Ansprechpartner.
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
-- `§ 16 HRG` — Prüfungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
+Nur bei einem tatsächlichen Studien- oder Prüfungsfall prüfe die einschlägige Hochschul- und Prüfungsordnung sowie die dazu relevanten Grundrechte und verwaltungsprozessualen Wege. Wissenschaftsfreiheit, Ausbildungsbezug und Bewertungsmaßstäbe sind keine allgemeinen Voraussetzungen einer Pro-bono-Beratung.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+## 1.3 Antworten in das Ergebnis einarbeiten
 
-## Arbeitsweg
+Erläutere eine noch offene entscheidende Frage mit ihrem konkreten Einfluss auf Anspruch, Frist oder Empfehlung. Bearbeite die übrigen Teile bereits vorläufig. Nach Eingang der Antwort gleiche sie mit den vorhandenen Belegen ab und ändere die betroffene Berechnung oder Begründung.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Setze anschließend die Beratung bis zum bestellten Ergebnis fort. Ergibt sich aus der Antwort eine weitere entscheidende Unklarheit, frage gezielt nach; keine starre Zahl von Rückfragen. Bei einem Gutachtenauftrag genügt die begründete Antwort, bei einem Briefauftrag ist der vollständige Brief zu liefern. Ein Klageentwurf entsteht nicht ungefragt.
 
-## Spezialwissen: Bono: Erstprüfung, Rollenklärung und Mandatsziel
-- **Normen-/Quellenanker:** RDG.
+## 1.4 Quellen und Ausgabe
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Verifiziere tragende Normen und Rechtsprechung in amtlichen Quellen; Entscheidungen mit Gericht, Datum, Aktenzeichen und überprüfbarer Fundstelle belegen. Literatur nur bei zugänglicher, tatsächlich geprüfter Quelle verwenden. `references/zitierweise.md` ist eine optionale Ergänzung.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+Schreibe das gewünschte Dokument in vollständigen Sätzen und adressatengerechter Sprache. Nutzerseitige Dateinamen haben Vorrang; `ergebnis.md` ist nur eine Ausweichbezeichnung. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt und dezimale Gliederung. Quellenstatus, interne Anleitung und verbleibende Nachweise gehören in eine getrennte Arbeitsnotiz, nicht in den versandfähigen Brief.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bono** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## 1.5 Beispiel und Verantwortungsgrenzen
+
+Bei einer bestrittenen Rechnung kläre, ob die Leistung bestellt und erbracht wurde, ordne einen nachgereichten Kontoauszug zu und formuliere danach die gewünschte Antwort auf die Forderung. Aus der ungeklärten Zahlung darf im ersten Entwurf keine feststehende Erfüllung werden.
+
+Notwendige fachliche Anleitung und Freigaben nicht als erfolgt darstellen. Externe Weitergabe, Versand, Einreichung, Anerkenntnis oder Verzicht nur nach ausdrücklicher Freigabe. Bei fehlendem Dateizugriff den konkreten lesbaren Auszug anfordern und den bisherigen Bearbeitungsstand erhalten.
 
 ---
 
@@ -500,44 +473,41 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 _Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle._
 
-# Kaltstart und Routing
+# 1 Beratung aufnehmen und zum Ergebnis führen
 
-## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+Bearbeite das Anliegen anhand der vorhandenen Unterlagen und erstelle die bestellte Beratung, das Schreiben oder eine begründete Übergabe. Unterscheide fachliche Hilfe, Finanzierung der Beratung und die Befugnis, für die ratsuchende Person tätig zu werden.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## 1.1 Akte und Beratungsbefugnis
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+Lies Bescheide, Verträge und frühere Antworten zuerst. Frage nur nach fehlenden Angaben zum Ziel, zum Verfahrensstand und zu entscheidenden Fristen. Bei einer laufenden Frist kläre insbesondere Zugang und vollständige Rechtsbehelfsbelehrung; eine ungeklärte Zustellung erlaubt keine endgültige Fristberechnung.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+Prüfe den konkreten Träger: Paragraf 6 RDG betrifft unentgeltliche Rechtsdienstleistungen, Paragraf 7 insbesondere bestimmte Mitgliederberatungen und Paragraf 8 die dort genannten Stellen. Behörden, Verbraucherzentralen und anerkannte Wohlfahrtsverbände nicht pauschal Paragraf 6 oder 7 zuordnen. Erforderliche personelle Voraussetzungen und qualifizierte Anleitung müssen tatsächlich bestehen.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+## 1.2 Beratung finanzieren oder weitervermitteln
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+Bei Beratungshilfe prüfe nach Paragraf 1 BerHG persönliche und wirtschaftliche Verhältnisse, andere zumutbare Hilfsmöglichkeiten und fehlende Mutwilligkeit. Das Antragsverfahren richtet sich nach Paragraf 4 BerHG. Wurde unmittelbar eine Beratungsperson aufgesucht, beachte die Möglichkeit und Frist eines nachträglichen Antrags nach Paragraf 6 Absatz 2 BerHG; einen vorherigen Berechtigungsschein nicht ausnahmslos verlangen.
 
-## Beratungsstellen-Kaltstart
-- **Beratungshilfe (BerHG):** Voraussetzungen § 1 BerHG (PKH-bedürftig, kein Beistand zumutbar, andere Hilfe nicht erreichbar); Antrag beim AG (§ 4 BerHG); Berechtigungsschein.
-- **Prozesskostenhilfe §§ 114 ff. ZPO:** Erfolgsaussicht und finanzielle Bedürftigkeit; PKH-Formular vollständig (Unterlagen Nachweis Einkommen/Vermögen/Belastungen).
-- **Rechtsberatung außerhalb der Anwaltschaft:** RDG (Rechtsdienstleistungsgesetz) — gemeinnützige Beratung nach § 6 RDG (z. B. Verbraucherzentrale, DGB, Caritas), Behörden nach § 7 RDG, Mietervereine § 7 Abs. 2 RDG, Studienberatung an Universitäten.
-- **Zuständigkeit Beratungsstellen:** Verbraucherzentrale (Vertrag, Versicherung), Mieterverein, Sozialverband (VdK, SoVD), Schuldnerberatung, MBE (Migrationsberatung), JMD (Jugendmigrationsdienst), Frauenhaus/-beratungsstelle.
-- **Eskalation:** Bei Klagefrist oder komplexem Sachverhalt → Verweis an Anwalt (PKH-Antrag mit anwaltlichem Beistand) oder Berufungsstelle.
-- Falle: Beratung außerhalb § 6 RDG (Vergütung, gewerblich) verstößt gegen RDG, kann mit Bußgeld bis 5.000 EUR (§ 20 RDG) geahndet werden.
+Für Prozesskostenhilfe prüfe die Voraussetzungen nach Paragrafen 114 ff. ZPO im einschlägigen Verfahren und die Angaben zu Einkommen, Vermögen und Belastungen. Fehlende Nachweise konkret benennen, nicht Bedürftigkeit unterstellen. Beratungshilfe und Prozesskostenhilfe beantworten nicht dieselbe Finanzierungsfrage.
+
+Je nach Anliegen kommen Verbraucherzentrale, Mieterverein, Sozialverband, Schuldnerberatung, Migrationsberatung, Jugendmigrationsdienst oder eine spezialisierte Schutz- und Beratungsstelle in Betracht. Prüfe deren tatsächlichen Aufgabenbereich und Erreichbarkeit. Bei drohendem Rechtsverlust oder einer Vertretung außerhalb der eigenen Befugnis bereite die zeitnahe anwaltliche Übergabe vor.
+
+## 1.3 Inhalt prüfen und nach Antworten fortsetzen
+
+Ordne die entscheidenden Tatsachen den Voraussetzungen des Anspruchs oder Rechtsbehelfs zu. Bei einer streitigen Zahlung frage nach dem zugehörigen Kontoauszug; bei einem Leistungsbescheid nach den konkret nicht berücksichtigten Einkommens- oder Bedarfsnachweisen. Ergänze keine vermuteten Tatsachen in ein Nachforderungsschreiben.
+
+Liefere während einer entscheidenden Lücke die bereits belastbaren Teile vorläufig. Nach der Antwort aktualisiere die betroffene Rechnung, Frist oder Begründung und schreibe das bestellte Dokument fertig. Wenn daraus eine weitere entscheidende Frage entsteht, kläre sie gezielt; keine starre Fragenzahl und keine erneute Aufnahme bekannter Daten.
+
+## 1.4 Quellen und Ausgabe
+
+Prüfe tragende Normen, Gerichtsentscheidungen und aktuelle Formulare in amtlichen Quellen. Literatur nur mit tatsächlich zugänglicher Fundstelle verwenden; optional ergänzt `references/zitierweise.md` die Zitierweise. Ungeprüfte Sanktionen oder pauschale Bußgeldbeträge nicht als Rechtsfolge behaupten.
+
+Liefere einen ausformulierten Beratungsbrief, Antragstext oder Übergabevermerk entsprechend dem Auftrag, nicht zwingend mehrere Tabellen. Nutzerseitige Dateinamen gehen vor; `ergebnis.md` ist nur der Default. Formatierte Dokumente verwenden nach Möglichkeit Times New Roman 11 pt und dezimale Gliederung. Interne Quellen- und Prüfhinweise separat halten.
+
+## 1.5 Beispiel und Grenzen
+
+Fehlen bei einer beantragten Beratungshilfe Nachweise über laufende Belastungen, fordere diese konkret an. Nach der Antwort ergänze die wirtschaftlichen Angaben und vervollständige den beauftragten Antrag; behaupte weder Bewilligung noch Einreichung.
+
+Erforderliche Anleitung und Vertretungsbefugnis nicht durch einen Haftungshinweis ersetzen. Vertrauliche Unterlagen nur in freigegebenen Umgebungen bearbeiten; nicht lesbare Stellen gezielt nachfordern. Versand, Einreichung und sonstige externe Handlungen bedürfen gesonderter Freigabe.
 
 ---
 
@@ -545,161 +515,63 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 _Für /kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle._
 
-# /kaltstart-interview
+# 1. Beratungsstelle einrichten oder gezielt weiterentwickeln
 
-## Direktstart: lesen, entscheiden, liefern
+## 1.1. Zweck
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Erstelle das bestellte Organisationsprofil für eine neue oder bestehende Beratungsstelle. Überarbeite bei einem Änderungsauftrag nur die betroffenen Abläufe, statt eine vollständige Neueinrichtung zu erzwingen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+## 1.2. Eingaben
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Lies vorhandenes Profil, Trägervorgaben, Beratungsangebot und bekannte Zuständigkeiten. Eine vorhandene CLAUDE.md kann als technische Konfigurationsdatei dienen, wenn ihre Bearbeitung beauftragt ist; sie ist keine Voraussetzung für ein Organisationskonzept. Übernimm bereits festgelegte Angaben zu Träger, Ort, Fachbereichen und Personal.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.3. Organisation schrittweise bestimmen
 
-## Triage zu Beginn
-1. Handelt es sich um eine Neugründung oder eine grundlegende Neuausrichtung der bestehenden Beratungsstelle?
-2. Welche Rechtsgrundlage gilt für die Beratungsstellenarbeit: § 6 Abs. 2 Nr. 2 RDG, § 8 RDG oder Tätigkeit unter zugelassenem Anwalt?
-3. Welche Fachbereiche sollen von Anfang an eingerichtet werden (Mietrecht, Sozialrecht, Aufenthaltsrecht)?
-4. Ist bereits eine CLAUDE.md vorhanden, die abschnittsweise ueberarbeitet werden soll?
+### 1.3.1. Befugnis und Träger
 
-## Zentrale Normen
-- § 6 Abs. 2 Nr. 2 RDG — Voraussetzungen für erlaubnisfreie Rechtsberatung in Beratungsstellen: Anleitungserfordernis und Unentgeltlichkeit
-- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des Anleiters: muss von Beginn an organisatorisch sichergestellt werden
-- § 203 Abs. 4 StGB — Einbeziehung Dritter (Studenten): Verschwiegenheitsvereinbarungen als Pflichtbestandteil der Ersteinrichtung
-- Art. 30 DSGVO — Verarbeitungsverzeichnis: muss vor Beginn der Datenverarbeitung erstellt werden
+Prüfe die tatsächliche Rechtsgrundlage: Paragraf 6 Absatz 2 RDG für entsprechende unentgeltliche Beratung, Paragraf 7 für einschlägige Vereinigungen oder Paragraf 8 für öffentliche und öffentlich anerkannte Stellen. Die Bezeichnung „Law Clinic“, „Verbraucherberatung“ oder „Pro Bono“ allein ersetzt diese Prüfung nicht.
 
-## Berufsrechtlicher Rahmen
+Bei Paragraf 6 Absatz 2 RDG muss die Leistung außerhalb enger persönlicher Beziehungen durch eine befugte Person, eine Person mit Befähigung zum Richteramt oder unter deren Anleitung erfolgen. Kläre tatsächliche Einweisung, Fortbildung, Einzelfallmitwirkung, Erreichbarkeit und Vertretung. Eine vorformulierte Bestätigung ist kein Nachweis gelebter Anleitung.
 
-- § 6 Abs. 2 Nr. 2 RDG: Die Organisation der Anleitungsstruktur muss sicherstellen, dass der Volljurist tatsächlich in der Lage ist, die Studentenn anzuleiten. "Formelle" Aufsicht ohne tatsächliche Prüfung genügt nicht; vgl. Krenzler, in: Krenzler (Hrsg.), RDG, 2. Aufl. 2021, § 6 Rn. 52.
-- § 43a Abs. 2 BRAO: Verschwiegenheitsorganisation muss bereits bei Einrichtung der Beratungsstelle mitgedacht werden (kein Mandantendaten-Upload in nicht abgesicherte Systeme).
-- § 203 Abs. 4 StGB: Einbeziehung Dritter (Studenten, externe IT) erfordert vertragliche Absicherung.
+### 1.3.2. Fachbereiche und Grenzen
 
-## Ablauf
+Übernimm die gewünschten Bereiche, etwa Asyl- und Aufenthaltsrecht, Sozialrecht, Miete, Verbraucherrecht, Arbeit oder Familie. Prüfe, welche personelle Sachkunde und welche Übergabewege dafür vorhanden sind. Ein weiter Beratungsumfang erfordert passende Anleitung; Straf- oder Gerichtsverfahren benötigen eine gesonderte Befugnis- und Kapazitätsprüfung.
 
-### Schritt 0: Bestehendes Profil prüfen
+Fehlt etwa eine Vertretung für eilbedürftige Aufenthaltsfälle, frage nach erreichbarer Zuständigkeit oder externer Kooperation. Nach Antwort passe Leistungsumfang, Vertretung und Fristenablauf gemeinsam an.
 
-Ist eine `CLAUDE.md` vorhanden?
-- Ja: "Ihr Profil ist bereits eingerichtet. Möchten Sie (a) das Profil anzeigen, (b) einen Abschnitt überarbeiten, oder (c) komplett neu starten (`--redo`)?"
-- Nein: Mit Schritt 1 beginnen.
+### 1.3.3. Prüfung und Lernen
 
-### Schritt 1: Beratungsstellentyp
+Lege nach Einzelfallbedarf fest, welche Entwürfe vor externer Verwendung geprüft werden müssen und wer bei knappen Fristen entscheidet. Unterscheide Fallaufnahme, internen Vermerk, Rechtsrat, Rechtsbehelf und Semesterübergabe. Ein technisches Freigabefeld ersetzt keine inhaltliche Mitwirkung.
 
-> Welche Art von Beratungsstelle richten Sie ein?
+Für Lehrsituationen kann die Beratungsstelle zwischen vollständigem Muster mit Besprechung, angeleiteter Ausarbeitung und fragender Lernbegleitung wählen. Ein real bestellter Mandantenbrief darf dadurch nicht als bloßes Textgerüst enden. Kläre eine abweichende pädagogische Vorgabe nur, wenn sie den Auftrag tatsächlich betrifft.
 
-Optionen (Mehrfachauswahl möglich):
-1. **Universitäre Refugee Law Clinic (RLC)** – Schwerpunkt Asyl/Aufenthaltsrecht; § 6 II Nr. 2 RDG
-2. **Studentische Rechtsberatung allgemein** – SGB II, Mietrecht, Verbraucherrecht; § 6 II Nr. 2 RDG
-3. **AnwVer / DAV Pro-Bono-Programm** – Zugelassene Anwälte, kein RDG-Problem
-4. **Verbraucherzentrale** – § 8 Abs. 1 Nr. 4 RDG (Sondererlaubnis)
-5. **Wohlfahrtsverband / Sozialberatung** (AWO, Caritas, Diakonie, DRK, Paritätischer) – § 8 Abs. 1 Nr. 4 RDG
-6. **Sonstiges** – Bitte beschreiben.
+### 1.3.4. Vertraulichkeit und Infrastruktur
 
-Erfasse auch: Hochschule / Trägerin, Stadt, seit wann aktiv, Anzahl aktiver Studentenr pro Semester.
+Bestimme Aktenzugriff, sichere Kommunikation, Rollen externer IT-Anbieter, Aufbewahrung und Löschung. Prüfe DSGVO, gegebenenfalls Artikel 28 und 30, sowie berufs- und strafrechtliche Verschwiegenheit nach der tatsächlichen Einbindung. Weder jeder Cloud-Anbieter noch jeder Datensatz ist ohne Prüfung derselben Kategorie zuzuordnen.
 
-### Schritt 2: Rechtsgrundlage bestätigen
+Paragraf 50 BRAO sieht für anwaltliche Handakten grundsätzlich sechs Jahre ab Ablauf des Kalenderjahres der Auftragsbeendigung vor, nicht pauschal fünf Jahre. Prüfe Anwendungsbereich, weitere Pflichten und Ausnahmen, bevor ein Löschkonzept festgelegt wird. Fehlen Anbietervereinbarung oder Zugriffsrollen, frage danach und aktualisiere nach Eingang die konkrete organisatorische Regel.
 
-Je nach Typ aus Schritt 1:
+### 1.3.5. Kontakte und Übergabe
 
-| Typ | Rechtsgrundlage | Pflichten |
-|---|---|---|
-| RLC / studentische Beratung | § 6 Abs. 2 Nr. 2 RDG | Unentgeltlichkeit, Anleitung durch Volljurist zwingend |
-| Verbraucherzentrale | § 8 Abs. 1 Nr. 4 RDG | Trägergebundene Erlaubnis; keine Einzelfallklage |
-| Sozialberatung (Verbände) | § 8 Abs. 1 Nr. 4 RDG | Satzungsgemäßer Auftrag erforderlich |
-| Pro-Bono (zugelassene Anwälte) | § 1 BRAO (volle Zulassung) | BRAO/BORA voll anwendbar |
+Erfasse passende Behörden, Gerichte, Dolmetschdienste und externe Beratung aus dem tatsächlichen örtlichen Angebot, etwa BAMF, Ausländerbehörde, Jobcenter oder Sozial- und Verwaltungsgericht. Verifiziere Zuständigkeiten; keine Kontaktstelle erfinden.
 
-> Bestätigen Sie: "Alle Beratungsleistungen erfolgen unentgeltlich. Die Studentenn stehen unter meiner tatsächlichen Anleitung. Ich nehme meine Aufsichtspflicht wahr." (§ 6 II Nr. 2 RDG)
+Regle den Semesterwechsel mit bestätigter Nachfolge, Zwischenvertretung, offenen Fristen und Mandanteninformation. Bei fehlender Nachfolge benenne die Zuweisungsentscheidung statt einen Fallabschluss vorzutäuschen.
 
-### Schritt 3: Fachbereiche
+## 1.4. Quellenpflicht
 
-> Welche Rechtsgebiete deckt Ihre Beratungsstelle ab?
+Prüfe RDG Paragrafen 6 bis 8 sowie einschlägige Datenschutz-, Verschwiegenheits- und Aufbewahrungsregeln amtlich. Keine ungeprüften Kommentarstellen oder pauschalen Pflichtzitate. Beachte references/zitierweise.md, soweit verfügbar.
 
-Optionen (Mehrfachauswahl):
-- [ ] Asyl- und Flüchtlingsrecht (AsylG, AufenthG)
-- [ ] Aufenthaltsrecht allgemein (AufenthG, FreizügG/EU)
-- [ ] SGB II / Bürgergeld
-- [ ] SGB XII / Grundsicherung im Alter
-- [ ] SGB IX / Eingliederungshilfe (inkl. § 76b SGB IX Geflüchtete)
-- [ ] Rentenrecht / SGB VI
-- [ ] Mietrecht (privat)
-- [ ] Mietrecht (Sozialwohnung / WoBindG)
-- [ ] Verbraucherrecht / AGB
-- [ ] Arbeitsrecht (Kündigung, KSchG)
-- [ ] Familienrecht (Unterhalt, Sorgerecht)
-- [ ] Strafrecht (nur eingeschränkt – an Fachanwälte verweisen)
-- [ ] Sonstiges: [Freitext]
+## 1.5. Ausgabe und Fortsetzung
 
-### Schritt 4: Aufsichtsmodell
+Liefere das beauftragte Profil oder Organisationskonzept in vollständigen Sätzen mit konkret benannten Abläufen. Fehlende Entscheidungen bleiben gekennzeichnet; nach Antwort ändere die betroffenen Regeln und stelle das Dokument fertig. Weitere kurze Rückfragen sind zulässig, wenn neue entscheidende Lücken auftreten; bekannte Angaben werden nicht erneut erhoben.
 
-> Wie möchten Sie das Aufsichtsmodell einrichten?
+Nutzerseitige Dateinamen und ausdrücklich beauftragte technische Pfade gehen vor. Ohne Dateivorgabe kann ergebnis.md verwendet werden. Formatierte Dokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung; zusätzliche Abrufvermerke stehen getrennt.
 
-**Prüfungsgates (Default, anpassbar):**
+Weitere Fachleitfäden und Einarbeitung können optional ergänzen. Ohne Zugriff fordere die benötigte Vorgabe an, ohne Export liefere Text; behaupte keine erfolgte Einrichtung von Zugängen oder Freigaben. Externe Handlungen benötigen ausdrücklichen Auftrag.
 
-| Dokument | Default-Gate |
-|---|---|
-| Widerspruch (Fristen < 2 Wochen) | Sofortige Anleiterkonsultation |
-| Widerspruch (Frist > 2 Wochen) | Anleiter prüft vor Versand |
-| Klageschrift | Anleiter prüft und gibt frei (zwingend) |
-| Mandantenbrief mit Rechtsrat | Anleiter prüft vor Versand |
-| Intake-Protokoll | Anleiter nimmt Kenntnis |
-| Memo / Rechtsgutachten | Anleiter prüft inhaltlich |
-| Semesterübergabe | Anleiter muss bestätigen |
+## 1.6. Beispiel
 
-Anleiter kann Gates verschärfen (z. B. alle Dokumente) oder – für erfahrene Studenten – für bestimmte Routinedokumente lockern.
-
-### Schritt 5: Pädagogikhaltung
-
-> Wie lernen Studenten bei Ihnen am besten?
-
-| Haltung | Beschreibung | Geeignet für |
-|---|---|---|
-| **Ausführen** | Das System erstellt vollständige Entwürfe; Studenten analysieren und übergeben | Erfahrene Studenten (3.–5. Sem.), Routinedokumente |
-| **Anleiten** | Das System gibt Struktur und Schlüsselpunkte; Studenten füllen aus | Mittelstufe (2.–3. Sem.) |
-| **Lehren** | Das System stellt nur Fragen; Studenten erarbeiten Lösung | Anfangssemester, neue Fachgebiete |
-
-Default für gesamte Beratungsstelle + ggf. Übersteuern je Fachbereich / Dokumenttyp.
-
-### Schritt 6: Verschwiegenheitsorganisation
-
-> Wie ist die IT-Infrastruktur organisiert?
-
-- Werden Mandantendaten in einem Cloud-System verarbeitet? → Auftragsverarbeitungsvertrag (AVV) nach Art. 28 DSGVO erforderlich.
-- Wer hat Zugang zu den Mandantenakten?
-- Wie werden Akten nach 5 Jahren gelöscht (§ 50 BRAO Aufbewahrungspflicht)?
-- Einweisung der Studentenn in Verschwiegenheitspflichten? → Empfehlung: Schriftliche Verpflichtungserklärung zu § 203 StGB.
-
-### Schritt 7: Örtliche Besonderheiten
-
-> Welche örtlichen Kontexte sind wichtig?
-
-- Zuständige BAMF-Außenstelle?
-- Zuständige Ausländerbehörde?
-- Jobcenter-Bezirke / Träger (kommunal oder BA)?
-- Sozialgerichte / Verwaltungsgerichte mit Zuständigkeit?
-- Kooperationspartner (Dolmetscherdienste, andere Beratungsstellen, Pro-Bono-Initiativen)?
-- Qualifizierter Mietspiegel vorhanden? (Relevant: Berlin, Hamburg, München, Frankfurt, Köln)
-
-### Schritt 8: CLAUDE.md schreiben
-
-Ausgabe: vollständige, aktualisierte `CLAUDE.md` mit allen erhobenen Konfigurationswerten. Struktur wie im CLAUDE.md-Template vorgegeben.
-
-Anschließend empfehlen:
-- `/rechtsberatungsstelle:leitfaden-erstellen` für jeden konfigurierten Fachbereich
-- `/rechtsberatungsstelle:einarbeitung` – Testlauf aus Studentenn-Perspektive
-
-## Risiken / typische Fehler
-
-- **Anleitungsstruktur nur auf dem Papier:** § 6 Abs. 2 Nr. 2 RDG verlangt tatsächliche, nicht nur formelle Anleitung. Ein Anleiter, der monatlich einmal ins Büro schaut, genügt nicht.
-- **Fachbereiche zu weit gefasst:** Eine Beratungsstelle, die alles anbietet, kann nichts gut anbieten. Lieber weniger Bereiche mit klarer Gate-Struktur als viele Bereiche mit Qualitätslücken.
-- **IT-Sicherheit nicht mitgedacht:** Cloud-Systeme ohne AVV verletzen DSGVO Art. 28. Besonders kritisch bei Asylsuchenden (Art. 9 DSGVO: besondere Kategorien).
-- **Semesterwechsel nicht organisiert:** Ohne klare Übergaberegeln fallen Mandate zwischen den Semestern durch. `/rechtsberatungsstelle:semester-übergabe` muss im Ablaufplan verankert sein.
-
----
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Eine bestehende Beratungsstelle will künftig Mietfälle bearbeiten; die bisherige Anleitung deckt nur Sozialrecht ab. Frage nach der fachlich zuständigen Person und Vertretung, statt das gesamte Profil neu aufzunehmen. Nach Klärung ergänze Annahmegrenzen, Prüfablauf und Übergabe und liefere die vollständige geänderte Fassung.
 
 ---
 

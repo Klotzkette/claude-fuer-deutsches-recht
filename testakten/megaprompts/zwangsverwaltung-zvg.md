@@ -153,7 +153,7 @@ _Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Erg
 
 ## Einsatzlage
 
-Dieser Einstieg routet **Zwangsverwaltung Zvg** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Bearbeite den konkreten Übernahme-, Bewirtschaftungs- oder Abrechnungsauftrag aus Beschluss und Objektunterlagen. Bereits bekannte Rolle, Zeitraum und gewünschtes Dokument nicht erneut abfragen.
 
 ## Fachlandkarte dieses Plugins
 
@@ -175,17 +175,18 @@ Dieser Einstieg routet **Zwangsverwaltung Zvg** vom ersten Sachverhalt zu Rollen
 
 ## Arbeitsweg
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Zwangsverwaltung Zvg sind ZVG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+1. Lies Anordnungs- und Bestellungsbeschluss, Objektunterlagen und die für den Auftrag erforderlichen Verträge oder Konten. Bestimme beschlagnahmten Bestand und zeitlichen Umfang, bevor Einnahmen oder Maßnahmen zugeordnet werden.
+2. Bei Gefahr für Personen, Substanz oder Versorgung benenne dringliche Maßnahme, Zuständigkeit und Finanzierung. Unabhängige Teile des Berichts weiterbearbeiten; keine Befugnis oder Freigabe erfinden.
+3. Widersprechen sich Mietkonto und Zahlungseingang, frage nach Konto, Wertstellung und Verwendungszweck. Fehlt eine Reparaturgrundlage, fordere Angebot oder Leistungsnachweis konkret an.
+4. Nach Eingang Saldo, Liquiditätsbedarf und betroffene Schreiben aktualisieren. Zum bestellten Übernahmeprotokoll, Mieterbrief, Gerichtsbericht oder zur Rechnungslegung fortsetzen; weitere Fragen nur bei einer neuen entscheidenden Lücke stellen.
 
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Spezialskills sind optionale Vertiefungen; ihre Auswahl ersetzt nicht die Bearbeitung bis zum bestellten Ergebnis.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+Berichte und Schreiben vollständig ausformulieren, Konten nachvollziehbar abstimmen. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Keine Ausschüttung, Beauftragung, Gebotsabgabe oder Einreichung ohne ausdrückliche Freigabe; ein rechnerischer Rest ist noch kein rechtlich frei verfügbarer Betrag.
 
 ---
 

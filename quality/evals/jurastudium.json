@@ -1,17 +1,18 @@
 {
   "schema_version": 1,
   "plugin": "jurastudium",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der generische Akten- und Beweislastablauf passte nicht zu einer begrenzten Lernsitzung. Die Änderungen betreffen Lernmethodik, keine neuen materiell-rechtlichen Behauptungen.",
+    "reason": "Vollständig geprüft: Aufgabenbegrenzung und eigene Antwort bestimmen die nächste Rückmeldung; nach Überarbeitung wird die betroffene Subsumtion erneut geprüft. Die vorhandene begrenzte Lernrunde bleibt unverändert, ohne Notengarantie oder Prozessentwurf.",
     "changes": [
       "Lernziel, Prüfungsformat und verfügbare Zeit steuern die Sitzung.",
       "Trefferquote, Teilantworten und nächste Wiederholung getrennt; keine Notenprognose."
     ],
-    "sha256": "842f67724c9209cd0972a719cdc339e1bd5c00b3524b22b59fd80d4e6fc98ed9"
+    "sha256": "c6b25872d1487aadd4774512d0aac03386c0e7808ff58d5d4b62a66640a2744e"
   },
+  "workshop_review": {"verdict":"revised","reason":"Die vollständig gelesene Werkstatt enthält bereits einen passenden Lernablauf; die allgemeine Vorgabe eines Produkts nach jeder Station war für die vereinbarte Übungsrunde zu weit.","changes":["Definitionsfehler, Sachverhaltszuordnung und Schlussfolgerung als konkrete Rückmeldungsgegenstände gefasst.","Ergebnis auf vereinbarte Rückmeldung oder Übungsrunde statt zusätzliche juristische Entwürfe begrenzt."],"sha256":"d0cc472ea6bea258a365c92c5013867fc7fd9670fec4896e86406a672bd43064"},
   "selection": {
     "positive": [
       "Werte meine fünf Antworten aus und plane eine kurze Wiederholung.",

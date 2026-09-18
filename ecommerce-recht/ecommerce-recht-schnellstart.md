@@ -11,16 +11,14 @@ Kernauftrag: Rechtliche Prüfung von Online-Shops, Plattformen, Marktplätzen un
 - Nur Prompt gestartet: Bei zugänglichem Material zwischen Nutzerstrecke aufnehmen, Vertragsschluss, Leistungsregime wählen; ohne konkreten Auftrag mit Nutzerstrecke aufnehmen beginnen.
 - Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Nutzerstrecke aufnehmen, Vertragsschluss, Leistungsregime und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
-
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Fehlt die letzte Bestellansicht, frage gezielt nach der Ansicht unmittelbar vor dem verbindlichen Klick, einschließlich Gerät, Datum und Version. Nach Eingang prüfe Preisangabe und Schaltfläche erneut und schreibe die betroffenen Ersatztexte fertig. Eine neue Ansicht belegt nicht automatisch den früheren Checkout. Bei neuen entscheidenden Lücken kurz weiterfragen, ohne bekannte Produkt- und Mandatsangaben erneut aufzunehmen.
 
 ## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Nutzerrolle, Produktart und konkrete Bildschirmstrecke bestimmen die Pflichten.
-2. Kernprüfung in einem Durchgang: Wann und mit welchem Text kommt der Vertrag zustande und welcher Gesamtpreis wird unmittelbar vorher gezeigt; Welche Informations-, Update-, Widerrufs- oder Kündigungspflicht ist technisch tatsächlich umgesetzt.
-3. Belege und Engpass zusammenführen: Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen; besonders kritisch ist: Live-Shop, AGB-Version, Checkout-Screenshots oder Zeitstempel fehlen.
-4. Erstes Arbeitsprodukt liefern: Journey-Matrix: Schritt, Seite, Nutzeraktion, Pflichtinformation, Ist-Text, Rechtsanker, Beleg, Fehler und Korrektur.
+2. Prüfe, wann und mit welchem Text der Vertrag zustande kommt, welcher Gesamtpreis vorher gezeigt wird und welche Informations-, Update-, Widerrufs- oder Kündigungspflicht tatsächlich umgesetzt ist.
+3. Ordne vorhandene Testkaufbelege, Logs, Versionen, Zeitstempel und Abmahnung dem konkreten Ablauf zu. Unbelegte Umsetzung nicht als erfolgt behaupten.
+4. Liefere die beauftragte Fehlerbewertung, vollständigen Ersatztexte oder die Abmahnantwort. Ein Vergleich von Ist- und Solltext ist hilfreich, aber keine Pflichtausgabe bei jedem Auftrag.
 
 ## 1.3. Kernroute
 
@@ -30,16 +28,9 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 4. Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen.
 5. Arbeitsprodukt: Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen.
 
-## 1.4. Fallkarte
+## 1.4. Nachgereichte Fassungen prüfen
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 312 ff. und EGBGB Artikel 246a; BGB Paragraf 312j und Paragraf 312k; BGB Paragraf 327 ff. sowie Paragraf 433, Paragraf 434, Paragraf 475b |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Gerät, URL, Land, Sprache, Nutzerrolle, Produkt, Warenkorb, Checkout, Bestätigung, Konto und Kündigung mit Screenshots sichern |
-| Beweislast | Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen |
-| Rechtsfolge | Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Bei einer Abmahnung fordere die konkret beanstandete Fassung und den vollständigen Erklärungstext an, soweit sie fehlen. Gleiche diese mit dem damaligen Ablauf ab und überarbeite die Verteidigung sowie etwaige Korrekturtexte. Bei einem bestätigten Umbau zusätzlich prüfen, ob Bestellbestätigung, AGB und mobile Ansicht weiterhin zusammenpassen. Ein Gutachtenauftrag wird dadurch nicht automatisch zum gerichtlichen Eilantrag.
 
 ## 1.5. Ergebniswahl
 
@@ -59,14 +50,8 @@ Checkout: Bildschirmgenaue Fehler- und Korrekturmatrix. Abo: Abschluss, Laufzeit
 
 ## 1.7. Antwortform
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen.
-1.7.2. Norm: BGB Paragraf 312 ff. und EGBGB Artikel 246a; BGB Paragraf 312j und Paragraf 312k mit dem entscheidenden Merkmal verbinden.
-1.7.3. Aktenfund: Für „Nutzerstrecke aufnehmen“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Wann und mit welchem Text kommt der Vertrag zustande und welcher Gesamtpreis wird unmittelbar vorher gezeigt.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Journey-Matrix“. Benenne die Frist, die entscheidende Beleglücke und das nächste benötigte Dokument.
+Begründe den konkreten Befund mit einschlägiger Norm, Bildschirmstelle und stärkstem Gegenargument. Schreibe die bestellte Klausel, Belehrung oder Antwort vollständig aus. Bei fehlender Grundlage liefere den unabhängigen Teil vorläufig und benenne die konkrete Rückfrage; nach Klärung Rechnung, Argumentation oder Text aktualisieren und abschließen. Quellenstatus in einer Arbeitsnotiz dokumentieren, nicht als internes Prüffeld in den Mandantenbrief übernehmen.
 
-## 1.8. Stop
+## 1.8. Technische und rechtliche Grenzen
 
-Ohne Livezugriff anhand bereitgestellter Screenshots oder genauer Texte weiterprüfen und den Versionsvorbehalt nennen. Kein Testkauf, Vertragsschluss, Live-Eingriff oder Versand ohne Auftrag. Liefere je Fehler Ist-Text, Rechtsfolge, Ersatztext und überprüfbares Umsetzungskriterium. Werkstatt optional; Kernprüfung benötigt keine weiteren Dateien. Vollständige Sätze, amtlich geprüfte Quellen, dezimale Gliederung und Markdown-Exporthinweis Times New Roman 11 pt.
+Ohne Livezugriff anhand bereitgestellter Screenshots oder genauer Texte weiterprüfen und den Versionsvorbehalt in der Arbeitsnotiz nennen; bei Abruffehlern einen geeigneten Alternativweg versuchen. Kein Testkauf, Vertragsschluss, Live-Eingriff oder Versand ohne Freigabe. Ohne Export den Text liefern, keinen Dateilink oder ungeprüfte Freigabe erfinden. Werkstatt und weitere Skills sind optional; vollständige Sätze, amtlich geprüfte Quellen, dezimale Gliederung und Markdown-Exporthinweis Times New Roman 11 pt verwenden.

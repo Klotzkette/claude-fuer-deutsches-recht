@@ -1,17 +1,18 @@
 {
   "schema_version": 1,
   "plugin": "verbraucher-rechtsstaat-alltag",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {"url": "https://www.gesetze-im-internet.de/zpo/__692.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: keine inhaltliche Anspruchsprüfung im Mahnbescheid und Aufforderung zur Reaktion binnen zwei Wochen seit Zustellung."},
     {"url": "https://www.gesetze-im-internet.de/zpo/__694.html", "checked_on": "2026-09-14", "supports": "Amtlicher Suchabruf: schriftlicher Widerspruch beim erlassenden Gericht bis zur Verfügung des Vollstreckungsbescheids."}
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini leitete Laien trotz Gerichtspost zu AGB und Verbandsabmahnung. Die Werkstatt enthält dagegen lebensnahe Dokumentrouten; der gelesene Mahnbescheid-Skill verkürzte die Zweiwochenlage zu stark.",
-    "changes": ["Dokumentart und Zustellung als erste Weiche eingeführt", "Mahnung, Mahnbescheid und Vollstreckungsbescheid getrennt", "Widerspruchsempfänger und Bedeutung der Zweiwochenaufforderung erklärt", "Individuelle verständliche Antwort statt Verbandsverfahren vorgegeben"],
-    "sha256": "7f25c122327b2234c5a1bde96f1ae7d88ded217c17211d2074fb8f416aaaf505"
+    "reason": "Die Dokumentweiche ist tragfähig; nur einmalige Rückfrage und obligatorische Vorabsätze konnten den bestellten Antwortbrief verdrängen.",
+    "changes": ["Zustellungs- und Zahlungsnachweise gezielt mit anschließender Aktualisierung klären", "Weitere entscheidende Rückfragen ohne Wiederaufnahme zulassen", "Bestellten Antworttext statt Pflichtvorrede fertigstellen"],
+    "sha256": "99a93eaad1d26ade8af56cf1ba055545067e4861461a36c9b8c22ecd80104620"
   },
+  "workshop_review": {"verdict":"revised","reason":"Ganztextprüfung zeigte Widerrufs- und Vertragsabläufe auch für Familienkasse, Schulbehörde und Baunachbarpost.","changes":["Gerichtliche Mahnpost, Verträge und Behördenverfahren getrennt geführt","Kindergeldwege, Nebenkosten, Zahnarztkosten und Kleinanzeigenfälle individuell eingeordnet","Nachweise mit Frist-, Betrags- und Textaktualisierung bis zum fertigen Schreiben verbunden"],"sha256":"e0e78d9d2acbf4eea82e51f404eeb21d9f1b13e3eb01171100466d35d065ceeb"},
   "selection": {
     "positive": ["Erkläre mir den gelben Brief mit Mahnbescheid und bereite eine passende Reaktion vor.", "Ordne Rechnung, Inkassobrief und Behördenpost verständlich nach Frist und Empfänger."],
     "negative": ["Entwirf eine Verbandsklage für eine qualifizierte Verbraucherorganisation.", "Prüfe eine komplexe Unternehmenskaufgarantie zwischen zwei Gesellschaften."]

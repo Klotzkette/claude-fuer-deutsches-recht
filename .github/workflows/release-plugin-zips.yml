@@ -34,6 +34,11 @@ jobs:
       - name: Python-Abhängigkeiten installieren
         run: python3 -m pip install -r requirements.txt
 
+      - name: Versionsstände und Prüfprofile vor dem PDF-Build prüfen
+        run: |
+          python3 scripts/validate-root-readme-overview.py
+          python3 scripts/quality-lab.py audit
+
       - name: Layoutgetreue Office-PDF-Konvertierung bereitstellen
         run: |
           sudo apt-get update
@@ -117,6 +122,7 @@ jobs:
           python3 scripts/generate-werkstatt-und-schnellstart-prompts.py
           python3 scripts/test-prompt-generator-excerpts.py
           python3 scripts/test-prompt-routing-scope.py
+          python3 scripts/test-prompt-workflow-preservation.py
           python3 scripts/refine-speed-and-elegance.py
           python3 scripts/test-portable-starts.py
           python3 scripts/inject-streitstoff-beitrag-gerichtsplugins.py

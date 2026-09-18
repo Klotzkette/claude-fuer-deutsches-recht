@@ -1,13 +1,19 @@
 {
   "schema_version": 1,
   "plugin": "verkehr-infrastrukturrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [{"url": "https://www.gesetze-im-internet.de/pbefg/__28.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: Planfeststellung für Straßenbahnbetriebsanlagen samt Ausnahmen, begrenzte vorläufige Anordnung und Verhältnis zur Betriebsgenehmigung."}],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Mini und Werkstatt behandelten Infrastruktur fast nur wie Umweltanlagen. Der gelesene Straßenbahn-Skill trennt Bau und Betrieb, enthält aber unzuverlässige pauschale Fristen. Der Mini ordnete zudem Abschleppkosten falsch Paragraf 49a VwVfG zu.",
-    "changes": ["Verkehrsträgerbezogene Zulassung statt pauschalem BImSchG-Einstieg", "Bau, Betrieb und vorläufige Anordnung getrennt", "Reichweite der Anordnung mit Planblatt abgleichen", "Falschen Abschleppkostenanker und allgemeine Fristenübernahme entfernt"],
-    "sha256": "3c89959d674943f698125d2ca9f7a80f76310ecc19fd6eeace14dddd94dba001"
+    "verdict": "retained",
+    "reason": "Vollständig gelesen: Fehlende Lärmberechnung, Grunderwerbsplan oder Anordnung werden gezielt nachgefordert; neue Unterlagen ändern Schutzforderung und Begründung. Baubeginn priorisiert Rechtsschutz, stoppt aber nicht die übrige Prüfung. Beratung und Klageauftrag bleiben getrennt; Mini beibehalten.",
+    "changes": [],
+    "sha256": "a716d765d947ef39f80be3c5eab0acd1b2df6d1dde7bf6744cae5a3e27db7b53"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Vollständig gelesen: Planfassung, Betroffenheit, Fachbeiträge und tatsächlicher Bauumfang werden aufeinander bezogen. Nachgereichte Anschlussdaten, Gutachten oder Pläne verändern nur betroffene Bewertung und Textteile; Förderung, Vergabe und Vertragsfragen bleiben auftragsbezogen. Kein Widerspruch zur Fortsetzung bis zum verlangten Dokument gefunden.",
+    "changes": [],
+    "sha256": "d576a5c99bca3c6476983cf32c6b14e4d675b35388ddd2b321182497c03349eb"
   },
   "selection": {
     "positive": ["Prüfe, welche Bauarbeiten unsere vorläufige Straßenbahnanordnung tatsächlich erlaubt.", "Gleiche Trassenplan, Betriebsgenehmigung und Planfeststellungsstand ab."],

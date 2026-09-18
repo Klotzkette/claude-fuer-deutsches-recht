@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-bverfg-verfassungsbeschwerden",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bverfgg/__93a.html",
@@ -11,12 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Parteiseitige Beschwerdebegründung und generische Grundrechtsliste verfehlten die Kammerperspektive.",
+    "reason": "Der vollständige Mini wurde auf Kammerperspektive, Annahme und weitere Bearbeitung nach Aktennachreichung geprüft.",
     "changes": [
-      "Annahme, Zulässigkeit und Begründetheit getrennt.",
-      "Votum statt Beschwerdeschrift als Standardprodukt bestimmt."
+      "Einmalige Rückfragegrenze und Pflichtmatrix entfernt; Frist- oder Rügebewertung nach neuer Unterlage bis zum bestellten Votum fortsetzen."
     ],
-    "sha256": "384c1fa8e46ba5dec53838679f11a7fa66d9efac005890f71f1df341e62384c7"
+    "sha256": "11d7de8a698b6a10f9ff4cb27e07e267cd31161f7c225bb7e59e1474f98a972e"
   },
   "selection": {
     "positive": [
@@ -61,5 +60,13 @@
       ],
       "target_skill": "01-annahme-pruefung-paragraf-93a"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die ganze Werkstatt wurde auf Zulässigkeit, Annahme, spezifische Verfassungsverletzung und Entscheidungsbefugnis gelesen.",
+    "changes": [
+      "Parteisprache und doppelte Themenrouten entfernt; internen Annahmevermerk vom Nichtannahmebeschluss und seiner fehlenden Begründungspflicht getrennt."
+    ],
+    "sha256": "077a1984ecb80f1bdf4c822711a1f3b88184e6d8f622ea48bab98222cf1765ea"
+  }
 }

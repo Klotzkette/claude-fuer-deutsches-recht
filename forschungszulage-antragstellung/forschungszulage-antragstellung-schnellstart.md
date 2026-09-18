@@ -1,71 +1,50 @@
-# 1. Forschungszulage Antragstellung — Schnellstart
+# 1. Forschungszulage vorbereiten
 
-Bereite ein FuE-Vorhaben so auf, dass die Bescheinigungsstelle seine fachlichen Voraussetzungen und das Finanzamt die geltend gemachten Aufwendungen prüfen können.
+Bereite mein FuE-Vorhaben für die fachliche Bescheinigung und die Prüfung der geltend gemachten Aufwendungen vor. Erstelle den beauftragten Projekttext, die Berechnung oder die Antwort auf eine Nachforderung.
 
-Kernauftrag: Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Insolvenzlage, Dokumentation. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Unterlagen und Verfahrensstand
 
-## 1.1. Sofortstart nach Eingangslage
+Lies vorhandene Projektbeschreibungen, Arbeitspläne, Versuchsberichte, Zeitaufzeichnungen, Lohnunterlagen, Forschungsaufträge und bisherige Bescheide. Entnimm daraus Antragsteller, Vorhaben, Zeitraum und Verfahrensstand; bekannte Angaben nicht erneut erheben. Bestimme, ob FuE-Eigenschaft, BSFZ-Antrag, Aufwandsermittlung, Festsetzung oder eine konkrete Ablehnung bearbeitet werden soll.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegte Aufgabenbeschreibung, Datengrundlage, Quellen und Berechnungen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material bestimmen, ob das Vorhaben abzugrenzen, das Bescheinigungsverfahren vorzubereiten oder die Bemessungsgrundlage zu berechnen ist; ohne konkreten Auftrag mit der Abgrenzung des Vorhabens beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Trenne Eigen-, Auftrags- und Kooperationsforschung. Ordne Tätigkeiten dem tatsächlichen Vorhaben und Wirtschaftsjahr zu. Eine vorhandene Projektüberschrift oder eine vollständige Dateiablage belegt noch nicht die Fördervoraussetzungen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zur Abgrenzung des Vorhabens, zum Bescheinigungsverfahren, zur Bemessungsgrundlage und zum Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+## 1.2. FuE-Eigenschaft begründen
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Beschreibe technisches oder wissenschaftliches Ziel, Ausgangslage, Unsicherheit und systematisches Vorgehen. Erkläre anhand konkreter Arbeitspakete, warum die Tätigkeit über Routineentwicklung, bloße Anpassung oder Markteinführung hinausgeht. Erfolgsbehauptungen und Produktwerbung ersetzen weder technische Ungewissheit noch deren zeitnahe Dokumentation.
 
-## 1.2. Fachlicher Direktstart
+Fehlt die Unsicherheit zu Projektbeginn, frage nach damaligen Versuchen, verworfenen Lösungswegen oder Entwicklungsprotokollen. Eine spätere Erklärung als solche kennzeichnen, nicht als zeitgenössischen Beleg ausgeben. Nach Eingang Ziel, Methode und Arbeitspakete abgleichen und den bestellten BSFZ-Text entsprechend überarbeiten.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete technische oder wissenschaftliche Unsicherheit bestand zu Projektbeginn.
-2. Kernprüfung in einem Durchgang: Warum gehen die Tätigkeiten über routinemäßige Entwicklung, Markteinführung oder bloße Anpassung hinaus; Welche Person oder welcher Auftragnehmer arbeitete wann an welchem begünstigten Arbeitspaket.
-3. Belege und Engpass zusammenführen: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe; besonders kritisch ist: Projektzeitraum, technische Unsicherheit oder Arbeitspaket ist nicht durch zeitnahe Unterlagen belegt.
-4. Erstes Arbeitsprodukt liefern: FuE-Matrix: Ziel, Ausgangslage, Unsicherheit, Arbeitspaket, Methode, Ergebnis, Scheiternsrisiko, Person, Zeitraum und Beleg.
+## 1.3. Aufwand und Jahre abgleichen
 
-## 1.3. Kernroute
+Für Personalkosten Jahresaufwand, Gesamtarbeitsstunden, nachgewiesene FuE-Stunden und daraus abgeleiteten Anteil zeigen. Vertriebsarbeit, Routinewartung und begünstigte Entwicklung nicht zusammenrechnen. Fehlende Zeitnachweise sind eine konkrete Beleglücke, keine geschätzte Vollförderung.
 
-1. Vorhaben abgrenzen: technisches oder wissenschaftliches Ziel, Ausgangslage, Unsicherheit, systematisches Vorgehen, Arbeitspakete und Abgrenzung zur Marktreife erfassen.
-2. Bescheinigungsverfahren: Antragsteller, Projektzeitraum, Eigen-, Auftrags- oder Kooperationsforschung, BSFZ-Texte und Belege vorbereiten.
-3. Bemessungsgrundlage: förderfähige Löhne, Eigenleistung, Auftragsforschung, Wirtschaftsjahr, Höchstgrenze und Kumulierung positionsweise rechnen.
-4. Festsetzung und Prüfung: Bescheinigung, Finanzamtsantrag, Steuerbescheid, Aufzeichnungen, Beihilfen, Rückfragen und Abweichungen zusammenführen.
-5. Arbeitsprodukt: BSFZ-Projekttext, Arbeitspaketmatrix, Berechnung, Nachweisordner, Einspruch oder Mehrjahresfahrplan erstellen.
+Prüfe bei jeder Position Entstehungsjahr, Vorhabenbeginn und bei Auftragsforschung Auftragsdatum. Eigenleistung, Forschungsauftrag, anwendbare Quote, Höchstgrenze und Kumulierung getrennt berechnen. Bei Unternehmensverbindungen die einschlägige gemeinsame Begrenzung prüfen; KMU-Status nicht ungeprüft aus der Mitarbeiterzahl ableiten.
 
-## 1.4. Fallkarte
+Die Gemeinkostenpauschale nach Paragraf 3 Absatz 3b FZulG knüpft an nach dem 31. Dezember 2025 begonnene Vorhaben an, nicht bloß an einen Antrag im Jahr 2026. Den fachlichen BSFZ-Text von der rechnerischen Aufwandsermittlung trennen: Eine Bescheinigung bestätigt nicht jeden geltend gemachten Euro.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | FZulG Paragraf 1 und Paragraf 2; FZulG Paragraf 3 und Paragraf 4; FZulG Paragraf 5 und Paragraf 6 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Technisches oder wissenschaftliches Ziel, Ausgangslage, Unsicherheit, systematisches Vorgehen, Arbeitspakete und Abgrenzung zur Marktreife erfassen |
-| Beweislast | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe |
-| Rechtsfolge | BSFZ-Projekttext, Arbeitspaketmatrix, Berechnung, Nachweisordner, Einspruch oder Mehrjahresfahrplan erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.4. Nachfragen und weiterarbeiten
 
-## 1.5. Stunden- und Jahresabgleich
+Fehlt die Zuordnung einer Person zu einem Arbeitspaket, frage nach den betreffenden Stundenaufzeichnungen und Tätigkeiten. Fehlt bei Auftragsforschung der Vertragsbeginn, kläre Auftrag und Leistungsumfang. Nach Eingang die betroffenen Positionen neu berechnen und anschließend das bestellte Dokument vervollständigen.
 
-Für Personalkosten zeige Jahresaufwand, Gesamtarbeitsstunden, nachgewiesene FuE-Stunden und daraus abgeleiteten Anteil. Vertriebsarbeit, Routinewartung und begünstigte Entwicklung nicht unter einer Projektüberschrift zusammenrechnen. Fehlende Zeitnachweise bleiben eine Beleglücke, keine geschätzte Vollförderung.
+Weitere kurze Rückfragen sind möglich, wenn die Antwort eine neue entscheidende Lücke zeigt. Bereits geklärte Daten nicht nochmals erheben und Angaben nicht ungeprüft als Tatsachen übernehmen. Bei fehlenden Nachweisen unabhängig bearbeitbare Teile vorläufig liefern und nach Klärung dort fortsetzen.
 
-Prüfe für jede Position Entstehungsjahr, Vorhabenbeginn und bei Auftragsforschung Auftragsdatum. Die Gemeinkostenpauschale nach Paragraf 3 Absatz 3b FZulG knüpft an nach dem 31. Dezember 2025 begonnene Vorhaben an, nicht bloß an einen Antrag im Jahr 2026. Liefere getrennt den fachlichen BSFZ-Text und die rechnerische Aufwandsmatrix; eine Bescheinigung bestätigt nicht jeden geltend gemachten Euro.
+Bei einer BSFZ-Rückfrage die technische Begründung ergänzen; bei einer Kürzung durch das Finanzamt Kostenansatz und Nachweise prüfen. Rechtsbehelf, Bekanntgabe und Frist nach der konkreten Entscheidung bestimmen, nicht beide Verfahrensstufen gleich behandeln. Ein Beratungsauftrag führt nicht automatisch zu einem Einspruch.
 
-## 1.6. Anker
+## 1.5. Rechtsrahmen und Quellen
 
-- FZulG Paragraf 1 und Paragraf 2: Anspruchsberechtigung und begünstigte Grundlagenforschung, industrielle Forschung oder experimentelle Entwicklung.
-- FZulG Paragraf 3 und Paragraf 4: förderfähige Aufwendungen, Bemessungsgrundlage und Höhe der Forschungszulage nach dem maßgeblichen Zeitraum.
-- FZulG Paragraf 5 und Paragraf 6: Antrag auf Forschungszulage und Bescheinigung des begünstigten Vorhabens.
-- FZulG Paragraf 7 bis Paragraf 10: Kumulierung, Begünstigungszeitraum, unionsrechtliche Vorgaben, Festsetzung und Leistung.
-- Art. 107 Abs. 1 AEUV — Beihilfebegriff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Bei Abtretung oder Insolvenz zusätzlich Anspruchsinhaber, Verfügungsbefugnis und Aufrechnung anhand des konkreten Verfahrensstands prüfen.
+Prüfe die maßgeblichen Fassungen anhand amtlicher Quellen:
+- Paragrafen 1 und 2 FZulG: Anspruchsberechtigung und begünstigte Forschung oder experimentelle Entwicklung.
+- Paragrafen 3 und 4 FZulG: förderfähige Aufwendungen, Bemessungsgrundlage und Zulagenhöhe nach dem maßgeblichen Zeitraum.
+- Paragrafen 5 und 6 FZulG: Antrag und Bescheinigung.
+- Paragrafen 7 bis 10 FZulG: Kumulierung, Begünstigungszeitraum, unionsrechtliche Vorgaben, Festsetzung und Leistung.
+- Artikel 107 Absatz 1 AEUV: Beihilfebegriff, soweit die konkrete Frage dies erfordert.
 
-## 1.7. Antwortform
+Amtliche Ausgangspunkte sind das [FZulG](https://www.gesetze-im-internet.de/fzulg/) und die [Informationen zum Antragsverfahren](https://www.bescheinigung-forschungszulage.de/antragsverfahren/ueber-das-antragsverfahren). Bei Abtretung oder Insolvenz Anspruchsinhaber, Verfügungsbefugnis und Aufrechnung nach dem Verfahrensstand prüfen; keine sichere Liquidität aus einem noch ungeklärten Anspruch versprechen. Rechtsprechung nur bei überprüftem Inhalt verwenden, keine Aktenzeichen erfinden.
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erstes belastbares Ergebnis: BSFZ-Projekttext, Arbeitspaketmatrix, Berechnung, Nachweisordner, Einspruch oder Mehrjahresfahrplan erstellen.
-1.7.2. Maßstab: FZulG Paragraf 1 und Paragraf 2; FZulG Paragraf 3 und Paragraf 4 mit der entscheidenden Bewertungsfrage verbinden.
-1.7.3. Materialfund: Für die Abgrenzung des Vorhabens Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Warum gehen die Tätigkeiten über routinemäßige Entwicklung, Markteinführung oder bloße Anpassung hinaus.
-1.7.6. Erwiderung: Gegenbeleg, Alternativhypothese oder Bewertungsmaßstab nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich eine FuE-Matrix. Frist, entscheidende Beleglücke und nächsten Prüfschritt benennen.
+## 1.6. Ergebnis und Grenzen
 
-## 1.8. Stop
+Liefere das bestellte Dokument mit dem gewünschten Dateinamen. Portaltexte müssen die tatsächlich geltenden Feld- und Zeichenbegrenzungen einhalten; Rechnungen Eingaben, Rechtsfassung, Zwischenschritte und Ergebnis nachvollziehbar zeigen. Tabellen oder Nachweisordner nur soweit für den Auftrag erforderlich erstellen.
 
-Nur bei diesem Stop-Punkt unterbrechen: Projektzeitraum, technische Unsicherheit oder Arbeitspaket ist nicht durch zeitnahe Unterlagen belegt. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Eine vorhandene Werkstatt kann optional vertiefen; dieser Prompt funktioniert ohne sie. Liefere vollständige Sätze und beim Export Times New Roman 11 pt mit dezimaler Gliederung. Versende oder reiche nichts eigenständig ein.
+Kontrolliere Übereinstimmung von Projektbeschreibung, Bescheinigung, Kostenrechnung und Beihilfenangaben. Technische Quellenvermerke und offene Recherchefragen stehen getrennt vom Mandantenbrief oder Portaltext. Keine Einreichung, Abtretung oder andere externe Erklärung ohne ausdrückliche Freigabe.
+
+Vollständige Sätze und dezimale Gliederung; Exporthinweis Times New Roman 11 pt. Ohne Zugriff konkrete Auszüge anfordern, ohne Export vollständigen Text liefern. Weitere Werkstatttexte und Skills sind optional; keine nicht durchgeführte Akten- oder Quellenprüfung behaupten.

@@ -5,6 +5,8 @@ description: "Für Kanzlei-Kontext-Analyse: ordnet Norm, Beweislast und Gegenarg
 
 # Kanzlei-Kontext-Analyse
 
+Ermittle aus den vorhandenen Richtlinien, Verträgen und Arbeitsabläufen, welche Anforderungen die konkrete Nutzung in der Kanzlei stellt. Liefere die bestellte Kontextanalyse oder überführe ihre Ergebnisse in den ausdrücklich beauftragten Richtlinienabschnitt.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -15,7 +17,7 @@ description: "Für Kanzlei-Kontext-Analyse: ordnet Norm, Beweislast und Gegenarg
 
 ## Spezialwissen
 
-Bevor eine KI-Nutzungsrichtlinie erstellt oder angepasst wird, muss der konkrete Kanzlei-Kontext systematisch erfasst werden. Größe, Rechtsgebiete, Mandantenstruktur und vorhandene IT-Infrastruktur bestimmen maßgeblich, welche Anforderungen an Datenschutz, Berufsrecht und Compliance gelten und wie streng die Richtlinie ausgestaltet sein muss.
+Verwende den bereits dokumentierten Kanzleikontext und ergänze nur, was die angefragte Nutzung oder Änderung betrifft. Größe, Rechtsgebiete, Mandantenstruktur und IT-Infrastruktur sind für die Anforderungen relevant; ein Änderungsauftrag verlangt aber nicht automatisch eine vollständige neue Bestandsaufnahme.
 
 ## Rechtlicher Hintergrund
 
@@ -32,7 +34,7 @@ Die DSGVO verpflichtet Verantwortliche nach Art. 5 Abs. 2 DSGVO zur Rechenschaft
 
 ## Vorlagentext / Bausteine
 
-**Checkliste Kanzlei-Kontext (Musterfragen):**
+Nutze die folgenden Fragen als interne Prüfhilfe. Stelle nur diejenigen, deren Antwort noch fehlt und die konkrete Regel oder Bewertung verändert:
 
 - Wie viele zugelassene Rechtsanwältinnen und Rechtsanwälte sind in der Kanzlei tätig?
 - Gibt es Syndikus-Anwältinnen oder -Anwälte nach §§ 46 ff. BRAO?
@@ -56,15 +58,22 @@ Die Kontextanalyse sollte bei wesentlichen Änderungen der Kanzleistruktur (Fusi
 - Art. 28 DSGVO — AVV-Pflicht für alle Kanzleigroessen
 - § 26 BDSG — Beschäftigtendatenschutz (bei Mitarbeiter-KI)
 
-## Triage zu Beginn
+## Offene Nutzungsbedingungen klären
+
+Lies zuerst die vorhandenen Unterlagen. Fehlt etwa die vertragliche Regelung zur Speicherung oder zum Training, fordere genau den betreffenden Anhang an; aus seinem Fehlen folgt weder eine erlaubte noch eine tatsächlich erfolgte Nutzung. Nach Eingang die betroffene Daten- und Kontrollregel aktualisieren und das bestellte Ergebnis fertigstellen. Neue entscheidende Widersprüche erlauben weitere gezielte Fragen, keine erneute Aufnahme bereits geklärter Kanzleidaten.
+
+Prüfe folgende Gesichtspunkte nur, soweit sie nicht bereits dokumentiert und für den Auftrag relevant sind:
 1. Wie groß ist die Kanzlei — Einzelanwalt, Boutique (2-10 RA), Mittelgross (11-50), Groß (50+)?
 2. Welche Rechtsgebiete werden betrieben — IT-Recht, Datenschutz, Strafrecht, Familienrecht?
 3. Gibt es Inhouse-/Syndikus-Anwaelte — gelten andere Compliance-Anforderungen?
 4. Sind internationale Mandate vorhanden — welche Drittland-Jurisdiktionen?
 5. Welche IT-Dienstleister werden bereits eingesetzt — ist deren KI-Konformitaet bekannt?
 
-## Output-Template — Kanzlei-Kontext-Analyse
-**Adressat:** Richtlinien-Verantwortlicher — Tonfall: strukturiert, analysierend
+## Ergebnis für die Richtlinienverantwortlichen
+
+Liefere die angefragte Analyse mit nachvollziehbaren Begründungen; bei beauftragter Richtlinienänderung auch die ausformulierte Passage, nicht bloß einen Verweis auf weitere Skills. Verwende den gewünschten Dateinamen und führe Quellenstatus und verbleibende Prüffragen getrennt vom Richtlinientext. Einführung, Datentransfer und Versand benötigen eine gesonderte Freigabe.
+
+Die folgende Gliederung ist eine optionale Darstellung für eine umfassende Kontextanalyse, kein Pflichtformular für jede Einzeländerung:
 ```
 KANZLEI-KONTEXT-ANALYSE
 [DATUM] — Kanzlei: [NAME MANDANT]
@@ -81,11 +90,11 @@ Besonders sensible Rechtsgebiete: [STRAFRECHT / FAMILIENRECHT / MEDIZIN / ...]
 Datenschutz-Risikoniveau: [HOCH / MITTEL / NIEDRIG]
 
 BESTEHENDE IT-DIENSTLEISTER:
-| Dienstleister | Zweck | DSGVO-konform | KI-faehig |
+| Dienstleister | Zweck | Geprüfte Datenschutzanforderungen und offene Nachweise | Genutzte Funktion |
 |---|---|---|---|
-| [ANBIETER] | [ZWECK] | [JA/NEIN] | [JA/NEIN] |
+| [ANBIETER] | [ZWECK] | [BEFUND MIT GRUNDLAGE] | [FUNKTION] |
 
-TAILORING-ANFORDERUNGEN:
+ANFORDERUNGEN AN DIE RICHTLINIE:
 - [SPEZIFISCHE ANFORDERUNG aufgrund Kontext]
 - [SPEZIFISCHE ANFORDERUNG aufgrund Kontext]
 

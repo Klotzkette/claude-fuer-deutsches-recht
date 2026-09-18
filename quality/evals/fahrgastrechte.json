@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fahrgastrechte",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0782",
@@ -11,12 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Reisekette und alte Rechtslage waren bereits sauber getrennt; allgemeine Verjährungsroutine und Widerspruchsbegriff waren zu pauschal.",
+    "reason": "Der ganze Mini wurde auf Reisekette, Beförderer und Anspruchsart geprüft.",
     "changes": [
-      "Anspruchsspezifische Fristen statt pauschal drei Jahren.",
-      "Ausnahme und Betreuung getrennt sowie richtigen Beförderer bestimmt."
+      "Nach Ticket- oder Verspätungsnachweis die Anspruchsberechnung überarbeiten und das bestellte Forderungsschreiben fertigstellen."
     ],
-    "sha256": "fd4019a1f2ce690777165ef47aa6f4b250d2ce0d40653c8872234ad8eeb14ad2"
+    "sha256": "09eb0f7d25823b65024199769a5c1c0df7c19ea372ec88b728c874d0b031e8ab"
   },
   "selection": {
     "positive": [
@@ -61,5 +60,13 @@
       ],
       "target_skill": "entschaedigung-berechnen"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die gesamte Werkstatt wurde einschließlich Umbuchung, Betreuung und Entschädigung gelesen.",
+    "changes": [
+      "Durchgangsfahrkarte nicht allein aus einer Buchungsnummer abgeleitet; unterschiedliche Erstattungs- und Betreuungswege erhalten."
+    ],
+    "sha256": "e98f1d74111a668a9686e6eccd029e0fc00669cb33ca71f167235887a82c21ee"
+  }
 }

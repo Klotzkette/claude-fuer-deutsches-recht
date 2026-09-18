@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "lizenzvertragsersteller",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
@@ -11,13 +11,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Rechte- und Nutzungsroute war individuell, die Beleg- und Vergütungsarbeit blieb abstrakt. Der gelesene Vergütungsskill unterscheidet Staffelabschnitte und Mindestlizenz genauer.",
+    "reason": "Vollständig geprüft: Nachgereichte Rechtebelege oder Abrechnungsparameter verändern Nutzungsumfang, Gewährleistung und Vergütung; danach wird der bestellte Vertrag fertiggestellt. Keine weitere Änderung des eigenständig nutzbaren Minis nötig.",
     "changes": [
       "Staffelkontrollrechnung und Anrechnung von Mindestbeträgen konkretisiert.",
       "Pauschale Rechteketten- und Steuerannahmen vermieden."
     ],
-    "sha256": "21e6e5f47612a8ad2bdabe311ccbb9e16698e7f4fd38d754b66295e60ed767c2"
+    "sha256": "4d1d9a334d388653879e1da31689151d0650aa99969bd7fc249caa4b75df0f95"
   },
+  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung zeigte neben passender Rechteklärung eine Stationsproduktpflicht und technische Ausgabeanweisungen mit internen Zeichen und Modulabhängigkeit.","changes":["Rechteübersicht und Berechnung dem fertigen Vertrag untergeordnet.","Sicherheiten ausformulieren statt interne Zeichen ausgeben lassen; deutsche und bilinguale Ausgabeskills ausdrücklich optional gemacht."],"sha256":"ccb5ea152d4ad6e8863309fff024e9b0000f2f605fb5a00e15d24fcf05d03d3e"},
   "selection": {
     "positive": [
       "Entwerfen Sie eine Umsatzlizenz mit abschnittsweise sinkenden Sätzen und Mindestbetrag.",

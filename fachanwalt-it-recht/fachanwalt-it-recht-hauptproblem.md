@@ -1,20 +1,22 @@
 # 1. ERP-Abnahme und Nachtragsvergütung prüfen
 
-Bereite einen B2B-Konflikt über ein ERP-Einführungsprojekt auf. Verknüpfe ursprünglichen Leistungsumfang, Tickets, Freigaben, Abnahme und Schlussrechnung. Erstelle einen belastbaren Entwurf ohne installierte Zusatzmodule. Verändere keine Produktivsysteme und erkläre keine Abnahme, Kündigung oder Zahlungsverweigerung eigenmächtig.
+Bearbeite den B2B-Konflikt über das ERP-Einführungsprojekt bis zum bestellten Rechnungs- oder Abnahmeschreiben beziehungsweise Gutachten. Verknüpfe ursprünglichen Leistungsumfang, Tickets, Freigaben, Abnahme und Schlussrechnung.
 
-## 2. Sachverhalt zuerst
+## 1.1. Sachverhalt zuerst
+
+Lies vorhandene Unterlagen und Antworten zuerst. Verändere keine Produktivsysteme und erkläre keine Abnahme, Kündigung oder Zahlungsverweigerung eigenmächtig.
 
 Lies Vertrag, Leistungsbeschreibung mit Fassungsstand, Zahlungsplan, Nachträge, Vertretungsregeln, Tests, Tickets, Abnahmeaufforderung und Reaktionen. Erfasse Rolle, Ziel, Termine, Produktivstart, Teilabnahmen und Mitwirkung. Trenne Lizenzüberlassung, Anpassung, Implementierung, Beratung und laufenden Betrieb nach der konkreten Leistungspflicht. Nicht allein aus der Bezeichnung ERP oder agilem Vorgehen auf den Vertragstyp schließen.
 
-Höchstens eine gebündelte Frage zu entscheidenden Lücken stellen; sonst mit offen markierten Annahmen zum Entwurf kommen. Widersprechende Versionen und ungelesene Anlagen sichtbar halten.
+Fehlt etwa die Freigabe eines berechneten Zusatzmoduls, fordere Angebot, Annahme und Angaben zur handelnden Person gezielt an. Bis dahin die belegten Rechnungspositionen bearbeiten. Nach Eingang Vergütungsgrund und Vertretungsmacht prüfen, den Saldo aktualisieren und das bestellte Dokument fertigstellen. Zeigt die Antwort einen weiteren entscheidenden Widerspruch, frage dazu nach, ohne bereits Beantwortetes erneut aufzunehmen. Widersprechende Versionen und ungelesene Anlagen in der Arbeitsnotiz benennen.
 
-## 3. Soll, Fehler und Nachtrag verbinden
+## 1.2. Soll, Fehler und Nachtrag verbinden
 
 Bilde je Funktion eine Zeile mit Sollquelle, Version, Testbedingung, Ist-Ergebnis, Ticket, Verantwortlichkeit und Vergütungsgrund. Unterscheide ursprüngliche Leistung, Fehlerbehebung, Zusatzänderung und offenes Mitwirkungsproblem. Ein fehlgeschlagener Test wird nicht durch ein neues Ticket automatisch kostenpflichtiger Zusatzumfang.
 
 Prüfe Nachtragsangebot, Menge, Preis, Vertretungsmacht und vertragliche Änderungsmechanik. Technische Ticketbestätigung ist nicht automatisch kaufmännische Freigabe. Umgekehrt genügt die fehlende Unterschrift ohne Prüfung von Verhalten, Vertretung und Formabrede nicht zur endgültigen Ablehnung. Arbeitsstunden belegen Aufwand, nicht allein zusätzliche Vergütung. Keine ungeprüfte Übernahme baurechtlicher Nachtragsregeln.
 
-## 4. Abnahme, Fälligkeit und Vergütung
+## 1.3. Abnahme, Fälligkeit und Vergütung
 
 Prüfe für werkvertragliche Teile ausdrückliche, konkludente und fingierte Abnahme getrennt. Produktivnutzung allein nicht mechanisch mit Billigung gleichsetzen. Pilotbetrieb, Fehlerkenntnis, Vorbehalte und Teilabnahmen auswerten. Für Paragraf 640 Absatz 2 BGB Fertigstellung, angemessene Frist und Reaktion prüfen. Rechtzeitige Verweigerung unter Benennung mindestens eines Mangels von der Frage trennen, ob wegen bloß unwesentlicher Mängel trotzdem Abnahme verlangt werden kann.
 
@@ -22,13 +24,17 @@ Rechne vereinbarte Vergütung plus belegte Nachträge minus Zahlungen und Gutsch
 
 Vor Abnahme grundsätzlich Erfüllung und allgemeines Leistungsstörungsrecht prüfen. Mängelrechte nach Paragraf 634 BGB grundsätzlich erst nach Abnahme; Ausnahme eines Abrechnungsverhältnisses eigens begründen. Ein bloßes Vorschussverlangen schafft diese Ausnahme nicht automatisch. Endgültige Abkehr vom bisherigen Anbieter als rechtlich erhebliche Entscheidung zur Freigabe stellen. Keine pauschale Zweiversuchsregel aus Kaufrecht übernehmen, keine allgemeine fünfjährige Softwaregewährleistung behaupten.
 
-## 5. Ergebnis
+## 1.4. Ergebnis
 
-Erstelle `ergebnis.md` mit Sachverhalt, einer Tabelle zum Abgleich von vereinbarter Leistung, Tickets und Nachträgen, Abnahmezeitachse, Formeln und nachvollziehbarer Vergütungsrechnung, konkreten technischen Beweisthemen und ausformuliertem Schreiben zur Rechnung oder Abnahme. Fehler mit Version, Datenbasis, Reproduktionsschritten sowie Soll und Ist beschreiben; technische Ursachen nicht erfinden. Einmal Summen und Widersprüche prüfen, danach den belastbaren Teil und die verbleibenden Lücken liefern. Keine Endlosschleife und kein behaupteter Versand. Ohne Dateiwerkzeug vollständigen Text ausgeben.
+Erstelle das bestellte Schreiben oder Gutachten mit der erforderlichen Vergütungsrechnung und Begründung unter dem gewünschten Dateinamen; ohne Benennung verwende `ergebnis.md`. Leistungs-, Ticket- und Nachtragsvergleich sowie Abnahmedaten nur im nötigen Umfang als Anlage beifügen. Ein Gutachtenauftrag verlangt keinen ungefragten Forderungsbrief.
+
+Fehler mit Version, Datenbasis, Reproduktionsschritten sowie Soll und Ist beschreiben; technische Ursachen nicht erfinden. Fehlt ein Testbefund, den konkreten Test anfordern und nach Eingang Mängelbeschreibung, Abnahmebewertung und gegebenenfalls Einbehalt korrigieren. Summen und Text nach Änderungen erneut abgleichen.
+
+Annahmen nicht als Tatsachen in das Schreiben übernehmen; Quellenstatus und noch offene Prüfungen getrennt notieren. Ohne Freigabe nichts versenden oder einreichen.
 
 Vollständige Sätze statt Skeletten; echte Umlaute und ß, dezimale Überschriften, Paragraf ausschreiben. Times New Roman 11 pt für formatierten Export; bei Markdown entsprechender Exporthinweis.
 
-## 6. Quellen
+## 1.5. Quellen
 
 Prüfe Normfassungen zum Vertrag und aktuellen Rechtsstand vor Verwendung. Keine ungeprüften Randnummern oder Literaturstellen.
 
@@ -37,3 +43,5 @@ Prüfe Normfassungen zum Vertrag und aktuellen Rechtsstand vor Verwendung. Keine
 - [BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=77407), amtliche Leitsätze: Mängelrechte grundsätzlich nach Abnahme, Ausnahme des Abrechnungsverhältnisses. Allgemeines Werkvertragsrecht, keine spezifische ERP-Entscheidung.
 
 Am 14.09.2026 amtlichen BGH-Suchauszug geprüft; Volltextabruf gesperrt. Weitergehende Aussagen im Volltext nachprüfen, keine umfassende Aktualitätsprüfung vortäuschen.
+
+Ohne installierte Zusatzmodule anhand dieser Regeln weiterarbeiten. Nicht lesbare Belege konkret benennen und erklären, welche Aussage deshalb vorläufig bleibt; ohne Dateiwerkzeug den vollständigen Text liefern und keinen Dateilink erfinden.

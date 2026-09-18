@@ -1,6 +1,6 @@
 # 1. Außenwirtschaftlichen Vorgang prüfen
 
-Lies Auftrag, technische Produktunterlagen, Bestellung, Lieferkette, Endverbleibserklärung, Genehmigungen und Zollunterlagen zuerst. Liefere einen Klassifizierungsvermerk, Freigabebefund, Behördenentwurf oder Zollrechtsbehelf. Der Schwerpunkt ist Außenwirtschaft, Sanktionen und Zoll, nicht automatisch Frachtführerhaftung. Fehlende technische Daten nur gezielt nachfordern; die bereits prüfbaren Beteiligten- und Dokumentenfragen weiterbearbeiten.
+Erstelle den beauftragten Klassifizierungsvermerk, Behördenantrag oder Zollrechtsbehelf aus den vorhandenen Unterlagen. Lies technische Produktdaten, Bestellung, Lieferkette, Endverbleibserklärung, Genehmigungen und Zollunterlagen, soweit einschlägig. Außenwirtschaft, Sanktionen und Zoll sind nicht automatisch Frachtführerhaftung; eine Prüfbitte verlangt weder einen ungefragten Rechtsbehelf noch eine Lieferfreigabe.
 
 ## 2. Transaktion auflösen
 
@@ -18,7 +18,9 @@ Erfasse Ausführer oder Einführer, Käufer, Empfänger, Endverwender, Vermittle
 
 ## 4. Belastbares Ergebnis statt pauschalem Grün
 
-Führe eine Matrix aus Prüffrage, maßgeblicher Fassung, konkretem Tatbestandsmerkmal, Beleg und Ergebnis. Kennzeichne getrennt: geprüft und unauffällig, Genehmigung erforderlich, Verbot zu prüfen oder Tatsachen offen. Eine Genehmigungsanfrage ist noch keine Genehmigung. Eine technische Datenlücke sperrt nur die hiervon abhängige Lieferfreigabe; Nachforderung und Dossier werden trotzdem geliefert.
+Ordne Prüffrage, maßgebliche Fassung, Tatbestandsmerkmal, Beleg und Ergebnis intern zu. Erläutere im bestellten Dokument, was geprüft ist, welche Genehmigung benötigt wird und was offenbleibt; eine Tabelle nur bei tatsächlichem Vergleichsbedarf ausgeben. Eine Genehmigungsanfrage ist noch keine Genehmigung.
+
+Fehlt ein Listenparameter, frage nach der genauen technischen Eigenschaft und bearbeite Beteiligte und Lieferweg weiter. Bei einem unklaren Sanktionstreffer fordere Identitäts- oder Registerbelege an. Nach der Antwort aktualisiere die betroffene Klassifizierung oder Trefferprüfung und schreibe den Vermerk oder Antrag fertig. Zeigt die Antwort einen neuen entscheidenden Widerspruch, stelle eine weitere gezielte Frage, ohne Bekanntes erneut abzufragen. Bis zur Klärung liefere einen ausdrücklich vorläufigen Teilstand; keine Nichtlistung oder Lieferfreigabe auf Basis einer Annahme.
 
 Ein möglicher Verstoß verlangt Beweissicherung und abgestimmte rechtliche Bewertung. Keine Unterlagen löschen oder nachträglich beschönigen. Freiwillige Offenlegung und strafrechtliche Folgen nur anhand des konkreten Vorgangs prüfen, keine universelle Straffreiheit zusagen. Exportkontrolle, Zollschuld und vertragliche Lieferpflicht bleiben unterschiedliche Fragen.
 
@@ -28,4 +30,4 @@ Optional vertieft [Dual-Use-Ausfuhrkontrolle](skills/aussenwirtschaft-exportkont
 
 Verwende aktuelle amtliche Normtexte, Güterlisten und zuständige Behördenquellen. Konsolidierte Texte dienen der Orientierung; maßgebliche Änderungsakte und Berichtigungen bei entscheidenden Zweifeln prüfen. Nur tatsächlich geprüfte Fassungen und URLs nennen. Entscheidungen benötigen Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Randnummer; Literatur nicht erfinden. Optional: [Zitierweise](../references/zitierweise.md).
 
-Vermerke und Behördenentwürfe in vollständigen Sätzen, mit dezimaler Gliederung, Leerzeilen und Times New Roman 11 pt beziehungsweise Exporthinweis liefern. Ohne Export vollständigen Text ausgeben. Keine erfolgreiche Listenabfrage, Antragstellung oder Lieferung behaupten, die nicht erfolgt ist; nichts ungefragt einreichen oder freigeben.
+Vermerke und Behördenentwürfe in vollständigen Sätzen, mit dezimaler Gliederung, Leerzeilen und Times New Roman 11 pt beziehungsweise Exporthinweis liefern. Quellenstatus und interne Kontrollen gesondert notieren, nicht in Mandantenbriefe übernehmen. Ohne Export vollständigen Text ausgeben. Keine erfolgreiche Listenabfrage, Antragstellung oder Lieferung behaupten, die nicht erfolgt ist; externe Handlungen nur nach ausdrücklicher Freigabe.

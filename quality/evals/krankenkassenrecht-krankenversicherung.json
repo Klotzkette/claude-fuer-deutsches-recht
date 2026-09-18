@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "krankenkassenrecht-krankenversicherung",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gvg/__13.html",
@@ -21,13 +21,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der ursprüngliche Text behandelte jeden Fall als Sozialleistungsbescheid und enthielt fachfremde Grundsicherungsurteile sowie falsche Aufsichtsnormbeschreibungen.",
+    "reason": "Vollständig gelesen: GKV-Bescheid, PKV-Vertrag und Beihilfe werden getrennt; die ärztliche Nachforderung führt zum Leistungsbrief statt zum Abbruch nach der Analyse.",
     "changes": [
-      "GKV, PKV, Krankentagegeld, Pflege und Beihilfe vor dem Rechtsbehelf trennen.",
-      "Vertragsumfang und medizinische Notwendigkeit gesondert prüfen.",
-      "Tarifliche Rechenfolge und verbleibenden Erstattungsrest konkretisieren."
+      "Arzt- und Tarifantworten werden in Anspruchsbegründung, Erstattungsquote und Zeitraum eingearbeitet; kein automatischer Widerspruch gegen eine PKV-Ablehnung."
     ],
-    "sha256": "ee4920ca82c34556f601bdb311bbd39a72c7efdb673a9d7123701ce541b5003d"
+    "sha256": "4bae2c3216d121a6830e62fe6aa712d013938d214f8297ae0a5159cd48a2b3a5"
   },
   "selection": {
     "positive": [
@@ -44,11 +42,31 @@
       "id": "pkv-vorsorge-ohne-sozialrechtsweg",
       "request": "Prüfe in ergebnis.md eine Leistungsablehnung meiner privaten Krankheitskostenversicherung. Eine ambulante Früherkennungsuntersuchung gehört unstreitig zu einem gesetzlich eingeführten Programm; die persönlichen Teilnahmevoraussetzungen und die ordnungsgemäße Rechnung über 180 Euro stehen fest. Mein wirksamer Tarif sieht für diese Untersuchung vollständige Erstattung ohne Selbstbehalt vor. Der Versicherer lehnt allein mit dem Satz ab: Ohne Krankheit schuldet eine PKV keinerlei Vorsorge. Die Ablehnung ist sechs Wochen alt. Ein Bekannter meint, ich hätte einen Monat Zeit für Widerspruch beim Sozialgericht gehabt. Gewünscht sind eine Bewertung dieser beiden Aussagen und ein kurzer Leistungsbrief, keine Klageeinreichung oder vollständige Verjährungsprüfung.",
       "input_files": [],
-      "deliverables": ["ergebnis.md"],
+      "deliverables": [
+        "ergebnis.md"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Die pauschale Vorsorgeablehnung wird anhand der vorgegebenen Programmzugehörigkeit und des Tarifs verworfen; 180 Euro werden als zu erstattender Betrag eingeordnet.", "deliverables": ["ergebnis.md"]},
-        {"id": "C02", "text": "Die sechs Wochen werden nicht wegen einer erfundenen SGG-Widerspruchsfrist als Anspruchsverlust bewertet; die gewöhnliche Vertragsforderung wird dem Zivilrechtsweg zugeordnet.", "deliverables": ["ergebnis.md"]},
-        {"id": "C03", "text": "Der Leistungsbrief bleibt ein Entwurf und ergänzt keine medizinische Erkrankung, die für die vorgegebene Vorsorgeleistung nicht behauptet wurde.", "deliverables": ["ergebnis.md"]}
+        {
+          "id": "C01",
+          "text": "Die pauschale Vorsorgeablehnung wird anhand der vorgegebenen Programmzugehörigkeit und des Tarifs verworfen; 180 Euro werden als zu erstattender Betrag eingeordnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die sechs Wochen werden nicht wegen einer erfundenen SGG-Widerspruchsfrist als Anspruchsverlust bewertet; die gewöhnliche Vertragsforderung wird dem Zivilrechtsweg zugeordnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Leistungsbrief bleibt ein Entwurf und ergänzt keine medizinische Erkrankung, die für die vorgegebene Vorsorgeleistung nicht behauptet wurde.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
       ],
       "target_skill": "pkv-leistungspflicht-medizinische-notwendigkeit"
     },
@@ -84,5 +102,13 @@
       ],
       "target_skill": "pkv-leistungspflicht-medizinische-notwendigkeit"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vollständig gelesen einschließlich besonderer Versicherungswege und Quellenvorbehalte. Medizinischer Bedarf, versicherter Umfang und Zahlungsrechnung bleiben eigenständige Prüfungen.",
+    "changes": [
+      "Hilfsmittel-, Arzneimittel-, Krankengeld- und Beitragswege enthalten konkrete Nachforderungen und anschließende Endfassungen. Als ungeprüft bezeichnete Altangaben bleiben ausdrücklich unverifiziert."
+    ],
+    "sha256": "8bef24247d5679bfe50d194e5c9d563730a61b56e593b2e5479b2a2e13545a49"
+  }
 }

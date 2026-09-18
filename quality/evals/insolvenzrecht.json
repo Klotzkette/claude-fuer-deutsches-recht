@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "insolvenzrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__17.html",
@@ -22,17 +22,52 @@
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2017-12-19&Gericht=bgh&Sort=6&anz=26&nr=43965&pos=13",
       "checked_on": "2026-09-14",
       "supports": "BGH, Urteil vom 19.12.2017, Az. II ZR 88/16: amtlich indexierten Leitsatz 2 und Auszüge geprüft; neue Fälligkeiten gehören in die Dreiwochen-Liquiditätsbilanz. Keine aktuelle Haftungsaussage aus dem damaligen Paragraf 64 GmbHG abgeleitet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/estg/BJNR010050934.html",
+      "checked_on": "2026-09-18",
+      "supports": "Paragraf 3a EStG: gesetzliche Steuerbefreiung und Nachweis der Sanierungsvoraussetzungen; kein pauschaler Verlust allein wegen eines unterlassenen Steuerbefreiungsantrags."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__343.html",
+      "checked_on": "2026-09-18",
+      "supports": "Anerkennungsprüfung für ausländische Insolvenzverfahren außerhalb einer ohne Weiteres anwendbaren EuInsVO; keine pauschale EuInsVO-Behandlung sämtlicher Drittstaatenverfahren."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Alttext enthielt den fachfremden Paragraf 28 VVG und verlangte trotz Insolvenzreife-Einstieg als erstes Produkt Anfechtung und Plan. Die Stopregel bei möglicher Antragspflicht verhinderte sinnvolle Sicherungsarbeit.",
+    "reason": "Den gesamten Schnellstart auf Trennung der Mandate und Fortsetzung nach Liquiditäts- oder Anfechtungsbelegen geprüft. Zahlenabgleich und Nachforderungen führen zur bestellten Krisenbewertung, Anmeldung oder Stellungnahme statt zu einer neuen Aufnahme.",
     "changes": [
       "Insolvenzreife, Anmeldung, Anfechtung und Sanierung rollenabhängig getrennt.",
       "Fachfremden VVG-Anker entfernt und neue Fälligkeiten symmetrisch zu Zuflüssen aufgenommen.",
-      "Unverzüglichen Entscheidungsbedarf statt freier Dreiwochenwartezeit und statt Arbeitsabbruch formuliert."
+      "Unverzüglichen Entscheidungsbedarf statt freier Dreiwochenwartezeit und statt Arbeitsabbruch formuliert.",
+      "Nachgereichte Kreditbedingungen und Zahlungen mit erneuter Rechnung und vollständiger Fassung verbunden."
     ],
-    "sha256": "f62f7ebc0617826a255b2be8bef01746f245488e2f29e42125ceeb0fc6bdb652"
+    "sha256": "8dc2a1962d9aaea3bccf0f28eb06f563d234c3e316fe325adc1f3b3c6cb16152"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die gesamte Werkstatt einschließlich aller bisherigen Anhänge gelesen und widersprüchliche allgemeine Routen durch getrennte Bearbeitungswege für Status, Organe, Tabelle, Anfechtung und Sanierung ersetzt. Keine Live-Modellprüfung.",
+    "changes": [
+      "Paragraf 18 InsO nicht mehr als Anfechtungs- oder Konzernnorm verwendet; Versicherungsfragen auf Deckungsmandate begrenzt.",
+      "Pauschale Beweislastverteilung und automatische Register-, Klage- oder Planprodukte entfernt.",
+      "Sanierungsertrag nicht mit einem automatisch erforderlichen Steuerbefreiungsantrag gleichgesetzt; Drittstaatenanerkennung von EuInsVO getrennt.",
+      "Nach Kredit-, Zahlungs- und Forderungsbelegen Rechnung und vollständige Außenfassung fortschreiben; keine unbefugte Einreichung oder Zahlungsfreigabe."
+    ],
+    "sha256": "658a355114b270143657d7e2249afc9803c4c2a6b403091aef1f78aaa1c88b03"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [
+      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+    ],
+    "prompt_path": "insolvenzrecht/insolvenzrecht-hauptproblem.md",
+    "prompt_sha256": "d9b112d0d335f6e387a99c8c64dd4917314c208a7c3ebc245d6c3dd3bb5666bf",
+    "skill_path": "insolvenzrecht/skills/opos-titelabgleich-dreiwochen-liquiditaetsbruecke/SKILL.md",
+    "skill_sha256": "d1ebca0c979a012792c536201d405873fe05c998715b48668ca91c5c7c5d51f8"
   },
   "selection": {
     "positive": [

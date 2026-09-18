@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "selbstvertreter-sozialgericht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/sgg/__86b.html",
@@ -11,13 +11,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Bei erstmals abgelehnten existenzsichernden Leistungen hilft eine bloße Aussetzung des Ablehnungsbescheids nicht.",
+    "reason": "Der vollständig geprüfte Mini unterscheidet Erstbewilligung und Leistungsentziehung und führt fehlende Existenzsicherungsnachweise über gezielte Fragen zum tatsächlich beauftragten Schreiben oder Antrag.",
     "changes": [
       "Erstbewilligung und Entziehung vorhandener Leistungen unterschieden.",
       "Tatsächliche Mittellosigkeit mit verfügbaren Belegen erhoben.",
-      "Widerspruch und Eilantrag ohne unnötiges Abwarten vorbereitet."
+      "Widerspruch und Eilantrag ohne unnötiges Abwarten vorbereitet.",
+      "Nachgereichte Bescheide und Mittelangaben in die betroffene Begründung einarbeiten lassen, ohne bereits beantwortete Fragen zu wiederholen."
     ],
-    "sha256": "4949a3996f5c6f3d396adfe73e18851dd8e3ac34101eaf982e527bff6f61c556"
+    "sha256": "208dfe8f7cfcd702b6651d7e04ea3a8ed2c97f92e0ca027ba4838a429a1059a0"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die Ganztextprüfung ordnet Bescheid, Frist, Akteneinsicht, Leistungsprüfung und Eilrechtsschutz zu einem verständlichen Ablauf für Selbstvertretende. Unterschiedliche Leistungsarten behalten ihre eigenen Nachweisfragen.",
+    "changes": [
+      "Geld, Unterkunft, Rückforderung, Krankenversicherung, Pflege und Teilhabe in auftragsbezogene Abschnitte eingeordnet.",
+      "Aus konkreten Nachforderungen nach Eingang der Antwort das bestellte Schreiben mit passenden Anlagen fertigstellen lassen; keine automatische Prozessausweitung."
+    ],
+    "sha256": "ba66a164675c7e8cc9bf6a5118c91e07b2811600f276bb4956401dafd261305b"
   },
   "selection": {
     "positive": [

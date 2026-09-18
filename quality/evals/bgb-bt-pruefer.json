@@ -1,7 +1,74 @@
 {
-  "schema_version":1,"plugin":"bgb-bt-pruefer","reviewed_on":"2026-09-14",
-  "sources":[{"url":"https://www.gesetze-im-internet.de/bgb/__637.html","checked_on":"2026-09-14","supports":"Werkvertragliche Selbstvornahme nach Fristablauf, Ausnahmen und Vorschuss für erforderliche Aufwendungen."}],
-  "mini_review":{"sha256":"8cad2ce7529ab6e1e20be4bfdce1e428bebb26a9e8a4ae2445e12c7320362a2c","verdict":"revised","reason":"Der vollständige Mini wiederholte den AT-Vertragsprüfer und bot kaum vertragstypische Folgen. Der Werkmängelskill lieferte den Schwerpunkt, enthielt aber verkürzte Aussagen zu Fristsetzung und Wahlrechten; der Mini verlangt deren konkrete Prüfung.","changes":["Vertragstyp, Mangelzeitpunkt und Rechtsfolge auseinandergehalten.","Werkvertraglichen Vorschuss von bereits entstandenen Aufwendungen getrennt.","Beweislast und Verjährung nicht mehr pauschal über alle Vertragstypen verteilt."]},
-  "selection":{"positive":["Fordern Sie einen Vorschuss zur Beseitigung eines Werkmangels nach ergebnisloser Nacherfüllungsfrist.","Prüfen Sie, welche kaufrechtlichen Rechte aus dem Defekt einer gelieferten Ware folgen."],"negative":["Prüfen Sie allein die Vollmacht beim Vertragsschluss ohne Leistungsproblem.","Analysieren Sie einen strafrechtlichen Tatvorwurf wegen unerlaubten Betäubungsmittelbesitzes."]},
-  "cases":[{"id":"vorschuss-vor-fremdreparatur","request":"Frau Haas ließ eine individuell angepasste Treppe durch den Werkunternehmer Treppenbau West errichten und nahm sie am 1. Juni 2026 ab, ohne den verdeckten Befestigungsfehler zu kennen. Ein unabhängiger Sachverständiger dokumentierte am 20. August, dass der Fehler bereits bei Abnahme bestand. Haas verlangte unter genauer Mangelbeschreibung Beseitigung bis zum 10. September; die am 21. August zugegangene Frist war für die Arbeiten angemessen. West reagierte nicht, Gründe für eine berechtigte Verweigerung bestehen nicht. Ein Drittbetrieb bietet die notwendige Beseitigung für 3200 Euro an; der Betrag ist marktüblich. Noch wurde nichts beauftragt oder bezahlt. Erstellen Sie zum 14. September eine interne Anspruchsbewertung und ein Vorschussschreiben, nicht einen Rücktritt.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Das Ergebnis prüft werkvertragliche Mängelrechte anhand des vorhandenen Mangels bei Abnahme und des erfolglosen Ablaufs der angemessenen Nacherfüllungsfrist.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Es begründet einen Vorschuss für die erforderliche Mangelbeseitigung von 3200 Euro und verlangt nicht als Voraussetzung, dass Haas bereits eine Rechnung bezahlt haben müsse.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Das Schreiben fordert einen bestimmten Vorschuss mit tatsächlichem Mangel- und Fristbezug, erklärt keinen ungewollten Rücktritt und bezeichnet die Drittarbeiten nicht als bereits durchgeführt.","deliverables":["ergebnis.md"]}],"target_skill":"werkvertrag-maengelrechte"}]
+  "schema_version": 1,
+  "plugin": "bgb-bt-pruefer",
+  "reviewed_on": "2026-09-17",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__637.html",
+      "checked_on": "2026-09-14",
+      "supports": "Werkvertragliche Selbstvornahme nach Fristablauf, Ausnahmen und Vorschuss für erforderliche Aufwendungen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "retained",
+    "reason": "Vollständig am 18. September gelesen: Vorschussangebot, Nacherfüllungsverlangen und Zugang werden gezielt nachgefordert und bis zum bestellten Schreiben verarbeitet.",
+    "changes": [
+      "Keine weitere Änderung der Mini-Fassung."
+    ],
+    "sha256": "53ff880fc241e7752ecd49eaf894bb2800a8a502a45eeeb6ef9fa16515db099f"
+  },
+  "selection": {
+    "positive": [
+      "Fordern Sie einen Vorschuss zur Beseitigung eines Werkmangels nach ergebnisloser Nacherfüllungsfrist.",
+      "Prüfen Sie, welche kaufrechtlichen Rechte aus dem Defekt einer gelieferten Ware folgen."
+    ],
+    "negative": [
+      "Prüfen Sie allein die Vollmacht beim Vertragsschluss ohne Leistungsproblem.",
+      "Analysieren Sie einen strafrechtlichen Tatvorwurf wegen unerlaubten Betäubungsmittelbesitzes."
+    ]
+  },
+  "cases": [
+    {
+      "id": "vorschuss-vor-fremdreparatur",
+      "request": "Frau Haas ließ eine individuell angepasste Treppe durch den Werkunternehmer Treppenbau West errichten und nahm sie am 1. Juni 2026 ab, ohne den verdeckten Befestigungsfehler zu kennen. Ein unabhängiger Sachverständiger dokumentierte am 20. August, dass der Fehler bereits bei Abnahme bestand. Haas verlangte unter genauer Mangelbeschreibung Beseitigung bis zum 10. September; die am 21. August zugegangene Frist war für die Arbeiten angemessen. West reagierte nicht, Gründe für eine berechtigte Verweigerung bestehen nicht. Ein Drittbetrieb bietet die notwendige Beseitigung für 3200 Euro an; der Betrag ist marktüblich. Noch wurde nichts beauftragt oder bezahlt. Erstellen Sie zum 14. September eine interne Anspruchsbewertung und ein Vorschussschreiben, nicht einen Rücktritt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis prüft werkvertragliche Mängelrechte anhand des vorhandenen Mangels bei Abnahme und des erfolglosen Ablaufs der angemessenen Nacherfüllungsfrist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Es begründet einen Vorschuss für die erforderliche Mangelbeseitigung von 3200 Euro und verlangt nicht als Voraussetzung, dass Haas bereits eine Rechnung bezahlt haben müsse.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Schreiben fordert einen bestimmten Vorschuss mit tatsächlichem Mangel- und Fristbezug, erklärt keinen ungewollten Rücktritt und bezeichnet die Drittarbeiten nicht als bereits durchgeführt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "werkvertrag-maengelrechte"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Textprüfung am 18. September: Pauschale Beweislasttabellen und doppelte Pflichtausgaben widersprachen der anspruchsbezogenen Bearbeitung. Der Altabschnitt zu Paragraf 831 BGB verwies sachfremd auf HGB Paragraf 377.",
+    "changes": [
+      "Doppelte Schablonenabschnitte entfernt; vorhandene Vertragsthemen als konkrete Prüfungen zusammengeführt.",
+      "Kaufmännische Rügeobliegenheit vom Deliktsanspruch getrennt; Beweislast nach Anspruch und Stadium prüfen.",
+      "Optionalität der lokalen Referenz klargestellt und Gliederung fortlaufend nummeriert."
+    ],
+    "sha256": "48a4060198ff47345c5851a03045f7db7041ee102adbc6710ef5f3f748b4b169"
+  }
 }

@@ -1,259 +1,77 @@
-# Factoring Recht — Werkstatt-Prompt
+# 1. Factoring: Forderungserwerb und Abrechnung prüfen
 
-Bereite die Forderungsakte für das Factoring auf. Prüfe Forderungsbestand, Einwendungen und die Voraussetzungen der gerichtlichen Durchsetzung und Vollstreckung.
+Prüfe den Forderungskauf aus Sicht von Factor, Anschlusskunde oder Debitor und erstelle die bestellte Abrechnung, Vertragsbewertung oder das konkrete Schreiben. Kläre Forderungsinhaberschaft und Zahlungszuordnung vor einer Zahlungsaufforderung.
 
-## 1. Rolle und Auftrag
+## 1.1. Vertrag und Forderungsbestand lesen
 
-Werte zunächst Vertrag, Rechnung und die weiteren vorhandenen Unterlagen zur Forderung aus. Prüfe Fälligkeit, Verzug und Einwendungen und bereite je nach Verfahrensstand Mahnung, Klage oder Vollstreckung aus einem Titel vor. Bearbeite dabei die für das Factoring und den Forderungskauf maßgeblichen Fragen des Aufsichtsrechts, der Vertragsgestaltung, der Debitorenkommunikation sowie der Insolvenz und Sanierung.
+Lies Factoringvertrag, Ankaufslisten und Annahmen, Abtretungen, Rechnungen, Leistungsnachweise, Abrechnungen und Zahlungsbelege. Übernimm Auftrag und geklärte Angaben. Trenne Grundgeschäft zwischen Anschlusskunde und Debitor, Forderungserwerb durch den Factor und interne Abrechnung; jedes Verhältnis hat eigene Ansprüche und Einwendungen.
 
-Die Rolle ist keine bloße Zusammenfassung. Sie ordnet im Bereich Forderungsmanagement insbesondere die vorgelegten Urkunden, Bescheide und Korrespondenz, trennt gesicherte Tatsachen, Behauptungen und offene Punkte, prüft Norm, Tatbestandsmerkmale, Frist, Form, Beweislast und stärkste Gegenposition und leitet daraus die konkrete Rechtsfolge und den nächsten Verfahrensschritt ab. Jede Station endet mit einem unmittelbar verwendbaren, auf Fundstellen gestützten Produkt.
+Bestimme, ob Vertragsgestaltung, Bestandsprüfung, Rückgriff, Debitorenkommunikation, Aufsichtsrecht oder Insolvenz beauftragt ist. Eine Abrechnung verlangt keine ungefragte Mahnung, ein Vertragsgutachten keine Klage. Die Bezeichnung „echtes Factoring“ ersetzt nicht die Prüfung der vereinbarten Risiken.
 
-Arbeitsumgebung: Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben. Zuerst höchstens 20 Dateitreffer und fünf tragende Unterlagen sichten, dann nur für benannte Beleglücken erweitern. Das ist keine Grenze der erforderlichen Endprüfung. Unveränderte Auszüge mit Fundstelle weiterverwenden; neue Fassungen und widersprechende Belege neu prüfen. Ein fehlendes Werkzeug sperrt nur den abhängigen Arbeitsschritt. Einen belegten Textentwurf liefern, aber keine vollständige Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat.
+## 1.2. Erwerbs- und Zahlungsnachweise ergänzen
 
-### 1.1. Arbeitsmodus: schnell und belastbar
+Ordne jeder betroffenen Forderung Grundvertrag, Rechnung, Erwerbsnachweis und Zahlung zu. Fehlt die Annahme einer Ankaufsliste oder ist eine frühere Globalzession erkennbar, fordere den konkreten Nachweis an. Bei Zahlung an den Anschlusskunden kläre Datum, Verwendungszweck und Kenntnis des Debitors sowie Inhalt und Zugang einer Abtretungsanzeige.
 
-Ohne konkreten Ausgabeauftrag beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Bei einem konkreten Auftrag direkt dessen Arbeitsprodukt erstellen. Vorhandene Dokumente gezielt lesen und Belegstellen bilden; nur nachfragen, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.
+Übernimm neue Antworten in Erwerbskette, Einwendungen und Saldo. Zeigt sich ein weiterer entscheidender Widerspruch, frage dazu gezielt nach; wiederhole keine geklärten Forderungsdaten. Eine vollständig gelesene Datei beweist nicht automatisch einen wirksamen Erwerb.
 
-Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+Liefere bei ausstehenden Belegen einen bezeichneten Teilstand und bearbeite unabhängige Positionen weiter. Nach Klärung schreibe das bestellte Dokument fertig. Behaupte auch im Nachforderungsschreiben keine unbekannte Abtretung oder Zahlung als Tatsache.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
+## 1.3. Bestand und Abtretung prüfen
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist- oder Eilfall: GmbH-Gesellschafterhaftung wird ohne eigenständige Anspruchsgrundlage | Fristenblatt mit Sofortmaßnahme und nächstem Handlungstag | Verjährung, Ausschlussfrist oder Zuständigkeit ist unklar; vor Fortsetzung klären |
-| Tragendes Arbeitsprodukt | Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen | jede Tatsache bekommt Beleg oder Lückenmarke |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welche Forderung ist aus welchem Vertrag fällig |
-| Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung |
-| Rechtsfolgenseite | Antrags-, Bescheid-, Vertrags- oder Antwortfassung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| Zwischenstation 1 | Arbeitsstand mit Belegstelle | Anspruch: Hauptforderung, Nebenforderung, Zinsen, Kosten, Verzug und Verjährung getrennt rechnen |
-| Zwischenstation 2 | Arbeitsstand mit Belegstelle | Einwendungen: Erfüllung, Mangel, Aufrechnung, Zurückbehaltung, Stundung, Verjährung und Vertretung prüfen |
-| Adressatenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko, Kostenfolge und nächsten Schritt getrennt ausweisen |
+Prüfe Entstehung, Bestimmbarkeit, Fälligkeit und Abtretbarkeit der Forderung anhand von Grundgeschäft und Paragraf 398 BGB. Lies Abtretungsverbote, frühere Globalzessionen und Sicherungsabreden im Wortlaut. Eine Ankaufszusage ersetzt nicht ohne Weiteres den vereinbarten Erwerbsschritt; eine Rechnung allein belegt nicht die Leistung.
 
-### 1.3. Rückfragenbremse
+Bei widersprüchlichen Erwerbsansprüchen rekonstruiere Inhalt und zeitliche Reihenfolge der Verfügungen. Trenne fehlenden Nachweis vom rechtlich ausgeschlossenen Erwerb. Leite persönliche Haftung von Geschäftsführern oder Gesellschaftern nur aus einer eigenständigen Anspruchsgrundlage ab, nicht aus einer offenen Forderung gegen die Gesellschaft.
 
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Welche Forderung ist aus welchem Vertrag fällig“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Verjährung, Ausschlussfrist oder Zuständigkeit ist unklar.
-3. Beweislage vor Rechtsmeinung ordnen: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
+## 1.4. Debitorenschutz und Anzeige
 
-### 1.4. Mini-Gerüste
+Prüfe Einwendungen aus dem Grundgeschäft nach Paragraf 404 BGB und Aufrechnung nach Paragraf 406 BGB anhand Entstehung, Fälligkeit und Kenntnis. Unterscheide Mangel, Zurückbehaltung, Stundung, Erfüllung und Verjährung. Ordne Darlegungs- und Beweislast der konkreten Voraussetzung zu, statt sämtliche Einwendungsfragen pauschal dem Debitor aufzuerlegen.
 
-- Sofortvermerk: Der Ausgangsanker ist BGB Paragraf 241 und Paragraf 280. Nach derzeitigem Stand spricht [Beleg] bei [Tatbestandsmerkmal] mehr für [Ergebnis]; offen bleibt [Lücke].
-- Kernsatz des Arbeitsprodukts: Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen.
-- Beweissatz: [Tatsache] ist durch [Beweismittel] belegt; im Übrigen gilt: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung.
-- Rechtsfolgensatz: Daraus folgt Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg oder Norm]. Risiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg bleibt die Leitfrage „Welche Forderung ist aus welchem Vertrag fällig“ offen.
-## 2. Stop-Kriterien
+Prüfe bei Leistung an den bisherigen Gläubiger Paragraf 407 BGB anhand der tatsächlichen Kenntnis. Behandle die Abtretungsanzeige und ihre Wirkungen nach Paragraf 409 BGB gesondert; eine vereinfachte Regel „vor Anzeige frei, danach nie“ genügt nicht. Bei stiller Zession unterscheide wirksame Abtretung, vereinbarte Einziehung und spätere Offenlegung.
 
-- Verjährung, Ausschlussfrist oder Zuständigkeit ist unklar.
-- Fälligkeit, Zugang oder Abnahme ist nicht belegt.
-- GmbH-Gesellschafterhaftung wird ohne eigenständige Anspruchsgrundlage verfolgt.
-- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+Formuliere einen beauftragten Debitorenbrief mit konkreten Rechnungen, Erwerbsbezug, nachvollziehbarem Zahlungsstand und korrekten Empfängerangaben. Verlange keine Zahlung erneut, wenn eine erfüllende Zahlung bereits feststeht. Abtretungsanzeige oder Änderung von Zahlungswegen nur nach ausdrücklicher Freigabe übermitteln.
 
-## 3. Werkstattfluss
+## 1.5. Risikoverteilung und AGB
 
-### 3.1. Aktenkern
+Unterscheide Delkredererisiko, Bestand und Durchsetzbarkeit der Forderung, Einwendungen aus dem Grundgeschäft sowie vertragliche Rückgriffsereignisse. Prüfe Ankaufslimit, Sicherheitseinbehalt, Rückkauf, Garantien und Mitwirkung nach den konkreten Klauseln. Die Übernahme des Bonitätsrisikos bedeutet nicht automatisch die Übernahme jedes Veritätsrisikos.
 
-Arbeitsgriff Aktenkern: Vertrag, Bestellung, Lieferung, Abnahme, Rechnung, Mahnung, Zahlung und Einwendung chronologisch ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: Chronologie und Belegmatrix mit offenen Widersprüchen; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Fehlt die Grundlage eines Rückgriffs, frage nach vereinbartem Auslöser und Nachweis. Gleiche die Antwort mit dem Vertrag ab und aktualisiere anschließend Forderung und Begründung. Stelle streitige Rückgriffspositionen nicht als bereits fällige sichere Belastung in den Saldo ein.
 
-### 3.2. Anspruch
+Prüfe bei gestellten Bedingungen Paragrafen 305, 305c, 306 und 307 BGB sowie die für das Unternehmergeschäft geltende Einordnung nach Paragraf 310 Absatz 1. Paragrafen 308 und 309 sind nicht ungeprüft unmittelbar auf B2B-Verträge zu übertragen. Berücksichtige Paragrafen 138 und 242 BGB nach dem konkreten Regelungsproblem und formuliere die verlangte Klauseländerung vollständig.
 
-Arbeitsgriff Anspruch: Hauptforderung, Nebenforderung, Zinsen, Kosten, Verzug und Verjährung getrennt rechnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: Tatbestandsmatrix mit Norm, Beleg und Gegenargument; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+## 1.6. Forderung und Factoringabrechnung rechnen
 
-### 3.3. Einwendungen
+Trenne Debitorenforderung, Ankaufspreis, Auszahlung, Sicherheitseinbehalt, Gebühren und Rückgriff. Gleiche Anfangssaldo, Bewegungen und Endsaldo ab und ordne jede Zahlung nur einmal zu. Eine Zahlung darf nicht zugleich gegen Debitor und Anschlusskunde unberücksichtigt bleiben.
 
-Arbeitsgriff Einwendungen: Erfüllung, Mangel, Aufrechnung, Zurückbehaltung, Stundung, Verjährung und Vertretung prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Prüfe Hauptforderung, Nebenforderungen, Verzug und Zinsen nach dem jeweils betroffenen Vertrag. Beziehe Paragrafen 241 und 280, 286 und 288, 362 sowie 387 BGB ein, soweit einschlägig. Fälligkeit ist nicht automatisch Verzug; behördliche oder anwaltliche Kosten sind nicht ohne Rechtsgrund Teil der Forderung.
 
-### 3.4. Prozess und Titel
+Nachgereichte Gutschriften, Zahlungen oder Einbehaltsfreigaben ändern Einzelpositionen und Gesamtsaldo. Rechne die Auswirkung nachvollziehbar vor und übernimm sie in das bestellte Schreiben oder die Abrechnung. Begründe verbleibende Varianten, statt unklare Beträge stillschweigend zu saldieren.
 
-Arbeitsgriff Prozess und Titel: Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+## 1.7. Geschäftsmodell, Bilanzierung und Bestandskontrolle
 
-### 3.5. Arbeitsprodukt
+Bei einem Aufsichtsauftrag prüfe laufenden Forderungsankauf auf Grundlage eines Rahmenvertrags nach Paragraf 1 Absatz 1a Satz 2 Nummer 9 KWG sowie eine Erlaubnispflicht nach Paragraf 32 KWG und einschlägige Ausnahmen. Untersuche ergänzende Zahlungsabläufe nach dem ZAG eigenständig. Die privatrechtliche Einordnung als echtes oder unechtes Factoring beantwortet die Aufsichtsfrage nicht allein; nutze aktuelle amtliche BaFin-Hinweise.
 
-Arbeitsgriff Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: versandfähiger Entwurf mit Anlagen- und Fristenbezug; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Bei gewünschter bilanzieller Ausbuchung bestimme Rechnungslegungsregime und tatsächliche Übertragung wirtschaftlicher Risiken. Unterscheide zivilrechtliche Abtretung, insolvenzrechtliche Behandlung und bilanzielle Ausbuchung; die Bezeichnung „True Sale“ bestätigt nicht alle drei. Prüfe Refinanzierung und verbleibende Rückgriffsrechte nach dem konkreten Vertrag.
 
-## 4. Rechtsprechungs-Fallkarte
+Bei Stichproben und vertraglichen Prüfungsrechten bestimme Auswahl, Prüfungsumfang und vorhandene Originalbelege. Ein unauffälliger Ausschnitt belegt nicht automatisch den gesamten Forderungsbestand. Frage bei fehlenden Leistungsnachweisen oder Doppelrechnungen gezielt nach und überarbeite die betroffenen Ankauf- oder Rückgriffspositionen.
 
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Fallkern | KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG | BGB Paragraf 241 und Paragraf 280 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
-| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 286 und Paragraf 288 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag | BGB Paragraf 286 und Paragraf 288 | Tatbestandsmatrix mit Beleg und Gegenargument |
-| Rechtsfolge | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+## 1.8. Insolvenz und Durchsetzung
 
-## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+Prüfe bei Krise oder Insolvenz von Anschlusskunde, Debitor oder Factor die jeweilige Forderungsinhaberschaft, Sicherheiten, Einziehungsbefugnis und Verfahrenslage. Ein bereits erfolgter Forderungsverkauf ist nicht ohne weitere Prüfung von allen Insolvenzrisiken frei. Zahlungswege, Anfechtungsfragen und vertraglicher Rückgriff dürfen nicht mit dem bloßen Ausfall des Debitors gleichgesetzt werden.
 
-| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
-| --- | --- | --- | --- |
-| BGB Paragraf 241 und Paragraf 280 | Pflichtverletzung und Schadensersatz | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| BGB Paragraf 286 und Paragraf 288 | Verzug und Verzugszinsen | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| BGB Paragraf 362 | Erfüllung als Einwendung | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| BGB Paragraf 387 | Aufrechnung | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| ZPO Paragraf 253 | Mindestinhalt der Klageschrift | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| ZPO Paragraf 138 | Erklärungslast und Wahrheitspflicht | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| Paragraf 305 BGB | Definition AGB – vorformuliert, gestellt, mehrfache Verwendung | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
+Bei beauftragter Durchsetzung prüfe Zuständigkeit, Aktivlegitimation, schlüssigen Vortrag und Beweise nach Paragrafen 253 und 138 ZPO. Wähle Mahnverfahren, Klage oder Vergleich nach Auftrag, Streitstand und Voraussetzungen, nicht allein nach Geschwindigkeit. Bei Vollstreckung sind Titel und konkrete Vollstreckungsvoraussetzungen zusätzlich zu prüfen.
 
-## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+## 1.9. Quellen und vorhandene Anker
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Tatsachenvortrag ist schlüssig, wenn die behaupteten Tatsachen zusammen mit einem Rechtssatz den geltend gemachten Anspruch oder die Einwendung tragen; unnötige Einzeldetails darf das Gericht nicht verlangen |
-| BGH, Urteil vom 04.05.2011 - VIII ZR 171/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Beim unbezahlten Tanken an einer Selbstbedienungstankstelle tritt Verzug mit dem Verlassen des Geländes ohne Mahnung ein; diese Sonderlage ersetzt keine allgemeine Verzugsprüfung |
-- Rechtsfolge zuerst als Arbeitsprodukt denken: Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag
-- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
-
-## 7. Pflichtnormen als Kernsätze
+Verifiziere tragende Normen und Entscheidungen amtlich. BGH, Beschluss vom 28.02.2012, VIII ZR 124/11, dient als vorhandener Rechercheanker zu schlüssigem Tatsachenvortrag, nicht als Ersatz für den Nachweis der Abtretung. BGH, Urteil vom 04.05.2011, VIII ZR 171/10, betrifft Verzug beim unbezahlten Tanken; diese Sonderlage trägt keine pauschale Verzugsregel für Factoringforderungen.
 
-- BGB Paragraf 241 und Paragraf 280: Pflichtverletzung und Schadensersatz.
-- BGB Paragraf 286 und Paragraf 288: Verzug und Verzugszinsen.
-- BGB Paragraf 362: Erfüllung als Einwendung.
-- BGB Paragraf 387: Aufrechnung.
-- ZPO Paragraf 253: Mindestinhalt der Klageschrift.
-- ZPO Paragraf 138: Erklärungslast und Wahrheitspflicht.
-- Paragraf 305 BGB: Definition AGB – vorformuliert, gestellt, mehrfache Verwendung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 305c BGB: Überraschende Klauseln werden nicht Vertragsbestandteil; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 307 BGB: Inhaltskontrolle – unangemessene Benachteiligung des Vertragspartners; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 308, 309 BGB: Klauselverbote – im B2B nicht direkt anwendbar, aber Indizwirkung nach BGH; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 310 Abs. 1 BGB: Modifikation für B2B – Klauselverbote der Paragrafen 308, 309 gelten nicht direkt, aber im Rahmen der Angemessenheitsprüfung nach Paragraf 307; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 306 BGB: Teilnichtigkeit – unwirksame Klausel fällt, der Vertrag bleibt im Übrigen wirksam; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 138 BGB: Wucherische Vertragsgestaltung als äußerste Grenze; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB: Treu und Glauben als ergänzender Kontrollmaßstab; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+Ungeprüfte Fundstellen bleiben Recherchehinweise. Erforderliche Rechtsnachweise gehören in Gutachten oder Schriftsatz, Abrufstatus und technische Kontrollen in eine gesonderte Arbeitsnotiz. Erfinde keine Markt-, Bilanzierungs- oder Aufsichtsbestätigung aus der Vertragsbezeichnung.
 
-## 8. Leitentscheidungen
+## 1.10. Bestelltes Ergebnis abschließen
 
-- BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11: Tatsachenvortrag ist schlüssig, wenn die behaupteten Tatsachen zusammen mit einem Rechtssatz den geltend gemachten Anspruch oder die Einwendung tragen; unnötige Einzeldetails darf das Gericht nicht verlangen.
-- BGH, Urteil vom 04.05.2011 - VIII ZR 171/10: Beim unbezahlten Tanken an einer Selbstbedienungstankstelle tritt Verzug mit dem Verlassen des Geländes ohne Mahnung ein; diese Sonderlage ersetzt keine allgemeine Verzugsprüfung.
+Liefere die Bewertung, Abrechnung, Vertragsklausel oder das Schreiben vollständig ausformuliert. Prüfe Erwerbskette, getrennte Salden, Zahlungsanrechnung, Belege und Fristen im Zusammenhang. Tabellen werden nur für tatsächlich benötigte Zuordnung und Rechnung beigefügt; eine Lückenliste allein erledigt keinen Schreibauftrag.
 
-## 9. Prüfraster
+Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Vorschlag ohne Vorgabe. Bei offenen entscheidenden Punkten benenne den benötigten Beitrag und setze nach dessen Eingang bis zur Endfassung fort. Abtretungsanzeige, Zahlungsanweisung, Anerkenntnis, Einreichung und sonstige externe Handlungen benötigen ausdrückliche Freigabe.
 
-1. Welche Forderung ist aus welchem Vertrag fällig.
-2. Welche Belege tragen Leistung, Rechnung, Zugang und Verzug.
-3. Welche Einwendungen sind substantiiert und beweisbar.
-4. Welche Nebenforderungen sind rechnerisch und rechtlich haltbar.
-5. Welcher Weg ist schneller: Mahnverfahren, Klage, Vergleich oder Vollstreckung.
-6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
-7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
+## 1.11. Technische Grenzen
 
-## 10. Argumentations- und Entwurfsgerüst
-
-10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag.
-10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BGB Paragraf 241 und Paragraf 280; BGB Paragraf 286 und Paragraf 288.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG.
-10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Forderungsmanagement tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
-10.5. Beweislast: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Belege tragen Leistung, Rechnung, Zugang und Verzug an.
-10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG, BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag, Debitorenkommunikation und Abtretungsanzeige, AGB Kontrolle Factoringklauseln B2B: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11; BGH, Urteil vom 04.05.2011 - VIII ZR 171/10.
-
-## 11. Outputvarianten und Empfängerwunsch
-
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| schnell entscheiden | Kurzvermerk | Fallkern, BGB Paragraf 241 und Paragraf 280; BGB Paragraf 286 und Paragraf 288, Risiko und nächster Schritt |
-| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
-| versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
-| beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche Belege tragen Leistung, Rechnung, Zugang und Verzug |
-
-## 12. Arbeitsweise
-
-Arbeite zuerst aktennah, dann normnah, dann produktnah. Liegen Unterlagen vor, werden sie ohne Vorfrage gelesen und mit Fundstelle verarbeitet; im Bereich Forderungsmanagement sind das vor allem die vorgelegten Urkunden, Bescheide und Korrespondenz. Erst wenn wirklich kein verwertbares Material vorliegt, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert; Tabellen werden nur für echte Vergleiche, Nachweise, Berechnungen oder Varianten verwendet.
-
-Selbstcheck vor Ausgabe: Ist die maßgebliche Frist mit Beginn, Lauf und Ende benannt? Ist die Form geklärt? Ist die Rechtsfolge aus einer Norm abgeleitet und auf Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag bezogen? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
-
-## 13. Qualitätskontrolle und Abschluss
-
-Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Besonders zu kontrollieren ist in diesem Gebiet: Welcher Weg ist schneller: Mahnverfahren, Klage, Vergleich oder Vollstreckung. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
-
-## 14. Musterbausteine
-
-- Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
-- Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
-
-## 15. Fachliche Entscheidungslandkarte
-
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
-
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG | KWG Erlaubnispflicht Factoring Paragraf 1 Absatz 1a Satz 2 Nummer 9 KWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | Fachvotum zu KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
-| BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag | BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Debitorenkommunikation und Abtretungsanzeige | Die Abtretungsanzeige ist der formale Akt, mit dem die Abtretung der Forderung dem Debitor mitgeteilt wird. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
-| AGB Kontrolle Factoringklauseln B2B | AGB Kontrolle Factoringklauseln B2B: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Aufsichtsrechtliche Schnellampel KWG ZAG | Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. | Kontrollvermerk zu Aufsichtsrechtliche Schnellampel KWG ZAG mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
-| Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko | Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | Fachvotum zu Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB | Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | Fachvotum zu Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
-| Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote | Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | Fachvotum zu Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
-| Auditrechte Stichproben Forderungsprüfung | Auditrechte Stichproben Forderungsprüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-
-## 16. Fachspezifische Praxisrouten
-
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
-
-### 16.1. KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG
-
-Bearbeitungsauftrag: KWG Erlaubnispflicht Factoring Paragraf 1 Absatz 1a Satz 2 Nummer 9 KWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Prüfe, ob ein Factoring-Geschäftsmodell unter die Erlaubnispflicht nach Paragraf 1 Absatz 1a Satz 2 Nummer 9 KWG fällt. Zentrale Fragen sind: Liegt echtes oder unechtes Factoring vor?
-Normbezug aus dem Fachmaterial: KWG Erlaubnispflicht Factoring Paragraf 1 Absatz 1a Satz 2 Nummer 9 KWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
-Lieferstück: Fachvotum zu KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.2. BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag
-
-Bearbeitungsauftrag: BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Der Tatbestand des Factorings in Paragraf 1 Absatz 1a Satz 2 Nummer 9 KWG ist auf drei Tragesäulen aufgebaut.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.3. Debitorenkommunikation und Abtretungsanzeige
-
-Bearbeitungsauftrag: Die Abtretungsanzeige ist der formale Akt, mit dem die Abtretung der Forderung dem Debitor mitgeteilt wird. Sie verändert den Schuldnerschutz: Vor Anzeige darf der Debitor nach Paragraf 407 BGB an den Altgläubiger zahlen mit befreiender Wirkung; nach Anzeige nur noch an den Neugläubiger (Paragraf 409 BGB). Die Anzeige ist nicht zwingend für die Wirksamkeit der Abtretung, aber für die operative Umlenkung der Zahlungen.
-Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
-
-### 16.4. AGB Kontrolle Factoringklauseln B2B
-
-Bearbeitungsauftrag: AGB Kontrolle Factoringklauseln B2B: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Damit unterliegen sie der AGB-Kontrolle nach Paragrafen 305 und folgende Auch im B2B-Verhältnis gelten die Inhaltskontrollen der Paragrafen 307 BGB – die Klauselverbote der Paragrafen 308 und 309 BGB greifen nicht direkt, sind aber als Indikatoren für die Unangemessenheit im Rahmen des Paragraf 307 BGB heranzuziehen.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.5. Aufsichtsrechtliche Schnellampel KWG ZAG
-
-Bearbeitungsauftrag: Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Im Factoring lauert die aufsichtsrechtliche Frage als ständige Hintergrundsorge: Greift das KWG mit Erlaubnispflicht (Paragraf 32 KWG, Finanzdienstleistungsinstitut)?
-Lieferstück: Kontrollvermerk zu Aufsichtsrechtliche Schnellampel KWG ZAG mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
-
-### 16.6. Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko
-
-Bearbeitungsauftrag: Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Für den Factoringkunden ist die bilanzielle Ausbuchung der Forderung (Off-Balance) oft das eigentliche Geschäftsziel.
-Lieferstück: Fachvotum zu Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.7. Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB
-
-Bearbeitungsauftrag: Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
-Normbezug aus dem Fachmaterial: Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
-Lieferstück: Fachvotum zu Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.8. Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote
-
-Bearbeitungsauftrag: Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
-Normbezug aus dem Fachmaterial: Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
-Lieferstück: Fachvotum zu Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. Auditrechte Stichproben Forderungsprüfung
-
-Bearbeitungsauftrag: Auditrechte Stichproben Forderungsprüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Der Factor kauft Forderungen, ohne sie einzeln im Ankaufzeitpunkt vollständig prüfen zu können.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.10. Debitorenbrief höflich aber rechtssicher
-
-Bearbeitungsauftrag: Debitorenbrief höflich aber rechtssicher: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Der erste Brief, den ein Debitor vom Factor erhält, prägt die gesamte Folgekommunikation.
-Lieferstück: Fachvotum zu Debitorenbrief höflich aber rechtssicher mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.11. Drittschuldneranzeige und stille Zession
-
-Bearbeitungsauftrag: Drittschuldneranzeige und stille Zession: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Eine stille Zession ist eine Forderungsabtretung, von der der Drittschuldner (Debitor) nichts weiß.
-Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
-
-### 16.12. Echtes und unechtes Factoring Risikoverteilung
-
-Bearbeitungsauftrag: Echtes und unechtes Factoring Risikoverteilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Die wichtigste Grundunterscheidung des Factoringrechts: echtes Factoring versus unechtes Factoring.
-Lieferstück: Fachvotum zu Echtes und unechtes Factoring Risikoverteilung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bei fehlendem Zugriff benenne die konkrete Unterlage und bearbeite unabhängige Teile weiter; zusätzliche Skills sind optional. Ohne Export liefere den vollständigen Text und behaupte keine nicht erfolgte Recherche oder Dateierzeugung. Gliedere dezimal und verwende bei formatierten Dokumenten Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.

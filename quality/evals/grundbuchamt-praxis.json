@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "grundbuchamt-praxis",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gbo/__35.html",
@@ -21,14 +21,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt ist stark auf Grundstückskauf ausgerichtet; beim Mini fehlte die eigenständige Berichtigungs- und Erbnachweisroute.",
+    "reason": "Vollständig geprüft: Nachgereichte Eröffnungsniederschrift, Vollmacht oder Genehmigung führen zur erneuten Nachweisprüfung und zum fertigen Berichtigungs- oder Nachreichungsschreiben. Diese individuelle Fortsetzung bleibt unverändert.",
     "changes": [
       "Berichtigung vom rechtsgeschäftlichen Erwerb getrennt.",
       "Öffentliches Testament und Eröffnungsniederschrift berücksichtigt.",
       "Nachweismatrix statt vorsorglich jeder denkbaren Urkunde verlangt."
     ],
-    "sha256": "ab9e5234e765e66cf2720bcfa81812a92d968986467bb87517aad8593e954714"
+    "sha256": "365eb9717c333a5c22bf0461ebcc55bf17e0cb32a7426f5520e2e30fabc009bc"
   },
+  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung bestätigte die Fortsetzung bei Erbfall und Zwischenverfügung; eine zusätzliche Stationsproduktpflicht passte nicht zum einzelnen Nachreichungsauftrag.","changes":["Antrag, Bewilligung und Vertretungsnachweis der konkreten Eintragung zugeordnet.","Materielle Berechtigung und Nachweis unterschieden; Prüfung in das bestellte Schreiben statt weitere Pflichttabellen führen lassen."],"sha256":"9b33ad0fd14664405664860362a8441313ac5a92bf1911f82522dad813366e19"},
   "selection": {
     "positive": [
       "Prüfe, welche Urkunden zur Grundbuchberichtigung nach Erbfall ausreichen.",

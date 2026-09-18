@@ -137,6 +137,38 @@ def marketplace(root=ROOT):
     return {p["name"]: inside(root, p["source"]) for p in load(root / ".claude-plugin/marketplace.json")["plugins"]}
 
 
+def validate_focus_review(review, plugin, target, directory, root):
+    directory, root = directory.resolve(), root.resolve()
+    if not isinstance(review, dict):
+        raise LabError("Schwerpunkt-Prüfung muss ein JSON-Objekt sein")
+    if review.get("method") != "desk_review":
+        raise LabError("Schwerpunkt-Prüfung dokumentiert nur desk_review, keinen Live-Modelltest")
+    try:
+        iso_day(review.get("reviewed_on"))
+    except (ValueError, TypeError) as exc:
+        raise LabError("Ungültiges Schwerpunkt-Prüfdatum") from exc
+    if not isinstance(target, str) or not SLUG.fullmatch(target):
+        raise LabError("Schwerpunkt-Prüfung benötigt selection.target_skill")
+    for kind, relative in (
+        ("prompt", f"{plugin}-hauptproblem.md"),
+        ("skill", f"skills/{target}/SKILL.md"),
+    ):
+        expected = directory / relative
+        try:
+            expected_name = expected.relative_to(root).as_posix()
+        except ValueError as exc:
+            raise LabError("Schwerpunkt-Pfad liegt außerhalb des Repositorys") from exc
+        if review.get(f"{kind}_path") != expected_name:
+            raise LabError(f"Schwerpunkt-{kind}-Pfad passt nicht zum Plugin und Zielskill")
+        path = inside(directory, relative)
+        if not path.is_file():
+            raise LabError(f"Schwerpunkt-{kind}-Datei fehlt")
+        validate_prompt_review(
+            {**review, "sha256": review.get(f"{kind}_sha256")},
+            f"Schwerpunkt-{kind}-Prüfung", path,
+        )
+
+
 def validate_profile(profile, plugin, directory, root=ROOT):
     if not isinstance(profile, dict):
         raise LabError("Prüfprofil muss ein JSON-Objekt sein")
@@ -166,6 +198,8 @@ def validate_profile(profile, plugin, directory, root=ROOT):
     if selection_target is not None and (not isinstance(selection_target, str) or not SLUG.fullmatch(selection_target)
                                         or not (directory / "skills" / selection_target / "SKILL.md").is_file()):
         raise LabError("Auswahlprüfung benennt einen unbekannten Zielskill")
+    if "focus_review" in profile:
+        validate_focus_review(profile["focus_review"], plugin, selection_target, directory, root)
     sources = profile.get("sources", [])
     if not isinstance(sources, list):
         raise LabError("Quellen müssen eine Liste sein")

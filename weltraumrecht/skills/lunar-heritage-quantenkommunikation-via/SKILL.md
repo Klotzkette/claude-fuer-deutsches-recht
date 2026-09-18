@@ -23,7 +23,7 @@ description: "Für Lunar Heritage und Schutz historischer Mondlandestellen: ordn
 
 ## Voelker- und nationalrechtlicher Rahmen
 
-- **Outer Space Treaty 1967**: Art. I freier Zugang aller Staaten zum Mond; Art. II Verbot der nationalen Aneignung; Art. IX gebotene Rücksichtnahme und Vermeidung von harmful interference; Art. VIII Eigentum an Gegenstaenden bleibt beim Eintragungsstaat.
+- Outer Space Treaty 1967: Artikel I zum freien Zugang, Artikel II zum Nichtaneignungsprinzip und Artikel IX zur Rücksichtnahme und Konsultation bei drohender schädlicher Beeinträchtigung unterscheiden. Artikel VIII erhält Jurisdiktion und Kontrolle des Registerstaats sowie bestehende Eigentumsrechte; Registrierung überträgt kein Eigentum auf den Registerstaat. Geprüft am 16.09.2026 anhand der [amtlichen UN-Vertragssammlung, Seite 5](https://www.unoosa.org/pdf/publications/st_space_11rev2E.pdf).
 - **Moon Agreement 1979**: Art. 7 Vermeidung von schaedlichen Veraenderungen; Art. 11 Mond als common heritage of mankind. Ratifikation eng (Deutschland nicht; USA nicht; China nicht).
 - **Registration Convention 1975**: gegenstaendlicher Schutz registrierter Gegenstaende.
 - **US One Small Step to Protect Human Heritage in Space Act** (Public Law 116-275, 31.12.2020): verpflichtet US-Akteure mit NASA-Beteiligung zur Einhaltung der NASA Recommendations to Space-Faring Entities (NASA-SP-2011-1226).

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "kanzlei-allgemein",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
@@ -11,13 +11,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die organisatorische Grundroute bleibt sinnvoll. Die Stop-Regel erfasste jedoch einen fehlenden gerichtlichen Eingangsnachweis nicht und vermischte Verantwortung mit Beweislast.",
+    "reason": "Der vollständig gelesene Schnellstart führt vom vorhandenen Post-, Frist- oder Gebührenauftrag zum bestellten Dokument, ohne eine abgeschlossene Mandatsaufnahme zu wiederholen.",
     "changes": [
-      "Eingangsbestätigung vor Fristerledigung konkretisiert.",
-      "Aufgabenverteilung von prozessualer Beweislast getrennt.",
-      "Eigenmächtige Einreichung und Kalenderlöschung ausgeschlossen; Vertiefung optional."
+      "Nach Eingang von Zustellungsbeleg, Vertretungsbestätigung oder Gebührennachweis werden die betroffenen Fristen und Schreiben fortgeführt; Versandstatus und gerichtlicher Eingang bleiben getrennt."
     ],
-    "sha256": "fe4b8459d873c5cb867d2da828b6fe83cc9686df5e7e00c09e479929b2dc968e"
+    "sha256": "2d508b3651c0c45c76a6bf0a1d7b077039bb377797b92d69a01c0b5f7e02e15c"
   },
   "selection": {
     "positive": [
@@ -62,5 +60,13 @@
       ],
       "target_skill": "bea-versand-pruefen"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die gesamte Werkstatt einschließlich Versandkontrolle, Abrechnung und Abschluss wurde gelesen. Aufgabenverteilung ersetzt weder Eingangsnachweis noch Freigabe; eine fehlende Bestätigung beendet die Fristenkontrolle nicht.",
+    "changes": [
+      "Die fachlichen Arbeitswege führen nach ergänzten Nachweisen zum Versandvermerk, zur Rechnung oder zum beauftragten Schreiben; interne Quellenprüfung bleibt außerhalb des Mandantenbriefs."
+    ],
+    "sha256": "42ee9432dc946904d0e8241b8df01a084e4fa05391e4336ba4f6b7a17a4fce0c"
+  }
 }

@@ -1,12 +1,14 @@
 # 1. Versicherungsrecht: Deckung und Kürzung am Vertrag prüfen
 
-Prüfe den konkreten Leistungsanspruch oder die konkrete Ablehnung. Beginne mit Versicherungsschein, maßgeblichen Bedingungen und Nachträgen, Schadenmeldung und Ablehnungsschreiben. Erfasse Sparte, versichertes Risiko, Person, Zeitraum, Schadenereignis, Anspruchshöhe und Bearbeitungsziel. Eine Maklerhaftungsfrage ist von einem Deckungsstreit gegen den Versicherer zu trennen.
+Prüfe den konkreten Leistungsanspruch oder die konkrete Ablehnung und erstelle das verlangte Dokument. Trenne eine Maklerhaftungsfrage vom Deckungsstreit gegen den Versicherer.
 
 ## 1.1. Belegte Ausgangslage
 
-Liefere unmittelbar das verlangte Memo oder einen nicht versandten Anspruchs- beziehungsweise Ablehnungsentwurf. Ohne konkreten Auftrag erstelle eine Deckungsmatrix. Frage fehlende entscheidende Angaben gebündelt ab; blockiere nicht die gesamte Arbeit wegen einer einzelnen fehlenden Anlage. Dokumentiere bei jeder Klausel die tatsächlich vorliegende Fassung, Einbeziehung und relevante Textstelle. Keine Musterbedingungen anstelle des Vertrags unterstellen.
+Lies Versicherungsschein, maßgebliche Bedingungen und Nachträge, Schadenmeldung und Ablehnungsschreiben. Entnimm ihnen Sparte, Risiko, Person, Zeitraum, Schadenereignis, Anspruchshöhe und Bearbeitungsziel; frage bekannte Angaben nicht erneut ab. Dokumentiere bei jeder Klausel Fassung, Einbeziehung und relevante Textstelle. Keine Musterbedingungen anstelle des Vertrags unterstellen.
 
-Die Matrix enthält Versicherungsfall, versicherten Zeitraum, Risikoausschluss, Obliegenheit, Selbstbehalt, Grenze und jeweilige Belege. Versicherungsfall und Schaden sind nicht bereits durch eine Schadenmeldung bewiesen. Ausschluss und Obliegenheit haben unterschiedliche Voraussetzungen. Halte strittige Tatsachen, rechtliche Auslegung und nicht geprüfte Quellen auseinander.
+Ordne Versicherungsfall, versicherten Zeitraum, Risikoausschluss, Obliegenheit, Selbstbehalt und Grenze den Belegen zu; eine Tabelle ist bei mehreren Positionen hilfreich, aber nicht verpflichtend. Versicherungsfall und Schaden sind nicht bereits durch eine Schadenmeldung bewiesen. Ausschluss und Obliegenheit haben unterschiedliche Voraussetzungen. Halte strittige Tatsachen, rechtliche Auslegung und nicht geprüfte Quellen auseinander.
+
+Fehlt etwa das Belehrungsschreiben oder ein zeitnahes Schadengutachten, fordere gezielt diesen Nachweis an und bearbeite unabhängige Teile weiter. Nach Eingang prüfe, ob sich Belehrung, Kausalitätsgegenbeweis oder Schadenhöhe anders beurteilen; aktualisiere die betroffene Rechnung und das bestellte Schreiben. Neue entscheidende Lücken erlauben weitere kurze Rückfragen, nicht die Wiederholung der Aufnahme.
 
 ## 1.2. Obliegenheitsprüfung ohne Pauschalquote
 
@@ -28,6 +30,10 @@ Erstelle eine Zeitachse aus Ereignis, Kenntnis, Meldung, Nachforderung, Antwort,
 
 ## 1.4. Verwendbares Ergebnis
 
-Liefere Deckungsvotum mit Betrag oder Bandbreite, Ablehnungsgrund-für-Ablehnungsgrund-Erwiderung, stärkstem Gegenargument, Beleglücken und nächstem Schritt. Fehlende Unterlagen mit Zweck nachfordern. Ein Vergleichsangebot ist kein feststehender Anspruch. Keine Abfindungsquittung, Kündigung, Klage oder Korrespondenz eigenmächtig erklären oder versenden.
+Liefere das beauftragte Gutachten oder Schreiben in vollständigen Sätzen mit Betrag beziehungsweise begründeter Bandbreite, tragenden Gründen und stärkstem Gegenargument. Bearbeite geltend gemachte Ablehnungsgründe jeweils gesondert; ein Gutachtenauftrag führt nicht ungefragt zum Klageentwurf. Ein Vergleichsangebot ist kein feststehender Anspruch. Keine Abfindungsquittung, Kündigung, Klage oder Korrespondenz eigenmächtig erklären oder versenden.
 
-Ohne Dateiexport vollständigen Text ausgeben; ohne Quellenzugriff die betroffene Rechtsfrage offen markieren. Nach einem erfolglosen Alternativabruf den Teilstand liefern. Werkstatt und weitere Skills sind optional; die hier enthaltenen Regeln reichen für den eigenständigen Beginn.
+Bei einem entscheidenden Hindernis liefere den tragfähigen Teil vorläufig und benenne die benötigte Ergänzung; nach Eingang bis zur bestellten Endfassung weiterarbeiten. Übernimm den gewünschten Dateinamen, sonst `ergebnis.md`. Quellenstatus und technische Hinweise gehören in eine gesonderte Arbeitsnotiz, nicht in den Empfängertext.
+
+## 1.5. Technische Grenzen
+
+Ohne Quellen- oder Dateizugriff die konkrete Lücke nennen und keine vollständige Prüfung vortäuschen. Ohne Export vollständigen Text statt eines erfundenen Links ausgeben und nach Behebung am offenen Punkt fortsetzen. Werkstatt und weitere Skills bleiben optional; formatiere Dokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung und nenne nötige Exporthinweise gesondert.

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-gewerblicher-rechtsschutz",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/geschmmg_2004/__46.html",
@@ -31,14 +31,28 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der alte Schnellstart wiederholte dieselbe Beweislastformel auch für Rechtsbestand und Einreden und enthielt kaum eine ausführbare Schadensrechnung. Das neue Mini trennt Schutzrechte und Zahlungsfragen; lokale Vertiefungslinks sind ausdrücklich optional.",
+    "reason": "Vollständig geprüft: Nachgereichte Produktansichten verändern den Verletzungsvergleich, Kostenbelege die Zahlungsrechnung; anschließend wird das bestellte Schreiben fertiggestellt. Diese Fortsetzung bleibt unverändert.",
     "changes": [
       "Pauschale Beweislastzuweisung durch merkmalbezogene Prüfung mit gesetzlichen Vermutungen ersetzt.",
       "Mengen-, Retouren- und Kostenabgleich sowie Trennung von Kostenabzug und Gewinnzurechnung ergänzt.",
       "Wiederholte Tabellen und unverbundene Patentnormen entfernt; Entwurf ohne Vollzug und ehrliche Quellenlücken verankert."
     ],
-    "sha256": "e711e6275836e080c3594d8e83a1fd685c5a675c6034d6374b06febb2c1e53dc"
+    "sha256": "4d3ce5fcf2520a52b96bc908a47bb7cdd4dfd18178c15e5ccd46711d6247b215"
   },
+  "focus_review": {
+    "reviewed_on": "2026-09-17",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "changes": [
+      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+    ],
+    "prompt_path": "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-hauptproblem.md",
+    "prompt_sha256": "4dc18e4fd183f03b141379d4d63e04c744abc4862ec4cb9a7c8677ff301b1dd7",
+    "skill_path": "fachanwalt-gewerblicher-rechtsschutz/skills/design-verletzergewinn-kostenabgleich/SKILL.md",
+    "skill_sha256": "365d10ded88ace3f90d349f6a4ff6b9b38866f915fef6cacdcf876bc4a81e533"
+  },
+  "workshop_review": {"verdict":"revised","reason":"Die vollständige Prüfung bestätigte Verletzungsform und Schadensrechnung als konkrete Bearbeitungswege; die allgemeine Stationsausgabe war dazu widersprüchlich.","changes":["Zeichenvergleich und Schadensrechnung als Vorarbeiten der bestellten Abmahnung, Erwiderung oder Bewertung statt zusätzliche Ergebnisdokumente gefasst."],"sha256":"ce1f9eb748cf6bcccd23f9d902f21bfdb4082d687e0dd55641777853809d4a13"},
   "selection": {
     "positive": [
       "Prüfen Sie die Rechnungslegung zu unserem verletzten deutschen Möbeldesign: Retouren, Kostenstellen und Gemeinkosten sollen in einen Zahlungsentwurf überführt werden.",

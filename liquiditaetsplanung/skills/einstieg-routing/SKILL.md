@@ -3,13 +3,29 @@ name: einstieg-routing
 description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Liquiditätsplanung — Power."
 ---
 
-# Einstieg und Routing
+# 1. Liquiditätsauftrag und Prüfungsumfang
 
-## Einsatzlage
+## 1.1. Mit dem vorhandenen Zahlenstand beginnen
 
-Dieser Einstieg routet **Liquiditaetsplanung** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+Erarbeite aus den vorgelegten Zahlungsdaten die bestellte Planung oder rechtliche Einschätzung. Lies Bankstand, OP-Listen, Kreditbedingungen und vorhandene Krisenvermerke zuerst; Rolle und Ziel nur klären, soweit sie nicht feststehen.
 
-## Fachlandkarte dieses Plugins
+Bestimme, ob eine aktuelle Zahlungsfähigkeitsprüfung, ein rollierender Finanzplan, eine Fortbestehensprognose oder eine Bankunterlage benötigt wird. Geschäftsführer, Berater, Bank und Verwalter benötigen unterschiedliche Entscheidungsgrundlagen; ein bloßer Wechsel des Adressaten ersetzt aber keine neue Tatsachenprüfung.
+
+## 1.2. Zeitliche und rechtliche Abgrenzung
+
+Bei konkreten Krisensignalen Stichtagsstatus und kurzfristige Entwicklung untersuchen. Paragraf 15a InsO verlangt für die erfassten Verpflichteten den Antrag ohne schuldhaftes Zögern und nennt Höchstfristen von drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung; den jeweiligen Eintritt und Anwendungsbereich prüfen. Die Drei-Wochen-Betrachtung zur Zahlungsstockung ist davon zu unterscheiden; BGH, Urteil vom 24.05.2005, IX ZR 123/04 vor Zitierung amtlich verifizieren.
+
+Paragrafen 17, 18 und 19 InsO getrennt anwenden. IDW S 11, IDW PS 800, HGB Paragraf 252 Absatz 1 Nummer 2 sowie StaRUG Paragrafen 1, 29 und 102 nur für die konkrete Anschlussfrage und anhand zugänglicher aktueller Quellen heranziehen. Eine 13-Wochen-Tabelle genügt nicht automatisch für sämtliche Prüfungen.
+
+## 1.3. Fehlende Belege bis zur Entscheidung klären
+
+Fehlt eine Kreditfreigabe, bestimme die offene Bedingung und frage nach der Bankbestätigung. Fehlt eine Stundung, kläre die konkrete Vereinbarung statt die Fälligkeit frei zu verschieben. Rechne den belegten Ausgangsfall bereits und kennzeichne die Auswirkung der noch ungesicherten Maßnahme.
+
+Nach Eingang der Antwort aktualisiere Verfügbarkeit, Zahlungstermin und Deckungslücke. Formuliere dann den bestellten Finanzierungsvermerk oder Brief vollständig; zeigt die Antwort eine neue entscheidende Lücke, frage gezielt weiter. Keine feste Fragenzahl und keine erneute Aufnahme bereits geklärter Angaben.
+
+## 1.4. Optionale Vertiefungen
+
+Diese vorhandenen Skills sind nur Hilfsmittel bei einer konkreten Fachfrage. Ohne Zugriff mit der hier beschriebenen Rechnung und Prüfung weiterarbeiten, statt eine Modulliste als Ergebnis auszugeben.
 
 - `ampel-zahlen-schwellenwerte-berechnung` — Ampel Zahlen Schwellenwerte Berechnung
 - `ausgabengruppen-fristennotiz-naechster` — Ausgabengruppen Fristennotiz Naechster
@@ -27,16 +43,15 @@ Dieser Einstieg routet **Liquiditaetsplanung** vom ersten Sachverhalt zu Rollen,
 - `anschluss-routing` — Anschluss Routing
 - `dokumente-intake` — Dokumente Intake
 
-## Arbeitsweg
 
-- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: Paragraf 15a InsO verlangt den Antrag unverzüglich und setzt nur Höchstfristen von 3 Wochen bei Zahlungsunfähigkeit und 6 Wochen bei Überschuldung. Für die Abgrenzung der Zahlungsstockung gilt der Drei-Wochen-Test aus BGH, Urteil vom 24.05.2005 - IX ZR 123/04.
-- Fachpfad wählen: zentrale Anker im Liquiditätsplanung und Insolvenzrecht-Schnittstelle sind InsO §§ 17, 18, 19, 15a, IDW S 11, IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), StaRUG §§ 1, 29, 102. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
-- Zuständige Stelle bestimmen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Bank, IV/Restrukturierungsbeauftragter.
-- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+## 1.5. Quellen und Ausgabe
 
-## Qualitätsanker
+Normen und Rechtsprechung nach den bei Zugriff verfügbaren Hinweisen in `references/quellenhygiene.md` und `references/zitierweise.md` prüfen. Fehlende Quelle oder Datenbasis nicht durch eine vermeintlich sichere Schwelle ersetzen. Quellenstatus und technische Hinweise getrennt vom Empfängertext halten.
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+Liefere die bestellte Tabelle und ausformulierte Beratung, keine bloße Auswahl weiterer Skills. Ohne Dateiwunsch ist `ergebnis.md` möglich; Nutzerbenennungen gehen vor. Formatierte Texte verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Textausgabe als Exporthinweis. Externe Zahlungen, Nachrichten und Einreichungen nur nach Freigabe.
+
+## 1.6. Beispiel und Zugriff
+
+Wird eine Bankverlängerung nur mündlich in Aussicht gestellt, zeige den auslaufenden Kredit im belegten Verlauf und die Verlängerung gesondert. Nach schriftlicher Bestätigung prüfe die Bedingungen und aktualisiere den Bankvermerk.
+
+Ist eine Datei nicht lesbar, versuche einen geeigneten anderen Zugriff oder fordere den nötigen Ausschnitt an. Der bearbeitbare Teil wird fortgesetzt; vollständige Prüfung oder Dateierzeugung nur behaupten, wenn sie tatsächlich erfolgt ist.

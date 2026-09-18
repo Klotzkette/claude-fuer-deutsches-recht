@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "designrecht-geschmacksmusterrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html",
@@ -11,12 +11,19 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der brauchbare Bildvergleich unterschied eigene und unabhängige fremde Veröffentlichung noch nicht ausreichend.",
+    "reason": "Ganztextreview: Wiederholte Fallkarte und Antwortform enthielten trotz gegenteiliger Schlussregel eine pauschale Beweislastaufteilung. Der Mini wurde entlang von Bildnachweis und beauftragtem Designverfahren neu gegliedert; keine neue Quellenverifikation oder Live-Modellprüfung.",
     "changes": [
-      "Schonfrist nach Urheber und Offenbarung getrennt.",
-      "Registerstatus nicht als materielles Bestandsurteil behandelt; optionale Vertiefung."
+      "Doppelte Prüfschemata durch Anmeldung, Bestandsangriff, Verletzung und Lizenz als konkrete Alternativen ersetzt.",
+      "Bild- und Veröffentlichungsnachforderung mit aktualisiertem Einzelvergleich und fertigem Dokument verbunden.",
+      "Schonfrist, Verbot des Merkmalsmosaiks und Grenzen des Registerstatus erhalten; Beweislast verfahrensbezogen und Dateinamen nach Nutzerwunsch behandelt."
     ],
-    "sha256": "6b98a3877c48aac389ee74a14c6183bd90aaf3599699e5fbf54b18a1d8d93287"
+    "sha256": "0245a39f2b494e4885cbabc649e7c0feca4d6650cd6fb688b05dcab34c524420"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständig gelesene Werkstatt wiederholte für Recherche, Anmeldung und Verletzung dasselbe Vergleichsschema und verlangte beim Parteieilauftrag eine gerichtliche Entscheidung. Ganztextredaktion ohne neue Quellenverifikation oder Live-Modelltest.",
+    "changes": ["Registerrecherche und Anmeldung getrennt; Sammelanmeldung und Locarno-Klassifikation an den jeweiligen Amtsweg gebunden.","Neuheit, Gesamteindruck, technische Bedingtheit, nicht eingetragenes Design und Reparaturklausel in eigene sachbezogene Abschnitte überführt.","Parteiantrag statt fingierter Entscheidung; fehlende Ansicht führt nach Eingang zur Überarbeitung der bestellten Fassung."],
+    "sha256": "8d0a00fc5772d95eaae9ad550174c2a7c87d1a1832ef1f82f03000a0bc300d12"
   },
   "selection": {
     "positive": [

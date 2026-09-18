@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "roemisches-recht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__929.html",
@@ -10,14 +10,21 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Epochen- und Quellenarbeit war brauchbar; moderne Prozessbegriffe und redundante Übersicht schwächten die Quellenkritik.",
+    "verdict": "retained",
+    "reason": "Mini vollständig schlussgelesen, nicht nur Einstieg geprüft. Epochen, Textzeugen, Übersetzung und Prozessformen bleiben getrennt; nachgereichte Passage führt zur revidierten Deutung und fertigen Exegese. Kein moderner Prozesszwang oder Pflichtdateiname. Keine neue Quellenverifikation oder Live-Modellprüfung.",
     "changes": [
-      "Quellengattung statt pauschaler Rechtsprechungssuche eingeführt.",
-      "Interpolation als begründungsbedürftige Hypothese und Werkstatt als optional markiert.",
-      "Redundante Einsatzfeldtabelle entfernt."
+      "Historische Fallanalyse und gezielte Ergänzung fehlender Textstellen unverändert beibehalten."
     ],
-    "sha256": "08ca5b8f1f1204d712496f685c49d282d26ac694bef1e4db5587fc6b0441efdf"
+    "sha256": "8760214e7b03f634645435c08239064126a99d2464e625482e7b5181f551e073"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Alle elf Abschnitte vollständig gelesen. Die bereits neu gegliederte Werkstatt bewahrt Status, Sachenrecht, Sicherheiten, Verträge, Delikte, Condictiones, Erbfolge und Rezeption. Keine abstrakte moderne Prozessroute oder generischen Pflichtausgaben; historische Mehrdeutigkeit bleibt auch bei vollständigem Text sichtbar.",
+    "changes": [
+      "Keine erneute Textänderung erforderlich; konkrete Quellenlücken führen bereits zur Aktualisierung und bestellten Endfassung.",
+      "ergebnis.md bleibt ausdrücklich nur Standard ohne Nutzerbenennung; vorhandene Quellen und Fälle unverändert."
+    ],
+    "sha256": "a6c27a5bded096b4b60179aa89b56b5828c68286fa730e15ff23416727087364"
   },
   "selection": {
     "positive": [

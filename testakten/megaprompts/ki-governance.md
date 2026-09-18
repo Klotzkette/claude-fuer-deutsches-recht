@@ -1172,45 +1172,39 @@ KI-generierte Werbung muss nach Art. 50 KI-VO als solche gekennzeichnet sein —
 
 _Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Technik-Governance._
 
-# Kaltstart und Routing
+# 1. KI-Governance-Auftrag bearbeiten
 
-## Aufgabe
-Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+Erarbeite die bestellte Systembewertung, Richtlinie, Vertragsfassung oder Vorfallantwort aus dem vorhandenen Inventar und den konkreten Nachweisen. Ein einzelner Einsatz oder Vorfall verlangt keine vollständige Neuaufnahme des Unternehmens.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## 1.1. Vorhandenen Stand lesen
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+Lies Zweckbeschreibung, Anbietervertrag, Konfiguration, Freigabe und gegebenenfalls Vorfallvermerk zuerst. Übernimm Rolle, Systemfunktion, betroffene Personen, Daten und Ziel daraus. Frage nur nach entscheidenden fehlenden Angaben; bekannte Einstufungen bei unveränderter Grundlage weiterverwenden.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## 1.2. Fachlichen Weg durchführen
 
-## Routing-Diagnose KI-Governance
-- **"Wir wollen KI im Unternehmen einsetzen"** → Inventar, Klassifizierung nach KI-VO (VO (EU) 2024/1689) und DSGVO-Schnittstelle (Art. 6, 22, 35 DSGVO).
-- **"Wir entwickeln eigene KI-Lösungen"** → Anbieterrolle Art. 3 Nr. 3 KI-VO, ki-vo-ai-act-pruefer-Plugin verlinken.
-- **"Wir schreiben eine KI-Richtlinie"** → ki-richtlinie-kanzleien-Plugin oder eigene Vorlage; DAV-Stellungnahme zur KI-Nutzung in Kanzleien als Orientierung.
-- **"Wir haben einen KI-Vorfall"** → Vorfallmeldung Art. 73 KI-VO (Hochrisiko) plus Art. 33/34 DSGVO bei personenbezogenen Daten.
+Bei geplantem Einsatz die konkrete Funktion inventarisieren und die Rolle nach Artikel 3 der Verordnung (EU) 2024/1689 bestimmen. Verbote, Hochrisikopfad und Transparenz getrennt prüfen; DSGVO Artikel 6, 22 und 35 nach ihrem eigenen Anwendungsbereich behandeln. Eine Anbieterzusage ersetzt keine eigene Betreiberentscheidung.
 
-## Praxis-Tipp
-Eine Kanzlei-KI-Richtlinie ohne Inventar und Klassifizierung ist Symbolpolitik. Empfehlung: zuerst inventarisieren (welches Tool, welche Daten, welche Rolle), dann klassifizieren (KI-VO-Risikoklasse, DSGVO-Datenkategorie), dann Richtlinie. Geltungsbeginn Art. 5 KI-VO seit 02.02.2025, Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027 und Anhang I ab 02.08.2028 nach Artikel 113 neuer Fassung. Nur die Funktion im aktuellen Auftrag inventarisieren; vorhandene Einstufung verwerten.
+Bei eigener Entwicklung Anbieterrolle und mögliche Änderungen der Rolle untersuchen. Das Plugin `ki-vo-ai-act-pruefer` kann optional vertiefen; ohne Zugriff hier anhand der konkreten Zweckbestimmung weiterarbeiten. Bei Richtlinienauftrag die tatsächlich eingesetzten Systeme und Datenwege zugrunde legen; `ki-richtlinie-kanzleien` oder eine vorhandene Vorlage sind optional, eine DAV-Stellungnahme nur Orientierung und keine Rechtsquelle für jede Pflicht.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+Bei Vorfall Kenntniszeitpunkt, laufenden Zugriff und betroffene Daten zuerst prüfen. Eine etwaige Meldung nach Artikel 73 der KI-Verordnung und Artikel 33 beziehungsweise 34 DSGVO getrennt nach Tatbestand, Adressat und Geltungsbeginn beurteilen. Fehlende Protokolle konkret nachfordern; nach Antwort Chronologie, Risiko und bestellten Meldungsentwurf aktualisieren.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+## 1.3. Termine und Nachweise
+
+Die bestehende Rechtsstandvorgabe zur Fassung 2026/1744 beachten und vor Verwendung verifizieren: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 gelten für Anhang III ab 2. Dezember 2027, für Anhang I ab 2. August 2028. Verbote seit 2. Februar 2025, neue Verbote, Artikel 4 und 4a, GPAI, Artikel 50 und Bestandssysteme separat prüfen. Kein pauschaler Aufschub aller Pflichten.
+
+Fehlt die Beschreibung menschlicher Eingriffsmöglichkeiten, nach konkreter Befugnis, Bedienung und Vertretung fragen. Nach Antwort betroffene Aufsichtsregel und Freigabebedingung überarbeiten und das bestellte Dokument abschließen. Bei neuem entscheidendem Widerspruch kurz weiterfragen, bereits Beantwortetes nicht erneut erheben.
+
+## 1.4. Quellen und Endfassung
+
+Tragende Normen, Behördenzuständigkeit und Entscheidungen amtlich prüfen. Rechtsprechung nur mit überprüftem Gericht, Datum, Aktenzeichen und Aussagegehalt; keine Literaturfundstellen aus Modellwissen. Optional ergänzt `references/zitierweise.md` die Zitierweise. Quellenstatus in einer getrennten Arbeitsnotiz halten.
+
+Das bestellte Dokument in vollständigen Sätzen unter der Nutzerbenennung liefern, nicht als Pflichtampel oder allgemeine Maßnahmenmatrix. Bei entscheidender Lücke den belastbaren Teil vorläufig benennen und nach Ergänzung fortsetzen. Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, sonst mit getrenntem Exporthinweis.
+
+## 1.5. Beispiel und Grenzen
+
+Für einen Kundendienstassistenten fehlt die Antwort des Anbieters zur Speicherung eingegebener Daten. Fordere Datenweg, Empfänger und Löschregel konkret an; nach Antwort Datenschutzbewertung und bestellte Nutzungsrichtlinie aktualisieren. Ungeklärte Nutzung nicht freigeben, unabhängige Entwurfsarbeit aber fortsetzen.
+
+Meldung, Systemabschaltung, Versand und Datenoffenlegung nur nach ausdrücklicher Autorisierung. Ohne weitere Skills hier weiterarbeiten; fehlenden Zugriff benennen und ohne Export vollständigen Text liefern.
 
 ---
 

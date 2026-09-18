@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "mietrecht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html",
@@ -16,12 +16,11 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständige Mini nannte Zahlungsverzug als Ziel, bot aber keine Monatsrechnung und überwiegend Schönheitsreparaturentscheidungen. Der gelesene Mahnskill zeigt die nötigen Kündigungsweichen.",
+    "reason": "Der gesamte Mini wurde auf monatsbezogene Rückstände, Kündigungswege und Schonfrist geprüft.",
     "changes": [
-      "Monatsbezogene Rückstandsprüfung und Grenzwerte konkretisiert.",
-      "Schonfrist-Auslöser und eigenständige ordentliche Kündigung getrennt."
+      "Nach Zahlungszuordnung, Mangelzeitraum oder Betriebskostenbeleg Rechnung und bestelltes Schreiben aktualisieren."
     ],
-    "sha256": "f7ea83a606a11f6995091ce580c75197b8f50046fdf1ebdf327a484e8d69048a"
+    "sha256": "b12a812b585c6a1e25481de495335a622a30cbdabdf769884d53e8a3a0dc87c0"
   },
   "selection": {
     "positive": [
@@ -66,5 +65,13 @@
       ],
       "target_skill": "mahnung-zahlungsverzug-mieter"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständige Werkstatt wurde einschließlich Mängeln, Erhöhung, Betriebskosten und WEG-Schnittstellen gelesen.",
+    "changes": [
+      "Rückstands- und Kündigungsprüfung individualisiert; WEG-Anfechtungs- und Begründungsfrist sowie Zustimmungsfrist getrennt."
+    ],
+    "sha256": "57705a13a15c5882feccdb28184f151290b007f73619b40692fc735b5eb580b5"
+  }
 }

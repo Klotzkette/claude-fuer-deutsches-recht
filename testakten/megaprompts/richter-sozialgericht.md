@@ -213,102 +213,49 @@ Dieser Skill ordnet den sozialgerichtlichen Streitstoff nach Bescheid, Widerspru
 
 _Für Finale Entscheidung als Volltext (Urteil Sozialgericht): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Finale Entscheidung als Volltext (Urteil Sozialgericht)
+# 1 Sozialgerichtliche Entscheidung ausformulieren
 
-## Zweck
+Erstelle den bestellten vollständigen Entscheidungsentwurf anhand der vorhandenen Akte und Prüfungen. Der Text bleibt ein Entwurf zur menschlichen Entscheidung, auch wenn er vollständig ausformuliert ist.
 
-Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern als versandfertigen Volltext im richtigen Layout — so, wie er das Gericht verlassen würde. Die Entscheidung wird zur Unterschrift fertig gebaut: mit Rubrum, vollständigem Tenor, Tatbestand oder Sachverhalt, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung.
+## 1.1 Entscheidungsgrundlage
 
-Gegenstand: Urteil des Sozialgerichts.
+Lies Klage oder Antrag, Bescheidkette, Verwaltungsakte, Beteiligtenvortrag und Beweisergebnisse. Bestimme Streitgegenstand und Teilzeiträume. Vorbereitende Skills sind optional; ihr vorheriger Aufruf ist keine Voraussetzung.
 
-## Rechtlicher Rahmen
+Prüfe statthafte Entscheidungsform, notwendige Beiladung, Vorverfahren, Klagefrist und rechtliches Gehör. Paragrafen 125 und 136 SGG für das Urteil sowie die jeweils einschlägigen Regeln für Gerichtsbescheid oder Beschluss anwenden. Keine mündliche Verhandlung oder Beratung erfinden.
 
-Paragrafen 125, 136 SGG für Urteilsaufbau; Paragraf 193 SGG für Kostenentscheidung im sozialgerichtlichen Verfahren.
+## 1.2 Fehlende Tatsachen und Fortsetzung
 
-## Eingangsvoraussetzungen
+Fehlt ein entscheidender Befund, Zahlungsnachweis oder Bescheid, benenne die konkrete Aufklärungsfrage. Liefere die unabhängig tragfähigen Teile als vorläufigen Entwurf; eine ungeklärte Anspruchsvoraussetzung nicht durch einen Platzhalter als erfüllt behandeln.
 
-Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein. Insbesondere müssen vorliegen:
+Nach Eingang der Antwort die betroffene medizinische Würdigung, Monatsberechnung oder prozessuale Bewertung aktualisieren. Anschließend Tenor und Gründe gemeinsam anpassen und das bestellte Dokument fertigstellen. Weitere gezielte Fragen sind zulässig, wenn neue Angaben entscheidende Widersprüche zeigen; erledigte Ermittlungen nicht wiederholen.
 
-- Rubrum mit allen Parteien, Vertretern und Aktenzeichen;
-- vollständig erfasster Sachverhalt und Streitstand;
-- geprüfte Anspruchsgrundlagen oder Tatbestandsmerkmale mit Subsumtion;
-- gewürdigte Beweise oder Akten;
-- Tenor-Skizze mit Entscheidungsformel zu Hauptsache, Kosten und vorläufiger Vollstreckbarkeit oder Rechtsmittelbelehrung.
+## 1.3 Tenor, Tatbestand und Gründe
 
-Fehlt eines dieser Stücke, weist der Skill darauf hin und unterbricht die Volltext-Erstellung, bevor er Phantasie produziert.
+Bezeichne Sozialgericht, Aktenzeichen, Beteiligte und Streitgegenstand zutreffend. Der Tenor muss genau erfassen, welcher Bescheid in welcher Fassung aufgehoben oder geändert wird und welche Leistung für welchen Zeitraum zugesprochen wird. Einen Rentenbeginn nicht aus einem allgemeinen Beispiel übernehmen.
 
-## Aufbau des Volltextes
+Stelle Sachverhalt, Anträge und entscheidungserheblichen Vortrag knapp dar. Würdige das Gesamtergebnis nach Paragraf 128 SGG nachvollziehbar; Amtsermittlung, Beteiligtenvortrag und eigene Überzeugungsbildung trennen. Medizinische Diagnose, Funktion und rechtliche Anspruchsvoraussetzung nicht gleichsetzen.
 
-### 1. Briefkopf und Rubrum
+Ermessensfehler und gegebenenfalls Ermessensreduzierung auf Null konkret begründen. Artikel 103 Absatz 1 GG und das Verbot der Überraschungsentscheidung beachten; der vorhandene Suchanker BVerfG, Beschluss vom 19. Mai 1992, 1 BvR 986/91, ist vor Verwendung im amtlichen Volltext zu prüfen.
 
-Gerichtsbezeichnung in der ersten Zeile (zum Beispiel „Amtsgericht München"), Aktenzeichen, Verkündungsdatum, vollständiges Rubrum mit Parteien, Prozessbevollmächtigten, Streitgegenstand und Spruchkörper.
+## 1.4 Eilentscheidung und Nebenentscheidungen
 
-### 2. Tenor (Entscheidungsformel)
+Bei Paragraf 86b SGG den zutreffenden Absatz bestimmen. Anordnungsanspruch, Anordnungsgrund und gegebenenfalls Folgenabwägung getrennt begründen; Reichweite und zeitliche Begrenzung einer vorläufigen Anordnung müssen aus dem Tenor hervorgehen.
 
-Der Tenor wird vollständig ausformuliert. Er ist die rechtskraftfähige Anordnung. Beispiel für diesen Spruchkörper:
+Kosten nach dem einschlägigen Regime prüfen: Paragraf 193 SGG gilt nicht unterschiedslos bei Paragraf 197a SGG. Statthaftes Rechtsmittel, Zulassungsfragen, Frist, Form und Adressat für die konkrete Entscheidung kontrollieren. Keine allgemeine zivilprozessuale Vollstreckbarkeitsformel oder sachfremde Strafzumessung ergänzen.
 
-1. Der Bescheid der Beklagten vom [Datum] in Gestalt des Widerspruchsbescheides vom [Datum] wird aufgehoben.
-2. Die Beklagte wird verurteilt, dem Kläger ab dem [Datum] eine Rente wegen voller Erwerbsminderung zu gewaehren.
-3. Die Beklagte hat dem Kläger die notwendigen außergerichtlichen Kosten zu erstatten.
+## 1.5 Quellen, Ausgabe und Schlussprüfung
 
-Der Tenor enthält zwingend: Hauptausspruch zur Sache, Kostenentscheidung, ggf. Aussprache zur vorläufigen Vollstreckbarkeit, ggf. Streitwertfestsetzung.
+Tragende Normen und Entscheidungen amtlich verifizieren; optional ergänzt `references/zitierweise.md` die Zitierweise. Zusätzliche Recherche- und Bearbeitungsvermerke getrennt vom gerichtlichen Text führen.
 
-### 3. Tatbestand oder Sachverhalt
+Liefere vollständige Sätze mit echten Umlauten, ausgeschriebenem Paragraf und dezimaler Gliederung. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt. Nutzerdateinamen haben Vorrang; `ergebnis.md` ist nur eine Ausweichbezeichnung.
 
-Knappe, sachlich-distanzierte Darstellung des unstreitigen Sachverhalts und des streitigen Parteivortrags. Bei Beschlüssen entsprechend „Gründe I."; bei Strafurteilen die Feststellungen zum Tatgeschehen. Verwende den Imperfekt für Geschehensschilderung, das Präsens für Antrag und Verfahrensstand.
+Kontrolliere Bescheiddaten, Leistungszeiträume, Beträge und Übereinstimmung von Tenor und Gründen. Noch entscheidungserhebliche Lücken verhindern die Kennzeichnung als unterschriftsreife Endfassung, nicht die Bearbeitung der übrigen Teile.
 
-### 4. Entscheidungsgründe
+## 1.6 Beispiel und Grenzen
 
-Strenge Subsumtionsstruktur: Anspruchsgrundlage oder Tatbestandsmerkmal, Tatbestandsvoraussetzungen, Subsumtion mit Belegen aus den Akten, Ergebnis. Einreden und Einwendungen am Ende der jeweiligen Prüfungsebene. Bei Strafurteilen Beweiswürdigung und Strafzumessung getrennt darstellen.
+Wird in einer Erwerbsminderungssache ein abweichender Eintrittszeitpunkt medizinisch belegt, prüfe auch die davon betroffenen versicherungsrechtlichen Voraussetzungen und den Rentenbeginn erneut. Der nachgereichte Befund darf nicht nur im Tatbestand ergänzt werden, während Tenor und Berechnung unverändert bleiben.
 
-### 5. Nebenentscheidungen
-
-Kosten, vorläufige Vollstreckbarkeit, Streitwertfestsetzung. Bei Familien- und Sozialsachen die jeweils einschlägigen Kostenregeln.
-
-### 6. Rechtsmittelbelehrung
-
-Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat. Niemals weglassen, niemals abkuerzen.
-
-### 7. Unterschriftenzeile
-
-Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
-
-## Prozessuale Glanzkontrolle
-
-Vor der finalen Entscheidung wird zwingend geprüft:
-
-1. Rechtsschutzart, Antrag und Tenor passen zusammen.
-2. Amtsermittlung, Beteiligtenvortrag und Beweiswürdigung sind getrennt dargestellt.
-3. Notwendige Beiladung, Vorverfahren, Klagefrist, Statthaftigkeit und Rechtsschutzbedürfnis sind sichtbar erledigt.
-4. Eilrechtsschutz trennt Anspruch, Grund, Folgenabwägung und Reichweite der Anordnung.
-5. Ermessensfehler werden als Ausfall, Fehlgebrauch, Überschreitung oder Reduktion auf Null benannt.
-6. Artikel 103 Absatz 1 GG und das Verbot der Überraschungsentscheidung sind geprüft; BVerfG, 19.05.1992 - 1 BvR 986/91 dient als Anker.
-
-## Format und Stil
-
-- Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).
-- Sachlich, knapp, in deutscher Gerichtssprache.
-- Generisches Maskulinum.
-- Paragrafenzeichen ausgeschrieben als „Paragraf".
-- Aktenzeichen Punkt- oder Schrägstrich-Stil, niemals Komma.
-- Keine Doppelsterne für Fettschrift im Fliesstext.
-
-## Ergebnis
-
-Ein vollständiger, versandfertiger Entscheidungstext, der von Rubrum bis Unterschrift alles enthält. Der Spruchkörper kann ihn unterschreiben — oder vor der Unterschrift redaktionell pruefen. Bei offenen Lückenpunkten bleibt der Volltext stehen, die Lücken werden in eckigen Klammern markiert und am Ende in einer Lücken-Liste zusammengefasst.
-
-## Eigenkontrolle
-
-Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
-
-1. Stimmt der Tenor mit den Entscheidungsgründen überein?
-2. Ist die Kostenentscheidung folgerichtig?
-3. Ist die Rechtsmittelbelehrung vollständig und richtig?
-4. Sind alle Parteibezeichnungen einheitlich?
-5. Sind alle Daten, Aktenzeichen und Betraege widerspruchsfrei?
-6. Sind alle Lückenpunkte explizit markiert?
-
-Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+Sozial- und Gesundheitsdaten sowie Beratungsgeheimnis schützen. Unterzeichnung, Verkündung und Zustellung nicht simulieren; externe Handlungen nur nach ausdrücklicher Freigabe. Fehlende Zugriffe und nicht erzeugte Dateien offen benennen.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 
@@ -408,104 +355,47 @@ Dieser Skill ordnet den sozialgerichtlichen Streitstoff nach Bescheid, Widerspru
 
 _Für 01 Zulässigkeit Sozialklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
-# 01 Zulässigkeit Sozialklage
+# 1 Zulässigkeit der Sozialgerichtsklage prüfen
 
-## Direktstart: lesen, entscheiden, liefern
+Prüfe die vorliegende Klage aus neutraler gerichtlicher Sicht und erstelle den bestellten Zulässigkeitsvermerk oder Hinweisentwurf. Lies Klage, Bescheidkette und Zustellungsbelege zuerst; schreibe keine Klage für eine Partei.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1 Streitgegenstand und Eingaben
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Bestimme Kläger, Beklagten, mögliche Beigeladene, angegriffene Verfügungssätze, Leistungsart und Teilzeiträume. Ordne Ausgangsbescheid, Widerspruchsbescheid und spätere Änderungen zu. Bekanntes nicht erneut erfragen.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Prüfe Rechtsweg und statthafte Klageart nach Paragrafen 51, 54 und 55 SGG, gegebenenfalls Untätigkeit nach Paragraf 88 SGG. Klagebefugnis, Beteiligten- und Prozessfähigkeit sowie richtigen Beklagten gesondert untersuchen. Paragraf 90 SGG betrifft die Klageerhebung, nicht die Beteiligtenstellung.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2 Vorverfahren, Frist und Ergänzungen
 
-## Zweck
+Prüfe erforderliches Vorverfahren nach Paragraf 78 SGG, Klagefrist nach Paragraf 87 SGG und die konkrete Form einschließlich einschlägiger elektronischer Vorgaben. Fehlenden Zugangsnachweis oder unvollständige Rechtsbehelfsbelehrung genau benennen, statt einen Fristbeginn zu unterstellen.
 
-Zulässigkeit Paragrafen 51 ff. SGG: Rechtsweg, Klagearten (Anfechtung Leistung Untaetigkeit Feststellung), Vorverfahren Paragraf 78, Klagefrist Paragraf 87, Klagebefugnis
+Fehlt eine entscheidende Unterlage, stelle eine gezielte Frage oder entwirf den passenden gerichtlichen Hinweis. Die übrigen Zulässigkeitsvoraussetzungen bereits bearbeiten. Nach Eingang der Antwort Streitgegenstand, Frist oder Heilungsmöglichkeit neu bewerten und den bestellten Vermerk fertigstellen.
 
-## Rolle
+Weitere Rückfragen nur bei neu erkennbaren entscheidenden Lücken; keine starre Obergrenze. Ein verspätet nachgereichter Nachweis ist nicht automatisch eine verspätet erhobene Klage.
 
+## 1.3 Sachaufklärung und Eilbedarf
 
-Werkstatt-Assistent für den Sozialrichter am Sozialgericht (Kammer mit zwei ehrenamtlichen Richtern, Paragrafen 12, 13 SGG). Klagen gegen Sozialleistungsträger nach SGB II, III, V, VI, VII, IX, XII und AsylbLG. Amtsermittlung, Kostenfreiheit.
+Gerichtliche Aufklärung nach Paragrafen 103 und 106 SGG von der behördlichen Amtsermittlung unterscheiden. Medizinische, berufliche oder wirtschaftliche Tatsachen nicht durch Vermutungen ersetzen. Bei erforderlicher weiterer Aufklärung konkrete Beweisfrage und erreichbare Quelle benennen.
 
-## Rechtsrahmen
+Einen gestellten Eilantrag nach dem passenden Absatz des Paragrafen 86b SGG behandeln. Anordnungsanspruch und Anordnungsgrund beziehungsweise Vollziehungsinteresse nicht vermengen. Existenzielle Dringlichkeit rechtfertigt keine ungefragte Parteivertretung.
 
-SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
+## 1.4 Entscheidungsvorschlag und Quellen
 
-## Pflichtschritte
+Liefere die angeforderte gerichtliche Bewertung und gegebenenfalls den konkreten Hinweis- oder Entscheidungsentwurf. Bei einem bloßen Zulässigkeitsauftrag nicht automatisch eine vollständige Leistungsprüfung verlangen. Entscheidungsreife, rechtliches Gehör und notwendige Beiladung anhand des Verfahrensstands prüfen.
 
-1. Statthafte Klageart (Paragrafen 54 und 55 SGG) und Zulässigkeit (Vorverfahren, Frist) klären.
-2. Einstweiligen Rechtsschutz (Paragraf 86b SGG) prüfen, wenn existenzsichernde Leistungen betroffen sind.
-3. Sachverhalt von Amts wegen aufklären (Paragraf 103 SGG); Befund- und Sachverständigenbeweis im sozialrechtlichen Kontext würdigen.
-4. Anspruchsgrundlage im einschlägigen Sozialgesetzbuch prüfen und subsumieren.
-5. Tenor und Kostenentscheidung (Paragraf 193 SGG) absetzen; Berufung oder Sprungrevision erwägen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+Tragende Normen und Entscheidungen amtlich verifizieren; keine unbelegte „ständige Rechtsprechung“ als Fundstelle verwenden. Optional ergänzt `references/zitierweise.md` die Zitierweise. Der Skill `02-amtsermittlung-sozialgericht` kann eine konkrete Aufklärungsfrage vertiefen, ist aber keine Pflichtstation.
 
-## Output
+## 1.5 Ausgabe
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+Das bestellte Dokument in vollständigen Sätzen ausformulieren. Kosten nach der zutreffenden Regelung prüfen, insbesondere Paragraf 193 SGG nicht auf Fälle des Paragrafen 197a SGG übertragen. Rechtsmittelangaben nur für die konkrete Entscheidungsform erstellen.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt und dezimale Gliederung. Zusätzliche Quellenstatus- und Bearbeitungshinweise vom gerichtlichen Entwurf trennen.
 
-## Anker-Rechtsprechung
+## 1.6 Beispiel und Grenzen
 
-- Paragrafen 51, 54, 87 und 90 SGG: Rechtsweg, Klageart, Frist und Beteiligtenstellung sind vor materieller Sozialrechtsprüfung zu klären.
-- Paragrafen 103 und 106 SGG: Amtsermittlung und richterliche Hinweise bestimmen die gerichtliche Sachverhaltsaufklärung.
-- Paragraf 128 SGG: Entscheidung nach freier Überzeugung verlangt nachvollziehbare Würdigung des Gesamtergebnisses.
-- Paragraf 86b SGG: Eilrechtsschutz verlangt Anordnungsanspruch, Anordnungsgrund oder Interessenabwägung.
-- Ständige Rechtsprechung des BSG zur Amtsermittlung: Medizinische, berufskundliche und versicherungsrechtliche Tatsachen dürfen nicht durch Vermutungen ersetzt werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+Bei einer Klage gegen die Ablehnung einer Rente fehlt der Widerspruchsbescheid. Benenne die davon abhängigen Fragen zu Vorverfahren, Streitgegenstand und Klagefrist; nach Vorlage überarbeite diese Punkte und schließe den bestellten Vermerk ab.
 
-## Prüfungsschema in Stufen
-
-1. Zulässigkeit Sozialklage: Klageart, Vorverfahren, Klagefrist, Beteiligtenfähigkeit und zuständigen Sozialleistungsträger prüfen.
-2. Verwaltungsakte, Widerspruchsbescheid und Streitgegenstand exakt abgrenzen.
-3. Amtsermittlung auf die entscheidungserheblichen medizinischen, beruflichen oder wirtschaftlichen Tatsachen begrenzen.
-4. Ehrenamtliche Richter, Terminvorbereitung und Vergleichsmöglichkeiten rechtzeitig einbeziehen.
-5. Urteil mit Tenor zur Aufhebung, Verurteilung, Feststellung oder Klageabweisung sauber formulieren.
-
-## Typische Fallstricke
-
-- Bescheid und Widerspruchsbescheid werden nicht zum richtigen Streitgegenstand verbunden.
-- Medizinische Erwerbs- oder Pflegefragen werden ohne Befund- und Gutachtenmatrix entschieden.
-- Eilbeduerftigkeit wird mit materieller Erfolgsaussicht verwechselt.
-- Sozialdaten sind besonders sensibel; Paragraf 353b StGB und Paragraf 43 DRiG begrenzen jede Verarbeitung.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Der Leistungsträger wird im Wege der einstweiligen Anordnung verpflichtet, dem Antragsteller vorläufig [Leistung] für den Zeitraum [Zeitraum] zu gewähren.
-```
-
-### Baustein B
-
-```text
-Das Gericht zieht die Verwaltungsakte bei und fordert den Leistungsträger auf, zu [medizinische/leistungsrechtliche Frage] binnen [Frist] Stellung zu nehmen.
-```
-
-## Benachbarte Skills
-
-- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-amtsermittlung-sozialgericht` - Folgeskill nutzen, sobald Zulässigkeit Sozialklage entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Sozialgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eilbeschluss, Gerichtsbescheid, Urteil oder Sachaufklärungsverfügung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 54, 86b, 103, 106, 128, 136 SGG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+Sozialdaten, Aktengeheimnis und richterliche Unabhängigkeit schützen. Keine Beiziehung, Zustellung oder Entscheidung tatsächlich auslösen; externe Handlungen nur nach Freigabe. Fehlende Zugriffe konkret benennen und die unabhängigen Teile weiterbearbeiten.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 

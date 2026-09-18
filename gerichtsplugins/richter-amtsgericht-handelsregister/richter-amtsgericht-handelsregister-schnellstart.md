@@ -22,4 +22,8 @@ Bei Beschwerde Gegenstand, Beschwerdeberechtigung, Frist, Form und Abhilfe anhan
 
 ## 1.4. Gerichtliches Arbeitsprodukt
 
+Fehlt eine entscheidende Urkunde oder Angabe, benenne die konkrete Lücke und liefere die davon unabhängigen Teile vorläufig. Nach der Antwort aktualisiere die betroffene Eintragungsvoraussetzung und schreibe den bestellten Entwurf fertig. Weitere gezielte Fragen sind möglich, wenn neue Unterlagen eine entscheidende Unklarheit zeigen; bereits erledigte Hindernisse nicht erneut aufgreifen.
+
 Liefere einen vollständigen Verfügungs- oder Beschlussentwurf mit konkret bezeichnetem Hindernis, Abhilfe, angemessener Frist und geprüfter Belehrung. Offene Daten als Platzhalter kennzeichnen, keine Unterschrift oder Eintragung fingieren. Tragende Normen und gegebenenfalls Entscheidungen amtlich verifizieren; keine fremden Geschäftsverteilungsregeln oder ungesicherten Aktenzeichen übernehmen. Dezimal gliedern, Export in Times New Roman 11 pt. Weitere Skills sind optionale Vertiefungen; die Registerprüfung bleibt ohne Zugriff auf sie ausführbar.
+
+Der vom Nutzer gewünschte Dateiname geht vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Zusätzliche Quellenstatus- und Bearbeitungshinweise getrennt vom Entscheidungsentwurf ausgeben. Versand und Registervollzug nicht eigenmächtig veranlassen; fehlende Zugriffe konkret benennen und keinen erfolgreichen Export behaupten.

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fluggastrechte",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj/deu",
@@ -10,13 +10,13 @@
     }
   ],
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Die Flugmatrix war passend; Personenanzahl, Ticketpreisunabhängigkeit und Zuordnung von Rückzahlungen fehlten als Rechensicherungen.",
+    "verdict": "retained",
+    "reason": "Vollständige Textprüfung am 18. September 2026: Der Schnellstart trennt Ausgleich je Person, Betreuungs- und Erstattungspositionen und führt nach Flug- oder Mitteilungsnachweisen zur bestellten Forderungsfassung weiter. In dieser Schlussprüfung kein zusätzlicher Mini-Eingriff nötig.",
     "changes": [
-      "Ausgleich je Person und getrennte Leistungsarten ergänzt.",
-      "Annullierungsmitteilung und Ersatzflugzeiten konkretisiert."
+      "Bestehende Nachforderung von Flug- und Ersatzflugzeiten sowie Fortsetzung zur Endfassung beibehalten.",
+      "Keine neue Quellenverifikation oder Live-Modellprüfung behauptet."
     ],
-    "sha256": "315cc92ea70524f7f12ac77ecfca47739a517929420c6754b7babdffc050a4d5"
+    "sha256": "3b075e59e441b01379ee72884de2fc0edc8e5b43b9b4901992e04726dec8109c"
   },
   "selection": {
     "positive": [
@@ -61,5 +61,15 @@
       ],
       "target_skill": "distanz-und-ausgleich-berechnen"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vollständige Werkstattprüfung am 18. September 2026: Doppelte Ausgaberouten und sachfremde Mietrechtszuordnungen überlagerten den Fluggastauftrag; pauschale technische Schwellen und Nachweisanforderungen waren nicht fallbezogen.",
+    "changes": [
+      "Doppelte Tabellen und Schlussrouten durch Buchungs-, Störungs-, Berechnungs- und Einwendungsprüfung mit gezielten Nachforderungen zusammengeführt.",
+      "Mietrechtsnormen auf ein gegebenenfalls gesondertes Mietverhältnis begrenzt; ungeprüfte Entscheidungsangaben ausdrücklich prüfbedürftig gehalten.",
+      "Betreuung, Ausgleich, Erstattung, Abtretung und Freigabe getrennt; keine fingierte Volltextprüfung oder Versandhandlung."
+    ],
+    "sha256": "b895a4cd67558436b27d4f9b511d0049653f83d02514322849b18310ac992db3"
+  }
 }

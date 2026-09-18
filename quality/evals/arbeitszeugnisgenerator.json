@@ -1,14 +1,80 @@
 {
-  "schema_version": 1, "plugin": "arbeitszeugnisgenerator", "reviewed_on": "2026-09-14",
+  "schema_version": 1,
+  "plugin": "arbeitszeugnisgenerator",
+  "reviewed_on": "2026-09-18",
   "sources": [
-    {"url": "https://www.gesetze-im-internet.de/gewo/__109.html", "checked_on": "2026-09-14", "supports": "Unterscheidung einfaches und qualifiziertes Arbeitnehmerzeugnis."},
-    {"url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/", "checked_on": "2026-09-14", "supports": "BAG vom 27.04.2021: individuelle Leistungs- und Verhaltensbeurteilung regelmäßig im Fließtext statt Schulnotentabelle."}
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
+      "checked_on": "2026-09-14",
+      "supports": "Unterscheidung einfaches und qualifiziertes Arbeitnehmerzeugnis."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/",
+      "checked_on": "2026-09-14",
+      "supports": "BAG vom 27.04.2021: individuelle Leistungs- und Verhaltensbeurteilung regelmäßig im Fließtext statt Schulnotentabelle."
+    }
   ],
-  "mini_review": {"sha256":"311f66b01449032a26db02dc57a1aa55aa3f632815284818ab2218f4bb85a29c","verdict": "revised", "reason": "Vollständig gelesen und mit arbeitszeugnis-erstellen abgeglichen. Individueller Entwurf, Zeugnisarten und Bewertungsachsen waren bereits präzise und blieben erhalten; angepasst wurde nur die eigenständige Nutzung ohne Zusatzdateien.", "changes": ["Optionale Natur aller Skill- und Referenzlinks mit eigenständigem Arbeitsweg klargestellt.", "Formelhaften Einstieg gekürzt, ohne fachliche Leitplanken zu verändern."]},
-  "selection": {"positive": ["Erstellen Sie ein qualifiziertes Endzeugnis aus den bestätigten Personal- und Beurteilungsdaten.", "Formulieren Sie ein Zwischenzeugnis mit belegtem Wechsel von Sachbearbeitung zu Teamleitung."], "negative": ["Entschlüsseln Sie ausschließlich die Noten eines fertigen Zeugnisses.", "Verfassen Sie ein gerichtliches Sachverständigengutachten über Arbeitsfähigkeit."]},
-  "cases": [{"id": "einkauf-rollenwechsel-endzeugnis", "request": "Erstellen Sie ergebnis.md mit einem vollständigen qualifizierten Endzeugnis für Nord Handel GmbH, Bonn. Mitarbeiterin Nora Stein war vom 01.02.2020 bis 31.08.2026 beschäftigt: bis 31.12.2023 als Einkaufssachbearbeiterin für Angebote und Bestellungen, ab 01.01.2024 als Teamleiterin Einkauf mit vier Beschäftigten und Verantwortung für Lieferantengespräche. Bestätigte Beurteilung der Geschäftsführung: durchgehend gute Gesamtleistung, sichere Fachkenntnisse, zuverlässige Terminplanung, gute Mitarbeiterführung und stets einwandfreies Verhalten gegenüber Vorgesetzten, Team und Lieferanten. Sie scheidet auf eigenen Wunsch aus. Dank und gute Wünsche sind vom Arbeitgeber gewünscht. Unterzeichnen soll Geschäftsführerin Ina Berg in Papierform. Bitte keine erfundenen Umsatzsteigerungen, Budgets oder Projekte ergänzen.", "input_files": [], "deliverables": ["ergebnis.md"], "criteria": [
-    {"id": "C01", "text": "Bildet beide Funktionen mit den richtigen Zeiträumen und der bestätigten Führungsspanne ab, ohne die Teamleitung auf die gesamte Beschäftigung auszudehnen.", "deliverables": ["ergebnis.md"]},
-    {"id": "C02", "text": "Formuliert individuelle Leistung, Führung und Sozialverhalten konsistent mit guter Gesamtleistung, ohne unbelegte Erfolge oder Zahlen zu ergänzen.", "deliverables": ["ergebnis.md"]},
-    {"id": "C03", "text": "Liefert zuerst einen zusammenhängenden vollständigen Zeugnistext mit Ausscheidensgrund und gewünschtem Abschluss; Rechtsprüfung und Exporthinweise bleiben außerhalb des Zeugnisses.", "deliverables": ["ergebnis.md"]}
-  ], "target_skill": "arbeitszeugnis-erstellen"}]
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Vollständige Schlusslektüre: Tatsachenbewertung, Zeugnisart und Fortsetzung nach geklärter Führungsverantwortung sind konkret; fehlende Note führt weder zur Standardnote noch zum Abbruch.",
+    "changes": [
+      "Im ersten Durchgang Rollenklärung mit Änderung von Tätigkeits- und Führungsabschnitt verbunden.",
+      "Zeugnis und Berichtigungsschreiben bis zur Endfassung verlangt, Quellenstatus außerhalb des Zeugnistextes belassen."
+    ],
+    "sha256": "a7f5a2da882c0c5e5a9ca3eac86dbff3ac84aeeb5d89c447f72ba4e7c1a59e47"
+  },
+  "selection": {
+    "positive": [
+      "Erstellen Sie ein qualifiziertes Endzeugnis aus den bestätigten Personal- und Beurteilungsdaten.",
+      "Formulieren Sie ein Zwischenzeugnis mit belegtem Wechsel von Sachbearbeitung zu Teamleitung."
+    ],
+    "negative": [
+      "Entschlüsseln Sie ausschließlich die Noten eines fertigen Zeugnisses.",
+      "Verfassen Sie ein gerichtliches Sachverständigengutachten über Arbeitsfähigkeit."
+    ]
+  },
+  "cases": [
+    {
+      "id": "einkauf-rollenwechsel-endzeugnis",
+      "request": "Erstellen Sie ergebnis.md mit einem vollständigen qualifizierten Endzeugnis für Nord Handel GmbH, Bonn. Mitarbeiterin Nora Stein war vom 01.02.2020 bis 31.08.2026 beschäftigt: bis 31.12.2023 als Einkaufssachbearbeiterin für Angebote und Bestellungen, ab 01.01.2024 als Teamleiterin Einkauf mit vier Beschäftigten und Verantwortung für Lieferantengespräche. Bestätigte Beurteilung der Geschäftsführung: durchgehend gute Gesamtleistung, sichere Fachkenntnisse, zuverlässige Terminplanung, gute Mitarbeiterführung und stets einwandfreies Verhalten gegenüber Vorgesetzten, Team und Lieferanten. Sie scheidet auf eigenen Wunsch aus. Dank und gute Wünsche sind vom Arbeitgeber gewünscht. Unterzeichnen soll Geschäftsführerin Ina Berg in Papierform. Bitte keine erfundenen Umsatzsteigerungen, Budgets oder Projekte ergänzen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Bildet beide Funktionen mit den richtigen Zeiträumen und der bestätigten Führungsspanne ab, ohne die Teamleitung auf die gesamte Beschäftigung auszudehnen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Formuliert individuelle Leistung, Führung und Sozialverhalten konsistent mit guter Gesamtleistung, ohne unbelegte Erfolge oder Zahlen zu ergänzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert zuerst einen zusammenhängenden vollständigen Zeugnistext mit Ausscheidensgrund und gewünschtem Abschluss; Rechtsprüfung und Exporthinweise bleiben außerhalb des Zeugnisses.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "arbeitszeugnis-erstellen"
+    }
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Gesamten Text einschließlich Streitfall, Quellen, Rollenwechsel und technischer Grenzen gelesen. Individuelle Beurteilung und persönliche Ergebniszurechnung bleiben erhalten; keine weitere Neuschreibung erforderlich.",
+    "changes": [
+      "Nachfragen zu beobachteter Leistung führen über Vorzeugnisabgleich zum vollständigen Zeugnis.",
+      "Doppelte Aufgabenrouten im ersten Durchgang zusammengeführt; Ausbildungsabschnitte, Signatur, Vergleich und Vollstreckung erhalten.",
+      "Gezielte Passagenänderung von neuer Gesamtbewertung unterschieden."
+    ],
+    "sha256": "f769482e37f9342c0d3a2e905bec4aa45cb18a44198d4b72d8f21690b290d268"
+  }
 }

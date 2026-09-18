@@ -1,16 +1,15 @@
 {
   "schema_version": 1,
   "plugin": "deutsche-rechtsgeschichte",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die historische Methode war bereits brauchbar, aber ein abgeschnittener Quellenanker und die pauschale Epochenliste störten die konkrete Textkritik. Neue Aussagen betreffen Methode, nicht historische Rechtsgeltung.",
+    "reason": "Der ganze Mini wurde auf Quellenkritik und historisches Erkenntnisziel statt heutiger Rechtsdurchsetzung geprüft.",
     "changes": [
-      "OCR, Edition und Entstehungsdatum getrennt.",
-      "Sachfremde Epochenroutine entfernt und Quellenlücken produktiv behandelt."
+      "Fehlende Edition oder Textstelle gezielt nachfordern und danach die historische These überarbeiten."
     ],
-    "sha256": "26257794d16bc0057d3e28b9fc814674e0c3fd13b27c521410a2e4e80af59b0a"
+    "sha256": "9ee11a5ff65caf2e796e03d7df417413832afe0beafee0e39f0bd4c426091144"
   },
   "selection": {
     "positive": [
@@ -55,5 +54,13 @@
       ],
       "target_skill": "quellenkritik-archiv-und-edition"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die gesamte Werkstatt wurde auf quellengebundene historische Argumentation gelesen.",
+    "changes": [
+      "Entstehung, Überlieferung und Geltung unterschieden; als Ergebnis die bestellte historische Ausarbeitung statt eines Klageentwurfs verlangt."
+    ],
+    "sha256": "6ac80ba897936b4002a3da9e9982e6e113f95043856ee2804ffd9c5566839663"
+  }
 }

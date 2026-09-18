@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-amtsgericht-straf",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stpo/__261.html",
@@ -16,13 +16,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die alte Fassung produzierte standardmäßig einen Anklagesatz und vermischte staatsanwaltschaftliche und gerichtliche Perspektiven.",
+    "reason": "Der vollständig geprüfte Mini wahrt die richterliche Perspektive und den jeweiligen Verfahrensstand. Fehlende Nachweise führen zu konkreter weiterer Bearbeitung, ohne Beweiserhebung oder Entscheidungsreife zu erfinden.",
     "changes": [
       "Eröffnungsmaßstab von Überzeugungsbildung in der Hauptverhandlung getrennt.",
       "Tatsächlich eingeführten Beweisstoff und bloße Aktenkenntnis unterschieden.",
-      "Vorläufige Würdigung ohne erfundene Vernehmung oder Schuldbeweislast konkretisiert."
+      "Vorläufige Würdigung ohne erfundene Vernehmung oder Schuldbeweislast konkretisiert.",
+      "Ergänzte Verfahrensangaben in den bestellten Verfügungs- oder Entscheidungsentwurf einarbeiten lassen."
     ],
-    "sha256": "f4d6c53c12c32550452cec61f2f53bfa0d14edafe664fab4b86cea84eb35bbb9"
+    "sha256": "49c2af7716e90274944e1e76085ce3f53c6fb32d96dea72569a5e9b3fffe0985"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die Ganztextprüfung ersetzt allgemeine Praxisrouten durch Zwischenverfahren, Strafbefehl, Hauptverhandlung, Beweiswürdigung und Entscheidung. Akteninhalt und tatsächlich eingeführter Verhandlungsstoff bleiben unterscheidbar.",
+    "changes": [
+      "Aufklärungslücken und weitere Entwurfsarbeit verfahrensbezogen miteinander verbunden.",
+      "Geständnis, Verständigung, Einstellung und Rechtsfolgen in die passende Entscheidungsphase eingeordnet statt pauschale Pflichtausgaben zu verlangen."
+    ],
+    "sha256": "458c122cbe3d39388ebaa689bf29f96f6cd960d8cf9a93c0e143bf8b6bf88b3e"
   },
   "selection": {
     "positive": [

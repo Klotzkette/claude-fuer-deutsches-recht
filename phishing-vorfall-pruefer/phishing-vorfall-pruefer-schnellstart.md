@@ -1,6 +1,8 @@
 # 1. Phishing-Zahlungen einzeln aufklären
 
-Nutze zuerst die Schilderung und die vorhandenen Kontoauszüge, Bankantworten, Nachrichten und Bildschirmbilder. Erstelle direkt das verlangte Erstattungsverlangen oder den Prüfvermerk. Ermittle bei einem laufenden Vorfall vorrangig, ob Zugang gesperrt und die Bank über einen unabhängig verifizierten Kontakt erreicht wurde. Empfehle erforderliche Sperrung und Rückholanfrage, führe sie aber nicht ohne Auftrag aus und behaupte keinen Erfolg. Beweissicherung und Anspruchsvorbereitung können parallel weitergehen.
+Prüfe die beanstandeten Zahlungen und verfasse das bestellte Erstattungsverlangen oder den Prüfvermerk. Nutze zuerst die Schilderung und die vorhandenen Kontoauszüge, Bankantworten, Nachrichten und Bildschirmbilder.
+
+Ermittle bei einem laufenden Vorfall vorrangig, ob Zugang gesperrt und die Bank über einen unabhängig verifizierten Kontakt erreicht wurde. Empfehle erforderliche Sperrung und Rückholanfrage, führe sie aber nicht ohne Auftrag aus und behaupte keinen Erfolg. Beweissicherung und Anspruchsvorbereitung können parallel weitergehen.
 
 ## 1.1. Zahlung ist nicht Geräteaktivierung
 
@@ -20,4 +22,10 @@ Fordere passend zur Zahlung vollständige Freigabe- und Gerätebindungsprotokoll
 
 ## 1.4. Konkretes Arbeitsprodukt
 
-Formuliere Reklamation, Beleganforderung oder Klagevorbereitung vollständig in Sätzen. Ordne jeder Zahlung den Erstattungsbetrag und den noch offenen Nachweis zu. Trenne gesicherten Sachverhalt und bestrittene Bankbehauptung. Stelle höchstens zu einer entscheidenden Lücke gebündelt Rückfragen und liefere den übrigen Entwurf. Nur tatsächlich verifizierte amtliche Normtexte und Entscheidungen verwenden; Rechtsprechung nicht aus ähnlichen Betrugsszenarien ungeprüft übertragen. Quellenzugriffsfehler und ausstehende Unterlagen konkret nennen. Export: Times New Roman 11 pt, dezimale Gliederung. Weiterführende Skills sind optional; dieses Mini enthält den eigenständigen Prüfweg.
+Fehlt die Anzeige bei einer konkreten Freigabe, frage nach ihrem erinnerten Wortlaut oder vorhandenen Bildschirmbild, ohne eine typische Warnung vorzugeben. Ist eine Rückholung unklar, fordere die aktuelle Gutschrift oder Bankbestätigung an. Liefere den belegten Teil des Schreibens vorläufig; fehlende Protokolle beweisen für sich weder Zustimmung noch deren Fehlen.
+
+Nach Eingang ordne die Freigabe erneut der einzelnen Zahlung zu und aktualisiere Anspruchsprüfung, Gegenanspruch und offenen Erstattungsbetrag. Ergibt sich daraus eine weitere entscheidende Lücke, frage hierzu gezielt weiter; keine Wiederholung bereits beantworteter Fragen. Schreibe anschließend das bestellte Dokument fertig, ohne aus einer Reklamation ungefragt eine Klage zu machen.
+
+Formuliere Reklamation, Beleganforderung oder beauftragte Klagevorbereitung vollständig in Sätzen unter dem gewünschten Dateinamen. Ordne jeder Zahlung den Erstattungsbetrag und den noch offenen Nachweis zu. Trenne gesicherten Sachverhalt und bestrittene Bankbehauptung; technische Quellenhinweise stehen in einer gesonderten Arbeitsnotiz. Versand, Einreichung und Vergleich nur nach Freigabe.
+
+Nur tatsächlich verifizierte amtliche Normtexte und Entscheidungen verwenden; Rechtsprechung nicht aus ähnlichen Betrugsszenarien ungeprüft übertragen. Ohne Quellen- oder Dateizugriff die konkrete Lücke nennen; ohne Export den Text liefern. Export: Times New Roman 11 pt, dezimale Gliederung; weiterführende Skills sind optional.

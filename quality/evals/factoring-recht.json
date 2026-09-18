@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "factoring-recht",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__407.html",
@@ -11,12 +11,19 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini war allgemeines Forderungsmanagement einschließlich sachfremdem Tankstellenanker, ohne Factoringabrechnung.",
+    "reason": "Ganztextreview am 17.09.2026: Trotz fachlicher Ergänzungen wiederholte der Mini noch allgemeine Forderungstabellen und eine pauschale Beweislastaufteilung. Nach Erwerb, Schuldnerschutz und getrennter Abrechnung neu gegliedert; keine erneute Quellenverifikation oder Live-Modellprüfung.",
     "changes": [
-      "Abtretungskette und Debitorenkenntnis vor Mahnung gestellt.",
-      "Ankaufpreis, Gebühren und Debitorenforderung getrennt; irrelevante Rechtsprechung entfernt."
+      "Doppelte Fallkarte und Antwortschablone durch konkrete Erwerbs-, Einwendungs- und Abrechnungsprüfung ersetzt.",
+      "Fehlende Ankaufannahme oder Debitorenzahlung führt nach Nachweis zu angepasster Inhaberschaft, Rechnung und vollständigem bestellten Schreiben.",
+      "Debitorenforderung, Ankaufpreis, Gebühren und Rückgriff getrennt erhalten; Nutzerdateiname und optionale Tabellen ausdrücklich klargestellt."
     ],
-    "sha256": "073a770187113f3d865d797ba1388a2413fadb6a3fc9d7fe1a99d8fcbc62d61a"
+    "sha256": "ec9913209dbfd9d081f4fb4eef10a9b1467483d8b85cc8b6bcfcf9207ca9556e"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Ganztextreview am 17.09.2026: Die Werkstatt enthielt noch allgemeine Mahnprozessschablonen und zwölf weitgehend gleichlautende Routen. Factoringfragen wurden fachlich zusammengeführt; keine neue Quellenverifikation oder Live-Modellprüfung.",
+    "changes": ["Forderungserwerb, Debitorenschutz, Risikoverteilung und getrennte Salden als zusammenhängenden Arbeitsablauf formuliert.","Aufsichtsrecht, Bilanzierung und Stichprobenkontrolle als eigenständige Prüfungszweige erhalten, ohne Folgen allein aus der Bezeichnung echtes Factoring abzuleiten.","Erwerbs- und Zahlungsnachforderungen führen zur fortgeschriebenen Abrechnung und Endfassung; Vertragsprüfung wird nicht automatisch zu Mahnung oder Klage."],
+    "sha256": "8f76fb269fcdca3fc2ed6e480334afc2a97182df88695c2ab115f632fb5cd254"
   },
   "selection": {
     "positive": [

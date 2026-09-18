@@ -3,61 +3,38 @@ name: bono-erstpruefung-und-mandatsziel
 description: "Für Bono: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
-# Bono: Erstprüfung, Rollenklärung und Mandatsziel
+# 1 Pro-bono-Anliegen prüfen und Beratung ausarbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+Bearbeite die konkrete Rechtsfrage der ratsuchenden Person und formuliere die beauftragte Beratung oder das gewünschte Schreiben. Die unentgeltliche Bearbeitung bestimmt nicht das Sachgebiet: Eine studentische Beratungsstelle bearbeitet nicht automatisch einen Hochschulrechtsfall.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## 1.1 Auftrag aus der Akte bestimmen
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+Lies vorhandene Korrespondenz, Bescheide und Verträge. Halte für die Bearbeitung fest, welches praktische Ziel verfolgt wird, wer beraten wird und ob bereits ein Verfahren läuft. Frage nur nach entscheidenden fehlenden Angaben; eine erneute Aufnahme bekannter Daten unterbleibt.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Prüfe vor der Übernahme, ob der Träger und die eingesetzte qualifizierte Person die konkrete Beratung nach dem RDG leisten dürfen. Unentgeltliche Rechtsdienstleistungen nach Paragraf 6 RDG, Mitgliederberatung nach Paragraf 7 RDG und berechtigte Stellen nach Paragraf 8 RDG sind zu unterscheiden. Ein Beratungsauftrag ist keine unbegrenzte Vertretungsvollmacht.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+## 1.2 Fachfrage und Nachweise bearbeiten
 
-## Normenanker
+Bei einer Forderung prüfe Vertrag, Leistung, Fälligkeit und Einwendungen; gleiche Zahlungen mit dem verlangten Betrag ab. Fehlt eine Rechnung oder ist eine Zahlung streitig, fordere genau diesen Nachweis an und trenne behauptete von belegten Beträgen.
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Bei einem Bescheid prüfe vollständigen Inhalt, Zugang, Rechtsbehelfsbelehrung und den betroffenen Zeitraum. Fehlt der Zugangsnachweis, frage nach Zustellungsart und Datum, statt eine endgültige Frist zu erfinden. Bei drohendem Rechtsverlust benenne zugleich den erforderlichen qualifizierten Ansprechpartner.
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
-- `§ 16 HRG` — Prüfungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
+Nur bei einem tatsächlichen Studien- oder Prüfungsfall prüfe die einschlägige Hochschul- und Prüfungsordnung sowie die dazu relevanten Grundrechte und verwaltungsprozessualen Wege. Wissenschaftsfreiheit, Ausbildungsbezug und Bewertungsmaßstäbe sind keine allgemeinen Voraussetzungen einer Pro-bono-Beratung.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+## 1.3 Antworten in das Ergebnis einarbeiten
 
-## Arbeitsweg
+Erläutere eine noch offene entscheidende Frage mit ihrem konkreten Einfluss auf Anspruch, Frist oder Empfehlung. Bearbeite die übrigen Teile bereits vorläufig. Nach Eingang der Antwort gleiche sie mit den vorhandenen Belegen ab und ändere die betroffene Berechnung oder Begründung.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Setze anschließend die Beratung bis zum bestellten Ergebnis fort. Ergibt sich aus der Antwort eine weitere entscheidende Unklarheit, frage gezielt nach; keine starre Zahl von Rückfragen. Bei einem Gutachtenauftrag genügt die begründete Antwort, bei einem Briefauftrag ist der vollständige Brief zu liefern. Ein Klageentwurf entsteht nicht ungefragt.
 
-## Spezialwissen: Bono: Erstprüfung, Rollenklärung und Mandatsziel
-- **Normen-/Quellenanker:** RDG.
+## 1.4 Quellen und Ausgabe
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Verifiziere tragende Normen und Rechtsprechung in amtlichen Quellen; Entscheidungen mit Gericht, Datum, Aktenzeichen und überprüfbarer Fundstelle belegen. Literatur nur bei zugänglicher, tatsächlich geprüfter Quelle verwenden. `references/zitierweise.md` ist eine optionale Ergänzung.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+Schreibe das gewünschte Dokument in vollständigen Sätzen und adressatengerechter Sprache. Nutzerseitige Dateinamen haben Vorrang; `ergebnis.md` ist nur eine Ausweichbezeichnung. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt und dezimale Gliederung. Quellenstatus, interne Anleitung und verbleibende Nachweise gehören in eine getrennte Arbeitsnotiz, nicht in den versandfähigen Brief.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bono** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## 1.5 Beispiel und Verantwortungsgrenzen
+
+Bei einer bestrittenen Rechnung kläre, ob die Leistung bestellt und erbracht wurde, ordne einen nachgereichten Kontoauszug zu und formuliere danach die gewünschte Antwort auf die Forderung. Aus der ungeklärten Zahlung darf im ersten Entwurf keine feststehende Erfüllung werden.
+
+Notwendige fachliche Anleitung und Freigaben nicht als erfolgt darstellen. Externe Weitergabe, Versand, Einreichung, Anerkenntnis oder Verzicht nur nach ausdrücklicher Freigabe. Bei fehlendem Dateizugriff den konkreten lesbaren Auszug anfordern und den bisherigen Bearbeitungsstand erhalten.

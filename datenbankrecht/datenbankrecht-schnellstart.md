@@ -1,6 +1,6 @@
 # 1 Datenbankrecht: Investition und Übernahme nachweisen
 
-Prüfe die konkrete Datenbank und den bezeichneten Nutzungsvorgang. Arbeite aus Sicht des Rechteinhabers, Lizenznehmers oder in Anspruch genommenen Nutzers. Nutze zuerst Sachverhalt, Kostenaufstellung, Datenmodell, Zugriffsdokumentation und Vertrag. Liefere das gewünschte Investitionsprotokoll, Abwehrschreiben, den Lizenztext oder den Vermerk zur Anspruchsprüfung unmittelbar; frage nur nach einer Angabe, ohne die sich dieses Ergebnis nicht erarbeiten lässt.
+Prüfe die konkrete Datenbank und den bezeichneten Nutzungsvorgang. Arbeite aus Sicht des Rechteinhabers, Lizenznehmers oder in Anspruch genommenen Nutzers. Nutze zuerst Sachverhalt, Kostenaufstellung, Datenmodell, Zugriffsdokumentation und Vertrag. Übernimm den bekannten Auftrag und liefere die verlangte Investitionsauswertung, das Abwehrschreiben, den Lizenztext oder den Prüfvermerk; eine Anspruchsprüfung verlangt nicht automatisch eine Abmahnung.
 
 ## 1.1 Schutzgegenstand abgrenzen
 
@@ -10,7 +10,7 @@ Nach Paragraf 87a UrhG muss Beschaffung, Überprüfung oder Darstellung eine nac
 
 ## 1.2 Kosten nicht nur summieren
 
-Erstelle eine Tabelle mit Tätigkeit, Zeitraum, Betrag oder Arbeitsstunden, Beleg, Kategorie und verbleibender Unsicherheit. Trenne das Erzeugen neuer Daten von der Suche und Sammlung bereits vorhandener Elemente. Unterscheide Qualitätskontrolle während der Datenerzeugung von der Prüfung schon vorhandener Daten bei Aufnahme und laufendem Betrieb. Mischkosten nachvollziehbar aufteilen, nicht vollständig in die günstigste Kategorie buchen. Infrastrukturkosten nur im belegten Zusammenhang mit der betreffenden Sammlung ansetzen.
+Stelle beim Investitionsnachweis Tätigkeit, Zeitraum, Kosten oder Arbeitsstunden, Beleg und Kategorie gegenüber. Trenne das Erzeugen neuer Daten von der Suche und Sammlung vorhandener Elemente sowie die Qualitätskontrolle während der Erzeugung von der Prüfung bei Aufnahme und Betrieb. Mischkosten nachvollziehbar aufteilen, nicht vollständig der günstigsten Kategorie zuweisen. Infrastrukturkosten nur im belegten Zusammenhang mit der Sammlung ansetzen.
 
 EuGH, Urteil vom 9. November 2004, C-203/02, grenzt in Randnummern 30 bis 34 Datenerzeugung von den schutzfähigen Investitionen ab. Es gibt daraus keine feste Euro- oder Stundenuntergrenze. Bewerte die verbleibenden Aufwendungen quantitativ und qualitativ; ein hoher Erzeugungsanteil beseitigt nicht zwangsläufig den Schutz einer daneben wesentlich finanzierten Beschaffung oder Darstellung. Zeige, welche Rechnungen, Tätigkeitsnachweise oder Zuordnungsschlüssel die entscheidende Aussage tragen und was noch nicht bewiesen ist.
 
@@ -24,10 +24,12 @@ EuGH, Urteil vom 9. Oktober 2008, C-304/07, erfasst auch eine Übertragung nach 
 
 ## 1.4 Erlaubnisse und andere Grenzen prüfen
 
-Lies API-Lizenz und Nutzungsbedingungen in der bei Zugriff geltenden Fassung: zugelassener Zweck, Mengenlimit, Speicherung, Weitergabe, Unterlizenz und Laufzeit. Technisch möglicher Zugriff ist nicht schon eine Erlaubnis für jeden Zweck. Umgekehrt begründet eine Vertragsverletzung nicht ohne weitere Voraussetzungen einen Anspruch aus Herstellerrecht. Bei Schranken, Text- und Data-Mining oder Daten vernetzter Produkte die konkrete Vorschrift und ihre Voraussetzungen aktuell amtlich prüfen; insbesondere die Ausnahme des Paragrafen 87b Absatz 3 UrhG nicht übersehen. Kein generelles Scraping-Verbot und keine pauschale Trainingsfreigabe behaupten.
+Lies API-Lizenz und Nutzungsbedingungen in der bei Zugriff geltenden Fassung: zugelassener Zweck, Mengenlimit, Speicherung, Weitergabe, Unterlizenz und Laufzeit. Technisch möglicher Zugriff ist nicht schon eine Erlaubnis für jeden Zweck. Umgekehrt begründet eine Vertragsverletzung nicht ohne weitere Voraussetzungen einen Anspruch aus Herstellerrecht. Bei Schranken, Text- und Data-Mining oder Daten vernetzter Produkte die konkrete Vorschrift und ihre Voraussetzungen aktuell amtlich prüfen; insbesondere die Ausnahme des Paragrafen 87b Absatz 3 UrhG nicht übersehen. Kein generelles Verbot automatisierter Abrufe und keine pauschale Trainingsfreigabe behaupten.
 
 ## 1.5 Ergebnis mit Beweisgrenzen liefern
 
-Formuliere für jede beanspruchte Rechtsfolge Schutzgrund, konkrete Handlung, Erlaubnislage und Belegdefizit. Bei Abmahnung den behaupteten Bestand und untersagten Nutzungsvorgang bestimmbar beschreiben; bei Abwehr das schwächste Tatbestandsmerkmal mit Gegenbeleg angreifen. Schadensbeträge nur anhand einer bezeichneten Berechnungsgrundlage, nicht aus dem gesamten Entwicklungsbudget ableiten. Ergänze eine gezielte Beweisanforderung statt einer pauschalen Unterlagenliste.
+Formuliere für jede beanspruchte Rechtsfolge Schutzgrund, konkrete Handlung, Erlaubnislage und Belegdefizit. Bei Abmahnung den behaupteten Bestand und untersagten Nutzungsvorgang bestimmbar beschreiben; bei Abwehr das schwächste Tatbestandsmerkmal mit Gegenbeleg angreifen. Schadensbeträge nur anhand einer bezeichneten Berechnungsgrundlage, nicht aus dem gesamten Entwicklungsbudget ableiten.
+
+Fehlen Tätigkeitsnachweise, frage nach Aufgabe und Zeitraum; bei unklarem Übernahmeumfang nach Export oder Zugriffsprotokoll. Nach Antwort Zuordnung und Beweiswert prüfen, Rechnung oder Argumentation aktualisieren und den bestellten Text fertigschreiben. Neue entscheidende Lücken kurz nachfragen, Bekanntes nicht wiederholen. Bei einem Hindernis tragfähige Teile liefern und nach Klärung fortsetzen; Angaben nicht ungeprüft als Tatsachen übernehmen. Quellenstatus in einer Arbeitsnotiz führen, nicht im Mandantenbrief. Externe Schritte nur nach ausdrücklicher Freigabe.
 
 Amtliche Anker: [Paragraf 87a UrhG](https://www.gesetze-im-internet.de/urhg/__87a.html), [Paragraf 87b UrhG](https://www.gesetze-im-internet.de/urhg/__87b.html), [C-203/02](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62002CJ0203) und [C-304/07](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62007CJ0304). Zusätzliche Spezialmaterialien sind optional; dieser Text enthält den Arbeitskern. Vollständige Sätze, dezimale Gliederung und beim formatierten Export Times New Roman 11 pt verwenden. Ohne Exportzugriff den fertigen Text liefern, keinen Dateilink erfinden.

@@ -1,18 +1,19 @@
 {
   "schema_version": 1,
   "plugin": "hausarbeitenmacher",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die didaktische Hilfe enthielt eine Bewertungssicherheitszusage und fachunabhängige Normen- sowie Beweislastbausteine. Die Neufassung trifft keine neuen materiellrechtlichen Aussagen; Prüfungsregeln werden aus dem konkreten Auftrag erhoben.",
+    "reason": "Vollständig geprüft: Der Mini führt Rückfragen zum Bearbeitervermerk und eigene Überarbeitungen zur abgeschlossenen Gliederungsberatung oder Durchsicht, ohne eine Fremdabgabe herzustellen. Der vorhandene Text bleibt unverändert.",
     "changes": [
       "Fallhausarbeit und Forschungsarbeit getrennt.",
       "Geschlossenen Sachverhalt vor Ergänzungen geschützt.",
       "Eigene Argumentation, belegte Fußnoten und konkrete Hilfsmittelregeln statt Notengarantie verankert."
     ],
-    "sha256": "04dda675643caef838ab174386bc94392cc52cb94d88cdc30f14645977fb4a79"
+    "sha256": "8d0cbb2fbabf40efb6850f75ca4076bc4d9c377f56f88c2bc665c9df18c49d5f"
   },
+  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung zeigte trotz passender didaktischer Fortsetzung eine pauschale Arbeitsannahme bei unbekannter Prüfungsvorgabe. Sie widersprach dem Schutz des geschlossenen Ausbildungssachverhalts.","changes":["Entscheidenden Bearbeitervermerk gezielt erfragen und unabhängig prüfbare Stellen weiter kommentieren lassen.","Methodische Variante ausdrücklich von einer erfundenen Aufgabenbegrenzung getrennt; eigene Endfassung bleibt Aufgabe der lernenden Person."],"sha256":"7603cc5f30bde23f9be8e30bfe29620ce90b2fac6d86996067c83c1897e8f266"},
   "selection": {
     "positive": [
       "Kommentiere meine selbst geschriebene Subsumtion für eine Hausarbeit.",

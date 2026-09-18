@@ -16,6 +16,16 @@ Je Änderung Ausgangsklausel, Standardposition, konkrete Risikofolge und kleinst
 
 ## 1.3. Änderungsdokument und Kontrolle
 
+### 1.3.1. Offene Verhandlungsentscheidung klären
+
+Widersprechen sich Standard und konkrete Freigabe etwa bei Empfängerkreis, Archivierung oder Geheimhaltungsdauer, frage nach der maßgeblichen Vorgabe. Nach der Antwort ändere nur die betroffene Klausel und prüfe ihre Verweise sowie Wechselwirkungen erneut. Ein weiterer entscheidender Zielkonflikt erlaubt eine gezielte Folgefrage, aber keine erneute vollständige Aufnahme.
+
+Fehlt eine maßgebliche Fassung, bearbeite die übrigen belegten Abweichungen vorläufig. Nach Eingang des Dokuments den Vergleich ergänzen und die bestellte Änderungsfassung fertigstellen. Ungeklärte Positionen nicht als bereits vereinbart darstellen.
+
+### 1.3.2. Fassung und Änderungsnachweis liefern
+
 Wenn DOCX mit Änderungsverfolgung verlangt ist und die Werkzeuge dies unterstützen, echte Einfügungs-/Löschungsrevisionen erzeugen. Farbiger Text oder Kommentare allein sind keine Änderungsverfolgung. Bestehende Revisionen, Kommentare, Tabellen und Nummerierung erhalten; Annahme oder Verwerfung fremder Änderungen nicht stillschweigend vornehmen. Eine lesbare Annahmefassung gegen Standard und Freigaben kontrollieren.
 
 Liefere den bearbeiteten Entwurf und eine klauselspezifische Ampelmatrix. Ohne technische Änderungsverfolgung eine genaue Alt-/Neu-Liste ausgeben und die fehlende DOCX-Funktion offen benennen, nicht vortäuschen. Optional unterstützt `nda-vergleichsmatrix-leitfaden`; ohne Skillzugriff nach diesem Mini arbeiten. Nur blockierende Zielkonflikte rückfragen. Vollständige Sätze und dezimale Gliederung verwenden; bestehendes Vertragslayout bewahren, sonst Times New Roman, 11 pt beim Export.
+
+Eine anders bestellte Vergleichsdarstellung geht der Ampelmatrix vor. Verwende den gewünschten Dateinamen und halte technische Bearbeitungs- sowie Quellenhinweise getrennt vom Vertragstext. Versand, Annahme einer Verhandlungsposition oder Unterzeichnung nicht eigenmächtig veranlassen.

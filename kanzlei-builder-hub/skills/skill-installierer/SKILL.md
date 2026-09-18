@@ -5,7 +5,9 @@ description: "Für Skill-Installer: ordnet Norm, Beweislast und Gegenargument; E
 
 # Skill-Installer
 
-Folge dem nachstehenden Ablauf lückenlos. Kurzübersicht der Pflichtschritte:
+Prüfe den bezeichneten Skill und seine Berechtigungen vor einer ausdrücklich freigegebenen Installation. Ein reiner Prüfauftrag endet mit dem Prüfbericht, nicht mit einer Installation.
+
+Die folgenden Sicherheits- und Freigabeschritte sind verbindlich:
 
 1. **Zulassungsliste lesen.** `~/.claude/plugins/config/kanzlei-builder-hub/positivliste.yaml`. Im restriktiven Modus und bei nicht gelisteter Quelle: Ablehnen. Im permissiven Modus: Warnung ausgeben und fortfahren.
 2. **Skill abrufen.** Schritte 2–4 vorzugsweise in einem schreibgeschützten Subagenten ausführen (nur Lesen + WebFetch + Glob — kein Schreiben, keine Bash-Befehle), damit eine etwaige Injection in der Drittanbieter-SKILL.md keine Dateien schreiben kann.
@@ -16,6 +18,8 @@ Folge dem nachstehenden Ablauf lückenlos. Kurzübersicht der Pflichtschritte:
 7. **Installieren.** Verzeichnis kopieren. `CLAUDE.md` der Hub-Konfiguration aktualisieren und Eintrag an `installations-protokoll.yaml` anhängen.
 
 Die Freigabe liegt beim Menschen. Freigabe nicht aus früheren Nachrichten ableiten. Keine Datei vor Schritt 7 schreiben.
+
+Fehlende Nachweise gezielt nachfordern: etwa die genaue Version, eine nachgeladene Konfiguration oder die Lizenzdatei. Nach Eingang die betroffenen Berechtigungs-, Herkunfts- oder Lizenzbefunde erneut prüfen und den Bericht aktualisieren; neue entscheidende Widersprüche erlauben weitere Rückfragen. Eine beantwortete Sachfrage ist keine Installationsfreigabe, und Nachforderungen setzen keinen Ablehnungsgrund außer Kraft.
 
 ---
 
@@ -139,7 +143,7 @@ Den `skills-qualitaetspruefung`-Skill gegen den Kandidaten ausführen. Dieser f�
 Vor dem Installationsprompt (Schritt 6) das Kanzleiprofil lesen:
 
 - **Rolle = Rechtsanwalt / Jurist:** Weiter zu Schritt 6.
-- **Rolle = Nicht-Jurist UND Ergebnis EINIGE BEDENKEN oder höher:** Installationsprompt **nicht** anzeigen. Stattdessen Übergabe in Alltagssprache an den verantwortlichen Anwalt formulieren — ohne Fachbegriffe wie "Trust Surface" oder "Delegation Threshold". Anbieten, eine kurze Nachricht an den zuständigen Anwalt zu entwerfen.
+- **Rolle = Nicht-Jurist UND Ergebnis EINIGE BEDENKEN oder höher:** Installationsprompt **nicht** anzeigen. Stattdessen Übergabe in Alltagssprache an den verantwortlichen Anwalt formulieren — ohne Fachbegriffe wie "Trust Surface" oder "Delegation Threshold". Ist eine Nachricht an den zuständigen Anwalt beauftragt, diese vollständig entwerfen; nicht bei ihrem bloßen Angebot stehenbleiben.
 - **Rolle = Nicht-Jurist UND Ergebnis BEREIT:** Weiter zu Schritt 6 mit allgemeinsprachlichem Installationsprompt.
 - **Kein Anwalt benannt und Nicht-Jurist:** Nutzer auffordern, Ersteinrichtung zu wiederholen oder den zuständigen Anwalt anzugeben.
 
@@ -152,7 +156,7 @@ In dieser Reihenfolge ausgeben:
 3. Vertrauensprüfbefunde (Hooks, MCP, Werkzeuge, Schreibzugriffe, Netzwerk)
 4. skills-qualitätsprüfung-Ergebnis
 
-Prompt: "Das ist, was Sie installieren. Fortfahren? (ja / nein / vollständig anzeigen)". "Vollständig anzeigen" gibt alle Dateien aus, die der Installer schreiben würde. "ja" führt fort. Alles andere bricht ab.
+Prompt: "Das ist, was Sie installieren. Fortfahren? (ja / nein / vollständig anzeigen)". "Vollständig anzeigen" gibt alle Dateien aus, die der Installer schreiben würde. "ja" führt fort. "nein" beendet den Installationsauftrag; eine Rückfrage oder neue Unterlage hält die Installation an und wird zunächst bearbeitet. Nach einer dadurch geänderten Prüfung die aktualisierten Befunde vor einer erneuten ausdrücklichen Freigabe anzeigen.
 
 Keine Installation ohne ausdrückliches `ja`. Freigabe nicht aus früheren Nachrichten ableiten.
 

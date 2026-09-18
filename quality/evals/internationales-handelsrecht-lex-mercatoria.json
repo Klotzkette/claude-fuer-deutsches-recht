@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "internationales-handelsrecht-lex-mercatoria",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20070704_OGH0002_0020OB00095_06V0000_000&IncludeSelf=True&ShowPrintPreview=True",
@@ -11,12 +11,12 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der bisherige Einstieg verengte internationale Handelsverträge auf Transporthaftung. Rechtsregime und Vertragsinhalt brauchen eine vorgelagerte eigenständige Prüfung.",
+    "reason": "Mini vollständig gelesen: Vertragsstatut, CISG, Transport und Garantie werden getrennt; nach Prüfbericht oder Rügenachweis wird Anspruch und Schaden aktualisiert, nicht ein neuer Gesamtfragebogen begonnen.",
     "changes": [
-      "Rechtswahl, UN-Kaufrecht, Lieferklauseln und Streitentscheidung getrennt.",
-      "Rechenweg für Lieferchargen, Währungen und Schadenspositionen statt pauschaler Transporthaftung ergänzt."
+      "Widersprechende AGB nach tatsächlich übermittelten Fassungen klären und Vertragstext fortschreiben lassen.",
+      "Garantienachtrag und Präsentationsbeleg mit Abrufentwurf verbunden; keine ungefragte Schiedsschrift."
     ],
-    "sha256": "89375cc3b6dbf5d639f3f675e4f8f5c9389d9f5157c08f673aa0f93c59a610a0"
+    "sha256": "d0d81cb98f6deb9c200c2d0592bc7281fdf524034697749b7e93f3fcebe06198"
   },
   "selection": {
     "positive": [
@@ -61,5 +61,15 @@
       ],
       "target_skill": "cisg-ausschluss-und-rechtswahl"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig einschließlich Finanzierung, digitalen Produkten, Lieferkette und Exportkontrolle gelesen. Konkrete Charge, Vertragsfassung und Garantie bestimmen Nachforderung und Endprodukt; Transporthaftung ist keine Universalroute.",
+    "changes": [
+      "Neue Ersatzbeschaffungsrechnung positionsbezogen in Schaden und Zahlungsbegehren übernommen.",
+      "Technische Spezifikation mit Prüf-, Rüge- und Abhilfeklauseln verbunden.",
+      "Ungeklärter Sanktionstreffer verhindert betroffene Freigabe, nicht zulässige Nachweis- und Entwurfsarbeit; alte Regelhinweise bleiben Prüfbedarf."
+    ],
+    "sha256": "35912be5b7aeabac28964bb6d89e78d94073a25f2ce3a5311f40d111d7fd203b"
+  }
 }

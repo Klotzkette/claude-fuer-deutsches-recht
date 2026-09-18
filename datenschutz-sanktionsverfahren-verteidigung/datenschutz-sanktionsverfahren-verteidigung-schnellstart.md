@@ -1,8 +1,8 @@
 # 1. Datenschutz-Sanktionsverfahren: Schnellstart
 
-Bearbeite zuerst den Nutzersachverhalt und die für den angegriffenen Vorwurf vorhandenen Unterlagen. Frage nur nach blockierenden Lücken, insbesondere fehlender Zustellung oder unklarem angegriffenem Bescheid. Bereits gesicherte Aktenfunde weiterverwenden, geänderte Fassungen neu abgleichen. Dieser Text enthält den eigenständigen Arbeitskern; weitere Spezialmaterialien sind optional. Ohne Exportzugriff den fertigen Text liefern, keine Datei oder Einreichung behaupten.
+Erstelle den verlangten Einspruch, Antrag, Antwortentwurf oder Verteidigungsvermerk. Lies zuerst Behördenschreiben, Zustellnachweis, bisherige Antwort und vorwurfsbezogene Unterlagen.
 
-Lies zuerst das Behördenschreiben, den Zustellnachweis und die bisherige Antwort. Bestimme Verfahrensspur, Adressat und nächste Frist. Liefere den verlangten Einspruch, Antrag, Antwortentwurf oder Verteidigungsvermerk; kein neues Vollinterview vor Fristwahrung. Stand: 14. September 2026.
+Bestimme Verfahren, Adressat und nächste Frist ohne erneute Aufnahme. Gesicherte Aktenfunde weiterverwenden, geänderte Fassungen neu abgleichen. Weitere Spezialmaterialien sind optional. Stand: 14. September 2026.
 
 ## 1.1 Drei Verfahren auseinanderhalten
 
@@ -11,6 +11,8 @@ Eine Anordnung nach Artikel 58 der Datenschutz-Grundverordnung, eine Geldbuße n
 Zustellung, Fristbeginn, Vertretungsmacht und gewünschte Abhilfe belegen. Ein Auskunftsverlangen kann neben einem Bußgeldverfahren bestehen; Rechtsgrundlage, Mitwirkung und Selbstbelastungsrisiko differenzieren.
 
 Gegen den Bußgeldbescheid gilt Paragraf 67 OWiG: Einspruch binnen zwei Wochen nach Zustellung bei der erlassenden Verwaltungsbehörde, schriftlich oder zur Niederschrift; elektronische Form gesondert prüfen. Bescheiddatum ist nicht Zustellungsdatum. Bescheid und Aktenzeichen eindeutig bezeichnen, eine Beschränkung nur nach bewusster Entscheidung vornehmen. Eine ausführliche Einlassung ist nicht Voraussetzung des fristwahrenden Einspruchs. Akteneinsicht und spätere Begründung getrennt vorbereiten. Für eine beigefügte Artikel-58-Anordnung den eigenen Rechtsbehelf und etwaigen Eilrechtsschutz prüfen.
+
+Fehlt der Zustellnachweis, frage nach Zugang und Beleg. Nach Eingang rechne die Frist neu und vervollständige den Rechtsbehelf. Nach Akteneinsicht prüfe die konkreten Vorwürfe und arbeite die bestellte Begründung aus. Neue entscheidende Lücken gezielt klären, beantwortete Fragen nicht wiederholen; keine ausführliche Einlassung allein zur Beschleunigung erfinden.
 
 ## 1.2 Pflichtmeldung nicht für die Verteidigung versäumen
 
@@ -38,10 +40,12 @@ Bei Artikel 83 Absatz 2 Dauer, Schwere, Betroffenenumfang, Folgen, Abhilfe, Koop
 
 ## 1.6 Ausliefern und absichern
 
-Schreibe einen fertigen, zum Verfahrensstadium passenden Entwurf. Anlagen nur auftragsbezogen beifügen, Geheimnisse kennzeichnen, Tatsachenvorbehalte präzise halten. Frist, Freigabeverantwortlichen und Beleglücke am Ende nennen. Versand ausschließlich nach Freigabe.
+Schreibe den bestellten, zum Verfahrensstadium passenden Entwurf vollständig. Fehlen etwa Protokolle zum Datenabfluss oder Umsatzbelege zur Bemessung, fordere diese konkret an und liefere belegte Teile vorläufig. Nach Eingang aktualisiere Tatbewertung oder Berechnung und stelle den verlangten Text fertig. Eine Nachforderung ersetzt die Endfassung nicht; ein Gutachtenauftrag verlangt keine ungefragte Klage. Anlagen nur auftragsbezogen beifügen und Geheimnisse schützen. Frist, Freigabeverantwortlichen, Beleglücken und Quellenstatus in einer gesonderten Arbeitsnotiz halten, nicht als interne Prüffelder im Empfängerbrief. Versand ausschließlich nach Freigabe.
 
 Quellen: [Datenschutz-Grundverordnung](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de), [Paragraf 67 OWiG](https://www.gesetze-im-internet.de/owig_1968/__67.html), [C-807/21](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0807), [Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/ki-mig/__2.html), [laufendes Reformverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29). Vollständige Sätze, dezimale Gliederung, beim formatierten Export Times New Roman 11 pt.
 
 ## 1.7 Freigabestopp ohne Bearbeitungsstillstand
 
 Stoppe den Versand einer ungeprüften Tatsachenstellungnahme oder eines falschen Rechtsbehelfs. Pflichtmeldung und fristwahrenden Entwurf trotzdem rechtzeitig zur anwaltlichen Freigabe vorbereiten; keine unbelegte Schuldbewertung ergänzen.
+
+Fehlenden Datei- oder Quellenzugriff konkret benennen; verfügbare Unterlagen nicht mit rechtlicher Vollständigkeit gleichsetzen. Ohne Export vollständigen Text liefern, keine Datei oder Einreichung behaupten.

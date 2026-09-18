@@ -1,14 +1,15 @@
 {
   "schema_version": 1,
   "plugin": "tabellenreview-3d",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini und die Werkstatt beschrieben überwiegend allgemeine Dateiproduktion. Der gelesene Kernskill wuerfel-aufbauen enthält dagegen drei echte Achsen; diese sind jetzt unmittelbar ausführbar. Keine neue materielle Rechtsbehauptung.",
-    "changes": ["Spaltenfragen, Dokumentzeilen und Perspektivblätter konkretisiert", "Fehlwert, null Euro und nicht anwendbar getrennt", "Nachträge, zeitanteilige Beträge und Kreuzblatt-Konflikte statt obligatorischer Formnormen geprüft"],
-    "sha256": "c71c3c4fef798868a2b481757ea6962efa0673462119adcc0e3dd6c397c55cb2"
+    "reason": "Die drei Prüfachsen und zeitanteilige Berechnung sind konkret; nach fehlenden Anlagen fehlte die ausdrückliche Aktualisierung abhängiger Zellen bis zur fertigen Auswertung.",
+    "changes": ["Nachforderung mit Neuberechnung abhängiger Zellen und Summen verbunden", "Pflichtpaket durch auftragsbezogene Tabelle oder Bericht ersetzt", "Nutzerdateiname und getrennte Begleitnotiz klargestellt"],
+    "sha256": "5306997b2561fc4baa83d866f650d91937989aef7c18aadce4eb232dbc1b849c"
   },
+  "workshop_review": {"verdict":"revised","reason":"Ganztextprüfung zeigte doppelte Produktionsabschnitte und automatische Prozessentwürfe statt eines dreiachsigen Tabellenreviews.","changes":["Ablauf nach Bestand, Prüfachsen, Zellbelegen und Kreuzblattabgleich neu gegliedert","Due Diligence, Bauunterlagen, Vendor-Onboarding und Forderungstabellen sachlich unterschieden","Exportkontrolle und Aktualisierung nach neuen Nachträgen integriert"],"sha256":"53705871799355fd79137b0410601a41f74b1744a1bc0ffa486c2e5c4f8bfd0e"},
   "selection": {
     "positive": ["Baue für unsere Lieferverträge einen Prüfwürfel mit Rechts-, Steuer- und Einkaufsperspektive.", "Gleiche wiederkehrende Vergütungen über Vertragszeilen und mehrere Prüfblätter mit Quellenbezug ab."],
     "negative": ["Formatiere die Überschriften eines einzelnen Schriftsatzes.", "Entscheide die steuerliche Abzugsfähigkeit einer einzelnen Betriebsausgabe ohne Tabellenreview."]

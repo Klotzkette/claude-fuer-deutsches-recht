@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "grosskanzlei-corporate-ma",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
@@ -11,12 +11,12 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Das bereits individuell ausgearbeitete Mini entspricht der Werkstatt. Ergänzungsbedarf bestand nur beim konkreten Erfüllungsnachweis einer Closing-Bedingung.",
+    "reason": "Mini vollständig gelesen: Einzelauftrag geht vor Gesamttransaktion; fehlende Kaufpreisposition und Bankzustimmung führen zu spezifischem Nachweis und anschließender Vertrags- oder Briefänderung.",
     "changes": [
-      "Originalbedingung, Erfüllungsbeleg und Verzicht getrennt.",
-      "Angekündigte Bankfreigabe nicht als erteilt behandelt."
+      "Konten- und Vertragsnachweis mit Debt-, Cash- und Working-Capital-Rechnung verbunden.",
+      "Bankantwort auf Erwerber, Zeitpunkt und Bedingungen prüfen und danach Vollzugsplan sowie bestelltes Schreiben fertigstellen lassen."
     ],
-    "sha256": "921dfd42579b2d3110e1175e1253bfa36ebd42b0c2963c0121ab3dd5f943f726"
+    "sha256": "e53ab9c8c36dcc42f3eb81e8cc95c5d644f8b3f22160fb7c050b8a139352e4e3"
   },
   "selection": {
     "positive": [
@@ -61,5 +61,15 @@
       ],
       "target_skill": "signing-closing-conditions-cp-tracker"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Gesamte Werkstatt einschließlich besonderer Mandate und Übergabe gelesen. Datenraum, Kaufpreis, Disclosure und Closing werden nach derselben neuen Information aktualisiert; der frühere doppelte Routenschluss ist integriert.",
+    "changes": [
+      "Abtretungs- und Optionsnachweise mit Beteiligungsrechnung und Vertrag verknüpft.",
+      "Nach ergänzter Offenlegung Garantieausnahme und Freistellung gemeinsam überarbeiten lassen.",
+      "Steuerliche und lokale Rechtsfragen nicht aus deutschem Vertragswissen als geklärt ausgegeben; konkrete Altanker mit Übertragungsgrenzen erhalten."
+    ],
+    "sha256": "edef0650e5b24a02976e985d4d1e07dfabd8601537f22540bf61f7715bd3d5fb"
+  }
 }

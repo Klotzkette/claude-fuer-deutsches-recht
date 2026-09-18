@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "insolvenzforderungsanmeldungspruefung",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__39.html",
@@ -16,13 +16,12 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der bisherige Mini prüfte Insolvenzreife statt angemeldeter Forderungen.",
+    "reason": "Vollständig gelesen: Forderungsgrund, Zahlung und Zinsrang werden positionsbezogen geprüft; fehlender Beleg ist Klärungsbedarf und keine automatische materielle Nichtexistenz.",
     "changes": [
-      "Grund, Betrag, Rang und besondere Rechtsgründe getrennt.",
-      "Zinsen nach Eröffnung und Nachranganmeldung konkretisiert.",
-      "Teilzahlungen und Dubletten positionsbezogen erfasst."
+      "Leistungsnachweis und Zahlungszuordnung mit aktualisierter Betragsrechnung und Gläubigerantwort verbunden.",
+      "Titel vor Zuordnung der Betreibungslast nachfordern; Prüfempfehlung nicht als gerichtliche Feststellung ausgeben."
     ],
-    "sha256": "1550db224dcabea4cd20aa19215bcc2446dab550b16c938d5b1235b2b5445556"
+    "sha256": "219f18675ae28fbefaa0c8766d13548e4be72bb98e6d57e27075e0e1755cb827"
   },
   "selection": {
     "positive": [
@@ -67,5 +66,15 @@
       ],
       "target_skill": "grund-betrag-zinsen"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Gesamte Werkstatt einschließlich Schuldnerwiderspruch, Verteilung und Import gelesen. Anmeldung, Feststellung und Verteilung haben eigene Nachweise und Fortsetzungen; allgemeine Insolvenzreifeprüfung bleibt außerhalb des Tabellenauftrags.",
+    "changes": [
+      "Neue Zahlungs- und Verwertungserlöse in Hauptforderung, Zinsen und Ausfall einarbeiten lassen.",
+      "Titelstatus und Bestreitenden vor Verfahrensbewertung prüfen; Nachweis der Feststellungsklage mit Verteilung abgleichen.",
+      "Importschema an tatsächlicher Vorgabe statt erfundenem Tabellenstandard ausgerichtet; Quellenprüfdaten erhalten."
+    ],
+    "sha256": "35b86319a0609d196aebd0bc12f04b2ef19e6eec04fe558e8ce939fa3497da2b"
+  }
 }

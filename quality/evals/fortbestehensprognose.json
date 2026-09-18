@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fortbestehensprognose",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-18",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__19.html",
@@ -11,13 +11,13 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Werkstattbezug zur Prognose wurde im Mini durch allgemeine StaRUG-Planarchitektur verdrängt; die eigentliche Liquiditätsprüfung fehlte.",
+    "reason": "Mini vollständig gelesen: Fälligkeiten und verfügbare Finanzierung bestimmen die Zwölfmonatsrechnung; negative Prognose wird nicht allein mit Überschuldung gleichgesetzt.",
     "changes": [
-      "Monatliche Liquiditätsbrücke und ersten Fehlbetrag zum Kern gemacht.",
-      "Unverbindliche Finanzierung nur als bedingtes Szenario zugelassen.",
-      "Zukünftige Unterdeckung von heutiger Zahlungsunfähigkeit getrennt."
+      "Nach Lieferantenliste Monats- und kritische Wochensalden neu berechnen lassen.",
+      "Patronatsbedingungen und Bonität gezielt nachfordern; bedingte Finanzierung von belegter Basis getrennt.",
+      "Prognoseauftrag nicht automatisch zu Restrukturierungsplan oder Insolvenzantrag erweitert."
     ],
-    "sha256": "ff0db05f390363e94ba08951985670bb78e3a2da70d207ff63a1eb35e55a2699"
+    "sha256": "a9ae831c222ed6b3c0cdc693e9967480f0d90b90b0df4ddd37fa0a0fd05e5622"
   },
   "selection": {
     "positive": [
@@ -62,5 +62,15 @@
       ],
       "target_skill": "liquiditaet-12-monate"
     }
-  ]
+  ],
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Gesamte Werkstatt einschließlich negativer Prognose und Restrukturierungsabgrenzung gelesen. Dringende Insolvenzprüfung bleibt möglich, während unabhängige Berechnungen weiterlaufen; keine starre Wartefrist oder positive Prognose aus bloßer Absicht.",
+    "changes": [
+      "Nach neuen Aufträgen, Kosten oder Abrufbedingungen Prämissen, Salden und Prognosebegründung fortschreiben lassen.",
+      "Rangrücktritt, Stundung, Verzicht und Liquiditätszufluss getrennt behandelt.",
+      "Vollständige Geschäftsführungs- oder Bankenunterlage statt bloßer Nachforderung verlangt."
+    ],
+    "sha256": "18aa6d068734245d0299b5016e37f387722a38d5175cb79b3cabc1a54ff866a8"
+  }
 }

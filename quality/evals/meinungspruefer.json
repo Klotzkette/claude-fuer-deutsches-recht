@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "meinungspruefer",
-  "reviewed_on": "2026-09-14",
+  "reviewed_on": "2026-09-17",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gg/art_5.html",
@@ -16,13 +16,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der gesamte Schnellstarter war eine Verfassungsbeschwerderoute mit Berufsfreiheitsanker statt Äußerungsprüfung. Der gelesene Abgrenzungsskill stellt zutreffend den Aussagekontext in den Mittelpunkt.",
+    "reason": "Vollständig geprüft: Ergänzter Gesprächskontext und Belege zum Tatsachenkern führen zur aktualisierten Deutung und fertigen Bewertung oder Antwort. Der Mini bleibt bei der konkreten Äußerung und wird unverändert beibehalten.",
     "changes": [
       "Wortlaut, Publikum, Tatsachenkern und Beleglage als Hauptarbeit eingeführt.",
       "Unbestellte Verfassungsbeschwerde und pauschale Strafrahmen entfernt."
     ],
-    "sha256": "241220452736ffa6d0ee2787d2d76d5b6da1c8dfb28572758b57cae30185b34d"
+    "sha256": "16f588c4bf7321fd25ffee1cb14ce7f04892d6bd4594da758933d18044c5df27"
   },
+  "workshop_review": {"verdict":"revised","reason":"Die vollständige Prüfung bestätigte die Fortsetzung anhand des Äußerungskontexts; der allgemeine Verfassungsrechtsabsatz mit Stationsproduktpflicht stand dazu im Widerspruch.","changes":["Wortlaut, Tatsachenkern und mögliche Deutungen als konkreten Auftrag gefasst.","Abwägung und Gegenargumente in die bestellte Bewertung oder Neufassung führen lassen, ohne zusätzliche verfassungsrechtliche Pflichtdokumente."],"sha256":"b6af2916bf081f61e7a47e2307d55b5a3dbd59815516f06c3fb3acf42b8935e7"},
   "selection": {
     "positive": [
       "Prüfen Sie den Tatsachenkern einer kritischen Restaurantbewertung.",

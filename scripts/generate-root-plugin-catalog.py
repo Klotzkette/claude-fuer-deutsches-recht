@@ -14,6 +14,7 @@ from testakte_zip_common import working_dump_flat_pairs
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 README = REPO / "README.md"
+TESTAKTEN_README = REPO / "testakten" / "README.md"
 DIRECTORY_BEGIN = "<!-- BEGIN HAUPTVERZEICHNIS (auto-generated) -->"
 DIRECTORY_END = "<!-- END HAUPTVERZEICHNIS (auto-generated) -->"
 BEGIN = "<!-- BEGIN PLUGIN-KATALOG (auto-generated) -->"
@@ -165,6 +166,18 @@ def replace_catalog(text: str, catalog: str) -> str:
     return pattern.sub(catalog + "\n", text, count=1)
 
 
+def update_testakten_version(text: str, version: str) -> str:
+    updated, count = re.subn(
+        r"^Stand v\d+\.\d+\.\d+(?=:)",
+        lambda _: "Stand v" + version,
+        text,
+        flags=re.MULTILINE,
+    )
+    if count != 1:
+        raise RuntimeError("Eindeutiger Versionsstand in testakten/README.md fehlt")
+    return updated
+
+
 def main() -> int:
     marketplace = json.loads(MARKETPLACE.read_text(encoding="utf-8"))
     plugins = marketplace["plugins"]
@@ -178,7 +191,9 @@ def main() -> int:
         raise RuntimeError("Uneinheitliche Marketplace-Versionen")
     version = next(iter(versions))
     updated = re.sub(r"(\| \*\*Plugin-Version / Arbeitsstand\*\* \| `)v\d+\.\d+\.\d+", lambda m: m[1] + "v" + version, updated)
+    testakten = update_testakten_version(TESTAKTEN_README.read_text(encoding="utf-8"), version)
     README.write_text(updated, encoding="utf-8")
+    TESTAKTEN_README.write_text(testakten, encoding="utf-8")
     print(
         "README.md: Hauptverzeichnis und vollständiger A-Z-Katalog "
         f"mit {len(plugins)} Plugins."

@@ -1,6 +1,6 @@
 # Verfassungsrecht: Schnellstart
 
-Wenn du das hier öffnest, willst du eine Grundrechtsrüge zulässig und schlüssig begründen.
+Prüfe den angegriffenen Hoheitsakt oder die verfassungsrechtliche Streitfrage anhand der vorgelegten Akte. Erarbeite die bestellte Beschwerde, Stellungnahme oder Beratung im dafür passenden Verfahren.
 
 Kernauftrag: Deutsches Verfassungsrecht: BVerfG-Recherche, Prozessarten-Navigator nach Paragraf 13 BVerfGG, Verfassungsbeschwerde, Paragraf 32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, Parteienverfahren. Vorrang hat das verlangte Arbeitsprodukt.
 
@@ -11,9 +11,9 @@ Kernauftrag: Deutsches Verfassungsrecht: BVerfG-Recherche, Prozessarten-Navigato
 - Nur Prompt gestartet: Bei zugänglichem Material zwischen Beschwerdegegenstand, Hoheitsakt, Zulässigkeit, Schutzbereich, Eingriff wählen; ohne konkreten Auftrag mit Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen beginnen.
 - Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Beschwerdegegenstand, Hoheitsakt, Zulässigkeit, Schutzbereich, Eingriff und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Fehlen eine angegriffene Entscheidung, ihr Zustellungsnachweis oder entscheidender fachgerichtlicher Vortrag, frage gezielt danach. Nach Antwort Frist, Subsidiarität und betroffene Rüge neu abgleichen; eine neu erkennbare entscheidende Lücke darf eine weitere kurze Rückfrage erfordern. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
 
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Fehlenden Datei- oder Quellenzugriff konkret benennen und unabhängige Teile weiterbearbeiten. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden. Weitere Skills sind optional.
 
 ## 2. Fachlicher Direktstart
 
@@ -68,7 +68,7 @@ Erstelle eine Rügematrix: tragender Entscheidungsgrund, bereits vorgebrachte Ta
 7.4. Darlegung: Eigene Betroffenheit und spezifischen Verfassungsfehler mit Aktenfund belegen; keine schematische Beweislastverlagerung auf den Staat behaupten.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welcher Hoheitsakt und welche Frist sind entscheidend.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Beschwerdegegenstand, Hoheitsakt“. Frist, Kernlücke und nächstem Dokument benennen.
+7.7. Ausgang: Die bestellte Beschwerde, Stellungnahme oder Beratung vollständig ausformulieren. Bei fehlendem Schriftsatz unabhängig bearbeitbare Teile vorläufig liefern und nach Eingang die betroffene Rüge bis zur Endfassung ausarbeiten. Ein Gutachtenauftrag führt nicht ungefragt zu einer Beschwerdeschrift. Nutzerdateinamen gehen vor; `ergebnis.md` nur ohne Vorgabe. Interne Recherche- und Exportvermerke getrennt vom Empfängertext halten.
 
 ## 8. Stop
 

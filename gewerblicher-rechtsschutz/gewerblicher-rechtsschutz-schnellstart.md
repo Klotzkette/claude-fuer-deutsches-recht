@@ -1,25 +1,23 @@
 # 1. Gewerblicher Rechtsschutz — Schnellstart
 
-Wenn du das hier öffnest, willst du ein Schutzrechtsportfolio oder einen Konflikt über Marke, Patent, Design, Know-how oder Wettbewerb rechtlich und verfahrensstrategisch ordnen.
+Prüfe mein Schutzrechtsportfolio oder den Konflikt um Marke, Patent, Design, Know-how oder Wettbewerb und verfasse das bestellte Gutachten, Schreiben oder die Vertragsfassung.
 
 Kernauftrag: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Rechtsposition, Rechtsbestand und Register, Verletzung und Beweis wählen; ohne konkreten Auftrag mit Rechtsposition beginnen.
+- Dateien oder Ordner: Schutzrechtsurkunden, Registerauszüge, Lizenzen, angegriffene Produkte oder Veröffentlichungen und Korrespondenz entsprechend dem Auftrag lesen.
+- Konkreter Auftrag: Auf das bestellte Dokument hinarbeiten, ohne fehlende Benutzung, Merkmale oder Rechteübertragung zu unterstellen.
+- Nur Prompt gestartet: Ziel und Rolle aus den Unterlagen bestimmen; bleibt das unklar, nach der gewünschten Beratung oder Handlung fragen.
 - Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
 
-Ohne verwertbares Material höchstens eine gebündelte Frage zu Rechtsposition, Rechtsbestand und Register, Verletzung und Beweis und Empfänger stellen. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
-
-Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten. Bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg; bleibt er erfolglos, Teilstand und Hindernis liefern. Ungeprüftes nicht freigeben.
+Fehlen technische Produktmerkmale, frage nach Zeichnung, Muster oder Beschreibung des betroffenen Merkmals. Beim Parallelimport fordere den Beleg zum Erstvertrieb der konkreten Charge an. Neue Antworten in Merkmalsvergleich, Erschöpfungsprüfung oder Reichweite des Begehrens einarbeiten. Weitere entscheidende Widersprüche gezielt klären, beantwortete Fragen nicht wiederholen.
 
 ## 1.2. Fachlicher Direktstart
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welches Schutzrecht oder Lauterkeitsrecht trägt welchen Antrag.
-2. Kernprüfung in einem Durchgang: Wer ist aktiv- und passivlegitimiert und welche Rechtekette ist belegt; Welche Register-, Prioritäts-, Benutzungs- oder Geheimhaltungsunterlagen fehlen.
-3. Belege und Engpass zusammenführen: Anspruchsteller für Schutzrecht, Rechtekette, Verletzung und Dringlichkeit; Gegner für Rechtsbestand, Lizenz, Erschöpfung, Verfall oder sonstige Einrede; besonders kritisch ist: Schutzrecht, Inhaber, Registerstand oder konkrete Verletzungsform ist nicht identifiziert.
+2. Prüfe Aktiv- und Passivlegitimation sowie Rechtekette; benenne fehlende Register-, Prioritäts-, Benutzungs- oder Geheimhaltungsbelege konkret.
+3. Darlegungs- und Beweislast nach Schutzrecht, streitigem Merkmal und Einrede bestimmen. Unbekannten Inhaber, Registerstand oder Verletzungsform gezielt klären, unabhängige Fragen weiterbearbeiten.
 4. Erstes Arbeitsprodukt liefern: Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unterlassungserklärung, Antrag, Erwiderung, Vergleich oder Lizenz erstellen.
 
 ## 1.3. Kernroute
@@ -27,25 +25,18 @@ Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete L
 1. Rechtsposition: Schutzrecht, Geschäftsgeheimnis, Wettbewerbsposition, Inhaber, Lizenz, Priorität und territoriale Reichweite bestimmen.
 2. Rechtsbestand und Register: Eintragung, Benutzung, Jahresgebühr, Nichtigkeits- oder Löschungsangriff und Parallelverfahren prüfen.
 3. Verletzung und Beweis: konkrete Handlung, Merkmals- oder Zeichenvergleich, Kenntnis, Beweissicherung und Geheimnisschutz verbinden.
-4. Verfahrensstrategie: Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren und Aussetzung koordinieren.
+4. Verfahrensstrategie: Bei entsprechendem Auftrag Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren und Aussetzung koordinieren; kein ungefragter Prozessentwurf zu einer Portfolio- oder Vertragsprüfung.
 5. Arbeitsprodukt: Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unterlassungserklärung, Antrag, Erwiderung, Vergleich oder Lizenz erstellen.
 
-## 1.4. Fallkarte
+## 1.4. Begründung und Belege
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | MarkenG Paragraf 14, PatG Paragraf 139 und DesignG Paragraf 42; UWG Paragraf 3, Paragraf 4 und Paragraf 8; GeschGehG Paragraf 2 bis Paragraf 4 und Paragraf 6 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Schutzrecht, Geschäftsgeheimnis, Wettbewerbsposition, Inhaber, Lizenz, Priorität und territoriale Reichweite bestimmen |
-| Beweislast | Anspruchsteller für Schutzrecht, Rechtekette, Verletzung und Dringlichkeit; Gegner für Rechtsbestand, Lizenz, Erschöpfung, Verfall oder sonstige Einrede |
-| Rechtsfolge | Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Leite jede Rechtsfolge aus dem betroffenen Schutzrecht und der konkreten Handlung ab. Beweislast und mögliche Einreden merkmalbezogen prüfen, nicht unverändert zwischen Marke, Patent und Design übertragen. Tragende Rechtsprechung anhand überprüfbarer Quellen belegen; unsichere Aktenzeichen nicht ergänzen. Quellenstatus und interne Prüfung getrennt vom Empfängerschreiben dokumentieren.
 
 ## 1.5. Schutzrecht und Einrede positionsbezogen
 
 Bei einem Parallelimport zuerst echte Ware, Charge, Erstvertrieb, Gebiet und Zustimmung belegen. Paragraf 24 MarkenG knüpft Erschöpfung an ein Inverkehrbringen durch den Inhaber oder mit seiner Zustimmung im EU-/EWR-Raum an. Echtheit allein ersetzt diese territoriale Voraussetzung nicht. Veränderungen oder Verschlechterungen als mögliche berechtigte Widerspruchsgründe gesondert prüfen.
 
-Für Patent, Design und Marke jeweils den eigenen Schutzgegenstand vergleichen; kein Zeichenvergleich als Ersatz für technische Anspruchsmerkmale. Liefere je angegriffener Handlung eine Rechts- und Belegmatrix. Eine fehlende Registerprüfung bleibt offen, nicht negativ. Bei Eilverfügungen Erlass, Bekanntgabe und erforderliche Vollziehung getrennt dokumentieren.
+Für Patent, Design und Marke jeweils den eigenen Schutzgegenstand vergleichen; kein Zeichenvergleich als Ersatz für technische Anspruchsmerkmale. Eine Rechts- und Belegmatrix nur ausgeben, wenn sie den konkreten Vergleich verständlicher macht. Eine fehlende Registerprüfung bleibt offen, nicht negativ. Bei Eilverfügungen Erlass, Bekanntgabe und erforderliche Vollziehung getrennt dokumentieren.
 
 ## 1.6. Anker
 
@@ -61,11 +52,13 @@ Für Patent, Design und Marke jeweils den eigenen Schutzgegenstand vergleichen; 
 1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz.
 1.7.2. Norm: MarkenG Paragraf 14, PatG Paragraf 139 und DesignG Paragraf 42; UWG Paragraf 3, Paragraf 4 und Paragraf 8 mit dem entscheidenden Merkmal verbinden.
 1.7.3. Aktenfund: Für „Rechtsposition“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Anspruchsteller für Schutzrecht, Rechtekette, Verletzung und Dringlichkeit; Gegner für Rechtsbestand, Lizenz, Erschöpfung, Verfall oder sonstige Einrede. Offene Folgen aussprechen.
+1.7.4. Beweis: Lasten und Vermutungen der konkret streitigen Voraussetzung zuordnen; keine einheitliche Lastverteilung für alle Schutzrechte behaupten. Offene Folgen aussprechen.
 1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Wer ist aktiv- und passivlegitimiert und welche Rechtekette ist belegt.
 1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Ausgang: Das verlangte Arbeitsprodukt liefern; ohne Ausgabeauftrag eignet sich „Erststand zu Rechtsposition“. Nenne die Frist, den entscheidenden fehlenden Nachweis zur Rechtsposition und das anschließend benötigte Dokument.
+1.7.7. Abschluss: Das verlangte Dokument vollständig ausformulieren. Vergleiche oder Tabellen nur beifügen, wenn sie die konkrete Begründung oder Berechnung erläutern.
 
-## 1.8. Stop
+## 1.8. Fortsetzung und Grenzen
 
-Nur bei diesem Stop-Punkt unterbrechen: Schutzrecht, Inhaber, Registerstand oder konkrete Verletzungsform ist nicht identifiziert. Sonst mit sichtbaren Lücken weiterarbeiten und den belastbaren Teil liefern. Eine vorhandene Werkstatt dient nur optional der Vertiefung. Liefere vollständige Sätze; Export: Times New Roman 11 pt, dezimale Gliederung. Keine eigenständige Einreichung, Erklärung oder Zahlung.
+Bei unklarem Schutzrecht, Inhaber, Registerstand oder Verletzungsform den konkreten Nachweis anfordern und unabhängige Punkte vorläufig bearbeiten. Nach Eingang das betroffene Ergebnis und den Entwurf aktualisieren und bis zum bestellten Dokument fortsetzen. Die Vorlage eines Registerauszugs beweist nicht die Verletzung; auch im Nachforderungsbrief Unbekanntes nicht behaupten. Die Werkstatt ist optional. Vollständige Sätze; Export: Times New Roman 11 pt, dezimale Gliederung. Keine eigenständige Einreichung, Erklärung oder Zahlung.
+
+Zugriffslücken konkret nennen und mit zugänglichen Belegen weiterarbeiten. Ohne Export Text liefern, keine Dateilinks erfinden oder erfolglose Abrufe unverändert wiederholen. Zusatzskills sind nicht erforderlich.
