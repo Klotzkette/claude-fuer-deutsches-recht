@@ -16,7 +16,8 @@ description: "Für DeFi-Lending / Yield Farming — Steuerliche Behandlung (BMF-
 Der Skill-Name verweist auf ein BMF-Schreiben vom 22.11.2024. Massgebend für die DeFi-Besteuerung ist nach gegenwaertigem Stand:
 
 - **BMF-Schreiben vom 06.03.2025**, GZ IV C 1 - S 2256/00042/064/043 — Einzelfragen zur ertragsteuerrechtlichen Behandlung bestimmter Kryptowerte; ersetzt das BMF-Schreiben vom 10.05.2022 (IV C 1 - S 2256/19/10003 :001, BStBl 2022 I S. 668). Volltext auf bundesfinanzministerium.de (Steuerarten/Einkommensteuer/2025-03-06-einzelfragen-kryptowerte).
-- Ein gesondertes BMF-Schreiben mit Datum 22.11.2024 zu DeFi-Spezifika ist im offenen Recherchekreis (BMF-Webseite, NWB, dejure.org) **nicht verifizierbar**; das BMF-Schreiben vom 06.03.2025 enthaelt Aktualisierungen zu Staking, Lending, Liquidity-Mining, Bridging, NFTs sowie zu Mitwirkungs- und Aufzeichnungspflichten.
+- Ein gesondertes BMF-Schreiben mit Datum 22.11.2024 zu DeFi-Spezifika ist im offenen Recherchekreis (BMF-Webseite, NWB, dejure.org) **nicht verifizierbar**; Aussagen, die sich unten auf ein „BMF 22.11.2024“ stützen, sind deshalb als ungesichert zu behandeln und am BMF-Schreiben vom 06.03.2025 zu prüfen. Dieses enthält Aktualisierungen u. a. zu Staking, Lending sowie zu Mitwirkungs- und Aufzeichnungspflichten.
+- **Liquidity Mining und NFT sind vom BMF-Schreiben vom 06.03.2025 ausdrücklich nicht erfasst.** Das BMF teilt auf der Veröffentlichungsseite des Schreibens mit: „Non Fungible Token (NFT) und das sogenannte Liquidity Mining sind noch nicht Gegenstand des BMF-Schreibens“; das Schreiben soll sukzessive ergänzt werden. Für Liquidity Mining gibt es damit **keine Verwaltungsauffassung** (Stand 09/2026; vor Verwendung erneut prüfen).
 
 Bei Nutzung des Skills daher: BMF v. 06.03.2025 zugrundelegen; Skill-Name dokumentationshalber bestehen lassen.
 
@@ -50,10 +51,14 @@ Bei Nutzung des Skills daher: BMF v. 06.03.2025 zugrundelegen; Skill-Name dokume
 
 ### B — Liquidity Mining (Uniswap V3, Curve, Balancer)
 
-- Einzahlung Token-Paar in Pool gegen LP-Token: **Tausch § 23 EStG**
-- Rewards (UNI, CRV, BAL): **§ 22 Nr. 3 EStG**
-- Impermanent Loss: nicht steuerlich abzugsfähig (BMF-Linie)
-- LP-Auflösung: erneut Tausch
+**Rechtslage ungeklärt** — keine Verwaltungsanweisung (siehe Hinweis oben), soweit ersichtlich keine höchstrichterliche Rechtsprechung. Beide Auffassungen darstellen und beide Varianten rechnen:
+
+- **Auffassung 1 (Tausch):** Einzahlung Token-Paar in Pool gegen LP-Token = zwei Veräußerungen nach § 23 Abs. 1 Satz 1 Nr. 2 EStG; LP-Auflösung = erneuter Tausch mit neuer Haltefrist. Dafür spricht, wenn der LP-Token ein eigenständiges, übertragbares Wirtschaftsgut ist und selbst zur Einkünfteerzielung eingesetzt werden kann (Staking/Farming des LP-Tokens).
+- **Auffassung 2 (Anrechtsschein / darlehensähnliche Überlassung):** Der LP-Token ist nur Quittung für den Poolanteil; das wirtschaftliche Eigentum an den eingebrachten Token geht nicht über (Gedanke der BFH-Rechtsprechung zur Wertpapierleihe; Entscheidung vor Verwendung mit Gericht, Datum und Aktenzeichen verifizieren). Folge: Weder Einzahlung noch Entnahme sind Veräußerungen. Offen bleibt auch dann, ob die bei Entnahme veränderte Stückelung der beiden Token als Tausch zwischen ihnen zu werten ist und welche Anschaffungsdaten die Mehrmenge erhält.
+- Sekundärquelle zu beiden Auffassungen (mit Bericht über eine nicht veröffentlichte Einzelfallentscheidung eines hessischen Finanzamts im Sinne von Auffassung 2): WINHELLER, „Wie wird Liquidity Mining (DeFi) besteuert?“, winheller.com (Kanzleiveröffentlichung, keine Rechtsprechung).
+- **Verfahrensrechtlich:** Bei Auffassung 2 den Sachverhalt in der Erklärung bzw. Berichtigung vollständig offenlegen und die Rechtsauffassung begründen.
+- Rewards (UNI, CRV, BAL) und Handelsgebühren: verbreitet **§ 22 Nr. 3 EStG**; vertreten wird auch § 20 Abs. 1 EStG (Kapitalerträge). Keine Verwaltungsauffassung.
+- Impermanent Loss: als solcher nicht abzugsfähig; er wirkt sich nur über die Veräußerungsgewinnermittlung aus (Auffassung 1) oder gar nicht (Auffassung 2). Eine „BMF-Linie“ hierzu existiert nicht.
 
 ### C — Staking (Lido, EigenLayer)
 
@@ -91,7 +96,7 @@ Bei Nutzung des Skills daher: BMF v. 06.03.2025 zugrundelegen; Skill-Name dokume
 
 - **Anlage SO** für § 22 Nr. 3 EStG (Staking, Lending-Rewards bei nicht-Kapitalvermögen-Auslegung)
 - **Anlage KAP** für § 20 EStG (Kapitalvermögen Lending-Zinsen)
-- **Anlage V** für § 23 EStG (Veräußerungsgeschäfte)
+- **Anlage SO** auch für § 23 EStG (private Veräußerungsgeschäfte; die Anlage V betrifft Vermietung und Verpachtung)
 - DAC8-konforme Mitwirkung mit CASP-Daten
 
 ### Phase 4 — Bei Selbstanzeige § 371 AO
