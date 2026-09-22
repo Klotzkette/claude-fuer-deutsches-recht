@@ -1,8 +1,8 @@
 # Skill-Gesamtübersicht
 
-Automatisch generierte Gesamtübersicht aller **22453 Skills** in **239 Plugins**.
+Automatisch generierte Gesamtübersicht aller **22463 Skills** in **240 Plugins**.
 
-Stand: `v444.8.0`.
+Stand: `v444.9.0`.
 
 [Repository-Start](README.md) · [Download-Index](ASSET_INDEX.md) · [Werkstatt und Schnellstart](docs/werkstatt-und-schnellstart-coverage.md) · [Testakten](testakten/README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Detailseiten](skills-index/)
 
@@ -10,8 +10,8 @@ Stand: `v444.8.0`.
 
 | Paket | Inhalt | Download |
 | --- | --- | --- |
-| **Alle Skills als Markdown** | `SKILL.md`-Dateien, zugehörige Markdown-Referenzen und Plugin-READMEs aller 239 Plugins; Werkstatt und Schnellstart bleiben einzelne Markdown-Direktdownloads | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Alle Plugins (installierbar)** | Alle 239 Plugin-ZIPs in einem Archiv für kompatible Plugin-Oberflächen | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
+| **Alle Skills als Markdown** | `SKILL.md`-Dateien, zugehörige Markdown-Referenzen und Plugin-READMEs aller 240 Plugins; Werkstatt und Schnellstart bleiben einzelne Markdown-Direktdownloads | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+| **Alle Plugins (installierbar)** | Alle 240 Plugin-ZIPs in einem Archiv für kompatible Plugin-Oberflächen | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
 | **Komplettpaket (alles)** | Plugins + Skill-Markdowns + Testakten + Übersichten | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) |
 
 Das Markdown-Paket enthält die Skilltexte und ihre Markdown-Referenzen, aber keine automatisch eingerichteten Werkzeuge oder Zugriffsrechte. Für den manuellen Einstieg sind Werkstatt oder Schnellstart meist einfacher. Links mit „MD herunterladen“ speichern die Datei über die Downloadseite; Übersichtslinks bleiben lesbare GitHub-Seiten. Das installierbare Plugin-ZIP ist ein anderes Paket.
@@ -37,7 +37,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 
 Die Listen werden aus den im Marketplace registrierten Plugin-Verzeichnissen erzeugt und gegen den Dateibestand geprüft. Sie zeigen den Quellbestand: Im installierten Paket werden manche umfangreichen Spezialserien über einen Fachrouter bei Bedarf geladen, statt als eigene Menüeinträge zu erscheinen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 22453 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 22463 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
 
 English: Plugin and index links open navigation pages. Links labelled **Download MD** download the unchanged skill, workshop or quick-start Markdown file instead of opening a source preview.
 
@@ -338,6 +338,7 @@ Die Plugins sind alphabetisch sortiert. Der Name öffnet die Detailseite mit all
 | **strafanzeige-vorbereiter** | 57 | [Skills ansehen](skills-index/strafanzeige-vorbereiter.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafanzeige-vorbereiter/strafanzeige-vorbereiter-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafanzeige-vorbereiter/strafanzeige-vorbereiter-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafanzeige-vorbereiter.zip) |
 | **strafbefehl-verteidiger** | 61 | [Skills ansehen](skills-index/strafbefehl-verteidiger.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafbefehl-verteidiger/strafbefehl-verteidiger-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafbefehl-verteidiger/strafbefehl-verteidiger-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafbefehl-verteidiger.zip) |
 | **strafzumessung** | 60 | [Skills ansehen](skills-index/strafzumessung.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafzumessung/strafzumessung-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafzumessung/strafzumessung-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafzumessung.zip) |
+| **strassennutzung-genehmigungen** | 10 | [Skills ansehen](skills-index/strassennutzung-genehmigungen.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strassennutzung-genehmigungen/strassennutzung-genehmigungen-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strassennutzung-genehmigungen/strassennutzung-genehmigungen-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strassennutzung-genehmigungen.zip) |
 | **strassenrecht-infrastruktur** | 127 | [Skills ansehen](skills-index/strassenrecht-infrastruktur.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strassenrecht-infrastruktur/strassenrecht-infrastruktur-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strassenrecht-infrastruktur/strassenrecht-infrastruktur-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strassenrecht-infrastruktur.zip) |
 | **strassenverkehrsrecht-stvo** | 118 | [Skills ansehen](skills-index/strassenverkehrsrecht-stvo.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strassenverkehrsrecht-stvo/strassenverkehrsrecht-stvo-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strassenverkehrsrecht-stvo/strassenverkehrsrecht-stvo-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strassenverkehrsrecht-stvo.zip) |
 | **subsumtions-pruefer** | 59 | [Skills ansehen](skills-index/subsumtions-pruefer.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=subsumtions-pruefer/subsumtions-pruefer-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=subsumtions-pruefer/subsumtions-pruefer-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/subsumtions-pruefer.zip) |

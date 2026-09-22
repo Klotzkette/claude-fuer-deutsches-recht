@@ -1,0 +1,25 @@
+Fahrt_ID;Datum;Ankunft;Betrieb;Fahrer;Fahrzeug;Zugang;Wartezeit_min;Zusatzentgelt_netto_EUR;Beleg;Notiz
+F01;2026-08-24;07:12;Frischefahrt West;André Lüke;Kühltransporter 3,5 t;West / Hof;8;0,00;Lieferschein FW-8241;"Öffnung durch Arslan; Hofannahme"
+F02;2026-08-24;10:42;Getränke Röttger;Jens Rößler;Lkw 7,5 t;Lindenplatz;18;12,00;Ankündigung GR-24;"Handwagen ab Ladebucht; Zuschlag angekündigt"
+F03;2026-08-25;10:18;Frischefahrt West;André Lüke;Kühltransporter 3,5 t;Lindenplatz;17;18,00;FW-260914-118 / 1;Übergabe außerhalb Hofannahme
+F04;2026-08-25;13:06;Paketdienst Auenkurier;Nina Voß;Kastenwagen 2,8 t;Ost / Hof;0;0,00;Empfang AK-825;"Zwei Kartons; kurze Einfahrt ohne Einweiser"
+F05;2026-08-26;08:06;Gemüsehof Berken;Paul Öster;Transporter 3,5 t;West / Hof;5;0,00;Lieferschein GB-826;"Kisten kurz auf Gehweg; nach Hinweis weggeräumt"
+F06;2026-08-26;10:26;Frischefahrt West;André Lüke;Kühltransporter 3,5 t;Lindenplatz;19;18,00;FW-260914-118 / 2;Tourzeit von Arslan notiert
+F07;2026-08-27;09:25;Getränke Röttger;Jens Rößler;Lkw 7,5 t;West / vor Tor;8;0,00;Lieferschein GR-827;"Zu hoch für Hof; Straßenentladung elf Minuten"
+F08;2026-08-27;11:07;Frischefahrt West;Heike Möller;Kühltransporter 3,5 t;Lindenplatz;22;18,00;FW-260914-118 / 3;Hölscher zunächst allein im Verkauf
+F09;2026-08-28;10:14;Frischefahrt West;André Lüke;Kühltransporter 3,5 t;Lindenplatz;16;18,00;FW-260914-118 / 4;Vier Rollkisten mit eigenem Handwagen übernommen
+F10;2026-08-28;14:22;Paketdienst Auenkurier;Nina Voß;Kastenwagen 2,8 t;Ost / Hof;0;0,00;Empfang AK-828;"Drei Kartons; keine Schlüsselöffnung"
+F11;2026-08-31;10:34;Frischefahrt West;Heike Möller;Kühltransporter 3,5 t;Lindenplatz;18;18,00;FW-260914-118 / 5;Keine Öffnung nach 10 Uhr
+F12;2026-08-31;12:16;Getränke Röttger;Jens Rößler;Lkw 7,5 t;Lindenplatz;15;12,00;Ankündigung GR-31;"Zuschlag nur angekündigt; Leergebinde mitgenommen"
+F13;2026-09-01;08:15;Gemüsehof Berken;Paul Öster;Transporter 3,5 t;West / Hof;3;0,00;Lieferschein GB-901;Arslan wartet an P1
+F14;2026-09-01;10:48;Frischefahrt West;André Lüke;Kühltransporter 3,5 t;Lindenplatz;21;18,00;FW-260914-118 / 6;Wartezeit bis Beginn der Übergabe
+F15;2026-09-02;11:12;Frischefahrt West;Heike Möller;Kühltransporter 3,5 t;Lindenplatz;24;18,00;FW-260914-118 / 7;"Kombi vor Hoftor; Handwagen musste kurz warten"
+F16;2026-09-02;13:38;Paketdienst Auenkurier;Nina Voß;Kastenwagen 2,8 t;Ost / Hof;0;0,00;Empfang AK-902;Hoftor wieder frei
+F17;2026-09-03;07:58;Gemüsehof Berken;Paul Öster;Transporter 3,5 t;West / Hof;4;0,00;Lieferschein GB-903;Öffnung und Schließung durch Arslan
+F18;2026-09-03;11:35;Getränke Röttger;Jens Rößler;Lkw 7,5 t;Lindenplatz;20;12,00;Ankündigung GR-03;"Zwei Handwagenwege; Zuschlag angekündigt"
+F19;2026-09-04;09:26;Frischefahrt West;André Lüke;Kühltransporter 3,5 t;West / Hof;12;0,00;Lieferschein FW-904;"Durchfahrt um 09:38; späteres Schließen laut Chat 10:19"
+F20;2026-09-04;10:58;Getränke Röttger;Jens Rößler;Lkw 7,5 t;Lindenplatz;17;12,00;Ankündigung GR-04;"P1 bereits wieder eingesetzt; Zuschlag angekündigt"
+F21;2026-09-07;10:21;Frischefahrt West;Heike Möller;Kühltransporter 3,5 t;Lindenplatz;23;18,00;FW-260914-118 / 8;"Übergabe am Lindenplatz; Zuordnung fremder Lieferwagen offen"
+F22;2026-09-07;14:04;Paketdienst Auenkurier;Nina Voß;Kastenwagen 2,8 t;Ost / Hof;0;0,00;Empfang AK-907;Keine Polleröffnung
+F23;2026-09-08;08:12;Gemüsehof Berken;Paul Öster;Transporter 3,5 t;West / Hof;4;0,00;Lieferschein GB-908;Tor durch Arslan geöffnet
+F24;2026-09-08;09:16;Getränke Röttger;Jens Rößler;Lkw 7,5 t;West / vor Tor;7;0,00;Lieferschein GR-908;"Straßenentladung neun Minuten; kein Hofeintritt"

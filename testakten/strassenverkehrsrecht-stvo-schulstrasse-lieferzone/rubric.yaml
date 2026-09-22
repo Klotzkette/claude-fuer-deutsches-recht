@@ -1,6 +1,6 @@
-# Strukturelle Baseline-Rubrik. Fallbezogene Inhaltschecks bleiben erhalten.
-name: Strassenverkehrsrecht Stvo Schulstrasse Lieferzone
-plugin: strassenverkehrsrecht-stvo
+# Metadaten und Prüfungen außerhalb des Aktenmaterials; keine Musterlösung.
+name: Schulstraße Buchenweg - Lieferzufahrt und Flächennutzung
+plugin: strassennutzung-genehmigungen
 checks:
 - id: r01-readme-vorhanden
   check_type: file_exists
@@ -10,7 +10,88 @@ checks:
   check_type: file_exists
   description: Gesamt-PDF gebaut
   path: gesamt-pdf/strassenverkehrsrecht-stvo-schulstrasse-lieferzone_gesamt.pdf
-- id: r03-mindestens-3-arbeitsunterlagen
+- id: r03-originale-und-ergaenzungen
   check_type: working_file_count
-  description: Mindestens drei exportierbare Arbeitsunterlagen vorhanden
-  min: 3
+  description: Zehn Originale und sechzehn native Ergänzungen vorhanden
+  min: 26
+- id: r04-zufahrtsantrag
+  check_type: text_contains
+  description: Antrag unterscheidet wechselnde von gleichzeitig eingesetzten Fahrzeugen
+  path: 11_ergaenzung_zufahrtsantrag_2026-08-26.docx
+  contains: nicht gleichzeitig fahren
+- id: r05-nachreichung
+  check_type: text_contains
+  description: Nachgereichtes Fahrzeug und ursprünglicher Doppelscan sind dokumentiert
+  path: 12_nachreichung_fahrzeugdaten_2026-08-24.txt
+  contains: zwei Seiten zum Fahrzeug BS-KR 418
+- id: r06-lieferschein
+  check_type: file_exists
+  description: Der zuvor nur genannte Lieferschein ist ein eigenständiger Beleg
+  path: 13_lieferschein_2026-08-19-031.pdf
+- id: r07-verkehrszeichenplan
+  check_type: file_exists
+  description: Die Planabschrift liegt als dokumentierte Skizze vor
+  path: 14_verkehrszeichenplan_va884_blatt2_abschrift.pdf
+- id: r08-niedersachsen
+  check_type: text_contains
+  description: Das Bundesland ist ausdrücklich belegt und nicht aus der Postleitzahl abgeleitet
+  path: 15_strassenbestandsakte_widmung_2026-08-26.docx
+  contains: Die Stadt Eichenstedt liegt im Land Niedersachsen.
+- id: r09-nstrg
+  check_type: text_contains
+  description: Straßenbestandsakte benennt das einschlägige Landesgesetz
+  path: 15_strassenbestandsakte_widmung_2026-08-26.docx
+  contains: Paragraf 6 NStrG
+- id: r10-a31-nachtrag
+  check_type: text_contains
+  description: Der strittige Tabellenstatus wird durch einen separaten Nachtrag eingeordnet
+  path: 16_email_disposition_planberichtigung_2026-08-26.eml
+  contains: Einen Bescheid A-31 kann ich nicht vorlegen.
+- id: r11-anhoerungsdatum
+  check_type: text_contains
+  description: Gesprächserinnerung und Datum des schriftlichen Dokuments werden getrennt
+  path: 16_email_disposition_planberichtigung_2026-08-26.eml
+  contains: Das Schriftstück ist auf den 20. August datiert.
+- id: r12-kontrolldokumentation
+  check_type: text_contains
+  description: Kontrollauszug unterscheidet Textübertragung und fehlende Bilddateien
+  path: 17_kontrollprotokoll_auszug_2026-08-26.docx
+  contains: Textauszug, kein Ersatz der beiden Übersichtsaufnahmen
+- id: r13-ortstermin
+  check_type: text_contains
+  description: Der bereits angekündigte Ortstermin wird mit tatsächlichen Beobachtungen belegt
+  path: 19_ortstermin_lindenplatz_2026-08-27.docx
+  contains: 228 Meter einschließlich zweier Straßenquerungen
+- id: r14-massskizze
+  check_type: file_exists
+  description: Poller und Ladeweg besitzen eine eigenständige Maßskizze
+  path: 20_massskizze_ladeweg_poller_2026-08-27.pdf
+- id: r15-ladezeiten
+  check_type: text_contains
+  description: Rohdaten kennzeichnen Anfang und Ende der gemessenen Entladevorgänge
+  path: 21_ladezeiten_filiale_2026-08-25_bis_28.csv
+  contains: Beginn_Entladung;Letzter_Wareneingang
+- id: r16-container-vollzug
+  check_type: text_contains
+  description: Terminankündigung der Containerumsetzung wird nicht als ausgeführt dargestellt
+  path: 22_email_tiefbau_container_poller_2026-08-28.eml
+  contains: keine Vollzugsmeldung
+- id: r17-flächennutzung
+  check_type: text_contains
+  description: Rollboxantrag benennt eine über die Fahrzeuganwesenheit hinausgehende Nutzung
+  path: 24_antrag_rollbox_stellflaeche_2026-08-31.docx
+  contains: wenn das Lieferfahrzeug bereits abgefahren ist
+- id: r18-schule
+  check_type: text_contains
+  description: Rückmeldung der Schule wird nicht zu einer pauschalen Zustimmung verkürzt
+  path: 25_email_schule_lieferfenster_2026-08-31.eml
+  contains: keine Fahrplanauskunft
+- id: r19-offener-stand
+  check_type: text_contains
+  description: Die neue behördliche Korrespondenz nimmt die Sachentscheidung nicht vorweg
+  path: 26_stadt_sachstand_nutzungsantraege_2026-09-01.docx
+  contains: Eine abschließende Entscheidung liegt damit weiterhin nicht vor.
+- id: r20-quellenerhalt-und-layout
+  check_type: human_review
+  description: Bytegleichheit, vollständige native Lektüre und Layoutprüfung des Erweiterungsbestands
+  note: Der individuelle Builder prüft alle zehn Originalhashes sowie EML, CSV und A4-Struktur. Jede neue DOCX- und PDF-Seite ist zusätzlich gerendert zu prüfen. Gesamt-PDF und Archive bleiben Gegenstand der getrennten Exportprüfung.

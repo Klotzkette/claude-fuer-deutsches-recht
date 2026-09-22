@@ -51,6 +51,16 @@ def require(condition: bool, message: str) -> None:
 
 
 def main() -> int:
+    with tempfile.TemporaryDirectory() as temporary:
+        source = Path(temporary) / "verkehrszaehlung.csv"
+        original = "\ufeffDatum;Fahrräder;Beobachter\n2026-08-24;110;Mäßner\n".encode("utf-8")
+        source.write_bytes(original)
+        rendered = io.BytesIO()
+        G.SimpleDocTemplate(rendered, pagesize=G.A4).build(G.csv_to_flowables(source))
+        text = "\n".join(page.extract_text() for page in G.PdfReader(io.BytesIO(rendered.getvalue())).pages)
+        require("Datum" in text and "Fahrräder" in text and "Mäßner" in text, "UTF-8-CSV muss alle Überschriften und Umlaute erhalten")
+        require("\ufeff" not in text and "■" not in text, "UTF-8-Kennung darf kein Kästchen im PDF erzeugen")
+        require(source.read_bytes() == original, "PDF-Konvertierung darf die CSV-Quelle nicht verändern")
     headers = ["Tag", "Valuta", "Referenz", "Empfänger", "Buchungstext", "Betrag", "Saldo", "Belegdatei"]
     ledger = [headers] + [["2026-07-08", "2026-07-08", f"B-{i:03}", "Müller & Sohn",
                           "Hausgeldübertrag auf das gemeinsame Konto mit unveränderter Zahlungsreferenz",

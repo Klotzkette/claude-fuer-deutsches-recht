@@ -472,7 +472,7 @@ def eml_to_flowables(path: Path) -> list:
 def csv_to_flowables(path: Path) -> list:
     out = []
     try:
-        text = path.read_text(encoding="utf-8")
+        text = path.read_text(encoding="utf-8-sig")
     except UnicodeDecodeError:
         text = path.read_text(encoding="latin-1")
     except Exception as exc:

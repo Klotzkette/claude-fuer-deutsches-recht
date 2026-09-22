@@ -5754,6 +5754,55 @@ PROFILE += (
     ),
 )
 
+PROFILE += (
+    ThemenProfil(
+        key="strassennutzung-genehmigungen",
+        label="Straßennutzung und Genehmigungen",
+        rolle="Bearbeiter für öffentliches Straßen- und Straßenverkehrsverwaltungsrecht: Zufahrt, Laden, Parken, Poller und Fahrräder. Landesrecht und örtliche Anordnung bestimmen den konkreten Antrag; Werbung und Bußgeldverteidigung bleiben außerhalb des Kernauftrags.",
+        oeffnungssatz="Lies zuerst die vorhandene Anordnung, den Antrag und die Ortsunterlagen. Prüfe die konkret gewünschte Straßennutzung und arbeite bis zum beauftragten Schreiben weiter; frage nur nach Angaben, die die Entscheidung ändern.",
+        normen=(
+            "StVO Paragraf 12 und Anlagen 2 und 3: Halten, Parken, tatsächliche Ladetätigkeit und Reichweite der örtlichen Beschilderung getrennt prüfen.",
+            "StVO Paragrafen 43 bis 45: Verkehrseinrichtungen, Zuständigkeit und heutige Tatbestände für Verkehrsbeschränkungen; die Reform schafft keine allgemeine Erlaubnis für beliebige Klimaschutzsperren.",
+            "StVO Paragraf 46 Absatz 1 Satz 1 Nummern 8 und 11 sowie Paragraf 32: Ausnahme vom Hindernisverbot beziehungsweise von angeordneten Zeichenverboten nicht verwechseln.",
+            "NStrG Paragrafen 18 und 19, StrWG NRW Paragrafen 18 und 21: Sondernutzung und Verfahrenskonzentration erst nach Feststellung von Land, Straßenklasse und Widmung anwenden.",
+            "FStrG Paragraf 8 Absatz 6: Konzentration bei objektiv erforderlicher Verkehrserlaubnis oder Ausnahme im eigenen Anwendungsbereich prüfen; keine pauschale Doppelgenehmigung verlangen.",
+            "VwGO Paragrafen 58, 68, 74, 80, 113 und 123: Landesvorverfahren, Frist, konkretes Begehren, Ermessen und passenden vorläufigen Rechtsschutz bestimmen.",
+        ),
+        entscheidungen=(
+            "BVerwG, Urteil vom 06.06.2024 - 3 C 5.23: erheblich beeinträchtigte Anwohner können örtlich begrenzt eine ermessensfehlerfreie Entscheidung gegen Gehwegparken verlangen; kein automatischer Anspruch auf Abschleppen oder eine bestimmte Pollerlösung.",
+            "BVerwG, Urteil vom 11.12.2014 - 3 C 6.13: Die objektiv erforderliche Verkehrsausnahme ist für die gesetzliche Verfahrenskonzentration maßgeblich; das niedersächsische Straßenrecht nicht ungeprüft auf andere Länder übertragen.",
+            "BVerwG, Beschluss vom 25.07.2019 - 9 B 8.19: Fall eines Containers auf privatem Randgrundstück mit Nutzung öffentlicher Straßenfläche durch Einwerfer; keine pauschale Haftungsregel für fremdparkende Ladenkunden.",
+        ),
+        stationen=(
+            "Einstieg -> skills/strassenstatus-widmung-und-zustaendigkeit/SKILL.md: Auftrag, Land, Straßenklasse, Widmung und Behördenkompetenz aus dem vorhandenen Material feststellen.",
+            "Lieferzufahrt -> skills/anliegergebrauch-und-lieferzufahrt-sichern/SKILL.md: Notwendige Erreichbarkeit, Fahrtroute, Lieferbedarf und tatsächliche Alternativen für einen bestimmten Zugangsantrag prüfen.",
+            "Ladefläche -> skills/halten-parken-und-ladeflaechen-klaeren/SKILL.md: Ladetätigkeit, Aufenthaltsdauer, Zeichen und passende Ausnahme unterscheiden.",
+            "Poller -> skills/poller-sperren-und-schluesselzugang-pruefen/SKILL.md: Aufstellung, Sperrwirkung, Handlungsform, Schlüssel und Öffnungsfenster bis zum Abhilfeantrag prüfen.",
+            "Sondernutzung -> skills/sondernutzung-und-ausnahme-abstimmen/SKILL.md: Gegenstand, Fläche, Hindernis und landesrechtliche Konzentration in einer abgestimmten Antragstellung berücksichtigen.",
+            "Schulstraße -> skills/schulstrasse-und-verkehrsanordnung-pruefen/SKILL.md: Heutige Ermächtigung, Verkehrsbelege, Zeitfenster, Anliegerbelange und angepasste Lieferregelung prüfen.",
+            "Fahrräder -> skills/fahrradverkehr-und-abstellnutzung-abgrenzen/SKILL.md: Fahren, Schieben, Abstellen und betriebliche Aufstellung nach Widmung, StVO und örtlichem Straßenrecht einordnen.",
+            "Gehwegparken -> skills/gehwegparken-und-behoerdliches-einschreiten/SKILL.md: Eigene erhebliche Beeinträchtigung, räumlichen Anspruch und behördliches Ermessen mit Beobachtungen belegen.",
+            "Fremdparker -> skills/ladeninhaber-und-fremdparker-abgrenzen/SKILL.md: Eigene Nutzung oder konkrete Veranlassung von selbständigem Fehlverhalten der Kunden unterscheiden.",
+            "Verfahren -> skills/antraege-rechtsbehelfe-und-eilrechtsschutz/SKILL.md: Antrag oder Rechtsbehelf vollständig ausformulieren, richtigen Gegner und Frist sichern und nach Rückantwort gezielt weiterarbeiten.",
+        ),
+        pruefraster=(
+            "Welche konkrete Nutzung soll an welchem Ort zu welcher Zeit erlaubt, eingeschränkt oder wiederhergestellt werden?",
+            "Welche Widmung, Beschilderung und landesrechtliche Regelung ist tatsächlich belegt, und welche Rechtsfolge trägt sie?",
+            "Welche Beeinträchtigung ist durch Maße, Häufigkeit, Lieferdaten und nachvollziehbare Alternativen nachgewiesen?",
+            "Benötigt der Nutzer eine Ausnahme, eine Straßenentscheidung, einen Schlüssel oder mehrere aufeinander abgestimmte Leistungen?",
+            "Welcher ausformulierte Antrag ist jetzt möglich, und welche einzelne fehlende Tatsache verhindert noch seine Endfassung?",
+        ),
+        stop=(
+            "Eine Geschäftsadresse soll ohne Prüfung als Anspruch auf Kundenparkplätze gelten.",
+            "Eine Ausnahmegenehmigung wird mit dem tatsächlichen Pollerzugang gleichgesetzt.",
+            "Ein Antrag oder Schlüssel soll bis zur Entscheidung automatisch jedes Verkehrsverbot aufheben.",
+            "Ein Poller soll ohne behördliche Erlaubnis eigenmächtig entfernt werden.",
+            "Eine Entscheidung zu einem anderen Landesgesetz oder zum früheren Paragrafen 45 StVO soll ungeprüft übernommen werden.",
+            "Einreichung, Anerkenntnis oder Gebührenzahlung soll ohne ausdrücklichen Auftrag erfolgen.",
+        ),
+    ),
+)
+
 PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
@@ -5881,6 +5930,7 @@ EXACT_PROFILE_KEYS: dict[str, str] = {
     "startup-hr-personalabteilung-berlin": "hr",
     "status-navigator-step-plan": "dokumentenworkflow",
     "strafzumessung": "strafjustiz",
+    "strassennutzung-genehmigungen": "strassennutzung-genehmigungen",
     "strassenrecht-infrastruktur": "strassenrecht",
     "strassenverkehrsrecht-stvo": "stvo",
     "subsumtions-pruefer": "ausbildung",

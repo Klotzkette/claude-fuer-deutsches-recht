@@ -1,6 +1,6 @@
 # hochschulrecht-laender
 
-**101 Skills** · Stand `v444.8.0`
+**101 Skills** · Stand `v444.9.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../hochschulrecht-laender/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

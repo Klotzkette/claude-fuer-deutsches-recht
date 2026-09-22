@@ -1,0 +1,18 @@
+Vorgang_ID;Datum;Uhrzeit;Schlüssel;Von;An;Vorgang;Rückgabe_bis;Notiz
+S01;2026-08-21;08:20;LB-17;Tobias Korte;Mara Hölscher;Ausgabe Werkhof;2026-10-16 12:00;"Einweisung; nur ein Straßenschlüssel ausgegeben"
+S02;2026-08-24;06:25;LB-17;Mara Hölscher;Deniz Arslan;Interne Übergabe;2026-08-24 10:00;"Kassenschubfach; Frühdienst"
+S03;2026-08-24;09:48;LB-17;Deniz Arslan;Mara Hölscher;Interne Rückgabe;;Pfosten verriegelt
+S04;2026-08-25;09:55;LB-17;Mara Hölscher;Kassenschubfach;Verwahrung;;Keine Öffnung für spätere Frischefahrt
+S05;2026-08-26;07:50;LB-17;Mara Hölscher;Deniz Arslan;Interne Übergabe;2026-08-26 10:00;Gemüseanlieferung
+S06;2026-08-26;09:40;LB-17;Deniz Arslan;Kassenschubfach;Verwahrung;;Rückgabe von Hölscher gesehen
+S07;2026-08-27;12:08;LB-18;Mara Hölscher;Johanna Rensing;Zusatzantrag;;"Nicht ausgegeben; E-Mail vom selben Tag"
+S08;2026-08-31;08:03;LB-17;Deniz Arslan;Tobias Korte;Störungsmeldung;;"Telefonisch schwergängiges Drehen gemeldet; kein Schlüsselwechsel"
+S09;2026-09-01;07:55;LB-17;Mara Hölscher;Deniz Arslan;Interne Übergabe;2026-09-01 10:00;Gemüseanlieferung
+S10;2026-09-01;09:45;LB-17;Deniz Arslan;Kassenschubfach;Verwahrung;;Pfosten verriegelt
+S11;2026-09-04;09:20;LB-17;Mara Hölscher;Deniz Arslan;Interne Übergabe;2026-09-04 10:00;Frischefahrt angekündigt
+S12;2026-09-04;10:19;LB-17;Mara Hölscher;Kassenschubfach;Verwahrung;;"Schließen laut Chat; Zeitpunkt Rückgabe Arslan an Hölscher nicht notiert"
+S13;2026-09-09;08:30;LB-17;Mara Hölscher;Tobias Korte;Funktionsprobe vor Ort;2026-09-09 09:25;Keine dauerhafte Rückgabe an Stadt
+S14;2026-09-09;09:25;LB-17;Tobias Korte;Mara Hölscher;Rückgabe nach Probe;2026-10-16 12:00;"Derselbe Schlüssel; Versuch unverändert"
+S15;2026-09-15;11:06;LB-18;Johanna Rensing;Mara Hölscher;Statusmitteilung;;"In Prüfung; nicht ausgegeben"
+S16;2026-09-22;15:42;LB-17;Betriebsablage;Mara Hölscher;Bestandsabgleich;2026-10-16 12:00;"Ausgegeben; Versuch bis 15.10.2026"
+S17;2026-09-22;15:42;LB-18;Betriebsablage;Mara Hölscher;Bestandsabgleich;;"Nicht ausgegeben; Zusatzantrag in Prüfung"

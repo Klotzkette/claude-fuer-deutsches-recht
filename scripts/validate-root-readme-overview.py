@@ -182,9 +182,11 @@ def check_root_readme(values: dict[str, int | str]) -> list[str]:
     readme = (REPO / "README.md").read_text(encoding="utf-8")
     errors: list[str] = []
 
-    plugin_count = int(require(r"\| \*\*Plugins\*\* \| (\d+)\b", readme, "README Plugins").group(1))
-    if plugin_count != values["plugins"]:
-        errors.append(f"README Plugins: {plugin_count} statt {values['plugins']}")
+    plugin_pattern = r"\| \*\*Plugins\*\* \| (\d+)\b"
+    require(plugin_pattern, readme, "README Plugins")
+    for count in re.findall(plugin_pattern, readme):
+        if int(count) != values["plugins"]:
+            errors.append(f"README Plugins: {count} statt {values['plugins']}")
 
     skill_count = int(require(r"\| \*\*Skills \(SKILL\.md\)\*\* \| (\d+)\b", readme, "README Skills").group(1))
     if skill_count != values["skills"]:
@@ -195,14 +197,14 @@ def check_root_readme(values: dict[str, int | str]) -> list[str]:
         readme,
         "README Testakten",
     )
-    central = int(testakten.group(1))
-    total = int(testakten.group(2))
-    if central != values["central_testakten"] or total != values["testakten"]:
-        errors.append(
-            "README Testakten: "
-            f"{central} zentral / {total} gesamt statt "
-            f"{values['central_testakten']} zentral / {values['testakten']} gesamt"
-        )
+    for match in re.finditer(testakten.re.pattern, readme):
+        central, total = map(int, match.groups())
+        if central != values["central_testakten"] or total != values["testakten"]:
+            errors.append(
+                "README Testakten: "
+                f"{central} zentral / {total} gesamt statt "
+                f"{values['central_testakten']} zentral / {values['testakten']} gesamt"
+            )
 
     version = require(
         r"\| \*\*Plugin-Version / Arbeitsstand\*\* \| `(v\d+\.\d+\.\d+)`",

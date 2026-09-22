@@ -35,6 +35,11 @@ DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/downlo
 DISALLOWED_ABBR = chr(75) + chr(73)
 DISALLOWED_MIXED = chr(75) + "i"
 PROSE_REPLACEMENTS = {
+    "Oeffentliches": "Öffentliches",
+    "Strassenverkehrsverwaltungsrecht": "Straßenverkehrsverwaltungsrecht",
+    "Strassen": "Straßen",
+    "Schulstrassen": "Schulstraßen",
+    "Fahrraeder": "Fahrräder",
     "Geldwaeschepruefung": "Geldwäscheprüfung",
     "Fachablaeufe": "Fachabläufe",
     "GmbH-Gruendung": "GmbH-Gründung",
@@ -281,6 +286,7 @@ HANDCURATED_FIRST_PRODUCTS = {
     "schriftsatz-versandwerkstatt": "eine Produktionsmatrix und kontrollierte Versandmappe",
     "arbeitszeugnispruefer": "die vollständige Prüfung des vorhandenen Zeugnisses mit konkreten Ersatzsätzen und dem ausdrücklich verlangten Entwurf",
     "zugewinnausgleich": "die Vermögensrechnung beider Ehegatten mit belegten Stichtagen, Erbschaften, Eigentumsanteilen und Schulden bis zum beauftragten Gutachten oder Schreiben",
+    "strassennutzung-genehmigungen": "die konkrete Zufahrt, Ladefläche oder Pollerregelung nach Widmung, Landesrecht und Verkehrszeichen prüfen; daraus den beauftragten Erlaubnisantrag, die Stellungnahme oder den Rechtsbehelf ausformulieren",
 }
 
 

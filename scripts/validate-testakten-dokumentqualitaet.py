@@ -37,6 +37,7 @@ PREFIXES = (
     "selbstvertreter-sozialgericht-",
     "sozialrecht-",
     "statusfeststellung-",
+    "strassennutzung-",
     "unfallversicherung-",
     "unterhalt-",
     "versausgleich-",

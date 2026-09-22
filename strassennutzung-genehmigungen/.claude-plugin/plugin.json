@@ -1,0 +1,18 @@
+{
+  "name": "strassennutzung-genehmigungen",
+  "version": "444.9.0",
+  "description": "Oeffentliches Strassen- und Strassenverkehrsverwaltungsrecht: zehn Skills fuer Zufahrt, Parken, Laden, Poller, Schulstrassen, Fahrraeder, Sondernutzung, Ausnahmen und Rechtsschutz.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "license": "Apache-2.0 OR MIT",
+  "keywords": [
+    "strassenrecht",
+    "sondernutzung",
+    "lieferzufahrt",
+    "poller",
+    "schulstrasse",
+    "verwaltungsrecht"
+  ]
+}

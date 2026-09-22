@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v444.8.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v444.9.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22453 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22463 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -267,6 +267,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [strafanzeige-vorbereiter](./strafanzeige-vorbereiter.md) (57 Skills)
 - [strafbefehl-verteidiger](./strafbefehl-verteidiger.md) (61 Skills)
 - [strafzumessung](./strafzumessung.md) (60 Skills)
+- [strassennutzung-genehmigungen](./strassennutzung-genehmigungen.md) (10 Skills)
 - [strassenrecht-infrastruktur](./strassenrecht-infrastruktur.md) (127 Skills)
 - [strassenverkehrsrecht-stvo](./strassenverkehrsrecht-stvo.md) (118 Skills)
 - [subsumtions-pruefer](./subsumtions-pruefer.md) (59 Skills)

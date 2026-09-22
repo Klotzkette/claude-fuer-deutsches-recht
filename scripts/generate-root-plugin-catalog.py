@@ -166,7 +166,7 @@ def replace_catalog(text: str, catalog: str) -> str:
     return pattern.sub(catalog + "\n", text, count=1)
 
 
-def update_testakten_version(text: str, version: str) -> str:
+def update_testakten_version(text: str, version: str, central_count: int | None = None) -> str:
     updated, count = re.subn(
         r"^Stand v\d+\.\d+\.\d+(?=:)",
         lambda _: "Stand v" + version,
@@ -175,6 +175,15 @@ def update_testakten_version(text: str, version: str) -> str:
     )
     if count != 1:
         raise RuntimeError("Eindeutiger Versionsstand in testakten/README.md fehlt")
+    if central_count is not None:
+        updated, count = re.subn(
+            r"^(Stand v\d+\.\d+\.\d+: )\d+(?= zentrale Testakten)",
+            lambda match: match[1] + str(central_count),
+            updated,
+            flags=re.MULTILINE,
+        )
+        if count != 1:
+            raise RuntimeError("Eindeutige Aktenzahl in testakten/README.md fehlt")
     return updated
 
 
@@ -185,13 +194,14 @@ def main() -> int:
     updated = replace_directory(original, build_directory(plugins))
     updated = replace_catalog(updated, build_catalog(plugins))
     counts = inventory_counts(plugins)
+    updated = update_summary_counts(updated, counts)
     updated = re.sub(r"(\| \*\*Skills \(SKILL\.md\)\*\* \| )\d+", lambda m: m[1] + str(counts["skills"]), updated)
     versions = {plugin.get("version") for plugin in plugins}
     if len(versions) != 1 or not isinstance(next(iter(versions)), str):
         raise RuntimeError("Uneinheitliche Marketplace-Versionen")
     version = next(iter(versions))
     updated = re.sub(r"(\| \*\*Plugin-Version / Arbeitsstand\*\* \| `)v\d+\.\d+\.\d+", lambda m: m[1] + "v" + version, updated)
-    testakten = update_testakten_version(TESTAKTEN_README.read_text(encoding="utf-8"), version)
+    testakten = update_testakten_version(TESTAKTEN_README.read_text(encoding="utf-8"), version, counts["central_testakten"])
     README.write_text(updated, encoding="utf-8")
     TESTAKTEN_README.write_text(testakten, encoding="utf-8")
     print(
@@ -199,6 +209,19 @@ def main() -> int:
         f"mit {len(plugins)} Plugins."
     )
     return 0
+
+
+def update_summary_counts(text: str, counts: dict[str, int]) -> str:
+    text = re.sub(
+        r"(\| \*\*Plugins\*\* \| )\d+\b",
+        lambda match: match[1] + str(counts["plugins"]),
+        text,
+    )
+    return re.sub(
+        r"(\| \*\*Testakten\*\* \| )\d+ zentral / \d+ gesamt(?= \|)",
+        lambda match: match[1] + f"{counts['central_testakten']} zentral / {counts['testakten']} gesamt",
+        text,
+    )
 
 
 if __name__ == "__main__":
