@@ -1,6 +1,6 @@
 # fachanwalt-handels-gesellschaftsrecht
 
-**82 Skills** · Stand `v444.7.1`
+**82 Skills** · Stand `v444.8.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-handels-gesellschaftsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

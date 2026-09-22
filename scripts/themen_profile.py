@@ -5705,6 +5705,55 @@ PROFILE += (
     ),
 )
 
+PROFILE += (
+    ThemenProfil(
+        key="zugewinnausgleich",
+        label="Zugewinnausgleich",
+        rolle="Spezialisierter Bearbeiter für belegte Vermögenszuordnung, Stichtagsbewertung und Zugewinnausgleich neben dem allgemeinen Familienrecht; Versorgungsausgleich und pauschaler erbrechtlicher Zugewinnausgleich bleiben getrennt.",
+        oeffnungssatz="Lies zuerst die vorhandenen Vermögensbelege und den Zustellungsnachweis. Arbeite bis zur nachvollziehbaren Berechnung oder zum beauftragten Schreiben weiter und frage nur nach entscheidenden Lücken.",
+        normen=(
+            "BGB Paragrafen 1373 und 1374: Zugewinn, auch negatives Anfangsvermögen und privilegierte Nettoerwerbe; Anfangsvermögen und spätere Erwerbe mit amtlichen Verbraucherpreisindizes auf einheitlicher Basis getrennt indexieren.",
+            "BGB Paragrafen 1375 bis 1377: Endvermögen, konkrete Hinzurechnungstatbestände, Bewertungszeitpunkte und Beweiswirkung eines gemeinsamen Anfangsverzeichnisses.",
+            "BGB Paragraf 1378: halber Zugewinnunterschied, gesonderte Haftungsbegrenzung samt Erhöhung um Hinzurechnungen und Entstehung des Anspruchs bei Beendigung des Güterstands.",
+            "BGB Paragraf 1379 und Paragraf 260: stichtagsbezogene Auskunft, Belege und Voraussetzungen einer eidesstattlichen Versicherung getrennt prüfen.",
+            "BGB Paragraf 1384: Bei Scheidung tritt für Berechnung und Forderungshöhe die Rechtshängigkeit, regelmäßig die Zustellung des Scheidungsantrags, an die Stelle der Güterstandsbeendigung; nicht das Scheidungsdatum einsetzen.",
+            "BGB Paragrafen 1380 bis 1382 und 1385 bis 1387: Vorausempfang, Leistungsverweigerung, Stundung und vorzeitiger Ausgleich benötigen jeweils eigene Voraussetzungen.",
+            "BGB Paragraf 426: Außenhaftung und durchsetzbarer interner Ausgleich von Gesamtschulden; Eigentumsquote und Schuldzuordnung nicht gleichsetzen.",
+            "FamFG Paragrafen 112 bis 114, 137 und 261 sowie ZPO Paragraf 254: Güterrechtssache, Verfahrensregeln, Vertretung, Verbund und passender Stufenantrag; keine ungefragte gerichtliche Eskalation.",
+        ),
+        entscheidungen=(
+            "BGH, Beschluss vom 13.11.2024 - XII ZB 558/23, Randnummern 17 bis 23: Für die Beweislast nach BGB Paragraf 1375 Absatz 2 Satz 2 kommt es auf die erteilte Trennungsauskunft an; ein verlangter und akzeptierter abweichender Auskunftsstichtag kann maßgeblich sein.",
+            "BGH, Urteil vom 09.02.2011 - XII ZR 40/09, Randnummern 16 bis 37 und 50 bis 58: übertragbarer Praxiswert, individueller Unternehmerlohn, latente Steuern und Doppelverwertung konkret prüfen; Gesamtschuld und internen Ausgleich getrennt bewerten.",
+            "BGH, Beschluss vom 06.05.2015 - XII ZB 306/14, Randnummern 19 bis 27: altersbedingtes Abschmelzen eines Nießbrauchs und marktbedingte Wertentwicklung unterscheiden; Belastung nicht schematisch in beiden Bilanzen ausblenden.",
+        ),
+        stationen=(
+            "Gesamtberechnung -> skills/vermoegensbelege-bis-zur-gesamtberechnung/SKILL.md: Belegte Stichtage und Personenbilanzen zu indexiertem Anfangsvermögen, Zugewinndifferenz und gesondert geprüfter Forderungsbegrenzung zusammenführen.",
+            "Anfangsvermögen -> skills/anfangsvermoegen-schulden-und-indexierung/SKILL.md: Positive und negative Bestände bei Güterstandsbeginn belegen, Schulden zuordnen und die amtlichen Indexwerte mit Bezugsmonaten nachrechenbar einsetzen.",
+            "Erbschaft und Schenkung -> skills/erbschaft-schenkung-und-niessbrauch/SKILL.md: Erwerbsgrund, Nettoerwerbswert und Erwerbsdatum prüfen; Nießbrauchsentwicklung und marktbedingten Wertzuwachs unterscheiden.",
+            "Immobilien -> skills/immobilienwert-und-darlehen-zuordnen/SKILL.md: Eigentumsanteil, Stichtagswert, Restschuld und internen Gesamtschuldnerausgleich anhand getrennter Nachweise bewerten.",
+            "Unternehmenswert -> skills/unternehmenswert-steuern-und-doppelverwertung/SKILL.md: Übertragbaren Wert, Unternehmerlohn, latente Steuerlast und konkrete Überschneidung mit Unterhalt in begründeten Bewertungsvarianten berechnen.",
+            "Konten und Sachwerte -> skills/konten-depots-krypto-und-gold-abgleichen/SKILL.md: Kontoinhaberschaft, wirtschaftliche Zuordnung, Einheiten, Stichtagskurse und interne Umbuchungen abgleichen, ohne denselben Wert doppelt anzusetzen.",
+            "Trennungsbewegungen -> skills/trennungsbewegungen-und-beweislast-pruefen/SKILL.md: Erteilte Trennungsauskunft und spätere Vermögensminderung rekonstruieren; Hinzurechnungstatbestand und jeweilige Darlegungs- und Beweislast konkret prüfen.",
+            "Auskunft -> skills/auskunft-und-belege-gezielt-anfordern/SKILL.md: Fehlende entscheidungserhebliche Angaben mit Rechtsgrund, zutreffendem Stichtag und bezeichneten Belegen in ein gezieltes Auskunftsschreiben überführen.",
+            "Varianten und Vergleich -> skills/varianten-und-vergleich-durchrechnen/SKILL.md: Streitige Ansätze einzeln variieren, ihre Auswirkung auf die Forderung rechnen und einen gegebenenfalls beauftragten Vergleich mit Form, Fälligkeit und offenem Rest ausformulieren.",
+            "Antrag und Erwiderung -> skills/antrag-oder-erwiderung-ausformulieren/SKILL.md: Nur bei entsprechendem Auftrag einen bestimmten Zahlungs- oder Stufenantrag beziehungsweise eine belegte Erwiderung im passenden Verfahrensstand vollständig ausformulieren.",
+        ),
+        pruefraster=(
+            "Welche Zustellung bestimmt den Bewertungsstichtag, und welche Urkunde belegt den Güterstandsbeginn?",
+            "Welche Vermögensposition und welche Schuld gehören wirtschaftlich welcher Person, ohne Doppelansatz eines Ausgleichsanspruchs?",
+            "Sind privilegierte Erwerbe und negatives Anfangsvermögen mit den richtigen Bezugsmonaten indexiert und die Beweislast für streitige Werte geklärt?",
+            "Welche einzelne Bewertungsannahme ändert die Forderung, und welches beauftragte Ergebnis ist schon mit den vorhandenen Unterlagen möglich?",
+        ),
+        stop=(
+            "Einreichung oder Scheidungsdatum soll ohne Zustellungsprüfung als Endvermögensstichtag gelten.",
+            "Eine ungeklärte Vermögensminderung soll automatisch als illoyale Handlung hinzugerechnet werden.",
+            "Ein Unternehmen soll allein wegen laufenden Unterhalts ganz aus der Vermögensbilanz entfallen.",
+            "Eine offene Bewertungsfrage soll durch eine erfundene Zahl, einen pauschalen Steuersatz oder eine unbelegte Entscheidung geschlossen werden.",
+            "Versand, Einreichung, Anerkenntnis oder Verzicht soll ohne ausdrückliche Freigabe erfolgen.",
+        ),
+    ),
+)
+
 PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
@@ -5860,6 +5909,7 @@ EXACT_PROFILE_KEYS: dict[str, str] = {
     "weltraumrecht": "weltraum",
     "word-legal-ai-plugin-and-skill-for-german-lawyers": "dokumentenworkflow",
     "zitierweise-deutsches-recht": "methodik",
+    "zugewinnausgleich": "zugewinnausgleich",
     "zwangsverwaltung-zvg": "zwangsverwaltung",
 }
 

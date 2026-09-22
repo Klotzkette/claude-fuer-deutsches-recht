@@ -280,6 +280,7 @@ HANDCURATED_FIRST_PRODUCTS = {
     "anlagen-zu-schriftsaetzen": "eine Produktionsmatrix und kontrollierte Gerichtsmappe",
     "schriftsatz-versandwerkstatt": "eine Produktionsmatrix und kontrollierte Versandmappe",
     "arbeitszeugnispruefer": "die vollständige Prüfung des vorhandenen Zeugnisses mit konkreten Ersatzsätzen und dem ausdrücklich verlangten Entwurf",
+    "zugewinnausgleich": "die Vermögensrechnung beider Ehegatten mit belegten Stichtagen, Erbschaften, Eigentumsanteilen und Schulden bis zum beauftragten Gutachten oder Schreiben",
 }
 
 

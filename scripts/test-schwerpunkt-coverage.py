@@ -18,7 +18,7 @@ class SchwerpunktCoverage(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.packages = {name: path for name, path in marketplace().items()
-                        if name.startswith("fachanwalt-") or name in {"insolvenzrecht", "steuerrecht-anwalt-und-berater"}}
+                        if name.startswith("fachanwalt-") or name in {"insolvenzrecht", "steuerrecht-anwalt-und-berater", "zugewinnausgleich"}}
 
     def test_every_specialist_has_concrete_skill_and_prompt(self):
         self.assertTrue(self.packages)

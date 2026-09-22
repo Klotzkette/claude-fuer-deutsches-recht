@@ -51,6 +51,19 @@ def require(condition: bool, message: str) -> None:
 
 
 def main() -> int:
+    headers = ["Tag", "Valuta", "Referenz", "Empfänger", "Buchungstext", "Betrag", "Saldo", "Belegdatei"]
+    ledger = [headers] + [["2026-07-08", "2026-07-08", f"B-{i:03}", "Müller & Sohn",
+                          "Hausgeldübertrag auf das gemeinsame Konto mit unveränderter Zahlungsreferenz",
+                          "125.20", str(1000 + i), f"kontoauszuege/Beleg_{i:03}.pdf"] for i in range(20)]
+    ledger_pdf = io.BytesIO()
+    G.SimpleDocTemplate(ledger_pdf, pagesize=G.A4).build(G._render_table(ledger, header=True))
+    ledger_pages = G.PdfReader(io.BytesIO(ledger_pdf.getvalue())).pages
+    require(len(ledger_pages) <= 5, "kurze Buchungsfelder dürfen keine unnötigen Einzelseiten erzeugen")
+    ledger_text = "\n".join(page.extract_text() for page in ledger_pages)
+    for row in ledger[1:]:
+        for field in (row[2], row[-1]):
+            require(field in ledger_text, f"verdichtete Darstellung darf keinen Datensatz verlieren: {field}")
+    require("Empfänger:" in ledger_text and "Müller & Sohn" in ledger_text, "Spaltenzuordnung und Umlaute müssen erhalten bleiben")
     require(G.escape("Müller & Sohn") == "Müller &amp; Sohn", "lateinischer Standardtext behält seine Darstellung")
     escaped = G.escape("Aylin Yılmaz, Łukasz und Černý <Beleg>")
     require("&lt;Beleg&gt;" in escaped, "Quelltext darf keine Formatbefehle einschleusen")

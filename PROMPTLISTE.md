@@ -36,7 +36,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [BGB Allgemeiner Teil und Methodenlehre](#bgb-allgemeiner-teil-und-methodenlehre) | 7 |
 | [BGB Besonderer Teil - Allgemeines Schuldrecht und Bereicherungsrecht](#bgb-besonderer-teil---allgemeines-schuldrecht-und-bereicherungsrecht) | 5 |
 | [Erbrecht](#erbrecht) | 1 |
-| [Familienrecht](#familienrecht) | 2 |
+| [Familienrecht](#familienrecht) | 3 |
 | [Franchise und Leasing](#franchise-und-leasing) | 2 |
 | [Gerichtliche Spruchpraxis (experimentell)](#gerichtliche-spruchpraxis-experimentell) | 13 |
 | [Gewerblicher Rechtsschutz](#gewerblicher-rechtsschutz) | 8 |
@@ -63,7 +63,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Versicherungsrecht](#versicherungsrecht) | 3 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 31 |
 
-225 kuratierte Plugins in 34 Kategorien, aus insgesamt 238 Marketplace-Plugins (Abgleich: 22. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
+226 kuratierte Plugins in 34 Kategorien, aus insgesamt 239 Marketplace-Plugins (Abgleich: 22. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
 
 ## Agrarrecht
 
@@ -143,6 +143,8 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 
 - [betreuungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht): Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer, Berufs- und Vereinsbetreuer: Kaltstart, Scan-Akte, Kalender, Gerichtskommunikation… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betreuungsrecht/betreuungsrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betreuungsrecht/betreuungsrecht-werkstatt.md)
 - [fachanwalt-familienrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht): Plugin Fachanwalt für Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehevertrag… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-familienrecht/fachanwalt-familienrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-familienrecht/fachanwalt-familienrecht-werkstatt.md)
+
+- [zugewinnausgleich](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zugewinnausgleich): Vermögensbelege, Stichtage, Erbschaft, Immobilien, Unternehmen und Schulden bis zur nachrechenbaren Ausgleichsforderung und zum beauftragten Schreiben · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/zugewinnausgleich-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/zugewinnausgleich-werkstatt.md)
 
 ## Franchise und Leasing
 

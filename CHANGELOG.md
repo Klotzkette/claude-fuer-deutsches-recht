@@ -1,3 +1,17 @@
+# v444.8.0 - Zugewinnausgleich mit belegbarer Familienakte
+
+## 1. Eigenständige Vermögenswerkstatt
+
+Das neue Plugin führt mit genau zehn Skills von den vorhandenen Unterlagen zur überprüfbaren Vermögensrechnung, zum Auskunftsschreiben, zum Vergleich oder zum Verfahrensentwurf. Werkstatt, Schnellstart und Hauptproblem-Prompt sind getrennte Markdown-Downloads. Der Schwerpunkt ist zugleich als echter Plugin-Skill installierbar. Stichtage, privilegierter Erwerb, Kaufkraftbereinigung, gemeinsame Schulden, Unternehmenswerte und streitige Vermögensbewegungen werden fachlich getrennt behandelt. Amtliche Normen und drei Entscheidungen des Bundesgerichtshofs sind mit ihren Aussagegrenzen dokumentiert.
+
+## 2. Familie Bergmann in Potsdam
+
+Die neue Akte enthält 118 Quelldateien: 77 einzelne Beleg-PDFs, 14 Word-Dokumente, zwölf E-Mails, drei Nachrichtenexporte, acht CSV-Dateien, zwei Excel-Arbeitsmappen und zwei nachgebildete Kontoansichten. Die Unterlagen reichen von der Eheschließung 2011 über die Erbschaft 2019 bis zur Trennung und Zustellung des Scheidungsantrags. Hausfinanzierung, kleines Planungsbüro, Kinder, Unterstützung der Mutter, Gold und Kryptowerte ergeben einen zusammenhängenden Lebenssachverhalt ohne vorgegebene Ausgleichsforderung.
+
+## 3. Nachrechnung, Darstellung und Auslieferung
+
+481 Kontobewegungen, 47 eigene Übertragspaare, Kreditstände und gespeicherte Excel-Formelergebnisse werden geprüft. Originalbelege bleiben getrennt; Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP enthalten denselben Arbeitsbestand. Die Hinweistexte stehen auf den Downloadseiten und in den ZIP-Wurzelverzeichnissen, nicht in den Beleg-PDFs. Breite CSV-Tabellen mit kurzen Feldinhalten erhalten eine platzsparendere PDF-Darstellung ohne Datenverlust. Der Umlautprüfer unterscheidet vollständige technische Belegpfade von Fließtext. Sechzehn neue Regressionen und ein fachliches Prüfprofil sichern den Ausbau ab; ein vorbereitetes Prüfprofil ist kein ausgeführter Modelltest. Die neue Plugin-README behält auch nach Generatorläufen ihre dezimale Gliederung und bestehenden Sprungziele.
+
 # v444.7.1 - Weitere Belege aus dem Schöneberger Verwaltungsalltag
 
 ## 1. Rechnungen und zusammenhängende Vorgänge

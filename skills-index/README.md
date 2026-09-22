@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v444.7.1`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v444.8.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22443 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22453 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -316,5 +316,6 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 ### Z
 
 - [zitierweise-deutsches-recht](./zitierweise-deutsches-recht.md) (84 Skills)
+- [zugewinnausgleich](./zugewinnausgleich.md) (10 Skills)
 - [zwangsverwaltung-zvg](./zwangsverwaltung-zvg.md) (59 Skills)
 - [zwangsvollstreckung](./zwangsvollstreckung.md) (60 Skills)

@@ -1,0 +1,191 @@
+Buchungstag;Valuta;Referenz;Auftraggeber_Empfänger;Buchungstext;Betrag_EUR;Saldo_EUR;Belegdatei
+2025-03-31;2025-03-31;VORTRAG;Havelbogen Bank eG;Saldovortrag 31.03.2025;0.00;6275.80;belege/Saldenbestaetigung_2025-04-01.pdf
+2025-04-02;2025-04-02;202504-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;8575.80;kontoauszuege/Haushalt_2025-04.pdf
+2025-04-03;2025-04-03;202504-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;9525.80;kontoauszuege/Haushalt_2025-04.pdf
+2025-04-07;2025-04-07;202504-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;8145.80;kontoauszuege/Haushalt_2025-04.pdf
+2025-04-08;2025-04-08;202504-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;7835.80;kontoauszuege/Haushalt_2025-04.pdf
+2025-04-10;2025-04-10;202504-ESSEN;Schulcatering Havelküche;Jule / Oskar / Monatsabrechnung;-124.60;7711.20;kontoauszuege/Haushalt_2025-04.pdf
+2025-04-14;2025-04-14;202504-SPORT;Turnverein Bornim;Beiträge Jule und Oskar;-48;7663.20;kontoauszuege/Haushalt_2025-04.pdf
+2025-04-15;2025-04-15;202504-NETZ;Telekommunikation;Internet Kastanienweg 18;-44.90;7618.30;kontoauszuege/Haushalt_2025-04.pdf
+2025-04-22;2025-04-22;202504-MARKT1;Markt am Bornstedter Feld;Kartenzahlung Haushalt;-198.43;7419.87;kontoauszuege/Haushalt_2025-04.pdf
+2025-04-22;2025-04-22;202504-MARKT2;Lebensmittelmarkt Potsdam;Kartenzahlung Haushalt;-165.16;7254.71;kontoauszuege/Haushalt_2025-04.pdf
+2025-04-28;2025-04-28;202504-DROGERIE;Drogerie am Park;Kartenzahlung / Haushalt und Schulbedarf;-76.35;7178.36;kontoauszuege/Haushalt_2025-04.pdf
+2025-04-28;2025-04-28;202504-GEB;Waldsee Versicherung;Wohngebäude / Monatsrate;-39.80;7138.56;kontoauszuege/Haushalt_2025-04.pdf
+2025-04-30;2025-04-30;202504-GEB-HAUSHALT;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;7131.66;kontoauszuege/Haushalt_2025-04.pdf
+2025-05-02;2025-05-02;202505-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;9431.66;kontoauszuege/Haushalt_2025-05.pdf
+2025-05-05;2025-05-05;202505-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;8051.66;kontoauszuege/Haushalt_2025-05.pdf
+2025-05-05;2025-05-05;202505-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;9001.66;kontoauszuege/Haushalt_2025-05.pdf
+2025-05-08;2025-05-08;202505-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;8691.66;kontoauszuege/Haushalt_2025-05.pdf
+2025-05-12;2025-05-12;202505-ESSEN;Schulcatering Havelküche;Jule / Oskar / Monatsabrechnung;-124.60;8567.06;kontoauszuege/Haushalt_2025-05.pdf
+2025-05-12;2025-05-12;202505-SPORT;Turnverein Bornim;Beiträge Jule und Oskar;-48;8519.06;kontoauszuege/Haushalt_2025-05.pdf
+2025-05-15;2025-05-15;202505-NETZ;Telekommunikation;Internet Kastanienweg 18;-44.90;8474.16;kontoauszuege/Haushalt_2025-05.pdf
+2025-05-19;2025-05-19;202505-MARKT1;Markt am Bornstedter Feld;Kartenzahlung Haushalt;-201.43;8272.73;kontoauszuege/Haushalt_2025-05.pdf
+2025-05-22;2025-05-22;202505-MARKT2;Lebensmittelmarkt Potsdam;Kartenzahlung Haushalt;-169.16;8103.57;kontoauszuege/Haushalt_2025-05.pdf
+2025-05-26;2025-05-26;202505-GEB;Waldsee Versicherung;Wohngebäude / Monatsrate;-39.80;8063.77;kontoauszuege/Haushalt_2025-05.pdf
+2025-05-28;2025-05-28;202505-DROGERIE;Drogerie am Park;Kartenzahlung / Haushalt und Schulbedarf;-78.35;7985.42;kontoauszuege/Haushalt_2025-05.pdf
+2025-06-02;2025-06-02;202505-GEB-HAUSHALT;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;7978.52;kontoauszuege/Haushalt_2025-06.pdf
+2025-06-02;2025-06-02;202506-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;10278.52;kontoauszuege/Haushalt_2025-06.pdf
+2025-06-03;2025-06-03;202506-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;11228.52;kontoauszuege/Haushalt_2025-06.pdf
+2025-06-05;2025-06-05;202506-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;9848.52;kontoauszuege/Haushalt_2025-06.pdf
+2025-06-10;2025-06-10;202506-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;9538.52;kontoauszuege/Haushalt_2025-06.pdf
+2025-06-10;2025-06-10;202506-ESSEN;Schulcatering Havelküche;Jule / Oskar / Monatsabrechnung;-124.60;9413.92;kontoauszuege/Haushalt_2025-06.pdf
+2025-06-10;2025-06-10;REISE-25182;Ferienhof Achterwasser;Restzahlung Urlaub 12.07.-19.07.2025 / Buchung 25182;-1260;8153.92;kontoauszuege/Haushalt_2025-06.pdf
+2025-06-12;2025-06-12;202506-SPORT;Turnverein Bornim;Beiträge Jule und Oskar;-48;8105.92;kontoauszuege/Haushalt_2025-06.pdf
+2025-06-16;2025-06-16;202506-NETZ;Telekommunikation;Internet Kastanienweg 18;-44.90;8061.02;kontoauszuege/Haushalt_2025-06.pdf
+2025-06-18;2025-06-18;202506-MARKT1;Markt am Bornstedter Feld;Kartenzahlung Haushalt;-204.43;7856.59;kontoauszuege/Haushalt_2025-06.pdf
+2025-06-23;2025-06-23;202506-MARKT2;Lebensmittelmarkt Potsdam;Kartenzahlung Haushalt;-173.16;7683.43;kontoauszuege/Haushalt_2025-06.pdf
+2025-06-26;2025-06-26;202506-GEB;Waldsee Versicherung;Wohngebäude / Monatsrate;-39.80;7643.63;kontoauszuege/Haushalt_2025-06.pdf
+2025-06-30;2025-06-30;202506-DROGERIE;Drogerie am Park;Kartenzahlung / Haushalt und Schulbedarf;-80.35;7563.28;kontoauszuege/Haushalt_2025-06.pdf
+2025-06-30;2025-06-30;202506-GEB-HAUSHALT;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;7556.38;kontoauszuege/Haushalt_2025-06.pdf
+2025-07-02;2025-07-02;202507-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;9856.38;kontoauszuege/Haushalt_2025-07.pdf
+2025-07-03;2025-07-03;202507-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;10806.38;kontoauszuege/Haushalt_2025-07.pdf
+2025-07-07;2025-07-07;202507-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;9426.38;kontoauszuege/Haushalt_2025-07.pdf
+2025-07-08;2025-07-08;202507-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;9116.38;kontoauszuege/Haushalt_2025-07.pdf
+2025-07-10;2025-07-10;202507-ESSEN;Schulcatering Havelküche;Jule / Oskar / Monatsabrechnung;-124.60;8991.78;kontoauszuege/Haushalt_2025-07.pdf
+2025-07-14;2025-07-14;202507-SPORT;Turnverein Bornim;Beiträge Jule und Oskar;-48;8943.78;kontoauszuege/Haushalt_2025-07.pdf
+2025-07-15;2025-07-15;202507-NETZ;Telekommunikation;Internet Kastanienweg 18;-44.90;8898.88;kontoauszuege/Haushalt_2025-07.pdf
+2025-07-18;2025-07-18;202507-MARKT1;Markt am Bornstedter Feld;Kartenzahlung Haushalt;-207.43;8691.45;kontoauszuege/Haushalt_2025-07.pdf
+2025-07-22;2025-07-22;202507-MARKT2;Lebensmittelmarkt Potsdam;Kartenzahlung Haushalt;-177.16;8514.29;kontoauszuege/Haushalt_2025-07.pdf
+2025-07-28;2025-07-28;202507-DROGERIE;Drogerie am Park;Kartenzahlung / Haushalt und Schulbedarf;-82.35;8431.94;kontoauszuege/Haushalt_2025-07.pdf
+2025-07-28;2025-07-28;202507-GEB;Waldsee Versicherung;Wohngebäude / Monatsrate;-39.80;8392.14;kontoauszuege/Haushalt_2025-07.pdf
+2025-07-31;2025-07-31;202507-GEB-HAUSHALT;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;8385.24;kontoauszuege/Haushalt_2025-07.pdf
+2025-08-04;2025-08-04;202508-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;9335.24;kontoauszuege/Haushalt_2025-08.pdf
+2025-08-04;2025-08-04;202508-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;11635.24;kontoauszuege/Haushalt_2025-08.pdf
+2025-08-05;2025-08-05;202508-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;10255.24;kontoauszuege/Haushalt_2025-08.pdf
+2025-08-08;2025-08-08;202508-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;9945.24;kontoauszuege/Haushalt_2025-08.pdf
+2025-08-11;2025-08-11;202508-ESSEN;Schulcatering Havelküche;Jule / Oskar / Monatsabrechnung;-124.60;9820.64;kontoauszuege/Haushalt_2025-08.pdf
+2025-08-12;2025-08-12;202508-SPORT;Turnverein Bornim;Beiträge Jule und Oskar;-48;9772.64;kontoauszuege/Haushalt_2025-08.pdf
+2025-08-15;2025-08-15;202508-NETZ;Telekommunikation;Internet Kastanienweg 18;-44.90;9727.74;kontoauszuege/Haushalt_2025-08.pdf
+2025-08-18;2025-08-18;202508-MARKT1;Markt am Bornstedter Feld;Kartenzahlung Haushalt;-210.43;9517.31;kontoauszuege/Haushalt_2025-08.pdf
+2025-08-22;2025-08-22;202508-MARKT2;Lebensmittelmarkt Potsdam;Kartenzahlung Haushalt;-181.16;9336.15;kontoauszuege/Haushalt_2025-08.pdf
+2025-08-26;2025-08-26;202508-GEB;Waldsee Versicherung;Wohngebäude / Monatsrate;-39.80;9296.35;kontoauszuege/Haushalt_2025-08.pdf
+2025-08-28;2025-08-28;202508-DROGERIE;Drogerie am Park;Kartenzahlung / Haushalt und Schulbedarf;-84.35;9212.00;kontoauszuege/Haushalt_2025-08.pdf
+2025-09-01;2025-09-01;202508-GEB-HAUSHALT;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;9205.10;kontoauszuege/Haushalt_2025-09.pdf
+2025-09-02;2025-09-02;202509-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;11505.10;kontoauszuege/Haushalt_2025-09.pdf
+2025-09-03;2025-09-03;202509-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;12455.10;kontoauszuege/Haushalt_2025-09.pdf
+2025-09-05;2025-09-05;202509-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;11075.10;kontoauszuege/Haushalt_2025-09.pdf
+2025-09-08;2025-09-08;202509-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;10765.10;kontoauszuege/Haushalt_2025-09.pdf
+2025-09-10;2025-09-10;202509-ESSEN;Schulcatering Havelküche;Jule / Oskar / Monatsabrechnung;-124.60;10640.50;kontoauszuege/Haushalt_2025-09.pdf
+2025-09-12;2025-09-12;202509-SPORT;Turnverein Bornim;Beiträge Jule und Oskar;-48;10592.50;kontoauszuege/Haushalt_2025-09.pdf
+2025-09-15;2025-09-15;202509-NETZ;Telekommunikation;Internet Kastanienweg 18;-44.90;10547.60;kontoauszuege/Haushalt_2025-09.pdf
+2025-09-18;2025-09-18;202509-MARKT1;Markt am Bornstedter Feld;Kartenzahlung Haushalt;-213.43;10334.17;kontoauszuege/Haushalt_2025-09.pdf
+2025-09-22;2025-09-22;202509-MARKT2;Lebensmittelmarkt Potsdam;Kartenzahlung Haushalt;-185.16;10149.01;kontoauszuege/Haushalt_2025-09.pdf
+2025-09-26;2025-09-26;202509-GEB;Waldsee Versicherung;Wohngebäude / Monatsrate;-39.80;10109.21;kontoauszuege/Haushalt_2025-09.pdf
+2025-09-29;2025-09-29;202509-DROGERIE;Drogerie am Park;Kartenzahlung / Haushalt und Schulbedarf;-86.35;10022.86;kontoauszuege/Haushalt_2025-09.pdf
+2025-09-30;2025-09-30;202509-GEB-HAUSHALT;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;10015.96;kontoauszuege/Haushalt_2025-09.pdf
+2025-10-02;2025-10-02;202510-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;12315.96;kontoauszuege/Haushalt_2025-10.pdf
+2025-10-06;2025-10-06;202510-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;10935.96;kontoauszuege/Haushalt_2025-10.pdf
+2025-10-06;2025-10-06;202510-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;11885.96;kontoauszuege/Haushalt_2025-10.pdf
+2025-10-08;2025-10-08;202510-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;11575.96;kontoauszuege/Haushalt_2025-10.pdf
+2025-10-10;2025-10-10;202510-ESSEN;Schulcatering Havelküche;Jule / Oskar / Monatsabrechnung;-124.60;11451.36;kontoauszuege/Haushalt_2025-10.pdf
+2025-10-13;2025-10-13;202510-SPORT;Turnverein Bornim;Beiträge Jule und Oskar;-48;11403.36;kontoauszuege/Haushalt_2025-10.pdf
+2025-10-15;2025-10-15;202510-NETZ;Telekommunikation;Internet Kastanienweg 18;-44.90;11358.46;kontoauszuege/Haushalt_2025-10.pdf
+2025-10-16;2025-10-16;HS-251012;Havel Sanitär;Rechnung HS-251012 / Zirkulationspumpe;-487.90;10870.56;kontoauszuege/Haushalt_2025-10.pdf
+2025-10-20;2025-10-20;202510-MARKT1;Markt am Bornstedter Feld;Kartenzahlung Haushalt;-216.43;10654.13;kontoauszuege/Haushalt_2025-10.pdf
+2025-10-22;2025-10-22;202510-MARKT2;Lebensmittelmarkt Potsdam;Kartenzahlung Haushalt;-189.16;10464.97;kontoauszuege/Haushalt_2025-10.pdf
+2025-10-27;2025-10-27;202510-GEB;Waldsee Versicherung;Wohngebäude / Monatsrate;-39.80;10425.17;kontoauszuege/Haushalt_2025-10.pdf
+2025-10-28;2025-10-28;202510-DROGERIE;Drogerie am Park;Kartenzahlung / Haushalt und Schulbedarf;-88.35;10336.82;kontoauszuege/Haushalt_2025-10.pdf
+2025-10-31;2025-10-31;202510-GEB-HAUSHALT;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;10329.92;kontoauszuege/Haushalt_2025-10.pdf
+2025-11-03;2025-11-03;202511-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;11279.92;kontoauszuege/Haushalt_2025-11.pdf
+2025-11-03;2025-11-03;202511-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;13579.92;kontoauszuege/Haushalt_2025-11.pdf
+2025-11-05;2025-11-05;202511-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;12199.92;kontoauszuege/Haushalt_2025-11.pdf
+2025-11-10;2025-11-10;202511-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;11889.92;kontoauszuege/Haushalt_2025-11.pdf
+2025-11-10;2025-11-10;202511-ESSEN;Schulcatering Havelküche;Jule / Oskar / Monatsabrechnung;-124.60;11765.32;kontoauszuege/Haushalt_2025-11.pdf
+2025-11-12;2025-11-12;202511-SPORT;Turnverein Bornim;Beiträge Jule und Oskar;-48;11717.32;kontoauszuege/Haushalt_2025-11.pdf
+2025-11-17;2025-11-17;202511-NETZ;Telekommunikation;Internet Kastanienweg 18;-44.90;11672.42;kontoauszuege/Haushalt_2025-11.pdf
+2025-11-18;2025-11-18;202511-MARKT1;Markt am Bornstedter Feld;Kartenzahlung Haushalt;-219.43;11452.99;kontoauszuege/Haushalt_2025-11.pdf
+2025-11-24;2025-11-24;202511-MARKT2;Lebensmittelmarkt Potsdam;Kartenzahlung Haushalt;-193.16;11259.83;kontoauszuege/Haushalt_2025-11.pdf
+2025-11-26;2025-11-26;202511-GEB;Waldsee Versicherung;Wohngebäude / Monatsrate;-39.80;11220.03;kontoauszuege/Haushalt_2025-11.pdf
+2025-11-28;2025-11-28;202511-DROGERIE;Drogerie am Park;Kartenzahlung / Haushalt und Schulbedarf;-90.35;11129.68;kontoauszuege/Haushalt_2025-11.pdf
+2025-12-01;2025-12-01;202511-GEB-HAUSHALT;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;11122.78;kontoauszuege/Haushalt_2025-12.pdf
+2025-12-02;2025-12-02;202512-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;13422.78;kontoauszuege/Haushalt_2025-12.pdf
+2025-12-03;2025-12-03;202512-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;14372.78;kontoauszuege/Haushalt_2025-12.pdf
+2025-12-05;2025-12-05;202512-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;12992.78;kontoauszuege/Haushalt_2025-12.pdf
+2025-12-08;2025-12-08;202512-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;12682.78;kontoauszuege/Haushalt_2025-12.pdf
+2025-12-10;2025-12-10;202512-ESSEN;Schulcatering Havelküche;Jule / Oskar / Monatsabrechnung;-124.60;12558.18;kontoauszuege/Haushalt_2025-12.pdf
+2025-12-12;2025-12-12;202512-SPORT;Turnverein Bornim;Beiträge Jule und Oskar;-48;12510.18;kontoauszuege/Haushalt_2025-12.pdf
+2025-12-15;2025-12-15;202512-NETZ;Telekommunikation;Internet Kastanienweg 18;-44.90;12465.28;kontoauszuege/Haushalt_2025-12.pdf
+2025-12-18;2025-12-18;202512-MARKT1;Markt am Bornstedter Feld;Kartenzahlung Haushalt;-222.43;12242.85;kontoauszuege/Haushalt_2025-12.pdf
+2025-12-22;2025-12-22;202512-MARKT2;Lebensmittelmarkt Potsdam;Kartenzahlung Haushalt;-197.16;12045.69;kontoauszuege/Haushalt_2025-12.pdf
+2025-12-29;2025-12-29;202512-DROGERIE;Drogerie am Park;Kartenzahlung / Haushalt und Schulbedarf;-92.35;11953.34;kontoauszuege/Haushalt_2025-12.pdf
+2025-12-29;2025-12-29;202512-GEB;Waldsee Versicherung;Wohngebäude / Monatsrate;-39.80;11913.54;kontoauszuege/Haushalt_2025-12.pdf
+2025-12-31;2025-12-31;202512-GEB-HAUSHALT;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;11906.64;kontoauszuege/Haushalt_2025-12.pdf
+2026-01-02;2026-01-02;202601-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;14206.64;kontoauszuege/Haushalt_2026-01.pdf
+2026-01-05;2026-01-05;202601-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;12826.64;kontoauszuege/Haushalt_2026-01.pdf
+2026-01-05;2026-01-05;202601-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;13776.64;kontoauszuege/Haushalt_2026-01.pdf
+2026-01-08;2026-01-08;202601-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;13466.64;kontoauszuege/Haushalt_2026-01.pdf
+2026-01-12;2026-01-12;202601-ESSEN;Schulcatering Havelküche;Jule / Oskar / Monatsabrechnung;-124.60;13342.04;kontoauszuege/Haushalt_2026-01.pdf
+2026-01-12;2026-01-12;202601-SPORT;Turnverein Bornim;Beiträge Jule und Oskar;-48;13294.04;kontoauszuege/Haushalt_2026-01.pdf
+2026-01-15;2026-01-15;202601-NETZ;Telekommunikation;Internet Kastanienweg 18;-44.90;13249.14;kontoauszuege/Haushalt_2026-01.pdf
+2026-01-19;2026-01-19;202601-MARKT1;Markt am Bornstedter Feld;Kartenzahlung Haushalt;-189.43;13059.71;kontoauszuege/Haushalt_2026-01.pdf
+2026-01-22;2026-01-22;202601-MARKT2;Lebensmittelmarkt Potsdam;Kartenzahlung Haushalt;-153.16;12906.55;kontoauszuege/Haushalt_2026-01.pdf
+2026-01-26;2026-01-26;202601-GEB;Waldsee Versicherung;Wohngebäude / Monatsrate;-39.80;12866.75;kontoauszuege/Haushalt_2026-01.pdf
+2026-01-28;2026-01-28;202601-DROGERIE;Drogerie am Park;Kartenzahlung / Haushalt und Schulbedarf;-70.35;12796.40;kontoauszuege/Haushalt_2026-01.pdf
+2026-02-02;2026-02-02;202601-GEB-HAUSHALT;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;12789.50;kontoauszuege/Haushalt_2026-02.pdf
+2026-02-02;2026-02-02;202602-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;15089.50;kontoauszuege/Haushalt_2026-02.pdf
+2026-02-03;2026-02-03;202602-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;16039.50;kontoauszuege/Haushalt_2026-02.pdf
+2026-02-05;2026-02-05;202602-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;14659.50;kontoauszuege/Haushalt_2026-02.pdf
+2026-02-09;2026-02-09;202602-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;14349.50;kontoauszuege/Haushalt_2026-02.pdf
+2026-02-10;2026-02-10;202602-ESSEN;Schulcatering Havelküche;Jule / Oskar / Monatsabrechnung;-124.60;14224.90;kontoauszuege/Haushalt_2026-02.pdf
+2026-02-12;2026-02-12;202602-SPORT;Turnverein Bornim;Beiträge Jule und Oskar;-48;14176.90;kontoauszuege/Haushalt_2026-02.pdf
+2026-02-16;2026-02-16;202602-NETZ;Telekommunikation;Internet Kastanienweg 18;-44.90;14132.00;kontoauszuege/Haushalt_2026-02.pdf
+2026-02-18;2026-02-18;202602-MARKT1;Markt am Bornstedter Feld;Kartenzahlung Haushalt;-192.43;13939.57;kontoauszuege/Haushalt_2026-02.pdf
+2026-02-23;2026-02-23;202602-MARKT2;Lebensmittelmarkt Potsdam;Kartenzahlung Haushalt;-157.16;13782.41;kontoauszuege/Haushalt_2026-02.pdf
+2026-02-26;2026-02-26;202602-GEB;Waldsee Versicherung;Wohngebäude / Monatsrate;-39.80;13742.61;kontoauszuege/Haushalt_2026-02.pdf
+2026-03-02;2026-03-02;202602-DROGERIE;Drogerie am Park;Kartenzahlung / Haushalt und Schulbedarf;-72.35;13670.26;kontoauszuege/Haushalt_2026-03.pdf
+2026-03-02;2026-03-02;202602-GEB-HAUSHALT;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;13663.36;kontoauszuege/Haushalt_2026-03.pdf
+2026-03-02;2026-03-02;202603-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;15963.36;kontoauszuege/Haushalt_2026-03.pdf
+2026-03-03;2026-03-03;202603-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;16913.36;kontoauszuege/Haushalt_2026-03.pdf
+2026-03-05;2026-03-05;202603-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;15533.36;kontoauszuege/Haushalt_2026-03.pdf
+2026-03-09;2026-03-09;202603-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;15223.36;kontoauszuege/Haushalt_2026-03.pdf
+2026-03-10;2026-03-10;202603-ESSEN;Schulcatering Havelküche;Jule / Oskar / Monatsabrechnung;-124.60;15098.76;kontoauszuege/Haushalt_2026-03.pdf
+2026-03-12;2026-03-12;202603-SPORT;Turnverein Bornim;Beiträge Jule und Oskar;-48;15050.76;kontoauszuege/Haushalt_2026-03.pdf
+2026-03-16;2026-03-16;202603-NETZ;Telekommunikation;Internet Kastanienweg 18;-44.90;15005.86;kontoauszuege/Haushalt_2026-03.pdf
+2026-03-18;2026-03-18;202603-MARKT1;Markt am Bornstedter Feld;Kartenzahlung Haushalt;-195.43;14810.43;kontoauszuege/Haushalt_2026-03.pdf
+2026-03-23;2026-03-23;202603-MARKT2;Lebensmittelmarkt Potsdam;Kartenzahlung Haushalt;-161.16;14649.27;kontoauszuege/Haushalt_2026-03.pdf
+2026-03-26;2026-03-26;202603-GEB;Waldsee Versicherung;Wohngebäude / Monatsrate;-39.80;14609.47;kontoauszuege/Haushalt_2026-03.pdf
+2026-03-30;2026-03-30;202603-DROGERIE;Drogerie am Park;Kartenzahlung / Haushalt und Schulbedarf;-74.35;14535.12;kontoauszuege/Haushalt_2026-03.pdf
+2026-03-31;2026-03-31;202603-GEB-HAUSHALT;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;14528.22;kontoauszuege/Haushalt_2026-03.pdf
+2026-04-02;2026-04-02;202604-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;16828.22;kontoauszuege/Haushalt_2026-04.pdf
+2026-04-07;2026-04-07;202604-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;15448.22;kontoauszuege/Haushalt_2026-04.pdf
+2026-04-07;2026-04-07;202604-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;16398.22;kontoauszuege/Haushalt_2026-04.pdf
+2026-04-08;2026-04-08;202604-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;16088.22;kontoauszuege/Haushalt_2026-04.pdf
+2026-04-10;2026-04-10;202604-ESSEN;Schulcatering Havelküche;Jule / Oskar / Monatsabrechnung;-124.60;15963.62;kontoauszuege/Haushalt_2026-04.pdf
+2026-04-13;2026-04-13;202604-SPORT;Turnverein Bornim;Beiträge Jule und Oskar;-48;15915.62;kontoauszuege/Haushalt_2026-04.pdf
+2026-04-15;2026-04-15;202604-NETZ;Telekommunikation;Internet Kastanienweg 18;-44.90;15870.72;kontoauszuege/Haushalt_2026-04.pdf
+2026-04-20;2026-04-20;202604-MARKT1;Markt am Bornstedter Feld;Kartenzahlung Haushalt;-198.43;15672.29;kontoauszuege/Haushalt_2026-04.pdf
+2026-04-22;2026-04-22;202604-MARKT2;Lebensmittelmarkt Potsdam;Kartenzahlung Haushalt;-165.16;15507.13;kontoauszuege/Haushalt_2026-04.pdf
+2026-04-27;2026-04-27;202604-GEB;Waldsee Versicherung;Wohngebäude / Monatsrate;-39.80;15467.33;kontoauszuege/Haushalt_2026-04.pdf
+2026-04-28;2026-04-28;202604-DROGERIE;Drogerie am Park;Kartenzahlung / Haushalt und Schulbedarf;-76.35;15390.98;kontoauszuege/Haushalt_2026-04.pdf
+2026-04-30;2026-04-30;202604-GEB-HAUSHALT;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;15384.08;kontoauszuege/Haushalt_2026-04.pdf
+2026-05-04;2026-05-04;202605-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;16334.08;kontoauszuege/Haushalt_2026-05.pdf
+2026-05-04;2026-05-04;202605-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;18634.08;kontoauszuege/Haushalt_2026-05.pdf
+2026-05-05;2026-05-05;202605-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;17254.08;kontoauszuege/Haushalt_2026-05.pdf
+2026-05-08;2026-05-08;202605-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;16944.08;kontoauszuege/Haushalt_2026-05.pdf
+2026-05-11;2026-05-11;202605-ESSEN;Schulcatering Havelküche;Jule / Oskar / Monatsabrechnung;-124.60;16819.48;kontoauszuege/Haushalt_2026-05.pdf
+2026-05-12;2026-05-12;202605-SPORT;Turnverein Bornim;Beiträge Jule und Oskar;-48;16771.48;kontoauszuege/Haushalt_2026-05.pdf
+2026-05-12;2026-05-12;CAMP-26-417;Jugendfahrt Sonnental;Feriencamp Jule / Buchung 26-417;-420;16351.48;kontoauszuege/Haushalt_2026-05.pdf
+2026-05-15;2026-05-15;202605-NETZ;Telekommunikation;Internet Kastanienweg 18;-44.90;16306.58;kontoauszuege/Haushalt_2026-05.pdf
+2026-05-18;2026-05-18;202605-MARKT1;Markt am Bornstedter Feld;Kartenzahlung Haushalt;-201.43;16105.15;kontoauszuege/Haushalt_2026-05.pdf
+2026-05-18;2026-05-18;SONDER-202605;Mara Bergmann;Übertrag für Sondertilgung;3500;19605.15;kontoauszuege/Haushalt_2026-05.pdf
+2026-05-20;2026-05-20;HD-SONDER-202605;Havelbogen Bank eG;Sondertilgung HD-2014-731;-3500;16105.15;kontoauszuege/Haushalt_2026-05.pdf
+2026-05-22;2026-05-22;202605-MARKT2;Lebensmittelmarkt Potsdam;Kartenzahlung Haushalt;-169.16;15935.99;kontoauszuege/Haushalt_2026-05.pdf
+2026-05-26;2026-05-26;202605-GEB;Waldsee Versicherung;Wohngebäude / Monatsrate;-39.80;15896.19;kontoauszuege/Haushalt_2026-05.pdf
+2026-05-28;2026-05-28;202605-DROGERIE;Drogerie am Park;Kartenzahlung / Haushalt und Schulbedarf;-78.35;15817.84;kontoauszuege/Haushalt_2026-05.pdf
+2026-06-01;2026-06-01;202605-GEB-HAUSHALT;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;15810.94;kontoauszuege/Haushalt_2026-06.pdf
+2026-06-02;2026-06-02;202606-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;18110.94;kontoauszuege/Haushalt_2026-06.pdf
+2026-06-03;2026-06-03;202606-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;19060.94;kontoauszuege/Haushalt_2026-06.pdf
+2026-06-05;2026-06-05;202606-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;17680.94;kontoauszuege/Haushalt_2026-06.pdf
+2026-06-08;2026-06-08;202606-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;17370.94;kontoauszuege/Haushalt_2026-06.pdf
+2026-06-10;2026-06-10;202606-ESSEN;Schulcatering Havelküche;Jule / Oskar / Monatsabrechnung;-124.60;17246.34;kontoauszuege/Haushalt_2026-06.pdf
+2026-06-12;2026-06-12;202606-SPORT;Turnverein Bornim;Beiträge Jule und Oskar;-48;17198.34;kontoauszuege/Haushalt_2026-06.pdf
+2026-06-15;2026-06-15;202606-NETZ;Telekommunikation;Internet Kastanienweg 18;-44.90;17153.44;kontoauszuege/Haushalt_2026-06.pdf
+2026-06-18;2026-06-18;202606-MARKT1;Markt am Bornstedter Feld;Kartenzahlung Haushalt;-204.43;16949.01;kontoauszuege/Haushalt_2026-06.pdf
+2026-06-22;2026-06-22;202606-MARKT2;Lebensmittelmarkt Potsdam;Kartenzahlung Haushalt;-173.16;16775.85;kontoauszuege/Haushalt_2026-06.pdf
+2026-06-26;2026-06-26;202606-GEB;Waldsee Versicherung;Wohngebäude / Monatsrate;-39.80;16736.05;kontoauszuege/Haushalt_2026-06.pdf
+2026-06-29;2026-06-29;202606-DROGERIE;Drogerie am Park;Kartenzahlung / Haushalt und Schulbedarf;-80.35;16655.70;kontoauszuege/Haushalt_2026-06.pdf
+2026-06-30;2026-06-30;202606-GEB-HAUSHALT;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;16648.80;kontoauszuege/Haushalt_2026-06.pdf
+2026-07-02;2026-07-02;202607-M-H;Mara Bergmann;Übertrag Privatkonto 4401;2300;18948.80;kontoauszuege/Haushalt_2026-07.pdf
+2026-07-03;2026-07-03;202607-J-H;Jonas Bergmann;Übertrag Privatkonto 4402;950;19898.80;kontoauszuege/Haushalt_2026-07.pdf
+2026-07-06;2026-07-06;202607-HD;Havelbogen Bank eG;Annuität HD-2014-731;-1380;18518.80;kontoauszuege/Haushalt_2026-07.pdf
+2026-07-08;2026-07-08;202607-ENERGIE;Stadtwerke Potsdam;Strom und Wärme / Abschlag 7318;-310;18208.80;kontoauszuege/Haushalt_2026-07.pdf
