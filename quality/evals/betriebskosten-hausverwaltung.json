@@ -1,0 +1,410 @@
+{
+  "schema_version": 1,
+  "plugin": "betriebskosten-hausverwaltung",
+  "reviewed_on": "2026-09-22",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__556.html",
+      "checked_on": "2026-09-22",
+      "supports": "Absaetze 3 und 4: Abrechnungsfristen, Einwendungen und elektronische Belegeinsicht; Absatz 4 gilt seit 01.01.2025."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__556a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Absatz 3: WEG-Massstab ohne abweichende Mietvereinbarung mit Grenze billigen Ermessens."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__560.html",
+      "checked_on": "2026-09-22",
+      "supports": "Vorauszahlungsanpassung nach Abrechnung und gesonderte Regeln fuer Pauschalen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betrkv/__1.html",
+      "checked_on": "2026-09-22",
+      "supports": "Laufende Kosten, Eigenleistungen und Ausschluss von Verwaltung und Reparaturen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betrkv/__2.html",
+      "checked_on": "2026-09-22",
+      "supports": "Kostenarten, Hauswartabgrenzung und Doppelansatzverbot."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/heizkostenv/HeizkostenV.pdf",
+      "checked_on": "2026-09-22",
+      "supports": "Verbrauch statt Zahlungen, Grund-/Verbrauchsverteilung, Warmwasseraufteilung und Ersatzverfahren; Anwendungsjahr gesondert pruefen."
+    },
+    {
+      "url": "https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F%2A%5B%40attr_id%3D%27bgbl122s2154.pdf%27%5D",
+      "checked_on": "2026-09-22",
+      "supports": "Historische CO2KostAufG-Verkuendung: Lieferdaten, Wohngebaeudestufung, Vermieterabzug und Altbestandsregel fuer die 2025-Rechnung."
+    },
+    {
+      "url": "https://www.berlin.de/grundsteuer/",
+      "checked_on": "2026-09-22",
+      "supports": "Berlin 2025: Hebesatz B 470 Prozent und Wohngrundstuecke 0.31 Promille; konkreter Bescheid bleibt erforderlich."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/estg/__35a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Arbeitskosten, Rechnung und Kontozahlung; keine individuelle Steuerberechnung im Plugin."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/enwg_2005/__42a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Mieterstromvertrag grundsaetzlich getrennt vom Wohnraummietvertrag; kein pauschaler Betriebskostenansatz."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenstaendiger neuer Schnellstart mit Belegrechnung, beiden Objektvarianten, Jahresabgrenzung und konkretem Abschluss; kein zusaetzlicher Skill.",
+    "changes": [
+      "Vorhandene Dateien und entscheidende Luecken steuern den Einstieg.",
+      "Oelverbrauch, CO2-Lieferjahre und elektronische Belegeinsicht sind getrennt geregelt.",
+      "Die Ausgabe endet bei Abrechnung oder Antwortbrief ohne erfundene Exporte."
+    ],
+    "sha256": "edbf2ae759a793a4ee79afa1e0271355ba140fb2d93fec09e4df786fa34d87e6"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Neue fachliche Werkstatt mit eigenstaendiger Rechenkette, WEG-Ueberleitung und amtlichen Quellenankern; keine generischen Druckbloecke.",
+    "changes": [
+      "Q/Hi als Brennstoffmenge und relative Waermeanteile nach Systemgrenze unterschieden.",
+      "2025-Normstand von spaeteren Aenderungen getrennt.",
+      "Kostenbasis, Zahlungen, Schluessel, Saldo und Einwendungen bis zur Endfassung verbunden."
+    ],
+    "sha256": "43d4c2d41b5e7a858ae5996cc0184029e9b6a351a5d850b0202d0b530280760c"
+  },
+  "selection": {
+    "target_skill": "belege-bis-zur-abrechnung",
+    "positive": [
+      "Erstelle aus den vorhandenen Hausbelegen eine vollstaendige Betriebskostenabrechnung fuer 2025.",
+      "Pruefe die WEG-Unterlagen meiner vermieteten Wohnung und erstelle daraus die Mietabrechnung samt Antwort auf die Einwendungen."
+    ],
+    "negative": [
+      "Berechne den Grundsteuerwert eines Grundstuecks und lege steuerlichen Einspruch ein.",
+      "Erstelle eine Eigentuemerversammlung mit Beschluss ueber die Bestellung einer neuen Verwaltung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "gesamtworkflow-bis-zum-saldo",
+      "target_skill": "belege-bis-zur-abrechnung",
+      "request": "Erstelle ergebnis.md als vollstaendige Abrechnung fuer einen ganzjaehrigen Wohnraummieter 2025. Die Umlage ist wirksam vereinbart. Alle kalten Gebaeudekosten von 12000 EUR und Abzuege von 1200 EUR sind belegt. Die tatsaechliche Wohnung hat 80 von insgesamt 800 Quadratmetern einschliesslich Leerstand. Der separat bereits korrekt berechnete Heizkostenanteil einschliesslich CO2-Abzug betraegt 820 EUR. Tatsaechliche Vorauszahlungen sind 1800 EUR. Weitere Kosten bestehen nicht. Bearbeitung ist am 22.09.2026. Liefere die Rechnung, nicht nur eine Skill-Auswahl, und versende nichts.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die kalte Kostenbasis betraegt 10800 EUR und der Wohnungsanteil 1080 EUR; der Nenner schliesst Leerstand ein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Gesamtanteil betraegt 1900 EUR, die Nachzahlung nach 1800 EUR Ist-Vorauszahlungen 100 EUR; CO2 wird nicht nochmals abgezogen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Es entsteht eine ausformulierte Abrechnung mit Tabellen und Fristbezug 31.12.2026, keine Routingliste, Versandbehauptung oder Klage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rechnung-gutschrift-und-dublette",
+      "target_skill": "belege-und-zahlungen-abgleichen",
+      "request": "Erstelle ergebnis.md als Belegabgleich. Eine umlagefaehige Wasserleistung fuer 2025 ist mit 1190 EUR berechnet, dazu existiert eine Gutschrift von 190 EUR. Zwei Kontozahlungen zu je 500 EUR sind belegt. Ein weiterer PDF-Scan zeigt dieselbe Rechnungsnummer und Leistung. Eine separate zulassige Wartungsleistung von 400 EUR fuer Dezember 2025 wird erst im Januar 2026 bezahlt; fuer diese Kostenart gilt nachweislich das Leistungsprinzip. Keine weiteren Kosten liegen vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Wasser wird nur einmal mit 1000 EUR angesetzt; Zahlungen werden nicht nochmals als Kosten addiert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die 400 EUR Wartung werden bei vorgegebenem Leistungsprinzip nicht allein wegen Zahlung 2026 aus 2025 entfernt; die Summe betraegt 1400 EUR.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Rechnung, Gutschrift, Dublette und Zahlungsstatus werden nachvollziehbar getrennt; vorhandene Angaben werden nicht erneut pauschal erfragt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hausmeister-mischleistung",
+      "target_skill": "kosten-und-hausmeister-abgrenzen",
+      "request": "Erstelle ergebnis.md als Kostenkorrektur. Hauswartkosten 2025 betragen 12000 EUR. Gepruefte Leistungs- und Zeitnachweise ordnen 2400 EUR Reparaturen und 1200 EUR Verwaltung zu. Die verbleibenden Kosten enthalten vollstaendig die Treppenreinigung. Zusaetzlich wurden 900 EUR fuer dieselbe Reinigungsarbeit angesetzt. Der Vermieter meint, zehn Prozent Abzug von der Gesamtsumme genuegten immer. Die Mietvereinbarung deckt laufende Hauswartkosten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Hauswartansatz wird auf 8400 EUR bereinigt, nicht mit einem pauschalen Zehn-Prozent-Abzug gerechnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die zusaetzlichen 900 EUR fuer dieselbe Reinigung werden als Doppelansatz entfernt, nicht von den 8400 EUR nochmals abgezogen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Korrektur wird anhand BetrKV 1 und 2 Nummer 14 sowie konkreter Taetigkeiten begruendet und ausformuliert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "weg-schluessel-versus-mietflaeche",
+      "target_skill": "flaechen-und-umlageschluessel-pruefen",
+      "request": "Erstelle ergebnis.md mit zwei getrennten Varianten fuer dieselbe vermietete ETW. Kalte umlagefaehige Gebaeudekosten betragen 10000 EUR. Der wirksam geltende WEG-Schluessel ist 120 von 1000 Miteigentumsanteilen; es gibt keine Anzeichen unbilliger Verteilung. Tatsaechliche Wohnungsflaeche sind 80 von 800 Quadratmetern, davon stehen im Gebaeude 100 Quadratmeter leer. Variante eins hat keine abweichende Mietschluesselvereinbarung; Variante zwei vereinbart wirksam Wohnflaeche. Die Nutzung dauert jeweils das volle Jahr 2025.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Variante eins verwendet BGB 556a Absatz 3 und ergibt 1200 EUR statt pauschal 1000 EUR.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Variante zwei ergibt mit der abweichenden Mietvereinbarung 1000 EUR; Leerstand kuerzt den Nenner nicht auf 700 Quadratmeter.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Miteigentumsanteile und Flaechen werden getrennt und nicht nacheinander auf denselben Betrag angewandt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oelbestand-warmwasser-und-pflichtquote",
+      "target_skill": "oel-heizung-und-warmwasser-abrechnen",
+      "request": "Erstelle ergebnis.md als Heizkostenpruefung 2025. Der belegte Anfangsbestand ist 2000 Liter zu 1.10 EUR, die einzige Lieferung 3000 Liter zu 1.00 EUR, der Endbestand 1000 Liter. FIFO ist nachvollziehbar dokumentiert. Am Oelkessel misst der Warmwasserwaermezaehler 8000 kWh; der Lieferantenheizwert ist 10 kWh je Liter. Weitere Kosten und CO2 sollen in dieser Teilrechnung nicht berechnet werden. Das Gebaeude unterschreitet das Niveau der Waermeschutzverordnung 1994, aber die freiliegenden Waermeverteilungsleitungen sind ueberwiegend ungedaemmt. Vereinbart sind 50 Prozent Verbrauch. Pruefe, ob allein Altbau und Oel die Pflichtquote 70 ausloesen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verbrauch 4000 Liter, Verbrauchswert 4200 EUR und Restwert 1000 EUR werden getrennt von 3000 EUR Jahreseinkauf ermittelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Q/Hi ergibt 800 Liter und erst 800/4000 den Anteil 20 Prozent; bei den vorgegebenen Teilkosten ergibt das 840 EUR Warmwasser und 3360 EUR Heizung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die dritte kumulative Voraussetzung der 70-Prozent-Pflicht fehlt; Rohrwaerme wird als eigene Prueffrage erkannt, nicht mit einer erfundenen Pflichtquote erledigt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "co2-vorrat-aus-zwei-lieferjahren",
+      "target_skill": "co2-kosten-belegt-aufteilen",
+      "request": "Erstelle ergebnis.md fuer 2025 mit folgenden bewusst vereinfachten, vollstaendig vorgegebenen Uebungsbelegen, nicht als reale Tariftabelle: 1000 Liter Oel aus 2024 enthalten 80 EUR CO2-Kosten und 2700 kg CO2; 2000 Liter aus 2025 enthalten 200 EUR und 5400 kg. Dokumentierte FIFO-Folge verbraucht den gesamten Altbestand und 1000 neue Liter. Zentral versorgtes Wohngebaeude, 200 Quadratmeter massgebliche Wohnflaeche, volles Jahr, keine oeffentlich-rechtlichen Hindernisse. Die Brennstoffkosten enthalten die genannten CO2-Betraege bereits. Verwende keine spaetere Gesetzesfassung fuer 2025.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verbrauchte CO2-Kosten sind 180 EUR und Emissionen 5400 kg; der neue Restbestand traegt 100 EUR CO2-Kosten und 2700 kg ins Folgejahr.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "5400/200 ergibt 27.0 kg und die Stufe mit 40 Prozent Vermieteranteil: 72 EUR Vermieter und 108 EUR Mietergruppe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Es wird genau einmal 72 EUR aus dem CO2-haltigen Kostentopf abgezogen, kein einheitlicher 2025-Preis auf Altvorrat angewandt und keine spaetere Sonderkostenregel rueckwirkend eingefuegt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "weg-ueberleitung-und-guthaben",
+      "target_skill": "weg-kosten-in-mietabrechnung-ueberleiten",
+      "request": "Erstelle ergebnis.md als Mietabrechnung einer ganzjaehrig vermieteten ETW 2025. Die wohnungsbezogene WEG-Kostenaufstellung weist 4800 EUR aus, darunter 600 EUR Verwaltung, 900 EUR Reparatur und 1200 EUR Ruecklagenzufuehrung. Die verbleibenden Kosten sind vollstaendig belegt und nach dem auch mietrechtlich richtigen Schluessel bereits verteilt. Die separat bezahlte Wohnungsgrundsteuer von 300 EUR ist noch nicht enthalten. Der Mieter hat 2600 EUR Vorauszahlungen geleistet. Alle relevanten Kosten sind damit erfasst. Ein WEG-Beschluss ueber Nachschuesse steht noch aus.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die bereinigten WEG-Kosten sind 2100 EUR und zusammen mit einmalig erfasster Grundsteuer 2400 EUR.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Nach tatsaechlichen Mietervorauszahlungen ergibt sich ein Guthaben von 200 EUR; kein zweiter WEG-Faktor und keine Hausgeldvorschuesse werden verwendet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Mietabrechnung wird nicht allein wegen fehlenden WEG-Beschlusses verweigert und die Abrechnungsfrist nicht automatisch verlaengert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grundsteuer-pv-wallbox-und-arbeitskosten",
+      "target_skill": "grundsteuer-und-energie-sonderkosten-trennen",
+      "request": "Erstelle ergebnis.md als Kostenpruefung einer Berliner Wohnung 2025. Festgesetzter Messbetrag ist 86.80 EUR, der Jahresbescheid lautet auf 407.96 EUR; vier Quartalszahlungen belegen dessen Ausgleich. Zusaetzlich wurden PV-Anschaffung 6000 EUR, Wallbox-Anschaffung 2000 EUR und 400 EUR individuell gemessener Ladestrom eines anderen Nutzers als Allgemeinstrom vorgeschlagen. Ein getrennter Mieterstromvertrag existiert. Eine bezahlte Reinigung hat 1000 EUR belegte Arbeitskosten und 500 EUR Material; der richtige Anteil der Wohnung ist zehn Prozent. Gewuenscht ist ein Arbeitskostenausweis, keine Einkommensteuerrechnung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "86.80 mal 4.70 ergibt 407.96 EUR; weder 810 Prozent noch eine zweite Messzahl oder Addition der Quartalszahlungen werden verwendet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "PV, Wallbox, fremder Ladestrom und Mieterstromlieferung werden nicht pauschal als Allgemeinstrom umgelegt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Arbeitskostenausweis nennt 100 EUR zugeordneten Arbeitsanteil, nicht 150 EUR inklusive Material und keine berechnete Steuerersparnis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vorauszahlungen-zugang-und-560",
+      "target_skill": "abrechnung-vorauszahlungen-und-fristen-abschliessen",
+      "request": "Erstelle ergebnis.md als Abschlussvermerk und Abrechnungsentwurf fuer 2025. Vollstaendig gepruefte Mietkosten sind 2400 EUR. Vorauszahlungen waren mit 2400 EUR geschuldet, tatsaechlich wurden 2200 EUR geleistet. Es gab keine fruehere Abrechnung. Der Entwurf soll am 30.12.2026 zur Post; Zugang ist noch nicht nachgewiesen. Der Vermieter moechte zusaetzlich 200 EUR Vorauszahlungsrueckstand fordern und kuenftig 220 EUR pro Monat allein mit zehn Prozent Sicherheit begruenden. Keine belegte Kostensteigerung ist bekannt. Sende nichts ab.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Nachzahlung betraegt 200 EUR, nicht 400 EUR durch doppelte Erfassung des Vorauszahlungsrueckstands.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Zugang bis 31.12.2026 wird als entscheidend erkannt; Postaufgabe am 30.12.2026 beweist keine Fristwahrung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die pauschale Sicherheitsreserve wird verworfen; BGB 560 Absatz 4 wird von Pauschalregeln unterschieden und eine angemessene Textformerklaerung nicht als Versand ausgegeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elektronische-belege-und-antwortbrief",
+      "target_skill": "einwendungen-korrektur-und-belegeinsicht-bearbeiten",
+      "request": "Erstelle ergebnis.md als Antwortbrief aus Vermietersicht auf eine fristgerechte Einwendung zur Abrechnung 2025. Das Portal enthaelt vollstaendig lesbare Rechnungen und Anlagen, aber noch keine Zahlungsbelege und die vorhandene Gutschrift ueber 190 EUR wurde bei einer Wasserrechnung von 1190 EUR vergessen. Die Abrechnung ist erst am 01.09.2026 zugegangen; der Nutzer will am 22.09.2026 korrigieren. Zahlungsbelege ueber insgesamt 1000 EUR sind vorhanden und koennen elektronisch bereitgestellt werden. Der Mieter verlangt unter Verweis auf BGH VIII ZR 66/20 immer Papieroriginale. Sein Anteil an dieser Position betraegt zehn Prozent. Versende nichts.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "BGB 556 Absatz 4 mit elektronischer Bereitstellung wird gegenueber der historischen Originalbelegentscheidung eingeordnet; kein pauschaler Papierzwang wird behauptet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Zahlungsbelege und Gutschrift werden in die Einsicht einbezogen; der Wasseranteil sinkt von 119 auf 100 EUR, also um 19 EUR.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Es entsteht ein vollstaendiger Antwortbrief mit konkreter Korrektur und realistischem Einsichtsangebot, ohne Versand-, Export- oder Klagebehauptung und ohne erfundene Entscheidung aus 2026.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

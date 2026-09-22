@@ -263,6 +263,7 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 
 
 HANDCURATED_FIRST_PRODUCTS = {
+    "betriebskosten-hausverwaltung": "eine aus Mietvertrag, Rechnungen, Gutschriften, Vorauszahlungen und Heizverbrauch nachgerechnete Betriebskostenabrechnung oder den beauftragten Antwortbrief",
     "geldwaeschepraevention-aml-kyc": "einen belegten Prüfvermerk zum konkreten Mandat, Kaufpreis oder Zahlungsvorgang samt gezielter Nachforderung und gegebenenfalls sofortiger Meldeprüfung",
     "notariat-alltag": "einen aus den Kundenunterlagen vorbereiteten Urkunden- oder Registerentwurf mit Beteiligtenblatt und offenen Freigaben für den Notar",
     "schadensregulierung": "den nächsten Entwurf aus Ihrer Rolle als Unternehmen oder regulierender Versicherer, mit belegtem Ereignis, gefährdeten Belegen und getrenntem Deckungsstand",

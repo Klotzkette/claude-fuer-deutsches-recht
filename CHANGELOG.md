@@ -1,3 +1,21 @@
+# v444.7.0 - Betriebskosten aus Belegen abrechnen und prüfen
+
+## 1. Zehn zusammenhängende Arbeitswege
+
+Das neue Plugin Betriebskosten und Hausverwaltung führt vom freigegebenen Belegordner bis zur nachvollziehbaren Mietabrechnung oder zum konkreten Antwortbrief. Der Hauptskill arbeitet den Vorgang selbst ab. Neun weitere Skills vertiefen Rechnungsabgleich, gemischte Hausmeisterleistungen, Flächen und Schlüssel, Heizöl und Warmwasser, CO2-Kosten, WEG-Überleitung, Grundsteuer und Stromsonderfälle, Vorauszahlungen und Fristen sowie Einwendungen und Belegeinsicht. Werkstatt und Schnellstart sind eigenständige Markdown-Downloads außerhalb des installierbaren Skillbestands.
+
+## 2. Zwei umfangreiche Schöneberger Abrechnungsakten
+
+Eine vermietete Eigentumswohnung und ein vollständig gesellschaftseigenes Mietshaus bilden unterschiedliche Verwaltungswege ab. Beide Zielwohnungen haben vier Zimmer und 108 Quadratmeter. Der Bestand umfasst 83 einzelne Rechnungen und Gebührenbelege, dazu Bescheide, Messunterlagen, Abrechnungen, zwölf Vertrags- und Verwaltungsdokumente, zwanzig E-Mails, vier Chatexporte, zehn CSV-Dateien und zwei Excel-Arbeitsmappen. Die drei Fassungen je Akte bleiben getrennt: Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP.
+
+Die übergebenen Kursunterlagen dienten als Ausgangspunkt für Gestaltung und Themen, nicht als Quelle einer neuen Musterlösung. Vorhandene Lösungshinweise und Sammel-PDFs wurden nicht übernommen. Buchungen, Belege und Mietkonto ermöglichen eigene Prüfung; die versandten Abrechnungen sind Schriftstücke der Beteiligten und keine rechtlich freigegebenen Lösungen.
+
+## 3. Zeitstände, Quellen und Prüfung
+
+Die fachlichen Anweisungen trennen das Abrechnungsjahr 2025 vom Prüfstand September 2026. Amtliche Normen, Berliner Grundsteuerinformationen und sechs gerichtliche Volltexte sind mit Aussagegrenzen dokumentiert. Verbrauchtes Heizöl, lieferjahrbezogene CO2-Kosten und die eigenständige Mietabrechnung werden ausdrücklich von Einkaufszahlungen, späteren Gesetzesfassungen und WEG-Abrechnungsspitzen unterschieden.
+
+Neue Regressionen prüfen Belegidentität, Monatsrechnungen, Steuerkette, Zahlungsabgleich, CSV-Struktur, Excel-Quellen und gespeicherte Formelergebnisse, native Korrespondenz sowie die reproduzierbare PDF-Erzeugung. Ein vorbereitetes fachliches Prüfprofil ist kein ausgeführter Modelltest; eine Funktionsgarantie für sämtliche Clients wird nicht behauptet.
+
 # v444.6.0 - Fachliche Arbeitsabläufe bis zur fertigen Fassung
 
 ## 1. Rückfragen führen zum bestellten Dokument
