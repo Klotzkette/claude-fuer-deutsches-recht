@@ -70,7 +70,9 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 Dieses eigenständige Plugin führt von Belegen und Verbrauchsdaten bis zur nachrechenbaren Betriebskostenabrechnung oder zum konkreten Antwortbrief. Es enthält genau zehn Skills für das eigene Mietshaus und die vermietete Eigentumswohnung in einer WEG. Der ausführende Einstieg ist Belege bis zur Abrechnung, kein bloßer Verteiler auf andere Skills.
 
-Version: `444.7.0`. Fachlicher Prüfstand: 22.09.2026. Für Abrechnungen 2025 wird das damals geltende Recht angewandt; aktuelle Normseiten werden auf spätere Änderungen geprüft.
+Der Auftrag bleibt die Betriebskostenabrechnung mit dem dafür erforderlichen Beleg- und Zahlungsabgleich. Die lebensnahen Akten enthalten auch Fahrradlagerung, Trinkwasseruntersuchungen, Restaurantabluft und neue Ladeinfrastruktur. Das erweitert den zu prüfenden Belegbestand, nicht das Plugin zu einer allgemeinen Bau-, Hygiene-, Gastronomie- oder Finanzbuchhaltungsberatung. Technische Planung, medizinische Bewertung und allgemeine Unternehmensbuchführung sind nicht sein Arbeitsprodukt.
+
+Version: `444.7.1`. Fachlicher Prüfstand: 22.09.2026. Für Abrechnungen 2025 wird das damals geltende Recht angewandt; aktuelle Normseiten werden auf spätere Änderungen geprüft.
 
 ## 1.1. Direkt beginnen
 

@@ -1,6 +1,6 @@
 {
   "name": "arbeitszeugnispruefer",
-  "version": "444.7.0",
+  "version": "444.7.1",
   "description": "Prueft vorhandene deutsche Arbeitszeugnisse vollstaendig und fuehrt den Auftrag nach gezielten Rueckfragen bis zum Pruefbericht, zur bereinigten Fassung oder zur beauftragten Geltendmachung fort. Unterscheidet belegbare Maengel, Bewertungsfragen und Gestaltungswuensche.",
   "license": "Apache-2.0 OR MIT",
   "author": {

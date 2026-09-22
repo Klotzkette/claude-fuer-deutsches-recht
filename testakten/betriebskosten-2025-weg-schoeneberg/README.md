@@ -31,6 +31,8 @@ Eine Vierzimmerwohnung mit 108 m² in einem Haus von 2003: Die Gemeinschaftsverw
 
 Das Haus in der Ebersstraße hat zwölf Wohnungen, eine Ölheizung mit zentraler Warmwasserbereitung, eine Dach-Photovoltaikanlage und eine Tiefgarage. Zur Wohnung gehört kein Stellplatz. Die Unterlagen enthalten auch Reparaturen nach einem Aufbruch, ausgefallene Reinigungstermine, Versicherungszahlungen und das Angebot für eine Ladeinfrastruktur.
 
+Der ergänzte Bestand führt die Verwaltungsvorgänge weiter: gekennzeichnete Fahrräder werden ausgeräumt und eingelagert, ein Eigentümer meldet sich zu seinem Rad zurück, das Labor untersucht Warmwasserproben, eine undichte Probenahmearmatur wird ersetzt und die Dachrinne gereinigt. Auf das Angebot zur Ladeinfrastruktur folgen erst 2026 die gemeinsame Installation und eine getrennte private Bestellung. Jede Rechnung, der Lagerbeleg und der Laborbericht liegen als eigenes Dokument vor.
+
 Die Fallakte enthält keine Dozentenlösung und keine ausgefüllte rechtliche Bewertungsmatrix. Die Abrechnung und die Excel-Arbeitsmappe sind Schriftstücke der Beteiligten und keine geprüfte Musterabrechnung. Die bereitgestellte Kursmappe von 2024 wurde als gestalterischer und thematischer Ausgangspunkt verwendet, nicht mit dem neuen Objekt oder seinen Zahlen vermischt. Die darin enthaltenen Lösungshinweise und Sammel-PDFs sind nicht Bestandteil dieser Akte.
 
 ## 2. Downloads
@@ -61,6 +63,8 @@ English: A rented condominium in Berlin-Schöneberg, with separate condominium-m
 | [Korrespondenz](korrespondenz/) | E-Mails und Nachrichten zwischen Mietern, Eigentümer, Verwaltung und Dienstleistern |
 
 Die Belegnummern im Zahlenwerk führen zu den gleichnamigen PDFs. Vorjahresrechnungen, Zahlungsbuchungen und Jahresabrechnungen sind nicht mehrere Rechnungen über dieselbe Leistung.
+
+Die Dateien `Belegnachtrag_2025_2026.csv` und `Zahlungsdetails_Nachtraege.csv` enthalten die ergänzten Eingänge und belegbezogenen Zahlungsvorgänge. Die bereits versandte Abrechnung und die ursprüngliche Excel-Arbeitsmappe bleiben als damaliger Bearbeitungsstand unverändert erhalten. Der Nachtrag ist kein neuer Abrechnungsstand und enthält keine rechtliche Bewertung einzelner Positionen.
 
 Kontaktangaben gehören zum dargestellten Vorgang und sind keine Empfehlung oder Aufforderung, Personen anzuschreiben oder Zahlungen auszuführen.
 

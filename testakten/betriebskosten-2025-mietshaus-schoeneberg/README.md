@@ -29,7 +29,9 @@ English: The original-format ZIP contains the working files directly at archive 
 
 Die Südquadrat Wohnen GmbH besitzt das gesamte Haus Gotenstraße 73 in Berlin-Schöneberg und führt die Verwaltung selbst. Es gibt keine Eigentümergemeinschaft. Die Mieter einer Vierzimmerwohnung mit 108 m² erhalten im August 2026 ihre Betriebskostenabrechnung für 2025 und wenden sich danach an das Objektbüro. Aktenstand ist der 15. September 2026.
 
-Das Gebäude von 2010 hat acht Wohnungen, eine zentrale Ölheizung mit Warmwasserbereitung, eine Dach-Photovoltaikanlage und sechs separat vermietete Tiefgaragenplätze. Die betroffene Wohnung hat keinen Stellplatz. Die eingegangenen Belege umfassen laufende Dienstleistungen, Gebäudeschäden, Gutschriften, Versicherungszahlungen und Unterlagen zu noch nicht ausgeführten Ladepunkten.
+Das Gebäude von 2010 hat acht Wohnungen, eine zentrale Ölheizung mit Warmwasserbereitung, eine Dach-Photovoltaikanlage und sechs separat vermietete Tiefgaragenplätze. Die betroffene Wohnung hat keinen Stellplatz. Die eingegangenen Belege umfassen laufende Dienstleistungen, Gebäudeschäden, Gutschriften, Versicherungszahlungen und die vom Angebot bis zur Grundinstallation im Juni 2026 fortgeführten Unterlagen zur Ladeinfrastruktur. Private Ladegeräte sind bis zu dieser Übergabe noch nicht installiert.
+
+Weitere Vorgänge betreffen zwei Fahrradaktionen, eine Legionellenuntersuchung und Geruchsbelästigungen aus dem Restaurant TAFELGUT im benachbarten Erdgeschoss der Gotenstraße 71. Das Nachbarhaus gehört ebenfalls der Gesellschaft, wird aber unter GO71 getrennt geführt; die acht Wohnungen und 800 Quadratmeter des Mietshauses GO73 ändern sich dadurch nicht. Filterservice, neue Abluftführung, ursprüngliche Rechnung, Storno und berichtigte Rechnung sind getrennte Aktenstücke. Bewohner, Restaurantbetreiber, Verwaltung und Handwerker kommen mit eigenen Nachrichten zu Wort.
 
 Abrechnung und Verwaltungsbuchhaltung sind Unterlagen der Beteiligten, keine fachlich geprüfte Musterlösung. Der Fall ist vom Eigentumswohnungsfall in der Ebersstraße getrennt. Die bereitgestellte Kursmappe von 2024 dient nur als thematischer und gestalterischer Ausgangspunkt; ihre Parteien, Zahlen und Dozentenlösungen wurden nicht in diesen Vorgang übernommen.
 
@@ -61,6 +63,8 @@ English: The property company owns the whole building and handles the accounts i
 | [Korrespondenz](korrespondenz/) | Schriftverkehr und Nachrichten aus dem laufenden Objektbetrieb |
 
 Die Grundsteuerunterlagen betreffen das gesamte Mietwohngrundstück. Die Belegsammlung enthält neben Unterlagen aus 2025 auch Vorjahresnachweise und später eingegangene Rechnungen; Rechnungsdatum, Leistungszeitraum und Zahlung sind jeweils gesonderte Angaben.
+
+Die ergänzten Eingänge stehen in `Belegnachtrag_2025_2026.csv`, die zugehörigen Überweisungen der Verwaltung in `Zahlungsdetails_Nachtraege.csv`. Restaurantunterlagen und Nachbarhaus bleiben an ihrer jeweiligen Empfänger- und Objektangabe erkennbar. Die schon versandte Abrechnung und die ursprüngliche Excel-Arbeitsmappe werden nicht nachträglich überschrieben. Die Akte enthält weiterhin keine ausgefüllte rechtliche Bewertungsmatrix.
 
 Kontaktangaben gehören zum dargestellten Vorgang und sind keine Empfehlung oder Aufforderung, Personen anzuschreiben oder Zahlungen auszuführen.
 
