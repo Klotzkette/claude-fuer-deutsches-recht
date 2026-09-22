@@ -1,0 +1,255 @@
+{
+  "schema_version": 1,
+  "plugin": "zugewinnausgleich",
+  "reviewed_on": "2026-09-22",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1374.html",
+      "checked_on": "2026-09-22",
+      "supports": "Anfangsvermögen einschließlich Schuldenüberhang und privilegierte Nettoerwerbe; keine pauschale Privilegierung beliebiger Zuflüsse."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1375.html",
+      "checked_on": "2026-09-22",
+      "supports": "Tatsächliches Endvermögen, konkrete Hinzurechnungstatbestände, Beweislastumkehr und Grenzen des Absatzes 3."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1376.html",
+      "checked_on": "2026-09-22",
+      "supports": "Stichtagsbezogene Bewertung von Vermögen und Verbindlichkeiten; privilegierter Erwerb zum Erwerbszeitpunkt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1377.html",
+      "checked_on": "2026-09-22",
+      "supports": "Gemeinsames Anfangsverzeichnis und gesetzliche Vermutungen; positionsbezogene Nachweisprüfung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1378.html",
+      "checked_on": "2026-09-22",
+      "supports": "Hälftige Differenz, eigenständige Anspruchsbegrenzung samt Hinzurechnungserhöhung und Forderungsentstehung mit Güterstandsende."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1379.html",
+      "checked_on": "2026-09-22",
+      "supports": "Auskunft und Belege abhängig von Trennung beziehungsweise den Voraussetzungen des Absatzes 1."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1384.html",
+      "checked_on": "2026-09-22",
+      "supports": "Rechtshängigkeit des Scheidungsantrags als Berechnungszeitpunkt und Zeitpunkt für die Anspruchshöhe, nicht Scheidungsdatum."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__426.html",
+      "checked_on": "2026-09-22",
+      "supports": "Innenausgleich bei Gesamtschuld mit Vorbehalt anderweitiger Bestimmung; Eigentumsquote ist keine automatische Schuldquote."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__260.html",
+      "checked_on": "2026-09-22",
+      "supports": "Bestandsverzeichnis und Versicherung an Eides statt nur bei konkreten Voraussetzungen mangelnder Sorgfalt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__113.html",
+      "checked_on": "2026-09-22",
+      "supports": "ZPO-Anwendung in Familienstreitsachen; kein pauschaler Rückgriff auf Amtsermittlung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__114.html",
+      "checked_on": "2026-09-22",
+      "supports": "Grundsätzlich anwaltliche Vertretung in Folgesachen und selbständigen Familienstreitsachen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__137.html",
+      "checked_on": "2026-09-22",
+      "supports": "Voraussetzungen der güterrechtlichen Folgesache und rechtzeitige Anhängigkeit; kein automatischer Verfahrensauftrag."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__262.html",
+      "checked_on": "2026-09-22",
+      "supports": "Örtliche Zuständigkeit in Güterrechtssachen und Vorrang des Gerichts der anhängigen Ehesache."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__254.html",
+      "checked_on": "2026-09-22",
+      "supports": "Stufenantrag über Paragraf 113 FamFG bei von Auskunft abhängiger Bezifferung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/versausglg/__2.html",
+      "checked_on": "2026-09-22",
+      "supports": "Kein zusätzlicher güterrechtlicher Ausgleich für Anrechte im Sinne des Versorgungsausgleichsgesetzes."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2023/XII_ZB_558-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 13.11.2024, Az. XII ZB 558/23, Randnummern 17 bis 23: erfüllende Trennungsauskunft auch bei abweichendem tatsächlichem Datum; Darlegung ist nicht Beweis. Amtliches PDF vollständig gelesen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2009/XII_ZR__40-09.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 09.02.2011, Az. XII ZR 40/09, Randnummern 16 bis 37 und 50 bis 58: Praxiswert, individueller Unternehmerlohn, latente Steuern, Doppelverwertung und Gesamtschuld. Amtliches PDF vollständig gelesen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2014/XII_ZB_306-14.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 06.05.2015, Az. XII ZB 306/14, Randnummern 19 bis 27: Abschmelzen gegenüber Wertanstieg des Nießbrauchs; kein zusätzlicher negativer gleitender Erwerb. Amtliches PDF vollständig gelesen."
+    },
+    {
+      "url": "https://genesis.destatis.de/datenbank/online/statistic/61111/table/61111-0002",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher VPI für Deutschland als monatliche Datenquelle. Rechenbeispielquotienten in den Prüffällen sind ausdrücklich keine behaupteten amtlichen Indexwerte."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Neuer eigenständiger Schnellstart mit durchgerechneter Anspruchskette und gezielter Fortsetzung; redaktionelle Prüfung, kein tatsächlich ausgeführter Modelllauf.",
+    "changes": [
+      "Unterlagen zuerst, Zustellung und Anspruchsentstehung getrennt; keine wiederholte Mandatsaufnahme.",
+      "Negatives Anfangsvermögen, amtliche Indexierung, Schuldzuordnung und erfüllende Trennungsauskunft ausdrücklich behandelt.",
+      "Auf 7461 UTF-8-Bytes verdichtet, ohne die Abgrenzung von Unterhalt, Versorgungsausgleich und ungefragtem Verfahren zu verlieren."
+    ],
+    "sha256": "3c8c0279f7ec82ba0e2300d74524f6f7d9d8402b776a8e816e627e70184a03ec"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Fachlich eigenständige Werkstatt mit konkreten Bewertungs-, Beweis- und Fortsetzungsentscheidungen; redaktionelle Quellen- und Inhaltsprüfung, kein Modelllauf.",
+    "changes": [
+      "Nießbrauchentwicklung, Unternehmenswert und latente Steuern anhand dreier gelesener amtlicher BGH-Volltexte eingegrenzt.",
+      "Kontenüberträge, Gesamtschuld und Tilgung bis in beide Bilanzen sowie Anspruchsbegrenzung nachvollzogen.",
+      "Wiederholungen gekürzt; eigenständige Rechnung, gezielte Auskunft und auftragsabhängiger Vergleich beziehungsweise Antrag erhalten."
+    ],
+    "sha256": "70ee8b1386302a07c3302ce57cc75d6ad844ce3c74c6546d8eb2353b15dc9e78"
+  },
+  "selection": {
+    "target_skill": "vermoegensbelege-bis-zur-gesamtberechnung",
+    "positive": [
+      "Berechnen Sie aus unseren Vermögensauskünften, Darlehen und Erwerbsbelegen den Zugewinnausgleich und erstellen Sie das Gutachten.",
+      "Prüfen Sie die gegnerische Zugewinnrechnung mit Zustellungsdatum, Erbschaft, Firmenanteil und Abflüssen seit der Trennung und formulieren Sie die Antwort."
+    ],
+    "negative": [
+      "Teilen Sie ausschließlich die Rentenanwartschaften im Versorgungsausgleich und prüfen Sie den Ausgleichswert der gesetzlichen Rente.",
+      "Berechnen Sie ausschließlich die gesetzliche Erbquote des überlebenden Ehegatten und der Kinder im Todesfall, ohne konkreten güterrechtlichen Ausgleich."
+    ]
+  },
+  "cases": [
+    {
+      "id": "gesamtberechnung-mit-negativem-anfang",
+      "target_skill": "vermoegensbelege-bis-zur-gesamtberechnung",
+      "request": "Erstellen Sie ergebnis.md als vollständigen Berechnungsvermerk, keinen Antrag. Deutscher gesetzlicher Güterstand, Scheidungsantrag zugestellt am 12.02.2026. Alle Werte sind belegt: bereits indexiertes Anfangsvermögen der ersten Person minus 20000 EUR, der zweiten 30000 EUR; Nettoendvermögen am Zustellungstag 80000 EUR und 70000 EUR. Keine weiteren Erwerbe, Hinzurechnungen, Zahlungen oder Einwendungen. Die Scheidung ist noch nicht rechtskräftig. Vorhandene Angaben nicht erneut erfragen.",
+      "input_files": [],
+      "deliverables": ["ergebnis.md"],
+      "criteria": [
+        {"id": "C01", "text": "Die Zugewinne betragen 100000 EUR und 40000 EUR; negatives Anfangsvermögen bleibt erhalten und bereits indexierte Werte werden nicht erneut indexiert.", "deliverables": ["ergebnis.md"]},
+        {"id": "C02", "text": "Die zweite Person hat rechnerisch 30000 EUR Ausgleich; die Begrenzung auf 80000 EUR greift nicht. Forderungsentstehung wird von Zustellung und Berechnung getrennt.", "deliverables": ["ergebnis.md"]},
+        {"id": "C03", "text": "Es entsteht ein ausformulierter Vermerk mit Rechenweg, ohne ungefragten Antrag, erneute allgemeine Aufnahme oder Behauptung bereits fälliger Zahlung allein wegen Zustellung.", "deliverables": ["ergebnis.md"]}
+      ]
+    },
+    {
+      "id": "anfangsschuld-und-indexvorzeichen",
+      "target_skill": "anfangsvermoegen-schulden-und-indexierung",
+      "request": "Erstellen Sie ergebnis.md zum Anfangsvermögen. Ein von beiden unterschriebenes Verzeichnis und Bankbelege bestätigen 8000 EUR Aktiva und 28000 EUR persönliche Schulden bei Güterstandsbeginn. Keine Erwerbe. Verwenden Sie für dieses reine Rechenbeispiel ausdrücklich den vorgegebenen Indexquotienten 1.2, ohne ihn als amtlichen Datenwert auszugeben. Endvermögen 60000 EUR. Die Gegenseite will wegen Überschuldung Anfangsvermögen null ansetzen. Erklären Sie Ansatz und Zugewinn, keine Gesamtforderung ohne die andere Vermögensseite.",
+      "input_files": [],
+      "deliverables": ["ergebnis.md"],
+      "criteria": [
+        {"id": "C01", "text": "Der nominale Anfangssaldo ist minus 20000 EUR, der vorgegebene indexierte Beispielwert minus 24000 EUR; daraus folgen 84000 EUR Zugewinn.", "deliverables": ["ergebnis.md"]},
+        {"id": "C02", "text": "Paragraf 1374 Absatz 3 und die Vermutungswirkung des gemeinsamen Verzeichnisses werden sachgerecht behandelt; kein automatischer Nullansatz.", "deliverables": ["ergebnis.md"]},
+        {"id": "C03", "text": "Der Quotient wird als Übungsannahme gekennzeichnet, nicht als verifizierter Destatis-Wert; ohne gegnerische Vermögensseite wird keine endgültige Ausgleichsforderung erfunden.", "deliverables": ["ergebnis.md"]}
+      ]
+    },
+    {
+      "id": "niessbrauch-steigt-mit-grundstueck",
+      "target_skill": "erbschaft-schenkung-und-niessbrauch",
+      "request": "Erstellen Sie ergebnis.md zum privilegiert von der Mutter übertragenen Haus mit vorbehaltenem lebenslangem Nießbrauch. Geprüfte Gutachten: beim Erwerb Hauswert 400000 EUR und Nießbrauch 100000 EUR; am Endstichtag 600000 EUR und 120000 EUR. Der Nießbrauchswert ist nachweislich wegen der Grundstückswertentwicklung gestiegen, nicht gesunken. Der bereits korrekt indexierte Nettoerwerbswert beträgt 360000 EUR. Keine weiteren Schulden. Die Gegenseite will die Last beidseitig weglassen oder zusätzlichen negativen gleitenden Erwerb ansetzen. Prüfen Sie nur diesen Vermögensbeitrag.",
+      "input_files": [],
+      "deliverables": ["ergebnis.md"],
+      "criteria": [
+        {"id": "C01", "text": "Die gestiegene Belastung wird nach XII ZB 306/14 von altersbedingtem Abschmelzen unterschieden; beidseitiges Weglassen ist hier nicht die richtige Variante.", "deliverables": ["ergebnis.md"]},
+        {"id": "C02", "text": "Nettoendwert 480000 EUR minus bereits indexierter Erwerbswert 360000 EUR ergibt 120000 EUR Beitrag; kein zusätzlicher negativer gleitender Erwerb.", "deliverables": ["ergebnis.md"]},
+        {"id": "C03", "text": "Der Vermerk nennt Erwerbsprivilegierung und verbleibenden Wertzuwachs, ohne vollständige Steuerbefreiung, Erbquote oder endgültige Gesamtforderung zu behaupten.", "deliverables": ["ergebnis.md"]}
+      ]
+    },
+    {
+      "id": "immobilie-valuta-statt-grundschuld",
+      "target_skill": "immobilienwert-und-darlehen-zuordnen",
+      "request": "Erstellen Sie ergebnis.md zur Hausposition beider Ehegatten. Stichtagsverkehrswert 600000 EUR, hälftiges Grundbucheigentum, beide volle Darlehensschuldner. Tagesvaluta 240000 EUR, eingetragene Grundschuld 400000 EUR. Hälftige interne Last und durchsetzbare Ausgleichsansprüche sind belegt; weitere Lasten fehlen. Ein Ehegatte zahlte nach dem Endstichtag 10000 EUR Tilgung und verlangt, die Stichtagsvaluta deshalb rückwirkend zu ändern. Prüfen Sie den Immobilienansatz, nicht die gesamte Vermögensauseinandersetzung.",
+      "input_files": [],
+      "deliverables": ["ergebnis.md"],
+      "criteria": [
+        {"id": "C01", "text": "Je Ehegatte werden 300000 EUR Aktivwert und wirtschaftlich 120000 EUR Nettoschuld, damit 180000 EUR Nettoobjektwert ermittelt.", "deliverables": ["ergebnis.md"]},
+        {"id": "C02", "text": "Grundschuld und Valuta werden getrennt; volle Außenhaftung und werthaltiger Innenausgleich erklären den Nettoansatz statt automatischer Halbierung allein wegen Eigentumsquote.", "deliverables": ["ergebnis.md"]},
+        {"id": "C03", "text": "Nachstichtagstilgung ändert die historische Valuta nicht; möglicher Innenausgleich und Unterhaltsberücksichtigung werden als gesonderte Frage behandelt, ohne automatische Bankentlassung.", "deliverables": ["ergebnis.md"]}
+      ]
+    },
+    {
+      "id": "praxiswert-ohne-doppelte-bank-und-steuer",
+      "target_skill": "unternehmenswert-steuern-und-doppelverwertung",
+      "request": "Erstellen Sie ergebnis.md als Prüfung eines Praxisgutachtens. Der konkrete Anteil ist nach sachgerechtem individuellen Unternehmerlohn und allen Betriebsschulden 500000 EUR wert, vor persönlicher latenter Veräußerungssteuer. Eine gesondert geprüfte Steuerberechnung am Stichtag ergibt 80000 EUR; keine Verkaufsabsicht. Die 60000 EUR Praxisbank sind im Anteil bereits enthalten. Laufender Unterhalt beruht auf Arbeitseinkommen und Erträgen, nicht auf Verbrauch des Vermögensstamms. Die Gegenseite will den Wert wegen Unterhalts auf null setzen oder Praxisbank nochmals addieren.",
+      "input_files": [],
+      "deliverables": ["ergebnis.md"],
+      "criteria": [
+        {"id": "C01", "text": "Der Nettoanteilswert ist 420000 EUR; die konkret belegte latente Steuer wird trotz fehlender Verkaufsabsicht einmal abgezogen, kein weiterer Pauschalsatz erfunden.", "deliverables": ["ergebnis.md"]},
+        {"id": "C02", "text": "Die enthaltene Praxisbank wird nicht zusätzlich privat angesetzt und der bereits abgezogene Unternehmerlohn nicht erneut abgezogen.", "deliverables": ["ergebnis.md"]},
+        {"id": "C03", "text": "Unterhalt aus Arbeit und Erträgen beseitigt den zutreffend bewerteten Vermögensstamm nicht automatisch; XII ZR 40/09 wird mit seiner Praxisbewertungsgrenze eingeordnet.", "deliverables": ["ergebnis.md"]}
+      ]
+    },
+    {
+      "id": "eigenuebertrag-wallet-und-goldbestand",
+      "target_skill": "konten-depots-krypto-und-gold-abgleichen",
+      "request": "Erstellen Sie ergebnis.md als Bestandsabgleich einer Person. Vor dem Endstichtag wurden von 60000 EUR Giroguthaben 25000 EUR auf das eigene Tagesgeld übertragen; beide Buchungen sind belegt, keine weiteren Bankbewegungen. Zwei BTC wurden von der eigenen Börse in die eigene Wallet transferiert, ohne Mengenverlust. Vorgegebener belegter Übungs-Stichtagskurs 40000 EUR je BTC. Zusätzlich 100 Gramm eigenes Feingold zu belegten 60 EUR je Gramm. Keine Schulden oder anzusetzenden Steuern in diesem Teilfall. Verlangen Sie keine Zugangsdaten.",
+      "input_files": [],
+      "deliverables": ["ergebnis.md"],
+      "criteria": [
+        {"id": "C01", "text": "Bankbestand ist 35000 EUR Giro plus 25000 EUR Tagesgeld, insgesamt 60000 EUR; Eigenübertrag wird nicht als Minderung behandelt.", "deliverables": ["ergebnis.md"]},
+        {"id": "C02", "text": "Krypto 80000 EUR und Gold 6000 EUR ergeben mit Bank 146000 EUR; Börse und Wallet werden nicht doppelt gezählt.", "deliverables": ["ergebnis.md"]},
+        {"id": "C03", "text": "Belegter Übungskurs wird nicht als heutiger Marktpreis behauptet; Eigentum und Menge bleiben maßgeblich, keine privaten Schlüssel oder Passwörter werden gefordert.", "deliverables": ["ergebnis.md"]}
+      ]
+    },
+    {
+      "id": "erfuellende-auskunft-trotz-datumsstreit",
+      "target_skill": "trennungsbewegungen-und-beweislast-pruefen",
+      "request": "Erstellen Sie ergebnis.md als Hinzurechnungsvermerk. Auf verlangte Trennungsauskunft zum 01.03.2024 wurden vollständig 120000 EUR angegeben und als Erfüllung akzeptiert; kein Titel. Nun wird tatsächliche Trennung am 15.03.2024 behauptet. Endvermögen 70000 EUR. Vom Rückgang sind 20000 EUR notwendiger Verbrauch und 10000 EUR Marktverlust bewiesen. Die übrigen 20000 EUR werden nur als weitere Behandlungskosten behauptet und ausdrücklich bestritten; Beweise fehlen. Keine Zustimmung, keine Zehnjahresfrage, keine weiteren Vermögenspositionen. Erläutern Sie Beweisrisiko und Rechenwirkung, keine Strafanzeige.",
+      "input_files": [],
+      "deliverables": ["ergebnis.md"],
+      "criteria": [
+        {"id": "C01", "text": "Die erfüllende Auskunft bleibt nach XII ZB 558/23 trotz Datumsstreit geeigneter Anknüpfungspunkt; keine pauschale Ablehnung der Beweislastumkehr.", "deliverables": ["ergebnis.md"]},
+        {"id": "C02", "text": "Vom Rückgang um 50000 EUR sind 30000 EUR erklärt und 20000 EUR nicht bewiesen; bloße Darlegung wird nicht als Beweis behandelt. Bei verbleibendem Beweisdefizit wird die Hinzurechnungsvariante von 20000 EUR konkret ausgewiesen.", "deliverables": ["ergebnis.md"]},
+        {"id": "C03", "text": "Rechnerisches Endvermögen mit dieser Hinzurechnung ist 90000 EUR; keine zusätzliche Verdoppelung derselben Minderung und keine endgültige Gesamtforderung ohne Anfangsvermögen beider Seiten.", "deliverables": ["ergebnis.md"]}
+      ]
+    },
+    {
+      "id": "auskunft-bei-blosser-trennung",
+      "target_skill": "auskunft-und-belege-gezielt-anfordern",
+      "request": "Erstellen Sie ergebnis.md als vollständiges Auskunftsschreiben. Die Ehegatten leben seit 01.06.2026 getrennt; gesetzlicher Güterstand, kein Scheidungs- oder vorzeitiger Ausgleichsantrag, kein Titel. Trennungsvermögensauskunft fehlt vollständig. Bekannt sind ein Konto und ein Darlehen, deren Bestände am Trennungstag benötigt werden. Der Auftraggeber verlangt vorsorglich eine endgültige Endvermögensauskunft zum heutigen Tag und eine eidesstattliche Versicherung; Anhaltspunkte sorgfaltswidriger Angaben fehlen. Angemessene Frist 15.10.2026 ist vorgegeben. Nicht versenden.",
+      "input_files": [],
+      "deliverables": ["ergebnis.md"],
+      "criteria": [
+        {"id": "C01", "text": "Das Schreiben verlangt geordnetes Trennungsvermögensverzeichnis zum 01.06.2026 und konkret passende Belege nach Paragraf 1379 Absatz 2 BGB, ohne andere Positionen vom Verzeichnis auszuschließen.", "deliverables": ["ergebnis.md"]},
+        {"id": "C02", "text": "Endvermögen zum heutigen Tag und voraussetzungslose eidesstattliche Versicherung werden nicht verlangt; fehlende rechtliche Voraussetzungen werden separat verständlich erklärt.", "deliverables": ["ergebnis.md"]},
+        {"id": "C03", "text": "Es entsteht ein versandfähiger Entwurf mit Frist 15.10.2026 und konkretem Fortsetzungsschritt nach Antwort, aber ohne Versandbehauptung oder ungefragten Stufenantrag.", "deliverables": ["ergebnis.md"]}
+      ]
+    },
+    {
+      "id": "begrenzung-statt-linearer-halbeffekt",
+      "target_skill": "varianten-und-vergleich-durchrechnen",
+      "request": "Erstellen Sie ergebnis.md als Variantenvermerk, noch keinen Vergleichsvertrag. Für Person eins beträgt das bereits indexierte Anfangsvermögen minus 80000 EUR. Zwei rechtlich zulässige Endwertvarianten sind 20000 EUR und 30000 EUR. Person zwei hat jeweils Anfangs- und Endvermögen null. Keine Hinzurechnung, Vorausempfänge oder Zahlungen. Deutsches aktuelles Güterrecht ist anwendbar. Der Auftraggeber meint, der Unterschied von 10000 EUR verändere die Forderung stets um 5000 EUR. Rechnen Sie beide Varianten vollständig.",
+      "input_files": [],
+      "deliverables": ["ergebnis.md"],
+      "criteria": [
+        {"id": "C01", "text": "Zugewinne der ersten Person sind 100000 EUR und 110000 EUR; die hälftigen Unterschiede betragen 50000 EUR und 55000 EUR.", "deliverables": ["ergebnis.md"]},
+        {"id": "C02", "text": "Nach Paragraf 1378 Absatz 2 BGB sind die Forderungen ohne Hinzurechnungen auf 20000 EUR und 30000 EUR begrenzt; Unterschied 10000 EUR.", "deliverables": ["ergebnis.md"]},
+        {"id": "C03", "text": "Die falsche lineare Halbierungsannahme wird begründet korrigiert; keine erfundenen Erfolgsquoten, kein verpflichtendes Angebot und kein ungefragter Vertrag.", "deliverables": ["ergebnis.md"]}
+      ]
+    },
+    {
+      "id": "erwiderung-zustellung-und-erfuellung",
+      "target_skill": "antrag-oder-erwiderung-ausformulieren",
+      "request": "Erstellen Sie ergebnis.md als anwaltlichen Erwiderungsentwurf aus Sicht der ersten Person, ohne Anerkenntnis oder Einreichung. Scheidung rechtskräftig seit 01.05.2026; zugrunde liegender Scheidungsantrag eingereicht am 20.11.2025, zugestellt am 01.12.2025. Beide Anfangsvermögen null. Erste Person hatte bei Einreichung 100000 EUR, bei Zustellung belegt 80000 EUR; zweite am Zustellungstag 20000 EUR. Keine Hinzurechnungen oder Einwendungen. Die zweite verlangt 40000 EUR und ignoriert eine belegte Erfüllungszahlung von 5000 EUR nach Fälligkeit. Das angerufene Familiengericht ist unstreitig zuständig. Fehlende Rubrumsnamen als Platzhalter markieren; Zinsen sind nicht beantragt.",
+      "input_files": [],
+      "deliverables": ["ergebnis.md"],
+      "criteria": [
+        {"id": "C01", "text": "Maßgeblich sind 80000 EUR und 20000 EUR am Zustellungstag, nicht 100000 EUR bei Einreichung oder ein Wert am Scheidungsdatum; daraus folgen 30000 EUR vor Zahlung.", "deliverables": ["ergebnis.md"]},
+        {"id": "C02", "text": "Nach einmaliger Erfüllungsanrechnung bleiben 25000 EUR; der übersteigende Teil von 15000 EUR gegenüber dem geltend gemachten Betrag wird begründet abgewehrt.", "deliverables": ["ergebnis.md"]},
+        {"id": "C03", "text": "Vollständiger Erwiderungsentwurf mit Rechnung und konkreten Beweisbezügen, ohne unautorisiertes Anerkenntnis, neue Auskunftsstufe, zusätzliche Zinsforderung oder Einreichungsbehauptung.", "deliverables": ["ergebnis.md"]}
+      ]
+    }
+  ]
+}

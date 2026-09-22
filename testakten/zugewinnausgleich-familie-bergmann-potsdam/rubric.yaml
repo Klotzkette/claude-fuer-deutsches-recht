@@ -1,0 +1,29 @@
+name: zugewinnausgleich-familie-bergmann-potsdam
+plugin: zugewinnausgleich
+description: Vermögensbelege einer Potsdamer Familie mit Hausfinanzierung, Einzelunternehmen, Erbschaft und getrennten Konten.
+checks:
+  - id: historische-bankbelege
+    check_type: file_exists
+    description: Die Bankauskunft für Mara zum Eheschließungstag liegt vor.
+    path: belege/Bankarchiv_2011_Mara.pdf
+  - id: darlehensbewegungen
+    check_type: file_exists
+    description: Das Hausdarlehen ist mit einzelnen Buchungen dokumentiert.
+    path: zahlenwerk/Darlehensbewegungen_2025_2026.csv
+  - id: native-kontodaten
+    check_type: file_exists
+    description: Die Kontoumsätze sind als bearbeitbare Arbeitsmappe vorhanden.
+    path: xlsx/Kontoumsaetze_2025_2026.xlsx
+  - id: native-betriebsdaten
+    check_type: file_exists
+    description: Die betrieblichen Aufzeichnungen liegen als Arbeitsmappe vor.
+    path: xlsx/Betriebsunterlagen_2023_2026.xlsx
+  - id: stichtage-und-belege
+    check_type: human_review
+    description: Eheschließung, Trennung und Zustellung anhand ihrer Quellen auseinanderhalten und Vermögenspositionen beiden Ehegatten zuordnen.
+  - id: einzelne-vermoegenspositionen
+    check_type: human_review
+    description: Erwerbsgrund, Eigentumsanteil, Wertstichtag und tatsächliche Schuld jeder Position belegen; bloße Zahlungsbewegungen nicht zusätzlich als Vermögenswerte zählen.
+  - id: fertiges-arbeitsprodukt
+    check_type: human_review
+    description: Die beauftragte Berechnung mit verbleibenden Bewertungsfragen und das konkret gewünschte Schreiben fertigstellen, ohne eine nicht belegte Endsumme vorzutäuschen.

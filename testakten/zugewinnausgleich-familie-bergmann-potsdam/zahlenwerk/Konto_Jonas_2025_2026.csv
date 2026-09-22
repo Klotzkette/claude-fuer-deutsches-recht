@@ -1,0 +1,157 @@
+Buchungstag;Valuta;Referenz;Auftraggeber_Empfänger;Buchungstext;Betrag_EUR;Saldo_EUR;Belegdatei
+2025-03-31;2025-03-31;VORTRAG;Havelbogen Bank eG;Saldovortrag 31.03.2025;0.00;9240.18;belege/Saldenbestaetigung_2025-04-01.pdf
+2025-04-02;2025-04-02;202504-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;4700;13940.18;kontoauszuege/Jonas_2025-04.pdf
+2025-04-03;2025-04-03;202504-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;12990.18;kontoauszuege/Jonas_2025-04.pdf
+2025-04-03;2025-04-03;202504-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;12100.18;kontoauszuege/Jonas_2025-04.pdf
+2025-04-07;2025-04-07;202504-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;11720.18;kontoauszuege/Jonas_2025-04.pdf
+2025-04-14;2025-04-14;202504-KV;Krankenkasse;Freiwillige Kranken- und Pflegeversicherung;-612.44;11107.74;kontoauszuege/Jonas_2025-04.pdf
+2025-04-14;2025-04-14;202504-RV;Versorgungskasse;Altersvorsorge Vertrag RV-62241;-260;10847.74;kontoauszuege/Jonas_2025-04.pdf
+2025-04-22;2025-04-22;202504-KARTE;HavelCard Abrechnung;Kartenabrechnung 04/2025 / Jonas;-239.72;10608.02;kontoauszuege/Jonas_2025-04.pdf
+2025-04-24;2025-04-24;202504-BAR;Geldautomat Potsdam;Bargeldauszahlung / Karte endet 2208;-180;10428.02;kontoauszuege/Jonas_2025-04.pdf
+2025-04-30;2025-04-30;202504-GEB-JONAS;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;10421.12;kontoauszuege/Jonas_2025-04.pdf
+2025-05-02;2025-05-02;202505-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;4875;15296.12;kontoauszuege/Jonas_2025-05.pdf
+2025-05-05;2025-05-05;202505-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;14346.12;kontoauszuege/Jonas_2025-05.pdf
+2025-05-05;2025-05-05;202505-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;13456.12;kontoauszuege/Jonas_2025-05.pdf
+2025-05-06;2025-05-06;202505-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;13076.12;kontoauszuege/Jonas_2025-05.pdf
+2025-05-12;2025-05-12;202505-KV;Krankenkasse;Freiwillige Kranken- und Pflegeversicherung;-612.44;12463.68;kontoauszuege/Jonas_2025-05.pdf
+2025-05-14;2025-05-14;202505-RV;Versorgungskasse;Altersvorsorge Vertrag RV-62241;-260;12203.68;kontoauszuege/Jonas_2025-05.pdf
+2025-05-19;2025-05-19;202505-KARTE;HavelCard Abrechnung;Kartenabrechnung 05/2025 / Jonas;-250.72;11952.96;kontoauszuege/Jonas_2025-05.pdf
+2025-05-26;2025-05-26;202505-BAR;Geldautomat Potsdam;Bargeldauszahlung / Karte endet 2208;-180;11772.96;kontoauszuege/Jonas_2025-05.pdf
+2025-06-02;2025-06-02;202505-GEB-JONAS;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;11766.06;kontoauszuege/Jonas_2025-06.pdf
+2025-06-02;2025-06-02;202506-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;5050;16816.06;kontoauszuege/Jonas_2025-06.pdf
+2025-06-03;2025-06-03;202506-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;15866.06;kontoauszuege/Jonas_2025-06.pdf
+2025-06-03;2025-06-03;202506-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;14976.06;kontoauszuege/Jonas_2025-06.pdf
+2025-06-04;2025-06-04;202506-J-M;Mara Bergmann;Für Jule und Oskar / vereinbarter Abschlag;-780;14196.06;kontoauszuege/Jonas_2025-06.pdf
+2025-06-06;2025-06-06;202506-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;13816.06;kontoauszuege/Jonas_2025-06.pdf
+2025-06-12;2025-06-12;202506-KV;Krankenkasse;Freiwillige Kranken- und Pflegeversicherung;-612.44;13203.62;kontoauszuege/Jonas_2025-06.pdf
+2025-06-16;2025-06-16;202506-RV;Versorgungskasse;Altersvorsorge Vertrag RV-62241;-260;12943.62;kontoauszuege/Jonas_2025-06.pdf
+2025-06-19;2025-06-19;202506-KARTE;HavelCard Abrechnung;Kartenabrechnung 06/2025 / Jonas;-261.72;12681.90;kontoauszuege/Jonas_2025-06.pdf
+2025-06-24;2025-06-24;202506-BAR;Geldautomat Potsdam;Bargeldauszahlung / Karte endet 2208;-180;12501.90;kontoauszuege/Jonas_2025-06.pdf
+2025-06-30;2025-06-30;202506-GEB-JONAS;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;12495.00;kontoauszuege/Jonas_2025-06.pdf
+2025-07-02;2025-07-02;202507-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;5225;17720.00;kontoauszuege/Jonas_2025-07.pdf
+2025-07-03;2025-07-03;202507-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;16770.00;kontoauszuege/Jonas_2025-07.pdf
+2025-07-03;2025-07-03;202507-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;15880.00;kontoauszuege/Jonas_2025-07.pdf
+2025-07-04;2025-07-04;202507-J-M;Mara Bergmann;Für Jule und Oskar / vereinbarter Abschlag;-780;15100.00;kontoauszuege/Jonas_2025-07.pdf
+2025-07-07;2025-07-07;202507-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;14720.00;kontoauszuege/Jonas_2025-07.pdf
+2025-07-14;2025-07-14;202507-KV;Krankenkasse;Freiwillige Kranken- und Pflegeversicherung;-612.44;14107.56;kontoauszuege/Jonas_2025-07.pdf
+2025-07-14;2025-07-14;202507-RV;Versorgungskasse;Altersvorsorge Vertrag RV-62241;-260;13847.56;kontoauszuege/Jonas_2025-07.pdf
+2025-07-21;2025-07-21;202507-KARTE;HavelCard Abrechnung;Kartenabrechnung 07/2025 / Jonas;-272.72;13574.84;kontoauszuege/Jonas_2025-07.pdf
+2025-07-24;2025-07-24;202507-BAR;Geldautomat Potsdam;Bargeldauszahlung / Karte endet 2208;-180;13394.84;kontoauszuege/Jonas_2025-07.pdf
+2025-07-31;2025-07-31;202507-GEB-JONAS;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;13387.94;kontoauszuege/Jonas_2025-07.pdf
+2025-08-04;2025-08-04;202508-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;4700;18087.94;kontoauszuege/Jonas_2025-08.pdf
+2025-08-04;2025-08-04;202508-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;17137.94;kontoauszuege/Jonas_2025-08.pdf
+2025-08-04;2025-08-04;202508-J-M;Mara Bergmann;Für Jule und Oskar / vereinbarter Abschlag;-780;16357.94;kontoauszuege/Jonas_2025-08.pdf
+2025-08-04;2025-08-04;202508-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;15467.94;kontoauszuege/Jonas_2025-08.pdf
+2025-08-06;2025-08-06;202508-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;15087.94;kontoauszuege/Jonas_2025-08.pdf
+2025-08-12;2025-08-12;202508-KV;Krankenkasse;Freiwillige Kranken- und Pflegeversicherung;-612.44;14475.50;kontoauszuege/Jonas_2025-08.pdf
+2025-08-14;2025-08-14;202508-RV;Versorgungskasse;Altersvorsorge Vertrag RV-62241;-260;14215.50;kontoauszuege/Jonas_2025-08.pdf
+2025-08-19;2025-08-19;202508-KARTE;HavelCard Abrechnung;Kartenabrechnung 08/2025 / Jonas;-283.72;13931.78;kontoauszuege/Jonas_2025-08.pdf
+2025-08-25;2025-08-25;202508-BAR;Geldautomat Potsdam;Bargeldauszahlung / Karte endet 2208;-180;13751.78;kontoauszuege/Jonas_2025-08.pdf
+2025-09-01;2025-09-01;202508-GEB-JONAS;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;13744.88;kontoauszuege/Jonas_2025-09.pdf
+2025-09-02;2025-09-02;202509-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;4875;18619.88;kontoauszuege/Jonas_2025-09.pdf
+2025-09-03;2025-09-03;202509-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;17669.88;kontoauszuege/Jonas_2025-09.pdf
+2025-09-03;2025-09-03;202509-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;16779.88;kontoauszuege/Jonas_2025-09.pdf
+2025-09-04;2025-09-04;202509-J-M;Mara Bergmann;Für Jule und Oskar / vereinbarter Abschlag;-780;15999.88;kontoauszuege/Jonas_2025-09.pdf
+2025-09-08;2025-09-08;202509-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;15619.88;kontoauszuege/Jonas_2025-09.pdf
+2025-09-12;2025-09-12;202509-KV;Krankenkasse;Freiwillige Kranken- und Pflegeversicherung;-612.44;15007.44;kontoauszuege/Jonas_2025-09.pdf
+2025-09-15;2025-09-15;202509-RV;Versorgungskasse;Altersvorsorge Vertrag RV-62241;-260;14747.44;kontoauszuege/Jonas_2025-09.pdf
+2025-09-19;2025-09-19;202509-KARTE;HavelCard Abrechnung;Kartenabrechnung 09/2025 / Jonas;-294.72;14452.72;kontoauszuege/Jonas_2025-09.pdf
+2025-09-24;2025-09-24;202509-BAR;Geldautomat Potsdam;Bargeldauszahlung / Karte endet 2208;-180;14272.72;kontoauszuege/Jonas_2025-09.pdf
+2025-09-30;2025-09-30;202509-GEB-JONAS;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;14265.82;kontoauszuege/Jonas_2025-09.pdf
+2025-10-02;2025-10-02;202510-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;5050;19315.82;kontoauszuege/Jonas_2025-10.pdf
+2025-10-06;2025-10-06;202510-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;18365.82;kontoauszuege/Jonas_2025-10.pdf
+2025-10-06;2025-10-06;202510-J-M;Mara Bergmann;Für Jule und Oskar / vereinbarter Abschlag;-780;17585.82;kontoauszuege/Jonas_2025-10.pdf
+2025-10-06;2025-10-06;202510-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;16695.82;kontoauszuege/Jonas_2025-10.pdf
+2025-10-06;2025-10-06;202510-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;16315.82;kontoauszuege/Jonas_2025-10.pdf
+2025-10-13;2025-10-13;202510-KV;Krankenkasse;Freiwillige Kranken- und Pflegeversicherung;-612.44;15703.38;kontoauszuege/Jonas_2025-10.pdf
+2025-10-14;2025-10-14;202510-RV;Versorgungskasse;Altersvorsorge Vertrag RV-62241;-260;15443.38;kontoauszuege/Jonas_2025-10.pdf
+2025-10-20;2025-10-20;202510-KARTE;HavelCard Abrechnung;Kartenabrechnung 10/2025 / Jonas;-305.72;15137.66;kontoauszuege/Jonas_2025-10.pdf
+2025-10-24;2025-10-24;202510-BAR;Geldautomat Potsdam;Bargeldauszahlung / Karte endet 2208;-180;14957.66;kontoauszuege/Jonas_2025-10.pdf
+2025-10-31;2025-10-31;202510-GEB-JONAS;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;14950.76;kontoauszuege/Jonas_2025-10.pdf
+2025-11-03;2025-11-03;202511-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;5225;20175.76;kontoauszuege/Jonas_2025-11.pdf
+2025-11-03;2025-11-03;202511-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;19225.76;kontoauszuege/Jonas_2025-11.pdf
+2025-11-03;2025-11-03;202511-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;18335.76;kontoauszuege/Jonas_2025-11.pdf
+2025-11-04;2025-11-04;202511-J-M;Mara Bergmann;Für Jule und Oskar / vereinbarter Abschlag;-780;17555.76;kontoauszuege/Jonas_2025-11.pdf
+2025-11-06;2025-11-06;202511-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;17175.76;kontoauszuege/Jonas_2025-11.pdf
+2025-11-12;2025-11-12;202511-KV;Krankenkasse;Freiwillige Kranken- und Pflegeversicherung;-612.44;16563.32;kontoauszuege/Jonas_2025-11.pdf
+2025-11-14;2025-11-14;202511-RV;Versorgungskasse;Altersvorsorge Vertrag RV-62241;-260;16303.32;kontoauszuege/Jonas_2025-11.pdf
+2025-11-19;2025-11-19;202511-KARTE;HavelCard Abrechnung;Kartenabrechnung 11/2025 / Jonas;-316.72;15986.60;kontoauszuege/Jonas_2025-11.pdf
+2025-11-24;2025-11-24;202511-BAR;Geldautomat Potsdam;Bargeldauszahlung / Karte endet 2208;-180;15806.60;kontoauszuege/Jonas_2025-11.pdf
+2025-12-01;2025-12-01;202511-GEB-JONAS;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;15799.70;kontoauszuege/Jonas_2025-12.pdf
+2025-12-02;2025-12-02;202512-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;4700;20499.70;kontoauszuege/Jonas_2025-12.pdf
+2025-12-03;2025-12-03;202512-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;19549.70;kontoauszuege/Jonas_2025-12.pdf
+2025-12-03;2025-12-03;202512-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;18659.70;kontoauszuege/Jonas_2025-12.pdf
+2025-12-04;2025-12-04;202512-J-M;Mara Bergmann;Für Jule und Oskar / vereinbarter Abschlag;-780;17879.70;kontoauszuege/Jonas_2025-12.pdf
+2025-12-08;2025-12-08;202512-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;17499.70;kontoauszuege/Jonas_2025-12.pdf
+2025-12-12;2025-12-12;202512-KV;Krankenkasse;Freiwillige Kranken- und Pflegeversicherung;-612.44;16887.26;kontoauszuege/Jonas_2025-12.pdf
+2025-12-15;2025-12-15;202512-RV;Versorgungskasse;Altersvorsorge Vertrag RV-62241;-260;16627.26;kontoauszuege/Jonas_2025-12.pdf
+2025-12-19;2025-12-19;202512-KARTE;HavelCard Abrechnung;Kartenabrechnung 12/2025 / Jonas;-327.72;16299.54;kontoauszuege/Jonas_2025-12.pdf
+2025-12-24;2025-12-24;202512-BAR;Geldautomat Potsdam;Bargeldauszahlung / Karte endet 2208;-180;16119.54;kontoauszuege/Jonas_2025-12.pdf
+2025-12-31;2025-12-31;202512-GEB-JONAS;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;16112.64;kontoauszuege/Jonas_2025-12.pdf
+2026-01-02;2026-01-02;202601-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;4875;20987.64;kontoauszuege/Jonas_2026-01.pdf
+2026-01-05;2026-01-05;202601-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;20037.64;kontoauszuege/Jonas_2026-01.pdf
+2026-01-05;2026-01-05;202601-J-M;Mara Bergmann;Für Jule und Oskar / vereinbarter Abschlag;-780;19257.64;kontoauszuege/Jonas_2026-01.pdf
+2026-01-05;2026-01-05;202601-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;18367.64;kontoauszuege/Jonas_2026-01.pdf
+2026-01-06;2026-01-06;202601-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;17987.64;kontoauszuege/Jonas_2026-01.pdf
+2026-01-12;2026-01-12;202601-KV;Krankenkasse;Freiwillige Kranken- und Pflegeversicherung;-612.44;17375.20;kontoauszuege/Jonas_2026-01.pdf
+2026-01-14;2026-01-14;202601-RV;Versorgungskasse;Altersvorsorge Vertrag RV-62241;-260;17115.20;kontoauszuege/Jonas_2026-01.pdf
+2026-01-19;2026-01-19;202601-KARTE;HavelCard Abrechnung;Kartenabrechnung 01/2026 / Jonas;-206.72;16908.48;kontoauszuege/Jonas_2026-01.pdf
+2026-01-26;2026-01-26;202601-BAR;Geldautomat Potsdam;Bargeldauszahlung / Karte endet 2208;-180;16728.48;kontoauszuege/Jonas_2026-01.pdf
+2026-02-02;2026-02-02;202601-GEB-JONAS;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;16721.58;kontoauszuege/Jonas_2026-02.pdf
+2026-02-02;2026-02-02;202602-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;5050;21771.58;kontoauszuege/Jonas_2026-02.pdf
+2026-02-03;2026-02-03;202602-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;20821.58;kontoauszuege/Jonas_2026-02.pdf
+2026-02-03;2026-02-03;202602-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;19931.58;kontoauszuege/Jonas_2026-02.pdf
+2026-02-04;2026-02-04;202602-J-M;Mara Bergmann;Für Jule und Oskar / vereinbarter Abschlag;-780;19151.58;kontoauszuege/Jonas_2026-02.pdf
+2026-02-06;2026-02-06;202602-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;18771.58;kontoauszuege/Jonas_2026-02.pdf
+2026-02-12;2026-02-12;202602-KV;Krankenkasse;Freiwillige Kranken- und Pflegeversicherung;-612.44;18159.14;kontoauszuege/Jonas_2026-02.pdf
+2026-02-16;2026-02-16;202602-RV;Versorgungskasse;Altersvorsorge Vertrag RV-62241;-260;17899.14;kontoauszuege/Jonas_2026-02.pdf
+2026-02-19;2026-02-19;202602-KARTE;HavelCard Abrechnung;Kartenabrechnung 02/2026 / Jonas;-217.72;17681.42;kontoauszuege/Jonas_2026-02.pdf
+2026-02-24;2026-02-24;202602-BAR;Geldautomat Potsdam;Bargeldauszahlung / Karte endet 2208;-180;17501.42;kontoauszuege/Jonas_2026-02.pdf
+2026-03-02;2026-03-02;202602-GEB-JONAS;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;17494.52;kontoauszuege/Jonas_2026-03.pdf
+2026-03-02;2026-03-02;202603-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;5225;22719.52;kontoauszuege/Jonas_2026-03.pdf
+2026-03-03;2026-03-03;202603-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;21769.52;kontoauszuege/Jonas_2026-03.pdf
+2026-03-03;2026-03-03;202603-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;20879.52;kontoauszuege/Jonas_2026-03.pdf
+2026-03-04;2026-03-04;202603-J-M;Mara Bergmann;Für Jule und Oskar / vereinbarter Abschlag;-780;20099.52;kontoauszuege/Jonas_2026-03.pdf
+2026-03-06;2026-03-06;202603-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;19719.52;kontoauszuege/Jonas_2026-03.pdf
+2026-03-12;2026-03-12;202603-KV;Krankenkasse;Freiwillige Kranken- und Pflegeversicherung;-612.44;19107.08;kontoauszuege/Jonas_2026-03.pdf
+2026-03-16;2026-03-16;202603-RV;Versorgungskasse;Altersvorsorge Vertrag RV-62241;-260;18847.08;kontoauszuege/Jonas_2026-03.pdf
+2026-03-19;2026-03-19;202603-KARTE;HavelCard Abrechnung;Kartenabrechnung 03/2026 / Jonas;-228.72;18618.36;kontoauszuege/Jonas_2026-03.pdf
+2026-03-24;2026-03-24;202603-BAR;Geldautomat Potsdam;Bargeldauszahlung / Karte endet 2208;-180;18438.36;kontoauszuege/Jonas_2026-03.pdf
+2026-03-31;2026-03-31;202603-GEB-JONAS;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;18431.46;kontoauszuege/Jonas_2026-03.pdf
+2026-04-02;2026-04-02;202604-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;4700;23131.46;kontoauszuege/Jonas_2026-04.pdf
+2026-04-07;2026-04-07;202604-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;22181.46;kontoauszuege/Jonas_2026-04.pdf
+2026-04-07;2026-04-07;202604-J-M;Mara Bergmann;Für Jule und Oskar / vereinbarter Abschlag;-780;21401.46;kontoauszuege/Jonas_2026-04.pdf
+2026-04-07;2026-04-07;202604-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;20511.46;kontoauszuege/Jonas_2026-04.pdf
+2026-04-07;2026-04-07;202604-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;20131.46;kontoauszuege/Jonas_2026-04.pdf
+2026-04-13;2026-04-13;202604-KV;Krankenkasse;Freiwillige Kranken- und Pflegeversicherung;-612.44;19519.02;kontoauszuege/Jonas_2026-04.pdf
+2026-04-14;2026-04-14;202604-RV;Versorgungskasse;Altersvorsorge Vertrag RV-62241;-260;19259.02;kontoauszuege/Jonas_2026-04.pdf
+2026-04-20;2026-04-20;202604-KARTE;HavelCard Abrechnung;Kartenabrechnung 04/2026 / Jonas;-239.72;19019.30;kontoauszuege/Jonas_2026-04.pdf
+2026-04-24;2026-04-24;202604-BAR;Geldautomat Potsdam;Bargeldauszahlung / Karte endet 2208;-180;18839.30;kontoauszuege/Jonas_2026-04.pdf
+2026-04-30;2026-04-30;202604-GEB-JONAS;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;18832.40;kontoauszuege/Jonas_2026-04.pdf
+2026-05-04;2026-05-04;202605-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;4875;23707.40;kontoauszuege/Jonas_2026-05.pdf
+2026-05-04;2026-05-04;202605-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;22757.40;kontoauszuege/Jonas_2026-05.pdf
+2026-05-04;2026-05-04;202605-J-M;Mara Bergmann;Für Jule und Oskar / vereinbarter Abschlag;-780;21977.40;kontoauszuege/Jonas_2026-05.pdf
+2026-05-04;2026-05-04;202605-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;21087.40;kontoauszuege/Jonas_2026-05.pdf
+2026-05-06;2026-05-06;202605-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;20707.40;kontoauszuege/Jonas_2026-05.pdf
+2026-05-12;2026-05-12;202605-KV;Krankenkasse;Freiwillige Kranken- und Pflegeversicherung;-612.44;20094.96;kontoauszuege/Jonas_2026-05.pdf
+2026-05-15;2026-05-15;202605-RV;Versorgungskasse;Altersvorsorge Vertrag RV-62241;-260;19834.96;kontoauszuege/Jonas_2026-05.pdf
+2026-05-19;2026-05-19;202605-KARTE;HavelCard Abrechnung;Kartenabrechnung 05/2026 / Jonas;-250.72;19584.24;kontoauszuege/Jonas_2026-05.pdf
+2026-05-26;2026-05-26;202605-BAR;Geldautomat Potsdam;Bargeldauszahlung / Karte endet 2208;-180;19404.24;kontoauszuege/Jonas_2026-05.pdf
+2026-06-01;2026-06-01;202605-GEB-JONAS;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;19397.34;kontoauszuege/Jonas_2026-06.pdf
+2026-06-02;2026-06-02;202606-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;5050;24447.34;kontoauszuege/Jonas_2026-06.pdf
+2026-06-03;2026-06-03;202606-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;23497.34;kontoauszuege/Jonas_2026-06.pdf
+2026-06-03;2026-06-03;202606-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;22607.34;kontoauszuege/Jonas_2026-06.pdf
+2026-06-04;2026-06-04;202606-J-M;Mara Bergmann;Für Jule und Oskar / vereinbarter Abschlag;-780;21827.34;kontoauszuege/Jonas_2026-06.pdf
+2026-06-08;2026-06-08;202606-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;21447.34;kontoauszuege/Jonas_2026-06.pdf
+2026-06-10;2026-06-10;KM-26-610;Havelmetall Edelmetalle;Ankauf KM-26-610 / eine Münze;3120;24567.34;kontoauszuege/Jonas_2026-06.pdf
+2026-06-12;2026-06-12;202606-KV;Krankenkasse;Freiwillige Kranken- und Pflegeversicherung;-612.44;23954.90;kontoauszuege/Jonas_2026-06.pdf
+2026-06-15;2026-06-15;202606-RV;Versorgungskasse;Altersvorsorge Vertrag RV-62241;-260;23694.90;kontoauszuege/Jonas_2026-06.pdf
+2026-06-16;2026-06-16;KK-260615-204;KontoKontor Digital GmbH;Auszahlung Verkauf KK-260615-204;1874.36;25569.26;kontoauszuege/Jonas_2026-06.pdf
+2026-06-19;2026-06-19;202606-KARTE;HavelCard Abrechnung;Kartenabrechnung 06/2026 / Jonas;-261.72;25307.54;kontoauszuege/Jonas_2026-06.pdf
+2026-06-24;2026-06-24;202606-BAR;Geldautomat Potsdam;Bargeldauszahlung / Karte endet 2208;-180;25127.54;kontoauszuege/Jonas_2026-06.pdf
+2026-06-30;2026-06-30;202606-GEB-JONAS;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;25120.64;kontoauszuege/Jonas_2026-06.pdf
+2026-07-02;2026-07-02;202607-ENTNAHME;Bergmann Licht & Planung;Privatentnahme Geschäftskonto 7712;5225;30345.64;kontoauszuege/Jonas_2026-07.pdf
+2026-07-03;2026-07-03;202607-J-H;Mara und Jonas Bergmann;Haus und Kinder / Dauerauftrag;-950;29395.64;kontoauszuege/Jonas_2026-07.pdf
+2026-07-03;2026-07-03;202607-MIETE;Sven Hagedorn;Miete Feuerbachstraße 9;-890;28505.64;kontoauszuege/Jonas_2026-07.pdf
+2026-07-06;2026-07-06;202607-J-M;Mara Bergmann;Für Jule und Oskar / vereinbarter Abschlag;-780;27725.64;kontoauszuege/Jonas_2026-07.pdf
+2026-07-06;2026-07-06;202607-OMA;Ursula Bergmann;Hilfe Haushalt und Pflege / Dauerauftrag;-380;27345.64;kontoauszuege/Jonas_2026-07.pdf

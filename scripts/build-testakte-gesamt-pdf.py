@@ -129,6 +129,7 @@ s_meta = ParagraphStyle(
     fontName=FONT_REG, fontSize=9, leading=12, textColor=MUTED,
     spaceAfter=4,
 )
+s_record = ParagraphStyle("Record", parent=s_meta, textColor=black, spaceAfter=2)
 s_partlabel = ParagraphStyle(
     "PartLabel", parent=styles["BodyText"],
     fontName=FONT_BOLD, fontSize=11, leading=14, textColor=MUTED,
@@ -588,6 +589,7 @@ def _render_table(rows: list, header: bool = False) -> list:
         out = []
         header_row = rows[0] if header else None
         body_rows = rows[1:] if header else rows
+        compact_record = record_layout and max_cell_len <= 160 and max_cols_in_table <= 12
         for ri, r in enumerate(body_rows):
             record = []
             if header_row:
@@ -596,6 +598,10 @@ def _render_table(rows: list, header: bool = False) -> list:
                     if not cell.strip():
                         continue
                     label = header_row[ci] if ci < len(header_row) else f"Spalte {ci+1}"
+                    if compact_record:
+                        prefix = f"<b>{escape(label)}:</b> " if label.strip() else ""
+                        record.append(Paragraph(prefix + escape(cell), s_record))
+                        continue
                     if label.strip():
                         record.append(Paragraph(f"<b>{escape(label)}</b>", s_meta))
                     for chunk in _split_long_text(cell):

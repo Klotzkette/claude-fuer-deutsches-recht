@@ -1,0 +1,139 @@
+Buchungstag;Valuta;Referenz;Auftraggeber_Empfänger;Buchungstext;Betrag_EUR;Saldo_EUR;Belegdatei
+2025-03-31;2025-03-31;VORTRAG;Havelbogen Bank eG;Saldovortrag 31.03.2025;0.00;15180.45;belege/Saldenbestaetigung_2025-04-01.pdf
+2025-04-02;2025-04-02;202504-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;12880.45;kontoauszuege/Mara_2025-04.pdf
+2025-04-07;2025-04-07;202504-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;12280.45;kontoauszuege/Mara_2025-04.pdf
+2025-04-09;2025-04-09;202504-DEP;Depotservice Havelbogen;Fondssparplan D-8821 / Monatsrate;-300;11980.45;kontoauszuege/Mara_2025-04.pdf
+2025-04-11;2025-04-11;202504-KG;Familienkasse;Kindergeld Jule und Oskar;510;12490.45;kontoauszuege/Mara_2025-04.pdf
+2025-04-16;2025-04-16;202504-KARTE;HavelCard Abrechnung;Kartenabrechnung 04/2025 / Mara;-243.38;12247.07;kontoauszuege/Mara_2025-04.pdf
+2025-04-22;2025-04-22;202504-KFZ;Waldsee Versicherung;Pkw P-MB 418 / Monatsbeitrag;-74.80;12172.27;kontoauszuege/Mara_2025-04.pdf
+2025-04-28;2025-04-28;202504-ENTGELT;Land Brandenburg;Entgelt Personalnummer 048216;4385.62;16557.89;kontoauszuege/Mara_2025-04.pdf
+2025-04-30;2025-04-30;202504-GEB-MARA;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;16550.99;kontoauszuege/Mara_2025-04.pdf
+2025-05-02;2025-05-02;202505-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;14250.99;kontoauszuege/Mara_2025-05.pdf
+2025-05-05;2025-05-05;202505-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;13650.99;kontoauszuege/Mara_2025-05.pdf
+2025-05-09;2025-05-09;202505-DEP;Depotservice Havelbogen;Fondssparplan D-8821 / Monatsrate;-300;13350.99;kontoauszuege/Mara_2025-05.pdf
+2025-05-12;2025-05-12;202505-KG;Familienkasse;Kindergeld Jule und Oskar;510;13860.99;kontoauszuege/Mara_2025-05.pdf
+2025-05-16;2025-05-16;202505-KARTE;HavelCard Abrechnung;Kartenabrechnung 05/2025 / Mara;-250.38;13610.61;kontoauszuege/Mara_2025-05.pdf
+2025-05-21;2025-05-21;202505-KFZ;Waldsee Versicherung;Pkw P-MB 418 / Monatsbeitrag;-74.80;13535.81;kontoauszuege/Mara_2025-05.pdf
+2025-05-28;2025-05-28;202505-ENTGELT;Land Brandenburg;Entgelt Personalnummer 048216;4385.62;17921.43;kontoauszuege/Mara_2025-05.pdf
+2025-06-02;2025-06-02;202505-GEB-MARA;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;17914.53;kontoauszuege/Mara_2025-06.pdf
+2025-06-02;2025-06-02;202506-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;15614.53;kontoauszuege/Mara_2025-06.pdf
+2025-06-04;2025-06-04;202506-J-M;Jonas Bergmann;Für Jule und Oskar / vereinbarter Abschlag;780;16394.53;kontoauszuege/Mara_2025-06.pdf
+2025-06-05;2025-06-05;202506-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;15794.53;kontoauszuege/Mara_2025-06.pdf
+2025-06-10;2025-06-10;202506-DEP;Depotservice Havelbogen;Fondssparplan D-8821 / Monatsrate;-300;15494.53;kontoauszuege/Mara_2025-06.pdf
+2025-06-11;2025-06-11;202506-KG;Familienkasse;Kindergeld Jule und Oskar;510;16004.53;kontoauszuege/Mara_2025-06.pdf
+2025-06-16;2025-06-16;202506-KARTE;HavelCard Abrechnung;Kartenabrechnung 06/2025 / Mara;-257.38;15747.15;kontoauszuege/Mara_2025-06.pdf
+2025-06-23;2025-06-23;202506-KFZ;Waldsee Versicherung;Pkw P-MB 418 / Monatsbeitrag;-74.80;15672.35;kontoauszuege/Mara_2025-06.pdf
+2025-06-30;2025-06-30;202506-ENTGELT;Land Brandenburg;Entgelt Personalnummer 048216;4385.62;20057.97;kontoauszuege/Mara_2025-06.pdf
+2025-06-30;2025-06-30;202506-GEB-MARA;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;20051.07;kontoauszuege/Mara_2025-06.pdf
+2025-07-02;2025-07-02;202507-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;17751.07;kontoauszuege/Mara_2025-07.pdf
+2025-07-04;2025-07-04;202507-J-M;Jonas Bergmann;Für Jule und Oskar / vereinbarter Abschlag;780;18531.07;kontoauszuege/Mara_2025-07.pdf
+2025-07-07;2025-07-07;202507-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;17931.07;kontoauszuege/Mara_2025-07.pdf
+2025-07-09;2025-07-09;202507-DEP;Depotservice Havelbogen;Fondssparplan D-8821 / Monatsrate;-300;17631.07;kontoauszuege/Mara_2025-07.pdf
+2025-07-11;2025-07-11;202507-KG;Familienkasse;Kindergeld Jule und Oskar;510;18141.07;kontoauszuege/Mara_2025-07.pdf
+2025-07-16;2025-07-16;202507-KARTE;HavelCard Abrechnung;Kartenabrechnung 07/2025 / Mara;-264.38;17876.69;kontoauszuege/Mara_2025-07.pdf
+2025-07-21;2025-07-21;202507-KFZ;Waldsee Versicherung;Pkw P-MB 418 / Monatsbeitrag;-74.80;17801.89;kontoauszuege/Mara_2025-07.pdf
+2025-07-28;2025-07-28;202507-ENTGELT;Land Brandenburg;Entgelt Personalnummer 048216;4385.62;22187.51;kontoauszuege/Mara_2025-07.pdf
+2025-07-31;2025-07-31;202507-GEB-MARA;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;22180.61;kontoauszuege/Mara_2025-07.pdf
+2025-08-04;2025-08-04;202508-J-M;Jonas Bergmann;Für Jule und Oskar / vereinbarter Abschlag;780;22960.61;kontoauszuege/Mara_2025-08.pdf
+2025-08-04;2025-08-04;202508-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;20660.61;kontoauszuege/Mara_2025-08.pdf
+2025-08-05;2025-08-05;202508-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;20060.61;kontoauszuege/Mara_2025-08.pdf
+2025-08-11;2025-08-11;202508-DEP;Depotservice Havelbogen;Fondssparplan D-8821 / Monatsrate;-300;19760.61;kontoauszuege/Mara_2025-08.pdf
+2025-08-11;2025-08-11;202508-KG;Familienkasse;Kindergeld Jule und Oskar;510;20270.61;kontoauszuege/Mara_2025-08.pdf
+2025-08-18;2025-08-18;202508-KARTE;HavelCard Abrechnung;Kartenabrechnung 08/2025 / Mara;-271.38;19999.23;kontoauszuege/Mara_2025-08.pdf
+2025-08-21;2025-08-21;202508-KFZ;Waldsee Versicherung;Pkw P-MB 418 / Monatsbeitrag;-74.80;19924.43;kontoauszuege/Mara_2025-08.pdf
+2025-08-28;2025-08-28;202508-ENTGELT;Land Brandenburg;Entgelt Personalnummer 048216;4385.62;24310.05;kontoauszuege/Mara_2025-08.pdf
+2025-09-01;2025-09-01;202508-GEB-MARA;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;24303.15;kontoauszuege/Mara_2025-09.pdf
+2025-09-02;2025-09-02;202509-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;22003.15;kontoauszuege/Mara_2025-09.pdf
+2025-09-04;2025-09-04;202509-J-M;Jonas Bergmann;Für Jule und Oskar / vereinbarter Abschlag;780;22783.15;kontoauszuege/Mara_2025-09.pdf
+2025-09-05;2025-09-05;202509-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;22183.15;kontoauszuege/Mara_2025-09.pdf
+2025-09-09;2025-09-09;202509-DEP;Depotservice Havelbogen;Fondssparplan D-8821 / Monatsrate;-300;21883.15;kontoauszuege/Mara_2025-09.pdf
+2025-09-11;2025-09-11;202509-KG;Familienkasse;Kindergeld Jule und Oskar;510;22393.15;kontoauszuege/Mara_2025-09.pdf
+2025-09-16;2025-09-16;202509-KARTE;HavelCard Abrechnung;Kartenabrechnung 09/2025 / Mara;-278.38;22114.77;kontoauszuege/Mara_2025-09.pdf
+2025-09-22;2025-09-22;202509-KFZ;Waldsee Versicherung;Pkw P-MB 418 / Monatsbeitrag;-74.80;22039.97;kontoauszuege/Mara_2025-09.pdf
+2025-09-29;2025-09-29;202509-ENTGELT;Land Brandenburg;Entgelt Personalnummer 048216;4385.62;26425.59;kontoauszuege/Mara_2025-09.pdf
+2025-09-30;2025-09-30;202509-GEB-MARA;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;26418.69;kontoauszuege/Mara_2025-09.pdf
+2025-10-02;2025-10-02;202510-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;24118.69;kontoauszuege/Mara_2025-10.pdf
+2025-10-06;2025-10-06;202510-J-M;Jonas Bergmann;Für Jule und Oskar / vereinbarter Abschlag;780;24898.69;kontoauszuege/Mara_2025-10.pdf
+2025-10-06;2025-10-06;202510-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;24298.69;kontoauszuege/Mara_2025-10.pdf
+2025-10-09;2025-10-09;202510-DEP;Depotservice Havelbogen;Fondssparplan D-8821 / Monatsrate;-300;23998.69;kontoauszuege/Mara_2025-10.pdf
+2025-10-13;2025-10-13;202510-KG;Familienkasse;Kindergeld Jule und Oskar;510;24508.69;kontoauszuege/Mara_2025-10.pdf
+2025-10-16;2025-10-16;202510-KARTE;HavelCard Abrechnung;Kartenabrechnung 10/2025 / Mara;-285.38;24223.31;kontoauszuege/Mara_2025-10.pdf
+2025-10-21;2025-10-21;202510-KFZ;Waldsee Versicherung;Pkw P-MB 418 / Monatsbeitrag;-74.80;24148.51;kontoauszuege/Mara_2025-10.pdf
+2025-10-28;2025-10-28;202510-ENTGELT;Land Brandenburg;Entgelt Personalnummer 048216;4385.62;28534.13;kontoauszuege/Mara_2025-10.pdf
+2025-10-31;2025-10-31;202510-GEB-MARA;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;28527.23;kontoauszuege/Mara_2025-10.pdf
+2025-11-03;2025-11-03;202511-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;26227.23;kontoauszuege/Mara_2025-11.pdf
+2025-11-04;2025-11-04;202511-J-M;Jonas Bergmann;Für Jule und Oskar / vereinbarter Abschlag;780;27007.23;kontoauszuege/Mara_2025-11.pdf
+2025-11-05;2025-11-05;202511-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;26407.23;kontoauszuege/Mara_2025-11.pdf
+2025-11-10;2025-11-10;202511-DEP;Depotservice Havelbogen;Fondssparplan D-8821 / Monatsrate;-300;26107.23;kontoauszuege/Mara_2025-11.pdf
+2025-11-11;2025-11-11;202511-KG;Familienkasse;Kindergeld Jule und Oskar;510;26617.23;kontoauszuege/Mara_2025-11.pdf
+2025-11-17;2025-11-17;202511-KARTE;HavelCard Abrechnung;Kartenabrechnung 11/2025 / Mara;-292.38;26324.85;kontoauszuege/Mara_2025-11.pdf
+2025-11-21;2025-11-21;202511-KFZ;Waldsee Versicherung;Pkw P-MB 418 / Monatsbeitrag;-74.80;26250.05;kontoauszuege/Mara_2025-11.pdf
+2025-11-28;2025-11-28;202511-ENTGELT;Land Brandenburg;Entgelt Personalnummer 048216;4385.62;30635.67;kontoauszuege/Mara_2025-11.pdf
+2025-12-01;2025-12-01;202511-GEB-MARA;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;30628.77;kontoauszuege/Mara_2025-12.pdf
+2025-12-02;2025-12-02;202512-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;28328.77;kontoauszuege/Mara_2025-12.pdf
+2025-12-04;2025-12-04;202512-J-M;Jonas Bergmann;Für Jule und Oskar / vereinbarter Abschlag;780;29108.77;kontoauszuege/Mara_2025-12.pdf
+2025-12-05;2025-12-05;202512-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;28508.77;kontoauszuege/Mara_2025-12.pdf
+2025-12-09;2025-12-09;202512-DEP;Depotservice Havelbogen;Fondssparplan D-8821 / Monatsrate;-300;28208.77;kontoauszuege/Mara_2025-12.pdf
+2025-12-11;2025-12-11;202512-KG;Familienkasse;Kindergeld Jule und Oskar;510;28718.77;kontoauszuege/Mara_2025-12.pdf
+2025-12-16;2025-12-16;202512-KARTE;HavelCard Abrechnung;Kartenabrechnung 12/2025 / Mara;-299.38;28419.39;kontoauszuege/Mara_2025-12.pdf
+2025-12-22;2025-12-22;202512-KFZ;Waldsee Versicherung;Pkw P-MB 418 / Monatsbeitrag;-74.80;28344.59;kontoauszuege/Mara_2025-12.pdf
+2025-12-29;2025-12-29;202512-ENTGELT;Land Brandenburg;Entgelt Personalnummer 048216;4385.62;32730.21;kontoauszuege/Mara_2025-12.pdf
+2025-12-31;2025-12-31;202512-GEB-MARA;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;32723.31;kontoauszuege/Mara_2025-12.pdf
+2026-01-02;2026-01-02;202601-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;30423.31;kontoauszuege/Mara_2026-01.pdf
+2026-01-05;2026-01-05;202601-J-M;Jonas Bergmann;Für Jule und Oskar / vereinbarter Abschlag;780;31203.31;kontoauszuege/Mara_2026-01.pdf
+2026-01-05;2026-01-05;202601-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;30603.31;kontoauszuege/Mara_2026-01.pdf
+2026-01-09;2026-01-09;202601-DEP;Depotservice Havelbogen;Fondssparplan D-8821 / Monatsrate;-300;30303.31;kontoauszuege/Mara_2026-01.pdf
+2026-01-12;2026-01-12;202601-KG;Familienkasse;Kindergeld Jule und Oskar;518;30821.31;kontoauszuege/Mara_2026-01.pdf
+2026-01-16;2026-01-16;202601-KARTE;HavelCard Abrechnung;Kartenabrechnung 01/2026 / Mara;-222.38;30598.93;kontoauszuege/Mara_2026-01.pdf
+2026-01-21;2026-01-21;202601-KFZ;Waldsee Versicherung;Pkw P-MB 418 / Monatsbeitrag;-74.80;30524.13;kontoauszuege/Mara_2026-01.pdf
+2026-01-28;2026-01-28;202601-ENTGELT;Land Brandenburg;Entgelt Personalnummer 048216;4385.62;34909.75;kontoauszuege/Mara_2026-01.pdf
+2026-02-02;2026-02-02;202601-GEB-MARA;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;34902.85;kontoauszuege/Mara_2026-02.pdf
+2026-02-02;2026-02-02;202602-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;32602.85;kontoauszuege/Mara_2026-02.pdf
+2026-02-04;2026-02-04;202602-J-M;Jonas Bergmann;Für Jule und Oskar / vereinbarter Abschlag;780;33382.85;kontoauszuege/Mara_2026-02.pdf
+2026-02-05;2026-02-05;202602-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;32782.85;kontoauszuege/Mara_2026-02.pdf
+2026-02-09;2026-02-09;202602-DEP;Depotservice Havelbogen;Fondssparplan D-8821 / Monatsrate;-300;32482.85;kontoauszuege/Mara_2026-02.pdf
+2026-02-11;2026-02-11;202602-KG;Familienkasse;Kindergeld Jule und Oskar;518;33000.85;kontoauszuege/Mara_2026-02.pdf
+2026-02-16;2026-02-16;202602-KARTE;HavelCard Abrechnung;Kartenabrechnung 02/2026 / Mara;-229.38;32771.47;kontoauszuege/Mara_2026-02.pdf
+2026-02-23;2026-02-23;202602-KFZ;Waldsee Versicherung;Pkw P-MB 418 / Monatsbeitrag;-74.80;32696.67;kontoauszuege/Mara_2026-02.pdf
+2026-03-02;2026-03-02;202602-ENTGELT;Land Brandenburg;Entgelt Personalnummer 048216;4385.62;37082.29;kontoauszuege/Mara_2026-03.pdf
+2026-03-02;2026-03-02;202602-GEB-MARA;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;37075.39;kontoauszuege/Mara_2026-03.pdf
+2026-03-02;2026-03-02;202603-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;34775.39;kontoauszuege/Mara_2026-03.pdf
+2026-03-04;2026-03-04;202603-J-M;Jonas Bergmann;Für Jule und Oskar / vereinbarter Abschlag;780;35555.39;kontoauszuege/Mara_2026-03.pdf
+2026-03-05;2026-03-05;202603-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;34955.39;kontoauszuege/Mara_2026-03.pdf
+2026-03-09;2026-03-09;202603-DEP;Depotservice Havelbogen;Fondssparplan D-8821 / Monatsrate;-300;34655.39;kontoauszuege/Mara_2026-03.pdf
+2026-03-11;2026-03-11;202603-KG;Familienkasse;Kindergeld Jule und Oskar;518;35173.39;kontoauszuege/Mara_2026-03.pdf
+2026-03-16;2026-03-16;202603-KARTE;HavelCard Abrechnung;Kartenabrechnung 03/2026 / Mara;-236.38;34937.01;kontoauszuege/Mara_2026-03.pdf
+2026-03-23;2026-03-23;202603-KFZ;Waldsee Versicherung;Pkw P-MB 418 / Monatsbeitrag;-74.80;34862.21;kontoauszuege/Mara_2026-03.pdf
+2026-03-30;2026-03-30;202603-ENTGELT;Land Brandenburg;Entgelt Personalnummer 048216;4385.62;39247.83;kontoauszuege/Mara_2026-03.pdf
+2026-03-31;2026-03-31;202603-GEB-MARA;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;39240.93;kontoauszuege/Mara_2026-03.pdf
+2026-04-02;2026-04-02;202604-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;36940.93;kontoauszuege/Mara_2026-04.pdf
+2026-04-07;2026-04-07;202604-J-M;Jonas Bergmann;Für Jule und Oskar / vereinbarter Abschlag;780;37720.93;kontoauszuege/Mara_2026-04.pdf
+2026-04-07;2026-04-07;202604-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;37120.93;kontoauszuege/Mara_2026-04.pdf
+2026-04-09;2026-04-09;202604-DEP;Depotservice Havelbogen;Fondssparplan D-8821 / Monatsrate;-300;36820.93;kontoauszuege/Mara_2026-04.pdf
+2026-04-13;2026-04-13;202604-KG;Familienkasse;Kindergeld Jule und Oskar;518;37338.93;kontoauszuege/Mara_2026-04.pdf
+2026-04-16;2026-04-16;202604-KARTE;HavelCard Abrechnung;Kartenabrechnung 04/2026 / Mara;-243.38;37095.55;kontoauszuege/Mara_2026-04.pdf
+2026-04-21;2026-04-21;202604-KFZ;Waldsee Versicherung;Pkw P-MB 418 / Monatsbeitrag;-74.80;37020.75;kontoauszuege/Mara_2026-04.pdf
+2026-04-28;2026-04-28;202604-ENTGELT;Land Brandenburg;Entgelt Personalnummer 048216;4385.62;41406.37;kontoauszuege/Mara_2026-04.pdf
+2026-04-30;2026-04-30;202604-GEB-MARA;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;41399.47;kontoauszuege/Mara_2026-04.pdf
+2026-05-04;2026-05-04;202605-J-M;Jonas Bergmann;Für Jule und Oskar / vereinbarter Abschlag;780;42179.47;kontoauszuege/Mara_2026-05.pdf
+2026-05-04;2026-05-04;202605-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;39879.47;kontoauszuege/Mara_2026-05.pdf
+2026-05-05;2026-05-05;202605-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;39279.47;kontoauszuege/Mara_2026-05.pdf
+2026-05-11;2026-05-11;202605-DEP;Depotservice Havelbogen;Fondssparplan D-8821 / Monatsrate;-300;38979.47;kontoauszuege/Mara_2026-05.pdf
+2026-05-11;2026-05-11;202605-KG;Familienkasse;Kindergeld Jule und Oskar;518;39497.47;kontoauszuege/Mara_2026-05.pdf
+2026-05-18;2026-05-18;202605-KARTE;HavelCard Abrechnung;Kartenabrechnung 05/2026 / Mara;-250.38;39247.09;kontoauszuege/Mara_2026-05.pdf
+2026-05-18;2026-05-18;SONDER-202605;Mara und Jonas Bergmann;Sondertilgung Haus / Übertrag aus Rücklage;-3500;35747.09;kontoauszuege/Mara_2026-05.pdf
+2026-05-21;2026-05-21;202605-KFZ;Waldsee Versicherung;Pkw P-MB 418 / Monatsbeitrag;-74.80;35672.29;kontoauszuege/Mara_2026-05.pdf
+2026-05-28;2026-05-28;202605-ENTGELT;Land Brandenburg;Entgelt Personalnummer 048216;4385.62;40057.91;kontoauszuege/Mara_2026-05.pdf
+2026-06-01;2026-06-01;202605-GEB-MARA;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;40051.01;kontoauszuege/Mara_2026-06.pdf
+2026-06-02;2026-06-02;202606-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;37751.01;kontoauszuege/Mara_2026-06.pdf
+2026-06-04;2026-06-04;202606-J-M;Jonas Bergmann;Für Jule und Oskar / vereinbarter Abschlag;780;38531.01;kontoauszuege/Mara_2026-06.pdf
+2026-06-05;2026-06-05;202606-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;37931.01;kontoauszuege/Mara_2026-06.pdf
+2026-06-09;2026-06-09;202606-DEP;Depotservice Havelbogen;Fondssparplan D-8821 / Monatsrate;-300;37631.01;kontoauszuege/Mara_2026-06.pdf
+2026-06-11;2026-06-11;202606-KG;Familienkasse;Kindergeld Jule und Oskar;518;38149.01;kontoauszuege/Mara_2026-06.pdf
+2026-06-16;2026-06-16;202606-KARTE;HavelCard Abrechnung;Kartenabrechnung 06/2026 / Mara;-257.38;37891.63;kontoauszuege/Mara_2026-06.pdf
+2026-06-22;2026-06-22;202606-KFZ;Waldsee Versicherung;Pkw P-MB 418 / Monatsbeitrag;-74.80;37816.83;kontoauszuege/Mara_2026-06.pdf
+2026-06-29;2026-06-29;202606-ENTGELT;Land Brandenburg;Entgelt Personalnummer 048216;4385.62;42202.45;kontoauszuege/Mara_2026-06.pdf
+2026-06-30;2026-06-30;202606-GEB-MARA;Havelbogen Bank eG;Kontoführung / Monatsentgelt;-6.90;42195.55;kontoauszuege/Mara_2026-06.pdf
+2026-07-02;2026-07-02;202607-M-H;Mara und Jonas Bergmann;Haushaltskonto / laufende Ausgaben;-2300;39895.55;kontoauszuege/Mara_2026-07.pdf
+2026-07-06;2026-07-06;202607-J-M;Jonas Bergmann;Für Jule und Oskar / vereinbarter Abschlag;780;40675.55;kontoauszuege/Mara_2026-07.pdf
+2026-07-06;2026-07-06;202607-TG;Havelbogen Bank eG;Sparübertrag Tagesgeld 4421;-600;40075.55;kontoauszuege/Mara_2026-07.pdf
