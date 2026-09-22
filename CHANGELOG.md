@@ -1,3 +1,17 @@
+# v444.7.1 - Weitere Belege aus dem Schöneberger Verwaltungsalltag
+
+## 1. Rechnungen und zusammenhängende Vorgänge
+
+Die beiden Betriebskostenakten enthalten 33 weitere Quelldokumente: 15 Rechnungs- und Stornobelege, zwei Laborberichte, einen Fahrrad-Übernahmenachweis, einen Montagebericht, acht E-Mails, zwei Chatexporte und vier CSV-Register. Gegenstände sind Fahrradtransport und Lagerung, wiederholte Hofräumung, Legionellenuntersuchung, Probenahmearmatur, Dachrinnenreinigung, Restaurantfilter und Dachabluft sowie gemeinsame und private Ladeinfrastruktur.
+
+Der Restaurantvorgang betrifft ein getrenntes Nachbarobjekt. Originalrechnung, vollständiges Storno und berichtigte Rechnung bleiben einzeln erhalten. Die Ladeinfrastruktur folgt den vorhandenen Angeboten erst im Jahr 2026. Historisch versandte Abrechnungen und die beiden ursprünglichen Excel-Arbeitsmappen werden nicht überschrieben; Belegeingang und Zahlungsvorgänge des Nachtrags liegen daneben.
+
+## 2. Prüfung und unveränderter Pluginauftrag
+
+Der Bestand umfasst jetzt insgesamt 181 Quelldokumente. Gesamt-PDFs und beide flachen ZIP-Varianten werden neu erstellt. Dreizehn gezielte Regressionen sichern unter anderem Umsatzsteuer, Rechnungsbeträge, Stornokette, Objektzuordnung, Jahresgrenzen, getrennte Privataufträge und die vollständige Korrespondenz. Alle neuen Rechnungen und Nachweise sind einzeln gesetzte, visuell kontrollierte PDF-Dokumente.
+
+Das Plugin bleibt bei genau zehn Skills für Betriebskostenabrechnung und den dazugehörigen Beleg- und Zahlungsabgleich. Der größere Aktenhintergrund führt nicht zu einer Erweiterung auf allgemeine Unternehmensbuchführung, Bauplanung oder medizinische Beurteilung. Die neuen Arbeitsunterlagen enthalten keine rechtliche Lösungsmatrix.
+
 # v444.7.0 - Betriebskosten aus Belegen abrechnen und prüfen
 
 ## 1. Zehn zusammenhängende Arbeitswege

@@ -10,6 +10,7 @@ import tempfile
 import unittest
 from email import policy
 from email.parser import BytesParser
+from decimal import Decimal
 
 from openpyxl import load_workbook
 from pypdf import PdfReader
@@ -18,6 +19,9 @@ ROOT = Path(__file__).resolve().parent.parent
 SPEC = importlib.util.spec_from_file_location("bk_belege", ROOT / "scripts/build-betriebskosten-schoeneberg-belege.py")
 BUILDER = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(BUILDER)
+SUPPLEMENT_SPEC = importlib.util.spec_from_file_location("bk_nachtrag", ROOT / "scripts/build-betriebskosten-belegnachtrag.py")
+SUPPLEMENT = importlib.util.module_from_spec(SUPPLEMENT_SPEC)
+SUPPLEMENT_SPEC.loader.exec_module(SUPPLEMENT)
 
 
 class BetriebskostenTests(unittest.TestCase):
@@ -26,6 +30,7 @@ class BetriebskostenTests(unittest.TestCase):
         cls.temp = tempfile.TemporaryDirectory()
         BUILDER.ROOT = Path(cls.temp.name)
         cls.cases = [BUILDER.build(case) for case in BUILDER.CASES]
+        SUPPLEMENT.build(BUILDER.ROOT)
 
     @classmethod
     def tearDownClass(cls):
@@ -84,6 +89,7 @@ class BetriebskostenTests(unittest.TestCase):
         before = {p.relative_to(BUILDER.ROOT): hashlib.sha256(p.read_bytes()).hexdigest() for p in BUILDER.ROOT.rglob("*.pdf")}
         for case in BUILDER.CASES:
             BUILDER.build(case)
+        SUPPLEMENT.build(BUILDER.ROOT)
         after = {p.relative_to(BUILDER.ROOT): hashlib.sha256(p.read_bytes()).hexdigest() for p in BUILDER.ROOT.rglob("*.pdf")}
         self.assertEqual(before, after)
 
@@ -117,13 +123,65 @@ class BetriebskostenTests(unittest.TestCase):
             self.assertEqual(len(list((directory / "aktenstuecke").glob("*.docx"))), 6)
             self.assertFalse(list((directory / "aktenstuecke").glob("*.md")))
             messages = list((directory / "korrespondenz").glob("*.eml"))
-            self.assertEqual(len(messages), 10)
+            self.assertEqual(len(messages), 14)
             for path in messages:
                 message = BytesParser(policy=policy.default).parsebytes(path.read_bytes())
                 self.assertFalse(message.defects, path.name)
                 for header in ("From", "To", "Subject", "Date", "Message-ID", "MIME-Version"):
                     self.assertTrue(message[header], (path.name, header))
                 self.assertGreater(len(message.get_body(preferencelist=("plain",)).get_content()), 900)
+
+    def test_supplement_vat_totals_and_single_document_boundaries(self):
+        self.assertEqual(len(SUPPLEMENT.INVOICES), 15)
+        for invoice in SUPPLEMENT.INVOICES:
+            self.assertEqual(invoice["net"] + invoice["vat"], invoice["gross"])
+            path = ROOT / "testakten" / invoice["case"] / invoice["file"]
+            pdf = PdfReader(path)
+            self.assertEqual(len(pdf.pages), 1, path.name)
+            text = pdf.pages[0].extract_text()
+            self.assertIn(invoice["number"], text)
+            self.assertIn(SUPPLEMENT.euro(invoice["gross"]), text)
+            self.assertGreater(len(text), 1100)
+
+    def test_ventilation_correction_preserves_original_and_cancellation(self):
+        bills = {row["number"]: row for row in SUPPLEMENT.INVOICES}
+        first, credit, final = [bills[number] for number in ("KL-250905-073", "KL-G250917-073", "KL-250917-071")]
+        self.assertEqual(first["gross"] + credit["gross"], 0)
+        self.assertEqual(final["gross"], Decimal("8092.00"))
+        self.assertEqual(first["paid"], "")
+        self.assertEqual(credit["paid"], "")
+        self.assertEqual(final["paid"], "2025-10-01")
+        self.assertIn("Gotenstraße 71", final["site"])
+
+    def test_supplement_register_and_payment_scope(self):
+        for slug in (SUPPLEMENT.A, SUPPLEMENT.B):
+            directory = ROOT / "testakten" / slug / "zahlenwerk"
+            with (directory / "Belegnachtrag_2025_2026.csv").open(encoding="utf-8") as stream:
+                rows = list(csv.DictReader(stream, delimiter=";"))
+            expected = [row for row in SUPPLEMENT.INVOICES if row["case"] == slug]
+            self.assertEqual(len(rows), len(expected))
+            for row, source in zip(rows, expected):
+                self.assertEqual(Decimal(row["Brutto_EUR"]), source["gross"])
+                self.assertEqual(row["Datei"], source["file"])
+                self.assertTrue((directory.parent / row["Datei"]).is_file())
+            with (directory / "Zahlungsdetails_Nachtraege.csv").open(encoding="utf-8") as stream:
+                payments = list(csv.DictReader(stream, delimiter=";"))
+            self.assertGreaterEqual(len(payments), 4)
+            self.assertFalse({"EK-EB84-LP-26-042", "KL-250811-071", "KL-250905-073", "KL-G250917-073"}
+                             & {row["Verwendungszweck"] for row in payments})
+            for row in payments:
+                source = next(bill for bill in expected if bill["number"] == row["Verwendungszweck"])
+                self.assertEqual(row["Buchungsdatum"], source["paid"])
+                self.assertEqual(Decimal(row["Belastung_EUR"]), source["gross"])
+
+    def test_charging_work_stays_in_2026_and_private_order_is_separate(self):
+        bills = {row["number"]: row for row in SUPPLEMENT.INVOICES}
+        for number in ("EK-EB84-TG-26-041", "EK-EB84-LP-26-042", "EK-GO73-TG-26-056"):
+            self.assertTrue(bills[number]["day"].startswith("2026-"))
+            self.assertIn("2026", bills[number]["period"])
+        self.assertEqual(bills["EK-EB84-TG-26-041"]["gross"], Decimal("17850.00"))
+        self.assertEqual(bills["EK-GO73-TG-26-056"]["gross"], Decimal("12495.00"))
+        self.assertIn("Jens Rabe", bills["EK-EB84-LP-26-042"]["recipient"])
 
     def test_plugin_entry_and_scope(self):
         directory = ROOT / "betriebskosten-hausverwaltung"

@@ -28,4 +28,10 @@ Für Abrechnungen 2025 ist der damalige Rechtsstand maßgeblich. Die elektronisc
 
 Die strukturelle Profilprüfung ist kein bestandener Modelltest. Die zehn fachlichen Fälle sind vorbereitet; ein vollständiger Modelllauf wurde nicht ausgeführt. Marketplace-Import, YAML-Metadaten und die strikte Plugin-CLI-Prüfung bestanden. Die beiden zugeordneten Akten wurden als Gesamt-PDF, flaches Originalformat-ZIP und flaches Einzel-PDF-ZIP gebaut. Originaldateien, Warnhinweise, Rechendaten und Dokumentgrenzen wurden gesondert geprüft.
 
-Die README und die Manifeste nennen Version 444.7.0. Bei späteren Promptänderungen müssen die Hashes im Prüfprofil und in diesem Nachweis erneut aus den tatsächlichen Dateibytes berechnet werden. Die neun Regressionen in `scripts/test-betriebskosten-hausverwaltung.py` sichern Belegidentität, Steuerkette, Zahlungen, Messgrößen, native Dateien und gespeicherte Excel-Ergebnisse; sie ersetzen keine fachliche Kontrolle eines neuen Mandats.
+Die README und die Manifeste nennen Version 444.7.1. Bei späteren Promptänderungen müssen die Hashes im Prüfprofil und in diesem Nachweis erneut aus den tatsächlichen Dateibytes berechnet werden. Die dreizehn Regressionen in `scripts/test-betriebskosten-hausverwaltung.py` sichern Belegidentität, Steuerkette, Zahlungen, Messgrößen, native Dateien und gespeicherte Excel-Ergebnisse sowie den nachfolgend beschriebenen Belegnachtrag; sie ersetzen keine fachliche Kontrolle eines neuen Mandats.
+
+## 1.5. Belegnachtrag 444.7.1
+
+Die zwei Akten wurden um 33 Quelldokumente erweitert. Fünfzehn Rechnungs- und Stornodokumente sowie vier technische beziehungsweise tatsächliche Nachweise liegen als jeweils eigene einseitige PDF vor. Acht E-Mails, zwei Chats und vier CSV-Register ergänzen die Vorgänge. Die Seiten wurden gerendert und visuell kontrolliert. Rechnungsnetto, Umsatzsteuer, Brutto, Stornobezug und Zahlungen werden maschinell gegengeprüft.
+
+Die Restaurantabluft gehört zum Nachbarobjekt GO71, nicht zum Wohnflächenbestand GO73. Die Installation der Ladeinfrastruktur findet erst 2026 statt. Privatrechnung, Gesellschafts- und Gemeinschaftsaufträge bleiben getrennt. Die ursprünglichen Excel-Arbeitsmappen und bereits versandten Abrechnungen wurden nicht nachträglich verändert. Skills, Werkstatt und Schnellstart sind inhaltlich unverändert.
