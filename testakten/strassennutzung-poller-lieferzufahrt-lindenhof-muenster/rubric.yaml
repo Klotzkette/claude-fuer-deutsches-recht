@@ -1,0 +1,44 @@
+# Ausschließlich technische Existenz- und Mengenprüfungen.
+name: Straßenbenutzung Lindenhof Münster
+plugin: strassennutzung-genehmigungen
+checks:
+  - id: r01-readme
+    check_type: file_exists
+    description: Aktenbezogene README vorhanden
+    path: README.md
+  - id: r02-native-quellen
+    check_type: working_file_count
+    description: Mindestens 30 native Quelldateien vorhanden
+    min: 30
+  - id: r03-fahrten-csv
+    check_type: file_exists
+    description: Fahrtenexport vorhanden
+    path: 23_fahrtenbuch_2026-08-24_bis_09-08.csv
+  - id: r04-schluessel-csv
+    check_type: file_exists
+    description: Schlüsseljournal vorhanden
+    path: 24_schluesseljournal_2026-08-21_bis_09-22.csv
+  - id: r05-beobachtungen-csv
+    check_type: file_exists
+    description: Beobachtungsexport vorhanden
+    path: 25_beobachtungen_lindenbogen_2026-08-24_bis_09-18.csv
+  - id: r06-plan-pdf
+    check_type: file_exists
+    description: Native Ortsskizze vorhanden
+    path: 27_ortsskizze_lindenbogen_2026-09-09.pdf
+  - id: r07-gesamt-pdf
+    check_type: file_exists
+    description: Gesamt-PDF nach dem gesonderten Exportlauf vorhanden
+    path: gesamt-pdf/strassennutzung-poller-lieferzufahrt-lindenhof-muenster_gesamt.pdf
+  - id: r08-schluessel-bild
+    check_type: file_exists
+    description: Bildansicht der internen Schlüsselablage vorhanden
+    path: 28_schluesselablage_lb17_2026-09-22.png
+  - id: r09-chat-bild
+    check_type: file_exists
+    description: Bildansicht des Chat-Auszuges vorhanden
+    path: 29_chat_fruehdienst_2026-09-04.png
+  - id: r10-native-arbeitsmappe
+    check_type: file_exists
+    description: Native Arbeitsmappe vorhanden
+    path: 30_betriebsaufzeichnungen_lindenhof.xlsx

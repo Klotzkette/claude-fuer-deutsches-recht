@@ -85,6 +85,7 @@ jobs:
           python3 scripts/test-arbeitsrecht-asset-deal.py
           python3 scripts/test-betriebskosten-hausverwaltung.py
           python3 scripts/test-zugewinnausgleich.py
+          python3 scripts/test-strassennutzung.py
 
       - name: Skill-Aktivierungssignale prüfen
         run: |

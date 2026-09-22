@@ -1,0 +1,17 @@
+{
+  "name": "strassennutzung-genehmigungen",
+  "version": "444.9.0",
+  "description": "Oeffentliches Strassen- und Strassenverkehrsverwaltungsrecht: zehn Skills fuer Zufahrt, Parken, Laden, Poller, Schulstrassen, Fahrraeder, Sondernutzung, Ausnahmen und Rechtsschutz.",
+  "author": {"name": "Klotzkette"},
+  "license": "Apache-2.0 OR MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Straßennutzung und Genehmigungen",
+    "shortDescription": "Zufahrt, Poller, Laden und oeffentlich-rechtliche Genehmigungen pruefen.",
+    "longDescription": "Zehn fachlich getrennte Arbeitswege vom vorhandenen Strassenrechtsvorgang zum beauftragten Antrag, Gutachten oder Rechtsschutzentwurf. Keine Werbeschilder und keine OWi-Verteidigung.",
+    "developerName": "Klotzkette",
+    "defaultPrompt": "Prüfen Sie die vorhandenen Straßenrechtsunterlagen und erstellen Sie das beauftragte Ergebnis. Klären Sie nur entscheidende fehlende Angaben zu Nutzung, Zuständigkeit, Landesrecht und Frist.",
+    "category": "Productivity",
+    "capabilities": ["Write"]
+  }
+}

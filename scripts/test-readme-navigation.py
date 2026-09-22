@@ -40,6 +40,28 @@ CATALOG = load_script("generate-root-plugin-catalog.py")
 
 
 class CatalogVersionTests(unittest.TestCase):
+    def test_case_index_count_follows_inventory(self):
+        source = "Stand v444.8.0: 340 zentrale Testakten.\n"
+        expected = "Stand v444.9.0: 341 zentrale Testakten.\n"
+        self.assertEqual(CATALOG.update_testakten_version(source, "444.9.0", 341), expected)
+        self.assertEqual(CATALOG.update_testakten_version(expected, "444.9.0", 341), expected)
+
+    def test_all_repeated_summary_counts_are_updated_and_idempotent(self):
+        original = (
+            "| **Plugins** | 239 | Beschreibung |\n"
+            "| **Plugins** | 239 (inkl. 15 Gerichts-Plugins) |\n"
+            "| **Testakten** | 340 zentral / 343 gesamt |\n"
+            "| **Testakten** | 340 zentral / 343 gesamt | Weiter |\n"
+        )
+        counts = {"plugins": 240, "central_testakten": 341, "testakten": 344}
+        result = CATALOG.update_summary_counts(original, counts)
+        self.assertEqual(result, original.replace("239", "240").replace("340", "341").replace("343", "344"))
+        self.assertEqual(CATALOG.update_summary_counts(result, counts), result)
+
+    def test_street_description_displays_umlauts_without_changing_slug(self):
+        description = "Oeffentliches Strassen- und Strassenverkehrsverwaltungsrecht: Schulstrassen und Fahrraeder."
+        self.assertEqual(PLUGINS.markdown_text(description), "Öffentliches Straßen- und Straßenverkehrsverwaltungsrecht: Schulstraßen und Fahrräder.")
+
     def test_case_index_version_follows_release_without_changing_content(self):
         original = "# Akten\n\nStand v444.5.2: 337 Akten.\n\nInhalt bleibt erhalten.\n"
         expected = original.replace("v444.5.2", "v444.6.0")

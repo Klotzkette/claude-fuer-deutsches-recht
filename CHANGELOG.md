@@ -1,3 +1,23 @@
+# v444.9.0 - Straßennutzung, Zufahrt und Genehmigungen
+
+## 1. Zehn spezialisierte Arbeitswege
+
+Das neue Plugin `strassennutzung-genehmigungen` bearbeitet öffentliches Straßen- und Straßenverkehrsverwaltungsrecht: Widmung und Zuständigkeit, Anliegerzufahrt, Parken und Laden, Poller und Schlüssel, Sondernutzung und Ausnahmen, Schulstraßen, Fahrradnutzung, Gehwegparken, fremde Falschparker sowie Anträge und Rechtsschutz. Werkstatt und Schnellstart führen anhand vorhandener Unterlagen und gezielter Rückfragen zum beauftragten Schreiben. Werbung und die eigentliche Bußgeldverteidigung gehören nicht zum Kernauftrag.
+
+Normen und Entscheidungsanker werden nach Land, zeitlicher Fassung und Verfahrensart eingeordnet. Eine Verkehrsausnahme, ein Schlüssel und eine straßenrechtliche Erlaubnis sind nicht austauschbar. Die aktuelle Fassung des Paragrafen 45 StVO, landesrechtliche Genehmigungskonkurrenz und die Grenzen eigener Anliegerrechte sind ausdrücklich berücksichtigt. Ein Quellenregister dokumentiert amtliche Zugänge und Übertragungsgrenzen.
+
+## 2. Zwei zusammenhängende Arbeitsakten
+
+Die Schulstraßenakte Buchenweg erhält 16 zusätzliche Unterlagen und umfasst nun 26 native Quellen. Die zehn übergebenen Originale bleiben bytegleich erhalten. Antragsnachträge, Lieferschein, Widmungsunterlage, Kontrollauszug, Ortstermin, Ladezeiten und Planskizzen ergänzen den offenen Verwaltungsfall. Widersprüchliche Ausgangsangaben werden durch spätere Korrespondenz eingeordnet, nicht rückwirkend aus den Originalen entfernt.
+
+Die neue Münsteraner Akte Lindenhof enthält 30 native Quellen zu Pollern, befristetem Schlüsselzugang, Lieferwegen, Gehwegbeeinträchtigungen und fremden parkenden Fahrzeugen. Individuelle Briefe, E-Mails, Gesprächs- und Chatnotizen, drei CSV-Exporte, eine abgeleitete Excel-Arbeitsmappe, Rechnung, Ortsskizze und zwei Bildanlagen ergeben einen offenen Fall ohne Musterlösung. Beide Fälle werden als Gesamt-PDF, flache Einzel-PDF-Sammlung und flaches Originalformat-Archiv bereitgestellt.
+
+## 3. Nachvollziehbare Auslieferung
+
+Der PDF-Import entfernt eine UTF-8-Dateikennung aus CSV-Überschriften, ohne die Originaldatei zu verändern. Regressionstests sichern diesen Darstellungsfehler, die unveränderten Ausgangsdateien, Dokumentformate, Zahlenabstimmung, Linkziele und Pluginstruktur. Marketplace, Versionsstände, Downloadübersichten, Skill- und Promptverzeichnisse werden gemeinsam aktualisiert. Strukturprüfungen sind keine Bewertung der Antwortqualität eines laufenden Modells.
+
+Wiederholte Kennzahlentabellen und die zentrale Aktenzählung folgen jetzt automatisch dem Dateibestand; der Validator prüft auch weitere Vorkommen statt nur den ersten Treffer. Die neue Kurzbeschreibung erhält bei der Darstellung echte Umlaute, ohne technische Slugs zu verändern.
+
 # v444.8.0 - Zugewinnausgleich mit belegbarer Familienakte
 
 ## 1. Eigenständige Vermögenswerkstatt
