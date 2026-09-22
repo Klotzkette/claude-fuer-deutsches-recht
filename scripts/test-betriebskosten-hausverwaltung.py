@@ -133,15 +133,32 @@ class BetriebskostenTests(unittest.TestCase):
 
     def test_supplement_vat_totals_and_single_document_boundaries(self):
         self.assertEqual(len(SUPPLEMENT.INVOICES), 15)
-        for invoice in SUPPLEMENT.INVOICES:
-            self.assertEqual(invoice["net"] + invoice["vat"], invoice["gross"])
-            path = ROOT / "testakten" / invoice["case"] / invoice["file"]
-            pdf = PdfReader(path)
-            self.assertEqual(len(pdf.pages), 1, path.name)
-            text = pdf.pages[0].extract_text()
-            self.assertIn(invoice["number"], text)
-            self.assertIn(SUPPLEMENT.euro(invoice["gross"]), text)
-            self.assertGreater(len(text), 1100)
+        supporting = (
+            (SUPPLEMENT.A, "SP-L250919-084.pdf"),
+            (SUPPLEMENT.A, "FR-250616-084_Uebernahme.pdf"),
+            (SUPPLEMENT.B, "SP-L251024-073.pdf"),
+            (SUPPLEMENT.B, "KW-71-0820_Montagebericht.pdf"),
+        )
+        # Frischer Build und gespeicherte Akte müssen unabhängig vollständig sein.
+        for base in (BUILDER.ROOT, ROOT):
+            for invoice in SUPPLEMENT.INVOICES:
+                path = base / "testakten" / invoice["case"] / invoice["file"]
+                with self.subTest(base=base, file=invoice["file"]):
+                    self.assertEqual(invoice["net"] + invoice["vat"], invoice["gross"])
+                    self.assertTrue(path.is_file(), path)
+                    pdf = PdfReader(path)
+                    self.assertEqual(len(pdf.pages), 1, path.name)
+                    text = pdf.pages[0].extract_text()
+                    self.assertIn(invoice["number"], text)
+                    self.assertIn(SUPPLEMENT.euro(invoice["gross"]), text)
+                    self.assertGreater(len(text), 1100)
+            for slug, filename in supporting:
+                path = base / "testakten" / slug / "belege" / filename
+                with self.subTest(base=base, file=filename):
+                    self.assertTrue(path.is_file(), path)
+                    pdf = PdfReader(path)
+                    self.assertEqual(len(pdf.pages), 1, path.name)
+                    self.assertGreater(len(pdf.pages[0].extract_text()), 1100)
 
     def test_ventilation_correction_preserves_original_and_cancellation(self):
         bills = {row["number"]: row for row in SUPPLEMENT.INVOICES}
@@ -154,25 +171,33 @@ class BetriebskostenTests(unittest.TestCase):
         self.assertIn("Gotenstraße 71", final["site"])
 
     def test_supplement_register_and_payment_scope(self):
-        for slug in (SUPPLEMENT.A, SUPPLEMENT.B):
-            directory = ROOT / "testakten" / slug / "zahlenwerk"
-            with (directory / "Belegnachtrag_2025_2026.csv").open(encoding="utf-8") as stream:
-                rows = list(csv.DictReader(stream, delimiter=";"))
-            expected = [row for row in SUPPLEMENT.INVOICES if row["case"] == slug]
-            self.assertEqual(len(rows), len(expected))
-            for row, source in zip(rows, expected):
-                self.assertEqual(Decimal(row["Brutto_EUR"]), source["gross"])
-                self.assertEqual(row["Datei"], source["file"])
-                self.assertTrue((directory.parent / row["Datei"]).is_file())
-            with (directory / "Zahlungsdetails_Nachtraege.csv").open(encoding="utf-8") as stream:
-                payments = list(csv.DictReader(stream, delimiter=";"))
-            self.assertGreaterEqual(len(payments), 4)
-            self.assertFalse({"EK-EB84-LP-26-042", "KL-250811-071", "KL-250905-073", "KL-G250917-073"}
-                             & {row["Verwendungszweck"] for row in payments})
-            for row in payments:
-                source = next(bill for bill in expected if bill["number"] == row["Verwendungszweck"])
-                self.assertEqual(row["Buchungsdatum"], source["paid"])
-                self.assertEqual(Decimal(row["Belastung_EUR"]), source["gross"])
+        excluded = {"EK-EB84-LP-26-042", "KL-250811-071", "KL-250905-073", "KL-G250917-073"}
+        for base in (BUILDER.ROOT, ROOT):
+            for slug in (SUPPLEMENT.A, SUPPLEMENT.B):
+                directory = base / "testakten" / slug / "zahlenwerk"
+                with self.subTest(base=base, case=slug):
+                    register = directory / "Belegnachtrag_2025_2026.csv"
+                    self.assertTrue(register.is_file(), register)
+                    with register.open(encoding="utf-8") as stream:
+                        rows = list(csv.DictReader(stream, delimiter=";"))
+                    expected = [row for row in SUPPLEMENT.INVOICES if row["case"] == slug]
+                    self.assertEqual(len(rows), len(expected))
+                    for row, source in zip(rows, expected):
+                        self.assertEqual(row["Belegnummer"], source["number"])
+                        self.assertEqual(Decimal(row["Brutto_EUR"]), source["gross"])
+                        self.assertEqual(row["Datei"], source["file"])
+                        self.assertTrue((directory.parent / row["Datei"]).is_file())
+                    payment_file = directory / "Zahlungsdetails_Nachtraege.csv"
+                    self.assertTrue(payment_file.is_file(), payment_file)
+                    with payment_file.open(encoding="utf-8") as stream:
+                        payments = list(csv.DictReader(stream, delimiter=";"))
+                    expected_numbers = {bill["number"] for bill in expected} - excluded
+                    self.assertEqual(len(payments), len(expected_numbers))
+                    self.assertEqual({row["Verwendungszweck"] for row in payments}, expected_numbers)
+                    for row in payments:
+                        source = next(bill for bill in expected if bill["number"] == row["Verwendungszweck"])
+                        self.assertEqual(row["Buchungsdatum"], source["paid"])
+                        self.assertEqual(Decimal(row["Belastung_EUR"]), source["gross"])
 
     def test_charging_work_stays_in_2026_and_private_order_is_separate(self):
         bills = {row["number"]: row for row in SUPPLEMENT.INVOICES}
