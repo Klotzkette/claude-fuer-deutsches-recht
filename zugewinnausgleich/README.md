@@ -1,13 +1,21 @@
+<!-- decimal-headings -->
+
+<!-- decimal-anchor --> <a id="zugewinnausgleich--equalisation-of-accrued-gains"></a>
+
 # 1. Zugewinnausgleich / Equalisation of Accrued Gains
 
 <!-- BEGIN direkt-loslegen (autogen) -->
-## Was ist das hier?
+<!-- decimal-anchor --> <a id="was-ist-das-hier"></a>
+
+## 1.1. Was ist das hier?
 
 Zugewinnausgleich bei Trennung und Scheidung: zehn Skills für die belegte Berechnung des Zugewinns, Erbschaft, Immobilien, Unternehmen, Auskunft und Vergleich bis zum beauftragten Ergebnis.
 
 Dieses Plugin gehört zum Marketplace mit 239 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
-## Welche Datei wofür? / Which file should I use?
+<!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
+
+## 1.2. Welche Datei wofür? / Which file should I use?
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
@@ -28,7 +36,9 @@ The skill index lists the source collection. In the installed package, some spec
 
 Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/zugewinnausgleich.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-## In 30 Sekunden starten
+<!-- decimal-anchor --> <a id="in-30-sekunden-starten"></a>
+
+## 1.3. In 30 Sekunden starten
 
 | Ausgangslage | Schnellster Weg |
 | --- | --- |
@@ -36,13 +46,15 @@ Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](.
 | Noch keine Installation | Den Schnellstart unten als Markdown herunterladen und mit den Unterlagen in einer freigegebenen Arbeitsoberfläche bereitstellen. |
 | Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
 
-Startsatz für 1. Zugewinnausgleich / Equalisation of Accrued Gains:
+Startsatz für Zugewinnausgleich / Equalisation of Accrued Gains:
 
 > Erfasse zuerst Dateinamen und Metadaten im ausgewählten Ordner. Lies zunächst die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: die Vermögensrechnung beider Ehegatten mit belegten Stichtagen, Erbschaften, Eigentumsanteilen und Schulden bis zum beauftragten Gutachten oder Schreiben. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
 
 Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
 
-## Downloads
+<!-- decimal-anchor --> <a id="downloads"></a>
+
+## 1.4. Downloads
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
@@ -54,7 +66,9 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 239 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
-## Zugeordnete Testakten
+<!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
+
+## 1.5. Zugeordnete Testakten
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
@@ -71,7 +85,9 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 Version `444.8.0` · Fachlicher Prüfstand / Legal review date: 22.09.2026 · Autor / Author: Klotzkette.
 
-## 1.1. Zweck / Purpose
+<!-- decimal-anchor --> <a id="zweck--purpose"></a>
+
+## 1.6. Zweck / Purpose
 
 Dieses eigenständige Spezialplugin ergänzt Fachanwalt Familienrecht. Es führt von vorhandenen Vermögensbelegen über Stichtage, Schulden und Bewertungen bis zur nachrechenbaren Zugewinnforderung und zum bestellten Dokument. Es ersetzt keine anwaltliche Prüfung, keine sachverständige Unternehmensbewertung und keine steuerliche Beratung. Zugewinn ist weder Versorgungsausgleich noch pauschale Erbquote.
 
@@ -81,7 +97,9 @@ Der Hauptskill rechnet selbst. Die neun weiteren Skills vertiefen konkrete Teila
 
 The main skill performs the calculation itself. Nine specialised skills handle distinct issues. The three standalone prompts live outside `skills/` and are not additional skills. Select the workflow needed for the actual assignment, not the entire collection.
 
-## 1.2. Direkt beginnen / Start Here
+<!-- decimal-anchor --> <a id="direkt-beginnen--start-here"></a>
+
+## 1.7. Direkt beginnen / Start Here
 
 > Lesen Sie zuerst die vorhandenen Unterlagen im freigegebenen Ordner. Berechnen Sie den Zugewinn beider Ehegatten mit belegten Stichtagen, Eigentumsanteilen, Schulden und privilegierten Erwerben. Klären Sie nur entscheidende Lücken und erstellen Sie das beauftragte Gutachten oder Schreiben. Setzen Sie nach Nachreichungen bis zur aktualisierten Endfassung fort. Leiten Sie kein Gerichtsverfahren ein und versenden Sie nichts.
 
@@ -91,7 +109,9 @@ Bei installiertem Plugin wählen Sie `vermoegensbelege-bis-zur-gesamtberechnung`
 
 With the plugin installed, select `vermoegensbelege-bis-zur-gesamtberechnung`. Without installation, use one standalone prompt with the authorised materials. Individual skill downloads may also require the linked references or access to official sources.
 
-## 1.3. Prompts und Nachweise / Prompts and References
+<!-- decimal-anchor --> <a id="prompts-und-nachweise--prompts-and-references"></a>
+
+## 1.8. Prompts und Nachweise / Prompts and References
 
 Die Markdown-Links führen über die Downloadseite. Navigationslinks zu Akten- und Plugin-READMEs bleiben normale Repository-Seiten. Die Downloadtabelle erschließt das installierbare Plugin und die getrennten Prompts; die Akte folgt weiter unten.
 
@@ -106,7 +126,9 @@ Markdown links use the download page. Case and plugin README links are repositor
 | Zitierweise / Citation Rules | Verifikation und Trennung interner Prüfung vom Empfängertext. / Verification and separation of internal checks from recipient documents. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/references/zitierweise.md) |
 | Qualitätsnachweis / QA | Strukturprüfungen, Größen, Hashes und offene Prüfgrenzen. / Structural checks, sizes, hashes and validation limits. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/QA.md) |
 
-## 1.4. Genau zehn Skills / Exactly Ten Skills
+<!-- decimal-anchor --> <a id="genau-zehn-skills--exactly-ten-skills"></a>
+
+## 1.9. Genau zehn Skills / Exactly Ten Skills
 
 | Arbeitsweg / Workflow | Skill-Download | Konkretes Ergebnis / Concrete Result |
 | --- | --- | --- |
@@ -121,7 +143,9 @@ Markdown links use the download page. Case and plugin README links are repositor
 | Einigung / Settlement | [Varianten und Vergleich durchrechnen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/skills/varianten-und-vergleich-durchrechnen/SKILL.md) | Bezifferte Alternativen und formbewusster Vergleich. / Quantified alternatives and a form-conscious settlement draft. |
 | Verfahren / Proceedings | [Antrag oder Erwiderung ausformulieren](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zugewinnausgleich/skills/antrag-oder-erwiderung-ausformulieren/SKILL.md) | Beauftragter Zahlungs- oder Stufenantrag beziehungsweise Erwiderung. / Requested payment application, staged application or response. |
 
-## 1.5. Zugeordnete Familienakte / Associated Practice File
+<!-- decimal-anchor --> <a id="zugeordnete-familienakte--associated-practice-file"></a>
+
+## 1.10. Zugeordnete Familienakte / Associated Practice File
 
 Die [Familienakte Bergmann, Potsdam](../testakten/zugewinnausgleich-familie-bergmann-potsdam/README.md) enthält 118 Quelldateien einschließlich 48 monatlicher Kontoauszüge, alter Vermögensbelege, Haus- und Erbschaftsunterlagen, Betriebszahlen, Excel, Korrespondenz und Bildanlagen. Das Plugin enthält keine versteckte Musterlösung. Die kurzen Rechenbeispiele in den Skills sind unabhängig von dieser Akte.
 
@@ -137,13 +161,17 @@ The [Bergmann family practice file, Potsdam](../testakten/zugewinnausgleich-fami
 | Einzel-PDFs / Individual PDFs | [Flaches PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip) |
 | Originalformate / Original Formats | [Flaches Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zugewinnausgleich-familie-bergmann-potsdam.zip) |
 
-## 1.6. Fachliche Sicherungen / Legal Safeguards
+<!-- decimal-anchor --> <a id="fachliche-sicherungen--legal-safeguards"></a>
+
+## 1.11. Fachliche Sicherungen / Legal Safeguards
 
 Die Rechnung unterscheidet Zustellung und Scheidungsdatum, negatives Anfangsvermögen und nicht negativen Zugewinn, echte Schulden und bloße Sicherheiten, privilegierten Erwerb und spätere Erträge. Amtliche Indexdaten werden nicht erfunden. Die Beweislastumkehr ist an die erfüllende Trennungsauskunft geknüpft. Unternehmenswert und Unterhalt werden positionsbezogen abgeglichen. Keine automatische Klage und keine generischen Pflichtmatrizen.
 
 The workflows distinguish service of the divorce application from the divorce date, negative initial assets from non-negative accrued gains, actual liabilities from collateral, and privileged acquisitions from later income. Official index data must be verified. The burden-of-proof rule requires analysis of fulfilled separation disclosure. Business value and maintenance are reconciled by actual position. Litigation is never an automatic next step.
 
-## 1.7. Umfang und Prüfung / Scope and Verification
+<!-- decimal-anchor --> <a id="umfang-und-prüfung--scope-and-verification"></a>
+
+## 1.12. Umfang und Prüfung / Scope and Verification
 
 Der Schreibumfang ist durch unterschiedliche fachliche Entscheidungen begründet: historische Beweisführung, Erwerbsprivilegierung, Nießbrauch, Finanzierung, Unternehmensbewertung, Bestandsrekonstruktion, Beweislast, Auskunftserfüllung, Vergleich und Verfahren. Die Werkstatt führt diese Entscheidungen zusammen; Schnellstart und Hauptproblem bleiben jeweils unter 7.500 UTF-8-Bytes. Gemeinsame Quellenregeln liegen in zwei lokalen Referenzen. Bestehende familienrechtliche Texte werden nicht ersetzt.
 
@@ -158,7 +186,9 @@ Weiterführende Navigation / Related navigation: [Fachanwalt Familienrecht](../f
 
 <!-- BEGIN SKILLS-LOGIC (auto-generated) -->
 
-## Orientierung nach Arbeitslogik
+<!-- decimal-anchor --> <a id="orientierung-nach-arbeitslogik"></a>
+
+## 1.13. Orientierung nach Arbeitslogik
 
 Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Ein Klick auf einen Skill lädt seine Markdown-Datei; die alphabetische Komplettliste bleibt darunter erhalten.
 
@@ -175,7 +205,9 @@ English: Skills are grouped by typical work phase. Clicking a skill downloads it
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+<!-- decimal-anchor --> <a id="alle-skills-im-überblick"></a>
+
+## 1.14. Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 10 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
 

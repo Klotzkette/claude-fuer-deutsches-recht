@@ -10,6 +10,7 @@ from email.parser import BytesParser
 import hashlib
 import importlib.util
 import json
+import re
 from pathlib import Path
 import tempfile
 import unittest
@@ -20,6 +21,7 @@ from PIL import Image
 from pypdf import PdfReader
 
 from testakte_zip_common import working_dump_flat_pairs
+from readme_decimal_headings import normalize_decimal_headings
 
 ROOT = Path(__file__).resolve().parent.parent
 SPEC = importlib.util.spec_from_file_location("bergmann", ROOT / "scripts/build-zugewinn-bergmann-belege.py")
@@ -271,6 +273,16 @@ class ZugewinnTests(unittest.TestCase):
             text = skill.read_text()
             self.assertGreater(len(text), 1800)
             self.assertNotIn("BEGIN", text)
+
+    def test_readme_keeps_decimal_sections_and_stable_download_anchors(self):
+        text = (ROOT / "zugewinnausgleich/README.md").read_text()
+        self.assertEqual(normalize_decimal_headings(text), text)
+        headings = re.findall(r"^#{1,6} (.+)$", text, re.M)
+        self.assertTrue(all(re.match(r"\d+(?:\.\d+)*\. ", heading) for heading in headings))
+        sections = re.findall(r"^## (\d+(?:\.\d+)*)\. ", text, re.M)
+        self.assertEqual(sections, [f"1.{n}" for n in range(1, len(sections) + 1)])
+        for target in ("in-30-sekunden-starten", "zugeordnete-testakten", "alle-skills-im-überblick"):
+            self.assertIn(f'<a id="{target}"></a>', text)
 
 
 if __name__ == "__main__":

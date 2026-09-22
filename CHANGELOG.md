@@ -10,7 +10,7 @@ Die neue Akte enthält 118 Quelldateien: 77 einzelne Beleg-PDFs, 14 Word-Dokumen
 
 ## 3. Nachrechnung, Darstellung und Auslieferung
 
-481 Kontobewegungen, 47 eigene Übertragspaare, Kreditstände und gespeicherte Excel-Formelergebnisse werden geprüft. Originalbelege bleiben getrennt; Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP enthalten denselben Arbeitsbestand. Die Hinweistexte stehen auf den Downloadseiten und in den ZIP-Wurzelverzeichnissen, nicht in den Beleg-PDFs. Breite CSV-Tabellen mit kurzen Feldinhalten erhalten eine platzsparendere PDF-Darstellung ohne Datenverlust. Der Umlautprüfer unterscheidet vollständige technische Belegpfade von Fließtext. Fünfzehn neue Regressionen und ein fachliches Prüfprofil sichern den Ausbau ab; ein vorbereitetes Prüfprofil ist kein ausgeführter Modelltest.
+481 Kontobewegungen, 47 eigene Übertragspaare, Kreditstände und gespeicherte Excel-Formelergebnisse werden geprüft. Originalbelege bleiben getrennt; Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP enthalten denselben Arbeitsbestand. Die Hinweistexte stehen auf den Downloadseiten und in den ZIP-Wurzelverzeichnissen, nicht in den Beleg-PDFs. Breite CSV-Tabellen mit kurzen Feldinhalten erhalten eine platzsparendere PDF-Darstellung ohne Datenverlust. Der Umlautprüfer unterscheidet vollständige technische Belegpfade von Fließtext. Sechzehn neue Regressionen und ein fachliches Prüfprofil sichern den Ausbau ab; ein vorbereitetes Prüfprofil ist kein ausgeführter Modelltest. Die neue Plugin-README behält auch nach Generatorläufen ihre dezimale Gliederung und bestehenden Sprungziele.
 
 # v444.7.1 - Weitere Belege aus dem Schöneberger Verwaltungsalltag
 
