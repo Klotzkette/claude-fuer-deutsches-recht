@@ -83,6 +83,7 @@ jobs:
           python3 scripts/test-arbeitszeugnispruefer.py
           python3 scripts/test-geldwaeschepraevention.py
           python3 scripts/test-arbeitsrecht-asset-deal.py
+          python3 scripts/test-betriebskosten-hausverwaltung.py
 
       - name: Skill-Aktivierungssignale prüfen
         run: |

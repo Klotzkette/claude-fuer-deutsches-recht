@@ -1,0 +1,14 @@
+name: betriebskosten-2025-weg-schoeneberg
+plugin: betriebskosten-hausverwaltung
+description: "Vermietete Eigentumswohnung mit 108 Quadratmetern in Berlin-Schöneberg: Gemeinschaftsverwaltung, Eigentümerkonto, Mietabrechnung, Monatsbelege, Ölvorräte, Grundsteuer und Korrespondenz zum Jahr 2025."
+checks:
+  - id: unterlagen
+    check_type: working_file_count
+    description: Einzelbelege und native Korrespondenz liegen getrennt vor.
+    min: 60
+  - id: rechenbezug
+    check_type: human_review
+    description: Belegnummern und Buchungsbeträge stimmen zwischen PDF und Zahlenwerk überein.
+  - id: eigentumsmodell
+    check_type: human_review
+    description: Die Wohnung und die Gemeinschaft bleiben getrennte Abrechnungsebenen.

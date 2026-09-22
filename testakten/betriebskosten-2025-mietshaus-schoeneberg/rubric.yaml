@@ -1,0 +1,14 @@
+name: betriebskosten-2025-mietshaus-schoeneberg
+plugin: betriebskosten-hausverwaltung
+description: "Eigenverwaltung eines Mietshauses in Berlin-Schöneberg: acht Wohnungen, eine Abrechnung für 108 Quadratmeter, Monatsbelege, Ölbestände, Mietzahlungen, Gebäudeversicherung und laufender Schriftverkehr."
+checks:
+  - id: unterlagen
+    check_type: working_file_count
+    description: Einzelbelege und native Korrespondenz liegen getrennt vor.
+    min: 60
+  - id: rechenbezug
+    check_type: human_review
+    description: Belegnummern und Buchungsbeträge stimmen zwischen PDF und Zahlenwerk überein.
+  - id: eigentumsmodell
+    check_type: human_review
+    description: Eigentümergesellschaft und interne Verwaltung sind benannt, ohne eine Eigentümergemeinschaft zu unterstellen.

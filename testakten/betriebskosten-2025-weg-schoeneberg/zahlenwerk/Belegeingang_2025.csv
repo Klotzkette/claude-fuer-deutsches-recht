@@ -1,0 +1,43 @@
+Belegnummer;Datum;Aussteller;Bezeichnung;Brutto_EUR;Datei;Zahlungsdatum
+EB84-HM-01;2025-01-31;Kiezwerk Hausservice GmbH;Hausservice Januar 2025;900.0;belege/EB84-HM-01_Hausservice.pdf;2025-02-10
+EB84-EL-01;2025-01-31;Lichtbogen Energie GmbH;Strom Hauszugang und Treppenhaus Januar 2025;140.0;belege/EB84-EL-01_Allgemeinstrom.pdf;2025-02-10
+EB84-HM-02;2025-02-28;Kiezwerk Hausservice GmbH;Hausservice Februar 2025;900.0;belege/EB84-HM-02_Hausservice.pdf;2025-03-10
+EB84-EL-02;2025-02-28;Lichtbogen Energie GmbH;Strom Hauszugang und Treppenhaus Februar 2025;140.0;belege/EB84-EL-02_Allgemeinstrom.pdf;2025-03-10
+EB84-HM-03;2025-03-31;Kiezwerk Hausservice GmbH;Hausservice März 2025;900.0;belege/EB84-HM-03_Hausservice.pdf;2025-04-10
+EB84-EL-03;2025-03-31;Lichtbogen Energie GmbH;Strom Hauszugang und Treppenhaus März 2025;140.0;belege/EB84-EL-03_Allgemeinstrom.pdf;2025-04-10
+EB84-HM-04;2025-04-30;Kiezwerk Hausservice GmbH;Hausservice April 2025;900.0;belege/EB84-HM-04_Hausservice.pdf;2025-05-10
+EB84-EL-04;2025-04-30;Lichtbogen Energie GmbH;Strom Hauszugang und Treppenhaus April 2025;140.0;belege/EB84-EL-04_Allgemeinstrom.pdf;2025-05-10
+EB84-HM-05;2025-05-31;Kiezwerk Hausservice GmbH;Hausservice Mai 2025;900.0;belege/EB84-HM-05_Hausservice.pdf;2025-06-10
+EB84-EL-05;2025-05-31;Lichtbogen Energie GmbH;Strom Hauszugang und Treppenhaus Mai 2025;140.0;belege/EB84-EL-05_Allgemeinstrom.pdf;2025-06-10
+EB84-HM-06;2025-06-30;Kiezwerk Hausservice GmbH;Hausservice Juni 2025;900.0;belege/EB84-HM-06_Hausservice.pdf;2025-07-10
+EB84-EL-06;2025-06-30;Lichtbogen Energie GmbH;Strom Hauszugang und Treppenhaus Juni 2025;140.0;belege/EB84-EL-06_Allgemeinstrom.pdf;2025-07-10
+EB84-HM-07;2025-07-31;Kiezwerk Hausservice GmbH;Hausservice Juli 2025;900.0;belege/EB84-HM-07_Hausservice.pdf;2025-08-10
+EB84-EL-07;2025-07-31;Lichtbogen Energie GmbH;Strom Hauszugang und Treppenhaus Juli 2025;140.0;belege/EB84-EL-07_Allgemeinstrom.pdf;2025-08-10
+EB84-HM-08;2025-08-31;Kiezwerk Hausservice GmbH;Hausservice August 2025;900.0;belege/EB84-HM-08_Hausservice.pdf;2025-09-10
+EB84-EL-08;2025-08-31;Lichtbogen Energie GmbH;Strom Hauszugang und Treppenhaus August 2025;140.0;belege/EB84-EL-08_Allgemeinstrom.pdf;2025-09-10
+EB84-HM-09;2025-09-30;Kiezwerk Hausservice GmbH;Hausservice September 2025;900.0;belege/EB84-HM-09_Hausservice.pdf;2025-10-10
+EB84-EL-09;2025-09-30;Lichtbogen Energie GmbH;Strom Hauszugang und Treppenhaus September 2025;140.0;belege/EB84-EL-09_Allgemeinstrom.pdf;2025-10-10
+EB84-HM-10;2025-10-31;Kiezwerk Hausservice GmbH;Hausservice Oktober 2025;900.0;belege/EB84-HM-10_Hausservice.pdf;2025-11-10
+EB84-EL-10;2025-10-31;Lichtbogen Energie GmbH;Strom Hauszugang und Treppenhaus Oktober 2025;140.0;belege/EB84-EL-10_Allgemeinstrom.pdf;2025-11-10
+EB84-HM-11;2025-11-30;Kiezwerk Hausservice GmbH;Hausservice November 2025;900.0;belege/EB84-HM-11_Hausservice.pdf;2025-12-10
+EB84-EL-11;2025-11-30;Lichtbogen Energie GmbH;Strom Hauszugang und Treppenhaus November 2025;140.0;belege/EB84-EL-11_Allgemeinstrom.pdf;2025-12-10
+EB84-HM-12;2025-12-31;Kiezwerk Hausservice GmbH;Hausservice Dezember 2025;900.0;belege/EB84-HM-12_Hausservice.pdf;2026-01-10
+EB84-EL-12;2025-12-31;Lichtbogen Energie GmbH;Strom Hauszugang und Treppenhaus Dezember 2025;140.0;belege/EB84-EL-12_Allgemeinstrom.pdf;2026-01-10
+EB84-WA-2025;2026-01-16;Berliner Wasserbetriebe;Wasser und Entwässerung 2025;3680.0;belege/EB84-WA-2025_Wasser.pdf;2026-01-26
+EB84-MU-2025;2025-01-15;Berliner Stadtreinigungsbetriebe;Gebühren Abfallentsorgung 2025;2950.0;belege/EB84-MU-2025_Abfall.pdf;2025-01-25
+EB84-ST-2025;2025-01-15;Berliner Stadtreinigungsbetriebe;Straßenreinigungsgebühren 2025;620.0;belege/EB84-ST-2025_Strassenreinigung.pdf;2025-01-25
+EB84-VS-2025;2024-12-17;Berolina Sachversicherung AG;Beitragsrechnung Wohngebäude 2025;2460.0;belege/EB84-VS-2025_Versicherung.pdf;2024-12-27
+EB84-AU-2025;2025-12-19;Aufzugswerk Berlin GmbH;Wartung Personenaufzug 2025;1785.0;belege/EB84-AU-2025_Aufzug.pdf;2025-12-29
+EB84-SF-2025;2025-11-12;Schornsteinfegerbetrieb R. Pohl;Kehr- und Messarbeiten 2025;357.0;belege/EB84-SF-2025_Schornstein.pdf;2025-11-22
+EB84-HW-2025;2025-09-25;Wärmekreis Berlin GmbH;Ölkesselwartung und Brennereinstellung;714.0;belege/EB84-HW-2025_Heizungswartung.pdf;2025-10-05
+EB84-MD-2025;2026-02-10;Messpunkt Berlin GmbH;Messdienst und Gerätemiete 2025;1190.0;belege/EB84-MD-2025_Messdienst.pdf;2026-02-20
+EB84-HP-2025;2026-01-13;Lichtbogen Energie GmbH;Betriebsstrom Heizzentrale 2025;480.0;belege/EB84-HP-2025_Heizstrom.pdf;2026-01-23
+EB84-GU-2025;2025-10-02;Kiezwerk Hausservice GmbH;Gutschrift Reinigungseinsatz;-119.0;belege/EB84-GU-2025_Gutschrift.pdf;2025-10-12
+EB84-TU-2025;2025-07-22;Schließtechnik Ahrens GmbH;Fahrradkeller: Tür und Schließzylinder;1249.5;belege/EB84-TU-2025_Schloss.pdf;2025-08-01
+EB84-LI-2025;2025-10-14;Elektro Klinker GmbH;Störung Beleuchtung Treppenhaus;416.5;belege/EB84-LI-2025_Lichtreparatur.pdf;2025-10-24
+EB84-MA-2025;2025-08-25;Malerbetrieb Weiß & Sohn;Kellerzugang: Ausbesserung und Anstrich;1785.0;belege/EB84-MA-2025_Maler.pdf;2025-09-04
+EB84-KU-2025;2025-08-01;Dachtechnik Rösner GmbH;Fallrohr nach Kupferdiebstahl ersetzen;2165.8;belege/EB84-KU-2025_Fallrohr.pdf;2025-08-11
+EB84-OE-01;2025-02-12;Havel Brennstoffe GmbH;Heizöl EL schwefelarm;5250.0;belege/EB84-OE-01_Heizoel.pdf;2025-02-22
+EB84-OE-02;2025-05-14;Havel Brennstoffe GmbH;Heizöl EL schwefelarm;1960.0;belege/EB84-OE-02_Heizoel.pdf;2025-05-24
+EB84-OE-03;2025-10-16;Havel Brennstoffe GmbH;Heizöl EL schwefelarm;5100.0;belege/EB84-OE-03_Heizoel.pdf;2025-10-26
+EB84-OE-2024;2024-12-16;Havel Brennstoffe GmbH;Heizöllieferung Dezember 2024;3300.0;belege/EB84-OE-2024_Vorjahreslieferung.pdf;2024-12-23

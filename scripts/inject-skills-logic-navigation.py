@@ -39,6 +39,16 @@ PRIORITY_GROUPS: list[tuple[str, tuple[str, ...]]] = [
 ]
 
 EXACT_GROUPS: dict[str, str] = {
+    "belege-bis-zur-abrechnung": "1. Einstieg und Fallrouting",
+    "belege-und-zahlungen-abgleichen": "2. Unterlagen, Sachverhalt und Quellen",
+    "kosten-und-hausmeister-abgrenzen": "3. Prüfung, Anspruch und Subsumtion",
+    "flaechen-und-umlageschluessel-pruefen": "3. Prüfung, Anspruch und Subsumtion",
+    "oel-heizung-und-warmwasser-abrechnen": "3. Prüfung, Anspruch und Subsumtion",
+    "co2-kosten-belegt-aufteilen": "3. Prüfung, Anspruch und Subsumtion",
+    "weg-kosten-in-mietabrechnung-ueberleiten": "3. Prüfung, Anspruch und Subsumtion",
+    "grundsteuer-und-energie-sonderkosten-trennen": "3. Prüfung, Anspruch und Subsumtion",
+    "abrechnung-vorauszahlungen-und-fristen-abschliessen": "6. Ergebnis, Schreiben und Kommunikation",
+    "einwendungen-korrektur-und-belegeinsicht-bearbeiten": "7. Kontrolle, Qualität und Gegenprüfung",
     "bescheide-und-fristen-ordnen": "1. Einstieg und Fallrouting",
     "grundstueck-und-flaechen-abgleichen": "2. Unterlagen, Sachverhalt und Quellen",
     "landesmodell-und-stichtag-bestimmen": "1. Einstieg und Fallrouting",
