@@ -1,3 +1,13 @@
+# v445.1.1 - Portable Aktenwerkzeuge
+
+Anwaltschaft generell mit zehn Skills und Corporate Contract Law mit zwanzig Skills werden gemeinsam mit je drei individuellen Arbeitsakten und den vollständigen Downloadpaketen veröffentlicht. Werkstatt-, Schnellstart- und Hauptproblem-Prompts aus v445.1.0 sind enthalten. Die Fallinhalte bleiben unverändert.
+
+Die native Neuerzeugung der Arbeitsakten findet Node.js über den Suchpfad oder eine ausdrückliche Konfiguration. Tabellenpakete werden regulär oder aus einem angegebenen Paketverzeichnis geladen, ohne feste persönliche Cache-Pfade und ohne temporäre Verzeichnisverknüpfungen. Fehlende Voraussetzungen werden vor der Neuerzeugung gemeldet.
+
+Bildanlagen unterstützen konfigurierbare Schriften sowie DejaVu Sans und Liberation Sans unter Linux. Die optionale DOCX-Sichtprüfung verwendet die vorhandene Office-Konvertierung und Poppler. Regressionstests prüfen Pfadauflösung, Linux-Schriften, Konfigurationsfehler und die nebenwirkungsfreie Laufzeitprüfung.
+
+Die Word-Unterlagen erhalten echte Leerabsätze nach Abschnittsüberschriften mit zusammengehaltenem Folgetext. Die Erzeugungswerkzeuge setzen dies reproduzierbar um; die zugehörigen Gesamt-PDFs und Einzel-PDF-Pakete werden neu erstellt.
+
 # v445.1.0 - Anwaltschaft und wirtschaftliche Vertragsgestaltung
 
 ## 1. Zwei eigenständige Praxispakete

@@ -7,17 +7,25 @@ import csv
 from email import policy
 from email.parser import BytesParser
 import importlib.util
+import os
 from pathlib import Path
 import re
+import shutil
+import subprocess
+import tempfile
 import unittest
+from unittest.mock import patch
 
 from docx import Document
+from docx.shared import Pt
 from openpyxl import load_workbook
 from PIL import Image, ImageStat
 from pypdf import PdfReader
 import yaml
 
 from quality_lab import load, marketplace, validate_profile
+from akten_build_runtime import node_binary, screen_font
+from akten_docx_format import separate_section_headings
 from testakte_office_pdf import uncached_formula_cells
 from testakte_zip_common import working_dump_flat_pairs
 
@@ -55,6 +63,95 @@ def source_text(path):
 
 
 class PracticePackageTests(unittest.TestCase):
+    def test_heading_blank_lines_are_idempotent_and_kept_with_body(self):
+        document = Document()
+        document.add_paragraph("1. Leistung", "Heading 1")
+        document.add_paragraph("Der Lieferant liefert die vereinbarten Sensoren.")
+        document.add_paragraph("1.1. Lieferung", "Heading 2")
+        document.add_paragraph("Die Lieferung erfolgt an die vereinbarte Anschrift.")
+        separate_section_headings(document)
+        first = document.element.xml
+        separate_section_headings(document)
+        self.assertEqual(document.element.xml, first)
+        self.assertEqual(len(document.paragraphs), 6)
+        for index in (0, 3):
+            heading, blank = document.paragraphs[index:index + 2]
+            self.assertEqual(blank.text, "")
+            self.assertEqual(heading.paragraph_format.space_after, Pt(0))
+            self.assertEqual(blank.paragraph_format.line_spacing, Pt(11))
+            self.assertTrue(heading.paragraph_format.keep_with_next)
+            self.assertTrue(blank.paragraph_format.keep_with_next)
+
+    def test_native_word_sections_have_real_blank_lines(self):
+        headings = 0
+        for _, _, slugs in PACKAGES.values():
+            for slug in slugs:
+                for source in (ROOT / "testakten" / slug).glob("*.docx"):
+                    paragraphs = Document(source).paragraphs
+                    for index, heading in enumerate(paragraphs):
+                        if heading.style.style_id in {"Heading1", "Heading2"}:
+                            headings += 1
+                            self.assertLess(index + 1, len(paragraphs), source)
+                            blank = paragraphs[index + 1]
+                            self.assertEqual(blank.text, "", source)
+                            self.assertEqual(blank.paragraph_format.line_spacing, Pt(11), source)
+                            self.assertTrue(blank.paragraph_format.keep_with_next, source)
+        self.assertGreater(headings, 100)
+
+    def test_node_lookup_uses_path_or_explicit_override(self):
+        with patch.dict(os.environ, {}, clear=True), patch("akten_build_runtime.shutil.which", return_value="/usr/bin/node") as lookup:
+            self.assertEqual(node_binary(), "/usr/bin/node")
+            lookup.assert_called_once_with("node")
+        with patch.dict(os.environ, {"AKTEN_NODE": "/opt/tools/node"}), patch("akten_build_runtime.shutil.which", return_value="/opt/tools/node") as lookup:
+            self.assertEqual(node_binary(), "/opt/tools/node")
+            lookup.assert_called_once_with("/opt/tools/node")
+        with patch("akten_build_runtime.shutil.which", return_value=None):
+            with self.assertRaisesRegex(RuntimeError, "AKTEN_NODE"):
+                node_binary()
+
+    def test_image_fonts_work_without_macos_fonts(self):
+        for bold, expected in ((False, "DejaVuSans.ttf"), (True, "DejaVuSans-Bold.ttf")):
+            with patch.dict(os.environ, {}, clear=True), patch(
+                "akten_build_runtime.Path.is_file",
+                lambda path: str(path) == "/usr/share/fonts/truetype/dejavu/" + expected,
+            ), patch("akten_build_runtime.ImageFont.truetype", return_value="loaded") as load_font:
+                self.assertEqual(screen_font(19, bold), "loaded")
+                load_font.assert_called_once_with("/usr/share/fonts/truetype/dejavu/" + expected, 19)
+        with patch.dict(os.environ, {"AKTEN_FONT_DIR": "/custom/fonts"}), patch(
+            "akten_build_runtime.Path.is_file", lambda path: str(path) == "/custom/fonts/Arial.ttf",
+        ), patch("akten_build_runtime.ImageFont.truetype", return_value="custom"):
+            self.assertEqual(screen_font(19), "custom")
+        with patch("akten_build_runtime.Path.is_file", return_value=False):
+            with self.assertRaisesRegex(RuntimeError, "AKTEN_FONT_DIR"):
+                screen_font(19)
+
+    def test_workbook_preflight_uses_configured_modules_without_writing_cases(self):
+        node = os.environ.get("AKTEN_NODE") or shutil.which("node")
+        if not node:
+            self.skipTest("Node.js ist nicht installiert.")
+        with tempfile.TemporaryDirectory(prefix="akten-runtime-") as temporary:
+            modules = Path(temporary) / "node_modules"
+            for name, source in (
+                ("@oai/artifact-tool", "exports.Workbook = {}; exports.SpreadsheetFile = {};"),
+                ("jszip", "module.exports = {};"),
+                ("xml-js", "module.exports = {};"),
+            ):
+                directory = modules / name
+                directory.mkdir(parents=True)
+                (directory / "index.js").write_text(source)
+            environment = dict(os.environ, AKTEN_NODE_MODULES=str(modules))
+            for stem in ("anwaltschaft-leipzig-mainz", "anwaltschaft-dortmund-sensorik", "corporate-projekt-vertrieb"):
+                script = ROOT / "scripts" / f"build-{stem}-workbooks.mjs"
+                result = subprocess.run([node, str(script), "--check-runtime"], cwd=temporary,
+                                        env=environment, capture_output=True, text=True, timeout=20)
+                self.assertEqual(result.returncode, 0, result.stderr)
+                self.assertIn("keine Akten verändert", result.stdout)
+            environment["AKTEN_NODE_MODULES"] = str(Path(temporary) / "missing")
+            result = subprocess.run([node, str(script), "--check-runtime"], cwd=temporary,
+                                    env=environment, capture_output=True, text=True, timeout=20)
+            self.assertNotEqual(result.returncode, 0)
+            self.assertIn("AKTEN_NODE_MODULES", result.stderr)
+
     def test_exact_skill_counts_and_main_skill_remain_installable(self):
         entries = marketplace()
         for name, (count, main, _) in PACKAGES.items():

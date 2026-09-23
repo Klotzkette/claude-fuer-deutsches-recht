@@ -3,20 +3,15 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import os from 'node:os';
 import assert from 'node:assert/strict';
-import { fileURLToPath, pathToFileURL } from 'node:url';
-import { createRequire } from 'node:module';
+import { fileURLToPath } from 'node:url';
 import { execFileSync } from 'node:child_process';
+import { Workbook, SpreadsheetFile, requireRuntime } from './akten-workbook-runtime.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const p = path.join(root, 'testakten/corporate-contract-law-projektvertrag-automation-augsburg');
 const v = path.join(root, 'testakten/corporate-contract-law-vertrieb-messtechnik-bremen');
 const qa = process.env.CORPORATE_AKTEN_QA || await fs.mkdtemp(path.join(os.tmpdir(), 'corporate-projekt-vertrieb-'));
 await fs.mkdir(qa, { recursive: true });
-const deps = path.resolve(path.dirname(process.execPath), '../..');
-const moduleLink = path.join(qa, 'node_modules');
-try { await fs.lstat(moduleLink); } catch { await fs.symlink(path.join(deps, 'node/node_modules'), moduleLink, 'dir'); }
-const requireRuntime = createRequire(path.join(qa, 'runtime.cjs'));
-const { Workbook, SpreadsheetFile } = await import(pathToFileURL(requireRuntime.resolve('@oai/artifact-tool')).href);
 const JSZip = requireRuntime('jszip');
 const xmlParser = requireRuntime('xml-js');
 const money = '#,##0.00;(#,##0.00);"-"';
@@ -224,7 +219,7 @@ async function distributionBook() {
   val(s, 'A34', 'Alle Beträge netto. Eigenhandel, keine Provision. Steueransatz der Proforma unter Nachweisvorbehalt.');
   val(s, 'A35', 'Nicht enthalten: laufende Personalkosten, Finanzierung, weitere Serviceeinsätze und Steuern.');
   const csv = path.join(v, '14_Monthly_forecast_2027.csv');
-  const python = path.join(deps, 'python/bin/python3');
+  const python = process.env.AKTEN_PYTHON || 'python3';
   const source = JSON.parse(execFileSync(python, ['-c', 'import csv,json,sys\nwith open(sys.argv[1],encoding="utf-8-sig",newline="") as f: print(json.dumps(list(csv.DictReader(f,delimiter=";")),ensure_ascii=False))', csv], { encoding:'utf8' }));
   assert.equal(source.length, 12);
   header(f, 5, ['Monat', 'M24 Stück', 'M48 Stück', 'M24 Einkauf EUR', 'M48 Einkauf EUR', 'Bezug gesamt EUR', 'Planungsstatus']);

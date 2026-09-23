@@ -25,6 +25,7 @@ from xml.sax.saxutils import escape
 from docx import Document
 from docx.oxml.ns import qn
 from docx.shared import Cm, Pt, RGBColor
+from akten_docx_format import separate_section_headings
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import ParagraphStyle
@@ -140,7 +141,7 @@ def docx(case, name, org, title, date, body, recipient="", signer=""):
         border.getparent().remove(border)
     d.styles["Normal"].paragraph_format.space_after = Pt(8)
     d.styles["Normal"].paragraph_format.line_spacing = 1.08
-    d.styles["Heading 1"].paragraph_format.space_after = Pt(12)
+    d.styles["Heading 1"].paragraph_format.space_after = Pt(0)
     p = d.add_paragraph()
     p.add_run(org.split("\n")[0]).bold = True
     d.add_paragraph("\n".join(org.split("\n")[1:]))
@@ -153,10 +154,11 @@ def docx(case, name, org, title, date, body, recipient="", signer=""):
         p = d.add_paragraph(text, "Heading 1" if is_heading else "Normal")
         if is_heading:
             p.paragraph_format.space_before = Pt(12)
-            p.paragraph_format.space_after = Pt(12)
+            p.paragraph_format.space_after = Pt(0)
             p.paragraph_format.keep_with_next = True
     if signer:
         d.add_paragraph(signer)
+    separate_section_headings(d)
     d.core_properties.author = org.split("\n")[0]
     d.core_properties.last_modified_by = org.split("\n")[0]
     d.core_properties.title = title
@@ -196,12 +198,8 @@ def txt(case, name, title, text):
 
 
 def screen_fonts(size):
-    from PIL import ImageFont
-    candidates = [Path('/System/Library/Fonts/Supplemental/Arial.ttf'), Path('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf')]
-    found = next((p for p in candidates if p.exists()), None)
-    if found is None:
-        found = Path(os.environ.get('AKTEN_FONT_DIR', '.')) / 'LiberationSerif-Regular.ttf'
-    return ImageFont.truetype(str(found), size)
+    from akten_build_runtime import screen_font
+    return screen_font(size)
 
 
 def machine_screen():
@@ -861,6 +859,7 @@ def run():
         visual_qa()
     else:
         init_fonts()
+        screen_fonts(12)
         leipzig()
         mainz()
         readmes()

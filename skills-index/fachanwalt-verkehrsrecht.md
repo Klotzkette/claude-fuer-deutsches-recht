@@ -1,6 +1,6 @@
 # fachanwalt-verkehrsrecht
 
-**80 Skills** · Stand `v445.1.0`
+**80 Skills** · Stand `v445.1.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-verkehrsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

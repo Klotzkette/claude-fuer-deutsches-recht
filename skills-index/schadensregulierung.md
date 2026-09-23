@@ -1,6 +1,6 @@
 # schadensregulierung
 
-**10 Skills** · Stand `v445.1.0`
+**10 Skills** · Stand `v445.1.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../schadensregulierung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

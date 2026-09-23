@@ -2,11 +2,8 @@
 // Baut ausschließlich die vier Excel-Quellen und ihre lokalen Sichtprüfungen.
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { createRequire } from 'node:module';
-import { fileURLToPath, pathToFileURL } from 'node:url';
-
-const require = createRequire(path.join(path.dirname(process.execPath), '..', 'node_modules', '_runtime.cjs'));
-const { Workbook, SpreadsheetFile } = await import(pathToFileURL(require.resolve('@oai/artifact-tool')).href);
+import { fileURLToPath } from 'node:url';
+import { Workbook, SpreadsheetFile } from './akten-workbook-runtime.mjs';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const leipzig = path.join(root, 'testakten/anwaltschaft-lieferstreit-kaffeeroesterei-leipzig');
 const mainz = path.join(root, 'testakten/anwaltschaft-arbeitsrecht-vertrieb-mainz');

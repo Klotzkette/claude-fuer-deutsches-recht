@@ -89,7 +89,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 ## 1.6. Umfang und Arbeitsweg / Scope and Workflow
 
-Version `445.1.0`. Fachlicher Dokumentenprüfstand: 23.09.2026. Die Quellenprüfung unterscheidet gelesene Normen, bestätigte Leitsatzaussage und gesperrte Entscheidungsgründe; sie ist keine pauschale rechtliche Freigabe.
+Version `445.1.1`. Fachlicher Dokumentenprüfstand: 23.09.2026. Die Quellenprüfung unterscheidet gelesene Normen, bestätigte Leitsatzaussage und gesperrte Entscheidungsgründe; sie ist keine pauschale rechtliche Freigabe.
 
 Zwanzig Skills führen vom konkreten Geschäftsauftrag über den vollständigen Vertrag und die Verhandlung bis zum unterschriftsreifen Entwurf. Ein klarer Auftrag startet direkt. Ohne erkennbares Ziel folgt eine gezielte Auswahl zwischen Erstentwurf, Gegenentwurf und Unterschriftenfassung, kein ungefragter Bestandsbericht.
 
